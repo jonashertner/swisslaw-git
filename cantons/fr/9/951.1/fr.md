@@ -4,13 +4,12 @@ number: "951.1"
 title: Loi sur le tourisme
 short: LT
 language: fr
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-05-31
+version: 2022-01-01
+version_adopted: 2021-10-08
 adopted: 2021-10-08
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/951.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6337/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7223/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,15 +20,17 @@ Tourisme – L
 
 (LT)
 
-du 13.10.2005 (version entrée en vigueur le 01.01.2011)
+du 08.10.2021 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
-Vu l'article 57 de la Constitution du canton de Fribourg du 16 mai 2004;
+Vu les articles 54 et 57 de la Constitution du canton de Fribourg du 16 mai 2004 (Cst.);
 
 Vu la loi fédérale du 4 octobre 1985 sur les chemins pour piétons et les chemins de randonnée pédestre (LCPR);
 
-Vu le message du Conseil d'Etat du 9 mai 2005;
+Vu la loi du 17 novembre 1999 sur les subventions (LSub);
+
+Vu le message 2019-DEE-5 du Conseil d'Etat du 17 août 2021;
 
 Sur la proposition de cette autorité,
 
@@ -45,108 +46,132 @@ Décrète:
 
 <sup>2</sup> Ses buts sont notamment les suivants:
 
-- a) l'amélioration et la diversification de l'avenir économique du canton par le développement du tourisme;
-- b) le développement d'un tourisme de qualité, compatible notamment avec l'aménagement du territoire et la protection de l'environnement, de la nature et du paysage, selon les principes du développement durable;
-- c) la mise en valeur des richesses naturelles, historiques, culturelles et traditionnelles du canton;
-- d) l'exploitation des synergies entre le tourisme et les autres activités économiques, notamment celles du secteur primaire;
-- e) la définition des tâches des collectivités publiques et des organismes touristiques officiels;
-- f) la mise en place d'une organisation rationnelle visant à coordonner les activités des organismes touristiques officiels;
-- g) la définition des principes et modalités relatifs au statut, à la gestion et à la mise en valeur des réseaux de randonnée officiels.
+- a) le développement du tourisme dans le canton, ainsi que des infrastructures nécessaires, compatibles notamment avec l'aménagement du territoire, selon les principes du développement durable;
+- b) la mise en valeur des richesses naturelles, historiques, culturelles et traditionnelles du canton;
+- c) l'exploitation des synergies entre le tourisme et les autres activités économiques, notamment celles du secteur primaire;
+- d) la définition des tâches des collectivités publiques et des organismes touristiques officiels;
+- e) la mise en place d'une organisation rationnelle visant à coordonner les activités des organismes touristiques officiels;
+- f) le règlement des principes de financement des organes touristiques et le soutien aux investissements dans ce domaine;
+- g) la mise en valeur des réseaux de randonnées officiels.
 
 #### Art. 2
 
-**Attributions – En général**
+**Cadre et définitions**
 
-<sup>1</sup> Les tâches publiques relatives au tourisme sont réparties entre l'Etat, les communes et les organismes touristiques officiels mentionnés à l'article 6 al. 1.
+<sup>1</sup> Le territoire du canton est divisé en régions correspondant au moins à un district, tels que déterminé dans la Constitution cantonale, dans lesquels toutes les communes qui les intègrent sont organisées en associations chargées des questions touristiques.
+
+<sup>2</sup> Chaque région peut créer son organisation touristique régionale, dont les tâches sont déterminées par la présente loi.
+
+<sup>3</sup> Les organisations touristiques régionales peuvent contenir des structures juridiques dont les tâches sont reconnues par la présente loi.
+
+<sup>4</sup> Au sens de la présente loi, on entend par:
+
+- a) prestataire touristique, tout acteur du tourisme qui fournit une prestation pour celui-ci;
+- b) équipements touristiques, les infrastructures fixes ou mobiles indispensables à une offre touristique particulière et dont l'usage est directement nécessaire à cette dernière.
 
 #### Art. 3
+
+**Attributions – En général**
+
+<sup>1</sup> Les tâches publiques relatives au tourisme sont réparties entre l'Etat, les ​régions et les communes qui les intègrent, l'Union fribourgeoise du tourisme (ci-après: UFT) et les organisations touristiques régionales.
+
+<sup>2</sup> Dans l'exécution de leurs tâches, les organes chargés du tourisme s'efforcent de rationaliser, de coordonner et de digitaliser leurs activités et leurs procédures. Ils peuvent également exécuter leurs tâches dans le cadre de collaborations internes ou externes au canton.
+
+<sup>3</sup> Dans la mesure du possible et selon leurs besoins, ils favorisent la collaboration avec les centres de compétences cantonaux, notamment les Hautes écoles fribourgeoises.
+
+#### Art. 4
 
 **Attributions – Etat**
 
 <sup>1</sup> L'Etat a notamment pour tâches:
 
 - a) de définir et mettre en œuvre la politique, la planification et l'action de développement touristique au niveau cantonal;
-- b) de soutenir les activités de l'organisme touristique officiel cantonal, le cas échéant dans le cadre d'un mandat de prestations;
-- c) de soutenir l'action du Fonds d'équipement touristique et celle du Fonds de marketing touristique coordonné;
-- d) d'assumer en matière de réseaux de randonnée officiels les tâches, responsabilités et charges qui lui sont attribuées par la présente loi.
+- b) d'approuver la stratégie établie par l'organisme touristique officiel cantonal;
+- c) de soutenir les activités de cet organisme;
+- d) de soutenir l'action du Fonds d'équipement touristique et celle du Fonds de marketing touristique coordonné;
+- e) d'apporter le soutien financier à l'activité assumée par l'UFT en matière de réseaux de randonnée officiels.
 
 <sup>2</sup> Il exerce la haute surveillance sur les activités des organismes chargés du tourisme.
 
-<sup>3</sup> Il assume ses tâches par l'intermédiaire de la Direction en charge du tourisme[^3-1] (ci-après: la Direction). L'article 67 est réservé.
+<sup>3</sup> Il assume ses tâches par l'intermédiaire de la Direction en charge du tourisme[^4-1] (ci-après: la Direction).
 
-[^3-1]: Actuellement: Direction de l'économie et de l'emploi.
+[^4-1]: Actuellement: Direction de l'économie, de l'emploi et de la formation professionnelle.
 
-#### Art. 4
+#### Art. 5
+
+**Attributions – Régions**
+
+<sup>1</sup> Les ​régions ont notamment pour tâches:
+
+- a) de définir, d'approuver et de mettre en œuvre la politique, la stratégie, la planification et l'action de développement touristique au niveau régional;
+- b) de soutenir les activités de l'organisme touristique officiel compétent pour leur territoire;
+- c) de fournir les participations financières liées aux aides du Fonds d'équipement touristique;
+- d) d'assurer la mise en valeur touristique des réseaux de randonnée officiels de leur rayon d'activité.
+
+<sup>2</sup> Pour les tâches mentionnées à l'alinéa 1, elles peuvent recourir aux compétences des organisations touristiques régionales.
+
+#### Art. 6
 
 **Attributions – Communes**
 
 <sup>1</sup> Les communes ont notamment pour tâches:
 
-- a) de définir et mettre en œuvre la politique, la planification et l'action de développement touristique au niveau communal;
-- b) de soutenir les activités de l'organisme touristique officiel compétent pour leur territoire;
-- c) de fournir les participations financières liées aux aides du Fonds d'équipement touristique;
-- d) d'assumer en matière de réseaux de randonnée officiels les tâches, responsabilités et charges qui leur sont attribuées par la présente loi.
-
-#### Art. 5
-
-**Attributions – Organismes touristiques officiels**
-
-<sup>1</sup> Les organismes touristiques officiels actifs au niveau du canton, des régions touristiques et des communes ont pour tâches le marketing, l'information et l'accueil touristique; celles-ci peuvent s'exercer dans le cadre de collaborations internes ou externes au canton.
-
-<sup>2</sup> Les régions touristiques sont des espaces territoriaux naturellement et économiquement organisés autour d'un ou de plusieurs pôles touristiques cantonaux, au sens du plan directeur cantonal. Le règlement d'exécution fixe les modalités d'approbation de leur périmètre.
+- a) de participer à la définition et à la mise en œuvre de la politique, de la planification et l'action de développement touristique de la région dont elles font partie;
+- b) de fournir, le cas échéant, les participations financières liées aux aides du Fonds d'équipement touristique;
+- c) de participer à l'essor touristique par le soutien aux animations, événements et manifestations organisés sur leur territoire.
 
 ## 2 Organismes touristiques officiels
 
 ### 2.1 En général
 
-#### Art. 6
+#### Art. 7
 
-<sup>1</sup> Les organismes touristiques officiels sont:
+<sup>1</sup> Les organismes touristiques officiels sont l'UFT au niveau cantonal et les organisations touristiques régionales.
 
-- a) l'Union fribourgeoise du tourisme (ci-après: l'UFT);
-- b) les organisations touristiques régionales;
-- c) les sociétés de développement.
-
-<sup>2</sup> Les organismes touristiques officiels sont reconnus d'utilité publique. Ils sont exonérés d'impôts.
+<sup>2</sup> Les organismes touristiques officiels, ainsi que les structures juridiques qui y sont intégrées et qui réalisent des tâches touristiques pour eux, sont reconnus d'utilité publique. Ils sont exonérés d'impôts.
 
 <sup>3</sup> Ils peuvent accepter, en principe contre rétribution, des mandats confiés par des collectivités publiques ou des organismes privés, s'ils concernent des tâches liées au tourisme ou propres à favoriser leur mission.
 
 ### 2.2 Union fribourgeoise du tourisme
 
-#### Art. 7
+#### Art. 8
 
 **Statut**
 
-<sup>1</sup> L'UFT est une association de droit privé d'utilité publique, dont les statuts sont soumis à l'approbation du Conseil d'Etat.
+<sup>1</sup> L'UFT est une entité juridique de droit privé d'utilité publique, dont les statuts sont soumis à l'approbation du Conseil d'Etat.
 
-<sup>2</sup> L'Etat est représenté d'office au sein des instances dirigeantes de l'UFT.
+<sup>2</sup> L'Etat ainsi que trois représentants actifs des principaux domaines de la branche touristique sont représentés d'office au sein des instances dirigeantes de l'UFT.
 
 <sup>3</sup> L'UFT présente chaque année au Conseil d'Etat son programme d'activité, son rapport d'activité, son budget et ses comptes.
 
-<sup>4</sup> Elle donne son préavis à l'Etat chaque fois que celui-ci le requiert pour une décision susceptible d'avoir une incidence sur le développement touristique.
+<sup>4</sup> Elle donne son préavis à l'Etat chaque fois que celui-ci le requiert ou la consulte pour une décision susceptible d'avoir une incidence sur le développement touristique.
 
-#### Art. 8
+#### Art. 9
 
 **Attributions**
 
 <sup>1</sup> L'UFT a notamment pour tâches:
 
 - a) de représenter les intérêts touristiques du canton sur les plans cantonal, national et international;
-- b) de promouvoir et faire connaître l'offre générale du tourisme fribourgeois, en collaboration avec les organisations touristiques régionales, les sociétés de développement et les milieux professionnels;
-- c) de favoriser l'essor d'un tourisme fondé sur la qualité de l'accueil et compatible avec les aspirations des hôtes et de la population;
-- d) d'approuver les périmètres officiels des régions touristiques;
-- e) de statuer sur la reconnaissance officielle des organismes touristiques mentionnés à l'article 6 al. 1 let. b et c;
+- b) d'établir une stratégie touristique cantonale élaborée en coordination avec les régions touristiques et les prestataires;
+- c) de fournir les prestations de services et de préavis relevant de la politique de développement touristique cantonale;
+- d) de promouvoir, au besoin de commercialiser et de faire connaître l'offre générale du tourisme fribourgeois, en collaboration avec les organisations touristiques régionales et les milieux professionnels;
+- e) de favoriser l'essor d'un tourisme fondé sur la qualité de l'accueil et compatible avec les aspirations des hôtes et de la population, dans le respect du développement durable;
 - f) de fixer les objectifs et stratégies du marketing touristique cantonal;
-- g) d'élaborer, d'entente avec les organisations touristiques régionales, les programmes de marketing coordonné et de soutenir les projets promotionnels des régions touristiques par le biais du Fonds de marketing, conformément aux articles 23 à 25;
-- h) de fournir envers l'Etat les prestations de services et de préavis relevant de la politique de développement touristique cantonale;
-- i) d'encaisser la taxe de séjour pour le compte des organismes officiels qui le désirent;
-- j) de mettre en œuvre les mesures utiles de balisage et de mise en valeur coordonnée des réseaux de randonnée officiels, conformément aux articles 58 et suivants.
+- g) d'élaborer, d'entente avec les organisations touristiques régionales, les programmes de marketing coordonné et de soutenir les projets promotionnels des régions touristiques par le biais du Fonds de marketing;
+- h) de statuer sur la reconnaissance officielle des organismes touristiques;
+- i) d'encaisser la taxe de séjour pour le compte des organismes officiels;
+- j) de mettre en valeur sur le plan cantonal les réseaux de randonnée officiels et d'assumer les tâches qui lui sont conférées par la législation sur la mobilité en matière de réseaux de randonnée officiels.
 
-#### Art. 9
+<sup>2</sup> Pour l'exécution de tout ou partie des tâches qui lui sont conférées, l'UFT peut mandater des prestataires externes ou des organisations privées spécialisées reconnues.
+
+<sup>3</sup> Le règlement d'exécution désigne les organisations privées spécialisées reconnues et fixe les conditions relatives à l'octroi et au contenu des mandats.
+
+#### Art. 10
 
 **Ressources financières**
 
-<sup>1</sup> Les principales ressources de l'UFT sont:
+<sup>1</sup> Les principales ressources financières de l'UFT sont:
 
 - a) une contribution annuelle de l'Etat, portée au budget de celui-ci;
 - b) le produit de la taxe cantonale de séjour;
@@ -154,607 +179,426 @@ Décrète:
 
 ### 2.3 Organisations touristiques régionales
 
-#### Art. 10
+#### Art. 11
 
 **Statut**
 
-<sup>1</sup> Les organisations touristiques régionales sont des associations de droit privé d'utilité publique, groupant notamment les sociétés de développement reconnues de leur rayon d'activité.
+<sup>1</sup> Les organisations touristiques régionales, ainsi que les structures juridiques reconnues au sens de l'article 12 qui y sont intégrées et qui réalisent des tâches touristiques pour elles, sont des ​entités de droit privé d'utilité publique.
 
-<sup>2</sup> Il peut s'agir d'associations ayant pour tâche la promotion générale de la région.
+<sup>2</sup> Les associations ayant pour tâche la promotion générale de la région peuvent exercer cette fonction.
 
-#### Art. 11
+#### Art. 12
 
 **Reconnaissance**
 
-<sup>1</sup> Pour obtenir leur reconnaissance officielle par l'UFT, les organisations touristiques régionales doivent:
+<sup>1</sup> Les organisations touristiques régionales et les structures juridiques qui y sont intégrées doivent obtenir une reconnaissance officielle de l'UFT. Pour ce faire, elles doivent:
 
 - a) réunir dans leur sphère de compétence les valeurs touristiques essentielles de la région;
-- b) grouper toutes les sociétés de développement reconnues de leur rayon d'activité;
-- c) assumer pour l'ensemble des sociétés de développement concernées les tâches de promotion concernant leur offre;
-- d) et disposer sur le plan exécutif de structures professionnelles et d'aptitudes techniques appropriées ainsi que de moyens conformes aux besoins de leur mission.
+- b) assumer les tâches de promotion concernant l'offre touristique;
+- c) disposer de structures professionnelles et d'aptitudes techniques appropriées ainsi que de moyens conformes aux besoins de leur mission;
+- d) justifier auprès de l'UFT l'utilisation de la taxe de séjour dans l'intérêt des hôtes.
 
-<sup>2</sup> Le règlement d'exécution définit la procédure de reconnaissance et les dispositions statutaires obligatoires des organisations touristiques régionales ainsi que les exigences minimales concernant leurs structures.
+<sup>2</sup> Le règlement définit la procédure de reconnaissance et les dispositions statutaires obligatoires des organisations touristiques régionales ainsi que les exigences minimales concernant leurs structures.
 
 <sup>3</sup> Seules les organisations touristiques régionales reconnues peuvent bénéficier des prestations financières du Fonds de marketing touristique coordonné.
 
-#### Art. 12
+#### Art. 13
 
 **Attributions**
 
 <sup>1</sup> Les tâches des organisations touristiques régionales sont principalement les suivantes:
 
-- a) assurer la coordination et l'exécution des activités de marketing touristique sur le plan régional;
-- b) veiller à l'essor d'un tourisme fondé sur la qualité de l'accueil et compatible avec les aspirations des hôtes et de la population.
-
-#### Art. 13
-
-**Activités de marketing**
-
-<sup>1</sup> Relèvent de l'activité de marketing les actions de publicité, de communication, de commercialisation, de promotion des ventes et de représentation promotionnelle ainsi que les activités analogues aptes à favoriser la notoriété de l'offre touristique régionale et destinées à stimuler et à susciter la demande touristique en provenance de l'extérieur de la région.
-
-<sup>2</sup> N'en font en revanche pas partie les activités réceptives relevant de la sphère de compétences propre des sociétés de développement.
+- a) participer à l'établissement de la stratégie touristique de la région dont elles font partie;
+- b) assurer la coordination et l'exécution des activités de marketing et de promotion touristique sur le plan régional;
+- c) veiller à l'essor d'un tourisme fondé sur la qualité de l'accueil et compatible avec les aspirations des hôtes et de la population, notamment par le développement de l'offre, dans le respect du développement durable;
+- d) l'accueil et l'assistance touristiques;
+- e) la mise en valeur des richesses naturelles, historiques, culturelles et traditionnelles de leur rayon d'activité;
+- f) l'exploitation, la signalisation ou la surveillance d'équipements publics favorisant l'essor touristique et l'agrément du séjour des hôtes;
+- g) l'organisation ou le soutien de l'animation d'intérêt touristique, des événements et des manifestations.
 
 #### Art. 14
 
-**Retrait de la reconnaissance**
+**Activités touristiques**
 
-<sup>1</sup> Si une organisation touristique régionale ne satisfait plus aux exigences des articles 11 et suivants ou ne justifie pas d'une activité conforme à sa mission, l'UFT procède au retrait de la reconnaissance officielle.
+<sup>1</sup> Pour les attributions relevant de l'activité touristique, les organisations touristiques régionales peuvent déléguer certaines tâches à des organisations locales.
 
 #### Art. 15
 
-**Suppléance**
+**Activités de marketing**
 
-<sup>1</sup> En l'absence d'une organisation touristique régionale reconnue, les attributions et prérogatives définies par la loi sont conférées à la société de développement du pôle cantonal concerné.
-
-<sup>2</sup> Le cas échéant, l'article 11 al. 1 let. c et d et al. 2 et 3 ainsi que l'article 14 sont applicables par analogie.
-
-### 2.4 Sociétés de développement
+<sup>1</sup> Relèvent de l'activité de marketing les actions de publicité, de communication, de commercialisation, de promotion des ventes et de représentation promotionnelle, ainsi que les activités analogues aptes à favoriser la notoriété de l'offre touristique régionale et destinées à stimuler et à susciter la demande touristique en provenance de l'extérieur de la région.
 
 #### Art. 16
 
-**Statut**
+**Retrait de la reconnaissance**
 
-<sup>1</sup> Les sociétés de développement sont des associations de droit privé d'utilité publique.
-
-<sup>2</sup> Une société de développement exerce ses activités en principe sur le plan communal. Elle peut toutefois les étendre à plusieurs communes en principe contiguës; les autorités communales intéressées sont dans ce cas consultées au préalable.
+<sup>1</sup> Si une organisation touristique régionale ou la structure juridique qui y est intégrée ne satisfait plus aux exigences des articles 12 et suivants ou ne justifie pas d'une activité conforme à sa mission, l'UFT procède au retrait de la reconnaissance officielle.
 
 #### Art. 17
 
-**Reconnaissance – En général**
+**Suppléance**
 
-<sup>1</sup> Pour obtenir leur reconnaissance officielle par l'UFT, les sociétés de développement doivent satisfaire aux exigences de base suivantes:
+<sup>1</sup> En l'absence d'une organisation touristique régionale reconnue, les attributions et prérogatives définies par la loi sont conférées à une autre organisation touristique régionale bénéficiant de la reconnaissance de ​l'UFT.
 
-- a) comprendre un pôle touristique cantonal ou régional, au sens du plan directeur cantonal, ou, à défaut, se référer à des réalités et activités touristiques minimales;
-- b) adhérer à l'organisme touristique régional et appuyer son action touristique;
-- c) justifier de prestations effectives en faveur des hôtes, s'appuyant sur une organisation interne dûment structurée et des moyens financiers appropriés;
-- d) bénéficier du soutien officiel et financier de la part de la ou des communes concernées.
+<sup>2</sup> Le cas échéant, l'article 12 al. 1 let. b et c et al. 2 et 3 ainsi que l'article 16 sont applicables par analogie.
 
-<sup>2</sup> Le règlement d'exécution fixe les minima requis, les dispositions statutaires obligatoires ainsi que les formalités administratives.
+## 3 Financement
+
+### 3.1 Fonds de marketing touristique coordonné
 
 #### Art. 18
 
-**Reconnaissance – Validité et effets**
+**But**
 
-<sup>1</sup> Sous réserve de l'article 22, la reconnaissance officielle d'une société de développement a une validité de cinq ans. A l'échéance, son renouvellement est soumis à examen, sur la base des conditions générales d'octroi.
-
-<sup>2</sup> Seules les sociétés de développement reconnues officiellement sont considérées comme organisme touristique au sens de l'article 6 et habilitées à ce titre à financer leurs activités réceptives au moyen de la taxe locale de séjour.
-
-<sup>3</sup> Une reconnaissance officielle non renouvelée devient caduque au plus tard le 31 décembre de l'année en cours.
+<sup>1</sup> Le Fonds de marketing touristique coordonné (ci-après: le Fonds de marketing) sert au financement partiel des projets admis aux programmes annuels de marketing coordonné cantonal.
 
 #### Art. 19
 
-**Tâches**
+**Ressources**
 
-<sup>1</sup> Les sociétés de développement ont notamment pour tâches:
-
-- a) l'accueil et l'assistance touristiques;
-- b) la mise en valeur des richesses naturelles, historiques, culturelles et traditionnelles de leur rayon d'activité;
-- c) l'exploitation, la signalisation ou la surveillance d'équipements publics favorisant l'essor touristique et l'agrément du séjour des hôtes;
-- d) l'organisation de l'animation d'intérêt touristique;
-- e) la participation à la promotion et à l'information touristiques assurées au niveau de la région.
+<sup>1</sup> Le Fonds de marketing est alimenté notamment par une contribution annuelle de l'Etat, fixée par voie budgétaire.
 
 #### Art. 20
 
-**Information touristique**
+**Gestion**
 
-<sup>1</sup> Les tâches d'information touristique relative à l'offre de la région sont assumées de manière centralisée par la société de développement du pôle touristique cantonal concerné.
+<sup>1</sup> Le Fonds de marketing est organisé et géré par l'UFT, en coordination avec les représentants des organisations touristiques régionales et des prestataires touristiques.
 
-<sup>2</sup> En accord avec l'UFT et d'entente entre les organismes régionaux et locaux concernés, les tâches d'information touristique peuvent être transférées à l'organisation touristique régionale; ce transfert peut s'étendre à d'autres tâches réceptives. Le règlement d'exécution fixe les conditions et la procédure.
+<sup>2</sup> L'UFT en assume le secrétariat et en tient la comptabilité.
 
-<sup>3</sup> Le cas échéant, l'organisme attributaire est subrogé dans les droits et obligations concernant les taxes régionale et locale de séjour.
+<sup>3</sup> Le taux de contribution aux projets selon l'article 18 est au maximum de 50 % des dépenses.
+
+<sup>4</sup> Le règlement fixe les dépenses prises en considération et les conditions d'affectation.
+
+### 3.2 Taxe de séjour
+
+### 3.2.1 Principe et assujettissement
 
 #### Art. 21
 
-**Obligation de rendre compte**
+**Taxes cantonale et régionale**
 
-<sup>1</sup> Les sociétés de développement soumettent leurs comptes annuels à l'UFT. Elles portent en outre leur programme et rapport d'activité annuels à la connaissance de l'organisation touristique régionale.
+<sup>1</sup> Des taxes cantonale et régionale de séjour sont perçues sur l'ensemble du territoire cantonal, au moyen d'une plateforme en ligne exploitée par l'organe chargé de leur encaissement.
 
 #### Art. 22
 
-**Retrait de la reconnaissance**
+**Taxe simplifiée**
 
-<sup>1</sup> Si une société de développement ne satisfait plus aux exigences de la présente loi, notamment si elle ne justifie pas d'une activité conforme à ses tâches, l'UFT procède au retrait de la reconnaissance officielle.
-
-## 3 Fonds de marketing touristique coordonné
+<sup>1</sup> Une taxe simplifiée, comprenant les taxes cantonale et régionale, peut être établie sur la base d'un tarif unifié, fixé d'entente avec l'UFT.
 
 #### Art. 23
 
-**But**
+**Affectation**
 
-<sup>1</sup> Le Fonds de marketing touristique coordonné (ci-après: le Fonds de marketing) sert au financement partiel des projets des régions admis aux programmes annuels de marketing coordonné cantonal.
+<sup>1</sup> Le produit des taxes de séjour cantonale et régionale est utilisé dans l'intérêt des hôtes.
+
+<sup>2</sup> Il contribue notamment à financer les prestations d'accueil, d'information, d'animation, d'événements, ​de manifestations et de mobilité, ainsi que les équipements touristiques d'intérêt général y relatifs.
+
+<sup>3</sup> Le produit des taxes est redistribué sur la base des informations données régulièrement par les organisations touristiques régionales à l'UFT sur son utilisation dans l'intérêt des hôtes.
+
+<sup>4</sup> Le solde du produit des taxes est réparti par l'UFT entre une réserve constituée pour une utilisation future dans l'intérêt des hôtes et le Fonds d'équipement touristique.
 
 #### Art. 24
 
-**Ressources**
-
-<sup>1</sup> Le Fonds de marketing est alimenté notamment:
-
-- a) par une contribution annuelle de l'Etat, fixée par voie budgétaire;
-- b) par les dons et les legs.
-
-#### Art. 25
-
-**Gestion**
-
-<sup>1</sup> Le Fonds de marketing est géré par l'UFT, qui en assume le secrétariat et en tient la comptabilité.
-
-<sup>2</sup> Le taux de contribution aux projets selon l'article 23 est au maximum de 50 % des dépenses.
-
-<sup>3</sup> Le règlement d'exécution fixe les dépenses prises en considération, les conditions d'affectation ainsi que les dispositions de fonctionnement.
-
-## 4 Taxes de séjour
-
-### 4.1 Principe et assujettissement
-
-#### Art. 26
-
-**Taxe cantonale**
-
-<sup>1</sup> Une taxe cantonale de séjour est perçue sur l'ensemble du territoire cantonal.
-
-#### Art. 27
-
-**Taxe régionale**
-
-<sup>1</sup> Une taxe régionale de séjour peut être perçue dans chaque région touristique pour le financement des tâches d'information visées par l'article 20.
-
-#### Art. 28
-
-**Taxe locale**
-
-<sup>1</sup> Une taxe locale de séjour peut être perçue dans le rayon d'activité de chaque société de développement reconnue.
-
-#### Art. 29
-
-**Affectation**
-
-<sup>1</sup> Le produit des taxes de séjour cantonale, régionale et locale est utilisé dans l'intérêt des hôtes.
-
-<sup>2</sup> Il contribue notamment à financer les prestations d'accueil, d'information et d'animation ainsi que les équipements touristiques d'intérêt général.
-
-#### Art. 30
-
-**Personnes assujetties**
+**Assujettissement**
 
 <sup>1</sup> Sont astreints au paiement des taxes de séjour les hôtes de passage ou en séjour notamment:
 
-- a) dans les établissements hôteliers ou analogues, apparthôtels, motels, auberges de jeunesse, institutions à service hôtelier en tout genre, pensionnats, instituts, centres de formation, maisons d'hébergement collectif, cabanes ou maisons de clubs, appartements, chambres individuelles;
-- b) dans les résidences secondaires telles que chalets, appartements de vacances et bateaux habitables;
+- a) dans les établissements d'hébergement tels que définis dans le règlement;
+- b) dans les résidences secondaires, soit les chalets, les appartements de vacances et les bateaux habitables, tels que définis dans le règlement;
 - c) dans les établissements de cure ou paramédicaux;
 - d) dans les tentes, caravanes, habitations tractées ou autotractées.
 
-#### Art. 31
+#### Art. 25
 
 **Exemption**
 
 <sup>1</sup> Ne sont pas assujettis au paiement de la taxe de séjour:
 
-- a) les personnes domiciliées sur le territoire de la commune où s'exerce la perception de la taxe;
-- b) les personnes en séjour professionnel régulier, pour l'unité d'hébergement dont elles disposent contractuellement à cet effet;
-- c) les personnes incorporées dans l'armée ou la protection civile ainsi que les pompiers, lorsque ces personnes sont en service commandé;
-- d) les patients ou patientes et les pensionnaires d'hôpitaux, de homes et d'établissements à caractère social pour handicapé-e-s ou personnes âgées;
-- e) les enfants âgés de moins de 16 ans, accompagnant leurs parents ou leurs représentants légaux.
+- a) les personnes justifiant d'un séjour de plus de 30 jours consécutifs par année pour des raisons professionnelles et qui sont hébergées dans un objet acquis ou loué à cet effet;
+- b) les personnes incorporées dans l'armée ou la protection civile ainsi que les pompiers, lorsque ces personnes sont en service commandé;
+- c) les patients ou patientes et les pensionnaires d'hôpitaux, de homes et d'établissements à caractère social pour handicapé-e-s ou personnes âgées, à l'exception des établissements de cure ou paramédicaux;
+- d) les propriétaires de bateaux habitables, si l'emplacement portuaire ou l'amarrage se situe au lieu de domicile du propriétaire;
+- e) les enfants âgés de moins de 16 ans;
+- f) les personnes domiciliées sur le territoire de la commune où s'exerce la perception de la taxe, hormis les propriétaires d'objets tels que définis à l'article 24 al. 1 let. b.
 
-<sup>2</sup> Si une société de développement exerce son activité sur le territoire de plusieurs communes, les personnes domiciliées dans l'une de celles-ci sont également exemptées.
-
-<sup>3</sup> La notion de domicile est celle qui est définie dans le code civil suisse.
-
-#### Art. 32
+#### Art. 26
 
 **Protection des données**
 
 <sup>1</sup> Les informations personnelles enregistrées dans le cadre de la perception de la taxe de séjour sont traitées conformément aux exigences de la législation sur la protection des données. Leur exploitation statistique est autorisée.
 
-### 4.2 Calcul de la taxe
+### 3.2.2 Calcul de la taxe
 
-#### Art. 33
+#### Art. 27
 
 **Mode de perception**
 
 <sup>1</sup> La taxe de séjour est perçue par nuitée, par mois ou par forfait.
 
-#### Art. 34
+#### Art. 28
 
 **Tarif des taxes**
 
-<sup>1</sup> Le Conseil d'Etat établit le tarif des taxes locales de séjour après consultation des sociétés de développement, sur la base de leur classification et en fonction des catégories d'hébergement.
+<sup>1</sup> Les taxes cantonale et régionale de séjour sont fixées par le règlement.
 
-<sup>2</sup> Les sociétés de développement font l'objet d'une classification établie par le Conseil d'Etat sur le préavis de l'UFT, tenant compte des prestations et des services mis à la disposition des hôtes de la région.
+#### Art. 29
 
-<sup>3</sup> Les taxes cantonale et régionale de séjour sont fixées par le règlement d'exécution.
+**Taxe à la nuitée**
 
-#### Art. 35
+<sup>1</sup> La taxe à la nuitée est limitée comme suit:
 
-**Limites de la taxe à la nuitée**
+- a) au maximum 3 francs par nuitée pour la taxe cantonale de séjour;
+- b) au maximum 3 francs par nuitée pour la taxe régionale de séjour.
 
-<sup>1</sup> La taxe cantonale de séjour est au maximum de 1 fr. 50 par nuitée et par personne.
-
-<sup>2</sup> La taxe régionale de séjour est au maximum de 0 fr. 50 par nuitée et par personne.
-
-<sup>3</sup> La taxe locale de séjour est au maximum de 2 francs par nuitée et par personne.
-
-#### Art. 36
+#### Art. 30
 
 **Taxe mensuelle**
 
-<sup>1</sup> La taxe de séjour est perçue par mois ou fraction de mois excédant dix jours pour les personnes en séjour en institut, pensionnat, université, appartement et chambre pour étudiants ou tout autre établissement similaire, pour autant que la durée du séjour soit supérieure à trente jours.
+<sup>1</sup> La taxe mensuelle de séjour est limitée comme suit:
 
-<sup>2</sup> Elle est au maximum de:
+- a) au maximum 5 francs par mois et par personne pour la taxe cantonale de séjour;
+- b) au maximum 5 francs par mois et par personne pour la taxe régionale de séjour.
 
-- a) 2 fr. 50 par mois et par personne pour la taxe cantonale de séjour;
-- b) 0 fr. 50 par mois et par personne pour la taxe régionale de séjour;
-- c) 5 francs par mois et par personne pour la taxe locale de séjour.
+#### Art. 31
 
-#### Art. 37
+**Taxe forfaitaire et par objet – Cas**
 
-**Taxe forfaitaire – Cas**
-
-<sup>1</sup> Sont soumises au paiement par forfait de la taxe de séjour les catégories de personnes suivantes:
+<sup>1</sup> Sont soumises au paiement de la taxe de séjour par forfait et par objet les catégories de personnes suivantes:
 
 - a) les propriétaires de résidences secondaires immobilières ou mobilières;
 - b) les locataires de résidences secondaires au bénéfice d'un contrat de location dont la durée est supérieure à soixante jours;
 - c) les locataires de places de camping pour une durée supérieure à soixante jours par année;
-- d) les propriétaires de bateaux habitables au bénéfice d'un contrat de location d'emplacement portuaire d'une durée supérieure à trente jours.
+- d) les propriétaires de bateaux habitables au bénéfice d'un contrat de location d'emplacement portuaire ou d'amarrage d'une durée supérieure à trente jours.
 
-<sup>2</sup> Sont compris dans le forfait les membres proches de la famille des personnes mentionnées à l'alinéa 1. Le règlement d'exécution définit les personnes concernées.
+<sup>2</sup> Sont compris dans le forfait les membres proches de la famille des personnes mentionnées à l'alinéa 1. Le règlement définit les personnes concernées.
 
-#### Art. 38
+#### Art. 32
 
-**Taxe forfaitaire – Calcul**
+**Taxe forfaitaire et par objet – Calcul**
 
 <sup>1</sup> La perception forfaitaire de la taxe se fait sur la base de:
 
-- a) 150 nuitées, par année, pour les résidences secondaires (art. 37 al. 1 let. a et b);
-- b) 120 nuitées, par année et par parcelle, pour les places de camping (art. 37 al. 1 let. c);
-- c) 60 nuitées, par année, pour les bateaux habitables.
+- a) 150 nuitées par année, pour les résidences secondaires (art. 31 al. 1 let. a et b);
+- b) 120 nuitées par année et par parcelle, pour les places de camping (art. 31 al. 1 let. c);
+- c) 60 nuitées par année, pour les bateaux habitables (art. 31 al. 1 let. d).
 
-### 4.3 Perception et encaissement de la taxe
+### 3.2.3 Perception et encaissement de la taxe
 
-#### Art. 39
+#### Art. 33
 
 **Perception**
 
-<sup>1</sup> La perception des taxes cantonale, régionale et locale de séjour est assumée par la Centrale fribourgeoise d'encaissement de la taxe de séjour (ci-après: la Centrale), exploitée par l'UFT, ou par les sociétés de développement.
+<sup>1</sup> La perception des taxes cantonale et régionale de séjour et son contrôle sont assumés par la Centrale fribourgeoise d'encaissement de la taxe de séjour (ci-après: la Centrale), exploitée par l'UFT, qui la rétrocède aux ayants droit selon la loi.
 
-<sup>2</sup> La Centrale ou les sociétés de développement rétrocèdent aux organismes concernés les taxes leur revenant, sous déduction d'une commission de 3 % à titre de participation aux charges d'encaissement.
+<sup>2</sup> La Centrale ​peut retenir une commission ​d'au maximum 5 %, à titre de participation aux ​frais d'encaissement des taxes.
 
-<sup>3</sup> Les sociétés de développement observent l'activité touristique dans leur rayon d'activité et fournissent à la Centrale les informations et l'assistance aptes à permettre une perception équitable et complète.
-
-#### Art. 40
+#### Art. 34
 
 **Encaissement**
 
 <sup>1</sup> L'exploitant d'un établissement hôtelier ou parahôtelier, d'une place de camping ou de toute autre forme d'hébergement est responsable de l'encaissement de la taxe de séjour due par les hôtes.
 
-<sup>2</sup> Le propriétaire qui loue sa résidence secondaire ou d'autres locaux ou places d'hébergement au sens de l'article 30 ou les met à la disposition d'hôtes assujettis au paiement de la taxe de séjour est tenu de déclarer les nuitées à la Centrale. Il procède à l'encaissement de la taxe, sous peine de répondre personnellement du paiement de celle-ci.
+<sup>2</sup> Les plateformes en ligne de réservation et de location d'hébergements peuvent encaisser la taxe de séjour simplifiée au sens de l'article 22, sur la base d'une convention passée avec la Centrale.
 
-<sup>3</sup> Les montants impayés dans les délais prescrits sont frappés d'un intérêt moratoire de 5 % l'an ainsi que d'une pénalité de retard fixée par le règlement d'exécution.
+<sup>3</sup> Le propriétaire qui loue sa résidence secondaire ou d'autres locaux ou places d'hébergement au sens de l'article 24 ou les met à la disposition d'hôtes assujettis au paiement de la taxe de séjour est tenu de déclarer les nuitées à la Centrale. Il procède à l'encaissement de la taxe, sous peine de répondre personnellement du paiement de celle-ci.
 
-<sup>4</sup> Un émolument de 20 à 100 francs est perçu lors de tout rappel, sommation ou phase de procédure d'exécution forcée.
+<sup>4</sup> Les montants impayés dans les délais prescrits sont frappés d'un intérêt moratoire de 5 % l'an, ainsi que d'une pénalité de retard fixée par le règlement.
 
-#### Art. 41
+<sup>5</sup> Un émolument est perçu lors de tout rappel, sommation ou phase de procédure d'exécution forcée. Il est fixé par le règlement.
+
+#### Art. 35
 
 **Taxation d'office**
 
-<sup>1</sup> Les débiteurs de la taxe de séjour ainsi que les responsables de son encaissement qui fournissent des indications fausses ou incomplètes ou qui refusent de donner les renseignements requis font l'objet, après sommation infructueuse, d'une taxation d'office.
+<sup>1</sup> Les débiteurs de la taxe de séjour, ainsi que les responsables de son encaissement qui fournissent des indications fausses ou incomplètes ou qui refusent de donner les renseignements requis, font l'objet, après sommation infructueuse, d'une taxation d'office.
 
 <sup>2</sup> La taxation d'office est faite par la Centrale, sur la base d'éléments connus, de supputations et de comparaisons avec d'autres situations semblables.
 
-<sup>3</sup> Un émolument de 50 à 500 francs est perçu lors de la taxation d'office.
+<sup>3</sup> Un émolument est perçu lors de la taxation d'office. Il est fixé par le règlement.
 
-#### Art. 42
+### 3.3 Taxe de tourisme
 
-**…**
+#### Art. 36
 
-## 5 Taxe de tourisme
+**Principe et assujettissement**
 
-#### Art. 43
+<sup>1</sup> Les communes peuvent percevoir une taxe de tourisme annuelle auprès des personnes physiques et morales exerçant des activités bénéficiant des retombées directes ou indirectes du tourisme sur le ​territoire communal.
 
-**Principe**
+<sup>2</sup> La taxe est fixée par la commune qui la perçoit. Elle ne peut excéder 5000 francs par année.
 
-<sup>1</sup> Les communes peuvent percevoir une taxe de tourisme annuelle, dont le montant ne peut-être inférieur à 100 francs ni supérieur à 5000 francs.
-
-#### Art. 44
+#### Art. 37
 
 **Affectation**
 
-<sup>1</sup> Le produit de la taxe de tourisme est affecté exclusivement au financement des tâches légales de la société de développement exerçant ses activités sur le territoire communal.
+<sup>1</sup> Le produit de la taxe de tourisme est affecté exclusivement au financement d'actions touristiques événementielles ou promotionnelles organisées par la ​commune dans laquelle celle-ci est prélevée.
 
-#### Art. 45
-
-**Assujettissement**
-
-<sup>1</sup> Peuvent être assujetties à la taxe de tourisme les personnes physiques et morales exerçant sur le territoire communal des activités bénéficiant des retombées directes ou indirectes du tourisme.
-
-#### Art. 46
+#### Art. 38
 
 **Règlement communal**
 
 <sup>1</sup> Le règlement communal définit le cercle des assujettis et le montant de la taxe.
 
-## 6 Fonds d'équipement touristique
+## 4 Equipements touristiques – Aides
 
-### 6.1 Dispositions générales
+### 4.1 Fonds d'équipement touristique
 
-#### Art. 47
+#### Art. 39
 
 **But**
 
-<sup>1</sup> Le Fonds d'équipement touristique (ci-après: le Fonds) sert au financement de projets touristiques sur le territoire des pôles touristiques cantonaux et régionaux.
+<sup>1</sup> Le Fonds d'équipement touristique (ci-après: le Fonds) sert à l'aide au financement d'équipements touristiques selon l'article 2 al. 4 let. b, construits ou à construire sur le territoire ​du canton.
 
-<sup>2</sup> Peuvent également bénéficier de l'aide du Fonds les équipements d'importance cantonale nécessairement localisés à l'extérieur d'un pôle touristique ou qui complètent l'offre touristique cantonale de manière importante.
-
-<sup>3</sup> L'article 55 al. 1 est réservé.
-
-#### Art. 48
+#### Art. 40
 
 **Ressources**
 
-<sup>1</sup> Le Fonds est alimenté par une contribution annuelle de l'Etat, fixée par voie budgétaire, de 500'000 francs au minimum, par une partie du produit des patentes conformément à la législation relative aux établissements publics et par les intérêts du capital.
+<sup>1</sup> Le Fonds est alimenté par une contribution annuelle de l'Etat fixée par voie budgétaire d'au moins 500'000 francs, par une partie du produit des patentes conformément à la législation relative aux établissements publics, par le revenu de la taxe de séjour non utilisé en faveur des hôtes selon l'article 22 al. 4 et par les intérêts du capital.
 
-<sup>2</sup> Des versements supplémentaires au Fonds peuvent être effectués par voie de décret pour le financement d'objets de grande importance et d'intérêt général pour l'économie touristique cantonale.
+<sup>2</sup> Des versements supplémentaires au Fonds peuvent être effectués par voie de décret.
 
-#### Art. 49
+#### Art. 41
 
 **Comité de gestion**
 
-<sup>1</sup> Le Fonds est géré par un comité de gestion (ci-après: le comité de gestion) de neuf à onze membres nommés par le Conseil d'Etat, présidé par le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice en charge du tourisme.
+<sup>1</sup> Le Fonds est géré par un comité de gestion composé de sept à ​neuf membres nommés par le Conseil d'Etat, présidé par le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice en charge du tourisme.
 
-<sup>2</sup> Le Conseil d'Etat édicte les dispositions concernant l'organisation et le fonctionnement du comité de gestion.
+<sup>2</sup> Le règlement règle l'organisation et le fonctionnement du comité de gestion.
 
-<sup>3</sup> Le comité de gestion peut soumettre ses décisions d'aide à des conditions d'octroi spécifiques à chaque dossier ou type d'équipement.
+#### Art. 42
 
-#### Art. 50
+**Décisions du comité de gestion**
+
+<sup>1</sup> Les décisions d'aide au financement prises par le comité de gestion ont le caractère de décisions administratives au sens du Code de procédure et de juridiction administrative et de la loi sur les subventions.
+
+<sup>2</sup> Le comité de gestion peut soumettre ses décisions d'aide à des conditions d'octroi spécifiques à chaque dossier ou type d'équipement.
+
+<sup>3</sup> Les décisions et les conditions par lesquelles une aide est octroyée peuvent faire l'objet d'une mention au registre foncier.
+
+#### Art. 43
 
 **Conditions générales de l'aide**
 
 <sup>1</sup> L'aide du Fonds est possible à condition que:
 
 - a) le projet ne ressortisse pas aux tâches ordinaires des collectivités publiques;
-- b) le projet tienne compte du contexte de l'économie régionale;
-- c) la ou les collectivités régionales et communes intéressées accordent une participation au projet si celui-ci est d'intérêt général;
-- d) les disponibilités planifiées du Fonds le permettent.
+- b) il soit démontré que le projet ait une viabilité et un impact économiques positifs sur le tourisme, notamment en terme de visiteurs, de nuitées ou de passages;
+- c) selon sa nature, le projet tienne compte de la durabilité, notamment sur l'angle économique, social et environnemental;
+- d) la ou les régions et communes intéressées accordent une participation aux projets pour lesquelles celle-ci est prévue par la loi;
+- e) les disponibilités planifiées du Fonds le permettent;
+- f) le projet pour lequel l'aide est requise n'a pas encore été mis en chantier, à moins que le comité du Fonds l'ait autorisé, sans garantie toutefois que l'aide soit finalement accordée.
 
-<sup>2</sup> Le Fonds peut être mis à contribution pour compléter l'aide octroyée par d'autres organismes poursuivant les mêmes buts.
+<sup>2</sup> Le règlement fixe les conditions liées à l'octroi de l'aide et la procédure de demande.
 
-<sup>3</sup> Le Conseil d'Etat fixe les conditions liées à l'octroi de la contribution et la procédure de demande.
+<sup>3</sup> Il n'y a pas un droit à obtenir l'aide du Fonds.
 
-<sup>4</sup> Il n'y a pas un droit à obtenir l'aide du Fonds.
+#### Art. 44
 
-### 6.2 Aide ordinaire
+**Investissement de référence**
+
+<sup>1</sup> L'investissement de référence pour le calcul de l'aide s'élève jusqu'à 100 % des dépenses de la partie touristique d'un objet pour lequel l'aide du fonds est demandée.
+
+<sup>2</sup> Dans le cas d'équipements admis comme étant d'importance cantonale au sens de l'article 51, l'investissement de référence peut s'élever jusqu'à 100 % des dépenses de la partie touristique.
+
+#### Art. 45
+
+**Modalités de versement**
+
+<sup>1</sup> Le versement de l'aide peut être effectué en plusieurs tranches, la première à la fin des travaux entrepris dans le cadre de la demande.
+
+<sup>2</sup> Il est conditionné à l'établissement d'une convention entre le Fonds et le porteur de projet, laquelle prévoit les modalités du versement de l'aide, du suivi de l'impact économique selon l'article 43 al. 1 let. b et les clauses d'un éventuel remboursement.
+
+#### Art. 46
+
+**Remboursement de l'aide**
+
+<sup>1</sup> Le bénéficiaire de l'aide ou l'acquéreur de l'équipement ayant bénéficié de l'aide est tenu à son remboursement si:
+
+- a) les conditions au remboursement prévues par les clauses de la convention établie selon l'article 45 al. 2 sont remplies;
+- b) l'équipement est affecté à un autre usage que celui pour lequel l'aide a été accordée, en particulier si celui-ci n'est plus de caractère touristique;
+- c) l'équipement ne satisfait pas aux conditions générales de l'aide mentionnées à l'article 43 al. 1.
+
+<sup>2</sup> Le règlement fixe les modalités du remboursement.
+
+### 4.2 Aide aux projets de faible ampleur
+
+#### Art. 47
+
+**Principe**
+
+<sup>1</sup> Une aide aux projets de faible ampleur peut être accordée en faveur d'un projet d'équipement unique et ses aménagements, nécessitant un investissement total d'au minimum 500'000 francs, mais n'excédant pas 5 millions de francs.
+
+<sup>2</sup> L'aide consiste en la prise en charge partielle de la part touristique de l'investissement pour le projet.
+
+#### Art. 48
+
+**Fixation de l'aide**
+
+<sup>1</sup> L'aide aux projets de faible ampleur est déterminée en fonction du volume de l'investissement de référence.
+
+<sup>2</sup> Elle est dégressive en fonction de l'ampleur de cet investissement.
+
+<sup>3</sup> Le règlement fixe le taux de l'aide financière.
+
+### 4.3 Aide aux projets de grande ampleur
+
+#### Art. 49
+
+**Principe**
+
+<sup>1</sup> Une aide aux projets de grande ampleur peut être accordée en faveur d'un projet d'équipement unique et ses aménagements, nécessitant un investissement total supérieur à 5 millions de francs.
+
+<sup>2</sup> L'aide consiste en la prise en charge partielle de la part touristique de l'investissement pour le projet.
+
+#### Art. 50
+
+**Fixation de l'aide**
+
+<sup>1</sup> L'aide aux projets de grande ampleur est fixée dans le règlement.
+
+<sup>2</sup> Elle ne peut être supérieure à 1 million de francs.
+
+### 4.4 Aide aux projets d'importance cantonale
 
 #### Art. 51
 
-**Principe et modalités**
+**Principe**
 
-<sup>1</sup> Une aide en mode ordinaire peut être accordée en faveur de nouveaux équipements touristiques ou lorsque des travaux de rénovation affectent directement l'offre d'équipements existants.
+<sup>1</sup> Une aide aux projets d'importance cantonale et d'intérêt général, essentiels au développement du tourisme fribourgeois peut être accordée en faveur d'équipements et leurs aménagements, présentés individuellement ou de manière commune, par un ou plusieurs acteurs d'une branche touristique donnée.
 
-<sup>2</sup> L'aide en mode ordinaire consiste en la prise en charge d'une partie de l'intérêt dû sur le montant de référence selon l'article 52.
-
-<sup>3</sup> L'intérêt pouvant être pris en charge est de 3 % au maximum, et la durée de l'aide ne peut excéder huit ans.
+<sup>2</sup> L'aide consiste en la prise en charge partielle de la part touristique de l'investissement pour le projet.
 
 #### Art. 52
 
-**Montant de référence**
+**Fixation de l'aide**
 
-<sup>1</sup> Le montant de référence maximal correspond:
+<sup>1</sup> L'aide aux projets d'importance cantonale est conditionnée à la participation financière de la ou des collectivités régionales et communes des régions dans lesquelles le ou les équipements projetés sont ou seront implantés.
 
-- a) à 80 % des fonds étrangers assujettis à intérêts, dans le cas de projets privés;
-- b) à 100 % des fonds étrangers assujettis à intérêts, dans le cas d'équipements admis comme étant d'intérêt général et d'utilité publique.
-
-<sup>2</sup> Un équipement est considéré comme étant d'intérêt général et d'utilité publique lorsque ses activités ont des effets notables sur l'économie de la région et que la ou les communes concernées participent à son financement.
+<sup>2</sup> Elle se monte au double de la participation de la ou des collectivités régionales et communes concernées, mais au maximum 49 % des investissements totaux.
 
 #### Art. 53
 
-**Mise en chantier**
+**Modalités**
 
-<sup>1</sup> Les travaux liés à un projet pour lequel une aide a été requise ne peuvent être entrepris que lorsque le comité de gestion a rendu sa décision ou permis leur début avant celle-ci.
+<sup>1</sup> Dans les limites des disponibilités du fonds, le comité de gestion peut accorder l'aide aux projets d'importance cantonales sous forme de prêts sans intérêts, conditionnellement remboursables.
 
-<sup>2</sup> L'autorisation de commencer les travaux avant la décision du comité de gestion n'engage nullement ce dernier à accorder l'aide sollicitée.
+<sup>2</sup> Un équipement déterminé ne peut bénéficier de cette aide qu'une seule fois par période de quinze ans.
 
-<sup>3</sup> L'octroi d'une aide est exclu en faveur d'un projet mis en chantier sans l'accord du comité de gestion.
-
-### 6.3 Aide extraordinaire
+<sup>3</sup> Le règlement fixe les autres modalités à l'octroi de l'aide.
 
 #### Art. 54
 
-**Equipements concernés**
-
-<sup>1</sup> Lorsqu'un équipement d'intérêt général et d'importance cantonale ne peut être maintenu financièrement et que sa disparition est de nature à mettre en péril l'économie touristique de la région concernée, le comité de gestion peut accorder au propriétaire de cet équipement une aide extraordinaire.
-
-<sup>2</sup> Les équipements d'enneigement technique sont exclus du champ d'application de l'aide extraordinaire.
-
-#### Art. 55
-
-**Conditions de base**
-
-<sup>1</sup> L'aide extraordinaire est exclusivement possible en faveur d'équipements implantés dans le périmètre d'un pôle touristique cantonal et inscrits au plan directeur cantonal. L'article 47 al. 2 est réservé. Exceptionnellement, cette aide peut être octroyée à des équipements à renouveler ou à remplacer qui se situent en dehors des pôles touristiques cantonaux.
-
-<sup>2</sup> La participation financière de la ou des collectivités régionales et communes intéressées est requise.
-
-<sup>3</sup> Un équipement déterminé ne peut bénéficier d'une aide extraordinaire qu'une seule fois par période de quinze ans.
-
-<sup>4</sup> Le règlement d'exécution fixe les autres conditions préalables.
-
-#### Art. 56
-
-**Modalités d'octroi**
-
-<sup>1</sup> Le comité de gestion peut accorder aux propriétaires d'équipements répondant aux exigences des articles 54 et 55 un prêt sans intérêts, conditionnellement remboursable.
-
-<sup>2</sup> Le règlement d'exécution fixe les détails.
-
-#### Art. 57
-
 **Propriété et bail**
 
-<sup>1</sup> Tout équipement mis au bénéfice d'une aide extraordinaire devient propriété d'une société d'économie mixte et fait l'objet d'un bail conclu avec l'exploitant.
+<sup>1</sup> L'équipement mis au bénéfice d'une aide aux projets d'importance cantonale devient propriété d'une société d'économie mixte existante ou à créer et fait l'objet d'un bail conclu avec l'exploitant.
 
-<sup>2</sup> Le Fonds prend une participation au capital de la société d'économie mixte, aux conditions suivantes:
+<sup>2</sup> Le Conseil d'Etat peut autoriser des exceptions à ce transfert de propriété, sur proposition du comité de gestion et dans des cas particuliers.
 
-- a) la participation du Fonds ne peut excéder 49 % du capital;
-- b) le capital de la société d'économie mixte est détenu majoritairement par le Fonds et la collectivité régionale concernée, proportionnellement à leur participation à l'aide extraordinaire accordée.
+<sup>3</sup> La participation du Fonds ne peut excéder 49 % du capital de la société d'économie mixte et son capital est détenu majoritairement par les collectivités publiques concernées.
 
-## 7 Les réseaux de randonnée officiels
+## 5 Disposition pénale et voies de droit
 
-### 7.1 Attributions
-
-#### Art. 58
-
-**En général**
-
-<sup>1</sup> Les tâches publiques relatives aux réseaux de randonnée officiels sont réparties entre l'Etat, les communes et les organismes touristiques officiels désignés aux articles 63 et 64.
-
-#### Art. 59
-
-**Collectivités publiques – Etat**
-
-<sup>1</sup> L'Etat a notamment pour tâches:
-
-- a) l'approbation, la classification et la sauvegarde des réseaux de randonnée officiels;
-- b) l'entretien des sols, ouvrages et infrastructures, sur les secteurs de chaussées où un réseau de randonnée officiel emprunte le réseau des routes cantonales;
-- c) le soutien financier à l'activité de contrôle et de maintenance du balisage des réseaux assumée par l'UFT.
-
-<sup>2</sup> Il veille à contenir l'étendue des réseaux officiels en fonction des besoins objectifs et des exigences de qualité de leur entretien et balisage.
-
-<sup>3</sup> Pour chaque réseau approuvé, il fait procéder à un inventaire périodique, au moins tous les dix ans. Les planifications cantonales, régionales et communales sont adaptées en conséquence.
-
-<sup>4</sup> Lorsqu'après sommation une commune ne remplit pas les obligations auxquelles elle est astreinte en matière de réseaux de randonnée officiels, l'Etat y pourvoit aux frais de celle-ci.
-
-#### Art. 60
-
-**Collectivités publiques – Communes**
-
-<sup>1</sup> Les communes ont notamment pour tâches:
-
-- a) l'entretien des sols, ouvrages et infrastructures des secteurs des réseaux de randonnée officiels de leur territoire, à l'exception des réseaux touristiques de montagne balisés comme tels;
-- b) le financement à 50 %, en l'absence d'une société de développement reconnue, du matériel de balisage pour les secteurs des réseaux principaux empruntant leur territoire;
-- c) le financement à 50 % du matériel de balisage pour les secteurs de réseaux secondaires; en l'absence d'une société de développement reconnue, ce financement s'élève à 100 %.
-
-<sup>2</sup> Elles veillent sur leur territoire à la conservation des réseaux ainsi qu'à la liberté d'accès des usagers et usagères.
-
-#### Art. 61
-
-**Collectivités publiques – Autre prestation des collectivités publiques**
-
-<sup>1</sup> Les collectivités publiques mettent gratuitement à disposition leurs terrains non cultivés, lorsque leur utilisation est nécessaire pour la construction, la correction ou le remplacement de secteurs de réseaux officiels.
-
-#### Art. 62
-
-**Collectivités publiques – Responsabilité**
-
-<sup>1</sup> La responsabilité des collectivités publiques envers les utilisateurs et utilisatrices des réseaux est régie par la loi sur la responsabilité civile des collectivités publiques et de leurs agents.
-
-#### Art. 63
-
-**Organismes touristiques – UFT**
-
-<sup>1</sup> L'UFT a pour tâches:
-
-- a) le contrôle et la maintenance du balisage des réseaux approuvés ainsi que leur mise en valeur sur le plan cantonal;
-- b) le financement à 50 % du matériel de balisage des réseaux principaux.
-
-<sup>2</sup> Pour l'exécution de tout ou partie des tâches qui lui sont conférées, l'UFT mandate des prestataires externes ou des organisations privées spécialisées reconnues.
-
-<sup>3</sup> Le règlement d'exécution désigne les organisations privées spécialisées reconnues et fixe les conditions relatives à l'octroi et au contenu des mandats.
-
-#### Art. 64
-
-**Organismes touristiques – Sociétés de développement**
-
-<sup>1</sup> Les sociétés de développement assurent la mise en valeur touristique des réseaux de randonnée officiels de leur rayon d'activité.
-
-<sup>2</sup> Elles financent à 50 % le matériel de balisage des réseaux de leur rayon d'activité.
-
-### 7.2 Réseaux et règles de balisage
-
-#### Art. 65
-
-**Réseaux**
-
-<sup>1</sup> Les réseaux de randonnée officiels groupent l'ensemble des itinéraires approuvés et balisés, favorisant la pratique des types courants de randonnée. La législation sur les forêts est réservée.
-
-<sup>2</sup> Sont prioritairement concernés par les présentes dispositions les réseaux de randonnée pédestre et cyclotouristique.
-
-<sup>3</sup> En fonction de l'évolution des besoins touristiques ou sociaux, l'approbation d'autres réseaux destinés à d'autres types de randonnée peut être décidée.
-
-#### Art. 66
-
-**Classification**
-
-<sup>1</sup> Les réseaux de randonnée officiels se subdivisent en réseaux principaux et réseaux secondaires.
-
-<sup>2</sup> Les réseaux principaux incluent notamment les itinéraires nationaux, cantonaux et interrégionaux; ils desservent les pôles touristiques cantonaux et régionaux, les sites paysagers, touristiques et culturels majeurs ainsi que les installations touristiques importantes.
-
-<sup>3</sup> Les réseaux secondaires comprennent les autres liaisons d'importance régionale et locale.
-
-#### Art. 67
-
-**Planification**
-
-<sup>1</sup> La planification des réseaux de randonnée se fait conformément à la législation sur l'aménagement du territoire, en particulier les articles 16 al. 2 let. d et f, 44 et 87 LATEC.
-
-<sup>2</sup> Les parcours de cyclotourisme sont régis par la législation sur les routes.
-
-#### Art. 68
-
-**Approbation des réseaux de randonnée officiels**
-
-<sup>1</sup> Une demande d'approbation de tout ou partie d'un réseau de randonnée est adressée à la Direction.
-
-<sup>2</sup> Celle-ci requiert le préavis des communes, des organismes touristiques, des organisations et des services concernés, en particulier du service chargé de l'aménagement du territoire[^68-1] et de l'UFT.
-
-[^68-1]: Actuellement: Service des constructions et de l'aménagement.
-
-#### Art. 69
-
-**Pose du balisage**
-
-<sup>1</sup> Seuls les réseaux ou secteurs de réseaux approuvés peuvent faire l'objet d'un balisage officiel.
-
-<sup>2</sup> Les propriétaires fonciers ont l'obligation de tolérer sur leurs biens-fonds la pose des signaux indicateurs requis. Ils sont consultés au préalable.
-
-<sup>3</sup> Dans tous les cas, le balisage initial est mis en place par l'UFT ou son mandataire. Les normes et matériels prévus en vertu de la législation fédérale sont seuls applicables.
-
-### 7.3 Dispositions financières particulières
-
-#### Art. 70
-
-**Contribution de tiers**
-
-<sup>1</sup> Lorsque la pratique d'un type de randonnée est de nature à engendrer des atteintes particulières aux sols et infrastructures d'un réseau, les usagers et usagères concernés peuvent être financièrement mis à contribution.
-
-#### Art. 71
-
-**Nouveau réseau ou secteur**
-
-<sup>1</sup> Quiconque entend créer un nouveau réseau ou secteur de réseau de randonnée assume l'entier des charges financières relatives à son projet, coûts de conception, d'aménagement et de balisage initial compris.
-
-<sup>2</sup> L'instance d'approbation peut exiger la fourniture de garanties.
-
-## 8 Disposition pénale et voies de droit
-
-#### Art. 72
+#### Art. 55
 
 **Infractions pénales**
 
@@ -764,86 +608,34 @@ Décrète:
 
 <sup>3</sup> Le paiement de l'amende ne dispense pas des taxes éludées.
 
-#### Art. 73
+#### Art. 56
 
 **Recours**
 
 <sup>1</sup> Les décisions prises en application de la présente loi sont sujettes à recours conformément au code de procédure et de juridiction administrative.
 
-<sup>2</sup> …
+## 6 Dispositions transitoires
 
-## 9 Dispositions transitoires et finales
+#### Art. 57
 
-#### Art. 74
+**Nouvelles reconnaissances officielles – Organisations touristiques régionales (art. 12)**
 
-**Périmètre des régions touristiques (art. 5 al. 2)**
+<sup>1</sup> Les organisations touristiques régionales en activité selon l'ancien droit disposent d'un délai de trente jours dès l'entrée en vigueur de la présente loi pour notifier à l'UFT leur décision de demeurer actives ou de renoncer à leurs attributions.
 
-<sup>1</sup> Durant un an au maximum à compter de l'entrée en vigueur de la présente loi, le rayon d'activité des associations touristiques régionales reconnues selon l'ancien droit constitue le périmètre des régions touristiques mentionné à l'article 5 al. 2.
+<sup>2</sup> Les organisations touristiques régionales concernées disposent ensuite d'un délai de douze mois pour adapter leurs statuts et requérir leur reconnaissance officielle selon le nouveau droit.
 
-#### Art. 75
+#### Art. 58
 
-**Pôles touristiques régionaux (art. 17 al. 1 let. a et 47 al. 1)**
+**Taxes de séjour**
 
-<sup>1</sup> Dans l'attente des plans directeurs des régions et de la détermination des pôles touristiques régionaux qu'ils pourront définir, le Conseil d'Etat arrête une liste transitoire des localités d'importance régionale, pouvant servir de référence pour la reconnaissance officielle des sociétés de développement et pour l'octroi d'aides du Fonds d'équipement touristique en mode ordinaire.
+<sup>1</sup> La perception des taxes de séjour a lieu conformément à l'ancien droit jusqu'à la fin de l'année qui suit l'entrée en vigueur de la présente loi.
 
-<sup>2</sup> La validité de cette liste ainsi que les effets qui lui sont attachés échoient au plus tard cinq ans après l'entrée en vigueur de la présente loi.
+<sup>2</sup> Les soldes ou réserves de taxes constituées jusqu'à l'entrée en vigueur de la loi sont utilisées conformément à leur but initial.
 
-#### Art. 76
+#### Art. 59
 
-**Nouvelles reconnaissances officielles – Organisations touristiques régionales (art. 11 al. 2)**
-
-<sup>1</sup> Les associations touristiques régionales en activité selon l'ancien droit disposent d'un délai de trente jours dès l'entrée en vigueur de la présente loi pour notifier à l'UFT leur décision de demeurer actives ou de renoncer à leurs attributions en faveur de la société de développement du pôle cantonal concerné.
-
-<sup>2</sup> Les nouveaux organismes touristiques régionaux concernés disposent ensuite d'un délai de six mois pour adapter leurs statuts et requérir leur reconnaissance officielle selon le nouveau droit.
-
-#### Art. 77
-
-**Nouvelles reconnaissances officielles – Sociétés de développement (art. 17 et 18)**
-
-<sup>1</sup> Les sociétés de développement reconnues selon l'ancien droit disposent d'un délai de six mois pour requérir leur reconnaissance officielle selon le nouveau droit.
-
-#### Art. 78
-
-**Fonds de marketing (art. 25 al. 2)**
-
-<sup>1</sup> Le taux de contribution est relevé à 60 % pour la première année d'activité du Fonds et à 55 % pour la deuxième année.
-
-#### Art. 79
-
-**Taxes régionales et locales de séjour (art. 27 et 28)**
-
-<sup>1</sup> A compter de la date d'entrée en vigueur de la présente loi, les taxes locales de séjour perçues précédemment sont diminuées du montant de la nouvelle taxe régionale.
-
-<sup>2</sup> Les sociétés de développement peuvent toutefois demander un relèvement simultané de leurs taxes locales de séjour, à concurrence du montant maximal du tarif en vigueur antérieurement.
-
-#### Art. 80
-
-**Fonds d'équipement touristique (art. 47ss)**
+**Fonds d'équipement touristique (art. 39ss)**
 
 <sup>1</sup> Les aides ordinaires accordées avant l'entrée en vigueur de la présente loi demeurent régies par l'ancien droit.
 
-#### Art. 81
-
-**Réseaux de randonnée officiels existants (art. 65)**
-
-<sup>1</sup> Les réseaux existants sont approuvés en l'état, jusqu'à établissement des nouveaux inventaires périodiques et des classifications subséquentes.
-
-<sup>2</sup> Servent de bases à ces approbations initiales les documents établis et tenus à jour par le service chargé de l'aménagement du territoire[^81-1] et par l'UFT.
-
-[^81-1]: Actuellement: Service des constructions et de l'aménagement.
-
-#### Art. 82
-
-**Abrogation**
-
-<sup>1</sup> La loi du 20 septembre 1990 sur le tourisme (RSF 951.1) est abrogée.
-
-#### Art. 83
-
-**Entrée en vigueur**
-
-<sup>1</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi.[^83-1]
-
-[^83-1]: Date d'entrée en vigueur: 1<sup>er</sup> janvier 2006 (ACE 29.11.2005).
-
-2005\_106
+2021\_123
