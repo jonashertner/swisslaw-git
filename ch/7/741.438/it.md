@@ -3,18 +3,18 @@ sr: "741.438"
 title: Ordinanza del DATEC del 27 settembre 2019 concernente le luci blu e gli avvisatori a due suoni alternati
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/576"
 language: it
-version: 2019-11-01
+version: 2022-01-01
 adopted: 2019-09-27
 in_force: 2019-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/576/20191101/it/xml/fedlex-data-admin-ch-eli-cc-2019-576-20191101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/576/20191101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/576/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2019-576-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/576/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC concernente le luci blu e gli avvisatori a due suoni alternati
 
-del 27 settembre 2019 (Stato 1° novembre 2019)
+del 27 settembre 2019 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -84,7 +84,7 @@ Per veicoli del servizio sanitario privi di installazioni mediche fisse s’inte
 
 <sup>7</sup> I conducenti dei veicoli di cui al capoverso 4 lettere a–c devono essere associati a un’organizzazione di soccorso o sanitaria riconosciuta e devono poter essere chiamati a intervenire attraverso una centrale d’intervento cantonale o intercantonale.
 
-[^4-1]: SN EN 1789+A2, 2014, Veicoli di soccorso e loro equipaggiamento - Autoambulanze. Questa norma (in tedesco) può essere consultata gratuitamente o ottenuta a pagamento presso lʼAssociazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^4-1]: SN EN 1789+A2, 2014, Veicoli di soccorso e loro equipaggiamento – Autoambulanze. Questa norma (in tedesco) può essere consultata gratuitamente o ottenuta a pagamento presso lʼAssociazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 [^4-2]: Queste direttive (in tedesco) possono essere ottenute gratuitamente presso l’Interassociazione di salvataggio, Casa dei Cantoni, Speichergasse 6, 3001 Berna.
 [^4-3]: SN EN 13976, 2011, Sistemi di salvataggio – Trasporto di incubatrici – Prima e seconda parte. Questa norma (in tedesco) può essere consultata gratuitamente o ottenuta a pagamento presso lʼAssociazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
@@ -102,9 +102,10 @@ Per veicoli della polizia e delle dogane s’intendono:
 - d. i veicoli delle dogane impiegati per operazioni di polizia;
 - e. i veicoli di intervento della polizia dei trasporti ai sensi della legge federale del 18 giugno 2010[^5-1] sugli organi di sicurezza delle imprese di trasporto pubblico.
 
-<sup>2</sup> L’Amministrazione federale delle dogane specifica i veicoli di cui al capoverso 1 lettera d.
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^5-2] specifica i veicoli di cui al capoverso 1 lettera d.
 
 [^5-1]: [RS 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
+[^5-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 

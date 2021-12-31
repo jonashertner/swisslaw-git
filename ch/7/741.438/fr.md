@@ -3,18 +3,18 @@ sr: "741.438"
 title: Ordonnance du DETEC du 27 septembre 2019 concernant les feux bleus et les avertisseurs à deux sons alternés
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/576"
 language: fr
-version: 2019-11-01
+version: 2022-01-01
 adopted: 2019-09-27
 in_force: 2019-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/576/20191101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-576-20191101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/576/20191101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/576/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-576-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/576/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC concernant les feux bleus et les avertisseurs à deux sons alternés
 
-du 27 septembre 2019 (Etat le 1<sup>er</sup> novembre 2019)
+du 27 septembre 2019 (État le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -102,9 +102,10 @@ Sont réputés véhicules de la police et de la douane:
 - d. les véhicules de la douane qui sont utilisés pour des tâches de police;
 - e. les véhicules d’intervention de la police des transports au sens de la loi fédérale du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics[^5-1].
 
-<sup>2</sup> L’Administration fédérale des douanes désigne les véhicules visés à l’al. 1, let. d.
+<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières[^5-2] désigne les véhicules visés à l’al. 1, let. d.
 
 [^5-1]: [RS 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
+[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 

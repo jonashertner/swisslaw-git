@@ -3,18 +3,18 @@ sr: "741.438"
 title: Verordnung des UVEK vom 27. September 2019 über Blaulichter und wechseltönige Zweiklanghörner
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/576"
 language: de
-version: 2019-11-01
+version: 2022-01-01
 adopted: 2019-09-27
 in_force: 2019-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/576/20191101/de/xml/fedlex-data-admin-ch-eli-cc-2019-576-20191101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/576/20191101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/576/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-576-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/576/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über Blaulichter und wechseltönige Zweiklanghörner
 
-vom 27. September 2019 (Stand am 1. November 2019)
+vom 27. September 2019 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -102,9 +102,10 @@ Als Fahrzeuge der Polizei und des Zolls gelten:
 - d. Fahrzeuge des Zolls, die für polizeiliche Aufgaben eingesetzt werden;
 - e. Einsatzfahrzeuge der Transportpolizei nach dem Bundesgesetz vom 18. Juni 2010[^5-1] über die Sicherheitsorgane der Transportunternehmen im öffentlichen Verkehr.
 
-<sup>2</sup> Die Eidgenössische Zollverwaltung bezeichnet die Fahrzeuge nach Absatz 1 Buchstabe d.
+<sup>2</sup> Das Bundesamt für Zoll und Grenzsicherheit[^5-2] bezeichnet die Fahrzeuge nach Absatz 1 Buchstabe d.
 
 [^5-1]: [SR 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
+[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
