@@ -4,11 +4,11 @@ number: "852.12"
 title: Verordnung über die sonderpädagogischen Massnahmen im Vor- und Nachschulbereich (SPMV)
 short: SPMV
 language: de
-version: "2020-08-01"
-nachtrag: "110"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2023-01-01
 adopted: 2011-12-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_12-2011_12_07-2012_01_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_12-2011_12_07-2012_01_01-115.html"
 text: pdf
 ---
 
@@ -74,7 +74,7 @@ Heilpädagogische Früherziehung ist die Behandlung und Förderung von Kindern m
 
 **1**
 
-1.10. 20 - 110 § 7. Logopädie ist die Behandlung und Förderung von Kindern und Jugendlichen mit Störungen der mündlichen und schriftlichen Sprache, des Sprechens, der Kommunikation, des Redeflusses und der Stimme sowie des Schluckens oder mit entsprechenden Risiken.
+- 1\. 1. 22 - 115 § 7. Logopädie ist die Behandlung und Förderung von Kindern und Jugendlichen mit Störungen der mündlichen und schriftlichen Sprache, des Sprechens, der Kommunikation, des Redeflusses und der Stimme sowie des Schluckens oder mit entsprechenden Risiken.
 
 **c. Logopädie**
 
@@ -172,19 +172,21 @@ Ist der Befund bei einer logopädischen Abklärung nicht eindeutig, kann die Abk
 
 **3**
 
-1.10. 20 - 110
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Die Leistungsanbieterinnen und -anbieter führen die sonderpädagogischen Massnahmen gemäss Entscheid durch.
 
 <sup>3</sup> Abklärungsstellen können nicht mit der Durchführung von sonderpädagogischen Massnahmen beauftragt werden.
 
-#### § 19
+<sup>4</sup> Die Leistungsanbieterinnen und -anbieter können die Durchführung der heilpädagogischen Früherziehung mit Schwerpunkt Hörbehinderung im Umfang von höchstens 15 Stunden pro Massnahme mit dem Einverständnis der Eltern an eine in Gebärdensprache ausgebildete Person delegieren, wenn die Anleitung der Eltern in Gebärdensprache im Rahmen der Massnahme zweckmässig ist. Als ausgebildet gelten Personen mit einem Abschluss als Gebärdensprachausbildnerin oder Gebärdensprachausbildner, als Fachperson Gebärdensprache oder als Gebärdensprachlehrerin oder Gebärdensprachlehrer. Die Leistungsanbieterinnen und -anbieter entschädigen die in Gebärdensprache ausgebildete Person gemäss § 22 Abs. 1.[^18-1]
 
 **b. Standortbestimmung**
 
-<sup>1</sup> Die Leistungsanbieterinnen und -anbieter führen mindestens einmal pro Jahr mit den Eltern eine Standortbestimmung nach den Vorgaben des Amtes durch.
+§ 19. <sup>1</sup> Die Leistungsanbieterinnen und -anbieter führen mindestens einmal pro Jahr mit den Eltern eine Standortbestimmung nach den Vorgaben des Amtes durch.
 
 <sup>2</sup> Kinder und Jugendliche nehmen entsprechend ihrem Alter und ihrer Reife an der Standortbestimmung teil.
+
+[^18-1]: Eingefügt durch RRB vom 6. Oktober 2021 (OS 76, 656; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 
 #### § 20
 
@@ -226,18 +228,21 @@ Ist der Befund bei einer logopädischen Abklärung nicht eindeutig, kann die Abk
 
 - b. höchstens drei Stunden pro Massnahme gemäss § 17 zuzüglich Wegpauschale.
 
+<sup>3</sup> Das Amt entschädigt Dolmetscherinnen und Dolmetscher in Gebärdensprache nach Vereinbarung.[^21-7]
+
+**5**
+
+- 1\. 1. 22 - 115 § 23. Auf Antrag der Eltern erstattet das Amt diesen die notwendigen Transportkosten zwischen Aufenthalts- und Massnahmeort für Kinder und Jugendliche und die erforderliche Begleitperson.
+
+**Transportkosten**
+
 [^21-1]: Eingefügt durch RRB vom 27. Mai 2020 (OS 75, 384; ABl 2020-06-05). In Kraft seit 1. August 2020.
 [^21-2]: Fassung gemäss RRB vom 3. Dezember 2014 (OS 69, 603; ABl 2014-12-12). In Kraft seit 1. Januar 2012.
 [^21-3]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 384; ABl 2020-06-05). In Kraft seit 1. August 2020.
 [^21-4]: Fassung gemäss RRB vom 30. September 2015 (OS 70, 421; ABl 2015-10-09). In Kraft seit 1. Januar 2012.
 [^21-5]: Eingefügt durch RRB vom 3. Dezember 2014 (OS 69, 603; ABl 2014-12-12). In Kraft seit 1. April 2015.
 [^21-6]: LS 211.17.
-
-#### § 23
-
-**Transportkosten**
-
-Auf Antrag der Eltern erstattet das Amt diesen die notwendigen Transportkosten zwischen Aufenthalts- und Massnahmeort für Kinder und Jugendliche und die erforderliche Begleitperson.
+[^21-7]: Eingefügt durch RRB vom 6. Oktober 2021 (OS 76, 656; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 
 ### D. Bewilligung
 
@@ -247,13 +252,13 @@ Auf Antrag der Eltern erstattet das Amt diesen die notwendigen Transportkosten z
 
 Das Amt erteilt die Bewilligungen gemäss § 32 KJHG.
 
-**5**
-
-1.10. 20 - 110 § 25. Voraussetzung für die Bewilligung ist ein von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) anerkannter Abschluss in heilpädagogischer Früherziehung, Heilpädagogik, Sonderpädagogik oder in Logopädie.
-
-#### § 26
+#### § 25
 
 **Voraussetzungen a. Ausbildung**
+
+Voraussetzung für die Bewilligung ist ein von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) anerkannter Abschluss in heilpädagogischer Früherziehung, Heilpädagogik, Sonderpädagogik oder in Logopädie.
+
+#### § 26
 
 **b. Berufserfahrung**
 
@@ -331,15 +336,15 @@ Die Abklärung und Durchführung von sonderpädagogischen Massnahmen richtet sic
 
 <sup>2</sup> Die Anpassung der Entschädigungen an den Landesindex der Konsumentenpreise gemäss § 22 Abs. 4 erfolgt erstmals auf den 1. Januar 2018.
 
+**7**
+
+- 1\. 1. 22 - 115
+
 [^hÜbergangsbestimmung-1]: Eingefügt durch RRB vom 3. Dezember 2014 (OS 69, 603; ABl 2014-12-12). In Kraft seit 1. Januar 2012.
 
 ### Übergangsbestimmung zur Änderung vom 27. Mai 2020 (OS 75, 384)
 
 Empfehlungen und Entscheide gemäss § 15 bzw. § 17, die vor Inkrafttreten dieser Änderung ausgestellt bzw. getroffen wurden, behalten ihre Gültigkeit.
-
-**7**
-
-1.10. 20 - 110
 
 [^hÜbergangsbestimmung_2-1]: Eingefügt durch RRB vom 3. Dezember 2014 (OS 69, 603; ABl 2014-12-12). In Kraft seit 1. Januar 2012.
 
@@ -353,9 +358,13 @@ Empfehlungen und Entscheide gemäss § 15 bzw. § 17, die vor Inkrafttreten dies
 
 - 1\. Tarif pro Stunde (§ 22 Abs. 1 lit. a)
 
+- 2\. Wegpauschale (§ 22 Abs. 1 lit. b und Abs. 2) 2.1 Standardpauschale 2.2 Erhöhte Pauschale
+
 **Fr. 82.30 Fr. 174.90**
 
-- 2\. Wegpauschale (§ 22 Abs. 1 lit. b und Abs. 2) 2.1 Standardpauschale 2.2 Erhöhte Pauschale
+**9**
+
+- 1\. 1. 22 - 115
 
 ## Weitere Fussnoten
 
