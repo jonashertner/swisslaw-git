@@ -4,13 +4,13 @@ number: "152.11"
 title: Vollzugsverordnung zum Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: "Regierungsratsverordnung, RRV"
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-08
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-12-14
 adopted: 1998-07-07
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/152.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1375/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1376/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1375/pdf_file"
 
 (Regierungsratsverordnung, RRV)
 
-vom 07.07.1998 (Stand 01.01.2021)
+vom 07.07.1998 (Stand 01.01.2022)
 
 Der Regierungsrat von Nidwalden,
 
@@ -711,6 +711,7 @@ beschliesst:
   - 13\. Jagd
   - 14\. Fischerei
   - 15\. Hundeverzeichnis, Hundesteuer
+  - 16 Vollzug von gerichtlich angeordneten elektronischen Überwachungen gemäss Art. 28c ZGB
 - d. Grundbuchamt und Notariat
   - 1\. Grundbuch
   - 2\. Notariat
