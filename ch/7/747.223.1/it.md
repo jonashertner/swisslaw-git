@@ -4,20 +4,20 @@ title: "Ordinanza del 17 marzo 1976 concernente la navigazione sul lago di Costa
 short: RNC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338"
 language: it
-version: 2014-01-01
+version: 2022-01-01
 adopted: 1976-03-17
 in_force: 1976-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/fedlex-data-admin-ch-eli-cc-1976-1338_1338_1338-20140101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1976-1338_1338_1338-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la navigazione sul lago di Costanza
 
-(Regolamento della Navigazione sul lago di Costanza, RNC)**[^t-1]**
+(Regolamento della Navigazione sul lago di Costanza, RNC)[^t-1]
 
-del 17 marzo 1976[^t-2] (Stato 1° gennaio 2014)
+del 17 marzo 1976[^t-2] (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 27 giu. 2001, approvata dal CF il 21 nov. 2001, in vigore dal 1° gen. 2002 ([RU 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
 [^t-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
@@ -26,7 +26,7 @@ Il Consiglio federale svizzero,
 
 visto l’articolo 56 della legge federale del 3 ottobre 1975[^ingress-1] sulla navigazione interna; visto l’articolo 5 della Convenzione del 1° giugno 1973[^ingress-2] per la navigazione sul Lago di Costanza; approvando il Regolamento della Navigazione sul lago di Costanza adottato il 13 gennaio 1976 dalla Commissione internazionale della navigazione,
 
-ordina:*[^ingress-3]*
+ordina:[^ingress-3]
 
 [^ingress-1]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
 [^ingress-2]: [RS 0.747.223.11](https://fedlex.data.admin.ch/eli/cc/1976/19_19_19)
@@ -412,7 +412,7 @@ Le navi del servizio ufficiale di sicurezza possono mostrare un fuoco blu a luce
 
 [^313-1]: Introdotto dalla Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
 
-### Capo IV: Segnali acustici e radiotelefonia****
+### Capo IV: Segnali acustici e radiotelefonia
 
 [^part2-chapIV-1]
 
@@ -703,7 +703,7 @@ Se una nave in stato d’emergenza vuol chiedere soccorso deve:
 
 [^701-1]: Nuovo testo giusta la Dec. della Commissione internazionale della navigazione del 23 giu. 1995, approvata dal CF il 29 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
 
-### Capo VIII:**** Sostanze che possono inquinare le acque e merci pericolose
+### Capo VIII: Sostanze che possono inquinare le acque e merci pericolose
 
 [^part2-chapVIII-1]
 
@@ -1003,10 +1003,10 @@ Il titolare di una licenza di condurre deve:
 - a.[^1203-1] aver raggiunto l’età di:
 
 <table>
-<tr><td></td><td>per la licenza della</td><td>categoria A:</td><td>18 anni,</td></tr>
-<tr><td></td><td></td><td>categoria B:</td><td>21 anni,</td></tr>
-<tr><td></td><td></td><td>categoria C:</td><td>21 anni,</td></tr>
-<tr><td></td><td></td><td>categoria D:</td><td>14 anni.</td></tr>
+<tr><td>[tab] per la licenza della</td><td>categoria A:</td><td>18 anni,</td></tr>
+<tr><td></td><td>categoria B:</td><td>21 anni,</td></tr>
+<tr><td></td><td>categoria C:</td><td>21 anni,</td></tr>
+<tr><td></td><td>categoria D:</td><td>14 anni;</td></tr>
 </table>
 
 - b. essere idoneo a condurre una nave;
@@ -1563,7 +1563,9 @@ L’ammissione alla prova e al trasferimento può essere usata soltanto:
 
 **Diritti speciali**
 
-Le navi utilizzate a fine statale o per l’idrologia o l’idrografia come anche le navi di salvataggio sono dispensate dall’applicazione delle prescrizioni dei capitoli V a VII, X, XI e XIII a XV nella misura in cui l’adempimento dei loro compiti lo richiede assolutamente. Le navi della polizia, dell’amministrazione delle dogane, della vigilanza della pesca non sono inoltre tenute, nelle condizioni summenzionate, ad applicare le prescrizioni dell’articolo 3.06 purché non ne risulti pregiudizio per la sicurezza della navigazione.
+Le navi utilizzate a fine statale o per l’idrologia o l’idrografia come anche le navi di salvataggio sono dispensate dall’applicazione delle prescrizioni dei capitoli V a VII, X, XI e XIII a XV nella misura in cui l’adempimento dei loro compiti lo richiede assolutamente. Le navi della polizia, dell’Ufficio federale della dogana e della sicurezza dei confini[^1601-1], della vigilanza della pesca non sono inoltre tenute, nelle condizioni summenzionate, ad applicare le prescrizioni dell’articolo 3.06 purché non ne risulti pregiudizio per la sicurezza della navigazione.
+
+[^1601-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 16.02
 
@@ -1633,7 +1635,7 @@ In deroga al capoverso 1, entrano in vigore per le navi che il 31 marzo 1976 era
 - c. gli articoli 13.10 e 13.17, il 1° aprile 1979;
 - d. l’articolo 13.11 seconda frase, il 1° aprile 1981.
 
-## Disposizione finale della modificazione del 4 giugno 1991****
+## Disposizione finale della modificazione del 4 giugno 1991
 
 [^u1-1]
 
@@ -1641,7 +1643,7 @@ In deroga al capoverso 1, entrano in vigore per le navi che il 31 marzo 1976 era
 
 La presente modificazione si applica ai veicoli muniti di motori di nave che sono ammessi, per la prima volta, dopo il 1° gennaio 1993 in virtù dell’ordinanza per la navigazione sul lago di Costanza.
 
-## Disposizione finale della modificazione del 23 giugno 1995****
+## Disposizione finale della modificazione del 23 giugno 1995
 
 [^u2-1]
 
@@ -1673,9 +1675,9 @@ Allegato A
 <tr><td>– – – – – – due suoni brevi tre volte il minuto o rintocchi continui di campana</td><td>«Segnale di foschia dei porti, degli imbarcaderi e degli impianti avvertitori di nebbia»</td><td>4.03</td><td></td></tr>
 </table>
 
-Allegato B*[^t-3]*
+Allegato B[^t-3]
 
-## Segnaletica dell’idrovia****
+## Segnaletica dell’idrovia
 
 [^annexB-lvlu1-1]
 
@@ -1692,58 +1694,58 @@ Generalità
 
 <table>
 <tr><td>A.1</td><td colspan="4">Divieto di passaggio o superficie d’acqua sbarrata</td><td colspan="3"></td></tr>
-<tr><td></td><td colspan="2">a. Per ogni nave</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image1.png)</td></tr>
-<tr><td></td><td colspan="4">Due segnali luminosi</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image2.png)</td></tr>
-<tr><td></td><td colspan="4">b. Per le navi motorizzate</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image3.png)</td></tr>
-<tr><td>A.2</td><td colspan="4">Divieto di sorpasso</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image4.png)</td></tr>
-<tr><td>A.3</td><td colspan="4">Divieto di incrociare e sorpassare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image5.png)</td></tr>
-<tr><td>A.4</td><td colspan="4">Divieto di stazionare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image6.png)</td></tr>
-<tr><td>A.5</td><td colspan="4">Divieto d’ancorare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image7.png)</td></tr>
-<tr><td>A.6</td><td colspan="4">Divieto d’ormeggiare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image8.png)</td></tr>
-<tr><td>A.7</td><td colspan="3">Divieto di virare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image9.png)</td></tr>
-<tr><td>A.8</td><td colspan="3">Divieto di cagionare urti d’onda o risucchi</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image10.png)</td></tr>
-<tr><td>A.9</td><td>Divieto di navigare fuori dei limiti indicati</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image12.png)</td></tr>
-<tr><td>A.10</td><td colspan="4">Sci nautico vietato</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image13.png)</td></tr>
-<tr><td>A.11</td><td colspan="4">Divieto di usare le tavole a vela</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image14.png)</td></tr>
-<tr><td>A.12</td><td colspan="4">Divieto per navi a vela</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image15.png)</td></tr>
+<tr><td></td><td colspan="2">a. Per ogni nave</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image1.png)</td></tr>
+<tr><td></td><td colspan="4">Due segnali luminosi</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image2.png)</td></tr>
+<tr><td></td><td colspan="4">b. Per le navi motorizzate</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image3.png)</td></tr>
+<tr><td>A.2</td><td colspan="4">Divieto di sorpasso</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image4.png)</td></tr>
+<tr><td>A.3</td><td colspan="4">Divieto di incrociare e sorpassare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image5.png)</td></tr>
+<tr><td>A.4</td><td colspan="4">Divieto di stazionare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image6.png)</td></tr>
+<tr><td>A.5</td><td colspan="4">Divieto d’ancorare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image7.png)</td></tr>
+<tr><td>A.6</td><td colspan="4">Divieto d’ormeggiare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image8.png)</td></tr>
+<tr><td>A.7</td><td colspan="3">Divieto di virare</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image9.png)</td></tr>
+<tr><td>A.8</td><td colspan="3">Divieto di cagionare urti d’onda o risucchi</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image10.png)</td></tr>
+<tr><td>A.9</td><td>Divieto di navigare fuori dei limiti indicati</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image12.png)</td></tr>
+<tr><td>A.10</td><td colspan="4">Sci nautico vietato</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image13.png)</td></tr>
+<tr><td>A.11</td><td colspan="4">Divieto di usare le tavole a vela</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image14.png)</td></tr>
+<tr><td>A.12</td><td colspan="4">Divieto per navi a vela</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image15.png)</td></tr>
 </table>
 
 ### B. Segnali d’obbligo
 
 <table>
-<tr><td>B.1</td><td>Obbligo di prendere la direzione indicata dalla freccia</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image16.png)</td></tr>
-<tr><td>B.2</td><td>Obbligo di fermarsi in determinate condizioni</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image17.png)</td></tr>
-<tr><td>B.3</td><td>Obbligo di non superare una velocità indicata (in km/h)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image18.png)</td></tr>
-<tr><td>B.4</td><td>Obbligo di emettere un segnale acustico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image19.png)</td></tr>
-<tr><td>B.5</td><td>Obbligo di osservare una prudenza particolare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image20.png)</td></tr>
+<tr><td>B.1</td><td>Obbligo di prendere la direzione indicata dalla freccia</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image16.png)</td></tr>
+<tr><td>B.2</td><td>Obbligo di fermarsi in determinate condizioni</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image17.png)</td></tr>
+<tr><td>B.3</td><td>Obbligo di non superare una velocità indicata (in km/h)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image18.png)</td></tr>
+<tr><td>B.4</td><td>Obbligo di emettere un segnale acustico</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image19.png)</td></tr>
+<tr><td>B.5</td><td>Obbligo di osservare una prudenza particolare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image20.png)</td></tr>
 </table>
 
 ### C. Segnali di limitazione
 
 <table>
-<tr><td>C.1</td><td>Altezza del passaggio limitata</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image21.png)</td></tr>
-<tr><td>C.2</td><td>Larghezza del passaggio limitata</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image22.png)</td></tr>
-<tr><td>C.3</td><td>L’idrovia si restringe; il numero indicato sul segnale rappresenta, i metri, la distanza dalla riva, cui devono tenersi le navi</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image23.png)</td></tr>
+<tr><td>C.1</td><td>Altezza del passaggio limitata</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image21.png)</td></tr>
+<tr><td>C.2</td><td>Larghezza del passaggio limitata</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image22.png)</td></tr>
+<tr><td>C.3</td><td>L’idrovia si restringe; il numero indicato sul segnale rappresenta, i metri, la distanza dalla riva, cui devono tenersi le navi</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image23.png)</td></tr>
 </table>
 
 ### D. Segnali di raccomandazione
 
 <table>
-<tr><td>D.1</td><td colspan="2">Passaggio raccomandato dei ponti a. Nei due sensi</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image24.png)</td></tr>
-<tr><td></td><td colspan="2">b. Solo nel senso dal quale il segnale è visibile</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image25.png) o ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image26.png)</td></tr>
-<tr><td>D.2</td><td>Raccomandazione di tenersi entro lo spazio indicato in «verde»</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image27.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image28.png)</td></tr>
+<tr><td>D.1</td><td colspan="2">Passaggio raccomandato dei ponti a. Nei due sensi</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image24.png)</td></tr>
+<tr><td></td><td colspan="2">b. Solo nel senso dal quale il segnale è visibile</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image25.png) o ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image26.png)</td></tr>
+<tr><td>D.2</td><td>Raccomandazione di tenersi entro lo spazio indicato in «verde»</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image27.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image28.png)</td></tr>
 </table>
 
 ### E. Segnali d’indicazione
 
 <table>
-<tr><td>E.1</td><td>Autorizzazione di stazionare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image29.png)</td></tr>
-<tr><td>E.2</td><td>Autorizzazione di ancorare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image30.png)</td></tr>
-<tr><td>E.3</td><td>Fine di un divieto o di un obbligo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image31.png)</td></tr>
-<tr><td>E.4</td><td>Sci nautico autorizzato</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image32.png)</td></tr>
-<tr><td>E.5</td><td>Tavole a vela autorizzate</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image33.png)</td></tr>
-<tr><td>E.6</td><td>Segnalazione del pescaggio minimo di 2 m Quando il livello dell’acqua corrisponde a 2,5 m sulla scala di Costanza, il pescaggio minimo nel luogo segnalato, verso il largo, è di 2 m. Il numero recato sul segnale corrisponde a quello dell’indicazione sistematica delle varie carte per la navigazione sul lago di Costanza.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image34.png)</td></tr>
-<tr><td>E.7</td><td>Segnalazione di bassifondi e ostacoli</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image35.png)</td></tr>
+<tr><td>E.1</td><td>Autorizzazione di stazionare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image29.png)</td></tr>
+<tr><td>E.2</td><td>Autorizzazione di ancorare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image30.png)</td></tr>
+<tr><td>E.3</td><td>Fine di un divieto o di un obbligo</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image31.png)</td></tr>
+<tr><td>E.4</td><td>Sci nautico autorizzato</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image32.png)</td></tr>
+<tr><td>E.5</td><td>Tavole a vela autorizzate</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image33.png)</td></tr>
+<tr><td>E.6</td><td>Segnalazione del pescaggio minimo di 2 m Quando il livello dell’acqua corrisponde a 2,5 m sulla scala di Costanza, il pescaggio minimo nel luogo segnalato, verso il largo, è di 2 m. Il numero recato sul segnale corrisponde a quello dell’indicazione sistematica delle varie carte per la navigazione sul lago di Costanza.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image34.png)</td></tr>
+<tr><td>E.7</td><td>Segnalazione di bassifondi e ostacoli</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image35.png)</td></tr>
 <tr><td>E.8</td><td colspan="2">Gli ostacoli alla navigazione e gli sbarramenti possono anche essere segnalati con una luce bianca lampeggiante o intermittente.</td></tr>
 </table>
 
@@ -1755,28 +1757,28 @@ I segnali principali possono essere completati con tavole, targhe o iscrizioni c
 
 <table>
 <tr><td>Esempio:</td><td></td></tr>
-<tr><td>Obbligo di non superare 12 km/h a 1000 m</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image36.png)</td></tr>
+<tr><td>Obbligo di non superare 12 km/h a 1000 m</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image36.png)</td></tr>
 </table>
 
 - 2\. Frecce indicanti il senso del tratto sui s’applica il segnale principale.
 
 <table>
 <tr><td>Esempio:</td><td></td></tr>
-<tr><td>Autorizzazione di stazionare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image37.png)</td></tr>
+<tr><td>Autorizzazione di stazionare</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image37.png)</td></tr>
 </table>
 
 - 3\. Targhe recanti spiegazioni o indicazioni completive. Le targhe sono poste sotto il segnale principale.
 
 <table>
 <tr><td>Esempio:</td><td></td></tr>
-<tr><td>Arresto per la dogana</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image38.png)</td></tr>
+<tr><td>Arresto per la dogana</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image38.png)</td></tr>
 </table>
 
 ### G. B Boe gialle; segnalazione dei limiti di superficie cui s’applicano disposizioni particolari
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image39.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image39.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/it/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/it/xml/image/image40.png)
 
 ### H. Segnali d’avvertimento di tempesta
 
@@ -1787,7 +1789,7 @@ I segnali principali possono essere completati con tavole, targhe o iscrizioni c
 - Fuoco arancio intermittente, circa 90 volte il minuto.
 - L’avviso di tempesta segnala l’arrivo di forti raffiche di vento, di velocità pari o superiore a 34 nodi (a partire dal grado 8 della scala Beaufort).
 
-Allegato C*[^t-4]*
+Allegato C[^t-4]
 
 ## Prescrizioni concernenti i gas di scarico
 

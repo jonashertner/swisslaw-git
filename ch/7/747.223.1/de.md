@@ -4,20 +4,20 @@ title: "Verordnung vom 17. März 1976 über die Schifffahrt auf dem Bodensee (Bo
 short: BSO
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338"
 language: de
-version: 2014-01-01
+version: 2022-01-01
 adopted: 1976-03-17
 in_force: 1976-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/fedlex-data-admin-ch-eli-cc-1976-1338_1338_1338-20140101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1976-1338_1338_1338-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Schifffahrt auf dem Bodensee
 
-(Bodensee-Schifffahrts-Ordnung, BSO)**[^t-1]**
+(Bodensee-Schifffahrts-Ordnung, BSO)[^t-1]
 
-vom 17. März 1976[^t-2] (Stand am 1. Januar 2014)
+vom 17. März 1976[^t-2] (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss dem Beschluss der Internationalen Schifffahrtskommission vom 27. Juni 2001, genehmigt vom BR am 21. Nov. 2001, in Kraft seit 1. Jan. 2002 ([AS 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
 [^t-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
@@ -26,7 +26,7 @@ Der Schweizerische Bundesrat,
 
 gestützt auf Artikel 56 des Bundesgesetzes vom 3. Oktober 1975[^ingress-1] über die Binnenschifffahrt und auf Artikel 5 des Übereinkommens vom 1. Juni 1973[^ingress-2] über die Schifffahrt auf dem Bodensee, die von der Internationalen Schifffahrtskommission am 13. Januar 1976 verabschiedete Bodensee-Schifffahrts-Ordnung genehmigend,
 
-verordnet:*[^ingress-3]*
+verordnet:[^ingress-3]
 
 [^ingress-1]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
 [^ingress-2]: [SR 0.747.223.11](https://fedlex.data.admin.ch/eli/cc/1976/19_19_19)
@@ -412,7 +412,7 @@ Fahrzeuge des öffentlichen Sicherheitsdienstes können ein blaues Blinklicht ze
 
 [^313-1]: Eingefügt durch den Beschluss der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
 
-### Abschnitt IV: Schallzeichen und Sprechfunk****
+### Abschnitt IV: Schallzeichen und Sprechfunk
 
 [^part2-chapIV-1]
 
@@ -701,7 +701,7 @@ Ein in Not befindliches Fahrzeug kann Hilfe herbeirufen durch
 
 [^701-1]: Fassung gemäss dem Beschluss der Internationalen Schifffahrtskommission vom 23. Juni 1995, vom BR genehmigt am 29. Nov. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
 
-### Abschnitt VIII:**** Wassergefährdende Stoffe und gefährliche Güter
+### Abschnitt VIII: Wassergefährdende Stoffe und gefährliche Güter
 
 [^part2-chapVIII-1]
 
@@ -1555,7 +1555,9 @@ Die Probe- und Überstellungszulassung darf nur verwendet werden:
 
 Fahrzeuge, die für hoheitliche Aufgaben oder im gewässerkundlichen Dienst eingesetzt werden, und Fahrzeuge, die Zwecken der Rettung und Hilfeleistung dienen, sind von den Vorschriften der Abschnitte V bis VII, X, XI und XIII bis XV so weit befreit, als es die Erfüllung ihrer Aufgaben unbedingt erfordert.
 
-Fahrzeuge der Polizei, der Zollverwaltung und der Fischereiaufsicht sind darüber hinaus unter den Voraussetzungen des ersten Satzes von den Vorschriften des Artikels 3.06 befreit, soweit die Sicherheit der Schifffahrt dadurch nicht beeinträchtigt wird.
+Fahrzeuge der Polizei, des Bundesamts für Zoll und Grenzsicherheit[^1601-1] und der Fischereiaufsicht sind darüber hinaus unter den Voraussetzungen des ersten Satzes von den Vorschriften des Artikels 3.06 befreit, soweit die Sicherheit der Schifffahrt dadurch nicht beeinträchtigt wird.
+
+[^1601-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 16.02
 
@@ -1625,7 +1627,7 @@ Abweichend von Absatz 1 treten für Fahrzeuge, die am 31. März 1976 nach bisher
 - c. die Artikel 13.10 und 13.17 am 1. April 1979;
 - d. der Artikel 13.11 zweiter Satz am 1. April 1981.
 
-## Schlussbestimmungen der Änderung vom 4. Juni 1991****
+## Schlussbestimmungen der Änderung vom 4. Juni 1991
 
 [^u1-1]
 
@@ -1633,7 +1635,7 @@ Abweichend von Absatz 1 treten für Fahrzeuge, die am 31. März 1976 nach bisher
 
 Diese Änderung gilt für Fahrzeuge mit Schiffsmotoren, die erstmals nach dem 1. Januar 1993 nach der Bodensee-Schifffahrts-Ordnung zugelassen werden.
 
-## Schlussbestimmungen der Änderung vom 23. Juni 1995****
+## Schlussbestimmungen der Änderung vom 23. Juni 1995
 
 [^u2-1]
 
@@ -1665,9 +1667,9 @@ Anlage A
 <tr><td>– – – – – – zwei kurze Töne, dreimal in der Minute oder anhaltendes Läuten mit einer Glocke</td><td>«Nebelsignal der Häfen, Landestellen und Nebelwarnanlagen»</td><td>4.03</td><td></td></tr>
 </table>
 
-Anlage B*[^t-3]*
+Anlage B[^t-3]
 
-## Schifffahrtszeichen****
+## Schifffahrtszeichen
 
 [^annexB-lvlu1-1]
 
@@ -1684,58 +1686,58 @@ Allgemeines
 
 <table>
 <tr><td colspan="4">[tab] A.1 Verbot der Durchfahrt oder gesperrte Wasserflächen</td><td></td></tr>
-<tr><td colspan="4">a. für Fahrzeuge aller Art</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image1.png)</td></tr>
-<tr><td colspan="4">zwei Lichtzeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image2.png)</td></tr>
-<tr><td colspan="4">b. für Fahrzeuge mit Maschinenantrieb</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image3.png)</td></tr>
-<tr><td colspan="4">[tab] A.2 Überholverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image4.png)</td></tr>
-<tr><td colspan="4">A.3 Verbot des Begegnens und Überholverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image5.png)</td></tr>
-<tr><td colspan="4">A.4 Liegeverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image6.png)</td></tr>
-<tr><td colspan="4">A.5 Ankerverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image7.png)</td></tr>
-<tr><td colspan="4">A.6 Festmacheverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image8.png)</td></tr>
-<tr><td colspan="4">A.7 Wendeverbot</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image9.png)</td></tr>
-<tr><td colspan="2">A.8 Verbot, schädlichen Wellenschlag oder Sog zu erzeugen</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image10.png)</td></tr>
-<tr><td>A.9 Verbot, ausserhalb der angezeigten Begrenzung zu fahren</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image12.png)</td></tr>
-<tr><td colspan="3">A.10 Verbot des Wasserskifahrens</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image13.png)</td></tr>
-<tr><td colspan="3">A.11 Verbot des Segelsurfbrettfahrens</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image14.png)</td></tr>
-<tr><td colspan="3">A.12 Verbot des Fahrens mit Segelfahrzeugen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image15.png)</td></tr>
+<tr><td colspan="4">a. für Fahrzeuge aller Art</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="4">zwei Lichtzeichen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image2.png)</td></tr>
+<tr><td colspan="4">b. für Fahrzeuge mit Maschinenantrieb</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image3.png)</td></tr>
+<tr><td colspan="4">[tab] A.2 Überholverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image4.png)</td></tr>
+<tr><td colspan="4">A.3 Verbot des Begegnens und Überholverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image5.png)</td></tr>
+<tr><td colspan="4">A.4 Liegeverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image6.png)</td></tr>
+<tr><td colspan="4">A.5 Ankerverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image7.png)</td></tr>
+<tr><td colspan="4">A.6 Festmacheverbot</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image8.png)</td></tr>
+<tr><td colspan="4">A.7 Wendeverbot</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image9.png)</td></tr>
+<tr><td colspan="2">A.8 Verbot, schädlichen Wellenschlag oder Sog zu erzeugen</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image10.png)</td></tr>
+<tr><td>A.9 Verbot, ausserhalb der angezeigten Begrenzung zu fahren</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image11.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image12.png)</td></tr>
+<tr><td colspan="3">A.10 Verbot des Wasserskifahrens</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image13.png)</td></tr>
+<tr><td colspan="3">A.11 Verbot des Segelsurfbrettfahrens</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image14.png)</td></tr>
+<tr><td colspan="3">A.12 Verbot des Fahrens mit Segelfahrzeugen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image15.png)</td></tr>
 </table>
 
 ### B. Gebotszeichen
 
 <table>
-<tr><td>B.1 Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image16.png)</td></tr>
-<tr><td>B.2 Gebot, unter bestimmten Umständen anzuhalten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image17.png)</td></tr>
-<tr><td>B.3 Gebot, die in km/h angegebene Geschwindigkeit nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image18.png)</td></tr>
-<tr><td>B.4 Gebot, ein Schallzeichen zu geben</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image19.png)</td></tr>
-<tr><td>B.5 Gebot, besondere Vorsicht walten zu lassen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image20.png)</td></tr>
+<tr><td>B.1 Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image16.png)</td></tr>
+<tr><td>B.2 Gebot, unter bestimmten Umständen anzuhalten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image17.png)</td></tr>
+<tr><td>B.3 Gebot, die in km/h angegebene Geschwindigkeit nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image18.png)</td></tr>
+<tr><td>B.4 Gebot, ein Schallzeichen zu geben</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image19.png)</td></tr>
+<tr><td>B.5 Gebot, besondere Vorsicht walten zu lassen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image20.png)</td></tr>
 </table>
 
 ### C. Zeichen für Einschränkungen
 
 <table>
-<tr><td>C.1 Beschränkte Durchfahrtshöhe</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image21.png)</td></tr>
-<tr><td>C.2 Beschränkte Durchfahrtsbreite</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image22.png)</td></tr>
-<tr><td>C.3 Das Fahrwasser ist eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern an, in dem sich Fahrzeuge vom Ufer entfernt halten sollen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image23.png)</td></tr>
+<tr><td>C.1 Beschränkte Durchfahrtshöhe</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image21.png)</td></tr>
+<tr><td>C.2 Beschränkte Durchfahrtsbreite</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image22.png)</td></tr>
+<tr><td>C.3 Das Fahrwasser ist eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern an, in dem sich Fahrzeuge vom Ufer entfernt halten sollen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image23.png)</td></tr>
 </table>
 
 ### D. Empfehlende Zeichen
 
 <table>
-<tr><td>D.1 Empfohlene Durchfahrtsöffnung bei Brücken a. für Verkehr in beiden Richtungen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image24.png)</td></tr>
-<tr><td>b*.* für Verkehr nur in der Richtung in der die Zeichen sichtbar sind</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image25.png) oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image26.png)</td></tr>
-<tr><td>D.2 Empfehlung, sich auf der mit «grün» bezeichneten Fahrwasserseite zu halten</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image27.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image28.png)</td></tr>
+<tr><td>D.1 Empfohlene Durchfahrtsöffnung bei Brücken a. für Verkehr in beiden Richtungen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image24.png)</td></tr>
+<tr><td>b*.* für Verkehr nur in der Richtung in der die Zeichen sichtbar sind</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image25.png) oder ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image26.png)</td></tr>
+<tr><td>D.2 Empfehlung, sich auf der mit «grün» bezeichneten Fahrwasserseite zu halten</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image27.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image28.png)</td></tr>
 </table>
 
 ### E. Hinweiszeichen
 
 <table>
-<tr><td colspan="3">E.1 Erlaubnis zum Stilliegen</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image29.png)</td></tr>
-<tr><td colspan="3">E.2 Erlaubnis zum Ankern</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image30.png)</td></tr>
-<tr><td colspan="3">E.3 Ende eines Verbots oder Gebots</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image31.png)</td></tr>
-<tr><td colspan="2">E.4 Erlaubnis zum Wasserskifahren</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image32.png)</td></tr>
-<tr><td colspan="3">E.5 Erlaubnis zum Segelsurfbrettfahren</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image33.png)</td></tr>
-<tr><td>E.6 Kennzeichnung der 2 m-Wasserlinie Bei 2,5 m am Konstanzer Pegel ist seewärts der markierten Stelle eine Mindestwassertiefe von 2 m. Die Zahl auf der Tafel entspricht der in den verschiedenen Bodensee-Schifffahrtskarten eingetragenen Ordnungsnummer.</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image34.png)</td></tr>
-<tr><td>E.7 Kennzeichen der Untiefen und Schifffahrtshindernisse</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image35.png)</td></tr>
+<tr><td colspan="3">E.1 Erlaubnis zum Stilliegen</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image29.png)</td></tr>
+<tr><td colspan="3">E.2 Erlaubnis zum Ankern</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image30.png)</td></tr>
+<tr><td colspan="3">E.3 Ende eines Verbots oder Gebots</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image31.png)</td></tr>
+<tr><td colspan="2">E.4 Erlaubnis zum Wasserskifahren</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image32.png)</td></tr>
+<tr><td colspan="3">E.5 Erlaubnis zum Segelsurfbrettfahren</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image33.png)</td></tr>
+<tr><td>E.6 Kennzeichnung der 2 m-Wasserlinie Bei 2,5 m am Konstanzer Pegel ist seewärts der markierten Stelle eine Mindestwassertiefe von 2 m. Die Zahl auf der Tafel entspricht der in den verschiedenen Bodensee-Schifffahrtskarten eingetragenen Ordnungsnummer.</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image34.png)</td></tr>
+<tr><td>E.7 Kennzeichen der Untiefen und Schifffahrtshindernisse</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image35.png)</td></tr>
 <tr><td colspan="4">E.8 Schifffahrtshindernisse und Absperrungen können auch mit einem weissen Blitz- oder Blinklicht versehen werden.</td></tr>
 </table>
 
@@ -1747,30 +1749,30 @@ Die Hauptzeichen können durch zusätzliche Tafeln, Schilder oder Aufschriften i
 
 <table>
 <tr><td>Beispiel:</td><td></td></tr>
-<tr><td>Gebot, eine Geschwindigkeit von 12 km/h nach 1000 m nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image36.png)</td></tr>
+<tr><td>Gebot, eine Geschwindigkeit von 12 km/h nach 1000 m nicht zu überschreiten</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image36.png)</td></tr>
 </table>
 
 - 2\. Pfeile, die angeben, in welcher Richtung der Strecke das Hauptzeichen gilt.
 
 <table>
 <tr><td>Beispiel:</td><td></td></tr>
-<tr><td>Erlaubnis zum Stilliegen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image37.png)</td></tr>
+<tr><td>Erlaubnis zum Stilliegen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image37.png)</td></tr>
 </table>
 
 - 3\. Schilder, welche ergänzende Erklärungen oder Hinweise geben. Die Schilder werden unter den Hauptzeichen angebracht.
 
 <table>
 <tr><td>Beispiel:</td><td></td></tr>
-<tr><td>Anhalten zwecks Zollabfertigung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image38.png)</td></tr>
+<tr><td>Anhalten zwecks Zollabfertigung</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image38.png)</td></tr>
 </table>
 
 ### G. G Gelbe Bojen; Kennzeichnung der Grenzen von Wasserflächen, für die besondere Anordnungen bestehen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image39.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image39.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/de/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/de/xml/image/image40.png)
 
-### H. Starkwind- und Sturmwarnungen****
+### H. Starkwind- und Sturmwarnungen
 
 [^annexB-lvlu1-lvlH-1]
 
@@ -1788,7 +1790,7 @@ Aufleuchten von orangefarbigen Blinklichtern mit ca. 90 orangefarbigen Blitzen p
 
 Sturmwarnungen kündigen das Auftreten von Windböen von 34 Knoten und mehr an (Beaufort 8 und grösser).
 
-Anlage C*[^t-4]*
+Anlage C[^t-4]
 
 ## Abgasvorschriften für Schiffsmotoren
 

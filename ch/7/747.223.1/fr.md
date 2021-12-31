@@ -4,20 +4,20 @@ title: "Ordonnance du 17 mars 1976 concernant la navigation sur le lac de Consta
 short: RNC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338"
 language: fr
-version: 2014-01-01
+version: 2022-01-01
 adopted: 1976-03-17
 in_force: 1976-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/fedlex-data-admin-ch-eli-cc-1976-1338_1338_1338-20140101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1976-1338_1338_1338-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la navigation sur le lac de Constance
 
-(Règlement de la Navigation sur le lac de Constance, RNC)**[^t-1]**
+(Règlement de la Navigation sur le lac de Constance, RNC)[^t-1]
 
-du 17 mars 1976[^t-2] (Etat le 1<sup>er</sup> janvier 2014)
+du 17 mars 1976[^t-2] (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon la D de la Commission internationale de la navigation du 27 juin 2001, approuvée par le CF le 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
 [^t-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
@@ -26,7 +26,7 @@ Le Conseil fédéral suisse,
 
 vu l’art. 56 de la loi fédérale du 3 octobre 1975 sur la navigation intérieure[^ingress-1], vu l’art. 5 de la Convention du 1<sup>er</sup> juin 1973 relative à la navigation sur le lac de Constance[^ingress-2], et approuvant le Règlement de la navigation sur le Lac de Constance adopté le 13 janvier 1976 par la Commission internationale de la navigation sur le Lac de Constance,
 
-arrête:*[^ingress-3]*
+arrête:[^ingress-3]
 
 [^ingress-1]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
 [^ingress-2]: [RS 0.747.223.11](https://fedlex.data.admin.ch/eli/cc/1976/19_19_19)
@@ -115,7 +115,7 @@ Dans la présente ordonnance:
 
 <sup>2</sup> Sans préjudice des prescriptions concernant le permis de conduire, le conducteur d’un bâtiment motorisé doit être âgé de 14 ans au moins.
 
-<sup>3</sup> Lorsque le bateau est en route, le conducteur doit être à bord. Il est responsable de l’observation des prescriptions de la présente ordonnance à bord de son bâtiment. A bord des engins flottants en travail, le maître de l’engin peut remplacer le conducteur. Le maître de l’engin n’est pas tenu d’être titulaire d’un permis de conduire.
+<sup>3</sup> Lorsque le bateau est en route, le conducteur doit être à bord. Il est responsable de l’observation des prescriptions de la présente ordonnance à bord de son bâtiment. Àbord des engins flottants en travail, le maître de l’engin peut remplacer le conducteur. Le maître de l’engin n’est pas tenu d’être titulaire d’un permis de conduire.
 
 <sup>4</sup> Les bâtiments remorqués ou menés à couple ne doivent être placés sous l’autorité d’un conducteur que lorsque le conducteur du bâtiment assurant la propulsion du convoi ou de l’ensemble l’exige. Dans le cas contraire, il doit en même temps assumer les devoirs du conducteur manquant.
 
@@ -412,7 +412,7 @@ Les bâtiments assurant un service de sécurité public peuvent porter un feu bl
 
 [^313-1]: Introduit par le ch. I de la D de la Commission internationale de la navigation du 23 juin 1995, approuvée par le CF le 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
 
-### Chapitre IV: Signaux sonores et radiotéléphonie****
+### Chapitre IV: Signaux sonores et radiotéléphonie
 
 [^part2-chapIV-1]
 
@@ -448,7 +448,7 @@ Sous réserve des autres signaux sonores, prescrits par la présente ordonnance,
 
 Par temps bouché, les ports et débarcadères peuvent émettre les signaux sonores suivants:
 
-- a. deux sons brefs, répétés trois fois par minute par un avertisseur sonore approprié; ou
+- a. deux sons brefs, répétés trois fois par minute par un avertisseur sonore approprié, ou
 - b. des volées continues de cloches.
 
 #### Art. 4.04
@@ -607,7 +607,7 @@ Les bâtiments qui doivent s’écarter d’autres bâtiments doivent leur laiss
 
 <sup>1</sup> Les bâtiments motorisés, à l’exception de ceux qui sont propulsés électriquement avec une puissance ne dépassant pas 2 kW, ne doivent naviguer à moins de 300 m des rives ou des roseaux s’étendant devant les rives (zone côtière) que pour accoster, partir ou stationner.[^611-1] En pareil cas, ils doivent, sauf s’il s’agit de bâtiments prioritaires et de convois remorqués, choisir la route la plus courte et naviguer à une vitesse ne dépassant pas 10 km/h. Lorsque, dans des passages étroits, les zones côtières se touchent ou chevauchent, les bâtiments visés à la première phrase ci-dessus peuvent naviguer au milieu de la voie navigable à une vitesse ne dépassant pas 10 km/h; si des hauts-fonds ne permettent pas d’observer cette prescription, ils doivent se tenir à la plus grande distance possible de la rive.
 
-<sup>2</sup> A l’exception de la limitation de vitesse, les dispositions du al. 1 ne s’appliquent pas aux bâtiments de pêche professionnelle portant le ballon prévu à l’art. 3.10, al. 1.
+<sup>2</sup> Àl’exception de la limitation de vitesse, les dispositions du al. 1 ne s’appliquent pas aux bâtiments de pêche professionnelle portant le ballon prévu à l’art. 3.10, al. 1.
 
 <sup>3</sup> Il est interdit de naviguer dans les champs de végétation aquatique tels que roseaux, nénuphars ou joncs. Si les circonstances locales ne s’y opposent pas (p. ex. entrées de ports ou passages étroits), il faut observer une distance minimale de 25 m.[^611-2] Cette disposition ne s’applique pas aux bâtiments de pêche professionnelle.[^611-3]
 
@@ -623,7 +623,7 @@ Les bâtiments qui doivent s’écarter d’autres bâtiments doivent leur laiss
 
 Le radar peut être utilisé comme moyen auxiliaire de navigation lorsque:
 
-- a. le conducteur est en possession d’un permis officiel de naviguer au radar ou d’un permis équivalent établi par un Etat riverain du lac de Constance;
+- a. le conducteur est en possession d’un permis officiel de naviguer au radar ou d’un permis équivalent établi par un État riverain du lac de Constance;
 - b. une deuxième personne se trouve à la timonerie et que cette personne est suffisamment familière de la navigation au radar, et que
 - c. le bâtiment est équipé d’un dispositif de radio téléphonie conformément à l’art. 13.21.
 
@@ -730,7 +730,7 @@ L’art. 8.01 ne s’applique pas à l’acheminement de substances pouvant poll
 
 **Exceptions pour l’acheminement de marchandises dangereuses à ne pas traiter comme substances pouvant polluer les eaux**[^803-1]
 
-A condition qu’il ne s’agisse pas de substances pouvant polluer les aux et que leur acheminement se fasse par des véhicules automoteurs sur un ferry-boat admis à cet effet, l’art. 8.01 ne s’applique pas à l’acheminement des marchandises dangereuses au sens des sous-sections:
+Àcondition qu’il ne s’agisse pas de substances pouvant polluer les aux et que leur acheminement se fasse par des véhicules automoteurs sur un ferry-boat admis à cet effet, l’art. 8.01 ne s’applique pas à l’acheminement des marchandises dangereuses au sens des sous-sections:
 
 - a. 1.1.3.1, let. b, c et e, annexe A, ADR[^803-2];
 - b. 1.1.3.2, let. a, b, d, e et f, annexe A, ADR; et
@@ -1006,7 +1006,7 @@ Le titulaire d’un permis de conduire doit:
 <tr><td></td><td>14 ans révolus pour les bâtiments de la catégorie D;</td></tr>
 </table>
 
-- b. Etre apte à conduire un bâtiment;
+- b. Être apte à conduire un bâtiment;
 - c. Avoir subi les examens prescrits (art. 12.05).
 
 <sup>2</sup> Les conditions d’aptitude requises selon l’al. 1, let. b, sont remplies lorsque le candidat a des aptitudes physiques et psychiques suffisantes et que son comportement antérieur permet de présumer qu’il observera les prescriptions et qu’il aura égard aux autres navigateurs. Si des doutes subsistent quant à son aptitude physique ou psychique, il est possible de demander un certificat médical. Les candidats au permis B doivent présente un certificat médical.[^1203-2]
@@ -1044,7 +1044,7 @@ Le requérant d’un permis de conduire doit prouver son aptitude par un examen 
 - c. habileté à conduire un bâtiment;
 - d. connaissance de la voie navigable pour les requérants d’un permis des catégories B et C.
 
-<sup>2</sup> Les titulaires d’un certificat de capacité officiel établi par un Etat riverain du lac de Constance sont dispensés de l’examen pratique visé à l’al. 1, let. c, pour les permis de conduire visés à l’art. 12.02.[^1205-1]
+<sup>2</sup> Les titulaires d’un certificat de capacité officiel établi par un État riverain du lac de Constance sont dispensés de l’examen pratique visé à l’al. 1, let. c, pour les permis de conduire visés à l’art. 12.02.[^1205-1]
 
 [^1205-1]: Introduit par la D de la Commission internationale de la navigation du 18 avril 2013, approuvée par le CF le 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
 
@@ -1070,7 +1070,7 @@ Le permis de conduire doit contenir au moins les indications suivantes:
 
 **Changement de résidence habituelle**[^1207-1]
 
-Lorsque le titulaire d’un permis de conduire change de résidence habituelle pour aller d’un Etat riverain du lac de Constance dans un autre Etat riverain ou d’un Etat non riverain dans un Etat riverain autre que celui qui a délivré le permis de conduire, il doit faire actualiser son permis de conduire auprès de l’autorité compétente, selon le droit national.
+Lorsque le titulaire d’un permis de conduire change de résidence habituelle pour aller d’un État riverain du lac de Constance dans un autre État riverain ou d’un État non riverain dans un État riverain autre que celui qui a délivré le permis de conduire, il doit faire actualiser son permis de conduire auprès de l’autorité compétente, selon le droit national.
 
 [^1207-1]: Nouvelle teneur selon le ch. I de la D de la Commission internationale de la navigation du 23 juin 1995, approuvée par le CF le 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
 
@@ -1086,7 +1086,7 @@ Le permis de conduire peut être retiré ou limité si les conditions d’octroi
 
 **Reconnaissance d’autres permis de conduire**[^1209-1]
 
-Si le conducteur d’un bateau de plaisance est titulaire d’un certificat de capacité officiel établi dans un Etat riverain du lac de Constance mais non valable pour ce lac, ou du certificat international visé dans la Résolution ECE N<sup>o</sup> 40 TRANS/SC.3/147[^1209-2], le certificat de capacité et le certificat international sont néanmoins reconnus comme permis de conduire au sens de l’art. 12.02 pour 30 jours au total pendant une période d’une année civile. Les jours pour lesquels la reconnaissance est valable doivent être certifiés par une attestation de l’autorité compétente.
+Si le conducteur d’un bateau de plaisance est titulaire d’un certificat de capacité officiel établi dans un État riverain du lac de Constance mais non valable pour ce lac, ou du certificat international visé dans la Résolution ECE N<sup>o</sup> 40 TRANS/SC.3/147[^1209-2], le certificat de capacité et le certificat international sont néanmoins reconnus comme permis de conduire au sens de l’art. 12.02 pour 30 jours au total pendant une période d’une année civile. Les jours pour lesquels la reconnaissance est valable doivent être certifiés par une attestation de l’autorité compétente.
 
 [^1209-1]: Nouvelle teneur selon la D de la Commission internationale de la navigation du 27 juin 2001, approuvée par le CF le 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
 [^1209-2]: Selon l’O du 21 déc. 1994 sur les émoluments de l’OCFIM ([RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)**)**, le texte de la résolution peut être obtenu auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
@@ -1200,7 +1200,7 @@ Les moteurs utilisant un mélange de carburant et de lubrifiant ne doivent être
 
 #### Art. 13.11a
 
-**Emissions de gaz d’échappement**[^1311a-1]
+**Émissions de gaz d’échappement**[^1311a-1]
 
 <sup>1</sup> L’annexe C de la présente ordonnance contient les prescriptions sur les gaz d’échappement des moteurs de bateaux.
 
@@ -1212,7 +1212,7 @@ Les moteurs utilisant un mélange de carburant et de lubrifiant ne doivent être
 
 <sup>5</sup> Lors de l’admission selon l’article 14.01, il faut démontrer que les prescriptions de l’annexe C relatives à la construction et les valeurs-limites sont respectées. Cette preuve sera fournie par la présentation d’un certificat d’expertise de type concernant les gaz d’échappement, délivré selon l’annexe C par l’autorité compétente et indiquant le moteur considéré et elle prendra la forme d’une attestation du titulaire dudit certificat.[^1311a-2] Ce certificat est octroyé sur la base d’un contrôle des gaz d’échappement selon ladite annexe. Les prescriptions relatives à la construction, à l’exploitation, aux gaz d’échappement et aux contrôles ultérieurs, ainsi que les appareils de contrôle, découlant d’autres dispositions, limitant de manière au moins aussi sévère ou mesurant avec au moins autant de précision les émissions de gaz et de vapeurs, assurant un même niveau de protection et permettant d’atteindre les mêmes objectifs, peuvent également être reconnus par le Service d’homologation.
 
-<sup>6</sup> Les expertises de type conformes à la Directive 1999/96/CE du Parlement européen et du Conseil du 13 décembre 1999, concernant le rapprochement des dispositions législatives, réglementaires et administratives des Etats membres relatives aux mesures contre l’émission de substances polluantes à l’état gazeux et de particules polluantes provenant de moteurs à allumage commandé au gaz naturel ou au gaz liquéfié et concernant la modification de la directive 88/77/CE du Conseil sont reconnues. Les expertises de type pour les moteurs diesel conformément à la directive 2003/44/CE du Parlement européen et du Conseil du 16 juin 2003 modifiant la directive 94/25/CE concernant le rapprochement des dispositions législatives, réglementaires et administratives des Etats membres relatives aux bateaux de plaisance sont reconnues, compte tenu des émissions de masses absolues (annexe C, n° 3.2.2 et 3.3.2). Les autres expertises de type équivalentes sont reconnues. Si un moteur a déjà passé une expertise de ce genre, les dispositions des règlements servant de base à ces expertises de type s’appliquent pour la demande, le marquage du moteur, le certificat d’expertise de type de gaz d’échappement et la procédure d’examen de la production.[^1311a-3]
+<sup>6</sup> Les expertises de type conformes à la Directive 1999/96/CE du Parlement européen et du Conseil du 13 décembre 1999, concernant le rapprochement des dispositions législatives, réglementaires et administratives des États membres relatives aux mesures contre l’émission de substances polluantes à l’état gazeux et de particules polluantes provenant de moteurs à allumage commandé au gaz naturel ou au gaz liquéfié et concernant la modification de la directive 88/77/CE du Conseil sont reconnues. Les expertises de type pour les moteurs diesel conformément à la directive 2003/44/CE du Parlement européen et du Conseil du 16 juin 2003 modifiant la directive 94/25/CE concernant le rapprochement des dispositions législatives, réglementaires et administratives des États membres relatives aux bateaux de plaisance sont reconnues, compte tenu des émissions de masses absolues (annexe C, n° 3.2.2 et 3.3.2). Les autres expertises de type équivalentes sont reconnues. Si un moteur a déjà passé une expertise de ce genre, les dispositions des règlements servant de base à ces expertises de type s’appliquent pour la demande, le marquage du moteur, le certificat d’expertise de type de gaz d’échappement et la procédure d’examen de la production.[^1311a-3]
 
 <sup>7</sup> Lors du contrôle subséquent ou périodique, du contrôle spécial ou du contrôle d’office visés par l’annexe C, les moteurs à allumage commandé et les moteurs à allumage par compression doivent être soumis à un examen externe; pour les moteurs à allumage commandé, il faudra en outre mesurer, à l’aide d’appareils certifiés et étalonnés, les concentrations de monoxyde de carbone, d’hydrocarbures et de dioxyde de carbone contenues dans les gaz d’échappement, ainsi que le régime du moteur. La mesure doit être effectuée sur le véhicule arrêté, moteur chaud tournant au ralenti. Les valeurs de référence inscrites sur le certificat d’expertise de type ne doivent pas être dépassées lors du contrôle périodique, spécial ou d’office prévu par l’annexe C. La vérification de tous les systèmes présentant de l’importance pour les gaz d’échappement peut être exigée pour les moteurs à allumage commandé et les moteurs à allumage par compression. Lorsque des éléments de construction pertinents pour ces gaz sont plombés et qu’on dispose d’une attestation certifiant que les travaux d’entretien nécessaires ont été effectués, il est possible de renoncer à contrôler ces éléments de construction. Le résultat du contrôle doit être confirmé par écrit à l’autorité.[^1311a-4]
 
@@ -1223,7 +1223,7 @@ Les moteurs utilisant un mélange de carburant et de lubrifiant ne doivent être
 
 #### Art. 13.11b
 
-**Echange des moteurs**[^1311b-1]
+**Échange des moteurs**[^1311b-1]
 
 <sup>1</sup> Les véhicules selon l’art. 13.11*a*, al. 2, ne peuvent désormais être équipés que de moteurs (moteurs de remplacement) qui atteignent au moins les valeurs limites du degré 1 des prescriptions sur les gaz d’échappement.
 
@@ -1250,14 +1250,14 @@ Les bâtiments à moteur à allumage commandé ou diesel qui ont été mis en ci
 Sont considérés comme moyens adéquats pour limiter l’émission de particules:
 
 - a. un système pour lequel il a été prouvé selon le programme de l’UN/ECE concernant la mesure de particules (PMP)[^1311d-2] dans les cycles déterminants pour les bateaux conformément à la norme EN ISO 8178-4:1996 (Moteurs alternatifs à combustion interne – Mesurage des émissions de gaz d’échappement – Partie 4: Cycles d’essai en régime permanent pour différentes applications des moteurs)[^1311d-3] que la valeur-limite du nombre de particules solides d’un diamètre de 23 m, et plus, à savoir 1×10<sup>12</sup> kWh<sup>-1</sup>, est respecté;
-- b. un système de filtres à particules satisfaisant à la liste des filtres à particules de la société autrichienne d’assurance accidents (AUVA), de la coopérative allemande de professionnels de la construction (BGBau), de l’Office fédéral suisse de l’environnement et de la SUVA[^1311d-4]; ou
+- b. un système de filtres à particules satisfaisant à la liste des filtres à particules de la société autrichienne d’assurance accidents (AUVA), de la coopérative allemande de professionnels de la construction (BGBau), de l’Office fédéral suisse de l’environnement et de la SUVA[^1311d-4], ou
 - c. des filtres équivalents en ce qui concerne les émissions de particules.
 
 <sup>3</sup>
 
 Les al. 1 et 2 sont applicables aux bâtiments:
 
-- a. mis en circulation après le 1<sup>er</sup> janvier 2015 dans le champ d’application (art. 0.01) de la présente ordonnance; ou
+- a. mis en circulation après le 1<sup>er</sup> janvier 2015 dans le champ d’application (art. 0.01) de la présente ordonnance, ou
 - b. admis avant le 1<sup>er</sup> janvier 2014 dans le champ d’application (art. 0.01) de la présente ordonnance (art. 0.01) et équipés après le 1<sup>er</sup> janvier 2015 d’un ou de plusieurs moteurs à allumage par compression neufs destinés à la propulsion (remotorisation), à condition que ces mesures de limitation des émissions de particules soient réalisables techniquement et supportables économiquement lors d’une remotorisation.
 
 [^1311d-1]: Introduit par la D de la Commission internationale de la navigation du 18 avril 2013, approuvée par le CF le 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3659](https://fedlex.data.admin.ch/eli/oc/2013/683)).
@@ -1321,7 +1321,7 @@ La puissance totale des moteurs des bâtiments de plaisance doit correspondre à
 
 #### Art. 13.19
 
-**Equipement minimum des bâtiments**[^1319-1]
+**Équipement minimum des bâtiments**[^1319-1]
 
 <sup>1</sup> Les bâtiments doivent être pourvus des appareils optiques et acoustiques nécessaires à l’émission des signaux prescrits dans la deuxième partie de la présente ordonnance.
 
@@ -1333,7 +1333,7 @@ Doivent être munis d’extincteurs ou d’installations de protection contre l�
 - b. les bâtiments ayant des moteurs intérieurs dont la puissance dépasse 4,4 kW, et
 - c. les bâtiments ayant des moteurs hors-bord dont la puissance dépasse 7,4 kW.[^1319-2]
 
-<sup>3</sup> A l’exception des bateaux à rames et des bateaux à voile sans ballast fixe et dont la puissance du moteur n’excède pas 4,4 kW, tout bâtiment doit être équipé d’un dispositif d’ancrage d’une tenue suffisante.[^1319-3]
+<sup>3</sup> Àl’exception des bateaux à rames et des bateaux à voile sans ballast fixe et dont la puissance du moteur n’excède pas 4,4 kW, tout bâtiment doit être équipé d’un dispositif d’ancrage d’une tenue suffisante.[^1319-3]
 
 <sup>4</sup>
 
@@ -1359,7 +1359,7 @@ Les bâtiments à passagers et les bâtiments à marchandises motorisés doivent
 
 <sup>1</sup> L’autorité compétente fixe le genre et le nombre des engins de sauvetage dont doivent disposer les bâtiments à passagers.[^1320-1]
 
-<sup>2</sup> A bord des bâtiments à passagers et à marchandises et des engins flottants, une bouée de sauvetage au moins doit être disponible en un endroit approprié et aisément accessible. A bord des bâtiments pouvant recevoir plus de 100 passagers, il doit y avoir au moins une bouée de sauvetage de plus pour chaque groupe de 100 personnes.
+<sup>2</sup> Àbord des bâtiments à passagers et à marchandises et des engins flottants, une bouée de sauvetage au moins doit être disponible en un endroit approprié et aisément accessible. Àbord des bâtiments pouvant recevoir plus de 100 passagers, il doit y avoir au moins une bouée de sauvetage de plus pour chaque groupe de 100 personnes.
 
 <sup>3</sup>
 
@@ -1401,7 +1401,7 @@ Les bâtiments suivants doivent être équipés d’un dispositif de radiotélé
 - a. bâtiments à passagers admis au transport de plus de 12 passagers;
 - b. bâtiments à marchandises d’une longueur de plus de 20 m;
 - c. bâtiments équipés d’un radar (art. 6.12);
-- d. bâtiments utilisés pour des fins de l’Etat ou les besoins de l’hydrologie;
+- d. bâtiments utilisés pour des fins de l’État ou les besoins de l’hydrologie;
 - e. bâtiments destinés au sauvetage.
 
 <sup>2</sup> Les exigences auxquelles doivent satisfaire les installations radio visées à l’al. 1 et l’utilisation du spectre des fréquences sont définies selon les prescriptions nationales.
@@ -1431,7 +1431,7 @@ Les bâtiments suivants doivent être équipés d’un dispositif de radiotélé
 Les bâtiments suivants ne sont pas admis:
 
 - a. bâtiments qui, par leur construction, leur mode d’exploitation et leur aménagement, sont essentiellement destinés à l’habitation (par ex. bateaux-maisons ou bateaux d’habitation);
-- b. bâtiments amphibie; et
+- b. bâtiments amphibie, et
 - c. bâtiments motorisés dont la coque selon la norme EN ISO 8666:2002[^1401-3] mesure moins de 2,5 m.[^1401-4]
 
 [^1401-1]: Nouvelle teneur selon la D de la Commission internationale de la navigation du 16 juin 2005, approuvée par le CF le 2 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
@@ -1514,7 +1514,7 @@ L’autorité compétente peut retirer le document d’admission lorsque le bât
 
 <sup>1</sup> Le propriétaire ou les personnes pouvant disposer du bâtiment doivent annoncer dans les deux semaines à l’autorité qui a délivré le document d’admission tout fait exigeant une modification de celui-ci.
 
-<sup>2</sup> Lorsque le lieu de stationnement habituel d’un bâtiment ou, si le bâtiment n’a pas de lieu de stationnement habituel dans un Etat riverain du lac de Constance, lorsque la résidence habituelle du propriétaire ou des personnes pouvant disposer du bâtiment, est déplacé dans la circonscription d’une autre autorité compétente, la demande d’établissement d’un nouveau document doit être présentée à cette autorité dans un délai de deux mois, en même temps que l’ancien document d’admission. Le document d’admission peut alors être délivré sans inspection du bâtiment. Il faut en l’occurrence fixer le moment de la prochaine inspection périodique.
+<sup>2</sup> Lorsque le lieu de stationnement habituel d’un bâtiment ou, si le bâtiment n’a pas de lieu de stationnement habituel dans un État riverain du lac de Constance, lorsque la résidence habituelle du propriétaire ou des personnes pouvant disposer du bâtiment, est déplacé dans la circonscription d’une autre autorité compétente, la demande d’établissement d’un nouveau document doit être présentée à cette autorité dans un délai de deux mois, en même temps que l’ancien document d’admission. Le document d’admission peut alors être délivré sans inspection du bâtiment. Il faut en l’occurrence fixer le moment de la prochaine inspection périodique.
 
 <sup>3</sup> Lorsqu’un bâtiment est vendu, le vendeur doit annoncer, dans un délai de deux semaines, l’adresse de l’acheteur et le futur lieu de stationnement habituel du bâtiment à l’autorité qui a établi le document d’admission.
 
@@ -1544,11 +1544,11 @@ L’admission à l’essai et au transfert ne doit être utilisée que:
 
 [^1408-1]: Introduit par le ch. I de la D de la Commission internationale de la navigation du 23 juin 1995, approuvée par le CF le 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 976](https://fedlex.data.admin.ch/eli/oc/1996/976_976_976)[984](https://fedlex.data.admin.ch/eli/oc/1996/984_984_984)).
 
-### Chapitre XV: Equipage
+### Chapitre XV: Équipage
 
 #### Art. 15.01
 
-**Equipage**
+**Équipage**
 
 <sup>1</sup> L’équipage de tout bâtiment doit être suffisamment nombreux et qualifié pour assurer la sécurité des personnes se trouvant à bord, de la navigation en général et des autres usagers de la voie navigable.
 
@@ -1560,7 +1560,9 @@ L’admission à l’essai et au transfert ne doit être utilisée que:
 
 **Droits particuliers**
 
-Les bâtiments utilisés pour des fins de l’Etat ou les besoins de l’hydrologie et de l’hydrographie, ainsi que les bâtiments de sauvetage sont dispensés d’appliquer les prescriptions de chap. V à VII, X, XI et XIII à XV dans la mesure où l’accomplissement de leurs tâches l’exige absolument. Les bâtiments de la police, de l’administration des douanes et de la surveillance de la pêche ne sont, en outre, pas tenus, dans les conditions mentionnées ci-dessus, d’appliquer les prescriptions de l’art. 3.06 à condition qu’il n’en résulte pas une atteinte à la sécurité de la navigation.
+Les bâtiments utilisés pour des fins de l’État ou les besoins de l’hydrologie et de l’hydrographie, ainsi que les bâtiments de sauvetage sont dispensés d’appliquer les prescriptions de chap. V à VII, X, XI et XIII à XV dans la mesure où l’accomplissement de leurs tâches l’exige absolument. Les bâtiments de la police, de l’Office fédéral de la douane et de la sécurité des frontières[^1601-1] et de la surveillance de la pêche ne sont, en outre, pas tenus, dans les conditions mentionnées ci-dessus, d’appliquer les prescriptions de l’art. 3.06 à condition qu’il n’en résulte pas une atteinte à la sécurité de la navigation.
+
+[^1601-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 16.02
 
@@ -1576,7 +1578,7 @@ Les bâtiments utilisés pour des fins de l’Etat ou les besoins de l’hydrolo
 
 <sup>5</sup> L’autorité compétente peut autoriser, dans certaines zones situées près de la rive, aux conditions prévues à l’al. 1, utilisation de bâtiments de plaisance, tels que les planches à voile ou les kitesurfs, qui ne répondent pas aux prescriptions du chap. XIII.[^1602-3]
 
-<sup>6</sup> Si les conditions mentionnées à l’al. 1 sont réalisées, l’autorité compétente peut autoriser des exceptions à l’interdiction de l’art. 8.01 al. 1. Avant de le faire, elle doit en informer les autres Etats riverains du lac de Constance et fixer, en accord avec les autorités compétentes des autres Etats riverains du lac de Constance, les mêmes conditions pour le transport des substances ou des marchandises, ceci même si le transport n’a lieu que dans un seul Etat riverain.[^1602-4]
+<sup>6</sup> Si les conditions mentionnées à l’al. 1 sont réalisées, l’autorité compétente peut autoriser des exceptions à l’interdiction de l’art. 8.01 al. 1. Avant de le faire, elle doit en informer les autres États riverains du lac de Constance et fixer, en accord avec les autorités compétentes des autres États riverains du lac de Constance, les mêmes conditions pour le transport des substances ou des marchandises, ceci même si le transport n’a lieu que dans un seul État riverain.[^1602-4]
 
 [^1602-1]: Nouvelle teneur selon la D de la Commission internationale de la navigation du 16 juin 2005, approuvée par le CF le 2 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5739](https://fedlex.data.admin.ch/eli/oc/2005/790)[6681](https://fedlex.data.admin.ch/eli/oc/2005/825)).
 [^1602-2]: Nouvelle teneur selon la D de la Commission internationale de la navigation du 27 juin 2001, approuvée par le CF le 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2002 284](https://fedlex.data.admin.ch/eli/oc/2002/61)[283](https://fedlex.data.admin.ch/eli/oc/2002/60)).
@@ -1603,7 +1605,7 @@ Les bâtiments utilisés pour des fins de l’Etat ou les besoins de l’hydrolo
 
 Vu l’art. 61, par. 4, al. 2, du règlement (CE) n<sup>o</sup> 1272/2008[^1603a-2], les mélanges[^1603a-3] à acheminer conformément aux art. 8.02 et 8.03 et qui sont classés, marqués et emballés conformément à la directive 1999/45/CE[^1603a-4] peuvent être:
 
-- a. mis sur le marché jusqu’au 1<sup>er</sup> juin 2015; et
+- a. mis sur le marché jusqu’au 1<sup>er</sup> juin 2015, et
 - b. acheminés jusqu’au 1<sup>er</sup> juin 2017.
 
 <sup>3</sup> Un délai de transition de trois ans à partir de l’entrée en vigueur de la présente modification est fixé en vue du remplacement des engins de sauvetage qui ne satisfont pas aux dispositions de l’art. 13.20 dans la version modifiée.
@@ -1630,7 +1632,7 @@ En dérogation au al. 1, entrent en vigueur, pour les bâtiments qui, le 31 mars
 - c. les art. 13.10 et 13.17, le 1<sup>er</sup> avril 1979;
 - d. l’art. 3.11 , 2<sup>e</sup> phrase, le 1<sup>er</sup> avril 1981.
 
-## Disposition finale de la modification du 4 juin 1991****
+## Disposition finale de la modification du 4 juin 1991
 
 [^u1-1]
 
@@ -1638,7 +1640,7 @@ En dérogation au al. 1, entrent en vigueur, pour les bâtiments qui, le 31 mars
 
 La présente modification s’applique aux véhicules munis de moteurs de bateaux qui, pour la première fois, sont admis après le 1<sup>er</sup> janvier 1993 en vertu de l’ordonnance concernant la navigation sur le lac de Constance.
 
-## Disposition finale de la modification du 23 juin 1995****
+## Disposition finale de la modification du 23 juin 1995
 
 [^u2-1]
 
@@ -1670,9 +1672,9 @@ Annexe A
 <tr><td>– – – – – – deux sons brefs trois fois par minute ou volée de cloches continue</td><td>«Signal de brume des portes, débarcadères et installations d’avertissement de brouillard»</td><td>4.03</td><td></td></tr>
 </table>
 
-Annexe B*[^t-3]*
+Annexe B[^t-3]
 
-## Signalisation de la voie navigable****
+## Signalisation de la voie navigable
 
 [^annexB-lvlu1-1]
 
@@ -1681,7 +1683,7 @@ Annexe B*[^t-3]*
 
 Généralités
 
-- 1\. A l’exception des bouées jaunes selon lettre G, les signaux doivent être constitués de manière à présenter la forme prévue à l’annexe. Leurs dimensions doivent être telles que la longueur du côté le plus petit, respectivement leur diamètre soit de 0,80 m au moins.
+- 1\. Àl’exception des bouées jaunes selon lettre G, les signaux doivent être constitués de manière à présenter la forme prévue à l’annexe. Leurs dimensions doivent être telles que la longueur du côté le plus petit, respectivement leur diamètre soit de 0,80 m au moins.
 - 2\. Lorsque le revers d’un signal ne porte pas d’indication, il est peint en couleur blanche.
 - 3\. Les signaux peuvent être éclairés de nuit.
 
@@ -1689,57 +1691,57 @@ Généralités
 
 <table>
 <tr><td>A.1</td><td colspan="4">Interdiction de passer au plan d’eau fermé</td><td colspan="2"></td></tr>
-<tr><td></td><td>a. Pour tout bâtiment</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image1.png)</td></tr>
-<tr><td></td><td colspan="5">Deux signaux lumineux</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image2.png)</td></tr>
-<tr><td></td><td colspan="5">b. Pour bâtiments motorisés</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image3.png)</td></tr>
-<tr><td>A.2</td><td colspan="5">Interdiction de dépasser</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image4.png)</td></tr>
-<tr><td>A.3</td><td colspan="5">Interdiction de rencontrer et de dépasser</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image5.png)</td></tr>
-<tr><td>A.4</td><td colspan="5">Interdiction de stationner</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image6.png)</td></tr>
-<tr><td>A.5</td><td colspan="5">Interdiction d’ancrer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image7.png)</td></tr>
-<tr><td>A.6</td><td colspan="5">Interdiction de s’amarrer</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image8.png)</td></tr>
-<tr><td>A.7</td><td colspan="5">Interdiction de virer</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image9.png)</td></tr>
-<tr><td>A.8</td><td colspan="5">Interdiction de causer des remous ou des effets de succion</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image10.png)</td></tr>
-<tr><td>A.9</td><td colspan="2">Interdiction de naviguer en dehors des limites indiquées</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image11.png)</td></tr>
-<tr><td>A.10</td><td colspan="2">[tab] Interdiction du ski nautique</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image12.png)</td></tr>
-<tr><td>A.11</td><td colspan="2">[tab] Interdiction des planches à voile</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image13.png)</td></tr>
-<tr><td>A.12</td><td colspan="2">Interdiction des voiliers</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image14.png)</td></tr>
+<tr><td></td><td>a. Pour tout bâtiment</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image1.png)</td></tr>
+<tr><td></td><td colspan="5">Deux signaux lumineux</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image2.png)</td></tr>
+<tr><td></td><td colspan="5">b. Pour bâtiments motorisés</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image3.png)</td></tr>
+<tr><td>A.2</td><td colspan="5">Interdiction de dépasser</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image4.png)</td></tr>
+<tr><td>A.3</td><td colspan="5">Interdiction de rencontrer et de dépasser</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image5.png)</td></tr>
+<tr><td>A.4</td><td colspan="5">Interdiction de stationner</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image6.png)</td></tr>
+<tr><td>A.5</td><td colspan="5">Interdiction d’ancrer</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image7.png)</td></tr>
+<tr><td>A.6</td><td colspan="5">Interdiction de s’amarrer</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image8.png)</td></tr>
+<tr><td>A.7</td><td colspan="5">Interdiction de virer</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image9.png)</td></tr>
+<tr><td>A.8</td><td colspan="5">Interdiction de causer des remous ou des effets de succion</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image10.png)</td></tr>
+<tr><td>A.9</td><td colspan="2">Interdiction de naviguer en dehors des limites indiquées</td><td colspan="7">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image11.png)</td></tr>
+<tr><td>A.10</td><td colspan="2">[tab] Interdiction du ski nautique</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image12.png)</td></tr>
+<tr><td>A.11</td><td colspan="2">[tab] Interdiction des planches à voile</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image13.png)</td></tr>
+<tr><td>A.12</td><td colspan="2">[tab] Interdiction des voiliers</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image14.png)</td></tr>
 </table>
 
 ### B. Signaux d’obligation
 
 <table>
-<tr><td>B.1</td><td>Obligation de prendre la direction indiquée par la flèche</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image15.png)</td></tr>
-<tr><td>B.2</td><td colspan="2">Obligation de s’arrêter dans certaines conditions</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image16.png)</td></tr>
-<tr><td>B.3</td><td colspan="2">Obligation de ne pas dépasser la vitesse indiquée en km/h</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image17.png)</td></tr>
-<tr><td>B.4</td><td colspan="2">Obligation de siffler</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image18.png)</td></tr>
-<tr><td>B.5</td><td colspan="2">Obligation d’observer une vigilance particulière</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image19.png)</td></tr>
+<tr><td>B.1</td><td>Obligation de prendre la direction indiquée par la flèche</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image15.png)</td></tr>
+<tr><td>B.2</td><td colspan="2">Obligation de s’arrêter dans certaines conditions</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image16.png)</td></tr>
+<tr><td>B.3</td><td colspan="2">Obligation de ne pas dépasser la vitesse indiquée en km/h</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image17.png)</td></tr>
+<tr><td>B.4</td><td colspan="2">Obligation de siffler</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image18.png)</td></tr>
+<tr><td>B.5</td><td colspan="2">Obligation d’observer une vigilance particulière</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image19.png)</td></tr>
 </table>
 
 ### C. Signaux de restriction
 
 <table>
-<tr><td>C.1</td><td colspan="2">La hauteur de la passe est limitée</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image20.png)</td></tr>
-<tr><td>C.2</td><td colspan="2">La largeur de la passe est limitée</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image21.png)</td></tr>
-<tr><td>C.3</td><td colspan="2">Le chenal est limité; le nombre porté sur le signal indique, en mètres, la distance à laquelle les bâtiments doivent se tenir de la rive</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image22.png)</td></tr>
+<tr><td>C.1</td><td colspan="2">La hauteur de la passe est limitée</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image20.png)</td></tr>
+<tr><td>C.2</td><td colspan="2">La largeur de la passe est limitée</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image21.png)</td></tr>
+<tr><td>C.3</td><td colspan="2">Le chenal est limité; le nombre porté sur le signal indique, en mètres, la distance à laquelle les bâtiments doivent se tenir de la rive</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image22.png)</td></tr>
 </table>
 
 ### D. Signaux de recommandation
 
 <table>
-<tr><td>D.1</td><td>Passe recommandée des ponts a. Dans les deux sens b. Dans le seul sens indiqué</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image23.png)</td></tr>
-<tr><td>D.2</td><td>Recommandation de se tenir dans l’espace indiqué en «vert»</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image24.png)</td></tr>
+<tr><td>D.1</td><td>Passe recommandée des ponts a. Dans les deux sens b. Dans le seul sens indiqué</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image23.png)</td></tr>
+<tr><td>D.2</td><td>Recommandation de se tenir dans l’espace indiqué en «vert»</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image24.png)</td></tr>
 </table>
 
 ### E. Signaux d’indication
 
 <table>
-<tr><td colspan="2">E.1</td><td colspan="3">Autorisation de stationner</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image25.png)</td></tr>
-<tr><td colspan="2">E.2</td><td colspan="3">Autorisation d’ancrer</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image26.png)</td></tr>
-<tr><td colspan="2">E.3</td><td colspan="3">Fin d’une interdiction ou d’une obligation</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image27.png)</td></tr>
-<tr><td colspan="2">E.4</td><td colspan="3">Autorisation de pratiquer le ski nautique</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image28.png)</td></tr>
-<tr><td colspan="2">E.5</td><td colspan="3">Autorisation des planches à voile</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image29.png)</td></tr>
-<tr><td colspan="2">E.6</td><td colspan="2">Signalisation du tirant d’eau de 2 m Lorsque le niveau de l’eau correspond à la cote de 2,5 m à l’échelle de Constance, le tirant d’eau minimum est de 2 m, côté large, du lieu signalé. Le chiffre porté par le signal correspond à la numérotation figurant sur les différentes cartes pour la navigation sur le lac de Constance..</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image30.png)</td></tr>
-<tr><td colspan="2">E.7</td><td colspan="2">Signalisation des hauts-fonds et des obstacles</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image31.png)</td></tr>
+<tr><td colspan="2">E.1</td><td colspan="3">Autorisation de stationner</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image25.png)</td></tr>
+<tr><td colspan="2">E.2</td><td colspan="3">Autorisation d’ancrer</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image26.png)</td></tr>
+<tr><td colspan="2">E.3</td><td colspan="3">Fin d’une interdiction ou d’une obligation</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image27.png)</td></tr>
+<tr><td colspan="2">E.4</td><td colspan="3">Autorisation de pratiquer le ski nautique</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image28.png)</td></tr>
+<tr><td colspan="2">E.5</td><td colspan="3">Autorisation des planches à voile</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image29.png)</td></tr>
+<tr><td colspan="2">E.6</td><td colspan="2">Signalisation du tirant d’eau de 2 m Lorsque le niveau de l’eau correspond à la cote de 2,5 m à l’échelle de Constance, le tirant d’eau minimum est de 2 m, côté large, du lieu signalé. Le chiffre porté par le signal correspond à la numérotation figurant sur les différentes cartes pour la navigation sur le lac de Constance..</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image30.png)</td></tr>
+<tr><td colspan="2">E.7</td><td colspan="2">Signalisation des hauts-fonds et des obstacles</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image31.png)</td></tr>
 <tr><td>E.8</td><td colspan="5">Les obstacles à la navigation et les barrages peuvent être munis d’un feu à éclats ou d’un feu scintillant de couleur blanche.</td></tr>
 </table>
 
@@ -1751,28 +1753,28 @@ Les signaux principaux peuvent être complétés par des panneaux, cartouches ou
 
 <table>
 <tr><td>Exemple:</td><td></td></tr>
-<tr><td>Obligation de ne pas dépasser 12 km/h à 1000 m</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image32.png)</td></tr>
+<tr><td>Obligation de ne pas dépasser 12 km/h à 1000 m</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image32.png)</td></tr>
 </table>
 
 - 2\. Flèches indiquant la direction du secteur auquel s’applique le signal principal.
 
 <table>
 <tr><td>Exemple:</td><td></td></tr>
-<tr><td>Autorisation de stationner</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image33.png)</td></tr>
+<tr><td>Autorisation de stationner</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image33.png)</td></tr>
 </table>
 
 - 3\. Cartouches portant des explications ou indications complémentaires. Les cartouches sont placés en dessous du signal principal.
 
 <table>
 <tr><td>Exemple:</td><td></td></tr>
-<tr><td>Arrêt pour la douane</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image34.png)</td></tr>
+<tr><td>Arrêt pour la douane</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image34.png)</td></tr>
 </table>
 
 ### G. Bouées jaunes; signalisation des limites de plans d’eaux auxquels des dispositions particulières sont applicables
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image35.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image36.png)
 
 ### H. Avis de gros vent et de tempête
 
@@ -1786,15 +1788,15 @@ Les signaux principaux peuvent être complétés par des panneaux, cartouches ou
 ### Légende des couleurs
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image37.png)</td><td>= bleu</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image38.png)</td><td>= vert</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image39.png)</td><td>= jaune</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image40.png)</td><td>= rouge</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image41.png)</td><td>= gris</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image42.png)</td><td>= noir</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20140101/fr/xml/image/image43.png)</td><td>= blanc</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image37.png)</td><td>= bleu</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image38.png)</td><td>= vert</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image39.png)</td><td>= jaune</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image40.png)</td><td>= rouge</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image41.png)</td><td>= gris</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image42.png)</td><td>= noir</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338/20220101/fr/xml/image/image43.png)</td><td>= blanc</td></tr>
 </table>
 
 Annexe C
 
-## Prescriptions sur les gaz d’échappement****
+## Prescriptions sur les gaz d’échappement
 
 [^annexC-lvlu1-1]
 
