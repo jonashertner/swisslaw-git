@@ -4,11 +4,11 @@ title: Ordonnance du 11 septembre 2002 sur la partie générale du droit des ass
 short: OPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-569-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-569-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20210101/fr"
 
 (OPGA)
 
-du 11 septembre 2002 (Etat le 1<sup>er</sup> janvier 2021)
+du 11 septembre 2002 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -107,7 +107,7 @@ Sont pris en considération pour effectuer le calcul des dépenses reconnues pre
 
 - a. pour les personnes vivant à domicile: comme loyer, le montant maximal respectif au sens de l’art. 10, al. 1, let. b, LPC;
 - b. pour les personnes vivant dans un home ou dans un hôpital: un montant de 4800 francs par an pour les dépenses personnelles;
-- c. pour toutes les personnes, comme montant forfaitaire pour l’assurance obligatoire des soins: la prime la plus élevée pour la catégorie de personnes en cause, conformément à la version en vigueur de l’ordonnance du DFI relative aux primes moyennes cantonales et régionales de l’assurance obligatoire des soins pour le calcul des prestations complémentaires[^5-3].
+- c.[^5-3] pour toutes les personnes, comme montant forfaitaire pour l’assurance obligatoire des soins: la prime la plus élevée pour la catégorie de personnes en cause, conformément à la version en vigueur de l’ordonnance du Département fédéral de l’intérieur (DFI) relative aux primes moyennes cantonales et régionales de l’assurance obligatoire des soins pour le calcul des prestations complémentaires.
 
 <sup>3</sup> L’imputation de la fortune des personnes vivant dans un home ou dans un hôpital s’élève à un quinzième; pour les bénéficiaires de rente de vieillesse vivant dans un home ou dans un hôpital, elle équivaut à un dixième. Pour un invalide partiel, seul le revenu effectivement réalisé est pris en considération. Une éventuelle limite cantonale pour les frais de home n’est pas prise en considération.
 
@@ -121,7 +121,7 @@ Sont prises en considération les dépenses supplémentaires suivantes:
 
 [^5-1]: Nouvelle teneur selon le ch. I 15 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^5-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^5-3]: [RS 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659)
+[^5-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### Section 3 Intérêts moratoires sur les prestations
 
@@ -270,6 +270,144 @@ N’est pas considéré comme librement visible depuis un lieu accessible au pub
 <sup>2</sup> L’utilisation d’instruments permettant des enregistrements sonores qui améliorent les capacités de perception humaine, tels que micros directionnels, puces ou amplificateurs de son, est interdite. Il est interdit d’exploiter l’enregistrement de propos non publics; si ces enregistrements sont contenus dans des enregistrements vidéo, ils sont néanmoins exploitables sans les enregistrements sonores.
 
 <sup>3</sup> Pour déterminer la localisation, seuls peuvent être utilisés les instruments qui servent à cette fin conformément à leur usage, comme les appareils de localisation par satellite. L’utilisation d’aéronefs est interdite.
+
+### Section 2*a***** Expertise
+
+[^chap2-sec2a-1]
+
+[^chap2-sec2a-1]: Introduite par l’annexe ch. 1 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 7j
+
+**Recherche de consensus**
+
+<sup>1</sup> Si une partie récuse un expert en vertu de l’art. 44, al. 2, LPGA, l’assureur doit examiner les motifs de récusation. En l’absence de motif de récusation, les parties tentent de trouver un consensus.
+
+<sup>2</sup> La recherche de consensus peut être effectuée par oral ou par écrit et doit être consignée dans les dossiers.
+
+<sup>3</sup> Si un mandat d’expertise est attribué de manière aléatoire, il n’y a pas lieu de rechercher un consensus.
+
+#### Art. 7k
+
+**Enregistrement sonore de l’entretien**
+
+<sup>1</sup> L’entretien au sens de l’art. 44, al. 6, LPGA comprend l’ensemble de l’entrevue de bilan. Celle-ci inclut l’anamnèse et la description, par l’assuré, de l’atteinte à sa santé.
+
+<sup>2</sup> Lorsqu’il annonce une expertise, l’assureur doit informer l’assuré que l’entretien fera l’objet d’un enregistrement sonore au sens de l’art. 44, al. 6, LPGA, du but de l’enregistrement, ainsi que de la possibilité d’y renoncer.
+
+<sup>3</sup>
+
+Au moyen d’une déclaration écrite adressée à l’organe d’exécution, l’assuré peut:
+
+- a. annoncer avant l’expertise qu’il renonce à l’enregistrement sonore;
+- b. demander la destruction de l’enregistrement jusqu’à dix jours après l’entretien.
+
+<sup>4</sup> Avant l’entretien, il peut révoquer sa renonciation au sens de l’al. 3, let. a, auprès de l’organe d’exécution.
+
+<sup>5</sup> L’enregistrement sonore doit être réalisé par l’expert conformément à des prescriptions techniques simples. Les assureurs garantissent l’uniformité de ces prescriptions dans les mandats d’expertise. L’expert veille à ce que l’enregistrement sonore de l’entretien se déroule correctement sur le plan technique.
+
+<sup>6</sup> L’assuré et l’expert doivent tous deux confirmer oralement le début et la fin de l’entretien au début et à la fin de l’enregistrement sonore, en précisant l’heure. Ils confirment de la même manière toute interruption de l’enregistrement.
+
+<sup>7</sup> Les experts et les centres d’expertise transmettent l’enregistrement sonore à l’assureur sous forme électronique sécurisée en même temps que l’expertise.
+
+<sup>8</sup> Si l’assuré, après avoir écouté l’enregistrement sonore et constaté des manquements techniques, conteste le caractère vérifiable de l’expertise, l’assuré et l’organe d’exécution tentent de s’accorder sur la suite de la procédure.
+
+#### Art. 7l
+
+**Utilisation et destruction de l’enregistrement sonore de l’entretien**
+
+<sup>1</sup> L’enregistrement sonore ne peut être écouté que par l’assuré, l’assureur ayant mandaté l’expertise et les autorités décisionnaires dans le cadre de la procédure administrative, de la procédure d’opposition (art. 52 LPGA), de la révision et de la reconsidération (art. 53 LPGA) ainsi qu’en cas de contentieux (art. 56 et 62 LPGA); cela vaut également pour la procédure de préavis au sens de l’art. 57*a* de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^7l-1].
+
+<sup>2</sup> La Commission fédérale d’assurance qualité des expertises médicales est également habilitée à écouter les enregistrements sonores dans le cadre des tâches énoncées à l’art. 7*p*, al. 4 et 5.
+
+<sup>3</sup> Dès que la procédure pour laquelle l’expertise a été mandatée est terminée et que la décision qui en découle est entrée en force, l’assureur peut détruire l’enregistrement sonore en accord avec l’assuré.
+
+[^7l-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 7m
+
+**Exigences concernant les experts**
+
+<sup>1</sup>
+
+Les experts médicaux peuvent réaliser des expertises au sens de l’art. 44, al. 1, LPGA s’ils:
+
+- a. disposent d’un titre postgrade au sens de l’art. 2, al. 1, let. b et c, de l’ordonnance du 27 juin 2007 sur les professions médicales[^7m-1];
+- b. sont inscrits dans le registre visé à l’art. 51, al. 1, de la loi fédérale du 23 juin 2006 sur les professions médicales (LPMéd)[^7m-2];
+- c. possèdent une autorisation de pratiquer valable ou ont rempli leur obligation de s’annoncer, pour autant que l’art. 34 ou 35 LPMéd l’exige, et
+- d. disposent d’au moins cinq ans d’expérience clinique.
+
+<sup>2</sup> Les spécialistes en médecine interne générale, en psychiatrie et en psychothérapie, en neurologie, en rhumatologie, en orthopédie ou en chirurgie orthopédique et en traumatologie de l’appareil locomoteur doivent être titulaires d’une certification de l’association Médecine d’assurance suisse (Swiss Insurance Medicine, SIM). Font exception les médecins-chefs et les chefs de service des hôpitaux universitaires.[^7m-3]
+
+<sup>3</sup> Les experts en neuropsychologie doivent satisfaire aux exigences de l’art. 50*b* de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^7m-4].
+
+<sup>4</sup> Avec le consentement de l’assuré, il peut être renoncé à certaines des exigences visées aux al. 1 à 3, pour autant que des raisons objectives le nécessitent.
+
+<sup>5</sup> Des personnes ne remplissant pas encore toutes les exigences visées aux al. 1 à 3 peuvent établir des expertises dans le cadre de leur formation universitaire, postgrade et continue. L’expertise est effectuée sous la supervision directe et personnelle des médecins spécialistes ou des neuropsychologues remplissant les conditions énoncées aux al. 1 à 3.
+
+[^7m-1]: [RS 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
+[^7m-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^7m-3]: Voir aussi la disp. trans. de la mod. du 3 nov. 2021 à la fin du texte.
+[^7m-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+#### Art. 7n
+
+**Fourniture de documents**
+
+Les experts et les centres d’expertises doivent fournir sur demande aux assureurs, aux organes d’exécution des différentes assurances sociales et aux tribunaux compétents les documents nécessaires à la vérification de leurs qualifications professionnelles et du respect des exigences qualitatives.
+
+#### Art. 7o
+
+**Commission fédérale d’assurance qualité des expertises médicales: composition**
+
+La Commission fédérale d’assurance qualité des expertises médicales se compose du président et de douze membres, dont:
+
+- a. deux représentants des assurances sociales;
+- b. un représentant des centres d’expertises;
+- c. trois représentants du corps médical;
+- d. un représentant des neuropsychologues;
+- e. deux représentants des milieux scientifiques;
+- f. un représentant des institutions de formation de la médecine des assurances;
+- g. deux représentants des organisations de patients et de personnes en situation de handicap.
+
+#### Art. 7p
+
+**Commission fédérale d’assurance qualité des expertises médicales: tâches**
+
+<sup>1</sup>
+
+La commission formule des recommandations concernant:
+
+- a. les exigences et les normes de qualité pour le processus d’expertise;
+- b. les critères pour l’activité et la formation universitaire, postgrade et continue des experts;
+- c. les critères pour l’accréditation des centres d’expertises et leur activité;
+- d. les critères et les outils pour l’évaluation qualitative des expertises.
+
+<sup>2</sup> La commission surveille le respect des critères définis aux let. a à d par les experts et les centres d’expertises et peut formuler des recommandations sur la base de cette surveillance.
+
+<sup>3</sup> Elle publie les recommandations.
+
+<sup>4</sup> Elle peut exiger des assureurs et des organes d’exécution des différentes assurances sociales qu’ils lui fournissent les documents et les expertises nécessaires au contrôle du respect des critères définis à l’al. 1.
+
+<sup>5</sup> Si les assureurs ou les organes d’exécution des différentes assurances sociales constatent un manquement systématique, par les centres d’expertises, au respect des critères énoncés à l’al. 1, ils peuvent fournir à la commission les documents et expertises nécessaires au contrôle de la qualité.
+
+#### Art. 7q
+
+**Commission fédérale d’assurance qualité des expertises médicales: organisation**
+
+<sup>1</sup>
+
+La commission établit un règlement d’organisation. Celui-ci règle notamment les aspects suivants:
+
+- a. le mode de travail de la commission;
+- b. le recours à des experts pour les travaux de recherche scientifique ou pour la mise en œuvre d’évaluations;
+- c. la rédaction de rapports sur les activités et les recommandations de la commission.
+
+<sup>2</sup> Le DFI approuve le règlement d’organisation.
+
+<sup>3</sup> Le secrétariat de la commission est subordonné au président pour les questions de fond et à l’OFAS pour les questions administratives.
+
+<sup>4</sup> Le président, les membres de la commission et les collaborateurs du secrétariat sont soumis à l’obligation de garder le secret au sens de l’art. 33 LPGA.
 
 ### Section 3 Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts
 
@@ -758,3 +896,11 @@ Sauf règles particulières de la présente ordonnance, les dispositions de l’
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2003.
+
+## Disposition transitoire de la modification du 3 novembre 2021****
+
+[^u1-1]
+
+[^u1-1]: [RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
+
+Si une certification SIM au sens de l’art. 7*m*, al. 2, est requise, elle doit être obtenue dans les cinq ans qui suivent l’entrée en vigueur de la modification du 3 novembre 2021.

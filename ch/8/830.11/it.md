@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 settembre 2002 sulla parte generale del diritto delle
 short: OPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2002-569-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-569-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20210101/it"
 
 (OPGA)
 
-dell’11 settembre 2002 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+dell’11 settembre 2002 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -107,7 +107,7 @@ Per il calcolo delle spese riconosciute ai sensi del capoverso 1 sono computati:
 
 - a. per le persone che vivono a casa: quale pigione di un appartamento, l’importo massimo secondo le categorie di cui all’articolo 10 capoverso 1 lettera b LPC;
 - b. per le persone che vivono in un istituto o in un ospedale: quale importo per le spese personali, 4800 franchi l’anno;
-- c. per tutti: quale importo forfettario per l’assicurazione obbligatoria delle cure medico-sanitarie, il premio massimo per la rispettiva categoria secondo la versione vigente dell’ordinanza del DFI sui premi medi cantonali e regionali dell’assicurazione delle cure medico-sanitarie per il calcolo delle prestazioni complementari[^5-3].
+- c.[^5-3] per tutti: quale importo forfettario per l’assicurazione obbligatoria delle cure medico-sanitarie, il premio massimo per la rispettiva categoria secondo la versione vigente dell’ordinanza del Dipartimento federale dell’interno (DFI) sui premi medi cantonali e regionali dell’assicurazione delle cure medico-sanitarie per il calcolo delle prestazioni complementari.
 
 <sup>3</sup> Per le persone che vivono in un istituto o in un ospedale il computo della sostanza ammonta ad un quindicesimo della sostanza netta, ad un decimo se si tratta di beneficiari di rendite di vecchiaia. Nel caso di persone parzialmente invalide è computato solo il reddito effettivo ottenuto dall’attività lucrativa. Non è tenuto conto di un’eventuale limitazione cantonale delle spese per il soggiorno in un istituto.
 
@@ -121,7 +121,7 @@ Sono computati come spese supplementari:
 
 [^5-1]: Nuovo testo giusta il n. I 15 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^5-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^5-3]: [RS 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659)
+[^5-3]: Nuovo testo giusta l’all. n. 1 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### Sezione 3: Interesse di mora sulle prestazioni
 
@@ -270,6 +270,144 @@ Un luogo è considerato non liberamente visibile da un luogo accessibile al pubb
 <sup>2</sup> Per le registrazioni su supporto sonoro non possono essere impiegati strumenti che aumentano sostanzialmente le normali capacità uditive umane, in particolare microspie, microfoni direzionali e amplificatori. Non possono essere utilizzate registrazioni di parole pronunciate non in pubblico; se tali registrazioni sono contenute in registrazioni su supporto visivo, queste ultime sono tuttavia utilizzabili senza le registrazioni su supporto sonoro.
 
 <sup>3</sup> Per localizzare la posizione sono ammessi soltanto strumenti previsti specificamente a tal fine, in particolare apparecchi di localizzazione satellitari. Non possono essere impiegati apparecchi volanti.
+
+### Sezione 2*a*:**** Perizie
+
+[^chap2-sec2a-1]
+
+[^chap2-sec2a-1]: Introdotta dall’all. n. 1 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 7j
+
+**Tentativo di conciliazione**
+
+<sup>1</sup> Se una parte ricusa un perito secondo l’articolo 44 capoverso 2 LPGA, l’assicuratore deve verificare i motivi di ricusazione. Se non ne sussistono, occorre effettuare un tentativo di conciliazione.
+
+<sup>2</sup> Il tentativo di conciliazione può essere effettuato in forma orale o scritta e deve essere documentato negli atti.
+
+<sup>3</sup> In caso di attribuzione di un mandato peritale con metodo aleatorio non va effettuato alcun tentativo di conciliazione.
+
+#### Art. 7k
+
+**Registrazione del colloquio su supporto audio**
+
+<sup>1</sup> Il colloquio secondo l’articolo 44 capoverso 6 LPGA comprende l’intero colloquio dell’esame. Questo consta dell’indagine anamnestica e della descrizione dei disturbi da parte dell’assicurato.
+
+<sup>2</sup> All’annuncio della perizia, l’assicuratore deve informare l’assicurato circa la registrazione secondo l’articolo 44 capoverso 6 LPGA, il suo scopo e la possibilità di rinunciarvi.
+
+<sup>3</sup>
+
+L’assicurato può, mediante una dichiarazione scritta rivolta agli organi esecutivi:
+
+- a. rinunciare alla registrazione, prima della perizia;
+- b. chiedere la distruzione della registrazione, nei dieci giorni successivi al colloquio.
+
+<sup>4</sup> Prima del colloquio l’assicurato può comunicare all’organo esecutivo la revoca della rinuncia di cui al capoverso 3 lettera a.
+
+<sup>5</sup> La registrazione su supporto audio deve essere effettuata dal perito secondo prescrizioni tecniche semplici. Gli assicuratori vegliano affinché le prescrizioni tecniche nei mandati peritali siano uniformi. Il perito deve garantire che la registrazione del colloquio sia effettuata correttamente dal punto di vista tecnico.
+
+<sup>6</sup> L’inizio e la fine del colloquio devono essere confermati oralmente sia dall’assicurato che dal perito, indicando i rispettivi orari all’inizio e alla fine della registrazione su supporto audio. Le interruzioni della registrazione su supporto audio devono essere confermate nello stesso modo.
+
+<sup>7</sup> I periti e i centri peritali trasmettono all’assicuratore le registrazioni su supporto audio in forma elettronica sicura insieme con la perizia.
+
+<sup>8</sup> Se, dopo aver ascoltato la registrazione su supporto audio e constatato difetti tecnici, l’assicurato contesta la verificabilità della perizia, l’organo esecutivo e l’assicurato tentano di accordarsi su come procedere.
+
+#### Art. 7l
+
+**Impiego e distruzione della registrazione del colloquio su supporto audio**
+
+<sup>1</sup> La registrazione su supporto audio può essere ascoltata dall’assicurato, dall’assicuratore committente e dalle autorità decisionali soltanto nel quadro di una procedura amministrativa, di una procedura d’opposizione (art. 52 LPGA), in sede di revisione e riconsiderazione (art. 53 LPGA), nel quadro del contenzioso (art. 56 e 62 LPGA) nonché nel quadro della procedura di preavviso di cui all’articolo 57*a* della legge federale del 19 giugno 1959[^7l-1] sull’assicurazione per l’invalidità.
+
+<sup>2</sup> La Commissione federale per la garanzia della qualità delle perizie mediche può ascoltare la registrazione su supporto audio nel quadro dello svolgimento dei propri compiti secondo l’articolo 7*p* capoversi 4 e 5.
+
+<sup>3</sup> Non appena la procedura per la quale è stata commissionata la perizia è conclusa e la relativa decisione è passata in giudicato, l’assicuratore può distruggere la registrazione su supporto audio, d’intesa con l’assicurato.
+
+[^7l-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 7m
+
+**Requisiti per i periti**
+
+<sup>1</sup>
+
+I periti medici possono allestire perizie secondo l’articolo 44 capoverso 1 LPGA, se:
+
+- a. dispongono di un titolo di perfezionamento secondo l’articolo 2 capoverso 1 lettere b e c dell’ordinanza del 27 giugno 2007[^7m-1] sulle professioni mediche;
+- b. sono iscritti nel registro di cui all’articolo 51 capoverso 1 della legge del 23 giugno 2006[^7m-2] sulle professioni mediche;
+- c. sono in possesso di un’autorizzazione valida all’esercizio della professione o hanno adempiuto l’obbligo di annunciarsi, se questo è necessario secondo l’articolo 34 o 35 della legge sulle professioni mediche; e
+- d. dispongono di almeno cinque anni di esperienza clinica.
+
+<sup>2</sup> I medici specialisti in medicina interna generale, psichiatria e psicoterapia, neurologia, reumatologia, ortopedia, chirurgia ortopedica e traumatologia dell’apparato locomotore devono disporre del certificato dell’associazione Medicina assicurativa svizzera (Swiss Insurance Medicine, SIM). Sono esclusi i primari e i medici responsabili di servizi di cliniche universitarie.[^7m-3]
+
+<sup>3</sup> I periti in neuropsicologia devono adempiere i requisiti di cui all’articolo 50*b* dell’ordinanza del 27 giugno 1995[^7m-4] sull’assicurazione malattie (OAMal).
+
+<sup>4</sup> Con il consenso dell’assicurato, è possibile derogare a singoli requisiti di cui ai capoversi 1–3, se questo è oggettivamente necessario.
+
+<sup>5</sup> Nell’ambito della formazione, del perfezionamento e dell’aggiornamento, possono allestire perizie anche le persone che non adempiono ancora tutti i requisiti di cui ai capoversi 1–3. L’allestimento delle perizie avviene sotto la supervisione diretta e personale di medici specialisti o neuropsicologi che adempiono i requisiti di cui ai capoversi 1–3.
+
+[^7m-1]: [RS 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
+[^7m-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^7m-3]: Vedi anche la disp. trans. della mod. del 3 nov. 2021 alla fine del presente testo.
+[^7m-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+#### Art. 7n
+
+**Inoltro della documentazione**
+
+I periti e i centri peritali devono far pervenire agli assicuratori e agli organi esecutivi delle singole assicurazioni sociali e dei tribunali competenti, su richiesta, i documenti necessari per una verifica dei requisiti professionali e delle prescrizioni qualitative.
+
+#### Art. 7o
+
+**Commissione federale per la garanzia della qualità delle perizie mediche: composizione**
+
+La Commissione federale per la garanzia della qualità delle perizie mediche si compone del presidente e di un collegio di altri 12 membri. Quest’ultimo si compone di:
+
+- a. due rappresentanti delle assicurazioni sociali;
+- b. un rappresentante dei centri peritali;
+- c. tre rappresentanti del corpo medico;
+- d. un rappresentante dei neuropsicologi;
+- e. due rappresentanti del settore scientifico;
+- f. un rappresentante dell’associazione Medicina assicurativa svizzera;
+- g. due rappresentanti delle organizzazioni dei pazienti e di aiuto ai disabili.
+
+#### Art. 7p
+
+**Commissione federale per la garanzia della qualità delle perizie mediche: compiti**
+
+<sup>1</sup>
+
+La Commissione elabora raccomandazioni concernenti:
+
+- a. i requisiti e i criteri qualitativi per la procedura di allestimento delle perizie;
+- b. i criteri per l’attività nonché la formazione, il perfezionamento e l’aggiornamento dei periti;
+- c. i criteri per l’abilitazione dei centri peritali e la loro attività;
+- d. i criteri e gli strumenti per la valutazione della qualità delle perizie.
+
+<sup>2</sup> La Commissione sorveglia il rispetto dei criteri di cui alle lettere a–d da parte dei periti e dei centri peritali e può elaborare raccomandazioni sulla base di questa sorveglianza.
+
+<sup>3</sup> Pubblica le raccomandazioni.
+
+<sup>4</sup> Può esigere che gli assicuratori e gli organi esecutivi delle singole assicurazioni sociali le forniscano le perizie e i documenti necessari per la sorveglianza dell’adempimento dei criteri di cui al capoverso 1.
+
+<sup>5</sup> Se gli assicuratori o gli organi esecutivi delle singole assicurazioni sociali constatano l’inadempimento sistematico dei criteri di cui al capoverso 1 da parte di centri peritali, possono inoltrare alla Commissione le perizie e i documenti necessari per una valutazione della qualità.
+
+#### Art. 7q
+
+**Commissione federale per la garanzia della qualità delle perizie mediche: organizzazione**
+
+<sup>1</sup>
+
+La Commissione si dota di un regolamento. Tale regolamento disciplina segnatamente:
+
+- a. il metodo di lavoro della Commissione;
+- b. la partecipazione di periti a lavori di ricerca scientifica o allo svolgimento di valutazioni;
+- c. il resoconto sulle attività e sulle raccomandazioni della Commissione.
+
+<sup>2</sup> Il regolamento è sottoposto all’approvazione del DFI.
+
+<sup>3</sup> La segreteria della Commissione è subordinata al presidente della Commissione dal punto di visto tecnico e all’UFAS dal punto di vista amministrativo.
+
+<sup>4</sup> Il presidente e gli altri membri della Commissione e i collaboratori della segreteria sono tenuti all’obbligo del segreto secondo l’articolo 33 LPGA.
 
 ### Sezione 3: Gestione, conservazione, consultazione e distruzione degli atti nonché notifica delle sentenze
 
@@ -757,3 +895,11 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° gennaio 2003.
+
+## Disposizione transitoria della modifica del 3 novembre 2021**
+
+[^u1-1]
+
+[^u1-1]: [RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
+
+Se è necessario un certificato della SIM secondo l’articolo 7*m* capoverso 2, questo deve essere conseguito entro cinque anni dall’entrata in vigore della modifica del 3 novembre 2021.

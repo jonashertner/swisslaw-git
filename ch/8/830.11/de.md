@@ -4,11 +4,11 @@ title: Verordnung vom 11. September 2002 über den Allgemeinen Teil des Sozialve
 short: ATSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/569"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2002-09-11
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2002-569-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/569/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-569-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/569/20210101/de"
 
 (ATSV)
 
-vom 11. September 2002 (Stand am 1. Januar 2021)
+vom 11. September 2002 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -107,7 +107,7 @@ Bei der Berechnung der anerkannten Ausgaben nach Absatz 1 werden angerechnet:
 
 - a. bei zu Hause lebenden Personen: als Mietzins der jeweilige Höchstbetrag nach Artikel 10 Absatz 1 Buchstabe b ELG;
 - b. bei in Heimen oder Spitälern lebendenPersonen: 4800 Franken pro Jahr als Betrag für persönliche Auslagen;
-- c. bei allen Personen: als Pauschalbetrag für die obligatorische Krankenpflegeversicherung die höchste Prämie für die jeweilige Personenkategorie nach der jeweils gültigen Verordnung des EDI über die kantonalen und regionalenDurchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen[^5-3].
+- c.[^5-3] bei allen Personen: als Pauschalbetrag für die obligatorische Krankenpflegeversicherung die höchste Prämie für die jeweilige Personenkategorie nach der jeweils gültigen Verordnung des Eidgenössischen Departements des Innern (EDI) über die kantonalen und regionalen Durchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen.
 
 <sup>3</sup> Der Vermögensverzehr bei in Heimen oder Spitälern lebenden Personenbeträgt ein Fünfzehntel; bei in Heimen oder Spitälern lebenden Altersrentnerinnen und -rentnern beträgt er ein Zehntel. Bei Teilinvaliden wird nur das tatsächlich erzielte Erwerbseinkommen angerechnet. Eine allfällige kantonale Begrenzung der Heimkosten wird nicht berücksichtigt.
 
@@ -121,7 +121,7 @@ Als zusätzliche Ausgabe werden angerechnet:
 
 [^5-1]: Fassung gemäss Ziff. I 15 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^5-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^5-3]: [SR 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659)
+[^5-3]: Fassung gemäss Anhang Ziff. 1 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### 3. Abschnitt: Verzugszins auf Leistungen
 
@@ -270,6 +270,144 @@ Ein Ort gilt als nicht von einem allgemein zugänglichen Ort aus frei einsehbar,
 <sup>2</sup> Für Tonaufzeichnungen dürfen keine Instrumente eingesetzt werden, die das natürliche menschliche Hörvermögen erweitern, namentlich keine Wanzen, Richtmikrofone und Tonverstärkungsgeräte. Aufzeichnungen des nicht öffentlich gesprochenen Wortes dürfen nicht verwertet werden; sind diese Aufzeichnungen in Bildaufzeichnungen enthalten, so sind die Bildaufzeichnungen ohne die Tonaufzeichnungen dennoch verwertbar.
 
 <sup>3</sup> Zur Standortbestimmung sind nur Instrumente zulässig, die nach ihrem bestimmungsgemässen Gebrauch der Standortbestimmung dienen, namentlich satellitenbasierte Ortungsgeräte. Es dürfen keine Fluggeräte eingesetzt werden.
+
+### 2*a*. Abschnitt:**** Gutachten
+
+[^chap2-sec2a-1]
+
+[^chap2-sec2a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 7j
+
+**Einigungsversuch**
+
+<sup>1</sup> Lehnt eine Partei eine Sachverständige oder einen Sachverständigen nach Artikel 44 Absatz 2 ATSG ab, so hat der Versicherungsträger die Ausstandsgründe zu prüfen. Liegt kein Ausstandsgrund vor, so ist ein Einigungsversuch durchzuführen.
+
+<sup>2</sup> Der Einigungsversuch kann mündlich oder schriftlich durchgeführt werden und ist in den Akten zu dokumentieren.
+
+<sup>3</sup> Bei der Vergabe eines Auftrags für ein Gutachten nach dem Zufallsprinzip ist kein Einigungsversuch durchzuführen.
+
+#### Art. 7k
+
+**Tonaufnahme des Interviews**
+
+<sup>1</sup> Das Interview nach Artikel 44 Absatz 6 ATSG umfasst das gesamte Untersuchungsgespräch. Dieses besteht aus der Anamneseerhebung und der Beschwerdeschilderung durch die versicherte Person.
+
+<sup>2</sup> Der Versicherungsträger hat die versicherte Person mit der Ankündigung der Begutachtung über die Tonaufnahme nach Artikel 44 Absatz 6 ATSG, deren Zweck und die Möglichkeit eines Verzichts auf eine Tonaufnahme zu informieren.
+
+<sup>3</sup>
+
+Die versicherte Person kann mittels einer schriftlichen Erklärung gegenüber dem Durchführungsorgan:
+
+- a. vor der Begutachtung erklären, dass sie auf die Tonaufnahme verzichtet;
+- b. bis 10 Tage nach dem Interview die Vernichtung der Tonaufnahme beantragen.
+
+<sup>4</sup> Vor dem Interview kann die versicherte Person gegenüber dem Durchführungsorgan den Verzicht nach Absatz 3 Buchstabe a widerrufen.
+
+<sup>5</sup> Die Tonaufnahme ist von der oder dem Sachverständigen nach einfachen technischen Vorgaben zu erstellen. Die Versicherungsträger sorgen dafür, dass die technischen Vorgaben in den Aufträgen für ein Gutachten einheitlich sind. Die oder der Sachverständige hat sicherzustellen, dass die Aufnahme des Interviews technisch korrekt erfolgt.
+
+<sup>6</sup> Der Beginn und das Ende des Interviews sind sowohl von der versicherten Person als auch von der oder dem Sachverständigen mündlich unter Angabe der jeweiligen Uhrzeit am Anfang und am Ende der Tonaufnahme zu bestätigen. In gleicher Weise sind Unterbrechungen der Tonaufnahme zu bestätigen.
+
+<sup>7</sup> Die Sachverständigen und die Gutachterstellen übermitteln dem Versicherungsträger die Tonaufnahmen in gesicherter elektronischer Form zusammen mit dem Gutachten.
+
+<sup>8</sup> Bestreitet die versicherte Person die Überprüfbarkeit des Gutachtens, nachdem sie die Tonaufnahme abgehört und technische Mängel festgestellt hat, so versuchen das Durchführungsorgan und die versicherte Person, sich über das weitere Vorgehen zu einigen.
+
+#### Art. 7l
+
+**Verwendung und Vernichtung der Tonaufnahme des Interviews**
+
+<sup>1</sup> Die Tonaufnahme darf nur im Verwaltungsverfahren, im Einspracheverfahren (Art. 52 ATSG), während der Revision und der Wiedererwägung (Art. 53 ATSG), im Rechtspflegeverfahren (Art. 56 und 62 ATSG) sowie im Vorbescheidverfahren nach Artikel 57*a* des Bundesgesetzes vom 19. Juni 1959[^7l-1] über die Invalidenversicherung von der versicherten Person, den Auftrag gebenden Versicherungsträgern und den Entscheidbehörden abgehört werden.
+
+<sup>2</sup> Die Eidgenössische Kommission für Qualitätssicherung in der medizinischen Begutachtung kann im Rahmen ihrer Aufgaben nach Artikel 7*p* Absätze 4 und 5 die Tonaufnahme abhören.
+
+<sup>3</sup> Sobald das Verfahren, für das das Gutachten in Auftrag gegeben worden ist, abgeschlossen und die darauf basierende Verfügung rechtskräftig geworden ist, darf der Versicherungsträger im Einverständnis mit der versicherten Person die Tonaufnahme vernichten.
+
+[^7l-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+
+#### Art. 7m
+
+**Anforderungen an Sachverständige**
+
+<sup>1</sup>
+
+Medizinische Sachverständige können Gutachten nach Artikel 44 Absatz 1 ATSG erstellen, wenn sie:
+
+- a. über einen Weiterbildungstitel nach Artikel 2 Absatz 1 Buchstaben b und c der Medizinalberufeverordnung vom 27. Juni 2007[^7m-1] verfügen;
+- b. im Register nach Artikel 51 Absatz 1 des Medizinalberufegesetzes vom 23. Juni 2006[^7m-2] eingetragen sind;
+- c. eine gültige Berufsausübungsbewilligung besitzen oder ihre Meldepflicht erfüllt haben, sofern dies nach Artikel 34 oder 35 des Medizinalberufegesetzes notwendig ist; und
+- d. über mindestens fünf Jahre klinische Erfahrung verfügen.
+
+<sup>2</sup> Fachärztinnen und Fachärzte der allgemeinen inneren Medizin, der Psychiatrie und Psychotherapie, der Neurologie, der Rheumatologie, der Orthopädie, der orthopädischen Chirurgie und der Traumatologie des Bewegungsapparates müssen über das Zertifikat des Vereins Versicherungsmedizin Schweiz (Swiss Insurance Medicine, SIM) verfügen. Ausgenommen sind Chefärztinnen und Chefärzte sowie leitende Ärztinnen und Ärzte in Universitätskliniken.[^7m-3]
+
+<sup>3</sup> Neuropsychologische Sachverständige müssen die Anforderungen nach Artikel 50*b* der Verordnung vom 27. Juni 1995[^7m-4] über die Krankenversicherung (KVV) erfüllen.
+
+<sup>4</sup> Mit der Einwilligung der versicherten Person kann von einzelnen Anforderungen nach den Absätzen 1–3 abgesehen werden, sofern dies sachlich notwendig ist.
+
+<sup>5</sup> Im Rahmen der Aus-, Weiter- und Fortbildung können Gutachten von Personen erstellt werden, die noch nicht alle Anforderungen nach den Absätzen 1–3 erfüllen. Die Erstellung der Gutachten erfolgt unter der direkten und persönlichen Supervision von Fachärztinnen und Fachärzten oder Neuropsychologinnen und Neuropsychologen, die die entsprechenden Voraussetzungen nach den Absätzen 1–3 erfüllen.
+
+[^7m-1]: [SR 811.112.0](https://fedlex.data.admin.ch/eli/cc/2007/538)
+[^7m-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^7m-3]: Siehe auch die UeB Änd. 03.11.2021 am Schluss des Textes.
+[^7m-4]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
+#### Art. 7n
+
+**Zustellung von Unterlagen**
+
+Sachverständige und Gutachterstellen haben den Versicherungsträgern, den Durchführungsorganen der einzelnen Sozialversicherungen und den zuständigen Gerichten auf Anfrage diejenigen Unterlagen zuzustellen, die für eine Prüfung der fachlichen Anforderungen und der Qualitätsvorgaben notwendig sind.
+
+#### Art. 7o
+
+**Eidgenössische Kommission für Qualitätssicherung in der medizinischen Begutachtung: Zusammensetzung**
+
+Die Eidgenössische Kommission für Qualitätssicherung in der medizinischen Begutachtung besteht aus der Präsidentin oder dem Präsidenten und 12 Mitgliedern. Davon vertreten:
+
+- a. zwei Personen die Sozialversicherungen;
+- b. eine Person die Gutachterstellen;
+- c. drei Personen die Ärzteschaft;
+- d. eine Person die Neuropsychologinnen und Neuropsychologen;
+- e. zwei Personen die Wissenschaft;
+- f. eine Person das versicherungsmedizinische Ausbildungswesen;
+- g. zwei Personen die Patienten- und Behindertenorganisationen.
+
+#### Art. 7p
+
+**Eidgenössische Kommission für Qualitätssicherung in der medizinischen Begutachtung: Aufgaben**
+
+<sup>1</sup>
+
+Die Kommission erarbeitet Empfehlungen zu:
+
+- a. Anforderungs- und Qualitätskriterien für das Verfahren zur Erstellung von Gutachten;
+- b. Kriterien für die Tätigkeit sowie die Aus-, Weiter- und Fortbildung von Sachverständigen;
+- c. Kriterien für die Zulassung von Gutachterstellen und deren Tätigkeit;
+- d. Kriterien und Instrumenten für die Beurteilung der Qualität von Gutachten.
+
+<sup>2</sup> Die Kommission überwacht, wie die Kriterien nach den Buchstaben a–d durch die Sachverständigen und die Gutachterstellen eingehalten werden, und kann aufgrund dieser Überwachung Empfehlungen erarbeiten.
+
+<sup>3</sup> Sie macht die Empfehlungen öffentlich zugänglich.
+
+<sup>4</sup> Sie kann von den Versicherungsträgern und Durchführungsorganen der einzelnen Sozialversicherungen die Herausgabe der für die Überwachung der Erfüllung der Kriterien nach Absatz 1 notwendigen Unterlagen und Gutachten verlangen.
+
+<sup>5</sup> Stellen Versicherungsträger oder Durchführungsorgane der einzelnen Sozialversicherungen eine systematische Nichteinhaltung der Kriterien nach Absatz 1 durch Gutachterstellen fest, so können sie der Kommission die notwendigen Unterlagen und Gutachten für eine Überprüfung der Qualität zukommen lassen.
+
+#### Art. 7q
+
+**Eidgenössische Kommission für Qualitätssicherung in der medizinischen Begutachtung: Organisation**
+
+<sup>1</sup>
+
+Die Kommission gibt sich eine Geschäftsordnung. Diese regelt namentlich folgende Punkte:
+
+- a. die Arbeitsweise der Kommission;
+- b. den Beizug von Expertinnen und Experten für wissenschaftliche Forschungsarbeiten oder für die Durchführung von Evaluationen;
+- c. die Berichterstattung über die Tätigkeiten und die Empfehlungen der Kommission.
+
+<sup>2</sup> Das EDI genehmigt die Geschäftsordnung.
+
+<sup>3</sup> Das Sekretariat der Kommission untersteht fachlich der Präsidentin oder dem Präsidenten der Kommission und administrativ dem BSV.
+
+<sup>4</sup> Die Präsidentin oder der Präsident, die Mitglieder der Kommission sowie die Mitarbeitenden des Sekretariats unterliegen der Schweigepflicht nach Artikel 33 ATSG.
 
 ### 3. Abschnitt: Aktenführung, -aufbewahrung, -einsicht und -vernichtung sowie Zustellung der Urteile
 
@@ -762,3 +900,11 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
+
+## Übergangsbestimmung zur Änderung vom 3. November 2021****
+
+[^u1-1]
+
+[^u1-1]: [AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)
+
+Sofern ein Zertifikat der SIM nach Artikel 7*m* Absatz 2 erforderlich ist, muss dieses innerhalb von fünf Jahren nach dem Inkrafttreten der Änderung vom 3. November 2021 erworben werden.
