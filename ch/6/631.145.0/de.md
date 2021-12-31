@@ -3,20 +3,18 @@ sr: "631.145.0"
 title: "Verordnung vom 13. November 1985 über Zollvorrechte der internationalen Organisationen, der Staaten in ihren Beziehungen zu diesen Organisationen und der Sondermissionen fremder Staaten"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819"
 language: de
-version: 2008-01-01
+version: 2022-01-01
 adopted: 1985-11-13
 in_force: 1985-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819/20080101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1819_1819_1819-20080101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1819_1819_1819/20080101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1819_1819_1819-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1819_1819_1819/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung
+# Verordnung über Zollvorrechte der internationalen Organisationen, der Staaten in ihren Beziehungen zu diesen Organisationen und der Sondermissionen fremder Staaten
 
-über Zollvorrechte der internationalen Organisationen, der Staaten in ihren Beziehungen zu diesen Organisationen und der Sondermissionen fremder Staaten
-
-vom 13. November 1985 (Stand am 1. Januar 2008)
+vom 13. November 1985 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -24,8 +22,8 @@ gestützt auf die Artikel 2 Absatz 2, 8 Absatz 1 Buchstabe a, 2 Buchstabe a und 
 
 verordnet:
 
-[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Erstes Kapitel: Internationale Organisationen mit Sitz in der Schweiz
 
@@ -43,9 +41,9 @@ verordnet:
 
 <sup>3</sup> Die Einfuhr von Motorfahrzeugen und der Bezug von abgabenfreiem Treibstoff richtet sich nach den Bestimmungen der Artikel 21, 24 und 27–29.
 
-[^1-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^1-2]: Eingefügt durch Anhang Ziff. 8 der Gaststaatverordnung vom 7. Dez. 2007 ([SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)).
-[^1-3]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^1-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^1-2]: Eingefügt durch Anhang Ziff. 8 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860)).
+[^1-3]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
 
@@ -67,13 +65,13 @@ Die Sendungen müssen an eine internationale Organisation oder an einen ihrer Sp
 
 <sup>5</sup> Verträgt die Veranlagung einer Sendung, für die das besondere Anmeldeformular fehlt, keinen Aufschub, so kann die Sendung provisorisch veranlagt werden. Es obliegt der empfangenden Organisation, entsprechend den Absätzen 1–4 nachträglich die abgabenfreie Zulassung innert 60 Tagen zu beantragen.
 
-[^3-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^3-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 4
 
 [^4-1]
 
-[^4-1]: Aufgehoben durch Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, mit Wirkung seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^4-1]: Aufgehoben durch Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, mit Wirkung seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 5
 
@@ -81,7 +79,7 @@ Die Sendungen müssen an eine internationale Organisation oder an einen ihrer Sp
 
 Im Post- und Kurierverkehr oder als Luftfracht beförderte Sendungen mit Drucksachen, Büchern und Veröffentlichungen, die an internationale Organisationen adressiert und für deren ausschliesslichen Gebrauch bestimmt sind, werden den Empfängern ohne das in Artikel 3 Absatz 2 erwähnte besondere Anmeldeformular zugestellt.
 
-[^5-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^5-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Zweiter Abschnitt: Vorrechte der leitenden und der hohen Beamten
 
@@ -125,7 +123,7 @@ Hohe Beamte, die die abgabenfreie Einfuhr von Gegenständen für ihre Ersteinric
 
 <sup>6</sup> Das Recht auf Beschau nach Artikel 36 des Zollgesetzes vom 18. März 2005 bleibt vorbehalten.
 
-[^7-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^7-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 8
 
@@ -148,10 +146,10 @@ Bei der Einfuhr von Gegenständen durch folgende Personen im Reiseverkehr gilt f
 
 <sup>6</sup> Die in den Absätzen 1–5 erwähnten Erleichterungen werden nur gewährt, wenn die einreisende Person ihren Ausweis des Eidgenössischen Departements für auswärtige Angelegenheiten vorweist.
 
-[^8-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-3]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-4]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^8-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-3]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-4]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Dritter Abschnitt: Vorrechte der übrigen Beamten
 
@@ -181,8 +179,8 @@ Bei der Einfuhr von Gegenständen durch folgende Personen im Reiseverkehr gilt f
 
 <sup>4</sup> Das Recht auf Beschau nach Artikel 36 des Zollgesetzes vom 18. März 2005 bleibt vorbehalten. Will die Zollstelle die Sendung beschauen und wünscht der Empfänger, dass dies in seinem Domizil geschieht, hat er die hiefür vorgesehene Gebühr zu entrichten.[^10-2]
 
-[^10-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^10-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^10-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^10-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Vierter Abschnitt: Vorrechte des vorübergehend bei internationalen Organisationen angestellten Personals
 
@@ -200,14 +198,14 @@ Bei der Einfuhr von Gegenständen durch folgende Personen im Reiseverkehr gilt f
 
 <sup>5</sup> Die Einfuhr von Motorfahrzeugen richtet sich nach Artikel 26.
 
-[^11-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^11-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^11-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^11-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
-### Fünfter Abschnitt: Vorrechte der ständigen Missionen oder anderen Vertretungen bei zwischenstaatlichen Organisationen**** bei internationalen Organisationen mit Sitz in der Schweiz
+### Fünfter Abschnitt: Vorrechte der ständigen Missionen oder anderen Vertretungen bei zwischenstaatlichen Organisationen bei internationalen Organisationen mit Sitz in der Schweiz
 
 [^chap1-sec5-1]
 
-[^chap1-sec5-1]: Ausdruck gemäss Anhang Ziff. 8 der Gaststaatverordnung vom 7. Dez. 2007 ([SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^chap1-sec5-1]: Ausdruck gemäss Anhang Ziff. 8 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 
 #### Art. 12
 
@@ -241,8 +239,8 @@ Bei der Einfuhr von Gegenständen durch folgende Personen im Reiseverkehr gilt f
 
 <sup>2</sup> Möbel, Büromaschinen und andere Gegenstände wie Filme, Diapositive, Rundfunk- und Fernsehgeräte usw., die für den amtlichen Gebrauch bestimmt sind, werden im Verfahren der vorübergehenden Verwendung und unter Sicherstellung der Einfuhrabgaben veranlagt, wenn der Einfuhrzollstelle eine vom Delegationschef unterschriebene Verwendungserklärung vorgelegt wird.[^14-2]
 
-[^14-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^14-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^14-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^14-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 15
 
@@ -298,8 +296,8 @@ Es gilt Artikel 14.
 
 Unter Vorbehalt besonderer Bestimmungen aus völkerrechtlichen Verträgen, bei denen die Schweiz Partei ist, finden die Artikel 17 und 18 analog auf internationale Konferenzen nach Artikel 2 Absatz 1 Buchstabe h des Gaststaatgesetzes vom 22. Juni 2007[^18a-2] Anwendung.
 
-[^18a-1]: Eingefügt durch Anhang Ziff. 8 der Gaststaatverordnung vom 7. Dez. 2007 ([SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)).
-[^18a-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^18a-1]: Eingefügt durch Anhang Ziff. 8 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860)).
+[^18a-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 ## Drittes Kapitel: Sondermissionen fremder Staaten
 
@@ -311,7 +309,7 @@ Unter Vorbehalt besonderer Bestimmungen aus völkerrechtlichen Verträgen, bei d
 
 <sup>2</sup> Möbel, Büromaschinen und andere Gegenstände wie Filme, Diapositive, Rundfunk- und Fernsehgeräte usw., die für den amtlichen Gebrauch bestimmt sind, werden im Verfahren der vorübergehenden Verwendung und unter Sicherstellung der Einfuhrabgaben veranlagt, wenn der Einfuhrzollstelle eine vom Chef der Sondermission unterschriebene Verwendungserklärung vorgelegt wird.
 
-[^19-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^19-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 20
 
@@ -351,9 +349,9 @@ Unter Vorbehalt besonderer Bestimmungen aus völkerrechtlichen Verträgen, bei d
 
 <sup>5</sup> Für Motorräder, Kleinmotorräder und Motorfahrräder gilt Artikel 6 Absätze 1 und 2.
 
-[^22-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^22-2]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^22-3]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^22-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^22-2]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^22-3]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 23
 
@@ -369,8 +367,8 @@ Unter Vorbehalt besonderer Bestimmungen aus völkerrechtlichen Verträgen, bei d
 
 <sup>5</sup> Für Motorräder, Kleinmotorräder und Motorfahrräder gilt Artikel 9 Absätze 1 und 2.
 
-[^23-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^23-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^23-1]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^23-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 24
 
@@ -392,9 +390,9 @@ Unter Vorbehalt besonderer Bestimmungen aus völkerrechtlichen Verträgen, bei d
 
 <sup>5</sup> Der zuständigen Zolldirektion ist eine offizielle Bestätigung über den Wegzug vorzulegen.
 
-<sup>6</sup> …[^24-1]
+<sup>6</sup> ...[^24-1]
 
-[^24-1]: Aufgehoben durch Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, mit Wirkung seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^24-1]: Aufgehoben durch Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, mit Wirkung seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 25
 
@@ -412,7 +410,7 @@ Unter Vorbehalt besonderer Bestimmungen aus völkerrechtlichen Verträgen, bei d
 
 <sup>2</sup> Artikel 24 Absatz 4 ist auf solche Fahrzeuge nicht anwendbar.
 
-[^26-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^26-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 27
 
@@ -463,22 +461,23 @@ Jeder Berechtigte, der abgabenfreien Treibstoff zu tanken wünscht, muss Inhaber
 - c.[^29-3] von der Zollkreisdirektion Basel für die Bank für Internationalen Zahlungsausgleich;
 - d.[^29-4] von der Zollstelle Bern für die internationalen Organisationen und die internationalen Büros mit Sitz an einem anderen Ort als Genf.
 
-<sup>2</sup> Dieser Ausweis kann nur denjenigen Berechtigten abgegeben werden, die sich auf einem speziellen Formular der Eidgenössischen Zollverwaltung gegenüber verpflichten, den abgabenfrei getankten Treibstoff nur für das darin aufgeführte Motorfahrzeug zu verwenden, und zwar
+<sup>2</sup> Dieser Ausweis kann nur denjenigen Berechtigten abgegeben werden, die sich auf einem speziellen Formular des Bundesamts für Zoll und Grenzsicherheit (BAZG)[^29-5] gegenüber verpflichten, den abgabenfrei getankten Treibstoff nur für das darin aufgeführte Motorfahrzeug zu verwenden, und zwar
 
 - a. für den amtlichen Gebrauch der internationalen Organisation oder der ständigen Mission oder anderen Vertretung bei zwischenstaatlichen Organisationen;
 - b. für den ausschliesslichen Gebrauch des Berechtigten oder der zu seinem Haushalt gehörenden Familienmitglieder.
 
 <sup>3</sup> Der Treibstoff wird gegen Vorweisung des Treibstoffausweises von den durch die Oberzolldirektion bezeichneten Tankstellen abgegeben.
 
-<sup>4</sup> …[^29-5]
+<sup>4</sup> ...[^29-6]
 
 <sup>5</sup> Der Treibstoffausweis ist unverzüglich der Ausgabestelle zurückzugeben, wenn das fragliche Fahrzeug veräussert wird oder wenn der Inhaber des Ausweises das Recht auf Abgabenfreiheit verliert.
 
-[^29-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-3]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-4]: Eingefügt durch Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-5]: Aufgehoben durch Ziff. I der V vom 23. Aug. 1989 ([AS 1989 1768](https://fedlex.data.admin.ch/eli/oc/1989/1768_1768_1768)).
+[^29-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-3]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-4]: Eingefügt durch Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^29-6]: Aufgehoben durch Ziff. I der V vom 23. Aug. 1989, mit Wirkung seit 1. Jan. 1990 ([AS 1989 1768](https://fedlex.data.admin.ch/eli/oc/1989/1768_1768_1768)).
 
 ## Fünftes Kapitel: Diplomatisches Kuriergepäck
 
@@ -510,7 +509,7 @@ Jeder Berechtigte, der abgabenfreien Treibstoff zu tanken wünscht, muss Inhaber
 
 <sup>2</sup> Die übrigen Bestimmungen der Bundesgesetzgebung, insbesondere die Massnahmen betreffend das Gesundheitswesen, die Tierseuchen, den Kulturgütertransfer, den Arten- und den Pflanzenschutz, bleiben vorbehalten.[^31-1]
 
-[^31-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^31-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 32
 
@@ -528,7 +527,7 @@ Jeder Berechtigte, der abgabenfreien Treibstoff zu tanken wünscht, muss Inhaber
 
 Unter Vorbehalt von Bestimmungen, die Erleichterungen vorsehen, sind auf Gegenstände, die gestützt auf diese Verordnung vorerst abgabenfrei zugelassen wurden, bei der nachträglichen Veranlagung alle Einfuhrvorschriften anwendbar.
 
-[^33-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^33-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 34
 
@@ -536,15 +535,15 @@ Unter Vorbehalt von Bestimmungen, die Erleichterungen vorsehen, sind auf Gegenst
 
 Die bei einer endgültigen Einfuhrveranlagung bezahlten Abgaben werden nicht rückerstattet; auch dann nicht, wenn diese Verordnung die Abgabenbefreiung an sich zugelassen hätte.
 
-[^34-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^34-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 35
 
 **Sicherstellung der Einfuhrabgaben**[^35-1]
 
-In Fällen, in denen diese Verordnung die vorübergehende abgabenfreie Zulassung im Verfahren der vorübergehenden Verwendung vorsieht, kann die Zollverwaltung die Einfuhrabgaben als verbürgt betrachten, wenn die betreffende Organisation oder ständige Mission oder andere Vertretung bei zwischenstaatlichen Organisationen eine entsprechende Verpflichtung unterschreibt.
+In Fällen, in denen diese Verordnung die vorübergehende abgabenfreie Zulassung im Verfahren der vorübergehenden Verwendung vorsieht, kann das BAZG die Einfuhrabgaben als verbürgt betrachten, wenn die betreffende Organisation oder ständige Mission oder andere Vertretung bei zwischenstaatlichen Organisationen eine entsprechende Verpflichtung unterschreibt.
 
-[^35-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^35-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 36
 
@@ -556,7 +555,7 @@ In Fällen, in denen gestützt auf diese Verordnung der Chef der Organisation od
 
 **Zusammenarbeit**
 
-Nach Massgabe der mit der Schweiz abgeschlossenen Abkommen arbeiten die betreffenden internationalen Organisationen und die Zollverwaltung zusammen, um die Anwendung dieser Verordnung zu erleichtern und Missbräuche zu verhindern.
+Nach Massgabe der mit der Schweiz abgeschlossenen Abkommen arbeiten die betreffenden internationalen Organisationen und das BAZG zusammen, um die Anwendung dieser Verordnung zu erleichtern und Missbräuche zu verhindern.
 
 #### Art. 38
 
@@ -592,7 +591,7 @@ Diese Verordnung ist auf Personen schweizerischer Nationalität nicht anwendbar.
 
 Wo der Wohnsitz in der Schweiz massgebend ist, bestimmt sich dieser nach den Artikeln 23 ff. des Zivilgesetzbuches[^42-1].
 
-[^42-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^42-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 43
 
@@ -611,10 +610,10 @@ Die Kompetenzen bei der Anwendung dieser Verordnung sind wie folgt geregelt:[^43
 
 <sup>3</sup> In allen anderen Fällen, einschliesslich für Fragen, die den Rahmen dieser Verordnung überschreiten, holen die betreffenden Stellen auf dem Dienstweg Weisungen bei der Oberzolldirektion ein.
 
-[^43-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^43-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^43-3]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^43-4]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^43-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^43-2]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^43-3]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^43-4]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 44
 
@@ -628,9 +627,9 @@ Soweit diese Verordnung nichts anderes bestimmt, sind die allgemeinen Bestimmung
 
 **Vollzug**[^45-1]
 
-Die Eidgenössische Zollverwaltung vollzieht diese Verordnung.
+Das BAZG vollzieht diese Verordnung.
 
-[^45-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^45-1]: Fassung gemäss Anhang 4 Ziff. 14 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 46
 

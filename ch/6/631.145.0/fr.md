@@ -3,24 +3,18 @@ sr: "631.145.0"
 title: "Ordonnance du 13 novembre 1985 concernant les privilèges douaniers des organisations internationales des États dans leurs relations avec ces organisations et des Missions spéciales d'États étrangers"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819"
 language: fr
-version: 2008-01-01
+version: 2022-01-01
 adopted: 1985-11-13
 in_force: 1985-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819/20080101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1819_1819_1819-20080101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1819_1819_1819/20080101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1819_1819_1819-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1819_1819_1819/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance concernant les privilèges douaniers des organisations internationales, des Etats dans leurs relations avec ces organisations et des Missions spéciales d’Etats étrangers
+# Ordonnance concernant les privilèges douaniers des organisations internationales, des États dans leurs relations avec ces organisations et des Missions spéciales d’États étrangers
 
-(Etat le 1<sup>er</sup> janvier 2008)[^t-1]RO
-
-631.145.0
-
-du 13 novembre 1985 (Etat le 1 (Etat le 1
-
-[^t-1]: [RO 1985 1819](https://fedlex.data.admin.ch/eli/oc/1985/1819_1819_1819)
+du 13 novembre 1985 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -28,8 +22,8 @@ vu les art. 2, al. 2, 8, al. 1, let. a, et 2, let. a, et 130 de la loi du 18 mar
 
 arrête:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Chapitre 1 Organisations internationales établies en Suisse
 
@@ -37,19 +31,19 @@ arrête:
 
 #### Art. 1
 
-**Etendue de la franchise**
+**Étendue de la franchise**
 
 <sup>1</sup> Sont admis en franchise de redevances d’importation tous les objets destinés à l’usage officiel des organisations internationales.
 
-<sup>1bis</sup> Le terme «organisation internationale» au sens de la présente ordonnance s’entend des bénéficiaires institutionnels visés à l’art. 2, al. 1, let. a, b, c, i, j, k, l et m de la loi du 22 juin 2007 sur l’Etat hôte[^1-1], dans la mesure où ils bénéficient de privilèges douaniers en vertu de traités internationaux, d’accords conclus ou de décisions prises conformément à ladite loi sur l’Etat hôte.[^1-2]
+<sup>1bis</sup> Le terme «organisation internationale» au sens de la présente ordonnance s’entend des bénéficiaires institutionnels visés à l’art. 2, al. 1, let. a, b, c, i, j, k, l et m de la loi du 22 juin 2007 sur l’État hôte[^1-1], dans la mesure où ils bénéficient de privilèges douaniers en vertu de traités internationaux, d’accords conclus ou de décisions prises conformément à ladite loi sur l’État hôte.[^1-2]
 
 <sup>2</sup> Les objets admis en franchise ne peuvent pas être aliénés dans le délai de trois ans à compter de la taxation en franchise sans que les redevances d’importation soient acquittées au préalable; la direction d’arrondissement des douanes compétente peut, en cas de circonstances justifiant l’aliénation, accorder des allégements.[^1-3]
 
 <sup>3</sup> L’importation de véhicules à moteur et l’obtention de carburant exonéré de droits sont régies par les art. 21, 24 et 27 à 29.
 
-[^1-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^1-2]: Introduit par le ch. 8 de l’annexe à l’O du 7 déc. 2007 sur l’Etat hôte ([RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)).
-[^1-3]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^1-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^1-2]: Introduit par l’annexe ch. 8 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860)).
+[^1-3]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
 
@@ -65,19 +59,19 @@ Les envois doivent être adressés et destinés à l’une des organisations int
 
 <sup>2</sup> Dans ce formulaire de déclaration spécial, l’organisation indique la nature de l’envoi et atteste la destination officielle par la signature du chef de l’organisation ou de son représentant autorisé et par apposition du sceau de l’organisation.
 
-<sup>3</sup> A titre de justificatifs, on joindra au formulaire de déclaration spécial les documents de transport et les documents douaniers accompagnant l’envoi ainsi que les factures ou le bulletin de livraison établis par l’expéditeur.
+<sup>3</sup> À titre de justificatifs, on joindra au formulaire de déclaration spécial les documents de transport et les documents douaniers accompagnant l’envoi ainsi que les factures ou le bulletin de livraison établis par l’expéditeur.
 
 <sup>4</sup> Pour les envois ayant une autre destination que le siège de l’organisation, celle-ci peut, après avoir mentionné le bureau de douane d’entrée dans le formulaire de déclaration spécial, envoyer ce dernier pour approbation à la direction d’arrondissement des douanes compétente, qui le transmet au bureau de douane concerné, en vue de l’admission en franchise.
 
 <sup>5</sup> Si le placement sous régime douanier d’un envoi ne souffre pas d’être différé quand bien même le formulaire de déclaration spécial fait défaut, l’envoi peut être taxé provisoirement. Il appartient à l’organisation destinataire de demander ultérieurement l’admission en franchise dans le délai de 60 jours, conformément aux al. 1 à 4.
 
-[^3-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^3-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 4
 
 [^4-1]
 
-[^4-1]: Abrogé par le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^4-1]: Abrogé par l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 5
 
@@ -85,13 +79,13 @@ Les envois doivent être adressés et destinés à l’une des organisations int
 
 Les envois d’imprimés, de livres et de publications, expédiés en trafic postal et de courrier ou par fret aérien, adressés aux organisations internationales et destinés à leur usage exclusif, sont remis aux destinataires sans le formulaire de déclaration spécial mentionné à l’art. 3, al. 2.
 
-[^5-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^5-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Section 2 Privilèges des fonctionnaires membres de la haute direction et des hauts fonctionnaires
 
 #### Art. 6
 
-**Etendue de la franchise**
+**Étendue de la franchise**
 
 <sup>1</sup> Les fonctionnaires membres de la haute direction ainsi que les membres de leur famille qui font partie de leur ménage ont droit à l’importation en franchise de tous les objets destinés à leur usage personnel (sauf les matériaux de construction).
 
@@ -129,7 +123,7 @@ Les hauts fonctionnaires qui revendiquent le droit à l’importation en franchi
 
 <sup>6</sup> Le droit à la vérification au sens de l’art. 36 de la loi du 18 mars 2005 sur les douanes est réservé.
 
-[^7-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^7-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 8
 
@@ -152,15 +146,15 @@ En cas d’importation d’objets par les personnes suivantes dans le cadre du t
 
 <sup>6</sup> L’octroi des facilités citées aux al. 1 à 5 est subordonné à la présentation de la carte de légitimation délivrée par le Département fédéral des affaires étrangères.
 
-[^8-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-2]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-3]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^8-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-2]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-3]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Section 3 Privilèges des autres fonctionnaires
 
 #### Art. 9
 
-**Etendue de la franchise**
+**Étendue de la franchise**
 
 <sup>1</sup> Sous réserve de l’art. 11, les fonctionnaires de nationalité étrangère qui transfèrent leur domicile en Suisse ont droit, lors de leur première installation, à l’importation en franchise des effets de déménagement neufs ou usagés ainsi que des denrées alimentaires, boissons alcooliques et tabacs destinés à leur usage personnel. Ils ne peuvent revendiquer cette facilité qu’une seule fois, à moins qu’ils ne retournent en Suisse après une absence de trois ans au moins.
 
@@ -184,8 +178,8 @@ En cas d’importation d’objets par les personnes suivantes dans le cadre du t
 
 <sup>4</sup> Le droit à la vérification au sens de l’art. 36 de la loi du 18 mars 2005 sur les douanes est réservé. Si le bureau de douane entend vérifier l’envoi et que le destinataire souhaite que cela ait lieu à son domicile, il doit acquitter l’émolument prévu à cet effet.[^10-2]
 
-[^10-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^10-2]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^10-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^10-2]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Section 4 Privilèges du personnel engagé à titre temporaire auprès d’organisations internationales
 
@@ -203,14 +197,14 @@ En cas d’importation d’objets par les personnes suivantes dans le cadre du t
 
 <sup>5</sup> L’importation de véhicules à moteur est régie par l’art. 26.
 
-[^11-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^11-2]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^11-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^11-2]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
-### Section 5 Privilèges des missions permanentes ou autres représentations auprès des organisations intergouvernementales**** établies en Suisse
+### Section 5 Privilèges des missions permanentes ou autres représentations auprès des organisations intergouvernementales établies en Suisse
 
 [^chap1-sec5-1]
 
-[^chap1-sec5-1]: Nouvelle expression selon le ch. 8 de l’annexe à l’O du 7 déc. 2007 sur l’Etat hôte ([RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)). Il a été tenu de cette modification dans tout le présent texte.
+[^chap1-sec5-1]: Nouvelle expression selon l’annexe ch. 8 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860)). Il a été tenu de cette modification dans tout le présent texte.
 
 #### Art. 12
 
@@ -244,8 +238,8 @@ En cas d’importation d’objets par les personnes suivantes dans le cadre du t
 
 <sup>2</sup> Les meubles, machines de bureau et autres objets, tels que films, clichés de projection et appareils de radio et de télévision, destinés à un usage officiel, sont placés sous le régime douanier de l’admission temporaire avec garantie des redevances d’importation si une déclaration d’emploi signée par le chef de la délégation est présentée au bureau de douane d’entrée.[^14-2]
 
-[^14-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^14-2]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^14-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^14-2]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 15
 
@@ -255,7 +249,7 @@ En cas d’importation d’objets par les personnes suivantes dans le cadre du t
 
 <sup>2</sup> Les chefs de délégations bénéficient, pendant la durée de la conférence ou de la réunion à laquelle ils participent, des mêmes privilèges.
 
-<sup>3</sup> Les délégués d’Etats membres et les délégués observateurs dont le rang est équivalent à celui d’un agent diplomatique ont droit, lorsqu’ils participent à une conférence ou à une réunion en Suisse, à la franchise douanière pour les objets importés dans leurs bagages personnels, ainsi que pour les boissons alcooliques et les tabacs destinés à leurs besoins personnels ou à des réceptions officielles. Ils sont exemptés de l’inspection de leurs bagages personnels. Ces personnes bénéficient également de l’exonération des droits sur le carburant (art. 28 et 29).
+<sup>3</sup> Les délégués d’États membres et les délégués observateurs dont le rang est équivalent à celui d’un agent diplomatique ont droit, lorsqu’ils participent à une conférence ou à une réunion en Suisse, à la franchise douanière pour les objets importés dans leurs bagages personnels, ainsi que pour les boissons alcooliques et les tabacs destinés à leurs besoins personnels ou à des réceptions officielles. Ils sont exemptés de l’inspection de leurs bagages personnels. Ces personnes bénéficient également de l’exonération des droits sur le carburant (art. 28 et 29).
 
 <sup>4</sup> Les membres du personnel administratif et technique ne jouissent pas de privilèges; cependant, l’inspection de leurs bagages personnels est réduite au strict minimum.
 
@@ -287,7 +281,7 @@ L’art. 14 est applicable.
 
 <sup>4</sup> Les autres fonctionnaires ne jouissent pas de privilèges; cependant, l’inspection de leurs bagages personnels est réduite au strict minimum.
 
-<sup>5</sup> Les délégués d’Etats membres et les délégués observateurs dont le rang est équivalent à celui d’un agent diplomatique ont droit, lorsqu’ils participent à une conférence ou à une réunion en Suisse, à la franchise douanière pour les objets importés dans leurs bagages personnels, ainsi que pour les boissons alcooliques et les tabacs destinés à leurs besoins personnels ou à des réceptions officielles. Ils sont exemptés de l’inspection de leurs bagages personnels. Ces personnes bénéficient également de l’exonération des droits sur le carburant (art. 28 et 29).
+<sup>5</sup> Les délégués d’États membres et les délégués observateurs dont le rang est équivalent à celui d’un agent diplomatique ont droit, lorsqu’ils participent à une conférence ou à une réunion en Suisse, à la franchise douanière pour les objets importés dans leurs bagages personnels, ainsi que pour les boissons alcooliques et les tabacs destinés à leurs besoins personnels ou à des réceptions officielles. Ils sont exemptés de l’inspection de leurs bagages personnels. Ces personnes bénéficient également de l’exonération des droits sur le carburant (art. 28 et 29).
 
 <sup>6</sup> Les membres du personnel administratif et technique ne jouissent pas de privilèges; l’inspection de leurs bagages personnels est réduite au strict minimum.
 
@@ -299,12 +293,12 @@ L’art. 14 est applicable.
 
 **Conférences internationales**[^18a-1]
 
-Sous réserve de dispositions particulières découlant de traités internationaux auxquels la Suisse est partie, les art. 17 et 18 s’appliquent par analogie aux conférences internationales visées à l’art. 2, al. 1, let. h, de la loi du 22 juin 2007 sur l’Etat hôte[^18a-2]
+Sous réserve de dispositions particulières découlant de traités internationaux auxquels la Suisse est partie, les art. 17 et 18 s’appliquent par analogie aux conférences internationales visées à l’art. 2, al. 1, let. h, de la loi du 22 juin 2007 sur l’État hôte[^18a-2]
 
-[^18a-1]: Introduit par le ch. 8 de l’annexe à l’O du 7 déc. 2007 sur l’Etat hôte ([RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)).
-[^18a-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^18a-1]: Introduit par l’annexe ch. 8 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860)).
+[^18a-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
-## Chapitre 3 Missions spéciales d’Etats étrangers
+## Chapitre 3 Missions spéciales d’États étrangers
 
 #### Art. 19
 
@@ -314,7 +308,7 @@ Sous réserve de dispositions particulières découlant de traités internationa
 
 <sup>2</sup> Les meubles, machines de bureau et autres objets, tels que films, clichés de projection et appareils de radio et de télévision, destinés à un usage officiel, sont placés sous le régime douanier de l’admission temporaire avec garantie des redevances d’importation si une déclaration d’emploi signée par le chef de la mission spéciale est présentée au bureau de douane d’entrée.
 
-[^19-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^19-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 20
 
@@ -354,9 +348,9 @@ Sous réserve de dispositions particulières découlant de traités internationa
 
 <sup>5</sup> L’art. 6, al. 1 et 2, s’applique aux motocyclettes, motocycles légers et cyclomoteurs.
 
-[^22-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^22-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^22-3]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^22-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^22-2]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^22-3]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 23
 
@@ -372,8 +366,8 @@ Sous réserve de dispositions particulières découlant de traités internationa
 
 <sup>5</sup> L’art. 9, al. 1 et 2, s’applique aux motocyclettes, motocycles légers et cyclomoteurs.
 
-[^23-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^23-2]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^23-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^23-2]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 24
 
@@ -397,7 +391,7 @@ Si le bénéficiaire est transféré officiellement à l’étranger dans le cad
 
 <sup>6</sup> ...[^24-1]
 
-[^24-1]: Abrogé par le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^24-1]: Abrogé par l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 25
 
@@ -415,7 +409,7 @@ Si le bénéficiaire est transféré officiellement à l’étranger dans le cad
 
 <sup>2</sup> L’art. 24, al. 4, ne s’applique pas à ces véhicules.
 
-[^26-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^26-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 27
 
@@ -437,7 +431,7 @@ Bénéficient de l’exonération des droits sur le carburant pour les véhicule
 - d. les chefs de missions permanentes ou autres représentations auprès des organisations intergouvernementales et les membres du personnel diplomatique de ces missions;
 - e. les fonctionnaires d’organisations internationales mentionnés à l’art. 18, al. 1 et 3, lorsqu’ils se rendent en Suisse dans l’exercice de leurs fonctions;
 - f. les présidents de conférences et de réunions mentionnés à l’art. 15, al. 1, et à l’art. 18, al. 2;
-- g. les chefs de délégations mentionnés à l’art. 15, al. 2, ainsi que les délégués d’Etats membres et les délégués observateurs mentionnés à l’art. 15, al. 3, et à l’art. 18, al. 5, lorsqu’ils participent à une conférence ou à une réunion en Suisse;
+- g. les chefs de délégations mentionnés à l’art. 15, al. 2, ainsi que les délégués d’États membres et les délégués observateurs mentionnés à l’art. 15, al. 3, et à l’art. 18, al. 5, lorsqu’ils participent à une conférence ou à une réunion en Suisse;
 - h. les experts en mission pour les organisations internationales (art. 16, al. 2, et 18, al. 8);
 - i. les chefs et les membres de missions spéciales selon l’art. 20, al. 1 et 2, lorsqu’ils participent à une conférence ou à une réunion en Suisse.
 
@@ -466,28 +460,29 @@ Tout ayant droit désirant s’approvisionner en carburant en franchise doit êt
 - c.[^29-3] par la direction d’arrondissement des douanes de Bâle pour la Banque des règlements internationaux;
 - d.[^29-4] par le bureau de douane de Berne pour les organisations internationales et les bureaux internationaux ayant leur siège ailleurs qu’à Genève.
 
-<sup>2</sup> Cette carte de carburant ne peut être délivrée qu’aux ayants droit qui s’engagent envers l’administration fédérale des douanes, sur une formule spéciale, à n’utiliser le carburant obtenu en franchise de droits que pour le véhicule à moteur spécifié dans l’engagement et servant
+<sup>2</sup> Cette carte de carburant ne peut être délivrée qu’aux ayants droit qui s’engagent envers l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^29-5], sur une formule spéciale, à n’utiliser le carburant obtenu en franchise de droits que pour le véhicule à moteur spécifié dans l’engagement et servant
 
 - a. soit à l’usage officiel de l’organisation internationale et de la mission permanente ou autre représentation auprès des organisations intergouvernementales;
 - b. soit à l’usage exclusif de l’ayant droit ou à celui des membres de sa famille qui font partie de son ménage.
 
 <sup>3</sup> Ce carburant est livré, sur présentation de la carte de carburant, par les détenteurs de colonnes distributrices désignés par la Direction générale des douanes.
 
-<sup>4</sup> ...[^29-5]
+<sup>4</sup> ...[^29-6]
 
 <sup>5</sup> La carte de carburant doit être restituée sans délai à l’office émetteur si le véhicule en question est aliéné ou si le détenteur de la carte cesse de bénéficier du droit à la franchise.
 
-[^29-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-2]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-3]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-4]: Introduite par le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-5]: Abrogé par le ch. I de l’O du 23 août 1989 ([RO 1989 1768](https://fedlex.data.admin.ch/eli/oc/1989/1768_1768_1768)).
+[^29-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-2]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-3]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-4]: Introduite par l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^29-6]: Abrogé par le ch. I de l’O du 23 août 1989, avec effet au 1<sup>er</sup> janv. 1990 ([RO 1989 1768](https://fedlex.data.admin.ch/eli/oc/1989/1768_1768_1768)).
 
 ## Chapitre 5 Valise diplomatique
 
 #### Art. 30
 
-<sup>1</sup> Les organisations internationales, les missions permanentes ou autres représentations auprès des organisations intergouvernementales ainsi que les délégués des Etats membres et les délégués observateurs sont habilités à expédier et à recevoir, dans des valises scellées, de la correspondance officielle ainsi que des objets destinés à un usage officiel.
+<sup>1</sup> Les organisations internationales, les missions permanentes ou autres représentations auprès des organisations intergouvernementales ainsi que les délégués des États membres et les délégués observateurs sont habilités à expédier et à recevoir, dans des valises scellées, de la correspondance officielle ainsi que des objets destinés à un usage officiel.
 
 <sup>2</sup> Les experts en mission sont habilités à recevoir des valises scellées.
 
@@ -513,7 +508,7 @@ Tout ayant droit désirant s’approvisionner en carburant en franchise doit êt
 
 <sup>2</sup> Les autres dispositions de la législation fédérale, spécialement les mesures touchant à la santé publique, aux épizooties, au transfert de biens culturels, à la conservation des espèces et à la protection des végétaux, sont réservées.[^31-1]
 
-[^31-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^31-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 32
 
@@ -531,7 +526,7 @@ Tout ayant droit désirant s’approvisionner en carburant en franchise doit êt
 
 Sous réserve de dispositions prévoyant des allégements, toutes les prescriptions relatives à l’importation sont applicables, lors de la taxation subséquente, aux objets préalablement admis en franchise en vertu de la présente ordonnance.
 
-[^33-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^33-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 34
 
@@ -539,15 +534,15 @@ Sous réserve de dispositions prévoyant des allégements, toutes les prescripti
 
 Les redevances payées en cas de taxation définitive à l’importation ne sont pas remboursées, même si la présente ordonnance eût permis en soi l’admission en franchise.
 
-[^34-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^34-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 35
 
 **Garantie des redevances d’entrée**[^35-1]
 
-Pour les cas où la présente ordonnance prévoit l’admission en franchise temporaire dans le régime de l’admission temporaire, l’administration des douanes peut, si l’organisation ou la mission concernée souscrit un engagement correspondant, considérer les redevances d’entrée comme garanties.
+Pour les cas où la présente ordonnance prévoit l’admission en franchise temporaire dans le régime de l’admission temporaire, l’OFDF peut, si l’organisation ou la mission concernée souscrit un engagement correspondant, considérer les redevances d’entrée comme garanties.
 
-[^35-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^35-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 36
 
@@ -559,7 +554,7 @@ Dans les cas où la présente ordonnance autorise le chef de l’organisation ou
 
 **Collaboration**
 
-Conformément aux accords conclus avec la Suisse, les organisations internationales concernées et l’administration des douanes coopèrent en vue de faciliter l’application de la présente ordonnance et de prévenir les abus.
+Conformément aux accords conclus avec la Suisse, les organisations internationales concernées et l’OFDF coopèrent en vue de faciliter l’application de la présente ordonnance et de prévenir les abus.
 
 #### Art. 38
 
@@ -595,7 +590,7 @@ La présente ordonnance ne s’applique pas aux personnes de nationalité suisse
 
 Lorsque le domicile en Suisse entre en considération, il se définit selon les art. 23 et suivants du code civil suisse[^42-1].
 
-[^42-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^42-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 43
 
@@ -614,10 +609,10 @@ Les compétences en matière d’application de la présente ordonnance sont fix
 
 <sup>3</sup> Dans tous les autres cas ainsi que pour les questions dépassant le cadre de l’ordonnance, les offices concernés demandent, par la voie hiérarchique, des instructions à la Direction générale des douanes.
 
-[^43-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^43-2]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^43-3]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^43-4]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^43-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^43-2]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^43-3]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^43-4]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 44
 
@@ -631,9 +626,9 @@ En tant que la présente ordonnance n’en dispose pas autrement, les dispositio
 
 **Exécution**[^45-1]
 
-L’Administration fédérale des douanes exécute la présente ordonnance.
+L’OFDF exécute la présente ordonnance.
 
-[^45-1]: Nouvelle teneur selon le ch. 14 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^45-1]: Nouvelle teneur selon l’annexe 4 ch. 14 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 46
 

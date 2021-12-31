@@ -3,20 +3,18 @@ sr: "631.145.0"
 title: "Ordinanza del 13 novembre 1985 concernente i privilegi doganali delle organizzazioni internazionali, degli Stati nelle loro relazioni con tali organizzazioni e delle missioni speciali di Stati esteri"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819"
 language: it
-version: 2008-01-01
+version: 2022-01-01
 adopted: 1985-11-13
 in_force: 1985-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819/20080101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1819_1819_1819-20080101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1819_1819_1819/20080101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1819_1819_1819-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1819_1819_1819/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza
+# Ordinanza concernente i privilegi doganali delle organizzazioni internazionali, degli Stati nelle loro relazioni con tali organizzazioni e delle missioni speciali di Stati esteri
 
-concernente i privilegi doganali delle organizzazioni internazionali, degli Stati nelle loro relazioni con tali organizzazioni e delle missioni speciali di Stati esteri
-
-del 13 novembre 1985 (Stato 1° gennaio 2008)
+del 13 novembre 1985 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -24,8 +22,8 @@ visti gli articoli 2 capoverso 2, 8 capoversi 1 lettera a e 2 lettera a, nonché
 
 ordina:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Capitolo primo: Organizzazioni internazionali con sede in Svizzera
 
@@ -43,9 +41,9 @@ ordina:
 
 <sup>3</sup> Per l’importazione di veicoli a motore e l’ottenimento di carburante esente da tributi fanno stato le disposizioni degli articoli 21, 24 e 27 a 29.
 
-[^1-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^1-2]: Introdotto dal n. 8 dell’all. all’O del 7 dic. 2007 sullo Stato ospite ([RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)).
-[^1-3]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^1-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^1-2]: Introdotto dall’all. n. 8 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860)).
+[^1-3]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
 
@@ -67,13 +65,13 @@ Gli invii devono essere indirizzati e destinati a un’organizzazione internazio
 
 <sup>5</sup> Se l’imposizione di un invio per il quale manca il modulo di dichiarazione speciale non può essere differita, si propone l’imposizione provvisoria. È quindi compito dell’organizzazione destinataria chiedere l’ammissione posticipata in esenzione da tributi, entro il termine di 60 giorni, conformemente ai succitati capoversi da 1 a 4.
 
-[^3-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^3-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 4
 
 [^4-1]
 
-[^4-1]: Abrogato dal n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, con effetto dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^4-1]: Abrogato dall’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, con effetto dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 5
 
@@ -81,7 +79,7 @@ Gli invii devono essere indirizzati e destinati a un’organizzazione internazio
 
 Gli invii di stampati, libri e pubblicazioni spediti per posta e per corriere o per posta aerea, indirizzati alle organizzazioni internazionali e destinati esclusivamente al loro uso, sono consegnati ai destinatari senza il modulo di dichiarazione speciale menzionato all’articolo 3 capoverso 2.
 
-[^5-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^5-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Sezione 2: Privilegi dei funzionari membri dell’alta direzione e dei funzionari superiori
 
@@ -125,7 +123,7 @@ I funzionari superiori che rivendicano il diritto all’importazione in franchig
 
 <sup>6</sup> È fatto salvo il diritto di visita delle merci di cui all’articolo 36 della legge del 18 marzo 2005 sulle dogane.
 
-[^7-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^7-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 8
 
@@ -149,10 +147,10 @@ In caso d’importazione di oggetti nel traffico turistico, da parte delle perso
 
 <sup>6</sup> La concessione delle agevolazioni citate ai capoversi 1 a 5 è subordinata alla presentazione della tessera di legittimazione rilasciata dal Dipartimento federale degli affari esteri.
 
-[^8-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-2]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-3]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-4]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^8-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-2]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-3]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-4]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Sezione 3: Privilegi degli altri funzionari
 
@@ -182,8 +180,8 @@ In caso d’importazione di oggetti nel traffico turistico, da parte delle perso
 
 <sup>4</sup> È fatto salvo il diritto di visita delle merci di cui all’articolo 36 della legge del 18 marzo 2005 sulle dogane. Allorché l’ufficio doganale decide di sottoporre l’invio alla visita e il destinatario chiede che la stessa sia effettuata al suo domicilio, è riscossa la tassa prevista a tale scopo.[^10-2]
 
-[^10-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^10-2]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^10-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^10-2]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Sezione 4: Privilegi del personale assunto temporaneamente presso organizzazioni internazionali
 
@@ -201,8 +199,8 @@ In caso d’importazione di oggetti nel traffico turistico, da parte delle perso
 
 <sup>5</sup> Per l’importazione di veicoli a motore fanno stato le disposizioni dell’articolo 26.
 
-[^11-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^11-2]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^11-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^11-2]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Sezione 5: Privilegi delle missioni permanenti o altre rappresentanze presso le organizzazioni intergovernative presso le organizzazioni internazionali con sede in Svizzera
 
@@ -238,8 +236,8 @@ In caso d’importazione di oggetti nel traffico turistico, da parte delle perso
 
 <sup>2</sup> I mobili, le macchine d’ufficio e gli altri oggetti, come film, diapositive, apparecchi radio e televisivi, ecc., destinati ad un uso ufficiale, sono tassati nel regime dell’ammissione temporanea e verso garanzia dei tributi d’entrata, sempreché sia presentata all’ufficio doganale d’entrata una dichiarazione circa l’impiego firmata dal capo della delegazione.[^14-2]
 
-[^14-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^14-2]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^14-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^14-2]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 15
 
@@ -295,8 +293,8 @@ Sono determinanti le prescrizioni dell’articolo 14.
 
 Fatte salve le disposizioni particolari derivanti da trattati internazionali di cui la Svizzera è parte, gli articoli 17 e 18 si applicano per analogia alle conferenze internazionali di cui all’articolo 2 capoverso 1 lettera h della legge del 22 giugno 2007[^18a-2] sullo Stato ospite.
 
-[^18a-1]: Introdotto n. 8 dell’all. all’O del 7 dic. 2007 sullo Stato ospite ([RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)).
-[^18a-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^18a-1]: Introdotto dall’all. n. 8 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860)).
+[^18a-2]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 ## Capitolo terzo: Missioni speciali di Stati esteri
 
@@ -308,7 +306,7 @@ Fatte salve le disposizioni particolari derivanti da trattati internazionali di 
 
 <sup>2</sup> I mobili, le macchine d’ufficio e gli altri oggetti, come film, diapositive, apparecchi radio e televisivi, ecc., destinati ad un uso ufficiale, sono tassati nel regime dell’ammissione temporanea e verso garanzia dei tributi d’entrata, sempreché sia presentata all’ufficio doganale d’entrata una dichiarazione circa l’impiego firmata dal capo della missione speciale.
 
-[^19-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^19-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 20
 
@@ -348,9 +346,9 @@ Fatte salve le disposizioni particolari derivanti da trattati internazionali di 
 
 <sup>5</sup> Per le motociclette, i motocicli leggeri e i ciclomotori fanno stato le disposizioni dell’articolo 6 capoversi 1 e 2.
 
-[^22-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^22-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^22-3]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^22-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^22-2]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^22-3]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 23
 
@@ -366,8 +364,8 @@ Fatte salve le disposizioni particolari derivanti da trattati internazionali di 
 
 <sup>5</sup> Per le motociclette, i motocicli leggeri e i ciclomotori fanno stato le disposizioni dell’articolo 9 capoversi 1 e 2.
 
-[^23-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^23-2]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^23-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^23-2]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 24
 
@@ -391,8 +389,8 @@ Se il beneficiario è trasferito ufficialmente all’estero nell’ambito della 
 
 <sup>6</sup> …[^24-2]
 
-[^24-1]: Nuova espr. giusta il n. 8 dell’all. all’O del 7 dic. 2007 sullo Stato ospite ([RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)). Di detta modifica é stato tenuto conto in tutto il presente testo.
-[^24-2]: Abrogato dal n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, con effetto dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^24-1]: Nuova espr. giusta l’all. n. 8 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860)). Di detta mod. é stato tenuto conto in tutto il presente testo.
+[^24-2]: Abrogato dall’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, con effetto dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 25
 
@@ -410,7 +408,7 @@ Se il beneficiario è trasferito ufficialmente all’estero nell’ambito della 
 
 <sup>2</sup> Le disposizioni dell’articolo 24 capoverso 4 non sono applicabili a tali veicoli.
 
-[^26-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^26-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 27
 
@@ -459,21 +457,24 @@ Beneficiano dell’esenzione dai tributi sul carburante per i veicoli ufficiali 
 - c.[^29-2] dalla Direzione di circondario delle dogane di Basilea per la Banca dei regolamenti internazionali;
 - d.[^29-3] dall’ufficio doganale di Berna per le organizzazioni internazionali e gli uffici internazionali aventi la loro sede in una località diversa da Ginevra.
 
-<sup>2</sup> Tale carta di carburante può essere rilasciata solo agli aventi diritto che s’impegnano verso l’amministrazione federale delle dogane, su modulo speciale, ad utilizzare il carburante ottenuto in franchigia di tributi solo per il veicolo a motore designato nell’impegno ed adibito
+<sup>2</sup>
+
+Tale carta di carburante può essere rilasciata solo agli aventi diritto che s’impegnano verso l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^29-4], su modulo speciale, ad utilizzare il carburante ottenuto in franchigia di tributi solo per il veicolo a motore designato nell’impegno ed adibito:
 
 - a. sia all’uso ufficiale dell’organizzazione internazionale o della missione permanente o altra rappresentanza presso le organizzazioni intergovernative;
 - b. sia all’uso esclusivo dell’avente diritto o dei membri della sua famiglia appartenenti alla sua economia domestica.
 
 <sup>3</sup> Il carburante è fornito, su presentazione della carta di carburante, dai detentori di colonne distributrici designati dalla Direzione generale delle dogane.
 
-<sup>4</sup> …[^29-4]
+<sup>4</sup> …[^29-5]
 
 <sup>5</sup> La carta di carburante dev’essere restituita senza indugio all’ufficio emittente allorché il veicolo in parola è alienato o se il titolare della carta di carburante non ha più diritto alla franchigia.
 
-[^29-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-2]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-3]: Introdotta dal n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^29-4]: Abrogato dal n. I dell’O del 23 ago. 1989 ([RU 1989 1768](https://fedlex.data.admin.ch/eli/oc/1989/1768_1768_1768)).
+[^29-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-2]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-3]: Introdotta dall’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^29-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^29-5]: Abrogato dal n. I dell’O del 23 ago. 1989, con effetto dal 1° gen. 1990 ([RU 1989 1768](https://fedlex.data.admin.ch/eli/oc/1989/1768_1768_1768)).
 
 ## Capitolo quinto: Valigia diplomatica
 
@@ -505,7 +506,7 @@ Beneficiano dell’esenzione dai tributi sul carburante per i veicoli ufficiali 
 
 <sup>2</sup> Sono fatte salve le altre disposizioni della legislazione federale, segnatamente i provvedimenti relativi alla sanità pubblica, alle epizoozie, al trasferimento di beni culturali, alla conservazione delle specie e alla protezione dei vegetali.[^31-1]
 
-[^31-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^31-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 32
 
@@ -523,7 +524,7 @@ Beneficiano dell’esenzione dai tributi sul carburante per i veicoli ufficiali 
 
 Fatte salve le disposizioni che prevedono agevolazioni, tutte le prescrizioni relative all’importazione sono applicabili all’atto dell’imposizione posticipata degli oggetti precedentemente ammessi in franchigia in virtù della presente ordinanza.
 
-[^33-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^33-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 34
 
@@ -531,15 +532,15 @@ Fatte salve le disposizioni che prevedono agevolazioni, tutte le prescrizioni re
 
 I tributi pagati nell’ambito dell’imposizione definitiva all’importazione non sono rimborsati, nemmeno se in base alla presente ordinanza fosse stato possibile concedere l’ammissione in franchigia.
 
-[^34-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^34-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 35
 
 **Garanzia dei tributi d’entrata**[^35-1]
 
-Qualora la presente ordinanza preveda l’ammissione in franchigia temporanea nel regime dell’ammissione temporanea, l’amministrazione delle dogane può considerare garantiti i tributi d’entrata, se l’organizzazione o la missione interessata assume un adeguato impegno.
+Qualora la presente ordinanza preveda l’ammissione in franchigia temporanea nel regime dell’ammissione temporanea, l’UDSC può considerare garantiti i tributi d’entrata, se l’organizzazione o la missione interessata assume un adeguato impegno.
 
-[^35-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^35-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 36
 
@@ -551,7 +552,7 @@ Ove la presente ordinanza autorizzi il capo dell’organizzazione o la missione 
 
 **Collaborazione**
 
-Conformemente agli accordi conclusi con la Svizzera, le organizzazioni internazionali interessate e l’amministrazione delle dogane cooperano al fine di facilitare l’applicazione della presente ordinanza e di prevenire gli abusi.
+Conformemente agli accordi conclusi con la Svizzera, le organizzazioni internazionali interessate e l’UDSC cooperano al fine di facilitare l’applicazione della presente ordinanza e di prevenire gli abusi.
 
 #### Art. 38
 
@@ -587,7 +588,7 @@ La presente ordinanza non è applicabile alle persone di nazionalità svizzera.
 
 Allorché entra in linea di conto il domicilio in Svizzera, esso è definito secondo gli articoli 23 e seguenti del Codice civile svizzero[^42-1].
 
-[^42-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^42-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 43
 
@@ -606,8 +607,8 @@ Le competenze in materia d’applicazione della presente ordinanza sono fissate 
 
 <sup>3</sup> In tutti gli altri casi, nonché per le questioni oltrepassanti l’ambito di questa ordinanza, gli uffici interessati chiedono, per la via di servizio, istruzioni alla Direzione generale delle dogane.
 
-[^43-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^43-2]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^43-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^43-2]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 44
 
@@ -621,9 +622,9 @@ Per quanto la presente ordinanza non prevede diversamente, sono applicabili le d
 
 **Esecuzione**[^45-1]
 
-L’Amministrazione federale delle dogane esegue la presente ordinanza.
+L’UDSC esegue la presente ordinanza.
 
-[^45-1]: Nuovo testo giusta il n. 14 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^45-1]: Nuovo testo giusta l’all. 4 n. 14 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 46
 
