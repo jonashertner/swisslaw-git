@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 agosto 1999 concernente l'esecuzione dell'allontaname
 short: OEAE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: it
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20200401/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20200401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20200401/it"
 
 (OEAE)
 
-dell’11 agosto 1999 (Stato 1° aprile 2020)
+dell’11 agosto 1999 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -368,7 +368,7 @@ Le autorità cantonali competenti comunicano alla SEM i seguenti dati in merito 
 
 <sup>1</sup>
 
-Nel quadro di interventi internazionali di rimpatrio, la SEM è competente per la direzione operativa nel quadro della cooperazione con l’Agenzia dell’Unione europea responsabile della sorveglianza delle frontiere esterne Schengen (Agenzia). In questo contesto consulta e informa l’Amministrazione federale delle dogane (AFD). Adempie segnatamente i compiti seguenti:
+Nel quadro di interventi internazionali di rimpatrio, la SEM è competente per la direzione operativa nel quadro della cooperazione con l’Agenzia dell’Unione europea responsabile della sorveglianza delle frontiere esterne Schengen (Agenzia). In questo contesto consulta e informa l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^15b-2]. Adempie segnatamente i compiti seguenti:
 
 - a. è il servizio nazionale di coordinamento per la partecipazione della Svizzera agli interventi internazionali di rimpatrio;
 - b. è competente per l’attuazione delle decisioni del consiglio d’amministrazione o del direttore esecutivo dell’Agenzia riguardanti gli interventi internazionali di rimpatrio.
@@ -377,6 +377,7 @@ Nel quadro di interventi internazionali di rimpatrio, la SEM è competente per l
 
 [^sec1abis-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15b-1]: Introdotto dal n. I dell’O del 24 mar. 2004 ([RU 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15b-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali (RS **170.512.1**), con effetto dal 1° gen. 2022 (RU **2021** 589). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 15b<sup>bis</sup>
 
@@ -430,9 +431,9 @@ Nel quadro di interventi internazionali di rimpatrio, la SEM è competente per l
 
 **Coordinamento degli interventi internazionali di rimpatrio**[^15ebis-1]
 
-<sup>1</sup> La SEM coordina l’impiego di personale svizzero nel quadro di interventi internazionali di rimpatrio. Contestualmente al coordinamento informa l’AFD in merito al personale messo a disposizione conformemente agli articoli 15*c*–15*e*.
+<sup>1</sup> La SEM coordina l’impiego di personale svizzero nel quadro di interventi internazionali di rimpatrio. Contestualmente al coordinamento informa l’UDSC in merito al personale messo a disposizione conformemente agli articoli 15*c*–15*e*.
 
-<sup>2</sup> Comunica all’AFD le informazioni riguardanti gli interventi internazionali di rimpatrio conformemente all’articolo 3*c* capoverso 3 dell’ordinanza del 26 agosto 2009[^15ebis-2] sulla cooperazione operativa con gli altri Stati Schengen in materia di protezione delle frontiere esterne dello spazio Schengen.
+<sup>2</sup> Comunica all’UDSC le informazioni riguardanti gli interventi internazionali di rimpatrio conformemente all’articolo 3*c* capoverso 3 dell’ordinanza del 26 agosto 2009[^15ebis-2] sulla cooperazione operativa con gli altri Stati Schengen in materia di protezione delle frontiere esterne dello spazio Schengen.
 
 [^15ebis-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15ebis-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)

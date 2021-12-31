@@ -4,11 +4,11 @@ title: "Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion
 short: OERE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: fr
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20200401/fr"
 
 (OERE)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> avril 2020)
+du 11 août 1999 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -371,7 +371,7 @@ Les autorités cantonales compétentes transmettent au SEM les données suivante
 
 <sup>1</sup>
 
-En cas d’intervention en matière de retour, le SEM est responsable de la conduite opérationnelle de la coopération avec l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen (l’Agence). À ce titre, il consulte et informe l’Administration fédérale des douanes (AFD). Il assume notamment les tâches suivantes:
+En cas d’intervention en matière de retour, le SEM est responsable de la conduite opérationnelle de la coopération avec l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen (l’Agence). À ce titre, il consulte et informe l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^15b-2]. Il assume notamment les tâches suivantes:
 
 - a. il fait office de service national de coordination pour la participation de la Suisse aux interventions internationales en matière de retour;
 - b. il est chargé d’exécuter les décisions du conseil d’administration ou du directeur exécutif de l’Agence concernant les interventions internationales en matière de retour.
@@ -380,6 +380,7 @@ En cas d’intervention en matière de retour, le SEM est responsable de la cond
 
 [^sec1abis-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15b-1]: Introduit par le ch. I de l’O du 24 mars 2004 ([RO 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15b-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 15b<sup>bis</sup>
 
@@ -433,9 +434,9 @@ En cas d’intervention en matière de retour, le SEM est responsable de la cond
 
 **Coordination des interventions internationales en matière de retour**[^15ebis-1]
 
-<sup>1</sup> Le SEM coordonne l’intervention de personnel suisse lors d’interventions internationales en matière de retour. À ce titre, il informe l’AFD du personnel mis à disposition, conformément aux art. 15*c* à 15*e*.
+<sup>1</sup> Le SEM coordonne l’intervention de personnel suisse lors d’interventions internationales en matière de retour. À ce titre, il informe l’OFDF du personnel mis à disposition, conformément aux art. 15*c* à 15*e*.
 
-<sup>2</sup> Il transmet à l’AFD des informations sur les interventions internationales en matière de retour conformément à l’art. 3*c*, al. 3, de l’ordonnance du 26 août 2009 sur la coopération opérationnelle avec les autres États Schengen en vue de la protection des frontières extérieures de l’espace Schengen[^15ebis-2].
+<sup>2</sup> Il transmet à l’OFDF des informations sur les interventions internationales en matière de retour conformément à l’art. 3*c*, al. 3, de l’ordonnance du 26 août 2009 sur la coopération opérationnelle avec les autres États Schengen en vue de la protection des frontières extérieures de l’espace Schengen[^15ebis-2].
 
 [^15ebis-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15ebis-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)

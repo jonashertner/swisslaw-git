@@ -4,11 +4,11 @@ title: Verordnung vom 11. August 1999 über den Vollzug der Weg- und Ausweisung 
 short: VVWAL
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: de
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20200401/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20200401/de"
 
 (VVWAL)**[^t-2]**[^t-1]
 
-vom 11. August 1999 (Stand am 1. April 2020)
+vom 11. August 1999 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^t-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
@@ -372,7 +372,7 @@ Die zuständigen kantonalen Behörden übermitteln dem SEM folgende Daten über 
 
 <sup>1</sup>
 
-Bei internationalen Rückführungseinsätzen ist das SEM zuständig für die operative Führung im Rahmen der Zusammenarbeit mit der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union (Agentur). Es konsultiert und informiert die Eidgenössische Zollverwaltung (EZV) dabei. Es nimmt insbesondere die folgenden Aufgaben wahr:
+Bei internationalen Rückführungseinsätzen ist das SEM zuständig für die operative Führung im Rahmen der Zusammenarbeit mit der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union (Agentur). Es konsultiert und informiert das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^15b-2] dabei. Es nimmt insbesondere die folgenden Aufgaben wahr:
 
 - a. Es ist die nationale Koordinationsstelle für die Teilnahme der Schweiz an internationalen Rückführungseinsätzen.
 - b. Es ist zuständig für die Umsetzung von Beschlüssen des Verwaltungsrates oder der Exekutivdirektorin oder des Exekutivdirektors der Agentur bezüglich internationaler Rückführungseinsätze.
@@ -381,6 +381,7 @@ Bei internationalen Rückführungseinsätzen ist das SEM zuständig für die ope
 
 [^sec1abis-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15b-1]: Eingefügt durch Ziff. I der V vom 24. März 2004 ([AS 2004 1649](https://fedlex.data.admin.ch/eli/oc/2004/201)). Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15b-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 15b<sup>bis</sup>
 
@@ -434,9 +435,9 @@ Bei internationalen Rückführungseinsätzen ist das SEM zuständig für die ope
 
 **Koordination der internationalen Rückführungseinsätze**[^15ebis-1]
 
-<sup>1</sup> Das SEM koordiniert den Einsatz von schweizerischem Personal im Rahmen von internationalen Rückführungseinsätzen. Im Rahmen dieser Koordination informiert es die EZV über das zur Verfügung gestellte Personal nach den Artikeln 15*c–*15*e*.
+<sup>1</sup> Das SEM koordiniert den Einsatz von schweizerischem Personal im Rahmen von internationalen Rückführungseinsätzen. Im Rahmen dieser Koordination informiert es das BAZG über das zur Verfügung gestellte Personal nach den Artikeln 15*c–*15*e*.
 
-<sup>2</sup> Es übermittelt die Informationen über internationale Rückführungseinsätze nach Artikel 3*c* Absatz 3 der Verordnung vom 26. August 2009[^15ebis-2] über die operative Zusammenarbeit mit den anderen Schengen-Staaten zum Schutz der Aussengrenzen des Schengen-Raums an die EZV.
+<sup>2</sup> Es übermittelt die Informationen über internationale Rückführungseinsätze nach Artikel 3*c* Absatz 3 der Verordnung vom 26. August 2009[^15ebis-2] über die operative Zusammenarbeit mit den anderen Schengen-Staaten zum Schutz der Aussengrenzen des Schengen-Raums an das BAZG.
 
 [^15ebis-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15ebis-2]: [SR 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
