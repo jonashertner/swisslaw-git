@@ -3,25 +3,23 @@ canton: VS
 number: "611.101"
 title: "Ordonnance concernant la délégation de compétences financières du Conseil d'Etat aux départements et aux services"
 language: fr
-version: 2005-08-01
-corrected: 2017-06-23
-version_adopted: 2005-06-29
+version: 2022-01-01
+version_adopted: 2021-10-27
 adopted: 2005-06-29
 in_force: 2005-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/611.101"
-pdf: "https://lex.vs.ch/api/fr/versions/375/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2973/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la délégation de compétences financières du Conseil d'Etat aux départements et aux services
 
-du 29 juin 2005
+du 29.06.2005 (état 01.01.2022)
 
 Le Conseil d'Etat du canton du Valais
 
-vu les articles 32 et 52 de la loi du 24 juin 1980 sur la gestion et le contrôle administratifs et financiers du canton, désignés ci-après par LGCAF;
+vu les articles 32 et 52 de la loi sur la gestion et le contrôle administratifs et financiers du canton du 24 juin 1980 (LGCAF);
 
 vu l'article 57 alinéa 2 de la Constitution cantonale;
 
@@ -46,7 +44,6 @@ ordonne:
 <sup>1</sup> Le Conseil d'Etat est seul compétent pour:
 
 - a) tous les domaines de dépenses non expressément délégués;
-
 - b) les demandes de crédits supplémentaires et de dépassement de crédits budgétaires au sens des articles 21 et 22 de la LGCAF.
 
 <sup>2</sup> Demeurent réservées les dispositions particulières relatives aux marchés publics.
@@ -86,7 +83,6 @@ ordonne:
 <sup>2</sup> Les compétences pouvant être déléguées sont au maximum:
 
 - a) de 50'000 francs pour les dépenses de fonctionnement;
-
 - b) de 50'000 francs pour les dépenses d'investissement.
 
 <sup>3</sup> En ce qui concerne les services de la Présidence, les compétences sont déléguées par le Président du Gouvernement.
@@ -100,28 +96,17 @@ ordonne:
 <sup>1</sup> Pour les engagements complémentaires, la compétence de décision appartient:
 
 - a) lorsque l'engagement initial a été décidé par le Conseil d'Etat:
-
-- 1\. au chef de service, jusqu'au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance;
-
-- 2\. au chef de département concerné, entre le montant de la compétence déléguée en application de l'article 6 de la présente ordonnance et 200'000 francs, pour autant que le(s) engagement(s) complémentaire(s) ne dépasse(nt) pas le 40 pour cent de l'engagement initial;
-
-- 3\. au Conseil d'Etat dans les autres cas.
-
+  - 1\. au chef de service, jusqu'au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance,
+  - 2\. au chef de département concerné, entre le montant de la compétence déléguée en application de l'article 6 de la présente ordonnance et 200'000 francs, pour autant que le(s) engagement(s) complémentaire(s) ne dépasse(nt) pas le 40 pour cent de l'engagement initial,
+  - 3\. au Conseil d'Etat dans les autres cas;
 - b) lorsque l'engagement initial a été décidé par un chef de département:
-
-- 1\. au chef de service, jusqu'au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance;
-
-- 2\. au chef de département concerné, si l'engagement initial plus le(s) engagement(s) complémentaire(s) sont supérieurs au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance mais ne dépassent pas 200'000 francs;
-
-- 3\. au Conseil d'Etat dans les autres cas.
-
+  - 1\. au chef de service, jusqu'au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance,
+  - 2\. au chef de département concerné, si l'engagement initial plus le(s) engagement(s) complémentaire(s) sont supérieurs au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance mais ne dépassent pas 200'000 francs,
+  - 3\. au Conseil d'Etat dans les autres cas;
 - c) lorsque l'engagement initial a été décidé par un chef de service :
-
-- 1\. au chef de service, jusqu'au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance (crédit initial compris);
-
-- 2\. au chef de département concerné, si l'engagement initial plus le(s) engagement(s) complémentaire(s) sont supérieurs au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance mais ne dépassent pas 200'000 francs;
-
-- 3\. au Conseil d'Etat dans les autres cas.
+  - 1\. au chef de service, jusqu'au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance (crédit initial compris),
+  - 2\. au chef de département concerné, si l'engagement initial plus le(s) engagement(s) complémentaire(s) sont supérieurs au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance mais ne dépassent pas 200'000 francs,
+  - 3\. au Conseil d'Etat dans les autres cas.
 
 <sup>2</sup> Les engagements complémentaires font l'objet d'une information régulière aux organes ayant pris les engagements initiaux.
 
@@ -137,15 +122,11 @@ ordonne:
 
 **Signature collective des ordres de paiement**
 
-Tous les ordres de paiement font l'objet d'une signature collective à deux, par le responsable désigné et par le chef de service ou la personne autorisée.
+<sup>1</sup> Tous les ordres de paiement font l'objet d'une signature collective à deux, par le responsable désigné et par le chef de service ou la personne autorisée.
 
 #### Art. 10
 
-**Contresignature des ordres de paiement**
-
-<sup>1</sup> Le chef de département contresigne tous les ordres de paiement supérieurs à 100 000 francs.
-
-<sup>2</sup> Il peut déléguer tout ou partie de cette compétence à un responsable administratif. Il peut en tout temps abaisser la limite de compétence ou exiger de contresigner tous les ordres de paiement d'un de ses services. Ces décisions sont portées à la connaissance de l'Administration des finances et de l'Inspection des finances.
+**…**
 
 #### Art. 11
 
@@ -177,7 +158,7 @@ Tous les ordres de paiement font l'objet d'une signature collective à deux, par
 
 **Limitation ou retrait des compétences**
 
-En cas d'abus ou si des circonstances particulières l'exigent, le Conseil d'Etat ou les chefs de département limitent ou retirent les compétences financières qu'ils ont déléguées.
+<sup>1</sup> En cas d'abus ou si des circonstances particulières l'exigent, le Conseil d'Etat ou les chefs de département limitent ou retirent les compétences financières qu'ils ont déléguées.
 
 #### Art. 15
 
@@ -191,16 +172,12 @@ En cas d'abus ou si des circonstances particulières l'exigent, le Conseil d'Eta
 
 **Modification**
 
-L'article 33 alinéa 2 de l'ordonnance sur les marchés publics du 11 juin 2003 est modifié comme suit:
-
-...
+<sup>1</sup> L'ordonnance sur les marchés publics du 11 juin 2003 est modifiée.
 
 #### Art. 17
 
 **Entrée en vigueur et publication**
 
-La présente modification sera publiée au Bulletin officiel. S'agissant des délégations de compétences aux chefs de service en matière financière, l'entrée en vigueur de ces dispositions est fixée au 1<sup>er</sup> août 2005 pour l'office des améliorations foncières, le service de la santé publique, la haute école valaisanne, le service de la sécurité civile et militaire, le service des routes et des cours d'eau et le service des bâtiments, monuments et archéologie. Pour les autres services gérés par mandats de prestations, l'entrée en force interviendra dès l'approbation par le Grand Conseil de leur mandat de prestations politiques.
+<sup>1</sup> La présente modification sera publiée au Bulletin officiel. S'agissant des délégations de compétences aux chefs de service en matière financière, l'entrée en vigueur de ces dispositions est fixée au 1<sup>er</sup> août 2005 pour l'office des améliorations foncières, le service de la santé publique, la haute école valaisanne, le service de la sécurité civile et militaire, le service des routes et des cours d'eau et le service des bâtiments, monuments et archéologie. Pour les autres services gérés par mandats de prestations, l'entrée en force interviendra dès l'approbation par le Grand Conseil de leur mandat de prestations politiques.
 
-Ainsi adoptée en Conseil d'Etat, le 29 juin 2005.
-
-Le président du Conseil d'Etat: Claude Roch Le chancelier d'Etat: Henri v. Roten
+RCV BO/Abl. 30/2005
