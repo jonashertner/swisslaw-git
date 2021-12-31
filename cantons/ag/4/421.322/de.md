@@ -4,13 +4,13 @@ number: "421.322"
 title: Verordnung über die Ressourcierung der Volksschule
 short: Ressourcenverordnung
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-04-22
+version: 2022-01-01
+valid_until: 2022-04-07
+version_adopted: 2021-04-07
 adopted: 2019-03-20
 in_force: 2020-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.322"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2973/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3067/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2973/pdf_file"
 
 (Ressourcenverordnung)
 
-Vom 20.03.2019 (Stand 01.08.2021)
+Vom 20.03.2019 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -203,7 +203,7 @@ ZK2 in WL pro SuS kl. Schulen und Stao = (b - a \* SuS kl. Schulen und Stao) \* 
 - a) Assistenzperson — 110 Stunden,
 - b) Externe Fachperson I — 85 Stunden,
 - c) Externe Fachperson II — 70 Stunden,
-- d) Schulleitungsperson — 55 Stunden.
+- d) …
 
 #### § 17
 
