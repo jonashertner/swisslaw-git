@@ -4,13 +4,13 @@ number: "831.1"
 title: Sozialgesetz
 short: SG
 language: de
-version: 2021-11-01
-valid_until: 2021-12-31
-version_adopted: 2020-11-04
+version: 2022-01-01
+valid_until: 2023-07-31
+version_adopted: 2021-08-31
 adopted: 2007-01-31
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.1"
-pdf: "https://bgs.so.ch/api/de/versions/5122/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5265/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5122/pdf_file"
 
 (SG)
 
-Vom 31.01.2007 (Stand 01.11.2021)
+Vom 31.01.2007 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -75,7 +75,10 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz regelt
 
-- a) den Vollzug des Sozialversicherungsrechtes des Bundes, soweit dieser dem Kanton übertragen ist, nämlich in:
+- a) …
+- a<sup>bis</sup>) die Grundsätze der Prävention sowie das freiwillige Engagement;
+- b) …
+- a<sup>ter</sup>) den Vollzug des Sozialversicherungsrechtes des Bundes, soweit dieser dem Kanton übertragen ist, nämlich in:
   - 1\. der Arbeitslosenversicherung (AVIG),
   - 2\. der beruflichen Vorsorge (BVG),
   - 3\. der Alters- und Hinterlassenenversicherung (AHVG),
@@ -86,7 +89,6 @@ beschliesst:
   - 8\. der Militärversicherung (MVG),
   - 9\. der Krankenversicherung (KVG),
   - 10\. den Familienzulagen ausserhalb der Landwirtschaft (FamZG);
-- b) …
 - c) den Vollzug sozialer Ergänzungshilfen soweit dieser dem Kanton übertragen ist, nämlich in:
   - 1\. den Ergänzungsleistungen (ELG),
   - 2\. der Krankenversicherung (KVG);
@@ -100,7 +102,8 @@ beschliesst:
   - 6\. Suchthilfe,
   - 7\. Menschen mit Behinderungen,
   - 8\. Pflege,
-  - 9\. Bestattung.
+  - 9\. Bestattung,
+  - 10\. Budget- und Schuldenberatung;
 - e) die Sozialhilfe und Nothilfe durch die Einwohnergemeinden für Menschen in sozialen Notlagen.
 
 <sup>2</sup> Dieses Gesetz bezieht sich grundsätzlich nicht auf die Aufgaben des Kantons und der Gemeinden:
@@ -492,7 +495,8 @@ beschliesst:
 - e) Wohnen-Miete;
 - f) Opferhilfe;
 - g) Menschen mit einer Behinderung;
-- h) Aufnahme und Unterbringung von unmündigen Personen ausserhalb des Elternhauses (Pflegekinder).
+- h) Aufnahme und Unterbringung von unmündigen Personen ausserhalb des Elternhauses (Pflegekinder);
+- i) Elternbildung.
 
 <sup>3</sup> Er kann konkrete soziale Projekte unterstützen.
 
@@ -512,7 +516,9 @@ beschliesst:
 - f) ambulante und stationäre Betreuung und Pflege;
 - g) Sozialhilfe;
 - h) Bestattung;
-- i) Ergänzungsleistungen zur Alters- und Hinterlassenenversicherung.
+- i) Ergänzungsleistungen zur Alters- und Hinterlassenenversicherung;
+- j) Freiwilliges Engagement;
+- k) Schulden- und Budgetberatung.
 
 <sup>2</sup> Sie können konkrete soziale Projekte unterstützen.
 
@@ -801,9 +807,7 @@ beschliesst:
 
 #### § 49
 
-**Freiwilligenarbeit**
-
-<sup>1</sup> Kanton und Einwohnergemeinden können die Freiwilligenarbeit unterstützen und die Zusammenarbeit mit Freiwilligen sowie die Familien- und Nachbarschaftshilfe fördern.
+**…**
 
 #### § 50
 
@@ -931,6 +935,16 @@ beschliesst:
 
 ## 2. Prävention
 
+## 2.1 Grundsätze
+
+#### § 57bis
+
+**Ziel und Zweck**
+
+<sup>1</sup> Kanton und Einwohnergemeinden fördern Rahmenbedingungen, die vor sozialen Gefährdungen und Notlagen schützen und ein eigenständiges, verantwortungsbewusstes Leben begünstigen.
+
+<sup>2</sup> Sie stärken die Kompetenzen der Menschen, unabhängig von ihrem sozialen Status und ihrer wirtschaftlichen Leistungsfähigkeit verantwortungsvoll zu handeln und befähigen diese, ein eigenständiges, verantwortungsbewusstes Leben zu führen.
+
 #### § 58
 
 **Verhältnisprävention**
@@ -945,18 +959,34 @@ beschliesst:
 
 **Verhaltensprävention**
 
-<sup>1</sup> Kanton und Einwohnergemeinden befähigen die Menschen unabhängig ihrer wirtschaftlichen Leistungsfähigkeit oder ihres sozialen Status zu einem selbstbestimmten und eigenverantwortlichen Handeln.
+<sup>1</sup> …
 
 <sup>2</sup> Kanton und Einwohnergemeinden fördern in den ihnen nach dem Gesetz zugewiesenen Leistungsfeldern die Prävention mit geeigneten Massnahmen, indem sie
 
 - a) die individuellen Kompetenzen im sozialen Verhalten durch Erstberatung, durch Vermittlung von Dienstleistungen sowie durch Massnahmen der Ausbildung und durch Angebote des Trainings stärken;
 - b) Menschen durch Beratung, Unterstützung zur Selbsthilfe und Begleitung befähigen, sich einer sozialen Gefährdung zu entziehen oder aus einer sozialen Notlage zu befreien.
 
+#### § 59bis
+
+**Bundes- und Drittmittel**
+
+<sup>1</sup> Der Regierungsrat verwendet Bundes- und weitere Finanzmittel, insbesondere den Alkoholzehntel und den kantonalen Fonds für die Prävention und Bekämpfung der Spielsucht, für Projekte der Vor- und Nachsorge im Sozial- und im Gesundheitsbereich.
+
+<sup>2</sup> Der Kanton kann das Gewähren von Beiträgen in kommunalen Leistungsfeldern an Auflagen knüpfen.
+
 #### § 60
 
-**Alkoholzehntel**
+**…**
 
-<sup>1</sup> Der Regierungsrat verwendet den Alkoholzehntel im Rahmen der Zweckbestimmung des Bundes zur Bekämpfung des Suchtverhaltens sowie zur Finanzierung von Projekten der Prävention im Sozial- und im Gesundheitsbereich.
+### 2.2. Freiwilliges Engagement
+
+#### § 59ter
+
+**Freiwilliges Engagement**
+
+<sup>1</sup> Die Einwohnergemeinden fördern das freiwillige Engagement im Interesse der Allgemeinheit; namentlich in den Leistungsfeldern Alter, Pflege, Sozialhilfe und Integration.
+
+<sup>2</sup> Sie koordinieren und vernetzen die Angebote sowie Projekte untereinander und sorgen dafür, dass ihr Engagement bezahlte Arbeit nicht konkurrenziert.
 
 ## 3. Sozialversicherungen und Ergänzungshilfen
 
@@ -1544,19 +1574,40 @@ beschliesst:
 
 ### 4.1. Familie, Kinder, Jugend und Alter
 
-### 4.1.1. Familie und Kinder
+### 4.1.1. Familie, Kinder und Jugend
 
 #### § 105
 
 **Ziel und Zweck**
 
-<sup>1</sup> Kanton und Einwohnergemeinden garantieren, dass das Kindeswohl bei allen Massnahmen, welche Kinder und Jugendliche direkt berühren, vorrangig berücksichtigt und die besonderen Anhörungsrechte für Kinder und Jugendliche umgesetzt werden.
+<sup>1</sup> Kanton und Einwohnergemeinden sorgen für Strukturen, die Familien unterstützen und den Zugang zu Angeboten der Frühen Förderung sicherstellen.
 
 #### § 106
 
-**Familienberatung**
+**Beratungs- und Begleitungsangebot**
 
-<sup>1</sup> Die Einwohnergemeinden organisieren die Schwangerschafts-, Säuglings-, Ehe- und Familienberatung.
+<sup>1</sup> Die Einwohnergemeinden stellen ein niederschwelliges Angebot an Beratung und Begleitung für Familien zur Verfügung. Dieses bietet allgemeine und spezifische Hilfestellungen an, um
+
+- a) Eltern, Erziehungsberechtigte und weitere familiäre Bezugspersonen in ihren Betreuungs- und Erziehungskompetenzen zu stärken,
+- b) sie bei Problemen in der Familienarbeit zu unterstützen und
+- c) die gesunde Entwicklung bei den Kindern zu fördern.
+
+#### § 106bis
+
+**Elternbildung**
+
+<sup>1</sup> Der Kanton bietet Eltern Bildungsmöglichkeiten, die sie in ihren Kompetenzen für die Familienarbeit stärken.
+
+#### § 106ter
+
+**Koordination**
+
+<sup>1</sup> Der Kanton koordiniert die Entwicklung und die Angebote für Familien, der Frühen Förderung und der Elternbildung, indem er:
+
+- a) Gemeinden, öffentliche und private Institutionen fachlich berät;
+- b) Projekte unterstützt und fördert;
+- c) Angebote den Gemeinden bekannt macht und untereinander vernetzt;
+- d) die Entwicklung beobachtet, auswertet und darüber berichtet.
 
 #### § 107
 
@@ -1582,15 +1633,7 @@ beschliesst:
 
 #### § 109
 
-**Kindesschutz**
-
-<sup>1</sup> Die Kindesschutzbehörden treffen nach dem Zivilgesetzbuch[^109-1] die geeigneten Massnahmen zum Schutze des Kindes.
-
-<sup>2</sup> Die Einwohnergemeinden können ein ausreichendes Angebot von zusätzlichen Massnahmen zum Schutz der Kinder, insbesondere durch spezialisierte Beratungsstellen organisieren. Der Kanton sorgt für die Koordination der Angebote.
-
-<sup>3</sup> Aufgaben und Verantwortung von Kanton und Einwohnergemeinden im Bereich des öffentlich-rechtlichen Kindesschutzes richten sich nach der Spezialgesetzgebung.
-
-[^109-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
+**…**
 
 #### § 110
 
@@ -1645,37 +1688,36 @@ beschliesst:
 
 <sup>2</sup> Für Pflegekinder in Tagespflege ist eine Haftpflichtversicherung abzuschliessen.
 
-### 4.1.2. Jugend
+### 4.1.2.
 
 #### § 112
 
-**Ziel und Zweck**
-
-<sup>1</sup> Kanton und Einwohnergemeinden unterstützen die spezifischen Anliegen jüngerer Menschen und sorgen dafür, dass die Angebote zielgerichtet koordiniert und die Zusammenarbeit gefördert werden.
+**…**
 
 #### § 113
 
-**Einwohnergemeinden**
+**Kinder und Jugend**
 
-<sup>1</sup> Die Einwohnergemeinden können eine Ansprechstelle für Jugendfragen bestimmen.
+<sup>1</sup> Die Einwohnergemeinden fördern die Kinder- und Jugendarbeit, die Kinder- und Jugendkultur sowie die Partizipation von Kindern und Jugendlichen. Sie tun dies, indem sie insbesondere:
 
-<sup>2</sup> Sie fördern die Jugendarbeit, Jugendkultur und Partizipation indem sie insbesondere:
-
-- a) Beiträge leisten;
+- a) Beiträge an Angebote und Projekte leisten;
 - b) Raum und Infrastruktur zur Verfügung stellen;
-- c) Beteiligungsmodelle für Kinder und Jugendliche schaffen.
+- c) Kinder und Jugendliche in Prozesse und Entscheide einbinden.
+
+<sup>2</sup> …
 
 #### § 114
 
-**Kanton**
+**Anlauf- und Koordinationsstelle für Kinder- und Jugendfragen**
 
-<sup>1</sup> Der Kanton führt eine Anlauf- und Koordinationsstelle für Jugendfragen mit dem Ziel
+<sup>1</sup> Der Kanton führt eine Anlauf- und Koordinationsstelle für Kinder- und Jugendfragen mit dem Ziel
 
 - a) Gemeinden, öffentliche und private Institutionen fachlich zu beraten;
 - b) Institutionen und Aktivitäten von Kindern und Jugendlichen zu unterstützen;
 - c) Projekte der Jugendarbeit fachlich zu begleiten;
 - d) Projekte der Jugendkultur zu unterstützen;
-- e) die Partizipation von Kindern und Jugendlichen zu fördern.
+- e) die Partizipation von Kindern und Jugendlichen zu fördern;
+- f) die Angebote im Bereich Kinder- und Jugendpolitik aufeinander abzustimmen.
 
 #### § 115
 
@@ -2148,6 +2190,22 @@ beschliesst:
 
 <sup>3</sup> Eine Exhumierung erdbestatteter Personen ist von einem Organ der Einwohnergemeinde zu bewilligen.
 
+### 4.10 Budget- und Schuldenberatung
+
+#### § 146bis
+
+**Ziel und Zweck**
+
+<sup>1</sup> Die Einwohnergemeinden fördern bei der Bevölkerung den verantwortungsbewussten Umgang mit Geld.
+
+#### § 146ter
+
+**Prävention und Beratung**
+
+<sup>1</sup> Sie unterstützen geeignete Angebote zur Schuldenprävention.
+
+<sup>2</sup> Sie stellen den Zugang zu einer Fachstelle oder Organisation sicher, die Einwohnerinnen und Einwohner bei Fragen zu Budget und Schulden sowie bei Schuldensanierungen berät und begleitet.
+
 ## 5. Sozialhilfe
 
 ### 5.1. Grundsätze
@@ -2514,6 +2572,12 @@ beschliesst:
 <sup>1</sup> Einwohnergemeinden und ambulante Dienstleister müssen innert dreier Jahre ab Inkrafttreten der Gesetzesbestimmungen auf die in § 144 ff. verankerte Subjektfinanzierung umgestellt haben.
 
 <sup>2</sup> Während der Übergangsfrist gibt der Regierungsrat für die Höchsttaxen betreffend die Leistungen für die Grundversorgung nur eine unverbindliche Empfehlung ab. Diese ist jedoch für die Berechnung der Pflegekostenbeiträge an ambulante Dienstleister ohne Grundversorgungsauftrag unter Berücksichtigung einer Kürzung um 40% gemäss § 144<sup>bis</sup> Absatz 6 verbindlich, so lange in der einzelnen Einwohnergemeinde noch keine Umstellung auf die Subjektfinanzierung erfolgt ist.
+
+#### § 181
+
+**Übergangsbestimmung zu den Änderungen vom 31. August 2021**
+
+<sup>1</sup> Einwohnergemeinden müssen innert zweier Jahre ab Inkrafttreten der Paragraphen 146<sup>bis</sup> und 146<sup>ter</sup> die nötigen Angebote der Prävention und Beratung aufgebaut haben.
 
 Dieser Beschluss unterliegt dem fakultativen Referendum.
 
