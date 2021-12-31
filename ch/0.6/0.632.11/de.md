@@ -3,11 +3,11 @@ sr: "0.632.11"
 title: Internationales Übereinkommen vom 14. Juni 1983 über das Harmonisierte System zur Bezeichnung und Codierung der Waren (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1983-06-14
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1987-2686_2686_2686-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2686_2686_2686/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1987-2686_2686_2686-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2686_2686_2686/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1987** 2686; BBl **1985** III 357
 
 Abgeschlossen in Brüssel am 14. Juni 1983 Von der Bundesversammlung genehmigt am 10. Juni 1986[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 22. September 1987 In Kraft getreten für die Schweiz am 1. Januar 1988
 
-(Stand am 1. Januar 2021)
+(Stand am 1. Januar 2022)
 
 [^t-1]: [AS 1987 2685](https://fedlex.data.admin.ch/eli/oc/1987/2685_2685_2685)
 
@@ -316,9 +316,12 @@ Anhang*[^t-2]*
 
 (Art. 2)
 
-## Nomenklatur des Harmonisierten Systems
+## Nomenklatur des Harmonisierten Systems****
 
-[^t-2]: Dieser Anhang wird in der AS nicht publiziert ([AS 2016 3861](https://fedlex.data.admin.ch/eli/oc/2016/651)). Der Text ist im Anhang zum Zolltarifgesetz vom 9. Okt. 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), Generaltarif, enthalten (siehe www.ezv.admin). Er wird ebenfalls in den gestützt auf Art. 15 Abs. 2 des Zolltarifgesetzes vom 9. Okt. 1986 herausgegebenen Zolltarif übernommen (siehe www.tares.ch).
+[^annexu1-lvlu1-1]
+
+[^t-2]: Fassung gemäss der Mitteilung in [AS 2016 3861](https://fedlex.data.admin.ch/eli/oc/2016/651). Bereinigt gemäss der Mitteilung in [AS 2022 131](https://fedlex.data.admin.ch/eli/oc/2022/131).
+[^annexu1-lvlu1-1]: Dieser Anhang wird nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht publiziert; er wird in den Anhang zum Zolltarifgesetz vom 9. Okt. 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), Generaltarif, aufgenommen, der im Internet unter www.bazg.admin.ch publiziert wird. Er wird ebenfalls in den gestützt auf Art. 15 Abs. 2 des Zolltarifgesetzes vom 9. Okt. 1986 herausgegebenen Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann.
 
 Änderungen des Anhangs wurden vom Generalsekretär der Weltzollorganisation (WZO) in Brüssel wie folgt notifiziert:
 
@@ -329,6 +332,9 @@ Anhang*[^t-2]*
 - 08\. Juli 2009 Inkraftsetzung 1.1.2012
 - 03\. Juli 2014 Inkraftsetzung 1.1.2017
 - 22\. Juni 2015 Inkraftsetzung 1.1.2018 (Die Vertragsparteien werden aufgefordert, die Änderungen per 1.1.2017 umzusetzen)
+- 04\. Juli 2019 Inkraftsetzung 1.1.2022
+- 03\. Juli 2020 Inkraftsetzung 1.1.2023 (Die Vertragsparteien werden aufgefordert, die Änderungen per 1.1.2022 umzusetzen)
+- 09\. Juli 2021 Inkraftsetzung 1.1.2024 (Die Vertragsparteien werden aufgefordert, die Änderungen per 1.1.2022 umzusetzen)
 
 Geltungsbereich am 21. Januar 2020**[^t-3]**
 
@@ -497,4 +503,4 @@ Geltungsbereich am 21. Januar 2020**[^t-3]**
 <tr><td>Zypern</td><td>21. März</td><td>1994 B</td><td>21. März</td><td>1994</td></tr>
 </table>
 
-[^t-3]: [AS 1987 2686](https://fedlex.data.admin.ch/eli/oc/1987/2686_2686_2686), [1989 387](https://fedlex.data.admin.ch/eli/oc/1989/387_387_387), [1990 1606](https://fedlex.data.admin.ch/eli/oc/1990/1606_1606_1606), [2002 4080](https://fedlex.data.admin.ch/eli/oc/2002/656), [2005 767](https://fedlex.data.admin.ch/eli/oc/2005/95), [2009 67](https://fedlex.data.admin.ch/eli/oc/2009/12), [2012 379](https://fedlex.data.admin.ch/eli/oc/2012/30), [2014 95](https://fedlex.data.admin.ch/eli/oc/2014/9), [2016 499](https://fedlex.data.admin.ch/eli/oc/2016/86)und [2020 285](https://fedlex.data.admin.ch/eli/oc/2020/52). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1987 2686](https://fedlex.data.admin.ch/eli/oc/1987/2686_2686_2686); [1989 387](https://fedlex.data.admin.ch/eli/oc/1989/387_387_387); [1990 1606](https://fedlex.data.admin.ch/eli/oc/1990/1606_1606_1606); [2002 4080](https://fedlex.data.admin.ch/eli/oc/2002/656); [2005 767](https://fedlex.data.admin.ch/eli/oc/2005/95); [2009 67](https://fedlex.data.admin.ch/eli/oc/2009/12); [2012 379](https://fedlex.data.admin.ch/eli/oc/2012/30); [2014 95](https://fedlex.data.admin.ch/eli/oc/2014/9); [2016 499](https://fedlex.data.admin.ch/eli/oc/2016/86); [2020 285](https://fedlex.data.admin.ch/eli/oc/2020/52). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.

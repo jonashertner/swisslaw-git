@@ -3,11 +3,11 @@ sr: "0.632.11"
 title: Convention internationale du 14 juin 1983 sur le Système harmonisé de désignation et de codification des marchandises (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1983-06-14
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-2686_2686_2686-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/2686_2686_2686/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-2686_2686_2686-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/2686_2686_2686/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 22 septembre 1987
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1988
 
-(Etat le 1<sup>er</sup> janvier 2021)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: [RO 1987 2685](https://fedlex.data.admin.ch/eli/oc/1987/2685_2685_2685)
 
@@ -324,9 +324,12 @@ Annexe*[^t-2]*
 
 ## Nomenclature du Système harmonisé
 
-[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2016 3861](https://fedlex.data.admin.ch/eli/oc/2016/651)). Elle est reprise dans l’annexe «Tarif des douanes suisses» à la L du 9 oct. 1986 sur le tarif des douanes ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), qui est publiée sur Internet à l’adresse www.ezv.admin.ch. Elle est également insérée dans le tarif des douanes, publié en vertu de l’art. 15, al. 2, de la L du 9 oct. 1986 sur le tarif des douanes et qui peut être consulté sur Internet à l’adresse www.tares.ch.
+[^annexu1-lvlu1-1]
 
-Les modifications de l’annexe ont été notifiées de la manière suivante par le secrétaire général de l’Organisation mondiale des douanes (OMD) à Bruxelles:
+[^t-2]: Nouvelle teneur selon la notification publiée dans le [RO 2016 3861](https://fedlex.data.admin.ch/eli/oc/2016/651). Mise à jour par la notification publiée dans le [RO 2022 131](https://fedlex.data.admin.ch/eli/oc/2022/131).
+[^annexu1-lvlu1-1]: Conformément à l’art. 5, al. 1, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la présente annexe n’est pas publiée au RO; elle est reprise dans l’annexe «Tarif des douanes suisses» à la L du 9 oct. 1986 sur le tarif des douanes ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), qui est publiée sur Internet à l’adresse www.bazg.admin.ch. Elle est également insérée dans le tarif des douanes, publié en vertu de l’art. 15, al. 2, de la L du 9 oct. 1986 sur le tarif des douanes et qui peut être consulté sur Internet à l’adresse www.tares.ch.
+
+Les modifications de l’annexe ont été notifiées de la manière suivante par le Secrétaire Général de l’Organisation mondiale des douanes (OMD) à Bruxelles:
 
 - 19 juillet 1989 Entrée en vigueur le 1<sup>er</sup> janvier 1992
 - 15 juillet 1993 Entrée en vigueur le 1<sup>er</sup> janvier 1996
@@ -334,7 +337,10 @@ Les modifications de l’annexe ont été notifiées de la manière suivante par
 - 12 juillet 2004 Entrée en vigueur le 1<sup>er</sup> janvier 2007
 - 8 juillet 2009 Entrée en vigueur le 1<sup>er</sup> janvier 2012
 - 3 juillet 2014 Entrée en vigueur le 1<sup>er</sup> janvier 2017
-- 22 juin 2015 Entrée en vigueur le 1<sup>er</sup> janvier 2018 (les Parties contractantes sont invitées à mettre en œuvre les modifications au 1<sup>er</sup> janvier 2017)
+- 22 juin 2015 Entrée en vigueur le 1<sup>er</sup> janvier 2018 (les Parties contractante sont invitées à mettre en œuvre les modifications au 1<sup>er</sup> janvier 2017)
+- 4 juillet 2019 Entrée en vigueur le 1<sup>er</sup> janvier 2022
+- 3 juillet 2020 Entrée en vigueur le 1<sup>er</sup> janvier 2023 (les Parties contractantes sont invitées à mettre en œuvre les modifications au 1<sup>er</sup> janvier 2022)
+- 9 juillet 2021 Entrée en vigueur le 1<sup>er</sup> janvier 2024 (les Parties contractantes sont invitées à mettre en œuvre les modifications au 1<sup>er</sup> janvier 2022)
 
 Champ d’application le 21 janvier 2020**[^t-3]**
 
@@ -503,4 +509,4 @@ Champ d’application le 21 janvier 2020**[^t-3]**
 <tr><td>Zimbabwe</td><td>5 novembre</td><td>1986 Si</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
 </table>
 
-[^t-3]: [RO 1987 2686](https://fedlex.data.admin.ch/eli/oc/1987/2686_2686_2686), [1989 387](https://fedlex.data.admin.ch/eli/oc/1989/387_387_387), [1990 1606](https://fedlex.data.admin.ch/eli/oc/1990/1606_1606_1606), [2002 4080](https://fedlex.data.admin.ch/eli/oc/2002/656), [2005 767](https://fedlex.data.admin.ch/eli/oc/2005/95), [2009 67](https://fedlex.data.admin.ch/eli/oc/2009/12), [2012 379](https://fedlex.data.admin.ch/eli/oc/2012/30), [2014 95](https://fedlex.data.admin.ch/eli/oc/2014/9), [2016 499](https://fedlex.data.admin.ch/eli/oc/2016/86)et **2020** 285. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1987 2686](https://fedlex.data.admin.ch/eli/oc/1987/2686_2686_2686); [1989 387](https://fedlex.data.admin.ch/eli/oc/1989/387_387_387); [1990 1606](https://fedlex.data.admin.ch/eli/oc/1990/1606_1606_1606); [2002 4080](https://fedlex.data.admin.ch/eli/oc/2002/656); [2005 767](https://fedlex.data.admin.ch/eli/oc/2005/95); [2009 67](https://fedlex.data.admin.ch/eli/oc/2009/12); [2012 379](https://fedlex.data.admin.ch/eli/oc/2012/30); [2014 95](https://fedlex.data.admin.ch/eli/oc/2014/9); [2016 499](https://fedlex.data.admin.ch/eli/oc/2016/86); [2020 285](https://fedlex.data.admin.ch/eli/oc/2020/52). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
