@@ -3,11 +3,11 @@ sr: "367.1"
 title: Vereinbarung vom 2. September 2020 zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz (PTI-Vereinbarung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1053"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-09-02
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1053/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1053-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1053/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1053/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1053-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1053/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1053/20210101/de"
 
 (PTI-Vereinbarung)
 
-vom 2. September 2020 (Stand am 1. Januar 2021)
+vom 2. September 2020 (Stand am 1. Januar 2022)
 
 Die Kantone Zürich, Luzern, Uri, Schwyz, Obwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg und Jura, handelnd durch ihre Justiz- und Polizeidirektorinnen und -direktoren, und der Bund, handelnd durch die Vorsteherin des Eidgenössischen Justiz- und Polizeidepartements (EJPD),
 
@@ -161,11 +161,13 @@ Ihre Mitglieder sind:
 - b. die Kommandantin oder der Kommandant der Stadtpolizei Zürich, sofern der Kanton Zürich Partei dieser Vereinbarung ist;
 - c. die Präsidentin oder der Präsident der Schweizerischen Vereinigung Städtischer Polizeichefs (SVSP);
 - d. die Direktorin oder der Direktor des Schweizerischen Polizei-Instituts (SPI);
-- e. die Direktorinnen oder Direktoren des Bundesamts für Polizei (fedpol), des Bundesamts für Bevölkerungsschutz (BABS) und der Eidgenössischen Zollverwaltung (EZV).
+- e. die Direktorinnen oder Direktoren des Bundesamts für Polizei (fedpol), des Bundesamts für Bevölkerungsschutz (BABS) und des Bundesamts für Zoll und Grenzsicherheit (BAZG)[^8-1].
 
 <sup>3</sup> Hat dieselbe Person zwei Rollen nach Absatz 2, so vertritt sie in der operativen Versammlung nur eine von beiden Behörden. Die strategische Versammlung wählt eine andere Person zur Vertretung der anderen Behörde.
 
 <sup>4</sup> Die operative Versammlung wählt ihre Präsidentin oder ihren Präsidenten sowie die Vizepräsidentin oder den Vizepräsidenten.
+
+[^8-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 9
 

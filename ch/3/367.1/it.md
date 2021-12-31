@@ -3,11 +3,11 @@ sr: "367.1"
 title: "Convenzione del 2 settembre 2020 tra la Confederazione e i Cantoni sull'armonizzazione e la messa a disposizione congiunta della tecnica e dell'informatica di polizia in Svizzera (Convenzione TIP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1053"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-09-02
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1053/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1053-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1053/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1053/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1053-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1053/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1053/20210101/it"
 
 (Convenzione TIP)
 
-del 2 settembre 2020 (Stato 1° gennaio 2021)
+del 2 settembre 2020 (Stato 1° gennaio 2022)
 
 I Cantoni di Zurigo, Lucerna, Uri, Svitto, Obvaldo, Glarona, Zugo, Friburgo, Soletta, Basilea Città, Basilea Campagna, Sciaffusa, Appenzello Esterno, San Gallo, Grigioni, Argovia, Turgovia, Ticino, Vaud, Vallese, Neuchâtel e Giura, rappresentati dai direttori dei dipartimenti cantonali di giustizia e polizia, e la Confederazione, rappresentata dal capo del Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -161,11 +161,13 @@ Essa è costituita:
 - b. dal comandante della polizia della città di Zurigo, sempre che il Cantone di Zurigo sia parte nella presente convenzione;
 - c. dal presidente della Società dei capi di polizia delle città svizzere (SCPCS);
 - d. dal direttore dell’Istituto svizzero di polizia (ISP);
-- e. dai direttori dell’Ufficio federale di polizia (fedpol), dell’Ufficio federale della protezione della popolazione (UFPP) e dell’Amministrazione federale delle dogane (AFD).
+- e. dai direttori dell’Ufficio federale di polizia (fedpol), dell’Ufficio federale della protezione della popolazione (UFPP) e Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^8-1].
 
 <sup>3</sup> Una stessa persona che esercita due funzioni di cui al capoverso 2 rappresenta nell’assemblea operativa soltanto una delle due autorità. L’assemblea strategica elegge un’altra persona in rappresentanza dell’altra autorità.
 
 <sup>4</sup> L’assemblea operativa elegge il suo presidente e il suo vicepresidente.
+
+[^8-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 9
 

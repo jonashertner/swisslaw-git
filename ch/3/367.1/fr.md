@@ -3,11 +3,11 @@ sr: "367.1"
 title: "Convention du 2 septembre 2020 entre la Confédération et les cantons sur l'harmonisation et la mise à disposition commune de la technique et de l'informatique policières en Suisse (Convention TIP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1053"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-09-02
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1053/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1053-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1053/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1053/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1053-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1053/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1053/20210101/fr"
 
 (Convention TIP)
 
-du 2 septembre 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 2 septembre 2020 (État le 1<sup>er</sup> janvier 2022)
 
 Les cantons de Zurich, de Lucerne, d’Uri, de Schwyz, d’Obwald, de Glaris, de Zoug, de Fribourg, de Soleure, de Bâle-Ville, de Bâle-Campagne, de Schaffhouse, d’Appenzell Rhodes-Extérieures, de Saint-Gall, des Grisons, d’Argovie, de Thurgovie, du Tessin, de Vaud, du Valais, de Neuchâtel et du Jura, agissant par l’entremise de leurs directeurs de départements de justice et police, et la Confédération, agissant par l’entremise de la cheffe du Département fédéral de justice et police (DFJP),
 
@@ -161,11 +161,13 @@ Elle se compose:
 - b. du commandant de la police municipale de Zurich, pour autant que le canton de Zurich soit partie à la présente convention;
 - c. du président de la Société des chefs de police des villes de Suisse (SCPVS);
 - d. du directeur de l’Institut Suisse de Police (ISP);
-- e. des directeurs de l’Office fédéral de la police (fedpol), de l’Office fédéral de la protection de la population (OFPP) et de l’Administration fédérale des douanes (AFD).
+- e. des directeurs de l’Office fédéral de la police (fedpol), de l’Office fédéral de la protection de la population (OFPP) et de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^8-1].
 
 <sup>3</sup> Si une même personne exerce deux fonctions citées à l’al. 2, elle ne représente à l’assemblée opérationnelle qu’une des deux autorités concernées. L’assemblée stratégique élit le représentant de l’autre autorité.
 
 <sup>4</sup> L’assemblée opérationnelle élit son président et son vice-président.
+
+[^8-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 9
 
