@@ -4,13 +4,13 @@ number: "831.2"
 title: Sozialverordnung
 short: SV
 language: de
-version: 2021-10-01
-valid_until: 2021-12-31
-version_adopted: 2021-07-05
+version: 2022-01-01
+valid_until: 2022-09-30
+version_adopted: 2021-10-25
 adopted: 2007-10-29
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.2"
-pdf: "https://bgs.so.ch/api/de/versions/5114/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5154/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5114/pdf_file"
 
 (SV)
 
-Vom 29.10.2007 (Stand 01.10.2021)
+Vom 29.10.2007 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -89,7 +89,7 @@ beschliesst:
 
 - a) von den stationären Pflegeeinrichtungen und den Spitexorganisationen die Stellenpläne inklusive Ausbildungsstellen bzw. -wochen und die anonymisierten Belege über Praktikumszuteilungen von Lernenden bzw. Studierenden ausserkantonaler Bildungsinstitutionen;
 - b) vom Berufsbildungszentrum pro Betrieb die Anzahl Lernender der Sekundarstufe II und die Anzahl Studierender der Tertiärstufe;
-- c) vom Amt für Soziale Sicherheit die Erhebung der KLV-Stunden und die Daten aus den Qualitätsreportings.
+- c) vom Amt die Erhebung der KLV-Stunden und die Daten aus den Qualitätsreportings.
 
 [^3quater-1]: SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de).
 
@@ -412,7 +412,7 @@ beschliesst:
 
 **Verbindungsstelle IVSE, § 46 SG**
 
-<sup>1</sup> Das Departement des Innern ist Verbindungsstelle für die interkantonale Vereinbarung soziale Institutionen (IVSE).
+<sup>1</sup> Das Departement ist Verbindungsstelle für die interkantonale Vereinbarung soziale Institutionen (IVSE).
 
 <sup>2</sup> Das Departement für Bildung und Kultur erteilt die Bewilligung und führt die Aufsicht und das Controlling im Bereich der Sonderschulung.
 
@@ -841,7 +841,7 @@ beschliesst:
 
 **Auszahlung, § 91 SG**
 
-<sup>1</sup> Das Departement schliesst mit den Versicherern Leistungsaufträge über die direkte Auszahlung, Verbuchung und Rückerstattung von Prämienverbilligungen ab. Das Amt für soziale Sicherheit unterzeichnet die entsprechenden Vereinbarungen namens des Departementes.
+<sup>1</sup> Das Departement schliesst mit den Versicherern Leistungsaufträge über die direkte Auszahlung, Verbuchung und Rückerstattung von Prämienverbilligungen ab. Das Amt unterzeichnet die entsprechenden Vereinbarungen namens des Departementes.
 
 <sup>2</sup> Auf Leistungen, die nach dieser Verordnung ausgerichtet werden, sind weder Vergütungs- noch Verzugszinsen geschuldet.
 
@@ -865,11 +865,11 @@ beschliesst:
 
 #### § 76
 
-**Departement des Innern**
+**Departement**
 
-<sup>1</sup> Das Departement des Innern kann ergänzende Bestimmungen zum Vollzug der Prämienverbilligung erlassen.
+<sup>1</sup> Das Departement kann ergänzende Bestimmungen zum Vollzug der Prämienverbilligung erlassen.
 
-<sup>2</sup> Das Amt für soziale Sicherheit namens des Departementes des Innern
+<sup>2</sup> Das Amt namens des Departementes
 
 - a) behandelt grundsätzliche Fragen zur Prämienverbilligung (parlamentarische Anfragen, Vernehmlassungen, usw.);
 - b) budgetiert die Prämienverbilligung (Kredit Prämienverbilligung) mit den Verwaltungskosten (Kredit Verwaltungskosten Prämienverbilligung) und verwaltet das Ausgleichskonto;
@@ -880,13 +880,13 @@ beschliesst:
 
 **Steueramt**
 
-<sup>1</sup> Das Steueramt stellt dem Amt für soziale Sicherheit und der Ausgleichskasse die Steuerdaten für Modellrechnungen der Prämienverbilligung und für die vorläufige Berechnung und Bescheinigung der Prämienverbilligung zur Verfügung.
+<sup>1</sup> Das Steueramt stellt dem Amt und der Ausgleichskasse die Steuerdaten für Modellrechnungen der Prämienverbilligung und für die vorläufige Berechnung und Bescheinigung der Prämienverbilligung zur Verfügung.
 
 #### § 78
 
 **Ausgleichskasse**
 
-<sup>1</sup> Die Prämienverbilligung erfolgt durch die Ausgleichskasse des Kantons Solothurn. Das Amt für soziale Sicherheit regelt dazu die Einzelheiten im Rahmen des vom Regierungsrat genehmigten Leistungsvertrages.
+<sup>1</sup> Die Prämienverbilligung erfolgt durch die Ausgleichskasse des Kantons Solothurn. Das Amt regelt dazu die Einzelheiten im Rahmen des vom Regierungsrat genehmigten Leistungsvertrages.
 
 <sup>2</sup> Die Aktenaufbewahrung der von der Ausgleichskasse verwalteten und erstellten Akten betreffend Prämienverbilligung richtet sich nach den Richtlinien und Weisungen zum AHVG.
 
@@ -896,7 +896,7 @@ beschliesst:
 
 **Bevorschussungs- und Inkassostelle, § 99 SG**
 
-<sup>1</sup> Kantonale Bevorschussungs- und Inkassostelle namens des Departementes des Innern ist das Oberamt.
+<sup>1</sup> Kantonale Bevorschussungs- und Inkassostelle namens des Departementes ist das Oberamt.
 
 ## 4. Unterstützung in Lebens- und Problemlagen
 
@@ -982,7 +982,7 @@ beschliesst:
 
 <sup>1</sup> Hinterlegungsstelle für künftig fällige Mietzinse (Art. 259 g OR) ist das Oberamt.
 
-<sup>2</sup> Das Departement des Innern
+<sup>2</sup> Das Departement
 
 - a) genehmigt die Formulare für Mietzinserhöhungen (Art. 269 d OR) und für die Kündigung des Vermieters (Art. 266 l OR) und sorgt dafür, dass in den Gemeinden Formulare in genügender Zahl zur Verfügung stehen (Art. 9 Abs 2 und Art. 19 Abs. 4 VMWG);
 - b) leitet die Aus- und Weiterbildung der Mitglieder der Schlichtungsstellen;
@@ -1074,11 +1074,11 @@ beschliesst:
 
 #### § 92
 
-**Amt für soziale Sicherheit**
+**Amt**
 
-<sup>1</sup> Das Amt für soziale Sicherheit nimmt alle Aufgaben namens des Departementes wahr, beaufsichtigt die Sozialkommission in fachlicher und finanzieller Hinsicht, nimmt die Prüfhandlungen vor und erstellt alle für den Vollzug notwendigen Merkblätter und Formulare.
+<sup>1</sup> Das Amt nimmt alle Aufgaben namens des Departementes wahr, beaufsichtigt die Sozialkommission in fachlicher und finanzieller Hinsicht, nimmt die Prüfhandlungen vor und erstellt alle für den Vollzug notwendigen Merkblätter und Formulare.
 
-<sup>2</sup> Das Amt für soziale Sicherheit reicht die Forderungen aufgrund des von der Amtschreiberei angezeigten Inventars über den Vermögensnachlass ein.
+<sup>2</sup> Das Amt reicht die Forderungen aufgrund des von der Amtschreiberei angezeigten Inventars über den Vermögensnachlass ein.
 
 #### § 93
 
@@ -1123,11 +1123,11 @@ beschliesst:
 
 **Mitteilung und Abrechnung mit den Sozialregionen**
 
-<sup>1</sup> Die Sozialregionen müssen dem Amt für soziale Sicherheit die Ausrichtung wirtschaftlicher Hilfe innert 30 Tagen seit der Beschlussfassung mitteilen. Bei verspäteter Mitteilung besteht kein Anspruch auf Kostenbeteiligung oder Vergütung der Unterstützungskosten.
+<sup>1</sup> Die Sozialregionen müssen dem Amt die Ausrichtung wirtschaftlicher Hilfe innert 30 Tagen seit der Beschlussfassung mitteilen. Bei verspäteter Mitteilung besteht kein Anspruch auf Kostenbeteiligung oder Vergütung der Unterstützungskosten.
 
-<sup>2</sup> Die Sozialregionen stellen dem Amt für soziale Sicherheit innert 30 Tagen nach Ablauf des Semesters ihre Semesterabrechnungen zu.
+<sup>2</sup> Die Sozialregionen stellen dem Amt innert 30 Tagen nach Ablauf des Semesters ihre Semesterabrechnungen zu.
 
-<sup>3</sup> Das Amt für soziale Sicherheit überprüft die Semesterabrechnungen und nimmt jährlich die Verrechnung des Lastenausgleichs vor. Die Abrechnung hat periodengerecht zu erfolgen.
+<sup>3</sup> Das Amt überprüft die Semesterabrechnungen und nimmt jährlich die Verrechnung des Lastenausgleichs vor. Die Abrechnung hat periodengerecht zu erfolgen.
 
 #### § 96
 
