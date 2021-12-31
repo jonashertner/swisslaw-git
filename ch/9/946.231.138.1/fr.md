@@ -3,18 +3,18 @@ sr: "946.231.138.1"
 title: "Ordonnance du 24 février 2010 instituant des mesures à l'encontre de la Guinée"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/117"
 language: fr
-version: 2021-09-07
+version: 2022-01-01
 adopted: 2010-02-24
 in_force: 2010-02-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20210907/fr/xml/fedlex-data-admin-ch-eli-cc-2010-117-20210907-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20210907/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-117-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Guinée
 
-du 24 février 2010 (Etat le 7 septembre 2021)
+du 24 février 2010 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -75,11 +75,12 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>2</sup> Le SEM surveille l’exécution de l’interdiction d’entrée et de transit prévue à l’art. 4.
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^5-2].
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2014 ([RO 2014 3709](https://fedlex.data.admin.ch/eli/oc/2014/644)).
+[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -101,7 +102,7 @@ Au sens de la présente ordonnance, on entend par:
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2014 ([RO 2014 3709](https://fedlex.data.admin.ch/eli/oc/2014/644)).
 
-## Section 3 Publication et entrée en vigueur****
+## Section 3 Publication et entrée en vigueur
 
 [^sec3-1]
 
@@ -129,17 +130,17 @@ L’ordonnance du 16 décembre 2009 instituant des mesures à l’encontre de la
 
 La présente ordonnance entre en vigueur le 25 février 2010.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 [^t-1]: Abrogée par le ch. II de l’O du 5 nov. 2014, avec effet au 1<sup>er</sup> déc. 2014 ([RO 2014 3709](https://fedlex.data.admin.ch/eli/oc/2014/644)).
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2 et 4)
 
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
+## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
 [^annex2-lvlu1-1]
 
 [^t-2]: Nouvelle teneur selon le ch. I 13 de l’O du 19 déc. 2012 modifiant la publication des annexes aux ordonnances relatives aux embargos ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Mise à jour par le ch. I des O du DEFR du 7 nov. 2018 ([RO 2018 3907](https://fedlex.data.admin.ch/eli/oc/2018/623)) et du 6 sept. 2021, en vigueur depuis le 7 sept. 2021 ([RO 2021 535](https://fedlex.data.admin.ch/eli/oc/2021/535)).
-[^annex2-lvlu1-1]: Non publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Thèmes &gt; Politique économique extérieure &gt; Sanctions / Embargos.
+[^annex2-lvlu1-1]: Non publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur [www.seco.admin.ch](https://www.seco.admin.ch/) &gt; Thèmes &gt; Politique économique extérieure &gt; Sanctions / Embargos.

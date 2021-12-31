@@ -3,18 +3,18 @@ sr: "946.231.138.1"
 title: Verordnung vom 24. Februar 2010 über Massnahmen gegenüber Guinea
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/117"
 language: de
-version: 2021-09-07
+version: 2022-01-01
 adopted: 2010-02-24
 in_force: 2010-02-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20210907/de/xml/fedlex-data-admin-ch-eli-cc-2010-117-20210907-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20210907/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-117-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Guinea
 
-vom 24. Februar 2010 (Stand am 7. September 2021)
+vom 24. Februar 2010 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -75,11 +75,12 @@ In dieser Verordnung bedeuten:
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 4.
 
-<sup>3</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^5-2].
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen, zum Beispiel die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3709](https://fedlex.data.admin.ch/eli/oc/2014/644)).
+[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -101,7 +102,7 @@ In dieser Verordnung bedeuten:
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3709](https://fedlex.data.admin.ch/eli/oc/2014/644)).
 
-## 3. Abschnitt: Veröffentlichung und Inkrafttreten****
+## 3. Abschnitt: Veröffentlichung und Inkrafttreten
 
 [^sec3-1]
 
@@ -129,15 +130,15 @@ Die Verordnung vom 16. Dezember 2009[^8-1] über Massnahmen gegenüber Guinea wi
 
 Diese Verordnung tritt am 25. Februar 2010 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 [^t-1]: Aufgehoben gemäss Ziff. II der V vom 5. Nov. 2014, mit Wirkung seit 1. Dez. 2014 ([AS 2014 3709](https://fedlex.data.admin.ch/eli/oc/2014/644)).
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2 und 4)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
 [^annex2-lvlu1-1]
 

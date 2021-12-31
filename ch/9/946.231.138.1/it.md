@@ -3,18 +3,18 @@ sr: "946.231.138.1"
 title: Ordinanza del 24 febbraio 2010 che istituisce provvedimenti nei confronti della Guinea
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/117"
 language: it
-version: 2021-09-07
+version: 2022-01-01
 adopted: 2010-02-24
 in_force: 2010-02-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20210907/it/xml/fedlex-data-admin-ch-eli-cc-2010-117-20210907-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20210907/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-117-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Guinea
 
-del 24 febbraio 2010 (Stato 7 settembre 2021)
+del 24 febbraio 2010 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -75,11 +75,12 @@ Nella presente ordinanza s’intende per:
 
 <sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 4.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^5-2].
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3709](https://fedlex.data.admin.ch/eli/oc/2014/644)).
+[^5-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -101,7 +102,7 @@ Nella presente ordinanza s’intende per:
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3709](https://fedlex.data.admin.ch/eli/oc/2014/644)).
 
-## Sezione 3: Pubblicazione ed entrata in vigore****
+## Sezione 3: Pubblicazione ed entrata in vigore
 
 [^sec3-1]
 
@@ -129,17 +130,17 @@ L’ordinanza del 16 dicembre 2009[^8-1] che istituisce provvedimenti nei confro
 
 La presente ordinanza entra in vigore il 25 febbraio 2010.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 [^t-1]: Abrogato dal n. II dell’O del 5 nov. 2014, con effetto dal 1° dic. 2014 ([RU 2014 3709](https://fedlex.data.admin.ch/eli/oc/2014/644)).
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2 e 4)
 
-## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di entrata e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie****
+## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di entrata e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. I 13 dell’O del 19 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Aggiornato dai n. I delle O del DEFR del 7 nov. 2018 ([RU 2018 3907](https://fedlex.data.admin.ch/eli/oc/2018/623)) e del 6 set. 2021, in vigore dal 7 set. 2021 ([RU 2021 535](https://fedlex.data.admin.ch/eli/oc/2021/535)).
+[^t-2]: Nuovo testo giusta il n. I 13 dell’O del 19 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Aggiornato dal n. I delle O del DEFR del 7 nov. 2018 ([RU 2018 3907](https://fedlex.data.admin.ch/eli/oc/2018/623)) e del 6 set. 2021, in vigore dal 7 set. 2021 ([RU 2021 535](https://fedlex.data.admin.ch/eli/oc/2021/535)).
 [^annex2-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Temi &gt; Politica economica esterna &gt; Sanzioni / Embarghi.
