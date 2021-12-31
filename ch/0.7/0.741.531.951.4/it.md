@@ -3,11 +3,11 @@ sr: "0.741.531.951.4"
 title: Accordo del 18 giugno 2015 tra la Confederazione Svizzera e il Principato del Liechtenstein relativo alla circolazione stradale (con Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/473"
 language: it
-version: 2019-10-01
+version: 2022-01-01
 adopted: 2015-06-18
 in_force: 2015-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/473/20191001/it/xml/fedlex-data-admin-ch-eli-cc-2015-473-20191001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/473/20191001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/473/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-473-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/473/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,9 @@ RU **2015** 2509
 
 Traduzione
 
-Concluso il 18 giugno 2015
+Concluso il 18 giugno 2015 Entrato in vigore mediante scambio di note il 1° agosto 2015
 
-Entrato in vigore mediante scambio di note il 1° agosto 2015
-
-(Stato 1° ottobre 2019)
+(Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero e il Governo del Principato del Liechtenstein,
 
@@ -258,11 +256,13 @@ Il rilascio delle carte per odocronografo è di competenza all’Ufficio federal
 
 **Riconoscimento delle officine, controlli di officina, rilascio di carte dell’officina**
 
-L’Amministrazione federale delle dogane è competente per:
+L’Amministrazione federale delle dogane[^22-1] è competente per:
 
 - a) il riconoscimento delle officine nell’ambito dell’installazione, del collaudo e della riparazione di odocronografi digitali e/o analogici, dispositivi di limitazione della velocità e apparecchi di rilevazione TTPCP;
 - b) i controlli di officina corrispondenti;
 - c) il rilascio di carte dell’officina.
+
+[^22-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 23
 

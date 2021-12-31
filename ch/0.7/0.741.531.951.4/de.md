@@ -3,11 +3,11 @@ sr: "0.741.531.951.4"
 title: Abkommen vom 18. Juni 2015 über den Strassenverkehr zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/473"
 language: de
-version: 2019-10-01
+version: 2022-01-01
 adopted: 2015-06-18
 in_force: 2015-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/473/20191001/de/xml/fedlex-data-admin-ch-eli-cc-2015-473-20191001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/473/20191001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/473/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-473-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/473/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 18. Juni 2015
 
 In Kraft getreten durch Notenaustausch am 1. August 2015
 
-(Stand am 1. Oktober 2019)
+(Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat und die Regierung des Fürstentums Liechtenstein,
 
@@ -258,11 +258,13 @@ Für die Ausgabe von Fahrtschreiberkarten ist das Bundesamt für Strassen zustä
 
 **Werkstattzulassung, Werkstattkontrollen, Ausgabe von Werkstattkarten**
 
-Die Eidgenössische Zollverwaltung ist zuständig für:
+Die Eidgenössische Zollverwaltung[^22-1] ist zuständig für:
 
 - a) die Zulassung von Werkstätten in den Bereichen Einbau, Prüfung und Reparatur von digitalen und/oder analogen Fahrtschreibern, Geschwindigkeitsbeschränkungseinrichtungen sowie LSVA-Erfassungsgeräten;
 - b) die entsprechenden Werkstattkontrollen;
 - c) die Ausgabe von Werkstattkarten.
+
+[^22-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 23
 
@@ -347,10 +349,10 @@ Die anwendbare schweizerische Bundesgesetzgebung zum IVZ umfasst die folgenden E
 
 [^annexu1-lvl2-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^annexu1-lvl2-2]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^annexu1-lvl2-3]: [[AS 2000 2300](https://fedlex.data.admin.ch/eli/oc/2000/364), [2002 3316](https://fedlex.data.admin.ch/eli/oc/2002/489), [2003 3375](https://fedlex.data.admin.ch/eli/oc/2003/471), [2004 5071](https://fedlex.data.admin.ch/eli/oc/2004/782), [2006 1685](https://fedlex.data.admin.ch/eli/oc/2006/264), [2007 105](https://fedlex.data.admin.ch/eli/oc/2007/25), [2010 1653](https://fedlex.data.admin.ch/eli/oc/2010/247), [2011 3903](https://fedlex.data.admin.ch/eli/oc/2011/553). [AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)Anhang 4 Ziff. I 1]
-[^annexu1-lvl2-4]: [[AS 2000 2800](https://fedlex.data.admin.ch/eli/oc/2000/474), [2002 3320](https://fedlex.data.admin.ch/eli/oc/2002/490), [2004 2871](https://fedlex.data.admin.ch/eli/oc/2004/353)[5073](https://fedlex.data.admin.ch/eli/oc/2004/783), [2007 107](https://fedlex.data.admin.ch/eli/oc/2007/26)[5043](https://fedlex.data.admin.ch/eli/oc/2007/705), [2010 1655](https://fedlex.data.admin.ch/eli/oc/2010/248). [AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)Anhang 4 Ziff. I 2]
-[^annexu1-lvl2-5]: [[AS 2003 3376](https://fedlex.data.admin.ch/eli/oc/2003/472), [2007 109](https://fedlex.data.admin.ch/eli/oc/2007/27), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff I 18, **2010** 1657. [AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)Anhang 4 Ziff. I 3]
-[^annexu1-lvl2-6]: [[AS 2006 1703](https://fedlex.data.admin.ch/eli/oc/2006/267), [2011 3911](https://fedlex.data.admin.ch/eli/oc/2011/556). [AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)Anhang 4 Ziff. I 4]
+[^annexu1-lvl2-3]: [[AS 2000 2300](https://fedlex.data.admin.ch/eli/oc/2000/364); [2002 3316](https://fedlex.data.admin.ch/eli/oc/2002/489); [2003 3375](https://fedlex.data.admin.ch/eli/oc/2003/471); [2004 5071](https://fedlex.data.admin.ch/eli/oc/2004/782); [2006 1685](https://fedlex.data.admin.ch/eli/oc/2006/264); [2007 105](https://fedlex.data.admin.ch/eli/oc/2007/25); [2010 1653](https://fedlex.data.admin.ch/eli/oc/2010/247); [2011 3903](https://fedlex.data.admin.ch/eli/oc/2011/553). [AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)Anhang 4 Ziff. I 1]
+[^annexu1-lvl2-4]: [[AS 2000 2800](https://fedlex.data.admin.ch/eli/oc/2000/474); [2002 3320](https://fedlex.data.admin.ch/eli/oc/2002/490); [2004 2871](https://fedlex.data.admin.ch/eli/oc/2004/353), [5073](https://fedlex.data.admin.ch/eli/oc/2004/783); [2007 107](https://fedlex.data.admin.ch/eli/oc/2007/26), [5043](https://fedlex.data.admin.ch/eli/oc/2007/705); [2010 1655](https://fedlex.data.admin.ch/eli/oc/2010/248). [AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)Anhang 4 Ziff. I 2]
+[^annexu1-lvl2-5]: [[AS 2003 3376](https://fedlex.data.admin.ch/eli/oc/2003/472); [2007 109](https://fedlex.data.admin.ch/eli/oc/2007/27); [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff I 18; **2010** 1657. [AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)Anhang 4 Ziff. I 3]
+[^annexu1-lvl2-6]: [[AS 2006 1703](https://fedlex.data.admin.ch/eli/oc/2006/267); [2011 3911](https://fedlex.data.admin.ch/eli/oc/2011/556). [AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)Anhang 4 Ziff. I 4]
 
 ## 3. Zuständigkeit für den digitalen Fahrtschreiber (Art. 21–23 des Abkommens)
 

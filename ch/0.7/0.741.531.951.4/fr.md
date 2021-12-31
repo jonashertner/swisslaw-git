@@ -3,11 +3,11 @@ sr: "0.741.531.951.4"
 title: Accord du 18 juin 2015 sur la circulation routière entre la Confédération suisse et la Principauté de Liechtenstein (avec Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/473"
 language: fr
-version: 2019-10-01
+version: 2022-01-01
 adopted: 2015-06-18
 in_force: 2015-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/473/20191001/fr/xml/fedlex-data-admin-ch-eli-cc-2015-473-20191001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/473/20191001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/473/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-473-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/473/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,11 +18,9 @@ RO **2015** 2509
 
 Traduction
 
-Conclu le 18 juin 2015
+Conclu le 18 juin 2015 Entré en vigueur par échange de notes le 1<sup>er</sup> août 2015
 
-Entré en vigueur par échange de notes le 1<sup>er</sup> août 2015
-
-(Etat le 1<sup>er</sup> octobre 2019)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein
 
@@ -256,11 +254,13 @@ La délivrance des cartes de tachygraphe est du ressort de l’Office fédéral 
 
 **Homologation des ateliers, contrôle des ateliers, délivrance des cartes d’atelier**
 
-L’Administration fédérale des douanes est chargée:
+L’Administration fédérale des douanes[^22-1] est chargée:
 
 - a) de l’homologation des ateliers pour le montage, le contrôle et la réparation des tachygraphes numériques et/ou analogiques, des dispositifs limiteurs de vitesse et des appareils de saisie RPLP;
 - b) des contrôles d’ateliers y relatives;
 - c) de la délivrance de cartes d’ateliers.
+
+[^22-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 23
 
@@ -345,10 +345,10 @@ La législation suisse applicable au SIAC comprend les actes et dispositions sui
 
 [^annexu1-lvl2-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^annexu1-lvl2-2]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^annexu1-lvl2-3]: [[RO 2000 2300](https://fedlex.data.admin.ch/eli/oc/2000/364), [2002 3316](https://fedlex.data.admin.ch/eli/oc/2002/489), [2003 3375](https://fedlex.data.admin.ch/eli/oc/2003/471), [2004 5071](https://fedlex.data.admin.ch/eli/oc/2004/782), [2006 1685](https://fedlex.data.admin.ch/eli/oc/2006/264), [2007 105](https://fedlex.data.admin.ch/eli/oc/2007/25), [2010 1653](https://fedlex.data.admin.ch/eli/oc/2010/247), [2011 3903](https://fedlex.data.admin.ch/eli/oc/2011/553). [RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)annexe 4 ch. I 1]. Voir actuellement l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation ([RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)).
-[^annexu1-lvl2-4]: [[RO 2000 2800](https://fedlex.data.admin.ch/eli/oc/2000/474), [2002 3320](https://fedlex.data.admin.ch/eli/oc/2002/490), [2004 2871](https://fedlex.data.admin.ch/eli/oc/2004/353)[5073](https://fedlex.data.admin.ch/eli/oc/2004/783), [2007 107](https://fedlex.data.admin.ch/eli/oc/2007/26)[5043](https://fedlex.data.admin.ch/eli/oc/2007/705), [2010 1655](https://fedlex.data.admin.ch/eli/oc/2010/248). [RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)annexe 4 ch. I 2]
-[^annexu1-lvl2-5]: [[RO 2003 3376](https://fedlex.data.admin.ch/eli/oc/2003/472), [2007 109](https://fedlex.data.admin.ch/eli/oc/2007/27), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694), [2010 1657](https://fedlex.data.admin.ch/eli/oc/2010/249). [RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)annexe 4 ch. I 3]
-[^annexu1-lvl2-6]: [[RO 2006 1703](https://fedlex.data.admin.ch/eli/oc/2006/267), [2011 3911](https://fedlex.data.admin.ch/eli/oc/2011/556). [RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)annexe 4 ch. I 4]
+[^annexu1-lvl2-3]: [[RO 2000 2300](https://fedlex.data.admin.ch/eli/oc/2000/364); [2002 3316](https://fedlex.data.admin.ch/eli/oc/2002/489); [2003 3375](https://fedlex.data.admin.ch/eli/oc/2003/471); [2004 5071](https://fedlex.data.admin.ch/eli/oc/2004/782); [2006 1685](https://fedlex.data.admin.ch/eli/oc/2006/264); [2007 105](https://fedlex.data.admin.ch/eli/oc/2007/25); [2010 1653](https://fedlex.data.admin.ch/eli/oc/2010/247); [2011 3903](https://fedlex.data.admin.ch/eli/oc/2011/553). [RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)annexe 4 ch. I 1]. Voir actuellement l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation ([RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)).
+[^annexu1-lvl2-4]: [[RO 2000 2800](https://fedlex.data.admin.ch/eli/oc/2000/474); [2002 3320](https://fedlex.data.admin.ch/eli/oc/2002/490); [2004 2871](https://fedlex.data.admin.ch/eli/oc/2004/353), [5073](https://fedlex.data.admin.ch/eli/oc/2004/783); [2007 107](https://fedlex.data.admin.ch/eli/oc/2007/26), [5043](https://fedlex.data.admin.ch/eli/oc/2007/705); [2010 1655](https://fedlex.data.admin.ch/eli/oc/2010/248). [RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)annexe 4 ch. I 2]
+[^annexu1-lvl2-5]: [[RO 2003 3376](https://fedlex.data.admin.ch/eli/oc/2003/472); [2007 109](https://fedlex.data.admin.ch/eli/oc/2007/27); [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694); [2010 1657](https://fedlex.data.admin.ch/eli/oc/2010/249). [RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)annexe 4 ch. I 3]
+[^annexu1-lvl2-6]: [[RO 2006 1703](https://fedlex.data.admin.ch/eli/oc/2006/267); [2011 3911](https://fedlex.data.admin.ch/eli/oc/2011/556). [RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)annexe 4 ch. I 4]
 
 ## 3. Compétence pour le tachygraphe numérique (art. 21 à 23 de l’Accord)
 
