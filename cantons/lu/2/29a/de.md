@@ -4,20 +4,22 @@ number: 29a
 title: Geoinformationsverordnung
 short: GIV
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-09
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-11-16
 adopted: 2004-02-13
 in_force: 2004-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/29a"
-pdf: "https://srl.lu.ch/api/de/versions/3684/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3838/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geoinformationsverordnung
 
-vom 13.02.2004 (Stand 01.01.2021)
+(GIV)
+
+vom 13.02.2004 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -73,7 +75,8 @@ beschliesst:
 - d. koordiniert, begleitet und realisiert kantonale GIS-Projekte und stellt die Fachkompetenz in den Belangen der Geoinformation sicher,
 - e. kann mit den Daten des kantonalen GIS ein Datenlogistiksystem betreiben oder sich an einem solchen System beteiligen,
 - f. stellt Geoapplikationen zur effizienten Nutzung von raumbezogenen Daten zur Verfügung,
-- g. pflegt Kontakte zu Dritten, namentlich zu Bund, Kantonen, Gemeinden und Herstellerfirmen von Software.
+- g. pflegt Kontakte zu Dritten, namentlich zu Bund, Kantonen, Gemeinden und Herstellerfirmen von Software,
+- h. ist verantwortlich für den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster).
 
 #### § 5
 
@@ -137,6 +140,8 @@ beschliesst:
 
 <sup>3</sup> Die Nutzungsberechtigung für privatrechtliche Leistungen ist vertraglich zu regeln.
 
+<sup>4</sup> Für Datensätze ausserhalb der amtlichen Vermessung, für die gemäss dem kantonalen Geobasisdatenkatalog die Zugangsberechtigung auf A (öffentlich) lautet, gilt die Bewilligung zur gewerblichen Nutzung als erteilt («OpenBy-Daten»). Handelt es sich dabei um Datensätze aus dem ÖREB-Kataster, kann die Dienststelle Raum und Wirtschaft für die gewerbliche Nutzung eine Bewilligungspflicht vorsehen («OpenByAsk-Daten»).
+
 #### § 11
 
 **Haftung**
@@ -176,11 +181,13 @@ beschliesst:
 
 #### § 14
 
-**Kantonaler Datensatz für raumbezogene Daten**
+**Kantonaler Geobasisdatenkatalog**
 
-<sup>1</sup> Der kantonale Datensatz umfasst die für die kantonale Verwaltungstätigkeit bedeutsamen Daten, insbesondere in den Bereichen amtliche Vermessung, Raumordnung, Natur, Umwelt und Verkehr.
+<sup>1</sup> Der kantonale Geobasisdatenkatalog umfasst die auf Bundes- oder Kantonsrecht basierenden raumbezogenen Daten, die in der Zuständigkeit des Kantons oder der Gemeinden liegen.
 
-<sup>2</sup> Der Regierungsrat bestimmt die Bestandteile des kantonalen Datensatzes, die aufgrund übergeordneter Interessen der Nachführung unterliegen.
+<sup>2</sup> Der kantonale Geobasisdatenkatalog gemäss Anhang 2 enthält die Bezeichnungen der Geobasisdatensätze sowie für jeden Datensatz die zuständige Fachstelle für dessen Erhebung, die Zugangsberechtigung, die Zugehörigkeit zum ÖREB-Kataster und die Rechtsgrundlage.
+
+<sup>3</sup> Geobasisdaten dürfen nur mit der Angabe der Quelle wiedergegeben werden.
 
 #### § 15
 
@@ -238,7 +245,7 @@ beschliesst:
 
 **Organisation der Nachführung**
 
-<sup>1</sup> Der Kanton ist in die im Anhang angeführten Nachführungskreise eingeteilt.
+<sup>1</sup> Der Kanton ist in die im Anhang 1 angeführten Nachführungskreise eingeteilt.
 
 <sup>2</sup> Der Regierungsrat überprüft regelmässig die Zweckmässigkeit und die Wirtschaftlichkeit der Nachführungskreise und ändert sie bei Bedarf. Er berücksichtigt dabei die begründeten Anliegen der Gemeinden.
 
@@ -409,7 +416,7 @@ beschliesst:
 
 **Gebührenpflicht**
 
-<sup>1</sup> Wer Auszüge und Auswertungen bezieht, sei es in gedruckter oder digitaler Form, hat Daten- und Bearbeitungsgebühren zu entrichten.
+<sup>1</sup> Wer Auszüge und Auswertungen von Daten der amtlichen Vermessung bezieht, sei es in gedruckter oder digitaler Form, hat Daten- und Bearbeitungsgebühren zu entrichten. Für Daten ausserhalb der amtlichen Vermessung werden keine Datengebühren erhoben.
 
 <sup>2</sup> Lediglich der Bearbeitungsgebühr unterliegen
 
@@ -451,49 +458,28 @@ beschliesst:
 
 #### § 40
 
-**Datengebühren ausserhalb der amtlichen Vermessung**
-
-<sup>1</sup> Die Ansätze für Datengebühren ausserhalb der amtlichen Vermessung richten sich nach der Anzahl der Informationseinheiten. Diese ergibt sich aus der Anzahl Objekte multipliziert mit der Anzahl Attribute im Datensatz.
-
-<sup>2</sup> Die Gebühren für einen Datensatz werden nach der Formel Anzahl Informationseinheiten multipliziert mit dem Grundpreis berechnet.
-
-<sup>3</sup> Der Grundpreis pro Informationseinheit beträgt 5 Rappen.
-
-<sup>4</sup> Bei Rasterdaten (Orthofotos usw.) entspricht eine Hektare 10 Informationseinheiten.
-
-<sup>5</sup> Beim Bezug eines Datensatzes über den ganzen Kanton wird ein Rabatt von 35 Prozent, beim Bezug eines Datensatzes über 84 000 Hektaren ein Rabatt von 20 Prozent und beim Bezug eines Datensatzes über 21 000 Hektaren ein Rabatt von 10 Prozent gewährt.
-
-<sup>6</sup> Die Datengebühren für Auszüge mit den vollständigen oder reduzierten Datensätzen in gedruckter Form betragen 30 Prozent der Gebühren nach den Absätzen 2–5. Bei gleichzeitigem Bezug von Auszügen in digitaler und gedruckter Form werden lediglich die Gebühren für den digitalen Datensatz erhoben.
-
-<sup>7</sup> Bei einer Veröffentlichung der Daten in elektronischer Form erhöhen sich die genannten Gebühren um einen Zuschlag von 10 Prozent.
-
-<sup>8</sup> Der Mindestbetrag pro Datenbezug beträgt 50 Franken.
-
-<sup>9</sup> Für Mitglieder des Vereins Raumdatenpool Kanton Luzern, die sich gemäss den Statuten gegenseitig raumbezogene Daten zur Verfügung zu stellen haben (Mitgliedergruppen A und B), entfällt die Datengebühr für den Bezug dieser Daten.
+**…**
 
 #### § 41
 
 **Datengebühren der amtlichen Vermessung**
 
-<sup>1</sup> Die Ansätze für Datengebühren der amtlichen Vermessung richten sich nach Fläche, Zone und Informationsebene.
+<sup>1</sup> Die Ansätze für Datengebühren der amtlichen Vermessung richten sich nach Fläche und Zone.
 
 <sup>2</sup> Die Datengebühren für Auszüge mit den vollständigen Datensätzen in digitaler Form betragen pro Hektare:
 
 - a. für den erstmaligen Bezug 100 Franken innerhalb und 4 Franken ausserhalb der Bauzonen,
 - b. für weitere Bezüge derselben Daten (Abonnement) jährlich 10 Franken innerhalb und 40 Rappen ausserhalb der Bauzonen, für Mitglieder der Mitgliedergruppen A und B des Vereins Raumdatenpool Kanton Luzern jährlich 5 Franken innerhalb und 20 Rappen ausserhalb der Bauzonen.
 
-<sup>3</sup> Die Datengebühren für reduzierte Datensätze in digitaler Form betragen in Prozenten der Gebühr nach Absatz 2:
+<sup>2<sup>bis</sup></sup> Beim Bezug eines vollständigen Datensatzes über den ganzen Kanton wird ein Rabatt von 35 Prozent, beim Bezug eines Datensatzes von über 84 000 Hektaren ein Rabatt von 20 Prozent und beim Bezug eines Datensatzes von über 21 000 Hektaren ein Rabatt von 10 Prozent gewährt.
 
-- a. 25 Prozent als Mindestgebühr, eingeschlossen der Bezug der Daten der Informationsebenen Fixpunkte, Nomenklatur sowie administrative und technische Einteilungen, und zusätzlich
-- b. 25 Prozent für Daten der Informationsebene Liegenschaften,
-- c. 25 Prozent für Gebäude-Daten (einschliesslich Adressen) der Informationsebene Bodenbedeckung,
-- d. 25 Prozent für die übrigen Daten der Informationsebene Bodenbedeckung sowie die Daten der Informationsebenen Einzelobjekte/Linienelemente und Rohrleitungen.
+<sup>3</sup> …
 
-<sup>4</sup> Die Datengebühren für Auszüge mit Daten aus dem Übersichtsplan betragen im Rasterformat 10 Rappen, im Vektorformat 50 Rappen pro Hektare.
+<sup>4</sup> …
 
-<sup>5</sup> Die Datengebühren für das Geländemodell der amtlichen Vermessung (DTM-AV) in digitaler Form betragen Fr. 1.50 pro Hektare.
+<sup>5</sup> …
 
-<sup>6</sup> Die Datengebühren für Auszüge mit den vollständigen oder reduzierten Datensätzen in gedruckter Form betragen 30 Prozent der Gebühren nach den Absätzen 2–5. Bei gleichzeitigem Bezug von Auszügen in digitaler und gedruckter Form werden lediglich die Gebühren für den digitalen Datensatz erhoben.
+<sup>6</sup> …
 
 <sup>7</sup> Bei einer Veröffentlichung der Daten in elektronischer Form erhöhen sich die genannten Gebühren, ausgenommen jene gemäss Absatz 2a, um einen Zuschlag von 10 Prozent.
 
@@ -520,9 +506,13 @@ beschliesst:
 
 **Bearbeitungsgebühren**
 
-<sup>1</sup> Für die Bearbeitungsgebühren gilt der Tarif im Anhang.
+<sup>1</sup> Die Bearbeitungsgebühren für Auszüge und Auswertungen der amtlichen Vermessung betragen:
 
-<sup>2</sup> Soweit im Anhang keine besonderen Tarife vorgesehen sind, betragen die Gebühren pro Stunde 50 bis 200 Franken.
+- a. pro Bestellung im Online-Verfahren 100 Franken,
+- b. pro Bestellung bei der Abgabestelle 150 Franken,
+- c. für die Bescheinigung der Richtigkeit der Pläne der amtlichen Vermessung 50 Franken.
+
+<sup>2</sup> Soweit keine besonderen Tarife vorgesehen sind, betragen die Gebühren pro Stunde 50 bis 200 Franken.
 
 ### 4.3 Entschädigung der Nachführungsgeometerinnen und -geometer
 
@@ -540,7 +530,7 @@ beschliesst:
 
 **Entschädigung für die Nachführung**
 
-<sup>1</sup> Die Entschädigung für die laufende Nachführung der Bestandteile der amtlichen Vermessung mit Ausnahme der Lagefixpunkte LFP2, der Höhenfixpunkte HFP2, der Übersichtspläne und der Informationsebene Höhe erfolgt nach der Vereinbarung zwischen der Konferenz der kantonalen Vermessungsämter und der Vereinigung Ingenieur-Geometer Schweiz vom 1. Januar 1995 über die Honorarordnung 33 (HO33).
+<sup>1</sup> Die Entschädigung für die laufende Nachführung der Bestandteile der amtlichen Vermessung erfolgt nach der Vereinbarung zwischen der Konferenz der kantonalen Vermessungsämter und der Vereinigung Ingenieur-Geometer Schweiz über die Honorarordnung 33 (HO33) in der jeweils gültigen Fassung.
 
 <sup>2</sup> Die HO33 ist auf alle Arten der Vermessung (halbgrafisch, teilnumerisch, vollnumerisch, neue Ordnung) anwendbar. Bei Vermessungen neuer Ordnung werden die Einheitspreise gemäss der HO33 für vollnumerische Vermessungswerke angewendet.
 
@@ -562,7 +552,7 @@ beschliesst:
 
 **Rabatte**
 
-<sup>1</sup> Auf den Einheitspreisen nach der HO33 ist ein Rabatt von mindestens 5 Prozent zu gewähren.
+<sup>1</sup> …
 
 #### § 49
 
@@ -574,7 +564,7 @@ beschliesst:
 
 **Reiseentschädigung**
 
-<sup>1</sup> Die Reiseentschädigung wird als Tagespauschale ausgerichtet und beträgt im Nachführungskreis Mitte 75 Franken, in den anderen Nachführungskreisen 150 Franken.
+<sup>1</sup> Die Reiseentschädigung wird als Tagespauschale ausgerichtet und beträgt in allen Nachführungskreisen 150 Franken.
 
 #### § 51
 
@@ -586,13 +576,13 @@ beschliesst:
 
 **Datentransfer**
 
-<sup>1</sup> Die Entschädigung für den Transfer der nachgeführten Daten der amtlichen Vermessung in das kantonale GIS betragen für jede erfolgte Grenzmutation zwei Promille der Datengebühren. Dabei beträgt die Mindestentschädigung 40 Franken, die Höchstentschädigung 60 Franken. Zusätzlich wird eine Jahrespauschale von 600 Franken an die Kosten der elektronischen Verbindung ausgerichtet.
+<sup>1</sup> Der Aufwand für den Transfer der nachgeführten Daten der amtlichen Vermessung in das kantonale GIS wird pauschal entschädigt.
 
 #### § 53
 
 **Auskünfte**
 
-<sup>1</sup> Für das Erteilen von Auskünften kann nach dem tatsächlichen Aufwand Rechnung gestellt werden.
+<sup>1</sup> Das Erteilen von Auskünften wird von der Dienststelle Raum und Wirtschaft mit einer pauschalen Abgeltung für die allgemeine Auskunftserteilung geregelt. Ausserordentliche Aufwendungen können nach dem tatsächlichen Aufwand in Rechnung gestellt werden.
 
 #### § 54
 
@@ -677,7 +667,7 @@ beschliesst:
 
 <sup>1</sup> ...
 
-<sup>2</sup> Solange keine Online-Verbindungen zwischen den Grundbuchämtern, den Gemeinden und den Nachführungsgeometerinnen und -geometern bestehen, führen diese die Handänderungen nach und stellen dem Kanton dafür Rechnung nach den Ansätzen der HO33.
+<sup>2</sup> …
 
 <sup>3</sup> ...
 
