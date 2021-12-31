@@ -4,11 +4,11 @@ title: "Ordonnance du 27 octobre 1999 sur les émoluments en matière d'état ci
 short: OEEC
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/490"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1999-10-27
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-490-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-490-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20200101/fr"
 
 (OEEC)
 
-du 27 octobre 1999 (Etat le 1<sup>er</sup> janvier 2020)
+du 27 octobre 1999 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -110,7 +110,7 @@ Les émoluments sont fixés:
 
 L’émolument est majoré:
 
-- a. de 50 % lorsque la demande doit être traitée d’urgence; ou
+- a. de 50 % lorsque la demande doit être traitée d’urgence, ou
 - b.
 
   de 100 %:
@@ -150,7 +150,7 @@ Sont réputés débours les frais supplémentaires qui résultent d’une presta
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)).
 [^7-4]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362)
 [^7-5]: Introduite par le ch. I de l’O du 28 avr. 2004 ([RO 2004 2903](https://fedlex.data.admin.ch/eli/oc/2004/360)). Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)).
-[^7-6]: Introduite par le ch. II 1 de l’annexe à l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^7-6]: Introduite par l’annexe ch. II 1 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^7-7]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 [^7-8]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^7-9]: Introduit par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)).
@@ -194,7 +194,7 @@ Pour payer l’émolument, l’assujetti dispose d’un délai de 30 jours à co
 
 <sup>1</sup> Les émoluments peuvent être perçus contre remboursement lorsque l’assujetti y consent ou que les circonstances le justifient.
 
-<sup>2</sup> A l’étranger, les émoluments sont payables dans la monnaie locale. Le cours de change est fixé par les représentations selon les instructions du Département fédéral des affaires étrangères.
+<sup>2</sup> À l’étranger, les émoluments sont payables dans la monnaie locale. Le cours de change est fixé par les représentations selon les instructions du Département fédéral des affaires étrangères.
 
 <sup>3</sup> Les émoluments perçus pour les rappels sont régis par le droit cantonal, sauf s’ils relèvent d’une autorité fédérale.[^12-1]
 
@@ -265,7 +265,7 @@ Annexe 1*[^t-1]*
 
 ## Prestations des offices de l’état civil
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour selon le ch. II de l’O du 7 nov. 2012 ([RO 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), le ch. I de l’O du 14 mai 2014 ([RO 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), le ch. II de l’O du 26 oct. 2016 ([RO 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), l’annexe ch. II 1 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)) et le ch. I des O du 31 oct. 2018 ([RO 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)) et du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3801](https://fedlex.data.admin.ch/eli/oc/2019/692)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour par le ch. II de l’O du 7 nov. 2012 ([RO 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), le ch. I de l’O du 14 mai 2014 ([RO 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), le ch. II de l’O du 26 oct. 2016 ([RO 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), l’annexe ch. II 1 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), le ch. I des O du 31 oct. 2018 ([RO 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)), du 20 nov. 2019 ([RO 2019 3801](https://fedlex.data.admin.ch/eli/oc/2019/692)) et du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)).
 
 Aucun émolument n’est perçu pour le transfert des données du registre des familles au registre de l’état civil (art. 93 OEC*[^annex1-lvlu1-1]*) et pour la saisie obligatoire de données (art. 7 et 8 OEC) et de personnes (art. 15a, al. 1 et 2, OEC) dans le registre de l’état civil.
 
@@ -292,12 +292,12 @@ Aucun émolument n’est perçu pour le transfert des données du registre des f
 <tr><td>3. Autres prestations résultant de la divulgation de données d’état civil</td><td></td></tr>
 <tr><td>3.1 Recherches dans les registres de l’état civil et dans les pièces justificatives, sur la base d’un mandat de vérification d’un fait, par demi-heure</td><td>75</td></tr>
 <tr><td>3.2 Collaboration à la consultation par des personnes intéressées des registres tenus sur papier (art. 92*b*, al. 4, OEC), par demi-heure</td><td>75</td></tr>
-<tr><td>3.3 Établissement d’une copie ou d’une photocopie d’une pièce justificative archivée</td><td></td></tr>
+<tr><td>3.3 Établissement d’une copie ou d’une photocopie d’une pièce justificative archivée (art. 47, al. 2, let. c et f, OEC):</td><td></td></tr>
+<tr><td>– émolument de base (y c. éventuelle légalisation selon l’art. 18*a*, al. 2, en relation avec l’art. 47, al. 2, let. c, OEC)</td><td>30</td></tr>
 <tr><td>– par page</td><td>2</td></tr>
-<tr><td>– légalisation (art. 18*a*, al. 2, en relation avec l’art. 47, al. 2, let. c, OEC)</td><td>30</td></tr>
 <tr><td>II. Réception de déclarations d’état civil</td><td></td></tr>
 <tr><td>Les conseils et les informations sur les conditions et les conséquences légales des déclarations et la demande d’autorisation de réception de la déclaration adressée par l’office de l’état civil à l’autorité de surveillance compétente sont compris dans l’émolument.</td><td></td></tr>
-<tr><td>4. Nom</td><td></td></tr>
+<tr><td>4. Nom et sexe</td><td></td></tr>
 <tr><td>4.1 Déclaration concernant le nom avant le mariage (art. 12 OEC), faite indépendamment de la procédure préparatoire du mariage:</td><td></td></tr>
 <tr><td>– si la déclaration est faite conjointement</td><td>75</td></tr>
 <tr><td>– si la déclaration est faite individuellement, par personne</td><td>60</td></tr>
@@ -310,6 +310,8 @@ Aucun émolument n’est perçu pour le transfert des données du registre des f
 <tr><td>4.6 Déclaration concernant le nom de l’enfant faite indépendamment de l’annonce de la naissance (art. 37, 37*a* OEC)</td><td>75</td></tr>
 <tr><td>4.7 Déclaration concernant le nom au sens de l’art. 14*a* OEC</td><td>75</td></tr>
 <tr><td>4.8 Annonce de la venue au monde d’un enfant né sans vie et délivrance d’une confirmation par l’office de l’état civil</td><td>30</td></tr>
+<tr><td>4.9 Déclaration concernant le changement de sexe et, le cas échéant, de prénoms inscrits dans le registre de l’état civil (art. 14*b*, al. 1, OEC)</td><td>75</td></tr>
+<tr><td>4.10 Consentement du représentant légal (art. 14*b*, al. 2, OEC)</td><td>30</td></tr>
 <tr><td>5. Reconnaissance d’un enfant</td><td></td></tr>
 <tr><td>5.1 Déclaration de reconnaissance d’un enfant (art. 11, al. 5, OEC)</td><td>75</td></tr>
 <tr><td>5. 2 Consentement du représentant légal (art. 11, al. 4, OEC)</td><td>30</td></tr>
@@ -319,7 +321,7 @@ Aucun émolument n’est perçu pour le transfert des données du registre des f
 <tr><td>7. Déclaration relative aux conditions de conclusion du partenariat enregistré (art. 5, al. 3, LPart) effectuée auprès d’un office de l’état civil coopérant (art. 75*h*, al. 1, OEC)</td><td>75</td></tr>
 <tr><td>8. Déclaration des données d’état civil non litigieuses (art. 41 CC et 17, al. 1, OEC), par demi-heure</td><td>75</td></tr>
 <tr><td>III. Mariage et partenariat enregistré</td><td></td></tr>
-<tr><td>*Les conseils et les inf**ormations sur les conditions et les cons**é**quences* *légales* *du mariage ou du partenariat enregistré sont co**m**pris dans l’émolument.*</td><td></td></tr>
+<tr><td>*Les conseils et les informations sur les conditions et les cons**é**quences* *légales* *du mariage ou du partenariat enregistré sont co**m**pris dans l’émolument.*</td><td></td></tr>
 <tr><td>9. Procédure préparatoire du mariage et procédure préliminaire de la conclusion du partenariat enregistré</td><td></td></tr>
 <tr><td>9.1 Examen de la demande d’exécution de la procédure préparatoire du mariage (art. 63, al. 1, OEC), réception des déclarations relatives aux conditions (art. 98, al. 3, CC et art. 65, al. 1, OEC) et de la déclaration concernant le nom (art. 12, ou 14, al. 1, OEC) et communication de la clôture de la procédure (art. 67, al. 2, OEC)</td><td></td></tr>
 <tr><td>– si les deux déclarations relatives aux conditions sont reçues par l’office de l’état civil auprès duquel la demande a été déposée</td><td>150</td></tr>
@@ -352,8 +354,8 @@ Aucun émolument n’est perçu pour le transfert des données du registre des f
 <tr><td>19. Audition d’une personne ou d’un couple pour clarifier les faits indiquant que la personne concernée ne veut manifestement pas fonder une communauté conjugale ou mener une vie commune mais éluder les dispositions sur l’admission et le séjour des étrangers (art. 97*a* CC et 6, al. 2, LPart), si la demande du couple est rejetée en raison de l’abus de droit constaté, par demi-heure</td><td>75</td></tr>
 <tr><td>20. Transmission d’une copie par télécopie ou par courrier électronique, en plus de l’émolument et des débours pour l’établissement et la remise du document</td><td>20</td></tr>
 <tr><td>21. Établissement d’une copie ou d’une photocopie d’un document sur demande:</td><td></td></tr>
+<tr><td>– émolument de base (y c. éventuelle légalisation selon l’art. 18*a*, al. 2 OEC)</td><td>30</td></tr>
 <tr><td>– par page</td><td>2</td></tr>
-<tr><td>– légalisation (art. 18*a*, al. 2, en relation avec l’art. 47, al. 2, let. c, OEC)</td><td>30</td></tr>
 <tr><td>22. Établissement d’une copie d’une pièce d’identité à des fins administratives (par ex. passeport, carte d’identité ou permis pour étrangers)</td><td>gratuit</td></tr>
 <tr><td>23. Mandat pour cause d’inaptitude (art. 23*a* OEC):</td><td>75</td></tr>
 <tr><td>– Inscription de la constitution d’un mandat pour cause d’inaptitude et inscription du lieu de dépôt</td><td>75</td></tr>
@@ -371,7 +373,7 @@ Annexe 2*[^t-2]*
 
 ## Prestations des autorités cantonales de surveillance de l’état civil
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour selon le ch. II de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour par le ch. II de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)).
 
 Aucun émolument n’est perçu pour la reconnaissance d’une décision ou d’un acte étranger concernant l’état civil selon l’art. 32, al. 1, de la loi fédérale du 18 décembre 1987 sur le droit international privé (LDIP)*[^annex2-lvlu1-1]* (art. 45, al. 2, ch. 4, CC et 23, al. 1 et 2, OEC*[^annex2-lvlu1-2]*) et l’admission du recours contre une décision d’un officier de l’état civil (art. 90, al. 1, OEC).
 
@@ -396,11 +398,11 @@ Aucun émolument n’est perçu pour la reconnaissance d’une décision ou d’
 
 Annexe 3*[^t-3]*
 
-(art. 4, let. c)
+(art. 4, al. 1, let. c)
 
 ## Prestations des représentations de la Suisse à l’étranger
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour selon le ch. II de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour par le ch. II de l’O du 7 nov. 2012 ([RO 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)) et le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -414,7 +416,7 @@ Annexe 3*[^t-3]*
 <tr><td>Aucun émolument n’est perçu pour la commande</td><td></td></tr>
 <tr><td>II. Réception de déclarations</td><td></td></tr>
 <tr><td>*Les conseils et les informations sur les conditions et conséque**n**ces légales des déclarations sont compris dans l’émolument (art. 5, al. 1, let. a, OEC*[^annex3-lvlu1-1]*)*</td><td></td></tr>
-<tr><td>3. Déclarations concernant le nom</td><td></td></tr>
+<tr><td>3. Déclarations concernant le nom et le sexe</td><td></td></tr>
 <tr><td>3.1 Déclaration concernant le nom porté avant le mariage faite indépendamment de la demande de préparation du mariage (art. 63, al. 2, OEC) ou de la déclaration relative aux conditions du mariage (art. 98, al. 3, CC et art. 69, al. 2, OEC):</td><td></td></tr>
 <tr><td>– si la déclaration est faite conjointement</td><td>75</td></tr>
 <tr><td>– si la déclaration est faite individuellement, par personne</td><td>60</td></tr>
@@ -426,7 +428,11 @@ Annexe 3*[^t-3]*
 <tr><td>3.5 Déclaration concernant le nom après la dissolution du partenariat enregistré (art. 13*a* OEC)</td><td>75</td></tr>
 <tr><td>3.6 Déclaration concernant le nom de l’enfant si elle n’est pas faite avec l’annonce de la naissance (art. 37, 37*a* OEC)</td><td>75</td></tr>
 <tr><td>3.7 Déclaration concernant le nom au sens de l’art. 14*a* OEC</td><td>75</td></tr>
-<tr><td>4. Déclaration de reconnaissance d’un enfant (art. 11, al. 6, OEC)</td><td>75</td></tr>
+<tr><td>3.8 Déclaration concernant le changement de sexe et, le cas échéant, de prénoms inscrits dans le registre de l’état civil (art. 14*b*, al. 1, OEC)</td><td>75</td></tr>
+<tr><td>3.9 Consentement du représentant légal (art. 14*b*, al. 2, OEC)</td><td>30</td></tr>
+<tr><td>4. Autres déclarations</td><td></td></tr>
+<tr><td>4.1 Déclaration de reconnaissance d’un enfant (art. 11, al. 6, OEC)</td><td>75</td></tr>
+<tr><td>4.2 Consentement du représentant légal (art. 11, al. 4, OEC)</td><td>30</td></tr>
 <tr><td>III. Préparation du mariage et du partenariat enregistré</td><td></td></tr>
 <tr><td>5. Célébration du mariage ou conclusion du partenariat prévue en Suisse</td><td></td></tr>
 <tr><td>5.1 Réception de la demande d’exécution de la procédure préparatoire du mariage (art. 63, al. 2, OEC), remise individuellement ou conjointement par les fiancés, des déclarations relatives aux conditions du mariage (art. 98, al. 3, CC et art. 69, al. 2, OEC) et de la déclaration concernant le nom avant le mariage (art. 12 OEC) ou de soumission du nom au droit national (art. 14, al. 2, OEC)</td><td>150</td></tr>
@@ -445,11 +451,11 @@ Annexe 3*[^t-3]*
 
 Annexe 4*[^t-4]*
 
-(art. 4, let. d)
+(art. 4, al. 1, let. d)
 
 ## Prestations de l’Office fédéral de l’état civil
 
-[^t-4]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour selon l’annexe ch. II 1 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour par l’annexe ch. II 1 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)) et le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -466,8 +472,8 @@ Annexe 4*[^t-4]*
 <tr><td>4.1 Renseignements sur l’identité du donneur de sperme selon l’art. 27 de la loi fédérale du 18 décembre 1998 sur la procréation médicalement assistée[^annex4-lvlu1-1], par demi-heure</td><td>75</td></tr>
 <tr><td>4.2 Renseignements sur l’identité des parents biologiques selon l’art. 268*c* CC, par demi-heure</td><td>75</td></tr>
 <tr><td>5. Établissement d’une copie ou d’une photocopie d’un document sur demande:</td><td></td></tr>
+<tr><td>– émolument de base (y c. éventuelle légalisation selon l’art. 18*a*, al. 2 OEC)</td><td>30</td></tr>
 <tr><td>– par page</td><td>2</td></tr>
-<tr><td>– légalisation (art. 18*a*, al. 2, en relation avec l’art. 47, al. 2, let. c, OEC)</td><td>30</td></tr>
 <tr><td>6. Recouvrement d’émoluments impayés Mise en demeure écrite de l’assujetti au terme du délai de paiement (au plus tard après trois rappels)</td><td>20</td></tr>
 </table>
 

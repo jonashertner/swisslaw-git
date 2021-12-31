@@ -4,11 +4,11 @@ title: Verordnung vom 27. Oktober 1999 über die Gebühren im Zivilstandswesen (
 short: ZStGV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/490"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1999-10-27
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1999-490-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1999-490-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20200101/de"
 
 (ZStGV)
 
-vom 27. Oktober 1999 (Stand am 1. Januar 2020)
+vom 27. Oktober 1999 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -250,7 +250,7 @@ Gebührenverfügungen sind in der ganzen Schweiz den Gerichtsurteilen im Sinne v
 
 **Änderung bisherigen Rechts**
 
-…[^17-1]
+...[^17-1]
 
 [^17-1]: Die Änderungen können unter [AS 1999 3480](https://fedlex.data.admin.ch/eli/oc/1999/490)konsultiert werden.
 
@@ -266,7 +266,7 @@ Anhang 1*[^t-1]*
 
 ## Dienstleistungen der Zivilstandsämter
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Ziff. II der V vom 7. Nov. 2012 ([AS 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), Ziff. I der V vom 14. Mai 2014 ([AS 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), Anhang Ziff. II 1 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), Ziff. I der V vom 31. Okt. 2018 ([AS 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)) und vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3801](https://fedlex.data.admin.ch/eli/oc/2019/692)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Ziff. II der V vom 7. Nov. 2012 ([AS 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), Ziff. I der V vom 14. Mai 2014 ([AS 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662), [5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), Anhang Ziff. II 1 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), Ziff. I der V vom 31. Okt. 2018 ([AS 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)), vom 20. Nov. 2019 ([AS 2019 3801](https://fedlex.data.admin.ch/eli/oc/2019/692)) und vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)).
 
 Die Übertragung der Personenstandsdaten aus dem Familienregister in das Personenstandsregister (Art. 93 ZStV*[^annex1-lvlu1-1]*) und die obligatorische Aufnahme von Daten (Art. 7, 8 ZStV) und Personen (Art. 15a Abs. 1 und 2 ZStV) in das Personenstandsregister sind gebührenfrei.
 
@@ -283,7 +283,6 @@ Die Übertragung der Personenstandsdaten aus dem Familienregister in das Persone
 <tr><td>2. Ausfertigung von Dokumenten gestützt auf die in Papierform geführten Zivilstandsregister nach Artikel 47–47*b* ZStV</td><td></td></tr>
 <tr><td>2.1 Urkunde, Bestätigung, Bescheinigung oder schriftliche Auskunft betreffend ein Zivilstandsereignis, einen Sachverhalt, den Personenstand oder das Bürgerrecht einer Person, ausgenommen Dokumente nach den Ziffern 2.2 und 2.3</td><td>30</td></tr>
 <tr><td>[tab]</td><td></td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>2.2 Familienschein:</td><td></td></tr>
 <tr><td>– Grundgebühr, die ebenfalls die Erfassung der Angaben der Bezugsperson und deren Eltern im Personenstandsregister umfasst</td><td>40</td></tr>
 <tr><td>– Zuschlag für jede weitere im Dokument aufgeführte Person</td><td>10</td></tr>
@@ -294,12 +293,12 @@ Die Übertragung der Personenstandsdaten aus dem Familienregister in das Persone
 <tr><td>3. Andere Dienstleistungen im Zusammenhang mit der Bekanntgabe von Personenstandsdaten</td><td></td></tr>
 <tr><td>3.1 Nachforschungen in Zivilstandsregistern und Belegen gestützt auf einen Suchauftrag zur Abklärung eines Sachverhaltes, pro halbe Stunde</td><td>75</td></tr>
 <tr><td>3.2 Mitwirkung bei der Einsichtnahme Interessierter in die in Papierform geführten Zivilstandsregister (Art. 92*b* Abs. 4 ZStV), pro halbe Stunde</td><td>75</td></tr>
-<tr><td>3.3 Erstellung einer Kopie oder einer Abschrift eines archivierten Registerbeleges:</td><td></td></tr>
+<tr><td>3.3 Erstellung einer Kopie oder einer Abschrift eines archivierten Registerbeleges (Art. 47 Abs. 2 Bst. c und f ZStV):</td><td></td></tr>
+<tr><td>– Grundgebühr (inkl. allfälliger Beglaubigung nach Art. 18*a* Abs. 2 i.V.m. Art. 47 Abs. 2 Bst. c ZStV)</td><td>30</td></tr>
 <tr><td>– pro Seite</td><td>2</td></tr>
-<tr><td>– Beglaubigung (Art. 18*a* Abs. 2 i. V. m. Art. 47 Abs. 2 Bst. c ZStV)</td><td>30</td></tr>
 <tr><td>II. Entgegennahme von Erklärungen</td><td></td></tr>
 <tr><td>*In der Gebühr inbegriffen ist die Beratung und Information bezüglich Voraussetzungen und Rechtswirkungen sowie das allfällige Gesuch des Zivilstandsamtes an die zuständige Au**f**sichtsb**e**hörde um Bewilligung der Entgegennahme*</td><td></td></tr>
-<tr><td>4. Namensführung</td><td></td></tr>
+<tr><td>4. Namensführung und Geschlecht</td><td></td></tr>
 <tr><td>4.1 Namenserklärung vor der Trauung (Art. 12 ZStV), wenn sie unabhängig vom Ehevorbereitungsverfahren abgegeben wird:</td><td></td></tr>
 <tr><td>– wenn die Erklärung gemeinsam abgegeben wird</td><td>75</td></tr>
 <tr><td>– wenn die Erklärung einzeln abgegeben wird, pro erklärende Person</td><td>60</td></tr>
@@ -313,6 +312,8 @@ Die Übertragung der Personenstandsdaten aus dem Familienregister in das Persone
 <tr><td>4.6 Erklärung über den Namen des Kindes, sofern sie nicht mit der Geburtsmeldung erfolgt (Art. 37, 37*a* ZStV)</td><td>75</td></tr>
 <tr><td>4.7 Namenserklärung nach Artikel 14*a* ZStV</td><td>75</td></tr>
 <tr><th>4.8 Meldung einer Fehlgeburt und Ausstellung einer Bestätigung durch das Zivilstandsamt</th><th>30</th></tr>
+<tr><th>4.9 Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts und eine damit verbundene Änderung von Vornamen (Art. 14*b* Abs. 1 ZStV)</th><th>75</th></tr>
+<tr><th>4.10 Zustimmung der gesetzlichen Vertreterin oder des gesetzlichen Vertreters (Art. 14*b* Abs. 2 ZStV)</th><th>30</th></tr>
 <tr><td>5. Kindesanerkennung</td><td></td></tr>
 <tr><td>5.1 Erklärung über die Anerkennung eines Kindes (Art. 11 Abs. 5 ZStV)</td><td>75</td></tr>
 <tr><td>5.2 Zustimmung der gesetzlichen Vertreterin oder des gesetzlichen Vertreters (Art. 11 Abs. 4 ZStV)</td><td>30</td></tr>
@@ -354,9 +355,9 @@ Die Übertragung der Personenstandsdaten aus dem Familienregister in das Persone
 <tr><td>18. Vermittlung, Instruktion und Beauftragung einer Dolmetscherin oder eines Dolmetschers</td><td>20</td></tr>
 <tr><td>19. Befragung einer Person oder eines Paares zur Klärung von Tatsachen, die darauf hindeuten, dass die betroffene Person offensichtlich keine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will (Art. 97*a* ZGB; Art. 6 Abs. 2 PartG), wenn das Gesuch des betroffenen Paares wegen Rechtsmissbrauchs abgewiesen wird, pro halbe Stunde</td><td>75</td></tr>
 <tr><td>20. Übermittlung einer Kopie per Fax oder mit elektronischer Post, zusätzlich zur Gebühr und den Auslagen für die Ausfertigung und Zustellung des Dokumentes</td><td>20</td></tr>
-<tr><td>21. Erstellung einer Kopie oder Abschrift eines Dokumentes auf Verlangen:</td><td>[tab]</td></tr>
+<tr><td>21. Erstellung einer Kopie oder einer Abschrift eines Dokumentes auf Verlangen:</td><td></td></tr>
+<tr><td>– Grundgebühr (inkl. allfälliger Beglaubigung nach Art. 18*a* Abs. 2 ZStV)</td><td>30</td></tr>
 <tr><td>– pro Seite</td><td>2</td></tr>
-<tr><td>– Beglaubigung (Art. 18*a* Abs. 2 i. V. m. Art. 47 Abs. 2 Bst. c ZStV)</td><td>30</td></tr>
 <tr><td>22. Erstellung einer Kopie eines Ausweises zu administrativen Zwecken (z.B. Pass, Identitätskarte, Ausländerausweis)</td><td>kostenfrei</td></tr>
 <tr><td>23. Vorsorgeauftrag (Art. 23*a* ZStV):</td><td></td></tr>
 <tr><td>– Eintragung der Tatsache, dass eine Person einen Vorsorgeauftrag errichtet hat, und Eintragung des Hinterlegungsortes</td><td>75</td></tr>
@@ -370,11 +371,11 @@ Die Übertragung der Personenstandsdaten aus dem Familienregister in das Persone
 
 Anhang 2*[^t-2]*
 
-(Art. 4 Bst. b)
+(Art. 4 Abs. 1 Bst. b)
 
 ## Dienstleistungen der kantonalen Aufsichtsbehörden im Zivilstandswesen
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Ziff. II der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Ziff. II der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662), [5109](https://fedlex.data.admin.ch/eli/oc/2016/810)).
 
 Die Verfügung über die Anerkennung einer ausländischen Entscheidung oder Urkunde über den Zivilstand gemäss Artikel 32 Absatz 1 des Bundesgesetzes vom 18. Dezember 1987*[^annex2-lvlu1-1]* über das Internationale Privatrecht (IPRG; Art. 45 Abs. 2 Ziff. 4 ZGB; Art. 23 Abs. 1–2 ZStV*[^annex2-lvlu1-2]*) und die Gutheissung der Beschwerde gegen die Verfügung einer Zivilstandsbeamtin oder eines Zivilstandsbeamten (Art. 90 Abs. 1 ZStV) sind gebührenfrei.
 
@@ -401,11 +402,11 @@ Die Verfügung über die Anerkennung einer ausländischen Entscheidung oder Urku
 
 Anhang 3*[^t-3]*
 
-(Art. 4 Bst. c)
+(Art. 4 Abs. 1 Bst. c)
 
 ## Dienstleistungen der schweizerischen Vertretungen im Ausland
 
-[^t-3]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Ziff. II der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2014 ([AS 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)).
+[^t-3]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Ziff. II der V vom 7. Nov. 2012 ([AS 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)) und Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -419,7 +420,7 @@ Anhang 3*[^t-3]*
 <tr><td>*Für die Bestellung wird keine Gebühr erh**o**ben*</td><td></td></tr>
 <tr><td>II. Entgegennahme von Erklärungen</td><td></td></tr>
 <tr><td>*In der Gebühr inbegriffen ist die Beratung und Information bezüglich Voraussetzungen und Rechtswirkungen (Art. 5 Abs. 1 Bst. a ZStV*[^annex3-lvlu1-1]*)*</td><td></td></tr>
-<tr><td>3. Namenserklärungen</td><td></td></tr>
+<tr><td>3. Erklärungen über die Namensführung und das Geschlecht</td><td></td></tr>
 <tr><td>3.1 Namenserklärung vor der Trauung, sofern sie unabhängig vom Gesuch um Vorbereitung der Eheschliessung (Art. 63 Abs. 2 ZStV) oder von der Erklärung über die Voraussetzungen für die Eheschliessung (Art. 98 Abs. 3 ZGB; Art. 69 Abs. 2 ZStV) entgegengenommen wird:</td><td></td></tr>
 <tr><td>– wenn die Erklärung gemeinsam abgegeben wird</td><td>75</td></tr>
 <tr><td>– wenn die Erklärung einzeln abgegeben wird, pro erklärende Person</td><td>60</td></tr>
@@ -431,7 +432,11 @@ Anhang 3*[^t-3]*
 <tr><td>3.5 Namenserklärung nach Auflösung der eingetragenen Partnerschaft (Art. 13*a* ZStV)</td><td>75</td></tr>
 <tr><td>3.6 Erklärung über den Namen des Kindes, sofern sie nicht mit der Geburtsmeldung erfolgt (Art. 37, 37*a* ZStV)</td><td>75</td></tr>
 <tr><td>3.7 Namenserklärung nach Artikel 14*a* ZStV</td><td>75</td></tr>
-<tr><td>4. Erklärung über die Anerkennung eines Kindes (Art. 11 Abs. 6 ZStV)</td><td>75</td></tr>
+<tr><td>3.8 Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts und damit verbundene Änderung von Vornamen (Art. 14*b* Abs. 1 ZStV)</td><td>75</td></tr>
+<tr><td>3.9 Zustimmung der gesetzlichen Vertreterin oder des gesetzlichen Vertreters (Art. 14*b* Abs. 2 ZStV)</td><td>30</td></tr>
+<tr><td>4. Weitere Erklärungen</td><td colspan="2"></td></tr>
+<tr><td>4.1 Erklärung über die Anerkennung eines Kindes (Art. 11 Abs. 6 ZStV)</td><td colspan="2">75</td></tr>
+<tr><td>4.2 Zustimmung der gesetzlichen Vertreterin oder des gesetzlichen Vertreters (Art. 11 Abs. 4 ZStV)</td><td colspan="2">30</td></tr>
 <tr><td>III. Vorbereitung der Eheschliessung und Vorverfahren zur Begründung der eingetragenen Partnerschaft</td><td></td></tr>
 <tr><td>5. In der Schweiz vorgesehene Eheschliessung oder Begründung der eingetragenen Partnerschaft</td><td></td></tr>
 <tr><td>5.1 Entgegennahme des von den Brautleuten einzeln oder gemeinsam eingereichten Gesuches um Vorbereitung der Eheschliessung (Art. 63 Abs. 2 ZStV) und Entgegennahme der Erklärungen über die Erfüllung der Voraussetzungen für die Eheschliessung (Art. 98 Abs. 3 ZGB; Art. 69 Abs. 2 ZStV) sowie Entgegennahme der Namenserklärung vor der Trauung (Art. 12 ZStV) oder der Erklärung über die Unterstellung des Namens unter das Heimatrecht (Art. 14 Abs. 2 ZStV)</td><td>150</td></tr>
@@ -450,27 +455,31 @@ Anhang 3*[^t-3]*
 
 Anhang 4*[^t-4]*
 
-(Art. 4 Bst. d)
+(Art. 4 Abs. 1 Bst. d)
 
 ## Dienstleistungen des Eidgenössischen Amtes für das Zivilstandswesen
 
-[^t-4]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Anhang Ziff. II 1 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^t-4]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Anhang Ziff. II 1 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)) und Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)).
 
 <table>
-<tr><th></th><th>Fr.</th></tr>
-<tr><td>I. Dokumentenübermittlung</td><td></td></tr>
-<tr><td>1. Schweizerische Zivilstandsdokumente</td><td></td></tr>
-<tr><td>1.1 Bestellung und Weiterleitung von Zivilstandsurkunden, Entscheidungen und Dokumenten, pro Zivilstandsamt oder andere Behörde</td><td>30</td></tr>
-<tr><td>1.2 Einholung von Beglaubigungen bei ausländischen Vertretungen in der Schweiz, bei kantonalen Kanzleien und bei der Bundeskanzlei, pro Beglaubigungsstelle</td><td>30</td></tr>
-<tr><td>2. Ausländische Zivilstandsdokumente</td><td></td></tr>
-<tr><td>2.1 Bestellung und Weiterleitung von Zivilstandsurkunden, Entscheidungen und Dokumenten, pro Dossier, welches von einer schweizerischen Vertretung im Ausland übermittelt worden ist</td><td>50</td></tr>
-<tr><td>2.2 Einholung und Weiterleitung von Übersetzungen, Beglaubigungen oder Echtheitsüberprüfungen sowie Vermittlung von Gutachten, bereits vorliegender Dokumente, pro Dossier, welches von einer schweizerischen Vertretung im Ausland übermittelt worden ist</td><td>50</td></tr>
-<tr><td>II. Andere Dienstleistungen</td><td></td></tr>
-<tr><td>3. Eintragung von Spenderdaten, pro Geburt oder errechnetem Geburtstermin, von der behandelnden Ärztin oder dem behandelnden Arzt zu entrichten</td><td>100</td></tr>
-<tr><td>4. Behandlung von Auskunftsgesuchen</td><td></td></tr>
-<tr><td>4.1 Auskunft über die Personalien des Samenspenders gemäss Artikel 27 des Fortpflanzungsmedizingesetzes vom 18. Dezember 1998[^annex4-lvlu1-1], pro halbe Stunde</td><td>75</td></tr>
-<tr><td>4.2 Auskunft über die Personalien der leiblichen Eltern gemäss Artikel 268*c* ZGB, pro halbe Stunde</td><td>75</td></tr>
-<tr><td>5. Erstellung einer Kopie oder Abschrift eines Dokumentes auf Verlangen: – pro Seite 2 – Beglaubigung (Art. 18*a* Abs. 2 i. V. m. Art. 47 Abs. 2 Bst. c ZStV) 30 6. Eintreibung nicht bezahlter Gebühren Schriftliche Mahnung der gebührenpflichtigen Person nach Ablauf der Zahlungsfrist (spätestens nach drei Mahnungen)</td><td>20</td></tr>
+<tr><th></th><th colspan="2">Fr.</th></tr>
+<tr><td>I. Dokumentenübermittlung</td><td colspan="2"></td></tr>
+<tr><td>1. Schweizerische Zivilstandsdokumente</td><td colspan="2"></td></tr>
+<tr><td>1.1 Bestellung und Weiterleitung von Zivilstandsurkunden, Entscheidungen und Dokumenten, pro Zivilstandsamt oder andere Behörde</td><td colspan="2">30</td></tr>
+<tr><td>1.2 Einholung von Beglaubigungen bei ausländischen Vertretungen in der Schweiz, bei kantonalen Kanzleien und bei der Bundeskanzlei, pro Beglaubigungsstelle</td><td colspan="2">30</td></tr>
+<tr><td>2. Ausländische Zivilstandsdokumente</td><td colspan="2"></td></tr>
+<tr><td>2.1 Bestellung und Weiterleitung von Zivilstandsurkunden, Entscheidungen und Dokumenten, pro Dossier, welches von einer schweizerischen Vertretung im Ausland übermittelt worden ist</td><td colspan="2">50</td></tr>
+<tr><td>2.2 Einholung und Weiterleitung von Übersetzungen, Beglaubigungen oder Echtheitsüberprüfungen sowie Vermittlung von Gutachten, bereits vorliegender Dokumente, pro Dossier, welches von einer schweizerischen Vertretung im Ausland übermittelt worden ist</td><td colspan="2">50</td></tr>
+<tr><td>II. Andere Dienstleistungen</td><td colspan="2"></td></tr>
+<tr><td>3. Eintragung von Spenderdaten, pro Geburt oder errechnetem Geburtstermin, von der behandelnden Ärztin oder dem behandelnden Arzt zu entrichten</td><td colspan="2">100</td></tr>
+<tr><td>4. Behandlung von Auskunftsgesuchen</td><td colspan="2"></td></tr>
+<tr><td>4.1 Auskunft über die Personalien des Samenspenders gemäss Artikel 27 des Fortpflanzungsmedizingesetzes vom 18. Dezember 1998[^annex4-lvlu1-1], pro halbe Stunde</td><td colspan="2">75</td></tr>
+<tr><td>4.2 Auskunft über die Personalien der leiblichen Eltern gemäss Artikel 268*c* ZGB, pro halbe Stunde</td><td colspan="2">75</td></tr>
+<tr><td>[tab]</td><td></td></tr>
+<tr><td>5. Erstellung einer Kopie oder einer Abschrift eines Dokumentes auf Verlangen:</td><td></td></tr>
+<tr><td>– Grundgebühr (inkl. allfälliger Beglaubigung nach Art. 18*a* Abs. 2 ZStV)</td><td>30</td></tr>
+<tr><td>– pro Seite</td><td>2</td></tr>
+<tr><td>6. Eintreibung nicht bezahlter Gebühren Schriftliche Mahnung der gebührenpflichtigen Person nach Ablauf der Zahlungsfrist (spätestens nach drei Mahnungen)</td><td colspan="2">20</td></tr>
 </table>
 
 [^annex4-lvlu1-1]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)

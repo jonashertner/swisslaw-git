@@ -4,18 +4,18 @@ title: Ordinanza del 27 ottobre 1999 sugli emolumenti in materia di stato civile
 short: OESC
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/490"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1999-10-27
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1999-490-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1999-490-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sugli emolumenti in materia di stato civile (OESC)
 
-del 27 ottobre 1999 (Stato 1° gennaio 2020)
+del 27 ottobre 1999 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -148,7 +148,7 @@ Sono considerate disborsi le spese supplementari connesse con una determinata pr
 [^7-3]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)).
 [^7-4]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362)
 [^7-5]: Introdotta dal n. I dell’O del 28 apr. 2004 ([RU 2004 2903](https://fedlex.data.admin.ch/eli/oc/2004/360)). Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)).
-[^7-6]: Introdotta dal n. II 1 dell’all. all’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^7-6]: Introdotta dall’all. n. II 1 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^7-7]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 [^7-8]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
 [^7-9]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)).
@@ -263,7 +263,7 @@ Allegato 1*[^t-1]*
 
 ## Prestazioni degli uffici dello stato civile
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 4 giu. 2010 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Aggiornato dal n. II dell’O del 7 nov. 2012 ([RU 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), dal n. I dell’O del 14 mag. 2014 ([RU 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), dal n. II dell’O del 26 ott. 2016 ([RU 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), dal n. II 1 dell’all. all’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), dai n. I delle O del 31 ott. 2018 ([RU 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)) e del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3801](https://fedlex.data.admin.ch/eli/oc/2019/692)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 4 giu. 2010 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Aggiornato dal n. II dell’O del 7 nov. 2012 ([RU 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), dal n. I dell’O del 14 mag. 2014 ([RU 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), dal n. II dell’O del 26 ott. 2016 ([RU 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), dall’all. n. II 1 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), dai n. I delle O del 31 ott. 2018 ([RU 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)), del 20 nov. 2019 ([RU 2019 3801](https://fedlex.data.admin.ch/eli/oc/2019/692)) e del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)).
 
 Il trasferimento dei dati personali dal registro delle famiglie al registro dello stato civile (art. 93 OSC*[^annex1-lvlu1-1]*) e il rilevamento obbligatorio di dati (art. 7 e 8 OSC) e di persone (art. 15a cpv. 1 e 2 OSC) nel registro dello stato civile non sono soggetti a emolumenti.
 
@@ -289,12 +289,12 @@ Il trasferimento dei dati personali dal registro delle famiglie al registro dell
 <tr><td>3. Altre prestazioni in relazione alla divulgazione dei dati dello stato civile</td><td></td></tr>
 <tr><td>3.1 Ricerche nei registri dello stato civile e nei documenti giustificativi basati su un mandato di ricerca al fine di accertare un fatto, per mezz’ora</td><td>75</td></tr>
 <tr><td>3.2 Collaborazione alla consultazione dei registri cartacei dello stato civile da parte degli interessati (art. 92*b* cpv. 4 OSC), per mezz’ora</td><td>75</td></tr>
-<tr><td>3.3 Allestimento di una copia o trascrizione di un documento giustificativo archiviato:</td><td></td></tr>
+<tr><td>3.3 Allestimento di una copia o trascrizione di un documento giustificativo archiviato (art. 47 cpv. 2 lett. c e f OSC):</td><td></td></tr>
+<tr><td>– emolumento di base (compresa eventuale autenticazione secondo l’art. 18*a* cpv. 2 in combinato disposto con l’art. 47 cpv. 2 lett. c OSC)</td><td>30</td></tr>
 <tr><td>– per pagina</td><td>2</td></tr>
-<tr><td>– autenticazione (art. 18*a* cpv. 2 in combinato disposto con l’art. 47 cpv. 2 lett. c OSC)</td><td>30</td></tr>
 <tr><td>II. Ricevimento di dichiarazioni</td><td></td></tr>
 <tr><td>L’emolumento comprende la consulenza e le informazioni concernenti le condizioni e gli effetti giuridici delle dichiarazioni nonché l’eventuale domanda d’autorizzazione del ricevimento presentata dall’ufficio dello stato civile all’autorità di vigilanza</td><td></td></tr>
-<tr><td>4. Cognome</td><td></td></tr>
+<tr><td>4. Cognome e sesso</td><td></td></tr>
 <tr><td>4.1 Dichiarazione concernente il cognome prima della celebrazione del matrimonio (art. 12 OSC), fatta al di fuori della procedura preparatoria:</td><td></td></tr>
 <tr><td>– se la dichiarazione è fatta congiuntamente</td><td>75</td></tr>
 <tr><td>– se la dichiarazione è fatta singolarmente, per dichiarante</td><td>60</td></tr>
@@ -307,6 +307,8 @@ Il trasferimento dei dati personali dal registro delle famiglie al registro dell
 <tr><td>4.6 Dichiarazione concernente il cognome del figlio, se non è fatta al momento della notificazione della nascita (art. 37, 37*a* OSC)</td><td>75</td></tr>
 <tr><td>4.7 Dichiarazione concernente il cognome di cui all’art. 14*a* OSC</td><td>75</td></tr>
 <tr><td>4.8 Comunicazione della venuta al mondo di un infante privo di vita e rilascio di una conferma</td><td>30</td></tr>
+<tr><td>4.9 Dichiarazione concernente il cambiamento del sesso e, se del caso, dei prenomi iscritti nel registro dello stato civile (art. 14b cpv. 1 OSC)</td><td>75</td></tr>
+<tr><td>4.10 Consenso del rappresentante legale (art. 14*b* cpv. 2 OSC)</td><td>30</td></tr>
 <tr><td>5. Riconoscimento</td><td></td></tr>
 <tr><td>5.1 Dichiarazione concernente il riconoscimento di un figlio (art. 11 cpv. 5 OSC)</td><td>75</td></tr>
 <tr><td>5.2 Consenso del rappresentante legale (art. 11 cpv. 4 OSC)</td><td>30</td></tr>
@@ -349,8 +351,8 @@ Il trasferimento dei dati personali dal registro delle famiglie al registro dell
 <tr><td>19. Audizione di una persona o della coppia al fine di accertare fatti che indicano che l’interessato manifestamente non intende costituire l’unione coniugale o una comunione di vita, bensì eludere le disposizioni in materia di soggiorno degli stranieri (art. 97*a* CC; art. 6 cpv. 2 LUD), se la domanda della coppia interessata è respinta per abuso di diritto, per mezz’ora</td><td>75</td></tr>
 <tr><td>20. Trasmissione di una copia per fax o per e-mail, oltre all’emolumento e ai disborsi per l’allestimento e per la trasmissione del documento</td><td>20</td></tr>
 <tr><td>21. Allestimento di una copia o trascrizione di un documento su richiesta:</td><td></td></tr>
+<tr><td>– emolumento di base (compresa l’eventuale autenticazione secondo l’art. 18*a* cpv. 2 OSC)</td><td>30</td></tr>
 <tr><td>– per pagina</td><td>2</td></tr>
-<tr><td>– autenticazione (art. 18a cpv. 2 in combinato disposto con l’art. 47 cpv. 2 lett. c OSC)</td><td>30</td></tr>
 <tr><td>22. Allestimento di una copia di un documento di identità ad uso amministrativo (p.es. passaporto, carta d’identità, libretto per stranieri)</td><td>gratuito</td></tr>
 <tr><td>23. Mandato precauzionale (art. 23*a* OSC):</td><td></td></tr>
 <tr><td>– Iscrizione della costituzione di un mandato precauzionale e del luogo in cui lo stesso è depositato</td><td>75</td></tr>
@@ -364,7 +366,7 @@ Il trasferimento dei dati personali dal registro delle famiglie al registro dell
 
 Allegato 2*[^t-2]*
 
-(art. 4 lett. b)
+(art. 4 cpv. 1 lett. b)
 
 ## Prestazioni delle autorità cantonali di vigilanza in materia di stato civile
 
@@ -393,11 +395,11 @@ Il riconoscimento di una decisione o un atto estero concernenti lo stato civile 
 
 Allegato 3*[^t-3]*
 
-(art. 4 lett. c)
+(art. 4 cpv. 1 lett. c)
 
 ## Prestazioni delle rappresentanze svizzere all’estero
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 4 giu. 2010 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Aggiornato dal n. II dell’O del 7 nov. 2012, in vigore dal 1° gen. 2014 ([RU 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)).
+[^t-3]: Nuovo testo giusta il n. II dell’O del 4 giu. 2010 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Aggiornato dal n. II dell’O del 7 nov. 2012 ([RU 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)) e dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -411,7 +413,7 @@ Allegato 3*[^t-3]*
 <tr><td>*Non è riscosso alcun emolumento per l’ordinazione*</td><td></td></tr>
 <tr><td>II. Ricevimento di dichiarazioni</td><td></td></tr>
 <tr><td>*L’emolumento comprende la consulenza e le informazioni co**n**cernenti le condizioni e gli effetti giuridici (art. 5 cpv. 1 lett. a OSC*[^annex3-lvlu1-1])</td><td></td></tr>
-<tr><td>3. Dichiarazioni concernenti il cognome</td><td></td></tr>
+<tr><td>3. Dichiarazioni concernenti il cognome e il sesso</td><td></td></tr>
 <tr><td>3.1 Dichiarazione concernente il cognome prima della celebrazione del matrimonio, ricevuta indipendentemente dalla domanda di esecuzione della procedura preparatoria del matrimonio (art. 63 cpv. 2 OSC) o dalla dichiarazione concernente l’adempimento delle condizioni per la celebrazione del matrimonio (art. 98 cpv. 3 CC; art. 69 cpv. 2 OSC):</td><td></td></tr>
 <tr><td>– se la dichiarazione è fatta congiuntamente</td><td>75</td></tr>
 <tr><td>– se la dichiarazione è fatta singolarmente, per dichiarante</td><td>60</td></tr>
@@ -423,30 +425,34 @@ Allegato 3*[^t-3]*
 <tr><td>3.5 Dichiarazione concernente il cognome dopo lo scioglimento dell’unione domestica registrata (art. 13*a* OSC)</td><td>75</td></tr>
 <tr><td>3.6 Dichiarazione concernente il cognome del figlio, se non è fatta al momento della notificazione della nascita (art. 37, 37*a* OSC)</td><td>75</td></tr>
 <tr><td>3.7 Dichiarazione concernente il cognome di cui all’art. 14*a* OSC</td><td>75</td></tr>
-<tr><td>4. Dichiarazione concernente il riconoscimento di un figlio (art. 11 cpv. 6 OSC)</td><td>75</td></tr>
-<tr><td>III. Procedura preparatoria del matrimonio e procedura preliminare alla costituzione dell’unione domestica registrata</td><td></td></tr>
-<tr><td>5. Celebrazione del matrimonio o costituzione dell’unione domestica registrata prevista in Svizzera</td><td></td></tr>
-<tr><td>5.1 Ricevimento della domanda di esecuzione della procedura preparatoria del matrimonio presentata singolarmente o congiuntamente dai fidanzati (art. 63 cpv. 2 OSC), ricevimento della dichiarazione concernente l’adempimento delle condizioni per la celebrazione del matrimonio (art. 98 cpv. 3 CC; art. 69 cpv. 2 OSC), nonché ricevimento della dichiarazione concernente il cognome prima della celebrazione del matrimonio (art. 12 OSC) oppure dell’assoggettamento del cognome al diritto nazionale (art. 14 cpv. 2 OSC)</td><td>150</td></tr>
-<tr><td>5.2 Ricevimento della domanda per la procedura preliminare alla costituzione dell’unione domestica registrata presentata singolarmente o congiuntamente dai partner (art. 75*b* cpv. 2 OSC), ricevimento della dichiarazione concernente l’adempimento delle condizioni per la costituzione dell’unione domestica registrata (art. 5 cpv. 3 LUD; art. 75*h* cpv. 2 OSC), nonché ricevimento della dichiarazione concernente il cognome prima della registrazione dell’unione domestica (art. 12*a* OSC) oppure dell’assoggettamento del cognome al diritto nazionale (art. 14 cpv. 2 OSC)</td><td>150</td></tr>
-<tr><td>5.3 Traduzione e autenticazione di documenti esteri, nonché autenticazione di traduzioni effettuate da terzi da esibire nell’ambito dell’esecuzione della procedura preparatoria del matrimonio o della procedura preliminare alla costituzione dell’unione domestica registrata, per mezz’ora</td><td>75</td></tr>
-<tr><td>6. Celebrazione del matrimonio prevista all’estero</td><td></td></tr>
-<tr><td>6.1 Ordinazione di un certificato di capacità al matrimonio se sono necessarie anche prestazioni di cui al numero 5.1</td><td>75</td></tr>
-<tr><td>6.2 Traduzione e autenticazione di documenti esteri nonché autenticazione di traduzioni effettuate da terzi da esibire alla celebrazione del matrimonio, per mezz’ora</td><td>75</td></tr>
-<tr><td>IV. Altre prestazioni</td><td></td></tr>
-<tr><td>7. Perizie, informazioni giuridiche o rapporti su richiesta di un ufficio dello stato civile, di un’autorità cantonale di vigilanza in materia di stato civile oppure dell’Ufficio federale dello stato civile comprese l’ottenimento di documenti, le indagini condotte per accertare un fatto e il trattamento dei dossier da parte di un avvocato di fiducia o di un altro esperto (art. 5 cpv. 1 lett. h OSC), per mezz’ora</td><td>75</td></tr>
-<tr><td>8. Audizione di una di una persona o della coppia, su richiesta dell’ufficio dello stato civile o dell’autorità cantonale di vigilanza in materia di stato civile, al fine di accertare fatti che indicano che l’interessato manifestamente non intende costituire l’unione coniugale o una comunione di vita, bensì eludere le diposizioni in materia di soggiorno degli stranieri (art. 97*a* CC; art. 6 cpv. 2 LUD), compreso l’allestimento del rapporto, se l’autorità competente respinge la domanda della coppia interessata per abuso di diritto, per mezz’ora</td><td>75</td></tr>
-<tr><td>9. Trasmissione di una domanda di informazioni sulle generalità dei genitori biologici (art. 268*c* CC) nonché cooperazione negli accertamenti necessari, per mezz’ora</td><td>75</td></tr>
+<tr><td>3.8 Dichiarazione concernente il cambiamento del sesso e, se del caso, dei prenomi iscritti nel registro dello stato civile (art. 14*b* cpv. 1 OSC)</td><td>75</td></tr>
+<tr><td>3.9 Consenso del rappresentante legale (art. 14*b* cpv. 2 OSC)</td><td>30</td></tr>
+<tr><td>4. Ulteriori dichiarazioni</td><td></td></tr>
+<tr><td>4.1 Dichiarazione concernente il riconoscimento di un figlio (art. 11 cpv. 6 OSC)</td><td>75</td></tr>
+<tr><td colspan="2">4.2 Consenso del rappresentante legale (art. 11 cpv. 4 OSC)</td><td>30</td></tr>
+<tr><td colspan="2">III. Procedura preparatoria del matrimonio e procedura preliminare alla costituzione dell’unione domestica registrata</td><td></td></tr>
+<tr><td colspan="2">5. Celebrazione del matrimonio o costituzione dell’unione domestica registrata prevista in Svizzera</td><td></td></tr>
+<tr><td colspan="2">5.1 Ricevimento della domanda di esecuzione della procedura preparatoria del matrimonio presentata singolarmente o congiuntamente dai fidanzati (art. 63 cpv. 2 OSC), ricevimento della dichiarazione concernente l’adempimento delle condizioni per la celebrazione del matrimonio (art. 98 cpv. 3 CC; art. 69 cpv. 2 OSC), nonché ricevimento della dichiarazione concernente il cognome prima della celebrazione del matrimonio (art. 12 OSC) oppure dell’assoggettamento del cognome al diritto nazionale (art. 14 cpv. 2 OSC)</td><td>150</td></tr>
+<tr><td colspan="2">5.2 Ricevimento della domanda per la procedura preliminare alla costituzione dell’unione domestica registrata presentata singolarmente o congiuntamente dai partner (art. 75*b* cpv. 2 OSC), ricevimento della dichiarazione concernente l’adempimento delle condizioni per la costituzione dell’unione domestica registrata (art. 5 cpv. 3 LUD; art. 75*h* cpv. 2 OSC), nonché ricevimento della dichiarazione concernente il cognome prima della registrazione dell’unione domestica (art. 12*a* OSC) oppure dell’assoggettamento del cognome al diritto nazionale (art. 14 cpv. 2 OSC)</td><td>150</td></tr>
+<tr><td colspan="2">5.3 Traduzione e autenticazione di documenti esteri, nonché autenticazione di traduzioni effettuate da terzi da esibire nell’ambito dell’esecuzione della procedura preparatoria del matrimonio o della procedura preliminare alla costituzione dell’unione domestica registrata, per mezz’ora</td><td>75</td></tr>
+<tr><td colspan="2">6. Celebrazione del matrimonio prevista all’estero</td><td></td></tr>
+<tr><td colspan="2">6.1 Ordinazione di un certificato di capacità al matrimonio se sono necessarie anche prestazioni di cui al numero 5.1</td><td>75</td></tr>
+<tr><td colspan="2">6.2 Traduzione e autenticazione di documenti esteri nonché autenticazione di traduzioni effettuate da terzi da esibire alla celebrazione del matrimonio, per mezz’ora</td><td>75</td></tr>
+<tr><td colspan="2">IV. Altre prestazioni</td><td></td></tr>
+<tr><td colspan="2">7. Perizie, informazioni giuridiche o rapporti su richiesta di un ufficio dello stato civile, di un’autorità cantonale di vigilanza in materia di stato civile oppure dell’Ufficio federale dello stato civile comprese l’ottenimento di documenti, le indagini condotte per accertare un fatto e il trattamento dei dossier da parte di un avvocato di fiducia o di un altro esperto (art. 5 cpv. 1 lett. h OSC), per mezz’ora</td><td>75</td></tr>
+<tr><td colspan="2">8. Audizione di una di una persona o della coppia, su richiesta dell’ufficio dello stato civile o dell’autorità cantonale di vigilanza in materia di stato civile, al fine di accertare fatti che indicano che l’interessato manifestamente non intende costituire l’unione coniugale o una comunione di vita, bensì eludere le diposizioni in materia di soggiorno degli stranieri (art. 97*a* CC; art. 6 cpv. 2 LUD), compreso l’allestimento del rapporto, se l’autorità competente respinge la domanda della coppia interessata per abuso di diritto, per mezz’ora</td><td>75</td></tr>
+<tr><td colspan="2">9. Trasmissione di una domanda di informazioni sulle generalità dei genitori biologici (art. 268*c* CC) nonché cooperazione negli accertamenti necessari, per mezz’ora</td><td>75</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362)
 
 Allegato 4*[^t-4]*
 
-(art. 4 lett. d)
+(art. 4 cpv. 1 lett. d)
 
 ## Prestazioni dell’Ufficio federale dello stato civile
 
-[^t-4]: Nuovo testo giusta il n. II dell’O del 4 giu. 2010 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Aggiornato dal n. II 1 dell’all. all’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica, in vigore dal 1° feb. 2018 ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^t-4]: Nuovo testo giusta il n. II dell’O del 4 giu. 2010 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Aggiornato dall’all. n. II 1 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)) e dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -463,8 +469,8 @@ Allegato 4*[^t-4]*
 <tr><td>4.1 Informazioni sulle generalità del donatore di sperma conformemente all’articolo 27 della legge federale del 18 dicembre 1998[^annex4-lvlu1-1] concernente la procreazione con assistenza medica, per mezz’ora</td><td>75</td></tr>
 <tr><td>4.2 Informazioni sulle generalità dei genitori biologici conformemente all’articolo. 268*c* CC, per mezz’ora</td><td>75</td></tr>
 <tr><td>5. Allestimento di una copia o trascrizione di un documento su richiesta:</td><td></td></tr>
+<tr><td>– emolumento di base (compresa l’eventuale autenticazione secondo l’art. 18*a* cpv. 2 OSC)</td><td>30</td></tr>
 <tr><td>– per pagina</td><td>2</td></tr>
-<tr><td>– autenticazione (art. 18*a* cpv. 2 in combinato disposto con l’art. 47 cpv. 2 lett. c OSC)</td><td>30</td></tr>
 <tr><td>6. Recupero di emolumenti non pagati Diffida scritta all’assoggettato alla scadenza del termine di pagamento (al più tardi dopo tre solleciti)</td><td>20</td></tr>
 </table>
 
