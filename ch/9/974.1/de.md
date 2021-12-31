@@ -3,18 +3,18 @@ sr: "974.1"
 title: Bundesgesetz vom 30. September 2016 über die Zusammenarbeit mit den Staaten Osteuropas
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/323"
 language: de
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2016-09-30
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2017-323-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-323-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Zusammenarbeit mit den Staaten Osteuropas
 
-vom 30. September 2016 (Stand am 1. Dezember 2021)
+vom 30. September 2016 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -109,7 +109,9 @@ Verschiedene Formen der Zusammenarbeit und der finanziellen Leistungen des Bunde
 
 #### Art. 10
 
-Die Mittel zur Finanzierung der Massnahmen nach diesem Gesetz werden als Rahmenkredite für jeweils mehrere Jahre von der Bundesversammlung mit einfachem Bundesbeschluss bewilligt.
+Die Mittel zur Finanzierung der Massnahmen nach diesem Gesetz werden als Verpflichtungskredite[^10-1] für jeweils mehrere Jahre von der Bundesversammlung mit einfachem Bundesbeschluss bewilligt.
+
+[^10-1]: Ausdruck gemäss Anhang Ziff. 13 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## 4. Abschnitt: Vollzug
 

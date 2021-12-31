@@ -3,11 +3,11 @@ sr: "974.1"
 title: "Lescha federala dals 30 da settember 2016 davart la collavuraziun cun ils stadis da l'Europa da l'Ost"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/323"
 language: rm
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2016-09-30
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20211201/rm/xml/fedlex-data-admin-ch-eli-cc-2017-323-20211201-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20211201/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2017-323-20220101-rm-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20211201/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da settember 2016 (versiun dal 1. da december 2021)
+dals 30 da settember 2016 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -111,7 +111,9 @@ Differentas furmas da collavuraziun e da prestaziuns finanzialas da la Confedera
 
 #### Art. 10
 
-Ils meds finanzials per finanziar las mesiras tenor questa lescha vegnan deliberads da l’Assamblea federala cun in conclus federal simpel sco credits generals per mintgamai plirs onns.
+Ils meds finanzials per finanziar las mesiras tenor questa lescha vegnan deliberads da l’Assamblea federala cun in conclus federal simpel sco credits d’impegn[^10-1] per mintgamai plirs onns.
+
+[^10-1]: Expressiun tenor la cifra 13 da l’agiunta da la LF dals 19 da mars 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## 4. secziun Execuziun
 

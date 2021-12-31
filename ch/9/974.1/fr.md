@@ -3,18 +3,18 @@ sr: "974.1"
 title: "Loi fédérale du 30 septembre 2016 sur la coopération avec les Etats d'Europe de l'Est"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/323"
 language: fr
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2016-09-30
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-323-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-323-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la coopération avec les États d’Europe de l’Est\*
 
-du 30 septembre 2016 (Etat le 1<sup>er</sup> décembre 2021)[^t-1]
+du 30 septembre 2016 (État le 1<sup>er</sup> janvier 2022)[^t-1]
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -111,7 +111,9 @@ Les mesures mixtes peuvent combiner différentes formes de coopération et de pr
 
 #### Art. 10
 
-L’Assemblée fédérale alloue les moyens nécessaires au financement des mesures prises en vertu de la présente loi par voie d’arrêté fédéral simple sous la forme de crédits-cadres ouverts pour plusieurs années.
+L’Assemblée fédérale alloue les moyens nécessaires au financement des mesures prises en vertu de la présente loi par voie d’arrêté fédéral simple sous la forme de crédits d’engagement[^10-1] ouverts pour plusieurs années.
+
+[^10-1]: Nouvelle expression selon l’annexe ch. 13 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## Section 4 Mise en œuvre
 

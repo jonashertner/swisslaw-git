@@ -3,18 +3,18 @@ sr: "974.1"
 title: "Legge federale del 30 settembre 2016 sulla cooperazione con gli Stati dell'Europa dell'Est"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/323"
 language: it
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2016-09-30
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2017-323-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/323/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-323-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/323/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla cooperazione con gli Stati dell’Europa dell’Est
 
-del 30 settembre 2016 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
+del 30 settembre 2016 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -109,7 +109,9 @@ I provvedimenti possono consistere anche in forme combinate di cooperazione e di
 
 #### Art. 10
 
-I mezzi necessari per finanziare i provvedimenti secondo la presente legge sono stanziati sotto forma di crediti quadro pluriennali mediante decreto federale semplice.
+I mezzi necessari per finanziare i provvedimenti secondo la presente legge sono stanziati sotto forma di crediti d’impegno[^10-1] pluriennali mediante decreto federale semplice.
+
+[^10-1]: Nuova espr. giusta l’all. n. 13 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## Sezione 4: Esecuzione
 
