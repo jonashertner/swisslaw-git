@@ -4,24 +4,24 @@ number: "170.3"
 title: Gesetz über die Verantwortlichkeit
 short: Verantwortlichkeitsgesetz
 language: de
-version: 2004-06-01
-valid_until: 2021-12-31
-version_adopted: 2000-12-20
+version: 2022-01-01
+valid_until: 2025-09-30
+version_adopted: 2021-03-24
 adopted: 1979-02-14
 in_force: 1981-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/170.3"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/901/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Verantwortlichkeit
 
-Verantwortlichkeitsgesetz (VerantwG)
+Verantwortlichkeitsgesetz
 
 (Verantwortlichkeitsgesetz)
 
-vom 14.02.1979 (Stand 01.06.2004)
+vom 14.02.1979 (Stand 01.01.2022)
 
 ## 1. Allgemeines
 
@@ -33,13 +33,13 @@ vom 14.02.1979 (Stand 01.06.2004)
 
 <sup>2</sup> Für die Kantonalbank und das kantonale Elektrizitätswerk gelten die besonderen Bestimmungen ihrer Organisationsgesetze[^1-1].
 
-[^1-1]: [951.1](https://www.rechtsbuch.tg.ch/data/951.1/de); [954.1](https://www.rechtsbuch.tg.ch/data/954.1/de)
+[^1-1]: RB [951.1](https://www.rechtsbuch.tg.ch/data/951.1/de); RB [954.1](https://www.rechtsbuch.tg.ch/data/954.1/de)
 
 #### § 2
 
 **Begriffsbestimmungen**
 
-<sup>1</sup> In den nachfolgenden Bestimmungen werden unter Staat alle in § 1 Absatz 1 erwähnten Gemeinwesen und unter mit öffentlichen Aufgaben betraute Personen alle dort genannten Personen verstanden.
+<sup>1</sup> In den nachfolgenden Bestimmungen werden unter Staat alle in § 1 Abs. 1 erwähnten Gemeinwesen und unter mit öffentlichen Aufgaben betraute Personen alle dort genannten Personen verstanden.
 
 #### § 3
 
@@ -75,7 +75,7 @@ vom 14.02.1979 (Stand 01.06.2004)
 
 **Schadenersatz und Genugtuung bei Verletzung in den persönlichen Verhältnissen**
 
-<sup>1</sup> Wer im Sinne von § 4 Absatz 1 in seinen persönlichen Verhältnissen verletzt wird, hat bei Verschulden der fehlbaren Person dem Staat gegenüber Anspruch auf Schadenersatz und, wo die besondere Schwere der Verletzung und des Verschuldens es rechtfertigt, auf Genugtuung.
+<sup>1</sup> Wer im Sinne von § 4 Abs. 1 in seinen persönlichen Verhältnissen verletzt wird, hat bei Verschulden der fehlbaren Person dem Staat gegenüber Anspruch auf Schadenersatz und, wo die besondere Schwere der Verletzung und des Verschuldens es rechtfertigt, auf Genugtuung.
 
 #### § 7
 
@@ -125,20 +125,26 @@ vom 14.02.1979 (Stand 01.06.2004)
 
 **Zuständigkeit und Verfahren**
 
-<sup>1</sup> Über Ansprüche Dritter aus diesem Gesetz sowie über Ansprüche des Staates gegen mit öffentlichen Aufgaben betraute Personen oder mit öffentlichen Aufgaben betrauter Personen gegen den Staat entscheidet das Verwaltungsgericht im Verfahren der verwaltungsrechtlichen Klage.
+<sup>1</sup> Das Verwaltungsgericht beurteilt
 
-<sup>2</sup> Das Bundesgericht beurteilt Ansprüche Dritter gegen den Staat, die mit Verrichtungen des Regierungsrates, des Obergerichtes, des Kriminalgerichtes[^12-1] oder des Kassationsgerichtes[^12-2] begründet werden, sowie Ansprüche des Staates gegen Mitglieder des Regierungsrates oder gegen Mitglieder und Angestellte der kantonalen Gerichte.
+- 1\. Ansprüche Dritter aus diesem Gesetz
+- 2\. Ansprüche des Staates gegen mit öffentlichen Aufgaben betraute Personen
+- 3\. Ansprüche von mit öffentlichen Aufgaben betrauten Personen gegen den Staat.
 
-<sup>3</sup> Die Gerichte dürfen rechtsmittelfähige rechtskräftige Verfügungen, Entscheide und Urteile nicht auf Rechtsverletzung überprüfen.
+<sup>2</sup> Das Obergericht beurteilt
 
-[^12-1]: Abgeschafft durch G vom 5. November 1991; gewährleistet durch BB am 22. Dezember 1992, in Kraft gesetzt auf den 1. September 1994.
-[^12-2]: Abgeschafft durch G vom 5. November 1991; gewährleistet durch BB am 22. Dezember 1992, in Kraft gesetzt auf den 1. September 1994.
+- 1\. Ansprüche Dritter gegen den Staat, die mit Verrichtungen des Verwaltungsgerichtes begründet werden
+- 2\. Ansprüche des Staates gegen Mitglieder und Angestellte des Verwaltungsgerichtes.
+
+<sup>3</sup> Für das Verfahren gelten die Bestimmungen über die verwaltungsrechtliche Klage.
+
+<sup>4</sup> Die Dispositive rechtskräftiger Verfügungen, Entscheide und Urteile sind für das Verwaltungs- und Obergericht bei der Beurteilung bindend.
 
 #### § 13
 
 **Ergänzendes Recht**
 
-<sup>1</sup> Soweit dieser Abschnitt keine eigene Regelung trifft, sind die Bestimmungen des Schweizerischen Obligationenrechtes[^13-1] anwendbar.
+<sup>1</sup> Soweit dieser Abschnitt keine eigene Regelung trifft, sind die Bestimmungen des Schweizerischen Obligationenrechtes (OR)[^13-1] anwendbar.
 
 [^13-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
@@ -154,7 +160,7 @@ vom 14.02.1979 (Stand 01.06.2004)
 
 **Ausnahmen**
 
-<sup>1</sup> Die Strafverfolgung von Mitgliedern des Grossen Rates, des Regierungsrates und der kantonalen Gerichte gemäss § 12 Absatz 2 wegen strafbarer Handlungen, die sich auf ihre amtliche Tätigkeit bezieht, bedarf der Ermächtigung durch den Grossen Rat.
+<sup>1</sup> Die Strafverfolgung von Mitgliedern des Grossen Rates, des Regierungsrates, des Obergerichtes und des Verwaltungsgerichtes wegen strafbarer Handlungen, die sich auf ihre amtliche Tätigkeit beziehen, bedarf der Ermächtigung durch den Grossen Rat.
 
 <sup>2</sup> Ohne Bewilligung des Grossen Rates darf aus den Ratssitzungen kein Mitglied verhaftet werden.
 
@@ -176,7 +182,11 @@ vom 14.02.1979 (Stand 01.06.2004)
 
 <sup>1</sup> Disziplinarbehörde ist diejenige Behörde, der die Aufsicht über die betroffene Person zusteht.
 
-<sup>2</sup> Anstände über die Zuständigkeit entscheidet der Regierungsrat im Bereich der Verwaltung, das Obergericht im Bereich der Rechtspflege.
+<sup>2</sup> Ist strittig, welche Behörde zuständig ist, entscheidet
+
+- 1\. der Regierungsrat für die Verwaltung
+- 2\. das Obergericht für die Gerichte und Schlichtungsbehörden in der Zivil- und Strafrechtspflege sowie die Kindes- und Erwachsenenschutzbehörden
+- 3\. das Verwaltungsgericht für die Rekurskommissionen und die Enteignungskommission.
 
 #### § 18
 
@@ -220,7 +230,7 @@ vom 14.02.1979 (Stand 01.06.2004)
 
 <sup>1</sup> Disziplinarvergehen verjähren fünf Jahre nach ihrer Begehung. Sieht das Strafrecht eine längere Verjährungsfrist vor, gilt diese.
 
-<sup>2</sup> Für Beginn, Ruhen und Unterbrechung der Verjährung sind die Bestimmungen des Schweizerischen Strafgesetzbuches[^21-1] sinngemäss anwendbar.
+<sup>2</sup> Für Beginn, Ruhen und Unterbrechung der Verjährung sind die Bestimmungen des Schweizerischen Strafgesetzbuches (StGB)[^21-1] sinngemäss anwendbar.
 
 [^21-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
@@ -250,7 +260,7 @@ vom 14.02.1979 (Stand 01.06.2004)
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt nach Annahme durch das Volk und nach Genehmigung von § 12 Absatz 2 durch die Eidgenössischen Räte[^25-1] auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft.[^25-2]
+<sup>1</sup> Dieses Gesetz tritt nach Annahme durch das Volk und nach Genehmigung von § 12 Abs. 2 durch die Eidgenössischen Räte[^25-1] auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft.[^25-2]
 
 [^25-1]: Genehmigt durch BB vom 9. Oktober 1980.
 [^25-2]: In Kraft gesetzt auf den 1. Januar 1981.
