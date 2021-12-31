@@ -3,18 +3,18 @@ sr: "923.31"
 title: Verordnung des UVEK vom 9. Oktober 1997 über die Fischerei im Bodensee-Obersee
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über die Fischerei im Bodensee-Obersee****
 
-vom 9. Oktober 1997 (Stand am 1. Januar 2021)[^t-1]
+vom 9. Oktober 1997 (Stand am 1. Januar 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Okt. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
@@ -312,19 +312,20 @@ Für das verankerte Schwebnetz gelten die nachstehenden Höchst- und Mindestmass
 
 <sup>3</sup> Verankerte Schwebsätze dürfen vom 10. Januar, 12.00 Uhr, bis 30. April, 12.00 Uhr, verwendet werden.[^11-3]
 
-<sup>4</sup> Sie dürfen an Sonn- und Feiertagen nicht gehoben werden.
+<sup>4</sup> Sie dürfen an Sonntagen nicht gehoben werden.[^11-4]
 
 <sup>5</sup> Sie sind an beiden Enden zu verankern; zu anderen verankerten Schwebsätzen sowie zu Spann- und Forellensätzen ist ein Abstand von mindestens 200 m einzuhalten.
 
-<sup>6</sup> Pro Patent dürfen gleichzeitig höchstens fünf Netze verwendet werden, die zu höchstens zwei Sätzen zu verbinden sind. Der einzelne Schwebsatz muss mindestens zwei Netze umfassen.[^11-4]
+<sup>6</sup> Pro Patent dürfen gleichzeitig höchstens fünf Netze verwendet werden, die zu höchstens zwei Sätzen zu verbinden sind. Der einzelne Schwebsatz muss mindestens zwei Netze umfassen.[^11-5]
 
-<sup>7</sup> Abweichend von Artikel 11 Absatz 1 Buchstabe a dürfen vom 10. Januar bis zum 31. März zwei Netze mit mindestens 38 mm und drei Netze mit mindestens 40 mm Maschenweite sowie vom 1. April bis 30. April fünf Netze mit mindestens 38mm Maschenweite verwendet werden.[^11-5]
+<sup>7</sup> Abweichend von Artikel 11 Absatz 1 Buchstabe a dürfen vom 10. Januar bis zum 31. März zwei Netze mit mindestens 38 mm und drei Netze mit mindestens 40 mm Maschenweite sowie vom 1. April bis 30. April fünf Netze mit mindestens 38mm Maschenweite verwendet werden.[^11-6]
 
 [^11-1]: Fassung gemäss Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 [^11-2]: Fassung gemäss Ziff. I der V des UVEK vom 6. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 [^11-3]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^11-4]: Fassung gemäss Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
-[^11-5]: Eingefügt durch Ziff. I der V des UVEK vom 30. Aug. 1999 ([AS 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^11-4]: Fassung gemäss Ziff. I der V des UVEK vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 741](https://fedlex.data.admin.ch/eli/oc/2021/741)).
+[^11-5]: Fassung gemäss Ziff. I der V des UVEK vom 25. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^11-6]: Eingefügt durch Ziff. I der V des UVEK vom 30. Aug. 1999 ([AS 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 12
 
@@ -437,9 +438,9 @@ Abweichend von den Absätzen 1, 2 und 4 können vom 10. Januar bis 31. März zum
 - c. Netzlänge höchstens 50 m;
 - d. Netzhöhe höchstens 2 m (im eingestellten Zustand).
 
-<sup>7</sup> ... [^14-10]
+<sup>7</sup> …[^14-10]
 
-<sup>7bis</sup> ...[^14-11]
+<sup>7bis</sup> …[^14-11]
 
 [^14-1]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^14-2]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).

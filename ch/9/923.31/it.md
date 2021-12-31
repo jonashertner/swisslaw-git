@@ -3,18 +3,18 @@ sr: "923.31"
 title: Ordinanza del DATEC del 9 ottobre 1997 concernente la pesca nel Lago Superiore di Costanza
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC concernente la pesca nel Lago Superiore di Costanza****
 
-del 9 ottobre 1997 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)[^t-1]
+del 9 ottobre 1997 (Stato 1° gennaio 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 ott. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
@@ -313,19 +313,20 @@ Per la rete flottante ancorata valgono le seguenti misure massime e minime:
 
 <sup>3</sup> I complessi di reti flottanti ancorate possono essere posati dalle ore 12.00 del 10 gennaio alle ore 12.00 del 30 aprile.[^11-3]
 
-<sup>4</sup> La loro levata di domenica e nei giorni festivi è vietata.
+<sup>4</sup> La loro levata di domenica è vietata.[^11-4]
 
 <sup>5</sup> Essi devono essere ancorati ad ambo le estremità; la distanza dagli altri complessi di reti flottanti ancorate e dai complessi di reti tese e dai complessi di reti per le trote deve essere di almeno 200 m.
 
-<sup>6</sup> Per ogni patente si possono impiegare simultaneamente cinque reti al massimo, che devono essere riunite al massimo in due complessi. Ogni singolo complesso di reti flottanti deve includere almeno due reti.[^11-4]
+<sup>6</sup> Per ogni patente si possono impiegare simultaneamente cinque reti al massimo, che devono essere riunite al massimo in due complessi. Ogni singolo complesso di reti flottanti deve includere almeno due reti.[^11-5]
 
-<sup>7</sup> In deroga all’articolo 11 capoverso 1 lettera a in un complesso di reti si possono impiegare due reti con una magliatura di almeno 38 mm e tre reti con una magliatura di almeno 40 mm dal 10 gennaio al 31 marzo e cinque reti con una magliatura di almeno 38 mm dal 1° aprile al 30 aprile.[^11-5]
+<sup>7</sup> In deroga all’articolo 11 capoverso 1 lettera a in un complesso di reti si possono impiegare due reti con una magliatura di almeno 38 mm e tre reti con una magliatura di almeno 40 mm dal 10 gennaio al 31 marzo e cinque reti con una magliatura di almeno 38 mm dal 1° aprile al 30 aprile.[^11-6]
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 [^11-2]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 [^11-3]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^11-4]: Nuovo testo giusta il n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
-[^11-5]: Introdotto dal n. I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^11-4]: Nuovo testo giusta il n. I dell’O del DATEC del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 741](https://fedlex.data.admin.ch/eli/oc/2021/741)).
+[^11-5]: Nuovo testo giusta il n. I dell’O del DATEC del 25 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^11-6]: Introdotto dal n. I dell’O del DATEC del 30 ago. 1999 ([RU 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 12
 

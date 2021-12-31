@@ -3,18 +3,18 @@ sr: "923.31"
 title: Ordonnance du DETEC du 9 octobre 1997 sur la pêche dans le lac Supérieur de Constance
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC sur la pêche dans le lac Supérieur de Constance****
 
-du 9 octobre 1997 (Etat le 1<sup>er</sup> janvier 2021)[^t-1]
+du 9 octobre 1997 (Etat le 1<sup>er</sup> janvier 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 oct. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
@@ -311,20 +311,21 @@ Les dimensions maximales et minimales suivantes sont applicables aux filets flot
 
 <sup>3</sup> Les coubles de filets flottants et ancrés peuvent être utilisées du 10 janvier à 12 heures au 30 avril à 12 heures.[^11-4]
 
-<sup>4</sup> Il est interdit de les relever le dimanche et les jours fériés.
+<sup>4</sup> Il est interdit de les relever le dimanche.[^11-5]
 
 <sup>5</sup> Elles doivent être ancrées aux deux extrémités; un espace d’au moins 200 m les séparera des autres coubles de filets flottants ancrés ainsi que des coubles de filets tendus et des coubles de filets à truites.
 
-<sup>6</sup> Le détenteur d’un permis de pêche peut utiliser au plus cinq filets à la fois, qui seront réunis au plus en deux coubles. Chaque couble doit comporter au moins deux filets.[^11-5]
+<sup>6</sup> Le détenteur d’un permis de pêche peut utiliser au plus cinq filets à la fois, qui seront réunis au plus en deux coubles. Chaque couble doit comporter au moins deux filets.[^11-6]
 
-<sup>7</sup> En dérogation à l’art. 11, al. 1, let. a, deux filets dont les mailles ont une ouverture d’au moins 38 mm et trois filets dont les mailles ont une ouverture d’au moins 40 mm peuvent être tendus du 10 janvier au 31 mars ainsi que cinq filets dont les mailles ont une ouverture d’au moins 38 mm du 1<sup>er</sup> au 30 avril.[^11-6]
+<sup>7</sup> En dérogation à l’art. 11, al. 1, let. a, deux filets dont les mailles ont une ouverture d’au moins 38 mm et trois filets dont les mailles ont une ouverture d’au moins 40 mm peuvent être tendus du 10 janvier au 31 mars ainsi que cinq filets dont les mailles ont une ouverture d’au moins 38 mm du 1<sup>er</sup> au 30 avril.[^11-7]
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 1<sup>er</sup> déc. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6859](https://fedlex.data.admin.ch/eli/oc/2009/840)).
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 6 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
 [^11-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^11-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 25 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
-[^11-6]: Introduit par le ch. I de l’O du DETEC du 30 août 1999 ([RO 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^11-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 741](https://fedlex.data.admin.ch/eli/oc/2021/741)).
+[^11-6]: Nouvelle teneur selon le ch. I de l’O du DETEC du 25 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4271](https://fedlex.data.admin.ch/eli/oc/2019/735)).
+[^11-7]: Introduit par le ch. I de l’O du DETEC du 30 août 1999 ([RO 1999 2221](https://fedlex.data.admin.ch/eli/oc/1999/352)). Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 12
 
