@@ -3,11 +3,11 @@ sr: "680.114"
 title: "Ordinanza del DFF del 15 settembre 2017 concernente gli ammanchi e le perdite di bevande distillate ammessi in franchigia d'imposta (Ordinanza concernente gli ammanchi di alcol)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/569"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/569/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-569-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/569/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/569/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-569-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/569/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/569/20180101/it"
 
 (Ordinanza concernente gli ammanchi di alcol)
 
-del 15 settembre 2017 (Stato 1° gennaio 2018)
+del 15 settembre 2017 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -24,7 +24,7 @@ visti gli articoli 41 capoverso 2 e 64 capoverso 4 dell’ordinanza del 15 sette
 
 ordina:
 
-[^ingress-1]: [RS 680.11](https://fedlex.data.admin.ch/eli/cc/2017/568)
+[^ingress-1]: [RS 680.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8316)
 
 #### Art. 1
 
@@ -49,7 +49,9 @@ La presente ordinanza stabilisce:
 
 **Superamento dei valori forfettari**
 
-Se a causa di particolari metodi di produzione o di immagazzinamento si può comprovare il superamento regolare dei valori forfettari, l’Amministrazione federale delle dogane può, su richiesta, concordare altri valori con la persona autorizzata.
+Se a causa di particolari metodi di produzione o di immagazzinamento si può comprovare il superamento regolare dei valori forfettari, l’Ufficio federale della dogana e della sicurezza dei confini[^3-1] può, su richiesta, concordare altri valori con la persona autorizzata.
+
+[^3-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 4
 
@@ -78,15 +80,14 @@ Allegato
 ## Ammanchi di bevande spiritose
 
 <table>
-<tr><td>Processo di produzione</td><td>Valore forfettario (in %)</td></tr>
-<tr><td>Produzione</td><td>**2**</td></tr>
+<tr><th>Processo di produzione</th><th>Valore forfettario (in %)</th></tr>
+<tr><td>Produzione</td><td>2</td></tr>
 <tr><td>Parametro: Quantità prodotta secondo il rapporto sulla produzione</td><td></td></tr>
-<tr><td>**Trasformazione:**</td><td></td></tr>
-<tr><td>**fabbricazione, distillazione, macerazione**</td><td>**5**</td></tr>
+<tr><td>Trasformazione: fabbricazione, distillazione, macerazione</td><td>5</td></tr>
 <tr><td>Parametro: quantità trasformata secondo il rapporto sulla trasformazione</td><td></td></tr>
-<tr><td>**Imbottigliamento in recipienti** per la vendita al minuto</td><td>2</td></tr>
+<tr><td>Imbottigliamento in recipienti per la vendita al minuto</td><td>2</td></tr>
 <tr><td>Parametro: quantità versata nei recipienti secondo il rapporto sull’imbottigliamento</td><td></td></tr>
-<tr><td>**Immagazzinamento**</td><td></td></tr>
+<tr><td>Immagazzinamento</td><td></td></tr>
 <tr><td>**Immagazzinamento in botti di legno**</td><td>**5**</td></tr>
 <tr><td>**Immagazzinamento di prodotto sfuso**</td><td>**1**</td></tr>
 <tr><td>Parametro: inventario annuo medio</td><td></td></tr>

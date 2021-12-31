@@ -3,11 +3,11 @@ sr: "680.114"
 title: Verordnung des EFD vom 15. September 2017 über die als steuerbefreit anerkannten Fehlmengen und Verluste von gebrannten Wassern (Alkoholfehlmengenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/569"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/569/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-569-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/569/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/569/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-569-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/569/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/569/20180101/de"
 
 (Alkoholfehlmengenverordnung)
 
-vom 15. September 2017 (Stand am 1. Januar 2018)
+vom 15. September 2017 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 41 Absatz 2 und 64 Absatz 4 der Alkoholverordnung vom 
 
 verordnet:
 
-[^ingress-1]: [SR 680.11](https://fedlex.data.admin.ch/eli/cc/2017/568)
+[^ingress-1]: [SR 680.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8316)
 
 #### Art. 1
 
@@ -49,7 +49,9 @@ Mit dieser Verordnung werden festgelegt:
 
 **Übersteigen der Pauschalen**
 
-Ist ein regelmässiges Übersteigen der Pauschalen aufgrund besonderer Produktions- oder Lagermethoden nachweisbar, so kann die Eidgenössische Zollverwaltung auf Gesuch mit der berechtigten Person davon abweichende Werte vereinbaren.
+Ist ein regelmässiges Übersteigen der Pauschalen aufgrund besonderer Produktions- oder Lagermethoden nachweisbar, so kann das Bundesamt für Zoll und Grenzsicherheit[^3-1] auf Gesuch mit der berechtigten Person davon abweichende Werte vereinbaren.
+
+[^3-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Oktober 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Januar 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 4
 
@@ -63,7 +65,7 @@ Die Fehlmengen und die Verluste sind bei der Berechnung der für die Besteuerung
 
 Die Verordnung vom 10. Juni 1997[^5-1] über die als steuerbefreit anerkannten Fehlmengen von gebrannten Wassern in Steuer- und Verschlusslagern wird aufgehoben.
 
-[^5-1]: [[AS 1997 1477](https://fedlex.data.admin.ch/eli/oc/1997/1477_1477_1477), [1999 1810](https://fedlex.data.admin.ch/eli/oc/1999/292)]
+[^5-1]: [[AS 1997 1477](https://fedlex.data.admin.ch/eli/oc/1997/1477_1477_1477); [1999 1810](https://fedlex.data.admin.ch/eli/oc/1999/292)]
 
 #### Art. 6
 
@@ -78,15 +80,14 @@ Anhang
 ## Fehlmengen bei Spirituosen
 
 <table>
-<tr><td>Produktionsvorgang</td><td>Pauschalwert (in Prozent)</td></tr>
-<tr><td>**Herstellung**</td><td>**2**</td></tr>
+<tr><th>Produktionsvorgang</th><th>Pauschalwert (in Prozent)</th></tr>
+<tr><td>Herstellung</td><td>2</td></tr>
 <tr><td>Grundlage: Hergestellte Menge gemäss Herstellungsrapport</td><td></td></tr>
-<tr><td>**Verarbeitung**</td><td></td></tr>
-<tr><td>**Fabrikation, Umbrand, Mazeration**</td><td>**5**</td></tr>
+<tr><td>Verarbeitung Fabrikation, Umbrand, Mazeration</td><td>5</td></tr>
 <tr><td>Grundlage: Verarbeitete Menge gemäss Veredelungsrapport</td><td></td></tr>
-<tr><td>**Abfüllung** in Kleinverkaufsbehältnisse</td><td>2</td></tr>
+<tr><td>Abfüllung in Kleinverkaufsbehältnisse</td><td>**2**</td></tr>
 <tr><td>Grundlage: Zur Abfüllung eingesetzte Menge gemäss Abfüllrapport</td><td></td></tr>
-<tr><td>**Lagerung**</td><td></td></tr>
+<tr><td>Lagerung</td><td></td></tr>
 <tr><td>**Holzfasslagerung**</td><td>**5**</td></tr>
 <tr><td>**Lagerung von Offenware**</td><td>**1**</td></tr>
 <tr><td>Grundlage: durchschnittlicher jährlicher Lagerbestand</td><td></td></tr>
