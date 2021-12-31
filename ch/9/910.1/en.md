@@ -4,11 +4,11 @@ title: "Federal Act of 29 April 1998 on Agriculture (Agriculture Act, AgricA)"
 short: AgricA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Agriculture Act, AgricA)
 
-of 29 April 1998 (Status as of 1 January 2021)
+of 29 April 1998 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on Articles 45, 46 paragraph 1, 102–104, 120, 123 and 147 of the Federal Constitution,[^ingress-1]<sup>,</sup>[^ingress-2]
+based on Articles 45, 46 paragraph 1, 102–104, 120, 123 and 147 of the Federal Constitution[^ingress-1],[^ingress-2]
 
 and having considered the Federal Council Dispatch dated 26 June 1996[^ingress-3],
 
@@ -433,7 +433,7 @@ Unless this Act provides otherwise, responsibility and procedures for setting cu
 
 <sup>6</sup> Insofar as the sale of similar domestic products does not come under threat, the EAER may set the customs duty rate lower than indicated in paragraph 5.
 
-<sup>7</sup> The customs duty rates may not entail any elements of protection vis-à-vis industry.[^20-6]
+<sup>7</sup> The customs duty rates may not entail any elements of protection *vis-à-vis* industry.[^20-6]
 
 [^20-1]: Amended by No III of the FA of 24 March 2000 on the Repeal of the Grain Act, in force since 1 July 2001 ([AS 2001 1539](https://fedlex.data.admin.ch/eli/oc/2001/227); [BBl 1999 9261](https://fedlex.data.admin.ch/eli/fga/1999/1_9261_8599_8173)).
 [^20-2]: Second sentence amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
@@ -937,19 +937,19 @@ The cantonal authorities keep a register of vineyards that includes any special 
 
 Wines are divided into the following classes:
 
-- a. wines with appellation contrôlée;
+- a. wines with *appellation contrôlée*;
 - b. domestic wines;
 - c. table wines.
 
-<sup>2</sup> The Federal Council shall draw up a list of the criteria governing the classification of wines with appellation contrôlée and domestic wines. It may stipulate a minimum level of natural sugar content and a maximum yield per unit of land area, taking into account the production conditions specific to a given area.
+<sup>2</sup> The Federal Council shall draw up a list of the criteria governing the classification of wines with *appellation contrôlée* and domestic wines. It may stipulate a minimum level of natural sugar content and a maximum yield per unit of land area, taking into account the production conditions specific to a given area.
 
-<sup>3</sup> Otherwise, the cantonal authorities shall set out the requirements for each criterion with regard to wines with appellation contrôlée and domestic wines produced within their borders and under their own traditional designation.
+<sup>3</sup> Otherwise, the cantonal authorities shall set out the requirements for each criterion with regard to wines with *appellation contrôlée* and domestic wines produced within their borders and under their own traditional designation.
 
 <sup>4</sup> The Federal Council shall stipulate the requirements concerning domestic wines that are sold without a traditional designation and for table wines. It may define the terms relating specifically to wine, in particular traditional terms, and stipulate their use.
 
 <sup>5</sup> It shall draw up regulations for the declassification of wines that do not meet the minimum requirements.
 
-<sup>6</sup> The terms of Article 16 paragraphs 6, 6<sup>bis</sup>, 7 and 16*b* apply to the labelling of wines with appellation contrôlée and of other wines with geographical indications.
+<sup>6</sup> The terms of Article 16 paragraphs 6, 6<sup>bis</sup>, 7 and 16*b* apply to the labelling of wines with *appellation contrôlée* and of other wines with geographical indications.
 
 [^63-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
@@ -1421,7 +1421,7 @@ The Federal Council may set the labour limit lower than that stated in paragraph
 
 **Neutrality in relation to competition**[^89a-1]
 
-<sup>1</sup> The project must be designed so as not to compromise neutrality in relation to competition vis-à-vis the traders in the relevant catchment area who are directly affected.
+<sup>1</sup> The project must be designed so as not to compromise neutrality in relation to competition *vis-à-vis* the traders in the relevant catchment area who are directly affected.
 
 <sup>2</sup> Before the project is approved, the cantonal authorities decide whether it is neutral in relation to competition.
 
@@ -1692,7 +1692,7 @@ Tenant farmers receive investment loans:
 
 - a. as one-time start-up support for young farmers;
 - b. for the purchase of farms from third parties;
-- c. for the construction, conversion and improvement of residential and farm buildings on condition that the right to erect or own a building on the land in question can be demonstrated, or if the tenancy agreement is entered in the land register for the fixed duration of the loan according to Article 290 of the Swiss Code of Obligations[^106-4]and the land owner pledges the object of the tenancy agreement as security for the loan;
+- c. for the construction, conversion and improvement of residential and farm buildings on condition that the right to erect or own a building on the land in question can be demonstrated, or if the tenancy agreement is entered in the land register for the fixed duration of the loan according to Article 290 of the Swiss Code of Obligations[^106-4] and the land owner pledges the object of the tenancy agreement as security for the loan;
 - d.[^106-5] for measures aimed at diversifying activities in the agricultural and closely associated sectors in order to provide potential sources of additional income, insofar as the conditions set out under letter c are met;
 - e.[^106-6] for measures aimed at improving the production of special crops and adapting them to the market as well as for the renewal of long-term crops insofar as the conditions under letter c are met.
 
@@ -1885,7 +1885,7 @@ The agricultural research stations have assigned the following tasks in particul
 
 [^tit6-chap2a-1]
 
-[^tit6-chap2a-1]: Previously Section 4 of Chapter 2. Amended by Annex No II 5 of the FA of 13 Dec. 2002 on Vocational and Professional Education and Training, in force since 1 Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+[^tit6-chap2a-1]: Previously Section 4 of Chap. 2. Amended by Annex No II 5 of the FA of 13 Dec. 2002 on Vocational and Professional Education and Training, in force since 1 Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
 #### Art. 136
 
@@ -1941,7 +1941,7 @@ The Confederation may promote the breeding of commercial plants which:
 It may provide subsidies for private plant breeders and specialised organisations that provide services for the general good, namely for:
 
 - a. breeding, maintaining the purity of and improving varieties;
-- b. experimental cultivation.
+- b. experimental cultivation;
 - c.[^140-1] …
 
 <sup>3</sup> It may subsidise the production of seeds and seedlings.
@@ -1975,7 +1975,7 @@ The Confederation may promote the breeding of livestock which:
 The Confederation may provide subsidies to recognised organisations, in particular for:
 
 - a. keeping stud-books, testing performance and assessing breeding value;
-- b. programmes aimed at promoting performance and quality as well as at improving the quality and health of livestock.
+- b. programmes aimed at promoting performance and quality as well as at improving the quality and health of livestock;
 - c.[^142-1] …
 
 <sup>2</sup> No subsidies are paid for breeding transgenic animals.
@@ -2090,7 +2090,7 @@ Insofar as international commitments exist, the Federal Council shall regulate a
 
 If the scientific information is insufficient to fully assess the risks pertaining to aids to production or plant material that may carry particularly dangerous harmful organisms, preventive measures may be taken if:
 
-- a. it is suspected that the aids to production or plant material may have undesirable side-effects on the health of humans, animals, plants or the environment and
+- a. it is suspected that the aids to production or plant material may have undesirable side-effects on the health of humans, animals, plants or the environment; and
 - b. it is highly likely that such side-effects will occur or that the consequences thereof could be far-reaching.
 
 <sup>2</sup> Preventive measures must be re-examined and modified within an appropriate time-frame in accordance with the latest scientific findings.
@@ -2106,7 +2106,7 @@ With regard to preventive measures, the Federal Council may in particular:
 
 [^tit7-chap3-1]
 
-[^tit7-chap3-1]: Originally Chapter 1.
+[^tit7-chap3-1]: Originally Chap. 1.
 
 ### Section 1 Basic Principles
 
@@ -2214,7 +2214,7 @@ The definitive amount of the compensation shall be set through the simplest proc
 
 [^tit7-chap4-1]
 
-[^tit7-chap4-1]: Originally Chapter 2. Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
+[^tit7-chap4-1]: Originally Chap. 2. Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
 #### Art. 158
 
@@ -2386,7 +2386,7 @@ The FOAG may make the data available for downloading by the following agencies o
 - f. third parties that have been delegated tasks relating to the implementation of legislation on agriculture under the terms of articles 43 and 180;
 - g. third parties authorised by the farmer.
 
-[^165c-1]: The name of this administrative unit was changed on 1 Jan. 2014 by Art. 16 para. 3 of the Publications Ordinance of 17 November 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This change has been made throughout the text.
+[^165c-1]: The name of this administrative unit was changed on 1 Jan. 2014 by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This change has been made throughout the text.
 [^165c-2]: Relates to the previous Food Safety Division at the FOPH, which became part of the FSVO on 1 Jan. 2014.
 
 #### Art. 165d
@@ -2481,7 +2481,9 @@ The Federal Council shall draw up regulations regarding the information system a
 
 - [tab] <sup>1</sup> The data in the animal movements database pursuant to Article 45*b* of the Epizootic Diseases Act of 1 July 1966[^165gbis-2] (EzDA) may be processed in order to implement agricultural measures. The Federal Council shall regulate which data may be processed.
 
-[^165gbis-1]: Inserted by No II of the FA of 19 June 2020, in force since 1 Jan. 2021, para. 2 comes into force at a later date ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+<sup>2</sup> The Federal Council may delegate tasks related to the implementation of agricultural measures to Identitas AG (Art. 7*a* EzDA). The Federal Council shall regulate the delegation of tasks, the bearing of costs and the processing of data.
+
+[^165gbis-1]: Inserted by No II of the FA of 19 June 2020, in force since 1 Jan. 2021, para. 2 comes into force 1 Jan. 2022 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 [^165gbis-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 ### Chapter 4 Intellectual Property
@@ -2649,7 +2651,7 @@ Unless the offence carries a more severe penalty under a different provision, a 
 
 <sup>3</sup>
 
-Unless the offence carries a more severe a person who wilfully commits any of the following acts shall be liable to a fine not exceeding. 5,000 francs:
+Unless the offence carries a more severe a person who wilfully commits any of the following acts shall be liable to a fine not exceeding 5,000 francs:
 
 - a.[^173-15] …
 - b. fails to comply with a provision on implementation whose contravention is declared to be an offence.
@@ -2690,10 +2692,10 @@ If the offence has been committed by a legal entity or a group of persons, Artic
 
 <sup>2</sup> Any person who breaches the regulations on importing, exporting or transiting goods shall be prosecuted and be liable to the penalties under the legislation on customs tariffs. The authorities may not proceed with a prosecution in particularly minor cases of violation concerning the use of import quotas for agricultural products.[^175-1]
 
-<sup>3</sup> If an act simultaneously constitutes an offence under paragraph 2 and an offence prosecuted by the Federal Customs Administration, the penalty for the more serious offence applies; the penalty may be raised accordingly.[^175-2]
+<sup>3</sup> If an act simultaneously constitutes an offence under paragraph 2 and an offence prosecuted by the Federal Office for Customs and Border Security, the penalty for the more serious offence applies; the penalty may be raised accordingly.[^175-2]
 
 [^175-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^175-2]: Inserted by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^175-2]: Inserted by No I of the FA of 22 March 2013 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). Amended by No I 33 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 176
 
@@ -2713,7 +2715,9 @@ Articles 37–39 of the Federal Subsidies Act of 5 October 1990[^176-1] on contr
 
 <sup>1</sup> The Federal Council shall draw up the required provisions for implementation insofar as responsibility is not assigned by law to another agency.
 
-<sup>2</sup> It may delegate the task of drawing up regulations that are predominantly technical or administrative to the EAER or to one of its departments or to subordinate federal agencies.
+<sup>2</sup> It may delegate the task of drawing up regulations that are predominantly technical or administrative to the EAER und, in connection with plant protection substances, to the Federal Department of Home Affairs or its agencies, or to subordinate federal offices.[^177-1]
+
+[^177-1]: Amended by No I of the O of 17 Nov. 2021 on the Amendment of the Agriculture Act as a consequence of the Reorganisation of the Approval Procedure for Plant Protection Substances, in force since 1 Jan. 2022 ([AS 2021 759](https://fedlex.data.admin.ch/eli/oc/2021/759)).
 
 #### Art. 177a
 
@@ -2831,7 +2835,7 @@ The Federal Council shall set up a central office to investigate infringements c
 - c. declaration of origin and production methods.
 
 [^182-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^182-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Annex No I]. See now: FA of 20 June 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^182-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Annex No I]. See now: FA of 20 June 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^182-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^182-4]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
@@ -2977,10 +2981,10 @@ When drawing up the aims and strategies mentioned in paragraph 2, the following 
 
 <sup>3</sup> Articles 40–42 apply until 31 December 2008.[^188-1]
 
-Commencement date:[^188-2] 1 Jan. 1999 Articles 28–45 and Annex letters l–n: 1 May 1999 Article 160 paragraph 7 and Annex No 7: 1 Aug. 1999
+Commencement date:[^188-2] 1 Jananuary 1999 Articles 28–45 and Annex letters l–n: 1 May 1999 Article 160 paragraph 7 and Annex No 7: 1 August 1999
 
 [^188-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
-[^188-2]: Federal Council Decree of 7 Dec. 1998.
+[^188-2]: FCD of 7 Dec. 1998.
 
 Annex
 
@@ -3007,10 +3011,10 @@ The following are repealed:
 
 [^annexu1-lvlu1-lvlu1-1]: [BS **4** 1056]
 [^annexu1-lvlu1-lvlu1-2]: [BS **4** 1002]
-[^annexu1-lvlu1-lvlu1-3]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1962 1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14, [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)Final and Transitional Provisions X. Tit. art. 6 No 7, **1974** 763, **1977** 2249 No I 921 942 931, 942, **1979** 2058, **1982** 1676 Annex No 6, **1988** 640, **1989** 504 art. 33 letter c, **1991** 362 No II 51 857 Annex No 25 2611, **1992** 1860 art. 75 No 5 1986 art. 36 para. 1, **1993** 1410 art. 92 No 4 1571 2080 Annex No 11, **1994** 28, **1995** 1469 art. 59 1837 3517 No I 2, **1996** 2588 Annex No 2, **1997** 1187 1190, **1998** 1822 art. 15 No 3]
+[^annexu1-lvlu1-lvlu1-3]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1962 1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14; [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)Final and Transitional Provisions X. Tit. art. 6 No 7; **1974** 763; **1977** 2249 No I, 921, 942, 931; **1979** 2058; **1982** 1676 Annex No 6; **1988** 640; **1989** 504 art. 33 letter c; **1991** 362 No II 51, 857 Annex No 25, 2611; **1992** 1860 art. 75 No 5, 1986 art. 36 para. 1; **1993** 1410 art. 92 No 4, 1571, 2080 Annex No 11; **1994** 28; **1995** 1469 art. 59, 1837, 3517 No I 2; **1996** 2588 Annex No 2; **1997** 1187, 1190; **1998** 1822 art. 15 No 3]
 [^annexu1-lvlu1-lvlu1-4]: [[AS 1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 26, [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)No II 1, [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)No II 1]
 [^annexu1-lvlu1-lvlu1-5]: [[AS 1952 561](https://fedlex.data.admin.ch/eli/oc/1952/561_581_585)]
-[^annexu1-lvlu1-lvlu1-6]: [[AS 1962 1273](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323), [1972 2699](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 52 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 27, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 47 [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)]
+[^annexu1-lvlu1-lvlu1-6]: [[AS 1962 1273](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323); [1972 2699](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 52, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 27; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 47 [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)]
 [^annexu1-lvlu1-lvlu1-7]: [[AS 1989 1904](https://fedlex.data.admin.ch/eli/oc/1989/1904_1904_1904), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 50, [1995 1988](https://fedlex.data.admin.ch/eli/oc/1995/1988_1988_1988)]
 [^annexu1-lvlu1-lvlu1-8]: [[AS 1992 1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986), [1997 1216](https://fedlex.data.admin.ch/eli/oc/1997/1216_1216_1216)]
 [^annexu1-lvlu1-lvlu1-9]: [[AS 1962 1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 941, [1978 1407](https://fedlex.data.admin.ch/eli/oc/1978/1407_1407_1407), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 29, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 52, [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)No 13]
@@ -3022,6 +3026,6 @@ The following are repealed:
 
 ### Amendment of Current Legislation
 
-…[^annexu1-lvlu1-lvlu2-1]
+...[^annexu1-lvlu1-lvlu2-1]
 
 [^annexu1-lvlu1-lvlu2-1]: The amendments may be consulted under [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033).

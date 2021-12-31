@@ -4,11 +4,11 @@ title: "Loi fédérale du 29 avril 1998 sur l'agriculture (Loi sur l'agriculture
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20210101/fr"
 
 (Loi sur l’agriculture, LAgr)
 
-du 29 avril 1998 (Etat le 1<sup>er</sup> janvier 2021)
+du 29 avril 1998 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2452,6 +2452,8 @@ Dans le cadre de leurs tâches légales, les services et les personnes suivants 
 
 **Dispositions d’exécution**
 
+**Art. 165***g*<sup>bis</sup> [^165g-1] Système d’information sur les données animales
+
 Le Conseil fédéral règle en particulier, pour les systèmes d’information visés aux art. 165*c* à 165*f*:
 
 - a. la forme du relevé et les délais de livraison des données;
@@ -2463,16 +2465,12 @@ Le Conseil fédéral règle en particulier, pour les systèmes d’information v
 - g. les délais de conservation et de destruction;
 - h. l’archivage.
 
-#### Art. 165g<sup>bis</sup>
+<sup>1</sup> Les données de la banque de données sur le trafic des animaux visée à l’art. 45*b* de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)[^165g-2] peuvent être traitées pour l’exécution de mesures de politique agricole. Le Conseil fédéral détermine les données qui peuvent être traitées.
 
-**Système d’information sur les données animales**[^165gbis-1]
+<sup>2</sup> Le Conseil fédéral peut déléguer des tâches liées à l’exécution de mesures de politique agricole à Identitas SA (art. 7*a* LFE). Il règle la délégation des tâches, la prise en charge des coûts et le traitement des données.
 
-<sup>1</sup> Les données de la banque de données sur le trafic des animaux visée à l’art. 45*b* de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)[^165gbis-2] peuvent être traitées pour l’exécution de mesures de politique agricole. Le Conseil fédéral détermine les données qui peuvent être traitées.
-
-<sup>2</sup> ...
-
-[^165gbis-1]: Introduit par le ch. II de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, al. 2 entre en vigueur ultérieurement ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^165gbis-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^165g-1]: Introduit par le ch. II de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, al. 2 en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^165g-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 ### Chapitre 4 Propriété intellectuelle
 
@@ -2682,10 +2680,10 @@ Lorsque l’infraction est commise par une personne morale ou par une communaut�
 
 <sup>2</sup> Celui qui viole les prescriptions relatives à l’importation, à l’exportation et au transit des marchandises est poursuivi et puni conformément à la législation douanière. Dans les cas de fraude de très peu de gravité qui concernent l’administration des contingents d’importation de produits agricoles, il peut être renoncé à une procédure pénale.[^175-1]
 
-<sup>3</sup> Si une action constitue aussi bien une infraction au sens de l’al. 2 qu’une infraction dont la poursuite pénale relève de l’Administration fédérale des douanes, la peine prévue pour le délit le plus grave est prononcée; elle peut être augmentée de manière appropriée.[^175-2]
+<sup>3</sup> Si une action constitue aussi bien une infraction au sens de l’al. 2 qu’une infraction dont la poursuite pénale relève de l’Office fédéral de la douane et de la sécurité des frontières, la peine prévue pour le délit le plus grave est prononcée; elle peut être augmentée de manière appropriée.[^175-2]
 
 [^175-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4395](https://fedlex.data.admin.ch/eli/fga/2002/775)[6735](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^175-2]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^175-2]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)). Nouvelle teneur selon le ch. I 33 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 176
 
@@ -2705,7 +2703,9 @@ Les art. 37 à 39 de la loi du 5 octobre 1990 sur les subventions[^176-1] concer
 
 <sup>1</sup> Le Conseil fédéral arrête les dispositions d’exécution nécessaires, à moins que la loi ne réglemente autrement cette compétence.
 
-<sup>2</sup> Il peut déléguer la tâche d’édicter des dispositions dont le caractère est avant tout technique ou administratif au DEFR ou à ses services et à des offices qui lui sont subordonnés.
+<sup>2</sup> Il peut déléguer la tâche d’édicter des dispositions dont le caractère est avant tout technique ou administratif au DEFR et, dans le domaine de l’homologation des produits phytosanitaires, au Département fédéral de l’intérieur ou à leurs services et à des offices qui leur sont subordonnés.[^177-1]
+
+[^177-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021 relative à l’adaptation de la loi sur l’agriculture suite à la réorganisation de la procédure d’homologation des produits phytosanitaires, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 759](https://fedlex.data.admin.ch/eli/oc/2021/759)).
 
 #### Art. 177a
 

@@ -4,11 +4,11 @@ title: "Legge federale del 29 aprile 1998 sull'agricoltura (Legge sull'agricoltu
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20210101/it"
 
 (Legge sull’agricoltura, LAgr)
 
-del 29 aprile 1998 (Stato 1° gennaio 2021)
+del 29 aprile 1998 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -341,9 +341,9 @@ Le denominazioni d’origine e le indicazioni geografiche registrate sono protet
 - a. qualsiasi uso commerciale per altri prodotti che sfrutti la reputazione delle designazioni protette;
 - b. qualsiasi usurpazione, imitazione o contraffazione.
 
-[^16-1]: Introdotto dell’all. n. 7 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^16-1]: Introdotto dall’all. n. 7 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^16-2]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^16-3]: Introdotto dell’all. n. 7 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^16-3]: Introdotto dall’all. n. 7 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^16-4]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
 [^16-5]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 [^16-6]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
@@ -520,7 +520,7 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 <sup>2</sup> Se l’importo massimo dei contributi viene ridotto in virtù di accordi internazionali, la riduzione avviene nella stessa proporzione dei dazi. In casi giustificati, sono ammesse deroghe a tale norma.
 
-### Sezione 4: …
+### Sezione 4: ...
 
 #### Art. 26
 
@@ -578,7 +578,7 @@ Il capoverso 2 non si applica riguardo alle clausole di salvaguardia previste da
 
 #### Art. 28
 
-**…[^28-1]**
+**...[^28-1]**
 
 <sup>1</sup> Il presente capitolo si applica al latte di mucca.
 
@@ -1474,7 +1474,7 @@ Nell’ambito dei crediti stanziati la Confederazione accorda contributi per:
 - d.[^93-2] costruzioni di piccole aziende commerciali nella regione di montagna che trasformano e commercializzano prodotti agricoli con conseguente creazione di valore aggiunto; le aziende devono comprendere almeno il primo livello di trasformazione;
 - e.[^93-3] iniziative collettive di produttori volte a ridurre i costi di produzione.
 
-<sup>2</sup> …[^93-4]
+<sup>2</sup> ...[^93-4]
 
 <sup>3</sup> L’assegnazione di un contributo federale presuppone un contributo adeguato del Cantone, incluso quello dei suoi enti locali di diritto pubblico.
 
@@ -1866,13 +1866,13 @@ Le stazioni di ricerca agronomica hanno segnatamente i seguenti compiti:[^115-2]
 
 [^117-1]: Nuovo testo giusta il n. I 6.5 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
-### Capitolo 2: …
+### Capitolo 2: ...
 
 #### Art. 118 a 135
 
 [^118135-1]
 
-[^118135-1]: Abrogati dall’all. n. II 5 della alla LF del 13 dic. 2002 sulla formazione professionale, con effetto dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+[^118135-1]: Abrogati dall’all. n. II 5 della LF del 13 dic. 2002 sulla formazione professionale, con effetto dal 1° gen. 2004 ([RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [FF 2000 4957](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
 ### Capitolo 2*a*:**** Consulenza
 
@@ -1981,7 +1981,7 @@ La Confederazione può versare contributi a organizzazioni riconosciute, segnata
 
 I contributi sono accordati se:
 
-- a.[^143-1] …
+- a.[^143-1] ...
 - b. gli allevatori prendono le misure di solidarietà che si possono ragionevolmente esigere da loro e partecipano finanziariamente ai provvedimenti di promozione; e
 - c. i provvedimenti promossi corrispondono alle norme internazionali.
 
@@ -2029,7 +2029,7 @@ Il Consiglio federale può emanare prescrizioni in merito all’allevamento, all
 
 [^147-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^147-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^147-3]: Introdotto dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abrogato dell’all. n. 5 della LF del 18 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^147-3]: Introdotto dal n. I della LF del 22 giu. 2007 ([RU 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [FF 2006 5815](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abrogato dall’all. n. 5 della LF del 18 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
 ### Sezione 3:**** Risorse genetiche per l’agricoltura e l’alimentazione
 
@@ -2472,9 +2472,9 @@ Per i sistemi d’informazione di cui agli articoli 165*c*–165*f*, il Consigli
 
 <sup>1</sup> I dati della banca dati sul traffico di animali di cui all’articolo 45*b* della legge del 1° luglio 1966[^165gbis-2] sulle epizoozie (LFE) possono essere trattati ai fini dell’esecuzione di misure di politica agricola. Il Consiglio federale disciplina quali dati possono essere trattati.
 
-<sup>2</sup> ...
+<sup>2</sup> Il Consiglio federale può delegare a Identitas SA (art. 7*a* LFE) compiti riguardanti l’esecuzione di misure di politica agricola. Esso disciplina la delega di compiti, l’assunzione dei costi e il trattamento dei dati.
 
-[^165gbis-1]: Introdotto dal n. II della LF del 19 giu. 2020, in vigore dal 1° gen. 2021, il cpv. 2 entra in vigore in un secondo tempo ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^165gbis-1]: Introdotto dal n. II della LF del 19 giu. 2020, in vigore dal 1° gen. 2021, cpv. 2 dal 1° gen. 2022 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 [^165gbis-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 ### Capitolo 4: Proprietà intellettuale
@@ -2508,7 +2508,7 @@ Per i sistemi d’informazione di cui agli articoli 165*c*–165*f*, il Consigli
 <sup>4</sup> Le autorità cantonali notificano le loro decisioni sollecitamente e gratuitamente all’ufficio federale competente. Il Consiglio federale può prevedere eccezioni.
 
 [^166-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^166-2]: Introdotto dall’all. n. II 4 della L del 15 dic. 2000 sui prodotti chimici ([RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [FF 2000 590](https://fedlex.data.admin.ch/eli/fga/2000/195)). Nuovo testo giusta l’all. n. 125 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^166-2]: Introdotto dall’all. n. II 4 della L del 15 dic. 2000 sui prodotti chimici ([RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724); [FF 2000 590](https://fedlex.data.admin.ch/eli/fga/2000/195)**)**. Nuovo testo giusta l’all. n. 125 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 167
 
@@ -2644,7 +2644,7 @@ Per quanto un’altra disposizione non commini una pena più severa, è punito c
 
 Per quanto un’altra disposizione non commini una pena più severa, è punito con la multa sino a 5000 franchi chiunque intenzionalmente:
 
-- a.[^173-15] …
+- a.[^173-15] ...
 - b. viola una disposizione d’esecuzione, la cui infrazione è stata dichiarata passibile di pena.
 
 <sup>4</sup> Il tentativo e la complicità sono punibili.
@@ -2683,10 +2683,10 @@ Se l’infrazione è commessa da una persona giuridica o da una comunità di per
 
 <sup>2</sup> Chi viola le prescrizioni concernenti le importazioni, le esportazioni o il transito è perseguito e punito in base alla legislazione in materia doganale. Nei casi di infrazione di esigua gravità nella gestione dei contingenti d’importazione di prodotti agricoli si può prescindere dal perseguimento penale.[^175-1]
 
-<sup>3</sup> Se un atto costituisce contemporaneamente un’infrazione ai sensi del capoverso 2 e un’infrazione il cui perseguimento incombe all’Amministrazione federale delle dogane, si applica la pena prevista per l’infrazione più grave; tale pena può essere adeguatamente aumentata.[^175-2]
+<sup>3</sup> Se un atto costituisce contemporaneamente un’infrazione ai sensi del capoverso 2 e un’infrazione il cui perseguimento incombe all’Ufficio federale della dogana e della sicurezza dei confini, si applica la pena prevista per l’infrazione più grave; tale pena può essere adeguatamente aumentata.[^175-2]
 
 [^175-1]: Nuovo testo giusta il n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^175-2]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^175-2]: Introdotto dal n. I della LF del 22 mar. 2013 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)). Nuovo testo giusta il n. I 33 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 176
 
@@ -2706,7 +2706,9 @@ Gli articoli 37 a 39 della legge sui sussidi del 5 ottobre 1990[^176-1] concerne
 
 <sup>1</sup> Il Consiglio federale emana le necessarie disposizioni d’esecuzione, a meno che la legge non disciplini altrimenti la competenza.
 
-<sup>2</sup> Può delegare al DEFR oppure ai servizi o uffici federali a esso subordinati il compito di emanare prescrizioni di natura prevalentemente tecnica o amministrativa.
+<sup>2</sup> Può delegare lʼemanazione di prescrizioni di natura prevalentemente tecnica o amministrativa al DEFR e, nel settore dell’omologazione di prodotti fitosanitari, al Dipartimento federale dellʼinterno o ai suoi servizi, nonché a uffici federali subordinati.[^177-1]
+
+[^177-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 759](https://fedlex.data.admin.ch/eli/oc/2021/759)).
 
 #### Art. 177a
 
@@ -2742,7 +2744,7 @@ L’UFAG, le sue stazioni federali sperimentali e di ricerca (art. 114) come pur
 
 <sup>2</sup> Le prestazioni commerciali sono fornite sulla base di una contabilità analitica, a prezzi che consentano almeno di coprire i costi. Il DEFR può concedere deroghe per singole prestazioni, a condizione di non entrare in tal modo in concorrenza con l’economia privata.
 
-[^177b-1]: Introdotto dell’all. n. 5 della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^177b-1]: Introdotto dall’all. n. 5 della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
 #### Art. 178
 
@@ -2920,7 +2922,7 @@ Il Consiglio federale istituisce una commissione consultiva permanente di 15 mem
 
 <sup>6</sup> e <sup>7</sup> ...[^187b-4]
 
-<sup>8</sup> …[^187b-5]
+<sup>8</sup> ...[^187b-5]
 
 [^187b-1]: Introdotto dal n. I della LF del 20 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [FF 2002 4208](https://fedlex.data.admin.ch/eli/fga/2002/775)[6458](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 [^187b-2]: Abrogati dal n. I della LF del 22 mar. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).

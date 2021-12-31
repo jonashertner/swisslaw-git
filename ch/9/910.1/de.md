@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 29. April 1998 über die Landwirtschaft (Landwirtschaft
 short: LwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20210101/de"
 
 (Landwirtschaftsgesetz, LwG)
 
-vom 29. April 1998 (Stand am 1. Januar 2021)
+vom 29. April 1998 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -524,7 +524,7 @@ Absatz 2 gilt nicht für die Anwendung von Schutzklauseln in internationalen Abk
 
 <sup>2</sup> Wird die maximal zulässige Höhe der Beiträge aufgrund internationaler Abkommen reduziert, so erfolgt der Abbau dieser Beiträge im gleichen Verhältnis wie die Zölle. In begründeten Fällen kann von dieser Regel abgewichen werden.
 
-### 4. Abschnitt: ...
+### 4. Abschnitt: …
 
 #### Art. 26
 
@@ -582,7 +582,7 @@ Absatz 2 gilt nicht für die Anwendung von Schutzklauseln in internationalen Abk
 
 #### Art. 28
 
-**...[^28-1]**
+**…[^28-1]**
 
 <sup>1</sup> Dieses Kapitel gilt für Kuhmilch.
 
@@ -597,7 +597,7 @@ Absatz 2 gilt nicht für die Anwendung von Schutzklauseln in internationalen Abk
 
 [^29-1]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 30–36
 
@@ -692,7 +692,7 @@ Der Milchverwerter meldet der vom Bundesrat bezeichneten Stelle:
 
 <sup>2</sup> Produzenten und Produzentinnen, die Milch und Milchprodukte direkt vermarkten, melden die produzierte und die direkt vermarktete Menge.
 
-<sup>3</sup> ...[^43-1]
+<sup>3</sup> …[^43-1]
 
 [^43-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Aufgehoben durch Ziff. I des BG vom 22. März 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -1373,7 +1373,7 @@ Der Bund gewährt Beiträge und Investitionskredite, um:
 - d. zur Verwirklichung ökologischer, tierschützerischer und raumplanerischer Ziele beizutragen;
 - e. den naturnahen Rückbau von Kleingewässern zu fördern.
 
-<sup>2</sup> ...[^87-1]
+<sup>2</sup> …[^87-1]
 
 [^87-1]: Aufgehoben durch Ziff. I des BG vom 22. März 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -1477,7 +1477,7 @@ Der Bund gewährt im Rahmen der bewilligten Kredite Beiträge für:
 - d.[^93-2] Bauten gewerblicher Kleinbetriebe im Berggebiet, sofern sie landwirtschaftliche Produkte verarbeiten und vermarkten und dadurch deren Wertschöpfung erhöhen; die Betriebe müssen mindestens die erste Verarbeitungsstufe umfassen;
 - e.[^93-3] gemeinschaftliche Initiativen von Produzenten und Produzentinnen zur Senkung der Produktionskosten.
 
-<sup>2</sup> ...[^93-4]
+<sup>2</sup> …[^93-4]
 
 <sup>3</sup> Die Gewährung eines Bundesbeitrages setzt die Leistung eines angemessenen Beitrages des Kantons einschliesslich seiner öffentlich-rechtlichen Gebietskörperschaften voraus.
 
@@ -1842,7 +1842,7 @@ Die landwirtschaftlichen Forschungsanstalten haben insbesondere folgende Aufgabe
 - e. Sie liefern Grundlagen für umwelt- und tiergerechte Produktionsformen.
 - f. Sie erfüllen Vollzugsaufgaben.
 
-<sup>2</sup> ...[^115-3]
+<sup>2</sup> …[^115-3]
 
 [^115-1]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^115-2]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
@@ -1869,7 +1869,7 @@ Die landwirtschaftlichen Forschungsanstalten haben insbesondere folgende Aufgabe
 
 [^117-1]: Fassung gemäss Ziff. I 6.5 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
-### 2. Kapitel: ...
+### 2. Kapitel: …
 
 #### Art. 118–135
 
@@ -1938,7 +1938,7 @@ Er kann privaten Züchtungsbetrieben und Fachorganisationen, die Leistungen im �
 
 - a. Züchtung, Reinhaltung und Verbesserung von Sorten;
 - b. Anbauversuche;
-- c.[^140-1] ...
+- c.[^140-1] …
 
 <sup>3</sup> Er kann die Produktion von Saat- und Pflanzengut mit Beiträgen unterstützen.
 
@@ -1972,7 +1972,7 @@ Der Bund kann anerkannten Organisationen Beiträge ausrichten, insbesondere für
 
 - a. die Führung von Zucht- und Herdebüchern, die Leistungsprüfungen und die Zuchtwertschätzung;
 - b. Programme zur Leistungs- und Qualitätsförderung sowie zur Sanierung und Gesunderhaltung von Tierbeständen;
-- c.[^142-1] ...
+- c.[^142-1] …
 
 <sup>2</sup> Die Zucht von transgenen Tieren ist von Beiträgen ausgeschlossen.
 
@@ -1984,7 +1984,7 @@ Der Bund kann anerkannten Organisationen Beiträge ausrichten, insbesondere für
 
 Die Beiträge werden gewährt, wenn:
 
-- a.[^143-1] ...
+- a.[^143-1] …
 - b. die Züchterschaft die zumutbaren Selbsthilfemassnahmen trifft und sich an den Förderungsmassnahmen finanziell beteiligt; und
 - c. die geförderten Massnahmen internationalen Normen entsprechen.
 
@@ -1994,7 +1994,7 @@ Die Beiträge werden gewährt, wenn:
 
 **Anerkennung von Organisationen**
 
-<sup>1</sup> Das BLW anerkennt die Organisationen. ...[^144-1]
+<sup>1</sup> Das BLW anerkennt die Organisationen. …[^144-1]
 
 <sup>2</sup> Der Bundesrat regelt die Voraussetzungen.
 
@@ -2028,7 +2028,7 @@ Der Bundesrat kann Vorschriften über die Zucht, die Einfuhr oder das Inverkehrb
 
 <sup>2</sup> Das Gestüt ist dem BLW unterstellt.
 
-<sup>3</sup> ...[^147-3]
+<sup>3</sup> …[^147-3]
 
 [^147-1]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^147-2]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
@@ -2477,7 +2477,9 @@ Der Bundesrat regelt für die Informationssysteme nach den Artikeln 165*c*–165
 
 <sup>1</sup> Die Daten der Tierverkehrsdatenbank nach Artikel 45*b* des Tierseuchengesetzes vom 1. Juli 1966[^165gbis-2] (TSG) können für den Vollzug agrarpolitischer Massnahmen bearbeitet werden. Der Bundesrat regelt, welche Daten bearbeitet werden können.
 
-[^165gbis-1]: Eingefügt durch Ziff. II des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021, Abs. 2 tritt zu einem späteren Zeitpunkt in Kraft ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+<sup>2</sup> Der Bundesrat kann der Identitas AG (Art. 7*a* TSG) Aufgaben übertragen, die den Vollzug agrarpolitischer Massnahmen betreffen. Er regelt die Aufgabenübertragung, die Kostentragung und die Bearbeitung der Daten.
+
+[^165gbis-1]: Eingefügt durch Ziff. II des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021, Abs. 2 in Kraft seit 1. Jan. 2022 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 [^165gbis-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 ### 4. Kapitel: Geistiges Eigentum
@@ -2647,7 +2649,7 @@ Sofern die Tat nicht nach einer anderen Bestimmung mit höherer Strafe bedroht i
 
 Sofern die Tat nicht nach einer anderen Bestimmung mit höherer Strafe bedroht ist, wird mit Busse bis zu 5000 Franken bestraft, wer vorsätzlich:
 
-- a.[^173-15] ...
+- a.[^173-15] …
 - b. gegen eine Ausführungsbestimmung verstösst, deren Übertretung strafbar erklärt worden ist.
 
 <sup>4</sup> Versuch und Gehilfenschaft sind strafbar.
@@ -2686,10 +2688,10 @@ Wird die strafbare Handlung von einer juristischen Person oder einer Personengem
 
 <sup>2</sup> Wer die Vorschriften über die Ein-, Aus- oder Durchfuhr verletzt, wird nach der Zollgesetzgebung verfolgt und bestraft. In besonders leichten Fällen der Widerhandlung im Bereich der Bewirtschaftung der Einfuhrkontingente für landwirtschaftliche Erzeugnisse kann von einem Strafverfahren abgesehen werden.[^175-1]
 
-<sup>3</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Widerhandlung nach Absatz 2 und einer anderen von der Eidgenössischen Zollverwaltung zu verfolgenden Widerhandlung, so wird die Strafe für die schwerere Widerhandlung verhängt; diese kann angemessen erhöht werden.[^175-2]
+<sup>3</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Widerhandlung nach Absatz 2 und einer anderen vom Bundesamt für Zoll und Grenzsicherheit zu verfolgenden Widerhandlung, so wird die Strafe für die schwerere Widerhandlung verhängt; diese kann angemessen erhöht werden.[^175-2]
 
 [^175-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
-[^175-2]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^175-2]: Eingefügt durch Ziff. I des BG vom 22. März 2013 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)). Fassung gemäss Ziff. I 33 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 176
 
@@ -2709,7 +2711,9 @@ Die Artikel 37–39 des Subventionsgesetzes vom 5. Oktober 1990[^176-1] über Ve
 
 <sup>1</sup> Der Bundesrat erlässt die erforderlichen Ausführungsbestimmungen, wo das Gesetz die Zuständigkeit nicht anders regelt.
 
-<sup>2</sup> Er kann den Erlass von Vorschriften vorwiegend technischer oder administrativer Natur auf das WBF oder seine Dienststellen sowie auf nachgeordnete Bundesämter übertragen.
+<sup>2</sup> Er kann den Erlass von Vorschriften vorwiegend technischer oder administrativer Natur auf das WBF und, im Bereich der Zulassung von Pflanzenschutzmitteln, an das Eidgenössische Departement des Innern oder ihre Dienststellen sowie auf nachgeordnete Bundesämter übertragen.[^177-1]
+
+[^177-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021 über die Anpassung des Landwirtschaftsgesetzes infolge der Reorganisation des Zulassungsverfahrens für Pflanzenschutzmittel, in Kraft seit 1. Jan. 2022 ([AS 2021 759](https://fedlex.data.admin.ch/eli/oc/2021/759)).
 
 #### Art. 177a
 
@@ -2870,7 +2874,7 @@ Zur Beschaffung der für den Vollzug des Gesetzes und die Wirkungskontrolle uner
 
 <sup>4</sup> Das verantwortliche Bundesorgan kann die erhobenen Daten zu statistischen Zwecken bearbeiten.
 
-<sup>5</sup> und <sup>6</sup> ...[^185-4]
+<sup>5</sup> und <sup>6</sup> …[^185-4]
 
 [^185-1]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^185-2]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
@@ -2891,11 +2895,11 @@ Der Bundesrat bestellt eine ständige beratende Kommission von höchstens 15 Mit
 
 <sup>1</sup> Die aufgehobenen Bestimmungen bleiben auf alle während ihrer Geltungsdauer eingetretenen Tatsachen anwendbar, mit Ausnahme der Verfahrensvorschriften.
 
-<sup>2–9</sup> ...[^187-2]
+<sup>2–9</sup> …[^187-2]
 
 <sup>10</sup> Die Voraussetzung eines ökologischen Leistungsnachweises nach Artikel 70 Absatz 2 tritt spätestens fünf Jahre nach Inkrafttreten dieses Gesetzes in Kraft.
 
-<sup>11–13</sup> ...[^187-3]
+<sup>11–13</sup> …[^187-3]
 
 <sup>14</sup> Der Bundesrat erlässt Vorschriften über die Rücknahme der Beleihung der gemeinsamen Organisation nach Artikel 1 Absatz 2 der Käsemarktordnung vom 27. Juni 1969[^187-4]. Die vom Bundesrat bezeichneten Departemente und Ämter sind befugt, der gemeinsamen Organisation Weisungen über die Verwertung von Aktiven und die Erfüllung von Verbindlichkeiten zu erteilen; Leistungen des Bundes setzen die Einhaltung solcher Weisungen voraus. Die Wahl der von der gemeinsamen Organisation bestimmten Liquidatoren bedarf der Genehmigung durch das vom Bundesrat bezeichnete Departement. Die durch die Liquidation der gemeinsamen Organisation entstehenden Kosten trägt der Bund. Der Bundesrat sorgt dafür, dass den Trägern der gemeinsamen Organisation keine Leistungen aus der Liquidation zufliessen; er entscheidet auch, inwieweit das Aktienkapital zurückbezahlt wird.
 
@@ -2917,13 +2921,13 @@ Der Bundesrat bestellt eine ständige beratende Kommission von höchstens 15 Mit
 
 **Übergangsbestimmungen zur Änderung vom 20. Juni 2003**[^187b-1]
 
-<sup>1–4</sup> ...[^187b-2]
+<sup>1–4</sup> …[^187b-2]
 
 <sup>5</sup> Artikel 138 tritt erst mit dem Inkrafttreten des neuen Berufsbildungsgesetzes vom 13. Dezember 2002[^187b-3] in Kraft.
 
-<sup>6</sup> und <sup>7</sup> ...[^187b-4]
+<sup>6</sup> und <sup>7</sup> …[^187b-4]
 
-<sup>8</sup> ...[^187b-5]
+<sup>8</sup> …[^187b-5]
 
 [^187b-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 [^187b-2]: Aufgehoben durch Ziff. I des BG vom 22. März 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
@@ -2937,7 +2941,7 @@ Der Bundesrat bestellt eine ständige beratende Kommission von höchstens 15 Mit
 
 <sup>1</sup> Weine des Jahrgangs 2007 und früherer Jahrgänge können nach bisherigem Recht verarbeitet und gekennzeichnet werden. Sie können an die Konsumenten und Konsumentinnen abgegeben werden, bis die Vorräte aufgebraucht sind.
 
-<sup>2</sup> ...[^187c-2]
+<sup>2</sup> …[^187c-2]
 
 [^187c-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^187c-2]: Aufgehoben durch Ziff. I des BG vom 22. März 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
@@ -3003,21 +3007,21 @@ Es werden aufgehoben:
 
 [^annexu1-lvlu1-lvlu1-1]: [BS **4** 1056]
 [^annexu1-lvlu1-lvlu1-2]: [BS **4** 1002]
-[^annexu1-lvlu1-lvlu1-3]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1962 1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)Art. 14, [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)Schl- und UeB X. Tit. Art. 6 Ziff. 7, **1974** 763, **1977** 2249 Ziff. I 921 942 931, 942, **1979** 2058, **1982** 1676 Anhang Ziff. 6, **1988** 640, **1989** 504 Art. 33 Bst. c, **1991** 362 Ziff. II 51 857 Anhang Ziff. 25 2611, **1992** 1860 Art. 75 Ziff. 5 1986 Art. 36 Abs. 1, **1993** 1410 Art. 92 Ziff. 4 1571 2080 Anhang Ziff. 11, **1994** 28, **1995** 1469 Art. 59 1837 3517 Ziff. I 2, **1996** 2588 Anhang Ziff. 2, **1997** 1187 1190, **1998** 1822 Art. 15 Ziff. 3]
-[^annexu1-lvlu1-lvlu1-4]: [[AS 1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 26, [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)Ziff. II 1, [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)Ziff. II 1]
+[^annexu1-lvlu1-lvlu1-3]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1962 1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)Art. 14; [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)Schl- und UeB X. Tit. Art. 6 Ziff. 7; **1974** 763; **1977** 2249 Ziff. I, 921, 942, 931, 942; **1979** 2058; **1982** 1676 Anhang Ziff. 6; **1988** 640; **1989** 504 Art. 33 Bst. c; **1991** 362 Ziff. II 51, 857 Anhang Ziff. 25, 2611; **1992** 1860 Art. 75 Ziff. 5, 1986 Art. 36 Abs. 1; **1993** 1410 Art. 92 Ziff. 4, 1571, 2080 Anhang Ziff. 11; **1994** 28; **1995** 1469 Art. 59, 1837, 3517 Ziff. I 2; **1996** 2588 Anhang Ziff. 2; **1997** 1187, 1190; **1998** 1822 Art. 15 Ziff. 3]
+[^annexu1-lvlu1-lvlu1-4]: [[AS 1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 26; [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)Ziff. II 1; [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)Ziff. II 1]
 [^annexu1-lvlu1-lvlu1-5]: [[AS 1952 561](https://fedlex.data.admin.ch/eli/oc/1952/561_581_585)]
-[^annexu1-lvlu1-lvlu1-6]: [[AS 1962 1273](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323), [1972 2699](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 52 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 27, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 47 [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)]
-[^annexu1-lvlu1-lvlu1-7]: [[AS 1989 1904](https://fedlex.data.admin.ch/eli/oc/1989/1904_1904_1904), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 50, [1995 1988](https://fedlex.data.admin.ch/eli/oc/1995/1988_1988_1988)]
-[^annexu1-lvlu1-lvlu1-8]: [[AS 1992 1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986), [1997 1216](https://fedlex.data.admin.ch/eli/oc/1997/1216_1216_1216)]
-[^annexu1-lvlu1-lvlu1-9]: [[AS 1962 1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 941, [1978 1407](https://fedlex.data.admin.ch/eli/oc/1978/1407_1407_1407), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 29, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 52, [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)Ziff. 13]
-[^annexu1-lvlu1-lvlu1-10]: [[AS 1974 2063](https://fedlex.data.admin.ch/eli/oc/1974/2063_2063_2063), [1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679)Art. 12, [1983 488](https://fedlex.data.admin.ch/eli/oc/1983/488_488_488), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 30, [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)Ziff. II 2, [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)Ziff. II 3]
-[^annexu1-lvlu1-lvlu1-11]: [[AS 1953 1109](https://fedlex.data.admin.ch/eli/oc/1953/1109_1132_1172), [1957 571](https://fedlex.data.admin.ch/eli/oc/1957/571_573_591)Ziff. II Abs. 2, **1969** 1052, [1971 1597](https://fedlex.data.admin.ch/eli/oc/1971/1597_1597_1597), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 29, [1979 1414](https://fedlex.data.admin.ch/eli/oc/1979/1414_1414_1414), [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. c, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 54, [1994 1648](https://fedlex.data.admin.ch/eli/oc/1994/1648_1648_1648), [1995 2075](https://fedlex.data.admin.ch/eli/oc/1995/2075_2075_2075)]
-[^annexu1-lvlu1-lvlu1-12]: [[AS 1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 31, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 55, [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)Ziff. I 14, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 4, [1995 2077](https://fedlex.data.admin.ch/eli/oc/1995/2077_2077_2077)]
-[^annexu1-lvlu1-lvlu1-13]: [[AS 1969 1046](https://fedlex.data.admin.ch/eli/oc/1969/1046_1070_1067), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 32, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 28]
-[^annexu1-lvlu1-lvlu1-14]: [[AS 1961 263](https://fedlex.data.admin.ch/eli/oc/1961/263_269_273), **1987** 2324, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 30, [1995 2097](https://fedlex.data.admin.ch/eli/oc/1995/2097_2097_2097)]
+[^annexu1-lvlu1-lvlu1-6]: [[AS 1962 1273](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323); [1972 2699](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 52, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 27; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 47, [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)]
+[^annexu1-lvlu1-lvlu1-7]: [[AS 1989 1904](https://fedlex.data.admin.ch/eli/oc/1989/1904_1904_1904); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 50; [1995 1988](https://fedlex.data.admin.ch/eli/oc/1995/1988_1988_1988)]
+[^annexu1-lvlu1-lvlu1-8]: [[AS 1992 1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986); [1997 1216](https://fedlex.data.admin.ch/eli/oc/1997/1216_1216_1216)]
+[^annexu1-lvlu1-lvlu1-9]: [[AS 1962 1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, 941; [1978 1407](https://fedlex.data.admin.ch/eli/oc/1978/1407_1407_1407); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 29; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 52; [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)Ziff. 13]
+[^annexu1-lvlu1-lvlu1-10]: [[AS 1974 2063](https://fedlex.data.admin.ch/eli/oc/1974/2063_2063_2063); [1980 679](https://fedlex.data.admin.ch/eli/oc/1980/679_679_679)Art. 12; [1983 488](https://fedlex.data.admin.ch/eli/oc/1983/488_488_488); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 30; [1992 2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104)Ziff. II 2; [1997 1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190)Ziff. II 3]
+[^annexu1-lvlu1-lvlu1-11]: [[AS 1953 1109](https://fedlex.data.admin.ch/eli/oc/1953/1109_1132_1172); [1957 571](https://fedlex.data.admin.ch/eli/oc/1957/571_573_591)Ziff. II Abs. 2; **1969** 1052; [1971 1597](https://fedlex.data.admin.ch/eli/oc/1971/1597_1597_1597); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 29; [1979 1414](https://fedlex.data.admin.ch/eli/oc/1979/1414_1414_1414); [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. c; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 54; [1994 1648](https://fedlex.data.admin.ch/eli/oc/1994/1648_1648_1648); [1995 2075](https://fedlex.data.admin.ch/eli/oc/1995/2075_2075_2075)]
+[^annexu1-lvlu1-lvlu1-12]: [[AS 1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 31; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 55; [1993 325](https://fedlex.data.admin.ch/eli/oc/1993/325_325_325)Ziff. I 14; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 4; [1995 2077](https://fedlex.data.admin.ch/eli/oc/1995/2077_2077_2077)]
+[^annexu1-lvlu1-lvlu1-13]: [[AS 1969 1046](https://fedlex.data.admin.ch/eli/oc/1969/1046_1070_1067); [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 32; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 28]
+[^annexu1-lvlu1-lvlu1-14]: [[AS 1961 263](https://fedlex.data.admin.ch/eli/oc/1961/263_269_273); **1987** 2324; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 30; [1995 2097](https://fedlex.data.admin.ch/eli/oc/1995/2097_2097_2097)]
 
 ### Änderung bisherigen Rechts
 
-...[^annexu1-lvlu1-lvlu2-1]
+…[^annexu1-lvlu1-lvlu2-1]
 
 [^annexu1-lvlu1-lvlu2-1]: Die Änd. können unter [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)konsultiert werden.
