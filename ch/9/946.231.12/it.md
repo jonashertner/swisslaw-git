@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Ordinanza del 22 giugno 2005 che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: it
-version: 2021-12-23
+version: 2022-01-01
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20211223/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20211223-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20211223/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 
-del 22 giugno 2005 (Stato 23 dicembre 2020) (Stato 23 dicembre 2020)
+del 22 giugno 2005 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -115,12 +115,13 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 <sup>2</sup> La Segreteria di Stato della migrazione[^5-2] sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 4.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^5-3].
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2008, in vigore dal 15 lug. 2008 ([RU 2008 3185](https://fedlex.data.admin.ch/eli/oc/2008/425)).
 [^5-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
+[^5-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -162,7 +163,7 @@ La presente ordinanza entra in vigore il 23 giugno 2005.
 
 [^8-1]: Introdotta dal n. I 6 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2 cpv. 1, 4 cpv. 1 e 2, 7*a*)
 
@@ -178,11 +179,11 @@ Allegato 1*[^t-1]*
 [^annex1-lvlu1-1]: La lista è consultabile al seguente indirizzo Internet: [www.un.org/en/sc/](https://www.un.org/sc/suborg/en/sanctions/1533/materials) &gt; Subsidiary Organs &gt; Sanctions &gt; The Democratic Republic of Congo Sanctions Committee &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2 cpv. 1, 4 cpv. 1 e 3)
 
-## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito; imprese e organizzazioni soggette alle sanzioni finanziarie****
+## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito; imprese e organizzazioni soggette alle sanzioni finanziarie
 
 [^annex2-lvlu1-1]
 
