@@ -4,13 +4,13 @@ number: "640.110"
 title: Verordnung zum Gesetz über die direkten Steuern
 short: "Steuerverordnung, StV"
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-01
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-30
 adopted: 2000-11-14
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5276/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5742/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Steuerverordnung | Allgemeine Steuern
 
 (Steuerverordnung, StV)
 
-Vom 14. November 2000 (Stand 1. Januar 2021)
+Vom 14. November 2000 (Stand 1. Januar 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -95,15 +95,15 @@ beschliesst:
 
 #### § 6
 
-<sup>1</sup> Für die Zuteilung des mit dem Einkommen und Vermögen der Eltern gemeinsam steuerbaren Kindereinkommens und -vermögens gilt § 41 Abs. 1 analog.
+<sup>1</sup> …
 
 ### A.III. Besteuerung nach dem Aufwand
 
 #### § 7
 
-<sup>1</sup> Bei der Festlegung des dem Aufwand entsprechenden Einkommens findet die Verordnung über die Besteuerung nach dem Aufwand bei der direkten Bundessteuer sinngemäss Anwendung.
+<sup>1</sup> …
 
-<sup>2</sup> Bei der Festlegung des dem Aufwand entsprechenden Vermögens wird der für die Einkommenssteuer zugrunde gelegte Aufwand angemessen kapitalisiert. Das steuerbare Vermögen entspricht mindestens dem gesamten Bruttobetrag, der sich aus den in § 14 Abs. 3 StG erwähnten Vermögenswerten ergibt.
+<sup>2</sup> …
 
 ### B. Die Einkommenssteuer
 
@@ -240,6 +240,14 @@ beschliesst:
 <sup>3</sup> Steht kein öffentliches Verkehrsmittel zur Verfügung oder ist dessen Benützung wegen grosser Entfernung zwischen Wohn- und Arbeitsstätte oder aus anderen Gründen objektiv nicht zumutbar, so können die Kosten des privaten Fahrzeugs gemäss den Pauschalansätzen der Verordnung über den Abzug von Berufskosten der unselbständigen Erwerbstätigkeit bei der direkten Bundessteuer abgezogen werden.
 
 <sup>4</sup> …
+
+#### § 22a
+
+**d<sup>bis</sup>) Fahrkosten bei der unentgeltlichen privaten Nutzung von Geschäftsfahrzeugen**
+
+<sup>1</sup> Nutzt die steuerpflichtige Person ein Geschäftsfahrzeug unentgeltlich für Fahrten zwischen Wohn- und Arbeitsstätte sowie für weitere private Zwecke, so kann anstelle der Abrechnung über die tatsächlichen Kosten der privaten Nutzung und des Fahrkostenabzugs nach § 22 eine pauschale Fahrkostenberechnung vorgenommen werden.
+
+<sup>2</sup> Bei der pauschalen Fahrkostenberechnung gelten 0,9 Prozent des Kaufpreises des Fahrzeugs als monatliches Einkommen aus dieser Nutzung.
 
 #### § 23
 
@@ -1213,7 +1221,7 @@ beschliesst:
 
 <sup>1</sup> Für Gesuche um Erstreckung der Frist für die Abgabe der Steuererklärung wird eine Fristerstreckungsgebühr von 40 Franken erhoben.
 
-<sup>2</sup> Das erste Gesuch um Erstreckung der Frist für die Abgabe der Steuererklärung ist gebührenfrei,
+<sup>2</sup> Das erstmalige und jedes weitere Gesuch um Erstreckung der Frist für die Abgabe der Steuererklärung ist gebührenfrei:
 
 - a) bei den auf den allgemeinen Fälligkeitstermin fällig werdenden periodischen Steuern soweit die Fristerstreckung nicht länger als bis zum 30. September des Fälligkeitsjahres beantragt wird;
 - b) bei den auf einen besonderen Fälligkeitstermin fällig werdenden periodischen Steuern sowie bei der Grundstückgewinnsteuer soweit die Fristerstreckung nicht länger als bis 60 Tage nach dem mit der Steuererklärung eingeräumten Abgabetermin beantragt wird.
@@ -1594,7 +1602,7 @@ beschliesst:
 
 <sup>1</sup> Die Verrechnungssteuer und der Steuerrückbehalt USA werden als Vorauszahlung auf den Beginn des Jahres der Fälligkeit der Einkommens- und Vermögenssteuer (Fälligkeitsjahr) angerechnet, soweit die steuerpflichtige Person im Verlaufe dieses Jahres Antrag auf ihre Rückerstattung mittels vollständig ausgefüllter Steuererklärung gestellt hat. Ansonsten erfolgt die Anrechnung auf den Zeitpunkt der Abgabe der Steuererklärung.
 
-<sup>2</sup> Gemäss Verordnung über die Anrechnung ausländischer Quellensteuern (VStA) vom 22. August 1967 anrechenbare ausländische Quellensteuern werden auf den Zeitpunkt der Fälligkeit der Einkommens- und Vermögenssteuer angerechnet.
+<sup>2</sup> Gemäss Verordnung über die Anrechnung ausländischer Quellensteuern (VStA) vom 22. August 1967 werden anrechenbare ausländische Quellensteuern auf den Zeitpunkt der Fälligkeit der Einkommens- und Vermögenssteuer angerechnet.
 
 <sup>3</sup> Die Rückerstattung bzw. Umbuchung der Verrechnungssteuer und des zusätzlichen Steuerrückbehaltes USA sowie des Anrechnungsbetrags der ausländischen Quellensteuern erfolgt frühestens nach Eröffnung der Veranlagungsverfügung, in der die entsprechenden steuerbelasteten Einkünfte veranlagt worden sind.
 
