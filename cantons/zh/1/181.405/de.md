@@ -3,11 +3,11 @@ canton: ZH
 number: "181.405"
 title: Richtlinien zur Freiwilligenarbeit
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2025-01-01
 adopted: 2013-11-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_405-2013_11_06-2014_04_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_405-2013_11_06-2014_04_01-115.html"
 text: pdf
 ---
 
@@ -68,7 +68,7 @@ Diese Richtlinien gelten sinngemäss für Pfarrämter in Institutionen sowie ges
 
 **1**
 
-- 1\. 1. 18 - 99
+- 1\. 1. 22 - 115
 
 - c. den Freiwilligen den nötigen Raum für die Mitgestaltung gewähren,
 
@@ -155,11 +155,13 @@ Die Haftung für Schäden, die Freiwillige im Rahmen ihrer Freiwilligenarbeit ve
 
 Die Kirchgemeinden weisen den Freiwilligen auf Wunsch die geleistete Freiwilligenarbeit schriftlich aus.
 
-#### § 13
-
 **Anwendbare Bestimmungen**
 
-Die Kirchenpflegen und die Ansprechpersonen gemäss § 6 Abs. 1 sowie Pfarrerinnen, Pfarrer und Angestellte orientieren sich bei der Erfüllung ihres Auftrags an diesen Richtlinien und am Leitfaden des Kirchenrates zur Freiwilligenarbeit in reformierten Kirchgemeinden.
+§ 13.[^12-1] <sup>1</sup> Die Kirchenpflegen und die Ansprechpersonen gemäss § 6 Abs. 1 sowie Pfarrerinnen, Pfarrer und Angestellte orientieren sich bei der Erfüllung ihres Auftrags an diesen Richtlinien und den Leitfäden des Kirchenrates betreffend die Freiwilligenarbeit.
+
+<sup>2</sup> Der Kirchenrat kann die Leitfäden betreffend die Freiwilligenarbeit und weitere Regelungen als verbindlich erklären.
+
+[^12-1]: Fassung gemäss B vom 25. August 2021 (OS 76, 469; ABl 2021-09-03). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 5
 
 ### C. Rechte und Pflichten der Freiwilligen
 
@@ -172,23 +174,22 @@ Die Kirchenpflegen und die Ansprechpersonen gemäss § 6 Abs. 1 sowie Pfarrerinn
 
 Der Schutz der Persönlichkeit der Freiwilligen richtet sich nach § 75 der Personalverordnung[^hCRechteundPflich-1] und § 170 der Vollzugsverordnung zur Personalverordnung[^hCRechteundPflich-2]. Diese Bestimmungen sind sinngemäss anwendbar.
 
-[^14-1]: LS 181.401.
+**3**
 
-#### § 15
+- 1\. 1. 22 - 115 § 15. Der Ersatz von Sachschäden, die Freiwillige im Zusammenhang mit der Freiwilligenarbeit erleiden, richtet sich nach §§ 78 und 79 der Vollzugsverordnung zur Personalverordnung[^14-1]. Diese Bestimmungen sind sinngemäss anwendbar.
+
+[^14-1]: LS 181.401.
+[^14-2]: LS 181.40.
+
+#### § 16
 
 **b. Sachschaden**
 
-Der Ersatz von Sachschäden, die Freiwillige im Zusammenhang mit der Freiwilligenarbeit erleiden, richtet sich nach §§ 78 und 79 der Vollzugsverordnung zur Personalverordnung[^14-1]. Diese Bestimmungen sind sinngemäss anwendbar.
+**c. Rechtsschutz**
 
-**3**
-
-- 1\. 1. 18 - 99 § 16. Der Schutz von Freiwilligen vor ungerechtfertigten Angriffen richtet sich nach § 49 der Personalverordnung[^15-1]. Diese Bestimmung ist sinngemäss anwendbar.
-
-[^15-1]: LS 181.40.
+Der Schutz von Freiwilligen vor ungerechtfertigten Angriffen richtet sich nach § 49 der Personalverordnung[^14-2]. Diese Bestimmung ist sinngemäss anwendbar.
 
 #### § 17
-
-**c. Rechtsschutz**
 
 **d. Auslagenersatz**
 
@@ -208,24 +209,37 @@ Der Ersatz von Sachschäden, die Freiwillige im Zusammenhang mit der Freiwillige
 
 <sup>3</sup> Freiwillige, die nicht in der Lage sind, die vereinbarte Freiwilligenarbeit zu leisten, informieren unverzüglich die Ansprechperson gemäss § 6 Abs. 1 oder die für sie zuständige Person der Kirchgemeinde.
 
-[^18-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 617; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
-
-#### § 19
-
 **b. Weiterbildung6**
 
-<sup>1</sup> Die Freiwilligen besuchen Weiterbildungen[^18-1], die sie persönlich und fachlich befähigen, Freiwilligenarbeit zu leisten.
+§ 19.[^18-1] <sup>1</sup> Die Freiwilligen besuchen Weiterbildungen[^18-2], die sie persönlich und fachlich befähigen, Freiwilligenarbeit zu leisten.
 
-<sup>2</sup> Die Kirchgemeinde trägt die Kosten für Weiterbildungen[^19-1], welche die Freiwilligen auf Anweisung oder mit Bewilligung der Ansprechperson gemäss § 6 Abs. 1 besuchen.
+<sup>2</sup> Die Kirchenpflege oder der Kirchenrat kann den Besuch einer Weiterbildungsveranstaltung für Freiwillige als verbindlich erklären.
 
-[^19-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 617; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
-[^19-2]: LS 181.10.
+<sup>3</sup> Der Kirchenrat trägt die Kosten einer von ihm als verbindlich erklärten Weiterbildung. Die Kirchgemeinde trägt gemäss § 17 die im Zusammenhang mit einer Weiterbildung anfallenden Auslagen sowie die Kosten für Weiterbildungen, welche die Freiwilligen gemäss Abs. 2 auf Anweisung der Kirchenpflege oder mit Bewilligung der Ansprechperson gemäss § 6 Abs. 1 besuchen.
+
+[^18-1]: Fassung gemäss B vom 25. August 2021 (OS 76, 469; ABl 2021-09-03). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 5
+[^18-2]: Fassung gemäss B vom 20. September 2017 (OS 72, 617; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
+[^18-3]: LS 181.10.
 
 #### § 20
 
 **c. Schweigepflicht**
 
-Die Freiwilligen unterstehen hinsichtlich ihrer Tätigkeit der Schweigepflicht gemäss Art. 22 und 101 KO[^19-2].
+Die Freiwilligen unterstehen hinsichtlich ihrer Tätigkeit der Schweigepflicht gemäss Art. 22 und 101 KO[^18-3].
+
+**d. Privatauszug und Sonderprivatauszug**
+
+§ 20 a.[^20-1] <sup>1</sup> Volljährige Freiwillige, die regelmässig mit Minderjährigen oder anderen besonders schutzbedürftigen Personen tätig sind, reichen dem personalverantwortlichen Mitglied der Kirchenpflege oder der von der Kirchenpflege bezeichneten Person vor Aufnahme ihrer Tätigkeit und jeweils auf Beginn der Amtsdauer der Pfarrerinnen und Pfarrer einen Privatauszug und einen Sonderprivatauszug aus dem Strafregister ein.
+
+<sup>2</sup> Der Privatauszug und der Sonderprivatauszug gemäss Abs. 1 dürfen nicht älter als ein Jahr sein.
+
+<sup>3</sup> Die Verpflichtung gemäss Abs. 1 entfällt, wenn sich beim personalverantwortlichen Mitglied der Kirchenpflege oder bei der von der Kirchenpflege bezeichneten Person ein Privatauszug und ein Sonderprivatauszug finden, die nicht älter als zwei Jahre sind.
+
+<sup>4</sup> Die Kirchenpflege kann Freiwillige in begründeten Fällen jederzeit verpflichten, einen aktuellen Privat- und Sonderprivatauszug einzureichen.
+
+<sup>5</sup> Die Kirchgemeinde trägt die Kosten des Privatauszugs und des Sonderprivatauszugs, den Freiwillige gemäss Abs. 1 und 4 einzureichen haben.
+
+[^20-1]: Eingefügt durch B vom 25. August 2021 (OS 76, 469; ABl 2021-09-03). In Kraft seit 1. Januar 2022.
 
 ### D. Schlussbestimmung
 
