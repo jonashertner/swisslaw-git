@@ -4,13 +4,13 @@ number: "785.1"
 title: Ausführungsgesetz zur Bundesgesetzgebung über die Binnenschifffahrt
 short: AGBSG
 language: de
-version: 2016-05-01
-valid_until: 2021-12-31
-version_adopted: 2016-09-12
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-06
 adopted: 1991-02-07
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/785.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/5418/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7208/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Binnenschifffahrt – G
 
 (AGBSG)
 
-vom 07.02.1991 (Fassung in Kraft getreten am 01.05.2016)
+vom 07.02.1991 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -73,7 +73,7 @@ beschliesst:
 - b) Sie entscheidet über die Ausnahmebewilligungen zu den bundesrechtlichen Vorschriften (Art. 163 Abs. 1 Bst. a-e BSV).
 - c) Sie trifft die Entscheide und Massnahmen, welche dieses Gesetz oder dessen Ausführungsbestimmungen nicht ausdrücklich einer anderen Behörde übertragen.
 
-[^3-1]: Heute: Sicherheits- und Justizdirektion.
+[^3-1]: Heute: Sicherheits-, Justiz- und Sportdirektion.
 
 #### Art. 4
 
@@ -191,7 +191,7 @@ beschliesst:
 
 **Verfolgung und Beurteilung**
 
-<sup>1</sup> Zuwiderhandlungen werden nach dem Justizgesetz verfolgt und beurteilt.
+<sup>1</sup> Zuwiderhandlungen werden nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
 
 #### Art. 16
 

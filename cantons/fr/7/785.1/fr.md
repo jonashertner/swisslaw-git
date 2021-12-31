@@ -4,13 +4,13 @@ number: "785.1"
 title: "Loi d'application de la législation fédérale sur la navigation intérieure"
 short: LALNI
 language: fr
-version: 2016-05-01
-valid_until: 2021-12-31
-version_adopted: 2016-09-12
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-06
 adopted: 1991-02-07
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/785.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5418/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7208/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Navigation intérieure – L
 
 (LALNI)
 
-du 07.02.1991 (version entrée en vigueur le 01.05.2016)
+du 07.02.1991 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -73,7 +73,7 @@ Décrète:
 - b) elle statue sur les demandes de dérogations prévues à l'article 163 al. 1 let. a à e ONI;
 - c) elle prend les décisions et les mesures qui ne sont pas expressément attribuées, par la présente loi ou ses dispositions d'exécution, à une autre autorité.
 
-[^3-1]: Actuellement: Direction de la sécurité et de la justice.
+[^3-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
 
 #### Art. 4
 
@@ -191,7 +191,7 @@ Décrète:
 
 **Poursuite et jugement**
 
-<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice.
+<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
 
 #### Art. 16
 
