@@ -3,11 +3,11 @@ sr: "0.641.851.41"
 title: Traité du 11 avril 2000 entre la Confédération suisse et la Principauté de Liechtenstein relatif à la redevance sur le trafic des poids lourds liée aux prestations dans la Principauté de Liechtenstein (avec ac.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/112"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2000-04-11
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-112-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2001** 826; FF **2000** 3493
 
 Traduction
 
-Conclu le 11 avril 2000
+Conclu le 11 avril 2000 Approuvé par l’Assemblée fédérale le 11 décembre 2000[^t-1] Instruments de ratification échangés le 18 décembre 2000 Entré en vigueur le 1<sup>er</sup> janvier 2001
 
-Approuvé par l’Assemblée fédérale le 11 décembre 2000[^t-1]
-
-Instruments de ratification échangés le 18 décembre 2000
-
-Entré en vigueur le 1<sup>er</sup> janvier 2001
-
-(État le 1<sup>er</sup> janvier 2021)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: [RO 2001 825](https://fedlex.data.admin.ch/eli/oc/2001/111)
 
@@ -104,9 +98,9 @@ Pour la perception de la redevance sur le trafic des poids lourds, les deux Éta
 
 **Compétence**
 
-<sup>1</sup> L’Administration fédérale des douanes applique la législation concernant la redevance sur le trafic des poids lourds au nom de la Principauté de Liechtenstein sur le territoire de la Principauté pour
+<sup>1</sup> Elle applique le droit de la Principauté, mais le droit de procédure suisse. Les moyens de droit sont ceux du droit suisse.
 
-Elle applique le droit de la Principauté, mais le droit de procédure suisse. Les moyens de droit sont ceux du droit suisse.
+L’Administration fédérale des douanes[^annexu1-3-1] applique la législation concernant la redevance sur le trafic des poids lourds au nom de la Principauté de Liechtenstein sur le territoire de la Principauté pour:
 
 - a) les véhicules liechtensteinois soumis à la taxation liée aux prestations;
 - b) les véhicules étrangers qui entrent au Liechtenstein dans le territoire commun d’application.
@@ -120,17 +114,23 @@ Elle applique le droit de la Principauté, mais le droit de procédure suisse. L
 - a) jugées selon le droit suisse lorsque l’entrée dans le territoire commun d’application a lieu en Suisse;
 - b) jugées selon le droit du Liechtenstein lorsque l’entrée dans le territoire commun d’application a lieu au Liechtenstein. En l’occurrence, les autorités suisses appliquent le droit de procédure suisse. Les moyens de droit sont ceux du droit suisse.
 
+[^annexu1-3-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 #### Art. 4
 
 **Véhicules de la Principauté**
 
-Les véhicules à moteur immatriculés dans la Principauté de Liechtenstein et soumis à la redevance sur le trafic des poids lourds ainsi que les tracteurs à sellette légers admis pour tracter des remorques de transport soumises à la redevance sur le trafic des poids lourds doivent être équipés, conformément aux dispositions de l’Appendice II, d’un appareil électronique agréé par l’Administration fédérale des douanes pour enregistrer les prestations.
+Les véhicules à moteur immatriculés dans la Principauté de Liechtenstein et soumis à la redevance sur le trafic des poids lourds ainsi que les tracteurs à sellette légers admis pour tracter des remorques de transport soumises à la redevance sur le trafic des poids lourds doivent être équipés, conformément aux dispositions de l’Appendice II, d’un appareil électronique agréé par l’Administration fédérale des douanes[^annexu1-4-1] pour enregistrer les prestations.
+
+[^annexu1-4-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
 **Mesures en matière de construction**
 
-En accord avec les autorités compétentes du Liechtenstein, l’Administration fédérale des douanes peut équiper les lieux de franchissement de la frontière avec la République d’Autriche situés sur le territoire de la Principauté de Liechtenstein de l’infrastructure nécessaire à l’exécution de la législation concernant la redevance sur le trafic des poids lourds.
+En accord avec les autorités compétentes du Liechtenstein, l’Administration fédérale des douanes[^annexu1-5-1] peut équiper les lieux de franchissement de la frontière avec la République d’Autriche situés sur le territoire de la Principauté de Liechtenstein de l’infrastructure nécessaire à l’exécution de la législation concernant la redevance sur le trafic des poids lourds.
+
+[^annexu1-5-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -140,7 +140,9 @@ En accord avec les autorités compétentes du Liechtenstein, l’Administration 
 
 <sup>2</sup> Chacun des États contractants reçoit annuellement de la caisse commune la part de recettes nettes découlant de la perception de la redevance sur le trafic des poids lourds qui est déterminée selon le mode de répartition fixé à l’appendice IV.
 
-<sup>3</sup> Est réputé recette nette le solde restant après déduction des remboursements et des frais d’exploitation annuels de l’Administration des douanes et des autres autorités d’exécution compte tenu des frais d’investissement. Sont réputées frais d’exploitation toutes les dépenses pour la perception de la redevance sur le trafic des poids lourds.
+<sup>3</sup> Est réputé recette nette le solde restant après déduction des remboursements et des frais d’exploitation annuels de l’Administration des douanes[^annexu1-6-1] et des autres autorités d’exécution compte tenu des frais d’investissement. Sont réputées frais d’exploitation toutes les dépenses pour la perception de la redevance sur le trafic des poids lourds.
+
+[^annexu1-6-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 7
 
@@ -196,7 +198,7 @@ L’Office de la circulation[^annexu1-7-1] du Liechtenstein est indemnisé, par 
 
 L’échange de notes des 22 décembre 1995/19 février 1996 entre la Suisse et la Principauté de Liechtenstein sur la perception d’une redevance sur le trafic des poids lourds et la redevance pour l’utilisation des routes nationales[^annexu1-12-1] est abrogé en ce qui concerne la perception de la redevance sur le trafic des poids lourds sur le territoire de la Principauté de Liechtenstein.
 
-[^annexu1-12-1]: [RS 0.741.751.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2934)
+[^annexu1-12-1]: [RS 0.741.751.4](https://fedlex.data.admin.ch/eli/cc/1996/1250_1250_1250)
 
 #### Art. 13
 
@@ -252,7 +254,7 @@ Ordonnance du DFF du 5 mai 2000 sur l’indemnisation des autorités cantonales 
 
 [^t-2]: <sup>\*</sup> La date de l’entrée en vigueur des ordonnances sera communiquée aux autorités de la Principauté de Liechtenstein par la voie diplomatique.
 
-Appendice IV[^t-3]
+Appendice IV*[^t-3]*
 
 \1. La recette nette est répartie comme il suit:
 
@@ -269,7 +271,7 @@ Appendice IV[^t-3]
 
 <table>
 <tr><td>Suisse *(d’après l’Encyclopédie statistique)*</td><td>71 555</td><td></td></tr>
-<tr><td>Liechtenstein *(d’après l’Office de la* *construction* *et des infrastructures)*</td><td>401</td><td></td></tr>
+<tr><td>Liechtenstein *(d’après l’Office de la construction et des infrastructures)*</td><td>401</td><td></td></tr>
 <tr><td>Total des deux pays</td><td>71 956</td><td></td></tr>
 <tr><td>Part du Liechtenstein</td><td>401 : 71 956 × 100</td><td>0,558 %</td></tr>
 </table>
@@ -278,7 +280,7 @@ Appendice IV[^t-3]
 
 <table>
 <tr><td>Suisse *(d’après l’Encyclopédie statistique)*</td><td>8 544 527</td><td></td></tr>
-<tr><td>Liechtenstein *(d’après l’Office de la* *statistique**)*</td><td>38 378</td><td></td></tr>
+<tr><td>Liechtenstein *(d’après l’Office de la statistique)*</td><td>38 378</td><td></td></tr>
 <tr><td>Total des deux pays</td><td>8 582 905</td><td></td></tr>
 <tr><td>Part du Liechtenstein</td><td>38 378 : 8 582 905 × 100</td><td>0,447 %</td></tr>
 </table>
@@ -294,7 +296,7 @@ Appendice IV[^t-3]
 
 3.4 Rapports de poids importation et exportation directes (commerce extérieur) (2018)
 
-(source: statistiques de l’Administration fédérale des douanes)
+(source: statistiques de l’Administration fédérale des douanes*[^t-4]*)
 
 <table>
 <tr><td colspan="2">Part totale de la Suisse en t</td><td></td><td></td></tr>
@@ -310,3 +312,4 @@ Appendice IV[^t-3]
 </table>
 
 [^t-3]: Mis à jour par l’échange de notes du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)).
+[^t-4]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).

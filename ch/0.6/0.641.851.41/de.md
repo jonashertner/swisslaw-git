@@ -3,11 +3,11 @@ sr: "0.641.851.41"
 title: Vertrag vom 11. April 2000 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein betreffend die leistungsabhängige Schwerverkehrsabgabe im Fürstentum Liechtenstein (mit Vereinb.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/112"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2000-04-11
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2001-112-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Bereinigt durch Notenaustausch vom 28. September 2006
 
 Rückwirkend in Kraft getreten am 1. Januar 2006
 
-(Stand am 1. Januar 2021)
+(Stand am 1. Januar 2022)
 
 [^t-1]: [AS 2001 825](https://fedlex.data.admin.ch/eli/oc/2001/111)
 
@@ -84,9 +84,11 @@ die nach Bekanntgabe ihrer in guter und gehöriger Form befundenen Vollmachten f
 
 <sup>1</sup> Das Fürstentum Liechtenstein übernimmt, im Sinne der nachstehenden Bestimmungen, die materiellen Vorschriften der schweizerischen Gesetzgebung über die Schwerverkehrsabgabe in sein Landesrecht.
 
-<sup>2</sup> Die im Zeitpunkt des Inkrafttretens dieser Vereinbarung im Fürstentum Liechtenstein massgebende Gesetzgebung über die Schwerverkehrsabgabe ist in den Anlagen I bis III aufgeführt. Änderungen der Anlagen I bis III teilt die Eidgenössische Zollverwaltung nach Artikel 1 Absatz 3 des Vertrages den liechtensteinischen Behörden mit.
+<sup>2</sup> Die im Zeitpunkt des Inkrafttretens dieser Vereinbarung im Fürstentum Liechtenstein massgebende Gesetzgebung über die Schwerverkehrsabgabe ist in den Anlagen I bis III aufgeführt. Änderungen der Anlagen I bis III teilt die Eidgenössische Zollverwaltung[^annexu1-1-1] nach Artikel 1 Absatz 3 des Vertrages den liechtensteinischen Behörden mit.
 
 <sup>3</sup> Zur Gewährleistung der einheitlichen Anwendung der Gesetzgebung über die Schwerverkehrsabgabe sieht das Fürstentum Liechtenstein für strafbare Handlungen gegen deren Bestimmungen zumindest ein dem schweizerischen Recht vergleichbares Strafmass vor.
+
+[^annexu1-1-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 2
 
@@ -98,9 +100,9 @@ Für die Erhebung der Schwerverkehrsabgabe gelten beide Vertragsstaaten als geme
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Eidgenössische Zollverwaltung vollzieht namens des Fürstentums Liechtenstein die Gesetzgebung über die Schwerverkehrsabgabe auf dem Gebiet des Fürstentums Liechtenstein für
+<sup>1</sup> Sie wendet liechtensteinisches Recht, jedoch schweizerisches Verfahrensrecht an. Die Rechtsmittel richten sich nach schweizerischem Recht.
 
-Sie wendet liechtensteinisches Recht, jedoch schweizerisches Verfahrensrecht an. Die Rechtsmittel richten sich nach schweizerischem Recht.
+Die Eidgenössische Zollverwaltung[^annexu1-3-1] vollzieht namens des Fürstentums Liechtenstein die Gesetzgebung über die Schwerverkehrsabgabe auf dem Gebiet des Fürstentums Liechtenstein für:
 
 - a) die der leistungsabhängigen Veranlagung unterstellten liechtensteinischen Fahrzeuge;
 - b) die ausländischen Fahrzeuge, die in Liechtenstein in das gemeinsame Anwendungsgebiet einfahren.
@@ -109,22 +111,30 @@ Sie wendet liechtensteinisches Recht, jedoch schweizerisches Verfahrensrecht an.
 
 <sup>3</sup> Soweit liechtensteinische Fahrzeuge betroffen sind, werden die Widerhandlungen gegen die Gesetzgebung über die Schwerverkehrsabgabe von den liechtensteinischen Behörden verfolgt und beurteilt.
 
-<sup>4</sup> Soweit ausländische Fahrzeuge betroffen sind, werden die Widerhandlungen gegen die Gesetzgebung über die Schwerverkehrsabgabe von den schweizerischen Behörden verfolgt und
+<sup>4</sup>
+
+Soweit ausländische Fahrzeuge betroffen sind, werden die Widerhandlungen gegen die Gesetzgebung über die Schwerverkehrsabgabe von den schweizerischen Behörden verfolgt und:
 
 - a) nach schweizerischem Recht beurteilt, wenn die Einfahrt in das gemeinsame Anwendungsgebiet in der Schweiz erfolgt;
 - b) nach liechtensteinischem Recht beurteilt, wenn die Einfahrt in das gemeinsame Anwendungsgebiet in Liechtenstein erfolgt. Die schweizerischen Behörden wenden dabei schweizerisches Verfahrensrecht an. Die Rechtsmittel richten sich nach schweizerischem Recht.
+
+[^annexu1-3-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 4
 
 **Liechtensteinische Fahrzeuge**
 
-Im Fürstentum Liechtenstein immatrikulierte Motorfahrzeuge, die der Schwerverkehrsabgabe unterliegen, sowie leichte Sattelschlepper, die zum Ziehen von der Schwerverkehrsabgabe unterliegenden Transportanhängern zugelassen sind, sind nach den Bestimmungen der Anlage II mit einem von der Eidgenössischen Zollverwaltung zugelassenen elektronischen Gerät zur Erfassung der Fahrleistung auszurüsten.
+Im Fürstentum Liechtenstein immatrikulierte Motorfahrzeuge, die der Schwerverkehrsabgabe unterliegen, sowie leichte Sattelschlepper, die zum Ziehen von der Schwerverkehrsabgabe unterliegenden Transportanhängern zugelassen sind, sind nach den Bestimmungen der Anlage II mit einem von der Eidgenössischen Zollverwaltung[^annexu1-4-1] zugelassenen elektronischen Gerät zur Erfassung der Fahrleistung auszurüsten.
+
+[^annexu1-4-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
 **Bauliche Massnahmen**
 
-Die Eidgenössische Zollverwaltung kann im Einvernehmen mit der zuständigen liechtensteinischen Behörde die auf dem Gebiet des Fürstentums Liechtenstein liegenden Grenzübergänge zur Republik Österreich mit der für den Vollzug der Gesetzgebung über die Schwerverkehrsabgabe notwendigen Infrastruktur ausrüsten.
+Die Eidgenössische Zollverwaltung[^annexu1-5-1] kann im Einvernehmen mit der zuständigen liechtensteinischen Behörde die auf dem Gebiet des Fürstentums Liechtenstein liegenden Grenzübergänge zur Republik Österreich mit der für den Vollzug der Gesetzgebung über die Schwerverkehrsabgabe notwendigen Infrastruktur ausrüsten.
+
+[^annexu1-5-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -134,7 +144,9 @@ Die Eidgenössische Zollverwaltung kann im Einvernehmen mit der zuständigen lie
 
 <sup>2</sup> Jeder der beiden Vertragsstaaten erhält aus dem Pool jährlich den Anteil am Nettoertrag aus der Schwerverkehrsabgabe, der sich nach dem in der Anlage IV festgelegten Verteilungsmodus ergibt.
 
-<sup>3</sup> Als Nettoertrag gilt der Ertrag nach Abzug der Rückerstattungen und der jährlichen Betriebskosten der Eidgenössischen Zollverwaltung und der anderen Vollzugsbehörden unter Berücksichtigung der Investitionskosten. Als Betriebskosten gelten sämtliche Aufwendungen, die für die Erhebung der Schwerverkehrsabgabe anfallen.
+<sup>3</sup> Als Nettoertrag gilt der Ertrag nach Abzug der Rückerstattungen und der jährlichen Betriebskosten der Eidgenössischen Zollverwaltung[^annexu1-6-1] und der anderen Vollzugsbehörden unter Berücksichtigung der Investitionskosten. Als Betriebskosten gelten sämtliche Aufwendungen, die für die Erhebung der Schwerverkehrsabgabe anfallen.
+
+[^annexu1-6-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 7
 
@@ -190,7 +202,7 @@ Das Amt für Strassenverkehr[^annexu1-7-1] des Fürstentums Liechtenstein wird f
 
 Der Notenaustausch vom 22. Dezember 1995/19. Februar 1996[^annexu1-12-1] zwischen der Schweiz und dem Fürstentum Liechtenstein über die Erhebung einer Schwerverkehrsabgabe und die Abgabe für die Benützung der Nationalstrassen wird aufgehoben, soweit er die Erhebung der Schwerverkehrsabgabe auf dem Gebiet des Fürstentums Liechtenstein betrifft.
 
-[^annexu1-12-1]: [SR 0.741.751.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2934)
+[^annexu1-12-1]: [SR 0.741.751.4](https://fedlex.data.admin.ch/eli/cc/1996/1250_1250_1250)
 
 #### Art. 13
 
@@ -248,7 +260,7 @@ Verordnung des EFD vom 5. Mai 2000 über die Entschädigung der kantonalen Behö
 
 [^t-2]: <sup>a</sup> Das Datum des Inkrafttretens der Verordnungen wird den liechtensteinischen Behörden auf diplomatischem Weg bekannt gegeben.
 
-Anlage IV [^t-3]
+Anlage IV *[^t-3]*
 
 \1. Der Nettoertrag wird wie folgt verteilt:
 
@@ -265,7 +277,7 @@ Anlage IV [^t-3]
 
 <table>
 <tr><td>Schweiz *(gemäss statistischem Lexikon)*</td><td>71 555</td><td></td></tr>
-<tr><td>Liechtenstein *(gemäss Amt für Bau und* *Infrastruktur**)*</td><td>401</td><td></td></tr>
+<tr><td>Liechtenstein *(gemäss Amt für Bau und Infrastruktur)*</td><td>401</td><td></td></tr>
 <tr><td>Total beider Länder</td><td>71 956</td><td></td></tr>
 <tr><td>Anteil FL</td><td>401 : 71 956 × 100</td><td>0,558 %</td></tr>
 </table>
@@ -290,7 +302,7 @@ Anlage IV [^t-3]
 
 3.4 Gewichtsverhältnis Direktimport und -export (Aussenhandel) (2018)
 
-(Quelle: Statistik der Eidgenössischen Zollverwaltung)
+(Quelle: Statistik der Eidgenössischen Zollverwaltung*[^t-4]*)
 
 <table>
 <tr><td>Anteil CH total in t</td><td></td><td></td></tr>
@@ -306,3 +318,4 @@ Anlage IV [^t-3]
 </table>
 
 [^t-3]: Bereinigt gemäss Notenaustausch vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)).
+[^t-4]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).

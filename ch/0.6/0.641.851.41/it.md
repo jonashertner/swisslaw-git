@@ -3,11 +3,11 @@ sr: "0.641.851.41"
 title: "Trattato dell' 11 aprile 2000 tra la Confederazione svizzera e il Principato del Liechtenstein concernente la tassa sul traffico pesante commisurata alle prestazioni nel Principato del Liechtenstein (con acc.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/112"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2000-04-11
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2001-112-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 tra la Confederazione Svizzera e il Principato del Liechtenstein concernente la tassa sul traffico pesante commisurata alle prestazioni nel Principato del Liechtenstein
 
-Concluso l’11 aprile 2000
+Concluso l’11 aprile 2000 Approvato dall’Assemblea federale l’11 dicembre 2000[^t-1] Ratificato con strumenti scambiati il 18 dicembre 2000 Entrato in vigore il 1° gennaio 2001
 
-Approvato dall’Assemblea federale l’11 dicembre 2000[^t-1]
-
-Ratificato con strumenti scambiati il 18 dicembre 2000
-
-Entrato in vigore il 1° gennaio 2001
-
-(Stato 1° gennaio 2021)
+(Stato 1° gennaio 2022)
 
 [^t-1]: [RU 2001 825](https://fedlex.data.admin.ch/eli/oc/2001/111)
 
@@ -92,9 +86,11 @@ hanno convenuto le disposizioni seguenti:
 
 <sup>1</sup> Il Principato del Liechtenstein assume nel suo diritto interno le prescrizioni della legislazione svizzera in materia di tassa sul traffico pesante, in conformità delle seguenti disposizioni.
 
-<sup>2</sup> La legislazione concernente la tassa sul traffico pesante determinante nel Principato del Liechtenstein al momento dell’entrata in vigore del presente accordo è menzionata negli allegati I a III. L’Amministrazione federale delle dogane notifica alle autorità del Liechtenstein le modifiche concernenti gli allegati I a III conformemente all’articolo 1 capoverso 3 del trattato.
+<sup>2</sup> La legislazione concernente la tassa sul traffico pesante determinante nel Principato del Liechtenstein al momento dell’entrata in vigore del presente accordo è menzionata negli allegati I a III. L’Amministrazione federale delle dogane[^annexu1-1-1] notifica alle autorità del Liechtenstein le modifiche concernenti gli allegati I a III conformemente all’articolo 1 capoverso 3 del trattato.
 
 <sup>3</sup> Per garantire un’applicazione uniforme del diritto relativo alla tassa sul traffico pesante sono previste nel Liechtenstein sanzioni equivalenti almeno a quelle del diritto svizzero per infrazioni analoghe.
+
+[^annexu1-1-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 2
 
@@ -108,7 +104,7 @@ Al fine della riscossione della tassa sul traffico pesante, i territori nazional
 
 <sup>1</sup> Essa applica la legislazione del Liechtenstein, ma il diritto procedurale svizzero. I rimedi giuridici si fondano sul diritto svizzero.
 
-L’Amministrazione federale delle dogane applica in nome del Principato del Liechtenstein la legislazione concernente la tassa sul traffico pesante nel territorio dello stesso per quanto concerne:
+L’Amministrazione federale delle dogane[^annexu1-3-1] applica in nome del Principato del Liechtenstein la legislazione concernente la tassa sul traffico pesante nel territorio dello stesso per quanto concerne:
 
 - a) i veicoli del Liechtenstein assoggettati alla tassa commisurata alle prestazioni;
 - b) i veicoli esteri che entrano nel Liechtenstein nel territorio comune d’applicazione.
@@ -122,17 +118,23 @@ L’Amministrazione federale delle dogane applica in nome del Principato del Lie
 - a) giudicate secondo il diritto svizzero se l’entrata nel territorio comune d’applicazione avviene in Svizzera;
 - b) giudicate secondo il diritto del Liechtenstein se l’entrata nel territorio comune d’applicazione avviene nel Liechtenstein. Le autorità svizzere applicano a tal riguardo il diritto procedurale svizzero. I rimedi giuridici si fondano sul diritto svizzero.
 
+[^annexu1-3-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 #### Art. 4
 
 **Veicoli del Liechtenstein**
 
-Gli autoveicoli immatricolati nel Principato del Liechtenstein assoggettati alla tassa sul traffico pesante, nonché i trattori a sella leggeri utilizzati per trainare rimorchi di trasporto assoggettati alla tassa sul traffico pesante, devono essere equipaggiati con un apparecchio elettronico per la rilevazione del chilometraggio riconosciuto dall’Amministrazione federale delle dogane conformemente alle disposizione dell’Allegato II.
+Gli autoveicoli immatricolati nel Principato del Liechtenstein assoggettati alla tassa sul traffico pesante, nonché i trattori a sella leggeri utilizzati per trainare rimorchi di trasporto assoggettati alla tassa sul traffico pesante, devono essere equipaggiati con un apparecchio elettronico per la rilevazione del chilometraggio riconosciuto dall’Amministrazione federale delle dogane[^annexu1-4-1] conformemente alle disposizione dell’Allegato II.
+
+[^annexu1-4-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
 **Provvedimenti edili**
 
-D’intesa con le competenti autorità del Liechtenstein, l’Amministrazione federale delle dogane può equipaggiare i valichi di confine con Paesi terzi situati nel territorio del Principato del Liechtenstein con le apparecchiature necessarie all’esecuzione della legislazione concernente la tassa sul traffico pesante.
+D’intesa con le competenti autorità del Liechtenstein, l’Amministrazione federale delle dogane[^annexu1-5-1] può equipaggiare i valichi di confine con Paesi terzi situati nel territorio del Principato del Liechtenstein con le apparecchiature necessarie all’esecuzione della legislazione concernente la tassa sul traffico pesante.
+
+[^annexu1-5-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -142,7 +144,9 @@ D’intesa con le competenti autorità del Liechtenstein, l’Amministrazione fe
 
 <sup>2</sup> Ogni Stato contraente riceve annualmente dalla casa comune la quotaparte del provento netto della tassa sul traffico pesante determinata secondo il metodo di ripartizione previsto nell’Allegato IV.
 
-<sup>3</sup> È reputato provento netto il provento dopo deduzione delle restituzioni e delle spese annue di gestione dell’Amministrazione federale delle dogane e delle altre autorità esecutive tenendo conto delle spese d’investimento. Per spese di gestione s’intendono tutte le spese per la riscossione della tassa sul traffico pesante.
+<sup>3</sup> È reputato provento netto il provento dopo deduzione delle restituzioni e delle spese annue di gestione dell’Amministrazione federale delle dogane[^annexu1-6-1] e delle altre autorità esecutive tenendo conto delle spese d’investimento. Per spese di gestione s’intendono tutte le spese per la riscossione della tassa sul traffico pesante.
+
+[^annexu1-6-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 7
 
@@ -198,7 +202,7 @@ Per le prestazioni relative all’esecuzione della legislazione concernente la t
 
 Lo scambio di note del 22 dicembre 1995/19 febbraio 1996[^annexu1-12-1] tra la Svizzera e il Principato del Liechtenstein concernente la riscossione di una tassa sul traffico pesante e di una tassa per l’utilizzazione delle strade nazionali è abrogato, per quanto concerne la riscossione della tassa sul traffico pesante nel territorio del Principato del Liechtenstein.
 
-[^annexu1-12-1]: [RS 0.741.751.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2934)
+[^annexu1-12-1]: [RS 0.741.751.4](https://fedlex.data.admin.ch/eli/cc/1996/1250_1250_1250)
 
 #### Art. 13
 
@@ -260,7 +264,7 @@ Ordinanza del DFF del 5 maggio 2000 concernente il compenso delle autorità cant
 
 [^t-2]: <sup>\*</sup> La data dell’entrata in vigore dell’O verrà comunicata alle autorità del Liechtenstein per la via diplomatica.
 
-Allegato IV[^t-3]
+Allegato IV*[^t-3]*
 
 \1. Il provento netto è ripartito come segue:
 
@@ -302,7 +306,7 @@ Allegato IV[^t-3]
 
 3.4 Rapporto ponderale importazione-esportazione dirette (commercio esterno) (2018)
 
-(Fonte: Statistica dell’Amministrazione federale delle dogane)
+(Fonte: Statistica dell’Amministrazione federale delle dogane*[^t-4]*)
 
 <table>
 <tr><td>Quota Svizzera totale in t</td><td></td><td></td></tr>
@@ -318,3 +322,4 @@ Allegato IV[^t-3]
 </table>
 
 [^t-3]: Aggiornato dallo scambio di note del 18 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)).
+[^t-4]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
