@@ -3,11 +3,11 @@ sr: "811.216"
 title: Verordnung vom 13. Dezember 2019 über das Register der Gesundheitsberufe (Registerverordnung GesBG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/20"
 language: de
-version: 2020-02-01
+version: 2022-01-01
 adopted: 2019-12-13
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/20/20200201/de/xml/fedlex-data-admin-ch-eli-cc-2020-20-20200201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/20/20200201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/20/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-20-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/20/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/20/20200201/de"
 
 (Registerverordnung GesBG)
 
-vom 13. Dezember 2019 (Stand am 1. Februar 2020)
+vom 13. Dezember 2019 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -72,7 +72,7 @@ Das SRK trägt die folgenden Daten zu Gesundheitsfachpersonen in das Gesundheits
 - b. Geburtsdatum und Geschlecht;
 - c. Korrespondenzsprache;
 - d. Nationalitäten;
-- e. Versichertennummer nach Artikel 50*e* Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^4-1] über die Alters- und Hinterlassenenversicherung;
+- e. AHV-Nummer[^4-1];
 - f. inländische Bildungsabschlüsse nach Artikel 12 Absatz 2 GesBG mit Ausstellungsdatum und -land;
 - g. anerkannte ausländische Bildungsabschlüsse nach Artikel 10 Absatz 1 GesBG mit Ausstellungsdatum und -land sowie dem Anerkennungsdatum;
 - h. nachgeprüfte ausländische Bildungsabschlüsse nach Artikel 15 Absatz 1 GesBG mit Ausstellungsdatum und -land sowie dem Nachprüfungsdatum;
@@ -88,7 +88,7 @@ Das SRK trägt die folgenden Daten zu Gesundheitsfachpersonen in das Gesundheits
 
 <sup>5</sup> Es entfernt und löscht Registereinträge nach den Bestimmungen von Artikel 27 GesBG.
 
-[^4-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4-1]: Ausdruck gemäss Anhang Ziff. II 30 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 5
 
@@ -124,7 +124,7 @@ Sie können zudem folgende Angaben eintragen:
 
 Sie tragen zu den 90-Tage-Dienstleistungserbringerinnen und ‑erbringern nach Artikel 15 GesBG folgende Daten ein:
 
-- a. die Meldungen von Dienstleistungserbringerinnen und -erbringern nach Artikel 15 GesBG;
+- a. die Meldungen von Dienstleistungserbringerinnen und ‑erbringern nach Artikel 15 GesBG;
 - b. das Datum der Meldung;
 - c. die Tatsache, dass die Dienstleistungserbringerin oder der -erbringer die 90 Tage im entsprechenden Kalenderjahr ausgeschöpft hat;
 - d. die Angaben nach den Absätzen 1 Buchstabe d und 6 Buchstaben c–g.
@@ -230,7 +230,7 @@ Die öffentlich zugänglichen Daten aus dem Gesundheitsberuferegister werden fol
 
 <sup>1</sup> Der Antrag auf Auskunft über die besonders schützenswerten Personendaten nach Artikel 26 Absatz 1 GesBG muss elektronisch innerhalb des Gesundheitsberuferegisters gestellt werden.
 
-<sup>2</sup> Der Antrag auf Auskunft über die besonders schützenswerten Personendaten nach Artikel 26 Absatz 2 GesBG kann in Papierform oder per E-Mail gestellt werden.
+<sup>2</sup> Der Antrag auf Auskunft über die besonders schützenswerten Personendaten nach Artikel 26 Absatz 2 GesBG kann in Papierform oder per E‑Mail gestellt werden.
 
 <sup>3</sup> Das SRK gibt den zuständigen Behörden die beantragten besonders schützenswerten Personendaten nach Artikel 5 Absatz 6 über eine sichere Verbindung bekannt.
 
@@ -337,7 +337,7 @@ Anhang
 <tr><td>A</td><td>Eintragen, ändern, löschen, lesen</td></tr>
 <tr><td>B</td><td>Änderungsantrag, lesen</td></tr>
 <tr><td>C</td><td>Lesen</td></tr>
-<tr><td>D</td><td>Melden, Änderungsantrag per E-Mail</td></tr>
+<tr><td>D</td><td>Melden, Änderungsantrag per E‑Mail</td></tr>
 <tr><td>S</td><td>Melden via eine sichere Verbindung von besonders schützenswerten Personendaten nach Art. 5 Abs. 6, elektronischer Änderungsantrag, elektronischer Antrag auf Auskunft über besonders schützenswerte Personendaten, die durch einen anderen Kanton verfügt wurden</td></tr>
 <tr><td>I</td><td>Öffentlich zugänglich im Abrufverfahren</td></tr>
 <tr><td>O</td><td>Öffentlich zugänglich auf Anfrage</td></tr>
@@ -359,62 +359,62 @@ Anhang
 </table>
 
 <table>
-<tr><th></th><th>Datenfelder Gesundheitsberuferegister</th><th colspan="3">Inhalt und Zugriff</th><th></th><th></th><th colspan="6">Verantwortlicher Datenlieferant</th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>Inhalt</th><th>Öffentlich zugänglich via Abrufverfahren (Internet)</th><th colspan="3">Öffentlich zugängliche Daten (auf Anfrage)</th><th>BAG</th><th>SRK</th><th>Refdata</th><th>BFS</th><th>Kantone</th><th colspan="3">Hochschulen</th><th colspan="5">Höhere Fachschulen</th></tr>
-<tr><td>1</td><td colspan="19">Personenstammdaten</td></tr>
-<tr><td>1.1</td><td>Vornamen, Name</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.2</td><td>Frühere Namen</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.3</td><td>Geburtsdatum</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.4</td><td>Jahrgang</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.5</td><td>Geschlecht</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.6</td><td>Korrespondenzsprache</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.7</td><td>Nationalitäten</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.8</td><td>Versichertennummer der AHV</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>1.9</td><td>Personen-Identifikationsnummer (GLN)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>C</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>1.10</td><td>Unternehmensidentifikationsnummer (UID)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>A</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>1.11</td><td>Registrierungsnummer-SRK</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>1.12</td><td>Todesdatum</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>2</td><td colspan="19">Daten zum Bildungsabschluss</td></tr>
-<tr><td>2.1</td><td>Inländischer Bildungsabschluss mit Ausstellungsdatum des Diploms</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>2.2</td><td>Anerkannter ausländischer Bildungsabschluss mit Ausstellungsdatum sowie Anerkennungsdatum</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>2.3</td><td>Nachgeprüfter ausländischer Bildungsabschluss mit Ausstellungsdatum sowie Nachprüfungsdatum</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>2.4</td><td>Bildungsabschluss nach Art. 34 Abs. 3 GesBG mit Ausstellungsdatum sowie gegebenenfalls mit Anerkennungsdatum</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>2.5</td><td>Land der Diplomerteilung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>3</td><td colspan="19">Daten zur Berufsausübungsbewilligung</td></tr>
-<tr><td>3.1</td><td>Bewilligungskanton</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.2</td><td>Rechtsgrundlage der Berufsausübungsbewilligung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.3</td><td>Status der Berufsausübungsbewilligung (erteilt, keine Bewilligung), mit Datum des Entscheids</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.4</td><td>Praxis- oder Betriebsnamen</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.5</td><td>Angabe, ob es sich um ein Einzelunternehmen handelt</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.6</td><td>Rechtsform der juristischen Person</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.7</td><td>UID der juristischen Person</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.8</td><td>Praxis- oder Betriebsadressen (Strasse, PLZ, Ort)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.9</td><td>Praxis- oder Betriebstelefonnummern</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.10</td><td>E-Mail-Adressen</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.11</td><td>Datum der Befristung der Berufsausübungsbewilligung</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.12</td><td>Fachliche, zeitliche oder räumliche Einschränkungen mit Datum des Entscheids und Angabe einer allfälligen Befristung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.13</td><td>Beschreibung der Einschränkungen</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.14</td><td>Auflagen mit Datum des Entscheids und Angabe einer allfälligen Befristung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.15</td><td>Beschreibung der Auflagen</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.16</td><td>Verweigerung oder Entzug der Bewilligung mit Entscheiddatum</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4</td><td colspan="19">Daten zu den 90-Tage-Dienstleistungserbringerinnen und -erbringern</td></tr>
-<tr><td>4.1</td><td>Meldungen von Dienstleistungserbringerinnen und -erbringern nach Art. 15 GesBG</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.2</td><td>Datum der Meldung</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.3</td><td>Start- und Enddatum der Dienstleistung</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.4</td><td>Tatsache, dass eine Dienstleistungserbringerin/ein Dienstleistungserbringer die 90 Tage im Kalenderjahr ausgeschöpft hat</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.5</td><td>Praxis- bzw. Betriebsnamen</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.6</td><td>Praxis- oder Betriebsadressen (Strasse, PLZ, Ort)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.7</td><td>Praxis- oder Betriebstelefonnummern</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.8</td><td>E-Mail-Adressen</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5</td><td colspan="19">Besonders schützenswerte Personendaten</td></tr>
-<tr><td>5.1</td><td>Vorhandensein besonders schützenswerter Personendaten nach Art. 5 Abs. 6 (ja/nein)</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.2</td><td>Vermerk «gelöscht» nach Art. 27 Abs. 3 GesBG sowie Datum des Vermerks</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.3</td><td>Aufgehobene Einschränkungen mit Datum der Aufhebung</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.4</td><td>Gründe für die Verweigerung der Bewilligung oder für deren Entzug</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.5</td><td>Verwarnung mit Grund und Datum des Entscheids</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.6</td><td>Verweis mit Grund und Datum des Entscheids</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.7</td><td>Busse mit Grund und Datum des Entscheids sowie Höhe der Busse</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.8</td><td>Befristetes Verbot der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids sowie von Beginn und Ende des Verbots</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.9</td><td>Definitives Verbot der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.10</td><td>Disziplinarmassnahmen nach Art. 25 Abs. 1 GesBG gestützt auf kantonales Recht mit Grund und Datum des Entscheids</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
+<tr><th></th><th>Datenfelder Gesundheitsberuferegister</th><th colspan="3">Inhalt und Zugriff</th><th colspan="7">Verantwortlicher Datenlieferant</th></tr>
+<tr><th></th><th></th><th>Inhalt</th><th>Öffentlich zugänglich via Abrufverfahren (Internet)</th><th>Öffentlich zugängliche Daten (auf Anfrage)</th><th>BAG</th><th>SRK</th><th>Refdata</th><th>BFS</th><th>Kantone</th><th>Hochschulen</th><th>Höhere Fachschulen</th></tr>
+<tr><td>1</td><td colspan="11">Personenstammdaten</td></tr>
+<tr><td>1.1</td><td>Vornamen, Name</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.2</td><td>Frühere Namen</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.3</td><td>Geburtsdatum</td><td>X</td><td></td><td>O</td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.4</td><td>Jahrgang</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.5</td><td>Geschlecht</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.6</td><td>Korrespondenzsprache</td><td>X</td><td></td><td>O</td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.7</td><td>Nationalitäten</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.8</td><td>AHV-Nummer</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>1.9</td><td>Personen-Identifikationsnummer (GLN)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>C</td><td>B</td><td></td><td></td></tr>
+<tr><td>1.10</td><td>Unternehmensidentifikationsnummer (UID)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>1.11</td><td>Registrierungsnummer-SRK</td><td>Y</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td></tr>
+<tr><td>1.12</td><td>Todesdatum</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td></tr>
+<tr><td>2</td><td colspan="11">Daten zum Bildungsabschluss</td></tr>
+<tr><td>2.1</td><td>Inländischer Bildungsabschluss mit Ausstellungsdatum des Diploms</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>2.2</td><td>Anerkannter ausländischer Bildungsabschluss mit Ausstellungsdatum sowie Anerkennungsdatum</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td></td><td></td></tr>
+<tr><td>2.3</td><td>Nachgeprüfter ausländischer Bildungsabschluss mit Ausstellungsdatum sowie Nachprüfungsdatum</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td></td><td></td></tr>
+<tr><td>2.4</td><td>Bildungsabschluss nach Art. 34 Abs. 3 GesBG mit Ausstellungsdatum sowie gegebenenfalls mit Anerkennungsdatum</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td></td><td></td></tr>
+<tr><td>2.5</td><td>Land der Diplomerteilung</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>3</td><td colspan="11">Daten zur Berufsausübungsbewilligung</td></tr>
+<tr><td>3.1</td><td>Bewilligungskanton</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.2</td><td>Rechtsgrundlage der Berufsausübungsbewilligung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.3</td><td>Status der Berufsausübungsbewilligung (erteilt, keine Bewilligung), mit Datum des Entscheids</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.4</td><td>Praxis- oder Betriebsnamen</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.5</td><td>Angabe, ob es sich um ein Einzelunternehmen handelt</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.6</td><td>Rechtsform der juristischen Person</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.7</td><td>UID der juristischen Person</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.8</td><td>Praxis- oder Betriebsadressen (Strasse, PLZ, Ort)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.9</td><td>Praxis- oder Betriebstelefonnummern</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.10</td><td>E-Mail-Adressen</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.11</td><td>Datum der Befristung der Berufsausübungsbewilligung</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.12</td><td>Fachliche, zeitliche oder räumliche Einschränkungen mit Datum des Entscheids und Angabe einer allfälligen Befristung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.13</td><td>Beschreibung der Einschränkungen</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.14</td><td>Auflagen mit Datum des Entscheids und Angabe einer allfälligen Befristung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.15</td><td>Beschreibung der Auflagen</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.16</td><td>Verweigerung oder Entzug der Bewilligung mit Entscheiddatum</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>4</td><td colspan="11">Daten zu den 90-Tage-Dienstleistungserbringerinnen und -erbringern</td></tr>
+<tr><td>4.1</td><td>Meldungen von Dienstleistungserbringerinnen und -erbringern nach Art. 15 GesBG</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.2</td><td>Datum der Meldung</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.3</td><td>Start- und Enddatum der Dienstleistung</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.4</td><td>Tatsache, dass eine Dienstleistungserbringerin/ein Dienstleistungserbringer die 90 Tage im Kalenderjahr ausgeschöpft hat</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.5</td><td>Praxis- bzw. Betriebsnamen</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.6</td><td>Praxis- oder Betriebsadressen (Strasse, PLZ, Ort)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.7</td><td>Praxis- oder Betriebstelefonnummern</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.8</td><td>E-Mail-Adressen</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>5</td><td colspan="11">Besonders schützenswerte Personendaten</td></tr>
+<tr><td>5.1</td><td>Vorhandensein besonders schützenswerter Personendaten nach Art. 5 Abs. 6 (ja/nein)</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>5.2</td><td>Vermerk «gelöscht» nach Art. 27 Abs. 3 GesBG sowie Datum des Vermerks</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>5.3</td><td>Aufgehobene Einschränkungen mit Datum der Aufhebung</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.4</td><td>Gründe für die Verweigerung der Bewilligung oder für deren Entzug</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.5</td><td>Verwarnung mit Grund und Datum des Entscheids</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.6</td><td>Verweis mit Grund und Datum des Entscheids</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.7</td><td>Busse mit Grund und Datum des Entscheids sowie Höhe der Busse</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.8</td><td>Befristetes Verbot der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids sowie von Beginn und Ende des Verbots</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.9</td><td>Definitives Verbot der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.10</td><td>Disziplinarmassnahmen nach Art. 25 Abs. 1 GesBG gestützt auf kantonales Recht mit Grund und Datum des Entscheids</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
 </table>

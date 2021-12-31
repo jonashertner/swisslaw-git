@@ -3,11 +3,11 @@ sr: "811.216"
 title: Ordinanza del 13 dicembre 2019 sul registro delle professioni sanitarie (Ordinanza sul registro LPSan)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/20"
 language: it
-version: 2020-02-01
+version: 2022-01-01
 adopted: 2019-12-13
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/20/20200201/it/xml/fedlex-data-admin-ch-eli-cc-2020-20-20200201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/20/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/20/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-20-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/20/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/20/20200201/it"
 
 (Ordinanza sul registro LPSan)
 
-del 13 dicembre 2019 (Stato 1° febbraio 2020)
+del 13 dicembre 2019 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -72,7 +72,7 @@ La CRS iscrive nel registro delle professioni sanitarie i seguenti dati relativi
 - b. la data di nascita e il sesso;
 - c. la lingua di corrispondenza;
 - d. le cittadinanze;
-- e. il numero d’assicurato di cui all’articolo 50*e* capoverso 1 della legge federale del 20 dicembre 1946[^4-1] sull’assicurazione per la vecchiaia e per i superstiti;
+- e. il numero AVS[^4-1] sull’assicurazione per la vecchiaia e per i superstiti;
 - f. titoli di studio svizzeri di cui all’articolo 12 capoverso 2 LPSan con la data d’emissione e il Paese di rilascio;
 - g. titoli di studio esteri riconosciuti di cui all’articolo 10 capoverso 1 LPSan con la data d’emissione e il Paese di rilascio, nonché la data di riconoscimento;
 - h. titoli di studio esteri verificati di cui all’articolo 15 capoverso 1 LPSan con la data d’emissione e il Paese di rilascio, nonché la data della verifica;
@@ -88,7 +88,7 @@ La CRS iscrive nel registro delle professioni sanitarie i seguenti dati relativi
 
 <sup>5</sup> Essa elimina e cancella le iscrizioni del registro secondo le disposizioni dell’articolo 27 LPSan.
 
-[^4-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^4-1]: Nuova espr. giusta l’all. n. II 30 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 5
 
@@ -164,7 +164,7 @@ Le scuole specializzate superiori notificano alla CRS i dati di cui all’artico
 
 #### Art. 8
 
-**[Ufficio federale di statistica](https://www.admin.ch/opc/it/classified-compilation/20163462/index.html)**
+**Ufficio federale di statistica**
 
 L’Ufficio federale di statistica (UST) iscrive l’IDI nel registro delle professioni sanitarie.
 
@@ -307,7 +307,7 @@ Tutti i servizi che partecipano al registro delle professioni sanitarie adottano
 
 **Modifica di altri atti normativi**
 
-...[^21-1]
+…[^21-1]
 
 [^21-1]: La mod. può essere consultata alla [RU 2020 111](https://fedlex.data.admin.ch/eli/oc/2020/20).
 
@@ -359,62 +359,62 @@ Allegato
 </table>
 
 <table>
-<tr><th></th><th>Campi di dati del registro delle professioni sanitarie</th><th colspan="3">Contenuto e accesso</th><th></th><th></th><th colspan="6">Fornitore responsabile</th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>Contenuto</th><th>Accessibile al pubblico (mediante procedura di richiamo via Internet)</th><th colspan="3">Dati accessibili al pubblico (su richiesta)</th><th>UFSP</th><th>CRS</th><th>Refdata</th><th>UST</th><th>Cantoni</th><th colspan="3">Scuole universitarie</th><th colspan="5">Scuole specializzate superiori</th></tr>
-<tr><td>1</td><td colspan="19">Dati personali di base</td></tr>
-<tr><td>1.1</td><td>Nomi, cognome</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.2</td><td>Cognomi precedenti</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.3</td><td>Data di nascita</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.4</td><td>Anno di nascita</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.5</td><td>Sesso</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.6</td><td>Lingua di corrispondenza</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.7</td><td>Cittadinanze</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>1.8</td><td>Numero d’assicurato AVS</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>1.9</td><td>Numero d’identificazione delle persone (GLN)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>A</td><td>C</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>1.10</td><td>Numero d’identificazione delle imprese (IDI)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>B</td><td>A</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>1.11</td><td>Numero di registrazione CRS</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>1.12</td><td>Data del decesso</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>2</td><td colspan="19">Dati riguardanti il titolo di studio</td></tr>
-<tr><td>2.1</td><td>Titolo di studio svizzero con la data di emissione del diploma</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>2.2</td><td>Titolo di studio estero riconosciuto con la data di emissione e la data del riconoscimento</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>2.3</td><td>Titolo di studio estero verificato con la data di emissione e la data della verifica</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>2.4</td><td>Titolo di studio di cui all’art. 34 cpv. 3 LPSan con la data di emissione e con l’eventuale data del riconoscimento</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>C</td><td></td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>2.5</td><td>Paese di rilascio del diploma</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td colspan="3">D</td><td colspan="5">D</td></tr>
-<tr><td>3</td><td colspan="19">Dati riguardanti l’autorizzazione all’esercizio della professione</td></tr>
-<tr><td>3.1</td><td>Cantone che ha rilasciato l’autorizzazione</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.2</td><td>Base legale per l’autorizzazione all’esercizio della professione</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.3</td><td>Stato dell’autorizzazione all’esercizio della professione (rilasciata, nessuna autorizzazione), con la data della decisione</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.4</td><td>Nome dello studio o dell’azienda</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.5</td><td>Indicazione se si tratta o no di una ditta individuale</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.6</td><td>Forma giuridica della persona giuridica</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.7</td><td>IDI della persona giuridica</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.8</td><td>Indirizzo dello studio o dell’azienda (via, NPA, località)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.9</td><td>Numeri di telefono dello studio o dell’azienda</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.10</td><td>Indirizzi di posta elettronica</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.11</td><td>Data di un termine di scadenza dell’autorizzazione all’esercizio della professione</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.12</td><td>Restrizioni professionali, temporali o geografiche con la data della decisione e indicazione di un eventuale termine di scadenza</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.13</td><td>Descrizione delle restrizioni</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.14</td><td>Oneri con la data della decisione e indicazione di un eventuale termine di scadenza</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.15</td><td>Descrizione degli oneri</td><td>X</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>3.16</td><td>Rifiuto o revoca dell’autorizzazione con la data della decisione</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4</td><td colspan="19">Dati riguardanti i prestatori di servizi autorizzati a esercitare la professione durante 90 giorni</td></tr>
-<tr><td>4.1</td><td>Annunci di prestatori di servizi di cui all’art. 15 LPSan</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.2</td><td>Data dell’annuncio</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.3</td><td>Data di inizio e fine delle prestazioni</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.4</td><td>Indicazione se i prestatori di servizi hanno esaurito i 90 giorni nel corrispondente anno civile</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.5</td><td>Nome dello studio o dell’azienda</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.6</td><td>Indirizzo dello studio o dell’azienda (via, NPA, località)</td><td>X</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.7</td><td>Numero di telefono dello studio o dell’azienda</td><td>Y</td><td>I</td><td colspan="3"></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>4.8</td><td>Indirizzi di posta elettronica</td><td>Y</td><td></td><td colspan="3">O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5</td><td colspan="19">Dati personali degni di particolare protezione</td></tr>
-<tr><td>5.1</td><td>Presenza di dati personali degni di particolare protezione di cui all’art. 5 cpv. 6 (sì/no)</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.2</td><td>Menzione «cancellato» di cui all’art. 27 cpv. 3 LPSan e data della menzione</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.3</td><td>Restrizioni soppresse con la data della soppressione</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.4</td><td>Motivi del rifiuto dell’autorizzazione o della sua revoca</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.5</td><td>Avvertimento con il motivo e la data della decisione</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.6</td><td>Ammonimento con il motivo e la data della decisione</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.7</td><td>Multa con il motivo, la data della decisione e l’importo della stessa</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.8</td><td>Divieto temporaneo all’esercizio della professione sotto la propria responsabilità professionale, con il motivo e la data della decisione nonché l’inizio e la fine del divieto</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.9</td><td>Divieto definitivo all’esercizio della professione sotto la propria responsabilità professionale, con il motivo e la data della decisione</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
-<tr><td>5.10</td><td>Misure disciplinari di cui all’art. 25 cpv. 1 LPSan fondate sul diritto cantonale con il motivo e la data della decisione</td><td>X</td><td></td><td colspan="3"></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td colspan="3"></td><td colspan="5"></td></tr>
+<tr><th></th><th>Campi di dati del registro delle professioni sanitarie</th><th colspan="3">Contenuto e accesso</th><th colspan="7">Fornitore responsabile</th></tr>
+<tr><th></th><th></th><th>Contenuto</th><th>Accessibile al pubblico (mediante procedura di richiamo via Internet)</th><th>Dati accessibili al pubblico (su richiesta)</th><th>UFSP</th><th>CRS</th><th>Refdata</th><th>UST</th><th>Cantoni</th><th>Scuole universitarie</th><th>Scuole specializzate superiori</th></tr>
+<tr><td>1</td><td colspan="11">Dati personali di base</td></tr>
+<tr><td>1.1</td><td>Nomi, cognome</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.2</td><td>Cognomi precedenti</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.3</td><td>Data di nascita</td><td>X</td><td></td><td>O</td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.4</td><td>Anno di nascita</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.5</td><td>Sesso</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.6</td><td>Lingua di corrispondenza</td><td>X</td><td></td><td>O</td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.7</td><td>Cittadinanze</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>1.8</td><td>Numero AVS</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>1.9</td><td>Numero d’identificazione delle persone (GLN)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>A</td><td>C</td><td>B</td><td></td><td></td></tr>
+<tr><td>1.10</td><td>Numero d’identificazione delle imprese (IDI)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>B</td><td>A</td><td>B</td><td></td><td></td></tr>
+<tr><td>1.11</td><td>Numero di registrazione CRS</td><td>Y</td><td>I</td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td></tr>
+<tr><td>1.12</td><td>Data del decesso</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td>B</td><td>B</td><td>B</td><td></td><td></td></tr>
+<tr><td>2</td><td colspan="11">Dati riguardanti il titolo di studio</td></tr>
+<tr><td>2.1</td><td>Titolo di studio svizzero con la data di emissione del diploma</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>2.2</td><td>Titolo di studio estero riconosciuto con la data di emissione e la data del riconoscimento</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td></td><td></td></tr>
+<tr><td>2.3</td><td>Titolo di studio estero verificato con la data di emissione e la data della verifica</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td></td><td></td></tr>
+<tr><td>2.4</td><td>Titolo di studio di cui all’art. 34 cpv. 3 LPSan con la data di emissione e con l’eventuale data del riconoscimento</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>C</td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>2.5</td><td>Paese di rilascio del diploma</td><td>X</td><td>I</td><td></td><td>C</td><td>A</td><td>C</td><td>C</td><td>B</td><td>D</td><td>D</td></tr>
+<tr><td>3</td><td colspan="11">Dati riguardanti l’autorizzazione all’esercizio della professione</td></tr>
+<tr><td>3.1</td><td>Cantone che ha rilasciato l’autorizzazione</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.2</td><td>Base legale per l’autorizzazione all’esercizio della professione</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.3</td><td>Stato dell’autorizzazione all’esercizio della professione (rilasciata, nessuna autorizzazione), con la data della decisione</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.4</td><td>Nome dello studio o dell’azienda</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.5</td><td>Indicazione se si tratta o no di una ditta individuale</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.6</td><td>Forma giuridica della persona giuridica</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.7</td><td>IDI della persona giuridica</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.8</td><td>Indirizzo dello studio o dell’azienda (via, NPA, località)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.9</td><td>Numeri di telefono dello studio o dell’azienda</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.10</td><td>Indirizzi di posta elettronica</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.11</td><td>Data di un termine di scadenza dell’autorizzazione all’esercizio della professione</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.12</td><td>Restrizioni professionali, temporali o geografiche con la data della decisione e indicazione di un eventuale termine di scadenza</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.13</td><td>Descrizione delle restrizioni</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.14</td><td>Oneri con la data della decisione e indicazione di un eventuale termine di scadenza</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.15</td><td>Descrizione degli oneri</td><td>X</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>3.16</td><td>Rifiuto o revoca dell’autorizzazione con la data della decisione</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>4</td><td colspan="11">Dati riguardanti i prestatori di servizi autorizzati a esercitare la professione durante 90 giorni</td></tr>
+<tr><td>4.1</td><td>Annunci di prestatori di servizi di cui all’art. 15 LPSan</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.2</td><td>Data dell’annuncio</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.3</td><td>Data di inizio e fine delle prestazioni</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.4</td><td>Indicazione se i prestatori di servizi hanno esaurito i 90 giorni nel corrispondente anno civile</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>C</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.5</td><td>Nome dello studio o dell’azienda</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.6</td><td>Indirizzo dello studio o dell’azienda (via, NPA, località)</td><td>X</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.7</td><td>Numero di telefono dello studio o dell’azienda</td><td>Y</td><td>I</td><td></td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>4.8</td><td>Indirizzi di posta elettronica</td><td>Y</td><td></td><td>O</td><td>C</td><td>B</td><td>C</td><td>B</td><td>A</td><td></td><td></td></tr>
+<tr><td>5</td><td colspan="11">Dati personali degni di particolare protezione</td></tr>
+<tr><td>5.1</td><td>Presenza di dati personali degni di particolare protezione di cui all’art. 5 cpv. 6 (sì/no)</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>5.2</td><td>Menzione «cancellato» di cui all’art. 27 cpv. 3 LPSan e data della menzione</td><td>X</td><td></td><td></td><td>C</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>5.3</td><td>Restrizioni soppresse con la data della soppressione</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.4</td><td>Motivi del rifiuto dell’autorizzazione o della sua revoca</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.5</td><td>Avvertimento con il motivo e la data della decisione</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.6</td><td>Ammonimento con il motivo e la data della decisione</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.7</td><td>Multa con il motivo, la data della decisione e l’importo della stessa</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.8</td><td>Divieto temporaneo all’esercizio della professione sotto la propria responsabilità professionale, con il motivo e la data della decisione nonché l’inizio e la fine del divieto</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.9</td><td>Divieto definitivo all’esercizio della professione sotto la propria responsabilità professionale, con il motivo e la data della decisione</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
+<tr><td>5.10</td><td>Misure disciplinari di cui all’art. 25 cpv. 1 LPSan fondate sul diritto cantonale con il motivo e la data della decisione</td><td>X</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td>S</td><td></td><td></td></tr>
 </table>
