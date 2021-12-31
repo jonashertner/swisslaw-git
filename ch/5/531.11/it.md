@@ -4,11 +4,11 @@ title: "Ordinanza del 10 maggio 2017 sull'approvvigionamento economico del Paese
 short: OAEP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/309"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-309-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-309-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20210101/it"
 
 (OAEP)
 
-del 10 maggio 2017 (Stato 1° gennaio 2021)
+del 10 maggio 2017 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -152,21 +152,22 @@ Il delegato può affidare compiti di approvvigionamento economico del Paese ai s
 - d. Istituto svizzero per gli agenti terapeutici;
 - e. Ufficio federale della sicurezza alimentare e di veterinaria;
 - f. Farmacia dell’esercito;
-- g. Amministrazione federale delle dogane;
+- g. Ufficio federale della dogana e della sicurezza dei confini[^8-1];
 - h. Ufficio federale dell’ambiente;
 - i. Ufficio federale dei trasporti;
 - j. Ufficio federale delle strade;
 - k. Ufficio federale dell’aviazione civile;
 - l. Ufficio federale delle comunicazioni;
 - m. Ufficio federale dell’energia;
-- n.[^8-1] Cancelleria federale;
+- n.[^8-2] Cancelleria federale;
 - o. Sorvegliante dei prezzi.
 
 <sup>2</sup> I servizi di cui al capoverso 1 sono equiparati ai settori specializzati e subordinati al delegato per quanto svolgano compiti di approvvigionamento economico del Paese.
 
 <sup>3</sup> Il delegato può far capo alla collaborazione di altri servizi federali.
 
-[^8-1]: Nuovo testo giusta l’all. n. 15 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^8-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^8-2]: Nuovo testo giusta l’all. n. 15 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 9
 
@@ -299,7 +300,7 @@ L’UFAE può disdire il contratto per la costituzione di scorte obbligatorie:
 
 **Obbligo di informare**
 
-L’Amministrazione federale delle dogane e l’Istituto svizzero per gli agenti terapeutici mettono a disposizione dell’UFAE e delle organizzazioni incaricate di rilasciare i permessi d’esportazione o di censire le persone tenute alla costituzione di scorte, in maniera adeguata, i dati necessari concernenti i permessi e le importazioni, in particolare le dichiarazioni doganali o fiscali.
+L’Ufficio federale della dogana e della sicurezza dei confini e l’Istituto svizzero per gli agenti terapeutici mettono a disposizione dell’UFAE e delle organizzazioni incaricate di rilasciare i permessi d’esportazione o di censire le persone tenute alla costituzione di scorte, in maniera adeguata, i dati necessari concernenti i permessi e le importazioni, in particolare le dichiarazioni doganali o fiscali.
 
 ### Sezione 2: Liberazione di scorte obbligatorie
 

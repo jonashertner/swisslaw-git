@@ -4,11 +4,11 @@ title: "Ordonnance du 10 mai 2017 sur l'approvisionnement économique du pays (O
 short: OAEP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/309"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-309-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-309-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20210101/fr"
 
 (OAEP)
 
-du 10 mai 2017 (Etat le 1<sup>er</sup> janvier 2021)
+du 10 mai 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -152,21 +152,22 @@ Le délégué peut confier des tâches d’approvisionnement économique du pays
 - d. Institut suisse des produits thérapeutiques;
 - e. Office fédéral de la sécurité alimentaire et des affaires vétérinaires;
 - f. Pharmacie de l’armée;
-- g. Administration fédérale des douanes;
+- g. Office fédéral de la douane et de la sécurité des frontières[^8-1];
 - h. Office fédéral de l’environnement;
 - i. Office fédéral des transports;
 - j. Office fédéral des routes;
 - k. Office fédéral de l’aviation civile*;*
 - l. Office fédéral de la communication;
 - m. Office fédéral de l’énergie;
-- n.[^8-1] Chancellerie fédérale;
+- n.[^8-2] Chancellerie fédérale;
 - o. Surveillant des prix.
 
 <sup>2</sup> Les entités fédérales visées à l’al. 1 sont assimilées aux domaines et subordonnées au délégué pour autant qu’elles assument des tâches d’approvisionnement économique du pays.
 
 <sup>3</sup> Le délégué peut faire appel à d’autres entités fédérales.
 
-[^8-1]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^8-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^8-2]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 9
 
@@ -299,7 +300,7 @@ L’OFAE peut résilier le contrat de stockage obligatoire:
 
 **Obligation de fournir des renseignements**
 
-L’Administration fédérale des douanes et l’Institut suisse des produits thérapeutiques mettent, sous une forme adaptée, les données nécessaires concernant les permis ou les importations, notamment les déclarations de douane ou d’impôts, à la disposition de l’OFAE et des organisations chargées d’accorder les permis d’importation ou de recenser les personnes astreintes au stockage obligatoire.
+L’Office fédéral de la douane et de la sécurité des frontières et l’Institut suisse des produits thérapeutiques mettent, sous une forme adaptée, les données nécessaires concernant les permis ou les importations, notamment les déclarations de douane ou d’impôts, à la disposition de l’OFAE et des organisations chargées d’accorder les permis d’importation ou de recenser les personnes astreintes au stockage obligatoire.
 
 ### Section 2 Libération de réserves obligatoires
 

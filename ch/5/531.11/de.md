@@ -4,11 +4,11 @@ title: Verordnung vom 10. Mai 2017 über die wirtschaftliche Landesversorgung (V
 short: VWLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/309"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-309-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-309-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20210101/de"
 
 (VWLV)
 
-vom 10. Mai 2017 (Stand am 1. Januar 2021)
+vom 10. Mai 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -152,21 +152,22 @@ Die oder der Delegierte kann folgende Bundesstellen mit Aufgaben der wirtschaftl
 - d. das Schweizerische Heilmittelinstitut;
 - e. das Bundesamt für Lebensmittelsicherheit und Veterinärwesen;
 - f. die Armeeapotheke;
-- g. die Eidgenössische Zollverwaltung;
+- g. das Bundesamt für Zoll und Grenzsicherheit[^8-1];
 - h. das Bundesamt für Umwelt;
 - i. das Bundesamt für Verkehr;
 - j. das Bundesamt für Strassen;
 - k. das Bundesamt für Zivilluftfahrt;
 - l. das Bundesamt für Kommunikation;
 - m. das Bundesamt für Energie;
-- n.[^8-1] die Bundeskanzlei;
+- n.[^8-2] die Bundeskanzlei;
 - o. den Preisüberwacher.
 
 <sup>2</sup> Soweit die Stellen nach Absatz 1 Aufgaben der wirtschaftlichen Landesversorgung wahrnehmen, sind sie den Fachbereichen gleichgestellt und unterstehen der oder dem Delegierten.
 
 <sup>3</sup> Die oder der Delegierte kann weitere Bundesstellen zur Mitarbeit heranziehen.
 
-[^8-1]: Fassung gemäss Anhang Ziff. 15 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^8-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^8-2]: Fassung gemäss Anhang Ziff. 15 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 9
 
@@ -299,7 +300,7 @@ Das BWL kann den Pflichtlagervertrag wie folgt kündigen:
 
 **Auskunftspflicht**
 
-Die Eidgenössische Zollverwaltung und das Schweizerische Heilmittelinstitut stellen dem BWL und den Organisationen, die mit der Erteilung von Einfuhrbewilligungen oder der Erfassung von Lagerpflichtigen beauftragt sind, die nötigen Bewilligungs- und Einfuhrdaten, insbesondere Zoll- und Steuerdeklarationen, in geeigneter Form zur Verfügung.
+Das Bundesamt für Zoll und Grenzsicherheit und das Schweizerische Heilmittelinstitut stellen dem BWL und den Organisationen, die mit der Erteilung von Einfuhrbewilligungen oder der Erfassung von Lagerpflichtigen beauftragt sind, die nötigen Bewilligungs- und Einfuhrdaten, insbesondere Zoll- und Steuerdeklarationen, in geeigneter Form zur Verfügung.
 
 ### 2. Abschnitt: Freigabe von Pflichtlagern
 
@@ -568,13 +569,13 @@ Die folgenden Erlasse werden aufgehoben:
 - 7\. Gebührentarif vom 30. April 1957[^46-7] zum Bundesratsbeschluss betreffend vorsorgliche Schutzmassnahmen für juristische Personen, Personengesellschaften und Einzelfirmen;
 - 8\. Bundesratsbeschluss vom 12. April 1957[^46-8] über den Schutz von Wertpapieren und ähnlichen Urkunden durch vorsorgliche Massnahmen.
 
-[^46-1]: [[AS 1983 950](https://fedlex.data.admin.ch/eli/oc/1983/950_950_950), [2000 2041](https://fedlex.data.admin.ch/eli/oc/2000/308), [2001 1443](https://fedlex.data.admin.ch/eli/oc/2001/206), [2002 1514](https://fedlex.data.admin.ch/eli/oc/2002/238), [2003 2167](https://fedlex.data.admin.ch/eli/oc/2003/318)Anhang Ziff. 1]
+[^46-1]: [[AS 1983 950](https://fedlex.data.admin.ch/eli/oc/1983/950_950_950); [2000 2041](https://fedlex.data.admin.ch/eli/oc/2000/308); [2001 1443](https://fedlex.data.admin.ch/eli/oc/2001/206); [2002 1514](https://fedlex.data.admin.ch/eli/oc/2002/238); [2003 2167](https://fedlex.data.admin.ch/eli/oc/2003/318)Anhang Ziff. 1]
 [^46-2]: [[AS 2003 2167](https://fedlex.data.admin.ch/eli/oc/2003/318)]
-[^46-3]: [[AS 1983 956](https://fedlex.data.admin.ch/eli/oc/1983/956_956_956), [1995 1796](https://fedlex.data.admin.ch/eli/oc/1995/1796_1796_1796), [1996 3279](https://fedlex.data.admin.ch/eli/oc/1996/3279_3279_3279), [2001 1448](https://fedlex.data.admin.ch/eli/oc/2001/207), [2006 5341](https://fedlex.data.admin.ch/eli/oc/2006/811), [2012 2579](https://fedlex.data.admin.ch/eli/oc/2012/311)]
+[^46-3]: [[AS 1983 956](https://fedlex.data.admin.ch/eli/oc/1983/956_956_956); [1995 1796](https://fedlex.data.admin.ch/eli/oc/1995/1796_1796_1796); [1996 3279](https://fedlex.data.admin.ch/eli/oc/1996/3279_3279_3279); [2001 1448](https://fedlex.data.admin.ch/eli/oc/2001/207); [2006 5341](https://fedlex.data.admin.ch/eli/oc/2006/811); [2012 2579](https://fedlex.data.admin.ch/eli/oc/2012/311)]
 [^46-4]: [[AS 1983 963](https://fedlex.data.admin.ch/eli/oc/1983/963_963_963)]
-[^46-5]: [[AS 1957 337](https://fedlex.data.admin.ch/eli/oc/1957/337_337_351), [1958 409](https://fedlex.data.admin.ch/eli/oc/1958/409_424_424), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 43, [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)Anhang 1 Ziff. 6]
+[^46-5]: [[AS 1957 337](https://fedlex.data.admin.ch/eli/oc/1957/337_337_351); [1958 409](https://fedlex.data.admin.ch/eli/oc/1958/409_424_424); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 43; [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)Anhang 1 Ziff. 6]
 [^46-6]: [[AS 1957 349](https://fedlex.data.admin.ch/eli/oc/1957/349_350_364)]
-[^46-7]: [[AS 1957 379](https://fedlex.data.admin.ch/eli/oc/1957/379_379_393), [1983 476](https://fedlex.data.admin.ch/eli/oc/1983/476_476_476)]
+[^46-7]: [[AS 1957 379](https://fedlex.data.admin.ch/eli/oc/1957/379_379_393); [1983 476](https://fedlex.data.admin.ch/eli/oc/1983/476_476_476)]
 [^46-8]: [[AS 1957 354](https://fedlex.data.admin.ch/eli/oc/1957/354_355_369)]
 
 #### Art. 47
