@@ -4,13 +4,13 @@ number: "811.11"
 title: Steuerverordnung
 short: StV
 language: de
-version: 2019-01-01
-corrected: 2019-01-15
-version_adopted: 2018-12-04
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-07
 adopted: 1998-10-20
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/811.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2484/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3309/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2484/pdf_file"
 
 (StV)
 
-vom 20.10.1998 (Stand 01.01.2019)
+vom 20.10.1998 (Stand 01.01.2022)
 
 Die Regierung des Kantons St.Gallen
 
@@ -64,20 +64,13 @@ als Verordnung:[^ingress-2]
 
 #### Art. 4
 
-**b) Anteil des katholischen Konfessionsteils an den Gemeindeanteilen der politischen Gemeinde St.Gallen**
-
-<sup>1</sup> Angemessene Anteile des katholischen Konfessionsteils an den Gemeindeanteilen der politischen Gemeinde St.Gallen nach Art. 8 Abs. 2 des Steuergesetzes sind:
-
-- a) 14 Prozent für die Führung einer Sekundarschule;
-- b) 7 Prozent für die Führung einer Realschule.
-
-<sup>2</sup> Die Anteile werden jährlich nach der Anzahl Schüler mit Wohnsitz in der politischen Gemeinde St.Gallen aufgeteilt.
+**…**
 
 #### Art. 5
 
 **c) Anteile thurgauischer Schulgemeinden**
 
-<sup>1</sup> Die Schulgemeindeanteile der thurgauischen Schulgemeinden nach der Vereinbarung über die Schul- und Steuerverhältnisse in Grenzgebieten des Kantons Thurgau vom 1. September 1987[^5-1] betragen die Hälfte der Gemeindeanteile nach Art. 8 Abs. 1 und 2 des Steuergesetzes.
+<sup>1</sup> Die Schulgemeindeanteile der thurgauischen Schulgemeinden nach der Vereinbarung über die Schul- und Steuerverhältnisse in Grenzgebieten des Kantons Thurgau vom 1. September 1987[^5-1] betragen die Hälfte der Gemeindeanteile nach Art. 8 Abs. 1 des Steuergesetzes.
 
 <sup>2</sup> Führt die thurgauische Schulgemeinde nicht die gesamte Volksschule, wird der ihr zukommende Schulgemeindeanteil angemessen herabgesetzt.
 
@@ -137,9 +130,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 12
 
-**2. Stille Reserven bei Umwandlung (Art. 32 Abs. 3 StG)**
-
-<sup>1</sup> Bei einer Überführung einer Personenunternehmung in eine Holding- oder Domizilgesellschaft werden die stillen Reserven im Zeitpunkt des Übergangs festgehalten. Eine allfällige spätere Besteuerung beschränkt sich auf diesen Bestand an stillen Reserven, soweit sie im Zeitpunkt der Realisierung noch vorhanden sind.
+**…**
 
 #### Art. 13
 
@@ -163,7 +154,7 @@ als Verordnung:[^ingress-2]
 
 **d) Mietwert von selbst genutzten Grundstücken (Art. 34 Abs. 2, 3 und 4 StG)**
 
-<sup>1</sup> Der Mietwert nach Art. 34 Abs. 1 Bst. b des Steuergesetzes vom 9. April 1998 wird im Verfahren nach dem Gesetz über die Durchführung der Grundstückschätzung vom 9. November 2000[^14-1] ermittelt. Er wird ohne Neubeurteilung der Schätzung im Sinn des Gesetzes über die Durchführung der Grundstückschätzung vom 9. November 2000[^14-2] an die Entwicklung der Marktpreise angepasst, wenn sich diese im Vergleich zum Stand im Zeitpunkt der letzten Mietwertermittlung um mehr als 10 Prozent verändert haben.
+<sup>1</sup> Der Mietwert nach Art. 34 Abs. 1 Bst. b des Steuergesetzes vom 9. April 1998 wird im Verfahren nach dem Gesetz über die Durchführung der Grundstückschätzung vom 9. November 2000[^14-1] ermittelt.
 
 <sup>2</sup> Der Mietwert nach Art. 34 Abs. 3 des Steuergesetzes wird reduziert, wenn:
 
@@ -173,7 +164,6 @@ als Verordnung:[^ingress-2]
 <sup>3</sup> Sind die Voraussetzungen nach Abs. 2 dieser Bestimmung erfüllt, wird der Mietwert soweit reduziert, wie er 30 Prozent der Bruttoeinkünfte des Steuerpflichtigen übersteigt. Art. 34 Abs. 4 Satz 2 des Steuergesetzes bleibt vorbehalten.
 
 [^14-1]: sGS [814.1](https://www.gesetzessammlung.sg.ch/data/814.1/de).
-[^14-2]: sGS [814.1](https://www.gesetzessammlung.sg.ch/data/814.1/de).
 
 #### Art. 15
 
@@ -207,6 +197,14 @@ als Verordnung:[^ingress-2]
 <sup>4</sup> …
 
 [^18-1]: Vgl. Anhang zur V über den Abzug von Berufskosten der unselbständigen Erwerbstätigkeit bei der direkten Bundessteuer vom 10. Februar 1993, SR [642.118.1](https://db.clex.ch/link/Bund/642.118.1/de).
+
+#### Art. 18a
+
+**a<sup>bis</sup>) Fahrkosten bei der unentgeltlichen privaten Nutzung von Geschäftsfahrzeugen**
+
+<sup>1</sup> Nutzt der Steuerpflichtige ein Geschäftsfahrzeug unentgeltlich für Fahrten zwischen Wohn- und Arbeitsstätte sowie für weitere private Zwecke, kann anstelle der Abrechnung über die tatsächlichen Kosten der privaten Nutzung und des Fahrkostenabzugs nach Art. 18 dieser Verordnung eine pauschale Fahrkostenberechnung vorgenommen werden.
+
+<sup>2</sup> Bei der pauschalen Fahrkostenberechnung gelten 0,9 Prozent des Kaufpreises des Fahrzeugs als monatliches Einkommen aus dieser Nutzung.
 
 #### Art. 19
 
@@ -345,6 +343,10 @@ als Verordnung:[^ingress-2]
 
 **…**
 
+#### Art. 29quinquies
+
+**…**
+
 #### Art. 30
 
 **Sozialabzüge beim Einkommen (Art. 48 Abs. 1 Bst. a StG)**
@@ -363,13 +365,12 @@ als Verordnung:[^ingress-2]
 
 **Verkehrs- und Ertragswert (Art. 57 Abs. 1 und Art. 58 StG)**
 
-<sup>1</sup> Der Verkehrswert und der Ertragswert nach Art. 57 Abs. 1 und Art. 58 des Steuergesetzes vom 9. April 1998[^30bis-1] werden im Verfahren nach dem Gesetz über die Durchführung der Grundstückschätzung vom 9. November 2000[^30bis-2] ermittelt. Sie werden ohne Neubeurteilung der Schätzung im Sinn des Gesetzes über die Durchführung der Grundstückschätzung vom 9. November 2000[^30bis-3] an die Entwicklung der Marktpreise angepasst, wenn sich diese im Vergleich zum Stand der letzten Wertermittlung um mehr als 10 Prozent verändert haben.
+<sup>1</sup> Der Verkehrswert und der Ertragswert nach Art. 57 Abs. 1 und Art. 58 des Steuergesetzes vom 9. April 1998[^30bis-1] werden im Verfahren nach dem Gesetz über die Durchführung der Grundstückschätzung vom 9. November 2000[^30bis-2] ermittelt.
 
 <sup>2</sup> Bei Neu-, Um- und Anbauten, für die noch keine Schätzung nach Abs. 1 dieser Bestimmung besteht, erfolgt ein Zuschlag zur geltenden Schätzung in der Höhe von 80 Prozent der Neu-, Um- und Anbaukosten.
 
 [^30bis-1]: sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
 [^30bis-2]: sGS [814.1](https://www.gesetzessammlung.sg.ch/data/814.1/de).
-[^30bis-3]: sGS [814.1](https://www.gesetzessammlung.sg.ch/data/814.1/de).
 
 #### Art. 31
 
@@ -383,9 +384,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 32
 
-**Sozialabzüge bei der ergänzenden Vermögenssteuer (Art. 61 StG)**
-
-<sup>1</sup> Bei der Berechnung der ergänzenden Vermögenssteuer werden keine steuerfreien Beträge abgezogen.
+**…**
 
 #### Art. 32bis
 
@@ -425,13 +424,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 35
 
-**Umfang der Steuerpflicht (Art. 73 Abs. 1 zweiter Satz StG)**
-
-<sup>1</sup> Die Voraussetzungen für das Vorliegen einer ausländischen Betriebsstätte werden nach den Bruttoumsätzen bestimmt. Sie müssen für jede Steuerperiode erfüllt sein, für die eine Steuerausscheidung geltend gemacht wird.
-
-<sup>2</sup> Sind im Zeitpunkt des erstmaligen Vorliegens einer ausländischen Betriebsstätte unbesteuerte stille Reserven vorhanden, werden diese dem in der Schweiz steuerbaren Gewinn des entsprechenden Geschäftsjahres zugerechnet.
-
-<sup>3</sup> Für die Steuerausscheidung wird Art. 74 des Steuergesetzes sachgemäss angewendet. Der schweizerische Vorausanteil wird nach Massgabe der Bedeutung der inländischen Verwaltungs- und Geschäftstätigkeit festgelegt.
+**…**
 
 #### Art. 36
 
@@ -513,9 +506,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 48
 
-**5. Festhalten von stillen Reserven (Art. 88 Abs. 5 StG)**
-
-<sup>1</sup> Bei einer Überführung einer juristischen Person in eine Holding- oder Domizilgesellschaft sowie beim Wechsel in den Status einer Holding- oder Domizilgesellschaft werden die stillen Reserven im Zeitpunkt des Übergangs festgehalten. Eine allfällige spätere Besteuerung beschränkt sich auf diesen Bestand an stillen Reserven, soweit sie im Zeitpunkt der Realisierung noch vorhanden sind.
+**…**
 
 #### Art. 49
 
@@ -541,17 +532,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 52
 
-**d) Holding- und Domizilgesellschaften (Art. 92 Abs. 1 und Art. 93 Abs. 1 StG)**
-
-<sup>1</sup> Als zulässige Verwaltungstätigkeit in der Schweiz gelten die Beteiligungsverwaltung einer Holdinggesellschaft, die reine Vermögensverwaltung sowie die Ausübung von Hilfsfunktionen für Konzerngesellschaften.
-
-<sup>2</sup> Als Beteiligungsverwaltung einer Holdinggesellschaft gelten die Tätigkeiten, welche die Verwaltung der eigenen Beteiligungen unmittelbar betreffen. Sie umfasst die Wahrnehmung der gesellschaftsrechtlichen Aufgaben, nicht jedoch Management-Funktionen. Der An- und Verkauf von Beteiligungen einschliesslich der dazu notwendigen Finanzierung gelten als Beteiligungsverwaltung, soweit nicht aufgrund der Häufigkeit oder der Art der Finanzierung der getätigten Geschäfte auf eine Handelstätigkeit zu schliessen ist.
-
-<sup>3</sup> Eine reine Vermögensverwaltung liegt vor, soweit Vermögenswerte verwaltet werden, die ausschliesslich mit Eigenkapital finanziert sind. Zum Eigenkapital zählen auch Darlehen von Beteiligungsinhabern.
-
-<sup>4</sup> Die in der Schweiz ausgeübten Hilfsfunktionen im Konzern dürfen keine eigenständige Bedeutung haben, sondern müssen eng mit der Geschäftstätigkeit der Konzerngesellschaften verknüpft sein. Als Hilfsfunktionen gelten insbesondere Inkasso, Fakturierung, Marktuntersuchungen, das Zusammenstellen von technischen und wirtschaftlichen Informationen, die Verwertung von Immaterialgüterrechten innerhalb des Konzerns sowie die konzerninterne Finanzierung einschliesslich des Cash-Managements.
-
-<sup>5</sup> Als unzulässige Geschäftstätigkeit in der Schweiz gelten insbesondere die Fabrikation, der Handel, die Erbringung von Dienstleistungen, die Ausübung von Treuhandfunktionen, die Akquisition, die Werbung und die Vermittlung von Geschäften.
+**…**
 
 #### Art. 52bis
 
@@ -575,28 +556,45 @@ als Verordnung:[^ingress-2]
 
 #### Art. 54
 
-**Steuerbare Leistungen (Art. 106 StG)**
+**…**
 
-<sup>1</sup> Trinkgelder und Naturalleistungen werden in der Regel nach den für die eidgenössische Alters- und Hinterlassenenversicherung geltenden Ansätzen bewertet.
+#### Art. 54bis
+
+**Ersatzeinkünfte (Art. 106 Abs. 2 Bst. b StG)**
+
+<sup>1</sup> Der Quellensteuer unterworfen sind alle Ersatzeinkünfte aus Arbeitsverhältnissen sowie aus Kranken-, Unfall-, Invaliden- und Arbeitslosenversicherung. Insbesondere gehören dazu Taggelder, Entschädigungen, Teilrenten und an deren Stelle tretende Kapitalleistungen.
 
 #### Art. 55
 
 **Steuerabzug a) Tarifarten (Art. 107 StG)**
 
-<sup>1</sup> Der Steuerabzug an der Quelle wird nach Tarifen bemessen für:
+<sup>1</sup> …
 
-- a) ledige, geschiedene, gerichtlich oder tatsächlich getrennt lebende und verwitwete Steuerpflichtige, die nicht mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben;
-- a<sup>bis</sup> ledige, geschiedene, gerichtlich oder tatsächlich getrennt lebende und verwitwete Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten;
-- b) in rechtlich und tatsächlich ungetrennter Ehe lebende Steuerpflichtige, bei welchen nur ein Ehegatte erwerbstätig ist;
-- c) in rechtlich und tatsächlich ungetrennter Ehe lebende Steuerpflichtige, die beide hauptberuflich erwerbstätig sind;
-- d) Steuerpflichtige mit geringfügigem Nebenerwerbseinkommen. Bei mehreren Erwerbstä-tigkeiten eines Steuerpflichtigen gilt die Tätigkeit mit dem höchsten Bruttoeinkommen als Haupterwerbstätigkeit. Dieses wird nach dem gemäss Bst. a bis c dieser Bestimmung geltenden Tarif besteuert;
-- e) Steuerpflichtige mit Ersatzeinkünften, welche die Versicherungseinrichtung nicht nach Massgabe des versicherten Verdienstes ausrichtet oder die neben allfälligen Erwerbseinkünften ausgerichtet werden können.
+<sup>1<sup>bis</sup></sup> Folgende Tarifcodes werden bei den nachstehend aufgeführten Personen für den Quellensteuerabzug angewendet:
 
-<sup>2</sup> Für den Steuerabzug massgebend sind die Verhältnisse im Zeitpunkt der Auszahlung, Überweisung, Gutschrift oder Verrechnung der steuerbaren Leistung.
+- a) Tarifcode A: bei ledigen, geschiedenen, gerichtlich oder tatsächlich getrennt lebenden und verwitweten Personen, die nicht mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben;
+- b) Tarifcode B: bei in rechtlich und tatsächlich ungetrennter Ehe lebenden Eheleuten, bei welchen nur ein Ehegatte erwerbstätig ist;
+- c) Tarifcode C: bei in rechtlich und tatsächlich ungetrennter Ehe lebenden Eheleuten, bei welchen beide Eheleute erwerbstätig sind;
+- d) Tarifcode D: bei Personen, die Leistungen nach Art. 18 Abs. 3 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946[^55-1] erhalten;
+- e) Tarifcode E: bei Personen, die im vereinfachten Abrechnungsverfahren besteuert werden;
+- f) Tarifcode F: bei Grenzgängern nach der Vereinbarung zwischen der Schweiz und Italien über die Besteuerung der Grenzgänger und den finanziellen Ausgleich zugunsten der italienischen Grenzgemeinden vom 3. Oktober 1974[^55-2], die in einer italienischen Grenzgemeinde leben und deren Ehegatte ausserhalb der Schweiz erwerbstätig ist;
+- g) Tarifcode G: bei Ersatzeinkünften nach Art. 54<sup>bis</sup> dieser Verordnung, die nicht über die Arbeitgeber an die quellensteuerpflichtigen Personen ausbezahlt werden;
+- h) Tarifcode H: bei ledigen, geschiedenen, gerichtlich oder tatsächlich getrennt lebenden und verwitweten Personen, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten;
+- i) Tarifcode L: bei Grenzgängern nach dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (DBA-D) vom 11. August 1971[^55-3], welche die Voraussetzungen für den Tarifcode A erfüllen;
+- j) Tarifcode M: bei Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode B erfüllen;
+- k) Tarifcode N: bei Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode C erfüllen;
+- l) Tarifcode P: bei Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode H erfüllen;
+- m) Tarifcode Q: bei Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode G erfüllen.
 
-<sup>3</sup> Die Steuerbehörde kann auf Antrag des Steuerpflichtigen zur Milderung von Härtefällen bei der Anwendung der Tarife nach Abs. 1 Bst. a bis c dieser Bestimmung Kinderabzüge bis höchstens zur Höhe der Unterhaltsbeiträge berücksichtigen.
+<sup>2</sup> …
 
-<sup>4</sup> Wurden die Unterhaltsbeiträge bei der Anwendung der Tarife nach Abs. 3 dieser Bestimmung berücksichtigt, wird im Folgejahr die effektive Steuerschuld von Amtes wegen nachberechnet.
+<sup>3</sup> Auf Gesuch von Steuerpflichtigen, die Unterhaltsbeiträge nach Art. 45 Abs. 1 Bst. c StG leisten und bei denen der Tarifcode A, B, C oder H angewendet wird, kann die Steuerbehörde zur Milderung von Härtefällen bei der Berechnung der Quellensteuer Kinderabzüge bis höchstens zur Höhe der Unterhaltsbeiträge berücksichtigen.
+
+<sup>4</sup> Wurden Unterhaltsbeiträge bei der Anwendung der Tarife nach Abs. 3 dieser Bestimmung berücksichtigt, unterliegt der Steuerpflichtige der nachträglichen ordentlichen Veranlagung nach Art. 112<sup>ter</sup> des Steuergesetzes.
+
+[^55-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de).
+[^55-2]: SR [0.642.045.43](https://db.clex.ch/link/Bund/0.642.045.43/de).
+[^55-3]: SR [0.672.913.62](https://db.clex.ch/link/Bund/0.672.913.62/de).
 
 #### Art. 56
 
@@ -604,49 +602,53 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Tarife werden für jede Steuerperiode nach den geltenden Steuersätzen, Abzügen und Sozialabzügen erstellt.
 
-<sup>2</sup> Die Höhe des Staatssteueranteils bestimmt sich nach dem Steuerfuss der Steuerperiode. Für die Ermittlung der Gemeindesteueranteile wird auf das mutmassliche gewogene Mittel der Gemeindesteuern der Vorperiode abgestellt.
+<sup>2</sup> Die Höhe des Staatssteueranteils bestimmt sich nach dem Steuerfuss der Steuerperiode. Für die Ermittlung der Gemeindesteueranteile wird auf das mutmassliche gewogene Mittel der Einkommens- und Vermögenssteuern der Gemeinden der Vorperiode abgestellt.
 
-<sup>3</sup> Der Steuerabzug nach den Tarifen nach Art. 55 Abs. 1 Bst. a bis c dieser Verordnung umfasst auch die Feuerwehrabgabe. Deren Höhe wird nach dem Feuerschutzreglement der Stadt St.Gallen bestimmt..
+<sup>3</sup> Der Steuerabzug nach den Tarifcodes A, B, C, G und H nach Art. 55 Abs. 1<sup>bis</sup> dieser Verordnung umfasst auch die Feuerwehrabgabe. Deren Höhe wird nach dem Feuerschutzreglement der Stadt St.Gallen bestimmt.
 
-<sup>4</sup> Für die Ermittlung des Steuerabzugs bei hauptberuflicher Tätigkeit werden der effektive Bruttolohn für die volle Zahltagsperiode von einem Monat (30 Tage), zuzüglich weitere in der betreffenden Zahltagsperiode ausbezahlte, überwiesene, gutgeschriebene oder verrechnete steuerbare Leistungen berücksichtigt. Unvollständige Zahltagsperioden werden zur Satzbestimmung auf eine Monatsbasis umgerechnet.
+<sup>4</sup> …
 
-<sup>5</sup> Bei Stundenlohn sind für die Berechnung des Steuersatzes die effektiv geleisteten Stunden je Monat massgebend. Wird eine monatliche Stundenanzahl von 180 nicht erreicht, wird der Stundensatz für die betreffende Zahltagsperiode mit 180 multipliziert.
+<sup>5</sup> …
+
+#### Art. 56bis
+
+**c) Fälligkeit und Berechnung der Quellensteuer**
+
+<sup>1</sup> Der Quellensteuerabzug ist im Zeitpunkt der Auszahlung, Überweisung, Gutschrift oder Verrechnung der steuerbaren Leistung fällig.
+
+<sup>2</sup> Bei der Berechnung der Quellensteuer sind alle steuerpflichtigen Leistungen eines Monats zu berücksichtigen. Das satzbestimmende Einkommen wird auf Monatsbasis ermittelt. Art. 66 Abs. 3 des Steuergesetzes wird sachgemäss angewendet.
 
 #### Art. 57
 
-**c) Nachträgliche Gewährung von Abzügen (Art. 108 Abs. 3 StG)**
-
-<sup>1</sup> Stellen ausländische Arbeitnehmer mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton ein Begehren um nachträgliche Gewährung von Abzügen, die nicht in den Tarifen berücksichtigt sind, wird eine nachträgliche ordentliche Veranlagung nach Art. 112 des Steuergesetzes durchgeführt.
-
-<sup>2</sup> …
-
-<sup>3</sup> Das Begehren um nachträgliche Gewährung von Abzügen kann bis Ende März des auf die Fälligkeit der Leistung folgenden Kalenderjahres schriftlich beim kantonalen Steueramt eingereicht werden.
-
-<sup>4</sup> Die nachträgliche ordentliche Veranlagung findet bis zum Ende der Quellensteuerpflicht Anwendung.
-
-<sup>5</sup> Zuviel bezahlte Steuern werden zinslos zurückerstattet.
+**…**
 
 #### Art. 58
 
-**Ergänzende ordentliche Veranlagung (Art. 111 StG)**
-
-<sup>1</sup> Bei der Ermittlung der ergänzenden ordentlichen Veranlagung werden allgemeine Abzüge und Sozialabzüge nur abgerechnet, soweit sie nicht im Quellensteuertarif berücksichtigt werden.
+**…**
 
 #### Art. 59
 
-**Nachträgliche ordentliche Veranlagung (Art. 112 StG)**
-
-<sup>1</sup> Die nachträgliche ordentliche Veranlagung nach Art. 112 Abs. 1 des Steuergesetzes wird durchgeführt, wenn die Bruttoeinkünfte in einem Kalenderjahr Fr. 120 000.– übersteigen.
-
-<sup>2</sup> In Fällen, in denen eine nachträgliche ordentliche Veranlagung durchgeführt wird, kann auf die Erhebung der Quellensteuer verzichtet werden, wenn der Arbeitgeber hinreichende Sicherheit leistet.
+**…**
 
 #### Art. 59bis
 
-**Wechsel zwischen Quellensteuerabzug und ordentlicher Veranlagung (Art. 113 StG)**
+**Wechsel vom Quellensteuerabzug zur ordentlichen Veranlagung (Art. 113 StG)**
 
-<sup>1</sup> Bei Erhalt der Niederlassungsbewilligung oder bei Heirat mit einer Person, die das Schweizer Bürgerrecht oder die Niederlassungsbewilligung besitzt, unterliegen bisher der Quellensteuer unterworfene Personen ab Beginn des folgenden Monats der ordentlichen Veranlagung.
+<sup>1</sup> Bei Erhalt der Niederlassungsbewilligung oder bei Heirat mit einer Person, die das Schweizer Bürgerrecht oder die Niederlassungsbewilligung besitzt, unterliegen bisher der Quellensteuer unterworfene Personen für die ganze Steuerperiode der ordentlichen Veranlagung.
 
-<sup>2</sup> Bei rechtlicher oder tatsächlicher Trennung oder Scheidung von einem Ehegatten, der das Schweizer Bürgerrecht oder die Niederlassungsbewilligung besitzt, unterliegen ausländische Arbeitnehmer, welche die fremdenpolizeiliche Niederlassungsbewilligung nicht besitzen, ab Beginn des folgenden Monats dem Steuerabzug an der Quelle.
+<sup>1<sup>bis</sup></sup> Die Quellensteuer ist ab dem Folgemonat nach der Erteilung der Niederlassungsbewilligung oder der Heirat nicht mehr geschuldet. Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
+
+<sup>2</sup> …
+
+#### Art. 59ter
+
+**Wechsel von der ordentlichen Veranlagung zum Quellensteuerabzug (Art. 113 StG)**
+
+<sup>1</sup> Unterliegt ein Einkommen innerhalb einer Steuerperiode zunächst der ordentlichen Besteuerung und dann der Quellensteuer, wird der Steuerpflichtige für das gesamte Jahr und bis zum Ende der Quellensteuerpflicht nachträglich ordentlich veranlagt.
+
+<sup>2</sup> Die Scheidung sowie die tatsächliche oder rechtliche Trennung von einem Ehegatten mit Schweizer Bürgerrecht oder Niederlassungsbewilligung lösen für einen ausländischen Arbeitnehmer ohne Niederlassungsbewilligung ab Beginn des Folgemonats wieder die Besteuerung an der Quelle aus.
+
+<sup>3</sup> Allfällige Vorauszahlungen vor dem Übergang zur Quellenbesteuerung sowie an der Quelle abgezogene Steuern sind anzurechnen.
 
 ### B. Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
 
@@ -658,9 +660,11 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Ist bei Gruppen der Anteil des einzelnen Mitglieds nicht bekannt oder schwer zu ermitteln, wird für die Bestimmung des Steuersatzes das durchschnittliche Tageseinkommen je Kopf berechnet.
 
-<sup>3</sup> Der Pauschalabzug für Gewinnungskosten beträgt 20 Prozent der Bruttoeinkünfte.
+<sup>2<sup>bis</sup></sup> Zu den Tageseinkünften gehören auch Vergütungen, die nicht dem Steuerpflichtigen selber, sondern einer Drittperson zufliessen.
 
-<sup>4</sup> Naturalleistungen werden in der Regel nach den für die eidgenössische Alters- und Hinterlassenenversicherung geltenden Ansätzen bewertet.
+<sup>3</sup> …
+
+<sup>4</sup> …
 
 #### Art. 61
 
@@ -668,9 +672,9 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Ein Steuerabzug an der Quelle entfällt, wenn die steuerbaren Einkünfte weniger betragen als:
 
-- a) Fr. 300.– insgesamt bei Künstlern, Sportlern und Referenten;
-- b) Fr. 300.– im Kalenderjahr bei Organen juristischer Personen, Empfängern von Mitarbeiterbeteiligungen und Hypothekargläubigern;
-- c) Fr. 1000.– im Kalenderjahr bei Empfängern von Vorsorgeleistungen.
+- a) Fr. 300.– je Veranstaltung bei Künstlern, Sportlern und Referenten;
+- b) Fr. 300.– im Kalenderjahr bei Organen juristischer Personen und Hypothekargläubigern;
+- c) Fr. 1000.– im Kalenderjahr bei Empfängern von Renten.
 
 ### B<sup>bis</sup>. Natürliche Personen mit kleinen Arbeitsentgelten aus unselbständiger Erwerbstätigkeit
 
@@ -704,7 +708,7 @@ als Verordnung:[^ingress-2]
 
 **Bezugsprovision (Art. 124 StG)**
 
-<sup>1</sup> Der Schuldner der steuerbaren Leistung erhält für seine Mitwirkung eine Bezugsprovision von 3 Prozent des abgelieferten Steuerbetrags.
+<sup>1</sup> Die Bezugsprovision für den Schuldner der steuerbaren Leistung beträgt 1 Prozent des gesamten Quellensteuerbetrags.
 
 #### Art. 64
 
@@ -726,6 +730,16 @@ als Verordnung:[^ingress-2]
 #### Art. 65bis
 
 **…**
+
+#### Art. 65ter
+
+**Meldepflichten (Art. 184 Bst. a und Art. 185 Abs. 1 StG)**
+
+<sup>1</sup> Die Arbeitgeber müssen die Beschäftigung von Personen, die nach Art. 105 oder 115 des Steuergesetzes quellensteuerpflichtig sind, der zuständigen Steuerbehörde innert acht Tagen ab Stellenantritt auf dem dafür vorgesehenen Formular melden.
+
+<sup>2</sup> Übermittelt der Arbeitgeber die Quellensteuerabrechnung elektronisch, kann er Neuanstellungen mittels monatlicher Abrechnung melden.
+
+<sup>3</sup> Die Arbeitnehmer müssen dem Arbeitgeber Änderungen von Sachverhalten melden, die für die Erhebung der Quellensteuer massgebend sind. Der Arbeitgeber meldet die Änderungen innerhalb der Fristen nach Abs. 1 und 2 dieser Bestimmung der zuständigen Steuerbehörde.
 
 ### Vierter Abschnitt: Grundstückgewinnsteuer
 
@@ -782,7 +796,7 @@ als Verordnung:[^ingress-2]
 - a) für die im Kanton unbeschränkt Steuerpflichtigen[^71-1] durch das Steueramt der Gemeinde, in der die Steuerpflicht kraft persönlicher Zugehörigkeit besteht;
 - b) für die in einer Gemeinde beschränkt Steuerpflichtigen[^71-2] durch das Steueramt der Gemeinde, in der die Steuerpflicht kraft wirtschaftlicher Zugehörigkeit besteht;
 - c) für die in mehreren Gemeinden beschränkt Steuerpflichtigen durch das Steueramt der Gemeinde, in der die Steuerpflicht kraft wirtschaftlicher Zugehörigkeit mit dem grössten Steueranteil besteht;
-- d) für die Steuerpflichtigen, die der ergänzenden ordentlichen Veranlagung nach Art. 111 des Steuergesetzes unterliegen, durch das kantonale Steueramt.
+- d) …
 
 <sup>2</sup> In Streitfällen entscheidet das kantonale Steueramt.
 
@@ -865,7 +879,7 @@ als Verordnung:[^ingress-2]
 
 **c) Datenschutz**
 
-<sup>1</sup> Zugriffsberechtigte öffentliche Organe bezeichnen einen beschränkten Kreis von Personen, die den elektronischen Zugriff auf Steuerdaten vornehmen können.
+<sup>1</sup> Zugriffsberechtigte öffentliche Organe bezeichnen einen beschränkten Kreis von Personen, die den elektronischen Zugriff auf Steuerdaten vornehmen können. Erfolgt der Zugriff auf Steuerdaten automatisiert, stellt das öffentliche Organ sicher, dass nur zugriffsberechtigte Personen die abgefragten Steuerdaten einsehen können.
 
 <sup>2</sup> Der Zugriff auf Steuerdaten wird soweit wie möglich auf Informationen beschränkt, die für den Vollzug von gesetzlichen Vorgaben benötigt werden.
 
