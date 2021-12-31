@@ -4,13 +4,12 @@ number: "612.14"
 title: Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus
 short: COVID-19-Lotterie- und Sportfondsverordnung
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-15
+version: 2022-01-01
+version_adopted: 2022-02-01
 adopted: 2020-04-07
 in_force: 2020-04-10
 url: "https://bgs.zg.ch/app/de/texts_of_law/612.14"
-pdf: "https://bgs.zg.ch/api/de/versions/2186/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2306/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2186/pdf_file"
 
 (COVID-19-Lotterie- und Sportfondsverordnung)
 
-Vom 7. April 2020 (Stand 1. Januar 2021)
+Vom 7. April 2020 (Stand 1. Januar 2022)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -40,15 +39,15 @@ beschliesst:
 
 **Umfang**
 
-<sup>1</sup> Vom Konto 2980.30 (Überschüsse Bewirtschaftung Fondsvermögen ab 2009) werden im Rahmen des Rechnungsabschlusses 2020 sowie des Rechnungsabschlusses 2021 gesamthaft maximal fünf Millionen Franken dem Lotteriefonds sowie gesamthaft maximal fünf Millionen Franken dem Sportfonds gutgeschrieben.
+<sup>1</sup> Vom Konto 2980.30 (Überschüsse Bewirtschaftung Fondsvermögen ab 2009) werden im Rahmen des Rechnungsabschlusses 2020, des Rechnungsabschlusses 2021 sowie des Rechnungsabschlusses 2022 gesamthaft maximal fünf Millionen Franken dem Lotteriefonds sowie gesamthaft maximal fünf Millionen Franken dem Sportfonds gutgeschrieben.
 
 #### § 3
 
 **Äufnung**
 
-<sup>1</sup> Die Äufnung der beiden Fonds erfolgt per Ende 2020 sowie per Ende 2021.
+<sup>1</sup> Die Äufnung der beiden Fonds erfolgt per Ende 2020, per Ende 2021 sowie per Ende 2022.
 
-<sup>2</sup> Die kantonale Finanzverwaltung nimmt per 31. Dezember 2020 sowie per 31. Dezember 2021 die notwendigen Buchungen vor.
+<sup>2</sup> Die kantonale Finanzverwaltung nimmt per 31. Dezember 2020, per 31. Dezember 2021 sowie per 31. Dezember 2022 die notwendigen Buchungen vor.
 
 #### § 4
 
