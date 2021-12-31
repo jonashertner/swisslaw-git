@@ -4,13 +4,12 @@ number: BaB 155.400
 title: Reglement über die Organisation der Bürgerkorporation Kleinhüningen
 short: Korporationsordnung
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-11-13
+version: 2022-01-01
+version_adopted: 2021-08-24
 adopted: 1990-02-20
 in_force: 1990-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20155.400"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4543/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5337/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Bürgerkorporation Kleinhüningen: Reglement | Basel: Bürgergemeinde
 
 (Korporationsordnung)
 
-Vom 20. Februar 1990 (Stand 1. Januar 2019)
+Vom 20. Februar 1990 (Stand 1. Januar 2022)
 
 Der Bürgerrat der Stadt Basel,
 
@@ -51,18 +50,18 @@ erlässt folgendes Reglement über die Organisation der Bürgerkorporation Klein
 
 **Aufnahme**
 
-<sup>1</sup> Anspruch auf Aufnahme in die Bürgerkorporation hat jeder männliche und wohlbeleumdete Bürger der Stadt Basel, der das 18. Altersjahr zurückgelegt hat und nicht entmündigt ist und der ausserdem
+<sup>1</sup> Anspruch auf Aufnahme in die Bürgerkorporation hat jede wohlbeleumdete Person, die das Bürgerrecht der Stadt Basel besitzt, die das 18. Altersjahr zurückgelegt hat, nicht ​wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft steht und die ausserdem
 
 - a) seit mindestens zwei Jahren im ehemaligen Gemeindebezirk Kleinhüningen wohnt oder
-- b) seinen Wohnsitz ausserhalb des Gemeindebezirkes hat, jedoch in direkter Linie im Mannesstamm von einem Mitglied des Grundstockes, wie er in § 21 umschrieben ist, abstammt.
+- b) ihren Wohnsitz ausserhalb des Gemeindebezirkes hat, jedoch in direkter Linie im Mannesstamm von einem Mitglied des Grundstockes, wie er in § 21 umschrieben ist, abstammt.
 
-<sup>1<sup>bis</sup></sup> Durch Beschluss der Korporationsversammlung können Frauen den Männern gleichgestellt werden. In diesem Fall gelten die in dieser Ordnung umschriebenen Rechte und Pflichten auch für Frauen.
+<sup>1<sup>bis</sup></sup> …
 
-<sup>2</sup> Mindestens zweijähriger Grundbesitz im Gemeindebezirk kann dem Wohnsitz daselbst gleichgesetzt werden, wenn dieser von persönlicher und wirtschaftlicher Bedeutung ist und der Grundeigentümer im Kanton Basel-Stadt wohnt; dasselbe gilt, bei Wohnsitz im Kanton Basel-Stadt, für einen, eine Verbundenheit mit dem Gemeindebezirk schaffenden, beruflichen Mittelpunkt.
+<sup>2</sup> Mindestens zweijähriger Grundbesitz im Gemeindebezirk kann dem Wohnsitz daselbst gleichgesetzt werden, wenn dieser von persönlicher und wirtschaftlicher Bedeutung ist und die Grundeigentümerin oder der Grundeigentümer im Kanton Basel-Stadt wohnt; dasselbe gilt bei Wohnsitz im Kanton Basel-Stadt für einen, eine Verbundenheit mit dem Gemeindebezirk schaffenden, beruflichen Mittelpunkt.
 
 <sup>3</sup> Der ehemalige Gemeindebezirk Kleinhüningen umfasst den rechtsrheinischen Teil der Stadt Basel gemäss Plan[^2-1], das heisst nördlich der Linie Ackerstrasse (exklusive) – Kleinhüningerstrasse 137/142, Gärtnerstrasse 69 und jeweils höhere Hausnummern – Tramdepot – Wiesenstrasse 43 und jeweils höhere Hausnummern – Kreuzung Hochbergerstrasse/Höhenstrasse – Ecke der Landesgrenze.
 
-<sup>4</sup> Über die Aufnahme entscheidet der Vorstand auf schriftliches Gesuch des Bewerbers hin, das an den Meister oder an den Schreiber zu richten ist.
+<sup>4</sup> Über die Aufnahme entscheidet der Vorstand auf schriftliches Gesuch der Bewerberin oder des Bewerbers hin, das an die Meisterin bzw. den Meister oder an die Schreiberin bzw. den Schreiber zu richten ist.
 
 <sup>5</sup> Für die Aufnahme ist eine Gebühr von höchstens Fr. 200.- an die Korporationskasse zu entrichten; weitere finanzielle Leistungen dürfen für die Aufnahme nicht verlangt werden.
 
@@ -72,7 +71,7 @@ erlässt folgendes Reglement über die Organisation der Bürgerkorporation Klein
 
 **Austritt**
 
-<sup>1</sup> Der Austritt aus der Korporation ist schriftlich an den Meister oder an den Schreiber zu richten.
+<sup>1</sup> Der Austritt aus der Korporation ist schriftlich an die Meisterin bzw. den Meister oder an die Schreiberin bzw. den Schreiber zu richten.
 
 <sup>2</sup> Der Austritt wird auf Ende des dritten Monats nach Eingang des Austrittschreibens wirksam.
 
@@ -82,43 +81,43 @@ erlässt folgendes Reglement über die Organisation der Bürgerkorporation Klein
 
 <sup>1</sup> Mit dem Wegfall der Voraussetzungen für die Aufnahme nach § 2 erlischt die Mitgliedschaft.
 
-<sup>2</sup> Der Vorstand kann jedoch bei Entmündigung oder Wegfall des Wohnsitzes im ehemaligen Gemeindebezirk Ausnahmen bewilligen, wenn ein Härtefall vorliegt; diese Bewilligung kann widerrufen werden.
+<sup>2</sup> Der Vorstand kann jedoch bei einer unter umfassender Beistandschaft stehenden Person oder bei Wegfall des Wohnsitzes im ehemaligen Gemeindebezirk Ausnahmen bewilligen, wenn ein Härtefall vorliegt; diese Bewilligung kann widerrufen werden.
 
-<sup>3</sup> Gesellschaftsbrüder, bei denen die Voraussetzungen für die Aufnahme nach § 2 weggefallen sind und die sich innert Jahresfrist seit dem Wegfall beim Meister oder Schreiber abmelden, haben Anspruch auf sofortige und unentgeltliche Wiederaufnahme, wenn sie die Voraussetzungen nach § 2 wieder erfüllen.
+<sup>3</sup> Gesellschaftsmitglieder, bei denen die Voraussetzungen für die Aufnahme nach § 2 weggefallen sind und die sich innert Jahresfrist seit dem Wegfall bei der Meisterin bzw. beim Meister oder der Schreiberin bzw. dem Schreiber abmelden, haben Anspruch auf sofortige und unentgeltliche Wiederaufnahme, wenn sie die Voraussetzungen nach § 2 wieder erfüllen.
 
-<sup>4</sup> Gesellschaftsbrüder, die sich nicht oder verspätet abmelden, werden aus den Mitgliederlisten gestrichen und bei Wiederanmeldung als Neueintretende behandelt.
+<sup>4</sup> Gesellschaftsmitglieder, die sich nicht oder verspätet abmelden, werden aus den Mitgliederlisten gestrichen und bei Wiederanmeldung als Neueintretende behandelt.
 
-## III. Rechte und Pflichten der Gesellschaftsbrüder
+## III. Rechte und Pflichten der Gesellschaftsmitglieder
 
 #### § 5
 
 **Stimm- und Wahlrecht**
 
-<sup>1</sup> Jeder Gesellschaftsbruder ist teilnahmeberechtigt an den Versammlungen der Korporation und hat dort Stimm- und Wahlrecht.
+<sup>1</sup> Jedes Gesellschaftsmitglied ist teilnahmeberechtigt an den Versammlungen der Korporation und hat dort Stimm- und Wahlrecht.
 
-<sup>2</sup> Jeder Gesellschaftsbruder, der in direkter Linie im Mannesstamm von einem Mitglied des Grundstockes abstammt und jeder im Kanton Basel-Stadt wohnhafte Gesellschaftsbruder ist in den Vorstand wählbar; doch dürfen Verwandte und Verschwägerte in auf- und absteigender Linie und Brüder nicht gleichzeitig Mitglieder des Vorstandes sein.
+<sup>2</sup> Jedes Gesellschaftsmitglied, das in direkter Linie im Mannesstamm von einem Mitglied des Grundstockes abstammt und jedes im Kanton Basel-Stadt wohnhafte Gesellschaftsmitglied ist in den Vorstand wählbar; doch dürfen Verwandte und Verschwägerte in auf- und absteigender Linie und Geschwister nicht gleichzeitig Mitglieder des Vorstandes sein.
 
-<sup>3</sup> Ein Vorgesetzter, für den die vorstehenden Wahlvoraussetzungen nicht mehr zutreffen, muss spätestens auf Ende seiner laufenden Amtsperiode aus dem Vorstand ausscheiden.
+<sup>3</sup> Vorgesetze, für die die vorstehenden Wahlvoraussetzungen nicht mehr zutreffen, müssen spätestens auf Ende ihrer laufenden Amtsperiode aus dem Vorstand ausscheiden.
 
 #### § 6
 
 **Einberufung der Korporationsversammlung**
 
-<sup>1</sup> Zur Behandlung der vorliegenden Geschäfte beruft der Meister oder der Vorstand Versammlungen der Gesellschaftsbrüder ein.
+<sup>1</sup> Zur Behandlung der vorliegenden Geschäfte beruft die Meisterin bzw. der Meister oder der Vorstand Versammlungen der Gesellschaftsmitglieder ein.
 
-<sup>2</sup> Eine Korporationsversammlung ist binnen drei Monaten auch durchzuführen, wenn ein Zehntel der Gesellschaftsbrüder dies unter Angaben der Verhandlungsgegenstände unterschriftlich verlangt.
+<sup>2</sup> Eine Korporationsversammlung ist binnen drei Monaten auch durchzuführen, wenn ein Zehntel der Gesellschaftsmitglieder dies unter Angaben der Verhandlungsgegenstände unterschriftlich verlangt.
 
-<sup>3</sup> Zu Korporationsversammlungen werden die Gesellschaftsbrüder unter Mitteilung der Verhandlungsgegenstände mittels persönlicher Zutrittskarten eingeladen.
+<sup>3</sup> Zu Korporationsversammlungen werden die Gesellschaftsmitglieder unter Mitteilung der Verhandlungsgegenstände mittels persönlicher Zutrittskarten eingeladen.
 
-<sup>4</sup> Sendungen an die letzte dem Meister oder Schreiber der Korporation bekanntgegebene Adresse gelten als richtig zugestellt.
+<sup>4</sup> Sendungen an die letzte der Meisterin bzw. dem Meister oder der Schreiberin bzw. dem Schreiber der Korporation bekanntgegebene Adresse gelten als richtig zugestellt.
 
 #### § 7
 
 **Leitung der Korporationsversammlung**
 
-<sup>1</sup> Die Korporationsversammlung wird vom Meister oder im Falle seiner Verhinderung vom Statthalter geleitet.
+<sup>1</sup> Die Korporationsversammlung wird von der Meisterin bzw. vom Meister oder im Falle ihrer oder seiner Verhinderung von der Statthalterin bzw. dem Statthalter geleitet.
 
-<sup>2</sup> Die Versammlung kann indessen in offener Abstimmung und mit einfachem Mehr für die ganze Versammlung oder für einzelne Geschäfte einen Tagespräsidenten wählen.
+<sup>2</sup> Die Versammlung kann indessen in offener Abstimmung und mit einfachem Mehr für die ganze Versammlung oder für einzelne Geschäfte eine Tagespräsidentin oder einen Tagespräsidenten wählen.
 
 #### § 8
 
@@ -126,7 +125,7 @@ erlässt folgendes Reglement über die Organisation der Bürgerkorporation Klein
 
 <sup>1</sup> Abstimmungen erfolgen offen, wenn nicht die Korporationsversammlung mit einfachem Mehr schriftliche Abstimmung beschliesst; in diesem Fall gelten für die Auszählung der Stimmen die Vorschriften von § 9 betreffend Wahlen.
 
-<sup>2</sup> Der Vorsitzende, der als Gesellschaftsbruder ebenfalls stimmberechtigt ist, gibt im Falle der Stimmengleichheit den Stichentscheid.
+<sup>2</sup> Die Vorsitzende oder der Vorsitzende, die als Gesellschaftsmitglied ebenfalls stimmberechtigt sind, gibt im Falle der Stimmengleichheit den Stichentscheid.
 
 #### § 9
 
@@ -134,9 +133,9 @@ erlässt folgendes Reglement über die Organisation der Bürgerkorporation Klein
 
 <sup>1</sup> Die Wahlen werden geheim durchgeführt; vorbehalten bleibt § 10.
 
-<sup>2</sup> Der Vorsitzende schlägt der Versammlung die Stimmenzähler und einen Schreiber vor; werden aus der Mitte der Versammlung dafür andere Gesellschaftsbrüder vorgeschlagen, so bestimmt die Versammlung in offener Abstimmung.
+<sup>2</sup> Die Vorsitzende oder der Vorsitzende schlägt der Versammlung die Stimmenzählenden und eine Schreiberin oder einen Schreiber vor; werden aus der Mitte der Versammlung dafür andere Gesellschaftsmitglieder vorgeschlagen, so bestimmt die Versammlung in offener Abstimmung.
 
-<sup>3</sup> Die Stimmenzähler teilen die Wahlzettel aus, ziehen sie nach Ausfüllung durch die Gesellschaftsbrüder wieder ein und zählen sie.
+<sup>3</sup> Die Stimmenzählenden teilen die Wahlzettel aus, ziehen sie nach Ausfüllung durch die Gesellschaftsmitglieder wieder ein und zählen sie.
 
 <sup>4</sup> Gewählt ist, wer das absolute Mehr erreicht, wobei ungültige Stimmen und leere Stimmzettel bei der Berechnung des absoluten Mehr von der Gesamtzahl der eingegangenen Stimmzettel abgezogen werden.
 
@@ -144,17 +143,17 @@ erlässt folgendes Reglement über die Organisation der Bürgerkorporation Klein
 
 <sup>6</sup> Wird auch im zweiten Wahlgang das absolute Mehr nicht erreicht, so findet ein dritter Wahlgang statt, bei dem wählbar ist, wer auch im zweiten Wahlgang wählbar war, und bei dem das relative Mehr, bei Stimmengleichheit das Los, entscheidet.
 
-<sup>7</sup> Mehrere gleichartige Wahlen, insbesondere die Wahl mehrerer Vorgesetzter, müssen zusammen vorgenommen werden. Das absolute Mehr wird dann ermittelt aus der Zahl der Stimmzettel, die wenigstens den Namen eines Wählbaren enthalten. Enthält ein Wahlzettel mehr Namen als Personen zu wählen sind, so werden die am Schluss überschiessenden nicht gezählt. Der gleiche Name wird nur einmal gezählt. Sollten mehr Personen, als zu wählen sind, das absolute Mehr erreichen, so entscheidet unter diesen das relative Mehr oder bei Stimmengleichheit das Los.
+<sup>7</sup> Mehrere gleichartige Wahlen, insbesondere die Wahl mehrerer Vorgesetzter, müssen zusammen vorgenommen werden. Das absolute Mehr wird dann ermittelt aus der Zahl der Stimmzettel, die wenigstens den Namen eines wählbaren Mitglieds enthalten. Enthält ein Wahlzettel mehr Namen als Personen zu wählen sind, so werden die am Schluss überschiessenden nicht gezählt. Der gleiche Name wird nur einmal gezählt. Sollten mehr Personen, als zu wählen sind, das absolute Mehr erreichen, so entscheidet unter diesen das relative Mehr oder bei Stimmengleichheit das Los.
 
-<sup>8</sup> Die ganze Wahlhandlung wird im Korporationsprotokoll festgehalten, vom Vorsitzenden und den Stimmenzählern unterschrieben, und das Ergebnis ist innert zehn Tagen dem Bürgerrat unter Angabe der jeweiligen Amtsdauer der Gewählten zu melden.
+<sup>8</sup> Die ganze Wahlhandlung wird im Korporationsprotokoll festgehalten, von der Vorsitzenden oder vom Vorsitzenden und den Stimmenzählenden unterschrieben, und das Ergebnis ist innert zehn Tagen dem Bürgerrat unter Angabe der jeweiligen Amtsdauer der Gewählten zu melden.
 
 #### § 10
 
 **Offene Wahl**
 
-<sup>1</sup> Wenn nicht mehr Kandidaten vorgeschlagen sind, als gewählt werden können, kann die Korporationsversammlung mit zwei Dritteln der Stimmen offene Wahl beschliessen.
+<sup>1</sup> Wenn nicht mehr Personen vorgeschlagen sind, als gewählt werden können, kann die Korporationsversammlung mit zwei Dritteln der Stimmen offene Wahl beschliessen.
 
-<sup>2</sup> Bei offener Wahl ist über jeden Kandidaten einzeln abzustimmen; im Übrigen gelten sinngemäss die Vorschriften von § 9.
+<sup>2</sup> Bei offener Wahl ist über jede Person einzeln abzustimmen; im Übrigen gelten sinngemäss die Vorschriften von § 9.
 
 ## IV. Vorstand
 
@@ -162,27 +161,27 @@ erlässt folgendes Reglement über die Organisation der Bürgerkorporation Klein
 
 **Wahl und Grösse**
 
-<sup>1</sup> Die Gesellschaftsbrüder wählen aus ihrer Mitte einen Vorstand, bestehend aus sieben Vorgesetzten, und daraus den Meister.
+<sup>1</sup> Die Gesellschaftsmitglieder wählen aus ihrer Mitte einen Vorstand, bestehend aus sieben Vorgesetzten, und daraus die Meisterin oder den Meister.
 
 #### § 12
 
 **Amtsdauer**
 
-<sup>1</sup> Die Amtsdauer des Meisters und der übrigen Vorstandsmitglieder beträgt sechs Jahre.
+<sup>1</sup> Die Amtsdauer der Meisterin oder des Meisters und der übrigen Vorstandsmitglieder beträgt sechs Jahre.
 
 <sup>2</sup> Alle drei Jahre, jeweils im März, finden Erneuerungswahlen statt für die im Austritt befindlichen vier bzw. drei Vorgesetzten.
 
-<sup>3</sup> Ersatzwahlen finden anlässlich sonstiger Korporationsversammlungen statt, jedenfalls aber, wenn der Meister ausgefallen ist oder wenn der Vorstand nur noch fünf Vorgesetzte zählt; bei Ersatzwahlen tritt der Gewählte in die Amtsdauer seines Vorgängers ein. Dabei gilt für den Gewählten mit der geringsten Stimmenzahl die kürzeste Amtsdauer; bei Stimmengleichheit entscheidet das Los.
+<sup>3</sup> Ersatzwahlen finden anlässlich sonstiger Korporationsversammlungen statt, jedenfalls aber, wenn die Meisterin oder der Meister ausgefallen ist oder wenn der Vorstand nur noch fünf Vorgesetzte zählt; bei Ersatzwahlen tritt die gewählte Person in die Amtsdauer der Vorgängerin oder des Vorgängers ein. Dabei gilt für die gewählte Person mit der geringsten Stimmenzahl die kürzeste Amtsdauer; bei Stimmengleichheit entscheidet das Los.
 
 #### § 13
 
 **Aufgaben der einzelnen Vorstandsmitglieder**
 
-<sup>1</sup> Der Meister führt den Vorsitz in der Korporationsversammlung und im Vorstand und leitet die Geschäfte der Korporation und des Vorstandes.
+<sup>1</sup> Die Meisterin oder der Meister führt den Vorsitz in der Korporationsversammlung und im Vorstand und leitet die Geschäfte der Korporation und des Vorstandes.
 
-<sup>2</sup> Der Vorstand wählt aus seiner Mitte einen Statthalter, der bei Verhinderung des Meisters oder bei dessen Ausscheiden bis zur Ersatzwahl dessen Aufgaben erfüllt.
+<sup>2</sup> Der Vorstand wählt aus seiner Mitte eine Statthalterin oder einen Statthalter, die oder der bei Verhinderung der Meisterin oder des Meisters oder bei deren oder dessen Ausscheiden bis zur Ersatzwahl ihre oder seine Aufgaben erfüllt.
 
-<sup>3</sup> Weiter wählt der Vorstand aus seiner Mitte einen Seckelmeister, einen Schreiber und nach Bedarf weitere Amtsträger und umschreibt deren Pflichten.
+<sup>3</sup> Weiter wählt der Vorstand aus seiner Mitte eine Seckelmeisterin oder einen Seckelmeister, eine Schreiberin oder einen Schreiber und nach Bedarf weitere Amtsträgerinnen oder Amtsträger und umschreibt deren Pflichten.
 
 #### § 14
 
@@ -196,19 +195,19 @@ erlässt folgendes Reglement über die Organisation der Bürgerkorporation Klein
 
 **Vorstandssitzungen**
 
-<sup>1</sup> Der Meister beruft Vorstandssitzungen ein, wenn es die Geschäfte erfordern.
+<sup>1</sup> Die Meisterin oder der Meister beruft Vorstandssitzungen ein, wenn es die Geschäfte erfordern.
 
 <sup>2</sup> Zu einer Vorstandssitzung ist auch zu laden, wenn drei Vorgesetzte dies unter Angabe der Verhandlungsgegenstände unterschriftlich verlangen.
 
 <sup>3</sup> Der Vorstand ist beschlussfähig, wenn wenigstens vier Vorgesetzte anwesend sind.
 
-<sup>4</sup> Abstimmungen erfolgen offen und mit einfachem Mehr; der Vorsitzende, der ebenfalls stimmberechtigt ist, gibt bei Stimmengleichheit den Stichentscheid.
+<sup>4</sup> Abstimmungen erfolgen offen und mit einfachem Mehr; die Vorsitzende oder der Vorsitzende, die ebenfalls stimmberechtigt sind, gibt bei Stimmengleichheit den Stichentscheid.
 
 #### § 16
 
-**Rücktritt eines Vorgesetzten**
+**Rücktritt einer Vorgesetzen oder eines Vorgesetzten**
 
-<sup>1</sup> Will der Meister oder ein anderer Vorgesetzter vor Ablauf seiner Amtsdauer zurücktreten, so hat er dies dem Vorstand nach Möglichkeit wenigstens drei Monate zum voraus anzuzeigen.
+<sup>1</sup> Will die Meisterin bzw. der Meister oder ein anderes Vorgesetztenmitglied vor Ablauf der Amtsdauer zurücktreten, so hat sie oder er dies dem Vorstand nach Möglichkeit wenigstens drei Monate zum voraus anzuzeigen.
 
 ## V. Aufsicht durch den Bürgerrat
 
@@ -238,7 +237,7 @@ erlässt folgendes Reglement über die Organisation der Bürgerkorporation Klein
 
 **Rekurs an den Bürgerrat**
 
-<sup>1</sup> Gegen Beschlüsse der Korporationsversammlung oder des Vorstandes kann jeder Gesellschaftsbruder wegen Rechtswidrigkeit oder offensichtlicher Unangemessenheit Rekurs an den Bürgerrat einreichen.
+<sup>1</sup> Gegen Beschlüsse der Korporationsversammlung oder des Vorstandes kann jedes Gesellschaftsmitglied wegen Rechtswidrigkeit oder offensichtlicher Unangemessenheit Rekurs an den Bürgerrat einreichen.
 
 <sup>2</sup> Das Verfahren richtet sich nach den Vorschriften des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz)[^19-1].
 
