@@ -3,20 +3,19 @@ canton: SO
 number: "121.251"
 title: Verordnung über die Fraktionsbeiträge
 language: de
-version: 2005-05-03
-valid_until: 2021-12-31
-version_adopted: 2002-06-19
+version: 2022-01-01
+version_adopted: 2021-12-15
 adopted: 1990-06-27
 in_force: 1990-10-11
 url: "https://bgs.so.ch/app/de/texts_of_law/121.251"
-pdf: "https://bgs.so.ch/api/de/versions/3680/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5195/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Fraktionsbeiträge
 
-Vom 27.06.1990 (Stand 03.05.2005)
+Vom 27.06.1990 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -32,7 +31,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Die Fraktionen des Kantonsrates erhalten für ihre Tätigkeit eine finanzielle Unterstützung von insgesamt 200'000 Franken pro Jahr.
+<sup>1</sup> Die Fraktionen des Kantonsrates erhalten für ihre Tätigkeit jährlich eine finanzielle Unterstützung. Diese setzt sich aus einem Sockelbeitrag und Kopfbeiträgen zusammen.
 
 #### § 2
 
@@ -41,7 +40,7 @@ beschliesst:
 <sup>1</sup> Die Fraktionsbeiträge werden wie folgt verteilt:
 
 - a) jede Fraktion erhält als Sockelbeitrag 10'000 Franken;
-- b) der verbleibende Betrag wird nach der Zahl der beitragsberechtigten Fraktionsmitglieder auf die Fraktionen verteilt (Kopfbeiträge).
+- b) jede Fraktion erhält zusätzlich für jedes beitragsberechtigte Fraktionsmitglied einen Kopfbeitrag von 1'500 Franken.
 
 #### § 3
 
@@ -62,6 +61,10 @@ beschliesst:
 **Übergangsbestimmung**
 
 <sup>1</sup> Im Jahre 1990 werden die Fraktionsbeiträge spätestens im November ausgerichtet.
+
+<sup>2</sup> Im Jahre 2021 werden die Fraktionsbeiträge rückwirkend wie folgt angepasst: Der Sockelbeitrag (§ 2 Bst. a) entspricht 8'300 Franken, der Kopfbeitrag (§ 2 Bst. b) 1'500 Franken.
+
+<sup>3</sup> Im Jahr 2022 werden die Beiträge für das ganze Jahr gemäss der Änderung vom 15. Dezember 2021 berechnet, unbesehen vom Zeitpunkt des Inkrafttretens der Verordnung.
 
 #### § 6
 
