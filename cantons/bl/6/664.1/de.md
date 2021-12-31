@@ -3,20 +3,19 @@ canton: BL
 number: "664.1"
 title: Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel
 language: de
-version: 2007-01-01
-valid_until: 2021-12-31
-version_adopted: 2006-06-27
+version: 2022-01-01
+version_adopted: 2021-05-25
 adopted: 2006-06-27
 in_force: 2007-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/664.1"
-pdf: "https://bl.clex.ch/api/de/versions/268/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3239/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel
 
-Vom 27.06.2006 (Stand 01.01.2007)
+Vom 27.06.2006 (Stand 01.01.2022)
 
 Die Kantone Basel-Landschaft und Basel-Stadt vereinbaren:[^ingress-1]
 
@@ -95,6 +94,12 @@ Die Kantone Basel-Landschaft und Basel-Stadt vereinbaren:[^ingress-1]
 <sup>4</sup> Über die Erfüllung des Leistungsauftrags, die Verwendung der Finanzierungsbeiträge und den Rechnungsabschluss erstattet die Universität den Regierungen der Vertragskantone jährlich Bericht.
 
 <sup>5</sup> Die Universität kann Angebote im Bereich der Forschung, Lehre oder Dienstleistung im Auftrag eines einzelnen Vertragskantons führen.
+
+#### § 7a
+
+**Eigentümerstrategie**
+
+<sup>1</sup> Die Regierungen beschliessen und veröffentlichen unter Berücksichtigung der jeweiligen kantonalen Vorgaben eine gemeinsame Eigentümerstrategie für die Universität.
 
 #### § 8
 
@@ -245,6 +250,7 @@ Die Kantone Basel-Landschaft und Basel-Stadt vereinbaren:[^ingress-1]
 <sup>1</sup> Die Regierungen der Vertragskantone stellen die wirksame Aufsicht über die Universität sicher. Ihnen obliegen insbesondere folgende Aufgaben, die sie durch übereinstimmende Beschlüsse wahrnehmen:
 
 - a. Beschluss über den Leistungsauftrag zuhanden der Parlamente;
+- a<sup>bis</sup>. Beschluss über die jährliche Aufteilung des verbleibenden Restdefizits gemäss § 33 Abs. 3;
 - b. Wahl des Präsidenten bzw. der Präsidentin des Universitätsrats;
 - c. Festlegen der Vergütung des Universitätsrats;
 - d. Kenntnisnahme der Berichterstattung zum Leistungsauftrag;
@@ -302,6 +308,8 @@ Die Kantone Basel-Landschaft und Basel-Stadt vereinbaren:[^ingress-1]
 
 - a. ist verantwortlich für die Umsetzung des Leistungsauftrags und die Einhaltung des Budgets;
 - b. definiert in Absprache mit dem Rektorat und nach Anhörung der betroffenen Fakultäten und der Regenz die strategische Ausrichtung und die Entwicklungsschwerpunkte der Universität;
+- b<sup>bis</sup>. definiert in Absprache mit dem Immobiliengremium die Immobilienstrategie der Universität;
+- b<sup>ter</sup>. ist verantwortlich für die Bauherrenrolle bei Bauprojekten der Universität;
 - c. regelt die Organisation der Universität in einem Statut, das insbesondere die Zusammensetzung und Kompetenzen der verschiedenen universitären Organe und die Ausgestaltung der inneruniversitären Rechtswege festlegt;
 - d. legt die Personalpolitik fest und unterbreitet den Regierungen der Vertragskantone die Eckwerte der Anstellungsbedingungen zur Genehmigung;
 - e. überwacht die Qualität der Leistungen der Universität;
@@ -417,7 +425,7 @@ Die Kantone Basel-Landschaft und Basel-Stadt vereinbaren:[^ingress-1]
 - f. Entgelte für Leistungen an Dritte;
 - g. Fonds, Schenkungen, Legate und weitere Drittmittel.
 
-<sup>2</sup> Für einmalige Investitionen können die Vertragskantone der Universität Darlehen zur Verfügung stellen.
+<sup>2</sup> Für einmalige Investitionen können die Vertragskantone der Universität Darlehen oder Garantien zur Verfügung stellen.
 
 <sup>3</sup> Dienstleistungen sind grundsätzlich mindestens kostendeckend und zu branchenüblichen Ansätzen zu erbringen.
 
@@ -429,7 +437,13 @@ Die Kantone Basel-Landschaft und Basel-Stadt vereinbaren:[^ingress-1]
 
 <sup>2</sup> Die Vertragskantone finanzieren die Vollkosten ihrer Studierenden.
 
-<sup>3</sup> Das Restdefizit wird unter Berücksichtigung der Erträge der Universität und eines Standortvorteils berechnet und von den Vertragskantonen je zur Hälfte finanziert.
+<sup>3</sup> Das Restdefizit wird auf der Basis der Vollkosten unter Abzug der Erträge der Universität einschliesslich der Beiträge der Vertragskantone gemäss Abs. 2 berechnet. Die Vertragskantone finanzieren das Restdefizit des jeweiligen Beitragsjahres nach Abzug eines Standortvorteils von 10 % zulasten des Kantons Basel-Stadt. Sie teilen das verbleibende Restdefizit im Verhältnis ihrer von der Eidgenössischen Finanzverwaltung (EFV) für das Vorjahr errechneten und publizierten Standardisierten Steuererträge (SSE) vor Ressourcenausgleich auf.
+
+<sup>3<sup>bis</sup></sup> Die Regierungen überprüfen die Höhe des Standortvorteils bei erheblichen und langfristig wirkenden Änderungen der örtlichen Ansiedlung der Universität oder in Folge des Einflusses anderweitiger standortbezogener Parameter.
+
+<sup>3<sup>ter</sup></sup> Sie überprüfen die Aufteilung des verbleibenden Restdefizits aufgrund der SSE, wenn sich der prozentuale Anteil eines Vertragskantons am verbleibenden Restdefizit über eine Leistungsperiode um mehr als 5 Prozentpunkte verändert.
+
+<sup>3<sup>quater</sup></sup> Sie können den Parlamenten mit Vorlage des Berichts zum Globalbeitrag eine Änderung der Höhe des Standortvorteils gemäss Abs. 3<sup>bis</sup> beziehungsweise eine Änderung der Aufteilung des verbleibenden Restdefizits gemäss Abs. 3<sup>ter</sup> beantragen.
 
 <sup>4</sup> Die Regierungen der Vertragskantone einigen sich hinsichtlich der Detailregelungen.
 
@@ -449,15 +463,17 @@ Die Kantone Basel-Landschaft und Basel-Stadt vereinbaren:[^ingress-1]
 
 **Rechnungswesen**
 
-<sup>1</sup> Das Rechnungswesen der Universität wird nach anerkannten kaufmännischen Grundsätzen und den einschlägigen Regeln der Schweizerischen Universitätskonferenz geführt.
+<sup>1</sup> Die Universität wendet einen allgemein anerkannten Rechnungslegungsstandard an, der ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage vermittelt. Dabei beachtet sie die einschlägigen Regeln der Schweizerischen Hochschulkonferenz (SHK).
 
 #### § 36
 
 **Umgang mit Ertrags- und Aufwandüberschüssen**
 
-<sup>1</sup> Erzielt die Universität einen Ertragsüberschuss, so wird dieser im Eigenkapital mittels Rücklagen oder freier Reserven auf die Folgejahre vorgetragen.
+<sup>1</sup> Zur Wahrung der Entwicklungs- und Risikofähigkeit bildet und verwendet die Universität Eigenkapital gemäss den Vorgaben der Regierungen der Vertragskantone.
 
-<sup>2</sup> Die Leistungsperioden sind jeweils ohne Verlustvortrag abzuschliessen.
+<sup>2</sup> Erzielt die Universität einen Ertragsüberschuss, so wird dieser im Eigenkapital mittels Rücklagen oder freier Reserven auf die Folgejahre vorgetragen.
+
+<sup>3</sup> Die Leistungsperioden sind grundsätzlich ohne Verlust abzuschliessen.
 
 #### § 37
 
@@ -475,7 +491,7 @@ Die Kantone Basel-Landschaft und Basel-Stadt vereinbaren:[^ingress-1]
 
 <sup>3</sup> Aus Forderungen gegenüber der Universität, deren Ursachen vor dem 1. Januar 2007 gesetzt wurden und für die bis zu diesem Datum die Universität oder der Kanton Basel-Stadt haftbar waren, darf dem Kanton Basel-Landschaft keine finanzielle Belastung erwachsen, die über dessen ordentliche Beitragsleistungen hinausgeht.
 
-<sup>4</sup> Für per 31. Dezember 2006 vorhandene Mängel an Liegenschaften (zum Beispiel Asbest) bleibt der Kanton Basel-Stadt als Eigentümer direkt haftbar, sofern diese nicht durch die übliche Abnutzung oder den Gebrauch durch die Universität entstanden sind und es sich nicht um aus dem Immobilienfonds finanzierte Installationen handelt.
+<sup>4</sup> Für per 31. Dezember 2006 vorhandene Mängel an Liegenschaften (zum Beispiel Asbest) bleibt der Kanton Basel-Stadt als Eigentümer direkt haftbar, sofern diese nicht durch die übliche Abnutzung oder den Gebrauch durch die Universität entstanden sind und es sich nicht um durch die Universität finanzierte Installationen handelt.
 
 ## 8 Immobilien
 
@@ -483,33 +499,56 @@ Die Kantone Basel-Landschaft und Basel-Stadt vereinbaren:[^ingress-1]
 
 **Liegenschaften**
 
-<sup>1</sup> Die Vertragskantone tragen im Rahmen des Gesamtsbudgets der Universität gemeinsam die laufenden Kosten (betrieblicher Raumaufwand, Kosten für Unterhalt und Veränderung) für die von der Universität genutzten Liegenschaften sowie die Mietabgeltung für die von der Universität genutzten Liegenschaften im Eigentum eines Vertragskantons oder von Dritten.
+<sup>1</sup> Die Vertragskantone tragen im Rahmen des Gesamtbudgets der Universität gemeinsam:
 
-<sup>2</sup> Neuinvestitionen ausserhalb des Gesamtbudgets der Universität werden von den Kantonen grundsätzlich je zur Hälfte finanziert. Beiträge Dritter werden vor der Kostenaufteilung in Abzug gebracht.
+- a. die Mietabgeltungen für Liegenschaften im Eigentum eines Vertragskantons oder Dritter einschliesslich der Aufwendungen der Universität für den Mieterausbau und dessen Unterhalt;
+- b. die Kosten des Unterhalts und von Veränderungen in Liegenschaften im Eigentum der Universität;
+- c. die laufenden Kosten des Betriebs der von der Universität genutzten Liegenschaften und der Finanzierung der Liegenschaften im Eigentum der Universität.
 
-<sup>3</sup> Der Erwerb, die Veräusserung und der Neubau von Liegenschaften durch die Universität bedürfen der Genehmigung der Regierungen der Vertragskantone. Die entsprechenden Kompetenzen der Parlamente bleiben gewährleistet.
+<sup>2</sup> Investitionen werden grundsätzlich finanziert:
 
-<sup>4</sup> Die Regierungen der Vertragskantone prüfen Optionen von gemeinsamem Eigentum der Vertragskantone oder der Universität an den von der Universität genutzten Liegenschaften.
+- a. bei Liegenschaften im Eigentum der Universität durch paritätische Beiträge, im Falle der Fremdfinanzierung paritätische Garantien der Vertragskantone;
+- b. bei Liegenschaften im Eigentum eines Vertragskantons durch diesen selbst.
 
-<sup>5</sup> Eine gesonderte Vereinbarung enthält weitere Bestimmungen über die Liegenschaften. Der endgültige Abschluss der Vereinbarung obliegt den Regierungen der Vertragskantone.
+<sup>2<sup>bis</sup></sup> Die Regierungen können gemeinsame Investitionen in Liegenschaften für die Universität und Miteigentum der Vertragskantone daran prüfen.
+
+<sup>3</sup> Der Erwerb und der Neubau von Liegenschaften durch die Universität ausserhalb des Gesamtbudgets sowie die Veräusserung von Liegenschaften durch die Universität bedürfen der Genehmigung der Regierungen der Vertragskantone. Die entsprechenden Kompetenzen der Parlamente bleiben gewährleistet.
+
+<sup>4</sup> …
+
+<sup>5</sup> Die Regierungen der Vertragskantone schliessen zur Ausgestaltung des Immobilienwesens eine Vereinbarung ab.
 
 #### § 40
 
-**Immobilienfonds**
+**Mittelverwendung**
 
-<sup>1</sup> Der Unterhalt und die Veränderungen der Liegenschaften werden vollständig aus einem von der Universität zu führenden, zweckgebundenen Fonds (Immobilienfonds) finanziert. Die Universität führt über den Immobilienfonds separat Rechnung und weist diese im Jahresbericht aus.
+<sup>1</sup> Die Universität führt eine separate Immobilienrechnung (Spartenrechnung) über alle Immobilienkosten. Die Immobilienrechnung wird im Jahresbericht ausgewiesen.
 
-<sup>2</sup> Die Regierungen der Vertragskantone legen den Anteil des Globalbeitrags, der dem Immobilienfonds zugeführt wird, im Leistungsauftrag fest.
+<sup>2</sup> Die Regierungen der Vertragskantone legen den Anteil des Globalbeitrags, der dem Immobilienwesen zugeführt wird, im Leistungsauftrag fest.
 
-<sup>3</sup> Der Universitätsrat entscheidet im Rahmen der strategischen Ausrichtung der Universität und der Zweckbestimmung des Immobilienfonds über die Verwendung des Fonds.
+<sup>3</sup> Der Universitätsrat entscheidet im Rahmen der strategischen Ausrichtung der Universität über die Verwendung der dem Immobilienwesen zugeführten Mittel. Er berücksichtigt dabei die Empfehlungen des Immobiliengremiums.
 
-<sup>4</sup> Soweit die Mittel nicht für die Finanzierung von Unterhalt und Veränderungen benötigt werden, kann der Universitätsrat den Regierungen der Vertragskantone auch Erwerb und Neubau von Liegenschaften aus dem Immobilienfonds beantragen.
+<sup>4</sup> …
 
-<sup>5</sup> Als beratendes Gremium bestellt der Universitätsrat eine Fachkommission. Deren Zusammensetzung und Aufgaben regelt die Vereinbarung gemäss § 39 Absatz 5.
+<sup>5</sup> …
 
-<sup>6</sup> Subventionen des Bundes für Investitionen der Universität fliessen in den Immobilienfonds, soweit die Vorhaben aus den Mitteln des Immobilienfonds finanziert wurden.
+<sup>6</sup> Subventionen des Bundes für Investitionen der Universität fliessen in die Immobilienrechnung ein.
 
-<sup>7</sup> In der Vereinbarung gemäss § 39 Absatz 5 konkretisieren die Regierungen der Vertragskantone die Bestimmungen über den Immobilienfonds.
+<sup>7</sup> In der Vereinbarung gemäss § 39 Abs. 5 konkretisieren die Regierungen der Vertragskantone die Bestimmungen über die Immobilienrechnung.
+
+#### § 40a
+
+**Immobiliengremium**
+
+<sup>1</sup> Die Regierungen der Vertragskantone setzen gemeinsam mit dem Universitätsrat ein Fachgremium Immobilien (Immobiliengremium) ein.
+
+<sup>2</sup> Das Immobiliengremium setzt sich paritätisch aus mindestens 2 Fachpersonen jedes Vertragskantons und der Universität zusammen. Die Leitung obliegt alternierend den Vertragskantonen.
+
+<sup>3</sup> Es berät den Universitätsrat und die Regierungen der Vertragskantone in strategie- und kostenrelevanten Immobiliengeschäften der Universität und gibt hierzu Empfehlungen ab. Es geniesst hierfür ein umfassendes Einsichtsrecht in sämtliche Immobiliengeschäfte der Universität.
+
+<sup>4</sup> Es sorgt für die Abstimmung und Koordination der Interessen zwischen den beiden Trägerkantonen und der Universität.
+
+<sup>5</sup> In der Vereinbarung gemäss § 39 Abs. 5 konkretisieren die Regierungen der Vertragskantone die näheren Bestimmungen über das Immobiliengremium.
 
 ## 9 Verwaltungsverfahren und Verwaltungsrechtspflege
 
@@ -547,13 +586,21 @@ Die Kantone Basel-Landschaft und Basel-Stadt vereinbaren:[^ingress-1]
 
 **Übergangsbestimmungen betreffend Finanzierung**
 
-<sup>1</sup> Der Kanton Basel-Landschaft erhält gemäss § 33 Absatz 3 des vorliegenden Vertrags eine standortbezogene finanzielle Ermässigung zu Lasten des Standortkantons. Diese Ermässigung berechnet sich auf der Basis des Restdefizits und beträgt 10%. Nach zehn Jahren reduziert sie sich auf 5%.
+<sup>1</sup> …
 
-<sup>2</sup> Der Kostenbeitrag des Kantons Basel-Landschaft an die Universität wird für 2007 auf maximal 127.5 Millionen Franken fixiert.
+<sup>2</sup> …
 
-<sup>3</sup> Das Kostendach gemäss Absatz 2 für den Kanton Basel-Landschaft wird durch einen zeitlich befristeten, durch Basel-Stadt zu tragenden höheren Anteil am Restdefizit sichergestellt. Die Abfederung dauert sieben Jahre. Sie ist linear abnehmend.
+<sup>3</sup> …
 
 <sup>4</sup> Zur Vorfinanzierung der Beiträge des Bundes gemäss dem Universitätsförderungsgesetz stellen die beiden Trägerkantone der Universität per 1. Januar 2007 ein unverzinsliches Darlehen aus dem Verwaltungsvermögen von je 30 Millionen Franken zur Verfügung. Die Regierungen der Vertragskantone schliessen eine Darlehensvereinbarung ab.
+
+#### § 44a
+
+**Übergangsbestimmungen betreffend Auflösung des Immobilienfonds**
+
+<sup>1</sup> Im Hinblick auf die Auflösung des Immobilienfonds veranlassen die Regierungen der Vertragskantone die Durchführung einer externen Due Diligence-Prüfung bis Ende 2023.
+
+<sup>2</sup> Über die Zuweisung der Mittel des Immobilienfonds an die Universität und die Vertragskantone entscheiden die Regierungen der Vertragskantone nach Vorliegen der Ergebnisse der Due Diligence-Prüfung.
 
 #### § 45
 
