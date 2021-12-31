@@ -4,13 +4,13 @@ number: RiE 411.610
 title: Reglement für die Schulen der Gemeinden Bettingen und Riehen
 short: Schulreglement
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-07-06
+version: 2022-01-01
+valid_until: 2024-08-21
+version_adopted: 2021-12-14
 adopted: 2009-06-16
 in_force: 2009-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20411.610"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5302/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5391/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schulreglement | Riehen: Einwohnergemeinde
 
 (Schulreglement)
 
-Vom 16. Juni 2009 (Stand 1. August 2021)
+Vom 16. Juni 2009 (Stand 1. Januar 2022)
 
 Der Gemeinderat Riehen
 
@@ -169,11 +169,13 @@ erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und 
 
 a) eine schulexterne Präsidentin oder ein schulexterner Präsident;
 
-b) drei bis fünf schulexterne Mitglieder:
+b) drei bis sechs schulexterne Mitglieder:
 
 – ein oder zwei vom Elternrat gewählte Elterndelegierte, deren Kinder die betreffende Schule besuchen;
 
 – zwei oder drei an Schulfragen interessierte Personen;
+
+– eine Delegierte oder ein Delegierter der Gemeindeversammlung Bettingen bzw. der zuständigen Sachkommission des Einwohnerrats Riehen, sofern diese eine Delegation vornehmen;
 
 c) zwei schulinterne Mitglieder:
 
@@ -187,17 +189,7 @@ c) zwei schulinterne Mitglieder:
 
 #### § 10a
 
-**Berichterstattung und Verschwiegenheit**
-
-<sup>1</sup> Die Weitergabe von Informationen oder Personendaten richtet sich nach dem Informations- und Datenschutzgesetz.
-
-<sup>2</sup> Die Vertretungen der Elternschaft, der Lehrpersonen und der Schulleitung informieren ihre eigenen Gruppierungen in angemessener Weise. Der Schulrat beschliesst die Art und Weise der Information.
-
-<sup>3</sup> Die Protokolle des Schulrats sind nicht öffentlich zugänglich.
-
-<sup>4</sup> Bei Konflikten in der Schule sind die Präsidien und die Schulratsmitglieder zur Verschwiegenheit verpflichtet.
-
-<sup>5</sup> Nach Beendigung des Amts übergeben sie alle Dokumente, die sie im Zusammenhang mit ihrem Amt erhalten haben, der zuständigen Abteilungsleitung. Sie sind weiterhin zur Verschwiegenheit verpflichtet.
+**…**
 
 #### § 10b
 
@@ -207,17 +199,21 @@ c) zwei schulinterne Mitglieder:
 
 <sup>2</sup> Diese Treffen dienen dem gegenseitigen Austausch von Informationen und der Diskussion von gemeinsamen Fragen der Schulentwicklung.
 
+#### § 10c
+
+**Richtlinie zu den Aufgaben der Schulräte**
+
+<sup>1</sup> Die zuständige Abteilungsleitung erlässt eine Weisung betreffend Sitzungen des Schulrats, Vermittlungsverfahren und Unterrichtsbesuche.
+
 #### § 11
 
-**Ausstand**
-
-<sup>1</sup> Bei persönlicher Betroffenheit oder bei Befangenheit aus anderen Gründen gilt die Ausstandspflicht.
+**…**
 
 #### § 12
 
 **Amtsenthebung**
 
-<sup>1</sup> Auf schriftliches Begehren eines oder mehrerer Mitglieder eines Schulrats oder des Schulausschusses kann der zuständige Gemeinderat die Präsidentin oder den Präsidenten sowie die schulexternen Mitglieder aus dem Amt entlassen.
+<sup>1</sup> Auf schriftliches Begehren eines oder mehrerer Mitglieder eines Schulrats oder des Schulausschusses kann der zuständige Gemeinderat die Präsidentin oder den Präsidenten sowie die schulexternen Mitglieder aus dem Amt entlassen. Davon ausgenommen sind die Delegierten der zuständigen Sachkommission des Einwohnerrats.
 
 <sup>2</sup> Als Grund für eine Amtsenthebung gelten insbesondere die Nichterfüllung der Aufgaben sowie schwerwiegende Pflichtverletzungen.
 
