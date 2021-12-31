@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 décembre 1993 sur le libre passage dans la prévoy
 short: LFLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1993-12-17
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2386_2386_2386-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2386_2386_2386-20220101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20210101/fr"
 
 (Loi sur le libre passage, LFLP)
 
-du 17 décembre 1993 (Etat le 1<sup>er</sup> janvier 2021)
+du 17 décembre 1993 (État le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -60,7 +60,7 @@ arrête:
 [^2-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^2-2]: Introduit par le ch. I de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 929](https://fedlex.data.admin.ch/eli/fga/2009/231)[937](https://fedlex.data.admin.ch/eli/fga/2009/233)).
 [^2-3]: Introduit par le ch. 7 de l’annexe à la LF du 18 mars 2011 (6<sup>e</sup> révision de l’AI, 1<sup>er</sup> volet, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1647](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^2-4]: Nouvelle teneur selon le ch. I de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 929](https://fedlex.data.admin.ch/eli/fga/2009/231)[937](https://fedlex.data.admin.ch/eli/fga/2009/233)).
+[^2-4]: Nouvelle teneur selon le ch. I de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 929](https://fedlex.data.admin.ch/eli/fga/2009/231), [937](https://fedlex.data.admin.ch/eli/fga/2009/233)).
 [^2-5]: Introduit par le ch. 3 de l’annexe à la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 3
@@ -207,7 +207,7 @@ L’assuré peut exiger le paiement en espèces de la prestation de sortie:
 
 <sup>2</sup> Le temps de réserve déjà écoulé dans l’ancienne institution de prévoyance doit être imputé à la nouvelle réserve. Les conditions de la nouvelle institution de prévoyance sont applicables si elles sont plus favorables pour l’assuré.
 
-## Section 4 Calcul de la prestation de sortie et droit à des fonds libres****
+## Section 4 Calcul de la prestation de sortie et droit à des fonds libres
 
 [^sec4-1]
 
@@ -233,7 +233,7 @@ L’assuré peut exiger le paiement en espèces de la prestation de sortie:
 
 <sup>2</sup> Les prestations acquises sont calculées comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20210101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20220101/fr/xml/image/image1.png)
 
 <sup>3</sup> Les prestations assurées sont fixées par le règlement. Elles sont déterminées par la période d’assurance possible. Les prestations temporaires au sens de l’art. 17, al. 2, peuvent être omises lors du calcul de la valeur actuelle, si elles ne sont pas financées selon le système de capitalisation.
 
@@ -337,7 +337,7 @@ Les institutions de prévoyance enregistrées doivent remettre à l’assuré au
 
 <sup>2</sup> Si le règlement prévoit une réglementation au moins aussi favorable pour l’assuré, il est possible de renoncer à établir un décompte.
 
-## Section 5*a* Divorce et dissolution judiciaire du partenariat enregistré****
+## Section 5*a* Divorce et dissolution judiciaire du partenariat enregistré
 
 [^sec5a-1]
 
@@ -448,11 +448,11 @@ Pour le calcul, à l’aide du tableau, de la prestation de sortie existant au m
 
 **Partenariat enregistré**[^23-1]
 
-Les dispositions applicables en cas de divorce s'appliquent par analogie à la dissolution judiciaire d'un partenariat enregistré.
+Les dispositions applicables en cas de divorce s’appliquent par analogie à la dissolution judiciaire d’un partenariat enregistré.
 
 [^23-1]: Anciennement art. 22*d*. Introduit par le ch. 30 de l’annexe à la L du 18 juin 2004 sur le partenariat ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-## Section 6 Information de l’assuré et documentation en vue d’un divorce****
+## Section 6 Information de l’assuré et documentation en vue d’un divorce
 
 [^sec6-1]
 
@@ -480,11 +480,12 @@ En cas de divorce ou de dissolution judiciaire du partenariat enregistré, l’i
 [^24-5]: Introduit par le ch. 7 de l’annexe à la LF du 26 juin 1998 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^24-6]: Introduit par le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
-## Section 6*a***** Obligation d’annoncer, Centrale du 2<sup>e</sup> pilier
+## Section 6*a* Obligation d’annoncer, Centrale du 2<sup>e</sup> pilier, mesures en cas de négligence de l’obligation d’entretien
 
-[^sec6a-1]
+[^sec6a-1][^sec6a-2]
 
 [^sec6a-1]: Introduite par le ch. I de la LF du 18 déc. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4873).
+[^sec6a-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 24a
 
@@ -551,7 +552,35 @@ La Centrale du 2<sup>e</sup> pilier conserve les données. Cette obligation s’
 
 [^24f-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
-## Section 6*b***** Prescription des droits et conservation des pièces
+#### Art. 24f<sup>bis</sup>
+
+**Mesures en cas de négligence de l’obligation d’entretien**[^24fbis-1]
+
+<sup>1</sup> L’office spécialisé désigné par le droit cantonal en vertu des art. 131, al. 1, et 290 CC[^24fbis-2] peut annoncer à l’institution de libre passage l’assuré qui est en retard d’au moins quatre mensualités dans le paiement des contributions d’entretien qu’il doit verser régulièrement.
+
+<sup>2</sup> En cas de libre passage, l’institution de prévoyance ou de libre passage transmet l’annonce de l’office spécialisé à la nouvelle institution. Si l’annonce est notifiée après le transfert de la prestation de libre passage, elle doit être transmise à la nouvelle institution de prévoyance ou de libre passage dans les dix jours ouvrables.
+
+<sup>3</sup> Les annonces au sens des al. 1 et 2 déploient leur effet dès qu’elles ont été traitées, mais au plus tard cinq jours ouvrables après leur notification.
+
+<sup>4</sup>
+
+L’institution de libre passage communique sans délai à l’office spécialisé l’arrivée à échéance des prétentions suivantes des assurés qui lui ont été annoncés:
+
+- a. le versement de la prestation en capital, lorsque le montant atteint 1000 francs au moins;
+- b. le paiement en espèces au sens de l’art. 5, lorsque le montant atteint 1000 francs au moins;
+- c. le versement anticipé dans le cadre de l’encouragement à la propriété du logement au sens de l’art. 30*c* LPP[^24fbis-3].
+
+<sup>5</sup> Elle communique également à l’office spécialisé la mise en gage des avoirs de prévoyance de ces assurés en vertu de l’art. 30*b* LPP ainsi que la réalisation du gage grevant ces avoirs.
+
+<sup>6</sup> Les annonces et communications au sens des al. 1, 4 et 5 sont notifiées par envoi recommandé ou d’une autre manière contre accusé de réception.
+
+<sup>7</sup> L’institution de libre passage peut effectuer un versement au sens de l’al. 4 au plus tôt 30 jours après notification à l’office spécialisé.
+
+[^24fbis-1]: Introduit par l’annexe ch. 4 de la LF du 20 mars 2015 (Entretien de l’enfant), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [5017](https://fedlex.data.admin.ch/eli/oc/2015/822); [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 511](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^24fbis-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24fbis-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+## Section 6*b* Prescription des droits et conservation des pièces
 
 [^sec6b-1]
 
@@ -563,7 +592,7 @@ L’art. 41 LPP[^24g-1] s’applique par analogie à la prescription des droits 
 
 [^24g-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
-## Section 7 Applicabilité de la LPP****
+## Section 7 Applicabilité de la LPP
 
 [^sec7-1]
 
@@ -573,10 +602,11 @@ L’art. 41 LPP[^24g-1] s’applique par analogie à la prescription des droits 
 
 **Principe**[^25-1]
 
-Les dispositions de la LPP[^25-2] sur l’utilisation systématique du numéro d’assuré AVS, le contentieux, le traitement et la communication de données personnelles, la consultation du dossier, l’obligation de garder le secret et l’entraide administrative sont applicables par analogie.
+Les dispositions de la LPP[^25-2] sur l’utilisation systématique du numéro AVS[^25-3], le contentieux, le traitement et la communication de données personnelles, la consultation du dossier, l’obligation de garder le secret et l’entraide administrative sont applicables par analogie.
 
 [^25-1]: Nouvelle teneur selon le ch. 10 de l’annexe à la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^25-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^25-3]: Nouvelle expression selon l’annexe ch. 30 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 25a
 
@@ -592,7 +622,7 @@ Les dispositions de la LPP[^25-2] sur l’utilisation systématique du numéro d
 [^25a-4]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 [^25a-5]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 19 juin 2015 (Partage de la prévoyance professionnelle en cas de divorce), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4341](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
-## Section 8**** Coordination internationale****
+## Section 8 Coordination internationale
 
 [^sec8-1][^sec8-2]
 
@@ -629,8 +659,8 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 [^25b-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^25b-3]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^25b-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
-[^25b-5]: Règlement (CEE) n<sup>o</sup> 1408/71 du Conseil du 14 juin 1971 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) et la convention AELE révisée.
-[^25b-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la convention AELE révisée.
+[^25b-5]: Règlement (CEE) n<sup>o</sup> 1408/71 du Conseil du 14 juin 1971 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11); [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) et la convention AELE révisée.
+[^25b-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la convention AELE révisée.
 [^25b-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 #### Art. 25c
@@ -691,7 +721,7 @@ Les art. 32, al. 3, et 75*a* à 75*c* de la loi fédérale du 6 octobre 2000 sur
 [^25g-1]: Introduit par l’annexe ch. 5 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^25g-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Section 9**** Dispositions finales
+## Section 9 Dispositions finales
 
 [^sec9-1]
 
@@ -731,7 +761,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1995[^28-1]
 
 [^28-1]: ACF du 3 oct. 1994
 
-## Dispositions finales de la modification du 18 décembre 1998****
+## Dispositions finales de la modification du 18 décembre 1998
 
 [^u1-1]
 
@@ -739,7 +769,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1995[^28-1]
 
 Les art. 24*a* et 24*b* s’appliquent également aux institutions qui gèrent des avoirs de prévoyance ou de libre passage générés avant l’entrée en vigueur de la présente modification de la loi du 17 décembre 1993 sur le libre passage.
 
-## Dispositions finales de la modification du 14 décembre 2001****
+## Dispositions finales de la modification du 14 décembre 2001
 
 [^u2-1]
 

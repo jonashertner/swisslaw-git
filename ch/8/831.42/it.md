@@ -4,11 +4,11 @@ title: "Legge federale del 17 dicembre 1993 sul libero passaggio nella previdenz
 short: LFLP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1993-12-17
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1994-2386_2386_2386-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1994-2386_2386_2386-20220101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20210101/it"
 
 (Legge sul libero passaggio, LFLP)
 
-del 17 dicembre 1993 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 17 dicembre 1993 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -58,7 +58,7 @@ decreta:
 <sup>4</sup> Se 30 giorni dopo aver ricevuto tutte le indicazioni necessarie l’istituto di previdenza non ha versato la prestazione d’uscita esigibile, da tale momento è dovuto un interesse di mora secondo l’articolo 26 capoverso 2.[^2-5]
 
 [^2-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^2-2]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 879](https://fedlex.data.admin.ch/eli/fga/2009/231)[887](https://fedlex.data.admin.ch/eli/fga/2009/233)).
+[^2-2]: Introdotto dal n. I della LF del 12 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 879](https://fedlex.data.admin.ch/eli/fga/2009/231), [887](https://fedlex.data.admin.ch/eli/fga/2009/233)).
 [^2-3]: Introdotto dall’all. n. 7 della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^2-4]: Nuovo testo giusta il n. I della LF del 12 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [FF 2009 879](https://fedlex.data.admin.ch/eli/fga/2009/231)[887](https://fedlex.data.admin.ch/eli/fga/2009/233)).
 [^2-5]: Introdotto dall’all. n. 3 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); FF **2000** 2431).
@@ -205,7 +205,7 @@ L’assicurato può esigere il pagamento in contanti della prestazione d’uscit
 
 <sup>2</sup> Il tempo di riserva già trascorso nel precedente istituto di previdenza deve essere computato sulla nuova riserva. Le condizioni del nuovo istituto di previdenza sono applicabili se sono più favorevoli per l’assicurato.
 
-## Sezione 4: Calcolo della prestazione d’uscita e diritto ai fondi liberi****
+## Sezione 4: Calcolo della prestazione d’uscita e diritto ai fondi liberi
 
 [^sec4-1]
 
@@ -231,10 +231,7 @@ L’assicurato può esigere il pagamento in contanti della prestazione d’uscit
 
 <sup>2</sup> Le prestazioni acquisite sono calcolate come segue:
 
-<table>
-<tr><td>prestazioni assicurate ×</td><td>periodo d’assicurazione computabile \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</td></tr>
-<tr><td></td><td>periodo d’assicurazione possibile</td></tr>
-</table>
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20220101/it/xml/image/image1.png)
 
 <sup>3</sup> Le prestazioni assicurate sono fissate dal regolamento. Sono determinate per il periodo d’assicurazione possibile. Le prestazioni temporanee giusta l’articolo 17 capoverso 2 possono essere trascurate nel calcolo del valore attuale, se non sono finanziate secondo il sistema di capitalizzazione.
 
@@ -338,7 +335,7 @@ Gli istituti di previdenza registrati devono rimettere all’assicurato uscente 
 
 <sup>2</sup> Se il regolamento prevede un ordinamento almeno altrettanto favorevole per l’assicurato, si può rinunciare ad allestire un conteggio.
 
-## Sezione 5*a*: Divorzio e scioglimento giudiziale dell’unione domestica registrata****
+## Sezione 5*a*: Divorzio e scioglimento giudiziale dell’unione domestica registrata
 
 [^sec5a-1]
 
@@ -453,7 +450,7 @@ Le disposizioni concernenti il divorzio si applicano per analogia in caso di sci
 
 [^23-1]: Originario art. 22*d*. Introdotto dall’all. n. 30 della L del 18 giu. 2004 sull’unione domestica registrata ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-## Sezione 6: Informazione dell’assicurato e documentazione in vista di un divorzio****
+## Sezione 6: Informazione dell’assicurato e documentazione in vista di un divorzio
 
 [^sec6-1]
 
@@ -481,11 +478,12 @@ In caso di divorzio o di scioglimento giudiziale dell’unione domestica registr
 [^24-5]: Introdotto dall’all. n. 7 della LF del 26 giu. 1998 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Nuovo testo giusta l’all. n. 5 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^24-6]: Introdotto dall’all. n. 5 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
-## Sezione 6*a*:**** Obblighi d’annuncio, Ufficio centrale del 2° pilastro
+## Sezione 6*a*: Obblighi d’annuncio, Ufficio centrale del 2° pilastro e misure in caso d’inosservanza dell’obbligo di mantenimento
 
-[^sec6a-1]
+[^sec6a-1][^sec6a-2]
 
 [^sec6a-1]: Introdotta dal n. I della LF del 18 dic. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409).
+[^sec6a-2]: Nuovo testo giusta l’all. n. 4 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 24a
 
@@ -508,9 +506,11 @@ Gli istituti di previdenza e gli istituti che gestiscono conti o polizze di libe
 L’annuncio comprende:
 
 - a. il cognome e il nome dell’assicurato;
-- b. il suo numero d’assicurato dell’AVS;
+- b. il suo numero AVS[^24c-1];
 - c. la sua data di nascita;
 - d. il nome dell’istituto di previdenza o dell’istituto che gestisce i conti o le polizze di libero passaggio.
+
+[^24c-1]: Nuova espr. giusta l’all. n. 30 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 24d
 
@@ -552,7 +552,35 @@ L’Ufficio centrale del 2° pilastro conserva gli annunci. L’obbligo di conse
 
 [^24f-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
-## Sezione 6*b*:**** Prescrizione dei diritti e conservazione di documenti
+#### Art. 24f<sup>bis</sup>
+
+**Misure in caso d’inosservanza dell’obbligo di mantenimento**[^24fbis-1]
+
+<sup>1</sup> Se un assicurato è in ritardo di almeno quattro mensilità nel pagamento periodico di alimenti, l’ufficio specializzato designato dal diritto cantonale di cui agli articoli 131 capoverso 1 e 290 CC[^24fbis-2] lo può notificare all’istituto di libero passaggio.
+
+<sup>2</sup> In caso di libero passaggio l’istituto di previdenza o di libero passaggio trasmette la notificazione dell’ufficio specializzato al nuovo istituto di previdenza o di libero passaggio. Se perviene dopo il versamento della prestazione d’uscita, la notificazione dev’essere trasmessa entro dieci giorni lavorativi al nuovo istituto di previdenza o di libero passaggio.
+
+<sup>3</sup> Le notificazioni di cui ai capoversi 1 e 2 hanno effetto a contare dalla loro trattazione, ma al più tardi cinque giorni lavorativi dopo la loro trasmissione.
+
+<sup>4</sup>
+
+L’istituto di libero passaggio annuncia senza indugio all’ufficio specializzato l’esigibilità delle seguenti pretese degli assicurati che gli sono stati notificati:
+
+- a. il versamento di una liquidazione in capitale unica di importo pari ad almeno 1000 franchi;
+- b. il pagamento in contanti secondo l’articolo 5 di un importo pari ad almeno 1000 franchi;
+- c. il prelievo anticipato nell’ambito della promozione della proprietà d’abitazioni secondo l’articolo 30*c* LPP[^24fbis-3].
+
+<sup>5</sup> L’istituto di libero passaggio annuncia all’ufficio specializzato anche la costituzione in pegno secondo l’articolo 30*b* LPP delle prestazioni di previdenza di questi assicurati nonché la realizzazione del pegno.
+
+<sup>6</sup> Gli annunci e le notificazioni di cui ai capoversi 1, 4 e 5 devono essere effettuati, per scritto, mediante invio postale raccomandato o in altro modo contro ricevuta.
+
+<sup>7</sup> L’istituto di libero passaggio può effettuare uno dei versamenti di cui al capoverso 4 al più presto 30 giorni dopo la notificazione all’ufficio specializzato.
+
+[^24fbis-1]: Introdotto dall’all. n. 4 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [5017](https://fedlex.data.admin.ch/eli/oc/2015/822), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^24fbis-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24fbis-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+## Sezione 6*b*: Prescrizione dei diritti e conservazione di documenti
 
 [^sec6b-1]
 
@@ -564,7 +592,7 @@ L’articolo 41 LPP[^24g-1] è applicabile per analogia alla prescrizione dei di
 
 [^24g-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
-## Sezione 7: Applicabilità della LPP****
+## Sezione 7: Applicabilità della LPP
 
 [^sec7-1]
 
@@ -574,7 +602,7 @@ L’articolo 41 LPP[^24g-1] è applicabile per analogia alla prescrizione dei di
 
 **Principio**[^25-1]
 
-Le disposizioni della LPP[^25-2] concernenti l’utilizzazione sistematica del numero d’assicurato dell’AVS, il contenzioso, il trattamento e la comunicazione di dati personali, la consultazione degli atti, l’obbligo del segreto, nonché l’assistenza amministrativa si applicano per analogia.
+Le disposizioni della LPP[^25-2] concernenti l’utilizzazione sistematica del numero AVS, il contenzioso, il trattamento e la comunicazione di dati personali, la consultazione degli atti, l’obbligo del segreto, nonché l’assistenza amministrativa si applicano per analogia.
 
 [^25-1]: Nuovo testo giusta l’all. n. 10 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^25-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
@@ -593,7 +621,7 @@ Le disposizioni della LPP[^25-2] concernenti l’utilizzazione sistematica del n
 [^25a-4]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 [^25a-5]: Nuovo testo giusta l’all. n. 5 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
-## Sezione 8:**** Coordinamento internazionale****
+## Sezione 8: Coordinamento internazionale
 
 [^sec8-1][^sec8-2]
 
@@ -630,8 +658,8 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 [^25b-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^25b-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^25b-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
-[^25b-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
-[^25b-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
+[^25b-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
+[^25b-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
 [^25b-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 #### Art. 25c
@@ -677,7 +705,7 @@ L’assicurato non può esigere il pagamento in contanti, secondo l’articolo 5
 
 <sup>2</sup> Il capoverso 1 lettera a entra in vigore cinque anni dopo l’entrata in vigore dell’Accordo sulla libera circolazione[^25f-2].
 
-<sup>3</sup> Il capoverso 1 lettera b entra in vigore cinque anni dopo l’entrata in vigore della Convenzione AELS emendata [^25f-3].
+<sup>3</sup> Il capoverso 1 lettera b entra in vigore cinque anni dopo l’entrata in vigore della Convenzione AELS emendata[^25f-3].
 
 [^25f-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^25f-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
@@ -692,7 +720,7 @@ Gli articoli 32 capoverso 3 e 75*a*–75*c* della legge federale del 6 ottobre 2
 [^25g-1]: Introdotto dall’all. n. 5 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^25g-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Sezione 9:**** Disposizioni finali
+## Sezione 9: Disposizioni finali
 
 [^sec9-1]
 
@@ -732,7 +760,7 @@ Data dell’entrata in vigore: 1° gennaio 1995[^28-1]
 
 [^28-1]: DCF del 3 ott. 1994.
 
-## Disposizione finale della modifica del 18 dicembre 1998****
+## Disposizione finale della modifica del 18 dicembre 1998
 
 [^u1-1]
 
@@ -742,7 +770,7 @@ Gli articoli 24*a* e 24*b* della legge del 17 dicembre 1993[^u1-2] sul libero pa
 
 [^u1-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 
-## Disposizioni finali della modifica del 14 dicembre 2001****
+## Disposizioni finali della modifica del 14 dicembre 2001
 
 [^u2-1]
 
@@ -758,8 +786,6 @@ Gli articoli 24*a* e 24*b* della legge del 17 dicembre 1993[^u1-2] sul libero pa
 Allegato
 
 ## Modifica del diritto vigente
-
-Le seguenti altre leggi sono modificate come segue:
 
 ...[^annexu1-lvlu1-1]
 

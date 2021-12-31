@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Dezember 1993 über die Freizügigkeit in der beruf
 short: FZG
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1993-12-17
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1994-2386_2386_2386-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1994-2386_2386_2386-20220101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/20210101/de"
 
 (Freizügigkeitsgesetz, FZG)
 
-vom 17. Dezember 1993 (Stand am 1. Januar 2021)
+vom 17. Dezember 1993 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 34<sup>quater</sup> und 64 der Bundesverfassung[^ingre
 
 beschliesst:
 
-[^ingress-1]: [BS **1** 3; [AS 1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)]. Den genannten Bestimmungen entsprechen heute die Art. 111–113 und 122 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).¶
+[^ingress-1]: [BS **1** 3; [AS 1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)]. Den genannten Bestimmungen entsprechen heute die Art. 111–113 und 122 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2693](https://fedlex.data.admin.ch/eli/oc/2000/443); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^ingress-3]: [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)
 
@@ -58,9 +58,9 @@ beschliesst:
 <sup>4</sup> Überweist die Vorsorgeeinrichtung die fällige Austrittsleistung nicht innert 30 Tagen, nachdem sie die notwendigen Angaben erhalten hat, so ist ab Ende dieser Frist ein Verzugszins nach Artikel 26 Absatz 2 zu bezahlen.[^2-5]
 
 [^2-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^2-2]: Eingefügt durch Ziff. I des BG vom 12. Juni 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [BBl 2009 1101](https://fedlex.data.admin.ch/eli/fga/2009/231)[1109](https://fedlex.data.admin.ch/eli/fga/2009/233)).
+[^2-2]: Eingefügt durch Ziff. I des BG vom 12. Juni 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [BBl 2009 1101](https://fedlex.data.admin.ch/eli/fga/2009/231), [1109](https://fedlex.data.admin.ch/eli/fga/2009/233)).
 [^2-3]: Eingefügt durch Anhang Ziff. 7 des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmepaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^2-4]: Fassung gemäss Ziff. I des BG vom 12. Juni 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [BBl 2009 1101](https://fedlex.data.admin.ch/eli/fga/2009/231)[1109](https://fedlex.data.admin.ch/eli/fga/2009/233)).
+[^2-4]: Fassung gemäss Ziff. I des BG vom 12. Juni 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5187](https://fedlex.data.admin.ch/eli/oc/2009/609); [BBl 2009 1101](https://fedlex.data.admin.ch/eli/fga/2009/231), [1109](https://fedlex.data.admin.ch/eli/fga/2009/233)).
 [^2-5]: Eingefügt durch Anhang Ziff. 3 des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 
 #### Art. 3
@@ -205,7 +205,7 @@ Versicherte können die Barauszahlung der Austrittsleistung verlangen, wenn:
 
 <sup>2</sup> Die bei der früheren Vorsorgeeinrichtung abgelaufene Zeit eines Vorbehalts ist auf die neue Vorbehaltsdauer anzurechnen. Für die Versicherten günstigere Bedingungen der neuen Vorsorgeeinrichtung gehen vor.
 
-## 4. Abschnitt: Berechnung der Austrittsleistung und Anspruch auf freie Mittel****
+## 4. Abschnitt: Berechnung der Austrittsleistung und Anspruch auf freie Mittel
 
 [^sec4-1]
 
@@ -231,10 +231,7 @@ Versicherte können die Barauszahlung der Austrittsleistung verlangen, wenn:
 
 <sup>2</sup> Die erworbenen Leistungen werden wie folgt berechnet:
 
-<table>
-<tr><td>versicherte Leistungen ×</td><td>anrechenbare Versicherungsdauer</td></tr>
-<tr><td></td><td>mögliche Versicherungsdauer</td></tr>
-</table>
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386/20220101/de/xml/image/image1.png)
 
 <sup>3</sup> Die versicherten Leistungen sind im Reglement niedergelegt. Sie bestimmen sich aufgrund der möglichen Versicherungsdauer. Temporäre Leistungen gemäss Artikel 17 Absatz 2 können bei der Barwertbestimmung weggelassen werden, wenn sie nicht nach dem Deckungskapitalverfahren finanziert werden.
 
@@ -340,7 +337,7 @@ Registrierte Vorsorgeeinrichtungen haben den austretenden Versicherten mindesten
 
 [^21-1]: Da die Verwendung von Paarformen die Lesbarkeit des vorliegenden Artikels erschwert, wird die männliche Personenbezeichnung als Ausdruck gewählt, der sich auf Personen beider Geschlechter bezieht.
 
-## 5*a*. Abschnitt: Ehescheidung und gerichtliche Auflösung der eingetragenen Partnerschaft****
+## 5*a*. Abschnitt: Ehescheidung und gerichtliche Auflösung der eingetragenen Partnerschaft
 
 [^sec5a-1]
 
@@ -455,7 +452,7 @@ Die Bestimmungen über die Scheidung sind bei gerichtlicher Auflösung einer ein
 
 [^23-1]: Ursprünglich Art. 22*d*. Eingefügt durch Anhang Ziff. 30 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-## 6. Abschnitt: Information der Versicherten und Dokumentation im Hinblick auf eine Scheidung****
+## 6. Abschnitt: Information der Versicherten und Dokumentation im Hinblick auf eine Scheidung
 
 [^sec6-1]
 
@@ -483,11 +480,12 @@ Im Falle der Ehescheidung oder gerichtlichen Auflösung einer eingetragenen Part
 [^24-5]: Eingefügt durch Anhang Ziff. 7 des BG vom 26. Juni 1998 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)). Fassung gemäss Anhang Ziff. 5 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^24-6]: Eingefügt durch Anhang Ziff. 5 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
-## 6*a*. Abschnitt:**** Meldepflichten, Zentralstelle 2. Säule
+## 6*a*. Abschnitt: Meldepflichten, Zentralstelle 2. Säule, Massnahmen bei Vernachlässigung der Unterhaltspflicht
 
-[^sec6a-1]
+[^sec6a-1][^sec6a-2]
 
-[^sec6a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 1998, in Kraft seit. 1. Mai 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^sec6a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^sec6a-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 24a
 
@@ -510,9 +508,11 @@ Vorsorgeeinrichtungen und Einrichtungen, welche Freizügigkeitskonten oder ‑po
 Die Meldung umfasst:
 
 - a. Name und Vorname des Versicherten;
-- b. seine AHV-Versichertennummer;
+- b. seine AHV-Nummer[^24c-1];
 - c. sein Geburtsdatum;
 - d. Name der Vorsorgeeinrichtung oder der Einrichtung, welche die Freizügigkeitskonten oder ‑policen führt.
+
+[^24c-1]: Ausdruck gemäss Anhang Ziff. 30 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 24d
 
@@ -554,7 +554,35 @@ Die Zentralstelle 2. Säule bewahrt die Meldungen auf. Die Aufbewahrungspflicht 
 
 [^24f-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
-## 6*b*. Abschnitt:**** Verjährung von Ansprüchen und Aufbewahrung von Vorsorgeunterlagen
+#### Art. 24f<sup>bis</sup>
+
+**Massnahmen bei Vernachlässigung der Unterhaltspflicht**[^24fbis-1]
+
+<sup>1</sup> Befindet sich eine versicherte Person mit regelmässig zu erbringenden Unterhaltszahlungen im Umfang von mindestens vier monatlichen Zahlungen in Verzug, so kann die vom kantonalen Recht bezeichnete Fachstelle nach den Artikeln 131 Absatz 1 und 290 ZGB[^24fbis-2] dies der Freizügigkeitseinrichtung melden.
+
+<sup>2</sup> Im Freizügigkeitsfall muss die bisherige Vorsorge- oder Freizügigkeitseinrichtung die Meldung der Fachstelle an die neue Vorsorge- oder Freizügigkeitseinrichtung weiterleiten. Trifft die Meldung ein, nachdem die Austrittsleistung überwiesen wurde, so muss sie innert zehn Arbeitstagen an die neue Vorsorge- oder Freizügigkeitseinrichtung weitergeleitet werden.
+
+<sup>3</sup> Die Meldungen nach den Absätzen 1 und 2 entfalten ihre Wirkung mit Abschluss der Verarbeitung, spätestens jedoch fünf Arbeitstage nach ihrer Zustellung.
+
+<sup>4</sup>
+
+Die Freizügigkeitseinrichtung muss der Fachstelle den Eintritt der Fälligkeit folgender Ansprüche der ihr gemeldeten Versicherten unverzüglich melden:
+
+- a. Auszahlung der Leistung als einmalige Kapitalabfindung in der Höhe von mindestens 1000 Franken;
+- b. Barauszahlung nach Artikel 5 in der Höhe von mindestens 1000 Franken;
+- c. Vorbezug zur Wohneigentumsförderung nach Artikel 30*c* BVG[^24fbis-3].
+
+<sup>5</sup> Sie muss der Fachstelle auch die Verpfändung von Vorsorgeguthaben dieser Versicherten nach Artikel 30*b* BVG sowie die Pfandverwertung dieses Guthabens melden.
+
+<sup>6</sup> Die Meldungen nach den Absätzen 1, 4 und 5 haben schriftlich durch eingeschriebene Postsendung oder auf andere Weise gegen Empfangsbestätigung zu erfolgen.
+
+<sup>7</sup> Die Freizügigkeitseinrichtung darf eine Überweisung nach Absatz 4 frühestens 30 Tage nach Zustellung der Meldung an die Fachstelle vornehmen.
+
+[^24fbis-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [5017](https://fedlex.data.admin.ch/eli/oc/2015/822); [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^24fbis-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24fbis-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+## 6*b*. Abschnitt: Verjährung von Ansprüchen und Aufbewahrung von Vorsorgeunterlagen
 
 [^sec6b-1]
 
@@ -566,7 +594,7 @@ Für die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen
 
 [^24g-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
-## 7. Abschnitt: Anwendbarkeit des BVG****
+## 7. Abschnitt: Anwendbarkeit des BVG
 
 [^sec7-1]
 
@@ -576,7 +604,7 @@ Für die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen
 
 **Grundsatz**[^25-1]
 
-Die Bestimmungen des BVG[^25-2] betreffend die systematische Verwendung der Versichertennummer der AHV, die Rechtspflege, das Bearbeiten und die Bekanntgabe von Personendaten, die Akteneinsicht, die Schweigepflicht sowie die Amts- und Verwaltungshilfe sind sinngemäss anwendbar.
+Die Bestimmungen des BVG[^25-2] betreffend die systematische Verwendung der AHV-Nummer, die Rechtspflege, das Bearbeiten und die Bekanntgabe von Personendaten, die Akteneinsicht, die Schweigepflicht sowie die Amts- und Verwaltungshilfe sind sinngemäss anwendbar.
 
 [^25-1]: Fassung gemäss Anhang Ziff. 10 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^25-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
@@ -595,7 +623,7 @@ Die Bestimmungen des BVG[^25-2] betreffend die systematische Verwendung der Vers
 [^25a-4]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 [^25a-5]: Fassung gemäss Anhang Ziff. 5 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
-## 8. Abschnitt:**** Internationale Koordination****
+## 8. Abschnitt: Internationale Koordination
 
 [^sec8-1][^sec8-2]
 
@@ -632,8 +660,8 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 [^25b-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^25b-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^25b-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit, ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
-[^25b-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
-[^25b-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
+[^25b-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11); [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604), [4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
+[^25b-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
 [^25b-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 #### Art. 25c
@@ -694,7 +722,7 @@ Die Artikel 32 Absatz 3 und 75*a*–75*c* des Bundesgesetzes vom 6. Oktober 2000
 [^25g-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^25g-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## 9. Abschnitt:**** Schlussbestimmungen
+## 9. Abschnitt: Schlussbestimmungen
 
 [^sec9-1]
 
@@ -734,7 +762,7 @@ Datum des Inkrafttretens: 1. Januar 1995[^28-1]
 
 [^28-1]: BRB vom 3. Okt. 1994
 
-## Schlussbestimmung der Änderung vom 18. Dez. 1998****
+## Schlussbestimmung der Änderung vom 18. Dez. 1998
 
 [^u1-1]
 
@@ -742,7 +770,7 @@ Datum des Inkrafttretens: 1. Januar 1995[^28-1]
 
 Die Artikel 24*a* und 24*b* des Freizügigkeitsgesetzes vom 17. Dezember 1993 gelten sinngemäss für Vorsorgeeinrichtungen, die Vorsorge- oder Freizügigkeitsguthaben führen, welche aus der Zeit vor dem Inkrafttreten dieser Änderung des Freizügigkeitsgesetzes stammen.
 
-## Schlussbestimmungen der Änderung vom 14. Dezember 2001****
+## Schlussbestimmungen der Änderung vom 14. Dezember 2001
 
 [^u2-1]
 
