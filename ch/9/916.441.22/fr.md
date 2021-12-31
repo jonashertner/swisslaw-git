@@ -4,11 +4,11 @@ title: Ordonnance du 25 mai 2011 concernant les sous-produits animaux (OSPA)
 short: OSPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: fr
-version: 2021-05-01
+version: 2022-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2011-372-20210501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20210501/fr"
 
 (OSPA)**[^t-1]**
 
-du 25 mai 2011 (Etat le 1<sup>er</sup> mai 2021)
+du 25 mai 2011 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -338,7 +338,7 @@ Si des manquements graves sont constatés lors des contrôles officiels, le vét
 - b. si les manquements peuvent être corrigés dans un délai raisonnable.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^14-2]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1er juin 2018 (RO 2018 2097).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 15
 
@@ -377,7 +377,7 @@ Si des manquements graves sont constatés lors des contrôles officiels, le vét
 
 Les personnes physiques ou morales enregistrées doivent communiquer au vétérinaire cantonal les quantités totales de sous-produits animaux éliminés dans leurs usines ou installations en une année. Les quantités, réparties par groupes de marchandises, doivent être communiquées avant le 31 janvier de l’année suivante.
 
-[^17-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1er juin 2018 (RO 2018 2097).
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 #### Art. 18
 
@@ -786,9 +786,12 @@ Les sous-produits animaux de catégorie 3 peuvent être utilisés pour la fabric
 
 <sup>1</sup> Quiconque produit ou transforme des produits d’origine animale à titre d’activité professionnelle est tenu d’éliminer ou de faire éliminer les sous-produits animaux résultant de cette production ou transformation.
 
-<sup>2</sup> Quiconque pratique l’abattage d’animaux ou la transformation de viandes et fait éliminer les sous-produits animaux résultant de ces activités par des tiers doit prouver au canton, en lui présentant une convention écrite, que l’élimination est garantie pendant au moins deux ans. La convention doit mentionner les quantités pouvant être éliminées et les conditions de sa résiliation.
+<sup>2</sup> Quiconque pratique l’abattage d’animaux ou la transformation de viandes et fait éliminer les sous-produits animaux résultant de ces activités par des tiers doit prouver au canton, en lui présentant une convention écrite, que l’élimination est garantie pendant au moins deux ans. La convention doit mentionner les quantités pouvant être éliminées et les conditions de sa résiliation. Le canton saisit la preuve fournie dans le système d’information pour les données d’exécution du service vétérinaire public visé dans l’ordonnance du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public[^36-1].[^36-2]
 
 <sup>3</sup> Tous les autres détenteurs de sous-produits animaux doivent livrer leurs sous-produits animaux au centre de collecte désigné par le canton s’ils ne sont pas en mesure de les éliminer eux-mêmes.
+
+[^36-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^36-2]: Nouvelle teneur selon l’annexe 3 ch. II 12 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 37
 
@@ -796,7 +799,7 @@ Les sous-produits animaux de catégorie 3 peuvent être utilisés pour la fabric
 
 <sup>1</sup> Le canton est responsable de l’élimination des sous-produits animaux qui n’ont pas été produits dans le cadre de la production ou de la transformation de produits d’origine animale exercée à titre d’activité professionnelle; les restes d’aliments ne sont pas concernés.
 
-<sup>2</sup> Lorsque les restes d’aliments sont mélangés à des déchets verts, le canton est responsable de l’élimination, si ces restes sont collectés à titre de déchets urbains visés à l’art. 31*b* de la loi du 7 octobre 1983 sur la protection de l’environnement<sup>.</sup>
+<sup>2</sup> Lorsque les restes d’aliments sont mélangés à des déchets verts, le canton est responsable de l’élimination, si ces restes sont collectés à titre de déchets urbains visés à l’art. 31*b* de la loi du 7 octobre 1983 sur la protection de l’environnement.
 
 <sup>3</sup> Les cantons qui n’exploitent pas leur propre usine ou installation d’élimination doivent garantir l’élimination des sous-produits animaux dont ils sont responsables en passant une convention avec une entreprise d’élimination.
 

@@ -4,11 +4,11 @@ title: Verordnung vom 25. Mai 2011 über tierische Nebenprodukte (VTNP)
 short: VTNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: de
-version: 2021-05-01
+version: 2022-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2011-372-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20210501/de"
 
 (VTNP)**[^t-1]**
 
-vom 25. Mai 2011 (Stand am 1. Mai 2021)
+vom 25. Mai 2011 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -57,7 +57,7 @@ Sie gilt nicht für:
 - c. Eizellen, Embryonen und Samen zu Zuchtzwecken;
 - d. Rohmilch, Kolostrum und daraus gewonnene Erzeugnisse, die im Ursprungsbetrieb gewonnen, aufbewahrt und beseitigt oder verwendet werden;
 - e. Schalen von Weich- und Krebstieren ohne weiches Gewebe und Fleisch;
-- f.[^2-3] ...
+- f.[^2-3] …
 - g.
 
   Stoffwechselprodukte, ausser wenn diese:
@@ -185,7 +185,7 @@ Tierische Nebenprodukte der Kategorie 2 sind:
 - a. Schlachttierkörper oder Teile davon, die nicht zur Kategorie 1 gehören, von der Fleischkontrolle als ungeniessbar bezeichnet worden sind und Anzeichen einer auf Menschen oder Tiere übertragbaren Krankheit aufweisen;
 - b.[^6-1] Tierkörper von Geflügel, das aus kommerziellen Gründen oder im Rahmen der Salmonellenbekämpfung getötet statt geschlachtet wurde;
 - c. Stoffwechselprodukte;
-- d.[^6-2] ...
+- d.[^6-2] …
 - e. tierische Erzeugnisse, die mit Fremdkörpern vermengt und deshalb nicht genusstauglich sind;
 - f. tierische Nebenprodukte mit Rückständen in Konzentrationen, welche die Grenzwerte nach der Fremd- und Inhaltsstoffverordnung vom 26. Juni 1995[^6-3] überschreiten, oder die aufgrund eines positiven Hemmstofftests aus der Lebensmittelkette ausgeschlossen werden;
 - g. Feststoffe aus anderen Schlachtbetrieben als den in Artikel 5 Buchstabe f genannten.
@@ -436,7 +436,7 @@ Für Folgeprodukte gelten die Anforderungen nach den Absätzen 1 und 2:
 
 <sup>2</sup> Das BLV kann weitere Verarbeitungsmethoden zulassen, wenn sie in der Wirkung mindestens den Methoden nach Anhang 5 entsprechen.
 
-<sup>3</sup> ...[^21-1]
+<sup>3</sup> …[^21-1]
 
 [^21-1]: Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -792,9 +792,12 @@ Tierische Nebenprodukte der Kategorie 3 dürfen für die Herstellung von pharmaz
 
 <sup>1</sup> Wer gewerbsmässig Erzeugnisse tierischer Herkunft gewinnt oder verarbeitet, muss die dabei anfallenden tierischen Nebenprodukte entsorgen oder entsorgen lassen.
 
-<sup>2</sup> Wer Tiere schlachtet oder Fleisch verarbeitet und die anfallenden tierischen Nebenprodukte durch Dritte entsorgen lässt, muss gegenüber dem Kanton durch Vorlegen schriftlicher Vereinbarungen nachweisen, dass die Entsorgung für mindestens zwei Jahre gesichert ist. Die Vereinbarungen müssen Angaben zu den Mengen und den Ausstiegskonditionen enthalten.
+<sup>2</sup> Wer Tiere schlachtet oder Fleisch verarbeitet und die anfallenden tierischen Nebenprodukte durch Dritte entsorgen lässt, muss gegenüber dem Kanton durch Vorlegen schriftlicher Vereinbarungen nachweisen, dass die Entsorgung für mindestens zwei Jahre gesichert ist. Die Vereinbarungen müssen Angaben zu den Mengen und den Ausstiegskonditionen enthalten. Der Kanton erfasst den Nachweis im Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 6. Juni 2014[^36-1] über die Informationssysteme für den öffentlichen Veterinärdienst.[^36-2]
 
 <sup>3</sup> Alle übrigen Inhaberinnen und Inhaber von tierischen Nebenprodukten müssen diese in die vom Kanton bestimmte Sammelstelle liefern, sofern sie zu deren Entsorgung nicht selber in der Lage sind.
+
+[^36-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^36-2]: Fassung gemäss Anhang 3 Ziff. II 12 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 37
 
@@ -1407,7 +1410,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex8-lvlu1-2]
+…[^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[AS 2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399), [2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)Anhang 3 Ziff. II 9, [2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 6, [2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 2, [2008 1189](https://fedlex.data.admin.ch/eli/oc/2008/214)]
+[^annex8-lvlu1-1]: [[AS 2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399); [2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)Anhang 3 Ziff. II 9; [2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 6; [2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 2; [2008 1189](https://fedlex.data.admin.ch/eli/oc/2008/214)]
 [^annex8-lvlu1-2]: Die Änderungen können unter [AS 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)konsultiert werden.

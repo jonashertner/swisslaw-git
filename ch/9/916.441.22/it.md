@@ -4,11 +4,11 @@ title: Ordinanza del 25 maggio 2011 concernente i sottoprodotti di origine anima
 short: OSOAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: it
-version: 2021-05-01
+version: 2022-01-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2011-372-20210501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20210501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-372-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20210501/it"
 
 (OSOAn)**[^t-1]**
 
-del 25 maggio 2011 (Stato 1° maggio 2021) (Stato 1° maggio 2021)
+del 25 maggio 2011 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -787,9 +787,12 @@ I sottoprodotti di origine animale della categoria 3 possono essere utilizzati p
 
 <sup>1</sup> Chi fabbrica o trasforma a titolo professionale prodotti di origine animale è tenuto ad eliminare o a fare eliminare i sottoprodotti che risultano da tale attività.
 
-<sup>2</sup> Chi svolge attività di macellazione o di trasformazione delle carni e affida a terzi l’eliminazione dei sottoprodotti di origine animale è tenuto a dimostrare al Cantone, presentando accordi scritti, che l’eliminazione è garantita per almeno due anni. Gli accordi devono specificare le quantità e le condizioni di recesso.
+<sup>2</sup> Chi svolge attività di macellazione o di trasformazione delle carni e affida a terzi l’eliminazione dei sottoprodotti di origine animale è tenuto a dimostrare al Cantone, presentando accordi scritti, che l’eliminazione è garantita per almeno due anni. Gli accordi devono specificare le quantità e le condizioni di recesso. Il Cantone registra la prova nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione ai sensi dell’ordinanza del 6 giugno 2014[^36-1] concernente i sistemi dʼinformazione per il servizio veterinario pubblico.[^36-2]
 
 <sup>3</sup> Gli altri proprietari di sottoprodotti di origine animale devono consegnare questi ultimi al centro di raccolta designato dal Cantone qualora non siano in grado di provvedere alla loro eliminazione.
+
+[^36-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^36-2]: Nuovo testo giusta l’all. 3 n. II 12 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 37
 
