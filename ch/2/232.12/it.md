@@ -4,11 +4,11 @@ title: "Legge federale del 5 ottobre 2001 sulla protezione del design (Legge sul
 short: LDes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: it
-version: 2019-04-01
+version: 2022-01-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20190401/it/xml/fedlex-data-admin-ch-eli-cc-2002-226-20190401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20190401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-226-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20190401/it"
 
 (Legge sul design, LDes)
 
-del 5 ottobre 2001 (Stato 1° aprile 2019) (Stato 1° aprile 2019)
+del 5 ottobre 2001 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -226,7 +226,7 @@ Il design è considerato depositato dal momento in cui è presentata una domanda
 <sup>4</sup> Contro versamento di un emolumento, il design può essere corredato di una descrizione di 100 parole al massimo al fine di spiegare la raffigurazione.
 
 [^19-1]: Nuovo testo giusta l’all. n. 3 del DF del 28 set. 2018 concernente l’approvazione e l’attuazione della Conv. n. 94 del Consiglio d’Europa sulla notificazione all’estero dei documenti in materia amministrativa, in vigore dal 1° apr. 2019 ([RU 2019 975](https://fedlex.data.admin.ch/eli/oc/2019/177); [FF 2017 5061](https://fedlex.data.admin.ch/eli/fga/2017/1678)).
-[^19-2]: Nuova designazione giusta il n. 5 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Di detta mod. è tenuto conto in tutto il presente testo.t
+[^19-2]: Nuova designazione giusta il n. 5 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^19-3]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^19-4]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
@@ -383,7 +383,7 @@ Il proseguimento della procedura è escluso in caso di inosservanza dei termini:
 [^31-1]: Nuovo testo giusta il n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^31-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
-### Sezione 2: …
+### Sezione 2: ...
 
 #### Art. 32
 
@@ -528,28 +528,33 @@ Anche in caso di assoluzione, il giudice può ordinare la confisca o la distruzi
 
 Il perseguimento penale compete ai Cantoni.
 
-### Sezione 5: Intervento dell’Amministrazione delle dogane
+### Sezione 5: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini****
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Nuovo testo giusta il n. I 4 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 46
 
 **Denuncia di merci sospette[^46-1]**
 
-<sup>1</sup> L’Amministrazione delle dogane è autorizzata ad avvisare il titolare di un design depositato qualora vi sia il sospetto dell’imminente introduzione nel territorio doganale svizzero o dell’imminente asportazione dal territorio doganale svizzero di oggetti prodotti illecitamente.[^46-2]
+<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è autorizzato ad avvisare il titolare di un design depositato qualora vi sia il sospetto dell’imminente introduzione nel territorio doganale svizzero o dell’imminente asportazione dal territorio doganale svizzero di oggetti prodotti illecitamente.[^46-2]
 
-<sup>2</sup> In tali casi l’Amministrazione delle dogane è autorizzata a trattenere gli oggetti durante tre giorni feriali affinché il titolare del diritto possa presentare una domanda giusta l’articolo 47.
+<sup>2</sup> In tali casi l’UDSC[^46-3] è autorizzato a trattenere gli oggetti durante tre giorni feriali affinché il titolare del diritto possa presentare una domanda giusta l’articolo 47.
 
 [^46-1]: Nuovo testo giusta il n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46-2]: Nuovo testo giusta il n. 5 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^46-2]: Nuovo testo giusta il n. I 4 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^46-3]: Nuova espr. giusta il n. I 4 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 47
 
 **Domanda d’intervento**
 
-<sup>1</sup> Se dispone di indizi concreti per ritenere imminente l’introduzione nel territorio doganale svizzero o l’asportazione dal territorio doganale svizzero di oggetti prodotti illecitamente, il titolare del design depositato o il titolare di una licenza legittimato ad agire può chiedere per scritto all’Amministrazione delle dogane di negare lo svincolo di tali oggetti.[^47-1]
+<sup>1</sup> Se dispone di indizi concreti per ritenere imminente l’introduzione nel territorio doganale svizzero o l’asportazione dal territorio doganale svizzero di oggetti prodotti illecitamente, il titolare del design depositato o il titolare di una licenza legittimato ad agire può chiedere per scritto all’UDSC di negare lo svincolo di tali oggetti.[^47-1]
 
-<sup>2</sup> La persona che presenta la domanda (richiedente) deve fornire tutte le indicazioni di cui dispone e che sono necessarie per la decisione dell’Amministrazione delle dogane; fornisce tra l’altro una descrizione esatta degli oggetti.
+<sup>2</sup> La persona che presenta la domanda (richiedente) deve fornire tutte le indicazioni di cui dispone e che sono necessarie per la decisione dell’UDSC; fornisce tra l’altro una descrizione esatta degli oggetti.
 
-<sup>3</sup> L’Amministrazione delle dogane decide definitivamente in merito alla domanda. Può riscuotere una tassa[^47-2] a copertura delle spese amministrative.
+<sup>3</sup> L’UDSC decide definitivamente in merito alla domanda. Può riscuotere una tassa[^47-2] a copertura delle spese amministrative.
 
 [^47-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^47-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
@@ -558,11 +563,11 @@ Il perseguimento penale compete ai Cantoni.
 
 **Trattenuta degli oggetti**
 
-<sup>1</sup> Se, in seguito a una domanda d’intervento ai sensi dell’articolo 47 capoverso 1, ha motivi fondati di sospettare che oggetti prodotti illecitamente siano introdotti nel territorio doganale svizzero o asportati dal territorio doganale svizzero, l’Amministrazione delle dogane lo comunica al richiedente nonché al dichiarante, al detentore o al proprietario di tali oggetti.[^48-1]
+<sup>1</sup> Se, in seguito a una domanda d’intervento ai sensi dell’articolo 47 capoverso 1, ha motivi fondati di sospettare che oggetti prodotti illecitamente siano introdotti nel territorio doganale svizzero o asportati dal territorio doganale svizzero, l’UDSC lo comunica al richiedente nonché al dichiarante, al detentore o al proprietario di tali oggetti.[^48-1]
 
-<sup>2</sup> L’Amministrazione delle dogane trattiene gli oggetti in questione fino dieci giorni feriali a contare dal momento della comunicazione secondo il capoverso 1, affinché il richiedente possa ottenere provvedimenti cautelari.
+<sup>2</sup> L’UDSC trattiene gli oggetti in questione fino dieci giorni feriali a contare dal momento della comunicazione secondo il capoverso 1, affinché il richiedente possa ottenere provvedimenti cautelari.
 
-<sup>3</sup> In casi motivati, l’Amministrazione delle dogane può trattenere gli oggetti in questione per altri dieci giorni feriali al massimo.
+<sup>3</sup> In casi motivati, l’UDSC può trattenere gli oggetti in questione per altri dieci giorni feriali al massimo.
 
 [^48-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -570,7 +575,7 @@ Il perseguimento penale compete ai Cantoni.
 
 **Campioni**[^48a-1]
 
-<sup>1</sup> Durante la ritenzione degli oggetti, l’Amministrazione delle dogane è abilitata, su domanda, a consegnare o inviare, per esame, campioni degli oggetti al richiedente o a consentirgli di ispezionare gli oggetti ritenuti.
+<sup>1</sup> Durante la ritenzione degli oggetti, l’UDSC è abilitato, su domanda, a consegnare o inviare, per esame, campioni degli oggetti al richiedente o a consentirgli di ispezionare gli oggetti ritenuti.
 
 <sup>2</sup> Le spese per il prelievo e l’invio dei campioni sono a carico del richiedente.
 
@@ -582,11 +587,11 @@ Il perseguimento penale compete ai Cantoni.
 
 **Tutela dei segreti di fabbricazione e d’affari**[^48b-1]
 
-<sup>1</sup> Contemporaneamente alla comunicazione di cui all’articolo 48 capoverso 1, l’Amministrazione delle dogane informa il dichiarante, detentore o proprietario degli oggetti della possibile consegna di campioni o della possibilità di ispezionarli secondo l’articolo 48*a* capoverso 1.
+<sup>1</sup> Contemporaneamente alla comunicazione di cui all’articolo 48 capoverso 1, l’UDSC informa il dichiarante, detentore o proprietario degli oggetti della possibile consegna di campioni o della possibilità di ispezionarli secondo l’articolo 48*a* capoverso 1.
 
 <sup>2</sup> Il dichiarante, detentore o proprietario può chiedere di essere presente durante l’ispezione al fine di tutelare i propri segreti di fabbricazione o d’affari.
 
-<sup>3</sup> L’Amministrazione delle dogane può, su richiesta motivata del dichiarante, detentore o proprietario, rifiutare la consegna di campioni.
+<sup>3</sup> L’UDSC può, su richiesta motivata del dichiarante, detentore o proprietario, rifiutare la consegna di campioni.
 
 [^48b-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -594,9 +599,9 @@ Il perseguimento penale compete ai Cantoni.
 
 **Domanda di distruzione degli oggetti**[^48c-1]
 
-<sup>1</sup> Insieme con la domanda secondo l’articolo 47 capoverso 1, il richiedente può chiedere per scritto all’Amministrazione delle dogane di distruggere gli oggetti.
+<sup>1</sup> Insieme con la domanda secondo l’articolo 47 capoverso 1, il richiedente può chiedere per scritto all’UDSC di distruggere gli oggetti.
 
-<sup>2</sup> Se è presentata una domanda di distruzione degli oggetti, l’Amministrazione delle dogane ne avvisa ill dichiarante, detentore o proprietario nella comunicazione di cui all’articolo 48 capoverso 1.
+<sup>2</sup> Se è presentata una domanda di distruzione degli oggetti, l’UDSC ne avvisa il dichiarante, detentore o proprietario nella comunicazione di cui all’articolo 48 capoverso 1.
 
 <sup>3</sup> La domanda di distruzione degli oggetti non implica un prolungamento dei termini per chiedere provvedimenti cautelari secondo l’articolo 48 capoversi 2 e 3.
 
@@ -616,7 +621,7 @@ Il perseguimento penale compete ai Cantoni.
 
 **Mezzi probatori**[^48e-1]
 
-Prima della distruzione degli oggetti, l’Amministrazione delle dogane preleva campioni e li conserva come prova per un’eventuale azione per risarcimento dei danni.
+Prima della distruzione degli oggetti, l’UDSC preleva campioni e li conserva come prova per un’eventuale azione per risarcimento dei danni.
 
 [^48e-1]: Introdotto dal n. 4 dell’all. alla LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -644,7 +649,7 @@ Prima della distruzione degli oggetti, l’Amministrazione delle dogane preleva 
 
 **Dichiarazione di responsabilità e risarcimento**[^49-1]
 
-<sup>1</sup> Se vi è da temere un danno dovuto alla ritenzione degli oggetti, l’Amministrazione delle dogane può subordinare la ritenzione a una dichiarazione di responsabilità da parte del richiedente. Al posto di tale dichiarazione, l’Amministrazione delle dogane può, in casi motivati, chiedere al richiedente un’adeguata garanzia.
+<sup>1</sup> Se vi è da temere un danno dovuto alla ritenzione degli oggetti, l’UDSC può subordinare la ritenzione a una dichiarazione di responsabilità da parte del richiedente. Al posto di tale dichiarazione, l’UDSC può, in casi motivati, chiedere al richiedente un’adeguata garanzia.
 
 <sup>2</sup> Se non vengono ordinati provvedimenti cautelari o se i provvedimenti ordinati si rivelano infondati, il richiedente deve risarcire il danno causato dalla ritenzione della merce e dal prelievo dei campioni.
 
@@ -702,7 +707,7 @@ II
 
 Le leggi federali qui appresso sono modificate come segue:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [CS **2** 857; [RU 1956 872](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872), [1962 479](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. n. I lett. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 3]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226).

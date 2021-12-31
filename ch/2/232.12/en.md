@@ -4,11 +4,11 @@ title: "Federal Act of 5 October 2001 on the Protection of Designs (Designs Act,
 short: DesA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: en
-version: 2019-04-01
+version: 2022-01-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20190401/en/xml/fedlex-data-admin-ch-eli-cc-2002-226-20190401-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20190401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2002-226-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Designs Act, DesA)
 
-of 5 October 2001 (Status as of 1 April 2019)
+of 5 October 2001 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -523,28 +523,33 @@ The court may order the forfeiture and sale or destruction of the unlawfully pro
 
 Prosecution is the responsibility of the cantons.
 
-### Section 5 Assistance provided by the Customs Administration
+### Section 5 Assistance provided by the Federal Office for Customs and Border Security****
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Amended by No I 4 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 46
 
 **Notification of suspicious goods[^46-1]**
 
-<sup>1</sup> The Customs Administration is authorised to notify the right holder of a filed design if there is any suspicion that unlawfully manufactured items may imminently be brought into or taken out of Swiss customs territory.[^46-2]
+<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the right holder of a filed design if there is any suspicion that unlawfully manufactured items may imminently be brought into or taken out of Swiss customs territory.[^46-2]
 
-<sup>2</sup> In such cases, the Customs Administration is authorised to withhold the items for three working days in order that the right holder may file an application under Article 47.
+<sup>2</sup> In such cases, the FOCBS[^46-3] is authorised to withhold the items for three working days in order that the right holder may file an application under Article 47.
 
 [^46-1]: Amended by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46-2]: Amended by Annex No 5 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^46-2]: Amended by No I 4 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^46-3]: Name in accordance with No I 4 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This amendment has been made throughout the text.
 
 #### Art. 47
 
 **Application for assistance**
 
-<sup>1</sup> If the right holder or a licensee of a filed design entitled to initiate proceedings has clear indications that unlawfully manufactured items may imminently be brought into or taken out of Swiss customs territory, he may request the Customs Administration in writing to refuse the release of the items.[^47-1]
+<sup>1</sup> If the right holder or a licensee of a filed design entitled to initiate proceedings has clear indications that unlawfully manufactured items may imminently be brought into or taken out of Swiss customs territory, he may request the FOCBS in writing to refuse the release of the items.[^47-1]
 
-<sup>2</sup> The person filing the application (the applicant) must provide all relevant information available to him that is necessary for the Customs Administration’s decision; this includes a precise description of the items.
+<sup>2</sup> The person filing the application (the applicant) must provide all relevant information available to him that is necessary for the FOCBS’s decision; this includes a precise description of the items.
 
-<sup>3</sup> The Customs Administration makes the final decision on the application. It may charge a fee to cover the administrative costs.
+<sup>3</sup> The FOCBS makes the final decision on the application. It may charge a fee to cover the administrative costs.
 
 [^47-1]: Amended by Annex No 5 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -552,11 +557,11 @@ Prosecution is the responsibility of the cantons.
 
 **Withholding of items**
 
-<sup>1</sup> If the Customs Administration, based on an application under Article 47 paragraph 1, has reasonable grounds to suspect that certain items intended to be brought into or taken out of Swiss customs territory have been unlawfully manufactured, then it shall notify both the applicant and the declarant, holder or owner of the items accordingly.[^48-1]
+<sup>1</sup> If the FOCBS, based on an application under Article 47 paragraph 1, has reasonable grounds to suspect that certain items intended to be brought into or taken out of Swiss customs territory have been unlawfully manufactured, then it shall notify both the applicant and the declarant, holder or owner of the items accordingly.[^48-1]
 
-<sup>2</sup> The Customs Administration shall withhold the items in question for a maximum of ten working days from the time of notification pursuant to paragraph 1, so that the applicant may obtain preliminary measures.
+<sup>2</sup> The FOCBS shall withhold the items in question for a maximum of ten working days from the time of notification pursuant to paragraph 1, so that the applicant may obtain preliminary measures.
 
-<sup>3</sup> Where justified by circumstances, the Customs Administration may withhold the items in question for a maximum of ten additional working days.
+<sup>3</sup> Where justified by circumstances, the FOCBS may withhold the items in question for a maximum of ten additional working days.
 
 [^48-1]: Amended by Annex No 5 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -564,7 +569,7 @@ Prosecution is the responsibility of the cantons.
 
 **Samples**[^48a-1]
 
-<sup>1</sup> While the items are being withheld, the Customs Administration is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the items being withheld.
+<sup>1</sup> While the items are being withheld, the FOCBS is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the items being withheld.
 
 <sup>2</sup> The samples are collected and delivered at the expense of the applicant.
 
@@ -576,11 +581,11 @@ Prosecution is the responsibility of the cantons.
 
 **Safeguarding of manufacturing and trade secrets**[^48b-1]
 
-<sup>1</sup> At the same time as notification is made in accordance with Article 48 paragraph 1, the Customs Administration shall inform the declarant, holder or owner of the items of the possible handover of samples or the opportunity to inspect them in accordance with Article 48*a* paragraph 1.
+<sup>1</sup> At the same time as notification is made in accordance with Article 48 paragraph 1, the FOCBS shall inform the declarant, holder or owner of the items of the possible handover of samples or the opportunity to inspect them in accordance with Article 48*a* paragraph 1.
 
 <sup>2</sup> The declarant, holder or owner may request to be present at the inspection in order to safeguard his manufacturing or trade secrets.
 
-<sup>3</sup> The Customs Administration may refuse to hand over samples on reasoned request from the declarant, holder or owner.
+<sup>3</sup> The FOCBS may refuse to hand over samples on reasoned request from the declarant, holder or owner.
 
 [^48b-1]: Inserted by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -588,9 +593,9 @@ Prosecution is the responsibility of the cantons.
 
 **Application for destruction of the items**[^48c-1]
 
-<sup>1</sup> When making an application under Article 47 paragraph 1, the applicant may submit a written request to the Customs Administration to destroy the items.
+<sup>1</sup> When making an application under Article 47 paragraph 1, the applicant may submit a written request to the FOCBS to destroy the items.
 
-<sup>2</sup> If an application for destruction is made, the Customs Administration shall notify the declarant, holder or owner of the items accordingly as part of the notification made under Article 48 paragraph 1.
+<sup>2</sup> If an application for destruction is made, the FOCBS shall notify the declarant, holder or owner of the items accordingly as part of the notification made under Article 48 paragraph 1.
 
 <sup>3</sup> The application for destruction does not result in an extension to the time limits for obtaining preliminary measures under Article 48 paragraphs 2 and 3.
 
@@ -610,7 +615,7 @@ Prosecution is the responsibility of the cantons.
 
 **Evidence**[^48e-1]
 
-Before the destruction of the items, the Customs Administration shall remove samples and hold them in safekeeping as evidence in any actions for damages.
+Before the destruction of the items, the FOCBS shall remove samples and hold them in safekeeping as evidence in any actions for damages.
 
 [^48e-1]: Inserted by Annex No 4 of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -638,7 +643,7 @@ Before the destruction of the items, the Customs Administration shall remove sam
 
 **Accountability statement and damages**[^49-1]
 
-<sup>1</sup> Where it is anticipated that withholding the items may lead to a loss being incurred, the Customs Administration may make withholding of the items dependent on the applicant providing them with an accountability statement. As an alternative to this statement and where justified by circumstances, the Customs Administration may request the applicant to provide appropriate security.
+<sup>1</sup> Where it is anticipated that withholding the items may lead to a loss being incurred, the FOCBS may make withholding of the items dependent on the applicant providing them with an accountability statement. As an alternative to this statement and where justified by circumstances, the FOCBS may request the applicant to provide appropriate security.
 
 <sup>2</sup> The applicant is liable for any losses incurred from withholding the items and from collecting the samples if preliminary measures are not ordered or prove to be unfounded.
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 5 octobre 2001 sur la protection des designs (Loi sur 
 short: LDes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: fr
-version: 2019-04-01
+version: 2022-01-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20190401/fr/xml/fedlex-data-admin-ch-eli-cc-2002-226-20190401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20190401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-226-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20190401/fr"
 
 (Loi sur les designs, LDes)
 
-du 5 octobre 2001 (Etat le 1<sup>er</sup> avril 2019)
+du 5 octobre 2001 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -96,11 +96,11 @@ Le droit sur un design appartient à la personne qui a effectué le dépôt en p
 
 <sup>2</sup> Si plusieurs personnes ont créé ensemble le design, elles sont autorisées à le déposer en commun, sauf convention contraire.
 
-### Section 3 Etendue de la protection et effets
+### Section 3 Étendue de la protection et effets
 
 #### Art. 8
 
-**Etendue de la protection**
+**Étendue de la protection**
 
 La protection du droit sur un design s’étend aux designs qui présentent les mêmes caractéristiques essentielles et qui, de ce fait, dégagent la même impression générale qu’un design enregistré.
 
@@ -172,7 +172,7 @@ Jusqu’à l’inscription du transfert:
 
 <sup>1</sup> Le titulaire peut autoriser des tiers à utiliser, à titre exclusif ou non, le droit sur le design ou certains droits en découlant.
 
-<sup>2</sup> A la demande de l’une des personnes concernées, la licence est inscrite dans le registre. Elle devient ainsi opposable à tout droit acquis postérieurement découlant du design.
+<sup>2</sup> À la demande de l’une des personnes concernées, la licence est inscrite dans le registre. Elle devient ainsi opposable à tout droit acquis postérieurement découlant du design.
 
 #### Art. 16
 
@@ -196,7 +196,7 @@ Le droit sur un design peut être l’objet de mesures d’exécution forcée.
 
 [^18-1]
 
-<sup>1</sup> Quiconque participe à une procédure administrative prévue dans la présente loi sans avoir de domicile ou de siège en Suisse doit élire un domicile de notification en Suisse, à moins que le droit international ou l’autorité étrangère compétente n’autorise la notification directe dans l’Etat considéré.
+<sup>1</sup> Quiconque participe à une procédure administrative prévue dans la présente loi sans avoir de domicile ou de siège en Suisse doit élire un domicile de notification en Suisse, à moins que le droit international ou l’autorité étrangère compétente n’autorise la notification directe dans l’État considéré.
 
 <sup>2</sup> L’Institut fédéral de la Propriété intellectuelle (IPI) est autorisé à remettre à l’autorité étrangère compétente une déclaration indiquant que, dans le domaine de la propriété intellectuelle, la Suisse autorise la notification directe sur son territoire si la réciprocité lui est accordée.
 
@@ -248,9 +248,9 @@ Le dépôt crée la présomption de la nouveauté et de l’originalité du desi
 
 **Conditions et effets de la priorité**
 
-<sup>1</sup> Lorsqu’un design a été légalement déposé pour la première fois dans un autre Etat partie à la Convention d’Union de Paris du 20 mars 1883 pour la protection de la propriété industrielle[^22-1], ou que le dépôt a effet dans l’un de ces Etats, le déposant ou son ayant cause peut revendiquer la date du premier dépôt pour déposer le même design en Suisse, à condition que le dépôt en Suisse ait lieu dans les six mois qui suivent le premier dépôt.
+<sup>1</sup> Lorsqu’un design a été légalement déposé pour la première fois dans un autre État partie à la Convention d’Union de Paris du 20 mars 1883 pour la protection de la propriété industrielle[^22-1], ou que le dépôt a effet dans l’un de ces États, le déposant ou son ayant cause peut revendiquer la date du premier dépôt pour déposer le même design en Suisse, à condition que le dépôt en Suisse ait lieu dans les six mois qui suivent le premier dépôt.
 
-<sup>2</sup> Le premier dépôt dans un Etat accordant la réciprocité à la Suisse déploie les mêmes effets que le premier dépôt dans un Etat partie à la Convention d’Union de Paris.
+<sup>2</sup> Le premier dépôt dans un État accordant la réciprocité à la Suisse déploie les mêmes effets que le premier dépôt dans un État partie à la Convention d’Union de Paris.
 
 [^22-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
@@ -324,7 +324,7 @@ Le dépôt crée la présomption de la nouveauté et de l’originalité du desi
 
 <sup>2</sup> Le dossier des designs enregistrés peut également être consulté. Le Conseil fédéral ne peut restreindre le droit à la consultation du dossier qu’à la condition que le secret de fabrication ou d’affaires ou d’autres intérêts prépondérants s’y opposent.
 
-<sup>3</sup> A titre exceptionnel, le dossier peut être consulté avant l’inscription, pour autant que cela reste sans effets sur les conditions et la portée de la protection (art. 2 à 17). Le Conseil fédéral règle les modalités.
+<sup>3</sup> À titre exceptionnel, le dossier peut être consulté avant l’inscription, pour autant que cela reste sans effets sur les conditions et la portée de la protection (art. 2 à 17). Le Conseil fédéral règle les modalités.
 
 #### Art. 28
 
@@ -375,7 +375,7 @@ La poursuite de la procédure est exclue en cas d’inobservation des délais:
 
 [^31-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### Section 2 …
+### Section 2 ...
 
 #### Art. 32
 
@@ -521,28 +521,33 @@ Même en cas d’acquittement, le tribunal peut ordonner la confiscation ou la d
 
 La poursuite pénale incombe aux cantons.
 
-### Section 5 Intervention de l’Administration des douanes
+### Section 5 Intervention de l’Office fédéral de la douane et de la sécurité des frontières****
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Nouvelle teneur selon le ch. I 4 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 46
 
 **Dénonciation d’objets suspects[^46-1]**
 
-<sup>1</sup> L’Administration des douanes est habilitée à informer le titulaire d’un design déposé lorsqu’il y a lieu de soupçonner que l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie sont imminentes.[^46-2]
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer le titulaire d’un *design* déposé lorsqu’il y a lieu de soupçonner que l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie sont imminentes.[^46-2]
 
-<sup>2</sup> Dans ce cas, l’Administration des douanes est habilitée à retenir les objets pendant trois jours ouvrables afin de permettre au titulaire de déposer une demande en vertu de l’art. 47.
+<sup>2</sup> Dans ce cas, l’OFDF[^46-3] est habilité à retenir les objets pendant trois jours ouvrables afin de permettre au titulaire de déposer une demande en vertu de l’art. 47.
 
 [^46-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^46-2]: Nouvelle teneur selon le ch. I 4 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^46-3]: Nouvelle expression selon le ch. I 4 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 47
 
 **Demande d’intervention**
 
-<sup>1</sup> Lorsque le titulaire d’un design déposé ou le preneur de licence qui a qualité pour agir ont des indices concrets permettant de soupçonner que l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie sont imminentes, ils peuvent demander par écrit à l’Administration des douanes de refuser la mainlevée de ces objets.[^47-1]
+<sup>1</sup> Lorsque le titulaire d’un design déposé ou le preneur de licence qui a qualité pour agir ont des indices concrets permettant de soupçonner que l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie sont imminentes, ils peuvent demander par écrit à l’OFDF de refuser la mainlevée de ces objets.[^47-1]
 
-<sup>2</sup> Le requérant fournit à l’Administration des douanes toutes les indications dont il dispose et dont celle-ci a besoin pour statuer sur la demande; il lui remet notamment une description précise des objets.
+<sup>2</sup> Le requérant fournit à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur la demande; il lui remet notamment une description précise des objets.
 
-<sup>3</sup> L’Administration des douanes statue définitivement. Elle peut percevoir une taxe pour couvrir les frais administratifs.
+<sup>3</sup> L’OFDF statue définitivement. Il peut percevoir une taxe pour couvrir les frais administratifs.
 
 [^47-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -550,19 +555,19 @@ La poursuite pénale incombe aux cantons.
 
 **Rétention des objets**
 
-<sup>1</sup> Lorsque, à la suite d’une demande déposée en vertu de l’art. 47, al. 1, l’Administration des douanes a des raisons fondées de soupçonner l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie, elle en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des objets, d’autre part.[^48-1]
+<sup>1</sup> Lorsque, à la suite d’une demande déposée en vertu de l’art. 47, al. 1, l’OFDF a des raisons fondées de soupçonner l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie, il en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des objets, d’autre part.[^48-1]
 
-<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, l’Administration des douanes retient les objets en cause durant dix jours ouvrables au plus à compter de la communication prévue à l’al. 1.
+<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, l’OFDF retient les objets en cause durant dix jours ouvrables au plus à compter de la communication prévue à l’al. 1.
 
-<sup>3</sup> Si les circonstances le justifient, l’Administration des douanes peut retenir les objets en cause durant un délai supplémentaire de dix jours ouvrables au plus.
+<sup>3</sup> Si les circonstances le justifient, l’OFDF peut retenir les objets en cause durant un délai supplémentaire de dix jours ouvrables au plus.
 
 [^48-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 48a
 
-**Echantillons**[^48a-1]
+**Échantillons**[^48a-1]
 
-<sup>1</sup> Sur demande, l’Administration des douanes est habilitée, pendant la durée de la rétention des objets, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les objets retenus.
+<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des objets, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les objets retenus.
 
 <sup>2</sup> Le requérant supporte les frais liés au prélèvement et à l’envoi des échantillons.
 
@@ -574,11 +579,11 @@ La poursuite pénale incombe aux cantons.
 
 **Protection des secrets de fabrication ou d’affaires**[^48b-1]
 
-<sup>1</sup> En même temps que la communication visée à l’art. 48, al. 1 l’Administration des douanes informe le déclarant, le possesseur ou le propriétaire des objets de la possibilité, prévue à l’art. 48*a*, al. 1, de remettre des échantillons au requérant ou de le laisser examiner sur place les objets retenus.
+<sup>1</sup> En même temps que la communication visée à l’art. 48, al. 1 l’OFDF informe le déclarant, le possesseur ou le propriétaire des objets de la possibilité, prévue à l’art. 48*a*, al. 1, de remettre des échantillons au requérant ou de le laisser examiner sur place les objets retenus.
 
 <sup>2</sup> Le déclarant, le possesseur ou le propriétaire des objets peut demander d’assister à l’examen afin de protéger ses secrets de fabrication ou d’affaires.
 
-<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des objets, l’Administration des douanes peut refuser la remise d’échantillons.
+<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des objets, l’OFDF peut refuser la remise d’échantillons.
 
 [^48b-1]: Introduit par l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -586,9 +591,9 @@ La poursuite pénale incombe aux cantons.
 
 **Demande de destruction des objets**[^48c-1]
 
-<sup>1</sup> Lorsqu’il dépose une demande en vertu de l’art. 47, al. 1 le requérant peut demander par écrit à l’Administration des douanes la destruction des objets.
+<sup>1</sup> Lorsqu’il dépose une demande en vertu de l’art. 47, al. 1 le requérant peut demander par écrit à l’OFDF la destruction des objets.
 
-<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’Administration des douanes en informe le déclarant, le possesseur ou le propriétaire des objets dans le cadre de l’information visée à l’art. 48, al. 1.
+<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF en informe le déclarant, le possesseur ou le propriétaire des objets dans le cadre de l’information visée à l’art. 48, al. 1.
 
 <sup>3</sup> La demande de destruction ne donne pas lieu à une prolongation des délais prévus à l’art. 48, al. 2 et 3 pour l’obtention de mesures provisionnelles.
 
@@ -608,7 +613,7 @@ La poursuite pénale incombe aux cantons.
 
 **Moyens de preuve**[^48e-1]
 
-Avant la destruction des produits, l’Administration des douanes prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
+Avant la destruction des produits, l’OFDF prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
 
 [^48e-1]: Introduit par l’annexe ch. 4 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -636,7 +641,7 @@ Avant la destruction des produits, l’Administration des douanes prélève des 
 
 **Déclaration de responsabilité et dommages-intérêts**[^49-1]
 
-<sup>1</sup> Si la rétention des objets risque d’occasionner un dommage, l’Administration des douanes peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, elle peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
+<sup>1</sup> Si la rétention des objets risque d’occasionner un dommage, l’OFDF peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, il peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
 
 <sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des objets et par le prélèvement d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.
 
@@ -694,7 +699,7 @@ II
 
 Le droit en vigueur est modifié comme suit:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [RS **2** 866; [RO 1956 861](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872), [1962 465](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. I let. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)annexe ch. 3]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226).

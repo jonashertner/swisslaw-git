@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 5. Oktober 2001 über den Schutz von Design (Designgese
 short: DesG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/226"
 language: de
-version: 2019-04-01
+version: 2022-01-01
 adopted: 2001-10-05
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20190401/de/xml/fedlex-data-admin-ch-eli-cc-2002-226-20190401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20190401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/226/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-226-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/226/20190401/de"
 
 (Designgesetz, DesG)
 
-vom 5. Oktober 2001 (Stand am 1. April 2019)
+vom 5. Oktober 2001 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -375,7 +375,7 @@ Die Weiterbehandlung ist ausgeschlossen beim Versäumen der Fristen:
 
 [^31-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
-### 2. Abschnitt: …
+### 2. Abschnitt: ...
 
 #### Art. 32
 
@@ -521,28 +521,33 @@ Das Gericht kann selbst im Falle eines Freispruchs die Einziehung oder Vernichtu
 
 Die Strafverfolgung ist Sache der Kantone.
 
-### 5. Abschnitt: Hilfeleistung der Zollverwaltung
+### 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit****
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Fassung gemäss Ziff. I 4 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 46
 
 **Anzeige verdächtiger Waren[^46-1]**
 
-<sup>1</sup> Die Zollverwaltung ist ermächtigt, die Rechtsinhaberin eines hinterlegten Designs zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen von widerrechtlich hergestellten Gegenständen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht.[^46-2]
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, die Rechtsinhaberin eines hinterlegten Designs zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen von widerrechtlich hergestellten Gegenständen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht.[^46-2]
 
-<sup>2</sup> In diesem Falle ist die Zollverwaltung ermächtigt, die Gegenstände während drei Arbeitstagen zurückzuhalten, damit die Rechtsinhaberin einen Antrag nach Artikel 47 stellen kann.
+<sup>2</sup> In diesem Falle ist das BAZG[^46-3] ermächtigt, die Gegenstände während drei Arbeitstagen zurückzuhalten, damit die Rechtsinhaberin einen Antrag nach Artikel 47 stellen kann.
 
 [^46-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^46-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^46-2]: Fassung gemäss Ziff. I 4 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^46-3]: Ausdruck gemäss Ziff. I 4 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 47
 
 **Antrag auf Hilfeleistung**
 
-<sup>1</sup> Hat die Rechtsinhaberin oder die klageberechtigte Lizenznehmerin beziehungsweise der klageberechtigte Lizenznehmer eines hinterlegten Designs konkrete Anhaltspunkte dafür, dass das Verbringen von widerrechtlich hergestellten Gegenständen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht, so kann sie oder er bei der Zollverwaltung schriftlich beantragen, die Freigabe der Gegenstände zu verweigern.[^47-1]
+<sup>1</sup> Hat die Rechtsinhaberin oder die klageberechtigte Lizenznehmerin beziehungsweise der klageberechtigte Lizenznehmer eines hinterlegten Designs konkrete Anhaltspunkte dafür, dass das Verbringen von widerrechtlich hergestellten Gegenständen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht, so kann sie oder er beim BAZG schriftlich beantragen, die Freigabe der Gegenstände zu verweigern.[^47-1]
 
-<sup>2</sup> Die den Antrag stellende Person (Antragstellerin) muss alle ihr zur Verfügung stehenden Angaben machen, die für den Entscheid der Zollverwaltung erforderlich sind; dazu gehört eine genaue Beschreibung der Gegenstände.
+<sup>2</sup> Die den Antrag stellende Person (Antragstellerin) muss alle ihr zur Verfügung stehenden Angaben machen, die für den Entscheid des BAZG erforderlich sind; dazu gehört eine genaue Beschreibung der Gegenstände.
 
-<sup>3</sup> Die Zollverwaltung entscheidet endgültig über den Antrag. Sie kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
+<sup>3</sup> Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.
 
 [^47-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -550,11 +555,11 @@ Die Strafverfolgung ist Sache der Kantone.
 
 **Zurückbehaltung der Gegenstände**
 
-<sup>1</sup> Hat die Zollverwaltung aufgrund eines Antrags nach Artikel 47 Absatz 1 den begründeten Verdacht, dass zum Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bestimmte Gegenstände widerrechtlich hergestellt worden sind, so teilt sie dies einerseits der Antragstellerin beziehungsweise dem Antragsteller und andererseits der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise dem Anmelder, Besitzer oder Eigentümer der Gegenstände mit.[^48-1]
+<sup>1</sup> Hat das BAZG aufgrund eines Antrags nach Artikel 47 Absatz 1 den begründeten Verdacht, dass zum Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bestimmte Gegenstände widerrechtlich hergestellt worden sind, so teilt es dies einerseits der Antragstellerin beziehungsweise dem Antragsteller und andererseits der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise dem Anmelder, Besitzer oder Eigentümer der Gegenstände mit.[^48-1]
 
-<sup>2</sup> Die Zollverwaltung behält die betreffenden Gegenstände bis zu zehn Arbeitstage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit die Antragstellerin vorsorgliche Massnahmen erwirken kann.
+<sup>2</sup> Das BAZG behält die betreffenden Gegenstände bis zu zehn Arbeitstage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit die Antragstellerin vorsorgliche Massnahmen erwirken kann.
 
-<sup>3</sup> In begründeten Fällen kann die Zollverwaltung die betreffenden Gegenstände während höchstens zehn weiteren Arbeitstagen zurückbehalten.
+<sup>3</sup> In begründeten Fällen kann das BAZG die betreffenden Gegenstände während höchstens zehn weiteren Arbeitstagen zurückbehalten.
 
 [^48-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
@@ -562,7 +567,7 @@ Die Strafverfolgung ist Sache der Kantone.
 
 **Proben oder Muster**[^48a-1]
 
-<sup>1</sup> Während des Zurückbehaltens der Gegenstände ist die Zollverwaltung ermächtigt, der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihr die Besichtigung der Gegenstände zu gestatten.
+<sup>1</sup> Während des Zurückbehaltens der Gegenstände ist das BAZG ermächtigt, der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihr die Besichtigung der Gegenstände zu gestatten.
 
 <sup>2</sup> Die Proben oder Muster werden auf Kosten der Antragstellerin entnommen und versandt.
 
@@ -574,11 +579,11 @@ Die Strafverfolgung ist Sache der Kantone.
 
 **Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^48b-1]
 
-<sup>1</sup> Gleichzeitig mit der Benachrichtigung nach Artikel 48 Absatz 1 informiert die Zollverwaltung die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer über die mögliche Übergabe von Proben oder Mustern beziehungsweise die Besichtigungsmöglichkeit nach Artikel 48*a* Absatz 1.
+<sup>1</sup> Gleichzeitig mit der Benachrichtigung nach Artikel 48 Absatz 1 informiert das BAZG die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer über die mögliche Übergabe von Proben oder Mustern beziehungsweise die Besichtigungsmöglichkeit nach Artikel 48*a* Absatz 1.
 
 <sup>2</sup> Die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer kann verlangen, zur Wahrung ihrer beziehungsweise seiner Fabrikations- oder Geschäftsgeheimnisse bei der Besichtigung anwesend zu sein.
 
-<sup>3</sup> Die Zollverwaltung kann auf begründeten Antrag der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers die Übergabe von Proben oder Mustern verweigern.
+<sup>3</sup> Das BAZG kann auf begründeten Antrag der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers die Übergabe von Proben oder Mustern verweigern.
 
 [^48b-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -586,9 +591,9 @@ Die Strafverfolgung ist Sache der Kantone.
 
 **Antrag auf Vernichtung der Gegenstände**[^48c-1]
 
-<sup>1</sup> Zusammen mit dem Antrag nach Artikel 47 Absatz 1 kann die Antragstellerin bei der Zollverwaltung schriftlich beantragen, die Gegenstände zu vernichten.
+<sup>1</sup> Zusammen mit dem Antrag nach Artikel 47 Absatz 1 kann die Antragstellerin beim BAZG schriftlich beantragen, die Gegenstände zu vernichten.
 
-<sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt die Zollverwaltung dies der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise dem Anmelder, Besitzer oder Eigentümer im Rahmen der Mitteilung nach Artikel 48 Absatz 1 mit.
+<sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt das BAZG dies der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise dem Anmelder, Besitzer oder Eigentümer im Rahmen der Mitteilung nach Artikel 48 Absatz 1 mit.
 
 <sup>3</sup> Der Antrag auf Vernichtung führt nicht dazu, dass die Fristen nach Artikel 48 Absätze 2 und 3 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
 
@@ -608,7 +613,7 @@ Die Strafverfolgung ist Sache der Kantone.
 
 **Beweismittel**[^48e-1]
 
-Vor der Vernichtung der Gegenstände entnimmt die Zollverwaltung Proben oder Muster und bewahrt sie als Beweismittel auf für allfällige Klagen auf Schadenersatz.
+Vor der Vernichtung der Gegenstände entnimmt das BAZG Proben oder Muster und bewahrt sie als Beweismittel auf für allfällige Klagen auf Schadenersatz.
 
 [^48e-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -636,7 +641,7 @@ Vor der Vernichtung der Gegenstände entnimmt die Zollverwaltung Proben oder Mus
 
 **Haftungserklärung und Schadenersatz**[^49-1]
 
-<sup>1</sup> Ist durch das Zurückbehalten der Gegenstände ein Schaden zu befürchten, so kann die Zollverwaltung das Zurückbehalten davon abhängig machen, dass die Antragstellerin ihr eine Haftungserklärung abgibt. An deren Stelle kann die Zollverwaltung von der Antragstellerin in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.
+<sup>1</sup> Ist durch das Zurückbehalten der Gegenstände ein Schaden zu befürchten, so kann das BAZG das Zurückbehalten davon abhängig machen, dass die Antragstellerin ihm eine Haftungserklärung abgibt. An deren Stelle kann das BAZG von der Antragstellerin in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.
 
 <sup>2</sup> Die Antragstellerin muss den Schaden, der durch das Zurückbehalten der Gegenstände und die Entnahme von Proben oder Mustern entstanden ist, ersetzen, wenn vorsorgliche Massnahmen nicht angeordnet werden oder sich als unbegründet erweisen.
 
@@ -694,7 +699,7 @@ II
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [BS **2** 873; [AS 1956 805](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872), [1962 459](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. I Bst. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 3]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226)konsultiert werden.
