@@ -3,18 +3,18 @@ sr: "531.215.25"
 title: Ordinanza del 10 maggio 2017 concernente la costituzione di scorte obbligatorie di concimi
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/311"
 language: it
-version: 2017-06-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20170601/it/xml/fedlex-data-admin-ch-eli-cc-2017-311-20170601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20170601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-311-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la costituzione di scorte obbligatorie di concimi
 
-del 10 maggio 2017 (Stato 1° giugno 2017)
+del 10 maggio 2017 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -78,7 +78,9 @@ Dopo aver consultato le cerchie economiche interessate, il Dipartimento federale
 
 **Collaborazione tra le autorità**
 
-L’Amministrazione federale delle dogane e l’Ufficio federale dell’agricoltura informano l’UFAE in maniera adeguata sulla prima immissione in commercio di concimi menzionati in allegato.
+L’Ufficio federale della dogana e della sicurezza dei confini[^5-1] e l’Ufficio federale dell’agricoltura informano l’UFAE in maniera adeguata sulla prima immissione in commercio di concimi menzionati in allegato.
+
+[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 

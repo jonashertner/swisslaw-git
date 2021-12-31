@@ -3,18 +3,18 @@ sr: "531.215.25"
 title: "Ordonnance du 10 mai 2017 sur le stockage obligatoire d'engrais"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/311"
 language: fr
-version: 2017-06-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20170601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-311-20170601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20170601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-311-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le stockage obligatoire d’engrais
 
-du 10 mai 2017 (Etat le 1<sup>er</sup> juin 2017)
+du 10 mai 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -78,7 +78,9 @@ Après avoir consulté les milieux économiques concernés, le Département féd
 
 **Coopération entre autorités**
 
-L’Administration fédérale des douanes et l’Office fédéral de l’agriculture informent l’OFAE, sous une forme adaptée, de la première mise sur le marché d’engrais mentionnés en annexe.
+L’Office fédéral de la douane et de la sécurité des frontières[^5-1] et l’Office fédéral de l’agriculture informent l’OFAE, sous une forme adaptée, de la première mise sur le marché d’engrais mentionnés en annexe.
+
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 

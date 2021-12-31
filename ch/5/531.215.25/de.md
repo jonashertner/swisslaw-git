@@ -3,11 +3,11 @@ sr: "531.215.25"
 title: Verordnung vom 10. Mai 2017 über die Pflichtlagerhaltung von Dünger (Düngerpflichtlagerverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/311"
 language: de
-version: 2017-06-01
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20170601/de/xml/fedlex-data-admin-ch-eli-cc-2017-311-20170601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20170601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/311/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-311-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/311/20170601/de"
 
 (Düngerpflichtlagerverordnung)
 
-vom 10. Mai 2017 (Stand am 1. Juni 2017)
+vom 10. Mai 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -80,7 +80,9 @@ Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) bes
 
 **Zusammenarbeit der Behörden**
 
-Die Eidgenössische Zollverwaltung und das Bundesamt für Landwirtschaft informieren das BWL in geeigneter Weise über das erste Inverkehrbringen von Dünger nach dem Anhang.
+Das Bundesamt für Zoll und Grenzsicherheit[^5-1] und das Bundesamt für Landwirtschaft informieren das BWL in geeigneter Weise über das erste Inverkehrbringen von Dünger nach dem Anhang.
+
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
