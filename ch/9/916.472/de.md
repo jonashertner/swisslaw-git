@@ -3,11 +3,11 @@ sr: "916.472"
 title: Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV)
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20200101/de"
 
 (Gebührenverordnung BLV)**[^t-1]**
 
-vom 30. Oktober 1985 (Stand am 1. Januar 2020)
+vom 30. Oktober 1985 (Stand am 1. Januar 2022)
 
 [^t-1]: Kurztitel eingefügt gemäss Anhang 2 Ziff. 2 der V vom 1. Sept. 2010 über das elektronische Informationssystem zur Verwaltung der Tierversuche, in Kraft seit 1. Jan. 2011 ([AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -44,10 +44,9 @@ verordnet:
 
 **Geltungsbereich**[^1-1]
 
-Diese Verordnung regelt die Gebühren für Verfügungen und Dienstleistungen des Bundesamtes für Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)[^1-2] in den Bereichen Tiergesundheit, Lebensmittel, Tierschutz sowie im Verkehr mit Tieren und Pflanzen geschützter Arten.
+Diese Verordnung regelt die Gebühren für Verfügungen und Dienstleistungen des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (BLV) in den Bereichen Tiergesundheit, Lebensmittel, Tierschutz und Zulassung von Pflanzenschutzmitteln sowie im Verkehr mit Tieren und Pflanzen geschützter Arten.
 
-[^1-1]: Fassung gemäss Anhang Ziff. II 4 der V vom 4. Sept. 2013 über den Verkehr mit Tieren und Pflanzen geschützter Arten, in Kraft seit 1. Okt. 2013 ([AS 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
-[^1-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^1-1]: Fassung gemäss Anhang Ziff. 4 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 2
 
@@ -74,9 +73,10 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 **Gebührenzuschlag**[^4-1]
 
-Das BLV kann für Verfügungen und Dienstleistungen von aussergewöhnlichem Umfang, besonderer Schwierigkeit oder Dringlichkeit einen Zuschlag bis zu 50 Prozent der Gebühr erheben.
+Das BLV[^4-2] kann für Verfügungen und Dienstleistungen von aussergewöhnlichem Umfang, besonderer Schwierigkeit oder Dringlichkeit einen Zuschlag bis zu 50 Prozent der Gebühr erheben.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 5
 
@@ -279,7 +279,7 @@ Zusätzlich zu den Gebühren werden die folgenden Auslagen in Rechnung gestellt:
 - b. die Auslagen für Material;
 - c.[^20-2] die Auslagen für die praktische Prüfung (Art. 82 Abs. 2 der Tierschutzverordnung vom 23. April 2008[^20-3]).
 
-[^20-1]: [[AS 1959 1103](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137), [1962 279](https://fedlex.data.admin.ch/eli/oc/1962/279_285_288)[1229](https://fedlex.data.admin.ch/eli/oc/1962/1229_1271_1283), [1964 595](https://fedlex.data.admin.ch/eli/oc/1964/595_592_600), [1968 111](https://fedlex.data.admin.ch/eli/oc/1968/111_111_115)[1615](https://fedlex.data.admin.ch/eli/oc/1968/1615_1663_1581), [1971 70](https://fedlex.data.admin.ch/eli/oc/1971/70_74_74), [1973 133](https://fedlex.data.admin.ch/eli/oc/1973/133_133_135)320, [1974 1](https://fedlex.data.admin.ch/eli/oc/1974/1_1_1), [1976 2699](https://fedlex.data.admin.ch/eli/oc/1976/2699_2699_2699), [1977 1413](https://fedlex.data.admin.ch/eli/oc/1977/1413_1413_1413)Ziff. I und II 2155, [1979 1287](https://fedlex.data.admin.ch/eli/oc/1979/1287_1287_1287), [1982 938](https://fedlex.data.admin.ch/eli/oc/1982/938_938_938), [1984 394](https://fedlex.data.admin.ch/eli/oc/1984/394_394_394)[1285](https://fedlex.data.admin.ch/eli/oc/1984/1285_1285_1285), [1986 193](https://fedlex.data.admin.ch/eli/oc/1986/193_193_193)[2091](https://fedlex.data.admin.ch/eli/oc/1986/2091_2091_2091), [1987 941](https://fedlex.data.admin.ch/eli/oc/1987/941_941_941), [1988 7](https://fedlex.data.admin.ch/eli/oc/1988/7_7_7), [1989 8](https://fedlex.data.admin.ch/eli/oc/1989/8_8_8)[1217](https://fedlex.data.admin.ch/eli/oc/1989/1217_1217_1217), [1990 102](https://fedlex.data.admin.ch/eli/oc/1990/102_102_102)[1736](https://fedlex.data.admin.ch/eli/oc/1990/1736_1736_1736), [1991 1075](https://fedlex.data.admin.ch/eli/oc/1991/1075_1075_1075)[1078](https://fedlex.data.admin.ch/eli/oc/1991/1078_1078_1078)[1145](https://fedlex.data.admin.ch/eli/oc/1991/1145_1145_1145)[1380](https://fedlex.data.admin.ch/eli/oc/1991/1380_1380_1380)[1642](https://fedlex.data.admin.ch/eli/oc/1991/1642_1642_1642), [1992 3](https://fedlex.data.admin.ch/eli/oc/1992/3_3_3), [1993 820](https://fedlex.data.admin.ch/eli/oc/1993/820_820_820)Anhang Ziff. 1 [1565](https://fedlex.data.admin.ch/eli/oc/1993/1565_1565_1565)Art. 13 Abs. 1 [2812](https://fedlex.data.admin.ch/eli/oc/1993/2812_2812_2812), [1994 2](https://fedlex.data.admin.ch/eli/oc/1994/2_2_2)[269](https://fedlex.data.admin.ch/eli/oc/1994/269_269_269)[364](https://fedlex.data.admin.ch/eli/oc/1994/364_364_364), [1995 3](https://fedlex.data.admin.ch/eli/oc/1995/3_3_3)[3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)Anhang Ziff. 8 [5067](https://fedlex.data.admin.ch/eli/oc/1995/5067_5067_5067), [1997 230](https://fedlex.data.admin.ch/eli/oc/1997/230_230_230)[299](https://fedlex.data.admin.ch/eli/oc/1997/299_299_299), [1998 726](https://fedlex.data.admin.ch/eli/oc/1998/726_726_726), [2000 419](https://fedlex.data.admin.ch/eli/oc/2000/93)Anhang Ziff. 1 [2953](https://fedlex.data.admin.ch/eli/oc/2000/525). [AS 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Anhang Ziff. I 2]
+[^20-1]: [[AS 1959 1103](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137); [1962 279](https://fedlex.data.admin.ch/eli/oc/1962/279_285_288), [1229](https://fedlex.data.admin.ch/eli/oc/1962/1229_1271_1283); [1964 595](https://fedlex.data.admin.ch/eli/oc/1964/595_592_600); [1968 111](https://fedlex.data.admin.ch/eli/oc/1968/111_111_115), [1615](https://fedlex.data.admin.ch/eli/oc/1968/1615_1663_1581); [1971 70](https://fedlex.data.admin.ch/eli/oc/1971/70_74_74); [1973 133](https://fedlex.data.admin.ch/eli/oc/1973/133_133_135), 320; [1974 1](https://fedlex.data.admin.ch/eli/oc/1974/1_1_1); [1976 2699](https://fedlex.data.admin.ch/eli/oc/1976/2699_2699_2699); [1977 1413](https://fedlex.data.admin.ch/eli/oc/1977/1413_1413_1413)Ziff. I und II, 2155; **1979** 1287; **1982** 938; **1984** 394, 1285; **1986** 193, 2091; **1987** 941; **1988** 7; **1989** 8, 1217; **1990** 102, 1736; **1991** 1075, 1078, 1145, 1380, 1642; **1992** 3; **1993** 820 Anhang Ziff. 1, 1565 Art. 13 Abs. 1, 2812; **1994** 2, 269, 364; **1995** 3, 3867 Anhang Ziff. 8, 5067; **1997** 230, 299; **1998** 726; **2000** 419 Anhang Ziff. 1, 2953. [AS 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Anhang Ziff. I 2]
 [^20-2]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Sept. 2010 über das elektronische Informationssystem zur Verwaltung der Tierversuche, in Kraft seit 1. Jan. 2011 ([AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 [^20-3]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
@@ -359,6 +359,8 @@ Für die Anerkennung eines diagnostischen Labors sowie für den Widerruf der Ane
 <tr><td>b. für leitende amtliche Tierärztinnen und Tierärzte</td><td>2500.–</td></tr>
 <tr><td>c. für amtliche Fachexpertinnen und Fachexperten</td><td>2500.–</td></tr>
 <tr><td>d.[^24a-2] für amtliche Fachassistentinnen und Fachassistente Schlachttier- und Fleischuntersuchung</td><td>1000.–</td></tr>
+<tr><td>[tab]</td><td></td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>e.[^24a-3] für amtliche Fachassistentinnen und Fachassistenten für weitere Aufgaben</td><td>1000.–</td></tr>
 </table>
 
@@ -401,6 +403,32 @@ Für die Anerkennung eines diagnostischen Labors sowie für den Widerruf der Ane
 
 <sup>2</sup> Übernimmt das BLV die Aufgaben eines Kantons, der selbst nicht mit dem Informationssystem E-Tierversuche arbeitet, so beträgt die Gebühr das Zweifache des Betrages nach Absatz 1.
 
+### 10. Abschnitt:**** Zulassung von Pflanzenschutzmitteln
+
+[^chap2-sec10-1]
+
+[^chap2-sec10-1]: Eingefügt durch Anhang Ziff. 4 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+
+#### Art. 24c
+
+Das BLV erhebt für die Prüfungen und die Kontrollen nach der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^24c-1] (PSMV) folgende Gebühren:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. Behandlung eines Gesuchs um Bewilligung eines Pflanzen-schutzmittels, für das Unterlagen nach den Anhängen 5 und 6 PSMV eingereicht werden müssen (Art. 21 Abs. 1–5 PSMV)</td><td>2500.–</td></tr>
+<tr><td>b. Behandlung eines Gesuchs um Bewilligung eines Pflanzen-schutzmittels, für das sämtliche Unterlagen nach Anhang 6 PSMV eingereicht werden müssen (Art. 21 Abs. 1–4 PSMV)</td><td>1400.–</td></tr>
+<tr><td>c. Behandlung eines Gesuchs um Bewilligung eines Pflanzen-schutzmittels, für das nur ein Teil der Unterlagen nach Anhang 6 PSMV eingereicht werden muss (Art. 21 Abs. 7 PSMV)</td><td>400.– bis 1000.–</td></tr>
+<tr><td>d. Erteilung einer Bewilligung unter Verwendung von Daten einer früheren Gesuchstellerin für ein identisches Pflanzen-schutzmittel mit Zustimmung der früheren Gesuchstellerin (Art. 22 PSMV)</td><td>400.–</td></tr>
+<tr><td>e. Versuche und Analysen im Rahmen der Prüfung eines Gesuchs (Art. 24 Abs. 3 PSMV):</td><td></td></tr>
+<tr><td>1. chemische und physikalisch-chemische Analysen</td><td>30.– bis 500.–</td></tr>
+<tr><td>2. biologische Versuche</td><td>1900.– bis 11 000.–</td></tr>
+<tr><td>f. Ausstellung von Zertifikaten (Art. 20 PSMV)</td><td>60.–</td></tr>
+<tr><td>g. Erteilung einer Verkaufserlaubnis (Art. 43 PSMV)</td><td>200.–</td></tr>
+<tr><td>h. Bearbeitung eines Zulassungsgesuches für im Ausland zugelassene Pflanzenschutzmittel, die in der Schweiz bewilligten Pflanzenschutzmitteln entsprechen (Art. 36 Abs. 3 PSMV)</td><td>50.–</td></tr>
+</table>
+
+[^24c-1]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+
 ## 3. Kapitel: Schlussbestimmungen
 
 #### Art. 25
@@ -412,7 +440,7 @@ Es werden aufgehoben:
 - 1\. die Gebührenverordnung des Bundesamtes für Veterinärwesen vom 13. Juni 1977[^25-1];
 - 2\. der Gebührentarif vom 1. April 1972[^25-2] für die grenztierärztliche Untersuchung von vorübergehend in die Bundesrepublik Deutschland oder nach Österreich ausgeführtem Sömmerungs- und Winterungsvieh.
 
-[^25-1]: [[AS 1977 1230](https://fedlex.data.admin.ch/eli/oc/1977/1230_1230_1230),**1979** 2634 Art. 2 Ziff. 7, [1981 1248](https://fedlex.data.admin.ch/eli/oc/1981/1248_1248_1248)Art. 24 Ziff. 2, [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408)Art. 72 Ziff. 5]
+[^25-1]: [[AS 1977 1230](https://fedlex.data.admin.ch/eli/oc/1977/1230_1230_1230);**1979** 2634 Art. 2 Ziff. 7; [1981 1248](https://fedlex.data.admin.ch/eli/oc/1981/1248_1248_1248)Art. 24 Ziff. 2; [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408)Art. 72 Ziff. 5]
 [^25-2]: [[AS 1972 783](https://fedlex.data.admin.ch/eli/oc/1972/783_791_715)]
 
 #### Art. 26
@@ -421,7 +449,7 @@ Es werden aufgehoben:
 
 Für Dienstleistungen, die vor dem Inkrafttreten dieser Verordnung erbracht worden sind, gilt die bisherige Gebührenverordnung[^26-1].
 
-[^26-1]: [[AS 1977 1230](https://fedlex.data.admin.ch/eli/oc/1977/1230_1230_1230),**1979** 2634 Art. 2 Ziff. 7, [1981 1248](https://fedlex.data.admin.ch/eli/oc/1981/1248_1248_1248)Art. 24 Ziff. 2, [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408)Art. 72 Ziff. 5]
+[^26-1]: [[AS 1977 1230](https://fedlex.data.admin.ch/eli/oc/1977/1230_1230_1230);**1979** 2634 Art. 2 Ziff. 7; [1981 1248](https://fedlex.data.admin.ch/eli/oc/1981/1248_1248_1248)Art. 24 Ziff. 2; [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408)Art. 72 Ziff. 5]
 
 #### Art. 27
 

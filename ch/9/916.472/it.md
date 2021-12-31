@@ -3,11 +3,11 @@ sr: "916.472"
 title: "Ordinanza del 30 ottobre 1985 sulle tasse dell'Ufficio federale della sicurezza alimentare e di veterinaria (Ordinanza sulle tasse dell'USAV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20200101/it"
 
 (Ordinanza sulle tasse dell’USAV)**[^t-1]**
 
-del 30 ottobre 1985 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 30 ottobre 1985 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
-[^t-1]: Nuovo testo giusta il n. 2 dell’all. 2 all’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2011 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
+[^t-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2011 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
 Il Consiglio federale svizzero,
 
@@ -34,7 +34,7 @@ ordina:
 [^ingress-6]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
 [^ingress-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 [^ingress-8]: [RS 0.916.443.961.41](https://fedlex.data.admin.ch/eli/cc/2012/274)
-[^ingress-9]: Nuovo testo giusta il n. II 5 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^ingress-9]: Nuovo testo giusta l’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -42,10 +42,9 @@ ordina:
 
 **Campo d’applicazione**[^1-1]
 
-La presente ordinanza disciplina le tasse per le decisioni e le prestazioni di servizi dell’Ufficio federale della sicurezza alimentare e di veterinaria (USAV)[^1-2] nei settori della salute animale, delle derrate alimentari, della protezione degli animali e della circolazione delle specie di fauna e di flora protette.
+La presente ordinanza disciplina le tasse per le decisioni e le prestazioni di servizi dell’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) nei settori della salute animale, delle derrate alimentari, della protezione degli animali, dell’omologazione di prodotti fitosanitari e della circolazione delle specie di fauna e di flora protette.
 
-[^1-1]: Nuovo testo giusta il n. II 4 dell’all. all’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
-[^1-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-1]: Nuovo testo giusta l’all. n. 4 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 2
 
@@ -72,9 +71,10 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 **Supplemento**[^4-1]
 
-Per le decisioni e le prestazioni di eccezionale entità, particolare difficoltà o urgenza, l’USAV può riscuotere un supplemento fino al 50 per cento della tassa.
+Per le decisioni e le prestazioni di eccezionale entità, particolare difficoltà o urgenza, l’USAV[^4-2] può riscuotere un supplemento fino al 50 per cento della tassa.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^4-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([[RU 2004 4937](https://www.fedlex.admin.ch/eli/oc/2004/746/it)](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -147,7 +147,7 @@ Oltre agli esborsi di cui all’articolo 6 OgeEm[^5-2] sono fatturati:
 <sup>1</sup> In caso d’importazione di partite di animali e prodotti animali, le tasse per i controlli da parte del servizio veterinario di confine ammontano a:[^15-1]
 
 <table>
-<tr><td></td><td>Fr.</td></tr>
+<tr><th></th><th>Fr.</th></tr>
 <tr><td>a. per le partite con un peso fino a 6 tonnellate</td><td>88.—</td></tr>
 <tr><td>b. per ogni ulteriore tonnellata</td><td>14.70</td></tr>
 <tr><td>c. per le partite con un peso superiore a 46 tonnellate</td><td>676.—</td></tr>
@@ -156,7 +156,7 @@ Oltre agli esborsi di cui all’articolo 6 OgeEm[^5-2] sono fatturati:
 <sup>1bis</sup> Le tasse per i controlli di prodotti animali importati dalla Nuova Zelanda ammontano a:
 
 <table>
-<tr><td></td><td>Fr.</td></tr>
+<tr><th></th><th>Fr.</th></tr>
 <tr><td>a. per le partite con un peso fino a 6 tonnellate</td><td>68.20</td></tr>
 <tr><td>b. per ogni ulteriore tonnellata</td><td>11.40</td></tr>
 <tr><td>c. per le partite con un peso superiore a 46 tonnellate</td><td>523.90.[^15-2]</td></tr>
@@ -177,15 +177,15 @@ Le tasse per i controlli di partite da parte degli organi di controllo secondo l
 
 <sup>5</sup> Se in caso di importazione di piante vive è riscossa una tassa per il controllo secondo l’articolo 49 dell’ordinanza del 31 ottobre 2018[^15-8] sulla salute dei vegetali, si rinuncia alla riscossione della tassa di cui al capoverso 4 lettera a.[^15-9]
 
-[^15-1]: Nuovo testo giusta il n. II 4 dell’all. all’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
-[^15-2]: Introdotto dal n. II 5 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-[^15-3]: Introdotto dal n. II 5 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^15-1]: Nuovo testo giusta l’all. n. II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
+[^15-2]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^15-3]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 [^15-4]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 [^15-5]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
-[^15-6]: Introdotto dal n. II 4 dell’all. all’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
-[^15-7]: Introdotto dal n. II 4 dell’all. all’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
+[^15-6]: Introdotto dall’all. n. II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
+[^15-7]: Introdotto dall’all. n. II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 [^15-8]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^15-9]: Introdotto dal n. II 4 dell’all. all’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)). Nuovo testo giusta il n. 6 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^15-9]: Introdotto dall’all. n. II 4 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)). Nuovo testo giusta l’all. 8 n. 6 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art.16
 
@@ -205,7 +205,7 @@ Per le partite in transito da Paesi terzi verso Paesi terzi la tassa ammonta a 4
 
 Per le partite importate o fatte transitare senza la necessaria notificazione preventiva di cui all’articolo 18 dell’ordinanza del 18 novembre 2015[^17a-2] concernente l’impor-tazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi è riscossa una tassa supplementare di 150 franchi.
 
-[^17a-1]: Introdotto dal n. I dell’O del 27 ago. 2008 ([RU 2008 4193](https://fedlex.data.admin.ch/eli/oc/2008/596)). Nuovo testo giusta il n. II 5 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^17a-1]: Introdotto dal n. I dell’O del 27 ago. 2008 ([RU 2008 4193](https://fedlex.data.admin.ch/eli/oc/2008/596)). Nuovo testo giusta l’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 [^17a-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 
 #### Art. 17b
@@ -214,7 +214,7 @@ Per le partite importate o fatte transitare senza la necessaria notificazione pr
 
 Per le disposizioni circa il respingimento, la trasformazione o la confisca di partite in entrata o in transito, l’USAV riscuote una tassa di 120 franchi.
 
-[^17b-1]: Introdotto dal n. II 5 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^17b-1]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 #### Art. 18
 
@@ -231,15 +231,15 @@ Per le disposizioni circa il respingimento, la trasformazione o la confisca di p
 [^18-1]: Nuovo testo giusta il n. II 4 dell’all. 6 all’O del 28 nov. 2014 concernente l’importazione’ il transito e l’esportazione di animali da compagnia, in vigore dal 29 dic. 2014 ([RU 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
 [^18-2]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
 [^18-3]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^18-4]: Introdotto dal n. II 5 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^18-4]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 [^18-5]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^18-6]: Introdotto dal n. II 5 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^18-6]: Introdotto dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 ### Sezione 2:**** Autorizzazioni e certificati di esportazione
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Nuovo testo giusta il n. II 5 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^chap2-sec2-1]: Nuovo testo giusta l’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 #### Art. 19
 
@@ -273,7 +273,7 @@ Oltre alle tasse sono computate le spese seguenti:
 - c.[^20-2] le spese per l’esame pratico (art. 82 cpv. 2 dell’O del 23 apr. 2008[^20-3] sulla protezione degli animali).
 
 [^20-1]: [[RU 1959 1137](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137), [1962 288](https://fedlex.data.admin.ch/eli/oc/1962/279_285_288)[1283](https://fedlex.data.admin.ch/eli/oc/1962/1229_1271_1283), [1964 600](https://fedlex.data.admin.ch/eli/oc/1964/595_592_600), [1968 115](https://fedlex.data.admin.ch/eli/oc/1968/111_111_115)[1619](https://fedlex.data.admin.ch/eli/oc/1968/1655_1700_1619), [1971 74](https://fedlex.data.admin.ch/eli/oc/1971/70_74_74), **1973** 139, [1974 5](https://fedlex.data.admin.ch/eli/oc/1974/5_5_5), [1976 2699](https://fedlex.data.admin.ch/eli/oc/1976/2699_2699_2699), [1977 1413](https://fedlex.data.admin.ch/eli/oc/1977/1413_1413_1413)[2155](https://fedlex.data.admin.ch/eli/oc/1977/2155_2155_2155), [1979 1287](https://fedlex.data.admin.ch/eli/oc/1979/1287_1287_1287), [1982 938](https://fedlex.data.admin.ch/eli/oc/1982/938_938_938), [1984 394](https://fedlex.data.admin.ch/eli/oc/1984/394_394_394), [1986 193](https://fedlex.data.admin.ch/eli/oc/1986/193_193_193)[2091](https://fedlex.data.admin.ch/eli/oc/1986/2091_2091_2091), [1987 941](https://fedlex.data.admin.ch/eli/oc/1987/941_941_941), [1988 7](https://fedlex.data.admin.ch/eli/oc/1988/7_7_7), [1989 8](https://fedlex.data.admin.ch/eli/oc/1989/8_8_8)[1217](https://fedlex.data.admin.ch/eli/oc/1989/1217_1217_1217)’ **1990** 102 1736, **1991** 1075 1078 1145 1380 1642, **1992** 3, **1993** 820 all. n. 1 1565 art. 13 cpv. 1 2812, **1994** 2 269 364, **1995** 3 3867 all. n. 8 5067, **1997** 230 299, **1998** 726, **1999** 577, **2000** 419 all. n. 1 2953. [RU 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)all. n. I 2]
-[^20-2]: Nuovo testo giusta il n. 2 dell’all. 2 all’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2011 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
+[^20-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2011 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 [^20-3]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
 ### Sezione 3*a*: ...
@@ -282,7 +282,7 @@ Oltre alle tasse sono computate le spese seguenti:
 
 [^20a-1]
 
-[^20a-1]: Introdotto dal n. 5 dell’all. 3 all’O del 17 mag. 1995 sull’igiene delle carni ([RU 1995 1666](https://fedlex.data.admin.ch/eli/oc/1995/1666_1666_1666)). Abrogato dal n. 5 dell’all. all’O del 18 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^20a-1]: Introdotto dall’all. 3 n. 5 dell’O del 17 mag. 1995 sull’igiene delle carni ([RU 1995 1666](https://fedlex.data.admin.ch/eli/oc/1995/1666_1666_1666)). Abrogato dall’all. n. 5 dell’O del 18 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 ### Sezione 4: ...
 
@@ -296,7 +296,7 @@ Oltre alle tasse sono computate le spese seguenti:
 
 [^21a-1]
 
-[^21a-1]: Introdotto dall’art. 89 n. 6 dell’O del 20 aprile 1988 concernente l’importazione’ il transito e l’esportazione di animali e prodotti animali ([RU 1988 800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)). Abrogato dal n. II 5 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^21a-1]: Introdotto dall’art. 89 n. 6 dell’O del 20 aprile 1988 concernente l’importazione’ il transito e l’esportazione di animali e prodotti animali ([RU 1988 800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)). Abrogato dall’all. n. II 5 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 ### Sezione 5:**** Controllo di prodotti immunologici
 
@@ -309,7 +309,7 @@ Oltre alle tasse sono computate le spese seguenti:
 <sup>1</sup> Le tasse per gli esami e i controlli di prodotti immunologici ammontano secondo la legislazione sugli agenti terapeutici e la legislazione sulle epizoozie a:
 
 <table>
-<tr><td></td><td>Fr.</td></tr>
+<tr><th></th><th>Fr.</th></tr>
 <tr><td>a. domande per la nuova omologazione di un prodotto</td><td>1500.– a 10 000.–</td></tr>
 <tr><td>b. domande per il rinnovo periodico dell’omologazione o per la modifica di un’omologazione esistente</td><td>200.– a 3 000.–</td></tr>
 <tr><td>c. controllo di un lotto di fabbricazione</td><td>00.– a 3 000.–</td></tr>
@@ -321,7 +321,7 @@ Oltre alle tasse sono computate le spese seguenti:
 
 [^chap2-sec6-1]
 
-[^chap2-sec6-1]: Nuovo testo giusta il n. 3 dell’all. all’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^chap2-sec6-1]: Nuovo testo giusta l’all. n. 3 dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 #### Art. 23
 
@@ -339,15 +339,15 @@ Per il riconoscimento di un laboratorio di diagnostica e per la revoca del ricon
 
 [^chap2-sec8-1][^chap2-sec8-2]
 
-[^chap2-sec8-1]: Introdotta dal n. 5 dell’all. 3 all’O del 17 mag. 1995 sull’igiene delle carni ([RU 1995 1666](https://fedlex.data.admin.ch/eli/oc/1995/1666_1666_1666)). Nuovo testo giusta il n. 6 dell’all. 2 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, in vigore dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
-[^chap2-sec8-2]: Nuovo testo giusta il n. II 8 dell’all. 2 all’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^chap2-sec8-1]: Introdotta dall’all. 3 n. 5 dell’O del 17 mag. 1995 sull’igiene delle carni ([RU 1995 1666](https://fedlex.data.admin.ch/eli/oc/1995/1666_1666_1666)). Nuovo testo giusta l’all. 2 n. 6 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, in vigore dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
+[^chap2-sec8-2]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
 #### Art. 24a
 
 <sup>1</sup> Per il perfezionamento degli organi incaricati di assumere le varie funzioni nel settore veterinario pubblico, l’USAV riscuote la seguente tassa massima:[^24a-1]
 
 <table>
-<tr><td></td><td>Fr.</td></tr>
+<tr><th></th><th>Fr.</th></tr>
 <tr><td>a. per i veterinari ufficiali</td><td>4000.–</td></tr>
 <tr><td>b. per i veterinari ufficiali dirigenti</td><td>2500.–</td></tr>
 <tr><td>c. per gli esperti ufficiali</td><td>2500.–</td></tr>
@@ -358,43 +358,68 @@ Per il riconoscimento di un laboratorio di diagnostica e per la revoca del ricon
 <sup>2</sup> Per l’esame, esso riscuote le tasse seguenti:
 
 <table>
-<tr><td></td><td>Fr.</td></tr>
+<tr><th></th><th>Fr.</th></tr>
 <tr><td>a. per i veterinari ufficiali</td><td>800.–</td></tr>
 <tr><td>b. per i veterinari ufficiali dirigenti</td><td>600.–</td></tr>
 <tr><td>c. per gli esperti ufficiali</td><td>600.–</td></tr>
-<tr><td></td><td>Fr.</td></tr>
 <tr><td>d.[^24a-4] per gli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni</td><td>400.–</td></tr>
 <tr><td>e.[^24a-5] per gli assistenti specializzati ufficiali incaricati di altri compiti</td><td>400.–</td></tr>
 </table>
 
 <sup>3</sup> Per il rilascio dell’attestato di capacità ai candidati che hanno superato l’esame, esso riscuote una tassa di 50 franchi.
 
-[^24a-1]: Nuovo testo giusta il n. II 8 dell’all. 2 all’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
-[^24a-2]: Nuovo testo giusta il n. II 8 dell’all. 2 all’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
-[^24a-3]: Introdotta dal n. II 8 dell’all. 2 all’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
-[^24a-4]: Nuovo testo giusta il n. II 8 dell’all. 2 all’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
-[^24a-5]: Nuovo testo giusta il n. II 8 dell’all. 2 all’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^24a-1]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^24a-2]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^24a-3]: Introdotta dall’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^24a-4]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinariopubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^24a-5]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
 ### Sezione 9:**** Utilizzo del sistema d’informazione elettronico per la gestione degli esperimenti sugli animali
 
 [^chap2-sec9-1]
 
-[^chap2-sec9-1]: Introdotta dal n. 2 dell’all. 2 all’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2012 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
+[^chap2-sec9-1]: Introdotta dall’all. 2 n. 2 dell’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2012 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
 #### Art. 24b
 
-<sup>1</sup> Per l’utilizzo del sistema d’informazione elettronico per la gestione degli
+<sup>1</sup> Per l’utilizzo del sistema d’informazione elettronico per la gestione degli esperimenti sugli animali l’Ufficio federale riscuote dai Cantoni le tasse seguenti:
 
 <table>
-<tr><td></td><td>Fr.</td></tr>
-<tr><td>a. rilascio dell’autorizzazione di eseguire un esperimento sugli animali o di gestire un centro di detenzione di animali da laboratorio, inclusa la redazione di rapporti</td><td>200.– fino a 300.–</td></tr>
-<tr><td>b. rilascio dell’autorizzazione dicompletare un esperimento sugli animali o un centro di detenzione di animali da laboratorio</td><td>60.– fino a 80.–</td></tr>
-<tr><td>c. rilascio di decisioni concernenti linee e ceppi con mutazioni patologiche (art. 127 OPAn)</td><td>200.– fino a 300.–</td></tr>
-<tr><td>d. complementi di decisioni concernenti linee e ceppi con mutazioni patologiche (art. 127 OPAn)</td><td>60.– fino a 80.–</td></tr>
-<tr><td>e. annualmente per l’accreditamento di una persona, inclusa la gestione continua della formazione, del perfezionamento e dell’aggiornamento</td><td>60.– fino a 80.–</td></tr>
+<tr><th colspan="2"></th><th>Fr.</th></tr>
+<tr><td>a. rilascio dell’autorizzazione di eseguire un esperimento sugli animali o di gestire un centro di detenzione di animali da laboratorio, inclusa la redazione di rapporti</td><td colspan="2">200.– fino a 300.–</td></tr>
+<tr><td>b. rilascio dell’autorizzazione dicompletare un esperimento sugli animali o un centro di detenzione di animali da laboratorio</td><td colspan="2">60.– fino a 80.–</td></tr>
+<tr><td>c. rilascio di decisioni concernenti linee e ceppi con mutazioni patologiche (art. 127 OPAn)</td><td colspan="2">200.– fino a 300.–</td></tr>
+<tr><td>d. complementi di decisioni concernenti linee e ceppi con mutazioni patologiche (art. 127 OPAn)</td><td colspan="2">60.– fino a 80.–</td></tr>
+<tr><td>e. annualmente per l’accreditamento di una persona, inclusa la gestione continua della formazione, del perfezionamento e dell’aggiornamento</td><td colspan="2">60.– fino a 80.–</td></tr>
 </table>
 
 <sup>2</sup> Se l’USAV svolge i compiti di un Cantone che non lavora con il sistema d’informazione elettronico, la tassa ammonta al doppio dell’importo di cui al capoverso 1.
+
+### Sezione 10:**** Omologazione di prodotti fitosanitari
+
+[^chap2-sec10-1]
+
+[^chap2-sec10-1]: Introdotta dall’all. n. 4 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+
+#### Art. 24c
+
+Per gli esami e i controlli secondo l’ordinanza del 12 maggio 2010[^24c-1] sui prodotti fitosanitari (OPF), l’USAV riscuote le seguenti tasse:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. trattamento di una domanda di autorizzazione di un prodotto fitosanitario per il quale devono essere presentati i documenti secondo gli allegati 5 e 6 OPF (art. 21 cpv. 1–5 OPF)</td><td>2500.–</td></tr>
+<tr><td>b. trattamento di una domanda di autorizzazione di un prodotto fitosanitario per il quale devono essere presentati tutti i documenti secondo l’allegato 6 OPF (art. 21 cpv. 1–4 OPF)</td><td>1400.–</td></tr>
+<tr><td>c. trattamento di una domanda di autorizzazione di un prodotto fitosanitario per il quale deve essere presentata solo una parte dei documenti secondo l’allegato 6 OPF (art. 21 cpv. 7 OPF)</td><td>da 400.– a 1000.–</td></tr>
+<tr><td>d. rilascio di un’autorizzazione con l’utilizzazione di dati di un precedente richiedente, previo consenso di quest’ultimo, per un prodotto fitosanitario identico (art. 22 OPF)</td><td>400.–</td></tr>
+<tr><td>e. esperimenti e analisi nell’ambito dell’esame di una domanda (art. 24 cpv. 3 OPF):</td><td></td></tr>
+<tr><td>1. analisi chimiche e fisico-chimiche</td><td>da 30.– a 500.–</td></tr>
+<tr><td>2. esperimenti biologici</td><td>da 1900.– a 11 000.–</td></tr>
+<tr><td>f. rilascio di certificati (art. 20 OPF)</td><td>60.–</td></tr>
+<tr><td>g. rilascio di un permesso di vendita (art. 43 OPF)</td><td>200.–</td></tr>
+<tr><td>h. trattamento di una domanda d’omologazione di prodotti fitosanitari omologati all’estero che corrispondono a prodotti fitosanitari autorizzati in Svizzera (art. 36 cpv. 3 OPF)</td><td>50.–</td></tr>
+</table>
+
+[^24c-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 
 ## Capitolo 3: Disposizioni finali
 

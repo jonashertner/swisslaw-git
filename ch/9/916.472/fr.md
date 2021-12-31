@@ -3,11 +3,11 @@ sr: "916.472"
 title: "Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l'OSAV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20200101/fr"
 
 (Ordonnance sur les émoluments de l’OSAV, OEmol-OSAV)**[^t-1]**
 
-du 30 octobre 1985 (Etat le 1<sup>er</sup> janvier 2020)
+du 30 octobre 1985 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Tit. introduit par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> sept. 2010 sur le système informatique de gestion des expériences sur animaux, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -42,10 +42,9 @@ arrête:
 
 **Champ d’application**[^1-1]
 
-La présente ordonnance régit les émoluments pour les décisions et les prestations de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^1-2] touchant la santé animale, les denrées alimentaires, la protection des animaux et la circulation des espèces de faune et de flore protégées.
+La présente ordonnance régit les émoluments pour les décisions et les prestations de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) touchant la santé animale, les denrées alimentaires, la protection des animaux, l’homologation des produits phytosanitaires et la circulation des espèces de faune et de flore protégées.
 
-[^1-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 4 sept. 2013 sur la circulation des espèces de faune et de flore protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
-[^1-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 2
 
@@ -72,9 +71,10 @@ L’ordonnance générale du 8 septembre 2004 sur les émoluments (OGEmol)[^2-2]
 
 **Supplément**[^4-1]
 
-L’OSAV peut percevoir un supplément pouvant aller jusqu’à 50 % des émoluments ordinaires pour les décisions et prestations d’une ampleur extraordinaire, présentant des difficultés particulières ou ayant un caractère urgent.
+L’OSAV[^4-2] peut percevoir un supplément pouvant aller jusqu’à 50 % des émoluments ordinaires pour les décisions et prestations d’une ampleur extraordinaire, présentant des difficultés particulières ou ayant un caractère urgent.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
+[^4-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5
 
@@ -185,7 +185,7 @@ Les émoluments pour les opérations de contrôle des lots effectuées par les o
 [^15-6]: Introduit par l’annexe ch. II 4 de l’O du 4 sept. 2013 sur la circulation des espèces de faune et de flore protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 [^15-7]: Introduit par l’annexe ch. II 4 de l’O du 4 sept. 2013 sur la circulation des espèces de faune et de flore protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 [^15-8]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^15-9]: Introduit par l’annexe ch. II 4 de l’O du 4 sept. 2013 ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)). Nouvelle teneur selon le ch. 6 de l’annexe 8 à l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^15-9]: Introduit par l’annexe ch. II 4 de l’O du 4 sept. 2013 ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)). Nouvelle teneur selon l’annexe 8 ch. 6 de l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 16
 
@@ -296,7 +296,7 @@ Les débours ci-après sont facturés en plus des émoluments:
 
 [^21a-1]
 
-[^21a-1]: Introduit par l’art. 89 ch. 6 de l’O du 20 avr. 1988 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux ([RO 1988 800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)). Abrogé par le ch. 5 de l’annexe à l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^21a-1]: Introduit par l’art. 89 ch. 6 de l’O du 20 avr. 1988 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux ([RO 1988 800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)). Abrogé par l’annexe ch. 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 ### Section 5**** Contrôle des produits immunologiques
 
@@ -396,6 +396,32 @@ Pour l’agrément d’un laboratoire de diagnostic, de même que pour la révoc
 
 <sup>2</sup> Si l’OSAV assume des tâches d’un canton qui ne travaille pas avec le système informatique e-expérimentation animale, l’émolument est deux fois supérieur au montant fixé à l’al. 1.
 
+### Section 10**** Homologation des produits phytosanitaires
+
+[^chap2-sec10-1]
+
+[^chap2-sec10-1]: Introduite par l’annexe ch. 4 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+
+#### Art. 24c
+
+L’OSAV prélève les émoluments suivants pour les examens et contrôles visés dans l’ordonnance du 12 mai 2010 sur les produits phytosanitaires (OPPh)[^24c-1]:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. Traitement d’une demande d’autorisation d’un produit phytosanitaire pour laquelle les documents visés aux annexes 5 et 6 OPPh doivent être produits (art. 21, al. 1 à 5, OPPh)</td><td>2500.–</td></tr>
+<tr><td>b. Traitement d’une demande d’autorisation d’un produit phytosanitaire pour laquelle tous les documents visés à l’annexe 6 OPPh doivent être produits (art. 21, al. 1 à 4, OPPh)</td><td>1400.–</td></tr>
+<tr><td>c. Traitement d’une demande d’autorisation d’un produit phytosanitaire pour laquelle seulement une partie des documents visés à l’annexe 6 OPPh doit être produite (art. 21, al. 7, OPPh)</td><td>400.– à 1000.–</td></tr>
+<tr><td>d. Octroi d’une autorisation pour laquelle des informations concernant un produit phytosanitaire identique, provenant d’un précédent requérant, ont été utilisées avec son consentement (art. 22 OPPh)</td><td>400.–</td></tr>
+<tr><td>e. Essais et analyses dans le cadre de l’examen d’une demande (art. 24, al. 3, OPPh):</td><td></td></tr>
+<tr><td>1. analyses chimiques et physico-chimiques</td><td>30.– à 500.–</td></tr>
+<tr><td>2. essais biologiques</td><td>1900.– à 11 000.–</td></tr>
+<tr><td>f. Établissement de certificats (art. 20 OPPh)</td><td>60.–</td></tr>
+<tr><td>g. Octroi d’une permission de vente (art. 43 OPPh)</td><td>200.–</td></tr>
+<tr><td>h. Traitement d’une demande d’homologation de produits phytosanitaires homologués à l’étranger qui correspondent à des produits phytosanitaires autorisés en Suisse (art. 36, al. 3, OPPh)</td><td>50.–</td></tr>
+</table>
+
+[^24c-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+
 ## Chapitre 3 Dispositions finales
 
 #### Art. 25
@@ -407,7 +433,7 @@ Sont abrogés:
 - 1\. l’ordonnance du 13 juin 1977 concernant les taxes perçues par l’Office vétérinaire fédéral[^25-1];
 - 2\. le tarif des taxes du 1<sup>er</sup> avril 1972 pour les visites vétérinaires à la frontière concernant le bétail d’estivage et d’hivernage exporté temporairement en République fédérale d’Allemagne ou en Autriche[^25-2].
 
-[^25-1]: [[RO 1977 1230](https://fedlex.data.admin.ch/eli/oc/1977/1230_1230_1230), [1979 2634](https://fedlex.data.admin.ch/eli/oc/1979/2626_2634_2634)art. 2 ch. 7, [1981 1248](https://fedlex.data.admin.ch/eli/oc/1981/1248_1248_1248)art. 24 ch. 2, [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408)art. 72 ch. 5]
+[^25-1]: [[RO 1977 1230](https://fedlex.data.admin.ch/eli/oc/1977/1230_1230_1230); [1979 2634](https://fedlex.data.admin.ch/eli/oc/1979/2626_2634_2634)art. 2 ch. 7; [1981 1248](https://fedlex.data.admin.ch/eli/oc/1981/1248_1248_1248)art. 24 ch. 2; [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408)art. 72 ch. 5]
 [^25-2]: [[RO 1972 791](https://fedlex.data.admin.ch/eli/oc/1972/783_791_715)]
 
 #### Art. 26
@@ -416,7 +442,7 @@ Sont abrogés:
 
 L’ordonnance du 13 juin 1977[^26-1] reste applicable aux prestations fournies avant l’entrée en vigueur de la présente ordonnance.
 
-[^26-1]: [[RO 1977 1230](https://fedlex.data.admin.ch/eli/oc/1977/1230_1230_1230), [1979 2634](https://fedlex.data.admin.ch/eli/oc/1979/2626_2634_2634)art. 2 ch. 7, [1981 1248](https://fedlex.data.admin.ch/eli/oc/1981/1248_1248_1248)art. 24 ch. 2, [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408)art. 72 ch. 5]
+[^26-1]: [[RO 1977 1230](https://fedlex.data.admin.ch/eli/oc/1977/1230_1230_1230); [1979 2634](https://fedlex.data.admin.ch/eli/oc/1979/2626_2634_2634)art. 2 ch. 7; [1981 1248](https://fedlex.data.admin.ch/eli/oc/1981/1248_1248_1248)art. 24 ch. 2; [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408)art. 72 ch. 5]
 
 #### Art. 27
 
