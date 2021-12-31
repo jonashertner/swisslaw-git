@@ -3,18 +3,18 @@ sr: "360.1"
 title: "Ordonnance du 30 novembre 2001 concernant l'exécution de tâches de police judiciaire au sein de l'Office fédéral de la police"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/29"
 language: fr
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2001-11-30
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20170901/fr/xml/fedlex-data-admin-ch-eli-cc-2002-29-20170901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20170901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-29-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’exécution de tâches de police judiciaire au sein de l’Office fédéral de la police
 
-du 30 novembre 2001 (Etat le 1<sup>er</sup> septembre 2017)
+du 30 novembre 2001 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -136,14 +136,14 @@ Si cela lui est nécessaire pour obtenir les renseignements dont elle a besoin e
 
 - a. les autres services de fedpol;
 - b. les autorités compétentes en matière de correspondance téléphonique, télégraphique et postale, pour ordonner et exécuter des mesures de surveillance;
-- c. les autorités d’autres Etats exerçant des fonctions de poursuite pénale et de police, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
+- c. les autorités d’autres États exerçant des fonctions de poursuite pénale et de police, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
 - d. les organisations internationales exerçant des fonctions de poursuite pénale et de police (notamment EUROPOL et INTERPOL), dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
 - e. les autorités financières de la Confédération et des cantons;
 - f. l’Administration fédérale des finances;
 - g. l’Autorité fédérale de surveillance des marchés financiers[^6-1];
 - h. la Commission fédérale des maisons de jeu;
 - i. l’Autorité fédérale de surveillance des marchés financiers[^6-2];
-- j. le Secrétariat d’Etat à l’économie;
+- j. le Secrétariat d’État à l’économie;
 - k. les autorités fédérales chargées des contrôles de sécurité relatifs à des personnes et des mesures de protection au sens de l’art. 2, al. 4, let. c et d, LMSI[^6-3];
 - l. l’Office fédéral de l’aviation civile;
 - m. les autorités compétentes en matière d’acquisition de terrains par des personnes résidant à l’étranger;
@@ -155,7 +155,7 @@ Si cela lui est nécessaire pour obtenir les renseignements dont elle a besoin e
 Afin de les assister dans l’accomplissement de leurs tâches légales, la Police judiciaire fédérale peut en outre communiquer spontanément des données personnelles aux autorités suivantes:
 
 - a. les autres services de fedpol;
-- b. les autorités d’autres Etats exerçant des fonctions de poursuite pénale, pour leurs enquêtes de police judiciaire, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
+- b. les autorités d’autres États exerçant des fonctions de poursuite pénale, pour leurs enquêtes de police judiciaire, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
 - c. les organisations internationales exerçant des fonctions de poursuite pénale et de police (notamment EUROPOL et INTERPOL), pour le traitement d’affaires déterminées, dans la mesure où les conditions énumérées à l’art. 13, al. 2, LOC sont remplies;
 - d. les autorités financières de la Confédération et des cantons, pour leurs enquêtes de police judiciaire dans le domaine fiscal;
 - e. l’Administration fédérale des finances, dans le cadre des procédures pénales administratives qu’elle mène;
@@ -181,7 +181,7 @@ Afin de les assister dans l’accomplissement de leurs tâches légales, la Poli
 
 **Restrictions de communication de données**
 
-<sup>1</sup> Lors de la communication de données, les interdictions portant sur l’utilisation doivent être respectées. La Police judiciaire fédérale ne peut communiquer à des Etats étrangers des données concernant des demandeurs d’asile, des réfugiés, des personnes à protéger ou des personnes provisoirement admises qu’après consultation de l’office fédéral compétent.
+<sup>1</sup> Lors de la communication de données, les interdictions portant sur l’utilisation doivent être respectées. La Police judiciaire fédérale ne peut communiquer à des États étrangers des données concernant des demandeurs d’asile, des réfugiés, des personnes à protéger ou des personnes provisoirement admises qu’après consultation de l’office fédéral compétent.
 
 <sup>2</sup> La Police judiciaire fédérale refuse ou restreint la communication de données si des intérêts prépondérants publics ou privés s’y opposent.
 
@@ -193,28 +193,29 @@ Afin de les assister dans l’accomplissement de leurs tâches légales, la Poli
 
 **Agents de liaison**
 
-<sup>1</sup> Les agents de liaison sont déclarés comme attachés diplomatiques de l’Ambassade de Suisse dans l’Etat d’accueil. Ils sont placés sous la conduite de la division principale Coopération policière internationale.[^8-1]
+<sup>1</sup> Les agents de liaison sont déclarés comme attachés diplomatiques de l’Ambassade de Suisse dans l’État d’accueil. Ils sont placés sous la conduite de la division principale Coopération policière internationale.[^8-1]
 
 <sup>2</sup>
 
 Ils sont chargés en particulier des tâches suivantes:
 
-- a. défendre tous les intérêts des autorités de poursuite pénale suisses dans l’Etat d’accueil, dans les domaines de la criminalité organisée, dans d’autres affaires importantes de police judiciaire susceptibles de donner lieu à une entraide judiciaire et, de manière subsidiaire, dans le domaine de la criminalité économique;
-- b. assister les autorités de poursuite pénale de l’Etat d’accueil dans des affaires importantes de police judiciaire susceptibles de donner lieu à une entraide judiciaire;
+- a. défendre tous les intérêts des autorités de poursuite pénale suisses dans l’État d’accueil, dans les domaines de la criminalité organisée, dans d’autres affaires importantes de police judiciaire susceptibles de donner lieu à une entraide judiciaire et, de manière subsidiaire, dans le domaine de la criminalité économique;
+- b. assister les autorités de poursuite pénale de l’État d’accueil dans des affaires importantes de police judiciaire susceptibles de donner lieu à une entraide judiciaire;
 - c. rassembler et échanger des informations dans les domaines relevant de la compétence de la Police judiciaire fédérale, notamment concernant l’analyse de formes nouvelles de criminalité;
-- d. conseiller les autorités de poursuite pénale de l’Etat d’accueil dans les domaines relevant de la compétence de la Police judiciaire fédérale;
+- d. conseiller les autorités de poursuite pénale de l’État d’accueil dans les domaines relevant de la compétence de la Police judiciaire fédérale;
 - e. participer à des conférences et congrès organisés dans la région de stationnement sur des thèmes relevant de la compétence de la Police judiciaire fédérale;
 - f. coopérer avec les autorités suisses sur toutes les questions relatives à l’entraide judiciaire et à l’extradition.
 
 <sup>3</sup> Pour remplir leurs tâches, ils coopèrent avec les autorités étrangères, dans le cadre de l’art. 13, al. 2, LOC et de l’art. 6, al. 2, let. a et b, de la présente ordonnance. La coopération avec les autorités nationales est régie par les art. 4 à 7.
 
-<sup>3bis</sup> D’entente avec l’Administration fédérale des douanes (AFD), fedpol peut déléguer des tâches de ses propres agents de liaison aux agents de liaison de l’AFD. Dans le cadre des tâches confiées par fedpol, les agents de liaison de l’AFD possèdent les mêmes droits que les agents de liaison de fedpol quant à l’accès aux systèmes d’information et au traitement des données, dans la mesure où cela est nécessaire à l’accomplissement de leurs tâches.[^8-2]
+<sup>3bis</sup> D’entente avec l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^8-2], fedpol peut déléguer des tâches de ses propres agents de liaison aux agents de liaison de l’OFDF. Dans le cadre des tâches confiées par fedpol, les agents de liaison de l’OFDF possèdent les mêmes droits que les agents de liaison de fedpol quant à l’accès aux systèmes d’information et au traitement des données, dans la mesure où cela est nécessaire à l’accomplissement de leurs tâches.[^8-3]
 
-<sup>4</sup> Le Département fédéral de justice et police est habilité à conclure avec les Etats étrangers des accords portant sur le stationnement d’agents de liaison de fedpol.[^8-3]
+<sup>4</sup> Le Département fédéral de justice et police est habilité à conclure avec les États étrangers des accords portant sur le stationnement d’agents de liaison de fedpol.[^8-4]
 
 [^8-1]: Nouvelle teneur selon le ch. I 2 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de l’Office fédéral de la police d’une part, par des agents de liaison de l’Administration fédérale des douanes d’autre part , en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^8-2]: Introduit par le ch. I 2 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de l’Office fédéral de la police d’une part, par des agents de liaison de l’Administration fédérale des douanes d’autre part , en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^8-3]: Nouvelle teneur selon le ch. I 2 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de l’Office fédéral de la police d’une part, par des agents de liaison de l’Administration fédérale des douanes d’autre part , en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^8-3]: Introduit par le ch. I 2 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de l’Office fédéral de la police d’une part, par des agents de liaison de l’Administration fédérale des douanes d’autre part , en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-4]: Nouvelle teneur selon le ch. I 2 de l’O du 23 nov. 2016 concernant l’exécution mutuelle de tâches par des agents de liaison de l’Office fédéral de la police d’une part, par des agents de liaison de l’Administration fédérale des douanes d’autre part , en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
 #### Art. 9
 

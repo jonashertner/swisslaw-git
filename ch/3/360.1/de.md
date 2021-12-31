@@ -3,18 +3,18 @@ sr: "360.1"
 title: Verordnung vom 30. November 2001 über die Wahrnehmung kriminalpolizeilicher Aufgaben im Bundesamt für Polizei
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/29"
 language: de
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2001-11-30
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20170901/de/xml/fedlex-data-admin-ch-eli-cc-2002-29-20170901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20170901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-29-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Wahrnehmung kriminalpolizeilicher Aufgaben im Bundesamt für Polizei
 
-vom 30. November 2001 (Stand am 1. September 2017)
+vom 30. November 2001 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -161,7 +161,7 @@ Darüber hinaus kann die Bundeskriminalpolizei Personendaten folgenden Behörden
 - e. der Eidgenössischen Finanzverwaltung für deren verwaltungsstrafrechtlichen Verfahren;
 
 - g. der Eidgenössischen Spielbankenkommission zur Unterstützung ihrer Aufsichtstätigkeit im Rahmen der Glücksspielgesetzgebung;
-- h.[^6-6] …
+- h.[^6-6] ...
 - i. den mit Personensicherheitsüberprüfungen und mit Schutzmassnahmen im Sinne von Artikel 2 Absatz 4 Buchstaben c und d BWIS betrauten Bundesbehörden für deren Abklärungen, soweit es sich um gesicherte Informationen handelt.
 
 <sup>3</sup> Zur Erfüllung ihrer Kontrollfunktionen werden den Aufsichtsbehörden des Bundes und der Kantone sowie dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten[^6-7] auf Verlangen alle Personendaten bekannt gegeben.
@@ -208,13 +208,14 @@ Sie haben insbesondere folgende Aufgaben:
 
 <sup>3</sup> Zur Erfüllung ihrer Aufgaben arbeiten sie im Rahmen von Artikel 13 Absatz 2 ZentG und Artikel 6 Absatz 2 Buchstaben a und b dieser Verordnung mit ausländischen Behörden zusammen. Für die Zusammenarbeit mit inländischen Behörden gelten die Artikel 4–7.
 
-<sup>3bis</sup> Fedpol kann im Einvernehmen mit der Eidgenössischen Zollverwaltung (EZV) Aufgaben der Polizeiverbindungsleute an die Verbindungsleute der EZV delegieren. Die Verbindungleute der EZV sind im Rahmen der von fedpol übertragenen Aufgaben den Polizeiverbindungsleuten bezüglich des Zugriffs auf Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt, soweit dies für die Aufgabenerfüllung erforderlich ist.[^8-2]
+<sup>3bis</sup> Fedpol kann im Einvernehmen mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^8-2] Aufgaben der Polizeiverbindungsleute an die Verbindungsleute des BAZG delegieren. Die Verbindungleute des BAZG sind im Rahmen der von fedpol übertragenen Aufgaben den Polizeiverbindungsleuten bezüglich des Zugriffs auf Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt, soweit dies für die Aufgabenerfüllung erforderlich ist.[^8-3]
 
-<sup>4</sup> Das Eidgenössische Justiz- und Polizeidepartement ist zuständig für den Abschluss von Vereinbarungen mit dem Ausland über die Stationierung von Polizeiverbindungsleuten.[^8-3]
+<sup>4</sup> Das Eidgenössische Justiz- und Polizeidepartement ist zuständig für den Abschluss von Vereinbarungen mit dem Ausland über die Stationierung von Polizeiverbindungsleuten.[^8-4]
 
 [^8-1]: Fassung gemäss Ziff. I 2 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^8-2]: Eingefügt durch Ziff. I 2 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^8-3]: Fassung gemäss Ziff. I 1 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^8-3]: Eingefügt durch Ziff. I 2 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-4]: Fassung gemäss Ziff. I 1 der V vom 23. Nov. 2016 über die gegenseitige Wahrnehmung von Aufgaben durch Polizeiverbindungsleute und Verbindungsleute der Eidgenössischen Zollverwaltung, in Kraft seit 1. Jan. 2017 ([AS 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
 #### Art. 9
 
@@ -259,7 +260,7 @@ Zu melden sind die Eröffnung und Einstellung von Ermittlungsverfahren sowie kri
 
 Die Verordnung vom 19. November 1997[^11-1] über kriminalpolizeiliche Zentralstellen im Bundesamt für Polizeiwesen wird aufgehoben.
 
-[^11-1]: [[AS 1998 34](https://fedlex.data.admin.ch/eli/oc/1998/34_34_34), [2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)Art. 125 Ziff. 1]
+[^11-1]: [[AS 1998 34](https://fedlex.data.admin.ch/eli/oc/1998/34_34_34); [2000 766](https://fedlex.data.admin.ch/eli/oc/2000/129)Art. 125 Ziff. 1]
 
 #### Art. 12
 

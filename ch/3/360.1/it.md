@@ -3,18 +3,18 @@ sr: "360.1"
 title: "Ordinanza del 30 novembre 2001 sull'adempimento di compiti di polizia giudiziaria in seno all'Ufficio federale di polizia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/29"
 language: it
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2001-11-30
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20170901/it/xml/fedlex-data-admin-ch-eli-cc-2002-29-20170901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20170901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/29/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-29-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/29/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’adempimento di compiti di polizia giudiziaria in seno all’Ufficio federale di polizia
 
-del 30 novembre 2001 (Stato 1° settembre 2017) (Stato 1° settembre 2017)
+del 30 novembre 2001 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -76,7 +76,7 @@ Nell’ambito della sua attività di coordinamento, la Polizia giudiziaria feder
 
 <sup>3</sup> L’attività d’analisi strategica ai sensi dell’articolo 2 lettera c LUC è espletata dalla divisione Analisi in seno all’Ufficio federale di polizia. Vi rientra l’analisi dei dati relativi a gruppi di autori, segnatamente la loro provenienza, composizione, delinquenza e specificità, nonché ai tipi di reati e ai metodi utilizzati per commetterli. I rapporti di situazione sono allestiti a destinazione del Dipartimento federale di giustizia e polizia e delle autorità di perseguimento penale della Confederazione e dei Cantoni. Essi possono essere resi accessibili sotto forma anonima anche ad altre autorità o organizzazioni sempreché siano necessari all’adempimento dei loro compiti. Si può rinunciare a rendere anonimi i dati qualora le autorità di perseguimento penale abbiano già reso noto al pubblico l’identità degli interessati e le fattispecie che li concernono. È fatta salva la comunicazione di dati personali ai sensi degli articoli 5–7.
 
-[^3-1]: Nuovo testo giusta il n. 14 dell’all. all’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^3-1]: Nuovo testo giusta l’all. n. 14 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 [^3-2]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
 #### Art. 4
@@ -173,9 +173,9 @@ La Polizia giudiziaria federale può inoltre comunicare spontaneamente i dati pe
 [^6-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo. Precedentemente: Servizio di controllo in materia di riciclaggio di denaro.
 [^6-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^6-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-5]: Nuovo testo giusta il n. 4 dell’all. 1 all’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-5]: Nuovo testo giusta l’all. 1 n. 4 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^6-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^6-7]: Abrogata dal n. 4 dell’all. 1 all’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^6-7]: Abrogata dall’all. 1 n. 4 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^6-8]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^6-9]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
@@ -210,16 +210,17 @@ Gli agenti di collegamento di fedpol adempiono segnatamente i compiti seguenti:[
 
 <sup>3</sup> Per adempiere i loro compiti gli agenti di collegamento di fedpol collaborano con le autorità estere ai sensi dell’articolo 13 capoverso 2 LUC e dell’articolo 6 capoverso 2 lettere a e b della presente ordinanza.[^8-4] Per la collaborazione con le autorità svizzere si applicano gli articoli 4–7.
 
-<sup>3bis</sup> Fedpol, d’intesa con l’Amministrazione federale delle dogane (AFD), può delegare compiti dei propri agenti di collegamento agli agenti di collegamento dell’AFD. Nel quadro dei compiti attribuiti da fedpol, gli agenti di collegamento dell’AFD sono equiparati a quelli di fedpol per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare i dati, sempreché ciò sia necessario all’adempimento dei compiti.[^8-5]
+<sup>3bis</sup> Fedpol, d’intesa con l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^8-5], può delegare compiti dei propri agenti di collegamento agli agenti di collegamento dell’UDSC. Nel quadro dei compiti attribuiti da fedpol, gli agenti di collegamento dell’UDSC sono equiparati a quelli di fedpol per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare i dati, sempreché ciò sia necessario all’adempimento dei compiti.[^8-6]
 
-<sup>4</sup> La conclusione di accordi con l’estero sullo stazionamento degli agenti di collegamento di fedpol spetta al Dipartimento federale di giustizia e polizia.[^8-6]
+<sup>4</sup> La conclusione di accordi con l’estero sullo stazionamento degli agenti di collegamento di fedpol spetta al Dipartimento federale di giustizia e polizia.[^8-7]
 
 [^8-1]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 [^8-2]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 [^8-3]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 [^8-4]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^8-5]: Introdotto dal n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^8-6]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^8-6]: Introdotto dal n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^8-7]: Nuovo testo giusta il n. I 2 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
 
 #### Art. 9
 
@@ -256,7 +257,7 @@ Vanno comunicate l’apertura e l’archiviazione di procedure d’investigazion
 
 <sup>2</sup> Nei limiti dei crediti stanziati, gli uffici federali interessati e l’ISP si accordano su contenuto, modalità e portata dell’esecuzione, scelta dei conferenzieri nonché sulla cerchia di interessati alle riunioni organizzate con la partecipazione finanziaria della Confederazione nell’ambito della LMSI.
 
-[^10a-1]: Introdotto dal n. II 5 dell’all. 4 all’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^10a-1]: Introdotto dall’all. 4 n. II 5 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
 
 #### Art. 11
 
