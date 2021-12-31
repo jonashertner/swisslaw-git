@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 20. Juni 1997 über Waffen, Waffenzubehör und Munition
 short: WG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: de
-version: 2020-09-01
+version: 2022-01-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20200901/de/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20200901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20200901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Waffen, Waffenzubehör und Munition (Waffengesetz, WG)
 
-vom 20. Juni 1997 (Stand am 1. September 2020)
+vom 20. Juni 1997 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -638,11 +638,11 @@ Die Aus- und die Durchfuhr, die Vermittlung an Empfänger und Empfängerinnen im
 
 #### Art. 22c
 
-**Kontrolle durch die Eidgenössische Zollverwaltung**[^22c-1]
+**Kontrolle durch das Bundesamt für Zoll und Grenzsicherheit**[^22c-1]
 
-Die Eidgenössische Zollverwaltung überprüft stichprobenweise, ob die Angaben im Begleitschein mit den auszuführenden Feuerwaffen, deren wesentlichen Bestandteilen oder der Munition übereinstimmen.
+Das Bundesamt für Zoll und Grenzsicherheit (BAZG) überprüft stichprobenweise, ob die Angaben im Begleitschein mit den auszuführenden Feuerwaffen, deren wesentlichen Bestandteilen oder der Munition übereinstimmen.
 
-[^22c-1]: Eingefügt durch Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, in Kraft seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^22c-1]: Eingefügt durch Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)). Fassung gemäss Ziff. I 13 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 23
 
@@ -1150,15 +1150,11 @@ Die Zentralstelle führt folgende Datenbanken:
 
 #### Art. 32a<sup>bis</sup>
 
-**Verwendung der AHV-Versichertennummer**[^32abis-1]
+**Meldung der AHV-Nummer**[^32abis-1]
 
-<sup>1</sup> Die Behörden, die online Daten in den Informationssystemen nach Artikel 32*a* Absätze 1–3 bearbeiten, sind berechtigt, die Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^32abis-2] über die Alters- und Hinterlassenenversicherung systematisch zu verwenden.
+Die Behörden, die Daten in den Informationssystemen nach Artikel 32*a* Absätze 2 und 3 online bearbeiten, melden der Zentralstelle die AHV-Nummern nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^32abis-2] über die Alters- und Hinterlassenenversicherung zur Verwendung in der DEBBWA und in der DAWA.
 
-<sup>2</sup> Die Versichertennummer wird zum elektronischen Datenaustausch mit anderen Datenbanken verwendet, in denen die Versichertennummer ebenfalls systematisch verwendet wird, sofern für einen solchen Datenaustausch mittels Versichertennummer eine formell-gesetzliche Grundlage besteht, sowie zur Führung der Datenbanken nach Artikel 32*a* Absatz 1 Buchstaben c und d und Absätze 2 und 3.
-
-<sup>3</sup> Die zuständigen Behörden melden der Zentralstelle die Versichertennummern zur Verwendung in der DEBBWA und in der DAWA.
-
-[^32abis-1]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)). Fassung gemäss Ziff. I 5 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32abis-1]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)). Fassung gemäss Anhang Ziff. 15 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^32abis-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 32b
@@ -1177,8 +1173,8 @@ Die DEWA und die DEWS enthalten folgende Daten:
 
 Die DEBBWA enthält folgende Daten:
 
-- a. Personalien und Versichertennummer von Personen, denen Bewilligungen entzogen oder verweigert oder bei denen Waffen beschlagnahmt wurden;
-- b.[^32b-2] Umstände, die zum Entzug oder zur Verweigerung der Bewilligung geführt haben;
+- a. Personalien und AHV-Nummer[^32b-2] von Personen, denen Bewilligungen entzogen oder verweigert oder bei denen Waffen beschlagnahmt wurden;
+- b.[^32b-3] Umstände, die zum Entzug oder zur Verweigerung der Bewilligung geführt haben;
 - c. Waffenart, -typ und -nummer sowie Datum der Übertragung;
 - d. Umstände, die zur Beschlagnahme Anlass gegeben haben;
 - e. Verfügungen über beschlagnahmte Waffen;
@@ -1188,9 +1184,9 @@ Die DEBBWA enthält folgende Daten:
 
 Die DAWA enthält folgende Daten:
 
-- a. Personalien und Versichertennummer der Personen, denen beim Austritt aus der Armee eine Waffe zum Eigentum überlassen wurde;
-- b. Personalien und Versichertennummer der Personen, denen aufgrund der Militärgesetzgebung die persönliche Waffe oder die Leihwaffe abgenommen oder entzogen wurde;
-- c. Personalien und Versichertennummer der Personen, denen aufgrund von Hinderungsgründen betreffend die Abgabe der persönlichen Waffe nach Artikel 113 des Militärgesetzes vom 3. Februar 1995[^32b-3] keine Waffe abgegeben wurde;
+- a. Personalien und AHV-Nummer der Personen, denen beim Austritt aus der Armee eine Waffe zum Eigentum überlassen wurde;
+- b. Personalien und AHV-Nummer der Personen, denen aufgrund der Militärgesetzgebung die persönliche Waffe oder die Leihwaffe abgenommen oder entzogen wurde;
+- c. Personalien und AHV-Nummer der Personen, denen aufgrund von Hinderungsgründen betreffend die Abgabe der persönlichen Waffe nach Artikel 113 des Militärgesetzes vom 3. Februar 1995[^32b-4] keine Waffe abgegeben wurde;
 - d. Waffenart, -typ und -nummer sowie Datum der Übertragung oder des Entzugs;
 - e. Umstände, die zur Nichtabgabe , zur Abnahme und zum Entzug der Waffe Anlass gegeben haben;
 - f. Verfügungen über beschlagnahmte Waffen;
@@ -1210,7 +1206,7 @@ Die DARUE enthält folgende Daten:
 Das Informationssystem nach Artikel 32*a* Absatz 2 enthält die folgenden Daten:
 
 - a. Personalien und Registernummer des Erwerbers oder der Erwerberin und der übertragenden Person;
-- b.[^32b-4] Art der Waffe oder des wesentlichen Waffenbestandteils, Hersteller oder Herstellerin, Bezeichnung, Kaliber, Waffennummer, Datum der Übertragung und Datum der Vernichtung;
+- b.[^32b-5] Art der Waffe oder des wesentlichen Waffenbestandteils, Hersteller oder Herstellerin, Bezeichnung, Kaliber, Waffennummer, Datum der Übertragung und Datum der Vernichtung;
 - c. Personalien der Inhaber und Inhaberinnen eines Europäischen Feuerwaffenpasses nach Artikel 25*b* und Angaben daraus;
 - d. Personalien der Inhaber und Inhaberinnen einer Waffentragbewilligung nach Artikel 27 und Angaben daraus.
 
@@ -1223,12 +1219,13 @@ Das gemeinsame harmonisierte Informationssystem nach Artikel 32*a* Absatz 3 enth
 - c. Personalien der Inhaber und Inhaberinnen eines Europäischen Feuerwaffenpass nach Artikel 25*b* und Angaben daraus;
 - d. Personalien der Inhaber und Inhaberinnen einer Waffentragbewilligung nach Artikel 27 und Angaben daraus.
 
-<sup>7</sup> Die Informationssysteme nach Artikel 32*a* Absätze 2 und 3 dürfen auch die Versichertennummer enthalten.
+<sup>7</sup> Die Informationssysteme nach Artikel 32*a* Absätze 2 und 3 dürfen auch die AHV-Nummer enthalten.
 
 [^32b-1]: Fassung gemäss Ziff. I 5 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^32b-2]: Fassung gemäss Anhang des BB vom 28. Sept. 2018 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Richtlinie (EU) 2017/853 zur Änderung der EU-Waffenrichtlinie, in Kraft seit 15. Aug. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
-[^32b-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^32b-4]: Fassung gemäss Anhang des BB vom 28. Sept. 2018 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Richtlinie (EU) 2017/853 zur Änderung der EU-Waffenrichtlinie, in Kraft seit 14. Dez. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
+[^32b-2]: Ausdruck gemäss Anhang Ziff. 15 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^32b-3]: Fassung gemäss Anhang des BB vom 28. Sept. 2018 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Richtlinie (EU) 2017/853 zur Änderung der EU-Waffenrichtlinie, in Kraft seit 15. Aug. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
+[^32b-4]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^32b-5]: Fassung gemäss Anhang des BB vom 28. Sept. 2018 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Richtlinie (EU) 2017/853 zur Änderung der EU-Waffenrichtlinie, in Kraft seit 14. Dez. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
 
 #### Art. 32c
 
@@ -1326,8 +1323,8 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 Die zuständigen Stellen der Militärverwaltung melden der Zentralstelle:
 
-- a. die Identität und die Versichertennummer von Personen, denen beim Austritt aus der Armee eine Waffe zum Eigentum überlassen wurde, sowie die Waffenart und die Waffennummer;
-- b. die Identität und die Versichertennummer von Personen, denen aufgrund der Militärgesetzgebung die persönliche Waffe oder die Leihwaffe abgenommen, entzogen oder nicht abgegeben wurde.[^32j-2]
+- a. die Identität und die AHV-Nummer von Personen, denen beim Austritt aus der Armee eine Waffe zum Eigentum überlassen wurde, sowie die Waffenart und die Waffennummer;
+- b. die Identität und die AHV-Nummer von Personen, denen aufgrund der Militärgesetzgebung die persönliche Waffe oder die Leihwaffe abgenommen, entzogen oder nicht abgegeben wurde.[^32j-2]
 
 [^32j-1]: Aufgehoben durch Ziff. I des BG vom 23. Dez. 2011, mit Wirkung seit 1. Jan. 2013 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 [^32j-2]: Fassung gemäss Ziff. I 5 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
@@ -1432,11 +1429,11 @@ Für Widerhandlungen in Geschäftsbetrieben gelten die Artikel 6 und 7 des Verwa
 
 <sup>1</sup> Die Kantone verfolgen und beurteilen Widerhandlungen. Der Bund unterstützt die Koordination der Strafverfolgung zwischen den Kantonen.
 
-<sup>2</sup> Die Zollverwaltung untersucht und beurteilt Übertretungen dieses Gesetzes bei der Durchfuhr im Reiseverkehr und beim Verbringen von Waffen in das schweizerische Staatsgebiet.[^36-1]
+<sup>2</sup> Das BAZG untersucht und beurteilt Übertretungen dieses Gesetzes bei der Durchfuhr im Reiseverkehr und beim Verbringen von Waffen in das schweizerische Staatsgebiet.[^36-1]
 
 <sup>3</sup> Stellt eine Übertretung nach Absatz 2 gleichzeitig eine Widerhandlung gegen die Zollgesetzgebung oder die Mehrwertsteuergesetzgebung dar, so wird die für die schwerere Widerhandlung vorgesehene Strafe angewendet; diese kann angemessen erhöht werden.
 
-[^36-1]: Fassung gemäss Ziff. I 5 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^36-1]: Fassung gemäss Ziff. I 13 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 37
 
@@ -1470,9 +1467,10 @@ Für Widerhandlungen in Geschäftsbetrieben gelten die Artikel 6 und 7 des Verwa
 
 <sup>3</sup> Er bestimmt die Behörden, welche Daten direkt in die Datenbanken des Bundes eingeben.[^40-1]
 
-<sup>4</sup> Er kann Vollzugsaufgaben der Zollverwaltung übertragen.
+<sup>4</sup> Er kann Vollzugsaufgaben dem BAZG übertragen.[^40-2]
 
 [^40-1]: Fassung gemäss Art. 2 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EG betreffend die Übernahme der Richtlinie 2008/51/EG zur Änderung der Waffenrichtlinie, in Kraft seit 28. Juli 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^40-2]: Fassung gemäss Ziff. I 13 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 41
 
@@ -1492,19 +1490,18 @@ Für Widerhandlungen in Geschäftsbetrieben gelten die Artikel 6 und 7 des Verwa
 
 <sup>4</sup> Wer nach bisherigem Recht eine Bewilligung für die gewerbsmässige Ein-, Aus- und Durchfuhr von Waffen, wesentlichen Waffenbestandteilen, Munition und Munitionsbestandteilen hat, darf diese Gegenstände weiterhin aufgrund dieser Bewilligung in das schweizerische Staatsgebiet verbringen und ausführen.[^42-3]
 
-<sup>5</sup> Wer bereits im Besitz von Waffen, wesentlichen oder besonders konstruierten Waffenbestandteilen nach Artikel 5[^42-4] Absatz 2 oder Waffenzubehör nach Artikel 5 Absatz 1 Buchstabe g ist, muss diese innerhalb von drei Monaten nach Inkrafttreten dieser Bestimmung den für die Erteilung von Ausnahmebewilligungen zuständigen kantonalen Behörden melden.[^42-5]
+<sup>5</sup> Wer bereits im Besitz von Waffen, wesentlichen oder besonders konstruierten Waffenbestandteilen nach Artikel 5 Absatz 2 oder Waffenzubehör nach Artikel 5 Absatz 1 Buchstabe g ist, muss diese innerhalb von drei Monaten nach Inkrafttreten dieser Bestimmung den für die Erteilung von Ausnahmebewilligungen zuständigen kantonalen Behörden melden.[^42-4]
 
-<sup>6</sup> Innerhalb von sechs Monaten nach Inkrafttreten des Verbots nach Artikel 5 Absatz 2 kann ein Gesuch um eine Ausnahmebewilligung eingereicht werden. Ausgenommen von dieser Bestimmung ist, wer bereits eine gültige Ausnahmebewilligung zum Erwerb der Waffe hat. Wer kein Gesuch einreichen will, muss die Gegenstände innerhalb von sechs Monaten nach Inkrafttreten des Verbots einer berechtigten Person übertragen.[^42-6]
+<sup>6</sup> Innerhalb von sechs Monaten nach Inkrafttreten des Verbots nach Artikel 5 Absatz 2 kann ein Gesuch um eine Ausnahmebewilligung eingereicht werden. Ausgenommen von dieser Bestimmung ist, wer bereits eine gültige Ausnahmebewilligung zum Erwerb der Waffe hat. Wer kein Gesuch einreichen will, muss die Gegenstände innerhalb von sechs Monaten nach Inkrafttreten des Verbots einer berechtigten Person übertragen.[^42-5]
 
-<sup>7</sup> Wird das Gesuch um eine Ausnahmebewilligung abgewiesen, so sind die Gegenstände innerhalb von vier Monaten nach der Abweisung einer berechtigten Person zu übertragen.[^42-7]
+<sup>7</sup> Wird das Gesuch um eine Ausnahmebewilligung abgewiesen, so sind die Gegenstände innerhalb von vier Monaten nach der Abweisung einer berechtigten Person zu übertragen.[^42-6]
 
 [^42-1]: [[AS 1973 108](https://fedlex.data.admin.ch/eli/oc/1973/108_107_113). [AS 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794)Art. 44]
 [^42-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^42-3]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^42-4]: Dieser Art. hat heute eine neue Fassung.
+[^42-4]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^42-5]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^42-6]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^42-7]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 42a
 

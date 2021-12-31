@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1997 sur les armes, les accessoires d'armes et
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: fr
-version: 2020-09-01
+version: 2022-01-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20200901/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20200901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20200901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20200901/fr"
 
 (Loi sur les armes, LArm)
 
-du 20 juin 1997 (Etat le 1<sup>er</sup> septembre 2020)
+du 20 juin 1997 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -268,7 +268,7 @@ Aucun permis d’acquisition d’armes n’est délivré aux personnes:
 [^8-1]: Nouvelle teneur selon l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-2]: Nouvelle teneur selon l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-3]: Introduit par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^8-4]: Nouvelle teneur selon le ch. 17 de l’annexe à la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^8-4]: Nouvelle teneur selon l’annexe ch. 17 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^8-5]: Introduit par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-6]: Abrogés par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, avec effet au 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
@@ -642,11 +642,11 @@ L’exportation, le transit, le courtage pour des destinataires à l’étranger
 
 #### Art. 22c
 
-**Contrôle du document par l’Administration fédérale des douanes**[^22c-1]
+**Contrôle du document par l’Office fédéral de la douane et de la sécurité des frontières**[^22c-1]
 
-L’Administration fédérale des douanes vérifie par sondage si les informations figurant dans le document de suivi correspondent aux armes à feu destinées à l’exportation, à leurs éléments essentiels ou aux munitions.
+L’Office fédéral de la douane et de la sécurité des frontières (OFDF) vérifie par sondage si les informations figurant dans le document de suivi correspondent aux armes à feu destinées à l’exportation, à leurs éléments essentiels ou aux munitions.
 
-[^22c-1]: Introduit par l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, en vigueur depuis le 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^22c-1]: Introduit par l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, en vigueur depuis le 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)). Nouvelle teneur selon le ch. I 13 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 23
 
@@ -656,7 +656,7 @@ L’Administration fédérale des douanes vérifie par sondage si les informatio
 
 <sup>2</sup> Le Conseil fédéral fixe les dérogations.
 
-[^23-1]: Nouvelle teneur selon le ch. 6 de l’annexe à la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^23-1]: Nouvelle teneur selon l’annexe ch. 6 de la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^23-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^23-3]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
@@ -1154,15 +1154,11 @@ L’office central gère les banques de données suivantes:
 
 #### Art. 32a<sup>bis</sup>
 
-**Utilisation du numéro d’assuré AVS**[^32abis-1]
+**Communication du numéro AVS**[^32abis-1]
 
-<sup>1</sup> Les autorités qui traitent des données en ligne dans les systèmes d’information mentionnés à l’art. 32*a*, al. 1 à 3, ont le droit d’utiliser systématiquement le numéro d’assuré AVS (numéro AVS) visé à l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^32abis-2].
+Les autorités qui traitent des données en ligne dans les systèmes d’information mentionnés à l’art. 32*a*, al. 2 et 3, communiquent le numéro AVS visé à l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^32abis-2] à l’office central, en vue de leur utilisation dans les banques de données DEBBWA et DAWA*.*
 
-<sup>2</sup> Le numéro AVS est utilisé pour l’échange électronique de données avec d’autres banques de données dans lesquelles le numéro AVS est aussi utilisé systématiquement, pour autant qu’une base légale formelle prévoyant un échange de données de ce type au moyen du numéro AVS existe, et pour la gestion des banques de données visés à l’art. 32*a*, al. 1, let. c et d, 2 et 3.
-
-<sup>3</sup> Les autorités compétentes communiquent les numéros AVS à l’office central, en vue de leur utilisation dans les banques de données DEBBWA et DAWA.
-
-[^32abis-1]: Introduit par le ch. I de la LF du 23 déc. 2011 ([RO 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544); [FF 2011 4217](https://fedlex.data.admin.ch/eli/fga/2011/715)). Nouvelle teneur delon le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32abis-1]: Introduit par le ch. I de la LF du 23 déc. 2011 ([RO 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544); [FF 2011 4217](https://fedlex.data.admin.ch/eli/fga/2011/715)). Nouvelle teneur selon l’annexe ch. 15 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^32abis-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 32b
@@ -1229,7 +1225,7 @@ Le système d’information commun harmonisé visé à l’art. 32*a*, al. 3, co
 
 <sup>7</sup> Les systèmes d’information visés à l’art. 32*a*, al. 2 et 3, peuvent également contenir le numéro AVS.
 
-[^32b-1]: Nouvelle teneur delon le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32b-1]: Nouvelle teneur selon le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^32b-2]: Nouvelle teneur selon l’annexe de l’AF du 28 sept. 2018 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise de la directive (UE) 2017/853 modifiant la directive de l’UE sur les armes, en vigueur depuis le 15 août 2019 ([RO 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [FF 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
 [^32b-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^32b-4]: Nouvelle teneur selon l’annexe de l’AF du 28 sept. 2018 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise de la directive (UE) 2017/853 modifiant la directive de l’UE sur les armes, en vigueur depuis le 14 déc. 2019 ([RO 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [FF 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
@@ -1260,7 +1256,7 @@ Toutes les données des banques de données DEWA, DEBBWA et DARUE peuvent être 
 
 <sup>8</sup> Le Conseil fédéral définit les données communiquées aux autorités fédérales et cantonales et règle leur contrôle, leur conservation, leur rectification et leur effacement.
 
-[^32c-1]: Nouvelle teneur delon le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32c-1]: Nouvelle teneur selon le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 
 ### Section 2 Traitement et protection des données dans le cadre des accords d’association à Schengen****
 
@@ -1334,7 +1330,7 @@ Les services compétents de l’administration militaire communiquent à l’off
 - b. l’identité et le numéro AVS des personnes qui se sont vu reprendre ou retirer en vertu de la législation militaire leur arme personnelle ou l’arme qui leur a été remise en prêt, ou des personnes auxquelles aucune arme personnelle ou arme en prêt n’a été remise.[^32j-2]
 
 [^32j-1]: Abrogé par le ch. I de la LF du 23 déc. 2011, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544); [FF 2011 4217](https://fedlex.data.admin.ch/eli/fga/2011/715)).
-[^32j-2]: Nouvelle teneur delon le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32j-2]: Nouvelle teneur selon le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 
 #### Art. 32k
 
@@ -1436,11 +1432,11 @@ Les articles 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adm
 
 <sup>1</sup> Les cantons poursuivent et jugent les infractions à la présente loi. La Confédération soutient la coordination de la poursuite pénale entre les cantons.
 
-<sup>2</sup> L’administration des douanes enquête et statue sur les contraventions à la présente loi si celles-ci sont commises lors de l’introduction d’armes sur le territoire suisse ou du transit en trafic touristique.[^36-1]
+<sup>2</sup> L’OFDF enquête et statue sur les contraventions à la présente loi si celles-ci sont commises lors de l’introduction d’armes sur le territoire suisse ou du transit en trafic touristique.[^36-1]
 
 <sup>3</sup> Lorsqu’une contravention au sens de l’al. 2 constitue en même temps une infraction à la législation sur les douanes ou à la législation relative à la taxe sur la valeur ajoutée, la sanction prévue à l’égard de l’infraction la plus grave est applicable; elle peut être aggravée de façon appropriée.
 
-[^36-1]: Nouvelle teneur delon le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^36-1]: Nouvelle teneur selon le ch. I 13 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 37
 
@@ -1474,9 +1470,10 @@ Les articles 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adm
 
 <sup>3</sup> Il désigne les autorités qui peuvent enregistrer directement des données dans les banques de données de la Confédération.[^40-1]
 
-<sup>4</sup> Il peut déléguer des tâches d’exécution à l’administration des douanes.
+<sup>4</sup> Il peut déléguer des tâches d’exécution à l’OFDF.[^40-2]
 
 [^40-1]: Nouvelle teneur selon l’art. 2 de l’AF du 11 déc. 2009 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive 2008/51/CE modifiant la directive relative aux armes, en vigueur depuis le 28 juil. 2010 ([RO 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^40-2]: Nouvelle teneur selon le ch. I 13 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 41
 
@@ -1496,19 +1493,18 @@ Les articles 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adm
 
 <sup>4</sup> Toute personne qui est titulaire d’une autorisation d’importation, d’exportation ou de transit, à titre professionnel, d’armes, d’éléments essentiels d’armes, de munitions et d’éléments de munitions délivrée en vertu du droit en vigueur, peut continuer d’introduire sur le territoire suisse et d’exporter lesdits objets sur la base de cette autorisation.[^42-3]
 
-<sup>5</sup> Toute personne qui est déjà en possession d’armes, d’éléments essentiels d’armes ou de composants d’armes spécialement conçus visés à l’art. 5[^42-4], al. 2, ou encore d’accessoires d’armes visés à l’art. 5, al. 1, let. g, doit les déclarer dans les trois mois qui suivent la date d’entrée en vigueur de la présente disposition aux autorités cantonales chargées de délivrer les autorisations exceptionnelles.[^42-5]
+<sup>5</sup> Toute personne qui est déjà en possession d’armes, d’éléments essentiels d’armes ou de composants d’armes spécialement conçus visés à l’art. 5, al. 2, ou encore d’accessoires d’armes visés à l’art. 5, al. 1, let. g, doit les déclarer dans les trois mois qui suivent la date d’entrée en vigueur de la présente disposition aux autorités cantonales chargées de délivrer les autorisations exceptionnelles.[^42-4]
 
-<sup>6</sup> Une autorisation exceptionnelle peut être demandée dans un délai de six mois à compter de la date d’entrée en vigueur de l’interdiction visée à l’art. 5, al. 2. Les personnes qui sont déjà titulaires d’une autorisation exceptionnelle d’acquisition d’armes valable ne sont pas concernées par la présente disposition. Les personnes qui ne souhaitent pas déposer de demande doivent aliéner les objets concernés, dans les six mois qui suivent l’entrée en vigueur de l’interdiction, à une personne ayant le droit de les posséder.[^42-6]
+<sup>6</sup> Une autorisation exceptionnelle peut être demandée dans un délai de six mois à compter de la date d’entrée en vigueur de l’interdiction visée à l’art. 5, al. 2. Les personnes qui sont déjà titulaires d’une autorisation exceptionnelle d’acquisition d’armes valable ne sont pas concernées par la présente disposition. Les personnes qui ne souhaitent pas déposer de demande doivent aliéner les objets concernés, dans les six mois qui suivent l’entrée en vigueur de l’interdiction, à une personne ayant le droit de les posséder.[^42-5]
 
-<sup>7</sup> Si la demande d’autorisation exceptionnelle est rejetée, les objets concernés doivent être aliénés, dans un délai de quatre mois à compter de la décision de rejet, à une personne ayant le droit de les posséder.[^42-7]
+<sup>7</sup> Si la demande d’autorisation exceptionnelle est rejetée, les objets concernés doivent être aliénés, dans un délai de quatre mois à compter de la décision de rejet, à une personne ayant le droit de les posséder.[^42-6]
 
 [^42-1]: [[RO 1973 107](https://fedlex.data.admin.ch/eli/oc/1973/108_107_113). [RO 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794)art. 44]
 [^42-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^42-3]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^42-4]: Cet article a actuellement une nouvelle teneur.
+[^42-4]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^42-5]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^42-6]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^42-7]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 42a
 

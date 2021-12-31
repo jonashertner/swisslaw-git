@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da zercladur 1997 davart las armas, ils accessor
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: rm
-version: 2020-09-01
+version: 2022-01-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20200901/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20200901-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20200901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20220101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20200901/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 20 da zercladur 1997 (versiun dal 1. da settember 2020)
+dals 20 da zercladur 1997 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -640,11 +640,11 @@ L’export ed il transit, l’intermediaziun a retschaviders a l’exteriur ed i
 
 #### Art. 22c
 
-**Controlla tras l’Administraziun federala da duana**[^22c-1]
+**Controlla tras l’Uffizi federal da la duana e da la segirezza dals cunfins**[^22c-1]
 
-En furma da sondagis controllescha l’Administraziun federala da duana, sche las indicaziuns sin il fegl accumpagnant correspundan a las armas da fieu, a lur parts essenzialas u a la muniziun che duain vegnir exportadas.
+En furma da sondagis controllescha l’Uffizi federal da la duana e da la segirezza dals cunfins (UDSC), sche las indicaziuns sin il fegl accumpagnant correspundan a las armas da fieu, a lur parts essenzialas u a la muniziun che duain vegnir exportadas.
 
-[^22c-1]: Integrà tras l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, en vigur dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^22c-1]: Integrà tras l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)). Versiun tenor la cifra I 13 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 23
 
@@ -1152,15 +1152,11 @@ Il post spezialisà maina las suandantas bancas da datas:
 
 #### Art. 32a<sup>bis</sup>
 
-**Utilisaziun dal numer d’assicuranza da la AVS**[^32abis-1]
+**Annunzia dal numer da la AVS**[^32abis-1]
 
-<sup>1</sup> Las autoritads ch’elavuran online datas en ils sistems d’infurmaziun tenor l’artitgel 32*a* alineas 1–3 han il dretg da duvrar sistematicamain il numer d’assicuranza tenor l’artitgel 50*c* da la Lescha federala dals 20 da december 1946[^32abis-2] davart l’assicuranza per vegls e survivents.
+Las autoritads ch’elavuran online datas en ils sistems d’infurmaziun tenor l’artitgel 32*a* alineas 2 e 3 annunzian al post central ils numers da la AVS tenor l’artitgel 50*c* da la Lescha federala dals 20 da december 1946[^32abis-2] davart l’assicuranza per vegls e survivents per duvrar tals en la DEBBWA ed en la DAWA.
 
-<sup>2</sup> Il numer d’assicuranza vegn duvrà per il barat electronic da datas cun autras bancas da datas, en las qualas il numer d’assicuranza vegn er duvrà sistematicamain, premess ch’igl exista ina basa legala formala per in tal barat da datas cun agid dal numer d’assicuranza, sco er per la gestiun da las bancas da datas tenor l’artitgel 32*a* alinea 1 literas c e d ed alineas 2 e 3.
-
-<sup>3</sup> Las autoritads cumpetentas communitgeschan al post central ils numers d’assicuranza per duvrar tals en la DEBBWA ed en la DAWA.
-
-[^32abis-1]: Integrà tras la cifra I da la LF dals 23 da dec. 2011 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)). Versiun tenor la cifra I 5 da la LF dals 25 da sett. 2015 davart meglieraziuns dal barat d’infurmaziuns tranter autoritads en quai che concerna armas, en vigur dapi il 1. da fan. 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32abis-1]: Integrà tras la cifra I da la LF dals 23 da dec. 2011 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)). Versiun tenor la cifra 15 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^32abis-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 32b
@@ -1179,8 +1175,8 @@ La DEWA e la DEWS cuntegnan las suandantas datas:
 
 La DEBBWA cuntegna las suandantas datas:
 
-- a. persunalias e numer d’assicuranza da persunas, da las qualas èn vegnidas revocadas u a las qualas èn vegnidas refusadas permissiuns u da las qualas èn vegnidas sequestradas armas;
-- b.[^32b-2] circumstanzas che han chaschunà la revocaziun u la refusa da la permissiun;
+- a. persunalias e numer da la AVS[^32b-2] da persunas, da las qualas èn vegnidas revocadas u a las qualas èn vegnidas refusadas permissiuns u da las qualas èn vegnidas sequestradas armas;
+- b.[^32b-3] circumstanzas che han chaschunà la revocaziun u la refusa da la permissiun;
 - c. gener, tip e numer da l’arma sco er data dal transferiment;
 - d. circumstanzas che han chaschunà la sequestraziun;
 - e. disposiziuns per las armas sequestradas;
@@ -1190,9 +1186,9 @@ La DEBBWA cuntegna las suandantas datas:
 
 La DAWA cuntegna las suandantas datas:
 
-- a. persunalias e numer d’assicuranza da las persunas, a las qualas è vegnida surlaschada in’arma sco proprietad, cur ch’ellas èn sortidas da l’armada;
-- b. persunalias e numer d’assicuranza da las persunas, da las qualas è vegnida prendida davent u revocada – sin basa da la legislaziun militara – l’arma persunala u l’arma ad emprest;
-- c. persunalias e numer d’assicuranza da las persunas, a las qualas n’è vegnida consegnada nagina arma pervia da motivs d’impediment concernent la consegna da l’arma persunala tenor l’artitgel 113 da la Lescha militara dals 3 da favrer 1995[^32b-3];
+- a. persunalias e numer da la AVS da las persunas, a las qualas è vegnida surlaschada in’arma sco proprietad, cur ch’ellas èn sortidas da l’armada;
+- b. persunalias e numer da la AVS da las persunas, da las qualas è vegnida prendida davent u revocada – sin basa da la legislaziun militara – l’arma persunala u l’arma ad emprest;
+- c. persunalias e numer da la AVS da las persunas, a las qualas n’è vegnida consegnada nagina arma pervia da motivs d’impediment concernent la consegna da l’arma persunala tenor l’artitgel 113 da la Lescha militara dals 3 da favrer 1995[^32b-4];
 - d. gener, tip e numer da l’arma sco er data dal transferiment u da la privaziun;
 - e. circumstanzas che han chaschunà che l’arma n’è betg vegnida consegnada, che l’arma è vegnida prendida davent u revocada da questas persunas;
 - f. disposiziun per las armas sequestradas;
@@ -1212,7 +1208,7 @@ La DARUE cuntegna las suandantas datas:
 Il sistem d’infurmaziun tenor l’artitgel 32*a* alinea 2 cuntegna las suandantas datas:
 
 - a. persunalias e numer da register da l’acquistader e da la persuna che transferescha l’arma;
-- b.[^32b-4] gener da l’arma u da la part essenziala da l’arma, producent, designaziun, caliber, numer da l’arma, data dal transferiment e data da la destrucziun;
+- b.[^32b-5] gener da l’arma u da la part essenziala da l’arma, producent, designaziun, caliber, numer da l’arma, data dal transferiment e data da la destrucziun;
 - c. persunalias dal titular d’ina carta europeica d’armas da fieu tenor l’artitgel 25*b* ed indicaziuns che figureschan en quella;
 - d. persunalias dal titular d’ina permissiun per purtar in’arma tenor l’artitgel 27 ed indicaziuns che figureschan en quella.
 
@@ -1225,12 +1221,13 @@ Il sistem d’infurmaziun cuminaivel armonisà tenor l’artitgel 32*a* alinea 3
 - c. persunalias dal titular d’ina carta europeica d’armas da fieu tenor l’artitgel 25*b* ed indicaziuns che figureschan en quella;
 - d. persunalias dal titular d’ina permissiun per purtar in’arma tenor l’artitgel 27 ed indicaziuns che figureschan en quella.
 
-<sup>7</sup> Ils sistems d’infurmaziun tenor l’artitgel 32*a* alineas 2 e 3 dastgan er cuntegnair il numer d’assicuranza.
+<sup>7</sup> Ils sistems d’infurmaziun tenor l’artitgel 32*a* alineas 2 e 3 dastgan er cuntegnair il numer da la AVS.
 
 [^32b-1]: Versiun tenor la cifra I 5 da la LF dals 25 da sett. 2015 davart meglieraziuns dal barat d’infurmaziuns tranter autoritads en quai che concerna armas, en vigur dapi il 1. da fan. 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^32b-2]: Versiun tenor l’agiunta dal COF dals 28 da sett. 2018 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da la directiva (UE) 2017/853 per midar la directiva la UE davart las armas, en vigur dapi ils 15 d’avust 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
-[^32b-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^32b-4]: Versiun tenor l’agiunta dal COF dals 28 da sett. 2018 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da la directiva (UE) 2017/853 per midar la directiva la UE davart las armas, en vigur dapi ils 14 da dec. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
+[^32b-2]: Expressiun tenor la cifra 15 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
+[^32b-3]: Versiun tenor l’agiunta dal COF dals 28 da sett. 2018 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da la directiva (UE) 2017/853 per midar la directiva la UE davart las armas, en vigur dapi ils 15 d’avust 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
+[^32b-4]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^32b-5]: Versiun tenor l’agiunta dal COF dals 28 da sett. 2018 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da la directiva (UE) 2017/853 per midar la directiva la UE davart las armas, en vigur dapi ils 14 da dec. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
 
 #### Art. 32c
 
@@ -1328,8 +1325,8 @@ Il dretg da dar infurmaziuns sa drizza tenor las disposiziuns davart la proteczi
 
 Ils posts cumpetents da l’administraziun militara communitgeschan al post central:
 
-- a. l’identitad ed il numer d’assicuranza da persunas, a las qualas è vegnida surlascha in’arma sco possess, cur ch’ellas en sortidas da l’armada, sco er il gener ed il numer da l’arma;
-- b. l’identitad ed il numer d’assicuranza da persunas, da las qualas è vegnida prendida davent u revocada – sin basa da la legislaziun militara – l’arma persunala u l’arma ad emprest u a las qualas n’è betg vegnida consegnada l’arma persunala u l’arma ad emprest.[^32j-2]
+- a. l’identitad ed il numer da la AVS da persunas, a las qualas è vegnida surlaschada in’arma sco possess, cur ch’ellas en sortidas da l’armada, sco er il gener ed il numer da l’arma;
+- b. l’identitad ed il numer da la AVS da persunas, da las qualas è vegnida prendida davent u revocada – sin basa da la legislaziun militara – l’arma persunala u l’arma ad emprest u a las qualas n’è betg vegnida consegnada l’arma persunala u l’arma ad emprest.[^32j-2]
 
 [^32j-1]: Abolì tras la cifra I da la LF dals 23 da dec. 2011, cun effect dapi il 1. da schan. 2013 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 [^32j-2]: Versiun tenor la cifra I 5 da la LF dals 25 da sett. 2015 davart meglieraziuns dal barat d’infurmaziuns tranter autoritads en quai che concerna armas, en vigur dapi il 1. da fan. 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
@@ -1434,11 +1431,11 @@ Per cuntravenziuns commessas en interpresas valan ils artitgels 6 e 7 da la Lesc
 
 <sup>1</sup> Ils chantuns persequiteschan e giuditgeschan cuntravenziuns. La Confederaziun sustegna la coordinaziun da la persecuziun penala tranter ils chantuns.
 
-<sup>2</sup> L’Administraziun da duana intercurescha e giuditgescha surpassaments da questa lescha en cas dal transit en il traffic da viadi ed en cas da l’apport d’armas en il territori svizzer.[^36-1]
+<sup>2</sup> Il UDSC intercurescha e giuditgescha surpassaments da questa lescha en cas dal transit en il traffic da viadi ed en cas da l’apport d’armas en il territori svizzer.[^36-1]
 
 <sup>3</sup> Sch’in surpassament tenor l’alinea 2 è il medem mument ina cuntravenziun cunter la legislaziun da duana u cunter la legislaziun davart la taglia sin la plivalur, vegn applitgà il chasti ch’è previs per la cuntravenziun pli greva; il chasti po vegnir augmentà commensuradamain.
 
-[^36-1]: Versiun tenor la cifra I 5 da la LF dals 25 da sett. 2015 davart meglieraziuns dal barat d’infurmaziuns tranter autoritads en quai che concerna armas, en vigur dapi il 1. da fan. 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^36-1]: Versiun tenor la cifra I 13 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 37
 
@@ -1472,9 +1469,10 @@ Per cuntravenziuns commessas en interpresas valan ils artitgels 6 e 7 da la Lesc
 
 <sup>3</sup> El designescha las autoritads che endateschan directamain las datas en las bancas da datas federalas.[^40-1]
 
-<sup>4</sup> El po surdar incumbensas executivas a l’Administraziun da duana.
+<sup>4</sup> El po surdar incumbensas executivas al UDSC.[^40-2]
 
 [^40-1]: Versiun tenor l’art. 2 dal COF dals 11 da dec. 2009 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la CE concernent la surpigliada da la directiva 2008/51/CE per midar la directiva davart las armas, en vigur dapi ils 28 da fan. 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^40-2]: Versiun tenor la cifra I 13 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 41
 

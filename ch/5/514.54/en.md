@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 1997 on Weapons, Weapon Accessories and Ammunitio
 short: WA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: en
-version: 2020-09-01
+version: 2022-01-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20200901/en/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20200901-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20200901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20200901/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 20 June 1997 (Status as of 1 September 2020)
+of 20 June 1997 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -268,7 +268,7 @@ A weapon acquisition permit will not be issued to any person:
 [^8-2]: Amended by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-3]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-4]: Amended by Annex No 17 of the FA of 19 Dec. 2008 (Adult protection, law of persons and law of children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^8-5]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-5]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 (AS **2****00****8** 447 5405 Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-6]: Repealed by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, with effect from 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 9
@@ -324,7 +324,7 @@ Any person who transfers the possession of a weapon or an essential weapon compo
 A weapon acquisition permit is not required for acquiring the following weapons and their essential components:
 
 - a. single-shot and multi-barrel hunting rifles, and replicas of single-shot muzzle loaders;
-- b. manual repetition rifles designated by the Federal Council and typically used for off-duty and target shooting by shooting clubs recognised under the Armed Forces Act of 3 February 1995[^10-2] and for hunting purposes in Switzerland;
+- b. manual repetition rifles designated by the Federal Council and typically used for off-duty and recreational target shooting recognised under the Armed Forces Act of 3 February 1995[^10-2] and for hunting purposes in Switzerland;
 - c. single-shot rabbit slayers;
 - d. compressed air and CO<sup>2</sup> weapons that develop a muzzle energy of at least 7.5 joules or that can be mistaken for real firearms due to their appearance;
 - e. imitation, blank cartridge and airsoft weapons that can be mistaken for real firearms due to their appearance.[^10-3]
@@ -396,7 +396,7 @@ The contract must contain the following details:
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Amended by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chap2-sec2-1]: Amended by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 (AS **2****008** 447 5405 Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 12
 
@@ -447,7 +447,7 @@ Any person who has lawfully acquired a weapon or an essential or specially desig
 
 Any person who has lawfully acquired ammunition or ammunition components is authorised to possess the same.
 
-[^16a-1]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^16a-1]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; BBl **20****04**5965).
 
 ## Chapter 3*a***** Acquisition and Possession of High Capacity Loading Devices
 
@@ -640,11 +640,11 @@ The export, transit, brokerage to recipients abroad, and trade abroad from Switz
 
 #### Art. 22c
 
-**Control by the Federal Customs Administration**[^22c-1]
+**Control by the Federal Office for Customs and Border Security**[^22c-1]
 
-The Federal Customs Administration shall make spot checks to examine whether the information contained in the accompanying note corresponds to the firearms, the essential components or ammunition being exported.
+The Federal Office for Customs and Border Security (FOCBS) shall make spot checks to examine whether the information contained in the accompanying note corresponds to the firearms, the essential components or ammunition being exported.
 
-[^22c-1]: Inserted by Art. 2 of the FD of 11 Dec. 2009 on the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive, in force since 28 July 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^22c-1]: Inserted by Art. 2 of the FD of 11 Dec. 2009 on the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)). Amended by No I 13 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 23
 
@@ -900,7 +900,7 @@ Exemption permits for the transfer of possession, acquisition, brokerage for rec
 Legitimate grounds are in particular:
 
 - a. professional requirements, in particular with regard to carrying out protection duties, such as protecting persons, critical infrastructure or the transport of valuables;
-- b. target shooting by shooting clubs;
+- b. recreational target shooting;
 - c. collecting;
 - d. national defence requirements;
 - e. educational, cultural, research or historical purposes.
@@ -913,14 +913,14 @@ Legitimate grounds are in particular:
 
 **Special requirements for target shooters**[^28d-1]
 
-<sup>1</sup> The issue of exemption permits for the purpose of target shooting by shooting clubs is limited to firearms and essential weapon components in accordance with Article 5 paragraph 1 letters b and c and to specially designed weapon components and weapon accessories that are genuinely required for this purpose.
+<sup>1</sup> The issue of exemption permits for the purpose of recreational target shooting is limited to firearms and essential weapon components in accordance with Article 5 paragraph 1 letters b and c and to specially designed weapon components and weapon accessories that are genuinely required for this purpose.
 
 <sup>2</sup>
 
 Exemption permits are only issued to persons who prove to the competent cantonal authority that they:
 
 - a. are members of a shooting club; or
-- b. they use their firearm regularly for target shooting without being a member of a shooting club.
+- b. they use their firearm regularly for recreational target shooting without being a member of a shooting club.
 
 <sup>3</sup> Proof in accordance with paragraph 2 must be provided after 5 and after 10 years.
 
@@ -1082,7 +1082,7 @@ Besides the mandate under Articles 9*a* paragraph 2, 22*b*, 24 paragraphs 3 and 
 
 <sup>3</sup> The Federal Council regulates the details of the central office’s activities.
 
-[^31c-1]: Inserted by No I of the FA of 22 June 2007, in force since 12 Dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^31c-1]: Inserted by No I of the FA of 22 June 2007, in force since 12 Dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. d; BBl **200****6** 2713).
 [^31c-2]: Inserted by Art. 2 of the FD of 23 Dec. 2011 on the Adoption and Implementation of the UN Firearms Protocol, in force since 1 Jan. 2013 ([AS 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 
 #### Art. 31d
@@ -1150,15 +1150,11 @@ The central office operates the following databases:
 
 #### Art. 32a<sup>bis</sup>
 
-**Use of the AHV insurance number**[^32abis-1]
+**Notification of the OASI insurance number**[^32abis-1]
 
-<sup>1</sup> The authorities who process data online in the information systems defined in Article 32*a* paragraphs 1–3 are authorised to systematically use the insurance number in accordance with Article 50*c* of the Federal Act of 20 December 1946[^32abis-2] on Old-Age and Survivors Insurance.
+<sup>1</sup> The authorities who process data online in the information systems defined in Article 32*a* paragraphs 2 and 3 shall notify the central office of the OASI numbers in accordance with Article 50*c* of the Federal Act of 20 December 1946[^32abis-2] on Old-Age and Survivors Insurance to be used in the DEBBWA and DAWA databases.
 
-<sup>2</sup> The insurance number is used for exchanging data electronically with other databases that systematically use the insurance number, providing a formal legal basis exists for exchanging data using the insurance number and for operating the databases listed in Article 32a paragraph 1 letters c and d, and paragraphs 2 and 3.
-
-<sup>3</sup> The competent authorities shall notify the central office of insurance numbers used in the DEBBWA and DAWA databases.
-
-[^32abis-1]: Inserted by No I of the FA of 23 Dec. 2011 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)). Amended by No I 5 of the FA of 25 Sept. 2015 on Improving the Exchange of Information between Authorities in relation to Weapons, in force since 1 July 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32abis-1]: Inserted by No I of the FA of 23 Dec. 2011 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)). Amended by Annex No 15 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^32abis-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 32b
@@ -1177,8 +1173,8 @@ The DEWA and DEWS databases contain the following data:
 
 The DEBBWA database contains the following data:
 
-- a. the personal data and insurance number of any person whose permit has been withdrawn, who has been refused a permit, or from whom weapons have been seized;
-- b.[^32b-2] the circumstances leading to the withdrawal or refusal of the permit;
+- a. the personal data and OASI number[^32b-2] of any person whose permit has been withdrawn, who has been refused a permit, or from whom weapons have been seized;
+- b.[^32b-3] the circumstances leading to the withdrawal or refusal of the permit;
 - c. the type and model of weapon and its number, and the date of its transfer;
 - d. the circumstances leading to seizure;
 - e. official rulings on seized weapons;
@@ -1188,9 +1184,9 @@ The DEBBWA database contains the following data:
 
 The DAWA database contains the following data:
 
-- a. the personal data and insurance number of any person who takes over possession of a weapon on leaving the army;
-- b. the personal data and insurance number of any person whose personal or borrowed weapon has been taken from them or confiscated from them under legislation on the armed forces;
-- c. the personal data and insurance number of any person who has not been given a weapon due to an impediment concerning the transfer of a personal army weapon under Article 113 of the Armed Forces Act of 3 February 1995[^32b-3];
+- a. the personal data and OASI number of any person who takes over possession of a weapon on leaving the army;
+- b. the personal data and OASI number of any person whose personal or borrowed weapon has been taken from them or confiscated from them under legislation on the armed forces;
+- c. the personal data and OASI number of any person who has not been given a weapon due to an impediment concerning the transfer of a personal army weapon under Article 113 of the Armed Forces Act of 3 February 1995[^32b-4];
 - d. the type and model of weapon and its number, and the date of its transfer or confiscation;
 - e. the circumstances leading to a weapon not being given to, being taken from, or being confiscated from a person;
 - f. official rulings on seized weapons;
@@ -1210,7 +1206,7 @@ The DARUE database contains the following data:
 The information system under Article 32*a* paragraph 2 contains the following data:
 
 - a. the personal data and registration number of the person acquiring and the person transferring possession of a weapon;
-- b.[^32b-4] the type of weapon or essential weapons component, manufacturer, description, calibre, weapon number, date of transfer and date of destruction;
+- b.[^32b-5] the type of weapon or essential weapons component, manufacturer, description, calibre, weapon number, date of transfer and date of destruction;
 - c. the personal data of the holder of the European Firearms Pass under Article 25*b* and the details contained therein;
 - d. the personal data of the holder of a permit to carry a weapon under Article 27 and the details contained therein.
 
@@ -1223,12 +1219,13 @@ The harmonised common information system under Article 32*a* paragraph 3 shall c
 - c. the personal data of the holder of a European Firearms Pass under Article 25*b* and the details contained therein;
 - d. the personal data of the holder of a permit to carry a weapon under Article 27 and the details contained therein.
 
-<sup>7</sup> The information systems under Article 32*a* paragraphs 2 and 3 may also contain the insurance number.
+<sup>7</sup> The information systems under Article 32*a* paragraphs 2 and 3 may also contain the OASI number.
 
 [^32b-1]: Amended by No I 5 of the FA of 25 Sept. 2015 on Improving the Exchange of Information between Authorities in relation to Weapons, in force since 1 July 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^32b-2]: Amended by the Annex to the FD of 28 Sept. 2018 on the approval and the implementation of the exchange of notes between Switzerland and the EU on the adoption of Directive (EU) 2017/853 on the Amendment of the EU Weapons Directive, in force since 15 Aug. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
-[^32b-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^32b-4]: Amended by the Annex to the FD of 28 Sept. 2018 on the approval and the implementation of the exchange of notes between Switzer-land and the EU on the adoption of Directive (EU) 2017/853 on the Amendment of the EU Weapons Directive, in force since 14 Dec. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
+[^32b-2]: Term in accordance with Annex No 15 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). This change has been made in the provisions specified in the AS.
+[^32b-3]: Amended by the Annex to the FD of 28 Sept. 2018 on the approval and the implementation of the exchange of notes between Switzerland and the EU on the adoption of Directive (EU) 2017/853 on the Amendment of the EU Weapons Directive, in force since 15 Aug. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
+[^32b-4]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^32b-5]: Amended by the Annex to the FD of 28 Sept. 2018 on the approval and the implementation of the exchange of notes between Switzer-land and the EU on the adoption of Directive (EU) 2017/853 on the Amendment of the EU Weapons Directive, in force since 14 Dec. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
 
 #### Art. 32c
 
@@ -1326,8 +1323,8 @@ The right to information is based on the federal or cantonal data protection pro
 
 The competent departments of the military authorities shall notify the Central Office of:
 
-- a. the identity and insurance number of any person to whom ownership of a weapon is transferred on leaving the army, and of the type of weapon and weapon number;
-- b. the identity and insurance number of any person whose personal weapon or borrowed weapon has been taken from them or confiscated, or who has not be given a personal or borrowed weapon under military legislation.[^32j-2]
+- a. the identity and OASI number of any person to whom ownership of a weapon is transferred on leaving the army, and of the type of weapon and weapon number;
+- b. the identity and OASI number of any person whose personal weapon or borrowed weapon has been taken from them or confiscated, or who has not be given a personal or borrowed weapon under military legislation.[^32j-2]
 
 [^32j-1]: Repealed by No I of the FA of 23 Dec. 2011, with effect from 1 Jan. 2013 ([AS 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 [^32j-2]: Amended by No I 5 of the FA of 25 Sept. 2015 on Improving the Exchange of Information between Authorities in relation to Weapons, in force since 1 July 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
@@ -1433,11 +1430,11 @@ For offences committed within a business, Articles 6 and 7 of the Administrative
 
 <sup>1</sup> The cantons prosecute and judge offences. The Confederation supports the co-ordination of law enforcement between the cantons.
 
-<sup>2</sup> The Federal Customs Administration examines and judges contraventions against this Act with regard to travelling in transit and bringing weapons into Switzerland.[^36-1]
+<sup>2</sup> The FOCBS examines and judges contraventions against this Act with regard to travelling in transit and bringing weapons into Switzerland.[^36-1]
 
 <sup>3</sup> If a contravention under paragraph 2 is also an offence under customs or VAT law, the penalty for the more serious offence is applicable; the penalty may be increased appropriately.
 
-[^36-1]: Amended by No I 5 of the FA of 25 Sept. 2015 on Improving the Exchange of Information between Authorities in relation to Weapons, in force since 1 July 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^36-1]: Amended by No I 13 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 37
 
@@ -1471,9 +1468,10 @@ For offences committed within a business, Articles 6 and 7 of the Administrative
 
 <sup>3</sup> It determines which authorities enter data into the federal databases.[^40-1]
 
-<sup>4</sup> It may delegate implementation tasks to the Federal Customs Administration.
+<sup>4</sup> It may delegate implementation tasks to the FOCBS.[^40-2]
 
 [^40-1]: Amended by 2 of the FD of 11 Dec. 2009 the Adoption and Implementation of the Exchange of Notes between Switzerland and the EC concerning the Adoption of Directive 2008/51/EC on Amending the Weapons Directive, in force since 28 July 2010 ([AS 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^40-2]: Amended by No I 13 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 41
 
@@ -1557,7 +1555,7 @@ The Schengen Association Agreements comprise:
 - b. the Agreement of 26 October 2004[^annexu1-lvlu1-2] in the form of an exchange of letters between the Council of the European Union and the Swiss Confederation on the Committees that assist the European Commission in the exercise of its executive powers;
 - c. the Agreement of 17 December 2004[^annexu1-lvlu1-3] between the Swiss Confederation, the Republic of Iceland and the Kingdom of Norway on the implementation, application and development of the Schengen Acquis and on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in Switzerland, Iceland or Norway;
 - d. Agreement of 28 April 2005[^annexu1-lvlu1-4] between the Swiss Confederation and the Kingdom of Denmark on the implementation, application and development of those parts of the Schengen Acquis that are based on the provisions of Title IV of the Treaty establishing the European Community;
-- e. the Protocol of 28 February 2008[^annexu1-lvlu1-5] between the Swiss Confederation, the European Union, the European Community and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the Swiss Confederation, the European Union and the European Community on the association of the Swiss Confederation with the implementation, application and development of the Schengen Acquis.
+- e. the Protocol of 28 February 2008[^annexu1-lvlu1-5] between the Swiss Confederation, the European Union, the European Community and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the Swiss Confederation, the European Union and the European Community on the association of the Swiss Confederation with the implementation, application and development of the Schengen Acquis..
 
 [^annexu1-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
 [^annexu1-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)

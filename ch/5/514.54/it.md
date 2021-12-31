@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 1997 sulle armi, gli accessori di armi e le
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: it
-version: 2020-09-01
+version: 2022-01-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20200901/it/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20200901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20200901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20200901/it"
 
 (Legge sulle armi, LArm)
 
-del 20 giugno 1997 (Stato 1° settembre 2020)
+del 20 giugno 1997 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -265,7 +265,7 @@ Il permesso d’acquisto di armi non è rilasciato alle persone che:
 
 <sup>2bis</sup> Le persone che, mediante acquisto per successione ereditaria, entrano in possesso di armi da fuoco o di parti essenziali di armi devono chiedere, entro sei mesi, un permesso d’acquisto di armi, eccetto che, entro tale termine, gli oggetti vengano alienati a un avente diritto.[^8-5]
 
-<sup>3</sup> a <sup>5</sup> …[^8-6]
+<sup>3</sup> a <sup>5</sup> ...[^8-6]
 
 [^8-1]: Nuovo testo giusta l’art. 3 n. 6 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. e; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-2]: Nuovo testo giusta l’art. 3 n. 6 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. e; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
@@ -644,11 +644,11 @@ L’esportazione e il transito, la mediazione a destinatari all’estero e il co
 
 #### Art. 22c
 
-**Controllo da parte dell’Amministrazione federale delle dogane**[^22c-1]
+**Controllo da parte dell’Ufficio federale della dogana e della sicurezza dei confini**[^22c-1]
 
-L’Amministrazione federale delle dogane effettua controlli a campione per verificare se vi è corrispondenza tra le indicazioni riportate sulla bolletta di scorta e le armi da fuoco, le loro parti essenziali o le munizioni destinate all’esportazione.
+L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) effettua controlli a campione per verificare se vi è corrispondenza tra le indicazioni riportate sulla bolletta di scorta e le armi da fuoco, le loro parti essenziali o le munizioni destinate all’esportazione.
 
-[^22c-1]: Introdotto dall’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, in vigore dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^22c-1]: Introdotto dall’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)). Nuovo testo giusta il n. I 13 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 23
 
@@ -658,7 +658,7 @@ L’Amministrazione federale delle dogane effettua controlli a campione per veri
 
 <sup>2</sup> Il Consiglio federale stabilisce le eccezioni.
 
-[^23-1]: Nuovo testo giusta il n. 6 dell’all. alla L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^23-1]: Nuovo testo giusta l’all. n. 6 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 [^23-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^23-3]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
@@ -981,7 +981,7 @@ L’autorità competente revoca un’autorizzazione ove:
 - a. le condizioni per il rilascio non siano più adempiute;
 - b. gli oneri del rilascio non siano più rispettati.
 
-<sup>2</sup> …[^30-1]
+<sup>2</sup> ...[^30-1]
 
 [^30-1]: Abrogato dal n. I della LF del 22 giu. 2007, con effetto dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
@@ -1156,15 +1156,11 @@ L’Ufficio centrale gestisce le seguenti banche dati:
 
 #### Art. 32a<sup>bis</sup>
 
-**Utilizzazione del numero d’assicurato**[^32abis-1]
+**Comunicazione del numero AVS**[^32abis-1]
 
-<sup>1</sup> Le autorità che trattano in linea i dati dei sistemi d’informazione di cui all’articolo 32*a* capoversi 1–3 hanno il diritto di utilizzare sistematicamente il numero d’assicurato di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^32abis-2] sull’assicurazione per la vecchiaia e per i superstiti.
+Le autorità che trattano in linea i dati dei sistemi d’informazione di cui all’articolo 32*a* capoversi 2 e 3 comunicano all’Ufficio centrale i numeri AVS di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^32abis-2] sull’assicurazione per la vecchiaia e per i superstiti, ai fini della loro utilizzazione nella DEBBWA e nella DAWA.
 
-<sup>2</sup> Il numero d’assicurato è utilizzato per lo scambio elettronico di dati con altre banche dati nelle quali il numero d’assicurato è pure utilizzato sistematicamente, sempre che tale scambio di dati mediante numero d’assicurato sia retto da una base legale formale, nonché per la gestione delle banche dati di cui all’articolo 32*a* capoversi 1 lettere c e d, 2 e 3.
-
-<sup>3</sup> Le autorità competenti comunicano all’Ufficio centrale i numeri d’assicurato ai fini di una loro utilizzazione nella DEBBWA e nella DAWA.
-
-[^32abis-1]: Introdotto dal n. I della LF del 23 dic. 2011, in vigore dal 1° gen. 2013 ([RU 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [FF 2011 4077](https://fedlex.data.admin.ch/eli/fga/2011/715)). Nuovo testo giusta il n. I 5 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32abis-1]: Introdotto dal n. I della LF del 23 dic. 2011, in vigore dal 1° gen. 2013 ([RU 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [FF 2011 4077](https://fedlex.data.admin.ch/eli/fga/2011/715)). Nuovo testo giusta l’all. n. 15 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^32abis-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 32b
@@ -1183,8 +1179,8 @@ La DEWA e la DEWS contengono i dati seguenti:
 
 La DEBBWA contiene i dati seguenti:
 
-- a. generalità e numero d’assicurato delle persone cui è stata rifiutata o revocata un’autorizzazione oppure sequestrata un’arma;
-- b.[^32b-2] circostanze che hanno portato al rifiuto o alla revoca dell’autorizzazione;
+- a. generalità e numero AVS[^32b-2] delle persone cui è stata rifiutata o revocata un’autorizzazione oppure sequestrata un’arma;
+- b.[^32b-3] circostanze che hanno portato al rifiuto o alla revoca dell’autorizzazione;
 - c. tipo, genere e numero dell’arma, nonché data dell’alienazione;
 - d. circostanze che hanno portato al sequestro;
 - e. decisioni relative ad armi sequestrate;
@@ -1194,9 +1190,9 @@ La DEBBWA contiene i dati seguenti:
 
 La DAWA contiene i dati seguenti:
 
-- a. generalità e numero d’assicurato delle persone cui al proscioglimento dall’obbligo militare è stata ceduta in proprietà un’arma;
-- b. generalità e numero d’assicurato delle persone cui, in base alla legislazione militare, è stata ritirata a titolo cautelare o definitivo l’arma personale o l’arma in prestito;
-- c. generalità e numero d’assicurato delle persone cui non è stata consegnata un’arma personale per motivi d’impedimento ai sensi dell’articolo 113 della legge militare del 3 febbraio 1995[^32b-3];
+- a. generalità e numero AVS delle persone cui al proscioglimento dall’obbligo militare è stata ceduta in proprietà un’arma;
+- b. generalità e numero AVS delle persone cui, in base alla legislazione militare, è stata ritirata a titolo cautelare o definitivo l’arma personale o l’arma in prestito;
+- c. generalità e numero AVS delle persone cui non è stata consegnata un’arma personale per motivi d’impedimento ai sensi dell’articolo 113 della legge militare del 3 febbraio 1995[^32b-4];
 - d. tipo, genere e numero dell’arma, nonché data dell’alienazione o del ritiro definitivo;
 - e. circostanze che hanno portato al ritiro cautelare, al ritiro definitivo o alla mancata consegna dell’arma;
 - f. decisioni relative ad armi sequestrate;
@@ -1216,7 +1212,7 @@ La DARUE contiene i dati seguenti:
 Il sistema d’informazione di cui all’articolo 32*a* capoverso 2 contiene i dati seguenti:
 
 - a. generalità e numero di registro dell’acquirente e dell’alienante;
-- b.[^32b-4] tipo di arma o di parte essenziale di arma, fabbricante, designazione, calibro, numero dell’arma, data dell’alienazione e data della distruzione;
+- b.[^32b-5] tipo di arma o di parte essenziale di arma, fabbricante, designazione, calibro, numero dell’arma, data dell’alienazione e data della distruzione;
 - c. generalità dei titolari di una carta europea d’arma da fuoco secondo l’articolo 25*b* e le indicazioni che vi figurano;
 - d. generalità dei titolari di un permesso di porto di armi secondo l’articolo 27 e le indicazioni che vi figurano.
 
@@ -1229,12 +1225,13 @@ Il sistema d’informazione comune armonizzato di cui all’articolo 32*a* capov
 - c. generalità dei titolari di una carta europea d’arma da fuoco secondo l’articolo 25*b* e le indicazioni che vi figurano;
 - d. generalità dei titolari di un permesso di porto di armi secondo l’articolo 27 e le indicazioni che vi figurano.
 
-<sup>7</sup> I sistemi d’informazione di cui all’articolo 32*a* capoversi 2 e 3 possono contenere anche il numero d’assicurato.
+<sup>7</sup> I sistemi d’informazione di cui all’articolo 32*a* capoversi 2 e 3 possono contenere anche il numero AVS.
 
 [^32b-1]: Nuovo testo giusta il n. I 5 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^32b-2]: Nuovo testo giusta l’all. del DF del 28 set. 2018 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento della direttiva (UE) 2017/853 che modifica la direttiva UE sulle armi, in vigore dal 15 ago. 2019 ([RU 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [FF 2018 1555](https://fedlex.data.admin.ch/eli/fga/2018/731)).
-[^32b-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^32b-4]: Nuovo testo giusta l’all. del DF del 28 set. 2018 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento della direttiva (UE) 2017/853 che modifica la direttiva UE sulle armi, in vigore dal 14 dic. 2019 ([RU 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [FF 2018 1555](https://fedlex.data.admin.ch/eli/fga/2018/731)).
+[^32b-2]: Nuova espr. giusta l’all. n. 15 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^32b-3]: Nuovo testo giusta l’all. del DF del 28 set. 2018 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento della direttiva (UE) 2017/853 che modifica la direttiva UE sulle armi, in vigore dal 15 ago. 2019 ([RU 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [FF 2018 1555](https://fedlex.data.admin.ch/eli/fga/2018/731)).
+[^32b-4]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^32b-5]: Nuovo testo giusta l’all. del DF del 28 set. 2018 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento della direttiva (UE) 2017/853 che modifica la direttiva UE sulle armi, in vigore dal 14 dic. 2019 ([RU 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [FF 2018 1555](https://fedlex.data.admin.ch/eli/fga/2018/731)).
 
 #### Art. 32c
 
@@ -1326,14 +1323,14 @@ Il diritto d’accesso è retto dalle disposizioni federali o cantonali in mater
 
 **Comunicazioni nell’ambito dell’amministrazione militare**
 
-<sup>1</sup> …[^32j-1]
+<sup>1</sup> ...[^32j-1]
 
 <sup>2</sup>
 
 I servizi competenti dell’amministrazione militare comunicano all’Ufficio centrale:
 
-- a. l’identità e il numero d’assicurato delle persone cui al proscioglimento dall’obbligo militare è stata ceduta in proprietà un’arma, nonché il tipo e il numero dell’arma;
-- b. l’identità e il numero d’assicurato delle persone cui, in base alla legislazione militare, l’arma personale o l’arma in prestito è stata ritirata a titolo cautelare o definitivo, o cui non è stata consegnata alcuna arma personale o in prestito.[^32j-2]
+- a. l’identità e il numero AVS delle persone cui al proscioglimento dall’obbligo militare è stata ceduta in proprietà un’arma, nonché il tipo e il numero dell’arma;
+- b. l’identità e il numero AVS delle persone cui, in base alla legislazione militare, l’arma personale o l’arma in prestito è stata ritirata a titolo cautelare o definitivo, o cui non è stata consegnata alcuna arma personale o in prestito.[^32j-2]
 
 [^32j-1]: Abrogato dal n. I della LF del 23 dic. 2011, con effetto dal 1° gen. 2013 ([RU 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [FF 2011 4077](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 [^32j-2]: Nuovo testo giusta il n. I 5 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
@@ -1381,7 +1378,7 @@ Le competenti autorità cantonali e i servizi di comunicazione trasmettono all�
 È punito con una pena detentiva fino a cinque anni o con una pena pecuniaria chiunque senza diritto, intenzionalmente e per mestiere:
 
 - a.[^33-6] offre, aliena, procura per mediazione, fabbrica, ripara, modifica, trasforma, esporta in uno Stato Schengen o introduce sul territorio svizzero armi, parti di armi, essenziali o costruite appositamente, accessori di armi, munizioni o elementi di munizioni;
-- b.[^33-7] …
+- b.[^33-7] ...
 - c.[^33-8] offre, acquista, aliena o procura per mediazione armi da fuoco, loro parti essenziali o costruite appositamente, accessori di armi o munizioni non con-trassegnati conformemente all’articolo 18*a* o 18*b* o introdotti illecitamente sul territorio svizzero.
 
 [^33-1]: Nuovo testo giusta il n. I della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
@@ -1438,11 +1435,11 @@ Alle infrazioni commesse nell’azienda sono applicabili gli articoli 6 e 7 dell
 
 <sup>1</sup> Procedimento e giudizio delle infrazioni spettano ai Cantoni. La Confederazione sostiene il coordinamento del procedimento tra i Cantoni.
 
-<sup>2</sup> L’Amministrazione federale delle dogane è competente per il procedimento e il giudizio delle contravvenzioni alla presente legge in materia di transito nel traffico turistico e di introduzione di armi sul territorio svizzero.[^36-1]
+<sup>2</sup> L’UDSC è competente per il procedimento e il giudizio delle contravvenzioni alla presente legge in materia di transito nel traffico turistico e di introduzione di armi sul territorio svizzero.[^36-1]
 
 <sup>3</sup> Se una contravvenzione secondo il capoverso 2 è parimenti un’infrazione contro la legislazione sulle dogane o la legislazione relativa all’imposta sul valore aggiunto, la pena è quella prevista per l’infrazione più grave; può essere aumentata in modo appropriato.
 
-[^36-1]: Nuovo testo giusta il n. I 5 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^36-1]: Nuovo testo giusta il n. I 13 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 37
 
@@ -1476,9 +1473,10 @@ Alle infrazioni commesse nell’azienda sono applicabili gli articoli 6 e 7 dell
 
 <sup>3</sup> Designa le autorità che immettono direttamente i dati nelle banche dati della Confederazione.[^40-1]
 
-<sup>4</sup> Può deferire compiti d’esecuzione all’Amministrazione delle dogane.
+<sup>4</sup> Può deferire compiti d’esecuzione all’UDSC.[^40-2]
 
 [^40-1]: Nuovo testo giusta l’art. 2 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE relativo al recepimento della direttiva 2008/51/CE che modifica la direttiva sulle armi, in vigore dal 28 lug. 2010 ([RU 2010 2899](https://fedlex.data.admin.ch/eli/oc/2010/382); [FF 2009 3051](https://fedlex.data.admin.ch/eli/fga/2009/730)).
+[^40-2]: Nuovo testo giusta il n. I 13 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 41
 
@@ -1498,19 +1496,18 @@ Alle infrazioni commesse nell’azienda sono applicabili gli articoli 6 e 7 dell
 
 <sup>4</sup> Chiunque in base al diritto previgente è già in possesso di un’autorizzazione d’importazione, d’esportazione e di transito a titolo professionale di armi, parti essenziali di armi, munizioni ed elementi di munizione può continuare a introdurre sul territorio svizzero e a esportare questi oggetti sulla base di tale autorizzazione.[^42-3]
 
-<sup>5</sup> Chiunque è già in possesso di armi, parti di armi, essenziali o costruite appositamente secondo l’articolo 5[^42-4] capoverso 2, oppure accessori di armi secondo l’articolo 5 capoverso 1 lettera g deve notificarlo alle autorità cantonali competenti per il rilascio delle autorizzazioni eccezionali entro tre mesi dall’entrata in vigore della presente disposizione.[^42-5]
+<sup>5</sup> Chiunque è già in possesso di armi, parti di armi, essenziali o costruite appositamente secondo l’articolo 5 capoverso 2, oppure accessori di armi secondo l’articolo 5 capoverso 1 lettera g deve notificarlo alle autorità cantonali competenti per il rilascio delle autorizzazioni eccezionali entro tre mesi dall’entrata in vigore della presente disposizione.[^42-4]
 
-<sup>6</sup> Entro sei mesi dall’entrata in vigore del divieto ai sensi dell’articolo 5 capoverso 2 può essere presentata una domanda di autorizzazione eccezionale. La presente disposizione non si applica a chi è già in possesso di un’autorizzazione eccezionale per l’acquisto di un’arma. Chi non intende presentare tale domanda deve, entro sei mesi dall’entrata in vigore del divieto, alienare gli oggetti a una persona legittimata.[^42-6]
+<sup>6</sup> Entro sei mesi dall’entrata in vigore del divieto ai sensi dell’articolo 5 capoverso 2 può essere presentata una domanda di autorizzazione eccezionale. La presente disposizione non si applica a chi è già in possesso di un’autorizzazione eccezionale per l’acquisto di un’arma. Chi non intende presentare tale domanda deve, entro sei mesi dall’entrata in vigore del divieto, alienare gli oggetti a una persona legittimata.[^42-5]
 
-<sup>7</sup> Se la domanda di autorizzazione eccezionale è respinta, gli oggetti in questione devono essere alienati a una persona legittimata entro quattro mesi dalla reiezione.[^42-7]
+<sup>7</sup> Se la domanda di autorizzazione eccezionale è respinta, gli oggetti in questione devono essere alienati a una persona legittimata entro quattro mesi dalla reiezione.[^42-6]
 
 [^42-1]: [[RU 1973 113](https://fedlex.data.admin.ch/eli/oc/1973/108_107_113). [RU 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794)art. 44]
 [^42-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^42-3]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^42-4]: Questo articolo ha ora un nuovo testo.
+[^42-4]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^42-5]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^42-6]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^42-7]: Introdotto dal n. I della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 42a
 
@@ -1547,7 +1544,7 @@ La dichiarazione ai sensi del capoverso 1 non è necessaria per:
 
 Data dell’entrata in vigore: 1° gennaio 1999[^43-1]
 
-[^43-1]: DCF del 21 set. 1998
+[^43-1]: DCF del 21 set. 1998.
 
 Allegato*[^t-1]*
 
