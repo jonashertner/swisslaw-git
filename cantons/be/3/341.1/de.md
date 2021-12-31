@@ -4,13 +4,13 @@ number: "341.1"
 title: Gesetz über den Justizvollzug
 short: "Justizvollzugsgesetz, JVG"
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+valid_until: 2026-04-30
+version_adopted: 2021-03-09
 adopted: 2018-01-23
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/341.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2351/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2351/pdf_file"
 
 (Justizvollzugsgesetz, JVG)
 
-vom 23.01.2018 (Stand 01.04.2021)
+vom 23.01.2018 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -225,9 +225,9 @@ beschliesst:
 
 **Private Einrichtungen**
 
-<sup>1</sup> Die Sicherheitsdirektion kann im Rahmen des Bundesrechts bei Bedarf privaten Einrichtungen mit einer Betriebsbewilligung nach der Sozialhilfegesetzgebung die Bewilligung erteilen, Freiheitsstrafen und freiheitsentziehende strafrechtliche Massnahmen an Erwachsenen zu vollziehen.
+<sup>1</sup> Die Sicherheitsdirektion kann im Rahmen des Bundesrechts bei Bedarf privaten Einrichtungen mit einer Betriebsbewilligung nach der Gesetzgebung über die sozialen Leistungsangebote die Bewilligung erteilen, Freiheitsstrafen und freiheitsentziehende strafrechtliche Massnahmen an Erwachsenen zu vollziehen.
 
-<sup>2</sup> Ausnahmsweise kann sie einer privaten Einrichtung eigenständig eine Betriebsbewilligung erteilen. Sie berücksichtigt die Vorgaben der Sozialhilfegesetzgebung sinngemäss und hört die zuständige Stelle nach der Sozialhilfegesetzgebung an.
+<sup>2</sup> Ausnahmsweise kann sie einer privaten Einrichtung eigenständig eine Betriebsbewilligung erteilen. Sie berücksichtigt die Vorgaben der Gesetzgebung über die sozialen Leistungsangebote sinngemäss und hört die zuständige Stelle nach der Gesetzgebung über die sozialen Leistungsangebote an.
 
 <sup>3</sup> Eine Bewilligung gemäss Absatz 1 kann erteilt werden, wenn die private Einrichtung die öffentliche Sicherheit gewährleistet und
 

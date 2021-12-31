@@ -4,13 +4,13 @@ number: "341.1"
 title: "Loi sur l'exécution judiciaire"
 short: LEJ
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+valid_until: 2026-04-30
+version_adopted: 2021-03-09
 adopted: 2018-01-23
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/341.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2351/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2471/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2351/pdf_file"
 
 (LEJ)
 
-du 23.01.2018 (état au 01.04.2021)
+du 23.01.2018 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -239,9 +239,9 @@ arrête:
 
 **Établissements privés**
 
-<sup>1</sup> La Direction de la sécurité peut, dans le cadre du droit fédéral et en cas de besoin, autoriser des établissements privés au bénéfice d'une autorisation d'exploiter en vertu de la législation sur l'aide sociale à exécuter des peines privatives de liberté et des mesures privatives de liberté de droit pénal concernant des adultes.
+<sup>1</sup> La Direction de la sécurité peut, dans le cadre du droit fédéral et en cas de besoin, autoriser des établissements privés au bénéfice d’une autorisation d’exploiter en vertu de la législation sur les programmes d’action sociale à exécuter des peines privatives de liberté et des mesures privatives de liberté de droit pénal concernant des adultes.
 
-<sup>2</sup> Dans des cas exceptionnels, elle peut délivrer une autorisation d'exploiter à un établissement privé de manière autonome. Elle applique ce faisant les prescriptions de la législation sur l'aide sociale par analogie et entend le service compétent en vertu de cette législation.
+<sup>2</sup> Dans des cas exceptionnels, elle peut délivrer une autorisation d’exploiter à un établissement privé de manière autonome. Elle applique ce faisant les prescriptions de la législation sur les programmes d’action sociale par analogie et entend le service compétent en vertu de cette législation.
 
 <sup>3</sup> Une autorisation peut être octroyée sur la base de l'alinéa 1 si l'établissement privé assure la sécurité publique et
 
