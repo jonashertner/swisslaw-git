@@ -4,13 +4,13 @@ number: "251.200"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: EG StPO
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-08
+version: 2022-01-01
+valid_until: 2024-05-31
+version_adopted: 2021-03-23
 adopted: 2010-03-16
 in_force: 2011-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/251.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2985/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3168/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2985/pdf_file"
 
 (EG StPO)
 
-Vom 16.03.2010 (Stand 01.07.2021)
+Vom 16.03.2010 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -323,7 +323,12 @@ beschliesst:
 
 <sup>4</sup> Die Staatsanwaltschaften können medizinischen Hilfskräften, Ärzten und Spitälern Einsicht in Obduktionsgutachten gewähren, wenn sie die das Gutachten betreffende Person vor dem Tod medizinisch betreut haben.
 
+<sup>4<sup>bis</sup></sup> Die Kantonspolizei ist die für Fälle häuslicher Gewalt zuständige Stelle gemäss Art. 55a Abs. 2 StGB.
+
+<sup>5</sup> Die Staatsanwaltschaften und die Gerichte informieren die Fachstellen gemäss § 41a Abs. 2 des Gesetzes über die öffentliche Sozialhilfe und die soziale Prävention (Sozialhilfe- und Präventionsgesetz, SPG) vom 6. März 2001[^24-2] über Sistierungen und Einstellungen von Verfahren gemäss Art. 55a StGB.
+
 [^24-1]: SAR [531.200](https://gesetzessammlungen.ag.ch/data/531.200/de)
+[^24-2]: SAR [851.200](https://gesetzessammlungen.ag.ch/data/851.200/de)
 
 #### § 25
 
