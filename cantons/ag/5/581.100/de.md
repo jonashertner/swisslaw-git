@@ -4,13 +4,12 @@ number: "581.100"
 title: Feuerwehrgesetz
 short: FwG
 language: de
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-03-16
+version: 2022-01-01
+version_adopted: 2020-12-08
 adopted: 1971-03-23
 in_force: 1973-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/581.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1663/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3751/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1663/pdf_file"
 
 (FwG)
 
-Vom 23.03.1971 (Stand 01.01.2013)
+Vom 23.03.1971 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -81,7 +80,7 @@ beschliesst:
 
 <sup>1</sup> Der Gemeinderat ist für den guten Stand des Feuerwehrwesens verantwortlich.
 
-<sup>2</sup> Er wählt eine Feuerwehrkommission, bestehend aus dem Feuerwehrkommandanten, einem Mitglied des Gemeinderates, dem Ortschef bzw. dem Kommandanten der Kriegsfeuerwehr und einem bis sieben weiteren Mitgliedern. Der Gemeinderat bestimmt den Präsidenten.
+<sup>2</sup> Er wählt eine Feuerwehrkommission, bestehend aus dem Feuerwehrkommandanten, einem Mitglied des Gemeinderates und einem bis sieben weiteren Mitgliedern. Der Gemeinderat bestimmt den Präsidenten.
 
 <sup>3</sup> Er bestimmt die Höhe des Soldes und allfälliger Entschädigungen und entscheidet über die ihm von der Kommission gemäss § 6 Ziff. 5 gestellten Anträge.
 
@@ -100,9 +99,9 @@ beschliesst:
   - b) Sold und allfällige Entschädigungen,
   - c) Aufstellung des Feuerwehrbudgets,
   - d) Versicherung der Feuerwehr,
-  - e) Ernennung von Chargierten,
+  - e) Beförderungen,
   - f) Besuch von Kursen,
-  - g) jährliche schriftliche Orientierung der Bevölkerung über die Feuermeldeorganisation.
+  - g) …
 
 #### § 6a
 
@@ -189,9 +188,9 @@ beschliesst:
 
 #### § 12
 
-**Krankheit und Unfall, Versicherung**
+**Krankheit und Unfall, Versicherungswesen**
 
-<sup>1</sup> Die Gemeinden haben alle, die aktiven Dienst leisten, bei der Hilfskasse des Schweizerischen Feuerwehrverbandes oder mit Zustimmung der Aargauischen Gebäudeversicherung bei einem andern Versicherer gegen die Folgen von Krankheit und Unfall zu versichern, wobei die Aargauische Gebäudeversicherung die nähern Bedingungen festsetzt und den Gemeinden an die Prämien einen Beitrag von 50 % gewährt.
+<sup>1</sup> Die Gemeinden haben alle, die aktiv Dienst leisten, gemäss den Vorgaben der Aargauischen Gebäudeversicherung über die obligatorischen Versicherungen hinaus zu versichern. Im Umfang der verlangten Zusatzdeckungen leistet die Aargauische Gebäudeversicherung den Gemeinden an die Prämien einen Beitrag von 50 %.
 
 <sup>2</sup> Die Aargauische Gebäudeversicherung versichert auf ihre Kosten gegen Unfall die nichtdienstpflichtigen Personen, welche bei Brandfällen, Elementarereignissen und Feuerwehrübungen Hilfe leisten.
 
@@ -207,7 +206,7 @@ beschliesst:
 - d) die Ausrüstung,
 - e) das Alarmwesen,
 - f) die Dienstbereitschaft,
-- g) den Übungs- und Branddienst,
+- g) den Übungs- und Einsatzdienst,
 - h) das Rapport- und Kontrollwesen,
 - i) die Versicherung der Feuerwehren,
 - k) die Ordnungsbussen.
@@ -252,7 +251,7 @@ beschliesst:
 
 <sup>1</sup> Das Material und die Einrichtungen sind stets einsatzbereit zu halten und in jederzeit zugänglichen und zweckmässigen Räumen unterzubringen.
 
-<sup>2</sup> Durch die Organisation von Piketten mit besonderen Gruppenalarmeinrichtungen ist der rasche Einsatz sicherzustellen. Soweit möglich sind mehrere Gemeinden in einer Alarmstelle zusammenzufassen.
+<sup>2</sup> Durch die Organisation von Gruppenalarmeinrichtungen ist der rasche Einsatz sicherzustellen. Soweit möglich sind mehrere Gemeinden in einer Alarmstelle zusammenzufassen.
 
 <sup>3</sup> Die Funktionsfähigkeit der Löscheinrichtungen, insbesondere der Löschreserve und der Alarmeinrichtungen, ist periodisch zu kontrollieren.
 
@@ -268,17 +267,17 @@ beschliesst:
 
 #### § 20
 
-**Betriebsfeuerwehren und Löschgruppen**
+**Betriebsfeuerwehren und Betriebslöschgruppen**
 
-<sup>1</sup> Wo es die Aargauische Gebäudeversicherung als notwendig erachtet, sind besondere Betriebsfeuerwehren oder Löschgruppen zu organisieren. Für diese sind Reglemente zu erlassen, welche der Genehmigung durch die Aargauische Gebäudeversicherung bedürfen.
+<sup>1</sup> Wo es die Aargauische Gebäudeversicherung als notwendig erachtet, sind besondere Betriebsfeuerwehren oder Betriebslöschgruppen zu organisieren. Für diese sind Reglemente zu erlassen, die der Genehmigung durch die Aargauische Gebäudeversicherung bedürfen.
 
-<sup>2</sup> Alle Einrichtungen dieser Art sowie die Übungen der Betriebsfeuerwehren und Löschgruppen unterstehen der Aufsicht und Kontrolle des zuständigen Feuerwehrkommandos.
+<sup>2</sup> Alle Einrichtungen dieser Art sowie die Übungen der Betriebsfeuerwehren und Betriebslöschgruppen unterstehen der Aufsicht und Kontrolle des zuständigen Feuerwehrkommandos.
 
 <sup>3</sup> Die Betriebsfeuerwehren sind den Gemeindefeuerwehren gleichgestellt. Der Dienst in einer Betriebsfeuerwehr gilt als aktiver Dienst im Sinne von § 7 Abs. 3[^20-1].
 
 <sup>4</sup> Die Rekrutierung der Mannschaft der Betriebsfeuerwehr wird von der Leitung des Betriebes im Einvernehmen mit der zuständigen Feuerwehrkommission der Gemeinde vorgenommen. Im Falle von Differenzen über die Zuteilung entscheidet die Aargauische Gebäudeversicherung endgültig.
 
-<sup>5</sup> Löschgruppen werden dort gebildet, wo der Feuerwehreinsatz der Betriebsangehörigen lediglich während der ordentlichen Arbeitszeit sichergestellt ist. Der Dienst in einer Löschgruppe entbindet nicht von der Feuerwehrpflicht in der Wohngemeinde gemäss § 7 Abs. 1.
+<sup>5</sup> Betriebslöschgruppen werden dort gebildet, wo der Feuerwehreinsatz der Betriebsangehörigen lediglich während der ordentlichen Arbeitszeit sichergestellt ist. Der Dienst in einer Betriebslöschgruppe entbindet nicht von der Feuerwehrpflicht in der Wohngemeinde gemäss § 7 Abs. 1.
 
 [^20-1]: Heute: § 7 Abs. 4
 
@@ -292,11 +291,11 @@ beschliesst:
 
 #### § 22
 
-**Ausbildung der Chargierten und Spezialisten**
+**Ausbildung der Angehörigen der Feuerwehr**
 
-<sup>1</sup> Die Aargauische Gebäudeversicherung führt Kurse durch zur Ausbildung von Feuerwehrinstruktoren, Chargierten und mit einer Spezialaufgabe betrauten Feuerwehrpflichtigen. Sie kann hiefür Fachverbände zur Mithilfe beiziehen.
+<sup>1</sup> Die Aargauische Gebäudeversicherung führt Kurse durch zur Ausbildung von Feuerwehrinstruktoren und Angehörigen der Feuerwehr. Sie kann hiefür Fachverbände zur Mithilfe beiziehen.
 
-<sup>2</sup> Den Kursteilnehmern wird auf Kosten der Aargauischen Gebäudeversicherung ein Sold ausgerichtet, dessen Höhe vom Verwaltungsrat festgesetzt wird.
+<sup>2</sup> …
 
 <sup>3</sup> Die Gemeinden haben eine angemessene Verdienstausfallentschädigung zu entrichten. Der Regierungsrat erlässt hiefür Richtlinien.
 
@@ -312,14 +311,14 @@ beschliesst:
 
 <sup>1</sup> Die Ausbildung in der Gemeinde obliegt dem Feuerwehrkommandanten und den Chargierten.
 
-<sup>2</sup> Die Feuerwehrkommission hat zu Beginn des Jahres einen Übungsplan aufzustellen. Jährlich sind mindestens folgende Übungen durchzuführen:
+<sup>2</sup> Die Feuerwehrkommission hat zu Beginn des Jahres einen Übungsplan aufzustellen. Die Aargauische Gebäudeversicherung legt das Minimum an Übungen fest.
 
-- a) vier Instruktionsübungen mit der Mannschaft,
-- b) eine Hauptübung mit dem Korps, verbunden mit einer Inspektion der Geräte und der persönlichen Ausrüstung,
-- c) die für das Kader und die Spezialisten notwendigen Instruktionen,
-- d) periodische Alarmübungen nach Anordnung des Kommandanten,
+- a) …
+- b) …
+- c) …
+- d) …
 
-<sup>3</sup> Die Übungen sind auf das ganze Jahr zu verteilen. Auf die Arbeitszeit der Feuerwehrpflichtigen ist nach Möglichkeit Rücksicht zu nehmen.
+<sup>3</sup> …
 
 <sup>4</sup> Der Besuch sämtlicher von den zuständigen Organen angeordneten Übungen ist obligatorisch.
 
@@ -329,7 +328,7 @@ beschliesst:
 
 <sup>1</sup> Die Feuerwehr ist berechtigt, unter möglichster Schonung des Eigentums private und öffentliche Liegenschaften zu betreten.
 
-### 2.6. Brand- und Wehrdienste
+### 2.6. Einsatzdienst
 
 #### § 26
 
@@ -381,9 +380,9 @@ beschliesst:
 
 **Rapporte**
 
-<sup>1</sup> Über den Brandfall hat der Feuerwehrkommandant dem Gemeinderat zuhanden der Aargauischen Gebäudeversicherung einen Rapport auf vorgeschriebenem Formular zu erstatten.
+<sup>1</sup> Über den Einsatz ist der Aargauischen Gebäudeversicherung in der von ihr vorgeschriebenen Form zu rapportieren.
 
-<sup>2</sup> Er meldet der Aargauischen Gebäudeversicherung nach Formular die Ereignisse, die zum Einsatz der Feuerwehr Anlass gegeben haben.
+<sup>2</sup> …
 
 #### § 33
 
@@ -393,11 +392,11 @@ beschliesst:
 
 **Nachbarliche Hilfeleistung**
 
-<sup>1</sup> Jede Gemeinde hat bei Wehrdiensten, die nicht weiter als 6 km von ihrer Grenze nötig werden, auf Verlangen mit ihrer Feuerwehr unentgeltliche Hilfe zu leisten.
+<sup>1</sup> Jede Gemeinde hat bei Einsatzdiensten, die nicht weiter als 6 km von ihrer Grenze nötig werden, auf Verlangen mit ihrer Feuerwehr unentgeltliche Hilfe zu leisten.
 
 <sup>2</sup> Ihr Kommandant unterstellt sich dem Feuerwehrkommandanten der vom Schaden betroffenen Gemeinde. Er darf mit seiner Mannschaft nur im Einverständnis mit dem Feuerwehrkommandanten der betroffenen Gemeinde den Schadenplatz verlassen.
 
-<sup>3</sup> Die Aargauische Gebäudeversicherung kann Feuerwehren, welche bei Wehrdiensten durch besonders raschen Einsatz einer anderen Gemeinde Hilfe geleistet haben, eine Prämie bezahlen.
+<sup>3</sup> Die Aargauische Gebäudeversicherung kann Feuerwehren, die bei Einsatzdiensten durch besonders raschen Einsatz einer anderen Gemeinde Hilfe geleistet haben, eine Prämie bezahlen.
 
 #### § 35
 
@@ -417,7 +416,7 @@ beschliesst:
 
 <sup>1</sup> Für den Transport der Feuerwehrgeräte haben die Gemeinden geeignete Motorfahrzeuge anzuschaffen, wenn die Gemeinde nicht durch die Aargauische Gebäudeversicherung aus triftigen Gründen hievon befristet entbunden wird.
 
-<sup>2</sup> Im Notfall ist das Feuerwehrkommando berechtigt, die nötigen Transportmittel gegen Entschädigung zu requirieren. Für allfälligen Schaden haftet die Gemeinde (§ 16).
+<sup>2</sup> Im Notfall ist das Feuerwehrkommando berechtigt, die nötigen Transportmittel gegen Entschädigung zu requirieren.
 
 ## 3. Beschwerdeverfahren
 
@@ -430,8 +429,8 @@ beschliesst:
 <sup>2</sup> Die Beschwerden sind innert 30 Tagen, von der Zustellung an gerechnet, einzureichen, und zwar gegen Verfügungen und Entscheide:
 
 - a) der Feuerwehrkommission beim Gemeinderat,
-- b) des Gemeinderates beim Amt,
-- c) des Amtes beim Regierungsrat.
+- b) des Gemeinderates bei der Aargauischen Gebäudeversicherung,
+- c) der Aargauischen Gebäudeversicherung beim Regierungsrat.
 
 ## 4. Straf- und Vollzugsbestimmungen
 
