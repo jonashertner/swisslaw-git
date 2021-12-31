@@ -4,7 +4,7 @@ number: "120.015"
 title: "DÉCRET du 05.06.2018 sur la prévention de la radicalisation et de l'extrémisme violent (DPREV)"
 short: DPREV
 language: fr
-version: 2018-06-05
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/120.015?id=70d7e1d8-cc7b-4092-9add-ef5f18deca06"
 ---
 
@@ -94,7 +94,7 @@ décrète
 
 <sup>1</sup> Le présent décret entre en vigueur dès son acceptation par le Grand Conseil.
 
-<sup>2</sup> Sa validité est limitée au 30 juin 2021.
+<sup>2</sup> Sa validité est limitée au 30 juin 2024.
 
 <sup>3</sup> La politique publique de prévention mise en place au moyen du présent décret fera l'objet d'une procédure d'évaluation.
 
