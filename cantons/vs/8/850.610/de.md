@@ -3,53 +3,51 @@ canton: VS
 number: "850.610"
 title: Verordnung über die Organisation und den Betrieb von La Castalie
 language: de
-version: 2013-02-15
-corrected: 2017-10-13
-version_adopted: 2013-01-23
+version: 2022-01-01
+version_adopted: 2021-12-01
 adopted: 2011-10-26
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.610"
-pdf: "https://lex.vs.ch/api/de/versions/147/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2988/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Organisation und den Betrieb von La Castalie
 
-vom 26. Oktober 2011
+vom 26.10.2011 (Stand 01.01.2022)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;
 
-eingesehen Artikel 4bis des Gesetzes über die Eingliederung behinderter Menschen vom 31. Januar 1991;
+eingesehen Artikel 4a des Gesetzes über die Rechte und die Inklusion von Menschen mit Behinderungen vom 31. Januar 1991 (GRIMB);
 
-auf Antrag des Departements für Sicherheit, Sozialwesen und Integration,
+auf Antrag des mit dem Sozialwesen beauftragten Departements,
 
 verordnet:
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck und Anwendungsbereich**
 
-Die vorliegende Verordnung präzisiert und vervollständigt die Bestimmungen des Gesetzes über die Eingliederung behinderter Menschen vom 31. Januar 1991 (nachstehend GEBM) betreffend die Organisation und den Betrieb von La Castalie.
+<sup>1</sup> Die vorliegende Verordnung präzisiert und vervollständigt die Bestimmungen des Gesetzes über die Rechte und die Inklusion von Menschen mit Behinderungen (GRIMB) betreffend die Organisation und den Betrieb von La Castalie.
 
-### 2. Abschnitt: Statut, Aufgabe und Zuständigkeiten
+## 2 Statut, Aufgabe und Zuständigkeiten
 
 #### Art. 2
 
 **Statut**
 
-Gemäss Artikel 4bis GEBM ist La Castalie eine selbstständige öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit mit Sitz in Monthey.
+<sup>1</sup> Gemäss Artikel 4a GRIMB ist La Castalie eine selbstständige öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit mit Sitz in Monthey.
 
 #### Art. 3
 
 **Aufgabe**
 
-<sup>1</sup> La Castalie hat zur Aufgabe, jeder geistig oder mehrfach behinderten Person hinsichtlich einer Aktivierung der Ressourcen und einer harmonischen persönlichen Entwicklung einen angepassten Lebensrahmen und ein individualisiertes Betreuungsprogramm zu bieten.
+<sup>1</sup> La Castalie hat zur Aufgabe, Menschen mit geistigen oder mehrfachen Behinderungen hinsichtlich einer Aktivierung der Ressourcen und einer harmonischen persönlichen Entwicklung einen angepassten Lebensrahmen und ein individualisiertes Betreuungsprogramm zu bieten.
 
 <sup>2</sup> La Castalie setzt bezüglich der Schwere der Behinderung keine Untergrenze und gewährleistet die vollständige oder teilweise Betreuung der Personen (Kinder oder Erwachsene), deren Zustand eine Eingliederung im offenen Milieu oder in anderen spezialisierten Strukturen erschwert beziehungsweise verunmöglicht.
 
@@ -62,63 +60,48 @@ Gemäss Artikel 4bis GEBM ist La Castalie eine selbstständige öffentlich-recht
 <sup>1</sup> Zum Erreichen ihrer Ziele leitet und verwaltet La Castalie die verschiedenen Einheiten, aus denen sie zusammengesetzt ist, mit namentlich folgenden Aufgaben:
 
 - a) angepasste Beherbergungs-, Ausbildungs- und Beschäftigungsstrukturen zur Verfügung stellen;
-
 - b) über individuell angepasste pädagogisch-erzieherische Programme die Entwicklung und Entfaltung der betreuten Personen fördern;
-
 - c) die präventiven Gesundheitsmassnahmen treffen und für die nötige medizinisch-therapeutische Pflege sorgen, mit Ausnahme der Spitalbehandlungen;
-
-- d) die familiäre, soziale und schulische Eingliederung fördern;
-
+- d) die familiäre, soziale und schulische Inklusion fördern;
 - e) Unterkunft und Verpflegung zur Verfügung stellen;
-
 - f) den Unterhalt der Räumlichkeiten, das Waschen der Wäsche und die gängigen Hygienemassnahmen gewährleisten.
 
 <sup>2</sup> La Castalie hat insbesondere folgende Zuständigkeiten:
 
 - a) mit den betroffenen Departementen die finanzielle Beteiligung des Staates aushandeln und die vereinbarten Leistungsaufträge eingehen;
-
 - b) im Rahmen der vom Staat zur Verfügung gestellten Mittel und der geltenden Gesetzesbestimmungen die Lohn- und Budgetpolitik festlegen;
-
 - c) das für den guten Betrieb ihrer Einheiten nötige Personal anstellen oder entlassen;
-
 - d) den betroffenen Departementen die Budgets, die Rechnungen und die Ergebnisse ihrer Tätigkeit unterbreiten und diese definitiv erstellen;
-
 - e) die für ihren Betrieb nötigen Richtlinien erlassen;
-
 - f) das Personal, die Partner und die Öffentlichkeit über ihre Tätigkeit informieren;
-
-- g) mit Organisationen oder Strukturen, die behinderte Personen beschäftigen, zusammenarbeiten.
+- g) mit Organisationen oder Strukturen, die Menschen mit Behinderungen beschäftigen, zusammenarbeiten.
 
 <sup>3</sup> La Castalie übt ihre Zuständigkeiten in Anwendung der eidgenössischen und kantonalen Gesetzesbestimmungen und der interkantonalen Vereinbarungen aus.
 
-### 3. Abschnitt: Organisation
+## 3 Organisation
 
 #### Art. 5
 
 **Organe**
 
-Die Organe von La Castalie sind:
+<sup>1</sup> Die Organe von La Castalie sind:
 
 - a) der Verwaltungsrat;
-
 - b) die Direktion;
-
 - c) das Revisionsorgan.
 
 #### Art. 6
 
 **Verwaltungsrat**
 
-<sup>1</sup> Der Verwaltungsrat setzt sich aus sieben Mitgliedern zusammen, die über spezifische Kompetenzen im Bereich der geistigen Behinderung oder in Sachen Verwaltung verfügen, darunter ein Vertreter der Eltern oder Angehörigen der in der Anstalt aufgenommenen behinderten Menschen.
+<sup>1</sup> Der Verwaltungsrat setzt sich aus 7 Mitgliedern zusammen, die über spezifische Kompetenzen im Bereich der geistigen Behinderung oder in Sachen Verwaltung verfügen, darunter ein Vertreter der Eltern oder Angehörigen der in der Anstalt aufgenommenen Menschen mit Behinderungen.
 
 <sup>2</sup> Der Präsident und die Mitglieder des Verwaltungsrats werden vom Staatsrat für die Dauer einer Verwaltungsperiode und während maximal drei Verwaltungsperioden ernannt.
 
 <sup>3</sup> Die nachfolgenden Personen können nicht Mitglieder des Verwaltungsrats sein:
 
 - a) Personal von La Castalie;
-
 - b) Staatspersonal;
-
 - c) Personen, die sich in einem Interessenkonflikt befinden.
 
 <sup>4</sup> Der Direktor von La Castalie nimmt an den Sitzungen mit beratender Stimme teil.
@@ -131,30 +114,19 @@ Die Organe von La Castalie sind:
 
 **Befugnisse des Verwaltungsrats**
 
-Der Verwaltungsrat hat namentlich die folgenden unveräusserlichen Befugnisse:
+<sup>1</sup> Der Verwaltungsrat hat namentlich die folgenden unveräusserlichen Befugnisse:
 
 - a) die Zusammensetzung, die Organisation und die Arbeitsweise der Direktion von La Castalie bestimmen;
-
 - b) die internen Reglemente anpassen;
-
 - c) mit den betroffenen Departementen die Leistungsaufträge aushandeln und diese unterzeichnen;
-
 - d) die Delegationskompetenzen auf den verschiedenen Ebenen der hierarchischen Struktur der Anstalt festlegen;
-
 - e) dafür sorgen, dass die Tätigkeit der Institution ihrer Aufgabe entspricht und die geltenden Gesetze und Vereinbarungen respektiert;
-
 - f) unter Vorbehalt der Genehmigung durch den Staatsrat den Direktor ernennen und dessen Pflichtenheft erstellen;
-
 - g) auf Vorschlag des Direktors die anderen Direktionsmitglieder ernennen und ihre Pflichtenhefte erstellen;
-
 - h) das externe Revisionsorgan bezeichnen und zu dessen Jahresbericht Stellung nehmen;
-
 - i) die mehrjährige Finanzplanung sowie das Budget und die Jahresrechnung erstellen;
-
-- j) den Jahresbericht zuhanden des Staatsrates erarbeiten; <sup>1</sup>
-
+- j) den Jahresbericht zuhanden des Staatsrates erarbeiten;
 - k) die Information gewährleisten, namentlich über die Direktion;
-
 - l) externe Experten beiziehen.
 
 #### Art. 8
@@ -180,13 +152,9 @@ Der Verwaltungsrat hat namentlich die folgenden unveräusserlichen Befugnisse:
 <sup>3</sup> Der Direktor nimmt insbesondere die folgenden Aufgaben und Verantwortlichkeiten wahr:
 
 - a) das nötige Personal anstellen oder entlassen;
-
 - b) die Entscheide bezüglich aller Fragen und Massnahmen betreffend das Wahrnehmen der Aufgabe der Institution und die Verwaltung der Geschäfte treffen, unter Vorbehalt der Zuständigkeiten des Verwaltungsrats;
-
 - c) La Castalie innerhalb der vom Verwaltungsrat gesetzten Grenzen Dritten gegenüber vertreten;
-
 - d) die Dossiers vorbereiten und die Beschlüsse des Verwaltungsrats umsetzen;
-
 - e) den Verwaltungsrat über alles, was in seinen Zuständigkeitsbereich fällt, informieren.
 
 #### Art. 10
@@ -197,9 +165,9 @@ Der Verwaltungsrat hat namentlich die folgenden unveräusserlichen Befugnisse:
 
 <sup>2</sup> Es untersucht die Finanzen von La Castalie mit dem Ziel, ihre Wahrheit, Genauigkeit und Klarheit gemäss den geltenden Normen zu überprüfen.
 
-<sup>3</sup> Es erstattet dem Verwaltungsrat von La Castalie jährlich einen umfassenden Bericht mit Feststellungen über die Rechnungslegung, das interne Kontrollsystem sowie die Anwendung der geltenden Normen und Richtlinien. 1
+<sup>3</sup> Es erstattet dem Verwaltungsrat von La Castalie jährlich einen umfassenden Bericht mit Feststellungen über die Rechnungslegung, das interne Kontrollsystem sowie die Anwendung der geltenden Normen und Richtlinien.
 
-<sup>4</sup> Es erstattet dem Staatsrat jährlich schriftlich einen zusammenfassenden Bericht über das Ergebnis der Revision. <sup>1</sup>
+<sup>4</sup> Es erstattet dem Staatsrat jährlich schriftlich einen zusammenfassenden Bericht über das Ergebnis der Revision.
 
 #### Art. 11
 
@@ -209,32 +177,25 @@ Der Verwaltungsrat hat namentlich die folgenden unveräusserlichen Befugnisse:
 
 <sup>2</sup> La Castalie übernimmt die primäre Haftung für den Geschädigten. Der Staat haftet subsidiär für Schäden am Geschädigten, für welche La Castalie nicht aufkommen kann.
 
-<sup>3</sup> La Castalie beziehungsweise dem Staat steht gemäss Artikel 14 ff. des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger der Rückgriff gegenüber dem Urheber des Schadens zu.
+<sup>3</sup> La Castalie beziehungsweise dem Staat steht gemäss Artikel 14 und folgende des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger der Rückgriff gegenüber dem Urheber des Schadens zu.
 
 <sup>4</sup> Die in Absatz 1 aufgeführten Mitglieder der Organe und des Personals, die La Castalie oder den Staat direkt schädigen, übernehmen diesen gegenüber die primäre Haftung gemäss Artikel 13 des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger. Wenn der Staat der Geschädigte ist, haftet La Castalie subsidiär.
 
-### 4. Abschnitt: Finanzierung
+## 4 Finanzierung
 
 #### Art. 12
 
 **Finanzressourcen**
 
-Die Finanzierung von La Castalie wird gewährleistet durch:
+<sup>1</sup> Die Finanzierung von La Castalie wird gewährleistet durch:
 
 - a) die Beherbergungstaxen und die Beteiligungen der Invalidenversicherung für die individuellen therapeutischen Massnahmen;
-
-- b) die Beteiligungen der öffentlichen Hand gemäss Artikel 31 GEBM;
-
-- c) die kantonale Beteiligung gemäss den Artikeln 43 und 44 der Verordnung betreffend verschiedene Einrichtungen für die Jugend vom 9. Mai 2001;
-
-- d) den Beitrag an die Betriebskosten gemäss Artikel 32 GEBM;
-
-- e) die Investitionsbeiträge gemäss Artikel 27 GEBM;
-
-- f) die Beteiligungen des Staates gemäss Artikel 31 des Gesetzes über das öffentliche Unterrichtswesen vom 4. Juli 1962 und insbesondere die Subventionen an die Anstalten gemäss den Artikeln 41 bis 45 des Reglements über die Gewährung von diversen Beiträgen aufgrund des Gesetzes über das öffentliche Unterrichtswesen vom 13. Januar 1988 sowie gemäss dem Reglement zur Festlegung der Weisungen und Richtlinien über Schulhausbauten vom 23. März 2005;
-
-- g) die Subventionierung der Betriebskosten gemäss dem Gesetz über die Hilfs- und Sonderschulen vom 25. Juni 1986;
-
+- b) die Beteiligungen der öffentlichen Hand gemäss Artikel 31 GRIMB;
+- c) die kantonale Beteiligung gemäss den Artikeln 43 und 44 der Verordnung betreffend verschiedene Einrichtungen für die Jugend;
+- d) den Beitrag an die Betriebskosten gemäss Artikel 32 GRIMB;
+- e) die Investitionsbeiträge gemäss Artikel 27 GRIMB;
+- f) die Beteiligungen des Staates gemäss Artikel 31 des Gesetzes über das öffentliche Unterrichtswesen und insbesondere die Subventionen an die Anstalten gemäss den Artikeln 41 bis 45 des Reglements über die Gewährung von diversen Beiträgen aufgrund des Gesetzes über das öffentliche Unterrichtswesen sowie gemäss dem Reglement zur Festlegung der Weisungen und Richtlinien über Schulhausbauten;
+- g) die Subventionierung der Betriebskosten gemäss dem Gesetz über die Sonderschulung;
 - h) die verschiedenen Spenden und Erlöse.
 
 #### Art. 13
@@ -244,21 +205,13 @@ Die Finanzierung von La Castalie wird gewährleistet durch:
 <sup>1</sup> La Castalie erstellt mit den betroffenen Departementen Leistungsaufträge, die namentlich Folgendes festlegen:
 
 - a) die zu erbringenden Leistungen;
-
 - b) die berücksichtigten quantitativen und qualitativen Ziele;
-
 - c) die Indikatoren, anhand deren die Qualität, die Zweckmässigkeit und die Wirtschaftlichkeit der Leistungen evaluiert und verwaltet werden können;
-
 - d) die nötigen personellen und finanziellen Ressourcen;
-
 - e) die Finanzierungs- und Subventionierungsmodalitäten;
-
 - f) die Controlling- und Evaluationsmodalitäten;
-
 - g) den Betreuungsgrad;
-
 - h) die Anpassungsmodalitäten;
-
 - i) das Verfahren zur Streitschlichtung und Vermittlung.
 
 <sup>2</sup> Die Leistungsaufträge werden regelmässig aktualisiert, indem namentlich der Betreuungsbedarf, die Entwicklung der Mittel und die Zweckmässigkeit der Massnahmen berücksichtigt werden.
@@ -275,7 +228,7 @@ Die Finanzierung von La Castalie wird gewährleistet durch:
 
 **Zuteilung der Ergebnisse**
 
-<sup>1</sup> Die Ergebnisse werden gemäss den geltenden Richtlinien des DSSI für den Sektor Erwachsene und des DEKS für den Sektor Kinder zugeteilt.
+<sup>1</sup> Die Ergebnisse werden gemäss den geltenden Richtlinien des für das Sozialwesen zuständigen Departements für den Sektor Erwachsene und des für die Erziehung zuständigen Departements für den Sektor Kinder zugeteilt.
 
 <sup>2</sup> Im Fall von Verlusten darf der kumulierte und in der Bilanz ausgewiesene Betrag drei Prozent des jährlichen Betriebsbudgets nicht überschreiten. Über diesen Betrag hinausgehende Defizite müssen ab dem folgenden Geschäftsjahr von La Castalie finanziert werden.
 
@@ -295,7 +248,7 @@ Die Finanzierung von La Castalie wird gewährleistet durch:
 
 <sup>2</sup> Als Kontenrahmen wird jener von Curaviva verwendet.
 
-### 5. Abschnitt: Aufsicht
+## 5 Aufsicht
 
 #### Art. 18
 
@@ -309,7 +262,7 @@ Die Finanzierung von La Castalie wird gewährleistet durch:
 
 <sup>4</sup> Die Intervention der Aufsichtsbehörde befreit die Organe von La Castalie nicht von ihrer Verantwortlichkeit.
 
-### 6. Abschnitt: Zurverfügungstellung der Infrastrukturen
+## 6 Zurverfügungstellung der Infrastrukturen
 
 #### Art. 19
 
@@ -323,7 +276,7 @@ Die Finanzierung von La Castalie wird gewährleistet durch:
 
 **Verpflichtungen von La Castalie**
 
-La Castalie verwaltet, unterhält und renoviert die ihr vom Kanton zur Verfügung gestellten Infrastrukturen und baut diese um. In diesem Rahmen trägt sie vollständig und ausschliesslich sämtliche dem Eigentümer zufallenden Auflagen und Pflichten. Sie schliesst die nötigen Versicherungen ab, namentlich im Rahmen der Haftpflicht.
+<sup>1</sup> La Castalie verwaltet, unterhält und renoviert die ihr vom Kanton zur Verfügung gestellten Infrastrukturen und baut diese um. In diesem Rahmen trägt sie vollständig und ausschliesslich sämtliche dem Eigentümer zufallenden Auflagen und Pflichten. Sie schliesst die nötigen Versicherungen ab, namentlich im Rahmen der Haftpflicht.
 
 #### Art. 21
 
@@ -331,9 +284,9 @@ La Castalie verwaltet, unterhält und renoviert die ihr vom Kanton zur Verfügun
 
 <sup>1</sup> La Castalie agiert als Bauherrin bei sämtlichen Arbeiten, die an den ihr zur Verfügung gestellten Infrastrukturen getätigt werden. Sie finanziert sämtliche Unterhalts-, Umbau- und Renovationskosten der ihr vom Kanton zur Verfügung gestellten Infrastrukturen.
 
-<sup>2</sup> Der Kanton subventioniert diese Kosten gemäss GEBM und gemäss dem Gesetz über das öffentliche Unterrichtswesen vom 4. Juli 1962.
+<sup>2</sup> Der Kanton subventioniert diese Kosten gemäss GRIMB und gemäss dem Gesetz über das öffentliche Unterrichtswesen.
 
-### 7. Abschnitt: Personalstatut
+## 7 Personalstatut
 
 #### Art. 22
 
@@ -357,15 +310,17 @@ La Castalie verwaltet, unterhält und renoviert die ihr vom Kanton zur Verfügun
 
 #### Art. 24
 
-Lohnanspruch bei Krankheit, Unfall, Mutterschaft, Adoption, Militär- oder Zivilschutzdienst Für den Fall einer Arbeitsunfähigkeit schliesst La Castalie für sein Personal eine Erwerbsausfallversicherung ab.
+**Lohnanspruch bei Krankheit, Unfall, Mutterschaft, Adoption, Militär- oder Zivilschutzdienst**
+
+<sup>1</sup> Für den Fall einer Arbeitsunfähigkeit schliesst La Castalie für sein Personal eine Erwerbsausfallversicherung ab.
 
 #### Art. 25
 
 **Berufliche Vorsorge**
 
-Das Personal ist gegen die wirtschaftlichen Folgen des Alters, der Invalidität und des Todes bei der Pensionskasse des Staates Wallis (PKWAL) versichert.
+<sup>1</sup> Das Personal ist gegen die wirtschaftlichen Folgen des Alters, der Invalidität und des Todes bei der Pensionskasse des Staates Wallis (PKWAL) versichert.
 
-### 8. Abschnitt: Übergangs- und Schlussbestimmungen
+## 8 Übergangs- und Schlussbestimmungen
 
 #### Art. 26
 
@@ -381,11 +336,11 @@ Das Personal ist gegen die wirtschaftlichen Folgen des Alters, der Invalidität 
 
 #### Art. 27
 
-Lohnanspruch bei Krankheit, Unfall, Mutterschaft, Adoption, Militär- oder Zivilschutzdienst
+**Lohnanspruch bei Krankheit, Unfall, Mutterschaft, Adoption, Militär- oder Zivilschutzdienst**
 
 <sup>1</sup> Die Arbeitsverhältnisse der Personen, die aufgrund von Krankheit, Unfall, Mutterschaft, Adoption, Militär- oder Zivilschutzdienst ausfallen, werden vollständig überführt.
 
-<sup>2</sup> Allfällige Leistungen Dritter (Versicherungen, Ausgleichskasse usw.), die dem Staat für die Zeit nach dem Inkrafttreten der vorliegenden Verordnung ausgezahlt werden, werden an La Castalie überwiesen.
+<sup>2</sup> Allfällige Leistungen Dritter (Versicherungen, Ausgleichskasse, usw.), die dem Staat für die Zeit nach dem Inkrafttreten der vorliegenden Verordnung ausgezahlt werden, werden an La Castalie überwiesen.
 
 <sup>3</sup> Bis zur Übernahme der Lohnzahlungen durch La Castalie bleibt der Erwerbsausfall gemäss den Bestimmungen des Staates versichert.
 
@@ -429,7 +384,7 @@ Lohnanspruch bei Krankheit, Unfall, Mutterschaft, Adoption, Militär- oder Zivil
 
 **Leistung der Zentralen Dienste**
 
-Während der Übergangsphase bis zum 31. Dezember 2013 kann La Castalie weiterhin die Ratschläge und die Unterstützung der Zentralen Dienste des Kantonsverwaltung in Anspruch nehmen, namentlich der Dienststelle für Hochbau, Denkmalpflege und Archäologie (DHDA), der Dienststelle für Personalmanagement (DPM), der Sektion Gehälter der Kantonalen Finanzverwaltung (KFV) und der Sozialberatung.
+<sup>1</sup> Während der Übergangsphase bis zum 31. Dezember 2013 kann La Castalie weiterhin die Ratschläge und die Unterstützung der Zentralen Dienste des Kantonsverwaltung in Anspruch nehmen, namentlich der Dienststelle für Hochbau, Denkmalpflege und Archäologie (DHDA), der Dienststelle für Personalmanagement (DPM), der Sektion Gehälter der Kantonalen Finanzverwaltung (KFV) und der Sozialberatung.
 
 #### Art. 33
 
@@ -443,20 +398,8 @@ Während der Übergangsphase bis zum 31. Dezember 2013 kann La Castalie weiterhi
 
 **Anwendung und Inkrafttreten**
 
-<sup>1</sup> Das Departement für Sicherheit, Sozialwesen und Integration und das Departement für Erziehung, Kultur und Sport sind mit der Anwendung der vorliegenden Verordnung beauftragt. Sie erlassen die diesbezüglichen Richtlinien.
+<sup>1</sup> Das mit dem Sozialwesen beauftragte Departement und das mit der Erziehung beauftragte Departement sind mit der Anwendung der vorliegenden Verordnung beauftragt. Sie erlassen die diesbezüglichen Richtlinien.
 
 <sup>2</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht und tritt am 1. Januar 2012 in Kraft.
 
-So angenommen im Staatsrat zu Sitten, am 26. Oktober 2011.
-
-Der Präsident des Staatsrates: Jacques Melly Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**1.01.2012**
-
-Abl. Nr. 45/2011
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 23.01.2013 Abl. Nr. 7/2013 15.02.2013
+CSW BO/Abl. 45/2011

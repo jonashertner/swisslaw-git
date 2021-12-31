@@ -3,47 +3,45 @@ canton: VS
 number: "850.610"
 title: "Ordonnance sur l'organisation et le fonctionnement de La Castalie"
 language: fr
-version: 2013-02-15
-corrected: 2017-10-13
-version_adopted: 2013-01-23
+version: 2022-01-01
+version_adopted: 2021-12-01
 adopted: 2011-10-26
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.610"
-pdf: "https://lex.vs.ch/api/fr/versions/147/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2988/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur l'organisation et le fonctionnement de La Castalie
 
-du 26 octobre 2011
+du 26.10.2011 (état 01.01.2022)
 
 Le Conseil d'Etat du canton du Valais
 
 vu l'article 57 alinéa 2 de la Constitution cantonale;
 
-vu l'article 4bis de la loi sur l'intégration des personnes handicapées du 31 janvier 1991;
+vu l'article 4a de la loi sur les droits et l'inclusion des personnes en situation de handicap du 31 janvier 1991 (LDIPH);
 
-sur la proposition du Département de la sécurité, des affaires sociales et de l'intégration,
+sur la proposition du Département en charge des affaires sociales,
 
 ordonne:
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
 **But et champ d'application**
 
-La présente ordonnance précise et complète les dispositions de la loi sur l'intégration des personnes handicapées du 31 janvier 1991 (ci-après LIPH) concernant l'organisation et le fonctionnement de La Castalie.
+<sup>1</sup> La présente ordonnance précise et complète les dispositions de la loi sur les droits et l'inclusion des personnes en situation de handicap (LDIPH) concernant l'organisation et le fonctionnement de La Castalie.
 
-### Section 2: Statut, mission et compétences
+## 2 Statut, mission et compétences
 
 #### Art. 2
 
 **Statut**
 
-Selon l'article 4bis LIPH, La Castalie est un établissement autonome de droit public, doté de la personnalité juridique, dont le siège est à Monthey.
+<sup>1</sup> Selon l'article 4a LDIPH, La Castalie est un établissement autonome de droit public, doté de la personnalité juridique, dont le siège est à Monthey.
 
 #### Art. 3
 
@@ -62,63 +60,48 @@ Selon l'article 4bis LIPH, La Castalie est un établissement autonome de droit p
 <sup>1</sup> Aux fins d'atteindre ses buts, La Castalie dirige et gère les diverses unités qui la composent avec notamment les attributions suivantes:
 
 - a) mettre à disposition des structures d'accueil adéquates d'hébergement, de formation et d'occupation;
-
 - b) stimuler le développement et l'épanouissement des personnes prises en charge par la mise en place de programmes pédago-éducatifs individualisés;
-
 - c) prendre les mesures préventives de santé et pourvoir aux soins médico-thérapeutiques nécessaires, à l'exclusion des traitements hospitaliers;
-
-- d) favoriser l'intégration familiale, sociale et scolaire;
-
+- d) favoriser l'inclusion familiale, sociale et scolaire;
 - e) fournir le logement et la nourriture;
-
 - f) assurer l'entretien des locaux, le blanchissage et les mesures d'hygiène courante.
 
 <sup>2</sup> La Castalie dispose en particulier des compétences suivantes:
 
-- a) négocier avec les Départements concernés la participation financière de l'Etat et signer les mandats de prestations convenus;
-
+- a) négocier avec les départements concernés la participation financière de l'Etat et signer les mandats de prestations convenus;
 - b) déterminer la politique salariale et budgétaire dans le cadre des moyens financiers mis à sa disposition par l'Etat et des dispositions légales en vigueur;
-
 - c) engager ou licencier le personnel nécessaire au bon fonctionnement de ses unités;
-
 - d) présenter aux départements concernés les budgets, les comptes et les résultats de son activité et les arrêter définitivement;
-
 - e) édicter les directives nécessaires à son fonctionnement;
-
 - f) informer le personnel, les partenaires et le public sur son activité;
-
-- g) collaborer avec les organismes et structures s’occupant des personnes en situation de handicap.
+- g) collaborer avec les organismes et structures s'occupant des personnes en situation de handicap.
 
 <sup>3</sup> La Castalie exerce ses compétences en application des dispositions législatives fédérales et cantonales ainsi que des conventions intercantonales.
 
-### Section 3: Organisation
+## 3 Organisation
 
 #### Art. 5
 
 **Organes**
 
-Les organes de La Castalie sont:
+<sup>1</sup> Les organes de La Castalie sont:
 
 - a) le conseil d'administration;
-
 - b) la direction;
-
 - c) l'organe de révision.
 
 #### Art. 6
 
 **Conseil d'administration**
 
-<sup>1</sup> Le conseil d'administration est composé de sept membres disposant de compétences spécifiques dans le domaine du handicap mental ou en matière de gestion, dont un représentant des parents ou des proches des personnes handicapées accueillies dans l’établissement.
+<sup>1</sup> Le conseil d'administration est composé de 7 membres disposant de compétences spécifiques dans le domaine du handicap mental ou en matière de gestion, dont un représentant des parents ou des proches des personnes en situation de handicap accueillies dans l’établissement.
 
 <sup>2</sup> Le président et les membres du conseil d'administration sont nommés par le Conseil d'Etat pour la durée d'une période administrative et durant trois périodes administratives au maximum.
 
 <sup>3</sup> Ne peuvent être membres du conseil d'administration:
 
 - a) le personnel de La Castalie;
-
 - b) le personnel de l'Etat;
-
 - c) les personnes se trouvant en conflit d'intérêts.
 
 <sup>4</sup> Le directeur de La Castalie assiste aux séances avec voix consultative.
@@ -131,30 +114,19 @@ Les organes de La Castalie sont:
 
 **Compétences du conseil d'administration**
 
-Le conseil d'administration exerce notamment les compétences inaliénables suivantes:
+<sup>1</sup> Le conseil d'administration exerce notamment les compétences inaliénables suivantes:
 
 - a) définir la composition, l'organisation et le mode de fonctionnement de la direction de La Castalie;
-
 - b) adopter les règlements internes;
-
 - c) négocier et signer les mandats de prestations avec les départements concernés;
-
-- d) fixer les délégations de compétences aux divers niveaux de la structure hiérarchique de l’établissement;
-
+- d) fixer les délégations de compétences aux divers niveaux de la structure hiérarchique de l'établissement;
 - e) veiller à ce que l'activité institutionnelle soit conforme à sa mission et respectueuse des lois et conventions en vigueur;
-
-- f) nommer, sous réserve de l’approbation du Conseil d’Etat, le directeur et arrêter son cahier des charges;
-
+- f) nommer, sous réserve de l'approbation du Conseil d'Etat, le directeur et arrêter son cahier des charges;
 - g) nommer, sur proposition du directeur, les autres membres de la direction et arrêter leur cahier des charges;
-
 - h) désigner l'organe de révision externe et se prononcer sur son rapport annuel;
-
 - i) arrêter la planification financière pluriannuelle ainsi que le budget et les comptes annuels;
-
-- j) élaborer le rapport annuel à l'attention du Conseil d'Etat; <sup>1</sup>
-
+- j) élaborer le rapport annuel à l'attention du Conseil d'Etat;
 - k) assurer l'information, notamment à travers la direction;
-
 - l) faire appel à des experts extérieurs.
 
 #### Art. 8
@@ -173,20 +145,16 @@ Le conseil d'administration exerce notamment les compétences inaliénables suiv
 
 **Direction**
 
-<sup>1</sup> La direction de la Castalie est composée du directeur, du directeur adjoint et des chefs de secteur.
+<sup>1</sup> La direction de La Castalie est composée du directeur, du directeur adjoint et des chefs de secteur.
 
 <sup>2</sup> La direction de La Castalie assume la gestion opérationnelle de l’établissement conformément au cahier des charges établi par le conseil d'administration.
 
 <sup>3</sup> Le directeur exerce en particulier les tâches et responsabilités suivantes:
 
 - a) engager ou licencier le personnel nécessaire;
-
 - b) prendre les décisions relatives à toutes les questions et mesures qu'exigent la poursuite de la mission institutionnelle et la gestion des affaires sous réserve des attributions du conseil d'administration;
-
 - c) représenter La Castalie vis-à-vis des tiers, dans les limites fixées par le conseil d'administration;
-
 - d) préparer les dossiers et mettre en œuvre les décisions du conseil d'administration;
-
 - e) informer le conseil d'administration de tout fait relevant de ses attributions.
 
 #### Art. 10
@@ -197,15 +165,15 @@ Le conseil d'administration exerce notamment les compétences inaliénables suiv
 
 <sup>2</sup> Il effectue un examen des états financiers de La Castalie visant à vérifier leur sincérité, leur exactitude et leur pertinence conformément aux normes en vigueur.
 
-<sup>3</sup> Il établit annuellement un rapport détaillé à l'attention du conseil d'administration de la Castalie contenant notamment les constatations relatives à l'établissement des comptes, au système de contrôle interne et à l’application des normes et directives en vigueur. <sup>1</sup>
+<sup>3</sup> Il établit annuellement un rapport détaillé à l'attention du conseil d'administration de La Castalie contenant notamment les constatations relatives à l'établissement des comptes, au système de contrôle interne et à l’application des normes et directives en vigueur.
 
-<sup>4</sup> Il établit annuellement à l’attention du Conseil d’Etat un rapport écrit résumant le résultat de la révision. <sup>1</sup>
+<sup>4</sup> Il établit annuellement à l’attention du Conseil d’Etat un rapport écrit résumant le résultat de la révision.
 
 #### Art. 11
 
 **Responsabilité**
 
-<sup>1</sup> La responsabilité des membres du conseil d’administration, de la direction et du personnel de La Castalie est régie, par analogie, par la loi sur la responsabilité des collectivités publiques et de leurs agents.
+<sup>1</sup> La responsabilité des membres du conseil d’administration, de la direction et du personnel de La Castalie est régie, par analogie, par la loi sur la responsabilité des collectivités publiques et de leurs agents du 10 mai 1978.
 
 <sup>2</sup> La Castalie assume la responsabilité primaire envers le lésé. L’Etat est responsable à titre subsidiaire envers le lésé pour le dommage que La Castalie n’est pas en mesure de réparer.
 
@@ -213,52 +181,37 @@ Le conseil d'administration exerce notamment les compétences inaliénables suiv
 
 <sup>4</sup> Les membres des organes et du personnel cités à l’alinéa 1, auteurs d’un dommage direct envers La Castalie ou l’Etat répondent à titre primaire envers ceux-ci conformément à l’article 13 de la loi sur la responsabilité des collectivités publiques et de leurs agents. Si le dommage est causé à l’Etat, La Castalie répond subsidiairement.
 
-### Section 4: Financement
+## 4 Financement
 
 #### Art. 12
 
 **Ressources financières**
 
-Le financement de La Castalie est assuré par:
+<sup>1</sup> Le financement de La Castalie est assuré par:
 
 - a) les taxes d'hébergement et les contributions de l'assurance invalidité pour les mesures thérapeutiques individuelles;
-
-- b) les contributions des pouvoirs publics selon l'article 31 LIPH;
-
-- c) la participation cantonale selon les articles 43 et 44 de l'ordonnance sur différentes structures en faveur de la jeunesse du 9 mai 2001;
-
-- d) les subventions aux frais d'exploitation selon l'article 32 LIPH;
-
-- e) les subventions aux investissements selon l'article 27 LIPH;
-
-- f) les contributions de l’Etat selon l’article 31 de la loi sur l’instruction publique du 4 juillet 1962 et en particulier les subventions aux établissements scolaires selon les articles 41 à 45 du règlement concernant l’octroi de subventions diverses en vertu de la loi sur l’instruction publique du 13 janvier 1988 ainsi que le règlement fixant les normes et directives concernant les constructions scolaires du 23 mars 2005;
-
-- g) Les subventions aux frais d’exploitation selon la loi sur l’enseignement spécialisé du 25 juin 1986;
-
+- b) les contributions des pouvoirs publics selon l'article 31 LDIPH;
+- c) la participation cantonale selon les articles 43 et 44 de l'ordonnance sur différentes structures en faveur de la jeunesse;
+- d) les subventions aux frais d'exploitation selon l'article 32 LDIPH;
+- e) les subventions aux investissements selon l'article 27 LDIPH;
+- f) les contributions de l'Etat selon l'article 31 de la loi sur l'instruction publique et en particulier les subventions aux établissements scolaires selon les articles 41 à 45 du règlement concernant l'octroi de subventions diverses en vertu de la loi sur l'instruction publique ainsi que le règlement fixant les normes et directives concernant les constructions scolaires;
+- g) les subventions aux frais d'exploitation selon la loi sur l'enseignement spécialisé;
 - h) les dons et recettes diverses.
 
 #### Art. 13
 
 **Mandats de prestations**
 
-<sup>1</sup> La Castalie établit avec les Départements concernés des mandats de prestations fixant notamment:
+<sup>1</sup> La Castalie établit avec les départements concernés des mandats de prestations fixant notamment:
 
 - a) les prestations à effectuer;
-
 - b) les objectifs quantitatifs et qualitatifs retenus;
-
 - c) les indicateurs permettant d'évaluer et de gérer la qualité, la pertinence et l'économicité des prestations;
-
 - d) les ressources humaines et financières nécessaires;
-
 - e) les modalités de financement et de subventionnement;
-
 - f) les mesures de controlling et d'évaluation;
-
-- g) le taux d’encadrement;
-
-- h) les modalités d’adaptation;
-
+- g) le taux d'encadrement;
+- h) les modalités d'adaptation;
 - i) la procédure de règlement des différents et de médiation.
 
 <sup>2</sup> Les mandats de prestations sont régulièrement mis à jour en tenant compte notamment des besoins de prise en charge, de l'évolution des moyens et de la pertinence des pratiques.
@@ -275,7 +228,7 @@ Le financement de La Castalie est assuré par:
 
 **Affectation des résultats**
 
-<sup>1</sup> L’affectation des résultats est effectuée conformément aux directives en vigueur au DSSI pour le secteur Adultes et au DECS pour le secteur Enfants.
+<sup>1</sup> L’affectation des résultats est effectuée conformément aux directives en vigueur au département en charge des affaires sociales pour le secteur Adultes et au département en charge de l'éducation pour le secteur Enfants.
 
 <sup>2</sup> Au surplus, en cas de perte, le montant cumulé et reporté au bilan ne peut excéder trois pour cent du budget annuel d'exploitation. Au-delà de ce montant, La Castalie doit financer les découverts dès l'exercice suivant.
 
@@ -295,7 +248,7 @@ Le financement de La Castalie est assuré par:
 
 <sup>2</sup> Le plan comptable de référence est le plan Curaviva.
 
-### Section 5: Surveillance
+## 5 Surveillance
 
 #### Art. 18
 
@@ -309,7 +262,7 @@ Le financement de La Castalie est assuré par:
 
 <sup>4</sup> L'intervention de l'autorité de surveillance ne libère pas de leur responsabilité les organes de La Castalie.
 
-### Section 6: Mise à disposition des infrastructures
+## 6 Mise à disposition des infrastructures
 
 #### Art. 19
 
@@ -317,13 +270,13 @@ Le financement de La Castalie est assuré par:
 
 <sup>1</sup> Le canton, par les départements concernés, met à disposition de La Castalie les infrastructures immobilières nécessaires moyennant une rétribution financière selon les dispositions en vigueur.
 
-<sup>2</sup> Les terrains et les constructions nécessaires à l’activité de la Castalie restent propriété du canton.
+<sup>2</sup> Les terrains et les constructions nécessaires à l’activité de La Castalie restent propriété du canton.
 
 #### Art. 20
 
 **Obligations de la Castalie**
 
-La Castalie gère, entretient, transforme et rénove les infrastructures mises à disposition par le canton. Dans ce cadre, elle supporte intégralement et exclusivement toutes les charges et les obligations incombant au propriétaire. Elle contracte les assurances nécessaires notamment dans le cadre de la responsabilité civile.
+<sup>1</sup> La Castalie gère, entretient, transforme et rénove les infrastructures mises à disposition par le canton. Dans ce cadre, elle supporte intégralement et exclusivement toutes les charges et les obligations incombant au propriétaire. Elle contracte les assurances nécessaires notamment dans le cadre de la responsabilité civile.
 
 #### Art. 21
 
@@ -331,9 +284,9 @@ La Castalie gère, entretient, transforme et rénove les infrastructures mises �
 
 <sup>1</sup> La Castalie agit comme maître-d'oeuvre pour tous les travaux entrepris sur les infrastructures mises à disposition. Elle finance l'intégralité des frais d'entretien, de transformation et de rénovation des infrastructures mises à disposition par le canton.
 
-<sup>2</sup> Le Canton subventionne ces frais conformément à la LIPH et la loi sur l’instruction publique du 4 juillet 1962.
+<sup>2</sup> Le Canton subventionne ces frais conformément à la LDIPH et la loi sur l’instruction publique.
 
-### Section 7: Statut du personnel
+## 7 Statut du personnel
 
 #### Art. 22
 
@@ -341,7 +294,7 @@ La Castalie gère, entretient, transforme et rénove les infrastructures mises �
 
 <sup>1</sup> La Castalie définit la politique du personnel en se fondant sur les principes prévus dans la loi sur le personnel de l’Etat du Valais du 19 novembre 2010.
 
-<sup>2</sup> L’association du personnel de la Castalie et la Fédération des magistrats, des enseignants et du personnel de l’Etat du Valais sont informées et impliquées de façon préliminaire dans les décisions et dispositions légales ayant un impact notable sur le personnel.
+<sup>2</sup> L’association du personnel de La Castalie et la Fédération des magistrats, des enseignants et du personnel de l’Etat du Valais sont informées et impliquées de façon préliminaire dans les décisions et dispositions légales ayant un impact notable sur le personnel.
 
 <sup>3</sup> L’employé a le droit d’être consulté et informé, soit directement soit par l’intermédiaire de l’association du personnel, sur les projets de décision de portée générale ainsi que sur les projets de dispositions réglementaires le concernant.
 
@@ -353,29 +306,27 @@ La Castalie gère, entretient, transforme et rénove les infrastructures mises �
 
 <sup>2</sup> Sous réserve des dispositions spéciales de la présente ordonnance, les rapports de travail sont régis par la législation cantonale relative au personnel de l'Etat du Valais et la loi fixant le traitement des fonctionnaires et employés de l'Etat du Valais du 12 novembre 1982 appliquées par analogie, ainsi que par les conventions collectives en vigueur.
 
-<sup>3</sup> Sous réserve des dispositions spéciales de la présente ordonnance, les rapports de travail du personnel enseignant sont régis par les lois sur le traitement et sur le personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011, appliquées par analogie. <sup>1</sup>
+<sup>3</sup> Sous réserve des dispositions spéciales de la présente ordonnance, les rapports de travail du personnel enseignant sont régis par les lois sur le traitement et sur le personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011, appliquées par analogie.
 
 #### Art. 24
 
-Droit au salaire en cas de maladie, d'accident, de maternité,
+**Droit au salaire en cas de maladie, d'accident, de maternité, d'adoption, de service militaire ou de protection civile**
 
-d'adoption, de service militaire ou de protection civile
-
-La Castalie conclut pour son personnel une assurance perte de gain en cas d'incapacité de travail.
+<sup>1</sup> La Castalie conclut pour son personnel une assurance perte de gain en cas d'incapacité de travail.
 
 #### Art. 25
 
 **Prévoyance professionnelle**
 
-Le personnel est assuré contre les conséquences économiques de la vieillesse, de l'invalidité et du décès auprès de la caisse de prévoyance de l’Etat du Valais (CPVAL).
+<sup>1</sup> Le personnel est assuré contre les conséquences économiques de la vieillesse, de l'invalidité et du décès auprès de la caisse de prévoyance de l’Etat du Valais (CPVAL).
 
-### Section 8: Dispositions transitoires et finales
+## 8 Dispositions transitoires et finales
 
 #### Art. 26
 
 **Transfert du personnel**
 
-<sup>1</sup> Les rapports de travail du personnel de La Castalie sont transférés ex lege à la nouvelle entité au 1er janvier 2012.
+<sup>1</sup> Les rapports de travail du personnel de La Castalie sont transférés ex lege à la nouvelle entité au 1<sup>er</sup> janvier 2012.
 
 <sup>2</sup> La classification des membres du personnel transférés est maintenue au même niveau et le montant du traitement (salaire brut) atteint auprès de l'Etat du Valais à la date du transfert est garanti, sous réserve de l’article 27 alinéa 2 de la présente ordonnance.
 
@@ -385,9 +336,7 @@ Le personnel est assuré contre les conséquences économiques de la vieillesse,
 
 #### Art. 27
 
-Droit au salaire en cas de maladie, d'accident, de maternité,
-
-d'adoption, de service militaire ou de protection civile
+**Droit au salaire en cas de maladie, d'accident, de maternité, d'adoption, de service militaire ou de protection civile**
 
 <sup>1</sup> Les rapports de travail des personnes en arrêt de travail pour cause de maladie, d'accident, de maternité, d'adoption, de service militaire ou de protection civile sont intégralement transférés.
 
@@ -395,7 +344,7 @@ d'adoption, de service militaire ou de protection civile
 
 <sup>3</sup> Jusqu’à la reprise du paiement des salaires par La Castalie, la perte de gain reste assurée selon les dispositions de l’Etat.
 
-<sup>4</sup> La Castalie verse les contributions de 2ème pilier dues sur les prestations de remplacement dès le transfert.
+<sup>4</sup> La Castalie verse les contributions de 2<sup>e</sup> pilier dues sur les prestations de remplacement dès le transfert.
 
 <sup>5</sup> Les cas particuliers seront tranchés par convention entre La Castalie et le Conseil d'Etat.
 
@@ -427,15 +376,15 @@ d'adoption, de service militaire ou de protection civile
 
 **Transfert de propriété des équipements**
 
-<sup>1</sup> Le canton transfère à la Castalie les équipements disponibles à la valeur comptable le jour de leur transfert.
+<sup>1</sup> Le canton transfère à La Castalie les équipements disponibles à la valeur comptable le jour de leur transfert.
 
-<sup>2</sup> L'acquisition de nouveaux équipements est à charge de La Castalie dès le 1er janvier 2012.
+<sup>2</sup> L'acquisition de nouveaux équipements est à charge de La Castalie dès le 1<sup>er</sup> janvier 2012.
 
 #### Art. 32
 
 **Prestation des services centraux**
 
-Durant la phase transitoire jusqu’au 31 décembre 2013, la Castalie peut continuer à bénéficier des conseils et appuis des services centraux de l’Administration cantonale, notamment du Service des bâtiments, monuments et archéologie (SBMA), du Service des ressources humaines (SRH), de la section des traitements de l’Administration cantonale des finances (ACF) et de la consultation sociale.
+<sup>1</sup> Durant la phase transitoire jusqu’au 31 décembre 2013, La Castalie peut continuer à bénéficier des conseils et appuis des services centraux de l’Administration cantonale, notamment du Service des bâtiments, monuments et archéologie (SBMA), du Service des ressources humaines (SRH), de la section des traitements de l’Administration cantonale des finances (ACF) et de la consultation sociale.
 
 #### Art. 33
 
@@ -449,22 +398,8 @@ Durant la phase transitoire jusqu’au 31 décembre 2013, la Castalie peut conti
 
 **Application et entrée en vigueur**
 
-<sup>1</sup> Le département de la sécurité, des affaires sociales et de l'intégration et le département de l’éducation, de la culture et du sport sont chargés de l'application de la présente ordonnance. Ils émettent les directives utiles à ce sujet.
+<sup>1</sup> Le département en charge des affaires sociales et le département en charge de l’éducation sont chargés de l'application de la présente ordonnance. Ils émettent les directives utiles à ce sujet.
 
-<sup>2</sup> La présente ordonnance sera publiée dans le Bulletin officiel et entre en vigueur le 1er janvier 2012.
+<sup>2</sup> La présente ordonnance sera publiée dans le Bulletin officiel et entre en vigueur le 1<sup>er</sup> janvier 2012.
 
-Ainsi adopté en Conseil d'Etat, à Sion, le 26 octobre 2011.
-
-Le président du Conseil d'Etat: Jacques Melly Le chancelier d'Etat : Philipp Spörri
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**1.01.2012**
-
-vigueur BO No 45/2011
-
-## Autres notes
-
-- [1] Modification du 23.01.2013 BO No 7/2013 15.02.2013
+RCV BO/Abl. 45/2011
