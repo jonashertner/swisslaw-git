@@ -3,20 +3,20 @@ canton: OW
 number: "419.311"
 title: Reglement über den Kathriner-Egger-Fonds
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-12-13
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-12-21
 adopted: 2007-02-06
 in_force: 2007-02-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/419.311"
-pdf: "http://gdb.ow.ch/api/de/versions/1167/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1564/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Kathriner-Egger-Fonds
 
-vom 06.02.2007 (Stand 01.01.2017)
+vom 06.02.2007 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -38,15 +38,15 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Der Fonds bezweckt die Unterstützung von Personen in Ausbildung und Familien mit Kindern in Ausbildung, für welche keine oder ungenügend kantonale Stipendien gesprochen werden können und die finanziell schlecht gestellt sind.
+<sup>1</sup> Der Fonds bezweckt die Unterstützung von Personen in Ausbildung und Familien mit Kindern in Ausbildung, für welche keine oder ungenügende kantonale Ausbildungsbeiträge gesprochen werden können und die finanziell schlecht gestellt sind.
 
-<sup>2</sup> Die Unterstützung erfolgt in Form von jährlichen Ausbildungsbeiträgen, welche auf schriftliches Gesuch hin zugesprochen werden können. Es besteht kein Anspruch auf einen Ausbildungsbeitrag.
+<sup>2</sup> Die Unterstützung erfolgt in Form von jährlichen Beiträgen, welche auf schriftliches Gesuch hin zugesprochen werden können. Es besteht kein Anspruch auf einen Beitrag.
 
 #### Art. 3
 
 **Voraussetzungen**
 
-<sup>1</sup> Ausbildungsbeiträge im Sinne dieses Reglements werden nur Personen zugesprochen, die zivilrechtlichen Wohnsitz im Kanton haben.
+<sup>1</sup> Beiträge im Sinne dieses Reglements werden nur Personen zugesprochen, die zivilrechtlichen Wohnsitz im Kanton haben.
 
 <sup>2</sup> Personen, die gesetzlich verpflichtet sind, die Ausbildungskosten zu tragen oder sich daran zu beteiligen, wird eine den Verhältnissen entsprechende Eigenleistung zugemutet.
 
@@ -56,17 +56,17 @@ beschliesst:
 
 **Mittelverwendung**
 
-<sup>1</sup> Für die Jahre 2017 bis 2021 dürfen dem Fonds höchstens Fr. 150 000.– entnommen werden. Pro Jahr können somit durchschnittlich Fr. 30 000.– an Ausbildungsbeiträgen ausgeschüttet werden.
+<sup>1</sup> Für eine Periode von fünf Jahren dürfen dem Fonds höchstens Fr. 150 000.– entnommen werden. Pro Jahr können somit durchschnittlich Fr. 30 000.– an Beiträgen ausgeschüttet werden.
 
 <sup>2</sup> Die in einem Kalenderjahr anfallenden Zinsen werden dem Fondsvermögen zugeschlagen.
 
-<sup>3</sup> Über die Mittelverwendung ab 2022 wird im Jahre 2021 neu entschieden.
+<sup>3</sup> Über die Mittelverwendung für die nächste Fünfjahres-Periode wird im letzten Jahr der laufenden Periode entschieden.
 
 #### Art. 5
 
-**Ausbildungsbeiträge**
+**Beiträge**
 
-<sup>1</sup> Über die Zusprechung von Ausbildungsbeiträgen wird jährlich einmal entschieden. Pro Gesuch werden höchstens Fr. 5 000.– gesprochen. Die Gesuche werden in der Reihenfolge des Eingangs bearbeitet.
+<sup>1</sup> Über die Zusprechung von Beiträgen wird laufend entschieden. Pro Gesuch werden höchstens Fr. 5 000.– gesprochen. Die Gesuche werden in der Reihenfolge des Eingangs bearbeitet.
 
 #### Art. 6
 
@@ -76,13 +76,13 @@ beschliesst:
 
 - a. Information der Öffentlichkeit über den Kathriner-Egger-Fonds;
 - b. Prüfung der Beitragsgesuche im Sinne von Art. 2 und 3 dieses Reglements;
-- c. Zusprechung der Ausbildungsbeiträge im Sinne von Art. 4 und 5 dieses Reglements gestützt auf die Anträge der Fachstelle für Ausbildungsbeiträge;
-- d. Veranlassung der Auszahlung der zugesprochenen Ausbildungsbeiträge.
+- c. Zusprechung der Beiträge im Sinne von Art. 4 und 5 dieses Reglements gestützt auf die Anträge der Fachstelle für Ausbildungsbeiträge;
+- d. Veranlassung der Auszahlung der zugesprochenen Beiträge.
 
 <sup>2</sup> Die Finanzverwaltung hat folgende Aufgaben:
 
-- a. Auszahlung der zugesprochenen Ausbildungsbeiträge,
-- b. Rechnungsführung des Fonds,
+- a. Auszahlung der zugesprochenen Beiträge;
+- b. Rechnungsführung des Fonds;
 - c. Anlage des Fondsvermögens.
 
 <sup>3</sup> Der Fonds wird in der Staatsrechnung gesondert ausgewiesen.
@@ -93,7 +93,7 @@ beschliesst:
 
 <sup>1</sup> Der Kathriner-Egger-Fonds untersteht der Aufsicht des Regierungsrats.
 
-<sup>2</sup> Das Bildungs- und Kulturdepartement hat das vorliegende Reglement zu evaluieren, dem Regierungsrat bis Mitte 2021 Bericht zu erstatten und insbesondere gemäss Art. 4 Abs. 3 dieses Reglements Antrag zu stellen.
+<sup>2</sup> Das Bildungs- und Kulturdepartement hat dem Regierungsrat alle fünf Jahre Bericht zu erstatten.
 
 #### Art. 8
 
@@ -117,6 +117,8 @@ geändert durch
 
 \- Nachtrag vom 29. November 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 71),
 
-\- Nachtrag vom 13. Dezember 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 87)
+\- Nachtrag vom 13. Dezember 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 87),
+
+\- Nachtrag vom 21. Dezember 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 58)
 
 OGS 2007, 7
