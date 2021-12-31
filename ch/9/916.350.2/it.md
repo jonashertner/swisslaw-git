@@ -4,11 +4,11 @@ title: "Ordinanza del 25 giugno 2008 concernente i supplementi e la registrazion
 short: OSL
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/521"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2008-06-25
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2008-521-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-521-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20190101/it"
 
 (Ordinanza sul sostegno del prezzo del latte, OSL)
 
-del 25 giugno 2008 (Stato 1° gennaio 2019)
+del 25 giugno 2008 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -67,7 +67,7 @@ Per latte commerciale s’intende il latte che:
 
 **Supplemento per il latte trasformato in formaggio**[^1c-1]
 
-<sup>1</sup> Il supplemento per il latte vaccino, di pecora e di capra trasformato in formaggio è di 15 centesimi per ogni chilogrammo di latte meno l’importo del supplemento per il latte commerciale secondo l’articolo 2*a*.
+<sup>1</sup> Il supplemento per il latte vaccino, di pecora e di capra trasformato in formaggio è di 15 centesimi per ogni chilogrammo di latte meno l’importo del supplemento per il latte commerciale secondo l’articolo 2*a*.[^1c-2]
 
 <sup>2</sup>
 
@@ -77,7 +77,7 @@ Per latte commerciale s’intende il latte che:
 
   formaggio che:
 
-  - 1\. adempie i requisiti del formaggio stabiliti dal Dipartimento federale dell’interno (DFI) nelle disposizioni d’esecuzione nel settore delle derrate alimentari di origine animale in virtù dell’ordinanza del 16 dicembre 2016[^1c-2] sulle derrate alimentari e gli oggetti d’uso (ODerr), e
+  - 1\. adempie i requisiti del formaggio stabiliti dal Dipartimento federale dell’interno (DFI) nelle disposizioni d’esecuzione nel settore delle derrate alimentari di origine animale in virtù dell’ordinanza del 16 dicembre 2016[^1c-3] sulle derrate alimentari e gli oggetti d’uso (ODerr), e
   - 2\. presenta un tenore in grasso nella sostanza secca di almeno 150 g/kg;
 
 - b. formaggio bianco quale materia prima per Glarner Schabziger; o
@@ -88,7 +88,8 @@ Per latte commerciale s’intende il latte che:
 <sup>4</sup> Se in un’azienda di trasformazione il tenore in grasso dell’intera quantità di latte è corretto a un determinato valore mediante centrifugazione prima della caseificazione, il supplemento è moltiplicato in funzione del tenore in grasso per il coefficiente che figura nell’allegato.
 
 [^1c-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^1c-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1c-2]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 902](https://fedlex.data.admin.ch/eli/oc/2021/902)).
+[^1c-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 2
 
@@ -121,11 +122,12 @@ Per il latte proveniente da vacche, pecore e capre nutrite senza insilati la Con
 
 **Supplemento per il latte commerciale**[^2a-1]
 
-<sup>1</sup> Per il latte commerciale vaccino l’UFAG versa ai produttori un supplemento di 4,5 centesimi il chilogrammo.
+<sup>1</sup> Per il latte commerciale vaccino l’UFAG versa ai produttori un supplemento di 5 centesimi il chilogrammo.[^2a-2]
 
 <sup>2</sup> L’UFAG può adeguare l’importo del supplemento tenendo conto dell’evoluzione della quantità e nel quadro dei fondi approvati.
 
 [^2a-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^2a-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 790](https://fedlex.data.admin.ch/eli/oc/2021/790)).
 
 ## Sezione 2: Procedura
 

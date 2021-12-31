@@ -4,11 +4,11 @@ title: "Ordonnance du 25 juin 2008 concernant les suppléments et l'enregistreme
 short: OSL
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/521"
 language: fr
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2008-06-25
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-521-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-521-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20190101/fr"
 
 (Ordonnance sur le soutien du prix du lait, OSL)
 
-du 25 juin 2008 (Etat le 1<sup>er</sup> janvier 2019)
+du 25 juin 2008 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -67,7 +67,7 @@ Par lait commercialisé, on entend le lait qui:
 
 **Supplément versé pour le lait transformé en fromage**[^1c-1]
 
-<sup>1</sup> Le supplément pour le lait de vache, de brebis et de chèvre transformé en fromage est de 15 centimes par kilogramme de lait, déduction faite du montant du supplément versé pour le lait commercialisé selon l’art. 2*a*.
+<sup>1</sup> Le supplément pour le lait de vache, de brebis et de chèvre transformé en fromage est de 15 centimes par kilogramme de lait, déduction faite du montant du supplément versé pour le lait commercialisé selon l’art. 2*a*.[^1c-2]
 
 <sup>2</sup>
 
@@ -77,7 +77,7 @@ Il est versé aux producteurs de lait lorsque le lait est transformé:
 
   en fromage qui:
 
-  - 1\. satisfait aux exigences relatives au fromage que le Département fédéral de l’intérieur (DFI) édicte dans les dispositions d’exécution dans le domaine des denrées alimentaires d’origine animale en vertu de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^1c-2], et
+  - 1\. satisfait aux exigences relatives au fromage que le Département fédéral de l’intérieur (DFI) édicte dans les dispositions d’exécution dans le domaine des denrées alimentaires d’origine animale en vertu de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^1c-3], et
   - 2\. présente une teneur en matière grasse dans la matière sèche de 150 g/kg au moins;
 
 - b. en sérac brut comme matière première destinée à la production de Schabziger glaronais, ou
@@ -88,7 +88,8 @@ Il est versé aux producteurs de lait lorsque le lait est transformé:
 <sup>4</sup> Lorsque dans une entreprise de transformation, la totalité du lait est ajustée par centrifugation à une teneur en matière grasse déterminée, avant la transformation en fromage, le supplément est multiplié par le coefficient figurant à l’annexe, en fonction de la teneur en matière grasse.
 
 [^1c-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^1c-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1c-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 902](https://fedlex.data.admin.ch/eli/oc/2021/902)).
+[^1c-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 2
 
@@ -122,11 +123,12 @@ La Confédération verse en plus aux producteurs un supplément de 3 centimes pa
 
 **Supplément versé pour le lait commercialisé**[^2a-1]
 
-<sup>1</sup> L’OFAG verse aux producteurs un supplément de 4,5 centimes par kilogramme pour le lait commercialisé provenant de vaches.
+<sup>1</sup> L’OFAG verse aux producteurs un supplément de 5 centimes par kilogramme pour le lait commercialisé provenant de vaches.[^2a-2]
 
 <sup>2</sup> Il peut adapter le montant du supplément en fonction de l’évolution des quantités et dans le cadre des moyens autorisés.
 
 [^2a-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^2a-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 790](https://fedlex.data.admin.ch/eli/oc/2021/790)).
 
 ## Section 2 Procédure
 
@@ -340,7 +342,7 @@ Annexe*[^t-1]*
 
 ## Coefficients de conversion servant au calcul des suppléments pour le lait ajusté par centrifugation à une teneur en graisse déterminée
 
-[^t-1]: Mise à jour selon le ch. II des O du 23 oct. 2013 ([RO 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)) et du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634))
+[^t-1]: Mise à jour par le ch. II des O du 23 oct. 2013 ([RO 2013 3993](https://fedlex.data.admin.ch/eli/oc/2013/728)) et du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634))
 
 <table>
 <tr><td>Teneur en matière grasse en grammes de matière grasse par kg de lait</td><td>Coefficient</td></tr>

@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Juni 2008 über die Zulagen und die Datenerfassung im
 short: MSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/521"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2008-06-25
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2008-521-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/521/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-521-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/521/20190101/de"
 
 (Milchpreisstützungsverordnung, MSV)
 
-vom 25. Juni 2008 (Stand am 1. Januar 2019)
+vom 25. Juni 2008 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -69,7 +69,7 @@ Als Verkehrsmilch gilt Milch, die:
 
 **Zulage für verkäste Milch**[^1c-1]
 
-<sup>1</sup> Die Zulage für verkäste Kuh-, Schaf- und Ziegenmilch beträgt 15 Rappen pro Kilogramm Milch abzüglich des Betrags der Zulage für Verkehrsmilch nach Artikel 2*a*.
+<sup>1</sup> Die Zulage für verkäste Kuh-, Schaf- und Ziegenmilch beträgt 15 Rappen pro Kilogramm Milch abzüglich des Betrags der Zulage für Verkehrsmilch nach Artikel 2*a*.[^1c-2]
 
 <sup>2</sup>
 
@@ -79,7 +79,7 @@ Sie wird den Milchproduzenten und Milchproduzentinnen ausgerichtet, wenn die Mil
 
   Käse, der:
 
-  - 1\. die Anforderungen an Käse erfüllt, die das Eidgenössische Departement des Innern (EDI) gestützt auf die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^1c-2] (LGV) in den Ausführungsbestimmungen im Bereich der Lebensmittel tierischer Herkunft erlässt, und
+  - 1\. die Anforderungen an Käse erfüllt, die das Eidgenössische Departement des Innern (EDI) gestützt auf die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^1c-3] (LGV) in den Ausführungsbestimmungen im Bereich der Lebensmittel tierischer Herkunft erlässt, und
   - 2\. einen Fettgehalt in der Trockenmasse von mindestens 150 g/kg aufweist;
 
 - b. Rohziger als Rohstoff für Glarner Schabziger; oder
@@ -90,7 +90,8 @@ Sie wird den Milchproduzenten und Milchproduzentinnen ausgerichtet, wenn die Mil
 <sup>4</sup> Wird in einem Verarbeitungsbetrieb sämtliche Milch vor der Verkäsung mittels Zentrifugieren auf einen bestimmten Fettgehalt eingestellt, so wird die Zulage entsprechend dem Fettgehalt mit dem Faktor nach dem Anhang multipliziert.
 
 [^1c-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
-[^1c-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1c-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 902](https://fedlex.data.admin.ch/eli/oc/2021/902)).
+[^1c-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 2
 
@@ -124,11 +125,12 @@ Für Milch, die von Kühen, Schafen und Ziegen ohne Silagefütterung stammt, ric
 
 **Zulage für Verkehrsmilch**[^2a-1]
 
-<sup>1</sup> Für Verkehrsmilch, die von Kühen stammt, richtet das BLW den Milchproduzenten und Milchproduzentinnen eine Zulage von 4,5 Rappen je Kilogramm aus.
+<sup>1</sup> Für Verkehrsmilch, die von Kühen stammt, richtet das BLW den Milchproduzenten und Milchproduzentinnen eine Zulage von 5 Rappen je Kilogramm aus.[^2a-2]
 
 <sup>2</sup> Es kann die Höhe der Zulage unter Berücksichtigung der Mengenentwicklung und im Rahmen der bewilligten Mittel anpassen.
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3955](https://fedlex.data.admin.ch/eli/oc/2018/634)).
+[^2a-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 790](https://fedlex.data.admin.ch/eli/oc/2021/790)).
 
 ## 2. Abschnitt: Verfahren
 
@@ -325,8 +327,8 @@ Die folgenden Verordnungen werden aufgehoben:
 - 1\. Verordnung vom 7. Dezember 1998[^15-1] über Zulagen und Beihilfen im Milchbereich,
 - 2\. Verordnung des EVD vom 7. Dezember 1998[^15-2] über die Höhe der Beihilfen für Milchprodukte und Vorschriften für die Einfuhr von Vollmilchpulver.
 
-[^15-1]: [[AS 1999 1226](https://fedlex.data.admin.ch/eli/oc/1999/165), [2000 406](https://fedlex.data.admin.ch/eli/oc/2000/87), [2001 842](https://fedlex.data.admin.ch/eli/oc/2001/116), [2002 213](https://fedlex.data.admin.ch/eli/oc/2002/43)[3050](https://fedlex.data.admin.ch/eli/oc/2002/438), [2003 5491](https://fedlex.data.admin.ch/eli/oc/2003/792), [2005 2545](https://fedlex.data.admin.ch/eli/oc/2005/440), [2006 893](https://fedlex.data.admin.ch/eli/oc/2006/158), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 57]
-[^15-2]: [[AS 1999 1220](https://fedlex.data.admin.ch/eli/oc/1999/164), [2002 1100](https://fedlex.data.admin.ch/eli/oc/2002/177), [2003 5495](https://fedlex.data.admin.ch/eli/oc/2003/793), [2004 4979](https://fedlex.data.admin.ch/eli/oc/2004/754), [2007 6433](https://fedlex.data.admin.ch/eli/oc/2007/841)]
+[^15-1]: [[AS 1999 1226](https://fedlex.data.admin.ch/eli/oc/1999/165); [2000 406](https://fedlex.data.admin.ch/eli/oc/2000/87); [2001 842](https://fedlex.data.admin.ch/eli/oc/2001/116); [2002 213](https://fedlex.data.admin.ch/eli/oc/2002/43), [3050](https://fedlex.data.admin.ch/eli/oc/2002/438); [2003 5491](https://fedlex.data.admin.ch/eli/oc/2003/792); [2005 2545](https://fedlex.data.admin.ch/eli/oc/2005/440); [2006 893](https://fedlex.data.admin.ch/eli/oc/2006/158); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 57]
+[^15-2]: [[AS 1999 1220](https://fedlex.data.admin.ch/eli/oc/1999/164); [2002 1100](https://fedlex.data.admin.ch/eli/oc/2002/177); [2003 5495](https://fedlex.data.admin.ch/eli/oc/2003/793); [2004 4979](https://fedlex.data.admin.ch/eli/oc/2004/754); [2007 6433](https://fedlex.data.admin.ch/eli/oc/2007/841)]
 
 #### Art. 16
 
