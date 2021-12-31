@@ -1,236 +1,331 @@
 ---
 canton: BS
 number: "815.100"
-title: Gesetz betreffend die Tagesbetreuung von Kindern
-short: Tagesbetreuungsgesetz
+title: Gesetz betreffend Tagesbetreuung von Kindern
+short: "Tagesbetreuungsgesetz, TBG"
 language: de
-version: 2016-01-01
-valid_until: 2021-12-31
-version_adopted: 2015-05-21
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2019-05-08
 adopted: 2019-05-08
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/815.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3517/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5345/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz betreffend die Tagesbetreuung von Kindern
+# Gesetz betreffend Tagesbetreuung von Kindern
 
-Tagesbetreuungsgesetz | Kinderbetreuung
+(Tagesbetreuungsgesetz, TBG)
 
-(Tagesbetreuungsgesetz)
-
-Vom 17. September 2003 (Stand 1. Januar 2016)
+Vom 8. Mai 2019 (Stand 1. Januar 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
-gestützt auf § 11 Abs. 2 lit. a der Verfassung des Kantons Basel-Stadt vom 23. März 2005[^ingress-1], auf Antrag des Regierungsrates,
+gestützt auf § 11 Abs. 2 lit. a und § 18 der Verfassung des Kantons Basel-Stadt vom 23. März 2005[^ingress-1], nach Einsichtnahme in den Ratschlag des Regierungsrates Nr [17.1460.01](https://www.grosserrat.bs.ch/dokumente/100387/000000387901.pdf) vom 29. Mai 2018 sowie in den Bericht der Bildungs- und Kulturkommission Nr. [17.1460.02](https://www.grosserrat.bs.ch/dokumente/100389/000000389386.pdf) vom 17. Dezember 2018,
 
-beschliesst folgendes Gesetz:
+beschliesst:
 
-[^ingress-1]: SG [111.100](https://www.gesetzessammlung.bs.ch/data/111.100/de).
+[^ingress-1]: SG 111.100
 
 ## I. Allgemeine Bestimmungen
 
 #### § 1
 
-**Gegenstand**
+**Zweck und Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt und fördert die familienergänzende Tagesbetreuung von Kindern. Es gewährleistet den Eltern ein ausreichendes und vielfältiges Netz an Betreuungsangeboten.
+<sup>1</sup> Dieses Gesetz bezweckt die Förderung der familienergänzenden Tagesbetreuung von Kindern in Kindertagesstätten und Tagesfamilien durch:
 
-<sup>2</sup> Kanton, Gemeinden, Arbeitgeberinnen und Arbeitgeber fördern die Tagesbetreuung durch eigene Angebote, durch die Zusprache finanzieller Mittel oder auf andere Art.
+- a) die Gewährleistung eines bedarfsgerechten, qualitativ guten Betreuungsangebots;
+- b) finanzielle Leistungen an die Betreuung, zur Förderung und Entwicklung des Angebots und der Qualität;
+- c) die Bereitstellung von Unterstützungsleistungen, insbesondere die Information, Beratung und Vermittlung, sowie
+- d) die Regelung der Organisation und Zuständigkeiten.
 
 #### § 2
 
-**Zweck**
+**Begriffe**
 
-<sup>1</sup> Die Tagesbetreuung unterstützt die Familie bei ihrer Betreuungsaufgabe, fördert Kinder in ihrer Entwicklung von Grundkompetenzen, verbessert die Integration und trägt zur Chancengleichheit bei.
+<sup>1</sup> Die folgenden Begriffe werden im Rahmen dieses Gesetzes gemäss den nachstehenden Definitionen verwendet:
 
-<sup>2</sup> Sie ermöglicht Eltern Erwerbsarbeit, den Erhalt und die Verbesserung ihrer beruflichen Qualifikation sowie die Wahrnehmung von Aufgaben im sozialen und öffentlichen Bereich.
-
-<sup>3</sup> Sie unterstützt Arbeitgeberinnen oder Arbeitgeber bei der Gewinnung und Erhaltung von Arbeitskräften mit Erziehungspflichten.
+- a) «Eltern» sind die Erziehungsberechtigten von Kindern;
+- b) «Betreuungsbeiträge» sind individuelle, aufgrund der Einkommens- und Vermögensverhältnisse der Eltern berechnete Beiträge des Kantons und der Gemeinden an die Tagesbetreuung in Kindertagesstätten und Tagesfamilien mit Betreuungsbeiträgen;
+- c) «Kindertagesstätten» sind Einrichtungen, in denen Kinder regelmässig tagsüber durch qualifizierte Fachpersonen und in geeigneten Räumlichkeiten betreut werden;
+- d) «Tagesfamilien» sind Familien, in denen Kinder gegen Entgelt und regelmässig in geeigneten Räumlichkeiten betreut werden;
+- e) «Tagesfamilienorganisationen» sind Trägerschaften, die Tagesfamilien suchen, deren Eignung abklären, vermitteln, begleiten und für die Abwicklung der administrativen und finanziellen Belange sorgen;
+- f) «Kindertagesstätten mit Betreuungsbeiträgen» und «Tagesfamilien mit Betreuungsbeiträgen» sind Einrichtungen, die Betreuungsplätze mit Betreuungsbeiträgen anbieten;
+- g) «Beratungs- und Vermittlungsstellen» sind die zuständigen Stellen des Kantons und der Gemeinden, die über das Angebot der Tagesbetreuung informieren, Eltern beraten und bei Bedarf Betreuungsplätze in Kindertagesstätten mit Betreuungsbeiträgen vermitteln.
 
 #### § 3
 
-**Verhältnis zu den Landgemeinden**
+**Grundsätze**
 
-<sup>1</sup> Die Gemeinden Riehen und Bettingen können eigene Angebote führen, private Angebote unterstützen oder sich anteilsmässig an den Kosten beteiligen.
+<sup>1</sup> Die familienergänzende Tagesbetreuung:
 
-<sup>2</sup> Die Aufgabenteilung zwischen den Gemeinwesen erfolgt auf vertraglicher Basis. Für den Kanton handelt das zuständige Departement.
+- a) orientiert sich vorrangig am Kindeswohl;
+- b) leistet in Ergänzung zur Familie einen wichtigen Beitrag für die frühkindliche Bildung, Betreuung und Erziehung;
+- c) fördert die Kinder gemäss ihren Fähigkeiten und Neigungen und unterstützt die Sprachentwicklung sowie das Deutschsprechen bei fremdsprachigen Kindern;
+- d) trägt zur Chancengleichheit und Integration der Kinder bei;
+- e) ermöglicht den Eltern Erwerbsarbeit, Ausbildung, den Erhalt und die Verbesserung der beruflichen Qualifikation sowie die Wahrnehmung von Aufgaben im öffentlichen und sozialen Bereich und
+- f) unterstützt Arbeitgebende bei der Gewinnung und Erhaltung von Arbeitskräften mit Erziehungspflichten.
 
 #### § 4
 
-**Angebot**
+**Leistungserbringende**
 
-<sup>1</sup> Das zuständige Departement plant unter Einbezug der Landgemeinden das Angebot der Tagesbetreuung.
+<sup>1</sup> Die Tagesbetreuung wird in der Regel von privaten Leistungserbringenden angeboten.
 
-<sup>2</sup> Das Angebot ist so zu planen, dass Eltern bei rechtzeitiger Meldung und nach Vorhandensein der notwendigen Unterlagen in der Regel innert drei Monaten nach dem gewünschten Termin ein Angebot für einen Tagesbetreuungsplatz unterbreitet werden kann.
+<sup>2</sup> Das zuständige Departement und die zuständigen Stellen der Gemeinden können, wenn dies zur Gewährleistung eines bedarfsgerechten Betreuungsangebots zu angemessenen Preisen erforderlich ist:
 
-<sup>3</sup> Zum Angebot der Tagesbetreuung gehören insbesondere:
+- a) Private mittels Leistungsvereinbarung beauftragen, einzelne Betreuungsleistungen anzubieten oder Kindertagesstätten zu führen, oder
+- b) eigene Kindertagesstätten führen.
 
-– Tages- und Halbtagesheime,
-
-– Tagesfamilien,
-
-–
-
-–
-
-– Spielgruppen.
-
-<sup>4</sup> Das Angebot verteilt sich auf die Quartiere der Stadt und der Landgemeinden. Die Öffnungszeiten sind bedürfnisgerecht ausgestaltet.
-
-<sup>5</sup> Das Angebot wird in der Regel von privaten Trägerschaften geführt.
-
-## II. Förderung durch finanzielle Mittel
-
-### 1. Finanzierung durch Kanton und Landgemeinden
-
-### a) Allgemeine Voraussetzungen
+## II. Leistungen an Eltern
 
 #### § 5
 
-<sup>1</sup> Unterstützt werden können Trägerschaften für die Aufnahme von Kindern mit Wohnsitz im Kanton Basel-Stadt. Die Tagesbetreuungsplätze sind auf dem Kantonsgebiet anzubieten.
+**Anspruchsberechtigung**
 
-<sup>2</sup> Weiter können Eltern unterstützt werden, die im Kanton Basel-Stadt Wohnsitz haben.
+<sup>1</sup> Eltern haben Anspruch auf Betreuungsbeiträge für Betreuungsplätze im Kanton Basel-Stadt, wenn das Kind im Kanton Basel-Stadt Wohnsitz hat, und:
+
+- a) sie erwerbstätig oder auf der Suche nach Erwerbsarbeit sind;
+- b) sie eine anerkannte Aus-, Fort- oder Weiterbildung besuchen;
+- c) sie Aufgaben im öffentlichen oder sozialen Bereich wahrnehmen;
+- d) eine Fachstelle die Betreuung als ergänzende Hilfe zur Erziehung angeordnet oder bewilligt hat oder
+- e) die Betreuung der frühen Deutschförderung von Kindern im Hinblick auf die Einschulung dient.
+
+<sup>2</sup> Der Regierungsrat kann einen Mindestumfang der Betreuung für die Gewährung von Betreuungsbeiträgen festlegen.
+
+<sup>3</sup> Das zuständige Departement und die zuständigen Stellen der Gemeinden können ausnahmsweise Betreuungsbeiträge für einen Betreuungsplatz in einer Kindertagesstätte oder Tagesfamilie ausserhalb des Kantons Basel-Stadt gewähren, wenn diese die wesentlichen Anforderungen an Kindertagesstätten mit Betreuungsbeiträgen oder Tagesfamilien mit Betreuungsbeiträgen erfüllen.
 
 #### § 6
 
-<sup>1</sup> Staatsbeiträge an Trägerschaften mit Leistungsvereinbarungen und Institutionen ohne Leistungsvereinbarungen werden für Kinder bis 14 Jahre gewährt.
+**Beginn und Dauer des Anspruchs**
 
-<sup>2</sup> Staatsbeiträge können ausnahmsweise bis maximal zum Ende der obligatorischen Schulzeit gewährt werden.
+<sup>1</sup> Der Anspruch auf Betreuungsbeiträge beginnt mit dem Alter des Kindes von drei Monaten und dauert bis zur Vollendung:
 
-### b) Staatsbeiträge an Trägerschaften mit Leistungsvereinbarungen
+- a) des fünften Schuljahres der Primarstufe bei Betreuung in einer Kindertagesstätte mit Betreuungsbeiträgen;
+- b) des achten Schuljahres der Primarstufe bei Betreuung in einer Tagesfamilie mit Betreuungsbeiträgen.
+
+<sup>2</sup> Das zuständige Departement und die zuständigen Stellen der Gemeinden können Ausnahmen von der Altersbegrenzung bewilligen.
 
 #### § 7
 
-<sup>1</sup> Trägerschaften mit Leistungsvereinbarungen können Abgeltungen gewährt werden, wenn:
+**Geltendmachung des Anspruchs**
 
-- a) eine Nachfrage nach ihren Tagesbetreuungsplätzen besteht,
-- b) die Trägerschaft nicht gewinnorientiert arbeitet,
-- c) die Qualität der Betreuung gewährleistet ist,
-- d) die Mindestöffnungszeiten eingehalten werden.
-
-<sup>2</sup> Tages- und Halbtagesheime haben darüber hinaus den Anforderungen insbesondere im Bereich der Integration, Sprachförderung und der Chancengleichheit zwischen den Geschlechtern angemessen Rechnung zu tragen.
-
-<sup>3</sup> Zur Förderung des Berufsnachwuchses bilden insbesondere grössere mit Staatsbeiträgen unterstützte Betriebe entsprechende Berufsleute aus.
+<sup>1</sup> Eltern stellen rechtzeitig ein Gesuch um Betreuungsbeiträge beim zuständigen Departement oder bei den zuständigen Stellen der Gemeinden.
 
 #### § 8
 
-<sup>1</sup> Mit den Staatsbeiträgen vergütet der Kanton den Trägerschaften die anrechenbaren Tageskosten abzüglich der Elternbeiträge. Die Tageskosten berechnen sich auf Grund einer Mindestbelegung und setzen sich aus den vereinbarten Personal-, Sach- und Liegenschaftskosten zusammen.
+**Höhe der Betreuungsbeiträge**
 
-<sup>2</sup> Für die Betreuung von behinderten Kindern und Kindern, welche auf Grund des Gesetzes betreffend kantonale Jugendhilfe vom 17. Oktober 1984 aufgenommen werden, können die Beiträge gemäss Abs. 1 angemessen erhöht werden.
+<sup>1</sup> Der Regierungsrat legt die Höhe der Betreuungsbeiträge fest.
+
+<sup>2</sup> Er sieht höhere Beiträge für Säuglinge, Kinder mit besonderem Betreuungsbedarf, Kinder mit Bedarf an früher Deutschförderung und Geschwister vor.
+
+<sup>3</sup> Das zuständige Departement und die Gemeinden gewähren für spezielle Betreuungszeiten sowie befristet für Härtefälle zusätzliche Beiträge.
 
 #### § 9
 
-**Ergänzende Staatsbeiträge für Kinder in Institutionen ohne Leistungsvereinbarungen**
+**Berechnung und Auszahlung der Betreuungsbeiträge**
 
-<sup>1</sup> Eltern kann für die Betreuung ihrer Kinder in einer Institution ohne Leistungsvereinbarung eine finanzielle Unterstützung in der Form von ergänzenden Staatsbeiträgen zugesprochen werden, wenn:
+<sup>1</sup> Grundlage für die Berechnung der Betreuungsbeiträge bilden die Bestimmung der massgeblichen wirtschaftlichen Haushaltseinheit und des massgeblichen Einkommens nach dem Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (Harmonisierungsgesetz Sozialleistungen, SoHaG) vom 25. Juni 2008.
 
-- a) die Institution über eine Bewilligung verfügt,
-- b) sie nicht gewinnorientiert arbeitet,
-- c) sie über eine transparente Rechnungslegung verfügt,
-- d) die Lohnansätze nicht höher sind als die kantonalen Ansätze,
-- e) die Eltern nicht in der Lage sind, den Elternbeitrag zu entrichten,
-- f) eine Platzierungsindikation gegeben ist (z.B. Erwerbstätigkeit der Eltern, Indikation gemäss dem Gesetz betreffend kantonale Jugendhilfe vom 17. Oktober 1984),
-- g) die Qualität der Betreuung gewährleistet ist,
-- h) die Mindestöffnungszeiten eingehalten werden.
+<sup>2</sup> Das zuständige Departement und die Gemeinden bezeichnen die für die Berechnung und Auszahlung der Betreuungsbeiträge jeweils zuständige Stelle.
 
-<sup>2</sup> Die Höhe der ergänzenden Beiträge richtet sich nach den Einkommens- und Vermögensverhältnissen der Eltern und sie beträgt maximal 80% der durchschnittlichen Tageskosten von Tagesbetreuungsplätzen in Institutionen mit Leistungsvereinbarungen.
-
-<sup>3</sup> Die ergänzenden Beiträge werden direkt der betreffenden Institution ausgerichtet.
-
-#### § 9a
-
-**Ergänzende Beiträge für Kinder in Spielgruppen**
-
-<sup>1</sup> Eltern kann für die Betreuung ihrer Kinder in einer Spielgruppe eine finanzielle Unterstützung in der Form von ergänzenden Beiträgen zugesprochen werden, wenn die Spielgruppe wöchentlich an mindestens zwei halben Tagen eine qualifizierte spezielle Förderung in Deutsch anbietet.
-
-<sup>2</sup> Die Höhe der ergänzenden Beiträge richtet sich nach den Einkommens- und Vermögensverhältnissen.
-
-<sup>3</sup> Die ergänzenden Beiträge werden direkt der betreffenden Spielgruppe ausgerichtet.
+<sup>3</sup> Die Betreuungsbeiträge werden direkt an die Kindertagesstätten mit Betreuungsbeiträgen und die Tagesfamilienorganisationen ausbezahlt.
 
 #### § 10
 
-**…**
+**Information, Beratung und Vermittlung**
 
-### 2. Finanzierung durch die Eltern
+<sup>1</sup> Die zuständigen Beratungs- und Vermittlungsstellen informieren über das Angebot der Tagesbetreuung, beraten Eltern und vermitteln bei Bedarf Betreuungsplätze in Kindertagesstätten mit Betreuungsbeiträgen innert dreier Monaten nach der Anmeldung.
+
+<sup>2</sup> Das zuständige Departement betreibt ein öffentlich zugängliches Informationssystem, das die für Eltern relevanten Informationen über Kindertagesstätten mit Betreuungsbeiträgen enthält.
+
+## III. Kindertagesstätten und Tagesfamilien
+
+### 1. Bewilligung, Aufsicht sowie Förderung des Angebots und der Qualität
 
 #### § 11
 
-<sup>1</sup> Für Tagesbetreuungsplätze in Institutionen mit und ohne Leistungsvereinbarungen richten sich die Beiträge der Eltern nach den Einkommens- und Vermögensverhältnissen. In Härtefällen kann der Elternbeitrag angemessen reduziert werden.
+**Bewilligung und Aufsicht**
 
-<sup>2</sup> Das zuständige Departement bezeichnet die für die Berechnungen und das Inkasso der Elternbeiträge zuständigen Stellen.
+<sup>1</sup> Die Tagesbetreuung eines Kindes oder mehrerer Kinder in Kindertagesstätten oder Tagesfamilien bedarf einer Bewilligung und untersteht der Aufsicht durch das zuständige Departement.
 
-<sup>3</sup> Die massgebliche wirtschaftliche Haushaltseinheit und die Berechnung des massgeblichen Einkommens richten sich nach dem Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen vom 25. Juni 2008 (Harmonisierungsgesetz Sozialleistungen).
-
-## III. Förderung auf andere Art
+<sup>2</sup> Für die Bewilligung von und die Aufsicht über Kindertagesstätten und Tagesfamilien gelten die Bestimmungen der Verordnung über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO) vom 19. Oktober 1977.
 
 #### § 12
 
-**Unterstützungsleistungen an Institutionen und Arbeitgeberinnen oder Arbeitgeber**
+**Förderung des Angebots und der Qualität**
 
-<sup>1</sup> Das zuständige Departement kann im Bereich der Tagesbetreuung tätige Institutionen und Personen sowie Arbeitgeberinnen oder Arbeitgeber bei der Wahrnehmung ihrer Aufgaben, für Kinder ihrer Mitarbeiterinnen und Mitarbeiter Tagesbetreuungsplätze anzubieten, unterstützen. Die Unterstützung erfolgt insbesondere durch Koordination und Beratung, Vermittlung von geeigneten Räumen sowie Förderung von Fort- und Weiterbildung.
+<sup>1</sup> Das zuständige Departement legt Vorgaben zur Qualität in Kindertagesstätten und Tagesfamilien fest.
 
-<sup>2</sup> Für diese Leistungen können Gebühren erhoben werden.
+<sup>2</sup> Es kann Kindertagesstätten Beiträge zur Förderung des Berufsnachwuchses gewähren.
+
+<sup>3</sup> Das zuständige Departement und die Gemeinden können im Bereich der Tagesbetreuung tätige Leistungserbringende und Personen sowie Arbeitgebende unterstützen, insbesondere durch Koordination, Beratung, Vermittlung, Förderung von Fort- und Weiterbildung sowie Beiträge an Projekte der Qualitätsentwicklung.
+
+### 2. Kindertagesstätten mit Betreuungsbeiträgen
 
 #### § 13
 
-**Beratung und Vermittlung**
+**Anforderungen an Kindertagesstätten mit Betreuungsbeiträgen**
 
-<sup>1</sup> Das zuständige Departement berät die Eltern bezüglich der Angebote der Tagesbetreuung und der Direktunterstützung. Es ist ihnen bei der Vermittlung eines geeigneten Betreuungsangebotes behilflich.
+<sup>1</sup> Eine Kindertagesstätte, die Plätze mit Betreuungsbeiträgen anbietet, muss:
 
-<sup>2</sup> Das zuständige Departement kann diese Aufgaben delegieren.
+- a) eine konfessionell und politisch neutrale Bildung, Betreuung und Erziehung der Kinder gewährleisten;
+- b) Kinder diskriminierungsfrei aufnehmen;
+- c) eine Betreuung an fünf Tagen pro Woche bei maximal vier Wochen Betriebsferien pro Jahr anbieten;
+- d) in der Regel über mindestens zehn Betreuungsplätze verfügen;
+- e) im Rahmen ihrer Möglichkeiten Ausbildungsplätze anbieten;
+- f) ein angemessenes Verhältnis zwischen Praktikums- und Ausbildungsplätzen aufweisen;
+- g) die branchenüblichen Anstellungsbedingungen einhalten;
+- h) Kinder mindestens während der Hälfte der anwesenden Zeit in deutscher Sprache betreuen und
+- i) ihren Betrieb langfristig finanzieren können.
 
-## IV. Bewilligung und Aufsicht
+<sup>2</sup> Sie hat im Rahmen der Bewilligung in geeigneter Form nachzuweisen, dass sie diese Anforderungen erfüllt.
 
 #### § 14
 
-<sup>1</sup> Die Betreuung von Kindern ausserhalb des Elternhauses unterliegt unter bestimmten Voraussetzungen der Bewilligung und Aufsicht des zuständigen Departements. Die Voraussetzungen werden in der Verordnung näher ausgeführt.
+**Zusammenarbeit**
 
-<sup>2</sup> Das zuständige Departement kann das Erteilen der Bewilligung einer geeigneten Institution übertragen.
+<sup>1</sup> Kindertagesstätten mit Betreuungsbeiträgen arbeiten mit dem zuständigen Departement oder den zuständigen Stellen der Gemeinden sowie deren Beratungs- und Vermittlungsstellen zusammen.
 
-## V. Datenschutz
+<sup>2</sup> Sie liefern regelmässig die für das vom zuständigen Departement betriebene Informationssystem notwendigen Daten.
 
 #### § 15
 
-**Datenbearbeitung**
+**Preisgestaltung**
 
-<sup>1</sup> Für die Bearbeitung der Daten, einschliesslich besonders schützenswerter Personendaten, ist das Gesetz über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen im Kanton Basel-Stadt vom 25. Juni 2008 (Harmonisierungsgesetz Sozialleistungen) massgebend.
+<sup>1</sup> Jede Kindertagesstätte mit Betreuungsbeiträgen regelt die Preise für die Betreuung einheitlich und legt sie offen.
+
+<sup>2</sup> Der Regierungsrat legt zur Gewährleistung eines bedarfsgerechten Betreuungsangebots zu angemessenen Preisen einen Minimal- und Maximalpreis fest.
 
 #### § 16
 
-**Schweigepflicht**
+**Betreuungsvertrag**
 
-<sup>1</sup> Personen, die mit dem Vollzug dieses Gesetzes betraut sind, dazu beigezogen werden oder als Verantwortliche oder Mitarbeitende einer Trägerschaft über Sonderwissen verfügen, haben über Tatsachen und Verhältnisse, die ihnen in Ausübung ihrer Aufgabe bekannt werden, Stillschweigen zu bewahren.
+<sup>1</sup> Kindertagesstätten mit Betreuungsbeiträgen schliessen mit den Eltern einen schriftlichen Betreuungsvertrag ab.
 
-<sup>2</sup> Auskünfte sind zulässig, soweit hiefür eine gesetzliche Grundlage im Bundesrecht oder im kantonalen Recht besteht.
-
-## VI. Rechtspflege
+<sup>2</sup> Das zuständige Departement kann Richtlinien zum Vertragsinhalt erlassen.
 
 #### § 17
 
-**Rechtsmittel**
+**Einhaltung der Bestimmungen über Kindertagesstätten mit Betreuungsbeiträgen**
 
-<sup>1</sup> Gegen kantonale Verfügungen, welche gemäss diesem Gesetz und dessen Ausführungsbestimmungen ergehen, steht den Betroffenen nach den Bestimmungen des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt vom 22. April 1976 ein Rekursrecht an das zuständige Departement zu.
+<sup>1</sup> Das zuständige Departement überprüft, ob die Kindertagesstätten mit Betreuungsbeiträgen die Anforderungen erfüllen und die vorstehenden Pflichten einhalten.
 
-<sup>2</sup> Die Gemeinden ordnen das Rekursverfahren selber. Gegen letztinstanzliche Verfügungen der zuständigen Gemeindebehörden kann gemäss den Bestimmungen des Gemeindegesetzes und des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung an den Regierungsrat rekurriert werden.
+<sup>2</sup> Werden die Anforderungen nicht mehr erfüllt oder die Pflichten nicht eingehalten, so fordert das zuständige Departement die Kindertagesstätte auf, unverzüglich die nötigen Massnahmen zu treffen.
 
-## VII. Übergangs- und Schlussbestimmungen
+<sup>3</sup> Sind die Massnahmen erfolglos geblieben oder erscheinen sie von vornherein ungenügend, so entzieht das zuständige Departement der Kindertagesstätte die Berechtigung, Plätze mit Betreuungsbeiträgen anzubieten.
 
 #### § 18
 
-**Übergangsbestimmungen**
+**Investitionsbeiträge, Anschubfinanzierung und Beiträge an die Liegenschaftskosten**
 
-<sup>1</sup> Aktuelle Subventionsverhältnisse können bis zu deren zeitlichem Ablauf bestehen bleiben.
+<sup>1</sup> Der Kanton oder die Gemeinden können Kindertagesstätten, die Plätze mit Betreuungsbeiträgen anbieten wollen, oder Kindertagesstätten mit Betreuungsbeiträgen Investitionsbeiträge und Beiträge zur Anschubfinanzierung gewähren.
+
+<sup>2</sup> Der Kanton oder die Gemeinden können Kindertagesstätten, deren Liegenschaftskosten nachgewiesen und begründet überdurchschnittlich hoch sind, Beiträge an die Liegenschaftskosten gewähren.
+
+### 3. Tagesfamilien mit Betreuungsbeiträgen
 
 #### § 19
 
-**Inkrafttreten**
+**Anforderungen an Tagesfamilien mit Betreuungsbeiträgen**
 
-<sup>1</sup> Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum. Nach Eintritt der Rechtskraft bestimmt der Regierungsrat den Zeitpunkt der Wirksamkeit.[^19-1]
+<sup>1</sup> Betreuungsbeiträge werden für Kinder in Tagesfamilien ausgerichtet, wenn die Tagesfamilien einer Tagesfamilienorganisation mit Leistungsvereinbarung angeschlossen sind.
 
-[^19-1]: Wirksam seit 1. 1. 2004.
+#### § 20
 
-KB 20.09.2001
+**Zusammenarbeit mit Tagesfamilienorganisationen**
+
+<sup>1</sup> Das zuständige Departement oder die Gemeinden schliessen mit geeigneten Organisationen eine Leistungsvereinbarung ab.
+
+<sup>2</sup> Das zuständige Departement oder die Gemeinden können einen Beitrag an den Aufwand der Geschäftsstelle der Tagesfamilienorganisationen gewähren.
+
+## IV. Aufgabenteilung, Planung und Vollzug
+
+#### § 21
+
+**Aufgabenteilung zwischen dem Kanton und den Gemeinden Bettingen und Riehen**
+
+<sup>1</sup> Der Wohnsitz des Kindes ist massgebend für die Finanzierung der Betreuungsbeiträge sowie der zusätzlichen Beiträge für spezielle Betreuungszeiten und Härtefälle gemäss § 8 Abs. 3.
+
+<sup>2</sup> Der Standort der Kindertagesstätte ist massgebend für die Finanzierung der Investitionsbeiträge, die Anschubfinanzierung und Beiträge an die Liegenschaftskosten gemäss § 18.
+
+<sup>3</sup> Die weitere Aufgabenteilung zwischen dem Kanton und den Gemeinden wird zwischen dem zuständigen Departement und den Gemeinden vertraglich geregelt.
+
+<sup>4</sup> Die Gemeinden können weitere Leistungen finanzieren.
+
+<sup>5</sup> Aufgaben der Einwohnergemeinde der Stadt Basel werden durch die kantonalen Organe und Behörden besorgt.
+
+#### § 22
+
+**Planung und Berichterstattung**
+
+<sup>1</sup> Das zuständige Departement beziehungsweise die zuständigen Stellen der Gemeinden planen und entwickeln die Leistungen im Sinne dieses Gesetzes und stellen eine bedarfsgerechte Weiterentwicklung des Angebots sicher.
+
+<sup>2</sup> Sie beziehen die Leistungserbringenden und weitere betroffene Kreise ein.
+
+<sup>3</sup> Die Leistungserbringenden stellen dem zuständigen Departement die erforderlichen Informationen sowie die notwendigen Kennzahlen für statistische Erhebungen zum Angebot und zu den Leistungen zur Verfügung.
+
+<sup>4</sup> Das zuständige Departement berichtet periodisch über die Entwicklung des Angebots und der Leistungen.
+
+#### § 23
+
+**Vollzug**
+
+<sup>1</sup> Das zuständige Departement beziehungsweise die zuständigen Stellen der Gemeinden vollziehen die Aufgaben dieses Gesetzes, sofern sie nicht ausdrücklich einer anderen Behörde zugeordnet sind.
+
+<sup>2</sup> Der Regierungsrat erlässt die notwendigen Ausführungsbestimmungen.
+
+## V. Datenbearbeitung und Schweigepflicht
+
+#### § 24
+
+**Datenbearbeitung**
+
+<sup>1</sup> Das zuständige Departement und die zuständigen Stellen der Gemeinden können im Rahmen ihrer gesetzlichen Aufgabenerfüllung, wozu namentlich die Planung, die Kontrolle und die Überprüfung der Wirksamkeit der Tagesbetreuungsangebote im Kanton sowie die Information der Öffentlichkeit darüber und die Information, Beratung und Unterstützung der Eltern gehören, gemäss den Bestimmungen des Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 2010 sowie des Harmonisierungsgesetzes Sozialleistungen Personendaten bearbeiten.
+
+<sup>2</sup> Sie können Kindertagesstätten, Tagesfamilien sowie Tagesfamilienorganisationen Personendaten bekanntgeben, soweit dies zu ihrer Aufgabenerfüllung erforderlich beziehungsweise, bei besonderen Personendaten, zwingend notwendig ist.
+
+#### § 25
+
+**Schweigepflicht**
+
+<sup>1</sup> Mitarbeitende in Kindertagesstätten und Tagesfamilien sind in Bezug auf Tatsachen, die ihnen in dieser Eigenschaft bekannt werden, zur Verschwiegenheit gegenüber Dritten verpflichtet.
+
+<sup>2</sup> Die Schweigepflicht gilt nicht:
+
+- a) sofern die gesetzliche Vertretung eines betreuten Kindes in eine Auskunftserteilung eingewilligt hat;
+- b) gegenüber den Schulen im Rahmen der fachlich erforderlichen Zusammenarbeit;
+- c) gegenüber Mitarbeitenden der Aufsichtsbehörde und der Beratungs- und Vermittlungsstellen sowie der Kindes- und Erwachsenenschutzbehörde;
+- d) bei einer gesetzlichen Auskunfts- oder Anzeigepflicht.
+
+## VI. Rechtspflege
+
+#### § 26
+
+**Rechtsmittel**
+
+<sup>1</sup> Verfügungen, die in Anwendung dieses Gesetzes ergehen, können im Kanton nach den Bestimmungen des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz, OG) vom 22. April 1976 bei der zuständigen Departementsvorsteherin oder dem zuständigen Departementsvorsteher angefochten werden, in den Gemeinden nach den Bestimmungen der Gemeindeordnungen bei den zuständigen Stellen der Gemeinden.
+
+## VII. Übergangs- und Schlussbestimmungen
+
+#### § 27
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Nach bisherigem Recht erteilte Bewilligungen bleiben gültig. Änderung, Entzug und Erlöschen richten sich nach neuem Recht.
+
+<sup>2</sup> Hängige Bewilligungsgesuche werden nach neuem Recht beurteilt.
+
+<sup>3</sup> Nach bisherigem Recht subventionierte oder mitfinanzierte Tagesheime gelten als Kindertagesstätten mit Betreuungsbeiträgen und werden vom zuständigen Departement im Informationssystem aufgenommen.
+
+*Schlussbestimmung*
+
+Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum und der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^footer-1]. Auf den gleichen Zeitpunkt wird das Gesetz betreffend die Tagesbetreuung von Kindern (Tagesbetreuungsgesetz) vom 17. September 2003 aufgehoben.
+
+KB 11.05.2019
+
+[^footer-1]: In Kraft seit 1. Januar 2022
