@@ -4,11 +4,11 @@ title: Verordnung des VBS vom 29. März 2017 über die Detailorganisation der Ar
 short: VDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/219"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/219/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2017-219-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/219/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-219-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20200101/de"
 
 (VDA)
 
-vom 29. März 2017 (Stand am 1. Januar 2020)
+vom 29. März 2017 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
@@ -57,4 +57,4 @@ Anhang*[^t-1]*
 
 (Art. 1)
 
-[^t-1]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2019 4323](https://fedlex.data.admin.ch/eli/oc/2019/750)).
+[^t-1]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2019 4323](https://fedlex.data.admin.ch/eli/oc/2019/750); [2021 857](https://fedlex.data.admin.ch/eli/oc/2021/857)).

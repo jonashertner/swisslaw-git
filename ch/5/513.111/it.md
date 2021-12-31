@@ -4,11 +4,11 @@ title: "Ordinanza del DDPS del 29 marzo 2017 sull'organizzazione di dettaglio de
 short: OODE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/219"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/219/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2017-219-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/219/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-219-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20200101/it"
 
 (OODE)
 
-del 29 marzo 2017 (Stato 1° gennaio 2020)
+del 29 marzo 2017 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -57,4 +57,4 @@ Allegato*[^t-1]*
 
 (art. 1)
 
-[^t-1]: Non pubblicato nella RU ([RU 2019 4323](https://fedlex.data.admin.ch/eli/oc/2019/750)).
+[^t-1]: Non pubblicato nella RU ([RU 2019 4323](https://fedlex.data.admin.ch/eli/oc/2019/750); [2021 857](https://fedlex.data.admin.ch/eli/oc/2021/857)).
