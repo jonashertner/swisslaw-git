@@ -4,11 +4,11 @@ title: "Ordonnance du 26 avril 1993 sur la protection des topographies de produi
 short: OTo
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1834_1834_1834-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1834_1834_1834-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20170101/fr"
 
 (Ordonnance sur les topographies, OTo)
 
-du 26 avril 1993 (Etat le 1<sup>er</sup> janvier 2017)
+du 26 avril 1993 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -37,10 +37,11 @@ arrête:
 
 <sup>1</sup> L’exécution des tâches administratives découlant de la LTo et l’application de la présente ordonnance incombent à l’Institut fédéral de la Propriété intellectuelle (IPI)[^1-1].[^1-2]
 
-<sup>2</sup> Toutefois, l’art. 12 LTo et les art. 16 à 19 de la présente ordonnance sont du ressort de l’Administration fédérale des douanes.
+<sup>2</sup> Toutefois, l’art. 12 LTo et les art. 16 à 19 de la présente ordonnance sont du ressort de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^1-3].
 
 [^1-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5156](https://fedlex.data.admin.ch/eli/oc/1995/5156_5156_5156)).
+[^1-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -143,7 +144,7 @@ L’IPI inscrit au registre les indications suivantes:
 - i.[^7-3] les droits concédés ainsi que les restrictions au pouvoir de disposition ordonnées par des tribunaux ou des autorités chargées de l’exécution forcée;
 - k. la date de la radiation.
 
-[^7-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O du 8 mars 2002 sur les designs, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1122](https://fedlex.data.admin.ch/eli/oc/2002/183)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 8 mars 2002 sur les designs, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1122](https://fedlex.data.admin.ch/eli/oc/2002/183)).
 [^7-2]: Introduite par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4827](https://fedlex.data.admin.ch/eli/oc/2016/773)).
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4827](https://fedlex.data.admin.ch/eli/oc/2016/773)).
 
@@ -185,7 +186,7 @@ L’IPI confirme l’enregistrement au déposant.
 
 <sup>4</sup> …[^11-3]
 
-[^11-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O du 8 mars 2002 sur les designs, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1122](https://fedlex.data.admin.ch/eli/oc/2002/183)).
+[^11-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 8 mars 2002 sur les designs, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1122](https://fedlex.data.admin.ch/eli/oc/2002/183)).
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5037](https://fedlex.data.admin.ch/eli/oc/2004/771)).
 [^11-3]: Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5037](https://fedlex.data.admin.ch/eli/oc/2004/771)).
 
@@ -209,7 +210,7 @@ Sur la base d’une déclaration de l’ayant droit ou de toute autre pièce jug
 
 **Rectification**
 
-<sup>1</sup> A la demande des ayants droit, les erreurs affectant l’enregistrement sont rectifiées sans retard.
+<sup>1</sup> À la demande des ayants droit, les erreurs affectant l’enregistrement sont rectifiées sans retard.
 
 <sup>2</sup> Lorsque l’erreur est imputable à l’IPI, elle est rectifiée d’office.
 
@@ -229,13 +230,13 @@ L’IPI établit des extraits du registre.
 
 <sup>2</sup> Les supports de données et les produits semi-conducteurs non réclamés à l’expiration du délai de conservation peuvent être restitués d’office. Lorsqu’il est impossible de trouver l’adresse des ayants droit, ils sont détruits en même temps que les documents.
 
-## Section 4 Intervention de l’Administration des douanes
+## Section 4 Intervention de l’OFDF
 
 #### Art. 16
 
 **Domaine d’application**[^16-1]
 
-L’Administration des douanes est habilitée à intervenir en cas d’introduction sur le territoire douanier et de sortie dudit territoire de produits semi-conducteurs lorsqu’il y a lieu de soupçonner que la mise en circulation de ces produits contrevient à la législation suisse sur la protection des topographies de produits semi-conducteurs.
+L’OFDF est habilité à intervenir en cas d’introduction sur le territoire douanier et de sortie dudit territoire de produits semi-conducteurs lorsqu’il y a lieu de soupçonner que la mise en circulation de ces produits contrevient à la législation suisse sur la protection des topographies de produits semi-conducteurs.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
 
@@ -267,9 +268,9 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 #### Art. 18a
 
-**Echantillons**[^18a-1]
+**Échantillons**[^18a-1]
 
-<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des produits semi-conducteurs retenus. Au lieu d’échantillons, l’Administration des douanes peut aussi lui remettre des photographies desdits produits semi-conducteurs si elles lui permettent d’effectuer cet examen.
+<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des produits semi-conducteurs retenus. Au lieu d’échantillons, l’OFDF peut aussi lui remettre des photographies desdits produits semi-conducteurs si elles lui permettent d’effectuer cet examen.
 
 <sup>2</sup> Le requérant peut présenter cette demande à la Direction générale des douanes en même temps que la demande d’intervention ou, pendant la rétention des produits semi-conducteurs, directement au bureau de douane qui retient les produits semi-conducteurs.
 
@@ -279,9 +280,9 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Protection des secrets de fabrication et d’affaires**[^18b-1]
 
-<sup>1</sup> L’Administration des douanes informe le déclarant, le possesseur ou le propriétaire des produits semi-conducteurs de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Elle lui impartit un délai raisonnable pour présenter cette demande.
+<sup>1</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des produits semi-conducteurs de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Il lui impartit un délai raisonnable pour présenter cette demande.
 
-<sup>2</sup> Si l’Administration des douanes autorise le requérant à inspecter les produits semi-conducteurs retenus, elle tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+<sup>2</sup> Si l’OFDF autorise le requérant à inspecter les produits semi-conducteurs retenus, il tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
 
 [^18b-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
 
@@ -289,18 +290,18 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Conservation des moyens de preuve en cas de destruction des produits semi-conducteurs**[^18c-1]
 
-<sup>1</sup> L’Administration des douanes conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 77, al. 1 de la loi du 9 octobre 1992 sur le droit d’auteur[^18c-2]. Après expiration de ce délai, elle invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’Administration des douanes détruit les échantillons.
+<sup>1</sup> L’OFDF conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 77, al. 1 de la loi du 9 octobre 1992 sur le droit d’auteur[^18c-2]. Après expiration de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les échantillons.
 
-<sup>2</sup> Au lieu de prélever des échantillons, l’Administration des douanes peut faire des photographies des produits semi-conducteurs détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+<sup>2</sup> Au lieu de prélever des échantillons, l’OFDF peut faire des photographies des produits semi-conducteurs détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
 
 [^18c-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
 [^18c-2]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
 #### Art. 19
 
-**Emoluments**[^19-1]
+**Émoluments**[^19-1]
 
-Les émoluments perçus pour l’intervention de l’Administration des douanes sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^19-2].
+Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^19-2].
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 (RO **2 008** 2543).
 [^19-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)

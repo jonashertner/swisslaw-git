@@ -4,11 +4,11 @@ title: "Ordinanza del 26 aprile 1993 sulla protezione delle topografie di prodot
 short: OTo
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834"
 language: it
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834/20170101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1834_1834_1834-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1834_1834_1834-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20170101/it"
 
 (Ordinanza sulle topografie, OTo)
 
-del 26 aprile 1993 (Stato 1° gennaio 2017) (Stato 1° gennaio 2017)
+del 26 aprile 1993 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -37,10 +37,11 @@ ordina:
 
 <sup>1</sup> L’esecuzione dei compiti amministrativi derivanti dalla LTo, nonché l’esecuzione della presente ordinanza, sono di competenza dell’Istituto della proprietà intellettuale (IPI)[^1-1].[^1-2]
 
-<sup>2</sup> Fanno eccezione l’articolo 12 LTo e gli articoli 16 a 19 della presente ordinanza, la cui esecuzione è di competenza dell’Amministrazione delle dogane.
+<sup>2</sup> Fanno eccezione l’articolo 12 LTo e gli articoli 16 a 19 della presente ordinanza, la cui esecuzione è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-3].
 
 [^1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5156](https://fedlex.data.admin.ch/eli/oc/1995/5156_5156_5156)).
+[^1-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -58,7 +59,7 @@ ordina:
 
 <sup>2</sup> Mancando la firma legalmente valida su una domanda o un documento, la data di presentazione originaria è riconosciuta qualora una domanda o un documento identico per contenuto e firmato sia fornito entro un mese dall’ingiunzione da parte dell’IPI.
 
-3 La firma sulla domanda d’iscrizione nel registro non è necessaria. L’IPI può designare altri documenti per i quali non è necessaria la firma.
+<sup>3</sup> La firma sulla domanda d’iscrizione nel registro non è necessaria. L’IPI può designare altri documenti per i quali non è necessaria la firma.
 
 [^2a-1]: Introdotto dal n. I dell’O del 3 dic. 2004, in vigore il 1° gen. 2005 ([RU 2004 5037](https://fedlex.data.admin.ch/eli/oc/2004/771)).
 
@@ -229,13 +230,13 @@ L’IPI allestisce estratti del registro.
 
 <sup>2</sup> I supporti di dati e i prodotti a semiconduttori di cui non viene richiesta la restituzione dopo la scadenza del termine di conservazione possono essere restituiti d’ufficio. Qualora fosse impossibile stabilire l’indirizzo degli aventi diritto, gli oggetti depositati vengono distrutti insieme agli atti.
 
-## Sezione 4: Intervento dell’Amministrazione delle dogane
+## Sezione 4: Intervento dell’UDSC
 
 #### Art. 16
 
 **Campo d’applicazione**[^16-1]
 
-L’Amministrazione federale delle dogane è abilitata a intervenire in caso di introduzione sul territorio doganale e all’asportazione da esso di prodotti a semiconduttori in merito ai quali esiste il sospetto che la messa in circolazione violi la legislazione vigente in Svizzera relativa alla protezione di topografie di prodotti a semiconduttori.
+L’UDSC è abilitata a intervenire in caso di introduzione sul territorio doganale e all’asportazione da esso di prodotti a semiconduttori in merito ai quali esiste il sospetto che la messa in circolazione violi la legislazione vigente in Svizzera relativa alla protezione di topografie di prodotti a semiconduttori.
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
 
@@ -245,7 +246,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 <sup>1</sup> I produttori o i titolari di una licenza legittimati ad agire (richiedenti) devono presentare la domanda d’intervento alla Direzione generale delle dogane.[^17-1]
 
-1<sup>bis</sup> La Direzione generale delle dogane decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^17-2]
+<sup>1bis</sup> La Direzione generale delle dogane decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^17-2]
 
 <sup>2</sup> La domanda ha effetto per due anni, a meno che all’atto del deposito sia stata fissata una durata inferiore. La domanda è rinnovabile.
 
@@ -269,7 +270,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Campioni**[^18a-1]
 
-<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare i prodotti a semiconduttori ritenuti. Invece di campioni l’Amministrazione delle dogane può trasmettere al richiedente fotografie dei prodotti a semiconduttori ritenuti, se queste ne consentono l’esame.
+<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare i prodotti a semiconduttori ritenuti. Invece di campioni l’UDSC può trasmettere al richiedente fotografie dei prodotti a semiconduttori ritenuti, se queste ne consentono l’esame.
 
 <sup>2</sup> La richiesta può essere presentata insieme alla domanda d’intervento alla Direzione generale delle dogane o, durante la ritenzione dei prodotti a semiconduttori, direttamente all’ufficio doganale che trattiene i prodotti a semiconduttori.
 
@@ -279,9 +280,9 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Tutela dei segreti di fabbricazione e di affari**[^18b-1]
 
-<sup>1</sup> L’Amministrazione delle dogane informa il depositante, il detentore o il proprietario dei prodotti a semiconduttori della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta essa stabilisce un termine adeguato.
+<sup>1</sup> L’UDSC informa il depositante, il detentore o il proprietario dei prodotti a semiconduttori della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta essa stabilisce un termine adeguato.
 
-<sup>2</sup> Qualora l’Amministrazione delle dogane consenta al richiedente di ispezionare i prodotti a semiconduttori ritenuti, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.
+<sup>2</sup> Qualora l’UDSC consenta al richiedente di ispezionare i prodotti a semiconduttori ritenuti, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.
 
 [^18b-1]: Introdotto testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
 
@@ -289,7 +290,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Conservazione dei mezzi di prova in caso di distruzione dei prodotti a semiconduttori**[^18c-1]
 
-<sup>1</sup> L’Amministrazione delle dogane trattiene i campioni prelevati per un periodo di un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 77 capoverso 1 della legge del 9 ottobre 1992[^18c-2] sul diritto d’autore. Allo scadere di tale termine l’Amministrazione delle dogane invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’Amministrazione delle dogane distrugge i campioni.
+<sup>1</sup> L’UDSC trattiene i campioni prelevati per un periodo di un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 77 capoverso 1 della legge del 9 ottobre 1992[^18c-2] sul diritto d’autore. Allo scadere di tale termine l’UDSC invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’UDSC distrugge i campioni.
 
 <sup>2</sup> Invece di prelevare campioni l’Amministrazione delle dogane può fotografare i prodotti a semiconduttori distrutti, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
 
@@ -300,7 +301,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Emolumenti**[^19-1]
 
-Gli emolumenti per l’intervento dell’Amministrazione delle dogane sono retti dall’ordinanza del 4 aprile 2007[^19-2] sugli emolumenti dell’Amministrazione federale delle dogane.
+Gli emolumenti per l’intervento dell’UDSC sono retti dall’ordinanza del 4 aprile 2007[^19-2] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
 [^19-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
 [^19-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)

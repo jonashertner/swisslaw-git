@@ -4,11 +4,11 @@ title: "Verordnung vom 26. April 1993 über den Schutz von Topographien von Halb
 short: ToV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834"
 language: de
-version: 2017-01-01
+version: 2022-01-01
 adopted: 1993-04-26
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834/20170101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1834_1834_1834-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1834_1834_1834/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1834_1834_1834-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1834_1834_1834/20170101/de"
 
 (Topographienverordnung, ToV)
 
-vom 26. April 1993 (Stand am 1. Januar 2017)
+vom 26. April 1993 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -37,10 +37,11 @@ verordnet:
 
 <sup>1</sup> Der Vollzug der Verwaltungsaufgaben, die sich aus dem ToG ergeben, und der Vollzug dieser Verordnung sind Sache des Instituts für Geistiges Eigentum (IGE)[^1-1].[^1-2]
 
-<sup>2</sup> Ausgenommen sind der Artikel 12 ToG sowie die Artikel 16–19 dieser Verordnung, deren Vollzug der Eidgenössischen Zollverwaltung obliegt.
+<sup>2</sup> Ausgenommen sind der Artikel 12 ToG sowie die Artikel 16–19 dieser Verordnung, deren Vollzug dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^1-3] obliegt.
 
 [^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^1-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5156](https://fedlex.data.admin.ch/eli/oc/1995/5156_5156_5156)).
+[^1-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Die Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 2
 
@@ -229,13 +230,13 @@ Das IGE erstellt Auszüge aus dem Register.
 
 <sup>2</sup> Werden die Datenträger und Halbleitererzeugnisse nach Ablauf der Aufbewahrungsfrist nicht zurückverlangt, kann sie das IGE auch ohne Antrag zurückschicken. Kann die Adresse der Berechtigten nicht ausfindig gemacht werden, so werden die hinterlegten Gegenstände zusammen mit den Akten vernichtet.
 
-## 4. Abschnitt: Hilfeleistung der Zollverwaltung
+## 4. Abschnitt: Hilfeleistung des BAZG
 
 #### Art. 16
 
 **Bereich**[^16-1]
 
-Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Halbleitererzeugnissen, bei denen der Verdacht besteht, dass ihre Verbreitung gegen die in der Schweiz geltende Gesetzgebung über den Schutz von Topographien von Halbleitererzeugnissen verstösst, ins oder aus dem Zollgebiet.
+Die Hilfeleistung des BAZG erstreckt sich auf das Verbringen von Halbleitererzeugnissen, bei denen der Verdacht besteht, dass ihre Verbreitung gegen die in der Schweiz geltende Gesetzgebung über den Schutz von Topographien von Halbleitererzeugnissen verstösst, ins oder aus dem Zollgebiet.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
 
@@ -269,7 +270,7 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Halbl
 
 **Proben oder Muster**[^18a-1]
 
-<sup>1</sup> Der Antragsteller oder die Antragstellerin kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Halbleitererzeugnisse beantragen. Anstelle von Proben oder Mustern kann die Zollverwaltung dem Antragsteller oder der Antragstellerin auch Fotografien der zurückbehaltenen Halbleitererzeugnisse übergeben, wenn diese eine Prüfung durch den Antragsteller oder die Antragstellerin ermöglichen.
+<sup>1</sup> Der Antragsteller oder die Antragstellerin kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Halbleitererzeugnisse beantragen. Anstelle von Proben oder Mustern kann das BAZG dem Antragsteller oder der Antragstellerin auch Fotografien der zurückbehaltenen Halbleitererzeugnisse übergeben, wenn diese eine Prüfung durch den Antragsteller oder die Antragstellerin ermöglichen.
 
 <sup>2</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung bei der Oberzolldirektion oder während des Zurückbehaltens der Halbleitererzeugnisse direkt bei der Zollstelle gestellt werden, welche die Halbleitererzeugnisse zurückbehält.
 
@@ -279,9 +280,9 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Halbl
 
 **Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^18b-1]
 
-<sup>1</sup> Die Zollverwaltung weist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer der Halbleitererzeugnisse auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Sie setzt ihr oder ihm für die Stellung des Antrags eine angemessene Frist.
+<sup>1</sup> Das BAZG weist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer der Halbleitererzeugnisse auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihr oder ihm für die Stellung des Antrags eine angemessene Frist.
 
-<sup>2</sup> Gestattet die Zollverwaltung dem Antragsteller oder der Antragstellerin die Besichtigung der zurückbehaltenen Halbleitererzeugnisse, so nimmt sie bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers oder der Antragstellerin und der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+<sup>2</sup> Gestattet das BAZG dem Antragsteller oder der Antragstellerin die Besichtigung der zurückbehaltenen Halbleitererzeugnisse, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers oder der Antragstellerin und der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
 
 [^18b-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
 
@@ -289,9 +290,9 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Halbl
 
 **Aufbewahrung von Beweismitteln bei Vernichtung der Halbleitererzeugnisse**[^18c-1]
 
-<sup>1</sup> Die Zollverwaltung bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers nach Artikel 77 Absatz 1 des Urheberrechtsgesetzes vom 9. Oktober 1992[^18c-2] auf. Nach Ablauf dieser Frist fordert sie die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in ihren beziehungsweise seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt sie beziehungsweise er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet die Zollverwaltung die Proben oder Muster.
+<sup>1</sup> Das BAZG bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers nach Artikel 77 Absatz 1 des Urheberrechtsgesetzes vom 9. Oktober 1992[^18c-2] auf. Nach Ablauf dieser Frist fordert es die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in ihren beziehungsweise seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt sie beziehungsweise er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet das BAZG die Proben oder Muster.
 
-<sup>2</sup> Die Zollverwaltung kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Halbleitererzeugnisse erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
+<sup>2</sup> Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Halbleitererzeugnisse erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
 
 [^18c-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
 [^18c-2]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
@@ -300,7 +301,7 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Halbl
 
 **Gebühren**[^19-1]
 
-Die Gebühren für die Hilfeleistung der Zollverwaltung richten sich nach der Verordnung vom 4. April 2007[^19-2] über die Gebühren der Zollverwaltung.
+Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^19-2] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2543](https://fedlex.data.admin.ch/eli/oc/2008/363)).
 [^19-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
