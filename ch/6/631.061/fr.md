@@ -4,20 +4,22 @@ title: "Ordonnance du 23 août 2017 sur le traitement des données personnelles 
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-535-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-535-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur le traitement des données personnelles dans l’Administration fédérale des douanes
+# Ordonnance sur le traitement des données personnelles dans l’Office fédéral de la douane et de la sécurité des frontières
 
-(Ordonnance sur le traitement des données dans l’AFD, OTDD)
+(Ordonnance sur le traitement des données dans l’OFDF, OTD-OFDF)**[^t-1]**
 
-du 23 août 2017 (Etat le 1<sup>er</sup> janvier 2021)
+du 23 août 2017 (Etat le 1<sup>er</sup> janvier 2022)
+
+[^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 Le Conseil fédéral suisse,
 
@@ -37,11 +39,11 @@ arrête:
 
 **Objet et droit applicable**
 
-<sup>1</sup> La présente ordonnance règle le traitement des données personnelles dans l’Administration fédérale des douanes (AFD).
+<sup>1</sup> La présente ordonnance règle le traitement des données personnelles dans l’Office fédéral de la douane et de la sécurité des frontières (OFDF).
 
-<sup>2</sup> Le système d’information en matière pénale (art. 110*a* LD) est régi par l’ordonnance du 20 septembre 2013 relative au système d’information en matière pénale de l’Administration fédérale des douanes[^1-1].
+<sup>2</sup> Le système d’information en matière pénale (art. 110*a* LD) est régi par l’ordonnance du 20 septembre 2013 relative au système d’information en matière pénale de l’Office fédéral de la douane et de la sécurité des frontières[^1-1].
 
-<sup>3</sup> Le système d’information pour appareils de prises de vue, de relevé et autres appareils de surveillance (art. 110*f* LD) est régi par l’ordonnance du 4 avril 2007 régissant l’utilisation d’appareils de prises de vue, de relevé et d’autres appareils de surveillance par l’Administration fédérale des douanes[^1-2].
+<sup>3</sup> Le système d’information pour appareils de prises de vue, de relevé et autres appareils de surveillance (art. 110*f* LD) est régi par l’ordonnance du 4 avril 2007 régissant l’utilisation d’appareils de prises de vue, de relevé et d’autres appareils de surveillance par l’Office fédéral de la douane et de la sécurité des frontières[^1-2].
 
 [^1-1]: [RS 313.041](https://fedlex.data.admin.ch/eli/cc/2013/639)
 [^1-2]: [RS 631.053](https://fedlex.data.admin.ch/eli/cc/2007/257)
@@ -52,7 +54,7 @@ arrête:
 
 <sup>1</sup>
 
-S’agissant des systèmes d’information de l’AFD, les annexes règlent:
+S’agissant des systèmes d’information de l’OFDF, les annexes règlent:
 
 - a. le but;
 - b. le contenu;
@@ -70,17 +72,17 @@ Dans les annexes, sont réputés identité en tant que de besoin:
 
 **Compétence et responsabilité**
 
-<sup>1</sup> L’AFD est responsable des systèmes d’information faisant l’objet de la présente ordonnance.
+<sup>1</sup> L’OFDF est responsable des systèmes d’information faisant l’objet de la présente ordonnance.
 
-<sup>2</sup> Elle est responsable des données qu’elle traite ainsi que de leur contenu.
+<sup>2</sup> Il est responsable des données qu’il traite ainsi que de leur contenu.
 
 #### Art. 4
 
 **Organisation**
 
-<sup>1</sup> Les systèmes d’information fondés sur un traitement électronique des données sont exploités sous la forme d’applications propres ou sur la plate-forme bureautique par l’Office fédéral de l’informatique et de la télécommunication (OFIT) sur mandat de l’AFD. L’OFIT est responsable de l’exploitation des systèmes d’information.
+<sup>1</sup> Les systèmes d’information fondés sur un traitement électronique des données sont exploités sous la forme d’applications propres ou sur la plate-forme bureautique par l’Office fédéral de l’informatique et de la télécommunication (OFIT) sur mandat de l’OFDF. L’OFIT est responsable de l’exploitation des systèmes d’information.
 
-<sup>2</sup> Si les mêmes données sont traitées par divers offices de l’AFD, les systèmes d’information correspondants peuvent être mis en réseau pour autant que cela soit nécessaire à un traitement efficace des données.
+<sup>2</sup> Si les mêmes données sont traitées par divers offices de l’OFDF, les systèmes d’information correspondants peuvent être mis en réseau pour autant que cela soit nécessaire à un traitement efficace des données.
 
 ## Section 2 Traitement des données
 
@@ -92,21 +94,21 @@ Dans les annexes, sont réputés identité en tant que de besoin:
 
 <sup>2</sup> La collecte de données personnelles doit être reconnaissable par les personnes concernées.
 
-<sup>3</sup> Les collaborateurs de l’AFD disposent des autorisations de traitement des données dont ils ont besoin pour exécuter leurs tâches, sauf disposition contraire dans l’annexe concernée.
+<sup>3</sup> Les collaborateurs de l’OFDF disposent des autorisations de traitement des données dont ils ont besoin pour exécuter leurs tâches, sauf disposition contraire dans l’annexe concernée.
 
 #### Art. 6
 
 **Plate-forme centrale d’exploitation des données**
 
-<sup>1</sup> L’AFD peut créer et gérer des plates-formes pour l’exploitation des données tirées des systèmes d’information visés par la présente ordonnance.
+<sup>1</sup> L’OFDF peut créer et gérer des plates-formes pour l’exploitation des données tirées des systèmes d’information visés par la présente ordonnance.
 
-<sup>2</sup> Les données ne peuvent être exploitées qu’à des fins statistiques, pour l’établissement d’analyses des risques et pour servir de base de soutien à la direction et au pilotage de l’AFD.
+<sup>2</sup> Les données ne peuvent être exploitées qu’à des fins statistiques, pour l’établissement d’analyses des risques et pour servir de base de soutien à la direction et au pilotage de l’OFDF.
 
 #### Art. 7
 
 **Communication des données**
 
-<sup>1</sup> L’AFD communique les données tirées des systèmes d’information à d’autres autorités en Suisse ainsi qu’à des tiers lorsqu’une telle obligation d’informer est prévue par la loi.
+<sup>1</sup> L’OFDF communique les données tirées des systèmes d’information à d’autres autorités en Suisse ainsi qu’à des tiers lorsqu’une telle obligation d’informer est prévue par la loi.
 
 <sup>2</sup> La communication des données par procédure d’appel n’est possible que si l’annexe concernée le prévoit expressément.
 
@@ -120,7 +122,7 @@ Les droits des personnes concernées, en particulier le droit d’accès aux don
 
 #### Art. 9
 
-**Obligations de l’AFD**
+**Obligations de l’OFDF**
 
 Les données inexactes et celles qui ne sont pas conformes à la présente ordonnance doivent être corrigées ou détruites d’office.
 
@@ -150,9 +152,9 @@ Les données dont on n’a plus besoin et les données dont le délai de conserv
 
 <sup>2</sup> Les données, les programmes et les documentations qui y sont rattachés doivent être protégés contre tout traitement non autorisé, la destruction et le vol. Ils doivent pouvoir être restaurés.
 
-<sup>3</sup> L’office compétent de l’AFD configure l’accès aux divers systèmes d’information pour chaque utilisateur avec des profils d’utilisateur, des mots de passe et des logins individuels en concertation avec l’OFIT, de telle sorte que les systèmes d’information soient utilisés dans les seules limites des compétences de chaque utilisateur. Les mots de passe communs et les logins collectifs ne sont admis qu’exceptionnellement.
+<sup>3</sup> L’office compétent de l’OFDF configure l’accès aux divers systèmes d’information pour chaque utilisateur avec des profils d’utilisateur, des mots de passe et des logins individuels en concertation avec l’OFIT, de telle sorte que les systèmes d’information soient utilisés dans les seules limites des compétences de chaque utilisateur. Les mots de passe communs et les logins collectifs ne sont admis qu’exceptionnellement.
 
-<sup>4</sup> L’AFD édicte en concertation avec l’OFIT des prescriptions relatives aux mesures organisationnelles et techniques assurant la sécurité des données et veille à ce que le traitement de données soit automatiquement enregistré.
+<sup>4</sup> L’OFDF édicte en concertation avec l’OFIT des prescriptions relatives aux mesures organisationnelles et techniques assurant la sécurité des données et veille à ce que le traitement de données soit automatiquement enregistré.
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
@@ -172,9 +174,9 @@ Les données dont on n’a plus besoin et les données dont le délai de conserv
 
 #### Art. 14
 
-**Exploitation des sites Intranet et Internet de l’AFD**
+**Exploitation des sites Intranet et Internet de l’OFDF**
 
-<sup>1</sup> L’exploitation des sites Intranet et Internet de l’AFD peut requérir le traitement par l’AFD de données relatives à des personnes qui utilisent ces sites (log-files).
+<sup>1</sup> L’exploitation des sites Intranet et Internet de l’OFDF peut requérir le traitement par l’OFDF de données relatives à des personnes qui utilisent ces sites (log-files).
 
 <sup>2</sup> Les données personnelles ne peuvent être traitées que pour cette exploitation et pas plus longtemps que nécessaire. Elles doivent être détruites ou rendues anonymes au terme de l’exploitation.
 
@@ -186,7 +188,7 @@ Les données dont on n’a plus besoin et les données dont le délai de conserv
 
 L’ordonnance du 4 avril 2007 sur le traitement des données dans l’AFD[^15-1] est abrogée.
 
-[^15-1]: [[RO 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)ch. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 ch. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)ch. III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)annexe ch. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)annexe ch. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)annexe ch. 1,[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)annexe ch. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)ch. I 4]
+[^15-1]: [[RO 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)ch. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10, [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 ch. 1, [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)ch. III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)annexe ch. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)annexe ch. II 2, [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)annexe ch. 1;[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)annexe ch. 2, [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)ch. I 4]
 
 #### Art. 16
 
@@ -207,7 +209,7 @@ Les données ci-après des systèmes d’information visés par l’ordonnance d
 - c. les entreprises exploitant des autocars en trafic de ligne dans le cadre d’une concession (annexe A 17);
 - d. les personnes sollicitant le remboursement de la redevance forfaitaire sur le trafic des poids lourds (RPLP) pour les courses à l’étranger, les courses en TCNA et les transports de bois (annexe A 18);
 - e. les preuves du placement sous régime douanier pour l’admission ordinaire de bateaux; formulaire 15.10 (annexe A 19);
-- f. les données relatives aux enquêtes préliminaires et à l’analyse spéciale de l’AFD (annexe A 35);
+- f. les données relatives aux enquêtes préliminaires et à l’analyse spéciale de l’OFDF (annexe A 35);
 - g. les déclarations de garantie concernant l’impôt sur les huiles minérales (annexe A 40);
 - h. les données relatives au contrôle de la teneur en soufre de l’huile de chauffage extra-légère, de l’essence et de l’huile diesel (annexe A 43);
 - i. la liste des enquêtes pénales menées par les sections Enquêtes des directions d’arrondissement (annexe B 7);
@@ -219,7 +221,7 @@ Les données ci-après des systèmes d’information visés par l’ordonnance d
 - o. les autorisations pour le franchissement de la frontière en dehors des points de passage autorisés ou en dehors des heures d’ouverture du bureau de douane (annexe C 7);
 - p. les données relatives à la protection des espèces (annexe C 10).
 
-[^17-1]: [[RO 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)ch. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 ch. 1 [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)ch. III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)annexe ch. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)annexe ch. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)annexe ch. 1,[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)annexe ch. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)ch. I 4]
+[^17-1]: [[RO 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)ch. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)art. 10, [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 ch. 1, [6233](https://fedlex.data.admin.ch/eli/oc/2009/762)ch. III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)annexe ch. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)annexe ch. II 2, [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)annexe ch. 1;[2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)annexe ch. 2, [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)ch. I 4]
 
 #### Art. 18
 
@@ -237,10 +239,10 @@ Annexe 1
 
   Le système d’information «Argos» est utilisé pour:
 
-  - a. l’enregistrement des résultats des contrôles réalisés par l’AFD dans le trafic transfrontalier des marchandises;
-  - b. l’analyse des contrôles réalisés par l’AFD;
+  - a. l’enregistrement des résultats des contrôles réalisés par l’OFDF dans le trafic transfrontalier des marchandises;
+  - b. l’analyse des contrôles réalisés par l’OFDF;
   - c. le contrôle subséquent des taxations et des processus douaniers;
-  - d. la collecte de données nécessaires à l’établissement des rapports concernant l’exécution des tâches de l’AFD.
+  - d. la collecte de données nécessaires à l’établissement des rapports concernant l’exécution des tâches de l’OFDF.
 
 - 1\.2 Les données personnelles peuvent être utilisées à des fins statistiques.
 
@@ -253,7 +255,7 @@ Le système d’information peut contenir les données suivantes:
 - 2\.3 s’agissant des contrôles douaniers: la date, l’heure, le lieu, la quantité et la valeur des marchandises, le motif du contrôle, le résultat du contrôle, les mesures pénales et administratives et les autres conséquences du contrôle;
 - 2\.4 le nom du bureau de douane ayant procédé au contrôle.
 
-### 3. Importation de données d’autres systèmes d’information de l’AFD
+### 3. Importation de données d’autres systèmes d’information de l’OFDF
 
 L’importation de données des systèmes d’information pour le placement sous régime douanier (annexes 23, 24 et 25) est autorisée.
 
@@ -261,9 +263,9 @@ L’importation de données des systèmes d’information pour le placement sous
 
 Sont autorisés à traiter les données:
 
-- 4\.1 les collaborateurs des services d’exploitation de l’AFD qui effectuent des contrôles;
-- 4\.2 les collaborateurs des services administratifs de l’AFD qui contrôlent les services d’exploitation de l’AFD;
-- 4\.3 les collaborateurs de l’AFD qui traitent des affaires pénales.
+- 4\.1 les collaborateurs des services d’exploitation de l’OFDF qui effectuent des contrôles;
+- 4\.2 les collaborateurs des services administratifs de l’OFDF qui contrôlent les services d’exploitation de l’OFDF;
+- 4\.3 les collaborateurs de l’OFDF qui traitent des affaires pénales.
 
 ### 5. Délai de conservation
 
@@ -293,7 +295,7 @@ Le système d’information peut contenir les données suivantes:
 - 2\.1 l’identité, y compris la branche d’activité et le numéro TVA, des entreprises concernées par le trafic de personnes et de marchandises;
 - 2\.2 l’identité, y compris la branche d’activité et le numéro TVA, des personnes assujetties à l’obligation de déclarer, des transitaires, des expéditeurs et des destinataires des marchandises;
 - 2\.3 pour chaque entreprise: des indications concernant les placements sous régime douanier, les vérifications, les rectifications, les perceptions subséquentes, les procédures pénales, y compris la nature de l’infraction et le montant de l’amende, et les avertissements dont l’entreprise a fait l’objet;
-- 2\.4 des indications concernant les importations, les exportations et les transits de marchandises considérés à risque par l’AFD;
+- 2\.4 des indications concernant les importations, les exportations et les transits de marchandises considérés à risque par l’OFDF;
 - 2\.5 des indications concernant les analyses de risques effectuées et les éventuelles mesures prises.
 
 ### 3. Autorisations et publication
@@ -302,14 +304,14 @@ Le système d’information peut contenir les données suivantes:
 
   Sont autorisés à traiter les données:
 
-  - a. les collaborateurs qui réalisent des analyses de risques pour l’AFD;
-  - b. les collaborateurs des services d’exploitation de l’AFD qui ont besoin d’informations provenant du système d’information pour exécuter leurs tâches;
-  - c. les collaborateurs des services administratifs de l’AFD qui contrôlent les services d’exploitation de l’AFD;
+  - a. les collaborateurs qui réalisent des analyses de risques pour l’OFDF;
+  - b. les collaborateurs des services d’exploitation de l’OFDF qui ont besoin d’informations provenant du système d’information pour exécuter leurs tâches;
+  - c. les collaborateurs des services administratifs de l’OFDF qui contrôlent les services d’exploitation de l’OFDF;
   - d. les collaborateurs qui traitent des affaires pénales.
 
 - 3\.2
 
-  Peuvent être publiées sur l’intranet de l’AFD les données ci-après issues des analyses de risques:
+  Peuvent être publiées sur l’intranet de l’OFDF les données ci-après issues des analyses de risques:
 
   - a. le nom de la personne;
   - b. les marchandises;
@@ -324,8 +326,8 @@ Annexe 3
 
 Le système d’information «SAE et localisation» est utilisé pour:
 
-- 1\.1 la collecte et le traitement de toutes les informations nécessaires au pilotage opérationnel et stratégique ainsi qu’à la direction des engagements de l’AFD;
-- 1\.2 l’utilisation efficace et opportune des ressources lors des contrôles douaniers planifiés et des événements inattendus dans le cadre de l’exécution des tâches de l’AFD;
+- 1\.1 la collecte et le traitement de toutes les informations nécessaires au pilotage opérationnel et stratégique ainsi qu’à la direction des engagements de l’OFDF;
+- 1\.2 l’utilisation efficace et opportune des ressources lors des contrôles douaniers planifiés et des événements inattendus dans le cadre de l’exécution des tâches de l’OFDF;
 - 1\.3 la représentation de tels événements.
 
 ### 2. Contenu
@@ -341,9 +343,9 @@ Le système d’information peut contenir les données suivantes:
 
 Sont autorisés à traiter les données:
 
-- 3\.1 les collaborateurs qui planifient, pilotent et dirigent les engagements de l’AFD;
-- 3\.2 les collaborateurs des services d’exploitation de l’AFD qui ont besoin d’informations provenant du système d’information pour exécuter leurs tâches;
-- 3\.3 les collaborateurs des services administratifs de l’AFD qui contrôlent les services d’exploitation de l’AFD;
+- 3\.1 les collaborateurs qui planifient, pilotent et dirigent les engagements de l’OFDF;
+- 3\.2 les collaborateurs des services d’exploitation de l’OFDF qui ont besoin d’informations provenant du système d’information pour exécuter leurs tâches;
+- 3\.3 les collaborateurs des services administratifs de l’OFDF qui contrôlent les services d’exploitation de l’OFDF;
 - 3\.4 les collaborateurs qui traitent des affaires pénales.
 
 Annexe 4
@@ -386,8 +388,8 @@ Le système d’information peut contenir les données suivantes:
   Les données visées aux ch. 2.1 et 2.2 sont soumises aux autorisations suivantes:
 
   - a. Les collaborateurs compétents du Cgfr et des bureaux de douane sont autorisés à traiter les données;
-  - b. Les collaborateurs compétents de l’AFD qui s’occupent des affaires pénales ou de l’établissement des analyses de risques sont autorisés à traiter les données;
-  - c. Les spécialistes des stupéfiants de l’AFD sont autorisés à traiter les données relevant du domaine des stupéfiants;
+  - b. Les collaborateurs compétents de l’OFDF qui s’occupent des affaires pénales ou de l’établissement des analyses de risques sont autorisés à traiter les données;
+  - c. Les spécialistes des stupéfiants de l’OFDF sont autorisés à traiter les données relevant du domaine des stupéfiants;
   - d. Les collaborateurs compétents de l’Office fédéral de la police (fedpol) et du Secrétariat d’État aux migrations ont accès aux données par la procédure d’appel;
   - e. Les collaborateurs compétents des autorités de police cantonales ont accès aux données par la procédure d’appel dans les limites des accords prévus à l’art. 97 LD.
 
@@ -396,7 +398,7 @@ Le système d’information peut contenir les données suivantes:
   Les données visées au ch. 2.3 sont soumises aux autorisations suivantes:
 
   - a. Les collaborateurs compétents du Cgfr et les spécialistes des bureaux de douane responsables des communications sont autorisés à traiter les données;
-  - b. Les collaborateurs de l’AFD qui sont responsables du traitement des affaires pénales ou des analyses de risques, ainsi que les personnes compétentes en matière d’analyses au sens de l’art. 9 de l’ordonnance sur le contrôle du trafic transfrontière de l’argent liquide, sont autorisés à traiter les données;
+  - b. Les collaborateurs de l’OFDF qui sont responsables du traitement des affaires pénales ou des analyses de risques, ainsi que les personnes compétentes en matière d’analyses au sens de l’art. 9 de l’ordonnance sur le contrôle du trafic transfrontière de l’argent liquide, sont autorisés à traiter les données;
   - c. Les collaborateurs de fedpol compétents en matière de lutte contre le blanchiment d’argent et le financement du terrorisme ont accès aux données par la procédure d’appel.
 
 Annexe 5
@@ -422,8 +424,8 @@ Annexe 5
 
 Les systèmes d’information peuvent contenir les données suivantes:
 
-- 2\.1 l’identité des personnes physiques ou morales et des associations de personnes qui recourent à la procédure centralisée de décompte de l’administration des douanes;
-- 2\.2 l’identité des débiteurs et des créanciers de l’AFD ainsi que des personnes assujetties aux redevances qui font l’objet d’un régime de transit commun;
+- 2\.1 l’identité des personnes physiques ou morales et des associations de personnes qui recourent à la procédure centralisée de décompte de l’OFDF;
+- 2\.2 l’identité des débiteurs et des créanciers de l’OFDF ainsi que des personnes assujetties aux redevances qui font l’objet d’un régime de transit commun;
 - 2\.3 des indications relatives aux mouvements financiers liés à la perception et à la gestion des recettes, des dépenses et des sûretés fournies.
 
 ### 3. Délai de conservation
@@ -432,7 +434,7 @@ Les données sont détruites dix ans après leur saisie.
 
 Annexe 6
 
-## Système d’information pour la gestion des immeubles de l’AFD
+## Système d’information pour la gestion des immeubles de l’OFDF
 
 ### 1. But
 
@@ -445,24 +447,24 @@ Le système d’information peut contenir les données suivantes:
 - 2\.1 l’identité des locataires;
 - 2\.2 l’adresse, la localité et la taille de l’objet loué ainsi que les charges et les coûts de location.
 
-Annexe 7*[^t-1]*
+Annexe 7*[^t-2]*
 
 ## Système d’information «Perizoll»
 
-[^t-1]: Mise à jour selon le ch. II 6 de l’annexe 8 à l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^t-2]: Mise à jour selon le ch. II 6 de l’annexe 8 à l’O du 22 nov. 2017 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 ### 1. But
 
 Le système d’information «Perizoll» est utilisé pour:
 
-- 1\.1 la saisie des allocations, indemnités et primes spécifiques à l’AFD qui ne peuvent pas être comptabilisées à l’aide du programme «SAP PT»;
+- 1\.1 la saisie des allocations, indemnités et primes spécifiques à l’OFDF qui ne peuvent pas être comptabilisées à l’aide du programme «SAP PT»;
 - 1\.2 la communication à l’Office fédéral du personnel (OFPER) et au Centre de services en matière de personnel du Département fédéral des finances (DFF) des données relatives aux décomptes pour le traitement et le versement, avec le salaire mensuel, des allocations, indemnités et primes.
 
 ### 2. Contenu
 
 Le système d’information peut contenir les données suivantes:
 
-- 2\.1 l’identité des collaborateurs de l’AFD;
+- 2\.1 l’identité des collaborateurs de l’OFDF;
 - 2\.2 la durée et le nombre de tours de service continus;
 - 2\.3 le nombre d’engagements effectués dans le cadre de plans de service fixes;
 - 2\.4 la durée du travail de nuit;
@@ -473,7 +475,7 @@ Le système d’information peut contenir les données suivantes:
 ### 3. Importation de données d’autres systèmes d’information et communication des données
 
 - 3\.1 L’importation de données provenant du système d’information pour la gestion des données du personnel (IGDP) qui concernent la gestion de l’organisation, l’administration du personnel, le décompte du salaire, la gestion du temps de travail et la gestion des rémunérations est autorisée.
-- 3\.2 Les données relatives au décompte des allocations, indemnités et primes des collaborateurs de l’AFD peuvent être communiquées à l’OFPER et au Centre de services en matière de personnel du DFF pour leur versement mensuel.
+- 3\.2 Les données relatives au décompte des allocations, indemnités et primes des collaborateurs de l’OFDF peuvent être communiquées à l’OFPER et au Centre de services en matière de personnel du DFF pour leur versement mensuel.
 
 Annexe 8
 
@@ -485,35 +487,35 @@ Le système d’information «Rumaca Pep» est utilisé pour:
 
 - 1\.1 la planification des engagements du personnel du Cgfr;
 - 1\.2 le contrôle de la durée de travail et de repos, des vacances et autres absences du personnel du Cgfr;
-- 1\.3 le décompte des allocations, des indemnités et des primes spécifiques à l’AFD avec le formulaire 66.34.
+- 1\.3 le décompte des allocations, des indemnités et des primes spécifiques à l’OFDF avec le formulaire 66.34.
 
 ### 2. Contenu
 
 Le système d’information peut contenir les données suivantes:
 
-- 2\.1 l’identité des collaborateurs de l’AFD;
+- 2\.1 l’identité des collaborateurs de l’OFDF;
 - 2\.2 le temps de travail planifié et accompli;
 - 2\.3 les absences telles que les vacances, les congés payés, les congés pour cause de maladie ou d’accident, les cours de perfectionnement et le temps libre;
 - 2\.4 les indications relatives aux allocations, indemnités et primes.
 
 Annexe 9
 
-## Système d’information «Fewo/Fewolight» pour la location des appartements de vacances de la caisse de prévoyance de l’AFD
+## Système d’information «Fewo/Fewolight» pour la location des appartements de vacances de la caisse de prévoyance de l’OFDF
 
 ### 1. But
 
-Le système d’information «Fewo/Fewolight» est utilisé pour la location d’appartements de vacances au personnel actif et retraité de l’AFD.
+Le système d’information «Fewo/Fewolight» est utilisé pour la location d’appartements de vacances au personnel actif et retraité de l’OFDF.
 
 ### 2. Contenu
 
 Le système d’information peut contenir les données suivantes:
 
-- 2\.1 l’identité des collaborateurs actifs et retraités de l’AFD;
+- 2\.1 l’identité des collaborateurs actifs et retraités de l’OFDF;
 - 2\.2 des indications sur les appartements loués;
 - 2\.3 les demandes et l’attribution des appartements de location;
 - 2\.4 les décomptes portant sur la location.
 
-### 3. Importation de données d’autres systèmes d’information de l’AFD
+### 3. Importation de données d’autres systèmes d’information de l’OFDF
 
 L’importation de données provenant du système «Perizoll» (annexe 7) est autorisée.
 
@@ -523,7 +525,7 @@ Annexe 10
 
 ### 1. But
 
-Le système d’information «Kleiderwebshop» sert à équiper les collaborateurs de l’AFD de tenues de service obligatoires.
+Le système d’information «Kleiderwebshop» sert à équiper les collaborateurs de l’OFDF de tenues de service obligatoires.
 
 ### 2. Contenu
 
@@ -532,7 +534,7 @@ Le système d’information peut contenir les données suivantes:
 - 2\.1 l’identité des collaborateurs du Cgfr, leur grade, leurs mesures, l’unité d’organisation qui leur est attribuée et leur adresse de livraison privée;
 - 2\.2 des indications sur l’article, la quantité, la commande et la livraison.
 
-### 3. Importation de données d’autres systèmes d’information de l’AFD
+### 3. Importation de données d’autres systèmes d’information de l’OFDF
 
 L’importation de données provenant du système «Perizoll» (annexe 7) est autorisée.
 
@@ -555,7 +557,7 @@ Le système d’information peut contenir les données suivantes:
 
 Sont autorisés à traiter les données:
 
-- 3\.1 les collaborateurs de l’AFD qui s’occupent de la gestion des contingents;
+- 3\.1 les collaborateurs de l’OFDF qui s’occupent de la gestion des contingents;
 - 3\.2 les collaborateurs de l’Office fédéral de l’agriculture qui s’occupent de la gestion des contingents.
 
 Annexe 12
@@ -564,7 +566,7 @@ Annexe 12
 
 ### 1. But
 
-Le système d’information «TADOC II» sert à l’enregistrement et au traitement d’affaires relatives à la documentation tarifaire au sein de l’AFD.
+Le système d’information «TADOC II» sert à l’enregistrement et au traitement d’affaires relatives à la documentation tarifaire au sein de l’OFDF.
 
 ### 2. Contenu
 
@@ -677,7 +679,7 @@ Annexe 17
 
 ### 1. But
 
-Le système d’information sur les opérateurs économiques agréés (*Authorised* *Eco**nomic Operator*, AEO) sert à contrôler si une personne bénéficie du statut d’opérateur économique agréé ou non.
+Le système d’information sur les opérateurs économiques agréés (*Authorised Economic Operator*, AEO) sert à contrôler si une personne bénéficie du statut d’opérateur économique agréé ou non.
 
 ### 2. Contenu
 
@@ -692,8 +694,8 @@ Le système d’information peut contenir les données suivantes:
 - 2\.7 la date à laquelle les droits et obligations liés au statut d’AEO prennent naissance;
 - 2\.8 l’autorité qui a rendu la décision;
 - 2\.9 les données énoncées aux ch. 2.1 à 2.5 et 2.7 pour les AEO agréés dans des États avec lesquels la Suisse a conclu un accord sur la reconnaissance mutuelle du statut d’AEO;
-- 2\.10 les données que l’AFD a reçues du requérant pour l’examen de sa demande;
-- 2\.11 les données dont l’AFD a besoin pour l’analyse des risques et la gestion du statut d’AEO.
+- 2\.10 les données que l’OFDF a reçues du requérant pour l’examen de sa demande;
+- 2\.11 les données dont l’OFDF a besoin pour l’analyse des risques et la gestion du statut d’AEO.
 
 ### 3. Publication
 
@@ -827,7 +829,7 @@ Le système d’information peut contenir les données suivantes:
 - 2\.5 les éventuelles contestations;
 - 2\.6 des remarques et des indications relatives au mode d’exécution.
 
-### 3. Échange de données avec d’autres systèmes d’information de l’AFD
+### 3. Échange de données avec d’autres systèmes d’information de l’OFDF
 
 - 3\.1 L’échange de données avec les systèmes d’information pour les finances et la comptabilité (annexe 5) relatifs à l’encaissement de la redevance est autorisé.
 - 3\.2 L’importation de données provenant du système d’information concernant la gestion des clients de la douane pour les applications marchandises (annexe 26) est autorisée.
@@ -865,7 +867,7 @@ Les systèmes d’information peuvent contenir les données ci-après concernant
 - 2\.5 les éventuelles contestations;
 - 2\.6 des remarques et des indications relatives au mode d’exécution.
 
-### 3. Échange de données avec d’autres systèmes d’information de l’AFD
+### 3. Échange de données avec d’autres systèmes d’information de l’OFDF
 
 - 3\.1 L’importation de données provenant du système d’information pour la gestion des clients de la douane (annexe 26) est autorisée.
 - 3\.2 L’exportation de données vers les systèmes d’information pour l’établissement de la statistique du commerce extérieur (annexes 46 et 47) est autorisée.
@@ -902,7 +904,7 @@ Les systèmes d’information peuvent contenir les données ci-après concernant
 - 2\.5 les éventuelles contestations;
 - 2\.6 des remarques et des indications relatives au mode d’exécution.
 
-### 3. Importation de données d’autres systèmes d’information de l’AFD
+### 3. Importation de données d’autres systèmes d’information de l’OFDF
 
 L’importation de données provenant du système d’information pour la gestion des clients de la douane (annexe 26) est autorisée.
 
@@ -941,10 +943,10 @@ Le système d’information peut contenir les données suivantes:
 
   Le système d’information est soumis aux autorisations suivantes:
 
-  - a. les collaborateurs compétents de l’AFD sont autorisés à traiter les données dans le cadre de leurs compétences;
+  - a. les collaborateurs compétents de l’OFDF sont autorisés à traiter les données dans le cadre de leurs compétences;
   - b. les utilisateurs externes du système de gestion des clients de la douane sont autorisés à traiter les données de base relatives à leur propre IDE.
 
-- 3\.2 L’AFD communique périodiquement les modifications des adresses des titulaires d’une IDE à l’Office fédéral de la statistique.
+- 3\.2 L’OFDF communique périodiquement les modifications des adresses des titulaires d’une IDE à l’Office fédéral de la statistique.
 
 ### 4. Délai de conservation
 
@@ -1004,7 +1006,7 @@ Le système d’information peut contenir les données suivantes:
 
 Annexe 29
 
-## Système d’information concernant les interventions de l’AFD dans le domaine de la propriété intellectuelle
+## Système d’information concernant les interventions de l’OFDF dans le domaine de la propriété intellectuelle
 
 ### 1. But
 
@@ -1021,7 +1023,7 @@ Le système d’information peut contenir les données suivantes:
 - 2\.5 des indices de contrefaçon et d’imitation;
 - 2\.6 les caractéristiques de dépistage des marques et des designs enregistrés ainsi que des œuvres protégées par un droit d’auteur;
 - 2\.7 des remarques;
-- 2\.8 la durée de validité de la demande d’intervention de l’AFD.
+- 2\.8 la durée de validité de la demande d’intervention de l’OFDF.
 
 Annexe 30
 
@@ -1320,7 +1322,7 @@ Le système d’information peut contenir les données suivantes:
   Sont autorisés à traiter les données:
 
   - a. les collaborateurs du Bureau central du contrôle des métaux précieux et des bureaux de contrôle;
-  - b. les collaborateurs de l’AFD qui s’occupent des affaires pénales et qui ont besoin d’informations provenant du système d’information pour exécuter leurs tâches.
+  - b. les collaborateurs de l’OFDF qui s’occupent des affaires pénales et qui ont besoin d’informations provenant du système d’information pour exécuter leurs tâches.
 
 - 3\.2
 
@@ -1387,7 +1389,7 @@ Annexe 46
 
 ### 1. But
 
-Le système d’information sert à la vérification, au traitement et à la préparation des données importées pour utilisation dans le système d’information «Banque de données des résultats pour l’établissement de la statistique du commerce extérieur» à partir des systèmes d’information pour le placement sous régime douanier de l’AFD (annexes 23 et 24).
+Le système d’information sert à la vérification, au traitement et à la préparation des données importées pour utilisation dans le système d’information «Banque de données des résultats pour l’établissement de la statistique du commerce extérieur» à partir des systèmes d’information pour le placement sous régime douanier de l’OFDF (annexes 23 et 24).
 
 ### 2. Contenu
 
@@ -1536,7 +1538,7 @@ Annexe 54
 
 ### 1. But
 
-Le système d’information sert à contrôler si des importateurs assujettis à l’impôt sur le territoire suisse ont conclu une convention avec l’AFD sur les valeurs moyennes des importations de logiciels.
+Le système d’information sert à contrôler si des importateurs assujettis à l’impôt sur le territoire suisse ont conclu une convention avec l’OFDF sur les valeurs moyennes des importations de logiciels.
 
 ### 2. Contenu
 
@@ -1787,7 +1789,7 @@ Le système d’information peut contenir les données suivantes:
 
 ### 3. Communication de données
 
-L’AFD communique régulièrement les données à l’Office fédéral de l’environnement.
+L’OFDF communique régulièrement les données à l’Office fédéral de l’environnement.
 
 ### 4. Délai de conservation
 
@@ -1824,7 +1826,7 @@ Le système d’information peut contenir les données suivantes:
 
 ### 3. Communication de données
 
-L’AFD communique régulièrement les données à l’Office fédéral de l’énergie.
+L’OFDF communique régulièrement les données à l’Office fédéral de l’énergie.
 
 ### 4. Délai de conservation
 
@@ -1871,11 +1873,11 @@ Les systèmes d’information peuvent contenir les données suivantes:
 - 2\.2 le numéro de l’autorisation;
 - 2\.3 la date de délivrance et la durée de validité de l’autorisation ainsi que des remarques relatives à l’autorisation.
 
-Annexe 67*[^t-2]*
+Annexe 67*[^t-3]*
 
 ## Système d’information concernant la redevance sur le trafic des poids lourds liée aux prestations et la redevance sur le trafic des poids lourds perçue de manière forfaitaire
 
-[^t-2]: Mise à jour selon le ch. II 6 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-3]: Mise à jour selon le ch. II 6 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ### 1. But
 
@@ -2018,7 +2020,7 @@ Annexe 73
 
 ### 1. But
 
-Les unités d’organisation de l’AFD sont autorisées à tenir des recueils auxiliaires de données nécessaires à la planification et au contrôle de leurs tâches ainsi qu’à l’établissement de rapports concernant ces tâches.
+Les unités d’organisation de l’OFDF sont autorisées à tenir des recueils auxiliaires de données nécessaires à la planification et au contrôle de leurs tâches ainsi qu’à l’établissement de rapports concernant ces tâches.
 
 ### 2. Contenu
 
@@ -2027,7 +2029,7 @@ Les recueils auxiliaires de données doivent traiter exclusivement les données 
 ### 3. Autorisations et communication
 
 - 3\.1 Les autorisations se fondent sur l’art. 5, al. 3, ainsi que sur les dispositions des annexes concernées.
-- 3\.2 La communication aux autorités et personnes externes à l’AFD de données tirées des recueils auxiliaires de données n’est pas autorisée.
+- 3\.2 La communication aux autorités et personnes externes à l’OFDF de données tirées des recueils auxiliaires de données n’est pas autorisée.
 
 ### 4. Conservation des données
 

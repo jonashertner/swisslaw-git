@@ -4,20 +4,22 @@ title: "Ordinanza del 23 agosto 2017 sul trattamento dei dati personali nell’U
 short: OTDD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-535-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sul trattamento dei dati personali nell’Amministrazione federale delle dogane
+# Ordinanza sul trattamento dei dati personali nell’Ufficio federale della dogana e della sicurezza dei confini
 
-(Ordinanza sul trattamento dei dati nell’AFD, OTDD)
+(Ordinanza sul trattamento dei dati nell’UDSC, OTDD)**[^t-1]**
 
-del 23 agosto 2017 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 23 agosto 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+
+[^t-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo
 
 Il Consiglio federale svizzero,
 
@@ -37,11 +39,11 @@ ordina:
 
 **Oggetto e diritto applicabile**
 
-<sup>1</sup> La presente ordinanza disciplina il trattamento dei dati personali nell’Amministrazione federale delle dogane (AFD).
+<sup>1</sup> La presente ordinanza disciplina il trattamento dei dati personali nell’Ufficio federale della dogana e della sicurezza dei confini (UDSC).
 
-<sup>2</sup> Il sistema d’informazione in materia penale (art. 110*a* LD) è disciplinato nell’ordinanza del 20 settembre 2013[^1-1] sul sistema d’informazione in materia penale dell’Amministrazione federale delle dogane.
+<sup>2</sup> Il sistema d’informazione in materia penale (art. 110*a* LD) è disciplinato nell’ordinanza del 20 settembre 2013[^1-1] sul sistema d’informazione in materia penale dell’Ufficio federale della dogana e della sicurezza dei confini.
 
-<sup>3</sup> Il sistema d’informazione per telecamere, videoregistratori e altri apparecchi di sorveglianza (art. 110*f* LD) è disciplinato nell’ordinanza del 4 aprile 2007[^1-2] sull’impiego di telecamere, videoregistratori e altri apparecchi di sorveglianza da parte dell’Amministrazione federale delle dogane.
+<sup>3</sup> Il sistema d’informazione per telecamere, videoregistratori e altri apparecchi di sorveglianza (art. 110*f* LD) è disciplinato nell’ordinanza del 4 aprile 2007[^1-2] sull’impiego di telecamere, videoregistratori e altri apparecchi di sorveglianza da parte dell’Ufficio federale della dogana e della sicurezza dei confini.
 
 [^1-1]: [RS 313.041](https://fedlex.data.admin.ch/eli/cc/2013/639)
 [^1-2]: [RS 631.053](https://fedlex.data.admin.ch/eli/cc/2007/257)
@@ -52,7 +54,7 @@ ordina:
 
 <sup>1</sup>
 
-Per quanto riguarda i sistemi d’informazione dell’AFD, gli allegati disciplinano:
+Per quanto riguarda i sistemi d’informazione dell’UDSC, gli allegati disciplinano:
 
 - a. lo scopo;
 - b. il contenuto;
@@ -70,7 +72,7 @@ Laddove negli allegati si parla di dati personali, si devono intendere, per quan
 
 **Competenza e responsabilità**
 
-<sup>1</sup> L’AFD è competente per i sistemi d’informazione disciplinati nella presente ordinanza.
+<sup>1</sup> L’UDSC è competente per i sistemi d’informazione disciplinati nella presente ordinanza.
 
 <sup>2</sup> Essa si assume la responsabilità per i dati trattati e per il loro contenuto.
 
@@ -78,9 +80,9 @@ Laddove negli allegati si parla di dati personali, si devono intendere, per quan
 
 **Organizzazione**
 
-<sup>1</sup> Per incarico dell’AFD, i sistemi d’informazione basati sul trattamento elettronico dei dati sono gestiti come applicazioni autonome oppure sulla piattaforma burotica da parte dell’Ufficio federale dell’informatica e della telecomunicazione (UFIT). Quest’ultimo è responsabile del funzionamento di tali sistemi.
+<sup>1</sup> Per incarico dell’UDSC, i sistemi d’informazione basati sul trattamento elettronico dei dati sono gestiti come applicazioni autonome oppure sulla piattaforma burotica da parte dell’Ufficio federale dell’informatica e della telecomunicazione (UFIT). Quest’ultimo è responsabile del funzionamento di tali sistemi.
 
-<sup>2</sup> Se gli stessi dati sono trattati da diversi uffici dell’AFD, i rispettivi sistemi d’informazione possono essere interconnessi, sempre che ciò sia necessario ai fini di un trattamento efficiente dei dati.
+<sup>2</sup> Se gli stessi dati sono trattati da diversi uffici dell’UDSC, i rispettivi sistemi d’informazione possono essere interconnessi, sempre che ciò sia necessario ai fini di un trattamento efficiente dei dati.
 
 ## Sezione 2: Trattamento dei dati
 
@@ -92,21 +94,21 @@ Laddove negli allegati si parla di dati personali, si devono intendere, per quan
 
 <sup>2</sup> La raccolta di dati personali deve essere riconoscibile dalle persone interessate.
 
-<sup>3</sup> I collaboratori dell’AFD dispongono delle autorizzazioni relative al trattamento dei dati necessarie per l’adempimento dei propri compiti, a meno che il rispettivo allegato preveda un disciplinamento diverso.
+<sup>3</sup> I collaboratori dell’UDSC dispongono delle autorizzazioni relative al trattamento dei dati necessarie per l’adempimento dei propri compiti, a meno che il rispettivo allegato preveda un disciplinamento diverso.
 
 #### Art. 6
 
 **Piattaforme centrali per la valutazione dei dati**
 
-<sup>1</sup> L’AFD può allestire e gestire piattaforme sulle quali vengono valutati i dati desunti dai sistemi d’informazione di cui alla presente ordinanza.
+<sup>1</sup> L’UDSC può allestire e gestire piattaforme sulle quali vengono valutati i dati desunti dai sistemi d’informazione di cui alla presente ordinanza.
 
-<sup>2</sup> Le valutazioni possono essere effettuate solo per fini statistici, per analisi dei rischi e per l’aiuto alla condotta e alla gestione dell’AFD.
+<sup>2</sup> Le valutazioni possono essere effettuate solo per fini statistici, per analisi dei rischi e per l’aiuto alla condotta e alla gestione dell’UDSC.
 
 #### Art. 7
 
 **Comunicazione dei dati**
 
-<sup>1</sup> L’AFD comunica in casi particolari i dati desunti dai sistemi d’informazione ad altre autorità svizzere nonché a terzi se la legge prevede un siffatto obbligo di informare.
+<sup>1</sup> L’UDSC comunica in casi particolari i dati desunti dai sistemi d’informazione ad altre autorità svizzere nonché a terzi se la legge prevede un siffatto obbligo di informare.
 
 <sup>2</sup> Nella procedura di richiamo, i dati possono essere comunicati solo se ciò è espressamente previsto nel rispettivo allegato.
 
@@ -120,7 +122,7 @@ I diritti delle persone interessate, in particolare i diritti d’accesso, di re
 
 #### Art. 9
 
-**Obblighi dell’AFD**
+**Obblighi dell’UDSC**
 
 I dati inesatti nonché quelli non conformi alla presente ordinanza devono essere rettificati d’ufficio o distrutti.
 
@@ -150,9 +152,9 @@ I dati non più necessari nonché i dati il cui termine di conservazione è scad
 
 <sup>2</sup> I dati, i programmi e la rispettiva documentazione devono essere protetti contro qualsiasi trattamento non autorizzato nonché contro la distruzione e il furto. Essi devono poter essere ripristinati.
 
-<sup>3</sup> D’intesa con l’UFIT, l’ufficio competente dell’AFD stabilisce per ogni utente l’accesso ai singoli sistemi d’informazione mediante profili, password e log-in individuali, di modo che la persona interessata possa utilizzare i sistemi d’informazione solo nell’ambito delle proprie competenze. Password comuni e log-in collettivi sono ammessi solo in via eccezionale.
+<sup>3</sup> D’intesa con l’UFIT, l’ufficio competente dell’UDSC stabilisce per ogni utente l’accesso ai singoli sistemi d’informazione mediante profili, password e log-in individuali, di modo che la persona interessata possa utilizzare i sistemi d’informazione solo nell’ambito delle proprie competenze. Password comuni e log-in collettivi sono ammessi solo in via eccezionale.
 
-<sup>4</sup> D’intesa con l’UFIT, l’AFD emana prescrizioni sui provvedimenti organizzativi e tecnici atti a garantire la sicurezza dei dati e provvede affinché il trattamento dei dati sia verbalizzato automaticamente.
+<sup>4</sup> D’intesa con l’UFIT, l’UDSC emana prescrizioni sui provvedimenti organizzativi e tecnici atti a garantire la sicurezza dei dati e provvede affinché il trattamento dei dati sia verbalizzato automaticamente.
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
@@ -172,9 +174,9 @@ I dati non più necessari nonché i dati il cui termine di conservazione è scad
 
 #### Art. 14
 
-**Valutazione dell’offerta Intranet e Internet dell’AFD**
+**Valutazione dell’offerta Intranet e Internet dell’UDSC**
 
-<sup>1</sup> Per la valutazione della propria offerta Intranet e Internet, l’AFD può trattare i dati di persone che fanno uso di tale offerta (logfile).
+<sup>1</sup> Per la valutazione della propria offerta Intranet e Internet, l’UDSC può trattare i dati di persone che fanno uso di tale offerta (logfile).
 
 <sup>2</sup> I dati personali possono essere trattati solo per tale valutazione e per la durata assolutamente necessaria. Dopo la valutazione devono essere distrutti o resi anonimi.
 
@@ -207,7 +209,7 @@ I dati desunti dai seguenti sistemi d’informazione ai sensi dell’ordinanza d
 - c. imprese concessionarie che operano nel traffico di linea con autobus (allegato A 17);
 - d. persone che chiedono la restituzione della tassa forfetaria sul traffico pesante (TFTP) per le corse all’estero, le corse nel TCNA e i trasporti di legname (allegato A 18);
 - e. prova dell’imposizione doganale per la normale ammissione di natanti; modulo 15.10 (allegato A 19);
-- f. inchieste preliminari e analisi speciale dell’AFD (allegato A 35);
+- f. inchieste preliminari e analisi speciale dell’UDSC (allegato A 35);
 - g. impegni circa l’uso relativi all’imposta sugli oli minerali (allegato A 40);
 - h. controllo del tenore di zolfo nell’olio da riscaldamento extra leggero, nella benzina e nell’olio diesel (allegato A 43);
 - i. elenco delle inchieste penali condotte dalle Sezioni inquirenti delle direzioni di circondario (allegato B 7);
@@ -237,10 +239,10 @@ Allegato 1
 
   Il sistema d’informazione «Argos» serve per:
 
-  - a. il rilevamento dei risultati dei controlli effettuati dall’AFD nel traffico transfrontaliero delle merci;
-  - b. l’analisi dei controlli effettuati dall’AFD;
+  - a. il rilevamento dei risultati dei controlli effettuati dall’UDSC nel traffico transfrontaliero delle merci;
+  - b. l’analisi dei controlli effettuati dall’UDSC;
   - c. il controllo a posteriori delle imposizioni e dei processi doganali;
-  - d. l’acquisizione dei dati necessari per la stesura di rapporti sull’adempimento dei compiti dell’AFD.
+  - d. l’acquisizione dei dati necessari per la stesura di rapporti sull’adempimento dei compiti dell’UDSC.
 
 - 1\.2 I dati personali possono essere impiegati a scopi statistici.
 
@@ -253,7 +255,7 @@ Il sistema d’informazione può contenere i seguenti dati:
 - 2\.3 dati relativi ai controlli doganali: data, ora, luogo, quantità e valore delle merci, motivo del controllo, risultato del controllo, misure di diritto penale e amministrativo, altre conseguenze del controllo;
 - 2\.4 nome dell’ufficio doganale che ha effettuato il controllo.
 
-### 3. Ripresa di dati da altri sistemi d’informazione dell’AFD
+### 3. Ripresa di dati da altri sistemi d’informazione dell’UDSC
 
 La ripresa di dati dai sistemi d’informazione relativi all’imposizione doganale (allegati 23, 24 e 25) è ammessa.
 
@@ -261,9 +263,9 @@ La ripresa di dati dai sistemi d’informazione relativi all’imposizione dogan
 
 Possono trattare i dati:
 
-- 4\.1 i collaboratori dei servizi operativi dell’AFD che effettuano i controlli doganali;
-- 4\.2 i collaboratori dei servizi amministrativi dell’AFD che controllano i servizi operativi dell’AFD;
-- 4\.3 i collaboratori dell’AFD che trattano procedure penali.
+- 4\.1 i collaboratori dei servizi operativi dell’UDSC che effettuano i controlli doganali;
+- 4\.2 i collaboratori dei servizi amministrativi dell’UDSC che controllano i servizi operativi dell’UDSC;
+- 4\.3 i collaboratori dell’UDSC che trattano procedure penali.
 
 ### 5. Termine di conservazione
 
@@ -289,7 +291,7 @@ Il sistema d’informazione può contenere i seguenti dati:
 - 2\.1 dati personali, compresi il ramo e il numero IVA, delle imprese che operano nel traffico delle persone e delle merci;
 - 2\.2 dati personali, compresi il ramo e il numero IVA, delle persone soggette all’obbligo di dichiarazione, degli spedizionieri, degli speditori e dei destinatari delle merci;
 - 2\.3 per ogni impresa: indicazioni relative a imposizioni doganali, visite, rettifiche, riscossioni posticipate, procedure penali, compresi il genere di infrazione e l’importo della multa, nonché avvertimenti;
-- 2\.4 indicazioni relative all’importazione, all’esportazione e al transito di merci classificate come a rischio da parte dell’AFD;
+- 2\.4 indicazioni relative all’importazione, all’esportazione e al transito di merci classificate come a rischio da parte dell’UDSC;
 - 2\.5 indicazioni relative alle analisi dei rischi effettuate e agli eventuali provvedimenti adottati.
 
 ### 3. Autorizzazioni e pubblicazione
@@ -298,14 +300,14 @@ Il sistema d’informazione può contenere i seguenti dati:
 
   Possono trattare i dati:
 
-  - a. i collaboratori che effettuano analisi dei rischi per conto dell’AFD;
-  - b. i collaboratori dei servizi operativi dell’AFD che, per l’adempimento dei propri compiti, necessitano di dati del sistema d’informazione;
-  - c. i collaboratori dei servizi amministrativi dell’AFD che controllano i servizi operativi dell’AFD;
+  - a. i collaboratori che effettuano analisi dei rischi per conto dell’UDSC;
+  - b. i collaboratori dei servizi operativi dell’UDSC che, per l’adempimento dei propri compiti, necessitano di dati del sistema d’informazione;
+  - c. i collaboratori dei servizi amministrativi dell’UDSC che controllano i servizi operativi dell’UDSC;
   - d. i collaboratori che trattano procedure penali.
 
 - 3\.2
 
-  I seguenti risultati delle analisi dei rischi possono essere pubblicati sul sito Intranet dell’AFD:
+  I seguenti risultati delle analisi dei rischi possono essere pubblicati sul sito Intranet dell’UDSC:
 
   - a. nomi di persone;
   - b. merci;
@@ -320,8 +322,8 @@ Allegato 3
 
 Il sistema d’informazione «ELS & Ortung» serve per:
 
-- 1\.1 la raccolta e l’elaborazione di tutte le informazioni necessarie per la gestione operativa e strategica degli impieghi dell’AFD e per la loro direzione;
-- 1\.2 l’impiego tempestivo ed efficiente delle risorse per i controlli doganali pianificati e gli eventi imprevisti in relazione con una competenza dell’AFD;
+- 1\.1 la raccolta e l’elaborazione di tutte le informazioni necessarie per la gestione operativa e strategica degli impieghi dell’UDSC e per la loro direzione;
+- 1\.2 l’impiego tempestivo ed efficiente delle risorse per i controlli doganali pianificati e gli eventi imprevisti in relazione con una competenza dell’UDSC;
 - 1\.3 la presentazione della situazione in caso di tali eventi.
 
 ### 2. Contenuto
@@ -337,9 +339,9 @@ Il sistema d’informazione può contenere i seguenti dati:
 
 Possono trattare i dati:
 
-- 3\.1 i collaboratori che pianificano, gestiscono e dirigono gli impieghi dell’AFD;
-- 3\.2 i collaboratori dei servizi operativi dell’AFD che, per l’adempimento dei propri compiti, necessitano di dati del sistema d’informazione;
-- 3\.3 i collaboratori dei servizi amministrativi dell’AFD che controllano i servizi operativi dell’AFD;
+- 3\.1 i collaboratori che pianificano, gestiscono e dirigono gli impieghi dell’UDSC;
+- 3\.2 i collaboratori dei servizi operativi dell’UDSC che, per l’adempimento dei propri compiti, necessitano di dati del sistema d’informazione;
+- 3\.3 i collaboratori dei servizi amministrativi dell’UDSC che controllano i servizi operativi dell’UDSC;
 - 3\.4 i collaboratori che trattano procedure penali.
 
 Allegato 4
@@ -382,8 +384,8 @@ Il sistema d’informazione può contenere i seguenti dati:
   Per i dati di cui ai numeri 2.1 e 2.2 valgono le seguenti autorizzazioni:
 
   - a. i collaboratori competenti del Cgcf e degli uffici doganali possono trattare i dati;
-  - b. i collaboratori competenti dell’AFD che si occupano di cause penali o dell’elaborazione di analisi dei rischi possono trattare i dati;
-  - c. gli specialisti nel campo degli stupefacenti dell’AFD possono trattare i dati relativi agli stupefacenti;
+  - b. i collaboratori competenti dell’UDSC che si occupano di cause penali o dell’elaborazione di analisi dei rischi possono trattare i dati;
+  - c. gli specialisti nel campo degli stupefacenti dell’UDSC possono trattare i dati relativi agli stupefacenti;
   - d. i collaboratori competenti dell’Ufficio federale di polizia (fedpol) e della Segreteria di Stato della migrazione hanno accesso ai dati mediante procedura di richiamo;
   - e. i collaboratori competenti delle autorità di polizia cantonali hanno accesso ai dati, mediante procedura di richiamo, nel quadro degli accordi di cui all’articolo 97 LD.
 
@@ -392,7 +394,7 @@ Il sistema d’informazione può contenere i seguenti dati:
   Il trattamento dei dati di cui al numero 2.3 è autorizzato come segue:
 
   - a. i collaboratori competenti del Cgcf e gli specialisti degli uffici doganali competenti per le notifiche possono trattare i dati;
-  - b. i collaboratori competenti dell’AFD che si occupano di cause penali o dell’elaborazione di analisi dei rischi come pure le persone competenti per lo svolgimento di analisi ai sensi dell’articolo 9 dell’ordinanza dell’11 febbraio 2009 concernente il controllo dei movimenti transfrontalieri di liquidità possono trattare i dati;
+  - b. i collaboratori competenti dell’UDSC che si occupano di cause penali o dell’elaborazione di analisi dei rischi come pure le persone competenti per lo svolgimento di analisi ai sensi dell’articolo 9 dell’ordinanza dell’11 febbraio 2009 concernente il controllo dei movimenti transfrontalieri di liquidità possono trattare i dati;
   - c. i collaboratori di fedpol competenti in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo hanno accesso ai dati mediante procedura di richiamo.
 
 Allegato 5
@@ -418,8 +420,8 @@ Allegato 5
 
 I sistemi d’informazione possono contenere i seguenti dati:
 
-- 2\.1 dati personali delle persone fisiche e giuridiche e delle associazioni di persone assoggettate ai tributi che ricorrono alla procedura accentrata di conteggio dell’Amministrazione delle dogane (PCD);
-- 2\.2 dati personali dei debitori e dei creditori dell’AFD nonché delle persone assoggettate ai tributi nel regime comune di transito;
+- 2\.1 dati personali delle persone fisiche e giuridiche e delle associazioni di persone assoggettate ai tributi che ricorrono alla procedura accentrata di conteggio dell’UDSC;
+- 2\.2 dati personali dei debitori e dei creditori dell’UDSC nonché delle persone assoggettate ai tributi nel regime comune di transito;
 - 2\.3 dati relativi a movimenti finanziari in relazione con la riscossione e la gestione delle entrate, delle uscite e delle garanzie prestate.
 
 ### 3. Termine di conservazione
@@ -428,7 +430,7 @@ I dati sono distrutti dieci anni dopo il rilevamento.
 
 Allegato 6
 
-## Sistema d’informazione per la gestione degli immobili dell’AFD
+## Sistema d’informazione per la gestione degli immobili dell’UDSC
 
 ### 1. Scopo
 
@@ -441,24 +443,24 @@ Il sistema d’informazione può contenere i seguenti dati:
 - 2\.1 dati personali dei locatari;
 - 2\.2 indirizzo, luogo e dimensioni degli oggetti locati nonché costi di pigione e spese accessorie.
 
-Allegato 7*[^t-1]*
+Allegato 7*[^t-2]*
 
 ## Sistema d’informazione «Perizoll»
 
-[^t-1]: Aggiornato dal n. II 6 dell’all. 8 all’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^t-2]: Aggiornato dall’all. 8 n. II 6 dell’O del 22 nov. 2017 sulla protezione dei dati personali del personale federale, in vigore dal 1° gen. 2018 ([RU 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 ### 1. Scopo
 
 Il sistema d’informazione «Perizoll» serve per:
 
-- 1\.1 il rilevamento degli assegni e delle indennità specifici all’AFD che non possono essere conteggiati con il programma «SAP PT»;
+- 1\.1 il rilevamento degli assegni e delle indennità specifici all’UDSC che non possono essere conteggiati con il programma «SAP PT»;
 - 1\.2 la notifica dei dati relativi al conteggio all’Ufficio federale del personale (UFPER) e al Centro Prestazioni di servizi Personale del Dipartimento federale delle finanze (CPS Pers DFF) ai fini dell’ulteriore elaborazione e del versamento degli assegni e delle indennità insieme allo stipendio mensile.
 
 ### 2. Contenuto
 
 Il sistema d’informazione può contenere i seguenti dati:
 
-- 2\.1 dati personali dei collaboratori dell’AFD;
+- 2\.1 dati personali dei collaboratori dell’UDSC;
 - 2\.2 durata e numero dei turni di servizio continuati;
 - 2\.3 numero di impieghi in base ai piani di servizio fissi;
 - 2\.4 durata del lavoro notturno prestato;
@@ -469,7 +471,7 @@ Il sistema d’informazione può contenere i seguenti dati:
 ### 3. Ripresa di dati da altri sistemi d’informazione e comunicazione dei dati
 
 - 3\.1 La ripresa dal sistema d’informazione per la gestione dei dati del personale (SIGDP) di dati relativi a gestione dell’organizzazione, amministrazione del personale, contabilità del personale, rilevazione presenze del personale e gestione delle indennità è ammessa.
-- 3\.2 I dati relativi al conteggio degli assegni e delle indennità dei collaboratori dell’AFD possono essere comunicati all’UFPER e al CPS Pers DFF ai fini del versamento mensile degli assegni e delle indennità.
+- 3\.2 I dati relativi al conteggio degli assegni e delle indennità dei collaboratori dell’UDSC possono essere comunicati all’UFPER e al CPS Pers DFF ai fini del versamento mensile degli assegni e delle indennità.
 
 Allegato 8
 
@@ -481,35 +483,35 @@ Il sistema d’informazione «Rumaca PIP» serve per:
 
 - 1\.1 la pianificazione dell’impiego del personale del Cgcf;
 - 1\.2 il controllo della durata del lavoro e del riposo, delle vacanze e di altre assenze del personale del Cgcf;
-- 1\.3 il conteggio degli assegni e delle indennità specifici all’AFD con il modulo 66.34.
+- 1\.3 il conteggio degli assegni e delle indennità specifici all’UDSC con il modulo 66.34.
 
 ### 2. Contenuto
 
 Il sistema d’informazione può contenere i seguenti dati:
 
-- 2\.1 dati personali dei collaboratori dell’AFD;
+- 2\.1 dati personali dei collaboratori dell’UDSC;
 - 2\.2 durata del lavoro pianificato e prestato;
 - 2\.3 assenze come vacanze, congedi pagati, malattia, infortunio, corsi di perfezionamento e tempo libero;
 - 2\.4 dati relativi ad assegni e indennità che possono essere conteggiati.
 
 Allegato 9
 
-## Sistema d’informazione «Fewo/Fewolight» per la locazione delle abitazioni di vacanza della Cassa di previdenza dell’AFD
+## Sistema d’informazione «Fewo/Fewolight» per la locazione delle abitazioni di vacanza della Cassa di previdenza dell’UDSC
 
 ### 1. Scopo
 
-Il sistema d’informazione «Fewo/Fewolight» serve per la locazione delle abitazioni di vacanza al personale attivo e in pensione dell’AFD.
+Il sistema d’informazione «Fewo/Fewolight» serve per la locazione delle abitazioni di vacanza al personale attivo e in pensione dell’UDSC.
 
 ### 2. Contenuto
 
 Il sistema d’informazione può contenere i seguenti dati:
 
-- 2\.1 dati personali dei collaboratori attivi e in pensione dell’AFD;
+- 2\.1 dati personali dei collaboratori attivi e in pensione dell’UDSC;
 - 2\.2 indicazioni sulle abitazioni in affitto;
 - 2\.3 domande e assegnazione delle abitazioni in affitto;
 - 2\.4 conteggi relativi alla locazione.
 
-### 3. Ripresa di dati da altri sistemi d’informazione dell’AFD
+### 3. Ripresa di dati da altri sistemi d’informazione dell’UDSC
 
 La ripresa di dati dal sistema «Perizoll» (allegato 7) è ammessa.
 
@@ -519,7 +521,7 @@ Allegato 10
 
 ### 1. Scopo
 
-Il sistema d’informazione relativo al negozio online per l’abbigliamento serve per dotare i collaboratori dell’AFD degli indumenti di lavoro necessari.
+Il sistema d’informazione relativo al negozio online per l’abbigliamento serve per dotare i collaboratori dell’UDSC degli indumenti di lavoro necessari.
 
 ### 2. Contenuto
 
@@ -527,11 +529,9 @@ Il sistema d’informazione relativo al negozio online per l’abbigliamento ser
 - 2\.1 dati personali dei collaboratori del Cgcf con il rispettivo grado di servizio, la loro taglia, l’unità organizzativa assegnata e il recapito privato;
 - 2\.2 indicazioni su articoli, quantità, ordinazione e consegna.
 
-### 3. Ripresa di dati da altri sistemi d’informazione dell’AFD
+### 3. Ripresa di dati da altri sistemi d’informazione dell’UDSC
 
 La ripresa di dati dal sistema «Perizoll» (allegato 7) è ammessa.
-
-- [tab]
 
 Allegato 11
 
@@ -552,9 +552,8 @@ Il sistema d’informazione può contenere i seguenti dati:
 
 Possono trattare i dati:
 
-- 3\.1 i collaboratori dell’AFD competenti per la gestione dei contingenti;
+- 3\.1 i collaboratori dell’UDSC competenti per la gestione dei contingenti;
 - 3\.2 i collaboratori dell’Ufficio federale dell’agricoltura competenti per la gestione dei contingenti.
-- [tab]
 
 Allegato 12
 
@@ -562,7 +561,7 @@ Allegato 12
 
 ### 1. Scopo
 
-Il sistema d’informazione «TADOC II» serve per la registrazione e il trattamento di affari relativi alla documentazione tariffale all’interno dell’AFD.
+Il sistema d’informazione «TADOC II» serve per la registrazione e il trattamento di affari relativi alla documentazione tariffale all’interno dell’UDSC.
 
 ### 2. Contenuto
 
@@ -581,8 +580,6 @@ Il sistema d’informazione può contenere i seguenti dati:
 ### 3. Termine di conservazione
 
 I dati sono distrutti al più tardi venti anni dopo il rilevamento.
-
-- [tab]
 
 Allegato 13
 
@@ -691,8 +688,8 @@ Il sistema d’informazione può contenere i seguenti dati:
 - 2\.7 data in cui sorgono i diritti e gli obblighi derivanti dalla qualifica di AEO;
 - 2\.8 ufficio di servizio che ha emanato la decisione;
 - 2\.9 dati secondo i numeri 2.1–2.5 e 2.7 per gli AEO autorizzati in Stati con i quali la Svizzera ha concluso un accordo per il riconoscimento reciproco della qualifica di AEO;
-- 2\.10 dati forniti all’AFD dal richiedente ai fini dell’esame della domanda;
-- 2\.11 dati necessari all’AFD ai fini dell’analisi dei rischi e della gestione della qualifica di AEO.
+- 2\.10 dati forniti all’UDSC dal richiedente ai fini dell’esame della domanda;
+- 2\.11 dati necessari all’UDSC ai fini dell’analisi dei rischi e della gestione della qualifica di AEO.
 
 ### 3. Pubblicazione
 
@@ -829,7 +826,7 @@ Il sistema d’informazione può contenere i seguenti dati:
 - 2\.5 eventuali contestazioni;
 - 2\.6 osservazioni e indicazioni relative al genere di disbrigo.
 
-### 3. Scambio di dati con altri sistemi d’informazione dell’AFD
+### 3. Scambio di dati con altri sistemi d’informazione dell’UDSC
 
 - 3\.1 Lo scambio di dati relativi all’incasso dei tributi con i sistemi d’informazione per le finanze e la contabilità (allegato 5) è ammesso.
 - 3\.2 La ripresa di dati dal sistema d’informazione per la gestione dei clienti della dogana per i sistemi relativi alle merci (allegato 26) è ammessa.
@@ -867,7 +864,7 @@ I sistemi d’informazione possono contenere i seguenti dati relativi all’impo
 - 2\.5 eventuali contestazioni;
 - 2\.6 osservazioni e indicazioni sul genere di disbrigo.
 
-### 3. Scambio di dati con altri sistemi d’informazione dell’AFD
+### 3. Scambio di dati con altri sistemi d’informazione dell’UDSC
 
 - 3\.1 La ripresa di dati dal sistema d’informazione per la gestione dei clienti della dogana per i sistemi relativi alle merci (allegato 26) è ammessa.
 - 3\.2 La trasmissione di dati ai sistemi per l’elaborazione della statistica del commercio estero (allegati 46 e 47) è ammessa.
@@ -904,7 +901,7 @@ Il sistema d’informazione può contenere i seguenti dati relativi all’imposi
 - 2\.5 eventuali contestazioni;
 - 2\.6 osservazioni e indicazioni sul genere di disbrigo.
 
-### 3. Ripresa di dati da altri sistemi d’informazione dell’AFD
+### 3. Ripresa di dati da altri sistemi d’informazione dell’UDSC
 
 La ripresa di dati dal sistema d’informazione per la gestione dei clienti della dogana per i sistemi relativi alle merci (allegato 26) è ammessa.
 
@@ -943,10 +940,10 @@ Il sistema d’informazione può contenere i seguenti dati:
 
   Per il sistema d’informazione valgono le seguenti autorizzazioni:
 
-  - a. i collaboratori dell’AFD responsabili dei compiti possono trattare i dati nell’ambito delle rispettive competenze;
+  - a. i collaboratori dell’UDSC responsabili dei compiti possono trattare i dati nell’ambito delle rispettive competenze;
   - b. gli utenti esterni della gestione dei clienti della dogana possono trattare i dati di base relativi al proprio IDI.
 
-- 3\.2 L’AFD comunica periodicamente all’Ufficio federale di statistica le variazioni d’indirizzo dei titolari di IDI.
+- 3\.2 L’UDSC comunica periodicamente all’Ufficio federale di statistica le variazioni d’indirizzo dei titolari di IDI.
 
 ### 4. Termine di conservazione
 
@@ -1006,7 +1003,7 @@ Il sistema d’informazione può contenere i seguenti dati:
 
 Allegato 29
 
-## Sistema d’informazione relativo agli interventi dell’AFD nell’ambito della proprietà intellettuale
+## Sistema d’informazione relativo agli interventi dell’UDSC nell’ambito della proprietà intellettuale
 
 ### 1. Scopo
 
@@ -1023,7 +1020,7 @@ Il sistema d’informazione può contenere i seguenti dati:
 - 2\.5 indizi di falsificazione e imitazione;
 - 2\.6 criteri d’identificazione dei marchi e dei design registrati nonché delle opere protette dal diritto d’autore;
 - 2\.7 osservazioni;
-- 2\.8 durata di validità della richiesta d’intervento dell’AFD.
+- 2\.8 durata di validità della richiesta d’intervento dell’UDSC.
 
 Allegato 30
 
@@ -1323,7 +1320,7 @@ Il sistema d’informazione può contenere i seguenti dati:
   Possono trattare i dati:
 
   - a. i collaboratori dell’Ufficio centrale di controllo dei metalli preziosi e degli uffici di controllo dei metalli preziosi;
-  - b. i collaboratori dell’AFD competenti per le procedure penali che, per l’adempimento dei propri compiti, necessitano di dati del sistema d’informazione.
+  - b. i collaboratori dell’UDSC competenti per le procedure penali che, per l’adempimento dei propri compiti, necessitano di dati del sistema d’informazione.
 
 - 3\.2
 
@@ -1390,7 +1387,7 @@ Allegato 46
 
 ### 1. Scopo
 
-Il sistema d’informazione serve per il controllo, l’elaborazione e il trattamento dei dati ripresi dai sistemi d’informazione per l’imposizione doganale dell’AFD (allegati 23 e 24) e utilizzati nel sistema d’informazione relativo alla banca dati dei risultati per l’elaborazione della statistica del commercio estero.
+Il sistema d’informazione serve per il controllo, l’elaborazione e il trattamento dei dati ripresi dai sistemi d’informazione per l’imposizione doganale dell’UDSC (allegati 23 e 24) e utilizzati nel sistema d’informazione relativo alla banca dati dei risultati per l’elaborazione della statistica del commercio estero.
 
 ### 2. Contenuto
 
@@ -1540,7 +1537,7 @@ Allegato 54
 
 ### 1. Scopo
 
-Il sistema d’informazione serve per controllare se gli importatori registrati come contribuenti in Svizzera hanno concluso con l’AFD un accordo relativo ai valori medi delle importazioni di software.
+Il sistema d’informazione serve per controllare se gli importatori registrati come contribuenti in Svizzera hanno concluso con l’UDSC un accordo relativo ai valori medi delle importazioni di software.
 
 ### 2. Contenuto
 
@@ -1794,7 +1791,7 @@ Il sistema d’informazione può contenere i seguenti dati:
 
 ### 3. Comunicazione dei dati
 
-L’AFD comunica regolarmente i dati all’Ufficio federale dell’ambiente.
+L’UDSC comunica regolarmente i dati all’Ufficio federale dell’ambiente.
 
 ### 4. Termine di conservazione
 
@@ -1831,7 +1828,7 @@ Il sistema d’informazione può contenere i seguenti dati:
 
 ### 3. Comunicazione dei dati
 
-L’AFD comunica regolarmente i dati all’Ufficio federale dell’energia.
+L’UDSC comunica regolarmente i dati all’Ufficio federale dell’energia.
 
 ### 4. Termine di conservazione
 
@@ -1879,11 +1876,11 @@ I sistemi d’informazione possono contenere i seguenti dati:
 - 2\.2 numero dell’autorizzazione;
 - 2\.3 data del rilascio e durata di validità dell’autorizzazione nonché osservazioni relative all’autorizzazione.
 
-Allegato 67*[^t-2]*
+Allegato 67*[^t-3]*
 
 ## Sistema d’informazione relativo alla tassa sul traffico pesante commisurata alle prestazioni e alla tassa forfettaria sul traffico pesante
 
-[^t-2]: Aggiornato dal n. II 6 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-3]: Aggiornato dall’all. 4 n. II 6 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ### 1. Scopo
 
@@ -2029,7 +2026,7 @@ Allegato 73
 
 ### 1. Scopo
 
-Le unità organizzative dell’AFD possono gestire le collezioni ausiliarie di dati necessarie per pianificare e controllare i propri compiti nonché stendere rapporti su tali compiti.
+Le unità organizzative dell’UDSC possono gestire le collezioni ausiliarie di dati necessarie per pianificare e controllare i propri compiti nonché stendere rapporti su tali compiti.
 
 ### 2. Contenuto
 
@@ -2038,7 +2035,7 @@ Le collezioni ausiliarie di dati possono contenere esclusivamente i dati che si 
 ### 3. Autorizzazioni e comunicazione
 
 - 3\.1 Le autorizzazioni sono disciplinate dall’articolo 5 capoverso 3 e da eventuali disposizioni negli allegati di pertinenza.
-- 3\.2 La comunicazione di dati desunti dalle collezioni ausiliarie di dati ad autorità e persone esterne all’AFD non è ammessa.
+- 3\.2 La comunicazione di dati desunti dalle collezioni ausiliarie di dati ad autorità e persone esterne all’UDSC non è ammessa.
 
 ### 4. Conservazione dei dati
 

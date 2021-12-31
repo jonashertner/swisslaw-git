@@ -4,20 +4,22 @@ title: "Verordnung vom 23. August 2017 über die Bearbeitung von Personendaten i
 short: DBZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/535"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-08-23
 in_force: 2017-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/535/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-535-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/535/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Bearbeitung von Personendaten in der Eidgenössischen Zollverwaltung
+# Verordnung über die Bearbeitung von Personendaten im Bundesamt für Zoll und Grenzsicherheit
 
-(Datenbearbeitungsverordnung für die EZV, DBZV)
+(Datenbearbeitungsverordnung für das BAZG, DBZV)**[^t-1]**
 
-vom 23. August 2017 (Stand am 1. Januar 2021)
+vom 23. August 2017 (Stand am 1. Januar 2022)
+
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 Der Schweizerische Bundesrat,
 
@@ -37,11 +39,11 @@ verordnet:
 
 **Gegenstand und anwendbares Recht**
 
-<sup>1</sup> Diese Verordnung regelt die Bearbeitung von Personendaten in der Eidgenössischen Zollverwaltung (EZV).
+<sup>1</sup> Diese Verordnung regelt die Bearbeitung von Personendaten im Bundesamt für Zoll und Grenzsicherheit (BAZG).
 
-<sup>2</sup> Das Informationssystem für Strafsachen (Art. 110*a* ZG) wird in der Verordnung vom 20. September 2013[^1-1] über das Informationssystem für Strafsachen der Eidgenössischen Zollverwaltung geregelt.
+<sup>2</sup> Das Informationssystem für Strafsachen (Art. 110*a* ZG) wird in der Verordnung vom 20. September 2013[^1-1] über das Informationssystem für Strafsachen des Bundesamts für Zoll und Grenzsicherheit geregelt.
 
-<sup>3</sup> Das Informationssystem für Bildaufnahme-, Bildaufzeichnungs- und andere Überwachungsgeräte (Art. 110*f* ZG) wird in der Verordnung vom 4. April 2007[^1-2] über den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten durch die Eidgenössische Zollverwaltung geregelt.
+<sup>3</sup> Das Informationssystem für Bildaufnahme-, Bildaufzeichnungs- und andere Überwachungsgeräte (Art. 110*f* ZG) wird in der Verordnung vom 4. April 2007[^1-2] über den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten durch das Bundesamt für Zoll und Grenzsicherheit geregelt.
 
 [^1-1]: [SR 313.041](https://fedlex.data.admin.ch/eli/cc/2013/639)
 [^1-2]: [SR 631.053](https://fedlex.data.admin.ch/eli/cc/2007/257)
@@ -52,7 +54,7 @@ verordnet:
 
 <sup>1</sup>
 
-Die Anhänge regeln für die Informationssysteme der EZV:
+Die Anhänge regeln für die Informationssysteme des BAZG:
 
 - a. den Zweck;
 - b. den Inhalt;
@@ -70,17 +72,17 @@ Wo in den Anhängen von Personalien die Rede ist, ist darunter soweit notwendig 
 
 **Zuständigkeit und Verantwortung**
 
-<sup>1</sup> Die EZV ist für die in dieser Verordnung geregelten Informationssysteme zuständig.
+<sup>1</sup> Das BAZG ist für die in dieser Verordnung geregelten Informationssysteme zuständig.
 
-<sup>2</sup> Sie trägt die Verantwortung für die von ihr bearbeiteten Daten und für deren Inhalt.
+<sup>2</sup> Es trägt die Verantwortung für die von ihr bearbeiteten Daten und für deren Inhalt.
 
 #### Art. 4
 
 **Organisation**
 
-<sup>1</sup> Die Informationssysteme mittels elektronischer Datenverarbeitung werden als eigenständige Applikationen oder auf der Plattform der Büroautomation im Auftrag der EZV vom Bundesamt für Informatik und Telekommunikation (BIT) betrieben. Dieses ist für den Betrieb der Informationssysteme verantwortlich.
+<sup>1</sup> Die Informationssysteme mittels elektronischer Datenverarbeitung werden als eigenständige Applikationen oder auf der Plattform der Büroautomation im Auftrag des BAZG vom Bundesamt für Informatik und Telekommunikation (BIT) betrieben. Dieses ist für den Betrieb der Informationssysteme verantwortlich.
 
-<sup>2</sup> Werden gleiche Daten von verschiedenen Stellen der EZV bearbeitet, so können die entsprechenden Informationssysteme vernetzt werden, sofern dies für eine effiziente Datenbearbeitung notwendig ist.
+<sup>2</sup> Werden gleiche Daten von verschiedenen Stellen des BAZG bearbeitet, so können die entsprechenden Informationssysteme vernetzt werden, sofern dies für eine effiziente Datenbearbeitung notwendig ist.
 
 ## 2. Abschnitt: Datenbearbeitung
 
@@ -92,21 +94,21 @@ Wo in den Anhängen von Personalien die Rede ist, ist darunter soweit notwendig 
 
 <sup>2</sup> Das Beschaffen von Personendaten muss für die betroffenen Personen erkennbar sein.
 
-<sup>3</sup> Die Mitarbeiterinnen und Mitarbeiter der EZV verfügen über diejenigen Berechtigungen zur Datenbearbeitung, die zur Erfüllung ihrer Aufgaben notwendig sind, es sei denn, der betreffende Anhang sieht eine abweichende Regelung vor.
+<sup>3</sup> Die Mitarbeiterinnen und Mitarbeiter des BAZG verfügen über diejenigen Berechtigungen zur Datenbearbeitung, die zur Erfüllung ihrer Aufgaben notwendig sind, es sei denn, der betreffende Anhang sieht eine abweichende Regelung vor.
 
 #### Art. 6
 
 **Zentrale Plattformen zur Datenauswertung**
 
-<sup>1</sup> Die EZV kann Plattformen errichten und betreiben, auf denen die Daten aus den Informationssystemen nach dieser Verordnung ausgewertet werden.
+<sup>1</sup> Das BAZG kann Plattformen errichten und betreiben, auf denen die Daten aus den Informationssystemen nach dieser Verordnung ausgewertet werden.
 
-<sup>2</sup> Die Auswertungen können nur für statistische Zwecke, für Risikoanalysen und für die Führungs- und Steuerungsunterstützung der EZV vorgenommen werden.
+<sup>2</sup> Die Auswertungen können nur für statistische Zwecke, für Risikoanalysen und für die Führungs- und Steuerungsunterstützung des BAZG vorgenommen werden.
 
 #### Art. 7
 
 **Datenbekanntgabe**
 
-<sup>1</sup> Die EZV gibt im Einzelfall Daten aus den Informationssystemen anderen Behörden in der Schweiz sowie Dritten bekannt, wenn eine Informationspflicht hierfür gesetzlich vorgesehen ist.
+<sup>1</sup> Das BAZG gibt im Einzelfall Daten aus den Informationssystemen anderen Behörden in der Schweiz sowie Dritten bekannt, wenn eine Informationspflicht hierfür gesetzlich vorgesehen ist.
 
 <sup>2</sup> Im Abrufverfahren dürfen Daten nur bekanntgegeben werden, soweit der betreffende Anhang dies ausdrücklich vorsieht.
 
@@ -120,7 +122,7 @@ Die Rechte der betroffenen Personen, insbesondere das Auskunfts-, Berichtigungs-
 
 #### Art. 9
 
-**Pflichten der EZV**
+**Pflichten des BAZG**
 
 Unrichtige Daten sowie Daten, die dieser Verordnung nicht entsprechen, sind von Amtes wegen zu berichtigen oder zu vernichten.
 
@@ -150,9 +152,9 @@ Nicht mehr benötigte Daten sowie Daten, deren Aufbewahrungsfrist abgelaufen ist
 
 <sup>2</sup> Daten, Programme und dazugehörige Dokumentationen sind gegen unbefugtes Bearbeiten sowie gegen Zerstörung und Entwendung zu schützen. Sie müssen wiederhergestellt werden können.
 
-<sup>3</sup> Die jeweils zuständige Stelle der EZV legt den Zugriff auf die einzelnen Informationssysteme für jede Benutzerin und jeden Benutzer mit individuellen Benutzerprofilen, Passwörtern und Log-ins in Absprache mit dem BIT so fest, dass die Benutzerin oder der Benutzer die Informationssysteme nur im Umfang ihrer Zuständigkeit benutzen kann. Gemeinschaftspasswörter und Sammel-Log-ins sind nur ausnahmsweise zulässig.
+<sup>3</sup> Die jeweils zuständige Stelle des BAZG legt den Zugriff auf die einzelnen Informationssysteme für jede Benutzerin und jeden Benutzer mit individuellen Benutzerprofilen, Passwörtern und Log-ins in Absprache mit dem BIT so fest, dass die Benutzerin oder der Benutzer die Informationssysteme nur im Umfang ihrer Zuständigkeit benutzen kann. Gemeinschaftspasswörter und Sammel-Log-ins sind nur ausnahmsweise zulässig.
 
-<sup>4</sup> Die EZV erlässt in Absprache mit dem BIT Vorschriften über organisatorische und technische Massnahmen für die Datensicherheit und sorgt dafür, dass die Datenbearbeitung automatisch protokolliert wird.
+<sup>4</sup> Das BAZG erlässt in Absprache mit dem BIT Vorschriften über organisatorische und technische Massnahmen für die Datensicherheit und sorgt dafür, dass die Datenbearbeitung automatisch protokolliert wird.
 
 [^12-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^12-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
@@ -172,9 +174,9 @@ Nicht mehr benötigte Daten sowie Daten, deren Aufbewahrungsfrist abgelaufen ist
 
 #### Art. 14
 
-**Auswertung des Intranet- und Internetangebots der EZV**
+**Auswertung des Intranet- und Internetangebots des BAZG**
 
-<sup>1</sup> Zur Auswertung des Intranet- und Internetangebots der EZV kann die EZV die Daten von Personen bearbeiten, die von diesem Angebot Gebrauch machen (Logfiles).
+<sup>1</sup> Zur Auswertung des Intranet- und Internetangebots des BAZG kann das BAZG die Daten von Personen bearbeiten, die von diesem Angebot Gebrauch machen (Logfiles).
 
 <sup>2</sup> Die Personendaten dürfen nur für diese Auswertung und nur so lange wie unbedingt nötig bearbeitet werden. Sie sind nach der Auswertung zu vernichten oder zu anonymisieren.
 
@@ -184,9 +186,9 @@ Nicht mehr benötigte Daten sowie Daten, deren Aufbewahrungsfrist abgelaufen ist
 
 **Aufhebung eines anderen Erlasses**
 
-Die Datenbearbeitungsverordnung vom 4. April 2007[^15-1] wird aufgehoben.
+Die Datenbearbeitungsverordnung für die EZV vom 4. April 2007[^15-1] wird aufgehoben.
 
-[^15-1]: [[AS 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)Ziff. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)Art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 44 Ziff. 1[6233](https://fedlex.data.admin.ch/eli/oc/2009/762)Ziff. III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)Anhang Ziff. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)Anhang Ziff. 1, [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)Anhang Ziff. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)Ziff. I 4]
+[^15-1]: [[AS 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)Ziff. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)Art. 10, [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 44 Ziff. 1,[6233](https://fedlex.data.admin.ch/eli/oc/2009/762)Ziff. III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)Anhang Ziff. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 2, [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)Anhang Ziff. 1; [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)Anhang Ziff. 2, [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)Ziff. I 4]
 
 #### Art. 16
 
@@ -200,14 +202,14 @@ Die Datenbearbeitungsverordnung vom 4. April 2007[^15-1] wird aufgehoben.
 
 **Übergangsbestimmungen**
 
-Daten aus den folgenden Informationssystemen nach der Datenbearbeitungsverordnung vom 4. April 2007[^17-1], die im Zeitpunkt des Inkrafttretens der vorliegenden Verordnung nicht mehr betrieben werden, werden, sofern sie nicht archiviert werden, vernichtet, sobald sie nicht mehr benötigt werden, spätestens jedoch nach fünf Jahren ab der Erfassung:
+Daten aus den folgenden Informationssystemen nach der Datenbearbeitungsverordnung für die EZV vom 4. April 2007[^17-1], die im Zeitpunkt des Inkrafttretens der vorliegenden Verordnung nicht mehr betrieben werden, werden, sofern sie nicht archiviert werden, vernichtet, sobald sie nicht mehr benötigt werden, spätestens jedoch nach fünf Jahren ab der Erfassung:
 
 - a. Nachweise der Zollveranlagung für die Zulassung von Luftfahrzeugen; Form 15.15 (Anhang A 14);
 - b. Kontrolle der Zollveranlagung schweizerischer und ausländischer Luftfahrzeuge (Anhang A 15);
 - c. Unternehmen, die im konzessionierten Linienverkehr mit Gesellschaftswagen tätig sind (Anhang A 17);
 - d. Personen, die um Rückerstattung der Pauschalen Schwerverkehrsabgabe (PSVA) für Auslandfahrten, Fahrten im UKV und für Holztransporte ersuchen (Anhang A 18);
 - e. Nachweis der Zollveranlagung für die ordentliche Zulassung von Schiffen; Form 15.10 (Anhang A 19);
-- f. Vorermittlungen und Spezialanalyse der EZV (Anhang A 35);
+- f. Vorermittlungen und Spezialanalyse des BAZG (Anhang A 35);
 - g. Verwendungsverpflichtungen Mineralölsteuer (Anhang A 40);
 - h. Kontrolle des Schwefelgehalts von Heizöl extraleicht, Benzin und Dieselöl (Anhang A 43);
 - i. Verzeichnis der von der Sektion Untersuchung der Zollkreisdirektionen geführten Strafuntersuchungen (Anhang B 7);
@@ -219,7 +221,7 @@ Daten aus den folgenden Informationssystemen nach der Datenbearbeitungsverordnun
 - o. Grenzübertrittsbewilligungen ausserhalb zugelassener Grenzübertrittsstellen oder ausserhalb der Öffnungszeiten der Zollstelle (Anhang C 7);
 - p. Artenschutz (Anhang C 10).
 
-[^17-1]: [[AS 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258), [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)Ziff. III 2, [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)Art. 10 [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 44 Ziff. 1[6233](https://fedlex.data.admin.ch/eli/oc/2009/762)Ziff. III, [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)Anhang Ziff. 3, [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 2 [3835](https://fedlex.data.admin.ch/eli/oc/2013/703), [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)Anhang Ziff. 1, [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)Anhang Ziff. 2 [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)Ziff. I 4]
+[^17-1]: [[AS 2007 1715](https://fedlex.data.admin.ch/eli/oc/2007/258); [2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)Ziff. III 2; [2009 709](https://fedlex.data.admin.ch/eli/oc/2009/118)Art. 10, [5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 44 Ziff. 1,[6233](https://fedlex.data.admin.ch/eli/oc/2009/762)Ziff. III; [2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)Anhang Ziff. 3; [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 2, [3835](https://fedlex.data.admin.ch/eli/oc/2013/703); [2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)Anhang Ziff. 1; [2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)Anhang Ziff. 2, [4525](https://fedlex.data.admin.ch/eli/oc/2016/738)Ziff. I 4]
 
 #### Art. 18
 
@@ -237,10 +239,10 @@ Anhang 1
 
   Das Informationssystem «Argos» dient den folgenden Zwecken:
 
-  - a. Erfassung der Resultate der von der EZV durchgeführten Kontrollen im grenzüberschreitenden Warenverkehr;
-  - b. Analyse der von der EZV durchgeführten Kontrollen;
+  - a. Erfassung der Resultate der vom BAZG durchgeführten Kontrollen im grenzüberschreitenden Warenverkehr;
+  - b. Analyse der vom BAZG durchgeführten Kontrollen;
   - c. nachträgliche Kontrolle der Veranlagungen und Zollprozesse;
-  - d. Beschaffung von Datengrundlagen für die Berichterstattung über die Aufgabenerfüllung der EZV.
+  - d. Beschaffung von Datengrundlagen für die Berichterstattung über die Aufgabenerfüllung des BAZG.
 
 - 1\.2 Personendaten können zu Statistikzwecken verwendet werden.
 
@@ -253,7 +255,7 @@ Das Informationssystem kann folgende Daten enthalten:
 - 2\.3 betreffend die Zollkontrollen: Datum, Zeit, Ort, Menge und Wert der Waren, Kontrollgrund, Kontrollergebnis, straf- und verwaltungsrechtliche Massnahmen und andere Folgen der Kontrolle;
 - 2\.4 Name der kontrollierenden Zollstelle.
 
-### 3. Datenübernahme aus anderen Informationssystemen der EZV
+### 3. Datenübernahme aus anderen Informationssystemen des BAZG
 
 Die Übernahme von Daten aus den Informationssystemen betreffend die Zollveranlagung (Anhänge 23, 24 und 25) ist zulässig.
 
@@ -261,9 +263,9 @@ Die Übernahme von Daten aus den Informationssystemen betreffend die Zollveranla
 
 Die Daten können bearbeiten:
 
-- 4\.1 die Mitarbeiterinnen und Mitarbeiter der Betriebsdienste der EZV, die Zollkontrollen durchführen;
-- 4\.2 die Mitarbeiterinnen und Mitarbeiter der Verwaltungsdienste der EZV, welche die Betriebsdienste der EZV kontrollieren;
-- 4\.3 die Mitarbeiterinnen und Mitarbeiter der EZV, welche Strafverfahren bearbeiten.
+- 4\.1 die Mitarbeiterinnen und Mitarbeiter der Betriebsdienste des BAZG, die Zollkontrollen durchführen;
+- 4\.2 die Mitarbeiterinnen und Mitarbeiter der Verwaltungsdienste des BAZG, welche die Betriebsdienste des BAZG kontrollieren;
+- 4\.3 die Mitarbeiterinnen und Mitarbeiter des BAZG, welche Strafverfahren bearbeiten.
 
 ### 5. Aufbewahrungsfrist
 
@@ -293,7 +295,7 @@ Das Informationssystem kann folgende Daten enthalten:
 - 2\.1 Personalien, einschliesslich Branche und Mehrwertsteuer-Nummer, der Unternehmen, welche im Personen- und Warenverkehr auftreten;
 - 2\.2 Personalien, einschliesslich Branche und Mehrwertsteuernummer, der anmeldepflichtigen Personen, der Spediteurinnen und Spediteure, der Versenderinnen und Versender und der Empfängerinnen und Empfänger der Waren;
 - 2\.3 pro Unternehmen: Angaben über die erfolgten Zollveranlagungen, über die Beschau, über Berichtigungen, Nachforderungen, Strafverfahren, einschliesslich Art der Widerhandlung und Bussenmass, sowie über Verwarnungen;
-- 2\.4 Angaben über Ein-, Aus- und Durchfuhr von Waren, die von der EZV als Risikowaren eingestuft werden.
+- 2\.4 Angaben über Ein-, Aus- und Durchfuhr von Waren, die vom BAZG als Risikowaren eingestuft werden.
 - 2\.5 Angaben über vorgenommene Risikoanalysen und allfällige getroffene Massnahmen.
 
 ### 3. Berechtigungen und Veröffentlichung
@@ -302,14 +304,14 @@ Das Informationssystem kann folgende Daten enthalten:
 
   Die Daten können bearbeiten:
 
-  - a. die Mitarbeiterinnen und Mitarbeiter, die Risikoanalysen für die EZV durchführen;
-  - b. die Mitarbeiterinnen und Mitarbeiter der Betriebsdienste der EZV, welche Informationen aus dem Informationssystem für ihre Aufgabenerfüllung benötigen;
-  - c. die Mitarbeiterinnen und Mitarbeiter der Verwaltungsdienste der EZV, welche die Betriebsdienste der EZV kontrollieren;
+  - a. die Mitarbeiterinnen und Mitarbeiter, die Risikoanalysen für das BAZG durchführen;
+  - b. die Mitarbeiterinnen und Mitarbeiter der Betriebsdienste des BAZG, welche Informationen aus dem Informationssystem für ihre Aufgabenerfüllung benötigen;
+  - c. die Mitarbeiterinnen und Mitarbeiter der Verwaltungsdienste des BAZG, welche die Betriebsdienste des BAZG kontrollieren;
   - d. die Mitarbeiterinnen und Mitarbeiter, welche Strafverfahren bearbeiten.
 
 - 3\.2
 
-  Die folgenden Ergebnisse der Risikoanalysen dürfen auf dem Intranet der EZV veröffentlicht werden:
+  Die folgenden Ergebnisse der Risikoanalysen dürfen auf dem Intranet des BAZG veröffentlicht werden:
 
   - a. Personennamen;
   - b. Waren;
@@ -324,8 +326,8 @@ Anhang 3
 
 Das Informationssystem «ELS & Ortung» dient den folgenden Zwecken:
 
-- 1\.1 Beschaffung und Bearbeitung aller Informationen, die für die operative und strategische Steuerung und Leitung der Einsätze der EZV erforderlich sind;
-- 1\.2 zeitgerechter und effizienter Ressourceneinsatz bei geplanten Zollkontrollen und bei unerwarteten Ereignissen, die im Zusammenhang mit einer Zuständigkeit der EZV stehen;
+- 1\.1 Beschaffung und Bearbeitung aller Informationen, die für die operative und strategische Steuerung und Leitung der Einsätze des BAZG erforderlich sind;
+- 1\.2 zeitgerechter und effizienter Ressourceneinsatz bei geplanten Zollkontrollen und bei unerwarteten Ereignissen, die im Zusammenhang mit einer Zuständigkeit des BAZG stehen;
 - 1\.3 Lagedarstellung bei solchen Ereignissen.
 
 ### 2. Inhalt
@@ -341,9 +343,9 @@ Das Informationssystem kann folgende Daten enthalten:
 
 Die Daten können bearbeiten:
 
-- 3\.1 die Mitarbeiterinnen und Mitarbeiter, welche Einsätze der EZV planen, steuern und leiten;
-- 3\.2 die Mitarbeiterinnen und Mitarbeiter der Betriebsdienste der EZV, welche Informationen aus dem Informationssystem für ihre Aufgabenerfüllung benötigen;
-- 3\.3 die Mitarbeiterinnen und Mitarbeiter der Verwaltungsdienste der EZV, welche die Betriebsdienste der EZV kontrollieren;
+- 3\.1 die Mitarbeiterinnen und Mitarbeiter, welche Einsätze des BAZG planen, steuern und leiten;
+- 3\.2 die Mitarbeiterinnen und Mitarbeiter der Betriebsdienste des BAZG, welche Informationen aus dem Informationssystem für ihre Aufgabenerfüllung benötigen;
+- 3\.3 die Mitarbeiterinnen und Mitarbeiter der Verwaltungsdienste des BAZG, welche die Betriebsdienste des BAZG kontrollieren;
 - 3\.4 die Mitarbeiterinnen und Mitarbeiter, welche Strafverfahren bearbeiten.
 
 Anhang 4
@@ -386,8 +388,8 @@ Das Informationssystem kann folgende Daten enthalten:
   Für die Daten nach den Ziffern 2.1 und 2.2 gelten die folgenden Berechtigungen:
 
   - a. Die zuständigen Mitarbeiterinnen und Mitarbeiter des GWK und der Zollstellen dürfen die Daten bearbeiten.
-  - b. Die zuständigen Mitarbeiterinnen und Mitarbeiter der EZV, die sich mit Strafsachen oder der Erstellung von Risikoanalysen befassen, dürfen die Daten bearbeiten.
-  - c. Die Betäubungsmittelspezialistinnen und -spezialisten der EZV dürfen die Daten des Betäubungsmittelbereichs bearbeiten.
+  - b. Die zuständigen Mitarbeiterinnen und Mitarbeiter des BAZG, die sich mit Strafsachen oder der Erstellung von Risikoanalysen befassen, dürfen die Daten bearbeiten.
+  - c. Die Betäubungsmittelspezialistinnen und -spezialisten des BAZG dürfen die Daten des Betäubungsmittelbereichs bearbeiten.
   - d. Die zuständigen Mitarbeiterinnen und Mitarbeiter des Bundesamtes für Polizei (fedpol) und des Staatssekretariates für Migration haben im Abrufverfahren Zugriff auf die Daten.
   - e. Die zuständigen Mitarbeiterinnen und Mitarbeiter der kantonalen Polizeibehörden haben im Rahmen von Vereinbarungen nach Artikel 97 ZG im Abrufverfahren Zugriff auf die Daten.
 
@@ -396,7 +398,7 @@ Das Informationssystem kann folgende Daten enthalten:
   Für die Daten nach Ziffer 2.3 gelten die folgenden Berechtigungen:
 
   - a. Die zuständigen Mitarbeiterinnen und Mitarbeiter des GWK und die für die Meldungen zuständigen Spezialistinnen und Spezialisten der Zollstellen dürfen die Daten bearbeiten.
-  - b. Die zuständigen Mitarbeiterinnen und Mitarbeiter der EZV, die sich mit Strafsachen oder der Erstellung von Risikoanalysen befassen, sowie die für die Durchführung von Analysen nach Artikel 9 der Verordnung über die Kontrolle des grenzüberschreitenden Barmittelverkehrs zuständigen Personen dürfen die Daten bearbeiten.
+  - b. Die zuständigen Mitarbeiterinnen und Mitarbeiter des BAZG, die sich mit Strafsachen oder der Erstellung von Risikoanalysen befassen, sowie die für die Durchführung von Analysen nach Artikel 9 der Verordnung über die Kontrolle des grenzüberschreitenden Barmittelverkehrs zuständigen Personen dürfen die Daten bearbeiten.
   - c. Die für die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung zuständigen Mitarbeiterinnen und Mitarbeiter des fedpol haben im Abrufverfahren Zugriff auf die Daten.
 
 Anhang 5
@@ -422,8 +424,8 @@ Anhang 5
 
 Die Informationssysteme können folgende Daten enthalten:
 
-- 2\.1 Personalien der abgabepflichtigen natürlichen und juristischen Personen und Personenvereinigungen, die über das zentralisierte Abrechnungsverfahren der Zollverwaltung (ZAZ) abrechnen;
-- 2\.2 Personalien der Debitoren und Kreditoren der EZV sowie der abgabepflichtigen Personen, die über das gemeinsame Versandverfahren abgewickelt werden;
+- 2\.1 Personalien der abgabepflichtigen natürlichen und juristischen Personen und Personenvereinigungen, die über das zentralisierte Abrechnungsverfahren des BAZG (ZAZ) abrechnen;
+- 2\.2 Personalien der Debitoren und Kreditoren des BAZG sowie der abgabepflichtigen Personen, die über das gemeinsame Versandverfahren abgewickelt werden;
 - 2\.3 Daten über die finanziellen Bewegungen im Zusammenhang mit der Erhebung und Bewirtschaftung von Einnahmen, Ausgaben und geleisteten Sicherheiten.
 
 ### 3. Aufbewahrungsfrist
@@ -432,7 +434,7 @@ Die Daten werden zehn Jahren ab der Erfassung vernichtet.
 
 Anhang 6
 
-## Informationssystem für die Verwaltung der Liegenschaften der EZV
+## Informationssystem für die Verwaltung der Liegenschaften des BAZG
 
 ### 1. Zweck
 
@@ -445,24 +447,24 @@ Das Informationssystem kann folgende Daten enthalten:
 - 2\.1 Personalien der Mieterinnen und Mieter;
 - 2\.2 Adresse, Ort und Grösse der Mietobjekte sowie Miet- und Nebenkosten.
 
-Anhang 7*[^t-1]*
+Anhang 7*[^t-2]*
 
 ## Informationssystem «Perizoll»
 
-[^t-1]: Bereinigt gemäss Anhang 8 Ziff. II 6 der V vom 22. Nov. 2017 über den Schutz von Personendaten des Bundespersonals, in Kraft seit 1. Jan. 2018 ([AS 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
+[^t-2]: Bereinigt gemäss Anhang 8 Ziff. II 6 der V vom 22. Nov. 2017 über den Schutz von Personendaten des Bundespersonals, in Kraft seit 1. Jan. 2018 ([AS 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)).
 
 ### 1. Zweck
 
 Das Informationssystem «Perizoll» dient den folgenden Zwecken:
 
-- 1\.1 Erfassung der EZV-spezifischen Zulagen und Vergütungen, die nicht mit dem Programm «SAP PT» abgerechnet werden können;
+- 1\.1 Erfassung der BAZG-spezifischen Zulagen und Vergütungen, die nicht mit dem Programm «SAP PT» abgerechnet werden können;
 - 1\.2 Meldung der Abrechnungsdaten an das Eidgenössisches Personalamt (EPA) und an das Dienstleistungszentrum Personal des Eidgenössischen Finanzdepartements (DLZ Personal EFD) zur Weiterverarbeitung und Auszahlung der Zulagen und Vergütungen zusammen mit dem Monatslohn.
 
 ### 2. Inhalt
 
 Das Informationssystem kann folgende Daten enthalten:
 
-- 2\.1 Personalien der Mitarbeiterinnen und Mitarbeiter der EZV;
+- 2\.1 Personalien der Mitarbeiterinnen und Mitarbeiter des BAZG;
 - 2\.2 Dauer und Anzahl durchgehender Diensttouren;
 - 2\.3 Anzahl Einsätze nach festen Dienstplänen;
 - 2\.4 Dauer der geleisteten Nachtarbeit;
@@ -473,7 +475,7 @@ Das Informationssystem kann folgende Daten enthalten:
 ### 3. Datenübernahme aus anderen Informationssystemen und Datenbekanntgabe
 
 - 3\.1 Die Übernahme von Daten aus dem System Informationssystem Personal und Datenmanagement «IPDM» betreffend Organisationsmanagement, Personaladministration, Personalabrechnung, Personalzeitwirtschaft und Vergütungsmanagement ist zulässig.
-- 3\.2 Die Daten betreffend die Abrechnung von Zulagen und Vergütungen der Mitarbeiterinnen und Mitarbeiter der EZV dürfen dem EPA und dem DLZ Personal EFD zur monatlichen Auszahlung der Zulagen und Vergütungen bekanntgegeben werden.
+- 3\.2 Die Daten betreffend die Abrechnung von Zulagen und Vergütungen der Mitarbeiterinnen und Mitarbeiter des BAZG dürfen dem EPA und dem DLZ Personal EFD zur monatlichen Auszahlung der Zulagen und Vergütungen bekanntgegeben werden.
 
 Anhang 8
 
@@ -485,35 +487,35 @@ Das Informationssystem «Rumaca Pep» dient den folgenden Zwecken:
 
 - 1\.1 Einsatzplanung für das Personal des GWK;
 - 1\.2 Kontrolle der Arbeits- und Ruhezeiten, der Ferien und anderer Abwesenheiten des Personals des GWK;
-- 1\.3 Abrechnung der EZV-spezifischen Zulagen und Vergütungen mit dem Formular 66.34.
+- 1\.3 Abrechnung der BAZG-spezifischen Zulagen und Vergütungen mit dem Formular 66.34.
 
 ### 2. Inhalt
 
 Das Informationssystem kann folgende Daten enthalten:
 
-- 2\.1 Personalien der Mitarbeiterinnen und Mitarbeiter der EZV;
+- 2\.1 Personalien der Mitarbeiterinnen und Mitarbeiter des BAZG;
 - 2\.2 geplante und geleistete Arbeitszeit;
 - 2\.3 Abwesenheiten wie Ferien, bezahlter Urlaub, Krankheit, Unfall, dienstliche Weiterbildung und arbeitsfreie Zeit;
 - 2\.4 Daten von abrechnungsberechtigten Zulagen und Vergütungen.
 
 Anhang 9
 
-## Informationssystem «Fewo/Fewolight» zur Vermietung der Ferienwohnungen der Wohlfahrtskasse der EZV
+## Informationssystem «Fewo/Fewolight» zur Vermietung der Ferienwohnungen der Wohlfahrtskasse des BAZG
 
 ### 1. Zweck
 
-Das Informationssystem «Fewo/Fewolight» dient der Vermietung von Ferienwohnungen an das aktive und pensionierte Personal der EZV.
+Das Informationssystem «Fewo/Fewolight» dient der Vermietung von Ferienwohnungen an das aktive und pensionierte Personal des BAZG.
 
 ### 2. Inhalt
 
 Das Informationssystem kann folgende Daten enthalten:
 
-- 2\.1 Personalien der aktiven und pensionierten Mitarbeiterinnen und Mitarbeiter der EZV;
+- 2\.1 Personalien der aktiven und pensionierten Mitarbeiterinnen und Mitarbeiter des BAZG;
 - 2\.2 Angaben über die Mietwohnungen;
 - 2\.3 Gesuche und Zuteilung der Mietwohnungen;
 - 2\.4 Abrechnungen über die Vermietung.
 
-### 3. Datenübernahme aus anderen Informationssystemen der EZV
+### 3. Datenübernahme aus anderen Informationssystemen des BAZG
 
 Die Übernahme von Daten aus dem System «Perizoll» (Anhang 7) ist zulässig.
 
@@ -523,7 +525,7 @@ Anhang 10
 
 ### 1. Zweck
 
-Das Informationssystem «Kleiderwebshop» dient der Ausrüstung der Mitarbeiterinnen und Mitarbeiter der EZV mit der erforderlichen Dienstkleidung.
+Das Informationssystem «Kleiderwebshop» dient der Ausrüstung der Mitarbeiterinnen und Mitarbeiter des BAZG mit der erforderlichen Dienstkleidung.
 
 ### 2. Inhalt
 
@@ -532,7 +534,7 @@ Das Informationssystem kann folgende Daten enthalten:
 - 1\. Personalien der Mitarbeiterinnen und Mitarbeiter des GWK, deren Dienstgrade, Konfektionsgrösse, zugeteilte Organisationseinheit und private Zustelladresse;
 - 2\. Angaben über Artikel, Menge, Bestell- und Lieferdaten.
 
-### 3. Datenübernahme aus anderen Informationssystemen der EZV
+### 3. Datenübernahme aus anderen Informationssystemen des BAZG
 
 Die Übernahme von Daten aus dem System «Perizoll» (Anhang 7) ist zulässig.
 
@@ -555,7 +557,7 @@ Das Informationssystem kann folgende Daten enthalten:
 
 Die Daten können bearbeiten:
 
-- 3\.1 die für die Kontingentsbewirtschaftung zuständigen Mitarbeiterinnen und Mitarbeiter der EZV;
+- 3\.1 die für die Kontingentsbewirtschaftung zuständigen Mitarbeiterinnen und Mitarbeiter des BAZG;
 - 3\.2 die für die Kontingentsbewirtschaftung zuständigen Mitarbeiterinnen und Mitarbeiter des Bundesamtes für Landwirtschaft.
 
 Anhang 12
@@ -564,7 +566,7 @@ Anhang 12
 
 ### 1. Zweck
 
-Das Informationssystem «TADOC II» dient der Registratur und der Bearbeitung von Geschäften zur Tarifdokumentation innerhalb der EZV.
+Das Informationssystem «TADOC II» dient der Registratur und der Bearbeitung von Geschäften zur Tarifdokumentation innerhalb des BAZG.
 
 ### 2. Inhalt
 
@@ -692,8 +694,8 @@ Das Informationssystem kann folgende Daten enthalten:
 - 2\.7 Datum, an dem die mit dem AEO-Status verbundenen Rechte und Pflichten entstehen;
 - 2\.8 Dienststelle, welche die Verfügung erlassen hat;
 - 2\.9 die Daten gemäss den Ziffern 2.1–2.5 und 2.7 für in Staaten zugelassene AEO, mit denen die Schweiz ein Abkommen über die gegenseitige Anerkennung des AEO-Status abgeschlossen hat;
-- 2\.10 die Daten, welche die EZV von der antragstellenden Person zur Prüfung ihres Antrags erhalten hat;
-- 2\.11 die Daten, welche die EZV zur Risikoanalyse und Bewirtschaftung des AEO-Status benötigt.
+- 2\.10 die Daten, welche das BAZG von der antragstellenden Person zur Prüfung ihres Antrags erhalten hat;
+- 2\.11 die Daten, welche das BAZG zur Risikoanalyse und Bewirtschaftung des AEO-Status benötigt.
 
 ### 3. Veröffentlichung
 
@@ -831,7 +833,7 @@ Das Informationssystem kann folgende Daten enthalten:
 - 2\.5 allfällige Beanstandungen;
 - 2\.6 Bemerkungen und Angaben über die Art der Erledigung.
 
-### 3. Datenaustausch mit anderen Informationssystemen der EZV
+### 3. Datenaustausch mit anderen Informationssystemen des BAZG
 
 - 3\.1 Der Datenaustausch mit den Informationssystemen für Finanzen und Rechnungswesen (Anhang 5) betreffend Inkasso der Abgabe ist zulässig.
 - 3\.2 Die Übernahme von Daten aus dem Informationssystem zur Zollkundenverwaltung für Frachtsysteme (Anhang 26) ist zulässig.
@@ -869,7 +871,7 @@ Die Informationssysteme können folgende Daten der Zollveranlagung enthalten:
 - 2\.5 allfällige Beanstandungen;
 - 2\.6 Bemerkungen und Angaben über die Art der Erledigung.
 
-### 3. Datenaustausch mit anderen Informationssystemen der EZV
+### 3. Datenaustausch mit anderen Informationssystemen des BAZG
 
 - 3\.1 Die Übernahme von Daten aus dem Informationssystem zur Zollkundenverwaltung (Anhang 26) ist zulässig.
 - 3\.2 Die Weitergabe von Daten an die Systeme zur Erstellung der Aussenhandelsstatistik (Anhänge 46 und 47) ist zulässig.
@@ -906,7 +908,7 @@ Die Informationssysteme können folgende Daten der Zollveranlagung enthalten:
 - 2\.5 allfällige Beanstandungen;
 - 2\.6 Bemerkungen und und Angaben über die Art der Erledigung.
 
-### 3. Datenübernahme aus anderen Informationssystemen der EZV
+### 3. Datenübernahme aus anderen Informationssystemen des BAZG
 
 Die Übernahme von Daten aus dem Informationssystem zur Zollkundenverwaltung (Anhang 26) ist zulässig.
 
@@ -945,10 +947,10 @@ Das Informationssystem kann folgende Daten enthalten:
 
   Für das Informationssystem gelten die folgenden Berechtigungen:
 
-  - a. Die für die jeweilige Aufgabe zuständigen Mitarbeiterinnen und Mitarbeiter der EZV können die Daten im Rahmen ihrer jeweiligen Kompetenzen bearbeiten.
+  - a. Die für die jeweilige Aufgabe zuständigen Mitarbeiterinnen und Mitarbeiter des BAZG können die Daten im Rahmen ihrer jeweiligen Kompetenzen bearbeiten.
   - b. Die externen Benutzerinnen und Benutzer der Zollkundenverwaltung können die Stammdaten zur eigenen UID bearbeiten.
 
-- 3\.2 Die EZV gibt Adressänderungen von Inhaberinnen und Inhabern einer UID dem Bundesamt für Statistik periodisch bekannt.
+- 3\.2 Das BAZG gibt Adressänderungen von Inhaberinnen und Inhabern einer UID dem Bundesamt für Statistik periodisch bekannt.
 
 ### 4. Aufbewahrungsfrist
 
@@ -1008,7 +1010,7 @@ Das Informationssystem kann die folgenden Daten enthalten:
 
 Anhang 29
 
-## Informationssystem für Hilfeleistungen der EZV im Bereich des geistigen Eigentums
+## Informationssystem für Hilfeleistungen des BAZG im Bereich des geistigen Eigentums
 
 ### 1. Zweck
 
@@ -1025,7 +1027,7 @@ Das Informationssystem kann folgende Daten enthalten:
 - 2\.5 Anhaltspunkte über Fälschungen und Nachahmungen;
 - 2\.6 Erkennungsmerkmale der eingetragenen Marken und Designs sowie der urheberrechtlich geschützten Werke;
 - 2\.7 Bemerkungen;
-- 2\.8 Gültigkeitsdauer des Antrags auf Hilfeleistung der EZV.
+- 2\.8 Gültigkeitsdauer des Antrags auf Hilfeleistung des BAZG.
 
 Anhang 30
 
@@ -1326,7 +1328,7 @@ Das Informationssystem kann folgende Daten enthalten:
   Die Daten können bearbeiten:
 
   - a. die Mitarbeiterinnen und Mitarbeiter des Zentralamts für Edelmetallkontrolle und der Kontrollämter;
-  - b. die für Strafverfahren zuständigen Mitarbeiterinnen und Mitarbeiter der EZV, welche Informationen aus dem Informationssystem für ihre Aufgabenerfüllung benötigen.
+  - b. die für Strafverfahren zuständigen Mitarbeiterinnen und Mitarbeiter des BAZG, welche Informationen aus dem Informationssystem für ihre Aufgabenerfüllung benötigen.
 
 - 3\.2
 
@@ -1393,7 +1395,7 @@ Anhang 46
 
 ### 1. Zweck
 
-Das Informationssystem dient der Prüfung, Bearbeitung und Aufbereitung der Daten, die aus den Informationssystemen für die Zollveranlagung der EZV (Anhänge 23 und 24) zur Verwendung im Informationssystem «Ergebnisdatenbank zur Erstellung der Aussenhandelsstatistik» übernommen werden.
+Das Informationssystem dient der Prüfung, Bearbeitung und Aufbereitung der Daten, die aus den Informationssystemen für die Zollveranlagung des BAZG (Anhänge 23 und 24) zur Verwendung im Informationssystem «Ergebnisdatenbank zur Erstellung der Aussenhandelsstatistik» übernommen werden.
 
 ### 2. Inhalt
 
@@ -1542,7 +1544,7 @@ Anhang 54
 
 ### 1. Zweck
 
-Das Informationssystem dient der Kontrolle, ob im Inland steuerpflichtige Importeurinnen und Importeure mit der EZV eine Vereinbarung über Durchschnittswerte von Software-Einfuhren abgeschlossen haben.
+Das Informationssystem dient der Kontrolle, ob im Inland steuerpflichtige Importeurinnen und Importeure mit dem BAZG eine Vereinbarung über Durchschnittswerte von Software-Einfuhren abgeschlossen haben.
 
 ### 2. Inhalt
 
@@ -1793,7 +1795,7 @@ Das Informationssystem kann folgende Daten enthalten:
 
 ### 3. Datenbekanntgabe
 
-Die EZV gibt die Daten regelmässig dem Bundesamt für Umwelt bekannt.
+Das BAZG gibt die Daten regelmässig dem Bundesamt für Umwelt bekannt.
 
 ### 4. Aufbewahrungsfrist
 
@@ -1830,7 +1832,7 @@ Das Informationssystem kann folgende Daten enthalten:
 
 ### 3. Datenbekanntgabe
 
-Die EZV gibt die Daten regelmässig dem Bundesamt für Energie bekannt.
+Das BAZG gibt die Daten regelmässig dem Bundesamt für Energie bekannt.
 
 ### 4. Aufbewahrungsfrist
 
@@ -1877,11 +1879,11 @@ Die Informationssysteme können folgende Daten enthalten:
 - 2\.2 Nummer der Bewilligung;
 - 2\.3 Datum der Ausstellung und Gültigkeitsdauer der Bewilligung sowie Bemerkungen zur Bewilligung.
 
-Anhang 67*[^t-2]*
+Anhang 67*[^t-3]*
 
 ## Informationssystem für die leistungsabhängige Schwerverkehrsabgabe und die pauschal erhobene Schwerverkehrsabgabe
 
-[^t-2]: Bereinigt gemäss Anhang 4 Ziff. II 6 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-3]: Bereinigt gemäss Anhang 4 Ziff. II 6 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ### 1. Zweck
 
@@ -2025,7 +2027,7 @@ Anhang 73
 
 ### 1. Zweck
 
-Die Organisationseinheiten der EZV dürfen für die Planung und die Kontrolle ihrer Aufgaben sowie für die Berichterstattung über ihre Aufgaben die dafür notwendigen Hilfsdatensammlungen führen.
+Die Organisationseinheiten des BAZG dürfen für die Planung und die Kontrolle ihrer Aufgaben sowie für die Berichterstattung über ihre Aufgaben die dafür notwendigen Hilfsdatensammlungen führen.
 
 ### 2. Inhalt
 
@@ -2034,7 +2036,7 @@ Die Hilfsdatensammlungen dürfen ausschliesslich die Daten enthalten, die in den
 ### 3. Berechtigungen und Bekanntgabe
 
 - 3\.1 Die Berechtigungen richten sich nach Artikel 5 Absatz 3 und allfälligen Regelungen in den betreffenden Anhängen.
-- 3\.2 Die Bekanntgabe von Daten aus den Hilfsdatensammlungen an Behörden und Personen ausserhalb der EZV ist nicht zulässig.
+- 3\.2 Die Bekanntgabe von Daten aus den Hilfsdatensammlungen an Behörden und Personen ausserhalb des BAZG ist nicht zulässig.
 
 ### 4. Datenaufbewahrung
 
