@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur la production et la mise en circulatio
 short: OSALA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-772-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-772-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20210101/fr"
 
 (Ordonnance sur les aliments pour animaux, OSALA)
 
-du 26 octobre 2011 (Etat le 1<sup>er</sup> janvier 2021)
+du 26 octobre 2011 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1124,7 +1124,9 @@ Outre les exigences générales concernant l’étiquetage des aliments pour ani
 - b. en ce qui concerne les aliments pour animaux visés à l’art. 60, let. c, la mention «produit à partir de [nom de l’organisme] génétiquement modifié» apparaît entre parenthèses juste après le nom spécifique de l’aliment. Cette mention peut aussi figurer dans une note au bas de la liste des aliments. Elle est imprimée dans une police de caractères ayant au moins la même taille que celle de la liste des aliments;
 - c. Toutes les caractéristiques d’un aliment pour animaux génétiquement modifié qui sont citées dans l’autorisation doivent être indiquées.
 
-<sup>2</sup> Ces exigences d’étiquetage ne s’appliquent pas aux aliments pour animaux renfermant un matériel contenant des OGM, consistant en de tels organismes ou produit à partir de tels organismes dans une proportion n’excédant pas 0,9 % de l’aliment et de chacun de ses composants, à condition que cette présence soit fortuite ou techniquement inévitable.
+<sup>2</sup> Ces exigences d’étiquetage ne s’appliquent pas aux aliments pour animaux dont la teneur en OGM, dans l’aliment lui-même et dans chacune de ses matières premières, n’excède pas 0,9 %, à condition que cette présence soit fortuite ou techniquement inévitable.[^66-1]
+
+[^66-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
 
 #### Art. 67
 
@@ -1140,9 +1142,9 @@ Les entreprises du secteur de l’alimentation animale doivent démontrer à l�
 
 Les aliments qui, fortuitement, contiennent des traces d’OGM non homologués ou qui sont produits à partir de matières premières contenant de telles traces peuvent être mis en circulation:
 
-- a. si le pourcentage de ces traces d’OGM non homologués ne dépasse pas 0,5 % en masse;
+- a.[^68-1] si le pourcentage de ces traces d’OGM non homologués n’excède pas 0,5 % de la masse de chacune des matières premières;
 - b. si le producteur peut attester que des mesures appropriées ont été prises visant à empêcher la présence d’impuretés indésirables, et
-- c. si ces OGM peuvent être mis en circulation conformément aux art. 19 à 23 du règlement (CE) 1829/2003[^68-1], si des traces de ces OGM sont tolérées dans l’UE, ou si ces organismes sont tolérés conformément à l’art. 23 de l’ordonnance du 23 novembre 2005 sur les denrées alimentaires et les objets usuels[^68-2].
+- c. [^68-2] si ces OGM peuvent être mis en circulation conformément aux art. 19 à 23 du règlement (CE) n<sup>o</sup> 1829/2003[^68-3], si des traces de ces OGM sont tolérées dans l’UE, ou si ces organismes sont tolérés conformément à l’art. 32 de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels[^68-4].
 
 <sup>2</sup>
 
@@ -1156,8 +1158,10 @@ Lorsqu’un lot de matière première importée présente des traces fortuites d
 
 <sup>3</sup> L’OFAG fixe les tolérances admises pour les traces d’OGM dont l’homologation a été radiée.
 
-[^68-1]: R (CE) n<sup>o</sup> 1829/2003 du Parlement européen et du Conseil du 22 sept. 2003 concernant les denrées alimentaires et les aliments pour animaux génétiquement modifiés, JO L 268 du 18.10.2003, p. 1, modifié en dernier lieu par le R (CE) n<sup>o</sup> 298/2008 du 11.3.2008, JO L 97 du 9.4.2008, p. 64.
-[^68-2]: [[RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), 2010 4611, [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)annexe 2 ch. II 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)annexe ch. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)annexe ch. 5. [RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)art. 94 al. 1]. Voir acutellement l´O du 16 décembre 2016 ([RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^68-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
+[^68-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
+[^68-3]: Règlement (CE) n<sup>o</sup> 1829/2003 du Parlement européen et du Conseil du 22 septembre 2003 concernant les denrées alimentaires et les aliments pour animaux génétiquement modifiés, JO L 268 du 18.10.2003, p. 1, modifié en dernier lieu par le règlement (UE) 2019/1381, JO L 231 du 6.9.2019, p. 1.
+[^68-4]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ## Chapitre 7 Exécution
 

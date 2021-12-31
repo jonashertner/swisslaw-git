@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Produktion und das Inverkehrbr
 short: FMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/772"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2011-772-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/772/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-772-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/772/20210101/de"
 
 (Futtermittel-Verordnung, FMV)
 
-vom 26. Oktober 2011 (Stand am 1. Januar 2021)
+vom 26. Oktober 2011 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -586,7 +586,7 @@ Dem BLW sind folgende Angaben und Unterlagen einzureichen:
 
 <sup>5</sup> Widerruft das BLW eine Zulassung und betreffen die Gründe für den Widerruf nicht eine als unannehmbar erachtete, potenziell gefährliche Wirkung, so kann es eine Frist für die Entsorgung, die Lagerung und das Inverkehrbringen der Lagerbestände gewähren.
 
-<sup>6</sup> ...[^30-2]
+<sup>6</sup> …[^30-2]
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
 [^30-2]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6399](https://fedlex.data.admin.ch/eli/oc/2012/761)).
@@ -1071,7 +1071,7 @@ Gentechnisch veränderte Einzelfuttermittel und Futtermittelzusatzstoffe können
 
 <sup>4</sup> Für Zusatzstoffe müssen auch Unterlagen gemäss Artikel 27 eingereicht werden.
 
-[^63-1]: [[AS 2005 6353](https://fedlex.data.admin.ch/eli/oc/2005/808), [2006 4987](https://fedlex.data.admin.ch/eli/oc/2006/776), [2007 2935](https://fedlex.data.admin.ch/eli/oc/2007/390), [2008 1057](https://fedlex.data.admin.ch/eli/oc/2008/206), [2013 4139](https://fedlex.data.admin.ch/eli/oc/2013/762)Ziff. I 1, [2016 3685](https://fedlex.data.admin.ch/eli/oc/2016/618)]. Siehe heute: die V vom 27. Mai 2020 ([SR 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)).
+[^63-1]: [[AS 2005 6353](https://fedlex.data.admin.ch/eli/oc/2005/808); [2006 4987](https://fedlex.data.admin.ch/eli/oc/2006/776); [2007 2935](https://fedlex.data.admin.ch/eli/oc/2007/390); [2008 1057](https://fedlex.data.admin.ch/eli/oc/2008/206); [2013 4139](https://fedlex.data.admin.ch/eli/oc/2013/762)Ziff. I 1; [2016 3685](https://fedlex.data.admin.ch/eli/oc/2016/618)]. Siehe heute: die V vom 27. Mai 2020 ([SR 817.022.51](https://fedlex.data.admin.ch/eli/cc/2020/456)).
 [^63-2]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
 #### Art. 64
@@ -1122,7 +1122,9 @@ Zusätzlich zu den allgemeinen Anforderungen an die Kennzeichnung von Futtermitt
 - b. Bei den Futtermitteln nach Artikel 60 Buchstabe c ist der Zusatz «aus gentechnisch verändertem [Bezeichnung des Organismus] hergestellt» unmittelbar nach dem spezifischen Namen des Futtermittels in Klammern aufzuführen; alternativ kann dieser Passus in eine Fussnote zum Verzeichnis der Futtermittel aufgenommen werden; er ist in einer Schriftgrösse zu drucken, die mindestens so gross ist wie die Schriftgrösse im Verzeichnis der Futtermittel.
 - c. Alle in der Bewilligung genannten Merkmale eines gentechnisch veränderten Futtermittels sind anzugeben.
 
-<sup>2</sup> Diese Kennzeichnungsanforderungen gelten nicht für Futtermittel, die Material enthalten, das GVO enthält, aus solchen besteht oder aus solchen hergestellt ist, mit einem Anteil, der nicht höher ist als 0,9 Prozent des Futtermittels und der Futtermittelbestandteile, aus denen es zusammengesetzt ist, vorausgesetzt, dieser Anteil ist unbeabsichtigt oder technisch nicht zu vermeiden.
+<sup>2</sup> Diese Kennzeichnungsanforderungen gelten nicht für Futtermittel, die GVO enthalten, deren Anteil 0,9 Prozent des Futtermittels und 0,9 Prozent jedes einzelnen Ausgangsprodukts nicht überschreitet, vorausgesetzt, der GVO-Anteil ist unbeabsichtigt oder technisch nicht zu vermeiden.[^66-1]
+
+[^66-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
 
 #### Art. 67
 
@@ -1138,9 +1140,9 @@ Die Futtermittelunternehmen müssen dem BLW nachweisen, dass sie alle geeigneten
 
 Futtermittel, die unbeabsichtigt Spuren nicht zugelassener GVO enthalten oder aus Ausgangsprodukten mit solchen Spuren hergestellt wurden, dürfen in Verkehr gebracht werden, wenn:
 
-- a. der Anteil der Spuren nicht zugelassener GVO höchstens 0,5 Massenprozent beträgt;
+- a.[^68-1] der Anteil der Spuren nicht zugelassener GVO in jedem Futtermittel-Ausgangsprodukt höchstens 0,5 Massenprozent beträgt;
 - b. der Produzent belegen kann, dass geeignete Massnahmen zur Vermeidung unerwünschter Verunreinigungen ergriffen wurden; und
-- c. die GVO nach den Artikeln 19–23 der Verordnung (EG) Nr. 1829/2003[^68-1] in Verkehr gebracht werden dürfen, das Vorhandensein von Spuren der gentechnisch veränderten Organismen in der EU toleriert wird oder die Organismen nach Artikel 23 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005[^68-2] toleriert werden.
+- c.[^68-2] die GVO nach den Artikeln 19–23 der Verordnung (EG) Nr. 1829/2003[^68-3] in Verkehr gebracht werden dürfen, das Vorhandensein von Spuren der gentechnisch veränderten Organismen in der EU toleriert wird oder die Organismen nach Artikel 32 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^68-4] toleriert werden.
 
 <sup>2</sup>
 
@@ -1154,8 +1156,10 @@ Weist eine Partie eines eingeführten Ausgangsprodukts unbeabsichtigt Spuren nic
 
 <sup>3</sup> Das BLW legt die erlaubten Toleranzen für Spuren gentechnisch veränderter Organismen fest, deren Zulassung aufgehoben wurde.
 
-[^68-1]: Verordnung (EG) Nr. 1829/2003 des Europäischen Parlaments und des Rates vom 22. Sept. 2003 über genetisch veränderte Lebensmittel und Futtermittel, ABl. L 268 vom 18.10.2003, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 298/2008 vom 11.3.2008, ABl. L 97 vom 9.4.2008, S. 64.
-[^68-2]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668), [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94 Abs. 1]. Siehe heute: die V vom 16. Dez. 2016 ([SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^68-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
+[^68-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 688](https://fedlex.data.admin.ch/eli/oc/2021/688)).
+[^68-3]: Verordnung (EG) Nr. 1829/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 über genetisch veränderte Lebensmittel und Futtermittel, ABl. L 268 vom 18.10.2003, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1381, ABl. L 231 vom 6.9.2019, S. 1.
+[^68-4]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 ## 7. Kapitel: Vollzug
 
@@ -1191,7 +1195,7 @@ Weist eine Partie eines eingeführten Ausgangsprodukts unbeabsichtigt Spuren nic
 
 <sup>6</sup> Das BLW kann die Anhänge und die entsprechenden Übergangsbestimmungen der Futtermittelbuch-Verordnung vom 26. Oktober 2011[^70-1] an Änderungen des europäischen Rechts anpassen, sofern diese von beschränkter Tragweite sind.[^70-2]
 
-<sup>7</sup> ...[^70-3]
+<sup>7</sup> …[^70-3]
 
 <sup>8</sup> Im Falle einer Dringlichkeit in Bezug auf die menschliche Gesundheit, die Tiergesundheit oder den Umweltschutz und vorbehaltlich der Bestimmungen über das geistige Eigentum kann das BLW dem Käufer Informationen übermitteln, die bei ihm gemäss Absatz 1 vorhanden sind, nachdem es nach Abwägung der entsprechenden legitimen Interessen der Hersteller und der Käufer zu dem Schluss kommt, dass eine solche Übermittlung von Informationen gerechtfertigt ist. Gegebenenfalls übermittelt das BLW diese Informationen vorbehaltlich der Unterzeichnung einer Vertraulichkeitsklausel durch den Käufer.
 
@@ -1286,7 +1290,7 @@ Auf Ersuchen des BLW sind alle Futtermittelunternehmen, welche Futtermittel prod
 
 Die Futtermittelverordnung vom 26. Mai 1999[^77-1] wird aufgehoben.
 
-[^77-1]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349)]
+[^77-1]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349)]
 
 #### Art. 78
 
