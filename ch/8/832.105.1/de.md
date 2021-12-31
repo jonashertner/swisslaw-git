@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 20. März 2008 über die technischen und grafische
 short: VVK-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/228"
 language: de
-version: 2008-04-01
+version: 2022-01-01
 adopted: 2008-03-20
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20080401/de/xml/fedlex-data-admin-ch-eli-cc-2008-228-20080401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/228/20080401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-228-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/228/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/228/20080401/de"
 
 (VVK-EDI)
 
-vom 20. März 2008 (Stand am 1. April 2008)
+vom 20. März 2008 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement des Innern,
 
@@ -73,11 +73,13 @@ Der Standard eCH-0064 «Spezifikationen für das System Versichertenkarte» vom 
 
 Diese Verordnung tritt am 1. April 2008 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 1)
 
 ## Spezifikation der Daten für die Rechnungstellung
+
+[^t-1]: Bereinigt gemäss Anhang Ziff. II 38 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1 Allgemeines
 
@@ -131,7 +133,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064 «Spezifikationen f�
 </table>
 
 <table>
-<tr><td>2.1.3</td><td colspan="2">Versichertennummer der AHV (83, cardholderIdentifier)</td></tr>
+<tr><td>2.1.3</td><td colspan="2">AHV-Nummer (83, cardholderIdentifier)</td></tr>
 <tr><td></td><td>Ergänzung zu ISO 21549-5:2006:</td><td>Die Länge des Elements beträgt 13 Zeichen und enthält keine Trennzeichen.</td></tr>
 <tr><td></td><td>Abweichung von ISO 21549-5:2006:</td><td>Das Element ist obligatorisch.</td></tr>
 </table>
@@ -197,7 +199,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 </table>
 
 <table>
-<tr><td>ID</td><td>Offizielle Sprachregion</td></tr>
+<tr><th>ID</th><th>Offizielle Sprachregion</th></tr>
 <tr><td>de</td><td>Deutsch</td></tr>
 <tr><td>fr</td><td>Französisch</td></tr>
 <tr><td>it</td><td>Italienisch</td></tr>
@@ -215,7 +217,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 </table>
 
 <table>
-<tr><td>ID</td><td>Versicherungsform</td></tr>
+<tr><th>ID</th><th>Versicherungsform</th></tr>
 <tr><td>01</td><td>Standardmodell (ohne Einschränkung der Leistungserbringer)</td></tr>
 <tr><td>02</td><td>Hausarzt-Modell</td></tr>
 <tr><td>03</td><td>HMO-Modell</td></tr>
@@ -244,7 +246,6 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 <tr><th>AG</th><th>Aargau</th></tr>
 <tr><th>AI</th><th>Appenzell Innerrhoden</th></tr>
 <tr><th>AR</th><th>Appenzell Ausserhoden</th></tr>
-<tr><th>ID</th><th>Wohnkanton KVG-Deckung</th></tr>
 <tr><th>BE</th><th>Bern</th></tr>
 <tr><th>BL</th><th>Basel-Landschaft</th></tr>
 <tr><th>BS</th><th>Basel-Stadt</th></tr>
@@ -282,7 +283,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 </table>
 
 <table>
-<tr><td>ID</td><td>Unfalldeckung KVG</td></tr>
+<tr><th>ID</th><th>Unfalldeckung KVG</th></tr>
 <tr><td>01</td><td>Unfalldeckung</td></tr>
 <tr><td>02</td><td>Keine Unfalldeckung</td></tr>
 <tr><td>99</td><td>Unbekannt</td></tr>
@@ -362,7 +363,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 </table>
 
 <table>
-<tr><td>ID</td><td>Hors-Liste-Medikamente</td></tr>
+<tr><th>ID</th><th>Hors-Liste-Medikamente</th></tr>
 <tr><td>01</td><td>Deckung für Hors-Liste-Medikamente</td></tr>
 <tr><td>02</td><td>Eingeschränkte Deckung für Hors-Liste-Medikamente</td></tr>
 <tr><td>00</td><td>Keine Deckung für Hors-Liste-Medikamente</td></tr>
@@ -379,7 +380,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 </table>
 
 <table>
-<tr><td>ID</td><td>Unfalldeckung für Hors-Liste-Medikamente</td></tr>
+<tr><th>ID</th><th>Unfalldeckung für Hors-Liste-Medikamente</th></tr>
 <tr><td>01</td><td>Unfalldeckung für Hors-Liste-Medikamente</td></tr>
 <tr><td>00</td><td>Keine Unfalldeckung für Hors-Liste-Medikamente</td></tr>
 <tr><td>99</td><td>Unbekannt</td></tr>
@@ -395,7 +396,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 </table>
 
 <table>
-<tr><td>ID</td><td>Komplementärmedizin</td></tr>
+<tr><th>ID</th><th>Komplementärmedizin</th></tr>
 <tr><td>01</td><td>Deckung für Medikamente Komplementärmedizin</td></tr>
 <tr><td>02</td><td>Eingeschränkte Deckung für Medikamente Komplementärmedizin</td></tr>
 <tr><td>00</td><td>Keine Deckung für Medikamente Komplementärmedizin</td></tr>
@@ -412,7 +413,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 </table>
 
 <table>
-<tr><td>ID</td><td>Unfalldeckung Medikamente Komplementärmedizin</td></tr>
+<tr><th>ID</th><th>Unfalldeckung Medikamente Komplementärmedizin</th></tr>
 <tr><td>01</td><td>Unfalldeckung für Medikamente Komplementärmedizin</td></tr>
 <tr><td>00</td><td>Keine Unfalldeckung für Medikamente Komplementärmedizin</td></tr>
 <tr><td>99</td><td>Unbekannt</td></tr>
@@ -428,7 +429,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 </table>
 
 <table>
-<tr><td>ID</td><td>Spitalabteilung</td></tr>
+<tr><th>ID</th><th>Spitalabteilung</th></tr>
 <tr><td>01</td><td>Allgemeine Spitalabteilung ganze Schweiz</td></tr>
 <tr><td>02</td><td>Halbprivate Spitalabteilung</td></tr>
 <tr><td>03</td><td>Private Spitalabteilung</td></tr>
@@ -446,7 +447,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 </table>
 
 <table>
-<tr><td>ID</td><td>Spitalmodell</td></tr>
+<tr><th>ID</th><th>Spitalmodell</th></tr>
 <tr><td>01</td><td>Standard-Deckung Spitalabteilung Versicherung privat/halbprivat</td></tr>
 <tr><td>02</td><td>Hotellerie-Versicherung</td></tr>
 <tr><td>03</td><td>Arztwahl-Versicherung</td></tr>
@@ -463,7 +464,7 @@ Die Daten müssen auf der Karte in der im Standard eCH-0064:2008 definierten Dat
 </table>
 
 <table>
-<tr><td>ID</td><td>Spitalmodell</td></tr>
+<tr><th>ID</th><th>Spitalmodell</th></tr>
 <tr><td>01</td><td>Unfalldeckung für Spitalversicherung</td></tr>
 <tr><td>00</td><td>Keine Unfalldeckung für Spitalversicherung</td></tr>
 <tr><td>99</td><td>Unbekannt</td></tr>
@@ -702,7 +703,7 @@ Es sind [0–25] Einträge möglich; Rekord [1–25] der im Standard eCH-0064:20
 Tabelle der erlaubten Codes:
 
 <table>
-<tr><td>ID</td><td>Art der klinischen Reaktion für Soforttypreaktionen</td></tr>
+<tr><th>ID</th><th>Art der klinischen Reaktion für Soforttypreaktionen</th></tr>
 <tr><td>1</td><td>Angioödem</td></tr>
 <tr><td>2</td><td>Urtikaria</td></tr>
 <tr><td>3</td><td>Asthma, Bronchospasmus</td></tr>
@@ -736,7 +737,7 @@ Tabelle der erlaubten Codes:
 Tabelle der erlaubten Codes:
 
 <table>
-<tr><td>ID</td><td>Nachweismethode</td></tr>
+<tr><th>ID</th><th>Nachweismethode</th></tr>
 <tr><td>1</td><td>Anamnese</td></tr>
 <tr><td>2</td><td>Klinische Manifestation</td></tr>
 <tr><td>3</td><td>Hauttest (Prick, intradermal)</td></tr>
@@ -784,7 +785,7 @@ Tabelle der erlaubten Codes:
 Tabelle der erlaubten Codes:
 
 <table>
-<tr><td>ID</td><td>Sicherheit des Ersatzmedikaments</td></tr>
+<tr><th>ID</th><th>Sicherheit des Ersatzmedikaments</th></tr>
 <tr><td>1</td><td>provoziert</td></tr>
 <tr><td>2</td><td>getestet</td></tr>
 <tr><td>3</td><td>empfohlen</td></tr>
@@ -815,7 +816,7 @@ Tabelle der erlaubten Codes:
 Tabelle der erlaubten Codes:
 
 <table>
-<tr><td>ID</td><td>Notfallmedikament</td></tr>
+<tr><th>ID</th><th>Notfallmedikament</th></tr>
 <tr><td>1</td><td>Antihistaminikum und Kortikostereoid-Tabletten</td></tr>
 <tr><td>2</td><td>Adrenalin injizierbar</td></tr>
 <tr><td>3</td><td>Inhalationsmedikament</td></tr>
@@ -891,7 +892,7 @@ Es sind [0–25] Einträge möglich; Rekord [26–50] der im Standard eCH-0064:2
 Tabelle der erlaubten Codes:
 
 <table>
-<tr><td>ID</td><td>Art der klinischen Reaktion für Spättypreaktionen</td></tr>
+<tr><th>ID</th><th>Art der klinischen Reaktion für Spättypreaktionen</th></tr>
 <tr><td>1</td><td>Ekzem</td></tr>
 <tr><td>2</td><td>Lokalreaktion</td></tr>
 <tr><td>3</td><td>Blasenbildung, Vaskulitis</td></tr>
@@ -917,32 +918,31 @@ Tabelle der erlaubten Codes:
 
 <table>
 <tr><th>ID</th><th>Medikation</th></tr>
-<tr><th>01</th><th>Antiepileptikum</th></tr>
-<tr><th>02</th><th>Antidepressivum</th></tr>
-<tr><th>03</th><th>Neuroleptikum</th></tr>
-<tr><th>04</th><th>Antidemenzia</th></tr>
-<tr><th>05</th><th>Opiate</th></tr>
-<tr><th>06</th><th>NSAR</th></tr>
-<tr><th>07</th><th>Tranquilizer</th></tr>
-<tr><th>08</th><th>Beta-Blocker</th></tr>
-<tr><th>09</th><th>ACE-Hemmer</th></tr>
-<tr><th>ID</th><th>Medikation</th></tr>
-<tr><th>10</th><th>Diuretika</th></tr>
-<tr><th>11</th><th>Calcium-Antagonist</th></tr>
-<tr><th>12</th><th>Nitropräparat</th></tr>
-<tr><th>13</th><th>Antiarrhythmikum</th></tr>
-<tr><th>14</th><th>Digitalis</th></tr>
-<tr><th>15</th><th>Aldosteron-Antagonist</th></tr>
-<tr><th>16</th><th>Beta-Mimetikum/Antiasthmatika</th></tr>
-<tr><th>17</th><th>Immunsuppressivum</th></tr>
-<tr><th>18</th><th>Thrombozytenaggregationshemmer</th></tr>
-<tr><th>19</th><th>Antikoagulanzien, z. B. Marcumar oder Heparin</th></tr>
-<tr><th>20</th><th>Antihistamine</th></tr>
-<tr><th>21</th><th>Faktor VIII/IX</th></tr>
-<tr><th>22</th><th>Desmopressin, z. B. Minirin</th></tr>
-<tr><th>23</th><th>Antidiabetika, Insulin</th></tr>
-<tr><th>24</th><th>Kortison/Kortikosteroide</th></tr>
-<tr><th>25</th><th>Weitere Medikamente</th></tr>
+<tr><td>01</td><td>Antiepileptikum</td></tr>
+<tr><td>02</td><td>Antidepressivum</td></tr>
+<tr><td>03</td><td>Neuroleptikum</td></tr>
+<tr><td>04</td><td>Antidemenzia</td></tr>
+<tr><td>05</td><td>Opiate</td></tr>
+<tr><td>06</td><td>NSAR</td></tr>
+<tr><td>07</td><td>Tranquilizer</td></tr>
+<tr><td>08</td><td>Beta-Blocker</td></tr>
+<tr><td>09</td><td>ACE-Hemmer</td></tr>
+<tr><td>10</td><td>Diuretika</td></tr>
+<tr><td>11</td><td>Calcium-Antagonist</td></tr>
+<tr><td>12</td><td>Nitropräparat</td></tr>
+<tr><td>13</td><td>Antiarrhythmikum</td></tr>
+<tr><td>14</td><td>Digitalis</td></tr>
+<tr><td>15</td><td>Aldosteron-Antagonist</td></tr>
+<tr><td>16</td><td>Beta-Mimetikum/Antiasthmatika</td></tr>
+<tr><td>17</td><td>Immunsuppressivum</td></tr>
+<tr><td>18</td><td>Thrombozytenaggregationshemmer</td></tr>
+<tr><td>19</td><td>Antikoagulanzien, z. B. Marcumar oder Heparin</td></tr>
+<tr><td>20</td><td>Antihistamine</td></tr>
+<tr><td>21</td><td>Faktor VIII/IX</td></tr>
+<tr><td>22</td><td>Desmopressin, z. B. Minirin</td></tr>
+<tr><td>23</td><td>Antidiabetika, Insulin</td></tr>
+<tr><td>24</td><td>Kortison/Kortikosteroide</td></tr>
+<tr><td>25</td><td>Weitere Medikamente</td></tr>
 </table>
 
 <table>
@@ -1093,7 +1093,7 @@ Die Angaben zu Blutgruppe und Transfusionen bestehen aus folgenden Elementen:
 Tabelle der erlaubten Codes:
 
 <table>
-<tr><td>ID</td><td>Blutgruppe</td></tr>
+<tr><th>ID</th><th>Blutgruppe</th></tr>
 <tr><td>0</td><td>O</td></tr>
 <tr><td>1</td><td>A</td></tr>
 <tr><td>2</td><td>B</td></tr>
@@ -1108,7 +1108,7 @@ Tabelle der erlaubten Codes:
 Tabelle der erlaubten Codes:
 
 <table>
-<tr><td>ID</td><td>Rhesus-Faktor</td></tr>
+<tr><th>ID</th><th>Rhesus-Faktor</th></tr>
 <tr><td>0</td><td>+ve Vorzeichen positiv</td></tr>
 <tr><td>1</td><td>–ve Vorzeichen negativ</td></tr>
 </table>
@@ -1150,7 +1150,7 @@ Tabelle der erlaubten Codes:
 Tabelle der erlaubten Codes:
 
 <table>
-<tr><td>ID</td><td>Indikator Transfusion</td></tr>
+<tr><th>ID</th><th>Indikator Transfusion</th></tr>
 <tr><td>0</td><td>Nie</td></tr>
 <tr><td>1</td><td>Einmal</td></tr>
 <tr><td>2</td><td>Mehr als einmal</td></tr>
@@ -1270,7 +1270,7 @@ Die Angaben zu den Kontaktadressen für den Notfall bestehen aus folgenden Eleme
 Tabelle der erlaubten Codes:
 
 <table>
-<tr><td>ID</td><td>Art der Kontaktadresse</td></tr>
+<tr><th>ID</th><th>Art der Kontaktadresse</th></tr>
 <tr><td>1</td><td>Kontaktadresse im privaten Umfeld</td></tr>
 <tr><td>2</td><td>Kontaktadresse im medizinischen Umfeld</td></tr>
 </table>
@@ -1297,7 +1297,7 @@ Die Angaben zu Patientenverfügungen bestehen aus folgenden Elementen:
 Tabelle der erlaubten Codes:
 
 <table>
-<tr><td>ID</td><td>Art des Verwahrers</td></tr>
+<tr><th>ID</th><th>Art des Verwahrers</th></tr>
 <tr><td>1</td><td>Kontaktadresse im privaten Umfeld</td></tr>
 <tr><td>2</td><td>Kontaktadresse im medizinischen Umfeld</td></tr>
 </table>
@@ -1376,11 +1376,13 @@ Vom Online-Service müssen die zum Zeitpunkt der Abfrage aktuellen Informationen
 <tr><td colspan="2">Falls die Versichertenkarte gültig ist, können die Daten nach Artikel 4 Absatz 2 VVK wie in Anhang 1 spezifiziert bekannt gegeben werden.</td></tr>
 </table>
 
-Anhang 4
+Anhang 4[^t-2]
 
 (Art. 4)
 
 ## Grafische Anforderungen an die Versichertenkarte
+
+[^t-2]: Bereinigt gemäss Anhang Ziff. II 38 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1 Allgemeines
 
@@ -1428,14 +1430,14 @@ Abbildung 1
 
 Darstellung der grafischen Elemente
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20080401/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20220101/de/xml/image/image1.png)
 
 Tabelle 1
 
 Schriftart und Positionierung der grafischen Elemente
 
 <table>
-<tr><td>Element-Nummer</td><td>Bezeichnung</td><td>Schriftart Grösse</td><td>x-Koordinate (mm)</td><td>y-Koordinate (mm)</td><td>Ausrichtung</td></tr>
+<tr><th>Element-Nummer</th><th>Bezeichnung</th><th>Schriftart Grösse</th><th>x-Koordinate (mm)</th><th>y-Koordinate (mm)</th><th>Ausrichtung</th></tr>
 <tr><td></td><td>Kartentitel</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>03 03’’ 03’’’ 03’’’’</td><td>de fr it rm</td><td>Verdana 6 Pt. Fett Verdana 6 Pt. Fett Verdana 6 Pt. Fett Verdana 6 Pt. Fett</td><td>19.0 19.0 19.0 19.0</td><td>50.0 48.0 46.0 44.0</td><td>Links Links Links Links</td></tr>
 <tr><td>06</td><td>Name, Vorname</td><td>Verdana 8 Pt. Fett</td><td>3.0</td><td>16.4</td><td>Links</td></tr>
@@ -1466,12 +1468,12 @@ Spezifikationen der grafischen Elemente und Daten nach Artikel 3 VVK
 <tr><td>06</td><td>Name, Vorname</td><td>Name (Teil 1) und Vorname (Rufname) (Teil 2); Teil 2 evtl. abgekürzt. Zwischen den Teilen 1 und 2 sind ein Komma und ein Leerschlag zu setzen; Gross- und Kleinschreibung Bsp: **Muster, Erich**</td><td>Char</td><td>50 (inkl. Komma und Leerschlag zwischen Teil 1 und 2)</td><td>p</td></tr>
 <tr><td>07</td><td>Titel Name, Vorname</td><td>**Name, Vorname/Nom, prénom/Cognome, nome/Num, prenum**</td><td>Char</td><td>48</td><td>p</td></tr>
 <tr><td>08</td><td>Kennnummer der Versichertenkarte (Karten-Nummer)</td><td>Individuelle fortlaufende Nummer, mit der der Versicherer jede Karte versieht, um die einzelnen Karten zu identifizieren. Die ersten 10 Zeichen bezeichnen den Versicherer gemäss der Europäischen Norm 1867 «Maschinenlesbare Karten – Anwendungen im Gesundheitswesen – Benummerungssystem und Registrierungsverfahren für Kartenausgeberschlüssel» in der Fassung des Jahres 1997 (EN 1867:1997). Die letzten 10 Stellen ergeben die einmalige Seriennummer. Falls auf der Rückseite der Versichertenkarte (VK) die Daten der europäischen Krankenversicherungskarte (EU-KVK) aufgedruckt sind, muss die Kennnummer der VK identisch sein mit der Kennnummer der EU-KVK.</td><td>Char</td><td>20</td><td>p</td></tr>
-<tr><td>09</td><td>Titel Karten-Nummer</td><td>**Karten-Nr./No carte/N. ca****r****ta/Nr. da la carta**</td><td>Char</td><td>35</td><td>p</td></tr>
+<tr><td>09</td><td>Titel Karten-Nummer</td><td>Karten-Nr./No carte/N. carta/Nr. da la carta</td><td>Char</td><td>35</td><td>p</td></tr>
 <tr><td>10</td><td>Geburtsdatum Geschlecht</td><td>Geburtsdatum Bsp: **13.12.1996** Geschlecht **M** = männlich **F** = weiblich</td><td>Datum Char</td><td>10 TT.MM.JJJJ 1 **M** **F**</td><td>p</td></tr>
-<tr><td>11</td><td>Titel Geburtsdatum, Geschlecht</td><td>**Geburtsdatum, Geschlecht/Date de naissa****n****ce, sexe** **Data die nascita, sesso/Data da naschientscha, schlatta****i****na**</td><td>Char</td><td>48 58</td><td>p</td></tr>
+<tr><td>11</td><td>Titel Geburtsdatum, Geschlecht</td><td>**Geburtsdatum, Geschlecht/Date de naissance, sexe** Data die nascita, sesso/Data da naschientscha, schlattaina</td><td>Char</td><td>48 58</td><td>p</td></tr>
 <tr><td>12</td><td>BAG-Nummer</td><td>BAG-Nummer des Versicherers: Bsp: **12345**</td><td>Char</td><td>5</td><td>p</td></tr>
 <tr><td>13</td><td>Titel BAG-Nummer</td><td>**BAG-Nr./No OFSP** N. UFSP/Nr. UFSP</td><td>Char</td><td>14 15</td><td>p</td></tr>
-<tr><td>14</td><td>AHV-Nummer</td><td>Neue 13-stellige Versichertennummer der AHV mit Trennpunkten nach der 3., 7. und 11. Stelle: Bsp: **756.3047.5009.62**</td><td>Char</td><td>16 inkl. 3 Punkte</td><td>p</td></tr>
+<tr><td>14</td><td>AHV-Nummer</td><td>Neue 13-stellige AHV-Nummer mit Trennpunkten nach der 3., 7. und 11. Stelle: Bsp: **756.3047.5009.62**</td><td>Char</td><td>16 inkl. 3 Punkte</td><td>p</td></tr>
 <tr><td>15</td><td>Titel AHV-Nummer</td><td>**AHV-Nr./No AVS/N. AVS/Nr. AVS**</td><td>Char</td><td>28</td><td>p</td></tr>
 <tr><td>16</td><td>Ablaufdatum</td><td>Werden die Daten der EU-KVK auf der Rückseite der schweizerischen Versichertenkarte aufgedruckt, so muss das Ablaufdatum der beiden Karten identisch sein.</td><td>Datum</td><td>10 TT.MM.JJJJ</td><td>p</td></tr>
 <tr><td>17</td><td>Titel Ablaufdatum</td><td>**Ablaufdatum/Date d’expiration** **Data di scadenza/Data da scadenza**</td><td>Char</td><td>28 35</td><td>p</td></tr>

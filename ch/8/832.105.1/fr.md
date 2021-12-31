@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 20 mars 2008 concernant les exigences techniques et
 short: OCA-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/228"
 language: fr
-version: 2008-04-01
+version: 2022-01-01
 adopted: 2008-03-20
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20080401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-228-20080401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/228/20080401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-228-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/228/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/228/20080401/fr"
 
 (OCA-DFI)
 
-du 20 mars 2008 (Etat le 1<sup>er</sup> avril 2008)
+du 20 mars 2008 (État le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral de l’intérieur,
 
@@ -73,11 +73,13 @@ La norme eCH-0064 «Spécifications du système Carte d’assuré» du 4 févrie
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2008.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 1)
 
 ## Spécification des données relatives à la facturation
+
+[^t-1]: Mise à jour par l’annexe ch. II 38 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1 Généralités
 
@@ -131,7 +133,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.ID déf
 </table>
 
 <table>
-<tr><td>2.1.3</td><td colspan="2">N<sup>o</sup> d’assuré AVS (83, cardholderIdentifier)</td></tr>
+<tr><td>2.1.3</td><td colspan="2">N<sup>o</sup> AVS (83, cardholderIdentifier)</td></tr>
 <tr><td></td><td>Complément à la norme ISO 21549-5:2006:</td><td>la longueur de cet élément est de 13 caractères et ne comprend pas d’éléments de séparation.</td></tr>
 <tr><td></td><td>Différence par rapport à la norme ISO 21549-5:2006:</td><td>cet élément est obligatoire.</td></tr>
 </table>
@@ -197,7 +199,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.AD déf
 </table>
 
 <table>
-<tr><td>ID</td><td>Langue régionale officielle</td></tr>
+<tr><th>ID</th><th>Langue régionale officielle</th></tr>
 <tr><td>de</td><td>allemand</td></tr>
 <tr><td>fr</td><td>français</td></tr>
 <tr><td>it</td><td>italien</td></tr>
@@ -215,7 +217,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.AD déf
 </table>
 
 <table>
-<tr><td>ID</td><td>Forme d’assurance</td></tr>
+<tr><th>ID</th><th>Forme d’assurance</th></tr>
 <tr><td>01</td><td>Modèle standard (sans restriction du choix des fournisseurs de prestations)</td></tr>
 <tr><td>02</td><td>modèle du médecin de famille</td></tr>
 <tr><td>03</td><td>modèle HMO</td></tr>
@@ -281,7 +283,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.AD déf
 </table>
 
 <table>
-<tr><td>ID</td><td>Couverture accident AOS</td></tr>
+<tr><th>ID</th><th>Couverture accident AOS</th></tr>
 <tr><td>01</td><td>couverture accident</td></tr>
 <tr><td>02</td><td>pas de couverture accident</td></tr>
 <tr><td>99</td><td>inconnu</td></tr>
@@ -358,7 +360,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.AD déf
 </table>
 
 <table>
-<tr><td>ID</td><td>Médicaments hors-liste</td></tr>
+<tr><th>ID</th><th>Médicaments hors-liste</th></tr>
 <tr><td>01</td><td>couverture des médicaments hors-liste</td></tr>
 <tr><td>02</td><td>couverture limitée des médicaments hors-liste</td></tr>
 <tr><td>00</td><td>pas de couverture des médicaments hors-liste</td></tr>
@@ -375,7 +377,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.AD déf
 </table>
 
 <table>
-<tr><td>ID</td><td>Médicaments hors-liste en cas d’accident</td></tr>
+<tr><th>ID</th><th>Médicaments hors-liste en cas d’accident</th></tr>
 <tr><td>01</td><td>couverture des médicaments hors-liste en cas d’accident</td></tr>
 <tr><td>00</td><td>pas de couverture des médicaments hors-liste en cas d’accident</td></tr>
 <tr><td>99</td><td>inconnu</td></tr>
@@ -391,7 +393,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.AD déf
 </table>
 
 <table>
-<tr><td>ID</td><td>Médicaments de médecine complémentaire</td></tr>
+<tr><th>ID</th><th>Médicaments de médecine complémentaire</th></tr>
 <tr><td>01</td><td>couverture des médicaments de médecine complémentaire</td></tr>
 <tr><td>02</td><td>couverture limitée des médicaments de médecine complémentaire</td></tr>
 <tr><td>00</td><td>pas de couverture des médicaments de médecine complémentaire</td></tr>
@@ -408,7 +410,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.AD déf
 </table>
 
 <table>
-<tr><td>ID</td><td>Médicaments de médecine complémentaire en cas d’accident</td></tr>
+<tr><th>ID</th><th>Médicaments de médecine complémentaire en cas d’accident</th></tr>
 <tr><td>01</td><td>couverture des médicaments de médecine complémentaire en cas d’accident</td></tr>
 <tr><td>00</td><td>pas de couverture des médicaments de médecine complémentaire en cas d’accident</td></tr>
 <tr><td>99</td><td>inconnu</td></tr>
@@ -424,7 +426,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.AD déf
 </table>
 
 <table>
-<tr><td>ID</td><td>Division hospitalière</td></tr>
+<tr><th>ID</th><th>Division hospitalière</th></tr>
 <tr><td>01</td><td>division commune dans toute la Suisse</td></tr>
 <tr><td>02</td><td>division semi-privée</td></tr>
 <tr><td>03</td><td>division privée</td></tr>
@@ -442,7 +444,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.AD déf
 </table>
 
 <table>
-<tr><td>ID</td><td>Couverture hospitalière</td></tr>
+<tr><th>ID</th><th>Couverture hospitalière</th></tr>
 <tr><td>01</td><td>couverture standard en division privée ousemi-privée</td></tr>
 <tr><td>02</td><td>assurance pour supplément hôtelier</td></tr>
 <tr><td>03</td><td>assurance pour le libre choix du médecin</td></tr>
@@ -459,7 +461,7 @@ Les données doivent être enregistrées sur la carte dans le fichier EF.AD déf
 </table>
 
 <table>
-<tr><td>ID</td><td>Frais d’hôpital en cas d’accident</td></tr>
+<tr><th>ID</th><th>Frais d’hôpital en cas d’accident</th></tr>
 <tr><td>01</td><td>couverture des frais d’hôpital en cas d’accident</td></tr>
 <tr><td>00</td><td>pas de couverture des frais d’hôpital en cas d’accident</td></tr>
 <tr><td>99</td><td>inconnu</td></tr>
@@ -698,7 +700,7 @@ Il est possible d’enregistrer [0–25] données; cf. enregistrements [1–25] 
 Codes à utiliser:
 
 <table>
-<tr><td>ID</td><td>Genre de la réaction clinique pour les réactions de type instantané</td></tr>
+<tr><th>ID</th><th>Genre de la réaction clinique pour les réactions de type instantané</th></tr>
 <tr><td>1</td><td>Angio-oedème</td></tr>
 <tr><td>2</td><td>Urticaire</td></tr>
 <tr><td>3</td><td>Asthme, bronchospasme</td></tr>
@@ -732,7 +734,7 @@ Codes à utiliser:
 Codes à utiliser:
 
 <table>
-<tr><td>ID</td><td>Méthode de la preuve</td></tr>
+<tr><th>ID</th><th>Méthode de la preuve</th></tr>
 <tr><td>1</td><td>Anamnèse</td></tr>
 <tr><td>2</td><td>Manifestation clinique</td></tr>
 <tr><td>3</td><td>Test cutané (Prick, intradermal)</td></tr>
@@ -780,7 +782,7 @@ Codes à utiliser:
 Codes à utiliser:
 
 <table>
-<tr><td>ID</td><td>Sécurité du médicament de remplacement</td></tr>
+<tr><th>ID</th><th>Sécurité du médicament de remplacement</th></tr>
 <tr><td>1</td><td>provoqué</td></tr>
 <tr><td>2</td><td>testé</td></tr>
 <tr><td>3</td><td>conseillé</td></tr>
@@ -811,7 +813,7 @@ Codes à utiliser:
 Codes à utiliser:
 
 <table>
-<tr><td>ID</td><td>Médicament d’urgence</td></tr>
+<tr><th>ID</th><th>Médicament d’urgence</th></tr>
 <tr><td>1</td><td>Anti-histaminique et tablettes corticostéroïdes</td></tr>
 <tr><td>2</td><td>Adrénaline à injecter</td></tr>
 <tr><td>3</td><td>Médicament à inhaler</td></tr>
@@ -887,7 +889,7 @@ Il est possible d’enregistrer [0–25] données; cf. enregistrements [26–50]
 Codes à utiliser:
 
 <table>
-<tr><td>ID</td><td>Genre de la réaction clinique pour les réactions de type tardif</td></tr>
+<tr><th>ID</th><th>Genre de la réaction clinique pour les réactions de type tardif</th></tr>
 <tr><td>1</td><td>Eczéma</td></tr>
 <tr><td>2</td><td>Réaction locale</td></tr>
 <tr><td>3</td><td>Formation d’ampoules, vascularites</td></tr>
@@ -1088,7 +1090,7 @@ Les données relatives au groupe sanguin et aux transfusions se composent des é
 Codes à utiliser:
 
 <table>
-<tr><td>ID</td><td>Groupe sanguin</td></tr>
+<tr><th>ID</th><th>Groupe sanguin</th></tr>
 <tr><td>0</td><td>O</td></tr>
 <tr><td>1</td><td>A</td></tr>
 <tr><td>2</td><td>B</td></tr>
@@ -1103,7 +1105,7 @@ Codes à utiliser:
 Codes à utiliser:
 
 <table>
-<tr><td>ID</td><td>Facteur rhésus</td></tr>
+<tr><th>ID</th><th>Facteur rhésus</th></tr>
 <tr><td>0</td><td>Rh+ signe positif</td></tr>
 <tr><td>1</td><td>Rh– signe négatif</td></tr>
 </table>
@@ -1145,7 +1147,7 @@ Codes à utiliser:
 Codes à utiliser:
 
 <table>
-<tr><td>ID</td><td>Nombre de transfusions sanguines</td></tr>
+<tr><th>ID</th><th>Nombre de transfusions sanguines</th></tr>
 <tr><td>0</td><td>Jamais</td></tr>
 <tr><td>1</td><td>Une fois</td></tr>
 <tr><td>2</td><td>Plus d’une fois</td></tr>
@@ -1265,7 +1267,7 @@ Les données relatives aux personnes à prévenir en cas d’urgence se composen
 Codes à utiliser:
 
 <table>
-<tr><td>ID</td><td>Type de contact</td></tr>
+<tr><th>ID</th><th>Type de contact</th></tr>
 <tr><td>1</td><td>contact privé</td></tr>
 <tr><td>2</td><td>contact médical</td></tr>
 </table>
@@ -1292,7 +1294,7 @@ Les données relatives aux directives anticipées ou aux certificats de donneur 
 Codes à utiliser:
 
 <table>
-<tr><td>ID</td><td>Type de dépositaire</td></tr>
+<tr><th>ID</th><th>Type de dépositaire</th></tr>
 <tr><td>1</td><td>contact privé</td></tr>
 <tr><td>2</td><td>contact médical</td></tr>
 </table>
@@ -1374,11 +1376,13 @@ Lors de la réponse, le service en ligne affiche les informations actuelles au m
 <tr><td colspan="2">Si la carte d’assuré est valide, les données spécifiées à l’art. 4, al. 2, OCA peuvent être mises à disposition.</td></tr>
 </table>
 
-Annexe 4
+Annexe 4[^t-2]
 
 (art. 4)
 
 ## Exigences graphiques relatives à la carte d’assuré
+
+[^t-2]: Mise à jour par l’annexe ch. II 38 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1 Généralités
 
@@ -1426,7 +1430,7 @@ Illustration 1
 
 Agencement des éléments graphiques
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20080401/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20220101/fr/xml/image/image1.png)
 
 Tableau 1
 
@@ -1441,22 +1445,20 @@ Police et emplacement des éléments graphiques
 <tr><td>03’’’’</td><td>rm</td><td>Verdana 6, gras</td><td>19.0</td><td>44.0</td><td>à gauche</td></tr>
 <tr><td>06</td><td>Nom, Prénom</td><td>Verdana 8 Pt. Fett</td><td>3.0</td><td>16.4</td><td>à gauche</td></tr>
 <tr><td>07</td><td>Titre: Nom, Prénom</td><td>Verdana 4, normal</td><td>3.0</td><td>14.8</td><td>à gauche</td></tr>
-<tr><td>08</td><td>No d’identification de la carte d’assuré (CA)</td><td>Verdana 8, normal</td><td>3.0</td><td>11.0</td><td>à gauche</td></tr>
+<tr><td>08</td><td>N<sup>o</sup> d’identification de la carte d’assuré (CA)</td><td>Verdana 8, normal</td><td>3.0</td><td>11.0</td><td>à gauche</td></tr>
 <tr><td>09</td><td>No d’identification de la CA</td><td>Verdana 4, normal</td><td>3.0</td><td>9.4</td><td>à gauche</td></tr>
 <tr><td>10</td><td>Date de naissance Sexe</td><td>Verdana 8, normal</td><td>3.0</td><td>5.6</td><td>à gauche</td></tr>
 <tr><td>11</td><td>Titre: Date de naissance, sexe (1<sup>re</sup> ligne)</td><td>Verdana 4, normal</td><td>3.0</td><td>4.0</td><td>à gauche</td></tr>
 <tr><td>11’’</td><td>Titre: Date de naissance, sexe (2<sup>e</sup> ligne)</td><td>Verdana 4, normal</td><td>3.0</td><td>2.4</td><td>à gauche</td></tr>
-<tr><td>12</td><td>No OFSP</td><td>Verdana 8, normal</td><td>44.5</td><td>11.0</td><td>à gauche</td></tr>
+<tr><td>12</td><td>N<sup>o</sup> OFSP</td><td>Verdana 8, normal</td><td>44.5</td><td>11.0</td><td>à gauche</td></tr>
 <tr><td>13</td><td>Titre: N<sup>o</sup> OFSP (1<sup>re</sup> ligne)</td><td>Verdana 4, normal</td><td>44.5</td><td>9.4</td><td>à gauche</td></tr>
-<tr><td>13’’</td><td>Titre: N<sup>o</sup>OFSP (2<sup>e</sup> ligne)</td><td>Verdana 4, normal</td><td>44.5</td><td>7.8</td><td>à gauche</td></tr>
+<tr><td>13’’</td><td>Titre: N<sup>o</sup> OFSP (2<sup>e</sup> ligne)</td><td>Verdana 4, normal</td><td>44.5</td><td>7.8</td><td>à gauche</td></tr>
 <tr><td>14</td><td>No AVS</td><td>Verdana 8, normal</td><td>82.6</td><td>11.0</td><td>à droite</td></tr>
 <tr><td>15</td><td>Titre: No AVS</td><td>Verdana 4, normal</td><td>82.6</td><td>9.4</td><td>à droite</td></tr>
 <tr><td>16</td><td>Date d’expiration</td><td>Verdana 8, normal</td><td>82.6</td><td>5.6</td><td>à droite</td></tr>
 <tr><td>17</td><td>Titre: Date d’expiration (1<sup>re</sup> ligne)</td><td>Verdana 4, normal</td><td>82.6</td><td>4.0</td><td>à droite</td></tr>
 <tr><td>17’’</td><td>Titre: Date d’expiration (2<sup>e</sup> ligne)</td><td>Verdana 4, normal</td><td>82.6</td><td>2.4</td><td>à droite</td></tr>
 </table>
-
-Tableau 2
 
 Spécifications des éléments graphiques et des données au sens de l’art. 3 OCA
 
@@ -1482,7 +1484,7 @@ Spécifications des éléments graphiques et des données au sens de l’art. 3 
 <tr><td>12</td><td>N<sup>o</sup> OFSP</td><td>N<sup>o</sup> OFSP de l’assureur: ex. **12345**</td><td>Char</td><td>5</td><td>pers</td></tr>
 <tr><td>13</td><td>Titre: N<sup>o</sup> OFSP</td><td>BAG-Nr./N<sup>o</sup> OFSP</td><td>Char</td><td>14</td><td>pers</td></tr>
 <tr><td></td><td></td><td>N. UFSP/Nr. UFSP</td><td></td><td>15</td><td></td></tr>
-<tr><td>14</td><td>N<sup>o</sup> AVS de l’assuré</td><td>Nouveau n<sup>o</sup> d’assuré AVS à 13 chiffres avec points de séparation après les 3<sup>e</sup>, 7<sup>e</sup> et 11<sup>e</sup> chiffres: ex: **756.3047.5009.62**</td><td>Char</td><td>16 y compris 3 points</td><td>pers</td></tr>
+<tr><td>14</td><td>N<sup>o</sup> AVS de l’assuré</td><td>Nouveau n<sup>o</sup> AVS à 13 chiffres avec points de séparation après les 3<sup>e</sup>, 7<sup>e</sup> et 11<sup>e</sup> chiffres: ex: **756.3047.5009.62**</td><td>Char</td><td>16 y compris 3 points</td><td>pers</td></tr>
 <tr><td>15</td><td>Titre: N<sup>o</sup> AVS</td><td>AHV-Nr./N<sup>o</sup> AVS/N. AVS/Nr. AVS</td><td>Char</td><td>28</td><td>pers</td></tr>
 <tr><td>16</td><td>Date d’expiration de la carte</td><td>Si les données de la CEAM sont imprimées au dos de la CA, la date d’expiration de la CA doit être identique à celle de la CEAM.</td><td>Date</td><td>10 **TT.MM.JJJJ**</td><td>pers</td></tr>
 <tr><td>17</td><td>Titre: Date d’expiration</td><td>Ablaufdatum/Date d’expiration</td><td>Char</td><td>28</td><td>pers</td></tr>

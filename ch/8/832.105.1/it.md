@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 20 marzo 2008 concernente i requisiti tecnici e gr
 short: OTeA-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/228"
 language: it
-version: 2008-04-01
+version: 2022-01-01
 adopted: 2008-03-20
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20080401/it/xml/fedlex-data-admin-ch-eli-cc-2008-228-20080401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/228/20080401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-228-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/228/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/228/20080401/it"
 
 (OTeA-DFI)
 
-del 20 marzo 2008 (Stato 1° aprile 2008)
+del 20 marzo 2008 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale dell’interno,
 
@@ -73,11 +73,13 @@ Si applica lo standard eCH-0064 del 4 febbraio 2008[^5-1] «Specifiche per il si
 
 La presente ordinanza entra in vigore il 1° aprile 2008.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 1)
 
 ## Specifica dei dati per la fatturazione
+
+[^t-1]: Aggiornato dall’all. n. II 38 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1 In generale
 
@@ -131,7 +133,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.ID definito nella nor
 </table>
 
 <table>
-<tr><td>2.1.3</td><td colspan="2">Numero d’assicurato AVS (83, cardholderIdentifier)</td></tr>
+<tr><td>2.1.3</td><td colspan="2">Numero AVS (83, cardholderIdentifier)</td></tr>
 <tr><td></td><td>Complemento alla norma ISO 21549-5:2006:</td><td>L’elemento comprende 13 segni e non contiene segni di separazione.</td></tr>
 <tr><td></td><td>Deroga alla norma ISO 21549-5:2006:</td><td>L’elemento è obbligatorio.</td></tr>
 </table>
@@ -185,7 +187,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.AD definito nella nor
 </table>
 
 <table>
-<tr><td>ID</td><td>Regione linguistica ufficiale</td></tr>
+<tr><th>ID</th><th>Regione linguistica ufficiale</th></tr>
 <tr><td>de</td><td>Tedesco</td></tr>
 <tr><td>fr</td><td>Francese</td></tr>
 <tr><td>it</td><td>Italiano</td></tr>
@@ -203,7 +205,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.AD definito nella nor
 </table>
 
 <table>
-<tr><td>ID</td><td>Forma di assicurazione</td></tr>
+<tr><th>ID</th><th>Forma di assicurazione</th></tr>
 <tr><td>01</td><td>Modello standard (senza limitazione dei fornitori di prestazioni)</td></tr>
 <tr><td>02</td><td>Modello del medico di famiglia</td></tr>
 <tr><td>03</td><td>Modello HMO</td></tr>
@@ -228,7 +230,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.AD definito nella nor
 </table>
 
 <table>
-<tr><td>ID</td><td>Cantone di domicilio copertura LAMal</td></tr>
+<tr><th>ID</th><th>Cantone di domicilio copertura LAMal</th></tr>
 <tr><td>AG</td><td>Argovia</td></tr>
 <tr><td>AI</td><td>Appenzello Interno</td></tr>
 <tr><td>AR</td><td>Appenzello Esterno</td></tr>
@@ -269,7 +271,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.AD definito nella nor
 </table>
 
 <table>
-<tr><td>ID</td><td>Copertura infortuni LAMal</td></tr>
+<tr><th>ID</th><th>Copertura infortuni LAMal</th></tr>
 <tr><td>01</td><td>Copertura infortuni</td></tr>
 <tr><td>02</td><td>Nessuna copertura infortuni</td></tr>
 <tr><td>99</td><td>Sconosciuto</td></tr>
@@ -349,7 +351,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.AD definito nella nor
 </table>
 
 <table>
-<tr><td>ID</td><td>Medicamenti fuori lista</td></tr>
+<tr><th>ID</th><th>Medicamenti fuori lista</th></tr>
 <tr><td>01</td><td>Copertura per medicamenti fuori lista</td></tr>
 <tr><td>02</td><td>Copertura limitata per medicamenti fuori lista</td></tr>
 <tr><td>00</td><td>Nessuna copertura per medicamenti fuori lista</td></tr>
@@ -366,7 +368,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.AD definito nella nor
 </table>
 
 <table>
-<tr><td>ID</td><td>Copertura infortuni medicamenti fuori lista</td></tr>
+<tr><th>ID</th><th>Copertura infortuni medicamenti fuori lista</th></tr>
 <tr><td>01</td><td>Copertura infortuni per medicamenti fuori lista</td></tr>
 <tr><td>00</td><td>Nessuna copertura infortuni per medicamenti fuori lista</td></tr>
 <tr><td>99</td><td>Sconosciuto</td></tr>
@@ -382,7 +384,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.AD definito nella nor
 </table>
 
 <table>
-<tr><td>ID</td><td>Medicina complementare</td></tr>
+<tr><th>ID</th><th>Medicina complementare</th></tr>
 <tr><td>01</td><td>Copertura per medicamenti medicina complementare</td></tr>
 <tr><td>02</td><td>Copertura limitata per medicamenti medicina complementare</td></tr>
 <tr><td>00</td><td>Nessuna copertura per medicamenti medicina complementare</td></tr>
@@ -415,7 +417,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.AD definito nella nor
 </table>
 
 <table>
-<tr><td>ID</td><td>Reparto ospedaliero</td></tr>
+<tr><th>ID</th><th>Reparto ospedaliero</th></tr>
 <tr><td>01</td><td>Reparto comune in tutta la Svizzera</td></tr>
 <tr><td>02</td><td>Reparto semiprivato</td></tr>
 <tr><td>03</td><td>Reparto privato</td></tr>
@@ -433,7 +435,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.AD definito nella nor
 </table>
 
 <table>
-<tr><td>ID</td><td>Modello ospedaliero</td></tr>
+<tr><th>ID</th><th>Modello ospedaliero</th></tr>
 <tr><td>01</td><td>Copertura standard reparto privato/semiprivato</td></tr>
 <tr><td>02</td><td>Assicurazione alberghiera</td></tr>
 <tr><td>03</td><td>Assicurazione con scelta del medico</td></tr>
@@ -450,7 +452,7 @@ I dati devono essere memorizzati sulla tessera nel file EF.AD definito nella nor
 </table>
 
 <table>
-<tr><td>ID</td><td>Modello ospedaliero</td></tr>
+<tr><th>ID</th><th>Modello ospedaliero</th></tr>
 <tr><td>01</td><td>Copertura infortuni per assicurazione ospedaliera</td></tr>
 <tr><td>00</td><td>Nessuna copertura infortuni per assicurazione ospedaliera</td></tr>
 <tr><td>99</td><td>Sconosciuto</td></tr>
@@ -689,7 +691,7 @@ Sono possibili [0–25] iscrizioni; record [1–25] del file EF.ALLG definito in
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Genere di reazione clinica immediata</td></tr>
+<tr><th>ID</th><th>Genere di reazione clinica immediata</th></tr>
 <tr><td>1</td><td>Angioedema</td></tr>
 <tr><td>2</td><td>Orticaria</td></tr>
 <tr><td>3</td><td>Asma, broncospasmo</td></tr>
@@ -723,7 +725,7 @@ Tabella dei codici ammessi:
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Metodo di test</td></tr>
+<tr><th>ID</th><th>Metodo di test</th></tr>
 <tr><td>1</td><td>Anamnesi</td></tr>
 <tr><td>2</td><td>Manifestazione clinica</td></tr>
 <tr><td>3</td><td>Test cutaneo (prick, intradermico)</td></tr>
@@ -771,7 +773,7 @@ Tabella dei codici ammessi:
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Sicurezza del farmaco sostitutivo</td></tr>
+<tr><th>ID</th><th>Sicurezza del farmaco sostitutivo</th></tr>
 <tr><td>1</td><td>Provocato</td></tr>
 <tr><td>2</td><td>Testato</td></tr>
 <tr><td>3</td><td>Raccomandato</td></tr>
@@ -802,7 +804,7 @@ Tabella dei codici ammessi:
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Farmaco d’emergenza</td></tr>
+<tr><th>ID</th><th>Farmaco d’emergenza</th></tr>
 <tr><td>1</td><td>Antistaminico e compresse di corticosteroidi</td></tr>
 <tr><td>2</td><td>Adrenalina iniettabile</td></tr>
 <tr><td>3</td><td>Farmaco inalatorio</td></tr>
@@ -878,7 +880,7 @@ Sono possibili [0–25] iscrizioni; record [26–50] del file EF.ALLG definito i
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Genere di reazione clinica ritardata</td></tr>
+<tr><th>ID</th><th>Genere di reazione clinica ritardata</th></tr>
 <tr><td>1</td><td>Eczema</td></tr>
 <tr><td>2</td><td>Reazione locale</td></tr>
 <tr><td>3</td><td>Formazione di vesciche, vasculite</td></tr>
@@ -903,7 +905,7 @@ Le iscrizioni comprendono indicazioni principalmente sulle medicazioni permanent
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Medicazione</td></tr>
+<tr><th>ID</th><th>Medicazione</th></tr>
 <tr><td>01</td><td>Antiepilettico</td></tr>
 <tr><td>02</td><td>Antidepressivo</td></tr>
 <tr><td>03</td><td>Neurolettico</td></tr>
@@ -1036,9 +1038,6 @@ Tabella dei codici ammessi:
 <tr><td>2.5.5</td><td colspan="3">Numero di lotto del vaccino (facoltativo)</td></tr>
 <tr><td>Tag: 59</td><td>Lunghezza: 8</td><td>Valore: vaccineLot Number</td><td>Tipo di dato: AN</td></tr>
 <tr><td colspan="4">Testo libero: numero di lotto del vaccino</td></tr>
-</table>
-
-<table>
 <tr><td>2.5.6</td><td colspan="3">Data della vaccinazione (facoltativo)</td></tr>
 <tr><td>Tag: 60</td><td>Lunghezza: 10</td><td>Valore: vaccination Date</td><td>Tipo di dato: AN</td></tr>
 <tr><td colspan="4">Data nel formato (AAAA-MM-GG)</td></tr>
@@ -1079,7 +1078,7 @@ Le indicazioni sul gruppo sanguigno e sulle trasfusioni comprendono i seguenti e
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Gruppo sanguigno</td></tr>
+<tr><th>ID</th><th>Gruppo sanguigno</th></tr>
 <tr><td>0</td><td>O</td></tr>
 <tr><td>1</td><td>A</td></tr>
 <tr><td>2</td><td>B</td></tr>
@@ -1094,7 +1093,7 @@ Tabella dei codici ammessi:
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Fattore Rhesus</td></tr>
+<tr><th>ID</th><th>Fattore Rhesus</th></tr>
 <tr><td>0</td><td>+ve segno positivo</td></tr>
 <tr><td>1</td><td>–ve segno negativo</td></tr>
 </table>
@@ -1136,7 +1135,7 @@ Tabella dei codici ammessi:
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Indicatore delle trasfusioni</td></tr>
+<tr><th>ID</th><th>Indicatore delle trasfusioni</th></tr>
 <tr><td>0</td><td>Mai</td></tr>
 <tr><td>1</td><td>Una volta</td></tr>
 <tr><td>2</td><td>Più di una volta</td></tr>
@@ -1188,9 +1187,6 @@ Le indicazioni sulla disponibilità di dossier medici o farmaceutici comprendono
 <tr><td>2.7.1.2</td><td colspan="3">Osservazione sul dossier medico o farmaceutico (facoltativo)</td></tr>
 <tr><td>Tag: 70</td><td>Lunghezza: 0–100</td><td>Valore: medical DossierFreetext</td><td>Tipo di dato: AN</td></tr>
 <tr><td colspan="4">Testo libero: osservazione sul dossier medico o farmaceutico (p. es. osservazioni sul contenuto, segnalazione di dossier elettronici)</td></tr>
-</table>
-
-<table>
 <tr><td>2.7.1.3</td><td colspan="3">Numero EAN dell’autore dell’iscrizione (obbligatorio)</td></tr>
 <tr><td>Tag: 80</td><td>Lunghezza: 13</td><td>Valore: healthCare ProviderEanNumber</td><td>Tipo di dato: AN</td></tr>
 <tr><td colspan="4">Numero d’identificazione composto da 13 cifre</td></tr>
@@ -1256,7 +1252,7 @@ Le indicazioni sugli indirizzi di contatto in caso di emergenza comprendono i se
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Genere di contatto</td></tr>
+<tr><th>ID</th><th>Genere di contatto</th></tr>
 <tr><td>1</td><td>Indirizzo di contatto in ambito privato</td></tr>
 <tr><td>2</td><td>Indirizzo di contatto in ambito medico</td></tr>
 </table>
@@ -1283,7 +1279,7 @@ Le indicazioni sulle dichiarazioni di volontà o tessere di donatore comprendono
 Tabella dei codici ammessi:
 
 <table>
-<tr><td>ID</td><td>Depositario del documento</td></tr>
+<tr><th>ID</th><th>Depositario del documento</th></tr>
 <tr><td>1</td><td>Indirizzo di contatto in ambito privato</td></tr>
 <tr><td>2</td><td>Indirizzo di contatto in ambito medico</td></tr>
 </table>
@@ -1339,9 +1335,6 @@ Il servizio online deve rendere note le informazioni attuali al momento della ri
 <tr><td>2.2</td><td>Data della ricerca (qualifyingDate)</td></tr>
 <tr><td colspan="2">Formato: date, AAAA-MM-GG, Lunghezza 10</td></tr>
 <tr><td colspan="2">La data indica quando è stata effettuata la ricerca da parte del fornitore di prestazioni.</td></tr>
-</table>
-
-<table>
 <tr><td>2.3</td><td>Numero della ricerca (queryNumber)</td></tr>
 <tr><td colspan="2">Formato: token, Lunghezza 20</td></tr>
 <tr><td colspan="2">Questo elemento contiene il numero attribuito alla ricerca allo scopo di confermarla.</td></tr>
@@ -1365,11 +1358,13 @@ Il servizio online deve rendere note le informazioni attuali al momento della ri
 <tr><td colspan="2">Se la tessera d’assicurato è valida, i dati di cui all’articolo 4 capoverso 2 OTeA possono essere resi noti così come specificati nell’allegato 1.</td></tr>
 </table>
 
-Allegato 4
+Allegato 4[^t-2]
 
 (art. 4)
 
 ## Requisiti grafici della tessera d’assicurato
+
+[^t-2]: Aggiornato dall’all. n. II 38 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1 In generale
 
@@ -1417,7 +1412,7 @@ Figura 1
 
 Rappresentazione degli elementi grafici
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20080401/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/228/20220101/it/xml/image/image1.png)
 
 Tabella 1
 
@@ -1441,8 +1436,6 @@ Tipo di carattere e posizionamento degli elementi grafici
 <tr><td>17 17’’</td><td>Didascalia della data di scadenza riga 1 Didascalia della data di scadenza riga 2</td><td>Verdana 4 pt. normale Verdana 4 pt. normale</td><td>82.6 82.6</td><td>4.0 2.4</td><td>Destra Destra</td></tr>
 </table>
 
-Tabella 2
-
 Specifiche degli elementi grafici e dei dati di cui all’articolo 3 OTeA
 
 <table>
@@ -1457,11 +1450,11 @@ Specifiche degli elementi grafici e dei dati di cui all’articolo 3 OTeA
 <tr><td>08</td><td>Numero d’identificazione della tessera d’assicurato</td><td>Numero individuale progressivo che l’assicuratore riporta su ogni carta per identificare le singole carte. Le prime dieci cifre indicano l’assicuratore conformemente alla norma europea EN 1867 «Tessere a lettura automatizzata – Applicazioni nel sistema sanitario- Sistema di numerazione e procedura di registrazione per identificatori dell’autorità» nella versione del 1997 (EN 1867:1997). Le ultime dieci cifre indicano il numero di serie unico. Se sul retro della tessera d’assicurato (TA) sono stampati i dati della tessera europea d’assicurazione malattia (TEAM), il numero d’identificazione delle due tessere deve essere identico.</td><td>Char</td><td>20</td><td>p</td></tr>
 <tr><td>09</td><td>Didascalia numero d’identificazione</td><td>Karten-Nr./N<sup>o</sup> carte/N. carta/Nr. da la carta</td><td>Char</td><td>35</td><td>p</td></tr>
 <tr><td>10</td><td>Data di nascita Sesso</td><td>Data di nascita Es.: **13.12.1996** Sesso **M** = maschile **F** = femminile</td><td>Data Char</td><td>10 **GG.MM.AAAA** 1 **M** **F**</td><td>p</td></tr>
-<tr><td>11</td><td>Didascalia data di nascita, sesso</td><td>Geburtsdatum, Geschlecht/Date de naissance, sexe **Data di nascita, sesso/Data da naschientscha, schlatta****i****na**</td><td>Char</td><td>48 58</td><td>p</td></tr>
+<tr><td>11</td><td>Didascalia data di nascita, sesso</td><td>Geburtsdatum, Geschlecht/Date de naissance, sexe Data di nascita, sesso/Data da naschientscha, schlattaina</td><td>Char</td><td>48 58</td><td>p</td></tr>
 <tr><td>12</td><td>Numero UFSP</td><td>Numero UFSP dell’assicuratore; es.: **12345**</td><td>Char</td><td>5</td><td>p</td></tr>
 <tr><td>13</td><td>Didascalia n. UFSP</td><td>BAG-Nr./N<sup>o</sup> OFSP N. UFSP/Nr. UFSP</td><td>Char</td><td>14 15</td><td>p</td></tr>
-<tr><td>14</td><td>Numero AVS</td><td>Nuovo numero d’assicurato AVS a 13 cifre con un punto di separazione dopo la 3<sup>a</sup>, la 7<sup>a</sup> e l’11<sup>a</sup> cifra: es. **756.3047.5009.62**</td><td>Char</td><td>16 incl. 3 punti</td><td>p</td></tr>
+<tr><td>14</td><td>Numero AVS</td><td>Nuovo numero AVS a 13 cifre con un punto di separazione dopo la 3<sup>a</sup>, la 7<sup>a</sup> e l’11<sup>a</sup> cifra: es. **756.3047.5009.62**</td><td>Char</td><td>16 incl. 3 punti</td><td>p</td></tr>
 <tr><td>15</td><td>Didascalia n. AVS</td><td>AHV-Nr./N<sup>o</sup> AVS/N. AVS/Nr. AVS</td><td>Char</td><td>28</td><td>p</td></tr>
-<tr><td>16</td><td>Scadenza della tessera</td><td>Se sul retro della TA sono stampati i dati della TEAM, la data di scadenza delle due tessere deve essere identica.</td><td>Dat</td><td>10 **GG.MM.AAAA**</td><td>p</td></tr>
-<tr><td>17</td><td>Didascalia della data di scadenza</td><td>Ablaufdatum/Date d’expiration **Data di scadenza/Data da scadenza**</td><td>Char</td><td>28 35</td><td>p</td></tr>
+<tr><td>16</td><td>Scadenza della tessera</td><td>Se sul retro della TA sono stampati i dati della TEAM, la data di scadenza delle due tessere deve essere identica.</td><td>Dat</td><td>10 GG.MM.AAAA</td><td>p</td></tr>
+<tr><td>17</td><td>Didascalia della data di scadenza</td><td>Ablaufdatum/Date d’expiration Data di scadenza/Data da scadenza</td><td>Char</td><td>28 35</td><td>p</td></tr>
 </table>
