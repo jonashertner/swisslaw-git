@@ -4,11 +4,11 @@ title: "Verordnung vom 23. November 2005 über die Kennzeichnung von Geflügelfl
 short: GKZ
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/823"
 language: de
-version: 2014-01-01
+version: 2022-01-01
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/823/20140101/de/xml/fedlex-data-admin-ch-eli-cc-2005-823-20140101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/823/20140101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/823/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-823-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/823/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,25 +17,28 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/823/20140101/de"
 
 (Geflügelkennzeichnungsverordnung, GKZV)
 
-vom 23. November 2005 (Stand am 1. Januar 2014)
+vom 23. November 2005 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 14 Buchstabe a, 15 und 177 Absatz 1 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1] (LwG),
+gestützt auf die Artikel 14 Absatz 1 Buchstabe a, 15 Absätze 1 und 4 sowie 177 Absatz 1 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1] (LwG),[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 690](https://fedlex.data.admin.ch/eli/oc/2021/690)).
 
 #### Art. 1
 
-**Geltungsbereich**
+**Geltungsbereich**[^1-1]
 
-<sup>1</sup> Diese Verordnung gilt für Fleisch nach Artikel 3 Absatz 1 und 2 der Verordnung des EDI vom 23. November 2005[^1-1] über Lebensmittel tierischer Herkunft von Huhn und Truthuhn.
+<sup>1</sup> Diese Verordnung gilt für frisches Fleisch von Hühnern und Truthühnern.
 
-<sup>2</sup> Die Verordnung gilt nicht für Huhn- und Truthuhnfleisch, das von Tieren stammt, die nicht zu Mastzwecken gehalten werden.
+<sup>2</sup> Als Fleisch gelten alle geniessbaren Teile eines Tiers. Als frisches Fleisch gilt Fleisch, das zur Haltbarmachung ausschliesslich gekühlt, gefroren oder schnellgefroren wurde, einschliesslich vakuumverpackten und in kontrollierter Atmosphäre umhüllten Fleisches.
 
-[^1-1]: [SR 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
+<sup>3</sup> Die Verordnung gilt nicht für das Fleisch von Hühnern und Truthühnern, die nicht zu Mastzwecken gehalten werden.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 690](https://fedlex.data.admin.ch/eli/oc/2021/690)).
 
 #### Art. 2
 
@@ -44,7 +47,7 @@ verordnet:
 <sup>1</sup> Bei der Kennzeichnung von Huhn- und Truthuhnfleisch dürfen zur Angabe der Haltungsform ausschliesslich die nachstehenden Bezeichnungen verwendet werden:
 
 <table>
-<tr><td></td><td>Deutsch</td><td>Französisch</td><td>Italienisch</td><td>Romanisch</td></tr>
+<tr><th></th><th>Deutsch</th><th>Französisch</th><th>Italienisch</th><th>Romanisch</th></tr>
 <tr><td>a.</td><td>Extensive Bodenhaltung</td><td>Elevé à l’intérieur: système extensif</td><td>Estensivo al coperto</td><td>Allevament a l’interiur: sistem extensiv</td></tr>
 <tr><td>b.</td><td>Besonders tierfreundliche Stallhaltung</td><td>Stabulation particulièrement respectueuse des animaux</td><td>Stabulazione particolarmente rispettosa degli animali</td><td>Allevament en stalla particularmain favuraivel als animals</td></tr>
 <tr><td>c.</td><td>Auslaufhaltung</td><td>Sortant à l’extérieur</td><td>All’aperto</td><td>Allevament cun sortida al liber</td></tr>
@@ -58,7 +61,7 @@ verordnet:
 
 <sup>4</sup> Die Bezeichnungen «Besonders tierfreundliche Stallhaltung» und «Auslaufhaltung» dürfen nur verwendet werden, wenn die entsprechende Haltungsform für den gesamten Betrieb gilt.
 
-[^2-1]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^2-1]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 
 #### Art. 3
 
@@ -95,13 +98,16 @@ Die Kontrollen durch die Zertifizierungsstelle oder eine von dieser beauftragen 
 
 - a. bei Mastbetrieben, welche Hühner und Truthühner gemäss den Ziffern 1, 3, 4 und 5 des Anhangs produzieren: mindestens einmal jährlich, integriert in bestehende Kontrollen;
 - b.[^5-1] bei Mastbetrieben, welche Hühner und Truthühner gemäss Ziffer 2 des Anhangs produzieren: im Rahmen der Kontrollen der Direktzahlungsverordnung vom 23. Oktober 2013[^5-2];
-- c. bei Schlachthöfen ohne nach der Normenreihe ISO 9000 ff. zertifiziertes Qualitätsmanagementsystem: mindestens viermal jährlich;
-- d. bei Schlachthöfen, die über ein nach der Normenreihe ISO 9000 ff. zertifiziertes Qualitätsmanagementsystem verfügen: mindestens einmal jährlich.
+- c.[^5-3] bei Schlachthöfen, die über ein Qualitätsmanagementsystem verfügen, das von einer in der Schweiz akkreditierten Zertifizierungsstelle zertifiziert ist: mindestens einmal jährlich;
+- d.[^5-4] bei Schlachthöfen, die nicht über ein Qualitätsmanagementsystem nach Buchstabe c verfügen: mindestens viermal jährlich.
 
-<sup>2</sup> Die Zertifizierungsstelle informiert das Bundesamt und die zuständigen kantonalen Behörden über festgestellte Unregelmässigkeiten.
+<sup>2</sup> Die Zertifizierungsstelle informiert das Bundesamt für Landwirtschaft (BLW) und die zuständigen kantonalen Behörden über festgestellte Unregelmässigkeiten.[^5-5]
 
 [^5-1]: Fassung gemäss Anhang 9 Ziff. 10 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
-[^5-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^5-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^5-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 690](https://fedlex.data.admin.ch/eli/oc/2021/690)).
+[^5-4]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 690](https://fedlex.data.admin.ch/eli/oc/2021/690)).
+[^5-5]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 690](https://fedlex.data.admin.ch/eli/oc/2021/690)).
 
 #### Art. 6
 
@@ -113,7 +119,7 @@ Die Zertifizierungs- und Inspektionsstellen müssen nach der Akkreditierungs- un
 - b. durch die Schweiz im Rahmen eines internationalen Abkommens anerkannt sein; oder
 - c. nach schweizerischem Recht auf andere Weise ermächtigt oder anerkannt sein.
 
-[^6-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^6-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 7
 
@@ -121,22 +127,34 @@ Die Zertifizierungs- und Inspektionsstellen müssen nach der Akkreditierungs- un
 
 <sup>1</sup> Eingeführtes Huhn- und Truthuhnfleisch kann eine der Bezeichnungen nach Artikel 2 tragen, sofern der Importeur nachweisen kann, dass die betreffenden Erzeugnisse in Bezug auf die Produktionsmethode und das Kontrollverfahren Bestimmungen unterliegen, welche den Vorschriften dieser Verordnung gleichwertig sind.
 
-<sup>2</sup> Deklarationen gemäss Artikel 2 Absatz 1 Buchstabe a, c, d und e gelten als gleichwertig, wenn das eingeführte Huhn- und Truthuhnfleisch gemäss der Verordnung (EWG) Nr. 1538/91 der Kommission vom 5. Juni 1991[^7-1] hergestellt wurde.
+<sup>2</sup> Die Bezeichnungen nach den folgenden Bestimmungen der Verordnung (EG) Nr. 543/2008[^7-1] gelten als gleichwertig mit den Bezeichnungen nach den folgenden Bestimmungen der vorliegenden Verordnung:
 
-[^7-1]: Verordnung (EWG) Nr. 1538/91 der Kommission vom 5. Juni 1991 mit ausführlichen Durchführungsvorschriften zur Verordnung (EWG) Nr. 1906/90 des Rates über bestimmte Vermarktungsnormen für Geflügelfleisch (Abl. L 143 vom 7.6.1991, S. 11). Der Text dieser Verordnung kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch; er ist auch unter der Internetadresse http://eur-lex.europa.eu/de/index.htm zu finden.
+<table>
+<tr><th>Bestimmung der Verordnung (EG) Nr. 543/2008</th><th>Bestimmung nach vorliegender Verordnung</th></tr>
+<tr><td>a. Anhang V Ziffer b</td><td>Artikel 2 Absatz 1 Buchstabe a («extensive Bodenhaltung»)</td></tr>
+<tr><td>b. Anhang V Ziffer c</td><td>Artikel 2 Absatz 1 Buchstabe c («Auslaufhaltung»)</td></tr>
+<tr><td>c. Anhang V Ziffer d</td><td>Artikel 2 Absatz 1 Buchstabe d («Freilandhaltung»)</td></tr>
+<tr><td>d. Anhang V Ziffer e</td><td>Artikel 2 Absatz 1 Buchstabe e («uneingeschränkte Freilandhaltung»).[^7-2]</td></tr>
+</table>
+
+[^7-1]: Verordnung (EG) Nr. 543/2008 der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Geflügelfleisch, Fassung gemäss ABl. L 157 vom 17.6.2008, S. 46.
+[^7-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 690](https://fedlex.data.admin.ch/eli/oc/2021/690)).
 
 #### Art. 8
 
 **Bundesamt für Landwirtschaft**
 
-<sup>1</sup> Das Bundesamt für Landwirtschaft (Bundesamt) vollzieht diese Verordnung unter Vorbehalt von Artikel 9.
+<sup>1</sup> Das BLW vollzieht diese Verordnung unter Vorbehalt von Artikel 9.[^8-1]
 
 <sup>2</sup>
 
-Das Bundesamt:
+Das BLW[^8-2]:
 
 - a. führt eine Liste der Zertifizierungsstellen, welche die Anforderungen nach Artikel 5 erfüllen;
 - b. informiert die betroffenen kantonalen Stellen und die Zertifizierungsstellen über Massnahmen nach Artikel 169 LwG.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 690](https://fedlex.data.admin.ch/eli/oc/2021/690)).
+[^8-2]: Ausdruck gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 690](https://fedlex.data.admin.ch/eli/oc/2021/690)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 9
 
@@ -144,87 +162,71 @@ Das Bundesamt:
 
 <sup>1</sup> Die kantonalen Lebensmittelkontrollbehörden vollziehen diese Verordnung nach der Lebensmittelgesetzgebung.
 
-<sup>2</sup> Stellen die kantonalen Lebensmittelkontrollbehörden Verstösse gegen diese Verordnung fest, informieren sie das Bundesamt und die Zertifizierungsstellen.
+<sup>2</sup> Stellen die kantonalen Lebensmittelkontrollbehörden Verstösse gegen diese Verordnung fest, informieren sie das BLW und die Zertifizierungsstellen.
 
 #### Art. 10
 
-**Übergangsbestimmungen**
+[^10-1]
 
-Huhn- und Truthuhnfleisch, das vor dem 1. Januar 2006 nach bisherigen Recht hergestellt, abgepackt, gekennzeichnet oder importiert wurde, darf noch bis zur Erschöpfung der Vorräte an Konsumenten abgegeben werden.
+[^10-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 690](https://fedlex.data.admin.ch/eli/oc/2021/690)).
 
 #### Art. 11
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 1. Januar 2006[^11-1] in Kraft.
+Diese Verordnung tritt am 1. Januar 2006 in Kraft.
 
-[^11-1]: Der Beschluss über das Inkrafttreten erfolgte mit Präsidialentscheid vom 19. Dez. 2005.
-
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 2)
 
 ## Anforderungen an die Verwendung von Bezeichnungen zur Haltungsform
 
-[^t-1]: Bereinigt gemäss Anhang 9 Ziff. 10 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^t-1]: Bereinigt gemäss Ziff. I und II der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 690](https://fedlex.data.admin.ch/eli/oc/2021/690)).
 
 ### 1. Extensive Bodenhaltung
 
 Die Angabe «Extensive Bodenhaltung» ist nur zulässig, wenn:
 
-- a. die Besatzdichte je Quadratmeter Bodenfläche bei Poulets und Truten 25 kg Lebendgewicht nicht überschreitet; und
-- b. die Poulets frühestens mit 56 Tagen und die Truten frühestens mit 70 Tagen geschlachtet werden.
+- a. die Besatzdichte je Quadratmeter Bodenfläche bei Hühnern und Truthühnern 25 kg Lebendgewicht nicht überschreitet; und
+- b. die Hühner frühestens mit 56 Tagen und die Truthühner frühestens mit 70 Tagen geschlachtet werden.
 
 ### 2. Besonders tierfreundliche Stallhaltung
 
-Die Angabe «Besonders tierfreundliche Stallhaltung» ist nur zulässig, wenn bei Poulets und Truten die Bestimmungen über die besonders tierfreundlichen Stallhaltungssysteme von Artikel 74 DZV und dessen Ausführungsbestimmungen sowie die Tierschutz-Gesetzgebung eingehalten werden.
+Die Angabe «Besonders tierfreundliche Stallhaltung» ist nur zulässig, wenn bei Hühnern und Truthühnern die Bestimmungen über die besonders tierfreundlichen Stallhaltungssysteme nach Artikel 74 der Direktzahlungsverordnung vom 23. Oktober 2013[^annexu1-lvlu1-lvl2-1] sowie die Tierschutzgesetzgebung eingehalten werden*.*
+
+[^annexu1-lvlu1-lvl2-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 3. Auslaufhaltung
 
 Die Angabe «Auslaufhaltung» ist nur zulässig, wenn:
 
-- a. bei Poulets und Truten die Bestimmungen über den regelmässigen Auslauf im Freien von Artikel 61 DZV und dessen Ausführungsbestimmungen eingehalten werden;
-- b.
-
-  die Besatzdichte je Quadratmeter Bodenfläche die folgenden Werte nicht überschreitet:
-
-  - 1\. bei Poulet 27,5 kg Lebendgewicht,
-  - 2\. bei Truten 25 kg Lebendgewicht.
-
-- Bei der Berechnung der Bodenfläche darf 50 Prozent der Fläche des Aussenklimabereichs angerechnet werden. In vor dem 31. Dezember 2006 bestehenden Stallungen muss die Besatzdichte bei den Truten bis zum 31. Dezember 2016 nicht eingehalten werden;
-- c. die Truten frühestens mit 70 Tagen geschlachtet werden;
+- a. bei Hühnern und Truthühnern die Bestimmungen über den regelmässigen Auslauf im Freien von Artikel 75 der Direktzahlungsverordnung und dessen Ausführungsbestimmungen eingehalten werden;
+- b. die Besatzdichte je Quadratmeter Bodenfläche bei Hühnern 27,5 kg Lebendgewicht und bei Truthühnern 25 kg Lebendgewicht nicht überschreitet; bei der Berechnung der Bodenfläche darf 50 Prozent der Fläche des Aussenklimabereichs angerechnet werden;
+- c. die Truthühner frühestens mit 70 Tagen geschlachtet werden;
 - d. die Tiere während mindestens der Hälfte ihrer Lebenszeit während des ganzen Tages Zugang zur Weide haben. Der Zugang zur Weide darf bei schlechten Witterungsbedingungen wie starkem Wind, schneebedeckter Umgebung oder bei in Bezug auf das Alter der Tiere sehr tiefen Temperaturen eingeschränkt werden; und
-- e. das während der Ausmast verabreichte Futter mindestens 65 Prozent Getreide, wobei bis zu 15 Prozent Getreidenebenprodukte angerechnet werden können, enthält. Bis zum 31. Dezember 2010 muss das während der Ausmast verabreichte Futter mindestens 50 Prozent Getreide enthalten, wobei bis zu 5 Prozent Getreidenebenprodukte angerechnet werden können.
+- e. das während der Ausmast verabreichte Futter mindestens 65 Prozent Getreide enthält, wobei bis zu 15 Prozent Getreidenebenprodukte angerechnet werden können.
 
 ### 4. Freilandhaltung
 
-Die Angabe «Freilandhaltung» ist nur zulässig, wenn:
-
+- 4\.1 Die Angabe «Freilandhaltung» ist nur zulässig, wenn:
 - a. die Anforderungen nach Ziffer 3 über die Auslaufhaltung erfüllt sind;
 - b.
 
   die Besatzdichte je Quadratmeter Stallfläche folgende Vorgaben nicht überschreitet:
 
-  - 1\. bei Poulets 25 kg Lebendgewicht; bei beweglichen Ställen mit maximal 150 m<sup>2</sup> Bodenfläche und 24-stündigem Zugang zu einem Aussenklimabereich kann die Besatzdichte auf maximal 30 kg Lebendgewicht je m<sup>2</sup> Fläche erhöht werden,
-  - 2\. bei Truten 35 kg Lebendgewicht.
+  - 1\. bei Hühnern 25 kg Lebendgewicht; bei beweglichen Ställen mit maximal 150 m<sup>2</sup> Bodenfläche und 24-stündigem Zugang zu einem Aussenklimabereich kann die Besatzdichte auf maximal 30 kg Lebendgewicht je m<sup>2</sup> Fläche erhöht werden; bei der Berechnung der Bodenfläche darf 50 Prozent der Fläche des Aussenklimabereichs angerechnet werden,
+  - 2\. bei Truthühnern 35 kg Lebendgewicht; bei der Berechnung der Bodenfläche darf 50 Prozent der Fläche des Aussenklimabereichs angerechnet werden;
 
-- Bei der Berechnung der Bodenfläche darf 50 Prozent der Fläche des Aussenklimabereichs angerechnet werden;
 - c. die Nutzfläche der Ställe der einzelnen Produktionsstätten 1600 m<sup>2</sup> nicht überschreitet;
 - d.
 
   die einzelnen Ställe nicht mehr Tiere enthalten als:
 
-  - 1\. 4800 Poulets,
-  - 2\. 2500 Truten;
+  - 1\. 4800 Hühner,
+  - 2\. 2500 Truthühner;
 
-- e.
-
-  die Tiere ab folgendem Alter während des ganzen Tages Zugang zur Weide haben:
-
-  - 1\. Poulet ab dem 42. Lebenstag,
-  - 2\. Truten ab dem 56. Lebenstag.
-
-- Der Zugang zur Weide darf bei schlechten Witterungsbedingungen wie starkem Wind, schneebedeckter Umgebung oder bei in Bezug auf das Alter der Tiere sehr tiefen Temperaturen eingeschränkt werden;
+- e. die Hühner ab dem 42. Lebenstag und die Truthühner ab dem 56. Lebenstag während des ganzen Tages Zugang zur Weide haben; der Zugang zur Weide darf bei schlechten Witterungsbedingungen wie starkem Wind, schneebedeckter Umgebung oder bei in Bezug auf das Alter der Tiere sehr tiefen Temperaturen eingeschränkt werden;
 - f.
 
   die Ausläufe mindestens folgende Flächen aufweisen:
@@ -236,11 +238,14 @@ Die Angabe «Freilandhaltung» ist nur zulässig, wenn:
 
   die Tiere frühestens im folgenden Alter geschlachtet werden:
 
-  - 1\. Poulets mit 81 Tagen,
-  - 2\. Truten mit 140 Tagen;
+  - 1\. Hühner mit 81 Tagen,
+  - 2\. Truthühner mit 140 Tagen;
 
 - h. Produzenten, die das Mindestschlachtalter nach Buchstabe g nicht einhalten, langsam wachsende Rassen verwenden; und
-- i. die Ausmast in Stallhaltung bei über 90 Tage alten Poulets 15 Tage nicht überschreitet.
+- i. die Ausmast in Stallhaltung bei über 90 Tage alten Hühner 15 Tage nicht überschreitet.
+- 4\.2 Können die Anforderungen nach Ziffer 3 während einer bestimmten Dauer aufgrund einer behördlichen Massnahme nicht eingehalten werden, so darf bei der Kennzeichnung des Fleisches dennoch die Bezeichnung «Freilandhaltung» verwendet werden, wenn:
+- a. der nach Artikel 74 der Direktzahlungsverordnung vorgesehene Zugang der Tiere zum Aussenklimabereich ununterbrochen gewährleistet war; und
+- b. die Dauer der Nichteinhaltung der Anforderungen nach Ziffer 3 16 Wochen nicht übersteigt.
 
 ### 5. Uneingeschränkte Freilandhaltung
 
