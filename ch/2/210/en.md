@@ -4,11 +4,11 @@ title: Swiss Civil Code of 10 December 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20210101/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220101/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20210101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 10 December 1907 (Status as of 1 January 2021)
+of 10 December 1907 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -440,13 +440,29 @@ Where justified by the circumstances, the court may:
 [^28b-1]: Inserted by No I of the FA of 16 Dec. 1983 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Amended by No I of the FA of 23 June 2006 (Protection of the Personality against Violence, Threats and Harassment), in force since 1 July 2007 ([AS 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [BBl 2005 6871](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6897](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
 [^28b-2]: Inserted by No I 1 of the FA of 14 Dec. 2018 on Improving the Protection given to Victims of Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
+### c. Electronic monitoring
+
+#### Art. 28c
+
+[^28c-1]
+
+<sup>1</sup> The court that issues an injunction pursuant to the provision on violence, threats or harassment, and the enforcement court, may on the applicant's request order the use of an electronic device that is securely attached to the offending party and which can continuously ascertain and record his or her location.
+
+<sup>2</sup> The measure may be ordered for a maximum of six months. It may be extended by a maximum of six months at a time. As a precautionary measure, the measure may be ordered for a maximum period of six months.
+
+<sup>3</sup> The cantons shall designate an authority that is responsible for enforcing the measure, and shall regulate the enforcement procedure. They shall ensure that the data recorded on the persons concerned are used only to enforce the injunction and are deleted twelve months at the latest after termination of the measure.
+
+<sup>4</sup> The applicant must not incur any costs from the enforcement of the measure. The person monitored may be charged the costs of the measure.
+
+[^28c-1]: Inserted by No I of the FA of 16 Dec. 1983 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Amended by No I 1 of the FA of 14 Dec. 2018 on Improving the Protection given to Victims of Violence, in force since 1 Jan. 2022 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+
 ### 3. ...
 
-#### Art. 28c–28f
+#### Art. 28d–28f
 
-[^28c28f-1]
+[^28d28f-1]
 
-[^28c28f-1]: Inserted by No I of the FA of 16 Dec. 1983 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Repealed by Annex 1 No II 3 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^28d28f-1]: Inserted by No I of the FA of 16 Dec. 1983 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Repealed by Annex 1 No II 3 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 4. Right of reply
 
@@ -558,6 +574,28 @@ Where justified by the circumstances, the court may:
 A person whose spouse dies may, if that person changed his or her surname on marriage, at any time declare before the civil registrar the wish to revert to the name by which he or she was known prior to the marriage.
 
 [^30a-1]: Inserted by No I of the FA of 30 Sept. 2011 (Name and Citizenship), in force since 1 Jan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+
+### IV. In relation to gender
+
+#### Art. 30b
+
+[^30b-1]
+
+<sup>1</sup> Any person who is firmly convinced that they are not of the gender entered in their respect in the civil register may declare to the civil registrar that they wish to have the entry changed.
+
+<sup>2</sup> The person making the declaration may have one or more new first names entered in the civil register.
+
+<sup>3</sup> The declaration has no legal effect on family relationships.
+
+<sup>4</sup>
+
+The consent of the legal representative is required if:
+
+- 1\. the person making the declaration is under the age of 16;
+- 2\. the person making the declaration is subject to a general deputyship; or
+- 3\. the adult protection authority has so ordered.
+
+[^30b-1]: Inserted by No I of the FA of 18 Dec. 2020 (Gender Change in the Civil Register), in force since 1 Jan. 2022 ([AS 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [BBl 2020 799](https://fedlex.data.admin.ch/eli/fga/2020/129)).
 
 ### C. Beginning and end of personality rights
 
@@ -847,11 +885,11 @@ In particular it regulates:
 
 - 1\. the registers to be maintained and the information to be recorded;
 
-<sup>2.</sup> the use of the OASI number in accordance with Article 50*c* of the Federal Act of 20 December 1946[^48-1] on the Old-Age and Survivors' Insurance for the purpose of electronic data exchange between official registers of persons;
+<sup>2.</sup> the use of the OASI number[^48-1] in accordance with Article 50*c* of the Federal Act of 20 December 1946[^48-2] on the Old-Age and Survivors' Insurance for the purpose of electronic data exchange between official registers of persons;
 
 <sup>3.</sup> the maintenance of the register;
 
-- 4\. supervision.[^48-2]
+- 4\. supervision.[^48-3]
 
 <sup>3</sup> To ensure technically reliable implementation the Federal Council may set minimum requirements for the basic and continuing education and training of personnel in the civil register service and for the function of registrar.
 
@@ -863,11 +901,12 @@ It determines the conditions on which it is permissible by electronic means:
 
 - 1\. to provide civil status information;
 - 2\. to make declarations concerning civil status;
-- 3\. to make notifications and provide extracts from the civil register.[^48-3]
+- 3\. to make notifications and provide extracts from the civil register.[^48-4]
 
-[^48-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^48-2]: Amended by Annex No 2 of the Register Harmonisation Act of 23 June 2006, in force since 1 Jan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
-[^48-3]: Inserted by No I of the FA of 5 Oct. 2001 (Electronic Civil Register), in force since 1 July 2004 ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)).
+[^48-1]: Term in accordance with Annex No 2 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). This modification has been made in the provision specified in the AS.
+[^48-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^48-3]: Amended by Annex No 2 of the Register Harmonisation Act of 23 June 2006, in force since 1 Jan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^48-4]: Inserted by No I of the FA of 5 Oct. 2001 (Electronic Civil Register), in force since 1 July 2004 ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 
 ### II. Cantonal law
 
@@ -1482,17 +1521,18 @@ For employee benefits schemes providing old age, survivors’ and invalidity pen
 - 3*b*.[^89a-12] the provisional continuation of insurance and of the entitlement to benefits on the reduction or termination of the invalidity pension (Art. 26*a*);
 - 4\.[^89a-13] the adjustment of plan benefits to inflation (Art. 36 para. 2–4);
 - [tab] 4*a*.[^89a-14] the agreement on a lump sum payment (Art. 37*a*);
+- 4*b*.[^89a-15] the measures in the case of neglect of maintenance obligations (Art. 40);
 - 5\. the prescription of claims and the safekeeping of insurance documents (Art. 41);
-- 5*a*.[^89a-15] the use, processing and disclosure of the OASI number for the Old Age and Survivors’ Insurance (Art. 48 para. 4, Art. 85*a* lit. f and Art. 86*a* para. 2 lit. b<sup>bis</sup>);
+- 5*a*.[^89a-16] the use, processing and disclosure of the OASI number (Art. 48 para. 4, Art. 85*a* lit. f and Art. 86*a* para. 2 lit. b<sup>bis</sup>);
 - 6\. liability (Art. 52);
-- 7\.[^89a-16] the licensing and duties of the supervisory bodies (Art. 52*a*–52*e*);
-- 8\.[^89a-17] the integrity and loyalty of the persons responsible, transactions with close associates and conflicts of interest (Art. 51*b*, 51*c* and 53*a*);
+- 7\.[^89a-17] the licensing and duties of the supervisory bodies (Art. 52*a*–52*e*);
+- 8\.[^89a-18] the integrity and loyalty of the persons responsible, transactions with close associates and conflicts of interest (Art. 51*b*, 51*c* and 53*a*);
 - 9\. partial or total liquidation (Art. 53*b*–53*d*);
-- 10\.[^89a-18] termination of contracts (Art. 53*e*);
+- 10\.[^89a-19] termination of contracts (Art. 53*e*);
 - 11\. the guarantee fund (Art. 56 para. 1 lit. c and para. 2–5, Art. 56*a*, 57 and 59);
-- 12\.[^89a-19] supervision and oversight (Art. 61–62*a* and 64–64*c*);
-- 13\.[^89a-20] ...
-- 14\.[^89a-21] financial security (Art. 65 para. 1, 3 and 4, Art. 66 para. 4, Art. 67 and Art. 72*a*–72*g*);
+- 12\.[^89a-20] supervision and oversight (Art. 61–62*a* and 64–64*c*);
+- 13\.[^89a-21] ...
+- 14\.[^89a-22] financial security (Art. 65 para. 1, 3 and 4, Art. 66 para. 4, Art. 67 and Art. 72*a*–72*g*);
 - 15\. transparency (Art. 65*a*);
 - 16\. reserves (Art. 65*b*);
 - 17\. insurance contracts between occupational benefits schemes and insurance institutions (Art. 68 para. 3 and 4);
@@ -1501,7 +1541,7 @@ For employee benefits schemes providing old age, survivors’ and invalidity pen
 - 20\. criminal provisions (Art. 75–79);
 - 21\. buy-in (Art. 79*b*);
 - 22\. insurable salary and income (Art. 79*c*);
-- 23\. provision of information to insured persons (Art. 86*b*).[^89a-22]
+- 23\. provision of information to insured persons (Art. 86*b*).[^89a-23]
 
 <sup>7</sup>
 
@@ -1516,7 +1556,7 @@ For employee benefits schemes providing old age, survivors’ and invalidity pen
 - 7\. supervision and oversight (Art. 61–62*a* and 64–64*b*);
 - 8\. legal recourse (Art. 73 and 74);
 - 9\. criminal provisions (Art. 75–79);
-- 10\. tax treatment (Art. 80, 81 para. 1 and 83).[^89a-23]
+- 10\. tax treatment (Art. 80, 81 para. 1 and 83).[^89a-24]
 
 <sup>8</sup>
 
@@ -1524,7 +1564,7 @@ For employee benefits schemes under paragraph 7, the following provisions also a
 
 - 1\. they manage their assets so that security, an adequate yield on investments and the required liquidity for their tasks are guaranteed.
 - 2\. the supervisory authority shall rule on partial liquidation matters related to employer-sponsored welfare funds with discretionary benefits at the request of the foundation board.
-- 3\. they shall respect the principles of equal treatment and fairness *mutatis mutandis*.[^89a-24]
+- 3\. they shall respect the principles of equal treatment and fairness *mutatis mutandis*.[^89a-25]
 
 [^89a-1]: Inserted by No II of the FA of 21 March 1958, in force since 1 July 1958 ([AS 1958 379](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [BBl 1956 II 825](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)). Originally Art. 89<sup>bis</sup>, until the entry into force of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^89a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1540,16 +1580,17 @@ For employee benefits schemes under paragraph 7, the following provisions also a
 [^89a-12]: Inserted by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^89a-13]: Amended by Annex No 1 of the FA of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^89a-14]: Inserted by No I of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-15]: Inserted by Annex No 1 of the FA of 23 June 2006 (New OASI Insurance Number), in force since 1 Dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^89a-16]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-15]: Inserted by No I of the FA of 20 March 2015 (Child Maintenance), in force since 1. Jan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^89a-16]: Inserted by Annex No 1 of the FA of 23 June 2006 (New OASI Insurance Number), in force since 1 Dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^89a-17]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-18]: Amended by No II of the FA of 20 Dec. 2006 (Change of Employee Benefits Scheme), in force since 1 May 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263)1805; [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^89a-19]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-20]: Repealed by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), with effect from 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-21]: Amended by No II 1 of the FA of 17 Dec. 2010 (Funding of benefits schemes for public corporations), in force since 1 Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-22]: Inserted by Annex No 1 of the FA of 25 June 1982 on Old Age, Survivors’ and Disability Insurance ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Amended by Annex No 1 of the FA of 3 Oct. 2003 (1<sup>st</sup> revision of OPA), No 6, 7, 10–12, 14 (with the exception of Art. 66 para. 4), 15, 17–20 and 23 in force since 1 April 2004, No 3–5, 8, 9, 13, 14 (Art. 66 para. 4) and 16 in force since 1 Jan. 2005, No 1, 21 and 22 in force since 1 Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^89a-23]: Inserted by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-18]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-19]: Amended by No II of the FA of 20 Dec. 2006 (Change of Employee Benefits Scheme), in force since 1 May 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263)1805; [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^89a-20]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-21]: Repealed by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), with effect from 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-22]: Amended by No II 1 of the FA of 17 Dec. 2010 (Funding of benefits schemes for public corporations), in force since 1 Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^89a-23]: Inserted by Annex No 1 of the FA of 25 June 1982 on Old Age, Survivors’ and Disability Insurance ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Amended by Annex No 1 of the FA of 3 Oct. 2003 (1<sup>st</sup> revision of OPA), No 6, 7, 10–12, 14 (with the exception of Art. 66 para. 4), 15, 17–20 and 23 in force since 1 April 2004, No 3–5, 8, 9, 13, 14 (Art. 66 para. 4) and 16 in force since 1 Jan. 2005, No 1, 21 and 22 in force since 1 Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^89a-24]: Inserted by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-25]: Inserted by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
 ### Title Two<sup>bis</sup>:******** Collective Assets
 
@@ -9267,7 +9308,7 @@ The costs of any structures required for the exercise of rights under the law of
 
 #### Art. 699
 
-<sup>1</sup> Any person has the right to enter woodlands and meadows and to gather wild berries, fungi and the like to the extent permitted by local custom except where the competent authority enacts specific limited prohibitions in the interests of conservation.
+<sup>1</sup> Any person has the right to enter woodlands and meadows and to gather wild berries, fungi and the like to the extent permitted by local custom except where the competent authority enacts specific limited injunctions in the interests of conservation.
 
 <sup>2</sup> Cantonal law may enact more detailed regulations on access to land owned by others for the purposes of hunting and fishing.
 
@@ -12899,6 +12940,23 @@ In the event of the husband's bankruptcy and the distraint of his assets, the pr
 In the case of a separation of property established by operation of the law or by court order, the spouses are subject to the new provisions on the separation of property.
 
 [^u1-9f-1]: Inserted by No I 2 of the FA of 5 Oct. 1984, in force since 1 Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+
+### 4*a*. Marital property law applicable to same-sex marriages contracted abroad before the full entry into force of the Amendment of 18 December 2020
+
+#### Art. 9g
+
+[^u1-9g-1]
+
+<sup>1 …</sup>[^u1-9g-2]
+
+<sup>2</sup> Before this Amendment enters into force in full, either spouse may give written notice to the other that the current marital property regime will be maintained in accordance with Article 18 of the Same-Sex Partnership Act of 18 June 2004[^u1-9g-3] (SSPA) until the date of full entry into force.
+
+<sup>3</sup> and <sup>4</sup> ...[^u1-9g-4]
+
+[^u1-9g-1]: Inserted by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 Jan. 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^u1-9g-2]: The para. enters into force 1 July the 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^u1-9g-3]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^u1-9g-4]: The paras. enter into force 1 July the 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### 5. Marital agreement
 

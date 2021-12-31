@@ -4,18 +4,18 @@ title: Codice civile svizzero del 10 dicembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20210101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice civile svizzero
 
-del 10 dicembre 1907 (Stato 1° gennaio 2021)
+del 10 dicembre 1907 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -419,13 +419,29 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 [^28b-1]: Introdotto dal n. I della LF del 16 dic. 1983 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Nuovo testo giusta il n. I della LF del 23 giu. 2006 (Protezione della personalità in caso di violenza, minacce o insidie), in vigore dal 1° lug. 2007 ([RU 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [FF 2005 6127](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6151](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
 [^28b-2]: Introdotto dal n. I 1 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
+### c. Sorveglianza elettronica
+
+#### Art. 28c
+
+[^28c-1]
+
+<sup>1</sup> Su richiesta dell’attore, il giudice che ordina un divieto ai sensi della disposizione riguardante la violenza, le minacce o le insidie e il giudice dell’esecuzione possono ordinare l’impiego di un dispositivo elettronico, fissato sull’autore della lesione, che consente di rilevare e registrare in continuo il luogo in cui si trova.
+
+<sup>2</sup> La misura può essere ordinata per un massimo di sei mesi. Può essere prolungata di volta in volta di sei mesi al massimo. Può essere ordinata a titolo cautelare per un massimo di sei mesi.
+
+<sup>3</sup> I Cantoni designano un servizio competente per l’esecuzione della misura e disciplinano la procedura. Provvedono affinché i dati registrati concernenti le persone coinvolte siano impiegati unicamente per fare rispettare il divieto e siano cancellati al più tardi entro dodici mesi dalla fine della misura.
+
+<sup>4</sup> All’attore non è addebitato alcun costo derivante dall’esecuzione della misura. I costi della misura possono essere posti a carico della persona sorvegliata.
+
+[^28c-1]: Introdotto dal n. I della LF del 16 dic. 1983 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Nuovo testo giusta il n. I 1 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° gen. 2022 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+
 ### 3. …
 
-#### Art. 28c a 28f
+#### Art. 28d a 28f
 
-[^28c28f-1]
+[^28d28f-1]
 
-[^28c28f-1]: Introdotti dal n. I della LF del 16 dic. 1983 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Abrogati dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^28d28f-1]: Introdotti dal n. I della LF del 16 dic. 1983 ([RU 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 628](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Abrogati dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 4. Diritto di risposta
 
@@ -537,6 +553,28 @@ Il giudice può, per quanto appaia giustificato considerate tutte le circostanze
 In caso di morte di un coniuge, il coniuge superstite, se ha cambiato cognome in occasione del matrimonio, può dichiarare in ogni tempo all’ufficiale dello stato civile di voler riprendere il proprio cognome da celibe o nubile.
 
 [^30a-1]: Introdotto dal n. I della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+
+### IV. In relazione al sesso
+
+#### Art. 30b
+
+[^30b-1]
+
+<sup>1</sup> Chi ha la convinzione intima e costante di non appartenere al sesso iscritto nel registro dello stato civile può dichiarare all’ufficiale dello stato civile di voler modificare tale iscrizione.
+
+<sup>2</sup> Il dichiarante può far iscrivere uno o più nuovi prenomi nel registro.
+
+<sup>3</sup> La dichiarazione non ha effetti sui rapporti retti dal diritto di famiglia.
+
+<sup>4</sup>
+
+Occorre il consenso del rappresentante legale se:
+
+- 1\. il dichiarante non ha ancora compiuto il sedicesimo anno di età;
+- 2\. il dichiarante è sotto curatela generale; o
+- 3\. l’autorità di protezione degli adulti lo ha ordinato.
+
+[^30b-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Cambiamento del sesso nel registro dello stato civile), in vigore dal 1° gen. 2022 ([RU 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [FF 2020 737](https://fedlex.data.admin.ch/eli/fga/2020/129)).
 
 ### C. Principio e fine della personalità
 
@@ -827,11 +865,11 @@ Con la partecipazione dei Cantoni, il Consiglio federale disciplina:
 <sup>2</sup> Esso disciplina in particolare
 
 - 1\. i registri da tenere e i dati da registrare;
-- 2\. l’utilizzazione del numero di assicurato conformemente all’articolo 50*c* della legge federale del 20 dicembre 1946[^48-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) ai fini dello scambio elettronico di dati tra i registri ufficiali di per-sone;
+- 2\. l’utilizzazione del numero AVS[^48-1] conformemente all’articolo 50*c* della legge federale del 20 dicembre 1946[^48-2] sull’assicurazione per la vecchiaia e per i superstiti (LAVS) ai fini dello scambio elettronico di dati tra i registri ufficiali di per-sone;
 - 3\. la tenuta dei registri;
-- 4\. la vigilanza*.*[^48-2]
+- 4\. la vigilanza*.*[^48-3]
 
-<sup>3</sup> Per garantire un’esecuzione tecnicamente corretta il Consiglio federale può stabilire esigenze minime per la formazione e la formazione continua delle persone operanti nell’ambito dello stato civile, nonché per il tasso d’occupazione degli ufficiali dello stato civile.[^48-3]
+<sup>3</sup> Per garantire un’esecuzione tecnicamente corretta il Consiglio federale può stabilire esigenze minime per la formazione e la formazione continua delle persone operanti nell’ambito dello stato civile, nonché per il tasso d’occupazione degli ufficiali dello stato civile.[^48-4]
 
 <sup>4</sup> Stabilisce gli emolumenti da riscuotere in materia di stato civile.
 
@@ -841,12 +879,13 @@ Determina a quali condizioni è possibile procedere per via elettronica:
 
 - 1\. alla notificazione di fatti dello stato civile;
 - 2\. al rilascio di dichiarazioni concernenti lo stato civile;
-- 3\. alla notificazione di comunicazioni e al rilascio di estratti dei registri.[^48-4]
+- 3\. alla notificazione di comunicazioni e al rilascio di estratti dei registri.[^48-5]
 
-[^48-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^48-2]: Nuovo testo giusta l’all. n. 2 della L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
-[^48-3]: Nuovo testo giusta l’all. n. 8 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^48-4]: Introdotto dal n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
+[^48-1]: Nuova espr. giusta l’all. n. 2 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^48-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^48-3]: Nuovo testo giusta l’all. n. 2 della L del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^48-4]: Nuovo testo giusta l’all. n. 8 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^48-5]: Introdotto dal n. I della LF del 5 ott. 2001 (Gestione elettronica dei registri dello stato civile), in vigore dal 1° lug. 2004 ([RU 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [FF 2001 1417](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 
 ### II. Diritto cantonale
 
@@ -1458,17 +1497,18 @@ Per le fondazioni di previdenza a favore del personale che operano nel campo del
 - 3*b*.[^89a-11] la proroga provvisoria del rapporto di assicurazione e il mantenimento del diritto alle prestazioni in caso di riduzione o sop-pressione della rendita dell’assicurazione invalidità (art. 26*a*),
 - 4\.[^89a-12] l’adeguamento delle prestazioni regolamentari all’evoluzione dei prezzi (art. 36 cpv. 2–4),
 - 4*a*.[^89a-13] il consenso alla liquidazione in capitale (art. 37*a*),
+- 4*b*.[^89a-14] le misure in caso d’inosservanza dell’obbligo di mantenimento (art. 40);
 - 5\. la prescrizione dei diritti e la conservazione di documenti (art. 41),
-- [tab] 5*a*.[^89a-14] l’utilizzazione, il trattamento e la comunicazione del numero d’assicurato dell’assicurazione vecchiaia e superstiti (art. 48 cpv. 4, 85*a* lett. f e 86*a* cpv. 2 lett. b<sup>bis</sup>),
+- [tab] 5*a*.[^89a-15] l’utilizzazione, il trattamento e la comunicazione del numero AVS dell’assicurazione vecchiaia e superstiti (art. 48 cpv. 4, 85*a* lett. f e 86*a* cpv. 2 lett. b<sup>bis</sup>),
 - 6\. la responsabilità (art. 52),
-- 7\.[^89a-15] l’abilitazione e i compiti degli organi di controllo (art. 52*a*‑52*e*),
-- 8\.[^89a-16] l’integrità e la lealtà dei responsabili, i negozi giuridici con persone vicine e i conflitti d’interesse (art. 51*b*, 51*c* e 53*a*),
+- 7\.[^89a-16] l’abilitazione e i compiti degli organi di controllo (art. 52*a*‑52*e*),
+- 8\.[^89a-17] l’integrità e la lealtà dei responsabili, i negozi giuridici con persone vicine e i conflitti d’interesse (art. 51*b*, 51*c* e 53*a*),
 - 9\. la liquidazione parziale o totale (art. 53*b*–53*d*),
-- 10\.[^89a-17] lo scioglimento dei contratti (art. 53*e* e 53*f*),
+- 10\.[^89a-18] lo scioglimento dei contratti (art. 53*e* e 53*f*),
 - 11\. il fondo di garanzia (art. 56 cpv. 1 lett. c e cpv. 2–5, 56*a*, 57 e 59),
-- 12\.[^89a-18] la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*c*),
-- 13\.[^89a-19] ...
-- 14\.[^89a-20] la sicurezza finanziaria (art. 65 cpv. 1, 3 e 4, 66 cpv. 4, 67 e 72*a*–72*g*),
+- 12\.[^89a-19] la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*c*),
+- 13\.[^89a-20] ...
+- 14\.[^89a-21] la sicurezza finanziaria (art. 65 cpv. 1, 3 e 4, 66 cpv. 4, 67 e 72*a*–72*g*),
 - 15\. la trasparenza (art. 65*a*),
 - 16\. le riserve (art. 65*b*),
 - 17\. i contratti assicurativi tra istituti di previdenza e istituti d’assicurazione (art. 68 cpv. 3 e 4),
@@ -1477,14 +1517,14 @@ Per le fondazioni di previdenza a favore del personale che operano nel campo del
 - 20\. le disposizioni penali (art. 75–79),
 - 21\. il riscatto (art. 79*b*),
 - 22\. il salario assicurabile e il reddito assicurabile (art. 79*c*),
-- 23\. l’informazione degli assicurati (art. 86*b*).[^89a-21]
+- 23\. l’informazione degli assicurati (art. 86*b*).[^89a-22]
 
 <sup>7</sup>
 
 Per le fondazioni di previdenza a favore del personale che operano nel campo della previdenza professionale per la vecchiaia, i superstiti e l’invalidità, ma non soggiacciono alla LFLP, come i cosiddetti fondi padronali di previdenza con prestazioni discrezionali e le fondazioni di finanziamento, si applicano soltanto le seguenti disposizioni della LPP concernenti:
 
 - 1\. l’assoggettamento delle persone all’AVS (art. 5 cpv. 1);
-- 2\. l’utilizzazione, il trattamento e la comunicazione del numero d’assicurato dell’AVS (art. 48 cpv. 4, 85*a* lett. f e 86*a* cpv. 2 lett. b<sup>bis</sup>);
+- 2\. l’utilizzazione, il trattamento e la comunicazione del numero AVS (art. 48 cpv. 4, 85*a* lett. f e 86*a* cpv. 2 lett. b<sup>bis</sup>);
 - 3\. la responsabilità (art. 52);
 - 4\. l’abilitazione e i compiti dell’ufficio di revisione (art. 52*a*, 52*b* e 52*c* cpv. 1 lett. a–d e g, 2 e 3);
 - 5\. l’integrità e le lealtà dei responsabili, i negozi giuridici con persone vicine e i conflitti d’interesse (art. 51*b*, 51*c* e 53*a*);
@@ -1492,7 +1532,7 @@ Per le fondazioni di previdenza a favore del personale che operano nel campo del
 - 7\. la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*b*);
 - 8\. il contenzioso (art. 73 e 74);
 - 9\. le disposizioni penali (art. 75–79);
-- 10\. il trattamento fiscale (art. 80, 81 cpv. 1 e 83).[^89a-22]
+- 10\. il trattamento fiscale (art. 80, 81 cpv. 1 e 83).[^89a-23]
 
 <sup>8</sup>
 
@@ -1500,7 +1540,7 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 
 - 1\. esse amministrano il loro patrimonio in modo da garantire la sicurezza degli investimenti, la loro sufficiente redditività e le liquidità necessarie all’adempimento dei propri compiti;
 - 2\. l’autorità di vigilanza decide, su richiesta del consiglio di fondazione, in merito a fatti concernenti la liquidazione parziale di fondi padronali di previdenza con prestazioni discrezionali;
-- 3\. esse tengono conto, per analogia, dei principi della parità di trattamento e di adeguatezza.[^89a-23]
+- 3\. esse tengono conto, per analogia, dei principi della parità di trattamento e di adeguatezza.[^89a-24]
 
 [^89a-1]: Introdotto dal n. II della LF del 21 mar. 1958, in vigore dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393)). Fino all’entrata della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione) il 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): art. 89<sup>bis</sup>.
 [^89a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1515,16 +1555,17 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 [^89a-11]: Introdotto dal n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^89a-12]: Nuovo testo giusta l’all. n. 1 della LF del 18 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [FF 2003 5557](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 [^89a-13]: Introdotto dal n. 1 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-14]: Introdotto dall’all. n. 1 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^89a-15]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-14]: Introdotto dal n. I della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2022 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); FF **2014** 529).
+[^89a-15]: Introdotto dall’all. n. 1 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^89a-16]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-17]: Nuovo testo giusta il n. II della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^89a-18]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-19]: Abrogato dal n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-20]: Nuovo testo giusta il n. II 1 della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-21]: Introdotto dall’all. n. I della LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nuovo testo giusta l’all. n. 1 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP); n. 6, 7, 10 a 12, 14 (ad eccezione dell’art. 66 cpv. 4), 15, 17 a 20 e 23 in vigore dal 1° apr. 2004; n. 3 a 5, 8, 9, 13, 14 (art. 66 cpv. 4) e 16 in vigore dal 1° gen. 2005; n. 1, 21 e 22 in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2416](https://fedlex.data.admin.ch/eli/fga/2000/556)).
-[^89a-22]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-23]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2015 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-17]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-18]: Nuovo testo giusta il n. II della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^89a-19]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-20]: Abrogato dal n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-21]: Nuovo testo giusta il n. II 1 della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^89a-22]: Introdotto dall’all. n. I della LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nuovo testo giusta l’all. n. 1 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP); n. 6, 7, 10 a 12, 14 (ad eccezione dell’art. 66 cpv. 4), 15, 17 a 20 e 23 in vigore dal 1° apr. 2004; n. 3 a 5, 8, 9, 13, 14 (art. 66 cpv. 4) e 16 in vigore dal 1° gen. 2005; n. 1, 21 e 22 in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2416](https://fedlex.data.admin.ch/eli/fga/2000/556)).
+[^89a-23]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-24]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2015 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
 ### Titolo secondo<sup>bis</sup>:**** Delle collette pubbliche
 
@@ -12848,6 +12889,21 @@ Le disposizioni della legge anteriore sui crediti della moglie per gli apporti c
 I coniugi che vivevano nel regime della separazione dei beni legale o giudiziale sotto la legge anteriore sottostanno alle nuove norme sulla separazione dei beni.
 
 [^u1-9f-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+
+### 4*a*. Regime dei beni in caso di matrimonio fra persone dello stesso sesso celebrato all’estero prima dell’entrata in vigore integrale della modifica del 18 dicembre 2020
+
+#### Art. 9g
+
+[^u1-9g-1]
+
+<sup>1</sup> ...
+
+<sup>2</sup> Prima dell’entrata in vigore integrale delle disposizioni della modifica del presente Codice del 18 dicembre 2020, ogni coniuge può comunicare per scritto all’altro che il regime dei beni di cui all’articolo 18 della legge del 18 giugno 2004[^u1-9g-2] sull’unione domestica registrata (LUD) è mantenuto fino al momento di detta entrata in vigore*.*
+
+<sup>3</sup> e <sup>4</sup> ...
+
+[^u1-9g-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° gen. 2022, i cpv. 1, 23 e 4 dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^u1-9g-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
 ### 5. Convenzioni matrimoniali
 

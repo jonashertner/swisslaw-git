@@ -4,11 +4,11 @@ title: Cudesch civil svizzer dals 10 da december 1907
 short: CCS
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: rm
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220101-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20210101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 10 da december 1907 (versiun dal 1. da schaner 2021)
+dals 10 da december 1907 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -37,7 +37,7 @@ concluda:
 
 <sup>1</sup> La lescha vegn applitgada per tut las dumondas giuridicas, a las qualas il text u l’interpretaziun d’ina da sias disposiziuns po sa referir.
 
-<sup>2</sup> Sche la lescha na cuntegna betg ina disposiziun legala, duai il derschader[^1-1] decider tenor il dretg da disa e – nua che er in tal manca – tenor la regla ch’el fixass sco legislatur.
+<sup>2</sup> Sche la lescha na cuntegna betg ina disposiziun legala, duai la dretgira[^1-1] decider tenor il dretg da disa e – nua che er in tal manca – tenor la regla ch’ella fixass sco legislatura.
 
 <sup>3</sup> El suonda en quest connex la scienza giuridica e la giurisprudenza approvada.
 
@@ -61,7 +61,7 @@ concluda:
 
 <sup>2</sup> Tgi che n’avess betg pudì agir en buna fai, sch’el fiss stà attent en la dimensiun che las circumstanzas permettevan, n’ha betg il dretg da sa referir a la buna fai.
 
-### III. Appreziar dal derschader
+### III. Appreziar da la dretgira
 
 [^tit0-lvlB-lvlIII-1]
 
@@ -69,7 +69,7 @@ concluda:
 
 #### Art. 4
 
-Il derschader sto decider tenor dretg e giustia, sche la lescha al permetta da giuditgar tenor ses appreziar u al prescriva da tegnair quint da las circumstanzas u da motivs relevants.
+La dretgira sto decider tenor dretg e giustia, sche la lescha la permetta da giuditgar tenor ses appreziar u la prescriva da tegnair quint da las circumstanzas u da motivs relevants.
 
 ### C. Dretg federal e dretg chantunal
 
@@ -228,7 +228,7 @@ Tgi che n’è betg abel da giuditgar na po betg – cun resalva da las excepziu
 
 <sup>1</sup> Sche la lescha na dispona betg autramain, po il represchentant legal dar gia ordavant ses consentiment expressiv u taciturn u approvar posteriuramain l’affar.
 
-<sup>2</sup> L’autra partida vegn deliberada da sia obligaziun, sche l’approvaziun na vegn betg fatga entaifer in termin adequat ch’ella fixescha sezza u ch’ella lascha fixar dal derschader.
+<sup>2</sup> L’autra partida vegn deliberada da sia obligaziun, sche l’approvaziun na vegn betg fatga entaifer in termin adequat ch’ella fixescha sezza u ch’ella lascha fixar da la dretgira.
 
 [^19a-1]: Integrà tras la cifra I 2 da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
@@ -378,7 +378,7 @@ Persunas maiorennas sut curatella cumplessiva han lur domicil a la sedia da l’
 
 [^28-1]
 
-<sup>1</sup> Tgi che vegn violà illegalmain en sia persunalitad, po – per sa proteger – appellar al derschader cunter mintgin che sa participescha a la violaziun.
+<sup>1</sup> Tgi che vegn violà illegalmain en sia persunalitad, po – per sa proteger – appellar a la dretgira cunter mintgin che sa participescha a la violaziun.
 
 <sup>2</sup> Ina violaziun è illegala, sch’ella n’è betg giustifitgada tras il consentiment da la persuna violada, tras in interess privat u public predominant u tenor la lescha.
 
@@ -398,7 +398,7 @@ Persunas maiorennas sut curatella cumplessiva han lur domicil a la sedia da l’
 
 <sup>1</sup>
 
-L’accusader po dumandar il derschader:
+L’accusader po dumandar la dretgira:
 
 - 1\. da scumandar ina violaziun smanatschanta;
 - 2\. d’eliminar ina violaziun existenta;
@@ -418,17 +418,17 @@ L’accusader po dumandar il derschader:
 
 <sup>1</sup>
 
-Per la protecziun cunter violenza, cunter smanatschas u cunter persecuziuns po la persuna che porta plant dumandar il derschader da scumandar a la persuna che violescha, en spezial:
+Per la protecziun cunter violenza, cunter smanatschas u cunter persecuziuns po la persuna che porta plant dumandar la dretgira da scumandar a la persuna che violescha, en spezial:
 
 - 1\. da s’approximar u da sa trategnair en in tschert conturn da sia abitaziun;
 - 2\. da sa trategnair en tscherts lieus, en spezial en tschertas vias, sin tschertas plazzas u en tscherts quartiers;
 - 3\. da la contactar, en spezial per telefon, en scrit u sin via electronica, ubain da la mulestar en in’autra moda e maniera.
 
-<sup>2</sup> Sche la persuna che porta plant viva en in’abitaziun ensemen cun la persuna che violescha, po ella ultra da quai dumandar il derschader da metter per in tschert temp davant porta la persuna che violescha. Per motivs relevants po quest termin vegnir prolungà ina giada.
+<sup>2</sup> Sche la persuna che porta plant viva en in’abitaziun ensemen cun la persuna che violescha, po ella ultra da quai dumandar la dretgira da metter per in tschert temp davant porta la persuna che violescha. Per motivs relevants po quest termin vegnir prolungà ina giada.
 
 <sup>3</sup>
 
-Il derschader po, uschenavant che quai para giustifitgabel tenor las circumstanzas:
+La dretgira po, uschenavant che quai para giustifitgabel tenor las circumstanzas:
 
 - 1\. adossar a la persuna che violescha ina indemnisaziun adequata a favur da la persuna che porta plant per l’utilisaziun exclusiva da l’abitaziun; u
 - 2\. transferir ils dretgs e las obligaziuns che resultan dal contract da locaziun cun il consentiment dal locatur mo a la persuna che porta plant.
@@ -440,13 +440,29 @@ Il derschader po, uschenavant che quai para giustifitgabel tenor las circumstanz
 [^28b-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1983 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)), versiun tenor la cifra I da la LF dals 23 da zer. 2006 (protecziun da la persunalitad cunter violenza, cunter smanatschas u cunter persecuziuns), en vigur dapi il 1. da fan. 2007 ([AS 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [BBl 2005 6871](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6897](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
 [^28b-2]: Integrà tras la cifra I 1 da la LF dals 14 da dec. 2018 davart la meglieraziun da la protecziun da victimas da violenza, en vigur dapi il 1. da fan. 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
-### 3. ...
+### c. Surveglianza electronica
 
-#### Art. 28c–28f
+#### Art. 28c
 
-[^28c28f-1]
+[^28c-1]
 
-[^28c28f-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1983 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Abolì tras la cifra II 3 da l’agiunta 1 da la Procedura civila dals 19 da dec. 2008, cun effect dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+<sup>1</sup> La dretgira che ordinescha in scumond tenor la disposiziun davart violenza, smanatschas u persecuziuns sco er la dretgira d’execuziun pon ordinar – sin dumonda da la persuna che porta plant – l’applicaziun d’in indriz electronic ch’è collià fixamain cun la persuna che violescha e che permetta d’eruir e da registrar cuntinuadamain ses lieu da dimora.
+
+<sup>2</sup> La mesira po vegnir ordinada per maximalmain 6 mais. Ella po vegnir prolungada mintgamai per maximalmain 6 mais. Preventivamain po la mesira vegnir ordinada per maximalmain 6 mais.
+
+<sup>3</sup> Ils chantuns designeschan in post ch’è cumpetent per l’execuziun da la mesira e reglan la procedura d’execuziun. Els procuran che las datas registradas davart las persunas pertutgadas vegnian duvradas mo per exequir il scumond e vegnian stizzadas il pli tard 12 mais suenter la terminaziun da la mesira.
+
+<sup>4</sup> Per la persuna che porta plant na dastgan resultar nagins custs tras l’execuziun da la mesira. Ils custs da la mesira pon vegnir adossads a la persuna survegliada.
+
+[^28c-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1983 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Versiun tenor la cifra I 1 da la LF dals 14 da dec. 2018 davart la meglieraziun da la protecziun da victimas da violenza, en vigur dapi il 1. da schan. 2022 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+
+### 3. …
+
+#### Art. 28d–28f
+
+[^28d28f-1]
+
+[^28d28f-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1983 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)). Abolì tras la cifra II 3 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, cun effect dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 4. Dretg da replica
 
@@ -504,13 +520,13 @@ Il derschader po, uschenavant che quai para giustifitgabel tenor las circumstanz
 
 [^28k-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1983, en vigur dapi il 1. da fan. 1985 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 
-### e. Appellaziun al derschader
+### e. Appellaziun a la dretgira
 
 #### Art. 28l
 
 [^28l-1]
 
-<sup>1</sup> Sche l’interpresa dal med da communicaziun responsabla impedescha l’execuziun dal dretg da far ina replica, sch’ella refusa da publitgar la replica u sch’ella na publitgescha betg en moda correcta la replica, po la persuna pertutgada appellar al derschader.
+<sup>1</sup> Sche l’interpresa dal med da communicaziun responsabla impedescha l’execuziun dal dretg da far ina replica, sch’ella refusa da publitgar la replica u sch’ella na publitgescha betg en moda correcta la replica, po la persuna pertutgada appellar a la dretgira.
 
 <sup>2</sup> ...[^28l-2]
 
@@ -544,7 +560,7 @@ Il derschader po, uschenavant che quai para giustifitgabel tenor las circumstanz
 
 <sup>2</sup> ...[^30-2]
 
-<sup>3</sup> Tgi che vegn violà tras ina midada dal num po – entaifer 1 onn suenter avair prendì enconuschientscha da tala – contestar quella davant il derschader.
+<sup>3</sup> Tgi che vegn violà tras ina midada dal num po – entaifer 1 onn suenter avair prendì enconuschientscha da tala – contestar quella davant dretgira.
 
 [^30-1]: Versiun tenor la cifra I da la LF dals 30 da sett. 2011 (num e dretg da burgais), en vigur dapi il 1. da schan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
 [^30-2]: Abolì tras la cifra I da la LF dals 30 da sett. 2011 (num e dretg da burgais), cun effect dapi il 1. da schan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
@@ -558,6 +574,28 @@ Il derschader po, uschenavant che quai para giustifitgabel tenor las circumstanz
 Sch’in consort mora, po l’auter consort, che ha midà ses num a chaschun da la maridaglia, declerar da tut temp al funcziunari da stadi civil ch’el veglia puspè purtar ses num da nubil.
 
 [^30a-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2011 (num e dretg da burgais), en vigur dapi il 1. da schan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+
+### IV. Areguard la schlattaina
+
+#### Art. 30b
+
+[^30b-1]
+
+<sup>1</sup> Mintga persuna che ha la ferma persvasiun interna da betg appartegnair a la schlattaina inscritta en il register da stadi civil po declerar envers il funcziunari da stadi civil ch’ella veglia laschar midar l’inscripziun.
+
+<sup>2</sup> La persuna che fa la decleraziun po laschar inscriver in u plirs novs prenums en il register da stadi civil.
+
+<sup>3</sup> La decleraziun n’ha naginas consequenzas per las relaziuns dal dretg da famiglia.
+
+<sup>4</sup>
+
+Il consentiment dal represchentant legal è necessari, sche:
+
+- 1\. la persuna che fa la decleraziun n’ha anc betg cumplenì 16 onns;
+- 2\. la persuna che fa la decleraziun stat sut curatella cumplessiva; u
+- 3\. l’autoritad per la protecziun da creschids ha ordinà quai.
+
+[^30b-1]: Integrà tras la cifra I da la LF dals 18 da dec. 2020 (midada da la schlattaina en il register da stadi civil), en vigur dapi il 1. da schan. 2022 ([AS 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [BBl 2020 799](https://fedlex.data.admin.ch/eli/fga/2020/129)).
 
 ### C. Cumenzament e fin da la persunalitad
 
@@ -601,7 +639,7 @@ La mort d’ina persuna po – er sche nagin n’ha vis la bara – vegnir resgu
 
 #### Art. 35
 
-<sup>1</sup> Sch’ina persuna è probablamain morta, essend sparida en grond privel da mort u essend absenta daditg senza messadi, po il derschader – sin dumonda da quellas persunas che fan valair dretgs da la mort da la persuna sparida – declerar la persuna sco sparida.
+<sup>1</sup> Sch’ina persuna è probablamain morta, essend sparida en grond privel da mort u essend absenta daditg senza messadi, po la dretgira – sin dumonda da quellas persunas che fan valair dretgs da la mort da la persuna sparida – declerar la persuna sco sparida.
 
 <sup>2</sup> ...[^35-1]
 
@@ -613,7 +651,7 @@ La mort d’ina persuna po – er sche nagin n’ha vis la bara – vegnir resgu
 
 <sup>1</sup> La dumonda po vegnir fatga suenter la scadenza d’almain 1 onn dapi che la persuna è sparida en privel da mort u da 5 onns suenter l’ultim messadi.
 
-<sup>2</sup> Cun in appel uffizial ed adequat envida il derschader tuts che pon far indicaziuns davart la persuna sparida u absenta da s’annunziar entaifer in tschert termin fixà.
+<sup>2</sup> Cun in appel uffizial ed adequat envida la dretgira tuts che pon far indicaziuns davart la persuna sparida u absenta da s’annunziar entaifer in tschert termin fixà.
 
 <sup>3</sup> Quest termin sto vegnir fixà ad almain 1 onn dapi l’emprima publicaziun.
 
@@ -689,11 +727,11 @@ Tar il stadi civil d’ina persuna tutgan oravant tut:
 
 ### IV. Repassada
 
-### 1. Tras il derschader
+### 1. Tras la dretgira
 
 #### Art. 42
 
-<sup>1</sup> Tgi che cumprova in interess persunal ch’è degn da vegnir protegì, po dumandar il derschader da registrar indicaziuns dispitaivlas davart il stadi civil, da curreger u d’annullar ina registraziun. Il derschader taidla las autoritads chantunalas da surveglianza pertutgadas e las trametta la sentenzia.
+<sup>1</sup> Tgi che cumprova in interess persunal ch’è degn da vegnir protegì, po dumandar la dretgira da registrar indicaziuns dispitaivlas davart il stadi civil, da curreger u d’annullar ina registraziun. La dretgira taidla las autoritads chantunalas da surveglianza pertutgadas e las trametta la sentenzia.
 
 <sup>2</sup> Las autoritads chantunalas da surveglianza han er il dretg da purtar plant.
 
@@ -849,9 +887,9 @@ En cooperaziun cun ils chantuns regla il Cussegl federal:
 El regla cunzunt:
 
 - 1\. ils registers che ston vegnir manads e las indicaziuns che ston vegnir inscrittas;
-- 2\. il diever dal numer d’assicuranza tenor l’artitgel 50*c* da la Lescha federala dals 20 da december 1946[^48-1] davart l’assicuranza per vegls e survivents per barattar en furma electronica las datas tranter ils registers uffizials da persunas;
+- 2\. il diever dal numer da la AVS[^48-1] tenor l’artitgel 50*c* da la Lescha federala dals 20 da december 1946[^48-2] davart l’assicuranza per vegls e survivents per barattar en furma electronica las datas tranter ils registers uffizials da persunas;
 - 3\. l’administraziun dal register;
-- 4\. la surveglianza.[^48-2]
+- 4\. la surveglianza.[^48-3]
 
 <sup>3</sup> Per garantir in’execuziun fidada e professiunala po il Cussegl federal decretar pretensiuns minimalas a la scolaziun ed a la furmaziun supplementara da las persunas che lavuran en il sectur dal stadi civil sco er al grad d’occupaziun dals funcziunaris da stadi civil.
 
@@ -863,11 +901,12 @@ El determinescha las premissas, tenor las qualas igl è admess, sin via electron
 
 - 1\. annunziar cas da stadi civil;
 - 2\. far decleraziuns davart il stadi civil;
-- 3\. trametter communicaziuns ed extracts dal register.[^48-3]
+- 3\. trametter communicaziuns ed extracts dal register.[^48-4]
 
-[^48-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^48-2]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 23 da zer. 2006 davart l’armonisaziun dals registers, en vigur dapi il 1. da schan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
-[^48-3]: Integrà tras la cifra I da la LF dals 5 d’oct. 2001 (administraziun electronica dal register da stadi civil), en vigur dapi il 1. da fan. 2004 ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)).
+[^48-1]: Expressiun tenor la cifra 2 da l’agiunta da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
+[^48-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^48-3]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 23 da zer. 2006 davart l’armonisaziun dals registers, en vigur dapi il 1. da schan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
+[^48-4]: Integrà tras la cifra I da la LF dals 5 d’oct. 2001 (administraziun electronica dal register da stadi civil), en vigur dapi il 1. da fan. 2004 ([AS 2004 2911](https://fedlex.data.admin.ch/eli/oc/2004/361); [BBl 2001 1639](https://fedlex.data.admin.ch/eli/fga/2001/407)).
 
 ### II. Dretg chantunal
 
@@ -1113,13 +1152,13 @@ L’uniun sto laschar far in post da revisiun ina controlla ordinaria da sia con
 
 [^69c-1]
 
-<sup>1</sup> Sch’ina uniun n’ha betg tut ils organs prescrits u n’ha betg pli in domicil legal a sia sedia, po in commember u in creditur dumandar il derschader da prender las mesiras necessarias.[^69c-2]
+<sup>1</sup> Sch’ina uniun n’ha betg tut ils organs prescrits u n’ha betg pli in domicil legal a sia sedia, po in commember u in creditur dumandar la dretgira da prender las mesiras necessarias.[^69c-2]
 
-<sup>2</sup> Il derschader po en spezial fixar a l’uniun in termin per restabilir il stadi legal e – sche necessari – nominar in curatur.
+<sup>2</sup> La dretgira po en spezial fixar a l’uniun in termin per restabilir il stadi legal e – sche necessari – nominar in curatur.
 
-<sup>3</sup> L’uniun surpiglia ils custs da questas mesiras. Il derschader po obligar l’uniun da pajar ina provisiun a las persunas nominadas.
+<sup>3</sup> L’uniun surpiglia ils custs da questas mesiras. La dretgira po obligar l’uniun da pajar ina provisiun a las persunas nominadas.
 
-<sup>4</sup> En cas da motivs relevants po l’uniun pretender dal derschader ch’el revocheschia persunas ch’el ha nominà.
+<sup>4</sup> En cas da motivs relevants po l’uniun pretender da la dretgira ch’ella revocheschia persunas ch’ella ha nominà.
 
 [^69c-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^69c-2]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
@@ -1152,7 +1191,7 @@ Contribuziuns pon vegnir pretendidas dals commembers, sch’ils statuts prevesan
 
 <sup>1</sup> Ils statuts pon fixar ils motivs per excluder in commember; els pon permetter l’exclusiun er senza inditgar ils motivs.
 
-<sup>2</sup> En quests cas na po l’exclusiun betg vegnir contestada davant il derschader pervia dals motivs d’exclusiun.
+<sup>2</sup> En quests cas na po l’exclusiun betg vegnir contestada davant la dretgira pervia dals motivs d’exclusiun.
 
 <sup>3</sup> Sch’ils statuts na cuntegnan naginas disposiziuns en quest reguard, dastga in commember vegnir exclus mo tras in conclus da l’uniun e per motivs relevants.
 
@@ -1174,7 +1213,7 @@ Nagin commember na po vegnir sfurzà d’acceptar ina midada da l’intent da l�
 
 #### Art. 75
 
-Mintga commember che n’ha betg approvà conclus che violeschan la lescha u ils statuts po – tenor la lescha ed entaifer 1 mais suenter ch’el ha survegnì enconuschientscha da tals – contestar quels davant il derschader.
+Mintga commember che n’ha betg approvà conclus che violeschan la lescha u ils statuts po – tenor la lescha ed entaifer 1 mais suenter ch’el ha survegnì enconuschientscha da tals – contestar quels davant dretgira.
 
 ### C<sup>bis</sup>. Responsabladad
 
@@ -1206,13 +1245,13 @@ L’uniun vegn dissolvida tenor la lescha, sch’ella è insolventa u sche la su
 
 #### Art. 78
 
-L’uniun vegn dissolvida tras il derschader sin basa d’in plant da l’autoritad cumpetenta u d’ina persuna participada, sche l’intent da l’uniun è immoral u illegal.
+L’uniun vegn dissolvida tras la dretgira sin basa d’in plant da l’autoritad cumpetenta u d’ina persuna participada, sche l’intent da l’uniun è immoral u illegal.
 
 ### II. Extincziun da l’inscripziun en il register
 
 #### Art. 79
 
-Sche l’uniun è inscritta en il register da commerzi, ha la suprastanza u il derschader da communitgar la dissoluziun al manader dal register, per che quel extinguia l’inscripziun.
+Sche l’uniun è inscritta en il register da commerzi, ha la suprastanza u la dretgira da communitgar la dissoluziun al manader dal register, per che quel extinguia l’inscripziun.
 
 ### Terz chapitel: Las fundaziuns
 
@@ -1416,7 +1455,7 @@ Suenter avair tadlà l’organ suprem da la fundaziun po l’autoritad da surveg
 
 <sup>1bis</sup> Ellas èn deliberadas da l’obligaziun da designar in post da revisiun.[^87-1]
 
-<sup>2</sup> Davart dispitas da dretg privat decida il derschader.
+<sup>2</sup> Davart dispitas da dretg privat decida la dretgira.
 
 [^87-1]: Integrà tras la cifra I da la LF dals 8 d’oct. 2004 (dretg da fundaziuns), en vigur dapi il 1. da schan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
@@ -1435,7 +1474,7 @@ L’autoritad federala u chantunala cumpetenta dissolva la fundaziun sin dumonda
 - 1\. l’intent da la fundaziun è daventà nuncuntanschibel e la fundaziun na po betg vegnir mantegnida tras ina midada dal document da fundaziun; u
 - 2\. l’intent da la fundaziun è daventà illegal u immoral.
 
-<sup>2</sup> Fundaziuns da famiglia e fundaziuns ecclesiasticas vegnan dissolvidas dal derschader.
+<sup>2</sup> Fundaziuns da famiglia e fundaziuns ecclesiasticas vegnan dissolvidas da la dretgira.
 
 [^88-1]: Versiun tenor la cifra I da la LF dals 8 d’oct. 2004 (dretg da fundaziuns), en vigur dapi il 1. da schan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
@@ -1469,7 +1508,7 @@ L’autoritad federala u chantunala cumpetenta dissolva la fundaziun sin dumonda
 
 <sup>4</sup> ...[^89a-5]
 
-<sup>5</sup> Ils benefiziaris pon pretender davant il derschader da survegnir las prestaziuns da la fundaziun, sch’els han pajà contribuziuns a la fundaziun u sch’els han il dretg da survegnir prestaziuns tenor las disposiziuns da la fundaziun.
+<sup>5</sup> Ils benefiziaris pon pretender davant la dretgira da survegnir las prestaziuns da la fundaziun, sch’els han pajà contribuziuns a la fundaziun u sch’els han il dretg da survegnir prestaziuns tenor las disposiziuns da la fundaziun.
 
 <sup>6</sup>
 
@@ -1481,18 +1520,19 @@ Per fundaziuns per il provediment dal persunal, ch’èn activas sin il champ da
 - 3*a*.[^89a-11] l’adattaziun da la renta d’invaliditad suenter la cumpensaziun dal provediment professiunal (art. 24 al. 5),
 - 3*b*.[^89a-12] la cuntinuaziun provisorica da l’assicuranza ed il mantegniment dal dretg da prestaziuns en cas che la renta da l’assicuranza d’invaliditad vegn reducida u abolida (art. 26*a*),
 - 4*a*.[^89a-13] il consentiment en cas d’ina cumpensaziun en chapital (art. 37*a*),
-- 4\.[^89a-14] l’adattaziun da las prestaziuns reglamentaras al svilup dals pretschs (art. 36 al. 2–4),
+- 4*b*.[^89a-14] las mesiras en cas che l’obligaziun da mantegniment vegn negligida (art. 40),
+- 4\.[^89a-15] l’adattaziun da las prestaziuns reglamentaras al svilup dals pretschs (art. 36 al. 2–4),
 - 5\. la surannaziun da dretgs e la conservaziun da documents da provediment (art. 41),
-- 5*a*.[^89a-15] l’utilisaziun, l’elavuraziun e la communicaziun dal numer da l’assicuranza per vegls e survivents (art. 48 al. 4, art. 85*a* lit. f ed art. 86*a* al. 2 lit. b<sup>bis</sup>),
+- 5*a*.[^89a-16] l’utilisaziun, l’elavuraziun e la communicaziun dal numer da la AVS (art. 48 al. 4, art. 85*a* lit. f ed art. 86*a* al. 2 lit. b<sup>bis</sup>),
 - 6\. la responsabladad (art. 52),
-- 7\.[^89a-16] l’admissiun e las incumbensas dals organs da controlla (art. 52a–52e),
-- 8\.[^89a-17] l’integritad e la loialitad da las persunas responsablas, ils acts giuridics cun persunas da confidenza ed ils conflicts d’interess (art. 51b, 51c e 53a),
+- 7\.[^89a-17] l’admissiun e las incumbensas dals organs da controlla (art. 52a–52e),
+- 8\.[^89a-18] l’integritad e la loialitad da las persunas responsablas, ils acts giuridics cun persunas da confidenza ed ils conflicts d’interess (art. 51b, 51c e 53a),
 - 9\. la liquidaziun parziala u totala (art. 53*b*–53*d*),
-- 10\.[^89a-18] l’annullaziun da contracts (art. 53*e* e 53*f*),
+- 10\.[^89a-19] l’annullaziun da contracts (art. 53*e* e 53*f*),
 - 11\. il fond da garanzia (art. 56 al. 1 lit. c ed al. 2–5, art. 56*a*, 57 e 59),
-- 12\.[^89a-19] la surveglianza e la surveglianza suprema (art. 61–62*a* e 64–64*c*),
-- [tab] 13.[^89a-20] ...
-- 14\.[^89a-21] la segirezza finanziala (art. 65 al. 1, 3 e 4, art. 66 al. 4, art. 67 ed art. 72*a*–72*g*),
+- 12\.[^89a-20] la surveglianza e la surveglianza suprema (art. 61–62*a* e 64–64*c*),
+- [tab] 13.[^89a-21] ...
+- 14\.[^89a-22] la segirezza finanziala (art. 65 al. 1, 3 e 4, art. 66 al. 4, art. 67 ed art. 72*a*–72*g*),
 - 15\. la transparenza (art. 65*a*),
 - 16\. las reservas (art. 65*b*),
 - 17\. ils contracts d’assicuranza tranter las instituziuns da provediment e las instituziuns d’assicuranza (art. 68 al. 3 e 4),
@@ -1501,7 +1541,7 @@ Per fundaziuns per il provediment dal persunal, ch’èn activas sin il champ da
 - 20\. las disposiziuns penalas (art. 75–79),
 - 21\. il sa cumprar en (art. 79*b*),
 - 22\. il salari assicurabel e las entradas assicurablas (art. 79*c*),
-- 23\. l’infurmaziun da las persunas assicuradas (art. 86*b*).[^89a-22]
+- 23\. l’infurmaziun da las persunas assicuradas (art. 86*b*).[^89a-23]
 
 <sup>7</sup>
 
@@ -1516,7 +1556,7 @@ Per fundaziuns per il provediment dal persunal, ch’èn activas sin il champ da
 - 7\. la surveglianza e la surveglianza suprema (art. 61–62*a* e 64–64*b*);
 - 8\. la giurisdicziun (art 73 e 74);
 - 9\. las disposiziuns penalas (art. 75–79);
-- 10\. il tractament fiscal (art. 80, 81 al. 1 ed 83).[^89a-23]
+- 10\. il tractament fiscal (art. 80, 81 al. 1 ed 83).[^89a-24]
 
 <sup>8</sup>
 
@@ -1524,7 +1564,7 @@ Per las fundaziuns per il provediment dal persunal tenor l’alinea 7 valan plin
 
 - 1\. ellas administreschan lur facultad en ina moda che garantescha per segirezza, per in retgav suffizient sin las investiziuns e per ils meds liquids necessaris per ademplir lur incumbensas;
 - 2\. davart la liquidaziun parziala da fonds da provediment da patruns cun prestaziuns a discreziun dispona l’autoritad da surveglianza sin dumonda dal cussegl da fundaziun;
-- 3\. ellas tegnan quint, tenor il senn, dals princips dal tractament egual e da l’adequatezza.[^89a-24]
+- 3\. ellas tegnan quint, tenor il senn, dals princips dal tractament egual e da l’adequatezza.[^89a-25]
 
 [^89a-1]: Integrà tras la cifra II da la LF dals 21 da mars 1958, en vigur dapi il 1. da fan. 1958 ([AS 1958 379](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [BBl 1956 II 825](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)). Fin a l’entrada en vigur da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants) il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): art. 89<sup>bis</sup>*.*
 [^89a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1539,17 +1579,18 @@ Per las fundaziuns per il provediment dal persunal tenor l’alinea 7 valan plin
 [^89a-11]: Integrà tras la cifra 2 da l’agiunta da la LF dals 18 da mars 2011 (6. revisiun da la AI, emprim pachet da mesiras) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)). Versiun tenor la cifra I da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^89a-12]: Integrà tras la cifra I da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^89a-13]: Integrà tras la cifra I da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^89a-14]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^89a-15]: Integrà tras la cifra 1 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer da l’AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^89a-16]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010 (refurma structurala da la LPP), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-14]: Integrà tras la cifra I da la LF dals 20 da mars 2015 (mantegniment dals uffants), en vigur dapi il 1. da schan. 2022 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728), [2020 5](https://fedlex.data.admin.ch/eli/oc/2020/3); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^89a-15]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
+[^89a-16]: Integrà tras la cifra 1 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^89a-17]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010 (refurma structurala da la LPP), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-18]: Versiun tenor la cifra II da la LF dals 20 da dec. 2006 (midada da l’instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
-[^89a-19]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010 (refurma structurala da la LPP), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-20]: Abolì tras la cifra II 1 da la LF dals 19 da mars 2010 (refurma structurala da la LPP), cun effect dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
-[^89a-21]: Versiun tenor la cifra II 1 da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-22]: Integrà tras la cifra 1 da l’agiunta da la LF dals 25 da zer. 1982 davart il provediment professiunal per vegls, survivents ed invaliditad ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), cifras 6, 7, 10–12, 14 (cun excepziun da l’art. 66 al. 4), 15, 17–20 e 23 en vigur dapi il 1. d’avr. 2004, cifras 3–5, 8, 9, 13, 14 (art. 66 al. 4) e 16 en vigur dapi il 1. da schan. 2005, cifras 1, 21 e 22 en vigur dapi il 1. da schan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^89a-23]: Integrà tras la cifra I da la LF dals 25 da sett. 2015 (fundaziuns per il provediment dal persunal), en vigur dapi il 1. d’avr. 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-18]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010 (refurma structurala da la LPP), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-19]: Versiun tenor la cifra II da la LF dals 20 da dec. 2006 (midada da l’instituziun da provediment), en vigur dapi il 1. da matg 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
+[^89a-20]: Versiun tenor la cifra II 1 da la LF dals 19 da mars 2010 (refurma structurala da la LPP), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-21]: Abolì tras la cifra II 1 da la LF dals 19 da mars 2010 (refurma structurala da la LPP), cun effect dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
+[^89a-22]: Versiun tenor la cifra II 1 da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^89a-23]: Integrà tras la cifra 1 da l’agiunta da la LF dals 25 da zer. 1982 davart il provediment professiunal per vegls, survivents ed invaliditad ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Versiun tenor la cifra 1 da l’agiunta da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), cifras 6, 7, 10–12, 14 (cun excepziun da l’art. 66 al. 4), 15, 17–20 e 23 en vigur dapi il 1. d’avr. 2004, cifras 3–5, 8, 9, 13, 14 (art. 66 al. 4) e 16 en vigur dapi il 1. da schan. 2005, cifras 1, 21 e 22 en vigur dapi il 1. da schan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^89a-24]: Integrà tras la cifra I da la LF dals 25 da sett. 2015 (fundaziuns per il provediment dal persunal), en vigur dapi il 1. d’avr. 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-25]: Integrà tras la cifra I da la LF dals 25 da sett. 2015 (fundaziuns per il provediment dal persunal), en vigur dapi il 1. d’avr. 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
 ### Segund titel<sup>bis</sup>:******** Las facultads collectadas
 
@@ -1826,7 +1867,7 @@ In consort po pretender che la lètg vegnia declerada sco nunvalaivla, sch’el:
 
 #### Art. 109
 
-<sup>1</sup> Ina lètg daventa nunvalaivla pir suenter ch’il derschader ha pronunzià la decleraziun da nunvalaivladad; fin che questa sentenzia n’è betg pronunziada, ha la lètg – cun excepziun da las pretensiuns dal dretg d’ierta ch’il consort survivent perda en mintga cas – tut ils effects d’ina lètg valaivla.
+<sup>1</sup> Ina lètg daventa nunvalaivla pir suenter che la dretgira ha pronunzià la decleraziun da nunvalaivladad; fin che questa sentenzia n’è betg pronunziada, ha la lètg – cun excepziun da las pretensiuns dal dretg d’ierta ch’il consort survivent perda en mintga cas – tut ils effects d’ina lètg valaivla.
 
 <sup>2</sup> Per las consequenzas da la decleraziun da nunvalaivladad giudiziala per ils consorts e per ils uffants valan tenor il senn las disposiziuns davart il divorzi.
 
@@ -1856,9 +1897,9 @@ In consort po pretender che la lètg vegnia declerada sco nunvalaivla, sch’el:
 
 [^111-1]
 
-<sup>1</sup> Sch’ils consorts dumondan cuminaivlamain il divorzi e sch’els inoltreschan ina cunvegna cumpletta davart las consequenzas dal divorzi, inclusiv ils mussaments necessaris e lur propostas cuminaivlas concernent ils uffants, als taidla il derschader separadamain ed ensemen. L’audiziun po cumpigliar pliras sesidas.
+<sup>1</sup> Sch’ils consorts dumondan cuminaivlamain il divorzi e sch’els inoltreschan ina cunvegna cumpletta davart las consequenzas dal divorzi, inclusiv ils mussaments necessaris e lur propostas cuminaivlas concernent ils uffants, als taidla la dretgira separadamain ed ensemen. L’audiziun po cumpigliar pliras sesidas.
 
-<sup>2</sup> Sch’il derschader è sa persvadì ch’els hajan inoltrà la dumonda da divorzi e fatg ina cunvegna da libra voluntad e suenter madira reflexiun e che la cunvegna cun lur propostas concernent ils uffants possia vegnir approvada, pronunzia il derschader il divorzi.
+<sup>2</sup> Sche la dretgira è sa persvadida ch’els hajan inoltrà la dumonda da divorzi e fatg ina cunvegna da libra voluntad e suenter madira reflexiun e che la cunvegna cun lur propostas concernent ils uffants possia vegnir approvada, pronunzia la dretgira il divorzi.
 
 [^111-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2009 (temp da reflexiun en la procedura da divorzi sin dumonda cuminaivla), en vigur dapi il 1. da favr. 2010 ([AS 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37); [BBl 2008 1959](https://fedlex.data.admin.ch/eli/fga/2008/445)[1975](https://fedlex.data.admin.ch/eli/fga/2008/447)).
 
@@ -1866,9 +1907,9 @@ In consort po pretender che la lètg vegnia declerada sco nunvalaivla, sch’el:
 
 #### Art. 112
 
-<sup>1</sup> Ils consorts pon dumandar cuminaivlamain il divorzi e declerar ch’els laschian giuditgar il derschader las consequenzas dal divorzi, tar las qualas els n’èn betg perina.
+<sup>1</sup> Ils consorts pon dumandar cuminaivlamain il divorzi e declerar ch’els laschian giuditgar la dretgira las consequenzas dal divorzi, tar las qualas els n’èn betg perina.
 
-<sup>2</sup> Il derschader als taidla – sco tar la cunvegna cumpletta – davart la dumonda da divorzi, davart las consequenzas dal divorzi, tar las qualas els èn perina, sco er davart la decleraziun da laschar giuditgar il derschader las ulteriuras consequenzas.
+<sup>2</sup> La dretgira als taidla – sco tar la cunvegna cumpletta – davart la dumonda da divorzi, davart las consequenzas dal divorzi, tar las qualas els èn perina, sco er davart la decleraziun da laschar giuditgar la dretgira las ulteriuras consequenzas.
 
 <sup>3</sup> ...[^112-1]
 
@@ -1954,11 +1995,11 @@ Il consort che ha midà ses num a chaschun da la maridaglia salva quest num suen
 
 #### Art. 121
 
-<sup>1</sup> Sch’in consort è dependent da l’abitaziun da la famiglia pervia dals uffants u per auters motivs relevants, po il derschader attribuir ad el sulet ils dretgs e las obligaziuns che resultan tras il contract da locaziun, sche quai po vegnir pretendì raschunaivlamain da l’auter consort.
+<sup>1</sup> Sch’in consort è dependent da l’abitaziun da la famiglia pervia dals uffants u per auters motivs relevants, po la dretgira attribuir ad el sulet ils dretgs e las obligaziuns che resultan tras il contract da locaziun, sche quai po vegnir pretendì raschunaivlamain da l’auter consort.
 
-<sup>2</sup> Il consort che n’è betg pli locatari stat bun solidaricamain per il tschains da locaziun, fin il mument che la relaziun da locaziun finescha u po vegnir terminada tenor contract u tenor lescha, maximalmain dentant durant 2 onns; sch’el vegn cità davant il derschader per pajar il tschains da locaziun, po el scuntrar l’import pajà cun las contribuziuns da mantegniment ch’el debitescha a l’auter consort, e quai en ratas en l’autezza dal tschains da locaziun mensil.
+<sup>2</sup> Il consort che n’è betg pli locatari stat bun solidaricamain per il tschains da locaziun, fin il mument che la relaziun da locaziun finescha u po vegnir terminada tenor contract u tenor lescha, maximalmain dentant durant 2 onns; sch’el vegn cità davant dretgira per pajar il tschains da locaziun, po el scuntrar l’import pajà cun las contribuziuns da mantegniment ch’el debitescha a l’auter consort, e quai en ratas en l’autezza dal tschains da locaziun mensil.
 
-<sup>3</sup> Sche l’abitaziun da la famiglia appartegna ad in consort, po il derschader conceder a l’auter consort – sut las medemas cundiziuns – in dretg d’abitar per ina durada limitada e cunter ina indemnisaziun adequata u tegnend quint da las contribuziuns da mantegniment. Sche novs fatgs relevants pretendan quai, sto il dretg d’abitar vegnir restrenschì u abolì.
+<sup>3</sup> Sche l’abitaziun da la famiglia appartegna ad in consort, po la dretgira conceder a l’auter consort – sut las medemas cundiziuns – in dretg d’abitar per ina durada limitada e cunter ina indemnisaziun adequata u tegnend quint da las contribuziuns da mantegniment. Sche novs fatgs relevants pretendan quai, sto il dretg d’abitar vegnir restrenschì u abolì.
 
 ### D. Provediment professiunal
 
@@ -2008,7 +2049,7 @@ Las pretensiuns dal provediment professiunal ch’èn vegnidas acquistadas duran
 
 [^124a-1]
 
-<sup>1</sup> Sch’in consort retira il mument da l’introducziun da la procedura da divorzi ina renta d’invaliditad suenter la vegliadetgna reglamentarica da renta u ina renta da vegliadetgna, decida il derschader tenor appreziar davart la partiziun da la renta. En quest connex resguarda el en spezial la durada da la lètg ed ils basegns da provediment da tuts dus consorts.
+<sup>1</sup> Sch’in consort retira il mument da l’introducziun da la procedura da divorzi ina renta d’invaliditad suenter la vegliadetgna reglamentarica da renta u ina renta da vegliadetgna, decida la dretgira tenor appreziar davart la partiziun da la renta. En quest connex resguarda ella en spezial la durada da la lètg ed ils basegns da provediment da tuts dus consorts.
 
 <sup>2</sup> La part da la renta che vegn attribuida al consort creditur vegn convertida en ina renta per vita duranta. Quella al vegn pajada da l’instituziun da provediment dal consort debitur u transferida en ses provediment.
 
@@ -2031,12 +2072,12 @@ Il Cussegl federal regla:
 
 <sup>2</sup>
 
-Il derschader conceda al consort creditur main che la mesadad da la prestaziun d’extrada u refusa dal tuttafatg la partiziun, sch’i èn avant maun motivs relevants. In motiv relevant è en spezial avant maun, sche la partiziun mez a mez fiss malgista:
+La dretgira conceda al consort creditur main che la mesadad da la prestaziun d’extrada u refusa dal tuttafatg la partiziun, sch’i èn avant maun motivs relevants. In motiv relevant è en spezial avant maun, sche la partiziun mez a mez fiss malgista:
 
 - 1\. pervia da la liquidaziun dals bains matrimonials u pervia da las relaziuns economicas suenter il divorzi;
 - 2\. pervia dals basegns da provediment, en spezial resguardond la differenza da vegliadetgna tranter ils consorts.
 
-<sup>3</sup> Il derschader po conceder al consort creditur dapli che la mesadad da la prestaziun d’extrada, sche quel ha quità dals uffants cuminaivels suenter il divorzi e sch’il consort debitur dispona er vinavant d’in provediment adequat da vegliadetgna e d’invaliditad.
+<sup>3</sup> La dretgira po conceder al consort creditur dapli che la mesadad da la prestaziun d’extrada, sche quel ha quità dals uffants cuminaivels suenter il divorzi e sch’il consort debitur dispona er vinavant d’in provediment adequat da vegliadetgna e d’invaliditad.
 
 [^124b-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
@@ -2107,11 +2148,11 @@ Excepziunalmain po ina contribuziun vegnir refusada u reducida, sch’ella fiss 
 
 #### Art. 126
 
-<sup>1</sup> Il derschader determinescha la contribuziun da mantegniment en furma d’ina renta e fixescha il termin, a partir dal qual la contribuziun sto vegnir pajada.
+<sup>1</sup> La dretgira determinescha la contribuziun da mantegniment en furma d’ina renta e fixescha il termin, a partir dal qual la contribuziun sto vegnir pajada.
 
 <sup>2</sup> Sche circumstanzas spezialas giustifitgeschan quai, po vegnir fixada er ina indemnisaziun empè d’ina renta.
 
-<sup>3</sup> Il derschader po colliar tschertas cundiziuns cun la contribuziun da mantegniment.
+<sup>3</sup> La dretgira po colliar tschertas cundiziuns cun la contribuziun da mantegniment.
 
 ### III. Renta
 
@@ -2125,7 +2166,7 @@ En la cunvegna pon ils consorts disponer che la renta fixada là na possia betg 
 
 #### Art. 128
 
-Il derschader po ordinar che la contribuziun da mantegniment s’augmentia u sa reduceschia automaticamain en cas da tschertas midadas dals custs da viver.
+La dretgira po ordinar che la contribuziun da mantegniment s’augmentia u sa reduceschia automaticamain en cas da tschertas midadas dals custs da viver.
 
 ### 3. Midada tras sentenzia
 
@@ -2179,9 +2220,9 @@ Il derschader po ordinar che la contribuziun da mantegniment s’augmentia u sa 
 
 #### Art. 132
 
-<sup>1</sup> Sch’il debitur tralascha d’ademplir l’obligaziun da mantegniment, po il derschader avisar ses debiturs da prestar ils pajaments dal tuttafatg u per part a la persuna sustegnida.
+<sup>1</sup> Sch’il debitur tralascha d’ademplir l’obligaziun da mantegniment, po la dretgira avisar ses debiturs da prestar ils pajaments dal tuttafatg u per part a la persuna sustegnida.
 
-<sup>2</sup> Sch’il debitur tralascha persistentamain d’ademplir sia obligaziun da mantegniment u sch’i po vegnir supponì ch’el prendia mesiras per fugir u ch’el sfarlattia u laschia svanir sia facultad, al po il derschader obligar da prestar ina garanzia adequata per las contribuziuns da mantegniment futuras.
+<sup>2</sup> Sch’il debitur tralascha persistentamain d’ademplir sia obligaziun da mantegniment u sch’i po vegnir supponì ch’el prendia mesiras per fugir u ch’el sfarlattia u laschia svanir sia facultad, al po la dretgira obligar da prestar ina garanzia adequata per las contribuziuns da mantegniment futuras.
 
 ### F. Uffants
 
@@ -2193,16 +2234,16 @@ Il derschader po ordinar che la contribuziun da mantegniment s’augmentia u sa 
 
 <sup>1</sup>
 
-Il derschader regla ils dretgs e las obligaziuns dals geniturs tenor las disposiziuns davart ils effects da la relaziun da figlialanza. En spezial regla el:
+La dretgira regla ils dretgs e las obligaziuns dals geniturs tenor las disposiziuns davart ils effects da la relaziun da figlialanza. En spezial regla ella:
 
 - 1\. la tgira genituriala;
 - 2\. la surveglianza da l’uffant;
 - 3\. las relaziuns persunalas (art. 273) u la participaziun da mintga genitur a la tgira da l’uffant; e
 - 4\. la contribuziun da mantegniment.
 
-<sup>2</sup> Il derschader tegna quint da tut las circumstanzas ch’èn relevantas per il bainstar da l’uffant. El resguarda ina proposta cuminaivla dals geniturs ed uschenavant sco pussaivel l’opiniun da l’uffant.
+<sup>2</sup> La dretgira tegna quint da tut las circumstanzas ch’èn relevantas per il bainstar da l’uffant. Ella resguarda ina proposta cuminaivla dals geniturs ed uschenavant sco pussaivel l’opiniun da l’uffant.
 
-<sup>3</sup> El po fixar la contribuziun da mantegniment uschia, ch’ella sto vegnir pajada er suenter che l’uffant ha cuntanschì la maiorennitad.
+<sup>3</sup> Ella po fixar la contribuziun da mantegniment uschia, ch’ella sto vegnir pajada er suenter che l’uffant ha cuntanschì la maiorennitad.
 
 [^133-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013 (tgira genituriala), en vigur dapi il 1. da fan. 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
@@ -2214,9 +2255,9 @@ Il derschader regla ils dretgs e las obligaziuns dals geniturs tenor las disposi
 
 <sup>2</sup> Las premissas per midar ils ulteriurs dretgs e las ulteriuras obligaziuns dals geniturs sa drizzan tenor las disposiziuns davart ils effects da la relaziun da figlialanza.[^134-1]
 
-<sup>3</sup> Sch’ils geniturs èn d’accord, è l’autoritad per la protecziun d’uffants cumpetenta per reglar da nov la tgira genituriala e la surveglianza da l’uffant sco er per approvar in contract da mantegniment. En ils ulteriurs cas decida il derschader ch’è cumpetent per midar la sentenzia da divorzi.[^134-2]
+<sup>3</sup> Sch’ils geniturs èn d’accord, è l’autoritad per la protecziun d’uffants cumpetenta per reglar da nov la tgira genituriala e la surveglianza da l’uffant sco er per approvar in contract da mantegniment. En ils ulteriurs cas decida la dretgira ch’è cumpetenta per midar la sentenzia da divorzi.[^134-2]
 
-<sup>4</sup> Sch’il derschader ha da decider davart la midada da la tgira genituriala, da la surveglianza da l’uffant u da la contribuziun da mantegniment per l’uffant minoren, regla el sche necessari er da nov las relaziuns persunalas u la participaziun da mintga genitur a la tgira da l’uffant; en ils auters cas decida l’autoritad per la protecziun d’uffants davart la midada da las relaziuns persunalas u davart la participaziun da mintga genitur a la tgira da l’uffant.[^134-3]
+<sup>4</sup> Sche la dretgira ha da decider davart la midada da la tgira genituriala, da la surveglianza da l’uffant u da la contribuziun da mantegniment per l’uffant minoren, regla ella sche necessari er da nov las relaziuns persunalas u la participaziun da mintga genitur a la tgira da l’uffant; en ils auters cas decida l’autoritad per la protecziun d’uffants davart la midada da las relaziuns persunalas u davart la participaziun da mintga genitur a la tgira da l’uffant.[^134-3]
 
 [^134-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013 (tgira genituriala), en vigur dapi il 1. da fan. 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 [^134-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013 (tgira genituriala), en vigur dapi il 1. da fan. 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
@@ -2318,7 +2359,7 @@ Ils consorts fixeschan cuminaivlamain l’abitaziun conjugala.
 
 Per ils auters basegns da la famiglia po in consort represchentar la cuminanza conjugala mo:
 
-- 1\. sch’el è vegnì autorisà latiers da l’auter consort u dal derschader;
+- 1\. sch’el è vegnì autorisà latiers da l’auter consort u da la dretgira;
 - 2\. sche l’interess da la cuminanza conjugala na tolerescha nagina suspensiun da l’affar e l’auter consort na po betg dar ses consentiment pervia da malsogna, pervia d’absenza u per motivs sumegliants.
 
 <sup>3</sup> Mintga consort s’oblighescha persunalmain tras ses acts ed el oblighescha solidaricamain er l’auter consort, uschenavant che ses acts na surpassan betg l’autorisaziun da represchentanza en moda vesaivla per terzas persunas.
@@ -2343,7 +2384,7 @@ Mintga consort po concluder acts giuridics cun l’auter u cun terzas persunas, 
 
 <sup>1</sup> Senza il consentiment expressiv da l’auter consort na po in consort ni disdir in contract da locaziun ni vender la chasa u l’abitaziun da la famiglia ni restrenscher ils dretgs vi da quella tras auters acts giuridics.
 
-<sup>2</sup> Sch’il consort na po betg cuntanscher quest consentiment u sche quel al vegn refusà senza in motiv plausibel, po el appellar al derschader.
+<sup>2</sup> Sch’il consort na po betg cuntanscher quest consentiment u sche quel al vegn refusà senza in motiv plausibel, po el appellar a la dretgira.
 
 ### J. Obligaziun da dar infurmaziuns
 
@@ -2351,7 +2392,7 @@ Mintga consort po concluder acts giuridics cun l’auter u cun terzas persunas, 
 
 <sup>1</sup> Mintga consort po pretender da l’auter infurmaziuns davart sias entradas, davart sia facultad e davart ses debits.
 
-<sup>2</sup> Sin dumonda po il derschader obligar l’auter consort u terzas persunas da dar las infurmaziuns necessarias e da preschentar ils documents necessaris.
+<sup>2</sup> Sin dumonda po la dretgira obligar l’auter consort u terzas persunas da dar las infurmaziuns necessarias e da preschentar ils documents necessaris.
 
 <sup>3</sup> Resalvà resta il secret professiunal dals advocats, dals notars, dals medis, dals spirituals e da lur persunas auxiliaras.
 
@@ -2369,11 +2410,11 @@ Ils chantuns procuran ch’ils consorts possian sa drizzar cuminaivlamain u indi
 
 #### Art. 172
 
-<sup>1</sup> Sch’in consort n’ademplescha betg sias obligaziuns vers la famiglia u sch’ils consorts n’èn betg perina en ina chaussa ch’è relevanta per la cuminanza conjugala, pon els appellar cuminaivlamain u individualmain al derschader per ina intermediaziun.
+<sup>1</sup> Sch’in consort n’ademplescha betg sias obligaziuns vers la famiglia u sch’ils consorts n’èn betg perina en ina chaussa ch’è relevanta per la cuminanza conjugala, pon els appellar cuminaivlamain u individualmain a la dretgira per ina intermediaziun.
 
-<sup>2</sup> Il derschader admonescha ils consorts d’ademplir lur obligaziuns ed emprova d’als reconciliar; cun lur consentiment po el consultar experts u recumandar als consorts da sa drizzar ad in post da cussegliaziun per dumondas da lètg e da famiglia.
+<sup>2</sup> La dretgira admonescha ils consorts d’ademplir lur obligaziuns ed emprova d’als reconciliar; cun lur consentiment po ella consultar experts u recumandar als consorts da sa drizzar ad in post da cussegliaziun per dumondas da lètg e da famiglia.
 
-<sup>3</sup> Sin giavisch d’in consort prenda il derschader las mesiras ch’èn previsas da la lescha, sche quai è necessari. La disposiziun davart la protecziun da la persunalitad cunter violenza, cunter smanatschas u cunter persecuziuns è applitgabla tenor il senn.[^172-1]
+<sup>3</sup> Sin giavisch d’in consort prenda la dretgira las mesiras ch’èn previsas da la lescha, sche quai è necessari. La disposiziun davart la protecziun da la persunalitad cunter violenza, cunter smanatschas u cunter persecuziuns è applitgabla tenor il senn.[^172-1]
 
 [^172-1]: Integrà la segunda frasa tras la cifra I da la LF dals 23 da zer. 2006 (protecziun da la persunalitad cunter violenza, cunter smanatschas u cunter persecuziuns), en vigur dapi il 1. da fan. 2007 ([AS 2007 137](https://fedlex.data.admin.ch/eli/oc/2007/32); [BBl 2005 6871](https://fedlex.data.admin.ch/eli/fga/2005/1074)[6897](https://fedlex.data.admin.ch/eli/fga/2005/1076)).
 
@@ -2383,9 +2424,9 @@ Ils chantuns procuran ch’ils consorts possian sa drizzar cuminaivlamain u indi
 
 #### Art. 173
 
-<sup>1</sup> Sin dumonda d’in consort fixescha il derschader las prestaziuns en daners per il mantegniment da la famiglia.
+<sup>1</sup> Sin dumonda d’in consort fixescha la dretgira las prestaziuns en daners per il mantegniment da la famiglia.
 
-<sup>2</sup> Medemamain sin dumonda d’in consort fixescha el l’import per quel consort che fa il tegnairchasa, che tgira ils uffants ubain che gida l’auter en la professiun u en l’interpresa.
+<sup>2</sup> Medemamain sin dumonda d’in consort fixescha ella l’import per quel consort che fa il tegnairchasa, che tgira ils uffants ubain che gida l’auter en la professiun u en l’interpresa.
 
 <sup>3</sup> Questas contribuziuns pon vegnir pretendidas per il futur e per l’onn avant l’inoltraziun da la dumonda.
 
@@ -2393,11 +2434,11 @@ Ils chantuns procuran ch’ils consorts possian sa drizzar cuminaivlamain u indi
 
 #### Art. 174
 
-<sup>1</sup> Sch’in consort surpassa sia autorisaziun per la represchentanza da la cuminanza conjugala u sch’el sa mussa dad esser inabel da l’exequir, po il derschader – sin dumonda da l’auter consort – retrair ad el dal tuttafatg u per part l’autorisaziun da represchentanza.
+<sup>1</sup> Sch’in consort surpassa sia autorisaziun per la represchentanza da la cuminanza conjugala u sch’el sa mussa dad esser inabel da l’exequir, po la dretgira – sin dumonda da l’auter consort – retrair ad el dal tuttafatg u per part l’autorisaziun da represchentanza.
 
 <sup>2</sup> Il consort che fa la dumonda dastga communitgar la retratga a terzas persunas mo cun in avis persunal.
 
-<sup>3</sup> Vers terzas persunas da buna fai vala la retratga mo, sche quella è vegnida publitgada sin ordinaziun dal derschader.
+<sup>3</sup> Vers terzas persunas da buna fai vala la retratga mo, sche quella è vegnida publitgada sin ordinaziun da la dretgira.
 
 ### 3. Schliaziun da la chasada cuminaivla
 
@@ -2413,7 +2454,7 @@ In consort ha il dretg da schliar la chasada cuminaivla per uschè ditg che sia 
 
 <sup>1</sup>
 
-Sche la schliaziun da la chasada cuminaivla è giustifitgada, sto il derschader sin dumonda d’in consort:
+Sche la schliaziun da la chasada cuminaivla è giustifitgada, sto la dretgira sin dumonda d’in consort:
 
 - 1\.[^176-1] fixar las contribuziuns da mantegniment als uffants e la contribuziun da mantegniment al consort;
 - 2\. reglar l’utilisaziun da l’abitaziun e da la rauba da chasa;
@@ -2421,7 +2462,7 @@ Sche la schliaziun da la chasada cuminaivla è giustifitgada, sto il derschader 
 
 <sup>2</sup> Questa dumonda po in consort er far, sche la convivenza è nunpussaivla, en spezial perquai che l’auter la refusa senza motivs.
 
-<sup>3</sup> Sch’ils consorts han uffants minorens, prenda il derschader las mesiras necessarias tenor las disposiziuns davart ils effects da la relaziun da figlialanza.[^176-2]
+<sup>3</sup> Sch’ils consorts han uffants minorens, prenda la dretgira las mesiras necessarias tenor las disposiziuns davart ils effects da la relaziun da figlialanza.[^176-2]
 
 [^176-1]: Versiun tenor la cifra I da la LF dals 20 da mars 2015 (mantegniment dals uffants), en vigur dapi il 1. da schan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 [^176-2]: Versiun tenor la cifra I 2 da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -2446,17 +2487,17 @@ Las disposiziuns davart l’agid d’incasso e davart ils pajaments anticipads e
 
 #### Art. 177
 
-Sch’in consort n’ademplescha betg sia obligaziun da mantegniment vers la famiglia, po il derschader ordinar a ses debiturs da prestar dal tuttafatg u per part lur pajaments a l’auter consort.
+Sch’in consort n’ademplescha betg sia obligaziun da mantegniment vers la famiglia, po la dretgira ordinar a ses debiturs da prestar dal tuttafatg u per part lur pajaments a l’auter consort.
 
 ### 5. Restricziuns da l’autorisaziun da disponer
 
 #### Art. 178
 
-<sup>1</sup> Uschenavant ch’igl è necessari per segirar la basa economica da la famiglia u per ademplir in’obligaziun da facultad or da la cuminanza conjugala, po il derschader – sin dumonda d’in consort – far depender dal consentiment da quest consort l’autorisaziun da disponer da tschertas valurs da facultad.
+<sup>1</sup> Uschenavant ch’igl è necessari per segirar la basa economica da la famiglia u per ademplir in’obligaziun da facultad or da la cuminanza conjugala, po la dretgira – sin dumonda d’in consort – far depender dal consentiment da quest consort l’autorisaziun da disponer da tschertas valurs da facultad.
 
-<sup>2</sup> Il derschader prenda las mesiras segirantas adattadas.
+<sup>2</sup> La dretgira prenda las mesiras segirantas adattadas.
 
-<sup>3</sup> Sch’el scumonda ad in consort da disponer d’in bain immobigliar, lascha el inscriver quai d’uffizi en il register funsil.
+<sup>3</sup> Sch’ella scumonda ad in consort da disponer d’in bain immobigliar, lascha ella inscriver quai d’uffizi en il register funsil.
 
 ### 6. Midada da las relaziuns
 
@@ -2468,7 +2509,7 @@ Sch’in consort n’ademplescha betg sia obligaziun da mantegniment vers la fam
 
 [^179-1]
 
-<sup>1</sup> Sin dumonda d’in consort adatta il derschader las mesiras, sche las relaziuns sa midan, u abolescha las mesiras, sche lur motivs èn crudads davent. Las disposiziuns davart la midada da las relaziuns en cas da divorzi valan tenor il senn.[^179-2]
+<sup>1</sup> Sin dumonda d’in consort adatta la dretgira las mesiras, sche las relaziuns sa midan, u abolescha las mesiras, sche lur motivs èn crudads davent. Las disposiziuns davart la midada da las relaziuns en cas da divorzi valan tenor il senn.[^179-2]
 
 <sup>2</sup> Sch’ils consorts cumenzan danovamain a viver ensemen, crodan davent las mesiras ch’èn vegnidas ordinadas per la vita separada, cun excepziun da la separaziun dals bains e da las mesiras per la protecziun dals uffants.
 
@@ -2529,7 +2570,7 @@ Il contract matrimonial sto vegnir documentà publicamain e vegnir suttascrit da
 
 #### Art. 185
 
-<sup>1</sup> La separaziun dals bains vegn ordinada dal derschader sin dumonda d’in consort, sch’in motiv relevant è avant maun.
+<sup>1</sup> La separaziun dals bains vegn ordinada da la dretgira sin dumonda d’in consort, sch’in motiv relevant è avant maun.
 
 <sup>2</sup>
 
@@ -2557,7 +2598,7 @@ In motiv relevant è avant maun en spezial:
 
 <sup>1</sup> Cun in contract matrimonial pon ils consorts decider da tut temp da reprender l’anteriur urden dals bains u da fixar in auter.
 
-<sup>2</sup> Sch’il motiv per la separaziun dals bains è crudà davent, po il derschader ordinar – sin dumonda d’in consort – che l’anteriur urden dals bains vegnia restabilì.
+<sup>2</sup> Sch’il motiv per la separaziun dals bains è crudà davent, po la dretgira ordinar – sin dumonda d’in consort – che l’anteriur urden dals bains vegnia restabilì.
 
 ### II. En cas da concurs e d’impegnaziun
 
@@ -2573,7 +2614,7 @@ Consorts che han ina cuminanza dals bains vegnan suttamess tenor la lescha a la 
 
 #### Art. 189
 
-Sch’in consort che viva en cuminanza dals bains è vegnì stumà pervia d’ina agen debit e sche sia part dals bains cuminaivels è vegnida impegnada, po l’autoritad da surveglianza en fatgs da scussiun pretender dal derschader d’ordinar la separaziun dals bains.
+Sch’in consort che viva en cuminanza dals bains è vegnì stumà pervia d’ina agen debit e sche sia part dals bains cuminaivels è vegnida impegnada, po l’autoritad da surveglianza en fatgs da scussiun pretender da la dretgira d’ordinar la separaziun dals bains.
 
 ### b. Dumonda
 
@@ -2593,7 +2634,7 @@ Sch’in consort che viva en cuminanza dals bains è vegnì stumà pervia d’in
 
 #### Art. 191
 
-<sup>1</sup> Sch’ils crediturs èn cuntentads, po il derschader ordinar – sin dumonda d’in consort – che l’anteriur stadi dals bains vegnia restabilì.
+<sup>1</sup> Sch’ils crediturs èn cuntentads, po la dretgira ordinar – sin dumonda d’in consort – che l’anteriur stadi dals bains vegnia restabilì.
 
 <sup>2</sup> Cun in contract matrimonial pon ils consorts fixar la participaziun als acquists.
 
@@ -2975,7 +3016,7 @@ Sch’in dals consorts pratitgescha sulet ina professiun u maina sulet ina inter
 
 <sup>1</sup> Senza il consentiment da l’auter na po in consort ni refusar ina ierta che vegniss assegnada als bains cuminaivels ni acceptar ina ierta surchargiada cun debits.
 
-<sup>2</sup> Sch’il consort na po betg cuntanscher quest consentiment u sche quel al vegn refusà senza in motiv plausibel, po el appellar al derschader.[^230-1]
+<sup>2</sup> Sch’il consort na po betg cuntanscher quest consentiment u sche quel al vegn refusà senza in motiv plausibel, po el appellar a la dretgira.[^230-1]
 
 [^230-1]: Versiun tenor la cifra II 3 da l’agiunta 1 da la Procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -3174,7 +3215,7 @@ Sch’ina valur da facultad sa chatta en cumproprietad e sch’in consort cumpro
 
 <sup>1</sup> La relaziun da figlialanza tranter la mamma e l’uffant vegn stabilida cun la naschientscha.
 
-<sup>2</sup> Tranter l’uffant ed il bab vegn ella fundada sin fundament da la lètg da la mamma u tras renconuschientscha ubain constatada tras il derschader.
+<sup>2</sup> Tranter l’uffant ed il bab vegn ella fundada sin fundament da la lètg da la mamma u tras renconuschientscha ubain constatada tras la dretgira.
 
 <sup>3</sup> Ultra da quai vegn la relaziun da figlialanza stabilida tras l’adopziun.
 
@@ -3224,7 +3265,7 @@ Sch’ina valur da facultad sa chatta en cumproprietad e sch’in consort cumpro
 
 <sup>1</sup>
 
-La presumziun da paternitad po vegnir contestada davant il derschader:
+La presumziun da paternitad po vegnir contestada davant dretgira:
 
 - 1\. dal consort;
 - 2\.[^256-2] da l’uffant, sche la chasada cuminaivla dals consorts ha chalà d’exister durant il temp da sia minorennitad.
@@ -3347,7 +3388,7 @@ La renconuschientscha po vegnir contestada:
 
 <sup>2</sup> Sch’il renconuschider è minoren, sch’el stat sut curatella cumplessiva u sche l’autoritad per la protecziun da creschids ha pronunzià in’ordinaziun correspundenta, sto ses represchentant legal dar il consentiment.[^260-2]
 
-<sup>3</sup> La renconuschientscha vegn fatga tras ina decleraziun davant il funcziunari da stadi civil u tras testament u, sch’igl è pendent in plant per constatar la paternitad, davant il derschader.
+<sup>3</sup> La renconuschientscha vegn fatga tras ina decleraziun davant il funcziunari da stadi civil u tras testament u, sch’igl è pendent in plant per constatar la paternitad, davant dretgira.
 
 [^260-1]: Versiun tenor la cifra I 1 da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^260-2]: Versiun tenor la cifra I 2 da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -3360,7 +3401,7 @@ La renconuschientscha po vegnir contestada:
 
 [^260a-1]
 
-<sup>1</sup> Mintgin che ha in interess po contestar la renconuschientscha tar il derschader, en spezial la mamma, l’uffant e suenter sia mort ses descendents sco er la vischnanca d’origin u da domicil dal renconuschider.
+<sup>1</sup> Mintgin che ha in interess po contestar la renconuschientscha davant dretgira, en spezial la mamma, l’uffant e suenter sia mort ses descendents sco er la vischnanca d’origin u da domicil dal renconuschider.
 
 <sup>2</sup> Il renconuschider po purtar quest plant mo, sch’el ha renconuschì l’uffant sut influenza d’ina smanatscha d’in privel grond ed imminent per la vita, per la sanadad, per l’onur u per la facultad da sasez u d’ina persuna che stat datiers ad el u sch’el era en errur concernent sia paternitad.
 
@@ -3407,7 +3448,7 @@ La renconuschientscha po vegnir contestada:
 
 <sup>2</sup> Il plant sa drizza cunter il bab u, sche quel è mort – en questa successiun – cunter ses descendents, cunter ses geniturs u cunter ses fragliuns u, sche tals mancan, cunter l’autoritad cumpetenta da ses ultim domicil.
 
-<sup>3</sup> Sch’il bab è mort, communitgescha il derschader a sia consorta ch’il plant saja vegnì inoltrà, per ch’ella possia defender ses interess.
+<sup>3</sup> Sch’il bab è mort, communitgescha la dretgira a sia consorta ch’il plant saja vegnì inoltrà, per ch’ella possia defender ses interess.
 
 [^261-1]: Versiun tenor la cifra I 1 da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
@@ -3822,7 +3863,7 @@ Avant l’adopziun d’ina persuna maiorenna sto vegnir considerada supplementar
 
 [^269-1]
 
-<sup>1</sup> Sch’il consentiment n’è betg vegnì dumandà senza motivs legals, pon las persunas ch’èn autorisadas da dar il consentiment contestar l’adopziun tar il derschader, uschenavant ch’il bainstar da l’uffant na vegn betg pregiuditgà seriusamain tras quai.
+<sup>1</sup> Sch’il consentiment n’è betg vegnì dumandà senza motivs legals, pon las persunas ch’èn autorisadas da dar il consentiment contestar l’adopziun tar la dretgira, uschenavant ch’il bainstar da l’uffant na vegn betg pregiuditgà seriusamain tras quai.
 
 <sup>2</sup> Ils geniturs n’han dentant betg il dretg da purtar quest plant, sch’els pon recurrer cunter la decisiun tar il Tribunal federal.
 
@@ -3998,7 +4039,7 @@ Ils geniturs ed ils uffants debiteschan vicendaivlamain tut agid, tut resguard e
 
 <sup>1</sup> L’autoritad per la protecziun d’uffants dal lieu da domicil da l’uffant è cumpetenta per ordinar mesiras concernent las relaziuns persunalas; la medema cumpetenza ha l’autoritad per la protecziun d’uffants dal lieu da dimora da l’uffant, sche l’emprima autoritad ha prendì u prenda mesiras per la protecziun da l’uffant.
 
-<sup>2</sup> Sch’il derschader regla la tgira genituriala, la surveglianza dals uffants u la contribuziun da mantegniment tenor las disposiziuns davart il divorzi e davart la protecziun da la cuminanza conjugala, regla el er las relaziuns persunalas.[^275-2]
+<sup>2</sup> Sche la dretgira regla la tgira genituriala, la surveglianza dals uffants u la contribuziun da mantegniment tenor las disposiziuns davart il divorzi e davart la protecziun da la cuminanza conjugala, regla ella er las relaziuns persunalas.[^275-2]
 
 <sup>3</sup> Sch’i n’existan anc naginas ordinaziuns davart il dretg dal bab u da la mamma concernent il mantegniment d’ina relaziun persunala, na po quella betg vegnir pratitgada cunter la voluntad da la persuna che ha il dretg da la pussanza u da la tgira genituriala.
 
@@ -4055,7 +4096,7 @@ Ils geniturs ed ils uffants debiteschan vicendaivlamain tut agid, tut resguard e
 
 <sup>1</sup> L’obligaziun da mantegniment envers l’uffant minoren ha la precedenza envers las autras obligaziuns da mantegniment dal dretg da famiglia.
 
-<sup>2</sup> En cas motivads po il derschader divergiar da questa regla, en spezial per evitar in dischavantatg per l’uffant maioren che ha il dretg da mantegniment.
+<sup>2</sup> En cas motivads po la dretgira divergiar da questa regla, en spezial per evitar in dischavantatg per l’uffant maioren che ha il dretg da mantegniment.
 
 [^276a-1]: Integrà tras la cifra I da la LF dals 20 da mars 2015 (mantegniment dals uffants), en vigur dapi il 1. da schan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
@@ -4124,7 +4165,7 @@ Ils geniturs ed ils uffants debiteschan vicendaivlamain tut agid, tut resguard e
 
 <sup>2</sup> La contribuziun da mantegniment serva er a garantir la tgira da l’uffant tras ils geniturs u tras terzas persunas.
 
-<sup>3</sup> Ella sto vegnir pajada ordavant. Il derschader fixescha ils termins da pajament.
+<sup>3</sup> Ella sto vegnir pajada ordavant. La dretgira fixescha ils termins da pajament.
 
 [^285-1]: Versiun tenor la cifra I da la LF dals 20 da mars 2015 (mantegniment dals uffants), en vigur dapi il 1. da schan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
@@ -4136,7 +4177,7 @@ Ils geniturs ed ils uffants debiteschan vicendaivlamain tut agid, tut resguard e
 
 <sup>1</sup> Supplements da famiglia che vegnan pajads al genitur che ha l’obligaziun da mantegniment, ston vegnir pajads supplementarmain a la contribuziun da mantegniment.
 
-<sup>2</sup> Rentas d’assicuranza sociala e prestaziuns sumegliantas destinadas al mantegniment da l’uffant, che tutgan al genitur che ha l’obligaziun da mantegniment, ston vegnir pajadas supplementarmain a la contribuziun da mantegniment, nun ch’il derschader decidia autramain.
+<sup>2</sup> Rentas d’assicuranza sociala e prestaziuns sumegliantas destinadas al mantegniment da l’uffant, che tutgan al genitur che ha l’obligaziun da mantegniment, ston vegnir pajadas supplementarmain a la contribuziun da mantegniment, nun che la dretgira decidia autramain.
 
 <sup>3</sup> Sch’il genitur che ha l’obligaziun da mantegniment survegn pli tard – pervia da vegliadetgna u pervia d’invaliditad – rentas d’assicuranza sociala u prestaziuns sumegliantas destinadas al mantegniment da l’uffant, che remplazzan las entradas da gudogn, ha el da pajar quests imports a l’uffant; la contribuziun da mantegniment vertenta vegn reducida tenor lescha en la dimensiun da questas novas prestaziuns.
 
@@ -4154,11 +4195,11 @@ Ils geniturs ed ils uffants debiteschan vicendaivlamain tut agid, tut resguard e
 
 [^286-1]
 
-<sup>1</sup> Il derschader po ordinar che la contribuziun da mantegniment vegnia senz’auter augmentada u reducida en cas da tschertas midadas dals basegns da l’uffant u da la capacitad finanziala dals geniturs u dals custs da viver.
+<sup>1</sup> La dretgira po ordinar che la contribuziun da mantegniment vegnia senz’auter augmentada u reducida en cas da tschertas midadas dals basegns da l’uffant u da la capacitad finanziala dals geniturs u dals custs da viver.
 
-<sup>2</sup> En cas che las relaziuns sa midan considerablamain fixescha il derschader danovamain ina contribuziun da mantegniment sin proposta d’in genitur u da l’uffant ubain annullescha quella.
+<sup>2</sup> En cas che las relaziuns sa midan considerablamain fixescha la dretgira danovamain ina contribuziun da mantegniment sin proposta d’in genitur u da l’uffant ubain annullescha quella.
 
-<sup>3</sup> En cas da basegns spezials imprevis da l’uffant po il derschader obligar ils geniturs da pajar ina contribuziun speziala.[^286-2]
+<sup>3</sup> En cas da basegns spezials imprevis da l’uffant po la dretgira obligar ils geniturs da pajar ina contribuziun speziala.[^286-2]
 
 [^286-1]: Versiun tenor la cifra I 1 da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^286-2]: Integrà tras la cifra I 4 da la LF dals 26 da zer. 1998, en vigur dapi il 1. da schan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
@@ -4189,7 +4230,7 @@ Ils geniturs ed ils uffants debiteschan vicendaivlamain tut agid, tut resguard e
 
 <sup>2</sup> Contribuziuns da mantegniment fixadas tras contract pon vegnir midadas, uschenavant che quai n’è betg vegnì exclus cun l’approvaziun tras l’autoritad per la protecziun d’uffants.
 
-<sup>3</sup> Sch’il contract vegn fatg en ina procedura giudiziala, è il derschader cumpetent per l’approvaziun.
+<sup>3</sup> Sch’il contract vegn fatg en ina procedura giudiziala, è la dretgira cumpetenta per l’approvaziun.
 
 [^287-1]: Versiun tenor la cifra I 1 da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
@@ -4224,7 +4265,7 @@ Sch’i vegnan fixadas contribuziuns da mantegniment en il contract da mantegnim
 
 La cunvegna daventa pir obliganta per l’uffant:
 
-- 1\. sch’ella è vegnida approvada da l’autoritad per la protecziun d’uffants u – en cas ch’ella è vegnida concludida en ina procedura giudiziala – dal derschader, e
+- 1\. sch’ella è vegnida approvada da l’autoritad per la protecziun d’uffants u – en cas ch’ella è vegnida concludida en ina procedura giudiziala – da la dretgira, e
 - 2\. sche l’indemnisaziun en daners è vegnida pajada a l’uffizi designà.
 
 [^288-1]: Versiun tenor la cifra I 1 da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
@@ -4237,7 +4278,7 @@ La cunvegna daventa pir obliganta per l’uffant:
 
 [^289-1]
 
-<sup>1</sup> Il dretg sin contribuziuns da mantegniment tutga a l’uffant e vegn ademplì – uscheditg che l’uffant è minoren – cun il pajament al represchentant legal da l’uffant u al titular da la tgira genituriala, nun ch’il derschader decidia autramain.[^289-2]
+<sup>1</sup> Il dretg sin contribuziuns da mantegniment tutga a l’uffant e vegn ademplì – uscheditg che l’uffant è minoren – cun il pajament al represchentant legal da l’uffant u al titular da la tgira genituriala, nun che la dretgira decidia autramain.[^289-2]
 
 <sup>2</sup> Sche la cuminanza publica procura però per il mantegniment da l’uffant, van las contribuziuns da mantegniment cun tuts dretgs a la cuminanza publica.
 
@@ -4264,7 +4305,7 @@ La cunvegna daventa pir obliganta per l’uffant:
 
 [^291-1]
 
-Sch’ils geniturs tralaschan il quità per l’uffant, po il derschader avisar lur debiturs da prestar ils pajaments dal tuttafatg u per part al represchentant legal da l’uffant.
+Sch’ils geniturs tralaschan il quità per l’uffant, po la dretgira avisar lur debiturs da prestar ils pajaments dal tuttafatg u per part al represchentant legal da l’uffant.
 
 [^291-1]: Versiun tenor la cifra I 1 da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
@@ -4274,7 +4315,7 @@ Sch’ils geniturs tralaschan il quità per l’uffant, po il derschader avisar 
 
 [^292-1]
 
-Sch’ils geniturs tralaschan persistentamain d’ademplir lur obligaziun da mantegniment u sch’i po vegnir supponì ch’els prendian mesiras per fugir u ch’els sfarlattian u laschian svanir lur facultad, als po il derschader obligar da prestar ina garanzia adequata per las contribuziuns da mantegniment futuras.
+Sch’ils geniturs tralaschan persistentamain d’ademplir lur obligaziun da mantegniment u sch’i po vegnir supponì ch’els prendian mesiras per fugir u ch’els sfarlattian u laschian svanir lur facultad, als po la dretgira obligar da prestar ina garanzia adequata per las contribuziuns da mantegniment futuras.
 
 [^292-1]: Versiun tenor la cifra I 1 da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
@@ -4316,7 +4357,7 @@ La mamma po purtar plant cunter il bab u cunter ses ertavels fin il pli tard 1 o
 - 2\. dals custs da mantegniment per almain 4 emnas avant ed almain 8 emnas suenter la naschientscha;
 - 3\. d’autras expensas ch’èn daventadas necessarias pervia da la gravidanza u pervia da la pagliola, inclus l’emprima dotaziun da l’uffant.
 
-<sup>2</sup> Er sche la gravidanza va a fin prematuramain, po il derschader – per motivs da giustia – decider che questas indemnisaziuns vegnian restituidas per part u dal tuttafatg.
+<sup>2</sup> Er sche la gravidanza va a fin prematuramain, po la dretgira – per motivs da giustia – decider che questas indemnisaziuns vegnian restituidas per part u dal tuttafatg.
 
 <sup>3</sup> Prestaziuns da terzas persunas, sin las qualas la mamma ha il dretg tenor lescha u tenor contract, ston vegnir messas a quint, uschenavant che las circumstanzas giustifitgeschan quai.
 
@@ -4361,11 +4402,11 @@ La mamma po purtar plant cunter il bab u cunter ses ertavels fin il pli tard 1 o
 
 [^298-1]
 
-<sup>1</sup> En ina procedura da divorzi u en ina procedura per la protecziun da la lètg attribuescha il derschader la tgira genituriala exclusiva ad in genitur, sche quai è necessari per mantegnair il bainstar da l’uffant.
+<sup>1</sup> En ina procedura da divorzi u en ina procedura per la protecziun da la lètg attribuescha la dretgira la tgira genituriala exclusiva ad in genitur, sche quai è necessari per mantegnair il bainstar da l’uffant.
 
-<sup>2</sup> El po er sa restrenscher a reglar la surveglianza da l’uffant, las relaziuns persunalas u la participaziun da mintga genitur a la tgira da l’uffant, sch’i na dat naginas schanzas ch’ils geniturs chattian ina cunvegna en quest reguard.
+<sup>2</sup> Ella po er sa restrenscher a reglar la surveglianza da l’uffant, las relaziuns persunalas u la participaziun da mintga genitur a la tgira da l’uffant, sch’i na dat naginas schanzas ch’ils geniturs chattian ina cunvegna en quest reguard.
 
-<sup>2bis</sup> Per la decisiun davart la surveglianza da l’uffant, davart las relaziuns persunalas u davart la participaziun da mintga genitur a la tgira resguarda el il dretg da l’uffant d’avair relaziuns persunalas regularas cun tuts dus geniturs.[^298-2]
+<sup>2bis</sup> Per la decisiun davart la surveglianza da l’uffant, davart las relaziuns persunalas u davart la participaziun da mintga genitur a la tgira resguarda ella il dretg da l’uffant d’avair relaziuns persunalas regularas cun tuts dus geniturs.[^298-2]
 
 <sup>2ter</sup> En cas d’ina tgira genituriala cuminaivla examinescha el la pussaivladad d’ina tgira alternanta en il senn dal bainstar da l’uffant, sch’in genitur u l’uffant pretenda quai.[^298-3]
 
@@ -4410,7 +4451,7 @@ En la decleraziun conferman ils geniturs:
 
 <sup>2</sup> L’autoritad per la protecziun d’uffants dispona la tgira genituriala cuminaivla, nun ch’il bainstar da l’uffant pretendia che la mamma haja vinavant la tgira genituriala exclusiva u che la tgira genituriala exclusiva vegnia attribuida al bab.
 
-<sup>3</sup> Ensemen cun la decisiun davart la tgira genituriala regla l’autoritad per la protecziun d’uffants ils ulteriurs puncts dispitaivels. Resalvà resta il plant sin prestaziun dal mantegniment davant il derschader cumpetent; en quest cas decida il derschader er davart la tgira genituriala sco er davart las ulteriuras dumondas concernent ils uffants.[^298b-2]
+<sup>3</sup> Ensemen cun la decisiun davart la tgira genituriala regla l’autoritad per la protecziun d’uffants ils ulteriurs puncts dispitaivels. Resalvà resta il plant sin prestaziun dal mantegniment davant la dretgira cumpetenta; en quest cas decida la dretgira er davart la tgira genituriala sco er davart las ulteriuras dumondas concernent ils uffants.[^298b-2]
 
 <sup>3bis</sup> Per la decisiun davart la surveglianza da l’uffant, davart las relaziuns persunalas u davart la participaziun da mintga genitur a la tgira resguarda l’autoritad per la protecziun d’uffants il dretg da l’uffant d’avair relaziuns persunalas regularas cun tuts dus geniturs.[^298b-3]
 
@@ -4429,7 +4470,7 @@ En la decleraziun conferman ils geniturs:
 
 [^298c-1]
 
-Sch’il derschader approvescha in plant da paternitad, dispona el la tgira genituriala cuminaivla, nun ch’il bainstar da l’uffant pretendia che la mamma haja vinavant la tgira genituriala exclusiva u che la tgira genituriala exclusiva vegnia attribuida al bab.
+Sche la dretgira approvescha in plant da paternitad, dispona ella la tgira genituriala cuminaivla, nun ch’il bainstar da l’uffant pretendia che la mamma haja vinavant la tgira genituriala exclusiva u che la tgira genituriala exclusiva vegnia attribuida al bab.
 
 [^298c-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2013 (tgira genituriala), en vigur dapi il 1. da fan. 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
@@ -4443,7 +4484,7 @@ Sch’il derschader approvescha in plant da paternitad, dispona el la tgira geni
 
 <sup>2</sup> Ella po sa restrenscher a reglar la surveglianza da l’uffant, las relaziuns persunalas u la participaziun da mintga genitur a la tgira da l’uffant.
 
-<sup>3</sup> Resalvà resta il plant sin midada da la contribuziun da mantegniment davant il derschader cumpetent; en quest cas regla il derschader en cas da basegn da nov la tgira genituriala sco er las ulteriuras dumondas concernent ils uffants.[^298d-2]
+<sup>3</sup> Resalvà resta il plant sin midada da la contribuziun da mantegniment davant la dretgira cumpetenta; en quest cas regla la dretgira en cas da basegn da nov la tgira genituriala sco er las ulteriuras dumondas concernent ils uffants.[^298d-2]
 
 [^298d-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2013 (tgira genituriala), en vigur dapi il 1. da fan. 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 [^298d-2]: Integrà tras la cifra I da la LF dals 20 da mars 2015 (mantegniment dals uffants), en vigur dapi il 1. da schan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
@@ -4524,7 +4565,7 @@ Il genitur che assista l’uffant po decider sulet, sche:
 
 <sup>2</sup>
 
-Sch’ils geniturs han cuminaivlamain la tgira genituriala e sch’in genitur vul midar il lieu da dimora da l’uffant, dovra quai il consentiment da l’auter genitur ubain ina decisiun dal derschader u da l’autoritad per la protecziun d’uffants, sche:
+Sch’ils geniturs han cuminaivlamain la tgira genituriala e sch’in genitur vul midar il lieu da dimora da l’uffant, dovra quai il consentiment da l’auter genitur ubain ina decisiun da la dretgira u da l’autoritad per la protecziun d’uffants, sche:
 
 - a. il nov lieu da dimora è a l’exteriur; u
 - b. la midada dal lieu da dimora ha consequenzas considerablas sin l’execuziun da la tgira genituriala tras l’auter genitur e sin las relaziuns persunalas.
@@ -4533,7 +4574,7 @@ Sch’ils geniturs han cuminaivlamain la tgira genituriala e sch’in genitur vu
 
 <sup>4</sup> La medema obligaziun d’infurmaziun ha il genitur che vul midar ses agen domicil.
 
-<sup>5</sup> Sche necessari e mantegnend il bainstar da l’uffant sa cunvegnan ils geniturs davart in’adattaziun da la regulaziun da la tgira genituriala, da la surveglianza da l’uffant, da las relaziuns persunalas e da la participaziun da mintga genitur a la tgira da l’uffant. Sch’els na chattan nagina cunvegna, decida il derschader u l’autoritad per la protecziun d’uffants.
+<sup>5</sup> Sche necessari e mantegnend il bainstar da l’uffant sa cunvegnan ils geniturs davart in’adattaziun da la regulaziun da la tgira genituriala, da la surveglianza da l’uffant, da las relaziuns persunalas e da la participaziun da mintga genitur a la tgira da l’uffant. Sch’els na chattan nagina cunvegna, decida la dretgira u l’autoritad per la protecziun d’uffants.
 
 [^301a-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2013 (tgira genituriala), en vigur dapi il 1. da fan. 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
@@ -4758,7 +4799,7 @@ L’autoritad per la protecziun d’uffants retira la tgira genituriala:[^312-2]
 
 <sup>1</sup> Las disposiziuns davart la procedura davant l’autoritad per la protecziun da creschids èn applitgablas tenor il senn.
 
-<sup>2</sup> En cas adattads po il derschader intimar ils geniturs d’empruvar ina mediaziun extragiudiziala.
+<sup>2</sup> En cas adattads po la dretgira intimar ils geniturs d’empruvar ina mediaziun extragiudiziala.
 
 <sup>3</sup> Sche l’autoritad per la protecziun d’uffants installescha ina curatella, fixescha ella en il dispositiv da la decisiun las incumbensas dal procuratur ed eventualas restricziuns da la tgira genituriala.
 
@@ -4805,7 +4846,7 @@ L’autoritad per la protecziun d’uffants examinescha, sch’ella duai ordinar
 
 <sup>1</sup> Sche l’uffant sto vegnir plazzà en in institut serrà u en ina clinica psichiatrica, èn applitgablas las disposiziuns da la protecziun da creschids davart il plazzament per motivs da provediment tenor il senn.
 
-<sup>2</sup> Sche l’uffant è abel da giuditgar, po el appellar sez al derschader.
+<sup>2</sup> Sche l’uffant è abel da giuditgar, po el appellar sez a la dretgira.
 
 [^314b-1]: Integrà tras la cifra I 2 da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
@@ -4883,22 +4924,22 @@ Uschenavant ch’ellas n’èn betg suttamessas al secret professiunal tenor il 
 
 ### 2. En proceduras da dretg matrimonial
 
-### a. Cumpetenza dal derschader
+### a. Cumpetenza da la dretgira
 
 #### Art. 315a
 
 [^315a-1]
 
-<sup>1</sup> Sch’il derschader, ch’è cumpetent per il divorzi u per la protecziun da la cuminanza conjugala, sto concepir las relaziuns dals geniturs cun ils uffants, prenda el er las mesiras necessarias per la protecziun dals uffants ed incumbensescha l’autoritad per la protecziun d’uffants cun l’execuziun.[^315a-2]
+<sup>1</sup> Sche la dretgira, ch’è cumpetenta per il divorzi u per la protecziun da la cuminanza conjugala, sto concepir las relaziuns dals geniturs cun ils uffants, prenda ella er las mesiras necessarias per la protecziun dals uffants ed incumbensescha l’autoritad per la protecziun d’uffants cun l’execuziun.[^315a-2]
 
-<sup>2</sup> Mesiras existentas per la protecziun dals uffants po er il derschader adattar a las novas relaziuns.
+<sup>2</sup> Mesiras existentas per la protecziun dals uffants po er la dretgira adattar a las novas relaziuns.
 
 <sup>3</sup>
 
 L’autoritad per la protecziun d’uffants salva dentant il dretg:[^315a-3]
 
 - 1\. da cuntinuar cun ina procedura per la protecziun dals uffants ch’è vegnida iniziada avant la procedura giudiziala;
-- 2\. d’ordinar las mesiras ch’èn immediatamain necessarias per la protecziun dals uffants, sch’il derschader n’è eventualmain betg en cas da las prender ad ura.
+- 2\. d’ordinar las mesiras ch’èn immediatamain necessarias per la protecziun dals uffants, sche la dretgira n’è eventualmain betg en cas da las prender ad ura.
 
 [^315a-1]: Integrà tras la cifra I 1 da la LF dals 25 da zer. 1976 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)). Versiun tenor la cifra I 4 da la LF dals 26 da zer. 1998, en vigur dapi il 1. da schan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^315a-2]: Versiun tenor la cifra I 2 da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -4912,7 +4953,7 @@ L’autoritad per la protecziun d’uffants salva dentant il dretg:[^315a-3]
 
 <sup>1</sup>
 
-Per midar ordinaziuns giudizialas davart l’attribuziun dals uffants e davart la protecziun dals uffants è cumpetent il derschader:
+Per midar ordinaziuns giudizialas davart l’attribuziun dals uffants e davart la protecziun dals uffants è cumpetenta la dretgira:
 
 - 1\. durant la procedura da divorzi;
 - 2\. en la procedura per midar la sentenzia da divorzi tenor las prescripziuns davart il divorzi;
@@ -5147,7 +5188,7 @@ L’uffant sut avugà ha la medema posiziun giuridica sco l’uffant sut tgira g
 
 <sup>1bis</sup> In dretg da survegnir sustegn na po betg vegnir fatg valair, sche la situaziun d’urgenza è resultada pervia d’ina reducziun da l’activitad da gudogn per tgirar ils agens uffants.[^329-1]
 
-<sup>2</sup> Sch’i para – per circumstanzas particularas – dad esser malgist da pretender prestaziuns d’ina persuna ch’è obligada a quest sustegn, po il derschader reducir u abolir l’obligaziun da sustegn.[^329-2]
+<sup>2</sup> Sch’i para – per circumstanzas particularas – dad esser malgist da pretender prestaziuns d’ina persuna ch’è obligada a quest sustegn, po la dretgira reducir u abolir l’obligaziun da sustegn.[^329-2]
 
 <sup>3</sup> Las disposiziuns concernent il plant da mantegniment da l’uffant e concernent il transferiment da ses dretg da mantegniment sin la cuminanza publica vegnan applitgadas correspundentamain.[^329-3]
 
@@ -5211,7 +5252,7 @@ L’uffant sut avugà ha la medema posiziun giuridica sco l’uffant sut tgira g
 
 <sup>1</sup> Uffants u biadis maiorens che vivan en la medema chasada cun lur geniturs u cun lur tattas e cun lur tats e che han sustegnì la cuminanza cun lur lavur u cun lur entradas, pon pretender per quai ina indemnisaziun adequata.[^334-2]
 
-<sup>2</sup> En cas da dispita decida il derschader davart l’autezza da l’indemnisaziun, davart sia garanzia e davart la moda e maniera dal pajament.
+<sup>2</sup> En cas da dispita decida la dretgira davart l’autezza da l’indemnisaziun, davart sia garanzia e davart la moda e maniera dal pajament.
 
 [^334-1]: Versiun tenor la cifra I 1 da la LF dals 6 d’oct. 1972, en vigur dapi ils 15 da favr. 1973 ([AS 1973 93](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [BBl 1970 I 805](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), **1971** II 737).
 [^334-2]: Versiun tenor la cifra I 2 da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -5362,7 +5403,7 @@ L’indivisiun vegn dissolvida:
 
 <sup>1</sup> Sch’il surpigliader n’administrescha betg en urden ils bains cuminaivels u sch’el n’ademplescha betg sias obligaziuns vers ils auters commembers, pon quels pretender che l’indivisiun vegnia dissolvida.
 
-<sup>2</sup> Per motivs relevants e resguardond las prescripziuns davart la partiziun tenor il dretg d’ierta po il derschader ordinar sin dumonda d’in commember che quel possia sa participar a l’administraziun da l’indivisiun.
+<sup>2</sup> Per motivs relevants e resguardond las prescripziuns davart la partiziun tenor il dretg d’ierta po la dretgira ordinar sin dumonda d’in commember che quel possia sa participar a l’administraziun da l’indivisiun.
 
 <sup>3</sup> Dal rest è l’indivisiun cun participaziun al gudogn suttamessa a las reglas che valan per l’indivisiun cun in’administraziun cuminaivla.
 
@@ -6160,7 +6201,7 @@ La decisiun da plazzament cuntegna almain las suandantas indicaziuns:
 - 3\. la diagnosa, ils motivs e l’intent dal plazzament;
 - 4\. l’indicaziun dals meds legals.
 
-<sup>3</sup> Il med legal n’ha betg in effect suspensiv, premess ch’il medi u il derschader responsabel na disponia betg insatge auter.
+<sup>3</sup> Il med legal n’ha betg in effect suspensiv, premess ch’il medi u la dretgira responsabla na disponia betg insatge auter.
 
 <sup>4</sup> In exemplar da la decisiun da plazzament vegn surdà a la persuna pertutgada; in ulteriur exemplar vegn preschentà a l’institut tar la recepziun da la persuna pertutgada.
 
@@ -7486,7 +7527,7 @@ Indegn dad esser ertavel u d’acquistar insatge or d’ina disposiziun per caus
 
 <sup>1</sup> Sch’in ertavel è sparì senza ch’ins possia eruir, sch’el saja en vita u gia mort il mument che la successiun d’ierta vegn averta, vegn sia part da l’ierta messa sut administraziun uffiziala.
 
-<sup>2</sup> Tgi che ertass en cas da spariziun da questa persuna, po – 1 onn suenter che quella è sparida en grond privel da mort u 5 onns suenter ch’ella ha dà l’ultima nova da vita – pretender dal derschader ch’el decleria la spariziun e ch’el consegnia la part da l’ierta suenter che quella decleraziun è vegnida decretada.
+<sup>2</sup> Tgi che ertass en cas da spariziun da questa persuna, po – 1 onn suenter che quella è sparida en grond privel da mort u 5 onns suenter ch’ella ha dà l’ultima nova da vita – pretender da la dretgira ch’ella decleria la spariziun e ch’ella consegnia la part da l’ierta suenter che quella decleraziun è vegnida decretada.
 
 <sup>3</sup> La consegna da la part da l’ierta vegn fatga tenor las prescripziuns davart la consegna da l’ierta als ertavels d’ina persuna sparida.
 
@@ -8035,7 +8076,7 @@ Il plant dal legatari surannescha suenter 10 onns dapi ch’el ha survegnì la c
 
 <sup>1</sup> Mintga cunertavel ha il dretg da dumandar da tut temp la partiziun da l’ierta, nun ch’el saja obligà tenor il contract u tenor la lescha da restar en la cuminanza.
 
-<sup>2</sup> Sin dumonda d’in ertavel po il derschader decretar temporarmain che la partiziun da l’ierta u da singulas chaussas da quella vegnia suspendida, sche la valur da l’ierta vegniss reducida considerablamain en cas d’ina partiziun immediata.
+<sup>2</sup> Sin dumonda d’in ertavel po la dretgira decretar temporarmain che la partiziun da l’ierta u da singulas chaussas da quella vegnia suspendida, sche la valur da l’ierta vegniss reducida considerablamain en cas d’ina partiziun immediata.
 
 <sup>3</sup> Ils cunertavels d’in ertavel insolvent pon dumandar ch’i vegnian ordinadas mesiras preventivas per segirar lur dretgs, uschespert che la successiun è averta.
 
@@ -8448,7 +8489,7 @@ Betg parts accessoricas èn las chaussas moviblas che vegnan duvradas mo transit
 
 Els na pon betg abolir u limitar las cumpetenzas da mintga cumproprietari:
 
-- 1\. da pretender e sche necessari da far ordinar dal derschader l’execuziun dad acts administrativs ch’èn necessaris per mantegnair la valur e l’utilitad da la chaussa;
+- 1\. da pretender e sche necessari da far ordinar da la dretgira l’execuziun dad acts administrativs ch’èn necessaris per mantegnair la valur e l’utilitad da la chaussa;
 - 2\. da prender sez, sin donn e cust da tut ils cumproprietaris, las mesiras che ston vegnir prendidas senza retard, per preservar la chaussa d’in donn pli grond u d’in donn che smanatscha.
 
 [^647-1]: Versiun tenor la cifra I da la LF dals 19 da dec. 1963, en vigur dapi il 1. da schan. 1965 ([AS 1964 993](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); [BBl 1962 II 1461](https://fedlex.data.admin.ch/eli/fga/1962/2_1461_1445_)).
@@ -8572,7 +8613,7 @@ Las lavurs da mantegniment, da reparaziun e da renovaziun ch’èn necessarias p
 
 <sup>2</sup> Sche la cuminanza cumpiglia mo dus cumproprietaris, ha mintgin dad els il dretg da purtar plant; en ils auters cas, e sch’i n’è betg vegnì fixà insatge auter, dovri – per purtar plant – l’autorisaziun da la maioritad da tut ils cumproprietaris cun excepziun da l’accusà.
 
-<sup>3</sup> Il derschader che pronunzia l’exclusiun condemna l’accusà d’alienar sia part ed ordinescha, per il cas che l’alienaziun na vegn betg fatga entaifer il termin fixà, l’ingiant public tenor las prescripziuns davart l’utilisaziun sfurzada da bains immobigliars cun excepziun da quellas concernent la schliaziun da la cumproprietad.
+<sup>3</sup> La dretgira che pronunzia l’exclusiun condemna l’accusà d’alienar sia part ed ordinescha, per il cas che l’alienaziun na vegn betg fatga entaifer il termin fixà, l’ingiant public tenor las prescripziuns davart l’utilisaziun sfurzada da bains immobigliars cun excepziun da quellas concernent la schliaziun da la cumproprietad.
 
 [^649b-1]: Integrà tras la cifra I da la LF dals 19 da dec. 1963, en vigur dapi il 1. da schan. 1965 ([AS 1964 993](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); [BBl 1962 II 1461](https://fedlex.data.admin.ch/eli/fga/1962/2_1461_1445_)).
 
@@ -8609,7 +8650,7 @@ Las disposiziuns davart l’exclusiun d’in cumproprietari èn applitgablas ten
 
 <sup>1</sup> La schliaziun vegn fatga tras la partiziun corporala, tras la vendita sin via privata u sin in ingiant cun la repartiziun dal retgav ubain uschia che in u che plirs cumproprietaris surpiglian l’entira chaussa e pajan ora ils auters.
 
-<sup>2</sup> Sch’ils cumproprietaris n’arrivan betg a sa cunvegnir davart la moda, co che la chaussa duai vegnir schliada, vegn quella partida en parts corporalas tenor la disposiziun dal derschader u, sche quai n’è betg pussaivel senza svalitar la chaussa considerablamain, ingiantada publicamain u mo tranter ils cumproprietaris.
+<sup>2</sup> Sch’ils cumproprietaris n’arrivan betg a sa cunvegnir davart la moda, co che la chaussa duai vegnir schliada, vegn quella partida en parts corporalas tenor la disposiziun da la dretgira u, sche quai n’è betg pussaivel senza svalitar la chaussa considerablamain, ingiantada publicamain u mo tranter ils cumproprietaris.
 
 <sup>3</sup> Sche la chaussa po mo vegnir partida corporalmain en parts inegualas, vegn la differenza gulivada cun daners.
 
@@ -8619,11 +8660,11 @@ Las disposiziuns davart l’exclusiun d’in cumproprietari èn applitgablas ten
 
 [^651a-1]
 
-<sup>1</sup> En cas d’animals che vegnan tegnids en il sectur chasan e che na vegnan betg tegnids per intents da facultad u per intents da gudogn, attribuescha il derschader – en cas da dispita – la proprietad exclusiva a quella partida che garantescha a l’animal il meglier plazzament or dal puntg da vista da la protecziun dals animals.
+<sup>1</sup> En cas d’animals che vegnan tegnids en il sectur chasan e che na vegnan betg tegnids per intents da facultad u per intents da gudogn, attribuescha la dretgira – en cas da dispita – la proprietad exclusiva a quella partida che garantescha a l’animal il meglier plazzament or dal puntg da vista da la protecziun dals animals.
 
-<sup>2</sup> Il derschader po obligar la persuna, a la quala l’animal vegn attribuì, da pajar ina indemnisaziun adequata a la cuntrapartida; el fixescha la summa tenor liber appreziar.
+<sup>2</sup> La dretgira po obligar la persuna, a la quala l’animal vegn attribuì, da pajar ina indemnisaziun adequata a la cuntrapartida; ella fixescha la summa tenor liber appreziar.
 
-<sup>3</sup> El prenda las mesiras preventivas necessarias, en spezial areguard il plazzament provisoric da l’animal.
+<sup>3</sup> Ella prenda las mesiras preventivas necessarias, en spezial areguard il plazzament provisoric da l’animal.
 
 [^651a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 2002 (artitgel da princip concernent animals), en vigur dapi il 1. d’avr. 2003 ([AS 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [BBl 2002 4164](https://fedlex.data.admin.ch/eli/fga/2002/591)[5806](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 
@@ -8807,7 +8848,7 @@ Sch’insatgi è vegnì inscrit nungiustifitgadamain en il register funsil sco p
 
 <sup>2</sup> Sut las medemas premissas ha quest dretg er in possessur d’in bain immobigliar, sch’il proprietari da quest bain immobigliar na po betg vegnir eruì or dal register funsil u era mort u vegnì declerà sco sparì al cumenzament dal termin da l’acquist tras giudida da 30 onns.
 
-<sup>3</sup> L’inscripziun dastga dentant mo vegnir fatga sin l’ordinaziun dal derschader e mo sch’i n’è betg vegnida fatga ina protesta entaifer in termin ch’è vegnì fixà tras ina publicaziun uffiziala u sche la protesta inoltrada è vegnida refusada.
+<sup>3</sup> L’inscripziun dastga dentant mo vegnir fatga sin l’ordinaziun da la dretgira e mo sch’i n’è betg vegnida fatga ina protesta entaifer in termin ch’è vegnì fixà tras ina publicaziun uffiziala u sche la protesta inoltrada è vegnida refusada.
 
 ### c. Termins
 
@@ -8829,9 +8870,9 @@ Per calcular ils termins, l’interrupziun e la sistida da l’acquist tras giud
 
 #### Art. 665
 
-<sup>1</sup> Il motiv d’acquist dat il dretg a l’acquistader da pretender ch’il proprietari fetschia far l’inscripziun en il register funsil; sche quel refusa quai, po l’acquistader dumandar il derschader che la proprietad vegnia attribuida ad el.
+<sup>1</sup> Il motiv d’acquist dat il dretg a l’acquistader da pretender ch’il proprietari fetschia far l’inscripziun en il register funsil; sche quel refusa quai, po l’acquistader dumandar la dretgira che la proprietad vegnia attribuida ad el.
 
-<sup>2</sup> L’acquistader po laschar far da sai anor l’inscripziun en cas d’ina appropriaziun, d’ina successiun d’ierta, d’ina expropriaziun, d’ina execuziun sfurzada u d’ina sentenzia dal derschader.
+<sup>2</sup> L’acquistader po laschar far da sai anor l’inscripziun en cas d’ina appropriaziun, d’ina successiun d’ierta, d’ina expropriaziun, d’ina execuziun sfurzada u d’ina sentenzia da la dretgira.
 
 <sup>3</sup> Las midadas vi da la proprietad funsila che resultan sin fundament da la lescha tras cuminanza dals bains u tras la schliaziun da quels, vegnan inscrittas en il register funsil sin dumonda d’in consort.[^665-1]
 
@@ -8853,8 +8894,8 @@ Per calcular ils termins, l’interrupziun e la sistida da l’acquist tras giud
 
 [^666a-1]
 
-- [tab] <sup>1</sup> Sch’il proprietari inscrit en il register funsil na po betg vegnir identifitgà, sche ses lieu da domicil n’è betg enconuschent u sch’il num u il lieu da domicil d’in u da plirs da ses ertavels n’è betg enconuschent, po il derschader ordinar sin dumonda las mesiras necessarias.
-- [tab] <sup>2</sup> En spezial po il derschader nominar in represchentant. Sin dumonda fixescha el la dimensiun da la pussanza da represchentanza. Sch’el na fixescha betg insatge auter, sa restrenscha questa pussanza a mesiras da mantegniment.
+- [tab] <sup>1</sup> Sch’il proprietari inscrit en il register funsil na po betg vegnir identifitgà, sche ses lieu da domicil n’è betg enconuschent u sch’il num u il lieu da domicil d’in u da plirs da ses ertavels n’è betg enconuschent, po la dretgira ordinar sin dumonda las mesiras necessarias.
+- [tab] <sup>2</sup> En spezial po la dretgira nominar in represchentant. Sin dumonda fixescha ella la dimensiun da la pussanza da represchentanza. Sch’ella na fixescha betg insatge auter, sa restrenscha questa pussanza a mesiras da mantegniment.
 
 <sup>3</sup>
 
@@ -8873,7 +8914,7 @@ La dumonda d’ordinar mesiras po far:
 
 [^666b-1]
 
-Sch’ina persuna giuridica u in auter subject giuridic inscrit en il register funsil sco proprietari na dispona betg pli dals organs prescrits, po mintga persuna che ha in interess degn da vegnir protegì u l’uffizi dal register funsil al lieu dal bain immobigliar dumandar il derschader d’ordinar las mesiras necessarias areguard il bain immobigliar.
+Sch’ina persuna giuridica u in auter subject giuridic inscrit en il register funsil sco proprietari na dispona betg pli dals organs prescrits, po mintga persuna che ha in interess degn da vegnir protegì u l’uffizi dal register funsil al lieu dal bain immobigliar dumandar la dretgira d’ordinar las mesiras necessarias areguard il bain immobigliar.
 
 [^666b-1]: Integrà tras la cifra I 1 da la LF dals 11 da dec. 2009 (brev ipotecara registrada ed ulteriuras midadas en il dretg real), en vigur dapi il 1. da schan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
@@ -8953,7 +8994,7 @@ Sche la construcziun vala evidentamain dapli ch’il sulom, po quel che sa chatt
 
 <sup>2</sup> Il dretg da construir talas parts che tanschan sin in bain immobigliar vischin po vegnir inscrit sco servitut en il register funsil.
 
-<sup>3</sup> Sche las parts che tanschan sin in bain immobigliar vischin èn vegnidas construidas senza dretg e sch’il vischin donnegià n’ha betg fatg protesta a temp, schebain ch’el ha gì enconuschientscha da quest fatg, po il derschader attribuir al construider – sch’el è da buna fai e sche las circumstanzas giustifitgeschan quai – u in dretg real sin questas parts u la proprietad dal sulom, e quai cunter ina indemnisaziun adequata.
+<sup>3</sup> Sche las parts che tanschan sin in bain immobigliar vischin èn vegnidas construidas senza dretg e sch’il vischin donnegià n’ha betg fatg protesta a temp, schebain ch’el ha gì enconuschientscha da quest fatg, po la dretgira attribuir al construider – sch’el è da buna fai e sche las circumstanzas giustifitgeschan quai – u in dretg real sin questas parts u la proprietad dal sulom, e quai cunter ina indemnisaziun adequata.
 
 ### 3. Dretg da construcziun
 
@@ -8992,7 +9033,7 @@ Sche la construcziun vala evidentamain dapli ch’il sulom, po quel che sa chatt
 
 <sup>2</sup> Ina servitut che correspunda al dretg da construcziun per singulas plantas e per plantaziuns po vegnir constituida per almain 10 onns e per maximalmain 100 onns.[^678-1]
 
-<sup>3</sup> Avant la scadenza da la durada fixada po il proprietari engrevgià pretender che la servitut vegnia substituida, sch’el ha fatg cun il giudider da la servitut in contract da fittanza concernent l’utilisaziun dal terren e sche quest contract vegn schlià. Il derschader regla las consequenzas patrimonialas, considerond tut las circumstanzas.[^678-2]
+<sup>3</sup> Avant la scadenza da la durada fixada po il proprietari engrevgià pretender che la servitut vegnia substituida, sch’el ha fatg cun il giudider da la servitut in contract da fittanza concernent l’utilisaziun dal terren e sche quest contract vegn schlià. La dretgira regla las consequenzas patrimonialas, considerond tut las circumstanzas.[^678-2]
 
 [^678-1]: Versiun tenor la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4121](https://fedlex.data.admin.ch/eli/oc/2003/613); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)).
 [^678-2]: Integrà tras la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4121](https://fedlex.data.admin.ch/eli/oc/2003/613); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)).
@@ -9019,7 +9060,7 @@ Sche la construcziun vala evidentamain dapli ch’il sulom, po quel che sa chatt
 
 [^679a-1]
 
-Sch’in proprietari da bains immobigliars chaschuna tar la cultivaziun legala da ses bain immobigliar, en spezial tar lavurs da construcziun, ad in vischin temporarmain dischavantatgs sproporziunads ed inevitabels e chaschuna el quatras in donn, po il vischin dal proprietari da quest bain immobigliar mo pretender l’indemnisaziun dal donn.
+Sch’in proprietari da bains immobigliars chaschuna tar la cultivaziun legala da ses bain immobigliar, en spezial tar lavurs da construcziun, ad in vischin temporarmain dischavantatgs sproporziunads ed inevitabels e chaschuna el qua tras in donn, po il vischin dal proprietari da quest bain immobigliar mo pretender l’indemnisaziun dal donn.
 
 [^679a-1]: Integrà tras la cifra I 1 da la LF dals 11 da dec. 2009 (brev ipotecara registrada ed ulteriuras midadas en il dretg real), en vigur dapi il 1. da schan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
@@ -9334,7 +9375,7 @@ En l’interess general èsi reservà a la confederaziun, als chantuns ed a las 
 
 <sup>1</sup> Sch’il proprietari u l’usufructuari d’in bigl u d’ina funtauna che vegn duvrada savens u ch’è vegnida tschiffada per l’utilisaziun, patescha donn, perquai ch’insatgi taglia giu, sminuescha u tartogna l’aua tras construcziuns, tras stabiliments u tras autras mesiras, po el pretender ina indemnisaziun per quai.
 
-<sup>2</sup> Sch’il donn n’è betg vegnì chaschunà intenziunadamain u per negligientscha ubain sch’il donnegià è sez la culpa, decida il derschader tenor ses appreziar, sch’i sto vegnir pajada ina indemnisaziun, e fixescha la maniera e la dimensiun da quella.
+<sup>2</sup> Sch’il donn n’è betg vegnì chaschunà intenziunadamain u per negligientscha ubain sch’il donnegià è sez la culpa, decida la dretgira tenor ses appreziar, sch’i sto vegnir pajada ina indemnisaziun, e fixescha la maniera e la dimensiun da quella.
 
 ### 2. Restabiliment
 
@@ -9526,7 +9567,7 @@ Talas grevezzas ed expensas èn spezialmain:
 
 <sup>1</sup> Per segirar ses dretg sin las contribuziuns dals ultims 3 onns, ha la cuminanza il dretg da pretender la constituziun d’in dretg da pegn legal sin la quota da mintga cumproprietari.
 
-<sup>2</sup> L’inscripziun dal dretg da pegn po vegnir pretendida da l’administratur u – en mancanza d’in tal – da mintga cumproprietari ch’è autorisà tras in conclus da la maioritad dals cumproprietaris u dal derschader sco er dal creditur, a favur dal qual il credit per contribuziuns è vegnì impegnà.
+<sup>2</sup> L’inscripziun dal dretg da pegn po vegnir pretendida da l’administratur u – en mancanza d’in tal – da mintga cumproprietari ch’è autorisà tras in conclus da la maioritad dals cumproprietaris u da la dretgira sco er dal creditur, a favur dal qual il credit per contribuziuns è vegnì impegnà.
 
 <sup>3</sup> Dal rest èn applitgablas tenor il senn las disposiziuns davart la constituziun d’in dretg da pegn da mastergnants da construcziun.
 
@@ -9599,7 +9640,7 @@ Ultra da las cumpetenzas numnadas en autras disposiziuns ha la radunanza dals cu
 
 #### Art. 712q
 
-<sup>1</sup> Sche la radunanza dals proprietaris en condomini na reussescha betg da nominar l’administratur, po mintga proprietari en condomini pretender ch’il derschader nomineschia l’administratur.
+<sup>1</sup> Sche la radunanza dals proprietaris en condomini na reussescha betg da nominar l’administratur, po mintga proprietari en condomini pretender che la dretgira nomineschia l’administratur.
 
 <sup>2</sup> Il medem dretg ha er quel che ha in interess giustifitgà vi da quai, sco il creditur e l’assicurader.
 
@@ -9609,9 +9650,9 @@ Ultra da las cumpetenzas numnadas en autras disposiziuns ha la radunanza dals cu
 
 <sup>1</sup> La radunanza dals cumproprietaris po revocar l’administratur da tut temp, cun resalva d’eventualas pretensiuns d’indemnisaziun.
 
-<sup>2</sup> Sche la radunanza refusa da revocar l’administratur senza resguardar motivs relevants, po mintga proprietari en condomini pretender entaifer 1 mais la revocaziun tras il derschader.
+<sup>2</sup> Sche la radunanza refusa da revocar l’administratur senza resguardar motivs relevants, po mintga proprietari en condomini pretender entaifer 1 mais la revocaziun tras la dretgira.
 
-<sup>3</sup> In administratur ch’è vegnì installà dal derschader na po – senza il consentiment da quel – betg vegnir revocà avant il termin ch’è vegnì fixà per ses engaschament.
+<sup>3</sup> In administratur ch’è vegnì installà da la dretgira na po – senza il consentiment da quella – betg vegnir revocà avant il termin ch’è vegnì fixà per ses engaschament.
 
 ### 3. Incumbensas
 
@@ -9677,7 +9718,7 @@ Il proprietari na po betg pretender enavos las chaussas ch’èn vegnidas transf
 
 <sup>1</sup> Sche la chaussa resta en possess da l’alienader sin fundament d’ina relaziun da dretg speziala, n’ha il transferiment nagin effect per terzas persunas, sch’el aveva l’intenziun da chaschunar in dischavantatg per quellas u da guntgir las disposiziuns davart il pegn manual.
 
-<sup>2</sup> Il derschader decida en chaussa tenor ses appreziar.
+<sup>2</sup> La dretgira decida en chaussa tenor ses appreziar.
 
 ### II. Appropriaziun
 
@@ -9793,7 +9834,7 @@ La proprietad d’ina chaussa senza patrun vegn acquistada tras quai, ch’insat
 
 <sup>1</sup> Sch’insatgi ha elavurà u transfurmà ina chaussa estra, tutga la nova chaussa a l’elavuratur, sche la lavur vala dapli che la materia, ed en il cas cuntrari al proprietari da la materia.
 
-<sup>2</sup> Sche l’elavuratur n’ha betg agì en buna fai, po il derschader attribuir la nova chaussa al proprietari da la materia, er sche la lavur vala dapli.
+<sup>2</sup> Sche l’elavuratur n’ha betg agì en buna fai, po la dretgira attribuir la nova chaussa al proprietari da la materia, er sche la lavur vala dapli.
 
 <sup>3</sup> Resalvads restan ils dretgs d’indemnisaziun e d’enritgiment.
 
@@ -9895,7 +9936,7 @@ Mintga servitut funsila extingua tras l’annullaziun da l’inscripziun sco er 
 
 <sup>2</sup> Uschè ditg che la servitut n’è betg annullada, exista ella vinavant sco dretg real.
 
-### 3. Tras il derschader
+### 3. Tras la dretgira
 
 #### Art. 736
 
@@ -10159,7 +10200,7 @@ Il proprietari po far protesta cunter mintga diever illegal e cunter mintga diev
 
 #### Art. 762
 
-Sch’il giudider na presta betg la garanzia entaifer il termin adequat fixà per quest intent u sch’el na desista betg da far illegalmain diever da la chaussa malgrà la protesta dal proprietari, al sto il derschader retrair ad interim il possess da la chaussa ed ordinar ina curatella.
+Sch’il giudider na presta betg la garanzia entaifer il termin adequat fixà per quest intent u sch’el na desista betg da far illegalmain diever da la chaussa malgrà la protesta dal proprietari, al sto la dretgira retrair ad interim il possess da la chaussa ed ordinar ina curatella.
 
 ### 3. Obligaziun d’inventarisar
 
@@ -10780,9 +10821,9 @@ Las pretensiuns garantidas tras in pegn immobigliar ed inscrittas en il register
 
 #### Art. 808
 
-<sup>1</sup> Sch’il proprietari reducescha la valur da la chaussa impegnada, po il creditur dumandar dal derschader ch’el dettia il cumond da tralaschar mintga ulteriur act nuschaivel.
+<sup>1</sup> Sch’il proprietari reducescha la valur da la chaussa impegnada, po il creditur dumandar da la dretgira ch’ella dettia il cumond da tralaschar mintga ulteriur act nuschaivel.
 
-<sup>2</sup> Il creditur po vegnir autorisà dal derschader da prender las mesiras adequatas; el po prender talas er senza autorisaziun, sch’i nascha in privel dal retard.
+<sup>2</sup> Il creditur po vegnir autorisà da la dretgira da prender las mesiras adequatas; el po prender talas er senza autorisaziun, sch’i nascha in privel dal retard.
 
 <sup>3</sup> Per ils custs chaschunads qua tras po el pretender ina indemnisaziun dal proprietari ed el posseda per quai in dretg da pegn vi dal bain immobigliar. Quest dretg da pegn na sto betg vegnir inscrit en il register funsil ed ha la preferenza vers tut las autras grevezzas inscrittas.[^808-1]
 
@@ -10799,7 +10840,7 @@ Las pretensiuns garantidas tras in pegn immobigliar ed inscrittas en il register
 
 <sup>2</sup> Sch’i smanatscha il privel d’ina reducziun da la valur, po el pretender la garanzia.
 
-<sup>3</sup> Sch’i na vegn betg satisfatg a la pretensiun entaifer in termin ch’è vegnì fixà dal derschader, po il creditur pretender in pajament dal debit en ratas ch’è suffizient per satisfar a la garanzia.
+<sup>3</sup> Sch’i na vegn betg satisfatg a la pretensiun entaifer in termin ch’è vegnì fixà da la dretgira, po il creditur pretender in pajament dal debit en ratas ch’è suffizient per satisfar a la garanzia.
 
 ### 2. Reducziun da la valur senza culpa dal proprietari
 
@@ -11106,9 +11147,9 @@ Il dretg da pegn dal vendider, dals cunertavels u da commembers d’ina indivisi
 
 <sup>2</sup> L’inscripziun sto vegnir fatga sin il pli tard 4 mais suenter ch’els han finì lur lavur.
 
-<sup>3</sup> Ella dastga mo vegnir fatga, sche la summa da pegn è vegnida renconuschida dal proprietari u constatada dal derschader, ed ella na po betg vegnir pretendida, sch’il proprietari presta ina garanzia suffizienta per la pretensiun annunziada.
+<sup>3</sup> Ella dastga mo vegnir fatga, sche la summa da pegn è vegnida renconuschida dal proprietari u constatada da la dretgira, ed ella na po betg vegnir pretendida, sch’il proprietari presta ina garanzia suffizienta per la pretensiun annunziada.
 
-<sup>4</sup> Sch’il bain immobigliar fa incontestadamain part da la facultad administrativa e sch’il debit dal proprietari na resulta betg d’obligaziuns contractualas, sto quel star bun envers ils mastergnants u ils impressaris per las pretensiuns renconuschidas u constatadas dal derschader, tenor las disposiziuns davart la garanzia simpla; la pretensiun sto dentant esser vegnida fatga valair vers el il pli tard 4 mais suenter la finiziun da la lavur en scrit e rendend attent a la garanzia legala.
+<sup>4</sup> Sch’il bain immobigliar fa incontestadamain part da la facultad administrativa e sch’il debit dal proprietari na resulta betg d’obligaziuns contractualas, sto quel star bun envers ils mastergnants u ils impressaris per las pretensiuns renconuschidas u constatadas da la dretgira, tenor las disposiziuns davart la garanzia simpla; la pretensiun sto dentant esser vegnida fatga valair vers el il pli tard 4 mais suenter la finiziun da la lavur en scrit e rendend attent a la garanzia legala.
 
 <sup>5</sup> Sche l’appartegnientscha dal bain immobigliar a la facultad administrativa è contestada, po il mastergnant u l’interprendider pretender l’inscripziun provisorica dal dretg da pegn en il register funsil fin il pli tard 4 mais suenter la terminaziun da sia lavur.
 
@@ -11210,7 +11251,7 @@ La pretensiun che resulta da la brev ipotecara ed il dretg da pegn existan tenor
 
 <sup>2</sup> Il num dal mandatari sto vegnir remartgà en il register funsil sco er sin il titel ipotecar.
 
-<sup>3</sup> Sch’il plainpudair extingua e sche las persunas participadas na vegnan betg perina, prenda il derschader las mesiras necessarias.
+<sup>3</sup> Sch’il plainpudair extingua e sche las persunas participadas na vegnan betg perina, prenda la dretgira las mesiras necessarias.
 
 ### IX. Lieu da pajament
 
@@ -11253,17 +11294,17 @@ Sche la pretensiun che resulta da la brev ipotecara è pajada, po il debitur pre
 
 #### Art. 855
 
-La brev ipotecara sin palpiri na dastga betg vegnir extinguida en il register funsil, avant ch’il titel ipotecar è mess ord vigur u annullà dal derschader.
+La brev ipotecara sin palpiri na dastga betg vegnir extinguida en il register funsil, avant ch’il titel ipotecar è mess ord vigur u annullà da la dretgira.
 
 ### XIII. Invitaziun al creditur da s’annunziar
 
 #### Art. 856
 
-<sup>1</sup> Sch’il creditur d’ina brev ipotecara è nunenconuschent dapi 10 onns e sch’i n’èn vegnids pretendids nagins tschains durant quest temp, po il proprietari dal bain immobigliar impegnà pretender ch’il creditur vegnia envidà dal derschader tras clom public da vulair s’annunziar entaifer 6 mais.
+<sup>1</sup> Sch’il creditur d’ina brev ipotecara è nunenconuschent dapi 10 onns e sch’i n’èn vegnids pretendids nagins tschains durant quest temp, po il proprietari dal bain immobigliar impegnà pretender ch’il creditur vegnia envidà da la dretgira tras clom public da vulair s’annunziar entaifer 6 mais.
 
 <sup>2</sup>
 
-Sch’il creditur na s’annunzia betg entaifer quest termin e sch’i resulta da la retschertga che la pretensiun n’exista fitg probablamain betg pli, vegn tenor la disposiziun dal derschader:
+Sch’il creditur na s’annunzia betg entaifer quest termin e sch’i resulta da la retschertga che la pretensiun n’exista fitg probablamain betg pli, vegn tenor la disposiziun da la dretgira:
 
 - 1\. il dretg da pegn tar la brev ipotecara sin palpiri extinguì en il register funsil; u
 - 2\. la brev ipotecara sin palpiri annullà ed il dretg da pegn extinguì en il register funsil.
@@ -11352,7 +11393,7 @@ Sch’il creditur na s’annunzia betg entaifer quest termin e sch’i resulta d
 
 #### Art. 865
 
-<sup>1</sup> Sch’in titel ipotecar è ì a perder u è vegnì destruì senza l’intenziun da metter fin a l’obligaziun, po il creditur pretender ch’il derschader annulleschia il titel ipotecar e ch’il debitur vegnia obligà da far il pajament; en cas che la pretensiun n’era anc betg scadida, po el pretender ch’i vegnia emess in nov titel ipotecar.
+<sup>1</sup> Sch’in titel ipotecar è ì a perder u è vegnì destruì senza l’intenziun da metter fin a l’obligaziun, po il creditur pretender che la dretgira annulleschia il titel ipotecar e ch’il debitur vegnia obligà da far il pajament; en cas che la pretensiun n’era anc betg scadida, po el pretender ch’i vegnia emess in nov titel ipotecar.
 
 <sup>2</sup> L’annullaziun vegn fatga tenor las prescripziuns davart l’amortisaziun dals titels al possessur, suenter avair decretà in clom public 6 mais ordavant.
 
@@ -12246,9 +12287,9 @@ Inscripziuns provisoricas pon vegnir prenotadas en il register funsil:
 - 1\. per garantir dretgs reals pretendids;
 - 2\. en cas da la cumplettaziun dal document da legitimaziun ch’è admessa da la lescha.
 
-<sup>2</sup> Questas inscripziuns vegnan fatgas cun il consentiment da tut ils participads u sin prescripziun dal derschader ed han per consequenza ch’il dretg real ha ses effects a partir dal mument ch’el vegn prenotà, per il cas ch’el vegn constatà pli tard.
+<sup>2</sup> Questas inscripziuns vegnan fatgas cun il consentiment da tut ils participads u sin prescripziun da la dretgira ed han per consequenza ch’il dretg real ha ses effects a partir dal mument ch’el vegn prenotà, per il cas ch’el vegn constatà pli tard.
 
-<sup>3</sup> Il derschader decida davart la dumonda e permetta la prenotaziun, suenter ch’il petent ha fatg plausibla l’existenza dal dretg, stabilind exactamain la durada ed ils effects da l’inscripziun e fixond – en cas da basegn – in termin per far valair la pretensiun davant dretgira.[^961-1]
+<sup>3</sup> La dretgira decida davart la dumonda e permetta la prenotaziun, suenter ch’il petent ha fatg plausibla l’existenza dal dretg, stabilind exactamain la durada ed ils effects da l’inscripziun e fixond – en cas da basegn – in termin per far valair la pretensiun davant dretgira.[^961-1]
 
 [^961-1]: Versiun tenor la cifra II 3 da l’agiunta 1 da la Procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -12288,9 +12329,9 @@ En il register funsil pon vegnir menziunads:
 
 - 1\. il represchentant legal, sin sia dumonda u sin dumonda da l’autoritad cumpetenta;
 - 2\. l’administratur d’ierta, il represchentant dals ertavels, il liquidatur uffizial e l’executur dal testament, sin lur dumonda u sin dumonda d’in ertavel u da l’autoritad cumpetenta;
-- 3\. il represchentant d’in proprietari, d’in creditur ipotecar u d’in giudider da la servitut nunchattabel, sin sia dumonda u sin dumonda dal derschader;
-- 4\. il represchentant d’ina persuna giuridica u d’in auter subject giuridic en cas ch’i mancan ils organs prescrits, sin sia dumonda u sin dumonda dal derschader;
-- 5\. l’administratur da la cuminanza da proprietaris en condomini, sin sia dumonda u sin dumonda da la radunanza dals proprietaris en condomini u dal derschader.
+- 3\. il represchentant d’in proprietari, d’in creditur ipotecar u d’in giudider da la servitut nunchattabel, sin sia dumonda u sin dumonda da la dretgira;
+- 4\. il represchentant d’ina persuna giuridica u d’in auter subject giuridic en cas ch’i mancan ils organs prescrits, sin sia dumonda u sin dumonda da la dretgira;
+- 5\. l’administratur da la cuminanza da proprietaris en condomini, sin sia dumonda u sin dumonda da la radunanza dals proprietaris en condomini u da la dretgira.
 
 [^962a-1]: Integrà tras la cifra I 1 da la LF dals 11 da dec. 2009 (brev ipotecara registrada ed ulteriuras midadas en il dretg real), en vigur dapi il 1. da schan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
@@ -12334,7 +12375,7 @@ En il register funsil pon vegnir menziunads:
 
 <sup>1</sup> Sch’il document da legitimaziun necessari na vegn betg preschentà, vegn refusada l’annunzia per far ina inscripziun en il register funsil.
 
-<sup>2</sup> Sch’il motiv giuridic è dentant avant maun e sch’i sa tracta mo da cumplettar il document da legitimaziun davart il dretg da disponer, po vegnir fatga ina inscripziun provisorica cun il consentiment dal proprietari u sin disposiziun dal derschader.
+<sup>2</sup> Sch’il motiv giuridic è dentant avant maun e sch’i sa tracta mo da cumplettar il document da legitimaziun davart il dretg da disponer, po vegnir fatga ina inscripziun provisorica cun il consentiment dal proprietari u sin disposiziun da la dretgira.
 
 ### IV. Moda d’inscriver
 
@@ -12553,7 +12594,7 @@ L’uffizi dal register funsil po extinguer d’uffizi ina inscripziun, sche que
 
 #### Art. 977
 
-<sup>1</sup> L’administratur dal register funsil na dastga far naginas correcturas senza il consentiment en scrit dals participads, nun ch’i saja avant maun ina disposiziun dal derschader.
+<sup>1</sup> L’administratur dal register funsil na dastga far naginas correcturas senza il consentiment en scrit dals participads, nun ch’i saja avant maun ina disposiziun da la dretgira.
 
 <sup>2</sup> Empè da curreger ina inscripziun faussa, po quella vegnir extinguida e fatga da nov.
 
@@ -12759,7 +12800,7 @@ Per process da divorzi ch’èn pendents tar l’entrada en vigur da la midada d
 
 [^u1-7e-1]
 
-<sup>1</sup> Sch’il derschader ha – en cas d’in divorzi tenor il dretg vegl – concedì al consort creditur suenter l’entrada d’in cas da provediment ina indemnisaziun en furma d’ina renta che scada pir cun la mort dal consort debitur u creditur, po il consort creditur pretender entaifer 1 onn suenter l’entrada en vigur da la midada dals 19 da zercladur 2015 davant il derschader ch’el survegnia empè da quai ina renta per vita duranta tenor l’artitgel 124*a*, sch’il consort debitur retira ina renta d’invaliditad suenter la vegliadetgna reglamentarica da renta u ina renta da vegliadetgna.
+<sup>1</sup> Sche la dretgira ha – en cas d’in divorzi tenor il dretg vegl – concedì al consort creditur suenter l’entrada d’in cas da provediment ina indemnisaziun en furma d’ina renta che scada pir cun la mort dal consort debitur u creditur, po il consort creditur pretender entaifer 1 onn suenter l’entrada en vigur da la midada dals 19 da zercladur 2015 davant dretgira ch’el survegnia empè da quai ina renta per vita duranta tenor l’artitgel 124*a*, sch’il consort debitur retira ina renta d’invaliditad suenter la vegliadetgna reglamentarica da renta u ina renta da vegliadetgna.
 
 <sup>2</sup> En cas da decisiuns estras sa drizza la cumpetenza tenor l’artitgel 64 da la Lescha federala dals 18 da december 1987[^u1-7e-2] davart il dretg internaziunal privat.
 
@@ -12892,9 +12933,25 @@ Las disposiziuns vertentas davart las pretensiuns d’indemnisaziun da la consor
 
 [^u1-9f-1]
 
-Sche la separaziun dals bains e vegnida fatga pervia da la lescha u sin ordinaziun dal derschader, valan per ils consorts las novas disposiziuns davart la separaziun dals bains.
+Sche la separaziun dals bains e vegnida fatga pervia da la lescha u sin ordinaziun da la dretgira, valan per ils consorts las novas disposiziuns davart la separaziun dals bains.
 
 [^u1-9f-1]: Integrà tras la cifra I 2 da la LF dals 5 d’oct. 1984, en vigur dapi il 1. da schan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+
+### 4*a*. Dretg dals bains matrimonials da las persunas da la medema schlattaina che han maridà a l’exteriur avant che la midada dals 18 da december 2020 è vegnida messa en vigur definitivamain
+
+#### Art. 9g
+
+[^u1-9g-1]
+
+<sup>1</sup> …[^u1-9g-2]
+
+<sup>2</sup> Avant che questa midada entra definitivamain en vigur, po mintga consort infurmar l’auter en scrit, che l’anteriur urden dals bains tenor l’artitgel 18 da la Lescha da partenadi dals 18 da zercladur 2004[^u1-9g-3] (LPart) vegnia mantegnì fin a quest mument.
+
+<sup>3</sup> e <sup>4</sup> …
+
+[^u1-9g-1]: Integrà tras la cifra I da la LF dals 18 da dec. 2020 (lètg per tuts), en vigur dapi il 1. da schan. 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^u1-9g-2]: Ils al. 1, 3 e 4 entran en vigur il 1. da fan. 2022.
+[^u1-9g-3]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
 ### 5. Contract matrimonial
 
@@ -13002,7 +13059,7 @@ Sch’il dretg dals bains matrimonials sa mida cun l’entrada en vigur da la Le
 
 <sup>4</sup> Sche mo in genitur ha la tgira genituriala il mument che la midada dals 21 da zercladur 2013 entra en vigur, po l’auter genitur – entaifer 1 onn suenter l’entrada en vigur da questa midada – dumandar l’autoritad cumpetenta da disponer la tgira genituriala cuminaivla. L’artitgel 298*b* vegn applitgà tenor il senn.[^u1-12-2]
 
-<sup>5</sup> Il genitur, dal qual la tgira genituriala è vegnida privada a chaschun d’in divorzi, po sa drizzar sulet al derschader cumpetent mo, sch’il divorzi ha gì lieu main che 5 onns avant l’entrada en vigur da la midada dals 21 da zercladur 2013.[^u1-12-3]
+<sup>5</sup> Il genitur, dal qual la tgira genituriala è vegnida privada a chaschun d’in divorzi, po sa drizzar sulet a la dretgira cumpetenta mo, sch’il divorzi ha gì lieu main che 5 onns avant l’entrada en vigur da la midada dals 21 da zercladur 2013.[^u1-12-3]
 
 [^u1-12-1]: Versiun tenor la cifra I 2 da la LF dals 25 da zer. 1976, en vigur dapi il 1. da schan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^u1-12-2]: Integrà tras la cifra I da la LF dals 21 da zer. 2013 (tgira genituriala), en vigur dapi il 1. da fan. 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
@@ -13606,7 +13663,7 @@ Cun l’entrada en vigur dal nov Cudesch civil èn abolidas tut las disposiziuns
 
 <sup>1</sup> Nua ch’il nov Cudesch civil discurra d’ina autoritad cumpetenta, decidan ils chantuns, tge autoritad ch’exista gia u che sto anc vegnir creada, che duai esser cumpetenta.
 
-<sup>2</sup> Nua che la lescha na discurra betg expressivamain dal derschader u d’ina autoritad administrativa, èn ils chantuns libers da designar sco cumpetenta in’autoritad giudiziala u administrativa.
+<sup>2</sup> Nua che la lescha na discurra betg expressivamain da la dretgira u d’ina autoritad administrativa, èn ils chantuns libers da designar sco cumpetenta in’autoritad giudiziala u administrativa.
 
 <sup>3</sup> Tant enavant ch’il Cudesch da procedura civila dals 19 da december 2008[^u1-54-1] n’è betg applitgabel, reglan ils chantuns la procedura.[^u1-54-2]
 
@@ -13788,7 +13845,7 @@ Ils consorts èn suttamess a las prescripziuns davart l’uniun dals bains, nun 
 
 #### Art. 183
 
-Il derschader sto ordinar la separaziun dals bains sin dumonda da la consorta, sche:
+La dretgira sto ordinar la separaziun dals bains sin dumonda da la consorta, sche:
 
 - 1\. il consort n’ha betg quità dal mantegniment da la dunna e da l’uffant tenor sia obligaziun;
 - 2\. el na presta betg la garanzia pretendida per il bain ch’è vegnì apportà da la consorta;
@@ -13798,7 +13855,7 @@ Il derschader sto ordinar la separaziun dals bains sin dumonda da la consorta, s
 
 #### Art. 184
 
-Il derschader sto ordinar la separaziun dals bains sin dumonda dal consort, sche:
+La dretgira sto ordinar la separaziun dals bains sin dumonda dal consort, sche:
 
 - 1\. la consorta è surdebitada;
 - 2\. la consorta refusa nungiustifitgadamain da dar a ses consort il consentiment ch’è necessari tenor la lescha u tenor l’urden dals bains per disponer davart la facultad matrimoniala;
@@ -13808,7 +13865,7 @@ Il derschader sto ordinar la separaziun dals bains sin dumonda dal consort, sche
 
 #### Art. 185
 
-Il derschader sto ordinar la separaziun dals bains sin dumonda d’in creditur, sche quel ha gì ina perdita tras la scussiun sin impegnaziun ch’è vegnida fatga cunter in consort.
+La dretgira sto ordinar la separaziun dals bains sin dumonda d’in creditur, sche quel ha gì ina perdita tras la scussiun sin impegnaziun ch’è vegnida fatga cunter in consort.
 
 ### III. Cumenzament da la separaziun dals bains
 
@@ -13826,7 +13883,7 @@ Il derschader sto ordinar la separaziun dals bains sin dumonda d’in creditur, 
 
 <sup>1</sup> La separaziun dals bains ch’è entrada pervia d’in concurs u ch’è vegnida ordinada pervia d’ina perdita tras scussiun sin impegnaziun na vegn betg abolida mo cun cuntentar ils crediturs.
 
-<sup>2</sup> Sin dumonda d’in consort po il derschader ordinar che l’urden dals bains vegl vegnia restabilì.
+<sup>2</sup> Sin dumonda d’in consort po la dretgira ordinar che l’urden dals bains vegl vegnia restabilì.
 
 <sup>3</sup> Il restabiliment sto vegnir annunzià d’uffizi per l’inscripziun en il register dals bains matrimonials.
 
@@ -14210,7 +14267,7 @@ Durant la cuminanza dals bains sa drizza l’execuziun sfurzada per ils debits, 
 
 <sup>2</sup> La cessiun dal privilegi sco er la renunzia al privilegi a favur da singuls crediturs èn nunvalaivlas.
 
-[^u2-224-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529).
+[^u2-224-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 ### V. Dissoluziun da la facultad matrimoniala
 
@@ -14309,7 +14366,7 @@ Tar la partiziun po il consort survivent pretender che las valurs da facultad ch
 
 #### Art. 234
 
-<sup>1</sup> Sch’in creditur ha subì ina perdita en la scussiun sin impegnaziun fatga cunter in dals uffants, po el pretender dal derschader che la cuminanza dals bains vegnia abolida.
+<sup>1</sup> Sch’in creditur ha subì ina perdita en la scussiun sin impegnaziun fatga cunter in dals uffants, po el pretender da la dretgira che la cuminanza dals bains vegnia abolida.
 
 <sup>2</sup> Sche questa aboliziun vegn pretendida dal creditur d’in uffant, pon ils ulteriurs participads pretender l’exclusiun da quest uffant.
 
