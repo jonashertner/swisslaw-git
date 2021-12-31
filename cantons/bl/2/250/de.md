@@ -4,13 +4,12 @@ number: "250"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: EG StPO
 language: de
-version: 2019-11-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-06
+version: 2022-01-01
+version_adopted: 2021-01-14
 adopted: 2009-03-12
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/250"
-pdf: "https://bl.clex.ch/api/de/versions/2494/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3150/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2494/pdf_file"
 
 (EG StPO)
 
-Vom 12.03.2009 (Stand 01.11.2019)
+Vom 12.03.2009 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -189,6 +188,20 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 **Dienstordnung**
 
 <sup>1</sup> Der Regierungsrat erlässt die Dienstordnung der Staatsanwaltschaft.
+
+#### § 13a
+
+**Datenschutzberatung**
+
+<sup>1</sup> Die Staatsanwaltschaft bezeichnet eine Datenschutzberaterin oder einen Datenschutzberater.
+
+<sup>2</sup> Sie oder er:
+
+- a. berät und unterstützt bei der Bearbeitung von Personendaten,
+- b. nimmt Datenschutz-Folgenabschätzungen vor (§ 11a Informations- und Datenschutzgesetz, IDG[^13a-1]) und
+- c. arbeitet mit der Aufsichtsstelle Datenschutz (§ 35 IDG) zusammen.
+
+[^13a-1]: [SGS 162](https://bl.clex.ch/data/162/de/art11a)
 
 ## 3 Gerichte in Strafsachen: sachliche Zuständigkeit
 
