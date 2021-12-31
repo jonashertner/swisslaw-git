@@ -4,11 +4,11 @@ title: Zollverordnung des EFD vom 4. April 2007 (ZV-EFD)
 short: ZV-EFD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/251"
 language: de
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2007-251-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-251-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20200701/de"
 
 (ZV-EFD)
 
-vom 4. April 2007 (Stand am 1. Juli 2020)
+vom 4. April 2007 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -27,7 +27,7 @@ verordnet:
 
 [^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^ingress-2]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^ingress-3]: [[AS 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56), [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)Art. 19 [2122](https://fedlex.data.admin.ch/eli/oc/2003/311)[3687](https://fedlex.data.admin.ch/eli/oc/2003/525)Anhang Ziff. II 1, [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248), [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)Ziff. II 1 [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Anhang Ziff. 2. [AS 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)Art. 28]. Siehe heute: die Organisationsverordnung für das eidgenössische Finanzdepartement vom 17. Febr. 2010 ([SR 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)).
+[^ingress-3]: [[AS 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56); [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)Art. 19, [2122](https://fedlex.data.admin.ch/eli/oc/2003/311), [3687](https://fedlex.data.admin.ch/eli/oc/2003/525)Anhang Ziff. II 1; [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248); [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)Ziff. II 1, [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)Anhang Ziff. 2. [AS 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)Art. 28]. Siehe heute: die Organisationsverordnung für das eidgenössische Finanzdepartement vom 17. Febr. 2010 ([SR 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)).
 
 ## 1. Abschnitt: Geschenksendungen
 
@@ -54,7 +54,7 @@ Von der Wertfreigrenze nach Absatz 1 ausgenommen sind:
 
 #### Art. 3
 
-**...[^3-1]**
+**…[^3-1]**
 
 ### (Art. 16 ZG; Art. 68 Abs. 3 ZV)
 
@@ -186,9 +186,10 @@ Das Tierverzeichnis muss folgende Angaben enthalten:
 
 ### (Art. 43 Abs. 1 Bst. a ZG; Art. 119 Abs. 2 ZV)
 
-Die Eidgenössische Zollverwaltung (EZV) ist berechtigt, während der Dauer des Grenzweideganges das Viehregister zu überprüfen.
+Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^14-2] ist berechtigt, während der Dauer des Grenzweideganges das Viehregister zu überprüfen.
 
 [^14-1]: Fassung gemäss Ziff. I der V des EFD vom 19. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
+[^14-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ## 4. Abschnitt: Zollschuld
 
@@ -200,11 +201,11 @@ Die Eidgenössische Zollverwaltung (EZV) ist berechtigt, während der Dauer des 
 
 Die Zollschuld kann wie folgt bezahlt werden:
 
-- a. im Rahmen des zentralisierten Abrechnungsverfahrens der EZV (ZAZ): bargeldlos gegen Rechnung;
+- a. im Rahmen des zentralisierten Abrechnungsverfahrens des BAZG (ZAZ): bargeldlos gegen Rechnung;
 - b. bar in Schweizerfranken;
-- c. bar in von der EZV anerkannten ausländischen Währungen zu von dieser festgelegten Wechselkursen;
-- d. mittels von der EZV anerkannter Kredit- oder Debitkarten;
-- e. mittels von der EZV anerkannter Schecks.
+- c. bar in vom BAZG anerkannten ausländischen Währungen zu von dieser festgelegten Wechselkursen;
+- d. mittels vom BAZG anerkannter Kredit- oder Debitkarten;
+- e. mittels vom BAZG anerkannter Schecks.
 
 [^15-1]: Fassung gemäss Ziff. I der V des EFD vom 19. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
 
@@ -216,9 +217,7 @@ Die Zollschuld kann wie folgt bezahlt werden:
 
 <sup>1</sup> Im Rahmen des ZAZ beträgt die Zahlungsfrist höchstens 60 Tage, sofern eine entsprechende Barhinterlage geleistet wird.
 
-<sup>2</sup> Die EZV[^16-1] kann auf Gesuch hin Ratenzahlungen bewilligen, wenn die Zahlung der gesamten Zollschuld aufgrund der Verhältnisse der Zollschuldnerin oder des Zollschuldners zu erheblichen wirtschaftlichen oder sozialen Schwierigkeiten führen würde.
-
-[^16-1]: Ausdruck gemäss Ziff. I der V des EFD vom 19. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)). Die Anpassung wurde im ganzen Text vorgenommen.
+<sup>2</sup> Das BAZG kann auf Gesuch hin Ratenzahlungen bewilligen, wenn die Zahlung der gesamten Zollschuld aufgrund der Verhältnisse der Zollschuldnerin oder des Zollschuldners zu erheblichen wirtschaftlichen oder sozialen Schwierigkeiten führen würde.
 
 #### Art. 17
 
@@ -247,11 +246,11 @@ Für die Höhe des Verzugs- und des Vergütungszinses sowie für die Ausnahme vo
 
 [^19-1]
 
-<sup>1</sup> Die EZV macht die Versteigerung eines Zollpfands öffentlich bekannt.
+<sup>1</sup> Das BAZG macht die Versteigerung eines Zollpfands öffentlich bekannt.
 
 <sup>2</sup>
 
-Sie informiert mit eingeschriebenem Brief folgende Personen über die Verwertung, sofern diese der EZV bekannt sind und Wohnsitz oder ein Zustelldomizil in der Schweiz haben:[^19-2]
+Sie informiert mit eingeschriebenem Brief folgende Personen über die Verwertung, sofern diese dem BAZG bekannt sind und Wohnsitz oder ein Zustelldomizil in der Schweiz haben:[^19-2]
 
 - a. die Zollschuldnerin oder den Zollschuldner bzw. die Bürgin oder den Bürgen;
 - b. die Eigentümerin oder den Eigentümer des Zollpfands;
@@ -270,14 +269,14 @@ Sie informiert mit eingeschriebenem Brief folgende Personen über die Verwertung
 
 <sup>1</sup>
 
-Die EZV stellt vor der Versteigerung die Steigerungsbedingungen auf. Diese enthalten:
+Das BAZG stellt vor der Versteigerung die Steigerungsbedingungen auf. Diese enthalten:
 
 - a. die Art des Ausrufs der zu versteigernden Waren (einzeln oder partienweise);
 - b. den Mindestzuschlagspreis;
 - c. die Zahlungsweise; und
 - d. den Hinweis, dass keine Gewährleistung für die versteigerten Waren erfolgt (Art. 234 Abs. 3 des Obligationenrechts, OR[^20-2]).
 
-<sup>2</sup> Die EZV legt den Mindestzuschlagspreis so fest, dass er dem Betrag der Forderung entspricht, für die das Zollpfand haftet.
+<sup>2</sup> Das BAZG legt den Mindestzuschlagspreis so fest, dass er dem Betrag der Forderung entspricht, für die das Zollpfand haftet.
 
 [^20-1]: Fassung des Verweises gemäss Ziff. I der V des EFD vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 [^20-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -294,9 +293,9 @@ Die EZV stellt vor der Versteigerung die Steigerungsbedingungen auf. Diese entha
 
 <sup>2</sup> Die Versteigerung darf frühestens zehn Tage nach der Bekanntmachung erfolgen.
 
-<sup>3</sup> Die für die Versteigerung zuständige Stelle erteilt den Zuschlag an die meistbietende Person, sofern deren Angebot den Mindestzuschlagspreis erreicht. Sie kann nach Rücksprache mit der EZV den Zuschlag auch zu einem niedrigeren Preis gestatten, sofern nach den Umständen in einer zweiten Versteigerung kein höheres Angebot zu erwarten ist.
+<sup>3</sup> Die für die Versteigerung zuständige Stelle erteilt den Zuschlag an die meistbietende Person, sofern deren Angebot den Mindestzuschlagspreis erreicht. Sie kann nach Rücksprache mit dem BAZG den Zuschlag auch zu einem niedrigeren Preis gestatten, sofern nach den Umständen in einer zweiten Versteigerung kein höheres Angebot zu erwarten ist.
 
-<sup>4</sup> Sie muss über die Versteigerung ein Protokoll führen und eine Kopie davon der EZV zustellen.
+<sup>4</sup> Sie muss über die Versteigerung ein Protokoll führen und eine Kopie davon dem BAZG zustellen.
 
 <sup>5</sup> Eine Anfechtung der Versteigerung nach Artikel 230 OR[^21-2] ist zulässig.
 
@@ -315,7 +314,7 @@ Die EZV stellt vor der Versteigerung die Steigerungsbedingungen auf. Diese entha
 
 <sup>2</sup> Die versteigerte Ware oder Sache wird erst nach Bezahlung oder geleisteter Sicherheit ausgehändigt. Die Aufbewahrung erfolgt auf Rechnung und Gefahr der Steigerin oder des Steigerers.
 
-<sup>3</sup> Kommt die Steigerin oder der Steigerer den Verpflichtungen nicht nach, so kann die EZV entweder den Rücktritt vom Kaufvertrag erklären oder die Vollstreckung der Kaufpreisforderung unter Inanspruchnahme der geleisteten Sicherheit einleiten.
+<sup>3</sup> Kommt die Steigerin oder der Steigerer den Verpflichtungen nicht nach, so kann das BAZG entweder den Rücktritt vom Kaufvertrag erklären oder die Vollstreckung der Kaufpreisforderung unter Inanspruchnahme der geleisteten Sicherheit einleiten.
 
 [^22-1]: Fassung des Verweises gemäss Ziff. I der V des EFD vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 [^22-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -352,22 +351,22 @@ Die EZV stellt vor der Versteigerung die Steigerungsbedingungen auf. Diese entha
 
 [^26-1]
 
-<sup>1</sup> Die EZV setzt vor dem Verkauf hinterlegter Wertpapiere eine Frist zur Bezahlung der Zollschuld.
+<sup>1</sup> Das BAZG setzt vor dem Verkauf hinterlegter Wertpapiere eine Frist zur Bezahlung der Zollschuld.
 
 <sup>2</sup>
 
 Der Verkauf von Wertpapieren ist nur zulässig, wenn:
 
-- a. ein rechtskräftiger Entscheid der EZV vorliegt; und
+- a. ein rechtskräftiger Entscheid des BAZG vorliegt; und
 - b. die gesetzte Frist zur Bezahlung der Zollschuld nach Artikel 196 ZV unbenützt verstrichen ist.
 
-<sup>3</sup> Der Verkauf der Wertpapiere erfolgt auf Anordnung der EZV durch die Schweizerische Nationalbank.
+<sup>3</sup> Der Verkauf der Wertpapiere erfolgt auf Anordnung des BAZG durch die Schweizerische Nationalbank.
 
 <sup>4</sup> Im Übrigen gilt Artikel 25 sinngemäss.
 
 [^26-1]: Fassung des Verweises gemäss Ziff. I der V des EFD vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 
-## 6. Abschnitt: Eidgenössische Zollverwaltung****
+## 6. Abschnitt: BAZG****
 
 [^sec6-1]
 
@@ -377,7 +376,7 @@ Der Verkauf von Wertpapieren ist nur zulässig, wenn:
 
 **Funktionen und Grade im Grenzwachtkorps**
 
-### (Art. 91 Abs. 1 ZG; Art. 221*e* Abs. 2 ZV)
+### (Art. 91 Abs. 2 ZG; Art. 221*e* Abs. 3 ZV)
 
 [^27-1]
 
@@ -389,7 +388,7 @@ Der Verkauf von Wertpapieren ist nur zulässig, wenn:
 
 <sup>4</sup> Die Chefin oder der Chef des Grenzwachtkorps kann Angehörigen des Grenzwachtkorps, die in Ausübung ihrer Funktion eine Aufgabe erfüllen, die besondere Ansprüche stellt, vorübergehend einen höheren Grad verleihen.[^27-2]
 
-[^27-1]: Fassung gemäss Ziff. I der V des EFD vom 14. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4329](https://fedlex.data.admin.ch/eli/oc/2018/698)).
+[^27-1]: Fassung gemäss Ziff. I der V des EFD vom 8. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 858](https://fedlex.data.admin.ch/eli/oc/2021/858)).
 [^27-2]: Eingefügt durch Ziff. I der V des EFD vom 25. Febr. 2011, in Kraft seit 1. April 2011 ([AS 2011 1073](https://fedlex.data.admin.ch/eli/oc/2011/159)).
 
 #### Art. 28
@@ -470,23 +469,21 @@ Anhang 2*[^t-2]*
 
 ## Funktionen und Grade im Grenzwachtkorps
 
-[^t-2]: Fassung gemäss Ziff. I der V des EFD vom 17. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4039](https://fedlex.data.admin.ch/eli/oc/2015/674)).
+[^t-2]: Fassung gemäss Ziff. II der V des EFD vom 8. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 858](https://fedlex.data.admin.ch/eli/oc/2021/858)).
 
 <table>
 <tr><th>Funktionen</th><th>Grade</th></tr>
-<tr><td>Chef/in Grenzwachtkorps (Hauptabteilungschef/in bzw. Vizedirektor/in)</td><td>Brigadier im GWK</td></tr>
-<tr><td>Stv Chef/in Grenzwachtkorps</td><td>Oberst im GWK</td></tr>
-<tr><td>Grenzwachtkommandant/in</td><td>Oberst oder Oberstleutnant im GWK</td></tr>
-<tr><td>Chef/in Kommandobereich</td><td>Oberstleutnant oder Major im GWK</td></tr>
-<tr><td>Stv Grenzwachtkommandant/in Stv Chef/in Kommandobereich</td><td>Major oder Hauptmann im GWK</td></tr>
-<tr><td>Chef/in Fachbereich Einsatzoffizier/in Chef/in Dienstbereich Verbindungsoffizier/in Offizier/in</td><td>Hauptmann im GWK</td></tr>
-<tr><td>Fachspezialist/in</td><td>Oberleutnant, Leutnant, Stabsadjutant, Adjutant oder Feldweibel im GWK</td></tr>
-<tr><td>Dienstchef/in</td><td>Adjutant im GWK</td></tr>
-<tr><td>Postenchef/in</td><td>Oberleutnant, Leutnant oder Adjutant im GWK</td></tr>
-<tr><td>Teamchef/in Sonderformation (SOFO)</td><td>Adjutant im GWK</td></tr>
-<tr><td>Stv Postenchef/in Teamchef/in</td><td>Feldweibel im GWK</td></tr>
-<tr><td>Stv Teamchef/in Chef/in Reiseverkehr</td><td>Feldweibel oder Wachtmeister im GWK</td></tr>
-<tr><td>Einsatzleiter/in Operator/in Sachbearbeiter/in</td><td>Wachtmeister im GWK</td></tr>
+<tr><td>Chef/in Grenzwachtkorps</td><td>Brigadier im GWK</td></tr>
+<tr><td>Chef/in Grenzwachtregion</td><td>Oberst im GWK</td></tr>
+<tr><td>Chef/in Stab Grenzwachtkorps</td><td>Oberstleutnant im GWK</td></tr>
+<tr><td>Chef/in Stab Grenzwachtregion Chef/in Posten</td><td>Major im GWK</td></tr>
+<tr><td>Einsatzoffizier/in Verbindungsleute</td><td>Hauptmann im GWK</td></tr>
+<tr><td>Fachspezialist/in</td><td>Oberleutnant, Leutnant, Stabsadjutant, Adjutant, Feldweibel oder Wachtmeister im GWK</td></tr>
+<tr><td>Chef/in Fachbereich Chef/in Dienstbereich</td><td>Major, Hauptmann, Oberleutnant, Leutnant, Stabsadjutant, Adjutant, Feldweibel im GWK</td></tr>
+<tr><td>Chef/in Einheit</td><td>Oberleutnant im GWK</td></tr>
+<tr><td>Chef/in Gruppe</td><td>Feldweibel im GWK</td></tr>
+<tr><td>Technischer Leiter / technische Leiterin</td><td>Adjutant, Feldweibel oder Wachtmeister im GWK</td></tr>
+<tr><td>Equipenchef/in Sachbearbeiter/in</td><td>Wachtmeister im GWK</td></tr>
 <tr><td>Grenzwächter/in Sachbearbeiter/in</td><td>Korporal oder Gefreiter im GWK oder Grenzwächter</td></tr>
 </table>
 
@@ -510,8 +507,8 @@ Folgende Erlasse werden aufgehoben:
 [^annex3-lvlu1-1]: [[AS 1959 877](https://fedlex.data.admin.ch/eli/oc/1959/877_907_896)]
 [^annex3-lvlu1-2]: [[AS 1973 1389](https://fedlex.data.admin.ch/eli/oc/1973/1389_1389_1389)]
 [^annex3-lvlu1-3]: [[AS 1968 355](https://fedlex.data.admin.ch/eli/oc/1968/355_379_379)]
-[^annex3-lvlu1-4]: [[AS 1965 37](https://fedlex.data.admin.ch/eli/oc/1965/37_39_40), **1987** 2591]
+[^annex3-lvlu1-4]: [[AS 1965 37](https://fedlex.data.admin.ch/eli/oc/1965/37_39_40); **1987** 2591]
 [^annex3-lvlu1-5]: [[AS 1972 729](https://fedlex.data.admin.ch/eli/oc/1972/729_737_661)]
-[^annex3-lvlu1-6]: [[AS 2002 335](https://fedlex.data.admin.ch/eli/oc/2002/73), [2007 35](https://fedlex.data.admin.ch/eli/oc/2007/12)[37](https://fedlex.data.admin.ch/eli/oc/2007/13)]
+[^annex3-lvlu1-6]: [[AS 2002 335](https://fedlex.data.admin.ch/eli/oc/2002/73); [2007 35](https://fedlex.data.admin.ch/eli/oc/2007/12), [37](https://fedlex.data.admin.ch/eli/oc/2007/13)]
 [^annex3-lvlu1-7]: [[AS 2002 4206](https://fedlex.data.admin.ch/eli/oc/2002/682)]
 [^annex3-lvlu1-8]: Sammelband des Militäramtsblatts (SMA) **88** 970

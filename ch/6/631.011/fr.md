@@ -4,11 +4,11 @@ title: Ordonnance du DFF du 4 avril 2007 sur les douanes (OD-DFF)
 short: OD-DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/251"
 language: fr
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-251-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-251-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20200701/fr"
 
 (OD-DFF)
 
-du 4 avril 2007 (Etat le 1<sup>er</sup> juillet 2020)
+du 4 avril 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral des finances (DFF),
 
@@ -188,9 +188,10 @@ La liste des animaux doit contenir les indications suivantes:
 
 ### (art. 43, al. 1, let. a, LD; art. 119, al. 2, OD)
 
-L’Administration fédérale des douanes (AFD) est habilitée à contrôler le registre du bétail pendant la durée du pacage frontalier.
+L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^14-2] est habilité à contrôler le registre du bétail pendant la durée du pacage frontalier.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 19 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
+[^14-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Section 4 Dette douanière
 
@@ -202,11 +203,11 @@ L’Administration fédérale des douanes (AFD) est habilitée à contrôler le 
 
 La dette douanière peut être payée comme suit:
 
-- a. dans le cadre de la procédure centralisée de décompte de l’AFD (PCD): sans numéraire, contre facture;
+- a. dans le cadre de la procédure centralisée de décompte de l’OFDF (PCD): sans numéraire, contre facture;
 - b. en espèces, en francs suisses;
-- c. en espèces, en monnaies étrangères reconnues par l’AFD, aux taux de change fixés par celle-ci;
-- d. au moyen de cartes de crédit ou de débit reconnues par l’AFD;
-- e. au moyen de chèques reconnus par l’AFD.
+- c. en espèces, en monnaies étrangères reconnues par l’OFDF, aux taux de change fixés par celui-ci;
+- d. au moyen de cartes de crédit ou de débit reconnues par l’OFDF;
+- e. au moyen de chèques reconnus par l’OFDF.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 19 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
 
@@ -218,9 +219,7 @@ La dette douanière peut être payée comme suit:
 
 <sup>1</sup> Dans le cadre de la PCD, le délai de paiement est de 60 jours au maximum pour autant qu’un dépôt d’espèces adéquat ait été effectué.
 
-<sup>2</sup> Sur demande, l’AFD[^16-1] peut autoriser le paiement par acomptes lorsque le paiement de la totalité de la dette douanière conduirait, compte tenu de la situation du débiteur, à des difficultés économiques ou sociales notables.
-
-[^16-1]: Nouvelle expression selon le ch. I de l’O du DFF du 19 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)). Il a été tenu compte de cette mod. dans tout le texte.
+<sup>2</sup> Sur demande, l’OFDF peut autoriser le paiement par acomptes lorsque le paiement de la totalité de la dette douanière conduirait, compte tenu de la situation du débiteur, à des difficultés économiques ou sociales notables.
 
 #### Art. 17
 
@@ -249,11 +248,11 @@ Le taux de l’intérêt moratoire et de l’intérêt rémunératoire et les ex
 
 [^19-1]
 
-<sup>1</sup> L’AFD annonce publiquement la vente aux enchères d’un gage douanier.
+<sup>1</sup> L’OFDF annonce publiquement la vente aux enchères d’un gage douanier.
 
 <sup>2</sup>
 
-Elle communique cette information par lettre recommandée, s’ils sont connus de l’administration des douanes et s’ils sont domiciliés en Suisse ou y ont un domicile de notification:[^19-2]
+Il communique cette information par lettre recommandée, s’ils sont connus de l’OFDF et s’ils sont domiciliés en Suisse ou y ont un domicile de notification:[^19-2]
 
 - a. au débiteur de la dette douanière ou à la caution;
 - b. au propriétaire du gage douanier;
@@ -272,14 +271,14 @@ Elle communique cette information par lettre recommandée, s’ils sont connus d
 
 <sup>1</sup>
 
-L’AFD établit les conditions de la vente aux enchères avant le début de la vente. Ces conditions contiennent:
+L’OFDF établit les conditions de la vente aux enchères avant le début de la vente. Ces conditions contiennent:
 
 - a. le mode d’enchères des marchandises à vendre aux enchères (isolément ou par lots);
 - b. le prix minimal d’adjudication;
-- c. le mode de paiement; et
+- c. le mode de paiement, et
 - d. l’indication selon laquelle aucune garantie n’est donnée pour les marchandises misées (art. 234, al. 3, du code des obligations, CO[^20-2]).
 
-<sup>2</sup> L’AFD fixe le prix minimal d’adjudication de manière qu’il atteigne le montant de la créance garantie par le gage douanier.
+<sup>2</sup> L’OFDF fixe le prix minimal d’adjudication de manière qu’il atteigne le montant de la créance garantie par le gage douanier.
 
 [^20-1]: Nouvelle teneur du renvoi selon le ch. I de l’O du DFF du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 [^20-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -296,9 +295,9 @@ L’AFD établit les conditions de la vente aux enchères avant le début de la 
 
 <sup>2</sup> La vente aux enchères peut se dérouler au plus tôt dix jours après la date de l’annonce.
 
-<sup>3</sup> Le service compétent pour organiser la vente aux enchères adjuge les marchandises au plus offrant si son offre atteint le prix minimal d’adjudication. Après concertation avec l’AFD, il peut autoriser l’enchère à un prix inférieur si, compte tenu des circonstances, il ne faut pas s’attendre à une offre plus élevée dans une seconde vente aux enchères.
+<sup>3</sup> Le service compétent pour organiser la vente aux enchères adjuge les marchandises au plus offrant si son offre atteint le prix minimal d’adjudication. Après concertation avec l’OFDF, il peut autoriser l’enchère à un prix inférieur si, compte tenu des circonstances, il ne faut pas s’attendre à une offre plus élevée dans une seconde vente aux enchères.
 
-<sup>4</sup> Le service compétent dresse un procès-verbal de la vente aux enchères et en remet une copie à l’AFD.
+<sup>4</sup> Le service compétent dresse un procès-verbal de la vente aux enchères et en remet une copie à l’OFDF.
 
 <sup>5</sup> La vente aux enchères peut faire l’objet d’une action en nullité au sens de l’art. 230 CO[^21-2].
 
@@ -317,7 +316,7 @@ L’AFD établit les conditions de la vente aux enchères avant le début de la 
 
 <sup>2</sup> La marchandise ou la chose vendue aux enchères n’est délivrée qu’après paiement ou fourniture de sûretés. La conservation a lieu aux frais et aux risques de l’enchérisseur.
 
-<sup>3</sup> Si l’enchérisseur ne tient pas ses engagements, l’AFD peut résilier le contrat de vente ou recouvrer le montant dû en mettant à contribution les sûretés.
+<sup>3</sup> Si l’enchérisseur ne tient pas ses engagements, l’OFDF peut résilier le contrat de vente ou recouvrer le montant dû en mettant à contribution les sûretés.
 
 [^22-1]: Nouvelle teneur du renvoi selon le ch. I de l’O du DFF du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 [^22-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -354,32 +353,28 @@ L’AFD établit les conditions de la vente aux enchères avant le début de la 
 
 [^26-1]
 
-<sup>1</sup> Avant de procéder à la vente de titres déposés, l’AFD fixe un délai pour le paiement de la dette douanière.
+<sup>1</sup> Avant de procéder à la vente de titres déposés, l’OFDF fixe un délai pour le paiement de la dette douanière.
 
 <sup>2</sup>
 
 Le vente de titres n’est admissible que:
 
-- a. s’il existe une décision entrée en force de l’AFD, et
+- a. s’il existe une décision entrée en force de l’OFDF, et
 - b. si le délai imparti pour le paiement de la dette douanière conformément à l’art. 196 OD a expiré sans avoir été mis à profit.
 
-<sup>3</sup> La vente de titres est effectuée par la Banque nationale suisse sur ordre de l’AFD.
+<sup>3</sup> La vente de titres est effectuée par la Banque nationale suisse sur ordre de l’OFDF.
 
 <sup>4</sup> Au surplus, l’art. 25 est applicable par analogie.
 
 [^26-1]: Nouvelle teneur du renvoi selon le ch. I de l’O du DFF du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 
-## Section 6 Administration fédérale des douanes****
-
-[^sec6-1]
-
-[^sec6-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 19 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
+## Section 6 Office fédéral de la douane et de la sécurité des frontières
 
 #### Art. 27
 
 **Fonctions et grades du Corps des gardes-frontière**
 
-### (art. 91, al. 1, LD; art. 221*e,* al. 3, OD)
+### (art. 91, al. 2, LD; art. 221*e*, al. 3, OD)
 
 [^27-1]
 
@@ -391,7 +386,7 @@ Le vente de titres n’est admissible que:
 
 <sup>4</sup> Le chef du Corps des gardes-frontière peut conférer temporairement un grade plus élevé aux membres du Corps des gardes-frontière qui remplissent une tâche particulièrement exigeante dans l’exercice de leur fonction.[^27-2]
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 14 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4329](https://fedlex.data.admin.ch/eli/oc/2018/698)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 8 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 858](https://fedlex.data.admin.ch/eli/oc/2021/858)).
 [^27-2]: Introduit par le ch. I de l’O du DFF du 25 fév. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1073](https://fedlex.data.admin.ch/eli/oc/2011/159)).
 
 #### Art. 28
@@ -472,24 +467,22 @@ Annexe 2*[^t-2]*
 
 ## Fonctions et grades du Corps des gardes-frontière
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 17 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4039](https://fedlex.data.admin.ch/eli/oc/2015/674)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du DFF du 8 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 858](https://fedlex.data.admin.ch/eli/oc/2021/858)).
 
 <table>
 <tr><th>Fonctions</th><th>Grades</th></tr>
-<tr><td>Chef du Corps des gardes-frontière (chef de division principale et vice-directeur)</td><td>Brigadier du Cgfr</td></tr>
-<tr><td>Suppléant du chef du Corps des gardes-frontière</td><td>Colonel du Cgfr</td></tr>
-<tr><td>Commandant du Corps des gardes-frontière</td><td>Colonel du Cgfr ou lieutenant-colonel du Cgfr</td></tr>
-<tr><td>Chef d’un domaine de commandement</td><td>Lieutenant-colonel du Cgfr ou major du Cgfr</td></tr>
-<tr><td>Suppléant du commandant du Corps des gardes-frontière Suppléant du chef d’un domaine de commandement</td><td>Major du Cgfr ou capitaine du Cgfr</td></tr>
-<tr><td>Chef d’un domaine spécialisé Officier d’engagement Chef d’un domaine de service Officier de liaison Officier</td><td>Capitaine du Cgfr</td></tr>
-<tr><td>Spécialiste</td><td>Premier-lieutenant du Cgfr, lieutenant du Cgfr, adjudant d’état-major du Cgfr, adjudant du Cgfr ou sergent-major du Cgfr</td></tr>
-<tr><td>Chef de service</td><td>Adjudant du Cgfr</td></tr>
-<tr><td>Chef de poste</td><td>Premier-lieutenant du Cgfr, lieutenant du Cgfr ou adjudant du Cgfr</td></tr>
-<tr><td>Chef d’équipe de la Formation spéciale (SOFO)</td><td>Adjudant du Cgfr</td></tr>
-<tr><td>Suppléant du chef de poste Chef d’équipe</td><td>Sergent-major du Cgfr</td></tr>
-<tr><td>Suppléant du chef d’équipe Chef du trafic touristique</td><td>Sergent-major du Cgfr ou sergent du Cgfr</td></tr>
-<tr><td>Chef d’engagement Opérateur Collaborateur spécialisé</td><td>Sergent du Cgfr</td></tr>
-<tr><td>Garde-frontière Collaborateur spécialisé</td><td>Caporal du Cgfr, appointé du Cgfr ou garde-frontière</td></tr>
+<tr><td>Chef du Corps des gardes-frontière</td><td>Brigadier du Cgfr</td></tr>
+<tr><td>Chef d’une région gardes-frontière</td><td>Colonel du Cgfr</td></tr>
+<tr><td>Chef d’état-major du Corps des gardes-frontière</td><td>Lieutenant-colonel du Cgfr</td></tr>
+<tr><td>Chef d’état-major d’une région gardes-frontière Chef de poste</td><td>Major du Cgfr</td></tr>
+<tr><td>Officier d’engagement Agents de liaison</td><td>Capitaine du Cgfr</td></tr>
+<tr><td>Spécialiste</td><td>Premier-lieutenant du Cgfr, lieutenant du Cgfr, adjudant d’état-major du Cgfr, adjudant du Cgfr, sergent-major du Cgfr ou sergent du Cgfr</td></tr>
+<tr><td>Chef d’un domaine spécialisé Chef d’un domaine de service</td><td>Major du Cgfr, capitaine du Cgfr, premier-lieutenant du Cgfr, lieutenant du Cgfr, adjudant d’état-major du Cgfr, adjudant du Cgfr ou sergent-major du Cgfr</td></tr>
+<tr><td>Chef d’unité</td><td>Premier-lieutenant du Cgfr</td></tr>
+<tr><td>Chef de groupe</td><td>Sergent-major du Cgfr</td></tr>
+<tr><td>Chef technique</td><td>Adjudant du Cgfr, sergent-major du Cgfr ou sergent du Cgfr</td></tr>
+<tr><td>Chef d’équipe Collaborateur spécialisé</td><td>Sergent du Cgfr</td></tr>
+<tr><td>Garde-frontière Collaborateur spécialisé</td><td>Caporal du Cgfr ou appointé du Cgfr ou garde-frontière</td></tr>
 </table>
 
 Annexe 3

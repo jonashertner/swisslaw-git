@@ -4,11 +4,11 @@ title: Ordinanza del DFF del 4 aprile 2007 sulle dogane (OD-DFF)
 short: OD-DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/251"
 language: it
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2007-251-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-251-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20200701/it"
 
 (OD-DFF)
 
-del 4 aprile 2007 (Stato 1° luglio 2020)
+del 4 aprile 2007 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^ingress-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^ingress-3]: [[RU 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56), [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)art. 19 [2122](https://fedlex.data.admin.ch/eli/oc/2003/311)[3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. n. II 1, [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248), [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)n. II 1 [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 2. [RU 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)art. 28]. Vedi ora l’O del 17 feb. 2010 ([RS 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)).
+[^ingress-3]: [[RU 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56); [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)art. 19, [2122](https://fedlex.data.admin.ch/eli/oc/2003/311), [3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. n. II 1; [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248); [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)n. II 1; [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 2. [RU 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)art. 28]. Vedi ora l’O del 17 feb. 2010 ([RS 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)).
 
 ## Sezione 1: Invii regalo
 
@@ -188,9 +188,10 @@ L’elenco degli animali deve contenere i seguenti dati:
 
 ### (art. 43 cpv. 1 lett. a LD; art. 119 cpv. 2 OD)
 
-L’Amministrazione federale delle dogane (AFD) è abilitata a verificare il registro del bestiame durante il pascolo transfrontaliero.
+L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^14-2] è abilitato a verificare il registro del bestiame durante il pascolo transfrontaliero.
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del DFF del 19 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
+[^14-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Sezione 4: Obbligazione doganale
 
@@ -202,11 +203,11 @@ L’Amministrazione federale delle dogane (AFD) è abilitata a verificare il reg
 
 L’obbligazione doganale può essere pagata come segue:
 
-- a. nell’ambito della procedura accentrata di conteggio dell’AFD (PCD): non in contanti mediante fattura;
+- a. nell’ambito della procedura accentrata di conteggio dell’UDSC (PCD): non in contanti mediante fattura;
 - b. in contanti e in franchi svizzeri;
-- c. in contanti e nelle valute estere accettate dall’AFD al tasso di cambio fissato da quest’ultima;
-- d. mediante carta di debito o credito accettata dall’AFD;
-- e. mediante assegni accettati dall’AFD.
+- c. in contanti e nelle valute estere accettate dall’UDSC al tasso di cambio fissato da quest’ultima;
+- d. mediante carta di debito o credito accettata dall’UDSC;
+- e. mediante assegni accettati dall’UDSC.
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del DFF del 19 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
 
@@ -218,9 +219,7 @@ L’obbligazione doganale può essere pagata come segue:
 
 <sup>1</sup> Nell’ambito della PCD il termine di pagamento è di 60 giorni al massimo, a condizione che venga effettuato un deposito in contanti.
 
-<sup>2</sup> L’AFD[^16-1] può, su richiesta, autorizzare pagamenti rateali se, a causa della situazione del debitore, il pagamento dell’intera obbligazione doganale comporterebbe per esso notevoli difficoltà economiche o sociali.
-
-[^16-1]: Nuova espr. giusta il n. I dell’O del DFF del 19 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)). Di detta mod. é tenuto conto in tutto il presente testo.
+<sup>2</sup> L’UDSC può, su richiesta, autorizzare pagamenti rateali se, a causa della situazione del debitore, il pagamento dell’intera obbligazione doganale comporterebbe per esso notevoli difficoltà economiche o sociali.
 
 #### Art. 17
 
@@ -249,11 +248,11 @@ L’importo dell’interesse di mora e di quello rimunerativo nonché la deroga 
 
 [^19-1]
 
-<sup>1</sup> L’AFD annuncia l’incanto di un pegno doganale con bando pubblico.
+<sup>1</sup> L’UDSC annuncia l’incanto di un pegno doganale con bando pubblico.
 
 <sup>2</sup>
 
-Essa informa le seguenti persone per lettera raccomandata in merito alla realizzazione, sempre che esse risultino note all’AFD e siano domiciliate o abbiano un recapito in Svizzera:[^19-2]
+Essa informa le seguenti persone per lettera raccomandata in merito alla realizzazione, sempre che esse risultino note all’UDSC e siano domiciliate o abbiano un recapito in Svizzera:[^19-2]
 
 - a. il debitore doganale o il fideiussore;
 - b. il proprietario del pegno doganale;
@@ -272,14 +271,14 @@ Essa informa le seguenti persone per lettera raccomandata in merito alla realizz
 
 <sup>1</sup>
 
-Prima di procedere all’incanto, l’AFD stabilisce le condizioni dello stesso. Esse comprendono:
+Prima di procedere all’incanto, l’UDSC stabilisce le condizioni dello stesso. Esse comprendono:
 
 - a. il modo di chiamata delle merci all’asta (isolatamente o a lotti);
 - b. il prezzo minimo di aggiudicazione;
 - c. il modo di pagamento; e
 - d. l’indicazione che l’incanto ha luogo senza garanzia (art. 234 cpv. 3 del Codice delle obbligazioni, CO[^20-2]).
 
-<sup>2</sup> L’AFD stabilisce il prezzo minimo di aggiudicazione in modo tale che corrisponda all’importo del credito garantito dal pegno doganale.
+<sup>2</sup> L’UDSC stabilisce il prezzo minimo di aggiudicazione in modo tale che corrisponda all’importo del credito garantito dal pegno doganale.
 
 [^20-1]: Nuovo testo del rimando giusta il n. I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 [^20-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -296,9 +295,9 @@ Prima di procedere all’incanto, l’AFD stabilisce le condizioni dello stesso.
 
 <sup>2</sup> L’incanto può avvenire al più presto dieci giorni dopo l’avviso.
 
-<sup>3</sup> L’ufficio competente per l’incanto aggiudica la merce o la cosa in vendita al maggior offerente, qualora l’offerta raggiunga il prezzo minimo di aggiudicazione. D’intesa con l’AFD, esso può consentire la delibera anche ad un prezzo inferiore se dalle circostanze si può inferire l’improbabilità che un secondo incanto dia miglior risultato.
+<sup>3</sup> L’ufficio competente per l’incanto aggiudica la merce o la cosa in vendita al maggior offerente, qualora l’offerta raggiunga il prezzo minimo di aggiudicazione. D’intesa con l’UDSC, esso può consentire la delibera anche ad un prezzo inferiore se dalle circostanze si può inferire l’improbabilità che un secondo incanto dia miglior risultato.
 
-<sup>4</sup> Detto ufficio deve redigere un verbale dell’incanto e trasmetterne una copia all’AFD.
+<sup>4</sup> Detto ufficio deve redigere un verbale dell’incanto e trasmetterne una copia all’UDSC.
 
 <sup>5</sup> L’incanto può essere impugnato conformemente all’articolo 230 CO[^21-2].
 
@@ -317,7 +316,7 @@ Prima di procedere all’incanto, l’AFD stabilisce le condizioni dello stesso.
 
 <sup>2</sup> La merce o la cosa aggiudicata non è consegnata se non dopo il pagamento o la prestazione d’una garanzia. La conservazione avviene per conto e a rischio del deliberatario.
 
-<sup>3</sup> Se il deliberatario non osserva i propri impegni, l’AFD può sia rescindere il contratto di vendita sia esigere il prezzo ricorrendo alla garanzia in sue mani.
+<sup>3</sup> Se il deliberatario non osserva i propri impegni, l’UDSC può sia rescindere il contratto di vendita sia esigere il prezzo ricorrendo alla garanzia in sue mani.
 
 [^22-1]: Nuovo testo del rimando giusta il n. I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 [^22-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -354,32 +353,28 @@ Prima di procedere all’incanto, l’AFD stabilisce le condizioni dello stesso.
 
 [^26-1]
 
-<sup>1</sup> Prima di procedere alla vendita dei titoli depositati, l’AFD fissa un termine per il pagamento del debito doganale.
+<sup>1</sup> Prima di procedere alla vendita dei titoli depositati, l’UDSC fissa un termine per il pagamento del debito doganale.
 
 <sup>2</sup>
 
 La vendita di titoli è ammessa soltanto se:
 
-- a. vi è una decisione dell’AFD passata in giudicato; e
+- a. vi è una decisione dell’UDSC passata in giudicato; e
 - b. il termine fissato per il pagamento del debito doganale secondo l’articolo 196 OD è scaduto inutilizzato.
 
-<sup>3</sup> La vendita di titoli viene effettuata dalla Banca nazionale svizzera su ordine dell’AFD.
+<sup>3</sup> La vendita di titoli viene effettuata dalla Banca nazionale svizzera su ordine dell’UDSC.
 
 <sup>4</sup> Per il rimanente si applica per analogia l’articolo 25.
 
 [^26-1]: Nuovo testo del rimando giusta il n. I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 
-## Sezione 6: Amministrazione federale delle dogane****
-
-[^sec6-1]
-
-[^sec6-1]: Nuovo testo giusta il n. I dell’O del DFF del 19 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
+## Sezione 6: Ufficio federale della dogana e della sicurezza dei confini
 
 #### Art. 27
 
 **Funzioni e gradi nel Corpo delle guardie di confine**
 
-### (art. 91 cpv. 1 LD; art. 2<sup>21</sup> e cpv. 2 OD)
+### (art. 91 cpv. 2 LD; art. 221e cpv. 3 OD)
 
 [^27-1]
 
@@ -391,7 +386,7 @@ La vendita di titoli è ammessa soltanto se:
 
 <sup>4</sup> Il capo del Corpo delle guardie di confine può assegnare temporaneamente un grado superiore ai membri del Corpo delle guardie di confine che, nell’esercizio della loro funzione, espletano compiti particolarmente impegnativi.[^27-2]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DFF del 14 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4329](https://fedlex.data.admin.ch/eli/oc/2018/698)).
+[^27-1]: Nuovo testo giusta il n. I dell’O del DFF I dell’8 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 858](https://fedlex.data.admin.ch/eli/oc/2021/858)).
 [^27-2]: Introdotto dal n. I dell’O del DFF del 25 feb. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1073](https://fedlex.data.admin.ch/eli/oc/2011/159)).
 
 #### Art. 28
@@ -441,7 +436,7 @@ L’abrogazione del diritto previgente è disciplinata nell’allegato 3.
 
 La presente ordinanza entra in vigore il 1° maggio 2007.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 3)
 
@@ -462,30 +457,28 @@ Allegato 1*[^t-1]*
 <tr><td>7</td><td>Altre merci</td><td>esenti</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 27 cpv. 1)
 
 ## Funzioni e gradi nel Corpo delle guardie di confine
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del DFF del 17 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4039](https://fedlex.data.admin.ch/eli/oc/2015/674)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del DFF dell’8 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 858](https://fedlex.data.admin.ch/eli/oc/2021/858)).
 
 <table>
-<tr><th>Funzioni</th><th>Gradi</th></tr>
-<tr><td>Capo del Corpo delle guardie di confine (capo della divisione principale e vicedirettore)</td><td>Brigadiere nel Cgcf</td></tr>
-<tr><td>Sost. del capo del Corpo delle guardie di confine</td><td>Colonnello nel Cgcf</td></tr>
-<tr><td>Comandante delle guardie di confine</td><td>Colonnello o tenente colonnello nel Cgcf</td></tr>
-<tr><td>Capo dell’ambito di comando</td><td>Tenente colonnello o maggiore nel Cgcf</td></tr>
-<tr><td>Sost. del comandante delle guardie di confine Sost. del capo dell’ambito di comando</td><td>Maggiore o capitano nel Cgcf</td></tr>
-<tr><td>Capo dell’ambito specializzato Ufficiale d’impiego Capo dell’ambito di servizio Ufficiale di collegamento Ufficiale</td><td>Capitano nel Cgcf</td></tr>
-<tr><td>Specialista</td><td>Primo tenente, tenente, aiutante di stato maggiore, aiutante o sergente maggiore nel Cgcf</td></tr>
-<tr><td>Caposervizio</td><td>Aiutante nel Cgcf</td></tr>
-<tr><td>Capoposto</td><td>Primo tenente, tenente o aiutante nel Cgcf</td></tr>
-<tr><td>Capo squadra della Formazione speciale (SOFO)</td><td>Aiutante nel Cgcf</td></tr>
-<tr><td>Sost. del capoposto Capo squadra</td><td>Sergente maggiore nel Cgcf</td></tr>
-<tr><td>Sost. del capo squadra Capo del traffico turistico</td><td>Sergente maggiore o sergente nel Cgcf</td></tr>
-<tr><td>Capo impiego Operatore Collaboratore specialista</td><td>Sergente nel Cgcf</td></tr>
-<tr><td>Guardia di confine Collaboratore specialista</td><td>Caporale o appuntato nel Cgcf o guardia di confine</td></tr>
+<tr><th>Funzione</th><th>Grado</th></tr>
+<tr><td>Capo del Corpo delle guardie di confine</td><td>Brigadiere nel CGCF</td></tr>
+<tr><td>Capo di una regione guardie di confine</td><td>Colonnello nel CGCF</td></tr>
+<tr><td>Capo dello stato maggiore del Corpo delle guardie di confine</td><td>Tenente colonnello nel CGCF</td></tr>
+<tr><td>Capo dello stato maggiore della regione guardie di confine Capo posto</td><td>Maggiore nel CGCF</td></tr>
+<tr><td>Ufficiale d’impiego Agente di collegamento</td><td>Capitano nel CGCF</td></tr>
+<tr><td>Specialista</td><td>Primo tenente, tenente, aiutante di stato maggiore, aiutante, sergente maggiore o sergente nel CGCF</td></tr>
+<tr><td>Capo dell’ambito specializzato Capo dell’ambito di servizio</td><td>Maggiore, capitano, primo tenente, tenente, aiutante di stato maggiore, aiutante, sergente maggiore nel CGCF</td></tr>
+<tr><td>Capo unità</td><td>Primo tenente nel CGCF</td></tr>
+<tr><td>Capo gruppo</td><td>Sergente maggiore nel CGCF</td></tr>
+<tr><td>Responsabile tecnico</td><td>Aiutante, sergente maggiore o sergente nel CGCF</td></tr>
+<tr><td>Capo squadra Collaboratore</td><td>Sergente nel CGCF</td></tr>
+<tr><td>Guardia di confine Collaboratore</td><td>Caporale o appuntato nel CGCF o guardia di confine</td></tr>
 </table>
 
 Allegato 3
