@@ -4,13 +4,13 @@ number: "412.21"
 title: Verordnung über die Anstellung der Lehrenden an den Volksschulen
 short: Anstellungsverordnung Volksschule
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-09-26
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-29
 adopted: 2008-06-02
 in_force: 2009-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/412.21"
-pdf: "https://ar.clex.ch/api/de/versions/1294/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1379/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1294/pdf_file"
 
 (Anstellungsverordnung Volksschule)
 
-vom 02.06.2008 (Stand 01.01.2017)
+vom 02.06.2008 (Stand 01.01.2022)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -276,15 +276,15 @@ beschliesst:
 
 **Besoldungshöhe**
 
-<sup>1</sup> Die Arbeitgeber richten den Lehrenden der einzelnen Stufen bei vollem Pensum jährlich folgende Besoldung aus: [^22-1]
+<sup>1</sup> Die Arbeitgeber richten den Lehrenden der einzelnen Stufen bei vollem Pensum jährlich folgende Besoldung aus:
 
 <table>
 <tr><th>Stufe</th><th>I.</th><th>II.</th></tr>
-<tr><td>A1</td><td>72'224</td><td>93'209</td></tr>
-<tr><td>A2</td><td>76'289</td><td>97'237</td></tr>
-<tr><td>A3</td><td>79'706</td><td>101'264</td></tr>
-<tr><td>A4</td><td>79'706</td><td>101'264</td></tr>
-<tr><td>B1</td><td>83'120</td><td>105'292</td></tr>
+<tr><td>A1</td><td>78‘800</td><td>94'500</td></tr>
+<tr><td>A2</td><td>81'600</td><td>97'300</td></tr>
+<tr><td>A3</td><td>82‘000</td><td>101'300</td></tr>
+<tr><td>A4</td><td>82‘600</td><td>101'300</td></tr>
+<tr><td>B1</td><td>85‘000</td><td>105'300</td></tr>
 <tr><td>B2</td><td>86'536</td><td>109'319</td></tr>
 <tr><td>B3</td><td>89'951</td><td>113'346</td></tr>
 <tr><td>B4</td><td>93'369</td><td>117'492</td></tr>
@@ -322,8 +322,6 @@ beschliesst:
 <sup>8</sup> Müssen ausnahmsweise Personen mit einem Lehrdiplom für eine Lehrtätigkeit auf einer anderen Stufe eingesetzt werden, werden sie nach der Stufe besoldet, für welche sie ein Lehrdiplom besitzen, höchstens aber auf der Höhe der zu unterrichtenden Stufe.
 
 <sup>9</sup> Ändern sich die Ausbildungsvoraussetzungen für einzelne Kategorien von Lehrenden wesentlich, kann der Regierungsrat die Besoldungen anpassen.
-
-[^22-1]: Mit Beschluss des Regierungsrates vom 17. Dezember 2019 (RRB-2019-566) wurden die Werte gemäss Art. 22 Abs. 4 per 1. Januar 2020 um 0.6 % erhöht; Abl. 2019, S. 1705)
 
 #### Art. 23
 
