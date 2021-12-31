@@ -4,13 +4,13 @@ number: "320.50"
 title: Statut der Psychiatrieverbunde
 short: SPV
 language: de
-version: 2016-06-01
-valid_until: 2021-12-31
-version_adopted: 2016-05-20
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2020-05-08
 adopted: 2022-09-15
 in_force: 2023-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.50"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2137/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2973/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2137/pdf_file"
 
 (SPV)
 
-vom 13.01.2012 (Stand 01.06.2016)
+vom 13.01.2012 (Stand 01.01.2022)
 
 Der Verwaltungsrat der Psychiatrieverbunde
 
@@ -41,7 +41,7 @@ als Statut:[^ingress-2]
 <sup>1</sup> Nach dem Gesetz über die Psychiatrieverbunde vom 1. Dezember 2010 bestehen zwei selbständige öffentlich-rechtliche Anstalten:
 
 - a) Die St.Gallischen Kantonalen Psychiatrischen Dienste – Sektor Nord mit Sitz in Wil mit den Betriebsstätten Klinik Wil, Psychiatrisches Zentrum St.Gallen, Psychiatrisches Zentrum Rorschach, Psychiatrisches Zentrum Wattwil, Pflegeheim Eggfeld;
-- b) Die St.Gallischen Psychiatrie-Dienste Süd mit Sitz in Pfäfers mit den Betriebsstätten Klinik St.Pirminsberg in Pfäfers, Psychiatrie-Zentrum Rheintal in Heerbrugg, Psychiatrie-Zentrum Werdenberg-Sarganserland in Trübbach, Psychiatrie-Zentrum Linthgebiet in Uznach und Rapperswil-Jona.
+- b) Die St.Gallischen Psychiatrie-Dienste Süd mit Sitz in Pfäfers mit den Betriebsstätten Klinik St.Pirminsberg in Pfäfers, Psychiatrie-Zentrum Rheintal in Heerbrugg, Psychiatrie-Zentrum Werdenberg-Sarganserland in Sargans, Psychiatrie-Zentrum Linthgebiet in Uznach und Rapperswil-Jona.
 
 #### Art. 2
 
