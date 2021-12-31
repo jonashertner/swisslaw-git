@@ -3,11 +3,11 @@ sr: "362.0"
 title: Verordnung vom 8. März 2013 über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: de
-version: 2021-09-15
+version: 2022-01-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210915/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210915-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210915/de"
 
 (N-SIS-Verordnung)
 
-vom 8. März 2013 (Stand am 15. September 2021)
+vom 8. März 2013 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -200,10 +200,10 @@ Die folgenden Behörden haben zur Erfüllung ihrer Aufgaben nach Artikel 16 Absa
 - d.[^7-5] die kantonalen Polizei- und Justizbehörden sowie die zum Vollzug der Landesverweisung zuständigen Behörden;
 - e.
 
-  in der Eidgenössischen Zollverwaltung:
+  im Bundesamt für Zoll und Grenzsicherheit[^7-6]:
 
   - 1\. das Grenzwachtkorps,
-  - 2\.[^7-6] die Hauptabteilung Zollfahndung: im Rahmen ihrer Aufgaben der Vorermittlung, Untersuchung, Strafverfolgung und Strafvollstreckung sowie der internationalen Amts- und Rechtshilfe,
+  - 2\.[^7-7] die Hauptabteilung Zollfahndung: im Rahmen ihrer Aufgaben der Vorermittlung, Untersuchung, Strafverfolgung und Strafvollstreckung sowie der internationalen Amts- und Rechtshilfe,
   - 3\.
 
     die Zollstellen:
@@ -211,17 +211,17 @@ Die folgenden Behörden haben zur Erfüllung ihrer Aufgaben nach Artikel 16 Absa
     - – das Zollinspektorat: zur Überwachung und Kontrolle des Personen- und des Warenverkehrs,
     - – alle anderen Zollstellen: zur Überwachung und Kontrolle des Warenverkehrs;
 
-- f.[^7-7]
+- f.[^7-8]
 
   der Direktionsbereich Zuwanderung und Integration im SEM:
 
-  - 1\.[^7-8] für die Prüfung eines Visumsgesuchs, die Erteilung eines Aufenthaltstitels, die Anordnung und Überprüfung von Einreise- und Aufenthaltsverweigerungen gegenüber Drittstaatsangehörigen sowie für die Kontrolle und Freigabe solcher Ausschreibungen im SIS,
+  - 1\.[^7-9] für die Prüfung eines Visumsgesuchs, die Erteilung eines Aufenthaltstitels, die Anordnung und Überprüfung von Einreise- und Aufenthaltsverweigerungen gegenüber Drittstaatsangehörigen sowie für die Kontrolle und Freigabe solcher Ausschreibungen im SIS,
   - 2\. für den systematischen Abgleich von Daten des API-Systems mit Daten des SIS zur Verbesserung der Grenzkontrollen und zur wirksamen Bekämpfung der rechtswidrigen Einreisen in den Schengen-Raum und der rechtswidrigen Durchreisen durch die internationalen Transitzonen der Flughäfen,
-  - 3\.[^7-9] im Rahmen von Identifikationsmassnahmen und Sicherheitsüberprüfungen;
+  - 3\.[^7-10] im Rahmen von Identifikationsmassnahmen und Sicherheitsüberprüfungen;
 
 - g. die schweizerischen Vertretungen im Ausland: zur Prüfung eines Visumsgesuchs;
-- h.[^7-10] die für den Vollzug des Nachrichtendienstgesetzes vom 25. September 2015[^7-11] (NDG) zuständigen Einheiten des Nachrichtendienstes des Bundes: zur Feststellung des Aufenthaltsorts von Personen und des Standorts von Fahrzeugen sowie zur verdeckten Registrierung oder zur gezielten Kontrolle von Personen und Fahrzeugen nach Massgabe ihrer Aufgaben im Rahmen des NDG;
-- i.[^7-12]
+- h.[^7-11] die für den Vollzug des Nachrichtendienstgesetzes vom 25. September 2015[^7-12] (NDG) zuständigen Einheiten des Nachrichtendienstes des Bundes: zur Feststellung des Aufenthaltsorts von Personen und des Standorts von Fahrzeugen sowie zur verdeckten Registrierung oder zur gezielten Kontrolle von Personen und Fahrzeugen nach Massgabe ihrer Aufgaben im Rahmen des NDG;
+- i.[^7-13]
 
   die kantonalen Migrationsbehörden:
 
@@ -237,13 +237,14 @@ Die folgenden Behörden haben zur Erfüllung ihrer Aufgaben nach Artikel 16 Absa
 [^7-3]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^7-4]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
 [^7-5]: Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^7-6]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
-[^7-7]: Fassung gemäss Anhang Ziff. 2 der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)).
-[^7-8]: Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^7-9]: Eingefügt durch Ziff. I 3 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
-[^7-10]: Fassung gemäss Anhang 4 Ziff. II 8 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
-[^7-11]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^7-12]: Fassung gemäss Ziff. I 3 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^7-6]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^7-7]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
+[^7-8]: Fassung gemäss Anhang Ziff. 2 der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)).
+[^7-9]: Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^7-10]: Eingefügt durch Ziff. I 3 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^7-11]: Fassung gemäss Anhang 4 Ziff. II 8 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^7-12]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^7-13]: Fassung gemäss Ziff. I 3 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
 
 ## 3*a*. Kapitel:**** zuständige Behörde für den Abschluss völkerrechtlicher Verträge
 
@@ -1277,9 +1278,9 @@ Abkürzungen für Behörden
 - SEM II Im Staatsekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 2
 - SEM III Im Staatsekretariat für Migration: der Direktionsbereich Zuwanderung und Integration für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe f Ziffer 3
 - GWK Grenzwachtkorps
-- EZV I In der Eidgenössischen Zollverwaltung: Hauptabteilung Zollfahndung
-- EZV II In der Eidgenössischen Zollverwaltung: die Zollstellen
-- EZV III Innerhalb der Zollstellen: Zollinspektorat Schweizer Flughäfen (BE, BS, ZH)
+- BAZG I Im Bundesamt für Zoll und Grenzsicherheit: Hauptabteilung Zollfahndung
+- BAZG II Im Bundesamt für Zoll und Grenzsicherheit: die Zollstellen
+- BAZG III Innerhalb der Zollstellen: Zollinspektorat Schweizer Flughäfen (BE, BS, ZH)
 - KAPO Strafverfolgungs-, Gerichts- und Strafvollstreckungsbehörden der Kantone
 - FREPO I Fremdenpolizei, Migrationsamt, regionale und kommunale Ausländerbehörden für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe i Ziffer 1
 - FREPO II Fremdenpolizei, Migrationsamt, regionale und kommunale Ausländerbehörden für die Aufgaben nach Artikel 7 Absatz 1 Buchstabe i Ziffer 2
@@ -1288,7 +1289,7 @@ Abkürzungen für Behörden
 
 <table>
 <tr><th>Datenfeldnamen</th><th colspan="3">Bund</th><th colspan="2"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th colspan="3">Kantone</th><th></th><th></th><th>Ausland</th></tr>
-<tr><th></th><th>fedpol I</th><th colspan="4">fedpol II\*</th><th>fedpol III</th><th>fedpol IV</th><th>fedpol V</th><th>fedpol VI</th><th>fedpol VII\*</th><th>NDB</th><th>BA</th><th>BJ I</th><th>BJ II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>GWK</th><th>EZV I</th><th>EZV II</th><th>EZV III</th><th>KAPO</th><th>FREPO I</th><th>FREPO II</th><th colspan="3">SVA</th><th>OAS</th></tr>
+<tr><th></th><th>fedpol I</th><th colspan="4">fedpol II\*</th><th>fedpol III</th><th>fedpol IV</th><th>fedpol V</th><th>fedpol VI</th><th>fedpol VII\*</th><th>NDB</th><th>BA</th><th>BJ I</th><th>BJ II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>GWK</th><th>BAZG I</th><th>BAZG II</th><th>BAZG III</th><th>KAPO</th><th>FREPO I</th><th>FREPO II</th><th colspan="3">SVA</th><th>OAS</th></tr>
 <tr><td colspan="3">**1.** **Personenausschreibungen**</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>a. Drittstaatsangehörige zur Einreise- und Aufenthaltsverweigerung</td><td>A</td><td colspan="4">A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3"></td><td>A</td></tr>
 <tr><td>b. Personen zur Festnahme zum Zweck der Auslieferung</td><td>A</td><td colspan="4">B (A)</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td colspan="3"></td><td></td></tr>

@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordinanza dell' 8 marzo 2013 sulla parte nazionale del Sistema d'informazione di Schengen (N-SIS) e sull'ufficio SIRENE (Ordinanza N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: it
-version: 2021-09-15
+version: 2022-01-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210915/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210915-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210915/it"
 
 (Ordinanza N-SIS)
 
-dell’8 marzo 2013 (Stato 15 settembre 2021)
+dell’8 marzo 2013 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -200,10 +200,10 @@ Per svolgere i propri compiti di cui all’articolo 16 capoverso 2 LSIP, le auto
 - d.[^7-5] le autorità cantonali di giustizia e polizia, nonché le autorità competenti per l’esecuzione dell’espulsione giudiziaria;
 - e.
 
-  nell’Amministrazione federale delle dogane:
+  nell’Ufficio federale della dogana e della sicurezza dei confini[^7-6]:
 
   - 1\. il Corpo delle guardie di confine,
-  - 2\.[^7-6] la divisione principale Antifrode doganale: per eseguire i suoi compiti nell’ambito degli accertamenti preliminari, delle indagini, del perseguimento e dell’esecuzione penali, nonché dell’assistenza amministrativa e giudiziaria internazionale,
+  - 2\.[^7-7] la divisione principale Antifrode doganale: per eseguire i suoi compiti nell’ambito degli accertamenti preliminari, delle indagini, del perseguimento e dell’esecuzione penali, nonché dell’assistenza amministrativa e giudiziaria internazionale,
   - 3\.
 
     gli uffici doganali:
@@ -211,17 +211,17 @@ Per svolgere i propri compiti di cui all’articolo 16 capoverso 2 LSIP, le auto
     - – l’Ispettorato doganale: per sorvegliare e controllare il traffico delle persone e delle merci,
     - – tutti gli altri uffici doganali: per sorvegliare e controllare il traffico delle merci;
 
-- f.[^7-7]
+- f.[^7-8]
 
   l’ambito direzionale Immigrazione e integrazione della SEM:
 
-  - 1\.[^7-8] per controllare le domande di visto, per rilasciare titoli di soggiorno, per ordinare e verificare le non ammissioni e i divieti di soggiorno nei confronti di cittadini di Stati terzi nonché per controllare e diffondere nel SIS tali segnalazioni,
+  - 1\.[^7-9] per controllare le domande di visto, per rilasciare titoli di soggiorno, per ordinare e verificare le non ammissioni e i divieti di soggiorno nei confronti di cittadini di Stati terzi nonché per controllare e diffondere nel SIS tali segnalazioni,
   - 2\. per confrontare sistematicamente i dati del sistema API con quelli del SIS allo scopo di migliorare il controllo alla frontiera e di lottare efficacemente contro l’entrata illegale nello spazio Schengen e l’attraversamento illegale delle zone di transito internazionali degli aeroporti,
-  - 3\.[^7-9] nell’ambito delle misure di identificazione e dei controlli di sicurezza;
+  - 3\.[^7-10] nell’ambito delle misure di identificazione e dei controlli di sicurezza;
 
 - g. le rappresentanze svizzere all’estero: per controllare le domande di visto;
-- h.[^7-10] le unità del Servizio delle attività informative della Confederazione competenti per l’esecuzione della legge federale del 25 settembre 2015[^7-11] sulle attività informative (LAIn): per individuare il luogo di dimora delle persone e localizzare i veicoli nonché per procedere alla sorveglianza discreta o al controllo mirato di persone e veicoli in virtù dei compiti conferiti loro dalla LAIn;
-- i.[^7-12]
+- h.[^7-11] le unità del Servizio delle attività informative della Confederazione competenti per l’esecuzione della legge federale del 25 settembre 2015[^7-12] sulle attività informative (LAIn): per individuare il luogo di dimora delle persone e localizzare i veicoli nonché per procedere alla sorveglianza discreta o al controllo mirato di persone e veicoli in virtù dei compiti conferiti loro dalla LAIn;
+- i.[^7-13]
 
   le autorità cantonali della migrazione:
 
@@ -237,13 +237,14 @@ Per svolgere i propri compiti di cui all’articolo 16 capoverso 2 LSIP, le auto
 [^7-3]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^7-4]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
 [^7-5]: Nuovo testo giusta il n. I 13 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^7-6]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
-[^7-7]: Nuovo testo giusta l’all. n. 2 dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)).
-[^7-8]: Nuovo testo giusta il n. I 13 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^7-9]: Introdotto dal n. I 3 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
-[^7-10]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
-[^7-11]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^7-12]: Nuovo testo giusta il n. I 3 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^7-6]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^7-7]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
+[^7-8]: Nuovo testo giusta l’all. n. 2 dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)).
+[^7-9]: Nuovo testo giusta il n. I 13 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^7-10]: Introdotto dal n. I 3 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^7-11]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^7-12]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^7-13]: Nuovo testo giusta il n. I 3 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
 
 ## Capitolo 3*a*:**** Autorità competente per la conclusione di trattati internazionali
 
@@ -1302,9 +1303,9 @@ Abbreviazioni delle autorità
 - SEM II Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 2
 - SEM III Segreteria di Stato della migrazione: ambito direzionale Immigrazione e integrazione per i compiti di cui all’articolo 7 capoverso 1 lettera f numero 3
 - Cgcf Corpo delle guardie di confine
-- AFD I Amministrazione federale delle dogane: divisione principale Antifrode doganale
-- AFD II Amministrazione federale delle dogane: uffici doganali
-- AFD III Uffici doganali: Ispettorato doganale aeroporti svizzeri (BE, BS, ZH)
+- UDSC I Ufficio federale della dogana e della sicurezza dei confini: divisione principale Antifrode doganale
+- UDSC II Ufficio federale della dogana e della sicurezza dei confini: uffici doganali
+- UDSC III Uffici doganali: Ispettorato doganale aeroporti svizzeri (BE, BS, ZH)
 - PoCa Autorità cantonali di perseguimento penale, di giustizia e di esecuzione penale
 - PolStr I Polizia degli stranieri, uffici della migrazione, autorità regionali e comunali degli stranieri per i compiti di cui all’articolo 7 capoverso 1 lettera i numero 1
 - PolStr II Polizia degli stranieri, uffici della migrazione, autorità regionali e comunali degli stranieri per i compiti di cui all’articolo 7 capoverso 1 lettera i numero 2
@@ -1313,7 +1314,7 @@ Abbreviazioni delle autorità
 
 <table>
 <tr><th>Denominazione per campo di dati</th><th colspan="4">Confederazione</th><th colspan="2"></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th colspan="2">Cantoni</th><th></th><th></th><th>Estero</th></tr>
-<tr><th></th><th>fedpol I</th><th>fedpol II\*</th><th>fedpol III</th><th colspan="2">fedpol IV</th><th colspan="3">fedpol V</th><th colspan="3">fedpol VI</th><th>fedpol VII\*</th><th>SIC</th><th>MPC</th><th>UFG I</th><th>UFG II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>Cgcf</th><th>AFD I</th><th>AFD II</th><th>AFD III</th><th>PoCa</th><th>PolStr I</th><th>PolStr II</th><th colspan="2">UCS</th><th>RSE</th></tr>
+<tr><th></th><th>fedpol I</th><th>fedpol II\*</th><th>fedpol III</th><th colspan="2">fedpol IV</th><th colspan="3">fedpol V</th><th colspan="3">fedpol VI</th><th>fedpol VII\*</th><th>SIC</th><th>MPC</th><th>UFG I</th><th>UFG II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>Cgcf</th><th>UDSC I</th><th>UDSC II</th><th>UDSC III</th><th>PoCa</th><th>PolStr I</th><th>PolStr II</th><th colspan="2">UCS</th><th>RSE</th></tr>
 <tr><td>**1.** **Segnalazioni di persone**</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td>a. Cittadini di Stati terzi ai fini della non ammissione e del divieto di soggiorno</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2"></td><td>A</td></tr>
 <tr><td>b. Persone per l’arresto ai fini dell’estradizione</td><td>A</td><td>B (A)</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td colspan="2"></td><td>A</td></tr>

@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordonnance du 8 mars 2013 sur la partie nationale du Système d'information Schengen (N-SIS) et sur le bureau SIRENE (Ordonnance N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: fr
-version: 2021-09-15
+version: 2022-01-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210915/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210915-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210915/fr"
 
 (Ordonnance N-SIS)
 
-du 8 mars 2013 (Etat le 15 septembre 2021)
+du 8 mars 2013 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -199,10 +199,10 @@ Afin d’accomplir les tâches définies à l’art. 16, al. 2, LSIP, les autori
 - d.[^7-5] les autorités cantonales de police et de justice et les autorités chargées de l’exécution des expulsions pénales;
 - e.
 
-  auprès de l’Administration fédérale des douanes:
+  auprès de l’Office fédéral de la douane et de la sécurité des frontières[^7-6]:
 
   - 1\. le Corps des gardes-frontière,
-  - 2\.[^7-6] la division principale Antifraude douanière: dans le cadre de ses tâches liées aux enquêtes préliminaires, aux instructions, à la poursuite pénale et à l’exécution des peines, ainsi qu’à l’assistance administrative et à l’entraide judiciaire internationales,
+  - 2\.[^7-7] la division principale Antifraude douanière: dans le cadre de ses tâches liées aux enquêtes préliminaires, aux instructions, à la poursuite pénale et à l’exécution des peines, ainsi qu’à l’assistance administrative et à l’entraide judiciaire internationales,
   - 3\.
 
     les services douaniers:
@@ -210,17 +210,17 @@ Afin d’accomplir les tâches définies à l’art. 16, al. 2, LSIP, les autori
     - – l’Inspection des douanes: pour surveiller et contrôler la circulation des personnes et des marchandises
     - – tous les autres services douaniers: pour surveiller et contrôler la circulation des marchandises;
 
-- f.[^7-7]
+- f.[^7-8]
 
   le domaine de direction Immigration et intégration du SEM:
 
-  - 1\.[^7-8] pour vérifier les demandes de visas, pour octroyer des titres de séjour, pour ordonner et vérifier dans le SIS des décisions de non-admission et des interdictions de séjour prononcées à l’encontre de ressortissants d’États tiers et pour contrôler et émettre dans le SIS les signalements y afférents,
+  - 1\.[^7-9] pour vérifier les demandes de visas, pour octroyer des titres de séjour, pour ordonner et vérifier dans le SIS des décisions de non-admission et des interdictions de séjour prononcées à l’encontre de ressortissants d’États tiers et pour contrôler et émettre dans le SIS les signalements y afférents,
   - 2\. pour comparer systématiquement les données du système API avec celles du SIS afin d’améliorer le contrôle à la frontière et de lutter efficacement contre l’entrée illégale dans l’espace Schengen et le passage illégal par la zone internationale de transit des aéroports,
-  - 3\.[^7-9] dans le cadre de mesures d’identifications et de contrôles sécuritaires;
+  - 3\.[^7-10] dans le cadre de mesures d’identifications et de contrôles sécuritaires;
 
 - g. les représentations suisses à l’étranger: pour vérifier les demandes de visa;
-- h.[^7-10] les unités du Service de renseignement de la Confédération compétentes pour l’exécution de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^7-11], pour la recherche du lieu de séjour de personnes et la recherche de véhicules ainsi qu’à des fins de surveillance discrète ou de contrôle ciblé de personnes et de véhicules, conformément aux tâches incombant à ces unités en vertu de la LRens;
-- i. [^7-12]
+- h.[^7-11] les unités du Service de renseignement de la Confédération compétentes pour l’exécution de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^7-12], pour la recherche du lieu de séjour de personnes et la recherche de véhicules ainsi qu’à des fins de surveillance discrète ou de contrôle ciblé de personnes et de véhicules, conformément aux tâches incombant à ces unités en vertu de la LRens;
+- i. [^7-13]
 
   les services cantonaux des migrations:
 
@@ -236,13 +236,14 @@ Afin d’accomplir les tâches définies à l’art. 16, al. 2, LSIP, les autori
 [^7-3]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^7-4]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
 [^7-5]: Nouvelle teneur selon le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^7-6]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
-[^7-7]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)).
-[^7-8]: Nouvelle teneur selon le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^7-9]: Introduite par le ch. I 3 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
-[^7-10]: Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
-[^7-11]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^7-12]: Nouvelle teneur selon le ch. I 3 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^7-6]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^7-7]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)).
+[^7-8]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)).
+[^7-9]: Nouvelle teneur selon le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^7-10]: Introduite par le ch. I 3 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^7-11]: Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^7-12]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^7-13]: Nouvelle teneur selon le ch. I 3 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
 
 ## Chapitre 3*a***** Autorité compétente pour conclure des traités internationaux
 
@@ -1279,9 +1280,9 @@ Abréviations des autorités
 - SEM II Auprès du Secrétariat d’État aux migrations: le Domaine de direction Immigration et intégration pour les tâches visées à l’art. 7, al. 1, let. f, ch. 2
 - SEM III Auprès du Secrétariat d’État aux migrations: le Domaine de direction Immigration et intégration pour les tâches visées à l’art. 7, al. 1, let. f, ch. 3
 - Cgfr Corps des gardes-frontière
-- AFD I Auprès de l’Administration fédérale des douanes: la division principale Antifraude douanière
-- AFD II Auprès de l’Administration fédérale des douanes: les bureaux de douane
-- AFD III Auprès des bureaux de douane: l’inspection de douane des aéroports suisses (BE, BS, ZH)
+- OFDF I Auprès de l’Office fédéral de la douane et de la sécurité des frontières: la division principale Antifraude douanière
+- OFDF II Auprès de l’Office fédéral de la douane et de la sécurité des frontières: les bureaux de douane
+- OFDF III Auprès des bureaux de douane: l’inspection de douane des aéroports suisses (BE, BS, ZH)
 - Pol. cant. Autorités de poursuite pénale, de justice, d’exécution des peines des cantons
 - Pol. étr. I Police des étrangers, Office des migrations, autorités régionales et communales compétentes en matière d’étrangers intégration pour les tâches visées à l’art. 7, al. 1, let. i, ch. 1
 - Pol. étr. II Police des étrangers, Office des migrations, autorités régionales et communales compétentes en matière d’étrangers intégration pour les tâches visées à l’art. 7, al. 1, let. i, ch. 2
@@ -1290,7 +1291,7 @@ Abréviations des autorités
 
 <table>
 <tr><th>Dénomination des champs de données</th><th colspan="5">Confédération</th><th></th><th colspan="2"></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th colspan="3">Cantons</th><th></th><th></th><th>Étranger</th></tr>
-<tr><th></th><th>fedpol I</th><th>fedpol II\*</th><th>fedpol III</th><th>fedpol IV</th><th colspan="3">fedpol V</th><th colspan="3">fedpol VI</th><th colspan="3">fedpol VII\*</th><th>SRC</th><th>MPC</th><th>OFJ I</th><th>OFJ II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>Cgfr</th><th>AFD I</th><th>AFD II</th><th>AFD III</th><th>Pol. cant.</th><th>Pol. Etr. I</th><th>Pol. Etr. II</th><th colspan="3">OCR</th><th>RSE</th></tr>
+<tr><th></th><th>fedpol I</th><th>fedpol II\*</th><th>fedpol III</th><th>fedpol IV</th><th colspan="3">fedpol V</th><th colspan="3">fedpol VI</th><th colspan="3">fedpol VII\*</th><th>SRC</th><th>MPC</th><th>OFJ I</th><th>OFJ II</th><th>SEM I</th><th>SEM II</th><th>SEM III</th><th>Cgfr</th><th>OFDF I</th><th>OFDF II</th><th>OFDF III</th><th>Pol. cant.</th><th>Pol. Etr. I</th><th>Pol. Etr. II</th><th colspan="3">OCR</th><th>RSE</th></tr>
 <tr><td>**1.** **Signalements de personnes**</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>a. Ressortissants d’États tiers aux fins de non-admission ou d’interdiction de séjour</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="3">B</td><td colspan="3">A</td><td>A</td><td></td><td></td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3"></td><td>A</td></tr>
 <tr><td>b. Personnes en vue d’une arrestation aux fins d’extradition</td><td>A</td><td>B (A)</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="3">B</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td colspan="3"></td><td></td></tr>
