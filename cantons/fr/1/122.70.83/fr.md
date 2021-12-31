@@ -3,76 +3,167 @@ canton: FR
 number: "122.70.83"
 title: Ordonnance concernant les conditions de retraite des agents et agentes de la force publique
 language: fr
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-05
+version: 2022-01-01
+valid_until: 2023-10-30
+version_adopted: 2021-12-07
 adopted: 2021-12-07
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.83"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5028/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7006/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant les conditions de retraite des agents et agentes de la force publique
 
-du 29.11.2011 (version entrée en vigueur le 01.01.2018)
+Retraite agents et agentes de la force publique – O
+
+du 07.12.2021 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu les articles 50 à 54 de la loi du 17 octobre 2001 sur le personnel de l'Etat (LPers);
+Vu les articles 50 al. 4, 51 al. 4, 52 al. 1 let. b et 54 al. 1 de la loi du 17 octobre 2001 sur le personnel de l'Etat (LPers);
 
-Vu l'article 38 al. 3 du règlement du 17 décembre 2002 du personnel de l'Etat (RPers);
+Vu l'article 20 al. 1 let. j de la loi du 12 mai 2011 sur la Caisse de prévoyance du personnel de l'Etat (LCP);
+
+Vu le règlement sur le régime de pensions de la Caisse de prévoyance du personnel de l'Etat (RRP), état au 1<sup>er</sup> janvier 2022;
 
 Sur la proposition de la Direction de la sécurité et de la justice et de la Direction des institutions, de l'agriculture et des forêts,
 
 Arrête:
 
+## 1 Champ d'application
+
 #### Art. 1
 
-**Champ d'application**
+**Agents et agentes de la force publique**
 
-<sup>1</sup> Sont considérés comme agents et agentes de la force publique au sens de la présente ordonnance:
+<sup>1</sup> Ont le statut d'agents et agentes de la force publique au sens de la présente ordonnance:
 
 - a) les agents et agentes de police au sens de l'article 8 al. 1 let. a de la loi du 15 novembre 1990 sur la Police cantonale;
-- b) les collaborateurs et collaboratrices de l'Etablissement de détention fribourgeois chargés de la surveillance et de l'encadrement au sens de l'article 32 al. 2 de la loi du 7 octobre 2016 sur l'exécution des peines et des mesures;
-- c) ...
-- d) les gardes-faune.
+- b) les convoyeurs et les convoyeuses au sens de l'article 3 de l'arrêté du 23 décembre 1991 sur les agents auxiliaires de la Police cantonale et leurs chef-fe-s;
+- c) les collaborateurs et collaboratrices de l'Etablissement de détention fribourgeois chargés de la surveillance et de l'encadrement au sens de l'article 32 al. 2 de la loi du 7 octobre 2016 sur l'exécution des peines et des mesures;
+- d) les garde-faune, au sens de l'article 10 al. 2 de l'ordonnance du 16 décembre 2003 sur la surveillance de la faune et de la flore, de la chasse et de la pêche (OSurv).
 
 #### Art. 2
 
-**Age limite de la retraite**
+**Droit aux prestations**
 
-<sup>1</sup> L'âge limite de la retraite des agents et agentes de la force publique est fixé à 60 ans.
+<sup>1</sup> Le statut d'agent et d'agente de la force publique donne droit aux prestations de retraite au sens de la présente ordonnance.
 
-<sup>2</sup> Dès le mois suivant celui au cours duquel l'agent ou l'agente de la force publique a atteint l'âge de 60 ans révolus, les rapports de service cessent de plein droit.
+<sup>2</sup> Les contrats d'engagement des agents et agentes de la force publique mentionnent les prestations auxquelles ils et elles ont droit en vertu de la présente ordonnance, ainsi que l'âge limite de leur retraite, déterminé conformément à l'article 3.
 
-<sup>3</sup> Le remboursement de l'avance AVS consentie par la Caisse de prévoyance du personnel de l'Etat est financé par l'Etat, jusqu'à concurrence de 100 % de la rente maximale AVS.
+<sup>3</sup> En cas de perte du statut d'agent ou d'agente de la force publique, le droit aux prestations de retraite au sens du présent règlement est supprimé d'office, sans compensation.
+
+## 2 Âge de la retraite
 
 #### Art. 3
 
-**Retraite volontaire entre 58 et 60 ans**
+**Âge limite de la retraite**
 
-<sup>1</sup> Les agents et agentes de la force publique ont le droit de prendre une retraite volontaire entre 58 et 60 ans.
+<sup>1</sup> Pour les agents et agentes de la force publique engagés dès le 1<sup>er</sup> janvier 2019, qui ne bénéficient pas des mesures transitoires au sens de l'article 29c LCP, l'âge limite de la retraite est fixé à 62 ans.
 
-<sup>2</sup> En cas de retraite volontaire entre 58 et 60 ans, l'Etat participe au financement du remboursement de l'avance AVS consentie par la Caisse de prévoyance du personnel de l'Etat. Les conditions de cette participation sont celles qui sont fixées par l'article 37 al. 2 et 3 RPers.
+<sup>2</sup> Pour les agents et agentes de la force publique engagés avant le 31 décembre 2018 et âgés de moins de 45 ans au 1er janvier 2022, qui ne bénéficient pas des mesures transitoires au sens de l'article 29c LCP, l'âge limite de la retraite est fixé à 62 ans.
 
-<sup>3</sup> La participation au remboursement de l'avance AVS est égale à 90 % de la rente maximale AVS, montant réduit proportionnellement par mois d'anticipation du départ volontaire à la retraite avant l'âge de 60 ans.
+<sup>3</sup> Pour les agents et agentes de la force publique engagés avant le 31 décembre 2018 et âgés de plus de 45 ans au 1<sup>er</sup> janvier 2022, qui bénéficient des mesures transitoires au sens de l'article 29c LCP, l'âge limite de la retraite est fixé à 60 ans.
 
-<sup>4</sup> La retraite partielle volontaire n'est pas possible.
+<sup>4</sup> Pour les titulaires de la fonction de chef/fe convoyeur/euse et de convoyeur/euse engagés avant le 31 décembre 2018 et âgés de plus de 45 ans au 1<sup>er</sup> janvier 2022, qui bénéficient des mesures transitoires au sens de l'article 29c LCP, l'âge limite de la retraite passe de 65 à 62 ans.
+
+<sup>5</sup> Dès le mois suivant celui au cours duquel l'agent ou l'agente de la force publique a atteint l'âge limite de la retraite fixé aux alinéas 1 à 4, les rapports de service cessent de plein droit.
 
 #### Art. 4
 
-**Disposition transitoire**
+**Retraite volontaire et partielle**
 
-<sup>1</sup> Les rapports de service des agents et agentes de la force publique âgés de plus de 60 ans au moment de l'entrée en vigueur de la présente ordonnance cessent de plein droit le 30 juin 2012.
+<sup>1</sup> Les agents et agentes de la force publique ont le droit de prendre une retraite volontaire entre 58 ans et l'âge limite qui leur est applicable au sens de l'article 3 al. 1 à 4.
 
-<sup>2</sup> L'article 2 al. 3 est applicable au financement du remboursement de l'avance AVS.
+<sup>2</sup> La retraite volontaire entre 58 et 60 ans ne peut pas être partielle.
+
+<sup>3</sup> La retraite volontaire entre 60 et 62 ans est régie conformément à l'article 37 du règlement du personnel de l'Etat du 17 décembre 2002 (RPers).
+
+## 3 Prestations de retraite pour les agents et agentes de la force publique selon l'article 3 al. 1, 2 et 4
 
 #### Art. 5
 
-**Entrée en vigueur**
+**Participation de l'Etat-employeur au rachat de la réduction actuarielle – Principes**
 
-<sup>1</sup> Cette ordonnance entre en vigueur le 1<sup>er</sup> janvier 2012.
+<sup>1</sup> Les agents et agentes de la force publique bénéficient d'une participation financière de l'Etat-employeur afin de compenser la baisse actuarielle du taux de conversion fixé par les annexes techniques du RRP, entre l'âge limite ordinaire de 65 ans selon la LPers et l'âge limite de 62 ans.
 
-2011\_134
+<sup>2</sup> La participation financière se compose comme suit:
+
+- a) une participation de 85 % au capital nécessaire afin de compenser la baisse du taux de conversion entre l'âge de 65 ans et l'âge limite de 62 ans;
+- b) un capital complémentaire correspondant au 10 % de la rente simple maximale AVS entre 62 et 65 ans.
+
+<sup>3</sup> En cas de retraite volontaire avant l'âge de 60 ans, le droit à la participation financière de l'Etat est supprimé d'office, sans compensation.
+
+<sup>4</sup> Lors d'une interruption de moins de 10 ans de l'activité, suivie d'un réengagement en tant qu'agent ou agente de la force publique, la participation financière reste garantie.
+
+<sup>5</sup> La participation financière est calculée d'une manière progressive et proportionnelle pour les agents et agentes de la force publique ayant moins de treize années de service à l'âge limite de la retraite (1/13ème par année).
+
+<sup>6</sup> La participation financière de l'Etat-employeur est versée à la Caisse de prévoyance du personnel de l'Etat (ci-après: CPPEF) au moment de la retraite de l'agent ou de l'agente de la force publique par l'autorité d'engagement, qui inscrit les dépenses à cet effet dans son budget ordinaire.
+
+#### Art. 6
+
+**Participation de l'Etat-employeur au rachat du taux de conversion – Modalités**
+
+<sup>1</sup> Le capital total nécessaire afin de compenser la baisse du taux de conversion est calculé par la CPPEF selon la formule suivante:
+
+- - Capital = Avoir de vieillesse x (taux de conversion 65 ans - taux de conversion de l'âge limite ) / (taux de conversion de l'âge limite)
+
+<sup>2</sup> L'avoir de vieillesse ne prend pas en compte notamment les rachats, retraits et remboursements dus à l'encouragement à la propriété du logement ou suite à un divorce, qui ont été effectués pendant toute la durée d'affiliation à la CPPEF.
+
+<sup>3</sup> Les prestations de libre passage provenant d'une autre institution de prévoyance et antérieures à l'engagement à l'Etat sont reprises telles quelles par la CPPEF.
+
+<sup>4</sup> En cas de réengagement selon l'article 5 al. 4, le nouvel avoir de vieillesse de départ pris en compte correspond au capital de libre passage lors du réengagement.
+
+<sup>5</sup> Le taux de conversion pris en compte est celui en vigueur lors de la date de la prise de la retraite selon les annexes techniques du RRP.
+
+#### Art. 7
+
+**Capital complémentaire correspondant au 10 % de la rente simple maximale AVS**
+
+<sup>1</sup> Le capital correspondant au 10 % de la rente simple maximale AVS entre 62 et 65 ans est calculé par la CPPEF selon la formule suivante:
+
+- - Capital = (Rente simple maximale AVS / 100 x 10) x 36 mois x taux d'activité moyen
+
+<sup>2</sup> Le capital est calculé proportionnellement au taux d'activité moyen des sept dernières années d'activité de l'agent ou de l'agente au service de l'Etat. Toutefois, il est tenu compte des treize dernières années lorsque ce calcul est plus favorable au collaborateur ou à la collaboratrice.
+
+<sup>3</sup> La rente simple maximale AVS prise en compte est celle en vigueur à la date de la retraite de l'agent ou de l'agente de la force publique.
+
+#### Art. 8
+
+**Participation de l'agent ou de l'agente de la force publique au rachat du taux de conversion**
+
+<sup>1</sup> L'agent ou l'agente de la force publique peut, pendant toute l'affiliation à la CPPEF, compenser la baisse actuarielle du taux de conversion pour la part non financée par l'employeur par des rachats, en application des annexes techniques du RRP.
+
+#### Art. 9
+
+**Remboursement de l'avance AVS entre l'âge limite de 62 ans et l'âge ordinaire de 65 ans**
+
+<sup>1</sup> Le remboursement de l'avance AVS consentie par la CPPEF, en vertu de l'article 45 RRP, est financé par l'Etat, jusqu'à concurrence de 90 % de la rente maximale AVS.
+
+#### Art. 10
+
+**Remboursement de l'avance AVS en cas de retraite volontaire entre 58 ans et l'âge limite de 62 ans**
+
+<sup>1</sup> En cas de retraite volontaire entre 58 ans et l'âge limite de 62 ans, l'Etat participe au financement du remboursement de l'avance AVS consentie par la CPPEF, en vertu de l'article 45 RRP. Les conditions de cette participation sont celles qui sont fixées à l'article 37 al. 2 et 3 RPers.
+
+<sup>2</sup> La participation au remboursement de l'avance AVS est égale à 90 % de la rente maximale AVS, montant réduit proportionnellement par mois d'anticipation du départ volontaire à la retraite avant l'âge de 60 ans.
+
+## 4 Prestations de retraite pour les agents et agentes de la force publique selon l'article 3 al. 3
+
+#### Art. 11
+
+**Remboursement de l'avance AVS entre l'âge limite de 60 ans et l'âge ordinaire de 65 ans**
+
+<sup>1</sup> Le remboursement de l'avance AVS consentie par la CPPEF, en vertu de l'article 45 RRP est financé par l'Etat, jusqu'à concurrence de 100 % de la rente maximale AVS.
+
+#### Art. 12
+
+**Remboursement de l'avance AVS en cas de retraite volontaire entre 58 et 60 ans**
+
+<sup>1</sup> En cas de retraite volontaire entre 58 ans et l'âge limite de 60 ans, l'Etat participe au financement du remboursement de l'avance AVS consentie par la CPPEF en vertu de l'article 45 RRP. Les conditions de cette participation sont celles qui sont fixées à l'article 37 al. 2 et 3 RPers.
+
+<sup>2</sup> La participation au remboursement de l'avance AVS est égale à 90 % de la rente maximale AVS, montant réduit proportionnellement par mois d'anticipation du départ volontaire à la retraite avant l'âge de 60 ans.
+
+2021\_164

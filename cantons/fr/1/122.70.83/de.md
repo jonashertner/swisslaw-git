@@ -1,78 +1,169 @@
 ---
 canton: FR
 number: "122.70.83"
-title: Verordnung über die Pensionierung der mit Polizeigewalt ausgestatteten Beamtinnen und Beamten
+title: Verordnung über die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-05
+version: 2022-01-01
+valid_until: 2023-10-30
+version_adopted: 2021-12-07
 adopted: 2021-12-07
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.83"
-pdf: "https://bdlf.fr.ch/api/de/versions/5028/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7006/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Pensionierung der mit Polizeigewalt ausgestatteten Beamtinnen und Beamten
+# Verordnung über die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen
 
-vom 29.11.2011 (Fassung in Kraft getreten am 01.01.2018)
+Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen – V
+
+vom 07.12.2021 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf die Artikel 50–54 des Gesetzes vom 17. Oktober 2001 über das Staatspersonal (StPG);
+gestützt auf die Artikel 50 Abs. 4, 51 Abs. 4, 52 Abs. 1 Bst. b und 54 Abs. 1 des Gesetzes vom 17. Oktober 2001 über das Staatspersonal (StPG);
 
-gestützt auf Artikel 38 Abs. 3 des Reglements vom 17. Dezember 2002 über das Staatspersonal (StPR);
+gestützt auf Artikel 20 Abs. 1 Bst. j des Gesetzes vom 12. Mai 2011 über die Pensionskasse des Staatspersonals (PKG);
+
+gestützt auf das Reglement über den Pensionsplan der Pensionskasse des Staatspersonals (RPP), Stand am 1. Januar 2022;
 
 auf Antrag der Sicherheits- und Justizdirektion und der Direktion der Institutionen und der Land- und Forstwirtschaft,
 
 beschliesst:
 
+## 1 Geltungsbereich
+
 #### Art. 1
 
-**Geltungsbereich**
+**Beamtinnen und Beamte mit Polizeibefugnissen**
 
-<sup>1</sup> Als mit Polizeigewalt ausgestattete Beamtinnen und Beamten im Sinne dieser Verordnung gelten:
+<sup>1</sup> Den Status von Beamtinnen und Beamten mit Polizeibefugnissen im Sinne dieser Verordnung haben:
 
 - a) die Polizeibeamtinnen und -beamten im Sinne von Artikel 8 Abs. 1 Bst. a des Gesetzes vom 15. November 1990 über die Kantonspolizei;
-- b) die Mitarbeiterinnen und Mitarbeiter der Freiburger Strafanstalt im Sinne von Artikel 32 Abs. 2 des Gesetzes vom 7. Oktober 2016 über den Straf- und Massnahmenvollzug, die mit der Aufsicht und Betreuung der Gefangenen beauftragt sind;
-- c) ...
-- d) die Wildhüterinnen-Fischereiaufseherinnen und Wildhüter-Fischereiaufseher.
+- b) die Gefangenenbegleiterinnen und Gefangenenbegleiter im Sinne von Artikel 3 des Beschlusses vom 23. Dezember 1991 über die Hilfspolizisten der Kantonspolizei sowie ihre Chefinnen und Chefs;
+- c) die Mitarbeiterinnen und Mitarbeiter der Freiburger Strafanstalt, die im Sinne von Artikel 32 Abs. 2 des Gesetzes vom 7. Oktober 2016 über den Straf- und Massnahmenvollzug mit der Aufsicht und Betreuung der Gefangenen beauftragt sind;
+- d) die Wildhüterinnen-Fischereiaufseherinnen/Wildhüter-Fischereiaufseher im Sinne von Artikel 10 Abs. 2 der Verordnung vom 16. Dezember 2003 über die Aufsicht über die Tier- und Pflanzenwelt und über die Jagd und die Fischerei (AufsV).
 
 #### Art. 2
 
-**Höchstalter für die Pensionierung**
+**Leistungsanspruch**
 
-<sup>1</sup> Das Höchstalter für die Pensionierung der mit Polizeigewalt ausgestatteten Beamtinnen und Beamten beträgt 60 Jahre.
+<sup>1</sup> Der Status einer Beamtin oder eines Beamten mit Polizeibefugnissen verleiht Anspruch auf die Altersleistungen im Sinne dieser Verordnung.
 
-<sup>2</sup> Ab dem Folgemonat des Monats, in dem die mit Polizeigewalt ausgestatteten Beamtinnen und Beamten das Alter von 60 Jahren erreichen, wird das Dienstverhältnis von Rechts wegen beendet.
+<sup>2</sup> In den Anstellungsverträgen der Beamtinnen und Beamten mit Polizeibefugnissen werden die Leistungen, auf die sie nach dieser Verordnung Anspruch haben, und das gemäss Artikel 3 bestimmte Pensionsalter aufgeführt.
 
-<sup>3</sup> Die Rückerstattung des von der Pensionskasse des Staatspersonals gewährten AHV-Vorschusses wird vom Staat bis zum Betrag von 100 % der maximalen AHV-Rente finanziert.
+<sup>3</sup> Bei Verlust des Status einer Beamtin oder eines Beamten mit Polizeibefugnissen erlischt der Anspruch auf Altersleistungen im Sinne dieser Verordnung automatisch und ohne Kompensation.
+
+## 2 Pensionsalter
 
 #### Art. 3
 
-**Freiwillige Pensionierung zwischen 58 und 60 Jahren**
+**Höchstalter für die Pensionierung**
 
-<sup>1</sup> Die mit Polizeigewalt ausgestatteten Beamtinnen und Beamten haben das Recht, zwischen 58 und 60 Jahren freiwillig in den Ruhestand zu treten.
+<sup>1</sup> Das Höchstalter für die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen, die ab 1. Januar 2019 angestellt wurden und nicht von den Übergangsmassnahmen im Sinne von Artikel 29c PKG profitieren, liegt bei 62 Jahren.
 
-<sup>2</sup> Bei einer freiwilligen Pensionierung zwischen 58 und 60 Jahren beteiligt sich der Staat an der Finanzierung der Rückerstattung des von der Pensionskasse des Staatspersonals gewährten AHV-Vorschusses. Die Bedingungen dieser Beteiligung werden in Artikel 37 Abs. 2 und 3 StPR geregelt.
+<sup>2</sup> Das Höchstalter für die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen, die vor dem 31. Dezember 2018 angestellt wurden, am 1. Januar 2022 noch nicht 45 Jahre alt sind und nicht von den Übergangsmassnahmen im Sinne von Artikel 29c PKG profitieren, liegt bei 62 Jahren.
 
-<sup>3</sup> Die Beteiligung an der Rückerstattung des AHV-Vorschusses beläuft sich auf 90 % der maximalen AHV-Rente. Dieser Betrag wird proportional zur Zahl der Monate gekürzt, die der Person beim Eintritt in den freiwilligen Ruhestand zum Alter von 60 Jahren fehlen.
+<sup>3</sup> Das Höchstalter für die Pensionierung der Beamtinnen und Beamten mit Polizeibefugnissen, die vor dem 31. Dezember 2018 angestellt wurden, am 1. Januar 2022 älter als 45 Jahre sind und von den Übergangsmassnahmen im Sinne von Artikel 29c PKG profitieren, liegt bei 60 Jahren.
 
-<sup>4</sup> Freiwillige Teilpensionierung ist nicht möglich.
+<sup>4</sup> Das Höchstalter für die Pensionierung der Inhaberinnen und Inhaber der Funktion Chef/in Gefangenenbegleiter/in und Gefangenenbegleiter/in, die vor dem 31. Dezember 2018 angestellt wurden, am 1. Januar 2022 älter als 45 Jahre sind und von den Übergangsmassnahmen im Sinne von Artikel 29c PKG profitieren, liegt neu bei 62 statt wie bisher bei 65 Jahren.
+
+<sup>5</sup> Ab dem Folgemonat des Monats, in dem die Beamtinnen und Beamten mit Polizeibefugnissen das Höchstalter für die Pensionierung nach den Absätzen 1-4 erreichen, wird das Dienstverhältnis von Rechts wegen beendet.
 
 #### Art. 4
 
-**Übergangsbestimmung**
+**Freiwillige Pensionierung und Teilpensionierung**
 
-<sup>1</sup> Das Dienstverhältnis der mit Polizeigewalt ausgestatteten Beamtinnen und Beamten, die zum Zeitpunkt des Inkrafttretens dieser Verordnung älter als 60 Jahre sind, wird von Rechts wegen am 30. Juni 2012 beendet.
+<sup>1</sup> Die Beamtinnen und Beamten mit Polizeibefugnissen haben das Recht, zwischen 58 Jahren und dem nach Artikel 3 Abs. 1-4 für sie geltenden Höchstalter für die Pensionierung freiwillig in den Ruhestand zu treten.
 
-<sup>2</sup> Für die Finanzierung der Rückerstattung des AHV-Vorschusses gilt Artikel 2 Abs. 3.
+<sup>2</sup> Bei der freiwilligen Pensionierung zwischen 58 und 60 Jahren ist keine Teilpensionierung möglich.
+
+<sup>3</sup> Für die freiwillige Pensionierung zwischen 60 und 62 Jahren ist Artikel 37 des Reglements vom 17. Dezember 2002 über das Staatspersonal (StPR) massgebend.
+
+## 3 Altersleistungen für die Beamtinnen und Beamten mit Polizeibefugnissen nach Art. 3 Abs. 1, 2 und 4
 
 #### Art. 5
 
-**Inkrafttreten**
+**Beteiligung des Arbeitgebers Staat am Einkauf der versicherungstechnischen Kürzung – Grundsätze**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2012 in Kraft.
+<sup>1</sup> Die Beamtinnen und Beamten mit Polizeibefugnissen erhalten einen finanziellen Beitrag des Arbeitgebers Staat, um die versicherungstechnische Kürzung des Umwandlungssatzes gemäss den technischen Anhängen des RPP zwischen dem ordentlichen Pensionsalter von 65 Jahren nach StPG und dem Höchstalter für die Pensionierung von 62 Jahren zu kompensieren.
 
-2011\_134
+<sup>2</sup> Die finanzielle Beteiligung besteht in:
+
+- a) einer Beteiligung zu 85 % am notwendigen Kapital zur Kompensation der Senkung des Umwandlungssatzes zwischen 65 Jahren und dem Höchstalter für die Pensionierung von 62 Jahren;
+- b) einem Zusatzkapital im Umfang von 10 % der maximalen einfachen AHV-Rente zwischen 62 und 65 Jahren.
+
+<sup>3</sup> Bei freiwilliger Pensionierung vor Erreichen des 60. Altersjahres entfällt die finanzielle Beteiligung des Staates automatisch und ohne Kompensation.
+
+<sup>4</sup> Bei einem Unterbruch der Tätigkeit von weniger als 10 Jahren mit anschliessender Wiederanstellung als Beamtin oder Beamter mit Polizeibefugnissen bleibt die finanzielle Beteiligung garantiert.
+
+<sup>5</sup> Für Beamtinnen und Beamten mit Polizeibefugnissen mit weniger als dreizehn Dienstjahren bei Erreichen des Höchstalters für die Pensionierung wird die finanzielle Beteiligung progressiv und proportional berechnet (1/13 pro Jahr).
+
+<sup>6</sup> Die finanzielle Beteiligung des Arbeitsgebers Staat wird der PKSPF zum Zeitpunkt der Pensionierung der Beamtin oder des Beamten mit Polizeibefugnissen von der Anstellungsbehörde überwiesen, welche die entsprechenden Ausgaben in ihren ordentlichen Voranschlag einstellt.
+
+#### Art. 6
+
+**Beteiligung des Arbeitgebers Staat am Einkauf des Umwandlungssatzes – Modalitäten**
+
+<sup>1</sup> Das zur Kompensation der Umwandlungssatzkürzung erforderliche Gesamtkapital wird von der Pensionskasse des Staatspersonals (PKSPF) nach der folgenden Formel berechnet:
+
+- - Kapital = Altersguthaben x (Umwandlungssatz 65 Jahre – Umwand-lungssatz des Höchstalters) / (Umwandlungssatz des Höchstalters)
+
+<sup>2</sup> Im Altersguthaben nicht eingerechnet sind insbesondere die Einkäufe, Vorbezüge und Rückzahlungen für die Wohneigentumsförderung oder nach einer Scheidung, die während der ganzen Dauer des PKSPF-Anschlusses getätigt wurden.
+
+<sup>3</sup> Die Freizügigkeitsleistungen aus einer anderen Vorsorgeeinrichtung, die vor der Anstellung beim Staat datieren, werden von der PKSPF unverändert übernommen.
+
+<sup>4</sup> Bei einer Wiederanstellung nach Artikel 5 Abs. 4 entspricht das berücksichtigte neue Altersguthaben dem Freizügigkeitskapital bei der Wiederanstellung.
+
+<sup>5</sup> Der berücksichtigte Umwandlungssatz ist der zum Zeitpunkt der Pensionierung gemäss den technischen Anhängen des RPP geltende.
+
+#### Art. 7
+
+**Zusatzkapital im Umfang von 10 % der maximalen einfachen AHV-Rente**
+
+<sup>1</sup> Das Zusatzkapital entspricht 10 % der maximalen einfachen AHV-Rente zwischen 62 und 65 Jahren und wird von der Pensionskasse des Staatspersonals (PKSPF) nach der folgenden Formel berechnet:
+
+- - Kapital = (maximale einfache AHV-Rente / 100 x 10) x 36 Monate x durchschnittlicher Beschäftigungsgrad.
+
+<sup>2</sup> Das Kapital wird im Verhältnis zum durchschnittlichen Beschäftigungsgrad der letzten sieben Tätigkeitsjahre der Beamtin oder des Beamten im Staatsdienst berechnet. Fällt die Berechnung bei Berücksichtigung der letzten 13 Jahre für die Mitarbeiterin oder den Mitarbeiter vorteilhafter aus, werden jedoch diese berücksichtigt.
+
+<sup>3</sup> Massgebend für die Berechnung ist die zum Zeitpunkt der Pensionierung der Beamtin oder des Beamten mit Polizeibefugnissen geltende maximale einfache AHV-Rente.
+
+#### Art. 8
+
+**Beteiligung der Beamtin oder des Beamten mit Polizeibefugnissen am Einkauf des Umwandlungssatzes**
+
+<sup>1</sup> Die Beamtin oder der Beamte mit Polizeibefugnissen kann, während sie oder er der PKSPF angeschlossen ist, den Teil der versicherungstechnischen Umwandlungssatzkürzung, der nicht vom Arbeitgeber finanziert wird, in Anwendung der technischen Anhänge des RPP über Einkäufe kompensieren.
+
+#### Art. 9
+
+**Rückerstattung des AHV-Vorschusses zwischen dem Höchstalter für die Pensionierung von 62 Jahren und dem ordentlichen Pensionsalter von 65 Jahren**
+
+<sup>1</sup> Die Rückerstattung des von der PKSPF in Anwendung von Artikel 45 RPP gewährten AHV-Vorschusses wird vom Staat bis zum Betrag von 90 % der maximalen AHV-Rente finanziert.
+
+#### Art. 10
+
+**Rückerstattung des AHV-Vorschusses bei freiwilliger Pensionierung zwischen 58 Jahren und dem Höchstalter für die Pensionierung von 62 Jahren**
+
+<sup>1</sup> Bei freiwilliger Pensionierung zwischen 58 und dem Höchstalter für die Pensionierung von 62 Jahren beteiligt sich der Staat an der Finanzierung der Rückerstattung des von der PKSPF in Anwendung von Artikel 45 RPP gewährten AHV-Vorschusses. Die Bedingungen dieser Beteiligung werden in Artikel 37 Abs. 2 und 3 StPR geregelt.
+
+<sup>2</sup> Die Beteiligung an der Rückerstattung des AHV-Vorschusses beläuft sich auf 90 % der maximalen AHV-Rente. Dieser Betrag wird proportional zur Zahl der Monate gekürzt, die der Person beim Eintritt in den freiwilligen Ruhestand bis zum Alter von 60 Jahren fehlen.
+
+## 4 Altersleistungen für die Beamtinnen und Beamten mit Polizeibefugnissen nach Art. 3 Abs. 3
+
+#### Art. 11
+
+**Rückerstattung des AHV-Vorschusses zwischen dem Höchstalter für die Pensionierung von 60 Jahren und dem ordentlichen Pensionsalter von 65 Jahren**
+
+<sup>1</sup> Die Rückerstattung des von der PKSPF in Anwendung von Artikel 45 RPP gewährten AHV-Vorschusses wird vom Staat bis zum Betrag von 100 % der maximalen AHV-Rente finanziert.
+
+#### Art. 12
+
+**Rückerstattung des AHV-Vorschusses bei freiwilliger Pensionierung zwischen 58 und 60 Jahren**
+
+<sup>1</sup> Bei freiwilliger Pensionierung zwischen 58 und dem Höchstalter für die Pensionierung von 60 Jahren beteiligt sich der Staat an der Finanzierung der Rückerstattung des von der PKSPF in Anwendung von Artikel 45 RPP gewährten AHV-Vorschusses. Die Bedingungen dieser Beteiligung werden in Artikel 37 Abs. 2 und 3 StPR geregelt.
+
+<sup>2</sup> Die Beteiligung an der Rückerstattung des AHV-Vorschusses beläuft sich auf 90 % der maximalen AHV-Rente. Dieser Betrag wird proportional zur Zahl der Monate gekürzt, die der Person beim Eintritt in den freiwilligen Ruhestand bis zum Alter von 60 Jahren fehlen.
+
+2021\_164
