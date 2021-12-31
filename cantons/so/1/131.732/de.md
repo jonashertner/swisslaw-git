@@ -1,22 +1,22 @@
 ---
 canton: SO
 number: "131.732"
-title: Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2021
+title: Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2022
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-08
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-08-31
 adopted: 2015-09-01
 in_force: 2016-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.732"
-pdf: "https://bgs.so.ch/api/de/versions/5015/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5150/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2021
+# Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2022
 
-Vom 01.09.2015 (Stand 01.01.2021)
+Vom 01.09.2015 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -75,9 +75,9 @@ beschliesst:
 
 <sup>1</sup> Die Prozentanteile der einzelnen Städte betragen:
 
-- a) für Solothurn: 55.08 Prozent;
-- b) für Grenchen: 8.99 Prozent;
-- c) für Olten: 35.93 Prozent.
+- a) für Solothurn: 54.46 Prozent;
+- b) für Grenchen: 9.12 Prozent;
+- c) für Olten: 36.42 Prozent.
 
 #### § 5bis
 
@@ -97,13 +97,13 @@ beschliesst:
 
 <sup>1</sup> Die Grundbeiträge für die einzelnen Lastenausgleiche betragen:
 
-- a) für die Strassenlänge pro Einwohner beim geografisch-topografischen Lastenausgleich: 5'000'000 Franken;
-- b) für die Fläche pro Einwohner beim geografisch-topografischen Lastenausgleich: 5'000'000 Franken;
-- c) für die EL-Quote beim soziodemografischen Lastenausgleich: 4'500'000 Franken;
-- d) für die Ausländerquote beim soziodemografischen Lastenausgleich: 4'500'000 Franken;
+- a) für die Strassenlänge pro Einwohner beim geografisch-topografischen Lastenausgleich: 5'500'000 Franken;
+- b) für die Fläche pro Einwohner beim geografisch-topografischen Lastenausgleich: 5'500'000 Franken;
+- c) für die EL-Quote beim soziodemografischen Lastenausgleich: 5'000'000 Franken;
+- d) für die Ausländerquote beim soziodemografischen Lastenausgleich: 5'000'000 Franken;
 - e) für die Zentrumslastenabgeltung: 1'150'000 Franken;
-- f) für eine überdurchschnittliche Anzahl an Arbeitsplätzen aus bestimmten Wirtschaftszweigen des zweiten und dritten Sektors pro Einwohner beim arbeitsmarktlichen Lastenausgleich: 16’965’000 Franken;
-- g) für eine überdurchschnittliche Anzahl an Aktiengesellschaften, Gesellschaften mit beschränkter Haftung und Genossenschaften mit Sitz in der betreffenden Gemeinde pro Einwohner beim arbeitsmarktlichen Lastenausgleich: 1’885’000 Franken.
+- f) für eine überdurchschnittliche Anzahl an Arbeitsplätzen aus bestimmten Wirtschaftszweigen des zweiten und dritten Sektors pro Einwohner beim arbeitsmarktlichen Lastenausgleich: 19’080’000 Franken;
+- g) für eine überdurchschnittliche Anzahl an Aktiengesellschaften, Gesellschaften mit beschränkter Haftung und Genossenschaften mit Sitz in der betreffenden Gemeinde pro Einwohner beim arbeitsmarktlichen Lastenausgleich: 2’120’000 Franken.
 
 ## 2.
 
