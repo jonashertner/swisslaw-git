@@ -4,13 +4,13 @@ number: "640.21"
 title: Verordnung über die schulische Laufbahn
 short: Laufbahnverordnung
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-29
+version: 2022-01-01
+valid_until: 2022-07-31
+version_adopted: 2021-12-14
 adopted: 2013-06-11
 in_force: 2014-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.21"
-pdf: "https://bl.clex.ch/api/de/versions/3053/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3186/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3053/pdf_file"
 
 (Laufbahnverordnung)
 
-Vom 11.06.2013 (Stand 01.08.2021)
+Vom 11.06.2013 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -247,7 +247,7 @@ beschliesst:
 
 **Reglemente**
 
-<sup>1</sup> Auf Antrag des Amtes für Volksschulen, der Dienststelle Gymnasien und des Amtes für Berufsbildung und Berufsberatung erlässt die Bildungs-, Kultur- und Sportdirektion Reglemente zur Leistungsbeurteilung, insbesondere über die Art, Durchführung und Gewichtung der Leistungserhebungen, je für die einzelnen Bereiche.
+<sup>1</sup> Auf Antrag des Amtes für Volksschulen, der Hauptabteilung Mittelschulen und der Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) erlässt die Bildungs-, Kultur- und Sportdirektion Reglemente zur Leistungsbeurteilung, insbesondere über die Art, Durchführung und Gewichtung der Leistungserhebungen, je für die einzelnen Bereiche.
 
 ## 1.3 Individuelle Beurteilung
 
@@ -616,7 +616,7 @@ beschliesst:
 
 **Übertritt in die duale berufliche Grundbildung**
 
-<sup>1</sup> Der Übertritt in den schulischen Teil der beruflichen Grundbildung setzt das Durchlaufen der Sekundarstufe I und das Vorliegen eines vom Amt für Berufsbildung und Berufsberatung genehmigten Lehrvertrages voraus.
+<sup>1</sup> Der Übertritt in den schulischen Teil der beruflichen Grundbildung setzt das Durchlaufen der Sekundarstufe I und das Vorliegen eines von der Hauptabteilung Berufsbildung der Dienststelle BMH genehmigten Lehrvertrages voraus.
 
 #### § 48a
 
@@ -642,7 +642,7 @@ beschliesst:
 
 **Zugangsverfahren**
 
-<sup>1</sup> Die Anmeldung für den Besuch eines Brückenangebots im schulischen oder kombinierten Profil erfolgt schriftlich in Form einer Bewerbung an das Amt für Berufsbildung und Berufsberatung, Koordinationsstelle Brückenangebote, bis zum Anmeldedatum für das darauffolgende Schuljahr.
+<sup>1</sup> Die Anmeldung für den Besuch eines Brückenangebots im schulischen oder kombinierten Profil erfolgt schriftlich in Form einer Bewerbung an die Hauptabteilung Berufsbildung der Dienststelle BMH, Koordinationsstelle Brückenangebote, bis zum Anmeldedatum für das darauffolgende Schuljahr.
 
 <sup>2</sup> Die Anmeldung für den Besuch eines Brückenangebots im integrativen Profil ist jederzeit und schriftlich in Form einer Bewerbung an die Koordinationsstelle Brückenangebote möglich.
 
@@ -669,7 +669,7 @@ beschliesst:
 - e. vorzeitig aus einem Angebot der Sekundarstufe II ausgeschieden sind oder
 - f. die Weiterführung der beruflichen Grundbildung aufgrund einer Mehrfachproblematik ernsthaft gefährdet ist.
 
-<sup>2</sup> Über Ausnahmen entscheidet das Amt für Berufsbildung und Berufsberatung.
+<sup>2</sup> Über Ausnahmen entscheidet die Hauptabteilung Berufsbildung der Dienststelle BMH.
 
 <sup>3</sup> Besteht ein Anspruch auf erstmalige berufliche Massnahmen der Invalidenversicherung, sind die Angebote der Berufsintegration subsidiär.
 
@@ -679,7 +679,7 @@ beschliesst:
 
 <sup>1</sup> Die Anmeldung für die Berufsintegration erfolgt bei der Anlauf- und Aufnahmestelle des Zentrums Berufsintegration.
 
-<sup>2</sup> Die Anlauf- und Aufnahmestelle des Zentrums Berufsintegration weist zu seinen Angeboten zu oder empfiehlt dem Amt für Berufsbildung und Berufsberatung, Abteilung Berufsintegration, die Zuweisung zu speziellen Programmen gemäss § 3b Abs. 2 der Verordnung für die Berufsbildung vom 17. März 2009[^48d-1].
+<sup>2</sup> Die Anlauf- und Aufnahmestelle des Zentrums Berufsintegration weist zu seinen Angeboten zu oder empfiehlt der Hauptabteilung Berufsbildung der Dienststelle BMH, Abteilung Berufsintegration, die Zuweisung zu speziellen Programmen gemäss § 3b Abs. 2 der Verordnung für die Berufsbildung vom 17. März 2009[^48d-1].
 
 <sup>3</sup> Die Inanspruchnahme der einzelnen Angebote richtet sich nach dem individuellen Bedarf der Jugendlichen oder jungen Erwachsenen.
 
@@ -767,7 +767,7 @@ beschliesst:
 
 **Übertritt aus den Brückenangeboten**
 
-<sup>1</sup> Der Übertritt in den schulischen Teil der beruflichen Grundbildung setzt das Durchlaufen der Sekundarstufe I und das Vorliegen eines vom Amt für Berufsbildung und Berufsberatung genehmigten Lehrvertrags voraus.
+<sup>1</sup> Der Übertritt in den schulischen Teil der beruflichen Grundbildung setzt das Durchlaufen der Sekundarstufe I und das Vorliegen eines von der Hauptabteilung Berufsbildung der Dienststelle BMH genehmigten Lehrvertrags voraus.
 
 <sup>2</sup> Der Übertritt in die weiterführenden Schulen richtet sich nach den Übertrittsvoraussetzungen für den Übertritt aus der Sekundarstufe I, namentlich für Absolventinnen und Absolventen des Leistungszugs E nach § 51. Sind diese nicht erfüllt, kann auf Empfehlung des Klassenkonvents und für die Aufnahme in die Fachmittel- und Wirtschaftsmittelschule nach Absolvieren einer von der Bildungs-, Kultur- und Sportdirektion angebotenen, berufs- und schulwahlbezogenen Neigungs- und Eignungsabklärung eine Aufnahme im Einzelfall nach Ermessen durch die Schulleitung der aufnehmenden Schule erfolgen.
 
@@ -934,7 +934,7 @@ beschliesst:
 
 <sup>2</sup> Ist voraussehbar, dass die Nachfrage nach Ausbildungsplätzen an der Wirtschaftsmittelschule das Angebot an Praktikumsplätzen im 4. Ausbildungsjahr übersteigen wird, kann die Bildungs-, Kultur- und Sportdirektion die Zulassung beschränken und vom Bestehen eines Eignungsverfahrens abhängig machen.
 
-<sup>3</sup> Die Dienststelle Gymnasien und das Amt für Berufsbildung und Berufsberatung regeln je für ihren Bereich:
+<sup>3</sup> Die Hauptabteilungen Mittelschulen und Berufsbildung der Dienststelle BMH regeln je für ihren Bereich:
 
 - a. das Eignungsverfahren für die Aufnahme an die Wirtschaftsmittelschule im Falle einer Zulassungsbeschränkung gemäss Abs. 2;
 - b. die Übertritte aus ausserkantonalen Schulen;
