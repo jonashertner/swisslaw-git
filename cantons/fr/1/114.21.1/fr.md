@@ -4,13 +4,12 @@ number: "114.21.1"
 title: Loi sur le contrôle des habitants
 short: LCH
 language: fr
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2012-06-15
+version: 2022-01-01
+version_adopted: 2021-10-06
 adopted: 1986-05-23
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.21.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6199/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8129/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Contrôle des habitants – L
 
 (LCH)
 
-du 23.05.1986 (version entrée en vigueur le 01.01.2013)
+du 23.05.1986 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -80,7 +79,7 @@ Décrète:
 
 #### Art. 6
 
-**Déclaration d'arrivée – Lieu et forme de l'annonce**
+**Déclaration d'arrivée – Annonce par les personnes concernées**
 
 <sup>1</sup> Les ressortissants suisses ainsi que les ressortissants étrangers déjà en établissement ou en séjour dans une commune du canton s'annoncent auprès du préposé au contrôle des habitants (ci-après: le préposé).
 
@@ -93,6 +92,22 @@ Décrète:
 <sup>5</sup> Le Conseil d'Etat règle les modalités de l'annonce des personnes vivant dans les ménages collectifs visés à l'article 2 let.a<sup>bis</sup> de l'ordonnance fédérale du 21 novembre 2007 sur l'harmonisation de registres (OHR).
 
 [^6-1]: Actuellement: Service de la population et des migrants.
+
+#### Art. 6a
+
+**Déclaration d'arrivée – Obligation d'annonce de tiers**
+
+<sup>1</sup> Toute personne telle que bailleur, gérant d'immeubles ou logeur, qui loge un tiers contre rémunération pour une durée de plus de trois mois, est tenue d'annoncer l'arrivée de ce tiers dans les quatorze jours.
+
+#### Art. 6b
+
+**Déclaration d'arrivée – Modalités**
+
+<sup>1</sup> Les tiers soumis à l'obligation d'annonce selon l'article 6a peuvent le faire par correspondance ou par voie électronique, auprès du préposé au contrôle des habitants.
+
+<sup>2</sup> Les informations transmises par les personnes soumises à l'obligation d'annonce au sens de l'article 6a sont les suivantes: nom, prénom, date de naissance, sexe, adresse de domicile, commune de domicile, date de déménagement et, pour autant que possible, identificateur du bâtiment (EGID) et identificateur de logement (EWID).
+
+<sup>3</sup> L'annonce faite par un tiers ne dispense pas la personne concernée des formalités qu'elle doit accomplir personnellement, et réciproquement.
 
 #### Art. 7
 
@@ -110,7 +125,7 @@ Décrète:
 
 **Déclaration d'arrivée – Production et dépôt des documents**
 
-<sup>1</sup> Toute personne tenue de s'annoncer communique, de façon conforme à la vérité, les données nécessaires à la tenue des registres des habitants.
+<sup>1</sup> Toute personne astreinte à l'obligation d'annoncer au sens des articles 6 et 6a communique, de façon conforme à la vérité, les données nécessaires à la tenue des registres des habitants.
 
 <sup>2</sup> Les ressortissants suisses qui s'établissent dans la commune y déposent leur acte d'origine ou, à défaut, un document équivalent délivré par les autorités compétentes de l'état civil. Ceux qui sont astreints à s'annoncer pour un séjour déposent une attestation d'établissement délivrée par la commune d'établissement.
 
@@ -122,13 +137,13 @@ Décrète:
 
 #### Art. 8a
 
-**Obligation de renseigner**
+**Obligation de renseigner sur demande**
 
 <sup>1</sup> Lorsque les personnes tenues de s'annoncer ne s'acquittent pas de leur obligation ou ne le font que de manière incomplète, les personnes suivantes communiquent sur demande au préposé les données nécessaires à la tenue du registre des habitants:
 
 - a) les employeurs, pour leurs employés;
-- b) les bailleurs et gérants d'immeubles, pour les locataires qui habitent leurs immeubles, qui y emménagent ou qui les quittent;
-- c) les logeurs, pour les personnes habitant dans leur ménage.
+- b) …
+- c) les logeurs, pour les personnes habitant dans leur ménage à titre gratuit.
 
 <sup>2</sup> Les services industriels et les autres services tenant des registres officiels communiquent sur demande au préposé les données nécessaires pour déterminer et mettre à jour l'identificateur de logement d'une personne.
 
@@ -148,7 +163,7 @@ Décrète:
 
 **Changement de situation**
 
-<sup>1</sup> Tout changement des données relatives à l'identité et à l'adresse d'une personne établie ou en séjour (art. 6 let. a et e à g LHR et art. 4 al. 2 let. a de la présente loi), doit être communiqué par elle dans les trente jours.
+<sup>1</sup> Tout changement des données relatives à l'identité et à l'adresse d'une personne établie ou en séjour (art. 6 let. a et e à g LHR et art. 4 al. 2 let. a de la présente loi) doit être communiqué dans les trente jours par toute personne astreinte à l'obligation d'annonce au sens des articles 6 et 6a.
 
 <sup>2</sup> Les personnes qui deviennent majeures remplissent les mêmes formalités qu'un nouvel arrivant.
 
@@ -157,6 +172,8 @@ Décrète:
 **Déclaration de départ**
 
 <sup>1</sup> La personne qui quitte la commune doit annoncer son départ au préposé sans délai et indiquer sa destination.
+
+<sup>2</sup> Cette obligation incombe également à toute personne désignée à l'article 6a, à l'exception toutefois de l'obligation d'indiquer la destination de la personne qui quitte le logement.
 
 ## 3 Organisation
 
@@ -198,7 +215,7 @@ Décrète:
 
 <sup>2</sup> Elle dispose, pour accomplir ses tâches, du service chargé des questions de population et de migration[^15-2].
 
-[^15-1]: Actuellement: Direction de la sécurité et de la justice.
+[^15-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
 [^15-2]: Actuellement: Service de la population et des migrants.
 
 #### Art. 15a
@@ -213,9 +230,9 @@ Décrète:
 
 #### Art. 15b
 
-**Service de la statistique**
+**Service de la statistique et de la donnée**
 
-<sup>1</sup> Le Service de la statistique est l'autorité compétente au sens de l'article 9 LHR. Il exerce toutes les tâches qui lui sont dévolues à ce titre par la législation fédérale.
+<sup>1</sup> Le Service de la statistique et de la donnée est l'autorité compétente au sens de l'article 9 LHR. Il exerce toutes les tâches qui lui sont dévolues à ce titre par la législation fédérale.
 
 ## 4 Communication et protection des données
 
@@ -242,6 +259,7 @@ Décrète:
 <sup>2</sup> Selon que leurs tâches exigent un accès régulier ou ponctuel aux données de la plate-forme, ces autorités et administrations bénéficient:
 
 - a) d'un accès direct à certaines données de la plate-forme informatique, par le biais d'une procédure d'appel;
+- a<sup>bis</sup>) de la possibilité d'adresser électroniquement à la plate-forme informatique une requête tendant à la communication de certaines données;
 - b) de la possibilité de demander au service chargé des questions de population et de migration des données relatives aux habitants de plusieurs communes.
 
 <sup>3</sup> Le Conseil d'Etat règle la procédure d'autorisation et les modalités du droit d'accès, en prenant en considération les exigences de la protection des données.
@@ -270,7 +288,9 @@ Décrète:
 
 **Communication à des personnes privées – Communication aux personnes privées chargées d'une tâche publique**
 
-<sup>1</sup> L'article 16a al. 1 et al. 2 let. b est applicable aux particuliers et organisations privées chargés de l'exécution d'une tâche publique ou qui sont au bénéfice d'un mandat de prestations et/ou subventionnés par l'Etat.
+<sup>1</sup> L'article 16a est applicable aux particuliers et organisations privées chargés de l'exécution d'une tâche publique ou qui sont au bénéfice d'un mandat de prestations et/ou subventionnés par l'Etat.
+
+<sup>2</sup> L'organe compétent pour autoriser les accès à la plate-forme informatique s'assure, au moyen d'un contrat, que la sécurité des données transmises est garantie.
 
 #### Art. 18
 

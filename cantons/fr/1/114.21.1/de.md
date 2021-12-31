@@ -4,13 +4,12 @@ number: "114.21.1"
 title: Gesetz über die Einwohnerkontrolle
 short: EKG
 language: de
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2012-06-15
+version: 2022-01-01
+version_adopted: 2021-10-06
 adopted: 1986-05-23
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.21.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6199/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8129/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Einwohnerkontrolle – G
 
 (EKG)
 
-vom 23.05.1986 (Fassung in Kraft getreten am 01.01.2013)
+vom 23.05.1986 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -80,7 +79,7 @@ beschliesst:
 
 #### Art. 6
 
-**Ankunftserklärung – Ort und Form der Anmeldung**
+**Ankunftserklärung – Meldung durch betroffene Personen**
 
 <sup>1</sup> Schweizerische sowie ausländische Staatsangehörige, die sich bereits in einer Gemeinde des Kantons niedergelassen haben oder aufhalten, melden sich beim Vorsteher der Einwohnerkontrolle (der Vorsteher) an.
 
@@ -93,6 +92,22 @@ beschliesst:
 <sup>5</sup> Der Staatsrat regelt die Modalitäten der Anmeldung von Personen, die sich in Kollektivhaushalten nach Artikel 2 Bst. a<sup>bis</sup> der Registerharmonisierungsverordnung des Bundes vom 21. November 2007 (RHV) aufhalten.
 
 [^6-1]: Heute: Amt für Bevölkerung und Migration.
+
+#### Art. 6a
+
+**Ankunftserklärung – Meldepflicht Dritter**
+
+<sup>1</sup> Alle Personen, wie Vermieter, Liegenschaftsverwaltungen oder Logisgeber, die gegen Entgelt Drittpersonen für eine Dauer von mehr als drei Monaten beherbergen, müssen die Ankunft dieser Drittpersonen innerhalb von vierzehn Tagen melden.
+
+#### Art. 6b
+
+**Ankunftserklärung – Einzelheiten**
+
+<sup>1</sup> Dritte, die gemäss Artikel 6a meldepflichtig sind, können die Meldung auf dem Korrespondenzweg oder auf elektronischem Weg beim Vorsteher der Einwohnerkontrolle vornehmen.
+
+<sup>2</sup> Personen, die gemäss Artikel 6a meldepflichtig sind, übermitteln die folgenden Informationen: Name, Vorname, Geburtsdatum, Geschlecht, Wohnadresse, Wohngemeinde, Umzugsdatum und soweit möglich Gebäudeidentifikator (EGID) und Wohnungsidentifikator (EWID).
+
+<sup>3</sup> Die Meldung durch Dritte entbindet die betroffene Person nicht von den Formalitäten, die sie persönlich vornehmen muss; dies gilt auch im umgekehrten Fall.
 
 #### Art. 7
 
@@ -110,7 +125,7 @@ beschliesst:
 
 **Ankunftserklärung – Vorlage und Hinterlegung der Schriften**
 
-<sup>1</sup> Alle Meldepflichtigen müssen über die für die Führung der Einwohnerregister erforderlichen Daten wahrheitsgetreu Auskunft erteilen.
+<sup>1</sup> Alle Personen, die gemäss Artikel 6 und 6a meldepflichtig sind, müssen über Daten, die für die Führung der Einwohnerregister erforderlich sind, wahrheitsgetreu Auskunft erteilen.
 
 <sup>2</sup> Schweizerinnen und Schweizer, die sich in einer Gemeinde niederlassen, hinterlegen dort ihren Heimatschein oder, wenn kein solcher vorhanden ist, ein von den zuständigen Zivilstandsbehörden ausgestelltes gleichwertiges Dokument. Wer verpflichtet ist, sich für einen Aufenthalt anzumelden, hinterlegt eine von der Niederlassungsgemeinde ausgestellte Niederlassungsbescheinigung.
 
@@ -122,13 +137,13 @@ beschliesst:
 
 #### Art. 8a
 
-**Auskunftspflicht**
+**Auskunftspflicht auf Verlangen**
 
 <sup>1</sup> Kommen meldepflichtige Personen ihrer Verpflichtung nicht oder nur unvollständig nach, so erteilen die nachfolgenden Personen dem Vorsteher auf Anfrage hin die für die Führung des Einwohnerregisters notwendigen Auskünfte:
 
 - a) Arbeitgeber über die bei ihnen beschäftigten Personen;
-- b) Vermieter und Liegenschaftsverwaltungen über einziehende, ausziehende und wohnhafte Mieter;
-- c) Logisgeber über die in ihrem Haushalt wohnenden Personen.
+- b) …
+- c) Logisgeber über Personen, die unentgeltlich in ihrem Haushalt wohnen.
 
 <sup>2</sup> Die industriellen Betriebe und die übrigen Stellen, die amtliche Register führen, teilen dem Vorsteher auf Anfrage hin für jede Person die Daten mit, die zur Bestimmung und Nachführung des Wohnungsidentifikators nötig sind.
 
@@ -148,7 +163,7 @@ beschliesst:
 
 **Änderung der Umstände**
 
-<sup>1</sup> Jede Änderung der Angaben betreffend Identität und Adresse eines Niedergelassenen oder eines Aufenthalters (Art. 6 Bst. a und e–g RHG und Art. 4 Abs. 2 Bst. a dieses Gesetzes), ist von der betreffenden Person innerhalb von dreissig Tagen mitzuteilen.
+<sup>1</sup> Jede Änderung der Angaben zur Identität und Adresse eines Niedergelassenen oder eines Aufenthalters (Art. 6 Bst. a und e–g RHG und Art. 4 Abs. 2 Bst. a dieses Gesetzes) ist von jeder Person, die nach den Artikeln 6 und 6a meldepflichtig ist, innerhalb von dreissig Tagen zu melden.
 
 <sup>2</sup> Bei Volljährigkeit müssen die betroffenen Personen die gleichen Formalitäten wie Neuzuzüger erfüllen.
 
@@ -157,6 +172,8 @@ beschliesst:
 **Wegzugserklärung**
 
 <sup>1</sup> Wer die Gemeinde verlässt, muss dem Vorsteher unverzüglich seinen Wegzug melden und den Bestimmungsort angeben.
+
+<sup>2</sup> Diese Pflicht gilt auch für alle Personen nach Artikel 6a, der Bestimmungsort der wegziehenden Person muss jedoch nicht angegeben werden.
 
 ## 3 Organisation
 
@@ -198,7 +215,7 @@ beschliesst:
 
 <sup>2</sup> Die Direktion verfügt für die Erfüllung dieser Aufgaben über ein für Bevölkerungs- und Migrationsfragen zuständiges Amt[^15-2].
 
-[^15-1]: Heute: Sicherheits- und Justizdirektion.
+[^15-1]: Heute: Sicherheits-, Justiz- und Sportdirektion.
 [^15-2]: Heute: Amt für Bevölkerung und Migration.
 
 #### Art. 15a
@@ -213,9 +230,9 @@ beschliesst:
 
 #### Art. 15b
 
-**Amt für Statistik**
+**Amt für Statistik und Daten**
 
-<sup>1</sup> Das Amt für Statistik ist die zuständige Stelle nach Artikel 9 RHG. Sie erfüllt alle Aufgaben, die ihr diesbezüglich von der Bundesgesetzgebung übertragen werden.
+<sup>1</sup> Das Amt für Statistik und Daten ist die zuständige Stelle nach Artikel 9 RHG. Sie erfüllt alle Aufgaben, die ihr diesbezüglich von der Bundesgesetzgebung übertragen werden.
 
 ## 4 Mitteilung und Datenschutz
 
@@ -242,6 +259,7 @@ beschliesst:
 <sup>2</sup> Je nachdem, ob ihre Aufgaben einen regelmässigen oder punktuellen Zugriff auf die Daten der Informatikplattform erfordern, verfügen diese Behörden und Verwaltungen über:
 
 - a) einen direkten Zugriff auf gewisse Daten der Informatikplattform mittels Abrufverfahren;
+- a<sup>bis</sup>) die Möglichkeit, für die Bekanntgabe bestimmter Daten eine elektronische Anfrage an die Informatikplattform zu senden;
 - b) die Möglichkeit, bei dem für Bevölkerungs- und Migrationsfragen zuständigen Amt Daten über die Einwohner von mehreren Gemeinden zu verlangen.
 
 <sup>3</sup> Der Staatsrat regelt das Bewilligungsverfahren und die Modalitäten des Zugriffsrechts, wobei er die Anforderungen des Datenschutzes berücksichtigt.
@@ -270,7 +288,9 @@ beschliesst:
 
 **Bekanntgabe an private Personen – Mitteilung an private Personen, die eine öffentliche Aufgabe wahrnehmen**
 
-<sup>1</sup> Artikel 16a Abs. 1 und 2 Bst. b ist anwendbar für private Personen und Organisationen, die mit der Erfüllung einer öffentlichen Aufgabe beauftragt sind, über einen Leistungsauftrag verfügen oder vom Staat Subventionen empfangen.
+<sup>1</sup> Artikel 16a gilt für private Personen und Organisationen, die mit der Erfüllung einer öffentlichen Aufgabe beauftragt sind, über einen Leistungsauftrag verfügen oder vom Staat Subventionen empfangen.
+
+<sup>2</sup> Das Organ, das für die Gewährung des Zugriffs auf die Informatikplattform zuständig ist, sorgt mit einem Vertrag für die Sicherheit der übermittelten Daten.
 
 #### Art. 18
 
