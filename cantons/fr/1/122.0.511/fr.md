@@ -4,13 +4,13 @@ number: "122.0.511"
 title: "Directives CHA relatives à l'information et à la communication"
 short: DirInf
 language: fr
-version: 2015-04-28
-valid_until: 2021-12-31
-version_adopted: 2015-03-30
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2022-01-31
 adopted: 2015-03-30
 in_force: 2015-04-28
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.511"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5002/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7106/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Information et communication - Directives CHA
 
 (DirInf)
 
-du 30.03.2015 (version entrée en vigueur le 28.04.2015)
+du 30.03.2015 (version entrée en vigueur le 01.01.2022)
 
 La Chancellerie d'Etat du canton de Fribourg
 
@@ -54,7 +54,7 @@ Adopte ce qui suit:
 
 <sup>2</sup> Sont toutefois réservés:
 
-- a) de manière générale, le statut d'indépendance de l'Autorité cantonale de la transparence et de la protection des données (art. 31 OInf);
+- a) de manière générale, le statut d'indépendance de l'Autorité cantonale de la transparence, de la protection des données et de la médiation (art. 31 OInf);
 - b) pour les règles relatives aux sites Internet, les dérogations découlant de la situation particulière des entités qui ne sont pas soumises à l'obligation d'administrer leurs sites à l'aide du système de gestion de contenu de l'Etat (CMS) (art. 35 al. 2 OInf) ou qui ne sont pas soumises aux exigences relatives à l'identité visuelle (art. 3 al. 1 OIV).
 
 #### Art. 3

@@ -4,13 +4,13 @@ number: "122.0.511"
 title: Richtlinie SK über die Information und die Kommunikation
 short: InfoRL
 language: de
-version: 2015-04-28
-valid_until: 2021-12-31
-version_adopted: 2015-03-30
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2022-01-31
 adopted: 2015-03-30
 in_force: 2015-04-28
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.511"
-pdf: "https://bdlf.fr.ch/api/de/versions/5002/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7106/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Information und Kommunikation - Richtlinie SK
 
 (InfoRL)
 
-vom 30.03.2015 (Fassung in Kraft getreten am 28.04.2015)
+vom 30.03.2015 (Fassung in Kraft getreten am 01.01.2022)
 
 Die Staatskanzlei des Kantons Freiburg
 
@@ -54,7 +54,7 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleiben:
 
-- a) allgemein die unabhängige Stellung der Behörde für Öffentlichkeit und Datenschutz (Art. 31 InfoV);
+- a) allgemein die unabhängige Stellung der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation (Art. 31 InfoV);
 - b) für die Vorschriften über die Websites die Ausnahmen aufgrund der besonderen Situation der Einheiten, die ihre Sites nicht mit dem Content Management des Staates (CMS) verwalten müssen (Art. 35 Abs. 2 InfoV) und die nicht die Anforderungen des Corporate Design erfüllen müssen (Art. 3 Abs. 1 CDV).
 
 #### Art. 3
