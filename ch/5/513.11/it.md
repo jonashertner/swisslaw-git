@@ -4,11 +4,11 @@ title: "Ordinanza del 29 marzo 2017 sulle strutture dell'esercito (OStrE)"
 short: OStrE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/218"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2017-218-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-218-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20200101/it"
 
 (OStrE)
 
-del 29 marzo 2017 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 29 marzo 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -147,17 +147,24 @@ Allegato 1*[^t-1]*
 
 ## Strutture dell’esercito
 
-[^t-1]: Aggiornato dal n. II dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)).
+[^t-1]: Aggiornato dal n. II dell’O del 20 nov. 2019 ([RU 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)) e dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)).
 
 <table>
 <tr><th>1. Livello dell’articolazione</th><th>2. Livello dell’articolazione</th><th>3. Livello dell’articolazione</th><th>Livello della struttura</th></tr>
 <tr><td>Capo dell’esercito</td><td></td><td></td><td></td></tr>
 <tr><td>Stato maggiore dell’esercito</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Istruzione operativa</td></tr>
 <tr><td>Comando Operazioni</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Servizio informazioni militare</td><td></td><td></td></tr>
 <tr><td></td><td>Forze terrestri</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Centro di competenza sistemi di condotta e specialistici</td></tr>
 <tr><td></td><td></td><td></td><td>Battaglione di stato maggiore delle Forze terrestri 20</td></tr>
+<tr><td></td><td></td><td></td><td>Stato maggiore di ingegneri delle Forze terrestri</td></tr>
+<tr><td></td><td></td><td></td><td>Battaglione di stato maggiore del comando forze speciali</td></tr>
+<tr><td></td><td></td><td></td><td>Distaccamento d’intervento delle forze speciali 104 (204)</td></tr>
+<tr><td></td><td></td><td></td><td>Battaglione di granatieri 20</td></tr>
+<tr><td></td><td></td><td></td><td>Battaglione di granatieri 30</td></tr>
+<tr><td></td><td></td><td></td><td>Comando del Centro d’istruzione delle forze speciali</td></tr>
 <tr><td></td><td></td><td>Brigata meccanizzata 1</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Battaglione di stato maggiore della brigata meccanizzata 1</td></tr>
 <tr><td></td><td></td><td></td><td>Battaglione di blindati 12</td></tr>
@@ -272,6 +279,7 @@ Allegato 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Battaglione della logistica sanitaria 81</td></tr>
 <tr><td></td><td></td><td></td><td>Battaglione di supporto sanitario 9</td></tr>
 <tr><td></td><td>Ambito sanitario</td><td></td><td></td></tr>
+<tr><td></td><td>Stato maggiore sanitario</td><td></td><td></td></tr>
 <tr><td>Base d’aiuto alla condotta dell’esercito</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Brigata d’aiuto alla condotta 41</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Comando Sistemi/Istruzione dei quadri/Supporto</td></tr>
@@ -287,6 +295,7 @@ Allegato 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Gruppo d’elettronica 46</td></tr>
 <tr><td></td><td></td><td></td><td>Gruppo GE 51</td></tr>
 <tr><td></td><td></td><td></td><td>Gruppo GE 52</td></tr>
+<tr><td></td><td></td><td></td><td>Battaglione ciber 42</td></tr>
 <tr><td>Comando Istruzione</td><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Comando del Centro d’istruzione dell’esercito</td></tr>
 <tr><td></td><td>Istruzione superiore dei quadri dell’esercito</td><td></td><td></td></tr>
@@ -309,6 +318,10 @@ Allegato 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Centro di competenza servizio veterinario e animali dell’esercito, ivi compreso gruppo veterinario e animali dell’esercito 13</td></tr>
 <tr><td></td><td>Personale dell’esercito</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Comando del reclutamento</td></tr>
+<tr><td></td><td>Formazione superiore dei quadri dell’esercito</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Comando della Scuola di stato maggiore generale</td></tr>
+<tr><td></td><td></td><td></td><td>Comando della Scuola centrale</td></tr>
+<tr><td></td><td></td><td></td><td>Comando dell’Accademia militare</td></tr>
 </table>
 
 Allegato 2

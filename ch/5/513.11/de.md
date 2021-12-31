@@ -4,11 +4,11 @@ title: Verordnung vom 29. März 2017 über die Strukturen der Armee (VSA)
 short: VSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/218"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2017-218-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-218-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20200101/de"
 
 (VSA)
 
-vom 29. März 2017 (Stand am 1. Januar 2020)
+vom 29. März 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -147,17 +147,19 @@ Anhang 1*[^t-1]*
 
 ## Strukturen der Armee
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 2019 ([AS 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)) und Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)).
 
 <table>
 <tr><th>1. Gliederungsebene</th><th>2. Gliederungsebene</th><th>3. Gliederungsebene</th><th>Strukturebene</th></tr>
 <tr><td>Chef der Armee</td><td></td><td></td><td></td></tr>
 <tr><td>Armeestab</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Operative Schulung</td></tr>
 <tr><td>Kommando Operationen</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Militärischer Nachrichtendienst</td><td></td><td></td></tr>
 <tr><td></td><td>Heer</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Kompetenzzentrum Führungs- und Fachsysteme</td></tr>
 <tr><td></td><td></td><td></td><td>Heeresstabsbataillon 20</td></tr>
+<tr><td></td><td></td><td></td><td>Ingenieurstab Heer</td></tr>
 <tr><td></td><td></td><td>Mechanisierte Brigade 1</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Mechanisierte Brigade Stabsbataillon 1</td></tr>
 <tr><td></td><td></td><td></td><td>Panzerbataillon 12</td></tr>
@@ -252,6 +254,7 @@ Anhang 1*[^t-1]*
 <tr><td></td><td>Kompetenzzentrum SWISSINT</td><td></td><td></td></tr>
 <tr><td></td><td>Kommando Spezialkräfte</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Spezialkräfte Stabsbataillon</td></tr>
+<tr><td></td><td></td><td></td><td>Spezialkräfte Bereitschaftsdetachement 104 (204)</td></tr>
 <tr><td></td><td></td><td></td><td>Grenadierbataillon 20</td></tr>
 <tr><td></td><td></td><td></td><td>Grenadierbataillon 30</td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Ausbildungszentrum Spezialkräfte</td></tr>
@@ -271,10 +274,10 @@ Anhang 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Spitalbataillon 75</td></tr>
 <tr><td></td><td></td><td></td><td>Sanitätslogistikbataillon 81</td></tr>
 <tr><td></td><td></td><td></td><td>Sanitätssupportbataillon 9</td></tr>
-<tr><td></td><td>Bereich Sanität</td><td></td><td></td></tr>
+<tr><td></td><td>Stab Sanität</td><td></td><td></td></tr>
 <tr><td>Führungsunterstützungsbasis</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Führungsunterstützungsbrigade 41</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Kommando Systeme/Kaderausbildung/Support</td></tr>
+<tr><td></td><td></td><td></td><td>Kommando Systeme/Kaderausbildung/ Support</td></tr>
 <tr><td></td><td></td><td></td><td>Führungsunterstützungsbataillon 41</td></tr>
 <tr><td></td><td></td><td></td><td>HQ Bataillon 11</td></tr>
 <tr><td></td><td></td><td></td><td>HQ Bataillon 22</td></tr>
@@ -285,12 +288,12 @@ Anhang 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Richtstrahlbataillon 21</td></tr>
 <tr><td></td><td></td><td></td><td>Richtstrahlbataillon 32</td></tr>
 <tr><td></td><td></td><td></td><td>Elektronikabteilung 46</td></tr>
-<tr><td></td><td></td><td></td><td>EKF Abteilung 51</td></tr>
+<tr><td></td><td></td><td></td><td>EFK Abteilung 51</td></tr>
 <tr><td></td><td></td><td></td><td>EKF Abteilung 52</td></tr>
+<tr><td></td><td></td><td></td><td>Cyber Bataillon 42</td></tr>
 <tr><td>Kommando Ausbildung</td><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Ausbildungszentrum der Armee</td></tr>
 <tr><td></td><td>Höhere Kaderausbildung der Armee</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Operative Schulung</td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Generalstabsschule</td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Zentralschule</td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Militärakademie</td></tr>

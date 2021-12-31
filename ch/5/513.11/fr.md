@@ -4,11 +4,11 @@ title: "Ordonnance du 29 mars 2017 sur les structures de l'armée (OStrA)"
 short: OStrA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/218"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-218-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-218-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20200101/fr"
 
 (OStrA)
 
-du 29 mars 2017 (Etat le 1<sup>er</sup> janvier 2020)
+du 29 mars 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -147,17 +147,19 @@ Annexe 1*[^t-1]*
 
 ## Structures de l’armée
 
-[^t-1]: Mise à jour par le ch. II de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)).
+[^t-1]: Mise à jour par le ch. II de l’O du 20 nov. 2019 ([RO 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)) et le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)).
 
 <table>
 <tr><th>1<sup>er</sup> échelon de l’articulation</th><th>2<sup>e</sup> échelon de l’articulation</th><th>3<sup>e</sup> échelon de l’articulation</th><th>Échelon de la structure</th></tr>
 <tr><td>Chef de l’Armée</td><td></td><td></td><td></td></tr>
 <tr><td>État-major de l’armée</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Instruction opérative</td></tr>
 <tr><td>Commandement des Opérations</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Renseignement militaire</td><td></td><td></td></tr>
 <tr><td></td><td>Forces terrestres</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Centre de compétences des systèmes techniques et de conduite</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon d’état-major des Forces terrestres 20</td></tr>
+<tr><td></td><td></td><td></td><td>État-major d’ingénieurs des Forces terrestres</td></tr>
 <tr><td></td><td></td><td>Brigade mécanisée 1</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon d’état-major de la brigade mécanisée 1</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon de chars 12</td></tr>
@@ -252,6 +254,7 @@ Annexe 1*[^t-1]*
 <tr><td></td><td>Centre de compétences SWISSINT</td><td></td><td></td></tr>
 <tr><td></td><td>Commandement des Forces spéciales</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon d’état-major du commandement des Forces spéciales</td></tr>
+<tr><td></td><td></td><td></td><td>Détachement d’engagement 104 (204) des Forces spéciales</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon de grenadiers 20</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon de grenadiers 30</td></tr>
 <tr><td></td><td></td><td></td><td>Commandement du Centre d’instruction des Forces spéciales</td></tr>
@@ -272,9 +275,10 @@ Annexe 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Bataillon de logistique sanitaire 81</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon de support sanitaire 9</td></tr>
 <tr><td></td><td>Domaine sanitaire</td><td></td><td></td></tr>
+<tr><td></td><td>État-major des Affaires sanitaires</td><td></td><td></td></tr>
 <tr><td>Base d’aide au commandement</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Brigade d’aide au commandement 41</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Commandement Systèmes/instruction des cadres/support</td></tr>
+<tr><td></td><td></td><td></td><td>Commandement Systèmes/Instruction des cadres/Support</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon d’aide au commandement 41</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon de quartier général 11</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon de quartier général 22</td></tr>
@@ -287,14 +291,14 @@ Annexe 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Groupe de l’électronique 46</td></tr>
 <tr><td></td><td></td><td></td><td>Groupe de guerre électronique 51</td></tr>
 <tr><td></td><td></td><td></td><td>Groupe de guerre électronique 52</td></tr>
+<tr><td></td><td></td><td></td><td>Bataillon cyber 42</td></tr>
 <tr><td>Commandement de l’Instruction</td><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Commandement du Centre d’instruction de l’armée</td></tr>
 <tr><td></td><td>Formation supérieure des cadres de l’armée</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Instruction opérative</td></tr>
 <tr><td></td><td></td><td></td><td>Commandement de l’École d’état-major général</td></tr>
 <tr><td></td><td></td><td></td><td>Commandement de l’École centrale</td></tr>
 <tr><td></td><td></td><td></td><td>Commandement de l’Académie militaire</td></tr>
-<tr><td></td><td></td><td></td><td>Commandement de l’École de sous-officiers de carrière de l’armée</td></tr>
+<tr><td></td><td></td><td></td><td>Commandement de l’École des sous-officiers de carrière de l’armée</td></tr>
 <tr><td></td><td>Formation d’application de l’infanterie</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon d’intervention d’infanterie 104 (204)</td></tr>
 <tr><td></td><td></td><td></td><td>Centre de compétences du service alpin de l’armée, y compris groupe de spécialistes de montagne 1</td></tr>
