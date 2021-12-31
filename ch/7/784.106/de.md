@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2020 über die Gebühren im Fernmeldebereich
 short: GebV-FMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1028"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20210101/de"
 
 (Fernmeldegebührenverordnung, GebV-FMG)
 
-vom 18. November 2020 (Stand am 1. Januar 2021)
+vom 18. November 2020 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -454,7 +454,14 @@ Beim mobilen Landfunk auf Frequenzen der Frequenzklasse A nach Artikel 6 Buchsta
 
   für eine landesweite Frequenznutzung mit ortsfesten Funkanlagen:
 
-  - 1\. auf harmonisierten Frequenzen: 50 Franken,
+  - 1\.[^24-2]
+
+    auf harmonisierten Frequenzen:
+
+    - – bis zu einer Bandbreite von 20 MHz: 50 Franken
+    - – für zusätzliche Bandbreiten von mehr als 20 MHz bis 200 MHz: 35 Franken
+    - – für zusätzliche Bandbreiten von mehr als 200 MHz: 12.50 Franken,
+
   - 2\. auf nicht harmonisierten Frequenzen: 1680 Franken;
 
 - b.
@@ -469,11 +476,13 @@ Beim mobilen Landfunk auf Frequenzen der Frequenzklasse A nach Artikel 6 Buchsta
 
 <sup>2</sup> Als harmonisiert gelten Frequenzen, die auf internationaler Ebene unter genau festgelegten Bedingungen einem einheitlichen Verwendungszweck zugewiesen sind.
 
-<sup>3</sup> Werden von 12,5 kHz abweichende Bandbreiten zugeteilt, so wird die Gesamtsumme durch 12,5 kHz geteilt, auf die nächste ganze Zahl aufgerundet und mit den Ansätzen nach Absatz 2 multipliziert.
+<sup>3</sup> Werden von 12,5 kHz abweichende Bandbreiten zugeteilt, so wird die Gesamtsumme durch 12,5 kHz geteilt, auf die nächste ganze Zahl aufgerundet und mit dem entsprechenden Ansatz nach Absatz 1 multipliziert.[^24-3]
 
 <sup>4</sup> Nutzen mehrere Konzessionärinnen ohne Kundenbeziehung im Fernmeldebereich eine ortsfeste Funkanlage gemeinsam, so ist die Gebühr für die gemeinsam genutzten Duplex-Frequenzen nur einfach zu entrichten. Die Gebühr wird von der Hauptbetreiberin der Anlage geschuldet.
 
 [^24-1]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^24-2]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 749](https://fedlex.data.admin.ch/eli/oc/2021/749)).
+[^24-3]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 749](https://fedlex.data.admin.ch/eli/oc/2021/749)).
 
 #### Art. 25
 
@@ -683,8 +692,9 @@ Für die Verwaltung von Einzelnummern beträgt die Verwaltungsgebühr ab dem Jah
 
 <sup>7</sup> Für die Verwaltung eines Rufzeichens im Zusammenhang mit Flugfunkanlagen beträgt die Verwaltungsgebühr ab dem Jahr nach der Zuteilung jährlich 50 Franken.
 
-- [tab] <sup>8</sup> Für die Verwaltung eines Rufzeichens im Zusammenhang mit Amateurfunkanlagen beträgt die Verwaltungsgebühr ab dem Jahr nach der Zuteilung jährlich 50 Franken. Für die Erstellung eines Doppels des im Rahmen der Zuteilung des Rufzeichens vergebenen Lichtbildausweises beträgt die Gebühr 50 Franken.
-- [tab] <sup>9</sup> Die in diesem Artikel verwendeten Begriffe und Abkürzungen sind im Anhang der AEFV[^46-1] erklärt.
+<sup>8</sup> Für die Verwaltung eines Rufzeichens im Zusammenhang mit Amateurfunkanlagen beträgt die Verwaltungsgebühr ab dem Jahr nach der Zuteilung jährlich 50 Franken. Für die Erstellung eines Doppels des im Rahmen der Zuteilung des Rufzeichens vergebenen Lichtbildausweises beträgt die Gebühr 50 Franken.
+
+<sup>9</sup> Die in diesem Artikel verwendeten Begriffe und Abkürzungen sind im Anhang der AEFV[^46-1] erklärt.
 
 [^46-1]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
@@ -706,11 +716,16 @@ Keine Verwaltungsgebühren werden erhoben für:
 
 **Zuteilung und Verwaltung von Domain-Namen mit der Endung «.swiss»**
 
-- [tab] <sup>1</sup> Dem Registrar von Domain-Namen mit der Endung «.swiss» wird jährlich eine Verwaltungsgebühr von 90 Franken, ohne Mehrwertsteuer, in Rechnung gestellt für die Zuteilung und Verwaltung:
+<sup>1</sup>
+
+Dem Registrar von Domain-Namen mit der Endung «.swiss» wird jährlich eine Verwaltungsgebühr von 90 Franken, ohne Mehrwertsteuer, in Rechnung gestellt für die Zuteilung und Verwaltung:
+
 - a. eines Domain-Namens nach den Artikeln 27 Absatz 2 und 53 Absätze 1 und 3 der Verordnung vom 5. November 2014[^48-1] über Internet-Domains (VID); oder
 - b. eines Domain-Namens, der mittels Namenszuteilungsmandat nach den Artikeln 53 Absatz 1 Buchstabe f und 56 VID zugeteilt wird.
-- [tab] <sup>2</sup> Für die Erstellung eines Namenszuteilungsmandats nach Artikel 56 VID wird den Gesuchstellenden für Domain-Namen mit der Endung «.swiss» eine einmalige Verwaltungsgebühr von 2500 Franken, ohne Mehrwertsteuer, in Rechnung gestellt. Die Gebühr für die Erneuerung des Mandats beträgt 850 Franken, ohne Mehrwertsteuer.
-- [tab] <sup>3</sup> Führt die Erstellung oder Erneuerung eines Namenszuteilungsmandats zu einem übermässigen Aufwand, so werden zusätzlich zu den nach Absatz 2 erhobenen Verwaltungsgebühren Zuschläge nach Zeitaufwand berechnet, ohne Mehrwertsteuer.
+
+<sup>2</sup> Für die Erstellung eines Namenszuteilungsmandats nach Artikel 56 VID wird den Gesuchstellenden für Domain-Namen mit der Endung «.swiss» eine einmalige Verwaltungsgebühr von 2500 Franken, ohne Mehrwertsteuer, in Rechnung gestellt. Die Gebühr für die Erneuerung des Mandats beträgt 850 Franken, ohne Mehrwertsteuer.
+
+<sup>3</sup> Führt die Erstellung oder Erneuerung eines Namenszuteilungsmandats zu einem übermässigen Aufwand, so werden zusätzlich zu den nach Absatz 2 erhobenen Verwaltungsgebühren Zuschläge nach Zeitaufwand berechnet, ohne Mehrwertsteuer.
 
 [^48-1]: [SR 784.104.2](https://fedlex.data.admin.ch/eli/cc/2014/701)
 
@@ -731,8 +746,8 @@ Folgende Verordnungen werden aufgehoben:
 - a. Verordnung vom 7. Dezember 2007[^50-1] über die Gebühren im Fernmeldebereich;
 - b. Fernmeldegebührenverordnung UVEK vom 7. Dezember 2007[^50-2].
 
-[^50-1]: [[AS 2007 7091](https://fedlex.data.admin.ch/eli/oc/2007/928), [2012 6583](https://fedlex.data.admin.ch/eli/oc/2012/793), [2015 4427](https://fedlex.data.admin.ch/eli/oc/2015/735), [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)Anhang Ziff. 2 [6333](https://fedlex.data.admin.ch/eli/oc/2017/700)]
-[^50-2]: [[AS 2007 7101](https://fedlex.data.admin.ch/eli/oc/2007/929), [2009 5851](https://fedlex.data.admin.ch/eli/oc/2009/711), [2012 6585](https://fedlex.data.admin.ch/eli/oc/2012/794), [2013 4079](https://fedlex.data.admin.ch/eli/oc/2013/745), [2014 4379](https://fedlex.data.admin.ch/eli/oc/2014/720), [2015 2801](https://fedlex.data.admin.ch/eli/oc/2015/526), [2017 6335](https://fedlex.data.admin.ch/eli/oc/2017/701)]
+[^50-1]: [[AS 2007 7091](https://fedlex.data.admin.ch/eli/oc/2007/928); [2012 6583](https://fedlex.data.admin.ch/eli/oc/2012/793); [2015 4427](https://fedlex.data.admin.ch/eli/oc/2015/735); [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)Anhang Ziff. 2, [6333](https://fedlex.data.admin.ch/eli/oc/2017/700)]
+[^50-2]: [[AS 2007 7101](https://fedlex.data.admin.ch/eli/oc/2007/929); [2009 5851](https://fedlex.data.admin.ch/eli/oc/2009/711); [2012 6585](https://fedlex.data.admin.ch/eli/oc/2012/794); [2013 4079](https://fedlex.data.admin.ch/eli/oc/2013/745); [2014 4379](https://fedlex.data.admin.ch/eli/oc/2014/720); [2015 2801](https://fedlex.data.admin.ch/eli/oc/2015/526); [2017 6335](https://fedlex.data.admin.ch/eli/oc/2017/701)]
 
 #### Art. 51
 

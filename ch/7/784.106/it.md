@@ -4,11 +4,11 @@ title: Ordinanza del 18 novembre 2020 sulle tasse nel settore delle telecomunica
 short: OTST
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1028"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20210101/it"
 
 (OTST)
 
-del 18 novembre 2020 (Stato 1° gennaio 2021)
+del 18 novembre 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -454,7 +454,14 @@ Per le radiocomunicazioni mobili terrestri su frequenze della classe A secondo l
 
   per un’utilizzazione delle frequenze a livello nazionale con un impianto di radiocomunicazione fisso:
 
-  - 1\. su frequenze armonizzate: 50 franchi,
+  - 1\.[^24-2]
+
+    su frequenze armonizzate:
+
+    - – fino a una larghezza di banda di 20 MHz: 50 franchi,
+    - – per larghezze di banda supplementari superiori ai 20 MHz fino a 200 MHz: 35 franchi,
+    - – per larghezze di banda supplementari superiori ai 200 MHz: 12.50 franchi,
+
   - 2\. su frequenze non armonizzate: 1680 franchi;
 
 - b.
@@ -469,11 +476,13 @@ Per le radiocomunicazioni mobili terrestri su frequenze della classe A secondo l
 
 <sup>2</sup> Sono considerate armonizzate le frequenze attribuite a livello internazionale per un uso univoco a condizioni chiaramente definite.
 
-<sup>3</sup> Se vengono attribuite larghezze di banda diverse da 12,5 kHz, l’intera somma è suddivisa per 12,5 kHz, arrotondata al numero intero superiore e moltiplicata per le tasse di cui al capoverso 2.
+<sup>3</sup> Se vengono attribuite larghezze di banda diverse da 12,5 kHz, l’intera somma è suddivisa per 12,5 kHz, arrotondata al numero intero superiore e moltiplicata per la tassa corrispondente di cui al capoverso 1.[^24-3]
 
 <sup>4</sup> In caso di coutenza di un impianto di radiocomunicazione fisso da parte di più concessionari senza relazioni con la clientela nel settore delle telecomunicazioni, la tassa per le frequenze duplex utilizzate in comune è versata solo una volta. La tassa è dovuta dal gestore principale dell’impianto.
 
 [^24-1]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^24-2]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 749](https://fedlex.data.admin.ch/eli/oc/2021/749)).
+[^24-3]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 749](https://fedlex.data.admin.ch/eli/oc/2021/749)).
 
 #### Art. 25
 
@@ -737,8 +746,8 @@ Le seguenti ordinanze sono abrogate:
 - a. ordinanza del 7 dicembre 2007[^50-1] sulle tasse nel settore delle telecomunicazioni;
 - b. ordinanza del DATEC del 7 dicembre 2007[^50-2] sulle tasse amministrative nel settore delle telecomunicazioni.
 
-[^50-1]: [[RU 2007 7091](https://fedlex.data.admin.ch/eli/oc/2007/928), [2012 6583](https://fedlex.data.admin.ch/eli/oc/2012/793), [2015 4427](https://fedlex.data.admin.ch/eli/oc/2015/735), [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)all. n. 2 [6333](https://fedlex.data.admin.ch/eli/oc/2017/700)]
-[^50-2]: [[RU 2007 7101](https://fedlex.data.admin.ch/eli/oc/2007/929), [2009 5851](https://fedlex.data.admin.ch/eli/oc/2009/711), [2012 6585](https://fedlex.data.admin.ch/eli/oc/2012/794), [2013 4079](https://fedlex.data.admin.ch/eli/oc/2013/745), [2014 4379](https://fedlex.data.admin.ch/eli/oc/2014/720), [2015 2801](https://fedlex.data.admin.ch/eli/oc/2015/526), [2017 6335](https://fedlex.data.admin.ch/eli/oc/2017/701)]
+[^50-1]: [[RU 2007 7091](https://fedlex.data.admin.ch/eli/oc/2007/928); [2012 6583](https://fedlex.data.admin.ch/eli/oc/2012/793); [2015 4427](https://fedlex.data.admin.ch/eli/oc/2015/735); [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)all. n. 2, [6333](https://fedlex.data.admin.ch/eli/oc/2017/700)]
+[^50-2]: [[RU 2007 7101](https://fedlex.data.admin.ch/eli/oc/2007/929); [2009 5851](https://fedlex.data.admin.ch/eli/oc/2009/711); [2012 6585](https://fedlex.data.admin.ch/eli/oc/2012/794); [2013 4079](https://fedlex.data.admin.ch/eli/oc/2013/745); [2014 4379](https://fedlex.data.admin.ch/eli/oc/2014/720); [2015 2801](https://fedlex.data.admin.ch/eli/oc/2015/526); [2017 6335](https://fedlex.data.admin.ch/eli/oc/2017/701)]
 
 #### Art. 51
 

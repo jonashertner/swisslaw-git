@@ -4,11 +4,11 @@ title: Ordonnance du 18 novembre 2020 sur les redevances et émoluments dans le 
 short: OREDT
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1028"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1028/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1028-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1028/20210101/fr"
 
 (OREDT)
 
-du 18 novembre 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 novembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -454,7 +454,14 @@ S’agissant de radiocommunications mobiles terrestres sur des fréquences de la
 
   pour une utilisation nationale des fréquences au moyen d’installations fixes:
 
-  - 1\. sur des fréquences harmonisées: 50 francs,
+  - 1\.[^24-2]
+
+    sur des fréquences harmonisées:
+
+    - – jusqu’à une largeur de bande de 20 MHz: 50 francs
+    - – pour des largeurs de bande supplémentaires de plus de 20 MHz jusqu’à 200 MHz: 35 francs
+    - – pour des largeurs de bande supplémentaires de plus de 200 MHz: 12,50 francs,
+
   - 2\. sur des fréquences non harmonisées: 1680 francs;
 
 - b.
@@ -469,11 +476,13 @@ S’agissant de radiocommunications mobiles terrestres sur des fréquences de la
 
 <sup>2</sup> Sont réputées harmonisées les fréquences attribuées au niveau international en vue d’une utilisation uniformisée, à des conditions définies précisément.
 
-<sup>3</sup> Lorsque des largeurs de bande autres que 12,5 kHz sont attribuées, la somme totale est divisée par 12,5 kHz, arrondie au nombre entier supérieur et multipliée par les tarifs mentionnés à l’al. 2.
+<sup>3</sup> Lorsque des largeurs de bande autres que 12,5 kHz sont attribuées, la somme totale est divisée par 12,5 kHz, arrondie au nombre entier supérieur et multipliée par le tarif correspondant mentionné à l’al. 1.[^24-3]
 
 <sup>4</sup> En cas de co-utilisation d’une installation fixe par plusieurs concessionnaires sans relation clients entre eux dans le domaine des télécommunications, l’émolument pour les fréquences duplex utilisées en commun ne doit être acquitté qu’une seule fois. L’émolument est dû par le principal exploitant de l’installation.
 
 [^24-1]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 749](https://fedlex.data.admin.ch/eli/oc/2021/749)).
+[^24-3]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 749](https://fedlex.data.admin.ch/eli/oc/2021/749)).
 
 #### Art. 25
 
@@ -683,8 +692,9 @@ Les émoluments pour la gestion d’un numéro attribué individuellement s’é
 
 <sup>7</sup> L’émolument pour la gestion d’un indicatif d’appel en lien avec des installations de radiocommunication aéronautiques s’élève à 50 francs par année, à partir de l’année qui suit l’attribution.
 
-- [tab] <sup>8</sup> L’émolument pour la gestion d’un indicatif d’appel en lien avec des installations de radioamateurs s’élève à 50 francs par année, à partir de l’année qui suit l’attribution. L’émolument pour l’établissement d’un duplicata de la carte de légitimation avec photographie délivrée dans le cadre de l’attribution d’un indicatif d’appel s’élève à 50 francs.
-- [tab] <sup>9</sup> Les termes et abréviations utilisés dans le présent article sont explicités dans l’annexe de l’ORAT[^46-1].
+<sup>8</sup> L’émolument pour la gestion d’un indicatif d’appel en lien avec des installations de radioamateurs s’élève à 50 francs par année, à partir de l’année qui suit l’attribution. L’émolument pour l’établissement d’un duplicata de la carte de légitimation avec photographie délivrée dans le cadre de l’attribution d’un indicatif d’appel s’élève à 50 francs.
+
+<sup>9</sup> Les termes et abréviations utilisés dans le présent article sont explicités dans l’annexe de l’ORAT[^46-1].
 
 [^46-1]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
@@ -736,8 +746,8 @@ Les ordonnances suivantes sont abrogées:
 - a. ordonnance du 7 décembre 2007 sur les redevances et émoluments dans le domaine des télécommunications[^50-1];
 - b. ordonnance du DETEC du 7 décembre 2007 sur les tarifs des émoluments dans le domaine des télécommunications[^50-2].
 
-[^50-1]: [[RO 2007 7091](https://fedlex.data.admin.ch/eli/oc/2007/928), [2009 803](https://fedlex.data.admin.ch/eli/oc/2009/131), [2012 6583](https://fedlex.data.admin.ch/eli/oc/2012/793), [2015 4427](https://fedlex.data.admin.ch/eli/oc/2015/735), [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)annexe ch. 2 [6333](https://fedlex.data.admin.ch/eli/oc/2017/700)]
-[^50-2]: [[RO 2007 7101](https://fedlex.data.admin.ch/eli/oc/2007/929), [2009 5851](https://fedlex.data.admin.ch/eli/oc/2009/711), [2012 6585](https://fedlex.data.admin.ch/eli/oc/2012/794), [2013 4079](https://fedlex.data.admin.ch/eli/oc/2013/745), [2014 4379](https://fedlex.data.admin.ch/eli/oc/2014/720), [2015 2801](https://fedlex.data.admin.ch/eli/oc/2015/526), [2017 6335](https://fedlex.data.admin.ch/eli/oc/2017/701)]
+[^50-1]: [[RO 2007 7091](https://fedlex.data.admin.ch/eli/oc/2007/928); [2009 803](https://fedlex.data.admin.ch/eli/oc/2009/131); [2012 6583](https://fedlex.data.admin.ch/eli/oc/2012/793); [2015 4427](https://fedlex.data.admin.ch/eli/oc/2015/735); [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)annexe ch. 2, [6333](https://fedlex.data.admin.ch/eli/oc/2017/700)]
+[^50-2]: [[RO 2007 7101](https://fedlex.data.admin.ch/eli/oc/2007/929); [2009 5851](https://fedlex.data.admin.ch/eli/oc/2009/711); [2012 6585](https://fedlex.data.admin.ch/eli/oc/2012/794); [2013 4079](https://fedlex.data.admin.ch/eli/oc/2013/745); [2014 4379](https://fedlex.data.admin.ch/eli/oc/2014/720); [2015 2801](https://fedlex.data.admin.ch/eli/oc/2015/526); [2017 6335](https://fedlex.data.admin.ch/eli/oc/2017/701)]
 
 #### Art. 51
 
