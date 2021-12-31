@@ -4,7 +4,7 @@ number: "935.53.2"
 title: RÈGLEMENT du 01.09.2021 sur la répartition du bénéfice net résiduel des loteries et paris sportifs de grande envergure (RBGE)
 short: RBGE
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.53.2?id=e927585b-c97e-495e-87ef-7989046bfadb"
 ---
 
@@ -340,7 +340,9 @@ arrête
 
 <sup>2</sup> La gestion du Fonds est assurée par le département en charge de la Police cantonale du commerce.
 
-[^28-1]: Modif. 1 du 08.06.2022: Introduction Al. 3; entrée en vigueur au 01.01.2022; Introduction Art. 35a; entrée en vigueur au 01.01.2022
+<sup>3</sup> Les frais de gestion du Fonds sont financés par un prélèvement sur le Fonds.
+
+[^28-1]: Modif. 1 du 08.06.2022: Introduction Al. 3; entrée en vigueur au 01.01.2022
 [^29-1]: Loi du 26.01.2021 d'application de la loi fédérale du 29 septembre 2017 sur les jeux d'argent ([BLV 935.51](https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.51?id=29ac35f2-bd36-4e4b-960b-cc464375b06d))
 
 ### Section III Accès au Fonds
@@ -353,9 +355,9 @@ arrête
 
 <sup>1</sup> Peuvent bénéficier d'une contribution du Fonds, toute personne morale dont le projet remplit les conditions prévues dans le présent règlement ainsi qu'aux articles 17 et suivants de la CORJA[^30-1], d'une part, de même que les fonds culturels institués par la loi sur la vie culturelle et la création artistique (LVCA)[^30-2], d'autre part.
 
-<sup>2</sup> A titre exceptionnel, des contributions peuvent également être versées à des personnes physiques, notamment dans le domaine sportif, y compris le sport-handicap. De même, des contributions peuvent exceptionnellement être attribuées à des sociétés ou organisations à but lucratif pour des projets spécifiques qui ne poursuivent pas de but lucratif. L'octroi de la contribution peut être assorti de charges et de conditions.
+<sup>2</sup> A titre exceptionnel, des contributions peuvent également être versées à des personnes physiques, notamment dans le domaine sportif, y compris le sport-handicap. De même, des contributions peuvent exceptionnellement être attribuées à des sociétés ou organisations à but lucratif ou à des entités étatiques dotées d'une indépendance organisationnelle pour des projets spécifiques qui ne poursuivent pas de but lucratif. L'octroi de la contribution peut être assorti de charges et de conditions.
 
-[^subsectionSousSectionI-1]: Modif. 1 du 08.06.2022: Introduction Art. 29, Al. 3; entrée en vigueur au 01.01.2022; Modification Al. 2; entrée en vigueur au 01.01.2022; Introduction Art. 35a; entrée en vigueur au 01.01.2022
+[^subsectionSousSectionI-1]: Modif. 1 du 08.06.2022: Modification Al. 2; entrée en vigueur au 01.01.2022
 [^30-1]: Convention du 25.11.2019 romande sur les jeux d’argent ([BLV 935.98](https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.98?id=ac3ed181-57da-4c0b-81b6-37739434ede9))
 [^30-2]: Loi du 08.04.2014 sur la vie culturelle et la création artistique ([BLV 446.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/446.11?id=006d6aa9-54d8-4d88-9592-9a05001ce852))
 
@@ -365,13 +367,13 @@ arrête
 
 <sup>1</sup> Les services de l'administration cantonale vaudoise (ci-après : services métier) sélectionnent, dans leur domaine de compétence respectif les projets éligibles pour une contribution du Fonds.
 
-<sup>2</sup> Chaque service métier a notamment pour missions :
+<sup>2</sup> ...
 
-- a. de transmettre deux fois par année au Secrétariat du Fonds la liste des projets éligibles, accompagnée d'un argumentaire à l'attention du Conseil d'Etat ;
-- b. d'établir la proposition au Conseil d'Etat pour chaque projet retenu par le Conseil d'Etat en vue de l'attribution d'une contribution du Fonds ;
-- c. d'assurer le contrôle de l'utilisation des contributions, conformément aux dispositions de l'article 39 du présent règlement et aux conditions fixées par le Conseil d'Etat dans sa décision d'octroi.
+- a. ...
+- b. ...
+- c. ...
 
-[^30-3]: Modif. 1 du 08.06.2022: Introduction Art. 29, Al. 3; entrée en vigueur au 01.01.2022; Abrogation Al. 2; entrée en vigueur au 01.01.2022; Introduction Art. 35a; entrée en vigueur au 01.01.2022
+[^30-3]: Modif. 1 du 08.06.2022: Abrogation Al. 2; entrée en vigueur au 01.01.2022
 
 #### Art. 32
 
@@ -382,13 +384,13 @@ arrête
 <sup>2</sup> Le Secrétariat a notamment pour missions de :
 
 - a. vérifier l'éligibilité à l'octroi d'une contribution des projets soumis par les services métier ;
-- b. soumettre deux fois par année au Conseil d'Etat la liste consolidée des différents projets susceptibles d'obtenir une contribution ;
-- c. assurer le versement de la contribution au projet ou au fonds concerné une fois la décision d'octroi du Conseil d'Etat rendue ;
+- b. soumettre au Conseil d'Etat la liste consolidée des différents projets susceptibles d'obtenir une contribution ;
+- c. ...
 - d. préparer le rapport annuel à l'attention de l'autorité intercantonale de surveillance des jeux d'argent (GESPA) instituée par le CJA[^32-1] ;
 - e. préparer le rapport du Conseil d'Etat à la Commission de gestion conformément à l'article 18 de la loi[^32-2].
 - f. transmettre au département en charge des finances deux fois par année, la liste des engagements futurs.
 
-[^31-1]: Modif. 1 du 08.06.2022: Introduction Art. 29, Al. 3; entrée en vigueur au 01.01.2022; Modification Al. 2, b; entrée en vigueur au 01.01.2022; Abrogation Al. 2, c; entrée en vigueur au 01.01.2022; Introduction Art. 35a; entrée en vigueur au 01.01.2022
+[^31-1]: Modif. 1 du 08.06.2022: Modification Al. 2, b; entrée en vigueur au 01.01.2022; Abrogation Al. 2, c; entrée en vigueur au 01.01.2022
 [^32-1]: Concordat du 20.05.2019 sur les jeux d’argent au niveau suisse ([BLV 935.97](https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.97?id=1f4f840e-71dc-43b2-8250-da185f0f3980))
 [^32-2]: Loi du 26.01.2021 d'application de la loi fédérale du 29 septembre 2017 sur les jeux d'argent ([BLV 935.51](https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.51?id=29ac35f2-bd36-4e4b-960b-cc464375b06d))
 
@@ -424,43 +426,57 @@ arrête
 
 <sup>2</sup> Le Conseil d'Etat peut obtenir des informations de la part des autres organes de répartition sur les projets qu'ils ont soutenus.
 
+#### Art. 35a
+
+**Restrictions aux contributions [^35-1]**
+
+<sup>1</sup> Les contributions ne revêtent généralement pas un caractère pérenne, mais peuvent cependant, lorsque les circonstances du projet le justifient, être attribuées pour une durée de trois ans au maximum.
+
+<sup>2</sup> A titre exceptionnel et en présence de motifs particuliers, des contributions peuvent être accordées à des projets pour une durée allant jusqu'à cinq ans.
+
+<sup>3</sup> Suite à l'octroi de contributions sur plusieurs années à un même projet , un délai de carence, d'une durée équivalente à celle des contributions, devra être respecté.
+
+<sup>4</sup> Les contributions du Fonds ne peuvent en principe pas être utilisées pour compenser le désengagement de l'Etat d'une subvention qu'il a accordée de manière régulière jusqu'alors. Dans un tel cas, une contribution exceptionnelle du Fonds pourra toutefois être octroyée pour une période transitoire n'excédant pas 2 ans.
+
+[^35-1]: Modif. 1 du 08.06.2022: Introduction Art. 35a; entrée en vigueur au 01.01.2022
+
 ### Sous-Section III Procédure
 
 #### Art. 36
 
 **Procédure [^subsectionSousSectionIII-1]**
 
-<sup>1</sup> Les différents services métier adressent deux fois par an au Secrétariat du Fonds une liste des projets susceptibles d'obtenir une contribution, accompagnée d'un descriptif sommaire de chaque projet.
+<sup>1</sup> Le Conseil d'Etat précise la procédure applicable aux demandes de contribution du Fonds dans une directive.
 
-<sup>2</sup> Le Secrétariat du Fonds examine si chaque projet est éligible à l'octroi d'une contribution.
+<sup>2</sup> ...
 
-<sup>3</sup> Il transmet deux fois par an au Conseil d'Etat la liste consolidée de tous les projets sélectionnés par les services métier.
+<sup>3</sup> ...
 
-<sup>4</sup> Le Conseil d'Etat établit la liste des projets retenus, qu'il communique ensuite au Secrétariat du Fonds et aux services métier.
+<sup>4</sup> ...
 
-<sup>5</sup> Chaque service métier :
+<sup>5</sup> ...
 
-- a. invite alors chaque bénéficiaire retenu à lui soumettre un dossier complet de demande de contribution ;
-- b. établit à l'attention du Conseil d'Etat la proposition formelle d'attribution d'une contribution du Fonds.
+- a. ...
+- b. ...
 
-<sup>6</sup> Le Conseil d'Etat statue alors sur les demandes en accordant ou en refusant la contribution du Fonds. Il en informe directement chaque service métier.
+<sup>6</sup> ...
 
-[^subsectionSousSectionIII-1]: Modif. 1 du 08.06.2022: Introduction Art. 29, Al. 3; entrée en vigueur au 01.01.2022; Introduction Art. 35a; entrée en vigueur au 01.01.2022; Modification Al. 1; entrée en vigueur au 01.01.2022; Abrogation Al. 2-6; entrée en vigueur au 01.01.2022
+[^subsectionSousSectionIII-1]: Modif. 1 du 08.06.2022: Modification Al. 1; entrée en vigueur au 01.01.2022; Abrogation Al. 2-6; entrée en vigueur au 01.01.2022
 
 #### Art. 37
 
-**Contenu de la demande de contribution au Fonds [^36-1]**
+**... [^36-1]**
 
-<sup>1</sup> La demande comprend :
+<sup>1</sup> ...
 
-- a. une description précise du projet détaillant notamment les objectifs poursuivis et les impacts attendus ;
-- b. un budget détaillé et un plan de financement ;
-- c. les derniers comptes et bilans révisés de l'organisation demanderesse ;
-- d. cas échéant les statuts de la personne morale soumettant la demande de contribution.
+- a. ...
+- b. ...
+- c. ...
+- d. ...
 
-<sup>2</sup> Le Secrétariat du Fonds peut demander des informations et des documents complémentaires.
+<sup>2</sup> ...
 
-[^36-1]: Modif. 1 du 08.06.2022: Introduction Art. 29, Al. 3; entrée en vigueur au 01.01.2022; Introduction Art. 35a; entrée en vigueur au 01.01.2022; Abrogation tArt; entrée en vigueur au 01.01.2022; Abrogation Al. 1-2; entrée en vigueur au 01.01.2022
+[^36-1]: Modif. 1 du 08.06.2022: Abrogation tArt; entrée en vigueur au 01.01.2022; Abrogation Al. 1-2; entrée en vigueur au 01.01.2022
 
 #### Art. 38
 
