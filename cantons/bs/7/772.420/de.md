@@ -3,13 +3,13 @@ canton: BS
 number: "772.420"
 title: Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie
 language: de
-version: 2020-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-02-21
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-25
 adopted: 2025-07-03
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.420"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4973/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5346/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4973/pdf_file"
 
 Netznutzung elektrische Energie: Gebührentarif | Energie- und Wasserversorgung
 
-Vom 4. Juli 2011 (Stand 1. Juli 2020)
+Vom 4. Juli 2011 (Stand 1. Januar 2022)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -112,11 +112,11 @@ beschliesst:
 
 <sup>2</sup> Kosten für öffentliche Beleuchtung und Uhren und Finanzierung der ungedeckten Kosten der Vergütung von Solarstrom:
 
-- a) Netzebene 3 — 0.42 Rp./kWh
-- b) Netzebene 5 — 0.60 Rp./kWh
-- c) Netzebene 7 (mit Leistungsmessung Zone 2) — 0.60 Rp./kWh
-- d) Netzebene 7 (mit Leistungsmessung Zone 1) — 1.00 Rp./kWh
-- e) Netzebene 7 (ohne Leistungsmessung) — 1.00 Rp./kWh
+- a) Netzebene 3 — 0.37 Rp./kWh
+- b) Netzebene 5 — 0.55 Rp./kWh
+- c) Netzebene 7 (mit Leistungsmessung Zone 2) — 0.55 Rp./kWh
+- d) Netzebene 7 (mit Leistungsmessung Zone 1) — 0.95 Rp./kWh
+- e) Netzebene 7 (ohne Leistungsmessung) — 0.95 Rp./kWh
 - f) …
 
 <sup>3</sup> Kosten für Systemdienstleistungen an die Swissgrid:
@@ -137,13 +137,13 @@ beschliesst:
 
 **Einfachtarif**
 
-<sup>1</sup> Der Einfachtarif beträgt 13.50 Rp./kWh.
+<sup>1</sup> Der Einfachtarif beträgt 13.20 Rp./kWh.
 
 #### § 10a
 
 **Tarif für unterbrechbare Verbraucher**
 
-<sup>1</sup> Für unterbrechbare Stromlieferungen gemäss § 2 Abs. 8 und Abs. 9 beträgt der Tarif 5.20 Rp./kWh. Falls im Notfall die Unterbrechung aufgehoben wird, gilt in diesem Zeitraum ein erhöhtes Entgelt in Höhe des sechsfachen des vorgenannten Tarifs. Dies entspricht 31.20 Rp./kWh.
+<sup>1</sup> Für unterbrechbare Stromlieferungen gemäss § 2 Abs. 8 und Abs. 9 beträgt der Tarif 7.90 Rp./kWh. Falls im Notfall die Unterbrechung aufgehoben wird, gilt in diesem Zeitraum ein erhöhtes Entgelt in Höhe von 33.50 Rp./kWh. Dies entspricht dem Zweieinhalbfachen des Normaltarifs gemäss § 11 Abs. 1 lit. a.
 
 #### § 10b
 
@@ -155,8 +155,8 @@ beschliesst:
 
 <sup>1</sup> Der Doppeltarif beträgt
 
-- a) als Normaltarif — 14.80 Rp./kWh
-- b) als Spartarif — 5.20 Rp./kWh
+- a) als Normaltarif — 13.40 Rp./kWh
+- b) als Spartarif — 7.90 Rp./kWh
 
 #### § 12
 
@@ -180,17 +180,17 @@ beschliesst:
 
 <sup>1</sup> Der Doppeltarif beträgt
 
-- a) als Normaltarif bis und mit 50'000 kWh — 8.30 Rp./kWh
-- b) als Normaltarif ab 50'000 kWh — 5.10 Rp./kWh
-- c) als Spartarif bis und mit 50'000 kWh — 4.00 Rp./kWh
-- d) als Spartarif ab 50'000 kWh — 2.70 Rp./kWh
+- a) als Normaltarif bis und mit 50'000 kWh — 7.50 Rp./kWh
+- b) als Normaltarif ab 50'000 kWh — 4.80 Rp./kWh
+- c) als Spartarif bis und mit 50'000 kWh — 5.30 Rp./kWh
+- d) als Spartarif ab 50'000 kWh — 3.40 Rp./kWh
 
 #### § 15
 
 <sup>1</sup> Die viertelstündige monatliche Höchstleistung beträgt:
 
-- a) bis und mit 27 MW — 11.20 CHF/kW
-- b) ab 27 MW — 7.90 CHF/kW
+- a) bis und mit 27 kW — 11.70 CHF/kW
+- b) ab 27 kW — 8.40 CHF/kW
 
 #### § 16
 
@@ -228,7 +228,7 @@ beschliesst:
 
 **Einfachtarif**
 
-<sup>1</sup> Für Baustellen und temporäre Netznutzerinnen und Netznutzer mit einer Bezugstelle mit einer Bezügersicherung bis und mit 100A wird ein Einfachtarif festgelegt. Er beträgt 13.50 Rp./kWh.
+<sup>1</sup> Für Baustellen und temporäre Netznutzerinnen und Netznutzer mit einer Bezugstelle mit einer Bezügersicherung bis und mit 100A wird ein Einfachtarif festgelegt. Er beträgt 13.20 Rp./kWh.
 
 #### § 23
 
@@ -266,16 +266,16 @@ beschliesst:
 
 <sup>1</sup> Der Doppeltarif beträgt:
 
-- a) als Normaltarif — 4.80 Rp./kWh
-- b) als Spartarif — 2.50 Rp./kWh
+- a) als Normaltarif — 4.50 Rp./kWh
+- b) als Spartarif — 3.00 Rp./kWh
 
 #### § 28
 
 **Leistungstarif**
 
-<sup>1</sup> Die viertelstündige monatliche Höchstleistung wird mit 7.90 CHF/kW verrechnet.
+<sup>1</sup> Die viertelstündige monatliche Höchstleistung wird mit 8.40 CHF/kW verrechnet.
 
-<sup>2</sup> Beim Tarif für unterbrechbare Stromlieferungen gemäss § 2 Abs. 8 und 9 kommt der Leistungstarif nur bei Notbetrieb zur Anwendung. Andernfalls wird kein Leistungsentgelt erhoben.
+<sup>2</sup> Beim Tarif für unterbrechbare Stromlieferungen gemäss § 2 Abs. 8 und Abs. 9 kommt der Leistungstarif nur bei Notbetrieb zur Anwendung. Andernfalls wird kein Leistungsentgelt erhoben.
 
 #### § 29
 
@@ -297,20 +297,20 @@ beschliesst:
 
 <sup>1</sup> Der Doppeltarif beträgt:
 
-- a) als Normaltarif — 3.10 Rp./kWh
-- b) als Spartarif — 1.80 Rp./kWh
+- a) als Normaltarif — 3.20 Rp./kWh
+- b) als Spartarif — 1.90 Rp./kWh
 
 #### § 32
 
 **Leistungstarif**
 
-<sup>1</sup> Die viertelstündige monatliche Höchstleistung wird mit 4.80 CHF/kW verrechnet.
+<sup>1</sup> Die viertelstündige monatliche Höchstleistung wird mit 5.30 CHF/kW verrechnet.
 
 #### § 33
 
 **Minimalentgelt**
 
-<sup>1</sup> Für jede Bezugsstelle werden mindestens CHF 1'000 pro Monat in Rechnung gestellt.
+<sup>1</sup> Für jede Bezugsstelle werden mindestens CHF 400 pro Monat in Rechnung gestellt.
 
 ## V. Netznutzungsentgelt Netzebene «öffentlicher Verkehr» (Gleichspannungsebene)
 
