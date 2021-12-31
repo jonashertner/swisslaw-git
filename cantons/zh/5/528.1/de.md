@@ -4,11 +4,11 @@ number: "528.1"
 title: Verordnung über den ABC-Schutz (ABCV)
 short: ABCV
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2024-01-01
 adopted: 2025-02-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-528_1-2007_02_28-2007_04_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-528_1-2007_02_28-2007_04_01-115.html"
 text: pdf
 ---
 
@@ -58,7 +58,7 @@ b.[^2-1] A-Ereignis Ereignis mit tatsächlicher oder vermeintlicher Freisetzung 
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 22 - 115
 
 - c. B-Ereignis Ereignis mit tatsächlicher oder vermeintlicher Freisetzung von gentechnisch veränderten oder pathogenen Organismen, dessen Auswirkungen durch die direkt Betroffenen nicht bewältigt werden können;
 
@@ -72,7 +72,7 @@ d.[^2-1] C-Ereignis Ereignis mit tatsächlicher oder vermeintlicher Freisetzung 
 
 **Massnahmen zum Schutz der Bevölkerung in den Gemeinden**
 
-§ 3.[^2-3] Die Gemeinden treffen im Sinne von § 3 Abs. 2 des Polizeiorganisationsgesetzes vom 29. November 2004[^2-4] Massnahmen zum Schutz der Bevölkerung bei A-, B- und C-Ereignissen. Dazu gehört insbesondere die Planung der Aufnahme, des Schutzes und der Betreuung von Personen aus betroffenen oder gefährdeten Gebieten.
+§ 3.[^2-3] <sup>1</sup> Die Gemeinden treffen im Sinne von § 3 Abs. 2 des Polizeiorganisationsgesetzes vom 29. November 2004[^2-4] Massnahmen zum Schutz der Bevölkerung bei A-, B- und C-Ereignissen. Dazu gehört insbesondere die Planung der Aufnahme, des Schutzes und der Betreuung von Personen aus betroffenen oder gefährdeten Gebieten.
 
 [^2-1]: Fassung gemäss RRB vom 22. April 2009 (OS 64, 193; ABl 2009, 642). In Kraft seit 1. Juni 2009.
 [^2-2]: SR 520.1.
@@ -133,7 +133,7 @@ d.[^2-1] C-Ereignis Ereignis mit tatsächlicher oder vermeintlicher Freisetzung 
 
 **3**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 22 - 115
 
 <sup>6</sup> Die Partnerorganisationen können mit Privaten Verträge über die Bereitstellung von Mannschaften, Maschinen, Transportfahrzeugen und Material für den jederzeitigen Einsatz bei A-, B- oder C-Ereignissen abschliessen.
 
@@ -227,7 +227,7 @@ Die GVZ kann mit Privaten, gemischtwirtschaftlichen Unternehmen sowie öffentlic
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 22 - 115
 
 ### B. A-Schutz
 
@@ -326,7 +326,7 @@ Die Stützpunkt-, Berufs- und Betriebsfeuerwehren a. bereiten Einsätze für die
 
 **7**
 
-- 1\. 4. 20 - 108 § 26. Das AWEL
+- 1\. 1. 22 - 115 § 26. Das AWEL
 
 **Aufgaben des AWEL**
 
@@ -429,7 +429,7 @@ Die Einsatzkräfte für die Bewältigung von C-Ereignissen werden gebildet aus:
 
 **9**
 
-- 1\. 4. 20 - 108 § 34. Die Stützpunkt-, Berufs- und Betriebsfeuerwehren bereiten Einsätze für die Bewältigung von C-Ereignissen vor und bewältigen C-Ereignisse in dem ihnen von der GVZ zugewiesenen Einsatzgebiet.
+- 1\. 1. 22 - 115 § 34. Die Stützpunkt-, Berufs- und Betriebsfeuerwehren bereiten Einsätze für die Bewältigung von C-Ereignissen vor und bewältigen C-Ereignisse in dem ihnen von der GVZ zugewiesenen Einsatzgebiet.
 
 #### § 35
 
@@ -461,11 +461,13 @@ Die Vorbereitung von Einsätzen bei C-Ereignissen und die Bewältigung von C-Ere
 
 <sup>4</sup> In den Städten Zürich und Winterthur erfüllen in der Regel die städtischen Gewässerschutzfachstellen die Aufgaben gemäss Abs. 1–3. Bei schwerwiegenden Schadenereignissen obliegt die Entscheidungsbefugnis für Sanierungs- und Entsorgungsmassnahmen dem AWEL.
 
+[^36-1]: Fassung gemäss RRB vom 7. Juli 2021 (OS 76, 393; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
+
 #### § 37
 
 **Chemiefachberatende**
 
-<sup>1</sup> Der Wissenschaftliche Dienst der Stadtpolizei Zürich stellt einen Bereitschaftsdienst mit Chemiefachberatenden sicher (Primärpikett).
+<sup>1</sup> Das Forensische Institut Zürich stellt einen Bereitschaftsdienst mit Chemiefachberatenden sicher (Primärpikett).[^36-1]
 
 <sup>2</sup> Die GVZ stellt einen ergänzenden Bereitschaftsdienst mit Chemiefachberatenden sicher (Sekundärpikett), der zum Einsatz kommt, wenn das Primärpikett nicht ausreicht.
 
@@ -489,17 +491,16 @@ Die Vorbereitung von Einsätzen bei C-Ereignissen und die Bewältigung von C-Ere
 
 <sup>2</sup> Das Kantonale Labor Zürich, das Veterinäramt und das Amt für Landschaft und Natur stellen in den ihnen gemäss §§ 3 und 4 der Verordnung zum eidgenössischen Lebensmittelgesetz vom 28. Juni 1995[^39-1] zugewiesenen Bereichen die Messung und Beurteilung von schadstoffbelasteten Lebens- und Futtermitteln und von schadstoffbelastetem Trinkwasser sicher und ordnen die notwendigen Massnahmen an.
 
-<sup>3</sup> Der Wissenschaftliche Dienst der Stadtpolizei Zürich stellt die Untersuchung anderer Schadstoffe sicher.
-
-[^39-1]: LS 817.1.
-
-#### § 40
+<sup>3</sup> Das Forensische Institut Zürich stellt die Untersuchung anderer Schadstoffe sicher.[^39-2]
 
 **Aufgaben der Gemeinden**
 
-<sup>1</sup> Die Gemeinden rüsten ihre Feuerwehr für Sofortmassnahmen bei C-Ereignissen bis zum Eintreffen der Stützpunktfeuerwehr aus. Die GVZ und das AWEL bestimmen Art und Umfang der Ausrüstung.
+§ 40. <sup>1</sup> Die Gemeinden rüsten ihre Feuerwehr für Sofortmassnahmen bei C-Ereignissen bis zum Eintreffen der Stützpunktfeuerwehr aus. Die GVZ und das AWEL bestimmen Art und Umfang der Ausrüstung.
 
 <sup>2</sup> Die Gemeinden stellen ihrer Ortsfeuerwehr und der für ihr Gebiet zuständigen Stützpunkt- oder Berufsfeuerwehr die zur Bewältigung von C-Ereignissen notwendigen Unterlagen, insbesondere Kanalisationsübersichtspläne, kostenlos zu und aktualisieren diese jährlich.
+
+[^39-1]: LS 817.1.
+[^39-2]: Fassung gemäss RRB vom 7. Juli 2021 (OS 76, 393; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
 
 #### § 41
 
@@ -515,7 +516,7 @@ Die Vorbereitung von Einsätzen bei C-Ereignissen und die Bewältigung von C-Ere
 
 **11**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 22 - 115
 
 [^41-1]: SR 814.012.
 
