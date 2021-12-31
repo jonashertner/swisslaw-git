@@ -4,11 +4,11 @@ title: "Legge federale del 2 aprile 1908 sul contratto d'assicurazione (Legge su
 short: LCA
 eli: "https://fedlex.data.admin.ch/eli/cc/24/719_735_717"
 language: it
-version: 2011-01-01
+version: 2022-01-01
 adopted: 1908-04-02
 in_force: 1910-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20110101/it/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20110101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20110101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20220101/it/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20110101/it"
 
 (Legge sul contratto d’assicurazione, LCA)**[^t-1]**
 
-del 2 aprile 1908 (Stato 1° gennaio 2011)
+del 2 aprile 1908 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: Tit. abbreviato e abbreviazione introdotti dal n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
@@ -28,9 +28,19 @@ in esecuzione dell’articolo 64 della Costituzione federale[^ingress-1];[^ingre
 decreta:
 
 [^ingress-1]: [CS **1** 3]. Questa disposizione corrisponde all’art. 122 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta il n. 8 dell’all. alla L del 24 mar. 2000 sul foro, in vigore dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
+[^ingress-2]: Nuovo testo giusta l’all. n. 8 della L del 24 mar. 2000 sul foro, in vigore dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
 
-## I. Disposizioni generali
+## Capitolo 1: Disposizioni generali****
+
+[^chap1-1]
+
+[^chap1-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Sezione 1: Conclusione del contratto****
+
+[^chap1-sec1-1]
+
+[^chap1-sec1-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Proposta di assicurazione
 
@@ -54,6 +64,44 @@ decreta:
 
 <sup>3</sup> Queste disposizioni non si applicano alla proposta di aumentare la somma assicurata.
 
+### Diritto di revoca
+
+#### Art. 2a
+
+[^2a-1]
+
+<sup>1</sup> Lo stipulante può revocare la proposta di conclusione del contratto o la dichiarazione di accettazione dello stesso per scritto o in un’altra forma che consenta la prova per testo.
+
+<sup>2</sup> Il termine di revoca è di quattordici giorni e decorre dal momento in cui lo stipulante ha proposto o accettato il contratto.
+
+<sup>3</sup> Il termine è osservato se lo stipulante comunica la revoca all’assicuratore, o consegna la dichiarazione di revoca alla posta, entro l’ultimo giorno del termine.
+
+<sup>4</sup> Il diritto di revoca è escluso per le assicurazioni collettive di persone, le coperture provvisorie e le convenzioni di durata inferiore a un mese.
+
+<sup>5</sup> Fintantoché, nonostante la revoca, il terzo leso può fare valere in buona fede pretese nei confronti dell’assicuratore, lo stipulante deve il premio e l’assicuratore non può opporre al terzo leso l’inefficacia del contratto.
+
+[^2a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Effetti della revoca
+
+#### Art. 2b
+
+[^2b-1]
+
+<sup>1</sup> La revoca rende inefficace sin dall’inizio la proposta di conclusione del contratto o la dichiarazione di accettazione dello stipulante. Nel caso di assicurazioni sulla vita vincolate a partecipazioni, dev’essere restituito il valore al momento della revoca.
+
+<sup>2</sup> Le parti devono restituire le prestazioni già ricevute.
+
+<sup>3</sup> Lo stipulante non deve all’assicuratore nessun’altra indennità. Ove l’equità lo richieda, lo stipulante deve rifondere in tutto o in parte all’assicuratore le spese per gli accertamenti particolari da questo svolti in buona fede in vista della conclusione del contratto.
+
+[^2b-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Sezione 2: Obblighi d’informare****
+
+[^chap1-sec2-1]
+
+[^chap1-sec2-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
 ### Obbligo d’informare dell’assicuratore
 
 #### Art. 3
@@ -62,22 +110,31 @@ decreta:
 
 <sup>1</sup>
 
-Prima della conclusione del contratto d’assicurazione, l’assicuratore deve informare lo stipulante, in maniera comprensibile, sulla propria identità e sul contenuto essenziale del contratto d’assicurazione. Egli lo informa sui seguenti elementi:
+Prima della conclusione del contratto d’assicurazione, l’assicuratore deve informare lo stipulante, in maniera comprensibile e in una forma che consenta la prova per testo, sulla propria identità e sul contenuto essenziale del contratto d’assicurazione. Esso lo informa sui seguenti elementi:[^3-2]
 
 - a. rischi assicurati;
-- b. portata della protezione assicurativa;
+- b.[^3-3] l’estensione della copertura assicurativa e il tipo di assicurazione, ovvero se si tratta di un’assicurazione di somma fissa o di un’assicurazione contro i danni;
 - c. premi dovuti e altri obblighi dello stipulante;
 - d. durata e estinzione del contratto d’assicurazione;
 - e. basi di calcolo e principi e metodi per la determinazione delle eccedenze e la partecipazione alle stesse;
-- f. valori di riscatto e di trasformazione;
-- g. trattamento dei dati personali, compresi lo scopo e il genere della collezione di dati, nonché destinatari e conservazione dei dati.
+- f.[^3-4] i valori di riscatto e di trasformazione, nonché le principali tipologie di costi legate al riscatto di un’assicurazione sulla vita suscettibile di riscatto;
+- g. trattamento dei dati personali, compresi lo scopo e il genere della collezione di dati, nonché destinatari e conservazione dei dati;
+- h.[^3-5] il diritto di revoca secondo l’articolo 2*a* nonché la forma e il termine della revoca;
+- i.[^3-6] il termine di presentazione dell’avviso di sinistro di cui all’articolo 38 capoverso 1;
+- j.[^3-7] la validità temporale della protezione assicurativa, in particolare nei casi in cui il sinistro accada nel corso della durata del contratto ma il danno che ne deriva si verifichi soltanto dopo l’estinzione del contratto.
 
 <sup>2</sup> Tali informazioni sono fornite allo stipulante in modo tale ch’egli possa esserne a conoscenza quando propone o accetta il contratto d’assicurazione. In ogni caso, a quel momento deve essere in possesso delle condizioni generali d’assicurazione e dell’informazione di cui al capoverso 1 lettera g.
 
-<sup>3</sup> In caso di contratti collettivi che conferiscono un diritto diretto alle prestazioni a persone diverse dallo stipulante, questi è tenuto ad informare tali persone sul contenuto essenziale, sulle modifiche e sullo scioglimento del contratto. L’assicuratore mette a disposizione dello stipulante la documentazione necessaria a tal fine.[^3-2]
+<sup>3</sup> Il datore di lavoro che conclude un’assicurazione collettiva di persone per proteggere i propri lavoratori è tenuto a informarli, per scritto o in un’altra forma che consenta la prova per testo, sul contenuto essenziale, sulle modifiche e sullo scioglimento del contratto. L’assicuratore mette a disposizione del datore di lavoro la documentazione necessaria a tal fine.[^3-8]
 
 [^3-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2007 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^3-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 2 Lparl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)). Vedi [RU 2006 4211](https://fedlex.data.admin.ch/eli/oc/2006/633).
+[^3-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-5]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-6]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-7]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-8]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Violazione dell’obbligo d’informare
 
@@ -85,33 +142,50 @@ Prima della conclusione del contratto d’assicurazione, l’assicuratore deve i
 
 [^3a-1]
 
-<sup>1</sup> Se l’assicuratore ha violato l’obbligo d’informare di cui all’articolo 3, lo stipulante ha il diritto di recedere dal contratto, in forma scritta. Il recesso ha effetto dal momento in cui perviene all’assicuratore.
+<sup>1</sup> Se l’assicuratore ha violato l’obbligo d’informare di cui all’articolo 3, lo stipulante ha il diritto di recedere dal contratto per scritto o in un’altra forma che consenta la prova per testo. Il recesso ha effetto dal momento in cui perviene all’assicuratore.
 
-<sup>2</sup> Il diritto di recesso si estingue quattro settimane dopo che lo stipulante è venuto a conoscenza della violazione dell’obbligo e delle informazioni di cui all’articolo 3, ma al più tardi un anno dopo la violazione dell’obbligo.
+<sup>2</sup> Il diritto di recesso si estingue quattro settimane dopo che lo stipulante è venuto a conoscenza della violazione dell’obbligo e delle informazioni di cui all’articolo 3, ma al più tardi due anni dopo la violazione dell’obbligo.
 
-[^3a-1]: Introdotto dal n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2007([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^3a-1]: Introdotto dal n. I della LF del 17 dic. 2004 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)). Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Dichiarazioni obbligatorie alla conclusione del contratto
+### Dichiarazioni obbligatorie
 
 ### a. In genere
 
+[^chap1-sec2-lvlu3-lvla-1]
+
+[^chap1-sec2-lvlu3-lvla-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
 #### Art. 4
 
-<sup>1</sup> Il proponente deve dichiarare per iscritto all’assicuratore, sulla scorta di un questionario o in risposta ad altre domande scritte, tutti i fatti rilevanti per l’apprezzamento del rischio, in quanto e come gli sono o gli devono essere noti alla conclusione del contratto.
+<sup>1</sup> Il proponente deve dichiarare all’assicuratore, sulla scorta di un questionario o in risposta a domande poste in altra forma, tutti i fatti rilevanti per l’apprezzamento del rischio, in quanto e come gli sono o gli devono essere noti. Le domande e la dichiarazione devono essere fatte per scritto o in un’altra forma che consenta la prova per testo.[^4-1]
 
 <sup>2</sup> Sono rilevanti i fatti che possono influire sulla determinazione dell’assicuratore a conchiudere il contratto od a conchiuderlo alle condizioni convenute.
 
-<sup>3</sup> Si presumono rilevanti i fatti in merito ai quali l’assicuratore abbia formulato per iscritto delle questioni precise, non equivoche.
+<sup>3</sup> Si presumono rilevanti i fatti in merito ai quali l’assicuratore abbia formulato domande precise, non equivoche.[^4-2]
 
-### b. Nel contratto conchiuso a mezzo di rappresentante
+[^4-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^4-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### c. Nell’assicurazione per conto altrui
+### b. In caso di rappresentanza
+
+[^chap1-sec2-lvlu3-lvlb-1]
+
+[^chap1-sec2-lvlu3-lvlb-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### c. Nell’assicurazione di terzi
+
+[^chap1-sec2-lvlu3-lvlc-1]
+
+[^chap1-sec2-lvlu3-lvlc-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 5
 
 <sup>1</sup> Quando il contratto sia conchiuso a mezzo di un rappresentante, si dichiareranno e i fatti rilevanti che sono o devono essere noti al rappresentato e quelli che sono o devono essere noti al rappresentante.
 
-<sup>2</sup> Nel caso di assicurazione per conto altrui (art. 16) si dichiareranno anche i fatti rilevanti che sono o devono essere noti al terzo assicurato stesso od al suo intermediario, eccettochè il contratto non venga conchiuso ad insaputa di queste persone o non sia possibile di avvisare in tempo utile il proponente.
+<sup>2</sup> Nel caso dell’assicurazione di terzi (art. 16) si dichiareranno anche i fatti rilevanti che sono o devono essere noti al terzo assicurato o al suo intermediario, a meno che il contratto non venga concluso a loro insaputa o non sia possibile avvisare in tempo utile il proponente.[^5-1]
+
+[^5-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Reticenze e loro conseguenze
 
@@ -121,15 +195,17 @@ Prima della conclusione del contratto d’assicurazione, l’assicuratore deve i
 
 [^6-1]
 
-<sup>1</sup> Se alla conclusione del contratto chi era tenuto a fare la dichiarazione ha dichiarato inesattamente o taciuto un fatto rilevante che conosceva o doveva conoscere e a proposito del quale era stato interpellato per scritto, l’assicuratore ha il diritto di recedere dal contratto, in forma scritta. Il recesso ha effetto dal momento in cui perviene allo stipulante.
+<sup>1</sup> Se nel rispondere alle domande di cui all’articolo 4 capoverso 1 chi era tenuto a fare la dichiarazione ha dichiarato inesattamente o taciuto un fatto rilevante che conosceva o doveva conoscere e a proposito del quale era stato interpellato, l’assicuratore ha il diritto di recedere dal contratto per scritto o in un’altra forma che consenta la prova per testo.[^6-2] Il recesso ha effetto dal momento in cui perviene allo stipulante.
 
 <sup>2</sup> Il diritto di recesso si estingue quattro settimane dopo che l’assicuratore è venuto a conoscenza della reticenza.
 
-<sup>3</sup> Quando il contratto è sciolto per recesso in virtù del capoverso 1, l’obbligo dell’assicuratore di fornire la sua prestazione si estingue anche per i danni già intervenuti, se il fatto che è stato oggetto della reticenza ha influito sull’insorgere o la portata del danno. Se ha già fornito prestazioni per un siffatto sinistro, l’assicuratore ha diritto a restituzione.
+<sup>3</sup> Quando il contratto è sciolto per recesso in virtù del capoverso 1, l’obbligo dell’assicuratore di fornire la prestazione si estingue anche per i danni già intervenuti, nella misura in cui il fatto che è stato oggetto della reticenza abbia influito sull’insorgere o sulla portata del danno. Se ha già fornito prestazioni per un siffatto sinistro, l’assicuratore ha diritto a restituzione.[^6-3]
 
 <sup>4</sup> In caso di recesso da un contratto d’assicurazione sulla vita, riscattabile secondo la presente legge (art. 90 cpv. 2), l’assicuratore fornisce la prestazione prevista in caso di riscatto.
 
 [^6-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^6-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^6-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### b. Nel contratto di assicurazione collettiva
 
@@ -150,25 +226,39 @@ Nonostante la reticenza (art. 6) l’assicuratore non può recedere dal contratt
 - 5\. se l’assicuratore ha rinunciato al diritto di recedere dal contratto;
 - 6\. se chi è tenuto a fare la dichiarazione non risponde ad una questione a lui posta e l’assicuratore ha conchiuso ciò nondimeno il contratto. Questa disposizione non si applica al caso in cui, giusta le altre comunicazioni dell’obbligato alla dichiarazione, la questione debba essere considerata come se avesse ricevuto una risposta in un determinato senso e tale risposta apparisca come una reticenza sopra un fatto rilevante che l’obbligato alla dichiarazione conosceva o doveva conoscere.
 
-### Nullità del contratto di assicurazione
+### Sezione 3: Contenuto e obbligatorietà del contratto****
+
+[^chap1-sec3-1]
+
+[^chap1-sec3-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Copertura provvisoria
 
 #### Art. 9
 
 [^9-1]
 
-Riservati i casi di cui all’articolo 100 capoverso 2, il contratto di assicurazione è nullo se, al momento in cui fu conchiuso, il rischio era già scomparso o il sinistro era già accaduto.
+<sup>1</sup> Perché un assicuratore sia tenuto a fornire la prestazione in caso di copertura provvisoria, è sufficiente che i rischi assicurati e l’estensione della copertura assicurativa provvisoria siano determinabili. L’obbligo d’informare dell’assicuratore si riduce di conseguenza.
 
-[^9-1]: Nuovo testo giusta l’art. 115 della L del 25 giu. 1982 sull’assicurazione contro la disoccupazione, in vigore dal 1° gen. 1984 ([RU 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [FF 1980 III 469](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
+<sup>2</sup> Un premio è dovuto per quanto sia convenuto o usuale.
 
-### Eccezioni per l’assicurazione-incendio e l’assicurazione trasporti
+<sup>3</sup> Se non è limitata nel tempo, la copertura provvisoria può essere disdetta in ogni tempo con un preavviso di quattordici giorni. Essa cessa comunque al momento della conclusione del contratto definitivo con l’assicuratore in questione o con un altro assicuratore.
+
+<sup>4</sup> L’assicuratore deve confermare per scritto la copertura provvisoria.
+
+[^9-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Assicurazione con effetto retroattivo
 
 #### Art. 10
 
-<sup>1</sup> La disposizione dell’articolo 9 della presente legge non si applica alle assicurazioni-incendio relative ad oggetti situati all’estero ed alle assicurazioni-trasporti se non quando entrambe le parti sapevano al momento della conclusione del contratto che il rischio era già scomparso o che il sinistro era già accaduto.
+[^10-1]
 
-<sup>2</sup> Se al momento della conclusione del contratto l’assicuratore solo sapeva che il rischio era già scomparso, lo stipulante non è vincolato al contratto. L’assicuratore non ha diritto né al premio né al rimborso delle spese.
+<sup>1</sup> Il contratto può esplicare effetti a una data anteriore alla sua conclusione se sussiste un interesse assicurabile.
 
-<sup>3</sup> Se al momento della conclusione del contratto lo stipulante solo sapeva che il sinistro era già accaduto, l’assicuratore non è vincolato al contratto. L’assicuratore ha diritto al rimborso delle spese.
+<sup>2</sup> L’assicurazione con effetto retroattivo è nulla se soltanto lo stipulante o l’assicurato sapeva o avrebbe dovuto sapere che il sinistro si era già verificato.
+
+[^10-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Polizza
 
@@ -176,27 +266,31 @@ Riservati i casi di cui all’articolo 100 capoverso 2, il contratto di assicura
 
 #### Art. 11
 
-<sup>1</sup> L’assicuratore è tenuto a rilasciare allo stipulante una polizza che accerti i diritti e gli obblighi delle parti. Egli ha diritto di esigere dallo stipulante, oltre alle spese di porto e di bollo, una tassa per la compilazione della polizza e per le modificazioni della stessa. Il Consiglio federale potrà fissare mediante ordinanza il massimo di questa tassa.
+[^11-1]
 
-<sup>2</sup> L’assicuratore deve inoltre rilasciare allo stipulante, a richiesta e contro rimborso delle spese, una copia delle dichiarazioni contenute nella proposta di assicurazione o altrimenti fatte dal proponente e sulla cui base l’assicurazione fu conchiusa.
+<sup>1</sup> L’assicuratore rilascia allo stipulante una polizza che stabilisce i diritti e gli obblighi delle parti.
 
-### b. Accettazione senza riserva
+<sup>2</sup> L’assicuratore deve rilasciare allo stipulante che ne faccia richiesta una copia delle dichiarazioni contenute nella proposta di assicurazione o altrimenti fatte dal proponente e sulla cui base l’assicurazione è stata conclusa.
+
+[^11-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### b. ...
 
 #### Art. 12
 
-<sup>1</sup> Quando il contenuto della polizza o delle aggiunte alla stessa non concordi colle convenzioni intervenute, lo stipulante deve chiederne la rettifica entro quattro settimane dal ricevimento della polizza senza di che il tenore di questa si ritiene da lui accettato.
+[^12-1]
 
-<sup>2</sup> Questa disposizione dev’essere inserita testualmente in ogni polizza.
+[^12-1]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### c. Ammortizzazione
 
 #### Art. 13
 
-<sup>1</sup> …[^13-1]
+<sup>1</sup> ...[^13-1]
 
 <sup>2</sup> All’ammortizzazione delle polizze si applicano per analogia le disposizioni del Codice federale delle obbligazioni del 14 giugno 1881[^13-2] sull’ammortizzazione dei titoli al portatore, con la variante che il termine di produzione dev’essere di un anno al più.
 
-[^13-1]: Abrogato dal n. II 8 dell'all. 1 al codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^13-1]: Abrogato dall’all. 1 n. II 8 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^13-2]: [[RU 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490; CS **2** 3 tit. fin. art. 60 cpv. 2, 193 in fine art. 18 disp. fin. e trans. tit. XXIV a XXXIII, 770 art. 103 cpv. 1]. Ora: le disposizioni del CO ([RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)).
 
 ### Sinistro cagionato da colpa
@@ -217,59 +311,72 @@ Riservati i casi di cui all’articolo 100 capoverso 2, il contratto di assicura
 
 Quando una delle persone indicate nell’articolo 14 della presente legge abbia cagionato il sinistro adempiendo un dovere d’umanità, l’assicuratore risponde per intero.
 
-### Assicurazione per conto altrui
+### Oggetto dell’assicurazione
 
 #### Art. 16
 
-<sup>1</sup> L’assicurazione può essere conchiusa per conto proprio o per conto altrui, con o senza designazione della persona del terzo assicurato.
+[^16-1]
 
-<sup>2</sup> Nel dubbio si presume che lo stipulante abbia conchiuso l’assicurazione per conto proprio.
+<sup>1</sup> L’assicurazione ha per oggetto un interesse assicurabile dello stipulante (assicurazione per conto proprio) o di un terzo (assicurazione per conto di terzi). L’assicurazione può riferirsi alla persona, a cose o al rimanente patrimonio dello stipulante (assicurazione propria) o di un terzo (assicurazione di terzi).
 
-### Particolarità dell’assicurazione per conto altrui
+<sup>2</sup> Nel dubbio si presume che lo stipulante abbia concluso l’assicurazione per conto proprio.
 
-#### Art. 17
+<sup>3</sup> Nel caso dell’assicurazione per conto di terzi, l’assicuratore può opporre loro tutte le eccezioni opponibili allo stipulante.
 
-<sup>1</sup> L’assicurazione per conto altrui vincola l’assicuratore anche quando il terzo assicurato ratifichi il contratto solo dopo accaduto il sinistro.
+[^16-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>2</sup> Lo stipulante ha diritto di pretendere l’indennità dall’assicuratore senza il consenso dell’assicurato, se questi gli ha conferito senza riserva il mandato di conchiudere l’assicurazione o se allo stipulante incombeva per legge l’obbligo di provvedere all’assicurazione.
+#### Art. 17 e 18
 
-<sup>3</sup> L’assicuratore non ha diritto di compensare i crediti che gli spettano verso lo stipulante coll’indennità dovuta all’assicurato. Rimane ferma la disposizione dell’articolo 18 capoverso 2 della presente legge.
+[^1718-1]
 
-### Premio
+[^1718-1]: Abrogati dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### a. Da chi è dovuto
+### Sezione 4: Premio****
 
-#### Art. 18
+[^chap1-sec4-1]
 
-<sup>1</sup> Obbligato al pagamento del premio è lo stipulante.
+[^chap1-sec4-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>2</sup> Nell’assicurazione per conto altrui l’assicuratore ha diritto di esigere il pagamento del premio anche dall’assicurato, se lo stipulante è divenuto insolvibile e non ha peranco ricevuto il premio dall’assicurato.
+### Scadenza
 
-<sup>3</sup> Nell’assicurazione a favore di terzi l’assicuratore ha diritto di compensare il premio con la prestazione da lui dovuta al beneficiario.
+[^chap1-sec4-lvlu1-1]
 
-### b. Scadenza
+[^chap1-sec4-lvlu1-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 19
 
 <sup>1</sup> Salvo stipulazione contraria il premio per il primo periodo di assicurazione scade al momento della conclusione del contratto. Per periodo di assicurazione s’intende lo spazio di tempo secondo il quale vien calcolata l’unità di premio. Nel dubbio il periodo di assicurazione è di un anno.
 
-<sup>2</sup> L’assicuratore che ha rilasciato la polizza avanti il pagamento del primo premio non può invocare la clausola della polizza stessa giusta la quale l’assicurazione entra in vigore solo dopo il pagamento di detto premio.
+<sup>2</sup> ...[^19-1]
 
 <sup>3</sup> I premi successivi scadono, nel dubbio, al principio d’ogni nuovo periodo di assicurazione.
 
-### c. Obbligo della diffida. Conseguenze della mora
+[^19-1]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Obbligo della diffida. Conseguenze della mora
+
+[^chap1-sec4-lvlu2-1]
+
+[^chap1-sec4-lvlu2-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 20
 
-<sup>1</sup> Se il premio non è pagato alla scadenza o entro il termine di rispetto concesso dal contratto, il debitore dev’essere diffidato per iscritto a sue spese e sotto comminatoria delle conseguenze della mora, ad effettuarne il pagamento entro quattordici giorni dall’invio della diffida.
+<sup>1</sup> Se il premio non è pagato alla scadenza o entro il termine di rispetto concesso dal contratto, il debitore dev’essere diffidato per scritto o in un’altra forma che consenta la prova per testo, a sue spese e sotto comminatoria delle conseguenze della mora, ad effettuarne il pagamento entro quattordici giorni dall’invio della diffida.[^20-1]
 
-<sup>2</sup> Se il premio è incassato presso il debitore, l’assicuratore può sostituire la diffida scritta con una verbale.
+<sup>2</sup> Se il premio è incassato presso il debitore, la diffida può essere comunicata oralmente.[^20-2]
 
 <sup>3</sup> Se la diffida rimane senza effetto l’obbligazione dell’assicuratore è sospesa a datare dalla scadenza del termine di diffida.
 
 <sup>4</sup> È riservata la disposizione dell’articolo 93 della presente legge.
 
-### d. Rapporto contrattuale dopo la mora
+[^20-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^20-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Rapporto contrattuale dopo la mora
+
+[^chap1-sec4-lvlu3-1]
+
+[^chap1-sec4-lvlu3-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 21
 
@@ -277,25 +384,17 @@ Quando una delle persone indicate nell’articolo 14 della presente legge abbia 
 
 <sup>2</sup> Se l’assicuratore ha richiesto il premio o l’ha accettato più tardi, la sua responsabilità rinasce dal momento in cui il premio arretrato venga pagato con interessi e spese.
 
-### e. Luogo del pagamento; Debito portabile e debito chiedibile
+#### Art. 22 e 23
 
-#### Art. 22
+[^2223-1]
 
-[^22-1]
+[^2223-1]: Abrogati dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>1</sup> I premio è pagabile, per l’assicuratore svizzero, alla sua sede, per l’assicuratore straniero, alla sede dell’insieme degli affari svizzeri, qualora l’assicuratore non abbia designato allo stipulante un altro luogo di pagamento in Svizzera.
+### Divisibilità del premio
 
-<sup>2</sup> L’assicuratore che, senza esservi obbligato, ha proceduto regolarmente all’incasso del premio presso il debitore, deve attenersi a tale uso finché non l’abbia espressamente revocato.
+[^chap1-sec4-lvlu4-1]
 
-[^22-1]: Nuovo testo giusta il n. 3 dell’all. alla L del 23 giu. 1978 sulla sorveglianza degli assicuratori, in vigore dal 1° gen. 1979 ([RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [FF 1976 II 859](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)).
-
-### f. Riduzione del premio
-
-#### Art. 23
-
-Quando il premio sia stato convenuto in considerazione di determinate circostanze che aggravavano il rischio, e queste circostanze siano scomparse o abbiano perduto la loro importanza nel corso dell’assicurazione, lo stipulante può chiedere che per i periodi futuri di assicurazione il premio sia ridotto in conformità di tariffa.
-
-### g*.* Divisibilità del premio
+[^chap1-sec4-lvlu4-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 24
 
@@ -313,15 +412,37 @@ Quando il premio sia stato convenuto in considerazione di determinate circostanz
 
 [^2527-1]: Abrogati dal n. I della LF del 17 dic. 2004, con effetto dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
+### Sezione 5: Modifica del contratto****
+
+[^chap1-sec5-1]
+
+[^chap1-sec5-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
 ### Aggravamento del rischio ad opera dello stipulante
 
 #### Art. 28
 
 <sup>1</sup> Se nel corso dell’assicurazione lo stipulante ha cagionato un aggravamento essenziale del rischio, l’assicuratore non è vincolato per l’avvenire al contratto.
 
-<sup>2</sup> L’aggravamento del rischio è essenziale quando derivi dalla modificazione di un fatto rilevante per l’apprezzamento del rischio (art. 4) e del quale le parti abbiano determinato l’estensione alla conclusione del contratto.
+<sup>2</sup> L’aggravamento del rischio è essenziale quando derivi dalla modificazione di un fatto rilevante per l’apprezzamento del rischio (art. 4) e del quale le parti abbiano determinato l’estensione basandosi sulle risposte alle domande di cui all’articolo 4 capoverso 1.[^28-1]
 
 <sup>3</sup> Il contratto può disporre se, in che misura ed entro quali termini lo stipulante debba dare avviso di tali aggravamenti del rischio all’assicuratore.
+
+[^28-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Diminuzione del rischio
+
+#### Art. 28a
+
+[^28a-1]
+
+<sup>1</sup> In caso di diminuzione essenziale del rischio, lo stipulante può recedere dal contratto con un preavviso di quattro settimane, per scritto o in un’altra forma che consenta la prova per testo, o esigere una riduzione del premio.
+
+<sup>2</sup> Se l’assicuratore respinge la domanda di riduzione del premio o lo stipulante non è d’accordo con la riduzione offerta, quest’ultimo può recedere dal contratto con un preavviso di quattro settimane, per scritto o in un’altra forma che consenta la prova per testo, entro quattro settimane dal momento in cui gli è pervenuta la risposta dell’assicuratore.
+
+<sup>3</sup> La riduzione del premio ha effetto a decorrere dal momento in cui l’assicuratore riceve la comunicazione di cui al capoverso 1.
+
+[^28a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Riserva di patti speciali
 
@@ -378,38 +499,99 @@ Nei confronti dello stipulante, l’assicuratore risponde anche degli atti del p
 
 Se nel corso dell’assicurazione le condizioni generali di assicurazione della medesima specie vengono modificate, lo stipulante può chiedere che il contratto sia continuato alle nuove condizioni. Tuttavia se per l’assicurazione alle nuove condizioni occorre una prestazione maggiore, egli deve corrispondere il congruo equivalente.
 
+### Sezione 6: Estinzione del contratto****
+
+[^chap1-sec6-1]
+
+[^chap1-sec6-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Recesso ordinario
+
+#### Art. 35a
+
+[^35a-1]
+
+<sup>1</sup> Anche se il contratto è stato concluso per una durata più lunga, vi si può recedere per scritto o in un’altra forma che consenta la prova per testo alla fine del terzo anno e di ogni anno successivo con un preavviso di tre mesi.
+
+<sup>2</sup> Le parti possono convenire la possibilità di recedere dal contratto prima della fine del terzo anno. I termini per il recesso devono essere identici per entrambe le parti.
+
+<sup>3</sup> L’assicurazione sulla vita è esclusa dal diritto di recesso ordinario.
+
+<sup>4</sup> Nell’assicurazione complementare all’assicurazione sociale malattie (art. 2 cpv. 2 della legge del 26 settembre 2014[^35a-2] sulla vigilanza sull’assicurazione malattie), il diritto di recesso ordinario e quello in caso di sinistro possono essere esercitati unicamente dallo stipulante (art. 42 cpv. 1 della presente legge). Nell’assicurazione collettiva d’indennità giornaliera tali diritti possono essere esercitati da entrambe le parti.
+
+[^35a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^35a-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+
+### Recesso straordinario
+
+#### Art. 35b
+
+[^35b-1]
+
+<sup>1</sup> Per scritto o in un’altra forma che consenta la prova per testo, si può recedere in ogni tempo dal contratto per gravi motivi.
+
+<sup>2</sup>
+
+Si considera grave motivo segnatamente:
+
+- a. una modifica imprevedibile delle disposizioni legali che rende impossibile l’adempimento del contratto;
+- b. ogni circostanza che non consenta, per ragioni di buona fede, di esigere la continuazione del contratto da parte del recedente.
+
+[^35b-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Casi d’assicurazione pendenti
+
+#### Art. 35c
+
+[^35c-1]
+
+<sup>1</sup> Sono nulle le disposizioni contrattuali che permettono all’assicuratore di limitare o sopprimere unilateralmente, quanto alla loro durata o alla loro entità, gli obblighi di prestazione periodici esistenti a seguito di malattia o infortunio, se il contratto è sciolto in seguito al verificarsi del sinistro.
+
+<sup>2</sup> In caso di cambiamento di assicurazione, è fatta salva la prosecuzione dell’assicurazione da parte di un altro assicuratore, che assuma gli obblighi di prestazione di cui al capoverso 1 quanto alla loro durata o alla loro entità.
+
+[^35c-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
 ### Revoca dell’autorizzazione; conseguenze di diritto privato
 
-[^lvlI-lvlu24-1]
+[^chap1-sec6-lvlu4-1]
 
-[^lvlI-lvlu24-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^chap1-sec6-lvlu4-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
 #### Art. 36
 
-<sup>1</sup> Lo stipulante ha diritto di recedere dal contratto se all’assicuratore è stata revocata l’autorizzazione conformemente all’articolo 61 della legge del 17 dicembre 2004[^36-1] sulla sorveglianza degli assicuratori (LSA).[^36-2]
+<sup>1</sup> Lo stipulante ha diritto di recedere in ogni tempo dal contratto se l’assicuratore che è parte al contratto non dispone dell’autorizzazione a esercitare l’attività assicurativa prescritta dalla legge del 17 dicembre 2004[^36-1] sulla sorveglianza degli assicuratori (LSA) o tale autorizzazione gli è stata revocata.[^36-2]
 
-<sup>2</sup> Se recede dal contratto, lo stipulante può pretendere la restituzione del premio pagato per il tempo di assicurazione non ancora trascorso.
+<sup>2</sup> ... [^36-3]
 
 <sup>3</sup> Se recede da un contratto di assicurazione sulla vita, ha diritto alla riserva.
 
 <sup>4</sup> Egli conserva inoltre l’azione di risarcimento.
 
 [^36-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^36-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^36-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^36-3]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Fallimento dell’assicuratore
 
 #### Art. 37
 
-<sup>1</sup> Nel caso di fallimento dell’assicuratore il contratto si estingue quattro settimane dopo la pubblicazione della dichiarazione di fallimento.[^37-1]
+<sup>1</sup> Nel caso di fallimento dell’assicuratore il contratto si estingue quattro settimane dopo la pubblicazione della dichiarazione di fallimento. È fatto salvo l’articolo 55 LSA[^37-1].[^37-2]
 
-<sup>2</sup> Lo stipulante può far valere le pretese specificate nell’articolo 36 capoversi 2 e 3 della presente legge.
+<sup>2</sup> Lo stipulante può far valere il diritto di cui all’articolo 36 capoverso 3.[^37-3]
 
 <sup>3</sup> Se per il periodo di assicurazione in corso lo stipulante ha verso l’assicuratore un diritto a indennità, egli può far valere a sua scelta, questo diritto o le pretese suindicate.
 
 <sup>4</sup> Gli rimangono inoltre riservati i diritti di risarcimento.
 
-[^37-1]: L’apertura del fallimento non estingue le assicurazioni garantite dal patrimonio vincolato (art. 55 LSA; [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^37-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^37-2]: Per. introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^37-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Sezione 7: Verificarsi del sinistro****
+
+[^chap1-sec7-1]
+
+[^chap1-sec7-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Obbligo di dare avviso del sinistro
 
@@ -420,6 +602,42 @@ Se nel corso dell’assicurazione le condizioni generali di assicurazione della 
 <sup>2</sup> Quando l’avente diritto manchi per sua colpa a quest’obbligo, l’assicuratore può ridurre l’indennità dell’importo di cui si troverebbe diminuita se l’avviso fosse stato dato in tempo.
 
 <sup>3</sup> L’assicuratore non è vincolato al contratto se l’avente diritto, nell’intenzione d’impedire che l’assicuratore possa accertare in tempo utile le circostanze nelle quali il sinistro è accaduto, ha omesso di dare indilatamente l’avviso.
+
+### Obbligo di salvataggio
+
+#### Art. 38a
+
+[^38a-1]
+
+<sup>1</sup> In caso di sinistro, l’avente diritto è tenuto a fare quanto possa per scemare il danno. Quando non vi sia pericolo in mora, egli dovrà chiedere istruzioni all’assicuratore circa i provvedimenti da prendere e conformarsi alle medesime.
+
+<sup>2</sup> Se l’avente diritto ha mancato a quest’obbligo in modo inescusabile, l’assicuratore può limitare l’indennità all’importo cui si troverebbe ridotta qualora l’obbligo fosse stato adempiuto.
+
+[^38a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Divieto di cambiamento
+
+#### Art. 38b
+
+[^38b-1]
+
+<sup>1</sup> Prima che il danno sia valutato, l’avente diritto non deve senza il consenso dell’assicuratore arrecare agli oggetti danneggiati alcun cambiamento che possa rendere più difficile o impossibile di accertare la causa del danno o il danno stesso, sempre che il cambiamento non risulti imposto dallo scopo di scemare il danno o dall’interesse pubblico.
+
+<sup>2</sup> Se l’avente diritto contravviene a quest’obbligo con intenzione fraudolenta, l’assicuratore non è vincolato al contratto.
+
+[^38b-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Spese per scemare il danno
+
+#### Art. 38c
+
+[^38c-1]
+
+<sup>1</sup> L’assicuratore è tenuto a rimborsare all’avente diritto le spese delle misure non manifestamente inopportune che questi ha prese per scemare il danno (art. 38*a* cpv. 1), anche quando tali misure siano rimaste senza effetto, o quando le spese aggiunte all’indennità eccedano l’importo della somma assicurata.
+
+<sup>2</sup> Se la somma assicurata non raggiunge il valore di risarcimento l’assicuratore sopporta le spese nella proporzione esistente fra la somma assicurata ed il valore di risarcimento.
+
+[^38c-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Giustificazioni incombenti all’avente diritto
 
@@ -446,7 +664,7 @@ Il contratto può disporre:
 
 <sup>3</sup> Il Consiglio federale disciplina i particolari.
 
-[^39a-1]: Introdotto dal n. 1 dell’all. alla LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^39a-1]: Introdotto dall’all. n. 1 della LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^39a-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 ### Collaborazione interistituzionale
@@ -467,7 +685,7 @@ Sempre che nessun interesse privato preponderante vi si opponga, nell’ambito d
 
 <sup>3</sup> L’interessato dev’essere informato circa la comunicazione dei dati.
 
-[^39b-1]: Introdotto dal n. 1 dell’all. alla LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^39b-1]: Introdotto dall’all. n. 1 della LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^39b-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 ### Frodi nelle giustificazioni
@@ -484,6 +702,18 @@ L’assicuratore non è vincolato al contratto di fronte all’avente diritto, s
 
 <sup>2</sup> È nulla la clausola per cui il credito diventerà esigibile solo dopo che sia stato riconosciuto dall’assicuratore o ammesso da sentenza definitiva.
 
+### Versamento di acconti
+
+#### Art. 41a
+
+[^41a-1]
+
+<sup>1</sup> Se l’assicuratore contesta il suo obbligo di prestazione, scaduto il termine di cui all’articolo 41 capoverso 1 l’avente diritto può esigere il versamento di acconti sino a concorrenza dell’importo non contestato.
+
+<sup>2</sup> La stessa regola si applica se non è chiaro come la prestazione assicurativa debba essere ripartita tra più aventi diritto.
+
+[^41a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
 ### Danno parziale
 
 #### Art. 42
@@ -499,6 +729,12 @@ L’assicuratore non è vincolato al contratto di fronte all’avente diritto, s
 [^42-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^42-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
+### Sezione 8: Altre disposizioni****
+
+[^chap1-sec8-1]
+
+[^chap1-sec8-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
 ### Comunicazioni dell’assicuratore
 
 #### Art. 43
@@ -509,43 +745,92 @@ Le comunicazioni che l’assicuratore deve fare a norma della presente legge all
 
 #### Art. 44
 
-<sup>1</sup> Per tutte le comunicazioni che gli devono essere fatte a norma del contratto o della presente legge, l’assicuratore è tenuto ad indicare almeno un indirizzo nella Svizzera ed a portarlo a conoscenza dello stipulante e dell’avente diritto che gli abbia notificato per iscritto le sue ragioni.
+<sup>1</sup> Per tutte le comunicazioni che gli devono essere fatte a norma del contratto o della presente legge, l’assicuratore è tenuto ad indicare almeno un indirizzo in Svizzera e a portarlo a conoscenza dello stipulante e dell’avente diritto che gli abbia notificato le sue ragioni per scritto o in un’altra forma che consenta la prova per testo.[^44-1]
 
 <sup>2</sup> Quando l’assicuratore non adempia questi obblighi non può invocare le conseguenze previste nel contratto o nella presente legge per il caso in cui una comunicazione non venga fatta o venga fatta tardivamente.
 
 <sup>3</sup> Lo stipulante o l’avente diritto può fare le comunicazioni che gl’incombono, a sua scelta, all’indirizzo indicato, all’assicuratore direttamente od a qualunque agente di quest’ultimo. Le parti possono convenire che l’agente non è autorizzato a ricevere comunicazioni per l’assicuratore.
 
-### Violazione del contratto senza colpa
+[^44-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Violazione del contratto
+
+[^chap1-sec8-lvlu3-1]
+
+[^chap1-sec8-lvlu3-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 45
 
-<sup>1</sup> Se fu convenuta una sanzione per il caso in cui lo stipulante o l’avente diritto manchi ad un obbligo, egli non incorre nella sanzione quando risulti dalle circostanze che la mancanza non è imputabile a colpa.
+<sup>1</sup>
+
+Se è stata convenuta una sanzione per il caso in cui lo stipulante o l’avente diritto violi un obbligo, egli non incorre nella sanzione quando:
+
+- a. risulti dalle circostanze che la violazione non è imputabile a colpa; o
+- b. lo stipulante dimostri che la violazione non ha esercitato alcuna influenza sul verificarsi del sinistro e sull’estensione delle prestazioni dovute dall’assicuratore.[^45-1]
 
 <sup>2</sup> L’insolvibilità del debitore non scusa il ritardo nel pagamento del premio.
 
 <sup>3</sup> Quando il contratto o la presente legge vincoli l’esistenza di un diritto derivante dall’assicurazione all’osservanza di un termine lo stipulante o l’avente diritto può compiere l’atto omesso senza colpa non appena l’impedimento sia tolto.
 
+[^45-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
 ### Prescrizione e termine
 
 #### Art. 46
 
-<sup>1</sup> I crediti derivanti dal contratto di assicurazione si prescrivono in due anni dal fatto su cui è fondata l’obbligazione. L’articolo 41 della legge federale del 25 giugno 1982[^46-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità è riservato.[^46-2]
+<sup>1</sup> Fatto salvo il capoverso 3, i crediti derivanti dal contratto di assicurazione si prescrivono in cinque anni dal fatto su cui è fondato l’obbligo di fornire la prestazione.[^46-1] L’articolo 41 della legge federale del 25 giugno 1982[^46-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità è riservato.[^46-3]
 
 <sup>2</sup> Sono nulli i patti che assoggettano il credito verso l’assicuratore ad una prescrizione o ad un termine più breve. Rimane ferma la disposizione dell’articolo 39 capoverso 2 numero 2 della presente legge.
 
-[^46-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^46-2]: Nuovo testo giusta il n. 3 dell’all. alla LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 1985 ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797)[827](https://fedlex.data.admin.ch/eli/oc/1983/827_827_827)art. 1 cpv. 1; [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)).
+<sup>3</sup> I crediti derivanti dal contratto di assicurazione collettiva d’indennità giornaliera in caso di malattia si prescrivono in due anni dal fatto su cui è fondato l’obbligo di fornire la prestazione.[^46-4]
 
-### Luogo dell’adempimento
+[^46-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^46-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^46-3]: Nuovo testo giusta l’all. n. 3 della LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 1985 ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797)[827](https://fedlex.data.admin.ch/eli/oc/1983/827_827_827)art. 1 cpv. 1; [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)).
+[^46-4]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Fallimento dello stipulante
 
 #### Art. 46a
 
 [^46a-1]
 
-Gli assicuratori devono adempiere i loro obblighi contrattuali al domicilio svizzero dell’assicurato o dello stipulante. Il foro è determinato dalla legge del 24 marzo 2000[^46a-2] sul foro.
+<sup>1</sup> In caso di fallimento dello stipulante il contratto sussiste e l’amministrazione del fallimento è responsabile del suo adempimento. Sono fatti salvi l’articolo 81 e le disposizioni della presente legge relative all’estinzione del contratto.
 
-[^46a-1]: Introdotto dal n. 3 dell’all. alla L del 23 giu. 1978 sulla sorveglianza degli assicuratori ([RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [FF 1976 II 859](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)). Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^46a-2]: [[RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374), [2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320)all. n. 3,[2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 14,[2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822)all. n. II 2. [RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262)all. 1 n. 1]
+<sup>2</sup> Le pretese e le prestazioni derivanti dall’assicurazione di beni impignorabili secondo l’articolo 92 della legge federale dell’11 aprile 1889[^46a-2] sulla esecuzione e sul fallimento non rientrano nella massa fallimentare.
+
+[^46a-1]: Introdotto dall’all. n. 3 della L del 23 giu. 1978 sulla sorveglianza degli assicuratori ([RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [FF 1976 II 859](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)). Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^46a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+### Cumulo di assicurazioni
+
+#### Art. 46b
+
+[^46b-1]
+
+<sup>1</sup> Quando lo stesso interesse sia assicurato contro lo stesso rischio e per lo stesso tempo presso più di un assicuratore, di guisa che le somme assicurate insieme riunite eccedano il valore di assicurazione (cumulo di assicurazioni), lo stipulante è tenuto a darne senza indugio conoscenza, per scritto o in un’altra forma che consenta la prova per testo, a ogni assicuratore.
+
+<sup>2</sup> Se al momento della conclusione di un ulteriore contratto non è a conoscenza dell’esistenza di un cumulo di assicurazioni, lo stipulante può recedere da questo contratto per scritto o in un’altra forma che consenta la prova per testo entro quattro settimane dalla scoperta del cumulo di assicurazioni.
+
+<sup>3</sup> Se lo stipulante ha omesso intenzionalmente questa notificazione o ha concluso più assicurazioni nell’intento di procurarsi con esse un utile illecito, gli assicuratori non sono vincolati in suo confronto al contratto.
+
+<sup>4</sup> Ogni assicuratore ha diritto a tutta la prestazione convenuta.
+
+[^46b-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Responsabilità in caso di cumulo di assicurazioni
+
+#### Art. 46c
+
+[^46c-1]
+
+<sup>1</sup> In caso di cumulo di assicurazioni, ogni assicuratore risponde del danno nella proporzione esistente fra la somma da esso assicurata e l’importo totale delle somme assicurate.
+
+<sup>2</sup> Se uno degli assicuratori è divenuto insolvibile gli altri assicuratori rispondono, fatto salvo l’articolo 38*c* capoverso 2, per la quota che incombe all’assicuratore insolvibile nella proporzione esistente fra le somme da loro assicurate e fino a concorrenza di quella assicurata da ciascuno di essi. Il credito spettante all’avente diritto contro l’assicuratore insolvibile passa agli assicuratori che hanno pagato l’indennità.
+
+<sup>3</sup> Accaduto il sinistro, l’avente diritto non può risolvere o modificare nessuna assicurazione a detrimento degli altri assicuratori.
+
+[^46c-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Tacita rinnovazione
 
@@ -553,38 +838,44 @@ Gli assicuratori devono adempiere i loro obblighi contrattuali al domicilio sviz
 
 Il patto di tacita rinnovazione del contratto ha effetto solo in quanto limiti la rinnovazione ad un anno per volta.
 
-### Numero d’assicurato dell’assicurazione vecchiaia e superstiti (AVS)
+### Numero AVS
+
+[^chap1-sec8-lvlu9-1]
+
+[^chap1-sec8-lvlu9-1]: Nuova espr. giusta l’all. n. 4 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 47a
 
 [^47a-1]
 
-Le imprese di assicurazione private soggette alla LSA[^47a-2] sono autorizzate a utilizzare sistematicamente il numero d’assicurato dell’AVS conformemente alle disposizioni della legge federale del 20 dicembre 1946[^47a-3] sull’assicurazione per la vecchiaia e per i superstiti, ai fini dell’esercizio delle assicurazioni complementari private nel quadro dell’assicurazione malattie o dell’assicurazione contro gli infortuni, soltanto se:
+Le imprese di assicurazione private soggette alla LSA[^47a-2] sono autorizzate a utilizzare sistematicamente il numero AVS conformemente alle disposizioni della legge federale del 20 dicembre 1946[^47a-3] sull’assicurazione per la vecchiaia e per i superstiti, ai fini dell’esercizio delle assicurazioni complementari private nel quadro dell’assicurazione malattie o dell’assicurazione contro gli infortuni, soltanto se:
 
 - a. esercitano le assicurazioni complementari all’assicurazione sociale malattie previste nell’articolo 12 capoverso 2 della legge federale del 18 marzo 1994[^47a-4] sull’assicurazione malattie;
 - b. sono iscritte nel registro degli assicuratori LAINF di cui all’articolo 68 capoverso 2 della legge federale del 20 marzo 1981[^47a-5] sull’assicurazione contro gli infortuni e offrono le assicurazioni complementari alla LAINF.
 
-[^47a-1]: Introdotto dal n. 2 dell’all. alla LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^47a-1]: Introdotto dall’all. n. 2 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^47a-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^47a-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^47a-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328). Questo art. è ora abrogato. Dal 1° gen. 2016 vedi art. 2 cpv. 2 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
 [^47a-5]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
-## II. Disposizioni speciali all’assicurazione contro i danni
+## Capitolo 2: Disposizioni speciali****
 
-### Oggetto dell’assicurazione
+[^chap2-1]
 
-#### Art. 48
+[^chap2-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-Può formare oggetto di assicurazione contro i danni ogni interesse economico di una persona a che un sinistro non accada.
+### Sezione 1: Assicurazione di cose****
 
-### Valore di assicurazione
+[^chap2-sec1-1]
 
-#### Art. 49
+[^chap2-sec1-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>1</sup> Il valore di assicurazione è il valore che ha l’interesse assicurato al momento della conclusione del contratto.
+#### Art. 48 e 49
 
-<sup>2</sup> Quando l’interesse assicurato consista in ciò che una cosa non venga danneggiata o distrutta, si presume assicurato, nel dubbio, l’interesse che ha un proprietario alla conservazione della cosa.
+[^4849-1]
+
+[^4849-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Diminuzione del valore di assicurazione
 
@@ -592,7 +883,9 @@ Può formare oggetto di assicurazione contro i danni ogni interesse economico di
 
 <sup>1</sup> Se nel corso dell’assicurazione il valore di assicurazione ha subito una diminuzione essenziale, l’assicuratore e lo stipulante possono chiedere entrambi una proporzionata riduzione della somma assicurata.
 
-<sup>2</sup> Il premio per i periodi futuri di assicurazione dev’essere ridotto in proporzione.
+<sup>2</sup> ...[^50-1]
+
+[^50-1]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Soprassicurazione
 
@@ -600,21 +893,23 @@ Può formare oggetto di assicurazione contro i danni ogni interesse economico di
 
 Se la somma assicurata eccede il valore di assicurazione (soprassicurazione), l’assicuratore non è vincolato al contratto verso lo stipulante, quando questi abbia stipulato il contratto nell’intento di procurarsi con la soprassicurazione un utile illecito. L’assicuratore ha diritto a tutta la prestazione convenuta.
 
-### Misure di controllo
+### Somma assicurata; obbligo di risarcimento nella sottoassicurazione
 
-#### Art. 52
+#### Art. 51a
 
-Se fu conchiusa una soprassicurazione contro l’incendio, l’autorità competente a norma del diritto cantonale può, sulla scorta di una perizia ufficiale, ridurre la somma assicurata al valore di assicurazione quando la soprassicurazione non apparisca giustificata.
+[^51a-1]
 
-### Doppia assicurazione
+<sup>1</sup> Salvo disposizione contraria del contratto o della presente legge (art. 38*c*), l’assicuratore risponde del danno solo fino a concorrenza della somma assicurata.
 
-#### Art. 53
+<sup>2</sup> Se la somma assicurata non raggiunge il valore di risarcimento (sottassicurazione), il danno, salvo patto contrario, deve essere risarcito nella proporzione esistente fra la somma assicurata ed il valore di risarcimento.
 
-<sup>1</sup> Quando lo stesso interesse sia assicurato contro lo stesso rischio e per lo stesso tempo presso più di un assicuratore, di guisa che le somme assicurate insieme riunite eccedano il valore di assicurazione (doppia assicurazione), lo stipulante è tenuto a darne indilatamente conoscenza per iscritta ad ogni assicuratore.
+[^51a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>2</sup> Se lo stipulante ha omesso intenzionalmente questa notificazione o ha conchiuso la doppia assicurazione nell’intento di procurarsi con essa un utile illecito, gli assicuratori non sono vincolati in suo confronto al contratto.
+#### Art. 52 e 53
 
-<sup>3</sup> Ogni assicuratore ha diritto a tutta la prestazione convenuta.
+[^5253-1]
+
+[^5253-1]: Abrogati dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Cambiamento di proprietario
 
@@ -624,24 +919,21 @@ Se fu conchiusa una soprassicurazione contro l’incendio, l’autorità compete
 
 <sup>1</sup> Se l’oggetto del contratto d’assicurazione cambia proprietario, i diritti e gli obblighi derivanti dal contratto d’assicurazione passano al nuovo proprietario.
 
-<sup>2</sup> Il nuovo proprietario può rifiutare per scritto il trasferimento del contratto entro 30 giorni dal trapasso di proprietà.
+<sup>2</sup> Entro 30 giorni dal trapasso di proprietà il nuovo proprietario può rifiutare il trasferimento del contratto per scritto o in un’altra forma che consenta la prova per testo.[^54-2]
 
-<sup>3</sup> L’impresa di assicurazione può disdire il contratto entro 14 giorni dal momento in cui è venuta a conoscenza dell’identità del nuovo proprietario. Il contratto si estingue al più presto 30 giorni dopo la disdetta.
+<sup>3</sup> L’assicuratore può recedere dal contratto, per scritto o in un’altra forma che consenta la prova per testo, entro 14 giorni dal momento in cui è venuto a conoscenza dell’identità del nuovo proprietario.[^54-3] Il contratto si estingue al più presto 30 giorni dopo la disdetta.
 
 <sup>4</sup> Gli articoli 28–32 si applicano per analogia se il cambiamento di proprietario provoca un aggravamento del rischio.
 
 [^54-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° lug. 2009 ([RU 2009 2799](https://fedlex.data.admin.ch/eli/oc/2009/365); [FF 2008 6745](https://fedlex.data.admin.ch/eli/fga/2008/1300)[6755](https://fedlex.data.admin.ch/eli/fga/2008/1302)).
-
-### Fallimento dello stipulante
+[^54-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^54-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 55
 
-<sup>1</sup> In caso di fallimento dello stipulante, il contratto si estingue con la dichiarazione di fallimento.[^55-1]
+[^55-1]
 
-<sup>2</sup> Se fra le cose assicurate si trovano dei beni esclusi dal pignoramento (art. 92 della LF dell’11 apr. 1889[^55-2] sulla esecuzione e sul fallimento), il diritto derivante per questi beni dall’assicurazione rimane al fallito ed alla sua famiglia.
-
-[^55-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^55-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^55-1]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Pignoramento e sequestro
 
@@ -657,89 +949,11 @@ Se fu pignorata in via d’esecuzione o sequestrata una cosa assicurata, l’ass
 
 <sup>2</sup> Se il pegno fu notificato all’assicuratore, questi non può pagare l’indennità all’assicurato se non col consenso del creditore pignoratizio o verso prestazione di garanzie a favore del medesimo.
 
-### Riserva a favore delle leggi cantonali
+### Valutazione del danno
 
 #### Art. 58
 
-Rimangono ferme le prescrizioni delle leggi cantonali che estendono al credito derivante dall’assicurazione e all’indennità il diritto reale gravante la cosa assicurata, come pure le disposizioni che garantiscono la pretesa dell’avente diritto.
-
-### Assicurazione contro la responsabilità civile
-
-### a. Estensione
-
-#### Art. 59
-
-Quando lo stipulante si sia assicurato contro le conseguenze della responsabilità inerente per legge ad un esercizio industriale, l’assicurazione si estende anche alla responsabilità dei suoi rappresentanti ed a quella delle persone incaricate di dirigere o sorvegliare l’esercizio.
-
-### b. Pegno legale del terzo danneggiato
-
-#### Art. 60
-
-<sup>1</sup> Nel caso di assicurazione contro le conseguenze della responsabilità civile il terzo danneggiato ha, fino a concorrenza del risarcimento a lui spettante, un diritto di pegno sulla indennità dovuta allo stipulante. L’assicuratore può pagare l’indennità direttamente al terzo danneggiato.
-
-<sup>2</sup> L’assicuratore è responsabile di ogni atto con cui pregiudichi il terzo nel suo diritto.
-
-### Obbligo di salvataggio
-
-#### Art. 61
-
-<sup>1</sup> In caso di sinistro, l’avente diritto è tenuto a fare quanto possa per scemare il danno. Quando non siavi pericolo in mora, egli dovrà chiedere istruzioni all’assicuratore circa i provvedimenti da prendere e conformarsi alle medesime.
-
-<sup>2</sup> Se l’avente diritto ha mancato a quest’obbligo in modo inescusabile, l’assicuratore può limitare l’indennità all’importo cui troverebbesi ridotta qualora l’obbligo fosse stato adempiuto.
-
-### Valore di risarcimento
-
-### a. In genere
-
-#### Art. 62
-
-Il valore di risarcimento dev’essere calcolato sulla base del valore che l’interesse assicurato aveva al momento in cui accadde il sinistro.
-
-### b. Nell’assicurazione-incendio
-
-#### Art. 63
-
-<sup>1</sup>
-
-Nell’assicurazione contro l’incendio il valore di risarcimento è:
-
-- 1\. per le merci e i prodotti naturali, il prezzo di mercato;
-- 2\. per gli edifici, il valore locale di costruzione previo diffalco della diminuzione di questo valore verificatasi dopo la costruzione. Se l’edificio non viene ricostruito, il valore di risarcimento non può eccedere il valore venale;
-- 3\. per il mobilio, gli oggetti usuali, gli strumenti di lavoro e le macchine, l’importo che richiederebbe l’acquisto di oggetti nuovi. Tuttavia se gli oggetti assicurati hanno subito un deprezzamento per effetto dell’uso, del consumo o per altra causa, si dovrà tenerne equo conto nel determinare il valore di risarcimento.
-
-<sup>2</sup> È da considerare come cagionato dall’incendio anche il danno derivato dalle misure prese per estinguere l’incendio o da un necessario sgombro e consistente nella distruzione, nel danneggiamento o nella scomparsa della cosa.
-
-### c. Nelle altre specie di assicurazioni
-
-#### Art. 64
-
-<sup>1</sup> Nell’assicurazione delle merci contro i rischi dei trasporti fa norma il valore della cosa al luogo di destinazione.
-
-<sup>2</sup> Nell’assicurazione del bestiame fa norma il valore dell’animale immediatamente prima della malattia od al momento dell’infortunio.
-
-<sup>3</sup> Se fu assicurato un guadagno futuro il danno dev’essere calcolato sulla base del guadagno che la riuscita dell’impresa avrebbe procurato.
-
-<sup>4</sup> Se fu assicurato un reddito futuro il danno dev’essere calcolato sulla base del reddito che si sarebbe conseguito qualora il sinistro non fosse accaduto.
-
-<sup>5</sup> Dal valore di risarcimento si devono dedurre le spese che si fossero evitate per effetto dell’accaduto sinistro.
-
-### d. Convenzione circa il valore di risarcimento
-
-#### Art. 65
-
-<sup>1</sup> Se le parti hanno fissato con patto speciale il valore di assicurazione, il valore convenuto dev’essere considerato come valore di risarcimento in quanto l’assicuratore non provi che quest’ultimo, calcolato secondo le prescrizioni degli articoli 62, 63, 64 e 66 della presente legge, è inferiore al valore di assicurazione.
-
-<sup>2</sup> Tale patto è nullo quando si sia assicurato contro l’incendio un reddito od un guadagno futuro.
-
-### Cose designate secondo il genere
-
-#### Art. 66
-
-Se la cosa assicurata fu designata secondo il genere, si devono ritenere compresi nell’assicurazione tutti gli oggetti di questo genere esistenti al momento del sinistro.
-
-### Valutazione del danno
-
-#### Art. 67
+[^58-1]
 
 <sup>1</sup> Tanto l’assicuratore quanto l’avente diritto possono chiedere che il danno venga valutato senza indugio dalle parti. Nel caso di distruzione parziale di prodotti agricoli, segnatamente per effetto della grandine, la valutazione del danno dev’essere, a richiesta dell’una o dell’altra delle parti, rimandata fino al raccolto.
 
@@ -751,59 +965,66 @@ Se la cosa assicurata fu designata secondo il genere, si devono ritenere compres
 
 <sup>5</sup> Le spese di valutazione del danno incombono alle parti in eguale misura.
 
-### Divieto di cambiamento
+[^58-1]: Originario art. 67.
 
-#### Art. 68
+### Sezione 2: Assicurazione per la responsabilità civile****
 
-<sup>1</sup> Prima che il danno sia valutato, l’avente diritto non deve senza il consenso dell’assicuratore arrecare agli oggetti danneggiati alcun cambiamento che possa rendere più difficile o impossibile di accertare la causa del danno o il danno stesso, eccettochè il cambiamento non risulti imposto dallo scopo di scemare il danno o dall’interesse pubblico.
+[^chap2-sec2-1]
 
-<sup>2</sup> Se l’avente diritto contravviene a quest’obbligo con intenzione fraudolenta, l’assicuratore non è vincolato al contratto.
+[^chap2-sec2-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Somma assicurata. Obbligo di risarcimento nella sottassicurazione
+### Assicurazione per la responsabilità civile
 
-#### Art. 69
+### a. Estensione
 
-<sup>1</sup> Salvo disposizione contraria del contratto o della presente legge (art. 70), l’assicuratore risponde del danno solo fino a concorrenza della somma assicurata.
+#### Art. 59
 
-<sup>2</sup> Se la somma assicurata non raggiunge il valore di risarcimento (sottassicurazione), il danno, salvo patto contrario, deve essere risarcito nella proporzione esistente fra la somma assicurata ed il valore di risarcimento.
+[^59-1]
 
-### Spese di salvataggio
+<sup>1</sup> Quando lo stipulante si sia assicurato contro le conseguenze della responsabilità inerente per legge ad un esercizio industriale, l’assicurazione si estende anche alla responsabilità dei suoi rappresentanti ed a quella delle persone incaricate di dirigere o sorvegliare l’esercizio nonché agli altri lavoratori.
 
-#### Art. 70
+<sup>2</sup> L’assicurazione copre sia le pretese di risarcimento dei danneggiati sia i diritti di regresso di terzi.
 
-<sup>1</sup> L’assicuratore è tenuto a rimborsare all’avente diritto le spese delle misure non manifestamente inopportune che questi ha prese per scemare il danno (art. 61), anche quando tali misure siano rimaste senza effetto, o quando le spese aggiunte all’indennità eccedano l’importo della somma assicurata.
+<sup>3</sup> Nell’assicurazione per la responsabilità civile obbligatoria non è possibile opporre al danneggiato le eccezioni derivanti da eventi assicurati provocati intenzionalmente o per negligenza grave, dalla violazione di obblighi, dal mancato pagamento dei premi o da una franchigia convenuta contrattualmente.
 
-<sup>2</sup> Se la somma assicurata non raggiunge il valore di risarcimento l’assicuratore sopporta le spese nella proporzione esistente fra la somma assicurata ed il valore di risarcimento.
+[^59-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Responsabilità nella doppia assicurazione
+### b. Pegno legale del terzo danneggiato
 
-#### Art. 71
+#### Art. 60
 
-<sup>1</sup> Nel caso di doppia assicurazione (art. 53), ogni assicuratore risponde del danno nella proporzione esistente fra la somma assicurata da lui e l’importo totale delle somme assicurate.
+<sup>1</sup> Nel caso di assicurazione contro le conseguenze della responsabilità civile il terzo danneggiato ha, fino a concorrenza del risarcimento a lui spettante, un diritto di pegno sulla indennità dovuta allo stipulante. L’assicuratore può pagare l’indennità direttamente al terzo danneggiato.
 
-<sup>2</sup> Se uno degli assicuratori è divenuto insolvibile gli altri assicuratori rispondono, sotto riserva della prescrizione dell’articolo 70 capoverso 2 della presente legge, per la quota che incombe all’assicuratore insolvibile nella proporzione esistente fra le somme da loro assicurate e fino a concorrenza di quella assicurata da ciascuno di essi. Il credito spettante all’avente diritto contro l’assicuratore insolvibile passa agli assicuratori che hanno pagato l’indennità.
+<sup>1bis</sup> Il terzo danneggiato o il suo avente causa vanta un diritto di credito diretto nei confronti dell’assicuratore, nei limiti di un’eventuale copertura assicurativa e fatte salve le obiezioni e le eccezioni che l’assicuratore può opporgli in virtù della legge o del contratto.[^60-1]
 
-<sup>3</sup> Accaduto il sinistro, l’avente diritto non può risolvere o modificare nessuna assicurazione a detrimento degli altri assicuratori.
+<sup>2</sup> L’assicuratore è responsabile di ogni atto con cui pregiudichi il terzo nel suo diritto.
 
-### Regresso dell’assicuratore
+<sup>3</sup> Nei casi in cui è stipulata un’assicurazione obbligatoria per la responsabilità civile, il terzo danneggiato può esigere dall’assicurato civilmente responsabile o dalla competente autorità di vigilanza l’indicazione dell’assicuratore. Quest’ultimo deve fornire informazioni sul tipo e sull’estensione della copertura assicurativa.[^60-2]
 
-#### Art. 72
+[^60-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^60-2]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>1</sup> Il credito spettante all’avente diritto verso terzi per atti illeciti passa all’assicuratore fino a concorrenza dell’indennità da lui pagata.
+#### Art. 61 a 72
 
-<sup>2</sup> L’avente diritto è responsabile di ogni atto che pregiudichi questo diritto dell’assicuratore.
+[^6172-1]
 
-<sup>3</sup> La disposizione del primo capoverso di questo articolo non si applica al caso in cui il danno sia dovuto a colpa lieve di una persona che convive coll’avente diritto o de’ cui atti questi è responsabile.
+[^6172-1]: Abrogati dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-## III. Disposizioni speciali all’assicurazione delle persone
+### Sezione 3: Assicurazione sulla vita****
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Natura giuridica della polizza, cessione e costituzione in pegno
 
 #### Art. 73
 
-<sup>1</sup> Il diritto derivante da un contratto d’assicurazione di persone non può essere ceduto o costituito in pegno né mediante girata né mediante semplice consegna della polizza. Per la validità della cessione e della costituzione in pegno occorrono la forma scritta e la consegna della polizza nonché la notificazione per iscritto all’assicuratore.
+<sup>1</sup> Il diritto derivante da un contratto d’assicurazione di somma fissa non può essere ceduto o costituito in pegno né mediante girata né mediante semplice consegna della polizza. Per la validità della cessione e della costituzione in pegno occorrono la forma scritta e la consegna della polizza nonché la notifica per scritto all’assicuratore.[^73-1]
 
 <sup>2</sup> Se la polizza dispone che l’assicuratore può pagare al portatore, l’assicuratore di buona fede può considerare come avente diritto ogni portatore.
+
+[^73-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Assicurazione sulla vita altrui
 
@@ -815,19 +1036,11 @@ Se la cosa assicurata fu designata secondo il genere, si devono ritenere compres
 
 <sup>3</sup> Il contratto può disporre che le norme degli articoli 6 e 28 della presente legge si applicheranno anche quando la persona per il cui decesso l’assicurazione fu stipulata abbia commesso una reticenza o cagionato l’aggravamento del rischio.
 
-### Indicazione inesatta dell’età
-
 #### Art. 75
 
-<sup>1</sup> L’indicazione inesatta dell’età dà diritto all’assicuratore di recedere dal contratto solo quando l’età reale al momento dell’entrata non sia compresa fra i limiti d’ammissione da lui stabiliti.
+[^75-1]
 
-<sup>2</sup>
-
-Se invece l’età d’entrata è compresa fra questi limiti si applicheranno le seguenti disposizioni:
-
-- 1\. quando per effetto dell’indicazione inesatta dell’età si sia pagato un premio inferiore a quello che avrebbe dovuto essere pagato secondo l’età reale d’entrata, la prestazione dell’assicuratore sarà ridotta nella proporzione esistente fra il premio convenuto ed il premio di tariffa per l’età reale d’entrata. Se l’assicuratore ha già adempiuto può ripetere, con gl’interessi, quanto ha pagato in troppo a norma di questo calcolo;
-- 2\. quando per effetto dell’indicazione inesatta dell’età si sia pagato un premio superiore a quello che avrebbe dovuto essere pagato secondo l’età reale, l’assicuratore è tenuto a rimborsare la differenza fra la riserva esistente e quella necessaria per l’età reale d’entrata. I premi futuri devono esser ridotti secondo questa età;
-- 3\. i calcoli previsti ai numeri 1 e 2 di quest’articolo saranno fatti sulla base delle tariffe in vigore al momento della conclusione del contratto.
+[^75-1]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Assicurazione a beneficio di terzi
 
@@ -873,13 +1086,13 @@ Salvo le disposizioni che fossero state prese a norma dell’articolo 77 capover
 
 Se i beneficiari sono il coniuge, il partner registrato o i discendenti dello stipulante, il diritto d’assicurazione del beneficiario e quello dello stipulante non soggiacciono, salvo gli eventuali diritti di pegno, all’esecuzione a vantaggio dei creditori dello stipulante.
 
-[^80-1]: Nuovo testo giusta il n. 13 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^80-1]: Nuovo testo giusta l’all. n. 13 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### f. Subingresso
 
-[^lvlIII-lvlu4-lvlf-1]
+[^chap2-sec3-lvlu3-lvlf-1]
 
-[^lvlIII-lvlu4-lvlf-1]: Nuovo testo giusta il n. 13 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^chap2-sec3-lvlu3-lvlf-1]: Nuovo testo giusta l’all. n. 13 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 81
 
@@ -887,7 +1100,7 @@ Se i beneficiari sono il coniuge, il partner registrato o i discendenti dello st
 
 <sup>2</sup> I beneficiari sono tenuti a notificare all’assicuratore il trapasso dell’assicurazione producendo un certificato dell’ufficio d’esecuzione o dell’amministrazione del fallimento. Se vi sono più beneficiari, essi devono designare un rappresentante che riceva le comunicazioni incombenti all’assicuratore.
 
-[^81-1]: Nuovo testo giusta il n. 13 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^81-1]: Nuovo testo giusta l’all. n. 13 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### g. Riserva della azione rivocatoria
 
@@ -911,8 +1124,8 @@ Rimangono ferme, di fronte alle disposizioni della presente legge circa l’assi
 
 <sup>3</sup> Per superstiti, eredi o aventi causa designati come beneficiari s’intendono i discendenti che hanno diritto alla successione ed il coniuge superstite o il partner registrato superstite, e quando non vi siano né discendenti che hanno diritto alla successione né coniuge superstite o partner registrato superstite, le altre persone successibili[^83-2]
 
-[^83-1]: Introdotto dal n. 13 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^83-2]: Nuovo testo giusta il n. 13 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^83-1]: Introdotto dall’all. n. 13 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^83-2]: Nuovo testo giusta l’all. n. 13 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### bb. Le quote
 
@@ -926,7 +1139,7 @@ Rimangono ferme, di fronte alle disposizioni della presente legge circa l’assi
 
 <sup>4</sup> Scomparendo uno dei beneficiari, la sua quota si aggiunge in parti uguali a quelle degli altri.
 
-[^84-1]: Nuovo testo giusta il n. 13 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^84-1]: Nuovo testo giusta l’all. n. 13 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### i. Ripudio della successione
 
@@ -936,7 +1149,7 @@ Rimangono ferme, di fronte alle disposizioni della presente legge circa l’assi
 
 Se i beneficiari sono i discendenti che hanno diritto alla successione, il coniuge o il partner registrato, i genitori, i nonni, i fratelli o le sorelle, l’assicurazione è loro devoluta anche quando ripudino la successione.
 
-[^85-1]: Nuovo testo giusta il n. 13 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^85-1]: Nuovo testo giusta l’all. n. 13 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### Realizzazione in via di esecuzione e di fallimento
 
@@ -950,50 +1163,29 @@ Se i beneficiari sono i discendenti che hanno diritto alla successione, il coniu
 
 <sup>3</sup> Il coniuge, il partner registrato o i discendenti devono presentare la loro domanda all’ufficio d’esecuzione o all’amministrazione del fallimento prima della realizzazione del credito.
 
-[^86-1]: Nuovo testo giusta il n. 13 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^86-1]: Nuovo testo giusta l’all. n. 13 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### Assicurazione collettiva contro gl’infortuni; diritto del beneficiario
+#### Art. 87 e 88
 
-#### Art. 87
+[^8788-1]
 
-[^87-1]
+[^8788-1]: Abrogati dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-L’assicurazione collettiva contro gli infortuni e le malattie conferisce al beneficiario, tosto che l’infortunio sia accaduto o la malattia sopraggiunta, un diritto proprio verso l’assicuratore.
-
-[^87-1]: Nuovo testo giusta il n. II art. 3 della LF 25 giu. 1971 sulla revisione dei titoli X e X<sup>bis</sup> del CO (Contratto di lavoro), in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); FF 1968 II 177).
-
-### Assicurazione contro gl’infortuni; invalidità
-
-#### Art. 88
-
-<sup>1</sup> Se l’infortunio ha cagionato all’assicurato una diminuzione della capacità di lavoro prevedibilmente duratura, l’indennità deve essere pagata sotto forma di capitale sulla base della somma assicurata per il caso d’invalidità, non appena le conseguenze prevedibilmente durature dell’infortunio siano accertate. Questa disposizione non si applica quando lo stipulante abbia espressamente proposto l’indennità sotto forma di rendita.
-
-<sup>2</sup> Il contratto può disporre che nell’intervallo si pagheranno delle rendite e che queste dovranno diffalcarsi dall’indennità.
-
-### Diritto di recesso dello stipulante
+### Assicurazione sulla vita; estinzione anticipata
 
 #### Art. 89
 
-<sup>1</sup> Lo stipulante che ha pagato il premio per un anno può recedere dal contratto di assicurazione sulla vita e rifiutare il pagamento di premi ulteriori.
+[^89-1]
 
-<sup>2</sup> La dichiarazione di recesso dev’essere data all’assicuratore per iscritto prima che cominci un nuovo periodo di assicurazione.
+Qualunque sia la durata convenuta, lo stipulante può recedere dal contratto dopo un anno per scritto o in un’altra forma che consenta la prova per testo.
 
-### Diritto di recesso dello stipulante in regime di prestazione di servizi transfrontaliera
+[^89-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 89a
 
 [^89a-1]
 
-Le disposizioni seguenti si applicano ai contratti individuali di assicurazione sulla vita conclusi in regime di prestazione di servizi transfrontaliera con assicuratori con sede in uno Stato con il quale la Svizzera ha concluso, su base di reciprocità, un accordo internazionale che preveda il riconoscimento di prescrizioni e provvedimenti in materia di sorveglianza e garantisca che tale Stato applichi normative equivalenti a quelle svizzere (Stato contraente), finché tale accordo rimane in vigore:[^89a-2]
-
-- a. lo stipulante che ha concluso un contratto d’assicurazione sulla vita di durata superiore a sei mesi può recedere dal contratto entro 14 giorni a contare dal momento in cui è informato che il contratto è concluso. La dichiarazione di recesso deve essere data all’assicuratore per scritto. Il termine è osservato se la dichiarazione di recesso è consegnata alla posta il quattordicesimo giorno;
-- b. come momento della conoscenza della conclusione del contratto vale quello in cui la dichiarazione d’accettazione dell’assicuratore perviene allo stipulante oppure quello in cui lo stipulante dichiara la sua accettazione;
-- c. la dichiarazione dello stipulante di recedere dal contratto lo libera da tutte le obbligazioni future derivanti dal contratto.
-- L’assicuratore è tenuto a rimborsare allo stipulante i premi già pagati o i versamenti unici già effettuati;
-- d. l’assicuratore deve, nel formulario di proposta e nelle condizioni generali di assicurazione, informare il proponente sul diritto di recesso, sui termini e la forma per esercitare questo diritto come pure indicargli l’indirizzo dello stabilimento con il quale è concluso il contratto. Se non è consegnato alcun formulario di proposta, queste indicazioni devono figurare nella polizza e nelle condizioni generali di assicurazione. Se questa prescrizione non è osservata, il cliente può recedere in ogni momento dal contratto.
-
-[^89a-1]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1994 ([RU 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-[^89a-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^89a-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Trasformazione e riscatto
 
@@ -1001,11 +1193,15 @@ Le disposizioni seguenti si applicano ai contratti individuali di assicurazione 
 
 #### Art. 90
 
-<sup>1</sup> A richiesta dell’avente diritto, l’assicuratore è tenuto a trasformare totalmente o parzialmente in un’assicurazione liberata ogni assicurazione sulla vita per la quale si siano pagati i premi di tre anni almeno (riduzione).
+[^90-1]
 
-<sup>2</sup> A richiesta dell’avente diritto, l’assicuratore è inoltre tenuto a riscattare totalmente o parzialmente ogni assicurazione sulla vita per la quale vi sia certezza che l’avvenimento assicurato accadrà purché si siano pagati i premi di tre anni almeno.[^90-1]
+<sup>1</sup> Se l’assicurazione ha un valore di trasformazione, lo stipulante può esigere che essa sia interamente o parzialmente trasformata in un’assicurazione liberata dal pagamento dei premi. Il contratto può prevedere in merito un valore minimo.
 
-[^90-1]: Vedi nondimeno l’art. 1 dell’O del 1° mar. 1966 che abroga le restrizioni alla libertà contrattuale per i contratti d’assicurazione ([RS 221.229.11](https://fedlex.data.admin.ch/eli/cc/1966/476_495_495)).
+<sup>2</sup> Se il valore di trasformazione è inferiore al valore minimo previsto, l’assicuratore versa il valore di riscatto allo stipulante.
+
+<sup>3</sup> Se il contratto copre un sinistro il cui verificarsi è certo e se in caso di estinzione totale o parziale del contratto l’assicurazione ha un valore di riscatto, lo stipulante ne può esigere il pagamento.
+
+[^90-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### b. Determinazione dei valori
 
@@ -1017,13 +1213,13 @@ Le disposizioni seguenti si applicano ai contratti individuali di assicurazione 
 
 <sup>3</sup> L’Autorità federale di vigilanza sui mercati finanziari (FINMA) decide se i valori di trasformazione e di riscatto previsti siano adeguati.[^91-1]
 
-[^91-1]: Nuovo testo giusta il n. 7 dell'all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^91-1]: Nuovo testo giusta l’all. n. 7 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### c. Obblighi dell’assicuratore; ulteriore verifica da parte della FINMA; scadenza del prezzo di riscatto
 
-[^lvlIII-lvlu10-lvlc-1]
+[^chap2-sec3-lvlu6-lvlc-1]
 
-[^lvlIII-lvlu10-lvlc-1]: Nuovo testo giusta il n. 7 dell'all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^chap2-sec3-lvlu6-lvlc-1]: Nuovo testo giusta l’all. n. 7 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 92
 
@@ -1033,7 +1229,7 @@ Le disposizioni seguenti si applicano ai contratti individuali di assicurazione 
 
 <sup>3</sup> Se l’avente diritto domanda il riscatto, il prezzo di riscatto scade tre mesi dopo che la domanda sia giunta all’assicuratore.
 
-[^92-1]: Nuovo testo giusta il n. 7 dell'all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^92-1]: Nuovo testo giusta l’all. n. 7 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### d. Non caducità
 
@@ -1059,39 +1255,134 @@ Le disposizioni della presente legge, relative alla trasformazione ed al riscatt
 
 #### Art. 95
 
-Se l’avente diritto ha costituito in pegno all’assicuratore il suo diritto derivante da un contratto di assicurazione sulla vita, l’assicuratore può compensare il proprio credito col valore di riscatto dell’assicurazione, dopo aver diffidato inutilmente per iscritto il debitore, sotto comminatoria delle conseguenze della mora, a pagare il debito entro sei mesi dal giorno della ricevuta diffida.
+[^95-1]
+
+Se l’avente diritto ha costituito in pegno a favore dell’assicuratore il diritto derivante da un contratto di assicurazione sulla vita, l’assicuratore può compensare il proprio credito col valore di riscatto dell’assicurazione, dopo aver diffidato inutilmente il debitore, per scritto o in un’altra forma che consenta la prova per testo e sotto comminatoria delle conseguenze della mora, a pagare il debito entro sei mesi dal giorno della ricevuta diffida.
+
+[^95-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Sezione 4:**** Assicurazione contro gli infortuni e le malattie
+
+[^chap2-sec4-1]
+
+[^chap2-sec4-1]: Introdotta dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+**Art. 95**a
+
+### Assicurazione collettiva contro gli infortuni e le malattie; diritto del beneficiario
+
+L’assicurazione collettiva contro gli infortuni e le malattie conferisce al beneficiario, tosto che l’infortunio sia accaduto o la malattia sopraggiunta, un diritto proprio verso l’assicuratore.
+
+### Assicurazione contro gl’infortuni; invalidità
+
+#### Art. 95b
+
+<sup>1</sup> Se l’infortunio ha cagionato all’assicurato una diminuzione della capacità di lavoro prevedibilmente duratura, l’indennità deve essere pagata sotto forma di capitale sulla base della somma assicurata per il caso d’invalidità, non appena le conseguenze prevedibilmente durature dell’infortunio siano accertate. Questa disposizione non si applica quando lo stipulante abbia espressamente proposto l’indennità sotto forma di rendita.
+
+<sup>2</sup> Il contratto può disporre che nell’intervallo si pagheranno delle rendite e che queste dovranno diffalcarsi dall’indennità.
+
+### Sezione 5: Coordinamento****
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Diritto di regresso dell’assicuratore
+
+#### Art. 95c
+
+[^95c-1]
+
+<sup>1</sup> Le prestazioni derivanti da assicurazioni contro i danni non sono cumulabili con altre prestazioni di indennizzo dei danni.
+
+<sup>2</sup> L’assicuratore subentra nei diritti dell’assicurato per i danni simili da esso coperti, nella misura della sua prestazione e nel momento in cui questa viene fornita.
+
+<sup>3</sup>
+
+Il capoverso 2 non si applica al caso in cui il danno sia dovuto a colpa lieve di una persona che ha una stretta relazione con l’assicurato. Hanno una stretta relazione con l’assicurato segnatamente le persone che:
+
+- a. convivono con lui;
+- b. hanno con lui un rapporto di lavoro;
+- c. sono autorizzate ad utilizzare la cosa assicurata.
+- c. sono autorizzate ad utilizzare la cosa assicurata.
+
+[^95c-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Esclusione del diritto di regresso dell’assicuratore
 
 #### Art. 96
 
-Nell’assicurazione delle persone i diritti verso terzi spettanti per effetto del sinistro all’avente diritto non passano all’assicuratore.
+[^96-1]
 
-## IV. Disposizioni imperative
+Nell’assicurazione di somma fissa i diritti verso terzi spettanti per effetto del sinistro all’avente diritto non passano all’assicuratore.
 
-### Prescrizioni inderogabili
+[^96-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+## Capitolo 3: Disposizioni imperative****
+
+[^chap3-1]
+
+[^chap3-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Disposizioni inderogabili
 
 #### Art. 97
 
-<sup>1</sup> Non si possono modificare mediante convenzione gli articoli 9, 10, 13, 24, 41 capoverso 2, 46*a*, 47, 51, 53, 62, 63, 65 capoverso 2, 67 capoverso 4, 71 capoverso 1, 73 e 74 capoverso 1 della presente legge.[^97-1]
+[^97-1]
 
-<sup>2</sup> Questa disposizione non si applica alle assicurazioni-trasporti in quanto si tratti delle prescrizioni degli articoli 47 e 71 capoverso 1 della presente legge.
+Le seguenti disposizioni della presente legge non possono essere modificate mediante convenzione: articoli 10 capoverso 2, 13, 24, 35*b*, 35*c*, 41 capoverso 2, 46*a*, 46*b* capoversi 1 e 2, 46*c* capoverso 1, 47, 51, 58 capoverso 4, 60, 73, 74 capoverso 1 e 95*c* capoversi 1 e 2.
 
-[^97-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^97-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Disposizioni che non possono essere modificate a danno dello stipulante o dell’avente diritto
 
-[^lvlIV-lvlu2-1]
-
-[^lvlIV-lvlu2-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-
 #### Art. 98
 
-<sup>1</sup> Le seguenti disposizioni della presente legge non possono essere modificate mediante convenzione a danno dello stipulante o dell’avente diritto: articoli 1, 2, 3 capoversi 1–3, 3*a*, 6, 11, 12, 14 capoverso 4, 15, 19 capoverso 2, 20–22, 28, 29 capoverso 2, 30, 32, 34, 39 capoverso 2 numero 2, secondo periodo, 42 capoversi 1–3, 44–46, 54–57, 59, 60, 72 capoverso 3, 76 capoverso 1, 77 capoverso 1, 87, 88 capoverso 1, 89, 89*a*, 90–94, 95 e 96.[^98-1]
+[^98-1]
 
-<sup>2</sup> Questa disposizione non si applica alle assicurazioni-trasporti.
+Le seguenti disposizioni della presente legge non possono essere modificate mediante convenzione a danno dello stipulante o dell’avente diritto: articoli 1–3*a*, 6, 9, 11, 14 capoverso 4, 15, 20, 21, 28, 28*a*, 29 capoverso 2, 30, 32, 34, 35*a*, 38*c* capoverso 2, 39 capoverso 2 numero 2 secondo periodo, 41*a*, 42 capoversi 1–3, 44–46, 54, 56, 57, 59, 76 capoverso 1, 77 capoverso 1, 89, 90–95*a*, 95*b* capoverso 1, 95*c* capoverso 3 e 96.
 
-[^98-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^98-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Eccezioni
+
+#### Art. 98a
+
+[^98a-1]
+
+<sup>1</sup>
+
+Gli articoli 97 e 98 non si applicano:
+
+- a. alle assicurazioni credito e alle assicurazioni cauzionali, se si tratta di assicurazioni concernenti rischi professionali o commerciali, e alle assicurazioni trasporti;
+- b. alle assicurazioni con stipulanti professionisti.
+
+<sup>2</sup>
+
+Sono considerati stipulanti professionisti:
+
+- a. gli istituti di previdenza e gli istituti dediti alla previdenza professionale;
+- b. gli intermediari finanziari secondo la legge dell’8 novembre 1934[^98a-2] sulle banche e la legge del 23 giugno 2006[^98a-3] sugli investimenti collettivi;
+- c. le imprese di assicurazione secondo la LSA[^98a-4];
+- d. gli stipulanti esteri sottoposti a una vigilanza prudenziale equivalente a quella delle persone di cui alle lettere a–c;
+- e. gli enti, istituti e fondazioni di diritto pubblico che prevedono una gestione professionale dei rischi;
+- f. le imprese che prevedono una gestione professionale dei rischi;
+- g.
+
+  le imprese che superano almeno due dei tre valori seguenti:
+
+  - 1\. somma di bilancio di 20 milioni di franchi,
+  - 2\. importo netto del volume d’affari di 40 milioni di franchi,
+  - 3\. capitale proprio di 2 milioni di franchi.
+
+<sup>3</sup> Se lo stipulante fa parte di un gruppo di imprese per il quale è allestito un conto annuale consolidato (conto di gruppo), i valori di cui al capoverso 2 lettera g sono applicati al conto di gruppo.
+
+<sup>4</sup> L’assicurazione viaggi non è considerata un’assicurazione trasporti ai sensi del capoverso 1.
+
+[^98a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^98a-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^98a-3]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^98a-4]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
 ### Ordinanze del Consiglio federale
 
@@ -1099,7 +1390,11 @@ Nell’assicurazione delle persone i diritti verso terzi spettanti per effetto d
 
 Il Consiglio federale può decretare, mediante ordinanze, che le restrizioni alla libertà contrattuale previste nell’articolo 98 della presente legge non si applicheranno a singole specie di assicurazioni in quanto ciò sia richiesto dalla natura o dalle condizioni particolari di queste specie di assicurazioni.
 
-## V. Disposizioni finali
+## Capitolo 4: Disposizioni finali****
+
+[^chap4-1]
+
+[^chap4-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Rapporto col diritto delle obbligazioni
 
@@ -1128,122 +1423,45 @@ La presente legge non è applicabile:
 
 <sup>2</sup> Questi rapporti di diritto sono retti dal Codice delle obbligazioni[^101-4].
 
-[^101-1]: Nuovo testo giusta il n. 3 dell’all. alla L del 23 giu. 1978 sulla sorveglianza degli assicuratori, in vigore dal 1° gen. 1979 ([RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [FF 1976 II 859](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)).
+[^101-1]: Nuovo testo giusta l’all. n. 3 della L del 23 giu. 1978 sulla sorveglianza degli assicuratori, in vigore dal 1° gen. 1979 ([RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [FF 1976 II 859](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)).
 [^101-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^101-3]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^101-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### Disposizione particolare concernente l’applicazione del diritto nei rapporti con Stati contraenti
+#### Art. 101a a 101c
 
-#### Art. 101a
+[^101a101c-1]
 
-[^101a-1]
-
-Gli articoli 101*b* e 101*c* della presente legge si applicano finché rimane in vigore un accordo internazionale che preveda il riconoscimento di prescrizioni e provvedimenti di sorveglianza e garantisca che lo Stato contraente interessato applichi normative equivalenti a quelle svizzere.
-
-[^101a-1]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1994 ([RU 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-
-### Diritto applicabile nel campo dell’assicurazione diretta diversa dall’assicurazione sulla vita
-
-#### Art. 101b
-
-[^101b-1]
-
-<sup>1</sup>
-
-Le disposizioni seguenti si applicano ai contratti relativi a rami dell’assicurazione diretta diversa dall’assicurazione sulla vita designati dal Consiglio federale conformemente all’articolo 6 LSA[^101b-2] qualora essi coprano rischi situati, ai sensi del capoverso 5, in uno Stato contraente:[^101b-3]
-
-- a. se lo stipulante ha la residenza abituale o l’amministrazione centrale nello Stato contraente in cui il rischio è situato, il diritto applicabile al contratto d’assicurazione è quello di tale Stato. Tuttavia, qualora il diritto di tale Stato lo consenta, le parti possono scegliere il diritto di un altro Stato;
-- b. quando lo stipulante non ha la residenza abituale o l’amministrazione centrale in uno Stato contraente in cui il rischio è situato, le parti possono scegliere o il diritto dello Stato contraente in cui il rischio è situato o quello dello Stato in cui lo stipulante ha la residenza abituale o l’amministrazione centrale;
-- c. quando lo stipulante esercita un’attività commerciale, industriale o liberale e il contratto copre due o più rischi relativi a tali attività e localizzati in vari Stati contraenti, la libertà di scelta del diritto applicabile al contratto si estende al diritto di questi Stati e dello Stato in cui lo stipulante ha la residenza abituale o l’amministrazione centrale;
-- d. se le legislazioni che possono essere scelte conformemente alle lettere b e c accordano una maggior libertà di scelta del diritto applicabile al contratto, le parti possono avvalersi di tale libertà;
-- e. quando i rischi coperti dal contratto sono limitati a sinistri che possono verificarsi in uno Stato contraente diverso da quello in cui il rischio è situato, le parti possono sempre scegliere il diritto del primo Stato;
-- f.[^101b-4] per l’assicurazione dei grandi rischi secondo il capoverso 6, le parti contraenti possono scegliere qualsiasi diritto;
-- g. qualora i dati di fatto essenziali, quali lo stipulante e il luogo in cui il rischio è situato, si riferiscano a un solo Stato contraente, la scelta di un diritto ad opera delle parti nei casi di cui alle lettere a o f non può recare pregiudizio alle norme imperative di tale Stato;
-- h. la scelta di cui alle lettere a–g deve essere esplicita o risultare univocamente dalle clausole del contratto o dalle circostanze. Se tale non è il caso o se non è stata fatta nessuna scelta, il contratto è regolato dal diritto dello Stato con il quale è più strettamente connesso, tra quelli che entrano in considerazione secondo le lettere precitate. Tuttavia, se una parte del contratto può essere separata dal resto del contratto ed è più strettamente connessa con un altro degli Stati che entrano in considerazione secondo le lettere precitate, la legge di tale Stato può, a titolo eccezionale, essere applicata a questa parte del contratto. Si presume che la connessione più stretta sia quella con lo Stato contraente in cui il rischio è situato.
-
-<sup>2</sup> Sono fatte salve le disposizioni del diritto svizzero che, ai sensi dell’articolo 18 della legge federale del 18 dicembre 1987[^101b-5] sul diritto internazionale privato, disciplinano imperativamente la fattispecie indipendentemente dal diritto applicabile.
-
-<sup>3</sup> Sono altresì fatte salve le disposizioni, imperative ai sensi dell’articolo 19 della legge federale del 18 dicembre 1987 sul diritto internazionale privato, dello Stato contraente in cui il rischio è situato o di uno Stato contraente che impone l’obbligo di contrarre un’assicurazione.
-
-<sup>4</sup> Quando il contratto copre rischi situati in più Stati contraenti, ai fini dell’applicazione dei capoversi 2 e 3 il contratto è considerato costituito da più contratti, ciascuno dei quali riferito ad un solo Stato contraente.
-
-<sup>5</sup>
-
-Un rischio è considerato situato nello Stato in cui:
-
-- a. sono ubicati i beni assicurati, se l’assicurazione si riferisce a edifici o a edifici con il loro contenuto;
-- b. sono immatricolati i veicoli assicurati, indipendentemente dal loro tipo;
-- c. lo stipulante ha concluso un contratto di una durata massima di quattro mesi che copre i rischi di viaggio o vacanza, indipendentemente dal ramo assicurativo interessato;
-- d. lo stipulante dimora abitualmente oppure, se è una persona giuridica, possiede uno stabilimento a cui si riferisce il contratto.[^101b-6]
-
-<sup>6</sup>
-
-Per grandi rischi s’intendono:
-
-- a. i rischi classificati nei rami assicurativi corpi di veicoli ferroviari, corpi di aeromobili, corpi di veicoli marittimi, lacustri e fluviali, merci trasportate, responsabilità civile per aeromobili e responsabilità civile per veicoli marittimi, lacustri e fluviali;
-- b. i rischi classificati nei rami credito e cauzione, qualora lo stipulante eserciti un’attività industriale o commerciale o una libera professione e il rischio riguardi questa attività;
-- c.
-
-  i rischi classificati nei rami corpi di veicoli terrestri, incendio e danni causati dagli elementi naturali, altri danni ai beni, responsabilità civile per autoveicoli terrestri, responsabilità civile generale e perdite finanziarie di vario genere, purché lo stipulante superi almeno due dei tre valori seguenti:
-
-  - 1\. totale del bilancio: 6,2 milioni di euro,
-  - 2\. importo netto del volume d’affari: 12,8 milioni di euro,
-  - 3\. 250 dipendenti a tempo pieno occupati in media durante l’esercizio.[^101b-7]
-
-[^101b-1]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1994 ([RU 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-[^101b-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^101b-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^101b-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^101b-5]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^101b-6]: Introdotto dal n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^101b-7]: Introdotto dal n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-
-### Diritto applicabile nel campo dell’assicurazione sulla vita
-
-#### Art. 101c
-
-[^101c-1]
-
-<sup>1</sup> Il diritto applicabile ai contratti d’assicurazione sulla vita nei rami assicurativi designati dal Consiglio federale conformemente all’articolo 6 LSA[^101c-2] è quello dello Stato contraente in cui lo stipulante dimora abitualmente oppure, se è una persona giuridica, possiede uno stabilimento a cui si riferisce il contratto. Tuttavia, se il diritto di tale Stato lo consente, le parti possono scegliere il diritto di un altro Stato.[^101c-3]
-
-<sup>2</sup> Quando lo stipulante è una persona fisica e ha la residenza abituale in uno Stato contraente diverso da quello di cui ha la cittadinanza, le parti possono scegliere il diritto dello Stato contraente di cui lo stipulante ha la cittadinanza.
-
-<sup>3</sup> …[^101c-4]
-
-<sup>4</sup> Sono fatte salve le disposizioni del diritto svizzero che, ai sensi dell’articolo 18 della legge federale del 18 dicembre 1987[^101c-5] sul diritto internazionale privato, disciplinano imperativamente la fattispecie indipendentemente dal diritto applicabile.
-
-<sup>5</sup> Sono altresì salve le disposizioni, imperative ai sensi dell’articolo 19 della legge federale del 18 dicembre 1987 sul diritto internazionale privato, dello Stato dell’impegno.
-
-[^101c-1]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1994 ([RU 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-[^101c-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^101c-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2004, in vigore dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^101c-4]: Abrogato dal n. I della LF del 17 dic. 2004, con effetto dal 1° gen. 2006 ([RU 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^101c-5]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-
-### Rapporto fra il diritto nuovo e l’anteriore
+[^101a101c-1]: Introdotti dal n. I della LF del 18 giu. 1993 ([RU 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Abrogati dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 102
 
-<sup>1</sup> Ai contratti di assicurazione esistenti al momento dell’entrata in vigore della presente legge si applicano da questo momento le disposizioni degli articoli 11 capoverso 2, 13, 20, 21, 22 capoversi 2, 3 e 4, 29 capoverso 2, 34, 35, 36, 37, 43, 44, 45, 54, 55, 56, 57, 60, 65 capoverso 2, 66, 67 capoverso 4, 73 capoverso 2, 76, 77, 79, 80, 81, 82, 83, 84, 85, 86, 87, 93 capoverso 1 periodo 1, 95 e 96 della stessa.
+[^102-1]
 
-<sup>2</sup> Tuttavia la disposizione dell’articolo 44 capoverso 3, a norma della quale lo stipulante o l’avente diritto può fare le comunicazioni che gl’incombono a qualunque agente dell’assicuratore, si applica a questi contratti solo quando l’assicuratore ometta di portare a conoscenza dello stipulante o dell’avente diritto un indirizzo nella Svizzera.
-
-<sup>3</sup> I contratti che furono conchiusi prima dell’entrata in vigore della presente legge, ma che dopo l’entrata in vigore di questa possono essere denunciati a norma delle relative clausole, soggiacciono inoltre dalla data alla quale potevano essere denunciati alle disposizioni indicate negli articoli 97 e 98 della presente legge.
-
-<sup>4</sup> Nel rimanente si applicano per analogia gli articoli 882 e 883 del Codice federale delle obbligazioni del 14 giugno 1881[^102-1].
-
-[^102-1]: [[RU 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490. CS **2** 3 tit. fin. art. 60 cpv. 2]
+[^102-1]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Abrogazione di disposizioni esistenti
 
 #### Art. 103
 
-<sup>1</sup> Coll’entrata in vigore della presente legge sono abrogate, salva la prescrizione dell’articolo 102 capoverso 4 della stessa, le disposizioni dell’articolo 896 del Codice federale delle obbligazioni del 14 giugno 1881[^103-1] e tutte quelle contrarie contenute nelle leggi e ordinanze cantonali.
+<sup>1</sup> ... [^103-1]
 
 <sup>2</sup> Tuttavia, la presente legge non modifica le disposizioni delle leggi e ordinanze cantonali che reggono gli istituti di assicurazione organizzati dai Cantoni.
 
-[^103-1]: [[RU 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490. CS **2** 3 tit. fin. art. 60 cpv. 2]
+[^103-1]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Disposizione transitoria della modifica del 19 giugno 2020
+
+#### Art. 103a
+
+[^103a-1]
+
+Ai contratti conclusi prima dell’entrata in vigore della modifica del 19 giugno 2020 si applicano le seguenti disposizioni del nuovo diritto:
+
+- a. le prescrizioni di forma;
+- b. il diritto di recesso secondo gli articoli 35*a* e 35*b*.
+
+[^103a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884), [2021 357](https://fedlex.data.admin.ch/eli/oc/2021/357); [FF 2017 4401](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Entrata in vigore della legge
 
@@ -1251,7 +1469,7 @@ Per grandi rischi s’intendono:
 
 Il Consiglio federale è incaricato, conformemente alle disposizioni della legge federale del 17 giugno 1874[^104-1] concernente le votazioni popolari su leggi e risoluzioni federali, di pubblicare la presente legge e di fissare la data della sua entrata in vigore.
 
-Data dell’entrata in vigore: 1° gennaio 1910[^104-2]
+Data dell’entrata in vigore:[^104-2] 1° gennaio 1910
 
 [^104-1]: [CS **1** 168; [RU 1962 848](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 cpv. 3. [RU 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 89 lett. b]
 [^104-2]: DCF del 17 lug. 1908 (RU **24** 751).

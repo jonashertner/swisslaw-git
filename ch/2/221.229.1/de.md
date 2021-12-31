@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 2. April 1908 über den Versicherungsvertrag (Versicher
 short: VVG
 eli: "https://fedlex.data.admin.ch/eli/cc/24/719_735_717"
 language: de
-version: 2011-01-01
+version: 2022-01-01
 adopted: 1908-04-02
 in_force: 1910-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20110101/de/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20110101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20110101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/719_735_717/20220101/de/xml/fedlex-data-admin-ch-eli-cc-24-719_735_717-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/719_735_717/20110101/de"
 
 (Versicherungsvertragsgesetz, VVG)**[^t-1]**
 
-vom 2. April 1908 (Stand am 1. Januar 2011)
+vom 2. April 1908 (Stand am 1. Januar 2022)
 
 [^t-1]: Kurztit. und Abkürzung eingefügt durch Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
@@ -31,31 +31,81 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Anhang Ziff. 8 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 [^ingress-3]: [BBl 1904 I 241](https://fedlex.data.admin.ch/eli/fga/1904/1_241_267_)
 
-## I. Allgemeine Bestimmungen
+## 1. Kapitel: Allgemeine Bestimmungen****
+
+[^chap1-1]
+
+[^chap1-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### 1. Abschnitt: Abschluss des Vertrags****
+
+[^chap1-sec1-1]
+
+[^chap1-sec1-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Versicherungsantrag
 
 #### Art. 1
 
-<sup>1</sup> Wer dem Versicherer den Antrag zum Abschlusse eines Versicherungsvertrages gestellt und für die Annahme keine kürzere Frist gesetzt hat, bleibt 14 Tage gebunden.
+<sup>1</sup> Wer dem Versicherungsunternehmen[^1-1] den Antrag zum Abschlusse eines Versicherungsvertrages gestellt und für die Annahme keine kürzere Frist gesetzt hat, bleibt 14 Tage gebunden.
 
 <sup>2</sup> Erfordert die Versicherung eine ärztliche Untersuchung, so bleibt der Antragsteller vier Wochen gebunden.
 
-<sup>3</sup> Die Frist beginnt mit der Übergabe oder Absendung des Antrags an den Versicherer oder dessen Agenten zu laufen.
+<sup>3</sup> Die Frist beginnt mit der Übergabe oder Absendung des Antrags an das Versicherungsunternehmen oder dessen Agenten zu laufen.
 
-<sup>4</sup> Der Antragsteller wird frei, wenn die Annahmeerklärung des Versicherers nicht vor Ablauf der Frist bei ihm eingetroffen ist.
+<sup>4</sup> Der Antragsteller wird frei, wenn die Annahmeerklärung des Versicherungsunternehmens nicht vor Ablauf der Frist bei ihm eingetroffen ist.
+
+[^1-1]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ### Besondere Antragsverhältnisse
 
 #### Art. 2
 
-<sup>1</sup> Wird der Antrag, einen bestehenden Vertrag zu verlängern oder abzuändern oder einen suspendierten Vertrag wieder in Kraft zu setzen, vom Versicherer nicht binnen 14 Tagen, vom Empfange an gerechnet, abgelehnt, so gilt er als angenommen.
+<sup>1</sup> Wird der Antrag, einen bestehenden Vertrag zu verlängern oder abzuändern oder einen suspendierten Vertrag wieder in Kraft zu setzen, vom Versicherungsunternehmen nicht binnen 14 Tagen, vom Empfange an gerechnet, abgelehnt, so gilt er als angenommen.
 
-<sup>2</sup> Ist nach Massgabe der allgemeinen Versicherungsbedingungen eine ärztliche Untersuchung erforderlich, so gilt der Antrag als angenommen, wenn er vom Versicherer nicht binnen vier Wochen, vom Empfange an gerechnet, abgelehnt wird.
+<sup>2</sup> Ist nach Massgabe der allgemeinen Versicherungsbedingungen eine ärztliche Untersuchung erforderlich, so gilt der Antrag als angenommen, wenn er vom Versicherungsunternehmen nicht binnen vier Wochen, vom Empfange an gerechnet, abgelehnt wird.
 
 <sup>3</sup> Der Antrag, die Versicherungssumme zu erhöhen, fällt nicht unter diese Bestimmungen.
 
-### Informations- pflicht des Versicherers
+### Widerrufsrecht
+
+#### Art. 2a
+
+[^2a-1]
+
+<sup>1</sup> Der Versicherungsnehmer kann seinen Antrag zum Abschluss des Vertrags oder die Erklärung zu dessen Annahme schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, widerrufen.
+
+<sup>2</sup> Die Widerrufsfrist beträgt 14 Tage und beginnt, sobald der Versicherungsnehmer den Vertrag beantragt oder angenommen hat.
+
+<sup>3</sup> Die Frist ist eingehalten, wenn der Versicherungsnehmer am letzten Tag der Widerrufsfrist seinen Widerruf dem Versicherungsunternehmen mitteilt oder seine Widerrufserklärung der Post übergibt.
+
+<sup>4</sup> Ausgeschlossen ist das Widerrufsrecht bei kollektiven Personenversicherungen, vorläufigen Deckungszusagen und Vereinbarungen mit einer Laufzeit von weniger als einem Monat.
+
+<sup>5</sup> Solange geschädigte Dritte trotz eines Widerrufs gutgläubig Ansprüche gegenüber dem Versicherungsunternehmen geltend machen können, schuldet der Versicherungsnehmer die Prämie und kann das Versicherungsunternehmen den geschädigten Dritten die Unwirksamkeit des Vertrags nicht entgegenhalten.
+
+[^2a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Wirkung des Widerrufs
+
+#### Art. 2b
+
+[^2b-1]
+
+<sup>1</sup> Der Widerruf bewirkt, dass der Antrag zum Vertragsabschluss oder die Annahmeerklärung des Versicherungsnehmers von Anfang an unwirksam ist. Bei anteilgebundenen Lebensversicherungen muss der zum Zeitpunkt des Widerrufs geltende Wert zurückerstattet werden.
+
+<sup>2</sup> Die Parteien müssen bereits empfangene Leistungen zurückerstatten.
+
+<sup>3</sup> Der Versicherungsnehmer schuldet dem Versicherungsunternehmen keine weitere Entschädigung. Wo es der Billigkeit entspricht, hat der Versicherungsnehmer dem Versicherungsunternehmen die Kosten für besondere Abklärungen, die dieses in guten Treuen im Hinblick auf den Vertragsabschluss vorgenommen hat, teilweise oder ganz zu erstatten.
+
+[^2b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### 2. Abschnitt: Aufklärungspflichten****
+
+[^chap1-sec2-1]
+
+[^chap1-sec2-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Informations- pflicht des Versicherungsunternehmens
 
 #### Art. 3
 
@@ -63,21 +113,31 @@ beschliesst:
 
 <sup>1</sup>
 
-Der Versicherer muss den Versicherungsnehmer vor Abschluss des Versicherungsvertrages verständlich über die Identität des Versicherers und den wesentlichen Inhalt des Versicherungsvertrages informieren. Er muss informieren über:
+Das Versicherungsunternehmen muss den Versicherungsnehmer vor Abschluss des Versicherungsvertrags verständlich und in einer Form, die den Nachweis durch Text ermöglicht, über seine Identität und den wesentlichen Inhalt des Versicherungsvertrags informieren. Es muss informieren über:[^3-2]
 
 - a. die versicherten Risiken;
-- b. den Umfang des Versicherungsschutzes;
+- b.[^3-3] den Umfang des Versicherungsschutzes und darüber, ob es sich um eine Summen- oder um eine Schadenversicherung handelt;
 - c. die geschuldeten Prämien und weitere Pflichten des Versicherungsnehmers;
 - d. Laufzeit und Beendigung des Versicherungsvertrages;
 - e. die für die Überschussermittlung und die Überschussbeteiligung geltenden Berechnungsgrundlagen und Verteilungsgrundsätze und -methoden;
-- f. die Rückkaufs- und Umwandlungswerte;
-- g. die Bearbeitung der Personendaten einschliesslich Zweck und Art der Datensammlung sowie Empfänger und Aufbewahrung der Daten.
+- f.[^3-4] die Rückkaufs- und Umwandlungswerte sowie die mit einer rückkaufsfähigen Lebensversicherung im Falle des Rückkaufs verbundenen wesentlichen Kostenarten;
+- g. die Bearbeitung der Personendaten einschliesslich Zweck und Art der Datensammlung sowie Empfänger und Aufbewahrung der Daten;
+- h.[^3-5] das Widerrufsrecht nach Artikel 2*a* sowie über Form und Frist des Widerrufs;
+- i.[^3-6] eine Frist für das Einreichen der Schadenanzeige nach Artikel 38 Absatz 1;
+- j.[^3-7] die zeitliche Geltung des Versicherungsschutzes insbesondere in den Fällen, in denen das befürchtete Ereignis während der Laufzeit des Vertrags, der daraus entstehende Schaden aber erst nach Beendigung des Vertrags eintritt.
 
 <sup>2</sup> Diese Angaben sind dem Versicherungsnehmer so zu übergeben, dass er sie kennen kann, wenn er den Versicherungsvertrag beantragt oder annimmt. In jedem Fall muss er zu diesem Zeitpunkt im Besitz der Allgemeinen Versicherungsbedingungen und der Information nach Absatz 1 Buchstabe g sein.
 
-<sup>3</sup> Bei Kollektivverträgen, die anderen Personen als dem Versicherungsnehmer einen direkten Leistungsanspruch verleihen, ist der Versicherungsnehmer verpflichtet, diese Personen über den wesentlichen Inhalt des Vertrages sowie dessen Änderungen und Auflösung zu unterrichten. Der Versicherer stellt dem Versicherungsnehmer die zur Information erforderlichen Unterlagen zur Verfügung.
+<sup>3</sup> Schliesst ein Arbeitgeber zum Schutz seiner Arbeitnehmer eine kollektive Personenversicherung ab, so ist er verpflichtet, die Arbeitnehmer über den wesentlichen Inhalt des Vertrags sowie dessen Änderungen und Auflösung schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu informieren. Das Versicherungsunternehmen stellt dem Arbeitgeber die dazu erforderlichen Unterlagen zur Verfügung.[^3-8]
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^3-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-5]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-6]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-7]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^3-8]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Verletzung der Informationspflicht
 
@@ -85,33 +145,46 @@ Der Versicherer muss den Versicherungsnehmer vor Abschluss des Versicherungsvert
 
 [^3a-1]
 
-<sup>1</sup> Hat der Versicherer die Informationspflicht nach Artikel 3 verletzt, so ist der Versicherungsnehmer berechtigt, den Versicherungsvertrag durch schriftliche Erklärung zu kündigen. Die Kündigung wird mit Zugang beim Versicherer wirksam.
+<sup>1</sup> Hat das Versicherungsunternehmen die Informationspflicht nach Artikel 3 verletzt, so ist der Versicherungsnehmer berechtigt, den Versicherungsvertrag schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu kündigen. Die Kündigung wird mit Zugang beim Versicherungsunternehmen wirksam.
 
-<sup>2</sup> Das Kündigungsrecht erlischt vier Wochen, nachdem der Versicherungsnehmer von der Pflichtverletzung und den Informationen nach Artikel 3 Kenntnis erhalten hat, jedenfalls spätestens ein Jahr nach der Pflichtverletzung.
+<sup>2</sup> Das Kündigungsrecht erlischt vier Wochen, nachdem der Versicherungsnehmer von der Pflichtverletzung und den Informationen nach Artikel 3 Kenntnis erhalten hat, jedenfalls spätestens zwei Jahre nach der Pflichtverletzung.
 
-[^3a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^3a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2004 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Anzeigepflicht beim Vertragsabschlusse
+### Anzeigepflicht
 
-### a. Im allgemeinen
+### a. Im Allgemeinen
+
+[^chap1-sec2-lvlu3-lvla-1]
+
+[^chap1-sec2-lvlu3-lvla-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 4
 
-<sup>1</sup> Der Antragsteller hat dem Versicherer an Hand eines Fragebogens oder auf sonstiges schriftliches Befragen alle für die Beurteilung der Gefahr erheblichen Tatsachen, soweit und so wie sie ihm beim Vertragsabschlusse bekannt sind oder bekannt sein müssen, schriftlich mitzuteilen.
+<sup>1</sup> Der Antragsteller hat dem Versicherungsunternehmen anhand eines Fragebogens oder auf sonstiges Befragen alle für die Beurteilung der Gefahr erheblichen Tatsachen, soweit und so wie sie ihm bekannt sind oder bekannt sein müssen, mitzuteilen. Sowohl das Befragen als auch die Mitteilung haben schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu erfolgen.[^4-1]
 
-<sup>2</sup> Erheblich sind diejenigen Gefahrstatsachen, die geeignet sind, auf den Entschluss des Versicherers, den Vertrag überhaupt oder zu den vereinbarten Bedingungen abzuschliessen, einen Einfluss auszuüben.
+<sup>2</sup> Erheblich sind diejenigen Gefahrstatsachen, die geeignet sind, auf den Entschluss des Versicherungsunternehmens, den Vertrag überhaupt oder zu den vereinbarten Bedingungen abzuschliessen, einen Einfluss auszuüben.
 
-<sup>3</sup> Die Gefahrstatsachen, auf welche die schriftlichen Fragen des Versicherers in bestimmter, unzweideutiger Fassung gerichtet sind, werden als erheblich vermutet.
+<sup>3</sup> Die Gefahrstatsachen, auf welche die Fragen des Versicherungsunternehmens in bestimmter, unzweideutiger Fassung gerichtet sind, werden als erheblich vermutet.[^4-2]
 
-### b. Beim Vertragsabschlusse durch Stellvertreter
+[^4-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^4-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### c. Bei der Versicherung für fremde Rechnung
+### b. Bei Stellvertretung
+
+[^chap1-sec2-lvlu3-lvlb-1]
+
+[^chap1-sec2-lvlu3-lvlb-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### c. Bei der Fremdversicherung
 
 #### Art. 5
 
 <sup>1</sup> Wird der Vertrag durch einen Stellvertreter abgeschlossen, so sind sowohl die erheblichen Gefahrstatsachen anzuzeigen, die dem Vertretenen, als auch diejenigen, die dem Vertreter bekannt sind oder bekannt sein müssen.
 
-<sup>2</sup> Bei der Versicherung für fremde Rechnung (Art. 16) sind auch diejenigen erheblichen Gefahrstatsachen anzuzeigen, die dem versicherten Dritten selbst oder seinem Zwischenbeauftragten bekannt sind oder bekannt sein müssen, es sei denn, dass der Vertrag ohne Wissen dieser Personen abgeschlossen wird, oder dass die rechtzeitige Benachrichtigung des Antragstellers nicht möglich ist.
+<sup>2</sup> Bei Fremdversicherungen (Art. 16) sind auch diejenigen erheblichen Gefahrstatsachen anzuzeigen, die dem versicherten Dritten selbst oder seinem Zwischenbeauftragten bekannt sind oder bekannt sein müssen, es sei denn, der Vertrag wird ohne Wissen dieser Personen abgeschlossen oder die rechtzeitige Benachrichtigung des Antragstellers ist nicht möglich.[^5-1]
+
+[^5-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Folgen der verletzten Anzeigepflicht
 
@@ -121,57 +194,74 @@ Der Versicherer muss den Versicherungsnehmer vor Abschluss des Versicherungsvert
 
 [^6-1]
 
-<sup>1</sup> Hat der Anzeigepflichtige beim Abschluss der Versicherung eine erhebliche Gefahrstatsache, die er kannte oder kennen musste und über die er schriftlich befragt worden ist, unrichtig mitgeteilt oder verschwiegen, so ist der Versicherer berechtigt, den Vertrag durch schriftliche Erklärung zu kündigen. Die Kündigung wird mit Zugang beim Versicherungsnehmer wirksam.
+<sup>1</sup> Hat der Anzeigepflichtige bei der Beantwortung der Fragen gemäss Artikel 4 Absatz 1 eine erhebliche Gefahrstatsache, die er kannte oder kennen musste und über die er befragt worden ist, unrichtig mitgeteilt oder verschwiegen, so ist das Versicherungsunternehmen berechtigt, den Vertrag schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu kündigen.[^6-2] Die Kündigung wird mit Zugang beim Versicherungsnehmer wirksam.
 
-<sup>2</sup> Das Kündigungsrecht erlischt vier Wochen, nachdem der Versicherer von der Verletzung der Anzeigepflicht Kenntnis erhalten hat.
+<sup>2</sup> Das Kündigungsrecht erlischt vier Wochen, nachdem das Versicherungsunternehmen von der Verletzung der Anzeigepflicht Kenntnis erhalten hat.[^6-3]
 
-<sup>3</sup> Wird der Vertrag durch Kündigung nach Absatz 1 aufgelöst, so erlischt auch die Leistungspflicht des Versicherers für bereits eingetretene Schäden, deren Eintritt oder Umfang durch die nicht oder unrichtig angezeigte erhebliche Gefahrstatsache beeinflusst worden ist. Soweit die Leistungspflicht schon erfüllt wurde, hat der Versicherer Anspruch auf Rückerstattung.
+<sup>3</sup> Wird der Vertrag durch Kündigung nach Absatz 1 aufgelöst, so erlischt auch die Leistungspflicht des Versicherungsunternehmens für bereits eingetretene Schäden, soweit deren Eintritt oder Umfang durch die nicht oder unrichtig angezeigte erhebliche Gefahrstatsache beeinflusst worden ist. Soweit die Leistungspflicht schon erfüllt wurde, hat das Versicherungsunternehmen Anspruch auf Rückerstattung.[^6-4]
 
-<sup>4</sup> Wird ein Lebensversicherungsvertrag, der nach Massgabe dieses Gesetzes rückkauffähig ist (Art. 90 Abs. 2) aufgelöst, so hat der Versicherer die für den Rückkauf festgestellte Leistung zu gewähren.
+<sup>4</sup> Wird ein Lebensversicherungsvertrag, der nach Massgabe dieses Gesetzes rückkauffähig ist (Art. 90 Abs. 2) aufgelöst, so hat das Versicherungsunternehmen die für den Rückkauf festgestellte Leistung zu gewähren.
 
 [^6-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^6-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^6-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^6-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### b. Beim Kollektivversicherungsvertrage
 
 #### Art. 7
 
-Umfasst der Vertrag mehrere Gegenstände oder Personen und ist die Anzeigepflicht nur bezüglich eines Teiles dieser Gegenstände oder Personen verletzt, so bleibt die Versicherung für den übrigen Teil wirksam, wenn sich aus den Umständen ergibt, dass der Versicherer diesen Teil allein zu den nämlichen Bedingungen versichert hätte.
+Umfasst der Vertrag mehrere Gegenstände oder Personen und ist die Anzeigepflicht nur bezüglich eines Teiles dieser Gegenstände oder Personen verletzt, so bleibt die Versicherung für den übrigen Teil wirksam, wenn sich aus den Umständen ergibt, dass das Versicherungsunternehmen diesen Teil allein zu den nämlichen Bedingungen versichert hätte.
 
 ### Nichteintritt der Folgen der verletzten Anzeigepflicht
 
 #### Art. 8
 
-Trotz der Anzeigepflichtverletzung (Art. 6) kann der Versicherer den Vertrag nicht kündigen:[^8-1]
+Trotz der Anzeigepflichtverletzung (Art. 6) kann das Versicherungsunternehmen den Vertrag nicht kündigen:[^8-1]
 
 - 1\. wenn die verschwiegene oder unrichtig angezeigte Tatsache vor Eintritt des befürchteten Ereignisses weggefallen ist;
-- 2\. wenn der Versicherer die Verschweigung oder unrichtige Angabe veranlasst hat;
-- 3\. wenn der Versicherer die verschwiegene Tatsache gekannt hat oder gekannt haben muss;
-- 4\. wenn der Versicherer die unrichtig angezeigte Tatsache richtig gekannt hat oder gekannt haben muss;
-- 5\.[^8-2] wenn der Versicherer auf das Kündigungsrecht verzichtet hat;
-- 6\. wenn der Anzeigepflichtige auf eine ihm vorgelegte Frage eine Antwort nicht erteilt, und der Versicherer den Vertrag gleichwohl abgeschlossen hat. Diese Bestimmung findet keine Anwendung, wenn die Frage, auf Grund der übrigen Mitteilungen des Anzeigepflichtigen, als in einem bestimmten Sinne beantwortet angesehen werden muss und wenn diese Antwort sich als Verschweigen oder unrichtige Mitteilung einer erheblichen Gefahrstatsache darstellt, die der Anzeigepflichtige kannte oder kennen musste.
+- 2\. wenn das Versicherungsunternehmen die Verschweigung oder unrichtige Angabe veranlasst hat;
+- 3\. wenn das Versicherungsunternehmen die verschwiegene Tatsache gekannt hat oder gekannt haben muss;
+- 4\. wenn das Versicherungsunternehmen die unrichtig angezeigte Tatsache richtig gekannt hat oder gekannt haben muss;
+- 5\.[^8-2] wenn das Versicherungsunternehmen auf das Kündigungsrecht verzichtet hat;
+- 6\. wenn der Anzeigepflichtige auf eine ihm vorgelegte Frage eine Antwort nicht erteilt, und das Versicherungsunternehmen den Vertrag gleichwohl abgeschlossen hat. Diese Bestimmung findet keine Anwendung, wenn die Frage, auf Grund der übrigen Mitteilungen des Anzeigepflichtigen, als in einem bestimmten Sinne beantwortet angesehen werden muss und wenn diese Antwort sich als Verschweigen oder unrichtige Mitteilung einer erheblichen Gefahrstatsache darstellt, die der Anzeigepflichtige kannte oder kennen musste.
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^8-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### Nichtigkeit des Versicherungsvertrages
+### 3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags****
+
+[^chap1-sec3-1]
+
+[^chap1-sec3-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Vorläufige Deckungszusage
 
 #### Art. 9
 
 [^9-1]
 
-Der Versicherungsvertrag ist unter Vorbehalt der Fälle nach Artikel 100 Absatz 2 nichtig, wenn im Zeitpunkt des Abschlusses der Versicherung die Gefahr bereits weggefallen oder das befürchtete Ereignis schon eingetreten war.
+<sup>1</sup> Für die Begründung der Leistungspflicht des Versicherungsunternehmens bei einer vorläufigen Deckungszusage genügt es, wenn die versicherten Risiken und der Umfang des vorläufigen Versicherungsschutzes bestimmbar sind. Entsprechend reduziert sich die Informationspflicht des Versicherungsunternehmens.
 
-[^9-1]: Fassung gemäss Art. 115 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982, in Kraft seit 1. Jan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
+<sup>2</sup> Eine Prämie ist zu leisten, soweit sie verabredet oder üblich ist.
 
-### Sonderstellung der Feuerversicherung und der Transportversicherung
+<sup>3</sup> Ist die vorläufige Deckungszusage unbefristet, so kann sie jederzeit unter Wahrung einer Frist von 14 Tagen gekündigt werden. Sie endet auf jeden Fall mit Abschluss eines definitiven Vertrags mit dem betreffenden oder einem anderen Versicherungsunternehmen.
+
+<sup>4</sup> Vorläufige Deckungszusagen sind vom Versicherungsunternehmen schriftlich zu bestätigen.
+
+[^9-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Rückwärtsversicherung
 
 #### Art. 10
 
-<sup>1</sup> Die Vorschrift des Artikels 9 dieses Gesetzes findet auf die Feuerversicherung hinsichtlich solcher Gegenstände, die im Auslande gelegen sind, und auf die Transportversicherung nur dann Anwendung, wenn beide Parteien beim Vertragsabschlusse wussten, dass die Gefahr bereits weggefallen oder das befürchtete Ereignis schon eingetreten war.
+[^10-1]
 
-<sup>2</sup> Wusste beim Vertragsabschlusse nur der Versicherer, dass die Gefahr bereits weggefallen war, so ist der Versicherungsnehmer an den Vertrag nicht gebunden. Der Versicherer hat weder auf die Prämie noch auf Ersatz der Geschäftsunkosten Anspruch.
+<sup>1</sup> Die Wirkungen des Vertrags können auf einen Zeitpunkt vor dessen Abschluss zurückbezogen werden, sofern ein versicherbares Interesse besteht.
 
-<sup>3</sup> Wusste beim Vertragsabschlusse nur der Versicherungsnehmer, dass das befürchtete Ereignis bereits eingetreten war, so ist der Versicherer an den Vertrag nicht gebunden. Der Versicherer hat auf Ersatz der Geschäftsunkosten Anspruch.
+<sup>2</sup> Eine Rückwärtsversicherung ist nichtig, wenn lediglich der Versicherungsnehmer oder der Versicherte wusste oder wissen musste, dass ein befürchtetes Ereignis bereits eingetreten ist.
+
+[^10-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Police
 
@@ -179,23 +269,27 @@ Der Versicherungsvertrag ist unter Vorbehalt der Fälle nach Artikel 100 Absatz 
 
 #### Art. 11
 
-<sup>1</sup> Der Versicherer ist gehalten, dem Versicherungsnehmer eine Police auszuhändigen, welche die Rechte und Pflichten der Parteien feststellt. Der Versicherer ist berechtigt, vom Versicherungsnehmer ausser Porto und Stempelkosten eine Gebühr für Ausfertigung der Police sowie für Abänderungen derselben zu erheben. Die Höhe dieser Gebühr kann durch Verordnung des Bundesrates begrenzt werden.
+[^11-1]
 
-<sup>2</sup> Der Versicherer muss überdies dem Versicherungsnehmer auf Verlangen eine Abschrift der in den Antragspapieren enthaltenen oder anderweitig abgegebenen Erklärungen des Antragstellers, auf Grund deren die Versicherung abgeschlossen wurde, gegen Ersatz der Auslagen aushändigen.
+<sup>1</sup> Das Versicherungsunternehmen stellt dem Versicherungsnehmer eine Police aus, welche die Rechte und Pflichten der Parteien festhält.
 
-### b. Vorbehaltlose Annahme
+<sup>2</sup> Es muss dem Versicherungsnehmer auf Verlangen eine Kopie der im Antrag enthaltenen oder anderweitig abgegebenen Erklärungen des Antragstellers, auf deren Grundlage die Versicherung abgeschlossen wurde, ausstellen.
+
+[^11-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### b. ...
 
 #### Art. 12
 
-<sup>1</sup> Stimmt der Inhalt der Police oder der Nachträge zu derselben mit den getroffenen Vereinbarungen nicht überein, so hat der Versicherungsnehmer binnen vier Wochen nach Empfang der Urkunde deren Berichtigung zu verlangen, widrigenfalls ihr Inhalt als von ihm genehmigt gilt.
+[^12-1]
 
-<sup>2</sup> Diese Bestimmung ist in ihrem Wortlaute in jede Police aufzunehmen.
+[^12-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### c. Kraftloserklärung
 
 #### Art. 13
 
-<sup>1</sup> …[^13-1]
+<sup>1</sup> ...[^13-1]
 
 <sup>2</sup> Für die Kraftloserklärung von Policen kommen die für die Kraftloserklärung von Inhaberpapieren geltenden Bestimmungen des Bundesgesetzes vom 14. Juni 1881[^13-2] über das Obligationenrecht sinngemäss zur Anwendung, mit der Abänderung, dass die Anmeldungsfrist höchstens ein Jahr beträgt.
 
@@ -206,99 +300,104 @@ Der Versicherungsvertrag ist unter Vorbehalt der Fälle nach Artikel 100 Absatz 
 
 #### Art. 14
 
-<sup>1</sup> Der Versicherer haftet nicht, wenn der Versicherungsnehmer oder der Anspruchsberechtigte das befürchtete Ereignis absichtlich herbeigeführt hat.
+<sup>1</sup> Das Versicherungsunternehmen haftet nicht, wenn der Versicherungsnehmer oder der Anspruchsberechtigte das befürchtete Ereignis absichtlich herbeigeführt hat.
 
-<sup>2</sup> Hat der Versicherungsnehmer oder der Anspruchsberechtigte das Ereignis grobfahrlässig herbeigeführt, so ist der Versicherer berechtigt, seine Leistung in einem dem Grade des Verschuldens entsprechenden Verhältnisse zu kürzen.
+<sup>2</sup> Hat der Versicherungsnehmer oder der Anspruchsberechtigte das Ereignis grobfahrlässig herbeigeführt, so ist das Versicherungsunternehmen berechtigt, seine Leistung in einem dem Grade des Verschuldens entsprechenden Verhältnisse zu kürzen.
 
-<sup>3</sup> Ist das Ereignis absichtlich oder grobfahrlässig von einer Person herbeigeführt worden, die mit dem Versicherungsnehmer oder dem Anspruchsberechtigten in häuslicher Gemeinschaft lebt, oder für deren Handlungen der Versicherungsnehmer oder der Anspruchsberechtigte einstehen muss, und hat er sich in der Beaufsichtigung, durch die Anstellung oder durch die Aufnahme jener Person einer groben Fahrlässigkeit schuldig gemacht, so kann der Versicherer seine Leistung in einem Verhältnisse kürzen, das dem Grade des Verschuldens des Versicherungsnehmers oder des Anspruchsberechtigten entspricht.
+<sup>3</sup> Ist das Ereignis absichtlich oder grobfahrlässig von einer Person herbeigeführt worden, die mit dem Versicherungsnehmer oder dem Anspruchsberechtigten in häuslicher Gemeinschaft lebt, oder für deren Handlungen der Versicherungsnehmer oder der Anspruchsberechtigte einstehen muss, und hat er sich in der Beaufsichtigung, durch die Anstellung oder durch die Aufnahme jener Person einer groben Fahrlässigkeit schuldig gemacht, so kann das Versicherungsunternehmen seine Leistung in einem Verhältnisse kürzen, das dem Grade des Verschuldens des Versicherungsnehmers oder des Anspruchsberechtigten entspricht.
 
-<sup>4</sup> Hat der Versicherungsnehmer oder der Anspruchsberechtigte das Ereignis leichtfahrlässig herbeigeführt oder sich einer leichten Fahrlässigkeit im Sinne des vorhergehenden Absatzes schuldig gemacht, oder hat eine der übrigen dort aufgeführten Personen das Ereignis leichtfahrlässig herbeigeführt, so haftet der Versicherer in vollem Umfange.
+<sup>4</sup> Hat der Versicherungsnehmer oder der Anspruchsberechtigte das Ereignis leichtfahrlässig herbeigeführt oder sich einer leichten Fahrlässigkeit im Sinne des vorhergehenden Absatzes schuldig gemacht, oder hat eine der übrigen dort aufgeführten Personen das Ereignis leichtfahrlässig herbeigeführt, so haftet das Versicherungsunternehmen in vollem Umfange.
 
 ### Gebote der Menschlichkeit
 
 #### Art. 15
 
-Hat eine der in Artikel 14 dieses Gesetzes genannten Personen gemäss einem Gebote der Menschlichkeit gehandelt und dadurch das befürchtete Ereignis herbeigeführt, so haftet der Versicherer in vollem Umfange.
+Hat eine der in Artikel 14 dieses Gesetzes genannten Personen gemäss einem Gebote der Menschlichkeit gehandelt und dadurch das befürchtete Ereignis herbeigeführt, so haftet das Versicherungsunternehmen in vollem Umfange.
 
-### Versicherung für fremde Rechnung
+### Gegenstand der Versicherung
 
 #### Art. 16
 
-<sup>1</sup> Die Versicherung kann für eigene oder fremde Rechnung, mit oder ohne Bezeichnung der Person des versicherten Dritten, abgeschlossen werden.
+[^16-1]
+
+<sup>1</sup> Gegenstand der Versicherung ist ein versicherbares Interesse des Versicherungsnehmers (Versicherung für eigene Rechnung) oder eines Dritten (Versicherung für fremde Rechnung). Sie kann sich auf die Person, auf Sachen oder auf das übrige Vermögen des Versicherungsnehmers (Eigenversicherung) oder eines Dritten (Fremdversicherung) beziehen.
 
 <sup>2</sup> Im Zweifel wird angenommen, dass der Versicherungsnehmer den Vertrag für eigene Rechnung abgeschlossen hat.
 
-### Besonderheiten der Versicherung für fremde Rechnung
+<sup>3</sup> Bei der Versicherung für fremde Rechnung kann das Versicherungsunternehmen Einreden, die ihm gegen den Versicherungsnehmer zustehen, auch gegenüber dem Dritten erheben.
 
-#### Art. 17
+[^16-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>1</sup> Die Versicherung für fremde Rechnung ist für den Versicherer auch dann verbindlich, wenn der versicherte Dritte den Vertrag erst nach Eintritt des befürchteten Ereignisses genehmigt.
+#### Art. 17 und 18
 
-<sup>2</sup> Der Versicherungsnehmer ist befugt, ohne Zustimmung des Versicherten den Ersatzanspruch gegen den Versicherer geltend zu machen, wenn der Versicherte den Versicherungsnehmer vorbehaltlos zum Abschlusse des Vertrages beauftragt hat oder wenn dem Versicherungsnehmer eine gesetzliche Versicherungspflicht obgelegen hat.
+[^1718-1]
 
-<sup>3</sup> Der Versicherer ist nicht berechtigt, Forderungen, die ihm gegen den Versicherungsnehmer zustehen, mit der dem Versicherten geschuldeten Entschädigung zu verrechnen. Die Bestimmung des Artikels 18 Absatz 2 dieses Gesetzes bleibt vorbehalten.
+[^1718-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Prämie
+### 4. Abschnitt: Prämie****
 
-### a. Träger der Verpflichtung
+[^chap1-sec4-1]
 
-#### Art. 18
+[^chap1-sec4-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>1</sup> Zur Bezahlung der Prämie ist der Versicherungsnehmer verpflichtet.
+### Fälligkeit
 
-<sup>2</sup> Bei der Versicherung für fremde Rechnung ist der Versicherer berechtigt, die Bezahlung der Prämie auch vom Versicherten zu fordern, wenn der Versicherungsnehmer zahlungsunfähig geworden ist und die Prämie vom Versicherten noch nicht erhalten hat.
+[^chap1-sec4-lvlu1-1]
 
-<sup>3</sup> Bei der Versicherung zugunsten Dritter steht dem Versicherer das Recht zu, die Prämienforderung mit der dem Begünstigten geschuldeten Leistung zu verrechnen.
-
-### b. Fälligkeit
+[^chap1-sec4-lvlu1-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 19
 
 <sup>1</sup> Wenn der Vertrag nicht anders bestimmt, ist die Prämie für die erste Versicherungsperiode mit dem Abschlusse der Versicherung fällig. Unter Versicherungsperiode wird der Zeitabschnitt, nach dem die Prämieneinheit berechnet wird, verstanden. Die Versicherungsperiode umfasst im Zweifel den Zeitraum eines Jahres.
 
-<sup>2</sup> Auf die Bestimmung der Police, dass die Versicherung erst mit Bezahlung der ersten Prämie in Kraft tritt, kann sich der Versicherer nicht berufen, wenn er die Police vor Bezahlung dieser Prämie ausgehändigt hat.
+<sup>2</sup> ...[^19-1]
 
 <sup>3</sup> Die folgenden Prämien sind im Zweifel jeweilen mit Beginn einer neuen Versicherungsperiode fällig.
 
-### c. Mahnpflicht des Versicherers; Verzugsfolgen
+[^19-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Mahnpflicht des Versicherungsunternehmens; Verzugsfolgen
+
+[^chap1-sec4-lvlu2-1]
+
+[^chap1-sec4-lvlu2-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 20
 
-<sup>1</sup> Wird die Prämie zur Verfallzeit oder während der im Vertrage eingeräumten Nachfrist nicht entrichtet, so ist der Schuldner unter Androhung der Säumnisfolgen auf seine Kosten schriftlich aufzufordern, binnen 14 Tagen, von der Absendung der Mahnung an gerechnet, Zahlung zu leisten.
+<sup>1</sup> Wird die Prämie zur Verfallzeit oder während der im Vertrag eingeräumten Nachfrist nicht entrichtet, so ist der Schuldner unter Androhung der Säumnisfolgen auf seine Kosten schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, aufzufordern, binnen 14 Tagen, von der Absendung der Mahnung an gerechnet, Zahlung zu leisten.[^20-1]
 
-<sup>2</sup> Wird die Prämie beim Schuldner abgeholt, so kann der Versicherer die schriftliche Mahnung durch eine mündliche ersetzen.
+<sup>2</sup> Wird die Prämie beim Schuldner abgeholt, so kann die Mahnung mündlich erfolgen.[^20-2]
 
-<sup>3</sup> Bleibt die Mahnung ohne Erfolg, so ruht die Leistungspflicht des Versicherers vom Ablaufe der Mahnfrist an.
+<sup>3</sup> Bleibt die Mahnung ohne Erfolg, so ruht die Leistungspflicht des Versicherungsunternehmens vom Ablaufe der Mahnfrist an.
 
 <sup>4</sup> Die Vorschrift des Artikels 93 dieses Gesetzes wird vorbehalten.
 
-### d. Vertragsverhältnis nach eingetretenem Verzuge
+[^20-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^20-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Vertragsverhältnis nach eingetretenem Verzuge
 
 #### Art. 21
 
-<sup>1</sup> Wird die rückständige Prämie nicht binnen zwei Monaten nach Ablauf der in Artikel 20 dieses Gesetzes festgesetzten Frist rechtlich eingefordert, so wird angenommen, dass der Versicherer, unter Verzicht auf die Bezahlung der rückständigen Prämie, vom Vertrage zurücktritt.
+[^21-1]
 
-<sup>2</sup> Wird die Prämie vom Versicherer eingefordert oder nachträglich angenommen, so lebt seine Haftung mit dem Zeitpunkte, in dem die rückständige Prämie samt Zinsen und Kosten bezahlt wird, wieder auf.
+<sup>1</sup> Wird die rückständige Prämie nicht binnen zwei Monaten nach Ablauf der in Artikel 20 dieses Gesetzes festgesetzten Frist rechtlich eingefordert, so wird angenommen, dass das Versicherungsunternehmen, unter Verzicht auf die Bezahlung der rückständigen Prämie, vom Vertrage zurücktritt.
 
-### e. Zahlungsort; Bringschuld und Holschuld
+<sup>2</sup> Wird die Prämie vom Versicherungsunternehmen eingefordert oder nachträglich angenommen, so lebt seine Haftung mit dem Zeitpunkte, in dem die rückständige Prämie samt Zinsen und Kosten bezahlt wird, wieder auf.
 
-#### Art. 22
+[^21-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-[^22-1]
+#### Art. 22 und 23
 
-<sup>1</sup> Die Prämie ist dem inländischen Versicherer an seinem Sitz, dem ausländischen Versicherer am Ort der Geschäftsstelle für das gesamte schweizerische Geschäft zu bezahlen, wenn der Versicherer dem Versicherungsnehmer nicht eine andere inländische Zahlstelle bezeichnet hat.
+[^2223-1]
 
-<sup>2</sup> Hat der Versicherer, ohne hierzu verpflichtet zu sein, die Prämie regelmässig beim Schuldner einziehen lassen, so ist die Prämie abzuholen, solange diese Übung vom Versicherer nicht ausdrücklich widerrufen wird.
+[^2223-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-[^22-1]: Fassung gemäss Ziff. 3 des Anhangs zum Versicherungsaufsichtsgesetz vom 23. Juni 1978, in Kraft seit 1. Jan. 1979 ([AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [BBl 1976 II 873](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)).
+### Teilbarkeit
 
-### f. Prämienreduktion
+[^chap1-sec4-lvlu4-1]
 
-#### Art. 23
-
-Ist die Prämie unter Berücksichtigung bestimmter gefahrerhöhender Umstände vereinbart worden, so kann der Versicherungsnehmer, wenn diese Umstände im Laufe der Versicherung wegfallen oder ihre Bedeutung verlieren, für die künftigen Versicherungsperioden die tarifgemässe Herabsetzung der Prämie verlangen.
-
-### g*.* Teilbarkeit
+[^chap1-sec4-lvlu4-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 24
 
@@ -306,9 +405,10 @@ Ist die Prämie unter Berücksichtigung bestimmter gefahrerhöhender Umstände v
 
 <sup>1</sup> Bei vorzeitiger Auflösung oder Beendigung des Versicherungsvertrages ist die Prämie nur für die Zeit bis zur Vertragsauflösung geschuldet. Artikel 42 Absatz 3 bleibt vorbehalten.
 
-<sup>2</sup> Die auf die laufende Versicherungsperiode entfallene Prämie ist ganz geschuldet, wenn der Versicherer zufolge des Wegfalls des Risikos die Versicherungsleistung erbracht hat.
+<sup>2</sup> Die auf die laufende Versicherungsperiode entfallene Prämie ist ganz geschuldet, wenn das Versicherungsunternehmen zufolge des Wegfalls des Risikos die Versicherungsleistung erbracht hat.[^24-2]
 
 [^24-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^24-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 25–27
 
@@ -316,15 +416,37 @@ Ist die Prämie unter Berücksichtigung bestimmter gefahrerhöhender Umstände v
 
 [^2527-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
+### 5. Abschnitt: Änderung des Vertrags****
+
+[^chap1-sec5-1]
+
+[^chap1-sec5-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
 ### Gefahrserhöhung mit Zutun des Versicherungsnehmers
 
 #### Art. 28
 
-<sup>1</sup> Wenn der Versicherungsnehmer im Laufe der Versicherung eine wesentliche Gefahrserhöhung herbeigeführt hat, so ist der Versicherer für die Folgezeit an den Vertrag nicht gebunden.
+<sup>1</sup> Wenn der Versicherungsnehmer im Laufe der Versicherung eine wesentliche Gefahrserhöhung herbeigeführt hat, so ist das Versicherungsunternehmen für die Folgezeit an den Vertrag nicht gebunden.
 
-<sup>2</sup> Die Gefahrserhöhung ist wesentlich, wenn sie auf der Änderung einer für die Beurteilung der Gefahr erheblichen Tatsache (Art. 4) beruht, deren Umfang die Parteien beim Vertragsabschlusse festgestellt haben.
+<sup>2</sup> Die Gefahrserhöhung ist wesentlich, wenn sie auf der Änderung einer für die Beurteilung der Gefahr erheblichen Tatsache (Art. 4) beruht, deren Umfang die Parteien bei der Beantwortung der Fragen nach Artikel 4 Absatz 1 festgestellt haben.[^28-1]
 
-<sup>3</sup> Der Vertrag kann bestimmen, ob, in welchem Umfange und in welchen Fristen der Versicherungsnehmer dem Versicherer von solchen Gefahrserhöhungen Mitteilung zu machen hat.
+<sup>3</sup> Der Vertrag kann bestimmen, ob, in welchem Umfange und in welchen Fristen der Versicherungsnehmer dem Versicherungsunternehmen von solchen Gefahrserhöhungen Mitteilung zu machen hat.
+
+[^28-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Gefahrsminderung
+
+#### Art. 28a
+
+[^28a-1]
+
+<sup>1</sup> Bei einer wesentlichen Gefahrsminderung ist der Versicherungsnehmer berechtigt, den Vertrag mit einer Frist von vier Wochen schriftlich, oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu kündigen oder eine Prämienreduktion zu verlangen.
+
+<sup>2</sup> Lehnt das Versicherungsunternehmen eine Prämienreduktion ab oder ist der Versicherungsnehmer mit der angebotenen Reduktion nicht einverstanden, so ist dieser berechtigt, den Vertrag innert vier Wochen seit Zugang der Stellungnahme des Versicherungsunternehmens mit einer Frist von vier Wochen schriftlich, oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu kündigen.
+
+<sup>3</sup> Die Prämienreduktion wird mit dem Zugang der Mitteilung nach Absatz 1 beim Versicherungsunternehmen wirksam.
+
+[^28a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Vorbehalt besonderer Vereinbarungen
 
@@ -332,21 +454,21 @@ Ist die Prämie unter Berücksichtigung bestimmter gefahrerhöhender Umstände v
 
 <sup>1</sup> Vertragsabreden, wonach der Versicherungsnehmer bestimmte Obliegenheiten übernimmt, um die Gefahr zu vermindern oder eine Gefahrserhöhung zu verhüten, werden durch die Bestimmungen des Artikels 28 dieses Gesetzes nicht berührt.
 
-<sup>2</sup> Auf die Vertragsbestimmung, dass der Versicherer, wenn eine solche Obliegenheit verletzt wird, an den Vertrag nicht gebunden ist, kann sich der Versicherer nicht berufen, sofern die Verletzung keinen Einfluss auf den Eintritt des befürchteten Ereignisses und auf den Umfang der dem Versicherer obliegenden Leistung gehabt hat.
+<sup>2</sup> Auf die Vertragsbestimmung, dass das Versicherungsunternehmen, wenn eine solche Obliegenheit verletzt wird, an den Vertrag nicht gebunden ist, kann sich das Versicherungsunternehmen nicht berufen, sofern die Verletzung keinen Einfluss auf den Eintritt des befürchteten Ereignisses und auf den Umfang der dem Versicherungsunternehmen obliegenden Leistung gehabt hat.
 
 ### Gefahrserhöhung ohne Zutun des Versicherungsnehmers
 
 #### Art. 30
 
-<sup>1</sup> Ist die wesentliche Gefahrserhöhung ohne Zutun des Versicherungsnehmers herbeigeführt worden, so treten die in Artikel 28 dieses Gesetzes festgestellten Folgen nur dann ein, wenn der Versicherungsnehmer es unterlassen hat, die ihm bekannt gewordene Gefahrserhöhung ohne Verzug dem Versicherer schriftlich mitzuteilen.
+<sup>1</sup> Ist die wesentliche Gefahrserhöhung ohne Zutun des Versicherungsnehmers herbeigeführt worden, so treten die in Artikel 28 dieses Gesetzes festgestellten Folgen nur dann ein, wenn der Versicherungsnehmer es unterlassen hat, die ihm bekannt gewordene Gefahrserhöhung ohne Verzug dem Versicherungsunternehmen schriftlich mitzuteilen.
 
-<sup>2</sup> Ist diese Anzeigepflicht nicht verletzt und hat sich der Versicherer das Recht vorbehalten, wegen wesentlicher Gefahrserhöhung den Vertrag aufzuheben, so erlischt die Haftung des Versicherers mit dem Ablaufe von 14 Tagen, nachdem er dem Versicherungsnehmer den Rücktritt vom Vertrage mitgeteilt hat.
+<sup>2</sup> Ist diese Anzeigepflicht nicht verletzt und hat sich das Versicherungsunternehmen das Recht vorbehalten, wegen wesentlicher Gefahrserhöhung den Vertrag aufzuheben, so erlischt die Haftung des Versicherungsunternehmens mit dem Ablaufe von 14 Tagen, nachdem es dem Versicherungsnehmer den Rücktritt vom Vertrage mitgeteilt hat.
 
 ### Gefahrserhöhung beim Kollektivversicherungsvertrage
 
 #### Art. 31
 
-Umfasst der Vertrag mehrere Gegenstände oder Personen, und trifft die Gefahrserhöhung nur einen Teil dieser Gegenstände oder Personen, so bleibt die Versicherung für den übrigen Teil wirksam, sofern der Versicherungsnehmer die auf diesen Teil etwa entfallende höhere Prämie auf erstes Begehren des Versicherers bezahlt.
+Umfasst der Vertrag mehrere Gegenstände oder Personen, und trifft die Gefahrserhöhung nur einen Teil dieser Gegenstände oder Personen, so bleibt die Versicherung für den übrigen Teil wirksam, sofern der Versicherungsnehmer die auf diesen Teil etwa entfallende höhere Prämie auf erstes Begehren des Versicherungsunternehmens bezahlt.
 
 ### Nichteintritt der Folgen der Gefahrserhöhung
 
@@ -354,24 +476,24 @@ Umfasst der Vertrag mehrere Gegenstände oder Personen, und trifft die Gefahrser
 
 Die an die Gefahrserhöhung geknüpften Rechtsfolgen treten nicht ein:
 
-- 1\. wenn die Gefahrserhöhung auf den Eintritt des befürchteten Ereignisses und auf den Umfang der dem Versicherer obliegenden Leistung keinen Einfluss ausgeübt hat;
-- 2\. wenn die Gefahrserhöhung in der Absicht, das Interesse des Versicherers zu wahren, vorgenommen worden ist;
+- 1\. wenn die Gefahrserhöhung auf den Eintritt des befürchteten Ereignisses und auf den Umfang der dem Versicherungsunternehmen obliegenden Leistung keinen Einfluss ausgeübt hat;
+- 2\. wenn die Gefahrserhöhung in der Absicht, das Interesse des Versicherungsunternehmens zu wahren, vorgenommen worden ist;
 - 3\. wenn die Gefahrserhöhung durch ein Gebot der Menschlichkeit veranlasst worden ist.
-- 4\. wenn der Versicherer ausdrücklich oder stillschweigend auf den Rücktritt verzichtet hat, insbesondere wenn er, nachdem ihm die Gefahrserhöhung durch schriftliche Anzeige des Versicherungsnehmers zur Kenntnis gebracht worden ist, nicht binnen 14 Tagen dem Versicherungsnehmer den Rücktritt vom Vertrage angezeigt hat.
+- 4\. wenn das Versicherungsunternehmen ausdrücklich oder stillschweigend auf den Rücktritt verzichtet hat, insbesondere wenn es, nachdem ihm die Gefahrserhöhung durch schriftliche Anzeige des Versicherungsnehmers zur Kenntnis gebracht worden ist, nicht binnen 14 Tagen dem Versicherungsnehmer den Rücktritt vom Vertrage angezeigt hat.
 
 ### Umfang der Gefahr
 
 #### Art. 33
 
-Soweit dieses Gesetz nicht anders bestimmt, haftet der Versicherer für alle Ereignisse, welche die Merkmale der Gefahr, gegen deren Folgen Versicherung genommen wurde, an sich tragen, es sei denn, dass der Vertrag einzelne Ereignisse in bestimmter, unzweideutiger Fassung von der Versicherung ausschliesst.
+Soweit dieses Gesetz nicht anders bestimmt, haftet das Versicherungsunternehmen für alle Ereignisse, welche die Merkmale der Gefahr, gegen deren Folgen Versicherung genommen wurde, an sich tragen, es sei denn, dass der Vertrag einzelne Ereignisse in bestimmter, unzweideutiger Fassung von der Versicherung ausschliesst.
 
-### Verantwortlichkeit des Versicherers für seine Vermittler
+### Verantwortlichkeit des Versicherungsunternehmens für seine Vermittler
 
 #### Art. 34
 
 [^34-1]
 
-Gegenüber dem Versicherungsnehmer hat der Versicherer für das Verhalten seines Vermittlers wie für sein eigenes einzustehen.
+Gegenüber dem Versicherungsnehmer hat das Versicherungsunternehmen für das Verhalten seines Vermittlers wie für sein eigenes einzustehen.
 
 [^34-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
@@ -381,61 +503,158 @@ Gegenüber dem Versicherungsnehmer hat der Versicherer für das Verhalten seines
 
 Werden im Laufe der Versicherung die allgemeinen Versicherungsbedingungen derselben Versicherungsart abgeändert, so kann der Versicherungsnehmer verlangen, dass der Vertrag zu den neuen Bedingungen fortgesetzt werde. Er muss jedoch, wenn für die Versicherung zu den neuen Bedingungen eine höhere Gegenleistung erforderlich ist, das entsprechende Entgelt gewähren.
 
+### 6. Abschnitt: Beendigung des Vertrags****
+
+[^chap1-sec6-1]
+
+[^chap1-sec6-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Ordentliche Kündigung
+
+#### Art. 35a
+
+[^35a-1]
+
+<sup>1</sup> Der Vertrag kann, auch wenn er für eine längere Dauer vereinbart wurde, auf das Ende des dritten oder jedes darauf folgenden Jahres unter Einhaltung einer Frist von drei Monaten schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, gekündigt werden.
+
+<sup>2</sup> Die Parteien können vereinbaren, dass der Vertrag schon vor Ablauf des dritten Jahres kündbar ist. Die Kündigungsfristen müssen für beide Parteien gleich sein.
+
+<sup>3</sup> Die Lebensversicherung ist vom ordentlichen Kündigungsrecht ausgenommen.
+
+<sup>4</sup> In der Zusatzversicherung zur sozialen Krankenversicherung (Art. 2 Abs. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^35a-2]) stehen das ordentliche Kündigungsrecht und das Kündigungsrecht im Schadenfall (Art. 42 Abs. 1 des vorliegenden Gesetzes) nur dem Versicherungsnehmer zu. In der kollektiven Taggeldversicherung stehen diese Rechte beiden Parteien zu.
+
+[^35a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^35a-2]: SR **832****.****12**
+
+### Ausserordentliche Kündigung
+
+#### Art. 35b
+
+[^35b-1]
+
+<sup>1</sup> Aus wichtigem Grund kann der Vertrag jederzeit schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, gekündigt werden.
+
+<sup>2</sup>
+
+Als wichtiger Grund gilt namentlich:
+
+- a. eine nicht voraussehbare Änderung der rechtlichen Vorgaben, welche die Erfüllung des Vertrags verunmöglicht;
+- b. jeder Umstand, bei dessen Vorhandensein der kündigenden Person nach Treu und Glauben die Fortsetzung des Vertrags nicht mehr zumutbar ist.
+
+[^35b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Hängige Versicherungsfälle
+
+#### Art. 35c
+
+[^35c-1]
+
+<sup>1</sup> Vertragsbestimmungen, welche ein Versicherungsunternehmen berechtigen, bei Beendigung des Vertrags nach Eintritt des befürchteten Ereignisses bestehende periodische Leistungsverpflichtungen als Folge von Krankheit oder Unfall bezüglich Dauer oder Umfang einseitig zu beschränken oder aufzuheben, sind nichtig.
+
+<sup>2</sup> Vorbehalten bleibt die Weiterversicherung der Leistungsverpflichtungen gemäss Absatz 1 bezüglich Dauer oder Umfang durch ein anderes Versicherungsunternehmen bei einem Versicherungswechsel.
+
+[^35c-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
 ### Entzug der Bewilligung zum Geschäftsbetrieb; privatrechtliche Folgen
 
-[^lvlI-lvlu24-1]
+[^chap1-sec6-lvlu4-1]
 
-[^lvlI-lvlu24-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^chap1-sec6-lvlu4-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
 #### Art. 36
 
-<sup>1</sup> Der Versicherungsnehmer ist berechtigt, vom Vertrag zurückzutreten, wenn dem Versicherer die Bewilligung zum Geschäftsbetrieb nach Artikel 61 des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004[^36-1] (VAG) entzogen worden ist.[^36-2]
+<sup>1</sup> Der Versicherungsnehmer ist berechtigt, den Vertrag jederzeit zu kündigen, wenn das am Vertrag beteiligte Versicherungsunternehmen nicht über die nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^36-1] (VAG) notwendige Bewilligung zur Versicherungstätigkeit verfügt oder ihm diese entzogen worden ist.[^36-2]
 
-<sup>2</sup> Tritt der Versicherungsnehmer vom Vertrage zurück, so kann er die bezahlte Prämie für die noch nicht abgelaufene Versicherungszeit zurückfordern.
+<sup>2</sup> ...[^36-3]
 
 <sup>3</sup> Tritt der Versicherungsnehmer von einem Lebensversicherungsvertrage zurück, so kann er das Deckungskapital zurückfordern.
 
 <sup>4</sup> Dem Versicherungsnehmer bleibt überdies der Anspruch auf Schadenersatz gewahrt.
 
 [^36-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^36-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^36-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^36-3]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-### Konkurs des Versicherers
+### Konkurs des Versicherungsunternehmens
 
 #### Art. 37
 
-<sup>1</sup> Wird über den Versicherer der Konkurs eröffnet, so erlischt der Vertrag mit dem Ablaufe von vier Wochen, von dem Tage an gerechnet, da die Konkurseröffnung bekannt gemacht worden ist.[^37-1]
+<sup>1</sup> Wird über das Versicherungsunternehmen der Konkurs eröffnet, so erlischt der Vertrag mit dem Ablaufe von vier Wochen, von dem Tage an gerechnet, da die Konkurseröffnung bekannt gemacht worden ist. Artikel 55 VAG[^37-1] bleibt vorbehalten.[^37-2]
 
-<sup>2</sup> Der Versicherungsnehmer kann die in Artikel 36 Absätze 2 und 3 dieses Gesetzes festgestellte Forderung geltend machen.
+<sup>2</sup> Der Versicherungsnehmer kann die Forderung nach Artikel 36 Absatz 3 geltend machen.[^37-3]
 
-<sup>3</sup> Steht ihm aus der laufenden Versicherungsperiode ein Ersatzanspruch gegen den Versicherer zu, so kann er nach seiner Wahl entweder diesen Ersatzanspruch oder jene Forderung geltend machen.
+<sup>3</sup> Steht ihm aus der laufenden Versicherungsperiode ein Ersatzanspruch gegen das Versicherungsunternehmen zu, so kann er nach seiner Wahl entweder diesen Ersatzanspruch oder jene Forderung geltend machen.
 
 <sup>4</sup> Überdies bleiben ihm Schadenersatzansprüche vorbehalten.
 
-[^37-1]: Durch die Konkurseröffnung werden die zum Sicherungsfonds bzw. zum schweizerischen Versicherungsbestand gehörenden Versicherungen nicht aufgelöst (Art. 55 VAG; [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^37-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^37-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^37-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### 7. Abschnitt: Eintritt des befürchteten Ereignisses****
+
+[^chap1-sec7-1]
+
+[^chap1-sec7-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Anzeigepflicht nach Eintritt des befürchteten Ereignisses
 
 #### Art. 38
 
-<sup>1</sup> Ist das befürchtete Ereignis eingetreten, so muss der Anspruchsberechtigte, sobald er von diesem Ereignisse und seinem Anspruche aus der Versicherung Kenntnis erlangt, den Versicherer benachrichtigen. Der Vertrag kann verfügen, dass die Anzeige schriftlich erstattet werden muss.
+<sup>1</sup> Ist das befürchtete Ereignis eingetreten, so muss der Anspruchsberechtigte, sobald er von diesem Ereignisse und seinem Anspruche aus der Versicherung Kenntnis erlangt, das Versicherungsunternehmen benachrichtigen. Der Vertrag kann verfügen, dass die Anzeige schriftlich erstattet werden muss.
 
-<sup>2</sup> Hat der Anspruchsberechtigte die Anzeigepflicht schuldhafterweise verletzt, so ist der Versicherer befugt, die Entschädigung um den Betrag zu kürzen, um den sie sich bei rechtzeitiger Anzeige gemindert haben würde.
+<sup>2</sup> Hat der Anspruchsberechtigte die Anzeigepflicht schuldhafterweise verletzt, so ist das Versicherungsunternehmen befugt, die Entschädigung um den Betrag zu kürzen, um den sie sich bei rechtzeitiger Anzeige gemindert haben würde.
 
-<sup>3</sup> Der Versicherer ist an den Vertrag nicht gebunden, wenn der Anspruchsberechtigte die unverzügliche Anzeige in der Absicht unterlassen hat, den Versicherer an der rechtzeitigen Feststellung der Umstände, unter denen das befürchtete Ereignis eingetreten ist, zu hindern.
+<sup>3</sup> Das Versicherungsunternehmen ist an den Vertrag nicht gebunden, wenn der Anspruchsberechtigte die unverzügliche Anzeige in der Absicht unterlassen hat, das Versicherungsunternehmen an der rechtzeitigen Feststellung der Umstände, unter denen das befürchtete Ereignis eingetreten ist, zu hindern.
+
+### Rettungspflicht
+
+#### Art. 38a
+
+[^38a-1]
+
+<sup>1</sup> Der Anspruchsberechtigte ist verpflichtet, nach Eintritt des befürchteten Ereignisses tunlichst für Minderung des Schadens zu sorgen. Er muss, wenn nicht Gefahr im Verzug liegt, über die zu ergreifenden Massnahmen die Weisung des Versicherungsunternehmens einholen und befolgen.
+
+<sup>2</sup> Hat der Anspruchsberechtigte diese Pflichten in nicht zu entschuldigender Weise verletzt, so ist das Versicherungsunternehmen berechtigt, die Entschädigung um den Betrag zu kürzen, um den sie sich bei Erfüllung jener Obliegenheiten vermindert hätte.
+
+[^38a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Veränderungsverbot
+
+#### Art. 38b
+
+[^38b-1]
+
+<sup>1</sup> Bevor der Schaden ermittelt ist, darf der Anspruchsberechtigte ohne Zustimmung des Versicherungsunternehmens an den beschädigten Gegenständen keine Veränderung vornehmen, welche die Feststellung der Schadensursache oder des Schadens erschweren oder vereiteln könnte, es sei denn die Veränderung erscheint zum Zweck der Schadensminderung oder im öffentlichen Interesse als geboten.
+
+<sup>2</sup> Handelt der Anspruchsberechtigte dieser Pflicht in betrügerischer Absicht zuwider, so ist das Versicherungsunternehmen an den Vertrag nicht gebunden.
+
+[^38b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Schadenminderungskosten
+
+#### Art. 38c
+
+[^38c-1]
+
+<sup>1</sup> Das Versicherungsunternehmen ist gehalten, dem Anspruchsberechtigten die zum Zwecke der Schadensminderung (Art. 38*a* Abs. 1) nicht offenbar unzweckmässig aufgewendeten Kosten auch dann zu vergüten, wenn die getroffenen Massnahmen ohne Erfolg geblieben sind, oder wenn diese Kosten und der Schadenersatz zusammen den Betrag der Versicherungssumme übersteigen.
+
+<sup>2</sup> Erreicht die Versicherungssumme den Ersatzwert nicht, so trägt das Versicherungsunternehmen die Kosten in dem Verhältnisse, in dem die Versicherungssumme zum Ersatzwerte steht.
+
+[^38c-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Begründung des Versicherungsanspruches
 
 #### Art. 39
 
-<sup>1</sup> Der Anspruchsberechtigte muss auf Begehren des Versicherers jede Auskunft über solche ihm bekannte Tatsachen erteilen, die zur Ermittlung der Umstände, unter denen das befürchtete Ereignis eingetreten ist, oder zur Feststellung der Folgen des Ereignisses dienlich sind.
+<sup>1</sup> Der Anspruchsberechtigte muss auf Begehren des Versicherungsunternehmens jede Auskunft über solche ihm bekannte Tatsachen erteilen, die zur Ermittlung der Umstände, unter denen das befürchtete Ereignis eingetreten ist, oder zur Feststellung der Folgen des Ereignisses dienlich sind.
 
 <sup>2</sup>
 
 Der Vertrag kann verfügen:
 
 - 1\. dass der Anspruchsberechtigte bestimmte Belege, deren Beschaffung ihm ohne erhebliche Kosten möglich ist, insbesondere auch ärztliche Bescheinigungen, beizubringen hat;
-- 2\. dass die in Absatz 1 und Absatz 2 Ziffer 1 dieses Artikels vorgesehenen Mitteilungen, bei Verlust des Versicherungsanspruches, binnen bestimmter, angemessener Frist gemacht werden müssen. Die Frist läuft von dem Tage an, an dem der Versicherer den Anspruchsberechtigten, unter Androhung der Säumnisfolgen, schriftlich aufgefordert hat, diese Mitteilungen zu machen.
+- 2\. dass die in Absatz 1 und Absatz 2 Ziffer 1 dieses Artikels vorgesehenen Mitteilungen, bei Verlust des Versicherungsanspruches, binnen bestimmter, angemessener Frist gemacht werden müssen. Die Frist läuft von dem Tage an, an dem das Versicherungsunternehmen den Anspruchsberechtigten, unter Androhung der Säumnisfolgen, schriftlich aufgefordert hat, diese Mitteilungen zu machen.
 
 ### Früherfassung
 
@@ -477,78 +696,145 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen im Rahmen der 
 
 #### Art. 40
 
-Hat der Anspruchsberechtigte oder sein Vertreter Tatsachen, welche die Leistungspflicht des Versicherers ausschliessen oder mindern würden, zum Zwecke der Täuschung unrichtig mitgeteilt oder verschwiegen oder hat er die ihm nach Massgabe des Artikels 39 dieses Gesetzes obliegenden Mitteilungen zum Zwecke der Täuschung zu spät oder gar nicht gemacht, so ist der Versicherer gegenüber dem Anspruchsberechtigten an den Vertrag nicht gebunden.
+Hat der Anspruchsberechtigte oder sein Vertreter Tatsachen, welche die Leistungspflicht des Versicherungsunternehmens ausschliessen oder mindern würden, zum Zwecke der Täuschung unrichtig mitgeteilt oder verschwiegen oder hat er die ihm nach Massgabe des Artikels 39 dieses Gesetzes obliegenden Mitteilungen zum Zwecke der Täuschung zu spät oder gar nicht gemacht, so ist das Versicherungsunternehmen gegenüber dem Anspruchsberechtigten an den Vertrag nicht gebunden.
 
 ### Fälligkeit des Versicherungsanspruches
 
 #### Art. 41
 
-<sup>1</sup> Die Forderung aus dem Versicherungsvertrage wird mit dem Ablaufe von vier Wochen, von dem Zeitpunkte an gerechnet, fällig, in dem der Versicherer Angaben erhalten hat, aus denen er sich von der Richtigkeit des Anspruches überzeugen kann.
+<sup>1</sup> Die Forderung aus dem Versicherungsvertrage wird mit dem Ablaufe von vier Wochen, von dem Zeitpunkte an gerechnet, fällig, in dem das Versicherungsunternehmen Angaben erhalten hat, aus denen es sich von der Richtigkeit des Anspruches überzeugen kann.
 
-<sup>2</sup> Die Vertragsabrede, dass der Versicherungsanspruch erst nach Anerkennung durch den Versicherer oder nach rechtskräftiger Verurteilung des Versicherers fällig werde, ist ungültig.
+<sup>2</sup> Die Vertragsabrede, dass der Versicherungsanspruch erst nach Anerkennung durch das Versicherungsunternehmen oder nach rechtskräftiger Verurteilung des Versicherungsunternehmens fällig werde, ist ungültig.
+
+### Abschlagszahlungen
+
+#### Art. 41a
+
+[^41a-1]
+
+<sup>1</sup> Bestreitet das Versicherungsunternehmen seine Leistungspflicht, so kann die anspruchsberechtigte Person nach Ablauf der in Artikel 41 Absatz 1 genannten Frist Abschlagszahlungen bis zur Höhe des unbestrittenen Betrags verlangen.
+
+<sup>2</sup> Gleiches gilt, wenn nicht geklärt ist, wie die Versicherungsleistung auf mehrere Anspruchsberechtigte aufgeteilt werden soll.
+
+[^41a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Teilschaden
 
 #### Art. 42
 
-<sup>1</sup> Ist nur ein Teilschaden eingetreten und wird dafür Ersatz beansprucht, so ist der Versicherer wie der Versicherungsnehmer berechtigt, spätestens bei der Auszahlung der Entschädigung vom Vertrage zurückzutreten.
+<sup>1</sup> Ist nur ein Teilschaden eingetreten und wird dafür Ersatz beansprucht, so ist das Versicherungsunternehmen wie der Versicherungsnehmer berechtigt, spätestens bei der Auszahlung der Entschädigung vom Vertrage zurückzutreten.
 
-<sup>2</sup> Wird der Vertrag gekündigt, so erlischt die Haftung des Versicherers 14 Tage, nachdem der anderen Partei die Kündigung mitgeteilt wurde.[^42-1]
+<sup>2</sup> Wird der Vertrag gekündigt, so erlischt die Haftung des Versicherungsunternehmens 14 Tage, nachdem der anderen Partei die Kündigung mitgeteilt wurde.[^42-1]
 
-<sup>3</sup> Dem Versicherer bleibt der Anspruch auf die Prämie für die laufende Versicherungsperiode gewahrt, falls der Versicherungsnehmer den Vertrag während des auf den Vertragsabschluss folgenden Jahres kündigt.[^42-2]
+<sup>3</sup> Dem Versicherungsunternehmen bleibt der Anspruch auf die Prämie für die laufende Versicherungsperiode gewahrt, falls der Versicherungsnehmer den Vertrag während des auf den Vertragsabschluss folgenden Jahres kündigt.[^42-2]
 
-<sup>4</sup> Tritt weder der Versicherer noch der Versicherungsnehmer vom Vertrage zurück, so haftet der Versicherer für die Folgezeit, wenn nichts anderes vereinbart ist, mit dem Restbetrage der Versicherungssumme.
+<sup>4</sup> Tritt weder das Versicherungsunternehmen noch der Versicherungsnehmer vom Vertrage zurück, so haftet das Versicherungsunternehmen für die Folgezeit, wenn nichts anderes vereinbart ist, mit dem Restbetrage der Versicherungssumme.
 
 [^42-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 [^42-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### Mitteilungen des Versicherers
+### 8. Abschnitt: Weitere Bestimmungen****
+
+[^chap1-sec8-1]
+
+[^chap1-sec8-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Mitteilungen des Versicherungsunternehmens
 
 #### Art. 43
 
-Die Mitteilungen, die der Versicherer nach Massgabe dieses Gesetzes dem Versicherungsnehmer oder dem Anspruchsberechtigten zu machen hat, erfolgen gültig an die dem Versicherer bekannte letzte Adresse.
+Die Mitteilungen, die das Versicherungsunternehmen nach Massgabe dieses Gesetzes dem Versicherungsnehmer oder dem Anspruchsberechtigten zu machen hat, erfolgen gültig an die dem Versicherungsunternehmen bekannte letzte Adresse.
 
 ### Mitteilungen des Versicherungsnehmers oder Anspruchsberechtigten; Meldestellen
 
 #### Art. 44
 
-<sup>1</sup> Der Versicherer ist verpflichtet, für alle Mitteilungen, die ihm nach Massgabe des Vertrages oder dieses Gesetzes gemacht werden müssen, mindestens eine inländische Meldestelle zu bezeichnen und dem Versicherungsnehmer, sowie dem Anspruchsberechtigten, der seine Rechte beim Versicherer schriftlich angemeldet hat, zur Kenntnis zu bringen.
+<sup>1</sup> Das Versicherungsunternehmen ist verpflichtet, für alle Mitteilungen, die ihm nach Massgabe des Vertrags oder dieses Gesetzes gemacht werden müssen, mindestens eine inländische Meldestelle zu bezeichnen und dem Versicherungsnehmer sowie dem Anspruchsberechtigten, der seine Rechte beim Versicherungsunternehmen schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, angemeldet hat, zur Kenntnis zu bringen.[^44-1]
 
-<sup>2</sup> Kommt der Versicherer diesen Verpflichtungen nicht nach, so treten die Folgen nicht ein, die nach Massgabe des Vertrages oder dieses Gesetzes für den Fall vorgesehen sind, dass eine Mitteilung gar nicht oder verspätet erstattet wird.
+<sup>2</sup> Kommt das Versicherungsunternehmen diesen Verpflichtungen nicht nach, so treten die Folgen nicht ein, die nach Massgabe des Vertrages oder dieses Gesetzes für den Fall vorgesehen sind, dass eine Mitteilung gar nicht oder verspätet erstattet wird.
 
-<sup>3</sup> Der Versicherungsnehmer oder der Anspruchsberechtigte kann die ihm obliegenden Mitteilungen, nach seiner Wahl, entweder der bezeichneten Meldestelle oder dem Versicherer direkt oder jedem Agenten des Versicherers erstatten. Durch Vereinbarung der Parteien kann die Befugnis des Agenten, für den Versicherer Mitteilungen entgegenzunehmen, ausgeschlossen werden.
+<sup>3</sup> Der Versicherungsnehmer oder der Anspruchsberechtigte kann die ihm obliegenden Mitteilungen, nach seiner Wahl, entweder der bezeichneten Meldestelle oder dem Versicherungsunternehmen direkt oder jedem Agenten des Versicherungsunternehmens erstatten. Durch Vereinbarung der Parteien kann die Befugnis des Agenten, für das Versicherungsunternehmen Mitteilungen entgegenzunehmen, ausgeschlossen werden.
 
-### Unverschuldete Vertragsverletzung
+[^44-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Vertragsverletzung
+
+[^chap1-sec8-lvlu3-1]
+
+[^chap1-sec8-lvlu3-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 45
 
-<sup>1</sup> Ist vereinbart worden, dass der Versicherungsnehmer oder der Anspruchsberechtigte wegen Verletzung einer Obliegenheit von einem Rechtsnachteil betroffen wird, so tritt dieser Nachteil nicht ein, wenn die Verletzung den Umständen nach als eine unverschuldete anzusehen ist.
+<sup>1</sup>
+
+Ist vereinbart worden, dass der Versicherungsnehmer oder der Anspruchsberechtigte wegen Verletzung einer Obliegenheit von einem Rechtsnachteil betroffen wird, so tritt dieser Nachteil nicht ein, wenn:
+
+- a. die Verletzung den Umständen nach als eine unverschuldete anzusehen ist; oder
+- b. der Versicherungsnehmer nachweist, dass die Verletzung keinen Einfluss auf den Eintritt des befürchteten Ereignisses und auf den Umfang der vom Versicherungsunternehmen geschuldeten Leistungen gehabt hat.[^45-1]
 
 <sup>2</sup> Die wegen Zahlungsunfähigkeit des Prämienschuldners versäumte Prämienzahlung gilt nicht als unverschuldet.
 
 <sup>3</sup> Wo der Vertrag oder dieses Gesetz den Bestand eines Rechtes aus der Versicherung an die Beobachtung einer Frist knüpft, ist der Versicherungsnehmer oder der Anspruchsberechtigte befugt, die ohne Verschulden versäumte Handlung sofort nach Beseitigung des Hindernisses nachzuholen.
 
+[^45-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
 ### Verjährung und Befristung
 
 #### Art. 46
 
-<sup>1</sup> Die Forderungen aus dem Versicherungsvertrage verjähren in zwei Jahren nach Eintritt der Tatsache, welche die Leistungspflicht begründet. Artikel 41 des Bundesgesetzes vom 25. Juni 1982[^46-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge bleibt vorbehalten.[^46-2]
+<sup>1</sup> Die Forderungen aus dem Versicherungsvertrag verjähren unter Vorbehalt von Absatz 3 fünf Jahre nach Eintritt der Tatsache, welche die Leistungspflicht begründet.[^46-1] Artikel 41 des Bundesgesetzes vom 25. Juni 1982[^46-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge bleibt vorbehalten.[^46-3]
 
-<sup>2</sup> Vertragsabreden, die den Anspruch gegen den Versicherer einer kürzern Verjährung oder einer zeitlich kürzern Beschränkung unterwerfen, sind ungültig. Vorbehalten bleibt die Bestimmung des Artikels 39 Absatz 2 Ziffer 2 dieses Gesetzes.
+<sup>2</sup> Vertragsabreden, die den Anspruch gegen das Versicherungsunternehmen einer kürzern Verjährung oder einer zeitlich kürzern Beschränkung unterwerfen, sind ungültig. Vorbehalten bleibt die Bestimmung des Artikels 39 Absatz 2 Ziffer 2 dieses Gesetzes.
 
-[^46-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^46-2]: Fassung gemäss Ziff. 3 des Anhangs zum BG vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 1985 ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797)[827](https://fedlex.data.admin.ch/eli/oc/1983/827_827_827)Art. 1 Abs. 1; [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)).
+<sup>3</sup> Die Forderungen aus dem Vertrag der kollektiven Krankentaggeld-Versicherung verjähren in zwei Jahren nach Eintritt der Tatsache, welche die Leistungspflicht begründet.[^46-4]
 
-### Erfüllungsort
+[^46-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^46-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^46-3]: Fassung gemäss Ziff. 3 des Anhangs zum BG vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, in Kraft seit 1. Jan. 1985 ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797)[827](https://fedlex.data.admin.ch/eli/oc/1983/827_827_827)Art. 1 Abs. 1; [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)).
+[^46-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Konkurs des Versicherungsnehmers
 
 #### Art. 46a
 
 [^46a-1]
 
-Die Versicherer müssen ihre Verpflichtungen aus Versicherungsverträgen am schweizerischen Wohnsitz des Versicherten oder Versicherungsnehmers erfüllen. Der Gerichtsstand richtet sich nach dem Gerichtsstandsgesetz vom 24. März 2000[^46a-2].
+<sup>1</sup> Wird über den Versicherungsnehmer der Konkurs eröffnet, so bleibt der Vertrag bestehen und die Konkursverwaltung ist zu dessen Erfüllung verpflichtet. Artikel 81 und die Vorschriften dieses Gesetzes über die Beendigung des Vertrags bleiben vorbehalten.
 
-[^46a-1]: Eingefügt durch Ziff. 3 des Anhangs zum Versicherungsaufsichtsgesetz vom 23. Juni 1978 ([AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [BBl 1976 II 873](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^46a-2]: [[AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374), [2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320)Anhang Ziff. 3, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 14, [2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822)Anhang Ziff. II 2. [AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262)Anhang 1 Ziff. 1]. Siehe heute: die Zivilprozessordnung ([SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)).
+<sup>2</sup> Ansprüche und Leistungen aus der Versicherung von unpfändbaren Vermögenswerten nach Artikel 92 des Bundesgesetzes vom 11. April 1889[^46a-2] über Schuldbetreibung und Konkurs fallen nicht in die Konkursmasse.
+
+[^46a-1]: Eingefügt durch Ziff. 3 des Anhangs zum Versicherungsaufsichtsgesetz vom 23. Juni 1978 ([AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [BBl 1976 II 873](https://fedlex.data.admin.ch/eli/fga/1976/2_873_851_859)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^46a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+### Mehrfachversicherung
+
+#### Art. 46b
+
+[^46b-1]
+
+<sup>1</sup> Wird dasselbe Interesse gegen dieselbe Gefahr und für dieselbe Zeit bei mehr als einem Versicherungsunternehmen dergestalt versichert, dass die Versicherungssummen zusammen den Versicherungswert übersteigen (Mehrfachversicherung), so ist der Versicherungsnehmer verpflichtet, dies allen Versicherungsunternehmen ohne Verzug schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zur Kenntnis zu bringen.
+
+<sup>2</sup> Hat der Versicherungsnehmer beim Abschluss des später abgeschlossenen Vertrags keine Kenntnis vom Entstehen einer Mehrfachversicherung, so kann er diesen Vertrag innert vier Wochen seit der Entdeckung der Mehrfachversicherung schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, kündigen.
+
+<sup>3</sup> Hat der Versicherungsnehmer diese Anzeige absichtlich unterlassen oder die Mehrfachversicherung in der Absicht abgeschlossen, sich daraus einen rechtswidrigen Vermögensvorteil zu verschaffen, so sind die Versicherungsunternehmen gegenüber dem Versicherungsnehmer an den Vertrag nicht gebunden.
+
+<sup>4</sup> Jedes Versicherungsunternehmen hat auf die ganze vereinbarte Gegenleistung Anspruch.
+
+[^46b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Ersatzpflicht bei Mehrfachversicherung
+
+#### Art. 46c
+
+[^46c-1]
+
+<sup>1</sup> Bei Mehrfachversicherung haftet jedes Versicherungsunternehmen für den Schaden in dem Verhältnis, in dem seine Versicherungssumme zum Gesamtbetrag der Versicherungssummen steht.
+
+<sup>2</sup> Ist eines der Versicherungsunternehmen zahlungsunfähig geworden, so haften, unter Vorbehalt der Bestimmung des Artikels 38*c* Absatz 2 dieses Gesetzes, die übrigen Versicherungsunternehmen in dem Verhältnis, in dem die von ihnen versicherten Summen zueinander stehen, bis auf die Höhe ihrer Versicherungssumme für den Anteil des zahlungsunfähigen Versicherungsunternehmens. Die Forderung, die dem Anspruchsberechtigten gegen dieses Versicherungsunternehmen zusteht, geht auf die Versicherungsunternehmen, die Ersatz geleistet haben, über.
+
+<sup>3</sup> Ist das befürchtete Ereignis eingetreten, so darf der Anspruchsberechtigte keine Versicherung zuungunsten der übrigen Versicherungsunternehmen aufheben oder abändern.
+
+[^46c-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Stillschweigende Vertragserneuerung
 
@@ -556,13 +842,17 @@ Die Versicherer müssen ihre Verpflichtungen aus Versicherungsverträgen am schw
 
 Die Abrede, dass der Versicherungsvertrag mangels Kündigung als erneuert gelten soll, ist insoweit nichtig, als die Erneuerung für mehr als je ein Jahr ausbedungen wird.
 
-### Versichertennummer der Alters- und Hinterlassenenversicherung (AHV)
+### AHV-Nummer
+
+[^chap1-sec8-lvlu9-1]
+
+[^chap1-sec8-lvlu9-1]: Ausdruck gemäss Anhang Ziff. 4 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 47a
 
 [^47a-1]
 
-Dem VAG[^47a-2] unterstehende private Versicherungsunternehmen sind nur berechtigt, die Versichertennummer der AHV nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^47a-3] über die Alters- und Hinterlassenenversicherung für die Durchführung der privaten Zusatzversicherungen im Rahmen der Krankenversicherung oder der Unfallversicherung systematisch zu verwenden, wenn sie:
+Dem VAG[^47a-2] unterstehende private Versicherungsunternehmen sind nur berechtigt, die AHV-Nummer nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^47a-3] über die Alters- und Hinterlassenenversicherung für die Durchführung der privaten Zusatzversicherungen im Rahmen der Krankenversicherung oder der Unfallversicherung systematisch zu verwenden, wenn sie:
 
 - a. die in Artikel 12 Absatz 2 des Bundesgesetzes vom 18. März 1994[^47a-4] über die Krankenversicherung (KVG) vorgesehenen Zusatzversicherungen zur sozialen Krankenversicherung anbieten;
 - b. nach Artikel 68 Absatz 2 des Bundesgesetzes vom 20. März 1981[^47a-5] über die Unfallversicherung (UVG) im Register der UVG-Versicherer eingetragen sind und die Zusatzversicherungen zum UVG anbieten.
@@ -573,51 +863,57 @@ Dem VAG[^47a-2] unterstehende private Versicherungsunternehmen sind nur berechti
 [^47a-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328). Dieser Art. ist heute aufgehoben. Siehe seit dem 1. Jan. 2016: Art. 2 Abs. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014 ([SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
 [^47a-5]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
-## II. Besondere Bestimmungen über die Schadensversicherung
+## 2. Kapitel: Besondere Bestimmungen****
 
-### Gegenstand der Versicherung
+[^chap2-1]
 
-#### Art. 48
+[^chap2-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-Gegenstand der Schadensversicherung kann jedes wirtschaftliche Interesse sein, das jemand am Ausbleiben eines befürchteten Ereignisses hat.
+### 1. Abschnitt: Sachversicherung****
 
-### Versicherungswert
+[^chap2-sec1-1]
 
-#### Art. 49
+[^chap2-sec1-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>1</sup> Der Wert, den das versicherte Interesse zur Zeit des Vertragsabschlusses hat, ist der Versicherungswert.
+#### Art. 48 und 49
 
-<sup>2</sup> Besteht das versicherte Interesse darin, dass eine Sache nicht beschädigt oder vernichtet wird, so gilt im Zweifel dasjenige Interesse als versichert, das ein Eigentümer der Sache an deren Erhaltung hat.
+[^4849-1]
+
+[^4849-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Verminderung des Versicherungswertes
 
 #### Art. 50
 
-<sup>1</sup> Hat sich im Laufe der Versicherung der Versicherungswert wesentlich vermindert, so kann sowohl der Versicherer wie der Versicherungsnehmer die verhältnismässige Herabsetzung der Versicherungssumme verlangen.
+<sup>1</sup> Hat sich im Laufe der Versicherung der Versicherungswert wesentlich vermindert, so kann sowohl das Versicherungsunternehmen wie der Versicherungsnehmer die verhältnismässige Herabsetzung der Versicherungssumme verlangen.
 
-<sup>2</sup> Die Prämie ist für die künftigen Versicherungsperioden entsprechend zu ermässigen.
+<sup>2</sup> ...[^50-1]
+
+[^50-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Überversicherung
 
 #### Art. 51
 
-Übersteigt die Versicherungssumme den Versicherungswert (Überversicherung), so ist der Versicherer gegenüber dem Versicherungsnehmer an den Vertrag nicht gebunden, wenn der Versicherungsnehmer den Vertrag in der Absicht abgeschlossen hat, sich aus der Überversicherung einen rechtswidrigen Vermögensvorteil zu verschaffen. Der Versicherer hat auf die ganze vereinbarte Gegenleistung Anspruch.
+Übersteigt die Versicherungssumme den Versicherungswert (Überversicherung), so ist das Versicherungsunternehmen gegenüber dem Versicherungsnehmer an den Vertrag nicht gebunden, wenn der Versicherungsnehmer den Vertrag in der Absicht abgeschlossen hat, sich aus der Überversicherung einen rechtswidrigen Vermögensvorteil zu verschaffen. Das Versicherungsunternehmen hat auf die ganze vereinbarte Gegenleistung Anspruch.
 
-### Kontrollmassnahmen
+### Versicherungssumme; Ersatzpflicht bei Unterversicherung
 
-#### Art. 52
+#### Art. 51a
 
-Ist eine Überversicherung gegen Feuersgefahr abgeschlossen worden, so ist die nach kantonalem Rechte zuständige Behörde befugt, die Versicherungssumme auf Grund einer amtlichen Schätzung auf den Betrag des Versicherungswertes herabzusetzen, wenn die Überversicherung nicht als gerechtfertigt erscheint.
+[^51a-1]
 
-### Doppelversicherung
+<sup>1</sup> Soweit der Vertrag oder dieses Gesetz (Art. 38*c*) nichts anderes bestimmt, haftet das Versicherungsunternehmen für den Schaden nur bis auf die Höhe der Versicherungssumme.
 
-#### Art. 53
+<sup>2</sup> Erreicht die Versicherungssumme den Ersatzwert nicht (Unterversicherung), so ist der Schaden, wenn nichts anderes vereinbart ist, in dem Verhältnisse zu ersetzen, in dem die Versicherungssumme zum Ersatzwerte steht.
 
-<sup>1</sup> Wird dasselbe Interesse gegen dieselbe Gefahr und für dieselbe Zeit bei mehr als einem Versicherer dergestalt versichert, dass die Versicherungssummen zusammen den Versicherungswert übersteigen (Doppelversicherung), so ist der Versicherungsnehmer verpflichtet, hiervon allen Versicherern ohne Verzug schriftlich Kenntnis zu geben.
+[^51a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>2</sup> Hat der Versicherungsnehmer diese Anzeige absichtlich unterlassen oder die Doppelversicherung in der Absicht abgeschlossen, sich daraus einen rechtswidrigen Vermögensvorteil zu verschaffen, so sind die Versicherer gegenüber dem Versicherungsnehmer an den Vertrag nicht gebunden.
+#### Art. 52 und 53
 
-<sup>3</sup> Jeder Versicherer hat auf die ganze vereinbarte Gegenleistung Anspruch.
+[^5253-1]
+
+[^5253-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Handänderung
 
@@ -627,30 +923,27 @@ Ist eine Überversicherung gegen Feuersgefahr abgeschlossen worden, so ist die n
 
 <sup>1</sup> Wechselt der Gegenstand des Vertrages den Eigentümer, so gehen die Rechte und Pflichten aus dem Versicherungsvertrag auf den neuen Eigentümer über.
 
-<sup>2</sup> Der neue Eigentümer kann den Übergang des Vertrages durch eine schriftliche Erklärung bis spätestens 30 Tage nach der Handänderung ablehnen.
+<sup>2</sup> Der neue Eigentümer kann den Übergang des Vertrags durch eine Erklärung schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, bis spätestens 30 Tage nach der Handänderung ablehnen.[^54-2]
 
-<sup>3</sup> Das Versicherungsunternehmen kann den Vertrag innert 14 Tagen nach Kenntnis des neuen Eigentümers kündigen. Der Vertrag endet frühstens 30 Tage nach der Kündigung.
+<sup>3</sup> Das Versicherungsunternehmen kann den Vertrag innert 14 Tagen nach Kenntnis des neuen Eigentümers schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, kündigen.[^54-3] Der Vertrag endet frühstens 30 Tage nach der Kündigung.
 
 <sup>4</sup> Ist mit der Handänderung eine Gefahrserhöhung verbunden, so gelten die Artikel 28–32 sinngemäss.
 
 [^54-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Juli 2009 ([AS 2009 2799](https://fedlex.data.admin.ch/eli/oc/2009/365); [BBl 2008 7693](https://fedlex.data.admin.ch/eli/fga/2008/1300)[7703](https://fedlex.data.admin.ch/eli/fga/2008/1302)).
-
-### Konkurs des Versicherungsnehmers
+[^54-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^54-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 55
 
-<sup>1</sup> Fällt der Versicherungsnehmer in Konkurs, so endet der Vertrag mit der Konkurseröffnung.[^55-1]
+[^55-1]
 
-<sup>2</sup> Befinden sich unter den versicherten Sachen unpfändbare Vermögensstücke (Art. 92 des BG vom 11. April 1889[^55-2] über Schuldbetreibung und Konkurs), so verbleibt der für diese Vermögensstücke begründete Versicherungsanspruch dem Gemeinschuldner und seiner Familie.
-
-[^55-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^55-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^55-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Pfändung und Arrest
 
 #### Art. 56
 
-Ist eine versicherte Sache auf dem Wege der Schuldbetreibung gepfändet oder mit Arrest belegt worden, so kann der Versicherer, wenn er hiervon rechtzeitig benachrichtigt wird, die Ersatzleistung gültig nur an das Betreibungsamt ausrichten.
+Ist eine versicherte Sache auf dem Wege der Schuldbetreibung gepfändet oder mit Arrest belegt worden, so kann das Versicherungsunternehmen, wenn es hiervon rechtzeitig benachrichtigt wird, die Ersatzleistung gültig nur an das Betreibungsamt ausrichten.
 
 ### Pfandrecht an der versicherten Sache
 
@@ -658,13 +951,31 @@ Ist eine versicherte Sache auf dem Wege der Schuldbetreibung gepfändet oder mit
 
 <sup>1</sup> Ist eine verpfändete Sache versichert, so erstreckt sich das Pfandrecht des Gläubigers sowohl auf den Versicherungsanspruch des Verpfänders als auch auf die aus der Entschädigung angeschafften Ersatzstücke.
 
-<sup>2</sup> Ist das Pfandrecht beim Versicherer angemeldet worden, so darf der Versicherer die Entschädigung nur mit Zustimmung des Pfandgläubigers oder gegen Sicherstellung desselben an den Versicherten ausrichten.
+<sup>2</sup> Ist das Pfandrecht beim Versicherungsunternehmen angemeldet worden, so darf das Versicherungsunternehmen die Entschädigung nur mit Zustimmung des Pfandgläubigers oder gegen Sicherstellung desselben an den Versicherten ausrichten.
 
-### Vorbehalt zugunsten des kantonalen Rechtes
+### Schadensermittlung
 
 #### Art. 58
 
-Die Vorschriften der kantonalen Gesetze, wonach das dingliche Recht, das an der versicherten Sache besteht, auf den Versicherungsanspruch und die Versicherungssumme ausgedehnt wird, sowie die Bestimmungen, durch die der Anspruch des Berechtigten gesichert wird, bleiben vorbehalten.
+[^58-1]
+
+<sup>1</sup> Das Versicherungsunternehmen sowohl als der Anspruchsberechtigte kann verlangen, dass der Schaden von den Parteien ohne Verzug festgestellt werde. Sind landwirtschaftliche Erzeugnisse nur teilweise vernichtet worden, insbesondere durch Hagelschlag, so ist auf Begehren der einen oder andern Partei die Abschätzung des Schadens bis zur Ernte aufzuschieben.
+
+<sup>2</sup> Weigert sich eine Partei, bei der Feststellung des Schadens mitzuwirken, oder können sich die Parteien über die Grösse des entstandenen Schadens nicht einigen, so ist, vorbehältlich besonderer Vereinbarungen, der Schaden durch gerichtlich bestellte Sachverständige zu ermitteln.
+
+<sup>3</sup> Das Versicherungsunternehmen geht dadurch, dass es bei der Feststellung des Schadens mitwirkt, der Einreden, die ihm gegen die Entschädigungsforderung des Anspruchsberechtigten zustehen, nicht verlustig.
+
+<sup>4</sup> Die Vereinbarung, dass der Anspruchsberechtigte bei den Verhandlungen zur Feststellung des Schadens sich nicht verbeiständen lassen darf, ist ungültig.
+
+<sup>5</sup> Die Kosten der Schadensermittlung tragen die Parteien zu gleichen Teilen.
+
+[^58-1]: Ursprünglich: Art. 67
+
+### 2. Abschnitt: Haftpflichtversicherung****
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Haftpflichtversicherung
 
@@ -672,7 +983,15 @@ Die Vorschriften der kantonalen Gesetze, wonach das dingliche Recht, das an der 
 
 #### Art. 59
 
-Hat sich der Versicherungsnehmer gegen die Folgen der mit einem gewerblichen Betriebe verbundenen gesetzlichen Haftpflicht versichert, so erstreckt sich die Versicherung auch auf die Haftpflicht der Vertreter des Versicherungsnehmers sowie auf die Haftpflicht der mit der Leitung oder Beaufsichtigung des Betriebes betrauten Personen.
+[^59-1]
+
+<sup>1</sup> Hat sich der Versicherungsnehmer gegen die Folgen der mit einem gewerblichen Betrieb verbundenen gesetzlichen Haftpflicht versichert, so erstreckt sich die Versicherung auch auf die Haftpflicht der Vertreter des Versicherungsnehmers sowie auf die Haftpflicht der mit der Leitung oder Beaufsichtigung des Betriebes betrauten Personen sowie aller weiteren Arbeitnehmenden des Betriebes.
+
+<sup>2</sup> Die Versicherung deckt sowohl die Ersatzansprüche der Geschädigten als auch die Rückgriffsansprüche Dritter.
+
+<sup>3</sup> Bei obligatorischen Haftpflichtversicherungen können geschädigten Personen gegenüber Einreden aus grobfahrlässiger oder vorsätzlicher Verursachung des versicherten Ereignisses, Verletzung von Obliegenheiten, unterbliebener Prämienzahlung oder einem vertraglich vereinbarten Selbstbehalt nicht entgegengehalten werden.
+
+[^59-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### b. Gesetzliches Pfandrecht des geschädigten Dritten
 
@@ -680,133 +999,36 @@ Hat sich der Versicherungsnehmer gegen die Folgen der mit einem gewerblichen Bet
 
 <sup>1</sup> An dem Ersatzanspruche, der dem Versicherungsnehmer aus der Versicherung gegen die Folgen gesetzlicher Haftpflicht zusteht, besitzt der geschädigte Dritte im Umfange seiner Schadenersatzforderung Pfandrecht. Der Versicherer ist berechtigt, die Ersatzleistung direkt an den geschädigten Dritten auszurichten.
 
-<sup>2</sup> Der Versicherer ist für jede Handlung, durch die er den Dritten in seinem Rechte verkürzt, verantwortlich.
+<sup>1bis</sup> Dem geschädigten Dritten oder dessen Rechtsnachfolger steht im Rahmen einer allfällig bestehenden Versicherungsdeckung und unter Vorbehalt der Einwendungen und Einreden, die ihm das Versicherungsunternehmen aufgrund des Gesetzes oder des Vertrags entgegenhalten kann, ein direktes Forderungsrecht gegenüber dem Versicherungsunternehmen zu.[^60-1]
 
-### Rettungspflicht
+<sup>2</sup> Das Versicherungsunternehmen ist für jede Handlung, durch die es den Dritten in seinem Rechte verkürzt, verantwortlich.
 
-#### Art. 61
+<sup>3</sup> Der geschädigte Dritte kann in Fällen, in denen eine obligatorische Haftpflichtversicherung besteht, vom haftpflichtigen Versicherten oder von der zuständigen Aufsichtsbehörde die Nennung des Versicherungsunternehmens verlangen. Dieses hat Auskunft zu geben über Art und Umfang des Versicherungsschutzes.[^60-2]
 
-<sup>1</sup> Der Anspruchsberechtigte ist verpflichtet, nach Eintritt des befürchteten Ereignisses tunlichst für Minderung des Schadens zu sorgen. Er muss, wenn nicht Gefahr im Verzuge liegt, über die zu ergreifenden Massregeln die Weisung des Versicherers einholen und befolgen.
+[^60-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^60-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-<sup>2</sup> Hat der Anspruchsberechtigte diese Pflichten in nicht zu entschuldigender Weise verletzt, so ist der Versicherer berechtigt, die Entschädigung um den Betrag zu kürzen, um den sie sich bei Erfüllung jener Obliegenheiten vermindert hätte.
+#### Art. 61–72
 
-### Ersatzwert
+[^6172-1]
 
-### a. Grundsatz
+[^6172-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-#### Art. 62
+### 3. Abschnitt: Lebensversicherung****
 
-Der Ersatzwert ist auf Grundlage des Wertes zu bemessen, den das versicherte Interesse zur Zeit des Eintrittes des befürchteten Ereignisses gehabt hat.
+[^chap2-sec3-1]
 
-### b. Feuerversicherung
-
-#### Art. 63
-
-<sup>1</sup>
-
-In der Feuerversicherung ist der Ersatzwert:
-
-- 1\. bei Waren und Naturerzeugnissen der Marktpreis;
-- 2\. bei Gebäuden der ortsübliche Bauwert, nach Abzug der seit der Erbauung eingetretenen baulichen Wertverminderung. Wird das Gebäude nicht wieder aufgebaut, so darf der Ersatzwert den Verkehrswert nicht übersteigen;
-- 3\. bei Mobiliar, Gebrauchsgegenständen, Arbeitsgerätschaften und Maschinen derjenige Betrag, den die Neuanschaffung erfordern würde. Haben indessen die versicherten Gegenstände durch Abnutzung oder aus andern Gründen eine Wertverminderung erlitten, so ist diese bei Ermittlung des Ersatzwertes in billige Berücksichtigung zu ziehen.
-
-<sup>2</sup> Als Feuerschaden ist auch derjenige Schaden anzusehen, der durch Löschen des Feuers oder durch notwendiges Ausräumen eintritt und in der Vernichtung, Beschädigung oder in dem Abhandenkommen der Sache besteht.
-
-### c. Andere Versicherungsarten
-
-#### Art. 64
-
-<sup>1</sup> Bei der Warentransportversicherung ist der Wert der Sache am Bestimmungsorte massgebend.
-
-<sup>2</sup> Bei der Viehversicherung ist der Wert zur Zeit der Erkrankung oder des Unfalls des Tieres massgebend.
-
-<sup>3</sup> Ist ein künftiger Gewinn versichert worden, so ist der Feststellung des Schadens der Gewinn zugrunde zu legen, der bei Gelingen des Unternehmens erzielt worden wäre.
-
-<sup>4</sup> Ist ein künftiger Ertrag versichert worden, so ist der Feststellung des Schadens der Ertrag zugrunde zu legen, der sich bei Ausbleiben des befürchteten Ereignisses ergeben hätte.
-
-<sup>5</sup> Von dem Ersatzwerte sind allfällige durch den Eintritt des befürchteten Ereignisses ersparte Unkosten in Abzug zu bringen.
-
-### d. Vereinbarung über den Ersatzwert
-
-#### Art. 65
-
-<sup>1</sup> Haben die Parteien den Versicherungswert durch besondere Vereinbarung festgestellt, so gilt der vereinbarte Wert auch als Ersatzwert, sofern der Versicherer nicht beweist, dass der Ersatzwert nach Massgabe der Vorschriften der Artikel 62–64 und 66 dieses Gesetzes geringer ist als der Versicherungswert.
-
-<sup>2</sup> Eine solche Vereinbarung ist ungültig, wenn ein künftiger Ertrag oder Gewinn gegen Feuersgefahr versichert wird.
-
-### Gattungssachen
-
-#### Art. 66
-
-Ist die versicherte Sache der Gattung nach bestimmt, so fallen alle zur Zeit des Eintrittes des befürchteten Ereignisses zur Gattung gehörenden Gegenstände unter die Versicherung.
-
-### Schadensermittlung
-
-#### Art. 67
-
-<sup>1</sup> Der Versicherer sowohl als der Anspruchsberechtigte kann verlangen, dass der Schaden von den Parteien ohne Verzug festgestellt werde. Sind landwirtschaftliche Erzeugnisse nur teilweise vernichtet worden, insbesondere durch Hagelschlag, so ist auf Begehren der einen oder andern Partei die Abschätzung des Schadens bis zur Ernte aufzuschieben.
-
-<sup>2</sup> Weigert sich eine Partei, bei der Feststellung des Schadens mitzuwirken, oder können sich die Parteien über die Grösse des entstandenen Schadens nicht einigen, so ist, vorbehältlich besonderer Vereinbarungen, der Schaden durch gerichtlich bestellte Sachverständige zu ermitteln.
-
-<sup>3</sup> Der Versicherer geht dadurch, dass er bei der Feststellung des Schadens mitwirkt, der Einreden, die ihm gegen die Entschädigungsforderung des Anspruchsberechtigten zustehen, nicht verlustig.
-
-<sup>4</sup> Die Vereinbarung, dass der Anspruchsberechtigte bei den Verhandlungen zur Feststellung des Schadens sich nicht verbeiständen lassen darf, ist ungültig.
-
-<sup>5</sup> Die Kosten der Schadensermittlung tragen die Parteien zu gleichen Teilen.
-
-### Veränderungsverbot
-
-#### Art. 68
-
-<sup>1</sup> Bevor der Schaden ermittelt ist, darf der Anspruchsberechtigte ohne Zustimmung des Versicherers an den beschädigten Gegenständen keine Veränderung vornehmen, welche die Feststellung der Schadensursache oder des Schadens erschweren oder vereiteln könnte, es sei denn, dass die Veränderung zum Zwecke der Schadensminderung oder im öffentlichen Interesse als geboten erscheint.
-
-<sup>2</sup> Handelt der Anspruchsberechtigte dieser Pflicht in betrügerischer Absicht zuwider, so ist der Versicherer an den Vertrag nicht gebunden.
-
-### Versicherungssumme; Ersatzpflicht bei Unterversicherung
-
-#### Art. 69
-
-<sup>1</sup> Soweit der Vertrag oder dieses Gesetz (Art. 70) nicht anders bestimmt, haftet der Versicherer für den Schaden nur bis auf die Höhe der Versicherungssumme.
-
-<sup>2</sup> Erreicht die Versicherungssumme den Ersatzwert nicht (Unterversicherung), so ist der Schaden, wenn nichts anderes vereinbart ist, in dem Verhältnisse zu ersetzen, in dem die Versicherungssumme zum Ersatzwerte steht.
-
-### Rettungskosten
-
-#### Art. 70
-
-<sup>1</sup> Der Versicherer ist gehalten, dem Anspruchsberechtigten die zum Zwecke der Schadensminderung (Art. 61) nicht offenbar unzweckmässig aufgewendeten Kosten auch dann zu vergüten, wenn die getroffenen Massnahmen ohne Erfolg geblieben sind, oder wenn diese Kosten und der Schadenersatz zusammen den Betrag der Versicherungssumme übersteigen.
-
-<sup>2</sup> Erreicht die Versicherungssumme den Ersatzwert nicht, so trägt der Versicherer die Kosten in dem Verhältnisse, in dem die Versicherungssumme zum Ersatzwerte steht.
-
-### Ersatzpflicht bei Doppelversicherung
-
-#### Art. 71
-
-<sup>1</sup> Bei Doppelversicherung (Art. 53) haftet jeder Versicherer für den Schaden in dem Verhältnisse, in dem seine Versicherungssumme zum Gesamtbetrage der Versicherungssummen steht.
-
-<sup>2</sup> Ist einer der Versicherer zahlungsunfähig geworden, so haften, unter Vorbehalt der Bestimmung des Artikels 70 Absatz 2 dieses Gesetzes, die übrigen Versicherer in dem Verhältnisse, in dem die von ihnen versicherten Summen zueinander stehen, bis auf die Höhe ihrer Versicherungssumme für den Anteil des zahlungsunfähigen Versicherers. Die Forderung, die dem Anspruchsberechtigten gegen diesen Versicherer zusteht, geht auf die Versicherer, die Ersatz geleistet haben, über.
-
-<sup>3</sup> Ist das befürchtete Ereignis eingetreten, so darf der Anspruchsberechtigte keine Versicherung zuungunsten der übrigen Versicherer aufheben oder abändern.
-
-### Regressrecht des Versicherers
-
-#### Art. 72
-
-<sup>1</sup> Auf den Versicherer geht insoweit, als er Entschädigung geleistet hat, der Ersatzanspruch über, der dem Anspruchsberechtigten gegenüber Dritten aus unerlaubter Handlung zusteht.
-
-<sup>2</sup> Der Anspruchsberechtigte ist für jede Handlung, durch die er dieses Recht des Versicherers verkürzt, verantwortlich.
-
-<sup>3</sup> Die Bestimmung des ersten Absatzes findet keine Anwendung, wenn der Schaden durch eine Person leichtfahrlässig herbeigeführt worden ist, die mit dem Anspruchsberechtigten in häuslicher Gemeinschaft lebt oder für deren Handlungen der Anspruchsberechtigte einstehen muss.
-
-## III. Besondere Bestimmungen über die Personenversicherung
+[^chap2-sec3-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Rechtliche Natur der Police; Abtretung und Verpfändung
 
 #### Art. 73
 
-<sup>1</sup> Der Anspruch aus einem Personenversicherungsvertrage kann weder durch Indossierung noch durch einfache Übergabe der Police abgetreten oder verpfändet werden. Abtretung und Verpfändung bedürfen zu ihrer Gültigkeit der schriftlichen Form und der Übergabe der Police sowie der schriftlichen Anzeige an den Versicherer.
+<sup>1</sup> Der Anspruch aus einem Summenversicherungsvertrag kann weder durch Indossierung noch durch einfache Übergabe der Police abgetreten oder verpfändet werden. Abtretung und Verpfändung bedürfen zu ihrer Gültigkeit der schriftlichen Form und der Übergabe der Police sowie der schriftlichen Anzeige an das Versicherungsunternehmen.[^73-1]
 
-<sup>2</sup> Bestimmt die Police, dass der Versicherer an den Inhaber leisten darf, so ist der gutgläubige Versicherer befugt, jeden Inhaber als anspruchsberechtigt zu betrachten.
+<sup>2</sup> Bestimmt die Police, dass das Versicherungsunternehmen an den Inhaber leisten darf, so ist das gutgläubige Versicherungsunternehmen befugt, jeden Inhaber als anspruchsberechtigt zu betrachten.
+
+[^73-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Versicherung auf fremdes Leben
 
@@ -818,19 +1040,11 @@ Ist die versicherte Sache der Gattung nach bestimmt, so fallen alle zur Zeit des
 
 <sup>3</sup> Der Vertrag kann verfügen, dass die Bestimmungen der Artikel 6 und 28 dieses Gesetzes auch dann zur Anwendung kommen, wenn derjenige, auf dessen Tod die Versicherung gestellt ist, die Anzeigepflicht verletzt oder die Gefahrserhöhung herbeigeführt hat.
 
-### Unrichtige Altersangabe
-
 #### Art. 75
 
-<sup>1</sup> Wegen unrichtiger Angabe des Alters kann der Versicherer nur dann vom Vertrage zurücktreten, wenn das wirkliche Alter beim Eintritte ausserhalb der von ihm festgestellten Aufnahmegrenzen liegt.
+[^75-1]
 
-<sup>2</sup>
-
-Liegt dagegen das Eintrittsalter innerhalb dieser Grenzen, so gelten folgende Bestimmungen:
-
-- 1\. Ist infolge unrichtiger Angabe des Alters eine niedrigere Prämie entrichtet worden, als auf Grund des richtigen Eintrittsalters hätte bezahlt werden müssen, so ist die Gegenleistung des Versicherers im Verhältnisse der vereinbarten Prämie zu der Tarifprämie des richtigen Eintrittsalters herabzusetzen. Hat der Versicherer bereits erfüllt, so ist er berechtigt, den Betrag, den er nach dieser Berechnungsweise zu viel bezahlt hat, samt Zins zurückzufordern.
-- 2\. Ist infolge unrichtiger Angabe des Alters eine höhere Prämie entrichtet worden, als auf Grund des richtigen Eintrittsalters hätte bezahlt werden müssen, so ist der Versicherer verpflichtet, die Differenz zwischen dem vorhandenen und dem für das richtige Eintrittsalter notwendigen Deckungskapital zurückzuerstatten. Künftige Prämien sind nach Massgabe des richtigen Eintrittsalters herabzusetzen.
-- 3\. Den in den Ziffern 1 und 2 dieses Artikels vorgesehenen Berechnungen sind die Tarife zugrunde zu legen, die zur Zeit des Vertragsabschlusses gegolten haben.
+[^75-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Versicherung zugunsten Dritter
 
@@ -838,7 +1052,7 @@ Liegt dagegen das Eintrittsalter innerhalb dieser Grenzen, so gelten folgende Be
 
 #### Art. 76
 
-<sup>1</sup> Der Versicherungsnehmer ist befugt, ohne Zustimmung des Versicherers einen Dritten als Begünstigten zu bezeichnen.[^76-1]
+<sup>1</sup> Der Versicherungsnehmer ist befugt, ohne Zustimmung des Versicherungsunternehmens einen Dritten als Begünstigten zu bezeichnen.[^76-1]
 
 <sup>2</sup> Die Begünstigung kann sich auf den gesamten Versicherungsanspruch oder nur auf einen Teil desselben beziehen.
 
@@ -880,15 +1094,15 @@ Sind der Ehegatte, die eingetragene Partnerin, der eingetragene Partner oder Nac
 
 ### f. Eintrittsrecht
 
-[^lvlIII-lvlu4-lvlf-1]
+[^chap2-sec3-lvlu3-lvlf-1]
 
-[^lvlIII-lvlu4-lvlf-1]: Fassung gemäss Anhang Ziff. 13 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^chap2-sec3-lvlu3-lvlf-1]: Fassung gemäss Anhang Ziff. 13 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 81
 
 <sup>1</sup> Sind der Ehegatte, die eingetragene Partnerin, der eingetragene Partner oder Nachkommen des Versicherungsnehmers Begünstigte aus einem Lebensversicherungsvertrag, so treten sie, sofern sie es nicht ausdrücklich ablehnen, im Zeitpunkt, in dem gegen den Versicherungsnehmer ein Verlustschein vorliegt oder über ihn der Konkurs eröffnet wird, an seiner Stelle in die Rechte und Pflichten aus dem Versicherungsvertrag ein.[^81-1]
 
-<sup>2</sup> Die Begünstigten sind verpflichtet, den Übergang der Versicherung durch Vorlage einer Bescheinigung des Betreibungsamtes oder der Konkursverwaltung dem Versicherer anzuzeigen. Sind mehrere Begünstigte vorhanden, so müssen sie einen Vertreter bezeichnen, der die dem Versicherer obliegenden Mitteilungen entgegenzunehmen hat.
+<sup>2</sup> Die Begünstigten sind verpflichtet, den Übergang der Versicherung durch Vorlage einer Bescheinigung des Betreibungsamtes oder der Konkursverwaltung dem Versicherungsunternehmen anzuzeigen. Sind mehrere Begünstigte vorhanden, so müssen sie einen Vertreter bezeichnen, der die dem Versicherungsunternehmen obliegenden Mitteilungen entgegenzunehmen hat.
 
 [^81-1]: Fassung gemäss Anhang Ziff. 13 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
@@ -955,65 +1169,49 @@ Sind erbberechtigte Nachkommen, ein Ehegatte, eine eingetragene Partnerin, ein e
 
 [^86-1]: Fassung gemäss Anhang Ziff. 13 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### Kollektivunfallversicherung; Forderungsrecht des Begünstigten
+#### Art. 87 und 88
 
-#### Art. 87
+[^8788-1]
 
-[^87-1]
+[^8788-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
-Aus der kollektiven Unfall- oder Krankenversicherung steht demjenigen, zu dessen Gunsten die Versicherung abgeschlossen worden ist, mit dem Eintritt des Unfalls oder der Krankheit ein selbständiges Forderungsrecht gegen den Versicherer zu.
-
-[^87-1]: Fassung gemäss Ziff. II Art. 3 des BG vom 25. Juni 1971 über die Revision des Zehnten Titels und des Zehnten Titels<sup>bis</sup> des Obligationenrechts (Der Arbeitsvertrag), in Kraft seit 1. Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
-
-### Unfallversicherung; Invaliditätsentschädigung
-
-#### Art. 88
-
-<sup>1</sup> Wird infolge eines Unfalles die Erwerbsfähigkeit des Versicherten voraussichtlich bleibend beeinträchtigt, so ist die Entschädigung, sobald die voraussichtlich dauernden Unfallfolgen feststehen, auf Grundlage der für den Fall der Invalidität versicherten Summe in Form der Kapitalabfindung auszurichten. Diese Bestimmung findet keine Anwendung, wenn der Versicherungsnehmer die Entschädigung ausdrücklich in Form der Rentenabfindung beantragt hat.
-
-<sup>2</sup> Der Vertrag kann bestimmen, dass Zwischenrenten gewährt und von der Entschädigung in Abzug gebracht werden.
-
-### Rücktrittsrecht des Versicherungsnehmers
+### Lebensversicherung; Vorzeitige Beendigung
 
 #### Art. 89
 
-<sup>1</sup> Hat der Versicherungsnehmer die Prämie für ein Jahr entrichtet, so kann er vom Lebensversicherungsvertrage zurücktreten und die Bezahlung weiterer Prämien ablehnen.
+[^89-1]
 
-<sup>2</sup> Die Rücktrittserklärung ist dem Versicherer vor Beginn einer neuen Versicherungsperiode schriftlich abzugeben.
+Der Versicherungsnehmer kann den Vertrag unabhängig von der vereinbarten Dauer nach Ablauf eines Jahres schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, kündigen.
 
-### Rücktrittsrecht des Versicherungsnehmers im Rahmen des grenzüberschreitenden Dienstleistungsverkehrs
+[^89-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 89a
 
 [^89a-1]
 
-Auf Einzel-Lebensversicherungsverträge, die im Rahmen des grenzüberschreitenden Dienstleistungsverkehrs mit Versicherern abgeschlossen werden, deren Sitz sich in einem Staat befindet, mit dem die Schweiz auf der Grundlage der Gegenseitigkeit ein völkerrechtliches Abkommen abgeschlossen hat, das die Anerkennung aufsichtsrechtlicher Anforderungen und Massnahmen vorsieht und sicherstellt, dass im betreffenden Staat gleichwertige Regelungen wie in der Schweiz zur Anwendung kommen (Vertragsstaat), sind folgende Bestimmungen anwendbar, solange dieses Abkommen in Kraft ist:[^89a-2]
-
-- a. Schliesst der Versicherungsnehmer einen Lebensversicherungsvertrag ab, dessen Laufzeit sechs Monate übersteigt, so kann er von diesem Vertrag innerhalb von 14 Tagen seit Kenntnis des Vertragsabschlusses zurücktreten. Die Rücktrittserklärung ist dem Versicherer schriftlich abzugeben. Die Rücktrittsfrist ist eingehalten, wenn die Rücktrittserklärung am vierzehnten Tag der Post übergeben wird.
-- b. Als Zeitpunkt, da der Versicherungsnehmer vom Vertragsabschluss Kenntnis hat, gilt der Tag des Eintreffens der Annahmeerklärung des Versicherers beim Versicherungsnehmer oder der Tag der Annahmeerklärung des Versicherungsnehmers.
-- c. Die Mitteilung des Versicherungsnehmers, dass er vom Vertrag zurücktritt, befreit ihn für die Zukunft von allen aus diesem Vertrag entstehenden Verpflichtungen. Hat der Versicherungsnehmer bereits Prämien oder Einmaleinlagen einbezahlt, so sind ihm diese vom Versicherer zurückzuerstatten.
-- d. Der Versicherer muss in dem von ihm ausgegebenen Antragschein sowie in den allgemeinen Versicherungsbedingungen den Antragsteller über Rücktrittsrecht, Frist und Form des Rücktrittsrechts sowie über die Adresse seiner Niederlassung, mit welcher der Vertrag abgeschlossen wird, unterrichten. Wird kein Antragschein ausgegeben, so sind diese Angaben in die Police sowie in die allgemeinen Versicherungsbedingungen aufzunehmen. Wird diese Vorschrift nicht eingehalten, so kann der Kunde jederzeit vom Vertrag zurücktreten.
-
-[^89a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1994 ([AS 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-[^89a-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^89a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Umwandlung und Rückkauf
 
-### a. Im allgemeinen
+### a. Im Allgemeinen
 
 #### Art. 90
 
-<sup>1</sup> Der Versicherer ist verpflichtet, jede Lebensversicherung, für welche die Prämien wenigstens für drei Jahre entrichtet worden sind, auf Begehren des Anspruchsberechtigten ganz oder teilweise in eine beitragsfreie Versicherung umzuwandeln.
+[^90-1]
 
-<sup>2</sup> Der Versicherer muss überdies diejenige Lebensversicherung, bei welcher der Eintritt des versicherten Ereignisses gewiss ist, auf Verlangen des Anspruchsberechtigten ganz oder teilweise zurückkaufen, sofern die Prämien wenigstens für drei Jahre entrichtet worden sind.[^90-1]
+<sup>1</sup> Hat die Versicherung einen Umwandlungswert, so kann der Versicherungsnehmer verlangen, dass sie ganz oder teilweise in eine prämienfreie Versicherung umgewandelt wird. Der Vertrag kann dafür einen Mindestwert vorsehen.
 
-[^90-1]: Siehe jedoch Art. 1 der V vom 1. März 1966 über die Aufhebung von Beschränkungen der Vertragsfreiheit in Versicherungsverträgen ([SR 221.229.11](https://fedlex.data.admin.ch/eli/cc/1966/476_495_495)).
+<sup>2</sup> Unterschreitet der Umwandlungswert den vorgesehenen Mindestwert, so richtet das Versicherungsunternehmen dem Versicherungsnehmer den Rückkaufswert aus.
+
+<sup>3</sup> Ist bei einer Versicherung der Eintritt des befürchteten Ereignisses gewiss und hat die Versicherung bei ganzer oder teilweiser Beendigung des Vertrags einen Rückkaufswert, so kann der Versicherungsnehmer dessen Auszahlung verlangen.
+
+[^90-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### b. Feststellung der Abfindungswerte
 
 #### Art. 91
 
-<sup>1</sup> Der Versicherer hat die Grundlagen zur Ermittlung des Umwandlungswertes und des Rückkaufswertes der Versicherung festzustellen.
+<sup>1</sup> Das Versicherungsunternehmen hat die Grundlagen zur Ermittlung des Umwandlungswertes und des Rückkaufswertes der Versicherung festzustellen.
 
 <sup>2</sup> Die Bestimmungen über Umwandlung und Rückkauf sind in die allgemeinen Versicherungsbedingungen aufzunehmen.
 
@@ -1021,17 +1219,17 @@ Auf Einzel-Lebensversicherungsverträge, die im Rahmen des grenzüberschreitende
 
 [^91-1]: Fassung gemäss Anhang Ziff. 7 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-### c. Obliegenheiten des Versicherers; Nachprüfung durch die FINMA; Fäl-ligkeit der Rückkaufsforderung
+### c. Obliegenheiten des Versicherungsunternehmens; Nachprüfung durch die FINMA; Fälligkeit der Rückkaufsforderung
 
-[^lvlIII-lvlu10-lvlc-1]
+[^chap2-sec3-lvlu6-lvlc-1]
 
-[^lvlIII-lvlu10-lvlc-1]: Fassung gemäss Anhang Ziff. 7 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^chap2-sec3-lvlu6-lvlc-1]: Fassung gemäss Anhang Ziff. 7 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 92
 
-<sup>1</sup> Der Versicherer ist verpflichtet, auf Anfrage des Anspruchsberechtigten binnen vier Wochen den Umwandlungswert oder den Rückkaufswert der Versicherung zu berechnen und dem Anspruchsberechtigten mitzuteilen. Der Versicherer muss, wenn der Anspruchsberechtigte es verlangt, überdies diejenigen Angaben machen, die zur Ermittlung des Umwandlungswertes oder des Rückkaufswertes für Sachverständige erforderlich sind.
+<sup>1</sup> Das Versicherungsunternehmen ist verpflichtet, auf Anfrage des Anspruchsberechtigten binnen vier Wochen den Umwandlungswert oder den Rückkaufswert der Versicherung zu berechnen und dem Anspruchsberechtigten mitzuteilen. Das Versicherungsunternehmen muss, wenn der Anspruchsberechtigte es verlangt, überdies diejenigen Angaben machen, die zur Ermittlung des Umwandlungswertes oder des Rückkaufswertes für Sachverständige erforderlich sind.
 
-<sup>2</sup> Die FINMA hat auf Ersuchen des Anspruchsberechtigten die vom Versicherer festgestellten Werte unentgeltlich auf ihre Richtigkeit hin zu prüfen.[^92-1]
+<sup>2</sup> Die FINMA hat auf Ersuchen des Anspruchsberechtigten die vom Versicherungsunternehmen festgestellten Werte unentgeltlich auf ihre Richtigkeit hin zu prüfen.[^92-1]
 
 <sup>3</sup> Stellt der Anspruchsberechtigte das Rückkaufsbegehren, so wird die Rückkaufsforderung nach drei Monaten, vom Eintreffen des Begehrens an gerechnet, fällig.
 
@@ -1041,7 +1239,7 @@ Auf Einzel-Lebensversicherungsverträge, die im Rahmen des grenzüberschreitende
 
 #### Art. 93
 
-<sup>1</sup> Unterbleibt die Prämienzahlung, nachdem die Versicherung mindestens drei Jahre in Kraft bestanden hat, so wird der Umwandlungswert der Versicherung geschuldet. Der Versicherer hat den Umwandlungswert und, wenn die Versicherung rückkaufsfähig ist, auch den Rückkaufswert nach Massgabe dieses Gesetzes festzustellen und dem Anspruchsberechtigten auf dessen Begehren mitzuteilen.
+<sup>1</sup> Unterbleibt die Prämienzahlung, nachdem die Versicherung mindestens drei Jahre in Kraft bestanden hat, so wird der Umwandlungswert der Versicherung geschuldet. Das Versicherungsunternehmen hat den Umwandlungswert und, wenn die Versicherung rückkaufsfähig ist, auch den Rückkaufswert nach Massgabe dieses Gesetzes festzustellen und dem Anspruchsberechtigten auf dessen Begehren mitzuteilen.
 
 <sup>2</sup> Ist die Versicherung rückkaufsfähig, so kann der Anspruchsberechtigte binnen sechs Wochen, vom Empfange dieser Mitteilung an gerechnet, an Stelle der Umwandlung den Rückkaufswert der Versicherung verlangen.
 
@@ -1049,7 +1247,7 @@ Auf Einzel-Lebensversicherungsverträge, die im Rahmen des grenzüberschreitende
 
 #### Art. 94
 
-Die Vorschriften dieses Gesetzes über die Umwandlung und den Rückkauf der Lebensversicherung gelten auch für solche Leistungen, die der Versicherer aus angefallenen Anteilen am Geschäftsergebnis dem Anspruchsberechtigten in Form der Erhöhung der Versicherungsleistungen gewährt hat.
+Die Vorschriften dieses Gesetzes über die Umwandlung und den Rückkauf der Lebensversicherung gelten auch für solche Leistungen, die das Versicherungsunternehmen aus angefallenen Anteilen am Geschäftsergebnis dem Anspruchsberechtigten in Form der Erhöhung der Versicherungsleistungen gewährt hat.
 
 #### Art. 94a
 
@@ -1057,39 +1255,137 @@ Die Vorschriften dieses Gesetzes über die Umwandlung und den Rückkauf der Lebe
 
 [^94a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Aufgehoben durch Ziff. I des BG vom 17. Dez. 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### Pfandrecht des Versicherers; Liquidation
+### Pfandrecht des Versicherungsunternehmens; Liquidation
 
 #### Art. 95
 
-Hat der Anspruchsberechtigte den Anspruch aus dem Lebensversicherungsvertrage dem Versicherer verpfändet, so ist der Versicherer berechtigt, seine Forderung mit dem Rückkaufswert der Versicherung zu verrechnen, nachdem er unter Androhung der Säumnisfolgen den Schuldner ohne Erfolg schriftlich aufgefordert hat, binnen sechs Monaten, vom Empfange der Aufforderung an gerechnet, die Schuld zu bezahlen.
+[^95-1]
 
-### Ausschluss des Regressrechtes des Versicherers
+Hat der Anspruchsberechtigte den Anspruch aus dem Lebensversicherungsvertrag dem Versicherungsunternehmen verpfändet, so ist das Versicherungsunternehmen berechtigt, seine Forderung mit dem Rückkaufswert der Versicherung zu verrechnen, nachdem es unter Androhung der Säumnisfolgen den Schuldner ohne Erfolg schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, aufgefordert hat, binnen sechs Monaten, vom Empfang der Aufforderung an gerechnet, die Schuld zu bezahlen.
+
+[^95-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### 4. Abschnitt:**** Unfall- und Krankenversicherung
+
+[^chap2-sec4-1]
+
+[^chap2-sec4-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Kollektive Unfall- und Krankenversicherung; Forderungsrecht des Begünstigten
+
+#### Art. 95a
+
+Aus der kollektiven Unfall- oder Krankenversicherung steht demjenigen, zu dessen Gunsten die Versicherung abgeschlossen worden ist, mit dem Eintritt des Unfalls oder der Krankheit ein selbständiges Forderungsrecht gegen das Versicherungsunternehmen zu.
+
+### Unfallversicherung; Invaliditätsentschädigung
+
+#### Art. 95b
+
+<sup>1</sup> Wird infolge eines Unfalles die Erwerbsfähigkeit des Versicherten voraussichtlich bleibend beeinträchtigt, so ist die Entschädigung, sobald die voraussichtlich dauernden Unfallfolgen feststehen, auf Grundlage der für den Fall der Invalidität versicherten Summe in Form der Kapitalabfindung auszurichten. Diese Bestimmung findet keine Anwendung, wenn der Versicherungsnehmer die Entschädigung ausdrücklich in Form der Rentenabfindung beantragt hat.
+
+<sup>2</sup> Der Vertrag kann bestimmen, dass Zwischenrenten gewährt und von der Entschädigung in Abzug gebracht werden.
+
+### 5. Abschnitt: Koordination****
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Regressrecht des Versicherungsunternehmens
+
+#### Art. 95c
+
+[^95c-1]
+
+<sup>1</sup> Leistungen aus Schadenversicherungen sind nicht mit anderen schadenausgleichenden Leistungen kumulierbar.
+
+<sup>2</sup> Im Umfang und zum Zeitpunkt seiner Leistung tritt das Versicherungsunternehmen für die von ihm gedeckten gleichartigen Schadensposten in die Rechte des Versicherten ein.
+
+<sup>3</sup>
+
+Absatz 2 findet keine Anwendung, wenn der Schaden durch eine Person, die in einer engen Beziehung zum Versicherten steht, leichtfahrlässig herbeigeführt worden ist. In einer engen Beziehung stehen namentlich Personen, die:
+
+- a. in einer häuslichen Gemeinschaft leben;
+- b. in einem Arbeitsverhältnis mit dem Versicherten stehen;
+- c. ermächtigt sind, die versicherte Sache zu nutzen.
+
+[^95c-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Ausschluss des Regressrechtes des Versicherungsunternehmens
 
 #### Art. 96
 
-In der Personenversicherung gehen die Ansprüche, die dem Anspruchsberechtigten infolge Eintrittes des befürchteten Ereignisses gegenüber Dritten zustehen, nicht auf den Versicherer über.
+[^96-1]
 
-## IV. Zwingende Bestimmungen
+In der Summenversicherung gehen die Ansprüche, die dem Anspruchsberechtigten infolge Eintritts des befürchteten Ereignisses gegenüber Dritten zustehen, nicht auf das Versicherungsunternehmen über.
+
+[^96-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+## 3. Kapitel: Zwingende Bestimmungen****
+
+[^chap3-1]
+
+[^chap3-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Vorschriften, die nicht abgeändert werden dürfen
 
 #### Art. 97
 
-<sup>1</sup> Folgende Vorschriften dieses Gesetzes dürfen durch Vertragsabrede nicht geändert werden: Artikel 9, 10, 13, 24, 41 Absatz 2, 46*a*, 47, 51, 53, 62, 63, 65 Absatz 2, 67 Absatz 4, 71 Absatz 1, 73, sowie 74 Absatz 1.[^97-1]
+[^97-1]
 
-<sup>2</sup> Diese Bestimmung findet, soweit die Vorschriften der Artikel 47 und 71 Absatz 1 in Betracht kommen, auf die Transportversicherung keine Anwendung.
+Folgende Vorschriften dieses Gesetzes dürfen durch Vertragsabrede nicht geändert werden: die Artikel 10 Absatz 2, 13, 24, 35*b*, 35*c*, 41 Absatz 2, 46*a*, 46*b* Absätze 1 und 2, 46*c* Absatz 1, 47, 51, 58 Absatz 4, 60, 73, 74 Absatz 1 sowie 95*c* Absätze 1 und 2.
 
-[^97-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^97-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Vorschriften, die nicht zuungunsten des Versicherungsnehmers oder des Anspruchsberechtigten abgeändert werden dürfen
 
 #### Art. 98
 
-<sup>1</sup> Die folgenden Vorschriften dieses Gesetzes dürfen durch Vertragsabrede nicht zuungunsten des Versicherungsnehmers oder des Anspruchsberechtigten geändert werden: Artikel 1, 2, 3 Absätze 1–3, 3*a*, 6, 11, 12, 14 Absatz 4, 15, 19 Absatz 2, 20–22, 28, 29 Absatz 2, 30, 32, 34, 39 Absatz 2 Ziffer 2 Satz 2, 42 Absätze 1–3, 44–46, 54–57, 59, 60, 72 Absatz 3, 76 Absatz 1, 77 Absatz 1, 87, 88 Absatz 1, 89, 89*a*, 90–94, 95 und 96.[^98-1]
+[^98-1]
 
-<sup>2</sup> Diese Bestimmung findet auf die Transportversicherung keine Anwendung.
+Die folgenden Vorschriften dieses Gesetzes dürfen durch Vertragsabrede nicht zuungunsten des Versicherungsnehmers oder des Anspruchsberechtigten geändert werden: die Artikel 1−3*a*, 6, 9, 11, 14 Absatz 4, 15, 20, 21, 28, 28*a*, 29 Absatz 2, 30, 32, 34, 35*a*, 38*c* Absatz 2, 39 Absatz 2 Ziffer 2 zweiter Satz, 41*a*, 42 Absätze 1−3, 44−46, 54, 56, 57, 59, 76 Absatz 1, 77 Absatz 1, 89, 90−95*a*, 95*b* Absatz 1, 95*c* Absatz 3 und 96.
 
-[^98-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^98-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Ausnahmen
+
+#### Art. 98a
+
+[^98a-1]
+
+<sup>1</sup>
+
+Die Artikel 97 und 98 gelten nicht bei:
+
+- a. Kredit- oder Kautionsversicherungen, soweit es sich um Versicherungen von beruflichen oder gewerblichen Risiken handelt, und bei Transportversicherungen;
+- b. Versicherungen mit professionellen Versicherungsnehmern.
+
+<sup>2</sup>
+
+Als professionelle Versicherungsnehmer gelten:
+
+- a. Vorsorgeeinrichtungen und Einrichtungen, die der beruflichen Vorsorge dienen;
+- b. Finanzintermediäre nach dem Bankengesetz vom 8. November 1934[^98a-2] und dem Kollektivanlagengesetz vom 23. Juni 2006[^98a-3];
+- c. Versicherungsunternehmen nach dem VAG[^98a-4];
+- d. ausländische Versicherungsnehmer, die einer gleichwertigen prudenziellen Aufsicht unterstehen wie die Personen nach den Buchstaben a–c;
+- e. öffentlich-rechtliche Körperschaften, öffentlich-rechtliche Anstalten und öffentlich-rechtliche Stiftungen mit professionellem Risikomanagement;
+- f. Unternehmen mit professionellem Risikomanagement;
+- g.
+
+  Unternehmen, die zwei der drei folgenden Grössen überschreiten:
+
+  - 1\. Bilanzsumme: 20 Millionen Franken,
+  - 2\. Nettoumsatz: 40 Millionen Franken,
+  - 3\. Eigenkapital: 2 Millionen Franken.
+
+<sup>3</sup> Gehört der Versicherungsnehmer zu einer Unternehmensgruppe, für die eine konsolidierte Jahresrechnung (Konzernrechnung) erstellt wird, so werden die Grössen nach Absatz 2 Buchstabe g auf die Konzernrechnung angewandt.
+
+<sup>4</sup> Die Reiseversicherung gilt nicht als Transportversicherung im Sinne von Absatz 1.
+
+[^98a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+[^98a-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^98a-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^98a-4]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 
 ### Verordnungsrecht des Bundesrates
 
@@ -1097,7 +1393,11 @@ In der Personenversicherung gehen die Ansprüche, die dem Anspruchsberechtigten 
 
 Der Bundesrat kann durch Verordnung verfügen, dass die in Artikel 98 dieses Gesetzes festgestellten Beschränkungen der Vertragsfreiheit bei einzelnen Versicherungsarten soweit ausser Kraft treten, als die Eigenart oder die besondern Verhältnisse einer Versicherungsart es erfordern.
 
-## V. Schlussbestimmungen
+## 4. Kapitel: Schlussbestimmungen****
+
+[^chap4-1]
+
+[^chap4-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Verhältnis zum Obligationenrechte
 
@@ -1131,117 +1431,40 @@ Dieses Gesetz findet keine Anwendung:
 [^101-3]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^101-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### Sonderbestimmung für die Rechtsanwendung mit Vertragsstaaten
+#### Art. 101a–101c
 
-#### Art. 101a
+[^101a101c-1]
 
-[^101a-1]
-
-Die Artikel 101*b* und 101*c* gelten, solange ein völkerrechtliches Abkommen in Kraft ist, das die Anerkennung aufsichtsrechtlicher Anforderungen und Massnahmen vorsieht sowie sicherstellt, dass im betreffenden Staat gleichwertige Regelungen wie in der Schweiz zur Anwendung kommen.
-
-[^101a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1994 ([AS 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-
-### Rechtsanwendung im Bereich Direktversicherung mit Ausnahme der Lebensversicherung
-
-#### Art. 101b
-
-[^101b-1]
-
-<sup>1</sup>
-
-Auf Versicherungsverträge in den nach Artikel 6 VAG[^101b-2] vom Bundesrat bestimmten Zweigen der Direktversicherung mit Ausnahme der Lebensversicherung sind, wenn sie Risiken decken, die im Sinne von Absatz 5 in einem Vertragsstaat gelegen sind, die folgenden Vorschriften anwendbar:[^101b-3]
-
-- a. Hat der Versicherungsnehmer seinen gewöhnlichen Aufenthalt oder seine Hauptverwaltung im Vertragsstaat, in dem das Risiko gelegen ist, so ist das auf den Versicherungsvertrag anwendbare Recht das Recht dieses Vertragsstaats. Die Parteien können jedoch das Recht eines anderen Staates wählen, sofern dies nach dem Recht dieses Vertragsstaats zulässig ist.
-- b. Hat der Versicherungsnehmer seinen gewöhnlichen Aufenthalt oder seine Hauptverwaltung nicht in dem Vertragsstaat, in dem das Risiko gelegen ist, so können die Parteien des Versicherungsvertrags wählen, ob das Recht dieses Vertragsstaats oder das Recht jenes Staates, in dem der Versicherungsnehmer seinen gewöhnlichen Aufenthalt oder seine Hauptverwaltung hat, auf den Vertrag anwendbar sein soll.
-- c. Übt der Versicherungsnehmer eine Tätigkeit im industriellen oder gewerblichen Sektor oder eine freiberufliche Tätigkeit aus und deckt der Vertrag zwei oder mehrere in verschiedenen Vertragsstaaten gelegene Risiken in Verbindung mit diesen Tätigkeiten, so umfasst die freie Wahl des auf den Vertrag anwendbaren Rechts das Recht dieser Vertragsstaaten und des Staates, in dem der Versicherungsnehmer seinen gewöhnlichen Aufenthalt oder seine Hauptverwaltung hat.
-- d. Lassen die nach den Buchstaben b und c wählbaren Rechte eine weitergehende Rechtswahl zu, so können die Parteien davon Gebrauch machen.
-- e. Beschränken sich die durch den Vertrag gedeckten Risiken auf Schadenfälle, die in einem anderen Vertragsstaat eintreten können als demjenigen, in dem das Risiko gelegen ist, so können die Parteien das Recht des anderen Staates wählen.
-- f.[^101b-4] Bei der Versicherung von Grossrisiken gemäss Absatz 6 können die Parteien jedes beliebige Recht wählen.
-- g. Befinden sich die wesentlichen Sachverhaltselemente (Versicherungsnehmer, Ort des gelegenen Risikos) im selben Vertragsstaat, so darf die Wahl eines Rechts in den unter den Buchstaben a und f genannten Fällen durch die Parteien die zwingenden Bestimmungen dieses Vertragsstaats nicht berühren.
-- h. Die unter den Buchstaben a–g genannte Rechtswahl muss ausdrücklich erfolgt sein oder sich mit hinreichender Sicherheit aus den Vertragsklauseln oder aus den Umständen des Falls ergeben. Ist dies nicht der Fall oder ist keine Rechtswahl getroffen worden, so gilt für den Vertrag das Recht desjenigen nach den Buchstaben a–g in Betracht kommenden Staates, zu dem er in der engsten Beziehung steht. Jedoch kann auf einen selbständigen Teil des Vertrages, der zu einem anderen nach den Buchstaben a–g in Betracht kommenden Staat in engerer Beziehung steht, ausnahmsweise das Recht dieses anderen Staates anwendbar sein. Es wird vermutet, dass der Vertrag die engsten Beziehungen zu dem Vertragsstaat aufweist, in dem das Risiko gelegen ist.
-
-<sup>2</sup> Vorbehalten bleiben die Bestimmungen des schweizerischen Rechts, die im Sinne von Artikel 18 des Bundesgesetzes vom 18. Dezember 1987[^101b-5] über das Internationale Privatrecht (IPRG) ohne Rücksicht auf das auf den Vertrag anzuwendende Recht den Sachverhalt zwingend regeln.
-
-<sup>3</sup> Im Sinne von Artikel 19 IPRG bleiben ferner vorbehalten die zwingenden Vorschriften des Rechts des Vertragsstaats, in dem das Risiko gelegen ist, oder eines Vertragsstaats, der die Versicherungspflicht vorschreibt.
-
-<sup>4</sup> Deckt der Vertrag in mehr als einem Vertragsstaat gelegene Risiken, so wird für die Anwendung der Absätze 2 und 3 davon ausgegangen, dass er mehreren Verträgen entspricht, von denen sich jeder auf jeweils einen Vertragsstaat bezieht.
-
-<sup>5</sup>
-
-Ein Risiko gilt als in dem Staat gelegen, in dem:
-
-- a. sich die versicherten Gegenstände befinden, wenn Gebäude oder Gebäude einschliesslich darin befindliche Sachen versichert werden;
-- b. die versicherten Fahrzeuge, ungeachtet welcher Art, zugelassen sind;
-- c. der Versicherungsnehmer einen Vertrag von höchstens vier Monaten Dauer zur Versicherung von Reise- und Ferienrisiken abgeschlossen hat, ungeachtet des betreffenden Versicherungszweiges;
-- d. der Versicherungsnehmer seinen gewöhnlichen Aufenthalt oder, im Falle einer juristischen Person, eine Niederlassung hat, auf die sich der Vertrag bezieht.[^101b-6]
-
-<sup>6</sup>
-
-Ein Grossrisiko liegt vor, wenn:
-
-- a. die unter den Versicherungszweigen Schienenfahrzeug-Kasko, Luftfahrzeug-Kasko, See-, Binnensee- und Flussschifffahrts-Kasko, Transportgüter, Luftfahrzeughaftpflicht und See-, Binnensee- und Flussschifffahrtshaftpflicht eingestuften Risiken betroffen sind;
-- b. die unter den Zweigen Kredit und Kaution eingestuften Risiken betroffen sind, sofern der Versicherungsnehmer eine Erwerbstätigkeit im industriellen oder gewerblichen Sektor oder eine freiberufliche Tätigkeit ausübt und das Risiko damit im Zusammenhang steht;
-- c.
-
-  die unter den Zweigen Landfahrzeug-Kasko, Feuer- und Elementarschäden, Sonstige Sachschäden, Haftpflicht für Landfahrzeuge mit eigenem Antrieb, Allgemeine Haftpflicht und Verschiedene finanzielle Verluste eingestuften Risiken betroffen sind, sofern der Versicherungsnehmer bei mindestens zwei der drei folgenden Kriterien die Obergrenzen überschreitet:
-
-  - 1\. Bilanzsumme: 6,2 Millionen Euro;
-  - 2\. Nettoumsatz: 12,8 Millionen Euro;
-  - 3\. 250 Vollzeitstellen im Jahresdurchschnitt.[^101b-7]
-
-[^101b-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1994 ([AS 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-[^101b-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^101b-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^101b-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^101b-5]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^101b-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^101b-7]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-
-### Rechtsanwendung im Bereich Lebensversicherung
-
-#### Art. 101c
-
-[^101c-1]
-
-<sup>1</sup> Das Recht, das auf die Lebensversicherungsverträge in den nach Artikel 6 VAG[^101c-2] vom Bundesrat bestimmten Versicherungszweigen anwendbar ist, ist das Recht des Vertragsstaats, in dem der Versicherungsnehmer seinen gewöhnlichen Aufenthalt oder, im Falle einer juristischen Person, eine Niederlassung hat, auf die sich der Vertrag bezieht. Die Parteien können jedoch das Recht eines andern Staates wählen, sofern dies nach dem Recht dieses Vertragsstaats zulässig ist.[^101c-3]
-
-<sup>2</sup> Handelt es sich bei dem Versicherungsnehmer um eine natürliche Person und hat diese ihren gewöhnlichen Aufenthalt in einem anderen Vertragsstaat als dem, dessen Staatsangehörige sie ist, so können die Parteien das Recht des Vertragsstaats wählen, dessen Staatsangehörige sie ist.
-
-<sup>3</sup> …[^101c-4]
-
-<sup>4</sup> Vorbehalten bleiben die Bestimmungen des schweizerischen Rechts, die im Sinne von Artikel 18 IPRG[^101c-5] ohne Rücksicht auf das auf den Vertrag anzuwendende Recht den Sachverhalt zwingend regeln.
-
-<sup>5</sup> Im Sinne von Artikel 19 IPRG bleiben ferner vorbehalten die zwingenden Vorschriften des Rechts des Vertragsstaats der Verpflichtung.
-
-[^101c-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1994 ([AS 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-[^101c-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^101c-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^101c-4]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5245](https://fedlex.data.admin.ch/eli/oc/2005/726); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^101c-5]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-
-### Verhältnis des neuen Rechtes zum alten Rechte
+[^101a101c-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1993 3175](https://fedlex.data.admin.ch/eli/oc/1993/3175_3175_3175); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 #### Art. 102
 
-<sup>1</sup> Auf die zur Zeit des Inkrafttretens dieses Gesetzes bestehenden Versicherungsverträge kommen von diesem Zeitpunkte an zur Anwendung die Bestimmungen der Artikel 11 Absatz 2, 13, 20, 21, 22 Absätze 2–4, 29 Absatz 2, 34–37, 43–45, 54–57, 60, 65 Absatz 2, 66, 67 Absatz 4, 73 Absatz 2, 76, 77, 79, 80–87, 93 Absatz 1 Satz 1, 95 und 96.
+[^102-1]
 
-<sup>2</sup> Die Bestimmung des Artikels 44 Absatz 3, dass der Versicherungsnehmer oder der Anspruchsberechtigte die ihm obliegenden Mitteilungen auch jedem Agenten des Versicherers erstatten kann, findet indessen auf diese Verträge nur dann Anwendung, wenn der Versicherer es unterlässt, dem Versicherungsnehmer oder dem Anspruchsberechtigten eine inländische Meldestelle zur Kenntnis zu bringen.
-
-<sup>3</sup> Verträge, die vor Inkrafttreten dieses Gesetzes abgeschlossen worden sind, aber nach Inkrafttreten des Gesetzes durch vertragsmässige Kündigung beendigt werden können, sind von dem Zeitpunkte an, auf den sie hätten beendigt werden können, überdies den in den Artikeln 97 und 98 dieses Gesetzes aufgeführten Vorschriften unterworfen.
-
-<sup>4</sup> Im übrigen kommen die Artikel 882 und 883 des Bundesgesetzes vom 14. Juni 1881[^102-1] über das Obligationenrecht sinngemäss zur Anwendung.
-
-[^102-1]: [[AS 5 635](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490. BS **2** 3 SchlT Art. 60 Abs. 2]
+[^102-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Aufhebung bestehender Vorschriften
 
 #### Art. 103
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden, vorbehältlich der Vorschrift des Artikels 102 Absatz 4 dieses Gesetzes, die Bestimmung des Artikels 896 des Obligationenrechtes vom 14. Juni 1881[^103-1] sowie alle entgegenstehenden Vorschriften der kantonalen Gesetze und Verordnungen aufgehoben.
+<sup>1</sup> ...[^103-1]
 
 <sup>2</sup> Indessen werden durch dieses Gesetz die kantonalen Vorschriften über Versicherungsverhältnisse, die bei den von den Kantonen organisierten Versicherungsanstalten entstehen, nicht berührt.
 
-[^103-1]: [[AS 5 635](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490. BS **2** 3 SchlT Art. 60 Abs. 2]
+[^103-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
+
+### Übergangsbestimmung zur Änderung vom 19. Juni 2020
+
+#### Art. 103a
+
+[^103a-1]
+
+Für Verträge, die vor dem Inkrafttreten der Änderung vom 19. Juni 2020 abgeschlossen worden sind, gelten folgende Bestimmungen des neuen Rechts:
+
+- a. die Formvorschriften;
+- b. das Kündigungsrecht nach den Artikeln 35*a* und 35*b*.
+
+[^103a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 4969](https://fedlex.data.admin.ch/eli/oc/2020/884); [2021 357](https://fedlex.data.admin.ch/eli/oc/2021/357); [BBl 2017 5089](https://fedlex.data.admin.ch/eli/fga/2017/1303)).
 
 ### Inkrafttreten des Gesetzes
 
@@ -1252,4 +1475,4 @@ Der Bundesrat wird beauftragt, auf Grundlage der Bestimmungen des Bundesgesetzes
 Datum des Inkrafttretens: 1. Januar 1910[^104-2]
 
 [^104-1]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)Art. 11 Abs. 3. [AS 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 89 Bst. b]
-[^104-2]: BRB vom 17. Juli 1908 (AS **24** 756)
+[^104-2]: BRB vom 17. Juli 1908 (AS **24** 756).
