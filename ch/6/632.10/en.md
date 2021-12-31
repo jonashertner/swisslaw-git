@@ -4,11 +4,11 @@ title: Customs Tariff Act of 9 October 1986 (CTA)
 short: CTA
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1986-10-09
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CTA)
 
-of 9 October 1986 (Status as of 1 January 2021)
+of 9 October 1986 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -243,7 +243,9 @@ The Federal Council shall appoint a Committee of Customs Experts as an advisory 
 
 <sup>1</sup> The Federal Council is responsible for implementation. It shall enact the required transitional provisions.
 
-<sup>2</sup> The Customs Administration shall publish the Working Tariff.
+<sup>2</sup> The Federal Office for Customs and Border Security shall publish the Working Tariff.[^15-1]
+
+[^15-1]: Amended by No I 17 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 16
 
@@ -281,4 +283,4 @@ Annexes 1 and 2
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: In accordance with Art. 5 para. 1 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), the General Tariff is not published in the Official Compilation. The Ordinance with the text of these amendments may be inspected at the General Directorate for Customs, 3003 Bern. These amendments are included in the General Tariff, which is published on the internet under www.ezv.admin.ch. The amendments are also included in the Customs Tariff, published in accordance with Art. 15 para. 2 of this Act, which may be consulted on the Internet under www.tares.ch (see AS **1987** 1876 [2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311), [1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067), [1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)Art. 1 [1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 1 [2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)Art. 1, [1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)Art. 1, [1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)Art. 1, [1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)Annex 2004 Art. 1, [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)Art. 1 [1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)No I 9 [2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)Art. 1, [1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)Art. 1 [4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)Art. 1 and 2 5366 Art. 1, **1996** 3045 Annex No 1 3310 Art. 1 3371 Annex 2 No 3, **1997** 2236 2632 Art. 1 2633 Art. 1 2831 Art. 1, **1998** 1592 Art. 1, **1999** 314 Art. 1 1514 Art. 1 1709 Art. 1 1727 Art. 1, **2001** 2091 Art. 1 2409 Art. 1 para. 2, **2002** 3643, **2003** 529 Art. 1, **2005** 503 Art. 1 and 2 5447 Art. 1, **2006** 867 2995 Art. 1–3, **2007** 2271 Art. 1 2885 Art. 1 2887 Art. 1, **2010** 5057 No I para. 1, **2011** 3331 Art. 1 and 2 5249 No I para. 1 5923 Art. 1, **2016** 1401 No II 2445 Art. 1 2647 Art. 1, **2020** 3749 Art. 1).
+[^annexu1-lvlu1-1]: In accordance with Art. 5 para. 1 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), the General Tariff is not published in the Official Compilation. The Ordinance with the text of these amendments may be inspected at the General Directorate for Customs, 3003 Bern. These amendments are included in the General Tariff, which is published on the internet under www.ezv.admin.ch. The amendments are also included in the Customs Tariff, published in accordance with Art. 15 para. 2 of this Act, which may be consulted on the Internet under www.tares.ch (AS **1987** 1876, [2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311); [1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067); [1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)Art. 1, [1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 1 [2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)Art. 1; [1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)Art. 1; [1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)Art. 1; [1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)Annex, [2004](https://fedlex.data.admin.ch/eli/oc/1993/2004_2004_2004)Art. ;, **1994** 1430 Art. 1, 1634 No I 9, 2785 Art. 1; **1995** 1829 Art. 1, 4932 Art. 1 and 2, 5366 Art. 1; **1996** 3045 Annex No 1, 3310 Art. 1, 3371 Annex 2 No 3; **1997** 2236, 2632 Art. 1, 2633 Art. 1, 2831 Art. 1; **1998** 1592 Art. 1; **1999** 314 Art. 1, 1514 Art. 1, 1709 Art. 1, 1727 Art. 1; **2001** 2091 Art. 1, 2409 Art. 1 para. 2; **2002** 3643; **2003** 529 Art. 1; **2005** 503 Art. 1 and 2, 5447 Art. 1; **2006** 867, 2995 Art. 1–3; **2007** 2271 Art. 1, 2885 Art. 1, 2887 Art. 1; **2010** 5057 No I para. 1; **2011** 3331 Art. 1 and 2, 5249 No I para. 1, 5923 Art. 1; **2016** 1401 No II, 2445 Art. 1, 2647 Art. 1; **2020** 3749 Art. 1; **2021** 445 Art. 1 and 2).

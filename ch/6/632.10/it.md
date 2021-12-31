@@ -4,11 +4,11 @@ title: Legge del 9 ottobre 1986 sulla tariffa delle dogane (LTD)
 short: LTD
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1986-10-09
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20210101/it"
 
 (LTD)
 
-del 9 ottobre 1986 (Stato 1° gennaio 2021)
+del 9 ottobre 1986 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -146,7 +146,7 @@ Sull’importazione, l’esportazione e il transito delle merci attraverso la li
 Il Consiglio federale è abilitato a modificare temporaneamente la tariffa generale delle dogane quando una modifica della lista LIX-Svizzera-Liechtenstein<sup>©La\_lista\_d®</sup>[^9a-2] si applica provvisoriamente.
 
 [^9a-1]: Introdotto dal n. I della LF del 30 apr. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236); [FF 1997 II 1](https://fedlex.data.admin.ch/eli/fga/1997/2_1_1_1)).
-[^9a-2]: La lista LIX-Svizzera-Liechtenstein non é pubblicata né nella RU, né nella RS. Un estratto può essere studiato o richiesto presso l’Amministrazione federale delle dogane, Direzione generale delle dogane, Tariffa doganale, 3003 Berna (031/322 67 11).
+[^9a-2]: La lista LIX-Svizzera-Liechtenstein non é pubblicata né nella RU, né nella RS. Un estratto può essere studiato o richiesto presso l’Ufficio federale della dogana e della sicurezza dei confini, Direzione generale delle dogane, Tariffa doganale, 3003 Berna (031/322 67 11).
 
 ## Sezione 6:**** Applicazione di accordi internazionali nel settore agricolo
 
@@ -240,7 +240,9 @@ Il Consiglio federale istituisce una commissione peritale doganale quale organo 
 
 <sup>1</sup> Il Consiglio federale è incaricato dell’esecuzione. Esso emana le disposizioni transitorie.
 
-<sup>2</sup> L’Amministrazione delle dogane pubblica la tariffa d’uso.
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini pubblica la tariffa d’uso.[^15-1]
+
+[^15-1]: Nuovo testo giusta il n. I 17 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 16
 
@@ -278,4 +280,4 @@ Allegati 1 e 2
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Giusta l’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la tariffa generale non è pubblicata nella RU. L’O con il testo di queste mod. può essere consultata presso la Direzione generale delle dogane, 3003 Berna. Inoltre le modificazioni sono inserite nella tariffa generale pubblicata su Internet all’indirizzo www.ezv.admin.ch e nella tariffa doganale pubblicata in virtù dell’art. 15 cpv. 2 della L del 9 ott. 1986 sulla tariffa delle dogane, consultabile all’indirizzo www.tares.ch (RU **1987** 1876 [2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311), [1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067), [1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)art. 1 [1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)art. 1 [2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)art. 1, [1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)art. 1, [1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)art. 1, [1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)all. 2004 art. 1, [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)art. 1 [1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 9 [2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)art. 1, [1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)art. 1 [4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)art. 1 e [2](https://fedlex.data.admin.ch/eli/oc/1995/2_2_2)[5366](https://fedlex.data.admin.ch/eli/oc/1995/5366_5366_5366)art. 1, [1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)all. n. 1 [3310](https://fedlex.data.admin.ch/eli/oc/1996/3310_3310_3310)art. 1 [3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 3, [1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236)[2632](https://fedlex.data.admin.ch/eli/oc/1997/2632_2632_2632)art. 1 [2633](https://fedlex.data.admin.ch/eli/oc/1997/2633_2633_2633)art. 1 [2831](https://fedlex.data.admin.ch/eli/oc/1997/2831_2831_2831)art. 1, [1998 1592](https://fedlex.data.admin.ch/eli/oc/1998/1592_1592_1592)art. 1, [1999 314](https://fedlex.data.admin.ch/eli/oc/1999/36)art. 1 [1514](https://fedlex.data.admin.ch/eli/oc/1999/226)art. 1 [1709](https://fedlex.data.admin.ch/eli/oc/1999/264)art. 1 [1727](https://fedlex.data.admin.ch/eli/oc/1999/273)art. 1, [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)art. 1 [2409](https://fedlex.data.admin.ch/eli/oc/2001/347)art. 1 cpv. 2, [2002 3643](https://fedlex.data.admin.ch/eli/oc/2002/553), [2003 529](https://fedlex.data.admin.ch/eli/oc/2003/113)art. 1, [2005 503](https://fedlex.data.admin.ch/eli/oc/2005/62)art. 1 e 2 [5447](https://fedlex.data.admin.ch/eli/oc/2005/744)art. 1, [2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)art. 1 – 3 2995 art. 1 – 3, **2007** 2271 art. 1 2885 art. 1 2887 art. 1, **2010** 5057 n. I cpv. 1, **2011** 3331 art. 1 e 2 5249 n. I cpv. 1 5923 art. 1, **2016** 1401 n. II 2445 art. 1 2647 art. 1, **2020** 3749 art.1).
+[^annexu1-lvlu1-1]: Giusta l’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la tariffa generale non è pubblicata nella RU. L’O con il testo di queste mod. può essere consultata presso la Direzione generale delle dogane, 3003 Berna. Inoltre le modificazioni sono inserite nella tariffa generale pubblicata su Internet all’indirizzo www.ezv.admin.ch e nella tariffa doganale pubblicata in virtù dell’art. 15 cpv. 2 della L del 9 ott. 1986 sulla tariffa delle dogane, consultabile all’indirizzo www.tares.ch (RU **1987** 1876 [2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311), [1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067), [1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)art. 1 [1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)art. 1 [2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)art. 1, [1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)art. 1, [1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)art. 1, [1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)all. 2004 art. 1, [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)art. 1 [1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 9 [2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)art. 1, [1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)art. 1 [4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)art. 1 e [2](https://fedlex.data.admin.ch/eli/oc/1995/2_2_2)[5366](https://fedlex.data.admin.ch/eli/oc/1995/5366_5366_5366)art. 1, [1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)all. n. 1 [3310](https://fedlex.data.admin.ch/eli/oc/1996/3310_3310_3310)art. 1 [3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 3, [1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236)[2632](https://fedlex.data.admin.ch/eli/oc/1997/2632_2632_2632)art. 1 [2633](https://fedlex.data.admin.ch/eli/oc/1997/2633_2633_2633)art. 1 [2831](https://fedlex.data.admin.ch/eli/oc/1997/2831_2831_2831)art. 1, [1998 1592](https://fedlex.data.admin.ch/eli/oc/1998/1592_1592_1592)art. 1, [1999 314](https://fedlex.data.admin.ch/eli/oc/1999/36)art. 1 [1514](https://fedlex.data.admin.ch/eli/oc/1999/226)art. 1 [1709](https://fedlex.data.admin.ch/eli/oc/1999/264)art. 1 [1727](https://fedlex.data.admin.ch/eli/oc/1999/273)art. 1, [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)art. 1 [2409](https://fedlex.data.admin.ch/eli/oc/2001/347)art. 1 cpv. 2, [2002 3643](https://fedlex.data.admin.ch/eli/oc/2002/553), [2003 529](https://fedlex.data.admin.ch/eli/oc/2003/113)art. 1, [2005 503](https://fedlex.data.admin.ch/eli/oc/2005/62)art. 1 e 2 [5447](https://fedlex.data.admin.ch/eli/oc/2005/744)art. 1, [2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)art. 1 – 3 2995 art. 1 – 3, **2007** 2271 art. 1 2885 art. 1 2887 art. 1, **2010** 5057 n. I cpv. 1, **2011** 3331 art. 1 e 2 5249 n. I cpv. 1 5923 art. 1, **2016** 1401 n. II 2445 art. 1 2647 art. 1, **2020** 3749 art.1, **2021** 445 art. 1 e 2).

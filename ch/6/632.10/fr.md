@@ -4,11 +4,11 @@ title: Loi du 9 octobre 1986 sur le tarif des douanes (LTaD)
 short: LTaD
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1986-10-09
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20210101/fr"
 
 (LTaD)
 
-du 9 octobre 1986 (Etat le 1<sup>er</sup> janvier 2021)
+du 9 octobre 1986 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -245,7 +245,9 @@ Le Conseil fédéral institue une commission d’experts douaniers, comme organe
 
 <sup>1</sup> Le Conseil fédéral est chargé de l’exécution. Il édicte les dispositions transitoires nécessaires.
 
-<sup>2</sup> L’Administration des douanes publie le tarif d’usage.
+<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières publie le tarif d’usage.[^15-1]
+
+[^15-1]: Nouvelle teneur selon le ch. I 17 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 16
 
@@ -283,4 +285,4 @@ Annexes 1 et 2
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Conformément à l’art. 5, al. 1, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le tarif général n’est pas publié au RO. Il peut être consulté auprès de la Direction générale des douanes, 3003 Berne. En outre, les mod. sont reprises dans le tarif général qui est publié sur Internet à l’adresse www.ezv.admin.ch. Elles seront également insérées dans le tarif des douanes, édité en vertu de l’art. 15, al. 2, de la loi du 9 oct. 1986 sur le tarif des douanes (LTaD), qui peut être consulté sur Internet à l’adresse www.tares.ch. (RO **1987** 1876 [2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311), [1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067), [1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)art. 1 [1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)art. 1 [2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)art. 1, [1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)art. 1, [1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)art. 1, [1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)annexe 2004 art. 1, [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)art. 1 [1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 9 [2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)art. 1, [1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)art. 1 [4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)art. 1 et 2 5366 art. 1, **1996** 3045 annexe ch. 1 3310 art. 1 3371 annexe 2 ch. 3, **1997** 2236 2632 art. 1 2633 art. 1 2831 art. 1, **1998** 1592 art. 1, **1999** 314 art. 1 1514 art. 1 1709 art. 1 1727 art. 1, **2001** 2091 art. 1 2409 art. 1 al. 2, **2002** 3643, **2003** 529 art. 1, **2005** 503 art. 1 et 2 5447 art. 1, **2006** 867 2995 art. 1 à 3, **2007** 2271 art. 1 2885 art. 1 2887 art. 1, **2010** 5057 ch. I al. 1, **2011** 3331 art. 1 et 2, 5249 ch. I al. 1 et 5923 art. 1, **2016** 1401 ch. II 2445 art. 1 2647 art. 1, **2020** 3749 art. 1).
+[^annexu1-lvlu1-1]: Conformément à l’art. 5, al. 1, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le tarif général n’est pas publié au RO. Il peut être consulté auprès de la Direction générale des douanes, 3003 Berne. En outre, les mod. sont reprises dans le tarif général qui est publié sur Internet à l’adresse www.ezv.admin.ch. Elles seront également insérées dans le tarif des douanes, édité en vertu de l’art. 15, al. 2, de la loi du 9 oct. 1986 sur le tarif des douanes (LTaD), qui peut être consulté sur Internet à l’adresse www.tares.ch. (RO **1987** 1876 [2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311), [1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067), [1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)art. 1 [1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)art. 1 [2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)art. 1, [1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)art. 1, [1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)art. 1, [1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)annexe 2004 art. 1, [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)art. 1 [1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 9 [2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)art. 1, [1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)art. 1 [4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)art. 1 et 2 5366 art. 1, **1996** 3045 annexe ch. 1 3310 art. 1 3371 annexe 2 ch. 3, **1997** 2236 2632 art. 1 2633 art. 1 2831 art. 1, **1998** 1592 art. 1, **1999** 314 art. 1 1514 art. 1 1709 art. 1 1727 art. 1, **2001** 2091 art. 1 2409 art. 1 al. 2, **2002** 3643, **2003** 529 art. 1, **2005** 503 art. 1 et 2 5447 art. 1, **2006** 867 2995 art. 1 à 3, **2007** 2271 art. 1 2885 art. 1 2887 art. 1, **2010** 5057 ch. I al. 1, **2011** 3331 art. 1 et 2, 5249 ch. I al. 1 et 5923 art. 1, **2016** 1401 ch. II 2445 art. 1 2647 art. 1, **2020** 3749 art. 1, **2021** 445 art. 1 et 2).

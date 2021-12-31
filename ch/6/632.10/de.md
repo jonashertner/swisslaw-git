@@ -4,11 +4,11 @@ title: Zolltarifgesetz vom 9. Oktober 1986 (ZTG)
 short: ZTG
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1986-10-09
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1987-1871_1871_1871-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/1871_1871_1871/20210101/de"
 
 (ZTG)
 
-vom 9. Oktober 1986 (Stand am 1. Januar 2021)
+vom 9. Oktober 1986 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -117,7 +117,7 @@ Werden durch ausländische Massnahmen oder ausserordentliche Verhältnisse im Au
 
 [^8-1]
 
-Über die Ein-, Aus- und Durchfuhr von Waren über die schweizerische Zollgrenze wird eine Statistik (Aussenhandelsstatistik) geführt.
+Über die Ein‑, Aus- und Durchfuhr von Waren über die schweizerische Zollgrenze wird eine Statistik (Aussenhandelsstatistik) geführt.
 
 [^8-1]: Ursprünglich Art. 10.
 
@@ -161,7 +161,7 @@ Der Bundesrat ist ermächtigt, den Generaltarif vorläufig zu ändern, wenn eine
 
 <sup>1</sup> Um die Ziele der Landwirtschaftsgesetzgebung zu erreichen, kann der Bundesrat die Zollansätze für landwirtschaftliche Erzeugnisse im Rahmen des Generaltarifs festsetzen; er nimmt dabei Rücksicht auf die anderen Wirtschaftszweige.
 
-<sup>2</sup> Die Vollzugsbehörden erheben in den erforderlichen Zeitabständen die als Entscheidungsgrundlage für die Festsetzung der Zollansätze notwendigen Daten bezüglich Importmengen und -preise landwirtschaftlicher Erzeugnisse.
+<sup>2</sup> Die Vollzugsbehörden erheben in den erforderlichen Zeitabständen die als Entscheidungsgrundlage für die Festsetzung der Zollansätze notwendigen Daten bezüglich Importmengen und ‑preise landwirtschaftlicher Erzeugnisse.
 
 <sup>3</sup> Erfordern die Marktverhältnisse häufige Anpassungen, so kann der Bundesrat die Kompetenz nach Absatz 1 dem Departement für Wirtschaft, Bildung und Forschung (WBF) oder dem Bundesamt für Landwirtschaft übertragen. Er kann die Kompetenz dem Bundesamt für Landwirtschaft nur übertragen, wenn er diesem für die Festlegung der Zolltarifansätze nur geringen Handlungsspielraum gewährt.[^10-1]
 
@@ -241,7 +241,9 @@ Der Bundesrat bestellt eine Zollexpertenkommission als beratendes Organ.
 
 <sup>1</sup> Der Bundesrat wird mit dem Vollzug beauftragt. Er erlässt die nötigen Übergangsbestimmungen.
 
-<sup>2</sup> Die Zollverwaltung veröffentlicht den Gebrauchstarif.
+<sup>2</sup> Das Bundesamt für Zoll und Grenzsicherheit veröffentlicht den Gebrauchstarif.[^15-1]
+
+[^15-1]: Fassung gemäss Ziff. I 17 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 16
 
@@ -279,4 +281,4 @@ Anhänge 1 und 2
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Der Generaltarif wird nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der Amtlichen Sammlung nicht veröffentlicht. Die Verordnung mit dem Text dieser Änderungen kann bei der Oberzolldirektion, 3003 Bern, eingesehen werden. Ausserdem werden die Änderungen in den Generaltarif aufgenommen, der im Internet unter www.ezv.admin.ch publiziert wird. Sie werden ebenfalls in den gestützt auf Art. 15 Abs. 2 des Zolltarifgesetzes vom 9. Okt. 1986 herausgegebenen Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann (AS **1987** 1876 [2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311), [1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067), [1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)Art. 1 [1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 1 [2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)Art. 1, [1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)Art. 1, [1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)Art. 1, [1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)Anhang 2004 Art. 1, [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)Art. 1 [1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 9 [2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)Art. 1, [1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)Art. 1 [4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)Art. 1 und [2](https://fedlex.data.admin.ch/eli/oc/1995/2_2_2)[5366](https://fedlex.data.admin.ch/eli/oc/1995/5366_5366_5366)Art. 1, [1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)Anhang Ziff. 1 [3310](https://fedlex.data.admin.ch/eli/oc/1996/3310_3310_3310)Art. 1 [3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 3, [1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236)[2632](https://fedlex.data.admin.ch/eli/oc/1997/2632_2632_2632)Art. 1 [2633](https://fedlex.data.admin.ch/eli/oc/1997/2633_2633_2633)Art. 1 [2831](https://fedlex.data.admin.ch/eli/oc/1997/2831_2831_2831)Art. 1, [1998 1592](https://fedlex.data.admin.ch/eli/oc/1998/1592_1592_1592)Art. 1, [1999 314](https://fedlex.data.admin.ch/eli/oc/1999/36)Art. 1 [1514](https://fedlex.data.admin.ch/eli/oc/1999/226)Art. 1 [1709](https://fedlex.data.admin.ch/eli/oc/1999/264)Art. 1 [1727](https://fedlex.data.admin.ch/eli/oc/1999/273)Art. 1, [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Art. 1 [2409](https://fedlex.data.admin.ch/eli/oc/2001/347)Art. 1 Abs. 2, [2002 3643](https://fedlex.data.admin.ch/eli/oc/2002/553), [2003 529](https://fedlex.data.admin.ch/eli/oc/2003/113)Art. 1, [2005 503](https://fedlex.data.admin.ch/eli/oc/2005/62)Art. 1 und 2 [5447](https://fedlex.data.admin.ch/eli/oc/2005/744)Art. 1, [2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)[2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Art. 1–3, **2007** 2271 Art. 1 2885 Art. 1 2887 Art. 1, **2010** 5057 Ziff. I Abs. 1, **2011** 3331 Art. 1 und 2 5249 Ziff. I Abs. 1 5923 Art. 1, **2016** 1401 Ziff. II 2445 Art. 1 2647 Art. 1, **2020** 3749 Art. 1).
+[^annexu1-lvlu1-1]: Der Generaltarif wird nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der Amtlichen Sammlung nicht veröffentlicht. Die Verordnung und der Generaltarif mit dem Text der Änderungen sind im Internet unter www.ezv.admin.ch publiziert. Diese Änderungen werden ebenfalls in den gestützt auf Art. 15 Abs. 2 des Zolltarifgesetzes vom 9. Okt. 1986 herausgegebenen Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann (AS **1987** 1876, [2311](https://fedlex.data.admin.ch/eli/oc/1987/2311_2311_2311); [1988 1067](https://fedlex.data.admin.ch/eli/oc/1988/1067_1067_1067); [1989 139](https://fedlex.data.admin.ch/eli/oc/1989/139_139_139)Art. 1, [1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 1, [2389](https://fedlex.data.admin.ch/eli/oc/1989/2389_2389_2389)Art. 1; [1991 1599](https://fedlex.data.admin.ch/eli/oc/1991/1599_1599_1599)Art. 1; [1992 1232](https://fedlex.data.admin.ch/eli/oc/1992/1232_1232_1232)Art. 1; [1993 955](https://fedlex.data.admin.ch/eli/oc/1993/955_955_955)Anhang, [2004](https://fedlex.data.admin.ch/eli/oc/1993/2004_2004_2004)Art. 1; [1994 1430](https://fedlex.data.admin.ch/eli/oc/1994/1430_1430_1430)Art. 1, [1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 9, [2785](https://fedlex.data.admin.ch/eli/oc/1994/2785_2785_2785)Art. 1; [1995 1829](https://fedlex.data.admin.ch/eli/oc/1995/1829_1829_1829)Art. 1, [4932](https://fedlex.data.admin.ch/eli/oc/1995/4932_4932_4932)Art. 1 und [2](https://fedlex.data.admin.ch/eli/oc/1995/2_2_2), [5366](https://fedlex.data.admin.ch/eli/oc/1995/5366_5366_5366)Art. 1; [1996 3045](https://fedlex.data.admin.ch/eli/oc/1996/3045_3045_3045)Anhang Ziff. 1, [3310](https://fedlex.data.admin.ch/eli/oc/1996/3310_3310_3310)Art. 1, [3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 3; [1997 2236](https://fedlex.data.admin.ch/eli/oc/1997/2236_2236_2236), [2632](https://fedlex.data.admin.ch/eli/oc/1997/2632_2632_2632)Art. 1, [2633](https://fedlex.data.admin.ch/eli/oc/1997/2633_2633_2633)Art. 1, [2831](https://fedlex.data.admin.ch/eli/oc/1997/2831_2831_2831)Art. 1; [1998 1592](https://fedlex.data.admin.ch/eli/oc/1998/1592_1592_1592)Art. 1; [1999 314](https://fedlex.data.admin.ch/eli/oc/1999/36)Art. 1, [1514](https://fedlex.data.admin.ch/eli/oc/1999/226)Art. 1, [1709](https://fedlex.data.admin.ch/eli/oc/1999/264)Art. 1, [1727](https://fedlex.data.admin.ch/eli/oc/1999/273)Art. 1; [2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Art. 1, [2409](https://fedlex.data.admin.ch/eli/oc/2001/347)Art. 1 Abs. 2; [2002 3643](https://fedlex.data.admin.ch/eli/oc/2002/553); [2003 529](https://fedlex.data.admin.ch/eli/oc/2003/113)Art. 1; [2005 503](https://fedlex.data.admin.ch/eli/oc/2005/62)Art. 1 und 2, [5447](https://fedlex.data.admin.ch/eli/oc/2005/744)Art. 1; [2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151), [2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Art. 1–3; **2007** 2271 Art. 1, 2885 Art. 1, 2887 Art. 1; **2010** 5057 Ziff. I Abs. 1; **2011** 3331 Art. 1 und 2, 5249 Ziff. I Abs. 1, 5923 Art. 1; **2016** 1401 Ziff. II, 2445 Art. 1, 2647 Art. 1; **2020** 3749 Art. 1; **2021** 445 Art. 1 und 2).
