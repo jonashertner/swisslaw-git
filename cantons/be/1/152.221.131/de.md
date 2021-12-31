@@ -4,13 +4,13 @@ number: "152.221.131"
 title: Verordnung über die Organisation und die Aufgaben der Direktion für Inneres und Justiz
 short: "Organisationsverordnung DIJ, OrV DIJ"
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-24
+version: 2022-01-01
+valid_until: 2022-04-30
+version_adopted: 2021-11-24
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.131"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2269/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2448/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2269/pdf_file"
 
 (Organisationsverordnung DIJ, OrV DIJ)
 
-vom 18.10.1995 (Stand 01.07.2021)
+vom 18.10.1995 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -62,8 +62,8 @@ beschliesst:
 
 <sup>2</sup> Sie ist die zuständige Behörde in folgenden vom Schweizerischen Zivilgesetzbuch (ZGB)[^1-1] vorgesehenen Fällen:
 
-- a Art. 268. Aussprechung der Adoption,
-- b Art. 885. Ermächtigung von Geldinstituten oder Genossenschaften zum Abschluss von Viehverpfändungen.
+- a Artikel 268: Aussprechung der Adoption,
+- b Artikel 885: Ermächtigung von Geldinstituten oder Genossenschaften zum Abschluss von Viehverpfändungen.
 
 [^1-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
@@ -79,7 +79,7 @@ beschliesst:
 
 <sup>1</sup> Die Direktion für Inneres und Justiz gliedert sich gemäss Anhang 1 in das Generalsekretariat (GS DIJ) und folgende Ämter:
 
-- a Amt für Dienstleistungen und Ressourcen (ADR),
+- a …
 - b Amt für Gemeinden und Raumordnung (AGR),
 - c Kantonales Jugendamt (KJA),
 - d Rechtsamt (RA DIJ),
@@ -95,7 +95,7 @@ beschliesst:
 - b das kantonale Grundbuchamt mit regionalen Grundbuchämtern.
 - c …
 
-<sup>4</sup> Der Direktion administrativ angegliedert sind die Regierungsstatthalterämter sowie die Kindes- und Erwachsenenschutzbehörden.
+<sup>4</sup> Der Direktion administrativ angegliedert sind die Regierungsstatthalterämter sowie die Kindes- und Erwachsenenschutzbehörden (KESB).
 
 <sup>5</sup> …
 
@@ -162,21 +162,38 @@ beschliesst:
 
 #### Art. 8
 
-**Generalsekretariat (GS DIJ) 1. Allgemein**
+**Generalsekretariat (GS DIJ) 1. Stabsaufgaben**
 
 <sup>1</sup> Das Generalsekretariat
 
-- a berät und unterstützt die Direktorin oder den Direktor bei der Erfüllung ihrer beziehungsweise seiner Aufgaben;
-- b koordiniert die Tätigkeit innerhalb der Direktion, namentlich auch die Gesetzgebung und das Mitberichtsverfahren und legt für alle Geschäfte die Federführung fest;
+- a berät und unterstützt die Direktorin oder den Direktor bei der Erfüllung ihrer bzw. seiner Aufgaben;
+- b koordiniert die Tätigkeit innerhalb der Direktion, namentlich auch die Gesetzgebung und das Mitberichtsverfahren, und legt für alle Geschäfte die Federführung fest;
 - c prüft alle Vorlagen und Anträge, welche die Ämter der Direktion unterbreiten, sofern die Geschäftsordnung nichts anderes bestimmt;
 - d sorgt zusammen mit den zuständigen Ämtern für die Bearbeitung aller Fragen, die für die Direktion von grundsätzlicher Bedeutung sind;
 - e behandelt alle Geschäfte, für die kein Amt innerhalb der Direktion zuständig ist, oder weist sie einem Amt zu;
 - f koordiniert die Information der Öffentlichkeit über die Tätigkeit der Direktion;
 - g betreut die Vorbereitung der parlamentarischen Geschäfte;
 - h stellt den Übersetzungsdienst sicher;
-- i besorgt die Planung, den Vollzug und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel.
+- i …
 
 <sup>2</sup> Diese Bestimmungen gelten sinngemäss für die dezentrale Verwaltung der Direktion.
+
+#### Art. 8a
+
+**1a. Ressourcen und Querschnittsaufgaben**
+
+<sup>1</sup> Das Generalsekretariat betreut und unterstützt die Ämter sowie die dezentrale Verwaltung in den Bereichen
+
+- a des Finanz- und Rechnungswesens,
+- b der Informations- und Kommunikationstechnologie,
+- c des Personalmanagements,
+- d der Infrastruktur, Logistik, Sicherheit und Beschaffung.
+
+<sup>2</sup> Es ist im Aufgabenbereich gemäss Absatz 1 zuständig für das Controlling der Direktion und ihrer Ämter sowie der dezentralen Verwaltung.
+
+<sup>3</sup> Es besorgt die Planung, den Vollzug und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel.
+
+<sup>4</sup> Die Geschäftsordnung kann diese Aufgaben anderen Organisationseinheiten übertragen oder dem Generalsekretariat weitere direktionale Dienstleistungen übertragen.
 
 #### Art. 9
 
@@ -193,24 +210,7 @@ beschliesst:
 - e bereitet die Gesetzgebung in ihrem oder seinem Aufgabenbereich vor;
 - f besorgt die Planung, den Vollzug und das Berichtswesen in ihrem oder seinem Bereich betreffend Aufgaben und Mittel.
 
-#### Art. 10
-
-**Amt für Dienstleistungen und Ressourcen (ADR)**
-
-<sup>1</sup> Das Amt für Dienstleistungen und Ressourcen betreut und unterstützt die Ämter, das Generalsekretariat und die dezentrale Verwaltung in den Bereichen
-
-- a des Finanz- und Rechnungswesens;
-- b der Informations- und Kommunikationstechnologie (ICT);
-- c des Personalwesens;
-- d der Infrastruktur, Logistik, Sicherheit und Beschaffung.
-
-<sup>2</sup> Es ist in seinem Aufgabenbereich zuständig für das Controlling der Direktion und ihrer Ämter sowie der dezentralen Verwaltung.
-
-<sup>3</sup> Es besorgt die Planung, den Vollzug und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel.
-
-<sup>4</sup> Die Geschäftsordnung der Direktion für Inneres und Justiz kann diese Aufgaben anderen Organisationseinheiten übertragen oder dem Amt für Dienstleistungen und Ressourcen weitere direktionale Dienstleistungen übertragen.
-
-#### Art. 11
+#### Art. 10–11
 
 **…**
 
@@ -241,32 +241,31 @@ beschliesst:
 
 #### Art. 13
 
-**Kantonales Jugendamt (KJA)**
+**…**
 
-<sup>1</sup> Das Kantonale Jugendamt
+#### Art. 13a
 
-- a fördert und koordiniert die Bestrebungen und Einrichtungen der öffentlichen und privaten Jugend- und Familienhilfe, arbeitet zu diesem Zweck mit andern Organisationen zusammen und sichert die Zusammenarbeit in der Jugendhilfe gemäss Artikel 317 ZGB[^13-1];
-- b übt die Oberaufsicht im Pflegekinderwesen aus;
-- c ist Bewilligungs- und Aufsichtsbehörde im Pflegekinderwesen für
-  - 1\. Kinder, die im Ausland gelebt haben,
-  - 2\. Institutionen zur Betreuung von Kindern und Jugendlichen, soweit keine andere Direktion zuständig ist,
-  - 3\. Dienstleistungsangebote in der Familienpflege.
-- d ist einzige kantonale Behörde gemäss Artikel 316 Absatz 1bis ZGB zur Bewilligung der Aufnahme von Pflegekindern zum Zweck der späteren Adoption, instruiert das Adoptionsverfahren und führt das Nachforschungsverfahren Adoptierter nach ihren leiblichen Eltern gemäss Artikel 268c ZGB;
-- e …
-- f ist für die Führung und den Betrieb der Kantonalen Beobachtungsstation Bolligen verantwortlich;
-- g erfüllt die Aufgaben auf dem Gebiet der Aufsicht über die Kindes- und Erwachsenenschutzbehörden;
-- g1 nimmt für die Kindes- und Erwachsenenschutzbehörden das Controlling über die Einhaltung der Leistungsvereinbarungen wahr, wozu es insbesondere ein geeignetes Audit vornehmen kann;
-- g2 unterstützt die Geschäftsleitung sowie den Ausschuss der Kindes- und Erwachsenenschutzbehörden durch Beratung;
-- h übt die Aufsicht über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen für Kinder aus;
-- i übermittelt die Gesuche betreffend das Übereinkommen über die Geltendmachung von Unterhaltsansprüchen im Ausland;
-- k …
-- l bereitet die Gesetzgebung in seinem Aufgabenbereich vor;
-- m besorgt die Planung, den Vollzug und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel;
-- n–o …
-- p ist Zentrale Behörde gemäss Artikel 2 Absatz 1 des Bundesgesetzes über internationale Kindesentführungen und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen (BG-KKE) und einzige kantonale Behörde gemäss Artikel 12 Absatz 1 BG-KKE bei Kindesrückführungen;
-- q entscheidet über die Ausgaben zulasten des Ella Ganz-Murkowsky-Fonds.
+**Kantonales Jugendamt (KJA)\***
 
-[^13-1]: SR 210
+<sup>1</sup> Das Kantonale Jugendamt\*
+
+- a übernimmt die Aufgaben der kantonalen Zentralen Behörde im Rahmen der internationalen Kindesentführungen und der Vollstreckungsbehörde im Bereich der Kindesrückführung gemäss dem Bundesgesetz vom 21. Dezember 2007 über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen (BG-KKE)[^13a-1];
+- b sichert die zweckmässige Zusammenarbeit der Behörden und Stellen auf dem Gebiet des zivilrechtlichen Kindesschutzes, des Jugendstrafrechts und der übrigen Jugendhilfe;
+- c übernimmt die der Direktion durch die Gesetzgebung über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf zugewiesenen Aufgaben;
+- d übernimmt die der Direktion im Bereich der Steuerung und Aufsicht über die KESB zugewiesenen Aufgaben;
+- e übernimmt für die KESB das Controlling über die Einhaltung der Leistungsvereinbarungen;
+- f übernimmt die Aufgaben der Übermittlungs- und Empfangsstelle gemäss dem Übereinkommen vom 20. Juni 1956 über die Geltendmachung von Unterhaltsansprüchen im Ausland[^13a-2];
+- g übernimmt die der Direktion durch die Gesetzgebung über die Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen zugewiesenen Aufgaben;
+- h übernimmt die Aufgaben der kantonalen Zentralen Behörde auf dem Gebiet der internationalen Adoptionen gemäss Bundesgesetz vom 22. Juni 2001 zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen (BG-HAÜ)[^13a-3];
+- i ist zuständig für die Bewilligung zur Aufnahme von Pflegekindern zur späteren Adoption;
+- k übernimmt die der kantonalen Behörde gemäss Bundesgesetzgebung zur Adoption zugewiesenen Aufgaben, insbesondere die Instruktion des Adoptionsverfahrens und die Auskunftsfunktion, und ist Beratungsstelle für die leiblichen Eltern, deren Nachkommen sowie das Kind;
+- l ist für die Führung und den Betrieb der Kantonalen Beobachtungsstation Bolligen verantwortlich;
+- m bereitet die Gesetzgebung in seinem Aufgabenbereich vor;
+- n besorgt die Planung, den Vollzug und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel.
+
+[^13a-1]: SR [211.222.32](https://db.clex.ch/link/Bund/211.222.32/de)
+[^13a-2]: SR [0.274.15](https://db.clex.ch/link/Bund/0.274.15/de)
+[^13a-3]: SR [211.221.31](https://db.clex.ch/link/Bund/211.221.31/de)
 
 #### Art. 14
 
@@ -360,7 +359,7 @@ beschliesst:
 - a eine Generalsekretärin oder einen Generalsekretär,
 - b zwei stellvertretende Generalsekretärinnen und stellvertretende Generalsekretäre,
 - c eine Beauftragte oder einen Beauftragten für kirchliche und religiöse Angelegenheiten,
-- d sieben Amtsvorsteherinnen und Amtsvorsteher.
+- d sechs Amtsvorsteherinnen und Amtsvorsteher.
 - e–g …
 
 <sup>1a</sup> Sie verfügt über

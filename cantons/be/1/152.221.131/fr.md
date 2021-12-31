@@ -4,13 +4,13 @@ number: "152.221.131"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'intérieur et de la justice *"
 short: "Ordonnance d'organisation DIJ, OO DIJ"
 language: fr
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-24
+version: 2022-01-01
+valid_until: 2022-04-30
+version_adopted: 2021-11-24
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.131"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2269/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2448/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2269/pdf_file"
 
 (Ordonnance d'organisation DIJ, OO DIJ)
 
-du 18.10.1995 (état au 01.07.2021)
+du 18.10.1995 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -60,10 +60,10 @@ arrête:
 - r droit de l'organisation des tribunaux,
 - s préfectures.
 
-<sup>2</sup> Elle est l'autorité compétente pour traiter les cas suivants prévus par le Code civil suisse (CCS)[^1-1]:
+<sup>2</sup> Elle est l'autorité compétente pour traiter les cas suivants prévus par le Code civil suisse (CC)[^1-1]:
 
-- a article 268 prononcé de l'adoption,
-- b article 885 autorisation de constituer des droits de gage sur le bétail pour les établissements de crédit et les sociétés coopératives.
+- a article 268: prononcé de l'adoption,
+- b article 885: autorisation de constituer des droits de gage sur le bétail pour les établissements de crédit et les sociétés coopératives.
 
 [^1-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
@@ -79,7 +79,7 @@ arrête:
 
 <sup>1</sup> La Direction de l'intérieur et de la justice comprend le Secrétariat général (SG DIJ) et les offices suivants figurant à l'annexe 1:
 
-- a Office des services et des ressources (OSR),
+- a …
 - b Office des affaires communales et de l'organisation du territoire (OACOT),
 - c Office des mineurs (OM),
 - d Office juridique (OJ DIJ),
@@ -95,7 +95,7 @@ arrête:
 - b bureau cantonal et bureaux régionaux du registre foncier.
 - c …
 
-<sup>4</sup> Les préfectures ainsi que les autorités de protection de l’enfant et de l’adulte sont rattachées administrativement à la Direction.
+<sup>4</sup> Les préfectures ainsi que les autorités de protection de l’enfant et de l’adulte (APEA) sont rattachées administrativement à la Direction.
 
 <sup>5</sup> …
 
@@ -162,11 +162,11 @@ arrête:
 
 #### Art. 8
 
-**Secrétariat général (SG DIJ) 1. Généralités**
+**Secrétariat général (SG DIJ) 1. Tâches d'état-major**
 
 <sup>1</sup> Le Secrétariat général
 
-- a conseille et seconde le directeur ou la directrice dans l'accomplissement de ses tâches;
+- a conseille et soutient le directeur ou la directrice dans l'accomplissement de ses tâches;
 - b coordonne l'activité au sein de la Direction, notamment l'activité législative et la procédure de corapport, et détermine la responsabilité pour l'ensemble des affaires;
 - c examine tous les projets et toutes les propositions que les offices soumettent à la Direction, sauf disposition contraire du règlement de la Direction;
 - d s'occupe, en collaboration avec les offices compétents, de toutes les questions revêtant une importance fondamentale pour la Direction;
@@ -174,9 +174,26 @@ arrête:
 - f coordonne l'information du public concernant l'activité de la Direction;
 - g prépare les affaires parlementaires;
 - h dirige le service de traduction;
-- i s'occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de leur exécution et des rapports y relatifs.
+- i …
 
 <sup>2</sup> Les présentes dispositions s'appliquent par analogie à l'administration décentralisée de la Direction.
+
+#### Art. 8a
+
+**Ressources et tâches transversales**
+
+<sup>1</sup> Le Secrétariat général encadre et soutient les offices et l’administration décentralisée dans les domaines
+
+- a des finances et de la comptabilité,
+- b des technologies de l’information et de la communication,
+- c de la gestion du personnel,
+- d de l’infrastructure, de la logistique, de la sécurité et des achats.
+
+<sup>2</sup> Il est compétent dans le domaine d’activité selon l’alinéa 1 pour le controlling de la Direction, de ses offices ainsi que de l’administration décentralisée.
+
+<sup>3</sup> Il s’occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de l’exécution et des rapports y relatifs
+
+<sup>4</sup> Le règlement peut déléguer ces tâches à d’autres unités administratives ou transférer au Secrétariat général d’autres prestations propres à la Direction.
 
 #### Art. 9
 
@@ -193,24 +210,7 @@ arrête:
 - e prépare la législation dans son domaine d'activité;
 - f s'occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de leur exécution et des rapports y relatifs.
 
-#### Art. 10
-
-**Office des services et des ressources (OSR)**
-
-<sup>1</sup> L'Office des services et des ressources soutient les offices, le Secrétariat général et l’administration décentralisée dans les domaines
-
-- a des finances et de la comptabilité,
-- b des technologies de l’information et de la communication (TIC),
-- c du personnel,
-- d de l’infrastructure, de la logistique, de la sécurité et des achats.
-
-<sup>2</sup> Il est compétent dans son domaine d’activité pour le controlling de la Direction, de ses offices ainsi que de l’administration décentralisée.
-
-<sup>3</sup> Il s'occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de leur exécution et des rapports y relatifs.
-
-<sup>4</sup> Le règlement de la Direction de l’intérieur et de la justice peut déléguer ces tâches à d’autres unités administratives ou transférer à l’Office des services et des ressources d’autres prestations propres à la Direction.
-
-#### Art. 11
+#### Art. 10–11
 
 **…**
 
@@ -240,32 +240,31 @@ arrête:
 
 #### Art. 13
 
-**Office des mineurs (OM)**
+**…**
 
-<sup>1</sup> L’Office des mineurs
+#### Art. 13a
 
-- a promeut les institutions et coordonne les activités de l'aide à la jeunesse et à la famille, qu'elle soit publique ou privée, collabore à cet effet avec d'autres organisations et assure l'aide à la jeunesse conformément à l'article 317 CCS[^13-1];
-- b exerce la haute surveillance sur le placement d'enfants;
-- c est l’autorité délivrant les autorisations et assurant la surveillance dans le domaine du placement d’enfants pour
-  - 1\. les enfants ayant vécu jusqu’alors à l’étranger;
-  - 2\. les institutions de prise en charge d’enfants et d’adolescents, dans la mesure où aucune autre Direction n’est compétente;
-  - 3\. les prestations fournies dans le cadre du placement chez des parents nourriciers;
-- d est l’autorité cantonale unique au sens de l’article 316, alinéa 1bis CCS chargée de délivrer l’autorisation d’accueillir des enfants en vue de leur adoption, d’instruire les procédures d’adoption et de conduire la procédure de recherche de ses parents biologiques initiée par un enfant adopté au sens de l’article 268c CCS;
-- e …
-- f est responsable de la direction et de l'exploitation de la station d'observation pour adolescents de Bolligen;
-- g accomplit les tâches relevant de la surveillance des autorités de protection de l’enfant et de l’adulte;
-- g1 assure le controlling du respect, par les autorités de protection de l'enfant et de l'adulte, de la convention de prestations et peut notamment réaliser un audit à cet égard;
-- g2 soutient le Directoire des autorités de protection de l'enfant et de l'adulte, de même que son comité, en les conseillant;
-- h exerce la surveillance sur l'aide au recouvrement et l'avance de contributions d'entretien pour enfants;
-- i transmet les requêtes relatives à la convention sur le recouvrement des aliments à l'étranger;
-- k …
-- l prépare la législation dans son domaine;
-- m s'occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de leur exécution et des rapports y relatifs;
-- n–o …
-- p est l’autorité centrale au sens de l’article 2, alinéa 1 de la loi fédérale sur l’enlèvement international d’enfants et les conventions de La Haye sur la protection des enfants et des adultes (LF-EEA); il est l’autorité cantonale unique au sens de l’article 12, alinéa 1 LF-EEA lors de retours d’enfants;
-- q décide des dépenses prélevées sur le fonds Ella Ganz-Murkowsky.
+**Office des mineurs (OM)\***
 
-[^13-1]: RS 210
+<sup>1</sup> L’Office des mineurs\*
+
+- a joue le rôle d’autorité centrale cantonale dans le cadre de l’enlèvement international d’enfants et d’autorité d’exécution dans le domaine du retour d’enfants conformément à la loi fédérale du 21 décembre 2007 sur l’enlèvement international d’enfants et les Conventions de La Haye sur la protection des enfants et des adultes[^13a-1];
+- b assure une collaboration efficace des autorités et des services chargés des mesures de droit civil pour la protection de l’enfance, du droit pénal des mineurs et d’autres formes d’aide à la jeunesse;
+- c accomplit les tâches que la législation sur les prestations particulières d’encouragement et de protection destinées aux enfants attribue à la Direction;
+- d accomplit les tâches qui sont attribuées à la Direction dans le domaine du pilotage et de la surveillance des APEA;
+- e assure le controlling du respect, par les APEA, des conventions de prestations;
+- f accomplit les tâches d’autorité expéditrice et d’institution intermédiaire conformément à la Convention du 20 juin 1956 sur le recouvrement des aliments à l’étranger[^13a-2];
+- g accomplit les tâches que la législation sur l’aide au recouvrement et les avances de contributions d’entretien attribue à la Direction;
+- h assume le rôle d’autorité centrale cantonale en matière d’adoptions internationales conformément à la loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale (LF-CLaH)[^13a-3];
+- i est responsable de l’octroi d’autorisations d’accueillir des enfants en vue de leur adoption;
+- k accomplit les tâches attribuées à l’autorité cantonale compétente conformément à la législation fédérale sur l’adoption, en particulier l’instruction de la procédure d’adoption et la fonction de service de renseignements et agit à titre de centre de consultation pour les parents biologiques, leurs descendants et l’enfant;
+- l est responsable de la direction et de l'exploitation de la station d'observation pour adolescents de Bolligen;
+- m prépare la législation dans son domaine de compétence;
+- n s'occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de l'exécution et des rapports y relatifs;
+
+[^13a-1]: RS [211.222.32](https://db.clex.ch/link/Bund/211.222.32/fr)
+[^13a-2]: RS [0.274.15](https://db.clex.ch/link/Bund/0.274.15/fr)
+[^13a-3]: RS [211.221.31](https://db.clex.ch/link/Bund/211.221.31/fr)
 
 #### Art. 14
 
@@ -359,7 +358,7 @@ arrête:
 - a un secrétaire général ou une secrétaire générale,
 - b deux suppléants ou suppléantes du secrétaire général ou de la secrétaire générale,
 - c un délégué ou une déléguée aux affaires ecclésiastiques et religieuses,
-- d sept chefs et cheffes d'office,
+- d six chefs et cheffes d'office,
 - e–g …
 
 <sup>1a</sup> Elle compte
