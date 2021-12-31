@@ -3,18 +3,18 @@ sr: "951.251"
 title: Ordinanza del 12 giugno 2015 sugli aiuti finanziari alle organizzazioni che concedono fideiussioni alle piccole e medie imprese
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/413"
 language: it
-version: 2019-07-01
+version: 2022-01-01
 adopted: 2015-06-12
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/413/20190701/it/xml/fedlex-data-admin-ch-eli-cc-2015-413-20190701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/413/20190701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/413/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-413-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/413/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sugli aiuti finanziari alle organizzazioni che concedono fideiussioni alle piccole e medie imprese
 
-del 12 giugno 2015 (Stato 1° luglio 2019)
+del 12 giugno 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -226,7 +226,11 @@ Gli elementi determinanti per il calcolo del contributo per la copertura delle p
 
 #### Art. 16
 
-Il DEFR decide in merito alla liberazione di crediti entro i limiti dei crediti quadro conformemente all’articolo 8 capoverso 1 della legge.
+[^16-1]
+
+Il DEFR decide in merito alla liberazione di crediti entro i limiti dei crediti d’impegno conformemente all’articolo 8 capoverso 1 della legge.
+
+[^16-1]: Nuovo testo giusta l’all. n. 7 dell’O del 10 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ## Sezione 5: Controllo e sorveglianza
 

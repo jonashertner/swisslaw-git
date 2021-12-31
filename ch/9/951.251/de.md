@@ -3,18 +3,18 @@ sr: "951.251"
 title: Verordnung vom 12. Juni 2015 über die Finanzhilfen an Bürgschaftsorganisationen für KMU
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/413"
 language: de
-version: 2019-07-01
+version: 2022-01-01
 adopted: 2015-06-12
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/413/20190701/de/xml/fedlex-data-admin-ch-eli-cc-2015-413-20190701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/413/20190701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/413/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-413-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/413/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Finanzhilfen an Bürgschaftsorganisationen für KMU****
+# Verordnung über die Finanzhilfen an Bürgschaftsorganisationen für KMU
 
-vom 12. Juni 2015 (Stand am 1. Juli 2019)[^t-1]
+vom 12. Juni 2015 (Stand am 1. Januar 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1785](https://fedlex.data.admin.ch/eli/oc/2019/326)).
 
@@ -232,7 +232,11 @@ Massgebend für die Festsetzung des Verlustbeitrags sind:
 
 #### Art. 16
 
-Über Kreditfreigaben aus Rahmenkrediten nach Artikel 8 Absatz 1 des Gesetzes entscheidet das WBF.
+[^16-1]
+
+Über Kreditfreigaben aus Verpflichtungskrediten nach Artikel 8 Absatz 1 des Gesetzes entscheidet das WBF.
+
+[^16-1]: Fassung gemäss Anhang Ziff. 7 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ## 5. Abschnitt: Kontrolle und Aufsicht
 
@@ -268,7 +272,7 @@ Die Organisationen sind verpflichtet, dem SECO:
 
 Die Verordnung vom 28. Februar 2007[^19-1] über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen wird aufgehoben.
 
-[^19-1]: [[AS 2007 699](https://fedlex.data.admin.ch/eli/oc/2007/139)[3363](https://fedlex.data.admin.ch/eli/oc/2007/410)]
+[^19-1]: [[AS 2007 699](https://fedlex.data.admin.ch/eli/oc/2007/139), [3363](https://fedlex.data.admin.ch/eli/oc/2007/410)]
 
 #### Art. 20
 
@@ -279,7 +283,7 @@ Die Verordnung vom 28. Februar 2007[^19-1] über die Finanzhilfen an gewerbeorie
 <sup>2</sup> Entscheide über die Anerkennungen, die gestützt auf die Verordnung vom 28. Februar 2007 über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen verfügt wurden, behalten ihre Gültigkeit.
 
 [^20-1]: [AS 1998 2644](https://fedlex.data.admin.ch/eli/oc/1998/2644_2644_2644)
-[^20-2]: [AS 2007 699](https://fedlex.data.admin.ch/eli/oc/2007/139)[3363](https://fedlex.data.admin.ch/eli/oc/2007/410)
+[^20-2]: [AS 2007 699](https://fedlex.data.admin.ch/eli/oc/2007/139), [3363](https://fedlex.data.admin.ch/eli/oc/2007/410)
 
 #### Art. 20a
 
@@ -288,7 +292,7 @@ Die Verordnung vom 28. Februar 2007[^19-1] über die Finanzhilfen an gewerbeorie
 Bürgschaftsverträge, die bei Inkrafttreten der Änderung vom 22. Mai 2019 bestehen, werden nach bisherigem Recht[^20a-2] bis zu ihrem ordentlichen Auslaufen weitergeführt.
 
 [^20a-1]: Eingefügt durch Ziff. I der V vom 22. Mai 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1785](https://fedlex.data.admin.ch/eli/oc/2019/326)).
-[^20a-2]: [AS 1998 2644](https://fedlex.data.admin.ch/eli/oc/1998/2644_2644_2644), [2007 699](https://fedlex.data.admin.ch/eli/oc/2007/139)[3363](https://fedlex.data.admin.ch/eli/oc/2007/410)
+[^20a-2]: [AS 1998 2644](https://fedlex.data.admin.ch/eli/oc/1998/2644_2644_2644); [2007 699](https://fedlex.data.admin.ch/eli/oc/2007/139), [3363](https://fedlex.data.admin.ch/eli/oc/2007/410)
 
 #### Art. 21
 

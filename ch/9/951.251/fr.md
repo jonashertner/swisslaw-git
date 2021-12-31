@@ -3,18 +3,18 @@ sr: "951.251"
 title: Ordonnance du 12 juin 2015 sur les aides financières aux organisations de cautionnement en faveur des PME
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/413"
 language: fr
-version: 2019-07-01
+version: 2022-01-01
 adopted: 2015-06-12
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/413/20190701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-413-20190701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/413/20190701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/413/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-413-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/413/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les aides financières aux organisations de cautionnement en faveur des PME
 
-du 12 juin 2015 (Etat le 1<sup>er</sup> juillet 2019)[^t-1]
+du 12 juin 2015 (État le 1<sup>er</sup> janvier 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1785](https://fedlex.data.admin.ch/eli/oc/2019/326)).
 
@@ -234,7 +234,11 @@ Pour le calcul du montant de la contribution à la couverture des pertes, les é
 
 #### Art. 16
 
-L’ouverture de crédits dans les limites des crédits-cadres relève de la décision du DEFR, conformément à l’art. 8, al. 1, de la loi.
+[^16-1]
+
+L’ouverture de crédits dans les limites des crédits d’engagement relève de la décision du DEFR, conformément à l’art. 8, al. 1, de la loi.
+
+[^16-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 807](https://fedlex.data.admin.ch/eli/oc/2021/807)).
 
 ## Section 5 Contrôle et surveillance
 
