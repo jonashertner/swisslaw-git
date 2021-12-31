@@ -3,11 +3,11 @@ sr: "442.15"
 title: Ordonnance du 14 octobre 2020 sur les mesures dans le domaine de la culture prévues par la loi COVID-19 (Ordonnance COVID-19 culture)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/759"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2020-10-14
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-759-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-759-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210401/fr"
 
 (Ordonnance COVID-19 culture)
 
-du 14 octobre 2020 (Etat le 1<sup>er</sup> avril 2021)
+du 14 octobre 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -98,8 +98,11 @@ Les aides financières peuvent être allouées exclusivement aux entreprises cul
 
 <sup>4</sup> Sont également réputées entreprises culturelles et peuvent prétendre aux aides financières visées par la présente section les organisations d’amateurs dotées d’un budget d’au moins 50 000 francs pour leurs manifestations et qui subissent une perte d’au moins 10 000 francs.
 
+<sup>5</sup> En cas de levée totale des mesures de l’État, y compris l’obligation de présenter un certificat COVID, les indemnités pour pertes financières des entreprises culturelles et des acteurs culturels sont accordées jusqu’au terme de la période de dommage courante, conformément à l’art. 6, al. 1. Il en va de même des indemnités destinées aux associations culturelles d’amateurs.[^4-3]
+
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
+[^4-3]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
 
 #### Art. 5
 
@@ -124,30 +127,17 @@ Ne peuvent être compensés par une indemnité que les dommages qui:
 
 Les demandes doivent être déposées auprès des services compétents désignés par les cantons dans les délais suivants:
 
-- a.
+- a. pour les dommages subis entre le 1<sup>er</sup> décembre 2021 et le 31 décembre 2021: jusqu’au 31 janvier 2022;
+- b. pour les dommages subis entre le 1<sup>er</sup> janvier 2022 et le 30 avril 2022: jusqu’au 31 mai 2022;
+- c. pour les dommages subis entre le 1<sup>er</sup> mai 2022 et le 31 août 2022: jusqu’au 30 septembre 2022;
+- d. pour les dommages subis entre le 1<sup>er</sup> septembre 2022 et le 31 décembre 2022: jusqu’au 30 novembre 2022.[^6-1]
 
-  demandes déposées par des entreprises culturelles:
-
-  - 1\. pour les dommages subis entre le 1<sup>er</sup> novembre 2020 et le 31 décembre 2020: jusqu’au 31 janvier 2021,
-  - 2\. pour les dommages subis entre le 1<sup>er</sup> janvier 2021 et le 30 avril 2021: jusqu’au 31 mai 2021,
-  - 3\. pour les dommages subis entre le 1<sup>er</sup> mai 2021 et le 31 août 2021: jusqu’au 30 septembre 2021,
-  - 4\. pour les dommages subis entre le 1<sup>er</sup> septembre 2021 et le 31 décembre 2021: jusqu’au 30 novembre 2021;
-
-- b.[^6-1]
-
-  demandes déposées par des acteurs culturels:
-
-  - 1\. pour les dommages subis entre le 1<sup>er</sup> novembre 2020 et le 30 avril 2021: jusqu’au 31 mai 2021,
-  - 2\. pour les dommages subis entre le 1<sup>er</sup> mai 2021 et le 31 août 2021: jusqu’au 30 septembre 2021,
-  - 3\. pour les dommages subis entre le 1<sup>er</sup> septembre 2021 et le 31 décembre 2021: jusqu’au 30 novembre 2021.[^6-2]
-
-<sup>2</sup> Le canton compétent est celui dans lequel l’entreprise culturelle a son siège ou l’acteur culturel son domicile.[^6-3]
+<sup>2</sup> Le canton compétent est celui dans lequel l’entreprise culturelle a son siège ou l’acteur culturel son domicile.[^6-2]
 
 <sup>3</sup> Les cantons statuent sur les demandes. La procédure est régie par le droit cantonal.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021, en vigueur depuis le 28 janv. 2021 ([RO 2021 51](https://fedlex.data.admin.ch/eli/oc/2021/51)).
-[^6-3]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
 ## Section 3 Contributions à des projets de transformation
 
@@ -186,9 +176,13 @@ Les demandes sont évaluées sur la base des critères suivants:
 
 #### Art. 10
 
-**Procédure**
+**Procédure**[^10-1]
 
-La procédure est réglée à l’art. 6.
+<sup>1</sup> Les demandes peuvent être déposées auprès des services compétents désignés par les cantons jusqu’au 30 novembre 2022. Les cantons peuvent fixer des délais plus courts.
+
+<sup>2</sup> La procédure est réglée à l’art. 6, al. 2 et 3.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
 
 ## Section 4 Aide d’urgence aux acteurs culturels
 
@@ -235,11 +229,12 @@ La procédure est réglée à l’art. 6.
 
 **Procédure**
 
-<sup>1</sup> Les demandes peuvent être déposées d’ici au 30 novembre 2021 auprès de l’association Suisseculture Sociale.
+<sup>1</sup> Les demandes peuvent être déposées d’ici au 30 novembre 2022 auprès de l’association Suisseculture Sociale.[^14-1]
 
-<sup>2</sup> Suisseculture Sociale statue sur les demandes en tant qu’autorité au sens de l’art. 1, al. 2, let. e, de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^14-1].
+<sup>2</sup> Suisseculture Sociale statue sur les demandes en tant qu’autorité au sens de l’art. 1, al. 2, let. e, de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^14-2].
 
-[^14-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^14-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ### Section 5 Associations culturelles d’amateurs
 
@@ -274,11 +269,12 @@ Ne peuvent être compensés par une indemnité que les dommages qui:
 
 **Procédure**
 
-<sup>1</sup> Les demandes peuvent être déposées d’ici au 30 novembre 2021 auprès des associations faîtières reconnues par le Département fédéral de l’intérieur.
+<sup>1</sup> Les demandes peuvent être déposées d’ici au 30 novembre 2022 auprès des associations faîtières reconnues par le Département fédéral de l’intérieur.[^17-1]
 
-<sup>2</sup> Les associations faîtières statuent sur les demandes en tant qu’autorités au sens de l’art. 1, al. 2, let. e, PA[^17-1].
+<sup>2</sup> Les associations faîtières statuent sur les demandes en tant qu’autorités au sens de l’art. 1, al. 2, let. e, PA[^17-2].
 
-[^17-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
+[^17-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 ## Section 6 Dispositions de procédure communes
 
@@ -340,3 +336,7 @@ Les demandes déposées avant le 21 septembre 2020 et en suspens à l’entrée 
 <sup>1</sup> La présente ordonnance entre en vigueur avec effet rétroactif au 26 septembre 2020.
 
 <sup>2</sup> Elle a effet jusqu’au 31 décembre 2021.
+
+<sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2022.[^23-1]
+
+[^23-1]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 905](https://fedlex.data.admin.ch/eli/oc/2021/905)).
