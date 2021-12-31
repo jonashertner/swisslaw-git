@@ -4,11 +4,11 @@ title: "Verordnung des ETH-Rates vom 15. März 2001 über das Personal im Bereic
 short: PVO-ETH
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/279"
 language: de
-version: 2020-10-01
+version: 2022-01-01
 adopted: 2001-03-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/de/xml/fedlex-data-admin-ch-eli-cc-2001-279-20201001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20201001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-279-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20201001/de"
 
 (Personalverordnung ETH-Bereich, PVO-ETH)**[^t-1]**
 
-vom 15. März 2001 (Stand am 1. Oktober 2020)
+vom 15. März 2001 (Stand am 1. Januar 2022)
 
 vom Bundesrat genehmigt am 25. April 2001
 
@@ -46,15 +46,16 @@ verordnet:
 
 Dieser Verordnung sind nicht unterstellt:
 
-- a.[^1-1] die Arbeitsverhältnisse nach Artikel 17 Absatz 1 des ETH-Gesetzes vom 4. Oktober 1991[^1-2];
-- a<sup>bis</sup>.[^1-3] die Arbeitsverhältnisse der ordentlichen und ausserordentlichen Professorinnen und Professoren sowie der Assistenzprofessorinnen und Assistenzprofessoren der beiden ETH, soweit in der Professorenverordnung ETH vom 18. September 2003[^1-4] nicht auf die vorliegende Verordnung verwiesen wird;
-- b. die Lehrlinge, die dem Bundesgesetz vom 19. April 1978[^1-5] über die Berufsbildung unterstehen.
+- a.[^1-1] die Arbeitsverhältnisse nach Artikel 16*b* Absatz 1[^1-2] des ETH-Gesetzes vom 4. Oktober 1991[^1-3];
+- a<sup>bis</sup>.[^1-4] die Arbeitsverhältnisse der ordentlichen und ausserordentlichen Professorinnen und Professoren sowie der Assistenzprofessorinnen und Assistenzprofessoren der beiden ETH, soweit in der Professorenverordnung ETH vom 18. September 2003[^1-5] nicht auf die vorliegende Verordnung verwiesen wird;
+- b. die Lehrlinge, die dem Bundesgesetz vom 19. April 1978[^1-6] über die Berufsbildung unterstehen.
 
 [^1-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 24. März 2004, vom BR genehmigt am 23. Juni 2004 und in Kraft seit 1. Juli 2004 ([AS 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
-[^1-2]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^1-3]: Eingefügt durch Ziff. I der V des ETH-Rates vom 24. März 2004, vom BR genehmigt am 23. Juni 2004 und in Kraft seit 1. Juli 2004 ([AS 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
-[^1-4]: [SR 172.220.113.40](https://fedlex.data.admin.ch/eli/cc/2003/747)
-[^1-5]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Anhang Ziff. 1 und Art. 25 Abs. 2, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2, **2003** 187 Anhang Ziff. II 2]. Siehe heute: das BG vom 13. Dez. 2002 ([SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+[^1-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Nov. 2021 angepasst.
+[^1-3]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^1-4]: Eingefügt durch Ziff. I der V des ETH-Rates vom 24. März 2004, vom BR genehmigt am 23. Juni 2004 und in Kraft seit 1. Juli 2004 ([AS 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^1-5]: [SR 172.220.113.40](https://fedlex.data.admin.ch/eli/cc/2003/747)
+[^1-6]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Anhang Ziff. 1 und Art. 25 Abs. 2, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2, **2003** 187 Anhang Ziff. II 2]. Siehe heute: das BG vom 13. Dez. 2002 ([SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
 
 #### Art. 2
 
@@ -76,7 +77,7 @@ Der ETH-Rat ist zuständig für die Begründung, Änderung und Beendigung der Ar
 
 <sup>4</sup> Der ETH-Rat ist zuständig für den Vollzug dieser Verordnung für seine eigenen Mitarbeiterinnen und Mitarbeiter.
 
-<sup>5</sup> ...[^2-5]
+<sup>5</sup> …[^2-5]
 
 [^2-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 6. März 2013, vom BR genehmigt am 14. Juni 2013 und in Kraft seit 1. Juli 2013 ([AS 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
 [^2-2]: Eingefügt durch Ziff. I der V des ETH-Rates vom 24. März 2004, vom BR genehmigt am 23. Juni 2004 und in Kraft seit 1. Juli 2004 ([AS 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
@@ -336,7 +337,7 @@ Im Arbeitsvertrag sind mindestens zu regeln:
 
 <sup>1</sup> Das Arbeitsverhältnis ist grundsätzlich unbefristet.
 
-<sup>2</sup> ...[^19-1]
+<sup>2</sup> …[^19-1]
 
 <sup>3</sup> Befristete Arbeitsverhältnisse dürfen nicht zur Umgehung des Kündigungsschutzes nach Artikel 10 BPG abgeschlossen werden.[^19-2]
 
@@ -409,6 +410,21 @@ In Abweichung von Absatz 1 kann das Arbeitsverhältnis aufgelöst werden:
 [^20b-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^20b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
+#### Art. 20c
+
+**Beschäftigung über das ordentliche Rücktrittsalter hinaus**[^20c-1]
+
+### (Art. 10 Abs. 2 BPG)
+
+<sup>1</sup> Die zuständige Stelle nach Artikel 2 kann nach Beendigung des Arbeitsverhältnisses infolge Erreichens der Altersgrenze nach Artikel 21 AHVG[^20c-2] im Einvernehmen mit der betroffenen Person das Arbeitsverhältnis weiterführen.
+
+<sup>2</sup> Mitarbeiterinnen haben nach Beendigung des Arbeitsverhältnisses infolge Erreichens der Altersgrenze nach Artikel 21 AHVG den Anspruch, das Arbeitsverhältnis zu den gleichen Anstellungsbedingungen bis längstens zur Vollendung des 65. Altersjahrs weiterzuführen. Der Anspruch ist spätestens sechs Monate vor Vollendung des 64. Altersjahrs bei der zuständigen Stelle geltend zu machen.
+
+<sup>3</sup> Die Arbeitsverhältnisse nach Absatz 1 enden ohne Kündigung spätestens am Ende des Monats, in dem die Mitarbeiterin oder der Mitarbeiter das 70. Altersjahr vollendet.
+
+[^20c-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^20c-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
 ### 2. Abschnitt: Umstrukturierungen
 
 #### Art. 21
@@ -425,7 +441,7 @@ In Abweichung von Absatz 1 kann das Arbeitsverhältnis aufgelöst werden:
 
 Gegenüber der Entlassung haben Vorrang:
 
-- a.[^21-2] ...
+- a.[^21-2] …
 - b. die Weiterbeschäftigung der Mitarbeiterinnen und Mitarbeiter auf einer andern zumutbaren Stelle im ETH-Bereich;
 - c.[^21-3] die Unterstützung bei der beruflichen Neuorientierung oder bei der Suche nach einer zumutbaren Stelle ausserhalb des ETH-Bereichs;
 - d.[^21-4] die Unterstützung bei der beruflichen Weiterbildung;
@@ -442,28 +458,78 @@ Gegenüber der Entlassung haben Vorrang:
 
 #### Art. 22
 
-**Leistungen bei vorzeitiger Pensionierung**
+**Vorzeitige Pensionierung als Folge von Umstrukturierungen**[^22-1]
 
 ### (Art. 31 Abs. 5 BPG)
 
-<sup>1</sup> Im Rahmen von Umstrukturierungen können Mitarbeiterinnen und Mitarbeiter frühestens mit vollendetem 58. Altersjahr vorzeitig pensioniert werden, sofern sie keine andere zumutbare Stelle abgelehnt haben.[^22-1]
+<sup>1</sup>
+
+Im Falle von Umstrukturierungen können Mitarbeiterinnen und Mitarbeiter unter den folgenden Bedingungen vorzeitig ganz oder teilweise pensioniert werden:
+
+- a. Die angestellte Person hat das 60. Altersjahr vollendet.
+- b. Sie weist mindestens zehn ununterbrochene Anstellungsjahre bei einer Institution des ETH-Bereichs auf.
+- c. Sie kann nicht auf einer zumutbaren Stelle entsprechend ihrem bisherigen Beschäftigungsgrad weiterbeschäftigt werden.
+- d. Sie hat keine zumutbare Stelle abgelehnt.
+- e. Sie ist nicht krank, es läuft kein Invalidisierungsverfahren und es steht auch kein solches unmittelbar bevor.
 
 <sup>2</sup>
 
-Für die vorzeitige Pensionierung muss eine der folgenden Voraussetzungen erfüllt sein:
+Zudem muss mindestens eine der folgenden Bedingungen erfüllt sein:
 
 - a. Die Stelle wird aufgehoben.
-- b. Das Aufgabengebiet der Mitarbeiterin oder des Mitarbeiters müsste in unzumutbarer Weise verändert werden.
-- c. Die Stelle wird im Rahmen einer Solidaritätsaktion zugunsten jüngerer Mitarbeiterinnen und Mitarbeitern aufgehoben.
+- b. Das Aufgabengebiet der Mitarbeiterin oder des Mitarbeiters wird stark verändert und die Einführung in eine neue Technik, eine neue Organisation oder einen neuen Prozess erscheint aus sachlichen und persönlichen Gründen als nicht mehr wirtschaftlich.
+- c. Durch die vorzeitige Pensionierung muss die Stelle einer jüngeren Person nicht aufgehoben werden.
+- d. Es soll eine nachhaltige Nachfolgeregelung umgesetzt werden.
 
-<sup>3</sup> Den Mitarbeiterinnen und Mitarbeitern wird eine Rente von PUBLICA und eine nicht rückzahlbare Überbrückungsrente nach Artikel 64 des Vorsorgereglements des Vorsorgewerks ETH-Bereich vom 3. Dezember 2007[^22-2] für die Mitarbeiterinnen und Mitarbeiter des ETH-Bereichs (VR-ETH 1)[^22-3] ausgerichtet. Diese Altersrente wird wie eine Invalidenrente nach Artikel 57 VR-ETH 1 berechnet.[^22-4]
+[^22-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
-<sup>4</sup> Die beiden ETH und die Forschungsanstalten bezahlen der Pensionskasse des Bundes die durch die vorzeitige Pensionierung entstandene Deckungslücke.
+#### Art. 22a
 
-[^22-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^22-2]: [SR 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
-[^22-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^22-4]: Fassung gemäss Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 ([AS 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+**Leistungen bei vorzeitiger Pensionierung als Folge von Umstrukturierungen**[^22a-1]
+
+### (Art. 31 Abs. 5 BPG)
+
+<sup>1</sup> Ist die angestellte Person im Zeitpunkt ihrer vorzeitigen Pensionierung 60 bis 62 Jahre alt, so erhält sie die Altersrente, die ihr im Falle einer Pensionierung bei Vollendung des 63. Altersjahres zustünde, sowie eine vom Arbeitgeber vollständig finanzierte Überbrückungsrente nach Artikel 64 des Vorsorgereglements des Vorsorgewerks ETH-Bereich vom 3. Dezember 2007[^22a-2] für die Mitarbeiterinnen und Mitarbeiter des ETH-Bereichs (VR-ETH 1).
+
+<sup>2</sup> Ist die angestellte Person in diesem Zeitpunkt mindestens 63 Jahre alt, so erhält sie neben ihrer reglementarischen Altersrente die vom Arbeitgeber vollständig finanzierte Überbrückungsrente nach Artikel 64 VR-ETH 1.
+
+<sup>3</sup>
+
+Die zuständige Stelle nach Artikel 2 kann aus triftigen Gründen zusätzlich zur vorzeitigen Teil- oder Vollpensionierung die folgenden Leistungen erbringen:
+
+- a. eine höchstens hälftige Beteiligung an den Kosten für die Weiterversicherung des bisherigen versicherten Verdienstes nach Art. 33*a* BVG;
+- b. eine Beteiligung am Einkauf zur Erhöhung der Altersrente nach Artikel 33 VR-ETH 1;
+- c. eine vollständige oder teilweise Übernahme der auf das Renteneinkommen entfallenden Beiträge nach Artikel 28 der Verordnung vom 31. Oktober 1947[^22a-3] über die Alters- und Hinterlassenenversicherung, längstens aber bis zum Erreichen der Altersgrenze nach Artikel 21 AHVG[^22a-4].
+
+[^22a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^22a-2]: [SR 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
+[^22a-3]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^22a-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 22b
+
+**Leistungen bei einvernehmlicher Auflösung des Arbeitsverhältnisses**[^22b-1]
+
+### (Art. 19 Abs. 4 BPG)
+
+<sup>1</sup>
+
+Der Arbeitgeber kann der angestellten Person, die das 60. Altersjahr vollendet hat, die Leistungen nach Artikel 22*a* Absatz 3 sowie eine höhere Beteiligung an der Finanzierung der Überbrückungsrente, als nach Anhang 5 vorgesehen ist, auch dann erbringen, wenn:
+
+- a. das Arbeitsverhältnis aus betrieblichen oder personalpolitischen Gründen einvernehmlich aufgelöst wird; und
+- b. kein Kündigungsgrund nach Artikel 10 Absatz 3 Buchstaben a–d und f oder Absatz 4 BPG vorliegt.
+
+<sup>2</sup>
+
+Betriebliche oder personalpolitische Gründe bestehen namentlich dann, wenn:
+
+- a. beabsichtigt wird, die Stelle aufzuheben;
+- b. eine nachhaltige Nachfolgeregelung umgesetzt werden soll;
+- c. die Einführung in eine neue Technik, Organisation oder einen neuen Prozess aus sachlichen und persönlichen Gründen als nicht mehr wirtschaftlich erscheint.
+
+<sup>3</sup> Die Leistungen dürfen insgesamt einen Jahreslohn nicht übersteigen.
+
+[^22b-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 23
 
@@ -571,11 +637,37 @@ Die Leistungen der Mitarbeiterinnen und Mitarbeiter werden wie folgt beurteilt:
 
 ### (Art. 16 BPG)
 
-<sup>1</sup> Der ETH-Rat prüft gemeinsam mit den Sozialpartnern jährlich die Beträge und die Abstufung der Lohnskala nach Anhang 2 und passt diese bei Bedarf im Rahmen der verfügbaren Mittel an.
+<sup>1</sup> Der ETH-Rat beschliesst nach Verhandlungen mit den Sozialpartnern im Rahmen der verfügbaren Mittel jährlich, ob und wie auf der Lohnskala nach Anhang 2 die Teuerung ausgeglichen oder eine Reallohnerhöhung gewährt wird.
 
 <sup>2</sup> Bei einer Anpassung der Lohnskala werden insbesondere der Arbeitsmarkt und die Teuerung berücksichtigt.
 
-[^28-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 29. Juni 2005, vom BR genehmigt am 23. Sept. 2005 und in Kraft seit 1. Jan. 2006 ([AS 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+<sup>3</sup> Entsprechen die vom ETH-Rat beschlossenen Lohnmassnahmen höchstens denjenigen des Bundesrats für das Bundespersonal, so kann auf eine Teilrevision dieser Verordnung verzichtet werden.
+
+[^28-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+
+#### Art. 28a
+
+**Teuerungsausgleich**[^28a-1]
+
+### (Art. 16 BPG)
+
+<sup>1</sup>
+
+Der Teuerungsausgleich wird ausgerichtet auf:
+
+- a. den Lohn;
+- b. die ergänzenden Leistungen zur Familienzulage.
+
+<sup>2</sup>
+
+Die Institutionen passen folgende Zulagen an, wenn die seit der letzten Anpassung aufgelaufene Teuerung dies rechtfertigt:
+
+- a. die Vergütungen für Sonntags- und Nachtarbeit;
+- b. die Vergütungen für Pikettdienst;
+- c. die Funktionszulagen;
+- d. die Sonderzulagen.
+
+[^28a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 29
 
@@ -744,6 +836,47 @@ Der Anspruch auf Lohnfortzahlung bei Arbeitsunfähigkeit infolge von Krankheit o
 
 <sup>4</sup> Zur Aufnahme von Kindern bis zum sechsten Altersjahr und von behinderten Kindern zur späteren Adoption besteht Anspruch auf Arbeitsaussetzung bei voller Lohnfortzahlung während zwei Monaten. Absatz 3 ist sinngemäss anwendbar.
 
+#### Art. 37a
+
+**Vaterschaftsurlaub, Urlaub der eingetragenen Partnerin oder des eingetragenen Partners und Adoptionsurlaub**[^37a-1]
+
+### (Art. 17*a* BPG)
+
+<sup>1</sup>
+
+Ein Anspruch auf einen bezahlten Urlaub von zwanzig Arbeitstagen bei voller Lohnfortzahlung besteht:
+
+- a. für den rechtlichen Vater bei der Geburt eines oder mehrerer eigener Kinder;
+- b. in einer eingetragenen Partnerschaft für die Partnerin oder den Partner bei der Geburt eines oder mehrerer Kinder der anderen Partnerin oder des anderen Partners;
+- c. für den Adoptivvater bei einer Adoption eines oder mehrerer Kinder nach Artikel 37 Absatz 4.
+
+<sup>2</sup> Zehn Tage des Urlaubs sind in den ersten sechs Monaten nach der Geburt oder der Adoption zu beziehen, die restlichen zehn Tage innerhalb von zwölf Monaten. Der Urlaub kann tageweise oder kumuliert bezogen werden.
+
+[^37a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+
+#### Art. 37b
+
+**Urlaub für die Betreuung eines gesundheitlich schwer beeinträchtigten Kindes**[^37b-1]
+
+### (Art. 17*a* BPG)
+
+<sup>1</sup> Bei einer Arbeitsaussetzung für die Betreuung eines Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, werden der Mitarbeiterin oder dem Mitarbeiter während höchstens 14 Wochen der volle Lohn und die Sozialzulagen ausgerichtet.
+
+<sup>2</sup>
+
+Ein Kind ist gesundheitlich schwer beeinträchtigt, wenn:
+
+- a. eine einschneidende Veränderung seines körperlichen oder psychischen Zustandes eingetreten ist;
+- b. der Verlauf oder der Ausgang dieser Veränderung schwer vorhersehbar ist oder mit einer bleibenden oder zunehmenden Beeinträchtigung oder dem Tod zu rechnen ist;
+- c. ein erhöhter Bedarf an Betreuung durch die Eltern besteht; und
+- d. mindestens ein Elternteil die Erwerbstätigkeit für die Betreuung des Kindes unterbrechen muss.
+
+<sup>3</sup> Der Betreuungsurlaub ist innerhalb von 18 Monaten seit dem ersten Tag der Arbeitsaussetzung nach Absatz 1 zu beziehen.
+
+<sup>4</sup> Pro Krankheitsfall oder Unfall entsteht nur ein Anspruch. Ein Rückfall, der nach einer mindestens 12 Monate dauernden beschwerdefreien Zeit eintritt, gilt als neues Ereignis.
+
+[^37b-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+
 #### Art. 38
 
 **Lohnfortzahlung bei Militär-, Zivilschutz- und zivilem Ersatzdienst**
@@ -771,7 +904,7 @@ Bei Invalidität als Folge eines Berufsunfalls oder einer gleichzustellenden Ber
 - a.[^39-2] 100 Prozent des massgebenden Lohnes bei gänzlicher Erwerbsunfähigkeit bis zum Erreichen der Altersgrenze nach Artikel 21 AHVG[^39-3];
 - b. bei teilweiser Erwerbsunfähigkeit der dem Invaliditätsgrad gemäss Bundesgesetz vom 20. März 1981[^39-4] über die Unfallversicherung entsprechende Anteil.
 
-<sup>2</sup> ...[^39-5]
+<sup>2</sup> …[^39-5]
 
 <sup>3</sup> Versicherungsleistungen werden angerechnet.
 
@@ -783,26 +916,9 @@ Bei Invalidität als Folge eines Berufsunfalls oder einer gleichzustellenden Ber
 
 #### Art. 39a
 
-**Berufsinvalidität**[^39a-1]
+[^39a-1]
 
-### (Art. 32*j* Abs. 2 BPG)
-
-<sup>1</sup>
-
-Die zuständige Stelle nach Artikel 2 beantragt für Mitarbeiterinnen und Mitarbeiter die Ausrichtung einer Berufsinvalidenleistung nach dem VR-ETH 1[^39a-2], wenn:[^39a-3]
-
-- a. sie das 50. Altersjahr vollendet haben;
-- b.[^39a-4] die auf Antrag der zuständigen Stelle nach Artikel 2 durchgeführte vertrauensärztliche Abklärung ergibt, dass jemand aus gesundheitlichen Gründen nicht oder nur noch teilweise fähig ist, die bisherige oder eine andere zumutbare Beschäftigung auszuüben;
-- c. ein rechtskräftiger Entscheid der zuständigen IV-Stelle vorliegt, wonach kein Anspruch oder nur ein Teilanspruch auf eine Rente besteht; und
-- d. Eingliederungsmassnahmen nach Artikel 47*a* ohne ihr Verschulden erfolglos geblieben sind.
-
-<sup>2</sup> Die Einzelheiten der Berufsinvalidenleistung sowie deren Art und Höhe richten sich nach dem Vorsorgereglement VR-ETH 1.[^39a-5]
-
-[^39a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 ([AS 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
-[^39a-2]: [SR 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
-[^39a-3]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^39a-4]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^39a-5]: Eingefügt durch Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^39a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 ([AS 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)). Aufgehoben durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und mit Wirkung seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 40
 
@@ -822,50 +938,40 @@ Die zuständige Stelle nach Artikel 2 beantragt für Mitarbeiterinnen und Mitarb
 
 ### (Art. 31 Abs. 1–3 BPG)
 
-<sup>1</sup> Die Familienzulage wird bis zum Ende des Monats ausgerichtet, in dem das Kind das 16. Altersjahr vollendet hat.
+Der Anspruch auf Familienzulage richtet sich nach Artikel 3 des Familienzulagengesetzes vom 24. März 2006[^41-2] (FamZG).
 
-<sup>2</sup> Für in Ausbildung stehende Kinder wird sie längstens bis zum Ende des Monats ausgerichtet, in dem das 25. Altersjahr vollendet ist.
-
-<sup>3</sup> Für erwerbsunfähige Kinder (Art. 7 des BG vom 6. Okt. 2000[^41-2] über den Allgemeinen Teil des Sozialversicherungsrechts) wird sie längstens bis zum Ende des Monats ausgerichtet, in dem das 20. Altersjahr vollendet ist.
-
-<sup>4</sup> ...[^41-3]
-
-[^41-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^41-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^41-3]: Aufgehoben durch Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und mit Wirkung seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^41-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^41-2]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 41a
 
-**Ergänzende Leistungen zur kantonalen Familienzulage**[^41a-1]
+**Ergänzende Leistungen zur Familienzulage**[^41a-1]
 
-### (Art. 31 Abs. 1–3 BPG)
-
-[^41a-2]
+### (Art. 31 Abs. 1−3 BPG)
 
 <sup>1</sup>
 
-Die zuständige Stelle nach Artikel 2 richtet den Mitarbeiterinnen und Mitarbeitern ergänzende Leistungen zur kantonalen Familienzulage aus, sofern diese tiefer ist als jährlich:[^41a-3]
+Die zuständige Stelle nach Artikel 2 richtet den Mitarbeiterinnen und Mitarbeitern ergänzende Leistungen zur Familienzulage aus. Der Gesamtbetrag aus den Familienzulagen nach FamZG[^41a-2], den kantonalen Familienzulagen und der ergänzenden Leistung beträgt jährlich höchstens:
 
 - a. 4519 Franken für das erste zulagenberechtigte Kind;
-- b. 2919 Franken für jedes weitere zulagenberechtigte Kind;
-- c. 3298 Franken für jedes weitere zulagenberechtigte Kind, welches das 16. Altersjahr vollendet hat und in Ausbildung steht oder erwerbsunfähig ist.[^41a-4]
+- b. 2919 Franken für jedes weitere zulagenberechtigte Kind, für welches ein Anspruch nach Artikel 3 Absatz 1 Buchstabe a FamZG besteht.
+- c. 3298 Franken für jedes weitere zulagenberechtigte Kind, für welches ein Anspruch nach Artikel 3 Absatz 1 Buchstabe b FamZG besteht.
 
-<sup>2</sup>
+<sup>2</sup> Sind die Familienzulagen nach FamZG und die kantonalen Familienzulagen zusammen höher als der Betrag nach Absatz 1 Buchstaben a–c, so besteht kein Anspruch auf eine ergänzende Leistung.
 
-Die Höhe der ergänzenden Leistungen entspricht der Differenz zwischen dem massgebenden Betrag nach Absatz 1 und den im Familienzulagengesetz vom 24. März 2006[^41a-5] (FamZG) festgehaltenen Mindestansätzen. Dabei werden zur Familienzulage hinzugerechnet:
+<sup>3</sup>
 
-- a. von anderen Personen für das selbe Kind geltend gemachte Familienzulagen nach dem FamZG;
-- b. von der Mitarbeiterin, dem Mitarbeiter oder anderen Personen für das selbe Kind bei anderen Arbeitgebern oder einer anderen zuständigen Stelle geltend gemachte Familien-, Kinder-, Ausbildungs- oder Betreuungszulagen.
+Von der ergänzenden Leistung werden folgende Familienzulagen abgezogen:
 
-<sup>3</sup> Mitarbeiterinnen und Mitarbeiter mit einem Beschäftigungsgrad von weniger als 50 Prozent oder welche den Mindestlohn für Kinderzulagen (Art. 13 Abs. 3 FamZG) nicht erreichen, erhalten keine ergänzenden Leistungen.
+- a. von anderen Personen für dasselbe Kind geltend gemachte Familienzulagen nach FamZG und den kantonalen Familienzulagenordnungen;
+- b. von der Mitarbeiterin, dem Mitarbeiter oder anderen Personen für dasselbe Kind bei anderen Arbeitgebern oder einer anderen Stelle geltend gemachte obligatorische und überobligatorische Familien-, Kinder-, Ausbildungs- oder Betreuungszulagen.
 
-<sup>4</sup> Die ergänzenden Leistungen zur Familienzulage werden an die Teuerung angepasst.
+<sup>4</sup> Mitarbeiterinnen und Mitarbeiter mit einem Beschäftigungsgrad von weniger als 50 Prozent oder welche den Mindestlohn für Kinderzulagen (Art. 13 Abs. 3 FamZG) nicht erreichen, erhalten die ergänzenden Leistungen nur bei Vorliegen eines Härtefalls. Haben mehrere angestellte Personen für das gleiche Kind Anspruch auf Familienzulagen, so werden ihnen die ergänzenden Leistungen ausbezahlt, wenn der Beschäftigungsgrad insgesamt mindestens 50 Prozent beträgt.
 
-[^41a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^41a-2]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^41a-3]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^41a-4]: Fassung gemäss Ziff. I der V des ETH-Rates vom 12. Dez. 2019, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Jan. 2020 ([AS 2020 3617](https://fedlex.data.admin.ch/eli/oc/2020/653)).
-[^41a-5]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+<sup>5</sup> Die ergänzenden Leistungen zur Familienzulage werden an die Teuerung angepasst.
+
+[^41a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)). Fassung gemäss Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^41a-2]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 41b
 
@@ -893,23 +999,49 @@ Die Höhe der ergänzenden Leistungen entspricht der Differenz zwischen dem mass
 
 <sup>4</sup> Im Übrigen gelten die Bestimmungen des VR-ETH 1[^42-4].
 
-[^42-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 ([AS 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+[^42-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 (AS **200****8** 2293).
 [^42-2]: [SR 172.222.1](https://fedlex.data.admin.ch/eli/cc/2007/313)
 [^42-3]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^42-4]: [SR 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
 
 #### Art. 42a
 
-**Überbrückungsrente**[^42a-1]
+**Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente**[^42a-1]
 
 ### (Art. 32k Abs. 2 BPG)
 
-<sup>1</sup> Bezieht eine Person eine ganze oder halbe Überbrückungsrente nach dem VR‑ETH 1[^42a-2], so übernimmt der Arbeitgeber einen Teil der Kosten zur Finanzierung der effektiv bezogenen Überbrückungsrente. Die Höhe der Arbeitgeberbeteiligung richtet sich nach Anhang 5.
+<sup>1</sup> Personen, die sich vor dem Rentenalter nach Artikel 21 AHVG[^42a-2] pensionieren lassen, können eine reglementarische Überbrückungsrente beziehen.
 
-<sup>2</sup> Kein Anspruch auf die Arbeitgeberbeteiligung besteht, wenn das Arbeitsverhältnis unmittelbar vor dem Altersrücktritt weniger als fünf Jahre gedauert hat.
+<sup>2</sup>
 
-[^42a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 ([AS 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
-[^42a-2]: [SR 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
+Der Arbeitgeber beteiligt sich an der Finanzierung der Überbrückungsrente, wenn die angestellte Person:
+
+- a. freiwillig ganz oder teilweise pensioniert wird;
+- b. das 62. Altersjahr vollendet hat;
+- c. unmittelbar vor der Pensionierung mindestens fünf Jahre für eine Institution des ETH-Bereichs gearbeitet hat;
+- d. in einer Funktion tätig war, die während mindestens fünf Jahren mit einer andauernd hohen physischen oder psychischen Belastung verbunden ist; und
+- e. die Ausrichtung einer ganzen oder halben Überbrückungsrente verlangt.
+
+<sup>3</sup>
+
+Tätigkeiten nach Absatz 2 Buchstabe d liegen namentlich in den folgenden Fällen vor:
+
+- a. Tätigkeiten mit physikalischen, chemischen oder biologischen Einflüssen, die zu einer Gesundheitsgefährdung führen können;
+- b. Tätigkeiten in einer schwierigen Arbeitsumgebung, namentlich bei extremen Temperaturen, rauen klimatischen Bedingungen oder schlechten Lichtverhältnissen;
+- c. Tätigkeiten mit erhöhten Belastungen für den Bewegungsapparat;
+- d. Tätigkeiten mit einer erhöhten Unfallgefahr;
+- e. stark repetitive, einseitige oder emotional belastende Tätigkeiten, die zu einer hohen psychischen Belastung führen können;
+- f. Tätigkeiten, die aufgrund ihrer Ausrichtung mit starker psychischer Belastung verbunden sind, die sich aus hohem Leistungs-, Erwartungs- oder Innovationsdruck oder aus der steten Notwendigkeit zur Anpassung an neuste, wenig erprobte Technologien und Techniken ergibt;
+- g. Tätigkeiten mit belastenden Arbeitszeiten, wie Einsätze im Rahmen von festen Dienstplänen oder Nachtarbeit.
+
+<sup>4</sup> Der ETH-Rat legt im Einvernehmen mit den beiden Hochschulen und den Forschungsanstalten die Funktionen fest, bei deren Ausübung ein Anspruch auf Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente besteht.
+
+<sup>5</sup> Die prozentuale Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente richtet sich nach Anhang 5.
+
+<sup>6</sup> Die für das Arbeitsverhältnis zuständige Stelle nach Artikel 2 prüft die Anspruchsvoraussetzungen und berechnet den durchschnittlichen Beschäftigungsgrad dieser Person.
+
+[^42a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 ([AS 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)). Fassung gemäss Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^42a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### 3. Abschnitt: Weitere Leistungen
 
@@ -923,7 +1055,7 @@ Die Höhe der ergänzenden Leistungen entspricht der Differenz zwischen dem mass
 
 <sup>2</sup> Im Einvernehmen mit der zuständigen Stelle können die Mitarbeiterinnen und Mitarbeiter eigene Geräte, Materialien und Schutzkleider verwenden. Es kann dafür eine Entschädigung vereinbart werden.
 
-<sup>3</sup> ...[^43-1]
+<sup>3</sup> …[^43-1]
 
 [^43-1]: Aufgehoben durch Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und mit Wirkung seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
@@ -947,11 +1079,12 @@ Die Höhe der ergänzenden Leistungen entspricht der Differenz zwischen dem mass
 
 <sup>1</sup> Nach dem 10. und dem 15. Anstellungsjahr wird eine Treueprämie im Umfang eines halben Monats bezahlten Urlaubs oder eines halben Monatslohns ausgerichtet. Nach dem 20. Anstellungsjahr und nach je fünf weiteren Anstellungsjahren wird eine Treueprämie im Umfang eines Monats bezahlten Urlaubs oder eines Monatslohns ausgerichtet.
 
-<sup>2</sup> Bei unbefristeten Anstellungsverhältnissen wird nach dem 5. Anstellungsjahr eine Treueprämie im Umfang einer Woche bezahlten Urlaubs ausgerichtet.
+<sup>2</sup> …[^45-1]
 
-<sup>3</sup> Der bezahlte Urlaub ist innerhalb von fünf Jahren zu beziehen danach verfällt der Anspruch.[^45-1]
+<sup>3</sup> Der bezahlte Urlaub ist innerhalb von fünf Jahren zu beziehen danach verfällt der Anspruch.[^45-2]
 
-[^45-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^45-1]: Aufgehoben durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und mit Wirkung seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^45-2]: Eingefügt durch Ziff. I der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 
 #### Art. 46
 
@@ -1085,7 +1218,7 @@ Die ortsüblichen Feiertage sind arbeitsfrei.
 <table>
 <tr><td>a. für die eigene Heirat</td><td>6 Tage</td></tr>
 <tr><td>b. für die Heirat von Familienangehörigen</td><td>1 Tag</td></tr>
-<tr><td>c.[^52-2] bei Geburt eines eigenen Kindes (Vaterschaftsurlaub)</td><td>10 Tage</td></tr>
+<tr><td>c.[^52-2] …</td><td></td></tr>
 <tr><td>d.[^52-3] für die erste Pflege und die Organisation der weiteren Pflege von Kranken im eigenen Haushalt oder der eigenen Eltern, sofern keine andere Betreuungsmöglichkeit vorhanden ist</td><td>die erforderliche Zeit bis 3 Tage pro Ereignis</td></tr>
 <tr><td>e. für die Erledigung wichtiger schulischer Angelegenheiten und medizinischer Abklärungen für Kinder unter 16 durch Erziehende</td><td>bis 5 Tage pro Kalenderjahr</td></tr>
 <tr><td>f. für den Wohnungswechsel</td><td>1 Tag pro Kalenderjahr</td></tr>
@@ -1104,10 +1237,10 @@ Die ortsüblichen Feiertage sind arbeitsfrei.
 
 <sup>4</sup> Für die Erledigung privater Angelegenheiten wird kein bezahlter Urlaub gewährt.
 
-<sup>5</sup> ...[^52-10]
+<sup>5</sup> …[^52-10]
 
 [^52-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 6. März 2013, vom BR genehmigt am 14. Juni 2013 und in Kraft seit 1. Juli 2013 ([AS 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
-[^52-2]: Fassung gemäss Ziff. I der V des ETH-Rates vom 6. März 2013, vom BR genehmigt am 14. Juni 2013 und in Kraft seit 1. Juli 2013 ([AS 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^52-2]: Aufgehoben durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und mit Wirkung seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 [^52-3]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^52-4]: Fassung gemäss Ziff. I der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 [^52-5]: Fassung gemäss Ziff. I der V des ETH-Rates vom 11. Dez. 2008, vom BR genehmigt am 18. Febr. 2009 und in Kraft seit 1. Jan. 2009 ([AS 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
@@ -1181,7 +1314,7 @@ Als Befangenheitsgründe gelten namentlich:
 
 <sup>2</sup> Die zuständigen Stellen können mit den Mitarbeiterinnen und Mitarbeitern oder mit deren Personalvertretungen eine spezifische Gestaltung der Arbeitszeit vereinbaren.
 
-<sup>2bis</sup> Im Einvernehmen mit der zuständigen Stelle kann die Arbeitsleistung ausserhalb des Arbeitsplatzes erbracht werden.[^54-1]
+<sup>2bis</sup> Im Einvernehmen mit der zuständigen Stelle können flexible Arbeitsformen, namentlich die Erbringung der Arbeitsleistung ausserhalb des Arbeitsplatzes, vereinbart werden, soweit es die Art der Tätigkeit und die betrieblichen Bedürfnisse zulassen. Die beiden ETH, die Forschungsanstalten und der ETH-Rat können für ihr Personal die flexiblen Arbeitsformen regeln; sie vereinbaren gegebenenfalls mit ihren Mitarbeiterinnen und Mitarbeitern den Ort, an dem die Arbeitsleistung erbracht wird.[^54-1]
 
 <sup>3</sup> Reisezeiten bei Dienstreisen im Inland gelten als Arbeitszeit. Bei Auslanddienstreisen wird die vereinbarte Soll-Arbeitszeit angerechnet.[^54-2]
 
@@ -1189,7 +1322,7 @@ Als Befangenheitsgründe gelten namentlich:
 
 <sup>5</sup> Die beiden ETH und die Forschungsanstalten regeln den Schicht- und Pikettdienst in Absprache mit den Personalvertretungen.
 
-[^54-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^54-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)). Fassung gemäss Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 [^54-2]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
 #### Art. 54a
@@ -1218,18 +1351,21 @@ Als Befangenheitsgründe gelten namentlich:
 
 <sup>4</sup> Können Überstunden nicht kompensiert werden, so hat der Arbeitgeber dafür den Normallohn ohne Zuschlag zu entrichten.[^55-2]
 
-<sup>4bis</sup> Für die Kompensation und die Auszahlung der Überzeit gelten die Bestimmungen des Arbeitsgesetzes vom 13. März 1964[^55-3].[^55-4]
+<sup>4bis</sup> Für die Kompensation und die Auszahlung der Überzeit gelten die Bestimmungen des Arbeitsgesetzes vom 13. März 1964[^55-3] für Mitarbeiterinnen und Mitarbeiter, die in dessen persönlichen Geltungsbereich fallen. Nach Möglichkeit ist eine Vereinbarung für die Kompensation von geleisteter Überzeit durch Freizeit zu suchen.[^55-4]
 
 <sup>5</sup> Die beiden ETH und die Forschungsanstalten sorgen dafür, dass pro Kalenderjahr höchstens 100 Überstunden ausbezahlt und auf das folgende Kalenderjahr höchstens 100 Stunden übertragen werden.[^55-5]
 
 <sup>6</sup> Bei Angehörigen des Kaders kann die Auszahlung von Überstunden im Arbeitsvertrag wegbedungen werden.[^55-6]
 
+<sup>7</sup> Hat eine Mitarbeiterin oder ein Mitarbeiter ohne Anordnung und Wissen der zuständigen Stelle nach Artikel 2 Arbeitszeit geleistet, so kann diese nur dann als Überstunden und Überzeit anerkannt werden, wenn sie von der angestellten Person innerhalb von sechs Monaten geltend gemacht und ein entsprechender Nachweis dafür erbracht wird.[^55-7]
+
 [^55-1]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^55-2]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-2]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)). Fassung gemäss Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 [^55-3]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^55-4]: Eingefügt durch Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-4]: Eingefügt durch Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)). Fassung gemäss Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 [^55-5]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^55-6]: Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-7]: Eingefügt durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 56
 
@@ -1413,7 +1549,7 @@ Für die Aufbewahrung der Daten gelten folgende Fristen:
 Die beiden ETH und die Forschungsanstalten regeln für ihr Personal die Einzelheiten. Sie legen die Sicherheitsmassnahmen für die elektronischen Datensammlungen fest. Dabei kann mit Ausnahme von besonders schützenswerten Personendaten im Sinne von Artikel 3 Buchstabe c DSG und von Persönlichkeitsprofilen nach Artikel 3 Buchstabe d DSG der Datenzugriff im Abrufverfahren vorgesehen werden für:
 
 - a. die Zentrale Ausgleichsstelle der Alters- und Hinterlassenenversicherung zwecks Aktualisierung der individuellen Konten;
-- b.[^60-2] ...
+- b.[^60-2] …
 - c. die Pensionskasse des Bundes zwecks Aktualisierung der individuellen Konten des Personals;
 - d. die Post zwecks Überweisung der Löhne des Personals.
 
@@ -1479,7 +1615,7 @@ Folgende Erlasse werden aufgehoben:
 [^64-3]: In der AS nicht veröffentlicht.
 [^64-4]: [[AS 1994 2262](https://fedlex.data.admin.ch/eli/oc/1994/2262_2262_2262)]
 [^64-5]: Eingefügt durch Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 ([AS 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
-[^64-6]: [[AS 2002 4153](https://fedlex.data.admin.ch/eli/oc/2002/669), [2005 11](https://fedlex.data.admin.ch/eli/oc/2005/4)[2163](https://fedlex.data.admin.ch/eli/oc/2005/353)[4795](https://fedlex.data.admin.ch/eli/oc/2005/646)Ziff. II, [2007 463](https://fedlex.data.admin.ch/eli/oc/2007/94)Art. 6 Ziff. 3]
+[^64-6]: [[AS 2002 4153](https://fedlex.data.admin.ch/eli/oc/2002/669); [2005 11](https://fedlex.data.admin.ch/eli/oc/2005/4), [2163](https://fedlex.data.admin.ch/eli/oc/2005/353), [4795](https://fedlex.data.admin.ch/eli/oc/2005/646)Ziff. II; [2007 463](https://fedlex.data.admin.ch/eli/oc/2007/94)Art. 6 Ziff. 3]
 
 #### Art. 65
 
@@ -1487,7 +1623,7 @@ Folgende Erlasse werden aufgehoben:
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^65-1]
+…[^65-1]
 
 [^65-1]: Die Änderungen können unter [AS 2001 1789](https://fedlex.data.admin.ch/eli/oc/2001/279)konsultiert werden.
 
@@ -1498,6 +1634,14 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 Ansprüche auf Lohnfortzahlung bei Krankheit oder Unfall, die vor dem Inkrafttreten der Änderung vom 5. März 2020 entstanden sind, richten sich nach dem bisherigen Recht.
 
 [^65a-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 29. Juni 2005, vom BR genehmigt am 23. Sept. 2005 ([AS 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)). Fassung gemäss Ziff. I der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 65b
+
+**Übergangsbestimmung zur Änderung vom 22. September 2021**[^65b-1]
+
+Mitarbeiterinnen und Mitarbeiter, die vor dem 1. Januar 2022 das 59. Altersjahr vollendet haben und sich spätestens am 1. Januar 2025 vorzeitig pensionieren lassen, können die Überbrückungsrente nach bisheriger Regelung in Anspruch nehmen.
+
+[^65b-1]: Eingefügt durch Ziff. I der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 ### 4. Abschnitt: Inkrafttreten
 
@@ -1513,9 +1657,9 @@ Anhang 1*[^t-2]*
 
 [^t-2]: Fassung gemäss Ziff. II der V des ETH-Rates vom 5. März 2020, vom BR genehmigt am 19. Aug. 2020 und in Kraft seit 1. Okt. 2020 ([AS 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/de/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/de/xml/image/image2.png)
 
 Anhang 2*[^t-3]*
 
@@ -1670,14 +1814,12 @@ Anhang 5*[^t-6]*
 
 ## Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente
 
-[^t-6]: Eingefügt durch Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 und in Kraft seit 1. Juli 2008 ([AS 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+[^t-6]: Eingefügt durch Ziff. I der V des ETH-Rates vom 2. Okt. 2007, vom BR genehmigt am 14. Mai 2008 ([AS 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)). Fassung gemäss Ziff. II der V des ETH-Rates vom 22. Sept. 2021, vom BR genehmigt am 3. Dez. 2021 und in Kraft seit 1. Jan. 2022 ([AS 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 <table>
-<tr><td>Alter bei Rücktritt</td><td>Standardplan (Funktionsstufen)</td><td></td><td colspan="2"></td><td>Kaderplan 1 (Funktionsstufen)</td><td>Kaderplan 2 (Funktionsstufen)</td></tr>
-<tr><td></td><td>1 bis 3</td><td colspan="2">4 bis 6</td><td>7 bis 9</td><td>10 bis 12</td><td>13 bis 15</td></tr>
-<tr><td>60</td><td>80 %</td><td colspan="2">55 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>61</td><td>85 %</td><td colspan="2">60 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>62</td><td>90 %</td><td colspan="2">70 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>63</td><td>95 %</td><td colspan="2">75 %</td><td>55 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>64</td><td>100 %</td><td colspan="2">80 %</td><td>60 %</td><td>50 %</td><td>50 %</td></tr>
+<tr><td>Alter bei Rücktritt</td><td>Standardplan (Funktionsstufen)</td><td></td><td></td><td>Kaderplan 1 (Funktionsstufen)</td><td>Kaderplan 2 (Funktionsstufen)</td></tr>
+<tr><td></td><td>1 bis 3</td><td>4 bis 6</td><td>7 bis 9</td><td>10 bis 12</td><td>13 bis 15</td></tr>
+<tr><td>62</td><td>80 %</td><td>60%</td><td>45 %</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>63</td><td>85 %</td><td>65 %</td><td>50%</td><td>45 %</td><td>45 %</td></tr>
+<tr><td>64</td><td>90 %</td><td>70 %</td><td>55 %</td><td>50 %</td><td>50 %</td></tr>
 </table>

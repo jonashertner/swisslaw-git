@@ -4,11 +4,11 @@ title: "Ordonnance du Conseil des EPF du 15 mars 2001 sur le personnel du domain
 short: OPers-EPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/279"
 language: fr
-version: 2020-10-01
+version: 2022-01-01
 adopted: 2001-03-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/fr/xml/fedlex-data-admin-ch-eli-cc-2001-279-20201001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20201001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-279-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20201001/fr"
 
 (Ordonnance sur le personnel du domaine des EPF, OPers-EPF)**[^t-1]**
 
-du 15 mars 2001 (Etat le 1<sup>er</sup> octobre 2020)
+du 15 mars 2001 (Etat le 1<sup>er</sup> janvier 2022)
 
 adoptée par le Conseil fédéral le 25 avril 2001
 
@@ -44,16 +44,17 @@ arrête:
 
 <sup>2</sup> Ne sont pas soumis à cette ordonnance:
 
-a.[^1-1] les rapports de travail régis par l’art. 17, al. 1, de la loi du 4 octobre 1991 sur les EPF[^1-2];
+a.[^1-1] les rapports de travail régis par l’art. 16*b*, al. 1,[^1-2] de la loi du 4 octobre 1991 sur les EPF[^1-3];
 
-- a<sup>bis</sup>.[^1-3] les rapports de travail des professeurs ordinaires, associés, ou assistants des deux EPF, sauf si l’ordonnance du 18 septembre 2003 sur le corps professoral des EPF[^1-4] renvoie expressément à la présente ordonnance.
-- b. les apprentis, qui relèvent de la loi fédérale du 19 avril 1978 sur la formation professionnelle[^1-5].
+- a<sup>bis</sup>.[^1-4] les rapports de travail des professeurs ordinaires, associés, ou assistants des deux EPF, sauf si l’ordonnance du 18 septembre 2003 sur le corps professoral des EPF[^1-5] renvoie expressément à la présente ordonnance.
+- b. les apprentis, qui relèvent de la loi fédérale du 19 avril 1978 sur la formation professionnelle[^1-6].
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 24 mars 2004, approuvée par le CF le 23 juin 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
-[^1-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^1-3]: Introduite par le ch. I de l’O du Conseil des EPF du 24 mars 2004, approuvée par le CF le 23 juin 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
-[^1-4]: [RS 172.220.113.40](https://fedlex.data.admin.ch/eli/cc/2003/747)
-[^1-5]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4,[1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]. Actuellement: LF du 13 déc. 2002 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+[^1-2]: Le renvoi a été adapté au 1<sup>er</sup> nov. 2021 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^1-3]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^1-4]: Introduite par le ch. I de l’O du Conseil des EPF du 24 mars 2004, approuvée par le CF le 23 juin 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^1-5]: [RS 172.220.113.40](https://fedlex.data.admin.ch/eli/cc/2003/747)
+[^1-6]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4,[1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]. Actuellement: LF du 13 déc. 2002 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
 
 #### Art. 2
 
@@ -410,6 +411,21 @@ En dérogation à l’al. 1, le contrat de travail peut être résilié:
 [^20b-1]: Introduit par le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^20b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
+#### Art. 20c
+
+**Activité allant au-delà de l’âge ordinaire de la retraite**[^20c-1]
+
+### (art. 10, al. 2, LPers)
+
+<sup>1</sup> Lorsque les rapports de travail ont pris fin parce que la personne concernée atteint l’âge de la retraite au sens de l’art. 21 de la LAVS[^20c-2], l’autorité compétente en vertu de l’art. 2 peut, en accord avec la personne concernée, prolonger les rapports de travail.
+
+<sup>2</sup> Les collaboratrices dont les rapports de travail ont pris fin parce qu’elles ont atteint l’âge de la retraite au sens de l’art. 21 LAVS ont droit à la prolongation de leurs rapports de travail aux mêmes conditions d’engagement jusqu’à ce qu’elles aient atteint l’âge de 65 ans. La demande doit être faite auprès de l’autorité compétente au plus tard six mois avant que l’âge de 64 ans soit atteint.
+
+<sup>3</sup> Les rapports de travail visés à l’al. 1 prennent fin sans résiliation au plus tard à la fin du mois au cours duquel la personne concernée atteint l’âge de 70 ans.
+
+[^20c-1]: Introduit par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^20c-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
 ### Section 2 Restructurations
 
 #### Art. 21
@@ -443,27 +459,78 @@ Ont priorité sur le licenciement:
 
 #### Art. 22
 
-**Prestations en cas de retraite anticipée**
+**Retraite anticipée pour cause de restructuration**[^22-1]
 
 ### (art. 31, al. 5, LPers)
 
-<sup>1</sup> Dans le cadre de restructurations, les collaborateurs peuvent prendre une retraite anticipée au plus tôt à l’âge de 58 ans, pour autant qu’ils n’aient pas refusé un autre travail pouvant être raisonnablement exigé d’eux.[^22-1]
+<sup>1</sup>
+
+En cas de restructuration, le collaborateur peut prendre une retraite anticipée complète ou partielle si les conditions suivantes sont remplies:
+
+- a. il a atteint l’âge de 60 ans;
+- b. il a travaillé pendant au moins dix ans sans interruption dans une institution du domaine des EPF;
+- c. il ne peut pas être affecté à un autre travail pouvant raisonnablement être exigé de lui et correspondant à son taux d’occupation;
+- d. il n’a pas refusé de travail pouvant raisonnablement être exigé de lui;
+- e. il n’est pas malade et aucune procédure de mise en invalidité n’est en cours ou ne sera bientôt ouverte.
 
 <sup>2</sup>
 
-Le départ à la retraite anticipée est soumis à l’une des conditions suivantes:
+En outre, au moins l’une des conditions suivantes doit être remplie:
 
-- a. que le poste soit supprimé;
-- b. que le secteur d’activités des collaboratrices et des collaborateurs soit modifié d’une façon inacceptable;
-- c. que le poste soit supprimé dans le cadre d’une action de solidarité en faveur des jeunes collaborateurs.
+- a. le poste est supprimé;
+- b. le domaine d’activité du collaborateur subit de fortes modifications et l’initiation à une nouvelle technique, à une nouvelle organisation ou à un nouveau processus ne semble plus rationnelle, pour des raisons objectives ou personnelles;
+- c. la retraite anticipée du collaborateur permet de ne pas supprimer le poste d’une personne plus jeune;
+- d. la succession du collaborateur doit être durablement réglée.
 
-<sup>3</sup> Les collaborateurs ayant pris une retraite anticipée perçoivent une rente de PUBLICA et une rente transitoire non remboursable, conformément à l’art. 64 du règlement de prévoyance de la Caisse de prévoyance du domaine des EPF du 3 décembre 2007 pour le personnel du domaine des EPF (RP-EPF 1)[^22-2]. Cette rente de vieillesse est calculée selon l’art. 57 RP-EPF 1 au même titre qu’une rente d’invalidité.[^22-3]
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
-<sup>4</sup> Les deux EPF et les instituts de recherche paient à la Caisse fédérale de pensions le capital de couverture manquant du fait de la mise à la retraite anticipée.
+#### Art. 22a
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^22-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191). Le renvoi a été adapté en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
-[^22-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+**Prestations en cas de retraite anticipée pour cause de restructuration**[^22a-1]
+
+### (art. 31, al. 5, LPers)
+
+<sup>1</sup> Si le collaborateur a entre 60 et 62 ans au moment de sa retraite anticipée, il perçoit la rente de vieillesse qui lui reviendrait en cas de départ à la retraite à 63 ans révolus, ainsi qu’une rente transitoire intégralement financée par l’employeur selon l’art. 64 du règlement de prévoyance de la Caisse de prévoyance du domaine des EPF du 3 décembre 2007 pour le personnel du domaine des EPF (RP-EPF 1)[^22a-2].
+
+<sup>2</sup> Si le collaborateur a au moins 63 ans à cette date, il perçoit, outre sa rente de vieillesse réglementaire, la rente transitoire entièrement financée par l’employeur selon l’art. 64 RP-EPF 1.
+
+<sup>3</sup>
+
+L’autorité compétente en vertu de l’art. 2 peut, pour des raisons pertinentes, fournir les prestations suivantes en sus de la retraite anticipée partielle ou complète:
+
+- a. une participation, à hauteur de 50 % au maximum, aux coûts de maintien de la prévoyance au niveau du dernier gain assuré selon l’art. 33*a* LPP;
+- b. une participation au rachat visant à augmenter la rente de vieillesse selon l’art. 33 RP-EPF 1;
+- c. une prise en charge complète ou partielle des cotisations sur le revenu tiré des rentes selon l’art. 28 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^22a-3], mais au plus tard jusqu’à l’âge donnant droit à une rente de vieillesse au sens de l’art. 21 LAVS[^22a-4].
+
+[^22a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^22a-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
+[^22a-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^22a-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 22b
+
+**Prestations en cas de résiliation d’un commun accord des rapports de travail**[^22b-1]
+
+### (art. 19, al. 4, LPers)
+
+<sup>1</sup>
+
+L’employeur peut aussi fournir aux collaborateurs âgés de 60 ans révolus les prestations visées à l’art. 22*a*, al. 3, et une participation plus élevée au financement d’une rente transitoire que ce que prévoit l’annexe 5:
+
+- a. si les rapports de travail sont résiliés d’un commun accord pour des raisons d’exploitation ou de politique du personnel, et
+- b. s’il n’existe pas de motif de résiliation selon l’art. 10, al. 3, let. a à d et f, ou al. 4, LPers.
+
+<sup>2</sup>
+
+Des raisons d’exploitation ou de politique du personnel existent notamment si:
+
+- a. la suppression du poste est prévue;
+- b. le règlement durable de la succession du collaborateur l’exige;
+- c. l’initiation à une nouvelle technique, une nouvelle organisation ou un nouveau processus ne semble plus rationnelle, pour des raisons objectives ou personnelles.
+
+<sup>3</sup> Les prestations ne doivent pas excéder au total un salaire annuel.
+
+[^22b-1]: Introduit par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 23
 
@@ -571,11 +638,37 @@ Les prestations des collaborateurs sont appréciées comme suit:
 
 ### (art. 16 LPers)
 
-<sup>1</sup> Le Conseil des EPF examine chaque année avec ses partenaires sociaux les montants et l’échelonnement des salaires de l’annexe 2, et les ajuste au besoin dans les limites des ressources disponibles.
+<sup>1</sup> Après avoir négocié avec les partenaires sociaux, le Conseil des EPF décide chaque année, dans les limites des ressources disponibles, si une compensation du renchérissement ou une augmentation du salaire réel est accordée sur l’échelle des salaires visée à l’annexe 2, et le cas échéant, de quelle manière.
 
-<sup>2</sup> Les ajustements tiennent notamment compte du marché de l’emploi et du renchérissement.
+<sup>2</sup> Les ajustements de l’échelle des salaires tiennent notamment compte du marché de l’emploi et du renchérissement.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 29 juin 2005, adoptée par le CF le 23 sept. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+<sup>3</sup> Si les mesures salariales décidées par le Conseil des EPF ne vont pas au-delà de celles prises par le Conseil fédéral pour le personnel de la Confédération, il est possible de renoncer à une révision partielle de la présente ordonnance.
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+
+#### Art. 28a
+
+**Compensation du renchérissement**[^28a-1]
+
+### (art. 16 LPers)
+
+<sup>1</sup>
+
+La compensation du renchérissement est versée sur:
+
+- a. le salaire;
+- b. les allocations complétant l’allocation familiale.
+
+<sup>2</sup>
+
+Les institutions adaptent les allocations suivantes lorsque le renchérissement enregistré depuis la dernière adaptation le justifie:
+
+- a. les indemnités versées pour le travail effectué le dimanche et le travail de nuit;
+- b. l’indemnité versée pour le service de permanence;
+- c. l’indemnité de fonction;
+- d. l’allocation spéciale.
+
+[^28a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 29
 
@@ -612,7 +705,7 @@ Les prestations des collaborateurs sont appréciées comme suit:
 
 Le Conseil des EPF peut, en présence de conditions particulières régnant sur le marché de l’emploi, décider du versement à certaines fonctions d’une allocation temporaire équivalant à 10 % au plus du montant maximum de l’échelon fonctionnel correspondant.
 
-[^31-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 29 juin 2005, adoptée par le CF le 23 sept. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 29 juin 2005, adoptée par le CF le 23 sept. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 (RO **2****005** 4795).
 
 #### Art. 32
 
@@ -744,6 +837,47 @@ Le droit au maintien du salaire en cas d’incapacité de travail à la suite d�
 
 <sup>4</sup> L’accueil d’enfants jusqu’à l’âge de six ans ou d’enfants handicapés en vue de leur adoption donne droit à un congé pleinement rétribué de deux mois. L’al. 3 s’applique par analogie.
 
+#### Art. 37a
+
+**Congé de paternité, congé du partenaire enregistré et congé lors de l’adoption**[^37a-1]
+
+### (art. 17*a* LPers)
+
+<sup>1</sup>
+
+Un congé payé pleinement rétribué de 20 jours de travail est accordé:
+
+- a. au père légal lors de la naissance d’un ou de plusieurs de ses enfants;
+- b. en cas de partenariat enregistré, lors de la naissance d’un ou de plusieurs enfants du partenaire;
+- c. au père adoptif lors de l’adoption d’un ou de plusieurs enfants selon l’art. 37, al. 4.
+
+<sup>2</sup> Dix jours de congé doivent être pris dans les six mois qui suivent la naissance ou l’adoption; les dix jours restants doivent être pris dans les douze mois. Le congé peut être pris en bloc ou à la journée.
+
+[^37a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+
+#### Art. 37b
+
+**Congé pour la prise en charge d’un enfant gravement atteint dans sa santé**[^37b-1]
+
+### (art. 17*a* LPers)
+
+<sup>1</sup> En cas d’absence pour cause de prise en charge d’un enfant gravement atteint dans sa santé à la suite d’une maladie ou d’un accident, le salaire intégral et les allocations sociales sont versés au collaborateur pendant 14 semaines au maximum.
+
+<sup>2</sup>
+
+L’enfant est réputé gravement atteint dans sa santé:
+
+- a. s’il a subi un changement majeur de son état physique ou psychique;
+- b. si l’évolution ou l’issue de ce changement est difficilement prévisible ou qu’il faut s’attendre à ce qu’il conduise à une atteinte durable ou croissante à l’état de santé ou au décès;
+- c. si l’enfant présente un besoin accru de prise en charge de la part des parents, et
+- d. si au moins un des deux parents doit interrompre son activité lucrative pour s’occuper de l’enfant.
+
+<sup>3</sup> Le congé de prise en charge doit être pris dans un délai de 18 mois à compter du premier jour de l’absence visée à l’al. 1.
+
+<sup>4</sup> Chaque cas de maladie ou d’accident ne donne droit qu’à un congé. Une rechute survenant après une période continue sans symptômes de 12 mois au minimum est considérée comme un nouveau cas.
+
+[^37b-1]: Introduit par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+
 #### Art. 38
 
 **Droit au salaire en cas de service militaire, de service de protection civile ou de service civil**
@@ -783,26 +917,9 @@ L’invalidité consécutive à un accident professionnel ou à une maladie prof
 
 #### Art. 39a
 
-**Invalidité professionnelle**[^39a-1]
+[^39a-1]
 
-### (art. 32*j*, al. 2, LPers)
-
-<sup>1</sup>
-
-Le service compétent selon l’art. 2 demande le versement d’une prestation d’invalidité professionnelle pour un collaborateur conformément au RP-EPF 1[^39a-2] si:[^39a-3]
-
-- a. s’il a atteint l’âge de 50 ans;
-- b.[^39a-4] l’examen effectué par le médecin-conseil à la demande du service compétent selon l’art. 2 révèle que, pour des raisons de santé, le collaborateur est incapable d’exercer ou ne peut exercer que partiellement l’activité qu’il exerçait jusqu’alors ou une autre activité pouvant raisonnablement être exigée de lui;
-- c. si une décision de l’office AI compétent excluant le droit à une rente ou ne prévoyant qu’une rente partielle est entrée en force, et
-- d. si les mesures de réadaptation prises selon l’art. 47*a* n’ont pas eu d’effet, sans qu’il y ait faute du collaborateur.
-
-<sup>2</sup> Les modalités ainsi que le type et le montant de la prestation d’invalidité professionnelle sont fixés en fonction du RP-EPF 1.[^39a-5]
-
-[^39a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
-[^39a-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
-[^39a-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^39a-4]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^39a-5]: Introduit par le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^39a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)). Abrogé par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 40
 
@@ -822,50 +939,40 @@ Le service compétent selon l’art. 2 demande le versement d’une prestation d
 
 ### (art. 31, al. 1 à 3, LPers)
 
-<sup>1</sup> L’allocation familiale est versée jusqu’à la fin du mois au cours duquel l’enfant atteint l’âge de seize ans.
+Le droit à l’allocation familiale est régi par l’art. 3 de la loi du 24 mars 2006 sur les allocations familiales (LAFam)[^41-2].
 
-<sup>2</sup> Pour les enfants suivant une formation, elle est versée au maximum jusqu’à la fin du mois au cours duquel l’enfant atteint l’âge de 25 ans.
-
-<sup>3</sup> Pour les enfants présentant une incapacité de gain (art. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales[^41-2]), elle est versée au maximum jusqu’à la fin du mois au cours duquel l’enfant atteint l’âge de 20 ans.
-
-<sup>4</sup> ...[^41-3]
-
-[^41-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^41-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^41-3]: Abrogé par le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, avec effet au 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^41-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 41a
 
-**Allocations complétant l’allocation familiale cantonale**[^41a-1]
+**Allocations complétant l’allocation familiale**[^41a-1]
 
 ### (art. 31, al. 1 à 3, LPers)
 
-[^41a-2]
-
 <sup>1</sup>
 
-L’autorité compétente en vertu de l’art. 2 verse aux collaborateurs des allocations complétant l’allocation familiale cantonale si celle-ci est inférieure aux montants annuels suivants:[^41a-3]
+L’autorité compétente en vertu de l’art. 2 verse aux collaborateurs des allocations complétant l’allocation familiale. Le montant total de l’allocation familiale selon la LAFam[^41a-2], de l’allocation familiale cantonale et des allocations complétant l’allocation familiale s’élève, par an, au maximum à:
 
 - a. 4519 francs pour le premier enfant donnant droit aux allocations;
-- b. 2919 francs pour tout enfant supplémentaire donnant droit aux allocations;
-- c. 3298 francs pour tout enfant supplémentaire donnant droit aux allocations qui a atteint l’âge de 16 ans et qui suit une formation ou présente une incapacité de gain.[^41a-4]
+- b. 2919 francs pour tout enfant supplémentaire donnant droit aux allocations prévues à l’art. 3, al. 1, let. a, LAFam.
+- c. 3298 francs pour tout enfant supplémentaire donnant droit aux allocations prévues à l’art. 3, al. 1, let. b, LAFam.
 
-<sup>2</sup>
+<sup>2</sup> Si la somme de l’allocation familiale selon la LAFam et de l’allocation familiale cantonale dépasse le montant visé à l’al. 1, let. a à c, le collaborateur n’a pas droit aux allocations complétant l’allocation familiale.
 
-Le montant des allocations complétant l’allocation familiale correspond à la différence entre le montant déterminant indiqué à l’al. 1 et le montant minimum fixé dans la loi du 24 mars 2006 sur les allocations familiales (LAFam)[^41a-5]. Sont prises en considération en tant qu’allocations familiales:
+<sup>3</sup>
 
-- a. les allocations familiales perçues pour le même enfant par d’autres personnes en application de la LAFam;
-- b. les allocations familiales, allocations pour enfants, allocations de formation professionnelle ou allocations pour charge d’assistance perçues pour le même enfant par le collaborateur ou par d’autres personnes auprès d’un autre employeur ou d’un autre service compétent.
+Les allocations familiales suivantes sont déduites des allocations complétant l’allocation familiale:
 
-<sup>3</sup> Les collaborateurs dont le taux d’activité est inférieur à 50 % ou qui ne perçoivent pas le salaire minimum donnant droit à des allocations pour enfants (art. 13, al. 3, LAFam) ne reçoivent pas d’allocations complétant l’allocation familiale.
+- a. les allocations familiales perçues pour le même enfant par d’autres personnes en application de la LAFam et des régimes cantonaux des allocations familiales;
+- b. les allocations familiales, allocations pour enfants, allocations de formation ou allocations pour charge d’assistance (obligatoires et surobligatoires) perçues pour le même enfant par le collaborateur ou par d’autres personnes auprès d’un autre employeur ou d’un autre service.
 
-<sup>4</sup> Les allocations complétant l’allocation familiale sont adaptées au renchérissement.
+<sup>4</sup> Les collaborateurs dont le taux d’occupation est inférieur à 50 % ou qui ne perçoivent pas le salaire minimum donnant droit à des allocations pour enfants (art. 13, al. 3, LAFam) reçoivent les allocations complétant l’allocation familiale seulement dans les cas de rigueur. Si plusieurs collaborateurs ont droit à des allocations familiales pour le même enfant, les allocations complétant l’allocation familiale leur sont versées pour autant que leur taux d’occupation total soit d’au moins 50 %.
 
-[^41a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^41a-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^41a-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^41a-4]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 12 déc. 2019, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2020 3617](https://fedlex.data.admin.ch/eli/oc/2020/653)).
-[^41a-5]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+<sup>5</sup> Les allocations complétant l’allocation familiale sont adaptées au renchérissement.
+
+[^41a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)). Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^41a-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 41b
 
@@ -900,16 +1007,42 @@ Le montant des allocations complétant l’allocation familiale correspond à la
 
 #### Art. 42a
 
-**Rente transitoire**[^42a-1]
+**Participation de l’employeur au financement de la rente transitoire**[^42a-1]
 
 ### (art. 32*k*, al. 2, LPers)
 
-<sup>1</sup> Si une personne perçoit une rente transitoire complète ou une demi-rente transitoire conformément au RP-EPF 1[^42a-2], l’employeur assume une partie des coûts de financement de la rente transitoire effectivement perçue. Le montant de la participation de l’employeur est réglé à l’annexe 5.
+<sup>1</sup> Le collaborateur qui prend sa retraite avant l’âge fixé à l’art. 21 LAVS[^42a-2] peut percevoir une rente transitoire réglementaire.
 
-<sup>2</sup> Il n’existe aucun droit à la participation de l’employeur si la durée des rapports de travail précédant immédiatement l’âge de la retraite est inférieure à 5 ans.
+<sup>2</sup>
 
-[^42a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
-[^42a-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
+L’employeur participe au financement de la rente transitoire si le collaborateur:
+
+- a. prend à titre volontaire une retraite complète ou partielle;
+- b. a 62 ans révolus;
+- c. a été employé, immédiatement avant sa retraite, pendant au moins cinq ans auprès d’une institution du domaine des EPF;
+- d. a exercé pendant au moins cinq ans une fonction continuellement très pénible sur le plan physique ou psychique, et
+- e. demande le versement d’une rente transitoire complète ou d’une demi-rente transitoire.
+
+<sup>3</sup>
+
+Les activités visées à l’al. 2, let. d, se présentent notamment dans les cas suivants:
+
+- a. activités en présence d’agents physiques, chimiques ou biologiques qui peuvent représenter un danger pour la santé;
+- b. activités exercées dans des conditions de travail difficiles, notamment avec des températures extrêmes, des conditions climatiques rudes ou de mauvaises conditions de lumière;
+- c. activités avec de lourdes charges pour l’appareil locomoteur;
+- d. activités présentant un risque d’accident accru;
+- e. activités très répétitives, monotones ou émotionnellement difficiles, qui peuvent conduire à un fort stress psychique;
+- f. activités qui, de par leur nature, génèrent un stress psychique important dû à la pression exercée au niveau de la performance, des attentes ou de l’innovation, ou encore à la nécessité permanente de s’adapter à des techniques et technologies très récentes et pas encore éprouvées;
+- g. activités avec des horaires contraignants, telles que des engagements effectués dans le cadre de plans de service fixes ou le travail de nuit;
+
+<sup>4</sup> Le Conseil des EPF détermine, en accord avec les deux écoles polytechniques et les établissements de recherche, les fonctions dont l’exercice donne droit à une participation de l’employeur au financement de la rente transitoire.
+
+<sup>5</sup> La participation en pourcentage de l’employeur au financement de la rente transitoire est réglée à l’annexe 5.
+
+<sup>6</sup> L’autorité compétente pour gérer les rapports de travail en vertu de l’art. 2 examine si les conditions d’octroi d’une rente transitoire sont remplies et calcule le taux d’occupation moyen du collaborateur.
+
+[^42a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)). Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^42a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### Section 3 Autres prestations
 
@@ -947,12 +1080,13 @@ Le montant des allocations complétant l’allocation familiale correspond à la
 
 <sup>1</sup> Au terme de la 10<sup>e</sup> et de la 15<sup>e</sup> année d’engagement, une prime de fidélité est octroyée sous la forme d’un demi-mois de vacances payées supplémentaires ou d’un demi-mois de salaire. Au bout de la 20<sup>e</sup> année d’engagement, et ensuite après chaque tranche de cinq années d’engagement, une prime de fidélité correspondant à un mois de vacances payées supplémentaires ou à un mois de salaire est accordée.[^45-1]
 
-<sup>2</sup> En cas de rapports de travail de durée indéterminée, une prime de fidélité sous forme d’une semaine de vacances payées est offerte après la 5<sup>e</sup> année d’engagement.
+<sup>2</sup> …[^45-2]
 
-<sup>3</sup> Ces vacances payées doivent être prises dans les cinq ans, après quoi le droit s’éteint.[^45-2]
+<sup>3</sup> Ces vacances payées doivent être prises dans les cinq ans, après quoi le droit s’éteint.[^45-3]
 
 [^45-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^45-2]: Introduit par le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^45-2]: Abrogé par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^45-3]: Introduit par le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 
 #### Art. 46
 
@@ -1035,7 +1169,7 @@ Le calcul de l’indemnité à verser doit notamment prendre en compte:
 <sup>7</sup> L’indemnité versée aux autres membres des directions des EPF ou des établissements de recherche en cas de résiliation des rapports de travail sans qu’il y ait faute de leur part ou de résiliation d’un commun accord est régie par l’art. 7, al. 4, de l’ordonnance du 19 novembre 2003 sur le domaine des EPF[^49-2].
 
 [^49-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 6 mars 2013, approuvée par le CF le 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
-[^49-2]: [RS 414.110.3](https://fedlex.data.admin.ch/eli/cc/2004/16)
+[^49-2]: RS **4****14.110.3**
 
 ### Section 4 Vacances et congés
 
@@ -1086,7 +1220,7 @@ Les jours fériés usuels au lieu de service sont des jours chômés.
 <table>
 <tr><td>a. pour son propre mariage</td><td></td><td>6 jours</td></tr>
 <tr><td>b. pour le mariage d’un membre de sa famille</td><td></td><td>1 jour</td></tr>
-<tr><td>c.[^52-2] pour la naissance de son enfant (congé de paternité)</td><td></td><td>10 jours</td></tr>
+<tr><td>c.[^52-2] …</td><td></td><td></td></tr>
 <tr><td>d.[^52-3] pour les premiers soins et l’organisation de la suite du traitement d’un malade dans son propre ménage ou de ses propres parents si tant est qu’il n’existe aucune autre possibilité de prise en charge</td><td></td><td>le temps nécessaire, jusqu’à 3 jours par événement</td></tr>
 <tr><td>e. pour des affaires scolaires importantes ou des examens médicaux concernant des enfants de moins de 16 ans, s’il assume l’éducation de ces derniers</td><td></td><td>jusqu’à 5 jours par année civile</td></tr>
 <tr><td>f. pour son propre déménagement</td><td></td><td>1 jour par année civile</td></tr>
@@ -1108,13 +1242,13 @@ Les jours fériés usuels au lieu de service sont des jours chômés.
 <sup>5</sup> …[^52-10]
 
 [^52-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 6 mars 2013, approuvée par le CF le 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
-[^52-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 6 mars 2013, approuvée par le CF le 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^52-2]: Abrogée par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 [^52-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^52-4]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 [^52-5]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 [^52-6]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 [^52-7]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^52-8]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^52-8]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 (RO **200****9** 809).
 [^52-9]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 11 déc. 2008, approuvée par le CF le 18 fév. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 [^52-10]: Abrogé par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
 
@@ -1182,7 +1316,7 @@ Sont réputés être des motifs de partialité, notamment:
 
 <sup>2</sup> Les services compétents peuvent convenir d’un aménagement particulier du temps de travail avec les collaborateurs ou les représentants du personnel.
 
-<sup>2bis</sup> En accord avec le service compétent, la prestation de travail peut être fournie en dehors du lieu de travail.[^54-1]
+<sup>2bis</sup> En accord avec l’autorité compétente, des formes de travail flexibles, en particulier l’exécution de la prestation de travail en dehors du lieu de travail, peuvent être convenues dans la mesure où la nature de l’activité et les besoins du service le permettent. Les deux EPF, les établissements de recherche et le Conseil des EPF peuvent réglementer les formes de travail flexibles admises pour leur personnel et conviennent, le cas échéant, avec leurs collaborateurs du lieu où la prestation de travail est fournie.[^54-1]
 
 <sup>3</sup> Le temps consacré aux voyages de service en Suisse est considéré comme du temps de travail. En cas de voyages de service à l’étranger, le temps de travail réglementaire convenu est pris en compte.[^54-2]
 
@@ -1190,7 +1324,7 @@ Sont réputés être des motifs de partialité, notamment:
 
 <sup>5</sup> Les deux EPF et les instituts de recherche règlent, d’entente avec les représentants du personnel, les modalités concernant le travail par équipes et le service de permanence.
 
-[^54-1]: Introduit par le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^54-1]: Introduit par le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)). Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 [^54-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
 #### Art. 54a
@@ -1219,19 +1353,22 @@ Sont réputés être des motifs de partialité, notamment:
 
 <sup>4</sup> Si les heures d’appoint ne peuvent pas être compensées, l’employeur est tenu de les payer au tarif habituel, sans supplément.[^55-3]
 
-<sup>4bis</sup> La compensation et la rétribution des heures supplémentaires sont régies par les dispositions de la loi du 13 mars 1964 sur le travail[^55-4].[^55-5]
+<sup>4bis</sup> La compensation et la rétribution des heures supplémentaires sont régies par les dispositions de la loi du 13 mars 1964 sur le travail[^55-4] pour les collaborateurs qui entrent dans son champ d’application. Dans la mesure du possible, un accord doit être trouvé afin que les heures supplémentaires effectuées soient compensées par du temps libre.[^55-5]
 
 <sup>5</sup> Les deux EPF et les établissements de recherche s’assurent que le nombre d’heures d’appoint rétribuées ne dépasse pas 100 par année et que le nombre d’heures reportées sur l’année suivante n’excède pas 100 au total.[^55-6]
 
 <sup>6</sup> La non-rétribution des heures d’appoint peut être prévue dans le contrat de travail des cadres.[^55-7]
 
-[^55-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+<sup>7</sup> Si le collaborateur a effectué des heures de travail qui n’ont pas été ordonnées et qui n’étaient pas connues de l’autorité compétente au sens de l’art. 2, celles-ci ne peuvent être reconnues comme heures d’appoint et heures supplémentaires que si le collaborateur les fait valoir dans un délai de six mois et qu’une preuve attestant les heures en question est fournie.[^55-8]
+
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 (RO **2****020** 3653).
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^55-3]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^55-4]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^55-5]: Introduit par le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-5]: Introduit par le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)). Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 [^55-6]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^55-7]: Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-8]: Introduit par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 56
 
@@ -1480,7 +1617,7 @@ Sont abrogés:
 [^64-1]: [[RO 1987 812](https://fedlex.data.admin.ch/eli/oc/1987/812_812_812)]
 [^64-2]: [[RO 1991 806](https://fedlex.data.admin.ch/eli/oc/1991/806_806_806)]
 [^64-3]: Non publié au RO.
-[^64-4]: [[RO 1994 2262](https://fedlex.data.admin.ch/eli/oc/1994/2262_2262_2262)]
+[^64-4]: [RO **19****94** 2262]
 [^64-5]: Introduit par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
 [^64-6]: [[RO 2002 4153](https://fedlex.data.admin.ch/eli/oc/2002/669), [2005 11](https://fedlex.data.admin.ch/eli/oc/2005/4)[4795](https://fedlex.data.admin.ch/eli/oc/2005/646), [2007 463](https://fedlex.data.admin.ch/eli/oc/2007/94)art. 6 ch. 3]
 
@@ -1498,7 +1635,15 @@ Sont abrogés:
 
 Les droits relatifs au maintien du salaire en cas de maladie ou d’accident qui ont été constitués avant l’entrée en vigueur de la modification du 5 mars 2020 sont soumis à l’ancien droit.
 
-[^65a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 29 juin 2005, adoptée par le CF le 23 sept. 2005. Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^65a-1]: Introduit par le ch. I de l’O du Conseil des EPF du 29 juin 2005, adoptée par le CF le 23 sept. 2005 ([RO 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)). Nouvelle teneur selon le ch. I de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+
+#### Art. 65b
+
+**Dispositions transitoires concernant la modification du 22 septembre 2021**[^65b-1]
+
+Les collaborateurs qui auront 59 ans révolus avant le 1<sup>er</sup> janvier 2022 et prendront une retraite anticipée d’ici au 1<sup>er</sup> janvier 2025 au plus tard peuvent faire valoir leur droit à une rente transitoire selon l’ancien droit.
+
+[^65b-1]: Introduit par le ch. I de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 ### Section 4 Entrée en vigueur
 
@@ -1514,9 +1659,9 @@ Annexe 1*[^t-2]*
 
 [^t-2]: Nouvelle teneur selon le ch. II de l’O du Conseil des EPF du 5 mars 2020, approuvée par le CF le 19 août 2020, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/fr/xml/image/image2.png)
 
 Annexe 2*[^t-3]*
 
@@ -1669,14 +1814,12 @@ Annexe 5*[^t-6]*
 
 ## Participation de l’employeur au financement de la rente transitoire
 
-[^t-6]: Introduite par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+[^t-6]: Introduite par le ch. I de l’O du Conseil des EPF du 2 oct. 2007, approuvée par le CF le 14 mai 2008 ([RO 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)). Nouvelle teneur selon le ch. II de l’O du Conseil des EPF du 22 sept. 2021, approuvée par le CF le 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 <table>
-<tr><td>Age de la retraite</td><td>Plan standard (échelons fonctionnels)</td><td></td><td></td><td>Plan pour cadres 1 (échelons fonctionnels)</td><td>Plan pour cadres 2 (échelons fonctionnels)</td></tr>
+<tr><td>Âge de la retraite</td><td>Plan standard (échelons fonctionnels)</td><td></td><td></td><td>Plan pour cadres 1 (échelons fonctionnels)</td><td>Plan pour cadres 2 (échelons fonctionnels)</td></tr>
 <tr><td></td><td>1 à 3</td><td>4 à 6</td><td>7 à 9</td><td>10 à 12</td><td>13 à 15</td></tr>
-<tr><td>60</td><td>80 %</td><td>55 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>61</td><td>85 %</td><td>60 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>62</td><td>90 %</td><td>70 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>63</td><td>95 %</td><td>75 %</td><td>55 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>64</td><td>100 %</td><td>80 %</td><td>60 %</td><td>50 %</td><td>50 %</td></tr>
+<tr><td>62</td><td>80 %</td><td>60%</td><td>45 %</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>63</td><td>85 %</td><td>65 %</td><td>50%</td><td>45 %</td><td>45 %</td></tr>
+<tr><td>64</td><td>90 %</td><td>70 %</td><td>55 %</td><td>50 %</td><td>50 %</td></tr>
 </table>

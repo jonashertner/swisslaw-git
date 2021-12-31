@@ -4,11 +4,11 @@ title: "Ordinanza del Consiglio dei PF del 15 marzo 2001 sul personale del setto
 short: OPers PF
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/279"
 language: it
-version: 2020-10-01
+version: 2022-01-01
 adopted: 2001-03-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/it/xml/fedlex-data-admin-ch-eli-cc-2001-279-20201001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20201001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-279-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/279/20201001/it"
 
 (Ordinanza sul personale del settore dei PF, OPers PF)**[^t-1]**
 
-del 15 marzo 2001 (Stato 1° ottobre 2020)
+del 15 marzo (Stato 1° gennaio 2022)
 
 Approvata dal Consiglio federale il 25 aprile 2001
 
@@ -46,15 +46,16 @@ ordina:
 
 La presente ordinanza non si applica:
 
-- a.[^1-1] ai rapporti di lavoro di cui all’articolo 17 capoverso 1 della legge del 4 ottobre 1991[^1-2] sui PF;
-- a<sup>bis</sup>.[^1-3] ai rapporti di lavoro dei professori ordinari, straordinari e assistenti dei due PF, salvo che l’ordinanza del 18 settembre 2003[^1-4] sul corpo professorale non rimandi espressamente alla presente ordinanza;
-- b. agli apprendisti che sottostanno alla legge federale del 19 aprile 1978[^1-5] sulla formazione professionale.
+- a.[^1-1] ai rapporti di lavoro di cui all’articolo 16*b* capoverso 1[^1-2] della legge del 4 ottobre 1991[^1-3] sui PF;
+- a<sup>bis</sup>.[^1-4] ai rapporti di lavoro dei professori ordinari, straordinari e assistenti dei due PF, salvo che l’ordinanza del 18 settembre 2003[^1-5] sul corpo professorale non rimandi espressamente alla presente ordinanza;
+- b. agli apprendisti che sottostanno alla legge federale del 19 aprile 1978[^1-6] sulla formazione professionale.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
-[^1-2]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^1-3]: Introdotta dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
-[^1-4]: [RS 172.220.113.40](https://fedlex.data.admin.ch/eli/cc/2003/747)
-[^1-5]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 ed all. n. 1, **1998** 1822 art. 2, **1999** 2374 n. I 2, **2003** 187 all. n. II 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. I 1]. Attualmente la LF del 13 dic. 2002 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 (RU **200****4** 3301).
+[^1-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° nov. 2021.
+[^1-3]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^1-4]: Introdotta dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
+[^1-5]: [RS 172.220.113.40](https://fedlex.data.admin.ch/eli/cc/2003/747)
+[^1-6]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)n. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 ed all. n. 1, **1998** 1822 art. 2, **1999** 2374 n. I 2, **2003** 187 all. n. II 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. I 1]. Attualmente la LF del 13 dic. 2002 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
 
 #### Art. 2
 
@@ -254,13 +255,17 @@ Il rapporto contiene in particolare indicazioni circa:
 
 ### Sezione 1: Formazione, modifica e risoluzione
 
-**Art. 14***[^chap3-sec1-1]* Messa a concorso
+#### Art. 14
 
-(art. 7 LPers)
+**Messa a concorso**[^14-1]
+
+### (art. 7 LPers)
 
 <sup>1</sup> I posti vacanti sono messi a concorso mediante pubblicazione in adeguati mezzi di comunicazione.
 
-<sup>2</sup> Eccezionalmente, si può fare a meno di un concorso pubblico nei seguenti casi:
+<sup>2</sup>
+
+Eccezionalmente, si può fare a meno di un concorso pubblico nei seguenti casi:
 
 - a. per posti di durata determinata fino a un anno;
 - b. per posti che saranno occupati internamente negli istituti del settore dei PF, in particolare in caso di ampliamento delle mansioni o di promozione a una funzione superiore, ad eccezione dei quadri superiori;
@@ -269,16 +274,16 @@ Il rapporto contiene in particolare indicazioni circa:
 
 <sup>3</sup> Le direzioni dei due PF e degli istituti di ricerca disciplinano nel loro settore i dettagli e la ripartizione delle competenze.
 
-<sup>4</sup> I posti vacanti nei generi di professioni con un tasso di disoccupazione superiore alla media conformemente all’articolo 53*a* dell’ordinanza del 16 gennaio 1991[^chap3-sec1-2] sul collocamento devono essere annunciati al servizio pubblico di collocamento.
+<sup>4</sup> I posti vacanti nei generi di professioni con un tasso di disoccupazione superiore alla media conformemente all’articolo 53*a* dell’ordinanza del 16 gennaio 1991[^14-2] sul collocamento devono essere annunciati al servizio pubblico di collocamento.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^14-2]: [RS 823.111](https://fedlex.data.admin.ch/eli/cc/1991/408_408_408)
 
 #### Art. 15
 
 **Condizioni di assunzione**
 
 L’assunzione è subordinata alle esigenze conformi al settore d’attività.
-
-[^chap3-sec1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^chap3-sec1-2]: [RS 823.111](https://fedlex.data.admin.ch/eli/cc/1991/408_408_408)
 
 #### Art. 16
 
@@ -407,6 +412,21 @@ In deroga al capoverso 1 il rapporto di lavoro può essere risolto:
 [^20b-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^20b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
+#### Art. 20c
+
+**Impiego oltre l’età ordinaria di pensionamento**[^20c-1]
+
+### (art. 10 cpv. 2 LPers)
+
+<sup>1</sup> Dopo la fine del rapporto di lavoro a seguito del raggiungimento del limite d’età secondo l’articolo 21 LAVS[^20c-2], il servizio competente di cui all’articolo 2 può, d’intesa con la persona interessata, prorogare il rapporto di lavoro.
+
+<sup>2</sup> Dopo la fine del rapporto di lavoro a seguito del raggiungimento del limite d’età secondo l’articolo 21 LAVS, le collaboratrici hanno diritto a prorogare il rapporto di lavoro alle stesse condizioni di assunzione fino al compimento del 65° anno d’età al massimo. La domanda deve essere presentata al servizio competente al più tardi sei mesi prima del compimento del 64° anno d’età.
+
+<sup>3</sup> Il rapporto di lavoro di cui al capoverso 1 termina senza disdetta al più tardi alla fine del mese in cui il collaboratore compie il 70° anno d’età.
+
+[^20c-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^20c-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
 ### Sezione 2: Ristrutturazioni
 
 #### Art. 21
@@ -440,28 +460,78 @@ Hanno priorità rispetto al licenziamento:
 
 #### Art. 22
 
-**Prestazioni in caso di pensionamento anticipato**
+**Pensionamento anticipato a seguito di ristrutturazioni**[^22-1]
 
 ### (art. 31 cpv. 5 LPers)
 
-<sup>1</sup> Nel quadro di ristrutturazioni, i collaboratori possono essere pensionati anticipatamente al più presto a 58 anni compiuti, a condizione che non abbiano rifiutato un altro posto di lavoro adeguato.[^22-1]
+<sup>1</sup>
+
+In caso di ristrutturazioni il pensionamento anticipato parziale o integrale è possibile se il collaboratore:
+
+- a. ha compiuto il 60° anno d’età;
+- b. ha lavorato ininterrottamente per almeno dieci anni in un istituto del settore dei PF;
+- c. non può essere collocato in un altro posto ragionevolmente esigibile con lo stesso tasso di occupazione;
+- d. non ha rifiutato altri posti ragionevolmente esigibili;
+- e. non è malato e non è interessato da una procedura di accertamento dell’invalidità in corso o imminente.
 
 <sup>2</sup>
 
-È condizione indispensabile al pensionamento anticipato che:
+Inoltre, almeno una delle seguenti condizioni deve essere adempiuta:
 
-- a. il posto sia soppresso; o
-- b. l’ambito lavorativo del collaboratore sia stato modificato in modo tale da rendere il posto inadeguato; o
-- c. il posto sia soppresso nel quadro di un’azione di solidarietà a favore di collaboratori più giovani.
+- a. il posto è soppresso;
+- b. il campo di attività del collaboratore subisce sensibili modifiche e per motivi oggettivi e personali l’introduzione a una nuova tecnica, in una nuova organizzazione o in un nuovo processo non è più ritenuta economica;
+- c. il posto di un altro impiegato più giovane non deve essere soppresso a seguito del suo pensionamento anticipato;
+- d. deve essere introdotta una regolamentazione sostenibile per la successione del collaboratore.
 
-<sup>3</sup> Al collaboratore pensionato anticipatamente vengono corrisposte una pensione di vecchiaia da PUBLICA e una pensione transitoria che non deve essere rimborsata conformemente all’articolo 64 del regolamento di previdenza del 3 dicembre 2007[^22-2] della Cassa di previdenza del settore dei PF per i collaboratori del settore dei PF (RP-PF 1).[^22-3] Questa rendita di vecchiaia è calcolata come una rendita d’invalidità secondo l’articolo 57 RP-PF 1.[^22-4]
+[^22-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
-<sup>4</sup> I due PF e gli istituti di ricerca versano alla Cassa pensioni della Confederazione le lacune di copertura derivanti dal pensionamento anticipato.
+#### Art. 22a
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^22-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
-[^22-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Di detta modifica è tenuto conto in tutto il presente testo.
-[^22-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+**Prestazioni in caso di pensionamento anticipato a seguito di ristrutturazioni**[^22a-1]
+
+### (art. 31 cpv. 5 LPers)
+
+<sup>1</sup> Se al momento del pensionamento anticipato ha un’età compresa tra 60 e 62 anni, l’impiegato percepisce la rendita di vecchiaia che gli sarebbe spettata in caso di pensionamento al compimento del 63° anno d’età, nonché una rendita transitoria interamente finanziata dal datore di lavoro secondo l’articolo 64 del regolamento di previdenza del 3 dicembre 2007[^22a-2] della Cassa di previdenza del Settore dei PF per i collaboratori del Settore dei PF (RP-PF 1).
+
+<sup>2</sup> Se al momento del pensionamento anticipato ha almeno 63 anni, oltre alla rendita di vecchiaia regolamentare, l’impiegato percepisce la rendita transitoria interamente finanziata dal datore di lavoro secondo l’articolo 64 RP-PF 1.
+
+<sup>3</sup>
+
+Per motivi validi, in aggiunta al pensionamento anticipato parziale o integrale, il servizio competente di cui all’articolo 2 può fornire le prestazioni seguenti:
+
+- a. una partecipazione massima del 50 per cento ai costi per il mantenimento della previdenza al livello del precedente guadagno assicurato secondo l’articolo 33*a* LPP;
+- b. una partecipazione al riscatto finalizzato all’aumento della rendita di vecchiaia secondo l’articolo 33 RP-PF 1;
+- c. l’assunzione completa o parziale dei contributi dovuti sul reddito in forma di rendita secondo l’articolo 28 dell’ordinanza del 31 ottobre 1947[^22a-3] sull’assicurazione per la vecchiaia e per i superstiti, ma al massimo fino al raggiungimento del limite d’età secondo l’articolo 21 LAVS[^22a-4].
+
+[^22a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^22a-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
+[^22a-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^22a-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+#### Art. 22b
+
+**Prestazioni in caso di risoluzione del rapporto di lavoro di comune intesa**[^22b-1]
+
+### (art. 19 cpv. 4 LPers)
+
+<sup>1</sup>
+
+Il datore di lavoro può fornire le prestazioni di cui all’articolo 22*a* capoverso 3 nonché una partecipazione più elevata al finanziamento della rendita transitoria rispetto a quanto previsto nell’allegato 5 all’impiegato che ha compiuto il 60° anno d’età se:
+
+- a. il rapporto di lavoro è sciolto di comune intesa per motivi di politica aziendale o del personale; e
+- b. non sussiste alcun motivo di disdetta secondo l’articolo 10 capoverso 3 lettere a–d ed f o capoverso 4 LPers.
+
+<sup>2</sup>
+
+Sussistono motivi di politica aziendale o del personale in particolare se:
+
+- a. si prevede di sopprimere il posto;
+- b. deve essere introdotta una regolamentazione sostenibile per la successione del collaboratore;
+- c. per motivi oggettivi e personali l’introduzione a una nuova tecnica, in una nuova organizzazione o in un nuovo processo non è più ritenuta economica.
+
+<sup>3</sup> Nel complesso le prestazioni non possono superare uno stipendio annuo.
+
+[^22b-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 23
 
@@ -567,11 +637,37 @@ Le prestazioni dei collaboratori sono valutate nel modo seguente:
 
 ### (art. 16 LPers)
 
-<sup>1</sup> Il Consiglio dei PF esamina annualmente, insieme alle parti sociali, gli importi e i livelli della scala salariale di cui all’allegato 2 e, se del caso, li adegua nei limiti consentiti dalle risorse disponibili.
+<sup>1</sup> Dopo aver negoziato con le parti sociali il Consiglio dei PF decide ogni anno, nei limiti consentiti dalle risorse disponibili, se e come accordare una compensazione del rincaro o un aumento dello stipendio reale rispetto alla scala salariale di cui all’allegato 2.
 
 <sup>2</sup> Per l’adeguamento della scala salariale si tiene conto, in particolare, del mercato del lavoro e del rincaro.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvata dal CF il 23 set. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)).
+<sup>3</sup> Se le misure salariali decise dal Consiglio dei PF corrispondono al massimo a quelle adottate dal Consiglio federale per il personale federale è possibile rinunciare alla revisione parziale della presente ordinanza.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+
+#### Art. 28a
+
+**Compensazione del rincaro**[^28a-1]
+
+### (art. 16 LPers)
+
+<sup>1</sup>
+
+La compensazione del rincaro è versata su:
+
+- a. lo stipendio;
+- b. le prestazioni che integrano l’assegno familiare.
+
+<sup>2</sup>
+
+Se il rincaro registrato dopo l’ultimo adeguamento lo giustifica, gli istituti adeguano le seguenti indennità:
+
+- a. le indennità per il lavoro domenicale e notturno;
+- b. le indennità per il servizio di picchetto;
+- c. le indennità di funzione;
+- d. le indennità speciali.
+
+[^28a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 29
 
@@ -740,6 +836,47 @@ Il diritto allo stipendio in caso di incapacità al lavoro dovuta a malattia o i
 
 <sup>4</sup> Per la presa a carico di bambini fino a sei anni d’età e di bambini disabili in vista di un’adozione, si ha diritto ad un congedo pagato allo stipendio totale per un periodo di due mesi. Il capoverso 3 è applicabile per analogia.
 
+#### Art. 37a
+
+**Congedo di paternità, congedo del partner registrato e congedo per adozione**[^37a-1]
+
+### (art. 17*a* LPers)
+
+<sup>1</sup>
+
+È accordato un congedo di venti giorni lavorativi durante il quale è versato l’intero stipendio:
+
+- a. al padre giuridico in caso di nascita di uno o più figli propri;
+- b. al partner registrato in caso di nascita di uno o più figli dell’altro partner;
+- c. al padre adottivo in caso di adozione di uno o più figli secondo l’articolo 37 capoverso 4.
+
+<sup>2</sup> Dieci giorni di congedo devono essere presi nei primi sei mesi dopo la nascita o l’adozione, mentre i restanti dieci giorni devono essere presi entro dodici mesi. Il congedo può essere preso in blocco o a giorni.
+
+[^37a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+
+#### Art. 37b
+
+**Congedo di assistenza a un figlio con gravi problemi di salute**[^37b-1]
+
+### (art. 17*a* LPers)
+
+<sup>1</sup> In caso di interruzione del lavoro per assistere un figlio con gravi problemi di salute dovuti a malattia o infortunio, lo stipendio integrale e gli assegni sociali sono versati al collaboratore durante 14 settimane al massimo.
+
+<sup>2</sup>
+
+Un figlio ha gravi problemi di salute, se:
+
+- a. si è verificato un cambiamento radicale del suo stato di salute fisica o psichica;
+- b. il decorso o l’esito di questo cambiamento è difficilmente prevedibile oppure va considerata l’eventualità di un danno permanente o crescente oppure del decesso;
+- c. sussiste un bisogno particolarmente elevato di assistenza da parte dei genitori; e
+- d. almeno un genitore deve interrompere l’attività lucrativa per assistere il figlio.
+
+<sup>3</sup> Il congedo di assistenza deve essere fruito entro 18 mesi dal primo giorno dell’interruzione del lavoro di cui al capoverso 1.
+
+<sup>4</sup> Per ogni caso di malattia o infortunio sussiste un solo diritto. Una ricaduta che si verifica dopo almeno 12 mesi senza disturbi è considerata un nuovo evento.
+
+[^37b-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+
 #### Art. 38
 
 **Diritto allo stipendio in caso di servizio militare, servizio di protezione civile e servizio civile sostitutivo**
@@ -779,26 +916,9 @@ In caso di invalidità dovuta a infortunio professionale o ad altra malattia pro
 
 #### Art. 39a
 
-**Invalidità professionale**[^39a-1]
+[^39a-1]
 
-### (art. 32*j* cpv. 2 LPers)
-
-<sup>1</sup>
-
-Il servizio competente di cui all’articolo 2 chiede per i collaboratori il versamento di una prestazione d’invalidità professionale secondo il RP-PF 1[^39a-2] se:[^39a-3]
-
-- a. ha compiuto il 50° anno di età;
-- b. [^39a-4] dalla verifica del medico di fiducia svolta su richiesta del servizio competente di cui all’articolo 2 emerge che per motivi di salute il collaboratore è incapace di esercitare o può esercitare soltanto parzialmente l’attività esercitata finora o un’altra attività ragionevolmente esigibile da lui;
-- c. una decisione dell’ufficio AI competente che esclude il diritto a una pensione o che prevede soltanto una pensione parziale passa in giudicato; e
-- d. i provvedimenti d’integrazione ai sensi dell’articolo 47*a* sono stati infruttuosi senza che vi fosse colpa del collaboratore.
-
-<sup>2</sup> I dettagli della prestazione di invalidità professionale nonché il genere e l’importo della stessa si basano sul RP-PF 1.[^39a-5]
-
-[^39a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
-[^39a-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
-[^39a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^39a-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^39a-5]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^39a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)). Abrogato dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 40
 
@@ -816,52 +936,42 @@ Il servizio competente di cui all’articolo 2 chiede per i collaboratori il ver
 
 **Diritto all’assegno familiare**[^41-1]
 
-### (art. 31 cpv. 1–3 LPers)
+### (art. 31 cpv. 1−3 LPers)
 
-<sup>1</sup> L’assegno familiare è versato fino alla fine del mese in cui il figlio compie il 16° anno d’età.
+Il diritto all’assegno familiare è disciplinato secondo l’articolo 3 della legge del 24 marzo 2006[^41-2] sugli assegni familiari (LAFam).
 
-<sup>2</sup> Per i figli in formazione è versato al massimo fino alla fine del mese in cui compiono il 25° anno d’età.
-
-<sup>3</sup> Per i figli che presentano un’incapacità al guadagno (art. 7 della LF del 6 ott. 2000[^41-2] sulla parte generale del diritto delle assicurazioni sociali) è versato al massimo fino alla fine del mese in cui compiono il 20° anno d’età.
-
-<sup>4</sup> ...[^41-3]
-
-[^41-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^41-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^41-3]: Abrogato dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, con effetto dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^41-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^41-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 41a
 
-**Prestazioni che integrano l’assegno familiare cantonale**[^41a-1]
+**Prestazioni che integrano l’assegno familiare**[^41a-1]
 
-### (art. 31 cpv. 1–3 LPers)
-
-[^41a-2]
+### (art. 31 cpv. 1−3 LPers)
 
 <sup>1</sup>
 
-L’autorità competente secondo l’articolo 2 versa al collaboratore prestazioni che integrano l’assegno familiare cantonale, nella misura in cui questo è inferiore a:[^41a-3]
+Il servizio competente di cui all’articolo 2 versa ai collaboratori prestazioni che integrano l’assegno familiare. La somma degli assegni familiari secondo la LAFam[^41a-2], degli assegni familiari cantonali e della prestazione che integra l’assegno familiare ammonta annualmente al massimo a:
 
-- a. 4519 franchi all’anno per il primo figlio che ha diritto all’assegno;
-- b. 2919 franchi all’anno per ogni ulteriore figlio che ha diritto all’assegno;
-- c. 3298 franchi all’anno per ogni ulteriore figlio che ha diritto all’assegno, ha compiuto il 16° anno d’età e segue una formazione o presenta un’incapacità al guadagno.[^41a-4]
+- a. 4519 franchi per il primo figlio che ha diritto all’assegno;
+- b. 2919 franchi per ogni ulteriore figlio che ha diritto all’assegno di cui all’articolo 3 capoverso 1 lettera a LAFam;
+- c. 3298 franchi per ogni ulteriore figlio che ha diritto all’assegno di cui all’articolo 3 capoverso 1 lettera b LAFam.
 
-<sup>2</sup>
+<sup>2</sup> Se la somma degli assegni familiari secondo la LAFam e degli assegni familiari cantonali supera l’importo di cui al capoverso 1 lettere a–c, il collaboratore non ha diritto alle prestazioni che integrano l’assegno familiare.
 
-L’importo delle prestazioni integrative corrisponde alla differenza tra l’importo di cui al capoverso 1 e gli importi minimi stabiliti nella legge del 24 marzo 2006[^41a-5] sugli assegni familiari (LAFam). Nel calcolo sono aggiunti all’assegno familiare:
+<sup>3</sup>
 
-- a. gli assegni familiari percepiti da altre persone secondo la LAFam per lo stesso figlio;
-- b. gli assegni familiari, gli assegni per i figli, gli assegni di formazione e gli assegni di custodia percepiti dal collaboratore o da altre persone presso altri datori di lavoro o un’altra autorità competente per lo stesso figlio.
+Dalle prestazioni che integrano l’assegno familiare sono dedotti i seguenti assegni familiari:
 
-<sup>3</sup> I collaboratori che hanno un tasso di occupazione inferiore al 50 per cento o che non conseguono lo stipendio minimo previsto per gli assegni per i figli (art. 13 cpv. 3 LAFam) non ricevono le prestazioni integrative.
+- a. gli assegni familiari percepiti da altre persone per lo stesso figlio secondo la LAFam e gli ordinamenti cantonali sugli assegni familiari;
+- b. gli assegni familiari, gli assegni per i figli, gli assegni di formazione e gli assegni di custodia obbligatori o sovraobbligatori percepiti dal collaboratore o da altre persone presso altri datori di lavoro o un’altra autorità per lo stesso figlio.
 
-<sup>4</sup> Le prestazioni che integrano l’assegno familiare sono adeguate al rincaro.
+<sup>4</sup> I collaboratori che hanno un tasso di occupazione inferiore al 50 per cento o che non conseguono lo stipendio minimo previsto per gli assegni per i figli (art. 13 cpv. 3 LAFam) ricevono le prestazioni integrative soltanto se si tratta di casi di rigore. Se più impiegati hanno diritto ad assegni familiari per il medesimo figlio, le prestazioni integrative sono versate loro a condizione che il tasso di occupazione complessivo ammonti almeno al 50 per cento.
 
-[^41a-1]: Introdotto dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
-[^41a-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^41a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^41a-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 12 dic. 2019, approvata dal CF il 19 ago. 2020, in vigore dal 1° gen. 2020 ([RU 2020 3617](https://fedlex.data.admin.ch/eli/oc/2020/653)).
-[^41a-5]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+<sup>5</sup> Le prestazioni che integrano l’assegno familiare sono adeguate al rincaro.
+
+[^41a-1]: Introdotto dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)). Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^41a-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
 
 #### Art. 41b
 
@@ -896,16 +1006,42 @@ L’importo delle prestazioni integrative corrisponde alla differenza tra l’im
 
 #### Art. 42a
 
-**Pensione transitoria**[^42a-1]
+**Partecipazione del datore di lavoro al finanziamento della rendita transitoria**[^42a-1]
 
 ### (art. 32*k* cpv. 2 LPers)
 
-<sup>1</sup> Se una persona percepisce una pensione transitoria intera o una mezza pensione transitoria conformemente al RP-PF 1[^42a-2], il datore di lavoro assume una parte dei costi per il finanziamento della pensione transitoria effettivamente percepita. L’importo della partecipazione del datore di lavoro è disciplinato nell’allegato 5.
+<sup>1</sup> Le persone che vanno in pensione prima di raggiungere l’età di pensionamento di cui all’articolo 21 LAVS[^42a-2] possono ottenere una rendita transitoria regolamentare.
 
-<sup>2</sup> Il diritto alla partecipazione del datore di lavoro non si applica se la durata del rapporto di lavoro che precede immediatamente il pensionamento è inferiore a cinque anni.
+<sup>2</sup>
 
-[^42a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
-[^42a-2]: [RS 172.220.142.1](https://fedlex.data.admin.ch/eli/cc/2012/191)
+Il datore di lavoro partecipa al finanziamento della rendita transitoria, se l’impiegato:
+
+- a. chiede il pensionamento parziale o integrale;
+- b. ha compiuto 62 anni;
+- c. nel periodo immediatamente precedente al pensionamento ha lavorato per almeno cinque anni in un istituto del settore dei PF;
+- d. ha esercitato una funzione che per almeno cinque anni ha comportato un persistente elevato carico fisico o psichico; e
+- e. chiede il versamento di una rendita transitoria intera o di una mezza rendita transitoria.
+
+<sup>3</sup>
+
+Le attività di cui al capoverso 2 lettera d si presentano nei casi seguenti:
+
+- a. attività con esposizione ad agenti fisici, chimici o biologici che possono mettere in pericolo la salute;
+- b. attività esercitate in un ambiente di lavoro difficile, segnatamente in presenza di temperature estreme, condizioni climatiche rigide o scarsa illuminazione;
+- c. attività con elevati carichi per l’apparato locomotore;
+- d. attività con un elevato rischio d’infortunio;
+- e. attività molto ripetitive, monotone o emotivamente gravose che possono provocare un elevato carico psichico;
+- f. attività che, per loro natura, comportano un forte carico psichico dovuto alla pressione esercitata sul piano dei risultati, delle aspettative o dell’innovazione oppure alla continua necessità di adeguarsi a tecniche e tecnologie molto recenti e scarsamente sperimentate;
+- g. attività con orari di lavoro costrittivi come impieghi nel quadro di piani di servizio fissi o il lavoro notturno.
+
+<sup>4</sup> Il Consiglio dei PF determina d’intesa con i due politecnici federali e con gli istituti di ricerca le funzioni il cui esercizio implica la partecipazione del datore di lavoro al finanziamento della rendita transitoria.
+
+<sup>5</sup> La partecipazione percentuale del datore di lavoro al finanziamento della rendita transitoria è disciplinata nell’allegato 5.
+
+<sup>6</sup> Il servizio competente per i rapporti di lavoro di cui all’articolo 2 verifica le condizioni del diritto alla rendita e calcola il tasso di occupazione medio del collaboratore.
+
+[^42a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)). Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^42a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### Sezione 3: Altre prestazioni
 
@@ -943,11 +1079,12 @@ L’importo delle prestazioni integrative corrisponde alla differenza tra l’im
 
 <sup>1</sup> Dopo il 10° e il 15° anno di impiego è corrisposto un premio di fedeltà consistente in metà mese di congedo pagato o in metà mese di stipendio. Dopo il 20° anno di impiego è corrisposto un premio di fedeltà consistente in un mese di congedo pagato o in un mese di stipendio.
 
-<sup>2</sup> In caso di rapporti di lavoro di durata indeterminata, dopo il 5° anno di impiego è corrisposto un premio di fedeltà consistente in una settimana di congedo pagato.
+<sup>2</sup> ...[^45-1]
 
-<sup>3</sup> Il congedo pagato deve essere preso entro cinque anni, in seguito il diritto decade.[^45-1]
+<sup>3</sup> Il congedo pagato deve essere preso entro cinque anni, in seguito il diritto decade.[^45-2]
 
-[^45-1]: Introdotto dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^45-1]: Abrogato dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+[^45-2]: Introdotto dal n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 
 #### Art. 46
 
@@ -1081,7 +1218,7 @@ Durante i giorni festivi abituali nel luogo di servizio non si lavora.
 <table>
 <tr><td>a. per il proprio matrimonio</td><td>6 giorni</td></tr>
 <tr><td>b. per il matrimonio di parenti</td><td>1 giorno</td></tr>
-<tr><td>c.[^52-2] per la nascita di un figlio proprio (congedo paternità)</td><td>10 giorni</td></tr>
+<tr><td>c.[^52-2] ...</td><td></td></tr>
 <tr><td>d.[^52-3] per le prime cure e l’organizzazione delle cure successive di malati all’interno della propria economia domestica o dei propri genitori, a condizione che non vi siano altre possibilità di custodia</td><td>il tempo necessario fino a 3 giorni per ogni evento</td></tr>
 <tr><td>e. per il disbrigo di questioni scolastiche importanti e di consultazioni mediche che riguardano minori sotto i 16 anni da parte di adulti con compiti educativi</td><td>fino a 5 giorni per anno civile</td></tr>
 <tr><td>f. per trasloco</td><td>1 giorno per anno civile</td></tr>
@@ -1103,7 +1240,7 @@ Durante i giorni festivi abituali nel luogo di servizio non si lavora.
 <sup>5</sup> ...[^52-10]
 
 [^52-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
-[^52-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 6 mar. 2013, approvata dal CF il 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1777](https://fedlex.data.admin.ch/eli/oc/2013/404)).
+[^52-2]: Abrogata dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 [^52-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^52-4]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
 [^52-5]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
@@ -1177,7 +1314,7 @@ Sono considerati motivi di parzialità segnatamente:
 
 <sup>2</sup> I servizi responsabili possono concordare con i collaboratori o i rappresentanti del personale una specifica organizzazione del tempo di lavoro.
 
-<sup>2bis</sup> D’intesa con il servizio competente, la prestazione di lavoro può essere fornita al di fuori del posto di lavoro.[^54-1]
+<sup>2bis</sup> D’intesa con il servizio competente possono essere concordate forme di lavoro flessibili, come la fornitura della prestazione lavorativa al di fuori del posto di lavoro, purché il tipo di attività e le esigenze di servizio lo consentano. I due PF, gli istituti di ricerca e il Consiglio dei PF possono disciplinare le forme di lavoro flessibili per il loro personale; se del caso convengono con i collaboratori il luogo in cui è fornita la prestazione lavorativa.[^54-1]
 
 <sup>3</sup> In caso di viaggi di servizio in Svizzera, i tempi di trasferta contano come tempo di lavoro. In caso di viaggi di servizio all’estero è computato il tempo di lavoro convenuto.[^54-2]
 
@@ -1185,7 +1322,7 @@ Sono considerati motivi di parzialità segnatamente:
 
 <sup>5</sup> I due PF e gli istituti di ricerca disciplinano il lavoro a turni e il servizio di picchetto d’intesa con i rappresentanti del personale.
 
-[^54-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^54-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)). Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 [^54-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
 #### Art. 54a
@@ -1214,18 +1351,21 @@ Sono considerati motivi di parzialità segnatamente:
 
 <sup>4</sup> Se le ore supplementari non possono essere compensate, il datore di lavoro versa lo stipendio normale senza supplemento.[^55-2]
 
-<sup>4bis</sup> Per la compensazione e la retribuzione del lavoro straordinario si applicano le disposizioni della legge federale del 13 marzo 1964[^55-3] sul lavoro.[^55-4]
+<sup>4bis</sup> Per la compensazione e la retribuzione del lavoro straordinario dei collaboratori che rientrano nel campo d’applicazione personale della legge federale del 13 marzo 1964[^55-3] sul lavoro si applicano le disposizioni di tale legge. Nella misura del possibile occorre trovare un accordo per compensare con periodi di tempo libero il lavoro straordinario prestato.[^55-4]
 
 <sup>5</sup> I due PF e gli istituti di ricerca provvedono affinché siano pagate al massimo 100 ore supplementari per anno civile e vengano riportate all’anno civile seguente al massimo 100 ore.[^55-5]
 
 <sup>6</sup> Il pagamento delle ore supplementari può essere escluso dal contratto di lavoro dei quadri.[^55-6]
 
+<sup>7</sup> Se il collaboratore ha prestato tempo di lavoro che il servizio competente di cui all’articolo 2 non ha ordinato e di cui non era a conoscenza, questo tempo di lavoro può essere riconosciuto come ore supplementari e lavoro straordinario soltanto se il collaboratore lo fa valere entro un termine di sei mesi e se è fornita una prova corrispondente.[^55-7]
+
 [^55-1]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^55-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^55-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^55-4]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-4]: Introdotto dal n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)). Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 [^55-5]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 [^55-6]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
+[^55-7]: Introdotto dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 #### Art. 56
 
@@ -1339,7 +1479,7 @@ Se non sussiste alcun motivo di disdetta ai sensi dell’articolo 10 capoversi 3
 
 [^58a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 24 mar. 2004, approvata dal CF il 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3301](https://fedlex.data.admin.ch/eli/oc/2004/427)).
 [^58a-2]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
-[^58a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 ([RU 2009 809](https://fedlex.data.admin.ch/eli/oc/2009/134)).
+[^58a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dei PF dell’11 dic. 2008, approvata dal CF il 18 feb. 2009, in vigore dal 1° gen. 2009 (RU **2****009** 809).
 
 #### Art. 58b
 
@@ -1496,6 +1636,14 @@ I diritti allo stipendio in caso di malattia o infortunio maturati prima dell’
 
 [^65a-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 29 giu. 2005, approvato dal CF il 23 set. 2005 ([RU 2005 4795](https://fedlex.data.admin.ch/eli/oc/2005/646)). Nuovo testo giusta il n. I dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
+#### Art. 65b
+
+**Disposizione transitoria concernente la modifica del 22 settembre 2021**[^65b-1]
+
+I collaboratori che hanno compiuto il 59° anno d’età prima del 1° gennaio 2022 e che vanno in pensione anticipata al più tardi entro il 1° gennaio 2025 possono far valere il diritto alla rendita transitoria secondo il diritto previgente.
+
+[^65b-1]: Introdotto dal n. I dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
+
 ### Sezione 4: Entrata in vigore
 
 #### Art. 66
@@ -1510,9 +1658,9 @@ Allegato 1*[^t-2]*
 
 [^t-2]: Nuovo testo giusta il n. II dell’O del Consiglio dei PF del 5 mar. 2020, approvata dal CF il 19 ago. 2020, in vigore dal 1° ott. 2020 ([RU 2020 3653](https://fedlex.data.admin.ch/eli/oc/2020/664)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/it/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20201001/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/279/20220101/it/xml/image/image2.png)
 
 Allegato 2*[^t-3]*
 
@@ -1667,14 +1815,12 @@ Allegato 5*[^t-6]*
 
 ## Partecipazione del datore di lavoro al finanziamento della rendita transitoria
 
-[^t-6]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)).
+[^t-6]: Introdotto dal n. I dell’O del Consiglio dei PF del 2 ott. 2007, approvata dal CF il 14 mag. 2008 ([RU 2008 2293](https://fedlex.data.admin.ch/eli/oc/2008/332)). Nuovo testo giusta il n. II dell’O del Consiglio dei PF del 22 set. 2021, approvata dal CF il 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 845](https://fedlex.data.admin.ch/eli/oc/2021/845)).
 
 <table>
-<tr><td>Età di pensionamento</td><td>Piano standard (livello di funzione)</td><td></td><td></td><td>Piano per quadri 1 (livello di funzione)</td><td>Piano per quadri 2 (livello di funzione)</td></tr>
+<tr><td>Età di pensionamento</td><td>Piano standard (livello di funzione)</td><td></td><td></td><td>Piano per i quadri 1 (livello di funzione)</td><td>Piano per i quadri 2 (livello di funzione)</td></tr>
 <tr><td></td><td>1–3</td><td>4–6</td><td>7–9</td><td>10–12</td><td>13–15</td></tr>
-<tr><td>60</td><td>80 %</td><td>55 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>61</td><td>85 %</td><td>60 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>62</td><td>90 %</td><td>70 %</td><td>50 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>63</td><td>95 %</td><td>75 %</td><td>55 %</td><td>50 %</td><td>50 %</td></tr>
-<tr><td>64</td><td>100 %</td><td>80 %</td><td>60 %</td><td>50 %</td><td>50 %</td></tr>
+<tr><td>62</td><td>80 %</td><td>60 %</td><td>45 %</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>63</td><td>85 %</td><td>65 %</td><td>50 %</td><td>45 %</td><td>45 %</td></tr>
+<tr><td>64</td><td>90 %</td><td>70 %</td><td>55 %</td><td>50 %</td><td>50 %</td></tr>
 </table>
