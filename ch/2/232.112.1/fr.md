@@ -4,11 +4,11 @@ title: "Ordonnance du 2 septembre 2015 sur l'utilisation des indications de prov
 short: OIPSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/611"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-09-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/611/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-611-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/611/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/611/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-611-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/611/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/611/20210101/fr"
 
 (OIPSD)
 
-du 2 septembre 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 2 septembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -133,9 +133,9 @@ Le DEFR peut modifier dans l’annexe 1 la liste des produits naturels qui ne pe
 
 #### Art. 7
 
-**Détermination du taux d’auto-approvisionnement des produits naturels**
+**Détermination du taux d’auto-approvisionnement en produits naturels**
 
-<sup>1</sup> Le DEFR détermine le taux d’auto-approvisionnement des produits naturels. Il le fixe tous les ans, en se fondant sur la moyenne des taux d’auto-approvisionnement de trois années civiles consécutives. Le taux d’auto-approvisionnement des différents produits naturels est fixé dans l’annexe 1.
+<sup>1</sup> Le DEFR détermine le taux d’auto-approvisionnement en produits naturels. Il le fixe tous les ans, en se fondant sur la moyenne des taux d’auto-approvisionnement de trois années civiles consécutives. Le taux d’auto-approvisionnement des différents produits naturels est fixé dans l’annexe 1.
 
 <sup>2</sup> Par taux d’auto-approvisionnement, on entend la part de la production suisse à la consommation indigène. La consommation indigène correspond à la somme de la production suisse et des importations de matières premières, déduction faite des variations de stocks. La consommation indigène comprend aussi l’utilisation pour la fabrication de produits d’exportation.
 
@@ -184,9 +184,9 @@ Annexe 1*[^t-1]*
 
 (art. 3, al. 2, 6 et 7, al. 1)
 
-## Produits naturels non disponibles et taux d’auto‑approvisionnement des produits naturels
+## Produits naturels non disponibles et taux d’auto‑approvisionnement en produits naturels
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 17 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5197](https://fedlex.data.admin.ch/eli/oc/2020/903)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 15 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 699](https://fedlex.data.admin.ch/eli/oc/2021/699)).
 
 Les produits naturels visés à l’art. 6, qui ne peuvent être produits en Suisse en raison des conditions naturelles (produits naturels non disponibles) sont signalés au moyen d’un «x».
 
@@ -195,27 +195,27 @@ Les produits naturels visés à l’art. 6, qui ne peuvent être produits en Sui
 <tr><td>Céréales</td><td></td><td>Avoine</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Blé dur</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Blé tendre</td><td></td><td>63,6</td></tr>
-<tr><td></td><td></td><td>Épeautre</td><td></td><td>61,0</td></tr>
+<tr><td></td><td></td><td>Épeautre</td><td></td><td>62,3</td></tr>
 <tr><td></td><td></td><td>Maïs, sans le maïs-légume</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Orge</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Riz</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Seigle</td><td></td><td>81,9</td></tr>
-<tr><td></td><td></td><td>Céréales, autres, comme le riz sauvage</td><td></td><td>34,9</td></tr>
-<tr><td>Pommes de terre, autres racines et tubercules</td><td></td><td>Pommes de terre</td><td></td><td>79,5</td></tr>
+<tr><td></td><td></td><td>Seigle</td><td></td><td>84,1</td></tr>
+<tr><td></td><td></td><td>Céréales, autres, comme le riz sauvage</td><td></td><td>35,0</td></tr>
+<tr><td>Pommes de terre, autres racines et tubercules</td><td></td><td>Pommes de terre</td><td></td><td>78,7</td></tr>
 <tr><td></td><td></td><td>Racines de chicorée</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Racines et tubercules, autres</td><td></td><td>&lt; 5</td></tr>
-<tr><td>Sucre et miel</td><td></td><td>Betterave sucrière</td><td></td><td>56,4</td></tr>
+<tr><td>Sucre et miel</td><td></td><td>Betterave sucrière</td><td></td><td>54,1</td></tr>
 <tr><td></td><td></td><td>Canne à sucre</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Glucose</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Miel</td><td></td><td>30,1</td></tr>
-<tr><td></td><td></td><td>Saccharose</td><td></td><td>54,3</td></tr>
+<tr><td></td><td></td><td>Miel</td><td></td><td>31,5</td></tr>
+<tr><td></td><td></td><td>Saccharose</td><td></td><td>51,8</td></tr>
 <tr><td>Légumineuses séchées</td><td></td><td>Caroubes</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Lentilles</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Pois chiches</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Légumineuses séchées, autres</td><td></td><td>&lt; 5</td></tr>
 <tr><td>Noix</td><td>Noix non tropicales</td><td>Châtaignes</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Noisettes</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Noix</td><td></td><td>13,6</td></tr>
+<tr><td></td><td></td><td>Noix</td><td></td><td>12,4</td></tr>
 <tr><td></td><td>Noix tropicales</td><td>Amandes</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Noix de cajou</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Noix de cola</td><td>x</td><td></td></tr>
@@ -226,99 +226,99 @@ Les produits naturels visés à l’art. 6, qui ne peuvent être produits en Sui
 <tr><td>Fruit oléagineux</td><td></td><td>Amandes de palmiste</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Arachides</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Graines de carthame</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Graines de colza</td><td></td><td>70,4</td></tr>
+<tr><td></td><td></td><td>Graines de colza</td><td></td><td>61,9</td></tr>
 <tr><td></td><td></td><td>Graines de coton</td><td>x</td><td></td></tr>
-<tr><td></td><td></td><td>Graines de lin</td><td></td><td>13,2</td></tr>
-<tr><td></td><td></td><td>Graines de pavot</td><td></td><td>8,9</td></tr>
+<tr><td></td><td></td><td>Graines de lin</td><td></td><td>11,8</td></tr>
+<tr><td></td><td></td><td>Graines de pavot</td><td></td><td>8,4</td></tr>
 <tr><td></td><td></td><td>Graines de ricin</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Graines de sésame</td><td>x</td><td></td></tr>
-<tr><td></td><td></td><td>Graines de tournesol</td><td></td><td>10,0</td></tr>
+<tr><td></td><td></td><td>Graines de tournesol</td><td></td><td>9,5</td></tr>
 <tr><td></td><td></td><td>Noix de coco</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Noix de karité</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Olives</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Semences de moutarde</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Soja</td><td></td><td>12,3</td></tr>
+<tr><td></td><td></td><td>Soja</td><td></td><td>6,8</td></tr>
 <tr><td></td><td></td><td>Fruits oléagineux, autres</td><td></td><td>&lt; 5</td></tr>
-<tr><td>Légumes, y compris champignons</td><td>Légumes-racines et légumes-tubercules</td><td>Betteraves rouges</td><td></td><td>100</td></tr>
-<tr><td></td><td></td><td>Carottes</td><td></td><td>99,3</td></tr>
-<tr><td></td><td></td><td>Céleris-pommes</td><td></td><td>100</td></tr>
-<tr><td></td><td></td><td>Fenouils</td><td></td><td>42,8</td></tr>
-<tr><td></td><td></td><td>Navets</td><td></td><td>94,9</td></tr>
-<tr><td></td><td></td><td>Radis</td><td></td><td>85,3</td></tr>
-<tr><td></td><td></td><td>Radis long</td><td></td><td>66,2</td></tr>
-<tr><td></td><td></td><td>Scorsonères</td><td></td><td>65,0</td></tr>
-<tr><td></td><td></td><td>Légumes-racines, autres, comme le persil racine</td><td></td><td>66,4</td></tr>
+<tr><td>Légumes, y compris champignons</td><td>Légumes-racines et légumes-tubercules</td><td>Betteraves rouges</td><td></td><td>93,7</td></tr>
+<tr><td></td><td></td><td>Carottes</td><td></td><td>93,6</td></tr>
+<tr><td></td><td></td><td>Céleris-pommes</td><td></td><td>98,3</td></tr>
+<tr><td></td><td></td><td>Fenouils</td><td></td><td>41,5</td></tr>
+<tr><td></td><td></td><td>Navets</td><td></td><td>94,4</td></tr>
+<tr><td></td><td></td><td>Radis</td><td></td><td>84,3</td></tr>
+<tr><td></td><td></td><td>Radis long</td><td></td><td>67,1</td></tr>
+<tr><td></td><td></td><td>Scorsonères</td><td></td><td>72,7</td></tr>
+<tr><td></td><td></td><td>Légumes-racines, autres, comme le persil racine</td><td></td><td>68,5</td></tr>
 <tr><td></td><td>Légumes du genre Allium</td><td>Ail</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Oignons</td><td></td><td>69,3</td></tr>
-<tr><td></td><td></td><td>Poireaux</td><td></td><td>80,0</td></tr>
-<tr><td></td><td></td><td>Légumes du genre Allium, autres</td><td></td><td>31,1</td></tr>
-<tr><td></td><td>Choux</td><td>Brocoli</td><td></td><td>31,9</td></tr>
-<tr><td></td><td></td><td>Chou blanc</td><td></td><td>92,5</td></tr>
-<tr><td></td><td></td><td>Chou chinois</td><td></td><td>88,5</td></tr>
-<tr><td></td><td></td><td>Chou de Bruxelles</td><td></td><td>28,4</td></tr>
-<tr><td></td><td></td><td>Chou de Milan</td><td></td><td>96,3</td></tr>
-<tr><td></td><td></td><td>Chou rouge</td><td></td><td>97,4</td></tr>
-<tr><td></td><td></td><td>Chou vert</td><td></td><td>71,8</td></tr>
-<tr><td></td><td></td><td>Chou-fleur</td><td></td><td>47,8</td></tr>
-<tr><td></td><td></td><td>Chou-rave</td><td></td><td>52,8</td></tr>
-<tr><td></td><td></td><td>Pakchoi</td><td></td><td>34,7</td></tr>
+<tr><td></td><td></td><td>Oignons</td><td></td><td>71,0</td></tr>
+<tr><td></td><td></td><td>Poireaux</td><td></td><td>80,3</td></tr>
+<tr><td></td><td></td><td>Légumes du genre Allium, autres</td><td></td><td>30,6</td></tr>
+<tr><td></td><td>Choux</td><td>Brocoli</td><td></td><td>31,3</td></tr>
+<tr><td></td><td></td><td>Chou blanc</td><td></td><td>90,4</td></tr>
+<tr><td></td><td></td><td>Chou chinois</td><td></td><td>84,9</td></tr>
+<tr><td></td><td></td><td>Chou de Bruxelles</td><td></td><td>26,3</td></tr>
+<tr><td></td><td></td><td>Chou de Milan</td><td></td><td>96,6</td></tr>
+<tr><td></td><td></td><td>Chou rouge</td><td></td><td>94,7</td></tr>
+<tr><td></td><td></td><td>Chou vert</td><td></td><td>70,0</td></tr>
+<tr><td></td><td></td><td>Chou-fleur</td><td></td><td>47,3</td></tr>
+<tr><td></td><td></td><td>Chou-rave</td><td></td><td>52,5</td></tr>
+<tr><td></td><td></td><td>Pakchoi</td><td></td><td>34,4</td></tr>
 <tr><td></td><td></td><td>Choux, autres</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td>Salades</td><td>Arroche des jardins</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Chicorée de Trévise</td><td></td><td>38,8</td></tr>
+<tr><td></td><td></td><td>Chicorée de Trévise</td><td></td><td>37,2</td></tr>
 <tr><td></td><td></td><td>Chicorée endive</td><td></td><td>45,3</td></tr>
 <tr><td></td><td></td><td>Chicorée Witloof</td><td></td><td>59,3</td></tr>
-<tr><td></td><td></td><td>Laitue iceberg</td><td></td><td>55,6</td></tr>
-<tr><td></td><td></td><td>Mâche/rampon</td><td></td><td>92,0</td></tr>
-<tr><td></td><td></td><td>Pain de sucre</td><td></td><td>73,7</td></tr>
-<tr><td></td><td></td><td>Radicchio</td><td></td><td>83,6</td></tr>
-<tr><td></td><td></td><td>Salade pommée</td><td></td><td>72,1</td></tr>
+<tr><td></td><td></td><td>Laitue iceberg</td><td></td><td>55,3</td></tr>
+<tr><td></td><td></td><td>Mâche/rampon</td><td></td><td>90,4</td></tr>
+<tr><td></td><td></td><td>Pain de sucre</td><td></td><td>68,4</td></tr>
+<tr><td></td><td></td><td>Radicchio</td><td></td><td>84,6</td></tr>
+<tr><td></td><td></td><td>Salade pommée</td><td></td><td>70,8</td></tr>
 <tr><td></td><td></td><td>Salades à feuilles, autres</td><td></td><td>100</td></tr>
-<tr><td></td><td>Autres légumes à feuilles et à tiges</td><td>Asperges</td><td></td><td>6,3</td></tr>
-<tr><td></td><td></td><td>Bettes</td><td></td><td>67,7</td></tr>
-<tr><td></td><td></td><td>Céleri en branches</td><td></td><td>53,4</td></tr>
-<tr><td></td><td></td><td>Épinards</td><td></td><td>91,1</td></tr>
-<tr><td></td><td></td><td>Rhubarbe</td><td></td><td>75,7</td></tr>
-<tr><td></td><td></td><td>Légumes à feuilles et à tige, autres, comme cresson, persil, artichauts, pissenlits, fines herbes</td><td></td><td>45,0</td></tr>
-<tr><td></td><td>Légumes-fruits</td><td>Aubergines</td><td></td><td>34,1</td></tr>
-<tr><td></td><td></td><td>Concombre</td><td></td><td>33,8</td></tr>
-<tr><td></td><td></td><td>Courge</td><td></td><td>71,1</td></tr>
-<tr><td></td><td></td><td>Courgettes</td><td></td><td>33,0</td></tr>
+<tr><td></td><td>Autres légumes à feuilles et à tiges</td><td>Asperges</td><td></td><td>6,5</td></tr>
+<tr><td></td><td></td><td>Bettes</td><td></td><td>66,6</td></tr>
+<tr><td></td><td></td><td>Céleri en branches</td><td></td><td>49,1</td></tr>
+<tr><td></td><td></td><td>Épinards</td><td></td><td>88,9</td></tr>
+<tr><td></td><td></td><td>Rhubarbe</td><td></td><td>75,9</td></tr>
+<tr><td></td><td></td><td>Légumes à feuilles et à tige, autres, comme cresson, persil, artichauts, pissenlits, fines herbes</td><td></td><td>44,0</td></tr>
+<tr><td></td><td>Légumes-fruits</td><td>Aubergines</td><td></td><td>32,8</td></tr>
+<tr><td></td><td></td><td>Concombre</td><td></td><td>33,0</td></tr>
+<tr><td></td><td></td><td>Courge</td><td></td><td>65,7</td></tr>
+<tr><td></td><td></td><td>Courgettes</td><td></td><td>31,1</td></tr>
 <tr><td></td><td></td><td>Melon</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Pastèque</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Poivron</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Tomates</td><td></td><td>29,0</td></tr>
-<tr><td></td><td>Légumineuses</td><td>Haricots</td><td></td><td>57,3</td></tr>
-<tr><td></td><td></td><td>Petits pois</td><td></td><td>57,4</td></tr>
-<tr><td></td><td></td><td>Pois mange-tout</td><td></td><td>&lt;5</td></tr>
+<tr><td></td><td></td><td>Tomates</td><td></td><td>27,7</td></tr>
+<tr><td></td><td>Légumineuses</td><td>Haricots</td><td></td><td>54,6</td></tr>
+<tr><td></td><td></td><td>Petits pois</td><td></td><td>58,7</td></tr>
+<tr><td></td><td></td><td>Pois mange-tout</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td>Maïs (légume)</td><td>Maïs doux</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td>Champignons</td><td>Champignons de Paris</td><td></td><td>48,7</td></tr>
-<tr><td></td><td></td><td>Champignons, autres</td><td></td><td>5,0</td></tr>
+<tr><td></td><td>Champignons</td><td>Champignons de Paris</td><td></td><td>48,5</td></tr>
+<tr><td></td><td></td><td>Champignons, autres</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td>Autres types de légumes</td><td>Légumes, autres</td><td></td><td>&lt; 5</td></tr>
-<tr><td>Fruits</td><td>Fruits à pépins</td><td>Coings</td><td></td><td>56,9</td></tr>
-<tr><td></td><td></td><td>Poires à cidre</td><td></td><td>100</td></tr>
-<tr><td></td><td></td><td>Poires pour la distillation</td><td></td><td>76,7</td></tr>
-<tr><td></td><td></td><td>Poires, autres</td><td></td><td>60,5</td></tr>
-<tr><td></td><td></td><td>Pommes à cidre</td><td></td><td>100</td></tr>
-<tr><td></td><td></td><td>Pommes pour la distillation</td><td></td><td>85,3</td></tr>
-<tr><td></td><td></td><td>Pommes, autres</td><td></td><td>85,1</td></tr>
-<tr><td></td><td>Fruits à noyau</td><td>Abricots</td><td></td><td>30,5</td></tr>
-<tr><td></td><td></td><td>Cerises de table</td><td></td><td>48,3</td></tr>
-<tr><td></td><td></td><td>Cerises pour la distillation</td><td></td><td>52,6</td></tr>
-<tr><td></td><td></td><td>Cerises, autres, comme cerises en conserves</td><td></td><td>46,5</td></tr>
+<tr><td>Fruits</td><td>Fruits à pépins</td><td>Coings</td><td></td><td>62,7</td></tr>
+<tr><td></td><td></td><td>Poires à cidre</td><td></td><td>109,8</td></tr>
+<tr><td></td><td></td><td>Poires pour la distillation</td><td></td><td>75,9</td></tr>
+<tr><td></td><td></td><td>Poires, autres</td><td></td><td>69,2</td></tr>
+<tr><td></td><td></td><td>Pommes à cidre</td><td></td><td>140,6</td></tr>
+<tr><td></td><td></td><td>Pommes pour la distillation</td><td></td><td>82,9</td></tr>
+<tr><td></td><td></td><td>Pommes, autres</td><td></td><td>90,9</td></tr>
+<tr><td></td><td>Fruits à noyau</td><td>Abricots</td><td></td><td>35,7</td></tr>
+<tr><td></td><td></td><td>Cerises de table</td><td></td><td>53,7</td></tr>
+<tr><td></td><td></td><td>Cerises pour la distillation</td><td></td><td>59,1</td></tr>
+<tr><td></td><td></td><td>Cerises, autres, comme cerises en conserves</td><td></td><td>50,1</td></tr>
 <tr><td></td><td></td><td>Pêches</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Prunes et pruneaux pour la distillation</td><td></td><td>61,4</td></tr>
-<tr><td></td><td></td><td>Prunes de table et pruneaux de table</td><td></td><td>26,2</td></tr>
-<tr><td></td><td>Petits fruits et kiwis</td><td>Cassis</td><td></td><td>91,9</td></tr>
-<tr><td></td><td></td><td>Fraises</td><td></td><td>31,0</td></tr>
-<tr><td></td><td></td><td>Framboises</td><td></td><td>45,7</td></tr>
-<tr><td></td><td></td><td>Groseilles à maquereau</td><td></td><td>90,5</td></tr>
-<tr><td></td><td></td><td>Groseilles rouges</td><td></td><td>90,6</td></tr>
-<tr><td></td><td></td><td>Mûres</td><td></td><td>78,2</td></tr>
-<tr><td></td><td></td><td>Myrtilles</td><td></td><td>&lt; 5</td></tr>
+<tr><td></td><td></td><td>Prunes et pruneaux pour la distillation</td><td></td><td>64,5</td></tr>
+<tr><td></td><td></td><td>Prunes de table et pruneaux de table</td><td></td><td>31,7</td></tr>
+<tr><td></td><td>Petits fruits et kiwis</td><td>Cassis</td><td></td><td>91,6</td></tr>
+<tr><td></td><td></td><td>Fraises</td><td></td><td>32,6</td></tr>
+<tr><td></td><td></td><td>Framboises</td><td></td><td>45,1</td></tr>
+<tr><td></td><td></td><td>Groseilles à maquereau</td><td></td><td>92,8</td></tr>
+<tr><td></td><td></td><td>Groseilles rouges</td><td></td><td>91,5</td></tr>
+<tr><td></td><td></td><td>Mûres</td><td></td><td>82,0</td></tr>
+<tr><td></td><td></td><td>Myrtilles</td><td></td><td>5,6</td></tr>
 <tr><td></td><td></td><td>Petits fruits, autres, comme baies de sureau, cynorhodons, muroise et kiwis</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td>Raisins</td><td>Raisins de table</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Raisins pour le vin blanc</td><td></td><td>70,5</td></tr>
-<tr><td></td><td></td><td>Raisins pour le vin rouge</td><td></td><td>48,5</td></tr>
+<tr><td></td><td></td><td>Raisins pour le vin blanc</td><td></td><td>71,9</td></tr>
+<tr><td></td><td></td><td>Raisins pour le vin rouge</td><td></td><td>50,5</td></tr>
 <tr><td></td><td></td><td>Raisins, autres</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td>Bananes</td><td>Bananes</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Bananes plantain</td><td>x</td><td></td></tr>
@@ -332,23 +332,23 @@ Les produits naturels visés à l’art. 6, qui ne peuvent être produits en Sui
 <tr><td></td><td></td><td>Thé noir</td><td>x</td><td></td></tr>
 <tr><td></td><td>Stimulants, autres</td><td>Stimulants, autres</td><td></td><td>&lt; 5</td></tr>
 <tr><td>Épices</td><td>Épices</td><td>Épices</td><td></td><td>&lt; 5</td></tr>
-<tr><td>Animaux</td><td></td><td>Bovins</td><td></td><td>72,2</td></tr>
-<tr><td></td><td></td><td>Cheval</td><td></td><td>9,3</td></tr>
-<tr><td></td><td></td><td>Chèvre</td><td></td><td>70,7</td></tr>
-<tr><td></td><td></td><td>Mouton</td><td></td><td>41,3</td></tr>
-<tr><td></td><td></td><td>Porc</td><td></td><td>76,8</td></tr>
-<tr><td></td><td></td><td>Veau</td><td></td><td>97,0</td></tr>
-<tr><td></td><td>Volailles</td><td>Dinde</td><td></td><td>15,8</td></tr>
-<tr><td></td><td></td><td>Poulet de chair et poule pondeuse</td><td></td><td>58,2</td></tr>
+<tr><td>Animaux</td><td></td><td>Bovins</td><td></td><td>72,7</td></tr>
+<tr><td></td><td></td><td>Cheval</td><td></td><td>9,2</td></tr>
+<tr><td></td><td></td><td>Chèvre</td><td></td><td>74,4</td></tr>
+<tr><td></td><td></td><td>Mouton</td><td></td><td>42,0</td></tr>
+<tr><td></td><td></td><td>Porc</td><td></td><td>75,7</td></tr>
+<tr><td></td><td></td><td>Veau</td><td></td><td>97,2</td></tr>
+<tr><td></td><td>Volailles</td><td>Dinde</td><td></td><td>16,8</td></tr>
+<tr><td></td><td></td><td>Poulet de chair et poule pondeuse</td><td></td><td>59,4</td></tr>
 <tr><td></td><td></td><td>Volailles, autres, comme canard, oie, pintade</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td>Lapins</td><td>Lapin</td><td></td><td>44,1</td></tr>
-<tr><td></td><td>Gibier</td><td>Gibier</td><td></td><td>31,2</td></tr>
+<tr><td></td><td>Lapins</td><td>Lapin</td><td></td><td>44,6</td></tr>
+<tr><td></td><td>Gibier</td><td>Gibier</td><td></td><td>33,7</td></tr>
 <tr><td></td><td>Animaux sans les poissons, autres</td><td>Animaux sans les poissons, autres</td><td></td><td>&lt; 5</td></tr>
-<tr><td>Œufs</td><td></td><td>Œufs de poule (*Gallus domes**ticus*)</td><td></td><td>58,1</td></tr>
-<tr><td></td><td></td><td>Œufs, autres, comme d’autruche, de caille, de canard</td><td></td><td>84,0</td></tr>
-<tr><td>Poissons et animaux aquatiques</td><td></td><td>Poissons d’eau douce</td><td></td><td>18,6</td></tr>
+<tr><td>Œufs</td><td></td><td>Œufs de poule (*Gallus domesticus*)</td><td></td><td>59,0</td></tr>
+<tr><td></td><td></td><td>Œufs, autres, comme d’autruche, de caille, de canard</td><td></td><td>83,5</td></tr>
+<tr><td>Poissons et animaux aquatiques</td><td></td><td>Poissons d’eau douce</td><td></td><td>20,7</td></tr>
 <tr><td></td><td></td><td>Poissons et animaux aquatiques, autres</td><td>x</td><td></td></tr>
-<tr><td>Lait (vache, chèvre, brebis, bufflonne)</td><td></td><td>Lait de vache, chèvre, brebis et bufflonne</td><td></td><td>87,9</td></tr>
+<tr><td>Lait (vache, chèvre, brebis, bufflonne)</td><td></td><td>Lait de vache, chèvre, brebis et bufflonne</td><td></td><td>86,6</td></tr>
 <tr><td>Autres</td><td></td><td>Éthanol</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Maltodextrine</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Sel de cuisine (excepté le sel marin)</td><td></td><td>100</td></tr>
