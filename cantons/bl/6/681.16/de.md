@@ -4,13 +4,13 @@ number: "681.16"
 title: Verordnung über die Organisation und Durchführung der Qualifikationsverfahren der beruflichen Grundbildung
 short: Prüfungsverordnung
 language: de
-version: 2021-10-01
-valid_until: 2021-12-31
-version_adopted: 2021-09-28
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-12-14
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/681.16"
-pdf: "https://bl.clex.ch/api/de/versions/3103/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3194/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3103/pdf_file"
 
 (Prüfungsverordnung)
 
-Vom 17.03.2009 (Stand 01.10.2021)
+Vom 17.03.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -56,20 +56,20 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Dem Amt für Berufsbildung und Berufsberatung (AfBB) obliegt die Prüfungsleitung.
+<sup>1</sup> Der Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) obliegt die Prüfungsleitung.
 
-<sup>2</sup> Es ist verantwortlich für die Durchführung der Qualifikationsverfahren.
+<sup>2</sup> Sie ist verantwortlich für die Durchführung der Qualifikationsverfahren.
 
-<sup>3</sup> Das AfBB hat insbesondere folgende Aufgaben:
+<sup>3</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH hat insbesondere folgende Aufgaben:
 
-- a. Es erstellt das Prüfungsprogramm und bringt dieses der Kommission für Qualifikationsverfahren der beruflichen Grundbildung (Prüfungskommission) zur Kenntnis.
-- b. Es bietet die Kandidatinnen und Kandidaten auf und ist besorgt für die Durchführung korrekter Qualifikationsverfahren gemäss den Vorschriften des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) und den Beschlüssen der kantonalen Prüfungskommission.
-- c. Es delegiert Qualifikationsverfahren in zahlenmässig schwach vertretenen Berufen an andere Kantone oder führt nach Absprache mit anderen Kantonen regionale Qualifikationsverfahren durch.
-- d. Es entscheidet über die Zulassung zu Qualifikationsverfahren.
-- e. Es stellt nach den Bestimmungen der betreffenden Verordnung über die berufliche Grundbildung oder des entsprechenden eidg. Qualifikations- oder Kompetenzenprofils fest, ob das Qualifikationsverfahren als bestanden oder als nicht bestanden gilt und stellt eidg. Fähigkeitszeugnisse, eidg. Berufsatteste und Notenausweise aus.
-- f. Es stellt auf Begehren und gegen Gebühr Duplikate von Fähigkeitszeugnissen, Berufsattesten und Notenausweisen aus.
-- g. Es berät diejenigen, welche das Qualifikationsverfahren nicht bestanden haben, und trifft im Sinne der Lehraufsicht die geeigneten Massnahmen.
-- h. Es stellt die Koordination mit den Berufsmaturitätsprüfungen, die von Ende Mai bis Anfang Juni stattfinden, sicher.
+- a. Sie erstellt das Prüfungsprogramm und bringt dieses der Kommission für Qualifikationsverfahren der beruflichen Grundbildung (Prüfungskommission) zur Kenntnis.
+- b. Sie bietet die Kandidatinnen und Kandidaten auf und ist besorgt für die Durchführung korrekter Qualifikationsverfahren gemäss den Vorschriften des Bundesamts für Berufsbildung und Technologie (BBT) und den Beschlüssen der kantonalen Prüfungskommission.
+- c. Sie delegiert Qualifikationsverfahren in zahlenmässig schwach vertretenen Berufen an andere Kantone oder führt nach Absprache mit anderen Kantonen regionale Qualifikationsverfahren durch.
+- d. Sie entscheidet über die Zulassung zu Qualifikationsverfahren.
+- e. Sie stellt nach den Bestimmungen der betreffenden Verordnung über die berufliche Grundbildung oder des entsprechenden eidgenössischen Qualifikations- oder Kompetenzenprofils fest, ob das Qualifikationsverfahren als bestanden oder als nicht bestanden gilt, und stellt eidgenössische Fähigkeitszeugnisse, eidgenössische Berufsatteste und Notenausweise aus.
+- f. Sie stellt auf Begehren und gegen Gebühr Duplikate von Fähigkeitszeugnissen, Berufsattesten und Notenausweisen aus.
+- g. Sie berät diejenigen, welche das Qualifikationsverfahren nicht bestanden haben, und trifft im Sinne der Lehraufsicht die geeigneten Massnahmen.
+- h. Sie stellt die Koordination mit den Berufsmaturitätsprüfungen, die von Ende Mai bis Anfang Juni stattfinden, sicher.
 
 <sup>4</sup> Für die Organisation und Durchführung der Abschlussprüfungen in der allgemeinen schulischen Bildung (Allgemeinbildung) sind die Rektorate der Berufsfachschulen in Absprache mit der zuständigen Chefexpertin oder dem Chefexperten verantwortlich.
 
@@ -87,7 +87,7 @@ beschliesst:
 
 **Expertinnen und Experten**
 
-<sup>1</sup> Die Prüfungskommission wählt die Expertinnen und Experten auf Vorschlag der Organisationen der Arbeitswelt, des AfBB oder der Chefexpertinnen und Chefexperten.
+<sup>1</sup> Die Prüfungskommission wählt die Expertinnen und Experten auf Vorschlag der Organisationen der Arbeitswelt, der Hauptabteilung Berufsbildung der Dienststelle BMH oder der Chefexpertinnen und Chefexperten.
 
 <sup>2</sup> Als Expertinnen und Experten für die Fachprüfungen sind wählbar:
 
@@ -98,7 +98,7 @@ beschliesst:
 
 <sup>4</sup> Bei Vorliegen gleichwertiger Qualifikationen kann die Prüfungskommission in Ausnahmefällen von den Voraussetzungen gemäss den Abs. 2 und 3 absehen.
 
-<sup>5</sup> Expertinnen oder Experten können vom AfBB zum Besuch von Kursen des Bundes verpflichtet werden.
+<sup>5</sup> Expertinnen oder Experten können von der Hauptabteilung Berufsbildung der Dienststelle BMH zum Besuch von Kursen des Bundes verpflichtet werden.
 
 #### § 6
 
@@ -133,15 +133,15 @@ beschliesst:
 
 <sup>1</sup> Die Berufsbildungsverantwortlichen haben ihre Lernenden bis spätestens 31. August des Vorjahres zu den Qualifikationsverfahren beim AfBB anzumelden.
 
-<sup>2</sup> Gesuche um Verschiebung des Qualifikationsverfahrens, um Ablegung in einem andern Kanton oder um Nachteilsausgleich wegen einer Behinderung sind mit der Anmeldung schriftlich und begründet bis spätestens 31. August des Prüfungsvorjahres an das AfBB zu richten.
+<sup>2</sup> Gesuche um Verschiebung des Qualifikationsverfahrens, um Ablegung in einem andern Kanton oder um Nachteilsausgleich wegen einer Behinderung sind mit der Anmeldung schriftlich und begründet bis spätestens 31. August des Prüfungsvorjahres an die Hauptabteilung Berufsbildung der Dienststelle BMH zu richten.
 
-<sup>3</sup> Kandidatinnen oder Kandidaten nach Art. 31 und Art. 32 BBV und Repetierende ohne Lehrvertrag melden sich selber bis spätestens 31. August des Prüfungsvorjahres beim AfBB zum Qualifikationsverfahren an.
+<sup>3</sup> Kandidatinnen oder Kandidaten nach Art. 31 und Art. 32 BBV und Repetierende ohne Lehrvertrag melden sich selber bis spätestens 31. August des Prüfungsvorjahres bei der Hauptabteilung Berufsbildung der Dienststelle BMH an.
 
 #### § 10
 
 **Aufgebot zum Qualifikationsverfahren**
 
-<sup>1</sup> Das AfBB stellt den Kandidatinnen und Kandidaten, den Berufsbildungsverantwortlichen, den Mitgliedern der Prüfungskommission, den Berufsfachschulen und den Expertinnen und Experten bis Ende März das Prüfungsprogramm zu. Dieses gilt als Aufgebot für die Fachprüfungen.
+<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH stellt den Kandidatinnen und Kandidaten, den Berufsbildungsverantwortlichen, den Mitgliedern der Prüfungskommission, den Berufsfachschulen und den Expertinnen und Experten bis Ende März das Prüfungsprogramm zu. Dieses gilt als Aufgebot für die Fachprüfungen.
 
 <sup>2</sup> Die Kandidatin oder der Kandidat hat den Zeitpunkt des Qualifikationsverfahrens und alle im Programm enthaltenen Weisungen, insbesondere über Material und Werkzeuge, zu befolgen.
 
@@ -167,7 +167,7 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> Der Kanton verzichtet auf die Weiterverrechnung der Kosten für Infrastruktur und Material von zentral durchgeführten Qualifikationsverfahren an Baselbieter Berufsbildungsverantwortliche und Repetierende ohne Lehrvertrag.
 
-<sup>2<sup>ter</sup></sup> Kostensteigerungen für zentral durchgeführte Qualifikationsverfahren von mehr als 5 % im Vergleich zum Durchschnitt der 3 Vorjahre sowie alle nicht jährlich anfallenden Kosten für Anschaffungen sind von der Chefexpertin oder dem Chefexperten des jeweiligen Berufs vorab dem AfBB zur Genehmigung zu unterbreiten.
+<sup>2<sup>ter</sup></sup> Kostensteigerungen für zentral durchgeführte Qualifikationsverfahren von mehr als 5 % im Vergleich zum Durchschnitt der 3 Vorjahre sowie alle nicht jährlich anfallenden Kosten für Anschaffungen sind von der Chefexpertin oder dem Chefexperten des jeweiligen Berufs vorab der Hauptabteilung Berufsbildung der Dienststelle BMH zur Genehmigung zu unterbreiten.
 
 <sup>2<sup>quater</sup></sup> Nur die gemäss Abs. 2<sup>ter</sup> genehmigten Kostensteigerungen unterliegen dem Weiterverrechnungsverzicht gemäss Abs. 2<sup>bis</sup>.
 
@@ -179,7 +179,7 @@ beschliesst:
 
 <sup>1</sup> Die Qualifikationsverfahren sind nicht öffentlich.
 
-<sup>2</sup> Zutritt haben die Expertinnen und Experten, die Mitglieder der Prüfungskommission, die zuständigen Bundesbehörden, die Lehraufsicht des AfBB und die Schulleitungen der Berufsfachschulen.
+<sup>2</sup> Zutritt haben die Expertinnen und Experten, die Mitglieder der Prüfungskommission, die zuständigen Bundesbehörden, die Lehraufsicht der Hauptabteilung Berufsbildung der Dienststelle BMH und die Schulleitungen der Berufsfachschulen.
 
 <sup>3</sup> Die Prüfungsleitung kann weiteren interessierten Personen auf Gesuch hin den Zutritt zu den Qualifikationsverfahren bewilligen.
 
@@ -191,7 +191,7 @@ beschliesst:
 
 <sup>2</sup> Tritt eine Kandidatin oder ein Kandidat ohne entschuldbare Gründe zum Qualifikationsverfahren nicht an, gilt das ganze Qualifikationsverfahren als absolviert und nicht bestanden.
 
-<sup>3</sup> Kandidatinnen und Kandidaten, die unentschuldigt dem Qualifikationsverfahren fernbleiben, haben gemäss Art. 41 Abs. 2 des Bundesgesetzes über die Berufsbildung vom 13. Dezember 2002[^14-1] (BBG) für die verursachten Kosten aufzukommen.
+<sup>3</sup> Kandidatinnen und Kandidaten, die unentschuldigt dem Qualifikationsverfahren fernbleiben, haben gemäss Art. 41 Abs. 2 des Bundesgesetzes über die Berufsbildung (Berufsbildungsgesetz, BBG) vom 13. Dezember 2002[^14-1] für die verursachten Kosten aufzukommen.
 
 <sup>4</sup> Repetentinnen und Repetenten sowie Kandidatinnen und Kandidaten nach Art. 31 und Art. 32 BBV, die sich nach Erhalt des Prüfungsprogramms wieder abmelden, haben für die verursachten Kosten aufzukommen.
 
@@ -213,7 +213,7 @@ beschliesst:
 
 **Eröffnung des Prüfungsergebnisses**
 
-<sup>1</sup> Das AfBB stellt den Kandidatinnen oder Kandidaten das Fähigkeitszeugnis oder das Berufsattest sowie die Notenausweise nach Auswertung der Prüfungsergebnisse spätestens auf Lehrende zu.
+<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH stellt den Kandidatinnen oder Kandidaten das Fähigkeitszeugnis oder das Berufsattest sowie die Notenausweise nach Auswertung der Prüfungsergebnisse spätestens auf Lehrende zu.
 
 <sup>2</sup> Den betrieblichen Berufsbildungsverantwortlichen wird eine Kopie des Notenausweises zugestellt.
 
@@ -229,7 +229,7 @@ beschliesst:
 
 **Aushändigung der Prüfungsarbeiten**
 
-<sup>1</sup> Das AfBB entscheidet über die Freigabe und Aushändigung der Prüfungsarbeiten in Absprache mit den Chefexpertinnen oder Chefexperten.
+<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH entscheidet über die Freigabe und Aushändigung der Prüfungsarbeiten in Absprache mit den Chefexpertinnen oder Chefexperten.
 
 <sup>2</sup> Prüfungsstücke, bei welchen Infrastruktur und Material vom Kanton Basel-Landschaft finanziert wurden, bleiben in dessen Eigentum. Prüfungsstücke und Produkte, die im Rahmen der individuellen Prüfungsarbeit (IPA) erstellt wurden, sind Eigentum des Ausbildungsbetriebs.
 
