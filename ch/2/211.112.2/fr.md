@@ -4,11 +4,11 @@ title: "Ordonnance du 28 avril 2004 sur l'état civil (OEC)"
 short: OEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20210401/fr"
 
 (OEC)
 
-du 28 avril 2004 (Etat le 1<sup>er</sup> avril 2021)
+du 28 avril 2004 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -136,20 +136,22 @@ Dans le domaine de l’état civil, les représentations de la Suisse à l’ét
 - c. recevoir et transmettre des demandes et des déclarations en vue de la célébration d’un mariage (art. 63, al. 2, et 65, al. 1) ou la conclusion d’un partenariat enregistré (art. 75*b*, al. 2, et 75*d*, al. 1) en Suisse, procéder à l’audition des fiancés (art. 74*a*, al. 2) ou des partenaires (art. 75*m*, al. 2) et transmettre des certificats suisses de capacité matrimoniale en vue d’un mariage à l’étranger (art. 75);
 - d. recevoir et transmettre des déclarations de paternité (art. 11, al. 6) si l’enregistrement de la reconnaissance de l’enfant n’est pas possible à l’étranger;
 - e.[^5-3] recevoir et transmettre des déclarations concernant le nom (art. 12, al. 2, 12*a*, al. 2, 13, al. 1, 13*a*, al. 1, 14, al. 2, 14*a*, al. 1, 37, al. 4, et 37*a*, al. 5);
+- e<sup>bis</sup>.[^5-4] recevoir et transmettre des déclarations concernant le changement de sexe et, le cas échéant, de prénoms inscrits dans le registre de l’état civil (art. 14*b*);
 - f. faire vérifier les droits de cité communaux et cantonaux et la nationalité suisse;
 - g. vérifier l’authenticité de documents étrangers;
 - h. rechercher et transmettre des informations relatives au droit étranger;
 - i. percevoir des émoluments.
 
-<sup>2</sup> Elles communiquent à l’office de l’état civil et à l’autorité de surveillance, à l’intention de l’autorité cantonale compétente en matière d’étrangers, les faits indiquant qu’un mariage ou un partenariat est prévu ou a été conclu dans le but de contourner les dispositions sur l’admission et le séjour des étrangers (art. 82*a* de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative, OASA[^5-4]).[^5-5]
+<sup>2</sup> Elles communiquent à l’office de l’état civil et à l’autorité de surveillance, à l’intention de l’autorité cantonale compétente en matière d’étrangers, les faits indiquant qu’un mariage ou un partenariat est prévu ou a été conclu dans le but de contourner les dispositions sur l’admission et le séjour des étrangers (art. 82*a* de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative, OASA[^5-5]).[^5-6]
 
 <sup>3</sup> L’OFEC donne les instructions nécessaires et exerce la surveillance.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^5-3]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^5-4]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^5-5]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^5-4]: Introduite par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^5-5]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-6]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 6
 
@@ -224,8 +226,8 @@ Les données suivantes sont traitées dans le registre de l’état civil:
   - 3\. Statut de l’inscription,
   - 4\. Listes (communes, arrondissements de l’état civil, États, adresses);
 
-- b.[^8-1] Numéro d’assuré au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^8-2] (numéro d’assuré AVS);
-- b<sup>bis</sup>.[^8-3] ...
+- b.[^8-1] Numéro AVS;
+- b<sup>bis</sup>.[^8-2] ...
 - c.
 
   Noms:
@@ -249,7 +251,7 @@ Les données suivantes sont traitées dans le registre de l’état civil:
 
   État civil:
 
-  - 1\.[^8-4] Statut (célibataire – marié/divorcé/veuf/non marié – lié par un partenariat enregistré/partenariat dissous: partenariat dissous judiciairement/partenariat dissous par décès/partenariat dissous ensuite de déclaration d’absence),
+  - 1\.[^8-3] Statut (célibataire – marié/divorcé/veuf/non marié – lié par un partenariat enregistré/partenariat dissous: partenariat dissous judiciairement/partenariat dissous par décès/partenariat dissous ensuite de déclaration d’absence),
   - 2\. Date;
 
 - g.
@@ -263,7 +265,7 @@ Les données suivantes sont traitées dans le registre de l’état civil:
 - h. Domicile;
 - i. Lieu de séjour;
 - j. Statut de vie;
-- k.[^8-5]
+- k.[^8-4]
 
   Protection de l’adulte:
 
@@ -308,24 +310,24 @@ Les données suivantes sont traitées dans le registre de l’état civil:
 
   Données afférentes aux relations de famille:
 
-  - 1\.[^8-6] Type (mariage/partenariat enregistré/filiation)
+  - 1\.[^8-5] Type (mariage/partenariat enregistré/filiation)
   - 2\. Date (valable dès le/valable jusqu’au),
   - 3\. Motif de la dissolution.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^8-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^8-3]: Introduite par l’annexe ch. 2 de l’O du 21 nov. 2007 sur l’harmonisation des registres, ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Abrogée par le ch. I de l’O du 4 juin 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^8-4]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^8-5]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^8-6]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^8-1]: Nouvelle teneur selon l’annexe ch. II 8 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^8-2]: Introduite par l’annexe ch. 2 de l’O du 21 nov. 2007 sur l’harmonisation des registres, ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Abrogée par le ch. I de l’O du 4 juin 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^8-4]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^8-5]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 8a
 
-**Attribution du numéro d’assuré AVS**[^8a-1]
+**Attribution du numéro AVS[^8a-2]**[^8a-1]
 
-La Centrale de compensation de l’assurance-vieillesse et survivants (CdC) attribue le numéro d’assuré AVS à la personne qui lui a été annoncée conformément à l’art. 53, al. 1.
+La Centrale de compensation de l’assurance-vieillesse et survivants (CdC) attribue le numéro AVS à la personne qui lui a été annoncée conformément à l’art. 53, al. 1.
 
 [^8a-1]: Introduit par l’annexe ch. 2 de l’O du 21 nov. 2007 sur l’harmonisation des registres, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^8a-2]: Nouvelle expression selon l’annexe ch. II 8 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 9
 
@@ -400,18 +402,18 @@ Par enfant trouvé on entend un enfant exposé, abandonné, dont la filiation es
 
 <sup>3</sup> Il est interdit de dresser l’acte de reconnaissance d’un enfant adopté.
 
-<sup>4</sup> Si l’auteur de la reconnaissance est mineur, s’il est sous curatelle de portée générale (art. 398 CC) ou s’il fait l’objet d’un mandat pour cause d’inaptitude en raison d’une incapacité durable de discernement (art. 449*c*, ch. 2, CC), le consentement écrit de son représentant légal est nécessaire (art. 260, al. 2, CC). Les personnes qui donnent leur consentement doivent justifier leur pouvoir de représentation et les signatures doivent être légalisées.[^11-1]
+<sup>4</sup> Dans les cas visés à l’art. 260, al. 2, CC, le consentement du représentant légal doit être donné par écrit. Les personnes qui donnent leur consentement doivent justifier leur pouvoir de représentation et les signatures doivent être légalisées.[^11-1]
 
-<sup>5</sup> Sous réserve de l’art. 71, al. 1, LDIP[^11-2], tout officier de l’état civil est compétent pour recevoir la déclaration de reconnaissance. Si l’auteur de la reconnaissance ne peut comparaître en personne, la déclaration peut être reçue ailleurs que dans les locaux officiels.[^11-3]
+<sup>5</sup> Sous réserve de l’art. 71, al. 1, LDIP[^11-2], tout officier de l’état civil est compétent pour recevoir la déclaration de reconnaissance et le consentement du représentant légal.[^11-3]
 
-<sup>6</sup> Dans ces cas particulièrement fondés, la reconnaissance peut exceptionnellement être enregistrée ailleurs qu’à l’office de l’état civil, notamment par l’officier de l’état civil compétent à raison du lieu où est sis un établissement hospitalier ou d’exécution des peines ou encore par l’entremise de la représentation compétente de la Suisse à l’étranger.[^11-4]
+<sup>6</sup> Si l’auteur de la reconnaissance ou le représentant légal démontre que son déplacement à l’office de l’état civil ne peut manifestement pas être exigé, la déclaration ou le consentement peut être reçu dans un autre lieu, notamment dans un établissement hospitalier, médico-social ou d’exécution des peines ou encore par l’entremise de la représentation compétente de la Suisse à l’étranger.[^11-4]
 
 <sup>7</sup> L’officier de l’état civil communique la reconnaissance à la mère et à l’enfant ou à ses descendants après sa mort, en attirant leur attention sur les dispositions des art. 260*a* à 260*c* CC.
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^11-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^11-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^11-4]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^11-4]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 11a
 
@@ -487,8 +489,14 @@ Lorsqu’il est reconnu par le père et qu’il ne s’agit pas du premier enfan
 
 <sup>3</sup> Lorsqu’une personne de nationalité suisse fait une déclaration concernant le nom énoncée aux art. 12, 12*a*, 13, 13*a*, 14*a*, 37, al. 2 ou 3, ou 37*a*, al. 3 ou 4, celle-ci a valeur de soumission du nom au droit suisse.[^14-2]
 
+<sup>4</sup> Lorsque survient un fait d’état civil qui se rapporte personnellement à un Suisse domicilié à l’étranger ou à un étranger, la personne concernée peut déclarer par écrit devant l’officier de l’état civil qu’elle souhaite soumettre l’inscription de son sexe et, le cas échéant, de ses prénoms dans le registre de l’état civil à son droit national (art. 40*a* LDIP).[^14-3]
+
+<sup>5</sup> Lorsqu’une personne de nationalité suisse fait une déclaration concernant le changement de sexe inscrit dans le registre de l’état civil au sens de l’art. 14*b*, celle-ci a valeur de soumission du sexe au droit suisse.[^14-4]
+
 [^14-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 [^14-2]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^14-3]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14-4]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 14a
 
@@ -502,9 +510,15 @@ Lorsqu’il est reconnu par le père et qu’il ne s’agit pas du premier enfan
 
 #### Art. 14b
 
-[^14b-1]
+**Déclaration concernant le changement de sexe inscrit dans le registre de l’état civil**[^14b-1]
 
-[^14b-1]: Introduit par le ch. I de l’O du 7 nov. 2012, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+<sup>1</sup> La déclaration concernant le changement de sexe et, le cas échéant, de prénoms inscrits dans le registre de l’état civil peut être remise, en Suisse, à tout officier de l’état civil et, à l’étranger, à la représentation compétente de la Suisse. La déclaration n’est subordonnée à aucune condition autre que celles visées à l’art. 30*b* CC.
+
+<sup>2</sup> Dans les cas visés à l’art. 30*b,* al. 4, CC, le consentement du représentant légal doit être donné par écrit. Les personnes qui donnent leur consentement doivent justifier leur pouvoir de représentation et les signatures doivent être légalisées.
+
+<sup>3</sup> Si la personne déclarante ou le représentant légal démontre que son déplacement à l’office de l’état civil ne peut manifestement pas être exigé, la déclaration ou le consentement peut être reçu dans un autre lieu, notamment dans un établissement hospitalier, médico-social ou d’exécution des peines.
+
+[^14b-1]: Introduit par le ch. I de l’O du 7 nov. 2012 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 ## Chapitre 3 Procédure d’enregistrement
 
@@ -533,9 +547,15 @@ Lorsqu’il est reconnu par le père et qu’il ne s’agit pas du premier enfan
 
 <sup>1</sup> Toute personne est saisie dans le registre de l’état civil à l’annonce de sa naissance.
 
-<sup>2</sup> Les ressortissants étrangers dont les données ne sont pas disponibles ...[^15a-2] sont saisis au plus tard lorsqu’ils sont concernés par un fait d’état civil qui doit être enregistré en Suisse.
+<sup>2</sup>
 
-<sup>2bis</sup> Un ressortissant étranger dont les données ne sont pas disponibles dans le système est également saisi lorsqu’il demande d’inscrire le fait qu’il a constitué un mandat pour cause d’inaptitude (art. 8, let. k, ch. 1).[^15a-3]
+Un ressortissant étranger dont les données ne sont pas disponibles est saisi lorsqu’il:
+
+- a. est concerné par un fait ou une déclaration d’état civil qui doit être enregistré en Suisse;
+- b. dépose une demande d’acquisition de la nationalité suisse;
+- c. demande d’inscrire le fait qu’il a constitué un mandat pour cause d’inaptitude (art. 8, let. k, ch. 1).[^15a-2]
+
+<sup>2bis</sup> ...[^15a-3]
 
 <sup>3</sup> Si la présentation des documents nécessaires à la saisie d’un ressortissant étranger dans le registre de l’état civil s’avère impossible ou ne peut être raisonnablement exigée, l’officier de l’état civil examine la possibilité de recevoir une déclaration conformément à l’art. 41, al. 1, CC.
 
@@ -546,8 +566,8 @@ Lorsqu’il est reconnu par le père et qu’il ne s’agit pas du premier enfan
 <sup>6</sup> La séquence de données peut être complétée ultérieurement sur présentation des documents manquants.
 
 [^15a-1]: Introduit par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^15a-2]: Expression supprimée selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Il a été tenu compte de cette mod. uniquement dans les disp. mentionnées au RO.
-[^15a-3]: Introduit par le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^15a-2]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^15a-3]: Introduit par le ch. I de l’O du 7 nov. 2012 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Abrogé par le ch. I de l’O du 27 oct. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 15b
 
@@ -592,28 +612,30 @@ L’autorité de l’état civil:
 
 - a. examine si elle est compétente;
 - b. s’assure de l’identité et de la capacité civile des personnes concernées;
-- c.[^16-1] vérifie que les données disponibles du système et les indications à enregistrer sont exactes, complètes et conformes à l’état actuel.
+- c.[^16-1] vérifie que les données disponibles ...[^16-2] et les indications à enregistrer sont exactes, complètes et conformes à l’état actuel.
 
 <sup>2</sup> Les personnes concernées doivent produire les pièces requises. Celles-ci ne doivent pas dater de plus de six mois. Si l’obtention de tels documents s’avère impossible ou ne peut manifestement être exigée, des documents plus anciens sont admis dans des cas fondés.
 
-<sup>3</sup> ...[^16-2]
+<sup>3</sup> ...[^16-3]
 
-<sup>4</sup> Il n’est pas nécessaire de produire des documents pour prouver des faits d’état civil qui sont disponibles dans le système.[^16-3]
+<sup>4</sup> Il n’est pas nécessaire de produire des documents pour prouver des faits d’état civil qui sont disponibles ...[^16-4].[^16-5]
 
 <sup>5</sup> L’autorité de l’état civil informe et conseille les personnes concernées, met en œuvre, au besoin, des recherches supplémentaires et peut exiger la collaboration des personnes concernées.
 
-<sup>6</sup> Les cantons peuvent prévoir que les documents soient soumis à l’autorité de surveillance pour vérification lorsque des ressortissants étrangers sont saisis dans le registre de l’état civil conformément à l’art. 15*a*, al. 2.[^16-4]
+<sup>6</sup> Les cantons peuvent prévoir que les documents soient soumis à l’autorité de surveillance pour vérification lorsque des ressortissants étrangers sont saisis dans le registre de l’état civil conformément à l’art. 15*a*, al. 2.[^16-6]
 
-<sup>7</sup> L’autorité de l’état civil dénonce aux autorités de poursuites cantonales compétentes les infractions pénales qu’elle constate dans l’exercice de ses fonctions (art. 43*a*, al. 3<sup>bis</sup>, CC); elle leur remet les documents pour lesquels il existe un doute fondé qu’ils sont falsifiés ou utilisés illégalement. Ces autorités prennent sans délai les mesures de protection nécessaires.[^16-5]
+<sup>7</sup> L’autorité de l’état civil dénonce aux autorités de poursuites cantonales compétentes les infractions pénales qu’elle constate dans l’exercice de ses fonctions (art. 43*a*, al. 3<sup>bis</sup>, CC); elle leur remet les documents pour lesquels il existe un doute fondé qu’ils sont falsifiés ou utilisés illégalement. Ces autorités prennent sans délai les mesures de protection nécessaires.[^16-7]
 
-<sup>8</sup> Lorsqu’elle a des raisons de croire qu’un mariage ou un partenariat enregistré est entaché d’un vice entraînant la nullité, l’autorité de l’état civil est tenue d’informer l’autorité compétente pour intenter l’action en annulation (art. 106, al. 1, 2<sup>e</sup> phrase, CC, et art. 9, al. 2, 2<sup>e</sup> phrase, LPart); elle en avise l’autorité de surveillance.[^16-6]
+<sup>8</sup> Lorsqu’elle a des raisons de croire qu’un mariage ou un partenariat enregistré est entaché d’un vice entraînant la nullité, l’autorité de l’état civil est tenue d’informer l’autorité compétente pour intenter l’action en annulation (art. 106, al. 1, 2<sup>e</sup> phrase, CC, et art. 9, al. 2, 2<sup>e</sup> phrase, LPart); elle en avise l’autorité de surveillance.[^16-8]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^16-2]: Abrogé par le ch. I de l’O du 28 juin 2006, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^16-3]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^16-4]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^16-5]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^16-6]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^16-2]: Expression supprimée selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^16-3]: Abrogé par le ch. I de l’O du 28 juin 2006, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^16-4]: Expression supprimée selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Il a été tenu compte de cette mod. uniquement dans les disp. mentionnées au RO.
+[^16-5]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^16-6]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^16-7]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^16-8]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 16a
 
@@ -624,7 +646,7 @@ L’autorité de l’état civil:
 L’officier de l’état civil peut demander aux personnes concernées une confirmation écrite de l’exactitude de leurs données au sens de l’art. 16, al. 1, let. c, dans les cas suivants:
 
 - a. lorsqu’il saisit un ressortissant étranger dans le registre de l’état civil;
-- b. lorsqu’il vérifie l’état des données disponibles dans le système.
+- b. lorsqu’il vérifie l’état des données disponibles.
 
 <sup>2</sup> Avant de recevoir la confirmation de l’exactitude des données, l’officier de l’état civil rend la personne attentive aux conséquences pénales de l’obtention frauduleuse d’une constatation fausse (art. 253 du code pénal[^16a-2]). L’établissement de la confirmation et sa réception sont gratuits.
 
@@ -668,24 +690,26 @@ Les actes suivants doivent être signés à la main et en présence de la person
 - e. la déclaration concernant le nom après la dissolution du mariage (art. 13, al. 2);
 - f. la déclaration concernant le nom après la dissolution du partenariat enregistré (art. 13*a*, al. 2);
 - g. la déclaration concernant le nom au sens de l’art. 8*a*, titre final, CC (art. 14*a*, al. 2);
-- h.[^18-3] ...
+- h.[^18-3] la déclaration concernant le changement de sexe et, le cas échéant, de prénoms inscrits dans le registre de l’état civil (art. 14*b,* al. 1);
+- h<sup>bis</sup>.[^18-4] le consentement à la déclaration concernant le changement de sexe inscrit dans le registre de l’état civil (art. 14*b,* al. 2);
 - i. la confirmation de l’exactitude des données (art. 16*a*);
 - j. la déclaration valant preuve de données non litigieuses (art. 17);
-- k.[^18-4] la déclaration du nom de l’enfant (art. 37, al. 5, et 37*a*, al. 6);
+- k.[^18-5] la déclaration du nom de l’enfant (art. 37, al. 5, et 37*a*, al. 6);
 - l. le consentement de l’enfant au changement de nom (art. 37*b*, al. 2);
-- m.[^18-5] la déclaration relative aux conditions du mariage (art. 65, al. 1 et 2);
+- m.[^18-6] la déclaration relative aux conditions du mariage (art. 65, al. 1 et 2);
 - n. la confirmation du mariage (art. 71, al. 4);
-- o.[^18-6] la déclaration relative aux conditions d’enregistrement du partenariat (art. 75*d*, al. 1 et 2);
+- o.[^18-7] la déclaration relative aux conditions d’enregistrement du partenariat (art. 75*d*, al. 1 et 2);
 - p. la déclaration de volonté de conclure un partenariat enregistré (art. 75*k*, al. 2).
 
 <sup>2</sup> Si une personne disposée à signer n’est pas en état de le faire, le fonctionnaire compétent selon l’art. 4 ou 5 atteste cette disposition par écrit en indiquant le motif du défaut de signature.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^18-2]: Introduite par le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-3]: Pour la teneur applicable du 1<sup>er</sup> janv. au 31 déc. 2013, voir [RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772).
-[^18-4]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-5]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-4]: Introduite par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-5]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
 [^18-6]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-7]: Nouvelle teneur selon le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 18a
 
@@ -809,7 +833,7 @@ Les données de l’état civil dûment établies sont enregistrées sans délai
 Les décisions et actes d’état civil étrangers se rapportant à des ressortissants étrangers sont enregistrés sur décision de l’autorité de surveillance par l’office de l’état civil suivant:
 
 - a. lorsque l’enregistrement produit des effets relevant du droit de la famille sur une personne de nationalité suisse, l’office du canton d’origine de cette personne;
-- b. à défaut, lorsque les données de la personne sont disponibles dans le système, l’office du canton de domicile ou du canton dans lequel une opération doit être effectuée;
+- b. à défaut, lorsque les données de la personne sont disponibles, l’office du canton de domicile ou du canton dans lequel une opération doit être effectuée;
 - c. à défaut, l’office du canton de naissance.
 
 <sup>3</sup> L’autorité de surveillance qui rend une décision de reconnaissance ou de refus de transcription en vertu de l’art. 32, al. 1, LDIP[^23-2] communique à l’autorité cantonale compétente en matière d’étrangers du lieu de séjour de la personne concernée les faits indiquant qu’un mariage a été célébré ou un partenariat conclu dans le but de contourner les dispositions sur l’admission et le séjour des étrangers (art. 82*a* OASA[^23-3]). Elle l’informe en outre du résultat des investigations qu’elle a menées.[^23-4]
@@ -991,21 +1015,29 @@ Sont tenus d’annoncer les décès:
 
 **Autorité compétente, forme de l’annonce et délai**
 
-<sup>1</sup> Les personnes astreintes à l’annonce la font par écrit ou en se présentant personnellement à l’office de l’état civil dans les deux jours qui suivent le décès ou dans les trois jours qui suivent la naissance. L’annonce du décès ou de la découverte du corps d’une personne inconnue doit se faire dans un délai de dix jours.[^35-1]
+<sup>1</sup> Les personnes astreintes à l’annonce la font par écrit, sur papier ou sous forme électronique, ou en se présentant personnellement à l’office de l’état civil dans les deux jours qui suivent le décès ou dans les trois jours qui suivent la naissance.[^35-1] L’annonce du décès ou de la découverte du corps d’une personne inconnue doit se faire dans un délai de dix jours.[^35-2]
 
 <sup>2</sup> L’office de l’état civil reçoit également les annonces tardives. Si plus de trente jours se sont écoulés entre la naissance ou le décès d’une part et l’annonce d’autre part, il provoque une décision de l’autorité de surveillance.
 
 <sup>3</sup> L’office de l’état civil signale à l’autorité de surveillance les personnes qui n’ont pas annoncé une naissance ou un décès en temps utile (art. 91, al. 2).
 
-<sup>4</sup> Le droit cantonal peut autoriser les personnes mentionnées à l’art. 34*a*, al. 1, let. b, à annoncer les décès à un service administratif de la commune du dernier domicile du défunt. Le service transmet sans délai à l’office de l’état civil compétent l’annonce du décès, signée par la personne qui était tenue de l’annoncer.[^35-2]
+<sup>4</sup> Le droit cantonal peut autoriser les personnes mentionnées à l’art. 34*a*, al. 1, let. b, à annoncer les décès à un service administratif de la commune du dernier domicile du défunt.[^35-3] Le service transmet l’annonce du décès sans délai par écrit, sur papier ou sous forme électronique, à l’office de l’état civil compétent.[^35-4]
 
 <sup>5</sup> Toute annonce de décès ou d’enfant mort-né doit être accompagnée d’un certificat médical.
 
-<sup>6</sup> L’office de l’état civil peut exiger un certificat médical attestant l’accouchement si la naissance est annoncée par une des personnes visées à l’art. 34, let. b<sup>bis</sup>.[^35-3]
+<sup>6</sup> L’office de l’état civil peut exiger un certificat médical attestant l’accouchement si la naissance est annoncée par une des personnes visées à l’art. 34, let. b<sup>bis</sup>.[^35-5]
 
-[^35-1]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^35-2]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^35-3]: Introduit par le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+<sup>7</sup> Si l’annonce est faite sur papier, elle doit être signée par la personne astreinte à l’annonce.[^35-6]
+
+<sup>8</sup> La transmission d’annonces et de certificats médicaux sous forme électronique est régie par l’art. 89, al. 4.[^35-7]
+
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-2]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^35-3]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^35-4]: Nouvelle teneur de la phrase selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-5]: Introduit par le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^35-6]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-7]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 36
 
@@ -1178,10 +1210,13 @@ Les tribunaux doivent également communiquer les jugements et les reconnaissance
 
 <sup>6</sup> Si l’autorité communique une copie d’un document, elle doit en certifier la conformité à l’original.[^43-4]
 
+<sup>7</sup> Les communications sous forme électronique sont soumises à l’art. 89, al. 4.[^43-5]
+
 [^43-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^43-2]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^43-3]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^43-4]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^43-5]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 ## Chapitre 6 Divulgation des données
 
@@ -1301,8 +1336,11 @@ En l’absence de formule ou lorsque son utilisation n’est pas adéquate, les 
 
 <sup>4</sup> L’OAAE[^47b-2] est applicable.
 
+<sup>5</sup> La transmission de documents d’état civil sous forme électronique est soumise à l’art. 89, al. 4.[^47b-3]
+
 [^47b-1]: Introduit par l’annexe ch. II 2 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^47b-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^47b-3]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 48
 
@@ -1337,7 +1375,7 @@ L’office de l’état civil compétent pour l’enregistrement communique nota
 - c. la rectification des données d’état civil, pour autant qu’elle produise des effets sur les données actuelles de la personne;
 - d. l’inscription ou la radiation d’une curatelle de portée générale ou de la constatation de la validité d’un mandat pour cause d’inaptitude concernant une personne durablement incapable de discernement (art. 42, al. 1, let. c).
 
-<sup>2</sup> Il indique le numéro d’assuré AVS de la personne concernée, pour autant qu’il ait été attribué par la CdC (art. 8*a*).
+<sup>2</sup> Il indique le numéro AVS de la personne concernée, pour autant qu’il ait été attribué par la CdC (art. 8*a*).
 
 <sup>3</sup> Les données sont livrées automatiquement et sous forme électronique.
 
@@ -1367,7 +1405,7 @@ Lorsque la personne concernée possède un droit de bourgeoisie ou de corporatio
 
 <sup>1</sup>
 
-L’office de l’état civil compétent pour l’enregistrement communique à l’autorité de protection de l’enfant:[^50-2]
+L’office de l’état civil compétent pour l’enregistrement communique à l’autorité de protection de l’enfant du domicile de l’enfant:[^50-2]
 
 - a. la naissance d’un enfant dont les parents ne sont pas mariés ensemble ainsi que son décès s’il survient pendant la première année qui suit la naissance et si la filiation avec le père n’est pas encore établie à ce moment-là;
 - b. la naissance d’un enfant né dans les 300 jours qui suivent le décès ou la déclaration d’absence de l’époux de la mère;
@@ -1377,23 +1415,16 @@ L’office de l’état civil compétent pour l’enregistrement communique à l
 - e. la découverte d’un enfant;
 - f.[^50-4] l’adoption d’un enfant à l’étranger.
 
-<sup>2</sup>
+<sup>2</sup> ...[^50-5]
 
-La communication est effectuée à l’autorité de protection de l’enfant:[^50-5]
-
-- a. du lieu de domicile de la mère au moment de la naissance de l’enfant (al. 1, let. a et c);
-- b.[^50-6] au lieu de domicile de l’enfant (al. 1, let. b, d et f);
-- c. au lieu de la découverte de l’enfant (al. 1, let. e).
-
-<sup>3</sup> L’autorité de surveillance saisie d’une demande de reconnaissance d’un mariage contracté à l’étranger par un mineur communique ce fait à l’autorité de protection de l’enfant à son lieu de domicile.[^50-7]
+<sup>3</sup> L’autorité de surveillance saisie d’une demande de reconnaissance d’un mariage contracté à l’étranger par un mineur communique ce fait à l’autorité de protection de l’enfant à son lieu de domicile.[^50-6]
 
 [^50-1]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^50-2]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^50-2]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^50-3]: Introduite par le ch. I de l’O du 14 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014; 2<sup>e</sup> partie en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
 [^50-4]: Introduite par le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^50-5]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^50-6]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^50-7]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^50-5]: Abrogé par le ch. I de l’O du 27 oct. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^50-6]: Introduit par le ch. I de l’O du 27 mars 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 51
 
@@ -1401,10 +1432,10 @@ La communication est effectuée à l’autorité de protection de l’enfant:[^5
 
 <sup>1</sup>
 
-L’office de l’état civil compétent pour enregistrer les données de l’état civil communique au Secrétariat d’État aux migrations les faits d’état civil suivants se rapportant à des personnes à protéger, qui demandent l’asile, dont la demande d’asile a été rejetée ou qui ont été admises provisoirement ou à des réfugiés admis provisoirement ou titulaires d’une autorisation de séjour ou d’établissement:[^51-3]
+L’office de l’état civil compétent pour enregistrer les données de l’état civil communique au Secrétariat d’État aux migrations les faits d’état civil et changements de données personnelles suivants se rapportant à des personnes à protéger, à des personnes qui demandent l’asile, dont la demande d’asile a été rejetée ou qui ont été admises provisoirement ou encore à des réfugiés admis provisoirement ou titulaires d’une autorisation de séjour ou d’établissement:[^51-3]
 
 - a. les naissances;
-- b. les reconnaissances d’enfants;
+- b.[^51-4] l’établissement et la rupture de liens de filiation;
 - c. les mariages et les partenariats enregistrés;
 - d. les décès.
 
@@ -1412,7 +1443,8 @@ L’office de l’état civil compétent pour enregistrer les données de l’é
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^51-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art.16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^51-3]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^51-3]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^51-4]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 52
 
@@ -1443,7 +1475,7 @@ Le registre de l’état civil transmet automatiquement un signalement électron
 L’office de l’état civil compétent pour enregistrer les données de l’état civil communique à la CdC, pour chaque personne:
 
 - a. les données mentionnées à l’art. 8, let. a, ch. 1, c, d, e, ch. 1 et 3, f, l, m et n, ch. 1 et 2, lors de la naissance (art. 15*a*, al. 1) ou lors de la saisie ultérieure dans le registre de l’état civil (art. 15*a,* al. 2);
-- b. la modification des données communiquées, en indiquant le numéro d’assuré AVS (art. 8, let. b);
+- b. la modification des données communiquées, en indiquant le numéro AVS (art. 8, let. b);
 - c. les données mentionnées à l’art. 8, let. a, ch. 1, c, d, e, ch. 1 et 3, f, g, l, m et n, ch. 1 et 2, lors de la déclaration d’absence ou lors du décès.
 
 <sup>2</sup> Les données sont livrées automatiquement sous forme électronique.
@@ -1592,8 +1624,8 @@ Est compétent pour l’exécution de la procédure préparatoire:
 À l’appui de leur demande, les fiancés présentent les documents suivants:
 
 - a. un certificat relatif à leur domicile actuel;
-- b. des documents relatifs à la naissance, au sexe, au nom, à la filiation, à l’état civil (pour les personnes qui ont déjà été mariées ou liées par un partenariat enregistré: date de la dissolution du mariage ou du partenariat) ainsi qu’aux lieux d’origine et à la nationalité, lorsque les données relatives aux fiancés n’ont pas encore été enregistrées dans le système ou que les données disponibles ne sont pas exactes, complètes ou conformes à l’état actuel;
-- c. des documents relatifs à la naissance, au sexe, au nom et à la filiation des enfants communs, lorsque le lien de filiation n’a pas encore été enregistré dans le système ou que les données disponibles ne sont pas exactes, complètes ou conformes à l’état actuel.
+- b. des documents relatifs à la naissance, au sexe, au nom, à la filiation, à l’état civil (pour les personnes qui ont déjà été mariées ou liées par un partenariat enregistré: date de la dissolution du mariage ou du partenariat) ainsi qu’aux lieux d’origine et à la nationalité, lorsque les données relatives aux fiancés n’ont pas encore été enregistrées ou que les données disponibles ne sont pas exactes, complètes ou conformes à l’état actuel;
+- c. des documents relatifs à la naissance, au sexe, au nom et à la filiation des enfants communs, lorsque le lien de filiation n’a pas encore été enregistré ou que les données disponibles ne sont pas exactes, complètes ou conformes à l’état actuel.
 
 <sup>2</sup> Les fiancés qui ne sont pas citoyens suisses joignent en outre une pièce établissant la légalité de leur séjour en Suisse jusqu’au jour probable de la célébration.
 
@@ -1859,7 +1891,7 @@ Est compétent pour l’exécution de la procédure préliminaire:
 À l’appui de leur demande, les partenaires présentent les documents suivants:
 
 - a. un certificat relatif à leur domicile actuel;
-- b. des documents relatifs à la naissance, au sexe, au nom, à la filiation, à l’état civil (pour les personnes qui ont déjà été liées par un partenariat enregistré ou mariées: date de la dissolution du partenariat ou du mariage) ainsi qu’aux lieux d’origine et à la nationalité, lorsque les données relatives aux partenaires n’ont pas encore été enregistrées dans le système ou que les données disponibles ne sont pas exactes, complètes ou conformes à l’état actuel.
+- b. des documents relatifs à la naissance, au sexe, au nom, à la filiation, à l’état civil (pour les personnes qui ont déjà été liées par un partenariat enregistré ou mariées: date de la dissolution du partenariat ou du mariage) ainsi qu’aux lieux d’origine et à la nationalité, lorsque les données relatives aux partenaires n’ont pas encore été enregistrées ou que les données disponibles ne sont pas exactes, complètes ou conformes à l’état actuel.
 
 <sup>2</sup> ...[^75c-1]
 
@@ -2300,9 +2332,22 @@ Le personnel des offices de l’état civil et leurs auxiliaires, en particulier
 - d. concernent une personne qu’ils ont représentée ou assistée dans le cadre d’un mandat légal ou privé;
 - e. lorsque de toute autre manière, ils ne peuvent donner toutes les garanties d’indépendance et d’impartialité, notamment en raison d’une amitié étroite ou d’une inimitié personnelle.[^89-3]
 
+<sup>4</sup>
+
+Les procédures entre les particuliers et les autorités de l’état civil peuvent se dérouler par voie électronique aux conditions suivantes:
+
+- a. l’identité de l’expéditeur doit être clairement établie;
+- b. les signatures doivent remplir les exigences d’une signature électronique qualifiée au sens de la loi du 18 mars 2016 sur la signature électronique[^89-4];
+- c. l’intégrité et la confidentialité de la transmission doivent être garanties.[^89-5]
+
+<sup>5</sup> La notification de décisions peut être faite par voie électronique aux parties qui ont accepté cette forme de transmission.[^89-6]
+
 [^89-1]: Nouvelle teneur selon le ch. II 17 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 [^89-2]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^89-3]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
+[^89-4]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^89-5]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^89-6]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 90
 
@@ -2524,11 +2569,11 @@ Sont abrogés:
 
 **Dispositions transitoires relatives à la modification du 21 novembre 2007**[^99a-1]
 
-<sup>1</sup> Les personnes enregistrées dans le registre de l’état civil sont annoncées à la CdC à la date de la première attribution globale et de la communication du numéro d’assuré AVS (art. 8*a*).
+<sup>1</sup> Les personnes enregistrées dans le registre de l’état civil sont annoncées à la CdC à la date de la première attribution globale et de la communication du numéro AVS (art. 8*a*).
 
 <sup>2</sup> Une fois annoncée, toute personne ressaisie conformément à l’art. 93, al. 1 ou 2, est annoncée à la CdC.
 
-<sup>3</sup> La procédure relative à l’attribution, à la vérification et à la communication du numéro d’assuré AVS est réglée par les art. 133<sup>bis</sup> et 134<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^99a-2].
+<sup>3</sup> La procédure relative à l’attribution, à la vérification et à la communication du numéro AVS est réglée par les art. 133<sup>bis</sup> et 134<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^99a-2].
 
 [^99a-1]: Introduit par l’annexe ch. 2 de l’O du 21 nov. 2007 sur l’harmonisation des registres ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^99a-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
@@ -2543,12 +2588,9 @@ Si les conditions d’une livraison des données à l’administration communale
 
 #### Art. 99c
 
-**Dispositions transitoires relatives à la modification du 8 décembre 2017**[^99c-1]
+[^99c-1]
 
-Les inscriptions dans le registre suisse des officiers publics (RegOP) au sens de l’art. 6, al. 2, OAAE[^99c-2], doivent être effectuées dans les trois ans à compter de l’entrée en vigueur de cette disposition.
-
-[^99c-1]: Introduit par l’annexe ch. II 2 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^99c-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^99c-1]: Introduit par l’annexe ch. II 2 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)). Abrogé par le ch. I de l’O du 27 oct. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 99d
 
@@ -2557,6 +2599,15 @@ Les inscriptions dans le registre suisse des officiers publics (RegOP) au sens d
 La personne qui a mis au monde un enfant né sans vie ou qui déclare par écrit en être le géniteur peut annoncer à l’office de l’état civil, dans les cinq ans suivant l’entrée en vigueur de la modification, la venue au monde d’un enfant né sans vie qui a eu lieu avant l’entrée en vigueur de la modification pour se faire délivrer une confirmation.
 
 [^99d-1]: Introduit par le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1er janv. 2019 ([RO 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)[5447](https://fedlex.data.admin.ch/eli/oc/2018/823)).
+
+#### Art. 99e
+
+**Disposition transitoire relative à la modification du 27 octobre 2021**[^99e-1]
+
+Les inscriptions dans le registre suisse des officiers publics au sens de l’art. 6, al. 2, OAAE[^99e-2], doivent être effectuées dans les trois ans à compter de l’entrée en vigueur de la modification du 27 octobre 2021.
+
+[^99e-1]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^99e-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
 #### Art. 100
 

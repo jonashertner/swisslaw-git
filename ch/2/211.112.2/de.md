@@ -4,11 +4,11 @@ title: Zivilstandsverordnung vom 28. April 2004 (ZStV)
 short: ZStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20210401/de"
 
 (ZStV)
 
-vom 28. April 2004 (Stand am 1. April 2021)
+vom 28. April 2004 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -135,20 +135,22 @@ Die Vertretungen der Schweiz im Ausland haben im Zivilstandswesen insbesondere f
 - c. Entgegennahme und Übermittlung von Gesuchen und Erklärungen für die Eheschliessung (Art. 63 Abs. 2 und 65 Abs. 1) oder Begründung einer eingetragenen Partnerschaft (Art. 75*b* Abs. 2 und 75*d* Abs. 1) in der Schweiz, Anhörung der Verlobten (Art. 74*a* Abs. 2) oder der Partnerinnen und Partner (Art. 75*m* Abs. 2) und Übermittlung von schweizerischen Ehefähigkeitszeugnissen im Hinblick auf die Eheschliessung imAusland (Art. 75);
 - d. Entgegennahme und Übermittlung von Erklärungen über die Vaterschaft (Art. 11 Abs. 6), wenn eine Beurkundung der Anerkennung des Kindes im Ausland nicht möglich ist;
 - e.[^5-3] Entgegennahme und Übermittlung von Namenserklärungen (Art. 12 Abs. 2, 12*a* Abs. 2, 13 Abs. 1, 13*a* Abs. 1, 14 Abs. 2, 14*a* Abs. 1, 37 Abs. 4 sowie 37*a* Abs. 5);
+- e<sup>bis</sup>.[^5-4] Entgegennahme und Übermittlung von Erklärungen über die Änderung des im Personenstandsregister eingetragenen Geschlechts und über die damit verbundene Änderung von Vornamen (Art. 14*b*);
 - f. Abklärung von Gemeinde- und Kantonsbürgerrechten und des Schweizer Bürgerrechts;
 - g. Überprüfung der Echtheit ausländischer Urkunden;
 - h. Beschaffung und Übermittlung von Informationen über das ausländische Recht;
 - i. Erhebung von Gebühren.
 
-<sup>2</sup> Sie melden dem Zivilstandsamt und der Aufsichtsbehörde zuhanden der zuständigen kantonalen Ausländerbehörde Tatsachen, die darauf hindeuten, dass mit einer beabsichtigten oder erfolgten Eheschliessung oder Begründung einer eingetragenen Partnerschaft eine Umgehung der Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern bezweckt wird (Art. 82*a* der V vom 24. Okt. 2007[^5-4] über Zulassung, Aufenthalt und Erwerbstätigkeit, VZAE).[^5-5]
+<sup>2</sup> Sie melden dem Zivilstandsamt und der Aufsichtsbehörde zuhanden der zuständigen kantonalen Ausländerbehörde Tatsachen, die darauf hindeuten, dass mit einer beabsichtigten oder erfolgten Eheschliessung oder Begründung einer eingetragenen Partnerschaft eine Umgehung der Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern bezweckt wird (Art. 82*a* der V vom 24. Okt. 2007[^5-5] über Zulassung, Aufenthalt und Erwerbstätigkeit, VZAE).[^5-6]
 
 <sup>3</sup> Das EAZW erlässt die nötigen Weisungen und übt die Aufsicht aus.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^5-2]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^5-3]: Fassung gemäss Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^5-4]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^5-5]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^5-4]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^5-5]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-6]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 6
 
@@ -222,8 +224,8 @@ Folgende Daten werden im Personenstandsregister geführt:
   - 3\. Eintragungsstatus,
   - 4\. Verzeichnisse (Gemeinden, Zivilstandskreise, Staaten, Adressen);
 
-- b.[^8-1] Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^8-2] über die Alters- und Hinterlassenenversicherung (AHV-Versichertennummer);
-- [tab] b<sup>bis</sup>.[^8-3] …
+- b.[^8-1] AHV-Nummer;
+- [tab] b<sup>bis</sup>.[^8-2] …
 - c.
 
   Namen:
@@ -247,7 +249,7 @@ Folgende Daten werden im Personenstandsregister geführt:
 
   Zivilstand:
 
-  - 1\.[^8-4] Status (ledig – verheiratet/geschieden/verwitwet/unverheiratet – in eingetragener Partnerschaft/aufgelöste Partnerschaft: gerichtlich aufgelöste Partnerschaft/durch Tod aufgelöste Partnerschaft /durch Verschollenerklärung aufgelöste Partnerschaft),
+  - 1\.[^8-3] Status (ledig – verheiratet/geschieden/verwitwet/unverheiratet – in eingetragener Partnerschaft/aufgelöste Partnerschaft: gerichtlich aufgelöste Partnerschaft/durch Tod aufgelöste Partnerschaft /durch Verschollenerklärung aufgelöste Partnerschaft),
   - 2\. Datum;
 
 - g.
@@ -258,10 +260,10 @@ Folgende Daten werden im Personenstandsregister geführt:
   - 2\. Zeit,
   - 3\. Ort;
 
-- h.[^8-5] Wohnsitz;
+- h.[^8-4] Wohnsitz;
 - i. Aufenthaltsort;
 - j. Lebensstatus;
-- k.[^8-6]
+- k.[^8-5]
 
   Erwachsenenschutz:
 
@@ -306,25 +308,25 @@ Folgende Daten werden im Personenstandsregister geführt:
 
   Beziehungsdaten:
 
-  - 1\.[^8-7] Art (Eheverhältnis/eingetragene Partnerschaft/Kindesverhältnis),
+  - 1\.[^8-6] Art (Eheverhältnis/eingetragene Partnerschaft/Kindesverhältnis),
   - 2\. Datum (gültig ab/gültig bis),
   - 3\. Auflösungsgrund.
 
-[^8-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^8-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^8-3]: Eingefügt durch Anhang Ziff. 2 der Registerharmonisierungsverordnung vom 21. Nov. 2007 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Aufgehoben durch Ziff. I der V vom 4. Juni 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^8-4]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^8-1]: Fassung gemäss Anhang Ziff. II 8 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^8-2]: Eingefügt durch Anhang Ziff. 2 der Registerharmonisierungsverordnung vom 21. Nov. 2007 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Aufgehoben durch Ziff. I der V vom 4. Juni 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^8-3]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^8-4]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^8-5]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^8-6]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^8-7]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^8-6]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 8a
 
-**Zuweisung der AHV-Versichertennummer**[^8a-1]
+**Zuweisung der AHV-Nummer[^8a-2]**[^8a-1]
 
-Die Zentrale Ausgleichsstelle der Alters- und Hinterlassenenversicherung (ZAS) weist der nach Artikel 53 Absatz 1 gemeldeten Person die AHV-Versichertennummer zu.
+Die Zentrale Ausgleichsstelle der Alters- und Hinterlassenenversicherung (ZAS) weist der nach Artikel 53 Absatz 1 gemeldeten Person die AHV-Nummer zu.
 
 [^8a-1]: Eingefügt durch Anhang Ziff. 2 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^8a-2]: Ausdruck gemäss Anhang Ziff. II 8 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt
 
 #### Art. 9
 
@@ -399,17 +401,18 @@ Als Findelkind gilt ein ausgesetztes Kind unbekannter Abstammung.
 
 <sup>3</sup> Ausgeschlossen ist die Beurkundung der Anerkennung eines adoptierten Kindes.
 
-<sup>4</sup> Ist der Anerkennungswillige minderjährig, steht er unter umfassender Beistandschaft (Art. 398 ZGB) oder wurde für ihn aufgrund dauernder Urteilsunfähigkeit ein Vorsorgeauftrag wirksam (Art. 449*c* Ziff. 2 ZGB), so ist die notwendige Zustimmung seines gesetzlichen Vertreters (Art. 260 Abs. 2 ZGB) schriftlich abzugeben. Vertretungsbefugnisse sind nachzuweisen und Unterschriften zu beglaubigen.[^11-1]
+<sup>4</sup> In den Fällen nach Artikel 260 Absatz 2 ZGB ist die Zustimmung des gesetzlichen Vertreters schriftlich abzugeben. Die Vertretungsbefugnisse sind nachzuweisen und die Unterschriften sind zu beglaubigen.[^11-1]
 
-<sup>5</sup> Die Erklärung über die Anerkennung kann unter Vorbehalt von Artikel 71 Absatz 1 IPRG[^11-2] von jeder Zivilstandsbeamtin und jedem Zivilstandsbeamten entgegengenommen werden. Ist es dem Anerkennenden nicht möglich, persönlich zu erscheinen, so kann die Erklärung ausserhalb der Amtsräume entgegengenommen werden.[^11-3]
+<sup>5</sup> Die Erklärung über die Anerkennung und die Zustimmung des gesetzlichen Vertreters kann unter Vorbehalt von Artikel 71 Absatz 1 IPRG[^11-2] von jeder Zivilstandsbeamtin und jedem Zivilstandsbeamten entgegengenommen werden.[^11-3]
 
-<sup>6</sup> In besonders begründeten Ausnahmefällen kann die Beurkundung ausserhalb des Zivilstandsamts, namentlich durch am Ort einer Klinik oder einer Strafvollzugsanstalt zuständige Zivilstandsbeamtinnen oder Zivilstandsbeamte, oder durch Vermittlung der zuständigen Vertretung der Schweiz im Ausland erfolgen.
+<sup>6</sup> Weist der Anerkennende oder der gesetzliche Vertreter nach, dass es für ihn offensichtlich unzumutbar ist, persönlich auf dem Zivilstandsamt zu erscheinen, so kann die Erklärung beziehungsweise die Zustimmung an einem anderen Ort entgegengenommen werden, namentlich in einer Klinik, einem Heim oder einer Strafvollzugsanstalt oder durch Vermittlung der zuständigen Vertretung der Schweiz im Ausland.[^11-4]
 
 <sup>7</sup> Die Kindesanerkennung ist unter Hinweis auf die Artikel 260*a*–260*c* ZGB der Mutter sowie dem Kind oder nach seinem Tode den Nachkommen mitzuteilen.
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^11-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^11-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^11-4]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 11a
 
@@ -478,18 +481,25 @@ Wird das Kind durch den Vater anerkannt und ist es nicht das erste gemeinsame Ki
 
 #### Art. 14
 
-**Erklärung über die Unterstellung des Namens unter das Heimatrecht**
+**Erklärung über die Unterstellung unter das Heimatrecht[^14-1]**
 
-<sup>1</sup> Im Zusammenhang mit einem sie oder ihn persönlich betreffenden Zivilstandsereignis kann die Schweizerin oder der Schweizer mit Wohnsitz im Ausland oder die Ausländerin oder der Ausländer gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten schriftlich erklären, ihren oder seinen Namen dem Heimatrecht unterstellen zu wollen (Art. 37 Abs. 2 IPRG[^14-1]).[^14-2]
+<sup>1</sup> Im Zusammenhang mit einem sie oder ihn persönlich betreffenden Zivilstandsereignis kann die Schweizerin oder der Schweizer mit Wohnsitz im Ausland oder die Ausländerin oder der Ausländer gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten schriftlich erklären, ihren oder seinen Namen dem Heimatrecht unterstellen zu wollen (Art. 37 Abs. 2 IPRG[^14-2]).[^14-3]
 
-<sup>2</sup> Im Zusammenhang mit einem ausländischen Zivilstandsereignis kann eine solche Erklärung der Aufsichtsbehörde direkt oder durch Vermittlung der Vertretung der Schweiz abgegeben werden.[^14-3]
+<sup>2</sup> Im Zusammenhang mit einem ausländischen Zivilstandsereignis kann eine solche Erklärung der Aufsichtsbehörde direkt oder durch Vermittlung der Vertretung der Schweiz abgegeben werden.[^14-4]
 
-<sup>3</sup> Wenn eine Schweizerin oder ein Schweizer die Namenserklärung nach Artikel 12, 12*a*, 13, 13*a*, 14*a*, 37 Absatz 2 oder 3 oder Artikel 37*a* Absatz 3 oder 4 abgibt, so gilt dies als Erklärung, den Namen dem Heimatrecht unterstellen zu wollen.[^14-4]
+<sup>3</sup> Wenn eine Schweizerin oder ein Schweizer die Namenserklärung nach Artikel 12, 12*a*, 13, 13*a*, 14*a*, 37 Absatz 2 oder 3 oder Artikel 37*a* Absatz 3 oder 4 abgibt, so gilt dies als Erklärung, den Namen dem Heimatrecht unterstellen zu wollen.[^14-5]
 
-[^14-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^14-2]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+<sup>4</sup> Im Zusammenhang mit einem sie oder ihn persönlich betreffenden Zivilstandsereignis kann die Schweizerin oder der Schweizer mit Wohnsitz im Ausland oder die Ausländerin oder der Ausländer gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten schriftlich erklären, die Eintragung des Geschlechts im Personenstandsregister und die damit verbundene Änderung von Vornamen dem Heimatrecht unterstellen zu wollen (Art. 40*a* IPRG).[^14-6]
+
+<sup>5</sup> Wenn eine Schweizerin oder ein Schweizer eine Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts nach Artikel 14*b* abgibt, so gilt dies als Erklärung, das Geschlecht dem Heimatrecht unterstellen zu wollen.[^14-7]
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 [^14-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^14-4]: Fassung gemäss Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^14-4]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^14-5]: Fassung gemäss Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^14-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14-7]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 14a
 
@@ -503,9 +513,15 @@ Wird das Kind durch den Vater anerkannt und ist es nicht das erste gemeinsame Ki
 
 #### Art. 14b
 
-[^14b-1]
+**Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts**[^14b-1]
 
-[^14b-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2012, in Kraft vom 1. Jan. 2013 bis zum 31. Dez. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+<sup>1</sup> Die Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts und über die damit verbundene Änderung von Vornamen kann jeder Zivilstandsbeamtin oder jedem Zivilstandsbeamten in der Schweiz und im Ausland der zuständigen Vertretung der Schweiz abgegeben werden. Die Erklärung ist an keine weiteren Voraussetzungen als die in Artikel 30*b* ZGB genannten geknüpft.
+
+<sup>2</sup> In den Fällen nach Artikel 30*b* Absatz 4 ZGB ist die Zustimmung des gesetzlichen Vertreters schriftlich abzugeben. Die Vertretungsbefugnisse sind nachzuweisen und die Unterschriften sind zu beglaubigen.
+
+<sup>3</sup> Weist die erklärende Person oder der gesetzliche Vertreter nach, dass es für sie oder ihn offensichtlich unzumutbar ist, persönlich auf dem Zivilstandsamt zu erscheinen, so kann die Erklärung beziehungsweise die Zustimmung an einem anderen Ort entgegengenommen werden, namentlich in einer Klinik, einem Heim oder einer Strafvollzugsanstalt.
+
+[^14b-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2012 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 ## 3. Kapitel: Verfahren der Beurkundung
 
@@ -534,9 +550,15 @@ Wird das Kind durch den Vater anerkannt und ist es nicht das erste gemeinsame Ki
 
 <sup>1</sup> Jede Person wird mit der Beurkundung ihrer Geburt in das Personenstandsregister aufgenommen.
 
-<sup>2</sup> Eine ausländische Person, deren Daten …[^15a-2] nicht abrufbar sind, wird spätestens dann in das Personenstandsregister aufgenommen, wenn sie von einem in der Schweiz zu beurkundenden Zivilstandsereignis betroffen ist.
+<sup>2</sup>
 
-<sup>2bis</sup> Eine ausländische Person, deren Daten nicht abrufbar sind, wird auch dann aufgenommen, wenn sie einen Antrag auf Eintragung der Tatsache stellt, dass sie einen Vorsorgeauftrag errichtet hat (Art. 8 Bst. k Ziff. 1).[^15a-3]
+Eine ausländische Person, deren Daten nicht abrufbar sind, wird in das Personenstandsregister aufgenommen, wenn sie:
+
+- a. von einem in der Schweiz zu beurkundenden Zivilstandsereignis oder einer in der Schweiz zu beurkundenden Zivilstandserklärung betroffen ist;
+- b. ein Gesuch um Erwerb des Schweizer Bürgerrechts stellt;
+- c. einen Antrag auf Eintragung der Tatsache stellt, dass sie einen Vorsorgeauftrag errichtet hat (Art. 8 Bst. k Ziff. 1).[^15a-2]
+
+<sup>2bis</sup> …[^15a-3]
 
 <sup>3</sup> Ist es einer ausländischen Person im Zusammenhang mit der Aufnahme in das Personenstandsregister unmöglich oder unzumutbar, Angaben über ihren Personenstand mit Urkunden zu belegen, so wird geprüft, ob eine Erklärung nach Artikel 41 Absatz 1 ZGB entgegengenommen werden kann.
 
@@ -547,8 +569,8 @@ Wird das Kind durch den Vater anerkannt und ist es nicht das erste gemeinsame Ki
 <sup>6</sup> Der Datensatz kann gestützt auf nachgereichte Dokumente ergänzt werden.
 
 [^15a-1]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^15a-2]: Ausdruck gestrichen gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^15a-3]: Eingefügt durch Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^15a-2]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^15a-3]: Eingefügt durch Ziff. I der V vom 7. Nov. 2012 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Aufgehoben durch Ziff. I der V vom 27. Okt. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 15b
 
@@ -593,28 +615,29 @@ Die Zivilstandsbehörde prüft, ob:
 
 - a. sie zuständig ist;
 - b. die Identität der beteiligten Personen nachgewiesen ist und diese handlungsfähig sind;
-- c.[^16-1] die abrufbaren Daten und die zu beurkundenden Angaben richtig, vollständig und auf dem neusten Stand sind.
+- c.[^16-1] die abrufbaren Daten …[^16-2] und die zu beurkundenden Angaben richtig, vollständig und auf dem neusten Stand sind.
 
 <sup>2</sup> Die beteiligten Personen haben die erforderlichen Dokumente vorzulegen. Diese dürfen nicht älter als sechs Monate sein. Ist die Beschaffung solcher Dokumente unmöglich oder offensichtlich unzumutbar, sind in begründeten Fällen ältere Dokumente zulässig.
 
-<sup>3</sup> …[^16-2]
+<sup>3</sup> …[^16-3]
 
-<sup>4</sup> Personenstandsdaten, die abrufbar sind, müssen nicht mit Dokumenten nachgewiesen werden.[^16-3]
+<sup>4</sup> Personenstandsdaten, die abrufbar sind, müssen nicht mit Dokumenten nachgewiesen werden.[^16-4]
 
 <sup>5</sup> Die Zivilstandsbehörde informiert und berät die betroffenen Personen, veranlasst nötigenfalls zusätzliche Abklärungen und kann verlangen, dass die Beteiligten dabei mitwirken.
 
-<sup>6</sup> Wird eine ausländische Person nach Artikel 15*a* Absatz 2 in das Personenstandsregister aufgenommen, so können die Kantone vorsehen, dass die Akten der Aufsichtsbehörde zur Prüfung zu unterbreiten sind.[^16-4]
+<sup>6</sup> Wird eine ausländische Person nach Artikel 15*a* Absatz 2 in das Personenstandsregister aufgenommen, so können die Kantone vorsehen, dass die Akten der Aufsichtsbehörde zur Prüfung zu unterbreiten sind.[^16-5]
 
-<sup>7</sup> Die Zivilstandsbehörde zeigt den zuständigen kantonalen Strafverfolgungsbehörden Straftaten an, die sie bei ihrer amtlichen Tätigkeit feststellt (Art. 43*a* Abs. 3<sup>bis</sup> ZGB). Sie zieht zuhanden der zuständigen Behörde die Dokumente ein, bei denen der begründete Verdacht besteht, dass sie gefälscht oder unrechtmässig verwendet worden sind. Die zuständigen Behörden treffen umgehend die nötigen Schutzmassnahmen.[^16-5]
+<sup>7</sup> Die Zivilstandsbehörde zeigt den zuständigen kantonalen Strafverfolgungsbehörden Straftaten an, die sie bei ihrer amtlichen Tätigkeit feststellt (Art. 43*a* Abs. 3<sup>bis</sup> ZGB). Sie zieht zuhanden der zuständigen Behörde die Dokumente ein, bei denen der begründete Verdacht besteht, dass sie gefälscht oder unrechtmässig verwendet worden sind. Die zuständigen Behörden treffen umgehend die nötigen Schutzmassnahmen.[^16-6]
 
-<sup>8</sup> Meldet die Zivilstandsbehörde der für die Klage auf Ungültigerklärung zuständigen Behörde, dass bei einer Ehe oder eingetragenen Partnerschaft Anlass zur Annahme eines Ungültigkeitsgrundes besteht (Art. 106 Abs. 1 zweiter Satz ZGB, Art. 9 Abs. 2 zweiter Satz PartG), so informiert sie die Aufsichtsbehörde darüber.[^16-6]
+<sup>8</sup> Meldet die Zivilstandsbehörde der für die Klage auf Ungültigerklärung zuständigen Behörde, dass bei einer Ehe oder eingetragenen Partnerschaft Anlass zur Annahme eines Ungültigkeitsgrundes besteht (Art. 106 Abs. 1 zweiter Satz ZGB, Art. 9 Abs. 2 zweiter Satz PartG), so informiert sie die Aufsichtsbehörde darüber.[^16-7]
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^16-2]: Aufgehoben durch Ziff. I der V vom 28. Juni 2006, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^16-3]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^16-4]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^16-5]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
-[^16-6]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^16-2]: Ausdruck gestrichen gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^16-3]: Aufgehoben durch Ziff. I der V vom 28. Juni 2006, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^16-4]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^16-5]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^16-6]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^16-7]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 16a
 
@@ -669,24 +692,26 @@ Eigenhändig und in Gegenwart der Person, die für die Entgegennahme oder Beurku
 - e. Namenserklärung nach Auflösung der Ehe (Art. 13 Abs. 2);
 - f. Namenserklärung nach Auflösung der eingetragenen Partnerschaft (Art. 13*a* Abs. 2);
 - g. Namenserklärung nach Artikel 8*a* Schlusstitel ZGB (Art. 14*a* Abs. 2);
-- h.[^18-3] …
+- h.[^18-3] Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts und über die damit verbundene Änderung von Vornamen (Art. 14*b* Abs. 1);
+- h<sup>bis</sup>.[^18-4] Zustimmung zur Erklärung über die Änderung des im Personenstandsregister eingetragenen Geschlechts (Art. 14*b* Abs. 2);
 - i. Bestätigung der Richtigkeit der Angaben (Art. 16*a*);
 - j. Erklärung zum Nachweis nicht streitiger Angaben (Art. 17);
-- k.[^18-4] Erklärung über den Namen des Kindes (Art. 37 Abs. 5 und 37*a* Abs. 6);
+- k.[^18-5] Erklärung über den Namen des Kindes (Art. 37 Abs. 5 und 37*a* Abs. 6);
 - l. Zustimmung des Kindes zur Namensänderung (Art. 37*b* Abs. 2);
-- m.[^18-5] Erklärung über die Voraussetzungen für die Eheschliessung (Art. 65 Abs. 1 und 2);
+- m.[^18-6] Erklärung über die Voraussetzungen für die Eheschliessung (Art. 65 Abs. 1 und 2);
 - n. Bestätigung der Trauung (Art. 71 Abs. 4);
-- o.[^18-6] Erklärung über die Voraussetzungen für die Begründung einer eingetragenen Partnerschaft (Art. 75*d* Abs. 1 und 2);
+- o.[^18-7] Erklärung über die Voraussetzungen für die Begründung einer eingetragenen Partnerschaft (Art. 75*d* Abs. 1 und 2);
 - p. Erklärung über die Begründung der eingetragenen Partnerschaft (Art. 75*k* Abs. 2).
 
 <sup>2</sup> Ist eine unterschriftsbereite Person ausserstande zu unterschreiben, so wird dies von der nach Artikel 4 oder 5 zuständigen Amtsperson mit einer Begründung schriftlich festgehalten.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^18-2]: Eingefügt durch Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-3]: Für die Fassung vom 1. Jan. bis 31. Dez. 2013 siehe [AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772).
-[^18-4]: Fassung gemäss Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^18-5]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-4]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^18-5]: Fassung gemäss Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
 [^18-6]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^18-7]: Fassung gemäss Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 18a
 
@@ -988,21 +1013,29 @@ Zur Meldung des Todes verpflichtet sind:
 
 **Zuständige Behörde, Form und Frist der Meldung**
 
-<sup>1</sup> Die Meldepflichtigen haben Todesfälle innert zwei Tagen und Geburten innert drei Tagen dem Zivilstandsamt schriftlich oder durch persönliche Vorsprache zu melden. Der Tod einer unbekannten Person und das Auffinden der Leiche einer unbekannten Person sind innert zehn Tagen zu melden.[^35-1]
+<sup>1</sup> Die Meldepflichtigen haben Todesfälle innert zwei Tagen und Geburten innert drei Tagen dem Zivilstandsamt schriftlich in Papierform oder elektronischer Form oder durch persönliche Vorsprache zu melden.[^35-1] Der Tod einer unbekannten Person und das Auffinden der Leiche einer unbekannten Person sind innert zehn Tagen zu melden.[^35-2]
 
 <sup>2</sup> Das Zivilstandsamt nimmt auch eine verspätete Meldung entgegen. Liegen zwischen der Geburt oder dem Todesfall einerseits und der Meldung andererseits mehr als dreissig Tage, so ersucht es die Aufsichtsbehörde um eine Verfügung.
 
 <sup>3</sup> Es zeigt der Aufsichtsbehörde die Personen an, die ihrer Meldepflicht nicht rechtzeitig nachgekommen sind (Art. 91 Abs. 2).
 
-<sup>4</sup> Das kantonale Recht kann vorsehen, dass Meldepflichtige nach Artikel 34*a* Absatz 1 Buchstabe b den Tod durch Vermittlung einer Amtsstelle der Wohngemeinde der verstorbenen Person melden können. Die von der meldepflichtigen Person unterschriebene Meldung ist dem zuständigen Zivilstandsamt unverzüglich und im Original zuzustellen.[^35-2]
+<sup>4</sup> Das kantonale Recht kann vorsehen, dass Meldepflichtige nach Artikel 34*a* Absatz 1 Buchstabe b den Tod durch Vermittlung einer Amtsstelle der Wohngemeinde der verstorbenen Person melden können.[^35-3] Die Amtsstelle leitet die Meldung dem zuständigen Zivilstandsamt unverzüglich schriftlich in Papierform oder elektronischer Form weiter.[^35-4]
 
 <sup>5</sup> Wird der Tod oder eine Totgeburt gemeldet, so ist eine ärztliche Bescheinigung einzureichen.
 
-<sup>6</sup> Das Zivilstandsamt kann eine ärztliche Bestätigung der Niederkunft verlangen, wenn die Meldung durch eine in Artikel 34 Buchstabe b<sup>bis</sup> aufgeführte Person erfolgt.[^35-3]
+<sup>6</sup> Das Zivilstandsamt kann eine ärztliche Bestätigung der Niederkunft verlangen, wenn die Meldung durch eine in Artikel 34 Buchstabe b<sup>bis</sup> aufgeführte Person erfolgt.[^35-5]
 
-[^35-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^35-2]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^35-3]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+<sup>7</sup> Erfolgt die Meldung in Papierform, so ist sie von der meldepflichtigen Person zu unterzeichnen.[^35-6]
+
+<sup>8</sup> Die Übermittlung von Meldungen und ärztlichen Bescheinigungen in elektronischer Form richtet sich nach Artikel 89 Absatz 4.[^35-7]
+
+[^35-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-2]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^35-3]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^35-4]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-5]: Eingefügt durch Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^35-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-7]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 36
 
@@ -1174,10 +1207,13 @@ Die Gerichte teilen die Urteile und die vor Gericht erfolgten Kindesanerkennunge
 
 <sup>6</sup> Erfolgt die Mitteilung in Form einer Kopie, so bescheinigt die mitteilende Amtsstelle deren Übereinstimmung mit dem Originaldokument.[^43-4]
 
+<sup>7</sup> Für Mitteilungen in elektronischer Form gilt Artikel 89 Absatz 4.[^43-5]
+
 [^43-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^43-2]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^43-3]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^43-4]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^43-5]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 ## 6. Kapitel: Bekanntgabe der Daten
 
@@ -1296,8 +1332,11 @@ Ist kein Formular vorgesehen oder ist dessen Verwendung nicht zweckmässig, so e
 
 <sup>4</sup> Die EÖBV[^47b-2] ist anwendbar.
 
+<sup>5</sup> Für die elektronische Übermittlung von Zivilstandsdokumenten gilt Artikel 89 Absatz 4.[^47b-3]
+
 [^47b-1]: Eingefügt durch Anhang Ziff. II 2 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^47b-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^47b-3]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 48
 
@@ -1332,7 +1371,7 @@ Das für die Beurkundung zuständige Zivilstandsamt teilt der Gemeindeverwaltung
 - c. die Bereinigung von Personenstandsdaten, soweit diese Auswirkungen auf die aktuellen Daten der Person haben;
 - d. Eintragung und Löschung einer umfassenden Beistandschaft oder einer Feststellung der Wirksamkeit eines Vorsorgeauftrags für eine dauernd urteilsunfähige Person (Art. 42 Abs. 1 Bst. c).
 
-<sup>2</sup> Die Mitteilung enthält die AHV-Versichertennummer, sofern sie von der ZAS der betroffenen Person zugewiesen worden ist (Art. 8*a*).
+<sup>2</sup> Die Mitteilung enthält die AHV-Nummer, sofern sie von der ZAS der betroffenen Person zugewiesen worden ist (Art. 8*a*).
 
 <sup>3</sup> Die Datenlieferungen erfolgen automatisiert und in elektronischer Form.
 
@@ -1362,7 +1401,7 @@ Besitzt eine Person an ihrem Heimatort ein Burger- oder Korporationsrecht und ve
 
 <sup>1</sup>
 
-Das für die Beurkundung zuständige Zivilstandsamt teilt der Kindesschutzbehörde mit:[^50-2]
+Das für die Beurkundung zuständige Zivilstandsamt teilt der Kindesschutzbehörde des Wohnsitzes des Kindes mit:[^50-2]
 
 - a. die Geburt eines Kindes, dessen Eltern nicht miteinander verheiratet sind,sowie dessen Tod, sofern dieser innerhalb des ersten Lebensjahres erfolgt und in diesem Zeitpunkt kein Kindesverhältnis zum Vater besteht;
 - b. die Geburt eines innert 300 Tagen nach dem Tod oder der Verschollenerklärung des Ehemannes der Mutter geborenen Kindes;
@@ -1372,24 +1411,17 @@ Das für die Beurkundung zuständige Zivilstandsamt teilt der Kindesschutzbehör
 - e. das Auffindeneines Findelkindes;
 - f.[^50-5] die Adoption eines Kindes im Ausland.
 
-<sup>2</sup>
+<sup>2</sup> …[^50-6]
 
-Die Mitteilung erfolgt an die Kindesschutzbehörde:[^50-6]
-
-- a. des Wohnsitzes der Mutter zur Zeit der Geburt des Kindes (Abs. 1 Bst. a und c);
-- b.[^50-7] des Wohnsitzes des Kindes (Abs. 1 Bst. b, d und f);
-- c. des Auffindungsortes (Abs. 1 Bst. e).
-
-<sup>3</sup> Die Aufsichtsbehörde teilt den Eingang eines Gesuchs um Anerkennung einer im Ausland mit einer minderjährigen Person geschlossenen Ehe der Kindesschutzbehörde an deren Wohnsitz mit.[^50-8]
+<sup>3</sup> Die Aufsichtsbehörde teilt den Eingang eines Gesuchs um Anerkennung einer im Ausland mit einer minderjährigen Person geschlossenen Ehe der Kindesschutzbehörde an deren Wohnsitz mit.[^50-7]
 
 [^50-1]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^50-2]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^50-2]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^50-3]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^50-4]: Eingefügt durch Ziff. I der V vom 14. Mai 2014, in Kraft seit 1. Juli 2014, zweiter Satzteil seit 1. Jan. 2015 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
 [^50-5]: Eingefügt durch Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^50-6]: Fassung gemäss Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^50-7]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^50-8]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^50-6]: Aufgehoben durch Ziff. I der V vom 27. Okt. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^50-7]: Eingefügt durch Ziff. I der V vom 27. März 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 51
 
@@ -1397,10 +1429,10 @@ Die Mitteilung erfolgt an die Kindesschutzbehörde:[^50-6]
 
 <sup>1</sup>
 
-Das für die Beurkundung zuständige Zivilstandsamt meldet dem Staatssekretariat für Migration folgende Zivilstandsereignisse, die eine schutzbedürftige, eine asylsuchende, eine abgewiesene asylsuchende oder eine vorläufig aufgenommene Person oder einen vorläufig aufgenommenen Flüchtling oder einen Flüchtling mit einer Aufenthalts- oder Niederlassungsbewilligung betreffen:[^51-3]
+Das für die Beurkundung zuständige Zivilstandsamt meldet dem Staatssekretariat für Migration folgende Zivilstandsereignisse und Änderungen von Personenstandsdaten, die eine schutzbedürftige, eine asylsuchende, eine abgewiesene asylsuchende oder eine vorläufig aufgenommene Person oder einen vorläufig aufgenommenen Flüchtling oder einen Flüchtling mit einer Aufenthalts- oder Niederlassungsbewilligung betreffen:[^51-3]
 
 - a. Geburten;
-- b. Kindesanerkennungen;
+- b.[^51-4] Entstehung und Aufhebung von Kindesverhältnissen;
 - c. Trauungen und eingetragene Partnerschaften;
 - d. Todesfälle.
 
@@ -1408,7 +1440,8 @@ Das für die Beurkundung zuständige Zivilstandsamt meldet dem Staatssekretariat
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^51-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^51-3]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^51-3]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^51-4]: Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 52
 
@@ -1439,7 +1472,7 @@ Das elektronische Personenstandsregister übermittelt der Datenbank RIPOL nach A
 Das für die Beurkundung zuständige Zivilstandsamt meldet der ZAS für jede Person:
 
 - a. bei der Geburt (Art. 15*a* Abs. 1) oder bei der späteren Aufnahme in das Personenstandsregister (Art. 15*a* Abs. 2) die Daten nach Artikel 8 Buchstaben a Ziffer 1, c, d, e Ziffern 1 und 3, f, l, m und n Ziffern 1 und 2;
-- b. die Änderung der gemeldeten Daten, unter Angabe der AHV-Versichertennummer (Art. 8 Bst. b);
+- b. die Änderung der gemeldeten Daten, unter Angabe der AHV-Nummer (Art. 8 Bst. b);
 - c. bei der Verschollenerklärung oder beim Tod die Daten nach Artikel 8 Buchstaben a Ziffer 1, c, d, e Ziffern 1 und 3, f, g, l, m und n Ziffern 1 und 2.
 
 <sup>2</sup> Die Daten werden automatisch und in elektronischer Form geliefert.
@@ -2218,7 +2251,7 @@ Der FIS ist für die technischen Aspekte des Betriebs, der Entwicklung und der A
 - b. Durchführung von fachtechnischen Inspektionen;
 - c. Pflege der Register der Gemeinden und Heimatorte;
 - d. Austausch und Beschaffung von Zivilstandsurkunden;
-- e. Harmonisierung der Register mit der AHV-Versichertennummer.[^84-7]
+- e. Harmonisierung der Register mit der AHV-Nummer.[^84-7]
 
 [^84-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^84-2]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
@@ -2297,10 +2330,23 @@ Mitarbeiterinnen und Mitarbeiter der Zivilstandsämter und ihre Hilfspersonen, i
 - d. eine Person betroffen ist, die sie als gesetzliche Vertreterin oder gesetzlicher Vertreter oder im Rahmen eines privatrechtlichen Auftragsverhältnisses vertreten oder unterstützt haben;
 - e. sie aus anderen Gründen Unabhängigkeit und Unparteilichkeit nicht gewährleisten können, namentlich im Fall einer engen Freundschaft oder persönlichen Feindschaft.[^89-4]
 
+<sup>4</sup>
+
+Verfahren zwischen Privaten und Zivilstandsbehörden können unter den folgenden Voraussetzungen auf elektronischem Weg durchgeführt werden:
+
+- a. die Identität des Urhebers muss eindeutig feststehen;
+- b. die Unterschriften müssen die Anforderungen an eine qualifizierte elektronische Signatur nach dem Bundesgesetz vom 18. März 2016[^89-5] über die elektronische Signatur erfüllen;
+- c. die Integrität und die Vertraulichkeit der Übermittlung müssen gewährleistet sein.[^89-6]
+
+<sup>5</sup> Mit dem Einverständnis der Partei können Verfügungen elektronisch eröffnet werden.[^89-7]
+
 [^89-1]: Fassung gemäss Ziff. II 17 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 [^89-2]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^89-3]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^89-4]: Fassung gemäss Ziff. I der V vom 9. Dez. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5679](https://fedlex.data.admin.ch/eli/oc/2005/781)).
+[^89-5]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^89-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^89-7]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 90
 
@@ -2520,11 +2566,11 @@ Folgende Erlasse werden aufgehoben:
 
 **Übergangsbestimmung zur Änderung vom 21. November 2007**[^99a-1]
 
-<sup>1</sup> Im Zeitpunkt der erstmaligen und umfassenden Zuweisung und Bekanntgabe der AHV-Versichertennummern nach Artikel 8*a* werden die im Personenstandsregister geführten Personen der ZAS gemeldet.
+<sup>1</sup> Im Zeitpunkt der erstmaligen und umfassenden Zuweisung und Bekanntgabe der AHV-Nummer nach Artikel 8*a* werden die im Personenstandsregister geführten Personen der ZAS gemeldet.
 
 <sup>2</sup> Nach dieser Meldung wird jede nach Artikel 93 Absatz 1 oder 2 rückerfasste Person der ZAS gemeldet.
 
-<sup>3</sup> Das Verfahren für die Zuweisung, Verifizierung und Bekanntgabe der AHV-Versichertennummer richtet sich nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> der Verordnung vom 31. Oktober 1947[^99a-2] über die Alters und Hinterlassenenversicherung.
+<sup>3</sup> Das Verfahren für die Zuweisung, Verifizierung und Bekanntgabe der AHV-Nummer richtet sich nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> der Verordnung vom 31. Oktober 1947[^99a-2] über die Alters und Hinterlassenenversicherung.
 
 [^99a-1]: Eingefügt durch Anhang Ziff. 2 der Registerharmonisierungsverordnung vom 21. Nov. 2007 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^99a-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
@@ -2539,12 +2585,9 @@ Fehlen bei der Gemeindeverwaltung des Wohnsitzes oder Aufenthaltsortes der betro
 
 #### Art. 99c
 
-**Übergangsbestimmungen zur Änderung vom 8. Dezember 2017**[^99c-1]
+[^99c-1]
 
-Die Eintragungen im Schweizerischen Register der Urkundspersonen (UPReg) nach Artikel 6 Absatz 2 EÖBV[^99c-2] müssen binnen drei Jahren nach dem Inkrafttreten dieser Bestimmung erfolgen.
-
-[^99c-1]: Eingefügt durch Anhang Ziff. II 2 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^99c-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^99c-1]: Eingefügt durch Anhang Ziff. II 2 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)). Aufgehoben durch Ziff. I der V vom 27. Okt. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 99d
 
@@ -2553,6 +2596,15 @@ Die Eintragungen im Schweizerischen Register der Urkundspersonen (UPReg) nach Ar
 Die Person, die eine Fehlgeburt erlitten hat oder schriftlich erklärt, der Erzeuger zu sein, kann eine vor dem Inkrafttreten dieser Änderung erlittene Fehlgeburt innert fünf Jahren nach Inkrafttreten der Änderung dem Zivilstandsamt melden und sich eine Bestätigung ausstellen lassen.
 
 [^99d-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)[5447](https://fedlex.data.admin.ch/eli/oc/2018/823)).
+
+#### Art. 99e
+
+**Übergangsbestimmung zur Änderung vom 27. Oktober 2021**[^99e-1]
+
+Die Eintragungen im Schweizerischen Register der Urkundspersonen nach Artikel 6 Absatz 2 EÖBV[^99e-2] müssen binnen drei Jahren nach dem Inkrafttreten der Änderung vom 27. Oktober 2021 erfolgen.
+
+[^99e-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^99e-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
 #### Art. 100
 
