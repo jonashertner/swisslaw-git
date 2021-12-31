@@ -4,13 +4,13 @@ number: "821.40.66"
 title: "Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien à l'orientation et à la formation professionnelle"
 short: OMEF COVID-19
 language: fr
-version: 2020-09-11
-valid_until: 2021-12-31
-version_adopted: 2020-09-01
+version: 2022-01-01
+valid_until: 2023-07-14
+version_adopted: 2021-12-14
 adopted: 2020-06-03
 in_force: 2020-06-03
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.66"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6588/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7043/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, soutien à l'orientation et à la formation professionnelle – O
 
 (OMEF COVID-19)
 
-du 03.06.2020 (version entrée en vigueur le 11.09.2020)
+du 03.06.2020 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -84,7 +84,7 @@ Arrête:
 - 1\. Action «Last minute»: le but est de mettre en contact les jeunes en recherche de place d'apprentissage et les entreprises formatrices. Dans le cadre de la crise, il s'agit d'intensifier le «coaching» et de soutenir les parents pour accompagner leurs enfants dans leur recherche, en engageant pour ce faire du personnel qualifié dans le domaine. Un montant de 50'000 francs, extrait de celui qui est prévu à l'article 2 al. 1 let. a de la présente ordonnance, est alloué à cet effet.
 - 2\. Mesures de préformation (PréFo) et semestre de motivation (SeMo) – été: le but est de maintenir les mesures (PréFo Grolley, REPER, Intervalle) ordinairement fermées l'été afin de permettre aux jeunes restés sans solution de les suivre et de trouver une solution avant l'arrivée, lors de la rentrée scolaire 2020/21, des élèves ayant terminé l'école obligatoire en juin 2020. Un montant de 50'000 francs, extrait de celui qui est prévu à l'article 2 al. 1 let. c de la présente ordonnance, est alloué à cet effet.
 - 3\. Mesures de préformation (PréFo) et semestre de motivation (SeMo) – automne: le but est d'augmenter à la rentrée scolaire la capacité d'accueil des mesures prévues sous le chiffre 2 du présent alinéa et d'offrir ainsi une soixantaine de places supplémentaires dans les structures existantes, d'une part, et d'ouvrir une classe supplémentaire à l'école professionnelle artisanale et industrielle (EPAI), d'autre part. A cet effet, un montant de 300'000 francs en faveur du SPE et un montant de 110'000 francs en faveur du SFP sont extraits des montants prévus à l'article 2 al. 1 let. b et c de la présente ordonnance.
-- 4\. Gratuité de la formation des adultes: le but est d'encourager les personnes adultes sans formation professionnelle touchées par la crise à se former. En dérogation aux articles 1 et 1a de l'ordonnance du 2 juillet 2012 sur les tarifs des taxes et des indemnités de la formation professionnelle (OTIFP), il est renoncé à facturer les frais de formation en école professionnelle au sens des articles 31 et 32 OFPr. Les montants non perçus, de l'ordre de 200'000 francs, extraits de celui qui est prévu à l'article 2 al. 1 let. b de la présente ordonnance, sont versés directement au SFP et à l'Institut agricole de l'Etat de Fribourg (IAG), au prorata des personnes concernées.
+- 4\. Gratuité de la formation des adultes: le but est d'encourager les personnes adultes sans formation professionnelle touchées par la crise à se former. En dérogation aux articles 1 et 1a de l'ordonnance du 2 juillet 2012 sur les tarifs des taxes et des indemnités de la formation professionnelle (OTIFP), il est renoncé à facturer les frais de formation en école professionnelle au sens des articles 31 et 32 OFPr. Les montants non perçus, de l'ordre de 200'000 francs, extraits de celui qui est prévu à l'article 2 al. 1 let. b de la présente ordonnance, sont versés directement au SFP et à Grangeneuve, au prorata des personnes concernées.
 - 5\. Signature des contrats d'apprentissage: le délai de remise des contrats d'apprentissage signés est prolongé jusqu'à fin octobre 2020. Le SFP informe formellement les entreprises formatrices de la prolongation de la possibilité d'engager jusqu'à la fin des vacances d'automne. Il n'est pas extrait de montant pour cette mesure.
 - 6\. Réseaux d'entreprises formatrices: le mandat de prestation passé entre le SFP et les réseaux d'entreprises formatrices Ref-Flex, Fribap et REF-GEI est élargi pour l'année scolaire, en cela qu'il est demandé auxdits réseaux d'engager plus d'apprenti‑e‑s dans les métiers techniques et ceux du bâtiment ainsi que des élèves faiblement scolarisés. Des mesures promotionnelles pour ces métiers et ces élèves doivent être conduites. Un montant de 112'000 francs, extrait de celui qui est prévu à l'article 2 al. 1 let. b de la présente ordonnance, est alloué à cet effet.
 - 7\. Cours interentreprises: en complément du montant octroyé aux cours interentreprises (CIE) par le biais du fonds «réforme fiscale» prévu à l'article 70a LFP, le taux de financement de l'Etat est augmenté de 20 à 25 % pour l'année scolaire 2020/21 («5 %-COVID»). Sur la base des comptes 2019, un montant de 567'000 francs, extrait de celui qui est prévu à l'article 2 al. 1 let. b de la présente ordonnance, est alloué à cet effet.

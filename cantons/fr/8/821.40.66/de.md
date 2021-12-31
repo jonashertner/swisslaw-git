@@ -4,13 +4,13 @@ number: "821.40.66"
 title: Verordnung über die wirtschaftlichen Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch die Unterstützung der Berufsberatung und der Berufsbildung
 short: WMV-Bildung-COVID-19
 language: de
-version: 2020-09-11
-valid_until: 2021-12-31
-version_adopted: 2020-09-01
+version: 2022-01-01
+valid_until: 2023-07-14
+version_adopted: 2021-12-14
 adopted: 2020-06-03
 in_force: 2020-06-03
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.66"
-pdf: "https://bdlf.fr.ch/api/de/versions/6588/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7043/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Unterstützung der Berufsberatung und der Berufsbildung – V
 
 (WMV-Bildung-COVID-19)
 
-vom 03.06.2020 (Fassung in Kraft getreten am 11.09.2020)
+vom 03.06.2020 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -84,7 +84,7 @@ beschliesst:
 - 1\. Aktion «Last Minute»: Das Ziel dieser Massnahme ist es, die Jugendlichen auf der Suche nach einer Lehrstelle mit Ausbildungsbetrieben zusammenzubringen. Aufgrund der Krise gilt es, das Coaching zu verstärken und die Eltern zu unterstützen, damit sie ihren Kindern bei der Suche helfen. Dazu muss qualifiziertes Personal angestellt werden. Zu diesem Zweck werden dem Betrag gemäss Artikel 2 Abs. 1 Bst. a 50'000 Franken entnommen.
 - 2\. Berufsvorbereitungsmassnahmen (PreFo) und Motivationssemester (SeMo) – Sommer: Es gilt, die Massnahmen (PréFo Grolley, REPER, Intervalle), die gewöhnlich über den Sommer geschlossen sind, offen zu halten, damit die Jugendlichen, die bis dahin keine Lösung gefunden haben, bis zum Schuljahresbeginn 2020/21 einen Ausbildungsplatz finden können, bevor die Schülerinnen und Schüler, welche die obligatorische Schulzeit im Juni 2020 abschliessen, zur Massnahme stossen. Zu diesem Zweck werden dem Betrag gemäss Artikel 2 Abs. 1 Bst. c 50'000 Franken entnommen.
 - 3\. Berufsvorbereitungsmassnahmen (PreFo) und Motivationssemester (SeMo) – Herbst: Es gilt, die Aufnahmekapazität der Massnahmen nach Ziffer 2 auf Beginn des Schuljahres zu erhöhen und so rund sechzig zusätzliche Plätze in den bestehenden Einrichtungen zur Verfügung zu stellen sowie eine zusätzliche Klasse an der Gewerblichen und Industriellen Berufsfachschule (GIBS) zu eröffnen. Zu diesem Zweck werden den Beträgen gemäss Artikel 2 Abs. 1 Bst. b und c 300'000 Franken zugunsten des AMA und 110'000 Franken zugunsten des BBA entnommen.
-- 4\. Unentgeltlichkeit der Erwachsenenbildung: Es gilt, die von der Krise betroffenen Erwachsenen ohne Berufsbildung, zu einer Ausbildung zu animieren. In Abweichung von Artikel 1 und 1a der Verordnung vom 2. Juli 2012 über die Gebühren und Entschädigungen in der Berufsbildung (GEBV) werden keine Kosten für eine Ausbildung an einer Berufsfachschule im Sinne von Artikel 31 und 32 BBV in Rechnung gestellt. Die nicht in Rechnung gestellten Kosten in der Höhe von etwa 200'000 Franken werden dem Betrag gemäss Artikel 2 Abs. 1 Bst. b entnommen und im Verhältnis zu den betroffenen Personen direkt dem BBA und dem Landwirtschaftlichen Institut des Kantons Freiburg (LIG) ausgezahlt.
+- 4\. Unentgeltlichkeit der Erwachsenenbildung: Es gilt, die von der Krise betroffenen Erwachsenen ohne Berufsbildung, zu einer Ausbildung zu animieren. In Abweichung von Artikel 1 und 1a der Verordnung vom 2. Juli 2012 über die Gebühren und Entschädigungen in der Berufsbildung (GEBV) werden keine Kosten für eine Ausbildung an einer Berufsfachschule im Sinne von Artikel 31 und 32 BBV in Rechnung gestellt. Die nicht in Rechnung gestellten Kosten in der Höhe von etwa 200'000 Franken werden dem Betrag gemäss Artikel 2 Abs. 1 Bst. b entnommen und im Verhältnis zu den betroffenen Personen direkt dem BBA und Grangeneuve ausgezahlt.
 - 5\. Unterzeichnung der Lehrverträge: Die Einsendefrist für die unterzeichneten Lehrverträge wird bis Ende Oktober 2020 verlängert. Das BBA informiert die Ausbildungsbetriebe darüber, dass die Möglichkeit zur Anstellung von Lernenden bis zum Ende der Herbstferien verlängert wird. Für diese Massnahme werden keine finanziellen Mittel bereitgestellt.
 - 6\. Lehrbetriebsverbünde: Der Leistungsauftrag, den das BBA den Lehrbetriebsverbünden Ref-Flex, Fribap und REF-GEI erteilt hat, wird für ein Schuljahr erweitert, damit sie mehr Lernende in den Berufsfeldern Technik und Hochbau und schulisch schwache Lernende anstellen. Für die betreffenden Berufe und Lernenden müssen Fördermassnahmen getroffen werden. Zu diesem Zweck werden dem Betrag gemäss Artikel 2 Abs. 1 Bst. b 112'000 Franken entnommen.
 - 7\. Überbetriebliche Kurse: Zur Ergänzung des Beitrags an die Überbetrieblichen Kursen (ÜK) aus dem Steuerreform-Fonds gemäss Artikel 70a BBiG wird der Finanzierungsanteil des Staats für das Schuljahr 2020/21 von 20 auf 25 % erhöht («5 %-COVID»). Zu diesem Zweck werden dem Betrag gemäss Artikel 2 Abs. 1 Bst. b gestützt auf die Jahresrechnung 2019 567'000 Franken entnommen.
