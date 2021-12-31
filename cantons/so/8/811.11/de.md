@@ -4,13 +4,13 @@ number: "811.11"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2019-09-01
-valid_until: 2021-12-31
-version_adopted: 2018-12-19
+version: 2022-01-01
+valid_until: 2023-06-30
+version_adopted: 2021-08-31
 adopted: 2018-12-19
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.11"
-pdf: "https://bgs.so.ch/api/de/versions/4836/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5264/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4836/pdf_file"
 
 (GesG)
 
-Vom 19.12.2018 (Stand 01.09.2019)
+Vom 19.12.2018 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -621,6 +621,18 @@ beschliesst:
 
 <sup>3</sup> Der Kanton kann Einrichtungen, Massnahmen und Projekte anderer öffentlich-rechtlicher Körperschaften, öffentlich-rechtlicher und privater Institutionen, Organisationen oder Einrichtungen sowie weiterer Personen durch Beiträge unterstützen.
 
+#### § 43bis
+
+**Selbsthilfe**
+
+<sup>1</sup> Der Kanton fördert die Selbsthilfe und damit die Verantwortung eines jeden für sich selbst und andere.
+
+<sup>2</sup> Er gewährleistet den Zugang zu Angeboten und vermittelt interessierte Personen.
+
+<sup>3</sup> Er unterstützt geeignete Angebote sowie Projekte und sorgt dafür, dass diese der Allgemeinheit bekannt gemacht werden.
+
+<sup>4</sup> Er koordiniert und vernetzt Angebote sowie Projekte.
+
 #### § 44
 
 **Tabakprävention**
@@ -692,6 +704,14 @@ beschliesst:
 <sup>3</sup> Die Erziehungsberechtigten können Reihenuntersuchungen und Behandlungen durch den Schulzahnarzt oder die Schulzahnärztin oder auf eigene Kosten durch einen anderen Zahnarzt oder eine andere Zahnärztin durchführen lassen. Die Erziehungsberechtigten legen den Gemeinden Rechenschaft über den erfolgten Reihenuntersuch ab.
 
 <sup>4</sup> Die Kosten der durch den Schulzahnarzt oder die Schulzahnärztin durchgeführten Behandlungen sind von den Erziehungsberechtigten entsprechend ihrer finanziellen Leistungsfähigkeit und der Anzahl ihrer Kinder teilweise oder ganz zu übernehmen. Die Gemeinden legen die Modalitäten und die Höhe der Beiträge der Erziehungsberechtigten in ihren Reglementen fest.
+
+#### § 48bis
+
+**Bundes- und Drittmittel**
+
+<sup>1</sup> Der Regierungsrat verwendet Bundes- und Drittmittel, insbesondere die Abgabe gemäss Bundesgesetz über die Krankenversicherung (KVG) vom 18. März 1994[^48bis-1] für die allgemeine Krankheitsverhütung, im Rahmen der Zweckbestimmung zur Finanzierung von Projekten der Prävention und Gesundheitsförderung im Sozial- und Gesundheitsbereich.
+
+[^48bis-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 ## 8. Bekämpfung übertragbarer Krankheiten des Menschen
 
