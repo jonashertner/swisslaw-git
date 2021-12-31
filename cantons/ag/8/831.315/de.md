@@ -4,13 +4,13 @@ number: "831.315"
 title: Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 short: ELKV-AG
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-07-02
+version: 2022-01-01
+valid_until: 2024-04-30
+version_adopted: 2021-03-31
 adopted: 2010-11-17
 in_force: 2011-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/831.315"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2776/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3055/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2776/pdf_file"
 
 (ELKV-AG)
 
-Vom 17.11.2010 (Stand 01.01.2020)
+Vom 17.11.2010 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -96,6 +96,10 @@ beschliesst:
 <sup>1</sup> Anspruch auf Vergütung von Krankheits- und Behinderungskosten besteht nur, soweit nicht eine andere Versicherung für die Kosten aufkommt.
 
 <sup>2</sup> Der Bezug einer Hilflosenentschädigung der Alters- und Hinterlassenenversicherung (AHV), Invalidenversicherung (IV), Unfallversicherung (UV) oder Militärversicherung (MV) und der Bezug eines Assistenzbeitrags der IV oder AHV gelten nicht als Kostenvergütung einer anderen Versicherung.
+
+<sup>3</sup> Soweit Leistungen von anerkannten Einrichtungen gemäss den §§ 1b und 4a der Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsverordnung, BeV) vom 8. November 2006[^8-1] bezogen werden, besteht kein Anspruch auf Vergütung von Kosten gemäss den §§ 12, 18 und 18<sup>bis</sup> für den zusätzlichen Bezug von nicht nach der Betreuungsgesetzgebung finanzierten Leistungen.
+
+[^8-1]: SAR [428.511](https://gesetzessammlungen.ag.ch/data/428.511/de)
 
 #### § 9
 
@@ -223,13 +227,13 @@ beschliesst:
 
 **Hilfe, Pflege und Betreuung in Tages- oder Nachtstrukturen**
 
-<sup>1</sup> Kosten für Hilfe, Pflege und Betreuung in Tagesstrukturen werden bei Ergänzungsleistungen beziehenden Personen mit Anspruch auf eine Rente der IV oder der AHV vergütet, wenn sie sich in einer Tagesstätte gemäss § 7 der Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsverordnung) vom 8. November 2006[^17-1] aufhalten. Dies gilt auch bei einem Aufenthalt in einer ausserkantonalen anerkannten oder bewilligten Tagesstätte für erwachsene invalide Personen. Die Kostenvergütung erfolgt nach folgenden Kriterien:
+<sup>1</sup> Kosten für Hilfe, Pflege und Betreuung in Tagesstrukturen werden erwachsenen invaliden Personen oder erwachsenen Personen mit einer Rente der AHV, die zudem jährliche Ergänzungsleistungen beziehen, vergütet, wenn sie sich in einer bewilligten Tagesstätte gemäss § 5 BeV aufhalten. Dies gilt auch bei einem Aufenthalt in einer ausserkantonalen bewilligten Tagesstätte für erwachsene invalide Personen. Die Kostenvergütung erfolgt nach folgenden Kriterien:
 
 - a) der Aufenthalt muss mehr als zwei Stunden pro Tag dauern,
 - b) die Anwesenheit bis zu fünf aufeinander folgenden Stunden gilt als halber und ab fünf aufeinander folgenden Stunden als ganzer Tag,
 - c) für halbe Tage werden höchstens Fr. 22.50 pro Tag und für ganze Tage höchstens Fr. 45.– pro Tag angerechnet.
 
-<sup>2</sup> Kosten für Hilfe, Pflege und Betreuung in Tages- oder Nachtstrukturen werden bei Ergänzungsleistungen beziehenden Personen mit Anspruch auf eine Rente der IV oder der AHV vergütet, wenn sie sich in einer gemäss § 6 Abs. 8 des Pflegegesetzes (PflG) vom 26. Juni 2007[^17-2] anerkannten Tages- oder Nachtstruktur aufhalten. Dies gilt auch für Aufenthalte in einer ausserkantonalen bewilligten oder anerkannten Pflegeeinrichtung. Die Kostenvergütung erfolgt nach folgenden Kriterien:
+<sup>2</sup> Kosten für Hilfe, Pflege und Betreuung in Tages- oder Nachtstrukturen werden erwachsenen invaliden Personen oder erwachsenen Personen mit einer Rente der AHV, die zudem jährliche Ergänzungsleistungen beziehen, vergütet, wenn sie sich in einer gemäss § 6 Abs. 8 des Pflegegesetzes (PflG) vom 26. Juni 2007[^17-1] anerkannten Tages- oder Nachtstruktur aufhalten. Dies gilt auch für Aufenthalte in einer ausserkantonalen bewilligten oder anerkannten Pflegeeinrichtung. Die Kostenvergütung erfolgt nach folgenden Kriterien:
 
 - a) in Tagesstrukturen muss der Aufenthalt mehr als 5 Stunden pro Tag dauern,
 - b) pro Tag bzw. pro Nacht werden inkl. Patientenbeteiligung gemäss den Bestimmungen der Pflegegesetzgebung Kosten bis höchstens Fr. 120.– angerechnet.
@@ -239,12 +243,13 @@ beschliesst:
 <sup>4</sup> Keine Kosten werden vergütet bei
 
 - a) Entlöhnung für eine allfällige Beschäftigung in der Tagesstruktur von über Fr. 100.– pro Monat,
-- b) Heimaufenthalt mit EL-Berechnung gemäss Art. 10 Abs. 2 ELG.
+- b) Heimaufenthalt mit EL-Berechnung gemäss Art. 10 Abs. 2 ELG,
+- c) Aufenthalt in einer anerkannten Tagesstätte gemäss § 5 BeV oder einer ausserkantonalen Tagesstätte, die vom Standortkanton der Interkantonalen Vereinbarung für Soziale Einrichtungen (IVSE) vom 13. Dezember 2002[^17-2] unterstellt wurde.
 
 <sup>5</sup> Die Ergänzungsleistungen beziehende Person hat einen angemessenen Selbstbehalt in Form des Betrags für Verpflegung nach Art. 11 Abs. 2 der Verordnung über die Alters- und Hinterlassenenversicherung (AHVV) vom 31. Oktober 1947[^17-3] selbst zu tragen.
 
-[^17-1]: SAR [428.511](https://gesetzessammlungen.ag.ch/data/428.511/de)
-[^17-2]: SAR [301.200](https://gesetzessammlungen.ag.ch/data/301.200/de)
+[^17-1]: SAR [301.200](https://gesetzessammlungen.ag.ch/data/301.200/de)
+[^17-2]: SAR [428.030](https://gesetzessammlungen.ag.ch/data/428.030/de)
 [^17-3]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
 
 #### § 18
@@ -316,7 +321,8 @@ beschliesst:
 - a) Notfalltransporte in der Schweiz,
 - b) notwendige Verlegungen in der Schweiz,
 - c) Transporte zur nächstgelegenen medizinischen Behandlungsstelle,
-- d) Transporte zu Tages- oder Nachstrukturen gemäss § 17 dieser Verordnung.
+- d) Transporte zu Tages- oder Nachtstrukturen gemäss § 17 Abs. 2,
+- e) Transporte zu Tagesstätten gemäss § 5 BeV.
 
 <sup>2</sup> Vergütet werden die tatsächlich anfallenden Kosten, die den günstigsten Preisen der öffentlichen Transportmittel für Fahrten auf direktem Weg entsprechen. Ist die versicherte Person wegen ihrer Behinderung auf die Benützung eines anderen Transportmittels angewiesen, werden diese Kosten vergütet. Bei Personenwagen wird pro Kilometer die Pauschale nach Art. 5 Abs. 3 der Verordnung des EFD über den Abzug von Berufskosten der unselbständigen Erwerbstätigkeit bei der direkten Bundessteuer (Berufskostenverordnung) vom 10. Februar 1993[^22-1] vergütet, bei Taxifahrten die tatsächlichen Ausgaben.
 
