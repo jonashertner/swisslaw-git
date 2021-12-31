@@ -3,18 +3,18 @@ sr: "632.111.722"
 title: "Ordinanza del 23 novembre 2011 concernente gli elementi di protezione industriale e gli elementi mobili applicabili all'importazione di prodotti agricoli trasformati"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/821"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-11-23
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2011-821-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-821-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente gli elementi di protezione industriale e gli elementi mobili applicabili all’importazione di prodotti agricoli trasformati
 
-del 23 novembre 2011 (Stato 1° gennaio 2021)
+del 23 novembre 2011 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visti gli articoli 1 e 4 capoversi 1 e 2 della legge federale del 15 dicembre 20
 
 ordina:
 
-[^ingress-1]: [RS 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)
+[^ingress-1]: [RS 632.111.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7946)
 [^ingress-2]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6431](https://fedlex.data.admin.ch/eli/oc/2020/1054)).
 
 #### Art. 1
@@ -55,7 +55,7 @@ Gli elementi di protezione industriale applicabili ai diversi prodotti sono stab
 
 <sup>2</sup> Il DFF, d’intesa con il DEFR, può adattare temporaneamente gli elementi mobili, in base alla differenza tra i prezzi nazionali e i prezzi del mercato UE o a una modifica delle aliquote di dazio dei rispettivi prodotti di base. Gli importi di base secondo la tabella IV del Protocollo n. 2 del 22 luglio 1972 riguardante taluni prodotti agricoli trasformati non devono essere superati.
 
-[^4-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997)
+[^4-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
 #### Art. 5
 
@@ -84,7 +84,9 @@ Fatti salvi gli obblighi internazionali contrari, per le importazioni in regime 
 
 **Pubblicazione**
 
-L’Amministrazione federale delle dogane pubblica le fonti rispettive dei prezzi rappresentativi dei prodotti di base nonché i prezzi nazionali ed esteri dei prodotti di base su cui si fonda il calcolo degli elementi mobili.
+L’Ufficio federale della dogana e della sicurezza dei confini[^6-1] pubblica le fonti rispettive dei prezzi rappresentativi dei prodotti di base nonché i prezzi nazionali ed esteri dei prodotti di base su cui si fonda il calcolo degli elementi mobili.
+
+[^6-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), con effetto dal 1° gen. 2022.
 
 #### Art. 7
 
@@ -100,17 +102,19 @@ L’ordinanza del 22 dicembre 2004[^7-1] concernente gli elementi di protezione 
 
 La presente ordinanza entra in vigore il 1° febbraio 2012.
 
-Allegato
+Allegato[^t-1]
 
 (art. 2 e 5 cpv. 1)
 
 ## Elementi di protezione industriale e ricette standard applicabili
 
+[^t-1]: Aggiornato dall’all. 3 n. 6 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+
 <table>
 <tr><th>Voce della tariffa doganale svizzera</th><th>Elemento di protezione industriale</th><th>Grano tenero</th><th>Grano duro</th><th>Segala</th><th>Orzo</th><th>Mais</th><th>Farina di grano tenero</th><th>Latte intero in polvere</th><th>Latte scremato in polvere</th><th>Burro</th><th>Zucchero cristallizzato</th><th>Uova</th><th>Patate fresche</th><th colspan="2">Grasso vegetale</th></tr>
 <tr><th></th><th>Fr. per 100 kg lordi</th><th colspan="14">Quantità di prodotti di base in chilogrammi per 100 kg di peso del prodotto finito</th></tr>
-<tr><td>0403.1010</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>6</td><td>8</td><td></td><td>20</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>0403.1020</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td>15</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>0403.2091</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>6</td><td>8</td><td></td><td>20</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>0403.2099</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td>15</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>0403.9031</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>20</td><td></td><td>18</td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>0403.9041</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>0403.9049</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>

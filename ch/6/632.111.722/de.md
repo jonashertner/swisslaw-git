@@ -3,18 +3,18 @@ sr: "632.111.722"
 title: Verordnung vom 23. November 2011 über die Industrieschutzelemente und die beweglichen Teilbeträge bei der Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/821"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-11-23
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2011-821-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-821-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Industrieschutzelemente und die beweglichen Teilbeträge bei der Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten
 
-vom 23. November 2011 (Stand am 1. Januar 2021)
+vom 23. November 2011 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 1 und 4 Absätze 1 und 2 des Bundesgesetzes vom 15. De
 
 verordnet:
 
-[^ingress-1]: [SR 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)
+[^ingress-1]: [SR 632.111.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7946)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6431](https://fedlex.data.admin.ch/eli/oc/2020/1054)).
 
 #### Art. 1
@@ -55,7 +55,7 @@ Die anwendbaren Industrieschutzelemente für die einzelnen Erzeugnisse sind im A
 
 <sup>2</sup> Das EFD kann im Einvernehmen mit dem WBF aufgrund des Unterschieds zwischen den inländischen Preisen und den EU-Marktpreisen oder aufgrund einer Änderung der Zollansätze der entsprechenden Grundstoffe die beweglichen Teilbeträge vorübergehend anpassen; dabei dürfen die Grundbeträge nach Tabelle IV des Protokolls Nr. 2 vom 22. Juli 1972 über bestimmte landwirtschaftliche Verarbeitungserzeugnisse nicht überschritten werden.
 
-[^4-1]: SR **0****.****632.401.2**
+[^4-1]: [SR 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
 #### Art. 5
 
@@ -84,7 +84,9 @@ Für andere als präferenzberechtigte Einfuhren aus EU-Mitgliedstaaten wird der 
 
 **Veröffentlichung**
 
-Die Eidgenössische Zollverwaltung veröffentlicht die jeweiligen Quellen der repräsentativen Grundstoffpreise und die der Berechnung der beweglichen Teilbeträge zugrunde liegenden inländischen und ausländischen Grundstoffpreise.
+Das Bundesamt für Zoll und Grenzsicherheit[^6-1] veröffentlicht die jeweiligen Quellen der repräsentativen Grundstoffpreise und die der Berechnung der beweglichen Teilbeträge zugrunde liegenden inländischen und ausländischen Grundstoffpreise.
+
+[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([AS 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)) auf den 1. Jan. 2022 angepasst.
 
 #### Art. 7
 
@@ -92,7 +94,7 @@ Die Eidgenössische Zollverwaltung veröffentlicht die jeweiligen Quellen der re
 
 Die Verordnung vom 22. Dezember 2004[^7-1] über die Industrieschutzelemente und die beweglichen Teilbeträge bei der Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten wird aufgehoben.
 
-[^7-1]: [[AS 2005 523](https://fedlex.data.admin.ch/eli/oc/2005/63), [2006 2861](https://fedlex.data.admin.ch/eli/oc/2006/438), [2010 3543](https://fedlex.data.admin.ch/eli/oc/2010/508)]
+[^7-1]: [[AS 2005 523](https://fedlex.data.admin.ch/eli/oc/2005/63); [2006 2861](https://fedlex.data.admin.ch/eli/oc/2006/438); [2010 3543](https://fedlex.data.admin.ch/eli/oc/2010/508)]
 
 #### Art. 8
 
@@ -100,17 +102,19 @@ Die Verordnung vom 22. Dezember 2004[^7-1] über die Industrieschutzelemente und
 
 Diese Verordnung tritt am 1. Februar 2012 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 2 und 5 Abs. 1)
 
 ## Anwendbare Industrieschutzelemente und Standardrezepturen
 
+[^t-1]: Bereinigt gemäss Anhang 3 Ziff. 6 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+
 <table>
 <tr><th>Nummer des schweizerischen Zolltarifs</th><th>Industrieschutzelement</th><th>Weichweizen</th><th>Hartweizen</th><th>Roggen</th><th>Gerste</th><th>Mais</th><th>Weichweizenmehl</th><th>Vollmilchpulver</th><th>Magermilchpulver</th><th>Butter</th><th>Kristallzucker</th><th>Eier</th><th>Frischkartoffeln</th><th>Pflanzenfett</th></tr>
 <tr><th></th><th>Fr. je 100 kg brutto</th><th colspan="13">Menge der Grundstoffe in Kilo je 100 kg Eigengewicht des Fertigproduktes</th></tr>
-<tr><td>0403.1010</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>6</td><td>8</td><td></td><td>20</td><td></td><td></td><td></td></tr>
-<tr><td>0403.1020</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td>15</td><td></td><td></td><td></td></tr>
+<tr><td>0403.2091</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>6</td><td>8</td><td></td><td>20</td><td></td><td></td><td></td></tr>
+<tr><td>0403.2099</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td>15</td><td></td><td></td><td></td></tr>
 <tr><td>0403.9031</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>20</td><td></td><td>18</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>0403.9041</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>0403.9049</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td></td><td></td><td></td><td></td></tr>

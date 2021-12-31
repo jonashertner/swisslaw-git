@@ -3,18 +3,18 @@ sr: "632.111.722"
 title: "Ordonnance du 23 novembre 2011 concernant les éléments de protection industrielle et les éléments mobiles applicables à l'importation de produits agricoles transformés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/821"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-11-23
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-821-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/821/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-821-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/821/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant les éléments de protection industrielle et les éléments mobiles applicables à l’importation de produits agricoles transformés
 
-du 23 novembre 2011 (Etat le 1<sup>er</sup> janvier 2021)
+du 23 novembre 2011 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu les art. 1 et 4, al. 1 et 2, de la loi fédérale du 15 décembre 2017 sur l�
 
 arrête:
 
-[^ingress-1]: [RS 632.111.72](https://fedlex.data.admin.ch/eli/cc/2018/629)
+[^ingress-1]: [RS 632.111.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7946)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6431](https://fedlex.data.admin.ch/eli/oc/2020/1054)).
 
 #### Art. 1
@@ -55,7 +55,7 @@ Les éléments de protection industrielle applicables aux divers produits sont f
 
 <sup>2</sup> En accord avec le DEFR, le DFF peut adapter à titre provisoire les éléments mobiles, en se fondant sur la différence entre les prix suisses et ceux du marché de l’UE ou sur une modification des droits de douane perçus sur les produits de base correspondants; il veille à ce que les montants de base figurant dans le tableau IV du protocole n<sup>o</sup> 2 du 22 juillet 1972 concernant certains produits agricoles transformés ne soient pas dépassés.
 
-[^4-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997)
+[^4-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
 #### Art. 5
 
@@ -84,7 +84,9 @@ Pour les importations autres que celles provenant d’États membres de l’UE e
 
 **Publication**
 
-L’Administration fédérale des douanes publie les sources du relevé des prix représentatifs des produits de base et les prix suisses et étrangers des produits de base servant au calcul des éléments mobiles.
+L’Office fédéral de la douane et de la sécurité des frontières[^6-1] publie les sources du relevé des prix représentatifs des produits de base et les prix suisses et étrangers des produits de base servant au calcul des éléments mobiles.
+
+[^6-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022.
 
 #### Art. 7
 
@@ -100,17 +102,19 @@ L’ordonnance du 22 décembre 2004 concernant les éléments de protection indu
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2012.
 
-Annexe
+Annexe[^t-1]
 
 (art. 2 et 5, al. 1)
 
 ## Éléments de protection industrielle et recettes standard applicables
 
+[^t-1]: Mise à jour par l’annexe 3 ch. 6 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+
 <table>
 <tr><th>N<sup>o</sup> du tarif des douanes suisses</th><th>Élément de protection industrielle</th><th>Blé tendre</th><th>Blé dur</th><th>Seigle</th><th>Orge</th><th>Maïs</th><th>Farine de blé tendre</th><th>Lait entier en poudre</th><th>Lait écrémé en poudre</th><th>Beurre</th><th>Sucre cristallisé</th><th>Œufs</th><th>Pommes de terre à l’état frais</th><th colspan="2">Graisse végétale</th></tr>
 <tr><th></th><th>Fr. par 100 kg brut</th><th colspan="14">Quantité de produits de base en kilos par 100 kg de poids du produit fini</th></tr>
-<tr><td>0403.1010</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>6</td><td>8</td><td></td><td>20</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>0403.1020</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td>15</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>0403.2091</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>6</td><td>8</td><td></td><td>20</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>0403.2099</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td>15</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>0403.9031</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>20</td><td></td><td>18</td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>0403.9041</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>0403.9049</td><td>10.—</td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td><td>8</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
