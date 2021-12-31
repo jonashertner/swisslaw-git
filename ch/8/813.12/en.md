@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20210901/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20210901-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20210901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 1 September 2021)
+of 18 May 2005 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
-based on the Chemicals Act of 15 December 2000[^ingress-1] (ChemA), on Article 29, Article 29*d* paragraph 4 and Article 30*b* paragraphs 1 and 2 letter a of the Environmental Protection Act of 7 October 1983[^ingress-2] (EPA), and on Article 17 of the Gene Technology Act of 21 March 2003[^ingress-3] (GTA) and in implementation of the Federal Act of 6 October 1995[^ingress-4] on Technical Barriers to Trade,
+based on the Chemicals Act of 15 December 2000[^ingress-1] (ChemA), on Articles 29, 29*d* paragraph 4 and 30*b* paragraphs 1 and 2 letter a of the Environmental Protection Act of 7 October 1983[^ingress-2] (EPA), and on Article 17 of the Gene Technology Act of 21 March 2003[^ingress-3] (GTA) and in implementation of the Federal Act of 6 October 1995[^ingress-4] on Technical Barriers to Trade,
 
 ordains:
 
@@ -103,7 +103,7 @@ This Ordinance does not apply to:
 
 [^1b-1]: Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^1b-2]: Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products, OJ L 167 of 27 June 2012, p. 1; last amended by Regulation (EU) No 334/2014, OJ L 103 of 5 April 2014, p. 22.
-[^1b-3]: [www.anmeldestelle.admin.ch](http://www.anmeldestelle.admin.ch) &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products (OBP) &gt; MRA Switzerland-EU
+[^1b-3]: www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products (OBP) &gt; MRA Switzerland-EU
 [^1b-4]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 #### Art. 2
@@ -132,7 +132,7 @@ In addition, in this Ordinance:
 
   *substance of concern* means a substance, other than the active substance, which has an inherent capacity to cause an adverse effect, immediately or in the more distant future, on humans, in particular vulnerable groups, animals or the environment and is present or is produced in a biocidal product in sufficient concentration to present risks of such an effect; such a substance, unless there are other grounds for concern, would be, in particular:[^2-3]
 
-  - 1\. a substance classified as dangerous or that meets the criteria to be classified as such according to Article 2 paragraph 2 in conjunction with Annex VI Numbers 2–5 of Directive 67/548/EEC[^2-4], and that is present in the biocidal product at a concentration leading the product to be regarded as dangerous within the meaning of Article 1 paragraph 2 in conjunction with Articles 5, 6 and 7 of Directive 1999/45/EC[^2-5],
+  - 1\. a substance classified as dangerous or that meets the criteria to be classified as such according to Article 2 paragraph 2 in conjunction with Annex VI Numbers 2–5 of Directive 67/548/EEC[^2-4], and that is present in the biocidal product at a concentration leading the product to be classified as dangerous within the meaning of Article 1 paragraph 2 in conjunction with Articles 5, 6 and 7 of Directive 1999/45/EC[^2-5],
   - 2\. a substance classified as hazardous or that meets the criteria to be classified as such according to Article 2 paragraph 2 in conjunction with Parts 2–5 of Annex I to Regulation (EC) No 1272/2008 (CLP Regulation)[^2-6], and that is present in the biocidal product at a concentration leading the product to be regarded as hazardous within the meaning of that Regulation, or
   - 3\. a substance which meets the criteria for being a persistent organic pollutant (POP) under Regulation (EC) No 850/2004[^2-7], or which meets the criteria for being persistent, bioaccumulative and toxic (PBT) or very persistent and very bioaccumulative (vPvB) in accordance with Annex XIII to Regulation (EC) No 1907/2006 (REACH Regulation)[^2-8];
 
@@ -1590,6 +1590,15 @@ Where this is necessary because of the size or the function of the biocidal prod
 [^38-8]: Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^38-9]: Repealed by No I of the O of 5 June 2015,with effect from 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
+#### Art. 38a
+
+**Labelling of specific biocidal products classified as dangerous**[^38a-1]
+
+Where an authorisation holder places a biocidal product on the market that is classified as dangerous within the meaning of Article 3 ChemO[^38a-2] because of the physical or health hazards it presents, it must not only indicate the information in accordance with Article 38 paragraphs 2–4 but also the UFI in accordance with the provisions of Article 15*a* paragraphs 3 and 4 ChemO.
+
+[^38a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^38a-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+
 #### Art. 39
 
 **Labelling for genetically modified microorganisms[^39-2]**[^39-1]
@@ -1614,7 +1623,7 @@ One of the following descriptions must be used for the labelling:
 
 **Safety data sheet**[^40-1]
 
-<sup>1</sup> For biocidal products and for active substances for use in biocidal products, safety data sheets must be compiled, provided and updated in accordance with Articles 5 and 18–22 of the ChemO[^40-2] *mut**a**tis mutandis*; where the ChemO refers to the manufacturer, this shall be understood for the purposes of this Ordinance as the authorisation holder.[^40-3]
+<sup>1</sup> For biocidal products and for active substances for use in biocidal products, safety data sheets must be compiled, provided and updated in accordance with Articles 5 and 18–22 of the ChemO[^40-2] *mutatis mutandis*; where the ChemO refers to the manufacturer, this shall be understood for the purposes of this Ordinance as the authorisation holder.[^40-3]
 
 <sup>2</sup> For active substances included in the lists specified in Article 9 paragraph 1 letters a–c, the exposure scenarios referred to in Article 20 paragraph 2 of the ChemO need not be attached.
 
@@ -1797,7 +1806,7 @@ Any advertisement for biocidal products must include the following phrases, whic
 
 [^50a-1]: Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^50a-2]: See footnote to Art. 1*b* para. 3.
-[^50a-3]: [www.anmeldestelle.admin.ch](http://www.anmeldestelle.admin.ch) &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products (OBP) &gt; MRA Switzerland-EU
+[^50a-3]: www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products (OBP) &gt; MRA Switzerland-EU
 [^50a-4]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
 #### Art. 51
@@ -2049,6 +2058,19 @@ The treated articles specified in paragraph 1 may be placed on the market for th
 [^62d-1]
 
 [^62d-1]: Inserted by No I of the O of 20 June 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Repealed by No I of the O of 18 Nov. 2020, with effect from 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+### Section 1*a***** Transitional Provision to the Amendment of 18 November 2020
+
+[^chap8-sec1a-1]
+
+[^chap8-sec1a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2022 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+#### Art. 62e
+
+The following biocidal products, notwithstanding that they do not have a UFI on 1 January 2022, may be placed on the market at the latest until 31 December 2025 without indicating the UFI in accordance with Article 14*a*:
+
+- a. biocidal products intended for professional users;
+- b. biocidal products intended for private users and placed on the market before 1 January 2022.
 
 ### Section 2 Commencement****
 

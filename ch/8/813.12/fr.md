@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 concernant la mise sur le marché et l'utilisa
 short: OPBio
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: fr
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20210901/fr"
 
 (Ordonnance sur les produits biocides, OPBio)
 
-du 18 mai 2005 (Etat le 1<sup>er</sup> septembre 2021)
+du 18 mai 2005 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -277,7 +277,7 @@ L’autorisation est valable:
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
-[^5-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 (RO **20****18** 817).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
 #### Art. 6
 
@@ -317,16 +317,16 @@ On distingue les types d’autorisation suivants:
   - 3\. pour lesquelles une demande d’autorisation A<sub>C</sub> a été déposée à l’organe de réception des notifications jusqu’au 31 juillet 2006, et
   - 4\. qui sont encore sur le marché lors de l’entrée en vigueur de la modification du 20 juin 2014 de la présente ordonnance;
 
-- e.[^7-6] *claus**es dérogatoire*s: pour les produits biocides utilisés lors de situations exceptionnelles;
+- e.[^7-6] *clauses dérogatoire*s: pour les produits biocides utilisés lors de situations exceptionnelles;
 - f. *autorisation simplifiée:* pour les produits biocides qui se prêtent à la procédure simplifiée prévue à l’art. 25 du règlement (UE) n<sup>o</sup> 528/2012[^7-7];
 - g.
 
-  *reconnaissa**n**ce:* pour les produits biocides:
+  *reconnaissance:* pour les produits biocides:
 
   - 1\.[^7-8] autorisés dans un État membre de l’UE ou de l’AELE conformément à l’art. 33 du règlement (UE) n<sup>o</sup> 528/2012, ou
   - 2\. pour lesquels une demande a été soumise conformément à l’art. 34 du règlement (UE) n<sup>o</sup> 528/2012;
 
-- h. *reconnaissan**ce d’une autorisation de l’Union:* pour les produits biocides pour lesquels la Commission européenne a accordé une autorisation de l’Union;
+- h. *reconnaissance d’une autorisation de l’Union:* pour les produits biocides pour lesquels la Commission européenne a accordé une autorisation de l’Union;
 - i. *autorisation des mêmes produits biocides:* pour les produits biocides
   - 1\. identiques à des produits biocides déjà autorisés,
   - 2\. mis sur le marché par le titulaire de l’autorisation ou des tiers aux mêmes conditions que les produits biocides déjà autorisés;
@@ -556,7 +556,7 @@ La mise sur le marché d’un produit biocide destiné à être utilisé par le 
 
 <sup>2</sup> L’utilisation d’un produit biocide autorisé en vertu de l’al. 1 doit faire l’objet de mesures appropriées d’atténuation des risques afin de garantir que l’exposition de l’être humain et de l’environnement à ce produit biocide est la plus faible possible.
 
-[^11e-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 (RO **201****4** 2073).
+[^11e-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
 #### Art. 11f
 
@@ -595,7 +595,7 @@ En accord avec les organes d’évaluation, l’organe de réception des notific
 
 <sup>3</sup> Par dérogation aux al. 1 et 2, un produit biocide peut être autorisé en l’absence d’évaluation comparative dans les cas exceptionnels où il est nécessaire d’acquérir une expérience préalable grâce à l’utilisation de ce produit dans la pratique.
 
-[^11g-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 (RO **20****14** 2073).
+[^11g-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^11g-2]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
 
 ### Section 2*b* Conditions à remplir pour l’autorisation simplifiée
@@ -1219,12 +1219,12 @@ Une lettre d’accès doit contenir au moins les informations suivantes:
 
 Les durées de protection des données transmises à l’organe de réception des notifications conformément à la présente ordonnance sont les suivantes:
 
-- a. *pour les données transmises en vue de l’approbation d’une substa**n**ce active existante:* 10 ans après le premier jour du mois qui suit la date de l’approbation de la substance active concernée pour le type de produit en question par la Commission européenne, conformément à l’art. 9 du règlement (UE) n<sup>o</sup> 528/2012[^28-2];
-- b. *pour les données transmises en vue de l’approbation d’une nouvelle sub**s**tance active:* 15 ans après le premier jour du mois qui suit la date de l’approbation de la substance active concernée pour le type de produit en question par la Commission européenne, conformément à l’art. 9 du règlement (UE) n<sup>o</sup> 528/2012;
-- c. *pour les données transmises en vue de la prolo**n**gation ou du réexamen de l’approbation d’une nouvelle substance act**ive:* 5 ans après le premier jour du mois qui suit la date de prolongation ou du réexamen de l’approbation par la Commission européenne, conformément à l’art. 14, par. 4, du règlement (UE) n<sup>o</sup> 528/2012;
-- d. *pour les données transmises en vue de l’autorisation* *d’un produit biocide ne contenant que des substances actives existantes:* 10 ans après le premier jour du mois qui suit la date d’octroi de l’autorisation par l’organe de réception des notifications ou par l’autorité compétente en vertu du règlement (UE) n<sup>o</sup> 528/2012;
+- a. *pour les données transmises en vue de l’approbation d’une substance active existante:* 10 ans après le premier jour du mois qui suit la date de l’approbation de la substance active concernée pour le type de produit en question par la Commission européenne, conformément à l’art. 9 du règlement (UE) n<sup>o</sup> 528/2012[^28-2];
+- b. *pour les données transmises en vue de l’approbation d’une nouvelle substance active:* 15 ans après le premier jour du mois qui suit la date de l’approbation de la substance active concernée pour le type de produit en question par la Commission européenne, conformément à l’art. 9 du règlement (UE) n<sup>o</sup> 528/2012;
+- c. *pour les données transmises en vue de la prolongation ou du réexamen de l’approbation d’une nouvelle substance active:* 5 ans après le premier jour du mois qui suit la date de prolongation ou du réexamen de l’approbation par la Commission européenne, conformément à l’art. 14, par. 4, du règlement (UE) n<sup>o</sup> 528/2012;
+- d. *pour les données transmises en vue de l’autorisation d’un produit biocide ne contenant que des substances actives existantes:* 10 ans après le premier jour du mois qui suit la date d’octroi de l’autorisation par l’organe de réception des notifications ou par l’autorité compétente en vertu du règlement (UE) n<sup>o</sup> 528/2012;
 - e. *pour les données transmises en vue de l’autorisation d’un produit biocide contenant une nouvelle substance active:* 15 ans après le premier jour du mois qui suit la date d’octroi de l’autorisation par l’organe de réception des notifications ou par l’autorité compétente en vertu du règlement (UE) n<sup>o</sup> 528/2012;
-- f. *pour les données transmises en vue de la prolo**n**gation ou de la modification de l’autorisation d’un produit biocide:* 5 ans après le premier jour du mois qui suit la date d’octroi de l’autorisation par l’organe de réception des notifications ou la date de la décision de prolongation ou de modification de l’autorisation par l’autorité compétente en vertu du règlement (UE) n<sup>o</sup> 528/2012;
+- f. *pour les données transmises en vue de la prolongation ou de la modification de l’autorisation d’un produit biocide:* 5 ans après le premier jour du mois qui suit la date d’octroi de l’autorisation par l’organe de réception des notifications ou la date de la décision de prolongation ou de modification de l’autorisation par l’autorité compétente en vertu du règlement (UE) n<sup>o</sup> 528/2012;
 
 <sup>2</sup> La durée de protection débute à la première transmission des données.
 
@@ -1581,12 +1581,21 @@ Au lieu de figurer sur l’étiquette, les indications visées aux al. 3, let. c
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^38-2]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^38-3]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), **2****007** 821, [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
+[^38-3]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^38-4]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^38-5]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^38-6]: Directive 2000/54/CE du Parlement européen et du Conseil, du 18 sept. 2000, concernant la protection des travailleurs contre les risques liés à l’exposition à des agents biologiques au travail, JO L 262 du 17.10.2000, p. 21.
 [^38-7]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^38-8]: Abrogé par le ch. I de l’O du 5 juin 2015, avec effet au 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+
+#### Art. 38a
+
+**Étiquetage de certains produits biocides classés comme dangereux**[^38a-1]
+
+Si le titulaire de l’autorisation met sur le marché un produit biocide classé comme dangereux au sens de l’art. 3 OChim[^38a-2] en raison de ses effets physiques ou de ses effets sur la santé, il doit le munir de l’UFI en sus des indications visées à l’art. 38, al. 2 à 4, conformément aux dispositions prévues à l’art. 15*a*, al. 3 à 5 OChim.
+
+[^38a-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^38a-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 39
 
@@ -2046,6 +2055,19 @@ Les articles traités visés à l’al. 1 peuvent être mis sur le marché pour 
 
 [^62d-1]: Introduit par le ch. I de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Abrogé par le ch. I de l’O du 18 nov. 2020, avec effet au 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
+### Section 1*a* Disposition transitoire de la modification du 18 novembre 2020
+
+[^chap8-sec1a-1]
+
+[^chap8-sec1a-1]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+**Art. 62**e
+
+Les produits biocides suivants peuvent être mis sur le marché sans indication de l’UFI prévue par l’art. 14*a* jusqu’au 31 décembre 2025 au plus tard, s’ils ne disposent pas d’un UFI le 1<sup>er</sup> janvier 2022:
+
+- a. les produits biocides destinés aux utilisateurs professionnels;
+- b. les produits biocides destinés à des utilisateurs privés et mis sur le marché avant le 1<sup>er</sup> janvier 2022.
+
 ### Section 2 Entrée en vigueur
 
 [^chap8-sec2-1]
@@ -2098,7 +2120,7 @@ Les équivalences entre les expressions figurant dans règlement (UE) n<sup>o</s
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>a. Expressions en allemand</td><td></td></tr>
+<tr><td>*a. Expressions en allemand*</td><td></td></tr>
 <tr><td>Gemisch</td><td>Zubereitung</td></tr>
 <tr><td>Erzeugnis</td><td>Gegenstand</td></tr>
 <tr><td>Bereitstellung auf dem Markt</td><td>Inverkehrbringen nach Artikel 4 Absatz 1 Buchstabe i des Chemikaliengesetzes vom 15. Dezember 2000</td></tr>
@@ -2107,7 +2129,7 @@ Les équivalences entre les expressions figurant dans règlement (UE) n<sup>o</s
 <tr><td>Zugangsbescheinigung</td><td>Zugangsbescheinigung nach Artikel 2 Absatz 2 Buchstabe e</td></tr>
 <tr><td>befasste bzw. bewertende zuständige Behörde</td><td>Anmeldestelle bzw. Beurteilungsstellen</td></tr>
 <tr><td>vereinfachtes Zulassungsverfahren</td><td>vereinfachte Zulassung</td></tr>
-<tr><td>b. Expressions en français</td><td></td></tr>
+<tr><td>*b. Expressions en français*</td><td></td></tr>
 <tr><td>Mélange</td><td>Préparation</td></tr>
 <tr><td>Article</td><td>Objet</td></tr>
 <tr><td>Mise à disposition sur le marché</td><td>Mise sur le marché selon l’art. 4, al. 1, let. i, de la loi du 15 décembre 2000 sur les produits chimiques</td></tr>
@@ -2116,7 +2138,7 @@ Les équivalences entre les expressions figurant dans règlement (UE) n<sup>o</s
 <tr><td>Lettre d’accès</td><td>Lettre d’accès selon l’art. 2, al. 2, let. e</td></tr>
 <tr><td>Autorité compétente réceptrice ou d’évaluation</td><td>Organe de réception des notifications (organe de réception des notifications) ou organes d’évaluation</td></tr>
 <tr><td>Procédure d’autorisation simplifiée</td><td>Autorisation simplifiée</td></tr>
-<tr><td>c. Expressions en italien</td><td></td></tr>
+<tr><td>*c. Expressions en italien*</td><td></td></tr>
 <tr><td>Miscela</td><td>Preparato</td></tr>
 <tr><td>Prodotto</td><td>Oggetto</td></tr>
 <tr><td>Messa a disposizione sul mercato</td><td>Immissione sul mercato secondo l’articolo 4 capoverso 1 lettera i della legge del 15 dicembre 2000 sui prodotti chimici</td></tr>
@@ -2157,16 +2179,16 @@ Les équivalences entre les expressions figurant dans les actes de l’UE auxque
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>a. Deutsche Ausdrücke:</td><td></td></tr>
+<tr><td>*a. Deutsche Ausdrücke:*</td><td></td></tr>
 <tr><td>in Mitgliedstaaten zur Verwendung zugelassen</td><td>in der Schweiz zur Verwendung zugelassen</td></tr>
 <tr><td>die Mitgliedstaaten bewerten</td><td>die Beurteilungsstellen (BS) bewerten</td></tr>
 <tr><td>Rückstandshöchstgehalte (RHG)</td><td>Höchstkonzentrationen bzw. Höchstwerte</td></tr>
 <tr><td>Antrag</td><td>Gesuch</td></tr>
-<tr><td>b. Expressions françaises:</td><td></td></tr>
+<tr><td>*b. Expressions françaises:*</td><td></td></tr>
 <tr><td>autorisés à des fins d’utilisation dans les États membres</td><td>autorisés à des fins d’utilisation en Suisse</td></tr>
 <tr><td>les États membres étudient</td><td>les Organes d’évaluation (OE) étudient</td></tr>
 <tr><td>limites maximales de résidus (LMR)</td><td>concentrations maximales ou valeurs maximales</td></tr>
-<tr><td>c. Italienische Ausdrücke:</td><td></td></tr>
+<tr><td>*c. Italienische Ausdrücke:*</td><td></td></tr>
 <tr><td>autorizzati per l’impiego negli Stati membri</td><td>autorizzati per l’impiego in Svizzera</td></tr>
 <tr><td>gli Stati membri valutare</td><td>gli Servizi di valutazione (SV) valutare</td></tr>
 <tr><td>livelli massimi di residui (LMR)</td><td>concentrazioni massime o valori massimi</td></tr>
@@ -2536,7 +2558,7 @@ Ce type de produits comprend à la fois les produits de traitement préventifs e
 
 Produits utilisés pour protéger les ouvrages de maçonnerie, les matériaux composites ou les matériaux de construction autres que le bois par la lutte contre les attaques des microorganismes et les algues.
 
-- *Type* *de produits 11:* Produits de protection des liquides utilisés dans les systèmes de refroidissement et de fabrication
+- *Type de produits 11:* Produits de protection des liquides utilisés dans les systèmes de refroidissement et de fabrication
 
 Produits utilisés pour protéger l’eau ou les autres liquides utilisés dans les systèmes de refroidissement et de fabrication contre les organismes nuisibles tels que les microbes, les algues et les moules. Les produits utilisés pour désinfecter l’eau potable ou l’eau des piscines ne sont pas compris dans ce type de produits.
 
@@ -2544,7 +2566,7 @@ Produits utilisés pour protéger l’eau ou les autres liquides utilisés dans 
 
 Produits utilisés pour prévenir ou lutter contre la formation de moisissures sur les matériaux, équipements et structures utilisés dans l’industrie, par exemple sur le bois et la pâte à papier ou les strates de sable poreuses dans l’industrie de l’extraction du pétrole.
 
-- *Type d**e produits 13:* Produits de protection des fluides de travail ou de coupe
+- *Type de produits 13:* Produits de protection des fluides de travail ou de coupe
 
 Produits utilisés pour protéger les fluides utilisés pour le travail ou la coupe du métal, du verre ou d’autres matériaux contre les altérations microbiennes.
 
