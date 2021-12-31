@@ -4,13 +4,12 @@ number: "975.61"
 title: Interkantonale Vereinbarung über das öffentliche Beschaffungswesen
 short: IVöB
 language: de
-version: 2010-07-01
-valid_until: 2021-12-31
-version_adopted: 2010-06-01
+version: 2022-01-01
+version_adopted: 2021-12-21
 adopted: 2001-03-15
 in_force: 2003-01-28
 url: "http://gdb.ow.ch/app/de/texts_of_law/975.61"
-pdf: "http://gdb.ow.ch/api/de/versions/78/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1813/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +17,7 @@ text: pdf
 
 # Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (IVöB)
 
-vom 15. März 2001[^t-1] (Stand 1. Juli 2010)
+vom 15. März 2001[^t-1] (Stand 1. Januar 2022)
 
 Gemäss Beschluss des Interkantonalen Organs (InöB) und mit Zustimmung der Mitglieder der Schweizerischen Bau-, Planungs- und Umweltschutzdirektoren-Konferenz (BPUK) vom 15. März 2001
 
@@ -44,9 +43,11 @@ Gemäss Beschluss des Interkantonalen Organs (InöB) und mit Zustimmung der Mitg
 
 - d. wirtschaftliche Verwendung öffentlicher Mittel.
 
+[^1-1]: Fassung gemäss Beschluss des InöB vom 15. März 2001
+
 #### Art. 2
 
-<sup>3</sup> Vorbehalt anderer Vereinbarungen
+**Vorbehalt anderer Vereinbarungen**[^1-1]
 
 Die beteiligten Kantone behalten sich das Recht vor:
 
@@ -54,9 +55,11 @@ Die beteiligten Kantone behalten sich das Recht vor:
 
 - b. Vereinbarungen mit den Grenzregionen und Nachbarstaaten zu schliessen.
 
+[^2-1]: Fassung gemäss Beschluss des InöB vom 15. März 2001
+
 #### Art. 3
 
-<sup>4</sup> Durchführung
+**Durchführung**[^2-1]
 
 Die zuständigen Behörden jedes Kantons erlassen Ausführungsbestimmungen, die der Vereinbarung entsprechen müssen.
 
@@ -126,9 +129,7 @@ c.<sup>bis</sup> Entgegennahme und Weiterleitung eines Gesuches um Befreiung von
 
 <sup>2</sup> Im von Staatsverträgen nicht erfassten Bereich findet diese Vereinbarung Anwendung auf alle Arten von öffentlichen Aufträgen.
 
-#### Art. 7
-
-<sup>10</sup> Schwellenwerte
+### Art. 7<sup>10</sup> Schwellenwerte
 
 <sup>1</sup> Die Schwellenwerte im Staatsvertragsbereich sind im Anhang 1 aufgeführt.
 
@@ -138,9 +139,7 @@ c.<sup>bis</sup> Entgegennahme und Weiterleitung eines Gesuches um Befreiung von
 
 <sup>2</sup> Werden für die Realisierung eines Bauwerkes mehrere Bauaufträge vergeben, ist im Staatsvertragsbereich der Gesamtwert der Hoch- und Tiefbauarbeiten massgebend. Bauaufträge im Staatsvertragsbereich, die je einzeln den Wert von zwei Millionen Franken nicht erreichen und zusammengerechnet 20 Prozent des Wertes des gesamten Bauwerkes nicht überschreiten, müssen mindestens nach den Bestimmungen des von Staatsverträgen nicht erfassten Bereiches vergeben werden (Bagatellklausel).
 
-#### Art. 8
-
-<sup>11</sup> Auftraggeberin und Auftraggeber
+### Art. 8<sup>11</sup> Auftraggeberin und Auftraggeber
 
 <sup>1</sup> Im Staatsvertragsbereich unterstehen dieser Vereinbarung:
 
@@ -162,9 +161,7 @@ c.<sup>bis</sup> Entgegennahme und Weiterleitung eines Gesuches um Befreiung von
 
 <sup>4</sup> Vergaben einer Auftraggeberin oder eines Auftraggebers gemäss Absatz 1 und 2, deren Ausführung nicht im Rechtsgebiet ihres Sitzes erfolgt, unterstehen dem Recht am Ort des Sitzes der Auftraggeberin oder des Auftraggebers oder am Ort des Schwergewichts der Tätigkeit.
 
-#### Art. 9
-
-<sup>12</sup> Anbieterin und Anbieter; Gegenrecht
+### Art. 9<sup>12</sup> Anbieterin und Anbieter; Gegenrecht
 
 Diese Vereinbarung ist anwendbar auf Angebote von Anbieterinnen und Anbietern, die ihren Sitz oder Wohnsitz haben:
 
@@ -174,9 +171,7 @@ Diese Vereinbarung ist anwendbar auf Angebote von Anbieterinnen und Anbietern, d
 
 - c. (...)
 
-#### Art. 10
-
-<sup>13</sup> Ausnahmen
+### Art. 10<sup>13</sup> Ausnahmen
 
 <sup>1</sup> Die Vereinbarung findet keine Anwendung auf:
 
@@ -220,9 +215,7 @@ Bei der Vergabe von Aufträgen werden folgende Grundsätze eingehalten:
 
 - g. Vertraulichkeit von Informationen.
 
-#### Art. 12
-
-<sup>14</sup> Verfahrensarten
+### Art. 12<sup>14</sup> Verfahrensarten
 
 <sup>1</sup> Es werden folgenden Verfahrensarten unterschieden:
 
@@ -248,9 +241,7 @@ b.<sup>bis</sup> das Einladungsverfahren, bei dem die Auftraggeberin oder der Au
 
 <sup>3</sup> Die Kantone können im von Staatsverträgen nicht erfassten Bereich für die Verfahren tiefere Schwellenwerte ansetzen. Daraus dürfen keine Gegenrechtsvorbehalte abgeleitet werden.
 
-#### Art. 13
-
-<sup>16</sup> Kantonale Ausführungsbestimmungen
+### Art. 13<sup>16</sup> Kantonale Ausführungsbestimmungen
 
 Die Ausführungsbestimmungen gewährleisten:
 
@@ -284,9 +275,7 @@ Die Ausführungsbestimmungen gewährleisten:
 
 ### 5. Abschnitt: Rechtsschutz
 
-#### Art. 15
-
-<sup>17</sup> Beschwerderecht und Frist
+### Art. 15<sup>17</sup> Beschwerderecht und Frist
 
 <sup>1</sup> Gegen Verfügungen der Auftraggeberin oder des Auftraggebers ist die Beschwerde an eine unabhängige kantonale Instanz zulässig. Diese entscheidet endgültig.
 
@@ -362,18 +351,20 @@ Die Ausführungsbestimmungen gewährleisten:
 
 <sup>2</sup> Der Austritt kann auf das Ende eines Kalenderjahres erfolgen. Er ist sechs Monate im voraus dem Interkantonalen Organ anzuzeigen, das den Austritt dem Bund mitteilt.
 
-#### Art. 21
+[^20-1]: Fassung gemäss Beschluss des InöB vom 15. März 2001
 
-<sup>18</sup> Inkrafttreten
+### Art. 21 Inkrafttreten
 
-<sup>1</sup> Die Vereinbarung tritt, sobald ihr zwei Kantone beigetreten sind, durch Veröffentlichung in der amtlichen Sammlung der Bundesgesetze und für weitere Mitglieder mit der Veröffentlichung ihres Beitrittes im gleichen Organ in Kraft.[^21-1]
+[^20-1]
+
+<sup>1</sup> Die Vereinbarung tritt, sobald ihr zwei Kantone beigetreten sind, durch Veröffentlichung in der amtlichen Sammlung der Bundesgesetze und für weitere Mitglieder mit der Veröffentlichung ihres Beitrittes im gleichen Organ in Kraft.[^hArt21201Inkra-1]
 
 <sup>2</sup> Gleiches gilt für Ergänzungen und Änderungen der Vereinbarung.
 
-<sup>3</sup> Im Verhältnis zu den Kantonen, welche die vorliegend geänderten Bestimmungen vom 15. März 2001 nicht übernommen haben, gilt weiterhin die unveränderte Vereinbarung vom 25. November 1994[^21-2].
+<sup>3</sup> Im Verhältnis zu den Kantonen, welche die vorliegend geänderten Bestimmungen vom 15. März 2001 nicht übernommen haben, gilt weiterhin die unveränderte Vereinbarung vom 25. November 1994[^hArt21201Inkra-2].
 
-[^21-1]: Siehe SR 172.056.5 / Vereinbarung in Kraft seit 28. Januar 2003
-[^21-2]: SR 172.056.4
+[^hArt21201Inkra-1]: Siehe SR 172.056.5 / Vereinbarung in Kraft seit 28. Januar 2003
+[^hArt21201Inkra-2]: SR 172.056.4
 
 #### Art. 22
 
@@ -383,17 +374,15 @@ Die Ausführungsbestimmungen gewährleisten:
 
 <sup>2</sup> Im Fall eines Austrittes gilt die Vereinbarung für die Vergabe von Aufträgen, die vor dem Ende des Kalenderjahres, auf das der Austritt wirksam wird, ausgeschrieben werden.
 
-[^22-1]: Fassung gemäss Beschluss des InöB vom März/Juni 2010
+[^22-1]: Fassung gemäss Beschluss des InöB vom März/Juni 2010 mit formalen Anpassungen vom 20. Dezember 2021 (OGS 2023, 19), in Kraft seit 1. Januar 2022
 
 ### Anhang 1: Schwellenwerte im Staatsvertragsbereich
 
 [^22-1]
 
-- a. Government Procurement Agreement GPA[^hAnhang1Schwellenw-1] (WTO-
+- a. Government Procurement Agreement GPA[^hAnhang1Schwellenw-1] (WTO-Übereinkommen über das öffentliche Beschaffungswesen)
 
 [^hAnhang1Schwellenw-1]: SR 0.632.231.422
-
-### Übereinkommen über das öffentliche Beschaffungswesen)
 
 ### Auftraggeberin Auftragswert CHF Auftraggeber (Auftragswert SZR)
 
@@ -403,29 +392,19 @@ Die Ausführungsbestimmungen gewährleisten:
 
 **350’000 350’000**
 
-### Kantone 8'700’000
+### Kantone, Gemeinden 8'700’000
 
 **(200'000)**
 
-(5'000’000) (200'000)
+und Bezirke (5'000’000) (200'000)
 
-### Behörden und öffentliche Unternehmen in den 8'700’000 Sektoren Wasser, (5'000’000) (400'000) Energie, Verkehr und Telekommunikation
-
-**700’000 700’000**
+### Behörden und öffentliche Unternehmen in den 8'700’000 Sektoren Wasser, Elekt- (5'000’000) (400'000)
 
 **(400'000)**
 
-- b. Gemäss Bilateralem Abkommen zwischen der Europäischen
+rizität, Verkehr und Telekommunikation b. Gemäss Bilateralem Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft[^hBehördenundöffentl-1] sind auch folgende Auftraggeberinnen und Auftraggeber dem Staatsvertragsbereich unterstellt:
 
 [^hBehördenundöffentl-1]: SR 0.172.052.68
-
-### Gemeinschaft und der Schweizerischen Eidgenossenschaft
-
-[^hBehördenundöffentl-1]
-
-sind auch folgende Auftraggeberinnen und Auftraggeber dem
-
-### Staatsvertragsbereich unterstellt:
 
 ### Auftraggeberin Auftragswert CHF Auftraggeber (Auftragswert EURO)
 
@@ -433,47 +412,43 @@ sind auch folgende Auftraggeberinnen und Auftraggeber dem
 
 (Gesamtwert)
 
-**350’000 350’000**
-
-### Gemeinden / Bezirke 8'700’000
-
-**(240'000)**
-
-(6'000’000) (240'000)
-
 ### Private Unternehmen mit
 
 ausschliesslichen oder besonderen Rechten in 8'700’000 den Sektoren Wasser, (6'000’000) (480'000)
 
 **700’000 700’000**
 
+**700’000 700’000**
+
 **(480'000)**
 
-### Energie und Verkehr
+### Elektrizität und Verkehr Öffentliche sowie auf-
 
-(inkl. Drahtseilbahnen und Skiliftanlagen)
+grund eines besonderen oder ausschliesslichen Rechts tätige pri- 8'000’000 vate Unternehmen im (5'000'000) (400'000)
+
+**640’000 640’000**
+
+**(400'000)**
+
+### Bereich des Personen-
+
+verkehrs auf der
+
+### Schiene und der Gas-
+
+und Wärmeversorgung
 
 ### Öffentliche sowie auf-
 
-grund eines besonderen oder ausschliesslichen
+grund eines besonderen oder ausschliesslichen 8'000’000
 
-**8'000’000 640’000 640’000 (5'000'000) (400'000) (400'000)**
+**960’000 960’000**
 
-### Rechts tätige private Unternehmen im Bereich des Schienenverkehrs und
+**(600'000)**
 
-der Gas- und
+### Rechts tätige private Un- (5'000'000) (600'000)
 
-### Wärmeversorgung
-
-### Öffentliche sowie auf-
-
-grund eines besonderen oder ausschliesslichen
-
-**8'000’000 960’000 960’000 (5'000'000) (600'000) (600'000)**
-
-### Rechts tätige private Unternehmen im Bereich
-
-der Telekommunikation
+ternehmen im Bereich der Telekommunikation\*
 
 ### Anhang 2: Schwellenwerte und Verfahren im von Staatsverträgen
 
@@ -501,6 +476,4 @@ offenes / selektives ab 250’000 ab 250’000 Verfahren
 
 ## Weitere Fussnoten
 
-- [3] Fassung gemäss Beschluss des InöB vom 15. März 2001
-- [4] Fassung gemäss Beschluss des InöB vom 15. März 2001
-- [18] Fassung gemäss Beschluss des InöB vom 15. März 2001
+- [*] Dieser Bereich ist ausgeklinkt (Art. 2 Abs. 1 VöB und Anhang 1 VöB – SR 172.056.11)
