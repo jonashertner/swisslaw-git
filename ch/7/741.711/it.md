@@ -4,11 +4,11 @@ title: "Ordinanza del 24 agosto 2011 concernente la tassa per l'utilizzazione de
 short: OUSN
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/578"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2011-08-24
 in_force: 2011-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/578/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2011-578-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/578/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/578/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-578-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/578/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/578/20200101/it"
 
 (Ordinanza sul contrassegno stradale, OUSN)
 
-del 24 agosto 2011 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 24 agosto 2011 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -44,10 +44,12 @@ La presente ordinanza disciplina le modalità di riscossione, mediante il contra
 Il contrassegno può essere acquistato presso:
 
 - a. i punti di vendita designati dai Cantoni o da organizzazioni da essi incaricate;
-- b. gli uffici di servizio dell’Amministrazione federale delle dogane (AFD);
+- b. gli uffici di servizio dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^2-1];
 - c. i punti di vendita all’estero designati da organizzazioni con le quali la Direzione generale delle dogane (DGD) ha concluso un pertinente accordo.
 
 <sup>2</sup> Il contrassegno può essere venduto o messo in circolazione al più presto il 1° dicembre dell’anno precedente.
+
+[^2-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -80,7 +82,7 @@ Il contrassegno è considerato annullato ai sensi dell’articolo 7 capoverso 4 
 
 <sup>2</sup> La DGD può stipulare un accordo con l’Associazione Svizzera d’Assicurazioni nel quale sono disciplinate la sostituzione e il rimborso del contrassegno in caso di sostituzione del parabrezza.
 
-<sup>3</sup> Se i costi di sostituzione del contrassegno non sono assunti da una compagnia d’assicurazioni, l’ufficio di servizio dell’AFD sostituisce il contrassegno dietro presentazione del vecchio contrassegno e della fattura relativa alla sostituzione del parabrezza.
+<sup>3</sup> Se i costi di sostituzione del contrassegno non sono assunti da una compagnia d’assicurazioni, l’ufficio di servizio dell’UDSC sostituisce il contrassegno dietro presentazione del vecchio contrassegno e della fattura relativa alla sostituzione del parabrezza.
 
 #### Art. 5
 
@@ -100,7 +102,7 @@ Il contrassegno è considerato annullato ai sensi dell’articolo 7 capoverso 4 
 
 ### (art. 11 LUSN)
 
-<sup>1</sup> Gli organi di controllo istituiti dall’AFD o dai Cantoni possono fermare i veicoli ed entrarvi al fine di verificare la validità del contrassegno.
+<sup>1</sup> Gli organi di controllo istituiti dall’UDSC o dai Cantoni possono fermare i veicoli ed entrarvi al fine di verificare la validità del contrassegno.
 
 <sup>2</sup> In caso di contravvenzione, tali organi di controllo possono chiedere i documenti di legittimazione del conducente per accertarne l’identità.
 
@@ -126,7 +128,7 @@ Il contrassegno è considerato annullato ai sensi dell’articolo 7 capoverso 4 
 
 **Esecuzione**
 
-<sup>1</sup> L’esecuzione della presente ordinanza compete all’AFD e ai Cantoni.
+<sup>1</sup> L’esecuzione della presente ordinanza compete all’UDSC ai Cantoni.
 
 <sup>2</sup> La DGD è l’ente centrale preposto al conteggio e l’organo di sorveglianza.
 

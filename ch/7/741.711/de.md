@@ -4,11 +4,11 @@ title: "Verordnung vom 24. August 2011 über die Abgabe für die Benützung von 
 short: NSAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/578"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2011-08-24
 in_force: 2011-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/578/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2011-578-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/578/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/578/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-578-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/578/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/578/20200101/de"
 
 (Nationalstrassenabgabeverordnung, NSAV)
 
-vom 24. August 2011 (Stand am 1. Januar 2020)
+vom 24. August 2011 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -44,10 +44,12 @@ Diese Verordnung regelt die Modalitäten im Zusammenhang mit der Vignette.
 Die Vignette kann bezogen werden bei:
 
 - a. den Verkaufsstellen, die die Kantone oder die von ihnen beauftragten Organisationen bezeichnen;
-- b. den Dienststellen der Eidgenössischen Zollverwaltung (EZV);
+- b. den Dienststellen des Bundesamts für Zoll und Grenzsicherheit (BAZG)[^2-1];
 - c. den Verkaufsstellen im Ausland, die von Organisationen bezeichnet werden, mit denen die Oberzolldirektion (OZD) eine Vereinbarung abgeschlossen hat.
 
 <sup>2</sup> Die Vignette darf frühestens ab dem 1. Dezember des Vorjahres verkauft oder in Umlauf gebracht werden.
+
+[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 3
 
@@ -80,7 +82,7 @@ Die Vignette gilt nach Artikel 7 Absatz 4 NSAG als entwertet, wenn:
 
 <sup>2</sup> Die OZD kann mit dem Schweizerischen Versicherungsverband eine Vereinbarung abschliessen, in der der Ersatz der Vignette aufgrund eines Frontscheibenwechsels und die Rückerstattung geregelt werden.
 
-<sup>3</sup> Werden die Kosten für den Ersatz der Vignette nicht durch eine Versicherungsgesellschaft übernommen, so wird die Vignette unter Vorlage der alten Vignette und der Rechnung für die ersetzte Frontscheibe durch die Dienststellen der EZV ersetzt.
+<sup>3</sup> Werden die Kosten für den Ersatz der Vignette nicht durch eine Versicherungsgesellschaft übernommen, so wird die Vignette unter Vorlage der alten Vignette und der Rechnung für die ersetzte Frontscheibe durch die Dienststellen des BAZG ersetzt.
 
 #### Art. 5
 
@@ -100,7 +102,7 @@ Die Vignette gilt nach Artikel 7 Absatz 4 NSAG als entwertet, wenn:
 
 ### (Art. 11 NSAG)
 
-<sup>1</sup> Die von der EZV oder den Kantonen eingesetzten Kontrollorgane können zur Überprüfung der Gültigkeit der Vignette Fahrzeuge anhalten und betreten.
+<sup>1</sup> Die vom BAZG oder den Kantonen eingesetzten Kontrollorgane können zur Überprüfung der Gültigkeit der Vignette Fahrzeuge anhalten und betreten.
 
 <sup>2</sup> Im Fall einer Übertretung können sie zur Feststellung der Identität der Fahrzeugführerin oder des Fahrzeugführers Ausweispapiere verlangen.
 
@@ -126,7 +128,7 @@ Die Vignette gilt nach Artikel 7 Absatz 4 NSAG als entwertet, wenn:
 
 **Vollzug**
 
-<sup>1</sup> Die EZV und die Kantone vollziehen diese Verordnung.
+<sup>1</sup> Das BAZG und die Kantone vollziehen diese Verordnung.
 
 <sup>2</sup> Die OZD ist die zentrale Abrechnungsstelle und Aufsichtsbehörde.
 
@@ -138,7 +140,7 @@ Die Vignette gilt nach Artikel 7 Absatz 4 NSAG als entwertet, wenn:
 
 Die Verordnung vom 26. Oktober 1994[^10-1] über die Abgabe für die Benützung von Nationalstrassen wird aufgehoben.
 
-[^10-1]: [[AS 1994 2518](https://fedlex.data.admin.ch/eli/oc/1994/2518_2518_2518), [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. 13]
+[^10-1]: [[AS 1994 2518](https://fedlex.data.admin.ch/eli/oc/1994/2518_2518_2518); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. 13]
 
 #### Art. 11
 
@@ -156,7 +158,7 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 Für Vignetten des Jahres 2011 sind bis zum 31. Januar 2012 die Bestimmungen der Verordnung vom 26. Oktober 1994[^12-1] über die Abgabe für die Benützung von Nationalstrassen anwendbar.
 
-[^12-1]: [[AS 1994 2518](https://fedlex.data.admin.ch/eli/oc/1994/2518_2518_2518), [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. 13]
+[^12-1]: [[AS 1994 2518](https://fedlex.data.admin.ch/eli/oc/1994/2518_2518_2518); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. 13]
 
 #### Art. 13
 

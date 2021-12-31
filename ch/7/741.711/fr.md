@@ -4,11 +4,11 @@ title: "Ordonnance du 24 août 2011 concernant la redevance pour l'utilisation d
 short: OVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/578"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2011-08-24
 in_force: 2011-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/578/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-578-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/578/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/578/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-578-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/578/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/578/20200101/fr"
 
 (Ordonnance sur la vignette autoroutière, OVA)
 
-du 24 août 2011 (Etat le 1<sup>er</sup> janvier 2020)
+du 24 août 2011 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -44,10 +44,12 @@ La présente ordonnance règle les modalités de perception de la redevance pour
 La vignette peut être acquise:
 
 - a. dans les points de vente désignés par les cantons ou par les organisations que ces derniers ont mandatées;
-- b. aux offices de l’Administration fédérale des douanes (AFD);
+- b. aux offices de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^2-1];
 - c. dans les points de vente à l’étranger désignés par les organisations avec lesquelles la Direction générale des douanes (DGD) a conclu un accord.
 
 <sup>2</sup> La vignette peut être vendue ou mise en circulation au plus tôt le 1<sup>er</sup> décembre de l’année précédant la période de taxation.
+
+[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 3
 
@@ -80,7 +82,7 @@ Au sens de l’art. 7, al. 4, LVA, la vignette n’est plus valable:
 
 <sup>2</sup> La DGD peut conclure avec l’Association Suisse d’Assurances un accord réglant le remplacement de la vignette et son remboursement en cas de remplacement du pare-brise.
 
-<sup>3</sup> Si le coût du remplacement de la vignette n’est pas pris en charge par une compagnie d’assurance, les offices de l’AFD fournissent une nouvelle vignette sur présentation de l’ancienne et de la facture de remplacement du pare-brise.
+<sup>3</sup> Si le coût du remplacement de la vignette n’est pas pris en charge par une compagnie d’assurance, les offices de l’OFDF fournissent une nouvelle vignette sur présentation de l’ancienne et de la facture de remplacement du pare-brise.
 
 #### Art. 5
 
@@ -100,7 +102,7 @@ Au sens de l’art. 7, al. 4, LVA, la vignette n’est plus valable:
 
 ### (art. 11 LVA)
 
-<sup>1</sup> Les organes de contrôle engagés par l’AFD ou par les cantons peuvent arrêter des véhicules et y pénétrer afin de vérifier la validité de la vignette.
+<sup>1</sup> Les organes de contrôle engagés par l’OFDF ou par les cantons peuvent arrêter des véhicules et y pénétrer afin de vérifier la validité de la vignette.
 
 <sup>2</sup> En cas de contravention, ils peuvent exiger les documents d’identité afin de constater l’identité du conducteur.
 
@@ -126,7 +128,7 @@ Au sens de l’art. 7, al. 4, LVA, la vignette n’est plus valable:
 
 **Exécution**
 
-<sup>1</sup> L’AFD et les cantons exécutent la présente ordonnance.
+<sup>1</sup> L’OFDF et les cantons exécutent la présente ordonnance.
 
 <sup>2</sup> La DGD est l’organe central de décompte et de surveillance.
 
@@ -138,7 +140,7 @@ Au sens de l’art. 7, al. 4, LVA, la vignette n’est plus valable:
 
 L’ordonnance du 26 octobre 1994 sur la vignette routière[^10-1] est abrogée.
 
-[^10-1]: [[RO 1994 2518](https://fedlex.data.admin.ch/eli/oc/1994/2518_2518_2518), [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)annexe 1 ch. II 13]
+[^10-1]: [[RO 1994 2518](https://fedlex.data.admin.ch/eli/oc/1994/2518_2518_2518); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)annexe 1 ch. II 13]
 
 #### Art. 11
 
@@ -156,7 +158,7 @@ Les ordonnances ci-après sont modifiées comme suit:
 
 Pour les vignettes de l’année 2011, les dispositions de l’ordonnance du 26 octobre 1994 sur la vignette routière[^12-1] sont valables jusqu’au 31 janvier 2012.
 
-[^12-1]: [[RO 1994 2518](https://fedlex.data.admin.ch/eli/oc/1994/2518_2518_2518), [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)annexe 1 ch. II 13]
+[^12-1]: [[RO 1994 2518](https://fedlex.data.admin.ch/eli/oc/1994/2518_2518_2518); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)annexe 1 ch. II 13]
 
 #### Art. 13
 
@@ -164,6 +166,6 @@ Pour les vignettes de l’année 2011, les dispositions de l’ordonnance du 26 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> décembre 2011.
 
-Annexe[^t-1]
+Annexe*[^t-1]*
 
 [^t-1]: Abrogée par l’annexe 3 ch. 2 de l’O du 16 janv. 2019 sur les amendes d’ordre, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
