@@ -4,7 +4,7 @@ number: "180.51.5"
 title: RÈGLEMENT du 08.07.2015 sur la Commission consultative en matière religieuse (RCCreligieuse)
 short: RCCreligieuse
 language: fr
-version: 2015-08-01
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/180.51.5?id=edecab74-b9d7-469c-b9f0-707ffba60065"
 ---
 
@@ -93,7 +93,7 @@ arrête
 
 **Nomination [^chapterChapitreIII-1]**
 
-<sup>1</sup> La Commission est composée de 7 à 9 experts en matière de religions, d'éthique ou d'insertion sociale.
+<sup>1</sup> La Commission est composée de 9 à 11 experts en matière de religions, d'éthique ou d'insertion sociale.
 
 <sup>2</sup> Ses membres sont nommés ad personam par le Conseil d'Etat.
 
@@ -113,7 +113,7 @@ arrête
 
 **Quorum [^8-1]**
 
-<sup>1</sup> La Commission peut délibérer valablement en présence d'au moins cinq de ses membres.
+<sup>1</sup> La Commission peut délibérer valablement en présence d'au moins six de ses membres.
 
 [^8-1]: Modif. 1 du 02.03.2022: Modification Al. 1; entrée en vigueur au 01.01.2022
 
