@@ -3,52 +3,55 @@ sr: "672.931.41"
 title: Ordinanza del 18 dicembre 1974 sulla convenzione di doppia imposizione tra la Svizzera e la Danimarca (Imposta sul reddito e sulla sostanza)
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/2133_2133_2133"
 language: it
-version: 2007-01-01
+version: 2022-01-01
 adopted: 1974-12-18
 in_force: 1975-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2133_2133_2133/20070101/it/xml/fedlex-data-admin-ch-eli-cc-1974-2133_2133_2133-20070101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/2133_2133_2133/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2133_2133_2133/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1974-2133_2133_2133-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2133_2133_2133/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sulla convenzione di doppia imposizione tra la Svizzera e la Danimarca
+# Ordinanza sulla convenzione di doppia imposizione tra la Svizzera e la Danimarca (Imposta sul reddito e sulla sostanza)
 
-(Imposta sul reddito e sulla sostanza)
-
-del 18 dicembre 1974 (Stato 1° gennaio 2007) (Stato 1° gennaio 2007)
+del 18 dicembre 1974 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visto il decreto federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione,
+visto l’articolo 35 capoverso 1 della legge federale del 18 giugno 2021[^ingress-1] concernente l’esecuzione delle convenzioni internazionali in ambito fiscale,[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: Nuovo testo giusta il n. II 7 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
-## 1 Imposta preventiva svizzera riscossa su dividendi e interessi
+## 1. Imposta preventiva svizzera riscossa su dividendi e interessi
 
 #### Art. 1
 
 **Sgravio mediante rimborso**
 
-<sup>1</sup> Lo sgravio delle imposte su dividendi e interessi previsto negli articoli 10 e 11 della convenzione del 23 novembre 1973[^1-1] tra la Confederazione Svizzera e il Regno di Danimarca intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito e sulla sostanza è concesso dalla Svizzera sotto forma di rimborso intero dell’imposta preventiva.
+<sup>1</sup> Lo sgravio delle imposte su dividendi e interessi previsto negli articoli 10 e 11 della convenzione del 23 novembre 1973[^1-1] tra la Confederazione Svizzera e il Regno di Danimarca intesa ad evitare la doppia imposizione nel campo delle imposte sul reddito e sulla sostanza (convenzione) è concesso dalla Svizzera sotto forma di rimborso dell’imposta preventiva.[^1-2]
 
 <sup>2</sup> La presente ordinanza non si applica al rimborso dell’imposta preventiva che i residenti di Danimarca possono pretendere in virtù della legislazione federale svizzera.
 
-[^1-1]: [RS 0.672.931.41](https://fedlex.data.admin.ch/eli/cc/1974/1720_1720_1720)
+[^1-1]: [RS 0.672.931.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2568)
+[^1-2]: Nuovo testo giusta il n. II 7 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 #### Art. 2
 
 **Domanda**
 
-<sup>1</sup> L’avente diritto residente in Danimarca deve chiedere il rimborso dell’imposta preventiva sul modulo R 89.
+<sup>1</sup> L’avente diritto residente in Danimarca deve chiedere il rimborso dell’imposta preventiva utilizzando il modulo previsto a questo scopo. Il diritto al rimborso dell’imposta preventiva si estingue se la domanda non è presentata all’Amministrazione federale delle contribuzioni nei tre anni successivi alla fine dell’anno civile in cui è venuta a scadere la prestazione imponibile.[^2-1]
 
-<sup>2</sup> Il richiedente deve inoltrare la domanda in due copie, nel triennio successivo all’anno civile in cui sono scaduti i dividendi o gli interessi, al Ministero danese delle finanze (Skattedepartementet) o all’autorità da esso designata.
+<sup>2</sup> Il richiedente deve inoltrare la domanda in due copie al Ministero danese delle finanze (Skattedepartementet) o all’autorità da questo designata.[^2-2]
 
 <sup>3</sup> Ove parecchi diritti al rimborso sorgano durante il medesimo anno civile, essi devono essere esercitati in una sola domanda. Possono essere riuniti in un’unica domanda i diritti sorti in un triennio.
 
 <sup>4</sup> Se la domanda è fondata, l’autorità che l’ha ricevuta e il Ministero danese delle finanze (Skattedepartementet) rilasciano l’attestazione prevista sul modulo. Il Ministero danese delle finanze (Skattedepartementet) invia la seconda copia della domanda all’Amministrazione federale delle contribuzioni.
+
+[^2-1]: Nuovo testo giusta il n. II 7 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+[^2-2]: Nuovo testo giusta il n. II 7 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 #### Art. 3
 
@@ -56,13 +59,15 @@ ordina:
 
 <sup>1</sup> L’Amministrazione federale delle contribuzioni verifica la fondatezza e l’esattezza della domanda. Essa si rivolge direttamente al richiedente per ottenere le informazioni e le prove completive che le occorrono.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni notifica per scritto la propria decisione al richiedente e trasmette all’indirizzo indicato nella domanda la somma da rimborsare.
+<sup>2</sup> Se respinge la domanda, in tutto o in parte, l’Amministrazione federale delle contribuzioni lo comunica al richiedente.[^3-1]
 
-<sup>3</sup> Se una domanda è respinta completamente o parzialmente, la decisione è notificata per raccomandata con indicazione dei motivi e dei rimedi di diritto.
+<sup>3</sup> Se non è d’accordo in merito a quanto comunicato dall’Amministrazione federale delle contribuzioni e la controversia non può essere composta in altro modo, il richiedente può chiedere una decisione dell’Amministrazione federale delle contribuzioni.[^3-2]
 
-<sup>4</sup> Il ricorso contro la decisione dell’Amministrazione federale delle contribuzioni è retto dalle disposizioni generali concernenti l’organizzazione giudiziaria.[^3-1]
+<sup>4</sup> Il ricorso contro la decisione dell’Amministrazione federale delle contribuzioni è retto dalle disposizioni generali concernenti l’organizzazione giudiziaria.[^3-3]
 
-[^3-1]: Nuovo testo giusta il n. II 52 dell'O dell'8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^3-1]: Nuovo testo giusta il n. II 7 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+[^3-2]: Nuovo testo giusta il n. II 7 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+[^3-3]: Nuovo testo giusta il n. II 52 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 4
 
@@ -70,15 +75,15 @@ ordina:
 
 L’Amministrazione federale delle contribuzioni accetta la corrispondenza dei richiedenti residenti in Danimarca se fatta in una delle lingue nazionali svizzere (tedesco, francese, italiano, romancio) oppure in inglese.
 
-[^4-1]: Nuovo testo giusta il n. II 52 dell'O dell'8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^4-1]: Nuovo testo giusta il n. II 52 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-## 2 Imposta alla fonte danese riscossa sui dividendi
+## 2. Imposta alla fonte danese riscossa sui dividendi
 
 #### Art. 5
 
 **Domande e esame**
 
-<sup>1</sup> I residenti della Svizzera possono chiedere, mediante il modulo R-DK/U 31 CH, il rimborso completo dell’imposta danese riscossa sui dividendi.
+<sup>1</sup> I residenti della Svizzera possono chiedere il rimborso dell’imposta danese riscossa sui dividenti utilizzando il modulo previsto a questo scopo.[^5-1]
 
 <sup>2</sup> Il richiedente deve consegnare all’autorità fiscale cantonale competente, la domanda in tre copie nel triennio successivo alla scadenza dell’anno civile in cui sono maturati i dividendi. Per ciascun debitore deve essere usato un modulo a parte.
 
@@ -86,7 +91,9 @@ L’Amministrazione federale delle contribuzioni accetta la corrispondenza dei r
 
 <sup>4</sup> L’Amministrazione federale delle contribuzioni vidima la seconda copia della domanda e l’invia al Ministero danese delle finanze (Kildeskattedirektoratet).
 
-## 3 Disposizioni finali
+[^5-1]: Nuovo testo giusta il n. II 7 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+
+## 3. Disposizioni finali
 
 #### Art. 6
 
