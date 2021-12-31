@@ -4,13 +4,13 @@ number: "150.1"
 title: Dekret zum Personalgesetz
 short: Personaldekret
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-03
+version: 2022-01-01
+valid_until: 2022-03-31
+version_adopted: 2021-12-02
 adopted: 2000-06-08
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.1"
-pdf: "https://bl.clex.ch/api/de/versions/2910/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3221/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2910/pdf_file"
 
 (Personaldekret)
 
-Vom 08.06.2000 (Stand 01.01.2021)
+Vom 08.06.2000 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
