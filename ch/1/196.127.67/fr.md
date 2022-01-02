@@ -3,11 +3,11 @@ sr: "196.127.67"
 title: "Ordonnance du 25 mai 2016 de blocage de valeurs patrimoniales dans le contexte de l'Ukraine (O-Ukraine)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/325"
 language: fr
-version: 2021-02-28
+version: 2022-01-03
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/325/20210228/fr/xml/fedlex-data-admin-ch-eli-cc-2016-325-20210228-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20210228/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/325/20220103/fr/xml/fedlex-data-admin-ch-eli-cc-2016-325-20220103-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20220103/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20210228/fr"
 
 (O-Ukraine)
 
-du 25 mai 2016 (Etat le 28 février 2021)
+du 25 mai 2016 (Etat le 3 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -68,7 +68,7 @@ Si la mise en œuvre du blocage nécessite des mesures telles qu’une mention c
 [^4-2]: Introduit par le ch. I de l’O du 20 déc. 2017, en vigueur depuis le 28 fév. 2018 ([RO 2018 563](https://fedlex.data.admin.ch/eli/oc/2018/74)).
 [^4-3]: Introduit par le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 28 fév. 2019 ([RO 2019 13](https://fedlex.data.admin.ch/eli/oc/2019/3)).
 [^4-4]: Introduit par le ch. I de l’O du 13 déc. 2019, en vigueur depuis le 28 fév. 2020 ([RO 2020 3](https://fedlex.data.admin.ch/eli/oc/2020/2)).
-[^4-5]: Introduit par le ch. I de l’O du 11 déc. 2020, en vigueur depuis le 28 fév. 2021 (RO **2021** 19).
+[^4-5]: Introduit par le ch. I de l’O du 11 déc. 2020, en vigueur depuis le 28 fév. 2021 ([RO 2021 19](https://fedlex.data.admin.ch/eli/oc/2021/19)).
 
 Annexe*[^t-1]*
 
@@ -76,7 +76,7 @@ Annexe*[^t-1]*
 
 ## Personnes politiquement exposées à l’étranger et proches dont les valeurs patrimoniales font l’objet d’un blocage en vertu de l’art. 1
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFAE du 27 juil. 2016 ([RO 2016 2929](https://fedlex.data.admin.ch/eli/oc/2016/485)), l’erratum du 22 nov. 2016 ([RO 2016 4141](https://fedlex.data.admin.ch/eli/oc/2016/683)), le ch. I des O du DFAE du 21 déc. 2017 ([RO 2017 603](https://fedlex.data.admin.ch/eli/oc/2017/102)), du 16 janv. 2018 ([RO 2018 565](https://fedlex.data.admin.ch/eli/oc/2018/75)), du 12 fév. 2019 ([RO 2019 623](https://fedlex.data.admin.ch/eli/oc/2019/110)), du 20 sept. 2019 ([RO 2019 2955](https://fedlex.data.admin.ch/eli/oc/2019/539)), du 3 mars 2020 ([RO 2020 709](https://fedlex.data.admin.ch/eli/oc/2020/129)) et du 27 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5909](https://fedlex.data.admin.ch/eli/oc/2020/992)).
+[^t-1]: Mise à jour par le ch. I de l’O du DFAE du 27 juil. 2016 ([RO 2016 2929](https://fedlex.data.admin.ch/eli/oc/2016/485)), l’erratum du 22 nov. 2016 ([RO 2016 4141](https://fedlex.data.admin.ch/eli/oc/2016/683)), le ch. I des O du DFAE du 21 déc. 2017 ([RO 2017 603](https://fedlex.data.admin.ch/eli/oc/2017/102)), du 16 janv. 2018 ([RO 2018 565](https://fedlex.data.admin.ch/eli/oc/2018/75)), du 12 fév. 2019 ([RO 2019 623](https://fedlex.data.admin.ch/eli/oc/2019/110)), du 20 sept. 2019 ([RO 2019 2955](https://fedlex.data.admin.ch/eli/oc/2019/539)), du 3 mars 2020 ([RO 2020 709](https://fedlex.data.admin.ch/eli/oc/2020/129)) et du 27 nov. 2020 ([RO 2020 5909](https://fedlex.data.admin.ch/eli/oc/2020/992)) et du 8 déc. 2021, en vigueur depuis le 3 janv. 2022 ([RO 2021 854](https://fedlex.data.admin.ch/eli/oc/2021/854)).
 
 *Mykola (Nikolai) Yanovych AZAROV (né Nikolai Yanovich Pakhlo),* né le 17 décembre 1947, Premier Ministre jusqu’en janvier 2014
 
@@ -97,5 +97,3 @@ Annexe*[^t-1]*
 *Serhiy Vitaliyovych KURCHENKO*, né le 21 septembre 1985, homme d’affaires
 
 *Viktor Ivanovych RATUSHINIAK*, né le 16 octobre 1959, ancien vice-ministre de l’intérieur
-
-*Dmytro Volodymyrovych TABACHNYK*, né le 28 novembre 1963, ancien ministre de l’éducation et des sciences
