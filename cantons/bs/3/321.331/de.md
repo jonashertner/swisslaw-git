@@ -4,13 +4,13 @@ number: "321.331"
 title: Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-Verordnung zusätzliche Massnahmen
 language: de
-version: 2021-12-22
-valid_until: 2022-01-02
-version_adopted: 2021-12-21
+version: 2022-01-03
+valid_until: 2022-02-08
+version_adopted: 2022-01-25
 adopted: 2021-11-22
 in_force: 2021-11-24
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/321.331"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5397/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5432/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5397/pdf_file"
 
 (Covid-19-Verordnung zusätzliche Massnahmen)
 
-Vom 22. November 2021 (Stand 22. Dezember 2021)
+Vom 22. November 2021 (Stand 3. Januar 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -44,20 +44,27 @@ beschliesst:
 
 #### § 2
 
-**Maskenpflicht in Schulen und Tagesstrukturen**
+**Schulen, Kindertagesstätten und Spielgruppen**
 
-<sup>1</sup> In den Innenräumen von Schulen der Primar- und Sekundarstufe sowie von Tagesstrukturangeboten gilt für alle Personen eine Maskenpflicht.
+<sup>1</sup> In den Innenräumen von Schulen der Primar- und Sekundarstufe sowie von Tagesstrukturangeboten, Kindertagesstätten und Spielgruppen gilt für alle Personen eine Maskenpflicht.
 
 <sup>2</sup> Keine Maskenpflicht gilt:
 
-- a) für Schülerinnen und Schüler der Primarstufe bis und mit 4. Primarschulklasse, ausser sie besuchen eine Mehrjahrgangsklasse mit Schülerinnen und Schülern der 5. bzw. 6. Primarschulklasse;
+- a) für Kinder bis und mit Kindergartenstufe;
 - b) …
 - c) für Personen, die nachweisen, dass sie aus besonderen Gründen, insbesondere aus medizinischen, keine Gesichtsmaske tragen können, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind;
 - d) in Unterrichts-, Betreuungs- und Therapiesituationen, in denen das Tragen einer Gesichtsmaske den Unterricht, die Betreuung oder die Therapie wesentlich erschwert, wenn
   - 1\. der Mindestabstand gegenüber den Schülerinnen und Schülern oder anderen Erwachsenen eingehalten wird oder
-  - 2\. der Schutz durch andere Schutzmassnahmen gewährleistet wird.
+  - 2\. der Schutz durch andere Schutzmassnahmen gewährleistet wird;
+- e) für Betreuungspersonen in Kindertagesstätten und Spielgruppen in der direkten Betreuung von Säuglingen bis 18 Monaten oder in begründeten Einzelfällen.
 
 <sup>3</sup> Der Nachweis nach Abs. 2 lit. c wird gegenüber der Schulleitung oder einer von dieser bezeichneten Stelle erbracht.
+
+<sup>4</sup> Alle Schülerinnen und Schüler sowie die Lehr- und Fachpersonen der Primarstufe und der Sekundarstufe I müssen am wöchentlichen repetitiven Testen (Pooltests) und im Falle eines positiven Poolergebnisses an den individuellen Nachtests (Depooling) teilnehmen.
+
+<sup>5</sup> Ausgenommen von den Tests gemäss Abs. 4 sind Personen, die in den letzten 6 Monaten positiv auf eine Sars-Cov-2 Infektion getestet worden sind oder aus medizinischen Gründen an einer Teilnahme verhindert sind.
+
+<sup>6</sup> Bei Verweigerung der Teilnahme am individuellen Nachtest (Depooling) wird durch das zuständige Departement eine Quarantäne angeordnet.
 
 #### § 2a
 
@@ -112,6 +119,8 @@ beschliesst:
 
 *Schlussbestimmung*
 
-Diese Verordnung ist zu publizieren; sie tritt am 24. November 2021 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung zusätzliche Massnahmen) vom 3. November 2020 aufgehoben. §§ 2 - 4 gelten befristet bis zum 31. Januar 2022.
+Diese Verordnung ist zu publizieren; sie tritt am 24. November 2021 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung zusätzliche Massnahmen) vom 3. November 2020 aufgehoben. §§ 2 - 4 gelten befristet bis zum 31. Januar 2022[^footer-1].
 
 KB 24.11.2021
+
+[^footer-1]: Die Befristung der §§ 2 - 4 wird neu bis 26. Februar 2022 festgelegt. (RRB vom 25.01.2022, KB 26.01.2022)
