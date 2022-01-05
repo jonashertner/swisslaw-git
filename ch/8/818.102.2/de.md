@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-12-22
+version: 2022-01-06
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211222/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211222-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211222/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220106/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220106-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220106/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211222/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 22. Dezember 2021)
+vom 4. Juni 2021 (Stand am 6. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -718,7 +718,7 @@ Anhang 2*[^t-2]*
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. I der V des EDI vom 15. Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)) und Anhang Ziff. 3 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. I der V des EDI vom 15. Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), Anhang Ziff. 3 der V vom 17. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)) und Ziff. I der V des EDI vom 5. Jan. 2022, in Kraft seit 6. Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -760,7 +760,8 @@ Anhang 2*[^t-2]*
   - c. AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca;
   - d. Sars-CoV-2 Vaccine von Sinopharm Beijing Institute of Biological Products (BIBP) Co., Ltd.;
   - e. Coronavac (Impfung von Sinovac Life Sciences Co., Ltd);
-  - f. Bharat Biotech Covid-19 Vaccine / Covaxin.
+  - f. Bharat Biotech Covid-19 Vaccine / Covaxin;
+  - g. Nuvaxovid / NXV-CoV2373 / Novavax.
 
 - 3\.3
 
@@ -793,6 +794,13 @@ Anhang 2*[^t-2]*
     - – Covishield / ChAdOx1\_nCoV-19
     - – Covid-19 vaccine recombinant (Impfung des Fundação Instituto Oswaldo Cruz [FIOCRUZ])
     - – R-Covi (Impfung von R-Pharma)
+
+  - b.
+
+    Lizenzprodukte von Nuvaxovid / NXV-CoV2373 / Novavax:
+
+    - – NXV-CoV2373 / Covovax
+    - [tab]
 
 [^annex2-lvlu1-lvl3-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
@@ -874,7 +882,7 @@ Anhang 5*[^t-5]*
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-5]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) und vom 21. Dez. 2021, in Kraft seit 22. Dez. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)).
+[^t-5]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), vom 21. Dez. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) und vom 5. Jan. 2022, in Kraft seit 6. Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -907,12 +915,15 @@ Anhang 5*[^t-5]*
   - – Marokko
   - – Moldova
   - – Monaco
+  - – Montenegro
   - – Nordmazedonien
   - – Panama
   - – San Marino
   - – Serbien
+  - – Thailand
   - – Türkei
   - – Ukraine
+  - – Uruguay
   - – Vereinigtes Königreich
 
 - 2\.2
@@ -929,5 +940,6 @@ Anhang 5*[^t-5]*
   Anerkannt sind die Impfzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von einem der folgenden Länder ausgestellt wurden:
 
   - – Libanon
+  - – Tunesien
 
 - 2\.4 Impfzertifikate sind nur anerkannt, wenn sie für Impfungen mit einem Impfstoff ausgestellt wurden, der die Anforderungen nach Ziffer 1.2 erfüllt.

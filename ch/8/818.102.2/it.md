@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-12-22
+version: 2022-01-06
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211222/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211222-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211222/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220106/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220106-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220106/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211222/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 22 dicembre 2021) (Stato 22 dicembre 2021)
+del 4 giugno 2021 (Stato 6 gennaio 2022) (Stato 6 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -722,7 +722,7 @@ Allegato 2*[^t-2]*
 
 ## Disposizioni particolari sui certificati di vaccinazione COVID-19
 
-[^t-2]: Aggiornato dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. I dell’O del DFI del 15 nov. 2021 ([RU 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)) e dall’all. n. 3 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-2]: Aggiornato dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. I dell’O del DFI del 15 nov. 2021 ([RU 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), dall’all. n. 3 dell’O del 17 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)) e dal n. I dell’O del DFI del 5 gen. 2022, in vigore dal 6 gen. 2022 ([RU 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -764,7 +764,8 @@ Allegato 2*[^t-2]*
   - c. AZD1222/Vaxzevria / Covid-19 Vaccine AstraZeneca;
   - d. SARS-CoV-2 Vaccine della Sinopharm Beijing Institute of Biological Products (BIBP) Co., Ltd.;
   - e. Coronavac (vaccino della Sinovac Life Sciences Co., Ltd);
-  - f. Bharat Biotech Covid-19 Vaccine / Covaxin.
+  - f. Bharat Biotech Covid-19 Vaccine / Covaxin;
+  - g. Nuvaxovid / NXV-CoV2373 / Novavax.
 
 - 3\.3
 
@@ -799,7 +800,13 @@ Allegato 2*[^t-2]*
 
     - – Covishield / ChAdOx1\_nCoV-19
     - – Covid-19 vaccine recombinant (vaccinazione della Fundação Instituto Oswaldo Cruz [FIOCRUZ])
-    - – R-Covi (vaccinazione di R-Pharma).
+    - – R-Covi (vaccinazione di R-Pharma);
+
+  - b.
+
+    prodotti su licenza di Nuvaxovid / NXV-CoV2373 / Novavax:
+
+    - – NXV-CoV2373 / Covovax
 
 [^annex2-lvlu1-lvl3-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
@@ -882,7 +889,7 @@ Allegato 5*[^t-5]*
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-5]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dai n. I delle O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) e del 21 dic. 2021, in vigore dal 22 dic. 2021 ([RU 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)).
+[^t-5]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dai n. I delle O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), del 21 dic. 2021 ([RU 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) e del 5 gen. 2022, in vigore dal 6 gen. 2022 ([RU 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
@@ -915,13 +922,16 @@ Allegato 5*[^t-5]*
   - – Marocco
   - – Moldova
   - – Monaco
+  - – Montenegro
   - – Panama
   - – Regno Unito
   - – San Marino
   - – Santa Sede (Città del Vaticano)
   - – Serbia
+  - – Thailandia
   - – Turchia
   - – Ucraina
+  - – Uruguay
 
 - 2\.2
 
@@ -937,5 +947,6 @@ Allegato 5*[^t-5]*
   Sono riconosciuti i certificati di vaccinazione che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi in uno dei seguenti Paesi:
 
   - – Libano
+  - – Tunisia
 
 - 2\.4 I certificati di vaccinazione sono riconosciuti soltanto se sono stati emessi per le vaccinazioni con un vaccino che soddisfa i requisiti di cui al numero 1.2.

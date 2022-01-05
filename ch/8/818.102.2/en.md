@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-12-22
+version: 2022-01-06
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20211222/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20211222-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20211222/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220106/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220106-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220106/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 22 December 2021)
+of 4 June 2021 (Status as of 6 January 2022)
 
 The Swiss Federal Council,
 
@@ -719,7 +719,7 @@ Annex 2*[^t-2]*
 
 ## Special provisions concerning COVID-19 vaccination certificates
 
-[^t-2]: Revised by No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No I of the FDHA O of 15 Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)) and Annex No 3 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-2]: Revised by No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No I of the FDHA O of 15 Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), Annex No 3 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)) and No I of the FDHA O of 5 Jan. 2022, in force since 6 Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
 
 ### 1 Start of validity and maximum duration
 
@@ -762,6 +762,7 @@ Annex 2*[^t-2]*
   - d. Sars-CoV-2 vaccine from the Sinopharm Beijing Institute of Biological Products (BIBP) Co., Ltd.;
   - e. Coronavac (vaccine from Sinovac Life Sciences Co., Ltd);
   - f. Bharat Biotech COVID-19 vaccine / Covaxin.
+  - g. Nuvaxovid / NXV-CoV2373 / Novavax.
 
 - 3\.3
 
@@ -797,6 +798,12 @@ Annex 2*[^t-2]*
     - – Covishield / ChAdOx1\_nCoV-19
     - – COVID-19 vaccine recombinant (vaccine from the Fundação Instituto Oswaldo Cruz [FIOCRUZ])
     - – R-Covi (vaccine from R-Pharma)
+
+  - b.
+
+    Licensed products of Nuvaxovid / NXV-CoV2373 / Novavax:
+
+    - – NXV-CoV2373 / Covovax
 
 [^annex2-lvlu1-lvl3-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
@@ -877,7 +884,7 @@ Annex 5*[^t-5]*
 
 ## List of recognised foreign certificates
 
-[^t-5]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), No I of the FDHA O of 22 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) and of 21 Dec. 2021, in force since 22 Dec. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)).
+[^t-5]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), No I of the FDHA O of 22 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), of 21 Dec. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) and of 5 Jan. 2022, in force since 6 Jan. 2022 ([AS 2021 2](https://fedlex.data.admin.ch/eli/oc/2021/2)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -908,13 +915,16 @@ Annex 5*[^t-5]*
 - – Morocco
 - – Moldova
 - – Monaco
+- – Montenegro
 - – North Macedonia
 - – Panama
 - – San Marino
 - – Serbia
+- – Thailand
 - – Turkey
 - – Ukraine
 - – United Kingdom
+- – Uruguay
 
 - 2\.2
 
@@ -930,5 +940,6 @@ Annex 5*[^t-5]*
   Vaccination certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following countries are recognised:
 
   - – Lebanon
+  - – Tunisia
 
 - 2\.4 Vaccination certificates are only recognised if they have been issued for vaccinations with a vaccine that meets the requirements of number 1.2.
