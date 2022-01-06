@@ -5,12 +5,12 @@ title: Gebührentarif für das Messwesen
 short: Tarifordnung
 language: de
 version: 2010-05-01
-corrected: 2013-05-15
+corrected: 2022-01-07
 version_adopted: 2010-04-27
 adopted: 1993-03-16
 in_force: 1993-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/935.310"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/696/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/1805/pdf_file"
 text: pdf
 ---
 

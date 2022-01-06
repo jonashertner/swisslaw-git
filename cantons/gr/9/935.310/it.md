@@ -5,12 +5,12 @@ title: Tariffario delle tasse per la metrologia
 short: Regolamento tariffario
 language: it
 version: 2010-05-01
-corrected: 2013-05-15
+corrected: 2022-01-07
 version_adopted: 2010-04-27
 adopted: 1993-03-16
 in_force: 1993-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/935.310"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/696/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/1805/pdf_file"
 text: pdf
 ---
 
