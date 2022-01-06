@@ -2,586 +2,478 @@
 canton: GR
 number: "917.400"
 title: Ausführungsbestimmungen zur Verordnung über den Rebbau und die Einfuhr von Wein
-short: Weinverordnung
+short: kantonale Weinverordnung
 language: de
-version: 2011-08-01
-corrected: 2014-10-09
-version_adopted: 2011-07-05
+version: 2019-07-01
+corrected: 2022-01-07
+version_adopted: 2019-06-18
 adopted: 2018-02-27
 in_force: 2018-03-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/917.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1794/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2946/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsbestimmungen zur Verordnung über den Rebbau und die Einfuhr von Wein (Weinverordnung)
+# Ausführungsbestimmungen zur Verordnung über den Rebbau und die Einfuhr von Wein
 
-Gestützt auf Artikel 36 des kantonalen Landwirtschaftsgesetzes[^t-1] und Artikel 23 der kantonalen Landwirtschaftsverordnung[^t-2]
+(kantonale Weinverordnung)
 
-von der Regierung erlassen am 1. Juli 2002
+Vom 27.02.2018 (Stand 01.07.2019)
 
-I. Allgemeine Bestimmungen
+Gestützt auf Art. 36 des kantonalen Landwirtschaftsgesetzes[^ingress-1] und Art. 23 der kantonalen Landwirtschaftsverordnung[^ingress-2]
 
-[^t-1]: BR 910.000
-[^t-2]: BR 910.050
-[^t-3]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+von der Regierung erlassen am 27. Februar 2018
+
+[^ingress-1]: BR [910.000](https://www.gr-lex.gr.ch/data/910.000/de)
+[^ingress-2]: BR [910.050](https://www.gr-lex.gr.ch/data/910.050/de)
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Geltungsbereich**[^t-3]
+**Gegenstand**
 
-Diese Ausführungsbestimmungen regeln den Vollzug der eidgenössischen Weinverordnung[^1-1] im Kanton Graubünden.
+<sup>1</sup> Diese Ausführungsbestimmungen regeln den Vollzug der eidgenössischen Weinverordnung[^1-1] im Kanton Graubünden.
 
-[^1-1]: SR 916.140
-[^1-2]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+[^1-1]: SR [916.140](https://db.clex.ch/link/Bund/916.140/de)
 
 #### Art. 2
 
-**Zuständige Behörden**[^1-2]
+**Weinbauregionen**
 
-Der Vollzug obliegt dem Departement für Volkswirtschaft und Soziales (Departement), soweit er nicht der Fachstelle Weinbau (Fachstelle) oder dem Amt für Lebensmittelsicherheit und Tiergesundheit übertragen wird.
+<sup>1</sup> Der Kanton Graubünden wird in folgende Weinbauregionen unterteilt:
+
+- a) Bündner Rheintal mit den Gemeinden Fläsch, Maienfeld, Jenins, Malans, Landquart, Zizers, Trimmis, Chur, Felsberg, Domat/Ems, Bonaduz;
+- b) Misox mit den Gemeinden Lostallo, Cama, Castaneda, Grono, Roveredo, San Vittore;
+- c) Puschlav mit der Gemeinde Brusio.
 
 #### Art. 3
 
-**Branchenorganisation**
+**Zuständige Behörden**
 
-Gestützt auf die eidgenössische und kantonale Gesetzgebung werden insbesondere folgende Aufgaben an die Branchenorganisation (Bündner Weinbauverein) übertragen:
-
-- a) Festlegen der zulässigen Höchstmengen;
-
-- b) Unterstützung beim Vollzug von Massnahmen;
-
-- c) ...[^3-1]
-
-- d) ...[^3-2]
-
-[^3-1]: Aufgehoben gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-[^3-2]: Aufgehoben gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-[^3-3]: Einfügung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten 1.01.2012 1
-
-#### Art. 3a
-
-**Weinbauregionen**[^3-3]
-
-Der Kanton Graubünden wird in folgende Weinbauregionen aufgeteilt:
-
-- a) Bündner Rheintal mit den Gemeinden Fläsch, Maienfeld, Jenins, Malans, Igis, Zizers, Trimmis, Chur, Felsberg, Domat/Ems, Bonaduz;
-
-- b) Misox mit den Gemeinden Lostallo, Cama, Verdabbio, Leggia, Castaneda, Grono, Roveredo, San Vittore;
-
-- c) Puschlav mit der Gemeinde Brusio.
-
-### II. Rebpflanzungen
-
-- 1\. NEUPFLANZUNGEN
+<sup>1</sup> Der Vollzug obliegt dem Plantahof (Fachstelle Weinbau), soweit er nicht dem Amt für Lebensmittelsicherheit und Tiergesundheit oder anderen Stellen übertragen ist.
 
 #### Art. 4
 
-**Bewilligungspflicht**
+**Branchenverband**
 
-Neupflanzungen gemäss Artikel 2 Absätze 1 und 2 Weinverordnung bedürfen einer Bewilligung.
+<sup>1</sup> Der Branchenverband graubündenWEIN (Branchenverband) unterstützt die zuständigen Behörden beim Vollzug von Massnahmen, zum Beispiel mit der Übernahme von Kontrollaufgaben. Er kann zudem Ertragsschätzungen und Auflagen für die Weinlese veranlassen oder Sanktionen gegen Produzentinnen und Produzenten sowie Verarbeiterinnen und Verarbeiter vorschlagen.
+
+<sup>2</sup> Der Branchenverband legt für das Bündner Rheintal und das Puschlav die Höchsterträge pro Flächeneinheit und Sorte für Weine mit kontrollierter Ursprungsbezeichnung fest. Er sorgt dafür, dass der Beschluss jeweils spätestens am 30. April im Kantonsamtsblatt veröffentlicht wird.
+
+## 2. Rebpflanzungen
+
+### 2.1. Neupflanzungen
 
 #### Art. 5
 
-**Gesuche**
+**Bewilligungspflicht**
 
-<sup>1</sup> Gesuche für Neupflanzungen sind mindestens ein Jahr vor der Pflanzung auf dem amtlichen Formular unter Beilage eines Grundbuchplanes bei der Fachstelle einzureichen.
+<sup>1</sup> Neupflanzungen bedürfen einer Bewilligung der Fachstelle Weinbau. Sie wird aufgrund der Eignung des Standorts für den Weinbau erteilt und kann mit Auflagen und Bedingungen versehen werden.
 
-<sup>2</sup> ...[^5-1]
+<sup>2</sup> Die Gesuchstellerin oder der Gesuchsteller trägt die Kosten für allfällige Gutachten, die zur Prüfung der Bewilligungsvoraussetzungen eingeholt werden müssen.
 
-[^5-1]: Aufgehoben gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+<sup>3</sup> Gesuche für die Bewilligung von Neupflanzungen sind mindestens ein Jahr vor der Pflanzung auf dem amtlichen Formular unter Beilage eines Grundbuchplans bei der Fachstelle Weinbau einzureichen.
 
 #### Art. 6
 
-**Katasterkommissionen 2)**
+**Katasterkommissionen**
 
-<sup>1</sup>[^6-1]Das Departement ernennt nach Anhören der Berufsorganisationen für die Weinbauregionen die Katasterkommissionen.
+<sup>1</sup> Die Katasterkommissionen prüfen die weinbauliche Eignung der Standorte und unterbreiten der Fachstelle Weinbau einen begründeten Antrag.
 
-<sup>2</sup>[^6-2]Die Kommissionen bestehen aus höchstens fünf Weinbauern der Region. Die Fachstelle und ein Vertreter des Amtes für Natur und Umwelt gehören den Kommissionen mit beratender Funktion an.
+<sup>2</sup> Die Kommissionen bestehen aus höchstens fünf Weinbäuerinnen oder Weinbauern der Region. Sie sind beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Die Fachstelle Weinbau und eine Vertreterin oder ein Vertreter des Amts für Natur und Umwelt gehören den Kommissionen mit beratender Funktion an.
 
-<sup>3</sup> Die Kommissionen beurteilen die weinbauliche Eignung der Standorte gemäss Artikel 2 Absatz 2 Weinverordnung.
-
-<sup>4</sup> Sie unterbreiten der Fachstelle einen begründeten Antrag.
-
-[^6-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
-[^6-2]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten 2 1.01.2012
+<sup>3</sup> Das Departement ernennt nach Anhören der Berufsorganisationen die Katasterkommissionen für die Weinbauregionen.
 
 #### Art. 7
 
-**Bewilligung**
+**Eignung des Standorts**
 
-<sup>1</sup> Die Fachstelle entscheidet über die Erteilung der Bewilligung.
+<sup>1</sup> Im Bündner Rheintal sind insbesondere folgende Kriterien und Grenzwerte zu berücksichtigen:
 
-<sup>2</sup> Die Bewilligung kann mit Auflagen verbunden werden.
+- a) Höhe über Meer: maximal 600 m;
+- b) Höhe über der Talsohle: in der Regel mindestens 10 m;
+- c) Hangneigung der Fläche vor der allfälligen Pflanzung: mindestens 6 Prozent;
+- d) Hangrichtung: zwischen 90 und 270 Grad;
+- e) durchschnittliche Sonneneinstrahlung im August und September: mindestens 174 Watt/m²;
+- f) Lokalklima: kein Schattenwurf durch Hecken oder Gehölze, geringes Frostrisiko, keine grosse Einschränkung der Sonneneinstrahlung durch den Horizont, usw.;
+- g) Bodenbeschaffenheit und Wasserhaushalt: keine Hang- und Staunässe.
+
+<sup>2</sup> Der Mindestwert für die Sonneneinstrahlung kann unterschritten werden, sofern:
+
+- a) das Lokalklima besonders günstig ist; und
+- b) die zu beurteilende Fläche an eine im Rebbaukataster liegende Fläche angrenzt.
+
+### 2.2. Rebbaukataster
 
 #### Art. 8
 
-**Pflanzungen für Eigengebrauch**
+**Inhalt**
 
-<sup>1</sup>[^8-1]Neupflanzungen, die nicht der Weinerzeugung dienen, sowie einmalige Neupflanzungen auf einer Fläche ab 100 m<sup>2</sup> bis höchstens 400 m<sup>2</sup>, deren Produkte ausschliesslich dem privaten Eigengebrauch der bewirtschaftenden Person dienen, sind mindestens 1 Jahr vor der Pflanzung auf amtlichem Formular der Fachstelle zu melden.
+<sup>1</sup> Im Rebbaukataster werden neben den Daten, welche gemäss der eidgenössischen Weinverordnung zu erheben sind, zusätzlich folgende Angaben erfasst:
 
-<sup>2</sup> Es ist untersagt, einen Rebberg von mehr als 400 m<sup>2</sup> zu erstellen und diesen nachträglich in Parzellen von höchstens 400 m<sup>2</sup> aufzuteilen.
-
-<sup>3</sup> Ebenso ist es untersagt, eine unbestockte zusammenhängende Fläche von mehr als 400 m<sup>2</sup> in Parzellen von höchstens 400 m<sup>2</sup> aufzuteilen und sie anschliessend zu bepflanzen.
-
-<sup>4</sup>[^8-2]Der Abstand zwischen zwei Pflanzungen ausserhalb des Rebbaukatasters muss mindestens 10 m betragen. Derselbe Minimalabstand ist auch von der Rebbauzone einzuhalten.
-
-- 2\. ÄNDERUNGEN VON REBFLÄCHEN[^8-3]
-
-[^8-1]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-[^8-2]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-[^8-3]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+- a) Reblage;
+- b) Pflanzjahr.
 
 #### Art. 9
 
-**Meldepflicht**
+**Prüf- und Meldepflicht**
 
-<sup>1</sup>[^9-1]Rodungen und Erneuerungen gemäss Artikel 3 Weinverordnung sind jeweils bis spätestens 31. Mai der Fachstelle zu melden.
+<sup>1</sup> Jede bewirtschaftende Person ist verpflichtet, Änderungen bezüglich der Rebflächen (Bewirtschafterwechsel, Rodungen, Erneuerungen und Neupflanzungen) jährlich der Fachstelle Weinbau nach deren Vorgaben zu melden.
 
-<sup>2</sup> Diese Pflicht besteht auch für die Erneuerung von Rebflächen von höchstens 400 m<sup>2</sup>, deren Produkte ausschliesslich dem privaten Eigengebrauch der bewirtschaftenden Person dienen.
+<sup>2</sup> …
 
-<sup>3</sup>[^9-2]Erfolgt die Meldung nicht fristgerecht, wird eine Bearbeitungsgebühr bis 100 Franken erhoben.
-
-- 3\. REBBAUKATASTER
-
-[^9-1]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-[^9-2]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-[^9-3]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten 1.01.2012 3
+<sup>3</sup> Erfolgt die Meldung nicht fristgerecht, wird eine Kanzleigebühr von 100 Franken erhoben.
 
 #### Art. 10
 
-**Führung**[^9-3]
+**Anrechenbare Fläche**
 
-Die Fachstelle führt den Rebbaukataster.
+<sup>1</sup> In der Regel gilt die Grundstücksfläche als anrechenbare Rebfläche. Beträgt die für die Bewirtschaftung notwendige Fläche (Wendefläche, Vorhaupt) mehr als 10 Prozent der effektiv bestockten Rebfläche, so wird der darüber hinausgehende Teil nicht angerechnet.
+
+<sup>2</sup> Ist nur eine Teilfläche einer Parzelle mit Reben bestockt, werden Flächen, welche ausschliesslich oder überwiegend der Bewirtschaftung der Reben dienen, zur Rebfläche hinzugerechnet. Die Summe dieser Flächen darf 10 Prozent der bestockten Fläche nicht übersteigen.
+
+<sup>3</sup> Nicht ausschliesslich oder überwiegend zur Bewirtschaftung der Reben dienen namentlich Gebäude, befestigte Wege und Zufahrten, Gärten, Hecken, Steinhaufen und -wälle, Ruderalflächen und Rüfeborde.
+
+### 2.3. Pflanzungen für den Eigengebrauch
 
 #### Art. 11
 
-**Nicht erfasste Flächen**
+**Neupflanzungen**
 
-Parzellen, die nach Artikel 2 Absatz 4 Weinverordnung bepflanzt wurden, werden im Rebbaukataster nicht erfasst.
+<sup>1</sup> Neupflanzungen, die nicht der Weinerzeugung dienen, sowie einmalige Neupflanzungen auf einer Fläche ab 100 m² bis höchstens 400 m², deren Produkte ausschliesslich dem Eigengebrauch der bewirtschaftenden Person dienen, sind mindestens ein Jahr vor der Pflanzung auf dem amtlichen Formular der Fachstelle Weinbau zu melden.
 
-- 4\. WIDERRECHTLICH GEPFLANZTE REBEN
+<sup>2</sup> Es ist untersagt, einen Rebberg von mehr als 400 m² zu erstellen und diesen nachträglich in Parzellen von höchstens 400 m² aufzuteilen.
+
+<sup>3</sup> Ebenso ist es untersagt, eine unbestockte zusammenhängende Fläche von mehr als 400 m² in Parzellen von höchstens 400 m² aufzuteilen und sie anschliessend zu bepflanzen.
+
+<sup>4</sup> Der Abstand zwischen zwei Pflanzungen ausserhalb des Rebbaukatasters muss mindestens 10 m betragen. Derselbe Minimalabstand ist gegenüber Flächen, die im Rebbaukataster liegen, einzuhalten.
 
 #### Art. 12
 
-**Beseitigung**
+**Rebbaukataster**
 
-Das Departement verfügt die Beseitigung widerrechtlich gepflanzter Reben und ordnet allenfalls deren Rodung auf Kosten der fehlbaren Person an.
-
-- 5\. REBSORTEN
-
-[^12-1]: Aufgehoben gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+<sup>1</sup> Flächen mit Pflanzungen für den Eigengebrauch werden im Rebbaukataster nicht erfasst.
 
 #### Art. 13
 
-[^12-1]
+**Meldepflicht**
 
-### III. Weinlesekontrolle
+<sup>1</sup> Rodungen, Erneuerungen und Neupflanzungen sind jährlich der Fachstelle Weinbau nach deren Vorgaben zu melden.
 
-[^hIIIWeinlesekontrol-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
+<sup>2</sup> Erfolgt die Meldung nicht fristgerecht, wird eine Kanzleigebühr von 100 Franken erhoben.
+
+### 2.4. Beseitigung von Reben
 
 #### Art. 14
 
-**Zuständige Behörde**[^hIIIWeinlesekontrol-1]
+**Beseitigung**
 
-Die Fachstelle organisiert die Weinlesekontrolle. Sie reicht dem Bundesamt den Weinlesebericht ein.
+<sup>1</sup> Die Fachstelle Weinbau ordnet die Beseitigung widerrechtlich gepflanzter Reben an.
+
+<sup>2</sup> Der Plantahof (Fachstelle Pflanzenschutz) kann aus Gründen des Pflanzenschutzes die Rodung nicht mehr genutzter und gepflegter Reben verfügen.
+
+<sup>3</sup> Die Kosten einer Rodung trägt die Bewirtschafterin oder der Bewirtschafter beziehungsweise die Grundeigentümerin oder der Grundeigentümer.
+
+## 3. Traubenpass und Kontrollen
 
 #### Art. 15
 
-**Weinlese-Kontrollattest**
+**Traubenpass und Traubenkontingent**
 
-<sup>1</sup> Für jeden Traubenposten wird ein Weinlese-Kontrollattest ausgestellt.
+<sup>1</sup> Jede bewirtschaftende Person erhält jährlich einen Traubenpass mit den Höchsterträgen pro Traubensorte, Gemeinde und Kategorie (Traubenkontingent).
 
-<sup>2</sup> Der Zuckergehalt und das Traubengewicht werden unmittelbar nach der Ernte der Trauben bestimmt. Dies gilt auch für spezielle Kelterungsverfahren wie das Herstellen von Strohwein.
+<sup>2</sup> Der Handel mit Traubenkontingenten ist untersagt.
 
-<sup>3</sup>[^15-1]Jeder Traubenposten muss gewogen werden. Gewicht und Zuckergehalt werden am gleichen Ort bestimmt.
-
-<sup>4</sup> Das Traubengewicht ist grundsätzlich mit einem gedruckten Waagschein zu belegen.
-
-<sup>5</sup>[^15-2]Die Atteste sind während fünf Jahren aufzubewahren.
-
-[^15-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
-[^15-2]: Einfügung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
-[^15-3]: Fassung der Absätze 1 und 2 sowie Aufhebung der Absätze 3 – 5 gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten 4 1.01.2012
+<sup>3</sup> Junganlagen im ersten Standjahr werden im Traubenpass nicht berücksichtigt. Junganlagen im zweiten Standjahr wird generell ein Kontingent von 200 Gramm pro m² angerechnet.
 
 #### Art. 16
 
-**Ausnahmen**[^15-3]
+**Weinlese-Kontrollattest**
 
-<sup>1</sup> Das Traubengewicht kann mit Bewilligung der Fachstelle ohne gedruckten Waagschein ermittelt werden, wenn der Betrieb noch über eine Waage verfügt, mit der sich keine Waagscheine drucken lassen.
+<sup>1</sup> Der Zuckergehalt und das Traubengewicht müssen unmittelbar nach der Ernte der Trauben bestimmt werden. Dies gilt auch für spezielle Kelterungsverfahren wie das Herstellen von Strohwein.
 
-<sup>2</sup> In diesen Fällen sind die Traubengewichte aufzulisten und mit Unterschrift zu bestätigen.
+<sup>2</sup> Traubengewicht und Zuckergehalt werden am gleichen Ort bestimmt.
 
-<sup>3</sup> ...
-
-<sup>4</sup> ...
-
-<sup>5</sup> ...
-
-[^16-1]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-
-### IV. Kontrollierte Ursprungsbezeichnung
-
-[^16-1]
-
-[^hIVKontrollierteUr-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
+<sup>3</sup> Die Kelterbetriebe haben die Atteste oder die entsprechenden Weinlesedaten während fünf Jahren aufzubewahren.
 
 #### Art. 17
 
-**Kontrollierte Ursprungsbezeichnung**[^hIVKontrollierteUr-1]
+**Nachweis des Traubengewichts**
 
-Weine aus dem Kanton Graubünden dürfen ausschliesslich eine der folgenden kontrollierten Ursprungsbezeichnungen tragen:
+<sup>1</sup> Das Traubengewicht ist mit einem gedruckten Waagschein zu belegen. Dieser ist während fünf Jahren aufzubewahren.
 
-- a) AOC Graubünden;
+<sup>2</sup> Mit Bewilligung der Fachstelle Weinbau kann auf den Waagschein verzichtet werden, wenn der Betrieb noch über eine Waage verfügt, mit der sich keine Waagscheine drucken lassen.
 
-- b) Appellation d'Origine Contrôlée Graubünden;
+<sup>3</sup> In diesen Fällen sind die Traubengewichte aufzulisten und mit Unterschrift zu bestätigen. Die Liste ist während fünf Jahren aufzubewahren.
 
-- c) DOC Grigioni;
-
-- d) Denominazione di origine controllata Grigioni;
-
-- e) KUB Graubünden;
-
-- f) Kontrollierte Ursprungsbezeichnung Graubünden.
-
-[^17-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
+<sup>4</sup> …
 
 #### Art. 18
 
-**Zusatzbezeichnungen**[^17-1]
+**Toleranzmenge**
 
-<sup>1</sup> Zusatzbezeichnungen können in Ergänzung zur kontrollierten Ursprungsbezeichnung aufgeführt werden. Sie bezeichnen geographisch abgegrenzte Gebiete wie Gemeinden oder Reblagen. Sie sind auf der Etikette von der kontrollierten Ursprungsbezeichnung deutlich abgesetzt anzubringen.
+<sup>1</sup> Der tolerierte Überertrag für Weine mit kontrollierter Ursprungsbezeichnung beträgt 5 Prozent (Toleranzbereich).
 
-<sup>2</sup> Gemeindenamen können als Zusatzbezeichnung verwendet werden, wenn vorbehältlich des Verschnitts mindestens 60 Prozent des Weins aus der betreffenden Gemeinde stammt.
+<sup>2</sup> Die in den Toleranzbereich fallende Menge wird deklassiert.
 
-<sup>3</sup> Lagebezeichnungen dürfen als Zusatzbezeichnung verwendet werden, wenn vorbehältlich des Verschnitts 100 Prozent des Weins aus dem Traubengut der bezeichneten Lage stammt.
-
-[^18-1]: Fassung von Absatz 1 sowie Einfügung der Absätze 2 und 3 gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten 1.01.2012 5
+## 4. Kontrollierte Ursprungsbezeichnung
 
 #### Art. 19
 
-**Verzeichnisse**[^18-1]
+**Meldepflicht**
 
-<sup>1</sup> Die Fachstelle führt folgende Verzeichnisse:
+<sup>1</sup> Wein erzeugende Betriebe, welche die kontrollierte Ursprungsbezeichnung verwenden wollen, haben sich bei der Fachstelle Weinbau anzumelden. Die Anmeldung hat bis spätestens 31. März desjenigen Jahres zu erfolgen, in dem erstmals Wein mit einer Ursprungsbezeichnung hergestellt werden soll.
 
-- a) Verzeichnis der zugelassenen Rebsorten: In dieser Liste sind die im Kanton zur gewerblichen Weinerzeugung angebauten Rebsorten aufgeführt. Die Rebsortenliste wird auf der Basis des kantonalen Rebbaukatasters aktualisiert;
+<sup>2</sup> Wein erzeugende Betriebe, welche die kontrollierte Ursprungsbezeichnung nicht mehr verwenden wollen, haben sich bei der Fachstelle Weinbau ebenfalls bis spätestens 31. März abzumelden.
 
-- b) Verzeichnis der zugelassenen Anbaumethoden: Die Rebflächen müssen nach der guten fachlichen Praxis bewirtschaftet werden;
-
-- c) Verzeichnis der zugelassenen Methoden der Weinbereitung: Zur Bereitung von Weinen zugelassen sind die Methoden der guten önologischen Praxis;
-
-- d)[^19-1]Verzeichnis der traditionellen schweizerischen Bezeichnungen von Wein, soweit sie vom Kanton zu regeln sind;
-
-- e)[^19-2]Verzeichnis der Zusatzbezeichnungen.
-
-<sup>2</sup> Das Gesuch um Aufnahme einer Rebsorte, Methode oder Bezeichnung in das betreffende Verzeichnis ist an die Fachstelle zu richten.
-
-<sup>3</sup> Die Rebsorte, Methode oder Bezeichnung darf erst verwendet werden, wenn sie in das Verzeichnis aufgenommen worden ist.
-
-[^19-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
-[^19-2]: Einfügung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
-[^19-3]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-
-#### Art. 19a
-
-**Höchstertrag und Mindestzuckergehalt**[^19-3]
-
-<sup>1</sup> Die Traubenposten dürfen die nach Artikel 22 festgelegten maximalen Erträge pro Flächeneinheit für AOC-Weine nicht überschreiten.
-
-<sup>2</sup>[^19a-1]Der natürliche Mindestzuckergehalt beträgt für a) Blauburgunder 19,4 Brix (80 °Oe);
-
-- b) übrige Rebsorten 17,2 Brix (70 °Oe).
-
-[^19a-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
-[^19a-2]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-
-#### Art. 19b
-
-**Meldepflicht**[^19a-2]
-
-<sup>1</sup> Wein erzeugende Betriebe, welche die kontrollierte Ursprungsbezeichnung verwenden wollen, haben sich bei der Fachstelle anzumelden. Die Anmeldung hat bis 31. März desjenigen Jahres zu erfolgen, in dem erstmals Wein mit einer Ursprungsbezeichnung hergestellt werden soll.
-
-<sup>2</sup> Wein erzeugende Betriebe, welche die kontrollierte Ursprungsbezeichnung nicht mehr verwenden wollen, haben sich bei der Fachstelle ebenfalls bis spätestens 31. März abzumelden.
-
-[^19b-1]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-
-#### Art. 19c
-
-**Analyse und sensorische Prüfung 1. Gegenstand**[^19b-1]
-
-<sup>1</sup> Weine, die eine kontrollierte Ursprungsbezeichnung beanspruchen, werden stichprobenweise einer Analyse und sensorischen Prüfung unterzogen. Analyse und Prüfung erfolgen am verkaufsfertigen Wein und gelten für das betreffende Los.
-
-<sup>2</sup>[^19c-1]Die Analyse umfasst mindestens den Alkoholgehalt sowie die gesamte und die freie schweflige Säure.
-
-<sup>3</sup>[^19c-2]Die sensorische Prüfung erfolgt nach den Vorgaben der Organisation Internationale de la Vigne et du Vin (OIV)[^19c-3]. Sie ist bestanden, wenn mindestens 60 von 100 Punkten erreicht werden.
-
-[^19c-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten 6 1.01.2012
-[^19c-2]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
-[^19c-3]: Norm der OIV für internationale Wettbewerbe für Wein und Spirituosen weinbaulichen Ursprungs 2009.
-[^19c-4]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-
-#### Art. 19d
-
-**2. Proben**[^19c-4]
-
-<sup>1</sup> Die Produzenten sind verpflichtet, ihre Weine (Muster) kostenlos zur Verfügung zu stellen.
-
-<sup>2</sup> Die Fachstelle erhebt die Stichproben und bestimmt, wie viele Muster abzugeben sind.
-
-[^19d-1]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-
-#### Art. 19e
-
-**3. Kosten**[^19d-1]
-
-Der Produzent trägt die Kosten der Analyse und sensorischen Prüfung.
-
-[^19e-1]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-
-#### Art. 19f
-
-**Ausschluss**[^19e-1]
-
-Wird die Meldepflicht nach Artikel 19b Absatz 1 nicht beachtet, darf keine kontrollierte Ursprungsbezeichnung verwendet werden.
-
-[^19f-1]: Einfügung gemäss RB vom 26. Mai 2009; am 1. Juni 2009 in Kraft getreten
-
-#### Art. 19g
-
-**Weinspezifische Begriffe**[^19f-1]
-
-<sup>1</sup> Zur Bezeichnung der Weine dürfen unter Einhaltung der bundesrechtlichen sowie der nachstehenden Vorgaben folgende Begriffe verwendet werden:
-
-- a) Auslese;
-
-- b) Spätlese;
-
-- c) Beerenauslese;
-
-- d) Schloss.
-
-<sup>2</sup> Als Auslese darf ein Wein mit kontrollierter Ursprungsbezeichnung bezeichnet werden, der aus Trauben überdurchschnittlicher Qualität besteht oder einem speziellen Kelterungsverfahren unterzogen wurde. Die Qualitätskriterien und ihre Einhaltung beziehungsweise das Kelterungsverfahren sind zu dokumentieren.
-
-<sup>3</sup>[^19g-1]Der Begriff Spätlese darf verwendet werden, wenn die Trauben frühestens sieben Tage nach dem für die Sorte üblichen Erntetermin gelesen werden und der natürliche Zuckergehalt mindestens 0.77 Brix (3ºOe) über dem Jahresdurchschnitt (Kantonsmittel) liegt.
-
-<sup>4</sup> Der Begriff Beerenauslese darf verwendet werden, wenn der Mindestzuckergehalt den bundesrechtlichen Minimalvorgaben entspricht.
-
-<sup>5</sup> Der Begriff Schloss darf verwendet werden, wenn der Inhaber eines Weinbaubetriebes im Kanton Graubünden eine Liegenschaft mit einem repräsentativen Gebäude besitzt, das historisch als Schloss bezeichnet wird, sowie eigene oder gepachtete Reben in einem Produktionsgebiet bewirtschaftet.
-
-[^19g-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten 1.01.2012 7
-
-### V. Mengenbegrenzung
+<sup>3</sup> Wird die Meldepflicht nach Absatz 1 nicht beachtet, darf keine kontrollierte Ursprungsbezeichnung verwendet werden.
 
 #### Art. 20
 
-**Rebbergregister und Meldepflicht**
+**Kontrollierte Ursprungsbezeichnung**
 
-<sup>1</sup> Die Fachstelle führt das Rebbergregister mit folgenden Angaben:
+<sup>1</sup> Weine aus dem Kanton Graubünden (inklusive Schaum-, Perl- und Likörweine) dürfen eine der folgenden kontrollierten Ursprungsbezeichnungen tragen:
 
-- a) Rebgemeinde und Reblage;
+- a) AOC Graubünden oder Graubünden AOC;
+- b) Appellation d'Origine Contrôlée Graubünden;
+- c) DOC Grigioni oder Grigioni DOC;
+- d) Denominazione di origine controllata Grigioni;
+- e) KUB Graubünden oder Graubünden KUB;
+- f) Kontrollierte Ursprungsbezeichnung Graubünden.
 
-- b) Parzellennummer;
-
-- c) Rebfläche;
-
-- d) Rebsorte;
-
-- e) Pflanzjahr;
-
-- f) bewirtschaftende Person.
-
-<sup>2</sup> Die Fachstelle stellt jährlich jeder bewirtschaftenden Person einen Registerauszug zu. Diese ist verpflichtet, Rodungen, Erneuerungen und Neupflanzungen bis spätestens 31. Mai zu melden.
-
-[^20-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
+<sup>2</sup> Die Klassenbezeichnung KUB (Kontrollierte Ursprungsbezeichnung), DOC (Denominazione di origine controllata) oder AOC (Appellation d'Origine Contrôlée) muss auf der Etikette in unmittelbarer Nähe zur geografischen Herkunftsbezeichnung Graubünden oder Grigioni stehen (z.B. KUB Graubünden).
 
 #### Art. 21
 
-**Anrechenbare Fläche**[^20-1]
+**Zusatzbezeichnungen**
 
-<sup>1</sup> In der Regel gilt die Grundstücksfläche als anrechenbare Fläche. Beträgt die für die Bewirtschaftung notwendige Fläche (Wendefläche, Vorhaupt) mehr als 10 Prozent der effektiv bestockten Rebfläche, so wird der darüber hinausgehende Teil nicht angerechnet.
+<sup>1</sup> Gemeindenamen dürfen als Zusatzbezeichnung verwendet werden, wenn vorbehältlich des Verschnitts mindestens 60 Prozent des Weins aus der betreffenden Gemeinde stammen.
 
-<sup>2</sup> Ist nur eine Teilfläche einer Parzelle mit Reben bestockt, werden Flächen, welche ausschliesslich oder überwiegend zur Bewirtschaftung der Reben dienen, zur Rebfläche hinzugerechnet. Der so errechnete Zuschlag darf 10 Prozent der bestockten Fläche nicht übersteigen.
+<sup>2</sup> Die Reblage darf als Zusatzbezeichnung verwendet werden, wenn vorbehältlich des Verschnitts 100 Prozent des Weins aus dem Traubengut der bezeichneten Lage stammen.
 
-<sup>3</sup> Nicht ausschliesslich oder überwiegend zur Bewirtschaftung der Reben dienen namentlich Gebäude, befestigte Wege und Zufahrten, Gärten, Hecken, Steinhaufen und -wälle, Ruderalflächen, Rüfeborde.
+<sup>3</sup> Zusatzbezeichnungen sind auf der Etikette von der kontrollierten Ursprungsbezeichnung deutlich abgesetzt anzubringen.
 
 #### Art. 22
 
-**Höchstmengen**
+**Mindestzuckergehalt und Anreicherung**
 
-<sup>1</sup>[^22-1]Die Branchenorganisation legt für das Bündner Rheintal und das Puschlav die maximal zulässigen Erträge pro m<sup>2</sup> und Sorte fest. Sie sorgt dafür, dass der Beschluss im Kantonsamtsblatt bis Ende April veröffentlicht wird.
+<sup>1</sup> Der natürliche Mindestzuckergehalt beträgt für:
 
-<sup>2</sup> ...[^22-2]
+- a) Blauburgunder 19,4 °Brix (80 °Oe); Ausnahme: 17,2 °Brix (70 °Oe) für die Produktion von Schaumweinen;
+- b) die übrigen Rebsorten 17,2 °Brix (70 °Oe).
 
-[^22-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten 8 1.01.2012
-[^22-2]: Aufgehoben gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+<sup>2</sup> Weine dürfen um maximal 2,5 Volumenprozent auf maximal 15 Volumenprozent Gesamtalkoholgehalt angereichert werden.
+
+<sup>3</sup> Die Süssung von Wein ist unter den Bedingungen des eidgenössischen Rechts zulässig.
 
 #### Art. 23
 
-**Traubenpass und –kontingent**
+**Weinspezifische Begriffe**
 
-<sup>1</sup> Jede bewirtschaftende Person erhält jährlich den Traubenpass mit den zulässigen Erträgen pro Traubensorte, Kategorie und Gemeinde (Traubenkontingent).
+<sup>1</sup> Zur Bezeichnung der Weine dürfen folgende Begriffe nur unter Einhaltung der bundesrechtlichen sowie der nachstehenden Vorgaben verwendet werden:
 
-<sup>2</sup> Junganlagen im ersten Standjahr werden im Traubenpass nicht berücksichtigt. Junganlagen im zweiten Standjahr wird generell ein Kontingent von 200 Gramm pro m<sup>2</sup> angerechnet.
+- a) Auslese;
+- b) Spätlese;
+- c) Beerenauslese;
+- d) Schloss;
+- e) Reserve/Réserve/Riserva/Reserva;
+- f) Vin doux naturel;
+- g) Œil-de-Perdrix;
+- h) Village;
+- i) Clos.
 
-<sup>3</sup>[^23-1]Traubensaft, Sauser, Hauswein und allfällige andere Produkte aus gärfähigen Trauben sind im Kontingent enthalten.
+<sup>2</sup> Als Auslese darf ein Wein mit kontrollierter Ursprungsbezeichnung bezeichnet werden, der aus Trauben überdurchschnittlicher Qualität besteht oder einem speziellen Kelterungsverfahren unterzogen wurde. Die Qualitätskriterien und ihre Einhaltung beziehungsweise das Kelterungsverfahren sind zu dokumentieren.
 
-<sup>4</sup> Der Kontingentshandel ist verboten.
+<sup>3</sup> Der Begriff Spätlese darf verwendet werden, wenn die Trauben frühestens sieben Tage nach dem für die Sorte üblichen Erntetermin gelesen werden und der natürliche Zuckergehalt mindestens 0,77 °Brix (3 °Oe) über dem Jahresdurchschnitt der Weinbauregion liegt.
 
-[^23-1]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+<sup>4</sup> Der Begriff Beerenauslese darf verwendet werden, wenn der Wein aus Trauben mit Edelfäulebefall und einem Zuckergehalt von mindestens 26 °Brix (110,2 °Oe) erzeugt wird. Jede Anreicherung beziehungsweise Konzentration ist verboten.
+
+<sup>5</sup> Der Begriff Schloss darf verwendet werden, wenn der Inhaber eines Weinbaubetriebes im Kanton Graubünden eine Liegenschaft mit einem repräsentativen Gebäude besitzt, das historisch als Schloss bezeichnet wird, sowie eigene oder gepachtete Reben in einem Produktionsgebiet bewirtschaftet.
+
+<sup>6</sup> Der Begriff Reserve, Réserve, Riserva oder Reserva darf für Weine mit kontrollierter Ursprungsbezeichnung verwendet werden, wenn sie nach einem Reifungsprozess von mindestens 18 Monaten ab dem 1. Oktober des Erntejahres für Rotweine beziehungsweise von 12 Monaten ab dem 1. Oktober des Erntejahres für Weissweine auf den Markt gelangen.
+
+<sup>7</sup> Der Begriff Vin doux naturel darf verwendet werden, wenn der Höchstertrag eingehalten wird und der Zuckergehalt der Trauben so bemessen ist, dass ein natürlicher Alkoholgehalt von mindestens 12 Volumenprozent resultiert.
+
+<sup>8</sup> Der Begriff Village darf verwendet werden, wenn vorbehältlich des Verschnitts mindestens 70 Prozent der Trauben aus der betreffenden Gemeinde stammen.
+
+<sup>9</sup> Der Begriff Clos bezeichnet einen umfriedeten Weinberg.
 
 #### Art. 24
 
-**Branchenorganisation**
+**Roséwein**
 
-<sup>1</sup>[^24-1]Die Branchenorganisation unterstützt die zuständigen Behörden beim Vollzug von Massnahmen, indem sie u.a. Kontrollaufgaben übernimmt. Sie kann beispielsweise Ertragsschätzungen und Auflagen für die Weinlese veranlassen oder Sanktionen gegen Produzenten und Verarbeiter vorschlagen.
+<sup>1</sup> Roséwein muss mindestens zu 90 Prozent aus Rotweintrauben hergestellt werden und darf höchstens 10 Prozent Wein aus Weissweintrauben enthalten.
 
-<sup>2</sup> ...[^24-2]
-
-[^24-1]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-[^24-2]: Aufgehoben gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+<sup>2</sup> Œil-de-Perdrix ist ein Roséwein mit kontrollierter Ursprungsbezeichnung, hergestellt aus Trauben der Sorte Blauburgunder. Er darf ausschliesslich mit bis zu 10 Prozent Grau- oder Weissburgunder verschnitten werden.
 
 #### Art. 25
 
-**Toleranzmenge**
+**Verzeichnisse**
 
-Die Toleranzmenge beträgt 5 Prozent.
+<sup>1</sup> Die Fachstelle Weinbau führt folgende Verzeichnisse:
 
-[^25-1]: Fassung von Absatz 1 sowie Aufhebung der Absätze 2 und 3 gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+- a) Verzeichnis der zugelassenen Rebsorten: in dieser Liste sind die im Kanton zur gewerblichen Weinerzeugung angebauten Rebsorten aufgeführt. Die Rebsortenliste wird auf der Basis des Rebbaukatasters aktualisiert;
+- b) Verzeichnis der zugelassenen Anbaumethoden: die Rebflächen müssen nach der guten fachlichen Praxis bewirtschaftet werden;
+- c) Verzeichnis der zugelassenen Methoden der Weinbereitung: zur Bereitung von Weinen zugelassen sind die Methoden der guten önologischen Praxis;
+- d) Verzeichnis der traditionellen schweizerischen Bezeichnungen von Wein, soweit sie vom Kanton zu regeln sind;
+- e) Verzeichnis der Zusatzbezeichnungen.
+
+<sup>2</sup> Die Rebsorte, Methode oder Bezeichnung darf erst verwendet werden, wenn sie in das Verzeichnis aufgenommen worden ist. Für die Aufnahme bedarf es eines Gesuchs an die Fachstelle Weinbau.
 
 #### Art. 26
 
-**Deklassierung**[^25-1]
+**Analyse und sensorische Prüfung 1. Gegenstand**
 
-<sup>1</sup> Die in den Toleranzbereich fallende Menge muss deklassiert werden.
+<sup>1</sup> Weine, die eine kontrollierte Ursprungsbezeichnung beanspruchen, werden stichprobenweise einer Analyse und einer sensorischen Prüfung unterzogen. Die Analyse und die Prüfung erfolgen am verkaufsfertigen Wein und gelten für das betreffende Los.
 
-<sup>2</sup> ...
+<sup>2</sup> Die Analyse umfasst mindestens den Alkoholgehalt sowie die gesamte und die freie schweflige Säure. Für Weine mit kontrollierter Ursprungsbezeichnung, die nach einem speziellen Verfahren hergestellt werden, gelten folgende Höchstwerte an flüchtiger Säure:
 
-<sup>3</sup> ...
+- a) Süssweine — 1,8 g/l (30 meq)
+- b) Eisweine — 2,1 g/l (35 meq)
 
-### VI. Buch- und Kellerkontrolle
+<sup>3</sup> Die sensorische Prüfung erfolgt nach den Vorgaben der Organisation Internationale de la Vigne et du Vin (OIV)[^26-1]. Sie ist bestanden, wenn mindestens 60 von 100 Punkten erreicht werden.
+
+[^26-1]: Norm der OIV für internationale Wettbewerbe für Wein und Spirituosen weinbaulichen Ursprungs 2009.
 
 #### Art. 27
 
-**Buch- und Kellerkontrolle**
+**2. Proben und Kosten**
 
-<sup>1</sup>[^27-1]Der Schweizer Weinhandelskontrolle sind unterstellt:
+<sup>1</sup> Die Produzentinnen und Produzenten sind verpflichtet, ihre Weine (Muster) kostenlos zur Verfügung zu stellen.
 
-- a) wer mit Wein handelt;
+<sup>2</sup> Die Fachstelle Weinbau erhebt die Stichproben und bestimmt, wie viele Muster abzugeben sind.
 
-- b) Produzenten, die ihre eigenen Produkte verarbeiten und verkaufen und jährlich mehr als 20 hl aus dem gleichen Produktionsgebiet zukaufen.
+<sup>3</sup> Die Produzentin oder der Produzent trägt die Kosten der Analyse und der sensorischen Prüfung.
 
-<sup>2</sup>[^27-2]Für die übrigen Kelterungsbetriebe wird eine gleichwertige kantonale Kontrolle durch das Amt für Lebensmittelsicherheit und Tiergesundheit durchgeführt..
-
-[^27-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten 1.01.2012 9
-[^27-2]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-[^27-3]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-
-### VII. Misox
-
-[^27-3]
-
-[^hVIIMisox273-1]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+## 5. Misox
 
 #### Art. 28
 
-**Geltungsbereich der Verordnung**[^hVIIMisox273-1]
+**Anwendbares Recht**
 
-Die Bestimmungen der Kapitel I bis VI finden Anwendung, sofern nachfolgend keine abweichenden Bestimmungen angeführt werden.
+<sup>1</sup> Für die Weinbauregion Misox gelten die Bestimmungen dieses Kapitels.
 
-[^28-1]: Fassung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+<sup>2</sup> Die Bestimmungen der Kapitel 1 bis 4 sind subsidiär anwendbar.
 
 #### Art. 29
 
-**Anrechenbare Fläche**[^28-1]
+**Übertragung von Aufgaben**
 
-In Abweichung von Artikel 21 gilt für Parzellen mit grossen Pflanzdistanzen ein maximaler Standraum von 3 m<sup>2</sup> beziehungsweise 4 m<sup>2</sup> für Pergolareben.
+<sup>1</sup> Für das Misox können der Fachstelle des Kantons Tessin folgende Aufgaben übertragen werden:
 
-[^29-1]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+- a) Nachführung des Rebbaukatasters;
+- b) Ausstellen der Traubenpässe;
+- c) Organisation der Weinlesekontrolle;
+- d) Überprüfung der Erntedeklaration;
+- e) Deklassierung von Traubenposten;
+- f) Meldung der Erntestatistik und der Rebflächen an das Bundesamt für Landwirtschaft.
+
+<sup>2</sup> Zudem können der Interprofessione della vite e del vino ticinese (IVVT) diejenigen Aufgaben übertragen werden, die vom Tessiner Recht der IVVT im Bereich der kontrollierten Ursprungsbezeichnung DOC Ticino übertragen werden.
 
 #### Art. 30
 
-**Weinlesekontrolle und Erntedeklaration**[^29-1]
+**Rebbaukataster und Rebflächen**
 
-<sup>1</sup> Für die Weinlesekontrolle gelten die Bestimmungen des Kantons Tessin.
+<sup>1</sup> Die Nachführung des Rebbaukatasters richtet sich nach Tessiner Recht.
 
-<sup>2</sup> Die Verwerter im Misox müssen die Erntedeklaration bis spätestens 31 Oktober der Fachstelle Weinbau des Kantons Tessin einreichen. Ansonsten werden ihre Weine von der kontrollierten Ursprungsbezeichnung ausgeschlossen.
+<sup>2</sup> Artikel 7 findet keine Anwendung.
 
-[^30-1]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+<sup>3</sup> Rodungen oder Erneuerungen von Rebflächen im Sinne von Artikel 9 und Artikel 13 sind der Fachstelle des Kantons Tessin zu melden.
+
+<sup>4</sup> Die Fachstelle des Kantons Tessin kann Erhebungen bezüglich der Rebfläche durchführen.
 
 #### Art. 31
 
-**Kontrollierte Ursprungsbezeichnung 1. Anwendbares Recht**[^30-1]
+**Anrechenbare Fläche**
 
-<sup>1</sup>[^31-1]Auf das Weinbaugebiet gemäss Artikel 3a Absatz 1 Litera b sind die jeweils geltenden Bestimmungen des Kantons Tessin betreffend Mindestzuckergehalt und Höchsterträge je Flächeneinheit anwendbar.
-
-<sup>2</sup> Bezüglich Meldepflicht, Analyse, sensorische Prüfung, Probenerhebung und Kosten sind die Artikel 19b - 19e anwendbar.
-
-[^31-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten 10 1.01.2012
-[^31-2]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
+<sup>1</sup> Für Parzellen mit grossen Pflanzdistanzen gilt bei Pergolareben die Fläche auch bei einem maximalen Standraum von 4 m² als zusammenhängend bepflanzt.
 
 #### Art. 32
 
-**2. Kantonsübergreifende kontrollierte Ursprungsbezeichnung**[^31-2]
+**Traubenpass, Weinlesekontrolle und Erntedeklaration**
 
-Für Trauben aus Rebbergen, die durch die Gemeindegrenzen San Vittore GR / Lumino TI getrennt werden, kann eine kontrollierte Ursprungsbezeichnung nach Artikel 17 verwendet werden.
-
-[^32-1]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+<sup>1</sup> Für die Ausstellung der Traubenpässe, die Weinlesekontrolle und die Erntedeklaration sowie die diesbezügliche Erhebung von Gebühren gelten die Bestimmungen des Kantons Tessin.
 
 #### Art. 33
 
-**Zuständigkeiten**[^32-1]
+**Kontrollierte Ursprungsbezeichnung 1. Anwendbares Recht**
 
-<sup>1</sup> Soweit aufgrund der vorstehenden Bestimmungen das Recht des Kantons Tessin anwendbar ist, obliegt der Vollzug der Fachstelle des Kantons Tessin.
-
-<sup>2</sup> Meldungen betreffend Rodungen oder Erneuerungen von Rebflächen im Sinne von Artikel 9 sind an die Fachstelle des Kantons Tessin zu richten.
-
-<sup>3</sup> Die Fachstelle des Kantons Tessin kann Erhebungen bezüglich der Rebfläche durchführen.
-
-<sup>4</sup> Die Fachstelle des Kantons Tessin kann die Weinlesekontrolle organisieren und stellt den Traubenpass aus.
-
-[^33-1]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
-
-### VIII. Verwaltungsrechtspflege
-
-[^33-1]
-
-[^hVIIIVerwaltungsrec-1]: Einfügung gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+<sup>1</sup> Betreffend Mindestzuckergehalt, Höchsterträge je Flächeneinheit, Rebsorten, Anbaumethoden und Methoden der Weinbereitung sind die Bestimmungen des Kantons Tessin anwendbar.
 
 #### Art. 34
 
-[^hVIIIVerwaltungsrec-1]
+**2. Verwendung der kontrollierten Ursprungsbezeichnung "DOC Ticino"**
 
-Verfügungen in Bereichen, in denen auch die Fachstelle des Kantons Tessin zuständig ist, können mittels Einsprache innerhalb von 30 Tagen beim Landwirtschaftlichen Bildungs- und Beratungszentrum Plantahof angefochten werden.
+<sup>1</sup> Weine aus dem Misox dürfen die kontrollierte Ursprungsbezeichnung "DOC Ticino" nach Tessiner Recht verwenden, wenn:
 
-[^34-1]: Neue Numerierung gemäss gemäss RB vom 11. Februar 2008; am 1. März 2008 in Kraft getreten
+- a) die Trauben im Misox oder im Kanton Tessin produziert wurden; und
+- b) die Trauben gemäss Litera a im Kanton Tessin oder im Misox gekeltert wurden.
 
-### IX. Schlussbestimmungen
+<sup>2</sup> Die Verwendung zusätzlicher Ortsbezeichnungen aus dem Misox neben der kontrollierten Ursprungsbezeichnung ist untersagt.
 
-[^34-1]
+<sup>3</sup> Das Herstellen und Inverkehrbringen von Weinen mit der Bezeichnung "DOC Ticino" sowie die Durchführung der diesbezüglichen Kontrollen richten sich nach den Bestimmungen des Tessiner Rechts über die Produktion von Weinen mit kontrollierter Ursprungsbezeichnung.
 
-[^hIXSchlussbestimmun-1]: Einfügung gemäss RB vom 11. Februar 2008;.
+<sup>4</sup> Die Gebühren und Abgaben bei der Verwendung der Bezeichnung "DOC Ticino" sind nach Tessiner Recht[^34-1] der IVVT zu entrichten.
+
+[^34-1]: Vgl. Art. 48 Regolamento sulla viticoltura des Kantons Tessin (RS 8.2.1.1.1)
 
 #### Art. 35
 
-**Übergangsbestimmungen**[^hIXSchlussbestimmun-1]
+**3. Regionale kontrollierte Ursprungsbezeichnungen**
 
-<sup>1</sup> Wein erzeugende Betriebe, welche die kontrollierte Ursprungsbezeichnung nach dieser Verordnung verwenden wollen, haben sich bei der Fachstelle bis 31. März 2008 anzumelden.
+<sup>1</sup> Weine aus dem Misox dürfen folgende Bezeichnungen tragen:
 
-<sup>2</sup>[^35-1]Die mit der Teilrevision vom 1. August 2011 geänderten Bestimmungen gelten erstmals für den Jahrgang 2011. Weine der Jahrgänge 2011 und 2012 dürfen bis zur Erschöpfung der Etikettenbestände nach bisherigem Recht gekennzeichnet und angepriesen werden.
+- a) AOC Graubünden Misox oder Graubünden Misox AOC;
+- b) AOC Misox Graubünden oder Misox Graubünden AOC;
+- c) DOC Grigioni Mesolcina oder Grigioni Mesolcina DOC;
+- d) DOC Mesolcina Grigioni oder Mesolcina Grigioni DOC.
 
-[^35-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten 1.01.2012 11
-[^35-2]: Neue Numerierung (ehemals Art. 29) als Folge der Einfügung verschiedener neuer Artikel; am 1. März 2008 in Kraft getreten
+<sup>2</sup> Die Klassenbezeichnung DOC (Denominazione di origine controllata) oder AOC (Appellation d'Origine Contrôlée) muss auf der Etikette in unmittelbarer Nähe zur geografischen Herkunftsbezeichnung Graubünden und Misox oder Grigioni und Mesolcina stehen (z.B. DOC Mesolcina Grigioni).
+
+<sup>3</sup> Die Verwendung einer Bezeichnung nach Artikel 21 ist ausgeschlossen.
+
+<sup>4</sup> Die regionale kontrollierte Ursprungsbezeichnung des Misox darf nicht mit einer kontrollierten Ursprungsbezeichnung des Kantons Tessin kombiniert werden.
+
+<sup>5</sup> Produzentinnen und Produzenten, welche eine kontrollierte Ursprungsbezeichnung nach dem Recht des Kantons Graubünden verwenden wollen, haben sich vor Aufnahme der Produktion bis spätestens 31. März beim Amt für Lebensmittelsicherheit und Tiergesundheit zu melden.
 
 #### Art. 36
 
-**In-Kraft-Treten, Aufhebung bisherigen Rechts**[^35-2]
+**4. Ursprungsbezeichnung im Grenzgebiet**
 
-Diese Ausführungsbestimmungen treten am 1. Juli 2002 in Kraft und ersetzen diejenigen vom 24. August 1999[^36-1].
+<sup>1</sup> Für Trauben aus Rebbergen, die durch die Gemeindegrenzen San Vittore GR / Lumino TI getrennt werden, darf eine kontrollierte Ursprungsbezeichnung nach Artikel 35 verwendet werden.
 
-[^36-1]: AGS 1999, 4523 12 1.01.2012
+#### Art. 37
 
-## Weitere Fussnoten
+**Nostrano**
 
-- [2] Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
+<sup>1</sup> Für die Produktion von Landweinen mit der eigenen traditionellen Bezeichnung "Nostrano" sind die Bestimmungen des Kantons Tessin anwendbar.
+
+#### Art. 38
+
+**Weinhandelskontrolle**
+
+<sup>1</sup> Die Weinhandelskontrolle der Produzentinnen und Produzenten und der Kelterungsbetriebe richtet sich nach Tessiner Recht.
+
+#### Art. 39
+
+**Rechtspflege und Mitteilungen**
+
+<sup>1</sup> Gegen Verfügungen der zuständigen Behörden des Kantons Tessin kann innerhalb von 30 Tagen Einsprache bei der Fachstelle Weinbau erhoben werden.
+
+<sup>2</sup> Entscheide der Bündner Behörden betreffend das Misox werden auch der Fachstelle des Kantons Tessin sowie, sofern sie kontrollierte Ursprungsbezeichnungen des Kantons Tessin betreffen, der IVVT mitgeteilt.
+
+## 6. Schlussbestimmungen
+
+#### Art. 40
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Für Weine, die vor dem Inkrafttreten dieser Verordnung hergestellt wurden, bleiben die Bestimmungen, welche im Zeitpunkt ihrer Herstellung in Kraft waren, anwendbar.
+
+<sup>2</sup> Produzentinnen und Produzenten sowie Kelterungsbetriebe, die nicht zwingend durch die eidgenössische Kontrollstelle kontrolliert werden müssen, können sich längstens bis 31. Dezember 2018 einer gleichwertigen kantonalen Kontrolle durch das Amt für Lebensmittelsicherheit und Tiergesundheit unterstellen.
+
+<sup>3</sup> Artikel 22 Absatz 2 und Absatz 3 gilt erstmals für Weine des Jahrgangs 2018.
+
+2018-004

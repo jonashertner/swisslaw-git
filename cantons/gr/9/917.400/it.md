@@ -2,586 +2,478 @@
 canton: GR
 number: "917.400"
 title: "Disposizioni esecutive dell'ordinanza concernente la viticoltura e l'importazione di vino"
-short: Ordinanza sul vino
+short: Ordinanza cantonale sul vino
 language: it
-version: 2011-08-01
-corrected: 2014-10-09
-version_adopted: 2011-07-05
+version: 2019-07-01
+corrected: 2022-01-07
+version_adopted: 2019-06-18
 adopted: 2018-02-27
 in_force: 2018-03-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/917.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1794/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2946/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Disposizioni esecutive dell'ordinanza concernente la viticoltura e l'importazione di vino (Ordinanza sul vino)
+# Disposizioni esecutive dell'ordinanza concernente la viticoltura e l'importazione di vino
 
-emanate dal Governo il 1° luglio 2002
+(Ordinanza cantonale sul vino)
 
-in base all'articolo 36 della legge cantonale sull'agricoltura[^t-1] e all'articolo 23 dell'ordinanza cantonale sull'agricoltura[^t-2]
+del 27.02.2018 (stato 01.07.2019)
 
-I. Disposizioni generali
+emanata dal Governo il 27 febbraio 2018
 
-[^t-1]: CSC 910.000
-[^t-2]: CSC 910.050
-[^t-3]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
+visti l'art. 36 della legge cantonale sull'agricoltura[^ingress-1] e l'art. 23 dell'ordinanza cantonale sull'agricoltura[^ingress-2]
+
+[^ingress-1]: CSC [910.000](https://www.gr-lex.gr.ch/data/910.000/it)
+[^ingress-2]: CSC [910.050](https://www.gr-lex.gr.ch/data/910.050/it)
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
-**Campo di applicazione**[^t-3]
+**Oggetto**
 
-Le presenti disposizioni esecutive disciplinano l'esecuzione dell'ordinanza federale sul vino[^1-1] nel Cantone dei Grigioni.
+<sup>1</sup> Le presenti disposizioni esecutive disciplinano l'esecuzione dell'ordinanza federale sul vino[^1-1] nel Cantone dei Grigioni.
 
-[^1-1]: RS 916.140
-[^1-2]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
+[^1-1]: RS [916.140](https://db.clex.ch/link/Bund/916.140/it)
 
 #### Art. 2
 
-**Autorità competenti**[^1-2]
+**Regioni viticole**
 
-L'esecuzione compete al Dipartimento dell'economia pubblica e socialità (Dipartimento), nella misura in cui non sia conferita al Servizio specializzato di viticoltura (Servizio specializzato) o all'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali.
+<sup>1</sup> Il Cantone dei Grigioni viene suddiviso nelle regioni viticole seguenti:
+
+- a) Valle grigione del Reno con i Comuni di Fläsch, Maienfeld, Jenins, Malans, Landquart, Zizers, Trimmis, Coira, Felsberg, Domat/Ems, Bonaduz;
+- b) Mesolcina con i Comuni di Lostallo, Cama, Castaneda, Grono, Roveredo, San Vittore;
+- c) Valposchiavo con il Comune di Brusio.
 
 #### Art. 3
 
-**Organizzazione di categoria**
+**Autorità competenti**
 
-In base alla legislazione federale e cantonale vengono delegati all'organizzazione di categoria (Associazione grigionese dei viticoltori) in particolare i seguenti compiti:
-
-- a) determinazione dei quantitativi massimi ammessi;
-
-- b) sostegno nell'esecuzione di misure;
-
-- c) ...[^3-1]
-
-- d) ...[^3-2]
-
-[^3-1]: Abrogazione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
-[^3-2]: Abrogazione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
-[^3-3]: Introduzione giusta DG del 5 luglio 2011; entrata in vigore il 1° agosto 2011 1.7.2011 1
-
-#### Art. 3a
-
-**Regioni viticole**[^3-3]
-
-Il Cantone dei Grigioni viene suddiviso nelle regioni viticole seguenti:
-
-- a) Valle grigione del Reno con i Comuni di Fläsch, Maienfeld, Jenins, Malans, Igis, Zizers, Trimmis, Coira, Felsberg, Domat/Ems, Bonaduz;
-
-- b) Moesano con i Comuni di Lostallo, Cama, Verdabbio, Leggia, Castaneda, Grono, Roveredo, San Vittore;
-
-- c) Valposchiavo con il Comune di Brusio.
-
-### II. Impianti viticoli
-
-- 1\. NUOVI IMPIANTI
+<sup>1</sup> L'esecuzione compete al Plantahof (Servizio specializzato per la viticoltura), nella misura in cui non sia conferita all'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali o ad altri servizi.
 
 #### Art. 4
 
-**Obbligo di autorizzazione**
+**Associazione di categoria**
 
-I nuovi impianti ai sensi dell'articolo 2 capoversi 1 e 2 dell'ordinanza sul vino necessitano di un'autorizzazione.
+<sup>1</sup> L'associazione di categoria graubündenWEIN (associazione di categoria) sostiene le autorità competenti nell'esecuzione di misure, ad esempio assumendosi compiti di controllo. Essa può inoltre disporre stime dei quantitativi e condizioni per la vendemmia oppure proporre sanzioni contro i produttori e i trasformatori.
+
+<sup>2</sup> L'associazione di categoria stabilisce le rese massime per unità di superficie e vitigno per vini con denominazione di origine controllata per la Valle grigione del Reno e la Valposchiavo. Essa provvede affinché la decisione venga pubblicata nel Foglio ufficiale cantonale entro il 30 aprile.
+
+## 2. Impianti viticoli
+
+### 2.1. Nuovi impianti
 
 #### Art. 5
 
-**Domande**
+**Obbligo di autorizzazione**
 
-<sup>1</sup> Le domande per nuovi impianti devono venire inoltrate al Servizio specializzato almeno un anno prima dell'impianto mediante modulo ufficiale e allegando un piano catastale.
+<sup>1</sup> I nuovi impianti necessitano di un'autorizzazione da parte del Servizio specializzato per la viticoltura. Essa viene rilasciata in base all'idoneità alla viticoltura dell'ubicazione e può essere associata a oneri e condizioni.
 
-<sup>2</sup> ...[^5-1]
+<sup>2</sup> Il richiedente si assume le spese per eventuali perizie necessarie per verificare i presupposti per l'autorizzazione.
 
-[^5-1]: Abrogazione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
+<sup>3</sup> Le domande per l'autorizzazione di nuovi impianti devono essere inoltrate al Servizio specializzato per la viticoltura almeno un anno prima dell'impianto mediante modulo ufficiale e allegando un piano catastale.
 
 #### Art. 6
 
-**Commissioni catastali 2)**
+**Commissioni catastali**
 
-<sup>1</sup>[^6-1]Dopo avere sentito le organizzazioni professionali il Dipartimento nomina le commissioni catastali per le regioni viticole.
+<sup>1</sup> Le commissioni catastali valutano l'idoneità alla viticoltura dell'ubicazione e sottopongono al Servizio specializzato per la viticoltura una richiesta motivata.
 
-<sup>2</sup>[^6-2]Le commissioni sono composte al massimo da cinque viticoltori della regione. Fanno parte delle commissioni con funzione consultiva il Servizio specializzato e un rappresentante dell'Ufficio per la natura e l'ambiente.
+<sup>2</sup> Le commissioni sono composte al massimo da cinque viticoltori della regione. Esse sono in numero legale se è presente la maggioranza dei membri. Fanno parte delle commissioni con funzione consultiva il Servizio specializzato per la viticoltura e un rappresentante dell'Ufficio per la natura e l'ambiente.
 
-<sup>3</sup> Le commissioni valutano l'idoneità alla viticoltura delle ubicazioni conformemente all'articolo 2 capoverso 2 dell'ordinanza sul vino.
-
-<sup>4</sup> Esse sottopongono al Servizio specializzato una domanda motivata.
-
-[^6-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
-[^6-2]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008 2 1.7.2011
+<sup>3</sup> Dopo avere sentito le organizzazioni professionali, il Dipartimento nomina le commissioni catastali per le regioni viticole.
 
 #### Art. 7
 
-**Autorizzazione**
+**Idoneità dell'ubicazione**
 
-<sup>1</sup> Il Servizio specializzato decide in merito al rilascio dell'autorizzazione.
+<sup>1</sup> Nella Valle grigione del Reno devono essere osservati in particolare i seguenti criteri e valori limite:
 
-<sup>2</sup> L'autorizzazione può essere subordinata a degli oneri.
+- a) altitudine sul livello del mare: al massimo 600 m;
+- b) altitudine rispetto al fondovalle: di regola almeno 10 m;
+- c) declività della superficie prima dell'eventuale impianto: almeno 6 per cento;
+- d) esposizione del declivio: tra 90 e 270 gradi;
+- e) soleggiamento medio in agosto e settembre: almeno 174 watt/m²;
+- f) clima locale: nessuna ombra proiettata a causa di siepi o boschetti, rischio di gelo ridotto, nessuna importante limitazione del soleggiamento dovuta all'orizzonte, ecc.;
+- g) caratteristica del suolo e regime d'umidità del suolo: assenza di acque di pendio e stagnanti.
+
+<sup>2</sup> Il valore minimo relativo al soleggiamento può non essere rispettato se:
+
+- a) il clima locale è particolarmente favorevole; e
+- b) la superficie da valutare confina con una superficie che si trova nel catasto viticolo.
+
+### 2.2. Catasto viticolo
 
 #### Art. 8
 
-**Impianti per uso personale**
+**Contenuto**
 
-<sup>1</sup>[^8-1]I nuovi impianti non destinati alla produzione di vino, nonché i nuovi impianti unici su una superficie a partire da 100 m<sup>2</sup> fino a un massimo di 400 m<sup>2</sup>, i cui prodotti servono esclusivamente al consumo privato del coltivatore, devono essere notificati al Servizio specializzato almeno 1 anno prima dell'impianto mediante modulo ufficiale.
+<sup>1</sup> Nel catasto viticolo, oltre ai dati che vanno rilevati conformemente all'ordinanza federale sul vino, sono in aggiunta registrate le informazioni seguenti:
 
-<sup>2</sup> È vietato creare un vigneto di oltre 400 m<sup>2</sup> per poi frazionarlo in particelle di al massimo 400 m<sup>2</sup>.
-
-<sup>3</sup> È anche vietato suddividere una superficie contigua non coltivata di oltre 400 m<sup>2</sup> in particelle misuranti al massimo 400 m<sup>2</sup> per poi coltivarla.
-
-<sup>4</sup>[^8-2]La distanza tra due impianti non inclusi nel catasto viticolo deve ammontare almeno a 10 m. La medesima distanza minima deve essere rispettata anche dalla zona viticola.
-
-- 2\. MODIFICHE DI SUPERFICI VITICOLE[^8-3]
-
-[^8-1]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
-[^8-2]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
-[^8-3]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
+- a) ubicazione del vigneto;
+- b) anno di impianto.
 
 #### Art. 9
 
-**Obbligo di notifica**
+**Obbligo di verifica e di notifica**
 
-<sup>1</sup>[^9-1]Dissodamenti e ricostituzioni ai sensi dell'articolo 3 dell'ordinanza sul vino devono essere notificate al Servizio specializzato al più tardi entro il 31 maggio.
+<sup>1</sup> Ogni gestore è tenuto a notificare ogni anno al Servizio specializzato per la viticoltura secondo le prescrizioni di quest'ultimo le modifiche concernenti le superfici viticole (cambiamento di gestore, dissodamenti, ricostruzioni e nuovi impianti).
 
-<sup>2</sup> Tale obbligo sussiste anche per la ricostituzione di superfici viticole di al massimo 400 m<sup>2</sup>, i cui prodotti servono esclusivamente al consumo privato del coltivatore.
+<sup>2</sup> …
 
-<sup>3</sup>[^9-2]Se la notifica non avviene entro il termine viene riscossa una tassa di elaborazione fino a 100 franchi.
-
-- 3\. CATASTO VITICOLO
-
-[^9-1]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
-[^9-2]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
-[^9-3]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011 1.7.2011 3
+<sup>3</sup> Se la notifica non avviene entro il termine viene riscossa una tassa di cancelleria di 100 franchi.
 
 #### Art. 10
 
-**Tenuta**[^9-3]
+**Superficie computabile**
 
-Il Servizio specializzato tiene il catasto viticolo.
+<sup>1</sup> Di regola la superficie del fondo è considerata quale superficie viticola computabile. Se la superficie necessaria per la coltivazione (piazza di giro, testata del campo) supera il 10 per cento della superficie effettivamente coltivata a vite, la parte in eccesso non viene computata.
+
+<sup>2</sup> Se è coltivata a vite soltanto una parte della superficie di una particella, le superfici che servono esclusivamente o prevalentemente alla coltivazione della vite vengono aggiunte alla superficie viticola. La somma di tali superfici non può superare il 10 per cento della superficie coltivata.
+
+<sup>3</sup> Non servono esclusivamente o prevalentemente alla coltivazione della vite segnatamente edifici, strade e accessi provvisti di pavimentazione, giardini, siepi, cumuli di sassi e terrapieni di pietra, superfici ruderali e scarpate di frane.
+
+### 2.3. Impianti per uso personale
 
 #### Art. 11
 
-**Superfici non registrate**
+**Nuovi impianti**
 
-Le particelle, che sono state coltivate ai sensi dell'articolo 2 capoverso 4 dell'ordinanza sul vino, non vengono registrate nel catasto viticolo.
+<sup>1</sup> I nuovi impianti non destinati alla produzione di vino, nonché i nuovi impianti unici su una superficie a partire da 100 m² fino a un massimo di 400 m², i cui prodotti servono esclusivamente all'uso personale del coltivatore, devono essere notificati al Servizio specializzato per la viticoltura almeno un anno prima dell'impianto mediante modulo ufficiale.
 
-- 4\. VIGNETI IMPIANTATI ILLECITAMENTE
+<sup>2</sup> È vietato creare un vigneto di oltre 400 m² per poi frazionarlo in particelle di al massimo 400 m².
+
+<sup>3</sup> È anche vietato suddividere una superficie contigua non coltivata di oltre 400 m² in particelle di al massimo 400 m² per poi coltivarla.
+
+<sup>4</sup> La distanza tra due impianti non inclusi nel catasto viticolo deve ammontare almeno a 10 m. La stessa distanza minima deve essere rispettata nei confronti di superfici inserite nel catasto viticolo.
 
 #### Art. 12
 
-**Estirpazione**
+**Catasto viticolo**
 
-Il Dipartimento dispone l'estirpazione delle viti impiantate illecitamente e ordina eventualmente l'eliminazione a spese della persona inadempiente.
-
-- 5\. VITIGNI
-
-[^12-1]: Abrogazione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
+<sup>1</sup> Le superfici con impianti per uso personale non vengono registrate nel catasto viticolo.
 
 #### Art. 13
 
-[^12-1]
+**Obbligo di notifica**
 
-### III. Controllo della vendemmia
+<sup>1</sup> Dissodamenti, ricostruzioni e nuovi impianti devono essere notificati ogni anno al Servizio specializzato per la viticoltura secondo le prescrizioni di quest'ultimo.
 
-[^hIIIControllodella-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
+<sup>2</sup> Se la notifica non avviene entro il termine viene riscossa una tassa di cancelleria di 100 franchi.
+
+### 2.4. Estirpazione di viti
 
 #### Art. 14
 
-**Autorità competente**[^hIIIControllodella-1]
+**Estirpazione**
 
-Il Servizio specializzato organizza il controllo della vendemmia. Esso inoltra il rapporto della vendemmia all'Ufficio federale.
+<sup>1</sup> Il Servizio specializzato per la viticoltura ordina l'estirpazione di viti impiantate in violazione delle presenti disposizioni.
+
+<sup>2</sup> Per motivi di protezione delle piante, il Plantahof (Servizio specializzato per la protezione delle piante) può disporre il dissodamento di viti non più utilizzate e curate.
+
+<sup>3</sup> Le spese di un dissodamento sono a carico del gestore o del proprietario del fondo.
+
+## 3. Certificato di produzione e controlli
 
 #### Art. 15
 
-**Attestazione di controllo della vendemmia**
+**Certificato di produzione e contingente delle uve**
 
-<sup>1</sup> Per ogni singola partita d'uva viene rilasciata un'attestazione di controllo della vendemmia.
+<sup>1</sup> Ogni gestore riceve annualmente un certificato di produzione con le rese massime per vitigno, comune e categoria (contingente delle uve).
 
-<sup>2</sup> Il tenore in zucchero e il peso dell'uva vengono rilevati subito dopo la raccolta. Questo vale anche per torchiature particolari come la produzione di vin santo.
+<sup>2</sup> Il commercio di contingenti di produzione è vietato.
 
-<sup>3</sup>[^15-1]Ogni partita d'uva deve essere pesata. Peso e tenore in zucchero vengono determinati nello stesso posto.
-
-<sup>4</sup> Il peso dell'uva deve essere documentato in linea di principio con un bollettino di pesatura.
-
-<sup>5</sup>[^15-2]Gli attestati vanno conservati per cinque anni.
-
-[^15-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
-[^15-2]: Introduzione giusta DG del 5 luglio 2011; entrata in vigore il 1° agosto 2011
-[^15-3]: Testo dei capoversi 1 e 2, nonché abrogazione dei capoversi 3 - 5 giusta DG dell'11 feb. 2008; entrati in vigore il 1° gen. 2008 4 1.7.2011
+<sup>3</sup> Nel certificato di produzione non sono considerati i nuovi impianti nel primo anno di impianto. Per nuovi impianti nel secondo anno di impianto viene attribuito di regola un contingente di 200 grammi per m².
 
 #### Art. 16
 
-**Eccezioni**[^15-3]
+**Attestazione di controllo della vendemmia**
 
-<sup>1</sup> Con l'autorizzazione del Servizio specializzato, il peso dell'uva può essere rilevato senza bollettino di pesatura se l'azienda dispone ancora di una bilancia con la quale non possono essere stampati bollettini di pesatura.
+<sup>1</sup> Il tenore di zucchero e il peso dell'uva devono essere rilevati subito dopo la raccolta. Questo vale anche per torchiature particolari come la produzione di Sforzato.
 
-<sup>2</sup> In questi casi il peso dell'uva deve essere elencato e confermato apponendo la firma.
+<sup>2</sup> Il peso dell'uva e il tenore di zucchero vengono determinati nello stesso luogo.
 
-<sup>3</sup> ...
-
-<sup>4</sup> ...
-
-<sup>5</sup> ...
-
-[^16-1]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
-
-### IV. Denominazione di origine controllata
-
-[^16-1]
-
-[^hIVDenominazionedi-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
+<sup>3</sup> Le aziende vitivinicole devono conservare le attestazioni o i corrispondenti dati relativi alle vendemmie per cinque anni.
 
 #### Art. 17
 
-**Denominazione di origine controllata**[^hIVDenominazionedi-1]
+**Comprova del peso dell'uva**
 
-I vini del Cantone dei Grigioni possono portare esclusivamente una delle denominazioni di origine controllata seguenti:
+<sup>1</sup> Il peso dell'uva deve essere documentato con un bollettino di pesatura. Il bollettino di pesatura deve essere conservato per cinque anni.
 
-- a) AOC Graubünden;
+<sup>2</sup> Con il permesso del Servizio specializzato per la viticoltura si può rinunciare al bollettino di pesatura, se l'azienda dispone ancora di una bilancia con la quale non possono essere stampati bollettini di pesatura.
 
-- b) Appellation d'Origine Contrôlée Graubünden;
+<sup>3</sup> In questi casi il peso dell'uva deve essere elencato e confermato apponendo la firma. L'elenco deve essere conservato per cinque anni.
 
-- c) DOC Grigioni;
-
-- d) Denominazione di origine controllata Grigioni;
-
-- e) KUB Graubünden;
-
-- f) Kontrollierte Ursprungsbezeichnung Graubünden.
-
-[^17-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
+<sup>4</sup> …
 
 #### Art. 18
 
-**Denominazioni supplementari**[^17-1]
+**Tolleranza**
 
-<sup>1</sup> Le denominazioni supplementari possono essere indicate a complemento della denominazione di origine controllata. Esse designano zone delimitate geograficamente come comuni o luoghi in cui si trova il vigneto. Esse vanno apposte sull'etichetta, chiaramente separate dalla denominazione di origine controllata.
+<sup>1</sup> La resa in eccesso tollerabile per vini con denominazione di origine controllata ammonta al 5 per cento (margine di tolleranza).
 
-<sup>2</sup> I nomi dei comuni possono essere impiegati quale denominazione supplementare se, fatto salvo il taglio, almeno il 60 percento del vino proviene dal comune in questione.
+<sup>2</sup> Il quantitativo che rientra nel margine di tolleranza viene declassato.
 
-<sup>3</sup> Le denominazioni dei luoghi possono essere impiegate quale denominazione supplementare se, fatto salvo il taglio, il 100 percento del vino proviene da viti del luogo denominato.
-
-[^18-1]: Testo del capoverso 1, nonché introduzione dei capoversi 2 e 3 giusta DG dell'11 feb. 2008; entrati in vigore il 1° mar. 2008 1.7.2011 5
+## 4. Denominazione di origine controllata
 
 #### Art. 19
 
-**Elenchi**[^18-1]
+**Obbligo di notifica**
 
-<sup>1</sup> Il Servizio specializzato tiene i seguenti elenchi:
+<sup>1</sup> Le aziende vinicole che intendono utilizzare la denominazione di origine controllata devono notificarlo al Servizio specializzato per la viticoltura. La notifica deve avvenire al più tardi entro il 31 marzo dell'anno in cui sarà prodotto per la prima volta del vino con una denominazione di origine.
 
-- a) elenco dei vitigni ammessi: in questo elenco sono indicati i vitigni coltivati nel Cantone per la produzione commerciale di vino. L'elenco dei vitigni viene aggiornato sulla base del catasto viticolo cantonale;
+<sup>2</sup> Le aziende vinicole che non vogliono più utilizzare la denominazione di origine controllata devono anch'esse notificarlo al Servizio specializzato per la viticoltura al più tardi entro il 31 marzo.
 
-- b) elenco dei metodi di coltivazione ammessi: le superfici viticole devono essere gestite secondo la buona prassi professionale;
-
-- c) elenco delle tecniche di vinificazione ammesse: per la vinificazione sono ammessi i metodi della buona prassi enologica;
-
-- d)[^19-1]elenco delle denominazioni tradizionali svizzere dei vini, se devono essere disciplinate dal Cantone;
-
-- e)[^19-2]elenco delle denominazioni supplementari.
-
-<sup>2</sup> La domanda per l'iscrizione di un vitigno, un metodo o una denominazione nel relativo elenco deve essere indirizzata al Servizio specializzato.
-
-<sup>3</sup> Il vitigno, il metodo o la denominazione possono essere utilizzati unicamente quando saranno iscritti nell'elenco.
-
-[^19-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
-[^19-2]: Introduzione giusta DG del 5 luglio 2011; entrata in vigore il 1° agosto 2011
-[^19-3]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
-
-#### Art. 19a
-
-**Rese massime e tenori minimi in zucchero**[^19-3]
-
-<sup>1</sup> Le partite d'uva non possono superare le rese massime per unità di superficie per vini DOC fissate nell'articolo 22.
-
-<sup>2</sup>[^19a-1]I tenori naturali minimi in zucchero ammontano per a) Pinot nero 19,4 Brix (80° Oe);
-
-- b) altri vitigni 17,2 Brix (70° Oe).
-
-[^19a-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
-[^19a-2]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
-
-#### Art. 19b
-
-**Obbligo di notifica**[^19a-2]
-
-<sup>1</sup> Le aziende vinicole che vogliono utilizzare la denominazione di origine controllata devono notificarlo al Servizio specializzato. La notifica deve avvenire entro il 31 marzo dell'anno in cui sarà prodotto per la prima volta del vino con una denominazione di origine.
-
-<sup>2</sup> Le aziende vinicole che non vogliono più utilizzare la denominazione di origine controllata devono anch'esse notificarlo al Servizio specializzato entro il 31 marzo.
-
-[^19b-1]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
-
-#### Art. 19c
-
-**Analisi ed esame organolettico 1. Oggetto**[^19b-1]
-
-<sup>1</sup> I vini per i quali viene chiesta una denominazione di origine controllata vengono sottoposti a campione a un'analisi e a un esame organolettico. Analisi ed esame vengono effettuati sul vino pronto per il commercio e valgono per il rispettivo lotto.
-
-<sup>2</sup>[^19c-1]L'analisi comprende almeno il tenore alcolico, nonché l'anidride solfosolforosa totale e libera.
-
-<sup>3</sup>[^19c-2]L'esame organolettico avviene secondo le direttive dell'Organizzazione internazionale della vigna e del vino (OIV)[^19c-3]. Esso è superato se sono raggiunti almeno 60 punti su 100.
-
-[^19c-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011 6 1.7.2011
-[^19c-2]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
-[^19c-3]: Regolamento OIV sui concorsi internazionali di vini e di bevande spiritose d'origine vitivinicola 2009
-[^19c-4]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
-
-#### Art. 19d
-
-**2. Saggi**[^19c-4]
-
-<sup>1</sup> I produttori sono tenuti a mettere a disposizione gratuitamente i loro vini (campioni).
-
-<sup>2</sup> Il Servizio specializzato preleva i saggi e stabilisce il numero di campioni da consegnare.
-
-[^19d-1]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
-
-#### Art. 19e
-
-**3. Spese**[^19d-1]
-
-Le spese dell'analisi e dell'esame organolettico sono a carico del produttore.
-
-[^19e-1]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
-
-#### Art. 19f
-
-**Esclusione**[^19e-1]
-
-Se non viene osservato l'obbligo di notifica di cui all'articolo 19b capoverso 1 non è permesso usare la denominazione di origine controllata.
-
-[^19f-1]: Introduzione giusta DG del 26 maggio 2009; entrata in vigore il 1° giugno 2009
-
-#### Art. 19g
-
-**Termini vinicoli specifici**[^19f-1]
-
-<sup>1</sup> Per la denominazione dei vini, nel rispetto delle prescrizioni del diritto federale, nonché delle prescrizioni seguenti, è possibile impiegare i termini seguenti:
-
-- a) selezione;
-
-- b) vendemmia tardiva;
-
-- c) Beerenauslese;
-
-- d) castello.
-
-<sup>2</sup> Può essere denominato "selezione" un vino a denominazione di origine controllata ottenuto da uve di qualità superiore alla media o sottoposte a un particolare procedimento di torchiatura. I criteri di qualità e il loro rispetto, nonché il procedimento di torchiatura vanno documentati.
-
-<sup>3</sup>[^19g-1]Il termine "vendemmia tardiva" può essere impiegato se l'uva viene raccolta al più presto sette giorni dopo la data per il raccolto usuale per la varietà di uva e se il tenore naturale minimo in zucchero è di almeno 0,77 Brix (3° Oe) superiore alla media annua (media cantonale).
-
-<sup>4</sup> Il termine "Beerenauslese" può essere impiegato quando il tenore naturale minimo in zucchero corrisponde alle prescrizioni minime del diritto federale.
-
-<sup>5</sup> Il termine "castello" può essere impiegato se il proprietario di un'azienda vinicola nel Cantone dei Grigioni possiede un fondo con un edificio rappresentativo, che storicamente viene definito castello, e se gestisce vigneti propri o in affitto in una zona di produzione.
-
-[^19g-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011 1.7.2011 7
-
-### V. Contingentamento
+<sup>3</sup> Se non viene osservato l'obbligo di notifica di cui al capoverso 1 non è permesso usare la denominazione di origine controllata.
 
 #### Art. 20
 
-**Catasto viticolo e obbligo di notifica**
+**Denominazione di origine controllata**
 
-<sup>1</sup> Il Servizio specializzato tiene il catasto viticolo con le seguenti indicazioni:
+<sup>1</sup> I vini del Cantone dei Grigioni (inclusi vini spumanti, frizzanti e liquorosi) possono portare una delle denominazioni di origine controllata seguenti:
 
-- a) il comune e l'ubicazione del vigneto;
+- a) AOC Graubünden oppure Graubünden AOC;
+- b) Appellation d'Origine Contrôlée Graubünden;
+- c) DOC Grigioni oppure Grigioni DOC;
+- d) Denominazione di origine controllata Grigioni;
+- e) KUB Graubünden oppure Graubünden KUB;
+- f) Kontrollierte Ursprungsbezeichnung Graubünden.
 
-- b) il numero della particella;
-
-- c) la superficie viticola;
-
-- d) il vitigno;
-
-- e) l'anno di impianto;
-
-- f) il nome del coltivatore.
-
-<sup>2</sup> Il Servizio specializzato consegna annualmente un estratto del catasto ad ogni coltivatore. Quest'ultimo è tenuto a notificare al più tardi entro il 31 maggio le estirpazioni, le ricostituzioni e i nuovi impianti.
-
-[^20-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
+<sup>2</sup> La denominazione della classe KUB (Kontrollierte Ursprungsbezeichnung), DOC (Denominazione di origine controllata) o AOC (Appellation d'Origine Contrôlée) deve essere posizionata sull'etichetta nelle immediate vicinanze della denominazione geografica di origine Graubünden o Grigioni (ad es. DOC Grigioni).
 
 #### Art. 21
 
-**Superficie computabile**[^20-1]
+**Denominazioni supplementari**
 
-<sup>1</sup> Di regola la superficie del fondo è considerata quale superficie computabile. Se la superficie necessaria per la coltivazione (piazza di giro, testata del campo) supera di oltre il 10 percento la superficie effettivamente coltivata a vite, la parte in eccesso non viene riconosciuta.
+<sup>1</sup> I nomi dei comuni possono essere impiegati quale denominazione supplementare se, fatto salvo il taglio, almeno il 60 per cento del vino proviene dal comune in questione.
 
-<sup>2</sup> Se è coltivata a vite soltanto una parte della superficie di una particella, le superfici che servono esclusivamente o prevalentemente alla coltivazione della vite vengono aggiunte alla superficie viticola. Il supplemento così calcolato non può superare il 10 percento della superficie coltivata.
+<sup>2</sup> L'ubicazione del vigneto può essere impiegata quale denominazione supplementare se, fatto salvo il taglio, il 100 per cento del vino proviene da viti del luogo indicato.
 
-<sup>3</sup> Non servono esclusivamente o prevalentemente alla coltivazione della vite segnatamente edifici, strade e accessi, giardini, siepi, cumuli di sassi e affioramenti rocciosi, superfici ruderali, scarpate di frane.
+<sup>3</sup> Denominazioni supplementari vanno apposte sull'etichetta, chiaramente separate dalla denominazione di origine controllata.
 
 #### Art. 22
 
-**Quantitativi massimi**
+**Tenore minimo di zucchero e arricchimento**
 
-<sup>1</sup>[^22-1]L'organizzazione di categoria stabilisce i quantitativi massimi ammessi per m<sup>2</sup> e vitigno per la Valle grigione del Reno e la Valposchiavo. Essa provvede affinché la decisione venga pubblicata nel Foglio ufficiale cantonale entro la fine di aprile.
+<sup>1</sup> Il tenore naturale minimo di zucchero ammonta per:
 
-<sup>2</sup> ...[^22-2]
+- a) il Pinot nero 19,4 °Brix (80 °Oe); eccezione: 17,2 °Brix (70 °Oe) per la produzione di vini spumanti;
+- b) gli altri vitigni 17,2 °Brix (70 °Oe).
 
-[^22-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011 8 1.7.2011
-[^22-2]: Abrogazione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
+<sup>2</sup> I vini possono essere arricchiti al massimo del 2,5 per cento in volume e possono raggiungere al massimo un tenore complessivo di alcol pari al 15 per cento in volume.
+
+<sup>3</sup> L'edulcorazione del vino è ammessa alle condizioni del diritto federale.
 
 #### Art. 23
 
-**Certificato di produzione e contingente delle uve**
+**Termini vinicoli specifici**
 
-<sup>1</sup> Ogni coltivatore ottiene annualmente il certificato di produzione con i quantitativi ammessi per vitigno, categoria e comune (contingente delle uve).
+<sup>1</sup> I termini seguenti possono essere impiegati per la denominazione dei vini soltanto nel rispetto delle prescrizioni del diritto federale e delle prescrizioni seguenti:
 
-<sup>2</sup> Nel certificato di produzione non sono considerati i nuovi impianti nel primo anno di impianto. Per nuovi impianti nel secondo anno di impianto viene attribuito di regola un contingente di 200 grammi per m<sup>2</sup>.
+- a) Selezione;
+- b) Vendemmia tardiva;
+- c) Beerenauslese;
+- d) Castello;
+- e) Reserve/Réserve/Riserva/Reserva;
+- f) Vin doux naturel;
+- g) Œil-de-Perdrix;
+- h) Village;
+- i) Clos.
 
-<sup>3</sup>[^23-1]Succo d'uva, succo d'uva fermentato, vino casereccio e eventuali altri prodotti di uve fermentabili sono compresi nel contingente.
+<sup>2</sup> Può recare la denominazione Selezione un vino a denominazione di origine controllata ottenuto da uve di qualità superiore alla media o sottoposte a un particolare processo di torchiatura. I criteri di qualità e il loro rispetto, nonché il processo di torchiatura vanno documentati.
 
-<sup>4</sup> E' vietato il commercio dei contingenti.
+<sup>3</sup> Il termine Vendemmia tardiva può essere utilizzato se l'uva viene raccolta al più presto sette giorni dopo la data per il raccolto usuale per la varietà di uva e se il tenore naturale minimo di zucchero è di almeno 0,77 °Brix (3 °Oe) superiore alla media annua della regione viticola.
 
-[^23-1]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
+<sup>4</sup> Il termine Beerenauslese può essere utilizzato se il vino viene prodotto da uve colpite da marciume nobile e con un tenore di zucchero di almeno 26 °Brix (110,2 °Oe). L'arricchimento e la concentrazione sono vietati.
+
+<sup>5</sup> Il termine Castello può essere utilizzato se il proprietario di un'azienda vinicola nel Cantone dei Grigioni possiede un fondo con un edificio rappresentativo che storicamente viene definito castello e se gestisce vigneti propri o in affitto in una zona di produzione.
+
+<sup>6</sup> Il termine Reserve, Réserve, Riserva o Reserva può essere utilizzato per vini con denominazione di origine controllata messi in commercio dopo un periodo d'invecchiamento di almeno 18 mesi per i vini rossi e 12 mesi per i vini bianchi a partire dal 1° ottobre dell'anno di vendemmia.
+
+<sup>7</sup> Il termine Vin doux naturel può essere utilizzato se la resa massima viene rispettata e il tenore di zucchero dell'uva viene misurato in modo tale che risulti un tenore alcolico naturale di almeno il 12 per cento in volume.
+
+<sup>8</sup> Il termine Village può essere utilizzato se, fatto salvo il taglio, almeno il 70 per cento dell'uva proviene dal comune in questione.
+
+<sup>9</sup> Il termine Clos indica un vigneto circondato da muri.
 
 #### Art. 24
 
-**Organizzazione di categoria**
+**Vino rosato**
 
-<sup>1</sup>[^24-1]L'organizzazione di categoria sostiene le autorità competenti nell'esecuzione di misure rilevando tra l'altro compiti di controllo. Essa può ad esempio disporre stime dei quantitativi e condizioni per la vendemmia oppure proporre sanzioni contro i produttori e i trasformatori.
+<sup>1</sup> Il vino rosato deve essere prodotto almeno per il 90 per cento da vitigni rossi e può contenere al massimo il 10 per cento di vino da vitigni bianchi.
 
-<sup>2</sup> ...[^24-2]
-
-[^24-1]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
-[^24-2]: Abrogazione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
+<sup>2</sup> L'Œil-de-Perdrix è un vino rosato a denominazione di origine controllata ottenuto da uve della varietà Pinot nero. Può essere tagliato esclusivamente con Pinot grigio o Pinot bianco nella misura del 10 per cento al massimo.
 
 #### Art. 25
 
-**Tolleranza**
+**Elenchi**
 
-La tolleranza ammonta al 5 percento.
+<sup>1</sup> Il Servizio specializzato per la viticoltura tiene i seguenti elenchi:
 
-[^25-1]: Testo del capoverso 1, nonché abrogazione dei capoversi 2 e 3 giusta DG dell'11 feb. 2008; entrati in vigore il 1° mar. 2008 1.7.2011 9
+- a) elenco dei vitigni autorizzati: in questo elenco sono indicati i vitigni coltivati nel Cantone per la produzione commerciale di vino. L'elenco dei vitigni viene aggiornato sulla base del catasto viticolo;
+- b) elenco dei metodi di coltura autorizzati: le superfici viticole devono essere gestite secondo la buona prassi professionale;
+- c) elenco dei metodi di vinificazione autorizzati: per la vinificazione sono autorizzati i metodi della buona prassi enologica;
+- d) elenco delle denominazioni tradizionali svizzere dei vini, se devono essere disciplinate dal Cantone;
+- e) elenco delle denominazioni supplementari.
+
+<sup>2</sup> Il vitigno, il metodo o la denominazione possono essere utilizzati unicamente se sono già stati iscritti nell'elenco. Per l'iscrizione è necessaria una domanda al Servizio specializzato per la viticoltura.
 
 #### Art. 26
 
-**Declassamento**[^25-1]
+**Analisi ed esame organolettico 1. Oggetto**
 
-<sup>1</sup> Il quantitativo che rientra nel margine di tolleranza deve essere declassato.
+<sup>1</sup> I vini per i quali viene chiesta una denominazione di origine controllata vengono sottoposti a campione a un'analisi e a un esame organolettico. L'analisi e l'esame vengono effettuati sul vino pronto per il commercio e valgono per il rispettivo lotto.
 
-<sup>2</sup> ...
+<sup>2</sup> L'analisi comprende almeno il tenore alcolico, nonché l'anidride solforosa totale e libera. Per vini con denominazione di origine controllata che vengono prodotti secondo un procedimento speciale valgono i seguenti valori massimi per acidi volatili:
 
-<sup>3</sup> ...
+- a) vini dolci — 1,8 g/l (30 meq)
+- b) vini di ghiaccio — 2,1 g/l (35 meq)
 
-### VI. Controllo contabile e della cantina
+<sup>3</sup> L'esame organolettico avviene secondo le direttive dell'Organisation Internationale de la Vigne et du Vin (OIV)[^26-1]. Esso è superato se sono raggiunti almeno 60 punti su 100.
+
+[^26-1]: Regolamento OIV sui concorsi internazionali di vini e di bevande spiritose d'origine vitivinicola 2009.
 
 #### Art. 27
 
-**Controllo contabile e della cantina**
+**2. Saggi e spese**
 
-<sup>1</sup>[^27-1]Sottostà al Controllo svizzero del commercio dei vini:
+<sup>1</sup> I produttori sono tenuti a mettere a disposizione gratuitamente i loro vini (campioni).
 
-- a) chi commercia vino;
+<sup>2</sup> Il Servizio specializzato per la viticoltura preleva i saggi e stabilisce il numero di campioni da consegnare.
 
-- b) produttori che lavorano e vendono i propri prodotti e acquistano annualmente più di 20 hl dalla stessa area di produzione.
+<sup>3</sup> Le spese dell'analisi e dell'esame organolettico sono a carico del produttore.
 
-<sup>2</sup>[^27-2]Per le altre aziende vitivinicole viene effettuato un controllo cantonale equivalente da parte dell'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali.
-
-[^27-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
-[^27-2]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
-[^27-3]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
-
-### VII. Moesano
-
-[^27-3]
-
-[^hVIIMoesano273-1]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
+## 5. Mesolcina
 
 #### Art. 28
 
-**Campo di applicazione dell'ordinanza**[^hVIIMoesano273-1]
+**Diritto applicabile**
 
-Le disposizioni dei capitoli da I a VI trovano applicazione per quanto di seguito non siano indicate disposizioni divergenti.
+<sup>1</sup> Per la regione viticola Mesolcina valgono le disposizioni del presente capitolo.
 
-[^28-1]: Testo giusta DG dell'11 feb. 2008; entrato in vigore il 1° mar. 2008
+<sup>2</sup> Le disposizioni dei capitoli 1 - 4 sono applicabili in via sussidiaria.
 
 #### Art. 29
 
-**Superficie computabile**[^28-1]
+**Trasferimento di compiti**
 
-In deroga all'articolo 21, per le particelle con grandi distanze tra le piante vale un intervallo sulla fila di 3 m<sup>2</sup>, rispettivamente 4 m<sup>2</sup> per pergole.
+<sup>1</sup> Per quanto riguarda la Mesolcina, i seguenti compiti possono essere trasferiti al servizio specializzato del Cantone Ticino:
 
-[^29-1]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
+- a) aggiornamento del catasto viticolo;
+- b) rilascio dei certificati di produzione;
+- c) organizzazione del controllo della vendemmia;
+- d) verifica della dichiarazione del raccolto;
+- e) declassamento delle partite d'uva;
+- f) notifica della statistica del raccolto e delle superfici viticole all'Ufficio federale dell'agricoltura.
+
+<sup>2</sup> All'Interprofessione della vite e del vino ticinese (IVVT) possono inoltre essere trasmessi quei compiti nel settore della denominazione di origine controllata DOC Ticino che il diritto ticinese delega all'IVVT.
 
 #### Art. 30
 
-**Controllo della vendemmia e dichiarazione del raccolto**[^29-1]
+**Catasto viticolo e superfici viticole**
 
-<sup>1</sup> Per il controllo della vendemmia fanno stato le disposizioni del Cantone Ticino.
+<sup>1</sup> L'aggiornamento del catasto viticolo si conforma al diritto ticinese.
 
-<sup>2</sup> I trasformatori nel Moesano devono inoltrare la dichiarazione del raccolto entro il 31 ottobre al servizio specializzato competente per la viticoltura del Cantone Ticino. In caso contrario i loro vini saranno esclusi dalla denominazione di origine controllata.
+<sup>2</sup> L'articolo 7 non trova applicazione.
 
-[^30-1]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
+<sup>3</sup> Dissodamenti o rinnovamenti di superfici viticole ai sensi dell'articolo 9 e dell'articolo 13 devono essere notificati al servizio specializzato del Cantone Ticino.
+
+<sup>4</sup> Il servizio specializzato del Cantone Ticino può effettuare rilevamenti relativi alla superficie viticola.
 
 #### Art. 31
 
-**Denominazione di origine controllata 1. Diritto applicabile**[^30-1]
+**Superficie computabile**
 
-<sup>1</sup>[^31-1]Sull'area viticola conformemente all'articolo 3a capoverso 1 lettera b sono applicabili le disposizioni vigenti del Cantone Ticino relative ai tenori minimi in zucchero e alle rese massime per unità di superficie.
-
-<sup>2</sup> Per quanto riguarda l'obbligo di notifica, l'analisi, l'esame organolettico, il prelievo di saggi e le spese sono applicabili gli articoli 19b - 19e.
-
-[^31-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011 10 1.7.2011
-[^31-2]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
+<sup>1</sup> Per particelle con grandi distanze tra le piante, per quanto riguarda le pergole la superficie è considerata coltivata uniformemente anche in caso di uno spazio massimo di 4 m².
 
 #### Art. 32
 
-**2. Denominazione di origine controllata sovracantonale**[^31-2]
+**Certificato di produzione, controllo della vendemmia e dichiarazione del raccolto**
 
-Per le uve dei vigneti separati dal confine comunale di San Vittore GR / Lumino TI può essere utilizzata la denominazione di origine controllata secondo l'articolo 17.
-
-[^32-1]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
+<sup>1</sup> Per il rilascio dei certificati di produzione, il controllo della vendemmia e la dichiarazione del raccolto nonché la relativa riscossione di emolumenti valgono le disposizioni del Cantone Ticino.
 
 #### Art. 33
 
-**Competenze**[^32-1]
+**Denominazione di origine controllata 1. Diritto applicabile**
 
-<sup>1</sup> Qualora sulla base delle disposizioni precedenti sia applicabile il diritto del Cantone Ticino, l'esecuzione spetta al Servizio specializzato del Cantone Ticino.
-
-<sup>2</sup> Le notifiche concernenti dissodamenti e ricostituzioni di superfici viticole ai sensi dell'articolo 9 sono da indirizzare al Servizio specializzato del Cantone Ticino.
-
-<sup>3</sup> Il Servizio specializzato del Cantone Ticino può effettuare rilevamenti relativi alla superficie viticola.
-
-<sup>4</sup> Il Servizio specializzato del Cantone Ticino può organizzare il controllo della vendemmia e rilascia il certificato di produzione.
-
-[^33-1]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
-
-### VIII. Giustizia amministrativa
-
-[^33-1]
-
-[^hVIIIGiustiziaammi-1]: Introduzione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
+<sup>1</sup> Per quanto riguarda il tenore di zucchero minimo, le rese massime per unità di superficie, i vitigni, i metodi di coltura e i metodi di vinificazione sono applicabili le disposizioni del Cantone Ticino.
 
 #### Art. 34
 
-[^hVIIIGiustiziaammi-1]
+**2. Uso della denominazione di origine controllata "DOC Ticino"**
 
-Le decisioni negli ambiti nei quali è competente anche il Servizio specializzato del Cantone Ticino possono essere impugnate con opposizione entro 30 giorni al Centro di formazione e consulenza agraria Plantahof.
+<sup>1</sup> I vini provenienti dalla Mesolcina possono usare la denominazione di origine controllata "DOC Ticino" secondo il diritto ticinese se:
 
-[^34-1]: Nuova numerazione giusta DG dell'11 feb. 2008; entrata in vigore il 1° mar. 2008
+- a) le uve sono state prodotte in Mesolcina o nel Cantone Ticino; e
+- b) le uve conformemente alla lettera a sono state pressate nel Cantone Ticino o in Mesolcina.
 
-### IX. Disposizioni finali
+<sup>2</sup> L'uso di denominazioni di località supplementari dalla Mesolcina oltre alla denominazione di origine controllata è vietato.
 
-[^34-1]
+<sup>3</sup> La produzione e la messa in commercio di vini con la denominazione "DOC Ticino" nonché lo svolgimento dei relativi controlli si conformano alle disposizioni del diritto ticinese in materia di produzione di vini con denominazione di origine controllata.
 
-[^hIXDisposizionifin-1]: Introduzione giusta DG dell'11 feb. 2008 1.7.2011 11
+<sup>4</sup> Gli emolumenti e le tasse per l'uso della denominazione "DOC Ticino" devono essere versati secondo il diritto ticinese[^34-1] all'IVVT.
+
+[^34-1]: cfr. art. 48 Regolamento sulla viticoltura del Cantone Ticino (RS 8.2.1.1.1)
 
 #### Art. 35
 
-**Disposizioni transitorie**[^hIXDisposizionifin-1]
+**3. Denominazioni di origine controllata regionali**
 
-<sup>1</sup> Le aziende vinicole che vogliono utilizzare la denominazione di origine controllata secondo la presente ordinanza devono notificarlo al Servizio specializzato entro il 31 marzo 2008.
+<sup>1</sup> I vini provenienti dalla Mesolcina possono portare le denominazioni seguenti:
 
-<sup>2</sup>[^35-1]Le disposizioni modificate con la revisione parziale del 1° agosto 2011 valgono per la prima volta per l'annata 2011. I vini delle annate 2011 e 2012 possono essere contrassegnati e offerti secondo il diritto previgente fino all'esaurimento dell'effettivo di etichette.
+- a) AOC Graubünden Misox o Graubünden Misox AOC;
+- b) AOC Misox Graubünden o Misox Graubünden AOC;
+- c) DOC Grigioni Mesolcina o Grigioni Mesolcina DOC;
+- d) DOC Mesolcina Grigioni o Mesolcina Grigioni DOC.
 
-[^35-1]: Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
-[^35-2]: Nuova numerazione (finora art. 29) come conseguenza dell'introduzione di diversi nuovi articoli; entrata in vigore il 1° mar. 2008
+<sup>2</sup> La denominazione della classe DOC (Denominazione di origine controllata) o AOC (Appellation d'Origine Contrôlée) deve essere posizionata sull'etichetta in immediata prossimità della denominazione geografica di origine Graubünden e Misox o Grigioni e Mesolcina (ad es. DOC Mesolcina Grigioni).
+
+<sup>3</sup> L'uso di una denominazione secondo l'articolo 21 è esclusa.
+
+<sup>4</sup> La denominazione di origine controllata regionale della Mesolcina non può essere combinata con una denominazione di origine controllata del Cantone Ticino.
+
+<sup>5</sup> I produttori che intendono usare una denominazione di origine controllata secondo il diritto del Cantone dei Grigioni devono notificarlo prima dell'inizio della produzione, al più tardi entro il 31 marzo, all'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali.
 
 #### Art. 36
 
-**Entrata in vigore, abrogazione del diritto previgente**[^35-2]
+**4. Denominazione di origine nella zona di confine**
 
-Le presenti disposizioni esecutive entrano in vigore il 1° luglio 2002 e sostituiscono quelle del 24 agosto 1999[^36-1].
+<sup>1</sup> Per le uve dei vigneti separati dal confine comunale tra San Vittore GR e Lumino TI può essere usata la denominazione di origine controllata secondo l'articolo 35.
 
-[^36-1]: AGS 1999, 4523 12 1.7.2011
+#### Art. 37
 
-## Altre note
+**Nostrano**
 
-- [2] Testo giusta DG del 5 luglio 2011; entrato in vigore il 1° agosto 2011
+<sup>1</sup> Per la produzione di vini con denominazione tradizionale propria "Nostrano" sono applicabili le disposizioni del Cantone Ticino.
+
+#### Art. 38
+
+**Controllo sul commercio di vino**
+
+<sup>1</sup> Il controllo sul commercio di vino praticato dai produttori e dalle aziende vitivinicole si conforma al diritto ticinese.
+
+#### Art. 39
+
+**Giurisdizione e comunicazioni**
+
+<sup>1</sup> Contro decisioni delle autorità competenti del Cantone Ticino può essere sollevata opposizione entro 30 giorni al Servizio specializzato per la viticoltura.
+
+<sup>2</sup> Decisioni delle autorità grigionesi concernenti la Mesolcina vengono comunicate anche al servizio specializzato del Cantone Ticino nonché, se concernono denominazioni di origine controllata del Cantone Ticino, all'IVVT.
+
+## 6. Disposizioni finali
+
+#### Art. 40
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Per i vini prodotti prima dell'entrata in vigore della presente ordinanza rimangono applicabili le disposizioni in vigore al momento della loro produzione.
+
+<sup>2</sup> I produttori nonché le aziende vitivinicole che non devono obbligatoriamente essere controllati dall'organo di controllo federale possono sottoporsi a un controllo cantonale equivalente da parte dell'Ufficio per la sicurezza delle derrate alimentari e la salute degli animali al massimo fino al 31 dicembre 2018.
+
+<sup>3</sup> L'articolo 22 capoverso 2 e capoverso 3 vale per la prima volta per vini dell'annata 2018.
+
+2018-004
