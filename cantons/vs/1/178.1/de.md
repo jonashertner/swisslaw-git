@@ -4,27 +4,28 @@ number: "178.1"
 title: Notariatsgesetz
 short: NG
 language: de
-version: 2014-03-01
-corrected: 2017-09-04
-version_adopted: 2013-11-15
+version: 2022-01-07
+valid_until: 2023-12-31
+version_adopted: 2021-09-09
 adopted: 2004-12-15
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/178.1"
-pdf: "https://lex.vs.ch/api/de/versions/623/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3010/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Notariatsgesetz
 
-vom 15. Dezember 2004
+(NG)
+
+vom 15.12.2004 (Stand 07.01.2022)
 
 Der Grosse Rat des Kantons Wallis
 
 eingesehen Artikel 55 des Schlusstitels des Schweizerischen Zivilgesetzbuches;
 
-eingesehen die Artikel 31 Absatz 1 Ziffer 1 und 42 Absatz 1 der Kantonsverfassung;
+eingesehen die Artikel 31 Absatz 1 Buchstabe a und 42 Absatz 1 der Kantonsverfassung;
 
 eingesehen Artikel 196 Absatz 1 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch;
 
@@ -32,9 +33,9 @@ auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Kapitel: Die Organisation des Notariats
+## 1 Die Organisation des Notariats
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+### 1.1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -43,9 +44,7 @@ verordnet:
 <sup>1</sup> Das vorliegende Gesetz ist anwendbar:
 
 - a) auf die zur Berufsausübung berechtigten Notare;
-
 - b) auf die Inhaber des Notariatsdiploms, welche eine Berufsausübungsbewilligung verlangen;
-
 - c) auf die Inhaber eines Lizentiates, eines Doktorats in Rechtswissenschaften oder eines gleichwertigen akademischen Titels, welche ein Notariatspraktikum absolvieren.
 
 <sup>2</sup> Das im Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vorgesehene vereinfachte öffentliche Beurkundungsverfahren wird nicht geregelt.
@@ -56,7 +55,7 @@ verordnet:
 
 **Zweck**
 
-Das vorliegende Gesetz will die mit der öffentlichen Beurkundung verbundenen Garantien sowie den Schutz von Treu und Glauben im Geschäftsverkehr gewährleisten.
+<sup>1</sup> Das vorliegende Gesetz will die mit der öffentlichen Beurkundung verbundenen Garantien sowie den Schutz von Treu und Glauben im Geschäftsverkehr gewährleisten.
 
 #### Art. 3
 
@@ -85,7 +84,6 @@ Das vorliegende Gesetz will die mit der öffentlichen Beurkundung verbundenen Ga
 <sup>1</sup> Der Notar haftet zivilrechtlich für jeden Schaden, den er entweder rechtswidrig, vorsätzlich oder fährlässig, oder in Verletzung seiner vertraglichen Verpflichtungen verursacht:
 
 - a) in Ausübung seiner amtlichen Tätigkeit;
-
 - b) in Ausübung seiner mit der amtlichen Tätigkeit zusammenhängenden beruflichen Tätigkeit.
 
 <sup>2</sup> Er haftet für die Handlungen seiner Hilfspersonen.
@@ -98,13 +96,11 @@ Das vorliegende Gesetz will die mit der öffentlichen Beurkundung verbundenen Ga
 
 #### Art. 6
 
-Zivilrechtliche Verantwortlichkeit - anwendbare Bestimmungen und Verfahren
+**Zivilrechtliche Verantwortlichkeit - Anwendbare Bestimmungen und Verfahren**
 
 <sup>1</sup> Die Zivilklagen aus der amtlichen oder beruflichen Verantwortlichkeit des Notars sind den Bestimmungen des Obligationenrechts über die vertragliche Haftung des Beauftragten (Art. 97 ff., 127 ff., 394 ff. OR) unterstellt, welche ergänzendes kantonales Recht bilden.
 
-<sup>2</sup> Der Zivilrichter beurteilt die Verantwortlichkeitsklage. Die Schweizerische Zivilprozessordnung ist anwendbar.[^6-1]
-
-[^6-1]: Fassung gemäss Art. 10 Ziff. 5 des Einführungsgesetzes zur Schweizerischen Zivilprozessordnung (EGZPO) vom 11. Feb. 2009. In Kraft seit 1. Jan. 2011 (Abl. Nr. 26/2010)
+<sup>2</sup> Der Zivilrichter beurteilt die Verantwortlichkeitsklage. Die Schweizerische Zivilprozessordnung ist anwendbar.
 
 #### Art. 7
 
@@ -132,17 +128,17 @@ Zivilrechtliche Verantwortlichkeit - anwendbare Bestimmungen und Verfahren
 
 **Veröffentlichung im Amtsblatt**
 
-Die Bewilligung zur Ausübung des Notariats, der Verzicht auf die Notariatstätigkeit, der Entzug der Ausübungsbewilligung, die Einstellung und die Amtsenthebung sind im Amtsblatt zu veröffentlichen.
+<sup>1</sup> Die Bewilligung zur Ausübung des Notariats, der Verzicht auf die Notariatstätigkeit, der Entzug der Ausübungsbewilligung, die Einstellung und die Amtsenthebung sind im Amtsblatt zu veröffentlichen.
 
 #### Art. 10
 
 **Gleichstellung von Mann und Frau**
 
-Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Statuts, einer Funktion oder eines Berufes wird für Mann und Frau im gleichen Sinne verwendet.
+<sup>1</sup> Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Statuts, einer Funktion oder eines Berufes wird für Mann und Frau im gleichen Sinne verwendet.
 
-### 2. Abschnitt: Zulassung zum Beruf und Beendigung der Tätigkeit
+### 1.2 Zulassung zum Beruf und Beendigung der Tätigkeit
 
-- a) Praktikum und Examen
+### 1.2.1 Praktikum und Examen
 
 #### Art. 11
 
@@ -151,11 +147,8 @@ Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Statuts, ei
 <sup>1</sup> Niemand kann ein Notariatspraktikum ohne Bewilligung des Departements absolvieren; diese wird jenem Kandidaten erteilt, der:
 
 - a) über die volle Handlungsfähigkeit verfügt;
-
-- b) ein Rechtsstudium an einer schweizerischen Universität mit einem Lizentiat oder einem Doktorat abgeschlossen hat, oder über einen gleichwertigen akademischen Titel verfügt;
-
+- b) ein Rechtsstudium an einer schweizerischen Universität mit einem Lizentiat oder einem Bachelor und einem Master oder einem Doktorat abgeschlossen hat oder über einen gleichwertigen akademischen Titel verfügt;
 - c) die in Artikel 17 Buchstaben b und c vorgesehenen Bedingungen erfüllt;
-
 - d) die Bestätigung eines im Kanton praktizierenden Notars vorweist, womit dieser seinen Willen bekräftigt, den Kandidaten auszubilden.
 
 <sup>2</sup> Das Praktikum dient grundsätzlich der beruflichen Ausbildung des Notars.
@@ -166,11 +159,11 @@ Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Statuts, ei
 
 **Modalitäten des Praktikums**
 
-<sup>1</sup> Das Notariatspraktikum dauert grundsätzlich zwölf Monate ohne Unterbruch.
+<sup>1</sup> Das Notariatspraktikum dauert mindestens 12 Monate, grundsätzlich ohne Unterbruch.
 
 <sup>2</sup> Ein zusammenhängender Unterbruch von mehr als acht Wochen wird an die Praktikumsdauer nicht angerechnet.
 
-<sup>3</sup> Das Praktikum darf die Dauer von fünf Jahren nicht überschreiten.
+<sup>3</sup> Nur vollständig innerhalb der 5 Jahre vor der Prüfung absolvierte Praktika werden für die Zulassung zur Prüfung berücksichtigt.
 
 <sup>4</sup> Das Praktikum wird in der Kanzlei eines oder nacheinander mehrerer Notare des Kantons absolviert.
 
@@ -188,13 +181,11 @@ Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Statuts, ei
 
 <sup>2</sup> Es umfasst ein schriftliches und mündliches Examen.
 
-<sup>3</sup> Das Nichtbestehen der dritten Prüfung ist endgültig. Zwischen der zweiten und dritten Prüfung muss mindestens ein Jahr verflossen sein.
+<sup>3</sup> Das dritte Nichtbestehen der Prüfung ist endgültig.
 
-<sup>4</sup> Die Prüfungen werden von einer kantonalen Examenskommission abgenommen, welche vom Staatsrat ernannt wird. Die Kommission entscheidet in erster Instanz. Die Entscheide können mit Beschwerde an das Kantonsgericht weiter gezogen werden. Das Reglement bestimmt die Zusammensetzung und die Organisation der Examenskommission wie auch die Kognition der Beschwerdeinstanz.[^13-1]
+<sup>4</sup> Die Prüfungen werden von einer kantonalen Examenskommission abgenommen, welche vom Staatsrat ernannt wird. Die Kommission entscheidet in erster Instanz. Die Entscheide können mit Beschwerde an das Kantonsgericht weiter gezogen werden. Das Reglement bestimmt die Zusammensetzung und die Organisation der Examenskommission wie auch die Kognition der Beschwerdeinstanz.
 
 <sup>5</sup> Gemäss dem vom Staatsrat bestimmten Tarif wird eine Prüfungsgebühr erhoben. Diese Gebühr ist nicht höher als die Gerichtsgebühr, die von einem Departement in einer nicht geldwerten Verwaltungsangelegenheit erhoben wird.
-
-[^13-1]: Änderung vom 15. November 2013; Abl. Nr. 48/2013, Abl. Nr. 9/2014; Inkrafftreten: 01.03.14
 
 #### Art. 14
 
@@ -205,17 +196,11 @@ Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Statuts, ei
 <sup>2</sup> Das mündliche Examen erstreckt sich über folgende Bereiche:
 
 - a) das Notariatsrecht, die Standesregeln und die Führung einer Kanzlei;
-
 - b) das öffentliche Bundes- und Kantonsrecht;
-
 - c) das Zivilrecht des Bundes und des Kantons;
-
 - d) das Schuldbetreibungs- und Konkursrecht;
-
 - e) das internationale Privatrecht;
-
 - f) das kantonale Verwaltungs- und Zivilverfahren;
-
 - g) die allgemeinen Begriffe der kaufmännischen Buchführung.
 
 <sup>3</sup> Die Examenskommission erstellt für jedes Examen eine detaillierte Liste des Prüfungsstoffes.
@@ -228,7 +213,7 @@ Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Statuts, ei
 
 <sup>2</sup> Im Weiteren bestimmt der Staatsrat durch ein Reglement die Modalitäten und den Ablauf des Praktikums und des Examens.
 
-- b) Berufsausübungsbewilligung
+### 1.2.2 Berufsausübungsbewilligung
 
 #### Art. 16
 
@@ -246,20 +231,14 @@ Jede im vorliegenden Gesetz benutzte Bezeichnung einer Person, eines Statuts, ei
 
 **Bedingungen für die Notariatsausübung**
 
-Wer die Bewilligung zur Ausübung des Notariats verlangt, muss folgende Bedingungen erfüllen:
+<sup>1</sup> Wer die Bewilligung zur Ausübung des Notariats verlangt, muss folgende Bedingungen erfüllen:
 
 - a) Schweizerbürger sein und die volle Handlungsfähigkeit besitzen;
-
 - b) nicht strafrechtlich verurteilt sein wegen Handlungen, die mit der Ausübung oder der Würde des Berufs nicht zu vereinbaren sind und deren Eintrag im Strafregister nicht gelöscht ist;
-
 - c) sich weder im Konkurs befinden noch von einem provisorischen oder definitiven Verlustschein betroffen sein;
-
 - d) im Wallis wohnsässig sein und daselbst eine Kanzlei führen;
-
 - e) Inhaber des Walliser Notariatsdiploms sein;
-
 - f) eine genügende Berufshaftpflichtversicherung abgeschlossen und die vom Gesetz vorgesehene Sicherheit geleistet haben;
-
 - g) Mitglied des Walliser Notarenverbandes sein.
 
 #### Art. 18
@@ -274,18 +253,14 @@ Wer die Bewilligung zur Ausübung des Notariats verlangt, muss folgende Bedingun
 
 **Berufshaftpflichtversicherung und Sicherheiten**
 
-**ergebenden**
-
-<sup>1</sup> Zur Sicherstellung allfälliger sich aus der amtlichen oder mit dieser zusammenhängenden beruflichen Tätigkeit Schadensersatzansprüche hat der Notar:
+<sup>1</sup> Zur Sicherstellung allfälliger sich aus der amtlichen oder mit dieser zusammenhängenden beruflichen Tätigkeit ergebenden Schadensersatzansprüche hat der Notar:
 
 - a) eine genügende Berufshaftpflichtversicherung abzuschliessen;
-
 - b) zusätzliche genügende Garantien in Form von Sicherheiten zu leisten.
 
 <sup>2</sup> Der Staatsrat legt:
 
 - a) den minimalen Deckungsbetrag der Berufshaftpflichtversicherung fest;
-
 - b) den Betrag und die Modalitäten der Sicherheiten, die Regelung der Ansprüche gegenüber den Sicherheiten im Falle mehrerer Geschädigter und die Rückgabefrist für die Sicherheiten nach Beendigung der Berufstätigkeit fest.
 
 #### Art. 20
@@ -300,18 +275,13 @@ Wer die Bewilligung zur Ausübung des Notariats verlangt, muss folgende Bedingun
 
 **Unvereinbarkeitsgründe**
 
-Mit der notariellen Tätigkeit sind unvereinbar:
+<sup>1</sup> Mit der notariellen Tätigkeit sind unvereinbar:
 
 - a) die Funktionen und Anstellungen, die bei Gemeinwesen und öffentlichen Körperschaften sowie deren Anstalten ausgeübt werden;
-
 - b) die Funktion als Vorsteher oder Angestellter eines Betreibungs- und Konkursamtes, eines Grundbuchamtes oder eines Handelsregisteramtes;
-
 - c) der Verkauf, der Handel und die gewerbsmässige Vermittlung von Immobilien;
-
 - d) die gewerbsmässigen Bankgeschäfte und die gewerbsmässige Vermögensverwaltung;
-
 - e) der Erhalt einer vollständigen Ruhegehaltsleistung der 2. Säule durch eine öffentliche Kasse oder durch eine private Kasse, welche vom öffentlichen Gemeinwesen finanziert wird;
-
 - f) der Erhalt einer Ruhegehaltsrente der 2. Säule nach Vollendung des 65. Lebensjahrs durch eine öffentliche Kasse oder durch eine private Kasse, welche vom öffentlichen Gemeinwesen finanziert wird.
 
 #### Art. 22
@@ -321,11 +291,8 @@ Mit der notariellen Tätigkeit sind unvereinbar:
 <sup>1</sup> Die notarielle Tätigkeit ist namentlich vereinbar mit der gleichzeitigen Ausübung:
 
 - a) eines nebenamtlichen Lehrauftrags;
-
 - b) eines politischen Mandats in Teilzeit;
-
 - c) der Funktion des Gemeinderichters oder des Suppleanten eines Gerichtsmagistraten oder als Mitglied einer kommunalen, kantonalen oder eidgenössischen Verwaltungskommission;
-
 - d) der Funktion eines juristischen Schreibers einer Gemeindebehörde, einer interkommunalen Behörde oder der Vormundschaftskammer.
 
 <sup>2</sup> Sofern er in eigenem Namen handelt, ist der Notar im Übrigen ermächtigt, amtlich oder in privatem Auftrag Immobilien und Güter zu verwalten.
@@ -338,13 +305,12 @@ Mit der notariellen Tätigkeit sind unvereinbar:
 
 <sup>2</sup> Jeder Notar übt seine Tätigkeit in eigener Verantwortung aus.
 
-<sup>3</sup> Im Falle der Kanzleigemeinschaft hat der Notar a) seine Verzeichnisse, Urkunden, die ihm anvertrauten handschriftlichen Testamente und andere Dokumente sowie die Kopien der im Original ausgehändigten Urkunden separat zu führen. Er bewahrt als Beilage zu seinen Urkunden alle darin erwähnten Belege auf;
+<sup>3</sup> Im Falle der Kanzleigemeinschaft hat der Notar
 
-- b) die Buchhaltung seiner amtlichen und beruflichen Tätigkeit (Art. 42 und
+- a) seine Verzeichnisse, Urkunden, die ihm anvertrauten handschriftlichen Testamente und andere Dokumente sowie die Kopien der im Original ausgehändigten Urkunden separat zu führen. Er bewahrt als Beilage zu seinen Urkunden alle darin erwähnten Belege auf;
+- b) die Buchhaltung seiner amtlichen und beruflichen Tätigkeit (Art. 42 und 43) getrennt zu führen.
 
-- 43) getrennt zu führen.
-
-- c) Ende der Berufsausübung
+### 1.2.3 Ende der Berufsausübung
 
 #### Art. 24
 
@@ -361,21 +327,17 @@ Mit der notariellen Tätigkeit sind unvereinbar:
 <sup>1</sup> Bei Beendigung der Berufsausübung hat das Departement:
 
 - a) die notwendigen Publikationen im Amtsblatt anzuordnen;
-
 - b) den Inspektor zu ernennen, der für die Sicherstellung der Akten und das Liquidationsverfahren verantwortlich ist.
 
 <sup>2</sup> Unter Vorbehalt der dem Departement und dem Liquidationsnotar übertragenen Aufgaben erlässt der Inspektor die erforderlichen Anordnungen hinsichtlich:
 
 - a) der Sicherstellung der Verzeichnisse, der Urschriften, der handschriftlichen Testamente oder der anderen anvertrauten Akten, der Kopien der im Original ausgehändigten Urkunden sowie aller in diesen Urkunden erwähnten Belege;
-
 - b) der Befugnis zur Auflösung der Kanzlei.
 
 <sup>3</sup> In allen Fällen und unverzüglich hat der Inspektor:
 
 - a) eine Feststellung über die Führung der Verzeichnisse und der Buchhaltung zu treffen;
-
 - b) das Inventar der nicht eingetragenen Urkunden und der hängigen Fälle zu erstellen;
-
 - c) zuhanden des Departements einen Bericht zu erstellen.
 
 <sup>4</sup> Gestützt auf den Schlussbericht des Inspektors oder des Liquidationsnotars stellt das Departement mittels Entscheid fest, dass das Liquidationsverfahren beendet ist.
@@ -387,13 +349,9 @@ Mit der notariellen Tätigkeit sind unvereinbar:
 <sup>1</sup> Bei Beendigung der Berufsausübung muss der Notar:
 
 - a) seine Kanzlei schliessen;
-
 - b) die nicht eingetragenen Urkunden innert nützlicher Frist erledigen;
-
 - c) die Rechnung der Kanzlei abschliessen;
-
 - d) dem Departement das amtliche Siegel und die Berufsausübungsbewilligung zurückgeben;
-
 - e) mit dem Inspektor und dem Liquidationsnotar zusammenarbeiten.
 
 <sup>2</sup> Er muss dem Inspektor innert der vom Departement angesetzten Frist die Verzeichnisse, die Urschriften, die handschriftlichen Testamente oder die anderen anvertrauten Akten, die Kopien der im Original ausgehändigten Urkunden sowie alle in diesen Urkunden erwähnten Belege aushändigen.
@@ -407,7 +365,6 @@ Mit der notariellen Tätigkeit sind unvereinbar:
 <sup>1</sup> Das Departement bestimmt einen Liquidationsnotar:
 
 - a) wenn der Notar seinen Pflichten bei der Beendigung seiner Berufstätigkeit nicht nachkommt;
-
 - b) wenn die Beendigung der Berufstätigkeit auf den Todesfall, den Entzug der Ausübungsbewilligung oder die Amtsenthebung zurückzuführen ist.
 
 <sup>2</sup> Ausser beim Vorliegen wichtiger Gründe ist jeder praktizierende Notar verpflichtet, das Amt des Liquidationsnotars anzunehmen.
@@ -423,19 +380,12 @@ Mit der notariellen Tätigkeit sind unvereinbar:
 <sup>1</sup> Der Liquidationsnotar hat die amtliche Aufgabe, die Urkunden sicherzustellen und aufzubewahren. Sie besteht insbesondere in:
 
 - a) der Erfüllung aller Formalitäten zur Wahrung des öffentlichen Interesses;
-
 - b) der Sicherung der Titel, Dokumente und Werte;
-
 - c) der Erledigung der laufenden Geschäfte, insbesondere der Vornahme der auf die Beurkundung folgenden Formalitäten;
-
 - d) der Aushändigung der Abschriften an die Rechtsnachfolger und der Beglaubigung von Kopien;
-
 - e) der Nachführung der Verzeichnisse;
-
 - f) dem Inkasso der tarifkonformen Gebühren für die hängigen Urkunden;
-
 - g) der Entnahme des für die Eintragung einer bestimmten Urkunde vorgeschossenen Betrages aus dem Betriebskonto;
-
 - h) der Führung der Buchhaltung betreffend das hängige Verfahren.
 
 <sup>2</sup> Am Ende seiner Tätigkeit erstattet der Liquidationsnotar dem Departement Bericht. Dieses befreit ihn von seinem Auftrag mit der Genehmigung des Berichtes.
@@ -453,14 +403,13 @@ Mit der notariellen Tätigkeit sind unvereinbar:
 <sup>4</sup> Der Liquidationsnotar verlangt die Bezahlung beim ersetzten Notar oder dessen Rechtsnachfolger. Bei Zahlungsunfähigkeit des Schuldners:
 
 - a) bezahlt das Departement dem Liquidationsnotar seine Kosten und Honorare;
-
 - b) kann es vom ersetzten Notar oder dessen Rechtsnachfolger die Rückzahlung der erbrachten Leistung verlangen. Die Rückforderungsklage verjährt mit Ablauf von zehn Jahren seit dem Departementsentscheid, mit welchem der Liquidationsnotar von seinem Auftrag befreit wird.
 
 #### Art. 30
 
 **Dauerhafte Verhinderung**
 
-Ist ein Notar dauernd verhindert seine Tätigkeit auszuüben, sind die Bestimmungen über die Beendigung der Berufsausübung analog anwendbar.
+<sup>1</sup> Ist ein Notar dauernd verhindert seine Tätigkeit auszuüben, sind die Bestimmungen über die Beendigung der Berufsausübung analog anwendbar.
 
 #### Art. 31
 
@@ -470,7 +419,7 @@ Ist ein Notar dauernd verhindert seine Tätigkeit auszuüben, sind die Bestimmun
 
 <sup>2</sup> Die Bestimmungen über die Beendigung der Berufsausübung sind analog auf die Beendigung der hängigen Geschäfte anwendbar.
 
-### 3. Abschnitt: Allgemeine Pflichten des Notars
+### 1.3 Allgemeine Pflichten des Notars
 
 #### Art. 32
 
@@ -487,7 +436,6 @@ Ist ein Notar dauernd verhindert seine Tätigkeit auszuüben, sind die Bestimmun
 <sup>1</sup> Der Notar unterlässt jede Art von Kundenakquisition und öffentlicher Werbung. Ausgenommen sind:
 
 - a) die üblichen erlaubten Anzeigen, namentlich bei Kanzleieröffnung, Adressenwechsel oder Änderungen in der Bürogemeinschaft;
-
 - b) die durch den Notarenverband im Interesse des Berufes organisierte gemeinsame Werbung.
 
 <sup>2</sup> Er enthält sich ebenfalls jeglicher Art von Abmachungen, welche Klienten an der freien Notarswahl hindern.
@@ -496,7 +444,7 @@ Ist ein Notar dauernd verhindert seine Tätigkeit auszuüben, sind die Bestimmun
 
 **Urkundspflicht - Grundsatz**
 
-Der Notar ist verpflichtet seine Dienste anzubieten, wenn er darum ersucht wird und der Gegenstand in seine Zuständigkeit fällt.
+<sup>1</sup> Der Notar ist verpflichtet seine Dienste anzubieten, wenn er darum ersucht wird und der Gegenstand in seine Zuständigkeit fällt.
 
 #### Art. 35
 
@@ -505,9 +453,7 @@ Der Notar ist verpflichtet seine Dienste anzubieten, wenn er darum ersucht wird 
 <sup>1</sup> Der Notar muss seine Dienste verweigern:
 
 - a) wenn ihm das Gesetz diese verbietet;
-
 - b) wenn der Urkundeninhalt rechtswidrig ist, gegen die öffentliche Ordnung oder die guten Sitten verstösst, wenn es sich um ein Scheingeschäft handelt oder die Urkunde Rechte Dritter verletzt;
-
 - c) wenn eine zur Teilnahme an der Beurkundung verpflichtete Person offensichtlich urteilsunfähig ist.
 
 <sup>2</sup> Der Notar kann seine Dienste verweigern, wenn ihn objektive und wichtige Gründe an der Beurkundung hindern. Es handelt sich namentlich um Verhinderungen im Zusammenhang mit der Erfüllung gesetzlicher Verpflichtungen, Krankheit oder begründeter Absenz.
@@ -519,13 +465,9 @@ Der Notar ist verpflichtet seine Dienste anzubieten, wenn er darum ersucht wird 
 <sup>1</sup> Dem Notar ist es verboten eine Urkunde zu errichten:
 
 - a) bei der er selbst Beteiligter, Vertreter oder Vollmachtgeber ist, als Bevollmächtigter diese Vollmacht an Dritte substituiert, oder wenn die Urkunde eine Bestimmung zu seinen Gunsten enthält. Vorbehalten bleibt der Auftrag zur Vornahme der mit der Beurkundung zusammenhängenden Folgehandlungen oder seine Bezeichnung als Testamentsvollstrecker;
-
 - b) in welcher Verwandte oder Verschwägerte des Notars in gerader Linie in allen Graden und in der Seitenlinie bis zum dritten Grad einschliesslich beteiligt sind. Der Vormund, Beirat und Bevollmächtigte gilt nicht als beteiligte Person;
-
 - c) betreffend eine Kollektiv- oder Kommanditgesellschaft, der er als Gesellschafter angehört oder wenn einer der Gesellschafter ein Verwandter oder Verschwägerter bis zum dritten Grad einschliesslich ist;
-
 - d) betreffend eine juristische Person, deren Verwaltung oder Vertretung nach aussen ihm allein oder zusammen mit anderen Personen zukommt;
-
 - e) wenn ihn die Urkunde als Exekutivorgan eines öffentlichen Gemeinwesens betrifft.
 
 <sup>2</sup> Der Notar kann keine Gesellschaftsbeschlüsse beurkunden, wenn er selber abstimmen will oder wenn er für Dritte als gesetzlicher Vertreter oder gestützt auf eine Vollmacht handelt; im Übrigen bleibt der Ausstandsgrund von Absatz 1 Buchstabe d vorbehalten.
@@ -545,11 +487,8 @@ Der Notar ist verpflichtet seine Dienste anzubieten, wenn er darum ersucht wird 
 <sup>2</sup> Er muss insbesondere unter Verwendung der geeigneten Mittel:
 
 - a) die Identität der Parteien und deren Handlungsfähigkeit prüfen;
-
 - b) die Identität, die Fähigkeit und die Vollmachten der Vertreter oder eventuell Beteiligter prüfen;
-
 - c) den wirklichen Parteiwillen abklären und diesen genau abfassen;
-
 - d) jede Feststellung unterlassen, von der er weiss, dass sie ungenau ist.
 
 <sup>3</sup> Die Urkunde ist wahrheitsgetreu und klar abzufassen.
@@ -585,12 +524,8 @@ Der Notar ist verpflichtet seine Dienste anzubieten, wenn er darum ersucht wird 
 <sup>3</sup> Das Berufsgeheimnis entfällt:
 
 - a) wenn sämtliche Beteiligten den Notar davon entbinden;
-
-- b) wenn der Notar auf sein Gesuch hin vom Departement vom Berufsgeheimnis entbunden wurde. Diese Bewilligung wird nur erteilt, wenn die Entbindung zum Schutze eines überwiegenden öffentlichen oder privaten Interesses zwingend erforderlich ist;[^40-1]
-
+- b) wenn der Notar auf sein Gesuch hin vom Departement vom Berufsgeheimnis entbunden wurde. Diese Bewilligung wird nur erteilt, wenn die Entbindung zum Schutze eines überwiegenden öffentlichen oder privaten Interesses zwingend erforderlich ist;
 - c) wenn die richtige Erfüllung seiner beruflichen Verpflichtungen die Bekanntgabe an Dritte erfordert.
-
-[^40-1]: Fassung gemäss Ziff. IX des Gesetzes betreffend die Änderung der Rechtspflegeordnung vom 9. Nov. 2006. In Kraft seit 1. Juli 2007 (GS/VS 2007, 64 und 491)
 
 #### Art. 41
 
@@ -636,9 +571,9 @@ Der Notar ist verpflichtet seine Dienste anzubieten, wenn er darum ersucht wird 
 
 **Information der Öffentlichkeit**
 
-Der Notarenverband oder das Departement informieren die Öffentlichkeit periodisch über die allgemeinen Pflichten des Notars.
+<sup>1</sup> Der Notarenverband oder das Departement informieren die Öffentlichkeit periodisch über die allgemeinen Pflichten des Notars.
 
-### 4. Abschnitt: Entschädigung der Notare
+### 1.4 Entschädigung der Notare
 
 #### Art. 46
 
@@ -647,13 +582,9 @@ Der Notarenverband oder das Departement informieren die Öffentlichkeit periodis
 <sup>1</sup> Der Notar hat Anspruch auf:
 
 - a) eine verhältnismässige oder feste Grundgebühr;
-
 - b) eine Stundengebühr für Vorkehren, Handlungen und Formalitäten, welche ausnahmsweise für die Beurkundung einer komplexen Urkunde erforderlich sind;
-
 - c) die Rückerstattung seiner Auslagen;
-
 - d) die Leistung eines Kostenvorschusses für seine Entschädigung;
-
 - e) einen Auslagenvorschuss für die geschuldeten öffentlichen Abgaben.
 
 <sup>2</sup> Vorbehalten bleiben die gestützt auf einen Auftrag geschuldeten Honorare für nicht amtliche Tätigkeiten. Diese müssen Gegenstand einer eigenen Abrechnung sein.
@@ -692,19 +623,19 @@ Der Notarenverband oder das Departement informieren die Öffentlichkeit periodis
 
 **Maximalgebühr**
 
-Die Maximalgebühr, welche gleichzeitig die Grundgebühr und die Stundengebühr beinhaltet, darf 100'000 Franken nicht überschreiten.
+<sup>1</sup> Die Maximalgebühr, welche gleichzeitig die Grundgebühr und die Stundengebühr beinhaltet, darf 100'000 Franken nicht überschreiten.
 
 #### Art. 51
 
 **Vertragliche Gebühr**
 
-Für Urkunden, die der Form der öffentlichen Beurkundung nicht bedürfen, denen aber die Parteien diese Form geben wollen, werden die Gebühren vor der Beurkundung vertraglich und gemäss den Schwierigkeiten des Rechtsgeschäftes festgelegt.
+<sup>1</sup> Für Urkunden, die der Form der öffentlichen Beurkundung nicht bedürfen, denen aber die Parteien diese Form geben wollen, werden die Gebühren vor der Beurkundung vertraglich und gemäss den Schwierigkeiten des Rechtsgeschäftes festgelegt.
 
 #### Art. 52
 
 **Anpassung der Gebühren**
 
-Der Staatsrat kann auf dem Beschlussweg die Höhe der Gebühren dem Schweizerischen Landesindex der Konsumentenpreise anpassen.
+<sup>1</sup> Der Staatsrat kann auf dem Beschlussweg die Höhe der Gebühren dem Schweizerischen Landesindex der Konsumentenpreise anpassen.
 
 #### Art. 53
 
@@ -723,44 +654,36 @@ Der Staatsrat kann auf dem Beschlussweg die Höhe der Gebühren dem Schweizerisc
 <sup>2</sup> Die Rechnung präzisiert:
 
 - a) die Bezeichnung der Urkunde, die entscheidenden Vertragswerte und die angewendete Grundgebühr;
-
 - b) die Stundengebühr nach Zeitaufwand;
-
 - c) die Auslagen.
 
 #### Art. 55
 
 **Zahlung der Gebühren, Stundengebühren und Auslagen**
 
-Die Parteien haften dem Notar solidarisch für die Bezahlung der Gebühren, Stundengebühren und Auslagen.
-
-[^55-1]: Fassung gemäss Art. 10 Ziff. 5 des Einführungsgesetzes zur Schweizerischen Zivilprozessordnung (EGZPO) vom 11. Feb. 2009. In Kraft seit 1. Jan. 2011 (Abl. Nr. 26/2010)
+<sup>1</sup> Die Parteien haften dem Notar solidarisch für die Bezahlung der Gebühren, Stundengebühren und Auslagen.
 
 #### Art. 56
 
-**Streitigkeiten - Grundsätze[^55-1]**
+**Streitigkeiten - Grundsätze**
 
 <sup>1</sup> Der Zivilrichter beurteilt die Klage des Notars betreffend Gebühren, Auslagen oder Rückerstattung von Kostenvorschüssen.
 
 <sup>2</sup> Die Schweizerische Zivilprozessordnung ist anwendbar.
 
+<sup>3</sup> …
+
+<sup>4</sup> …
+
 #### Art. 57
 
-**Streitigkeiten - Verfahren**
-
-...[^57-1]
-
-[^57-1]: Aufgehoben durch Art. 10 Ziff. 5 des Einführungsgesetzes zur Schweizerischen Zivilprozessordnung (EGZPO) vom 11. Feb. 2009. In Kraft seit 1. Jan. 2011 (Abl. Nr. 26/2010)
+**…**
 
 #### Art. 58
 
-**Streitigkeiten - Entscheid**
+**…**
 
-...[^58-1]
-
-[^58-1]: Aufgehoben durch Art. 10 Ziff. 5 des Einführungsgesetzes zur Schweizerischen Zivilprozessordnung (EGZPO) vom 11. Feb. 2009. In Kraft seit 1. Jan. 2011 (Abl. Nr. 26/2010)
-
-### 5. Abschnitt: Verwaltungsaufsicht
+### 1.5 Verwaltungsaufsicht
 
 #### Art. 59
 
@@ -769,22 +692,15 @@ Die Parteien haften dem Notar solidarisch für die Bezahlung der Gebühren, Stun
 <sup>1</sup> Der Verwaltungsaufsicht unterliegen:
 
 - a) die Zulassungsbedingungen zum Beruf;
-
 - b) die Führung der Verzeichnisse, die Aushändigung von Abschriften und die Aufbewahrung der Urschriften, handschriftlichen Testamente oder die anderen anvertrauten Akten, die Kopien der im Original ausgehändigten Urkunden sowie die in diesen Urkunden erwähnten Belege;
-
 - c) die Kontrolle der Urkunden, deren Eintragung nicht verlangt wurde;
-
 - d) die Kontrolle der Buchführung und der Aufbewahrung der im Rahmen der amtlichen Tätigkeit anvertrauten Wertsachen.
 
 <sup>2</sup> Vorbehalten bleiben:
 
 - a) die disziplinarische Aufsicht;
-
 - b) die Standesaufsicht;
-
-- c) die Kontrolle des Grundbuchverwalters über die Gültigkeit des Titels (Art.
-
-965 Abs. 3 ZGB).
+- c) die Kontrolle des Grundbuchverwalters über die Gültigkeit des Titels (Art. 965 Abs. 3 ZGB).
 
 #### Art. 60
 
@@ -793,9 +709,7 @@ Die Parteien haften dem Notar solidarisch für die Bezahlung der Gebühren, Stun
 <sup>1</sup> Das Departement übt die Verwaltungsaufsicht aus:
 
 - a) wenn es eine entsprechende Information erhält;
-
 - b) auf Klage hin;
-
 - c) nach Erhalt des Berichts des Inspektors.
 
 <sup>2</sup> Die Dienststelle für Grundbuchämter nimmt die Inspektionen vor; sie verfügt hierzu über Inspektoren mit Notariatsdiplom. Die Anzahl hängt von den Aufgaben ab, welche das Gesetz diesen überträgt.
@@ -809,19 +723,14 @@ Die Parteien haften dem Notar solidarisch für die Bezahlung der Gebühren, Stun
 <sup>1</sup> Die Inspektion dient der Überprüfung, ob:
 
 - a) der Notar die Bedingungen für die Berufsausübung erfüllt;
-
 - b) die Organisation der Kanzlei, die Geheimhaltung und eine würdige Ausübung der amtlichen Tätigkeit gewährleistet sind;
-
 - c) die Urkunden aufbewahrt und die Verzeichnisse in der vorgeschriebenen Form geführt werden;
-
 - d) für die nicht eingetragenen Urkunden sachliche Gründe vorliegen.
 
 <sup>2</sup> Im Übrigen prüft der Inspektor stichprobenweise ob der Notar:
 
 - a) die Abschriften gemäss der ihm obliegenden Pflicht raschmöglichst zustellt;
-
 - b) die Gebühren tarifkonform berechnet;
-
 - c) die Bestimmungen des vorliegenden Gesetzes betreffend die Führung der Buchhaltung und die Aufbewahrung der ihm im Rahmen seiner amtlichen Tätigkeit anvertrauten Wertgegenstände einhält.
 
 #### Art. 62
@@ -849,7 +758,6 @@ Die Parteien haften dem Notar solidarisch für die Bezahlung der Gebühren, Stun
 <sup>4</sup> Nach Prüfung des Berichts klassiert das Departement diesen oder eröffnet:
 
 - a) ein administratives Verfahren zur Einhaltung des Gesetzes (Art. 65);
-
 - b) ein Disziplinarverfahren (Art. 67 ff.).
 
 #### Art. 64
@@ -866,31 +774,25 @@ Die Parteien haften dem Notar solidarisch für die Bezahlung der Gebühren, Stun
 
 **Aufsichtsmassnahmen**
 
-Um die Einhaltung des Gesetzes zu garantieren, kann das Departement die eine oder andere der folgenden Massnahmen anordnen:
+<sup>1</sup> Um die Einhaltung des Gesetzes zu garantieren, kann das Departement die eine oder andere der folgenden Massnahmen anordnen:
 
 - a) die Verwarnung;
-
 - b) die Aufforderung zu einer Handlung oder Unterlassung;
-
-- c) die Aufforderung zu einer Handlung oder Unterlassung, verbunden mit einer strafrechtlichen Sanktion im Falle der Nichtbeachtung im Sinne von Artikel 292 StGB;
-
+- c) die Aufforderung zu einer Handlung oder Unterlassung, verbunden mit einer strafrechtlichen Sanktion im Falle der Nichtbeachtung im Sinne von Artikel 292 des Schweizerischen Strafgesetzbuches;
 - d) den Entzug der Berufausübungsbewilligung;
-
-- e) die zwangsweise Vornahme im Sinne der Artikel 37 ff. des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege.
+- e) die zwangsweise Vornahme im Sinne der Artikel 37 und folgende des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege.
 
 #### Art. 66
 
 **Vorsorgliche Massnahme**
 
-Das Departement kann ausnahmsweise vorsorglich die Berufsausübungsbewilligung entziehen, wenn sich der Notar offensichtlich in einer Situation befindet, die mit der Ausübung der ihm anvertrauten amtlichen Tätigkeit nicht mehr vereinbar ist, namentlich aufgrund:
+<sup>1</sup> Das Departement kann ausnahmsweise vorsorglich die Berufsausübungsbewilligung entziehen, wenn sich der Notar offensichtlich in einer Situation befindet, die mit der Ausübung der ihm anvertrauten amtlichen Tätigkeit nicht mehr vereinbar ist, namentlich aufgrund:
 
 - a) eines Entmündigungsverfahrens;
-
-- b) einer Strafverfolgung wegen gravierenden Handlungen (Art. 17 lit.b) , auf Vorschlag des Staatsanwaltes;
-
+- b) einer Strafverfolgung wegen gravierenden Handlungen (Art. 17 Bst. b) , auf Vorschlag des Staatsanwaltes;
 - c) eines Gesuchs um Nachlassstundung, bis zum Entscheid darüber.
 
-### 6. Abschnitt: Disziplinarische Aufsicht
+### 1.6 Disziplinarische Aufsicht
 
 #### Art. 67
 
@@ -909,13 +811,9 @@ Das Departement kann ausnahmsweise vorsorglich die Berufsausübungsbewilligung e
 <sup>1</sup> Die Disziplinarbehörde kann folgende Sanktionen aussprechen:
 
 - a) einen Verweis;
-
 - b) eine Busse bis 10'000 Franken;
-
 - c) eine Geldstrafe bis zum fünffachen des zu viel erhobenen oder nicht erhobenen Betrages im Falle des unlauteren Wettbewerbs bei der Anwendung des Gebührentarifs;
-
 - d) die Einstellung der Berufstätigkeit von sechs Monaten bis zu zwei Jahren;
-
 - e) die endgültige Amtsenthebung.
 
 <sup>2</sup> Die disziplinarische Sanktion wird aufgrund der Schwere des Verschuldens des Notars, seines Vorlebens und der gefährdeten oder verletzten Interessen festgesetzt.
@@ -957,38 +855,35 @@ Das Departement kann ausnahmsweise vorsorglich die Berufsausübungsbewilligung e
 <sup>1</sup> Die Aufsichtskammer über die Notare ergreift, auf eine Beschwerde hin oder von Amtes wegen, alle Massnahmen, die ihr zur Verhinderung oder Ahndung von Verletzungen der Berufswürde geeignet erscheinen. Zu diesem Zweck kann sie bei schuldhaftem Verhalten folgende Sanktionen vorsehen:
 
 - a) einen Verweis;
-
 - b) eine Busse bis zu 10'000 Franken, welche auf das Konto des Kantons zu überweisen ist;
-
 - c) die Einstellung der Berufsausübung von sechs Monaten bis zu zwei Jahren;
-
 - d) den Ausschluss aus dem Notarenverband.
 
 <sup>2</sup> Die Bestimmungen des vorliegenden Gesetzes über das Disziplinarverfahren und seine Verwirkung sind analog anwendbar.
 
 <sup>3</sup> Der Notar, der mit derselben Handlung sowohl gegen das Gesetz als auch das Ansehen des Notariatsstandes verstösst, bildet Gegenstand eines einzigen vom Departement geführten Disziplinarverfahrens. Das Departement hört die Aufsichtskammer an.
 
-### 2. Kapitel: Das Beurkundungsverfahren
+## 2 Das Beurkundungsverfahren
 
-### 1. Abschnitt: Die öffentliche Urkunde
+### 2.1 Die öffentliche Urkunde
 
 #### Art. 72
 
 **Definition**
 
-Jede vom Notar erstellte Urkunde ist eine öffentliche Urkunde, einschliesslich die Urkunde über die Feststellung einer Tatsache.
+<sup>1</sup> Jede vom Notar erstellte Urkunde ist eine öffentliche Urkunde, einschliesslich die Urkunde über die Feststellung einer Tatsache.
 
 #### Art. 73
 
 **Beurkundungsverfahren**
 
-Unter Vorbehalt anderer bundes- und kantonsrechtlicher Bestimmungen muss die öffentliche Urkunde gemäss den in diesem Gesetz vorgesehenen Verfahren errichtet werden.
+<sup>1</sup> Unter Vorbehalt anderer bundes- und kantonsrechtlicher Bestimmungen muss die öffentliche Urkunde gemäss den in diesem Gesetz vorgesehenen Verfahren errichtet werden.
 
 #### Art. 74
 
 **Urschrift**
 
-Unter Urschrift versteht man die öffentliche Urkunde, deren Original samt den dazugehörenden Belegen beim Notar verwahrt wird.
+<sup>1</sup> Unter Urschrift versteht man die öffentliche Urkunde, deren Original samt den dazugehörenden Belegen beim Notar verwahrt wird.
 
 #### Art. 75
 
@@ -999,23 +894,14 @@ Unter Urschrift versteht man die öffentliche Urkunde, deren Original samt den d
 <sup>2</sup> Nur folgende Urkunden dürfen im Original ausgeliefert werden:
 
 - a) die Wechselproteste;
-
 - b) die Streichungen;
-
 - c) die Quittungen;
-
 - d) die Hinterlegungsurkunden;
-
 - e) die Unterschriftenbeglaubigungen;
-
 - f) die beglaubigten Kopien;
-
 - g) die Vollmachten;
-
 - h) die Feststellungen;
-
 - i) die Offenkundigkeitsurkunden;
-
 - j) die eidesstattlichen Erklärungen.
 
 #### Art. 76
@@ -1035,7 +921,6 @@ Unter Urschrift versteht man die öffentliche Urkunde, deren Original samt den d
 <sup>2</sup> Ausnahmen gelten für:
 
 - a) Urkunden, welche letztwillige Verfügungen enthalten;
-
 - b) Urkunden, die krankheitshalber dringlich sind. In diesem Fall muss ein der Urkunde beigelegtes Arztzeugnis die Dringlichkeit bescheinigen.
 
 #### Art. 78
@@ -1067,21 +952,13 @@ Der Beizug eines Dolmetschers ist erforderlich, wenn der Notar oder ein diese Sp
 <sup>1</sup> Die öffentliche Urkunde muss nebst dem öffentlich zu beurkundenden Gegenstand enthalten:
 
 - a) den Vornamen und Namen des Notars sowie den Sitz seiner Kanzlei;
-
 - b) den Ort und das Datum (Tag, Monat, Jahr) der Beurkundung;
-
 - c) den Vornamen, den Namen, das Geburtsdatum, den Namen des Vaters, den Zivilstand, den Burgerort oder die Nationalität, den Wohnsitz und die Adresse der Parteien;
-
 - d) die Gesellschaftsform, den Sitz und die Rechtsform der juristischen Personen gemäss beigelegtem Auszug des Handelsregisters oder der Statuten;
-
 - e) den Vornamen, den Namen, das Geburtsdatum und den Wohnsitz der Vertreter mit Angabe des Vertretungsverhältnisses sowie den Vornamen, den Namen, das Geburtsdatum und den Wohnsitz der Zeugen und der Nebenpersonen des Notars;
-
 - f) die Erwähnung der Vollmachten sowie der Bewilligungen, Registerauszüge und anderen notwendigen Dokumente;
-
 - g) die Willenserklärungen der Parteien oder die festgestellten Tatsachen;
-
 - h) die Bestätigung der Erfüllung der für die Beurkundung von Willenserklärungen vorgesehenen Formalitäten;
-
 - i) die Unterschrift aller an der Beurkundung beteiligten Personen, ausser in den gesetzlich vorgesehenen Ausnahmen.
 
 <sup>2</sup> Wenn die Urkunde ein Grundstück betrifft, muss diese im Akt genau bezeichnet werden.
@@ -1132,39 +1009,35 @@ Der Beizug eines Dolmetschers ist erforderlich, wenn der Notar oder ein diese Sp
 
 **Erstellung der Urkunde**
 
-Die verschiedenen Blätter einer Urkunde sowie die in der Urkunde erwähnten Belege müssen in einem Dokument vereinigt sein und ein Ganzes bilden.
+<sup>1</sup> Die verschiedenen Blätter einer Urkunde sowie die in der Urkunde erwähnten Belege müssen in einem Dokument vereinigt sein und ein Ganzes bilden.
 
 #### Art. 85
 
-Nichtbeachtung der öffentlichen Beurkundungsform - im Allgemeinen
+**Nichtbeachtung der öffentlichen Beurkundungsform - im Allgemeinen**
 
 <sup>1</sup> Die notarielle Urkunde wird nicht öffentlich:
 
 - a) wenn sie von einem nicht zur Berufsausübung berechtigten oder suspendierten Notar beurkundet wird;
-
 - b) wenn sie von einem Notar errichtet wird, der nicht zuständig ist im Sinne von Artikel 4;
-
 - c) wenn die Bestimmungen der Artikel 78, 79 Absätze 1 und 2 zweiter Paragraph, 80, 81 Absatz 1, 87 Absatz 2, 90, 92, 93, 96 Absätze 1 und 2, 97 Absätze 1, 2 und 6 sowie Artikel 98 nicht beachtet wurden, oder wenn Artikel 195 Absatz 4 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch nicht beachtet wurde.
 
 <sup>2</sup> Die von einem im Sinne von Artikel 36 Absatz 1, 2 und 4 nicht ermächtigten Notar oder in Verletzung der Artikel 79 Absatz 2 erster Paragraph, 88 Absatz 2 und 89 Absatz 2 errichtete notarielle Urkunde kann gerichtlich, auf Gesuch einer Partei oder deren Rechtsnachfolger innert der Frist von zwei Jahren seit der Beurkundung, annulliert werden.
 
 <sup>3</sup> Die Verletzung einer Formvorschrift bewirkt die Verantwortlichkeit des Notars, unabhängig von der Gültigkeit der Urkunde.
 
-<sup>4</sup> ...[^85-1]
-
-[^85-1]: Aufgehoben durch Art. 10 Ziff. 5 des Einführungsgesetzes zur Schweizerischen Zivilprozessordnung (EGZPO) vom 11. Feb. 2009. In Kraft seit 1. Jan. 2011 (Abl. Nr. 26/2010)
+<sup>4</sup> …
 
 #### Art. 86
 
-Nichtbeachtung der öffentlichen Beurkundungsform - besondere Fälle Die öffentliche Beurkundungsform ist trotzdem eingehalten:
+**Nichtbeachtung der öffentlichen Beurkundungsform - besondere Fälle**
+
+<sup>1</sup> Die öffentliche Beurkundungsform ist trotzdem eingehalten:
 
 - a) wenn der Beurkundungsort und das Beurkundungsdatum nicht gesetzeskonform bezeichnet werden, die Urkunde aber räumlich und zeitlich so bestimmt werden kann, dass jeder Zweifel ausgeschlossen ist;
-
 - b) wenn der Urkundsgegenstand oder die an der Beurkundung beteiligten Personen nicht gesetzeskonform, jedoch genügend genau bezeichnet sind, um jeden diesbezüglichen Zweifel auszuschliessen;
-
 - c) wenn die Vorschrift von Artikel 80 Absatz 1 Buchstabe f nicht eingehalten wurde.
 
-### 2. Abschnitt: Die an der Urkunde beteiligten Personen
+### 2.2 Die an der Urkunde beteiligten Personen
 
 #### Art. 87
 
@@ -1191,9 +1064,7 @@ Nichtbeachtung der öffentlichen Beurkundungsform - besondere Fälle Die öffent
 <sup>2</sup> Als Zeugen können nicht auftreten:
 
 - a) Personen, die nicht handlungsfähig sind;
-
 - b) Personen, die weder lesen noch schreiben können;
-
 - c) die Nachkommen, Vorfahren, Brüder und Schwestern der Parteien, deren Ehegatten und die Ehegatten der Parteien oder Komparenten.
 
 #### Art. 89
@@ -1206,7 +1077,7 @@ Nichtbeachtung der öffentlichen Beurkundungsform - besondere Fälle Die öffent
 
 <sup>3</sup> Der Notar muss sich auf zweckmässige Weise über die Fähigkeiten dieser Nebenpersonen vergewissern und diese auf deren Pflichten aufmerksam machen.
 
-### 3. Abschnitt: Beurkundung von Willenserklärungen
+### 2.3 Beurkundung von Willenserklärungen
 
 #### Art. 90
 
@@ -1246,17 +1117,17 @@ Nichtbeachtung der öffentlichen Beurkundungsform - besondere Fälle Die öffent
 
 **Einheit der Urkunde**
 
-<sup>1</sup> Unter Vorbehalt gegenteiliger gesetzlicher Bestimmungen, insbesondere Artikel 501 und 502 ZGB, müssen die an der Beurkundung beteiligten Personen während der ganzen Dauer der Beurkundung anwesend sein.
+<sup>1</sup> Unter Vorbehalt gegenteiliger gesetzlicher Bestimmungen, insbesondere Artikel 501 und 502 des Schweizerischen Zivilgesetzbuches, müssen die an der Beurkundung beteiligten Personen während der ganzen Dauer der Beurkundung anwesend sein.
 
 <sup>2</sup> Die Lesung und die Unterzeichnung der Urkunde folgen sich ohne Unterbruch in Gegenwart aller Komparenten.
 
-### 4. Abschnitt: Beurkundung von Feststellungen
+### 2.4 Beurkundung von Feststellungen
 
 #### Art. 94
 
 **Beglaubigung von Unterschriften**
 
-Die Beglaubigung von Unterschriften wird im Einführungsgesetz zum Schweizerischen Zivilgesetzbuch geregelt.
+<sup>1</sup> Die Beglaubigung von Unterschriften wird im Einführungsgesetz zum Schweizerischen Zivilgesetzbuch geregelt.
 
 #### Art. 95
 
@@ -1285,9 +1156,7 @@ Die Beglaubigung von Unterschriften wird im Einführungsgesetz zum Schweizerisch
 <sup>2</sup> Die Urkunde über eine Versammlung enthält:
 
 - a) den Ort, das Datum und die Tageszeit, während welcher der Notar an der Versammlung teilgenommen hat;
-
 - b) die Feststellung des Vorsitzenden über die Einberufung, Konstituierung und Beschlussfähigkeit der Versammlung sowie die allfälligen Einwendungen gegen die Durchführung der Versammlung;
-
 - c) die Beschlüsse unter Angabe der Art des Abstimmungsverfahrens und der Abstimmungsresultate. Anträge und andere Erklärungen sind nur auf Verlangen des betreffenden Teilnehmers oder auf Beschluss der Versammlung in die Urkunde aufzunehmen.
 
 <sup>3</sup> Das Protokoll wird vom Notar, dem Vorsitzenden und dem Sekretär der Versammlung unterzeichnet.
@@ -1302,15 +1171,15 @@ Die Beglaubigung von Unterschriften wird im Einführungsgesetz zum Schweizerisch
 
 **Protokoll - Fernbeurkundung**
 
-Das Protokoll einer Generalversammlung oder einer Verwaltungsratssitzung kann gültig durch eine Fernbeurkundung öffentlich errichtet werden. Ein Reglement des Staatsrates regelt die Modalitäten der Fernbeurkundung.
+<sup>1</sup> Das Protokoll einer Generalversammlung oder einer Verwaltungsratssitzung kann gültig durch eine Fernbeurkundung öffentlich errichtet werden. Ein Reglement des Staatsrates regelt die Modalitäten der Fernbeurkundung.
 
-### 5. Abschnitt: Verzeichnisse, Aufbewahrung und Abschriften
+### 2.5 Verzeichnisse, Aufbewahrung und Abschriften
 
 #### Art. 99
 
 **Verzeichnisse - Rechtsnatur**
 
-Die Verzeichnisse, die der Notar über die von ihm errichteten öffentlichen Urkunden führen muss, stellen ihrerseits öffentliche Urkunden dar.
+<sup>1</sup> Die Verzeichnisse, die der Notar über die von ihm errichteten öffentlichen Urkunden führen muss, stellen ihrerseits öffentliche Urkunden dar.
 
 #### Art. 100
 
@@ -1319,9 +1188,7 @@ Die Verzeichnisse, die der Notar über die von ihm errichteten öffentlichen Urk
 <sup>1</sup> Der Notar führt folgende Verzeichnisse:
 
 - a) das Verzeichnis der Urschriften, in welchem alle Urkunden, deren Originale in seinem Besitz bleiben, eingetragen sind;
-
 - b) das Verzeichnis der im Original ausgehändigten Urkunden, in welchem er alle Urkunden, deren Originale an den Berechtigten übergeben wurden, eingetragen sind;
-
 - c) das Verzeichnis der letztwilligen Verfügungen, in welchem er alle öffentlichen Testamente, die Erbverträge und die ihm zur Aufbewahrung anvertrauten handschriftlichen Testamente einträgt.
 
 <sup>2</sup> Die beglaubigte Kopie, welche der Verwaltung übergeben wurde, sowie diejenige, deren Original im Besitz des Notars bleibt, muss nicht ins Verzeichnis der im Original ausgehändigten Urkunden eingetragen werden.
@@ -1337,23 +1204,16 @@ Die Verzeichnisse, die der Notar über die von ihm errichteten öffentlichen Urk
 <sup>3</sup> Die Verzeichnisse enthalten:
 
 - a) die Ordnungsnummer der Urkunde gemäss chronologischer Reihenfolge;
-
 - b) das Beurkundungsdatum;
-
 - c) die Personalien der Parteien;
-
 - d) einen kurzen Beschrieb des Urkundsgegenstandes;
-
 - e) den Stipulationswert;
-
 - f) die für die Beurkundung bezogenen Gebühren. Falls diese Gebühren aufgeteilt werden, muss der Notar den Grund und den Empfänger erwähnen.
 
 <sup>4</sup> Im Übrigen vermerkt der Notar im vorgeschriebenen Verzeichnis:
 
 - a) das Datum der Eintragung im Grundbuch für die sich auf dingliche Rechte beziehenden Urkunden;
-
 - b) das Datum der Anzeige an die Walliser Testamentenzentrale und an das Zentrale Testamentenregister der Urkunden betreffend die letztwilligen Verfügungen;
-
 - c) das Einregistrierungsdatum für alle anderen Urkunden.
 
 <sup>5</sup> Im Weiteren legt ein Reglement des Staatsrates die Vorschriften betreffend Form und Inhalt der Verzeichnisse fest.
@@ -1428,7 +1288,7 @@ Die Verzeichnisse, die der Notar über die von ihm errichteten öffentlichen Urk
 
 **Empfänger der Abschriften**
 
-<sup>1</sup> Grundsätzlich händigt der Notar all jenen Personen eine erste Abschrift aus, welchen die Urkunde Rechte oder Pflichten verleiht. Bei Schuldtiteln hingegen darf dem/n Gläubiger(n) insgesamt nur eine Abschrift ausgehändigt werden.
+<sup>1</sup> Grundsätzlich händigt der Notar all jenen Personen eine erste Abschrift aus, welchen die Urkunde Rechte oder Pflichten verleiht. Bei Schuldtiteln hingegen darf dem(n) Gläubiger(n) insgesamt nur eine Abschrift ausgehändigt werden.
 
 <sup>2</sup> Bei Testamenten oder Erbverträgen wird eine Abschrift nur dem Verfügenden oder den Vertragsschliessenden ausgehändigt.
 
@@ -1448,7 +1308,7 @@ Die Verzeichnisse, die der Notar über die von ihm errichteten öffentlichen Urk
 
 <sup>3</sup> Die Bestimmungen über die Wertpapiere bleiben vorbehalten.
 
-### 3. Kapitel: Straf-, Schluss- und Übergangsbestimmungen
+## 3 Straf-, Schluss- und Übergangsbestimmungen
 
 #### Art. 110
 
@@ -1474,33 +1334,34 @@ Die Verzeichnisse, die der Notar über die von ihm errichteten öffentlichen Urk
 
 **Übergangsbestimmungen - Notarspraktikant**
 
-Der Notariatspraktikant, der sein Praktikum vor Inkrafttreten des vorliegenden Gesetzes begonnen hat, wird dem alten Recht unterstellt.
+<sup>1</sup> Der Notariatspraktikant, der sein Praktikum vor Inkrafttreten des vorliegenden Gesetzes begonnen hat, wird dem alten Recht unterstellt.
 
 #### Art. 113
 
-Übergangsbestimmungen - Berufshaftpflicht und Sicherheiten Der Notar hat innert Jahresfrist nach Inkrafttreten des vorliegenden Gesetzes eine den Anforderungen von Artikel 19 genügende Berufshaftpflichtversicherung abzuschliessen und Sicherheiten zu hinterlegen.
+**Übergangsbestimmungen - Berufshaftpflicht und Sicherheiten**
+
+<sup>1</sup> Der Notar hat innert Jahresfrist nach Inkrafttreten des vorliegenden Gesetzes eine den Anforderungen von Artikel 19 genügende Berufshaftpflichtversicherung abzuschliessen und Sicherheiten zu hinterlegen.
 
 #### Art. 114
 
 **Übergangsbestimmungen - Unvereinbarkeiten**
 
-Der Notar hat innert drei Jahren nach Inkrafttreten des vorliegenden Gesetzes:
+<sup>1</sup> Der Notar hat innert drei Jahren nach Inkrafttreten des vorliegenden Gesetzes:
 
 - a) eine mit dem Notariatsberuf nicht mehr vereinbare Tätigkeit zu beenden;
-
 - b) im Rahmen von Artikel 21 Buchstaben e und f auf eine Ruhegehaltsrente der zweiten Säule, die von einer öffentlichen Kasse oder einer privaten Kasse, welche vom öffentlichen Gemeinwesen finanziert wird, zu verzichten.
 
 #### Art. 115
 
-**Übergangsbestimmungen - disziplinarische Aufsicht**
+**Übergangsbestimmungen - Disziplinarische Aufsicht**
 
-Die Nichtbeachtung von Bestimmungen zur Notariatsausübung wird nach dem zum Zeitpunkt der Tat geltenden Recht beurteilt. Wenn das vorliegende Gesetz eine weniger strenge Sanktion vorsieht, so ist es auch auf Taten, die vor dessen Inkrafttreten begangen wurden, anwendbar.
+<sup>1</sup> Die Nichtbeachtung von Bestimmungen zur Notariatsausübung wird nach dem zum Zeitpunkt der Tat geltenden Recht beurteilt. Wenn das vorliegende Gesetz eine weniger strenge Sanktion vorsieht, so ist es auch auf Taten, die vor dessen Inkrafttreten begangen wurden, anwendbar.
 
 #### Art. 116
 
 **Aufhebungen**
 
-Aufgehoben sind alle dem vorliegenden Gesetz widersprechenden Bestimmungen, insbesondere das Gesetz über das Notariat vom 15. Mai 1942.
+<sup>1</sup> Aufgehoben sind alle dem vorliegenden Gesetz widersprechenden Bestimmungen, insbesondere das Gesetz über das Notariat vom 15. Mai 1942.
 
 #### Art. 117
 
@@ -1508,12 +1369,20 @@ Aufgehoben sind alle dem vorliegenden Gesetz widersprechenden Bestimmungen, insb
 
 <sup>1</sup> Das vorliegende Gesetz ist dem fakultativen Referendum unterstellt.
 
-<sup>2</sup> Der Staatsrat ist mit der Ausführung des vorliegenden Gesetzes beauftragt und bestimmt dessen Inkrafttreten. Das Inkrafttreten der Alterslimite wird für drei Jahre aufgeschoben.[^117-1]
+<sup>2</sup> Der Staatsrat ist mit der Ausführung des vorliegenden Gesetzes beauftragt und bestimmt dessen Inkrafttreten. Das Inkrafttreten der Alterslimite wird für drei Jahre aufgeschoben.
 
-So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 15.
+## T1 Übergangsbestimmungen der Änderungen vom 9. September 2021
 
-Dezember 2004.
+#### Art. T1-1
 
-Der Präsident des Grossen Rates: Patrice Clivaz Der Chef des Parlamentsdienstes: Claude Bumann
+**Zulassungen zum Praktikum vor der Änderung vom 9. September 2021**
 
-[^117-1]: Genehmigt durch das Eidgenössische Justiz- und Polizeidepartement am 1.September 2005. Inkrafttreten am 1. Juli 2006 gemäss Beschluss vom 9. Nov. 2005 (GS/VS 2005,330)
+<sup>1</sup> Zulassungen zum Praktikum, die vor Inkrafttreten dieser Änderung erteilt wurden, unterliegen dem bisherigen Recht.
+
+#### Art. T1-2
+
+**Frist für das Bestehen der Prüfung**
+
+<sup>1</sup> Personen, die vor Inkrafttreten der Gesetzesänderung zum Praktikum zugelassen wurden, können während einer Übergangsfrist von 5 Jahren das alte Recht in Anspruch nehmen, um die Prüfung zu bestehen.
+
+CSW BO/Abl. 2/2005, 46/2005
