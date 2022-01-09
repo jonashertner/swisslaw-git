@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-01-06
+version: 2022-01-10
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220106/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220106-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220106/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220110/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220110-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220110/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220106/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 6 gennaio 2022) (Stato 6 gennaio 2022)
+del 4 giugno 2021 (Stato 10 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -38,18 +38,20 @@ La presente ordinanza disciplina:
 
   - 1\. l’avvenuta vaccinazione anti-COVID-19 (certificato di vaccinazione COVID-19),
   - 2\.[^1-2] la guarigione da un’infezione da SARS-CoV-2 (certificato di guarigione dalla COVID-19),
-  - 3\. un risultato negativo di un test per il rilevamento del SARS-CoV-2 (certificato di test COVID-19);
+  - 3\. un risultato negativo di un test per il rilevamento del SARS-CoV-2 (certificato di test COVID-19),
+  - 4\.[^1-3] che il titolare, per motivi medici, non può farsi vaccinare né testare (certificato di deroga COVID-19);
 
 - b. le direttive per la verifica di questi certificati;
 - c. il riconoscimento di certificati esteri equivalenti;
 - d. i sistemi d’informazione gestiti dalla Confederazione inerenti a questi certificati;
 - e. le applicazioni offerte dalla Confederazione ai titolari del certificato e alle persone incaricate della verifica;
 - f. i compiti dei Cantoni inerenti all’emissione e alla revoca dei certificati;
-- g.[^1-3] l’addebito delle spese ai richiedenti.
+- g.[^1-4] l’addebito delle spese ai richiedenti.
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^1-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^1-3]: Introdotta dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^1-3]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 10 gen 2022 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^1-4]: Introdotta dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 ## Sezione 2: Emissione, forma e revoca dei certificati COVID-19
 
@@ -263,12 +265,13 @@ Tutti i certificati COVID-19 contengono le seguenti informazioni di cui all’al
 I certificati COVID-19 leggibili senza mezzi ausiliari contengono inoltre le seguenti informazioni:
 
 - a. un’indicazione generale sulla rilevanza del certificato secondo l’allegato 1 numero 3;
-- b.[^12-2] per i certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3, i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 [...[^12-3]]: un’indicazione sulla validità temporanea e locale del certificato secondo l’allegato 1 numero 4.[^12-4]
+- b.[^12-2] per i certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3[^12-3], i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 e i certificati di deroga COVID-19 di cui all’articolo 21*a*[^12-4]: un’indicazione sulla validità temporanea e locale del certificato secondo l’allegato 1 numero 4.[^12-5]
 
 [^12-1]: Abrogata dal n. I dell’O del 3 nov. 2021, con effetto dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Correzione del 24 nov. 2021 ([RU 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: In vigore dal 10 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^12-4]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-3]: Termini in vigore dal 30 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-4]: Termini in vigore dal 10 gen. 2022 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)n. V).
+[^12-5]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Sezione 4: Certificati di vaccinazione COVID-19
 
@@ -464,6 +467,36 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di te
 
 <sup>3</sup> La durata di validità massima è di 72 ore a partire dal prelievo del campione.
 
+## Sezione 6*a*:**** Certificato di deroga COVID-19
+
+[^sec6a-1]
+
+[^sec6a-1]: Introdotta dal n. I dell’O del 3 nov. 2021, in vigore dal 10 gen 2022 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+
+#### Art. 21a
+
+**Condizioni**
+
+Un certificato di deroga COVID-19 è emesso per le persone che, per motivi medici, non possono farsi vaccinare né testare. Tale impossibilità deve essere provata mediante un certificato rilasciato da un medico domiciliato in Svizzera autorizzato a esercitare sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^21a-1] sulle professioni mediche.
+
+[^21a-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
+#### Art. 21b
+
+**Contenuto**
+
+Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di deroga COVID-19 contengono le informazioni di cui all’allegato 4*a* numeri 2 e 3, segnatamente l’indicazione, in forma leggibile meccanicamente, che per il titolare possono vigere misure di protezione alternative.
+
+#### Art. 21c
+
+**Validità**
+
+<sup>1</sup> L’inizio e la durata di validità dei certificati di deroga COVID-19 sono basati sull’allegato 4*a* numero 1.
+
+<sup>2</sup> La validità inizia al più presto il giorno in cui è stato rilasciato il certificato che prova che la persona non può farsi vaccinare né testare per motivi medici.
+
+<sup>3</sup> I certificati di deroga COVID-19 sono validi solo in Svizzera.
+
 ## Sezione 7: Certificati esteri
 
 #### Art. 22
@@ -526,7 +559,7 @@ Per i seguenti certificati COVID-19 i certificati di firma utilizzati per la ver
 
 - a. certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3;
 - b. certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3;
-- c. ... .[^25-1]
+- c. certificati di deroga COVID-19 di cui all’articolo 21*a* capoverso 1.[^25-1]
 
 [^25-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021, la lett. a il 30 nov. 2021, la lett. c il 10 gen. 2022 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
@@ -883,13 +916,34 @@ Allegato 4*[^t-4]*
 - f. Risultato del test («negativo»)
 - g. Centro di test o istituzione presso cui è stato eseguito il test
 
-Allegato 5*[^t-5]*
+Allegato 4a*[^t-5]*
+
+(art. 21*b* e 21*c*)
+
+## Disposizioni particolari sui certificati di deroga COVID-19
+
+[^t-5]: Introdotto dal n. II dell’O del 3 nov. 2021, in vigore dal 10 gen 2022 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+
+### 1 Durata di validità
+
+- [tab] La durata di validità è di 365 giorni.
+
+### 2 Informazioni contenute nei certificati di deroga COVID-19
+
+- a. Inizio della validità
+- b. Servizio responsabile dell’emissione
+
+### 3 Indicazione sul rispetto di misure di protezione alternative
+
+- [tab] «Alle manifestazioni e nelle strutture per le quali vige l’obbligo del certificato, il titolare può essere tenuto a portare una mascherina facciale, conformemente al piano di protezione applicabile.»
+
+Allegato 5*[^t-6]*
 
 (art. 22 e 23 cpv. 1 e 2)
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-5]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dai n. I delle O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), del 21 dic. 2021 ([RU 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) e del 5 gen. 2022, in vigore dal 6 gen. 2022 ([RU 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
+[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dai n. I delle O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), del 21 dic. 2021 ([RU 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) e del 5 gen. 2022, in vigore dal 6 gen. 2022 ([RU 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 

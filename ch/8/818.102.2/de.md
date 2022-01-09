@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-01-06
+version: 2022-01-10
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220106/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220106-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220106/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220110/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220110-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220110/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220106/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 6. Januar 2022)
+vom 4. Juni 2021 (Stand am 10. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -38,16 +38,18 @@ Diese Verordnung regelt:
 
   - 1\. einer gegen Covid-19 durchgeführten Impfung (Covid-19-Impfzertifikat),
   - 2\. einer Genesung nach einer Ansteckung mit Sars-CoV-2 (Covid-19-Genesungszertifikat),
-  - 3\. eines negativen Ergebnisses eines Tests auf Sars-CoV-2 (Covid-19-Testzertifikat);
+  - 3\. eines negativen Ergebnisses eines Tests auf Sars-CoV-2 (Covid-19-Testzertifikat),
+  - 4\.[^1-1] dass die Inhaberin oder der Inhaber aus medizinischen Gründen weder geimpft noch getestet werden kann (Covid-19-Ausnahmezertifikat);
 
 - b. die Vorgaben zur Überprüfung dieser Zertifikate;
 - c. die Anerkennung entsprechender ausländischer Zertifikate;
 - d. die vom Bund betriebenen Informationssysteme im Zusammenhang mit diesen Zertifikaten;
 - e. die vom Bund angebotenen Apps für die Zertifikatsinhaberinnen und -inhaber und für die Prüfenden;
 - f. die Aufgaben der Kantone im Zusammenhang mit der Ausstellung und dem Widerruf der Zertifikate;
-- g.[^1-1] die Auferlegung von Kosten an antragsstellende Personen.
+- g.[^1-2] die Auferlegung von Kosten an antragsstellende Personen.
 
-[^1-1]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^1-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 10. Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^1-2]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
 
 ## 2. Abschnitt: Ausstellung, Form und Widerruf von Covid-19-Zertifikaten
 
@@ -261,12 +263,13 @@ Alle Covid-19-Zertifikate enthalten die folgenden Angaben nach Anhang 1:
 In menschenlesbarer Form enthalten Covid-19-Zertifikate zusätzlich die folgenden Angaben:
 
 - a. einen allgemeinen Hinweis zur Bedeutung des Zertifikats nach Anhang 1 Ziffer 3;
-- b.[^12-2] wenn es sich um ein Covid-19-Impfzertifikat nach Artikel 15 Absatz 3, ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 3 …[^12-3] handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 1 Ziffer 4.[^12-4]
+- b.[^12-2] wenn es sich um ein Covid-19-Impfzertifikat nach Artikel 15 Absatz 3[^12-3], ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 3 oder um ein Covid-19-Ausnahmezertifikat nach Artikel 21*a*[^12-4] handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 1 Ziffer 4.[^12-5]
 
 [^12-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 [^12-2]: Berichtigung vom 24. Nov. 2021 ([AS 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Tritt am 10. Jan. 2022 in Kraft ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^12-4]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-3]: Worte in Kraft seit 30. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
+[^12-4]: Worte in Kraft seit 10. Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)Ziff. V).
+[^12-5]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## 4. Abschnitt: Covid-19-Impfzertifikate
 
@@ -462,6 +465,36 @@ Covid-19-Testzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Z
 
 <sup>3</sup> Sie beträgt höchstens 72 Stunden ab der Probeentnahme.
 
+## 6*a*. Abschnitt:**** Covid-19-Ausnahmezertifikat
+
+[^sec6a-1]
+
+[^sec6a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 10. Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+
+#### Art. 21a
+
+**Voraussetzungen**
+
+Ein Covid-19-Ausnahmezertifikat wird ausgestellt für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können. Dies ist mit einem Attest einer in der Schweiz niedergelassenen Ärztin oder eines in der Schweiz niedergelassenen Arztes, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^21a-1] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist, zu belegen.
+
+[^21a-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+
+#### Art. 21b
+
+**Inhalt**
+
+Covid-19-Ausnahmezertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Zertifikate die Angaben nach Anhang 4*a* Ziffern 2 und 3, in maschinenlesbarer Form namentlich den Hinweis, dass für die Inhaberin oder für den Inhaber alternative Schutzmassnahmen gelten können.
+
+#### Art. 21c
+
+**Gültigkeit**
+
+<sup>1</sup> Beginn und Dauer der Gültigkeit von Covid-19-Ausnahmezertifikaten richten sich nach Anhang 4*a* Ziffer 1.
+
+<sup>2</sup> Die Gültigkeit beginnt frühestens am Tag an dem der Attest ausgestellt wurde, der belegt, dass eine Person aus medizinischen Gründen weder geimpft noch getestet werden kann.
+
+<sup>3</sup> Covid-19-Ausnahmezertifikate sind nur in der Schweiz gültig.
+
 ## 7. Abschnitt: Ausländische Zertifikate
 
 #### Art. 22
@@ -522,7 +555,7 @@ Für folgende Covid-19-Zertifikate werden Signaturzertifikate nicht an ausländi
 
 - a. Covid-19-Impfzertifikate nach Artikel 15 Absatz 3;
 - b. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3;
-- c. … .[^25-1]
+- c. Covid-19-Ausnahmezertifikate nach Artikel 21*a* Absatz 1.[^25-1]
 
 [^25-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021, Bst. a seit 30. Nov. und Bst. c seit 10. Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
@@ -876,13 +909,34 @@ Anhang 4*[^t-4]*
 - f. Testergebnis («negativ»)
 - g. Testzentrum oder Institution, wo der Test durchgeführt wurde
 
-Anhang 5*[^t-5]*
+Anhang 4a*[^t-5]*
+
+(Art. 21*b* und 21*c*)
+
+## Besondere Bestimmungen über Covid-19-Ausnahmezertifikate
+
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Nov. 2021, in Kraft seit 10. Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+
+### 1 Dauer der Gültigkeit
+
+Die Gültigkeitsdauer beträgt 365 Tage.
+
+### 2 Angaben bei Covid-19-Ausnahmezertifikaten
+
+- a. Beginn der Gültigkeit
+- b. Für die Ausstellung verantwortliche Stelle
+
+### 3 Hinweis auf die Einhaltung alternativer Schutzmassnahmen
+
+«Die Inhaberin oder der Inhaber kann entsprechend dem jeweils gültigen Schutzkonzept bei zertifikatspflichtigen Veranstaltungen und Einrichtungen verpflichtet sein, eine Gesichtsmaske zu tragen.»
+
+Anhang 5*[^t-6]*
 
 (Art. 22 sowie 23 Abs. 1 und 2)
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-5]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), vom 21. Dez. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) und vom 5. Jan. 2022, in Kraft seit 6. Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
+[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), vom 21. Dez. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) und vom 5. Jan. 2022, in Kraft seit 6. Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
