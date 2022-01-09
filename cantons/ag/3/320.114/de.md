@@ -4,13 +4,13 @@ number: "320.114"
 title: Verordnung über zusätzliche Massnahmen des Kantons Aargau zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-V AG
 language: de
-version: 2021-12-24
-valid_until: 2022-01-09
-version_adopted: 2021-12-22
+version: 2022-01-10
+valid_until: 2022-01-27
+version_adopted: 2022-01-04
 adopted: 2021-12-01
 in_force: 2021-12-04
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.114"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3137/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3149/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3137/pdf_file"
 
 (Covid-19-V AG)
 
-Vom 01.12.2021 (Stand 24.12.2021)
+Vom 01.12.2021 (Stand 10.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -57,7 +57,7 @@ beschliesst:
   - 6\. für Schülerinnen und Schüler, die ein ärztliches Attest vorweisen können, dass sie keine Gesichtsmaske tragen können;
   - 7\. in Sonderschulen, wenn die Schulleitung eine Schülerin oder einen Schüler von der Maskentragpflicht befreit.
 
-<sup>2</sup> Sämtliche Teilnehmende von Lagern haben unmittelbar vor der Abreise ein gültiges Covid-19-Zertifikat oder ein aktuelles negatives Testergebnis (PCR-Test oder Antigen-Schnelltest) vorzuweisen.
+<sup>2</sup> Es wird dringend empfohlen, bis auf Weiteres auf Lager zu verzichten. Werden trotzdem Lager angeboten, müssen sämtliche Teilnehmende unmittelbar vor der Abreise ein gültiges Covid-19-Zertifikat oder ein aktuelles negatives Testergebnis (PCR-Test oder Antigen-Schnelltest) vorweisen.
 
 <sup>3</sup> An Schulen der Primar- und Sekundarstufe I und II und in Angeboten der familien- oder schulergänzenden Kinderbetreuung tätige Personen mit einem ärztlich bescheinigten Maskentragdispens sind verpflichtet, am wöchentlichen repetitiven Testen in der Schule teilzunehmen, wenn sie keinen Nachweis erbringen, dass sie über ein gültiges Covid-19-Impfzertifikat oder ein gültiges Covid-19-Genesungszertifikat verfügen. Bietet die Schule oder das Betreuungsangebot kein repetitives Testen an, sind sie verpflichtet, sich wöchentlich mittels molekularbiologischer Analyse testen zu lassen (PCR-Test). Die Testkosten gehen dabei zulasten des Schulträgers oder des Trägers des Betreuungsangebots.
 
@@ -93,9 +93,11 @@ beschliesst:
 
 #### § 4
 
-**Spitäler und Kliniken, stationäre Pflegeeinrichtungen, Leistungserbringer der Hilfe und Pflege zu Hause, Betreuungseinrichtungen: Mitarbeitende**
+**Spitäler und Kliniken, stationäre Pflegeeinrichtungen, Leistungserbringer der Hilfe und Pflege zu Hause, Betreuungseinrichtungen: Mitarbeitende; Patientinnen und Patienten; Bewohnerinnen und Bewohner**
 
-<sup>1</sup> Mitarbeitende von Spitälern und Kliniken, stationären Pflegeeinrichtungen, Leistungserbringern der Hilfe und Pflege zu Hause sowie Betreuungseinrichtungen mit direktem Kontakt zu Patientinnen und Patienten oder Bewohnerinnen und Bewohnern müssen ein Covid-19-Zertifikat gemäss Art. 3 Covid-19-Verordnung besondere Lage vorweisen oder sich ein Mal pro Woche im Rahmen des repetitiven Testens auf eine Covid-19-Infektion testen lassen. Die genannten Betriebe und Einrichtungen ermöglichen den Mitarbeitenden die kostenlose Teilnahme am repetitiven Testen.
+<sup>1</sup> Mitarbeitende von Spitälern und Kliniken, stationären Pflegeeinrichtungen, Leistungserbringern der Hilfe und Pflege zu Hause sowie Betreuungseinrichtungen mit direktem Kontakt zu Patientinnen und Patienten oder Bewohnerinnen und Bewohnern müssen sich zwei Mal pro Woche im Rahmen des repetitiven Testens auf eine Covid-19-Infektion testen lassen. Befreit sind sie dann, wenn sie ihre letzte Impfdosis vor weniger als vier Monaten erhalten haben oder seit weniger als vier Monaten genesen sind. Die genannten Betriebe und Einrichtungen sind verpflichtet, den Mitarbeitenden die kostenlose Teilnahme am repetitiven Testen zu ermöglichen.
+
+<sup>1<sup>bis</sup></sup> Stationären Einrichtungen wird empfohlen, Patientinnen und Patienten sowie Bewohnerinnen und Bewohner ebenfalls regelmässig auf eine Covid-19-Infektion zu testen, sofern die letzte Impfung oder die Genesung länger als vier Monate zurückliegt.
 
 <sup>2</sup> …
 
@@ -150,6 +152,22 @@ beschliesst:
 **Massnahmen zum Schutz von Arbeitnehmerinnen und Arbeitnehmern**
 
 <sup>1</sup> …
+
+#### § 8a
+
+**Kontaktquarantäne**
+
+<sup>1</sup> Die Dauer der Kontaktquarantäne beträgt in Abweichung von Art. 7 Abs. 1 lit. a der Covid-19-Verordnung besondere Lage 7 Tage.
+
+<sup>2</sup> Die Kontaktquarantäne wird ohne Testnachweis beendet.
+
+<sup>3</sup> Zuständige Behörde zum Erlass von weiteren Massnahmen betreffend die Kontaktquarantäne gemäss Art. 7 Abs. 6 der Covid-19-Verordnung besondere Lage ist die Abteilung Gesundheit des Departements Gesundheit und Soziales.
+
+#### § 8b
+
+**Repetitives Testen**
+
+<sup>1</sup> Bei Kapazitätsengpässen priorisiert die Abteilung Gesundheit die Teilnahme am repetitiven Testen wie folgt: Erstens die Gesundheits- und Betreuungseinrichtungen, zweitens die Bildungsinstitutionen und drittens die weiteren Betriebe.
 
 #### § 9
 
