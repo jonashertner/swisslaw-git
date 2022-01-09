@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2021-12-20
+version: 2022-01-10
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211220/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211220-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211220/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220110/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220110-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220110/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211220/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 20 dicembre 2021)
+del 23 giugno 2021 (Stato 10 gennaio 2022) (Stato 10 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -55,11 +55,10 @@ Nella presente ordinanza si intende per:
 - a. *certificato di vaccinazione:* un certificato di vaccinazione COVID-19 secondo l’articolo 1 lettera a numero 1 dell’ordinanza del 4 giugno 2021[^3-2] sui certificati COVID-19 o un certificato estero attestante le vaccinazioni riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19;
 - b. *certificato di guarigione:* un certificato di guarigione dalla COVID-19 di cui all’articolo 1 lettera a numero 2 dell’ordinanza sui certificati COVID-19 o un certificato estero attestante la guarigione riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19;
 - c. *certificato di test:* un certificato di test COVID-19 di cui all’articolo 1 lettera a numero 3 dell’ordinanza sui certificati COVID-19 o un certificato estero attestante i test riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19;
-- d.[^3-3] *...*
+- d. *certificato di deroga:* un certificato di deroga COVID-19 di cui all’articolo 1 lettera a numero 4 dell’ordinanza sui certificati COVID-19.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore dal 20 dic. 2021 al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore dal 20 dic. 2021, la lett. d dal 10 gen. 2022, al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^3-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3-3]: In vigore dal 10 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 3a
 
@@ -69,16 +68,15 @@ Nella presente ordinanza si intende per:
 
 <sup>2</sup> Se l’accesso è limitato alle persone provviste sia di un certificato di vaccinazione o guarigione sia di un certificato di test, il certificato di test non è necessario se il certificato di vaccinazione o guarigione è valido da non più di 120 giorni. Questa eccezione non si applica alle persone con un certificato di guarigione emesso sulla base di un test anticorpale ai sensi dell’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 20211[^3a-2] sui certificati COVID-19.
 
-<sup>3</sup> ...[^3a-3]
+<sup>3</sup> Le persone con un certificato di deroga possono accedere alle strutture o alle manifestazioni come le persone provviste sia di un certificato di vaccinazione o guarigione sia di un certificato di test. A queste persone non si applica la deroga all’obbligo della mascherina di cui all’articolo 6 capoverso 2 lettera i.
 
 <sup>4</sup> Al momento dell’accesso a strutture o manifestazioni, le persone che dispongono di un certificato medico attestante che non possono farsi vaccinare per uno dei motivi medici di cui all’allegato 4 sono equiparate alle persone con un certificato di vaccinazione o guarigione, a condizione che presentino un certificato di test. A queste persone non si applica la deroga all’obbligo della mascherina di cui all’articolo 6 capoverso 2 lettera i.
 
-<sup>5</sup> Il certificato medico deve essere rilasciato da un medico domiciliato in Svizzera autorizzato a esercitare sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^3a-4] sulle professioni mediche e in possesso di un titolo federale di perfezionamento nella specializzazione in cui rientra il motivo addotto.
+<sup>5</sup> Il certificato medico deve essere rilasciato da un medico domiciliato in Svizzera autorizzato a esercitare sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^3a-3] sulle professioni mediche e in possesso di un titolo federale di perfezionamento nella specializzazione in cui rientra il motivo addotto.
 
-[^3a-1]: Introdotto dal n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato) ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore dal 20 dic. 2021 al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3a-1]: Introdotto dal n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato) ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore dal 20 dic. 2021, il cpv. 3 dal 10 gen. 2022, al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^3a-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3a-3]: In vigore dal 10 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^3a-4]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^3a-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 ## Sezione 2: Provvedimenti nei confronti delle persone
 
@@ -264,7 +262,7 @@ Il piano di protezione deve prevedere i seguenti provvedimenti:
 Se l’accesso è limitato alle persone con un certificato di vaccinazione, guarigione o test o limitato ulteriormente, il piano di protezione deve contenere anche i seguenti provvedimenti:[^10-3]
 
 - a. provvedimenti per l’attuazione della limitazione dell’accesso;
-- b.[^10-4] ...
+- b. provvedimenti concernenti le persone con un certificato di deroga COVID-19 secondo l’articolo 21*a* dell’ordinanza sui certificati COVID-19 del 4 giugno 2021[^10-4].
 - c.[^10-5] provvedimenti concernenti le persone provviste di un certificato di cui all’articolo 3*a* capoverso 4 attestante che non possono farsi vaccinare per un motivo medico.[^10-6]
 
 <sup>4</sup> Le prescrizioni secondo i capoversi 2 e 3 sono precisate nell’allegato 1.
@@ -274,9 +272,9 @@ Se l’accesso è limitato alle persone con un certificato di vaccinazione, guar
 [^10-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore dal 20 dic. 2021 al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^10-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^10-3]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore dal 20 dic. 2021 al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-4]: In vigore dal 10 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-4]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^10-5]: Introdotta dal n. I dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore dal 20 dic. 2021 al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-6]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-6]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021, il cpv. 3 lett. b dal 10 gen. 2022,al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 11
 

@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-12-20
+version: 2022-01-10
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211220/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211220-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211220/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220110/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220110-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220110/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 20 December 2021)
+of 23 June 2021 (Status as of 10 January 2022)
 
 The Swiss Federal Council,
 
@@ -57,14 +57,13 @@ ordains:
 
 In this Ordinance:
 
-- a. *Vaccination certificate* means a COVID-19 vaccination certificate under Article 1 letter a number 1 of the COVID-19 Certificates Ordinance of 4 June 2021[^3-2] or a recognised foreign certificate certifying vaccination under Section 7 of the COVID-19 Certificates Ordinance;
-- b. *Recovery certificate* means a COVID-19 recovery certificate under Article 1 letter a number 2 of the COVID-19 Certificates Ordinance or a recognised foreign certificate certifying recovery under Section 7 of the COVID-19 Certificates Ordinance;
-- c. *Test certificate* means a test certificate under Article 1 letter a number 3 of the COVID-19 Certificates Ordinance or a recognised foreign certificate certifying recovery under Section 7 of the COVID-19 Certificates Ordinance.
-- d.[^3-3] …
+- a. *vaccination certificate* means a COVID-19 vaccination certificate under Article 1 letter a number 1 of the COVID-19 Certificates Ordinance of 4 June 2021[^3-2] or a recognised foreign certificate certifying vaccination under Section 7 of the COVID-19 Certificates Ordinance;
+- b. *recovery certificate* means a COVID-19 recovery certificate under Article 1 letter a number 2 of the COVID-19 Certificates Ordinance or a recognised foreign certificate certifying recovery under Section 7 of the COVID-19 Certificates Ordinance;
+- c. *test certificate* means a test certificate under Article 1 letter a number 3 of the COVID-19 Certificates Ordinance or a recognised foreign certificate certifying recovery under Section 7 of the COVID-19 Certificates Ordinance;
+- d. *exemption certificate* means a COVID-19 exemption certificate under Article 1 letter a number 4 of the COVID-19 Certificates Ordinance.
 
-[^3-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021, let. d from 10 Jan. 2022, to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^3-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3-3]: Enters into force on 10 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 3a
 
@@ -74,16 +73,15 @@ In this Ordinance:
 
 <sup>2</sup> If access is restricted to persons who hold either a vaccination or recovery certificate and a test certificate, a person does not need a test certificate unless their vaccination or recovery certificate has been valid for more than 120 days. This does not apply to persons with a recovery certificate based on antibody tests in accordance with Article 16 paragraph 3 COVID-19 Certificates Ordinance of 4 June 2021[^3a-2].
 
-<sup>3</sup> …[^3a-3]
+<sup>3</sup> Persons holding an exemption certificate have the same access to businesses, establishments and events as persons who hold both a vaccination or recovery certificate and a test certificate. The exemption from the requirement to wear a face mask in accordance with Article 6 paragraph 2 letter i does not apply to them.
 
 <sup>4</sup> Persons who have a medical certificate confirming that they cannot be vaccinated for a medical reason in accordance with Annex 4 shall be treated in the same way as persons with a vaccination or recovery certificate with regard to access to businesses, establishments and events, provided they present a test certificate. The exemption from the mask requirement under Article 6 paragraph 2 letter i does not apply to them.
 
-- [tab] <sup>5</sup> The medical certificate must be issued by a doctor registered in Switzerland who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^3a-4] and holds a federal postgraduate qualification in the field of medicine that encompasses the reason provided.
+<sup>5</sup> The medical certificate must be issued by a doctor registered in Switzerland who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^3a-3] and holds a federal postgraduate qualification in the field of medicine that encompasses the reason provided.
 
-[^3a-1]: Inserted by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3a-1]: Inserted by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021, para. 3 from 10 Jan. 2022, to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^3a-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3a-3]: Enters into force on 10 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^3a-4]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^3a-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 ## Section 2 Measures involving Persons
 
@@ -268,8 +266,8 @@ The precautionary measures plan must provide for the following:
 If entry is restricted to persons with a vaccination, recovery or test certificate, the precautionary measures plan must also include the following measures:[^10-3]
 
 - a. measures on implementing the entry restrictions;
-- b.[^10-4] …
-- c.[^10-5] measures concerning persons with a certificate under Article 3*a* paragraph 4 confirming that they cannot be vaccinated for medical reasons.[^10-6]
+- b.[^10-4] measures relating to persons with a COVID-19 exemption certificate under Article 21*a* of the COVID-19 Certificates Ordinance of 4 June 2021[^10-5];
+- c.[^10-6] measures concerning persons with a certificate under Article 3*a* paragraph 4 confirming that they cannot be vaccinated for medical reasons.[^10-7]
 
 <sup>4</sup> The requirements of paragraphs 2 and 3 are specified in more detail in Annex 1.
 
@@ -278,9 +276,10 @@ If entry is restricted to persons with a vaccination, recovery or test certifica
 [^10-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^10-2]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^10-3]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-4]: Comes into force on 10 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^10-5]: Inserted by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-6]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-4]: In force since 10 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)No VI para. 2).
+[^10-5]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^10-6]: Inserted by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^10-7]: Amended by No I of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force from 6 Dec. 2021 until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 11
 

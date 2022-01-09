@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2021-12-20
+version: 2022-01-10
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20211220/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20211220-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211220/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220110/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220110-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220110/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20211220/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 20. Dezember 2021)
+vom 23. Juni 2021 (Stand am 10. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -55,11 +55,10 @@ In dieser Verordnung bedeutet:
 - a. *Impfzertifikat*: ein Covid-19-Impfzertifikat nach Artikel 1 Buchstabe a Ziffer 1 Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^3-2] oder ein anerkanntes ausländisches Zertifikat zur Bescheinigung von Impfungen nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate;
 - b. *Genesungszertifikat*: ein Covid-19-Genesungszertifikat nach Artikel 1 Buchstabe a Ziffer 2 Covid-19-Verordnung Zertifikate oder ein anerkanntes ausländisches Zertifikat zur Bescheinigung der Genesung nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate;
 - c. *Testzertifikat*: ein Testzertifikat nach Artikel 1 Buchstabe a Ziffer 3 der Covid-19-Verordnung Zertifikate oder ein anerkanntes ausländisches Zertifikat zur Bescheinigung von Tests nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate;
-- d.[^3-3] …
+- d. *Ausnahmezertifikat*: ein Covid-19-Ausnahmezertifikat nach Artikel 1 Buchstabe a Ziffer 4 der Covid-Verordnung Zertifikate.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021, Bst. d vom 10. Jan. 2022, bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^3-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3-3]: Tritt am 10. Jan. 2022 in Kraft ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 
 #### Art. 3a
 
@@ -69,16 +68,15 @@ In dieser Verordnung bedeutet:
 
 <sup>2</sup> Wird der Zugang auf Personen beschränkt, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen, so braucht eine Person kein Testzertifikat, wenn ihr Impf- oder Genesungszertifikat noch nicht länger als 120 Tage gültig ist. Dies gilt nicht für Personen mit einem Genesungszertifikat für Antikörpertests nach Artikel 16 Absatz 3 Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^3a-2].
 
-<sup>3</sup> …[^3a-3]
+<sup>3</sup> Personen mit einem Ausnahmezertifikat haben den gleichen Zugang zu Einrichtungen, Betrieben oder Veranstaltungen wie Personen, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen. Die Ausnahme von der Maskenpflicht nach Artikel 6 Absatz 2 Buchstabe i gilt für sie nicht.
 
 <sup>4</sup> Personen, die über ein Attest verfügen, das bestätigt, dass sie sich aus einem medizinischen Grund nach Anhang 4 nicht impfen lassen können, sind beim Zugang zu Einrichtungen, Betrieben oder Veranstaltungen Personen mit einem Impf- oder Genesungszertifikat gleichgestellt, sofern sie ein Testzertifikat vorweisen. Die Ausnahme von der Maskenpflicht nach Artikel 6 Absatz 2 Buchstabe i gilt für sie nicht.
 
-<sup>5</sup> Das Attest muss von einer in der Schweiz niedergelassenen Ärztin oder einem in der Schweiz niedergelassenen Arzt ausgestellt sein, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^3a-4] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist und über einen eidgenössischen Weiterbildungstitel in dem Fachgebiet verfügt, dem der betreffende Grund zugeordnet ist.
+<sup>5</sup> Das Attest muss von einer in der Schweiz niedergelassenen Ärztin oder einem in der Schweiz niedergelassenen Arzt ausgestellt sein, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^3a-3] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist und über einen eidgenössischen Weiterbildungstitel in dem Fachgebiet verfügt, dem der betreffende Grund zugeordnet ist.
 
-[^3a-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3a-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021, Abs. 3 vom 10. Jan. 2022, bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^3a-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^3a-3]: Tritt am 10. Jan. 2022 in Kraft ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^3a-4]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^3a-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 ## 2. Abschnitt: Massnahmen gegenüber Personen
 
@@ -264,8 +262,8 @@ Das Schutzkonzept muss Folgendes vorsehen:
 Wird der Zugang auf Personen mit einem Impf-, Genesungs- oder Testzertifikat oder weitergehend eingeschränkt, so muss das Schutzkonzept zudem folgende Massnahmen enthalten:[^10-3]
 
 - a. Massnahmen zur Umsetzung der Zugangsbeschränkung;
-- b.[^10-4] …
-- c.[^10-5] Massnahmen betreffend Personen mit einem Attest nach Artikel 3*a* Absatz 4, das bestätigt, dass sie sich aus einem medizinischen Grund nicht impfen lassen können.[^10-6]
+- b.[^10-4] Massnahmen betreffend Personen mit einem Covid-19-Ausnahmezertifikat nach Artikel 21*a* Covid-Verordnung Zertifikate vom 4. Juni 2021[^10-5];
+- c.[^10-6] Massnahmen betreffend Personen mit einem Attest nach Artikel 3*a* Absatz 4, das bestätigt, dass sie sich aus einem medizinischen Grund nicht impfen lassen können.[^10-7]
 
 <sup>4</sup> Die Vorgaben nach den Absätzen 2 und 3 werden in Anhang 1 näher ausgeführt.
 
@@ -274,9 +272,10 @@ Wird der Zugang auf Personen mit einem Impf-, Genesungs- oder Testzertifikat ode
 [^10-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 [^10-3]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-4]: Tritt am 10. Jan. 2022 in Kraft ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^10-5]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-6]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-4]: In Kraft seit 10. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)Ziff. VI Abs. 2).
+[^10-5]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^10-6]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^10-7]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 11
 
