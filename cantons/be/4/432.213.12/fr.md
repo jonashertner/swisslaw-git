@@ -4,13 +4,13 @@ number: "432.213.12"
 title: "Ordonnance de Direction sur les absences et les dispenses à l'école obligatoire"
 short: ODAD
 language: fr
-version: 2008-08-01
-valid_until: 2022-01-09
-version_adopted: 2008-06-23
+version: 2022-01-10
+valid_until: 2022-07-31
+version_adopted: 2022-01-19
 adopted: 2007-03-16
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.213.12"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/809/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2528/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/809/pdf_file"
 
 (ODAD)
 
-du 16.03.2007 (état au 01.08.2008)
+du 16.03.2007 (état au 10.01.2022)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -37,6 +37,8 @@ arrête:
 <sup>1</sup> Quiconque manque l’enseignement est considéré comme absent.
 
 <sup>2</sup> Une dispense est une autorisation de manquer l’école demandée à l’avance et délivrée pour une absence régulière ou de longue durée.
+
+<sup>3</sup> Les dispenses liées à la pandémie dont peuvent bénéficier les élèves pour une instruction privée à court terme sont des autorisations de manquer l’école au sens de l’article 4a.
 
 #### Art. 2
 
@@ -78,6 +80,22 @@ arrête:
 - g jusqu’à trois semaines au plus par année scolaire pour la période d’alpage.
 
 <sup>2</sup> Pour des motifs particuliers, l’élève peut exceptionnellement être dispensé de cours pour une durée pouvant aller jusqu’à huit semaines au plus par année scolaire dans les cas relevant de l’alinéa 1, lettre f.
+
+#### Art. 4a
+
+**Dispenses liées à la pandémie pour une instruction privée à court terme**
+
+<sup>1</sup> Dans le cadre des mesures prises pour lutter contre l’épidémie de COVID-19 dans les écoles, les parents peuvent assurer eux-mêmes ou organiser une instruction privée à court terme pour leurs enfants. Pendant la période d’instruction privée, les enfants sont considérés comme étant dispensés de l’enseignement ordinaire.
+
+<sup>2</sup> La possibilité de dispense vaut pour l’école enfantine et les quatre premières années du degré primaire (3H à 6H).
+
+<sup>3</sup> Les parents transmettent au préalable à l’inspection scolaire régionale compétente le formulaire officiel de dispense dûment complété; la procédure en cas de dispense fixée à l’article 8 ne s’applique pas.
+
+<sup>4</sup> Pendant la période couverte par la dispense, les parents sont responsables de l’enseignement. Les exigences qui sont fixées pour l’instruction privée à l’article 71a, alinéa 1, lettres a, c, d et e LEO s’appliquent par analogie.
+
+<sup>5</sup> Les écoles n’évaluent pas les acquis et le processus d’apprentissage pendant la période couverte par la dispense.
+
+<sup>6</sup> Les dispenses sont autorisées tant que la présente réglementation est valable. Passé la date de fin de validité, les enfants retournent dans leur classe habituelle.
 
 #### Art. 5
 
@@ -163,9 +181,11 @@ Ordonnance de Direction du 7 mai 2002 concernant l’évaluation et les décisio
 
 #### Art. 14
 
-**Entrée en vigueur**
+**Entrée en vigueur et durée de validité limitée**
 
 <sup>1</sup> La présente ordonnance de Direction entre en vigueur le 1<sup>er</sup> août 2007.
+
+<sup>2</sup> L’article 1, alinéa 3 et l’article 4a sont valables jusqu’au 14 février 2022.
 
 Berne, le 16 mars 2007
 

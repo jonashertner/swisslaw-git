@@ -4,13 +4,13 @@ number: "432.213.12"
 title: Direktionsverordnung über Absenzen und Dispensationen in der Volksschule
 short: DVAD
 language: de
-version: 2008-08-01
-valid_until: 2022-01-09
-version_adopted: 2008-06-23
+version: 2022-01-10
+valid_until: 2022-07-31
+version_adopted: 2022-01-19
 adopted: 2007-03-16
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.213.12"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/809/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2528/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/809/pdf_file"
 
 (DVAD)
 
-vom 16.03.2007 (Stand 01.08.2008)
+vom 16.03.2007 (Stand 10.01.2022)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -37,6 +37,8 @@ beschliesst:
 <sup>1</sup> Absenzen sind Abwesenheiten vom Unterricht.
 
 <sup>2</sup> Dispensationen sind im Voraus zu planende und mittels Gesuch zu beantragende Freistellungen für regelmässige oder für länger dauernde Abwesenheiten vom Unterricht.
+
+<sup>3</sup> Pandemiebedingte Dispensationen mit kurzfristigem Privatunterricht sind Freistellungen für Abwesenheiten vom Unterricht gemäss Artikel 4a.
 
 #### Art. 2
 
@@ -78,6 +80,22 @@ beschliesst:
 - g bis höchstens drei Wochen pro Schuljahr für die Alpzeit.
 
 <sup>2</sup> Bei Vorliegen besonderer Gründe kann in Fällen von Absatz 1 Buchstabe f ausnahmsweise bis höchstens 8 Wochen pro Schuljahr vom Unterricht dispensiert werden.
+
+#### Art. 4a
+
+**Pandemiebedingte Dispensationen mit kurzfristigem Privatunterricht**
+
+<sup>1</sup> Im Zusammenhang mit den Massnahmen im Unterricht zur Bekämpfung der Covid-19-Epidemie können Eltern ihre Kinder kurzfristig selbst unterrichten oder privat unterrichten lassen. Die Kinder gelten während dieser Zeit als vom ordentlichen Schulunterricht dispensiert.
+
+<sup>2</sup> Die Dispensationsmöglichkeit gilt für den Unterricht im Kindergarten und im ersten bis vierten Schuljahr der Primarstufe (3H bis 6H).
+
+<sup>3</sup> Die Eltern geben die pandemiebedingte Dispensation mit kurzfristigem Privatunterricht vorgängig dem regionalen Schulinspektorat auf dem amtlichen, vollständig ausgefüllten Formular bekannt; das Verfahren für Dispensationen gemäss Artikel 8 gilt diesfalls nicht.
+
+<sup>4</sup> Während der Zeit der Dispensation sind die Eltern für den Unterricht verantwortlich. Die Anforderungen an den Privatunterricht gemäss Artikel 71a Absatz 1 Buchstaben a, c, d und e VSG gelten sinngemäss.
+
+<sup>5</sup> Der Leistungsstand und der Lernprozess während der Zeit der Dispensation werden durch die Schule nicht beurteilt.
+
+<sup>6</sup> Die Dispensation ist nur während der Gültigkeit dieser Norm zulässig. Danach besuchen die Kinder wieder ihre bisherige Klasse.
 
 #### Art. 5
 
@@ -161,9 +179,11 @@ Direktionsverordnung vom 7. Mai 2002 über Beurteilung und Schullaufbahnentschei
 
 #### Art. 14
 
-**Inkrafttreten**
+**Inkrafttreten und Befristung**
 
 <sup>1</sup> Diese Verordnung tritt auf den 1. August 2007 in Kraft.
+
+<sup>2</sup> Artikel 1 Absatz 3 und Artikel 4a gelten bis am 14. Februar 2022.
 
 Bern, 16. März 2007
 
