@@ -4,20 +4,20 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2022-01-01
+version: 2022-01-12
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220112/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220112-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220112/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnungüber den Vollzug der Lebensmittelgesetzgebung
+# Verordnung über den Vollzug der Lebensmittelgesetzgebung
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 1. Januar 2022)
+vom 27. Mai 2020 (Stand am 12. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1728,6 +1728,18 @@ In Ausnahmefällen darf die Tätigkeit als Lebensmittelinspektorin oder Lebensmi
 - a. Die Person erreicht das ordentliche Pensionsalter spätestens am 30. Juni 2030.
 - b. Die Person ist mindestens seit dem 1. Juli 2010 beruflich im Vollzug der Lebensmittelgesetzgebung tätig.
 
+#### Art. 118a
+
+**Übergangsbestimmung zur Änderung vom 10. Januar 2022**[^118a-1]
+
+Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttretens der Änderung vom 10. Januar 2022 bereits versendet wurden, dürfen bis zum 26. Januar 2022 ohne amtliche Bescheinigung sowie ohne Ergebnisse von Probenahmen und Analysen eingeführt werden:
+
+- a. schwarzer Pfeffer (*Piper nigrum*) aus Brasilien;
+- b. Auberginen (*Solanum melongena*), Gemüsepaprika (*Capsicum annuum*), Paprika der Gattung *Capsicum* (ausgenommen Gemüsepaprika) und Spargelbohnen (*Vigna unguiculata ssp. sesquipedalis*, V*igna unguiculata ssp. unguiculata*) aus der Dominikanischen Republik; und
+- c. Orangen, Mandarinen (einschließlich Tangerinen und Satsumas), Clementinen, Wilkings und ähnlichen Kreuzungen von Zitrusfrüchten aus der Türkei.
+
+[^118a-1]: Eingefügt durch Ziff. I der V des BLV vom 10. Jan. 2022, in Kraft seit 12. Jan. 2022 ([AS 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
+
 #### Art. 119
 
 **Inkrafttreten**
@@ -1749,12 +1761,12 @@ Anhang 2*[^t-1]*
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, die vorübergehend verstärkten amtlichen Kontrollen nach den Artikeln 37−43 unterliegen
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 19. Nov. 2021, in Kraft seit 23. Nov. 2021 ([AS 2021 720](https://fedlex.data.admin.ch/eli/oc/2021/720)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 10. Jan. 2022, in Kraft seit 12. Jan. 2022 ([AS 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
 
-- 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
+- 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
 - 2\. Probenahme und Analytik richtet sich nach Anhang III der Durchführungsverordnung, falls in Anhang I der Durchführungsverordnung darauf verwiesen wird.
 
-[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2021/1900, ABl. L 387 vom 3.11.2021, S. 78.
+[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, Abl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2021/2246, ABl. L 453 vom 17.12.2021, S. 5.
 
 Anhang 3
 

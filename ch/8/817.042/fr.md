@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2022-01-01
+version: 2022-01-12
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20220112/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20220112-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220112/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20220101/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 27 mai 2020 (Etat le 12 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1729,6 +1729,18 @@ L’activité d’inspecteur des denrées alimentaires, de contrôleur des denr�
 - a. la personne atteindra l’âge ordinaire de la retraite au plus tard le 30 juin 2030;
 - b. la personne exerce une profession en lien avec l’exécution de la législation sur les denrées alimentaires au moins depuis le 1<sup>er</sup> juillet 2010.
 
+#### Art. 118a
+
+**Disposition transitoire de la modification du 10 janvier 2022**[^118a-1]
+
+S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modification du 10 janvier 2022, les lots des denrées alimentaires ci-après peuvent être importés jusqu’au 26 janvier 2022 sans certificat officiel ni résultats d’échantillonnages et d’analyses:
+
+- a. poivre noir (*Piper nigrum*) en provenance du Brésil;
+- b. aubergines (*Solanum melongena*), piments doux ou poivrons (*Capsicum annuum*), piments du genre *Capsicum* et doliques-asperges (*Vigna unguiculata* spp. *sesquipedalis*, *Vigna unguiculata* spp. *unguiculata*) en provenance de la République dominicaine, et
+- c. oranges, mandarines (y compris les tangerines et satsumas), clémentines, wilkings et hybrides similaires d’agrumes en provenance de Turquie.
+
+[^118a-1]: Introduit par le ch. I de l’O de l’OSAV du 10 janv. 2022, en vigueur depuis le 12 janv. 2022 ([RO 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
+
 #### Art. 119
 
 **Entrée en vigueur**
@@ -1750,12 +1762,12 @@ Annexe 2*[^t-1]*
 
 ## Denrées alimentaires d’origine non animale provenant de certains pays, temporairement soumises à des contrôles renforcés en vertu des art. 37 à 43
 
-[^t-1]: Mise à jour par le ch. I de l’O de l’OSAV du 19 nov. 2021, en vigueur depuis le 23 nov. 2021 ([RO 2021 720](https://fedlex.data.admin.ch/eli/oc/2021/720)).
+[^t-1]: Mise à jour par le ch. II de l’O de l’OSAV du 10 janv. 2022, en vigueur depuis le 12 janv. 2022 ([RO 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
 
 - 1\. Ensemble des denrées alimentaires figurant à l’annexe I du règlement d’exécution (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. Les procédures d’échantillonnage et les méthodes d’analyses sont régies par l’annexe III du règlement d’exécution, dans la mesure où l’annexe I du règlement d’exécution y renvoie.
 
-[^annex2-lvlu1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) no 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) no 669/2009, (UE) no 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89; modifié en dernier lieu par le règlement d’exécution (UE) 2021/1900, JO L 387 du 3.11.2021, p. 78.
+[^annex2-lvlu1-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 669/2009, (UE) no 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89, modifié en dernier lieu par le règlement d’exécution (UE) 2021/2246, JO L 453 du 17.12.2021, p. 5.
 
 Annexe 3
 
