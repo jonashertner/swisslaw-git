@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-12-23
-valid_until: 2022-01-12
-version_adopted: 2021-12-22
+version: 2022-01-13
+valid_until: 2022-01-19
+version_adopted: 2022-01-12
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2513/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2513/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 23.12.2021)
+vom 04.11.2020 (Stand 13.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -177,6 +177,21 @@ beschliesst:
 
 <sup>4</sup> Für den Nachweis medizinischer Gründe gemäss Absatz 3 Buchstabe a gilt Artikel 5 Absatz 1 Buchstabe b der Covid-19-Verordnung besondere Lage.
 
+#### Art. 12a1
+
+**Repetitives Testen an Schulen**
+
+<sup>1</sup> Die Trägerschaften der Schulen gemäss Volksschulgesetzgebung und die Schulleitungen der übrigen Schulen gemäss Artikel 12a Absatz 2 können repetitives Testen auf eine Covid-19-Infektion durchführen, wenn
+
+- a dies zur Eindämmung der Covid-19-Infektionen aus epidemiologischer Sicht erforderlich ist und
+- b pro Standort mindestens 80 Prozent der Schülerinnen und Schüler am Testen teilnehmen.
+
+<sup>2</sup> Das repetitive Testen erfolgt in der Regel zwei Mal pro Woche und ist für die teilnehmenden Personen kostenlos.
+
+<sup>3</sup> Die Schulen organisieren das Testen nach den Vorgaben und in Absprache mit dem Partner, den der Kanton dafür beauftragt hat.
+
+<sup>4</sup> Die Schulen sind berechtigt, die Personendaten, die zur Identifikation der Rückstellproben nötig sind, an den beauftragten Partner bekanntzugeben. Der Partner darf die Daten nur verwenden, um Personen mit Verdacht auf eine Covid-19-Infektion zu identifizieren. Er vernichtet die Daten sofort nach Mitteilung des Testergebnisses.
+
 #### Art. 12b
 
 **Zertifikatspflicht**
@@ -245,7 +260,7 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>1a</sup> Die Gewährung von Ausgängen und Urlauben kann aus organisatorischen Gründen eingeschränkt werden.
+<sup>1a</sup> Ausgänge und Urlaube sind in den Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV untersagt.
 
 <sup>2</sup> Ausgenommen sind Ausgänge und Urlaube aus unaufschiebbaren Gründen gemäss Artikel 75 Absatz 1 Buchstabe b und e JVV.
 
@@ -501,7 +516,11 @@ beschliesst:
 
 <sup>2e</sup> Artikel 20c2 gilt bis zum 30. Juni 2021.
 
-<sup>2f–3a</sup> …
+<sup>2f</sup> …
+
+<sup>2g</sup> Artikel 12a1 gilt bis zum 30. April 2022.
+
+<sup>3–3a</sup> …
 
 #### Art. 29
 

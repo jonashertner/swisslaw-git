@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-12-23
-valid_until: 2022-01-12
-version_adopted: 2021-12-22
+version: 2022-01-13
+valid_until: 2022-01-19
+version_adopted: 2022-01-12
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2513/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2516/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2513/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 23.12.2021)
+du 04.11.2020 (état au 13.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -177,6 +177,21 @@ arrête:
 
 <sup>4</sup> L'article 5, alinéa 1, lettre b de l'ordonnance COVID-19 situation particulière s'applique à l'attestation médicale au sens de l'alinéa 3, lettre a.
 
+#### Art. 12a1
+
+**Tests répétitifs dans les écoles**
+
+<sup>1</sup> Les organismes responsables des écoles en vertu de la législation sur l'école obligatoire ainsi que les directions des autres écoles visées à l'article 12a, alinéa 1 peuvent procéder à des tests répétitifs du COVID-19 si
+
+- a une telle mesure est requise du point de vue épidémiologique pour contenir les contaminations au COVID-19 et
+- b au moins 80 pour cent des élèves d'un site scolaire participent aux tests.
+
+<sup>2</sup> Les tests répétitifs ont en général lieu deux fois par semaine et sont gratuits pour les personnes participantes.
+
+<sup>3</sup> Les écoles organisent les tests selon les prescriptions du partenaire mandaté par le canton à cette fin et en concertation avec ce partenaire.
+
+<sup>4</sup> Les écoles sont habilitées à transmettre au partenaire mandaté les données personnelles nécessaires à l'identification des échantillons mis en réserve. Le partenaire ne peut utiliser ces données que pour identifier les personnes pour lesquelles il existe une suspicion de contamination au COVID-19. Il détruit les données immédiatement après communication du résultat du test.
+
 #### Art. 12b
 
 **Obligation de présenter un certificat**
@@ -245,7 +260,7 @@ arrête:
 
 <sup>1</sup> …
 
-<sup>1a</sup> L'octroi de sorties et de congés peut être limité pour des raisons d'organisation.
+<sup>1a</sup> Les sorties et les congés sont interdits dans les établissements d'exécution au sens des articles 6 à 10 et 13 OEJ.
 
 <sup>2</sup> Font exception les sorties et congés motivés par des affaires ne pouvant être reportées au sens de l'article 75, alinéa 1, lettres b et e OEJ.
 
@@ -501,7 +516,11 @@ arrête:
 
 <sup>2e</sup> L'article 20c2 est valable jusqu'au 30 juin 2021.
 
-<sup>2f–3a</sup> …
+<sup>2f</sup> …
+
+<sup>2g</sup> L'article 12a1 est valable jusqu'au 30 avril 2022.
+
+<sup>3–3a</sup> …
 
 #### Art. 29
 
