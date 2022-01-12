@@ -3,22 +3,22 @@ canton: BS
 number: BaB 162.110
 title: Reglement zur Anstellungsordnung
 language: de
-version: 2021-07-01
-valid_until: 2022-01-12
-version_adopted: 2021-05-04
+version: 2022-01-13
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 1999-01-12
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5307/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5421/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zur Anstellungsordnung
 
-Anstellungsordnung: Reglement | Basel: Bürgergemenide
+Gemeindepersonal
 
-Vom 12. Januar 1999 (Stand 1. Juli 2021)
+Vom 12. Januar 1999 (Stand 13. Januar 2022)
 
 Der Bürgerrat der Stadt Basel erlässt in Ausführung von § 28 der Ordnung betreffend die Anstellungsverhältnisse bei der Bürgergemeinde der Stadt Basel (Anstellungsordnung, AO) vom 28. April 1998[^ingress-1] folgendes Reglement:
 
@@ -196,23 +196,25 @@ Bürgerliches Waisenhaus
 
 <sup>2</sup> Die Kündigung von öffentlich-rechtlichen Anstellungsverhältnissen seitens des Arbeitgebers erfolgt mittels einer Verfügung.
 
-### 7. 1. Verfahren bei ordentlicher Kündigung
+<sup>3</sup> Die Verfügungsform gilt für die Kündigung in und nach der Probezeit und für die fristlose Kündigung.
+
+### 7. 1. Verfahren bei Kündigung durch die Arbeitgeberin
 
 #### § 13a
 
-**Verwarnung**
+**Massnahme vor Aussprechen einer Kündigung**
 
-<sup>1</sup> Sind die Leistungen ungenügend oder das Verhalten pflichtwidrig, jedoch nicht derart schwerwiegend, dass es beim ersten Vorfall zu einer sofortigen Kündigung des Arbeitsverhältnisses führt, müssen die Mitarbeiterinnen und Mitarbeiter schriftlich verwarnt werden. Es muss ihnen eine ausreichende Frist zur Verbesserung eingeräumt werden.
+<sup>1</sup> Wird nach Ablauf der Probezeit festgestellt, dass die Leistungen ungenügend sind oder das Verhalten pflichtwidrig ist, jedoch nicht derart schwerwiegend, dass es beim ersten Vorfall zu einer sofortigen Kündigung des Arbeitsverhältnisses führt, müssen die Mitarbeiterinnen und Mitarbeiter schriftlich verwarnt werden. Es muss ihnen eine ausreichende Frist zur Verbesserung eingeräumt werden.
 
 #### § 13b
 
-**Anhörung**
+**Rechtliches Gehör und Anhörung**
 
-<sup>1</sup> Vor der Verfügung einer Kündigung sind die Mitarbeiterinnen und Mitarbeiter schriftlich zu einer Anhörung einzuladen. Die Kündigung darf erst nach Durchführung der Anhörung erfolgen.
+<sup>1</sup> Vor der Verfügung einer Kündigung ist den Mitarbeiterinnen und Mitarbeitern immer das rechtliche Gehör zu gewähren.
 
-<sup>2</sup> Bei Kündigung während der Probezeit muss keine Anhörung durchgeführt werden.
+<sup>2</sup> Vor der Verfügung einer Kündigung sind die Mitarbeiterinnen oder die Mitarbeiter schriftlich zu einer Anhörung einzuladen mit dem Hinweis, dass sie eine Person nach freier Wahl als Beiständin oder als Beistand beiziehen können. Die Anhörung ist schriftlich festzuhalten.
 
-<sup>3</sup> Bei der Einladung zur Anhörung ist darauf hinzuweisen, dass ein Beistand beigezogen werden kann.
+<sup>3</sup> Bei einer Kündigung in der Probezeit und bei einer fristlosen Kündigung muss die Einladung zur Wahrung des rechtlichen Gehörs nicht schriftlich erfolgen. Die Wahrnehmung des rechtlichen Gehörs erfolgt ohne Beizug einer Person als Beiständin oder als Beistand. Die Wahrung des rechtlichen Gehörs ist schriftlich zu dokumentieren.
 
 <sup>4</sup> Den Mitarbeiterinnen und Mitarbeitern steht es frei, auf die Anhörung zu verzichten.
 
