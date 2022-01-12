@@ -4,46 +4,48 @@ number: "821.11"
 title: Vollzugsverordnung zum Landwirtschaftsgesetz
 short: "Kantonale Landwirtschaftsverordnung, kLwV"
 language: de
-version: 2022-01-01
-valid_until: 2023-12-31
-version_adopted: 2022-01-25
+version: 2020-01-01
+corrected: 2022-01-13
+version_adopted: 2020-05-19
 adopted: 2023-09-19
 in_force: 2024-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/821.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1026/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/355/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Landwirtschaftsgesetz
+# Vollzugsverordnung zum Landwirtschaftsgesetz (Kantonale Landwirtschaftsverordnung, kLwV)
 
-(Kantonale Landwirtschaftsverordnung, kLwV)
-
-vom 22.09.2015 (Stand 01.01.2022)
+vom 22. September 2015[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 3, 3a, 5, 11, 13, 17, 18 und 30 des Einführungsgesetzes vom 24. Oktober 2001 zum Bundesgesetz über die Landwirtschaft (Kantonales Landwirtschaftsgesetz, kLwG)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 3, 3a, 5, 11, 13, 17, 18 und 30 des Einführungsgesetzes vom 24. Oktober 2001 zum Bundesgesetz über die Landwirtschaft (Kantonales Landwirtschaftsgesetz, kLwG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 821.1
+[^t-1]: A 2015, 1518
+[^t-2]: NG 821.1
 
-## 1 Produktion, Qualität und Absatz
+### I. PRODUKTION, QUALITÄT UND ABSATZ
 
-### 1.1 Bewirtschaftungsmethoden
+### A. Bewirtschaftungsmethoden
 
-### 1.1.1 Hochstammbäume
+- 1\. Hochstammbäume
 
 #### § 1
 
 **Grundsatz**
 
-<sup>1</sup> Der Kanton entrichtet für die Ersatzpflanzung eines Hochstammbaumes einen Beitrag von Fr. 200.–, sofern mindestens drei Hochstammbäume im Zeitraum eines Beitragsjahres gepflanzt werden.
+<sup>1</sup> Der Kanton entrichtet für die Ersatzpflanzung eines Hochstammbaumes einen Beitrag von Fr. 200.–, sofern mindestens drei Hochstammbäume im Zeitraum eines Beitragsjahres gepflanzt werden.[^1-1]
 
 <sup>2</sup> Je Beitragsjahr und Gesuchstellerin oder Gesuchsteller werden Ersatzpflanzungen von höchstens 15 Hochstammbäumen unterstützt.
 
 <sup>3</sup> Beiträge werden nur ausgerichtet, wenn die gesuchstellende Person nach Bundesrecht direktzahlungsberechtigt ist.
+
+[^1-1]: Fassung gemäss Regierungsratsbeschluss vom 26. Juni 2018, A 2018, 1216; in Kraft seit 1. August 2018
 
 #### § 2
 
@@ -58,11 +60,13 @@ beschliesst:
 <sup>4</sup> Beiträge werden nur ausgerichtet, wenn je Hektare höchstens folgende Anzahl Bäume stehen:
 
 - 1\. 120 Kernobst- und Steinobstbäume, ohne Kirschbäume;
+
 - 2\. 100 Kirsch-, Nuss- und Kastanienbäume.
 
 <sup>5</sup> Von der Beitragsberechtigung ausgenommen sind:
 
 - 1\. Pflanzungen in Obstanlagen gemäss der Landwirtschaftlichen Begriffsverordnung (LBV)[^2-1];
+
 - 2\. Spindelhochstamm-Feldobstbäume.
 
 [^2-1]: SR 910.91
@@ -86,17 +90,45 @@ beschliesst:
 <sup>2</sup> Den Gesuchen sind insbesondere beizulegen:
 
 - 1\. die Kaufbelege für das Pflanzgut mit dem Nachweis der Sorte;
+
 - 2\. ein Situationsplan, auf dem die Pflanzstandorte eingetragen sind.
 
 <sup>3</sup> Das Amt kontrolliert die Einhaltung der Bedingungen und Auflagen.
 
-### 1.1.2 Verminderung von Ammoniakverlusten
+### 2. Verminderung von Ammoniakverlusten
 
-#### § 5–7
+[^h2Verminderungvon-1]: Fassung gemäss Regierungsratsbeschluss vom 19. Mai 2020, A 2020, 1070, in Kraft seit 1. Januar 2020
 
-**…**
+#### § 5
 
-### 1.1.3 Produktionssysteme
+**Grundsatz[^h2Verminderungvon-1]**
+
+<sup>1</sup> Der Kanton fördert das Ausbringen von flüssigem Hof- und Recyclingdünger mittels emissionsmindernder Ausbringverfahren wie dem Schleppschlauchverfahren mit einzelbetrieblichen Beiträgen.
+
+<sup>2</sup> Die Gewährung der Beiträge richtet sich nach der Verordnung über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung, DZV)[^5-1].
+
+[^5-1]: SR 910.13
+[^5-2]: Fassung gemäss Regierungsratsbeschluss vom 19. Mai 2020, A 2020, 1070, in Kraft seit 1. Januar 2020
+
+#### § 6
+
+**Beitrag[^5-2]**
+
+Der Beitrag beträgt Fr. 10.– je Hektare und Güllegabe.
+
+[^6-1]: Fassung gemäss Regierungsratsbeschluss vom 19. Mai 2020, A 2020, 1070, in Kraft seit 1. Januar 2020
+
+#### § 7
+
+**Nachweispflicht[^6-1]**
+
+<sup>1</sup> Die gesuchstellende Person hat die gemäss Art. 78 Abs. 4 DZV[^7-1] erforderlichen Aufzeichnungen beim Amt einzureichen.
+
+<sup>2</sup> Das Amt bestimmt, in welcher Form die Eingabe zu erfolgen hat.
+
+- 3\. Produktionssysteme
+
+[^7-1]: SR 910.13
 
 #### § 8
 
@@ -107,14 +139,15 @@ beschliesst:
 <sup>2</sup> Die Gewährung der Beiträge richtet sich nach der DZV[^8-1].
 
 [^8-1]: SR 910.13
+[^8-2]: Fassung gemäss Regierungsratsbeschluss vom 26. Juni 2018, A 2018, 1216; in Kraft seit 1. August 2018
 
 #### § 9
 
-**Beitrag**
+**Beitrag[^8-2]**
 
-<sup>1</sup> Der Beitrag beträgt Fr. 30.– je Hektare Grünfläche des Betriebs und Jahr.
+Der Beitrag beträgt Fr. 30.– je Hektare Grünfläche des Betriebs und Jahr.
 
-### 1.1.4 Biodiversität
+- 4\. Biodiversität
 
 #### § 10
 
@@ -130,7 +163,7 @@ beschliesst:
 
 **Bewertungsgrundlagen für den Qualitätsbeitrag**
 
-<sup>1</sup> Die für den Natur- und Landschaftsschutz zuständige Direktion kann unter Vorbehalt von Art. 59 Abs. 3 DZV[^11-1] andere Grundlagen für die Bewertung der botanischen Qualitätsstufe II und der für die Biodiversität förderlichen Strukturen festlegen.
+Die für den Natur- und Landschaftsschutz zuständige Direktion kann unter Vorbehalt von Art. 59 Abs. 3 DZV[^11-1] andere Grundlagen für die Bewertung der botanischen Qualitätsstufe II und der für die Biodiversität förderlichen Strukturen festlegen.
 
 [^11-1]: SR 910.13
 
@@ -156,7 +189,7 @@ beschliesst:
 
 <sup>2</sup> Für Flächen in rechtskräftig ausgeschiedenen nationalen oder kantonalen Naturschutzgebieten und für Flächen, für die kantonale Naturschutzverträge bestehen, ist die Fachstelle für Natur- und Landschaftsschutz für die Beurteilung und die Kontrolle zuständig.
 
-### 1.1.5 Landschaftsqualität
+- 5\. Landschaftsqualität
 
 #### § 14
 
@@ -167,7 +200,7 @@ beschliesst:
 <sup>2</sup> Die Gewährung von Landschaftsqualitätsbeiträgen richtet sich nach der DZV[^14-1] sowie der Richtlinie für Landschaftsqualitätsbeiträge des Bundesamtes für Landwirtschaft[^14-2].
 
 [^14-1]: SR 910.13
-[^14-2]: [https://www.blw.admin.ch/blw/de/home/instrumente/direktzahlungen/landschaftsqualitaetsbeitrag.html](https://www.blw.admin.ch/blw/de/home/instrumente/direktzahlungen/landschaftsqualitaetsbeitrag.html)
+[^14-2]: http://www.blw.admin.ch/themen/00006/01714/01760/index.html?lang=de
 
 #### § 15
 
@@ -185,15 +218,15 @@ beschliesst:
 
 <sup>2</sup> Der Kanton entrichtet einen Neuntel des Beitrages des Bundes.
 
-### 1.1.6 Projekte
+- 6\. Projekte
 
 #### § 17
 
 **Unterstützung von Projekten**
 
-<sup>1</sup> Projekte, welche die Förderung einer umweltgerechten, landschaftsverträglichen oder ressourceneffizienten Bewirtschaftung zum Ziel haben, kann die Direktion mit Beiträgen unterstützen.
+Projekte, welche die Förderung einer umweltgerechten, landschaftsverträglichen oder ressourceneffizienten Bewirtschaftung zum Ziel haben, kann die Direktion mit Beiträgen unterstützen.
 
-### 1.2 Absatzförderung
+### B. Absatzförderung
 
 #### § 18
 
@@ -211,7 +244,7 @@ beschliesst:
 
 **Landwirtschaftsprodukte**
 
-<sup>1</sup> Als Landwirtschaftsprodukte im Sinne dieser Verordnung gelten verwertbare Erzeugnisse aus Pflanzenbau und Nutztierhaltung.
+Als Landwirtschaftsprodukte im Sinne dieser Verordnung gelten verwertbare Erzeugnisse aus Pflanzenbau und Nutztierhaltung.
 
 #### § 20
 
@@ -220,8 +253,11 @@ beschliesst:
 <sup>1</sup> Beiträge werden ausgerichtet, wenn die Massnahme oder das Projekt:
 
 - 1\. die Wettbewerbsfähigkeit der Landwirtschaft erhält oder fördert;
+
 - 2\. regionalwirtschaftlichen Interessen nicht zuwiderläuft;
+
 - 3\. die Erhaltung der Marktanteile oder eine positive Wirkung auf die regionale Wertschöpfung bezweckt; und
+
 - 4\. den Anforderungen zur Erreichung der Massnahmen- und Projektziele genügt.
 
 <sup>2</sup> Die Trägerschaft hat mindestens 40 Prozent der anrechenbaren Kosten zu finanzieren; bei Vorabklärungen werden Beiträge Dritter angerechnet.
@@ -230,11 +266,14 @@ beschliesst:
 
 #### § 21
 
-**Beiträge 1. anrechenbare Kosten**
+**Beiträge**
 
-<sup>1</sup> Als anrechenbare Kosten gelten Aufwendungen, die für die Ausarbeitung und zweckmässige Durchführung der Massnahme oder des Projektes erforderlich sind, insbesondere:
+### 1. anrechenbare Kosten
+
+Als anrechenbare Kosten gelten Aufwendungen, die für die Ausarbeitung und zweckmässige Durchführung der Massnahme oder des Projektes erforderlich sind, insbesondere:
 
 - 1\. für Vorabklärungen, die Planung, den Aufbau und die Koordination; sowie
+
 - 2\. im Bereich Marketing und Kommunikation.
 
 #### § 22
@@ -254,16 +293,18 @@ beschliesst:
 <sup>2</sup> Sie haben mindestens folgende Unterlagen zu umfassen:
 
 - 1\. eine Stellungnahme zur Erfüllung der Voraussetzungen gemäss § 20;
+
 - 2\. den Massnahmen- oder Projektbeschrieb mit Antrag; und
+
 - 3\. das Budget sowie den Finanzierungsplan.
 
-### 1.3 Qualität
+### C. Qualität
 
 #### § 24
 
 **Sicherung der Milchqualität**
 
-<sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt ist zuständig für die Kontrolle der Tierhaltungen und der Tiere gemäss Art. 14 der Milchprüfungsverordnung (MiPV)[^24-1] und verfügt die Milchliefersperre gemäss Art. 15 MiPV.
+Die Kantonstierärztin oder der Kantonstierarzt ist zuständig für die Kontrolle der Tierhaltungen und der Tiere gemäss Art. 14 der Milchprüfungsverordnung (MiPV)[^24-1] und verfügt die Milchliefersperre gemäss Art. 15 MiPV.
 
 [^24-1]: SR 916.351.0
 
@@ -271,27 +312,29 @@ beschliesst:
 
 **Primärproduktion**
 
-<sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt ist zuständig für die Kontrollen in der Primärproduktion gemäss Art. 7 und 8 der Verordnung über die Primärproduktion (VPrP)[^25-1].
+Die Kantonstierärztin oder der Kantonstierarzt ist zuständig für die Kontrollen in der Primärproduktion gemäss Art. 7 und 8 der Verordnung über die Primärproduktion (VPrP)[^25-1].
 
 [^25-1]: SR 916.020
 
-## 2 Soziale Begleitmassnahmen
+### II. SOZIALE BEGLEITMASSNAHMEN
 
 #### § 26
 
 **Betriebshilfe**
 
-<sup>1</sup> Für die Beurteilung der wirtschaftlichen Tragbarkeit gemäss Art. 7 der Verordnung über die sozialen Begleitmassnahmen in der Landwirtschaft (SBMV)[^26-1] sowie für die Auflagen sind die §§ 33–36 anwendbar.
+Für die Beurteilung der wirtschaftlichen Tragbarkeit gemäss Art. 7 der Verordnung über die sozialen Begleitmassnahmen in der Landwirtschaft (SBMV)[^26-1] sowie für die Auflagen sind die §§ 33–36 anwendbar.
 
 [^26-1]: SR 914.11
 
 #### § 27
 
-**Betriebsumstellungen, Betriebsaufgaben 1. Grundsatz**
+**Betriebsumstellungen, Betriebsaufgaben**
 
-<sup>1</sup> Der Kanton leistet im Rahmen von Art. 13 kLwG[^27-1] Beiträge an die Erarbeitung von Entscheidungsgrundlagen für Betriebsumstellungen oder Betriebsaufgaben.
+### 1. Grundsatz
 
-[^27-1]: NG 821.1
+Der Kanton leistet im Rahmen von Art. 13 kLwG[^h1Grundsatz-1] Beiträge an die Erarbeitung von Entscheidungsgrundlagen für Betriebsumstellungen oder Betriebsaufgaben.
+
+[^h1Grundsatz-1]: NG 821.1
 
 #### § 28
 
@@ -309,19 +352,21 @@ beschliesst:
 
 <sup>2</sup> Die Betriebsleitung hat mindestens 50 Prozent der Kosten zu tragen.
 
-<sup>3</sup> Je Betrieb werden innerhalb von fünf Jahren Beiträge von insgesamt höchstens Fr. 5'000.– ausbezahlt.
+<sup>3</sup> Je Betrieb werden innerhalb von fünf Jahren Beiträge von insgesamt höchstens Fr. 5‘000.– ausbezahlt.
 
 #### § 30
 
 **4. Gesuche**
 
-<sup>1</sup> Beitragsgesuche können jederzeit eingereicht werden.
+Beitragsgesuche können jederzeit eingereicht werden.
 
-## 3 Strukturverbesserungen
+### III. STRUKTURVERBESSERUNGEN
 
 #### § 31
 
-**Allgemeine Bestimmungen 1. Grundsatz**
+**Allgemeine Bestimmungen**
+
+### 1. Grundsatz
 
 <sup>1</sup> Investitionshilfen wie Beiträge und Investitionskredite werden nur gewährt, wenn die Finanzierung und die Tragbarkeit der Massnahmen auch unter Berücksichtigung der zukünftigen agrarpolitischen und wirtschaftlichen Rahmenbedingungen ausgewiesen sind.
 
@@ -329,23 +374,29 @@ beschliesst:
 
 <sup>3</sup> Unter Vorbehalt abweichender Bestimmungen findet die Bundesgesetzgebung Anwendung.
 
+[^h1Grundsatz_2-1]: Fassung gemäss Regierungsratsbeschluss vom 12. Dezember 2017, A 2018, 14; in Kraft seit 1. Januar 2018
+
 #### § 32
 
-**2. Mindestbeiträge**
+**2. Mindestbeiträge[^h1Grundsatz_2-1]**
 
-<sup>1</sup> Für landwirtschaftliche Strukturverbesserungen werden keine kantonalen Beiträge unter Fr. 10'000.– gewährt.
+<sup>1</sup> Für landwirtschaftliche Strukturverbesserungen werden keine kantonalen Beiträge unter Fr. 10‘000.– gewährt.
 
-<sup>2</sup> Die Untergrenze gilt nicht für Beiträge an Grundlagenbeschaffungen, Untersuchungen, periodische Wiederinstandstellungen sowie bauliche Massnahmen und Einrichtungen für ökologische Ziele.
+<sup>2</sup> Die Untergrenze gilt nicht für Beiträge an Grundlagenbeschaffungen, Untersuchungen, periodische Wiederinstandstellungen sowie bauliche Massnahmen und Einrichtungen für ökologische Ziele.[^32-1]
+
+[^32-1]: Fassung gemäss Regierungsratsbeschluss vom 26. November 2019, A 2019, 2075; in Kraft seit 1. Januar 2020
 
 #### § 33
 
-**Einzelbetriebliche Massnahmen 1. Betriebsführung**
+**Einzelbetriebliche Massnahmen**
+
+### 1. Betriebsführung
 
 <sup>1</sup> Um die erfolgreiche Betriebsführung nachzuweisen, sind mit dem Gesuch für einzelbetriebliche Massnahmen die Buchhaltungsabschlüsse der vergangenen drei Jahre vorzulegen.
 
-<sup>2</sup> Bei grossen Investitionen ist die Zweckmässigkeit mit einem Betriebskonzept gemäss Art. 6 Abs. 2 der Verordnung über die Strukturverbesserungen in der Landwirtschaft (Strukturverbesserungsverordnung, SVV)[^33-1] zu belegen.
+<sup>2</sup> Bei grossen Investitionen ist die Zweckmässigkeit mit einem Betriebskonzept gemäss Art. 6 Abs. 2 der Verordnung über die Strukturverbesserungen in der Landwirtschaft (Strukturverbesserungsverordnung, SVV)[^h1Betriebsführung-1] zu belegen.
 
-[^33-1]: SR 913.1
+[^h1Betriebsführung-1]: SR 913.1
 
 #### § 34
 
@@ -383,13 +434,13 @@ beschliesst:
 
 <sup>3</sup> Zur Überprüfung der wirtschaftlichen Lage eines Betriebes, der Investitionshilfen beansprucht hat, kann das Amt jederzeit die betriebswirtschaftliche Buchhaltung mit einem Kurzbericht einfordern.
 
-<sup>4</sup> Diese Auflagen gelten auch für Rechtsnachfolgerinnen oder Rechtsnachfolger und sind bei der Gewährung von Beiträgen während 20 Jahren oder bei der Gewährung von Investitionskrediten für die Dauer der Rückzahlung einzuhalten.
+<sup>4</sup> Diese Auflagen gelten auch für Rechtsnachfolgerinnen oder Rechtsnachfolger und sind bei der Gewährung von Beiträgen währen 20 Jahren oder bei der Gewährung von Investitionskrediten für die Dauer der Rückzahlung einzuhalten.
 
 #### § 37
 
 **5. Betrieb der Milchwirtschaft**
 
-<sup>1</sup> Betriebe mit mehr als 15'000 kg vermarkteter Kuhmilch gelten als Betriebe der Milchwirtschaft im Sinne von Art. 15 Abs. 2 kLwG[^37-1].
+Betriebe mit mehr als 15‘000 kg vermarkteter Kuhmilch gelten als Betriebe der Milchwirtschaft im Sinne von Art. 15 Abs. 2 kLwG[^37-1].
 
 [^37-1]: NG 821.1
 
@@ -397,7 +448,7 @@ beschliesst:
 
 **Veröffentlichung der Projekte**
 
-<sup>1</sup> Das Amt stellt die Publikation gemäss Art. 97 des Bundesgesetzes über die Landwirtschaft (Landwirtschaftsgesetz, LwG)[^38-1] sicher. Diese erfolgt in der Regel im Rahmen des Baubewilligungsverfahrens.
+Das Amt stellt die Publikation gemäss Art. 97 des Bundesgesetzes über die Landwirtschaft (Landwirtschaftsgesetz, LwG)[^38-1] sicher. Diese erfolgt in der Regel im Rahmen des Baubewilligungsverfahrens.
 
 [^38-1]: SR 910.1
 
@@ -410,10 +461,15 @@ beschliesst:
 <sup>2</sup> Die beteiligten Parteien haben sich im Vertrag über folgende Punkte zu einigen:
 
 - 1\. Grundstücke, die der Umlegung unterworfen werden sollen;
+
 - 2\. Mutationsplan der Nachführungsgeometerin oder des Nachführungsgeometers mit den alten und den neuen Eigentumsgrenzen;
+
 - 3\. Bereinigung der dinglichen sowie der vorgemerkten und der angemerkten Rechte;
+
 - 4\. Abgeltung allfälliger Mehr- und Minderwertzuteilungen;
+
 - 5\. Verteilung der Kosten;
+
 - 6\. Anmeldung der bereinigten dinglichen sowie vorgemerkten und angemerkten Rechte im Grundbuch.
 
 <sup>3</sup> Der Vertrag bedarf der Genehmigung der Direktion.
@@ -422,7 +478,7 @@ beschliesst:
 
 [^39-1]: SR 910.1
 
-## 4 Organisation und Verfahren
+### IV. ORGANISATION UND VERFAHREN
 
 #### § 40
 
@@ -469,17 +525,17 @@ beschliesst:
 
 **Rückerstattung und Verrechnung von Beiträgen**
 
-<sup>1</sup> Sind Beiträge gestützt auf Art. 23 kLwG[^44-1] zurückzuerstatten, können diese mit allfälligen Guthaben von Direktzahlungen verrechnet werden.
+Sind Beiträge gestützt auf Art. 23 kLwG[^44-1] zurückzuerstatten, können diese mit allfälligen Guthaben von Direktzahlungen verrechnet werden.
 
 [^44-1]: NG 821.1
 
-## 5 Schlussbestimmung
+### V. SCHLUSSBESTIMMUNG
 
 #### § 45
 
 **Änderung der Regierungsratsverordnung**
 
-<sup>1</sup> Der Anhang der Vollzugsverordnung vom 7. Juli 1998 zum Gesetz über die Organisation des Regierungsrates und der Verwaltung (Regierungsratsverordnung)[^45-1] wird wie folgt geändert: …
+Der Anhang der Vollzugsverordnung vom 7. Juli 1998 zum Gesetz über die Organisation des Regierungsrates und der Verwaltung (Regierungsratsverordnung)[^45-1] wird wie folgt geändert: …
 
 [^45-1]: NG 152.11
 
@@ -487,6 +543,4 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2016 in Kraft.
-
-A 2015, 1518
+Diese Verordnung tritt am 1. Januar 2016 in Kraft.
