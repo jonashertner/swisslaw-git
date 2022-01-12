@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2022-01-10
+version: 2022-01-13
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220110/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220110-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220110/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220113/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220113-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220113/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220110/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 10. Januar 2022)
+vom 23. Juni 2021 (Stand am 13. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -152,76 +152,61 @@ Sozialmedizinische Institutionen können nach Rücksprache mit der zuständigen 
 
 #### Art. 7
 
-**Anordnung der Kontaktquarantäne**
+**Anordnung der Kontaktquarantäne**[^7-1]
 
 <sup>1</sup>
 
-Die zuständige kantonale Behörde stellt Personen unter Kontaktquarantäne, die in einem der folgenden Zeiträume engen Kontakt hatten mit:
+Die zuständige kantonale Behörde stellt Personen unter Kontaktquarantäne, die in einem der folgenden Zeiträume im selben Haushalt lebten oder in ähnlicher Weise regelmässigen und engen Kontakt hatten mit:
 
-- a. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt oder wahrscheinlich ist und die symptomatisch ist: in den letzten 48 Stunden vor dem Auftreten der Symptome und bis 10 Tage danach;
+- a. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt oder wahrscheinlich ist und die symptomatisch ist: in den letzten 48 Stunden vor dem Auftreten der Symptome und bis 5 Tage danach;
 - b. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt ist und die asymptomatisch ist: in den letzten 48 Stunden vor der Probenentnahme und bis zur Absonderung der Person.
 
 <sup>2</sup>
 
 Von der Kontaktquarantäne ausgenommen sind Personen, die:
 
-- a. nachweisen, dass sie gegen Covid-19 geimpft wurden: für die in Anhang 2 festgelegte Dauer;
+- a. nachweisen, dass sie gegen Covid-19 geimpft wurden: für die in Anhang 2 festgelegten Impfstoffe und festgelegte Dauer;
 - b. nachweisen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten: für die in Anhang 2 festgelegte Dauer;
 - c. eine Tätigkeit ausüben, die für die Gesellschaft von grosser Bedeutung ist und bei der ein akuter Personalmangel herrscht: während der Ausübung der beruflichen Tätigkeit und auf dem Arbeitsweg.
 
-<sup>3</sup> Welche Personen im Sinne von Absatz 2 Buchstabe a als geimpft gelten, wird in Anhang 2 geregelt.
+<sup>3</sup>
 
-<sup>4</sup>
+Die zuständige kantonale Behörde kann Personen oder Kategorien von Personen während der Ausübung der beruflichen Tätigkeit und auf dem Arbeitsweg von der Kontaktquarantäne ausnehmen, sofern sie in Betrieben tätig sind, die über ein Testkonzept verfügen, das gewährleistet, dass:
 
-Von der Kontaktquarantäne während der Ausübung der beruflichen Tätigkeit und auf dem Arbeitsweg ausgenommen sind Personen, die in Betrieben tätig sind, die über ein Testkonzept verfügen, das die folgenden Anforderungen erfüllt:
+- a. die Mitarbeitenden einfachen Zugang zu Tests haben und regelmässig über die Vorteile der Tests informiert werden;
+- b. die Mitarbeitenden sich mindestens einmal pro Woche testen lassen können;
+- c. die Voraussetzungen für die Übernahme der Kosten der Tests durch den Bund nach Anhang 6 Ziffern 3.1 und 3.2 der Covid-19-Verordnung 3 vom 19. Juni 2020[^7-2] erfüllt sind.
 
-- a. Das Konzept gewährleistet den Mitarbeitenden einen einfachen Zugang zu Tests und sieht vor, dass sie regelmässig über die Vorteile der Tests informiert werden.
-- b. Die Mitarbeitenden können sich mindestens einmal pro Woche testen lassen.
-- c. Die Voraussetzungen für die Übernahme der Kosten der Tests durch den Bund nach Anhang 6 Ziffern 3.1 und 3.2 der Covid-19-Verordnung 3 vom 19. Juni 2020[^7-1] sind erfüllt.
+<sup>4</sup> Die Personen nach den Absätzen 2 Buchstabe c und 3 müssen ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und den erforderlichen Abstand zu anderen Personen einhalten. Sie müssen sich ausserhalb der beruflichen Tätigkeit und des Arbeitswegs an die Kontaktquarantäne halten.
 
-<sup>5</sup> Die Personen nach Absatz 4 müssen sich ausserhalb der beruflichen Tätigkeit und des Arbeitswegs an die Kontaktquarantäne halten.
-
-<sup>6</sup>
+<sup>5</sup>
 
 Die zuständige kantonale Behörde kann in begründeten Fällen für bestimmte Personen oder Kategorien von Personen:
 
-- a. weitere Ausnahmen von der Kontaktquarantäne bewilligen oder Erleichterungen gewähren;
-- b. in anderen Fällen als nach Absatz 1 oder auch wenn die Voraussetzungen nach den Absätzen 2 und 4 erfüllt sind, eine Kontaktquarantäne vorsehen, wenn dies zur Verhinderung der Verbreitung von Covid-19 erforderlich ist.
+- a. weitere Ausnahmen von der Kontaktquarantäne bewilligen, Erleichterungen gewähren oder die Kontaktquarantäne vorzeitig aufheben;
+- b. eine längere Dauer der Kontaktquarantäne anordnen;
+- c. eine Kontaktquarantäne vorsehen, obwohl die Voraussetzungen nach Absatz 1 nicht erfüllt oder die Voraussetzungen nach den Absätzen 2 Buchstabe c oder 3 erfüllt sind.
 
-<sup>7</sup> Sie informiert das BAG über Massnahmen gegenüber Kategorien von Personen nach Absatz 6.
+<sup>6</sup> Sie informiert das BAG über Massnahmen gegenüber Kategorien von Personen nach Absatz 5.
 
-[^7-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-1]: Fassung gemäss Ziff. I der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung), in Kraft seit 13. Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^7-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 8
 
-**Dauer und vorzeitige Beendigung der Kontaktquarantäne**
+**Dauer der Kontaktquarantäne**[^8-1]
 
-<sup>1</sup> Die Kontaktquarantäne dauert 10 Tage ab dem Zeitpunkt des letzten engen Kontakts mit der Person nach Artikel 7 Absatz 1.
+<sup>1</sup> Die Kontaktquarantäne dauert 5 Tage ab dem Zeitpunkt des letzten engen Kontakts mit der Person nach Artikel 7 Absatz 1.
 
-<sup>2</sup>
+<sup>2</sup> Anderslautende Anordnungen der zuständigen kantonalen Behörde nach Artikel 7 Absatz 5 bleiben vorbehalten.
 
-Personen in Kontaktquarantäne können die Quarantäne vorzeitig beenden, wenn die folgenden Voraussetzungen erfüllt sind:
-
-- a.
-
-  Die Person legt der zuständigen kantonalen Behörde das negative Resultat einer der folgenden Analysen vor, wobei die Analyse frühestens am siebten Tag der Quarantäne durchgeführt worden sein darf:
-
-  - 1\. molekularbiologische Analyse auf Sars-CoV-2;
-  - 2\.[^8-1] Sars-CoV-2-Schnelltest zur Fachanwendung;
-  - 3\.[^8-2] laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene.
-
-- b. Die zuständige kantonale Behörde stimmt der vorzeitigen Beendigung der Quarantäne zu.
-
-<sup>3</sup> Personen ab 12 Jahren, die nach Absatz 2 die Kontaktquarantäne vorzeitig beenden, müssen bis zu dem Zeitpunkt, bis zu dem die Quarantäne gedauert hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.
-
-[^8-1]: Fassung gemäss Anhang Ziff. 1 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
-[^8-2]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^8-1]: Fassung gemäss Ziff. I der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung), in Kraft seit 13. Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
 
 #### Art. 9
 
-**Absonderung**
+**Absonderung**[^9-1]
 
-<sup>1</sup> Die zuständige kantonale Behörde ordnet bei Personen, die an Covid-19 erkrankt sind oder sich mit Sars-CoV-2 angesteckt haben, eine Absonderung von 10 Tagen an.
+<sup>1</sup> Die zuständige kantonale Behörde ordnet bei Personen, die an Covid-19 erkrankt sind oder sich mit Sars-CoV-2 angesteckt haben, eine Absonderung von 5 Tagen an.
 
 <sup>2</sup> Zeigt die Person besonders schwere Symptome oder ist sie stark immunsupprimiert, so kann die zuständige kantonale Behörde eine längere Dauer der Absonderung anordnen.
 
@@ -234,10 +219,21 @@ Die Absonderungsdauer beginnt zu laufen:
 
 <sup>4</sup>
 
-Die zuständige kantonale Behörde hebt die Absonderung frühestens nach 10 Tagen auf, wenn die abgesonderte Person:
+Die zuständige kantonale Behörde hebt die Absonderung frühestens nach 5 Tagen auf, wenn die abgesonderte Person:
 
 - a. seit mindestens 48 Stunden symptomfrei ist; oder
 - b. zwar weiterhin Symptome aufweist, diese aber derart sind, dass die Aufrechterhaltung der Absonderung nicht mehr gerechtfertigt ist.
+
+<sup>5</sup>
+
+Die zuständige kantonale Behörde kann Personen oder Kategorien von Personen während der Ausübung der beruflichen Tätigkeit und auf dem Arbeitsweg von der Absonderung ausnehmen, wenn folgende Voraussetzungen erfüllt sind:
+
+- a. Die Personen üben eine Tätigkeit aus, die für die Gesellschaft von grosser Bedeutung ist und bei der ein akuter Personalmangel herrscht.
+- b. Für die Tätigkeit gilt ein Schutzkonzept, das mit geeigneten Massnahmen eine Übertragung von Sars-CoV-2 von diesen Personen auf weitere Personen verhindert.
+
+<sup>6</sup> Personen, die nach Absatz 5 von der Absonderung ausgenommen sind, müssen ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und den erforderlichen Abstand zu anderen Personen einhalten. Sie müssen sich ausserhalb der beruflichen Tätigkeit und des Arbeitswegs an die Absonderung halten.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung), in Kraft seit 13. Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
 
 ## 4. Abschnitt: Massnahmen betreffend öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen
 
@@ -576,17 +572,18 @@ In Innenräumen, einschliesslich Fahrzeugen, in denen sich mehr als eine Person 
 
 Sie sind unter den folgenden Voraussetzungen berechtigt, zu überprüfen, ob ihre Arbeitnehmerinnen und Arbeitnehmer über ein Impf-, Genesungs- oder Testzertifikat verfügen:
 
-- a. Die Überprüfung dient einzig der Festlegung von angemessenen Schutzmassnahmen oder der Umsetzung des Testkonzepts nach Artikel 7 Absatz 4.
+- a.[^25-2] Die Überprüfung dient einzig der Festlegung von angemessenen Schutzmassnahmen oder der Umsetzung eines Testkonzepts nach Artikel 7 Absatz 3.
 - b. Das Ergebnis der Überprüfung wird nicht für andere Zwecke verwendet.
 - c. Die Überprüfung und die daraus abgeleiteten Massnahmen werden schriftlich festgehalten.
 - d. Die Arbeitnehmerinnen und Arbeitnehmer oder deren Vertretung werden vorgängig angehört.
 
 <sup>5</sup> Die Arbeitgeber sind verpflichtet sicherzustellen, dass die Arbeitnehmerinnen und Arbeitnehmer ihre Arbeitsverpflichtungen von zu Hause aus erfüllen, wo dies aufgrund der Art der Aktivität möglich und mit verhältnismässigem Aufwand umsetzbar ist. Sie treffen die geeigneten organisatorischen und technischen Massnahmen.
 
-<sup>6</sup> Für den Schutz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer gilt zudem Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^25-2].
+<sup>6</sup> Für den Schutz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer gilt zudem Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^25-3].
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^25-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^25-2]: Fassung gemäss Ziff. I der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung), in Kraft seit 13. Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^25-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -774,11 +771,11 @@ Das Schutzkonzept enthält Massnahmen in Bezug auf:
 
 Anhang 2*[^t-2]*
 
-(Art. 6 Abs. 5 und 6, 7 Abs. 2 und 3 sowie 29)
+(Art. 6 Abs. 5 und 6, 7 Abs. 2 sowie 29)
 
 ## Vorgaben für die Ausnahmen von der Maskenpflicht und von der Kontaktquarantäne für geimpfte und genesene Personen
 
-[^t-2]: Bereinigt gemäss Anhang Ziff. 4 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Anhang Ziff. 2 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. II der V des EDI vom 29. Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) und Anhang Ziff. 1 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-2]: Bereinigt gemäss Anhang Ziff. 4 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. I der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung), in Kraft seit 13. Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
 
 ### 1 Geimpfte Personen
 
@@ -791,14 +788,20 @@ Anhang 2*[^t-2]*
   - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
   - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
-- 1\.2 Die Dauer, während der geimpfte Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. a) und geimpfte Personen nach der Impfung von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. a) ausgenommen sind, beträgt 365 Tage ab vollständig erfolgter Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung.
+- 1\.2 Die Dauer, während der geimpfte Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. a) ausgenommen sind, beträgt 365 Tage ab vollständig erfolgter Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung.
+- 1\.3 Die Dauer, während der geimpfte Personen nach der Impfung von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. a) ausgenommen sind, beträgt 120 Tage ab vollständig erfolgter Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 120 Tage ab dem 22. Tag nach erfolgter Impfung.
 
 ### 2 Genesene Personen
 
-Während der folgenden Zeitdauern sind genesene Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. b) und genesene Personen von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. b) ausgenommen:
+- 2\.1
 
-- a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2, eines Sars-CoV-2-Schnelltests zur Fachanwendung oder einer laborbasierten immunologischen Analyse auf Sars-CoV-2-Antigene: vom 11. bis zum 365. Tag ab Bestätigung der Ansteckung;
-- b. im Falle einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]: während der Dauer der Gültigkeit des entsprechenden Zertifikats.
+  Genesene Bewohnerinnen und Bewohner sozialmedizinischer Institutionen sind während folgender Zeitdauern von der Maskenpflicht (Art. 6 Abs. 5 Bst. b) ausgenommen:
+
+  - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2, eines Sars-CoV-2-Schnelltests zur Fachanwendung oder einer laborbasierten immunologischen Analyse auf Sars-CoV-2-Antigene: vom 6. bis zum 365. Tag ab Bestätigung der Ansteckung;
+  - b. im Falle einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]: während der Dauer der Gültigkeit des entsprechenden Zertifikats.
+
+- 2\.2 Genesene Personen sind während folgender Zeitdauer von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. b) ausgenommen: vom 6. bis zum 120. Tag ab Bestätigung der Ansteckung durch eine molekularbiologische Analyse auf Sars-CoV-2, einen Sars-CoV-2-Schnelltest zur Fachanwendung oder eine laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene.
+- [tab]
 
 [^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 

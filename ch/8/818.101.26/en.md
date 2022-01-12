@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2022-01-10
+version: 2022-01-13
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220110/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220110-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220110/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220113/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220113-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220113/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 10 January 2022)
+of 23 June 2021 (Status as of 13 January 2022)
 
 The Swiss Federal Council,
 
@@ -157,75 +157,61 @@ Socio-medical institutions may in consultation with the responsible cantonal aut
 
 #### Art. 7
 
-**Ordering contact quarantine**
+**Ordering contact quarantine**[^7-1]
 
 <sup>1</sup>
 
-The responsible cantonal authority shall place into quarantine persons who within the periods specified below have had close contact with the following infected persons:
+The responsible cantonal authority shall place into quarantine persons who within the periods specified below have lived in the same household as or in a similar manner have had regular and close contact with the following persons:
 
-- a. a person whose infection with Sars-CoV-2 has been confirmed or is probable and who is displaying symptoms, where contact takes place in the period from 48 hours before the symptoms began until 10 days thereafter;
+- a. a person whose infection with Sars-CoV-2 has been confirmed or is probable and who is displaying symptoms, where contact takes place in the period from 48 hours before the symptoms began until 5 days thereafter;
 - b. a person whose infection with Sars-CoV-2 has been confirmed but who is asymptomatic, where contact takes place in the period from 48 hours before the person was tested until the person goes into isolation.
 
 <sup>2</sup>
 
 The following persons are exempt from contact quarantine:
 
-- a. persons who prove that they have been vaccinated against COVID-19: for the period specified in Annex 2;
+- a. persons who prove that they have been vaccinated against COVID-19: for the vaccines and period specified in Annex 2;
 - b. persons who prove that they were infected with Sars-CoV-2 and have recovered: for the period specified in Annex 2;
 - c. persons who carry out an activity that is of high importance to society and for which there is an acute shortage of staff; while working and when travelling to work.
 
-<sup>3</sup> The persons who are regarded as vaccinated in terms of paragraph 3 letter a are defined in Annex 2.
+<sup>3</sup>
 
-<sup>4</sup>
+The responsible cantonal authority may exempt specific persons or categories of persons from contact quarantine while working and when travelling to work provided they work for businesses that have a testing plan that guarantees that:
 
-Persons working for businesses that have a testing plan that meets the following requirements are exempted from contact quarantine while working and when travelling to work:
+- a. the employees have simple access to tests and are regularly informed of the advantages of the tests;
+- b. the employees are able to take a test at least once a week;
+- c. the requirements are met for the Confederation to pay the cost of the tests in accordance with Annex 6 Sections 3.1 and 3.2 the COVID-19 Ordinance 3 of 19 June 2020[^7-2].
 
-- a. The plan allows employees simple access to tests and provides that employees are regularly informed of the advantages of the tests.
-- b. Employees are able to take a test at least once a week.
-- c. The requirements are met for the Confederation to pay the cost of the tests in accordance with Annex 6 Sections 3.1 and 3.2 the COVID-19 Ordinance 3 of 19 June 2020[^7-1].
+<sup>4</sup> The persons mentioned in paragraphs 2 letter c and 3 must wear a face mask outside their homes or accommodation and maintain the required distance from other persons. They must remain in contact quarantine when not at work or travelling to work.
 
-<sup>5</sup> The persons specified in paragraph 4 must remain in contact quarantine when not at work or travelling to work.
+<sup>5</sup>
 
-<sup>6</sup>
+In respect of specific persons or categories of persons, the responsible cantonal authority may in justified cases:
 
-In respect of specific persons or categories of persons, the responsible cantonal authority may:
+- a. authorise additional exemptions from or relaxations of the regulations on contact quarantine or terminate contact quarantine early;
+- b. order contact quarantine for a longer duration;
+- c. provide for contact quarantine even though the requirements under paragraph 1 are not met or the requirements under paragraphs 2 letter c or 3 are met.
 
-- a. in justified cases authorise additional exemptions from or relaxations of the regulations on contact quarantine for specific persons;
-- b. in cases other than those under paragraph 1 or even if the requirements under paragraphs 2 and 3 are met, place a person in contact quarantine if this is necessary in order to prevent the spread of COVID-19.
-- [tab] <sup>7</sup> It shall notify the FOPH of measures taken in respect of specific categories of persons under paragraph 6.
+<sup>6</sup> It shall notify the FOPH of measures taken in respect of specific categories of persons under paragraph 5.
 
-[^7-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-1]: Amended by Annex No I of the O of 12 Jan. 2022 (Contact Quarantine and Isolation), in force since 13 Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^7-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 8
 
-**Duration and early termination of contact quarantine**
+**Duration of contact quarantine**[^8-1]
 
-<sup>1</sup> Contact quarantine shall last for 10 days from the time of last close contact with the person under Article 7 paragraph 1.
+<sup>1</sup> Contact quarantine shall last for 5 days from the time of last close contact with the person under Article 7 paragraph 1.
 
-<sup>2</sup>
+<sup>2</sup> Orders issued by the responsible cantonal authority in accordance with Article 7 paragraph 5 that provide otherwise remain reserved.
 
-Persons in contact quarantine may leave quarantine early if the following requirements are met:
-
-- a.
-
-  the person provides the responsible cantonal authority with proof of a negative result for one of the following tests on or after the seventh day of quarantine:
-
-  - 1\. a molecular-biological test for Sars-CoV-2,
-  - [tab] 2.[^8-1] a Sars-CoV-2-rapid test for specialist use,
-  - 3\.[^8-2] a laboratory immunological analysis for Sars-CoV-2 antigens;
-
-- b. the responsible cantonal authority agrees to the early termination of quarantine.
-
-<sup>3</sup> Persons over the age of 12 who leave quarantine early pursuant to paragraph 4 must wear a face mask and maintain a distance of at least 1.5 metres from other persons when outside their home or accommodation until the point in time at which quarantine would have ended.
-
-[^8-1]: Amended by Annex No 1 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
-[^8-2]: Inserted by Annex No 1 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^8-1]: Amended by Annex No I of the O of 12 Jan. 2022 (Contact Quarantine and Isolation), in force since 13 Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
 
 #### Art. 9
 
-**Isolation**
+**Isolation**[^9-1]
 
-<sup>1</sup> The responsible cantonal authority shall order persons who are suffering from COVID-19 or who have been infected with Sars-CoV-2 to isolate for 10 days.
+<sup>1</sup> The responsible cantonal authority shall order persons who are suffering from COVID-19 or who have been infected with Sars-CoV-2 to isolate for 5 days.
 
 <sup>2</sup> If a person displays particularly serious symptoms or if he or she suffers from severe immunosuppression, the responsible cantonal authority may order a longer period in isolation.
 
@@ -238,10 +224,21 @@ The period in isolation begins:
 
 <sup>4</sup>
 
-The responsible cantonal authority shall terminate isolation after 10 days at the earliest, provided the person in isolation:
+The responsible cantonal authority shall terminate isolation after 5 days at the earliest, provided the person in isolation:
 
 - a. has been symptom-free for at least 48 hours; or
 - b. continues to display symptoms but these are such that the continuation of isolation is no longer justified.
+
+<sup>5</sup>
+
+The responsible cantonal authority may exempt specific persons or categories of persons from isolation while working and when travelling to work provided the following requirements are met:
+
+- a. The persons concerned carry out an activity that is of high importance to society and for which there is an acute shortage of staff.
+- b. Precautionary measures are taken while carrying out the activity in order to prevent the transmission of Sars-CoV-2 from the persons concerned to other persons.
+
+<sup>6</sup> The persons exempted from isolation in accordance with paragraph 5 must wear a face mask outside their homes or accommodation and maintain the required distance from other persons. They must remain in isolation when not at work or travelling to work.
+
+[^9-1]: Amended by Annex No I of the O of 12 Jan. 2022 (Contact Quarantine and Isolation), in force since 13 Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
 
 ## Section 4 Measures relating to Publicly Accessible Establishments, Businesses and Events
 
@@ -580,16 +577,17 @@ In indoor areas, including vehicles, in which two or more persons are present, e
 
 They are entitled under the following conditions to verify that their employees hold a vaccination, recovery or test certificate:
 
-- a. Verification is to ensure appropriate precautionary measures or implementation of a testing plan pursuant to Article 7 paragraph 4.
+- a.[^25-2] Verification is to ensure appropriate precautionary measures or implementation of a testing plan pursuant to Article 7 paragraph 3.
 - b. The result of such a verification may not be used for any other purpose.
 - c. Verification and any resulting measures are recorded in writing.
 - d. The employees or their representatives are consulted in advance.
 - [tab] <sup>5</sup> Employers are required to ensure that their employees are able to work from home where the nature of the activity permits and provided this can be reasonably expected. They shall implement the required organisational and technical measures.
 
-<sup>6</sup> For the protection of particularly vulnerable employees, Article 27*a* of COVID-19 Ordinance 3 of 19 June 2020[^25-2] also applies.
+<sup>6</sup> For the protection of particularly vulnerable employees, Article 27*a* of COVID-19 Ordinance 3 of 19 June 2020[^25-3] also applies.
 
 [^25-1]: Amended by No I of the O of 17 Dec 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET), in force from 20 Dec. 2021 to 24 Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^25-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^25-2]: Amended by Annex No I of the O of 12 Jan. 2022 (Contact Quarantine and Isolation), in force since 13 Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^25-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -776,11 +774,11 @@ The precautionary measures plan shall include measures related to:
 
 Annex 2*[^t-2]*
 
-(Art. 6 para. 5 and 6, 7 para. 2 and 3 and 29)
+(Art. 6 para. 5 and 6, 7 para. 2 and 29)
 
 ## Requirements for an exemption from the requirement to wear a mask and from contact quarantine for persons who have been vaccinated or who have recovered
 
-[^t-2]: Revised by Annex No 4 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Annex No 2 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II of the FDHA O of 29 Nov. 2021 ([AS 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) and Annex No 1 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-2]: Revised by Annex No 4 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) and Annex No I of the O of 12 Jan. 2022 (Contact Quarantine and Isolation), in force since 13 Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
 
 ### 1 Persons who have been vaccinated
 
@@ -793,14 +791,15 @@ Annex 2*[^t-2]*
   - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered;
   - d. has been shown to have the same composition as a vaccine licensed under letters a, b or c, but marketed by the licence holder under another name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
-- 1\.2 The period during which vaccinated residents of socio-medical institutions are exempt from the requirement to wear a mask (Art. 6 para. 5) and persons who have been vaccinated are exempt from contact quarantine (Art. 7 para. 2 let. a) shall amount to 365 days from the date of vaccination in full; the Janssen Ad26.COV2.S / COVID-19 vaccine is regarded as being effective for 365 days from the 22nd day after it was administered in full.
+- 1\.2 The period during which vaccinated residents of socio-medical institutions are exempt from the requirement to wear a mask (Art. 6 para. 5 let. a) shall amount to 365 days from the date of vaccination in full; the Janssen Ad26.COV2.S / COVID-19 vaccine is regarded as being effective for 365 days from the 22nd day after it was administered in full.
+- 1\.3 The period during which persons who have been vaccinated are exempt from contact quarantine (Art. 7 para. 2 let. a) shall amount to 120 days from the date of vaccination in full; the Janssen Ad26.COV2.S / COVID-19 vaccine is regarded as being effective for 120 days from the 22nd day after it was administered in full.
 
 ### 2 Persons who have recovered
 
-Residents of socio-medical institutions who have recovered are exempt from the requirement to wear a mask (Art. 6 para. 5 let. b) and persons who have recovered are exempt from contact quarantine (Art. 7 para. 2 let. b) for the following periods:
-
-- a. when based on a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2-rapid test for specialist use or a laboratory immunological analysis for Sars-CoV-2 antigens: from the 11th to the 365th day after confirmation of infection;
+- 2\.1 Residents of socio-medical institutions who have recovered are exempt from the requirement to wear a mask (Art. 6 para. 5 let. b) for the following periods:
+- a. when based on a molecular-biological analysis for Sars-CoV-2, a Sars-CoV-2-rapid test for specialist use or a laboratory immunological analysis for Sars-CoV-2 antigens: from the 11th to the 365th day after confirmation of infection;
 - b. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex2-lvlu1-lvl2-1]: for the term of validity of the certificate concerned.
+- 2\.2 Persons who have recovered are exempt from contact quarantine (Art. 7 para. 2 let. a) for the following period: from the 6th to the 120th day following confirmation of infection based on a molecular-biological analysis for Sars-CoV-2, a Sars-CoV-2-rapid test for specialist use or a laboratory immunological analysis for Sars-CoV-2 antigens.
 
 [^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 

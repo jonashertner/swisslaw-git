@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2022-01-10
+version: 2022-01-13
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220110/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220110-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220110/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220113/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220113-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220113/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220110/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 10 gennaio 2022) (Stato 10 gennaio 2022)
+del 23 giugno 2021 (Stato 13 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -152,92 +152,88 @@ Sentita l’autorità cantonale competente, gli istituti medico-sociali possono 
 
 #### Art. 7
 
-**Ordine della quarantena dei contatti**
+**Ordine della quarantena dei contatti**[^7-1]
 
 <sup>1</sup>
 
-L’autorità cantonale competente sottopone alla quarantena dei contatti le persone che in una delle circostanze temporali seguenti hanno avuto un contatto stretto con:
+L’autorità cantonale competente sottopone alla quarantena dei contatti le persone che in una delle circostanze temporali seguenti vivevano nella stessa economia domestica o hanno similmente avuto un contatto regolare e stretto con:
 
-- a. una persona il cui contagio con il SARS-CoV-2 è confermato o probabile e sintomatico: nelle 48 ore prima della comparsa dei sintomi e fino a dieci giorni dopo;
-- b. una persona il cui contagio con il SARS-CoV-2 è confermato e asintomatico: nelle 48 ore prima del prelievo del campione e fino all’isolamento della persona.
+- a. una persona il cui contagio con il SARS-CoV-2 è confermato o probabile e che è sintomatica: nelle 48 ore prima della comparsa dei sintomi e fino a cinque giorni dopo;
+- b. una persona il cui contagio con il SARS-CoV-2 è confermato e che è asintomatica: nelle 48 ore prima del prelievo del campione e fino all’isolamento della persona.
 
 <sup>2</sup>
 
 Sono esentate dalla quarantena dei contatti le persone che:
 
-- a. possono provare di essere vaccinate contro il COVID-19: per il lasso tempo stabilito nell’allegato 2;
+- a. possono provare di essere state vaccinate contro il COVID-19: per i vaccini e il lasso di tempo stabiliti nell’allegato 2;
 - b. possono provare di essere state contagiate dal SARS-CoV-2 e sono considerate guarite: per il lasso di tempo stabilito nell’allegato 2;
 - c. svolgono un’attività che è di grande importanza per la società e per la quale vi è una grave mancanza di personale: durante l’esercizio dell’attività professionale e lungo il tragitto per andare al lavoro.
 
-<sup>3</sup> L’allegato 2 disciplina quali persone sono considerate vaccinate ai sensi del capoverso 2 lettera a.
+<sup>3</sup>
 
-<sup>4</sup>
+L’autorità cantonale competente può esentare dalla quarantena dei contatti durante l’esercizio dell’attività professionale e lungo il tragitto per andare al lavoro determinate persone o categorie di persone, purché lavorino in aziende che dispongono di un piano di test che garantisce che:
 
-Sono esentate dalla quarantena dei contatti durante l’esercizio dell’attività professionale e lungo il tragitto per andare al lavoro le persone che lavorano in aziende che dispongono di un piano di test che soddisfa i seguenti requisiti:
+- a. i collaboratori abbiano un accesso semplice ai test e siano informati regolarmente sui vantaggi dei test;
+- b. i collaboratori possano sottoporsi a un test almeno una volta alla settimana;
+- c. siano soddisfatte le condizioni per l’assunzione delle spese dei test da parte della Confederazione secondo l’allegato 6 numeri 3.1 e 3.2 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^7-2].
 
-- a. il piano garantisce ai dipendenti un accesso semplice ai test e prevede d’informarli regolarmente sui vantaggi dei test;
-- b. i dipendenti possono sottoporsi a un test almeno una volta alla settimana;
-- c. sono soddisfatte le condizioni per l’assunzione delle spese dei test da parte della Confederazione secondo l’allegato 6 numeri 3.1 e 3.2 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^7-1].
+<sup>4</sup> Al di fuori della loro abitazione o del loro alloggio, le persone di cui ai capoversi 2 lettera c e 3 devono portare una mascherina facciale e rispettare la distanza obbligatoria dalle altre persone. Al di fuori dell’attività professionale e del tragitto per andare al lavoro, devono attenersi alla quarantena dei contatti.
 
-<sup>5</sup> Al di fuori dell’attività professionale e lungo il tragitto per andare al lavoro, le persone di cui al capoverso 4 devono attenersi alla quarantena dei contatti.
-
-<sup>6</sup>
+<sup>5</sup>
 
 In casi motivati, per determinate persone o categorie di persone l’autorità cantonale competente può:
 
-- a. autorizzare altre deroghe alla quarantena dei contatti oppure concedere agevolazioni;
-- b. prevedere una quarantena dei contatti in casi diversi da quelli di cui al capoverso 1 o anche se sono soddisfatte le condizioni di cui ai capoversi 2 e 4, se necessario per impedire la diffusione del COVID-19.
+- a. autorizzare altre deroghe alla quarantena dei contatti, concedere agevolazioni o revocare anticipatamente la quarantena dei contatti;
+- b. ordinare una quarantena dei contatti più lunga;
+- c. prevedere una quarantena dei contatti nonostante le condizioni di cui al capoverso 1 non siano soddisfatte o le condizioni di cui ai capoversi 2 lettera c o 3 siano soddisfatte.
 
-<sup>7</sup> Informa l’UFSP in merito ai provvedimenti adottati nei confronti di categorie di persone secondo il capoverso 6.
+<sup>6</sup> Informa l’UFSP in merito ai provvedimenti adottati nei confronti di categorie di persone secondo il capoverso 5.
 
-[^7-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-1]: Nuovo testo giusta il n. I dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento), in vigore dal 13 gen. 2022 ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^7-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 8
 
-**Durata e conclusione anticipata della quarantena dei contatti**
+**Durata della quarantena dei contatti**[^8-1]
 
-<sup>1</sup> La quarantena dei contatti dura dieci giorni a decorrere dall’ultimo contatto stretto avuto con una persona di cui all’articolo 7 capoverso 1.
+<sup>1</sup> La quarantena dei contatti dura cinque giorni a decorrere dall’ultimo contatto stretto avuto con una persona di cui all’articolo 7 capoverso 1.
 
-<sup>2</sup>
+<sup>2</sup> Sono fatti salvi ordini diversi dell’autorità cantonale competente secondo l’articolo 7 capoverso 5.
 
-Le persone sottoposte alla quarantena dei contatti possono concluderla anticipatamente se sono adempiute le seguenti condizioni:
-
-- a.
-
-  la persona presenta all’autorità cantonale competente il risultato negativo di una delle seguenti analisi, purché l’analisi sia stata eseguita al più presto il settimo giorno di quarantena:
-
-  - 1\. analisi di biologia molecolare per il SARS-CoV-2,
-  - 2\.[^8-1] test rapido SARS-CoV-2 per uso professionale,
-  - 3\.[^8-2] analisi immunologica di laboratorio degli antigeni SARS-CoV-2;
-
-- b. l’autorità cantonale competente acconsente alla conclusione anticipata della quarantena.
-
-<sup>3</sup> Le persone a partire dai 12 anni che concludono anticipatamente la quarantena dei contatti secondo il capoverso 2 devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena.
-
-[^8-1]: Nuovo testo giusta l’all. n. 1 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
-[^8-2]: Introdotto dall’all. n. 1 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^8-1]: Nuovo testo giusta il n. I dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento), in vigore dal 13 gen. 2022 ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
 
 #### Art. 9
 
-**Isolamento**
+**Isolamento**[^9-1]
 
-<sup>1</sup> L’autorità cantonale competente ordina un isolamento di dieci giorni alle persone malate di COVID-19 o contagiate dal SARS-CoV-2.
+<sup>1</sup> L’autorità cantonale competente ordina un isolamento di cinque giorni alle persone malate di COVID-19 o contagiate dal SARS-CoV-2.
 
-<sup>2</sup> Se la persona mostra sintomi particolarmente gravi o soffre di una grave immunosoppressione, l’autorità cantonale competente può ordinare un isolamento più lungo.
+<sup>2</sup> Se la persona mostra sintomi particolarmente gravi o è fortemente immunosoppressa, l’autorità cantonale competente può ordinare un isolamento più lungo.
 
 <sup>3</sup>
 
-L’isolamento inizia a decorrere:
+La durata dell’isolamento inizia a decorrere:
 
 - a. dal giorno in cui si manifestano i sintomi;
-- b. se la persona ammalata di COVID-19 o contagiata dal SARS-CoV-2 è asintomatica: dal giorno in cui si è sottoposta al test.
+- b. se la persona che si è ammalata di COVID-19 o si è contagiata con il SARS-CoV-2 è asintomatica: dal giorno di esecuzione del test.
 
 <sup>4</sup>
 
-L’autorità cantonale competente revoca l’isolamento al più presto dopo dieci giorni se la persona in isolamento:
+L’autorità cantonale competente revoca l’isolamento al più presto dopo cinque giorni se la persona in isolamento:
 
 - a. è priva di sintomi da almeno 48 ore; o
 - b. continua a presentare sintomi, ma di entità tale da non giustificare più la prosecuzione dell’isolamento.
+
+<sup>5</sup>
+
+L’autorità cantonale competente può esentare dall’isolamento durante l’esercizio dell’attività professionale e lungo il tragitto per andare al lavoro determinate persone o categorie di persone se sono soddisfatte le seguenti condizioni:
+
+- a. le persone svolgono un’attività che è di grande importanza per la società e per la quale vi è una grave mancanza di personale;
+- b. per l’attività vige un piano di protezione che impedisce con provvedimenti opportuni una trasmissione del SARS-CoV-2 da queste persone ad altre.
+
+<sup>6</sup> Al di fuori della loro abitazione o del loro alloggio, le persone esentate dall’isolamento di cui al capoverso 5 devono portare una mascherina facciale e rispettare la distanza obbligatoria dalle altre persone. Al di fuori dell’attività professionale e del tragitto per andare al lavoro, devono attenersi all’isolamento.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento), in vigore dal 13 gen. 2022 ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
 
 ## Sezione 4: Provvedimenti concernenti le strutture accessibili al pubblico e le manifestazioni
 
@@ -576,17 +572,18 @@ Nei luoghi chiusi, compresi i veicoli, in cui si trova più di una persona, ogni
 
 Sono autorizzati a verificare se i loro lavoratori possiedono un certificato di vaccinazione, guarigione o test alle seguenti condizioni:
 
-- a. la verifica serve soltanto a stabilire misure di protezione opportune o all’attuazione del piano di test di cui all’articolo 7 capoverso 4;
+- a.[^25-2] la verifica serve soltanto a stabilire misure di protezione opportune o all’attuazione del piano di test di cui all’articolo 7 capoverso 3;
 - b. il risultato della verifica non è utilizzato per altri scopi;
 - c. la verifica e i provvedimenti risultanti sono documentati per scritto;
 - d. sono sentiti preventivamente i lavoratori o i loro rappresentanti.
 
 <sup>5</sup> I datori di lavoro sono tenuti a garantire che i lavoratori adempiano da casa i loro obblighi lavorativi, qualora per la natura dell’attività ciò sia possibile e attuabile senza un onere sproporzionato. Adottano provvedimenti organizzativi e tecnici idonei a tal fine.
 
-<sup>6</sup> Alla protezione dei lavoratori particolarmente a rischio si applica inoltre l’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^25-2].
+<sup>6</sup> Alla protezione dei lavoratori particolarmente a rischio si applica inoltre l’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^25-3].
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021 (Obbligo della mascherina nelle scuole di livello secondario II, limitazioni dell’accesso alle persone con un certificato di vaccinazione o di guarigione, limitazioni per le manifestazioni private, obbligo di telelavoro, prescrizioni per il livello terziario e la formazione continua), in vigore dal 20 dic. 2021 al 24 gen. 2022 ([RU 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^25-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^25-2]: Nuovo testo giusta il n. I dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento), in vigore dal 13 gen. 2022 ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^25-3]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -773,11 +770,11 @@ Il piano di protezione prevede misure per quanto riguarda:
 
 Allegato 2*[^t-2]*
 
-(art. 6 cpv. 5 e 6, 7 cpv. 2 e 3 nonché 29)
+(art. 6 cpv. 5 e 6, 7 cpv. 2 nonché 29)
 
 ## Prescrizioni relative all’esenzione delle persone vaccinate o guarite dall’obbligo della mascherina e della quarantena dei contatti
 
-[^t-2]: Aggiornato dall’all. n. 4 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dall’all. n. 2 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. II dell’O del DFI del 29 nov. 2021 ([RU 2021 785](https://fedlex.data.admin.ch/eli/oc/2021/785)) e dall’all. n. 1 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-2]: Aggiornato dall’all. n. 4 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dal n. II dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento), in vigore dal 13 gen. 2022 ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
 
 ### 1 Persone vaccinate
 
@@ -791,14 +788,19 @@ Allegato 2*[^t-2]*
   - d. che presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma è immesso in commercio da un licenziatario con un altro nome, a condizione che la vaccinazione sia avvenuta in modo completo conformemente ai requisiti o alle raccomandazioni dello Stato in cui è stata effettuata;
   - e. la presenza di persone con un attestato secondo l’articolo 3 capoverso 2<sup>bis</sup>, ad esempio l’obbligo per queste persone di portare una mascherina facciale o, in caso di compresenza di un attestato per l’esonero dall’obbligo di portare una mascherina facciale secondo l’articolo 5 capoverso 1 lettera b, prescrizioni per il rispetto della distanza obbligatoria.
 
-- 1\.2 Il lasso di tempo durante il quale gli ospiti vaccinati di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. a) e le persone vaccinate sono esentate dall’obbligo della quarantena dei contatti dopo la vaccinazione (art. 7 cpv. 2 lett. a) è di 365 giorni a partire dal completamento della vaccinazione; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen la durata è di 365 giorni a partire dal 22° giorno dopo la vaccinazione.
+- 1\.2 Il lasso di tempo durante il quale gli ospiti vaccinati di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. a) è di 365 giorni a partire dal completamento della vaccinazione; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen la durata è di 365 giorni a partire dal 22° giorno dopo la vaccinazione.
+- 1\.3 Il lasso di tempo durante il quale le persone vaccinate sono esentate dall’obbligo della quarantena dei contatti dopo la vaccinazione (art. 7 cpv. 2 lett. a) è di 120 giorni a partire dal completamento della vaccinazione; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen la durata è di 120 giorni a partire dal 22° giorno dopo la vaccinazione.
 
 ### 2 Persone guarite
 
-Durante il seguente lasso di tempo gli ospiti guariti di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. b) e le persone guarite sono esentate dall’obbligo della quarantena dei contatti (art. 7 cpv. 2 lett. b):
+- 2\.1
 
-- a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2, di test rapido SARS-CoV-2 per uso professionale o di analisi immunologica di laboratorio degli antigeni SARS-CoV-2: dall’11° al 365° giorno dalla conferma del contagio;
-- b. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl2-1] sui certificati COVID-19: per la durata di validità del relativo certificato.
+  Gli ospiti guariti di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. b) durante il seguente lasso di tempo:
+
+  - a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2, di test rapido per il SARS-CoV-2 per uso professionale o di analisi immunologica di laboratorio degli antigeni SARS-CoV-2: dal 6° al 365° giorno dalla conferma del contagio;
+  - b. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl2-1] sui certificati COVID-19: per la durata di validità del relativo certificato.
+
+- 2\.2 Le persone guarite sono esentate dalla quarantena dei contatti (art. 7 cpv. 2 lett. b) dal 6° al 120° giorno dalla conferma del contagio mediante analisi di biologia molecolare per il rilevamento del SARS-CoV-2, test rapido per il SARS-CoV-2 per uso professionale o analisi immunologica di laboratorio degli antigeni SARS-CoV-2.
 
 [^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
