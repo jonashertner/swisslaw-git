@@ -3,20 +3,19 @@ canton: AR
 number: "852.51"
 title: Verordnung zur Interkantonalen Vereinbarung für Soziale Einrichtungen
 language: de
-version: 2016-09-30
-valid_until: 2022-01-13
-version_adopted: 2016-09-27
+version: 2022-01-14
+version_adopted: 2022-01-11
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/852.51"
-pdf: "https://ar.clex.ch/api/de/versions/1137/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1406/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Interkantonalen Vereinbarung für Soziale Einrichtungen
 
-vom 11.12.2007 (Stand 30.09.2016)
+vom 11.12.2007 (Stand 14.01.2022)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -35,9 +34,7 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung regelt den Vollzug der Interkantonalen Vereinbarung für Soziale Einrichtungen (IVSE).
 
-<sup>2</sup> Die Bestimmungen der IVSE zur Aufnahme von Personen (mit Wohnsitz im Kanton Appenzell Ausserrhoden) mit besonderen Betreuungs- und Förderungsbedürfnissen in geeigneten Einrichtungen ausserhalb ihres Wohnkantones[^1-1] finden sinngemäss auch Anwendung für die Aufnahme dieser Personen in Einrichtungen im Kanton Appenzell Ausserrhoden.
-
-[^1-1]: Siehe Art. 1 Abs. 1 IVSE
+<sup>2</sup> Soweit keine besondere Regelung besteht, finden die Bestimmungen der IVSE sinngemäss auch Anwendung für die Aufnahme von Personen mit besonderen Betreuungs- und Förderungsbedürfnissen in geeigneten Einrichtungen im innerkantonalen Verhältnis.
 
 #### Art. 2
 
@@ -56,9 +53,13 @@ verordnet:
 <sup>1</sup> Als Appenzell Ausserrhoder Einrichtungen nach IVSE können anerkannt werden:
 
 - a) Kinder- und Jugendheime, Justizheime, heilpädagogische Gross- und Pflegefamilien sowie Sonderschulen mit Internat;
-- b) Einrichtungen für erwachsene, invalide Personen oder Einheiten solcher Einrichtungen;
+- b) …
 - c) Stationäre Therapie- und Rehabilitationsangebote im Suchtbereich;
 - d) Einrichtungen der externen Sonderschulung.
+
+<sup>2</sup> Die Anerkennung von Einrichtungen für erwachsene, invalide Personen oder Einheiten solcher Einrichtungen richtet sich nach dem Behindertenfinanzierungsgesetz[^3-1] und seinen Ausführungsbestimmungen.
+
+[^3-1]: BeFiG (bGS [852.61](https://ar.clex.ch/data/852.61/de))
 
 #### Art. 4
 
