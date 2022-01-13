@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur les liquidités (dispositions particulières applicables aux banques d’importance systémique – too big to fail)
 document: Projet mis en consultation
 language: fr

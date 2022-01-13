@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Liquiditätsverordnung (Besondere Bestimmungen für systemrelevante Banken – «Too-big-to-fail»)
 document: Vernehmlassungsvorlage
 language: de

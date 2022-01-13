@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sulla liquidità (disposizioni particolari per banche di rilevanza sistemica – «too big to fail»)
 document: Progetto posto in consultazione
 language: it
