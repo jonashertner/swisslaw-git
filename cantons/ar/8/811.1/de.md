@@ -3,20 +3,19 @@ canton: AR
 number: "811.1"
 title: Gesundheitsgesetz
 language: de
-version: 2019-11-01
-valid_until: 2022-01-13
-version_adopted: 2018-10-29
+version: 2022-01-14
+version_adopted: 2021-11-01
 adopted: 2007-11-25
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/811.1"
-pdf: "https://ar.clex.ch/api/de/versions/1612/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1614/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesundheitsgesetz
 
-vom 25.11.2007 (Stand 01.11.2019)
+vom 25.11.2007 (Stand 14.01.2022)
 
 Die Stimmberechtigten von Appenzell Ausserrhoden,
 
@@ -441,7 +440,7 @@ beschliessen:
 
 #### Art. 33
 
-**Forschung**
+**...**
 
 ## VII. Gesundheitsfachpersonen
 
@@ -623,7 +622,8 @@ beschliessen:
 - c) Einrichtungen der spitalexternen Gesundheits- und Krankenpflege;
 - d) medizinische Laboratorien;
 - e) Einrichtungen zur Bekämpfung der Suchtmittelabhängigkeit;
-- f) Einrichtungen für Gesundheitsförderung, Prävention und Rehabilitation.
+- f) Einrichtungen für Gesundheitsförderung, Prävention und Rehabilitation;
+- g) Einrichtungen für Menschen mit Behinderung, namentlich Wohnheime, Werkstätten und Tagesstätten.
 
 #### Art. 49
 
