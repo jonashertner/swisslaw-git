@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordonnance de l’OSAV du 6 août 2021 instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: fr
-version: 2021-12-24
+version: 2022-01-15
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20211224/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20211224-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20211224/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20220115/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20220115-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20220115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège
 
-du 6 août 2021 (Etat le 24 décembre 2021)
+du 6 août 2021 (Etat le 15 janvier 2022)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -64,8 +64,8 @@ Il est interdit d’importer les animaux et produits animaux visés à l’art. 
 
 <sup>2</sup> Il est interdit d’importer des sangliers vivants en provenance de l’entier du territoire des États membres de l’UE, de Norvège et d’Islande.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 22 déc. 2021, en vigueur depuis le 24 déc. 2021 ([RO 2021 907](https://fedlex.data.admin.ch/eli/oc/2021/907)).
-[^2-2]: Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2021/2249, JO L 453 du 17.12.2021, p. 48
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 14 janv. 2022, en vigueur depuis le 15 janv. 2022 ([RO 2022 9](https://fedlex.data.admin.ch/eli/oc/2022/9)).
+[^2-2]: Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2021/2308, JO L 461 du 27.12.2021, p. 40.
 [^2-3]: Règlement délégué (UE) 2020/687 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles relatives à la prévention de certaines maladies répertoriées et à la lutte contre celles-ci, JO L 174 du 3.6.2020, p. 64; modifié par le règlement délégué (UE) 2021/1140, JO L 247 du 13.7.2021, p. 50
 
 #### Art. 3
@@ -87,12 +87,16 @@ En dérogation à l’art. 2, al. 1, let. a, l’importation d’animaux et de p
 
 #### Art. 5
 
-**Importation en provenance de zones infectées selon le règlement délégué (UE) 2020/687[^5-1]**
+**Importation en provenance de zones infectées selon le règlement délégué (UE) 2020/687**[^5-1]
 
-En dérogation à l’art. 2, al. 1, let. b, l’importation de produits animaux en provenance des zones infectées situées hors des zones réglementées dans le règlement d’exécution (UE) 2021/605[^5-2] est admise si le règlement délégué (UE) 2020/687 prévoit que ces produits peuvent quitter la zone infectée à des fins d’échanges intra-communautaires.
+En dérogation à l’art. 2, al. 1, let. b, l’importation de produits animaux en provenance des zones infectées situées hors des zones réglementées dans le règlement d’exécution (UE) 2021/605[^5-2] est admise si ces produits peuvent quitter la zone infectée à des fins d’échanges intra-communautaires selon:
 
-[^5-1]: Voir note de bas de page relative à l’art. 2, al. 1, let. b.
+- a. le règlement délégué (UE) 2020/687[^5-3], et
+- b. les actes législatifs de l’UE visés à l’annexe ch. 2.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 14 janv. 2022, en vigueur depuis le 15 janv. 2022 ([RO 2022 9](https://fedlex.data.admin.ch/eli/oc/2022/9)).
 [^5-2]: Voir note de bas de page relative à l’art. 2, al. 1, let. a.
+[^5-3]: Voir note de bas de page relative à l’art. 2, al. 1, let. b.
 
 #### Art. 6
 
@@ -131,7 +135,7 @@ Annexe*[^t-1]*
 
 ## États membres et zones concernés
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 24 nov. 2021 ([RO 2021 761](https://fedlex.data.admin.ch/eli/oc/2021/761)). Mise à jour par le ch. II de l’O de l’OSAV du 22 déc. 2021, en vigueur depuis le 24 déc. 2021 ([RO 2021 907](https://fedlex.data.admin.ch/eli/oc/2021/907)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 14 janv. 2022, en vigueur depuis le 15 janv. 2022 ([RO 2022 9](https://fedlex.data.admin.ch/eli/oc/2022/9)).
 
 ### 1 Zones réglementées conformément au règlement d’exécution (UE) 2021/605
 
@@ -139,7 +143,7 @@ Les États membres de l’UE et les zones réglementées visées à l’art. 2, 
 
 <table>
 <tr><th>Acte de l’UE</th><th>Titre et date de publication de l’acte et dates de publication des actes modificateurs</th></tr>
-<tr><td>Règlement d’exécution (UE) 2021/605</td><td>Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2021/2249, JO L 453 du 17.12.2021, p. 48</td></tr>
+<tr><td>Règlement d’exécution (UE) 2021/605</td><td>Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2021/2308, JO L 461 du 27.12.2021, p. 40</td></tr>
 </table>
 
 L’annexe I du règlement d’exécution précité classe certaines zones des États membres concernés dans les trois parties ci-après en fonction du risque d’introduction du virus de la peste porcine africaine:
@@ -202,15 +206,24 @@ Roumanie
 
 Slovaquie
 
-### 2 Autres zones infectées conformément au règlement délégué (UE) 2020/687
+### 2 Autres zones infectées
 
-Aucune zone infectée selon le règlement délégué (UE) 2020/687[^annexu1-lvlu1-lvl2-1] n’a été délimitée dans les États membres de l’UE, hors des zones mentionnées au ch. 1.
+Les États membres de l’UE et les zones infectées selon le règlement délégué (UE) 2020/687[^annexu1-lvlu1-lvl2-1] qui ont été établies en plus des zones mentionnées au ch. 1 sont inscrits dans la décision d’exécution suivante:
+
+<table>
+<tr><th>Acte de l’UE</th><th>Titre et date de publication de l’acte et dates de publication des actes modificateurs</th></tr>
+<tr><td>Décision d’exécution (UE) 2022/28</td><td>Décision d’exécution (UE) 2022/28 de la Commission du 10 janvier 2022 concernant certaines mesures d’urgence provisoires contre la peste porcine africaine en Italie, version du JO L 6 du 11.1.2022, p. 11</td></tr>
+</table>
+
+Des zones réglementées ont été délimitées dans l’État membre de l’UE suivant:
+
+Italie
 
 [^annexu1-lvlu1-lvl2-1]: Voir note de bas de page relative à l’art. 2, al. 1, let. b.
 
-### 3 Autres zones réglementées con conformément au règlement délégué (UE) 2020/687
+### 3 Autres zones réglementées
 
-Les États membres de l’UE et les zones réglementées selon le règlement délégué (UE) 2020/687 qui ont été établies en plus des zones mentionnées au ch. 1 sont inscrits dans la décision d’exécution suivante:
+Les États membres de l’UE et les zones réglementées selon le règlement délégué (UE) 2020/687[^annexu1-lvlu1-lvl3-1] qui ont été établies en plus des zones mentionnées au ch. 1 sont inscrits dans la décision d’exécution suivante:
 
 <table>
 <tr><th>Acte de l’UE</th><th>Titre et date de publication de l’acte et dates de publication des actes modificateurs</th></tr>
@@ -220,3 +233,5 @@ Les États membres de l’UE et les zones réglementées selon le règlement dé
 Des zones réglementées ont été délimitées dans l’État membre de l’UE suivant:
 
 Allemagne
+
+[^annexu1-lvlu1-lvl3-1]: Voir note de bas de page relative à l’art. 2, al. 1, let. b.
