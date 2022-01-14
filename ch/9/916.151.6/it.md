@@ -3,11 +3,11 @@ sr: "916.151.6"
 title: "Ordinanza dell'UFAG del 12 giugno 2013 concernente i cataloghi delle varietà e gli elenchi delle varietà di specie vegetali utilizzate a scopo agricolo (Ordinanza sulle varietà)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/417"
 language: it
-version: 2021-01-01
+version: 2022-01-15
 adopted: 2013-06-12
 in_force: 2013-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/417/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2013-417-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/417/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/417/20220115/it/xml/fedlex-data-admin-ch-eli-cc-2013-417-20220115-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/417/20220115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/417/20210101/it"
 
 (Ordinanza sulle varietà)
 
-del 12 giugno 2013 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 12 giugno 2013 (Stato 15 gennaio 2022)
 
 L’Ufficio federale dell’agricoltura (UFAG),
 
@@ -78,143 +78,147 @@ Allegato 1*[^t-1]*
 
 ## Catalogo delle varietà delle specie di cereali
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)) e dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)).
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) e dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
 
 ### Elenco A: Varietà le cui sementi possono essere prodotte, certificate e commercializzate come materiale certificato
 
 <table>
-<tr><th>Designazione della varietà</th><th colspan="3">Ammissione</th><th colspan="9">Osservazioni</th><th colspan="3">Responsabile della selezione per la conservazione delle varietà</th></tr>
-<tr><td colspan="7">1. Avena/*Avena sativa* L.</td><td colspan="4"></td><td colspan="2"></td><td colspan="3"></td></tr>
-<tr><td>Canyon</td><td colspan="3">2018</td><td colspan="7">Forma primaverile</td><td colspan="3">93</td></tr>
-<tr><td colspan="7">2. Orzo*/Hordeum vulgare* L.</td><td colspan="4"></td><td colspan="2"></td><td colspan="3"></td></tr>
-<tr><td>Landi</td><td colspan="3">1997</td><td colspan="9">Forma autunnale, 6 ranghi</td><td colspan="3">150</td></tr>
-<tr><td colspan="7">3. Segale/*Secale cereale* L.</td><td colspan="4"></td><td colspan="2"></td><td colspan="3"></td></tr>
-<tr><td>–</td><td colspan="3"></td><td colspan="9"></td><td colspan="3"></td></tr>
-<tr><td colspan="7">4. Grano tenero (frumento)/*Triticum aestivum* L.</td><td colspan="4"></td><td colspan="2"></td><td colspan="3"></td></tr>
-<tr><td colspan="2">Alpval</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Altare</td><td>2010</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Arina</td><td>1981</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Ataro</td><td>2004</td><td colspan="9">Forma autunnale</td><td colspan="4">56</td></tr>
-<tr><td colspan="2">Axen</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Bardan</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Baretta</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Bonavau</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Cadlimo</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Camadra</td><td>2012</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Cambrena</td><td>2009</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Campanile</td><td>2019</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Campello</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Caral</td><td>2014</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Carasso</td><td>2005</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Caroti</td><td>2010</td><td colspan="9">Forma autunnale</td><td colspan="4">266</td></tr>
-<tr><td colspan="2">Cassagno</td><td>2019</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">CH Camedo</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">CH Campala</td><td>2008</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">CH Claro</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">CH Combin</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">CH Nara</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">CH Rubli</td><td>2007</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Chasseral</td><td>2012</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Chaumont</td><td>2012</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Chilly</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="4">131</td></tr>
-<tr><td colspan="2">Ciavena</td><td>2013</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Colmetta</td><td>2015</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Corbetta</td><td>2012</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Diavel</td><td>2018</td><td colspan="9">Forma primaverile e autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Digana</td><td>2011</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Dilago</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Falotta</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Fiorina</td><td>2001</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Forel</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Forteresse</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Gagnone</td><td>2019</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Galaxie</td><td>1991</td><td colspan="9">Forma autunnale</td><td colspan="4">116</td></tr>
-<tr><td colspan="2">Glaruna</td><td>2017</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Hanswin</td><td>2013</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Harry</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="4">61</td></tr>
-<tr><td colspan="2">Lagalp</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Lambro</td><td>2013</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Lamotta</td><td>2016</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Levis</td><td>1997</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Linard</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Logia</td><td>2006</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Lorenzo</td><td>2011</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Luteus</td><td>2010</td><td colspan="9">Forma autunnale</td><td colspan="4">266</td></tr>
-<tr><td colspan="2">Mayen</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Moiry</td><td>2013</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Molinera</td><td>2010</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Montalbano</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Montalto</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Montdor</td><td>2015</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Mossette</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Muveran</td><td>2004</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Nendaz</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Nufenen</td><td>2018</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Paradisin</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Piznair</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Pizza</td><td>2013</td><td colspan="9">Forma autunnale</td><td colspan="4">56</td></tr>
-<tr><td colspan="2">Poesie</td><td>2015</td><td colspan="9">Forma autunnale</td><td colspan="4">56</td></tr>
-<tr><td colspan="2">Pollux</td><td>2004</td><td colspan="9">Forma autunnale</td><td colspan="4">56</td></tr>
-<tr><td colspan="2">Poncione</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Posmeda</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Prim</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="4">56</td></tr>
-<tr><td colspan="2">Prosa</td><td>2011</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Rosatch</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Royal</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="4">56</td></tr>
-<tr><td colspan="2">Runal</td><td>1995</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Russi</td><td>2019</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Scaletta</td><td>2005</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Scaro</td><td>2006</td><td colspan="9">Forma autunnale</td><td colspan="4">56</td></tr>
-<tr><td colspan="2">Segor</td><td>2003</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Sella</td><td>2007</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Sertori</td><td>2009</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Siala</td><td>2005</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Simano</td><td>2011</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Spigolo</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Spluga</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Stanga</td><td>2011</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Suretta</td><td>2009</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Tamaro</td><td>1992</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Tamborello</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Tenca</td><td>2017</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Tengri</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="4">56</td></tr>
-<tr><td colspan="2">Tinzen</td><td>2019</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Titlis</td><td>1996</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Togano</td><td>2004</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Toronit</td><td>1996</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Vanilnoir</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Varappe</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Vully</td><td>2012</td><td colspan="9">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Wital</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Wiwa</td><td>2005</td><td colspan="9">Forma autunnale</td><td colspan="4">56</td></tr>
-<tr><td colspan="2">Zinal</td><td>2003</td><td colspan="9">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="5">5. Spelta/*Triticum aestivum* L. subsp. *spelta* (L.) Thell.</td><td></td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td colspan="2">Alkor</td><td colspan="2">2002</td><td colspan="8"></td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Copper</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Dinkatou</td><td colspan="2">2019</td><td colspan="8"></td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Edelweisser</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Flauder</td><td colspan="2">2019</td><td colspan="8">Forma primaverile e autunnale</td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Gletscher</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Hubel</td><td colspan="2">1992</td><td colspan="8"></td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Lueg</td><td colspan="2">1990</td><td colspan="8"></td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Oberkulmer Rotkorn</td><td colspan="2">1948</td><td colspan="8"></td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Ostro</td><td colspan="2">1978</td><td colspan="8"></td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Polkura</td><td colspan="2">2019</td><td colspan="8"></td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Raisa</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Selun</td><td colspan="2">2019</td><td colspan="8"></td><td colspan="3">41</td></tr>
-<tr><td colspan="2">Serpentin</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Tauro</td><td colspan="2">2004</td><td colspan="8"></td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Titan</td><td colspan="2">2005</td><td colspan="8"></td><td colspan="3">56</td></tr>
-<tr><td colspan="2">Zürcher Oberländer Rotkorn</td><td colspan="2">2012</td><td colspan="8"></td><td colspan="3">56</td></tr>
-<tr><td colspan="9">6. Triticale/*X Triticosecale* Wittm.</td><td></td><td colspan="2"></td><td colspan="4"></td></tr>
-<tr><td colspan="2">Balino</td><td colspan="2">2018</td><td colspan="8">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Bedretto</td><td colspan="2">2003</td><td colspan="8">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Larossa</td><td colspan="2">2014</td><td colspan="8">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Prader</td><td colspan="2">1997</td><td colspan="8">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Sandro</td><td colspan="2">1992</td><td colspan="8">Forma primaverile</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Trado</td><td colspan="2">1998</td><td colspan="8">Forma alternativa</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Trialdo</td><td colspan="2">2011</td><td colspan="8">Forma autunnale</td><td colspan="4">41</td></tr>
-<tr><td colspan="2">Villars</td><td colspan="2">2013</td><td colspan="8">Forma primaverile</td><td colspan="4">41</td></tr>
+<tr><th>Designazione della varietà</th><th colspan="3">Ammissione</th><th colspan="8">Osservazioni</th><th colspan="3">Responsabile della selezione per la conservazione delle varietà</th></tr>
+<tr><td colspan="7">1. Avena/*Avena sativa* L.</td><td colspan="4"></td><td></td><td colspan="3"></td></tr>
+<tr><td>Canyon</td><td colspan="3">2018</td><td colspan="7">Forma primaverile</td><td colspan="2">93</td></tr>
+<tr><td colspan="7">2. Orzo*/Hordeum vulgare* L.</td><td colspan="4"></td><td></td><td colspan="3"></td></tr>
+<tr><td>Landi</td><td colspan="3">1997</td><td colspan="8">Forma autunnale, 6 ranghi</td><td colspan="3">150</td></tr>
+<tr><td colspan="7">3. Segale/*Secale cereale* L.</td><td colspan="4"></td><td></td><td colspan="3"></td></tr>
+<tr><td>–</td><td colspan="3"></td><td colspan="8"></td><td colspan="3"></td></tr>
+<tr><td colspan="7">4. Grano tenero (frumento)/*Triticum aestivum* L.</td><td colspan="4"></td><td></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Alievi</td><td>2021</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Alpettes</td><td>2021</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Alpval</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Altare</td><td>2010</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Arina</td><td>1981</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Arpille</td><td>2021</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Ataro</td><td>2004</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
+<tr><td colspan="2">Axen</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Bardan</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Baretta</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Bimis</td><td>2021</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Bishorn</td><td>2021</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Bodeli</td><td>2021</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Bonavau</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Cadlimo</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Cambrena</td><td>2009</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Campanile</td><td>2019</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Campello</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Caral</td><td>2014</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Carasso</td><td>2005</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Caroti</td><td>2010</td><td colspan="9">Forma autunnale</td><td colspan="3">266</td></tr>
+<tr><td colspan="2">Cassagno</td><td>2019</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">CH Camedo</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">CH Campala</td><td>2008</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">CH Claro</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">CH Combin</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">CH Nara</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">CH Rubli</td><td>2007</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Chaumont</td><td>2012</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Chilly</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="3">131</td></tr>
+<tr><td colspan="2">Ciavena</td><td>2013</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Colinta</td><td>2021</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Colmetta</td><td>2015</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Diavel</td><td>2018</td><td colspan="9">Forma primaverile e autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Digana</td><td>2011</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Dilago</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Falotta</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Fiorina</td><td>2001</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Forel</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Forteresse</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Gagnone</td><td>2019</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Galaxie</td><td>1991</td><td colspan="9">Forma autunnale</td><td colspan="3">116</td></tr>
+<tr><td colspan="2">Gibloux</td><td>2021</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Glaruna</td><td>2017</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Hanswin</td><td>2013</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Harry</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="3">61</td></tr>
+<tr><td colspan="2">Lagalp</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Lambro</td><td>2013</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Lamotta</td><td>2016</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Levis</td><td>1997</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Linard</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Logia</td><td>2006</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Lorenzo</td><td>2011</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Luteus</td><td>2010</td><td colspan="9">Forma autunnale</td><td colspan="3">266</td></tr>
+<tr><td colspan="2">Mayen</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Moiry</td><td>2013</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Molinera</td><td>2010</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Montalbano</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Montalto</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Montdor</td><td>2015</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Mossette</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Muveran</td><td>2004</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Nendaz</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Nufenen</td><td>2018</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Paradisin</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Piznair</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Pizza</td><td>2013</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
+<tr><td colspan="2">Poesie</td><td>2015</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
+<tr><td colspan="2">Pollux</td><td>2004</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
+<tr><td colspan="2">Poncione</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Posmeda</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Prim</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
+<tr><td colspan="2">Prosa</td><td>2011</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Rosatch</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Royal</td><td>2016</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
+<tr><td colspan="2">Runal</td><td>1995</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Russi</td><td>2019</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Scaletta</td><td>2005</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Scaro</td><td>2006</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
+<tr><td colspan="2">Schilthorn</td><td>2021</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Segor</td><td>2003</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Sella</td><td>2007</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Sertori</td><td>2009</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Siala</td><td>2005</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Simano</td><td>2011</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Spigolo</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Spluga</td><td>2017</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Stanga</td><td>2011</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Suretta</td><td>2009</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Tamborello</td><td>2020</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Tenca</td><td>2017</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Tengri</td><td>2007</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
+<tr><td colspan="2">Tinzen</td><td>2019</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Titlis</td><td>1996</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Togano</td><td>2004</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Toronit</td><td>1996</td><td colspan="9">Forma primaverile</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Vanilnoir</td><td>2014</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Varappe</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="2">41</td></tr>
+<tr><td colspan="2">Wital</td><td>2018</td><td colspan="9">Forma autunnale</td><td colspan="2">56</td></tr>
+<tr><td colspan="2">Wiwa</td><td>2005</td><td colspan="9">Forma autunnale</td><td colspan="3">56</td></tr>
+<tr><td colspan="2">Zinal</td><td>2003</td><td colspan="9">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="5">5. Spelta/*Triticum aestivum* L. subsp. *spelta* (L.) Thell.</td><td></td><td colspan="2"></td><td colspan="6"></td></tr>
+<tr><td colspan="2">Alkor</td><td colspan="2">2002</td><td colspan="8"></td><td colspan="2">56</td></tr>
+<tr><td colspan="2">Copper</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="2">56</td></tr>
+<tr><td colspan="2">Dinkatou</td><td colspan="2">2019</td><td colspan="8"></td><td colspan="2">41</td></tr>
+<tr><td colspan="2">Edelweisser</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="2">56</td></tr>
+<tr><td colspan="2">Flauder</td><td colspan="2">2019</td><td colspan="8">Forma primaverile e autunnale</td><td colspan="2">56</td></tr>
+<tr><td colspan="2">Gletscher</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="2">56</td></tr>
+<tr><td colspan="2">Lueg</td><td colspan="2">1990</td><td colspan="8"></td><td colspan="2">41</td></tr>
+<tr><td colspan="2">Oberkulmer Rotkorn</td><td colspan="2">1948</td><td colspan="8"></td><td colspan="2">41</td></tr>
+<tr><td colspan="2">Ostro</td><td colspan="2">1978</td><td colspan="8"></td><td colspan="2">41</td></tr>
+<tr><td colspan="2">Polkura</td><td colspan="2">2019</td><td colspan="8"></td><td colspan="2">41</td></tr>
+<tr><td colspan="2">Raisa</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="2">56</td></tr>
+<tr><td colspan="2">Selun</td><td colspan="2">2019</td><td colspan="8"></td><td colspan="2">41</td></tr>
+<tr><td colspan="2">Serpentin</td><td colspan="2">2018</td><td colspan="8"></td><td colspan="2">56</td></tr>
+<tr><td colspan="2">Tauro</td><td colspan="2">2004</td><td colspan="8"></td><td colspan="2">56</td></tr>
+<tr><td colspan="2">Titan</td><td colspan="2">2005</td><td colspan="8"></td><td colspan="2">56</td></tr>
+<tr><td colspan="2">Zürcher Oberländer Rotkorn</td><td colspan="2">2012</td><td colspan="8"></td><td colspan="2">56</td></tr>
+<tr><td colspan="9">6. Triticale/*X Triticosecale* Wittm.</td><td></td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Balino</td><td colspan="2">2018</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Bedretto</td><td colspan="2">2003</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Larossa</td><td colspan="2">2014</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Lerma</td><td colspan="2">2021</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Triangoli</td><td colspan="2">2021</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Prader</td><td colspan="2">1997</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Trado</td><td colspan="2">1998</td><td colspan="8">Forma alternativa</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Trialdo</td><td colspan="2">2011</td><td colspan="8">Forma autunnale</td><td colspan="3">41</td></tr>
+<tr><td colspan="2">Villars</td><td colspan="2">2013</td><td colspan="8">Forma primaverile</td><td colspan="3">41</td></tr>
 </table>
 
 <table>
@@ -259,7 +263,7 @@ Allegato 3*[^t-2]*
 
 ## Catalogo delle varietà delle specie di piante foraggere
 
-[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)) e dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)).
+[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) e dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
 
 <table>
 <tr><th>Designazione della varietà</th><th>Ammissione</th><th colspan="4">Osservazioni</th><th colspan="2">Responsabile della selezione per la conservazione delle varietà</th></tr>
@@ -300,11 +304,13 @@ Allegato 3*[^t-2]*
 <tr><td>Felovia</td><td>2009</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td colspan="4">Loglio italico/Loglio Westerwold*/Lolium multiflorum Lam.*</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="4">Loglio italico:</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>Bipes</td><td>2021</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td>Caribu</td><td>2005</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td>Elvis</td><td>2012</td><td colspan="4"></td><td colspan="2">263</td></tr>
 <tr><td>Midas</td><td>2011</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td>Morunga</td><td>2010</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td>Numida</td><td>2016</td><td colspan="4"></td><td colspan="2">162</td></tr>
+<tr><td>Oryttus</td><td>2021</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td>Oryx</td><td>2000</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td>Rabiosa</td><td>2015</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td>Xanthia</td><td>2016</td><td colspan="4"></td><td colspan="2">162</td></tr>
@@ -318,7 +324,7 @@ Allegato 3*[^t-2]*
 <tr><td>Algira</td><td colspan="2">2013</td><td colspan="3">Precoce</td><td colspan="2">162</td></tr>
 <tr><td>Alligator</td><td colspan="2">2001</td><td colspan="3">Tardiva</td><td colspan="2">162</td></tr>
 <tr><td>Allodia</td><td colspan="2">2013</td><td colspan="3">Tardiva</td><td colspan="2">162</td></tr>
-<tr><td>Araias</td><td>2018</td><td colspan="4">Precoce, diploide</td><td colspan="2">162</td></tr>
+<tr><td>Araias</td><td colspan="2">2018</td><td colspan="3">Precoce, diploide</td><td colspan="2">162</td></tr>
 <tr><td>Arara</td><td colspan="2">2007</td><td colspan="3">Precoce</td><td colspan="2">162</td></tr>
 <tr><td>Arcturus</td><td colspan="2">2013</td><td colspan="3">Precoce</td><td colspan="2">162</td></tr>
 <tr><td>Arolus</td><td colspan="2">2007</td><td colspan="3">Precoce</td><td colspan="2">162</td></tr>
@@ -329,7 +335,6 @@ Allegato 3*[^t-2]*
 <tr><td>Calibra</td><td colspan="2">2001</td><td colspan="3">Tardiva</td><td colspan="2">192</td></tr>
 <tr><td>Koala</td><td colspan="2">2018</td><td colspan="3">Tardiva, diploide</td><td colspan="2">162</td></tr>
 <tr><td>Lacerta</td><td colspan="2">1996</td><td colspan="3">Precoce</td><td colspan="2">162</td></tr>
-<tr><td>Lipresso</td><td colspan="2">2001</td><td colspan="3">Precoce</td><td colspan="2">182</td></tr>
 <tr><td>Premium</td><td colspan="2">2001</td><td colspan="3">Tardiva</td><td colspan="2">21</td></tr>
 <tr><td>Salamandra</td><td colspan="2">2001</td><td colspan="3">Precoce</td><td colspan="2">162</td></tr>
 <tr><td>Salmo</td><td colspan="2">2013</td><td colspan="3">Precoce</td><td colspan="2">162</td></tr>
@@ -356,8 +361,8 @@ Allegato 3*[^t-2]*
 <tr><td>Comer</td><td>1998</td><td colspan="4"></td><td colspan="2">202</td></tr>
 <tr><td>Moverdi</td><td>2004</td><td colspan="4"></td><td colspan="2">192</td></tr>
 <tr><td colspan="4">Poa pratense/*Poa pratensis L.*</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>Hitobia</td><td>2021</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td>Selista</td><td>2014</td><td colspan="4"></td><td colspan="2">162</td></tr>
-<tr><td>Sepia</td><td>2014</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td colspan="4">Avena bionda/*Trisetum flavescens L.*</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>–</td><td></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td colspan="4">2. Leguminose/*Leguminosae*</td><td></td><td></td><td colspan="2"></td></tr>
@@ -367,16 +372,13 @@ Allegato 3*[^t-2]*
 <tr><td>–</td><td></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td colspan="4">Erba medica/*Medicago sativa L.*</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>Cannelle</td><td>2001</td><td colspan="4"></td><td colspan="2">116</td></tr>
-<tr><td>Filla</td><td>2001</td><td colspan="4"></td><td colspan="2">209</td></tr>
-<tr><td>Fraver</td><td>2001</td><td colspan="4"></td><td colspan="2">209</td></tr>
 <tr><td colspan="4">Lupinella/*Onobrychis viciifolia Scop.*</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>Perdix</td><td>2011</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td>Perly</td><td>1992</td><td colspan="4"></td><td colspan="2">162</td></tr>
 <tr><td colspan="4">Pisello da foraggio/*Pisum sativum L.*</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>–</td><td></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td colspan="4">Trifoglio alessandrino/*Trifolium alexandrinum L.*</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>Elite II</td><td>2001</td><td colspan="4"></td><td colspan="2">219</td></tr>
-<tr><td>Tabor</td><td>1980</td><td colspan="4">Per 1 unico sfalcio</td><td colspan="2">222</td></tr>
+<tr><td>Elite II</td><td>2001</td><td colspan="4"></td><td colspan="2">193</td></tr>
 <tr><td>Winner</td><td>2001</td><td colspan="4"></td><td colspan="2">224</td></tr>
 <tr><td colspan="4">Trifoglio pratense/*Trifolium pratense L.*</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>Astur</td><td>1999</td><td colspan="4">Lunga durata, tetraploide</td><td colspan="2">162</td></tr>
@@ -403,12 +405,12 @@ Allegato 3*[^t-2]*
 <tr><td>Semperina</td><td>2016</td><td colspan="4">Trifoglio dei prati, diploide</td><td colspan="2">162</td></tr>
 <tr><td colspan="4">Trifoglio bianco/*Trifolium repens L.*</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>Apis</td><td>2000</td><td colspan="4">Grandi foglie</td><td colspan="2">162</td></tr>
-<tr><td>Beaumont</td><td>2015</td><td colspan="4">Grandi foglie</td><td colspan="2">165</td></tr>
+<tr><td>Beaumont</td><td>2015</td><td colspan="4">Grandi foglie</td><td colspan="2">193</td></tr>
 <tr><td>Bombus</td><td>2000</td><td colspan="4">Grandi foglie</td><td colspan="2">162</td></tr>
 <tr><td>Fiona</td><td>2008</td><td colspan="4">Grandi foglie</td><td colspan="2">162</td></tr>
 <tr><td>Munida</td><td>2014</td><td colspan="4">Grandi foglie</td><td colspan="2">162</td></tr>
 <tr><td colspan="4">Trifoglio persico/*Trifolium resupinatum L.*</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>Lightning</td><td>2001</td><td colspan="4"></td><td colspan="2">219</td></tr>
+<tr><td>Lightning</td><td>2001</td><td colspan="4"></td><td colspan="2">193</td></tr>
 <tr><td colspan="4">Favetta/*Vicia faba L.*</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>–</td><td></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td colspan="4">3. Altre specie di piante foraggere</td><td></td><td></td><td colspan="2"></td></tr>
@@ -461,13 +463,16 @@ Allegato 5*[^t-4]*
 
 ## Catalogo delle varietà di barbabietole
 
-[^t-4]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’UFAG 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)).
+[^t-4]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)). Aggiornato dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
 
 <table>
 <tr><th>Designazione delle varietà</th><th>Ammissione</th><th>Responsabile della selezione per la conservazione delle varietà</th></tr>
 <tr><td>Agueda KWS</td><td>2020</td><td>78</td></tr>
 <tr><td>BTS 2725</td><td>2020</td><td>992</td></tr>
 <tr><td>Caroll</td><td>2020</td><td>990</td></tr>
+<tr><td>Chevrolet</td><td>2021</td><td>990</td></tr>
+<tr><td>Dunant</td><td>2021</td><td>990</td></tr>
+<tr><td>Escadia KWS</td><td>2021</td><td>78</td></tr>
 <tr><td>Novalina KWS</td><td>2020</td><td>78</td></tr>
 <tr><td>Smart Belamia KWS</td><td>2020</td><td>78</td></tr>
 <tr><td>Smart Manja KWS</td><td>2020</td><td>78</td></tr>
@@ -491,430 +496,275 @@ Allegato 7*[^t-5]*
 
 ## Varietà delle specie frutticole
 
-[^t-5]: Nuovo testo giusta il n. I dell’O dell’UFAG del 6 giu. 2014 ([RU 2014 1601](https://fedlex.data.admin.ch/eli/oc/2014/321)). Aggiornato dal n. I dell’O dell’UFAG del 13 ago. 2018, in vigore dal 1° ott. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)).
+[^t-5]: Nuovo testo giusta il n. I dell’O dell’UFAG del 6 giu. 2014 ([RU 2014 1601](https://fedlex.data.admin.ch/eli/oc/2014/321)). Aggiornato dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
 
 ### Elenco delle varietà ammesse alla certificazione
 
 <table>
-<tr><th>Designazione della varietà</th><th colspan="4">Clone</th><th colspan="5">Sinonimo</th></tr>
-<tr><td colspan="6">1. Portainnesti</td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="6">1.1 Melo (*Malus* Mill)</td><td></td><td colspan="3"></td></tr>
-<tr><td>J-OH-A</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>J-TE-E</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>J-TE-F</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>M25</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>M26</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>M27</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>M9</td><td colspan="4">Fleuren 56</td><td colspan="5"></td></tr>
-<tr><td>M9</td><td colspan="4">T-337</td><td colspan="5"></td></tr>
-<tr><td>MM111</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>P-22</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Sämling Malus</td><td colspan="4">Bittenfelder</td><td colspan="5"></td></tr>
-<tr><td>Budagovski B9-B233</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td colspan="6">1.2 Pero (*Pyrus* L.) e cotogno (*Cydonia oblonga*)</td><td></td><td colspan="3"></td></tr>
-<tr><td>Quitte Adams</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Quitte BA29</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Sämling Pyrus</td><td colspan="4">Kirchensaller</td><td colspan="5"></td></tr>
-<tr><td>Quitte C</td><td colspan="4">Peters</td><td colspan="5"></td></tr>
-<tr><td>Quitte A – EMA</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td colspan="6">1.3 Ciliegio (*Prunus avium*)</td><td></td><td colspan="3"></td></tr>
-<tr><td>Prunus avium F12/1</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus avium Alkavo</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus Colt</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus mahaleb</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus Piku 1</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus GiSelA 6</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus GiSelA 5</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td colspan="8">1.4 Susino (*Prunus domestica*), albicocco (*Prunus armeni**a**ca*) e pesco (*Prunus persica*)</td><td></td><td></td></tr>
-<tr><td>Prunus Jaspi Fereley</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus St. Julien W 61</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus St. Julien GF 655-2</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus cerasifera Myrobolana</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus St. Julien A</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus St. Julien Wangenheims</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus St. Julien Typ Wädenswil</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Prunus WaVit</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td colspan="6">2. Nesti</td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="6">2.1 Melo (*Malus Mill*)</td><td></td><td colspan="3"></td></tr>
-<tr><td>Admiral</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Alant</td><td colspan="3"></td><td colspan="6">Grosser Prinzessinapfel, Edler Prinzessinapfel, Princesse Noble, Zimtapfel</td></tr>
-<tr><td>Dalili</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Ananas Reinette</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Ariwa</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Arlet</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Bellefleur</td><td colspan="2">gialla</td><td colspan="7"></td></tr>
-<tr><td>Berlepsch</td><td colspan="2">Rot</td><td colspan="7"></td></tr>
-<tr><td>Berner Rosen</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Blauacher</td><td colspan="2">Wädenswil</td><td colspan="7"></td></tr>
-<tr><td>Bittenfelder Sämling</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Bohnapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Boskoop</td><td colspan="2">Ordinaire</td><td colspan="7"></td></tr>
-<tr><td>Boskoop</td><td colspan="2">Rot</td><td colspan="7"></td></tr>
-<tr><td>Boskoop</td><td colspan="2">Schmitz-Hübsch</td><td colspan="7"></td></tr>
-<tr><td>Boskoop</td><td colspan="2">Bielaar</td><td colspan="7"></td></tr>
-<tr><td>Braeburn</td><td colspan="2">Hillwell</td><td colspan="7"></td></tr>
-<tr><td>Braeburn</td><td colspan="2">MaririRed</td><td colspan="7"></td></tr>
-<tr><td>Bramley’s Seedling</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Brettacher</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Champagner Reinette</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Cox Orange</td><td colspan="2">Korallo = T21</td><td colspan="7"></td></tr>
-<tr><td>Cox Orange</td><td colspan="2">Kummer</td><td colspan="7"></td></tr>
-<tr><td>Delgollune – Delbard Jubilé</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Discovery</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Dülmener Herbstrosenapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Elstar</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Elstar</td><td colspan="2">Elshof</td><td colspan="7"></td></tr>
-<tr><td>Elstar</td><td colspan="2">Red Elstar</td><td colspan="7"></td></tr>
-<tr><td>Empire</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Engelberger Reinette</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Enterprise</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Fiesta</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Florina</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Frureru</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Gala</td><td colspan="2">Galaxy</td><td colspan="7"></td></tr>
-<tr><td>Gala</td><td colspan="2">Royal Gala</td><td colspan="7"></td></tr>
-<tr><td>Gala</td><td colspan="2">Schniga</td><td colspan="7"></td></tr>
-<tr><td>Gala</td><td colspan="2">Mondial</td><td colspan="7"></td></tr>
-<tr><td>Galmac</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>CH 101</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Gehrers Rambur</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Gewürzluikenapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Glockenapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Gloster</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Golden Delicious</td><td colspan="2">GD 85</td><td colspan="7"></td></tr>
-<tr><td>Golden Delicious</td><td colspan="2">Reinders</td><td colspan="7"></td></tr>
-<tr><td>Golden Delicious</td><td colspan="2">Smoothee</td><td colspan="7"></td></tr>
-<tr><td>Golden Delicious</td><td colspan="2">Klon B</td><td colspan="7"></td></tr>
-<tr><td>Golden Orange</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Goldlane</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Goldparmäne</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Goldparmäne</td><td colspan="2">Rot</td><td colspan="7"></td></tr>
-<tr><td>Goldreinette von Blenheim</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Goldstar</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Goro</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Grahams Jubiläumsapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Granny Smith</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Grauer Hordapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Gravensteiner</td><td colspan="3">Friedli</td><td colspan="6"></td></tr>
-<tr><td>Gravensteiner</td><td colspan="2">Oeschberg</td><td colspan="7"></td></tr>
-<tr><td>Gravensteiner</td><td colspan="2">Rellstab</td><td colspan="7"></td></tr>
-<tr><td>Hauxapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Heimenhofer</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Heisei Fuji</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Idared</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Iduna</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Ingrid Marie</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Jakob Fischer</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Jakon Lebel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>James Grieve</td><td colspan="2">Rot</td><td colspan="7"></td></tr>
-<tr><td>Jerseyred</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Jonagold</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Jonagold</td><td colspan="2">Wilmuta</td><td colspan="7"></td></tr>
-<tr><td>Jonagold</td><td colspan="2">Novajo</td><td colspan="7"></td></tr>
-<tr><td>Jonagored</td><td colspan="2">10313</td><td colspan="7"></td></tr>
-<tr><td>Jonathan</td><td colspan="2">Watson</td><td colspan="7"></td></tr>
-<tr><td>Julyred</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Kanadareinette, Weisse</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Kardinal Bea</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Karneval</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Kaiser Willhelm</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Kidd's Orange</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Klarapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>La Flamboyante</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Ladina</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Landsberger Reinette</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Leipferdinger Langstiel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Liberty</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Linsenhofer Sämling</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Luna</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Macintosh Spur</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Maigold</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Marina</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Maunzenapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Milwa</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Mira</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Moonlight</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Nela</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Niederhelfenschwiler Beeriapfel</td><td colspan="3"></td><td colspan="6">Beeriapfel</td></tr>
-<tr><td>Ontario Reinette</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Opal</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Orion</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Otava</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Pilot</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Pinova</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Pinova</td><td colspan="2">Evelina (RoHo 3615)</td><td colspan="7"></td></tr>
-<tr><td>Piros</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Primerouge</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Prinz Albrecht von Preussen</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Rajka</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Reanda</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Red Delicious</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Redspring</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Reka</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Renora</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Remo</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>René</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Resi</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Retina</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Rewena</td><td colspan="3"></td><td colspan="6"></td></tr>
-<tr><td>Rheinischer Krummstiel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Rheinischer Krummstiel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Rondo</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Rubinette Rafzubin</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Rubinette Rosso –Rafzubex</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Rubinola</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Saturn</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Sauergrauech</td><td colspan="2">Rot</td><td colspan="7"></td></tr>
-<tr><td>Schneiderapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Schweizer Orangenapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Shalimar</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Sirius</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Solaris</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Spartan</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Stark Earliest</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Sternenreinette, rote</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Stina Lohmann</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Summerred</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Thurgauer Weinapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Topaz</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Topaz</td><td colspan="2">Red</td><td colspan="7"></td></tr>
-<tr><td>Usterapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Vista Bella</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Waldhöfler</td><td colspan="3"></td><td colspan="6">Waldhöfler Holzapfel</td></tr>
-<tr><td>Zuccalmaglioreinette</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td>Cripps Pink</td><td colspan="2"></td><td colspan="7"></td></tr>
-<tr><td colspan="6">2.2 Pero (*Pyrus* L.)</td><td></td><td colspan="3"></td></tr>
-<tr><td>Abbé Fétel</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Alexander Lukas</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Anjou</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Benita</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Bayerische Weinbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Bunte Julibirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Büschelbirne</td><td colspan="3"></td><td colspan="6"></td></tr>
-<tr><td>Cascade</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Champagner Bratbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Champirac</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Clairgeaus Butterbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Clapp's Liebling</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Comice</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Concorde</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Conférence</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Conférence</td><td colspan="4">M 202</td><td colspan="5"></td></tr>
-<tr><td>Doppelte Philippsbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Dr. Jules Guyot</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Echte Knausbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Edel Crassane</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Precoce Morettini</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Précoce de Trévoux</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Général Leclerc</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Giffards Butterbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Gräfin von Paris</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Gute Graue</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Gute Luise</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Hardenponts</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Hardy</td><td colspan="4"></td><td colspan="5">Beurré Hardy</td></tr>
-<tr><td>Harrow Delight</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Harrow Sweet cov</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Herzogin Elsa</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Kaiser Alexander</td><td colspan="4"></td><td colspan="5">Bosc</td></tr>
-<tr><td>Karcherbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Kirchensaller Mostbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Knollbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Köstliche von Charneu</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Luzerner Weinbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Madame Verté</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Metzer Bratbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Nägelische Birne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Novembra (Nojabrskaja)</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Oberösterreichische Weinbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Packhams Triumph</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Palmischbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Paradiesbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Paulsbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Pastoren</td><td colspan="4"></td><td colspan="5">Curé</td></tr>
-<tr><td>Pierre Corneille</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>President Heron</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Schöne Helene</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Schweizer Hose</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Stuttgarter Geisshirtle</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Sülibirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Theilersbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Triumph v. Vienne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Uta</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Valérac</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Verdi</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Wahlsche Schnapsbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Wasserbirne, Schweizer</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Wilde Eierbirne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Williams</td><td colspan="4">Rote Williams Christ</td><td colspan="5"></td></tr>
-<tr><td>Williams</td><td colspan="4">Swiss Williams</td><td colspan="5"></td></tr>
-<tr><td>Winter Nelis</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td colspan="6">2.3 Cotogno (*Cyd**o**nia oblonga*)</td><td></td><td colspan="3"></td></tr>
-<tr><td>Bereczki Birnenquitte</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Cydora Robusta</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Isfahan</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Konstantinopler Apfelquitte</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Lescovas</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Portugiesische Birnenquitte</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Reas Mammouth</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Ronda</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Vranja</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td colspan="6">2.4 Albicocco (*Pr**u**nus armeniaca*)</td><td></td><td colspan="3"></td></tr>
-<tr><td>Bergeron</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Goldrich</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Hargrand</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Harlayne</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Heido</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Königsaprikose Royal</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Kuresia</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Luizet</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Orangered</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Tardif de Tain</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Ungarische Beste</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td colspan="6">2.5 Ciliegio (*Prunus avium*)</td><td></td><td colspan="3"></td></tr>
-<tr><td>Adelise – Masdel</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Adriana</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Badacsony</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Baschimeiri</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Basler Adler</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Basler Langstieler</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Bedel</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Benjaminler</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Bigarraux Souvenir de Charmes</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Burlat</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Büttners Rote Knorpelkirsche</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Carmen</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Christiana</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Dönissens Gelbe Bernsteinkirsche</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Dollenseppler DE</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Earlise</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Englische Morelle</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Gerema</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Giorgia</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Grace Star</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Grosse Prinzessinkirsche (Napoleon)</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Grosse Schwarze Knorpelkirsche (Diemitz)</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Hallauer Aemli</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Hedelfinger Abels Späte</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Heidegger</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Hemmiker</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Hudson</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Karina</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Karneol</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Königin Hortense</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Kordia</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Lampnästler</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Lapins</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Ludwigs Frühe</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Magda</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Mandy</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Merchant</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Montmorency</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Morellenfeuer</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Morina</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Noire de Meched</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Oktavia</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Regina</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Rigikirsche (Lauerzer)</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Roter Lauber</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Safir</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Sam</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Samba</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Schattenmorelle</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Schauenburger</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Schneiders Späte Knorpel</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Schneiders Späte Knorpelkirsche</td><td colspan="4">Nordwunder</td><td colspan="5"></td></tr>
-<tr><td>Skeena</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Somerset</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Star</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Starking Hardy Giant</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Stella</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Sumbigo</td><td colspan="4">(1440 CS)</td><td colspan="5"></td></tr>
-<tr><td>Sumele</td><td colspan="4">(1437 CS) Satin</td><td colspan="5"></td></tr>
-<tr><td>Summit</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Sumpaca Celeste</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Sumste / Samba</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Sunburst</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Sylvia</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Tamara</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Techlovan</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Valery Chkalov</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Vanda</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Webers Sämling</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Weisse Herzkirsche</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td>Wölflinsteiner</td><td colspan="4"></td><td colspan="5"></td></tr>
-<tr><td colspan="6">2.6 Pesco (*Prunus persica*)</td><td></td><td colspan="3"></td></tr>
-<tr><td>Amsden</td><td></td><td colspan="8"></td></tr>
-<tr><td>Benedicte</td><td></td><td colspan="8"></td></tr>
-<tr><td>Crimsongold</td><td></td><td colspan="8"></td></tr>
-<tr><td>Fairhaven</td><td></td><td colspan="8"></td></tr>
-<tr><td>Kernechter vom Vorgebirge</td><td></td><td colspan="8"></td></tr>
-<tr><td>Nectared 4</td><td></td><td colspan="8"></td></tr>
-<tr><td>Pêche de Vignie</td><td></td><td colspan="8"></td></tr>
-<tr><td>Red Haven</td><td></td><td colspan="8"></td></tr>
-<tr><td>Revita</td><td></td><td colspan="8"></td></tr>
-<tr><td>Roter Weinbergpfirsich</td><td></td><td colspan="8"></td></tr>
-<tr><td>South Haven</td><td></td><td colspan="8"></td></tr>
-<tr><td>Suncrest</td><td></td><td colspan="8"></td></tr>
-<tr><td colspan="6">2.7 Susino *(Prunus domestica)*</td><td></td><td colspan="3"></td></tr>
-<tr><td>Anna Späth</td><td></td><td colspan="8"></td></tr>
-<tr><td>Aprimira</td><td></td><td colspan="8"></td></tr>
-<tr><td>Auerbacher</td><td></td><td colspan="8"></td></tr>
-<tr><td>Bellamira</td><td></td><td colspan="8"></td></tr>
-<tr><td>Belle de Paris</td><td></td><td colspan="8"></td></tr>
-<tr><td>Bühler Frühzwetschge</td><td></td><td colspan="8"></td></tr>
-<tr><td>Cacaks Fruchtbare</td><td></td><td colspan="8"></td></tr>
-<tr><td>Cacaks Frühe</td><td></td><td colspan="8"></td></tr>
-<tr><td>Cacaks Schöne</td><td></td><td colspan="8"></td></tr>
-<tr><td>Cacaks Späte</td><td></td><td colspan="8"></td></tr>
-<tr><td>Dabrowice</td><td></td><td colspan="8"></td></tr>
-<tr><td>Elena</td><td></td><td colspan="8"></td></tr>
-<tr><td>Ersinger Frühzwetschge</td><td></td><td colspan="8"></td></tr>
-<tr><td>Ersinger Frühzwetschge</td><td>Typ Kiefer</td><td colspan="8"></td></tr>
-<tr><td>Fellenberg</td><td>FAW 2</td><td colspan="8"></td></tr>
-<tr><td>Fellenberg</td><td>Grässli</td><td colspan="8"></td></tr>
-<tr><td>Fellenberg</td><td>Richards Early</td><td colspan="8"></td></tr>
-<tr><td>Felsina</td><td></td><td colspan="8"></td></tr>
-<tr><td>Graf Althans Reineclaude</td><td></td><td colspan="8"></td></tr>
-<tr><td>Hanita</td><td></td><td colspan="8"></td></tr>
-<tr><td>Hauszwetschgen Rinklin</td><td></td><td colspan="8"></td></tr>
-<tr><td>Herman</td><td></td><td colspan="8"></td></tr>
-<tr><td>Jojo</td><td></td><td colspan="8"></td></tr>
-<tr><td>Kirkes</td><td></td><td colspan="8"></td></tr>
-<tr><td>Löhrpflaume</td><td></td><td colspan="8"></td></tr>
-<tr><td>Mirabelle von Nancy</td><td></td><td colspan="8"></td></tr>
-<tr><td>Presenta</td><td></td><td colspan="8"></td></tr>
-<tr><td>Reineclaude d’Oullins</td><td></td><td colspan="8"></td></tr>
-<tr><td>Reineclaude Grosse Grüne</td><td></td><td colspan="8"></td></tr>
-<tr><td>Tegera</td><td></td><td colspan="8"></td></tr>
-<tr><td>Katinka</td><td></td><td colspan="8"></td></tr>
-<tr><td>Kirkes</td><td></td><td colspan="8"></td></tr>
-<tr><td>Königin Viktoria</td><td></td><td colspan="8"></td></tr>
-<tr><td>Löhrpflaume</td><td></td><td colspan="8"></td></tr>
-<tr><td>Mirabelle von Nancy</td><td></td><td colspan="8"></td></tr>
-<tr><td>Miragrande</td><td></td><td colspan="8"></td></tr>
-<tr><td>Ontariopflaume</td><td></td><td colspan="8"></td></tr>
-<tr><td>Ortenauer</td><td></td><td colspan="8"></td></tr>
-<tr><td>Pitestan</td><td></td><td colspan="8"></td></tr>
-<tr><td>Pogauner</td><td></td><td colspan="8"></td></tr>
-<tr><td>Presenta</td><td></td><td colspan="8"></td></tr>
-<tr><td>President</td><td></td><td colspan="8"></td></tr>
-<tr><td>Reineclaude d’Oullins</td><td></td><td colspan="8"></td></tr>
-<tr><td>Reineclaude, Grosse Grüne</td><td></td><td colspan="8"></td></tr>
-<tr><td>Rheingold</td><td></td><td colspan="8"></td></tr>
-<tr><td>Ruth Gerstetter</td><td></td><td colspan="8"></td></tr>
-<tr><td>Schönenberger Zwetschge</td><td></td><td colspan="8"></td></tr>
-<tr><td>Schwabs Frühzwetschge</td><td></td><td colspan="8"></td></tr>
-<tr><td>Tegera</td><td></td><td colspan="8"></td></tr>
-<tr><td>The Czar</td><td></td><td colspan="8"></td></tr>
-<tr><td>Tophitplus</td><td></td><td colspan="8"></td></tr>
-<tr><td>Topking</td><td></td><td colspan="8"></td></tr>
-<tr><td>Toptaste</td><td></td><td colspan="8"></td></tr>
-<tr><td>Valjevka</td><td></td><td colspan="8"></td></tr>
-<tr><td>Wangenheim</td><td></td><td colspan="8"></td></tr>
-<tr><td>Ziebartle</td><td>blu</td><td colspan="8"></td></tr>
-<tr><td>Ziebartle</td><td>gialla</td><td colspan="8"></td></tr>
-<tr><td>Zimmers</td><td></td><td colspan="8">Zimmers Frühzwetschge, Dietrich-Zwetschge</td></tr>
+<tr><th>Designazione della varietà</th><th colspan="2">Clone</th><th colspan="8">Sinonimo</th></tr>
+<tr><td colspan="5">1. Portainnesti</td><td colspan="2"></td><td colspan="4"></td></tr>
+<tr><td colspan="5">1.1 Melo (*Malus* Mill)</td><td colspan="2"></td><td colspan="4"></td></tr>
+<tr><td>J-OH-A</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>J-TE-E</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>J-TE-F</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>M25</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>M26</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>M27</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>M9</td><td colspan="2">Fleuren 56</td><td colspan="8"></td></tr>
+<tr><td>M9</td><td colspan="2">T-337</td><td colspan="8"></td></tr>
+<tr><td>MM111</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>P-22</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Sämling Malus</td><td colspan="2">Bittenfelder</td><td colspan="8"></td></tr>
+<tr><td>Budagovski B9-B233</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td colspan="5">1.2 Pero (*Pyrus* L.) e cotogno (*Cydonia oblonga*)</td><td colspan="2"></td><td colspan="4"></td></tr>
+<tr><td>Quitte Adams</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Quitte BA29</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Sämling Pyrus</td><td colspan="2">Kirchensaller</td><td colspan="8"></td></tr>
+<tr><td>Quitte C</td><td colspan="2">Peters</td><td colspan="8"></td></tr>
+<tr><td>Quitte A – EMA</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td colspan="5">1.3 Ciliegio (*Prunus avium*)</td><td colspan="2"></td><td colspan="4"></td></tr>
+<tr><td>Prunus avium F12/1</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus avium Alkavo</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus Colt</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus mahaleb</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus Piku 1</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus GiSelA 6</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus GiSelA 5</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td colspan="9">1.4 Susino (*Prunus domestica*), albicocco (*Prunus armeni**a**ca*) e pesco (*Prunus persica*)</td><td></td><td></td></tr>
+<tr><td>Prunus Jaspi Fereley</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus St. Julien W 61</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus St. Julien GF 655-2</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus cerasifera Myrobolana</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus St. Julien A</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus St. Julien Wangenheims</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus St. Julien Typ Wädenswil</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td>Prunus WaVit</td><td colspan="2"></td><td colspan="8"></td></tr>
+<tr><td colspan="6">2. Nesti</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="6">2.1 Melo (*Malus Mill*)</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Admiral</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Alant</td><td colspan="2"></td><td colspan="7">Grosser Prinzessinapfel, Edler Prinzessinapfel, Princesse Noble, Zimtapfel</td></tr>
+<tr><td colspan="2">Ananas Reinette</td><td colspan="2"></td><td colspan="7">Ananasrenette, Goldapfel</td></tr>
+<tr><td colspan="2">Ariwa</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Arlet</td><td colspan="2"></td><td colspan="7">Swiss Gourmet</td></tr>
+<tr><td colspan="2">Bellefleur</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Berlepsch</td><td colspan="2"></td><td colspan="7">Freiherr von Berlepsch, Berlepschs Goldreinette</td></tr>
+<tr><td colspan="2">Berner Rosen</td><td colspan="2"></td><td colspan="7">Neuer Berner Rosenapfel</td></tr>
+<tr><td colspan="2">Bohnapfel</td><td colspan="2"></td><td colspan="7">Rheinischer Bohnapfel</td></tr>
+<tr><td colspan="2">Boskoop</td><td colspan="2"></td><td colspan="7">Reinette de Montfort</td></tr>
+<tr><td colspan="2">Braeburn</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Bramley’s Seedling</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Breitacher</td><td colspan="2"></td><td colspan="7">Schweizer Breitacher, Breitiker, Pomeranzenapfel</td></tr>
+<tr><td colspan="2">CH 101</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Champagner Reinette</td><td colspan="2"></td><td colspan="7">Jahrapfel, Loskrieger</td></tr>
+<tr><td colspan="2">Cox Orange</td><td colspan="2"></td><td colspan="7">Cox’s Orangen Reinette</td></tr>
+<tr><td colspan="2">Dalili</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Discovery</td><td colspan="2"></td><td colspan="7">Thurston August</td></tr>
+<tr><td colspan="2">Elstar</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Empire</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Florina</td><td colspan="2"></td><td colspan="7">Querina</td></tr>
+<tr><td colspan="2">Gala</td><td colspan="2"></td><td colspan="7">Gala Delicious</td></tr>
+<tr><td colspan="2">Galmac</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Glockenapfel</td><td colspan="2"></td><td colspan="7">Weisser Winterglockenapfel</td></tr>
+<tr><td colspan="2">Gloster</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Golden Delicious</td><td colspan="2"></td><td colspan="7">Gelber Köstlicher</td></tr>
+<tr><td colspan="2">Golden Orange</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Goldlane</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Goldparmäne</td><td colspan="2"></td><td colspan="7">Reine des Reinettes</td></tr>
+<tr><td colspan="2">Goldreinette von Blenheim</td><td colspan="2"></td><td colspan="7">Blenheim, Woodstock Pippin</td></tr>
+<tr><td colspan="2">Goro</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Granny Smith</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Grauer Hordapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Gravensteiner</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Hauxapfel</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Heimenhofer</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Idared</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Iduna</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Ingrid Marie</td><td colspan="2"></td><td colspan="7">Hoed Orange</td></tr>
+<tr><td colspan="2">Jakob Fischer</td><td colspan="2"></td><td colspan="7">Schöner vom Oberland</td></tr>
+<tr><td colspan="2">Jakob Lebel</td><td colspan="2"></td><td colspan="7">Jaques Lebel</td></tr>
+<tr><td colspan="2">James Grieve</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Jerseyred</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Jonagold</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Jonathan</td><td colspan="2"></td><td colspan="7">Ulster Seedling</td></tr>
+<tr><td colspan="2">Julyred</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Kanada Reinette</td><td colspan="2"></td><td colspan="7">Reinette blanche du Canada</td></tr>
+<tr><td colspan="2">Karneval</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Kidd’s Orange</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Klarapfel</td><td colspan="2"></td><td colspan="7">Transparente blanche</td></tr>
+<tr><td colspan="2">La Flamboyante</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Ladina</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Landsberger Reinette</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Liberty</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Maigold</td><td colspan="2"></td><td colspan="7">Winegoldt</td></tr>
+<tr><td colspan="2">Marina</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">McIntosh</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Milwa</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Mira</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Moonlight</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Niederhelfenschwiler Beeriapfel</td><td colspan="2"></td><td colspan="7">Beeriapfel</td></tr>
+<tr><td colspan="2">Ontario Reinette</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Opal</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Pinova</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Reanda</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Red Delicious</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Redspring</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Remo</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Resi</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Retina</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Rewena</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Rheinischer Winterrambour</td><td colspan="2"></td><td colspan="7">Menznauer Jäger, Teuringer</td></tr>
+<tr><td colspan="2">Rheinlands Ruhm</td><td colspan="2"></td><td colspan="7">Thurgauer Borsdorfer</td></tr>
+<tr><td colspan="2">Rondo</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Rubinola</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Sauergrauech</td><td colspan="2"></td><td colspan="7">Grauech, Rienggel</td></tr>
+<tr><td colspan="2">Schneiderapfel</td><td colspan="2"></td><td colspan="7">Albisser</td></tr>
+<tr><td colspan="2">Schweizer Orangenapfel</td><td colspan="2"></td><td colspan="7">Orange Suisse</td></tr>
+<tr><td colspan="2">Sirius</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Spartan</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Summerred</td><td colspan="2"></td><td colspan="7">Erdbeerapfel</td></tr>
+<tr><td colspan="2">Thurgauer Weinapfel</td><td colspan="2"></td><td colspan="7">Vineuse de Thurgovie</td></tr>
+<tr><td colspan="2">Topaz</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Usterapfel</td><td colspan="2"></td><td colspan="7">Blatterapfel, Zitronenapfel</td></tr>
+<tr><td colspan="2">Vista Bella</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Waldhöfler</td><td colspan="2"></td><td colspan="7">Waldhöfler Holzapfel</td></tr>
+<tr><td colspan="6">2.2 Pero (*Pyrus* L.)</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Abbé Fétel</td><td colspan="2"></td><td colspan="7">Abate Fetel</td></tr>
+<tr><td colspan="2">Alexander Lucas</td><td colspan="2"></td><td colspan="7">Beurré Alexandre Lucas</td></tr>
+<tr><td colspan="2">Anjou</td><td colspan="2"></td><td colspan="7">Beurré d’Anjou</td></tr>
+<tr><td colspan="2">Bunte Julibirne</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Büschelbirne</td><td colspan="2"></td><td colspan="7">Poire à Botzi</td></tr>
+<tr><td colspan="2">CH 201</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Champagner Bratbirne</td><td colspan="2"></td><td colspan="7">Champagner Weinbirne</td></tr>
+<tr><td colspan="2">Champirac</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Clairgeaus Butterbirne</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Clapps Liebling</td><td colspan="2"></td><td colspan="7">Clapp’s Favorite</td></tr>
+<tr><td colspan="2">Comice</td><td colspan="2"></td><td colspan="7">Doyenné du Comice</td></tr>
+<tr><td colspan="2">Conférence</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Crassane</td><td colspan="2"></td><td colspan="7">Passe Crassane</td></tr>
+<tr><td colspan="2">Doppelte Philippsbirne</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Frühe Morettini</td><td colspan="2"></td><td colspan="7">Précoce Morettini</td></tr>
+<tr><td colspan="2">Frühe von Trévoux</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Général Leclerc</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Giffards Butterbirne</td><td colspan="2"></td><td colspan="7">Beurré Giffard, Heubirne</td></tr>
+<tr><td colspan="2">Gräfin von Paris</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Gute Graue</td><td colspan="2"></td><td colspan="7">Gris bonne, Graue Sommerbutterbirne</td></tr>
+<tr><td colspan="2">Gute Luise von Avranches</td><td colspan="2"></td><td colspan="7">Bonne de Longueval</td></tr>
+<tr><td colspan="2">Hardenponts Winterbutterbirne</td><td colspan="2"></td><td colspan="7">Hardenpont</td></tr>
+<tr><td colspan="2">Hardy</td><td colspan="2"></td><td colspan="7">Gellerts Butterbirne</td></tr>
+<tr><td colspan="2">Herzogin Elsa</td><td colspan="2"></td><td colspan="7">Duchesse Elsa</td></tr>
+<tr><td colspan="2">Kaiser Alexander</td><td colspan="2"></td><td colspan="7">Bosc Flaschenbirne, Beurré Bosc</td></tr>
+<tr><td colspan="2">Kirchensaller Mostbirne</td><td colspan="2"></td><td colspan="7">Kirschensaller</td></tr>
+<tr><td colspan="2">Knollbirne</td><td colspan="2"></td><td colspan="7">Chollersbirne</td></tr>
+<tr><td colspan="2">Köstliche von Charneu</td><td colspan="2"></td><td colspan="7">Légipont</td></tr>
+<tr><td colspan="2">Luzerner Weissbirne</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Madame Verté</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Metzer Bratbirne</td><td colspan="2"></td><td colspan="7">Carizi</td></tr>
+<tr><td colspan="2">Packhams Triumph</td><td colspan="2"></td><td colspan="7">Packhams</td></tr>
+<tr><td colspan="2">Palmischbirne</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Pastorenbirne</td><td colspan="2"></td><td colspan="7">Curé</td></tr>
+<tr><td colspan="2">Pierre Corneille</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Président Héron</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Schweizer Wasserbirne</td><td colspan="2"></td><td colspan="7">Poire Maud</td></tr>
+<tr><td colspan="2">Schweizerhose</td><td colspan="2"></td><td colspan="7">Culotte Suisse</td></tr>
+<tr><td colspan="2">Stuttgarter Gaisshirtle</td><td colspan="2"></td><td colspan="7">Rousselet de Stouttgart</td></tr>
+<tr><td colspan="2">Sülibirne</td><td colspan="2"></td><td colspan="7">Poire rèche</td></tr>
+<tr><td colspan="2">Theilersbirne</td><td colspan="2"></td><td colspan="7">Streuler, Zuger Mostbirne</td></tr>
+<tr><td colspan="2">Triumph von Vienne</td><td colspan="2"></td><td colspan="7">Triomphe de Vienne</td></tr>
+<tr><td colspan="2">Uta</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Valérac</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Williams</td><td colspan="2"></td><td colspan="7">Bartlett, Bon Chrétien</td></tr>
+<tr><td colspan="2">Winter Nelis</td><td colspan="2"></td><td colspan="7">Nélis d’hiver, Bonne de Malines</td></tr>
+<tr><td colspan="6">2.3 Cotogno (*Cydonia oblonga*)</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Bereczki</td><td colspan="2"></td><td colspan="7">Berecki, Bereczky</td></tr>
+<tr><td colspan="2">Cydora Robusta</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Reas Mammouth</td><td colspan="2"></td><td colspan="7">Reas Seedling</td></tr>
+<tr><td colspan="2">Ronda</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Vranja</td><td colspan="2"></td><td colspan="7">Riesenquitte von Vranja</td></tr>
+<tr><td colspan="6">2.4 Albicocco (*Prunus armeniaca*)</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Bergeron</td><td colspan="2"></td><td colspan="7">Gabrielle Bergeron</td></tr>
+<tr><td colspan="2">Elsa</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Goldrich</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Königsaprikose</td><td colspan="2"></td><td colspan="7">Royale, Blenheim</td></tr>
+<tr><td colspan="2">Luizet</td><td colspan="2"></td><td colspan="7">Suchet, Abricot du Clos</td></tr>
+<tr><td colspan="2">Mia</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Tardif de Tain</td><td colspan="2"></td><td colspan="7">Gabrielle Bergeron</td></tr>
+<tr><td colspan="6">2.5 Ciliegio (*Prunus avium*)</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Baschimeiri</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Basler Adlerkirsche</td><td colspan="2"></td><td colspan="7">Schwarze Herz, Bockmättler</td></tr>
+<tr><td colspan="2">Basler Langstieler</td><td colspan="2"></td><td colspan="7">Süsshäner, Herzkirsche</td></tr>
+<tr><td colspan="2">Bigarreau Burlat</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Bigarreau Moreau</td><td colspan="2"></td><td colspan="7">Souvenir des Charmes</td></tr>
+<tr><td colspan="2">Carmen</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Christiana</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Dollenseppler</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Dönissens Gelbe Knorpelkirsche</td><td colspan="2"></td><td colspan="7">Butterkirsche, Weisse Kirsche</td></tr>
+<tr><td colspan="2">Erstfrühe</td><td colspan="2"></td><td colspan="7">Frühe Basler, Erstzeitige, Dreifaltigkeitskirsche</td></tr>
+<tr><td colspan="2">Hallauer Aemli</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Hedelfinger</td><td colspan="2"></td><td colspan="7">Hedelfinger Riesenkirsche, Edelfinger, Kneller, Chlepfler</td></tr>
+<tr><td colspan="2">Heidegger</td><td colspan="2"></td><td colspan="7">Grosse von Heidegg</td></tr>
+<tr><td colspan="2">Hemmiker</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Hudson</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Kordia</td><td colspan="2"></td><td colspan="7">Techlo II</td></tr>
+<tr><td colspan="2">Lampnästler</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Lapins</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Lauerzer</td><td colspan="2"></td><td colspan="7">Rigikirsche</td></tr>
+<tr><td colspan="2">Ludwigs Frühe</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Magda</td><td colspan="2"></td><td colspan="7">Sämling Dorn</td></tr>
+<tr><td colspan="2">Merchant</td><td colspan="2"></td><td colspan="7">Grosse Lauerzer, Grosse Rigi, Schwyzer Kirsche, Zuger</td></tr>
+<tr><td colspan="2">Oktavia</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Regina</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Roter Lauber</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Schattenmorelle</td><td colspan="2"></td><td colspan="7">Griotte du Nord</td></tr>
+<tr><td colspan="2">Schauenburger</td><td colspan="2"></td><td colspan="7">Flurianer</td></tr>
+<tr><td colspan="2">Schneiders Späte Knorpelkirsche</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Star</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Summit</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Tamara</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Techlovan</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Valery Chkalov</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Vanda</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Webers Sämling</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Weisse Herzkirsche</td><td colspan="2"></td><td colspan="7">Lyoner, Ochsenherzkirsche</td></tr>
+<tr><td colspan="2">Wölflisteiner</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="6">2.6 Pesco (*Prunus persica*)</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Pêche de Vignie</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="6">2.7 Susino *(Prunus domestica)*</td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr><td colspan="2">Anna Späth</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Auerbacher</td><td colspan="2"></td><td colspan="7">Rafzer Zwetschge, Johannisberg I</td></tr>
+<tr><td colspan="2">Bellamira</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Belle de Paris</td><td colspan="2"></td><td colspan="7">Bonne de Bry</td></tr>
+<tr><td colspan="2">Bühler Frühzwetschge</td><td colspan="2"></td><td colspan="7">Bühler</td></tr>
+<tr><td colspan="2">Cacaks Fruchtbare</td><td colspan="2"></td><td colspan="7">Cacanska rodna</td></tr>
+<tr><td colspan="2">Cacaks Frühe</td><td colspan="2"></td><td colspan="7">Cacanska rana</td></tr>
+<tr><td colspan="2">Cacaks Schöne</td><td colspan="2"></td><td colspan="7">Cacanska najbolja</td></tr>
+<tr><td colspan="2">Elena</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Ersinger Frühzwetschge</td><td colspan="2"></td><td colspan="7">Goldquelle, Ahlbachs Frühzwetschge, Gerbers Frühzwetschge</td></tr>
+<tr><td colspan="2">Fellenberg</td><td colspan="2"></td><td colspan="7">Welsche Zwetschge, Italienische Zwetschge</td></tr>
+<tr><td colspan="2">Felsina</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Hanita</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Hauszwetschge</td><td colspan="2"></td><td colspan="7">Gemeine Zwetschge, Basler Zwetschge, Deutsche Zwetschge</td></tr>
+<tr><td colspan="2">Herman</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Jojo</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Katinka</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Kirkes Pflaume</td><td colspan="2"></td><td colspan="7">Kirkes Blue</td></tr>
+<tr><td colspan="2">Königin Viktoria</td><td colspan="2"></td><td colspan="7">Hulliger Pflaume, Viktoria-Pflaume</td></tr>
+<tr><td colspan="2">Löhrpflaume</td><td colspan="2"></td><td colspan="7">Zuckerpflaume von der Löhr</td></tr>
+<tr><td colspan="2">Mirabelle von Nancy</td><td colspan="2"></td><td colspan="7">Grosse Mirabelle, Drap d’Or</td></tr>
+<tr><td colspan="2">Miragrande</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">President</td><td colspan="2"></td><td colspan="7">Prugna del macchinista</td></tr>
+<tr><td colspan="2">Reineclaude Althans</td><td colspan="2"></td><td colspan="7">Graf Althans Reineclaude</td></tr>
+<tr><td colspan="2">Reineclaude d’Oullins</td><td colspan="2"></td><td colspan="7">Eierpflaume, Massot</td></tr>
+<tr><td colspan="2">Reineclaude Verte</td><td colspan="2"></td><td colspan="7">Grosse Grüne Reineclaude, Green Gage</td></tr>
+<tr><td colspan="2">Rheingold</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Ruth Gerstetter</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Schönenberger Zwetschge</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Schwabs Frühzwetschge</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Tegera</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">The Czar</td><td colspan="2"></td><td colspan="7">Zar-Pflaume</td></tr>
+<tr><td colspan="2">Tophit</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Valjevka</td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2">Zimmers</td><td colspan="2"></td><td colspan="7">Zimmers Frühzwetschge, Dietrich-Zwetschge</td></tr>
+<tr><td colspan="2">Ziparte</td><td colspan="2"></td><td colspan="7">Zibarte, Zyberli, Ziberl, Seiberl</td></tr>
 </table>
 
 Allegato 8*[^t-6]*
@@ -923,7 +773,7 @@ Allegato 8*[^t-6]*
 
 ## Elenco delle varietà di vite
 
-[^t-6]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)) e dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)).
+[^t-6]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) e dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
 
 ### Elenco A: Varietà il cui materiale di moltiplicazione può essere certificato e commercializzato come materiale certificato
 
@@ -1013,6 +863,8 @@ Allegato 8*[^t-6]*
 <tr><td colspan="2"></td><td>RAC 67</td><td colspan="2"></td></tr>
 <tr><td colspan="2">Cornalin N</td><td></td><td colspan="2">Landroter/Rouge du Pays</td></tr>
 <tr><td colspan="2"></td><td>RAC 41</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td>RAC 82</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td>RAC 83</td><td colspan="2"></td></tr>
 <tr><td colspan="2">Cornarello</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2"></td><td>RAC 53</td><td colspan="2"></td></tr>
 <tr><td colspan="2">Diolinoir N</td><td></td><td colspan="2"></td></tr>
@@ -1048,6 +900,8 @@ Allegato 8*[^t-6]*
 <tr><td></td><td>RAC 38</td><td colspan="2"></td></tr>
 <tr><td>Johanniter B</td><td></td><td colspan="2"></td></tr>
 <tr><td></td><td>FR 340</td><td colspan="2"></td></tr>
+<tr><td>Malbec N</td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td>RAC 86</td><td colspan="2"></td></tr>
 <tr><td>Mara N</td><td></td><td colspan="2">Riesling x Sylvaner</td></tr>
 <tr><td></td><td>RAC 31</td><td colspan="2"></td></tr>
 <tr><td>Marsanne B</td><td></td><td colspan="2">Ermitage/Hermitage/Marsanne blanche</td></tr>
@@ -1099,6 +953,9 @@ Allegato 8*[^t-6]*
 <tr><td>Rheinriesling B</td><td></td><td colspan="2">Weisser Riesling</td></tr>
 <tr><td></td><td>FR 52</td><td colspan="2"></td></tr>
 <tr><td></td><td>Gm 239-25</td><td colspan="2"></td></tr>
+<tr><td>Roussanne B</td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td>RAC 84</td><td colspan="2"></td></tr>
+<tr><td></td><td>RAC 85</td><td colspan="2"></td></tr>
 <tr><td>Savagnin blanc B</td><td></td><td colspan="2">Heida/Païen/Weisser Traminer</td></tr>
 <tr><td></td><td>RAC 34</td><td colspan="2"></td></tr>
 <tr><td>Solaris B</td><td></td><td colspan="2"></td></tr>
@@ -1116,92 +973,113 @@ Oltre al materiale di moltiplicazione delle seguenti varietà, anche il material
 
 <table>
 <tr><th>Designazione della varietà</th><th>Sinonimo</th></tr>
+<tr><td>Agostenga rossa N</td><td>Seidentraube</td></tr>
 <tr><td>Aligoté B</td><td></td></tr>
 <tr><td>Altesse B</td><td></td></tr>
+<tr><td>Amburgo bianco B</td><td>Uva Bianca d’Amburgo</td></tr>
 <tr><td>Ancelotta N</td><td></td></tr>
+<tr><td>Argant N</td><td>Schwarzer Erlenbacher, Blauer Gänsefüsser</td></tr>
+<tr><td>Arinarnoa N</td><td></td></tr>
+<tr><td>Arkadia N</td><td></td></tr>
 <tr><td>Arneis B</td><td></td></tr>
+<tr><td>Arvine grande B</td><td>Grosse Arvine</td></tr>
 <tr><td>Aurora B</td><td></td></tr>
 <tr><td>Auxerrois B</td><td></td></tr>
 <tr><td>Bacchus B</td><td></td></tr>
+<tr><td>Baron N</td><td></td></tr>
+<tr><td>Beaunoir N</td><td>Beau noir</td></tr>
 <tr><td>Bianca B</td><td></td></tr>
-<tr><td>Birstaler Muskat B</td><td></td></tr>
-<tr><td>Blauer St-Laurent N</td><td></td></tr>
-<tr><td>Bondola N</td><td></td></tr>
+<tr><td>Blanc des Hombes B</td><td>Stciucaera bianca</td></tr>
+<tr><td>Bonarda Piemontese N</td><td></td></tr>
+<tr><td>Bondola N</td><td>Briegler</td></tr>
+<tr><td>Bourgeois B</td><td>Elbling</td></tr>
+<tr><td>Bourgeois bleu N</td><td>Elbling blau</td></tr>
 <tr><td>Brachetto N</td><td></td></tr>
 <tr><td>Bronner B</td><td></td></tr>
-<tr><td>Buffalo N</td><td></td></tr>
-<tr><td>Cabernet blanc B</td><td>VB 91-26-01</td></tr>
+<tr><td>Cabernet blanc B</td><td></td></tr>
 <tr><td>Cabernet dorsa N</td><td></td></tr>
-<tr><td>Cabernet franc N</td><td></td></tr>
-<tr><td>Cabernet Jura N</td><td></td></tr>
+<tr><td>Cabernet Franc N</td><td></td></tr>
 <tr><td>Cabernet-Sauvignon N</td><td></td></tr>
-<tr><td>Cabertin N</td><td>VB 91-26-17</td></tr>
-<tr><td>Cardinal RG</td><td></td></tr>
-<tr><td>Cascade N</td><td></td></tr>
+<tr><td>Cabertin N</td><td></td></tr>
+<tr><td>Campbell Early N</td><td>Campbell, Fuchsrebe, Island Belle</td></tr>
+<tr><td>Cardinal N</td><td></td></tr>
 <tr><td>Catawba N</td><td></td></tr>
+<tr><td>César N</td><td></td></tr>
 <tr><td>Chambourcin N</td><td></td></tr>
-<tr><td>Chasselas rose RS</td><td>Gutedel Rot</td></tr>
+<tr><td>Chasselas rose RS</td><td>Gutedel Königsmuskat</td></tr>
 <tr><td>Chenin blanc B</td><td></td></tr>
-<tr><td>Completer B</td><td></td></tr>
 <tr><td>Dakapo N</td><td></td></tr>
-<tr><td>Dirju Campbell early N</td><td></td></tr>
 <tr><td>Dornfelder N</td><td></td></tr>
+<tr><td>Douce noire N</td><td>Corbeau</td></tr>
 <tr><td>Dunkelfelder N</td><td></td></tr>
-<tr><td>Durize N</td><td></td></tr>
-<tr><td>Early Campbell N</td><td></td></tr>
-<tr><td>Elbling B</td><td></td></tr>
-<tr><td>Excelsior B</td><td></td></tr>
+<tr><td>Durize N</td><td>Rouge de Fully</td></tr>
+<tr><td>Exalta B</td><td></td></tr>
+<tr><td>Fanny B</td><td></td></tr>
 <tr><td>Ferdinand de Lesseps B</td><td></td></tr>
+<tr><td>Ferradou N</td><td></td></tr>
+<tr><td>Findling von Muhen N</td><td></td></tr>
 <tr><td>Freisa N</td><td></td></tr>
 <tr><td>Freisamer B</td><td>Freiburger</td></tr>
-<tr><td>Gamay de Bouze N</td><td>Färbertraube/Gamay teinturier</td></tr>
-<tr><td>Gamay Fréaux N</td><td>Färbertraube/Gamay teinturier</td></tr>
-<tr><td>Gf Ga 48-12 N</td><td></td></tr>
-<tr><td>Gouais B</td><td>Gwäss</td></tr>
+<tr><td>Gamay de Bouze N</td><td></td></tr>
+<tr><td>Gamay Fréaux N</td><td></td></tr>
+<tr><td>Goron de Bovernier N</td><td></td></tr>
+<tr><td>Gouais B</td><td>Gwäss, Weisser Heunisch</td></tr>
+<tr><td>Gouais N</td><td>Blauer Heunisch</td></tr>
+<tr><td>Gros Bourgogne B</td><td></td></tr>
 <tr><td>Gros Framboisé blanc B</td><td>Isabella bianca, Porza</td></tr>
+<tr><td>Heunisch rouge N</td><td>Roter Heunisch, Grauer Heunisch</td></tr>
+<tr><td>Hibou rouge N</td><td>Eyholzer Roter</td></tr>
 <tr><td>Himbertscha B</td><td></td></tr>
-<tr><td>Isabella N</td><td></td></tr>
+<tr><td>Humagne gris G</td><td></td></tr>
+<tr><td>Isabelle N</td><td>Isabella</td></tr>
 <tr><td>Kerner B</td><td></td></tr>
-<tr><td>Königliche Magdalenen B</td><td></td></tr>
 <tr><td>Lafnetscha B</td><td></td></tr>
+<tr><td>Lambrusca di Alessandria N</td><td>Croetto, Porcino</td></tr>
 <tr><td>Léon Millot N</td><td></td></tr>
-<tr><td>Limberger N</td><td>Blauer Lemberger/Blaufränkisch/Lemberger</td></tr>
-<tr><td>Magliasina N</td><td></td></tr>
-<tr><td>Malbec N</td><td></td></tr>
+<tr><td>Madeleine royale B</td><td>Königliche Magdalenen</td></tr>
 <tr><td>Maréchal Foch N</td><td></td></tr>
-<tr><td>Mariafeld N</td><td></td></tr>
-<tr><td>Mondeuse N</td><td></td></tr>
-<tr><td>Muscat à petits grains blancs B</td><td>Muscat blanc/Muscat en Valais</td></tr>
+<tr><td>Mariafeld N</td><td>Pinot noir Mariafeld cl Th III 4856</td></tr>
+<tr><td>Marselan N</td><td></td></tr>
+<tr><td>Mondeuse N</td><td>Mondeuse noire</td></tr>
+<tr><td>Muscat à petits grains blancs B</td><td>Muscat blanc, Muscat en Valais, Seidentraube</td></tr>
 <tr><td>Muscat bleu N</td><td></td></tr>
-<tr><td>Muscat dit du Pays B</td><td>Moscato giallo/Muscat en Valais</td></tr>
-<tr><td>Muscat Olivier B</td><td></td></tr>
+<tr><td>Muscat rouge à petits grains N</td><td>Muscat rouge</td></tr>
+<tr><td>Muscat vert B</td><td>Moscato giallo, Muscat du Pays, Muscat Italien, Goldmuskateller</td></tr>
+<tr><td>Negrara Trentina N</td><td>Cabonera</td></tr>
 <tr><td>Nero N</td><td></td></tr>
-<tr><td>New York B</td><td></td></tr>
-<tr><td>Ontario N</td><td></td></tr>
+<tr><td>New York Muscat N</td><td></td></tr>
 <tr><td>Orion B</td><td></td></tr>
+<tr><td>Palatina B</td><td></td></tr>
+<tr><td>Pecorino B</td><td>Dolcipappola</td></tr>
+<tr><td>Peloursin noir N</td><td>Blaue Thuner, Chatille</td></tr>
+<tr><td>Perdea B</td><td>Blanc de Saillon</td></tr>
 <tr><td>Perle von Csaba B</td><td></td></tr>
+<tr><td>Persolette N</td><td>Blattreben, Blatttraube</td></tr>
+<tr><td>Petit Meslier B</td><td></td></tr>
 <tr><td>Petit Verdot N</td><td></td></tr>
-<tr><td>Pinotin N</td><td>VB 91-26-19</td></tr>
-<tr><td>Pirovano 15 N</td><td></td></tr>
-<tr><td>Porza B</td><td></td></tr>
+<tr><td>Pinotin N</td><td></td></tr>
+<tr><td>Prié B</td><td>Agostenga bianca, Madeleine verte</td></tr>
+<tr><td>Prior N</td><td></td></tr>
+<tr><td>Purcsin N</td><td>Schwarzer Römer</td></tr>
 <tr><td>Regent N</td><td></td></tr>
 <tr><td>Rèze B</td><td></td></tr>
-<tr><td>Riesling B</td><td>Petit Rhin</td></tr>
-<tr><td>Robin Noir N</td><td>Diolle</td></tr>
-<tr><td>Romulus B</td><td></td></tr>
-<tr><td>Roussanne B</td><td></td></tr>
+<tr><td>Riesling B</td><td>Riesling de Rhin, Petit Rhin</td></tr>
+<tr><td>Robin noir N</td><td></td></tr>
+<tr><td>Rondo N</td><td></td></tr>
+<tr><td>Rossara Trentina N</td><td>Schiava Lombarda</td></tr>
+<tr><td>Rouge des Hombes N</td><td></td></tr>
+<tr><td>Saumoirau N</td><td>Hängling blau</td></tr>
 <tr><td>Sauvignon blanc B</td><td></td></tr>
 <tr><td>Sauvignon gris G</td><td></td></tr>
 <tr><td>Savagnin rose RS</td><td>Klevner de Heiligenstein</td></tr>
 <tr><td>Scheurebe B</td><td></td></tr>
-<tr><td>Seibel 5455 N</td><td>Plantet</td></tr>
-<tr><td>Seidentraube N</td><td></td></tr>
 <tr><td>Sémillon B</td><td></td></tr>
 <tr><td>Seyval blanc B</td><td></td></tr>
-<tr><td>Triumph vom Elsass N</td><td></td></tr>
-<tr><td>Trollinger N</td><td>Blauer Trollinger/Schiava/Vernatsch</td></tr>
-<tr><td>Verdelet 91-10 B</td><td></td></tr>
-<tr><td>Viognier B</td><td>Petit Viognier/Vionnier</td></tr>
+<tr><td>Trollinger N</td><td>Blauer Trollinger, Schiava, Schiava gentile, Schiava grossa, Vernatsch</td></tr>
+<tr><td>Uccelina nera N</td><td>Uva Uccelina, Uselina, Ucelina, Ocellino, Levantina, Uva Marina</td></tr>
+<tr><td>Uva Tosca N</td><td>Agrifone, Strozzaprete</td></tr>
+<tr><td>Valais noir N</td><td>Taquet et Troussais, Valet</td></tr>
+<tr><td>Viognier B</td><td>Petit Viognier, Vionnier</td></tr>
 <tr><td>Zalagyöngye B</td><td></td></tr>
 <tr><td>Zweigelt N</td><td>Zweigeltrebe</td></tr>
 </table>
@@ -1212,42 +1090,24 @@ Allegato 9*[^t-7]*
 
 ## Varietà stralciate dal rispettivo catalogo, ma le cui sementi possono essere commercializzate fino alla data indicata
 
-[^t-7]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)) e dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)).
+[^t-7]: Nuovo testo giusta il n. I dell’O dell’UFAG del 2 giu. 2015 ([RU 2015 1765](https://fedlex.data.admin.ch/eli/oc/2015/348)). Aggiornato dai n. I delle O dell’UFAG del 24 giu. 2016 ([RU 2016 2359](https://fedlex.data.admin.ch/eli/oc/2016/382)), del 28 set. 2017 ([RU 2017 5555](https://fedlex.data.admin.ch/eli/oc/2017/598)), del 13 ago. 2018 ([RU 2018 3239](https://fedlex.data.admin.ch/eli/oc/2018/521)), del 24 giu. 2019 ([RU 2019 2231](https://fedlex.data.admin.ch/eli/oc/2019/416)), dal n. I cpv. 1 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)) e dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
 
 <table>
 <tr><th>Designazione della varietà</th><th>Commercializzabile fino al</th></tr>
-<tr><td>Frumento/*Triticum aestivum* L.</td><td></td></tr>
-<tr><td>Laurin</td><td>30 giugno 2020</td></tr>
-<tr><td colspan="2">Trifoglio pratense/*Trifolium pratense* L.</td></tr>
-<tr><td>Maro</td><td>30 giugno 2020</td></tr>
-<tr><td>Merviot</td><td>30 giugno 2020</td></tr>
-<tr><td>Tedi</td><td>30 giugno 2020</td></tr>
-<tr><td>Avena/*Avena sativa* L*.*</td><td></td></tr>
-<tr><td>Ebène</td><td>30 giugno 2021</td></tr>
-<tr><td>Orzo/*Hordeum vulgare* L*.*</td><td></td></tr>
-<tr><td>Eunova</td><td>30 giugno 2021</td></tr>
-<tr><td>Plaisant</td><td>30 giugno 2021</td></tr>
-<tr><td>Segale/*Secale cereale* L*.*</td><td></td></tr>
-<tr><td>Picasso</td><td>30 giugno 2021</td></tr>
-<tr><td>Spelta/*Triticum spelta* L*.*</td><td></td></tr>
-<tr><td>Sirino</td><td>30 giugno 2021</td></tr>
-<tr><td>Erba mazzolina/*Dactylis glomerata* L*.*</td><td></td></tr>
-<tr><td>Foly</td><td>30 giugno 2021</td></tr>
-<tr><td>Greenly</td><td>30 giugno 2021</td></tr>
-<tr><td>Festuca arundinacea/*Festuca arundinacea* Schreber</td><td></td></tr>
-<tr><td>Dulcia</td><td>30 giugno 2021</td></tr>
+<tr><td>Erba medica/*Medicago sativa L.*</td><td></td></tr>
+<tr><td>Filla</td><td>30 giugno 2023</td></tr>
+<tr><td>Fraver</td><td>30 giugno 2023</td></tr>
 <tr><td>Loglio ibrido/*Lolium x hybridum* Hausskn.</td><td></td></tr>
 <tr><td>Delicial</td><td>30 giugno 2022</td></tr>
 <tr><td>Loglio italico/Loglio Westerwold/*Lolium multiflorum* Lam*.*</td><td></td></tr>
-<tr><td>Alces</td><td>30 giugno 2021</td></tr>
 <tr><td>Gemini</td><td>30 giugno 2022</td></tr>
 <tr><td>Lipurus</td><td>30 giugno 2022</td></tr>
-<tr><td>Meribel</td><td>30 giugno 2021</td></tr>
+<tr><td>Loietto inglese/*Lolium perenne L.*</td><td></td></tr>
+<tr><td>Lipresso</td><td>30 giugno 2023</td></tr>
+<tr><td>Trifoglio alessandrino/*Trifolium alexandrinum L.*</td><td></td></tr>
+<tr><td>Tabor</td><td>30 giugno 2023</td></tr>
 <tr><td>Trifoglio bianco/*Trifolium repens* L*.*</td><td></td></tr>
 <tr><td>Hebe</td><td>30 giugno 2022</td></tr>
-<tr><td>Pepsi</td><td>30 giugno 2021</td></tr>
-<tr><td>Regal</td><td>30 giugno 2021</td></tr>
-<tr><td>Seminole</td><td>30 giugno 2021</td></tr>
 <tr><td>Vysocan</td><td>30 giugno 2022</td></tr>
 </table>
 
@@ -1257,7 +1117,7 @@ Allegato 10*[^t-8]*
 
 ## Responsabili della selezione per la conservazione delle varietà delle specie riportate negli allegati 1–6
 
-[^t-8]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’UFAG 17 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)).
+[^t-8]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’UFAG 17 nov. 2020 ([RU 2020 5305](https://fedlex.data.admin.ch/eli/oc/2020/919)). Aggiornato dal n. I dell’O dell’UFAG del 10 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 870](https://fedlex.data.admin.ch/eli/oc/2021/870)).
 
 <table>
 <tr><th>N.</th><th>Responsabile della selezione per la conservazione delle varietà</th></tr>
@@ -1269,18 +1129,12 @@ Allegato 10*[^t-8]*
 <tr><td>93</td><td>Nordsaat Saatzuchtgesellschaft mbH, Böhnshausen, DE</td></tr>
 <tr><td>116</td><td>RAGT 2n, Rodez Cedex 09, FR</td></tr>
 <tr><td>131</td><td>Secobra Recherches SA, Maule, FR</td></tr>
-<tr><td>139</td><td>Lantmännen Seed, Malmö, SE</td></tr>
 <tr><td>150</td><td>Karl Schmidt, Landau, DE</td></tr>
 <tr><td>162</td><td>Agroscope, Zürich, CH</td></tr>
-<tr><td>165</td><td>Cal/West Seeds, Woodland, US</td></tr>
-<tr><td>182</td><td>Euro Grass Breeding GmbH&Co.KG, Lippstadt, DE</td></tr>
 <tr><td>192</td><td>DLF Seeds A/S, Store Heddinge, DK</td></tr>
+<tr><td>193</td><td>Barenbrug Holland B.V., BH Nijmegen, NL</td></tr>
 <tr><td>205</td><td>Carneau Frères S.A., Orchies Cédex, FR</td></tr>
-<tr><td>209</td><td>Earl Fraluz, Miremont, FR</td></tr>
-<tr><td>219</td><td>Seedmark, Adelaide, AUS</td></tr>
-<tr><td>222</td><td>Hazera Quality Seeds Ltd, Shikmim, IL</td></tr>
 <tr><td>224</td><td>Feldsaaten Freudenberger GmbH & Co KG, Krefeld, DE</td></tr>
-<tr><td>234</td><td>Agrogen, Troubsko, CZ</td></tr>
 <tr><td>254</td><td>St.Gallische Saatzuchtgenossenschaft, Flawil, CH</td></tr>
 <tr><td>255</td><td>Freiherr von Moreau Saatzucht GmbH, Alburg, DE</td></tr>
 <tr><td>262</td><td>Barenbrug Research, Wolfheze, NL</td></tr>
