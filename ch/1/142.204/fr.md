@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2022-01-01
+version: 2022-01-15
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220115/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220115-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220101/fr"
 
 (OEV)
 
-du 15 août 2018 (Etat le 1<sup>er</sup> janvier 2022)
+du 15 août 2018 (Etat le 15 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -51,13 +51,16 @@ L’ordonnance régit également la compétence de conclure des traités interna
 - d.[^1-9] règlement (UE) 2019/817[^1-10];
 - e.[^1-11] règlement (UE) 2019/818[^1-12];
 - f.[^1-13] règlement (CE) n° 1683/95[^1-14];
-- g.[^1-15] règlement (CE) n° 1030/2002[^1-16].[^1-17]
+- g.[^1-15] règlement (CE) n° 1030/2002[^1-16];
+- [tab] h.[^1-17] règlement (CE) n<sup>o</sup> 767/2008[^1-18];
+- i.[^1-19] règlement (UE) 2021/1148[^1-20];
+- j.[^1-21] règlement (UE) 2021/1060[^1-22].[^1-23]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^1-2]: Règlement (UE) n<sup>o</sup> 514/2014 du Parlement européen et du Conseil du 16 avril 2014 portant dispositions générales applicables au Fonds «Asile, migration et intégration» et à l’instrument de soutien financier à la coopération policière, à la prévention et à la répression de la criminalité, ainsi qu’à la gestion des crises, version du JO L 150 du 20.5.2014, p. 112.
 [^1-3]: Règlement (UE) n<sup>o</sup> 515/2014 du Parlement européen et du Conseil du 16 avril 2014 portant création, dans le cadre du Fonds pour la sécurité intérieure, de l’instrument de soutien financier dans le domaine des frontières extérieures et des visas et abrogeant la décision n<sup>o</sup> 574/2007/CE, version du JO L 150 du 20.5.2014, p. 143.
-[^1-4]: Introduite par le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-5]: Règlement (UE) 2017/2226 du Parlement européen et du Conseil du 30 novembre 2017 portant création d’un système d’entrée/de sortie (EES) pour enregistrer les données relatives aux entrées, aux sorties et aux refus d’entrée concernant les ressortissants de pays tiers qui franchissent les frontières extérieures des États membres et portant détermination des conditions d’accès à l’EES à des fins répressives, et modifiant la convention d’application de l’accord de Schengen et les règlements (CE) n<sup>o</sup> 767/2008 et (UE) n<sup>o</sup> 1077/2011, JO L 327 du 9.12.2017, p. 20; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
+[^1-4]: Introduite par le ch. I de l’O du 11 août 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-5]: Règlement (UE) 2017/2226 du Parlement européen et du Conseil du 30 novembre 2017 portant création d’un système d’entrée/de sortie (EES) pour enregistrer les données relatives aux entrées, aux sorties et aux refus d’entrée concernant les ressortissants de pays tiers qui franchissent les frontières extérieures des États membres et portant détermination des conditions d’accès à l’EES à des fins répressives, et modifiant la convention d’application de l’accord de Schengen et les règlements (CE) n<sup>o</sup> 767/2008 et (UE) n<sup>o</sup> 1077/2011, JO L 327 du 9.12.2017, p. 20; modifié en dernier lieu par le règlement (UE) 2021/1134, JO L 248 du 13.7.2021, p. 11.
 [^1-6]: Introduite par le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-7]: Règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n<sup>o</sup> 1077/2011, (UE) n<sup>o</sup> 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226, version du JO L 236 du 19.9.2018, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
 [^1-8]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1155, JO L 188 du 12.7.2019, p. 25.
@@ -69,7 +72,13 @@ L’ordonnance régit également la compétence de conclure des traités interna
 [^1-14]: Règlement (CE) n° 1683/95 du Conseil du 29 mai 1995 établissant un modèle type de visa, JO L 164 du 14.7.1995, p. 1; modifié en dernier lieu par le règlement (UE) 2017/1370, JO L 198 du 28.7.2017, p. 24.
 [^1-15]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^1-16]: Règlement (CE) n° 1030/2002 du Conseil du 13 juin 2002 établissant un modèle uniforme de titre de séjour pour les ressortissants de pays tiers, JO L 157 du 15.6.2002, p. 1; modifié en dernier lieu par le règlement (UE) 2017/1954, JO L 286 du 1.11.2017, p. 9.
-[^1-17]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-17]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-18]: Règlement (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le règlement (UE) 2021/1134, JO L 248 du 13.7.2021, p. 11.
+[^1-19]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-20]: Règlement (UE) 2021/1148 du Parlement européen et du Conseil du 7 juillet 2021 établissant, dans le cadre du Fonds pour la gestion intégrée des frontières, l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 251, du 15.7.2021, p. 48.
+[^1-21]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-22]: Règlement (UE) 2021/1060 du Parlement européen et du Conseil du 24 juin 2021 portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social européen plus, au Fonds de cohésion, au Fonds pour une transition juste et au Fonds européen pour les affaires maritimes, la pêche et l’aquaculture, et établissant les règles financières applicables à ces Fonds et au Fonds «Asile, migration et intégration», au Fonds pour la sécurité intérieure et à l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 231 du 30.6.2021, p. 159.
+[^1-23]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -535,7 +544,7 @@ L’entrée en Suisse et la sortie de Suisse sont régies par le code frontière
 
 <sup>3</sup> L’entrée par un aérodrome qui n’est pas désigné comme frontière extérieure Schengen nécessite l’obtention préalable d’une autorisation octroyée par l’autorité habilitée à effectuer les vérifications sur les personnes à l’aérodrome concerné.
 
-[^29-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670); [RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022.
+[^29-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^29-2]: Cf. note de bas de page relative à l’art. 3, al. 1.
 
 #### Art. 30
@@ -623,27 +632,28 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 
 - a. les conditions d’exploitation du service Internet et les règles relatives à la protection et à la sécurité des données applicables au service Internet (art. 13, par. 7);
 - b. les procédures de secours en cas d’impossibilité technique pour les transporteurs d’accéder aux données et le soutien opérationnel à apporter par l’unité centrale ETIAS et les moyens de fournir ce soutien (art. 13<sup>bis</sup>, par. 3 et 4);
-- c. les règles détaillées relatives aux informations à communiquer à la Commission européenne en ce qui concerne les procédures de secours en cas d’impossibilité technique d’introduire les données ou en cas de dysfonctionnement de l’EES (art. 21, par. 2);
-- d. le développement et la mise en œuvre du système d’entrée et de sortie (art. 36);
+- c.[^34-4] les règles détaillées relatives aux informations à communiquer à la Commission européenne en ce qui concerne les procédures de secours en cas d’impossibilité technique d’introduire les données ou en cas de dysfonctionnement du système d’entrée et de sortie (EES) (art. 21, par. 2);
+- d.[^34-5] le développement et la mise en œuvre de l’EES (art. 36);
 - e. les informations à fournir aux ressortissants de pays tiers dont les données doivent être enregistrées dans l’EES (art. 50, par. 4);
 - f. les spécifications et conditions relatives au site Internet qui contient les informations concernant l’EES (art. 50, par. 5);
-- g. les spécifications de la solution technique visant à établir des statistiques (art. 72, par. 8).[^34-4]
+- g. les spécifications de la solution technique visant à établir des statistiques (art. 72, par. 8);
+- h.[^34-6] les règles détaillées relatives à la fonctionnalité pour la gestion centralisée de la liste des autorités pouvant accéder à l’EES (art. 9, par. 2, du règlement [UE] 2017/2226).[^34-7]
 
-<sup>2</sup> Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne qui concernent les procédures de compte rendu sur le soutien opérationnel dans le cadre des programmes nationaux des États Schengen et sont édictés sur la base de l’art. 10, par. 6, et de l’art. 11, par. 6, du règlement (UE) n<sup>o</sup> 515/2014[^34-5], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA.
+<sup>2</sup> Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne qui concernent les procédures de compte rendu sur le soutien opérationnel dans le cadre des programmes nationaux des États Schengen et sont édictés sur la base de l’art. 10, par. 6, et de l’art. 11, par. 6, du règlement (UE) n<sup>o</sup> 515/2014[^34-8], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA.
 
-<sup>2bis</sup> Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués de la Commission européenne qui concernent la mise en place d’un programme de développement de systèmes informatiques permettant la gestion des flux migratoires aux frontières extérieures Schengen et qui sont édictés sur la base de l’art. 5, par. 5, let. b, et des art. 15 et 17 du règlement (UE) n<sup>o</sup> 515/2014, pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA.[^34-6]
+<sup>2bis</sup> Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués de la Commission européenne qui concernent la mise en place d’un programme de développement de systèmes informatiques permettant la gestion des flux migratoires aux frontières extérieures Schengen et qui sont édictés sur la base de l’art. 5, par. 5, let. b, et des art. 15 et 17 du règlement (UE) n<sup>o</sup> 515/2014, pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA.[^34-9]
 
 <sup>3</sup>
 
-Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués ou d’actes d’exécution de la Commission européenne relatifs au règlement (UE) n<sup>o</sup> 514/2014[^34-7], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA, et qu’ils concernent:[^34-8]
+Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués ou d’actes d’exécution de la Commission européenne relatifs au règlement (UE) n<sup>o</sup> 514/2014[^34-10], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA, et qu’ils concernent:[^34-11]
 
 - a. le signalement des irrégularités financières et qu’ils soient édictés sur la base de l’art. 5, par. 6, du règlement (UE) n<sup>o</sup> 514/2014;
 - b. le programme de travail et l’aide d’urgence et qu’ils soient édictés sur la base de l’art. 6, par. 2, du règlement (UE) n<sup>o</sup> 514/2014;
 - c. le modèle suivant lequel les programmes nationaux sont rédigés et qu’ils soient édictés sur la base de l’art. 14, par. 4, du règlement (UE) n<sup>o</sup> 514/2014;
 - d. les conditions et les modalités auxquelles doit satisfaire le système d’échange électronique de données et qu’ils soient édictés sur la base de l’art. 24, par. 5, du règlement (UE) n<sup>o</sup> 514/2014;
-- d<sup>bis</sup>.[^34-9] les conditions minimales pour la désignation des autorités responsables en ce qui concerne l’environnement interne, les activités de contrôle, l’information et la communication, ainsi que le suivi, de même que les règles relatives aux procédures concernant la désignation ou visant à y mettre un terme, et qu’ils soient édictés sur la base de l’art. 26, par. 4, let. a, du règlement (UE) n<sup>o</sup> 514/2014;
-- d<sup>ter</sup>.[^34-10] les règles relatives à la supervision des autorités responsables, ainsi que la procédure de réexamen de leur désignation, et qu’ils soient édictés sur la base de l’art. 26, par. 4, let. b, du règlement (UE) n<sup>o</sup> 514/2014;
-- d<sup>quater</sup>.[^34-11] les obligations des autorités responsables en ce qui concerne l’intervention publique et la teneur de leurs responsabilités en matière de gestion et de contrôle et qu’ils soient édictés sur la base de l’art. 26, par. 4, let. c, du règlement (UE) n<sup>o</sup> 514/2014;
+- d<sup>bis</sup>.[^34-12] les conditions minimales pour la désignation des autorités responsables en ce qui concerne l’environnement interne, les activités de contrôle, l’information et la communication, ainsi que le suivi, de même que les règles relatives aux procédures concernant la désignation ou visant à y mettre un terme, et qu’ils soient édictés sur la base de l’art. 26, par. 4, let. a, du règlement (UE) n<sup>o</sup> 514/2014;
+- d<sup>ter</sup>.[^34-13] les règles relatives à la supervision des autorités responsables, ainsi que la procédure de réexamen de leur désignation, et qu’ils soient édictés sur la base de l’art. 26, par. 4, let. b, du règlement (UE) n<sup>o</sup> 514/2014;
+- d<sup>quater</sup>.[^34-14] les obligations des autorités responsables en ce qui concerne l’intervention publique et la teneur de leurs responsabilités en matière de gestion et de contrôle et qu’ils soient édictés sur la base de l’art. 26, par. 4, let. c, du règlement (UE) n<sup>o</sup> 514/2014;
 - e. les procédures et les règles nécessaires pour parvenir à une application uniforme des contrôles exercés par les autorités responsables et qu’ils soient édictés sur la base de l’art. 27, par. 5, du règlement (UE) n<sup>o</sup> 514/2014;
 - f. les modèles selon lesquels les documents relatifs à la demande de paiement du solde annuel sont rédigés et qu’ils soient édictés sur la base de l’art. 44, par. 3, du règlement (UE) n<sup>o</sup> 514/2014;
 - g. les modalités de mise en œuvre de la procédure d’apurement annuel des comptes et qu’ils soient édictés sur la base de l’art. 45, par. 2, du règlement (UE) n<sup>o</sup> 514/2014;
@@ -654,14 +664,17 @@ Il est compétent pour conclure des traités internationaux en vue de la reprise
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 13 févr. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34-2]: Cf. note de bas de page de l’art. 1, al. 4, let. b<sup>bis</sup>.
 [^34-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34-4]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34-5]: Cf. note de bas de page relative à l’art. 1, al. 4, let. b.
-[^34-6]: Introduit par le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-7]: Cf. note de bas de page relative à l’art. 1, al. 4, let. a.
-[^34-8]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-9]: Introduite par le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-10]: Introduite par le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-11]: Introduite par le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-4]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-5]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-6]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-7]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34-8]: Cf. note de bas de page relative à l’art. 1, al. 4, let. b.
+[^34-9]: Introduit par le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-10]: Cf. note de bas de page relative à l’art. 1, al. 4, let. a.
+[^34-11]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-12]: Introduite par le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-13]: Introduite par le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-14]: Introduite par le ch. I de l’O du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 
 #### Art. 34a
 
@@ -780,6 +793,61 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 [^34d-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. f.
 [^34d-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34d-4]: Cf. note de bas de page relative à l’art. 1, al. 4, let. g.
+
+#### Art. 34e
+
+**Conclusion de traités internationaux liés au système central d’information sur les visas**[^34e-1]
+
+<sup>1</sup>
+
+Le SEM est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne relatifs au règlement (CE) n<sup>o</sup> 767/2008[^34e-2], pour autant que ces actes soient édictés sur la base des articles et paragraphes suivants du règlement (CE) n<sup>o</sup> 767/2008 et que les traités soient de portée mineure au sens de l’art. 7*a* LOGA[^34e-3] et concernent les domaines suivants:
+
+- a. la définition des règles détaillées de la fonctionnalité pour la gestion centralisée de la liste des documents de voyage reconnus et de la notification de la reconnaissance ou de la non-reconnaissance des documents de voyage inscrits sur la liste (art. 5<sup>bis</sup>, par. 3);
+- b. la définition des règles détaillées relatives à la gestion de la fonctionnalité pour la gestion centralisée de la liste des autorités ayant accès au système central d’information sur les visas (C-VIS) (art. 6, par. 5);
+- c. la précision des risques sur lesquels sont fondés les indicateurs de risques spécifiques (art. 9<sup>undecies</sup>, par. 3);
+- d. la fixation et l’élaboration du dispositif et des procédures pour effectuer des contrôles de la qualité et des exigences appropriées relatives au respect de la qualité des données saisies dans le C-VIS (art. 29, par. 2<sup>bis</sup>);
+- e. la définition de la spécification des normes de qualité pour la conservation des données saisies dans le C-VIS (art. 29<sup>bis</sup>, par. 3);
+- f. l’établissement des mesures nécessaires au développement du système central du C-VIS, des interfaces nationales dans chaque État Schengen et de l’infrastructure de communication entre le C-VIS et les interfaces (art. 45, par. 1);
+- g. l’établissement des mesures nécessaires à la mise en œuvre technique des fonctionnalités du système central du C-VIS (art. 45, par. 2);
+- h. la fixation des spécifications techniques relatives à la qualité, à la résolution et à l’utilisation des empreintes digitales et de l’image faciale aux fins de la vérification et de l’identification biométriques dans le C-VIS (art. 45, par. 3);
+- i. la définition des règles détaillées relatives aux conditions d’utilisation du portail pour les transporteurs et les règles applicables relatives à la protection et à la sécurité des données (art. 45<sup>quater</sup>, par. 3);
+- j. la définition du dispositif d’authentification pour les transporteurs (art. 45<sup>quater</sup>, par. 5);
+- k. la définition des détails des procédures de secours en cas d’impossibilité technique pour les transporteurs d’accéder aux données (art. 45<sup>quinquies</sup>, par. 3);
+- l. la définition des spécifications de la solution technique mise à la disposition des États membres afin de faciliter la collecte des données conformément au chapitre III<sup>ter</sup>, en vue de générer des statistiques (art. 50, par. 4).
+
+<sup>2</sup>
+
+Le SEM est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués de la Commission européenne relatifs au règlement (CE) n<sup>o</sup> 767/2008, pour autant que ces actes soient édictés sur la base des articles et paragraphes suivants du règlement (CE) n<sup>o</sup> 767/2008 et que les traités soient de portée mineure au sens de l’art. 7*a* LOGA et concernent les domaines suivants:
+
+- a. l’élaboration de la liste préétablie de professions (art. 9, par. 3);
+- b. la définition précise des risques en matière de sécurité ou d’immigration illégale ou du risque épidémique élevé (art. 9<sup>undecies</sup>, par. 2);
+- c. l’établissement d’un manuel qui définit les procédures et règles nécessaires pour effectuer les interrogations, vérifications et évaluations dans le cadre de l’interopérabilité des systèmes d’information (art. 9<sup>nonies</sup>, par. 2, et 22<sup>ter</sup>, par. 18).
+
+[^34e-1]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34e-2]: Cf. note de bas de page de l’art. 1, al. 4, let. h.
+[^34e-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 34f
+
+**Conclusion d’accords internationaux en rapport avec le Fonds de soutien financier à la gestion des frontières et à la politique des visas**[^34f-1]
+
+<sup>1</sup> Le SEM est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne relatifs au règlement (UE) 2021/1148[^34f-2], pour autant que ces actes établissent le modèle pour le bilan annuel et soient édictés sur la base de l’art. 29, par. 5, du règlement (UE) 2021/1148 et pour autant que les traités soient de portée mineure au sens de l’art. 7*a* LOGA[^34f-3].
+
+<sup>2</sup> Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués de la Commission européenne relatifs au règlement (UE) 2021/1148 pour autant que ces actes soient édictés sur la base de l’art. 31, par. 2, du règlement (UE) 2021/1148, et que les traités soient de portée mineure au sens de l’art. 7*a* LOGA.
+
+<sup>3</sup>
+
+Il est compétent pour conclure des traités internationaux concernant les actes d’exécution de la Commission européenne relatifs au règlement (UE) 2021/1060[^34f-4], pour autant que ces actes soient édictés sur la base des articles et paragraphes suivants du règlement (UE) 2021/1060 et que les traités soient de portée mineure au sens de l’art. 7*a* LOGA et concernent les domaines suivants:
+
+- a. l’approbation des programmes nationaux (art. 23, par. 4);
+- b. la détermination de corrections financières (art. 104, par. 4).
+
+<sup>4</sup> Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués de la Commission européenne relatifs au règlement (UE) 2021/1060, pour autant ces actes soient édictés sur la base de l’art. 114, par. 2, du règlement (UE) 2021/1060 et que les traités soient de portée mineure au sens de l’art. 7*a* LOGA.
+
+[^34f-1]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34f-2]: Cf. note de bas de page de l’art. 1, al. 4, let. i.
+[^34f-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34f-4]: Cf note de bas de page de l’art. 1, al. 4, let. j.
 
 #### Art. 35
 

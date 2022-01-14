@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2022-01-01
+version: 2022-01-15
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220115/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220115-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220101/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 15 agosto 2018 (Stato 15 gennaio 2022) (Stato 15 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -52,12 +52,15 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 - d.[^1-8] regolamento (UE) 2019/817[^1-9];
 - e.[^1-10] regolamento (UE) 2019/818[^1-11];
 - f.[^1-12] regolamento (CE) n. 1683/95[^1-13];
-- g.[^1-14] regolamento (CE) n. 1030/2002[^1-15].[^1-16]
+- g.[^1-14] regolamento (CE) n. 1030/2002[^1-15];
+- h.[^1-16] regolamento (CE) n. 767/2008[^1-17];
+- i.[^1-18] regolamento (UE) 2021/1148[^1-19];
+- j.[^1-20] regolamento (UE) 2021/1060[^1-21].[^1-22]
 
 [^1-1]: Regolamento (UE) n. 514/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, recante disposizioni generali sul Fondo asilo, migrazione e integrazione e sullo strumento di sostegno finanziario per la cooperazione di polizia, la prevenzione e la lotta alla criminalità e la gestione delle crisi, versione della GU L 150 del 20.5.2014, pag. 112.
 [^1-2]: Regolamento (UE) n. 515/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, che istituisce, nell’ambito del Fondo sicurezza interna, lo strumento di sostegno finanziario per le frontiere esterne e i visti e che abroga la decisione n. 574/2007/CE, versione della GU L 150 del 20.5.2014, pag. 143.
-[^1-3]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-4]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 novembre 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
+[^1-3]: Introdotta dal n. I dell’O dell’11 ago. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-4]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 nov. 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20; modificato da ultimo dal regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
 [^1-5]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-6]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 settembre 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, GU L 236 del 19.9.2018, pag. 1; modificato da ultimo dal regolamento (EU) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
 [^1-7]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 lug. 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1155, GU L 188 del 12.7.2019, pag. 25.
@@ -69,7 +72,13 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 [^1-13]: Regolamento (CE) n. 1683/95 del Consiglio, del 29 maggio 1995, che istituisce un modello uniforme per i visti, GU L 164 del 14.7.1995, pag. 1; modificato da ultimo dal regolamento (UE) 2017/1370, GU L 198 del 28.7.2017, pag. 24.
 [^1-14]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^1-15]: Regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, che istituisce un modello uniforme per i permessi di soggiorno rilasciati a cittadini di paesi terzi, GU L 157 del 15.6.2002, pag. 1; da ultimo modificato dal regolamento (UE) 2017/1954, GU L 286 dell’1.11.2017, pag. 9.
-[^1-16]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-16]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-17]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio del 9 lug. 2008 concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal Regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
+[^1-18]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-19]: Regolamento (UE) 2021/1148 del Parlamento europeo e del Consiglio del 7 lug. 2021 che istituisce, nell’ambito del Fondo per la gestione integrata delle frontiere, lo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 251, del 15.7.2021, pag. 48.
+[^1-20]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-21]: Regolamento (UE) 2021/1060 del Parlamento europeo e del Consiglio del 24 giu. 2021 recante le disposizioni comuni applicabili al Fondo europeo di sviluppo regionale, al Fondo sociale europeo Plus, al Fondo di coesione, al Fondo per una transizione giusta, al Fondo europeo per gli affari marittimi, la pesca e l’acquacoltura, e le regole finanziarie applicabili a tali fondi e al Fondo Asilo, migrazione e integrazione, al Fondo Sicurezza interna e allo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 231 del 30.6.2021, pag. 159.
+[^1-22]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -623,27 +632,28 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 - a. le condizioni per il funzionamento del servizio web e la protezione dei dati e le norme di sicurezza applicabili al servizio web (art. 13 par. 7);
 - b. la procedura sostitutiva in caso di impossibilità tecnica per i vettori di accedere ai dati nonché il sostegno operativo che l’unità centrale ETIAS fornisce in questi casi e i mezzi per fornirlo (art. 13<sup>bis</sup> par. 3 e 4);
-- c. le prescrizioni riguardanti le informazioni sulla procedura sostitutiva trasmesse dalla Commissione europea qualora l’inserimento dei dati sia tecnicamente impossibile o in caso di guasto del sistema centrale dell’EES (art. 21 par. 2);
-- d. lo sviluppo e l’assistenza tecnica del sistema di ingressi/uscite (art. 36);
+- c.[^34-4] le prescrizioni riguardanti le informazioni sulla procedura sostitutiva trasmesse dalla Commissione europea qualora l’inserimento dei dati sia tecnicamente impossibile o in caso di guasto del sistema di ingresso e uscita (EES) (art. 21 par. 2);
+- d.[^34-5] lo sviluppo e l’assistenza tecnica dell’EES (art. 36);
 - e. le informazioni da fornire ai cittadini di paesi terzi i cui dati sono registrati nell’EES (art. 50 par. 4);
 - f. le specifiche e le condizioni per il sito web che contiene informazioni sull’EES (art. 50 par. 5);
-- g. le specifiche della soluzione tecnica per la compilazione di statistiche (art. 72 par. 8).[^34-4]
+- g. le specifiche della soluzione tecnica per la compilazione di statistiche (art. 72 par. 8);
+- h.[^34-6] norme dettagliate sulla gestione della funzionalità per la gestione centralizzata dell’elenco delle autorità con accesso all’EES (art. 9 par. 2 regolamento [UE] 2017/2226).[^34-7]
 
-<sup>2</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea riguardanti le procedure di rendicontazione in merito al sostegno operativo nell’ambito dei programmi nazionali degli Stati Schengen e erogati in virtù degli articoli 10 paragrafo 6 e 11 paragrafo 6 del regolamento (UE) n. 515/2014[^34-5], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA.
+<sup>2</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea riguardanti le procedure di rendicontazione in merito al sostegno operativo nell’ambito dei programmi nazionali degli Stati Schengen e erogati in virtù degli articoli 10 paragrafo 6 e 11 paragrafo 6 del regolamento (UE) n. 515/2014[^34-8], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA.
 
-<sup>2bis</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea riguardanti la definizione di un programma per lo sviluppo di sistemi informatici a sostegno della gestione dei flussi migratori attraverso le frontiere esterne ed erogati in virtù degli articoli 5 paragrafo 5 lettera b, 15 e 17 del regolamento (UE) n. 515/2014, sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA.[^34-6]
+<sup>2bis</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea riguardanti la definizione di un programma per lo sviluppo di sistemi informatici a sostegno della gestione dei flussi migratori attraverso le frontiere esterne ed erogati in virtù degli articoli 5 paragrafo 5 lettera b, 15 e 17 del regolamento (UE) n. 515/2014, sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA.[^34-9]
 
 <sup>3</sup>
 
-Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati e di esecuzione della Commissione europea relativi al regolamento (UE) n. 514/2014[^34-7], sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA, e riguardino:[^34-8]
+Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati e di esecuzione della Commissione europea relativi al regolamento (UE) n. 514/2014[^34-10], sempreché questi trattati siano di portata limitata ai sensi dell’articolo 7*a* LOGA, e riguardino:[^34-11]
 
 - a. la comunicazione di irregolarità finanziarie e siano emanati in virtù dell’articolo 5 paragrafo 6 del regolamento (UE) n. 514/2014;
 - b. il programma di lavoro e l’assistenza emergenziale e siano emanati in virtù dell’articolo 6 paragrafo 2 del regolamento (UE) n. 514/2014;
 - c. il modello conformemente al quale sono redatti i programmi nazionali e siano emanati in virtù dell’articolo 14 paragrafo 4 del regolamento (UE) n. 514/2014;
 - d. le condizioni e le modalità del sistema di scambio elettronico dei dati e siano emanati i virtù dell’articolo 24 paragrafo 5 del regolamento (UE) n. 514/2014;
-- d<sup>bis</sup>.[^34-9] le condizioni minime per la designazione delle autorità responsabili con riguardo all’ambiente interno, alle attività di controllo, informazione e comunicazione, e al monitoraggio, oltre alle norme sulla procedura per procedere e porre fine alla designazione, e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera a del regolamento (UE) n. 514/2014;
-- d<sup>ter</sup>.[^34-10] le norme relative alla vigilanza delle autorità responsabili e la procedura per il riesame della loro designazione e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera b del regolamento (UE) n. 514/2014;
-- d<sup>quater</sup>.[^34-11] gli obblighi delle autorità responsabili in materia di intervento pubblico e di contenuto delle loro responsabilità di gestione e di controllo e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera c del regolamento (UE) n. 514/2014;
+- d<sup>bis</sup>.[^34-12] le condizioni minime per la designazione delle autorità responsabili con riguardo all’ambiente interno, alle attività di controllo, informazione e comunicazione, e al monitoraggio, oltre alle norme sulla procedura per procedere e porre fine alla designazione, e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera a del regolamento (UE) n. 514/2014;
+- d<sup>ter</sup>.[^34-13] le norme relative alla vigilanza delle autorità responsabili e la procedura per il riesame della loro designazione e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera b del regolamento (UE) n. 514/2014;
+- d<sup>quater</sup>.[^34-14] gli obblighi delle autorità responsabili in materia di intervento pubblico e di contenuto delle loro responsabilità di gestione e di controllo e siano stati erogati in virtù dell’articolo 26 paragrafo 4 lettera c del regolamento (UE) n. 514/2014;
 - e. le procedure e le prescrizioni necessarie in vista di unificare i controlli svolti dalle autorità competenti e siano emanati in virtù dell’articolo 27 paragrafo 5 del regolamento (UE) n. 514/2014;
 - f. i modelli da utilizzare per presentare la richiesta di pagamento del saldo annuale e siano emanati in virtù dell’articolo 44 paragrafo 3 del regolamento (UE) n. 514/2014;
 - g. le modalità della procedura di liquidazione annuale dei conti e siano emanati in virtù dell’articolo 45 paragrafo 2 del regolamento (UE) n. 514/2014;
@@ -654,14 +664,17 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 [^34-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34-2]: Cfr. la nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b<sup>bis</sup>.
 [^34-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34-4]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34-5]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b.
-[^34-6]: Introdotto dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-7]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. a.
-[^34-8]: Nuovo testo gisuta il n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-9]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-10]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-11]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-4]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-5]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-6]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-7]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34-8]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b.
+[^34-9]: Introdotto dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-10]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. a.
+[^34-11]: Nuovo testo gisuta il n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-12]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-13]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-14]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 
 #### Art. 34a
 
@@ -780,6 +793,61 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 [^34d-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. f.
 [^34d-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34d-4]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. g.
+
+#### Art. 34e
+
+**Conclusione di trattati internazionali legati al sistema centrale d’informazione visti**[^34e-1]
+
+<sup>1</sup>
+
+La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (CE) n. 767/2008[^34e-2], sempreché gli atti di esecuzione siano emanati sulla base degli articoli e paragrafi seguenti del regolamento (CE) n. 767/2008 e sempreché i trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^34e-3] e riguardino gli ambiti seguenti:
+
+- a. la definizione di norme dettagliate sulla gestione della funzionalità per la gestione centralizzata dell’elenco dei documenti di viaggio riconosciuti e della comunicazione del riconoscimento o del non riconoscimento dei documenti di viaggio figuranti nell’elenco (art. 5<sup>bis</sup> par. 3);
+- b. la definizione di norme dettagliate sulla gestione della funzionalità per la gestione centralizzata dell’elenco delle autorità con accesso al sistema centrale d’informazione visti (C-VIS) (art. 6 par. 5);
+- c. la definizione dei rischi sui quali si basano gli indicatori di rischio specifici (art. 9<sup>undecies</sup> par. 3);
+- d. la definizione e lo sviluppo del meccanismo e delle procedure per lo svolgimento di controlli di qualità nonché di requisiti appropriati relativi alla conformità qualitativa dei dati inseriti nel C-VIS (art. 29 par. 2<sup>bis</sup>);
+- e. la definizione delle specifiche di tali norme di qualità per la registrazione dei dati inseriti nel C-VIS (art. 29<sup>bis</sup> par. 3);
+- f. la definizione delle misure necessarie per lo sviluppo del C-VIS, delle interfacce nazionali in ciascuno Stato membro e dell’infrastruttura di comunicazione tra il C-VIS e le interfacce (art. 45 par. 1);
+- g. la definizione delle misure necessarie alla realizzazione tecnica delle funzionalità del C-VIS (art. 45 par. 2);
+- h. la definizione delle specifiche tecniche per la qualità, la risoluzione e l’uso delle impronte digitali e dell’immagine del volto ai fini delle verifiche biometriche e dell’identificazione nel C-VIS (art. 45 par. 3);
+- i. la definizione di norme dettagliate concernenti le condizioni per il funzionamento del portale per i vettori nonché la protezione dei dati e le norme di sicurezza applicabili (art. 45<sup>quater</sup> par. 3);
+- j. la definizione del metodo di autenticazione per i vettori (art. 45<sup>quater</sup> par. 5);
+- k. la definizione dei dettagli delle procedure sostitutive in caso di impossibilità tecnica per i vettori di accedere ai dati (art. 45<sup>quinquies</sup> par. 3);
+- l. la definizione delle specifiche della soluzione tecnica messa a disposizione degli Stati membri per agevolare la raccolta di tali dati a norma del capo III *ter* ai fini dell’elaborazione delle statistiche (art. 50 par. 4).
+
+<sup>2</sup>
+
+Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea relativi al regolamento (CE) n. 767/2008, sempreché gli atti delegati siano emanati sulla base degli articoli e paragrafi seguenti del regolamento (CE) n. 767/2008 e sempreché i trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA e riguardino gli ambiti seguenti:
+
+- a. l’elaborazione dell’elenco predefinito di occupazioni (art. 9 par. 3);
+- b. la definizione esatta dei rischi per la sicurezza, di immigrazione illegale o l’alto rischio epidemico (art. 9<sup>undecies</sup> par. 2);
+- c. la predisposizione di un manuale che definisca le procedure e le norme necessarie per interrogazioni, verifiche e valutazioni nel quadro dell’interoperabilità dei sistemi d’informazione (art. 9<sup>nonies</sup> par. 2 e 22<sup>ter</sup> par. 18).
+
+[^34e-1]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34e-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. h.
+[^34e-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 34f
+
+**Conclusione di trattati internazionali legati al Fondo di sostegno finanziario per la gestione delle frontiere e la politica dei visti**[^34f-1]
+
+<sup>1</sup> La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (UE) 2021/1148[^34f-2], sempreché gli atti di esecuzione stabiliscano il modello per il bilancio annuale e siano stati adottati sulla base dell’articolo 29 paragrafo 5 del regolamento (UE) 2021/1148 e sempreché i trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^34f-3].
+
+<sup>2</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea relativi al regolamento (UE) 2021/1148, sempreché gli atti delegati siano stati adottati sulla base dell’articolo 31 paragrafo 2 del regolamento (UE) 2021/1148 e sempreché i trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA.
+
+<sup>3</sup>
+
+Ha la competenza di concludere trattati internazionali concernenti gli atti di esecuzione della Commissione europea relativi al regolamento (UE) 2021/1060[^34f-4], sempreché gli atti di esecuzione siano emanati sulla base degli articoli e paragrafi seguenti del regolamento (UE) 2021/1060 e sempreché i trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA e riguardino gli ambiti seguenti:
+
+- a. l’approvazione dei programmi nazionali (art. 23 par. 4);
+- b. l’assunzione di decisioni sulle rettifiche finanziarie (art. 104 par. 4).
+
+<sup>4</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea relativi al regolamento (UE) 2021/1060, sempreché gli atti delegati siano stati adottati sulla base dell’articolo 114 paragrafo 2 del regolamento (UE) 2021/1060 e sempreché i trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA.
+
+[^34f-1]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34f-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. i.
+[^34f-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34f-4]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. j.
 
 #### Art. 35
 
@@ -1249,7 +1317,7 @@ Gli accordi di associazione a Schengen comprendono gli accordi seguenti:
 [^annex1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 8 cpv. 4 lett. a)
 
@@ -1275,7 +1343,7 @@ Taiwan (Taipei cinese)
 
 Ucraina
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
 (art. 8 cpv. 4 lett. b)
 

@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2022-01-01
+version: 2022-01-15
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20220115/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20220115-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20220101/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 1. Januar 2022)
+vom 15. August 2018 (Stand am 15. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -52,12 +52,15 @@ Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Vertr�
 - d.[^1-8] Verordnung (EU) 2019/817[^1-9];
 - e.[^1-10] Verordnung (EU) 2019/818[^1-11];
 - f.[^1-12] Verordnung (EG) Nr. 1683/95[^1-13];
-- g.[^1-14] Verordnung (EG) Nr. 1030/2002[^1-15].[^1-16]
+- g.[^1-14] Verordnung (EG) Nr. 1030/2002[^1-15];
+- h.[^1-16] Verordnung (EG) Nr. 767/2008[^1-17];
+- i.[^1-18] Verordnung (EU) 2021/1148[^1-19];
+- j.[^1-20] Verordnung (EU) 2021/1060[^1-21].[^1-22]
 
 [^1-1]: Verordnung (EU) Nr. 514/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Festlegung allgemeiner Bestimmungen für den Asyl-, Migrations- und Integrationsfonds und das Instrument für die finanzielle Unterstützung der polizeilichen Zusammenarbeit, der Kriminalprävention und Kriminalitätsbekämpfung und des Krisenmanagements, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 112.
 [^1-2]: Verordnung (EU) Nr. 515/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Schaffung eines Instruments für die finanzielle Unterstützung für Aussengrenzen und Visa im Rahmen des Fonds für die innere Sicherheit und zur Aufhebung der Entscheidung Nr. 574/2007/EG, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 143.
-[^1-3]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-4]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, ABl. L 327 vom 9.12.2017, S. 20; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^1-3]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-4]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, ABl. L 327 vom 9.12.2017, S. 20; zuletzt geändert durch Verordnung (EU) 2021/1134, ABl. L 248 vom 13.7.2021, S. 11.
 [^1-5]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-6]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, ABl. L 236 vom 19.9.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
 [^1-7]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1155, ABl. L 188 vom 12.7.2019, S. 25.
@@ -69,7 +72,13 @@ Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Vertr�
 [^1-13]: Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung, ABl. L 164 vom 14.7.1995, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1370, ABl. L 198 vom 28.7.2017, S. 24.
 [^1-14]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^1-15]: Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige, ABl. L 157 vom 15.6.2002, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1954, ABl. L 286 vom 1.11.2017, S. 9.
-[^1-16]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-16]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-17]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) 2021/1134, ABl. L 248 vom 13.7.2021, S. 11.
+[^1-18]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-19]: Verordnung (EU) 2021/1148 des Europäischen Parlaments und des Rates vom 7. Juli 2021 zur Schaffung eines Instruments für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik im Rahmen des Fonds für integrierte Grenzverwaltung, ABl. L 251 vom 15.7.2021, S. 48.
+[^1-20]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-21]: Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik, ABl. L 231 vom 30.6.2021, S. 159.
+[^1-22]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -558,7 +567,7 @@ Die Regelung der Ein- und der Ausreise richtet sich nach dem Schengener Grenzkod
 
 <sup>2</sup> Die Kantone und das GWK erledigen die Personenkontrollen an der Grenze. Das GWK übt diese Tätigkeit sowohl im Rahmen seiner ordentlichen Aufgaben als auch gemäss den Vereinbarungen zwischen dem Eidgenössischen Finanzdepartement und den Kantonen aus (Art. 9 Abs. 2 AIG und Art. 97 des Zollgesetzes vom 18. März 2005[^31-1]).
 
-<sup>3</sup> ...[^31-2]
+<sup>3</sup> …[^31-2]
 
 <sup>4</sup> Die Kantone können das GWK ermächtigen, die Wegweisungsverfügung nach Artikel 64 Absatz 1 Buchstaben a und b AIG erlassen und zu eröffnen.
 
@@ -623,27 +632,28 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 
 - a. die Voraussetzungen für den Betrieb des Web-Dienstes und die für den Web-Dienst geltenden Datenschutz- und Sicherheitsvorschriften (Art. 13 Abs. 7);
 - b. das Ausweichverfahren, falls Beförderungsunternehmen der Datenzugriff technisch nicht möglich ist, und die in diesen Fällen durch die ETIAS-Zentralstelle zu leistende Unterstützung und die Mittel zur Bereitstellung dieser Unterstützung (Art. 13*a* Abs. 3 und 4);
-- c. die Vorschriften über die von der Europäischen Kommission zu übermittelnden Informationen im Hinblick auf das Ausweichverfahren, wenn die Eingabe von Daten technisch nicht möglich ist oder für den Fall, dass das EES ausfällt (Art. 21 Abs. 2);
-- d. die Entwicklung und technische Unterstützung des Einreise- und Ausreisesystems (Art. 36);
+- c.[^34-4] die Vorschriften über die von der Europäischen Kommission zu übermittelnden Informationen im Hinblick auf das Ausweichverfahren, wenn die Eingabe von Daten technisch nicht möglich ist oder für den Fall, dass das Einreise- und Ausreisesystem (EES) ausfällt (Art. 21 Abs. 2);
+- d.[^34-5] die Entwicklung und technische Unterstützung des EES (Art. 36);
 - e. die Informationen, über welche Drittstaatsangehörige, deren Daten im EES aufgezeichnet werden, zu unterrichten sind (Art. 50 Abs. 4);
 - f. die Spezifikation und Bedingungen für die Website, welche Informationen zum EES enthält (Art. 50 Abs. 5);
-- g. die Spezifikationen der technischen Lösung zur Erstellung von Statistiken (Art. 72 Abs. 8).[^34-4]
+- g. die Spezifikationen der technischen Lösung zur Erstellung von Statistiken (Art. 72 Abs. 8);
+- h.[^34-6] detaillierte Bestimmungen über die Funktion für die zentrale Verwaltung der Liste der Behörden mit Zugang zum EES (Art. 9 Abs. 2 der Verordnung [EU] 2017/2226).[^34-7]
 
-<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, welche die Verfahren für die Berichterstattung über die Betriebskostenunterstützung im Rahmen der nationalen Programme der Schengen-Staaten betreffen und gestützt auf die Artikel 10 Absatz 6 und 11 Absatz 6 der Verordnung (EU) Nr. 515/2014[^34-5] erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
+<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, welche die Verfahren für die Berichterstattung über die Betriebskostenunterstützung im Rahmen der nationalen Programme der Schengen-Staaten betreffen und gestützt auf die Artikel 10 Absatz 6 und 11 Absatz 6 der Verordnung (EU) Nr. 515/2014[^34-8] erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
 
-<sup>2bis</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission, welche die Einführung eines Programms für die Entwicklung von IT-Systemen zur Unterstützung der Steuerung von Migrationsströmen über die Aussengrenzen betreffen und gestützt auf Artikel 5 Absatz 5 Buchstaben b und Artikel 15 und 17 der Verordnung (EU) Nr. 515/2014 erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.[^34-6]
+<sup>2bis</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission, welche die Einführung eines Programms für die Entwicklung von IT-Systemen zur Unterstützung der Steuerung von Migrationsströmen über die Aussengrenzen betreffen und gestützt auf Artikel 5 Absatz 5 Buchstaben b und Artikel 15 und 17 der Verordnung (EU) Nr. 515/2014 erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.[^34-9]
 
 <sup>3</sup>
 
-Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten und Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) Nr. 514/2014[^34-7], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und:[^34-8]
+Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten und Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) Nr. 514/2014[^34-10], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und:[^34-11]
 
 - a. die Meldungen der finanziellen Unregelmässigkeiten betreffen und gestützt auf Artikel 5 Absatz 6 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - b. das Arbeitsprogramm und die Soforthilfe betreffen und gestützt auf Artikel 6 Absatz 2 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - c. das Muster, nach dem die nationalen Programme erstellt werden, betreffen und gestützt auf Artikel 14 Absatz 4 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - d. die Bedingungen und Modalitäten des elektronischen Datenaustauschsystems betreffen und gestützt auf Artikel 24 Absatz 5 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
-- d<sup>bis</sup>.[^34-9] die Mindestvoraussetzungen für die Benennung der zuständigen Behörden in Bezug auf deren internes Umfeld, Kontrolltätigkeiten, Information, Kommunikation und Monitoring sowie Verfahrensregeln für die Erteilung und die Aufhebung der Benennung betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe a der Verordnung (EU) Nr. 514/2014 erlassen wurden;
-- d<sup>ter</sup>.[^34-10] die Regeln für die Überwachung und das Verfahren für die Überprüfung der Benennung der zuständigen Behörden betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe b der Verordnung (EU) Nr. 514/2014 erlassen wurden;
-- [tab] d<sup>quater</sup>.[^34-11] die Pflichten der zuständigen Behörden im Rahmen der öffentlichen Massnahmen sowie den Inhalt ihrer Verwaltungs- und Kontrollaufgaben betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe c der Verordnung (EU) Nr. 514/2014 erlassen wurden;
+- d<sup>bis</sup>.[^34-12] die Mindestvoraussetzungen für die Benennung der zuständigen Behörden in Bezug auf deren internes Umfeld, Kontrolltätigkeiten, Information, Kommunikation und Monitoring sowie Verfahrensregeln für die Erteilung und die Aufhebung der Benennung betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe a der Verordnung (EU) Nr. 514/2014 erlassen wurden;
+- d<sup>ter</sup>.[^34-13] die Regeln für die Überwachung und das Verfahren für die Überprüfung der Benennung der zuständigen Behörden betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe b der Verordnung (EU) Nr. 514/2014 erlassen wurden;
+- [tab] d<sup>quater</sup>.[^34-14] die Pflichten der zuständigen Behörden im Rahmen der öffentlichen Massnahmen sowie den Inhalt ihrer Verwaltungs- und Kontrollaufgaben betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe c der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - e. die Verfahren und Vorschriften zwecks Vereinheitlichung der Kontrollen durch die zuständige Behörden betreffen und gestützt auf Artikel 27 Absatz 5 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - f. die Muster für den Antrag auf Zahlung des Jahressaldos betreffen und gestützt auf Artikel 44 Absatz 3 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - g. die Modalitäten für das jährliche Rechnungsabschlussverfahren betreffen und gestützt auf Artikel 45 Absatz 2 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
@@ -654,14 +664,17 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 [^34-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34-2]: Vgl. die Fussnote zu Art. 1 Abs. 4 Bst. b<sup>bis</sup>
 [^34-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34-4]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34-5]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. b.
-[^34-6]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-7]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. a.
-[^34-8]: Fassung gemäss Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-4]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-5]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-6]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-7]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34-8]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. b.
 [^34-9]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-10]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-11]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-10]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. a.
+[^34-11]: Fassung gemäss Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-12]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-13]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-14]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 
 #### Art. 34a
 
@@ -769,17 +782,72 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 
 <sup>1</sup> Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 1683/95[^34d-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34d-3] darstellen und sofern die Durchführungsrechtsakte gestützt auf Artikel 2 der Verordnung (EG) Nr. 1683/95 erlassen wurden und technische Spezifikationen für die einheitliche Visagestaltung festlegen.
 
-<sup>2</sup>
+<sup>2</sup> **Art. 34***e*[^34d-4] Abschluss internationaler Verträge im Zusammenhang mit dem zentralen Visa-Informationssystem
 
-Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 1030/2002[^34d-4], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel der Verordnung (EG) Nr. 1030/2002 erlassen wurden und Folgendes regeln:
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 1030/2002[^34d-5], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel der Verordnung (EG) Nr. 1030/2002 erlassen wurden und Folgendes regeln:
 
 - a. technische Spezifikationen für die einheitliche Gestaltung des Ausländerausweises für Drittstaatsangehörige (Art. 2 und 3);
 - b. technische Spezifikationen für die Erfassung der biometrischen Daten (Art. 4*b*).
 
+<sup>1</sup> Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 767/2008[^34d-6], sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EG) Nr. 767/2008 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34d-7] darstellen und Folgendes regeln:
+
+a. die Festlegung detaillierter Bestimmungen über die Funktion für die zentrale Verwaltung der Liste der anerkannten Reisedokumente und der Mitteilung der Anerkennung oder Nichtanerkennung der aufgeführten Reisedokumente (Art. 5*a* Abs. 3);
+
+b. die Festlegung detaillierter Bestimmungen über die Verwaltung der Funktion für die zentrale Verwaltung der Liste der Behörden mit Zugang zum zentralen Visa-Informationssystem (C-VIS) (Art. 6 Abs. 5);
+
+c. die Festlegung der Risiken, auf die sich die spezifischen Risikoindikatoren stützen (Art. 9*j* Abs. 3);
+
+d. die Festlegung und Weiterentwicklung des Mechanismus und der Verfahren für die Durchführung von Qualitätskontrollen sowie angemessener Voraussetzungen für die Einhaltung der Qualität der in das C-VIS eingegebenen Daten (Art. 29 Abs. 2*a*);
+
+e. die Festlegung der Spezifikationen der Qualitätsstandards für die Speicherung der in das C-VIS eingegebenen Daten (Art. 29*a* Abs. 3);
+
+f. die Festlegung der für die Entwicklung des C‑VIS, der nationalen Schnittstelle in jedem Mitgliedstaat und der Kommunikationsinfrastruktur zwischen dem C-VIS und den nationalen Schnittstellen erforderlichen Massnahmen (Art. 45 Abs. 1);
+
+g. die Festlegung der für die technische Implementierung der Funktionen des C-VIS erforderlichen Massnahmen (Art. 45 Abs. 2);
+
+h. die Festlegung der technischen Spezifikationen für die Qualität, Auflösung und Verwendung von Fingerabdrücken und des Gesichtsbilds für die biometrische Verifizierung und Identifizierung im C-VIS (Art. 45 Abs. 3);
+
+i. die Festlegung detaillierter Bestimmungen über die Voraussetzungen für den Betrieb des Zugangs für Beförderungsunternehmen und die geltenden Datenschutz- und Sicherheitsvorschriften (Art. 45*c* Abs. 3);
+
+j. die Festlegung des Authentifizierungssystems für Beförderungsunternehmen (Art. 45*c* Abs. 5);
+
+k. die Festlegung der Einzelheiten der Ausweichverfahren für den Fall, dass der Datenzugriff durch Beförderungsunternehmen technisch nicht möglich ist (Art. 45*d* Abs. 3);
+
+l. die Festlegung der Spezifikationen der technischen Lösung, die den Mitgliedstaaten zur Erleichterung der Datenerhebung gemäss Kapitel III*b* im Hinblick auf die Erstellung von Statistiken zur Verfügung gestellt wird (Art. 50 Abs. 4).
+
+<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EG) Nr. 767/2008, sofern die delegierten Rechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EG) Nr. 767/2008 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und Folgendes regeln:
+
+a. die Festlegung der vorgegebenen Liste von Beschäftigungen (Art. 9 Abs. 3);
+
+b. die genauere Definition des Risikos für die Sicherheit, des Risikos der illegalen Einwanderung oder des hohen Epidemierisikos (Art. 9*j* Abs. 2);
+
+c. die Erstellung eines Handbuchs, das die für Abfragen, Verifizierungen und Bewertungen im Rahmen der Interoperabilität der Informationssysteme erforderlichen Verfahren und Regeln festlegt (Art. 9*h* Abs. 2 und 22*b* Abs. 18).
+
+**Art. 34***f*[^34d-8] Abschluss internationaler Verträge im Zusammenhang mit dem Fonds für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik
+
+<sup>1</sup> Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1148[^34d-9], sofern die Durchführungsrechtsakte das Muster für die jährliche Leistungsbilanz erstellen und gestützt auf Artikel 29 Absatz 5 der Verordnung (EU) 2021/1148 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34d-10] darstellen.
+
+<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1148, sofern die delegierten Rechtsakte gestützt auf Artikel 31 Absatz 2 der Verordnung (EU) 2021/1148 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
+
+<sup>3</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen betreffend Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1060[^34d-11], sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2021/1060 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und Folgendes regeln:
+
+a. die Genehmigung von nationalen Programmen (Art. 23 Abs. 4);
+
+b. die Entscheidung über Finanzkorrekturen (Art. 104 Abs. 4).
+
+<sup>4</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EU) 2021/1160, sofern die delegierten Rechtsakte gestützt auf Artikel 114 Absatz 2 der Verordnung (EU) 2021/1060 erlassen wurden und sofern die Verträge völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
+
 [^34d-1]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34d-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. f.
 [^34d-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34d-4]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. g.
+[^34d-4]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34d-5]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. g.
+[^34d-6]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. h.
+[^34d-7]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34d-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34d-9]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. i.
+[^34d-10]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34d-11]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. j.
 
 #### Art. 35
 
@@ -1210,7 +1278,7 @@ Es kann im Einvernehmen mit den schweizerischen Grenzkontrollbehörden mit den a
 
 <sup>2</sup> Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^69-2]
+…[^69-2]
 
 [^69-1]: [[AS 2008 5441](https://fedlex.data.admin.ch/eli/oc/2008/758), [6273](https://fedlex.data.admin.ch/eli/oc/2008/856)Ziff. III; [2009 5097](https://fedlex.data.admin.ch/eli/oc/2009/594), [6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 6; [2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168), [5763](https://fedlex.data.admin.ch/eli/oc/2010/815), [5767](https://fedlex.data.admin.ch/eli/oc/2010/816), [2011 3317](https://fedlex.data.admin.ch/eli/oc/2011/446); [2012 3817](https://fedlex.data.admin.ch/eli/oc/2012/444), [4891](https://fedlex.data.admin.ch/eli/oc/2012/582); [2013 2733](https://fedlex.data.admin.ch/eli/oc/2013/565); [2014 1393](https://fedlex.data.admin.ch/eli/oc/2014/296); [2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)Ziff. I 2, [1867](https://fedlex.data.admin.ch/eli/oc/2015/359), [3035](https://fedlex.data.admin.ch/eli/oc/2015/571), [3723](https://fedlex.data.admin.ch/eli/oc/2015/624), [4237](https://fedlex.data.admin.ch/eli/oc/2015/709)Ziff. III; [2016 1283](https://fedlex.data.admin.ch/eli/oc/2016/256), [3721](https://fedlex.data.admin.ch/eli/oc/2016/627); [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)Ziff. I 2, [1683](https://fedlex.data.admin.ch/eli/oc/2017/177), [2549](https://fedlex.data.admin.ch/eli/oc/2017/239), [3273](https://fedlex.data.admin.ch/eli/oc/2017/339)]
 [^69-2]: Die Änderungen können unter [AS 2018 3087](https://fedlex.data.admin.ch/eli/oc/2018/493)konsultiert werden.
