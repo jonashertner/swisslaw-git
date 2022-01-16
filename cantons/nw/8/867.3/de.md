@@ -5,20 +5,20 @@ title: Gesetz über die Vergütung nicht versicherbarer Elementarschäden
 short: "Hilfsfondsgesetz, HiFG"
 language: de
 version: 2019-01-01
+corrected: 2022-01-17
 version_adopted: 2018-10-24
 adopted: 1977-04-24
 in_force: 1978-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/867.3"
-pdf: "https://gesetze.nw.ch/api/de/versions/980/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/403/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Vergütung nicht versicherbarer Elementarschäden
+# Gesetz über die Vergütung nicht versicherbarer Elementarschäden (Hilfsfondsgesetz, HiFG)<sup>13</sup>
 
-(Hilfsfondsgesetz, HiFG)
-
-vom 24.04.1977 (Stand 01.01.2019)
+vom 24. April 1977<sup>1</sup>
 
 Die Landsgemeinde,
 
@@ -26,21 +26,21 @@ gestützt auf Art. 26 und 52 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
-**Geltungsbereich**
+**Geltungsbereich<sup>5</sup>**
 
-<sup>1</sup> Diesem Gesetz sind alle im Kanton gelegenen Grundstücke unterstellt, deren Steuerwert mindestens den Betrag von Fr. 1'000.– erreicht.
+<sup>1</sup> Diesem Gesetz sind alle im Kanton gelegenen Grundstücke unterstellt, deren Steuerwert mindestens den Betrag von Fr. 1000.– erreicht.
 
-<sup>2</sup> Grundstücke, deren Steuerwert unter Fr. 1'000.– liegt, können durch deren Eigentümerin oder Eigentümer freiwillig diesem Gesetz unterstellt werden; die einmal vollzogene Unterstellung kann von der gleichen Grundeigentümerin oder vom gleichen Grundeigentümer nicht mehr rückgängig gemacht werden.
+<sup>2</sup> Grundstücke, deren Steuerwert unter Fr. 1000.– liegt, können durch deren Eigentümerin oder Eigentümer freiwillig diesem Gesetz unterstellt werden; die einmal vollzogene Unterstellung kann von der gleichen Grundeigentümerin oder vom gleichen Grundeigentümer nicht mehr rückgängig gemacht werden.
 
 <sup>3</sup> Mehrere aneinander angrenzende Grundstücke einer Eigentümerin oder eines Eigentümers, die zusammen eine landwirtschaftliche Betriebseinheit bilden, werden auf Antrag der Eigentümerin oder des Eigentümers bei der Anwendung dieses Gesetzes als ein Grundstück behandelt.
 
 #### Art. 2
 
-**Zweck**
+**Zweck<sup>10</sup>**
 
 <sup>1</sup> Dieses Gesetz bezweckt die finanzielle Unterstützung der Grundeigentümerinnen und Grundeigentümer bei Schäden an Boden und Kulturen, die als Folge von Naturereignissen eingetreten sind, gegen die keine Versicherung möglich ist und deren Eintritt die Geschädigten nicht durch zumutbare Sicherungs- und Abwehrmassnahmen verhindern konnten.
 
@@ -48,7 +48,7 @@ beschliesst:
 
 #### Art. 2a
 
-**Hochwasserentlastungsgebiet**
+**Hochwasserentlastungsgebiet<sup>10</sup>**
 
 <sup>1</sup> Als Hochwasserentlastungsgebiet wird ein Perimeter bezeichnet, in welchem bei einem unter 300-jährlichen Hochwasserereignis zum Schutz von gefährdeten Gebieten, für die ein überwiegendes Schutzinteresse besteht, aufgrund eines Entlastungsbauwerkes insbesondere Wasser und Geschiebe gezielt abgeleitet beziehungsweise eingestaut werden.
 
@@ -66,7 +66,7 @@ beschliesst:
 
 <sup>3</sup> Für Verbindlichkeiten des Hilfsfonds haftet nur dessen Vermögen; eine Haftung des Kantons besteht nicht.
 
-## 2 Organisation
+### II. ORGANISATION
 
 #### Art. 4
 
@@ -76,33 +76,41 @@ beschliesst:
 
 <sup>2</sup> Es stehen ihm insbesondere folgende Aufgaben und Befugnisse zu:
 
-- 1\. …
-- 2\. Wahl der Verwaltungskommission und der Präsidentin beziehungsweise des Präsidenten;
-- 3\. Genehmigung des Geschäftsberichtes und der Jahresrechnung.
+- 1\. ...<sup>10</sup> 2.<sup>4</sup> Wahl der Verwaltungskommission und der Präsidentin beziehungsweise des Präsidenten;
+
+3.<sup>10</sup> Genehmigung des Geschäftsberichtes und der Jahresrechnung.
 
 #### Art. 5
 
 **Verwaltungskommission**
 
-<sup>1</sup> Die Verwaltungskommission besteht aus fünf Mitgliedern und wird auf die verfassungsmässige Amtsdauer gewählt.
+<sup>1</sup> Die Verwaltungskommission besteht aus fünf Mitgliedern und wird auf die verfassungsmässige Amtsdauer gewählt.<sup>4</sup>
 
 <sup>2</sup> Der Verwaltungskommission stehen insbesondere folgende Aufgaben und Befugnisse zu:
 
 - 1\. Überwachung der Geschäftsführung;
+
 - 2\. Wahl der Verwalterin oder des Verwalters;
+
 - 3\. Festlegung der Organisation in einem Reglement;
-- 4\. Erlass von Reglementen im Rahmen des Personalgesetzes[^5-1];
+
+- 4\. Erlass von Reglementen im Rahmen des Personalgesetzes<sup>7</sup>;
+
 - 5\. Erlass von Reglementen zum Vollzug dieses Gesetzes, insbesondere betreffend die Gewährung von Beiträgen zur Verhütung von Elementarschäden, die Schadenregulierung und das Verfahren;
+
 - 6\. Zuweisung der verfügbaren Einnahmen gemäss Art. 17 Abs. 1 Ziff. 1, 3 und 4 an den Betriebsfonds für Elementarschäden sowie den Betriebsfonds für Schäden in Hochwasserentlastungsgebieten;
+
 - 7\. Festlegung der Grundsätze für die Vermögensanlagen;
+
 - 8\. Anordnung von angemessenen Teilzahlungen an Geschädigte während des Rechnungsjahres;
+
 - 9\. endgültige Festsetzung sämtlicher Schadenvergütungen nach Ablauf des Rechnungsjahres, sofern die verfügbaren Mittel des entsprechenden Betriebsfonds nicht ausreichen;
+
 - 10\. Ausübung der Aufsicht über die mit der Geschäftsführung betrauten Personen;
-- 11\. Verabschiedung des jährlichen Geschäftsberichtes sowie der Jahresrechnung zuhanden des Landrates.
 
-<sup>3</sup> Die Sekretariatsarbeiten der Verwaltungskommission obliegen der Verwalterin oder dem Verwalter.
+- 11\. Verabschiedung des jährlichen Geschäftsberichtes sowie der Jahresrechnung zuhanden des Landrates.<sup>10</sup>
 
-[^5-1]: NG 165.1
+<sup>3</sup> Die Sekretariatsarbeiten der Verwaltungskommission obliegen der Verwalterin oder dem Verwalter.<sup>4</sup>
 
 #### Art. 6
 
@@ -114,11 +122,11 @@ beschliesst:
 
 #### Art. 7
 
-**…**
+**..<sup>10</sup>**
 
 #### Art. 8
 
-**Revisionsstelle**
+**Revisionsstelle<sup>6</sup>**
 
 <sup>1</sup> Revisionsstelle des Hilfsfonds ist die Aufsichtskommission.
 
@@ -128,17 +136,17 @@ beschliesst:
 
 **Mitwirkung kantonaler Institutionen**
 
-<sup>1</sup> Der Landrat ist ermächtigt, kantonale Institutionen zur Mitwirkung beim Vollzug der Hilfsfondsgesetzgebung zu verpflichten; er kann die Verwaltung des Hilfsfonds ganz oder teilweise einer bestehenden kantonalen Anstalt oder einer Amtsstelle übertragen.
+Der Landrat ist ermächtigt, kantonale Institutionen zur Mitwirkung beim Vollzug der Hilfsfondsgesetzgebung zu verpflichten; er kann die Verwaltung des Hilfsfonds ganz oder teilweise einer bestehenden kantonalen Anstalt oder einer Amtsstelle übertragen.
 
 #### Art. 10
 
 **Rechtsmittel**
 
-<sup>1</sup> Verfügungen der Verwaltung können binnen 20 Tagen nach erfolgter Zustellung bei der Verwaltungskommission angefochten werden.
+<sup>1</sup> Verfügungen der Verwaltung können binnen 20 Tagen nach erfolgter Zustellung bei der Verwaltungskommission angefochten werden.<sup>10</sup>
 
 <sup>2</sup> Verfügungen und Entscheide der Verwaltungskommission können binnen 20 Tagen nach erfolgter Zustellung beim Verwaltungsgericht angefochten werden.
 
-## 3 Entschädigungsberechtigung
+### III. ENTSCHÄDIGUNGSBERECHTIGUNG
 
 #### Art. 11
 
@@ -147,50 +155,66 @@ beschliesst:
 <sup>1</sup> Vergütungen aus dem Hilfsfonds können gewährt werden:
 
 - 1\. natürlichen Personen, Personenverbindungen und juristischen Personen des öffentlichen und privaten Rechts, die im Kanton Grundeigentum besitzen oder als Pächter bewirtschaften;
-- 2\. Körperschaften, welche die Anlage, die Nutzung und den Unterhalt von Alpweiden, Feld , Wald- und Alpwegen bezwecken;
+
+- 2\. Körperschaften, welche die Anlage, die Nutzung und den Unterhalt von Alpweiden, Feld-, Wald- und Alpwegen bezwecken;
+
 - 3\. Korporationen im Sinne von Art. 91 der Kantonsverfassung.
 
 <sup>2</sup> Der Pächter eines betroffenen Grundstückes ist anstelle des Eigentümers entschädigungsberechtigt, wenn nach dem Pachtvertrag er den Schaden zu tragen oder auf seine Kosten zu beheben hat.
 
 #### Art. 12
 
-**Sachlich 1. in Betracht fallende Naturereignisse**
+**Sachlich**
 
-<sup>1</sup> Für eine Schadenvergütung aus dem Hilfsfonds können Schäden in Frage kommen, die durch eines oder mehrere der folgenden Naturereignisse entstanden sind:
+### 1. in Betracht fallende Naturereignisse
+
+Für eine Schadenvergütung aus dem Hilfsfonds können Schäden in Frage kommen, die durch eines oder mehrere der folgenden Naturereignisse entstanden sind:
 
 - 1\. Überschwemmung infolge von Niederschlägen;
+
 - 2\. Hochwasser;
+
 - 3\. Erdrutsch, Steinschlag oder Felssturz;
+
 - 4\. Lawinen, Schneerutsch oder Schneedruck;
+
 - 5\. Sturmwind;
-- 6\. Ufersenkungen;
-- 7\. Blitzschläge an Frucht- und Zierbäumen.
+
+- 6\. Ufersenkungen.
+
+7.<sup>10</sup> Blitzschläge an Frucht- und Zierbäumen.
 
 #### Art. 13
 
-**2. in Betracht fallende Schäden a) allgemein**
+**2. in Betracht fallende Schäden**
+
+- a) allgemein
 
 <sup>1</sup> Die Schadenvergütungen aus dem Hilfsfonds müssen sich auf Schäden beziehen, die durch ein in Art. 12 genanntes Naturereignis unmittelbar verursacht wurden:
 
 - 1\. an Kulturboden, wie Wiesen und Weiden sowie an Acker- und Gartenland;
+
 - 2\. an Graswuchs, Getreide und Ackerfrüchten sowie Gemüsekulturen, solange sie mit dem Boden verbunden sind;
+
 - 3\. an unbefestigten Wegen, unbefestigten Strassen sowie Stegen, die der Erschliessung von Liegenschaften dienen, soweit sie bei der Steuerschatzung mitberücksichtigt worden sind;
+
 - 4\. an unbefestigten Waldstrassen, soweit sie bei der Steuerschatzung mitberücksichtigt worden sind;
-- 5\. an Waldboden.
+
+- 5\. an Waldboden.<sup>10</sup>
 
 <sup>2</sup> Frucht- und Waldbäume sowie Zierbäume, Sträucher und mehrjährige Blütenstauden gelten als Bestandteile des Bodens und sind im Schadenfall bei der Schadenabschätzung mitzuberücksichtigen.
 
 #### Art. 13a
 
-**b) Schäden in Hochwasserentlastungsgebieten**
+**b) Schäden in Hochwasserentlastungsgebieten<sup>10</sup>**
 
 <sup>1</sup> Innerhalb von Hochwasserentlastungsgebieten werden zusätzlich zu Art. 13 Schadenvergütungen entrichtet für Schäden, die durch ein Naturereignis verursacht wurden an Liegewiesen, Naturrasen, Vorplätzen, Parkplätzen und Erschliessungsstrassen, soweit diese Objekte bei der Steuerschatzung mitberücksichtigt worden sind.
 
 <sup>2</sup> Diese Schadenvergütungen werden nur für solche Anlagen entrichtet, die vor dem Inkrafttreten der Gesetzesänderung vom 19. September 2007 bestanden.
 
-#### Art. 14
+#### Art. 14 c
 
-**c) Einschränkungen**
+**) Einschränkungen**
 
 <sup>1</sup> Bei Schneedruckschäden an Ackerkulturen, Fruchtbäumen und Laubbäumen im Walde werden Schadenvergütungen aus dem Hilfsfonds nur gewährt, wenn die Schäden während der Vegetationszeit entstanden sind.
 
@@ -200,40 +224,56 @@ beschliesst:
 
 **3. ausgeschlossene Schäden**
 
-<sup>1</sup> Von einer Schadenvergütung durch den Hilfsfonds ausgeschlossen sind Schäden:
+Von einer Schadenvergütung durch den Hilfsfonds ausgeschlossen sind Schäden:
 
 - 1\. die versicherbar oder von Gesetzes wegen zu versichern sind;
+
 - 2\. an Grundstücken, die keine Steuerschatzung aufweisen oder für die keine Abgaben gemäss Art. 17 Abs. 1 Ziff. 1 zugunsten des Hilfsfonds bezahlt werden;
+
 - 3\. an Bestandteilen von Grundstücken, die in der Steuerschatzung nicht mitbewertet sind;
+
 - 4\. an den mit Bundes- und Kantonshilfe in Ausführung begriffenen oder ausgeführten Verbauungen von Bächen und Flüssen oder von Lawinenschutzbauten;
+
 - 5\. an Anlagen öffentlicher oder privater Transporteinrichtungen, an Tunnels, an elektrischen Stark- und Schwachstromanlagen, an Stützmauern, Ufermauern und Wehren, an Zäunen und Geländern sowie an öffentlichen oder privaten Wasserversorgungs- und Kanalisationsanlagen;
+
 - 6\. die unmittelbar oder mittelbar die Folge von ober- oder unterirdischen Grabungen, Terrainveränderungen, Bauten oder andern Vorkehren auf dem betroffenen Grundstück oder ausserhalb desselben sind;
+
 - 7\. an baulichen Anlagen, die infolge schlechten Baugrundes, ungenügender Fundamente, falscher Konstruktion, fehlerhafter Ausführung oder mangelhaften Unterhalts entstanden sind;
+
 - 8\. die auf fehlerhafte Kanalisationen und nicht sachgemässe Veränderungen von Wasserläufen, auf Bruch oder Undichtigkeit von Wasserleitungen, auf künstliche Stauungen oder auf sonstige Wasserwerkanlagen zurückzuführen sind;
+
 - 9\. die auf widerrechtliche Handlungen, auf künstlich hervorgerufene Grundwasser- und Bodensenkungen oder irgendwie sonst auf mangelnde Sorgfalt zurückzuführen sind;
+
 - 10\. die voraussehbar waren und deren Entstehung durch zumutbare Massnahmen hätte verhindert werden können;
+
 - 11\. die durch Sturmwind am Obstertrag eingetreten sind;
+
 - 12\. die durch Dürre, Hitze, Frost, Nässe, Nichtversickern von Regen und dergleichen entstanden sind;
+
 - 13\. die durch tierische oder pflanzliche Schädlinge verursacht wurden;
+
 - 14\. die in Wäldern als unmittelbare oder mittelbare Folgen von Kahlschlägen aufgetreten sind.
 
 #### Art. 16
 
-**Ausschluss der Entschädigungsberechtigung**
+**Ausschluss der Entschädigungsberechtigung10**
 
-<sup>1</sup> Schadenrisiken im Sinne dieses Gesetzes, die insbesondere infolge ihres Standortes einer besonderen Gefährdung durch Naturereignisse ausgesetzt sind, können von der Verwaltung von der Entschädigungsberechtigung ausgeschlossen werden.
+Schadenrisiken im Sinne dieses Gesetzes, die insbesondere infolge ihres Standortes einer besonderen Gefährdung durch Naturereignisse ausgesetzt sind, können von der Verwaltung von der Entschädigungsberechtigung ausgeschlossen werden.
 
-## 4 Mittel des Hilfsfonds
+### IV. MITTEL DES HILFSFONDS
 
 #### Art. 17
 
-**Einnahmen**
+**Einnahmen<sup>10</sup>**
 
 <sup>1</sup> Dem Hilfsfonds fliessen folgende Einnahmen zu:
 
-- 1\. eine jährliche Abgabe der Grundeigentümerinnen oder der Grundeigentümer von höchstens 0.25 Promille des Steuerwertes der im Kanton gelegenen Grundstücke; die Abgabepflicht entfällt für jene Grundstücke, die gemäss Art. 16 von der Schadenvergütung durch den Hilfsfonds ausgeschlossen sind;
+- 1\. eine jährliche Abgabe der Grundeigentümerinnen oder der Grundeigentümer von höchstens 0,25 Promille des Steuerwertes der im Kanton gelegenen Grundstücke; die Abgabepflicht entfällt für jene Grundstücke, die gemäss Art. 16 von der Schadenvergütung durch den Hilfsfonds ausgeschlossen sind;
+
 - 2\. die Erträge des Kapitals;
+
 - 3\. allfällige Beiträge des Bundes, des Kantons oder anderer Institutionen;
+
 - 4\. freiwillige Beiträge, Schenkungen und Vermächtnisse.
 
 <sup>2</sup> Die Verwaltungskommission bestimmt die Einzelheiten der jährlichen Abgabe, insbesondere die Mindestabgabe je Grundstück sowie unter Berücksichtigung des Kapitals die Höhe der jährlichen Abgabe.
@@ -242,7 +282,7 @@ beschliesst:
 
 **Abgabe der Grundeigentümer**
 
-<sup>1</sup> Für die Abgabe der Grundeigentümer gemäss Art. 17 Abs. 1 Ziff. 1 besteht ohne Eintragung in das Grundbuch ein gesetzliches Grundpfandrecht im Sinne von Art. 117 des Einführungsgesetzes zum Zivilgesetzbuch[^18-1].
+<sup>1</sup> Für die Abgabe der Grundeigentümer gemäss Art. 17 Abs. 1 Ziff. 1 besteht ohne Eintragung in das Grundbuch ein gesetzliches Grundpfandrecht im Sinne von Art. 117 des Einführungsgesetzes zum Zivilgesetzbuch<sup>12</sup>.<sup>11</sup>
 
 <sup>2</sup> Die Abgabe wird mit der Rechnungsstellung fällig; die Zahlungsfrist beträgt einen Monat.
 
@@ -254,26 +294,27 @@ beschliesst:
 
 <sup>6</sup> Die rechtskräftigen Abgaberechnungen sind im Betreibungsverfahren vollstreckbaren Gerichtsurteilen gleichgestellt.
 
-[^18-1]: NG 211.1
-
 #### Art. 19
 
-**Kapital**
+**Kapital<sup>10</sup>**
 
 <sup>1</sup> Das Kapital des Hilfsfonds setzt sich wie folgt zusammen:
 
 - 1\. unantastbares Stammkapital für Elementarschäden im Betrage von 1 Mio. Franken;
+
 - 2\. Betriebsfonds für Schäden in Hochwasserentlastungsgebieten;
+
 - 3\. Betriebsfonds für Elementarschäden.
 
 <sup>2</sup> Der Betriebsfonds für Schäden in Hochwasserentlastungsgebieten hat am Bilanzstichtag mindestens 2 Mio. Franken zu betragen. Weist er einen Unterbestand aus, sind die erforderlichen Mittel jährlich wie folgt zu bilden:
 
-- 1\. mindestens Fr. 100'000.– zu Lasten der Erfolgsrechnung des Hilfsfonds;
-- 2\. Beitrag des Kantons von Fr. 100'000.–.
+- 1\. mindestens Fr. 100'000.- zu Lasten der Erfolgsrechnung des Hilfsfonds;
+
+- 2\. Beitrag des Kantons von Fr. 100'000.-.
 
 <sup>3</sup> Der Betriebsfonds für Elementarschäden umfasst jenen Teil des Kapitals, der über das unantastbare Stammkapital und den Betriebsfonds für Schäden in Hochwasserentlastungsgebieten hinaus vorhanden ist; der Betriebsfonds für Elementarschäden wird durch die Zuweisung eines allfälligen Jahresgewinnes geäufnet und ist unter Vorbehalt von Art. 30 Abs. 1 zur Deckung eines allfälligen Jahresverlustes zu verwenden.
 
-## 5 Ermittlung des Schadens
+### V. ERMITTLUNG DES SCHADENS
 
 #### Art. 20
 
@@ -305,64 +346,69 @@ beschliesst:
 
 **Nachweis der Schadenursache**
 
-<sup>1</sup> Der Eigentümer eines beschädigten oder zerstörten Grundstückes hat auf Verlangen der Hilfsfondsverwaltung den Nachweis zu erbringen, dass der eingetretene Schaden eine direkte Folge eines oder mehrerer der in Art. 12 genannten Naturereignisse ist.
+Der Eigentümer eines beschädigten oder zerstörten Grundstückes hat auf Verlangen der Hilfsfondsverwaltung den Nachweis zu erbringen, dass der eingetretene Schaden eine direkte Folge eines oder mehrerer der in Art. 12 genannten Naturereignisse ist.
 
 #### Art. 24
 
-**Schadenabschätzung 1. Grundsätze**
+**Schadenabschätzung<sup>10</sup>**
 
-<sup>1</sup> Bei vollständigem, dauerndem Verlust des Ertragswertes oder der Substanz von Kulturland wird die Entschädigung sinngemäss nach den Richtlinien des Schweizerischen Hilfsfonds[^24-1] entrichtet.
+### 1. Grundsätze
+
+<sup>1</sup> Bei vollständigem, dauerndem Verlust des Ertragswertes oder der Substanz von Kulturland wird die Entschädigung sinngemäss nach den Richtlinien des Schweizerischen Hilfsfonds<sup>8</sup> entrichtet.
 
 <sup>2</sup> Die Schadenermittlung erfolgt:
 
 - 1\. bei Bodenerträgnissen nach dem Ertragsausfall, unter Berücksichtigung allfälliger Ernteerschwernisse;
+
 - 2\. bei Grundstücken und Sachen nach Massgabe der Wiederherstellungskosten (Wiederherstellung in den früheren Zustand), wobei zusätzlicher Aufwand für die Verbesserung des alten Zustandes zu Lasten der Grundeigentümerin oder des Grundeigentümers geht. Die anrechenbaren Wiederherstellungskosten müssen in einem vertretbaren Verhältnis zum Ertragswert des Grundstückes stehen; sind die Wiederherstellungskosten unverhältnismässig, wird die Entschädigung gekürzt.
 
 <sup>3</sup> Bei geschädigten Zierbäumen, Sträuchern und mehrjährigen Blütenstauden werden die Kosten für die Wiederbeschaffung der Jungpflanzen gleicher Art sowie die Räumungs- und Wiederinstandstellungskosten berücksichtigt.
 
-[^24-1]: [www.elementarschadenfonds.ch](http://www.elementarschadenfonds.ch) / Stiftung «Schweizerischer Fonds für Hilfe bei nicht versicherbaren Elementarschäden»
-
 #### Art. 25
 
-**2. Schätzungsbericht**
+**2. Schätzungsbericht<sup>10</sup>**
 
-<sup>1</sup> Die von der Verwaltung beauftragten Fachpersonen erstellen über die Schadenabschätzung einen schriftlichen Bericht.
+Die von der Verwaltung beauftragten Fachpersonen erstellen über die Schadenabschätzung einen schriftlichen Bericht.
 
 #### Art. 26
 
-**3. Eröffnung**
+**3. Eröffnung<sup>10</sup>**
 
-<sup>1</sup> Die Verwaltung überprüft die Schadenabschätzung, nimmt aufgrund der einschlägigen Gesetzgebung erforderliche Korrekturen vor und teilt der geschädigten Person in einer schriftlichen Verfügung mit, welchen Schadenbetrag sie unter Vorbehalt von Art. 30 anerkennt.
+Die Verwaltung überprüft die Schadenabschätzung, nimmt aufgrund der einschlägigen Gesetzgebung erforderliche Korrekturen vor und teilt der geschädigten Person in einer schriftlichen Verfügung mit, welchen Schadenbetrag sie unter Vorbehalt von Art. 30 anerkennt.
 
 #### Art. 27
 
-**…**
+**..<sup>10</sup>**
 
-## 6 Vergütung des Schadens
+### VI. VERGÜTUNG DES SCHADENS
 
 #### Art. 28
 
-**Subsidiarität**
+**Subsidiarität<sup>10</sup>**
 
-<sup>1</sup> Gesetzliche Leistungen oder Beiträge, insbesondere Beiträge gemäss der Landwirtschaftsgesetzgebung[^28-1], gehen der finanziellen Unterstützung gemäss diesem Gesetz vor.
-
-[^28-1]: NG 821.1; NG 821.11
+Gesetzliche Leistungen oder Beiträge, insbesondere Beiträge gemäss der Landwirtschaftsgesetzgebung<sup>9</sup>, gehen der finanziellen Unterstützung gemäss diesem Gesetz vor.
 
 #### Art. 29
 
-**Ordentliche Vergütungsansätze 1. allgemein**
+**Ordentliche Vergütungsansätze<sup>13</sup>**
+
+### 1. allgemein
 
 <sup>1</sup> Die ordentlichen Vergütungsansätze betragen bei Schäden:
 
-- 1\. an Objekten gemäss Art. 13 Abs. 1 Ziff. 1–4: — 60 Prozent
-- 2\. an Waldboden gemäss Art. 13 Abs. 1 Ziff. 5: — 30 Prozent
-- 3\. in Hochwasserentlastungsgebieten gemäss Art. 13a: — 100 Prozent
+**60 Prozent 30 Prozent**
 
-<sup>2</sup> Für Schäden unter Fr. 500.– wird keine Vergütung ausgerichtet; davon ausgenommen sind Schäden in Hochwasserentlastungsgebieten.
+- 1\. an Objekten gemäss Art. 13 Abs. 1 Ziff. 1 - 4
+
+- 2\. an Waldboden gemäss Art. 13 Abs. 1 Ziff. 5
+
+- 3\. in Hochwasserentlastungsgebieten gemäss Art. 13a 100 Prozent
+
+<sup>2</sup> Für Schäden unter Fr. 500.- wird keine Vergütung ausgerichtet; davon ausgenommen sind Schäden in Hochwasserentlastungsgebieten.
 
 #### Art. 30
 
-**2. Herabsetzung**
+**2. Herabsetzung<sup>10</sup>**
 
 <sup>1</sup> Die Schadenvergütungen des Hilfsfonds während eines Rechnungsjahres dürfen beim Betriebsfonds für Elementarschäden jene Summe nicht übersteigen, die sich aus der Hälfte des Betriebsfonds, den Abgaben der Grundeigentümerinnen und Grundeigentümer des Vorjahres sowie den Erträgen des entsprechenden Kapitals des Vorjahres ergibt.
 
@@ -370,13 +416,19 @@ beschliesst:
 
 <sup>3</sup> Vergütungen für Schäden in Hochwasserentlastungsgebieten werden höchstens im Umfang der vorhandenen Mittel entrichtet; reichen diese Mittel nicht aus, sind sämtliche Schadenvergütungen des betreffenden Rechnungsjahres entsprechend prozentual herabzusetzen.
 
-#### Art. 31–32
+#### Art. 31
 
-**…**
+**..<sup>10</sup>**
+
+#### Art. 32
+
+**..<sup>10</sup>**
 
 #### Art. 33
 
-**Auszahlung 1. allgemein**
+**Auszahlung**
+
+### 1. allgemein
 
 <sup>1</sup> Sämtliche Schadenvergütungen sind erst nach Ablauf des Rechnungsjahres auszuzahlen.
 
@@ -398,15 +450,16 @@ beschliesst:
 
 **Verwirkung der Schadenvergütung**
 
-<sup>1</sup> Hat der Geschädigte den Schaden vorsätzlich herbeigeführt, entfällt ihm gegenüber für den betreffenden Schadenfall die Vergütungspflicht des Hilfsfonds.
+Hat der Geschädigte den Schaden vorsätzlich herbeigeführt, entfällt ihm gegenüber für den betreffenden Schadenfall die Vergütungspflicht des Hilfsfonds.
 
 #### Art. 36
 
 **Herabsetzung der Schadenvergütungssumme**
 
-<sup>1</sup> Die Schadenvergütungssumme wird nach dem Verschulden des Geschädigten herabgesetzt, wenn:
+Die Schadenvergütungssumme wird nach dem Verschulden des Geschädigten herabgesetzt, wenn:
 
 - 1\. er den Schaden grobfahrlässig verursacht oder die zur Schadenverhütung erforderlichen Massnahmen grobfahrlässig unterlassen hat;
+
 - 2\. eine Person, die mit dem Geschädigten in Hausgemeinschaft lebt oder für deren Handlungen er haftbar ist, den Schaden vorsätzlich oder grobfahrlässig verursacht hat, sofern sich der Geschädigte bei der Beaufsichtigung, Auswahl oder Anleitung dieser Person einer groben Fahrlässigkeit schuldig gemacht hat.
 
 #### Art. 37
@@ -437,21 +490,27 @@ beschliesst:
 
 #### Art. 40
 
-**Rechtsstellung des Hilfsfonds im Strafverfahren gegen den Schadenverursacher**
+**Rechtsstellung des Hilfsfonds im Strafverfahren gegen**
 
-<sup>1</sup> Im Strafverfahren gegen den Schadenverursacher hat der Hilfsfonds die Stellung eines Geschädigten.
+den Schadenverursacher Im Strafverfahren gegen den Schadenverursacher hat der Hilfsfonds die Stellung eines Geschädigten.
 
-## 7 Übergangs- und Schlussbestimmungen
+### VII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 41
 
-**Änderung des Ergänzungsgesetzes betreffend die kantonale Brandversicherungsanstalt Nidwalden [^41-1]**
+**Änderung des Ergänzungsgesetzes betreffend die kan-**
 
-[^41-1]: NG 867.2
+tonale Brandversicherungsanstalt Nidwalden
+
+...[^41-1]
+
+[^41-1]: NG 867.2; aufgehoben seit 1. Januar 1987 gemäss Landsgemeindebeschluss vom 27. April 1986, A 1986, 701
 
 #### Art. 41a
 
-**Einlagen in den Betriebsfonds für Schäden in Hochwasserentlastungsgebieten**
+**Einlagen in den Betriebsfonds für Schäden in Hoch-**
+
+wasserentlastungsgebieten<sup>10</sup>
 
 <sup>1</sup> Der Kanton und der Hilfsfonds leisten nach erfolgtem Inkrafttreten der Gesetzesänderung vom 19. September 2007 eine erstmalige Einlage in den Betriebsfonds für Hochwasserentlastungsgebiete im Betrage von je 1 Mio. Franken.
 
@@ -465,4 +524,23 @@ beschliesst:
 
 <sup>2</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Gesetz vom 29. April 1956 betreffend die Hilfe bei Elementarschäden Nidwalden.
 
-A 1977, 629
+<sup>8</sup> www.elementarschadenfonds.ch / Stiftung „Schweizerischer Fonds für Hilfe bei nicht versicherbaren Elementarschäden“
+
+<sup>9</sup> NG 821.1; NG 821.11
+
+<sup>10</sup> Fassung gemäss Landratsbeschluss vom 19. September 2007, A 2007, 1557, 1971; in Kraft seit 1. Januar 2008
+
+<sup>11</sup> Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1769; A 2012, 558, in Kraft seit 1. Januar 2012; vom Bund genehmigt am 25. Mai 2012
+
+<sup>12</sup> NG 211.1
+
+<sup>13</sup> Fassung gemäss Landratsbeschluss vom 24. Oktober 2018, A 2018, 1815, 2182; in Kraft seit 1. Januar 2019
+
+## Weitere Fussnoten
+
+- [1] A1977, 629
+- [4] Fassung gemäss Landratsbeschluss vom 10. Dezember 1997, A 1997, 2109; A 1998,
+- [261] ; in Kraft seit 1. Februar 1998
+- [5] Fassung gemäss Landratsbeschluss vom 24. Oktober 2001, A 2001, 1455, A 2002, 6; in Kraft seit 1. Januar 2002
+- [6] Fassung gemäss Landratsbeschluss vom 22. Oktober 2003, A 2003, 1461, A 2004, 56; in Kraft seit 1. Juli 2004
+- [7] NG 165.1
