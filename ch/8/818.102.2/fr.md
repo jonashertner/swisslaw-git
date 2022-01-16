@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-01-10
+version: 2022-01-17
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220110/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220110-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220110/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220117/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220117-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220117/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220110/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 10 janvier 2022)
+du 4 juin 2021 (Etat le 17 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -125,11 +125,11 @@ Les cantons et le médecin en chef de l’armée communiquent à l’OFIT quels 
 
 #### Art. 7
 
-**Émetteurs bénéficiant de droits plus étendus**
+**Émetteurs habilités à établir ultérieurement des certificats de vaccination COVID-19 et des certificats de guérison COVID-19[^7-1]**
 
 <sup>1</sup>
 
-Les cantons et le médecin en chef de l’armée veillent à ce que les demandes d’établissement de certificats de vaccination COVID-19 ou de certificats de guérison COVID-19 au sens de l’art. 16, al. 1, déposées dans les cas suivants soient traitées même lorsqu’il n’existe pas de dossier médical ni de documentation primaire auprès d’un émetteur visé à l’art. 6:[^7-1]
+Les cantons et le médecin en chef de l’armée veillent à ce que les demandes d’établissement de certificats de vaccination COVID-19 ou de certificats de guérison COVID-19 au sens de l’art. 16, al. 1, déposées dans les cas suivants soient traitées même lorsqu’il n’existe pas de dossier médical ni de documentation primaire auprès d’un émetteur visé à l’art. 6:[^7-2]
 
 - a. pour une vaccination administrée ou une guérison en Suisse;
 - b.
@@ -137,11 +137,11 @@ Les cantons et le médecin en chef de l’armée veillent à ce que les demandes
   pour une vaccination administrée ou une guérison à l’étranger:
 
   - 1\. de ressortissants suisses,
-  - 2\. d’étrangers autorisés à entrer en Suisse en vertu de l’art. 4 de l’ordonnance 3 COVID-19 du 19 juin 2020[^7-2] et qui démontrent de manière vraisemblable qu’ils prévoient d’entrer en Suisse ou qu’ils s’y trouvent déjà.[^7-3]
+  - 2\. d’étrangers autorisés à entrer en Suisse en vertu de l’art. 4 de l’ordonnance 3 COVID-19 du 19 juin 2020[^7-3] et qui démontrent de manière vraisemblable qu’ils prévoient d’entrer en Suisse ou qu’ils s’y trouvent déjà.[^7-4]
 
 <sup>2</sup> Ils désignent au moins un émetteur assurant le traitement de ces cas.
 
-<sup>3</sup> La demande d’établissement d’un certificat de vaccination COVID-19 ou d’un certificat de guérison COVID-19 visée à l’al. 1 doit être déposée avec les documents mentionnés aux art. 13, al. 2, let. c, et 16 dans une langue officielle du canton, en anglais ou dans une traduction certifiée conforme dans une des langues mentionnées.[^7-4]
+<sup>3</sup> La demande d’établissement d’un certificat de vaccination COVID-19 ou d’un certificat de guérison COVID-19 visée à l’al. 1 doit être déposée avec les documents mentionnés aux art. 13, al. 2, let. c, et 16 dans une langue officielle du canton, en anglais ou dans une traduction certifiée conforme dans une des langues mentionnées.[^7-5]
 
 <sup>4</sup>
 
@@ -155,17 +155,36 @@ En cas de doute sur l’authenticité des documents fournis, l’émetteur peut:
   - 2\. soumette une certification officielle des documents fournis,
   - 3\. fournisse les informations ou documents supplémentaires nécessaires à l’évaluation de la demande;
 
-- b. demander des informations complémentaires à des services étrangers compétents, dans le respect des dispositions de l’art. 62 de la loi du 28 septembre 2012 sur les épidémies[^7-5].[^7-6]
+- b. demander des informations complémentaires à des services étrangers compétents, dans le respect des dispositions de l’art. 62 de la loi du 28 septembre 2012 sur les épidémies[^7-6].[^7-7]
 
-<sup>5</sup> Si le doute sur l’authenticité des documents subsiste malgré ces mesures, l’émetteur peut rejeter la demande de certificat. Dans ce cas, le demandeur n’a pas droit au remboursement d’un éventuel émolument qu’il aurait payé.[^7-7]
+<sup>5</sup> Si le doute sur l’authenticité des documents subsiste malgré ces mesures, l’émetteur peut rejeter la demande de certificat. Dans ce cas, le demandeur n’a pas droit au remboursement d’un éventuel émolument qu’il aurait payé.[^7-8]
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^7-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^7-3]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-4]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-5]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^7-6]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 17 déc. 2021, en vigueur depuis le 17 janv. 2022 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^7-3]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-5]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-6]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^7-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-8]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+
+#### Art. 7a
+
+**Émetteurs de certificats de test COVID-19 fondés sur des tests ciblés et répétés**[^7a-1]
+
+Les cantons veillent à ce que les demandes d’établissement de certificats de test COVID-19 soient traitées dans les cas suivants:
+
+- a.
+
+  s’agissant d’analyses poolées par biologie moléculaire pour le SARS-CoV-2:
+
+  - 1\. pour les tests ciblés et répétés dans les écoles, les universités et les établissements de formation effectués en vue de détecter et de prévenir les foyers d'infection,
+  - 2\. pour les tests ciblés et répétés dans les hôpitaux, les établissements médico-sociaux et les autres institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
+  - 3\. pour les tests ciblés et répétés dans les entreprises;
+
+- b. s’agissant d’analyses individuelles par biologie moléculaire pour le SARS-CoV-2 effectuées pour confirmer le résultat positif d’un test visé à la let. a.
+
+[^7a-1]: Introduit par l’annexe ch. 3 de l’O du 17 déc. 2021, en vigueur depuis le 17 janv. 2022 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 #### Art. 8
 

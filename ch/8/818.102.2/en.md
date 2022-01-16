@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-01-10
+version: 2022-01-17
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220110/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220110-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220110/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220117/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220117-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220117/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 10 January 2022)
+of 4 June 2021 (Status as of 17 January 2022)
 
 The Swiss Federal Council,
 
@@ -127,11 +127,11 @@ The cantons and the Surgeon General shall notify the FOITT of the designated iss
 
 #### Art. 7
 
-**Issuers with more extensive rights**
+**Issuers for the retrospective issuance of COVID-19 vaccination certificates and COVID-19 recovery certificates[^7-1]**
 
 <sup>1</sup>
 
-The cantons and the Surgeon General shall ensure that in the following cases requests for a COVID-19 vaccination certificate or COVID-19 recovery certificate pursuant to Article 16 paragraph 1 are processed, even if an issuer under Article 6 has no access to the relevant medical history or primary documentation for this purpose:[^7-1]
+The cantons and the Surgeon General shall ensure that in the following cases requests for a COVID-19 vaccination certificate or COVID-19 recovery certificate pursuant to Article 16 paragraph 1 are processed, even if an issuer under Article 6 has no access to the relevant medical history or primary documentation for this purpose:[^7-2]
 
 - a. if the person received the vaccination or recovered from the illness in Switzerland;
 - b.
@@ -139,11 +139,11 @@ The cantons and the Surgeon General shall ensure that in the following cases req
   if the person received the vaccination or recovered from the illness abroad:
 
   - 1\. in the case of Swiss citizens,
-  - 2\. in the case of foreign nationals who are entitled to enter Switzerland under Article 4 of the COVID-19 Ordinance of 19 June 2020[^7-2] and can credibly demonstrate that they are planning to enter Switzerland or are already in Switzerland.[^7-3]
+  - 2\. in the case of foreign nationals who are entitled to enter Switzerland under Article 4 of the COVID-19 Ordinance of 19 June 2020[^7-3] and can credibly demonstrate that they are planning to enter Switzerland or are already in Switzerland.[^7-4]
 
 <sup>2</sup> They shall designate at least one issuer for dealing with such requests.
 
-<sup>3</sup> The request for issuance of a COVID-19 vaccination certificate or COVID-19 recovery certificate under paragraph 1 must be submitted in an official language of the canton, in English or an officially certified translation into one of these languages must be provided together with the documents listed in Articles 13 paragraph 2 letter c and 16.[^7-4]
+<sup>3</sup> The request for issuance of a COVID-19 vaccination certificate or COVID-19 recovery certificate under paragraph 1 must be submitted in an official language of the canton, in English or an officially certified translation into one of these languages must be provided together with the documents listed in Articles 13 paragraph 2 letter c and 16.[^7-5]
 
 <sup>4</sup>
 
@@ -157,17 +157,36 @@ If there is any doubt as to whether the documents submitted are genuine, the iss
   - 2\. submit officially certified documents,
   - 3\. submit the information or documents required to assess the request;
 
-- b. obtain further information from the competent foreign authorities in compliance with Article 62 of the Epidemics Act of 28 September 2012[^7-5].[^7-6]
+- b. obtain further information from the competent foreign authorities in compliance with Article 62 of the Epidemics Act of 28 September 2012[^7-6].[^7-7]
 
-<sup>5</sup> If there is still doubt as to whether the documents submitted are genuine despite taking the foregoing measures, the issuer may decline the request. In such an event, the requesting person is not entitled to a refund of any fee paid.[^7-7]
+<sup>5</sup> If there is still doubt as to whether the documents submitted are genuine despite taking the foregoing measures, the issuer may decline the request. In such an event, the requesting person is not entitled to a refund of any fee paid.[^7-8]
 
-[^7-1]: Amended by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^7-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^7-3]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-4]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-5]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^7-6]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-1]: Amended by Annex No 3 of the O of 17 Dec. 2021, in force since 17 Jan. 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^7-2]: Amended by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^7-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-4]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-5]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-6]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^7-7]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-8]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+
+#### Art. 7a
+
+**Issuers of COVID-19 test certificates for targeted and repetitive tests**[^7a-1]
+
+The cantons shall ensure that in the following cases requests for a COVID-19 test certificate are processed:
+
+- a.
+
+  in the case of pooled molecular-biological analyses for Sars-CoV-2:
+
+  - 1\. targeted and repetitive tests in schools, universities and educational institutions for the prevention and early detection of outbreaks,
+  - 2\. targeted and repetitive tests in hospitals, homes for the elderly and care homes, and in other socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment,
+  - 3\. targeted and repetitive tests in businesses;
+
+- b. in the case of individual molecular-biological analyses for Sars-CoV-2 carried out to confirm the positive result of a test conducted in accordance with letter a.
+
+[^7a-1]: Inserted by Annex No 3 of the O of 17 Dec. 2021, in force since 17 Jan. 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 #### Art. 8
 

@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-01-10
+version: 2022-01-17
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220110/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220110-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220110/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220117/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220117-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220117/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220110/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 10. Januar 2022)
+vom 4. Juni 2021 (Stand am 17. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -125,11 +125,11 @@ Die Kantone und der Oberfeldarzt melden die bezeichneten Ausstellerinnen und Aus
 
 #### Art. 7
 
-**Ausstellerinnen und Aussteller mit weitergehenden Rechten**
+**Ausstellerinnen und Aussteller für die nachträgliche Ausstellung von Covid-19-Impfzertifikaten und Covid-19-Genesungszertifikaten[^7-1]**
 
 <sup>1</sup>
 
-Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fällen Anträge auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Artikel 16 Absatz 1 behandelt werden, auch wenn dafür keine Krankengeschichte oder Primärdokumentation bei einer Ausstellerin oder einem Aussteller nach Artikel 6 vorliegt:[^7-1]
+Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fällen Anträge auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Artikel 16 Absatz 1 behandelt werden, auch wenn dafür keine Krankengeschichte oder Primärdokumentation bei einer Ausstellerin oder einem Aussteller nach Artikel 6 vorliegt:[^7-2]
 
 - a. für eine in der Schweiz erhaltene Impfung oder durchgemachte Erkrankung;
 - b.
@@ -137,11 +137,11 @@ Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fälle
   für eine im Ausland erhaltene Impfung oder durchgemachte Erkrankung:
 
   - 1\. von Schweizerinnen und Schweizern,
-  - 2\. von Ausländerinnen und Ausländern, die nach Artikel 4 der Covid-19-Verordnung 3 vom 19. Juni 2020[^7-2] zur Einreise berechtigt sind und glaubhaft machen, dass sie eine Einreise in die Schweiz planen oder sich bereits in der Schweiz befinden.[^7-3]
+  - 2\. von Ausländerinnen und Ausländern, die nach Artikel 4 der Covid-19-Verordnung 3 vom 19. Juni 2020[^7-3] zur Einreise berechtigt sind und glaubhaft machen, dass sie eine Einreise in die Schweiz planen oder sich bereits in der Schweiz befinden.[^7-4]
 
 <sup>2</sup> Sie bezeichnen für die Behandlung solcher Anträge mindestens eine Ausstellerin oder einen Aussteller.
 
-<sup>3</sup> Der Antrag auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Absatz 1 muss zusammen mit den Unterlagen nach den Artikeln 13 Absatz 2 Buchstabe c und 16 in einer Amtssprache des Kantons, in Englisch oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden.[^7-4]
+<sup>3</sup> Der Antrag auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Absatz 1 muss zusammen mit den Unterlagen nach den Artikeln 13 Absatz 2 Buchstabe c und 16 in einer Amtssprache des Kantons, in Englisch oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden.[^7-5]
 
 <sup>4</sup>
 
@@ -155,17 +155,36 @@ Bestehen Zweifel an der Echtheit der eingereichten Unterlagen, so kann die Ausst
   - 2\. amtliche Beglaubigungen der Unterlagen einreicht,
   - 3\. weitere Informationen oder Unterlagen, die zur Beurteilung des Antrags notwendig sind, einreicht;
 
-- b. unter Einhaltung von Artikel 62 des Epidemiengesetzes vom 28. September 2012[^7-5] weitere Informationen von zuständigen ausländischen Stellen einholen.[^7-6]
+- b. unter Einhaltung von Artikel 62 des Epidemiengesetzes vom 28. September 2012[^7-6] weitere Informationen von zuständigen ausländischen Stellen einholen.[^7-7]
 
-<sup>5</sup> Bestehen trotz Massnahmen weiterhin Zweifel an der Echtheit der Unterlagen, so kann die Ausstellerin oder der Aussteller den Antrag ablehnen. Die antragstellende Person hat diesfalls keinen Anspruch auf Rückerstattung einer allfällig bezahlten Gebühr.[^7-7]
+<sup>5</sup> Bestehen trotz Massnahmen weiterhin Zweifel an der Echtheit der Unterlagen, so kann die Ausstellerin oder der Aussteller den Antrag ablehnen. Die antragstellende Person hat diesfalls keinen Anspruch auf Rückerstattung einer allfällig bezahlten Gebühr.[^7-8]
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^7-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^7-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^7-5]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^7-6]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-1]: Fassung gemäss Anhang Ziff. 3 der V vom 17. Dez. 2021, in Kraft seit 17. Jan. 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^7-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-4]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-5]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-6]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^7-7]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^7-8]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+
+#### Art. 7a
+
+**Ausstellerinnen und Aussteller von Covid-19-Testzertifikaten bei gezielten und repetitiven Testungen**[^7a-1]
+
+Die Kantone sorgen dafür, dass in den nachstehenden Fällen Anträge auf Ausstellung eines Covid-19-Testzertifikats behandelt werden:
+
+- a.
+
+  bei gepoolten molekularbiologischen Analysen auf Sars-CoV-2:
+
+  - 1\. bei gezielten und repetitiven Testungen in Schulen, Universitäten und Ausbildungsstätten zur Prävention und Früherkennung von Ausbrüchen,
+  - 2\. bei gezielten und repetitiven Testungen in Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
+  - 3\. bei gezielten und repetitiven Testungen in Betrieben;
+
+- b. bei individuellen molekularbiologischen Analysen auf Sars-CoV-2, die zur Bestätigung eines positiven Resultats einer Testung nach Buchstabe a durchgeführt wurde.
+
+[^7a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 17. Dez. 2021, in Kraft seit 17. Jan. 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 #### Art. 8
 
