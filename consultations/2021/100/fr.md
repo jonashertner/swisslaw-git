@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordonnance de l'OFDF et de la sécurité des frontières sur la lutte contre le blanchiment d'argent et le financement du terrorisme dans le négoce des métaux précieux bancaires (ordonnance de l'OFDF sur le blanchiment d'argent, OBA-OFDF)"
 document: Projet mis en consultation
 language: fr

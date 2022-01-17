@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordinanza dell’UDSC relativa alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo nella negoziazione dei metalli preziosi bancari (ordinanza UDSC sul riciclaggio di denaro, ORD-UDSC)"
 document: Progetto posto in consultazione
 language: it

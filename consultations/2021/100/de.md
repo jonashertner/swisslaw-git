@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Verordnung des BAZG über die Bekämpfung von Geldwäscherei und Terrorismusfinanzierung im Bankedelmetallhandel (Geldwäschereiverordnung-BAZG, GwV-BAZG)"
 document: Vernehmlassungsvorlage
 language: de
