@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza relativa alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo
 document: Progetto posto in consultazione
 language: it

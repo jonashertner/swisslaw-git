@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l'ordonnance sur la lutte contre le blanchiment d'argent et le financement du terrorisme"
 document: Projet mis en consultation
 language: fr
