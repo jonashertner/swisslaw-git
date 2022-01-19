@@ -3,13 +3,13 @@ canton: BS
 number: "730.150"
 title: Spezielle Bauvorschriften / Bebauungspläne
 language: de
-version: 2021-06-10
-valid_until: 2022-01-19
-version_adopted: 2021-04-14
+version: 2022-01-20
+valid_until: 2023-05-10
+version_adopted: 2022-01-11
 adopted: 2024-01-31
 in_force: 2024-05-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5367/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5521/pdf_file"
 text: pdf
 ---
 
@@ -187,7 +187,7 @@ Liestalerstrasse, der Gellertstrasse und dem St. Alban-Ring. Vom 26. Mai 1955
 
 98 GRB betreffend Erlass spezieller Bauvorschriften im Gebiet zwischen Holbeinstrasse, Schertlingasse und Rümelinbachweg und Änderung der Zoneneinteilung auf der Nordseite des Rümelinbachweges. Vom 9. Februar 1967 98a GRB betreffend Erstellung eines Stadttheaters und einer unterirdischen Garage an der Theaterstrasse sowie Festsetzung neuer Strassenlinien und Erlass spezieller Bauvorschriften. Vom 11. Mai 1967
 
-**53**
+**54**
 
 99 GRB betreffend Festlegung von Bau- und Strassenlinien für den Steingrubenweg und die Strasse Auf der Bischoffhöhe in Riehen; Festsetzung der Zoneneinteilung und Erlass spezieller Bauvorschriften. Vom 30. Juni 1967 Nr.
 
@@ -211,229 +211,227 @@ Liestalerstrasse, der Gellertstrasse und dem St. Alban-Ring. Vom 26. Mai 1955
 
 **41**
 
-124 GRB betreffend Erlass spezieller Bauvorschriften für die südöstliche Seite der Eisengasse (7 - 13). Vom 22. Oktober 1986
-
-**42**
-
 125 GRB betreffend Erlass spezieller Bauvorschriften auf dem Kasernenareal. Vom 22. Oktober 1986
 
-**43**
+**42**
 
 126 GRB betreffend Erlass spezieller Bauvorschriften für das Gebiet Römerfeldstrasse / Schäferstrasse in Riehen. Vom 26. März 1987
 
 127 GRB betreffend Erlass spezieller Bauvorschriften für das Gebiet um die Morystrasse (Wasserstelzenweg, Vierjuchartenweg, Kornfeldstrasse, Tiefweg). Vom 26. März 1987
 
-**44**
+**43**
 
-**45**
+**44**
 
 128 GRB betreffend Einzonung des Areals Eilgut SNCF, Masterplan Bahnhof SBB Basel, Konzept 86. Vom 25. Juni 1987
 
 129 GRB betreffend spezielle Bauvorschriften für das Gebiet Arbedostrasse, Beim Buremichelskopf, Faidostrasse, Friedrich Oser-Strasse, Marignanostrasse, Oberer Batterieweg und Oscar Frey-Strasse (Spezielle Bauvorschriften Buremichelskopf) vom 17. Dezember 1987
 
-**47**
+**46**
 
 132 GRB betreffend die Gestaltung des Areals Breite-Zentrum.
 
 Änderung der Zoneneinteilung, Genehmigung genereller Bau- und Strassenlinien, Erlass spezieller Bauvorschriften und Ermächtigung des Regierungsrates zur Bildung von Allmendparzellen und deren Belastung mit unselbständigen Baurechten für das Areal zwischen Zürcherstrasse, Farnsburgerstrasse, St. Alban-Rheinweg und Nationalstrasse N2 vom 20. April 1988
 
-**50**
+**49**
 
-**52**
+**51**
 
 134 GRB betreffend den Erlass spezieller Bauvorschriften an der Langen Gasse und an der Engelgasse. Vom 10. Mai 1989
 
 135 GRB betreffend Masterplan Bahnhof SBB, Areal Ost, Einzonung von Bahnareal, Erlass spezieller Bauvorschriften, Bildung von Allmendparzellen, Zuordnung der Lärmempfindlichkeitsstufe, im Gebiet Peter Merian-Strasse, Nauenstrasse, Münchensteinerstrasse, Gleisareal. Vom 28. Juni 1990
 
+**52**
+
+136 GRB betreffend Pax-Areal zwischen St. Alban-Anlage und Malzgasse (Liegenschaften Aeschenplatz 13, St. Alban-Anlage 15 und 17 / 17A, Malzgasse 29 - 33). Vom 23. Oktober 1991
+
 **55**
 
-**79**
+**81**
 
-136 GRB betreffend Pax-Areal zwischen St. Alban-Anlage und Malzgasse (Liegenschaften Aeschenplatz 13, St. Alban-Anlage 15 und 17 / 17A, Malzgasse 29 - 33). Vom 23. Oktober 1991 Nr.
+137 GRB betreffend Lindenhofareal zwischen der Münchensteinerstrasse, der Nauenstrasse und der Lindenhofstrasse: Festsetzung eines Überbauungsplans, Erlass spezieller Bauvorschriften, Zuordnung der Lärmempfindlichkeitsstufe. Vom 11. Dezember 1991 Nr.
 
 **Seite**
 
-137 GRB betreffend Lindenhofareal zwischen der Münchensteinerstrasse, der Nauenstrasse und der Lindenhofstrasse: Festsetzung eines Überbauungsplans, Erlass spezieller Bauvorschriften, Zuordnung der Lärmempfindlichkeitsstufe. Vom 11. Dezember 1991
-
-**56**
-
 138 RRB betreffend detaillierte spezielle Bauvorschriften für das Gebiet zwischen Peter Merian-Strasse, Nauenstrasse, Münchensteinerstrasse und Gleisareal. Vom 14. Januar 1992
 
-**58**
+**57**
 
 140 GRB betreffend Festsetzung eines Überbauungsplans, Erlass spezieller Bauvorschriften für das Geviert zwischen der Burgfelderstrasse, der Waldighoferstrasse und der Theodor Herzl-Strasse. Vom 6. Januar 1993
 
-**60**
+**59**
 
 141 GRB betreffend Festsetzung eines Überbauungsplans, Erlass spezieller Bauvorschriften für das Areal «Im Glögglihof», Riehen, zwischen Äussere Baselstrasse, Bettingerstrasse, Burgstrasse und Rebenstrasse. Vom 10. Februar 1993
 
-**61**
+**60**
 
 142 GRB betreffend Festsetzung eines Überbauungsplans, Erlass spezieller Bauvorschriften für das Areal zwischen Grenzacherstrasse, Burgweg, Alemannengasse und Fischerweg (ehemalige Brauerei Warteck). Vom 9. Juni 1993
 
-**62**
+**61**
 
 143 GRB betreffend spezielle Bauvorschriften auf dem Areal des Dreirosen-Schulhauses an der Klybeckstrasse 115 auf der Parzelle 394 in Sektion VII des Grundbuches Basel. Vom 29. Juni 1994
 
-**65**
+**64**
 
 144 GRB betreffend Festsetzung eines Überbauungsplanes und Erlass von speziellen Bauvorschriften für das Coop Schweiz Areal zwischen Güterstrasse, Thiersteinerallee, Hochstrasse, Uhlandstrasse und Tellstrasse vom 15. Dezember 1994
 
-**66**
+**65**
 
 148 GRB betreffend Festsetzung eines Überbauungsplanes, Erlass spezieller Bauvorschriften für das Areal Stadion St. Jakob zwischen St. Jakobs-Strasse, Gellertstrasse, Bahnareal und Birsstrasse. Vom 20. September 1995
 
-**69**
+**68**
 
 150 GRB betreffend Festsetzung eines Überbauungsplanes und Erlass spezieller Bauvorschriften für einen Abschnitt der Parzelle 683 in Sektion VIII des Grundbuches Basel (Wettsteinallee / Rührbergerstrasse). Vom 17. April 1996
 
-**71**
+**70**
 
-**72**
+**71**
 
 151 GRB betreffend Festsetzung eines Überbauungsplanes und Erlass spezieller Bauvorschriften für das Areal Schwarzpark. Vom 5. Juni 1996
 
-**74**
+**73**
 
 152 GRB betreffend Festsetzung eines Überbauungsplanes und Erlass spezieller Bauvorschriften für das Areal «Gehrhalde» in Riehen. Vom 12. März 1997
 
-**75**
+**74**
 
 153 GRB betreffend Erlass spezieller Bauvorschriften für das Areal «Zur Hoffnung» in Riehen. Vom 12. März 1997
 
-**76**
+**75**
 
 156 GRB betreffend Erlass spezieller Bauvorschriften auf dem Geviert zwischen Steinentorstrasse und Klosterberg (Ganthaus). Vom 9. Dezember 1998
 
 158 GRB betreffend Erlass spezieller Bauvorschriften im Gebiet zwischen Rössligasse, Baselstrasse und Inzlingerstrasse, Riehen (Planungszone Gartengasse). Vom 10. Mai 2000
 
-**77**
+**76**
+
+**78**
 
 159 GRB betreffend Erlass spezieller Bauvorschriften beim Hellring Riehen (Abschnitt der Parzelle 2180). Vom 6. Dezember 2000
 
-**80**
+160 GRB betreffend Erlass eines Bebauungsplanes für das Areal Bahnhof Süd, Gundeldingen zwischen Margarethenstrasse, Güterstrasse, Solothurnerstrasse und Bahnareal. Vom 17. Januar 2001
 
-**VI**
-
-**112**
-
-**115**
-
-160 GRB betreffend Erlass eines Bebauungsplanes für das Areal Bahnhof Süd, Gundeldingen zwischen Margarethenstrasse, Güterstrasse, Solothurnerstrasse und Bahnareal. Vom 17. Januar 2001 Nr.
-
-**Seite**
-
-**82**
+**79**
 
 161 Beschluss des Einwohnerrats Riehen betreffend Erlass eines Bebauungsplanes im Gebiet Bäumlihofareal[^hInhaltsverzeichnis-3]. Vom 24. Oktober 2001
 
+**83**
+
+**118**
+
+162 GRB betreffend Erlass eines Bebauungsplans auf dem Areal des Diakonats Bethesda an der Ecke Gellertstrasse / Hardrain. Vom 5. Dezember 2001 Nr.
+
+**Seite**
+
 **84**
-
-162 GRB betreffend Erlass eines Bebauungsplans auf dem Areal des Diakonats Bethesda an der Ecke Gellertstrasse / Hardrain. Vom 5. Dezember 2001
-
-**85**
 
 163 Beschluss des Einwohnerrats Riehen betreffend Erlass eines Bebauungsplans «Hupfer-Areal», Rüchligweg. Vom 24. April 2002
 
 164 GRB betreffend Erlass eines Bebauungsplans (Bauvorschriften, Zuordnung der Lärmempfindlichkeitsstufen) Areal Dornacherstrasse 324 (Feldschlösschen-Areal, neu: «Falkensteinerpark»), Falkensteinerstrasse, Dornacherstrasse, Gilgenbergerstrasse, Arlesheimerstrasse. Vom 12. Juni 2002
 
-**86**
+**85**
 
-**87**
+**86**
 
 165 GRB betreffend Bebauungsplan für das Gebiet Bahnhof St. Johann / Voltastrasse. Vom 15. Januar 2003
 
-**90**
+**89**
 
 166 Beschluss des Gemeinderats Riehen betreffend Erlass eines Bebauungsplans an der Rudolf Wackernagel-Strasse. Vom 29. April 2003
 
 167 RRB betreffend Festsetzung eines Bebauungsplans für die Liegenschaft
 
-**92**
+**91**
 
 Dufourstrasse 36 (Ecke Dufourstrasse / Brunngässlein). Vom 31. August 2004
 
 168 GRB betreffend Erlass eines Bebauungsplans für das Areal «Grosspeter» / Grosspe-
 
-**93**
+**92**
 
 terstrasse / Münchensteinerstrasse / St. Alban-Ring. Vom 21. Oktober 2004
 
 169 GRB betreffend Änderung der Zonenzuweisung und Festsetzung eines Bebauungsplanes St. Jakob-Turm und Stadion-Garage, Birsstrasse, St.-Jakobs-Strasse, Stadion. Vom 8. Dezember 2004
 
-**96**
+**95**
 
-**98**
+**97**
 
 170 GRB betreffend Karger AG (Areal), Allschwilerstrasse, Friedrichstrasse. Vom 20. Januar 2005
 
-**99**
+**98**
 
 171 RRB betreffend Festsetzung eines Bebauungsplans Liegenschaft Picassoplatz 8 (Ecke Dufourstrasse / Brunngässlein). Vom 5. April 2005
 
 172 GRB betreffend Zonenänderung, Zuordnung der Lärmempfindlichkeitsstufe, Festsetzung eines Bebauungsplanes, Projektierung der Infrastruktur sowie Landerwerb (erste Etappe) im Gebiet Erlenmatt (ehemaliges DB-Güterbahnhofareal) im Geviert Schwarzwaldallee, Erlenstrasse, Riehenring, Wiese. Vom 9. Juni 2004
 
-**100**
+**99**
 
-**108**
+**107**
 
 173 GRB betreffend Erlass eines Bebauungsplans für das Areal Markthalle Steinentorberg, Viaduktstrasse, Innere Margarethenstrasse. Vom 11. Mai 2005
 
 174 GRB betreffend Zonenänderung, Änderung der Lärmempfindlichkeitsstufen und Festsetzung eines Bebauungsplans im Bereich Flughafen-, Neudorfstrasse und Im Wasenboden (Areal Flughafenstrasse). Vom 9. November 2005
 
-**110**
+**109**
 
 175 GRB betreffend planerische Massnahmen zur Neunutzung des ehemaligen Industrieareals «Stückfärberei» (Hochberger-, Baden-, Neuhausstrasse) sowie betreffend Einsprachen gegen die Änderung der Zonenzuweisung und Festsetzung eines Bebauungsplans, des Wohnanteils und neuer Lärmempfindlichkeitsstufen. Vom 15. März 2006
 
-**149**
+**111**
 
-176 RRB betreffend Festsetzung eines Bebauungsplans und eines Linienplans für das Areal Lerchenstrasse (Parzelle 1760 in Sektion 4 des Grundbuchs Basel) im Bereich Ecke Lerchenstrasse und Unterer Batterieweg. Vom 30. Mai 2006 Nr.
+176 RRB betreffend Festsetzung eines Bebauungsplans und eines Linienplans für das Areal Lerchenstrasse (Parzelle 1760 in Sektion 4 des Grundbuchs Basel) im Bereich Ecke Lerchenstrasse und Unterer Batterieweg. Vom 30. Mai 2006
 
-**Seite**
+**114**
 
 177 GRB betreffend Zonenänderung und Festsetzung eines Bebauungsplans im Geviert zwischen Aeschenvorstadt, Henric Petri-Strasse, Elisabethenstrasse und Sternengasse. Vom 25. Oktober 2006
 
-**117**
-
-**119**
+**116**
 
 178 GRB betreffend Festsetzung eines Bebauungsplans für die Liegenschaft Zwingerstrasse 25. Vom 17. Januar 2007
 
+**120**
+
+**VII**
+
+**153**
+
+**155**
+
+179 Beschluss des Gemeinderates betreffend Erlass des Bebauungsplans Liegenschaften Lörracherstrasse 153 - 163. Vom 17. April 2007 Nr.
+
+**Seite**
+
 **121**
-
-179 Beschluss des Gemeinderates betreffend Erlass des Bebauungsplans Liegenschaften Lörracherstrasse 153 - 163. Vom 17. April 2007
-
-**122**
 
 180 GRB betreffend Areal Sevogelpark, Festsetzung eines Bebauungsplans im Bereich Sevogelstrasse 104. Vom 27. Juni 2007
 
-**124**
+**123**
 
 181 Beschluss des Einwohnerrats Riehen betreffend Bebauungsplan Bosenhaldenweg, Steingrubenweg. Vom 23. Mai 2007
 
 182 GRB betreffend Areal Messe Basel / Messeplatz / Riehenring / Riehenstrasse / Mattenstrasse / Bleichestrasse / Isteinerstrasse / Erlenstrasse / Feldbergstrasse / Sperrstrasse / Rosentalstrasse / Rosentalanlage[^hInhaltsverzeichnis-4]. Vom 12. März 2008
 
-**126**
+**125**
 
 183 GRB betreffend Erweiterung Alterssiedlung Rheinfelderstrasse; Areal zwischen
 
-**130**
+**129**
 
 Wettsteinallee, Rheinfelderstrasse und Chrischonaweglein. Vom 14. Mai 2008
 
 185 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Entwidmung einer Fläche aus dem Verwaltungsvermögen und Abweisung von Einsprachen im Bereich Wildensteinerstrasse, Baldeggerstrasse und Bechburgerstrasse (Areal Wildensteinerstrasse). Vom 4. Juni 2008
 
-**132**
+**131**
 
-186 RRB betreffend Festsetzung eines Bebauungsplans im Bereich Lautengartenstrasse, Malzgasse und Beim Goldenen Löwen (Areal Lautengarten). Vom 26. August 2008 134
+186 RRB betreffend Festsetzung eines Bebauungsplans im Bereich Lautengartenstrasse, Malzgasse und Beim Goldenen Löwen (Areal Lautengarten). Vom 26. August 2008 133
 
 187 GRB betreffend Festsetzung eines Bebauungsplans für das Areal Novartis Campus,
 
-**135**
+**134**
 
 [^hInhaltsverzeichnis-1]: Titel in der Fassung des GRB vom 22. 10. 1987. IV
 [^hInhaltsverzeichnis-2]: Titel gekürzt. V
-[^hInhaltsverzeichnis-3]: Titel gekürzt. VII
+[^hInhaltsverzeichnis-3]: Titel gekürzt. VI
 [^hInhaltsverzeichnis-4]: Titel in der Fassung des GRB vom 25. 6. 2020 (in Kraft seit 20. 8. 2020, Geschäftsnr. 18.0082).
 [^hInhaltsverzeichnis-5]: Titel in der Fassung des GRB vom 22. 10. 2014 (wirksam seit 7. 12. 2014, Geschäftsnr. 13.1788). VIII
 
@@ -441,219 +439,223 @@ Wettsteinallee, Rheinfelderstrasse und Chrischonaweglein. Vom 14. Mai 2008
 
 [^hInhaltsverzeichnis-5]
 
-**138**
+**137**
 
 188 Beschluss des Gemeindrates Bettingen betreffend Erlass eines Bebauungsplans Dorf (Gebiet). Vom 2. Dezember 2008 / 1. Dezember 2009
 
-**140**
+**139**
 
 189 Beschluss des Gemeindrates Bettingen betreffend Erlass eines Bebauungsplans Chrischona (Gebiet). Vom 2. Dezember 2008 / 1. Dezember 2009
 
 190 GRB betreffend Festsetzung eines Bebauungsplans, Änderung der Lärmempfindlichkeitsstufen sowie Abweisung von Einsprachen im Bereich Fasanenstrasse, Schorenweg, Egliseeweglein und in den Schorenmatten (Areal Schoren). Vom 10. März 2010
 
-**142**
+**141**
 
 191 GRB betreffend RailCity-Bahnhof SBB; Zonenänderung, Festsetzung eines Bebauungsplans, Zuweisung der Lärmempfindlichkeitsstufe und Abweisung von Einsprachen im Bereich Centralbahnstrasse (Bahnhof SBB). Vom 19. Mai 2010
 
-**145**
+**144**
 
-**147**
+**146**
 
 192 GRB betreffend Festsetzung eines Bebauungsplans St. Alban-Anlage / Sevogelstrasse (Gellert-Garage). Vom 9. Juni 2010
 
+**148**
+
 193 GRB betreffend Festsetzung eines Bebauungsplans Grenzacherstrasse (Südareal), Areal F. Hoffmann-La Roche, Basel. Vom 20. Oktober 2010
 
-**177**
-
-**179**
-
-**181**
-
-194 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans und Änderung der Bau- und Strassenlinien im Bereich St. Alban-Vorstadt und Dufourstrasse (ehemals Burghof-Areal) sowie Gewährung eines Baukredits. Vom 17. November 2010 152 Nr.
-
-**Seite**
+194 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans und Änderung der Bau- und Strassenlinien im Bereich St. Alban-Vorstadt und Dufourstrasse (ehemals Burghof-Areal) sowie Gewährung eines Baukredits. Vom 17. November 2010 151
 
 195 GRB Nutzung Kuppel / Gaswerk betreffend Zonenänderung, Festsetzung eines Bebauungsplans und Abweisung von Einsprachen im Bereich Kuppel / Gaswerk an der Binningerstrasse. Vom 16. Februar 2011
 
-**154**
+**176**
 
-196 GRB Nutzung Heuwaage betreffend Zonenänderung, Zuweisung der Lärmempfindlichkeitsstufe, Festsetzung eines Bebauungsplans und Abweisung von Einsprachen im Bereich Heuwaage. Vom 16. Februar 2011
+**178**
 
-**156**
+**180**
+
+**181**
+
+196 GRB Nutzung Heuwaage betreffend Zonenänderung, Zuweisung der Lärmempfindlichkeitsstufe, Festsetzung eines Bebauungsplans und Abweisung von Einsprachen im Bereich Heuwaage. Vom 16. Februar 2011 Nr.
+
+**Seite**
 
 197 GRB betreffend Zonenänderung, Änderung der Lärmempfindlichkeitsstufen, Festsetzung eines Bebauungsplans sowie Abweisung von Einsprachen im Bereich St. Jakobs-Strasse, Singerstrasse und Zeughausstrasse (Areal City Gate). Vom 11. Mai 2011
 
-**157**
+**156**
 
 198 GRB betreffend Festsetzung eines Bebauungsplans und Linienplans sowie Zonenänderung altes Kinderspital-Areal, Geviert zwischen Alemannengasse, Burgweg, Schaffhauserrheinweg und Römergasse. Vom 8. Juni 2011
 
-**159**
+**158**
 
-199 Beschluss des Einwohnerrates Riehen betreffend die Zonenänderung und die Zuordnung der Lärmempfindlichkeitsstufe und den Bebauungsplan für eine Zentrumsbebauung auf dem Areal der S-Bahn-Haltestelle Niederholz. Vom 2. November 2011 162
+199 Beschluss des Einwohnerrates Riehen betreffend die Zonenänderung und die Zuordnung der Lärmempfindlichkeitsstufe und den Bebauungsplan für eine Zentrumsbebauung auf dem Areal der S-Bahn-Haltestelle Niederholz. Vom 2. November 2011 161
 
 200 GRB betreffend Festsetzung eines Bebauungsplans für die Bebauung entlang der neuen Rheinfront des Novartis Campus mit Fokus auf das Hochhausprojekt Asklepios 8. Vom 18. April 2012
 
-**164**
+**163**
 
 201 Beschluss des Einwohnerrats Riehen betreffend die Zonenänderung und den Bebauungsplan für die Parzellen RD 770 und 2095 am Kohlistieg, am Rüchligweg, an der Rauracherstrasse (Planfestsetzungsbeschluss). Vom 29. November 2012
 
-**166**
+**165**
 
 202 GRB betreffend Aufhebung der Speziellen Bauvorschriften Nr. 149 vom 17. April 1996 und Änderung von Zonierung und Wohnanteil sowie Festsetzung eines Bebauungsplans im Gebiet Vorderer Jakobsberg. Vom 9. Januar 2013
 
-**168**
+**167**
 
 203 GRB betreffend Hochschulareal St. Johann / Campus Schällemätteli / Schanzenstrasse / Spitalstrasse / Pestalozzistrasse / Klingelbergstrasse. Vom 9. Januar 2013
 
-**171**
+**170**
 
 204 GRB betreffend Standortentscheid und Festsetzung eines Bebauungsplanes für ein öffentliches unterirdisches Parkhaus im Bereich Picassoplatz / Dufoustrasse / St. Alban-Graben (Parkhaus «Kunstmuseum»). Vom 13. März 2013
 
-**174**
+**173**
 
-205 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans im Bereich Clarastrasse, Riehenring und Drahtzugstrasse (Areal Claraturm). Vom 12. Juni 2013 176
+205 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans im Bereich Clarastrasse, Riehenring und Drahtzugstrasse (Areal Claraturm). Vom 12. Juni 2013 175
 
-206 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung eines Bebauungsplans, Änderung des Wohnanteils sowie Änderung der Bau- und Strassenlinien im Bereich nördlich der Gellertstrasse / Magnolienpark. Vom 11. September 2013 (siehe auch Nr. 18 und 83) 207 GRB betreffend Gesamtrevision des Zonenplans der Stadt Basel und Änderung des Bau- und Planungsgesetzes. Vom 15. Januar 2014 207.1 Bebauungsplan Stadtrandentwicklung Nordwest (Gebiet östlich der Burgfelderstrasse) 207.2A Bebauungsplan Stadtrandentwicklung Am Walkeweg (Gebiet Münchensteinerstrasse, Walkeweg) Nr.
+**206**
+
+206 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung eines Bebauungsplans, Änderung des Wohnanteils sowie Änderung der Bau- und Strassenlinien im Bereich nördlich der Gellertstrasse / Magnolienpark. Vom 11. September 2013 (siehe auch Nr. 18 und 83) 207 GRB betreffend Gesamtrevision des Zonenplans der Stadt Basel und Änderung des Bau- und Planungsgesetzes. Vom 15. Januar 2014 207.1 Bebauungsplan Stadtrandentwicklung Nordwest (Gebiet östlich der Burgfelderstrasse) 207.2A Bebauungsplan Stadtrandentwicklung Am Walkeweg (Gebiet Münchensteinerstrasse, Walkeweg) 207.2B RRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans zweiter Stufe, Änderung des Wohnanteilplans sowie Festsetzung von Strassen- und Weglinien im Bereich Walkeweg, Münchensteinerstrasse (Areal Walkeweg). Vom 15. Dezember 2020 207.3 Bebauungsplan Siedlung Belforterstrasse (Gebiet Hegenheimerstrasse, Theodor-Herzl-Strasse, Michelbacherstrasse, Oltingerstrasse) 207.4 Bebauungsplan Siedlung Im langen Loh (Gebiet Morgartenring, Wanderstrasse, Rigistrasse, Gottfried Keller-Strasse) 207.5 Spezielle Nutzungsvorschriften Freizeitgartenareale Nr.
 
 **Seite**
 
-207.2B RRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans zweiter Stufe, Änderung des Wohnanteilplans sowie Festsetzung von Strassen- und Weglinien im Bereich Walkeweg, Münchensteinerstrasse (Areal Walkeweg). Vom 15. Dezember 2020 207.3 Bebauungsplan Siedlung Belforterstrasse (Gebiet Hegenheimerstrasse, Theodor-Herzl-Strasse, Michelbacherstrasse, Oltingerstrasse) 207.4 Bebauungsplan Siedlung Im langen Loh (Gebiet Morgartenring, Wanderstrasse, Rigistrasse, Gottfried Keller-Strasse) 207.5 Spezielle Nutzungsvorschriften Freizeitgartenareale 207.6 Spezielle Nutzungsvorschriften Tierpark Lange Erlen 207.7 Spezielle Nutzungsvorschriften Sportanlagen Schorenmatte 210 GRB betreffend Areal Aeschengraben, Zonenänderung, Festsetzung eines Bebauungsplans sowie Abweisungen von Einsprachen im Bereich Aeschengraben, Nauenstrasse, Parkweg (Areal Aeschengraben). Vom 19. März 2014
+**189 190**
 
-**184**
+207.6 Spezielle Nutzungsvorschriften Tierpark Lange Erlen 207.7 Spezielle Nutzungsvorschriften Sportanlagen Schorenmatte 210 GRB betreffend Areal Aeschengraben, Zonenänderung, Festsetzung eines Bebauungsplans sowie Abweisungen von Einsprachen im Bereich Aeschengraben, Nauenstrasse, Parkweg (Areal Aeschengraben). Vom 19. März 2014
 
-**187**
-
-**188 189 190 191**
-
-**192**
+**191**
 
 211 GRB betreffend Nutzungsplanung „Am Depot Dreispitz“, Festsetzung eines Bebauungsplans, Änderung von Zone, Lärmempfindlichkeitsstufe und Wohnanteil, Festsetzung neuer Bau- und Strassenlinien im Gebiet zwischen Münchensteinerstrasse, Walkeweg, Tram-Depot Dreispitz und S-Bahn-Station Dreispitz (Irène Zurkinden-Platz). Vom 4. Juni 2014
 
-**194**
+**193**
 
 212 GRB betreffend Aufhebung des Bebauungsplans Nr. 145, Festsetzung eines neuen Bebauungsplans (Friedrich Miescher-Strasse, Flughafenstrasse, Im Burgfelderhof) und einer Zonenänderung, Änderung des Wohnflächenanteils, Änderung der Bau- und Strassenlinien sowie Änderung der Lärmempfindlichkeitsstufen. Vom 25. Juni 2014
 
-**197**
+**196**
 
 213 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnflächenanteils, Abweisung einer Einsprache sowie Umwidmung im Bereich Elsässerstrasse, Voltastrasse, Mülhauserstrasse und Wasserstrasse (Areal VoltaOst). Vom 11. März 2015
 
-**200**
+**199**
 
 214 GRB betreffend Zonenänderung und Festsetzung eines Bebauungsplans im Bereich Nauenstrasse, Gartenstrasse, Heumattstrasse (Areal BIZ) sowie Einschränkung des Geltungsbereichs der Baupläne Nr. 108 und Nr. 130. Vom 11. März 2015
 
-**202**
+**201**
 
 215 GRB betreffende Festsetzung eines Bebauungsplanes im Bereich Petersgraben, Spitalstrasse, Schanzenstrasse, Klingelbergstrasse und Hebelstrasse (Areal Universitätsspital) und Aufhebung des Bebauungsplans Nr. 107 vom 23. Oktober 1963. Vom 20. Mai 2015
 
-**204**
+**203**
 
 216 RRB betreffend Festsetzung eines neuen Bebauungsplanes sowie neue Bau- und Strassenlinien im Bereich Schwarzwaldallee, Rosentalstrasse und Aufhebung des Bebauungsplanes Nr. 64 vom 31. Juli 1956. Vom 30. Juni 2015
 
-**182**
-
-**IX**
-
-**207**
-
 217 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans im Bereich St. Alban Anlage, Engelgasse, Lange Gasse (Areal Helvetia Campus). Vom 28. Oktober 2015
 
-**209**
+**208**
 
-**211**
+218 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung eines Bebauungsplans, Festsetzung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilplans, Änderung von Bau- und Strassenlinien sowie Abweisung von Einsprachen im Bereicht Gellertstrasse, Redingstrasse, Lehenmattstrasse, Stadionstrasse (ehemals Areal De Bary). Vom 17. Dezember 2015
 
-**X**
-
-218 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung eines Bebauungsplans, Festsetzung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilplans, Änderung von Bau- und Strassenlinien sowie Abweisung von Einsprachen im Bereicht Gellertstrasse, Redingstrasse, Lehenmattstrasse, Stadionstrasse (ehemals Areal De Bary). Vom 17. Dezember 2015 Nr.
-
-**Seite**
+**210**
 
 219 Beschluss des Gemeinderates Riehen i. S. Bebauungsplan für die Parzellen RB 1099 und 1092 an der Lörracherstrasse 139 (Planfestsetzungsbeschluss). Vom 4. März 2014
 
-**213**
+**183**
+
+**186**
+
+**212**
 
 220 GRB betreffend Zonenänderung und Festsetzung eines Bebauungsplans sowie Abweisungen von Einsprachen im Bereich Grenzacherstrasse, Peter Rot-Strasse, Wettsteinallee und Beuggenweg (Roche Nordareal). Vom 8. Juni 2016 221.A GRB betreffend Areal Felix Platter; Zonenänderung, Festsetzung eines Bebauungsplans, Abweisung von Einsprachen sowie Widmung im Bereich Luzernerring, Burg-
 
-**215**
+**187 188**
 
-**219**
+**IX**
+
+**214**
+
+**218**
 
 felderstrasse, Ensisheimerstrasse, Hegenheimerstrasse. Vom 20. Oktober 2016
 
+**Seite**
+
+Nr.
+
 221.B RRB betreffend Festsetzung eines Bebauungsplanes zweiter Stufe sowie neue Bau- und Strassenlinien im Bereich Luzernerring / Burgfelderstrasse / Ensisheimerstrasse / Hegenheimerstrasse (Areal Westfeld, ehemaliges Areal Felix Platter). Vom 20. November 2018
 
-**221**
+**220**
 
-222 GRB betreffend Zonenänderung, Festsetzung eines Bebau-ungsplans, Änderung des Wohnanteilsplans, Änderung der Baulinie sowie Abweisung von Einsprachen im Bereich Scherkesselweg, Neusatzsteg, Neusatzweglein, Hardrain (Bethesda-Areal). Vom 28. Juni 2017
+222 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnanteilsplans, Änderung der Baulinie sowie Abweisung von Einsprachen im Bereich Scherkesselweg, Neusatzsteg, Neusatzweglein, Hardrain (Bethesda-Areal). Vom 28. Juni 2017
 
-**223**
+**222**
 
-**225**
+**224**
 
 223 GRB betreffend Festsetzung eines Bebauungsplans im Bereich Holeestrasse 123 - 117, Basel (Generationenhaus Neubad). Vom 20. September 2017
 
-**226**
+**225**
 
 224 Beschluss des Einwohnerrates Riehen betreffend Nutzungsplanung des Gebietes Stettenfeld. Vom 27. November 2014
 
+**227**
+
+225 RRB betreffend Festsetzung eines Bebauungsplans im Bereich Aeschenvorstadt 72. Vom 28. August 2018 226.A GRB betreffend Festsetzung eines Bebauungsplans im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage sowie Aufhebung eines Teils des Bebauungsplans Nr. 165, Zonenänderung, Änderung Lärmempfindlichkeitsstufe, Änderung Wohnanteilplan, Festlegung Bau- und Strassenlinien, Nichteintreten auf Einsprachen, Ausgabenbewilligung für die Planung der öffentlichen Freiräume, Ausgabenbewilligung für die Finanzierung der Landerwerbskosten (Areal VoltaNord). Vom 16. Mai 2018 226.B RRB betreffend Festsetzung eines Bebbauungsplans zweiter Stufe und Änderungen der Bau- und Strassenlinien im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage (Areal VoltaNord). Vom 11. Januar 2022
+
 **228**
 
-225 RRB betreffend Festsetzung eines Bebauungsplans im Bereich Aeschenvorstadt 72. Vom 28. August 2018
-
-226 GRB betreffend Festsetzung eines Bebauungsplans im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage sowie Aufhebung eines Teils des Bebauungsplans Nr. 165, Zonenänderung, Änderung Lärmempfindlichkeitsstufe, Änderung Wohnanteilplan, Festlegung Bau- und Strassenlinien, Nichteintreten auf Einsprachen, Ausgabenbewilligung für die Planung der öffentlichen Freiräume, Ausgabenbewilligung für die Finanzierung der Landerwerbskosten (Areal VoltaNord). Vom 16. Mai 2018
-
-**229**
+**232**
 
 227 Planfestsetzungsbeschluss des Gemeinderates Riehen zum Bebauungsplan Liegenschaft Kilchgrundstrasse 62 und 70 (Riehen Sektion D, Parzellen Nr. 0121 / 0120). Vom 7. Februar 2017
 
-**233**
+**236**
 
 229 GRB betreffend Neubau Naturhistorisches Museum Basel und Staatsarchiv Basel-Stadt und Zonenänderung, Festsetzung eines Bebauungsplans, Festsetzung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilsplans, Änderung von Bau- und Strassenlinien sowie Einschränkung des Geltungsbereichs des Bebauungsplans Nr. 165 im Gebiet Entenweidstrasse, Luzernerring-Brücke (Areal Entenweidstrasse). Vom 9. Januar 2019
 
-**235**
+**238**
 
-230 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnanteils sowie Änderung von Baulinien im Bereich Marignanostrasse, Novarastrasse und Schäublinstrasse (Areal Studio Basel Bruderholz). Vom 22. April 2020 237
+230 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnanteils sowie Änderung von Baulinien im Bereich Marignanostrasse, Novarastrasse und Schäublinstrasse (Areal Studio Basel Bruderholz). Vom 22. April 2020 240
 
-**239**
+231 Beschlüsse des Einwohnerrates Riehen betreffend spezielle Nutzungsvorschriften für Pflanz- und Kleingärten. Im Brühl, Auf Hutzlen und In den Wenkenmatten. Vom 27. November 2014 und 24. September 2015
 
-**XI**
-
-**251**
-
-231 Beschlüsse des Einwohnerrates Riehen betreffend spezielle Nutzungsvorschriften für Pflanz- und Kleingärten. Im Brühl, Auf Hutzlen und In den Wenkenmatten. Vom 27. November 2014 und 24. September 2015 Nr.
-
-**Seite**
+**242**
 
 232 GRB betreffend Areal Eisenbahnweg. Festsetzung eines Bebauungsplans, Änderung von Baulinien sowie Abweisung von Einsprachen im Bereich Grenzacherstrasse und Eisenbahnweg (Areal Eisenbahnweg). Vom 18. September 2019
 
-**241**
+**244**
 
-233 GRB betreffend Zonenplanänderungen Achsen St. Alban-Anlage und Nauenstrasse, Festsetzung eines Bebauungsplans Nordseite St. Alban-Anlage. Vom 24. Juni 2020 243
+233 GRB betreffend Zonenplanänderungen Achsen St. Alban-Anlage und Nauenstrasse, Festsetzung eines Bebauungsplans Nordseite St. Alban-Anlage. Vom 24. Juni 2020 246
 
 234 GRB betreffend Aufhebung der Bebauungspläne Nr. 18 und Nr. 83, sowie Festset-
 
-**244**
-
-zung eines Bebauungsplans im Bereich nördliches Gellert. Vom 25. Juni 2020
-
-235 GRB betreffend Zonenplan- und Wohnanteilplanänderungen sowie Festsetzung eines Bebauungsplans im Gebiet Riehenstrasse, Peter Rot-Strasse. Vom 24. Juni 2020 246
-
-236 GRB betreffend Aufhebung der Bebauungspläne Nr. 41, Nr. 130 und Nr. 147 im Gebiet nördlich und westlich des Bahnhofs SBB, sowie Zonenänderungen und Festsetzung eines Bebauungsplans im Bereich Küchengasse, Elisabethenanlage sowie Abweisung einer Einsprache. Vom 25. Juni 2021
+**X**
 
 **247**
 
-**249**
+zung eines Bebauungsplans im Bereich nördliches Gellert. Vom 25. Juni 2020
+
+**Seite**
+
+Nr.
+
+235 GRB betreffend Zonenplan- und Wohnanteilplanänderungen sowie Festsetzung eines Bebauungsplans im Gebiet Riehenstrasse, Peter Rot-Strasse. Vom 24. Juni 2020 249
+
+236 GRB betreffend Aufhebung der Bebauungspläne Nr. 41, Nr. 130 und Nr. 147 im Gebiet nördlich und westlich des Bahnhofs SBB, sowie Zonenänderungen und Festsetzung eines Bebauungsplans im Bereich Küchengasse, Elisabethenanlage sowie Abweisung einer Einsprache. Vom 25. Juni 2021
+
+**250**
+
+**252**
 
 237 RRB betreffend Bebauungsplan im Bereich Kohlenberggasse (Blindenheim). Vom 12. Januar 2021
 
+**XI**
+
 238 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung des Bebauungsplans Nr. 109 sowie Änderung des Bebauungsplans Nr. 160 im Bereich Gartenstrasse, Nauenstrasse, Peter Merian-Strasse, Peter Merian-Brücke, Hochstrasse, Solothurnerstrasse, Meret Oppenheim-Strasse, Bahnhof Basel SBB (Areal Nauentor). Vom 17. März 2021
 
-239 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Zuweisung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilplans, Änderung von Bau- und Strassenlinien sowie Abweisung von Einsprachen im Bereich Steinenvorstadt, Steinentorstrasse und Birsig-Parkplatz (Hochhaus Heuwaage). Vom 14. April 2021 254 Riehen Gottesacker am Hörnli: Vorplatz
+239 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Zuweisung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilplans, Änderung von Bau- und Strassenlinien sowie Abweisung von Einsprachen im Bereich Steinenvorstadt, Steinentorstrasse und Birsig-Parkplatz (Hochhaus Heuwaage). Vom 14. April 2021 257 Riehen Gottesacker am Hörnli: Vorplatz
 
 GRB vom 23. Oktober 1930
 
 Der Grosse Rat erlässt aufgrund von § 8 des Hochbautengesetzes für die Bebauung der den Vorplatz des Gottesackers am Hörnli begrenzenden Parzellen die folgenden speziellen Bauvorschriften:
 
 I.
+
+**254**
 
 Die Baublöcke sind in ihrer allgemeinen Anlage aufgrund der vom Regierungsrat genehmigten Schemapläne in Situation, Ansichten und Schnitten 1 : 200, Nr. 1066 und Nr. 1067, vom 23. Mai 1930 zu gestalten. Die Höhenlage der Hauptgesimse und der Dachfirste sowie die Dachneigungen müssen den Schemaplänen entsprechen. Stehende Dachfenster oder Dachaufbauten sind an allen Fassaden verboten. Die Dachgesimse sind in Profil und Ausladung einheitlich zu gestalten und es ist ein einheitliches Material zur Dachdeckung zu verwenden.
 
@@ -1678,7 +1680,7 @@ Der Grosse Rat des Kantons Basel-Stadt, auf Antrag des Regierungsrates und gest�
 
 - a)
 
-- b)[^hBaselSchlachthofa-1][^hBaselSchlachthofa-2][^hBaselSchlachthofa-3] Der Überbauungsplan Nr. 9834 des Amtes für Kantons- und Stadtplanung vom 21. März 1972 wird als verbindlich erklärt. Das zuständige Departement wird ermächtigt, Abweichungen von diesem Plan zuzulassen, sofern dadurch die Gesamtkonzeption der Bebauung nicht beeinträchtigt wird.
+- b)[^hBaselSchlachthofa-1][^hBaselSchlachthofa-2][^hBaselSchlachthofa-3] Der Überbauungsplan Nr. 9834 des Amtes für Kantons- und Stadtplanung vom 21. März 1972 wird als verbindlich erklärt. Das zuständige Departement wird ermächtigt, Abweichungen von diesem Plan zuzulassen, sofern dadurch die Gesamtkonzeption der Bebau ung nicht beeinträchtigt wird.
 
 2.
 
@@ -1692,19 +1694,9 @@ Der Regierungsrat wird ermächtigt, gestützt auf § 6 Abs. 2 des Allmendgesetze
 
 Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum.
 
-[^hBaselSchlachthofa-1]: Bezüglich der im Zonenänderungsplan Nr. 10’744 keiner Zone und der Grünzone zugewiesenen Flächen sowie bezüglich der Parzellen Nr. 777, 778, 779, 780, 7811, 814, 841 in Sektion I des Grundbuchs der Stadt Basel aufgehoben durch GRB vom 10. 4. 1980 (CG Bd. 52, 1978 - 1980, S.
+[^hBaselSchlachthofa-1]: Bezüglich der im Zonenänderungsplan Nr. 10’744 keiner Zone und der Grünzone zugewiesenen Flächen sowie bezüglich der Parzellen Nr. 777, 778, 779, 780, 7811, 814, 841 in Sektion I des Grundbuchs der Stadt Basel aufgehoben durch GRB vom 10. 4. 1980 (CG Bd. 52, 1978 - 1980, S. 440).
 [^hBaselSchlachthofa-2]: Gemäss GRB vom 10. 4. 1980 wird die Bauhöhe des zehngeschossigen Wohngebäudes im verbleibenden Geltungsbereich des Überbauungsplans neu auf acht Geschosse festgesetzt (CG Bd. 52, 1978 - 1980, S. 440).
 [^hBaselSchlachthofa-3]: Ziff. 1 lit. b zweiter Satz in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
-
-### Basel Südöstliche Seite der Eisengasse (Nr. 7 - 13) / Elftausendjungferngässlein / Martinskirchplatz
-
-GRB vom 22. Oktober 1986
-
-Der Grosse Rat des Kantons Basel-Stadt, auf Antrag seiner Kommission, erlässt für die der Schonzone zugeteilten Gebäude der südöstlichen Seite der Eisengasse (Nr. 7 - 13), gestützt auf § 8 des Hochbautengesetzes, nachfolgende spezielle Bauvorschriften:
-
-Abweichungen von den heute bestehenden Baukuben sind bezüglich Geschosszahl und Gebäudehöhe auf der Südostseite der Eisengasse von Nr. 7 - 13 zulässig. Aufstockungen und Neubauten dürfen gegen die Eisengasse die Wandhöhe von 18 m nicht überschreiten; darüber ist das Gebäudeprofil der Zone 5 zu beachten. Neubauten und Mauern gegen das Elftausendjungferngässlein und den Martinskirchplatz dürfen die Wandhöhe von 6 m nicht überschreiten.
-
-Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und wird mit seiner Rechtskraft wirksam.
 
 ### Basel Kasernenareal / Kasernenstrasse / Klybeckstrasse / Klingentalgraben / Unterer Rheinweg
 
@@ -1998,7 +1990,9 @@ Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum.
 
 [^hBaselLangeGasse-1]: Vgl. GRB Nr. 104.
 
-### Basel Bahnhof SBB Masterplan / Peter Merian-Strasse / Nauenstrasse / Münchensteiner-strasse / Gleisareal
+### Basel Bahnhof SBB Masterplan / Peter Merian-Strasse / Nauenstrasse / Münchensteiner-
+
+strasse / Gleisareal
 
 GRB vom 28. Juni 1990
 
@@ -2368,7 +2362,9 @@ Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum.[^hBaselDreiro
 
 [^hBaselDreirosenSchu-1]: Wirksam seit 14. 8. 1994.
 
-### Basel Coop Schweiz (Areal) / Güterstrasse / Thiersteinerallee / Hochstrasse / Uhlandstrasse und Tellstrasse
+### Basel Coop Schweiz (Areal) / Güterstrasse / Thiersteinerallee / Hochstrasse / Uhlandstrasse
+
+und Tellstrasse
 
 Vom 15. Dezember 1994
 
@@ -5854,9 +5850,7 @@ XI. Spezielle Nutzungsvorschriften Sportanlagen Schorenmatte
 
 GRB vom 19. März 2014
 
-Der Grosse Rat des Kantons Basel-Stadt, gestützt auf §§ 101 und 105 des Bau- und Planungsgesetzes vom 17. November 1999 <sup>1)</sup> sowie auf § 11 des Umweltschutzgesetzes Basel-Stadt vom 13. März 1991
-
-<sup>2)</sup> sowie nach Einsichtnahme in den Ratschlag des Regierungsrats Nr. 13.1290.01 vom 27. August 2013 sowie in den Bericht der Bau- und Planungskommission Nr. 13.1290.02 vom 18. Februar 2014, beschliesst:
+Der Grosse Rat des Kantons Basel-Stadt, gestützt auf §§ 101 und 105 des Bau- und Planungsgesetzes vom 17. November 1999 <sup>1)</sup> sowie auf § 11 des Umweltschutzgesetzes Basel-Stadt vom 13. März 1991 <sup>2)</sup> sowie nach Einsichtnahme in den Ratschlag des Regierungsrats Nr. 13.1290.01 vom 27. August 2013 sowie in den Bericht der Bau- und Planungskommission Nr. 13.1290.02 vom 18. Februar 2014, beschliesst:
 
 I. Zonenänderung
 
@@ -5880,21 +5874,19 @@ II. Festsetzung eines Bebauungsplans
 
 2.2. Bereich C f) Im Baufeld C ist gestützt auf das Resultat eines Varianzverfahrens ein Gebäude mit einer maximalen Höhe von 42 m (318 m ü. M.) 10 Geschossen und einer maximalen BGF von 13‘200 m<sup>2</sup> zulässig. Technische Anlagen sind innerhalb der zulässigen Wandhöhe anzuordnen. Eine von diesen Vorschriften bezüglich Baufeld, Gebäudehöhe, Geschosszahl ab weichende Bebauung ist in einem Bebauungsplan 2. Stufe durch den Regierungsrat zu beschliessen.
 
-2.3. Fläche F g) Die Fläche F ist gestützt auf das Resultat eines Varianzverfahrens als öffentlicher Platz zu gestalten. Oberirdisch dürfen nur der Erschliessung und der Ausstattung des Platzes die-nende Bauten und Anlagen erstellt werden. Die öffentliche Zugänglichkeit ist mit einer den Dienstbarkeit im Grundbuch sicherzustellen. Die Dienstbarkeit darf ohne Zustimmung der zuständigen Bewilligungsbehörde weder geändert noch aufgehoben wer- den. Dies ist im Grundbuch anzumerken.
-
-**entsprechen-**
+2.3. Fläche F g) Die Fläche F ist gestützt auf das Resultat eines Varianzverfahrens als öffentlicher Platz zu gestalten. Oberirdisch dürfen nur der Erschliessung und der Ausstattung des Platzes dienende Bauten und Anlagen erstellt werden. Die öffentliche Zugänglichkeit ist mit einer entsprechenden Dienstbarkeit im Grundbuch sicherzustellen. Die Dienstbarkeit darf ohne Zustimmung der zuständigen Bewilligungsbehörde weder geändert noch aufgehoben werden. Dies ist im Grundbuch anzumerken.
 
 2.4. Allgemeines h) Zulässige Nutzungen sind Dienstleistung, Wohnen (Hotel) und Gastronomie. Verkaufsnutzungen sind zulässig, sofern sie untergeordnet sind. Das Gebäude im Baufeld A muss einen minimalen Anteil Wohnen (inkl. Hotel) von 50 % aufweisen.
 
 - i) Dachgeschosse sind ausgeschlossen.
 
-- j) Innerhalb des Planungsperimeters müssen Gebäude zueinander keinen Lichteinfallswinkel aber einen minimalen Abstand von 6 m einhalten. Gegen Gebäude ausserhalb des Planungsperimeters ist ein Lichteinfallswinkel von 60° einzuhalten. Das Gebäude im Bau- feld A muss gegen die Liegenschaft Aeschengraben 21 keinen Lichteinfallswinkel einhal- ten.
+- j) Innerhalb des Planungsperimeters müssen Gebäude zueinander keinen Lichteinfallswinkel aber einen minimalen Abstand von 6 m einhalten. Gegen Gebäude ausserhalb des Planungsperimeters ist ein Lichteinfallswinkel von 60° einzuhalten. Das Gebäude im Baufeld A muss gegen die Liegenschaft Aeschengraben 21 keinen Lichteinfallswinkel einhalten.
 
 - k) Die Erschliessung der unterirdischen Autoeinstellhalle darf nur über den im Plan dargestellten Punkt erfolgen. Alle Parkplätze sind unterirdisch anzuordnen.
 
 - l) In dem im Plan dargestellten Bereich sind unterirdische Verbindungen zur Erschliessung der Autoeinstellhalle auf dem Nachbargrundstück zulässig. Der Inanspruchnahme von Allmend für diese Verbindung wird zugestimmt. Der Regierungsrat wird ermächtigt, die zur Erstellung dieser Verbindungen notwendige Fläche mit den entsprechenden Baurechten zu belasten.
 
-- m) Die vom Grossen Rat am 22. Dezember 1977 erlassenen speziellen Bauvorschrif ten Nr. 119 werden für den Geltungsbereich des vorliegenden Bebauungsplans aufgehoben.
+- m) Die vom Grossen Rat am 22. Dezember 1977 erlassenen speziellen Bauvorschriften Nr. 119[^hBaselAeschengraben-1] werden für den Geltungsbereich des vorliegenden Bebauungsplans aufgehoben.
 
 - 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
 
@@ -5902,9 +5894,10 @@ III.
 
 IV. Publikation
 
-Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und wird nach Eintritt der Rechtskraft wirksam.[^hBaselAeschengraben-1]
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und wird nach Eintritt der Rechtskraft wirksam.[^hBaselAeschengraben-2]
 
-[^hBaselAeschengraben-1]: Wirksam seit 4. 5. 2014.
+[^hBaselAeschengraben-1]: Aufgehoben durch GRB vom 25. 6. 2020 (in Kraft seit 27. 8. 2020).
+[^hBaselAeschengraben-2]: Wirksam seit 4. 5. 2014.
 
 ### Basel Dreispitz (Depot) / Münchensteinerstrasse / Walkeweg / Irène Zurkinden-Platz
 
@@ -6064,7 +6057,7 @@ VII. Publikation
 
 Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und wird nach Eintritt der Rechtskraft wirksam.[^hBaselFriedrichMies-3]
 
-[^hBaselFriedrichMies-1]: SG 730.100.
+[^hBaselFriedrichMies-1]: SG 730.100
 [^hBaselFriedrichMies-2]: Grossratsbeschluss betreffend Erlass spezieller Bauvorschriften für zwei Areale auf Gebiet der Psychiatrischen Universitätsklinik (Parzelle Nr. 687 in Sektion I des Grundbuches Basel-Stadt) sowie für ein Areal auf Gebiet des Bürgerspitals (Milchsuppe) (Parzelle Nr. 418 in Sektion I des Grundbuches Basel-Stadt).
 [^hBaselFriedrichMies-3]: Wirksam seit 10. 8. 2014.
 
@@ -6104,7 +6097,7 @@ Für die bestehende Wohnnutzung an der Wasserstrasse 31 und 33 gelten die Vorsch
 
 - f) Für die bestehende Wohnnutzung an der Wasserstrasse 35 und 37 gelten die Vorschriften über den Bestandesschutz gemäss Bau- und Planungsgesetz sinngemäss. Neubauten müssen gegen die bestehenden Wohnnutzungen einen Lichteinfall von 60° einhalten. Zur Gewährleistung einer hohen städtebaulichen und architektonischen Qualität ist ein Varianzverfahren durchzuführen.
 
-2.4. Teilbereich W21 - 25 g) Im Teilbereich Wasserstrasse 21 - 25 kann in Abweichung von der Grundordnung eine BGF von maximal 2‘000 m<sup>2</sup> realisiert werden. Die Bebauung muss keinen Grenzabstand zur hinteren Grundstücksgrenze einhalten. Zur Gewährleistung einer hohen städtebaulichen und architektonischen Qualität, als Ergebnis eines Varianzverfahrens, darf von der zulässi- gen Gebäudehöhe und Geschosszahl abgewichen werden. Neubauten im Teilbereich Fern heizkraftwerk müssen gegen die Gebäude im Teilbereich Wasserstrasse 21 - 25 einen Lichteinfallswinkel von 60° einhalten.
+2.4. Teilbereich W21 - 25 g) Im Teilbereich Wasserstrasse 21 - 25 kann in Abweichung von der Grundordnung eine BGF von maximal 2‘000 m<sup>2</sup> realisiert werden. Die Bebauung muss keinen Grenzabstand zur hinteren Grundstücksgrenze einhalten. Zur Gewährleistung einer hohen städtebaulichen und architektonischen Qualität, als Ergebnis eines Varianzverfahrens, darf von der zulässigen Gebäudehöhe und Geschosszahl abgewichen werden. Neubauten im Teilbereich Fernheizkraftwerk müssen gegen die Gebäude im Teilbereich Wasserstrasse 21 - 25 einen Lichteinfallswinkel von 60° einhalten.
 
 2.5. Störfall h) Die Zuordnung von Nutzungen und die Ausführung von baulichen Massnahmen und technischen Einrichtungen in den Teilbereichen Ost und Wasserstrasse 21 - 25 haben so zu erfolgen, dass ein angemessener Schutz vor Störfalleinwirkungen durch das Fernheizkraftwerk gewährleistet ist. Die Massnahmen zum Schutz sind im Baubewilligungsverfahren jeweils zu dokumentieren.
 
@@ -6158,15 +6151,16 @@ III. Einschränkung des Geltungsbereichs des Bebauungsplans Nr. 108
 
 Der Grossratsbeschluss betreffend die Festsetzung eines Überbauungsplanes für das Areal der Bank für Internationalen Zahlungsausgleich (BIZ) an der Nauenstrasse, Gartenstrasse, Heumattstrasse vom 13. Mai 1971 wird für den Geltungsbereich des Baubereichs B des vorliegenden neuen Bebauungsplans aufgehoben.
 
-IV. Einschränkung des Geltungsbereichs des Bebauungsplans Nr. 130
+IV. Einschränkung des Geltungsbereichs des Bebauungsplans Nr. 130[^hBaselNauenstrasse-1]
 
 Der Grossratsbeschluss betreffend spezielle Bauvorschriften für das Gebiet zwischen Binningerstrasse, Steinentorberg, Nauenstrasse, Heumattstrasse, Gartenstrasse, Centralbahnstrasse und Bahnareal (Spezielle Bauvorschriften Binninger-, Gartenstrasse) vom 17. Dezember 1987 wird im Geltungsbereich des vorliegenden neuen Bebauungsplans aufgehoben.
 
 V. Publikation
 
-Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und wird nach Eintritt der Rechtskraft wirksam.[^hBaselNauenstrasse-1]
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und wird nach Eintritt der Rechtskraft wirksam.[^hBaselNauenstrasse-2]
 
-[^hBaselNauenstrasse-1]: Wirksam seit 26. 4. 2015.
+[^hBaselNauenstrasse-1]: Aufgehoben durch GRB vom 25. 6. 2020 (in Kraft seit 27. 8. 2020).
+[^hBaselNauenstrasse-2]: Wirksam seit 26. 4. 2015.
 
 ### Basel Petersgraben / Spitalstrasse / Schanzenstrasse / Klingelbergstrasse / Hebelstrasse (Areal Universitätsspital)
 
@@ -6192,9 +6186,15 @@ I. Festsetzung eines Bebauungsplans
 
 2.7 Die Vorfahrt für Besucherinnen und Besucher zu den Kurzzeitparkplätzen erfolgt ausschliesslich über den Petersgraben.
 
-2.8 Für den Perimeter A sind minimal 800 Abstellplätze für leichte Zweiräder auszuweisen. Beim Haupteingang des Baufeldes Petersgraben sind an gut zugänglicher Stelle gedeckte Abstellplätze für 500 Fahrräder sowie 50 Roller vorzusehen. Weitere 250 ungedeckte Abstellplätze für leichte Zweiräder sind im Bereich des Markgräflerhof-Gartens anzuordnen. 2.9 Für Notfall-Transporte sind Zufahrten vom Petersgraben und Ausfahrten in die Spitalstrasse vorzusehen.
+2.8 Für den Perimeter A sind minimal 800 Abstellplätze für leichte Zweiräder auszuweisen. Beim Haupteingang des Baufeldes Petersgraben sind an gut zugänglicher Stelle gedeckte Abstellplätze für 500 Fahrräder sowie 50 Roller vorzusehen. Weitere 250 ungedeckte Abstellplätze für leichte Zweiräder sind im Bereich des Markgräflerhof-Gartens anzuordnen.
 
-- 3\. Perimeter B 3.1 Um eine hohe städtebauliche und architektonische Qualität und gute Gesamtwirkung zu sichern, sind auf den Entwicklungsfeldern Klingelberg- und Schanzenstrasse und Hebelstrasse für deren Neubebauung Konkurrenzverfahren (Wettbewerb, Studienauftrag) durchzuführen. 3.2 Im Entwicklungsfeld Hebelstrasse ist entlang der Hebelstrasse eine vollflächige Überbauung zulässig; dieses darf im gestrichelten Bereich minimal überschritten werden. Im grün schraffierten Bereich ist eine Freifläche von 50 % einzuhalten. Entlang der Hebelstrasse muss die Gebäudeflucht überwiegend auf der Parzellengrenze liegen. Unter Einhaltung einer Gebäudehöhe von maximal 25 m bzw. 290,50 m ü. M. und Wandhöhe von 20 m bzw. 285,19 m ü. M. und einer Freifläche von 50 % im grün schraffierten Bereich kann eine ordentliche Baubewilligung beantragt werden.
+2.9 Für Notfall-Transporte sind Zufahrten vom Petersgraben und Ausfahrten in die Spitalstrasse vorzusehen.
+
+- 3\. Perimeter B 3.1 Um eine hohe städtebauliche und architektonische Qualität und gute Gesamtwirkung zu sichern, sind auf den Entwicklungsfeldern Klingelberg- und Schanzenstrasse und Hebelstrasse für deren
+
+Neubebauung Konkurrenzverfahren (Wettbewerb, Studienauftrag) durchzuführen.
+
+3.2 Im Entwicklungsfeld Hebelstrasse ist entlang der Hebelstrasse eine vollflächige Überbauung zulässig; dieses darf im gestrichelten Bereich minimal überschritten werden. Im grün schraffierten Bereich ist eine Freifläche von 50 % einzuhalten. Entlang der Hebelstrasse muss die Gebäudeflucht überwiegend auf der Parzellengrenze liegen. Unter Einhaltung einer Gebäudehöhe von maximal 25 m bzw. 290,50 m ü. M. und Wandhöhe von 20 m bzw. 285,19 m ü. M. und einer Freifläche von 50 % im grün schraffierten Bereich kann eine ordentliche Baubewilligung beantragt werden.
 
 3.3 Im Entwicklungsfeld Klingelberg- und Schanzentrasse ist eine vollständige Überbauung zulässig; dieses darf im gestrichelten Bereich minimal überschritten werden, sofern dies nicht zu einer qualitativen Beeinträchtigung der dort angrenzenden Bereiche führt (Spital- und Terrassengarten). Unter Einhaltung einer maximalen Gebäudehöhe von 25 m bzw. 290,5 m ü. M. sowie Wandhöhe von 20 m bzw. 285,19 m ü. M. wird der Regierungsrat ermächtigt, mit einem ergänzenden Bebauungsplan Bestimmungen zu erlassen.
 
@@ -6424,7 +6424,9 @@ Solaranlagen und anderen notwendige technische Installationen überschritten wer
 
 ### Geringfügige Abweichungen, Ausnahmen
 
-- 3\. Der Gemeinderat wird ermächtigt, geringfügige Abweichungen von den Bebauungsplanvor-schriften zuzulassen, sofern dadurch die Gesamtkonzeption und das Siedlungsbild nicht beeinträchtigt werden. Dieser Beschluss wird mit Rechtsmittelbelehrung publiziert; er unterliegt der Genehmigung durch das Bau- und Verkehrsdepartement.
+- 3\. Der Gemeinderat wird ermächtigt, geringfügige Abweichungen von den Bebauungsplanvor-schriften zuzulassen, sofern dadurch die Gesamtkonzeption und das Siedlungsbild nicht beeinträchtigt werden.
+
+Dieser Beschluss wird mit Rechtsmittelbelehrung publiziert; er unterliegt der Genehmigung durch das Bau- und Verkehrsdepartement.
 
 Er wird nach Eintritt der Rechtskraft sofort wirksam.[^hGeringfügigeAbweich-1]
 
@@ -6456,15 +6458,13 @@ II. Festsetzung eines Bebauungsplans
 
 2.1.5. Technische und sicherheitsrelevante Anlagen die über dem Dach liegen müssen, sind soweit
 
-möglich und verhältnismässig innerhalb einer Dachprofillinie von 45° an zuordnen.
+möglich und verhältnismässig innerhalb einer Dachprofillinie von 45° anzuordnen.
 
 2.1.6. Mittels eines Mobilitätskonzepts ist die umweltfreundliche Verkehrsmittelnutzung zu fördern. Es ist jeweils im Rahmen des Baubewilligungsverfahrens über den Stand der Umsetzung Bericht zu erstatten.
 
 2.1.7. Der Aussenraum gegen die Grundstücksgrenze ist nach einem übergeordneten Konzept und mit Blick auf die Nachbarschaft qualitativ hochwertig und soweit möglich öffentlich und begrünt zu gestalten.
 
-2.1.8. Von der gemäss Gesetzgebung und Norm vorgesehenen Aufteilung der Veloparkplätze in Kurz- und Langzeitparkplätze kann abgewichen werden. Es sind jedoch mindes zu erstellenden Veloabstellplätze als Kurzzeitparkplätze, d.h. ebenerdig und nahe bei den Eingängen anzuordnen.
-
-**tens 5 % der**
+2.1.8. Von der gemäss Gesetzgebung und Norm vorgesehenen Aufteilung der Veloparkplätze in Kurz- und Langzeitparkplätze kann abgewichen werden. Es sind jedoch mindestens 5 % der zu erstellenden Veloabstellplätze als Kurzzeitparkplätze, d.h. ebenerdig und nahe bei den Eingängen anzuordnen.
 
 2.1.9. Der Parkplatztransfer gemäss § 11 PPV ist auf zehn Jahre beschränkt. Die Parzellen 8/383 (Roche Südareal) sowie 8/424 (Areal Eisenbahnweg) sind davon ausgenommen.
 
@@ -6520,7 +6520,7 @@ Baubereich A: Wandhöhe 18 m Baubereich B: Wandhöhe 28 m Baubereich C: Wandhöh
 
 - d) Die Höhendifferenz zwischen dem Firmengelände und der Wettsteinallee ist durch einen kontinuierlichen Geländeverlauf auf dem Areal auszugleichen.
 
-2.5. Mehrwertabgabe 2.5.1. Ausgangswert zur Berechnung der Mehrwertabgabe, bezogen auf den gesamten Pla-nungsperimeter, ist die Ausnutzungsziffer von 3.0 bzw. die höhere Ausnutzung des Bestandes zum Zeitpunkt der Rechtskraft dieses Bebauungsplans. Zum Zeitpunkt der Rechtskraft ist der zuständigen Fachstelle ein entsprechender verifizierter Nachweis über die bestehende Ausnutzung vorzulegen.
+2.5. Mehrwertabgabe 2.5.1. Ausgangswert zur Berechnung der Mehrwertabgabe, bezogen auf den gesamten Planungsperimeter, ist die Ausnutzungsziffer von 3.0 bzw. die höhere Ausnutzung des Bestandes zum Zeitpunkt der Rechtskraft dieses Bebauungsplans. Zum Zeitpunkt der Rechtskraft ist der zuständigen Fachstelle ein entsprechender verifizierter Nachweis über die bestehende Ausnutzung vorzulegen.
 
 - 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
 
@@ -6657,7 +6657,7 @@ Dieser Beschluss ist mit Rechtsmittelbelehrung zu publizieren. Er tritt am fünf
 
 GRB vom 28. Juni 2017
 
-Der Grosse Rat des Kantons Basel Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>1)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 17.0184.01 vom 14. Februar 2017 sowie in den Bericht der Bau- und Raumplanungs-kommission Nr. 17.0184.02 vom 11. Mai 2017, beschliesst:
+Der Grosse Rat des Kantons Basel Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>1)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 17.0184.01 vom 14. Februar 2017 sowie in den Bericht der Bau- und Raumplanungskommission Nr. 17.0184.02 vom 11. Mai 2017, beschliesst:
 
 I. Zonenänderung
 
@@ -6814,9 +6814,13 @@ Dieser Beschluss ist zu publizieren. Er tritt am fünften Tag nach der Publikati
 [^hBaselBereichAesche-1]: Titel redaktionell ergänzt.
 [^hBaselBereichAesche-2]: In Kraft seit 6. 9. 2018.
 
+## 226.A
+
+[^h226A-1]: Titel redaktionell ergänzt.
+
 ### Basel Bereich Lysbüchelstrasse, Elsässerstrasse (Areal VoltaNord)
 
-[^hBaselBereichAesche-1]
+[^h226A-1]
 
 GRB vom 16. Mai 2018
 
@@ -6876,7 +6880,9 @@ Baufeld 1: gemäss Grundordnung Baufeld 2: 63’000 m<sup>2</sup> Baufeld 3: gem
 
 ### Natur- und Freiflächen
 
-- m) Es ist innerhalb der westlichen Grünanlagezone eine Naturschutzzone mit einer Fläche von mindestens 1,25 ha festzulegen und eine entsprechende Schutzverordnung zu erlassen. Diese bezweckt den Schutz der trockenwarmen Ruderalvegetation mit den entsprechenden Tier- und Pflanzenarten sowie dem überregionalen Biotopverbund trockenwarmer Lebensräume. Es sind jegliche Nutzungen untersagt, welche den Schutzzwecken widersprechen. Es ist durch gestalterische Massnahmen dafür zu sorgen, dass die Schutzzwecke eingehalten werden. Eine mit dem Artenschutz vereinbare Erholungsnutzung ist auf maximal 20 % der Fläche zulässig.
+- m) Es ist innerhalb der westlichen Grünanlagezone eine Naturschutzzone mit einer Fläche von mindestens 1,25 ha festzulegen und eine entsprechende Schutzverordnung zu erlassen. Diese bezweckt den Schutz der trockenwarmen Ruderalvegetation mit den entsprechenden Tier- und Pflanzenarten sowie dem überregionalen Biotopverbund trockenwarmer Lebensräume. Es sind jegliche Nutzungen untersagt, welche den Schutzzwecken widersprechen. Es ist durch gestalterische Massnahmen dafür zu sorgen, dass die Schutzzwecke eingehalten werden. Eine mit dem
+
+Artenschutz vereinbare Erholungsnutzung ist auf maximal 20 % der Fläche zulässig.
 
 ### Erschliessung und Parkierung
 
@@ -6940,11 +6946,103 @@ Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am f
 
 [^hEnergie_2-1]: In Kraft seit 3. 12. 2018.
 
+## 226.B
+
+### Basel Lysbüchelstrasse / Elsässerstrasse / Gleisanlage (Areal VoltaNord)
+
+RRB vom 11. Januar 2022
+
+Der Regierungsrat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999<sup>1)</sup> und ergänzend zum Grossratsbeschluss betreffend Festsetzung eines Bebauungsplans im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage vom 16. Mai 2018, beschliesst:
+
+I. Festsetzung eines Bebauungsplans
+
+- 1\. Ergänzend zum Bebauungsplan Nr. 13'941 des Planungsamts vom 28. Oktober 2016 wird der Bebauungsplan Nr. 14’299 von Städtebau & Architektur vom 16. Juni 2021 verbindlich erklärt.
+
+- 2\. Ergänzend zu den Bebauungsplanvorschriften des Grossratsbeschlusses betreffend Festsetzung eines Bebauungsplans im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage vom 16. Mai 2018 werden folgende Vorschriften erlassen:
+
+2.1 Bebauung
+
+- a) Zur Erreichung einer hohen architektonischen und landschaftsarchitektonischen Qualität können qualitätssichernde Verfahren eingefordert werden.
+
+- b) Die Gebäude auf den Baufeldern 2 und 4 sind innerhalb der im Bebauungsplan dargestellten Baubereiche zu realisieren. Das städtebauliche Konzept für Baufeld 5 ist in einem qualitätssichernden Verfahren zu definieren. An der Elsässerstrasse sind Abweichungen von der Baulinie zulässig.
+
+- c) Es gelten folgende Maximalmasse:
+
+**BGF**
+
+Unter- Anzahl Wandhöhe Wandhöhe baufeld Vollgeschosse Hauptbauten Anbauten 2.1 8 G 28.50 m 21.00 m 2.2 8 G 28.50 m 18.50 m 2.3 8 G 28.50 m 25.50 m 2.4 8 G 30.00 m 25.50 m 4.1 9 G 30.00 m - 4.2 8 G 28.50 m - 5 10 G 30.00 m
+
+**15‘765 m2 11‘460 m2 14‘550 m2 21‘225 m2 11‘220 m2 12‘780 m2 28‘000 m2**
+
+Nutzungstransfers zwischen den Baufeldern und Unterbaufeldern sind zulässig, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird. In den Neubauten auf Baufeld 5 sind Nichtwohnnutzungen im Erdgeschoss unabhängig vom Mindestwohnanteil zulässig. Innerhalb des Areals gehen die Maximalhöhen den Lichteinfallswinkeln vor. Angerechnet werden Fenster mit einem Lichteinfallswinkel von höchstens 60°.
+
+- d) Mindestens 20 % der auf Baufeld 2 realisierten BGF sind auf Unterbaufeld 2.4 als Arbeitsflächen zu realisieren.
+
+- e) Dachgeschosse sind mit Ausnahme innerhalb der Dachprofillinie befindlicher, gemeinschaftsfördernder Infrastruktur nicht zulässig. Treppenhäuser und Liftschächte zur Erschliessung der Dachterrassen oder gemeinschaftsfördernder Infrastruktur sind zulässig und müssen bis zu ihrer Maximalhöhe vom 3,5 m keinen Abstand zur Fassade einhalten. Gebäudeteile und technische Aufbauten auf dem Dach zählen nicht zur Gebäudehöhe. Sowohl gemeinschaftsfördernde Infrastruktur als auch Photovoltaikanlagen auf Dachflächen sind mit Begrünung zu kombinieren.
+
+- f) Auf dem Baufeld 4 dürfen Erker maximal 3.0 m breit sein.
+
+- g) Am Ostrand des Baufelds 2 darf die Baulinie höchstens um 3.0 m durch Vordächer im Erdgeschoss überschritten werden.
+
+- h) Die Haupterschliessung der Unterbaufelder erfolgt zur öffentlichen Erschliessung hin.
+
+- i) An den im Bebauungsplan kreuzschraffierten Lagen sind im Erdgeschoss quartierdienliche Nutzungen zu realisieren.
+
+- j) An den im Bebauungsplan schraffierten Lagen darf Wohnnutzung im Erdgeschoss 40 % der strassenseitigen Fassadenlänge pro Unterbaufeld nicht überschreiten.
+
+- k) In den im Bebauungsplan schraffierten und kreuzschraffierten Flächen haben die Erdgeschosse strassenseitig eine Geschosshöhe von mindestens 4,5 m aufzuweisen. Gemessen wird von Oberkante Boden Erdgeschoss (Rohbau) bis Unterkante Boden 1. Obergeschoss (Rohbau). Auf dem Unterbaufeld 4.2 ist bei der südlichen kreuzschraffierten Fläche eine Unterschreitung der Mindestgeschosshöhe zulässig.
+
+2.2 Freiräume
+
+- a) Die Grün- und Freiräume auf den Baufeldern sind qualitativ hochwertig unter Berücksichtigung ökologischer und stadtklimatischer Aspekte zu gestalten und auch für die Bewirtschaftung des anfallenden Niederschlagswassers vorzusehen. Mit der ersten Baueingabe pro Baufeld ist ein verbindliches Umgebungs- und Entwässerungskonzept für das gesamte Baufeld einzureichen.
+
+- b) Auf dem Baufeld 2 sind mindestens 50 % der Fläche hinter der Baulinie, die unbebaut bleibt, als Garten oder Grünfläche anzulegen. Auf den Baufeldern 4 und 5 sind mindestens zwei Drittel der Fläche hinter der Baulinie, die unbebaut bleibt, als Garten oder Grünfläche anzulegen. Auf Baufeld 5 kann eine Unterschreitung dieser Flächen bewilligt werden, um Erschliessungsbedürfnisse und Schulnutzungen zu berücksichtigen.
+
+- c) Bauten und Anlagen unter Gärten oder Grünflächen müssen im Bereich von Baumpflanzungen mit einer durchwurzelbaren Erdschicht von mindestens 1.50 m überdeckt werden. Innerhalb der Grün- und Freiräume auf Baufeld 2 sind 10 Bäume auf nicht unterbautem Areal zu ersetzen.
+
+- d) Die zwischen der Bau- und der Strassenlinie liegende Grundstücksfläche ist bei Nichtwohnnutzungen angemessen zu begrünen. Sie muss vom öffentlichen Grund nicht abgegrenzt werden. 2.3 Lärm
+
+- a) Können die Anforderungen an die verschärften Lärmgrenzwerte gemäss Ziff. 2 lit. p des Bebauungsplans 226.A nicht erfüllt werden, sind die lärmempfindlichen Räume auf der dem Lärm abgewandten Seite des Gebäudes zu orientieren und die Gebäude durch bauliche und gestalterische Massnahmen vor Lärm zu schützen.
+
+2.4 Störfall
+
+- a) Auf den Unterbaufeldern 2.2, 2.3 und 2.4 sind sensible Nutzungsarten nicht zulässig, solange die massgeblichen Gefahrenquellen in der Umgebung vorhanden sind.
+
+- b) Für das Unterbaufeld 2.3 sowie für die bahnseitigen Gebäudeteile des Unterbaufelds 2.4 sind Fluchtwege auf der gefahrenabgewandten Seite zu realisieren, solange die massgeblichen Gefahrenquellen in der Umgebung vorhanden sind.
+
+2.5 Erschliessung und Parkierung
+
+- a) Im Bereich der im Bebauungsplan dargestellten öffentlichen Erschliessungswege sind qualitativ hochwertige, öffentliche Wegverbindungen zu realisieren. Diese sind mit einer Dienstbarkeit zugunsten des Kantons im Grundbuch sicherzustellen.
+
+- b) Bei der Berechnung der maximalen Anzahl Parkplätze gelten folgende zusätzliche Redukti-onsfaktoren gegenüber der Parkplatzverordnung.
+
+- Ladengeschäfte: 0.5
+
+- Wohnen: 0.3
+
+Bei den Parkplätzen für Wohnnutzung sind folgende Mindestvorgaben einzuhalten:
+
+Baufeld Anzahl davon Besucherparkplätze Behindertenparkplätze 2 16 4 4 10 - 5 7 2 Eine Mehrfachnutzung von Parkplätzen ist zulässig.
+
+- c) Auf den Baufeldern sind oberirdisch keine Autoabstellplätze zulässig. Ausgenommen sind Behindertenparkplätze, sofern keine Tiefgarage erstellt wird. Für Baufeld 4 sind die notwendigen Parkplätze auf anderen Baufeldern zu realisieren.
+
+- d) Es ist für jedes Baufeld ein Mobilitätskonzept zu erstellen.
+
+- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
+
+II. Änderungen Bau- und Strassenlinien
+
+Der Bau- und Strassenlinienänderungsplan Nr. 14’300 von Städtebau & Architektur vom 24. September 2021 wird verbindlich erklärt. III. Publikation
+
+Dieser Beschluss ist mit Rechtsmittelbelehrung zu publizieren. Er tritt am fünften Tag nach der Publikation in Kraft.[^hBaselLysbüchelstras-1]
+
+[^hBaselLysbüchelstras-1]: In Kraft seit 20. 1. 2022.
+
 ### Riehen Liegenschaft Kilchgrundstrasse 62 und 70
 
 Gemeinderatsbeschluss vom 7. Februar 2017
 
-Der Gemeinderat der Gemeinde Riehen beschliesst, gestützt auf §§ 101 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>324)</sup>:
+Der Gemeinderat der Gemeinde Riehen beschliesst, gestützt auf §§ 101 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>326)</sup>:
 
 - 1\. Der Bebauungsplan Nr. 118.01.001 vom 1. November 2016 betreffend Liegenschaft Kilchgrundstrasse 62 und 70 wird festgesetzt.
 
@@ -7328,7 +7426,7 @@ Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am f
 
 Vom 12. Januar 2021
 
-Der Regierungsrat des Kantons Basel-Stadt, gestützt auf die §§ 101 und 106 des Bau- und Pla-nungsgesetzes (BPG) vom 17. November 1999 <sup>1)</sup> beschliesst:
+Der Regierungsrat des Kantons Basel-Stadt, gestützt auf die §§ 101 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>1)</sup> beschliesst:
 
 I. Festsetzung eines Bebauungsplanes
 
@@ -7492,6 +7590,5 @@ Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am f
 ## Weitere Fussnoten
 
 - [2] Ziff. 4 Abs. 2 in der Fassung der Verordnung vom 21. 8. 1990 (wirksam seit 30. 8. 1990).
-- [440] .
 - [1] Ziff. 1 in der Fassung des GRB vom 25. 6. 2020 (in Kraft seit 27. 8. 2020).
 - [2] SG 780.100. Datum redaktionell berichtigt.
