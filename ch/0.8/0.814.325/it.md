@@ -3,11 +3,11 @@ sr: "0.814.325"
 title: "Protocollo del 24 giugno 1998 alla Convenzione del 1979 sull'inquinamento atmosferico attraverso le frontiere a lunga distanza, relativo agli inquinanti organici persistenti (con Allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/664"
 language: it
-version: 2015-02-25
+version: 2022-01-20
 adopted: 1998-06-24
 in_force: 2003-10-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20150225/it/xml/fedlex-data-admin-ch-eli-cc-2003-664-20150225-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20150225/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20220120/it/xml/fedlex-data-admin-ch-eli-cc-2003-664-20220120-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20220120/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20150225/it"
 
 RU **2003** 4425; FF **2000** 2789
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Aarhus il 24 giugno 1998 Approvato dall’Assemblea federale il 19 settembre 2000[^t-2] Ratificato con strumenti depositati dalla Svizzera il 14 novembre 2000 Entrato in vigore per la Svizzera il 23 ottobre 2003
+Concluso a Aarhus il 24 giugno 1998 Approvato dall’Assemblea federale il 19 settembre 2000[^t-1] Ratificato con strumenti depositati dalla Svizzera il 14 novembre 2000 Entrato in vigore per la Svizzera il 23 ottobre 2003
 
-(Stato 25 febbraio 2015)
+(Stato 20 gennaio 2022)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
+[^t-1]: [RU 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
 
 Le Parti,
 
@@ -101,12 +100,14 @@ Ai fini del presente Protocollo:
 - 11\. Per «categoria di grandi fonti fisse» s’intende ogni categoria di fonti fisse di cui all’annesso VIII.
 - 12\.
 
-  Per «fonte fissa nuova», s’intende ogni fonte fissa che s’inizia a costruire o che s’intraprende di modificare sostanzialmente, allo scadere di un termine di due anni, decorrente dalla data d’entrata in vigore:
+  per ‹fonte fissa nuova› s’intende qualsiasi fonte fissa la cui costruzione o modifica sostanziale sia iniziata trascorsi due anni dall’entrata in vigore per una Parte:
 
-  - i) del presente Protocollo, oppure
-  - ii) di un emendamento dell’annesso III o VII, se la fonte fissa rientra nell’ambito delle disposizioni del presente Protocollo in forza unicamente di detto emendamento. Spetta alle autorità nazionali competenti determinare se una modifica è sostanziale o meno, in considerazione di fattori come i vantaggi che questa modifica presenta per l’ambiente.
+  - a) del presente protocollo; oppure
+  - b) di un emendamento del presente protocollo che, per quanto riguarda una fonte fissa, introduce nuovi valori limite nella parte II dell’allegato IV, oppure introduce nell’allegato VIII la categoria nella quale tale fonte rientra.
+  - [tab] Spetta alle autorità nazionali competenti stabilire se una modifica sia sostanziale o meno, tenendo conto di fattori quali i benefici ambientali derivanti da tale modifica.[^1-2]
 
 [^1-1]: [RS 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+[^1-2]: Nuovo testo giusta l’art. 1 A della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 2
 
@@ -140,21 +141,22 @@ Salvo deroga espressa ai sensi dell’articolo 4, ciascuna Parte prende misure e
 Ciascuna Parte:
 
 - a) riduce le proprie emissioni annue totali di ciascuna delle materie enumerate all’annesso III rispetto al livello di emissioni nell’anno di riferimento stabilito in conformità al presente annesso, prendendo provvedimenti efficaci adattati alla sua particolare situazione;
-- b)
+- b)[^3-1]
 
   applica, non oltre i termini specificati all’annesso VI:
 
-  - i) le migliori tecnologie disponibili in considerazione dell’annesso V, per ciascuna fonte fissa nuova che entra a far parte di una categoria di grandi fonti fisse, per la quale le migliori tecnologie disponibili sono definite all’annesso V;
+  - i) per i quali le linee guida adottate dalle Parti in occasione di una sessione dell’organo esecutivo individuano le migliori tecniche disponibili, per ciascuna fonte fissa nuova che entra a far parte di una categoria di grandi fonti fisse, per la quale le migliori tecnologie disponibili sono definite all’annesso V;
   - ii) valori limite almeno altrettanto rigorosi di quelli specificati all’annesso IV riguardo ad ogni fonte fissa che entra a far parte di una categoria menzionata nel presente annesso, in considerazione dell’annesso V. Oppure, ogni Parte può applicare altre strategie di riduzione delle emissioni che danno luogo complessivamente a livelli d’emissione equivalenti;
-  - iii) le migliori tecnologie disponibili, in considerazione dell’annesso V, per ogni fonte fissa esistente che entra a far parte di una categoria di grandi fonti fisse, per la quale le migliori tecnologie disponibili sono definite all’annesso V, nella misura in cui ciò è tecnicamente ed economicamente possibile. Oppure, ogni Parte può applicare altre strategie di riduzione delle emissioni, che producono nell’insieme decurtazioni equivalenti delle emissioni;
-  - iv) valori limite almeno altrettanto rigorosi di quelli specificati nell’annesso IV riguardo a ciascuna fonte fissa esistente che entra a far parte di una categoria citata nel presente annesso, nella misura in cui ciò è tecnicamente ed economicamente possibile, in considerazione dell’annesso V. Oppure, ogni Parte può applicare altre strategie di riduzione delle emissioni, che producono, nell’insieme, equivalenti decurtazioni delle emissioni;
-  - v) misure efficaci per lottare contro le emissioni provenienti da fonti mobili in considerazione dell’annesso VII.
+  - iii) per i quali le linee guida adottate dalle Parti in occasione di una sessione dell’organo esecutivo individuano le migliori tecniche disponibili, per ogni fonte fissa esistente che entra a far parte di una categoria di grandi fonti fisse, per la quale le migliori tecnologie disponibili sono definite all’annesso V, nella misura in cui ciò è tecnicamente ed economicamente possibile. Oppure, ogni Parte può applicare altre strategie di riduzione delle emissioni, che producono nell’insieme decurtazioni equivalenti delle emissioni;
+  - iv) valori limite almeno altrettanto rigorosi di quelli specificati nell’annesso IV riguardo a ciascuna fonte fissa esistente che entra a far parte di una categoria citata nel presente annesso, nella misura in cui ciò è tecnicamente ed economicamente possibile, in considerazione dell’annesso V. Oppure, ogni Parte può applicare altre strategie di riduzione delle emissioni, che producono, nell’insieme, equivalenti decurtazioni delle emissioni.
 
 <sup>6.</sup> Nel caso di impianti di combustione domestici, gli obblighi enunciati ai sotto-capoversi i) e iii) del capoverso b) del paragrafo 5 qui sopra concernono tutte le fonti fisse di detta categoria considerate globalmente.
 
 <sup>7.</sup> Ogni Parte che dopo aver applicato il capoverso b) del paragrafo 5 qui sopra non riesce ad adeguarsi alle disposizioni del capoverso a) dello stesso paragrafo per una materia specificata all’annesso III, è esonerata dagli obblighi che ha contratto a titolo del capoverso a) del paragrafo 5 qui sopra per tale materia.
 
 <sup>8.</sup> Ciascuna Parte compila ed aggiorna gli inventari delle emissioni di materie enumerate all’annesso III, e riunisce le informazioni disponibili relative alla produzione ed alla vendita delle materie enumerate agli annessi I e II. A tal fine, le Parti situate nella zona geografica delle attività dell’EMEP utilizzano, come minimo, i metodi e la risoluzione temporale e spaziale specificate dall’Organo esecutivo dell’EMEP, mentre le Parti situate al di fuori di questa zona s’ispirano ai metodi elaborati nell’ambito del programma di lavoro dell’Organo esecutivo. Ciascuna Parte comunica tali informazioni in conformità alle disposizioni dell’articolo 9 qui sotto.
+
+[^3-1]: Aggiornato dall’art. 1 B 1. della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 4
 
@@ -321,7 +323,9 @@ Nel ratificare, accettare o approvare il presente Protocollo o aderirvi, o in og
 
 **Annessi**
 
-Gli annessi del presente Protocollo sono parte integrante del Protocollo. Gli annessi V e VI hanno valore di raccomandazione.
+Gli annessi del presente Protocollo sono parte integrante del Protocollo. L’allegato V ha valore di raccomandazione.[^13-1]
+
+[^13-1]: Aggiornato dall’art. 1 C della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 14
 
@@ -331,11 +335,22 @@ Gli annessi del presente Protocollo sono parte integrante del Protocollo. Gli an
 
 <sup>2.</sup> Le proposte di emendamenti sono sottoposte per iscritto al Segretario Esecutivo della Commissione che le comunica a tutte le Parti. Le Parti riunite in seno all’Organo esecutivo esaminano le proposte di emendamenti nella successiva sessione, purché il Segretario esecutivo le abbia trasmesse alle Parti con un anticipo di almeno 90 giorni.
 
-<sup>3.</sup> Gli emendamenti al presente Protocollo ed agli annessi I a IV, VI e VII sono adottati mediante consenso dalle Parti presenti ad una sessione dell’Organo esecutivo ed entrano in vigore, nei confronti delle Parti che li hanno accettati, il novantesimo giorno successivo alla data in cui due terzi delle Parti hanno depositato il loro strumento di accettazione di tali emendamenti presso il Depositario. Gli emendamenti entrano in vigore per ogni altra Parte il novantesimo giorno successivo alla data in cui tale Parte ha depositato il proprio strumento di accettazione degli emendamenti.
+<sup>3.</sup> Gli emendamenti al presente protocollo e agli allegati da I a IV, VI e VIII vengono adottati per consenso delle Parti rappresentate in una sessione dell’organo esecutivo ed entrano in vigore per le Parti che li hanno accettati il novantesimo giorno successivo alla data in cui i due terzi delle Parti presenti al momento della loro adozione hanno depositato i loro strumenti di accettazione di tali emendamenti presso il depositario. Per tutte le altre Parti, gli emendamenti entrano in vigore il novantesimo giorno successivo alla data in cui esse hanno depositato i loro strumenti di accettazione. Al presente paragrafo si applicano i paragrafi 5<sup>bis</sup> e 5<sup>ter</sup>.[^14-1]
 
-<sup>4.</sup> Gli emendamenti agli annessi V e VII, sono adottati mediante consenso dalle Parti presenti ad una sessione dell’Organo esecutivo. Allo scadere di un termine di 90 giorni a decorrere dalla data in cui il Segretario esecutivo della Commissione ne ha informato tutte le Parti, ogni emendamento all’uno o all’altro di tali annessi entra in vigore per le Parti che non hanno presentato notifiche al Depositario in conformità con le norme del paragrafo 5 di seguito, a condizione che almeno sedici Parti non abbiano sottoposto tale notifica.
+<sup>4.</sup> Gli emendamenti all’allegato V, sono adottati mediante consenso dalle Parti presenti ad una sessione dell’Organo esecutivo. Allo scadere di un termine di 90 giorni a decorrere dalla data in cui il Segretario esecutivo della Commissione ne ha informato tutte le Parti, ogni emendamento all’allegato V entra in vigore per le Parti che non hanno presentato notifiche al Depositario in conformità con le norme del paragrafo 5 di seguito, a condizione che almeno sedici Parti non abbiano sottoposto tale notifica.[^14-2]
 
-<sup>5.</sup> Ogni Parte che non è in grado di approvare un emendamento agli annessi V o VII, ne notifica il Depositario per iscritto entro un termine di 90 giorni a decorrere dalla data in cui l’adozione dell’emendamento è stata comunicata. Il Depositario informa senza indugio tutte le Parti di aver ricevuto questa notifica. Una Parte può, in qualsiasi momento, sostituire con un’accettazione la sua precedente notifica; dopo il deposito di uno strumento di accettazione presso il Depositario, l’emendamento a questo annesso avrà effetto nei confronti della Parte.
+<sup>5.</sup> Ogni Parte che non è in grado di approvare un emendamento, ne notifica il Depositario per iscritto entro un termine di 90 giorni a decorrere dalla data in cui l’adozione dell’emendamento è stata comunicata. Il Depositario informa senza indugio tutte le Parti di aver ricevuto questa notifica. Una Parte può, in qualsiasi momento, sostituire con un’accettazione la sua precedente notifica; dopo il deposito di uno strumento di accettazione presso il Depositario, l’emendamento a questo annesso avrà effetto nei confronti della Parte.[^14-3]
+
+5<sup>bis</sup> Per le Parti che l’hanno accettata, la procedura di cui al paragrafo 5<sup>ter</sup> sostituisce quella di cui al paragrafo 3 per quanto riguarda gli emendamenti degli allegati da I a IV, VI e VIII.[^14-4]
+
+- 5<sup>ter</sup>. a) Gli emendamenti agli allegati da I a IV, VI e VIII vengono adottati per consenso delle Parti presenti a una seduta dell’organo esecutivo. Allo scadere di un anno dalla data in cui esso viene comunicato dal segretario esecutivo della Commissione a tutte le Parti, l’emendamento ai suddetti allegati entra in vigore per le Parti che non hanno fatto pervenire al depositario una notifica secondo le disposizioni di cui alla sottostante lettera b).
+- b) Le Parti che non sono in grado di approvare un emendamento agli allegati da I a IV, VI e VIII lo notificano per iscritto al depositario entro un anno a decorrere dalla data di comunicazione della sua adozione. Il depositario comunica immediatamente a tutte le Parti di aver ricevuto tale notifica. Una Parte può sostituire in qualsiasi momento una sua precedente notifica con un’accettazione e, dopo aver depositato lo strumento di accettazione presso il depositario, l’emendamento ai suddetti allegati avrà effetto per tale Parte.
+- c)
+
+  Qualsiasi emendamento degli allegati da I a IV, VI e VIII non entra in vigore se un numero complessivo di sedici o più Parti:
+
+  - i) ha fatto pervenire una notifica secondo le disposizioni di cui alla lettera b); oppure
+  - ii) ha respinto la procedura di cui al presente paragrafo e non ha ancora depositato uno strumento di accettazione in conformità delle disposizioni del paragrafo 3.[^14-5]
 
 <sup>6.</sup>
 
@@ -345,6 +360,12 @@ Se la proposta è volta a modificare l’annesso I, II o III nel senso di aggiun
 - b) le Parti valutano la proposta in conformità alle procedure definite nella decisione 1998/2 dell’Organo esecutivo e in ogni emendamento relativo.
 
 <sup>7.</sup> Ogni decisione volta a modificare la decisione 1998/2 dell’Organo esecutivo è adottata per consenso dalle Parti riunite in seno all’Organo esecutivo, ed ha effetto 60 giorni dopo la data di adozione.
+
+[^14-1]: Nuovo testo giusta l’art. 1 D 1. della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^14-2]: Aggiornato dall’art. 1 D 2. della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^14-3]: Aggiornato dall’art. 1 D 3. della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^14-4]: Introdotto dall’art. 1 D 4. della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^14-5]: Introdotto dall’art. 1 D 4. della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 15
 
@@ -361,6 +382,10 @@ Se la proposta è volta a modificare l’annesso I, II o III nel senso di aggiun
 <sup>1.</sup> Il presente Protocollo è sottoposto alla ratifica, accettazione o approvazione dei firmatari.
 
 <sup>2.</sup> Il presente Protocollo è aperto all’adesione degli Stati e delle organizzazioni che soddisfano i requisiti enunciati al paragrafo 1 dell’articolo 15, a decorrere dal 21 dicembre 1998.
+
+<sup>3.</sup> Uno Stato o un’organizzazione regionale d’integrazione economica dichiara, nel rispettivo strumento di ratifica, di accettazione, di approvazione o di adesione, se non intende essere vincolato dalle procedure di cui all’articolo 14, paragrafo 5<sup>ter</sup>, per quanto riguarda gli emendamenti degli allegati da I a IV, VI e VIII.[^16-1]
+
+[^16-1]: Introdotto dall’art. 1 E della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 17
 
@@ -390,9 +415,11 @@ L’originale del presente Protocollo, i cui testi in lingua francese, inglese e
 
 *In fede di che,* i sottoscritti a tal fine debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Aarhus (Danimarca), il 24 giugno 1998. (Seguono le firme)
 
-Annesso I
+Annesso I*[^t-2]*
 
 ## Materie da eliminare
+
+[^t-2]: Aggiornato all’art. 1 F della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 Salvo diversa indicazione nel presente Protocollo, il presente annesso non si applica alle materie di seguito enumerate:
 
@@ -404,26 +431,32 @@ Salvo diversa indicazione nel presente Protocollo, il presente annesso non si ap
 <tr><th>Materia</th><th colspan="2">Regime di applicazione</th></tr>
 <tr><th></th><th>Porre fine alla</th><th>Condizioni</th></tr>
 <tr><td>Aldrine CAS: 309-00-2</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Bifenili policlorurati (PCB) <sup>d</sup></td><td>Produzione Uso</td><td>Nessuna Nessuna. Per quanto riguarda i PCB in uso entro la data di attuazione, ciascuna Parte deve: 1. impegnarsi con più forza per: a) l’eliminazione dell’uso dei PCB individuabili nelle apparecchiature (ad es. trasformatori, condensatori o altri recipienti contenenti liquidi residui) che contengono volumi di PCB superiori a 5 dm³ e in concentrazione uguale o superiore allo 0,05 %, quanto prima ma non oltre il 31 dicembre 2010 (o il 31 dicembre 2015 per i Paesi con economie in transizione); b) la distruzione o la decontaminazione attraverso metodi che non comportano rischi per l’ambiente di tutti i PCB liquidi di cui alla lettera a) e degli altri PCB liquidi non contenenti più dello 0,005 % in peso di PCB e non in apparecchiature, quanto prima ma non oltre il 31 dicembre 2015 (o il 31 dicembre 2020 per i Paesi con economie in transizione); – tutti i PCB liquidi di cui al punto 2, lettera a), entro il 31 dicembre 2029; c) la decontaminazione o lo smaltimento delle apparecchiature di cui ai punti 1, lettera a) e 2, lettera a), attraverso metodi che non comportano rischi per l’ambiente. 2. adoperarsi per, a) individuare e rimuovere dalla circolazione apparecchiature (ad es. trasformatori, condensatori o altri recipienti contenenti liquidi) contenenti più dello 0,005 % di PCB e volumi superiori a 0,05 dm³, nel più breve tempo possibile e comunque non oltre il 31 dicembre 2025; b) individuare altri articoli contenenti più dello 0,005 % di PCB (ad es. guaine per cavi, materiali di calafataggio e oggetti verniciati) e gestirli conformemente al paragrafo 3 dell’articolo 3. 3. assicurare che le apparecchiature di cui ai punti 1, lettera a), e 2, lettera a), non siano esportate o importate per fini diversi da quello di una gestione dei rifiuti senza rischi per l’ambiente. 4. Promuovere le seguenti iniziative per controllare l’uso dei PCB e ridurre le esposizioni e i rischi: a) limitare l’uso dei PCB alle apparecchiature intatte ed ermetiche e alle zone in cui è possibile ridurre al minimo il rischio di emissione nell’ambiente e porvi rapidamente rimedio; b) evitare l’uso di PCB in apparecchiature situate in zone destinate alla produzione o alla trasformazione di alimenti e mangimi. In caso di uso di PCB in zone popolate, compresi gli ospedali e le scuole, adottare tutte le misure ragionevoli per prevenire i guasti elettrici che possano provocare incendi, e compiere regolarmente ispezioni delle apparecchiature per individuare eventuali perdite.</td></tr>
 <tr><td>Clordane CAS: 57-74-9</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
 <tr><td>Clordecone CAS: 143-50-0</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
-<tr><td>DDT CAS: 50-29-3</td><td>produzione</td><td>1. Porre fine alla produzione di DDT nel termine di un anno dopo che un consenso generale si sia creato fra le Parti, per riconoscere che esistono mezzi di sostituzione soddisfacenti per assicurare la protezione della salute pubblica contro malattie come la malaria e l’encefalite. 2. Al fine di porre fine alla produzione di DDT il più presto possibile, le Parti determinano, non oltre un anno dopo la data di entrata in vigore del presente Protocollo e periodicamente in seguito, come necessario, ed in consultazione con l’Organizzazione mondiale della Sanità, l’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura ed il Programma delle Nazioni Unite per l’ambiente, se esistono mezzi di sostituzione e se è possibile applicarli, e se del caso favoriscono la commercializzazione dei prodotti di sostituzione più sicuri ed economicamente fattibili.</td></tr>
-<tr><td></td><td>utilizzazione</td><td>Nessuna, salvo quelle specificate all’annesso II.</td></tr>
+<tr><td>DDT CAS: 50-29-3</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
 <tr><td>Dieldrine CAS: 60-57-1</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
 <tr><td>Endrine CAS: 72-20-8</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
-<tr><td>Heptaclore CAS: 76-44-8</td><td>produzione utilizzazione</td><td>Nessuna Nessuna, salvo ai fini dell’utilizzazione da parte di personale abilitato per la lotta contro le formiche Solenopsis in bombole di derivazione industriale. Tale utilizzazione sarà oggetto di una rivalutazione nel quadro del presente Protocollo non oltre due anni dopo la data di entrata in vigore di questo strumento.</td></tr>
 <tr><td>Esabromobifenile CAS: 36355-01-8</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
-<tr><td>Esaclorobenzene CAS: 118-74-1</td><td>produzione</td><td>Nessuna, salvo per la produzione ai fini di un uso limitato specificato in una dichiarazione depositata da un Paese in transizione a livello economico all’atto della firma o dell’adesione.</td></tr>
-<tr><td></td><td>utilizzazione</td><td>Nessuna, salvo per un uso limitato specificato in una dichiarazione depositata da un Paese in transizione a livello economico all’atto della firma o dell’adesione.</td></tr>
+<tr><td>Esabromodifeniletere <sup>a</sup> e Eptabromodifeniletere <sup>b</sup></td><td>Produzione Uso</td><td>Nessuna 1. Una Parte può consentire il riciclaggio di articoli che contengono o possono contenere una di tali sostanze, e l’utilizzo e lo smaltimento finale degli articoli fabbricati a partire da materiali riciclati che contengono o possono contenere una di tali sostanze, a condizione che il riciclaggio e lo smaltimento finale sia effettuato senza rischi per l’ambiente e non comporti il recupero di una di tali sostanze ai fini del loro riutilizzo. 2. Ogni quattro anni a decorrere dal 2013 e successivamente fino a quando la condizione di cui sopra viene rimossa o espiri, l’organo esecutivo valuta i progressi che le Parti hanno compiuto per conseguire il loro obiettivo ultimo di eliminare tali sostanze contenute in articoli e riesamina la necessità di mantenere la condizione, che, in ogni caso, scade al più tardi nel 2030.</td></tr>
+<tr><td>Esaclorobenzene CAS: 118-74-1</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Esaclorobutadiene CAS: 87-68-3</td><td>Produzione Uso</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Esaclorocicloesani (HCH) CAS: 608-73-1, tra cui lindano CAS: 58-89-9</td><td>Produzione Uso</td><td>Nessuna Nessuna condizione, eccetto per l’isomero gamma dell’HCH (lindano), utilizzato come insetticida topico a fini di sanità pubblica. Questi usi sono oggetto di una nuova valutazione a norma del presente protocollo nel 2012, oppure un anno dopo l’entrata in vigore dell’emendamento se quest’ultima data è posteriore.</td></tr>
+<tr><td>Heptaclore CAS: 76-44-8</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
 <tr><td>Mirex CAS: 2385-85-5</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
-<tr><td>PCB<sup>a</sup></td><td>produzione</td><td>Nessuna, salvo per i Paesi in transizione a livello economico che debbono porre fine alla produzione il più presto possibile e non oltre il 31 dicembre 2005, e che avranno fatto sapere il loro intento di agire in questo senso in una dichiarazione depositata con il loro strumento di ratifica, di accettazione, di approvazione o di adesione.</td></tr>
-<tr><td></td><td>utilizzazione</td><td>Nessuna, salvo quelle specificate all’annesso II.</td></tr>
+<tr><td>Pentaclorobenzene CAS: 608-93-5</td><td>Produzione Uso</td><td>Nessuna Nessuna</td></tr>
+<tr><td>Perfluorottano sulfonato (PFOS) <sup>C</sup></td><td>Produzione</td><td>Nessuna, salvo per la produzione per gli impieghi da a) a c) sottoindicati, e da a) a e) nell’allegato II.</td></tr>
+<tr><td></td><td>Uso</td><td>Nessuna, tranne per i seguenti usi e gli usi da a) a e) nell’allegato II: a) elettroplaccatura al cromo, anodizzazione al cromo e attacco anodico, fino al 2014; b) nichelatura chimica con nichel-politetrafluoretilene, fino al 2014; c) incisione di substrati di plastica prima della loro metallizzazione, fino al 2014; d) schiume antincendio, ma solo se fabbricate o in uso prima del 18 dicembre 2009. [tab] Per quanto riguarda le schiume antincendio: i) le Parti si adoperano per eliminare entro il 2014 le schiume antincendio contenenti PFOS fabbricate o in uso prima del 18 dicembre 2009 e riferiscono sui loro progressi in merito all’organo esecutivo nel 2014; ii) sulla base di quanto riferito dalle Parti e del punto i), nel 2015 l’organo esecutivo valuta se l’uso di schiume antincendio contenenti PFOS fabbricate o in uso prima del 18 dicembre 2009 dovrà essere assoggettato a restrizioni supplementari.</td></tr>
+<tr><td>Tetrabromodifeniletere<sup>b</sup> e Pentabromodifenilet-ere <sup>b</sup></td><td>Produzione Uso</td><td>Nessuna 1. Una Parte può consentire il riciclaggio di articoli che contengono o possono contenere una di tali sostanze, e l’utilizzo e lo smaltimento finale degli articoli fabbricati a partire da materiali riciclati che contengono o possono contenere una di tali sostanze, a condizione che il riciclaggio e lo smaltimento finale sia effettuato senza rischi per l’ambiente e non comporti il recupero di una di tali sostanze ai fini del loro riutilizzo. 2. Ogni quattro anni a decorrere dal 2013 e successivamente fino a quando la condizione di cui sopra viene rimossa o espiri, l’organo esecutivo valuta i progressi che le Parti hanno compiuto per conseguire il loro obiettivo ultimo di eliminare tali sostanze contenute in articoli e riesamina la necessità di mantenere la condizione, che, in ogni caso, scade al più tardi nel 2030.</td></tr>
 <tr><td>Toxaphene CAS: 8001-35-2</td><td>produzione utilizzazione</td><td>Nessuna Nessuna</td></tr>
-<tr><td colspan="3"><sup>a</sup> Le Parti convengono di rivalutare nel quadro del Protocollo, prima del 31 dic. 2004, la produzione e l’uso di policloroterfenili e di «ugilec».</td></tr>
+<tr><td colspan="3"><sup>a</sup> Per «esabromodifeniletere e eptabromodifeniletere» si intende 2,2’,4,4’,5,5’- esabromodifeniletere (BDE-153, n. CAS: 68631-49-2), 2,2’,4,4’,5,6’- esabromodifeniletere (BDE-154, n. CAS: 207122-15-4), 2,2’,3,3’,4,5’,6 eptabromodifeniletere (BDE-175, n. CAS: 446255-22-7), 2,2’,3,4,4’,5’,6- eptabromodifeniletere (BDE-183, n. CAS: 207122-16-5) ed altri esa- ed eptabromodifenileteri presenti nelle forme commerciali di ottabromodifeniletere. <sup>b</sup> Per «tetrabromodifeniletere e pentabromodifeniletere» si intende 2,2’,4,4’-tetrabromodifeniletere (BDE-47, n. CAS: 40088-47-9) e 2,2’,4,4’,5-pentabromodifeniletere (BDE-99, n. CAS: 32534-81-9) ed altri tetra- e pentabromodifenileteri presenti nelle forme commerciali di pentabromodifeniletere. <sup>с</sup> Per «perfluorottano sulfonato (PFOS)» si intendono le sostanze definite dalla formula molecolare C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, dove X = OH, sale metallico, alogenuro, ammide o altri derivati compresi i polimeri. <sup>d</sup> Per «bifenili policlorurati» si intendono i composti aromatici strutturati in modo tale che gli atomi di idrogeno della molecola di bifenile (due anelli benzenici legati da un unico legame carbonio-carbonio) possono essere sostituiti da un numero di atomi di cloro da uno a dieci.</td></tr>
 </table>
 
-Annesso II
+Annesso II*[^t-3]*
 
 ## Materie la cui utilizzazione deve essere limitata
+
+[^t-3]: Aggiornato all’art. 1 G della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 Salvo indicazione contraria nel presente Protocollo, il presente annesso non si applica alle sostanze enumerate qui sotto:
 
@@ -432,76 +465,90 @@ Salvo indicazione contraria nel presente Protocollo, il presente annesso non si 
 - iii) quando sono utilizzate localmente come prodotti chimici intermedi per la lavorazione di una o più materie diverse e sono quindi chimicamente trasformate. Salvo diversa indicazione, ciascuno degli obblighi di seguito ha effetto alla data di entrata in vigore del Protocollo.
 
 <table>
-<tr><th>Materia</th><th colspan="2">Regime di applicazione</th></tr>
-<tr><th></th><th>Utilizzazioni consentite</th><th>Condizioni</th></tr>
-<tr><td>DDT CAS: 50–29–3</td><td>1. Per la protezione della sanità pubblica contro malattie come la malaria e l’encefalite.</td><td>1. Utilizzazione autorizzata soltanto nell’ambito di una strategia di lotta integrata contro gli insetti nocivi e soltanto nella quantità necessaria e durante un periodo di 12 mesi a contare dalla data della fine di produzione conformemente all’annesso I.</td></tr>
-<tr><td></td><td>2. Come prodotto chimico intermedio per la produzione di Dicofol.</td><td>2. Tale utilizzazione sarà oggetto di una rivalutazione entro il termine di due anni dalla data di entrata in vigore del presente Protocollo.</td></tr>
-<tr><td>HCH CAS: 608–73–1</td><td>Lo HCH tecnico (ossia lo HCH composto di una miscela di isomeri) non può essere utilizzato come prodotto intermedio nell’industria chimica.</td><td></td></tr>
-<tr><td></td><td>I prodotti nei quali l’isomero gamma dello HCH rappresenta almeno il 99 % (ossia il lindano, CAS: 58-89-9) possono essere utilizzati soltanto per i seguenti scopi:</td><td>Tutte le utilizzazioni regolamentari del lindano saranno oggetto di una rivalutazione al più tardi entro il termine di due anni dalla data di entrata in vigore del presente Protocollo.</td></tr>
-<tr><td></td><td>1. Trattamento delle sementi.</td><td></td></tr>
-<tr><td></td><td>2. Applicazioni sul suolo seguite immediatamente da un’incorporazione nello strato arabile.</td><td></td></tr>
-<tr><td></td><td>3. Trattamento di cura da parte di professionisti e trattamento industriale di legname segato, da opera e tondo.</td><td></td></tr>
-<tr><td></td><td>4. Insetticida topico utilizzato a scopi di sanità pubblica e veterinari.</td><td></td></tr>
-<tr><td></td><td>5. Applicazione su plantule di semenzaio per il tramite di mezzi diversi da quelli aerei, utilizzazione in piccola scala su aree a prato rasato, nonché per il materiale di riproduzione nei vivai e per la piante ornamentali all’interno e all’esterno degli edifici.</td><td></td></tr>
-<tr><td></td><td>6. Applicazioni interne nell’industria e nelle abitazioni.</td><td></td></tr>
-<tr><td>PCB <sup>a</sup></td><td>PCB utilizzati alla data di entrata in vigore o prodotti sino al 31 dicembre 2005 conformemente alle disposizioni dell’annesso I.</td><td>Le Parti intraprenderanno sforzi risoluti per: a) Porre fine al più presto, ma al più tardi il 31 dicembre 2010 oppure il 31 dicembre 2015 per i Paesi in transizione dal profilo economico, all’utilizzazione dei PCB identificabili negli apparecchi (trasformatori, condensatori o recipienti analoghi contenenti stock di liquidi residui) che contengono un volume superiore a 5 dm<sup>3</sup> di liquido il cui tenore in PCB è uguale o superiore allo 0,05 %;</td></tr>
-<tr><td>[tab]</td><td>[tab]</td><td>b) Per distruggere o decontaminare in modo ecologicamente razionale al più presto, ma al più tardi il 31 dicembre 2010 oppure il 31 dicembre 2015 per i Paesi in transizione dal profilo economico, tutti i PCB liquidi di cui al paragrafo a) e gli altri PCB liquidi, non contenuti negli apparecchi, il cui tenore è superiore allo 0,005 %; e</td></tr>
-<tr><td>[tab]</td><td>[tab]</td><td>c) Per decontaminare o eliminare in modo ecologicamente razionale gli apparecchi di cui al paragrafo a).</td></tr>
-<tr><td colspan="3"><sup>a</sup> Le Parti convengono di rivalutare nell’ambito del Protocollo e prima del 31 dic. 2004 la produzione e l’utilizzazione di policloroterfenili e di «ugilec».</td></tr>
+<tr><td>Sostanza</td><td>Dispositivi di attuazione</td><td></td></tr>
+<tr><td></td><td>Usi limitati</td><td>Condizioni</td></tr>
+<tr><td>Perfluorottano sulfonato (PFOS) <sup>a</sup></td><td>a) Rivestimenti fotoresistenti o antiriflesso utilizzati per processi fotolitografici; b) rivestimenti fotografici applicati su pellicole, carta o lastre di stampa; c) trattamenti antiappannanti per cromatura dura (VI) a carattere non decorativo ed agenti imbibenti utilizzati in sistemi controllati di elettroplaccatura; d) fluidi idraulici per l’aviazione; e) determinati dispositivi medici (ad esempio produzione di copolimero di etilene-tetrafluoretilene (ETFE) a strati e radio-opaco, dispositivi medico-diagnostici in vitro, filtri colorati CCD).</td><td>Le Parti si adoperano per eliminare questi usi non appena siano disponibili alternative adeguate. Entro il 2015, e in seguito almeno ogni quattro anni, le Parti che fanno uso di queste sostanze forniscono una relazione sui progressi compiuti per eliminarle e informazioni sui progressi stessi all’organo esecutivo. Sulla base di queste relazioni, gli usi limitati di cui sopra vengono nuovamente sottoposti a valutazione.</td></tr>
+<tr><td colspan="3"><sup>a</sup> Per perfluorottano sulfonato (PFOS) si intendono le sostanze definite dalla formula molecolare C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, dove X = OH, sale metallico, alogenuro, ammide o altri derivati compresi i polimeri.</td></tr>
 </table>
 
-Annesso III
+Annesso III*[^t-4]*
 
 ## Materie di cui al capoverso a) del paragrafo 5 dell’articolo 3 e anno di riferimento per l’obbligo
 
+[^t-4]: Aggiornato all’art. 1 H della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+
 <table>
 <tr><td>Materia</td><td>Anno di riferimento</td></tr>
-<tr><td>HAP <sup>a</sup></td><td>1990, o ogni altro anno fra il 1985 ed il 1995 (compreso) specificato da una Parte al momento della ratifica, accettazione, approvazione o adesione</td></tr>
-<tr><td>Diossine/furanni <sup>b</sup></td><td>1990, o ogni altro anno fra il 1985 ed il 1995 (compreso) specificato da una Parte al momento della ratifica, accettazione, approvazione o adesione</td></tr>
-<tr><td>Esaclorobenzene</td><td>1990, o ogni altro anno fra il 1985 ed il 1995 (compreso) specificato da una Parte al momento della ratifica, accettazione, approvazione o adesione</td></tr>
+<tr><td>HAP <sup>a</sup></td><td>1990; oppure un altro anno a scelta, dal 1985 al 1995 compreso; oppure, per i Paesi con economie in transizione, un altro anno, tra il 1985 e l’anno dell’entrata in vigore del protocollo per una Parte, e come specificato da tale Parte all’atto della ratifica, accettazione, approvazione o adesione</td></tr>
+<tr><td>Diossine/furanni <sup>b</sup></td><td>1990; oppure un altro anno a scelta, dal 1985 al 1995 compreso; oppure, per i Paesi con economie in transizione, un altro anno, tra il 1985 e l’anno dell’entrata in vigore del protocollo per una Parte, e come specificato da tale Parte all’atto della ratifica, accettazione, approvazione o adesione</td></tr>
+<tr><td>Esaclorobenzene CAS:118-74-1</td><td>1990; oppure un altro anno a scelta, dal 1985 al 1995 compreso; oppure, per i Paesi con economie in transizione, un altro anno, tra il 1985 e l’anno dell’entrata in vigore del protocollo per una Parte, e come specificato da tale Parte all’atto della ratifica, accettazione, approvazione o adesione</td></tr>
+<tr><td>PCB <sup>c</sup></td><td>2005; oppure un altro anno a scelta, dal 1995 al 2010 compreso; oppure, per i Paesi con economie in transizione, un altro anno a scelta, tra il 1995 e l’anno dell’entrata in vigore del protocollo per una Parte, e come specificato da tale Parte all’atto della ratifica, accettazione, approvazione o adesione.</td></tr>
 <tr><td colspan="2"><sup>a</sup> Idrocarburi aromatici policlici (HAP): ai fini degli inventari delle emissioni, si utilizzeranno i seguenti quattro prodotti indicatori: benzo(a)pirene, benzo(b)fluorantene, benzo(k)fluorantene e indeno(1,2,3-cd)pirene.</td></tr>
 <tr><td colspan="2"><sup>b</sup> Diossine e furanni (PCDD/PCDF): le policlorodibenzo-p-diossine (PCDD) ed i policlorodibenzo-p-furanni (PCDF) sono composti aromatici triciclici composti da due anelli benzenici collegati da due atomi di ossigeno per i PCDD, e da un atomo di ossigeno per i PCDF, i cui atomi di ossigeno possono essere sostituiti da un numero di atomi di cloro da uno ad otto.</td></tr>
+<tr><td colspan="2"><sup>c</sup> Bifenili policlorurati (PCB), quali definiti nell’allegato I, se prodotti ed emessi non intenzionalmente da fonti antropiche.</td></tr>
 </table>
 
-Annesso IV
+Annesso IV*[^t-5]*
 
 ## Valori limite per i PCDD/PCDF provenienti da grandi fonti fisse
+
+[^t-5]: Aggiornato all’art. 1 I della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 ### I. Introduzione
 
 \1. Una definizione delle diossine e dei furanni (PCDD/PCDF) è fornita all’annesso III del presente Protocollo.
 
-\2. I valori espressi in ng/m<sup>3</sup> o mg/m<sup>3</sup> di riferiscono alle condizioni normali (273,15 K, 101,3 kPa e gas secchi).
+\2. I valori espressi in ng/m<sup>3</sup> o mg/m<sup>3</sup> di riferiscono alle condizioni normali (273,15 K, 101,3 kPa gas secchi, e per un determinato tenore di ossigeno).
 
-\3. I valori limite corrispondono al funzionamento in servizio normale, ciò che include le operazioni di avviamento e di arresto, salvo se particolari valori limite sono stati definiti per queste situazioni.
+\3. I valori limite si riferiscono alle normali condizioni di funzionamento. Per le operazioni a processo discontinuo, i valori limite si riferiscono a livelli medi registrati nel corso dell’intero processo discontinuo – tra cui, ad esempio, il preriscaldamento, riscaldamento e raffreddamento.
 
-\4. Il prelievo e l’analisi di campioni di tutti gli inquinanti devono essere effettuati secondo le norme fissate dal Comitato europeo di normalizzazione (CEN) o dall’Organizzazione internazionale di normalizzazione (ISO), o in conformità ai metodi di riferimento corrispondenti del Canada o degli Stati Uniti. Nell’attesa che siano messe a punto le norme CEN o ISO, occorre applicare le norme nazionali.
+\4. Il prelievo e l’analisi di campioni di tutti gli inquinanti devono essere effettuati secondo le norme applicabili fissate, ad esempio, dal Comitato europeo di normalizzazione (CEN) o dall’Organizzazione internazionale di normalizzazione (ISO), o in conformità ai metodi di riferimento corrispondenti del Canada o degli Stati Uniti. Nell’attesa che siano messe a punto le norme CEN o ISO, occorre applicare le norme nazionali.
 
 \5. Ai fini della verifica, l’interpretazione dei risultati delle misure rispetto al valore limite deve tenere conto anche dell’imprecisione del metodo di misurazione. Si considera che un valore limite è rispettato se il risultato della misurazione, dopo aver rettificato l’imprecisione del metodo applicato, non supera questo valore.
 
-\6. Le emissioni dei vari congeneri di PCDD/PCDF sono indicate in equivalente di tossicità (ET) mediante paragone con la tetracloro-2,3,7,8 dibenzoparadiossina (2,3,7,8-TCDD), secondo il sistema proposto dal Comitato della NATO sulle sfide della società moderna (CDSM) nel 1988.
+\6. Le emissioni di PCDD/F sono indicate in equivalenti tossici totali (TEQ)[^annexIV-lvlu1-lvlI-1]. I valori del fattore di equivalenza tossica da utilizzare ai fini del presente protocollo sono conformi alle norme internazionali applicabili, a cominciare dai fattori tossici equivalenti per PCDD/F per i mammiferi, adottati nel 2005 dall’Organizzazione mondiale della sanità.
+
+[^annexIV-lvlu1-lvlI-1]: L’equivalente di tossicità (EQT) è definito sotto il profilo operativo dalla somma dei prodotti della concentrazione di ogni composto moltiplicata per il valore del suo fattore di tossicità equivalente ed è una stima dell’attività totale della miscela assimilabile a quella della 2,3,7,8-TCDD. L’equivalente di tossicità era in precedenza designato dall’abbreviazione ET.
 
 ### II. Valori limite per le grandi fonti fisse
 
-\7. I seguenti valori limite che corrispondono ad una concentrazione di O<sub>2</sub> dell’11 per cento nei gas di combustione si applicano ai seguenti impianti di incenerimento:
+\7. I valori limite seguenti, che si riferiscono a una concentrazione dell’11 % di O<sub>2</sub> nei gas di scarico, si applicano ai seguenti tipi di inceneritore:
 
-Rifiuti urbani solidi (incenerimento di oltre 3 t/h)
+- rifiuti solidi urbani (fonte fissa esistente nella quale viene effettuata la combustione di più di 3 t/ora, nonché ogni fonte fissa nuova)
+  - [tab] 0,1 ngTEQ/m<sup>3</sup>
 
-0,1 ng ET/m<sup>3</sup>
+- rifiuti solidi sanitari (fonte fissa esistente nella quale viene effettuata la combustione di più di 1 t/ora, nonché ogni fonte fissa nuova)
+  - fonte fissa nuova: 0,1 ngTEQ/m<sup>3</sup>
+  - fonte fissa esistente: 0,5 ng TEQ/m<sup>3</sup>
 
-Rifiuti d’ospedale solidi (incenerimento di oltre 1 t/h)
+- rifiuti pericolosi (fonte fissa esistente nella quale viene effettuata la combustione di più di 1 t/ora, nonché ogni fonte fissa nuova)
+  - fonte fissa nuova: 0,1 ng TEQ/m<sup>3</sup>
+  - fonte fissa esistente: 0,2 ng TEQ/m<sup>3</sup>
 
-0,5 ng ET/m<sup>3</sup>
+- rifiuti industriali non pericolosi[^annexIV-lvlu1-lvlII-1]<sup>,</sup> [^annexIV-lvlu1-lvlII-2]
+  - fonte fissa nuova: 0,1 ngTEQ/m<sup>3</sup>
+  - fonte fissa esistente: 0,5 ng TEQ/m<sup>3</sup>
 
-Rifiuti pericolosi (incenerimento di oltre 1 t/h)
+\8. Il valore limite seguente, che si riferisce a una concentrazione del 16 % di O<sub>2</sub> nei gas di scarico, si applica ai seguenti tipi di impianti di agglomerazione:
 
-0,2 ng ET/m<sup>3</sup>
+- 0,5 ng TEQ/m<sup>3</sup>
 
-Annesso V*[^t-3]*
+\9. Il valore limite seguente, che si riferisce alla concentrazione effettiva di O<sub>2</sub> nei gas di scarico, si applica ai seguenti tipi di fonti:
+
+-
+
+  produzione secondaria di acciaio – forno ad arco elettrico con una capacità di produzione superiore a 2,5 t/ora di acciaio fuso per ulteriori lavorazioni:
+
+  - [tab] 0,5 ng TEQ/m<sup>3</sup>
+
+[^annexIV-lvlu1-lvlII-1]: Incluso gli inceneritori per il trattamento dei rifiuti da biomassa (che possono contenere composti organici alogenati o metalli pesanti a seguito di un trattamento protettivo o di rivestimento del legno e che comprendono in particolare i rifiuti di biomassa derivanti dall’attività di costruzione e demolizione), ma esclusi gli inceneritori che trattano solo altri rifiuti di biomassa.
+[^annexIV-lvlu1-lvlII-2]: I paesi con economie in transizione possono escludere la co-combustione di rifiuti industriali non pericolosi nei processi industriali in cui tali rifiuti sono utilizzati come combustibile aggiuntivo che contribuisce fino al 10 % dell’energia.
+
+Annesso V*[^t-6]*
 
 ## Migliori tecnologie disponibili per lottare contro le emissioni di inquinanti organici persistenti provenienti da grandi fonti fisse
 
-[^t-3]: Aggiornato dalla Dec. 2009/3 del 18 dic. 2009, in vigore dal 13 dic. 2010, fatto salvo il Canada e la Repubblica ceca ([RU 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Questi due stati continuano ad applicare la versione originaria ([RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
+[^t-6]: Aggiornato dalla Dec. 2009/3 del 18 dic. 2009, in vigore dal 13 dic. 2010, fatto salvo il Canada e la Repubblica ceca ([RU 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Questi due stati continuano ad applicare la versione originaria ([RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
 
 ### I. Introduzione
 
@@ -566,32 +613,51 @@ Il concetto di migliore tecnologia disponibile non intende stabilire una partico
 - b) le fonti termiche delle industrie metallurgiche;
 - c) la combustione di combustibili clorati nei forni.
 
-Annesso VI
+Annesso VI*[^t-7]*
 
 ## Termini per l’applicazione dei valori limite e delle migliori tecnologie disponibili per le nuove fonti fisse e le fonti fisse esistenti
 
-I termini per l’applicazione dei valori limite e delle migliori tecnologie disponibili sono i seguenti:
+[^t-7]: Aggiornato all’art. 1 J della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
-- a) per le nuove fonti fisse: due anni dopo la data di entrata in vigore del presente Protocollo;
-- b) per le fonti fisse esistenti: otto anni dopo la data di entrata in vigore del presente Protocollo. Se del caso, questo termine potrà essere prorogato per particolari fonti fisse esistenti, in conformità al termine di ammortamento previsto al riguardo dalla legislazione nazionale.
+\1. I termini per l’applicazione dei valori limite e delle migliori tecnologie disponibili sono i seguenti:
 
-Annesso VII*[^t-4]*
+- a) per le nuove fonti fisse: due anni dopo la data di entrata in vigore del presente Protocollo per una Parte;
+- b)
 
-[^t-4]: Abrogato dalla Dec. 2009/3 del 18 dic. 2009, con effetto dal 13 dic. 2010, fatto salvo il Canada e la Repubblica ceca ([RU 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Questi due stati continuano ad applicare la versione originaria ([RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
+  per le fonti fisse esistenti:
 
-Annesso VIII
+  - i) otto anni a decorrere dalla data di entrata in vigore degli emendamenti rilevanti per una Parte; se necessario tale periodo può essere esteso per fonti fisse esistenti specifiche conformemente al periodo di ammortamento previsto dalla normativa nazionale, oppure
+  - ii) fino a quindici anni a decorrere dalla data di entrata in vigore del presente protocollo per una Parte, se questa è un Paese con un’economia in transizione.
+
+\2. Le scadenze per l’applicazione dei valori limite e delle migliori tecniche disponibili che sono stati aggiornati o introdotti a seguito dell’emendamento del presente protocollo sono le seguenti:
+
+- a) per fonti fisse nuove, due anni a decorrere dalla data di entrata in vigore degli emendamenti rilevanti per la Parte interessata;
+- b)
+
+  per le fonti fisse esistenti:
+
+  - i) otto anni a decorrere dalla data di entrata in vigore degli emendamenti rilevanti per una Parte, oppure
+  - ii) fino a quindici anni a decorrere dalla data di entrata in vigore dell’emendamento rilevante per una Parte, se questa è un Paese con un’economia in transizione.
+
+Annesso VII*[^t-8]*
+
+[^t-8]: Abrogato dalla Dec. 2009/3 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, con effetto dal 13 dic. 2010, fatto salvo il Canada e la Repubblica ceca ([RU 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Questi due stati continuano ad applicare la versione originaria ([RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
+
+Annesso VIII*[^t-9]*
 
 ## Categorie di grandi fonti fisse
 
+[^t-9]: Aggiornato all’art. 1 K della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+
 ### I. Introduzione
 
-La presente lista non comprende gli impianti o parti d’impianti utilizzati per attività di ricerca-sviluppo o per il collaudo di nuovi prodotti. Una descrizione più particolareggiata delle categorie è fornita all’Annesso V.
+La presente lista non comprende gli impianti o parti d’impianti utilizzati per attività di ricerca-sviluppo o per il collaudo di nuovi prodotti. Una descrizione più particolareggiata delle categorie è fornita ai documenti di orientamento di cui all’Annesso V.
 
 ### II. Lista delle categorie
 
 <table>
 <tr><td>Categoria</td><td>Descrizione della categoria</td></tr>
-<tr><td>1</td><td>Incenerimento ivi compreso il co-incenerimento, dei rifiuti urbani, pericolosi o d’ospedale o dei fanghi di depurazione.</td></tr>
+<tr><td>1</td><td>Incenerimento di rifiuti (compreso il coincenerimento): rifiuti urbani, pericolosi, non pericolosi e sanitari, e fanghi di depurazione.</td></tr>
 <tr><td>2</td><td>Officine di agglomeramento.</td></tr>
 <tr><td>3</td><td>Produzione di rame di prima e seconda fusione.</td></tr>
 <tr><td>4</td><td>Produzione d’acciaio.</td></tr>
@@ -603,9 +669,11 @@ La presente lista non comprende gli impianti o parti d’impianti utilizzati per
 <tr><td>10</td><td>Produzione di anodi.</td></tr>
 <tr><td>11</td><td>Produzione di alluminio secondo il procedimento Soederberg.</td></tr>
 <tr><td>12</td><td>Impianti di preservazione del legno, salvo per le Parti in cui la suddetta categoria di fonti non contribuisce in modo sostanziale al volume totale delle emissioni di HAP (come definiti all’annesso III).</td></tr>
+<tr><td>13</td><td>Processi specifici di produzione di sostanze chimiche con formazione ed emissione non intenzionale di inquinanti organici persistenti, e in particolare la produzione di clorofenoli e cloranile.</td></tr>
+<tr><td>14</td><td>Processi termici nell’industria metallurgica, metodi a base di cloro.</td></tr>
 </table>
 
-Campo d’applicazione il 25 febbraio 2015**[^t-5]**
+Campo d’applicazione il 20 gennaio 2022**[^t-10]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -627,7 +695,7 @@ Campo d’applicazione il 25 febbraio 2015**[^t-5]**
 <tr><td>Liechtenstein<sup>\*</sup></td><td>23 dicembre</td><td>2003</td><td>22 marzo</td><td>2004</td></tr>
 <tr><td>Lituania</td><td>16 giugno</td><td>2006</td><td>14 settembre</td><td>2006</td></tr>
 <tr><td>Lussemburgo<sup>\*</sup></td><td>1° maggio</td><td>2000</td><td>23 ottobre</td><td>2003</td></tr>
-<tr><td>Macedonia</td><td>1° novembre</td><td>2010 A</td><td>30 gennaio</td><td>2011</td></tr>
+<tr><td>Macedonia del Nord</td><td>1° novembre</td><td>2010 A</td><td>30 gennaio</td><td>2011</td></tr>
 <tr><td>Moldova</td><td>1° ottobre</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
 <tr><td>Montenegro</td><td>9 febbraio</td><td>2012 A</td><td>9 maggio</td><td>2012</td></tr>
 <tr><td>Norvegia<sup>\*</sup></td><td>16 dicembre</td><td>1999</td><td>23 ottobre</td><td>2003</td></tr>
@@ -638,12 +706,19 @@ Campo d’applicazione il 25 febbraio 2015**[^t-5]**
 <tr><td>Slovacchia<sup>\*</sup></td><td>30 dicembre</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
 <tr><td>Slovenia</td><td>15 novembre</td><td>2005</td><td>13 febbraio</td><td>2006</td></tr>
 <tr><td>Spagna<sup>\*</sup></td><td>15 febbraio</td><td>2011</td><td>16 maggio</td><td>2011</td></tr>
-<tr><td>Svezia</td><td>19 gennaio</td><td>2000</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Svezia\*</td><td>19 gennaio</td><td>2000</td><td>23 ottobre</td><td>2003</td></tr>
 <tr><td>Svizzera</td><td>14 novembre</td><td>2000</td><td>23 ottobre</td><td>2003</td></tr>
 <tr><td>Ungheria</td><td>7 gennaio</td><td>2004</td><td>6 aprile</td><td>2004</td></tr>
 <tr><td>Unione europea</td><td>30 aprile</td><td>2004</td><td>29 luglio</td><td>2004</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultare sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Per il regno in Europa.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-5]: [RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664), [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575), [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586), [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307)e [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-10]: [RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664); [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575); [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586); [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307); [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135); [2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma «Fedlex» all'indiritto seguente: www.fedlex.admin.ch/it/treaty
+
+Dichiarazione
+
+Svizzera
+
+Nel depositare il suo strumento di accettazione, la Svizzera ha fatto la seguente dichiarazione:
+
+In virtù dell’articolo 16 paragrafo 3, la Svizzera approverà gli emendamenti futuri del Protocollo applicando come finora la procedura ordinaria di ratifica.

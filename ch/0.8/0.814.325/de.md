@@ -3,11 +3,11 @@ sr: "0.814.325"
 title: "Protokoll vom 24. Juni 1998 zu dem Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung, betreffend persistente organische Schadstoffe (mit Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/664"
 language: de
-version: 2015-02-25
+version: 2022-01-20
 adopted: 1998-06-24
 in_force: 2003-10-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20150225/de/xml/fedlex-data-admin-ch-eli-cc-2003-664-20150225-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20150225/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20220120/de/xml/fedlex-data-admin-ch-eli-cc-2003-664-20220120-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20220120/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20150225/de"
 
 AS **2003** 4425; BBl **2000** 3154
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Aarhus am 24. Juni 1998 Von der Bundesversammlung genehmigt am 19. September 2000[^t-2] Ratifikationsurkunde von der Schweiz hinterlegt am 14. November 2000 In Kraft getreten für die Schweiz am 23. Oktober 2003
+Abgeschlossen in Aarhus am 24. Juni 1998 Von der Bundesversammlung genehmigt am 19. September 2000[^t-1] Ratifikationsurkunde von der Schweiz hinterlegt am 14. November 2000 In Kraft getreten für die Schweiz am 23. Oktober 2003
 
-(Stand am 25. Februar 2015)
+(Stand am 20. Januar 2022)
 
-[^t-1]: Übersetzung des französischen Originaltexts.
-[^t-2]: [AS 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
+[^t-1]: [AS 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
 
 *Die Vertragsparteien,*
 
@@ -71,7 +70,7 @@ sind wie folgt übereingekommen:
 
 **Begriffsbestimmungen**
 
-Im Sinne dieses Protokolls
+Im Sinne dieses Protokolls:
 
 - 1\. bedeutet «Übereinkommen» das am 13. November 1979 in Genf geschlossene Übereinkommen über weiträumige grenzüberschreitende Luftverunreinigung;
 - 2\. bedeutet «EMEP» das Programm über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von luftverunreinigenden Stoffen in Europa;
@@ -79,25 +78,37 @@ Im Sinne dieses Protokolls
 - 4\. bedeutet «Kommission» die Wirtschaftskommission der Vereinten Nationen für Europa;
 - 5\. bedeutet «Vertragsparteien» die Vertragsparteien dieses Protokolls, soweit der Zusammenhang nichts anderes erfordert;
 - 6\. bedeutet «geografischer Anwendungsbereich des EMEP» das Gebiet, das in Artikel 1 Absatz 4 des am 28. September 1984[^1-1] in Genf angenommenen Protokolls zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung betreffend die langfristige Finanzierung des Programms über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von luftverunreinigenden Stoffen in Europa (EMEP) festgelegt ist;
-- 7\. bedeutet «persistente organische Schadstoffe» (POP – persistent organic pollutants) organische Stoffe, die
+- 7\.
+
+  bedeutet «persistente organische Schadstoffe» (POP – persistent organic pollutants) organische Stoffe, die:
+
   - i) toxische Merkmale besitzen,
   - ii) persistent sind,
   - iii) bioakkumulieren,
-  - iv) zu weiträumigem grenzüberschreitendem atmosphärischem Transport und Ablagerung neigen und
+  - iv) zu weiträumigem grenzüberschreitendem atmosphärischem Transport und Ablagerung neigen, und
   - v) wahrscheinlich signifikante nachteilige Wirkungen auf die menschliche Gesundheit oder die Umwelt nahe bei und entfernt von ihren Quellen ausüben;
 
-- 8\. bedeutet «Stoff» ein einzelner chemischer Stoff oder eine Reihe von chemischen Stoffen, die eine spezielle Gruppe bilden, da sie
-  - a) ähnliche Eigenschaften aufweisen und zusammen in die Umgebung emittiert werden oder
+- 8\.
+
+  bedeutet «Stoff» ein einzelner chemischer Stoff oder eine Reihe von chemischen Stoffen, die eine spezielle Gruppe bilden, da sie:
+
+  - a) ähnliche Eigenschaften aufweisen und zusammen in die Umgebung emittiert werden, oder
   - b) ein normalerweise als ein einzelner Artikel vermarktetes Gemisch bilden;
 
 - 9\. bedeutet «Emission» die Freisetzung eines Stoffes aus einer Punktquelle oder einer diffusen Quelle in die Atmosphäre;
 - 10\. bedeutet «ortsfeste Quelle» jedes feste Gebäude oder Bauwerk, jede feste Einrichtung, Anlage oder Ausrüstung, das bzw. die einen persistenten organischen Schadstoff direkt oder indirekt in die Atmosphäre freisetzt oder freisetzen kann;
 - 11\. bedeutet «Kategorie grösserer ortsfester Quellen» jede in Anhang VIII aufgeführte Kategorie ortsfester Quellen;
-- 12\. bedeutet «neue ortsfeste Quelle» jede ortsfeste Quelle, deren Bau oder wesentliche Modifikation nach Ablauf von zwei Jahren nach dem Inkrafttreten
-  - i) dieses Protokolls oder
-  - ii) einer Änderung von Anhang III oder VIII begonnen wurde, wobei die ortsfeste Quelle erst auf Grund dieser Änderung unter dieses Protokoll fällt. Es ist Angelegenheit der zuständigen nationalen Behörden, unter Berücksichtigung solcher Faktoren wie des Umweltnutzens einer Modifikation zu entscheiden, ob diese wesentlich ist.
+- 12\.
+
+  bedeutet ‹neue ortsfeste Quelle› jede ortsfeste Quelle, deren Bau oder wesentliche Modifikation begonnen wurde nach Ablauf von zwei Jahren nach dem Inkrafttreten für eine Vertragspartei:
+
+  - a) des vorliegenden Protokolls; oder
+  - b) einer Änderung des vorliegenden Protokolls, die für eine ortsfeste Quelle entweder neue Grenzwerte in Anhang IV Teil II einführt oder die Kategorie, unter die diese Quelle fällt, in Anhang VIII aufnimmt.
+
+- Es ist Angelegenheit der zuständigen nationalen Behörden, unter Berücksichtigung solcher Faktoren wie des Umweltnutzens einer Modifikation zu entscheiden, ob diese wesentlich ist.[^1-2]
 
 [^1-1]: [SR 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+[^1-2]: Fassung gemäss Art. 1 Bst. A des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 2
 
@@ -109,7 +120,9 @@ Ziel dieses Protokolls ist die Begrenzung, Verringerung oder völlige Verhinderu
 
 **Grundlegende Verpflichtungen**
 
-<sup>1.</sup> Jede Vertragspartei, sofern sie nicht gemäss Artikel 4 ausdrücklich ausgenommen ist, ergreift wirksame Massnahmen
+<sup>1.</sup>
+
+Jede Vertragspartei, sofern sie nicht gemäss Artikel 4 ausdrücklich ausgenommen ist, ergreift wirksame Massnahmen:
 
 - a) zur Einstellung der Herstellung und Verwendung der in Anhang I aufgeführten Stoffe gemäss den darin festgelegten Durchführungsbestimmungen,
 - b) i) um zu gewährleisten, dass eine Vernichtung oder Entsorgung der in Anhang I aufgeführten Stoffe auf umweltgerechte Weise unter Berücksichtigung einschlägiger subregionaler, regionaler und globaler Bestimmungen für die Behandlung gefährlicher Abfälle und ihre Entsorgung, insbesondere des Basler Übereinkommens über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung, erfolgt;
@@ -124,24 +137,27 @@ Ziel dieses Protokolls ist die Begrenzung, Verringerung oder völlige Verhinderu
 
 <sup>4.</sup> Für die Bestimmungen von Absatz 1 bis 3 werden die Begriffe Abfall, Entsorgung und umweltgerecht entsprechend ihrer Verwendung im Basler Übereinkommen über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung ausgelegt.
 
-<sup>5.</sup> Jede Vertragspartei
+<sup>5.</sup>
+
+Jede Vertragspartei:
 
 - a) verringert ihre jährlichen Gesamtemissionen aller der in Anhang III aufgeführten Stoffe vom Stand der Emissionen in einem gemäss diesem Anhang festgelegten Bezugsjahr durch wirksame Massnahmen, die ihren speziellen Gegebenheiten angemessen sind,
-- b)
+- b)[^3-1]
 
   wendet spätestens nach Ablauf der in Anhang VI angegebenen Fristen folgendes an:
 
-  - i) die besten verfügbaren Techniken unter Berücksichtigung von Anhang V für jede neue ortsfeste Quelle innerhalb einer Kategorie grösserer ortsfester Quellen, für die Anhang V beste verfügbare Techniken ausweist;
+  - i) die besten verfügbaren Techniken unter Berücksichtigung von Anhang V für jede neue ortsfeste Quelle innerhalb einer Kategorie grösserer ortsfester Quellen, für die in dem von den Vertragsparteien auf einer Tagung des Exekutivorgans verabschiedeten Leitfaden beste verfügbare Techniken ausgewiesen werden;
   - ii) Grenzwerte, die mindestens ebenso streng wie die in Anhang IV festgelegten sind, für jede neue ortsfeste Quelle innerhalb einer in jenem Anhang aufgeführten Kategorie unter Berücksichtigung von Anhang V. Als Alternative kann eine Vertragspartei andere Strategien zur Emissionsminderung anwenden, die zu äquivalenten Gesamtemissionen führen;
-  - iii) die unter Berücksichtigung von Anhang V besten verfügbaren Techniken für jede bestehende ortsfeste Quelle innerhalb einer Kategorie grösserer ortsfester Quellen, für die Anhang V beste verfügbare Techniken ausweist, sofern dies technisch und wirtschaftlich machbar ist. Als Alternative kann eine Vertragspartei andere Strategien zur Emissionsminderung anwenden, die zu äquivalenten Gesamtemissionsminderungen führen;
-  - iv) Grenzwerte, die mindestens ebenso streng wie die in Anhang IV festgelegten sind, für jede bestehende ortsfeste Quelle innerhalb einer in jenem Anhang aufgeführten Kategorie, sofern dies technisch und wirtschaftlich machbar ist, unter Berücksichtigung von Anhang V. Als Alternative kann eine Vertragspartei andere Strategien zur Emissionsminderung anwenden, die zu äquivalenten Gesamtemissionsminderungen führen;
-  - v) wirksame Massnahmen zur Begrenzung der Emissionen von beweglichen Quellen unter Beachtung von Anhang VII.
+  - iii) die unter Berücksichtigung von Anhang V besten verfügbaren Techniken für jede bestehende ortsfeste Quelle innerhalb einer Kategorie grösserer ortsfester Quellen, für die in dem von den Vertragsparteien auf einer Tagung des Exekutivorgans verabschiedeten Leitfaden beste verfügbare Techniken ausgewiesen werden, sofern dies technisch und wirtschaftlich machbar ist. Als Alternative kann eine Vertragspartei andere Strategien zur Emissionsminderung anwenden, die zu äquivalenten Gesamtemissionsminderungen führen;
+  - iv) Grenzwerte, die mindestens ebenso streng wie die in Anhang IV festgelegten sind, für jede bestehende ortsfeste Quelle innerhalb einer in jenem Anhang aufgeführten Kategorie, sofern dies technisch und wirtschaftlich machbar ist, unter Berücksichtigung von Anhang V. Als Alternative kann eine Vertragspartei andere Strategien zur Emissionsminderung anwenden, die zu äquivalenten Gesamtemissionsminderungen führen.
 
 <sup>6.</sup> Bei Kleinfeuerungsanlagen beziehen sich die in Absatz 5 Buchstabe b Ziffer i und iii festgelegten Verpflichtungen auf alle ortsfesten Quellen in der Kategorie zusammen.
 
 <sup>7.</sup> Kann eine Vertragspartei nach Anwendung von Absatz 5 Buchstabe b den Anforderungen von Absatz 5 Buchstabe a für einen in Anhang III angegebenen Stoff nicht entsprechen, wird sie für diesen Stoff von ihren Verpflichtungen in Absatz 5 Buchstabe a befreit.
 
 <sup>8.</sup> Jede Vertragspartei erstellt und unterhält Emissionsverzeichnisse für die in Anhang III aufgeführten Stoffe und sammelt verfügbare Informationen über die Produktion und den Verkauf der in Anhang I und II aufgeführten Stoffe, wobei für die Vertragsparteien im geografischen Anwendungsbereich des EMEP als Minimum die vom Lenkungsorgan des EMEP festgelegten Methoden und die räumliche und zeitliche Auflösung zur Anwendung kommen und für die Vertragsparteien ausserhalb des geografischen Anwendungsbereichs des EMEP als Richtschnur die im Arbeitsplan des Exekutivorgans entwickelten Methoden dienen. Sie legt diese Informationen entsprechend den in Artikel 9 enthaltenen Verpflichtungen zur Berichterstattung vor.
+
+[^3-1]: Bereinigt gemäss Art. 1 Bst. B des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 4
 
@@ -153,19 +169,28 @@ Ziel dieses Protokolls ist die Begrenzung, Verringerung oder völlige Verhinderu
 
 Vorausgesetzt, die Gewährung oder Anwendung der Ausnahmeregelung geschieht nicht in einer Weise, die den Zielen dieses Protokolls zuwiderliefen, kann eine Vertragspartei eine Ausnahme von Artikel 3 Absatz 1 Buchstabe a und c in Bezug auf einen bestimmten Stoff gewähren, und zwar nur zu folgenden Zwecken und unter folgenden Bedingungen:
 
-- a) für andere als in Absatz 1 angeführte Forschung, wenn
+- a)
+
+  für andere als in Absatz 1 angeführte Forschung, wenn:
+
   - i) davon ausgegangen werden kann, dass während der vorgeschlagenen Verwendung und anschliessenden Entsorgung keine signifikante Menge in die Umwelt gelangt;
   - ii) die Ziele und Parameter der Forschung der Beurteilung und Genehmigung durch die Vertragspartei unterliegen; und
   - iii) bei einer signifikanten Freisetzung eines Stoffes in die Umgebung die Ausnahmeregelung sofort endet, gegebenenfalls Massnahmen zur Minderung der Freisetzung ergriffen werden und vor der Wiederaufnahme der Forschung eine Beurteilung der Massnahmen zur Einschliessung durchgeführt wird;
 
-- b) zur eventuell notwendigen Bewältigung eines Notfalls, der die Gesundheit der Bevölkerung bedroht, wenn
+- b)
+
+  zur eventuell notwendigen Bewältigung eines Notfalls, der die Gesundheit der Bevölkerung bedroht, wenn:
+
   - i) der Vertragspartei zur Bewältigung der Situation keine geeigneten alternativen Massnahmen zur Verfügung stehen;
   - ii) die ergriffenen Massnahmen dem Umfang und Schweregrad des Notfalls entsprechen;
   - iii) geeignete Vorkehrungen zum Schutz der menschlichen Gesundheit und der Umwelt sowie im Hinblick darauf ergriffen werden, dass der Stoff nicht ausserhalb des geografischen Gebiets verwendet wird, in dem der Notfall aufgetreten ist;
   - iv) die Ausnahme für einen Zeitraum gewährt wird, der nicht länger ist als die Dauer des Notfalls; und
   - v) nach Ende des Notfalls alle verbleibenden Bestände des Stoffes den Bestimmungen von Artikel 3 Absatz 1 Buchstabe b unterliegen;
 
-- c) für eine geringfügige Anwendung, die von der Vertragspartei als unbedingt notwendig eingeschätzt wird, wenn
+- c)
+
+  für eine geringfügige Anwendung, die von der Vertragspartei als unbedingt notwendig eingeschätzt wird, wenn:
+
   - i) die Ausnahme für höchstens fünf Jahre gewährt wird;
   - ii) sie die Ausnahme nicht bereits vorher im Rahmen dieses Artikels gewährt hat;
   - iii) für die vorgeschlagene Verwendung keine geeigneten Alternativen bestehen;
@@ -201,7 +226,7 @@ Die Vertragsparteien schaffen in Übereinstimmung mit ihren Gesetzen, sonstigen 
 
 **Öffentliches Bewusstsein**
 
-Die Vertragsparteien fördern in Übereinstimmung mit ihren Gesetzen, sonstigen Rechtsvorschriften und Gepflogenheiten die Bereitstellung von Informationen für die breite Öffentlichkeit einschliesslich Einzelpersonen, die direkte Anwender persistenter organischer Schadstoffe sind. Diese Informationen können unter anderem enthalten
+Die Vertragsparteien fördern in Übereinstimmung mit ihren Gesetzen, sonstigen Rechtsvorschriften und Gepflogenheiten die Bereitstellung von Informationen für die breite Öffentlichkeit einschliesslich Einzelpersonen, die direkte Anwender persistenter organischer Schadstoffe sind. Diese Informationen können unter anderem enthalten:
 
 - a) Informationen, einschliesslich Kennzeichnung, über Risikobewertung und Gefährdungspotential;
 - b) Informationen zur Risikominderung;
@@ -214,7 +239,9 @@ Die Vertragsparteien fördern in Übereinstimmung mit ihren Gesetzen, sonstigen 
 
 <sup>1.</sup> Jede Vertragspartei entwickelt spätestens sechs Monate nach dem Zeitpunkt, zu dem dieses Protokoll für sie in Kraft getreten ist, Strategien, Politiken und Programme, um ihren Verpflichtungen aus diesem Protokoll nachzukommen.
 
-<sup>2.</sup> Jede Vertragspartei
+<sup>2.</sup>
+
+Jede Vertragspartei:
 
 - a) fördert die Anwendung wirtschaftlich durchführbarer, umweltgerechter Betriebstechniken, darunter beste Umweltschutzpraktiken, in Bezug auf alle Aspekte der Verwendung, Produktion, Freisetzung, Verarbeitung, Verteilung, Handhabung, Beförderung und Wiederverwertung von Stoffen, die diesem Protokoll unterliegen, und von hergestellten Artikeln, Gemischen oder Lösungen, die diese Stoffe enthalten;
 - b) fördert die Durchführung anderer Programme zur Verringerung der Emissionen persistenter organischer Schadstoffe, darunter freiwillige Programme und die Anwendung ökonomischer Instrumente;
@@ -228,9 +255,9 @@ Die Vertragsparteien fördern in Übereinstimmung mit ihren Gesetzen, sonstigen 
 
 **Forschung, Entwicklung und Überwachung**
 
-Die Vertragsparteien fördern Forschung, Entwicklung, Überwachung und Zusammenarbeit unter anderem in Bezug auf
-
 Vorrang sollte dabei der Forschung zu Stoffen gegeben werden, bei denen die Wahrscheinlichkeit, dass sie den in Artikel 14 Absatz 6 festgelegten Verfahren unterzogen werden müssen, am grössten ist.
+
+Die Vertragsparteien fördern Forschung, Entwicklung, Überwachung und Zusammenarbeit unter anderem in Bezug auf:
 
 - a) Emissionen, weiträumige Verfrachtung, Deposition und ihre Modellierung, bestehende Konzentrationen in der biotischen und abiotischen Umwelt, die Erarbeitung von Verfahren für die Harmonisierung relevanter Methoden;
 - b) Schadstoffpfade und ‑verzeichnisse in repräsentativen Ökosystemen;
@@ -245,7 +272,9 @@ Vorrang sollte dabei der Forschung zu Stoffen gegeben werden, bei denen die Wahr
 
 **Berichterstattung**
 
-<sup>1.</sup> In Übereinstimmung mit ihren Rechtsvorschriften über die Vertraulichkeit gewerblicher Informationen
+<sup>1.</sup>
+
+In Übereinstimmung mit ihren Rechtsvorschriften über die Vertraulichkeit gewerblicher Informationen:
 
 - a) übermittelt jede Vertragspartei dem Exekutivorgan über den Exekutivsekretär der Kommission in regelmässigen Abständen, die von den im Exekutivorgan zusammentretenden Vertragsparteien festgelegt werden, Informationen über Massnahmen, die sie zur Durchführung dieses Protokolls getroffen hat;
 - b) übermittelt jede Vertragspartei im geografischen Anwendungsbereich des EMEP diesem über den Exekutivsekretär der Kommission in regelmässigen, vom Lenkungsorgan des EMEP festzulegenden und von den Vertragsparteien auf einer Tagung des Exekutivorgans zu billigenden Abständen Informationen über das Niveau der Emissionen persistenter organischer Schadstoffe und hält sich dabei zumindest an die Methoden sowie die zeitliche und räumliche Auflösung, die vom Lenkungsorgan des EMEP festgelegt worden sind. Vertragsparteien ausserhalb des geografischen Anwendungsbereichs des EMEP stellen dem Exekutivorgan auf Anforderung ähnliche Informationen zur Verfügung. Ausserdem stellt jede Vertragspartei Informationen über das Niveau der Emissionen der in Anhang III aufgeführten Stoffe für das in diesem Anhang festgelegte Bezugsjahr zur Verfügung.
@@ -295,7 +324,9 @@ Bei der Ratifikation, der Annahme oder der Genehmigung dieses Protokolls oder be
 
 **Anhänge**
 
-Die Anhänge des Protokolls sind Bestandteil des Protokolls. Die Anhänge V und VII haben Empfehlungscharakter.
+Die Anhänge des Protokolls sind Bestandteil des Protokolls. Anhang V hat Empfehlungscharakter.[^13-1]
+
+[^13-1]: Bereinigt gemäss Art. 1 Bst. C des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 14
 
@@ -305,11 +336,22 @@ Die Anhänge des Protokolls sind Bestandteil des Protokolls. Die Anhänge V und 
 
 <sup>2.</sup> Vorgeschlagene Änderungen werden schriftlich beim Exekutivsekretär der Kommission eingereicht, der sie allen Vertragsparteien übermittelt. Die im Exekutivorgan zusammenkommenden Vertragsparteien erörtern die vorgeschlagenen Änderungen auf ihrer folgenden Tagung, vorausgesetzt, die Vorschläge wurden vom Exekutivsekretär mindestens neunzig Tage vorher an die Vertragsparteien weitergeleitet.
 
-<sup>3.</sup> Änderungen des Protokolls und der Anhänge I bis IV, VI und VIII bedürfen der einvernehmlichen Annahme durch die auf einer Tagung des Exekutivorgans anwesenden Vertragsparteien und treten für die Vertragsparteien, die sie angenommen haben, am neunzigsten Tag nach dem Zeitpunkt, zu dem zwei Drittel der Vertragsparteien ihre Annahmeurkunden beim Verwahrer hinterlegt haben, in Kraft. Für jede andere Vertragspartei treten Änderungen am neunzigsten Tag nach dem Zeitpunkt in Kraft, zu dem die Vertragspartei ihre Urkunde über die Annahme derselben hinterlegt hat.
+<sup>3.</sup> Änderungen dieses Protokolls und der Anhänge I bis IV, VI und VIII bedürfen der einvernehmlichen Annahme durch die auf einer Tagung des Exekutivorgans anwesenden Vertragsparteien und treten für die Vertragsparteien, die sie angenommen haben, am neunzigsten Tag nach dem Zeitpunkt in Kraft, zu dem zwei Drittel der Vertragsparteien, die zum Zeitpunkt ihrer Annahme Vertragsparteien waren, ihre Annahmeurkunde beim Verwahrer hinterlegt haben. Für jede andere Vertragspartei treten Änderungen am neunzigsten Tag nach dem Zeitpunkt in Kraft, zu dem die Vertragspartei ihre Urkunde über die Annahme derselben hinterlegt hat. Dieser Absatz gilt vorbehaltlich der nachfolgenden Absätze 5<sup>bis</sup> und 5<sup>ter</sup>.[^14-1]
 
-<sup>4.</sup> Änderungen der Anhänge V und VII bedürfen der einvernehmlichen Annahme durch die auf einer Tagung des Exekutivorgans anwesenden Vertragsparteien. Eine Änderung einer dieser Anhänge wird nach Ablauf von neunzig Tagen nach dem Zeitpunkt, zu dem sie der Exekutivsekretär an alle Vertragsparteien weitergeleitet hat, für die Vertragsparteien wirksam, die dem Verwahrer keine Notifikation gemäss Absatz 5 vorgelegt haben, sofern mindestens sechzehn Vertragsparteien keine solche Notifikation eingereicht haben.
+<sup>4.</sup> Änderungen des Anhangs V bedürfen der einvernehmlichen Annahme durch die auf einer Tagung des Exekutivorgans anwesenden Vertragsparteien. Eine Änderung des Anhangs V wird nach Ablauf von neunzig Tagen nach dem Zeitpunkt, zu dem sie der Exekutivsekretär an alle Vertragsparteien weitergeleitet hat, für die Vertragsparteien wirksam, die dem Verwahrer keine Notifikation gemäss Absatz 5 vorgelegt haben, sofern mindestens sechzehn Vertragsparteien keine solche Notifikation eingereicht haben.[^14-2]
 
-<sup>5.</sup> Jede Vertragspartei, die eine Änderung von Anhang V oder Anhang VII nicht genehmigen kann, notifiziert dies dem Verwahrer schriftlich innerhalb von neunzig Tagen ab dem Zeitpunkt der Mitteilung ihrer Annahme. Der Verwahrer setzt unverzüglich alle Vertragsparteien über jede dieser eingegangenen Notifikationen in Kenntnis. Eine Vertragspartei kann jederzeit ihre frühere Notifikation durch eine Annahme ersetzen; mit Hinterlegung einer Annahmeurkunde beim Verwahrer wird die Änderung des betreffenden Anhangs für diese Vertragspartei wirksam.
+<sup>5.</sup> Jede Vertragspartei, die eine Änderung von Anhang V nicht genehmigen kann, notifiziert dies dem Verwahrer schriftlich innerhalb von neunzig Tagen ab dem Zeitpunkt der Mitteilung ihrer Annahme. Der Verwahrer setzt unverzüglich alle Vertragsparteien über jede dieser eingegangenen Notifikationen in Kenntnis. Eine Vertragspartei kann jederzeit ihre frühere Notifikation durch eine Annahme ersetzen; mit Hinterlegung einer Annahmeurkunde beim Verwahrer wird die Änderung des Anhangs V für diese Vertragspartei wirksam.[^14-3]
+
+5<sup>bis</sup>. Für die Vertragsparteien, die es angenommen haben, ersetzt das Verfahren gemäss dem nachfolgenden Absatz 5<sup>ter</sup> in Bezug auf Änderungen der Anhänge I bis IV, VI und VIII das in Absatz 3 oben beschriebene Verfahren.[^14-4]
+
+- 5<sup>ter</sup>. a) Änderungen der Anhänge I bis IV, VI und VIII bedürfen der einvernehmlichen Annahme durch die auf einer Tagung des Exekutivorgans anwesenden Vertragsparteien. Eine Änderung eines dieser Anhänge tritt nach Ablauf eines Jahres nach dem Zeitpunkt, zu dem sie der Exekutivsekretär der Kommission allen Vertragsparteien mitgeteilt hat, für die Vertragsparteien in Kraft, die dem Verwahrer keine Notifikation gemäss dem nachfolgenden Buchstaben b) vorgelegt haben.
+- b) Jede Vertragspartei, die eine Änderung der Anhänge I bis IV, VI und VIII nicht genehmigen kann, notifiziert dies dem Verwahrer schriftlich innerhalb eines Jahres ab dem Zeitpunkt der Mitteilung ihrer Annahme. Der Verwahrer setzt unverzüglich alle Vertragsparteien über jede solche eingegangene Notifikation in Kenntnis. Eine Vertragspartei kann jederzeit ihre frühere Notifikation durch eine Annahme ersetzen; mit Hinterlegung einer Annahmeurkunde beim Verwahrer tritt die Änderung des betreffenden Anhangs für diese Vertragspartei in Kraft.
+- c)
+
+  Änderungen der Anhänge I bis IV, VI und VIII treten nicht in Kraft, wenn insgesamt sechzehn oder mehr Vertragsparteien entweder:
+
+  - i) eine Notifikation nach den Bestimmungen des Buchstabens b) vorgelegt haben; oder
+  - ii) das in diesem Absatz dargelegte Verfahren nicht angenommen und noch keine Annahmeurkunde gemäss den Bestimmungen des Absatzes 3 hinterlegt haben.[^14-5]
 
 <sup>6.</sup>
 
@@ -319,6 +361,12 @@ Im Falle eines Vorschlags zur Änderung von Anhang I, II oder III durch Hinzufü
 - b) beurteilen die Vertragsparteien den Vorschlag nach den im Beschluss des Exekutivorgans 1998/2 festgelegten Verfahren einschliesslich aller Änderungen.
 
 <sup>7.</sup> Beschlüsse zur Änderung des Beschlusses des Exekutivorgans 1998/2 bedürfen der einvernehmlichen Annahme durch die im Exekutivorgan zusammentretenden Vertragsparteien und werden sechzig Tage nach dem Tag der Annahme wirksam.
+
+[^14-1]: Fassung gemäss Art. 1 Bst. D Ziff. 1 des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^14-2]: Bereinigt gemäss Art. 1 Bst. D Ziff. 2 des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^14-3]: Bereinigt gemäss Art. 1 Bst. D Ziff. 3 des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^14-4]: Eingefügt durch Art. 1 Bst. D Ziff. 4 des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+[^14-5]: Eingefügt durch Art. 1 Bst. D Ziff. 4 des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 15
 
@@ -335,6 +383,10 @@ Im Falle eines Vorschlags zur Änderung von Anhang I, II oder III durch Hinzufü
 <sup>1.</sup> Dieses Protokoll bedarf der Ratifikation, Annahme oder Genehmigung durch die Unterzeichner.
 
 <sup>2.</sup> Dieses Protokoll steht ab dem 21. Dezember 1998 Staaten und Organisationen, die die Voraussetzungen des Artikels 15 Absatz 1 erfüllen, zum Beitritt offen.
+
+<sup>3.</sup> Ein Staat oder eine Organisation der regionalen Wirtschaftsintegration gibt in seiner beziehungsweise ihrer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde eine entsprechende Erklärung ab, falls er beziehungsweise sie nicht beabsichtigt, durch die Verfahren nach Artikel 14 Absatz 5<sup>ter</sup> betreffend die Änderungen der Anhänge I bis IV, VI und VIII gebunden zu sein.[^16-1]
+
+[^16-1]: Eingefügt durch Art. 1 Bst. E des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 17
 
@@ -364,9 +416,11 @@ Die Urschrift dieses Protokolls, dessen englischer, französischer und russische
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Aarhus (Dänemark) am 24. Juni 1998. (Es folgen die Unterschriften)
 
-Anhang I
+Anhang I*[^t-2]*
 
 ## Stoffe, die nicht mehr hergestellt und verwendet werden sollen
+
+[^t-2]: Bereinigt gemäss Art. 1 Bst. F des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 Sofern in diesem Protokoll nicht anders angegeben, gilt dieser Anhang für die nachstehend aufgeführten Stoffe dann nicht, wenn sie in folgender Form vorkommen:
 
@@ -380,24 +434,30 @@ Sofern in diesem Protokoll nicht anders angegeben, gilt dieser Anhang für die n
 <tr><td>Aldrin CAS: 309-00-2</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
 <tr><td>Chlordan CAS: 57-74-9</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
 <tr><td>Chlordecon CAS: 143-50-0</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
-<tr><td>DDT CAS: 50-29-3</td><td>Herstellung</td><td>1. Einstellung der Herstellung innerhalb eines Jahres ab dem Zeitpunkt, zu dem die Vertrags-parteien zu dem Konsens gelangt sind, dass geeignete Alternativen für DDT zum Schutz der Gesundheit der Bevölkerung vor Krankheiten wie Malaria und Enzephalitis zur Verfügung stehen. 2. Mit Blick auf die frühestmögliche völlige Einstellung der Herstellung von DDT werden die Vertragsparteien spätestens ein Jahr nach dem Inkrafttreten dieses Protokolls und danach bedarfsgemäss in regelmässigen Abständen und nach Beratung mit der Weltgesundheitsorganisation, der Ernährungs‑ und Landwirtschafts-organisation der Vereinten Nationen und dem Umweltprogramm der Vereinten Nationen die Verfügbarkeit und Durchführbarkeit von Alternativen prüfen und gegebenenfalls die gewerbliche Nutzung sicherer und wirtschaftlich tragbarer Alternativen für DDT fördern.</td></tr>
-<tr><td></td><td>Verwendung</td><td>Keine, ausgenommen die in Anhang II ausgewiesene.</td></tr>
+<tr><td>DDT CAS: 50-29-3</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
 <tr><td>Dieldrin CAS: 60-57-1</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
 <tr><td>Endrin CAS: 72-20-8</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
-<tr><td>Heptachlor CAS: 76-44-8</td><td>Herstellung Verwendung</td><td>Keine Keine, ausgenommen die Verwendung durch amtlich zugelassene Personen zur Bekämpfung von Feuerameisen in geschlossenen Elektroverteilerkästen der Industrie. Diese Verwendung wird spätestens zwei Jahre nach dem Datum des Inkrafttretens dieses Protokolls einer erneuten Beurteilung unterzogen werden.</td></tr>
+<tr><td>Heptachlor CAS: 76-44-8</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
 <tr><td>Hexabrombiphenyl CAS: 36355-01-8</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
-<tr><td>Hexachlorbenzol CAS: 118-74-1</td><td>Herstellung</td><td>Keine, ausgenommen die Herstellung zu einem begrenzten Zweck gemäss einer Erklärung, die von einem Staat im Übergang zur Marktwirtschaft bei der Unterzeichnung oder beim Beitritt hinterlegt wird.</td></tr>
-<tr><td></td><td>Verwendung</td><td>Keine, ausgenommen die begrenzte Verwendung gemäss einer Erklärung, die von einem Staat im Übergang zur Marktwirtschaft bei der Unterzeichnung oder beim Beitritt hinterlegt wird.</td></tr>
+<tr><td>Hexachlorbenzol CAS: 118-74-1</td><td>Herstellung Verwendung</td><td>Keine, ausgenommen die Herstellung zu einem begrenzten Zweck gemäss einer Erklärung, die von einem Staat im Übergang zur Marktwirtschaft bei der Unterzeichnung oder beim Beitritt hinterlegt wird. Keine</td></tr>
+<tr><td>Hexachlorbutadien CAS: 87-68-3</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
+<tr><td>Hexachlorcyclohexane (HCH) CAS: 608-73-1, einschliesslich Lindan CAS: 58-89-9</td><td>Herstellung Verwendung</td><td>Keine Keine, ausgenommen die Verwendung des Gamma-Isomers von HCH (Lindan) als topisches Insektizid für Zwecke der öffentlichen Gesundheit. Diese Verwendungen werden im Rahmen dieses Protokolls im Jahr 2012 bzw. ein Jahr nach Inkrafttreten der Änderung neu bewertet, je nachdem, welcher Zeitpunkt der spätere ist.</td></tr>
+<tr><td>Hexabromdiphenylether<sup>a</sup> und Heptabromdiphenylether<sup>a</sup></td><td>Herstellung Verwendung</td><td>Keine 1. Eine Vertragspartei kann die Verwertung von Artikeln, die einen dieser Stoffe enthalten oder enthalten können, sowie die Verwendung und endgültige Entsorgung von Artikeln aus verwerteten Materialien, die einen dieser Stoffe enthalten oder enthalten können, genehmigen, sofern die Verwertung und endgültige Entsorgung auf umweltgerechte Weise erfolgen und nicht zur Rückgewinnung eines dieser Stoffe zwecks Wiederverwendung führen. 2. Ab dem Jahr 2013 und anschliessend alle vier Jahre bis zu dem Zeitpunkt, an dem die oben genannte Bedingung aufgehoben wird oder anderweitig ausser Kraft tritt, bewertet das Exekutivorgan die Fortschritte der Vertragsparteien bei der Verwirklichung der letztendlich von ihnen angestrebten Eliminierung dieser in Artikeln enthaltenen Stoffe und prüft, ob diese Bedingung, die in jedem Fall spätestens 2030 ausser Kraft tritt, weiterhin erforderlich ist.</td></tr>
 <tr><td>Mirex CAS: 2385-85-5</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
-<tr><td>PCB<sup>a</sup></td><td>Herstellung</td><td>Keine, ausgenommen Staaten im Übergang zur Marktwirtschaft, die die Herstellung sobald wie möglich und spätestens bis zum 31. Dezember 2005 völlig einstellen und die in einer zusammen mit der Ratifikations‑, Annahme‑, Genehmigungs‑ oder Beitrittsurkunde zu hinterlegenden Erklärung ihre Absicht bekunden, dies zu tun.</td></tr>
-<tr><td></td><td>Verwendung</td><td>Keine, ausgenommen die in Anhang II ausgewiesene.</td></tr>
+<tr><td>Polychlorierte Biphenyle (PCB)<sup>b</sup></td><td>Herstellung Verwendung</td><td>Keine Keine. Für PCB, die bis zum Implementierungszeitpunkt verwendet wurden, gilt Folgendes: 1. Die Vertragsparteien unternehmen entschlossene Anstrengungen, um Folgendes zu erreichen: a) die Einstellung der Verwendung identifizierbarer PCB in technischen Einrichtungen (d. h. Transformatoren, Kondensatoren oder anderen Behältern mit darin befindlichen Restflüssigkeiten), die PCB in Mengen über 5 dm<sup>3</sup> und in Konzentrationen von 0,05 % PCB oder mehr enthalten, so bald wie möglich, jedoch spätestens am 31. Dezember 2010 bzw. bei in Staaten im Übergang zur Marktwirtschaft am 31. Dezember 2015; b) die umweltgerechte Vernichtung oder Dekontamination – aller unter Buchstabe a) bezeichneten flüssigen PCB und anderer nicht in technischen Einrichtungen befindlicher flüssiger PCB mit mehr als 0,005 % PCB-Gehalt so bald als möglich, jedoch spätestens am 31. Dezember 2015 bzw. bei Staaten im Übergang zur Marktwirtschaft am 31. Dezember 2020; – aller unter Absatz 2 Buchstabe a) bezeichneten flüssigen PCB spätestens am 31. Dezember 2029; c) die umweltgerechte Dekontamination oder Entsorgung von in Absatz 1 Buchstabe a) und Absatz 2 Buchstabe a) bezeichneten technischen Einrichtungen. 2. Die Vertragsparteien bemühen sich, a) technische Einrichtungen (z. B. Transformatoren, Kondensatoren oder andere Behälter mit darin befindlichen Flüssigkeiten), die PCB in Konzentrationen von mehr als 0,005 % und in Mengen von mehr als 0,05 dm<sup>3</sup> enthalten, so bald wie möglich, jedoch spätestens am 31. Dezember 2025 zu identifizieren und aus dem Verkehr zu ziehen; b) andere Artikel, die PCB in Konzentrationen von mehr als 0,005 % enthalten (z. B. Kabelummantelungen, gehärtete Dichtungen und mit Anstrich versehene Objekte) zu identifizieren und gemäss Artikel 3 Absatz 3 zu behandeln. 3. Die Vertragsparteien stellen sicher, dass die unter Absatz 1 Buchstabe a) und Absatz 2 Buchstabe a) genannten technischen Einrichtungen ausschliesslich zum Zweck einer umweltgerechten Abfallbehandlung aus- oder eingeführt werden. 4. Die Vertragsparteien fördern folgende Massnahmen zur Verringerung der Exposition und Gefährdung, um die Verwendung von PCB zu begrenzen: a) Verwendung von PCB ausschliesslich in intakten und dichten technischen Einrichtungen und nur in Bereichen, in denen die Gefahr einer Freisetzung in die Umwelt so gering wie möglich gehalten werden kann und gegebenenfalls rasche Abhilfe möglich ist; b) keine Verwendung von PCB in technischen Einrichtungen in Bereichen, bei denen ein Zusammenhang mit der Produktion oder Verarbeitung von Lebens- oder Futtermitteln besteht. Bei einer Verwendung von PCB in bewohnten Gebieten, einschliesslich Schulen und Krankenhäusern, sind alle zumutbaren Massnahmen zu ergreifen, um elektrotechnische Störfälle zu verhindern, die zu einem Brand führen könnten, und die Einrichtungen regelmässig auf Undichtigkeiten zu überprüfen.</td></tr>
+<tr><td>Pentachlorbenzol CAS: 608-93-5</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
+<tr><td>Perfluoroctansulfonat (PFOS)<sup>c</sup></td><td>Herstellung</td><td>Keine, ausgenommen die Herstellung für die nachstehend aufgeführten Verwendungen a) bis c) sowie die Verwendungen a) bis e) in Anhang II.</td></tr>
+<tr><td></td><td>Verwendung</td><td>Keine, ausgenommen die nachstehend aufgeführten Verwendungen sowie die Verwendungen a) bis e) in Anhang II: a) Chromgalvanik, Chromanodisierung und Rückseitenätzung bis 2014; b) stromlose Nickel-Polytetrafluorethylen-Abscheidung bis 2014; c) Ätzen von Kunststoffsubstraten vor deren Metallisierung bis 2014; d) Löschschäume, sofern sie bis zum 18. Dezember 2009 hergestellt oder verwendet wurden. [tab] Für Löschschäume gilt Folgendes: i) Die Parteien sollten sich bemühen, bis 2014 PFOS enthaltende Löschschäume, die bis zum 18. Dezember 2009 hergestellt oder verwendet wurden, zu eliminieren, und erstatten dem Exekutivorgan im Jahr 2014 Bericht über ihre Fortschritte; ii) auf der Grundlage der Berichte der Vertragsparteien und von Ziffer i) prüft das Exekutivorgan im Jahr 2015, ob die Verwendung von PFOS enthaltenden Feuerlöschschäumen, die bis zum 18. Dezember 2009 hergestellt oder verwendet wurden, zusätzlichen Beschränkungen unterworfen werden sollte.</td></tr>
+<tr><td>Tetrabromdiphenylether<sup>d</sup> und Pentabromdiphenylether<sup>d</sup></td><td>Herstellung Verwendung</td><td>Keine 1. Eine Vertragspartei kann die Verwertung von Artikeln, die einen dieser Stoffe enthalten oder enthalten können, sowie die Verwendung und endgültige Entsorgung von Artikeln aus verwerteten Materialien, die einen dieser Stoffe enthalten oder enthalten können, genehmigen, sofern die Verwertung und endgültige Entsorgung auf umweltgerechte Weise erfolgen und nicht zur Rückgewinnung eines dieser Stoffe zwecks Wiederverwendung führe. 2. Ab dem Jahr 2013 und anschliessend alle vier Jahre bis zu dem Zeitpunkt, an dem die obengenannte Bedingung aufgehoben wird oder anderweitig ausser Kraft tritt, bewertet das Exekutivorgan die Fortschritte der Vertragsparteien bei der Verwirklichung der letztendlich von ihnen angestrebten Eliminierung dieser in Artikeln enthaltenen Stoffe und prüft, ob diese Bedingung, die in jedem Fall spätestens 2030 ausser Kraft tritt, weiterhin erforderlich ist.</td></tr>
 <tr><td>Toxaphen CAS: 8001-35-2</td><td>Herstellung Verwendung</td><td>Keine Keine</td></tr>
-<tr><td colspan="3"><sup>a</sup> Die Vertragsparteien vereinbaren, im Rahmen des Protokolls bis zum 31. Dez. 2004 die Herstellung und Verwendung von polychlorierten Terphenylen und «Ugilec» einer erneuten Beurteilung zu unterziehen.</td></tr>
+<tr><td colspan="3"><sup>a</sup> Der Begriff «Hexabromdiphenylether und Heptabromdiphenylether» bezeichnet 2,2',4,4',5,5'-Hexabromdiphenylether (BDE-153, CAS-Nr.: 68631-49-2), 2,2',4,4',5,6'-Hexabromdiphenylether (BDE-154, CAS-Nr.: 207122-15-4), 2,2',3,3',4,5',6 Heptabromdiphenylether (BDE-175, CAS-Nr.: 446255-22-7), 2,2',3,4,4',5',6-Heptabromdiphenylether (BDE-183, CAS-Nr.: 207122-16-5) sowie andere in handelsüblichem Octobromdiphenylether vorhandene Hexa- und Heptabromdiphenylether. <sup>b</sup> Der Begriff «polychlorierte Biphenyle» bezeichnet aromatische Verbindungen, die so beschaffen sind, dass die Wasserstoffatome des Biphenyl-Moleküls (zwei durch eine Kohlenstoff-Kohlenstoff-Einfachbindung miteinander verknüpfte Benzolringe) durch bis zu zehn Chloratome ersetzt werden können. <sup>c</sup> Der Begriff «Perfluoroctansulfonat (PFOS)» bezeichnet Stoffe mit der Summenformel C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, wobei X = OH, Metallsalz, Halogenid, Amid oder andere Derivative einschliesslich Polymere. <sup>d</sup> Der Begriff «Tetrabromdiphenylether und Pentabromdiphenylether» bezeichnet 2,2',4,4'‑Tetrabromdiphenylether (BDE-47, CAS-Nr.: 40088-47-9) und 2,2',4,4',5-Pentabromdiphenylether (BDE-99, CAS-Nr.: 32534-81-9) sowie andere in handelsüblichem Pentabromdiphenylether vorhandenen Tetra- und Pentabromdiphenylether.</td></tr>
 </table>
 
-Anhang II
+Anhang II*[^t-3]*
 
 ## Zur eingeschränkten Verwendung vorgesehene Stoffe
+
+[^t-3]: Bereinigt gemäss Art. 1 Bst. G des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 Sofern in diesem Protokoll nicht anders angegeben, gilt dieser Anhang für die nachstehend aufgeführten Stoffe nicht, wenn sie vorkommen:
 
@@ -408,63 +468,86 @@ Sofern in diesem Protokoll nicht anders angegeben, gilt dieser Anhang für die n
 <table>
 <tr><th>Stoff</th><th colspan="2">Durchführungsbestimmungen</th></tr>
 <tr><th></th><th>Verwendungsbeschränkungen</th><th>Bedingungen</th></tr>
-<tr><td>DDT CAS: 50-29-3</td><td>Erlaubt 1. Zum Schutz der Gesundheit der Bevölkerung vor Krank-heiten wie Malaria und Enzephalitis.</td><td>1. Die Verwendung ist nur als Komponente einer integrierten Schädlingsbekämpfungsstrategie und nur im notwendigen Masse und nur bis zu einem Jahr nach dem Datum der Einstellung der Her-stellung gemäss Anhang I zulässig.</td></tr>
-<tr><td></td><td>2. Als chemische Zwischen-verbindung zur Herstellung von Dicofol.</td><td>2. Die Verwendung wird spätestens zwei Jahre nach dem Tag des Inkrafttretens dieses Protokolls einer Neubeurteilung unterzogen.</td></tr>
-<tr><td>HCH CAS:608-73-1</td><td>Der Einsatz von technischem HCH (d.h. HCH-Isomerengemischen) wird auf die Verwendung als Zwischenprodukt in der Chemieproduktion beschränkt.</td><td></td></tr>
-<tr><td></td><td>Der Einsatz von Produkten, bei denen mindestens 99 % des HCH-Isomers in der Gammaform vorliegen (d.h. Lindan, CAS: 58-89-9), wird auf folgende Verwendungen beschränkt:</td><td>Alle eingeschränkten Verwendungen von Lindan werden im Rahmen des Protokolls spätestens zwei Jahre nach dem Datum seines Inkrafttretens einer Neubeurteilung unterzogen.</td></tr>
-<tr><td>[tab]</td><td>1. Saatgutbehandlung.</td><td>[tab]</td></tr>
-<tr><td></td><td>2. Ausbringung auf den Boden mit unmittelbar anschliessender Einarbeitung in die Ackerkrume.</td><td></td></tr>
-<tr><td></td><td>3. Professionelle Schutz‑ und industrielle Behandlung von Schnitt‑, Bau‑ und Rundholz.</td><td></td></tr>
-<tr><td>[tab]</td><td>4. Örtlich begrenzter Einsatz als Insektizid im öffentlichen Gesundheitswesen und im Veterinärwesen.</td><td>[tab]</td></tr>
-<tr><td>[tab]</td><td>5. Nicht flugtechnische Aus-bringung auf Baumsämlinge, Einsatz im kleinen Massstab, für Rasenflächen sowie Verwendung für Baumschul-bestände und Zierpflanzen innerhalb und ausserhalb von Gebäuden.</td><td>[tab]</td></tr>
-<tr><td>[tab]</td><td>6. Innenanwendungen im Industrie‑ und Wohnungs-sektor.</td><td>[tab]</td></tr>
-<tr><td>PCB<sup>a</sup></td><td>PCB, die sich gemäss Anhang I ab dem Tag des Inkrafttretens in Verwendung befinden oder bis zum 31. Dezember 2005 her-gestellt werden.</td><td>Die Vertragsparteien unternehmen entschlossene Anstrengungen, um Folgendes zu erreichen: a) die völlige Einstellung der Verwendung identifizierbarer PCB in Geräten (d. h. Transformatoren, Kondensatoren oder andere Behälter mit darin befindlichen Restflüssigkeiten), die PCB in Mengen über 5 dm<sup>3</sup> und in Konzentrationen von 0,05% PCB oder darüber enthalten, sobald wie möglich, jedoch nicht später als am 31. Dezember 2010 bzw. bei Staaten im Übergang zur Marktwirtschaft am 31. Dezember 2015; b) die umweltgerechte Vernichtung oder Dekontamination aller flüssigen PCB, auf die in Unterabsatz a) Bezug genommen wird, und anderer nicht in Geräten befindlicher flüssiger PCB mit mehr als 0,005 % PCB-Gehalt so bald als möglich, jedoch nicht später als am 31. Dezember 2015 bzw. bei Staaten im Übergang zur Marktwirtschaft am 31. Dezember 2020; und c) die umweltgerechte Dekontamination oder Entsorgung von Geräten, auf die in Unterabsatz a) Bezug genommen wird.</td></tr>
-<tr><td colspan="3">[tab] <sup>a</sup> Die Vertragsparteien vereinbaren, im Rahmen des Protokolls bis zum 31. Dez. 2004 die Herstellung und Verwendung von polychlorierten Terphenylen und «Ugilec» einer erneuten Beurteilung zu unterziehen.</td></tr>
+<tr><td>Perfluoroctan sulfonat (PFOS)<sup>a</sup></td><td>a) Fotoresistlacke und Antireflexbeschichtungen für fotolithografische Prozesse; b) fotografische Beschichtungen von Filmen, Papieren und Druckplatten; c) Mittel zur Sprühnebelunterdrückung für nicht dekoratives Hartverchromen (VI) und Netzmittel für überwachte Galvanotechniksysteme; d) Hydraulikflüssigkeiten für die Luftfahrt; e) bestimmte medizinische Geräte (wie Herstellung von Schichten aus Ethylen-Tetrafluorethylen-Copolymer (ETFE) und von röntgendichtem ETFE, medizinische In-vitro-Diagnostika und CCD-Farbfilter).</td><td>Die Vertragsparteien sollten Massnahmen ergreifen, um diese Verwendungen zu eliminieren, sobald geeignete Alternativen zur Verfügung stehen. Spätestens im Jahr 2015 und danach alle vier Jahre erstattet jede Vertragspartei, die diese Stoffe verwendet, Bericht über die im Hinblick auf die Einstellung der Verwendung erzielten Fortschritte und übermittelt dem Exekutivorgan Informationen über diese Fortschritte. Auf der Grundlage dieser Berichte werden diese eingeschränkten Verwendungen einer Neubeurteilung unterzogen.</td></tr>
+<tr><td colspan="3"><sup>a</sup> Der Begriff Perfluoroctansulfonat (PFOS) bezeichnet Stoffe mit der Summenformel C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, wobei X = OH, Metallsalz, Halogenid, Amid und andere Derivative einschliesslich Polymere.</td></tr>
 </table>
 
-Anhang III
+Anhang III*[^t-4]*
 
 ## Stoffe, auf die in Artikel 3 Absatz 5 Buchstabe a Bezug genommen wird, und das Bezugsjahr für die Verpflichtung
 
+[^t-4]: Bereinigt gemäss Art. 1 Bst. H des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+
 <table>
 <tr><td>Stoff</td><td>Bezugsjahr</td></tr>
-<tr><td>PAK<sup>a</sup></td><td>1990 oder ein beliebiges anderes Jahr von 1985 bis einschliesslich 1995, das von einer Vertragspartei bei der Ratifikation, der Annahme, der Genehmigung oder beim Beitritt angegeben wird.</td></tr>
-<tr><td>Dioxine/Furane<sup>b</sup></td><td>1990 oder ein beliebiges anderes Jahr von 1985 bis einschliesslich 1995, das von einer Vertragspartei bei der Ratifikation, der Annahme, der Genehmigung oder beim Beitritt angegeben wird.</td></tr>
-<tr><td>Hexachlorbenzol</td><td>1990 oder ein beliebiges anderes Jahr von 1985 bis einschliesslich 1995, das von einer Vertragspartei bei der Ratifikation, der Annahme, der Genehmigung oder beim Beitritt angegeben wird.</td></tr>
-<tr><td colspan="2"><sup>a</sup> Polycyclische aromatische Kohlenwasserstoffe (PAK): Für die Emissionsverzeichnisse werden die folgenden vier Indikatorverbindungen verwendet: Benzo(a)pyren, Benzo(b)fluoranthen, Benzo(k)fluoranthen und Indeno(1,2,3‑cd)pyren. <sup>b</sup> Dioxine und Furane (PCDD/F): Polychlorierte Dibenzo-p-dioxine (PCDD) und polychlorierte Dibenzofurane (PCDF) sind tricyclische, aromatische Verbindungen, die durch zwei Benzolringe gebildet werden, welche bei PCDD durch zwei Sauerstoffatome und bei PCDF durch ein Sauerstoffatom verbunden sind und bei denen die Wasserstoffatome durch bis zu acht Chloratome ersetzt werden können.</td></tr>
+<tr><td>PAK<sup>a</sup></td><td>1990 oder ein beliebiges anderes Jahr von 1985 bis einschliesslich 1995 bzw. – für Staaten im Übergang zur Marktwirtschaft – ein beliebiges anderes Jahr von 1985 bis zu dem Jahr des Inkrafttretens des Protokolls für eine Vertragspartei, das von dieser Vertragspartei bei der Ratifikation, der Annahme, der Genehmigung oder beim Beitritt angegeben wird.</td></tr>
+<tr><td>Dioxine/Furane<sup>b</sup></td><td>1990 oder ein beliebiges anderes Jahr von 1985 bis einschliesslich 1995 bzw. – für Staaten im Übergang zur Marktwirtschaft – ein beliebiges anderes Jahr von 1985 bis zu dem Jahr des Inkrafttretens des Protokolls für eine Vertragspartei, das von dieser Vertragspartei bei der Ratifikation, der Annahme, der Genehmigung oder beim Beitritt angegeben wird.</td></tr>
+<tr><td>Hexachlorbenzol CAS: 118-74-1</td><td>1990 oder ein beliebiges anderes Jahr von 1985 bis einschliesslich 1995 bzw. – für Staaten im Übergang zur Marktwirtschaft – ein beliebiges anderes Jahr von 1985 bis zu dem Jahr des Inkrafttretens des Protokolls für eine Vertragspartei, das von dieser Vertragspartei bei der Ratifikation, der Annahme, der Genehmigung oder beim Beitritt angegeben wird.</td></tr>
+<tr><td>PCB<sup>c</sup></td><td>2005 oder ein beliebiges anderes Jahr von 1995 bis einschliesslich 2010 bzw. für Staaten im Übergang zur Marktwirtschaft ein beliebiges anderes Jahr von 1995 bis zu dem Jahr des Inkrafttretens des Protokolls für eine Vertragspartei, das von dieser Vertragspartei bei der Ratifikation, der Annahme, der Genehmigung oder beim Beitritt angegeben wird.</td></tr>
+<tr><td colspan="2"><sup>a</sup> Polycyclische aromatische Kohlenwasserstoffe (PAK): Für die Emissionsverzeichnisse werden die folgenden vier Indikatorverbindungen verwendet: Benzo(a)pyren, Benzo(b)fluoranthen, Benzo(k)fluoranthen und Indeno(1,2,3‑cd)pyren. <sup>b</sup> Dioxine und Furane (PCDD/F): Polychlorierte Dibenzo-p-dioxine (PCDD) und polychlorierte Dibenzofurane (PCDF) sind tricyclische, aromatische Verbindungen, die durch zwei Benzolringe gebildet werden, welche bei PCDD durch zwei Sauerstoffatome und bei PCDF durch ein Sauerstoffatom verbunden sind und bei denen die Wasserstoffatome durch bis zu acht Chloratome ersetzt werden können. <sup>c</sup> polychlorierte Biphenyle nach der Definition in Anhang I, die unbeabsichtigt von anthropogenen Quellen gebildet und freigesetzt werden.</td></tr>
 </table>
 
-Anhang IV
+Anhang IV*[^t-5]*
 
 ## Grenzwerte für die Emission von PCDD/F aus grossen ortsfesten Quellen
+
+[^t-5]: Bereinigt gemäss Art. 1 Bst. I des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 ### I. Einleitung
 
 \1. Eine Definition für Dioxine und Furane (PCDD/F) ist in Anhang III dieses Protokolls enthalten.
 
-\2. Grenzwerte werden als ng/m<sup>3</sup> oder mg/m<sup>3</sup> unter Standardbedingungen (273,15 K, 101,3 kPa und Trockengas) ausgedrückt.
+\2. Grenzwerte werden als ng/m<sup>3</sup> oder mg/m<sup>3</sup> unter Standardbedingungen (273,15 K, 101,3 kPa, Trockengas und für einen gegebenen Sauerstoffgehalt) ausgedrückt.
 
-\3. Grenzwerte beziehen sich auf die normale Betriebssituation einschliesslich Anfahr‑ und Abschaltvorgänge, sofern für diese Situationen keine speziellen Grenzwerte festgelegt wurden.
+\3. Die Grenzwerte beziehen sich auf die normale Betriebssituation. Bei Chargenprozessen beziehen sich die Grenzwerte auf die während des gesamten Prozesses (einschliesslich z. B. Vorwärmen, Erwärmen und Kühlen) aufgezeichneten Durchschnittswerte.
 
-\4. Probenahme und Analyse sämtlicher Schadstoffe erfolgen nach den vom Europäischen Komitee für Normung (Comité européen de normalisation, CEN) und der Internationalen Organisation für Normung (ISO) festgelegten Normen oder nach den entsprechenden Referenzmethoden der USA bzw. Kanadas. Nationale Normen gelten solange, bis CEN‑ und ISO-Normen vorliegen.
+\4. Probenahme und Analyse sämtlicher Schadstoffe erfolgen nach den beispielsweise vom Europäischen Komitee für Normung (Comité européen de normalisation, CEN) und der Internationalen Organisation für Normung (ISO) festgelegten einschlägigen Normen oder nach den entsprechenden Referenzmethoden der USA bzw. Kanadas. Nationale Normen gelten solange, bis CEN‑ und ISO-Normen vorliegen.
 
 \5. Für Kontrollzwecke muss beim Vergleich der Messergebnisse mit dem Grenzwert auch die Ungenauigkeit des Messverfahrens berücksichtigt werden. Ein Grenzwert gilt als eingehalten, wenn das Messergebnis nach Abzug des Wertes für die Ungenauigkeit des Messverfahrens diesen nicht überschreitet.
 
-\6. Emissionen verschiedener Kongenere von PCDD/F werden in Toxizitätsäquivalenten (TEQ) im Vergleich zum 2,3,7,8-TCDD angegeben, wobei das 1988 vom NATO-CCMS (NATO Committee on the Challenges of Modern Society) vorgeschlagene System zum Einsatz kommt.
+\6. Emissionen von PCDD/F werden in Gesamttoxizitätsäquivalenten (TEQ)[^annexIV-lvlu1-lvlI-1] angegeben. Die für die Zwecke dieses Protokolls zu verwendenden Toxizitätsäquivalenzfaktoren stehen im Einklang mit den einschlägigen internationalen Normen, einschliesslich der Säugetiertoxizitätsäquivalenzfaktoren für PCDD/F der Weltgesundheitsorganisation von 2005.
+
+[^annexIV-lvlu1-lvlI-1]: Das Gesamttoxizitätsäquivalent (TEQ) ist operativ definiert als die Summe der Produkte der Konzentration jeder Verbindung, multipliziert mit dem Wert ihres Toxizitätsäquivalenzfaktors (TEF), und stellt eine Schätzung der gesamten 2,3,7,8-TCDD-artigen Aktivität des Gemischs dar. Gesamttoxizitätsäquivalent wurde bisher als TE abgekürzt.
 
 ### II. Grenzwerte für grössere ortsfeste Quellen
 
-\7. Die folgenden Grenzwerte, die sich auf eine O<sub>2</sub>-Konzentration von 11 % in Abgas beziehen, gelten für Verbrennungsanlagen für folgende Abfallkategorien:
+\7. Die folgenden Grenzwerte, die sich auf eine O<sub>2</sub>-Konzentration von 11 % in Abgasen beziehen, gelten für Verbrennungsanlagen für folgende Abfallkategorien:
 
-- Feste Siedlungsabfälle (Verbrennung von mehr als 3 Tonnen je Stunde) 0,1 ng TEQ/m<sup>3</sup>
-- Feste medizinische Abfälle (Verbrennung von mehr als 1 Tonne je Stunde) 0,5 ng TEQ/m<sup>3</sup>
-- Gefährliche Abfälle (Verbrennung von mehr als 1 Tonne je Stunde) 0,2 ng TEQ/m<sup>3</sup>
+- feste Siedlungsabfälle (bestehende ortsfeste Quelle, in der mehr als 3 Tonnen je Stunde verbrannt werden, und jede neue ortsfeste Quelle)
+  - [tab] 0,1 ng TEQ/m<sup>3</sup>
 
-Anhang V*[^t-3]*
+- feste medizinische Abfälle (bestehende ortsfeste Quelle, in der mehr als 1 Tonne je Stunde verbrannt wird, und jede neue ortsfeste Quelle)
+  - neue ortsfeste Quelle: 0,1 ng TEQ/m<sup>3</sup>
+  - bestehende ortsfeste Quelle: 0,5 ng TEQ/m<sup>3</sup>
+
+- gefährliche Abfälle (bestehende ortsfeste Quelle, in der mehr als 1 Tonne je Stunde verbrannt wird, und jede neue ortsfeste Quelle)
+  - neue ortsfeste Quelle: 0,1 ng TEQ/m<sup>3</sup>
+  - bestehende ortsfeste Quelle: 0,2 ng TEQ/m<sup>3</sup>
+
+- nicht gefährliche industrielle Abfälle[^annexIV-lvlu1-lvlII-1]<sup>,</sup> [^annexIV-lvlu1-lvlII-2]
+  - neue ortsfeste Quelle: 0,1 ng TEQ/m<sup>3</sup>
+  - bestehende ortsfeste Quelle: 0,5 ng TEQ/m<sup>3</sup>.
+
+\8. Der folgende Grenzwert, der sich auf eine O<sub>2</sub>-Konzentration von 16 % in Abgasen bezieht, gilt für Sinteranlagen:
+
+- 0,5 ng TEQ/m<sup>3</sup>
+
+\9. Der folgende Grenzwert, der sich auf die tatsächliche O<sub>2</sub>-Konzentration in Abgasen bezieht, gilt für die folgende Quelle:
+
+-
+
+  sekundäre Stahlerzeugung – Elektrolichtbogenöfen mit einer Produktionskapazität von mehr als 2,5 Tonnen geschmolzenem Stahl zur Weiterverarbeitung pro Stunde:
+
+  - [tab] 0,5 ng TEQ/m<sup>3</sup>.
+
+[^annexIV-lvlu1-lvlII-1]: Einschliesslich Verbrennungsanlagen für die Entsorgung von Biomasseabfällen, die infolge einer Behandlung mit Holzschutzmitteln oder infolge einer Beschichtung halogenierte organische Verbindungen oder Schwermetalle enthalten können und zu denen insbesondere Biomasseabfälle aus Bau- und Abbruchabfällen gehören, jedoch unter Ausschluss von Verbrennungsanlagen, in denen nur andere Biomasseabfälle behandelt werden.
+[^annexIV-lvlu1-lvlII-2]: Staaten im Übergang zur Marktwirtschaft können die Mitverbrennung von nicht gefährlichen industriellen Abfällen in industriellen Prozessen ausnehmen, wenn diese Abfälle als zusätzlicher Brennstoff verwendet werden, auf den bis zu 10 % der erzeugten Energie entfallen.
+
+Anhang V*[^t-6]*
 
 ## Beste verfügbare Techniken zur Begrenzung der Emissionen persistenter organischer Schadstoffe aus grösseren ortsfesten Quellen
 
-[^t-3]: Bereinigt gemäss Beschluss 2009/3 vom 18. Dez. 2010, in Kraft seit 13. Dez. 2010 ausser für Kanada und die Tschechische Republik ([AS 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Für diese Staaten blebit die ursprüngliche Fassung in [AS 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)anwendbar.
+[^t-6]: Bereinigt gemäss Beschluss 2009/3 vom 18. Dez. 2010, in Kraft seit 13. Dez. 2010 ausser für Kanada und die Tschechische Republik ([AS 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Für diese Staaten blebit die ursprüngliche Fassung in [AS 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)anwendbar.
 
 ### I. Einleitung
 
@@ -530,32 +613,53 @@ Einschlägige Definitionen befinden sich im Anhang III dieses Protokolls.
 - b) thermische Quellen in der metallurgischen Industrie; und
 - c) die Verwendung chlorierter Brennstoffe in Ofenanlagen.
 
-Anhang VI
+Anhang VI*[^t-7]*
 
 ## Fristen bis zur Anwendung von Grenzwerten und besten verfügbaren Techniken für neue und bestehende ortsfeste Quellen
 
-Nach Ablauf folgender Fristen sind die Grenzwerte und besten verfügbaren Techniken anzuwenden:
+[^t-7]: Bereinigt gemäss Art. 1 Bst. J des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
-- a) Neue ortsfeste Quellen: zwei Jahre nach dem Zeitpunkt des Inkrafttretens dieses Protokolls;
-- b) Bestehende ortsfeste Quellen: acht Jahre nach dem Zeitpunkt des Inkrafttretens dieses Protokolls. Im Bedarfsfall kann diese Frist für bestimmte ortsfeste Quellen entsprechend der im innerstaatlichen Recht vorgesehenen Abschreibungsfristen verlängert werden.
+\1. Nach Ablauf folgender Fristen sind die Grenzwerte und besten verfügbaren Techniken anzuwenden:
 
-Anhang VII*[^t-4]*
+- a) Neue ortsfeste Quellen: zwei Jahre nach dem Zeitpunkt des Inkrafttretens dieses Protokolls für eine Vertragspartei;
+- b)
 
-[^t-4]: Aufgehoben gemäss Beschluss 2009/3 vom 18. Dez. 2010, mit Wirkung seit 13. Dez. 2010 ausser für Kanada und die Tschechische Republik ([AS 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Für diese Staaten blebit der Anhang anwendbar (seihe [AS 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
+  Bestehende ortsfeste Quellen:
 
-Anhang VIII
+  - i) acht Jahre nach dem Zeitpunkt des Inkrafttretens dieses Protokolls für eine Vertragspartei. Im Bedarfsfall kann diese Frist für bestimmte ortsfeste Quellen entsprechend den im innerstaatlichen Recht vorgesehenen Abschreibungsfristen verlängert werden; oder
+  - ii) für eine Vertragspartei, die ein Staat im Übergang zur Marktwirtschaft ist bis zu fünfzehn Jahre nach dem Zeitpunkt des Inkrafttretens dieses Protokolls für diese Vertragspartei.
+
+\2. Die Fristen für die Anwendung der aufgrund von Änderungen dieses Protokolls aktualisierten oder eingeführten Grenzwerte und besten verfügbaren Techniken betragen:
+
+- a) für neue ortsfeste Quellen: zwei Jahre ab dem Zeitpunkt des Inkrafttretens der betreffenden Änderung für eine Vertragspartei;
+- b)
+
+  für bestehende ortsfeste Quellen:
+
+  - i) acht Jahre ab dem Zeitpunkt des Inkrafttretens der betreffenden Änderung für eine Vertragspartei, oder
+  - ii) für eine Vertragspartei, die ein Staat im Übergang zur Marktwirtschaft ist, bis zu fünfzehn Jahre ab dem Zeitpunkt des Inkrafttretens der betreffenden Änderung für diese Vertragspartei.
+
+- [tab]
+
+Anhang VII*[^t-8]*
+
+[^t-8]: Aufgehoben gemäss Beschluss 2009/3 vom 18. Dez. 2010, mit Wirkung seit 13. Dez. 2010 ausser für Kanada und die Tschechische Republik ([AS 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Für diese Staaten blebit der Anhang anwendbar (seihe [AS 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
+
+Anhang VIII*[^t-9]*
 
 ## Kategorien grösserer ortsfester Quellen
 
+[^t-9]: Bereinigt gemäss Art. 1 Bst. K des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
+
 ### I. Einleitung
 
-Nicht in diesem Verzeichnis inbegriffen sind Anlagen oder Teile von Anlagen für die Erforschung, Entwicklung und Prüfung neuer Erzeugnisse. Eine ausführlichere Beschreibung der Kategorien ist in Anhang V enthalten.
+Nicht in diesem Verzeichnis inbegriffen sind Anlagen oder Teile von Anlagen für die Erforschung, Entwicklung und Prüfung neuer Erzeugnisse. Eine ausführlichere Beschreibung der Kategorien ist in dem in Anhang V genannten Leitfaden enthalten.
 
 ### II. Verzeichnis der Kategorien
 
 <table>
 <tr><td>Kategorie</td><td>Beschreibung der Kategorie</td></tr>
-<tr><td>1</td><td>Verbrennung, einschliesslich der Mitverbrennung von Siedlungsabfall, gefährlichen Abfällen oder Abfällen aus dem Medizinbereich oder von Klärschlamm</td></tr>
+<tr><td>1</td><td>Abfallverbrennung, einschliesslich der Mitverbrennung von Siedlungsabfall, gefährlichen Abfällen, nicht gefährlichen Abfällen oder Abfällen aus dem Medizinbereich sowie von Klärschlamm</td></tr>
 <tr><td>2</td><td>Sinteranlagen</td></tr>
 <tr><td>3</td><td>Primär‑ und Sekundärbereich der Kupferproduktion</td></tr>
 <tr><td>4</td><td>Stahlerzeugung</td></tr>
@@ -567,9 +671,11 @@ Nicht in diesem Verzeichnis inbegriffen sind Anlagen oder Teile von Anlagen für
 <tr><td>10</td><td>Anodenproduktion</td></tr>
 <tr><td>11</td><td>Aluminiumproduktion nach dem Söderberg-Verfahren</td></tr>
 <tr><td>12</td><td>Anlagen zur Holzkonservierung, ausgenommen den Fall, dass diese Kategorie bei einer Vertragspartei nicht signifikant zu den PAK-Gesamtemissionen beiträgt (gemäss Anhang III)</td></tr>
+<tr><td>13</td><td>Spezifische chemische Produktionsprozesse, bei denen unbeabsichtigt gebildete persistente organische Schadstoffe freigesetzt werden, insbesondere Produktion von Chlorphenolen und Chloranil</td></tr>
+<tr><td>14</td><td>Thermische Prozesse in der Metallindustrie, Verfahren auf Chlorbasis.</td></tr>
 </table>
 
-Geltungsbereich am 25. Februar 2015**[^t-5]**
+Geltungsbereich am 20. Januar 2022**[^t-10]**
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -589,15 +695,15 @@ Geltungsbereich am 25. Februar 2015**[^t-5]**
 <tr><td colspan="2">Liechtenstein\*</td><td colspan="2">23. Dezember</td><td colspan="2">2003</td><td>22. März</td><td>2004</td></tr>
 <tr><td colspan="2">Litauen</td><td colspan="2">16. Juni</td><td colspan="2">2006</td><td>14. September</td><td>2006</td></tr>
 <tr><td colspan="2">Luxemburg\*</td><td colspan="2">1. Mai</td><td colspan="2">2000</td><td>23. Oktober</td><td>2003</td></tr>
-<tr><td colspan="2">Mazedonien</td><td colspan="2">1. November</td><td colspan="2">2010 B</td><td>30. Januar</td><td>2011</td></tr>
 <tr><td colspan="2">Moldau</td><td colspan="2">1. Oktober</td><td colspan="2">2002</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td colspan="2">Montenegro</td><td colspan="2">9. Februar</td><td colspan="2">2012 B</td><td>9. Mai</td><td>2012</td></tr>
 <tr><td colspan="2">Niederlande\* <sup>a</sup></td><td colspan="2">23. Juni</td><td colspan="2">2000</td><td>23. Oktober</td><td>2003</td></tr>
+<tr><td colspan="2">Nordmazedonien</td><td colspan="2">1. November</td><td colspan="2">2010 B</td><td>30. Januar</td><td>2011</td></tr>
 <tr><td colspan="2">Norwegen\*</td><td colspan="2">16. Dezember</td><td colspan="2">1999</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td colspan="2">Österreich\*</td><td colspan="2">27. August</td><td colspan="2">2002</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td colspan="2">Rumänien\*</td><td colspan="2">5. September</td><td colspan="2">2003</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td colspan="2">Schweden</td><td colspan="2">19. Januar</td><td colspan="2">2000</td><td>23. Oktober</td><td>2003</td></tr>
-<tr><td colspan="2">Schweiz</td><td colspan="2">14. November</td><td colspan="2">2000</td><td>23. Oktober</td><td>2003</td></tr>
+<tr><td colspan="2">Schweiz\*</td><td colspan="2">14. November</td><td colspan="2">2000</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td colspan="2">Serbien<sup>\*</sup></td><td colspan="2">26. März</td><td colspan="2">2012 B</td><td>24. Juni</td><td>2012</td></tr>
 <tr><td colspan="2">Slowakei\*</td><td colspan="2">30. Dezember</td><td colspan="2">2002</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td colspan="2">Slowenien</td><td colspan="2">15. November</td><td colspan="2">2005</td><td>13. Februar</td><td>2006</td></tr>
@@ -606,7 +712,13 @@ Geltungsbereich am 25. Februar 2015**[^t-5]**
 <tr><td colspan="2">Ungarn</td><td colspan="2">7. Januar</td><td colspan="2">2004</td><td>6. April</td><td>2004</td></tr>
 <tr><td colspan="2">Vereinigtes Königreich</td><td colspan="2">2. September</td><td colspan="2">2005</td><td>1. Dezember</td><td>2005</td></tr>
 <tr><td colspan="2">Zypern</td><td colspan="2">2. September</td><td colspan="2">2004</td><td>1. Dezember</td><td>2004</td></tr>
-<tr><td colspan="8"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="8"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-5]: [AS 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664), [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575), [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586), [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307)und [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/eda/vertraege).
+[^t-10]: [AS 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664); [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575); [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586); [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307); [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135); [2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://www.fedlex.admin.ch/de/treaty).
+
+Erklärung
+
+Schweiz
+
+Die Schweiz wird, gestützt auf Artikel 16 Absatz 3, zukünftige Änderungen des Protokolls wie bis anhin über das ordentliche Ratifikationsverfahren genehmigen.
