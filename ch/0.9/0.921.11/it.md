@@ -3,11 +3,11 @@ sr: "0.921.11"
 title: Accordo internazionale del 2006 sui legni tropicali del 27 gennaio 2006 (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/85"
 language: it
-version: 2021-12-07
+version: 2022-01-20
 adopted: 2006-01-27
 in_force: 2011-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20211207/it/xml/fedlex-data-admin-ch-eli-cc-2012-85-20211207-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20211207/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20220120/it/xml/fedlex-data-admin-ch-eli-cc-2012-85-20220120-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20220120/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Ginevra il 27 gennaio 2006 Approvato dall’Assemblea federale il 12 marzo 2007[^t-1] Ratificato dalla Svizzera con strumento depositato il 27 aprile 2007 Entrato in vigore per la Svizzera il 7 dicembre 2011
 
-(Stato 7 dicembre 2021)
+(Stato 20 gennaio 2022)
 
 [^t-1]: [RU 2012 549](https://fedlex.data.admin.ch/eli/oc/2012/84)
 
@@ -53,10 +53,10 @@ hanno convenuto quanto segue:
 
 [^ingress-1]: [[RU 1991 1827](https://fedlex.data.admin.ch/eli/oc/1991/1827_1827_1827)]
 [^ingress-2]: [[RU 1998 1206](https://fedlex.data.admin.ch/eli/oc/1998/1206_1206_1206)]
-[^ingress-3]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^ingress-4]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-5]: [RS 0.451.1](https://fedlex.data.admin.ch/eli/cc/2003/153)
-[^ingress-6]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-3]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-4]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^ingress-5]: [RS 0.451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1836)
+[^ingress-6]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Capitolo I: Obiettivi
 
@@ -843,7 +843,7 @@ Stati Uniti d’America\*
 
 - \* Membro dell’accordo internazionale del 1994 sui legni tropicali
 
-Campo d’applicazione il 25 gennaio 2018**[^t-2]**
+Campo d’applicazione il 20 gennaio 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -918,12 +918,9 @@ Campo d’applicazione il 25 gennaio 2018**[^t-2]**
 <tr><td>Trinidad e Tobago</td><td>5 novembre</td><td>2012 A</td><td>5 gennaio</td><td>2012</td></tr>
 <tr><td>Ungheria</td><td>28 marzo</td><td>2012</td><td>28 marzo</td><td>2012</td></tr>
 <tr><td>Unione europea\*</td><td>28 marzo</td><td>2012</td><td>28 marzo</td><td>2012</td></tr>
+<tr><td>Venezuela</td><td>10 ottobre</td><td>2018 A</td><td>10 ottobre</td><td>2018</td></tr>
 <tr><td>Vietnam</td><td>10 aprile</td><td>2014 A</td><td>10 aprile</td><td>2014</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> L’Acc. non vale per Hong Kong.</td></tr>
-<tr><td colspan="5"><sup>b</sup> L’Acc. non vale per le isole Faeroe e per la Groenlandia.</td></tr>
-<tr><td colspan="5"><sup>c</sup> L’Acc. non vale per Tokelau.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> L’Acc. non vale per Hong Kong. <sup>b</sup> L’Acc. non vale per le isole Faeroe e per la Groenlandia. <sup>c</sup> L’Acc. non vale per Tokelau. <sup>d</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85), [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296), [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734)e [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85); [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296); [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734), [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112); [2022 32](https://fedlex.data.admin.ch/eli/oc/2022/32). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).

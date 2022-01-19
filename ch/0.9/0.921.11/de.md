@@ -3,11 +3,11 @@ sr: "0.921.11"
 title: Internationales Tropenholz-Übereinkommen von 2006 vom 27. Januar 2006 (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/85"
 language: de
-version: 2021-12-07
+version: 2022-01-20
 adopted: 2006-01-27
 in_force: 2011-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20211207/de/xml/fedlex-data-admin-ch-eli-cc-2012-85-20211207-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20211207/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20220120/de/xml/fedlex-data-admin-ch-eli-cc-2012-85-20220120-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20220120/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 27. April 2007
 
 Für die Schweiz in Kraft getreten am 7. Dezember 2011
 
-(Stand am 7. Dezember 2021)
+(Stand am 20. Januar 2022)
 
 [^t-1]: [AS 2012 549](https://fedlex.data.admin.ch/eli/oc/2012/84)
 
@@ -59,10 +59,10 @@ sind wie folgt übereingekommen:
 
 [^ingress-1]: [[AS 1991 1827](https://fedlex.data.admin.ch/eli/oc/1991/1827_1827_1827)]
 [^ingress-2]: [[AS 1998 1206](https://fedlex.data.admin.ch/eli/oc/1998/1206_1206_1206)]
-[^ingress-3]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^ingress-4]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-5]: [SR 0.451.1](https://fedlex.data.admin.ch/eli/cc/2003/153)
-[^ingress-6]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-3]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-4]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^ingress-5]: [SR 0.451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1836)
+[^ingress-6]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Kapitel I: Zielsetzung
 
@@ -851,7 +851,7 @@ Vereinigte Staaten von Amerika\*
 
 - \* Mitglieder des Internationalen Tropenholz-Übereinkommens von 1994
 
-Geltungsbereich am 25. Januar 2018**[^t-2]**
+Geltungsbereich am 20. Januar 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -922,16 +922,13 @@ Geltungsbereich am 25. Januar 2018**[^t-2]**
 <tr><td>Trinidad und Tobago</td><td>5. November</td><td>2012 B</td><td>5. Januar</td><td>2012</td></tr>
 <tr><td>Tschechische Republik</td><td>17. Dezember</td><td>2009</td><td>7. Dezember</td><td>2011</td></tr>
 <tr><td>Ungarn</td><td>28. März</td><td>2012</td><td>28. März</td><td>2012</td></tr>
+<tr><td>Venezuela</td><td>10. Oktober</td><td>2018 B</td><td>10. Oktober</td><td>2018</td></tr>
 <tr><td>Vereinigte Staaten</td><td>27. April</td><td>2007 U</td><td>7. Dezember</td><td>2011</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>5. März</td><td>2009</td><td>7. Dezember</td><td>2011</td></tr>
 <tr><td>Vietnam</td><td>10. April</td><td>2014 B</td><td>10. April</td><td>2014</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>4. November</td><td>2014</td><td>4. November</td><td>2014</td></tr>
 <tr><td>Zypern</td><td>9. Juli</td><td>2010</td><td>7. Dezember</td><td>2011</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für Hong Kong.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Hong Kong. <sup>b</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>c</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>d</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85); [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296); [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734); [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85); [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296); [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734); [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112); [2022 32](https://fedlex.data.admin.ch/eli/oc/2022/32). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

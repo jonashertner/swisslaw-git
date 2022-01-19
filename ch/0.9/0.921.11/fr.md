@@ -3,11 +3,11 @@ sr: "0.921.11"
 title: "Accord international de 2006 sur les bois tropicaux, du 27 janvier 2006 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/85"
 language: fr
-version: 2021-12-07
+version: 2022-01-20
 adopted: 2006-01-27
 in_force: 2011-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20211207/fr/xml/fedlex-data-admin-ch-eli-cc-2012-85-20211207-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20211207/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20220120/fr/xml/fedlex-data-admin-ch-eli-cc-2012-85-20220120-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20220120/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 27 avril 2007
 
 Entré en vigueur pour la Suisse le 7 décembre 2011
 
-(Etat le 7 décembre 2021)
+(État le 20 janvier 2022)
 
 [^t-1]: [RO 2012 549](https://fedlex.data.admin.ch/eli/oc/2012/84)
 
@@ -59,10 +59,10 @@ sont convenues de ce qui suit:
 
 [^ingress-1]: [[RO 1991 1827](https://fedlex.data.admin.ch/eli/oc/1991/1827_1827_1827)]
 [^ingress-2]: [[RO 1998 1206](https://fedlex.data.admin.ch/eli/oc/1998/1206_1206_1206)]
-[^ingress-3]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^ingress-4]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-5]: [RS 0.451.1](https://fedlex.data.admin.ch/eli/cc/2003/153)
-[^ingress-6]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-3]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-4]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^ingress-5]: [RS 0.451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1836)
+[^ingress-6]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Chapitre I Objectifs
 
@@ -849,7 +849,7 @@ Suisse\*
 
 - \* Membre de l’Accord international de 1994 sur les bois tropicaux
 
-Champ d’application le 25 janvier 2018**[^t-2]**
+Champ d’application le 20 janvier 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -924,12 +924,9 @@ Champ d’application le 25 janvier 2018**[^t-2]**
 <tr><td>Thaïlande</td><td>1<sup>er</sup> septembre</td><td>2015 A</td><td>1<sup>er</sup> septembre</td><td>2015</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>5 novembre</td><td>2012 A</td><td>5 janvier</td><td>2012</td></tr>
 <tr><td>Union européenne\*</td><td>28 mars</td><td>2012</td><td>28 mars</td><td>2012</td></tr>
+<tr><td>Venezuela</td><td>10 octobre</td><td>2018 A</td><td>10 octobre</td><td>2018</td></tr>
 <tr><td>Vietnam</td><td>10 avril</td><td>2014 A</td><td>10 avril</td><td>2014</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> L’accord ne s’applique pas à Hong Kong.</td></tr>
-<tr><td colspan="5"><sup>b</sup> L’accord ne s’applique pas aux îles Féroé et à Groënland.</td></tr>
-<tr><td colspan="5"><sup>c</sup> L’accord ne s’applique pas aux Tokélaou.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’accord ne s’applique pas à Hong Kong. <sup>b</sup> L’accord ne s’applique pas aux îles Féroé et à Groënland. <sup>c</sup> L’accord ne s’applique pas aux Tokélaou. <sup>d</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85); [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296); [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734); [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-2]: [RO 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85); [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296); [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734); [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112); [2022 32](https://fedlex.data.admin.ch/eli/oc/2022/32). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
