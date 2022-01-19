@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2022-01-13
-valid_until: 2022-01-19
-version_adopted: 2022-01-12
+version: 2022-01-20
+valid_until: 2022-02-16
+version_adopted: 2022-01-19
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2516/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2516/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 13.01.2022)
+vom 04.11.2020 (Stand 20.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -173,7 +173,7 @@ beschliesst:
 
 - a für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind,
 - b für alle Personen in Situationen, in denen das Tragen einer Gesichtsmaske den Unterricht wesentlich erschwert, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind,
-- c für Schülerinnen und Schüler im Kindergarten.
+- c für Schülerinnen und Schüler im Kindergarten und im ersten bis vierten Schuljahr der Primarstufe.
 
 <sup>4</sup> Für den Nachweis medizinischer Gründe gemäss Absatz 3 Buchstabe a gilt Artikel 5 Absatz 1 Buchstabe b der Covid-19-Verordnung besondere Lage.
 
@@ -510,7 +510,11 @@ beschliesst:
 
 <sup>2b</sup> Artikel 6a gilt bis zum 31. Mai 2021.
 
-<sup>2c</sup> Die Artikel 3 bis 5, 8f, 12a und 12b, 16b1 bis 16h sowie 16k gelten bis zum 24. Januar 2022.
+<sup>2c</sup> Die Artikel 3 bis 5 gelten bis zum 24. Januar 2022.
+
+<sup>2c1</sup> Artikel 16e gilt bis zum 14. Februar 2022.
+
+<sup>2c2</sup> Die Artikel 8f, 12a und 12b, 16b1 bis 16h sowie 16k gelten bis zum 28. Februar 2022.
 
 <sup>2d</sup> …
 
@@ -519,6 +523,8 @@ beschliesst:
 <sup>2f</sup> …
 
 <sup>2g</sup> Artikel 12a1 gilt bis zum 30. April 2022.
+
+<sup>2h</sup> Artikel 12b gilt bis zum 31. März 2022.
 
 <sup>3–3a</sup> …
 
@@ -545,6 +551,14 @@ beschliesst:
 **Maskentragpflicht**
 
 <sup>1</sup> Die Änderung von Artikel 12a ist ab 20. September 2021 anwendbar.
+
+## T3 Übergangsbestimmung der Änderung vom 19.01.2022
+
+#### Art. T3-1
+
+**Maskentragpflicht**
+
+<sup>1</sup> Die Änderung von Artikel 12a Absatz 3 Buchstabe c ist ab 14. Februar 2022 anwendbar.
 
 Bern, 4. November 2020
 

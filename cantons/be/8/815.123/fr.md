@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2022-01-13
-valid_until: 2022-01-19
-version_adopted: 2022-01-12
+version: 2022-01-20
+valid_until: 2022-02-16
+version_adopted: 2022-01-19
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2516/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2520/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2516/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 13.01.2022)
+du 04.11.2020 (état au 20.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -173,7 +173,7 @@ arrête:
 
 - a les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales, pour autant que d’autres mesures de protection appropriées soient prises;
 - b toutes les personnes se trouvant dans une situation dans laquelle le port d'un masque facial entrave considérablement l’enseignement, pour autant que d’autres mesures de protection appropriées soient prises;
-- c les élèves de l’école enfantine.
+- c les élèves de l’école enfantine et les élèves des quatre premières années du degré primaire.
 
 <sup>4</sup> L'article 5, alinéa 1, lettre b de l'ordonnance COVID-19 situation particulière s'applique à l'attestation médicale au sens de l'alinéa 3, lettre a.
 
@@ -510,7 +510,11 @@ arrête:
 
 <sup>2b</sup> L'article 6a est valable jusqu'au 31 mai 2021.
 
-<sup>2c</sup> Les articles 3 à 5, 8f, 12a et 12b, 16b1 à 16h, ainsi que 16k sont valables jusqu'au 24 janvier 2022.
+<sup>2c</sup> Les articles 3 à 5 sont valables jusqu'au 24 janvier 2022.
+
+<sup>2c1</sup> L'article 16e est valable jusqu'au 14 février 2022.
+
+<sup>2c2</sup> Les articles 8f, 12a, 16b1 à 16d et 16e1 à 16h, ainsi que 16k sont valables jusqu'au 28 février 2022.
 
 <sup>2d</sup> …
 
@@ -519,6 +523,8 @@ arrête:
 <sup>2f</sup> …
 
 <sup>2g</sup> L'article 12a1 est valable jusqu'au 30 avril 2022.
+
+<sup>2h</sup> L'article 12b est valable jusqu'au 31 mars 2022.
 
 <sup>3–3a</sup> …
 
@@ -545,6 +551,14 @@ arrête:
 **Obligation de porter un masque**
 
 <sup>1</sup> La modification de l'article 12a est applicable à partir du 20 septembre 2021.
+
+## T3 Disposition transitoire de la modification du 19.01.2022
+
+#### Art. T3-1
+
+**Obligation de porter un masque**
+
+<sup>1</sup> La modification de l'article 12a, alinéa 3, lettre c est applicable à partir du 14 février 2022.
 
 Berne, le 4 novembre 2020
 
