@@ -1,24 +1,24 @@
 ---
 canton: SG
 number: "311.3"
-title: Gebührentarif für die Gesundheitspolizei
+title: Gebührentarif für die Gesundheitspolizei und die Zulassung zur obligatorischen Krankenpflegeversicherung
 short: GebTG
 language: de
-version: 2011-09-01
-valid_until: 2022-01-19
-version_adopted: 1993-05-25
+version: 2022-01-20
+valid_until: 2022-12-31
+version_adopted: 2022-01-18
 adopted: 1993-05-25
 in_force: 1993-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/311.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/872/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3318/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gebührentarif für die Gesundheitspolizei
+# Gebührentarif für die Gesundheitspolizei und die Zulassung zur obligatorischen Krankenpflegeversicherung
 
-vom 25.Mai 1993 (Stand 1.September 2011)
+vom 25.Mai 1993 (Stand 20. Januar 2022)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -34,7 +34,7 @@ Ziff.
 
 [^t-1]: sGS 951.1.
 [^t-2]: sGS 821.1.
-[^t-3]: nGS 28–45. In Vollzug ab 1.Juli 1993. Geändert durch Nachtrag vom 7.März 1995, nGS 30–37; Art.5 der V über die Lebensmittelkontrolle vom 29.Mai 1996, nGS 31–80 (sGS 315.11); II. Nachtrag vom 3.Juni 1997, nGS 32–55; Abschnitt II des III. Nachtrags zur Verordnung über die Ausübung von Berufen der Gesundheitspflege vom 30.August 2005, nGS 40–70 (sGS 312.1); Art.42 der Heilmittelverordnung vom 21.Juni 2011, nGS 46–93 (sGS 314.3); Art.28 der V über die Ausübung der medizinischen Berufe vom 21.Juni 2011, nGS 46–90 (sGS 312.0); Art.62 der V über die Ausübung von Berufen der Gesundheitspflege vom 21.Juni 2011, nGS 46–91 (sGS 312.1); Art.33 der V über den Betrieb privater Einrichtungen der Gesundheitspflege vom 21.Juni 2011, nGS 46–95 (sGS 325.11).
+[^t-3]: nGS 28–45. In Vollzug ab 1.Juli 1993. Geändert durch Nachtrag vom 7.März 1995, nGS 30–37; Art.5 der V über die Lebensmittelkontrolle vom 29.Mai 1996, nGS 31–80 (sGS 315.11); II. Nachtrag vom 3.Juni 1997, nGS 32–55; Abschnitt II des III. Nachtrags zur Verordnung über die Ausübung von Berufen der Gesundheitspflege vom 30.August 2005, nGS 40–70 (sGS 312.1); Art.42 der Heilmittelverordnung vom 21.Juni 2011, nGS 46–93 (sGS 314.3); Art.28 der V über die Ausübung der medizinischen Berufe vom 21.Juni 2011, nGS 46–90 (sGS 312.0); Art.62 der V über die Ausübung von Berufen der Gesundheitspflege vom 21.Juni 2011, nGS 46–91 (sGS 312.1); Art.33 der V über den Betrieb privater Einrichtungen der Gesundheitspflege vom 21.Juni 2011, nGS 46–95 (sGS 325.11); III. Nachtrag vom 18. Januar 2022, nGS 2022-006.
 [^t-4]: sGS 311.1.
 
 ### 0 Gesundheitsgesetz vom 28. Juni 1979
@@ -88,11 +88,18 @@ medizinischen Berufe vom 21. Juni 2011[^h1h0Gesundheitsgese-1]
 
 [^h1h0Gesundheitsgese-6]
 
-[^h2h1h0Gesundheitsge-1]: sGS 313.1.
+### 2<sup>bis</sup> <sup>20</sup> Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Kranken-
+
+versicherung vom 12. Dezember 1995[^h2supbissupsup-1]
+
+21<sup>bis</sup> <sup>22</sup> Zulassung als Leistungserbringer zulasten der obligatorischen Krankenpflegeversicherung (Art. 36 des Bundesgesetzes über die Krankenversicherung) 100.– bis 2000.–
+
+[^h2supbissupsup-1]: sGS 331.111.
+[^h2supbissupsup-2]: sGS 313.1.
 
 ### 3 Vollzugsverordnung zum eidgenössischen Epidemiengesetz vom 13. Mai 1986
 
-[^h2h1h0Gesundheitsge-1]
+[^h2supbissupsup-2]
 
 31 Verfügung des Kantonsarztes oder des Bezirksarztes (Art.2 und 3) … 100.– bis 500.–
 
@@ -123,11 +130,9 @@ medizinischen Berufe vom 21. Juni 2011[^h1h0Gesundheitsgese-1]
 
 57[^h5h4h3Vollzugsveror-7] Bewilligung zur Abgabe von Tierarzneimitteln in Zoo- und Imkerfachgeschäften (Art.31) … 200.– bis 500.–
 
-58[^h5h4h3Vollzugsveror-8] Bewilligung zumVersandhandel mit Arzneimitteln (Art.27 des Bundesgesetzes über Arzneimittel und Medizinprodukte [Heilmittelgesetz] vom 15.Dezember 2000[^h5h4h3Vollzugsveror-9] … 500.– bis 2500.–
+58[^h5h4h3Vollzugsveror-8] Bewilligung zumVersandhandel mit Arzneimitteln (Art.27 des Bundesgesetzes über Arzneimittel und Medizinprodukte [Heilmittelgesetz] vom 15.Dezember 2000[^h5h4h3Vollzugsveror-9] … 500.– bis 2500.– 59[^h5h4h3Vollzugsveror-10] übrige Inspektionen einschliesslich Protokoll und Korrespondenz, je Inspektor und Stunde …
 
 **150.–**
-
-59[^h5h4h3Vollzugsveror-10] übrige Inspektionen einschliesslich Protokoll und Korrespondenz, je Inspektor und Stunde …
 
 [^h5h4h3Vollzugsveror-1]: Geändert durch Heilmittelverordnung.
 [^h5h4h3Vollzugsveror-2]: Geändert durch Heilmittelverordnung.
@@ -149,15 +154,11 @@ medizinischen Berufe vom 21. Juni 2011[^h1h0Gesundheitsgese-1]
 62 Besondere Verfügungen und Kontrollen … 75.– bis 650.–
 
 [^h6Vollzugsverordnung-1]: sGS 314.5.
-[^h6Vollzugsverordnung-2]: nGS 19–106; gegenstandslos geworden durch Art.31 GWG, sGS 553.1.
+[^h6Vollzugsverordnung-2]: Aufgehoben durch III. Nachtrag.
 
-### 7 Gastwirtschaftsgesetz vom 1. Dezember 1983
+### 7
 
 [^h6Vollzugsverordnung-2]
-
-71[^h7h6Vollzugsverordn-1] Prüfung und Begutachtung von Wirtschaftsräumlichkeiten
-
-[^h7h6Vollzugsverordn-1]: nGS 19–106; gegenstandslos geworden durch Art.31 GWG, sGS 553.1.
 
 ### Schlussbestimmungen
 
@@ -166,3 +167,8 @@ Der Gebührentarif für die Gesundheitspolizei vom 25.Januar 1983[^hSchlussbesti
 Dieser Tarif wird ab 1.Juli 1993 angewendet.
 
 [^hSchlussbestimmungen-1]: nGS 18–14 (sGS 311.3).
+
+## Weitere Fussnoten
+
+- [20] Eingefügt durch III. Nachtrag.
+- [22] Eingefügt durch III. Nachtrag.
