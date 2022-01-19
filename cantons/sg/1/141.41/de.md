@@ -4,13 +4,13 @@ number: "141.41"
 title: Ermächtigungsverordnung
 short: ErmV
 language: de
-version: 2022-01-01
-valid_until: 2022-01-19
-version_adopted: 2021-11-09
+version: 2022-01-20
+valid_until: 2022-08-31
+version_adopted: 2022-01-18
 adopted: 2011-01-04
 in_force: 2011-02-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.41"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3296/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3296/pdf_file"
 
 (ErmV)
 
-vom 04.01.2011 (Stand 01.01.2022)
+vom 04.01.2011 (Stand 20.01.2022)
 
 Die Regierung des Kantons St.Gallen
 
