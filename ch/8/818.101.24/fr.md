@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2022-01-01
+version: 2022-01-21
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220121/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220121-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220121/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220101/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 juin 2020 (Etat le 21 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -861,7 +861,7 @@ Annexe 4*[^t-5]*
 
 ## Liste des médicaments, dispositifs médicaux et équipements de protection importants (biens médicaux importants)
 
-[^t-5]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 6 oct. 2020 (Liste des biens médicaux importants et liste des substances actives pour le traitement du COVID-19) ([RO 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Mise à jour par le ch. II al. 1 de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), le ch. I al. 1 de l’O du DFI du 14 avr. 2021 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19) ([RO 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)), le ch. II de l’O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et le ch. I de l’O du DFI du 17 août 2021 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19), en vigueur depuis le 25 août 2021 ([RO 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)).
+[^t-5]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 6 oct. 2020 (Liste des biens médicaux importants et liste des substances actives pour le traitement du COVID-19) ([RO 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Mise à jour par le ch. II al. 1 de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), le ch. I al. 1 de l’O du DFI du 14 avr. 2021 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19) ([RO 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)), le ch. II de l’O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), le ch. I de l’O du DFI du 17 août 2021 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19) ([RO 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)) et le ch. I al. 1 de l’O du DFI du 19 janv. 2022 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19), en vigueur depuis le 21 janv. 2022 ([RO 2022 23](https://fedlex.data.admin.ch/eli/oc/2022/23)).
 
 ### 1. Substances actives et médicaments contenant les substances actives mentionnées
 
@@ -954,7 +954,7 @@ Annexe 4*[^t-5]*
 - 44\. Gaz médicaux
 - [tab] 45. Casirivimab/imdévimab
 
-\46. Bamlanivimab/étésevimab
+\46. Nirmatrelvir/ritonavir
 
 - 47\. Oxygène médical
 
@@ -1015,11 +1015,9 @@ Annexe 5*[^t-6]*
 
 ## Liste des substances actives pour le traitement du COVID-19
 
-[^t-6]: Nouvelle teneur selon le ch. I al. 2 de l’O du DFI du 14 avr. 2021 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19) ([RO 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)). Mise à jour par le ch. I de l’O du DFI du 17 août 2021 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19), en vigueur depuis le 25 août 2021 ([RO 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)).
+[^t-6]: Nouvelle teneur selon le ch. I al. 2 de l’O du DFI du 19 janv. 2022 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19), en vigueur depuis le 21 janv. 2022 ([RO 2022 23](https://fedlex.data.admin.ch/eli/oc/2022/23)).
 
-- 1\. Casirivimab/imdévimab
-- 2\. Bamlanivimab/étésevimab
-- 3\. Sotrovimab
+- 1\. Nirmatrelvir/ritonavir
 
 Annexe 5a*[^t-7]*
 

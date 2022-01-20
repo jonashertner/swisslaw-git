@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2022-01-01
+version: 2022-01-21
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220121/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220121-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220121/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220101/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. Januar 2022)
+vom 19. Juni 2020 (Stand am 21. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -861,7 +861,7 @@ Anhang 4*[^t-5]*
 
 ## Liste der wichtigen Arzneimittel, Medizinprodukte und Schutzausrüstungen (wichtige medizinische Güter)
 
-[^t-5]: Fassung gemäss Ziff. I der V des BAG vom 6. Okt. 2020 (Liste der wichtigen medizinischen Güter und Liste der Wirkstoffe zur Behandlung von Covid-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), Ziff. I Abs. 1 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19) ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)), Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) und Ziff. I der V des EDI vom 17. Aug. 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19), in Kraft seit 25. Aug. 2021 ([AS 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)).
+[^t-5]: Fassung gemäss Ziff. I der V des BAG vom 6. Okt. 2020 (Liste der wichtigen medizinischen Güter und Liste der Wirkstoffe zur Behandlung von Covid-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), Ziff. I Abs. 1 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19) ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)), Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), Ziff. I der V des EDI vom 17. Aug. 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19) ([AS 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)) und Ziff. I Abs. 1 der V des EDI vom 19. Jan. 2022 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19), in Kraft seit 21. Jan. 2022 ([AS 2022 23](https://fedlex.data.admin.ch/eli/oc/2022/23)).
 
 ### 1. Wirkstoffe sowie Arzneimittel mit den aufgeführten Wirkstoffen
 
@@ -910,7 +910,7 @@ Anhang 4*[^t-5]*
 - 43\. Impfstoff gegen bakterielle Pneumonie (Prevenar 13)
 - 44\. Medizinalgase
 - 45\. Casirivimab/Imdevimab
-- 46\. Bamlanivimab/Etesevimab
+- 46\. Nirmatrelvir/Ritonavir
 - 47\. Medizinischer Sauerstoff
 - 48\. Infusionslösungen
 - 49\. Sotrovimab
@@ -960,11 +960,10 @@ Anhang 5*[^t-6]*
 
 ## Liste der Wirkstoffe für die Behandlung von Covid-19
 
-[^t-6]: Fassung gemäss gemäss Ziff. I Abs. 2 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19) ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)). Bereinigt gemäss Ziff. I der V des EDI vom 17. Aug. 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19), in Kraft seit 25. Aug. 2021 ([AS 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)).
+[^t-6]: Fassung gemäss Ziff. I Abs. 2 der V des EDI vom 19. Jan. 2022 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19), in Kraft seit 21. Jan. 2022 ([AS 2022 23](https://fedlex.data.admin.ch/eli/oc/2022/23)).
 
-- 1\. Casirivimab/Imdevimab
-- 2\. Bamlanivimab/Etesevimab
-- 3\. Sotrovimab
+- 1\. Nirmatrelvir/Ritonavir
+- [tab]
 
 Anhang 5a*[^t-7]*
 
