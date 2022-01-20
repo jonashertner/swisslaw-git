@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: Ordinanza del 24 giugno 2020 che istituisce provvedimenti nei confronti del Nicaragua
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: it
-version: 2022-01-01
+version: 2022-01-21
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-470-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20220121/it/xml/fedlex-data-admin-ch-eli-cc-2020-470-20220121-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20220121/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Nicaragua
 
-del 24 giugno 2020 (Stato 1° gennaio 2022)
+del 24 giugno 2020 (Stato 21 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -146,5 +146,5 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. I dell’O del DEFR del 12 ago. 2021, in vigore dal 13 ago. 2021 ([RU 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)).
-[^annexu1-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’allegato presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-1]: Aggiornato dai n. I delle O del DEFR del 12 ago. 2021 ([RU 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)) e 20 gen. 2022, in vigore dal 21 gen. 2022 ([RU 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)).
+[^annexu1-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
