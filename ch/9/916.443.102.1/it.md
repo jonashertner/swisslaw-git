@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: "Ordinanza dell’USAV del 15 ottobre 2021 che istituisce provvedimenti per evitare l’introduzione dell’influenza aviaria da taluni Stati membri dell’Unione europea e dall'Irlanda nel Nord"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: it
-version: 2021-12-21
+version: 2022-01-21
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20211221/it/xml/fedlex-data-admin-ch-eli-cc-2021-615-20211221-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20211221/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220121/it/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220121-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220121/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti per evitare l’introduzione dell’influenza aviaria da taluni Stati membri dell’Unione europea e dall’Irlanda del Nord****
 
-del 15 ottobre 2021 (Stato 21 dicembre 2021)[^t-1]
+del 15 ottobre 2021 (Stato 21 gennaio 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 16 dic. 2021, in vigore dal 21 dic. 2021 ([RU 2021 889](https://fedlex.data.admin.ch/eli/oc/2021/889)).
 
@@ -49,11 +49,13 @@ L’importazione di pollame vivo e pulcini di un giorno dalle zone soggette a re
 
 L’importazione di uova da consumo, di trasformazione e da cova dalle zone soggette a restrizioni stabilite nell’allegato è vietata.
 
-**Art. 4** Importazione di prodotti ottenuti da uova di trasformazione
+#### Art. 4
 
-È autorizzata l’importazione di prodotti ottenuti da uova di trasformazione dalle zone soggette a restrizioni stabilite nellʼallegato se le uova sono sottoposte a un trattamento termico ai sensi dell’allegato VII del regolamento delegato (UE) 2020/687[^3-1] che elimina l’agente patogeno dell’influenza aviaria
+**Importazione di prodotti ottenuti da uova di trasformazione**
 
-[^3-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2.
+È autorizzata l’importazione di prodotti ottenuti da uova di trasformazione dalle zone soggette a restrizioni stabilite nellʼallegato se le uova sono sottoposte a un trattamento termico ai sensi dell’allegato VII del regolamento delegato (UE) 2020/687[^4-1] che elimina l’agente patogeno dell’influenza aviaria
+
+[^4-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 2.
 
 #### Art. 5
 
@@ -85,11 +87,11 @@ La presente ordinanza entra in vigore il 19 ottobre 2021.
 
 Allegato*[^t-2]*
 
-(art. 1, 2 cpv. 1 nonché 3–5)
+(art. 1, 2 cpv. 1 nonché art. 3–5)
 
 ## Territori interessati e zone soggette a restrizioni
 
-[^t-2]: Nuovo testo giusta il n. II dell’O dell’USAV del 16 dic. 2021, in vigore dal 21 dic. 2021 ([RU 2021 889](https://fedlex.data.admin.ch/eli/oc/2021/889)).
+[^t-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 20 gen. 2022, in vigore dal 21 gen. 2022 ([RU 2022 24](https://fedlex.data.admin.ch/eli/oc/2022/24)).
 
 ### 1 Zone soggette a restrizioni negli Stati membri dell’UE interessati e in Irlanda del Nord
 
@@ -97,20 +99,16 @@ Gli Stati membri dell’UE interessati nonché le zone soggette a restrizioni ne
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2021/641</td><td>Decisione di esecuzione (UE) 2021/641 della Commissione, del 16 aprile 2021, relativa a misure di emergenza in relazione a focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 134 del 20.4.2021, pag. 166; modificata da ultimo dalla decisione di esecuzione (UE) 2021/2186, GU L 444 del 10.12.2021, pag. 110.</td></tr>
+<tr><td>Decisione di esecuzione (UE) 2021/641</td><td>Decisione di esecuzione (UE) 2021/641 della Commissione, del 16 aprile 2021, relativa a misure di emergenza in relazione a focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 134 del 20.4.2021, pag. 166; modificata da ultimo dalla decisione di esecuzione (UE) 2022/53, GU L 9 del 14.1.2022, pag. 44.</td></tr>
 </table>
 
 ### 2 Stati membri dell’UE interessati e Irlanda del Nord
 
 In Irlanda del Nord e nei seguenti Stati membri dell’UE vi sono zone soggette a restrizioni:
 
-Austria
-
 Belgio
 
 Bulgaria
-
-Croazia
 
 Danimarca
 
@@ -131,5 +129,9 @@ Portogallo
 Repubblica Ceca
 
 Slovacchia
+
+Slovenia
+
+Svezia
 
 Ungheria
