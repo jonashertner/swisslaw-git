@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre la pandémie de COVID-19 dans le domaine du transport international de voyageurs (Ordonnance COVID-19 transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: fr
-version: 2021-12-20
+version: 2022-01-22
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20211220/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20211220-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211220/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220122/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220122-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20211220/fr"
 
 (Ordonnance COVID-19 transport international de voyageurs)**[^t-1]**
 
-du 23 juin 2021 (Etat le 20 décembre 2021)
+du 23 juin 2021 (Etat le 22 janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -72,27 +72,24 @@ Est déterminante pour la classification d’un État ou d’une zone avec un va
 
 #### Art. 3
 
-**Personnes tenues d’enregistrer leurs coordonnées**
+**Personnes tenues d’enregistrer leurs coordonnées**[^3-1]
 
-<sup>1</sup> Toutes les personnes entrant en Suisse sont tenues d’enregistrer leurs coordonnées au sens de l’art. 49 de l’ordonnance du 29 avril 2015 sur les épidémies[^3-1] (coordonnées) et, si nécessaire, leurs données de santé.[^3-2]
+<sup>1</sup>
+
+Sont tenues d’enregistrer leurs coordonnées au sens de l’art. 49 de l’ordonnance du 29 avril 2015 sur les épidémies[^3-2] (coordonnées) et, si nécessaire, leurs données de santé les personnes:
+
+- a. entrant en Suisse en provenance d’un État ou d’une zone figurant dans l’annexe 1;
+- b. entrant en Suisse avec une entreprise de transport par avion ou de transport par autobus proposant des voyages longue distance.
 
 <sup>2</sup>
 
-Sont exemptées de cette obligation les personnes:[^3-3]
+Sont exemptées de cette obligation les personnes:
 
 - a. qui transportent des voyageurs ou des biens dans le cadre de leur activité professionnelle en traversant la frontière;
-- b. qui traversent la Suisse sans faire de halte;
-- c.[^3-4] entrant en Suisse en tant que frontaliers;
-- d.[^3-5] entrant en Suisse en provenance de zones mentionnées à l’annexe 1*a*.
+- b. qui traversent la Suisse sans faire de halte.
 
-<sup>3</sup> Lors de l’entrée en Suisse avec une entreprise de transport aérien ou de transport par autobus proposant des voyages longue distance, les exceptions prévues à l’al. 2, let. c et d, ne s’appliquent pas.[^3-6]
-
-[^3-1]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^3-3]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^3-4]: Introduite par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^3-5]: Introduite par le ch. I de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^3-6]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^3-2]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 
 #### Art. 4
 
@@ -115,23 +112,25 @@ Les personnes visées à l’art. 3 doivent enregistrer leurs coordonnées comme
 
 **Obligations des entreprises de transport de personnes**
 
-<sup>1</sup> Les entreprises de transport par rail, par bus, par bateau ou par avion qui transportent des personnes au sens de l’art. 3 dans le cadre du transport international veillent à ce que les personnes entrant dans le pays enregistrent leurs coordonnées conformément à l’art. 4, al. 1.
+<sup>1</sup> Les entreprises de transport par bus ou par avion qui transportent des personnes au sens de l’art. 3 dans le cadre du transport international veillent à ce que les personnes entrant dans le pays enregistrent leurs coordonnées conformément à l’art. 4, al. 1.[^5-1]
 
 <sup>2</sup> Elles mettent à la disposition de l’OFSP, sur demande et dans les 24 heures, les coordonnées visées à l’art. 4, al. 1, let. b.
 
 <sup>3</sup> Elles conservent ces coordonnées pendant 14 jours et les détruisent ensuite.
 
-<sup>4</sup> Sur demande, elles fournissent à l’OFSP, dans les 48 heures, les listes de tous les voyages transfrontaliers en train, en bus, en bateau ou en avion prévus pour le mois suivant.
+<sup>4</sup> Sur demande, elles fournissent à l’OFSP, dans les 48 heures, les listes de tous les voyages transfrontaliers en bus ou en avion prévus pour le mois suivant.[^5-2]
 
-<sup>5</sup> Elles transmettent les coordonnées visées à l’art. 4, al. 1, let. b, et les listes visées à l’al. 4 via la plateforme mise à leur disposition par l’OFSP [^5-1].
+<sup>5</sup> Elles transmettent les coordonnées visées à l’art. 4, al. 1, let. b, et les listes visées à l’al. 4 via la plateforme mise à leur disposition par l’OFSP [^5-3].
 
-[^5-1]: La plateforme pour les entreprises de transport de personnes est accessible à l’adresse https://swissplf.admin.ch
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^5-3]: La plateforme pour les entreprises de transport de personnes est accessible à l’adresse https://swissplf.admin.ch
 
 #### Art. 6
 
 **Tâches de l’OFSP et des cantons**
 
-<sup>1</sup> L’OFSP veille à ce que les coordonnées pour l’exécution des dispositions concernant l’obligation de test au sens de l’art. 8 et de la quarantaine au sens de l’art. 9 soient traitées et transmises sans délai aux cantons compétents pour les personnes entrant dans le pays.[^6-1]
+<sup>1</sup> L’OFSP veille à ce que les coordonnées pour l’exécution de la quarantaine au sens de l’art. 9 soient traitées et transmises sans délai aux cantons compétents pour les personnes entrant dans le pays.[^6-1]
 
 <sup>2</sup>
 
@@ -147,7 +146,7 @@ Dès qu’il a connaissance de l’entrée d’une personne infectée par le SAR
 
 <sup>5</sup> Les cantons détruisent les données un mois après les avoir reçues de l’OFSP ou de tiers.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
 ## Section 4**** Obligation de test avant le départ
 
@@ -171,17 +170,19 @@ Elles peuvent transporter les passagers suivants en l’absence d’un résultat
 - b. les personnes munies d’une attestation médicale prouvant qu’elles doivent être transportées d’urgence en Suisse pour des raisons médicales;
 - c.[^7-3] les personnes en provenance d’États ou de zones qui ne figurent pas dans l’annexe 1, ch. 1, qui transitent par un aéroport suisse et ne le quittent pas avant de poursuivre leur voyage;
 - c<sup>bis</sup>.[^7-4] les personnes qui traversent la Suisse avec une compagnie de bus sans quitter le bus;
-- d.et e.[^7-5] ...
+- d.[^7-5] les personnes qui arrivent d’États ou de zones qui ne figurent pas dans l’annexe 1, ch. 1, et peuvent fournir la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 2 détermine les personnes considérées comme vaccinées, la durée pour laquelle la vaccination est valable et les types de preuves autorisés;
+- e.[^7-6] les personnes qui arrivent d’États ou de zones qui ne figurent pas l’annexe 1, ch. 1, et qui peuvent fournir la preuve qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries; l’annexe 2 détermine la durée de la dérogation et les types de preuves autorisés;
 - f. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas se soumettre à un test SARS-CoV-2.
 
-<sup>5</sup> Lors de l’entrée depuis un État ou d’une zone au sens de l’annexe 1, ch. 1, les personnes dès 6 ans doivent également pouvoir présenter un résultat de test négatif.[^7-6]
+<sup>5</sup> Lors de l’entrée depuis un État ou d’une zone au sens de l’annexe 1, ch. 1, les personnes dès 6 ans doivent également pouvoir présenter un résultat de test négatif.[^7-7]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^7-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^7-5]: Abrogées par le ch. I de l’O du 3 déc. 2021, avec effet au 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^7-6]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^7-5]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^7-6]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^7-7]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 ## Section 5 Obligation de test, de quarantaine et de déclaration pour les personnes entrant en Suisse
 
@@ -199,11 +200,11 @@ Les personnes qui ne peuvent pas présenter de résultat de test négatif au sen
 - b.[^8-4] par un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^8-5], à moins qu’il se base sur un prélèvement d’échantillon provenant uniquement de la cavité nasale ou d’un test salivaire, ou
 - c.[^8-6] par une analyse immunologique en laboratoire des antigènes du SARS-CoV-2 visée à l’art. 19, al. 1, let. c, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^8-7].
 
-<sup>2bis</sup> Les personnes visées aux al. 1 et 2 doivent également se soumettre à un test entre le 4<sup>e</sup> et le 7<sup>e</sup> jour qui suit leur arrivée. L’annexe 2*a* détermine les exigences applicables aux tests et aux résultats de test.[^8-8]
+<sup>2bis</sup> ...[^8-8]
 
-<sup>3</sup> Les personnes testées négatives lors du dépistage effectué entre le 4<sup>e</sup> et le 7<sup>e</sup> jour qui suit leur arrivée doivent présenter au canton le certificat de test COVID-19 prévu par l’ordonnance COVID-19 du 4 juin 2021 certificats[^8-9]. Les personnes testées positives doivent déclarer le résultat du test au canton.[^8-10]
+<sup>3</sup> ...[^8-9]
 
-<sup>4</sup> Lors de l’entrée depuis un État ou une zone au sens de l’annexe 1, ch. 1, l’al. 1 s’applique également aux personnes dès 6 ans.[^8-11]
+<sup>4</sup> Lors de l’entrée depuis un État ou une zone au sens de l’annexe 1, ch. 1, l’al. 1 s’applique également aux personnes dès 6 ans.[^8-10]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
@@ -212,10 +213,9 @@ Les personnes qui ne peuvent pas présenter de résultat de test négatif au sen
 [^8-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^8-6]: Introduite par l’annexe ch. 2 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 [^8-7]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^8-8]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-9]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^8-10]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^8-11]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-8]: Introduit par le ch. I de l’O du 3 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)). Abrogé par le ch. I de l’O du 19 janv. 2022, avec effet au 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^8-9]: Abrogé par le ch. I de l’O du 19 janv. 2022, avec effet au 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^8-10]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 
 #### Art. 9
 
@@ -250,7 +250,8 @@ Sont exemptées de l’obligation de test prévue à l’art. 8 et de l’obliga
 - b. qui, dans le cadre de leur activité professionnelle, transportent des voyageurs ou des biens en traversant la frontière;
 - c.[^9a-3] ...
 - d. qui traversent la Suisse sans faire de halte;
-- e. et f.[^9a-4] ...
+- e.[^9a-4] qui arrivent d’États ou de zones qui ne figurent pas dans l’annexe 1, ch. 1, et peuvent fournir la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 2 détermine les personnes considérées comme vaccinées, la durée pour laquelle la vaccination est valable et les types de preuves autorisés;
+- f.[^9a-5] qui arrivent d’États ou de zones qui ne figurent pas l’annexe 1, ch. 1, et qui peuvent fournir la preuve qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries; l’annexe 2 détermine la durée de la dérogation et les types de preuves autorisés;
 - g. dont l’entrée en Suisse ne peut être différée pour des raisons médicales importantes;
 - h. qui entrent en tant que frontaliers.
 
@@ -258,18 +259,13 @@ Sont exemptées de l’obligation de test prévue à l’art. 8 et de l’obliga
 
 Sont en outre exemptées de l’obligation de test visée à l’art. 8:
 
-- a.[^9a-5] les personnes de moins de 16 ans; sauf si elles arrivent d’un État ou d’une zone au sens de l’annexe 1, ch. 1;
+- a.[^9a-6] les personnes de moins de 16 ans; sauf si elles arrivent d’un État ou d’une zone au sens de l’annexe 1, ch. 1;
 - b. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas se soumettre à un test SARS-CoV-2;
-- c.[^9a-6] les personnes en provenance de zones mentionnées à l’annexe 1*a*, pour autant que l’État ou la zone en question ne figure pas à l’annexe 1, ch. 1;
-- d.[^9a-7] les personnes dont l’activité en Suisse est absolument nécessaire au maintien du fonctionnement des bénéficiaires institutionnels au sens de l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte[^9a-8] et qui peuvent le prouver par une attestation du Département fédéral des affaires étrangères (DFAE);
-- e.[^9a-9] les personnes dont l’activité en Suisse est absolument nécessaire au maintien des relations diplomatiques et consulaires de la Suisse et qui peuvent le prouver par une attestation du DFAE.
+- c.[^9a-7] les personnes en provenance de zones mentionnées à l’annexe 1*a*, pour autant que l’État ou la zone en question ne figure pas à l’annexe 1, ch. 1;
+- d.[^9a-8] les personnes dont l’activité en Suisse est absolument nécessaire au maintien du fonctionnement des bénéficiaires institutionnels au sens de l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte[^9a-9] et qui peuvent le prouver par une attestation du Département fédéral des affaires étrangères (DFAE);
+- e.[^9a-10] les personnes dont l’activité en Suisse est absolument nécessaire au maintien des relations diplomatiques et consulaires de la Suisse et qui peuvent le prouver par une attestation du DFAE.
 
-<sup>2bis</sup>
-
-Sont exemptées de l’obligation de test prévue à l’art. 8, al. 2<sup>bis</sup>:
-
-- a. les personnes qui arrivent d’États ou de zones qui ne figurent pas dans l’annexe 1, ch. 1, et peuvent fournir la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 2 détermine les personnes considérées comme vaccinées, la durée pour laquelle la vaccination est valable et les types de preuves autorisés;
-- b. les personnes qui arrivent d’États ou de zones qui ne figurent pas l’annexe 1, ch. 1, et qui peuvent fournir la preuve qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries; l’annexe 2 détermine la durée de la dérogation et les types de preuves autorisés.[^9a-10]
+<sup>2bis</sup> ...[^9a-11]
 
 <sup>2ter</sup>
 
@@ -287,42 +283,34 @@ Sont exemptées de l’obligation de quarantaine prévue à l’art. 9 les perso
 - b. qui ont séjourné dans un État ou une zone au sens de l’annexe 1 pendant moins de 24 heures en tant que passagers en transit;
 - c. qui reviennent en Suisse après avoir participé à une manifestation dans un État ou une zone au sens de l’annexe 1, ch. 1, si elles peuvent fournir la preuve que la participation et le séjour se sont déroulés dans le respect d’un plan de protection spécifique; la participation à titre professionnel à une compétition sportive, à une manifestation culturelle ou à un congrès spécialisé est considérée comme une participation à une manifestation;
 - d. qui arrivent en Suisse d’un État ou d’une zone au sens de l’annexe 1 pour participer à une manifestation en Suisse; la participation à titre professionnel à une compétition sportive, à une manifestation culturelle ou à un congrès spécialisé est considérée comme une participation à une manifestation;
-- e. qui arrivent d’États ou de zones qui ne figurent pas dans l’annexe 1, ch. 1, et peuvent fournir la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 2 détermine les personnes considérées comme vaccinées, la durée pour laquelle la vaccination est valable et les types de preuves autorisés;
-- f. qui arrivent d’États ou de zones qui ne figurent pas dans l’annexe 1, ch. 1, et qui peuvent fournir la preuve qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries; l’annexe 2 détermine la durée de la dérogation et les types de preuve autorisés.[^9a-11]
+- e. et f.[^9a-12] ... .[^9a-13]
 
-<sup>3</sup> Les exemptions visées aux al. 1 à 2<sup>ter</sup> ne s’appliquent pas aux personnes qui présentent des symptômes du COVID‑19 à moins que celles-ci puissent prouver, attestation médicale à l’appui, que les symptômes peuvent être attribués à une autre cause.[^9a-12]
+<sup>3</sup> Les exemptions visées aux al. 1 à 2<sup>ter</sup> ne s’appliquent pas aux personnes qui présentent des symptômes du COVID‑19 à moins que celles-ci puissent prouver, attestation médicale à l’appui, que les symptômes peuvent être attribués à une autre cause.[^9a-14]
 
 <sup>4</sup> Dans des cas fondés, l’autorité cantonale compétente peut autoriser d’autres dérogations à l’obligation de test et de quarantaine ou accorder des allégements.
 
 [^9a-1]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^9a-2]: Abrogée par le ch. I de l’O du 1<sup>er</sup> oct. 2021, avec effet au 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 [^9a-3]: Abrogée par le ch. I de l’O du 3 déc. 2021, avec effet au 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^9a-4]: Abrogées par le ch. I de l’O du 3 déc. 2021, avec effet au 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^9a-5]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^9a-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^9a-7]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^9a-8]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^9a-9]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^9a-10]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
-[^9a-11]: Anciennement art. 2<sup>bis</sup>. Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^9a-12]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^9a-4]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^9a-5]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^9a-6]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9a-7]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-8]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-9]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^9a-10]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^9a-11]: Introduit par le ch. I de l’O du 17 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)). Abrogé par le ch. I de l’O du 19 janv. 2022, avec effet au 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^9a-12]: Abrogées par le ch. I de l’O du 19 janv. 2022, avec effet au 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^9a-13]: Anciennement al. 2<sup>bis</sup>. Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9a-14]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
 
 #### Art. 10
 
-**Obligations de déclaration**[^10-1]
+**Obligation de déclaration**[^10-1]
 
-<sup>1</sup>
+Toute personne obligée de se mettre en quarantaine-voyage en vertu de l’art. 9 doit déclarer son entrée en Suisse à l’autorité cantonale compétente dans un délai de 2 jours et suivre ses instructions.
 
-Toute personne assujettie à l’obligation de test visée à l’art. 8, al. 3, doit présenter le certificat de test COVID-19 prévu par l’ordonnance COVID-19 du 4 juin 2021 certificats[^10-2] ou le résultat de test positif à l’autorité cantonale compétente dans un délai de 2 jours et:[^10-3]
-
-- a. lui communiquer le numéro du formulaire d’entrée en Suisse visé à l’art. 4, al. 1, let. a, ou
-- b. lui présenter une copie de la carte de contact visée à l’art. 4, al. 1, let. b.
-
-<sup>2</sup> Toute personne obligée de se mettre en quarantaine-voyage en vertu de l’art. 9 doit déclarer son entrée en Suisse à l’autorité cantonale compétente dans un délai de 2 jours et suivre ses instructions.
-
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^10-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^10-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
 ## Section 6 Contrôles et signalements****
 
@@ -351,21 +339,20 @@ Les autorités chargées de contrôles à la frontière peuvent effectuer des co
 
 #### Art. 11a
 
-**Cantons**[^11a-1]
+[^11a-1]
 
-Les cantons peuvent vérifier l’existence d’un résultat de test conformément à l’art. 8, al. 3.
-
-[^11a-1]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^11a-1]: Introduit par le ch. I de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Abrogé par le ch. I de l’O du 19 janv. 2022, avec effet au 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
 #### Art. 11b
 
 **Obligation de contrôle des particuliers**[^11b-1]
 
-<sup>1</sup> Toute personne qui accueille à titre professionnel des individus qui séjournent en Suisse pour des raisons touristiques ou professionnelles doit vérifier l’existence d’un résultat de test négatif au sens de l’art. 8, al. 1, 2<sup>bis</sup> et 4.
+<sup>1</sup> Toute personne qui accueille à titre professionnel des personnes qui séjournent en Suisse pour des raisons touristiques ou professionnelles doit vérifier l’existence d’un résultat de test négatif au sens de l’art. 8, al. 1 et 4.[^11b-2]
 
 <sup>2</sup> Les personnes qui ne peuvent pas présenter un résultat de test négatif doivent être annoncées aux autorités cantonales compétentes.
 
 [^11b-1]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^11b-2]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
 ## Section 7 Actualisation des annexes
 
