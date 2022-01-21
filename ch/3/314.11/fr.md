@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2022-01-01
+version: 2022-01-22
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220122/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220122-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220101/fr"
 
 (OAO)
 
-du 16 janvier 2019 (Etat le 1<sup>er</sup> janvier 2022)
+du 16 janvier 2019 (Etat le 22 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -595,7 +595,7 @@ Annexe 2*[^t-2]*
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe 3 ch. 1 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), le ch. III de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. III des O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)), du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)) et du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. III de l’O du du 17 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)) et le ch. II de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -735,8 +735,6 @@ Annexe 2*[^t-2]*
 <tr><td>**XVII.** **Loi du 28 septembre 2012 sur les épidémies (LEp) , en relation avec l’ordonnance COVID-19 du 23 juin 2021 transport international de voyageurs**</td><td>[tab]</td></tr>
 <tr><td>17001. Ne pas fournir la preuve d’un résultat négatif à une analyse de biologie moléculaire pour le SARS-CoV-2 ou à un test rapide SARS-CoV-2 avec application par un professionnel lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp, en relation avec l’art. 8, al. 1 et 4, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>200</td></tr>
 <tr><td>17002. Fournir des coordonnées incomplètes ou erronées lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp et 3, al. 1, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>100</td></tr>
-<tr><td>17003. Ne pas se soumettre à un test entre le 4e et le 7<sup>e</sup> jour qui suit l’arrivée (art. 83, al. 1, let. k, LEp, et 8, al. 3, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>200</td></tr>
-<tr><td>17004. Ne pas déclarer un résultat de test effectué entre le 4<sup>e</sup> et le 7<sup>e</sup> jour qui suit l’arrivée (art. 83, al. 1, let. k, LEp, et 10, al. 1, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>100</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)

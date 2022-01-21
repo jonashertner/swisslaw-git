@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2022-01-01
+version: 2022-01-22
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220122/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220122-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220122/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220101/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 1. Januar 2022)
+vom 16. Januar 2019 (Stand am 22. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -58,7 +58,7 @@ Erfüllt die beschuldigte Person durch eine Widerhandlung gegen Strassenverkehrs
 
 Die Ordnungsbussenverordnung vom 4. März 1996[^3-1] wird aufgehoben.
 
-[^3-1]: [[AS 1996 1078](https://fedlex.data.admin.ch/eli/oc/1996/1078_1078_1078), [1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)Ziff. II 1, [1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)Ziff. III [1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 2, [2000 2880](https://fedlex.data.admin.ch/eli/oc/2000/498), [2001 1372](https://fedlex.data.admin.ch/eli/oc/2001/192), [2002 1928](https://fedlex.data.admin.ch/eli/oc/2002/287)[3210](https://fedlex.data.admin.ch/eli/oc/2002/480)[4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 Abs. 2 Ziff. 1, [2004 3517](https://fedlex.data.admin.ch/eli/oc/2004/470), [2005 4481](https://fedlex.data.admin.ch/eli/oc/2005/580), [2006 1669](https://fedlex.data.admin.ch/eli/oc/2006/260), [2009 5699](https://fedlex.data.admin.ch/eli/oc/2009/694), [2011 4931](https://fedlex.data.admin.ch/eli/oc/2011/712), [2012 1819](https://fedlex.data.admin.ch/eli/oc/2012/258), [2013 4681](https://fedlex.data.admin.ch/eli/oc/2013/824), [2015 1311](https://fedlex.data.admin.ch/eli/oc/2015/273)[2449](https://fedlex.data.admin.ch/eli/oc/2015/459), [2017 2647](https://fedlex.data.admin.ch/eli/oc/2017/261)]
+[^3-1]: [[AS 1996 1078](https://fedlex.data.admin.ch/eli/oc/1996/1078_1078_1078); [1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)Ziff. II 1; [1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)Ziff. III, [1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 2; [2000 2880](https://fedlex.data.admin.ch/eli/oc/2000/498); [2001 1372](https://fedlex.data.admin.ch/eli/oc/2001/192); [2002 1928](https://fedlex.data.admin.ch/eli/oc/2002/287), [3210](https://fedlex.data.admin.ch/eli/oc/2002/480), [4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 Abs. 2 Ziff. 1; [2004 3517](https://fedlex.data.admin.ch/eli/oc/2004/470); [2005 4481](https://fedlex.data.admin.ch/eli/oc/2005/580); [2006 1669](https://fedlex.data.admin.ch/eli/oc/2006/260); [2009 5699](https://fedlex.data.admin.ch/eli/oc/2009/694); [2011 4931](https://fedlex.data.admin.ch/eli/oc/2011/712); [2012 1819](https://fedlex.data.admin.ch/eli/oc/2012/258); [2013 4681](https://fedlex.data.admin.ch/eli/oc/2013/824); [2015 1311](https://fedlex.data.admin.ch/eli/oc/2015/273), [2449](https://fedlex.data.admin.ch/eli/oc/2015/459); [2017 2647](https://fedlex.data.admin.ch/eli/oc/2017/261)]
 
 #### Art. 4
 
@@ -601,7 +601,7 @@ Anhang 2*[^t-2]*
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang 3 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. III der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. III der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)), Ziff. III der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)) und der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. III der V vom 17. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)) und Ziff. II der V vom 19. Jan. 2022, in Kraft seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -661,9 +661,6 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">7303. Nichtanbringen des vorgeschriebenen Zeichens (Bst. «A» der Internationalen Flaggenordnung) beim Tauchen oder unwirksames Anleuchten des Zeichens bei Nacht (Art. 40 Abs. 1 BSG, Art. 32 BSV, Art. 3.13 BSO)</td><td colspan="2">50</td></tr>
 <tr><td colspan="2">4. Regeln für die Fahrt</td><td colspan="2"></td></tr>
 <tr><td colspan="2">7401. Nichteinhalten des Sicherheitsabstandes gegenüber Vorrangschiffen und Schiffen von Berufsfischern, welche die vorgeschriebenen Zeichen führen (Art. 40 Abs. 1 BSG, Art. 48 BSV, Art. 6.06 BSO)</td><td colspan="2">50</td></tr>
-<tr><td colspan="2">[tab]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab]</td><td colspan="2"></td></tr>
 <tr><td colspan="2">7402. Fahren in der Uferzone</td><td colspan="2"></td></tr>
 <tr><td colspan="2">1. Verbotene Längsfahrt mit Motorschiff innerhalb der inneren Uferzone oder innerhalb eines Uferabstandes von 150 m (Art. 40 Abs. 1 BSG, Art. 53 Abs. 1 Bst. a BSV, Art. 6.11 Abs. 1 BSO)</td><td colspan="2">100</td></tr>
 <tr><td colspan="2">2. Verbotene Längsfahrt mit einem Schiff mit Maschinenantrieb innerhalb Uferzone, aber ausserhalb eines Uferabstandes von 150 m (Art. 40 Abs. 1 BSG, Art. 6.11 Abs. 1 BSO)</td><td colspan="2">50</td></tr>
@@ -744,8 +741,6 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">**XVII.** **Epidemiengesetz vom 28. September 2012**[^annex2-lvlu1-lvlu1-26] **(EpG) i.V.m.** Covid-19-Verordnung internationaler Personenverkehr vom **23. Juni 2021**[^annex2-lvlu1-lvlu1-27]</td><td colspan="2">[tab]</td></tr>
 <tr><td colspan="2">17001. Fehlender Nachweis einer molekularbiologischen Analyse auf Sars-Cov-2 oder eines Sars-CoV-2-Schnelltests zur Fachanwendung mit negativem Ergebnis bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG i.V.m. Art. 8 Abs. 1 und 4 Covid-19-Verordnung internationaler Personenverkehr)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td colspan="2">17002. Fehlende oder falsche Angaben der Kontaktdaten bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG und Art. 3 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td colspan="2">100</td></tr>
-<tr><td colspan="2">17003. Nichtdurchführung eines Tests zwischen dem vierten und siebten Tag nach der Einreise (Art. 83 Abs. 1 Bst. k EpG und Art. 8 Abs. 3 Covid-19-Verordnung internationaler Personenverkehr)</td><td colspan="2">200</td></tr>
-<tr><td colspan="2">17004. Fehlende Meldung eines Testergebnisses des zwischen dem vierten und siebten Tag nach der Einreise durchgeführten Tests (Art. 83 Abs. 1 Bst. k EpG und Art. 10 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td colspan="2">100</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
