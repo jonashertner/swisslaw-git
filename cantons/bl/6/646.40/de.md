@@ -4,20 +4,20 @@ number: "646.40"
 title: Verordnung über den Berufsauftrag und die Arbeitszeit von Lehrpersonen
 short: Vo AZ LP
 language: de
-version: 2017-08-01
-valid_until: 2022-01-23
-version_adopted: 2017-01-17
+version: 2022-01-24
+valid_until: 2022-07-31
+version_adopted: 2021-12-07
 adopted: 2024-02-06
 in_force: 2024-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/646.40"
-pdf: "https://bl.clex.ch/api/de/versions/1729/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3155/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Berufsauftrag und die Arbeitszeit von Lehrpersonen
 
-Vom 15.03.2005 (Stand 01.08.2017)
+Vom 15.03.2005 (Stand 24.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
@@ -62,10 +62,11 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 <sup>2</sup> An den Schulen können folgende Spezialfunktionen eingerichtet werden:
 
 - a. Stundenplanordnerin / Stundenplanordner;
-- b. Informatikbeauftragte / Informatikbeauftragter;
+- b. technischer ICT-Support (TICTS);
 - c. Bibliotheks- / Mediotheksbetreuerin / Bibliotheks- / Mediotheksbetreuer;
 - d. Materialverantwortliche / Materialverantwortlicher;
-- e. Konventsleitung.
+- e. Konventsleitung;
+- f. pädagogischer ICT-Support (PICTS).
 
 <sup>3</sup> Die Bildungs-, Kultur- und Sportdirektion kann weitere Spezialfunktionen definieren, sofern die Aufgaben folgende Kriterien erfüllen:
 
