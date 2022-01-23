@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-01-17
+version: 2022-01-24
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220117/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220117-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220117/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220124/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220124-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220117/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 17 gennaio 2022)
+del 4 giugno 2021 (Stato 24 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -284,13 +284,11 @@ Tutti i certificati COVID-19 contengono le seguenti informazioni di cui all’al
 I certificati COVID-19 leggibili senza mezzi ausiliari contengono inoltre le seguenti informazioni:
 
 - a. un’indicazione generale sulla rilevanza del certificato secondo l’allegato 1 numero 3;
-- b.[^12-2] per i certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3[^12-3], i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 e i certificati di deroga COVID-19 di cui all’articolo 21*a*[^12-4]: un’indicazione sulla validità temporanea e locale del certificato secondo l’allegato 1 numero 4.[^12-5]
+- b.[^12-2] per i certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3, i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 lettera b o capoverso 3 o i certificati di deroga COVID-19 di cui all’articolo 21*a*: un’indicazione sulla validità temporale e locale limitata del certificato secondo l’allegato 1 numero 4.[^12-3]
 
 [^12-1]: Abrogata dal n. I dell’O del 3 nov. 2021, con effetto dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^12-2]: Correzione del 24 nov. 2021 ([RU 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Termini in vigore dal 30 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-4]: Termini in vigore dal 10 gen. 2022 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)n. V).
-[^12-5]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^12-3]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Sezione 4: Certificati di vaccinazione COVID-19
 
@@ -376,7 +374,17 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di va
 
 **Condizioni**
 
-<sup>1</sup> Un certificato di guarigione dalla COVID-19 è emesso se una persona si è infettata con il SARS-CoV-2 ed è considerata guarita. L’attestazione che la persona si è infettata deve basarsi sul risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2.
+<sup>1</sup>
+
+Un certificato di guarigione dalla COVID-19 è emesso se una persona si è infettata con il SARS-CoV-2 ed è considerata guarita. L’attestazione che la persona si è infettata deve basarsi sul risultato positivo di una delle seguenti analisi:
+
+- a. un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2;
+- b.
+
+  un test rapido per il SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^16-1] a condizione che:
+
+  - 1\. non si basi su un campione prelevato soltanto dalla cavità nasale né su un campione di saliva, e
+  - 2\. si basi su un campione prelevato in Svizzera dopo il 24 gennaio 2022 da una struttura secondo l’allegato 6 numero 1.4.3 lettera a dell’ordinanza 3 COVID-19.[^16-2]
 
 <sup>2</sup>
 
@@ -384,29 +392,32 @@ Una richiesta di emissione di un certificato COVID-19 che non può essere elabor
 
 - a.
 
-  attestazione di un risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2, contenente le seguenti indicazioni:
+  attestazione di un risultato positivo di un’analisi secondo il capoverso 1, contenente le seguenti indicazioni:[^16-3]
 
   - 1\. cognome, nome e data di nascita del richiedente,
   - 2\. data e ora del prelievo del campione,
   - 3\. nome e indirizzo del centro di test o dell’istituzione che ha effettuato il test;
 
-- b. conferma della revoca dell’isolamento o conferma medica della guarigione rilasciata da un servizio competente che adempie compiti delle autorità, incluso il nome e l’indirizzo di questo servizio.[^16-1]
+- b. conferma della revoca dell’isolamento o conferma medica della guarigione rilasciata da un servizio competente che adempie compiti delle autorità, incluso il nome e l’indirizzo di questo servizio.[^16-4]
 
 <sup>3</sup>
 
 Un certificato di guarigione dalla COVID-19 è emesso in caso di test positivo per gli anticorpi contro il SARS-CoV-2 a condizione che:
 
-- a. il prelievo del campione sia stato effettuato in Svizzera da una delle strutture di cui all’allegato 6 numero 1.3.2 lettera a dell’ordinanza 3 COVID-19 del 19 giugno 2020[^16-2];
+- a. il prelievo del campione sia stato effettuato in Svizzera da una delle strutture di cui all’allegato 6 numero 1.3.2 lettera a dell’ordinanza 3 COVID-19 del 19 giugno 2020[^16-5];
 - b. l’analisi sia stata effettuata in Svizzera da una delle strutture di cui all’allegato 6 numero 1.3.2 lettera b dell’ordinanza 3 COVID-19;
 - c. il prelievo del campione sia stato eseguito dopo il 15 novembre 2021;
-- d. l’analisi mediante un saggio immunologico certificato con la marcatura CE abbia rilevato una sierologia chiaramente positiva sotto forma di risultato quantificabile.[^16-3]
+- d. l’analisi mediante un saggio immunologico certificato con la marcatura CE abbia rilevato una sierologia chiaramente positiva sotto forma di risultato quantificabile.[^16-6]
 
-<sup>4</sup> I certificati di guarigione dalla COVID-19 di cui al capoverso 3 possono essere emessi soltanto da una struttura di cui all’allegato 6 numero 1.3.2 lettera a dell’ordinanza 3 COVID-19 o da una struttura da essa incaricata dell’esecuzione dell’analisi secondo l’allegato 6 numero 1.3.2 lettera b dell’ordinanza 3 COVID-19.[^16-4]
+<sup>4</sup> I certificati di guarigione dalla COVID-19 di cui al capoverso 3 possono essere emessi soltanto da una struttura di cui all’allegato 6 numero 1.3.2 lettera a dell’ordinanza 3 COVID-19 o da una struttura da essa incaricata dell’esecuzione dell’analisi secondo l’allegato 6 numero 1.3.2 lettera b dell’ordinanza 3 COVID-19.[^16-7]
 
-[^16-1]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
-[^16-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^16-3]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^16-4]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^16-2]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^16-3]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^16-4]: Introdotto dal n. I dell’O del 1° ott. 2021, in vigore dall’11 ott. 2021 ([RU 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^16-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^16-6]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-7]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 17
 
@@ -422,19 +433,19 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di gu
 
 <sup>1</sup> L’inizio e la fine della validità dei certificati di guarigione dalla COVID-19 sono basati sull’allegato 3.
 
-<sup>2</sup> La validità dei certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 inizia al più presto l’11° giorno dopo il rilevamento del contagio con un risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2.[^18-1]
+<sup>2</sup> La validità dei certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 inizia al più presto l’11° giorno dopo il rilevamento del contagio.[^18-1]
 
 <sup>3</sup> La validità dei certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 inizia al più presto il giorno del prelievo del campione.[^18-2]
 
-<sup>4</sup> I certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3 sono validi solo in Svizzera.[^18-3]
+<sup>4</sup> I certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 lettera b e capoverso 3 sono validi solo in Svizzera.[^18-3]
 
-<sup>5</sup> I certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 contengono una data di scadenza compatibile con i requisiti del regolamento (UE) 2021/953[^18-4]. Possono essere validi oltre la data iscritta secondo l’allegato 3 numero 1.2 lettera a.[^18-5]
+<sup>5</sup> I certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 lettera a contengono una data di scadenza compatibile con i requisiti del regolamento (UE) 2021/953[^18-4]. Possono essere validi oltre la data iscritta secondo l’allegato 3 numero 1.2 lettera a.[^18-5]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-1]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 [^18-2]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^18-3]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^18-4]: Regolamento (UE) 2021/953 del Parlamento europeo e del Consiglio del 14 giugno 2021 su un quadro per il rilascio, la verifica e l’accettazione di certificati interoperabili di vaccinazione, di test e di guarigione in relazione alla COVID-19 (certificato COVID digitale dell’UE) per agevolare la libera circolazione delle persone durante la pandemia di COVID-19, GU L 211 del 15.6.2021, pag. 1.
-[^18-5]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-3]: Introdotto dal n. I dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^18-4]: Regolamento (UE) 2021/953 del Parlamento europeo e del Consiglio del 14 giugno 2021 su un quadro per il rilascio, la verifica e l’accettazione di certificati interoperabili di vaccinazione, di test e di guarigione in relazione alla COVID-19 (certificato COVID digitale dell’UE) per agevolare la libera circolazione delle persone durante la pandemia di COVID-19, versione GU L 211 del 15.6.2021, pag. 1.
+[^18-5]: Introdotto dal n. I dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 ## Sezione 6: Certificati di test COVID-19
 
@@ -502,9 +513,11 @@ Un certificato di deroga COVID-19 è emesso per le persone che, per motivi medic
 
 #### Art. 21b
 
-**Contenuto**
+**Contenuto**[^21b-1]
 
-Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di deroga COVID-19 contengono le informazioni di cui all’allegato 4*a* numeri 2 e 3, segnatamente l’indicazione, in forma leggibile meccanicamente, che per il titolare possono vigere misure di protezione alternative.
+Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di deroga COVID-19 contengono le informazioni di cui all’allegato 4*a* numeri 2 e 3, segnatamente l’indicazione, in forma leggibile senza mezzi ausiliari, che per il titolare possono vigere misure di protezione alternative.
+
+[^21b-1]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 #### Art. 21c
 
@@ -537,11 +550,11 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di de
 
 <sup>1</sup> I certificati esteri riconosciuti attestanti l’avvenuta vaccinazione, la guarigione o l’esecuzione di test, che non sono stati emessi da uno Stato membro dell’UE o dell’AELS, figurano nell’allegato 5.
 
-<sup>2</sup> Non appena la Commissione europea riconosce l’equivalenza di uno o più certificati interoperabili di Stati terzi, il DFI aggiorna di conseguenza l’allegato 5. Tuttavia inserisce nell’allegato 5 soltanto i certificati di Stati terzi che concedono alla Svizzera la reciprocità.[^23-1]
+<sup>2</sup> Non appena la Commissione europea riconosce l’equivalenza di uno o più certificati interoperabili di uno Stato o di una regione, il DFI aggiorna di conseguenza l’allegato 5. Tuttavia inserisce nell’allegato 5 soltanto i certificati di Stati e regioni che concedono alla Svizzera la reciprocità.[^23-1]
 
 <sup>3</sup>
 
-Il DFI può inserirvi i certificati di altri Stati se sono soddisfatte le seguenti condizioni:[^23-2]
+Il DFI può inserirvi i certificati di altri Stati e regioni se sono soddisfatte le seguenti condizioni:[^23-2]
 
 - a. il certificato estero contiene le informazioni di cui all’articolo 12 e all’articolo 14, 17 o 20 in combinato disposto con i pertinenti allegati;
 - b. l’autenticità, l’integrità e la validità delle informazioni di cui alla lettera a possono essere verificate elettronicamente;
@@ -549,8 +562,8 @@ Il DFI può inserirvi i certificati di altri Stati se sono soddisfatte le seguen
 
 <sup>4</sup> Il DFI cancella dall’elenco i certificati che non soddisfano più le condizioni.[^23-3]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^23-1]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^23-2]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 [^23-3]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
 
 #### Art. 24
@@ -577,10 +590,12 @@ L’UFIT gestisce in un sistema d’informazione i certificati di firma utilizza
 Per i seguenti certificati COVID-19 i certificati di firma utilizzati per la verifica non sono forniti a sistemi esteri:
 
 - a. certificati di vaccinazione COVID-19 di cui all’articolo 15 capoverso 3;
+- a<sup>bis</sup>.[^25-1] certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1 lettera b;
 - b. certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3;
-- c. certificati di deroga COVID-19 di cui all’articolo 21*a* capoverso 1.[^25-1]
+- c. certificati di deroga COVID-19 di cui all’articolo 21*a* capoverso 1.[^25-2]
 
-[^25-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021, la lett. a il 30 nov. 2021, la lett. c il 10 gen. 2022 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^25-1]: Introdotta dal n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^25-2]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 16 nov. 2021, la lett. a il 30 nov. 2021, la lett. c il 10 gen. 2022 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 26
 
@@ -720,9 +735,9 @@ L’UFIT è l’organo federale responsabile degli aspetti legali di protezione 
 
 **Aggiornamento degli allegati 1–4**[^33-1]
 
-Previa consultazione del DFF e del DFAE, il DFI aggiorna gli allegati 1–4 secondo le norme armonizzate a livello internazionale al fine di ottenere l’interoperabilità con i certificati di un numero possibilmente elevato di Stati e il riconoscimento internazionale dei certificati emessi secondo la presente ordinanza.
+Previa consultazione del DFF e del DFAE, il DFI aggiorna gli allegati 1–4 secondo le norme armonizzate a livello internazionale al fine di ottenere l’interoperabilità con i certificati di un numero possibilmente elevato di Stati e regioni e il riconoscimento internazionale dei certificati emessi secondo la presente ordinanza.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^33-1]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 #### Art. 34
 
@@ -868,7 +883,7 @@ Allegato 3*[^t-3]*
 
 ## Disposizioni particolari sui certificati di guarigione dalla COVID-19
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) e dal n. I dell’O del DFI del 22 nov. 2021, in vigore dal 23 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
+[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. I dell’O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) e dal n. II dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -876,7 +891,7 @@ Allegato 3*[^t-3]*
 
   Inizio della validità:
 
-  - a. per i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1: l’11° giorno successivo a quello del primo risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2;
+  - a. per i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1: l’11° giorno successivo a quello del primo risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2 o di un test rapido per il SARS-CoV-2 per uso professionale;
   - b. per i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3: il giorno del prelievo del campione per l’analisi per gli anticorpi contro il SARS-CoV-2.
 
 - 1\.2
@@ -893,7 +908,7 @@ Allegato 3*[^t-3]*
   Per i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1:
 
   - a. malattia contratta («COVID-19»);
-  - b. data del primo risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2;
+  - b. data del primo risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2 o di un test rapido per il SARS-CoV-2 per uso professionale;
   - c. inizio della validità del certificato;
   - d. fine della validità del certificato.
 
@@ -923,6 +938,7 @@ Allegato 4*[^t-4]*
   La durata è calcolata a partire dal prelievo del campione ed è di:
 
   - a. 72 ore per il test PCR;
+  - b. 24 ore per il test rapido SARS-CoV-2 per uso professionale;
   - c. 24 ore per l’analisi immunologica di laboratorio degli antigeni SARS-CoV-2.
 
 ### 3 Informazioni sul test eseguito
@@ -962,7 +978,7 @@ Allegato 5*[^t-6]*
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dai n. I delle O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), del 21 dic. 2021 ([RU 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) e del 5 gen. 2022, in vigore dal 6 gen. 2022 ([RU 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
+[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), dai n. I delle O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), del 21 dic. 2021 ([RU 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) ([RU 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)) e dal n. II dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
@@ -981,7 +997,7 @@ Allegato 5*[^t-6]*
 
 - 2\.1
 
-  Sono riconosciuti i certificati di vaccinazione, di guarigione e di test che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi in uno dei seguenti Paesi:
+  Sono riconosciuti i certificati di vaccinazione, di guarigione e di test che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati e dalle regioni seguenti:
 
   - – Albania
   - – Andorra
@@ -989,7 +1005,7 @@ Allegato 5*[^t-6]*
   - – Capo Verde
   - – El Salvador
   - – Georgia
-  - – Isole Färöer
+  - – Isole Faroe
   - – Israele
   - – Macedonia del Nord
   - – Marocco
@@ -1008,7 +1024,7 @@ Allegato 5*[^t-6]*
 
 - 2\.2
 
-  Sono riconosciuti i certificati di vaccinazione e di test che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi in uno dei seguenti Paesi:
+  Sono riconosciuti i certificati di vaccinazione e di test che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati e dalle regioni seguenti:
 
   - – Emirati Arabi Uniti
   - – Nuova Zelanda
@@ -1017,7 +1033,7 @@ Allegato 5*[^t-6]*
 
 - 2\.3
 
-  Sono riconosciuti i certificati di vaccinazione che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi in uno dei seguenti Paesi:
+  Sono riconosciuti i certificati di vaccinazione che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati e dalle regioni seguenti:
 
   - – Libano
   - – Tunisia

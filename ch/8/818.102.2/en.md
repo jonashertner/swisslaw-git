@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-01-17
+version: 2022-01-24
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220117/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220117-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220117/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220124/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220124-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220124/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 17 January 2022)
+of 4 June 2021 (Status as of 24 January 2022)
 
 The Swiss Federal Council,
 
@@ -284,13 +284,11 @@ All COVID-19 certificates shall contain the following information in accordance 
 COVID-19 certificates in human-readable form shall also contain the following information:
 
 - a. a general statement on the meaning of the certificate in accordance with Annex 1 number 3;
-- b.[^12-2] in the case of a COVID-19 vaccination certificate pursuant to Article 15 paragraph 3[^12-3], a COVID-19 recovery certificate pursuant to Article 16 paragraph 3 or a COVID-19 Exemption Certificate pursuant to Article 21*a*[^12-4]: a reference to the certificate being valid for a limited period and only in certain geographical areas in accordance with Annex 1 number 4.[^12-5]
+- b.[^12-2] in the case of a COVID-19 vaccination certificate pursuant to Article 15 paragraph 3, a COVID-19 recovery certificate pursuant to Article 16 paragraph 1 letter b or paragraph 3 or a COVID-19 Exemption Certificate pursuant to Article 21*a*: a reference to the certificate being valid for a limited period and only in certain geographical areas in accordance with Annex 1 number 4.[^12-3]
 
 [^12-1]: Repealed by No I of the O of 3 Nov. 2021, with effect from 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^12-2]: Correction of 24 Nov. 2021 ([AS 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Words in force since 30 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-4]: Words in force since 10 Jan 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)No V).
-[^12-5]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-2]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^12-3]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## Section 4 COVID-19 Vaccination Certificates
 
@@ -375,7 +373,17 @@ In addition to the general content of all COVID-19 certificates, COVID-19 vaccin
 
 **Requirements**
 
-<sup>1</sup> A COVID-19 recovery certificate shall be issued when a person has been infected with Sars-CoV-2 and has recovered. The finding that the person has been infected with the virus must be based on the positive result of a molecular-biological analysis for Sars-CoV-2.
+<sup>1</sup>
+
+A COVID-19 recovery certificate shall be issued when a person has been infected with Sars-CoV-2 and has recovered. The finding that the person has been infected with the virus must be based on the positive result of one of the following analyses:
+
+- a. a molecular-biological analysis for Sars-CoV-2;
+- b.
+
+  a Sars-CoV-2 rapid test for specialist use pursuant to Article 24*a* paragraph 1 of the COVID-19 Ordinance 3 of 19 June 2020[^16-1] which:
+
+  - 1\. is not based on a sample taken solely from the nasal cavity or on a saliva sample, and
+  - 2\. is based on a sample taken in Switzerland after 24 January 2022 by a facility specified in Annex 6 number 1.4.3 letter a of the COVID-19 Ordinance 3.[^16-2]
 
 <sup>2</sup>
 
@@ -383,29 +391,32 @@ A request for the issuance of a COVID-19 certificate that cannot be processed un
 
 - a.
 
-  proof of a positive molecular-biological analysis for Sars-CoV-2 that includes the following information:
+  proof of a positive analysis for Sars-CoV-2 in accordance with paragraph 1 that includes the following information:[^16-3]
 
   - 1\. the requesting person's surname, first name and date of birth,
   - 2\. the date and time at which the sample was taken,
   - 3\. the name and address of the test centre or the institution where the test was carried out;
 
-- b. confirmation of termination of isolation or a medical certificate confirming recovery from a competent authority with official duties, including the name and address of this authority.[^16-1]
+- b. confirmation of termination of isolation or a medical certificate confirming recovery from a competent authority with official duties, including the name and address of this authority.[^16-4]
 
 <sup>3</sup>
 
 A COVID-19 recovery certificate shall be issued to persons who have tested positive for Sars-CoV-2 antibodies provided:
 
-- a. the sample was taken in Switzerland by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 of 19 June 2020[^16-2];
+- a. the sample was taken in Switzerland by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 of 19 June 2020[^16-5];
 - b. the analysis was carried out in Switzerland by a facility specified in Annex 6 number 1.3.2 letter b COVID-19 Ordinance 3;
 - c. the sample was taken after 15 November 2021;
-- d. a clearly positive serology was detected by analysis using a CE-marked certified immunoassay in the form of a quantifiable result.[^16-3]
+- d. a clearly positive serology was detected by analysis using a CE-marked certified immunoassay in the form of a quantifiable result.[^16-6]
 
-<sup>4</sup> COVID-19 recovery certificates pursuant to paragraph 3 may only be issued by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 or by a facility specified in Annex 6 number 1.3.2 letter b of the COVID-19 Ordinance 3 that has been instructed by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 to carry out the analysis.[^16-4]
+<sup>4</sup> COVID-19 recovery certificates pursuant to paragraph 3 may only be issued by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 or by a facility specified in Annex 6 number 1.3.2 letter b of the COVID-19 Ordinance 3 that has been instructed by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 to carry out the analysis.[^16-7]
 
-[^16-1]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
-[^16-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^16-3]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^16-4]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^16-2]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^16-3]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^16-4]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^16-5]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^16-6]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-7]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 17
 
@@ -421,19 +432,19 @@ In addition to the general content of all COVID-19 certificates, COVID-19 recove
 
 <sup>1</sup> The start and duration of the validity of COVID-19 recovery certificates are governed by Annex 3.
 
-<sup>2</sup> A COVID-19 recovery certificate pursuant to Article 16 paragraph 1 shall be valid at the earliest from the eleventh day after infection was confirmed by the positive result of a molecular-biological analysis for Sars-CoV-2.[^18-1]
+<sup>2</sup> A COVID-19 recovery certificate pursuant to Article 16 paragraph 1 shall be valid at the earliest from the eleventh day after infection was confirmed.[^18-1]
 
 <sup>3</sup> A COVID-19 recovery certificate pursuant to Article 16 paragraph 3 shall be valid at the earliest from the day on which the sample was taken.[^18-2]
 
-<sup>4</sup> COVID-19 recovery certificates pursuant to Article 16 paragraph 3 are only valid in Switzerland.[^18-3]
+<sup>4</sup> COVID-19 recovery certificates pursuant to Article 16 paragraph 1 letter b and paragraph 3 are only valid in Switzerland.[^18-3]
 
-<sup>5</sup> COVID-19 recovery certificates pursuant to Article 16 paragraph 1 shall contain an expiry date that is compatible with the requirements of Regulation (EU) 2021/953[^18-4]. Under Annex 3 number 1.2 letter a, they may remain valid beyond the date specified.[^18-5]
+<sup>5</sup> COVID-19 recovery certificates pursuant to Article 16 paragraph 1 letter a shall contain an expiry date that is compatible with the requirements of Regulation (EU) 2021/953[^18-4]. Under Annex 3 number 1.2 letter a, they may remain valid beyond the date specified.[^18-5]
 
-[^18-1]: Amended by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-1]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 [^18-2]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^18-3]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^18-4]: Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic, Amended by OJ L 211 of 15.6.2021, p. 1.
-[^18-5]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-3]: Inserted by No I of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^18-4]: Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic. Last amended by OJ L 211 of 15.6.2021, p. 1.
+[^18-5]: Inserted by No I of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 ## Section 6 COVID-19 Test Certificates
 
@@ -501,9 +512,11 @@ A COVID-19 exemption certificate shall be issued to persons who can neither be v
 
 #### Art. 21b
 
-**Content**
+**Content**[^21b-1]
 
-In addition to the general content of all COVID-19 certificates, COVID-19 exemption certificates shall contain the information specified in Annex 4*a* numbers 2 and 3, in machine-readable form, and in particular the statement that the holder may be subject to alternative protective measures.
+In addition to the general content of all COVID-19 certificates, COVID-19 exemption certificates shall contain the information specified in Annex 4*a* numbers 2 and 3, in human-readable form, and in particular the statement that the holder may be subject to alternative protective measures.
+
+[^21b-1]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 #### Art. 21c
 
@@ -536,11 +549,11 @@ In addition to the general content of all COVID-19 certificates, COVID-19 exempt
 
 <sup>1</sup> The recognised foreign certificates attesting vaccination, recovery or testing that have not been issued by an EU or EFTA member state are listed in Annex 5.
 
-<sup>2</sup> As soon as the European Commission makes a decision regarding the equivalence of one or more interoperable certificates from third countries, the FDHA shall update Annex 5 accordingly. However, it shall only accept certificates from the third countries listed in Annex 5, which grant Switzerland reciprocal rights.[^23-1]
+<sup>2</sup> As soon as the European Commission makes a decision regarding the equivalence of one or more interoperable certificates from a state or region, the FDHA shall update Annex 5 accordingly. However, it shall only accept certificates from the states and regions listed in Annex 5 which grant Switzerland reciprocal rights.[^23-1]
 
 <sup>3</sup>
 
-It may include certificates from other states provided the following requirements are met:
+It may include certificates from other states or regions provided the following requirements are met:[^23-2]
 
 - a. The foreign certificate contains the information specified in Article 12 and in Articles 14, 17 or 20 in conjunction with the relevant annexes.
 - b. The information under letter a can be checked electronically for authenticity, integrity and validity.
@@ -548,7 +561,8 @@ It may include certificates from other states provided the following requirement
 
 <sup>4</sup> It shall delete those certificates that no longer meet the requirements from the list.
 
-[^23-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^23-1]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^23-2]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 #### Art. 24
 
@@ -574,10 +588,12 @@ The FOITT shall operate an information system that is used to do the following w
 Signature certificates for the following COVID-19 certificates are not delivered to foreign systems:
 
 - a. COVID-19 vaccination certificates pursuant to Article 15 paragraph 3;
+- a<sup>bis</sup>.[^25-1] COVID-19 recovery certificates pursuant to Article 16 paragraph 1 letter b;
 - b. COVID-19 recovery certificates pursuant to Article 16 paragraph 3;
-- c. COVID-19 exemption certificates pursuant to Article 21*a* paragraph 1.[^25-1]
+- c. COVID-19 exemption certificates pursuant to Article 21*a* paragraph 1.[^25-2]
 
-[^25-1]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021, let. a since 30 Nov. and let. c since 10 Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^25-1]: Inserted by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^25-2]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021, let. a since 30 Nov. and let. c since 10 Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 26
 
@@ -717,9 +733,9 @@ The FOITT is the federal body responsible under the data protection legislation 
 
 **Updating Annexes 1 to 4**[^33-1]
 
-In consultation with the FDF and the FDFA, the FDHA shall update Annexes 1 to 4 in accordance with the internationally harmonised standards in order to achieve interoperability with the certificates of as many states as possible and international recognition of the certificates issued in accordance with this Ordinance.
+In consultation with the FDF and the FDFA, the FDHA shall update Annexes 1 to 4 in accordance with the internationally harmonised standards in order to achieve interoperability with the certificates of as many states and regions as possible and international recognition of the certificates issued in accordance with this Ordinance.
 
-[^33-1]: Amended by No I of the O of 1 Sept. 2021, in force since 7 Sept. 2021 ([AS 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^33-1]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 #### Art. 34
 
@@ -865,12 +881,15 @@ Annex 3*[^t-3]*
 
 ## Special provisions concerning COVID-19 recovery certificates
 
-[^t-3]: Revised by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) and by No I of the O of the FDHA of 22 Nov. 2021, in force since 23 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
+[^t-3]: Revised by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No I of the O of the FDHA of 22 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) and No II of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 ### 1 Start of validity and maximum duration
 
-- 1\.1 The period of validity shall begin
-  - a. for COVID-19 recovery certificates pursuant to Article 16 paragraph 1: on the eleventh day after the positive result of a molecular biological analysis for Sars-CoV-2;
+- 1\.1
+
+  The period of validity shall begin:
+
+  - a. for COVID-19 recovery certificates pursuant to Article 16 paragraph 1: on the eleventh day after the positive result of a molecular biological analysis for Sars-CoV-2 or a Sars-CoV-2 rapid test for specialist use;
   - b. for COVID-19 recovery certificates pursuant to Article 16 paragraph 3: on the day on which the sample was taken for analysis for Sars-CoV-2 antibodies.
 
 - 1\.2
@@ -886,18 +905,18 @@ Annex 3*[^t-3]*
 
   For recovery certificates pursuant to Article 16 paragraph 1:
 
-  - a. Disease from which the holder has recovered (COVID-19)
-  - b. Date of the first positive result of a molecular-biological analysis for Sars-CoV-2
-  - c. Start of validity
-  - d. End of validity
+  - a. Disease from which the holder has recovered (COVID-19);
+  - b. Date of the first positive result of a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2 rapid test for specialist use;
+  - c. Start of validity;
+  - d. End of validity.
 
 - 2\.2
 
   For recovery certificates pursuant to Article 16 paragraph 3:
 
-  - a. Disease for which an analysis has been carried out to establish the presence of antibodies («COVID-19»);
+  - a. Disease for which an analysis has been carried out to establish the presence of antibodies (COVID-19);
   - b. Date on which the sample was taken for analysis for Sars-CoV-2 antibodies;
-  - c. Finding («confirmed»);
+  - c. Finding (confirmed);
   - d. Facility or institution responsible for carrying out the analysis for antibodies.
 
 Annex 4*[^t-4]*
@@ -957,7 +976,7 @@ Annex 5*[^t-6]*
 
 ## List of recognised foreign certificates
 
-[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), No I of the FDHA O of 22 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), of 21 Dec. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) and of 5 Jan. 2022, in force since 6 Jan. 2022 ([AS 2021 2](https://fedlex.data.admin.ch/eli/oc/2021/2)).
+[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), No I of the FDHA O of 22 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), of 21 Dec. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)), of 5 Jan. 2022 ([AS 2021 2](https://fedlex.data.admin.ch/eli/oc/2021/2)) and No II of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -974,7 +993,7 @@ Annex 5*[^t-6]*
 
 [^annex5-lvlu1-lvl1-1]: Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic, as amended by OJ L 211, 15.6.2021, p. 1.
 
-- 2\.1 Vaccination, recovery and test certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following countries are recognised:
+- 2\.1 Vaccination, recovery and test certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following states and regions are recognised:
 
 - – Albania
 - – Andorra
@@ -983,7 +1002,7 @@ Annex 5*[^t-6]*
 - – El Salvador
 - – Faroe Islands
 - – Georgia
-- – Holy See
+- – Holy See (Vatican)
 - – Israel
 - – Morocco
 - – Moldova
@@ -1001,7 +1020,7 @@ Annex 5*[^t-6]*
 
 - 2\.2
 
-  Vaccination and test certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following countries are recognised:
+  Vaccination and test certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following states and regions are recognised:
 
   - – New Zealand
   - – Singapore
@@ -1010,7 +1029,7 @@ Annex 5*[^t-6]*
 
 - 2\.3
 
-  Vaccination certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following countries are recognised:
+  Vaccination certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following states and regions are recognised:
 
   - – Lebanon
   - – Tunisia

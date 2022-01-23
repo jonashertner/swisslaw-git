@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-01-17
+version: 2022-01-24
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220117/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220117-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220117/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220124/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220124-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220117/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 17. Januar 2022)
+vom 4. Juni 2021 (Stand am 24. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -282,13 +282,11 @@ Alle Covid-19-Zertifikate enthalten die folgenden Angaben nach Anhang 1:
 In menschenlesbarer Form enthalten Covid-19-Zertifikate zusätzlich die folgenden Angaben:
 
 - a. einen allgemeinen Hinweis zur Bedeutung des Zertifikats nach Anhang 1 Ziffer 3;
-- b.[^12-2] wenn es sich um ein Covid-19-Impfzertifikat nach Artikel 15 Absatz 3[^12-3], ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 3 oder um ein Covid-19-Ausnahmezertifikat nach Artikel 21*a*[^12-4] handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 1 Ziffer 4.[^12-5]
+- b.[^12-2] wenn es sich um ein Covid-19-Impfzertifikat nach Artikel 15 Absatz 3, ein Covid-19-Genesungszertifikat nach Artikel 16 Absatz 1 Buchstabe b oder Absatz 3 oder um ein Covid-19-Ausnahmezertifikat nach Artikel 21*a* handelt: einen Hinweis auf die beschränkte zeitliche und örtliche Gültigkeit des Zertifikats nach Anhang 1 Ziffer 4.[^12-3]
 
 [^12-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^12-2]: Berichtigung vom 24. Nov. 2021 ([AS 2021 750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-3]: Worte in Kraft seit 30. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750)).
-[^12-4]: Worte in Kraft seit 10. Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)Ziff. V).
-[^12-5]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^12-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 ## 4. Abschnitt: Covid-19-Impfzertifikate
 
@@ -374,7 +372,17 @@ Covid-19-Impfzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Z
 
 **Voraussetzungen**
 
-<sup>1</sup> Ein Covid-19-Genesungszertifikat wird ausgestellt, wenn eine Person sich mit Sars-CoV-2 angesteckt hat und als genesen gilt. Der Befund, dass die Person sich angesteckt hat, muss sich auf ein positives Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2 stützen.
+<sup>1</sup>
+
+Ein Covid-19-Genesungszertifikat wird ausgestellt, wenn eine Person sich mit Sars-CoV-2 angesteckt hat und als genesen gilt. Der Befund, dass die Person sich angesteckt hat, muss sich auf ein positives Ergebnis einer der folgenden Analysen stützen:
+
+- a. eine molekularbiologische Analyse auf Sars-CoV-2;
+- b.
+
+  ein Sars-CoV-2-Schnelltest zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^16-1], der:
+
+  - 1\. nicht auf einer Probeentnahme nur aus dem Nasenraum oder auf einer Speichelprobe basiert, und
+  - 2\. auf einer Probeentnahme basiert, die nach dem 24. Januar 2022 in der Schweiz von einer Einrichtung nach Anhang 6 Ziffer 1.4.3 Buchstabe a der Covid-19-Verordnung 3 durchgeführt worden ist.[^16-2]
 
 <sup>2</sup>
 
@@ -382,29 +390,32 @@ Ein Antrag auf Ausstellung eines Covid-19-Zertifikats, der nicht im automatisier
 
 - a.
 
-  Nachweis eines positiven Ergebnisses einer molekularbiologischen Analyse auf Sars-CoV-2, der folgende Angaben enthält:
+  Nachweis eines positiven Ergebnisses einer Analyse nach Absatz 1, der folgenden Angaben enthält:[^16-3]
 
   - 1\. Name, Vorname und Geburtsdatum der antragstellenden Person,
   - 2\. Datum und Uhrzeit der Probenentnahme,
   - 3\. Name und Adresse des Testzentrums oder der Institution, wo der Test durchgeführt wurde;
 
-- b. Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung von einer zuständigen Stelle mit behördlichen Aufgaben einschliesslich Name und Adresse dieser Stelle.[^16-1]
+- b. Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung von einer zuständigen Stelle mit behördlichen Aufgaben einschliesslich Name und Adresse dieser Stelle.[^16-4]
 
 <sup>3</sup>
 
 Ein Covid-19-Genesungszertifikat wird für einen positiven Test auf Sars-CoV-2-Antikörper ausgestellt, sofern:
 
-- a. die Probeentnahme von einer Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe a der Covid-19-Verordnung 3 vom 19. Juni 2020[^16-2] in der Schweiz durchgeführt wurde;
+- a. die Probeentnahme von einer Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe a der Covid-19-Verordnung 3 vom 19. Juni 2020[^16-5] in der Schweiz durchgeführt wurde;
 - b. die Analyse von einer Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe b Covid-19-Verordnung 3 in der Schweiz durchgeführt wurde;
 - c. die Probeentnahme nach dem 15. November 2021 durchgeführt wurde;
-- d. bei der Analyse mithilfe eines mit CE-Kennzeichnung zertifizierten Immunessays in Form eines quantifizierbaren Ergebnisses eine eindeutig positive Serologie festgestellt wurde.[^16-3]
+- d. bei der Analyse mithilfe eines mit CE-Kennzeichnung zertifizierten Immunessays in Form eines quantifizierbaren Ergebnisses eine eindeutig positive Serologie festgestellt wurde.[^16-6]
 
-<sup>4</sup> Covid-19-Genesungszertifikate nach Absatz 3 dürfen nur von einer Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe a der Covid-19-Verordnung 3 oder einer von einer solchen Einrichtung mit der Durchführung der Analyse beauftragten Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe b der Covid-19-Verordnung 3 ausgestellt werden.[^16-4]
+<sup>4</sup> Covid-19-Genesungszertifikate nach Absatz 3 dürfen nur von einer Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe a der Covid-19-Verordnung 3 oder einer von einer solchen Einrichtung mit der Durchführung der Analyse beauftragten Einrichtung nach Anhang 6 Ziffer 1.3.2 Buchstabe b der Covid-19-Verordnung 3 ausgestellt werden.[^16-7]
 
-[^16-1]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
-[^16-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^16-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^16-4]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^16-2]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^16-3]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^16-4]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 11. Okt. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^16-5]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^16-6]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-7]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 17
 
@@ -420,19 +431,19 @@ Covid-19-Genesungszertifikate enthalten neben dem allgemeinen Inhalt aller Covid
 
 <sup>1</sup> Beginn und Dauer der Gültigkeit von Covid-19-Genesungszertifikaten richten sich nach Anhang 3.
 
-<sup>2</sup> Die Gültigkeit eines Covid-Genesungszertifikats nach Artikel 16 Absatz 1 beginnt frühestens am elften Tag, nachdem die Ansteckung mit einem positiven Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2 nachgewiesen wurde.[^18-1]
+<sup>2</sup> Die Gültigkeit eines Covid-19-Genesungszertifikats nach Artikel 16 Absatz 1 beginnt frühestens am elften Tag, nachdem die Ansteckung nachgewiesen wurde.[^18-1]
 
 <sup>3</sup> Die Gültigkeit eines Covid-Genesungszertifikats nach Artikel 16 Absatz 3 beginnt frühestens am Tag der Probeentnahme.[^18-2]
 
-<sup>4</sup> Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3 sind nur in der Schweiz gültig.[^18-3]
+<sup>4</sup> Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1 Buchstabe b und Absatz 3 sind nur in der Schweiz gültig.[^18-3]
 
-<sup>5</sup> Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1 enthalten ein Ablaufdatum, das mit den Anforderungen der Verordnung (EU) 2021/953[^18-4] kompatibel ist. Sie können gemäss Anhang 3 Ziffer 1.2 Buchstabe a über das eingetragene Datum hinaus gültig sein.[^18-5]
+<sup>5</sup> Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1 Buchstabe a enthalten ein Ablaufdatum, das mit den Anforderungen der Verordnung (EU) 2021/953[^18-4] kompatibel ist. Sie können gemäss Anhang 3 Ziffer 1.2 Buchstabe a über das eingetragene Datum hinaus gültig sein.[^18-5]
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 [^18-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^18-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^18-4]: Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie, Fassung gemäss ABl. L 211 vom 15.6.2021, S. 1.
-[^18-5]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^18-3]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^18-4]: Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie, Fassung gemäss ABl. L 211 vom 15.6.2021, S. 1
+[^18-5]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 ## 6. Abschnitt: Covid-19-Testzertifikate
 
@@ -500,9 +511,11 @@ Ein Covid-19-Ausnahmezertifikat wird ausgestellt für Personen, die aus medizini
 
 #### Art. 21b
 
-**Inhalt**
+**Inhalt**[^21b-1]
 
-Covid-19-Ausnahmezertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Zertifikate die Angaben nach Anhang 4*a* Ziffern 2 und 3, in maschinenlesbarer Form namentlich den Hinweis, dass für die Inhaberin oder für den Inhaber alternative Schutzmassnahmen gelten können.
+Covid-19-Ausnahmezertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Zertifikate die Angaben nach Anhang 4*a* Ziffern 2 und 3, in menschenlesbarer Form namentlich den Hinweis, dass für die Inhaberin oder für den Inhaber alternative Schutzmassnahmen gelten können.
+
+[^21b-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 #### Art. 21c
 
@@ -535,11 +548,11 @@ Covid-19-Ausnahmezertifikate enthalten neben dem allgemeinen Inhalt aller Covid-
 
 <sup>1</sup> Die anerkannten ausländischen Zertifikate zur Bescheinigung von Impfungen, der Genesung oder von Tests, die nicht von einem Mitgliedstaat der EU oder einem EFTA-Staat ausgestellt wurden, werden in Anhang 5 aufgeführt.
 
-<sup>2</sup> Sobald die Europäische Kommission über die Gleichwertigkeit eines oder mehrerer interoperabler Zertifikate eines Drittstaates entscheidet, führt das EDI Anhang 5 entsprechend nach. Es nimmt jedoch nur Zertifikate aus Drittstaaten in Anhang 5 auf, die der Schweiz das Gegenrecht gewähren.[^23-1]
+<sup>2</sup> Sobald die Europäische Kommission über die Gleichwertigkeit eines oder mehrerer interoperabler Zertifikate eines Staates oder einer Region entscheidet, führt das EDI Anhang 5 entsprechend nach. Es nimmt jedoch nur Zertifikate aus Staaten und Regionen in Anhang 5 auf, die der Schweiz das Gegenrecht gewähren.[^23-1]
 
 <sup>3</sup>
 
-Es kann Zertifikate weiterer Staaten aufnehmen, sofern die folgenden Voraussetzungen erfüllt sind:
+Es kann Zertifikate weiterer Staaten und Regionen aufnehmen, sofern die folgenden Voraussetzungen erfüllt sind:[^23-2]
 
 - a. Das ausländische Zertifikat enthält die Angaben gemäss Artikel 12 und gemäss Artikel 14, 17 oder 20 in Verbindung mit den betreffenden Anhängen.
 - b. Die Angaben nach Buchstabe a können elektronisch auf Authentizität, Integrität und Gültigkeit überprüft werden.
@@ -547,7 +560,8 @@ Es kann Zertifikate weiterer Staaten aufnehmen, sofern die folgenden Voraussetzu
 
 <sup>4</sup> Es streicht diejenigen Zertifikate von der Liste, welche die Voraussetzungen nicht mehr erfüllen.
 
-[^23-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^23-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^23-2]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 #### Art. 24
 
@@ -573,10 +587,12 @@ Das BIT betreibt ein Informationssystem, das dazu dient, Signaturzertifikate zur
 Für folgende Covid-19-Zertifikate werden Signaturzertifikate nicht an ausländische Systeme geliefert:
 
 - a. Covid-19-Impfzertifikate nach Artikel 15 Absatz 3;
+- a<sup>bis</sup>.[^25-1] Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1 Buchstabe b;
 - b. Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3;
-- c. Covid-19-Ausnahmezertifikate nach Artikel 21*a* Absatz 1.[^25-1]
+- c. Covid-19-Ausnahmezertifikate nach Artikel 21*a* Absatz 1.[^25-2]
 
-[^25-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021, Bst. a seit 30. Nov. und Bst. c seit 10. Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^25-1]: Eingefügt durch Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^25-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021, Bst. a seit 30. Nov. und Bst. c seit 10. Jan. 2022 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [750](https://fedlex.data.admin.ch/eli/oc/2021/750), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 26
 
@@ -716,9 +732,9 @@ Das BIT ist das datenschutzrechtlich verantwortliche Bundesorgan im Rahmen:
 
 **Nachführung der Anhänge 1–4**[^33-1]
 
-Das EDI führt nach Anhörung des EFD und des EDA die Anhänge 1–4 entsprechend den international harmonisierten Normen nach, um die Interoperabilität mit den Zertifikaten möglichst vieler Staaten und die internationale Anerkennung der nach dieser Verordnung ausgestellten Zertifikate zu erreichen.
+Das EDI führt nach Anhörung des EFD und des EDA die Anhänge 1–4 entsprechend den international harmonisierten Normen nach, um die Interoperabilität mit den Zertifikaten möglichst vieler Staaten und Regionen und die internationale Anerkennung der nach dieser Verordnung ausgestellten Zertifikate zu erreichen.
 
-[^33-1]: Fassung gemäss Ziff. I der V vom 1. Sept. 2021, in Kraft seit 7. Sept. 2021 ([AS 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^33-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 #### Art. 34
 
@@ -862,12 +878,12 @@ Anhang 3*[^t-3]*
 
 ## Besondere Bestimmungen über Covid-19-Genesungszertifikate
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. I der V des EDI vom 22. Nov. 2021, in Kraft seit 23. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) und Ziff. II der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
 - 1\.1 Beginn der Gültigkeit
-  - a. bei Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1: am elften Tag nach dem ersten positiven Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2;
+  - a. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1: am elften Tag nach dem ersten positiven Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2 oder eines Sars-CoV-2-Schnelltests zur Fachanwendung;
   - b. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3: am Tag der Probenentnahme für die Analyse auf Sars-CoV-2-Antikörper.
 
 - 1\.2
@@ -884,7 +900,7 @@ Anhang 3*[^t-3]*
   Für Genesungszertifikate nach Artikel 16 Absatz 1:
 
   - a. durchgemachte Krankheit («Covid-19»);
-  - b. Datum des ersten positiven Ergebnisses einer molekularbiologischen Analyse auf Sars-CoV-2;
+  - b. Datum des ersten positiven Ergebnisses einer molekularbiologischen Analyse auf Sars-CoV-2 oder eines Sars-CoV-2-Schnelltests zur Fachanwendung;
   - c. Beginn der Gültigkeit;
   - d. Ende der Gültigkeit.
 
@@ -955,7 +971,7 @@ Anhang 5*[^t-6]*
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), vom 21. Dez. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) und vom 5. Jan. 2022, in Kraft seit 6. Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
+[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), vom 21. Dez. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) vom 5. Jan. 2022, in Kraft seit 6. Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)) und Ziff. II der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -974,7 +990,7 @@ Anhang 5*[^t-6]*
 
 - 2\.1
 
-  Anerkannt sind die Impf-, Genesungs- und Testzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von einem der folgenden Länder ausgestellt wurden:
+  Anerkannt sind die Impf-, Genesungs- und Testzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
 
   - – Albanien
   - – Andorra
@@ -983,7 +999,7 @@ Anhang 5*[^t-6]*
   - – El Salvador
   - – Färöer-Inseln
   - – Georgien
-  - – Heiliger Stuhl
+  - – Heiliger Stuhl (Vatikanstadt)
   - – Israel
   - – Marokko
   - – Moldova
@@ -1001,7 +1017,7 @@ Anhang 5*[^t-6]*
 
 - 2\.2
 
-  Anerkannt sind die Impf- und Testzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von einem der folgenden Länder ausgestellt wurden:
+  Anerkannt sind die Impf- und Testzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
 
   - – Neuseeland
   - – Singapur
@@ -1010,7 +1026,7 @@ Anhang 5*[^t-6]*
 
 - 2\.3
 
-  Anerkannt sind die Impfzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von einem der folgenden Länder ausgestellt wurden:
+  Anerkannt sind die Impfzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
 
   - – Libanon
   - – Tunesien
