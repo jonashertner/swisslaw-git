@@ -3,20 +3,20 @@ canton: BL
 number: "156.11"
 title: Verordnung über Schulvergütungen an den Schulen des Kantons Basel-Landschaft
 language: de
-version: 2020-01-01
-valid_until: 2022-01-23
-version_adopted: 2019-06-18
+version: 2022-01-24
+valid_until: 2022-07-31
+version_adopted: 2021-12-07
 adopted: 2005-03-15
 in_force: 2005-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/156.11"
-pdf: "https://bl.clex.ch/api/de/versions/2993/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3154/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Schulvergütungen an den Schulen des Kantons Basel-Landschaft
 
-Vom 15.03.2005 (Stand 01.01.2020)
+Vom 15.03.2005 (Stand 24.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
@@ -32,11 +32,12 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 - a. den Pool für Schulorganisation und Schulentwicklung, darin:
   - 1\. die Vergütung Dritter für die Ausübung bestimmter Tätigkeiten an den Schulen (Zusatztätigkeiten);
-  - 2\. die Vergütung ausserhalb des Berufsauftrags übernommener Tätigkeiten der Lehrperson (Spezialfunktionen) mit Ausnahme der Stundenplanlegung Sekundarstufe I und II sowie der Informatikbetreuung Sekundarstufe I;
+  - 2\. die Vergütung ausserhalb des Berufsauftrags übernommener Tätigkeiten der Lehrperson (Spezialfunktionen) mit Ausnahme der Spezialfunktionen gemäss Bst. c–f;
 - b. die Leistung von Mehrlektionen;
 - c. die Stundenplanlegung der Sekundarstufen I und II;
-- d. die Informatikbetreuung der Sekundarstufe I;
-- e. die Betreuung in ihrer schulischen bzw. beruflichen Laufbahn gefährdeter Schülerinnen und Schüler gemäss Schulprogramm der Sekundarschule bzw. der berufsbildenden Schule mit dualem Beschulungsauftrag.
+- d. den technischen ICT-Support (TICTS) der Sekundarstufe I;
+- e. die Betreuung in ihrer schulischen bzw. beruflichen Laufbahn gefährdeter Schülerinnen und Schüler gemäss Schulprogramm der Sekundarschule bzw. der berufsbildenden Schule mit dualem Beschulungsauftrag;
+- f. den pädagogischen ICT-Support (PICTS).
 
 #### § 2
 
@@ -147,6 +148,20 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 - a. bis zu 9 Klassen einen Sockelbetrag von CHF 1'000.–, ab 10 Klassen einen Sockelbetrag von CHF 2'000.–;
 - b. pro Klasse den Betrag von CHF 300.–.
 
+#### § 9a
+
+**Pädagogischer ICT-Support (PICTS)**
+
+<sup>1</sup> An den Primarschulen und den Schulen der Sekundarstufen I und II wird den Schulleitungen für den pädagogischen ICT-Support (PICTS) in Anlehnung an den Bestand der bezüglich den PICTS-Rollen ausgebildeten Lehrpersonen die folgende maximale Vergütung ausgerichtet. Die Vergütungen sind bis und mit Schuljahr 2027/2028 befristet.
+
+- a. 1/12 einer Lektion pro Klasse für PICTS-Initialisierung;
+- b. 1/4 einer Lektion pro Klasse für PICTS-Beratung;
+- c. 1/4 einer Lektion pro PICTS-Multiplikatorin bzw. PICTS-Multiplikator. Pro 10 an der jeweiligen Schule angestellten Lehrpersonen wird eine PICTS-Multiplikatorin bzw. ein PICTS-Multiplikator eingesetzt.
+
+<sup>2</sup> Für die Berufsfachschulen werden zur Berechnung der Vergütung gemäss Abs. 1 die Klassen mit dem Faktor 0,4 multipliziert.
+
+<sup>3</sup> Innerhalb der Schulart koordiniert die zuständige Dienststelle die Verteilung der pro Jahr budgetierten finanziellen Mittel auf die einzelnen Schulen.
+
 #### § 10
 
 **Schulpool, Verteilung und Rechenschaft**
@@ -157,9 +172,9 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 #### § 11
 
-**Informatikbetreuung**
+**Technischer ICT-Support (TICTS)**
 
-<sup>1</sup> An den Schulen der Sekundarstufe I wird den Schulleitungen für die Informatikbetreuung folgende Vergütung ausgerichtet:
+<sup>1</sup> An den Schulen der Sekundarstufe I wird den Schulleitungen für den technischen ICT-Support (TICTS) folgende Vergütung ausgerichtet:
 
 - a. CHF 4'500.– pro Schulanlage mit einer oder einem Informatikverantwortlichen für die 2.–4. Klassenzüge bis 9 Klassen und mindestens 13 Computern (exklusive Peripheriegeräte);
 - b. CHF 9'000.– pro Schulanlage mit einer oder einem Informatikverantwortlichen für die 2.–4. Klassenzüge ab 10 Klassen und mehr als 20 Computern (exklusive Peripheriegeräte).
