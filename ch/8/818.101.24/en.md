@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-01-21
+version: 2022-01-24
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220121/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220121-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220121/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220124/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220124-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220124/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 21 January 2022)
+of 19 June 2020 (Status as of 24 January 2022)
 
 The Swiss Federal Council,
 
@@ -770,18 +770,15 @@ Annex 1*[^t-1]*
 
 ## List of high-risk countries and regions
 
-[^t-1]: Amended by No I of the FDJP O of 15 Dec. 2021, in force since 20 Dec. 2021 ([AS 2021 880](https://fedlex.data.admin.ch/eli/oc/2021/880)).
+[^t-1]: Amended by No I of the FDJP O of 20 Jan. 2022, in force since 24 Jan. 2022 ([AS 2022 26](https://fedlex.data.admin.ch/eli/oc/2022/26)).
 
 ### 1. High-risk countries and regions (Art. 3 para. 2 let. a)
 
 All countries and regions outside the Schengen area, with the exception of:
 
 - – Andorra
-- – Argentina
-- – Australia
 - – Bahrain
 - – Bulgaria
-- – Canada
 - – Chile
 - – Colombia
 - – Croatia
@@ -807,13 +804,7 @@ All countries and regions outside the Schengen area, with the exception of:
 
 ### 2. High-risk countries and regions with a variant of the Sars-CoV-2 virus that carries a higher risk of infection or causes a more severe form of the disease in comparison with the variant of the virus prevalent in the Schengen area (Art. 3 para. 2 let. b)
 
-- – Botswana
-- – Eswatini
-- – Lesotho
-- – Mozambique
-- – Namibia
-- – South Africa
-- – Zimbabwe
+*There are no entries currently on this list*
 
 Annex 1a*[^t-2]*
 
@@ -1259,7 +1250,7 @@ Annex 6*[^t-8]*
 
 - 1\.4.1.
 
-  The Confederation shall pay the costs of immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard in the following cases only:
+  The Confederation shall pay the costs of immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use in the following cases only:
 
   - a. persons who have symptoms;
   - b. persons who have been in close contact with an infected person as defined in Article 7 paragraph 1 of the COVID-19 Special Situation Ordinance;

@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2022-01-21
+version: 2022-01-24
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220121/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220121-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220121/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220124/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220124-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220121/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 21. Januar 2022)
+vom 19. Juni 2020 (Stand am 24. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -768,15 +768,13 @@ Anhang 1*[^t-1]*
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 15. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 880](https://fedlex.data.admin.ch/eli/oc/2021/880)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 20. Jan. 2022, in Kraft seit 24. Jan. 2022 ([AS 2022 26](https://fedlex.data.admin.ch/eli/oc/2022/26)).
 
 ### 1. Risikoländer und -regionen (Art. 3 Abs. 2 Bst. a)
 
 Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 
 - – Andorra
-- – Argentinien
-- – Australien
 - – Bahrain
 - – Bulgarien
 - – Chile
@@ -784,7 +782,6 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Hongkong
 - – Indonesien
 - – Irland
-- – Kanada
 - – Katar
 - – Kolumbien
 - – Korea (Süd-)
@@ -805,13 +802,9 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 
 ### 2. Risikoländer und -regionen mit einer Variante des Virus Sars-CoV-2, von der im Vergleich zu der im Schengen-Raum verbreiteten Virusvariante eine höhere Gefahr der Ansteckung oder eines schweren Krankheitsverlaufs ausgeht (Art. 3 Abs. 2 Bst. b)
 
-- – Botsuana
-- – Eswatini
-- – Lesotho
-- – Mosambik
-- – Namibia
-- – Simbabwe
-- – Südafrika
+*Dieser Anhang enthält zurzeit keine Einträge.*
+
+- [tab]
 
 Anhang 1a*[^t-2]*
 
