@@ -3,11 +3,11 @@ sr: "0.103.2"
 title: Patto internazionale del 16 dicembre 1966 relativo ai diritti civili e politici
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/750_750_750"
 language: it
-version: 2019-05-28
+version: 2022-01-24
 adopted: 1966-12-16
 in_force: 1992-09-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/750_750_750/20190528/it/xml/fedlex-data-admin-ch-eli-cc-1993-750_750_750-20190528-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/20190528/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/750_750_750/20220124/it/xml/fedlex-data-admin-ch-eli-cc-1993-750_750_750-20220124-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/20220124/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1993** 750; FF **1991** I 925
 
 Traduzione
 
-Concluso a Nuova York il 16 dicembre 1966
+Concluso a Nuova York il 16 dicembre 1966 Approvato dall’Assemblea federale il 13 dicembre 1991[^t-1] Istrumento d’adesione depositato dalla Svizzera il 18 giugno 1992 Entrato in vigore per la Svizzera il 18 settembre 1992
 
-Approvato dall’Assemblea federale il 13 dicembre 1991[^t-1]
-
-Istrumento d’adesione depositato dalla Svizzera il 18 giugno 1992
-
-Entrato in vigore per la Svizzera il 18 settembre 1992
-
-(Stato 28 maggio 2019)
+(Stato 24 gennaio 2022)
 
 [^t-1]: [RU 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747)
 
@@ -718,11 +712,17 @@ Conformemente al paragrafo 1 dell’articolo 41 del Patto, il 27 marzo 2017 la S
 
 [^t-3]: [RU 2017 2247](https://fedlex.data.admin.ch/eli/oc/2017/208)
 
+Rinnovo della dichiarazione della Svizzera in merito al riconoscimento della competenza del Comitato dei diritti dell’uomo in virtù dell’articolo 41**[^t-4]**
+
+Conformemente al paragrafo 1 dell’articolo 41 del Patto, il 24 gennaio 2022 la Svizzera ha notificato al Segretario generale delle Nazioni Unite la propria decisione di riconoscere per un periodo di cinque anni la competenza del Comitato dei diritti dell’uomo di ricevere ed esaminare comunicazioni nelle quali uno Stato Parte pretende che un altro Stato parte non adempia agli obblighi derivanti dal Patto.
+
+[^t-4]: [RU 2022 104](https://fedlex.data.admin.ch/eli/oc/2022/104)
+
 Altre riserve e dichiarazioni
 
-Svizzera**[^t-4]**
+Svizzera**[^t-5]**
 
-Articolo 10 paragrafo 2 lettera b*[^t-5]*
+Articolo 10 paragrafo 2 lettera b*[^t-6]*
 
 ...
 
@@ -730,15 +730,15 @@ Articolo 12 paragrafo 1
 
 Il diritto di circolare e di scegliere liberamente la propria residenza è applicabile con riserva delle disposizioni della legislazione federale sugli stranieri, secondo cui i permessi di soggiorno e di domicilio sono validi soltanto per il Cantone che li ha concessi.
 
-Articolo 14 paragrafo 1*[^t-6]*
+Articolo 14 paragrafo 1*[^t-7]*
 
 ...
 
-Articolo 14 paragrafo 3 lettere d e f*[^t-7]*
+Articolo 14 paragrafo 3 lettere d e f*[^t-8]*
 
 ...
 
-Articolo 14 paragrafo 5*[^t-8]*
+Articolo 14 paragrafo 5*[^t-9]*
 
 ...
 
@@ -754,8 +754,8 @@ Articolo 26
 
 L’uguaglianza di tutte le persone davanti alla legge ed il loro diritto, senza discriminazione, ad una eguale protezione da parte della stessa saranno garantiti soltanto in relazione ad altri diritti contenuti nel presente Patto.
 
-[^t-4]: Art. 1 cpv. 1 del DF del 13 dic. 1991 ([RU 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747)).
-[^t-5]: [RU 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
+[^t-5]: Art. 1 cpv. 1 del DF del 13 dic. 1991 ([RU 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747)).
 [^t-6]: [RU 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
-[^t-7]: [RU 2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604), [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167)
-[^t-8]: [RU 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
+[^t-7]: [RU 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
+[^t-8]: [RU 2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604), [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167)
+[^t-9]: [RU 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)

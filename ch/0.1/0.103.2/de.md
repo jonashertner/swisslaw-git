@@ -3,11 +3,11 @@ sr: "0.103.2"
 title: Internationaler Pakt vom 16. Dezember 1966 über bürgerliche und politische Rechte
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/750_750_750"
 language: de
-version: 2019-05-28
+version: 2022-01-24
 adopted: 1966-12-16
 in_force: 1992-09-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/750_750_750/20190528/de/xml/fedlex-data-admin-ch-eli-cc-1993-750_750_750-20190528-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/20190528/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/750_750_750/20220124/de/xml/fedlex-data-admin-ch-eli-cc-1993-750_750_750-20220124-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/20220124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 750; BBl **1991** I 1189
 
 Abgeschlossen in New York am 16. Dezember 1966 Von der Bundesversammlung genehmigt am 13. Dezember 1991[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 18. Juni 1992 In Kraft getreten für die Schweiz am 18. September 1992
 
-(Stand am 28. Mai 2019)
+(Stand am 24. Januar 2022)
 
 [^t-1]: [AS 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747)
 
@@ -690,10 +690,10 @@ Geltungsbereich am 28. Mai 2019**[^t-2]**
 <tr><td>Vietnam\*</td><td colspan="2">24. September</td><td colspan="2">1982 B</td><td colspan="3">24. Dezember</td><td colspan="2">1982</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td colspan="2">8. Mai</td><td colspan="2">1981 B</td><td colspan="3">8. August</td><td colspan="2">1981</td></tr>
 <tr><td>Zypern\*\*</td><td colspan="2">2. April</td><td colspan="2">1969</td><td colspan="3">23. März</td><td colspan="2">1976</td></tr>
-<tr><td colspan="10"><sup>\*</sup> Vorbehalte und Erklärungen. <sup>\*\*</sup> Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="10">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1993 750](https://fedlex.data.admin.ch/eli/oc/1993/750_750_750)[3103](https://fedlex.data.admin.ch/eli/oc/1993/3103_3103_3103), [1996 717](https://fedlex.data.admin.ch/eli/oc/1996/717_717_717), [2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604), [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167), [2005 2615](https://fedlex.data.admin.ch/eli/oc/2005/452), [2007 415](https://fedlex.data.admin.ch/eli/oc/2007/82)[3837](https://fedlex.data.admin.ch/eli/oc/2007/496), [2008 645](https://fedlex.data.admin.ch/eli/oc/2008/153), [2009 7097](https://fedlex.data.admin.ch/eli/oc/2009/856), [2011 6527](https://fedlex.data.admin.ch/eli/oc/2011/904), [2016 3149](https://fedlex.data.admin.ch/eli/oc/2016/524), [2017 2247](https://fedlex.data.admin.ch/eli/oc/2017/208), [2019 1791](https://fedlex.data.admin.ch/eli/oc/2019/328). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1993 750](https://fedlex.data.admin.ch/eli/oc/1993/750_750_750)[3103](https://fedlex.data.admin.ch/eli/oc/1993/3103_3103_3103), [1996 717](https://fedlex.data.admin.ch/eli/oc/1996/717_717_717), [2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604), [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167), [2005 2615](https://fedlex.data.admin.ch/eli/oc/2005/452), [2007 415](https://fedlex.data.admin.ch/eli/oc/2007/82)[3837](https://fedlex.data.admin.ch/eli/oc/2007/496), [2008 645](https://fedlex.data.admin.ch/eli/oc/2008/153), [2009 7097](https://fedlex.data.admin.ch/eli/oc/2009/856), [2011 6527](https://fedlex.data.admin.ch/eli/oc/2011/904), [2016 3149](https://fedlex.data.admin.ch/eli/oc/2016/524), [2017 2247](https://fedlex.data.admin.ch/eli/oc/2017/208), [2019 1791](https://fedlex.data.admin.ch/eli/oc/2019/328). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
 
 Erklärung der Schweiz betreffend Anerkennung der Zuständigkeit des Ausschusses für Menschenrechte auf Grund des Artikels 41**[^t-3]**
 
@@ -703,13 +703,21 @@ Die Verlängerung ist am 27. März 2017 wirksam geworden.
 
 [^t-3]: [AS 2017 2247](https://fedlex.data.admin.ch/eli/oc/2017/208)
 
+Erneuerung der Erklärung der Schweiz betreffend Anerkennung der Zuständigkeit des Ausschusses für Menschenrechte auf Grund des Artikels 41**[^t-4]**
+
+Am 24. Januar 2022 hat die Schweiz dem Generalsekretär der Vereinten Nationen ihren Entscheid notifiziert, gemäss Artikel 41 Absatz 1 des Paktes die Anerkennung der Zuständigkeit des Ausschusses für Menschenrechte zur Entgegennahme und Prüfung von Mitteilungen, mit denen ein Vertragsstaat geltend macht, ein anderer Vertragsstaat komme seinen Verpflichtungen nicht nach, für eine Zeitdauer von fünf Jahren zu verlängern.
+
+Die Verlängerung ist am 24. Januar 2022 wirksam geworden.
+
+[^t-4]: [AS 2022 104](https://fedlex.data.admin.ch/eli/oc/2022/104)
+
 Andere Vorbehalte und Erklärungen
 
-Schweiz**[^t-4]**
+Schweiz**[^t-5]**
 
 Artikel 10 Absatz 2 Buchstabe b:
 
-...[^t-5]
+…[^t-6]
 
 Artikel 12 Absatz 1:
 
@@ -717,15 +725,15 @@ Das Recht, sich frei zu bewegen und seinen Wohnsitz frei zu wählen, steht unter
 
 Artikel 14 Absatz 1:
 
-...[^t-6]
+…[^t-7]
 
 Artikel 14 Absatz 3 Buchstaben d und f:
 
-...[^t-7]
+…[^t-8]
 
 Artikel 14 Absatz 5:
 
-...[^t-8]
+…[^t-9]
 
 Artikel 20:
 
@@ -739,8 +747,8 @@ Artikel 26:
 
 Die Gleichheit aller Menschen vor dem Gesetz und ihr Anspruch ohne Diskriminierung auf gleichen Schutz durch das Gesetz werden nur in Verbindung mit anderen in diesem Pakt enthaltenen Rechten gewährleistet.
 
-[^t-4]: Art. 1 Abs. 1 des BB vom 13. Dez. 1991 ([AS 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747)).
-[^t-5]: [AS 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
+[^t-5]: Art. 1 Abs. 1 des BB vom 13. Dez. 1991 ([AS 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747)).
 [^t-6]: [AS 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
-[^t-7]: [AS 2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604), [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167)
-[^t-8]: [AS 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
+[^t-7]: [AS 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
+[^t-8]: [AS 2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604), [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167)
+[^t-9]: [AS 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)

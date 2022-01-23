@@ -3,11 +3,11 @@ sr: "0.103.2"
 title: Pacte international du 16 décembre 1966 relatif aux droits civils et politiques
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/750_750_750"
 language: fr
-version: 2019-05-28
+version: 2022-01-24
 adopted: 1966-12-16
 in_force: 1992-09-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/750_750_750/20190528/fr/xml/fedlex-data-admin-ch-eli-cc-1993-750_750_750-20190528-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/20190528/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/750_750_750/20220124/fr/xml/fedlex-data-admin-ch-eli-cc-1993-750_750_750-20220124-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/750_750_750/20220124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 18 juin 1992
 
 Entré en vigueur pour la Suisse le 18 septembre 1992
 
-(Etat le 28 mai 2019)
+(Etat le 24 janvier 2022)
 
 [^t-1]: [RO 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747)
 
@@ -719,13 +719,19 @@ Le 27 mars 2017, la Suisse a notifié au Secrétaire général des Nations Unies
 
 [^t-3]: [RO 2017 2247](https://fedlex.data.admin.ch/eli/oc/2017/208)
 
+Renouvellement de la déclaration de la Suisse reconnaissant la compétence du Comité des droits de l’homme en vertu de l’art. 41**[^t-4]**
+
+Le 24 janvier 2022, la Suisse a notifié au Secrétaire général des Nations Unies sa décision, conformément au par. 1 de l’art. 41 du Pacte de reconnaître pour une période de cinq ans la compétence du Comité des droits de l’homme pour recevoir et examiner des communications dans lesquelles un État partie prétend qu’un autre État partie ne s’acquitte pas de ses obligations découlant du Pacte.
+
+[^t-4]: [RO 2022 104](https://fedlex.data.admin.ch/eli/oc/2022/104)
+
 Autres réserves et déclarations
 
-**Suisse**[^t-4]
+**Suisse**[^t-5]
 
 Art. 10, par. 2, let. b:
 
-...[^t-5]
+...[^t-6]
 
 Art. 12, par. 1:
 
@@ -733,11 +739,11 @@ Le droit de circuler et de choisir librement sa résidence est applicable sous r
 
 Art. 14, par. 1 et 5
 
-...[^t-6]
+...[^t-7]
 
 Art. 14, par. 3, let. d et f:
 
-...[^t-7]
+...[^t-8]
 
 Art. 20:
 
@@ -751,7 +757,7 @@ Art. 26:
 
 L’égalité de toutes les personnes devant la loi et leur droit à une égale protection de la loi sans discrimination ne seront garantis qu’en liaison avec d’autres droits contenus dans le présent Pacte.
 
-[^t-4]: Art. 1 al. 1 de l’AF du 13 déc. 1991 ([RO 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747))
-[^t-5]: [RO 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
+[^t-5]: Art. 1 al. 1 de l’AF du 13 déc. 1991 ([RO 1993 747](https://fedlex.data.admin.ch/eli/oc/1993/747_747_747))
 [^t-6]: [RO 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
-[^t-7]: [RO 2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604), [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167)
+[^t-7]: [RO 2007 3837](https://fedlex.data.admin.ch/eli/oc/2007/496)
+[^t-8]: [RO 2003 4079](https://fedlex.data.admin.ch/eli/oc/2003/604), [2004 1375](https://fedlex.data.admin.ch/eli/oc/2004/167)
