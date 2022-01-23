@@ -5,32 +5,28 @@ title: Vollzugsverordnung betreffend die Lehrpersonen
 short: "Lehrpersonalverordnung, LPV"
 language: de
 version: 2021-08-01
-valid_until: 2023-07-31
+corrected: 2022-01-24
 version_adopted: 2021-06-23
 adopted: 2008-06-24
 in_force: 2008-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.117"
-pdf: "https://gesetze.nw.ch/api/de/versions/1130/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/490/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung betreffend die Lehrpersonen
+# Vollzugsverordnung betreffend die Lehrpersonen (Lehrpersonalverordnung, LPV<sup>13</sup>)
 
-(Lehrpersonalverordnung, LPV)
-
-vom 24.06.2008 (Stand 01.08.2021)
+vom 24. Juni 2008<sup>1</sup>
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 11, 76 und 84 des Gesetzes vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz)[^ingress-1] sowie von Art. 19–27 des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)[^ingress-2],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 11, 76 und 84 des Gesetzes vom 3. Juni 1998 über das öffentlichrechtliche Arbeitsverhältnis (Personalgesetz)<sup>2</sup> sowie von Art. 19-27 des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)<sup>3</sup>,
 
 beschliesst:
 
-[^ingress-1]: NG 165.1
-[^ingress-2]: NG 311.1
-
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### § 1
 
@@ -38,7 +34,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung gilt für alle im öffentlichrechtlichen Arbeitsverhältnis beschäftigten Lehrpersonen mit Ausnahme jener Bestimmungen, welche ausdrücklich auf Lehrpersonen an bestimmten Schulen eingeschränkt werden.
 
-<sup>2</sup> Für die Schulleitungen gilt die Verordnung hinsichtlich des Teils ihres Pensums, in dem sie Unterricht erteilen.
+<sup>2</sup> Für die Schulleitungen gilt die Verordnung hinsichtlich des Teils ihres Pensums, in dem sie Unterricht erteilen.<sup>11</sup>
 
 #### § 2
 
@@ -48,41 +44,37 @@ beschliesst:
 
 <sup>2</sup> Nicht anwendbar sind:
 
-- 1\. § 6–11 der Personalverordnung[^2-1];
-- 2\. die Arbeitszeitverordnung[^2-2];
-- 3\. § 8, 9, 21–23 und 25 der Entlöhnungsverordnung[^2-3];
-- 4\. § 3–5 der Weiterbildungsverordnung[^2-4].
+- 1\. § 6-11 der Personalverordnung<sup>4</sup>;
 
-<sup>3</sup> Für Lehrpersonen der Schulgemeinden gelten die abweichenden kommunalen Bestimmungen insbesondere die Entlöhnungsvereinbarung[^2-5].
+- 2\. die Arbeitszeitverordnung<sup>5</sup>;
 
-[^2-1]: NG 165.111
-[^2-2]: NG 165.112
-[^2-3]: NG 165.113
-[^2-4]: NG 165.114
-[^2-5]: NG 311.112
+- 3\. § 8, 9, 21-23 und 25 der Entlöhnungsverordnung<sup>6</sup>;
+
+- 4\. § 3-5 der Weiterbildungsverordnung<sup>7</sup>.
+
+<sup>3</sup> Für Lehrpersonen der Schulgemeinden gelten die abweichenden kommunalen Bestimmungen insbesondere die Entlöhnungsvereinbarung<sup>8</sup>.
 
 #### § 3
 
 **Lehrbewilligung**
 
-<sup>1</sup> Die Anerkennung von Ausbildungsabschlüssen, die Erteilung von Lehrfähigkeitsausweisen sowie das Verbot der Lehrtätigkeit richten sich nach Art. 21 des Bildungsgesetzes[^3-1].
+Die Anerkennung von Ausbildungsabschlüssen, die Erteilung von Lehrfähigkeitsausweisen sowie das Verbot der Lehrtätigkeit richten sich nach Art. 21 des Bildungsgesetzes<sup>3</sup>.
 
-[^3-1]: NG 311.1
-
-## 2 Beruflicher Auftrag
+### II. BERUFLICHER AUFTRAG
 
 #### § 4
 
 **Arbeitsfelder**
 
-<sup>1</sup> Der berufliche Auftrag umfasst, gestützt auf Art. 22 des Bildungsgesetzes[^4-1], die vier Arbeitsfelder:
+Der berufliche Auftrag umfasst, gestützt auf Art. 22 des Bildungsgesetzes<sup>3</sup>, die vier Arbeitsfelder:
 
 - 1\. Klasse und Unterricht;
-- 2\. Lernende und Umfeld;
-- 3\. Schule;
-- 4\. Lehrperson.
 
-[^4-1]: NG 311.1
+- 2\. Lernende und Umfeld;
+
+- 3\. Schule;
+
+- 4\. Lehrperson.
 
 #### § 5
 
@@ -93,22 +85,27 @@ beschliesst:
 <sup>2</sup> Zum Bereich Unterrichten und Erziehen gehört die direkte Arbeit mit den Lernenden. Diese umfasst:
 
 - 1\. die Unterrichtstätigkeit im Schulzimmer;
+
 - 2\. Aktivitäten ausserhalb des Schulzimmers, insbesondere die Durchführung von Exkursionen, Schulreisen und Schulverlegungen.
 
 <sup>3</sup> Der Bereich Planen, Vorbereiten, Organisieren und Auswerten des Unterrichts steht in unmittelbarem Zusammenhang mit dem Unterrichten und Erziehen und umfasst insbesondere:
 
-- 1\. die Unterrichtsplanung, ‑vorbereitung und ‑auswertung;
+- 1\. die Unterrichtsplanung, -vorbereitung und -auswertung;
+
 - 2\. die Korrektur und Bewertung der Arbeit von Lernenden;
+
 - 3\. organisatorische, administrative und planerische Tätigkeiten.
 
 #### § 6
 
 **Arbeitsfeld Lernende und Umfeld**
 
-<sup>1</sup> Das Arbeitsfeld Lernende und Umfeld beinhaltet Lehr- und Beratungstätigkeiten ausserhalb des Unterrichts und umfasst insbesondere:
+Das Arbeitsfeld Lernende und Umfeld beinhaltet Lehr- und Beratungstätigkeiten ausserhalb des Unterrichts und umfasst insbesondere:
 
 - 1\. die Beurteilung und die Beratung;
+
 - 2\. die Zusammenarbeit mit der Schulleitung, Lehrpersonen, Eltern, Fachpersonen, Amts- und Fachstellen, Institutionen und anderen Bildungspartnern;
+
 - 3\. das Ausstellen von Berichten und Referenzen.
 
 #### § 7
@@ -120,28 +117,36 @@ beschliesst:
 <sup>2</sup> Aufgaben, die zum engeren Auftrag gehören, sind:
 
 - 1\. die pädagogische Mitgestaltung der Schule, insbesondere durch die Teilnahme an internen Veranstaltungen zur Schul- und Qualitätsentwicklung;
+
 - 2\. die Zusammenarbeit im Kollegium, mit Behörden und Amtsstellen;
+
 - 3\. die Vorbereitung und Durchführung von Schulanlässen;
+
 - 4\. die Teilnahme an Sitzungen und Konferenzen;
+
 - 5\. die Wahrnehmung von Aufsichtspflichten.
 
 <sup>3</sup> Aufgaben, die zum erweiterten Auftrag gehören, sind insbesondere:
 
 - 1\. das Engagement in Arbeitsgruppen zu Schul- und Unterrichtsprojekten;
+
 - 2\. die Evaluation und Einführung von neuen Lehrmitteln und Lehrplänen;
+
 - 3\. die Wahrnehmung von weiteren Aufgaben, welche die Schulleitung anordnet.
 
 #### § 8
 
 **Arbeitsfeld Lehrperson**
 
-<sup>1</sup> Das Arbeitsfeld Lehrperson umfasst:
+Das Arbeitsfeld Lehrperson umfasst:
 
 - 1\. die Evaluation der eigenen Tätigkeit gemäss dem Qualitätskonzept der Schule;
-- 2\. die Weiterentwicklung der eigenen beruflichen Tätigkeit;
-- 3\. die institutionalisierte, die nicht institutionalisierte und die schulinterne Weiterbildung gemäss § 33–40.
 
-## 3 Arbeitszeit, Ferien, Urlaub
+- 2\. die Weiterentwicklung der eigenen beruflichen Tätigkeit;
+
+- 3\. die institutionalisierte, die nicht institutionalisierte und die schulinterne Weiterbildung gemäss § 33-40.
+
+### III. ARBEITSZEIT, FERIEN, URLAUB
 
 #### § 9
 
@@ -171,13 +176,13 @@ beschliesst:
 
 <sup>1</sup> Für Lehrpersonen, die im laufenden Kalenderjahr das 55. Altersjahr vollenden, vermindert sich die wöchentliche Unterrichtsverpflichtung gemäss Anhang 1 ab 1. August um eine Lektion.
 
-<sup>2</sup> Für Lehrpersonen, die im laufenden Kalenderjahr das 58. Altersjahr vollenden, vermindert sich die wöchentliche Unterrichtsverpflichtung gemäss Anhang 1 ab 1. August um insgesamt zwei Lektionen.
+<sup>2</sup> Für Lehrpersonen, die im laufenden Kalenderjahr das 58. Altersjahr vollenden, vermindert sich die wöchentliche Unterrichtsverpflichtung gemäss Anhang 1 ab 1. August um insgesamt zwei Lektionen.<sup>11</sup>
 
-<sup>3</sup> Für Lehrpersonen, die im laufenden Kalenderjahr das 60. Altersjahr vollenden, vermindert sich die wöchentliche Unterrichtsverpflichtung gemäss Anhang 1 ab 1. August um insgesamt drei Lektionen.
+<sup>3</sup> Für Lehrpersonen, die im laufenden Kalenderjahr das 60. Altersjahr vollenden, vermindert sich die wöchentliche Unterrichtsverpflichtung gemäss Anhang 1 ab 1. August um insgesamt drei Lektionen.<sup>11</sup>
 
-<sup>4</sup> Bei Teilpensen wird die Reduktion proportional angerechnet.
+<sup>4</sup> Bei Teilpensen wird die Reduktion proportional angerechnet.<sup>11</sup>
 
-<sup>5</sup> Sind Lehrpersonen aufgrund ihres Gesundheitszustandes beschränkt arbeitsfähig, kann die Anstellungsinstanz die wöchentliche Unterrichtsverpflichtung ohne Lohnreduktion befristet angemessen herabsetzen. In diesem Fall sind § 10 Abs. 3–4 nicht anwendbar.
+<sup>5</sup> Sind Lehrpersonen aufgrund ihres Gesundheitszustandes beschränkt arbeitsfähig, kann die Anstellungsinstanz die wöchentliche Unterrichtsverpflichtung ohne Lohnreduktion befristet angemessen herabsetzen. In diesem Fall sind § 10 Abs. 3-4 nicht anwendbar.<sup>11</sup>
 
 #### § 12
 
@@ -187,10 +192,13 @@ beschliesst:
 
 <sup>2</sup> Die zeitliche Inanspruchnahme der Lehrpersonen bewegt sich in folgenden Grössenordnungen:
 
-- 1\. Arbeitsfeld Klasse und Unterricht: 82.5%;
-- 2\. Arbeitsfeld Lernende und Umfeld: 5%;
-- 3\. Arbeitsfeld Schule: 7.5%;
-- 4\. Arbeitsfeld Lehrperson: 5%.
+- 1\. Arbeitsfeld Klasse und Unterricht: 82.5 %;
+
+- 2\. Arbeitsfeld Lernende und Umfeld: 5 %;
+
+- 3\. Arbeitsfeld Schule: 7.5 %;
+
+- 4\. Arbeitsfeld Lehrperson: 5 %.
 
 <sup>3</sup> Die Schulleitung legt die vorgegebenen Arbeitszeiten und Termine jeweils für ein Semester beziehungsweise für ein Jahr verbindlich fest.
 
@@ -198,7 +206,7 @@ beschliesst:
 
 **Arbeitszeit für Teilzeitlehrpersonen an der Volksschule**
 
-<sup>1</sup> Für Teilzeitlehrpersonen an der Volksschule mit einer Unterrichtsverpflichtung ab 50% beträgt die Mitarbeit im Arbeitsfeld Schule 100%.
+<sup>1</sup> Für Teilzeitlehrpersonen an der Volksschule mit einer Unterrichtsverpflichtung ab 50 % beträgt die Mitarbeit im Arbeitsfeld Schule 100 %.
 
 <sup>2</sup> Bei der Pensenberechnung ist diese Verpflichtung im Hinblick auf die Entlöhnung zu berücksichtigen.
 
@@ -217,13 +225,14 @@ beschliesst:
 <sup>5</sup> Die Höhe des Lektionenpools wird festgelegt durch:
 
 - 1\. den Mittelschulrat beziehungsweise die Berufsbildungskommission oder die Heilpädagogische Kommission für die kantonalen Schulen;
+
 - 2\. den Schulrat für die Gemeindeschulen.
 
 #### § 15
 
 **Erteilung von Unterricht an einer anderen Schule**
 
-<sup>1</sup> Die Anstellungsinstanz kann eine Lehrperson verpflichten, im Rahmen des vertraglich vereinbarten Pensums vorübergehend an einer anderen öffentlichen Schule zu unterrichten, wenn an der eigenen Schule nicht das volle Pensum abgedeckt werden kann.
+Die Anstellungsinstanz kann eine Lehrperson verpflichten, im Rahmen des vertraglich vereinbarten Pensums vorübergehend an einer anderen öffentlichen Schule zu unterrichten, wenn an der eigenen Schule nicht das volle Pensum abgedeckt werden kann.
 
 #### § 16
 
@@ -255,27 +264,31 @@ beschliesst:
 
 <sup>4</sup> Der Abzug je ganze Schulwoche wird wie folgt berechnet:
 
-«Jahreslohn einschliesslich 13. Monatslohn» / «Schulwochen der Schule»
+Jahreslohn einschliesslich 13. Monatslohn
+
+Schulwochen der Schule
 
 <sup>5</sup> Bei angebrochenen Schulwochen wird der Abzug je Lektion wie folgt berechnet:
 
-«Jahreslohn einschliesslich 13. Monatslohn» / («Schulwochen der Schule» x «wöchentliche Unterrichtsverpflichtung»)
+Jahreslohn einschliesslich 13. Monatslohn
+
+Schulwochen der Schule x wöchentliche Unterrichtsverpflichtung
 
 #### § 19
 
 **Mutterschaftsurlaub**
 
-<sup>1</sup> Lehrerinnen haben Anspruch auf Mutterschaftsurlaub gemäss § 15 der Personalverordnung[^19-1].
+<sup>1</sup> Lehrerinnen haben Anspruch auf Mutterschaftsurlaub gemäss § 15 der Personalverordnung<sup>4</sup>.
 
 <sup>2</sup> Mutterschaftsurlaub, welcher in die Schulferien fällt, kann nicht nachbezogen werden.
 
-[^19-1]: NG 165.111
-
-## 4 Entlöhnung
+### IV. ENTLÖHNUNG
 
 #### § 20
 
-**Einreihung 1. Grundsätze**
+**Einreihung**
+
+### 1. Grundsätze
 
 <sup>1</sup> Jede Lehrperson wird grundsätzlich aufgrund ihrer Funktion sowie ihrer fachlichen und pädagogischen Qualifikation gemäss Anhang 1 einem Lohnband zugeordnet.
 
@@ -301,14 +314,17 @@ beschliesst:
 
 <sup>2</sup> Bei der Festlegung des massgebenden Lebensalters berücksichtigt die Anstellungsinstanz die bisherige berufliche Erfahrung angemessen. Sie orientiert sich dabei an den folgenden Richtlinien:
 
-- 1\. Jahre im Schuldienst mit einem Pensum von mindestens 70% werden voll angerechnet;
-- 2\. Jahre im Schuldienst mit einem Pensum von mindestens 30% können voll angerechnet werden, sofern nachweislich die Weiterbildungsverpflichtung erfüllt worden ist;
+- 1\. Jahre im Schuldienst mit einem Pensum von mindestens 70 % werden voll angerechnet;
+
+- 2\. Jahre im Schuldienst mit einem Pensum von mindestens 30 % können voll angerechnet werden, sofern nachweislich die Weiterbildungsverpflichtung erfüllt worden ist;
+
 - 3\. Jahre mit anderen beruflichen oder berufsbezogenen Tätigkeiten sowie die Dauer der Führung eines Familienhaushalts werden zur Hälfte angerechnet;
+
 - 4\. nicht angerechnet wird insbesondere die Ausbildungszeit.
 
 #### § 23
 
-**Lohnentwicklung**
+**Lohnentwicklung<sup>12</sup>**
 
 <sup>1</sup> Das Personalamt berechnet die Lohnvorschläge für das folgende Jahr aufgrund der aktuellen Löhne der einzelnen Lehrpersonen mittels Lohnentwicklungsindex.
 
@@ -318,9 +334,7 @@ beschliesst:
 
 **Zulage für Mentorinnen und Mentoren**
 
-<sup>1</sup> Die Zulage für Mentorinnen und Mentoren entspricht der Auszahlung von Überzeit gemäss § 24 der Entlöhnungsverordnung[^24-1].
-
-[^24-1]: NG 165.113
+Die Zulage für Mentorinnen und Mentoren entspricht der Auszahlung von Überzeit gemäss § 24 der Entlöhnungsverordnung<sup>6</sup>.
 
 #### § 25
 
@@ -330,11 +344,15 @@ beschliesst:
 
 <sup>2</sup> Die Entlöhnung je ganze Schulwoche wird wie folgt berechnet:
 
-«Jahreslohn einschliesslich 13. Monatslohn» / «Schulwochen der Schule»
+Jahreslohn einschliesslich 13. Monatslohn
+
+Schulwochen der Schule
 
 <sup>3</sup> Die Entlöhnung bei angebrochenen Schulwochen wird je Lektion wie folgt berechnet:
 
-«Jahreslohn einschliesslich 13. Monatslohn» / («Schulwochen der Schule» x «wöchentliche Unterrichtsverpflichtung»)
+Jahreslohn einschliesslich 13. Monatslohn
+
+Schulwochen der Schule x wöchentliche Unterrichtsverpflichtung
 
 <sup>4</sup> Der Lohn wird im Rahmen des Lohnbandes festgelegt. Er darf die Lohnleitlinie nicht überschreiten.
 
@@ -342,9 +360,9 @@ beschliesst:
 
 <sup>6</sup> Mit diesem Lohn sind die Entschädigungen für Ferien und der Anteil des 13. Monatslohns abgegolten.
 
-## 5 Berufseinführung und Beratung
+### V. BERUFSEINFÜHRUNG UND BERATUNG
 
-### 5.1 Allgemeine Bestimmungen
+### A. Allgemeine Bestimmungen
 
 #### § 26
 
@@ -356,7 +374,7 @@ beschliesst:
 
 <sup>3</sup> Bei der Mittelschule und der Berufsfachschule werden das Verfahren und die Aufgaben des Mentorats im Qualitätskonzept geregelt.
 
-### 5.2 Berufseinführung und Beratung in der Volksschule
+### B. Berufseinführung und Beratung in der Volksschule
 
 #### § 27
 
@@ -365,7 +383,9 @@ beschliesst:
 <sup>1</sup> Die Bestimmungen dieses Abschnitts gelten für die Volksschule und sind anwendbar für die Beratung von:
 
 - 1\. Lehrpersonen während der Berufseinführung;
+
 - 2\. Lehrpersonen in Ausbildung während ihrer Tätigkeit im Praktikum;
+
 - 3\. neu in den Schuldienst einer Gemeinde oder des Kantons eintretenden Lehrpersonen nach Abschluss der Berufseinführung, insbesondere auch für Stellvertreterinnen und Stellvertreter.
 
 <sup>2</sup> Für die Beratung von Lehrpersonen in Ausbildung gelten ergänzend die Weisungen der betreffenden Ausbildungsstätten.
@@ -382,7 +402,9 @@ beschliesst:
 
 #### § 29
 
-**Berufseinführung 1. Grundsatz**
+**Berufseinführung**
+
+### 1. Grundsatz
 
 <sup>1</sup> Lehrpersonen werden in den ersten beiden Schuljahren nach Abschluss ihrer Grundausbildung in den Beruf eingeführt.
 
@@ -400,10 +422,14 @@ beschliesst:
 
 <sup>2</sup> Sie umfasst:
 
-- 1\. den Unterricht, insbesondere Unterrichtsorganisation und ‑planung, Methodik und Didaktik, Schülerinnen- und Schülerbeurteilung, Umgang mit Lehrmitteln und Schulmaterial, Arbeit mit technischen Hilfsmitteln, Hausaufgaben;
+- 1\. den Unterricht, insbesondere Unterrichtsorganisation und -planung, Methodik und Didaktik, Schülerinnen- und Schülerbeurteilung, Umgang mit Lehrmitteln und Schulmaterial, Arbeit mit technischen Hilfsmitteln, Hausaufgaben;
+
 - 2\. die Erziehung, insbesondere Klassenführung und Unterrichtsklima;
+
 - 3\. eine Einführung in die lokalen Schulverhältnisse, in die Teamarbeit und die Qualitätsentwicklung;
+
 - 4\. die Zusammenarbeit mit Eltern und Behörden;
+
 - 5\. eine Einführung in die kantonalen Rahmenbedingungen und die Bildungsgesetzgebung.
 
 <sup>3</sup> Sie beinhaltet auch gegenseitige Schulbesuche.
@@ -412,33 +438,35 @@ beschliesst:
 
 **3. Praxisgruppe**
 
-<sup>1</sup> Ergänzend zur individuellen Beratung können Lehrpersonen während der Berufseinführung in einer Praxisgruppe mitarbeiten.
+Ergänzend zur individuellen Beratung können Lehrpersonen während der Berufseinführung in einer Praxisgruppe mitarbeiten.
 
 #### § 32
 
-**Beratung neu eintretender Lehrpersonen nach Abschluss der Berufseinführung**
+**Beratung neu eintretender Lehrpersonen nach Ab-**
+
+schluss der Berufseinführung
 
 <sup>1</sup> Für die Einführung neu eintretender Lehrpersonen nach Abschluss der Berufseinführung, insbesondere auch von Stellvertreterinnen und Stellvertretern, ist die Schulleitung zuständig.
 
 <sup>2</sup> Die Einführung kann folgende Bereiche beinhalten:
 
 - 1\. eine Einführung in die Schulverhältnisse der Gemeinde;
+
 - 2\. eine Einführung in die kantonalen Rahmenbedingungen;
+
 - 3\. einen oder mehrere Schulbesuche.
 
-## 6 Weiterbildung
+### VI. WEITERBILDUNG
 
-### 6.1 Allgemeine Bestimmungen
+### A. Allgemeine Bestimmungen
 
 #### § 33
 
 **Zweck**
 
-<sup>1</sup> Die Weiterbildung ist sowohl Recht als auch Pflicht der Lehrpersonen und bewahrt deren Fähigkeit, den beruflichen Auftrag gemäss Art. 22 des Bildungsgesetzes[^33-1] wahrzunehmen.
+<sup>1</sup> Die Weiterbildung ist sowohl Recht als auch Pflicht der Lehrpersonen und bewahrt deren Fähigkeit, den beruflichen Auftrag gemäss Art. 22 des Bildungsgesetzes<sup>3</sup> wahrzunehmen.
 
 <sup>2</sup> Ferner dient die Weiterbildung der Lehrpersonen der Entwicklung der Schule im Allgemeinen.
-
-[^33-1]: NG 311.1
 
 #### § 34
 
@@ -464,25 +492,29 @@ beschliesst:
 
 **Institutionalisierte Weiterbildung**
 
-<sup>1</sup> Die institutionalisierte, berufsbezogene Weiterbildung umfasst unter anderem:
+Die institutionalisierte, berufsbezogene Weiterbildung umfasst unter anderem:
 
 - 1\. Weiterbildungskurse;
+
 - 2\. schulinterne Weiterbildung;
+
 - 3\. Langzeitweiterbildung, insbesondere Kaderkurse und Zusatzqualifikationen;
+
 - 4\. Vollzeitweiterbildung, insbesondere im Rahmen eines Bildungsurlaubes;
+
 - 5\. interkantonalen und internationalen Austausch von Lehrpersonen.
 
 #### § 37
 
 **Nichtinstitutionalisierte Weiterbildung**
 
-<sup>1</sup> Die nichtinstitutionalisierte Weiterbildung ausserhalb der Unterrichtszeit umfasst die individuelle Auseinandersetzung mit fach- und berufsbezogenen Fragen insbesondere im Rahmen von Konferenzen, Kommissionen, Fachgremien oder Arbeitsgruppen und das Studium von Fachliteratur.
+Die nichtinstitutionalisierte Weiterbildung ausserhalb der Unterrichtszeit umfasst die individuelle Auseinandersetzung mit fach- und berufsbezogenen Fragen insbesondere im Rahmen von Konferenzen, Kommissionen, Fachgremien oder Arbeitsgruppen und das Studium von Fachliteratur.
 
 #### § 38
 
 **Schulinterne Weiterbildung**
 
-<sup>1</sup> Die Schulleitung setzt schulinterne Weiterbildungen ausserhalb der Unterrichtszeit an.
+Die Schulleitung setzt schulinterne Weiterbildungen ausserhalb der Unterrichtszeit an.
 
 #### § 39
 
@@ -504,18 +536,20 @@ beschliesst:
 
 <sup>3</sup> Es besteht kein Anspruch auf eine Vollzeitweiterbildung.
 
-### 6.2 Organisation und Finanzierung
+### B. Organisation und Finanzierung
 
-### 6.2.1 Volksschule
+### 1. Volksschule
 
 #### § 41
 
 **Bildungsdirektion**
 
-<sup>1</sup> Der Bildungsdirektion obliegt:
+Der Bildungsdirektion obliegt:
 
 - 1\. die Genehmigung des Jahresprogramms der Lehrerinnen- und Lehrerweiterbildung;
+
 - 2\. die Festlegung der obligatorischen Weiterbildungsveranstaltungen;
+
 - 3\. der Erlass von Honorar- und Spesenrichtlinien.
 
 #### § 42
@@ -527,10 +561,15 @@ beschliesst:
 <sup>2</sup> Sie hat insbesondere folgende Aufgaben:
 
 - 1\. die Ermittlung der Weiterbildungserfordernisse in Zusammenarbeit mit der Pädagogischen Fachkommission, den zuständigen Stellen der Bildungsdirektion und den Nachbarkantonen sowie der Pädagogischen Hochschule Zentralschweiz;
+
 - 2\. die Erarbeitung des Jahresprogramms;
+
 - 3\. die Planung, Durchführung und Evaluation von Kursen;
+
 - 4\. die Erarbeitung des Voranschlags;
+
 - 5\. die Beratung von Lehrpersonen, Schulleitung und Schulbehörden in Weiterbildungsfragen;
+
 - 6\. die Zusammenarbeit mit Ausbildungs- und anderen Weiterbildungsinstitutionen.
 
 #### § 43
@@ -543,24 +582,36 @@ beschliesst:
 
 #### § 44
 
-**Kostentragung 1. Kanton und Gemeinden**
+**Kostentragung**
+
+### 1. Kanton und Gemeinden
 
 <sup>1</sup> Der Kanton trägt die Kosten für:
 
 - 1\. die Fachstelle für Lehrerinnen- und Lehrerweiterbildung;
+
 - 2\. die von der Fachstelle und von der Abteilung für Sport organisierten Kurse;
+
 - 3\. Kurse anderer Kantone, anderer Institutionen und der Pädagogischen Hochschule Zentralschweiz, sofern diese Kurse dem kantonalen Programmangebot gleichgestellt werden;
+
 - 4\. Veranstaltungen und Kurse für Berufseinsteigerinnen und Berufseinsteiger;
+
 - 5\. Weiterbildungsveranstaltungen der kantonalen Stufenkonferenzen;
+
 - 6\. Kaderbildung, soweit diese im Auftrag des Kantons stattfindet;
+
 - 7\. Weiterbildungsveranstaltungen, die im Zusammenhang mit einer Tätigkeit im Auftrag des Kantons besucht werden.
 
 <sup>2</sup> Die Gemeinden tragen die Kosten für:
 
 - 1\. die schulinterne Weiterbildung;
+
 - 2\. die Spesen der Kursteilnehmenden nach Massgabe der Honorar- und Spesenrichtlinien;
+
 - 3\. die der Lehrperson auf Gesuch hin bewilligten Beiträge an den Besuch weiterer Weiterbildungsveranstaltungen;
+
 - 4\. die Vollzeitweiterbildung gemäss Richtlinien;
+
 - 5\. die Kaderbildung im Auftrag der Gemeinden.
 
 #### § 45
@@ -570,6 +621,7 @@ beschliesst:
 <sup>1</sup> Lehrpersonen tragen einen Kostenanteil für:
 
 - 1\. freiwillige Weiterbildungsveranstaltungen, die neben berufsbezogenen Inhalten auch ein privates Interesse der Teilnehmenden ansprechen;
+
 - 2\. freiwillige Kurse mit grossem Materialaufwand.
 
 <sup>2</sup> Der Kostenanteil ist in der Ausschreibung anzugeben.
@@ -588,17 +640,17 @@ beschliesst:
 
 **Rückerstattung**
 
-<sup>1</sup> Bei einer Weiterbildung zum Erwerb einer Zusatzqualifikation haben die Lehrpersonen die Kostenbeteiligung der Arbeitgeberin oder des Arbeitgebers nach den Bestimmungen von § 9–13 der Weiterbildungsverordnung[^47-1] zurück zu erstatten.
+Bei einer Weiterbildung zum Erwerb einer Zusatzqualifikation haben die Lehrpersonen die Kostenbeteiligung der Arbeitgeberin oder des Arbeitgebers nach den Bestimmungen von § 9-13 der Weiterbildungsverordnung[^47-1] zurück zu erstatten.
 
 [^47-1]: NG 165.114
 
-### 6.2.2 Mittelschule und Berufsfachschule
+### 2. Mittelschule und Berufsfachschule
 
 #### § 48
 
 **Kostenübernahme**
 
-<sup>1</sup> Die Kostenübernahme richtet sich für die Lehrpersonen der kantonalen Mittelschule und der Berufsfachschule nach § 6–8 der Weiterbildungsverordnung[^48-1].
+Die Kostenübernahme richtet sich für die Lehrpersonen der kantonalen Mittelschule und der Berufsfachschule nach § 6-8 der Weiterbildungsverordnung[^48-1].
 
 [^48-1]: NG 165.114
 
@@ -606,38 +658,45 @@ beschliesst:
 
 **Rückerstattung**
 
-<sup>1</sup> Die Rückerstattung der Kostenbeteiligung der Arbeitgeberin oder des Arbeitgebers richtet sich nach § 9–13 der Weiterbildungsverordnung[^49-1].
+Die Rückerstattung der Kostenbeteiligung der Arbeitgeberin oder des Arbeitgebers richtet sich nach § 9-13 der Weiterbildungsverordnung[^49-1].
 
 [^49-1]: NG 165.114
 
-## 7 Übergangs- und Schlussbestimmungen
+### VII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### § 50
 
 **Arbeitszeit für Teilzeitlehrpersonen an der Volksschule**
 
-<sup>1</sup> Die Schulgemeinden führen die Arbeitszeit für Teilzeitlehrpersonen gemäss § 13 bis spätestens auf den Beginn des Schuljahres 2009/10 ein.
+Die Schulgemeinden führen die Arbeitszeit für Teilzeitlehrpersonen gemäss § 13 bis spätestens auf den Beginn des Schuljahres 2009/10 ein.
 
 #### § 51
 
 **Schulinterne Weiterbildung während der Unterrichtszeit**
 
-<sup>1</sup> Die Schulgemeinden regeln die schulinterne Weiterbildung während der Unterrichtszeit bis spätestens auf den Beginn des Schuljahres 2009/10 gemäss § 38 und 39.
+Die Schulgemeinden regeln die schulinterne Weiterbildung während der Unterrichtszeit bis spätestens auf den Beginn des Schuljahres 2009/10 gemäss § 38 und 39.
 
 #### § 51a
 
-**Übergangsbestimmung zur Änderung vom 21. Januar 2020**
+**Übergangsbestimmung zur Änderung vom 21. Januar**
 
-<sup>1</sup> Für Fachpersonen in logopädischen Schuldiensten und Fachpersonen in psychomotorischen Schuldiensten, welche im Schuljahr 2020/2021 noch über einen Arbeitsvertrag mit Verweis auf die Lehrpersonalverordnung verfügen, gilt bis längstens 31. Juli 2021 das bisherige Recht
+[^51a-1]: Fassung gemäss Regierungsratsbeschluss vom 21. Januar 2020, A 2020, 183; in Kraft seit 1. August 2020
+
+### 2020
+
+[^51a-1]
+
+Für Fachpersonen in logopädischen Schuldiensten und Fachpersonen in psychomotorischen Schuldiensten, welche im Schuljahr 2020/2021 noch über einen Arbeitsvertrag mit Verweis auf die Lehrpersonalverordnung verfügen, gilt bis längstens 31. Juli 2021 das bisherige Recht
 
 #### § 52
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Folgende Bestimmungen werden aufgehoben:
+Folgende Bestimmungen werden aufgehoben:
 
-- 1\. §§ 93–113 der Vollzugsverordnung vom 1. Juli 2003 zum Gesetz über die Volksschule (Volksschulverordnung)[^52-1];
-- 2\. § 63 sowie §§ 66–73 der Vollzugsverordnung vom 12. Juni 2007 zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung)[^52-2].
+- 1\. §§ 93-113 der Vollzugsverordnung vom 1. Juli 2003 zum Gesetz über die Volksschule (Volksschulverordnung)[^52-1];
+
+- 2\. § 63 sowie §§ 66-73 der Vollzugsverordnung vom 12. Juni 2007 zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung)[^52-2].
 
 [^52-1]: NG 312.11
 [^52-2]: NG 314.11
@@ -646,684 +705,558 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt auf den 1. August 2008 in Kraft.
+Diese Verordnung tritt auf den 1. August 2008 in Kraft.
 
-## A1 Anhang 1:
+[^53-1]: A 2008, 1527
 
-#### § A1-1
+### ANHANG 1 Berufliche Tätigkeiten
 
-**Berufliche Tätigkeiten**
+[^53-1]
 
-<sup>1</sup> Die Dauer einer Lektion beträgt 45 Minuten.
+Die Dauer einer Lektion beträgt 45 Minuten.
 
-#### § A1-2
+[^hANHANG1531Beru-1]: NG 165.111
 
-**Lehrperson für den Kindergarten**
+### Lehrperson für den Kindergarten
 
-<sup>1</sup> Unterricht und Betreuung einer Klasse
+[^hANHANG1531Beru-1]
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband:
-  - a) mit Kindergartendiplom: — L9
-  - b) mit Lehrdiplom Kindergarten / Unterstufe: — L10
+**28 Lektionen6**
 
-#### § A1-3
+Unterricht und Betreuung einer Klasse Unterrichtsverpflichtung:
 
-**Lehrperson für den Heilpädagogischen Kindergarten**
+Lohnband:
 
-<sup>1</sup>
+**L9 L10**
 
-- 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 2\. Lohnband: — L11
+- mit Kindergartendiplom
 
-#### § A1-4
+- mit Lehrdiplom Kindergarten/ Unterstufe
 
-**Lehrperson Deutsch für fremdsprachige Kinder**
+### Lehrperson für den Heilpädagogischen Kindergarten
 
-<sup>1</sup>
+**29 Lektionen L11**
 
-- 1\. Unterrichtsverpflichtung:
-  - a) im Einzelunterricht: — 34 Lektionen
-  - b) im Gruppenunterricht: — 29 Lektionen
-- 2\. Lohnband: — L9
+Unterrichtsverpflichtung:
 
-#### § A1-5
+Lohnband:
 
-**Legasthenie- oder Dyskalkulietherapeutin und ‑therapeut**
+### Lehrperson Deutsch für fremdsprachige Kinder
 
-<sup>1</sup> Einzel- oder Gruppenunterricht
+**34 Lektionen 29 Lektionen L9**
 
-- 1\. Unterrichtsverpflichtung: — 32 Lektionen
-- 2\. Lohnband: — L10
+Unterrichtsverpflichtung - im Einzelunterricht - im Gruppenunterricht Lohnband:
 
-#### § A1-6
+### Legasthenie- oder Dyskalkulietherapeutin und –therapeut
 
-**Fachlehrperson für die Primarschule**
+**32 Lektionen L10**
 
-<sup>1</sup> Unterricht in einem oder zwei Fächern (z.B. Textiles Werken, Sport, Bildnerisches Gestalten); in der Regel in Halbklassenunterricht
+Einzel- oder Gruppenunterricht Unterrichtsverpflichtung:
 
-- 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 2\. Lohnband: — L10
+Lohnband:
 
-#### § A1-7
+### Fachlehrperson für die Primarschule
 
-**Fachlehrperson für die Heilpädagogische Schule**
+Unterricht in einem oder zwei Fächern (z.B. Textiles Werken, Sport, Bildnerisches Gestalten); in der Regel in Halbklassenunterricht Unterrichtsverpflichtung:
 
-<sup>1</sup> Unterricht in einem oder zwei Fächern in der Regel in Halbklassen‑, Gruppen- oder Einzelunterricht
+**29 Lektionen L10**
 
-- 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 2\. Lohnband: — L10
+Lohnband:
 
-#### § A1-8
+### Fachlehrperson für die Heilpädagogische Schule
 
-**…**
+Unterricht in einem oder zwei Fächern in der Regel in Halbklassen-, Gruppen- oder Einzelunterricht Unterrichtsverpflichtung:
 
-#### § A1-9
+**29 Lektionen L10**
 
-**Klassenlehrperson an der 1. bis 4. Klasse der Primarschule**
+Lohnband:
 
-<sup>1</sup> Unterricht und Betreuung einer Klasse
+**Aufgehoben**
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L10
+[^hFachlehrpersonfürd_2-1]: NG 165.111
 
-#### § A1-10
+### Klassenlehrperson für die Grund-/Basisstufe Klassenlehrperson an der 1. bis 4. Klasse der Primarschule
 
-**Klassenlehrperson an der 1. bis 4. Kleinklasse der Primarschule**
+[^hFachlehrpersonfürd_2-1][^hFachlehrpersonfürd_2-1]
 
-<sup>1</sup> Unterricht und Betreuung einer Klasse
+Unterricht und Betreuung einer Klasse Unterrichtsverpflichtung:
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L12
+**28 Lektionen L10**
 
-#### § A1-11
+Lohnband:
 
-**Klassenlehrperson an der 5. und 6. Klasse der Primarschule**
+**17**
 
-<sup>1</sup> Unterricht und Betreuung einer Klasse
+\1. August 2021 - 72
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L10
+### Klassenlehrperson an der 1. bis 4. Kleinklasse der Primarschule<sup>4</sup>
 
-#### § A1-12
+Unterricht und Betreuung einer Klasse Unterrichtsverpflichtung:
 
-**Klassenlehrperson an der 5. und 6. Kleinklasse der Primarschule**
+**28 Lektionen L12**
 
-<sup>1</sup> Unterricht und Betreuung einer Klasse
+Lohnband:
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L12
+### Klassenlehrperson an der 5. und 6. Klasse der Primarschule
 
-#### § A1-13
+Unterricht und Betreuung einer Klasse Unterrichtsverpflichtung:
 
-**Schulische Heilpädagogin und Schulischer Heilpädagoge**
+**28 Lektionen L10**
 
-<sup>1</sup> Unterricht im Gruppen- oder Einzelunterricht
+Lohnband:
 
-- 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 2\. Lohnband: — L12
+### Klassenlehrperson an der 5. und 6. Kleinklasse der Primarschule
 
-#### § A1-14
+Unterricht und Betreuung einer Klasse Unterrichtsverpflichtung:
 
-**Lehrperson für die Heilpädagogische Schule**
+**28 Lektionen L12**
 
-<sup>1</sup> Unterricht als Klassenlehrperson und Betreuung einer Klasse
+Lohnband:
 
-- 1\. Unterrichtsverpflichtung: — 29 Lektionen
-- 2\. Lohnband: — L12
+### Schulische Heilpädagogin und Schulischer Heilpädagoge
 
-#### § A1-15–A1-16
+Unterricht im Gruppen- oder Einzelunterricht Unterrichtsverpflichtung:
 
-**…**
+**29 Lektionen L12**
 
-#### § A1-17
+Lohnband:
 
-**Fachlehrperson II für die Sekundarstufe I**
+### Lehrperson für die Heilpädagogische Schule
 
-<sup>1</sup> Unterrichten in einem oder zwei Fächern (z.B. Textiles Werken, Hauswirtschaft, Sport, Bildnerisches Gestalten) in der Regel in Halbklassen- oder Gruppenunterricht an der Orientierungsschule oder dem Untergymnasium; Lehrdiplom mit seminaristischer Ausbildung
+Unterricht als Klassenlehrperson und Betreuung einer Klasse Unterrichtsverpflichtung:
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L11
+**29 Lektionen L12**
 
-#### § A1-18
+Lohnband:
 
-**Fachlehrperson I für die Sekundarstufe I**
+**Aufgehoben Aufgehoben**
 
-<sup>1</sup> Unterrichten in einem oder zwei Fächern an der Orientierungsschule oder dem Untergymnasium; Lehrdiplom mit universitärer Ausbildung oder Ausbildung an höherer Fachschule
+### Fachperson in logopädischen Schuldiensten<sup>5</sup> Fachperson in psychomotorischen Schuldiensten<sup>5</sup>
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L12
+### Fachlehrperson II für die Sekundarstufe I
 
-#### § A1-19
+Unterrichten in einem oder zwei Fächern (z.B. Textiles Werken, Hauswirtschaft, Sport, Bildnerisches Gestalten) in der Regel in Halbklassen- oder Gruppenunterricht an der Orientierungsschule oder dem Untergymnasium; Lehrdiplom mit seminaristischer Ausbildung Unterrichtsverpflichtung:
 
-**Fächergruppen-Lehrperson für die Sekundarstufe I ohne Klassenlehrerfunktion**
+**28 Lektionen L11**
 
-<sup>1</sup> Unterrichten einer Fächergruppe im Klassenunterricht ohne Betreuen einer Klasse; Lehrdiplom für die Sekundarstufe I (Integrierte Orientierungsschule, Kooperative Orientierungsschule oder Werkschule)
+Lohnband:
 
-- 1\. Unterrichtsverpflichtung: — 28 Lektionen
-- 2\. Lohnband: — L13
+### Fachlehrperson I für die Sekundarstufe I
 
-#### § A1-20
+Unterrichten in einem oder zwei Fächern an der Orientierungsschule oder dem Untergymnasium; Lehrdiplom mit universitärer Ausbildung oder Ausbildung an höherer Fachschule Unterrichtsverpflichtung:
 
-**Fächergruppen-Lehrperson für die Sekundarstufe I mit Klassenlehrerfunktion**
+**28 Lektionen L12**
 
-<sup>1</sup> Unterrichten einer Fächergruppe im Klassenunterricht und Betreuen einer Klasse; Lehrdiplom für die Sekundarstufe I (Integrierte Orientierungsschule, Kooperative Orientierungsschule oder Werkschule)
+Lohnband:
 
-- 1\. Unterrichtsverpflichtung: — 27 Lektionen
-- 2\. Lohnband: — L13
+### Fächergruppen-Lehrperson für die Sekundarstufe I
 
-#### § A1-21
+ohne Klassenlehrerfunktion Unterrichten einer Fächergruppe im Klassenunterricht ohne Betreuen einer Klasse; Lehrdiplom für die Sekundarstufe I (Integrierte Orientierungsschule, Kooperative Orientierungsschule oder Werkschule) Unterrichtsverpflichtung: 28 Lektionen Lohnband: L13
 
-**Lehrperson für die Mittelschule**
+### Fächergruppen-Lehrperson für die Sekundarstufe I
 
-<sup>1</sup> Unterrichten in bestimmten Fächern in der Regel im Klassenunterricht. Eine stufengerechte pädagogische Ausbildung setzt das Lehrdiplom für Maturitätsschulen voraus oder eine andere pädagogische Ausbildung mit gleichem Niveau.
+mit Klassenlehrerfunktion Unterrichten einer Fächergruppe im Klassenunterricht und Betreuen einer Klasse; Lehrdiplom für die Sekundarstufe I (Integrierte Orientierungsschule, Kooperative Orientierungsschule oder Werkschule) Unterrichtsverpflichtung: 27 Lektionen Lohnband: L13
 
-<sup>2</sup> Fachausbildung auf Tertiärstufe A (Universität oder ETH mit Master, Lizentiat, Diplom als Turn- und Sportlehrperson II oder Diplom als Musiklehrperson II) im zu unterrichtenden Fachbereich.
+### Lehrperson für die Mittelschule
 
-<sup>3</sup> Unterrichtsverpflichtung:
+Unterrichten in bestimmten Fächern in der Regel im Klassenunterricht. Eine stufengerechte pädagogische Ausbildung setzt das Lehrdiplom für Maturitätsschulen voraus oder eine andere pädagogische Ausbildung mit gleichem Niveau.
 
-<table>
-<tr><th>Fach</th><th>Untergymnasium</th><th>Gymnasium</th></tr>
-<tr><td>Chemie inkl. Wahlpflichtbereich (ohne Laborassistenz)</td><td>–</td><td>20 Lektionen</td></tr>
-<tr><td>Biologie / Physik inkl. Wahlpflichtbereich (ohne Laborassistenz)</td><td>23 Lektionen</td><td>21 Lektionen</td></tr>
-<tr><td>Sport</td><td>25 Lektionen</td><td>25 Lektionen</td></tr>
-<tr><td>alle übrigen Fächer gemäss Stundentafel</td><td>25 Lektionen</td><td>23 Lektionen</td></tr>
-<tr><td>alle übrigen Wahlpflichtfächer</td><td>–</td><td>23 Lektionen</td></tr>
-<tr><td>Weiterbildungskurse</td><td>26 Lektionen</td><td></td></tr>
-<tr><td>Weiterbildungskurse mit Zertifikatsabschluss</td><td>25 Lektionen</td><td></td></tr>
-</table>
+Fachausbildung auf Tertiärstufe A (Universität oder ETH mit Master, Lizentiat, Diplom als Turn- und Sportlehrperson II oder Diplom als Musiklehrperson II) im zu unterrichtenden Fachbereich.
 
-<sup>4</sup> Lohnband: L16
+Unterrichts- Untergymna- Gymnasium verpflichtung: sium
 
-<sup>5</sup> Für Lehrpersonen, die Hauswirtschaft, Technisches Gestalten und Tastaturschreiben / Informatik ausschliesslich im Untergymnasium unterrichten, gelten die entsprechenden Bestimmungen für Fachlehrpersonen II für die Sekundarstufe I bzw. für Fachlehrpersonen I für die Sekundarstufe I in diesem Anhang. Für Instrumentalunterricht und Sologesangslektionen gelten die entsprechenden Bestimmungen in diesem Anhang.
+** 20 Lektionen**
 
-#### § A1-22
+Chemie inkl. Wahlpflichtbereich (ohne Laborassistenz) Biologie / Physik inkl. 23 Lektionen 21 Lektionen Wahlpflichtbereich (ohne Laborassistenz) Sport 25 Lektionen 25 Lektionen alle übrigen Fächer 25 Lektionen 23 Lektionen gemäss Stundentafel alle übrigen Wahlpflichtfächer
 
-**Lehrperson für die Berufsfachschule**
+** 23 Lektionen**
 
-<sup>1</sup> Eine stufengerechte pädagogische Ausbildung setzt die Lehrbefähigung für die Sekundarstufe II (Höheres Lehramt, berufspädagogische Bildung von 1'800 Lernstunden, Diplom als Turn- und Sportlehrperson II) voraus oder eine andere pädagogische Ausbildung mit gleichem Niveau.
+**19**
 
-<sup>2</sup> Folgende Ausbildungen werden als gleichwertig beurteilt:
+**26 Lektionen**
 
-- 1\. eidg. Fachausweis Ausbilder/-in entspricht einer Lehrbefähigung für die Sekundarstufe I;
-- 2\. berufspädagogische Bildung von 300 Lernstunden entspricht einer Lehrbefähigung für die Primarstufe.
+**25 Lektionen3**
 
-<sup>3</sup> Unterrichtsverpflichtung:
+\1. August 2021 - 72 Weiterbildungskurse Weiterbildungskurse mit Zertifikatsabschluss Lohnband: L16 Für Lehrpersonen, die Hauswirtschaft, Technisches Gestalten und Tastaturschreiben/Informatik ausschliesslich im Untergymnasium unterrichten, gelten die entsprechenden Bestimmungen für Fachlehrpersonen II für die Sekundarstufe I bzw. für Fachlehrpersonen I für die Sekundarstufe I in diesem Anhang.
 
-<table>
-<tr><th>Fach</th><th>Lektionen</th></tr>
-<tr><td>Berufsmaturitätsunterricht</td><td>23 Lektionen</td></tr>
-<tr><td>Weiterbildungskurse</td><td>26 Lektionen</td></tr>
-<tr><td>Weiterbildungskurse mit Zertifikatsabschluss</td><td>25 Lektionen</td></tr>
-<tr><td>alle übrigen Fächer</td><td>25 Lektionen</td></tr>
-</table>
+**26 Lektionen 25 Lektionen**
 
-<sup>4</sup> Lehrperson I:
+Für Instrumentalunterricht und Sologesangslektionen gelten die entsprechenden Bestimmungen in diesem Anhang.
 
-- 1\. Lohnband: L16
-- 2\. Fachausbildung auf Tertiärstufe A (Fachhochschule, Universität oder ETH mit Master, Lizentiat oder Diplom als Turn- und Sportlehrperson II) im zu unterrichtenden Fachbereich
+### Lehrperson für die Berufsfachschule
 
-<sup>5</sup> Lehrperson II:
+Eine stufengerechte pädagogische Ausbildung setzt die Lehrbefähigung für die Sekundarstufe II (Höheres Lehramt, berufspädagogische Bildung von 1800 Lernstunden, Diplom als Turn- und Sportlehrperson II) voraus oder eine andere pädagogische Ausbildung mit gleichem Niveau. Folgende Ausbildungen werden als gleichwertig beurteilt:
 
-- 1\. Lohnband: L15
-- 2\. Ausbildung:
-  - a) Fachausbildung auf Tertiärstufe A (Fachhochschule, Universität oder ETH mit Bachelor, Sekundarlehrdiplom oder
-  - b) Diplom als Turn- und Sportlehrperson I) im zu unterrichtenden Fachbereich oder
-  - c) Fachausbildung auf Tertiärstufe B (Höhere Fachschule oder eidg. höhere Fachprüfung) im zu unterrichtenden Fachbereich
+- eidg. Fachausweis Ausbilder/-in entspricht einer Lehrbefähigung für die Sekundarstufe I;
 
-<sup>6</sup> Lehrperson III:
+- berufspädagogische Bildung von 300 Lernstunden entspricht einer Lehrbefähigung für die Primarstufe.
 
-- 1\. Lohnband: L14
-- 2\. Fachausbildung auf Tertiärstufe B (Eidg. Berufsprüfung) im zu unterrichtenden Fachbereich
+**23 Lektionen**
 
-<sup>7</sup> Lehrperson IV:
+Unterrichts- Berufsmaturitätsunterricht verpflichtung:
 
-- 1\. Lohnband: L13
-- 2\. Fachausbildung auf Sekundarstufe II (Eidg. Fähigkeitszeugnis) mit Berufspraxis
+Weiterbildungskurse Weiterbildungskurse mit Zertifikatsab- 25 Lektionen schluss alle übrigen Fächer Lehrperson I: Lohnband: L16 Fachausbildung auf Tertiärstufe A (Fachhochschule, Universität oder ETH mit Master, Lizentiat oder Diplom als Turn- und Sportlehrperson II) im zu unterrichtenden Fachbereich Lehrperson II: Lohnband: L15 - Fachausbildung auf Tertiärstufe A (Fachhochschule, Universität oder ETH mit Bachelor, Sekundarlehrdiplom oder - Diplom als Turn- und Sportlehrperson I) im zu unterrichtenden Fachbereich oder - Fachausbildung auf Tertiärstufe B (Höhere Fachschule oder eidg. höhere Fachprüfung) im zu unterrichtenden Fachbereich Lehrperson III: Lohnband: L14 Fachausbildung auf Tertiärstufe B (Eidg. Berufsprüfung) im zu unterrichtenden Fachbereich Lehrperson IV: Lohnband: L13 Fachausbildung auf Sekundarstufe II (Eidg. Fähigkeitszeugnis) mit Berufspraxis
 
-#### § A1-23
+[^hLehrpersonfürdieB-1]: Fassung gemäss Regierungsratsbeschluss vom 22. November 2016, A 2018, 525; in Kraft seit 1. August 2018
 
-**Lehrpersonen für Instrumentalunterricht und Sologesang**
+### Lehrpersonen für Instrumentalunterricht und Sologesang
 
-<sup>1</sup> Unterrichtsverpflichtung:
+[^hLehrpersonfürdieB-1]
 
-- 1\. Einzel- und Kleingruppenunterricht: — 28 Stunden
-- 2\. Grossgruppenunterricht / Ensemble: — 28 Lektionen
+Unterrichtsverpflichtung - Einzel- und Kleingruppenunterricht 28 Stunden - Grossgruppenunterricht/Ensemble 28 Lektionen Lehrperson I: Lohnband: L12 - Master of Arts in Musikpädagogik - Master of Arts in Music (Dirigieren), ausgenommen bei Erteilung von Instrumentalunterricht - Lehrdiplom staatlich anerkannter Musikbe-
 
-<sup>2</sup> Lehrperson I:
+rufsschulen
 
-- 1\. Lohnband: L12
-- 2\. Ausbildung:
-  - a) Master of Arts in Musikpädagogik
-  - b) Master of Arts in Music (Dirigieren), ausgenommen bei Erteilung von Instrumentalunterricht
-  - c) Lehrdiplom staatlich anerkannter Musikberufsschulen
+Lehrperson II: Lohnband: L11 - Master of Arts in Performance (Konzertdiplom) - Master of Arts in Specialiced Music Performance (Solistendiplom)
 
-<sup>3</sup> Lehrperson II:
+Lehrperson III: Lohnband: L10 - Rhythmikdiplom (vierjährige Ausbildung) - Rhythmikdiplom (zweijährige berufsbegleitende Ausbildung) in Kombination mit einem Primarlehrerdiplom Lehrperson IV: Lohnband: L9 - Bachelor of Arts in Music
 
-- 1\. Lohnband: L11
-- 2\. Ausbildung:
-  - a) Master of Arts in Performance (Konzertdiplom)
-  - b) Master of Arts in Specialiced Music Performance (Solistendiplom)
+**21**
 
-<sup>4</sup> Lehrperson III:
+\1. August 2021 - 72
 
-- 1\. Lohnband: L10
-- 2\. Ausbildung:
-  - a) Rhythmikdiplom (vierjährige Ausbildung)
-  - b) Rhythmikdiplom (zweijährige berufsbegleitende Ausbildung) in Kombination mit einem Primarlehrerdiplom
+- Diploma of Advanced Studies (DAS) mit Diplom einer pädagogischen Hochschule
 
-<sup>5</sup> Lehrperson IV:
+- Master of Arts in Music (Dirigieren), bei Erteilung von Instrumentalunterricht
 
-- 1\. Lohnband: L9
-- 2\. Ausbildung:
-  - a) Bachelor of Arts in Music
-  - b) Diploma of Advanced Studies (DAS) mit Diplom einer pädagogischen Hochschule
-  - c) Master of Arts in Music (Dirigieren), bei Erteilung von Instrumentalunterricht
-  - d) Primarschul- oder Kindergartendiplom mit anerkannter Zusatzausbildung im Grundschulbereich
-  - e) vergleichbare Ausbildung
+- Primarschul- oder Kindergartendiplom mit anerkannter Zusatzausbildung im Grund-
 
-<sup>6</sup> Lehrperson V:
+schulbereich
 
-- 1\. Lohnband: L6
-- 2\. Ausbildung: Studierende Bachelor of Arts in Music
+- vergleichbare Ausbildung Lehrperson V: Lohnband: L6
 
-<sup>7</sup> Lehrperson VI:
+- Studierende Bachelor of Arts in Music Lehrperson VI: Lohnbänder L5, L3
 
-- 1\. Lohnbänder L5, L3
-- 2\. Übrige Lehrpersonen
+- Übrige Lehrpersonen
 
-## A2 Anhang 2
+[^hLehrpersonenfürIns-1]: Fassung gemäss Regierungsratsbeschluss vom 3. März 2009, A 2009, 359; in Kraft seit 1. August 2009
 
-#### § A2-1
+### ANHANG 2
 
-<sup>1</sup> Lohnbänder:
+[^hLehrpersonenfürIns-1]
 
-<table>
-<tr><th>Band</th><th>Funktionswert</th><th>Funktionslohn, 5/8 des theoretischen Bandmaximums</th><th>Effektiver Höchstbetrag des Erfahrungslohnanteils</th><th>erreichbarer Maximallohn in % des Bandmaximums</th><th>theoretisches Bandmaximum</th></tr>
-<tr><td>L 1</td><td>19</td><td>3'670</td><td>1'873</td><td>94.4</td><td>5'872</td></tr>
-<tr><td>L 2</td><td>20</td><td>3'850</td><td>1'965</td><td>94.4</td><td>6'160</td></tr>
-<tr><td>L 3</td><td>21</td><td>4'040</td><td>2'062</td><td>94.4</td><td>6'464</td></tr>
-<tr><td>L 4</td><td>22</td><td>4'240</td><td>2'164</td><td>94.4</td><td>6'784</td></tr>
-<tr><td>L 5</td><td>23</td><td>4'450</td><td>2'271</td><td>94.4</td><td>7'120</td></tr>
-<tr><td>L 6</td><td>24</td><td>4'670</td><td>2'384</td><td>94.4</td><td>7'472</td></tr>
-<tr><td>L 7</td><td>25</td><td>4'900</td><td>2'501</td><td>94.4</td><td>7'840</td></tr>
-<tr><td>L 8</td><td>26</td><td>5'140</td><td>2'623</td><td>94.4</td><td>8'224</td></tr>
-<tr><td>L 9</td><td>27</td><td>5'400</td><td>2'756</td><td>94.4</td><td>8'640</td></tr>
-<tr><td>L 10</td><td>28</td><td>5'670</td><td>2'894</td><td>94.4</td><td>9'072</td></tr>
-<tr><td>L 11</td><td>29</td><td>5'950</td><td>3'037</td><td>94.4</td><td>9'520</td></tr>
-<tr><td>L 12</td><td>30</td><td>6'250</td><td>3'190</td><td>94.4</td><td>10'000</td></tr>
-<tr><td>L 13</td><td>31</td><td>6'560</td><td>3'348</td><td>94.4</td><td>10'496</td></tr>
-<tr><td>L 14</td><td>32</td><td>6'890</td><td>3'517</td><td>94.4</td><td>11'024</td></tr>
-<tr><td>L 15</td><td>33</td><td>7'230</td><td>3'690</td><td>94.4</td><td>11'568</td></tr>
-<tr><td>L 16</td><td>34</td><td>7'590</td><td>3'874</td><td>94.4</td><td>12'144</td></tr>
-</table>
+### 1. Lohnbänder
 
-<sup>2</sup> Parameter für die Berechnung der Lohnleitlinien:
+**erreichbarer %des Band- Bandmaximum**
 
-<table>
-<tr><th>Lohnband</th><th>massgebendes Lebensalter (Startjahr)</th><th>Minimallohn je Monat (62.5%)</th><th>jährlicher Anstieg in den Jahren 1–6</th><th>jährlicher Anstieg in den Jahren 7–12</th><th>jährlicher Anstieg in den Jahren 13–18</th><th>jährlicher Anstieg in den Jahren 19–25</th></tr>
-<tr><td>L 1</td><td>19</td><td>3'670</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 2</td><td>19</td><td>3'850</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 3</td><td>20</td><td>4'040</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 4</td><td>20</td><td>4'240</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 5</td><td>21</td><td>4'450</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 6</td><td>21</td><td>4'670</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 7</td><td>22</td><td>4'900</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 8</td><td>22</td><td>5'140</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 9</td><td>22</td><td>5'400</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 10</td><td>22</td><td>5'670</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 11</td><td>22</td><td>5'950</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 12</td><td>25</td><td>6'250</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 13</td><td>25</td><td>6'560</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 14</td><td>25</td><td>6'890</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 15</td><td>28</td><td>7'230</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-<tr><td>L 16</td><td>28</td><td>7'590</td><td>1.80%</td><td>1.40%</td><td>1.05%</td><td>0.50%</td></tr>
-</table>
+Funktionslohn
 
-#### § A2-2
+Effektiver Höchst-
 
-**L 1**
+Band Funktions- 5/8 des theoreti- betrag des Erfah- Maximallohn in theoretisches wert schen Bandmaximums rungslohnanteils maximums
 
-<sup>1</sup> Lohnband L 1:
+**94.4% 5'872 94.4% 6'160 94.4% 6'464 94.4% 6'784 94.4% 7'120 94.4% 7'472 94.4% 7'840 94.4% 8'224 94.4% 8'640 94.4% 9'072 94.4% 9'520 94.4% 10'000 94.4% 10'496 94.4% 11'024 94.4% 11'568 94.4% 12'144**
 
-<sup>2</sup>
+L 1 19 3'670 1'873 L 2 20 3'850 1'965 L 3 21 4'040 2'062 L 4 22 4'240 2'164 L 5 23 4'450 2'271 L 6 24 4'670 2'384 L 7 25 4'900 2'501 L 8 26 5'140 2'623 L 9 27 5'400 2'756 L 10 28 5'670 2'894 L 11 29 5'950 3'037 L 12 30 6'250 3'190 L 13 31 6'560 3'348 L 14 32 6'890 3'517 L 15 33 7'230 3'690 L 16 34 7'590 3'874 2. Parameter für die Berechnung der Lohnleitlinien
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>19</td><td>3'780</td><td>3'670</td><td></td></tr>
-<tr><td>25</td><td>4'433</td><td>4'304</td><td>4'175</td></tr>
-<tr><td>31</td><td>4'941</td><td>4'797</td><td>4'654</td></tr>
-<tr><td>37</td><td>5'322</td><td>5'167</td><td>5'012</td></tr>
-<tr><td>44</td><td>5'534</td><td>5'373</td><td>5'212</td></tr>
-<tr><td>50</td><td>5'534</td><td>5'373</td><td>5'212</td></tr>
-<tr><td>55</td><td>5'534</td><td>5'375</td><td>5'212</td></tr>
-<tr><td>60</td><td>5'534</td><td>5'375</td><td>5'212</td></tr>
-<tr><td>65</td><td>5'534</td><td>5'375</td><td>5'212</td></tr>
-</table>
+**stieg in den stieg in den**
 
-#### § A2-3
+Lohn- massgebendes Minimallohn jährlicher An- jährlicher An- jährlicher An- jährlicher Anbnad Lebensalter je Monat stieg in den stieg in den (Startjahr) (62,5 %) Jahren 1- 6 Jahren 7 - 12 Jahren 13 - 18 Jahren 19 - 25 L 1 19 3'670 1.80% 1.40% L 2 19 3'850 1.80% 1.40% L3 20 4'040 1.80% 1.40% L 4 20 4'240 1.80% 1.40% L 5 21 4'450 1.80% 1.40% L 6 21 4'670 1.80% 1.40% L 7 22 4'900 1.80% 1.40% L 8 22 5'140 1.80% 1.40% L 9 22 5'400 1.80% 1.40% L 10 22 5'670 1.80% 1.40% L 11 22 5'950 1.80% 1.40% L 12 25 6'250 1.80% 1.40% L 13 25 6'560 1.80% 1.40% L 14 25 6'890 1.80% 1.40% L 15 28 7'230 1.80% 1.40% L 16 28 7'590 1.80% 1.40%
 
-**L 2**
+### 1. Lohnbänder
 
-<sup>1</sup> Lohnband L 2:
+### Lohnband L 1
 
-<sup>2</sup>
+6'000
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>19</td><td>3'966</td><td>3'850</td><td></td></tr>
-<tr><td>25</td><td>4'651</td><td>4'515</td><td>4'380</td></tr>
-<tr><td>31</td><td>5'184</td><td>5'033</td><td>4'882</td></tr>
-<tr><td>37</td><td>5'583</td><td>5'421</td><td>5'258</td></tr>
-<tr><td>44</td><td>5'805</td><td>5'636</td><td>5'467</td></tr>
-<tr><td>50</td><td>5'805</td><td>5'636</td><td>5'467</td></tr>
-<tr><td>55</td><td>5'805</td><td>5'636</td><td>5'467</td></tr>
-<tr><td>60</td><td>5'805</td><td>5'636</td><td>5'467</td></tr>
-<tr><td>65</td><td>5'805</td><td>5'636</td><td>5'467</td></tr>
-</table>
+5'500
 
-#### § A2-4
+5'000
 
-**L 3**
+4'500
 
-<sup>1</sup> Lohnband L 3:
+4'000
 
-<sup>2</sup>
+3'500
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>20</td><td>4'161</td><td>4'040</td><td></td></tr>
-<tr><td>26</td><td>4'880</td><td>4'738</td><td>4'596</td></tr>
-<tr><td>32</td><td>5'440</td><td>5'281</td><td>5'123</td></tr>
-<tr><td>38</td><td>5'859</td><td>5'688</td><td>5'518</td></tr>
-<tr><td>45</td><td>6'092</td><td>5'915</td><td>5'737</td></tr>
-<tr><td>50</td><td>6'092</td><td>5'915</td><td>5'737</td></tr>
-<tr><td>55</td><td>6'092</td><td>5'915</td><td>5'737</td></tr>
-<tr><td>60</td><td>6'092</td><td>5'915</td><td>5'737</td></tr>
-<tr><td>65</td><td>6'092</td><td>5'915</td><td>5'737</td></tr>
-</table>
+**65**
 
-#### § A2-5
+19 25 31 37 44 50 55 60
 
-**L 4**
+### M assgebendes 19 25 31 3 7 44 50 55 60 65 Lebensalter
 
-<sup>1</sup> Lohnband L 4:
+Bandpo sition 3'780 4'433 4'941 5'322 5'534 5'534 5'534 5'534 5'534 c oben
 
-<sup>2</sup>
+### Lo hnleitlinie 3'670 4'304 4'79 7 5'167 5'373 5'373 5'373 5'373 5'3 73
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>20</td><td>4'367</td><td>4'240</td><td></td></tr>
-<tr><td>26</td><td>5'122</td><td>4'973</td><td>4'823</td></tr>
-<tr><td>32</td><td>5'709</td><td>5'543</td><td>5'376</td></tr>
-<tr><td>38</td><td>6'149</td><td>5'970</td><td>5'791</td></tr>
-<tr><td>45</td><td>6'394</td><td>6'207</td><td>6'021</td></tr>
-<tr><td>50</td><td>6'394</td><td>6'207</td><td>6'021</td></tr>
-<tr><td>55</td><td>6'394</td><td>6'207</td><td>6'021</td></tr>
-<tr><td>60</td><td>6'394</td><td>6'207</td><td>6'021</td></tr>
-<tr><td>65</td><td>6'394</td><td>6'207</td><td>6'021</td></tr>
-</table>
+Bandpo sition 3'560 4'175 4'654 5'012 5'212 5'212 5'212 5'212 5'212 c unten
 
-#### § A2-6
+### Lo h n b an d L 2
 
-**L 5**
+6'000
 
-<sup>1</sup> Lohnband L 5:
+5'500
 
-<sup>2</sup>
+5'000
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>21</td><td>4'584</td><td>4'450</td><td></td></tr>
-<tr><td>27</td><td>5'376</td><td>5'219</td><td>5'062</td></tr>
-<tr><td>33</td><td>5'992</td><td>5'817</td><td>5'643</td></tr>
-<tr><td>39</td><td>6'454</td><td>6'266</td><td>6'078</td></tr>
-<tr><td>46</td><td>6'710</td><td>6'515</td><td>6'319</td></tr>
-<tr><td>50</td><td>6'710</td><td>6'515</td><td>6'319</td></tr>
-<tr><td>55</td><td>6'710</td><td>6'515</td><td>6'319</td></tr>
-<tr><td>60</td><td>6'710</td><td>6'515</td><td>6'319</td></tr>
-<tr><td>65</td><td>6'710</td><td>6'515</td><td>6'319</td></tr>
-</table>
+**1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50% 1.05% 0.50%**
 
-#### § A2-7
+4'500
 
-**L 6**
+4'000
 
-<sup>1</sup> Lohnband L 6:
+**55 60 65**
 
-<sup>2</sup>
+3'500 19 25 31 37 44 50
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>21</td><td>4'810</td><td>4'670</td><td></td></tr>
-<tr><td>27</td><td>5'641</td><td>5'477</td><td>5'313</td></tr>
-<tr><td>33</td><td>6'288</td><td>6'105</td><td>5'921</td></tr>
-<tr><td>39</td><td>6'773</td><td>6'575</td><td>6'378</td></tr>
-<tr><td>46</td><td>7'042</td><td>6'837</td><td>6'632</td></tr>
-<tr><td>50</td><td>7'042</td><td>6'837</td><td>6'632</td></tr>
-<tr><td>55</td><td>7'042</td><td>6'837</td><td>6'632</td></tr>
-<tr><td>60</td><td>7'042</td><td>6'837</td><td>6'632</td></tr>
-<tr><td>65</td><td>7'042</td><td>6'837</td><td>6'632</td></tr>
-</table>
+### M a s s ge be nde s 19 2 5 3 1 3 7 4 4 5 0 5 5 6 0 6 5 Le be ns a lt e r
 
-#### § A2-8
+B andpo sitio n 3'966 4'651 5'184 5'583 5'805 5'805 5'805 5'805 5'805 c o ben
 
-**L 7**
+### Lo hnle it linie 3 '8 5 0 4 '5 15 5 '0 3 3 5 '4 2 1 5 '6 3 6 5 '6 3 6 5 '6 3 6 5 '6 3 6 5 '6 3 6
 
-<sup>1</sup> Lohnband L 7:
+B andpo sitio n 3'735 4'380 4'882 5'258 5'467 5'467 5'467 5'467 5'467 c unten
 
-<sup>2</sup>
+### Lohnband L 3
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>22</td><td>5'047</td><td>4'900</td><td></td></tr>
-<tr><td>28</td><td>5'919</td><td>5'747</td><td>5'574</td></tr>
-<tr><td>34</td><td>6'597</td><td>6'405</td><td>6'213</td></tr>
-<tr><td>40</td><td>7'106</td><td>6'899</td><td>6'692</td></tr>
-<tr><td>47</td><td>7'389</td><td>7'174</td><td>6'958</td></tr>
-<tr><td>50</td><td>7'389</td><td>7'174</td><td>6'958</td></tr>
-<tr><td>55</td><td>7'389</td><td>7'174</td><td>6'958</td></tr>
-<tr><td>60</td><td>7'389</td><td>7'174</td><td>6'958</td></tr>
-<tr><td>65</td><td>7'389</td><td>7'174</td><td>6'958</td></tr>
-</table>
+6'500 6'000 5'500 5'000 4'500 4'000 3'500 20 26 32 38 45 50 55 60 65
 
-#### § A2-9
+### M assgebendes 20 26 32 38 45 50 55 60 65 Lebensalter
 
-**L 8**
+Bandposition c oben 4'161 4'880 5'440 5'859 6'092 6'092 6'092 6'092 6'092
 
-<sup>1</sup> Lohnband L 8:
+### Lo hnleitlinie 4'040 4'738 5'281 5'688 5'915 5'915 5'915 5'915 5'915
 
-<sup>2</sup>
+Bandposition c unten 3'919 4'596 5'123 5'518 5'737 5'737 5'737 5'737 5'737
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>22</td><td>5'294</td><td>5'140</td><td></td></tr>
-<tr><td>28</td><td>6'209</td><td>6'028</td><td>5'847</td></tr>
-<tr><td>34</td><td>6'921</td><td>6'719</td><td>6'517</td></tr>
-<tr><td>40</td><td>7'454</td><td>7'237</td><td>7'020</td></tr>
-<tr><td>47</td><td>7'751</td><td>7'525</td><td>7'299</td></tr>
-<tr><td>50</td><td>7'751</td><td>7'525</td><td>7'299</td></tr>
-<tr><td>55</td><td>7'751</td><td>7'525</td><td>7'299</td></tr>
-<tr><td>60</td><td>7'751</td><td>7'525</td><td>7'299</td></tr>
-<tr><td>65</td><td>7'751</td><td>7'525</td><td>7'299</td></tr>
-</table>
+### Lohnband L 4
 
-#### § A2-10
+6'500
 
-**L 9**
+6'000
 
-<sup>1</sup> Lohnband L 9:
+5'500
 
-<sup>2</sup>
+5'000
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>22</td><td>5'562</td><td>5'400</td><td></td></tr>
-<tr><td>28</td><td>6'523</td><td>6'333</td><td>6'143</td></tr>
-<tr><td>34</td><td>7'271</td><td>7'059</td><td>6'847</td></tr>
-<tr><td>40</td><td>7'831</td><td>7'603</td><td>7'375</td></tr>
-<tr><td>47</td><td>8'143</td><td>7'906</td><td>7'668</td></tr>
-<tr><td>50</td><td>8'143</td><td>7'906</td><td>7'668</td></tr>
-<tr><td>55</td><td>8'143</td><td>7'906</td><td>7'668</td></tr>
-<tr><td>60</td><td>8'143</td><td>7'906</td><td>7'668</td></tr>
-<tr><td>65</td><td>8'143</td><td>7'906</td><td>7'668</td></tr>
-</table>
+4'500
 
-#### § A2-11
+**60 65**
 
-**L 10**
+4'000 20 26 32 38 45 50 55
 
-<sup>1</sup> Lohnband L 10:
+### M assgebendes 20 26 32 38 45 50 55 60 65 Lebensalter
 
-<sup>2</sup>
+Bandposition 4'367 5'122 5'709 6'149 6'394 6'394 6'394 6'394 6'394 c oben
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>22</td><td>5'840</td><td>5'670</td><td></td></tr>
-<tr><td>28</td><td>6'849</td><td>6'650</td><td>6'450</td></tr>
-<tr><td>34</td><td>7'634</td><td>7'412</td><td>7'189</td></tr>
-<tr><td>40</td><td>8'223</td><td>7'983</td><td>7'744</td></tr>
-<tr><td>47</td><td>8'550</td><td>8'301</td><td>8'052</td></tr>
-<tr><td>50</td><td>8'550</td><td>8'301</td><td>8'052</td></tr>
-<tr><td>55</td><td>8'550</td><td>8'301</td><td>8'052</td></tr>
-<tr><td>60</td><td>8'550</td><td>8'301</td><td>8'052</td></tr>
-<tr><td>65</td><td>8'550</td><td>8'301</td><td>8'052</td></tr>
-</table>
+### Lohnleitlinie 4'240 4'973 5'543 5'970 6'207 6'207 6'207 6'207 6'207
 
-#### § A2-12
+Bandposition 4'113 4'823 5'376 5'791 6'021 6'021 6'021 6'021 6'021 c unten
 
-**L 11**
+### Lohnband L 5
 
-<sup>1</sup> Lohnband L 11:
+7'000
 
-<sup>2</sup>
+6'500 6'000 5'500
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>22</td><td>6'129</td><td>5'950</td><td></td></tr>
-<tr><td>28</td><td>7'188</td><td>6'978</td><td>6'769</td></tr>
-<tr><td>34</td><td>8'011</td><td>7'778</td><td>7'545</td></tr>
-<tr><td>40</td><td>8'629</td><td>8'378</td><td>8'126</td></tr>
-<tr><td>47</td><td>8'972</td><td>8'711</td><td>8'449</td></tr>
-<tr><td>50</td><td>8'972</td><td>8'711</td><td>8'449</td></tr>
-<tr><td>55</td><td>8'972</td><td>8'711</td><td>8'449</td></tr>
-<tr><td>60</td><td>8'972</td><td>8'711</td><td>8'449</td></tr>
-<tr><td>65</td><td>8'972</td><td>8'711</td><td>8'449</td></tr>
-</table>
+5'000 4'500 4'000 21 27 33 39 46 50 55
 
-#### § A2-13
+**60 65**
 
-**L 12**
+### M assgebendes 21 27 33 39 46 50 55 60 65 Lebensalter
 
-<sup>1</sup> Lohnband L 12:
+Bandposition 4'584 5'376 5'992 6'454 6'710 6'710 6'710 6'710 6'710 c oben
 
-<sup>2</sup>
+### Lo hnleitlinie 4'450 5'219 5'817 6'266 6'515 6'515 6'515 6'515 6'515
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>25</td><td>6'438</td><td>6'250</td><td></td></tr>
-<tr><td>31</td><td>7'550</td><td>7'330</td><td>7'110</td></tr>
-<tr><td>37</td><td>8'415</td><td>8'170</td><td>7'925</td></tr>
-<tr><td>43</td><td>9'064</td><td>8'800</td><td>8'536</td></tr>
-<tr><td>50</td><td>9'425</td><td>9'150</td><td>8'876</td></tr>
-<tr><td>55</td><td>9'425</td><td>9'150</td><td>8'876</td></tr>
-<tr><td>60</td><td>9'425</td><td>9'150</td><td>8'876</td></tr>
-<tr><td>65</td><td>9'425</td><td>9'150</td><td>8'876</td></tr>
-</table>
+Bandposition 4'317 5'062 5'643 6'078 6'319 6'319 6'319 6'319 6'319 c unten
 
-#### § A2-14
+### Lohnband L 6
 
-**L 13**
+7'500
 
-<sup>1</sup> Lohnband L 13:
+7'000
 
-<sup>2</sup>
+6'500
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>25</td><td>6'757</td><td>6'560</td><td></td></tr>
-<tr><td>31</td><td>7'924</td><td>7'694</td><td>7'463</td></tr>
-<tr><td>37</td><td>8'832</td><td>8'575</td><td>8'318</td></tr>
-<tr><td>43</td><td>9'514</td><td>9'236</td><td>8'959</td></tr>
-<tr><td>50</td><td>9'892</td><td>9'604</td><td>9'316</td></tr>
-<tr><td>55</td><td>9'892</td><td>9'604</td><td>9'316</td></tr>
-<tr><td>60</td><td>9'892</td><td>9'604</td><td>9'316</td></tr>
-<tr><td>65</td><td>9'892</td><td>9'604</td><td>9'316</td></tr>
-</table>
+6'000
 
-#### § A2-15
+5'500
 
-**L 14**
+5'000
 
-<sup>1</sup> Lohnband L 14:
+**60 65**
 
-<sup>2</sup>
+4'500 21 27 33 39 46 50 55
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>25</td><td>7'097</td><td>6'890</td><td></td></tr>
-<tr><td>31</td><td>8'323</td><td>8'081</td><td>7'838</td></tr>
-<tr><td>37</td><td>9'277</td><td>9'007</td><td>8'736</td></tr>
-<tr><td>43</td><td>9'992</td><td>9'701</td><td>9'410</td></tr>
-<tr><td>50</td><td>10'390</td><td>10'087</td><td>9'784</td></tr>
-<tr><td>55</td><td>10'390</td><td>10'087</td><td>9'784</td></tr>
-<tr><td>60</td><td>10'390</td><td>10'087</td><td>9'784</td></tr>
-<tr><td>65</td><td>10'390</td><td>10'087</td><td>9'784</td></tr>
-</table>
+### M assgebendes 21 27 33 39 46 50 55 60 65 Lebensalter
 
-#### § A2-16
+Bandposition 4'810 5'641 6'288 6'773 7'042 7'042 7'042 7'042 7'042 c oben
 
-**L 15**
+### Lohnleitlinie 4'670 5'477 6'105 6'575 6'837 6'837 6'837 6'837 6'837
 
-<sup>1</sup> Lohnband L 15:
+Bandposition 4'530 5'313 5'921 6'378 6'632 6'632 6'632 6'632 6'632 c unten
 
-<sup>2</sup>
+### Lohnband L 7
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>28</td><td>7'447</td><td>7'230</td><td></td></tr>
-<tr><td>34</td><td>8'734</td><td>8'479</td><td>8'225</td></tr>
-<tr><td>40</td><td>9'735</td><td>9'451</td><td>9'168</td></tr>
-<tr><td>46</td><td>10'485</td><td>10'180</td><td>9'874</td></tr>
-<tr><td>53</td><td>10'902</td><td>10'585</td><td>10'267</td></tr>
-<tr><td>55</td><td>10'902</td><td>10'585</td><td>10'267</td></tr>
-<tr><td>60</td><td>10'902</td><td>10'585</td><td>10'267</td></tr>
-<tr><td>65</td><td>10'902</td><td>10'585</td><td>10'267</td></tr>
-</table>
+7'500 7'000 6'500 6'000 5'500 5'000 4'500 22 28 34 40 47 50 55
 
-#### § A2-17
+**60 65**
 
-**L 16**
+### M assgebendes 22 28 34 40 47 50 55 60 65 Lebensalter
 
-<sup>1</sup> Lohnband L 16:
+Bandposition 5'047 5'919 6'597 7'106 7'389 7'389 7'389 7'389 7'389 c oben
 
-<sup>2</sup>
+### Lo hnleitlinie 4'900 5'747 6'405 6'899 7'174 7'174 7'174 7'174 7'174
 
-<table>
-<tr><th>Massgebendes Lebensalter</th><th>Bandposition c oben</th><th>Lohnleitlinie</th><th>Bandposition c unten</th></tr>
-<tr><td>28</td><td>7'818</td><td>7'590</td><td></td></tr>
-<tr><td>34</td><td>9'169</td><td>8'902</td><td>8'635</td></tr>
-<tr><td>40</td><td>10'219</td><td>9'922</td><td>9'624</td></tr>
-<tr><td>46</td><td>11'007</td><td>10'687</td><td>10'366</td></tr>
-<tr><td>53</td><td>11'445</td><td>11'112</td><td>10'778</td></tr>
-<tr><td>55</td><td>11'445</td><td>11'112</td><td>10'778</td></tr>
-<tr><td>60</td><td>11'445</td><td>11'112</td><td>10'778</td></tr>
-<tr><td>65</td><td>11'445</td><td>11'112</td><td>10'778</td></tr>
-</table>
+Bandposition 4'753 5'574 6'213 6'692 6'958 6'958 6'958 6'958 6'958 c unten
 
-## A3 Anhang 3:
+### Lohnband L 8
 
-#### § A3-1
+8'000 7'500 7'000 6'500 6'000 5'500 5'000 4'500 22 28 34 40 47 50 55 60 65
 
-<sup>1</sup> Lohnentwicklungsindex:
+### M assgebendes 22 28 34 40 47 50 55 60 65 Lebensalter
 
-<table>
-<tr><th>Bandposition</th><th>sofern erreichbarer Maximallohn noch nicht erreicht</th><th>bei ungenügenden Leistungen</th></tr>
-<tr><td>a</td><td>200</td><td>0</td></tr>
-<tr><td>b</td><td>150</td><td>0</td></tr>
-<tr><td>c</td><td>100</td><td>0</td></tr>
-<tr><td>d</td><td>75</td><td>0</td></tr>
-<tr><td>e</td><td>50</td><td>0</td></tr>
-</table>
+Bandposition 5'294 6'209 6'921 7'454 7'751 7'751 7'751 7'751 7'751 c oben
 
-A 2008, 1527
+### Lohnleitlinie 5'140 6'028 6'719 7'237 7'525 7'525 7'525 7'525 7'525
+
+Bandposition 4'986 5'847 6'517 7'020 7'299 7'299 7'299 7'299 7'299 c unten
+
+### Lohnband L 9
+
+8'500 8'000 7'500 7'000 6'500 6'000 5'500 5'000 22 28 34 40 47 50
+
+**55 60 65**
+
+### M assgebendes 22 28 34 40 47 50 55 60 65 Lebensalter
+
+Bandposition 5'562 6'523 7'271 7'831 8'143 8'143 8'143 8'143 8'143 c oben
+
+### Lo hnleitlinie 5'400 6'333 7'059 7'603 7'906 7'906 7'906 7'906 7'906
+
+Bandposition 5'238 6'143 6'847 7'375 7'668 7'668 7'668 7'668 7'668 c unten
+
+### Lohnband L 10
+
+9'000
+
+8'500
+
+8'000
+
+7'500
+
+7'000
+
+6'500 6'000
+
+**55 60 65**
+
+5'500 22 28 34 40 47 50
+
+### M assgebendes 22 28 34 40 47 50 55 60 65 Lebensalter
+
+Bandposition 5'840 6'849 7'634 8'223 8'550 8'550 8'550 8'550 8'550 c oben
+
+### Lo hnleitlinie 5'670 6'650 7'412 7'983 8'301 8'301 8'301 8'301 8'301
+
+Bandposition 5'500 6'450 7'189 7'744 8'052 8'052 8'052 8'052 8'052 c unten
+
+### Lohnband L 11
+
+9'000 8'500 8'000 7'500 7'000 6'500 6'000 5'500 22 28 34 40 47 50 55 60 65
+
+### M assgebendes 22 28 34 40 47 50 55 60 65 Lebensalter
+
+Bandposition 6'129 7'188 8'011 8'629 8'972 8'972 8'972 8'972 8'972 c oben
+
+### Lohnleitlinie 5'950 6'978 7'778 8'378 8'711 8'711 8'711 8'711 8'711
+
+Bandposition 5'772 6'769 7'545 8'126 8'449 8'449 8'449 8'449 8'449 c unten
+
+### Lohnband L 12
+
+9'500 9'000 8'500 8'000 7'500 7'000 6'500 6'000 25 31 37 43 50
+
+**55 60 65**
+
+### M assgebendes 25 31 37 43 50 55 60 65 Lebensalter
+
+Bandposition 6'438 7'550 8'415 9'064 9'425 9'425 9'425 9'425 c oben
+
+### Lo hnleitlinie 6'250 7'330 8'170 8'800 9'150 9'150 9'150 9'150
+
+Bandposition 6'063 7'110 7'925 8'536 8'876 8'876 8'876 8'876 c unten
+
+### Lohnband L 13
+
+10'000 9'500 9'000 8'500 8'000 7'500 7'000 6'500 6'000 20 25 31 37 43 50 55 60 65
+
+### M assgebendes 20 25 31 37 43 50 55 60 65 Lebensalter
+
+Bandposition c oben 6'757 7'924 8'832 9'514 9'892 9'892 9'892 9'892
+
+### Lohnleitlinie 6'560 7'694 8'575 9'236 9'604 9'604 9'604 9'604
+
+Bandposition 6'363 7'463 8'318 8'959 9'316 9'316 9'316 9'316 c unten
+
+### Lohnband L 14
+
+10'500 10'000 9'500 9'000 8'500 8'000 7'500 7'000 6'500 20 25 31 37 43 50 55 60 65
+
+### M assgebendes 20 25 31 37 43 50 55 60 65 Lebensalter
+
+Bandposition 7'097 8'323 9'277 9'992 10'390 10'390 10'390 10'390 c oben
+
+### Lohnleitlinie 6'890 8'081 9'007 9'701 10'087 10'087 10'087 10'087
+
+Bandposition c unten 6'683 7'838 8'736 9'410 9'784 9'784 9'784 9'784
+
+### Lohnband L 15
+
+11'000 10'500 10'000 9'500 9'000 8'500 8'000 7'500 7'000 6'500 20 28 34 40 46 53 55 60 65
+
+### M assgebendes 20 28 34 40 46 53 55 60 65 Lebensalter
+
+Bandposition c oben 7'447 8'734 9'735 10'485 10'902 10'902 10'902 10'902
+
+### Lo hnleitlinie 7'230 8'479 9'451 10'180 10'585 10'585 10'585 10'585
+
+Bandposition 7'013 8'225 9'168 9'874 10'267 10'267 10'267 10'267 c unten
+
+### Lohnband L 16
+
+11'500 11'000 10'500 10'000 9'500 9'000 8'500 8'000 7'500 7'000 20 28 34 40 46 53
+
+**55 60 65**
+
+### M assgebendes 20 28 34 40 46 53 55 60 65 Lebensalter
+
+Bandposition 7'818 9'169 10'219 11'007 11'445 11'445 11'445 11'445 c oben
+
+### Lo hnleitlinie 7'590 8'902 9'922 10'687 11'112 11'112 11'112 11'112
+
+Bandposition 7'362 8'635 9'624 10'366 10'778 10'778 10'778 10'778 c unten
+
+[^hLohnleitlinie7590-1]: Fassung gemäss Regierungsratsbeschluss vom 19. Oktober 2010, A 2010, 1847; in Kraft seit 1. Dezember 2010
+
+### ANHANG 3
+
+[^hLohnleitlinie7590-1]
+
+### Lohnentwicklungsindex
+
+**c d e**
+
+**50**
+
+**0 0 0**
+
+Bandposition a b sofern erreichbarer Maximallohn 200 150 100 75 noch nicht erreicht bei ungenügenden Leistungen 0 0
+
+## Weitere Fussnoten
+
+- [2] NG 165.1
+- [3] NG 311.1
+- [5] NG 165.112
+- [6] NG 165.113
+- [8] NG 311.112
+- [11] Fassung gemäss Regierungsratsbeschluss vom 3. März 2009, A 2009, 359; in Kraft seit 1. August 2009
+- [12] Fassung gemäss Regierungsratsbeschluss vom 19. Oktober 2010, A 2010, 1847; in Kraft seit 1. Dezember 2010
+- [13] Fassung gemäss Regierungsratsbeschluss vom 22. November 2016, A 2018, 525; in Kraft seit 1. August 2018
+- [2] Fassung gemäss Regierungsratsbeschluss vom 9. Juni 2009, A 2009, 1060; in Kraft seit 1. August 2009
+- [3] Fassung gemäss Regierungsratsbeschluss vom 20. März 2012, A 2012, 491; in Kraft seit 1. August 2012
+- [5] Fassung gemäss Regierungsratsbeschluss vom 21. Januar 2020, A 2020, 183; in Kraft seit 1. August 2020
+- [6] Fassung gemäss Regierungsratsbeschluss vom 23. Juni 2020, A 2020, 1391; in Kraft seit 1. August 2021
+- [1] Fassung gemäss Regierungsratsbeschluss vom 19. Oktober 2010, A 2010, 1847; in Kraft seit 1. Dezember 2010
