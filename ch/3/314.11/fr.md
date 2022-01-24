@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2022-01-22
+version: 2022-01-25
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220122/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220122-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220125/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220125-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220125/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220122/fr"
 
 (OAO)
 
-du 16 janvier 2019 (Etat le 22 janvier 2022)
+du 16 janvier 2019 (Etat le 25 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -595,7 +595,7 @@ Annexe 2*[^t-2]*
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. III de l’O du du 17 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)) et le ch. II de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. III de l’O du 17 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)), le ch. II de l’O du 19 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)) et l’annexe ch. 1 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -726,7 +726,7 @@ Annexe 2*[^t-2]*
 <tr><td>**XV.** **...**</td><td></td></tr>
 <tr><td>XVI. Ordonnance COVID-19 du 19 juin 2020 situation particulière**[^annex2-lvlu1-lvlu1-25]**</td><td>[tab]</td></tr>
 <tr><td>16001. …</td><td>[tab]</td></tr>
-<tr><td>16002. Infractions à l’obligation de porter un masque facial dans les véhicules des transports publics, dans les espaces clos accessibles au public des installations et des établissements ou lors de manifestations (art. 28, let. e, en relation avec l’art. 5, al. 1, 6, al. 1, ou 15, al. 2, let. b, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
+<tr><td>16002. Infractions à l’obligation de porter un masque facial dans les espaces clos des véhicules des transports publics, dans les espaces clos accessibles au public des installations et des établissements ou lors de manifestations (art. 28, let. e, en relation avec l’art. 5, al. 1, 6, al. 1, ou 15, al. 2, let. b, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>16003. …</td><td>[tab]</td></tr>
 <tr><td>16004. …</td><td>[tab]</td></tr>
 <tr><td>16005. Accès non autorisé sans le certificat requis à un lieu ou à une manifestation pour lesquels les personnes de 16 ans et plus doivent disposer d’un certificat particulier (art. 28, let. h, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>

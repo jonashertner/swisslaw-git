@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2022-01-22
+version: 2022-01-25
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220122/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220122-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220125/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220125-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220122/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 22. Januar 2022)
+vom 16. Januar 2019 (Stand am 25. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -601,7 +601,7 @@ Anhang 2*[^t-2]*
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. III der V vom 17. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)) und Ziff. II der V vom 19. Jan. 2022, in Kraft seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. III der V vom 17. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)), Ziff. II der V vom 19. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)) und Anhang Ziff. 1 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### Übertretungen nach den übrigen Erlassen
 
