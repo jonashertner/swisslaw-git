@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-01-24
+version: 2022-01-25
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220124/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220124-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220125/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220125-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220124/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 24. Januar 2022)
+vom 4. Juni 2021 (Stand am 25. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -920,7 +920,7 @@ Anhang 4*[^t-4]*
 
 ## Besondere Bestimmungen über Covid-19-Testzertifikate
 
-[^t-4]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und Ziff. IV der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) und Anhang Ziff. 3 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-4]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und Anhang Ziff. 3 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 …
 
@@ -931,7 +931,7 @@ Anhang 4*[^t-4]*
   Die Dauer wird ab der Probeentnahme berechnet und beträgt:
 
   - a. für PCR-Tests: 72 Stunden;
-  - b. für Sars-CoV-2-Schnelltests zur Fachanwendung: 24 Stunden;
+  - b. für Sars-CoV-2-Schnelltests zur Fachanwendung: 48 Stunden;
   - c. für laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene: 24 Stunden.
 
 ### 3 Angaben zum durchgeführten Test

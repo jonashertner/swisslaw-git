@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-01-24
+version: 2022-01-25
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220124/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220124-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220125/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220125-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220124/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 24 janvier 2022)
+du 4 juin 2021 (Etat le 25 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -924,7 +924,7 @@ Annexe 4*[^t-4]*
 
 ## Dispositions particulières applicables aux certificats de test COVID-19
 
-[^t-4]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), le ch. II de l’O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), le ch. IV de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur jusqu’au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) et l’annexe ch. 3 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-4]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), le ch. II de l’O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) et l’annexe ch. 3 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 ...
 
@@ -933,7 +933,7 @@ Annexe 4*[^t-4]*
 La durée de validité, calculée à partir du prélèvement de l’échantillon, est de:
 
 - a. 72 heures pour le test PCR;
-- b. 24 heures pour le test rapide SARS-CoV-2 avec application par un professionnel;
+- b. 48 heures pour le test rapide SARS-CoV-2 avec application par un professionnel;
 - c. 24 heures pour les analyses immunologiques en laboratoires des antigènes au SARS-CoV-2.
 
 ### 3 Indications concernant le test effectué

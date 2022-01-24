@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-01-24
+version: 2022-01-25
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220124/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220124-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220124/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220125/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220125-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 24 January 2022)
+of 4 June 2021 (Status as of 25 January 2022)
 
 The Swiss Federal Council,
 
@@ -925,7 +925,7 @@ Annex 4*[^t-4]*
 
 ## Special provisions concerning COVID-19 test certificates
 
-[^t-4]: Revised by Annex 3 No 3 of the COVID-19 Special Situation Ordinance of 23 June 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) and No IV of the O of 3 Dec. 2021 (Extension of the Requirement to wear a Face Mask and Access Restrictions to Persons with a Certificate), in force until 24 Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) and Annex No 3 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-4]: Revised by Annex 3 No 3 of the COVID-19 Special Situation Ordinance of 23 June 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) and Annex No 3 of the O of 17 Dec. 2021, in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 ...
 
@@ -936,7 +936,7 @@ Annex 4*[^t-4]*
   The duration is calculated from the time the sample is taken and is as follows:
 
   - a. for PCR tests: 72 hours;
-  - b. for Sars-CoV-2 rapid tests for specialist use: 24 hours.
+  - b. for Sars-CoV-2 rapid tests for specialist use: 48 hours;
   - c. for laboratory immunological analyses for Sars-CoV-2 antigens: 24 hours.
 
 ### 3 Details of the test carried out

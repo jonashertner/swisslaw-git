@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-01-24
+version: 2022-01-25
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220124/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220124-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220125/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220125-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220124/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 24 gennaio 2022)
+del 4 giugno 2021 (Stato 25 gennaio 2022) (Stato 25 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -927,7 +927,7 @@ Allegato 4*[^t-4]*
 
 ## Disposizioni particolari sui certificati di test COVID-19
 
-[^t-4]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), dal n. IV dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato), in vigore dal 6 dic. 2021 al 24 gen. 2022 ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) e dall’all. n. 3 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-4]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) e dall’all. n. 3 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 ### 1 ...
 
@@ -938,7 +938,7 @@ Allegato 4*[^t-4]*
   La durata è calcolata a partire dal prelievo del campione ed è di:
 
   - a. 72 ore per il test PCR;
-  - b. 24 ore per il test rapido SARS-CoV-2 per uso professionale;
+  - b. 48 ore per il test rapido SARS-CoV-2 per uso professionale;
   - c. 24 ore per l’analisi immunologica di laboratorio degli antigeni SARS-CoV-2.
 
 ### 3 Informazioni sul test eseguito
