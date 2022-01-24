@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2022-01-13
+version: 2022-01-25
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220113/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220113-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220113/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220125/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220125-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220113/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 13. Januar 2022)
+vom 23. Juni 2021 (Stand am 25. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -44,7 +44,7 @@ verordnet:
 
 <sup>2</sup> In Schulen der Sekundarstufe II gilt eine Pflicht zum Tragen einer Gesichtsmaske nach Artikel 6. Im Übrigen fallen Massnahmen im Bereich der obligatorischen Schule und der Sekundarstufe II in die Zuständigkeit der Kantone.[^2-1]
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 3
 
@@ -53,11 +53,11 @@ verordnet:
 In dieser Verordnung bedeutet:
 
 - a. *Impfzertifikat*: ein Covid-19-Impfzertifikat nach Artikel 1 Buchstabe a Ziffer 1 Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^3-2] oder ein anerkanntes ausländisches Zertifikat zur Bescheinigung von Impfungen nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate;
-- b. *Genesungszertifikat*: ein Covid-19-Genesungszertifikat nach Artikel 1 Buchstabe a Ziffer 2 Covid-19-Verordnung Zertifikate oder ein anerkanntes ausländisches Zertifikat zur Bescheinigung der Genesung nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate;
-- c. *Testzertifikat*: ein Testzertifikat nach Artikel 1 Buchstabe a Ziffer 3 der Covid-19-Verordnung Zertifikate oder ein anerkanntes ausländisches Zertifikat zur Bescheinigung von Tests nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate;
-- d. *Ausnahmezertifikat*: ein Covid-19-Ausnahmezertifikat nach Artikel 1 Buchstabe a Ziffer 4 der Covid-Verordnung Zertifikate.
+- b. *Genesungszertifikat:* ein Covid-19-Genesungszertifikat nach Artikel 1 Buchstabe a Ziffer 2 Covid-19-Verordnung Zertifikate oder ein anerkanntes ausländisches Zertifikat zur Bescheinigung der Genesung nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate;
+- c. *Testzertifikat:* ein Testzertifikat nach Artikel 1 Buchstabe a Ziffer 3 der Covid-19-Verordnung Zertifikate oder ein anerkanntes ausländisches Zertifikat zur Bescheinigung von Tests nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate;
+- d. *Ausnahmezertifikat:* ein Covid-19-Ausnahmezertifikat nach Artikel 1 Buchstabe a Ziffer 4 der Covid-Verordnung Zertifikate.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021, Bst. d vom 10. Jan. 2022, bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^3-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 #### Art. 3a
@@ -74,7 +74,7 @@ In dieser Verordnung bedeutet:
 
 <sup>5</sup> Das Attest muss von einer in der Schweiz niedergelassenen Ärztin oder einem in der Schweiz niedergelassenen Arzt ausgestellt sein, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^3a-3] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist und über einen eidgenössischen Weiterbildungstitel in dem Fachgebiet verfügt, dem der betreffende Grund zugeordnet ist.
 
-[^3a-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021, Abs. 3 vom 10. Jan. 2022, bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3a-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^3a-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3a-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
@@ -142,11 +142,11 @@ Sozialmedizinische Institutionen können nach Rücksprache mit der zuständigen 
 
 <sup>6</sup> Welche Personen im Sinne von Absatz 5 Buchstabe a als geimpft gelten, wird in Anhang 2 geregelt.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^6-2]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^6-3]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^6-4]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^6-5]: Aufgehoben durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), mit Wirkung vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^6-2]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^6-3]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^6-4]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^6-5]: Aufgehoben durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), mit Wirkung vom 13. Sept. 2021 bis zum 31. März 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542); [2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ## 3. Abschnitt: Massnahmen betreffend die Kontaktquarantäne und die Absonderung
 
@@ -249,43 +249,35 @@ Das Schutzkonzept muss Folgendes vorsehen:
 
 - a. Massnahmen betreffend Hygiene und Lüftung;
 - b. Massnahmen betreffend die Einhaltung der Maskentragpflicht nach Artikel 6;
-- c. die Erhebung der Kontaktdaten der anwesenden Personen nach Artikel 11, wo diese Verordnung dies vorschreibt.
+- c. *Aufgehoben*
 - d. Massnahmen betreffend Personen, die gemäss Artikel 6 Absatz 2 keine Maske tragen müssen;
-- e.[^10-1] Massnahmen betreffend die Einhaltung des Abstands, es sei denn, der Zugang wird auf Personen mit einem Impf-, Genesungs- oder Testzertifikat oder weitergehend eingeschränkt.[^10-2]
+- e. Massnahmen betreffend die Einhaltung des Abstands, es sei denn, der Zugang wird auf Personen mit einem Impf-, Genesungs- oder Testzertifikat oder weitergehend eingeschränkt.[^10-1]
 
 <sup>3</sup>
 
-Wird der Zugang auf Personen mit einem Impf-, Genesungs- oder Testzertifikat oder weitergehend eingeschränkt, so muss das Schutzkonzept zudem folgende Massnahmen enthalten:[^10-3]
+Wird der Zugang auf Personen mit einem Impf-, Genesungs- oder Testzertifikat oder weitergehend eingeschränkt, so muss das Schutzkonzept zudem folgende Massnahmen enthalten:
 
 - a. Massnahmen zur Umsetzung der Zugangsbeschränkung;
-- b.[^10-4] Massnahmen betreffend Personen mit einem Covid-19-Ausnahmezertifikat nach Artikel 21*a* Covid-Verordnung Zertifikate vom 4. Juni 2021[^10-5];
-- c.[^10-6] Massnahmen betreffend Personen mit einem Attest nach Artikel 3*a* Absatz 4, das bestätigt, dass sie sich aus einem medizinischen Grund nicht impfen lassen können.[^10-7]
+- b. Massnahmen betreffend Personen mit einem Covid-19-Ausnahmezertifikat nach Artikel 21*a* Covid-Verordnung Zertifikate vom 4. Juni 2021[^10-2];
+- c. Massnahmen betreffend Personen mit einem Attest nach Artikel 3*a* Absatz 4, das bestätigt, dass sie sich aus einem medizinischen Grund nicht impfen lassen können.[^10-3]
 
 <sup>4</sup> Die Vorgaben nach den Absätzen 2 und 3 werden in Anhang 1 näher ausgeführt.
 
 <sup>5</sup> Im Schutzkonzept muss eine für die Umsetzung des Konzepts und für den Kontakt mit den zuständigen Behörden verantwortliche Person bezeichnet werden.
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^10-3]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-4]: In Kraft seit 10. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)Ziff. VI Abs. 2).
-[^10-5]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^10-6]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-7]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21), [29](https://fedlex.data.admin.ch/eli/oc/2022/29)).
+[^10-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^10-3]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21), [29](https://fedlex.data.admin.ch/eli/oc/2022/29)).
 
 #### Art. 11
 
-**Erhebung von Kontaktdaten**
+[^11-1]
 
-<sup>1</sup> Werden Kontaktdaten gemäss Anhang 1 Ziffer 1.4 erhoben, so müssen die betroffenen Personen über die Erhebung und über deren Verwendungszweck informiert werden. Liegen die Kontaktdaten bereits vor, so muss darüber informiert werden, dass die Daten verwendet werden, sowie über den Verwendungszweck.
-
-<sup>2</sup> Die Kontaktdaten müssen zwecks Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen nach Artikel 33 EpG der zuständigen kantonalen Stelle auf deren Anfrage hin unverzüglich in elektronischer Form weitergeleitet werden.
-
-<sup>3</sup> Sie dürfen zu keinen anderen Zwecken als denjenigen nach dieser Verordnung bearbeitet werden, müssen bis 14 Tage nach dem Besuch der Einrichtung oder des Betriebs oder nach der Teilnahme an der Veranstaltung aufbewahrt und anschliessend sofort vernichtet werden.
+[^11-1]: Aufgehoben durch Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), mit Wirkung vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 12
 
-**Besondere Bestimmungen für Restaurations-, Bar- und Clubbetriebe**
+**Besondere Bestimmungen für Restaurations-, Bar- und Clubbetriebe**[^12-1]
 
 <sup>1</sup>
 
@@ -293,34 +285,34 @@ Für Restaurations-, Bar- und Clubbetriebe, in denen die Konsumation vor Ort erf
 
 - a. Den Zugang zu Innenbereichen müssen die Betreiber auf Personen mit einem Impf- oder Genesungszertifikat beschränken. Die Betreiber müssen für eine wirksame Lüftung der Räumlichkeiten sorgen. Für die Gäste gilt eine Sitzpflicht, ausser wenn der Zugang auf Personen beschränkt wird, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen.
 - b. Den Zugang zu Aussenbereichen können die Betreiber auf Personen mit einem Impf-, Genesungs- oder Testzertifikat oder weitergehend beschränken. Sieht ein Betreiber im Aussenbereich keine Beschränkung des Zugangs vor, so muss zwischen den Gästegruppen entweder der erforderliche Abstand eingehalten oder es müssen wirksame Abschrankungen angebracht werden.
-- c. Befindet sich der Aussenbereich eines Restaurations-, Bar- oder Clubbetriebs auf dem Gelände einer Veranstaltung mit Zugangsbeschränkung, so gilt diese Zugangsbeschränkung auch für den Aussenbereich des Restaurations-, Bar- oder Clubbetriebs.[^12-1]
+- c. Befindet sich der Aussenbereich eines Restaurations-, Bar- oder Clubbetriebs auf dem Gelände einer Veranstaltung mit Zugangsbeschränkung, so gilt diese Zugangsbeschränkung auch für den Aussenbereich des Restaurations-, Bar- oder Clubbetriebs.
 
-<sup>2</sup> …[^12-2]
+<sup>2</sup>
 
-<sup>3</sup> Betriebskantinen, Restaurationsbetriebe im Transitbereich von Flughäfen sowie in sozialen Einrichtungen, namentlich Anlaufstellen, können auf eine Beschränkung des Zugangs verzichten, sofern sie geeignete Schutzmassnahmen vorsehen, namentlich die Einhaltung des erforderlichen Abstands zwischen den Gästen oder Gästegruppen und eine Sitzpflicht während der Konsumation.[^12-3]
+Die zuständige kantonale Behörde kann im Einzelfall unter Vorgabe spezifischer Schutzmassnahmen vorsehen, dass die Betreiber von Restaurationsbetrieben auch Personen ohne das erforderliche Zertifikat Zugang gewähren dürfen, wenn:
 
-<sup>4</sup> …[^12-4]
+- a. ein entsprechender Antrag des Eidgenössischen Departements für auswärtige Angelegenheiten vorliegt;
+- b. dies für die Aufrechterhaltung der guten internationalen Beziehungen der Schweiz erforderlich ist.
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^12-2]: Aufgehoben durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), mit Wirkung vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^12-3]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^12-4]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), mit Wirkung vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+<sup>3</sup> Betriebskantinen, Restaurationsbetriebe im Transitbereich von Flughäfen sowie in sozialen Einrichtungen, namentlich Anlaufstellen, können auf eine Beschränkung des Zugangs verzichten, sofern sie geeignete Schutzmassnahmen vorsehen, namentlich die Einhaltung des erforderlichen Abstands zwischen den Gästen oder Gästegruppen und eine Sitzpflicht während der Konsumation.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 13
 
 **Besondere Bestimmungen für Diskotheken und Tanzlokale und andere Einrichtungen und Betriebe in den Bereichen Kultur, Unterhaltung, Freizeit und Sport**[^13-1]
 
-<sup>1</sup> Diskotheken und Tanzlokale müssen den Zugang auf Personen beschränken, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen. Sie müssen ausserdem die Kontaktdaten der Gäste erheben.
+<sup>1</sup> Diskotheken und Tanzlokale müssen den Zugang auf Personen beschränken, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen.
 
 <sup>2</sup> Öffentlich zugängliche Einrichtungen und Betriebe in den Bereichen Kultur, Unterhaltung, Freizeit und Sport, in denen den Besucherinnen und Besuchern nicht ausschliesslich Aussenbereiche offenstehen, müssen den Zugang auf Personen mit einem Impf- oder Genesungszertifikat beschränken. Sie können den Zugang auch auf Personen beschränken, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen.
 
-[^13-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^13-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 14
 
 **Veranstaltungen im Freien**[^14-1]
 
-<sup>1</sup> Bei Veranstaltungen im Freien muss der Zugang auf Personen mit einem Impf-, Genesungs- oder Testzertifikat beschränkt werden. Die Organisatoren können den Zugang auch auf Personen mit einem Impf- oder Genesungszertifikat oder weitergehend beschränken.[^14-2]
+<sup>1</sup> Bei Veranstaltungen im Freien muss der Zugang auf Personen mit einem Impf-, Genesungs- oder Testzertifikat beschränkt werden. Die Organisatoren können den Zugang auch auf Personen mit einem Impf- oder Genesungszertifikat oder weitergehend beschränken.
 
 <sup>2</sup>
 
@@ -331,8 +323,7 @@ Auf eine Zugangsbeschränkung kann verzichtet werden, wenn folgende Voraussetzun
 
 <sup>3</sup> Bei Veranstaltungen im Familien- und Freundeskreis (private Veranstaltungen) mit höchstens 50 Personen, die im Freien, aber nicht in öffentlich zugänglichen Einrichtungen und Betrieben stattfinden, kann auf eine Zugangsbeschränkung und auf die Erarbeitung und Umsetzung eines Schutzkonzepts verzichtet werden; es gilt einzig Artikel 4.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^14-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 14a
 
@@ -344,7 +335,7 @@ Auf eine Zugangsbeschränkung kann verzichtet werden, wenn folgende Voraussetzun
 
 **Veranstaltungen in Innenräumen**[^15-1]
 
-<sup>1</sup> Bei Veranstaltungen in Innenräumen muss der Zugang auf Personen mit einem Impf- oder Genesungszertifikat beschränkt werden. Die Organisatoren können den Zugang auch auf Personen beschränken, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen.[^15-2]
+<sup>1</sup> Bei Veranstaltungen in Innenräumen muss der Zugang auf Personen mit einem Impf- oder Genesungszertifikat beschränkt werden. Die Organisatoren können den Zugang auch auf Personen beschränken, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen.
 
 <sup>2</sup>
 
@@ -354,17 +345,14 @@ Bei in Innenräumen durchgeführten religiösen Veranstaltungen, Bestattungsfeie
 - b. Die Pflicht zum Tragen einer Gesichtsmaske nach Artikel 6 wird befolgt; zudem wird der erforderliche Abstand nach Möglichkeit eingehalten.
 - c. Es dürfen keine Speisen und Getränke konsumiert werden.
 - d. Der Organisator erarbeitet ein Schutzkonzept nach Artikel 10 und setzt dieses um.
-- e. Der Organisator erhebt die Kontaktdaten der anwesenden Personen.
 
-<sup>3</sup> Bei privaten Veranstaltungen mit höchstens 30 Personen, die in Innenräumen von nicht öffentlich zugänglichen Einrichtungen und Betrieben stattfinden, kann auf die Erarbeitung und Umsetzung eines Schutzkonzepts verzichtet werden. Wenn nicht mehr als 10 Personen anwesend sind, kann auch auf eine Zugangsbeschränkung verzichtet werden; es gilt dann einzig Artikel 4.[^15-3]
+<sup>3</sup> Bei privaten Veranstaltungen mit höchstens 30 Personen, die in Innenräumen von nicht öffentlich zugänglichen Einrichtungen und Betrieben stattfinden, kann auf die Erarbeitung und Umsetzung eines Schutzkonzepts verzichtet werden. Wenn nicht mehr als 10 Personen anwesend sind, kann auch auf eine Zugangsbeschränkung verzichtet werden; es gilt dann einzig Artikel 4.
 
-[^15-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^15-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^15-3]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 16
 
-**Besondere Bestimmungen für Grossveranstaltungen[^16-1]**
+**Besondere Bestimmungen für Grossveranstaltungen**[^16-1]
 
 <sup>1</sup> Wer eine Veranstaltung mit mehr als 1000 Personen, seien es Besucherinnen und Besucher oder Teilnehmende (Grossveranstaltungen), durchführen will, bedarf einer Bewilligung der zuständigen kantonalen Behörde.
 
@@ -373,20 +361,14 @@ Bei in Innenräumen durchgeführten religiösen Veranstaltungen, Bestattungsfeie
 Die Bewilligung wird erteilt, wenn:
 
 - a. davon auszugehen ist, dass die epidemiologische Lage im Kanton oder in der betroffenen Region die Durchführung erlauben wird;
-- b.
-
-  davon auszugehen ist, dass der Kanton zur Zeit der Durchführung der Veranstaltung über die notwendigen Kapazitäten in den folgenden Bereichen verfügen wird:
-
-  - 1\. Kapazitäten für die erforderliche Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen nach Artikel 33 EpG,
-  - 2\. Kapazitäten in der Gesundheitsversorgung, um sowohl Covid-19-Patientinnen und -Patienten als auch andere Patientinnen und Patienten uneingeschränkt versorgen zu können; dies schliesst namentlich ein, dass auch medizinisch nicht dringende Eingriffe durchgeführt werden können;
-
-- c.[^16-2] der Organisator ein Schutzkonzept nach Artikel 10 vorlegt.
+- b. davon auszugehen ist, dass der Kanton zur Zeit der Durchführung der Veranstaltung über die notwendigen Kapazitäten in der Gesundheitsversorgung verfügen, um sowohl Covid-19-Patientinnen und -Patienten als auch andere Patientinnen und Patienten uneingeschränkt versorgen zu können; dies schliesst namentlich ein, dass auch medizinisch nicht dringende Eingriffe durchgeführt werden können;
+- c. der Organisator ein Schutzkonzept nach Artikel 10 vorlegt.
 
 <sup>3</sup> Findet eine Grossveranstaltung in zwei oder mehr Kantonen statt, so ist von jedem Kanton eine Bewilligung erforderlich. Die Kantone koordinieren die Verfahren untereinander.
 
 <sup>4</sup> Wer in derselben Einrichtung wiederholt gleichartige Veranstaltungen durchführen will, kann dies in einem einzigen Gesuch beantragen.
 
-<sup>4bis</sup> Die zuständige kantonale Behörde kann bei Freiluftveranstaltungen im Sportbereich, die auf längeren Wegstrecken oder auf Strecken im freien Gelände stattfinden und bei denen aufgrund örtlicher Gegebenheiten weder Zugangskontrollen noch Absperrungen möglich sind, Ausnahmen von der Pflicht zur Zugangsbeschränkung bewilligen.[^16-3]
+<sup>4bis</sup> Die zuständige kantonale Behörde kann bei Freiluftveranstaltungen im Sport- und Kulturbereich, die auf längeren Wegstrecken oder auf Strecken im freien Gelände stattfinden und bei denen aufgrund örtlicher Gegebenheiten weder Zugangskontrollen noch Absperrungen möglich sind, Ausnahmen von der Pflicht zur Zugangsbeschränkung bewilligen.
 
 <sup>5</sup>
 
@@ -395,15 +377,13 @@ Der Kanton widerruft eine Bewilligung oder erlässt zusätzliche Einschränkunge
 - a. sich die epidemiologische Lage so verschlechtert, dass die Durchführung der Veranstaltung nicht mehr möglich ist, namentlich weil die notwendigen Kapazitäten nach Absatz 2 Buchstabe b nicht mehr sichergestellt werden können; oder
 - b. der Organisator die im Schutzkonzept vorgesehenen Massnahmen an einer bereits durchgeführten Veranstaltung nicht eingehalten hat und nicht gewährleisten kann, dass die Massnahmen zukünftig eingehalten werden.
 
-[^16-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^16-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^16-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^16-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 17
 
 [^17-1]
 
-[^17-1]: Aufgehoben durch Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), mit Wirkung vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^17-1]: Aufgehoben durch Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), mit Wirkung vom 20. Dez. 2021 bis zum 31. März 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882); [2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 18
 
@@ -411,12 +391,11 @@ Der Kanton widerruft eine Bewilligung oder erlässt zusätzliche Einschränkunge
 
 Für Fach- und Publikumsmessen gilt Folgendes:
 
-- a.[^18-2] Findet die Messe nicht ausschliesslich im Freien statt, so muss der Zugang auf Personen mit einem Impf- oder Genesungszertifikat beschränkt werden; die Organisatoren können den Zugang auch auf Personen beschränken, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen.
+- a. Findet die Messe nicht ausschliesslich im Freien statt, so muss der Zugang auf Personen mit einem Impf- oder Genesungszertifikat beschränkt werden; die Organisatoren können den Zugang auch auf Personen beschränken, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen.
 - b. Der Organisator muss ein Schutzkonzept nach Artikel 10 erarbeiten und umsetzen.
 - c. Sind pro Tag mehr als 1000 Personen anwesend, seien es Besucherinnen und Besuchern oder Teilnehmende, so bedürfen die Messen einer Bewilligung durch die zuständige kantonale Behörde; die Bewilligungs- und die Widerrufsvoraussetzungen nach Artikel 16 Absätze 2, 4 und 5 sind anwendbar.
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^18-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^18-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 19
 
@@ -431,16 +410,17 @@ Folgende Veranstaltungen unterliegen keinen Beschränkungen der Personenzahl:
 - c. Versammlungen, die für die Funktionsfähigkeit von institutionellen Begünstigten nach Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007[^19-1] notwendig sind;
 - d.[^19-2] Verhandlungen vor Schlichtungs- und Gerichtsbehörden.
 
-<sup>2</sup> Für politische und zivilgesellschaftliche Kundgebungen und für Unterschriftensammlungen sind die Artikel 10 und 11 nicht anwendbar.
+<sup>2</sup> Für politische und zivilgesellschaftliche Kundgebungen und für Unterschriftensammlungen ist Artikel 10[^19-3] nicht anwendbar.
 
 <sup>3</sup> Für Veranstaltungen nach den Absätzen 1 und 2 sind die Artikel 14–17 nicht anwendbar.
 
 [^19-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^19-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^19-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich) ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^19-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 25. Jan. 2022 angepasst.
 
 #### Art. 19a
 
-**Besondere Bestimmungen für den Hochschulbereich, die höhere Berufsbildung und die Weiterbildung**[^19a-1]
+**Besondere Bestimmungen für den Bildungsbereich**[^19a-1]
 
 Bei folgenden Bildungs- und Weiterbildungsangeboten und -aktivitäten muss der Zugang auf Personen mit einem Impf-, Genesungs- oder Testzertifikat beschränkt werden:
 
@@ -450,12 +430,18 @@ Bei folgenden Bildungs- und Weiterbildungsangeboten und -aktivitäten muss der Z
 - d. Prüfungen im Rahmen von Weiterbildungsangeboten gemäss Artikel 3 Buchstabe a des Bundesgesetzes vom 20. Juni 2014[^19a-2] über die Weiterbildung (WeBiG);
 - e. behördlich angeordnete Weiterbildungen;
 - f. vorbereitende Kurse für eidgenössische Prüfungen;
-- g. Angebote im Bereich des Grundkompetenzenerwerbs gemäss Artikel 13 WeBiG;
-- h. Angebote zur Erfüllung von Integrationskriterien nach Artikel 58*a* des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^19a-3].
+- g. Angebote im Bereich des Grundkompetenzenerwerbs nach Artikel 13 WeBiG;
+- h. Angebote zur Erfüllung von Integrationskriterien nach Artikel 58*a* des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^19a-3];
+- i. schweizerische Maturitätsprüfungen nach der Verordnung vom 7. Dezember 1998[^19a-4] über die schweizerische Maturitätsprüfung;
+- j. eidgenössische Berufsmaturitätsprüfungen nach der Verordnung des SBFI vom 16. November 2016[^19a-5] über die eidgenössische Berufsmaturitätsprüfung;
+- k. Ergänzungsprüfungen nach der Verordnung vom 2. Februar 2011[^19a-6] über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen.
 
-[^19a-1]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^19a-1]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^19a-2]: [SR 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
 [^19a-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^19a-4]: [SR 413.12](https://fedlex.data.admin.ch/eli/cc/1999/210)
+[^19a-5]: [SR 412.103.11](https://fedlex.data.admin.ch/eli/cc/2022/303)
+[^19a-6]: [SR 413.14](https://fedlex.data.admin.ch/eli/cc/2011/157)
 
 #### Art. 20
 
@@ -483,14 +469,14 @@ Die folgenden Personen haben mit einem Impf-, Genesungs- oder Testzertifikat Zug
 
 - a.
 
-  bei sportlichen Aktivitäten, auch im Rahmen von Veranstaltungen:
+  bei sportlichen Aktivitäten:
 
   - 1\. Leistungssportlerinnen und -sportler, die einen nationalen oder regionalen Leistungssportausweis von Swiss Olympic (*Swiss Olympic Card*) besitzen oder Angehörige eines nationalen Kaders eines nationalen Sportverbands sind,
   - 2\. Sportlerinnen und -sportler in Teams, die einer Liga mit professionellem oder semiprofessionellem Spielbetrieb oder einer nationalen Nachwuchsliga angehören; ist der Spielbetrieb nur in der Liga eines der beiden Geschlechter professionell oder semiprofessionell, so gilt die Befreiung von der Maskenpflicht auch für die Liga des anderen Geschlechts;
 
 - b.
 
-  bei kulturellen Aktivitäten, auch im Rahmen von Veranstaltungen:
+  bei kulturellen Aktivitäten:
 
   - 1\. professionelle Künstlerinnen und Künstler,
   - 2\. professionelle Künstlerinnen und Künstler in Ausbildung.
@@ -501,7 +487,7 @@ Die folgenden Personen haben mit einem Impf-, Genesungs- oder Testzertifikat Zug
 
 <sup>6</sup> Bei sportlichen und kulturellen Aktivitäten muss nur ein Schutzkonzept erarbeitet oder umgesetzt werden, wenn die Aktivitäten in Gruppen von mehr als 5 Personen ausgeübt werden. Für Personen, die die Aktivitäten in einem Anstellungsverhältnis ausüben, gelten die Vorgaben nach Artikel 25.
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 21
 
@@ -509,7 +495,7 @@ Die folgenden Personen haben mit einem Impf-, Genesungs- oder Testzertifikat Zug
 
 Für Aktivitäten von Organisationen und Institutionen der offenen Kinder- und Jugendarbeit mit Kindern und Jugendlichen unter 16 Jahren gilt einzig die Pflicht zur Erarbeitung und Umsetzung eines Schutzkonzepts nach Artikel 10. Das Schutzkonzept bezeichnet die zulässigen Aktivitäten.
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^21-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 22
 
@@ -521,7 +507,7 @@ Die zuständige kantonale Behörde kann Erleichterungen gegenüber den Vorgaben 
 - b. die epidemiologische Lage im Kanton oder in der betreffenden Region dies zulässt; und
 - c. vom Veranstalter oder Betreiber ein Schutzkonzept nach Artikel 10 vorgelegt wird, das spezifische Massnahmen umfasst, welche die Verbreitung des Coronavirus verhindern und Übertragungsketten unterbrechen.
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^22-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 23
 
@@ -572,18 +558,17 @@ In Innenräumen, einschliesslich Fahrzeugen, in denen sich mehr als eine Person 
 
 Sie sind unter den folgenden Voraussetzungen berechtigt, zu überprüfen, ob ihre Arbeitnehmerinnen und Arbeitnehmer über ein Impf-, Genesungs- oder Testzertifikat verfügen:
 
-- a.[^25-2] Die Überprüfung dient einzig der Festlegung von angemessenen Schutzmassnahmen oder der Umsetzung eines Testkonzepts nach Artikel 7 Absatz 3.
+- a. Die Überprüfung dient einzig der Festlegung von angemessenen Schutzmassnahmen oder der Umsetzung des Testkonzepts nach Artikel 7 Absatz 3.
 - b. Das Ergebnis der Überprüfung wird nicht für andere Zwecke verwendet.
 - c. Die Überprüfung und die daraus abgeleiteten Massnahmen werden schriftlich festgehalten.
 - d. Die Arbeitnehmerinnen und Arbeitnehmer oder deren Vertretung werden vorgängig angehört.
 
 <sup>5</sup> Die Arbeitgeber sind verpflichtet sicherzustellen, dass die Arbeitnehmerinnen und Arbeitnehmer ihre Arbeitsverpflichtungen von zu Hause aus erfüllen, wo dies aufgrund der Art der Aktivität möglich und mit verhältnismässigem Aufwand umsetzbar ist. Sie treffen die geeigneten organisatorischen und technischen Massnahmen.
 
-<sup>6</sup> Für den Schutz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer gilt zudem Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^25-3].
+<sup>6</sup> Für den Schutz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer gilt zudem Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^25-2].
 
-[^25-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^25-2]: Fassung gemäss Ziff. I der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung), in Kraft seit 13. Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
-[^25-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^25-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022, Abs. 5 in Kraft bis zum 28. Febr. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^25-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -617,24 +602,20 @@ Die Kantone sind verpflichtet, dem Koordinierten Sanitätsdienst regelmässig Fo
 
 #### Art. 28
 
+[^28-1]
+
 Mit Busse wird bestraft, wer:
 
-- a.[^28-1] als Betreiber oder Organisator vorsätzlich oder fahrlässig seine Verpflichtungen nach einer der folgenden Bestimmungen nicht einhält: Artikel 10 Absätze 1–3, 12, 13, 14 Absätze 1 und 2, 15, 18 Buchstaben a und b, 19*a* sowie 20 Absätze 2, 3 und 5;
-- b. als Betreiber oder Organisator vorsätzlich oder fahrlässig die nach Artikel 11 erhobenen Kontaktdaten entgegen Artikel 11 Absatz 3 zu anderen Zwecken bearbeitet oder länger als 14 Tage nach der Teilnahme an der Veranstaltung oder dem Besuch der Einrichtung oder des Betriebs aufbewahrt;
-- c.[^28-2] vorsätzlich eine Veranstaltung mit mehr Personen durchführt, als nach den Artikeln 14 Absätze 2 und 3 sowie 15 Absätze 2 und 3 mit den vorgesehenen Zugangsbeschränkungen zulässig sind;
-- d.[^28-3] vorsätzlich eine Grossveranstaltung nach Artikel 16 Absatz 1 oder eine Fach- oder Publikumsmesse nach Artikel 18 Buchstabe c ohne die dafür erforderliche Bewilligung oder abweichend vom bewilligten Schutzkonzept durchführt;
-- e.[^28-4] entgegen den Artikeln 5 Absatz 1, 6 Absatz 1 oder 15 Absatz 2 Buchstabe b in geschlossenen Bereichen von Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben oder an Veranstaltungen vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 5 Absatz 1 oder 6 Absatz 2 gegeben ist;
-- f.[^28-5] …
-- g.[^28-6] als Gast in einem Restaurationsbetrieb vorsätzlich gegen die Sitzpflicht nach Artikel 12 Absatz 1 Buchstabe a verstösst;
-- h.[^28-7] sich vorsätzlich ohne das erforderliche Zertifikat zu einer Einrichtung, einem Betrieb oder einer Veranstaltung Zutritt verschafft.
+- a. als Betreiber oder Organisator vorsätzlich oder fahrlässig seine Verpflichtungen nach einer der folgenden Bestimmungen nicht einhält: Artikel 10 Absätze 1–3, 12, 13, 14 Absätze 1 und 2, 15, 18 Buchstaben a und b, 19*a* sowie 20 Absätze 2, 3 und 5;
+- b. *Aufgehoben*
+- c. vorsätzlich eine Veranstaltung mit mehr Personen durchführt, als nach den Artikeln 14 Absätze 2 und 3 sowie 15 Absätze 2 und 3 zulässig sind;
+- d. vorsätzlich eine Grossveranstaltung nach Artikel 16 Absatz 1 oder eine Fach- oder Publikumsmesse nach Artikel 18 Buchstabe c ohne die dafür erforderliche Bewilligung oder abweichend vom bewilligten Schutzkonzept durchführt;
+- e. entgegen den Artikeln 5 Absatz 1, 6 Absatz 1 oder 15 Absatz 2 Buchstabe b in geschlossenen Bereichen von Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben oder an Veranstaltungen vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 5 Absatz 1 oder 6 Absatz 2 gegeben ist;
+- f. *Aufgehoben*
+- g. als Gast in einem Restaurationsbetrieb vorsätzlich gegen die Sitzpflicht nach Artikel 12 Absatz 1 Buchstabe a verstösst;
+- h. sich vorsätzlich ohne das erforderliche Zertifikat zu einer Einrichtung, einem Betrieb oder einer Veranstaltung Zutritt verschafft.
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^28-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^28-3]: Fassung gemäss Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-4]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^28-5]: Aufgehoben durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), mit Wirkung vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-6]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft vom 6. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^28-7]: Eingefügt durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ## 8. Abschnitt: Nachführung der Anhänge
 
@@ -644,7 +625,7 @@ Mit Busse wird bestraft, wer:
 
 <sup>2</sup> Es führt Anhang 1 im Einvernehmen mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung nach, Anhang 2 nach Anhörung der Eidgenössischen Kommission für Impffragen.
 
-[^29-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^29-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ## 9. Abschnitt: Schlussbestimmungen
 
@@ -672,13 +653,13 @@ Bewilligungen für Pilotprojekte, die gestützt auf Artikel 6*b*<sup>quater</sup
 
 #### Art. 32a
 
-**Übergangsbestimmung zur Änderung vom 17. Dezember 2021**[^32a-1]
+**Übergangsbestimmung zur Änderung vom 19. Januar 2022**[^32a-1]
 
-<sup>1</sup> Bis zum 24. Januar 2022 haben Personen mit einem Attest, das belegt, dass sie aus medizinischen Gründen weder geimpft noch getestet werden können, den gleichen Zugang zu Einrichtungen, Betrieben oder Veranstaltungen wie Personen, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen. Die Ausnahme von der Maskenpflicht nach Artikel 6 Absatz 2 Buchstabe i gilt für sie nicht.
+<sup>1</sup> Bis zum 13. Februar 2022 haben Personen mit einem Attest, das belegt, dass sie aus medizinischen Gründen weder geimpft noch getestet werden können, den gleichen Zugang zu Einrichtungen, Betrieben oder Veranstaltungen wie Personen, die sowohl über ein Impf- oder Genesungs- als auch über ein Testzertifikat verfügen. Die Ausnahme von der Maskenpflicht nach Artikel 6 Absatz 2 Buchstabe i gilt für sie nicht.
 
 <sup>2</sup> Das Attest muss von einer in der Schweiz niedergelassenen Ärztin oder einem in der Schweiz niedergelassenen Arzt ausgestellt sein, die oder der nach dem Medizinalberufegesetz vom 23. Juni 2006[^32a-2] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist.
 
-[^32a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^32a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^32a-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 33
@@ -689,11 +670,11 @@ Diese Verordnung tritt am 26. Juni 2021 um 00.00 Uhr in Kraft.
 
 Anhang 1*[^t-1]*
 
-(Art. 10 Abs. 4, 11 Abs. 1 sowie 29)
+(Art. 10 Abs. 4 sowie 29)
 
 ## Vorgaben für Schutzkonzepte
 
-[^t-1]: Bereinigt gemäss Ziff. II den V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats) ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), vom 1. Okt. 2021 (Nachweise für Personen, die aus medizinischen Gründen weder geimpft noch getestet werden können) ([AS 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)), Anhang Ziff. 2 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. II der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat), in Kraft bis zum 24. Jan. 2022 ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) und Ziff. II Abs. 1 der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Schutzkonzepte für öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen, die bei Personen über 16 Jahren den Zugang nicht auf Personen mit einem Zertifikat einschränken
 
@@ -705,10 +686,8 @@ Anhang 1*[^t-1]*
 - <sup>1</sup> Der Betreiber oder Organisator achtet bei der Wahl der Massnahmen nach Artikel 10 Absatz 2 darauf, für Gäste, Besucherinnen und Besucher sowie Teilnehmerinnen und Teilnehmer einen wirkungsvollen Schutz vor einer Ansteckung mit Covid-19 zu erreichen.
 - <sup>2</sup> Sind in öffentlich zugänglichen Einrichtungen und Betrieben und an Veranstaltungen Arbeitnehmerinnen und Arbeitnehmer tätig, so sind im Schutzkonzept die Massnahmen für Gäste, Besucherinnen und Besucher sowie Teilnehmerinnen und Teilnehmer auf die Massnahmen zum Schutz der Arbeitnehmerinnen und Arbeitnehmer nach Artikel 25 abzustimmen.
 - <sup>3</sup> Um einen wirkungsvollen Schutz nach den Absätzen 1 und 2 zu erreichen, trifft der Betreiber oder Organisator gegebenenfalls differenzierte Massnahmen für einzelne Bereiche der Einrichtung, des Betriebs oder der Veranstaltung, beispielsweise für Sitzplatz- oder Pausenbereiche, oder für einzelne Personengruppen, etwa durch die Bildung beständiger Teams.
-- 1\.1.3 Begründung der Erhebung von Kontaktdaten
-- Muss im Schutzkonzept gemäss Artikel 10 Absatz 2 Buchstabe c die Erhebung von Kontaktdaten vorgesehen werden, so sind die entsprechenden Gründe im Konzept anzugeben.
-- 1\.1.4 Information der anwesenden Personen
-- Der Betreiber oder Organisator informiert die anwesenden Personen (Gäste, Teilnehmerinnen und Teilnehmer, Besucherinnen und Besucher) über die für die Einrichtung, den Betrieb oder die Veranstaltung geltenden Massnahmen, beispielsweise über eine allfällige Pflicht zum Tragen einer Gesichtsmaske oder die Erhebung von Kontaktdaten.
+- 1\.1.3 Information der anwesenden Personen
+- Der Betreiber oder Organisator informiert die anwesenden Personen (Gäste, Teilnehmerinnen und Teilnehmer, Besucherinnen und Besucher) über die für die Einrichtung, den Betrieb oder die Veranstaltung geltenden Massnahmen, beispielsweise über eine allfällige Pflicht zum Tragen einer Gesichtsmaske.
 
 ### 1.2 Hygiene
 
@@ -720,51 +699,27 @@ Anhang 1*[^t-1]*
 
 - 1\.3.1 Der Abstand, der zwischen den Personen mindestens einzuhalten ist, beträgt 1,5 Meter (erforderlicher Abstand).
 - 1\.3.2 Im Sitzplatzbereich sind in Abweichung von Ziffer 1.3.1 die Plätze so anzuordnen oder zu belegen, dass nach Möglichkeit ein Platz freigehalten oder zwischen den Sitzplätzen ein gleichwertiger Abstand eingehalten wird.
-- 1\.3.3 …
-- 1\.3.4 Der Personenfluss ist so zu lenken, dass der erforderliche Abstand zwischen allen Personen eingehalten werden kann.
-- 1\.3.5 Von den Vorgaben zum Abstand ausgenommen sind Gruppen von Personen, bei denen die Einhaltung des Abstands unzweckmässig ist, namentlich bei Schulkindern, Familien oder Personen, die im selben Haushalt leben.
-
-### 1.4 Erhebung von Kontaktdaten
-
-- 1\.4.1 …
-- 1\.4.2
-
-  Werden die Kontaktdaten erhoben, so muss der Betreiber oder Organisator die anwesenden Personen über folgende Punkte informieren:
-
-  - a. die voraussichtliche Unterschreitung des erforderlichen Abstands und das damit einhergehende erhöhte Infektionsrisiko;
-  - b. die Möglichkeit einer Kontaktaufnahme durch die zuständige kantonale Stelle und deren Kompetenz, eine Quarantäne anzuordnen, wenn es Kontakte mit an Covid-19 erkrankten Personen gab.
-
-- 1\.4.3 Kontaktdaten können insbesondere über Reservations- oder Mitgliedersysteme oder mittels Kontaktformular erhoben werden.
-- 1\.4.4
-
-  Es sind folgende Daten zu erheben:
-
-  - a. Name und Vorname;
-  - b. Wohnort;
-  - c. Telefonnummer.
-
-- 1\.4.5 Der Betreiber oder Organisator hat durch geeignete Vorkehren sicherzustellen, dass die Korrektheit der erhobenen Kontaktdaten gewährleistet ist.
-- 1\.4.6 Bei Familien oder anderen Gruppen mit untereinander bekannten Personen genügt die Erfassung der Kontaktdaten nur einer Person der betreffenden Familie oder Gruppe.
-- 1\.4.7 Der Betreiber oder Organisator muss die Vertraulichkeit der Kontaktdaten bei der Erhebung und die Datensicherheit namentlich bei der Aufbewahrung der Daten gewährleisten.
+- 1\.3.3 Der Personenfluss ist so zu lenken, dass der erforderliche Abstand zwischen allen Personen eingehalten werden kann.
+- 1\.3.4 Von den Vorgaben zum Abstand ausgenommen sind Gruppen von Personen, bei denen die Einhaltung des Abstands unzweckmässig ist, namentlich bei Schulkindern, Familien oder Personen, die im selben Haushalt leben.
 
 ### 2 Schutzkonzepte für öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen, die den Zugang auf Personen mit einem Impf-, Genesungs- oder Testzertifikat oder weitergehend beschränken
 
 Das Schutzkonzept enthält Massnahmen in Bezug auf:
 
 - a. die geordnete und lückenlose Durchführung der Zugangskontrolle, einschliesslich der Schulung des Personals sowie der elektronischen Überprüfung von Zertifikaten mit der Überprüfungs-App nach Artikel 29 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex1-lvlu1-lvl2-1] oder einer anderen App, die datenminimierte Zertifikate nach Artikel 28 der Covid-19-Verordnung Zertifikate validieren kann und den in Artikel 29 Absatz 2 Buchstabe a und b der Covid-19-Verordnung Zertifikate genannten Grundsätzen entspricht;
-- a<sup>bis</sup>. die Überprüfung der Identität der Personen im Rahmen der Zugangskontrolle nach Buchstabe a; diese muss anhand eines geeigneten Identitätsnachweises mit Foto erfolgen;
-- a<sup>ter</sup>.
+- b. die Überprüfung der Identität der Personen im Rahmen der Zugangskontrolle nach Buchstabe a; diese muss anhand eines geeigneten Identitätsnachweises mit Foto erfolgen;
+- c.
 
   die Bearbeitung von Personendaten im Rahmen der Zugangskontrolle nach Buchstabe a; dabei gilt Folgendes:
 
-  - 1\. Der Betreiber beziehungsweise der Organisator muss die betroffenen Personen frühzeitig über die Datenbearbeitung informieren.
-  - 2\. Die Daten dürfen zu keinen anderen Zwecken bearbeitet werden.
-  - 3\. Die Daten dürfen nur dann aufbewahrt werden, wenn dies zur Sicherstellung der Zugangskontrolle erforderlich ist; diesfalls müssen sie spätestens zwölf Stunden nach Abschluss der Veranstaltungen vernichtet werden.
+  - 1\. der Betreiber beziehungsweise der Organisator muss die betroffenen Personen frühzeitig über die Datenbearbeitung informieren,
+  - 2\. die Daten dürfen zu keinen anderen Zwecken bearbeitet werden,
+  - 3\. die Daten dürfen nur dann aufbewahrt werden, wenn dies zur Sicherstellung der Zugangskontrolle erforderlich ist; diesfalls müssen sie spätestens zwölf Stunden nach Abschluss der Veranstaltungen vernichtet werden;
 
-- b. die Information der Besucherinnen und Besucher sowie der Teilnehmenden über das Erfordernis eines Zertifikats sowie über geltende Hygiene- und Verhaltensmassnahmen;
-- c. die Hygiene, insbesondere die Bereitstellung von Desinfektionsmitteln, periodische Reinigungen, Lüftung;
-- d. eine allfällige Pflicht zum Tragen einer Gesichtsmaske für Arbeitnehmerinnen und Arbeitnehmer und weitere an der Veranstaltung tätige Personen, die vor Ort Kontakt haben zu Besucherinnen und Besuchern;
-- e. die Anwesenheit von Personen mit einem Attest nach Artikel 3*a* Absatz 4 oder 32*a* Absatz 1, etwa die Pflicht dieser Personen zum Tragen einer Gesichtsmaske oder, bei gleichzeitigem Vorliegen eines Attests zur Befreiung von Maskenpflicht nach Artikel 5 Absatz 1 Buchstabe b, Vorgaben zur Einhaltung des erforderlichen Abstands.
+- d. die Information der Besucherinnen und Besucher sowie der Teilnehmenden über das Erfordernis eines Zertifikats sowie über geltende Hygiene- und Verhaltensmassnahmen;
+- e. die Hygiene, insbesondere die Bereitstellung von Desinfektionsmitteln, periodische Reinigungen, Lüftung;
+- f. eine allfällige Pflicht zum Tragen einer Gesichtsmaske für Arbeitnehmerinnen und Arbeitnehmer und weitere an der Veranstaltung tätige Personen, die vor Ort Kontakt haben zu Besucherinnen und Besuchern;
+- g. die Anwesenheit von Personen mit einem Attest nach Artikel 3*a* Absatz 4 oder 32*a* Absatz 1, etwa die Pflicht dieser Personen zum Tragen einer Gesichtsmaske oder, bei gleichzeitigem Vorliegen eines Attests zur Befreiung von Maskenpflicht nach Artikel 5 Absatz 1 Buchstabe b, Vorgaben zur Einhaltung des erforderlichen Abstands.
 - [tab]
 
 [^annex1-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
@@ -823,7 +778,7 @@ Anhang 4*[^t-3]*
 
 ## Medizinische Gründe dafür, dass sich eine Person nicht impfen lassen kann
 
-[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich), in Kraft vom 20. Dez. 2021 bis zum 24. Jan. 2022 ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 17. Dez. 2021 (Maskenpflicht auf Sekundarstufe II, Zugangsbeschränkungen auf Personen mit Impf- oder Genesungszertifikat, Einschränkung privater Veranstaltungen, Homeoffice-Pflicht, Vorgaben auf Tertiärstufe und im Weiterbildungsbereich) ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)). Fassung gemäss Ziff. II Abs. 1 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 Als medizinische Gründe dafür, dass sich eine Person nicht impfen lassen kann, gelten:
 

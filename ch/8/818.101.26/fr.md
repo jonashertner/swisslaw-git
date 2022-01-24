@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: fr
-version: 2022-01-13
+version: 2022-01-25
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220113/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220113-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220113/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220125/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220125-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220125/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220113/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 23 juin 2021 (Etat le 13 janvier 2022)
+du 23 juin 2021 (Etat le 25 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -44,20 +44,22 @@ arrête:
 
 <sup>2</sup> L’obligation de porter un masque facial prévue à l’art. 6 s’applique dans les écoles du degré secondaire II. Par ailleurs, les mesures concernant le domaine de l’école obligatoire et du degré secondaire II sont de la compétence des cantons.[^2-1]
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 3
 
 **Certificats**[^3-1]
 
+c. *certificat de test*: un certificat de test COVID-19 au sens de l’art. 1, let. a, ch. 3, de l’ordonnance COVID-19 certificats ou un certificat de test étranger reconnu au sens de la section 7 de l’ordonnance COVID-19 certificats;
+
 Dans la présente ordonnance, on entend par:
 
 - a. *certificat de vaccination*: un certificat de vaccination COVID-19 au sens de l’art. 1, let. a, ch. 1, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^3-2] ou un certificat de vaccination étranger reconnu au sens de la section 7 de l’ordonnance COVID-19 certificats;
-- b. *certificat de guérison:* un certificat de guérison COVID-19 au sens de l’art. 1, let. a, ch. 2, de l’ordonnance COVID-19 certificats ou un certificat de guérison étranger reconnu au sens de la section 7 de l’ordonnance COVID-19 certificats;
-- c. *certificat de test:* un certificat de test COVID-19 au sens de l’art. 1, let. a, ch. 3, de l’ordonnance COVID-19 certificats ou un certificat de test étranger reconnu au sens de la section 7 de l’ordonnance COVID-19 certificats;
-- d. *certificat de dérogation:* un certificat de dérogation COVID-19 au sens de l’art. 1, let. a, ch. 4, de l’ordonnance COVID-19 certificats.
+- b. *certificat de guérison*: un certificat de guérison COVID-19 au sens de l’art. 1, let. a, ch. 2, de l’ordonnance COVID-19 certificats ou un certificat de guérison étranger reconnu au sens de la section 7 de l’ordonnance COVID-19 certificats;
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021, let. d du 10 janv. 2022, au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+- d. *certification de dérogation*: un certificat de dérogation COVID-19 au sens de l’art. 1, let. a, ch. 4, de l’ordonnance COVID-19 certificats.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^3-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 #### Art. 3a
@@ -74,7 +76,7 @@ Dans la présente ordonnance, on entend par:
 
 <sup>5</sup> L’attestation doit être établie par un médecin installé en Suisse habilité à exercer sous sa propre responsabilité professionnelle en vertu de la loi du 23 juin 2006 sur les professions médicales[^3a-3] et au bénéfice d’un titre postgrade fédéral dans le domaine correspondant à la raison médicale invoquée.
 
-[^3a-1]: Introduit par le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat) ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021, al. 3 du 10 janv. 2022, au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^3a-1]: Introduit par le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat) ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^3a-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^3a-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
@@ -129,7 +131,7 @@ Les personnes suivantes sont exemptées de l’obligation prévue à l’al. 1:
 - f.[^6-1] les personnes qui, sur la base d’une prescription de la présente ordonnance, sont exemptées de l’obligation de porter un masque facial dans les domaines du sport et de la culture;
 - g.[^6-2] les personnes dans les établissements de restauration, les bars et les boîtes de nuit lorsqu’elles sont attablées;
 - h.[^6-3] les personnes dans la zone réservée au public des manifestations lorsqu’elles consomment assises à leur place;
-- i.[^6-4] les personnes dans les installations et les établissements accessibles au public ou les manifestations auxquels l’accès est limité aux personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test.
+- i.[^6-4] les personnes dans les installations et les établissements accessibles au public ou les manifestations auxquels l’accès est limité aux personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test*.*
 
 <sup>3</sup> et <sup>4</sup> ...[^6-5]
 
@@ -142,11 +144,11 @@ Les institutions médico-sociales peuvent, après consultation de l’autorité 
 
 <sup>6</sup> L’annexe 2 définit les personnes qui sont considérées comme vaccinées au sens de l’al. 5, let. a.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur du 13 sept. 2021 au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^6-2]: Introduite par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19) ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^6-3]: Introduite par le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^6-4]: Introduite par le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat) ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^6-5]: Abrogés par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), avec effet du 13 sept. 2021 au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^6-2]: Introduite par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19) ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^6-3]: Introduite par le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat) ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^6-4]: Introduite par le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat) ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^6-5]: Abrogés par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), avec effet du 13 sept. 2021 au 31 mars 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542); [2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ## Section 3 Mesures de quarantaine-contact et d’isolement
 
@@ -249,43 +251,35 @@ Le plan de protection doit prévoir:
 
 - a. des mesures d’hygiène et d’aération;
 - b. des mesures concernant le respect de l’obligation de porter un masque facial conformément à l’art. 6;
-- c. la collecte des coordonnées des personnes présentes au sens de l’art. 11, là où la présente ordonnance le prescrit;
+- c. *Abrogé*
 - d. des mesures concernant les personnes qui ne sont pas tenues de porter un masque facial en vertu de l’art. 6, al. 2;
-- e.[^10-1] des mesures concernant le respect de la distance, sauf si l’accès est limité aux seules personnes disposant d’un certificat de vaccination, de guérison ou de test ou si des restrictions d’accès plus strictes sont imposées.[^10-2]
+- e. des mesures concernant le respect de la distance, sauf si l’accès est limité aux seules personnes disposant d’un certificat de vaccination, de guérison ou de test ou si des restrictions d’accès plus strictes sont imposées.[^10-1]
 
 <sup>3</sup>
 
-Lorsque l’accès est limité aux seules personnes disposant d’un certificat de vaccination, de guérison ou de test ou que des restrictions d’accès plus strictes sont imposées, le plan de protection doit prévoir en outre:[^10-3]
+Lorsque l’accès est limité aux seules personnes disposant d’un certificat de vaccination, de guérison ou de test ou que des restrictions d’accès plus strictes sont imposées, le plan de protection doit prévoir en outre:
 
 - a. des mesures visant à mettre en œuvre la limitation de l’accès;
-- b.[^10-4] des mesures concernant les personnes disposant d’un certificat de dérogation COVID-19 au sens de l’art. 21*a* de l’ordonnance COVID-19 du 4 juin 2021 certificats[^10-5];
-- c.[^10-6] des mesures concernant les personnes disposant d’une attestation visée à l’art. 3*a*, al. 4, certifiant qu’elles ne peuvent pas se faire vacciner pour une raison médicale.[^10-7]
+- b. des mesures concernant les personnes disposant d’un certificat de dérogation COVID-19 au sens de l’art. 21*a* de l’ordonnance COVID-19 du 4 juin 2021 certificats[^10-2];
+- c. des mesures concernant les personnes disposant d’une attestation visée à l’art. 3*a*, al. 4, certifiant qu’elles ne peuvent pas se faire vacciner pour une raison médicale.[^10-3]
 
 <sup>4</sup> Les prescriptions visées aux al. 2 et 3 sont détaillées à l’annexe 1.
 
 <sup>5</sup> Le plan de protection désigne une personne responsable de la mise en œuvre du plan et des contacts avec les autorités compétentes.
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^10-3]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-4]: En vigueur depuis le 10 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)ch. VI al. 2).
-[^10-5]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^10-6]: Introduite par le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^10-7]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21), [29](https://fedlex.data.admin.ch/eli/oc/2022/29)).
+[^10-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^10-3]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21), [29](https://fedlex.data.admin.ch/eli/oc/2022/29)).
 
 #### Art. 11
 
-**Collecte des coordonnées**
+[^11-1]
 
-<sup>1</sup> Lorsque les coordonnées sont collectées conformément à l’annexe 1, ch. 1.4, les personnes concernées doivent être informées de cette collecte et du but de l’utilisation des données. Lorsque les coordonnées sont déjà connues, il faut informer les personnes concernées que leurs données sont utilisées en spécifiant dans quel but elles le sont.
-
-<sup>2</sup> Les coordonnées doivent être immédiatement transmises par voie électronique au service cantonal compétent qui en fait la demande, aux fins d’identification et d’information des personnes présumées infectées au sens de l’art. 33 LEp.
-
-<sup>3</sup> Elles ne peuvent pas être traitées à d’autres fins que celles prévues par la présente ordonnance; elles sont conservées durant les 14 jours suivant la participation à une manifestation ou la visite de l’installation ou de l’établissement, puis sont immédiatement détruites.
+[^11-1]: Abrogé par le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), avec effet du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 12
 
-**Dispositions particulières pour les établissements de restauration, les bars et les boîtes de nuit**
+**Dispositions particulières pour les établissements de restauration, les bars, les boîtes de nuit**[^12-1]
 
 <sup>1</sup>
 
@@ -293,34 +287,35 @@ Les établissements de restauration, les bars et les boîtes de nuit dans lesque
 
 - a. les exploitants doivent limiter l’accès à l’intérieur aux personnes disposant d’un certificat de vaccination ou de guérison; ils doivent veiller à garantir une aération efficace des locaux; les clients ont l’obligation de s’asseoir, sauf si l’accès est limité aux seules personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test;
 - b. les exploitants peuvent limiter l’accès à l’extérieur aux personnes disposant d’un certificat de vaccination, de guérison ou de test ou imposer des restrictions d’accès plus strictes; si un exploitant ne prévoit pas de limiter l’accès à l’extérieur, la distance requise entre les groupes doit être respectée ou des séparations efficaces doivent être installées;
-- c. si l’espace extérieur d’un établissement de restauration, d’un bar ou d’une boîte de nuit se trouve sur le site d’une manifestation à laquelle l’accès est limité, cette restriction d’accès s’applique aussi à l’espace extérieur de l’établissement de restauration, du bar ou de la boîte de nuit.[^12-1]
+- c. si l’espace extérieur d’un établissement de restauration, d’un bar ou d’une boîte de nuit se trouve sur le site d’une manifestation à laquelle l’accès est limité, cette restriction d’accès s’applique aussi à l’espace extérieur de l’établissement de restauration, du bar ou de la boîte de nuit.
 
-<sup>2</sup> ...[^12-2]
+<sup>2</sup> b. cela s’avère nécessaire pour maintenir les bonnes relations internationales de la Suisse.
 
-<sup>3</sup> Les restaurants d’entreprise, les établissements de restauration dans les zones de transit des aéroports et dans les institutions sociales, notamment les centres d’accueil, peuvent déroger à l’obligation de restreindre l’accès, pour autant qu’ils prévoient des mesures de protection adéquates, notamment le respect de la distance requise entre les clients ou les groupes de clients et l’obligation de consommer assis.[^12-3]
+Dans des cas particuliers et à condition que des mesures de protection spécifiques soient mises en place, l’autorité cantonale compétente peut prévoir que les exploitants d’établissements de restauration puissent aussi garantir l’accès à des personnes ne disposant pas du certificat requis, si:
 
-<sup>4</sup> …[^12-4]
+- a. le Département fédéral des affaires étrangères a déposé une demande à cette fin;
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^12-2]: Abrogé par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), avec effet du 13 sept. 2021 au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^12-3]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^12-4]: Abrogé par le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), avec effet du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+<sup>3</sup> Les restaurants d’entreprise, les établissements de restauration dans les zones de transit des aéroports et dans les institutions sociales, notamment les centres d’accueil, peuvent déroger à l’obligation de restreindre l’accès, pour autant qu’ils prévoient des mesures de protection adéquates, notamment le respect de la distance requise entre les clients ou les groupes de clients et l’obligation de consommer assis.
+
+<sup>4</sup> *Abrogé*
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 13
 
 **Dispositions particulières pour les discothèques et les salles de danse et pour les installations et les établissements des domaines de la culture, du divertissement, des loisirs et du sport**[^13-1]
 
-<sup>1</sup> Les discothèques et les salles de danse doivent limiter l’accès aux personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test. Elles doivent en outre collecter les coordonnées des clients.
+<sup>1</sup> Les discothèques et les salles de danse doivent limiter l’accès aux personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test.
 
 <sup>2</sup> Les installations et les établissements accessibles au public des domaines de la culture, du divertissement, des loisirs et du sport dans lesquels les espaces extérieurs ne sont pas les seuls à être ouverts aux visiteurs doivent limiter l’accès aux personnes disposant d’un certificat de vaccination ou de guérison. Ils peuvent aussi limiter l’accès aux personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 14
 
 **Manifestations à l’extérieur**[^14-1]
 
-<sup>1</sup> L’accès aux manifestations en plein air doit être limité aux personnes disposant d’un certificat de vaccination, de guérison ou de test. Les organisateurs peuvent aussi limiter l’accès aux personnes disposant d’un certificat de vaccination ou de guérison ou imposer des restrictions d’accès plus strictes.[^14-2]
+<sup>1</sup> L’accès aux manifestations à l’extérieur doit être limité aux personnes disposant d’un certificat de vaccination, de guérison ou de test. Les organisateurs peuvent aussi limiter l’accès aux personnes disposant d’un certificat de vaccination ou de guérison ou imposer des restrictions d’accès plus strictes.
 
 <sup>2</sup>
 
@@ -331,20 +326,19 @@ Il est possible de déroger à une obligation de limiter l’accès si les condi
 
 <sup>3</sup> Pour les manifestations organisées dans le cercle familial ou amical (manifestations privées) de 50 personnes au plus qui ont lieu à l’extérieur mais non dans des installations ou des établissements accessibles au public, il est possible de déroger à une obligation de limiter l’accès et à l’obligation d’élaborer et de mettre en œuvre un plan de protection; seul l’art. 4 s’applique.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^14-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 14a
 
 [^14a-1]
 
-[^14a-1]: Introduit par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19) ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Abrogé par le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), avec effet du 6 déc. 2021 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
+[^14a-1]: Introduit par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19) ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Abrogé par le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), avec effet au 6 déc. 2021 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
 
 #### Art. 15
 
 **Manifestations à l’intérieur**[^15-1]
 
-<sup>1</sup> L’accès aux manifestations à l’intérieur doit être limité aux personnes disposant d’un certificat de vaccination ou de guérison. Les organisateurs peuvent aussi limiter l’accès aux personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test.[^15-2]
+<sup>1</sup> L’accès aux manifestations à l’intérieur doit être limité aux personnes disposant d’un certificat de vaccination ou de guérison. Les organisateurs peuvent aussi limiter l’accès aux personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test.
 
 <sup>2</sup>
 
@@ -353,18 +347,15 @@ Pour les manifestations religieuses, les funérailles, les manifestations organi
 - a. le nombre maximal de personnes présentes, qu’il s’agisse de visiteurs ou de participants, s’élève à 50;
 - b. l’obligation de porter un masque facial visée à l’art. 6 est respectée; au surplus, la distance requise est respectée autant que possible;
 - c. il est interdit de consommer de la nourriture ou des boissons;
-- d. l’organisateur élabore et met en œuvre un plan de protection au sens de l’art. 10;
-- e. l’organisateur collecte les coordonnées des personnes présentes.
+- d. l’organisateur élabore et met en œuvre un plan de protection au sens de l’art. 10.
 
-<sup>3</sup> Pour les manifestations privées limitées à 30 personnes qui se déroulent à l’intérieur d’installations ou d’établissements non accessibles au public, il est possible de renoncer à l’élaboration et à la mise en œuvre d’un plan de protection. Si les personnes présentes ne sont pas plus de 10, il est possible de renoncer à l’obligation de limiter l’accès; seul s’applique alors l’art. 4.[^15-3]
+<sup>3</sup> Pour les manifestations privées limitées à 30 personnes qui se déroulent à l’intérieur d’installations ou d’établissements non accessibles au public, il est possible de renoncer à l’élaboration et à la mise en œuvre d’un plan de protection. Si les personnes présentes ne sont pas plus de 10, il est possible de renoncer à l’obligation de limiter l’accès; seul s’applique alors l’art. 4.
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^15-3]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 16
 
-**Dispositions particulières pour les grandes manifestations[^16-1]**
+**Dispositions particulières pour les grandes manifestations**[^16-1]
 
 <sup>1</sup> Quiconque entend organiser une manifestation réunissant plus de 1000 personnes, qu’il s’agisse de visiteurs ou de participants (grandes manifestations), doit obtenir l’autorisation de l’autorité cantonale compétente.
 
@@ -373,20 +364,14 @@ Pour les manifestations religieuses, les funérailles, les manifestations organi
 L’autorisation est délivrée si:
 
 - a. on peut considérer que la situation épidémiologique dans le canton ou la région concernée permet l’organisation de la manifestation;
-- b.
-
-  on peut considérer qu’à la date de la manifestation, le canton disposera des capacités nécessaires dans les domaines suivants:
-
-  - 1\. pour identifier et informer les personnes présumées infectées, conformément à l’art. 33 LEp,
-  - 2\. pour pouvoir soigner sans réserve aussi bien des patients atteints du COVID-19 que d’autres patients; ce qui implique notamment que des interventions médicales non urgentes puissent aussi être effectuées;
-
-- c.[^16-2] l’organisateur présente un plan de protection au sens de l’art. 10.
+- b. on peut considérer qu’à la date de la manifestation, le canton disposera des capacités sanitaires nécessaires dans les soins de santé pour pouvoir soigner sans réserve aussi bien des patients atteints du COVID-19 que d’autres patients, ce qui implique notamment que des interventions médicales non urgentes puissent aussi être effectuées;
+- c. l’organisateur présente un plan de protection au sens de l’art. 10.
 
 <sup>3</sup> Si une grande manifestation se déroule dans deux cantons ou plus, l’autorisation de chaque canton concerné est requise. Les cantons se concertent pour coordonner la procédure.
 
 <sup>4</sup> Une autorisation unique peut être demandée pour l’organisation répétée de plusieurs manifestations de même nature dans une même installation.
 
-<sup>4bis</sup> Pour les manifestations sportives en plein air qui se déroulent sur de longs parcours ou sur des parcours en terrain ouvert, l’autorité cantonale compétente peut prévoir des dérogations à l’obligation de limiter l’accès, lorsqu’en raison des particularités du lieu de la manifestation, il n’est pas possible d’en contrôler ni d’en bloquer l’accès.[^16-3]
+<sup>4bis</sup> Pour les manifestations sportives et culturelles en plein air qui se déroulent sur de longs parcours ou sur des parcours en terrain ouvert, l’autorité cantonale compétente peut prévoir des dérogations à l’obligation de limiter l’accès, lorsqu’en raison des particularités du lieu de la manifestation, il n’est pas possible d’en contrôler ni d’en bloquer l’accès.
 
 <sup>5</sup>
 
@@ -395,15 +380,13 @@ Le canton révoque une autorisation ou émet des restrictions supplémentaires:
 - a. si la situation épidémiologique se détériore au point que la manifestation ne peut plus avoir lieu, notamment parce qu’il n’est plus possible de garantir les capacités exigées à l’al. 2, let. b, ou
 - b. si l’organisateur n’a pas respecté les mesures prévues dans le plan de protection lors d’une manifestation précédente et qu’il ne peut pas garantir que les mesures seront respectées à l’avenir.
 
-[^16-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^16-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^16-3]: Introduit par le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 17
 
 [^17-1]
 
-[^17-1]: Abrogé par le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), avec effet du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^17-1]: Abrogé par le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), avec effet du 20 déc. 2021 au 31 mars 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882); [2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 18
 
@@ -411,12 +394,11 @@ Le canton révoque une autorisation ou émet des restrictions supplémentaires:
 
 Pour les foires spécialisées et les foires tout public, les dispositions suivantes s’appliquent:
 
-- a.[^18-2] si la foire ne se déroule pas uniquement en plein air, l’accès doit être limité aux personnes disposant d’un certificat de vaccination ou de guérison; les organisateurs peuvent aussi limiter l’accès aux personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test;
+- a. si la foire ne se déroule pas uniquement à l’extérieur, l’accès doit être limité aux personnes disposant d’un certificat de vaccination ou de guérison; les organisateurs peuvent aussi limiter l’accès aux personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test;
 - b. l’organisateur doit élaborer et mettre en œuvre un plan de protection au sens de l’art. 10;
 - c. les foires qui réunissent plus de 1000 personnes par jour, qu’il s’agisse de visiteurs ou de participants, doivent obtenir une autorisation de l’autorité cantonale compétente; les conditions d’octroi et de révocation des autorisations visées à l’art. 16, al. 2, 4 et 5, s’appliquent.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur du 13 sept. 2021 au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^18-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 19
 
@@ -431,16 +413,17 @@ Le nombre de personnes n’est pas limité pour les manifestations suivantes:
 - c. les assemblées nécessaires à l’accomplissement des fonctions officielles des bénéficiaires institutionnels visés à l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte[^19-1];
 - d.[^19-2] les procédures des autorités judiciaires et des organes de médiation.
 
-<sup>2</sup> Les art. 10 et 11 ne s’appliquent ni aux manifestations politiques ou de la société civile ni aux récoltes de signatures.
+<sup>2</sup> L’art. 10 ne s’applique[^19-3] ni aux manifestations politiques ou de la société civile ni aux récoltes de signatures.
 
 <sup>3</sup> Les art. 14 à 17 ne s’appliquent pas aux manifestations visées aux al. 1 et 2.
 
 [^19-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^19-2]: Introduite par le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^19-2]: Introduite par le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue) ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)). Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^19-3]: Le renvoi a été adapté au 25 janv. 2022 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 19a
 
-**Dispositions spéciales pour le domaine des hautes écoles, la formation professionnelle supérieure et la formation continue**[^19a-1]
+**Dispositions spéciales pour le domaine de la formation**[^19a-1]
 
 L’accès doit être limité aux personnes disposant d’un certificat de vaccination, de guérison ou de test pour les offres et activités de formation et de formation continue suivantes:
 
@@ -451,11 +434,17 @@ L’accès doit être limité aux personnes disposant d’un certificat de vacci
 - e. formations continues ordonnées par les autorités;
 - f. cours préparatoires aux examens fédéraux;
 - g. offres dans le domaine de l’acquisition des compétences de base au sens de l’art. 13 LFCo;
-- h. offres visant à remplir les critères d’intégration au sens de l’art. 58*a* de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^19a-3].
+- h. offres visant à remplir les critères d’intégration au sens de l’art. 58*a* de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^19a-3];
+- i. examens suisses de maturité au sens de l’ordonnance du 7 décembre 1998 sur l’examen suisse de maturité[^19a-4];
+- j. examens fédéraux de maturité professionnelle au sens de l’ordonnance du SEFRI du 16 novembre 2016 sur l’examen fédéral de maturité professionnelle[^19a-5];
+- k. examens complémentaires au sens de l’ordonnance du 2 février 2011 relative à l’examen complémentaire permettant aux titulaires d’un certificat fédéral de maturité professionnelle ou d’un certificat de maturité spécialisée reconnu au niveau suisse d’être admis aux hautes écoles universitaires[^19a-6].
 
-[^19a-1]: Introduit par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19) ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^19a-1]: Introduit par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19) ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^19a-2]: [RS 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
 [^19a-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^19a-4]: [RS 413.12](https://fedlex.data.admin.ch/eli/cc/1999/210)
+[^19a-5]: [RS 412.103.11](https://fedlex.data.admin.ch/eli/cc/2022/303)
+[^19a-6]: [RS 413.14](https://fedlex.data.admin.ch/eli/cc/2011/157)
 
 #### Art. 20
 
@@ -483,14 +472,14 @@ Les personnes suivantes disposant d’un certificat de vaccination, de guérison
 
 - a.
 
-  lors d’activités sportives, aussi dans le cadre de manifestations:
+  lors d’activités sportives:
 
   - 1\. les sportifs d’élite qui détiennent un passeport de performance national ou régional de Swiss Olympic (*Swiss Olympic Card*) ou font partie d’un cadre national d’une fédération sportive nationale,
   - 2\. les membres d’équipes appartenant à une ligue professionnelle ou semi-professionnelle ou à une ligue nationale espoir; si les matches ont lieu au niveau professionnel ou semi-professionnel dans une ligue d’un seul des deux sexes, la disposition s’applique également aux activités sportives de la ligue correspondante de l’autre sexe;
 
 - b.
 
-  lors d’activités culturelles, aussi dans le cadre de manifestations:
+  lors d’activités culturelles:
 
   - 1\. les artistes professionnels,
   - 2\. les artistes professionnels en formation.
@@ -499,9 +488,9 @@ Les personnes suivantes disposant d’un certificat de vaccination, de guérison
 
 <sup>5</sup> Si une activité sportive ou culturelle est pratiquée dans le cadre d’une manifestation soumise à des restrictions d’accès plus strictes que celles qui s’appliquent à l’activité, les restriction d’accès de la manifestation s’appliquent aussi aux personnes qui pratiquent l’activité en question. La règle ne s’applique pas aux personnes visées à l’al. 3.
 
-<sup>6</sup> Pour les activités sportives et culturelles, il ne faut élaborer ou mettre en œuvre un plan de protection que si les activités se déroulent en groupes de plus de 5 personnes; l’art. 25 s’applique aux personnes qui exercent ces activités dans le cadre d’un rapport de travail.
+<sup>6</sup> Pour les activités sportives et culturelles, il ne faut élaborer ou mettre en œuvre un plan de protection que si les activités se déroulent en groupes de plus de 5 personnes. L’art. 25 s’applique aux personnes qui exercent ces activités dans le cadre d’un rapport de travail.
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 21
 
@@ -509,7 +498,7 @@ Les personnes suivantes disposant d’un certificat de vaccination, de guérison
 
 Pour les activités des organisations et des institutions de l’animation socioculturelle enfance et jeunesse destinées à des enfants et à des adolescents de moins de 16 ans, seule s’applique l’obligation d’élaborer et de mettre en œuvre un plan de protection au sens de l’art. 10. Le plan de protection mentionne les activités autorisées.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur du 13 sept. 2021 au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 22
 
@@ -521,7 +510,7 @@ L’autorité cantonale compétente peut autoriser des allègements par rapport 
 - b. la situation épidémiologique dans le canton ou la région concernée le permet, et que
 - c. l’organisateur ou l’exploitant présente un plan de protection au sens de l’art. 10 qui comprend des mesures spécifiques permettant d’empêcher la propagation du COVID-19 et de casser les chaînes de transmission.
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 #### Art. 23
 
@@ -572,18 +561,17 @@ Dans les espaces intérieurs, y compris les véhicules où se tiennent plus d’
 
 Il est habilité à vérifier que son personnel dispose d’un certificat de vaccination, de guérison ou de test aux conditions suivantes:
 
-- a.[^25-2] la vérification permet de définir des mesures de protection appropriées ou de mettre en œuvre le plan de dépistage prévu à l’art. 7, al. 3;
+- a. la vérification permet de définir des mesures de protection appropriées ou de mettre en œuvre le plan de dépistage prévu à l’art. 7, al. 3;
 - b. le résultat de la vérification n’est pas utilisé à d’autres fins;
 - c. la vérification et les mesures qui en découlent sont consignées par écrit;
 - d. les employés ou leurs représentants sont consultés au préalable.
 
 <sup>5</sup> Lorsque la nature de l’activité le rend possible et réalisable sans efforts disproportionnés, l’employeur est tenu de garantir que les employés remplissent leurs obligations professionnelles depuis leur domicile. Il prend les mesures organisationnelles et techniques appropriées.
 
-<sup>6</sup> L’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^25-3] s’applique en sus à la protection des employés vulnérables.
+<sup>6</sup> L’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^25-2] s’applique en sus à la protection des employés vulnérables.
 
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^25-2]: Nouvelle teneur selon le ch. I de l’O du 12 janv. 2022 (Quarantaine-contact et isolement), en vigueur depuis le 13 janv. 2022 ([RO 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
-[^25-3]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022, sous réserve de l’al. 5, en vigueur jusqu’au 28 fév. 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^25-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -617,24 +605,20 @@ Les cantons ont l’obligation de communiquer régulièrement au Service sanitai
 
 #### Art. 28
 
+[^28-1]
+
 Est puni de l’amende quiconque:
 
-- a.[^28-1] en tant qu’exploitant ou organisateur enfreint intentionnellement ou par négligence les obligations qui lui incombent en vertu des art. 10, al. 1 à 3, 12, 13, 14, al. 1 et 2, 15, 18, let. a et b, 19*a* et 20, al. 2, 3 et 5;
-- b. en tant qu’exploitant ou organisateur enfreint intentionnellement ou par négligence l’art. 11, al. 3, en traitant les coordonnées collectées en vertu de l’art. 11 à d’autres fins ou en les conservant pendant plus de 14 jours suivant la manifestation ou la visite de l’installation ou de l’établissement;
-- c.[^28-2] organise intentionnellement une manifestation rassemblant plus de personnes que le nombre autorisé avec les restrictions d’accès prévues en vertu des art. 14, al. 2 et 3, et 15, al. 2 et 3;
-- d.[^28-3] organise intentionnellement une grande manifestation au sens de l’art. 16, al. 1, ou une foire spécialisée ou tout public au sens de l’art. 18, let. c, sans disposer de l’autorisation requise ou en dérogeant au plan de protection approuvé;
-- e.[^28-4] enfreint intentionnellement ou par négligence l’art. 5, al. 1, 6, al. 1, ou 15, al. 2, let. b, en ne portant pas de masque facial dans les véhicules des transports publics, dans les espaces clos accessibles au public d’installations ou d’établissements, ou lors de manifestations, à moins qu’une exemption ne soit applicable en vertu de l’art. 5, al. 1, ou 6, al. 2;
-- f.[^28-5] ...
-- g.[^28-6] en tant que client d’un établissement de restauration enfreint intentionnellement l’obligation de rester assis applicable en vertu de l’art. 12, al. 1, let. a;
-- h.[^28-7] pénètre intentionnellement dans une installation, un établissement ou une manifestation qui exige la présentation d’un certificat, sans le certificat requis.
+- a. en tant qu’exploitant ou organisateur enfreint intentionnellement ou par négligence les obligations qui lui incombent en vertu des art. 10, al. 1 à 3, 12, 13, 14, al. 1 et 2, 15, 18, let. a et b, 19*a* et 20, al. 2, 3 et 5;
+- b. *abrogée*
+- c. organise intentionnellement une manifestation rassemblant plus de personnes que le nombre autorisé en vertu des art. 14, al. 2 et 3, et 15, al. 2 et 3;
+- d. organise intentionnellement une grande manifestation au sens de l’art. 16, al. 1, ou une foire spécialisée ou tout public au sens de l’art. 18, let. c, sans disposer de l’autorisation requise ou en dérogeant au plan de protection approuvé;
+- e. enfreint intentionnellement ou par négligence l’art. 5, al. 1, 6, al. 1, ou 15, al. 2, let. b, en ne portant pas de masque facial dans les espaces clos des véhicules des transports publics, dans les espaces clos accessibles au public d’installations ou d’établissements, ou lors de manifestations, à moins qu’une exemption ne soit applicable en vertu de l’art. 5, al. 1, ou 6, al. 2;
+- f. *abrogée*
+- g. en tant que client d’un établissement de restauration enfreint intentionnellement l’obligation de rester assis applicable en vertu de l’art. 12, al. 1, let. a;
+- h. pénètre intentionnellement dans une installation, un établissement ou une manifestation qui exige la présentation d’un certificat, sans le certificat requis.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^28-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
-[^28-3]: Nouvelle teneur selon le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur du 13 sept. 2021 au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-4]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^28-5]: Abrogée par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), avec effet du 13 sept. 2021 au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
-[^28-6]: Introduite par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19) ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat), en vigueur du 6 déc. 2021 au 24 janv. 2022 ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)).
-[^28-7]: Introduite par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19) ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ## Section 8 Actualisation des annexes
 
@@ -644,7 +628,7 @@ Est puni de l’amende quiconque:
 
 <sup>2</sup> Il actualise l’annexe 1 après avoir consulté le Département fédéral de l’économie, de la formation et de la recherche, et l’annexe 2 après avoir consulté la Commission fédérale pour les vaccinations.
 
-[^29-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ## Section 9 Dispositions finales
 
@@ -672,13 +656,13 @@ Les autorisations octroyées pour des projets pilotes en vertu de l’art. 6*b*<
 
 #### Art. 32a
 
-**Disposition transitoire relative à la modification du 17 décembre 2021**[^32a-1]
+**Disposition transitoire relative à la modification du 19 janvier 2022**[^32a-1]
 
-<sup>1</sup> Jusqu’au 24 janvier 2022, les personnes disposant d’une attestation certifiant que, pour des raisons médicales, elles ne peuvent ni se faire vacciner ni se faire tester bénéficient du même accès aux installations, établissements et manifestations que les personnes qui disposent d’un certificat de vaccination, de guérison ou de test. L’exemption de l’obligation du port du masque prévue à l’art. 6, al. 2, let. i, ne s’applique pas à ces personnes.
+<sup>1</sup> Jusqu’au 13 février 2022, les personnes disposant d’une attestation certifiant que, pour des raisons médicales, elles ne peuvent ni se faire vacciner ni se faire tester bénéficient du même accès aux installations, établissements et manifestations que les personnes qui disposent à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test. L’exemption de l’obligation du port du masque prévue à l’art. 6, al. 2, let. i, ne s’applique pas à ces personnes.
 
 <sup>2</sup> L’attestation doit être établie par un médecin établi en Suisse habilité à exercer sous sa propre responsabilité professionnelle en vertu de la loi du 23 juin 2006 sur les professions médicales[^32a-2].
 
-[^32a-1]: Introduit par l’annexe ch. 2 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^32a-1]: Introduit par l’annexe ch. 2 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^32a-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 33
@@ -689,11 +673,11 @@ La présente ordonnance entre en vigueur le 26 juin 2021 à 0 h 00.
 
 Annexe 1*[^t-1]*
 
-(art. 10, al. 4, 11, al. 1, et 29)
+(art. 10, al. 4, et 29)
 
 ## Prescriptions pour les plans de protection
 
-[^t-1]: Mise à jour par le ch. II des O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19) ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)), du 1<sup>er</sup> oct. 2021 (Attestations des personnes qui, pour des raisons médicales, ne peuvent ni se faire vacciner ni se faire tester) ([RO 2021 590](https://fedlex.data.admin.ch/eli/oc/2021/590)), l’annexe ch. 2 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) et le ch. II de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat) ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)) et le ch. II al. 1 de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Plan de protection pour les installations et les établissements accessibles au public ainsi que pour les manifestations ne limitant pas l’accès, pour les personnes de 16 ans et plus, aux seules personnes disposant d’un certificat
 
@@ -704,55 +688,29 @@ Annexe 1*[^t-1]*
 - <sup>1</sup> Lorsqu’il opte pour des mesures en application de l’art. 10, al. 2, l’exploitant ou l’organisateur veille à assurer aux clients, aux visiteurs et aux participants une protection efficace contre l’infection par le COVID-19.
 - <sup>2</sup> Dans les installations et les établissements accessibles au public et lors des manifestations où travaillent des employés, les mesures prévues dans le plan de protection pour les clients, les visiteurs et les participants doivent être harmonisées avec les mesures de protection des employés visées à l’art. 25.
 - <sup>3</sup> Pour assurer une protection efficace en application des al. 1 et 2, l’exploitant ou l’organisateur peut, s’il y a lieu, prendre des mesures différentes selon les secteurs de l’installation, de l’établissement ou de la manifestation, par exemple pour le secteur des places assises ou l’espace de repos, ou pour certaines catégories de personnes, par exemple en formant des équipes fixes.
-- 1\.1.3 Motifs de la collecte des coordonnées
-- Si le plan de protection doit prévoir la collecte des coordonnées conformément à l’art. 10, al. 2, let. c, il doit en indiquer les motifs.
-- 1\.1.4 Information des personnes présentes
-- L’exploitant ou l’organisateur informe les personnes présentes (clients, participants, visiteurs) des mesures en vigueur dans l’installation ou l’établissement ou pour la manifestation, comme l’obligation de porter un masque facial ou la collecte des coordonnées.
+- 1\.1.3 Information des personnes présentes
+- L’exploitant ou l’organisateur informe les personnes présentes (clients, participants, visiteurs) des mesures en vigueur dans l’installation ou l’établissement ou pour la manifestation, comme l’obligation de porter un masque facial.
 
 ### 1.2 Hygiène
 
 - 1\.2.1 Toutes les personnes doivent avoir la possibilité de se laver régulièrement les mains. À cet effet, du désinfectant et, dans les lavabos accessibles au public, du savon doivent être mis à disposition.
-- 1\.2.2. Toutes les surfaces de contact doivent être nettoyées régulièrement.
+- 1\.2.2 Toutes les surfaces de contact doivent être nettoyées régulièrement.
 - 1\.2.3 Il doit y avoir suffisamment de poubelles à disposition, notamment pour jeter les mouchoirs et les masques faciaux usagés.
 
 ### 1.3 Distance
 
 - 1\.3.1 La distance à respecter entre deux personnes est de 1,5 mètre au minimum (distance requise).
 - 1\.3.2 Là où des places assises sont attribuées, en dérogation au ch. 1.3.1, les places doivent être disposées ou occupées de sorte qu’il y ait dans la mesure du possible soit une place vide soit une distance équivalente entre les sièges occupés.
-- 1\.3.3 …
-- 1\.3.4 Les flux de personnes doivent être gérés de manière à pouvoir maintenir la distance requise entre toutes les personnes.
-- 1\.3.5 Les règles de distance ne s’appliquent pas aux groupes de personnes pour lesquels elles ne sont pas appropriées, notamment les enfants en âge scolaire, les familles ou les personnes faisant ménage commun.
-
-### 1.4 Collecte des coordonnées
-
-- 1\.4.1 …
-- 1\.4.2
-
-  Lorsque les coordonnées sont collectées, l’exploitant ou l’organisateur est tenu d’informer les personnes présentes des points suivants:
-
-  - a. la probabilité que la distance requise puisse ne pas être maintenue et le risque d’infection accru qui en découle;
-  - b. la possibilité que le service cantonal compétent prenne contact avec elles et sa compétence d’ordonner une quarantaine en cas de contacts avec des personnes atteintes du COVID-19.
-
-- 1\.4.3 Les coordonnées peuvent être collectées notamment à l’aide de systèmes de gestion des réservations ou des membres ou au moyen de formulaires de contact.
-- 1\.4.4
-
-  Les données suivantes doivent être collectées:
-
-  - a. nom et prénom;
-  - b. domicile;
-  - c. numéro de téléphone.
-
-- 1\.4.5 L’exploitant ou l’organisateur doit prendre les dispositions appropriées pour s’assurer que les coordonnées collectées sont correctes.
-- 1\.4.6 Pour les familles et les autres groupes de personnes qui se connaissent, les coordonnées d’un seul membre de la famille ou du groupe suffisent.
-- 1\.4.7 L’exploitant ou l’organisateur doit garantir la confidentialité des coordonnées qu’il collecte et la sécurité des données, notamment durant leur conservation.
+- 1\.3.3 Les flux de personnes doivent être gérés de manière à pouvoir maintenir la distance requise entre toutes les personnes.
+- 1\.3.4 Les règles de distance ne s’appliquent pas aux groupes de personnes pour lesquels elles ne sont pas appropriées, notamment les enfants en âge scolaire, les familles ou les personnes faisant ménage commun.
 
 ### 2 Plans de protection pour les installations et les établissements accessibles au public et pour les manifestations qui limitent l’accès aux seules personnes disposant d’un certificat de vaccination, de guérison ou de test ou qui imposent des restrictions d’accès plus strictes
 
 Le plan de protection comprend des mesures concernant les points suivants:
 
 - a. l’organisation ordonnée et complète du contrôle d’accès, formation du personnel comprise, et la vérification électronique des certificats au moyen de l’application de vérification visée à l’art. 29 de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex1-lvlu1-lvl2-1] ou d’une autre application apte à valider les certificats ne contenant que les données strictement nécessaires visés à l’art. 28 de l’ordonnance COVID-19 certificats et correspondant aux principes énoncés à l’art. 29, al. 2, let. a et b, de l’ordonnance COVID-19 certificats;
-- a<sup>bis</sup>. la vérification de l’identité des personnes lors du contrôle d’accès visé à la let. a; la vérification se fait à l’aide d’un document d’identité adapté avec photo;
-- a<sup>ter</sup>.
+- b. la vérification de l’identité des personnes lors du contrôle d’accès visé à la let. a; la vérification se fait à l’aide d’un document d’identité adapté avec photo;
+- c.
 
   le traitement des données personnelles lors du contrôle d’accès visé à la let. a; les règles suivantes s’appliquent:
 
@@ -760,12 +718,12 @@ Le plan de protection comprend des mesures concernant les points suivants:
   - 2\. les données ne peuvent pas être traitées à d’autres fins,
   - 3\. les données ne peuvent être stockées que si cela est nécessaire pour garantir le contrôle d’accès; dans ce cas, elles doivent être détruites au plus tard douze heures après la fin de la manifestation;
 
-- b. l’information des visiteurs et des participants sur la nécessité d’un certificat et sur les mesures d’hygiène et de conduite en vigueur;
-- c. l’hygiène, notamment la mise à disposition de désinfectant, les nettoyages périodiques et l’aération;
-- d. l’obligation éventuelle de porter un masque facial pour les employés et les autres personnes actives lors de la manifestation ayant sur place un contact avec les visiteurs;
-- e. la présence de titulaires d’une attestation au sens de l’art. 3*a*, al. 4, ou 32*a*, al. 1, telle que l’obligation pour ces personnes de porter un masque facial ou, si elles disposent également d’une attestation les exemptant de l’obligation de porter un masque en vertu de l’art. 5, al. 1, let. b, des consignes concernant le respect des distances.
+- d. l’information des visiteurs et des participants de la nécessité d’un certificat et des mesures d’hygiène et de conduite en vigueur;
+- e. l’hygiène, notamment la mise à disposition de désinfectant, les nettoyages périodiques et l’aération;
+- f. l’obligation éventuelle de porter un masque facial pour les employés et les autres personnes actives lors de la manifestation ayant sur place un contact avec les visiteurs;
+- g. la présence de titulaires d’une attestation au sens de l’art. 3*a*, al. 4, ou 32*a*, al. 1, telle que l’obligation pour ces personnes de porter un masque facial ou, si elles disposent également d’une attestation les exemptant de l’obligation de porter un masque en vertu de l’art. 5, al. 1, let. b, des consignes concernant le respect des distances.
 
-[^annex1-lvlu1-lvl2-1]: RS **808.102.2**
+[^annex1-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Annexe 2*[^t-2]*
 
@@ -773,7 +731,7 @@ Annexe 2*[^t-2]*
 
 ## Prescriptions concernant les exemptions de l’obligation de porter un masque et de la quarantaine-contact pour les personnes vaccinées et guéries
 
-[^t-2]: Mise à jour par l’annexe ch. 4 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) et le ch. II de l’O du 12 janv. 2022 (Quarantaine-contact et isolement), en vigueur depuis le 13 janv. 2022 ([RO 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^t-2]: Mise à jour par l’annexe ch. 4 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) et le ch. II al. 2 de l’O du 12 janv. 2022 (Quarantaine-contact et isolement), en vigueur depuis le 13 janv. 2022 ([RO 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
 
 ### 1 Personnes vaccinées
 
@@ -820,7 +778,7 @@ Annexe 4*[^t-3]*
 
 ## Raisons médicales pour lesquelles une personne ne peut pas se faire vacciner
 
-[^t-3]: Introduite par le ch. II al. 2 de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue), en vigueur du 20 déc. 2021 au 24 janv. 2022 ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)).
+[^t-3]: Introduite par le ch. II al. 2 de l’O du 17 déc. 2021 (Port du masque obligatoire au degré secondaire II, accès limités aux seules personnes disposant d’un certificat de vaccination ou de guérison, restrictions concernant les manifestations privées, obligation de travailler à domicile, dispositions dans le domaine de l’enseignement tertiaire et de la formation continue) ([RO 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)). Nouvelle teneur selon le ch. II al. 1 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 Sont réputées raisons médicales pour lesquelles une personne ne peut pas se faire vacciner:
 
