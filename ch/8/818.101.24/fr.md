@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2022-01-24
+version: 2022-01-25
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220124/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220124-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220125/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220125-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220125/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220124/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 24 janvier 2022)
+du 19 juin 2020 (Etat le 25 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -645,7 +645,7 @@ L’organisateur d’une assemblée de société peut, quel que soit le nombre p
 
 #### Art. 27a
 
-<sup>1</sup> L’employeur permet à ses employés vulnérables de remplir leurs obligations professionnelles depuis leur domicile. À cette fin, il prend les mesures organisationnelles et techniques qui sʼimposent. Les employés n’ont droit à aucun remboursement de frais pour remplir leurs obligations professionnelles depuis leur domicile en vertu de la présente disposition.
+<sup>1</sup> L’employeur permet à ses employés vulnérables de remplir leurs obligations professionnelles depuis leur domicile. À cette fin, il prend les mesures organisationnelles et techniques qui s’imposent.[^27a-1]
 
 <sup>2</sup> Si lʼemployé ne peut pas remplir ses obligations professionnelles habituelles depuis son domicile, son employeur lui attribue des tâches de substitution équivalentes quʼil peut effectuer depuis son domicile et les rétribue au même salaire, même si elles divergent du contrat de travail.
 
@@ -666,7 +666,7 @@ Si, pour des raisons dʼexploitation, la présence dʼemployés vulnérables sur
 
 <sup>8</sup> Les employés font valoir leur vulnérabilité moyennant une déclaration personnelle. Lʼemployeur peut exiger un certificat médical.
 
-<sup>9</sup> L’octroi des allocations pour perte de gain COVID-19 est régi par l’art. 2, al. 3<sup>quater</sup>, de l’ordonnance du 20 mars 2020 sur les pertes de gain COVID-19[^27a-1].
+<sup>9</sup> L’octroi des allocations pour perte de gain COVID-19 est régi par l’art. 2, al. 3<sup>quater</sup>, de l’ordonnance du 20 mars 2020 sur les pertes de gain COVID-19[^27a-2].
 
 <sup>10</sup>
 
@@ -685,17 +685,18 @@ Ne sont pas considérées comme vulnérables:
   les personnes visées à l’al. 10 qui ont contracté le SARS-CoV-2 et sont considérées comme guéries:
 
   - 1\. sur la base d’une analyse de biologie moléculaire pour le SARS-CoV-2: durant 365 jours à compter du 11<sup>e</sup> jour suivant la confirmation de l’infection,
-  - 2\. sur la base d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^27a-2]: durant la validité du certificat correspondant.
+  - 2\. sur la base d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^27a-3]: durant la validité du certificat correspondant.
 
 <sup>12</sup> Les pathologies et anomalies génétiques visées à lʼal. 10, let. b, sont précisées à lʼannexe 7 à lʼaide de critères médicaux. La liste de ces critères n’est pas exhaustive. Une évaluation clinique de la vulnérabilité dans le cas d’espèce est réservée et peut aussi avoir pour conséquence que des personnes visées à l’al. 11 soient considérées comme vulnérables.
 
 <sup>13</sup> Le DFI actualise en permanence lʼannexe 7 selon l’état des connaissances scientifiques.
 
-<sup>14</sup> L’art. 25 de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^27a-3] s’applique à la protection générale des employés.
+<sup>14</sup> L’art. 25 de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^27a-4] s’applique à la protection générale des employés.
 
-[^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-3]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-2]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
+[^27a-3]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-4]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Chapitre 5 Dispositions finales
 

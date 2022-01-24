@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2022-01-24
+version: 2022-01-25
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220124/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220124-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220125/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220125-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220125/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220124/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 24 gennaio 2022)
+del 19 giugno 2020 (Stato 25 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -645,7 +645,7 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 #### Art. 27a
 
-<sup>1</sup> Il datore di lavoro permette ai lavoratori particolarmente a rischio di adempiere da casa i loro obblighi lavorativi. Adotta provvedimenti organizzativi e tecnici idonei a tal fine. Per l’adempimento da casa dei loro obblighi lavorativi disposto in virtù della presente disposizione, ai lavoratori non è dovuta alcuna indennità per spese.
+<sup>1</sup> Il datore di lavoro permette ai lavoratori particolarmente a rischio di adempiere da casa i loro obblighi lavorativi. Adotta provvedimenti organizzativi e tecnici idonei a tal fine.[^27a-1]
 
 <sup>2</sup> Se non è possibile adempiere da casa gli obblighi lavorativi abituali, il datore di lavoro assegna al lavoratore interessato, in deroga al contratto di lavoro e senza modifica della retribuzione, un lavoro alternativo equivalente che può essere svolto da casa.
 
@@ -666,7 +666,7 @@ Se, per motivi aziendali, è indispensabile la totale o parziale presenza sul po
 
 <sup>8</sup> I lavoratori attestano la loro condizione di persone particolarmente a rischio mediante un’autodichiarazione. Il datore di lavoro può esigere un certificato medico.
 
-<sup>9</sup> Al diritto all’indennità per perdita di guadagno per il coronavirus si applica l’articolo 2 capoverso 3<sup>quater</sup> dell’ordinanza COVID-19 perdita di guadagno del 20 marzo 2020[^27a-1].
+<sup>9</sup> Al diritto all’indennità per perdita di guadagno per il coronavirus si applica l’articolo 2 capoverso 3<sup>quater</sup> dell’ordinanza COVID-19 perdita di guadagno del 20 marzo 2020[^27a-2].
 
 <sup>10</sup>
 
@@ -685,17 +685,18 @@ Non sono considerate particolarmente a rischio:
   le persone di cui al capoverso 10 che sono state contagiate dal SARS-CoV-2 e sono considerate guarite:
 
   - 1\. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: per 365 giorni a partire dall’11° giorno dopo la conferma del contagio,
-  - 2\. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^27a-2] sui certificati COVID-19: per la durata di validità del relativo certificato.
+  - 2\. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^27a-3] sui certificati COVID-19: per la durata di validità del relativo certificato.
 
 <sup>12</sup> Le patologie e anomalie genetiche di cui al capoverso 10 lettera b sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva una valutazione clinica del rischio nel singolo caso, che può portare a classificare anche persone di cui al capoverso 11 tra quelle particolarmente a rischio.
 
 <sup>13</sup> Il DFI aggiorna costantemente l’allegato 7 in base allo stato delle conoscenze scientifiche.
 
-<sup>14</sup> Alla protezione generale dei lavoratori si applica l’articolo 25 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^27a-3].
+<sup>14</sup> Alla protezione generale dei lavoratori si applica l’articolo 25 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^27a-4].
 
-[^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-3]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-1]: Nuovo testo giusta l’all. n. 2 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 25 gen. 2022 al 31 mar. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-2]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
+[^27a-3]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-4]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Capitolo 5: Disposizioni finali
 

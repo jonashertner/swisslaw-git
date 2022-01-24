@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-01-24
+version: 2022-01-25
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220124/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220124-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220124/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220125/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220125-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220125/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 24 January 2022)
+of 19 June 2020 (Status as of 25 January 2022)
 
 The Swiss Federal Council,
 
@@ -647,7 +647,7 @@ In the case of company meetings, the organiser may, regardless of the probable n
 
 #### Art. 27a
 
-<sup>1</sup> Employers shall enable their employees at high risk to carry out their working duties from home. They shall take the appropriate organisational and technical measures to achieve this. Employees shall not be entitled to any compensation for expenses related to fulfilling their working duties from home as ordered by this this provision.
+<sup>1</sup> Employers shall enable their employees at high risk to carry out their working duties from home. They shall take the appropriate organisational and technical measures to achieve this.[^27a-1]
 
 <sup>2</sup> Where it is not possible for employees to carry out their regular working duties from home, employers shall, in derogation from the contract of employment and for the same pay, assign the employees concerned equivalent alternative work that can be performed from home.
 
@@ -668,7 +668,7 @@ Where for operational reasons the presence of employees at high risk in the work
 
 <sup>8</sup> Employees shall give notice that they are at high risk by making a personal declaration. The employer may request a medical certificate.
 
-<sup>9</sup> Article 2 paragraph 3<sup>quater</sup> of the COVID-19 Loss of Earnings Ordinance of 20 March 2020[^27a-1] governs claims for compensation for loss of earnings related to the corona pandemic.
+<sup>9</sup> Article 2 paragraph 3<sup>quater</sup> of the COVID-19 Loss of Earnings Ordinance of 20 March 2020[^27a-2] governs claims for compensation for loss of earnings related to the corona pandemic.
 
 <sup>10</sup>
 
@@ -687,17 +687,18 @@ The following persons are not regarded as being at high risk:
   persons specified in paragraph 10 who have been infected with Sars-CoV-2 and have recovered:
 
   - 1\. when based on a molecular-biological analysis for Sars-CoV-2: for 365 days from the eleventh day after confirmation of infection,
-  - 2\. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-2]: for the term of validity of the certificate concerned.
+  - 2\. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-3]: for the term of validity of the certificate concerned.
 
 <sup>12</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.
 
 <sup>13</sup> The FDHA shall continually update Annex 7 based on the state of science.
 
-<sup>14</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-3] applies.
+<sup>14</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-4] applies.
 
-[^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-3]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-1]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 25 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-2]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
+[^27a-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-4]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Chapter 5 Final Provisions
 

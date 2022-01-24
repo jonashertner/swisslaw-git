@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2022-01-24
+version: 2022-01-25
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220124/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220124-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220125/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220125-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220124/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 24. Januar 2022)
+vom 19. Juni 2020 (Stand am 25. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -645,7 +645,7 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 #### Art. 27a
 
-<sup>1</sup> Der Arbeitgeber ermöglicht seinen besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern, ihre Arbeitsverpflichtungen von zu Hause aus zu erfüllen. Er trifft zu diesem Zweck die geeigneten organisatorischen und technischen Massnahmen. Für die gestützt auf diese Bestimmung angeordnete Erfüllung der Arbeitsverpflichtung von zu Hause aus sind den Arbeitnehmerinnen und Arbeitnehmern keine Auslagenentschädigungen geschuldet.
+<sup>1</sup> Der Arbeitgeber ermöglicht seinen besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern, ihre Arbeitsverpflichtungen von zu Hause aus zu erfüllen. Er trifft zu diesem Zweck die geeigneten organisatorischen und technischen Massnahmen.[^27a-1]
 
 <sup>2</sup> Ist es nicht möglich, die angestammte Arbeitsverpflichtung von zu Hause aus zu erfüllen, so weist der Arbeitgeber der betroffenen Arbeitnehmerin oder dem betroffenen Arbeitnehmer in Abweichung vom Arbeitsvertrag bei gleicher Entlöhnung eine gleichwertige Ersatzarbeit zu, die von zu Hause aus erledigt werden kann.
 
@@ -666,7 +666,7 @@ Ist aus betrieblichen Gründen die Präsenz besonders gefährdeter Arbeitnehmeri
 
 <sup>8</sup> Arbeitnehmerinnen und Arbeitnehmer machen ihre besondere Gefährdung durch eine persönliche Erklärung geltend. Der Arbeitgeber kann ein ärztliches Attest verlangen.
 
-<sup>9</sup> Für die Geltendmachung des Anspruchs auf Corona-Erwerbsersatz gilt Artikel 2 Absatz 3<sup>quater</sup> der Covid-19-Verordnung Erwerbsausfall vom 20. März 2020[^27a-1].
+<sup>9</sup> Für die Geltendmachung des Anspruchs auf Corona-Erwerbsersatz gilt Artikel 2 Absatz 3<sup>quater</sup> der Covid-19-Verordnung Erwerbsausfall vom 20. März 2020[^27a-2].
 
 <sup>10</sup>
 
@@ -685,17 +685,18 @@ Nicht als besonders gefährdet gelten:
   Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten:
 
   - 1\. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 365 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
-  - 2\. aufgrund einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^27a-2]: während der Gültigkeit des entsprechenden Zertifikats.
+  - 2\. aufgrund einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^27a-3]: während der Gültigkeit des entsprechenden Zertifikats.
 
 <sup>12</sup> Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 11 als besonders gefährdet eingestuft werden.
 
 <sup>13</sup> Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.
 
-<sup>14</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^27a-3].
+<sup>14</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^27a-4].
 
-[^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-3]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-1]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-2]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
+[^27a-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-4]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -1188,7 +1189,7 @@ Anhang 6*[^t-8]*
 
 - 1\.4.1.
 
-  Der Bund übernimmt die Kosten für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung in folgenden Fällen:
+  Der Bund übernimmt die Kosten für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard nur in folgenden Fällen:
 
   - a. bei Personen, die symptomatisch sind;
   - b. bei Personen, die einen engen Kontakt im Sinne von Artikel 7 Absatz 1 der Covid-19-Verordnung besondere Lage hatten;
