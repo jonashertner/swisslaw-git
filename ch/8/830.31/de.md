@@ -3,11 +3,11 @@ sr: "830.31"
 title: Verordnung vom 20. März 2020 über Massnahmen bei Erwerbsausfall im Zusammenhang mit dem Coronavirus (Covid-19) (Covid-19-Verordnung Erwerbsausfall)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: de
-version: 2022-01-01
+version: 2022-01-25
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220125/de/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220125-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220101/de"
 
 (Covid-19-Verordnung Erwerbsausfall)[^t-1]
 
-vom 20. März 2020 (Stand am 1. Januar 2022)
+vom 20. März 2020 (Stand am 25. Januar 2022)
 
 [^t-1]: Ausdruck gemäss Ziff. I 7 der V vom 7. Okt. 2020 über die Abstützung der Covid-19-Verordnungen auf das Covid-19-Gesetz, in Kraft seit 8. Okt. 2020 ([AS 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -139,7 +139,7 @@ Selbstständigerwerbende im Sinne von Artikel 12 ATSG und Personen nach Artikel 
 
 <sup>1</sup> Für eine anspruchsberechtigte Person nach Artikel 2 Absatz 1<sup>bis</sup> Buchstabe a Ziffer 1 entsteht der Anspruch am vierten Tag nach der angeordneten Schliessung der Einrichtung oder der angeordneten Quarantäne der für die Betreuung vorgesehenen Drittperson.
 
-<sup>2</sup> Für eine anspruchsberechtigte Person nach Artikel 2 Absatz 1<sup>bis</sup> Buchstabe a Ziffer 2 entsteht der Anspruch mit dem Beginn der angeordneten Kontaktquarantäne der erwerbstätigen Person oder ihres Kindes. Pro Quarantänefall werden höchstens sieben Taggelder ausgerichtet.[^3-2]
+<sup>2</sup> Für eine anspruchsberechtigte Person nach Artikel 2 Absatz 1<sup>bis</sup> Buchstabe a Ziffer 2 entsteht der Anspruch mit dem Beginn der angeordneten Kontaktquarantäne der erwerbstätigen Person oder ihres Kindes. Der Anspruch endet mit dem Ende der angeordneten Kontaktquarantäne.[^3-2]
 
 <sup>3</sup> Für eine anspruchsberechtigte Person nach Artikel 2 Absatz 3 oder 3<sup>bis</sup> entsteht der Anspruch mit dem Beginn der behördlich angeordneten Massnahme.[^3-3]
 
@@ -150,7 +150,7 @@ Selbstständigerwerbende im Sinne von Artikel 12 ATSG und Personen nach Artikel 
 <sup>6</sup> Für eine anspruchsberechtigte Person nach Artikel 2 Absatz 3<sup>quinquies</sup> entsteht der Anspruch mit dem Unterbruch der Erwerbstätigkeit und endet mit der Wiederaufnahme der Erwerbstätigkeit.[^3-7]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^3-2]: Fassung gemäss Ziff. II der V vom 27. Jan. 2021 (Kontaktquarantäne und Absonderung), in Kraft seit 8. Febr. 2021 ([AS 2021 60](https://fedlex.data.admin.ch/eli/oc/2021/60)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022, in Kraft seit 25. Jan. 2022 ([AS 2022 22](https://fedlex.data.admin.ch/eli/oc/2022/22)).
 [^3-3]: Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-5]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)

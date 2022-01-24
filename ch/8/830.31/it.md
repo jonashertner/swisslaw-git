@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordinanza del 20 marzo 2020 sui provvedimenti in caso di perdita di guadagno in relazione con il coronavirus (COVID-19) (Ordinanza COVID-19 perdita di guadagno)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: it
-version: 2022-01-01
+version: 2022-01-25
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220125/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220125-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220125/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220101/it"
 
 (Ordinanza COVID-19 perdita di guadagno)
 
-del 20 marzo 2020 (Stato 1° gennaio 2022)
+del 20 marzo 2020 (Stato 25 gennaio 2022) (Stato 25 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -138,7 +138,7 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 
 <sup>1</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a numero 1, il diritto nasce il quarto giorno successivo alla chiusura ordinata all’istituto o alla quarantena ordinata alla persona prevista per la custodia dei figli.
 
-<sup>2</sup> 2 Per gli aventi diritto di cui all’articolo 2 capoverso 1bis lettera a numero 2, il diritto nasce con l’inizio della quarantena dei contatti ordinata alla persona esercitante l’attività lucrativa o a suo figlio. Sono versate al massimo sette indennità giornaliere per caso di quarantena.[^3-2]
+<sup>2</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a numero 2, il diritto nasce con l’inizio della quarantena dei contatti ordinata alla persona esercitante l’attività lucrativa o a suo figlio. Il diritto si estingue al termine della quarantena dei contatti ordinata.[^3-2]
 
 <sup>3</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3 o 3<sup>bis</sup>, il diritto nasce con l’inizio del provvedimento ordinato dalle autorità.[^3-3]
 
@@ -149,7 +149,7 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 <sup>6</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quinquies</sup> il diritto nasce con l’interruzione dell’attività lucrativa e cessa con la sua ripresa.[^3-7]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^3-2]: Nuovo testo giusta il n. II dell’O del 27 gen. 2021 (Quarantena dei contatti e isolamento), in vigore dell’8 feb. 2021 ([RU 2021 60](https://fedlex.data.admin.ch/eli/oc/2021/60)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022, in vigore dal 25 gen. 2022 ([RU 2022 22](https://fedlex.data.admin.ch/eli/oc/2022/22)).
 [^3-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-4]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)

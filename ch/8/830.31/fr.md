@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordonnance du 20 mars 2020 sur les mesures en cas de pertes de gain en lien avec le coronavirus (COVID-19) (Ordonnance sur les pertes de gain COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: fr
-version: 2022-01-01
+version: 2022-01-25
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220125/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220125-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220125/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220101/fr"
 
 (Ordonnance sur les pertes de gain COVID-19)
 
-du 20 mars 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 mars 2020 (Etat le 25 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -138,7 +138,7 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 
 <sup>1</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 1, le droit à l’allocation prend effet le quatrième jour suivant la fermeture ordonnée de l’institution ou la mesure de quarantaine ordonnée au tiers prévu pour assurer la garde de l’enfant.
 
-<sup>2</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 2, le droit à l’allocation prend effet dès le début de la mesure de quarantaine-contact ordonnée à la personne exerçant une activité lucrative ou à l’enfant. Sept indemnités journalières au plus sont versées par mesure de quarantaine.[^3-2]
+<sup>2</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 2, le droit à l’allocation prend effet dès le début de la mesure de quarantaine-contact ordonnée à la personne exerçant une activité lucrative ou à l’enfant. Le droit prend fin à la fin de la quarantaine-contact ordonnée.[^3-2]
 
 <sup>3</sup> Pour un ayant droit au sens de l’art. 2, al. 3 ou 3<sup>bis</sup>, le droit à l’allocation prend effet dès le début des mesures ordonnées par l’autorité.[^3-3]
 
@@ -149,7 +149,7 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 <sup>6</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quinquies</sup>, le droit à l’allocation prend effet à compter de l’interruption de l’activité professionnelle et prend fin avec la reprise de cette activité.[^3-7]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^3-2]: Nouvelle teneur selon le ch. II de l’O du 27 janv. 2021 (Quarantaine-contact et isolement), en vigueur depuis le 8 fév. 2021 ([RO 2021 60](https://fedlex.data.admin.ch/eli/oc/2021/60)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 25 janv. 2022 ([RO 2022 22](https://fedlex.data.admin.ch/eli/oc/2022/22)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
