@@ -3,11 +3,11 @@ sr: "0.105.1"
 title: "Fakultativprotokoll vom 18. Dezember 2002 zum Übereinkommen gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/664"
 language: de
-version: 2018-02-08
+version: 2022-01-25
 adopted: 2002-12-18
 in_force: 2009-10-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/664/20180208/de/xml/fedlex-data-admin-ch-eli-cc-2009-664-20180208-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/664/20180208/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/664/20220125/de/xml/fedlex-data-admin-ch-eli-cc-2009-664-20220125-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/664/20220125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2009** 5449; BBl **2007** 265
 
 Abgeschlossen in New York am 18. Dezember 2002 Von der Bundesversammlung genehmigt am 20. März 2009[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 24. September 2009 In Kraft getreten für die Schweiz am 24. Oktober 2009
 
-(Stand am 8. Februar 2018)
+(Stand am 25. Januar 2022)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 20. März 2009 ([AS 2009 5443](https://fedlex.data.admin.ch/eli/oc/2009/662)).
 
@@ -44,7 +44,7 @@ ferner im Hinblick darauf, dass die Weltkonferenz für Menschenrechte, die im Ju
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.105](https://fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307)
+[^ingress-1]: [SR 0.105](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/25)
 
 ## Teil I Allgemeine Grundsätze
 
@@ -62,7 +62,7 @@ Ziel dieses Protokolls ist, ein System regelmässiger Besuche einzurichten, die 
 
 <sup>4.</sup> Der Unterausschuss für Prävention und die Vertragsstaaten arbeiten bei der Durchführung dieses Protokolls zusammen.
 
-[^2-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^2-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 3
 
@@ -314,8 +314,8 @@ Dieses Protokoll berührt nicht die Verpflichtungen von Vertragsstaaten aus regi
 
 Dieses Protokoll berührt nicht die Verpflichtungen der Vertragsstaaten aus den vier Genfer Abkommen vom 12. August 1949[^32-1] und den Zusatzprotokollen dazu vom 8. Juni 1977[^32-2] oder die Möglichkeit eines Vertragsstaats, dem Internationalen Komitee vom Roten Kreuz in Situationen, die nicht unter das humanitäre Völkerrecht fallen, den Besuch von Orten der Freiheitsentziehung zu erlauben.
 
-[^32-1]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226)und [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^32-2]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)und [0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
+[^32-1]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966)und [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^32-2]: [SR 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)und [0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
 
 #### Art. 33
 
@@ -337,7 +337,7 @@ Dieses Protokoll berührt nicht die Verpflichtungen der Vertragsstaaten aus den 
 
 Mitglieder des Unterausschusses für Prävention und der nationalen Präventionsmechanismen geniessen die für die unabhängige Wahrnehmung ihrer Aufgaben erforderlichen Vorrechte und Immunitäten. Mitglieder des Unterausschusses für Prävention geniessen die Vorrechte und Immunitäten, die in Abschnitt 22 des Übereinkommens vom 13. Februar 1946[^35-1] über die Vorrechte und Immunitäten der Vereinten Nationen vorbehaltlich des Abschnitts 23 dieses Übereinkommens vorgesehen sind.
 
-[^35-1]: [SR 0.192.120.1](https://fedlex.data.admin.ch/eli/cc/1956/1092_1171_1183)
+[^35-1]: [SR 0.192.120.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/638)
 
 #### Art. 36
 
@@ -354,10 +354,11 @@ Besuchen die Mitglieder des Unterausschusses für Prävention einen Vertragsstaa
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 8. Februar 2018**[^t-2]**
+Geltungsbereich am 25. Januar 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Afghanistan</td><td>17. April</td><td>2018 B</td><td>17. Mai</td><td>2018</td></tr>
 <tr><td>Albanien</td><td>1. Oktober</td><td>2003 B</td><td>22. Juni</td><td>2006</td></tr>
 <tr><td>Argentinien</td><td>15. November</td><td>2004</td><td>22. Juni</td><td>2006</td></tr>
 <tr><td>Armenien</td><td>14. September</td><td>2006 B</td><td>14. Oktober</td><td>2006</td></tr>
@@ -385,6 +386,7 @@ Geltungsbereich am 8. Februar 2018**[^t-2]**
 <tr><td>Griechenland</td><td>11. Februar</td><td>2014</td><td>13. März</td><td>2014</td></tr>
 <tr><td>Guatemala</td><td>9. Juni</td><td>2008</td><td>9. Juli</td><td>2008</td></tr>
 <tr><td>Honduras</td><td>23. Mai</td><td>2006</td><td>22. Juni</td><td>2006</td></tr>
+<tr><td>Island</td><td>20. Februar</td><td>2019</td><td>22. März</td><td>2019</td></tr>
 <tr><td>Italien</td><td>3. April</td><td>2013</td><td>3. Mai</td><td>2013</td></tr>
 <tr><td>Kambodscha</td><td>30. März</td><td>2007</td><td>29. April</td><td>2007</td></tr>
 <tr><td>Kap Verde</td><td>1. April</td><td>2016</td><td>1. Mai</td><td>2016</td></tr>
@@ -392,6 +394,7 @@ Geltungsbereich am 8. Februar 2018**[^t-2]**
 <tr><td>Kirgisistan</td><td>29. Dezember</td><td>2008 B</td><td>28. Januar</td><td>2009</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>23. September</td><td>2010 B</td><td>23. Oktober</td><td>2010</td></tr>
 <tr><td>Kroatien</td><td>25. April</td><td>2005</td><td>22. Juni</td><td>2006</td></tr>
+<tr><td>Lettland</td><td>10. Dezember</td><td>2021 B</td><td>9. Januar</td><td>2022</td></tr>
 <tr><td>Libanon</td><td>22. Dezember</td><td>2008 B</td><td>21. Januar</td><td>2009</td></tr>
 <tr><td>Liberia</td><td>22. September</td><td>2004 B</td><td>22. Juni</td><td>2006</td></tr>
 <tr><td>Liechtenstein</td><td>3. November</td><td>2006</td><td>3. Dezember</td><td>2006</td></tr>
@@ -404,7 +407,6 @@ Geltungsbereich am 8. Februar 2018**[^t-2]**
 <tr><td>Marokko</td><td>24. November</td><td>2014 B</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Mauretanien</td><td>3. Oktober</td><td>2012</td><td>2. November</td><td>2012</td></tr>
 <tr><td>Mauritius</td><td>21. Juni</td><td>2005 B</td><td>22. Juni</td><td>2006</td></tr>
-<tr><td>Mazedonien</td><td>13. Februar</td><td>2009</td><td>15. März</td><td>2009</td></tr>
 <tr><td>Mexiko</td><td>11. April</td><td>2005</td><td>22. Juni</td><td>2006</td></tr>
 <tr><td>Moldau</td><td>24. Juli</td><td>2006</td><td>23. August</td><td>2006</td></tr>
 <tr><td>Mongolei</td><td>12. Februar</td><td>2015</td><td>14. März</td><td>2015</td></tr>
@@ -416,6 +418,7 @@ Geltungsbereich am 8. Februar 2018**[^t-2]**
 <tr><td>Niederlande <sup>b</sup></td><td>28. September</td><td>2010</td><td>28. Oktober</td><td>2010</td></tr>
 <tr><td>Niger</td><td>7. November</td><td>2014 B</td><td>7. Dezember</td><td>2014</td></tr>
 <tr><td>Nigeria</td><td>27. Juli</td><td>2009 B</td><td>26. August</td><td>2009</td></tr>
+<tr><td>Nordmazedonien</td><td>13. Februar</td><td>2009</td><td>15. März</td><td>2009</td></tr>
 <tr><td>Norwegen</td><td>27. Juni</td><td>2013</td><td>27. Juli</td><td>2013</td></tr>
 <tr><td>Österreich</td><td>4. Dezember</td><td>2012</td><td>3. Januar</td><td>2013</td></tr>
 <tr><td>Pakistan</td><td>5. Juli</td><td>2011</td><td>4. August</td><td>2011</td></tr>
@@ -435,6 +438,7 @@ Geltungsbereich am 8. Februar 2018**[^t-2]**
 <tr><td>Slowenien</td><td>23. Januar</td><td>2007 B</td><td>22. Februar</td><td>2007</td></tr>
 <tr><td>Spanien</td><td>4. April</td><td>2006</td><td>22. Juni</td><td>2006</td></tr>
 <tr><td>Sri Lanka</td><td>5. Dezember</td><td>2017 B</td><td>4. Januar</td><td>2018</td></tr>
+<tr><td>Südafrika</td><td>20. Juni</td><td>2019</td><td>20. Juli</td><td>2019</td></tr>
 <tr><td>Südsudan</td><td>30. April</td><td>2015 B</td><td>30. Mai</td><td>2015</td></tr>
 <tr><td>Togo</td><td>20. Juli</td><td>2010</td><td>19. August</td><td>2010</td></tr>
 <tr><td>Tschechische Republik</td><td>10. Juli</td><td>2006</td><td>9. August</td><td>2006</td></tr>
@@ -450,7 +454,7 @@ Geltungsbereich am 8. Februar 2018**[^t-2]**
 </table>
 
 <table>
-<tr><td><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2009 5449](https://fedlex.data.admin.ch/eli/oc/2009/664), [2010 6407](https://fedlex.data.admin.ch/eli/oc/2010/902), [2011 4555](https://fedlex.data.admin.ch/eli/oc/2011/639), [2013 697](https://fedlex.data.admin.ch/eli/oc/2013/131), [2014 511](https://fedlex.data.admin.ch/eli/oc/2014/99), [2015 379](https://fedlex.data.admin.ch/eli/oc/2015/56), [2016 2951](https://fedlex.data.admin.ch/eli/oc/2016/491)und [2018 871](https://fedlex.data.admin.ch/eli/oc/2018/117). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2009 5449](https://fedlex.data.admin.ch/eli/oc/2009/664); [2010 6407](https://fedlex.data.admin.ch/eli/oc/2010/902); [2011 4555](https://fedlex.data.admin.ch/eli/oc/2011/639); [2013 697](https://fedlex.data.admin.ch/eli/oc/2013/131); [2014 511](https://fedlex.data.admin.ch/eli/oc/2014/99); [2015 379](https://fedlex.data.admin.ch/eli/oc/2015/56); [2016 2951](https://fedlex.data.admin.ch/eli/oc/2016/491); [2018 871](https://fedlex.data.admin.ch/eli/oc/2018/117); [2022 49](https://fedlex.data.admin.ch/eli/oc/2022/49). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty

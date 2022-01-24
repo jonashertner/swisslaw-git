@@ -3,11 +3,11 @@ sr: "0.105.1"
 title: "Protocollo facoltativo del 18 dicembre 2002 alla Convenzione contro la tortura ed altre pene o trattamenti crudeli, inumani o degradanti"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/664"
 language: it
-version: 2018-02-08
+version: 2022-01-25
 adopted: 2002-12-18
 in_force: 2009-10-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/664/20180208/it/xml/fedlex-data-admin-ch-eli-cc-2009-664-20180208-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/664/20180208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/664/20220125/it/xml/fedlex-data-admin-ch-eli-cc-2009-664-20220125-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/664/20220125/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,9 @@ RU **2009** 5449; FF **2007** 259
 
 Traduzione
 
-Concluso a New York il 18 dicembre 2002
+Concluso a New York il 18 dicembre 2002 Approvato dall'Assemblea federale il 20 marzo 2009[^t-1] Strumento di ratificazione depositato dalla Svizzera il 24 settembre 2009 Entrato in vigore per la Svizzera il 24 ottobre 2009
 
-Approvato dall'Assemblea federale il 20 marzo 2009[^t-1] Strumento di ratificazione depositato dalla Svizzera il 24 settembre 2009 Entrato in vigore per la Svizzera il 24 ottobre 2009
-
-(Stato 8 febbraio 2018)
+(Stato 25 gennaio 2022)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 20 mar. 2009 ([RU 2009 5443](https://fedlex.data.admin.ch/eli/oc/2009/662)).
 
@@ -46,7 +44,7 @@ persuasi che la protezione contro la tortura e altre pene o trattamenti crudeli,
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.105](https://fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307)
+[^ingress-1]: [RS 0.105](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/25)
 
 ## Parte I: Principi generali
 
@@ -64,7 +62,7 @@ Il presente Protocollo si prefigge di istituire un sistema di visite periodiche,
 
 <sup>4.</sup> Il Sottocomitato per la prevenzione e gli Stati Parte cooperano ai fini dell’applicazione del presente Protocollo.
 
-[^2-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^2-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 3
 
@@ -316,8 +314,8 @@ Le disposizioni del presente Protocollo non hanno alcun effetto sugli obblighi a
 
 Le disposizioni del presente Protocollo non hanno alcun effetto né sugli obblighi che incombono agli Stati Parte in virtù delle quattro Convenzioni di Ginevra del 12 agosto 1949[^32-1] e dei relativi Protocolli aggiuntivi dell’8 giugno 1977[^32-2], né sulla possibilità di ciascuno Stato Parte di autorizzare il Comitato internazionale della Croce Rossa a recarsi nei luoghi di detenzione in casi non previsti dal diritto internazionale umanitario.
 
-[^32-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^32-2]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362), [0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
+[^32-1]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^32-2]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968), [0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
 
 #### Art. 33
 
@@ -339,7 +337,7 @@ Le disposizioni del presente Protocollo non hanno alcun effetto né sugli obblig
 
 I membri del Sottocomitato per la prevenzione e quelli dei meccanismi nazionali per la prevenzione beneficiano dei privilegi e delle immunità necessari per poter esercitare in piena indipendenza le loro funzioni. I membri del Sottocomitato per la prevenzione beneficiano dei privilegi e delle immunità previsti nella sezione 22 della Convenzione del 13 febbraio 1946[^35-1] sui privilegi e le immunità delle Nazioni Unite, fatte salve le disposizioni della sezione 23 di tale Convenzione.
 
-[^35-1]: [RS 0.192.120.1](https://fedlex.data.admin.ch/eli/cc/1956/1092_1171_1183)
+[^35-1]: [RS 0.192.120.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/638)
 
 #### Art. 36
 
@@ -356,10 +354,11 @@ Quando si recano in uno Stato Parte, i membri del Sottocomitato per la prevenzio
 
 *(Seguono le firme)*
 
-Campo d’applicazione l’8 febbraio 2018**[^t-2]**
+Campo d’applicazione il 25 gennaio 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Afghanistan</td><td>17 aprile</td><td>2018 A</td><td>17 maggio</td><td>2018</td></tr>
 <tr><td>Albania</td><td>1° ottobre</td><td>2003 A</td><td>22 giugno</td><td>2006</td></tr>
 <tr><td>Argentina</td><td>15 novembre</td><td>2004</td><td>22 giugno</td><td>2006</td></tr>
 <tr><td>Armenia</td><td>14 settembre</td><td>2006 A</td><td>14 ottobre</td><td>2006</td></tr>
@@ -396,15 +395,17 @@ Campo d’applicazione l’8 febbraio 2018**[^t-2]**
 <tr><td>Grecia</td><td>11 febbraio</td><td>2014</td><td>13 marzo</td><td>2014</td></tr>
 <tr><td>Guatemala</td><td>9 giugno</td><td>2008</td><td>9 luglio</td><td>2008</td></tr>
 <tr><td>Honduras</td><td>23 maggio</td><td>2006</td><td>22 giugno</td><td>2006</td></tr>
+<tr><td>Islanda</td><td>20 febbraio</td><td>2019</td><td>22 marzo</td><td>2019</td></tr>
 <tr><td>Italia</td><td>3 aprile</td><td>2013</td><td>3 maggio</td><td>2013</td></tr>
 <tr><td>Kazakistan\*</td><td>22 ottobre</td><td>2008</td><td>21 novembre</td><td>2008</td></tr>
 <tr><td>Kirghizistan</td><td>29 dicembre</td><td>2008 A</td><td>28 gennaio</td><td>2009</td></tr>
+<tr><td>Lettonia</td><td>10 dicembre</td><td>2021 A</td><td>9 gennaio</td><td>2022</td></tr>
 <tr><td>Libano</td><td>22 dicembre</td><td>2008 A</td><td>21 gennaio</td><td>2009</td></tr>
 <tr><td>Liberia</td><td>22 settembre</td><td>2004 A</td><td>22 giugno</td><td>2006</td></tr>
 <tr><td>Liechtenstein</td><td>3 novembre</td><td>2006</td><td>3 dicembre</td><td>2006</td></tr>
 <tr><td>Lituania</td><td>20 gennaio</td><td>2014 A</td><td>19 febbraio</td><td>2014</td></tr>
 <tr><td>Lussemburgo</td><td>19 maggio</td><td>2010</td><td>18 giugno</td><td>2010</td></tr>
-<tr><td>Macedonia</td><td>13 febbraio</td><td>2009</td><td>15 marzo</td><td>2009</td></tr>
+<tr><td>Macedonia del Nord</td><td>13 febbraio</td><td>2009</td><td>15 marzo</td><td>2009</td></tr>
 <tr><td>Madagascar</td><td>21 settembre</td><td>2017</td><td>21 ottobre</td><td>2017</td></tr>
 <tr><td>Maldive</td><td>15 febbraio</td><td>2006</td><td>22 giugno</td><td>2006</td></tr>
 <tr><td>Mali</td><td>12 maggio</td><td>2005</td><td>22 giugno</td><td>2006</td></tr>
@@ -440,6 +441,7 @@ Campo d’applicazione l’8 febbraio 2018**[^t-2]**
 <tr><td>Slovenia</td><td>23 gennaio</td><td>2007 A</td><td>22 febbraio</td><td>2007</td></tr>
 <tr><td>Spagna</td><td>4 aprile</td><td>2006</td><td>22 giugno</td><td>2006</td></tr>
 <tr><td>Sri Lanka</td><td>5 dicembre</td><td>2017 A</td><td>4 gennaio</td><td>2018</td></tr>
+<tr><td>Sudafrica</td><td>20 giugno</td><td>2019</td><td>20 luglio</td><td>2019</td></tr>
 <tr><td>Sudan del Sud</td><td>30 aprile</td><td>2015 A</td><td>30 maggio</td><td>2015</td></tr>
 <tr><td>Svezia</td><td>14 settembre</td><td>2005</td><td>22 giugno</td><td>2006</td></tr>
 <tr><td>Svizzera</td><td>24 settembre</td><td>2009</td><td>24 ottobre</td><td>2009</td></tr>
@@ -449,9 +451,9 @@ Campo d’applicazione l’8 febbraio 2018**[^t-2]**
 <tr><td>Ucraina</td><td>19 settembre</td><td>2006</td><td>19 ottobre</td><td>2006</td></tr>
 <tr><td>Ungheria\*</td><td>12 gennaio</td><td>2012 A</td><td>11 febbraio</td><td>2012</td></tr>
 <tr><td>Uruguay</td><td>8 dicembre</td><td>2005</td><td>22 giugno</td><td>2006</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Il Prot. non vale per Tokelau.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Il Prot. si applica al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2009 5449](https://fedlex.data.admin.ch/eli/oc/2009/664), [2010 6407](https://fedlex.data.admin.ch/eli/oc/2010/902), [2011 4555](https://fedlex.data.admin.ch/eli/oc/2011/639), [2013 697](https://fedlex.data.admin.ch/eli/oc/2013/131), [2014 511](https://fedlex.data.admin.ch/eli/oc/2014/99), [2015 379](https://fedlex.data.admin.ch/eli/oc/2015/56), [2016 2951](https://fedlex.data.admin.ch/eli/oc/2016/491), [2018 871](https://fedlex.data.admin.ch/eli/oc/2018/117). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2009 5449](https://fedlex.data.admin.ch/eli/oc/2009/664); [2010 6407](https://fedlex.data.admin.ch/eli/oc/2010/902); [2011 4555](https://fedlex.data.admin.ch/eli/oc/2011/639); [2013 697](https://fedlex.data.admin.ch/eli/oc/2013/131); [2014 511](https://fedlex.data.admin.ch/eli/oc/2014/99); [2015 379](https://fedlex.data.admin.ch/eli/oc/2015/56); [2016 2951](https://fedlex.data.admin.ch/eli/oc/2016/491); [2018 871](https://fedlex.data.admin.ch/eli/oc/2018/117); [2022 49](https://fedlex.data.admin.ch/eli/oc/2022/49). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
