@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Teilrevisionen der Raumplanungsverordnung, der Energieeffizienzverordnung und der Niederspannungs-Installationsverordnung"
 document: Vernehmlassungsvorlage NIV
 language: de

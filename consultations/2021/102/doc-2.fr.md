@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifications de l’ordonnance sur l’aménagement du territoire, de l’ordonnance sur les exigences relatives à l’efficacité énergétique et de l’ordonnance sur les installations à basse tension"
 document: Projet mis en consultation OAT
 language: fr

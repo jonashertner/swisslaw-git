@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisioni parziali dell’ordinanza sulla pianificazione del territorio, dell’ordinanza sull’efficienza energetica e dell’ordinanza sugli impianti a bassa tensione"
 document: Progetto posto in consultazione OIBT
 language: it
