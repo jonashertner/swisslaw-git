@@ -4,11 +4,11 @@ number: "413.326"
 title: Berufsmaturitätsreglement (BMR)
 short: BMR
 language: de
-version: "2018-08-01"
-nachtrag: "101"
-valid_until: 2022-01-26
+version: "2022-01-01"
+nachtrag: "116"
+valid_until: 2022-08-01
 adopted: 2014-09-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_326-2014_09_08-2015_01_01-101.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_326-2014_09_08-2015_01_01-116.html"
 text: pdf
 ---
 
@@ -16,17 +16,13 @@ text: pdf
 
 # Berufsmaturitätsreglement (BMR)
 
-(vom 8. September 2014)[^t-1],[^t-2]
+(vom 8. September 2014)<sup>1,</sup> <sup>2</sup>
 
 Der Bildungsrat,
 
-gestützt auf § 3 lit. d EG BBG[^t-3],
+gestützt auf § 3 lit. d EG BBG<sup>3</sup>,
 
 beschliesst:
-
-[^t-1]: OS 69, 461; Begründung siehe ABl 2014-09-19.
-[^t-2]: Inkrafttreten: 1. Januar 2015.
-[^t-3]: LS 413.31.
 
 ### A. Allgemeines
 
@@ -46,9 +42,7 @@ beschliesst:
 
 <sup>2</sup> Sie bezeichnet die erforderlichen Gesuchsunterlagen.
 
-<sup>3</sup> Sie kann ein Gutachten einer vom Mittelschul- und Berufsbildungsamt (Amt) gemäss § 7 Abs. 3 des Reglements über die Qualifikationsverfahren der beruflichen Grundbildung vom 20. Dezember 2013 (RQV BBG)[^2-1] anerkannten Fachstelle verlangen.
-
-[^2-1]: LS 413.325.
+<sup>3</sup> Sie kann ein Gutachten einer vom Mittelschul- und Berufsbildungsamt (Amt) gemäss § 7 Abs. 3 des Reglements über die Qualifikationsverfahren der beruflichen Grundbildung vom 20. Dezember 2013 (RQV BBG)<sup>4</sup> anerkannten Fachstelle verlangen.
 
 #### § 3
 
@@ -60,7 +54,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 18 - 101
+- 1\. 4. 22 - 116
 
 <sup>3</sup> Zulässig ist die Aktualisierung des Namens, des Geschlechts, des Bürgerorts sowie der Nationalität, sofern ein amtlicher Nachweis vorliegt.
 
@@ -146,7 +140,7 @@ Die Aufnahmeprüfung ist bestanden, wenn die Gesamtnote mindestens 4,0 beträgt.
 
 **3**
 
-- 1\. 7. 18 - 101 § 12. <sup>1</sup> Kandidatinnen und Kandidaten sind unter Vorbehalt von Abs. 2 von der Aufnahmeprüfung befreit, wenn sie im Jahr des Eintritts oder im vorangegangenen Kalenderjahr
+- 1\. 4. 22 - 116 § 12. <sup>1</sup> Kandidatinnen und Kandidaten sind unter Vorbehalt von Abs. 2 von der Aufnahmeprüfung befreit, wenn sie im Jahr des Eintritts oder im vorangegangenen Kalenderjahr
 
 **Prüfungsfreie Zulassung**
 
@@ -184,11 +178,13 @@ der beruflichen Grundbildung (BM 2)
 
 <sup>2</sup> Für den Bildungsgang mit der Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, stützen sich die Prüfungsaufgaben in den Fächern Deutsch, Französisch und Englisch auf das Niveau der Abschlussprüfung Kauffrau/Kaufmann EFZ, Profil erweiterte Grundbildung (E-Profil).
 
-#### § 16
+**Prüfungsfreie Zulassung a. Grundsatz**
 
-**Prüfungsfreie Zulassung a. Abgebrochene BM 1**
+§ 16.<sup>7</sup> <sup>1</sup> Kandidatinnen und Kandidaten werden prüfungsfrei zugelassen a. zum Berufsmaturitätsunterricht mit gleicher Ausrichtung, mit Ausnahme der Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, wenn sie innerhalb der letzten zwei Kalenderjahre die BM 1 abgebrochen haben,
 
-Kandidatinnen und Kandidaten werden, mit Ausnahme des Bildungsgangs mit der Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, ohne Aufnahmeprüfung zugelassen, wenn sie innerhalb der letzten zwei Kalenderjahre den Berufsmaturitätsunterricht während der beruflichen Grundbildung (BM 1) mit gleicher Ausrichtung abgebrochen haben.
+- b. zum Berufsmaturitätsunterricht aller Ausrichtungen, mit Ausnahme der Ausrichtung Wirtschaft und Dienstleistungen, Typ Wirtschaft, wenn sie innerhalb der letzten zwei Kalenderjahre vor Eintritt das eidgenössische Fähigkeitszeugnis (EFZ) mit einer Gesamtnote von mindestens 5,0 erlangt haben.
+
+<sup>2</sup> Liegt im Zeitpunkt über den Entscheid über die prüfungsfreie Zulassung das EFZ nicht vor, wird auf die bis zum Ende des ersten Semesters des letzten Schuljahres vorliegenden schulischen Noten der beruflichen Grundbildung abgestellt. Die Notenberechnung erfolgt analog zum Qualifikationsverfahren.
 
 #### § 17
 
@@ -222,23 +218,17 @@ Nichtkantonale Anbieter ohne Leistungsvereinbarung gemäss § 25 Abs. 3 EG BBG k
 
 Bei Gruppenarbeiten kann der gemeinschaftliche Teil der Leistung mit einer einheitlichen Note bewertet werden.
 
-[^20-1]: SR 412.103.1.
-
 #### § 21
 
 **Projektwochen**
 
-Die Anbieter führen im Bildungsgang während der beruflichen Grundbildung (BM 1) mindestens eine Projektwoche zur Förderung des interdisziplinären Arbeitens oder der Fremdsprachenkompetenzen durch. Diese gilt als schulische Präsenzzeit im Sinne von Art. 5 Abs. 3 der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)[^20-1].
-
-#### § 22
-
-**Unregelmässigkeiten**
-
-<sup>1</sup> Wird eine Arbeit nicht fristgemäss abgegeben oder nicht selbstständig und entsprechend den Rahmenbedingungen verfasst oder erfolgt die Präsentation nicht termingemäss, entscheidet die zuständige Lehrperson nach Anhörung der oder des Lernenden über einen angemessenen Notenabzug oder über die Wiederholung der Arbeit unter angemessenem Notenabzug.
+Die Anbieter führen im Bildungsgang während der beruflichen Grundbildung (BM 1) mindestens eine Projektwoche zur Förderung des interdisziplinären Arbeitens oder der Fremdsprachenkompetenzen durch. Diese gilt als schulische Präsenzzeit im Sinne von Art. 5 Abs. 3 der Verordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV)<sup>5</sup>.
 
 **5**
 
-- 1\. 7. 18 - 101
+- 1\. 4. 22 - 116 § 22. <sup>1</sup> Wird eine Arbeit nicht fristgemäss abgegeben oder nicht selbstständig und entsprechend den Rahmenbedingungen verfasst oder erfolgt die Präsentation nicht termingemäss, entscheidet die zuständige Lehrperson nach Anhörung der oder des Lernenden über einen angemessenen Notenabzug oder über die Wiederholung der Arbeit unter angemessenem Notenabzug.
+
+**Unregelmässigkeiten**
 
 <sup>2</sup> Verwendet eine Lernende oder ein Lernender bei einer Prüfung unerlaubte Hilfsmittel oder versucht, solche zu verwenden, oder kommuniziert während einer Prüfung unerlaubterweise mit Dritten, entscheidet die zuständige Lehrperson über die Wegweisung von der Prüfung und einen angemessenen Notenabzug.
 
@@ -322,15 +312,15 @@ Die Schulleitung erklärt die Berufsmaturitätsprüfung als nicht bestanden, wen
 
 Die Berufsmaturitätsprüfung kann frühestens am nächsten ordentlichen Prüfungstermin, spätestens nach drei Jahren wiederholt werden.
 
+**7**
+
+- 1\. 4. 22 - 116
+
 ### F. Rechtsmittel
 
 #### § 32
 
 Der Einsprache unterstehen a. Entscheide der Schulleitung über Zulassung, Promotion, Ausschluss und Wegweisung,
-
-**7**
-
-- 1\. 7. 18 - 101
 
 - b. Entscheide der kantonalen Berufsmaturitätskommission über Prüfungsergebnisse der Abschlussprüfungen.
 
@@ -343,3 +333,13 @@ Der Einsprache unterstehen a. Entscheide der Schulleitung über Zulassung, Promo
 <sup>1</sup> Kandidatinnen und Kandidaten, welche die Aufnahmeprüfung 2014 bestanden haben, werden zum Berufsmaturitätsunterricht des Kalenderjahrs 2015 zugelassen.
 
 <sup>2</sup> Für Kandidatinnen und Kandidaten, die ihre Berufsmaturitätsausbildung vor dem 1. Januar 2015 begonnen haben, gilt das bisherige Recht.
+
+## Weitere Fussnoten
+
+- [1] OS 69, 461; Begründung siehe ABl 2014-09-19.
+- [2] Inkrafttreten: 1. Januar 2015.
+- [3] LS 413.31.
+- [4] LS 413.325.
+- [5] SR 412.103.1.
+- [7] Fassung gemäss Beschluss des Bildungsrates vom 22. November 2021 (OS 77,
+- [12] ; ABl 2021-12-03). In Kraft seit 1. Januar 2022.
