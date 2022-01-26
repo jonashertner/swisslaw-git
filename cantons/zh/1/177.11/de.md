@@ -4,11 +4,11 @@ number: "177.11"
 title: Personalverordnung (PVO)
 short: PVO
 language: de
-version: "2020-01-01"
-nachtrag: "108"
-valid_until: 2022-01-26
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2022-07-01
 adopted: 1998-12-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_11-1998_12_16-1999_01_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_11-1998_12_16-1999_01_01-115.html"
 text: pdf
 ---
 
@@ -46,7 +46,7 @@ I. Allgemeine Bestimmungen
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 22 - 116
 
 ### II. Arbeitsverhältnis
 
@@ -134,7 +134,7 @@ Der Regierungsrat und die obersten kantonalen Gerichte umschreiben, soweit erfor
 
 **3**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 22 - 116
 
 <sup>3</sup> In Fällen, in denen sich eine Stelle aufgrund der Richtpositionsumschreibungen und weiterer Unterlagen nicht zuordnen lässt, wird diese von der Direktion zusammen mit dem Personalamt oder vom zuständigen obersten kantonalen Gericht, auf dessen Wunsch mit Unterstützung des Personalamtes, im Verfahren gemäss § 8 Abs. 2 bewertet.
 
@@ -212,7 +212,7 @@ Der Regierungsrat und die obersten kantonalen Gerichte umschreiben, soweit erfor
 
 **5**
 
-- 1\. 4. 20 - 108 § 19.<sup>16</sup> <sup>1</sup> Angestellte in der Einreihungsklasse können um bis zwei Lohnstufen zurückversetzt werden, wenn sie mit «Ungenügend» qualifiziert werden.
+- 1\. 4. 22 - 116 § 19.<sup>16</sup> <sup>1</sup> Angestellte in der Einreihungsklasse können um bis zwei Lohnstufen zurückversetzt werden, wenn sie mit «Ungenügend» qualifiziert werden.
 
 **Rückstufung**
 
@@ -292,7 +292,7 @@ geschenk
 
 **7**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Auf Wunsch der oder des Angestellten, oder wenn die betrieblichen Verhältnisse den Urlaub nicht zulassen, wird das Dienstaltersgeschenk ausbezahlt.
 
@@ -362,7 +362,7 @@ geschenk
 
 **9**
 
-- 1\. 4. 20 - 108 § 38.<sup>17</sup> <sup>1</sup> Handelsrichterinnen und Handelsrichter erhalten, die Vorbereitung eingeschlossen, ein Taggeld gemäss Lohnklasse 25.
+- 1\. 4. 22 - 116 § 38.<sup>17</sup> <sup>1</sup> Handelsrichterinnen und Handelsrichter erhalten, die Vorbereitung eingeschlossen, ein Taggeld gemäss Lohnklasse 25.
 
 **Handelsgericht**
 
@@ -424,7 +424,7 @@ geschenk
 
 **11**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 22 - 116
 
 <sup>4</sup> Personalverbände, die nicht den Vereinigten Personalverbänden angehören, werden vor Änderungen des Personalgesetzes<sup>2</sup>, der Personalverordnung, der Spezialverordnungen und der Vollzugsverordnung<sup>3</sup> von der Fachdirektion zur Vernehmlassung eingeladen, sofern sie a. eigene Rechtspersönlichkeit und Statuten haben und b. wesentliche Teile des Personals oder einer Personalgruppe vertreten, die von der Änderung betroffen sind.
 
@@ -492,7 +492,7 @@ geschenk
 
 **13**
 
-- 1\. 4. 20 - 108 § 50. Die Direktionen erlassen für die Personalausschüsse in ihrem Bereich soweit erforderlich ergänzende Bestimmungen, insbesondere hinsichtlich der Grösse und Zusammensetzung sowie des Wahlverfahrens.
+- 1\. 4. 22 - 116 § 50. Die Direktionen erlassen für die Personalausschüsse in ihrem Bereich soweit erforderlich ergänzende Bestimmungen, insbesondere hinsichtlich der Grösse und Zusammensetzung sowie des Wahlverfahrens.
 
 [^49-1]: SR 822.14.
 [^49-2]: Fassung gemäss RRB vom 18. Mai 2016 (OS 72, 329; ABl 2016-06-03). In Kraft seit 1. Januar 2017.
@@ -531,7 +531,7 @@ geschenk
 
 Anwartschaften auf anteilmässige Auszahlung des Dienstaltersgeschenkes gemäss dem bisherigen § 47 der Vollzugsverordnung zum Personalgesetz, die im Zeitpunkt des Inkrafttretens dieser Verordnungsänderung bereits entstanden, bleiben bestehen.
 
-[^hÜbergangsbestimmung-1]: Fassung gemäss RRB vom 30. Oktober 2019 (OS 75, 9; ABl 2019-11-08). In Kraft seit 1. Januar 2020. 1. 4. 20 - 108 15
+[^hÜbergangsbestimmung-1]: Fassung gemäss RRB vom 27. Oktober 2021 (OS 77, 2; ABl 2021-11-05). In Kraft seit 1. Januar 2022. 1. 4. 22 - 116 15
 
 ## Anhang
 
@@ -539,9 +539,9 @@ Anwartschaften auf anteilmässige Auszahlung des Dienstaltersgeschenkes gemäss 
 
 ### Mindest- und Höchstbeträge der Lohnklassen
 
-**Maximum (LS 29) 67 232 68 125 69 254 70 645 72 329 74 336 76 692 79 422 82 566 86 147 90 203 94 769 99 063 104 742 111 031 117 163 124 782 133 127 142 229 152 136 162 878 174 502 187 051 200 561 215 079 230 647 247 312 259 669\* 272 430\*\***
+**Maximum (LS 29) 67 837 68 738 69 877 71 281 72 980 75 005 77 382 80 137 83 309 86 922 91 015 95 622 99 955 105 685 112 030 118 217 125 905 134 325 143 509 153 505 164 344 176 073 188 734 202 366 217 015 232 723 249 538 262 006\* 274 882\*\***
 
-Lohnklasse Minimum (LS 1) 1 46 563 2 47 171 3 47 942 4 48 897 5 50 050 6 51 424 7 53 035 8 54 911 9 57 062 10 59 512 11 62 292 12 65 417 13 68 913 14 72 802 15 77 112 16 81 863 17 87 082 18 92 795 19 98 225 20 105 011 21 112 366 22 119 522 23 128 116 24 137 373 25 147 316 26 157 981 27 169 391 28 181 589 29 194 593
+Lohnklasse Minimum (LS 1) 1 46 982 2 47 596 3 48 373 4 49 337 5 50 500 6 51 887 7 53 512 8 55 405 9 57 576 10 60 048 11 62 853 12 66 006 13 69 533 14 73 457 15 77 806 16 82 600 17 87 866 18 93 630 19 99 109 20 105 956 21 113 377 22 120 598 23 129 269 24 138 609 25 148 642 26 159 403 27 170 916 28 183 223 29 196 344
 
 ## Weitere Fussnoten
 
