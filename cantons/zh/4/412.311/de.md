@@ -4,11 +4,11 @@ number: "412.311"
 title: Lehrpersonalverordnung (LPVO)
 short: LPVO
 language: de
-version: "2021-08-01"
-nachtrag: "114"
-valid_until: 2022-01-26
+version: "2022-01-01"
+nachtrag: "116"
+valid_until: 2022-10-01
 adopted: 2000-07-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_311-2000_07_19-2000_10_01-114.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_311-2000_07_19-2000_10_01-116.html"
 text: pdf
 ---
 
@@ -53,7 +53,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **1**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Er wird für jede Gemeinde auf der Grundlage der folgenden Merkmale festgelegt:
 
@@ -132,7 +132,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **3**
 
-- 1\. 7. 21 - 113 § 2 f.<sup>42</sup> <sup>1</sup> Die Gemeinden können die Lehrpersonen auf eigene Kosten für die Erfüllung einzelner Aufgaben im Schulwesen gemäss § 10 a zusätzlich entschädigen, wenn
+- 1\. 4. 22 - 116 § 2 f.<sup>42</sup> <sup>1</sup> Die Gemeinden können die Lehrpersonen auf eigene Kosten für die Erfüllung einzelner Aufgaben im Schulwesen gemäss § 10 a zusätzlich entschädigen, wenn
 
 **Zusätzliche Entschädigungen**
 
@@ -220,7 +220,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **5**
 
-- 1\. 7. 21 - 113 § 10.<sup>43</sup> <sup>1</sup> Die Schulleitungen teilen den Lehrpersonen das Unterrichtspensum zu, legen bei Bedarf eine abweichende Arbeitszeit pro Wochenlektion fest und bestimmen den zeitlichen Aufwand für die Tätigkeitsbereiche gemäss §§ 10 a–10 c.
+- 1\. 4. 22 - 116 § 10.<sup>43</sup> <sup>1</sup> Die Schulleitungen teilen den Lehrpersonen das Unterrichtspensum zu, legen bei Bedarf eine abweichende Arbeitszeit pro Wochenlektion fest und bestimmen den zeitlichen Aufwand für die Tätigkeitsbereiche gemäss §§ 10 a–10 c.
 
 **Arbeitszeit der Lehrpersonen**
 
@@ -308,7 +308,7 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **7**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Übertragen werden:
 
@@ -388,7 +388,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 **9**
 
-- 1\. 7. 21 - 113 b.<sup>50</sup> zu 75%: anderweitige Unterrichtstätigkeit, einschliesslich des auf der Volksschulstufe erteilten Unterrichts an einer Mittelschule (Langgymnasium), oder schulische Therapietätigkeiten mit Schülerinnen und Schülern der Volksschulstufe oder der Sekundarstufe II sowie Unterrichtstätigkeit in der Lehrerbildung, sofern dieselbe Zeitspanne nicht bereits unter lit. a angerechnet wurde,
+- 1\. 4. 22 - 116 b.<sup>50</sup> zu 75%: anderweitige Unterrichtstätigkeit, einschliesslich des auf der Volksschulstufe erteilten Unterrichts an einer Mittelschule (Langgymnasium), oder schulische Therapietätigkeiten mit Schülerinnen und Schülern der Volksschulstufe oder der Sekundarstufe II sowie Unterrichtstätigkeit in der Lehrerbildung, sofern dieselbe Zeitspanne nicht bereits unter lit. a angerechnet wurde,
 
 - c. zu 50%: anderweitige Berufstätigkeit, Aus- und Weiterbildung sowie Haus-, Erziehungs- und Betreuungsarbeit, sofern dieselbe Zeitspanne nicht bereits unter lit. a oder b angerechnet wurde.
 
@@ -451,7 +451,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 **11**
 
-- 1\. 7. 21 - 113 § 21. <sup>1</sup> Die Grundlage für die Berechnung des Dienstaltersgeschenks in Form von Urlaub bilden 39 Schulwochen pro Jahr.
+- 1\. 4. 22 - 116 § 21. <sup>1</sup> Die Grundlage für die Berechnung des Dienstaltersgeschenks in Form von Urlaub bilden 39 Schulwochen pro Jahr.
 
 **Dienstaltersgeschenk**
 
@@ -511,7 +511,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 **13**
 
-- 1\. 7. 21 - 113 § 27.[^hVWeitereRechteun-2] <sup>1</sup> Zusätzlich zu den im allgemeinen Personalrecht in den §§ 84–115 VVO<sup>24</sup> genannten Gründen kann auch zur beruflichen Weiterbildung, für Aufgaben im Schulwesen oder aus anderen wichtigen Gründen bezahlter Urlaub gewährt werden.
+- 1\. 4. 22 - 116 § 27.[^hVWeitereRechteun-2] <sup>1</sup> Zusätzlich zu den im allgemeinen Personalrecht in den §§ 84–115 VVO<sup>24</sup> genannten Gründen kann auch zur beruflichen Weiterbildung, für Aufgaben im Schulwesen oder aus anderen wichtigen Gründen bezahlter Urlaub gewährt werden.
 
 **Bezahlte Abwesenheiten**
 
@@ -586,7 +586,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 **15**
 
-- 1\. 7. 21 - 113 § 29 f.<sup>43</sup> <sup>1</sup> Bei längeren Abwesenheiten kann die Schulpflege die Stellvertretung der Schulleiterin oder des Schulleiters einer Lehrperson oder einer anderen Schulleiterin oder einem anderen Schulleiter wie folgt übertragen:
+- 1\. 4. 22 - 116 § 29 f.<sup>43</sup> <sup>1</sup> Bei längeren Abwesenheiten kann die Schulpflege die Stellvertretung der Schulleiterin oder des Schulleiters einer Lehrperson oder einer anderen Schulleiterin oder einem anderen Schulleiter wie folgt übertragen:
 
 **Stellvertretung**
 
@@ -666,7 +666,7 @@ Die Schulpflegen[^hVIIISchlussbestimm-1] erlassen bis spätestens Ende 2000 Anst
 
 **17**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 22 - 116
 
 [^33-1]: Fassung gemäss RRB vom 30. Mai 2001 (OS 56, 585). In Kraft seit 16. August 2001.
 [^33-2]: Fassung gemäss RRB vom 23. April 2008 (OS 63, 191; ABl 2008, 652). In Kraft seit 1. Mai 2008.
@@ -717,7 +717,7 @@ Die bisherigen Stufen 1–3 werden wie folgt aufgehoben:
 
 **19**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 22 - 116
 
 <sup>4</sup> Lehrpersonen, die aufgrund einer Pensenerhöhung bereits zu einem früheren Zeitpunkt in ein kantonales Anstellungsverhältnis hätten übergeführt werden müssen, werden rückwirkend auf jenen Zeitpunkt nach den damals geltenden Grundlagen eingestuft und die weitere Lohnentwicklung gemäss §§ 24 und 25 vollzogen. Kommunale Dienstjahre werden bei der kantonalen Anstellung nicht berücksichtigt.
 
@@ -817,17 +817,19 @@ Bei einer Anstellung an Regelklassen der Kindergartenstufe vor Inkraftsetzung de
 
 <sup>54</sup> Fassung gemäss RRB vom 21. Oktober 2020 (OS 75, 570; ABl 2020-10-30). In Kraft seit 1. August 2021.
 
+<sup>55</sup> Fassung gemäss RRB vom 27. Oktober 2021 (OS 77, 6; ABl 2021-11-05). In Kraft seit 1. Januar 2022.
+
 **23**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 22 - 116
 
-### Anhang zur Lehrpersonalverordnung<sup>48</sup>
+### Anhang zur Lehrpersonalverordnung<sup>55</sup>
 
 A. Lohnskala (§§ 14–29 d)<sup>43</sup>
 
 **Kategorie IV Kategorie V in Franken in Franken**
 
-Stufe Kategorie II Kategorie III in Franken in Franken 27 138 593 148 077 26 137 226 146 613 25 135 860 145 153 24 134 493 143 692 23 133 127 142 229 22 131 758 140 768 21 130 391 139 309 20 129 023 137 846 19 127 654 136 384 18 126 287 134 925 17 124 922 133 461 16 123 551 132 001 15 122 184 130 537 14 120 818 129 080 13 119 447 127 617 12 118 081 126 157 11 116 713 124 695 10 114 330 121 284 9 111 137 117 874 8 107 947 114 464 7 104 753 111 863 6 101 562 108 454 5 98 373 105 043 4 95 986 101 635 3 92 795 98 225 2 89 602 95 622 1 86 413 92 212
+Stufe Kategorie II Kategorie III in Franken in Franken 27 139 840 149 410 26 138 461 147 933 25 137 083 146 459 24 135 703 144 985 23 134 325 143 509 22 132 944 142 035 21 131 565 140 563 20 130 184 139 087 19 128 803 137 611 18 127 424 136 139 17 126 046 134 662 16 124 663 133 189 15 123 284 131 712 14 121 905 130 242 13 120 522 128 766 12 119 144 127 292 11 117 763 125 817 10 115 359 122 376 9 112 137 118 935 8 108 919 115 494 7 105 696 112 870 6 102 476 109 430 5 99 258 105 988 4 96 850 102 550 3 93 630 99 109 2 90 408 96 483 1 87 191 93 042
 
 ### B.<sup>36</sup>
 
@@ -835,51 +837,51 @@ Stufe Kategorie II Kategorie III in Franken in Franken 27 138 593 148 077 26 137
 
 **2. Lohnmaximum**
 
-**158 385 169 572 156 823 167 899 155 261 166 224 153 698 164 551**
+**159 810 171 098 158 234 169 410 156 658 167 720 155 081 166 032**
 
-<sup>1</sup> Vikarinnen und Vikare mit Lehrdiplom erhalten bei einem Ferienanspruch ab Beginn des Schuljahres, in dem sie das 21. Altersjahr vollenden, folgenden Lohn:<sup>49,</sup> <sup>48</sup>
+<sup>1</sup> Vikarinnen und Vikare mit Lehrdiplom erhalten bei einem Ferienanspruch ab Beginn des Schuljahres, in dem sie das 21. Altersjahr vollenden, folgenden Lohn:<sup>49,</sup> <sup>55</sup>
 
 **1. Lohnmaximum**
 
-**152 136 162 878 150 570 161 206 149 008 159 532 147 445 157 858 145 880 156 184 144 317 154 510 142 755 152 838 141 193 151 164 139 629 149 491 138 066 147 819 136 504 146 145 134 942 144 470 133 378 142 796 129 731 138 893 126 082 134 986 122 435 131 084 118 790 127 180 115 143 123 274 112 303 119 369 108 655 115 466 105 011 112 366**
+**153 505 164 344 151 925 162 657 150 349 160 968 148 772 159 279 147 193 157 590 145 616 155 901 144 040 154 214 142 464 152 524 140 886 150 836 139 309 149 149 137 733 147 460 136 156 145 770 134 578 144 081 130 899 140 143 127 217 136 201 123 537 132 264 119 859 128 325 116 179 124 383 113 314 120 443 109 633 116 505 105 956 113 377**
 
 **Lohn pro Unterrichtslektion**
 
 Anstellung in Franken a. Lehrperson an Regelklassen auf der Kindergartenstufe b. Förderlehrperson auf der Kindergartenstufe ohne Lehrdiplom in Schulischer Heilpädagogik c. Förderlehrperson auf der Kindergartenstufe mit Lehrdiplom in Schulischer Heilpädagogik d. . . .<sup>44</sup> e. Lehrperson und Fachlehrperson an Regelklassen der Primarstufe f. Lehrperson und Fachlehrperson an Aufnahmeklassen der Primarstufe g. Förderlehrperson und Lehrperson ohne Lehrdiplom in Schulischer Heilpädagogik sowie
 
-**87.26**
+**88.05**
 
-**85.25**
+**86.01**
 
-**90.97**
+**91.79**
 
-**90.97**
+**91.79**
 
-**90.97**
+**91.79**
 
 ### Fachlehrperson an Einschulungs- und Klein-
 
-**90.97**
+**91.79**
 
 klassen der Primarstufe h. Förderlehrperson und Lehrperson an Einschulungs- und Kleinklassen der Primarstufe mit Lehrdiplom in Schulischer Heilpädagogik i. Lehrperson und Fachlehrperson an Regelklassen der Sekundarstufe j. Lehrperson und Fachlehrperson an Aufnahmeklassen der Sekundarstufe k. Förderlehrperson und Lehrperson ohne Lehrdiplom in Schulischer Heilpädagogik sowie Fachlehrperson an Kleinklassen der Sekundarstufe l. Förderlehrperson und Lehrperson an Kleinklassen der Sekundarstufe mit Lehrdiplom in Schulischer Heilpädagogik
 
 **Anlaufstufen**
 
-**101 361 108 464 97 713 104 558**
+**102 273 109 440 98 592 105 499**
 
-**96.39**
+**97.26**
 
-**96.39**
+**97.26**
 
-**96.39**
+**97.26**
 
-**96.39**
+**97.26**
 
-**103.15**
+**104.08**
 
 **25**
 
-- 1\. 7. 21 - 113
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Vikarinnen und Vikare ohne Lehrdiplom für die Volksschule erhalten den Lektionenansatz gemäss Abs. 1<sup>26</sup> a. zu 100% mit Lehrdiplom für die Sekundarstufe II,
 
@@ -896,4 +898,4 @@ klassen der Primarstufe h. Förderlehrperson und Lehrperson an Einschulungs- und
 ## Weitere Fussnoten
 
 - [18] Eingefügt durch RRB vom 11. Juli 2007 (OS 62, 313; ABl 2007, 1407). In Kraft seit 16. August 2008.
-- [19] Eingefügt gemäss RRB vom 13. August 2008 (OS 63, 479; ABl 2008, 1417). In Kraft seit 16. August 2008. 1. 7. 21 - 113 21
+- [19] Eingefügt gemäss RRB vom 13. August 2008 (OS 63, 479; ABl 2008, 1417). In Kraft seit 16. August 2008. 1. 4. 22 - 116 21
