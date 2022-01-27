@@ -4,11 +4,11 @@ title: Ordinanza del 21 settembre 2018 sui medicamenti (OM)
 short: OM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: it
-version: 2021-07-01
+version: 2022-01-28
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20220128/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20220128-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20220128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210701/it"
 
 (OM)
 
-del 21 settembre 2018 (Stato 1° luglio 2021)
+del 21 settembre 2018 (Stato 28 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -321,7 +321,11 @@ Esegue una propria perizia scientifica se:
 
 <sup>2</sup> Swissmedic prosegue la propria perizia scientifica se, in base ai risultati che ha ottenuto fino a quel momento, vi sono seri dubbi in merito ai risultati degli esami dell’autorità estera.
 
-### Sezione 3: Modifiche dell’omologazione
+### Sezione 3: Modifiche dell’omologazione dei medicamenti per uso umano****
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Nuovo testo giusta il n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 21
 
@@ -357,11 +361,40 @@ Le modifiche del medicamento classificate come estensioni dell’omologazione de
 
 **Classificazione delle modifiche e procedura**
 
-<sup>1</sup> Swissmedic attribuisce le singole modifiche alle diverse categorie e definisce in dettaglio le procedure di cui agli articoli 21–24 nonché la documentazione necessaria. A tal fine tiene conto delle norme e delle direttive riconosciute sul piano internazionale, segnatamente del regolamento (CE) n. 1234/2008[^25-1] nonché delle linee guida della Commissione europea fondate su questo regolamento.
+<sup>1</sup> Swissmedic attribuisce le singole modifiche alle diverse categorie e definisce in dettaglio le procedure di cui agli articoli 21–24 nonché la documentazione necessaria. A tal fine tiene conto delle norme e delle direttive riconosciute sul piano internazionale, segnatamente del regolamento (CE) n. 1234/2008[^25-1] nonché delle linee guida della Commissione europea fondate su questo regolamento.[^25-2]
 
 <sup>2</sup> Stabilisce le modalità affinché in un’unica domanda possano essere richieste più modifiche.
 
-[^25-1]: Regolamento (CE) n. 1234/2008 della Commissione del 24 novembre 2008 concernente l’esame delle variazioni dei termini delle autorizzazioni all’immissione in commercio di medicinali per uso umano e di medicinali veterinari; GU L 334 del 12.12.2008, pag. 7; modificato dal regolamento (UE) n. 712/2012, GU L 209 del 4.8.2012, pag. 4.
+[^25-1]: Regolamento (CE) n.1234/2008 della Commissione, del 24 novembre 2008, concernente lʼesame delle variazioni dei termini delle autorizzazioni allʼimmissione in commercio di medicinali per uso umano e di medicinali veterinari, GU L 334 del 12.12.2008, pag. 7; modificato da ultimo dal regolamento delegato (UE) 2021/756, GU L 162 del 10.5.2021, pag. 1.
+[^25-2]: Nuovo testo giusta il n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+
+### Sezione 3*a*:**** Modifiche dell’omologazione dei medicamenti veterinari
+
+[^chap2-sec3a-1]
+
+[^chap2-sec3a-1]: Introdotta dal n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+
+#### Art. 25a
+
+**Modifiche senza valutazione**
+
+Il titolare di un’omologazione deve notificare per scritto a Swissmedic, dopo la loro attuazione, le modifiche che non richiedono una valutazione poiché hanno un impatto minimo o nullo sulla qualità, sulla sicurezza o sull’efficacia del medicamento.
+
+#### Art. 25b
+
+**Modifiche con valutazione**
+
+Le modifiche del medicamento che richiedono una valutazione poiché possono avere un impatto esteso sulla qualità, sulla sicurezza o sull’efficacia dello stesso devono essere approvate da Swissmedic prima della loro attuazione.
+
+#### Art. 25c
+
+**Classificazione delle modifiche e procedura**
+
+<sup>1</sup> Swissmedic attribuisce le singole modifiche alle due categorie e definisce in dettaglio le procedure di cui agli articoli 25*a* e 25*b* nonché la documentazione necessaria. A tal fine tiene conto delle norme e delle direttive riconosciute sul piano internazionale, segnatamente del regolamento (UE) 2019/6[^25c-1] nonché degli atti di esecuzione fondati su questo regolamento.
+
+<sup>2</sup> Stabilisce le modalità affinché in un’unica domanda possano essere richieste più modifiche.
+
+[^25c-1]: Regolamento (UE) 2019/6 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, relativo ai medicinali veterinari e che abroga la direttiva 2001/82/CE, versione della GU L 4 del 7.1.2019, pag. 43.
 
 ### Sezione 4: Caratterizzazione e informazione relativa al medicamento
 
@@ -389,9 +422,11 @@ Le modifiche del medicamento classificate come estensioni dell’omologazione de
 
 #### Art. 28
 
-**Adeguamento dell’informazione relativa al medicamento**
+**Adeguamento dell’informazione relativa al medicamento**[^28-1]
 
-Il titolare dell’omologazione è tenuto ad adeguare costantemente e spontaneamente l’informazione relativa al medicamento allo stato attuale della scienza e della tecnica come pure ai nuovi eventi e alle nuove valutazioni. Gli articoli 21–24 sono applicabili.
+Il titolare dell’omologazione è tenuto ad adeguare costantemente e spontaneamente l’informazione relativa al medicamento allo stato attuale della scienza e della tecnica come pure ai nuovi eventi e alle nuove valutazioni. Gli articoli 21–24, 25*a* e 25*b* sono applicabili.
+
+[^28-1]: Nuovo testo giusta il n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 29
 
@@ -848,7 +883,12 @@ Verifica inoltre periodicamente, conformemente all’articolo 58 capoverso 2 LAT
 
 <sup>1</sup> Il titolare di un’omologazione relativa a un medicamento contenente un nuovo principio attivo o un medicamento biosimilare deve presentare a Swissmedic periodicamente e spontaneamente, durante quattro anni a partire dalla data di omologazione, un rapporto aggiornato sulla sicurezza e sul rapporto rischi-benefici del medicamento.
 
-2 Il rapporto deve essere allestito secondo le norme riconosciute della buona prassi di vigilanza conformemente all’allegato 3.
+<sup>1bis</sup> Per i medicamenti veterinari il rapporto aggiornato di cui al capoverso 1 può essere presentato sotto forma di un rapporto annuale, con i risultati e gli esiti del bilancio rischi-benefici insieme ai riferimenti alla pertinente letteratura scientifica registrata nella banca dati di farmacovigilanza dellʼUnione europea come parte del processo di gestione dei segnali.[^60-1]
+
+<sup>2</sup> I rapporti devono essere allestiti secondo le norme riconosciute della buona prassi di vigilanza conformemente all’allegato 3.[^60-2]
+
+[^60-1]: Introdotto dal n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^60-2]: Nuovo testo giusta il n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 ### Sezione 3: Vigilanza
 
@@ -1252,7 +1292,7 @@ I principi attivi sono ammessi nel presente allegato tenendo conto dello stato d
 <table>
 <tr><th>Principio attivo</th><th>Limitazioni d’uso</th><th>Requisiti di qualità</th></tr>
 <tr><td>[<sup>68</sup>Ga]Gallium-PSMA-HBED-CC Sinonimi: [<sup>68</sup>Ga]-PSMA-11, <sup>68</sup>Ga-Labelled GLU-Urea-LYS(AHX)-HBED-CC</td><td>Rappresentazione di focolai tumorali in pazienti affetti da adenocarcinoma della prostata</td><td>[<sup>68</sup>Ga]-PSMA-11 ≥ 95 % della radioattività totale al momento della liberazione La marcatura con la soluzione di <sup>68</sup>Ga corrisponde alla Ph. Eur. PSMA-11 e i suoi complessi metallici: ≤ 30 μg per dose</td></tr>
-<tr><td>[<sup>6</sup><sup>8</sup>Ga]Gallium- Oxodotreotidum Sinonimi: [<sup>68</sup>Ga]-DOTATATE, [<sup>68</sup>Ga]-DOTA-Octreotate</td><td>Rappresentazone di focolai tumorali neuroendocrini Come complemento all’imaging anatomico nella valutazione pre-terapeutica dei meningiomi.</td><td>[<sup>68</sup>Ga]-DOTATATE ≥ 95 % della radioattività totale al momento della liberazione La marcatura con la soluzione di <sup>68</sup>Ga corrisponde alla Ph. Eur DOTATATE e i suoi complessi metallici: ≤ 50 μg per dose</td></tr>
+<tr><td>[<sup>68</sup>Ga]Gallium- Oxodotreotidum Sinonimi: [<sup>68</sup>Ga]-DOTATATE, [<sup>68</sup>Ga]-DOTA-Octreotate</td><td>Rappresentazone di focolai tumorali neuroendocrini Come complemento all’imaging anatomico nella valutazione pre-terapeutica dei meningiomi.</td><td>[<sup>68</sup>Ga]-DOTATATE ≥ 95 % della radioattività totale al momento della liberazione La marcatura con la soluzione di <sup>68</sup>Ga corrisponde alla Ph. Eur DOTATATE e i suoi complessi metallici: ≤ 50 μg per dose</td></tr>
 <tr><td>[<sup>177</sup>Lu]Lutetium- Edotreotidum Sinonimi: [<sup>177</sup>Lu]-DOTATOC, [<sup>177</sup>Lu]-DOTA-(Tyr3)-Octreotid</td><td>Terapia di tumori progressivi, caratterizzati dalla sovraespressione del recettore della somatostatina del sottotipo 2</td><td>[<sup>177</sup>Lu]-DOTATOC ≥ 95 % della radioattività totale al momento della liberazione La marcatura con la soluzione di <sup>177</sup>Lu corrisponde alla Ph. Eur DOTATOC e i suoi complessi metallici: ≤ 240 μg per dose</td></tr>
 <tr><td>[<sup>177</sup>Lu]Lutetium-ITG-PSMA-1 Sinonimi: [<sup>177</sup>Lu]-DOTAGA- (I-y)fk(Sub-KuE); [<sup>177</sup>Lu]-DOTAGA- D-I-Tyr-D-Phe-D-Lys-suberoyl-Lys-Urea-Glu;</td><td>Trattamento di carcinomi prostatici metastatici, ormonoresistenti e positivi alla TEP/TC PSMA.</td><td>[<sup>177</sup>Lu]-ITG-PSMA-1 ≥ 93% della radioattività totale al momento della liberazione La marcatura con la soluzione di <sup>177</sup>Lu corrisponde alla Ph. Eur ITG-PSMA-1 e i suoi complessi metallici: ≤ 0.1 mg per dose</td></tr>
 <tr><td>[<sup>18</sup>F]Fluor-PSMA-1007 Sinonimo: (3S,10S,14S)-1-(4-(((S)-4-carboxy-2((S)-4-carboxy-2-(6[18F]-fluoronicotinamido) butana-mi-do)butanamido)methyl)-phenyl)-3-(naphthalen-2-ylmethyl)-1,4,12-trioxo-2,5,11,13-tetraazahexadecane-10,14,16-tricarboxylic acid</td><td>Rappresentazione di focolai tumorali in pazienti affetti da adenocarcinoma della prostata</td><td>[<sup>18</sup>F]F-PSMA-1007 ≥ 93% della radioattività totale al momento della liberazione [<sup>18</sup>F]-Fluorid ≤ 5% della radioattività totale al momento della liberazione [<sup>18</sup>F] ≥ 99.9% della radioattività totale al momento del decadimento Composti derivati da PSMA-1007 ≤ 0.5 mg per dose [<sup>19</sup>F]F-PSMA ≤ 0.1 mg per dose</td></tr>
@@ -1286,11 +1326,13 @@ Allegato 2*[^t-2]*
 [^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 28 feb. 2020 ([RU 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Aggiornato dal n. I dell’O del DFI del 7 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
 [^annex2-lvlu1-1]: Il testo non è pubblicato nella RU (art. 5 della L del 18 giu. 2004 sulle pubblicazioni ufficiali; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultato sul sito Internet dell’UFSP all’indirizzo: www.bag.admin.ch &gt; Medicina & ricerca &gt; Medicamenti e dispositivi medici &gt; Dispensazione di medicamenti semplificata.
 
-Allegato 3
+Allegato 3*[^t-3]*
 
 (art. 60 e 66)
 
 ## Norme della buona prassi di vigilanza
+
+[^t-3]: Aggiornato dal n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 - 1
 - 2
@@ -1298,10 +1340,12 @@ Allegato 3
   Quali norme della buona prassi di vigilanza per i medicamenti per uso veterinario sono applicabili:
 
   - a. per il rapporto periodico sulla sicurezza del medicamento: VICH GL29 (Farmacovigilanza) della linea guida della Conferenza internazionale di armonizzazione per i medicinali per uso veterinario (VICH) nella versione del giugno 2006[^annex3-lvlu1-1];
-  - b. per la farmacovigilanza: VICH GL 24 (Farmacovigilanza) della linea guida della VICH nella versione dell’ottobre 2007[^annex3-lvlu1-2].
+  - a<sup>bis</sup>. per il rapporto periodico sulla sicurezza dei medicamenti veterinari sotto forma di un rapporto annuale: regolamento di esecuzione (UE) 2021/1281[^annex3-lvlu1-2];
+  - b. per la farmacovigilanza: VICH GL 24 (Farmacovigilanza) della linea guida della VICH nella versione dell’ottobre 2007[^annex3-lvlu1-3].
 
 [^annex3-lvlu1-1]: Il testo della linea guida può essere consultato gratuitamente presso l’Istituto svizzero per gli agenti terapeutici, 3003 Berna. Le altre possibilità per ottenerlo sono indicate all’indirizzo www.swissmedic.ch*.*
-[^annex3-lvlu1-2]: Il testo della linea guida può essere consultato gratuitamente presso l’Istituto svizzero per gli agenti terapeutici, 3003 Berna. Le altre possibilità per ottenerlo sono indicate all’indirizzo www.swissmedic.ch*.*
+[^annex3-lvlu1-2]: Regolamento di esecuzione (UE) 2021/1281 della Commissione del 2 agosto 2021 recante modalità di applicazione del regolamento (UE) 2019/6 del Parlamento europeo e del Consiglio per quanto riguarda la buona pratica di farmacovigilanza e il formato, il contenuto e la sintesi del fascicolo di riferimento del sistema di farmacovigilanza per i medicinali veterinari, versione della GU L 279 del 3.8.2021, pag. 15.
+[^annex3-lvlu1-3]: Il testo della linea guida può essere consultato gratuitamente presso l’Istituto svizzero per gli agenti terapeutici, 3003 Berna. Le altre possibilità per ottenerlo sono indicate all’indirizzo www.swissmedic.ch*.*
 
 Allegato 4
 
@@ -1378,7 +1422,7 @@ I seguenti atti normativi sono modificati come segue:
 
 ...[^annex6-lvlu1-4]
 
-[^annex6-lvlu1-1]: [[RU 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 3 [4057](https://fedlex.data.admin.ch/eli/oc/2004/592)all. 3 n. 1, [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 6, [2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 2, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 1, [2009 2643](https://fedlex.data.admin.ch/eli/oc/2009/354), [2010 1295](https://fedlex.data.admin.ch/eli/oc/2010/187)[4039](https://fedlex.data.admin.ch/eli/oc/2010/585), [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 1 [1171](https://fedlex.data.admin.ch/eli/oc/2016/218)n. I 4, [2017 2787](https://fedlex.data.admin.ch/eli/oc/2017/282)n. II]
+[^annex6-lvlu1-1]: [[RU 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 3, [4057](https://fedlex.data.admin.ch/eli/oc/2004/592)all. 3 n. 1; [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 6; [2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 2; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 1; [2009 2643](https://fedlex.data.admin.ch/eli/oc/2009/354); [2010 1295](https://fedlex.data.admin.ch/eli/oc/2010/187), [4039](https://fedlex.data.admin.ch/eli/oc/2010/585); [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 1; [1171](https://fedlex.data.admin.ch/eli/oc/2016/218)n. I 4; [2017 2787](https://fedlex.data.admin.ch/eli/oc/2017/282)n. II]
 [^annex6-lvlu1-2]: [[RU 2001 3010](https://fedlex.data.admin.ch/eli/oc/2001/444), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 79, [2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)all. n. 2, [2008 1919](https://fedlex.data.admin.ch/eli/oc/2008/283), [2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)n. I 3]
 [^annex6-lvlu1-3]: [[RU 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445)]
 [^annex6-lvlu1-4]: Le mod. possono essere consultate alla [RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588).

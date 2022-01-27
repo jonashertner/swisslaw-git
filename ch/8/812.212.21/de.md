@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2021-07-01
+version: 2022-01-28
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20220128/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20220128-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20220128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210701/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 1. Juli 2021)
+vom 21. September 2018 (Stand am 28. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -321,7 +321,11 @@ Sie führt eine eigene wissenschaftliche Begutachtung durch, wenn:
 
 <sup>2</sup> Bestehen aufgrund der bis zu diesem Zeitpunkt erfolgten eigenen Begutachtung wesentliche Bedenken an den Prüfungsergebnissen der ausländischen Behörde, so setzt die Swissmedic ihre wissenschaftliche Begutachtung fort.
 
-### 3. Abschnitt: Änderungen der Zulassung
+### 3. Abschnitt: Änderungen der Zulassung bei Humanarzneimitteln****
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Fassung gemäss Ziff. I 2 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 21
 
@@ -357,11 +361,40 @@ Sie führt eine eigene wissenschaftliche Begutachtung durch, wenn:
 
 **Einstufung der Änderungen und Verfahren**
 
-<sup>1</sup> Die Swissmedic ordnet die einzelnen Änderungen den verschiedenen Kategorien zu und umschreibt die Verfahren nach den Artikeln 21–24 sowie die erforderlichen Unterlagen näher. Sie berücksichtigt dabei international anerkannte Normen und Richtlinien, namentlich die Verordnung (EG) Nr. 1234/2008[^25-1] sowie die auf diese Verordnung gestützten Leitlinien der Europäischen Kommission.
+<sup>1</sup> Die Swissmedic ordnet die einzelnen Änderungen den verschiedenen Kategorien zu und umschreibt die Verfahren nach den Artikeln 21–24 sowie die erforderlichen Unterlagen näher. Sie berücksichtigt dabei international anerkannte Normen und Richtlinien, namentlich die Verordnung (EG) Nr. 1234/2008[^25-1] sowie die auf diese Verordnung gestützten Leitlinien der Europäischen Kommission.[^25-2]
 
 <sup>2</sup> Sie legt fest, wie in einem Gesuch mehrere Änderungen zusammen beantragt werden können.
 
-[^25-1]: Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November 2008 über die Prüfung von Änderungen der Zulassungen von Human- und Tierarzneimitteln; ABl. L 334 vom 12.12.2008, S. 7; geändert durch Verordnung (EU) Nr. 712/2012, ABl. L 209 vom 4.8.2012, S. 4.
+[^25-1]: Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November 2008 über die Prüfung von Änderungen der Zulassungen von Human- und Tierarzneimitteln, ABl. L 334 vom 12.12.2008, S. 7; zuletzt geändert durch Delegierte Verordnung (EU) 2021/756, ABl. L 162 vom 10.5.2021, S. 1.
+[^25-2]: Fassung gemäss Ziff. I 2 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+
+### 3*a*. Abschnitt:**** Änderungen der Zulassung bei Tierarzneimitteln
+
+[^chap2-sec3a-1]
+
+[^chap2-sec3a-1]: Eingefügt durch Ziff. I 2 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+
+#### Art. 25a
+
+**Änderungen ohne Bewertung**
+
+Die Zulassungsinhaberin muss Änderungen, die keine Bewertung erfordern, weil sie keine oder nur minimale Folgen für die Qualität, Sicherheit oder Wirksamkeit des Arzneimittels haben, der Swissmedic nach ihrer Umsetzung schriftlich melden.
+
+#### Art. 25b
+
+**Änderungen mit Bewertung**
+
+Änderungen des Arzneimittels, die eine Bewertung erfordern, weil sie umfangreiche Folgen für dessen Qualität, Sicherheit oder Wirksamkeit haben können, müssen vor ihrer Umsetzung von der Swissmedic genehmigt werden.
+
+#### Art. 25c
+
+**Einstufung der Änderungen und Verfahren**
+
+<sup>1</sup> Die Swissmedic ordnet die einzelnen Änderungen den beiden Kategorien zu und umschreibt die Verfahren nach den Artikeln 25*a* und 25*b* sowie die erforderlichen Unterlagen näher. Sie berücksichtigt dabei international anerkannte Normen und Richtlinien, namentlich die Verordnung (EU) 2019/6[^25c-1] sowie die auf diese Verordnung gestützten Durchführungsrechtsakte.
+
+<sup>2</sup> Sie legt fest, wie in einem Gesuch mehrere Änderungen zusammen beantragt werden können.
+
+[^25c-1]: Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über Tierarzneimittel und zur Aufhebung der Richtlinie 2001/82/EG; Fassung gemäss ABl. L 4 vom 7.1.2019, S. 43.
 
 ### 4. Abschnitt: Kennzeichnung und Arzneimittelinformation
 
@@ -389,9 +422,11 @@ Sie führt eine eigene wissenschaftliche Begutachtung durch, wenn:
 
 #### Art. 28
 
-**Anpassung derArzneimittelinformation**
+**Anpassung derArzneimittelinformation**[^28-1]
 
-Die Zulassungsinhaberin ist verpflichtet, die Arzneimittelinformation laufend und unaufgefordert dem aktuellen Stand von Wissenschaft und Technik sowie neuen Ereignissen und Bewertungen anzupassen. Die Artikel 21–24 sind anwendbar.
+Die Zulassungsinhaberin ist verpflichtet, die Arzneimittelinformation laufend und unaufgefordert dem aktuellen Stand von Wissenschaft und Technik sowie neuen Ereignissen und Bewertungen anzupassen. Die Artikel 21–24, 25*a* und 25*b* sind anwendbar.
+
+[^28-1]: Fassung gemäss Ziff. I 2 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 29
 
@@ -848,7 +883,12 @@ Im Weiteren überprüft sie nach Artikel 58 Absatz 2 HMG die zugelassenen Arznei
 
 <sup>1</sup> Die Inhaberin einer Zulassung für ein Arzneimittel mit einem neuen Wirkstoff oder mit einem Biosimilar muss der Swissmedic während vier Jahren nach der Zulassung periodisch und unaufgefordert einen aktualisierten Bericht über die Sicherheit und das Nutzen-Risiko-Verhältnis dieses Arzneimittels einreichen.
 
-<sup>2</sup> Der Bericht ist nach den anerkannten Regeln der Guten Vigilance-Praxis gemäss Anhang 3 zu erstellen.
+<sup>1bis</sup> Für Tierarzneimittel kann der aktualisierte Bericht nach Absatz 1 in Form eines Jahresberichts mit den Ergebnissen und Schlussfolgerungen zur Nutzen-Risiko-Bilanz sowie Verweisen auf sachdienliche wissenschaftliche Fachliteratur, die im Rahmen des Signalmanagementprozesses in der Pharmacovigilance-Datenbank der Europäischen Union erfasst werden, eingereicht werden.[^60-1]
+
+<sup>2</sup> Die Berichte sind nach den anerkannten Regeln der Guten Vigilance-Praxis gemäss Anhang 3 zu erstellen.[^60-2]
+
+[^60-1]: Eingefügt durch Ziff. I 2 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^60-2]: Fassung gemäss Ziff. I 2 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 ### 3. Abschnitt: Vigilance
 
@@ -1006,7 +1046,7 @@ Die Swissmedic veröffentlicht:
   - 5\. die Zieltierart,
   - 6\. das Datum der Verfügung;
 
-- c. nach Eröffnung ihrer Verfügung über die Abweisung oder den Rückzug eines Gesuchs nach Buchstabe b: die Angaben nach Buchstabe b Ziffern 1 und 3-6;
+- c. nach Eröffnung ihrer Verfügung über die Abweisung oder den Rückzug eines Gesuchs nach Buchstabe b: die Angaben nach Buchstabe b Ziffern 1 und 3–6;
 - d. die Dauer eines nach den Artikeln 11*a* und 11*b* HMG gewährten Unterlagenschutzes;
 - e.
 
@@ -1286,11 +1326,13 @@ Anhang 2*[^t-2]*
 [^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
 [^annex2-lvlu1-1]: Der Text dieses Anhangs wird in der AS und in der SR nicht publiziert (Art. 5 des Publikationsgesetzes vom 18. Juni 2004; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann abgerufen werden unter www.bag.admin.ch &gt; Medizin & Forschung &gt; Medikamente & Medizinprodukte &gt; Erleichterte Abgabe von Arzneimitteln.
 
-Anhang 3
+Anhang 3*[^t-3]*
 
 (Art. 60 und 66)
 
 ## Regeln über die Gute Vigilance-Praxis
+
+[^t-3]: Bereinigt gemäss Ziff. I 2 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 - 1\.
 
@@ -1307,7 +1349,8 @@ Anhang 3
   Als Regeln der Guten Vigilance-Praxis bei Tierarzneimitteln sind anwendbar:
 
   - a. für den periodischen Bericht über die Arzneimittelsicherheit: VICH GL29 (Pharmacovigilance) der Leitlinie der Internationalen Harmonisierungskonferenz für Tierarzneimittel (VICH) in der Fassung vom Juni 2006[^annex3-lvlu1-9];
-  - b. für die Pharmacovigilance: VICH GL 24 (Pharmocovigilance) der Leitlinie der VICH in der Fassung vom Oktober 2007[^annex3-lvlu1-10].
+  - a<sup>bis</sup>. für den periodischen Bericht über die Tierarzneimittelsicherheit in Form eines Jahresberichts: Durchführungsverordnung (EU) 2021/1281[^annex3-lvlu1-10];
+  - b. für die Pharmacovigilance: VICH GL 24 (Pharmacovigilance) der Leitlinie der VICH in der Fassung vom Oktober 2007[^annex3-lvlu1-11].
 
 [^annex3-lvlu1-1]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch*.*
 [^annex3-lvlu1-2]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch*.*
@@ -1318,7 +1361,8 @@ Anhang 3
 [^annex3-lvlu1-7]: Der Text der Richtlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch*.*
 [^annex3-lvlu1-8]: Der Text der Richtlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch*.*
 [^annex3-lvlu1-9]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch*.*
-[^annex3-lvlu1-10]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch*.*
+[^annex3-lvlu1-10]: Durchführungsverordnung (EU) 2021/1281 der Kommission vom 2. August 2021 mit Bestimmungen zur Anwendung der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates in Bezug auf die gute Pharmakovigilanz-Praxis sowie das Format, den Inhalt und die Zusammenfassung der Pharmakovigilanz-Stammdokumentation für Tierarzneimittel; Fassung gemäss ABl. L 279 vom 3.8.2021, S. 15.
+[^annex3-lvlu1-11]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
 
 Anhang 4
 
@@ -1392,7 +1436,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex6-lvlu1-4]
+…[^annex6-lvlu1-4]
 
 [^annex6-lvlu1-1]: [[AS 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 1; [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 3 [4057](https://fedlex.data.admin.ch/eli/oc/2004/592)Anhang 3 Ziff. 1; [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 6; [2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280)Anhang 7 Ziff. 2; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 1; [2009 2643](https://fedlex.data.admin.ch/eli/oc/2009/354); [2010 1295](https://fedlex.data.admin.ch/eli/oc/2010/187), [4039](https://fedlex.data.admin.ch/eli/oc/2010/585); [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 1 [1171](https://fedlex.data.admin.ch/eli/oc/2016/218)Ziff. I 4; [2017 2787](https://fedlex.data.admin.ch/eli/oc/2017/282)Ziff. II]
 [^annex6-lvlu1-2]: [[AS 2001 3010](https://fedlex.data.admin.ch/eli/oc/2001/444); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 79; [2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)Anhang Ziff. 2; [2008 1919](https://fedlex.data.admin.ch/eli/oc/2008/283); [2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)Ziff. I 3]

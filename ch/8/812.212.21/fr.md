@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2021-07-01
+version: 2022-01-28
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20220128/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20220128-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20220128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210701/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (Etat le 1<sup>er</sup> juillet 2021) juillet 2021)
+du 21 septembre 2018 (Etat le 28 janvier 2022) janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -321,7 +321,11 @@ Il procède à un examen scientifique:
 
 <sup>2</sup> Il poursuit son examen scientifique si, compte tenu de ses examens précédents, des réserves sérieuses subsistent quant aux résultats des examens faits par l’autorité étrangère.
 
-### Section 3 Modifications de l’autorisation de mise sur le marché
+### Section 3 Modifications de l’autorisation de mise sur le marché pour les médicaments à usage humain****
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Nouvelle teneur selon le ch. I 2 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 21
 
@@ -357,11 +361,40 @@ Les modifications d’un médicament qui sont classées comme une extension de l
 
 **Classification des modifications et procédures**
 
-<sup>1</sup> Swissmedic établit une classification des modifications par catégories et précise les modalités des procédures prévues aux art. 21 à 24 ainsi que la documentation requise. Ce faisant, il tient compte des normes et directives reconnues sur le plan international, notamment le règlement (CE) n<sup>o</sup> 1234/2008[^25-1] et les lignes directrices de la Commission européenne fondées sur ce règlement.
+<sup>1</sup> Swissmedic classe chaque modification dans l’une des différentes catégories et précise les modalités des procédures prévues aux art. 21 à 24 ainsi que la documentation requise. Ce faisant, il tient compte des normes et directives reconnues sur le plan international, notamment le règlement (CE) n<sup>o</sup> 1234/2008[^25-1] et les lignes directrices de la Commission européenne fondées sur ce règlement.[^25-2]
 
 <sup>2</sup> Il définit comment une demande peut porter sur plusieurs modifications.
 
-[^25-1]: Règlement (CE) n<sup>o</sup> 1234/2008 de la Commission du 24 novembre 2008 concernant l’examen des modifications des termes d’une autorisation de mise sur le marché de médicaments à usage humain et de médicaments vétérinaires; JO L 334 du 12.12.2008, p. 7; modifié par le règlement (EU) n<sup>o</sup> 712/2012, JO L 209 du 4.8.2012, p. 4.
+[^25-1]: Règlement (CE) n<sup>o</sup> 1234/2008 de la Commission du 24 novembre 2008 concernant l’examen des modifications des termes d’une autorisation de mise sur le marché de médicaments à usage humain et de médicaments vétérinaires, JO L 334 du 12.12.2008, p. 7; modifié en dernier lieu par le règlement délégué (UE) 2021/756, JO L 162 du 10.5.2021, p. 1.
+[^25-2]: Nouvelle teneur selon le ch. I 2 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+
+### Section 3*a***** Modifications de l’autorisation de mise sur le marché pour les médicaments vétérinaires
+
+[^chap2-sec3a-1]
+
+[^chap2-sec3a-1]: Introduite par le ch. I 2 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+
+#### Art. 25a
+
+**Modifications sans évaluation**
+
+Le titulaire de l’autorisation est tenu de notifier par écrit à Swissmedic, après la mise en œuvre de la modification, toute modification qui n’est pas soumise à évaluation car les répercussions sur la qualité, la sécurité ou l’efficacité du médicament concerné sont minimales ou nulles.
+
+#### Art. 25b
+
+**Modifications avec évaluation**
+
+Les modifications d’un médicament soumises à évaluation car elles sont susceptibles d’avoir des répercussions significatives sur sa qualité, sa sécurité ou son efficacité doivent être approuvées par Swissmedic avant leur mise en œuvre.
+
+#### Art. 25c
+
+**Classification des modifications et procédures**
+
+<sup>1</sup> Swissmedic classe chaque modification dans l’une des deux catégories et précise les modalités des procédures prévues aux art. 25*a* et 25*b* ainsi que la documentation requise. Ce faisant, il tient compte des normes et directives reconnues sur le plan international, notamment le règlement (CE) 2019/6[^25c-1] et les actes d’exécution fondés sur ce règlement.
+
+<sup>2</sup> Il définit comment une demande peut porter sur plusieurs modifications.
+
+[^25c-1]: Règlement (UE) 2019/6 du Parlement européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE; version du JO L 4 du 7.1.2019, p. 43.
 
 ### Section 4 Étiquetage et information sur le médicament
 
@@ -389,9 +422,11 @@ Les modifications d’un médicament qui sont classées comme une extension de l
 
 #### Art. 28
 
-**Adaptation de l’information sur le médicament**
+**Adaptation de l’information sur le médicament**[^28-1]
 
-Le titulaire de l’autorisation est tenu d’adapter l’information sur le médicament, en permanence et spontanément, à l’état des connaissances scientifiques et techniques ainsi qu’aux nouveaux événements et évaluations. Les art. 21 à 24 s’appliquent.
+Le titulaire de l’autorisation est tenu d’adapter l’information sur le médicament, en permanence et spontanément, à l’état des connaissances scientifiques et techniques ainsi qu’aux nouveaux événements et évaluations. Les art. 21 à 24 ainsi que 25*a* et 25*b* s’appliquent.
+
+[^28-1]: Nouvelle teneur selon le ch. I 2 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 29
 
@@ -847,7 +882,12 @@ De plus, il contrôle régulièrement, en vertu de l’art. 58, al. 2, LPTh, si 
 
 <sup>1</sup> Le titulaire d’une autorisation pour un médicament contenant un principe actif nouveau ou contenant un biosimilaire doit remettre à Swissmedic, périodiquement et spontanément pendant les quatre ans suivant l’octroi de l’autorisation, un rapport actualisé sur la sécurité et le rapport bénéfice-risque du médicament.
 
-<sup>2</sup> Le rapport doit être établi conformément aux bonnes pratiques de vigilance reconnues désignées à l’annexe 3.
+<sup>1bis</sup> Pour les médicaments vétérinaires, le rapport actualisé visé à l’al. 1 peut être soumis sous la forme d’un rapport annuel présentant les résultats et les conclusions du bilan bénéfice-risque ainsi que les références à la littérature scientifique pertinente, qui sont consignés dans la base de données sur la pharmacovigilance de l’Union européenne dans le cadre du processus de gestion des signaux.[^60-1]
+
+<sup>2</sup> Les rapports doivent être établi conformément aux bonnes pratiques de vigilance reconnues désignées à l’annexe 3.[^60-2]
+
+[^60-1]: Introduit par le ch. I 2 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^60-2]: Nouvelle teneur selon le ch. I 2 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 ### Section 3 Vigilance
 
@@ -1227,7 +1267,7 @@ Les droguistes non titulaires d’un diplôme fédéral qui, au 1<sup>er</sup> j
 
 <sup>2</sup> Les art. 37, al. 2 et 3, et 51 entrent en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 37, al. 1, let. e)
 
@@ -1285,11 +1325,13 @@ Annexe 2*[^t-2]*
 [^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Mise à jour par le ch. I de l’O du DFI du 7 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
 [^annex2-lvlu1-1]: Ce texte n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). ll peut être consulté sur le site Internet de l’OFSP sous: www.bag.admin.ch. La version du 1<sup>er</sup> avril 2020 est applicable.
 
-Annexe 3
+Annexe 3*[^t-3]*
 
 (art. 60 et 66)
 
 ## Règles de bonnes pratiques de vigilance
+
+[^t-3]: Mise à jour par le ch. I 2 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 - 1\.
 
@@ -1306,7 +1348,8 @@ Annexe 3
   Les directives suivantes s’appliquent en tant que règles de bonnes pratiques de vigilance dans le domaine des médicaments vétérinaires:
 
   - a. pour le rapport périodique sur la sécurité du médicament: ligne directrice VICH GL29 (Pharmacovigilance) de la Conférence internationale sur l’harmonisation dans le domaine des médicaments vétérinaires (VICH) dans sa version de juin 2006[^annex3-lvlu1-9];
-  - b. pour la pharmacovigilance: ligne directrice VICH GL 24 (Pharmocovigilance) de la VICH dans sa version d’octobre 2007[^annex3-lvlu1-10].
+  - a<sup>bis</sup>. pour le rapport périodique sur la sécurité des médicaments vétérinaires sous forme d’un rapport annuel: règlement d’exécution (UE) 2021/1281[^annex3-lvlu1-10];
+  - b. pour la pharmacovigilance: ligne directrice VICH GL 24 (Pharmocovigilance) de la VICH dans sa version d’octobre 2007[^annex3-lvlu1-11].
 
 [^annex3-lvlu1-1]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
 [^annex3-lvlu1-2]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
@@ -1317,7 +1360,8 @@ Annexe 3
 [^annex3-lvlu1-7]: Le texte de la directive peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
 [^annex3-lvlu1-8]: Le texte de la directive peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
 [^annex3-lvlu1-9]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
-[^annex3-lvlu1-10]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
+[^annex3-lvlu1-10]: Règlement d’exécution (UE) 2021/1281 de la Commission du 2 août 2021 portant modalités d’application du règlement (UE) 2019/6 du Parlement européen et du Conseil en ce qui concerne les bonnes pratiques de pharmacovigilance et le format, le contenu et le résumé du dossier permanent du système de pharmacovigilance pour les médicaments vétérinaires; version du JO L 279 du 3.8.2021, p. 15.
+[^annex3-lvlu1-11]: Le texte de la ligne directrice peut être consulté gratuitement auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. D’autres possibilités d’obtention de ce document sont proposées à l’adresse: www.swissmedic.ch*.*
 
 Annexe 4
 
