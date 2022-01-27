@@ -3,11 +3,11 @@ sr: "0.923.51"
 title: Abkommen vom 19. März 1986 zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die Fischerei in den schweizerisch-italienischen Gewässern
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/539_539_539"
 language: de
-version: 1989-04-01
+version: 2022-01-28
 adopted: 1986-03-19
 in_force: 1989-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/539_539_539/19890401/de/xml/fedlex-data-admin-ch-eli-cc-1989-539_539_539-19890401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/539_539_539/19890401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/539_539_539/20220128/de/xml/fedlex-data-admin-ch-eli-cc-1989-539_539_539-20220128-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/539_539_539/20220128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,25 +16,25 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/539_539_539/19890401/de"
 
 AS **1989** 539
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen am 19. März 1986
 
 In Kraft getreten durch Notenaustausch am 1. April 1989
 
-(Stand am 1. April 1989)
-
-[^t-1]: Übersetzung des italienisches Originaltextes.
+(Stand am 28. Januar 2022)
 
 Der Schweizerische Bundesrat und die Italienische Regierung,
 
-mit dem Ziel, eine möglichst gute Bewirtschaftung des Fischbestandes in den schweizerisch‑italienischen Gewässern sicherzustellen, um
+mit dem Ziel, den Schutz und eine möglichst gute Bewirtschaftung des Fischbestandes in den schweizerisch-italienischen Gewässern sicherzustellen, um:
 
+- – zum Schutz und zur Verbesserung der Gewässer beizutragen;
 - – die Berufsgruppen, die direkt oder indirekt in der Berufsfischerei tätig sind, in ihrer Entwicklung zu unterstützen;
-- – zu ermöglichen, dass sich die Sportfischerei als Freizeitbeschäftigung ausgewogen entwickelt;
-- – zum Schutz und zur Verbesserung der Gewässer beizutragen,
+- – zu ermöglichen, dass sich die Sportfischerei als Freizeitbeschäftigung ausgewogen entwickelt,
 
-schliessen das folgende Abkommen:
+schliessen das folgende Abkommen:*[^ingress-1]*
+
+[^ingress-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## 1. Abschnitt Allgemeine Bestimmungen
 
@@ -42,7 +42,11 @@ schliessen das folgende Abkommen:
 
 **Geltungsbereich**
 
-Gegenstand dieses Abkommens sind die Gewässer des Langensees (Verbano) und des Luganersees (Ceresio) sowie des Flusses Tresa, auch wenn dieser einem besonderen Privatfischereirecht unterstellt ist.
+<sup>1</sup> Gegenstand dieses Abkommens sind die Gewässer des Langensees (Verbano) und des Luganersees (Ceresio) sowie des Flusses Tresa, auch wenn dieser einem besonderen Privatfischereirecht unterstellt ist.
+
+<sup>2</sup> Im Sinne dieses Abkommens endet der Langensee bei der Eisenbahnbrücke in der Gemeinde Sesto Calende und der Luganersee bei der Zollbrücke zwischen den Gemeinden Lavena Ponte Tresa in Italien und Ponte Tresa in der Schweiz.[^1-1]
+
+[^1-1]: Eingefügt durch Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 2
 
@@ -69,8 +73,13 @@ Die Fischereikommission hat folgende Aufgaben:
 
 - a. sie erarbeitet und unterbreitet Vorschläge für allfällige Änderungen dieses Abkommens;
 - b. sie entscheidet bei Streitigkeiten über die Auslegung und die Anwendung dieses Abkommens;
-- c. sie gibt sich ein Geschäftsreglement;
-- d. sie bereitet den Kostenvoranschlag für die gemeinsamen Auslagen vor und erstellt die Schlussabrechnung.
+- c.[^2-1] sie gibt sich die in diesem Abkommen vorgesehenen Reglemente und Verordnungen sowie ein Geschäftsreglement für die Kommission;
+- d.[^2-2] sie erhebt und bearbeitet die Fischfang- und Fischereidaten;
+- e.[^2-3] sie bereitet den Kostenvoranschlag für die gemeinsamen Auslagen vor und erstellt die Schlussabrechnung.
+
+[^2-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+[^2-2]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+[^2-3]: Eingefügt durch Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## 2. Abschnitt Ausübung der Fischerei
 
@@ -78,122 +87,88 @@ Die Fischereikommission hat folgende Aufgaben:
 
 **Fischereipatent**
 
-In den diesem Abkommen unterstehenden Gewässern darf fischen, wer eine ordnungsgemässe Bewilligung des Staates besitzt, auf dessen Gebiet er die Fischerei ausübt.
+<sup>1</sup> In den diesem Abkommen unterstehenden Gewässern darf fischen, wer eine ordnungsgemässe Bewilligung des Staates besitzt, auf dessen Gebiet er die Fischerei ausübt.
+
+<sup>2</sup> Sollte die Entwicklung der Fischerei und eine künftige Harmonisierung der verschiedenen Patentsysteme dies als sinnvoll erscheinen lassen, kann die Kommission innerhalb ihrer spezifischen Kompetenzen die nötigen Schritte unternehmen, um die Fischerei auf dem Gebiet beider Staaten mit einem einzigen Patent zuzulassen. Dazu ist in jedem Fall die Zustimmung der zuständigen Verwaltungsbehörden und der Kommissäre einzuholen.[^3-1]
+
+[^3-1]: Eingefügt durch Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 4
 
-**Zulässige Fanggeräte**
+**Fanggeräte**[^4-1]
 
-<sup>1</sup> Die zuständigen Behörden der beiden Staaten veröffentlichen im gegenseitigen Einvernehmen ein Verzeichnis mit der Beschreibung der Fanggeräte, welche für die diesem Abkommen unterstellten Gewässer erlaubt sind.
+<sup>1</sup> Die zuständigen Behörden der beiden Staaten veröffentlichen im gegenseitigen Einvernehmen eine Ausführungsverordnung zu diesem Abkommen, welche die Vorschriften für die Ausübung der Fischerei, ein Verzeichnis der zulässigen Geräte sowie die Schon- und Schutzgebiete umfasst.
 
-<sup>2</sup> In den Gewässern im Sinne dieses Abkommens und an ihren Ufern ist es untersagt, unerlaubte Fanggeräte und Fangmittel mitzuführen oder auf sich zu tragen, ausser es werde nachgewiesen, dass sie nicht für den Fischfang bestimmt sind.
+<sup>2</sup> Auf den Gewässern im Sinne dieses Abkommens und an ihren Ufern ist es untersagt, Fanggeräte und -mittel mitzuführen oder auf sich zu tragen, die nach der Ausführungsverordnung nicht erlaubt sind, ausser es werde nachgewiesen, dass sie nicht für den Fischfang bestimmt sind.
 
-## 3. Abschnitt Verbotene Fangmethoden
+[^4-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+
+## 3. Abschnitt Fangbestimmungen****
+
+[^chap3-1]
+
+[^chap3-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 5
 
-**Verbotene Methoden**
+**Methoden und Modalitäten**[^5-1]
 
-<sup>1</sup> Es ist untersagt, für den Fischfang in den Gewässern im Sinne dieses Abkommens feste oder bewegliche Vorrichtungen zu verwenden, die den Durchzug der Fische auf mehr als der halben Breite des Wasserlaufes, im rechten Winkel vom Ufer aus gemessen, verhindern.
+Die Methoden und Modalitäten für die Fischerei sind in der Ausführungsverordnung geregelt.
 
-<sup>2</sup> Die Entfernung zwischen zwei dieser festen oder beweglichen Vorrichtungen, welche gleichzeitig am gleichen oder an den beiden gegenüberliegenden Ufern verwendet werden, darf nicht geringer sein als die doppelte Länge der grösseren der beiden Vorrichtungen.
-
-<sup>3</sup> Es ist untersagt, andere feste, mit dem Fischfang im Zusammenhang stehende Vorrichtungen als Netze im Uferstreifen zwischen Ufer und oberer Haldengrenze anzubringen. Die obere Haldengrenze zeichnet sich durch eine deutliche und klar ersichtliche Zunahme der Neigung des Grundes aus.
-
-<sup>4</sup> Es ist untersagt, für den Fischfang giftige, betäubende und explodierende Stoffe sowie elektrischen Strom und Ortungsgeräte zu verwenden.
-
-<sup>5</sup> Auf den Gewässern im Sinne dieses Abkommens und an ihren Ufern ist es untersagt, solche Stoffe und Geräte mitzuführen oder auf sich zu tragen, ausser es werde nachgewiesen, dass sie nicht für den Fischfang bestimmt sind.
-
-<sup>6</sup> Es ist untersagt, mit der Hand zu fischen.
-
-<sup>7</sup> Es ist untersagt, mit Fleischmaden anzufüttern.
-
-<sup>8</sup> Es ist untersagt, Wasserableitungs‑ und Trockenlegungsarbeiten zum Zwecke des Fischfangs vorzunehmen.
+[^5-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 6
 
 **Fischereiverbotszone**
 
-<sup>1</sup> In den beiden Seen ist der Fischfang bei der Mündung und beim Abfluss der gemeinsamen und nicht gemeinsamen Fliessgewässer in einem Umkreis verboten, dessen Radius die Hälfte der bei mittlerem Wasserstand des Sees gemessenen Breite des Fliessgewässers beträgt; dieser Radius kann je nach Grösse des Fliessgewässers um 50–100 m erhöht werden.
+<sup>1</sup> Die Ausführungsverordnung bezeichnet und regelt für die Seen im Sinne dieses Abkommens die besonders schutzwürdigen Mündungsgebiete der Zuflüsse, in denen die Fischbestände besonders geschützt werden sollen.[^6-1]
 
-<sup>2</sup> Es ist untersagt, Netze und andere Vorrichtungen auszulegen oder anzubringen, welche weniger als 30 m entfernt sind von Fischpässen, Rechen hydraulischer Maschinen, Kanaleinmündungen oder ‑abflüssen, Schwellen, Schleusen und Überfällen sowie von den Bögen der Brücke von Melide und von der See-Enge ober‑ und unterhalb von Lavena.
+<sup>2</sup> …[^6-2]
 
 <sup>3</sup> Wird die Ausscheidung weiterer Schutzzonen als notwendig erachtet, so werden diese von den zuständigen Behörden der beiden Staaten auf Antrag der Kommissäre festgelegt.
 
 <sup>4</sup> Alle Schon‑ oder Schutzgebiete sind mit Bojen oder auf andere geeignete Weise zu bezeichnen.
 
+[^6-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+[^6-2]: Aufgehoben durch Notenaustausch vom 10./24. April 2017, mit Wirkung seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+
 ## 4. Abschnitt Schonbestimmungen
 
 #### Art. 7
 
-**Fangmindestmasse**
+**Fangmindestmasse**[^7-1]
 
-<sup>1</sup> Die Fische dürfen nur gefangen werden oder von Fischern verkauft werden, wenn sie, von der Kopfspitze bis zum Ende der Schwanzflosse gemessen, folgende Mindestmasse aufweisen:
+Die Ausführungsverordnung regelt, zum Zweck des bestmöglichen Schutzes der natürlichen Fortpflanzung, die Mindestmasse der Fische, gemessen von der Kopfspitze bis zum Ende der Schwanzflosse, die für den Fang und den Verkauf der Fische gelten.
 
-<table>
-<tr><td>Seeforelle</td><td>30 cm</td></tr>
-<tr><td>Bachforelle</td><td>22 cm</td></tr>
-<tr><td>Saiblinge (Salvelinus alpinus, Salvelinus fontinalis)</td><td>25 cm</td></tr>
-<tr><td>Felchen/Lavarello</td><td>30 cm</td></tr>
-<tr><td>Felchen/Bondella</td><td>25 cm</td></tr>
-<tr><td>Aesche</td><td>30 cm</td></tr>
-<tr><td>Hecht: im Langensee</td><td>40 cm</td></tr>
-<tr><td>im Luganersee</td><td>45 cm</td></tr>
-<tr><td>Barsch: im Langensee</td><td>16 cm</td></tr>
-<tr><td>im Luganersee</td><td>18 cm</td></tr>
-<tr><td>Forellenbarsch</td><td>20 cm</td></tr>
-<tr><td>Zander</td><td>40 cm</td></tr>
-<tr><td>Karpfen</td><td>30 cm</td></tr>
-<tr><td>Schleie e</td><td>25 cm</td></tr>
-<tr><td>Aal</td><td>40 cm</td></tr>
-<tr><td>Alse</td><td>20 cm</td></tr>
-</table>
-
-<sup>2</sup> Bei nachweisbaren technischen Gründen können die Kommissäre dafür sorgen, dass nach dem Verfahren der betreffenden Staaten die notwendigen Massnahmen ergriffen werden, um die Fangmindestmasse zu erhöhen, und für den Fang von anderen Fischarten, welche in diesem Artikel nicht aufgeführt sind, solche festgelegt werden.
+[^7-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 8
 
-**Schonzeiten**
+**Schonzeiten**[^8-1]
 
-<sup>1</sup> Die Kommissäre legen, in gegenseitigem Einverständnis und in Übereinstimmung mit den für die Gewässer ihres Zuständigkeitsbereiches geltenden Erlassen ihres Staates, Beginn und Ende der Schonzeiten fest, die jeweils die Fortpflanzungsperiode einschliessen. Sie können die Schonzeiten auch für einzelne Gebiete und Zonen verlängern und für weitere Fischarten vorschreiben.
+Die Dauer der Schonzeiten ist in der Ausführungsverordnung unter Berücksichtigung der Fortpflanzungsperioden der als schutzwürdig erachteten Arten festgelegt.
 
-<sup>2</sup> Die Schonzeiten betragen mindestens:
-
-Seeforelle 12 Wochen
-
-Saiblinge 10 Wochen
-
-Aesche 10 Wochen
-
-Felchen/Lavarello 8 Wochen
-
-Felchen/Bondella 10 Wochen
-
-Hecht 4 Wochen
-
-Barsch 8 Wochen
-
-Forellenbarsch 8 Wochen
-
-Zander 8 Wochen
-
-Karpfen 4 Wochen
-
-Alse 4 Wochen
-
-Schleie 4 Wochen
+[^8-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 9
 
-**Zurückversetzung geschonter Fische ins Wasser**
+**Verletzung von Schonbestimmungen**[^9-1]
 
-Fische, die während ihrer in Artikel 8 festgelegten Schonzeit gefangen werden, oder das in Artikel 7 vorgeschriebene Fangmindestmass nicht erreichen, sind sofort und mit aller Sorgfalt ins Gewässer zurückzuversetzen.
+<sup>1</sup> Fische, die versehentlich während der Schonzeit gefangen werden oder das für die jeweilige Art vorgeschriebene Fangmindestmass nicht erreichen, sind am Fangort sofort und mit aller Sorgfalt ins Gewässer zurückzuversetzen.
+
+<sup>2</sup> Tote Fische, die während der Schonzeit der jeweiligen Art mit einem bewilligten Netz gefangen werden oder die das vorgeschriebene Fangmindestmass nicht erreichen, sind in einen eigens dafür vorgesehenen Behälter zu legen, der auf dem Boot gut sichtbar aufgestellt ist und sich von den Behältern unterscheidet, die normalerweise für den Fang verwendet werden. Diese Fische dürfen von den Berufsfischern nur für den Eigenverbrauch verwendet werden.
+
+[^9-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 10
 
-**Verbot des Krebsfanges**
+**Krebsfang**[^10-1]
 
-In den Gewässern im Sinne dieses Abkommens ist der Fang von Krebsen untersagt.
+<sup>1</sup> In den Gewässern im Sinne dieses Abkommens ist der Fang von einheimischen Krebsen untersagt.
+
+<sup>2</sup> Das Fangen und der Transport von nicht einheimischen Krebsen sind in der Ausführungsverordnung geregelt.
+
+[^10-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## 5. Abschnitt Abweichungen
 
@@ -211,41 +186,45 @@ Wenn nachweisbare technische oder wissenschaftliche Gründe vorliegen, können d
 
 #### Art. 13
 
-**Bewilligung des Fischfangs für wissenschaftliche Zwecke**
+**Bewilligung des Fischfangs für wissenschaftliche Zwecke**[^13-1]
 
-Zum Zwecke wissenschaftlicher Forschung kann die zuständige Behörde jedes Staates an namentlich genannte Personen Bewilligungen zum Fischfang erteilen, welche von den Bestimmungen dieses Abkommens abweichen.
+Zu wissenschaftlichen und didaktischen Zwecken kann die zuständige Behörde jedes Staates an namentlich genannte Personen Bewilligungen zum Fischfang erteilen, welche von den Bestimmungen dieses Abkommens und der Ausführungsverordnung abweichen.
+
+[^13-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## 6. Abschnitt Schutz der Lebensräume
 
 #### Art. 14
 
-**Verbotene oder bewilligungspflichtige Eingriffe**
+**Verbotene und bewilligungspflichtige Eingriffe**[^14-1]
 
-<sup>1</sup> Es ist untersagt, den Gewässergrund aufzuwühlen und mit irgendwelchen Geräten die Wasserpflanzen auszureissen; ausgenommen sind die in Artikel 4 zugelassenen Fanggeräte und die Vorkehrungen, welche ausschliesslich der Erhaltung der Schiffahrt dienen.
+<sup>1</sup> Es ist untersagt, den Gewässergrund aufzuwühlen und mit irgendwelchen Mitteln die Wasserpflanzen auszureissen oder zu entfernen; ausgenommen sind die in der Ausführungsverordnung zugelassenen Fanggeräte und die Vorkehrungen, welche ausschliesslich der Erhaltung der öffentlichen Schifffahrt und des Badens dienen. Im Weiteren sind alle Arbeiten, welche die Beseitigung von Pflanzengemeinschaften betreffen, die üblicherweise als «Schilfgürtel» bezeichnet werden, verboten.
 
-<sup>2</sup> Arbeiten zur Reinigung und Ausbesserung der Ufer, welche die Beseitigung von Wasser‑ und Sumpfpflanzen sowie Erdbewegungen vorsehen, unterstehen, zusätzlich zu den durch geltende Gesetzesbestimmungen vorgeschriebenen Bewilligungen, der obligatorischen und verbindlichen Stellungnahme des Kommissärs.
+<sup>2</sup> Vorkehrungen, welche ausschliesslich der Erhaltung der öffentlichen Schifffahrt und des Badens dienen, Arbeiten zur Ableitung, Verlegung, Wasserentnahme und Trockenlegung sowie Arbeiten zur Reinigung und Ausbesserung der Ufer, welche die Beseitigung von Wasser- und Sumpfpflanzen sowie Erdbewegungen vorsehen, sind zusätzlich zu den durch geltende Gesetzesbestimmungen vorgeschriebenen Bewilligungen dem Kommissär oder der von ihm ermächtigten Behörde zur obligatorischen und verbindlichen Stellungnahme zu unterbreiten.
 
-<sup>3</sup> Alle Arbeiten, welche die Beseitigung von Pflanzengemeinschaften betreffen, die üblicherweise als «Schilfgürtel» bezeichnet werden, sind verboten.
+<sup>3</sup> Einbauten, welche den natürlichen Abfluss der in diesem Abkommen erwähnten Gewässer unterbrechen oder verändern, müssen mit Einrichtungen versehen sein, welche den Fischzug gewährleisten. Die entsprechenden Pläne sind dem Kommissär oder der von ihm ermächtigten Behörde zur verbindlichen und obligatorischen Stellungnahme zu unterbreiten.
 
-<sup>4</sup> Arbeiten zur Ableitung und Trockenlegung, welche für Zwecke bestimmt sind, die in diesem Abkommen nicht vorgesehen sind, müssen der zuständigen Behörde und den Inhabern von besonderen Privatfischereirechten innert nützlicher Frist mitgeteilt werden.
-
-<sup>5</sup> Einbauten, welche den natürlichen Abfluss der in diesem Abkommen erwähnten Gewässer unterbrechen oder verändern, müssen mit Einrichtungen versehen sein, welche den Fischzug gewährleisten. Die entsprechenden Pläne müssen dem Kommissär zur verbindlichen und obligatorischen Stellungnahme unterbreitet werden.
+[^14-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 15
 
-**Fischereiliche Auflagen und Wiederherstellung der Lebensräume**
+**Fischereiliche Auflagen und Wiederherstellung der Lebensräume**[^15-1]
 
-<sup>1</sup> Die in Artikel 14 vorgesehenen Bewilligungen können mit Auflagen zum Schutz des Fischbestandes ergänzt werden.
+<sup>1</sup> Die in Artikel 14 vorgesehenen Eingriffe können mit Auflagen zum Schutz des Fischbestandes oder mit kompensierenden Umweltmassnahmen verbunden werden.
 
-<sup>2</sup> Werden Übertretungen der in Artikel 14 enthaltenen Bestimmungen festgestellt, kann der Kommissär im Sinne einer Wiedergutmachung und unter Wahrung der in seinem Staat geltenden Verfahren fischereiliche Auflagen festlegen, die dem verursachten Schaden angemessen sind, sowie die Wiederherstellung des ursprünglichen Zustandes verlangen, sofern dies möglich ist.
+<sup>2</sup> Werden Übertretungen der in Artikel 14 enthaltenen Bestimmungen oder Beeinträchtigungen, Schädigungen oder Verschmutzungen der Gewässer festgestellt, kann der Kommissär im Sinne einer Wiedergutmachung und unter Wahrung der in seinem Staat geltenden Verfahren fischereiliche Auflagen und kompensierende Umweltmassnahmen festlegen, die dem verursachten Schaden angemessen sind, sowie die Wiederherstellung des ursprünglichen Zustandes verlangen, sofern dies möglich ist; er kann zudem bei Umweltstraftaten als Zivilpartei in einem Strafverfahren auftreten.
+
+[^15-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 16
 
-**Fischbesatz**
+**Fischbesatz**[^16-1]
 
-<sup>1</sup> Alle Massnahmen für den Fischbesatz in den diesem Abkommen unterstellten Gewässern, die von öffentlichen Körperschaften, Vereinen oder Privaten vorgenommen werden, unterstehen der vorgängigen Bewilligung durch den Kommissär.
+<sup>1</sup> Alle Massnahmen für den Fischbesatz in den diesem Abkommen unterstellten Gewässern, die von öffentlichen Körperschaften, Vereinen oder Privaten vorgenommen werden, sind vorgängig zur Bewilligung dem Kommissär oder der von ihm ermächtigten Behörde zu unterbreiten. In jeden Fall untersagt ist das Einsetzen von Fischarten, die nicht bereits in den schweizerisch-italienischen Gewässern vorhanden sind.
 
-<sup>2</sup> Das Einsetzen von standortfremden Fischarten, die nicht vorgängig zugelassen wurden, ist ausnahmslos untersagt.
+<sup>2</sup> Die Fischarten, bei denen ein Besatz durchgeführt werden kann, und die anderen Massnahmen zur Förderung des Fischbestandes sind in einem gesonderten, von der Kommission genehmigten Besatzreglement festgelegt. Mit diesem soll zudem der Fischbesatz durch öffentliche Körperschaften im Luganersee, im Langensee und im Fluss Tresa koordiniert werden, indem eine gemeinsame Planung für die institutionellen Akteure der beiden Staaten erstellt wird, welche die Kriterien für die Aufteilung des Fischbesatzes festhält, wobei auf das in den Fischzuchten der Schweiz respektive Italiens verfügbare Besatzmaterial Rücksicht genommen wird.
+
+[^16-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## 7. Abschnitt Förderungsmassnahmen
 
@@ -265,9 +244,11 @@ Die beiden Staaten fördern die wissenschaftliche Untersuchung des aquatischen L
 
 #### Art. 19
 
-**Fischzuchtanstalten**
+**Fischzuchtanstalten**[^19-1]
 
-Beide Staaten verpflichten sich, jeder für die Gewässer seines Hoheitsgebietes, die Kosten für Massnahmen zur Förderung des Fischbestandes zu tragen.
+Beide Staaten verpflichten sich, jeder für die Gewässer seines Hoheitsgebietes, die Kosten für den Fischbesatz und andere Massnahmen zur Förderung des Fischbestandes zu tragen.
+
+[^19-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## 8. Abschnitt Aufsicht und Strafbestimmungen
 
@@ -319,9 +300,11 @@ Beide Staaten verpflichten sich, jeder für die Gewässer seines Hoheitsgebietes
 
 <sup>1</sup> Jeder Staat trägt die Kosten der eigenen Delegation in der Kommission und der eigenen in die Unterkommission berufenen Fachleute.
 
-<sup>2</sup> Die Kosten für die Forschungsarbeiten gemäss Artikel 18 werden nach den Kriterien aufgeteilt, welche die beiden Regierungen gemeinsam auf Vorschlag der Kommission aufstellen.
+<sup>2</sup> Die Kosten für die Forschungsarbeiten gemäss Artikel 18 sowie für den Fischbesatz und die Massnahmen zur Förderung des Fischbestandes gemäss Artikel 19 werden von den beiden Regierungen auf Vorschlag der Kommission übernommen.[^24-1]
 
 <sup>3</sup> Für allfällige weitere Kosten, die nicht nach Absatz 2 aufgeteilt werden können, bestimmt die Kommission jeweils die Art der Aufteilung von Fall zu Fall.
+
+[^24-1]: Fassung gemäss Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## 10. Abschnitt Übergangs‑ und Schlussbestimmungen
 
@@ -329,7 +312,11 @@ Beide Staaten verpflichten sich, jeder für die Gewässer seines Hoheitsgebietes
 
 **Vollzugsbestimmungen**
 
-Jeder der beiden Staaten trifft die Massnahmen, die erforderlich sind, um die Bestimmungen dieses Abkommens auf seinem Gebiet zu vollziehen. Er erlässt spätestens ein Jahr nach dem Austausch der Ratifikationen die entsprechenden Vollzugsbestimmungen.
+<sup>1</sup> Jeder der beiden Staaten trifft die Massnahmen, die erforderlich sind, um die Bestimmungen dieses Abkommens auf seinem Gebiet zu vollziehen. Er erlässt spätestens ein Jahr nach dem Austausch der Ratifikationen die entsprechenden Vollzugsbestimmungen.
+
+<sup>2</sup> Dieses Abkommen wird unter Respektierung der von den beiden Ländern untereinander eingegangenen internationalen Verpflichtungen und denjenigen Italiens gegenüber der Europäischen Union angewendet.[^25-1]
+
+[^25-1]: Eingefügt durch Notenaustausch vom 10./24. April 2017, in Kraft seit 28. Jan. 2022 ([AS 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 26
 

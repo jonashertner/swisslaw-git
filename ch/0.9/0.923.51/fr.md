@@ -3,11 +3,11 @@ sr: "0.923.51"
 title: Convention du 19 mars 1986 entre la Confédération suisse et la République italienne sur la pêche dans les eaux italo-suisses
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/539_539_539"
 language: fr
-version: 1989-04-01
+version: 2022-01-28
 adopted: 1986-03-19
 in_force: 1989-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/539_539_539/19890401/fr/xml/fedlex-data-admin-ch-eli-cc-1989-539_539_539-19890401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/539_539_539/19890401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/539_539_539/20220128/fr/xml/fedlex-data-admin-ch-eli-cc-1989-539_539_539-20220128-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/539_539_539/20220128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,25 +16,25 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/539_539_539/19890401/fr"
 
 RO **1989** 539
 
-Traduction*[^t-1]*
+Traduction
 
 Conclue le 19 mars 1986
 
 Entrée en vigueur par échange de notes le 1<sup>er</sup> avril 1989
 
-(Etat le 1<sup>er</sup> avril 1989)
+(Etat le 28 janvier 2022)
 
-[^t-1]: Texte original italien.
+Le Conseil fédéral suisse et le Gouvernement italien,
 
-Le Conseil fédéral suisse et Le Gouvernement italien,
+désireux de garantir la sauvegarde et une exploitation optimale de la population piscicole des eaux italo-suisses, afin de:
 
-désireux de garantir la meilleure exploitation piscicole possible des eaux italosuisses, afin de:
-
+- – collaborer à la sauvegarde et à l’amélioration du milieu aquatique,
 - – soutenir le développement des groupes qui sont directement ou indirectement actifs dans le secteur de la pêche professionnelle;
 - – permettre à la pêche sportive de se développer de manière harmonieuse en tant qu’occupation de loisirs;
-- – collaborer à la protection et à l’amélioration du milieu aquatique,
 
-ont convenu la Convention suivante:
+ont conclu la Convention suivante:*[^ingress-1]*
+
+[^ingress-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -42,7 +42,11 @@ ont convenu la Convention suivante:
 
 **Champ d’application**
 
-La présente Convention s’applique au lac Majeur (Verbano) et au lac de Lugano (Ceresio) ainsi qu’à la rivière Tresa, même si celle‑ci est assujettie à un droit de pêche privé exclusif.
+<sup>1</sup> La présente Convention s’applique au lac Majeur (Verbano) et au lac de Lugano (Ceresio) ainsi qu’à la rivière Tresa, même si celle‑ci est assujettie à un droit de pêche privé exclusif.
+
+<sup>2</sup> Au sens de la présente Convention, le lac Majeur se termine au pont du chemin de fer (Ponte della Ferrovia) dans la commune de Sesto Calende et le lac de Lugano se termine au pont de la douane (Ponte della Dogana), qui relie les communes de Lavena Ponte Tresa en Italie et Ponte Tresa en Suisse.[^1-1]
+
+[^1-1]: Introduit par l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 2
 
@@ -50,27 +54,32 @@ La présente Convention s’applique au lac Majeur (Verbano) et au lac de Lugano
 
 <sup>1</sup> La Commission italo‑suisse sur la pêche veille à ce que les objectifs de la présente Convention, de même que l’application des dispositions concernant les activités de pêche dans les eaux italo‑suisses soient concrétisés.
 
-<sup>2</sup> La Commission comprend un Commissaire et deux Sous‑Commissaires par Etat. Elle se fait assister par une Sous‑Commission qui se compose de spécialistes de la pêche et de l’hydrobiologie des deux Etats.
+<sup>2</sup> La Commission comprend un Commissaire et deux Sous‑Commissaires par État. Elle se fait assister par une Sous‑Commission qui se compose de spécialistes de la pêche et de l’hydrobiologie des deux États.
 
-<sup>3</sup> Les gouvernements des deux Etats nomment leur propre Commissaire de pêche et leurs Sous‑Commissaires.
+<sup>3</sup> Les gouvernements des deux États nomment leur propre Commissaire de pêche et leurs Sous‑Commissaires.
 
 <sup>4</sup>
 
 Les compétences suivantes sont conférées aux Commissaires:
 
-- a. Pour les questions importantes de pêche, ils exercent dans le cadre du champ d’application de la Convention une activité consultative et proposent aux autorités responsables des deux Etats la prescription de mesures appropriées;
-- b. Ils échangent réciproquement leurs informations, en particulier sur les dispositions prises par chacun des Etats;
-- c. Ils veillent à ce que l’accord sur la pêche et les prescriptions qui s’y rapportent soient appliqués de manière uniforme, et ils soumettent aux autorités responsables des deux Etats des recommandations appropriées;
-- d. Ils nomment les experts appelés à collaborer dans les sous‑commissions respectives.
+- a. pour les questions importantes de pêche, ils exercent dans le cadre du champ d’application de la Convention une activité consultative et proposent aux autorités responsables des deux États la prescription de mesures appropriées;
+- b. ils échangent réciproquement leurs informations, en particulier sur les dispositions prises par chacun des États;
+- c. ils veillent à ce que l’accord sur la pêche et les prescriptions qui s’y rapportent soient appliqués de manière uniforme, et ils soumettent aux autorités responsables des deux États des recommandations appropriées;
+- d. ils nomment les experts appelés à collaborer dans les sous‑commissions respectives.
 
 <sup>5</sup>
 
 Les compétences suivantes sont conférées à la Commission sur la pêche:
 
-- a. Elle élabore et soumet des propositions visant à modifier éventuellement la présente Convention;
-- b. Elle tranche lorsque surviennent des divergences concernant l’interprétation et l’application de la présente Convention;
-- c. Elle élabore un règlement interne;
-- d. Elle établit le budget pour les dépenses communes ainsi que le décompte final.
+- a. elle élabore et soumet des propositions visant à modifier éventuellement la présente Convention;
+- b. elle tranche lorsque surviennent des divergences concernant l’interprétation et l’application de la présente Convention;
+- c.[^2-1] elle élabore les règlements prévus par la Convention ainsi que le règlement interne de la Commission;
+- d.[^2-2] elle collecte et met en valeur les données relatives aux poissons capturés et à la pêche;
+- e.[^2-3] elle établit le budget pour les dépenses communes ainsi que le décompte final.
+
+[^2-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+[^2-2]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+[^2-3]: Introduite par l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Chapitre 2 Exercice de la pêche
 
@@ -78,122 +87,88 @@ Les compétences suivantes sont conférées à la Commission sur la pêche:
 
 **Permis de pêche**
 
-La pêche est autorisée, dans les eaux auxquelles s’applique la présente Convention, à celui qui est en possession d’un permis régulièrement délivré par l’Etat sur le territoire duquel il entend exercer la pêche.
+<sup>1</sup> La pêche est autorisée, dans les eaux auxquelles s’applique la présente Convention, à celui qui est en possession d’un permis régulièrement délivré par l’État sur le territoire duquel il entend exercer la pêche.
+
+<sup>2</sup> Si l’évolution de la pêche et une harmonisation future des divers systèmes de permis le font paraître approprié, la Commission peut, dans les limites de ses compétences, prendre les dispositions nécessaires pour permettre la pêche sur le territoire des deux États avec un seul permis, sous réserve de l’accord des autorités compétentes et des Commissaires.[^3-1]
+
+[^3-1]: Introduit par l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 4
 
-**Engins de pêche autorisés**
+**Engins de pêche**[^4-1]
 
-<sup>1</sup> Les autorités compétentes des deux Etats publient en commun accord une liste descriptive des engins de pêche autorisés dans les eaux objet de la présente Convention.
+<sup>1</sup> Les autorités compétentes des deux États publient en commun accord le règlement d’application de la Convention, comprenant les prescriptions relatives à l’exercice de la pêche, la liste des engins de pêche autorisés et les zones d’interdiction et de protection.
 
-<sup>2</sup> Il est interdit de porter ou de détenir sur les eaux objet de la présente Convention, ainsi que sur les rives, des engins de pêche ou d’autres moyens de capture prohibés, à moins qu’il soit prouvé que ceux‑ci ne sont pas destinés à la pêche.
+<sup>2</sup> Sur les eaux objet de la présente Convention, ainsi que sur leurs rives, il est interdit de porter ou de détenir des engins de pêche ou d’autres moyens de capture qui ne sont pas expressément autorisés par le règlement d’application, à moins qu’il soit prouvé que ceux-ci ne sont pas destinés à la pêche.
 
-## Chapitre 3 Méthodes de pêche prohibées
+[^4-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+
+## Chapitre 3 Modalités et exercice de la pêche****
+
+[^chap3-1]
+
+[^chap3-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 5
 
-**Méthodes prohibées**
+**Systèmes et modalités de pêche**[^5-1]
 
-<sup>1</sup> Il est interdit d’utiliser pour la pêche dans les eaux auxquelles s’applique la présente Convention des engins fixes ou mobiles qui empêchent le passage des poissons sur plus de la moitié de la largeur du cours d’eau, mesuré à angle droit de la rive.
+Les systèmes et les modalités de pêche sont régis par le règlement d’application.
 
-<sup>2</sup> La distance entre deux de ces engins fixes ou mobiles, utilisés simultanément sur la même rive ou sur les deux rives opposées, ne doit pas être inférieure au double du développement du plus grand des deux.
-
-<sup>3</sup> Il est interdit de placer d’autres engins fixes liés à l’activité de la pêche que des filets sur le secteur du littoral situé entre la rive et la limite supérieure de la beine. La limite supérieure de la beine se caractérise par une augmentation nette et évidente de la pente du fond.
-
-<sup>4</sup> Pour pêcher, il est interdit d’utiliser des substances toxiques, des matières destinées à étourdir le poisson ou des explosifs, ainsi que de l’électricité et des appareils de sondage par ondes.
-
-<sup>5</sup> Sur les eaux auxquelles s’applique la présente Convention et sur les rives de celles‑ci, il est interdit de porter ou de détenir de semblables matières ou engins, à moins qu’il soit prouvé que ceux‑ci ne sont pas destinés à la pêche.
-
-<sup>6</sup> Il est interdit de pêcher à la main.
-
-<sup>7</sup> Il est interdit d’utiliser comme amorce des asticots.
-
-<sup>8</sup> Il est interdit d’effectuer des travaux de dérivation ou d’assèchement aux fins de capturer le poisson.
+[^5-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 6
 
 **Zones d’interdiction de pêche**
 
-<sup>1</sup> Dans les deux lacs, la pêche est interdite à l’embouchure et à l’émissaire des cours d’eau communs et non communs situés dans un rayon égal à la moitié de la largeur de ces cours d’eau mesurée lorsque le niveau du lac est moyen; selon l’importance du cours d’eau, ce rayon peut être augmenté de 50 à 100 mètres.
+<sup>1</sup> Les zones de delta situées à l’embouchure des affluents des lacs objet de la présente Convention et considérées comme dignes d’une protection particulière afin de préserver la faune piscicole seront identifiées et régis dans le règlement d’application.[^6-1]
 
-<sup>2</sup> Il est interdit de tendre ou de placer des filets ou autres engins de capture à moins de 30 mètres des échelles à poissons, des grillages de machines hydrauliques, des embouchures ou des entrées de canaux, des seuils transversaux, des écluses et des chutes d’eau, ainsi que des arches du pont de Melide et du détroit de Lavena, soit en aval soit en amont.
+<sup>2</sup> ...[^6-2]
 
-<sup>3</sup> S’il s’avère utile d’instituer d’autres zones de protection, celles‑ci seront fixées par les autorités responsables des deux Etats sur proposition des Commissaires.
+<sup>3</sup> S’il s’avère utile d’instituer d’autres zones de protection, celles‑ci seront fixées par les autorités responsables des deux États sur proposition des Commissaires.
 
 <sup>4</sup> Toutes les zones d’interdiction et de protection doivent être signalées par des bouées ou de toute autre manière convenable.
+
+[^6-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+[^6-2]: Abrogé par l’échange de notes des 10/24 avril 2017, avec effet au 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Chapitre 4 Mesures de protection
 
 #### Art. 7
 
-**Longueurs minimales des poissons**
+**Longueurs minimales des poissons**[^7-1]
 
-<sup>1</sup> Les poissons ne peuvent être pêchés et vendus par le pêcheur que s’ils ont atteint la longueur minimale suivante, mesurés du bout du museau à l’extrémité de la nageoire caudale:
+Le règlement d’application définira la longueur minimale, mesurée du bout du museau à l’extrémité de la nageoire caudale, que les poissons doivent atteindre pour pouvoir être pêchés et vendus par le pêcheur, dans le but de protéger au mieux leur cycle de reproduction naturel.
 
-<table>
-<tr><td>Truite de lac</td><td>30 cm</td></tr>
-<tr><td>Truite de rivière</td><td>22 cm</td></tr>
-<tr><td>Omble‑chevalier (Salvelinus alpinus, Salvelinus fontinalis)</td><td>25 cm</td></tr>
-<tr><td>Corégone/Lavarello</td><td>30 cm</td></tr>
-<tr><td>Corégone/Bondella</td><td>25 cm</td></tr>
-<tr><td>Ombre de rivière</td><td>30 cm</td></tr>
-<tr><td>Brochet: dans le lac Majeur</td><td>40 cm</td></tr>
-<tr><td>dans le lac de Lugano</td><td>45 cm</td></tr>
-<tr><td>Perche: dans le lac Majeur</td><td>16 cm</td></tr>
-<tr><td>dans le lac de Lugano</td><td>18 cm</td></tr>
-<tr><td>Black‑bass à grande bouche</td><td>20 cm</td></tr>
-<tr><td>Sandre</td><td>40 cm</td></tr>
-<tr><td>Carpe</td><td>30 cm</td></tr>
-<tr><td>Tanche</td><td>25 cm</td></tr>
-<tr><td>Anguille</td><td>40 cm</td></tr>
-<tr><td>Alose</td><td>20 cm</td></tr>
-</table>
-
-<sup>2</sup> En cas de motifs techniques probants, les Commissaires peuvent, selon la procédure appliquée dans les Etats concernés, veiller à ce que les mesures qui s’imposent aux fins d’augmenter la longueur minimale ou de fixer cette dernière pour la capture d’autres espèces de poissons ne figurant pas dans cet article soient prises.
+[^7-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 8
 
-**Périodes de protection**
+**Périodes de protection**[^8-1]
 
-<sup>1</sup> Les Commissaires fixent d’un commun accord et conformément aux dispositions sur les eaux de leur compétence en vigueur dans leur Etat respectif, le début et la fin des périodes de protection qui comprendront, à chaque fois, la période de reproduction. Ils ont également la faculté de prolonger, pour certains milieux et zones, les périodes de protection et d’en prescrire pour d’autres espèces de poissons.
+La durée des périodes d’interdiction de pêche sera définie dans le règlement d’application en respectant les périodes de reproduction des espèces considérées comme dignes de protection.
 
-<sup>2</sup> Les périodes de protection doivent durer au moins:
-
-Truite du lac 12 semaines
-
-Omble‑chevalier 10 semaines
-
-Ombre de rivière 10 semaines
-
-Corégone/Lavarello 8 semaines
-
-Corégone/Bondella 10 semaines
-
-Brochet 4 semaines
-
-Perche 8 semaines
-
-Black‑bass à grande bouche 8 semaines
-
-Sandre 8 semaines
-
-Carpe 4 semaines
-
-Alose 4 semaines
-
-Tanche 4 semaines
+[^8-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 9
 
-**Remise à l’eau de poissons protégés**
+**Violation des dispositions de protection**[^9-1]
 
-Les poissons pêchés pendant leur période de protection citée à l’art. 8 ou qui n’ont pas atteint la longueur minimale de capture prescrite à l’art. 7, doivent être immédiatement remis à l’eau avec toutes les précautions utiles.
+<sup>1</sup> Les poissons pêchés accidentellement pendant leur période de protection ou qui n’ont pas atteint la longueur minimale de capture prescrite pour l’espèce seront immédiatement remis à l’eau, à l’endroit où ils ont été capturés et avec toutes les précautions d’usage.
+
+<sup>2</sup> Les poissons trouvés morts dans des filets autorisés durant la période de protection de l’espèce ou qui n’atteignent pas la longueur minimale de capture prescrite pour l’espèce seront mis dans un récipient adéquat, placé en un lieu bien visible du bateau et différent de ceux normalement employés pour stocker les poissons capturés. Le pêcheur professionnel ne peut utiliser ces poissons que pour sa propre consommation.
+
+[^9-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 10
 
-**Interdiction de la pêche à l’écrevisse**
+**Pêche des écrevisses**[^10-1]
 
-La pêche à l’écrevisse est interdite dans les eaux auxquelles s’applique la présente Convention.
+<sup>1</sup> La pêche des écrevisses indigènes est interdite dans les eaux objet de la présente Convention.
+
+<sup>2</sup> La capture et le transport des écrevisses non indigènes sont régis par le règlement d’application.
+
+[^10-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Chapitre 5 Dérogations
 
@@ -201,7 +176,7 @@ La pêche à l’écrevisse est interdite dans les eaux auxquelles s’applique 
 
 **Mesures restrictives**
 
-Chaque Commissaire peut, dans son domaine d’activité et en conformité avec les normes de procédure en vigueur dans son propre Etat, prendre des mesures qui rendent plus restrictives les dispositions contenues dans la présente Convention; il en informe immédiatement le Commissaire de l’autre Etat.
+Chaque Commissaire peut, dans son domaine d’activité et en conformité avec les normes de procédure en vigueur dans son propre État, prendre des mesures qui rendent plus restrictives les dispositions contenues dans la présente Convention; il en informe immédiatement le Commissaire de l’autre État.
 
 #### Art. 12
 
@@ -211,63 +186,69 @@ En cas de motifs techniques ou scientifiques probants, les dispositions des chap
 
 #### Art. 13
 
-**Autorisation de pêche à des fins scientifiques**
+**Autorisation de pêche à des fins scientifiques**[^13-1]
 
-Les autorités compétentes de chaque Etat peuvent accorder à des fins de recherches scientifiques, à des personnes désignées nominalement, des autorisations qui dérogent aux dispositions de cette Convention.
+Les autorités compétentes de chaque État peuvent octroyer à des personnes désignées nommément des dérogations aux dispositions de la présente Convention et du règlement d’application, et ce à des fins scientifiques ou didactiques.
+
+[^13-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Chapitre 6 Protection de l’habitat du poisson
 
 #### Art. 14
 
-**Interventions prohibées ou soumises à autorisation**
+**Interventions prohibées ou soumises à autorisation**[^14-1]
 
-<sup>1</sup> Il est interdit de remuer le fond de l’eau et d’arracher avec un quelconque engin les plantes aquatiques; font exception les engins de pêche autorisés à l’art. 4 et les interventions destinées exclusivement à maintenir la navigation.
+<sup>1</sup> Il est interdit de remuer le fond de l’eau et d’arracher ou d’enlever avec un quelconque engin la végétation aquatique; l’utilisation des engins de pêche autorisés par le règlement d’application et les interventions destinées exclusivement à permettre la navigation publique et la baignade sont réservées. En outre, tous les travaux qui entraînent l’enlèvement des communautés végétales communément appelées «roselières» sont interdits.
 
-<sup>2</sup> Les travaux de nettoyage et d’aménagement des rives qui impliquent l’élimination des plantes aquatiques ou marécageuses ainsi que des déplacements de terre sont soumis aux autorisations prescrites par les dispositions de la loi en vigueur et en plus, au préavis obligatoire et contraignant du Commissaire.
+<sup>2</sup> S’ils impliquent l’arrachage de plantes aquatiques ou palustres et des déplacements de terre, les interventions destinées exclusivement à permettre la navigation et la baignade ainsi que les travaux de déviation, de dérivation, de prélèvement, d’assèchement, de nettoyage et d’aménagement des rives sont non seulement soumis aux autorisations prescrites par les dispositions légales en vigueur, mais aussi au préavis obligatoire et contraignant du Commissaire ou de l’autorité qu’il aura habilitée en ce sens.
 
-<sup>3</sup> Tous les travaux qui concernent l’évacuation de communautés végétales, communément appelées «roselières», sont interdits.
+<sup>3</sup> Les ouvrages qui interrompent ou modifient le cours naturel des eaux objet de la présente Convention doivent être équipés de structures aptes à assurer la libre circulation des poissons. Les plans y relatifs devront être soumis au préavis contraignant et obligatoire du Commissaire ou de l’autorité qu’il aura habilitée en ce sens.
 
-<sup>4</sup> Les travaux de dérivation et d’assèchement destinés à des fins non prévues dans cette Convention, doivent être communiqués en temps utile aux autorités compétentes et aux titulaires de droits de pêche privés exclusifs.
-
-<sup>5</sup> Les ouvrages qui interrompent ou modifient le cours naturel des eaux auxquelles s’applique la présente Convention doivent être équipés de structures aptes à assurer la libre circulation des poissons. Les plans y relatifs devront être soumis au préavis contraignant et obligatoire du Commissaire.
+[^14-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 15
 
-**Mesures piscicoles obligatoires et remise en état de l’habitat**
+**Mesures piscicoles obligatoires et remise en état de l’habitat**[^15-1]
 
-<sup>1</sup> Les autorisations prévues à l’art. 14 peuvent se compléter par des prescriptions de mesures piscicoles obligatoires visant à protéger les populations de poissons.
+<sup>1</sup> Les interventions prévues à l’art. 14 peuvent être complétées par des obligations de type piscicole ou par des mesures compensatoires de type environnemental.
 
-<sup>2</sup> En cas d’infractions aux dispositions contenues à l’art. 14, le Commissaire peut, en vertu de la procédure applicable dans son Etat, fixer à titre d’indemnisation des mesures piscicoles obligatoires proportionnelles aux dommages causés, ainsi qu’exiger la remise des lieux en leur état initial pour autant que la chose soit possible.
+<sup>2</sup> En cas d’infractions constatées aux dispositions contenues à l’art. 14 ou d’autres atteintes, dommages ou pollutions de l’environnement aquatique, le Commissaire peut, en vertu de la procédure applicable dans son État, imposer à titre d’indemnisation des obligations de type piscicole ou des mesures compensatoires de type environnemental proportionnelles aux dommages causés, et exiger le rétablissement de l’état antérieur pour autant que cela soit possible; la possibilité de se constituer partie civile dans un procès pénal reste réservée en cas d’infractions portant atteinte à l’environnement.
+
+[^15-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 16
 
-**Immersion de poissons**
+**Immersion de poissons**[^16-1]
 
-<sup>1</sup> Toutes les mesures prises par des corporations de droit public, par des associations ou des personnes privées pour immerger des poissons dans les eaux auxquelles s’applique la présente Convention, sont soumises à l’autorisation préalable du Commissaire.
+<sup>1</sup> Toutes les mesures de repeuplement piscicole des eaux objet de la présente Convention prises par des corporations de droit public, par des associations ou par des personnes privées sont soumises à l’autorisation préalable du Commissaire ou de l’autorité qu’il aura habilitée en ce sens. En tout cas l’immersion d’espèces qui ne sont pas déjà présentes dans les eaux italo-suisses est interdite.
 
-<sup>2</sup> Il est interdit sans exception d’immerger dans les eaux italo‑suisses des espèces non indigènes sans une autorisation préalable.
+<sup>2</sup> Les espèces de poissons pouvant être utilisées pour le repeuplement ainsi que les autres pratiques piscicoles autorisées sont fixées dans un règlement de repeuplement approuvé par la Commission. Ledit règlement a également pour but l’harmonisation des diverses opérations de repeuplement effectuées dans le lac de Lugano, le lac Majeur et la rivière Tresa par les collectivités publiques, par le biais d’un programme commun aux acteurs institutionnels des deux États et qui fixe les critères de répartition des poissons immergés sur la base du matériel piscicole mis à la disposition de toutes les parties par les piscicultures suisses et italiennes.
+
+[^16-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Chapitre 7 Mesures d’encouragement
 
 #### Art. 17
 
-**Echange annuel des rapports d’activité**
+**Échange annuel des rapports d’activité**
 
 <sup>1</sup> Pour mieux sauvegarder et promouvoir le patrimoine piscicole dans les eaux italo-suisses, la Commission fournit des renseignements opportuns sur les mesures prises pour développer les populations de poissons, le contrôle des espèces surabondantes, les mesures d’amélioration des conditions d’environnement, l’intensité de la pêche et les apparitions de maladies chez les poissons.
 
-<sup>2</sup> A cette fin, les Commissaires échangent chaque année les informations nécessaires selon les modalités prévues dans le règlement interne.
+<sup>2</sup> À cette fin, les Commissaires échangent chaque année les informations nécessaires selon les modalités prévues dans le règlement interne.
 
 #### Art. 18
 
 **Recherche scientifique**
 
-Les deux Etats encouragent la recherche scientifique sur l’habitat aquatique faisant l’objet de la présente Convention.
+Les deux États encouragent la recherche scientifique sur l’habitat aquatique faisant l’objet de la présente Convention.
 
 #### Art. 19
 
-**Piscicultures**
+**Piscicultures**[^19-1]
 
-Chacun des deux Etats s’engage, pour ses propres eaux territoriales, à prendre à sa charge les frais pour les mesures visant à accroître les populations de poissons.
+Les deux États s’engagent, pour leurs propres eaux territoriales, à prendre en charge les coûts des mesures de repeuplement et des autres pratiques visant à conserver la population piscicole.
+
+[^19-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Chapitre 8 Surveillance et dispositions pénales
 
@@ -277,31 +258,31 @@ Chacun des deux Etats s’engage, pour ses propres eaux territoriales, à prendr
 
 <sup>1</sup> Tant la surveillance pour la sauvegarde des populations de poissons que le contrôle de la pêche et l’application correcte des dispositions de la présente Convention sont confiés aux agents de surveillance qui sont autorisés à exercer leur activité sur leur territoire respectif
 
-<sup>2</sup> Les agents de surveillance peuvent exercer leur fonction uniquement dans la partie des eaux et sur le territoire des eaux de l’Etat dont ils relèvent. Toutefois, en cas d’infraction flagrante, ils sont autorisés à l’exercer également sur les secteurs d’eau de l’autre Etat et, au besoin, à se rendre jusqu’au poste de surveillance le plus proche; il est interdit dans ce cas de prendre des mesures coercitives.
+<sup>2</sup> Les agents de surveillance peuvent exercer leur fonction uniquement dans la partie des eaux et sur le territoire des eaux de l’État dont ils relèvent. Toutefois, en cas d’infraction flagrante, ils sont autorisés à l’exercer également sur les secteurs d’eau de l’autre État et, au besoin, à se rendre jusqu’au poste de surveillance le plus proche; il est interdit dans ce cas de prendre des mesures coercitives.
 
-<sup>3</sup> Les agents qui exercent leur fonction sur les eaux de l’autre Etat doivent être porteur du document prouvant leur qualification. Ils peuvent revêtir l’uniforme et porter les armes de service. En revanche, ils ne peuvent faire usage d’une arme de service qu’en cas de légitime défense.
+<sup>3</sup> Les agents qui exercent leur fonction sur les eaux de l’autre État doivent être porteur du document prouvant leur qualification. Ils peuvent revêtir l’uniforme et porter les armes de service. En revanche, ils ne peuvent faire usage d’une arme de service qu’en cas de légitime défense.
 
-<sup>4</sup> Ils peuvent demander aux autorités responsables de l’autre Etat de rechercher des personnes, ainsi que de saisir les objets incriminés et les poissons capturés illicitement.
+<sup>4</sup> Ils peuvent demander aux autorités responsables de l’autre État de rechercher des personnes, ainsi que de saisir les objets incriminés et les poissons capturés illicitement.
 
 #### Art. 21
 
 **Infractions contre les agents de surveillance**
 
-<sup>1</sup> Lorsque, conformément à l’art. 20, al. 2, de la présente Convention, les agents de surveillance exercent leur fonction dans les eaux de l’autre Etat, ils bénéficient de la protection et de l’assistance des agents de cet Etat.
+<sup>1</sup> Lorsque, conformément à l’art. 20, al. 2, de la présente Convention, les agents de surveillance exercent leur fonction dans les eaux de l’autre État, ils bénéficient de la protection et de l’assistance des agents de cet État.
 
-<sup>2</sup> Lors d’infractions commises au détriment des agents de surveillance de l’un des deux Etats, à l’occasion de l’exercice de leur fonction sur le territoire de l’autre Etat, on appliquera les dispositions juridiques valables dans ce dernier.
+<sup>2</sup> Lors d’infractions commises au détriment des agents de surveillance de l’un des deux États, à l’occasion de l’exercice de leur fonction sur le territoire de l’autre État, on appliquera les dispositions juridiques valables dans ce dernier.
 
 #### Art. 22
 
 **Procédure en cas d’infraction**
 
-<sup>1</sup> Chacun des deux Etats poursuit, selon ses propres normes, toute personne se trouvant sur son territoire qui aurait commis sur le territoire de l’autre Etat une infraction à la présente Convention ou à ses dispositions d’exécution.
+<sup>1</sup> Chacun des deux États poursuit, selon ses propres normes, toute personne se trouvant sur son territoire qui aurait commis sur le territoire de l’autre État une infraction à la présente Convention ou à ses dispositions d’exécution.
 
-<sup>2</sup> On procédera à la poursuite de l’infraction sur demande de l’Etat dans lequel l’infraction a été commise après que le procès‑verbal ait été transmis par voie officielle aux autorités compétentes de l’autre Etat.
+<sup>2</sup> On procédera à la poursuite de l’infraction sur demande de l’État dans lequel l’infraction a été commise après que le procès‑verbal ait été transmis par voie officielle aux autorités compétentes de l’autre État.
 
 <sup>3</sup> Toutefois, aucune poursuite n’aura lieu si le contrevenant a déjà été jugé définitivement ou si l’infraction a fait objet de mesures administratives définitives ou s’il existe une cause d’extination de la punissabilité ou de la peine, sauf si le condamné s’est soustrait à l’exécution de la peine ou au paiement de l’amende prévue par la mesure administrative.
 
-<sup>4</sup> Les frais de procédure ne donnent lieu à aucun remboursement. Le montant des amendes encaissées reste acquis à l’Etat qui a poursuivi l’infraction. Les dédommagements pour les dépenses, les dommages ainsi que les intérêts correspondants vont à la partie lésée.
+<sup>4</sup> Les frais de procédure ne donnent lieu à aucun remboursement. Le montant des amendes encaissées reste acquis à l’État qui a poursuivi l’infraction. Les dédommagements pour les dépenses, les dommages ainsi que les intérêts correspondants vont à la partie lésée.
 
 ## Chapitre 9 Relations entre les autorités
 
@@ -317,11 +298,13 @@ Chacun des deux Etats s’engage, pour ses propres eaux territoriales, à prendr
 
 **Frais**
 
-<sup>1</sup> Chaque Etat assume les frais de sa délégation à la Commission et de ses experts dans la Sous‑Commission.
+<sup>1</sup> Chaque État assume les frais de sa délégation à la Commission et de ses experts dans la Sous‑Commission.
 
-<sup>2</sup> Les frais pour les travaux de recherches prévus à l’art. 18 seront répartis selon les critères fixés en commun accord par les deux gouvernements sur proposition de la Commission.
+<sup>2</sup> Les coûts des activités de recherche prévues à l’art. 18 ainsi que des mesures de repeuplement et des autres pratiques prévues à l’art. 19 seront couverts par les deux gouvernements sur proposition de la Commission.[^24-1]
 
 <sup>3</sup> Pour tous autres frais éventuels ne pouvant être répartis sur la base de l’al. 2, la Commission détermine de cas en cas le mode de répartition.
+
+[^24-1]: Nouvelle teneur selon l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Chapitre 10 Dispositions transitoires et finales
 
@@ -329,7 +312,11 @@ Chacun des deux Etats s’engage, pour ses propres eaux territoriales, à prendr
 
 **Dispositions d’exécution**
 
-Chacun des deux Etats prendra les mesures nécessaires pour appliquer sur son territoire les dispositions de la présente Convention. Il publie les dispositions d’exécution correspondantes au plus tard une année après l’échange des instruments de ratification.
+<sup>1</sup> Chacun des deux États prendra les mesures nécessaires pour appliquer sur son territoire les dispositions de la présente Convention. Il publie les dispositions d’exécution correspondantes au plus tard une année après l’échange des instruments de ratification.
+
+<sup>2</sup> La présente Convention s’applique dans le plein respect des obligations internationales auxquelles les deux États se sont engagés réciproquement et de celles qui découlent de l’appartenance de l’Italie à l’Union européenne.[^25-1]
+
+[^25-1]: Introduit par l’échange de notes des 10/24 avril 2017, en vigueur depuis le 28 janv. 2022 ([RO 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 26
 
@@ -341,7 +328,7 @@ L’entrée en vigueur de la présente Convention entraîne l’abrogation de to
 - – la Convention du 13 juin 1906 entre la Suisse et l’Italie arrêtant des dispositions uniformes sur la pêche dans les eaux limitrophes[^26-2];
 - – l’acte additionnel du 15 janvier 1907 à cette Convention[^26-3];
 - – le complément du 8 février 1911 à la Convention du 13 juin 1906[^26-4];
-- – l’Echange de notes des 13 octobre et 19 décembre 1947[^26-5], des 1<sup>er</sup> et 16 mars 1948[^26-6] et des 13 et 27 novembre 1950[^26-7] entre la Suisse et l’Italie concernant l’application uniforme des dispositions sur la pèche dans les eaux communes aux deux Etats.
+- – l’Échange de notes des 13 octobre et 19 décembre 1947[^26-5], des 1<sup>er</sup> et 16 mars 1948[^26-6] et des 13 et 27 novembre 1950[^26-7] entre la Suisse et l’Italie concernant l’application uniforme des dispositions sur la pèche dans les eaux communes aux deux États.
 
 [^26-1]: [RS **14** 271]
 [^26-2]: [RS **14** 262]
@@ -355,7 +342,7 @@ L’entrée en vigueur de la présente Convention entraîne l’abrogation de to
 
 **Modifications de la Convention**
 
-<sup>1</sup> Les gouvernements des deux Etats peuvent modifier d’un commun accord la présente Convention.
+<sup>1</sup> Les gouvernements des deux États peuvent modifier d’un commun accord la présente Convention.
 
 <sup>2</sup> Les modifications s’effectuent par échange de notes, conformément à la procédure prévue à l’art. 28, al. 1.
 
@@ -363,7 +350,7 @@ L’entrée en vigueur de la présente Convention entraîne l’abrogation de to
 
 **Entrée en vigueur et dénonciation**
 
-<sup>1</sup> Chacun des deux Etats notifiera à l’autre l’accomplissement des procédures requises de mise en vigueur de la présente Convention qui prendra effet le premier jour du deuxième mois après la date de réception de la dernière de ces notes.
+<sup>1</sup> Chacun des deux États notifiera à l’autre l’accomplissement des procédures requises de mise en vigueur de la présente Convention qui prendra effet le premier jour du deuxième mois après la date de réception de la dernière de ces notes.
 
 <sup>2</sup> Au terme d’un délai de trois ans à partir de son entrée en vigueur, la Convention peut être dénoncée à tout moment par chacun des gouvernements contractants, moyennant un préavis de six mois.
 

@@ -3,11 +3,11 @@ sr: "0.923.51"
 title: Convenzione del 19 marzo 1986 tra la Confederazione Svizzera e la Repubblica Italiana per la pesca nelle acque italo-svizzere
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/539_539_539"
 language: it
-version: 1989-04-01
+version: 2022-01-28
 adopted: 1986-03-19
 in_force: 1989-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/539_539_539/19890401/it/xml/fedlex-data-admin-ch-eli-cc-1989-539_539_539-19890401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/539_539_539/19890401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/539_539_539/20220128/it/xml/fedlex-data-admin-ch-eli-cc-1989-539_539_539-20220128-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/539_539_539/20220128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,21 +18,21 @@ RU **1989** 539
 
 Testo originale
 
-Conclusa il 19 marzo 1986
+Conclusa il 19 marzo 1986 Entrata in vigore con scambio di note il 1<sup>o</sup> aprile 1989
 
-Entrata in vigore con scambio di note il 1<sup>o</sup> aprile 1989
+(Stato 28 gennaio 2022)
 
-(Stato 1° aprile 1989)
+Il Consiglio federale svizzero ed il Governo della Repubblica italiana,
 
-Il Consiglio federale svizzero e il Governo italiano,
+al fine di assicurare la tutela e la gestione ottimale del patrimonio ittico delle acque italo-svizzere, onde:
 
-al fine di assicurare la gestione ottimale del patrimonio ittico delle acque italo-svizzere, onde:
-
-- – favorire lo sviluppo delle categorie che direttamente e indirettamente operano nel settore della pesca professionale;
-- – consentire un equilibrato sviluppo delle attività di pesca sportiva intesa come espressione del tempo libero;
 - – contribuire alla difesa e al miglioramento dell’ambiente acquatico,
+- – favorire lo sviluppo delle categorie che direttamente e indirettamente operano nel settore della pesca professionale,
+- – consentire un equilibrato sviluppo delle attività di pesca sportiva intesa come espressione del tempo libero,
 
-stipulano la seguente Convenzione:
+stipulano la seguente Convenzione:[^ingress-1]
+
+[^ingress-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Titolo I: Disposizioni generali
 
@@ -40,7 +40,11 @@ stipulano la seguente Convenzione:
 
 **Campo d’applicazione**
 
-Costituiscono oggetto della presente Convenzione le acque dei laghi Maggiore (Verbano) e di Lugano (Ceresio), nonché quelle del fiume Tresa, anche se soggette a diritto esclusivo e ad uso civico di pesca.
+<sup>1</sup> Costituiscono oggetto della presente Convenzione le acque dei laghi Maggiore (Verbano) e di Lugano (Ceresio), nonché quelle del fiume Tresa, anche se soggette a diritto esclusivo e ad uso civico di pesca.
+
+<sup>2</sup> Agli effetti della presente Convenzione il Lago Maggiore ed il Lago di Lugano hanno termine rispettivamente al Ponte della Ferrovia in comune di Sesto Calende e al Ponte della Dogana di collegamento tra i comuni di Lavena Ponte Tresa in Italia e di Ponte Tresa in Svizzera.[^1-1]
+
+[^1-1]: Introdotto dallo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 2
 
@@ -67,8 +71,13 @@ Alla Commissione per la pesca sono conferiti i seguenti compiti:
 
 - a. preparare e presentare le proposte di eventuali modifiche alla presente Convenzione;
 - b. dirimere controversie relative all’interpretazione ed all’applicazione della presente Convenzione;
-- c. elaborare un regolamento interno;
-- d. approntare il bilancio di previsione e il conto consuntivo annuale per le spese comuni.
+- c.[^2-1] elaborare i regolamenti previsti dalla Convenzione, nonché un regolamento interno della Commissione;
+- d.[^2-2] raccogliere ed elaborare i dati del pescato e relativi alla pesca;
+- e.[^2-3] approntare il bilancio di previsione e il conto consuntivo annuale per le spese comuni.
+
+[^2-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+[^2-2]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+[^2-3]: Introdotta dallo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Titolo II: Esercizio della pesca
 
@@ -76,122 +85,88 @@ Alla Commissione per la pesca sono conferiti i seguenti compiti:
 
 **Licenza di pesca**
 
-Nelle acque oggetto della presente Convenzione è consentita la pesca a coloro che sono in possesso di regolare licenza rilasciata nello Stato sul cui territorio essa viene esercitata.
+<sup>1</sup> Nelle acque oggetto della presente Convenzione è consentita la pesca a coloro che sono in possesso di regolare licenza rilasciata nello Stato sul cui territorio essa viene esercitata.
+
+<sup>2</sup> Qualora l’evoluzione della pesca e una futura armonizzazione dei diversi sistemi di patenti e licenze lo rendessero opportuno, la Commissione potrà intraprendere, entro le sue specifiche competenze, i passi necessari a consentire la pesca sul territorio dei due Stati con un’unica patente. Ciò dovrà comunque sottostare all’accordo delle entità amministrative competenti, nonché dei Commissari.[^3-1]
+
+[^3-1]: Introdotto dallo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 4
 
-**Attrezzi di pesca consentiti**
+**Attrezzi di pesca**[^4-1]
 
-<sup>1</sup> Le autorità competenti dei due Stati, di comune accordo, pubblicheranno un elenco descrittivo degli attrezzi di pesca consentiti nelle acque soggette alla presente Convenzione.
+<sup>1</sup> Le Autorità competenti dei due Stati, di comune accordo, pubblicheranno il regolamento di applicazione della Convenzione comprensivo delle norme per l’esercizio della pesca, dell’elenco degli attrezzi di pesca consentiti e delle zone di divieto e protezione.
 
-<sup>2</sup> Nelle acque che interessano la presente Convenzione e lungo le rive, sono vietati il trasporto e la detenzione degli attrezzi e dei mezzi di pesca non permessi, salvo provare che non siano destinati all’esercizio della pesca.
+<sup>2</sup> Sulle acque oggetto della presente Convenzione e lungo le loro rive sono vietati il trasporto e la detenzione di attrezzi di pesca e di altri mezzi di cattura non consentiti dal regolamento di applicazione, salvo provare che non siano destinati all’esercizio della pesca.
 
-## Titolo III: Modalità di pesca vietate
+[^4-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+
+## Titolo III: Modalità e esercizio della pesca****
+
+[^chap3-1]
+
+[^chap3-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 5
 
-**Sistemi**
+**Sistemi e modalità di pesca**[^5-1]
 
-<sup>1</sup> È vietato adoperare per la pesca nelle acque oggetto della presente Convenzione ogni apparecchio fisso o mobile, il quale impedisca il passaggio dei pesci per più di una metà della larghezza del corso d’acqua, misurata ad angolo retto dalla riva.
+I sistemi e le modalità di pesca sono disciplinati nel regolamento di applicazione.
 
-<sup>2</sup> La distanza fra due di questi apparecchi, fissi o mobili, impiegati simultaneamente sulla medesima riva, o sulle due rive opposte, non potrà essere inferiore al doppio dello sviluppo del più grande di essi.
-
-<sup>3</sup> È vietato collocare impianti fissi connessi con l’attività di pesca diversi dalle reti nella fascia litorale compresa tra la riva ed il limite superiore della corona, indicato da un netto ed evidente aumento della pendenza del fondo.
-
-<sup>4</sup> È vietato l’uso a scopo di pesca di sostanze tossiche, narcotiche ed esplosive nonché della corrente elettrica. È pure vietato ricorrere all’uso di apparecchi di sondaggio a onde.
-
-<sup>5</sup> Nelle acque che interessano la presente Convenzione e lungo le loro rive sono vietati il trasporto e la detenzione di dette sostanze ed apparecchiature, salvo provare che non siano destinate a scopo di pesca.
-
-<sup>6</sup> È vietato catturare i pesci con le mani.
-
-<sup>7</sup> È vietato pasturare con la larva di mosca carnaria.
-
-<sup>8</sup> Sono vietate le operazioni di deviazione e prosciugamento a scopo di pesca.
+[^5-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 6
 
 **Zone**
 
-<sup>1</sup> La pesca è vietata nei due laghi all’imbocco ed allo sbocco dei corsi di acqua comuni e non comuni sopra un raggio eguale alla metà della larghezza dei medesimi misurata a livello medio del lago, maggiorata da 50 a 100 metri secondo l’importanza del corso d’acqua.
+<sup>1</sup> Le aree di foce allo sbocco degli affluenti nei laghi oggetto della presente Convenzione ritenute meritevoli di particolare protezione a tutela della fauna ittica saranno individuate e disciplinate nel regolamento di applicazione.[^6-1]
 
-<sup>2</sup> È vietato tendere o collocare nelle acque reti ed ogni altro congegno di pesca ad una distanza inferiore ai 30 metri dalle scale di monta per i pesci, dalle griglie delle macchine idrauliche, dagli imbocchi e sbocchi dei canali, soglie, chiuse e cascate, nonché dagli archi del ponte di Melide e dallo stretto di Lavena sia a monte che a valle dello stesso.
+<sup>2</sup> ... [^6-2]
 
 <sup>3</sup> Qualora si ritenesse utile istituire altre zone di protezione, queste verranno fissate dalle autorità competenti dei due Stati, su proposta dei Commissari.
 
 <sup>4</sup> Tutte le zone di divieto o di protezione dovranno essere segnalate con gavitelli od in altra maniera idonea.
 
+[^6-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+[^6-2]: Abrogato dallo scambio di note del 10/24 apr. 2017, con effetto dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
+
 ## Titolo IV: Limitazioni protettive all’esercizio della pesca
 
 #### Art. 7
 
-**Lunghezze minime dei pesci**
+**Lunghezze minime dei pesci**[^7-1]
 
-<sup>1</sup> Le lunghezze minime, misurate dall’apice del muso all’estremità della pinna caudale, che i pesci debbono avere raggiunto perché la pesca e la vendita da parte del pescatore siano consentite, sono le seguenti:
+Le lunghezze minime, misurate dall’apice del muso all’estremità della pinna caudale, che i pesci debbono aver raggiunto perché la pesca e la vendita da parte del pescatore siano consentite, saranno stabilite nel regolamento di applicazione, al fine di tutelarne al meglio la riproduzione naturale.
 
-<table>
-<tr><td>Trota del lago</td><td>30 cm</td></tr>
-<tr><td>Trota del fiume</td><td>22 cm</td></tr>
-<tr><td>Salmerini (Salvelinus Alpinus, Salvelinus Fontinalis)</td><td>25 cm</td></tr>
-<tr><td>Coregone Lavarello</td><td>30 cm</td></tr>
-<tr><td>Coregone Bondella</td><td>25 cm</td></tr>
-<tr><td>Temolo</td><td>30 cm</td></tr>
-<tr><td>Luccio: nel Lago Maggiore</td><td>40 cm</td></tr>
-<tr><td>nel Lago di Lugano</td><td>45 cm</td></tr>
-<tr><td>Pesce persico: nel Lago Maggiore</td><td>16 cm</td></tr>
-<tr><td>nel Lago di Lugano</td><td>18 cm</td></tr>
-<tr><td>Persico Trota</td><td>20 cm</td></tr>
-<tr><td>Luccioperca</td><td>40 cm</td></tr>
-<tr><td>Carpa</td><td>30 cm</td></tr>
-<tr><td>Tinca</td><td>25 cm</td></tr>
-<tr><td>Anguilla</td><td>40 cm</td></tr>
-<tr><td>Agone</td><td>20 cm</td></tr>
-</table>
-
-<sup>2</sup> Per comprovate ragioni tecniche i Commissari possono curare l’emanazione di provvedimenti, necessari secondo le procedure dei rispettivi Stati, atti ad aumentare dette lunghezze minime, nonché a stabilirne delle nuove per la cattura di altre specie ittiche non contemplate nel presente articolo.
+[^7-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 8
 
-**Periodi di divieto**
+**Periodi di divieto**[^8-1]
 
-<sup>1</sup> I Commissari fissano, di comune accordo e compatibilmente con le norme vigenti nel proprio Stato per le acque di propria competenza, l’inizio e la fine dei periodi protettivi che comprendono di volta in volta il tempo della riproduzione. Essi hanno facoltà di prolungare anche per singoli ambienti e zone i periodi protettivi e di prescriverne per altre specie di pesci.
+L’estensione temporale dei periodi di divieto di pesca sarà stabilita nel regolamento di applicazione in modo da tutelare i periodi riproduttivi delle specie ritenute meritevoli di protezione.
 
-<sup>2</sup> I periodi minimi di divieto sono:
-
-Trota nel lago 12 settimane
-
-Salmerini 10 settimane
-
-Temolo 10 settimane
-
-Coregone Lavarello 8 settimane
-
-Coregone Bondella 10 settimane
-
-Luccio 4 settimane
-
-Pesce persico 8 settimane
-
-Persico trota 8 settimane
-
-Luccioperca 8 settimane
-
-Carpa 4 settimane
-
-Agone 4 settimane
-
-Tinca 4 settimane
+[^8-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 9
 
-**Reimmissione in acqua di esemplari protetti**
+**Violazione delle limitazioni protettive**[^9-1]
 
-I pesci catturati durante il rispettivo periodo di divieto prescritto all’articolo 8, nonché quelli che non abbiano raggiunto la misura prescritta all’articolo 7, debbono essere rimessi immediatamente in acqua con ogni possibile cura.
+<sup>1</sup> I pesci catturati accidentalmente durante il periodo di divieto nonché quelli che non abbiano raggiunto la lunghezza minima di cattura prescritta per la specie di appartenenza debbono essere rimessi immediatamente in acqua, nel luogo di cattura, con ogni possibile cura.
+
+<sup>2</sup> I pesci recuperati morti da reti autorizzate durante il periodo di protezione della specie o che non raggiungano la lunghezza minima prescritta debbono essere messi in un apposito contenitore, posto in luogo ben visibile sulla barca e diverso da quelli normalmente impiegati per la raccolta del pescato. Tali pesci potranno essere utilizzati dal pescatore professionista esclusivamente per il proprio consumo famigliare.
+
+[^9-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 10
 
-**Divieto della pesca dei gamberi**
+**Pesca dei gamberi**[^10-1]
 
-Nelle acque oggetto della presente Convenzione la pesca dei gamberi è vietata.
+<sup>1</sup> Nelle acque oggetto della presente Convenzione la pesca dei gamberi autoctoni è vietata.
+
+<sup>2</sup> La cattura ed il trasporto di gamberi non autoctoni saranno regolamentate nel regolamento di applicazione.
+
+[^10-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Titolo V: Deroghe
 
@@ -209,41 +184,45 @@ Per comprovate ragioni tecniche o scientifiche, le disposizioni di cui ai titoli
 
 #### Art. 13
 
-**Autorizzazione alla pesca scientifica**
+**Autorizzazione alla pesca scientifica**[^13-1]
 
-L’autorità competente di ciascuno Stato può rilasciare, a scopo di ricerca scientifica, autorizzazioni per la cattura di pesci anche in deroga a quanto previsto dalla presente Convenzione, a persone nominalmente indicate.
+L’Autorità competente di ciascuno Stato può rilasciare a scopo scientifico e didattico autorizzazioni a persone nominalmente indicate per la cattura di pesci anche in deroga a quanto previsto dalla presente Convenzione e dal regolamento di applicazione.
+
+[^13-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Titolo VI: Norme a protezione dell’ambiente
 
 #### Art. 14
 
-**Interventi vietati o da sottoporre ad autorizzazione**
+**Interventi vietati o da sottoporre ad autorizzazione**[^14-1]
 
-<sup>1</sup> È vietato smuovere il substrato di fondo ed estirpare le idrofite con qualsiasi attrezzo, fatti salvi l’uso degli attrezzi di pesca consentiti all’articolo 4 e gli interventi unicamente intesi a mantenere la navigabilità.
+<sup>1</sup> E’ vietato smuovere il substrato di fondo ed estirpare o comunque rimuovere la vegetazione acquatica con qualsiasi mezzo, fatti salvi l’uso degli attrezzi di pesca consentiti nel regolamento di applicazione e gli interventi unicamente intesi a mantenere la navigabilità per finalità pubbliche e la balneazione. Sono altresì vietate tutte le operazioni che comportino l’eliminazione dell’associazione vegetale comunemente denominata «canneto».
 
-<sup>2</sup> Le operazioni di pulizia e di sistemazione dei litorali che prevedano estirpazione di piante acquatiche e palustri e movimenti di terra, oltre alle autorizzazioni prescritte dalle vigenti norme di legge, devono essere sottoposte al parere obbligatorio e vincolante del Commissario.
+<sup>2</sup> Oltre alle autorizzazioni prescritte dalle vigenti norme di legge devono essere sottoposte al parere obbligatorio e vincolante del Commissario, o all’autorità da lui delegata, gli interventi unicamente intesi a mantenere la navigabilità e la balneazione, le operazioni di deviazione, derivazione, prelievo e prosciugamento, nonché le operazioni di pulizia e di sistemazione dei litorali che prevedano estirpazione di piante acquatiche e palustri e movimenti di terra.
 
-<sup>3</sup> Sono vietate tutte le operazioni che comportino l’eliminazione dell’associazione vegetale comunemente denominata «canneto».
+<sup>3</sup> I manufatti che interrompano o modifichino la continuità del corso d’acqua oggetto della Convenzione dovranno prevedere strutture atte a mantenere il passaggio dei pesci. I relativi progetti devono essere sottoposti al parere vincolante ed obbligatorio del Commissario, o all’autorità da lui delegata.
 
-<sup>4</sup> Le operazioni di deviazione e prosciugamento necessarie per scopi non previsti dalla presente Convenzione, devono essere comunicate in tempo utile all’autorità competente ed ai titolari di diritto esclusivo o di uso civico di pesca.
-
-<sup>5</sup> I manufatti che interrompano o modifichino la continuità del corso d’acqua oggetto della Convenzione dovranno prevedere strutture atte a mantenere il passaggio dei pesci. I relativi progetti devono essere sottoposti al parere vincolante ed obbligatorio del Commissario.
+[^14-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 15
 
-**Obblighi ittiogenici e di ripristino ambientale**
+**Obblighi ittiogenici e di ripristino ambientale**[^15-1]
 
-<sup>1</sup> Le autorizzazioni previste dall’articolo 14 potranno essere integrate da prescrizioni di obblighi ittiogenici.
+<sup>1</sup> Quanto previsto dall’articolo 14 potrà essere integrato da prescrizioni di obblighi ittiogenici o da interventi compensativi di carattere ambientale.
 
-<sup>2</sup> Nel caso di accertate infrazioni dei disposti dell’articolo 14 il Commissario, secondo le procedure del proprio Stato, potrà richiedere, a titolo di risarcimento, obblighi ittiogenici commisurati ai danni provocati nonché il ripristino della situazione originaria ove ciò sia possibile.
+<sup>2</sup> Nel caso di accertate infrazioni dei disposti dell’articolo 14 o comunque di manomissione, danneggiamento o inquinamento dell’ambiente acquatico, il Commissario, secondo le procedure del proprio Stato, potrà richiedere a titolo di risarcimento obblighi ittiogenici ed interventi compensativi di carattere ambientale commisurati ai danni provocati, nonché il ripristino della situazione originaria ove ciò sia possibile, con facoltà – in presenza di reati ambientali – di costituirsi parte civile nell’ambito di processi penali.
+
+[^15-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 16
 
-**Semina di materiale ittico**
+**Semina di materiale ittico**[^16-1]
 
-<sup>1</sup> Tutte le operazioni di semina di materiale ittico nelle acque oggetto della presente Convenzione effettuate da enti pubblici, da associazioni o da privati dovranno essere sottoposte alla preventiva approvazione del Commissario.
+<sup>1</sup> Tutte le operazioni di semina di materiale ittico nelle acque oggetto della presente Convenzione effettuate da enti pubblici, da associazioni o da privati dovranno essere sottoposte alla preventiva approvazione del Commissario o all’autorità da lui delegata. Sono comunque sempre vietate le immissioni di specie ittiche che non siano già presenti nelle acque italo-svizzere.
 
-<sup>2</sup> Sono sempre vietate le immissioni non preventivamente autorizzate di specie ittiche che non siano già presenti nelle acque italo‑svizzere.
+<sup>2</sup> Le specie ittiche seminabili e le altre pratiche ittiogeniche sono definite in un apposito Regolamento delle Semine approvato dalla Commissione. Tale regolamento intende altresì armonizzare i diversi ripopolamenti ittici effettuati da Enti pubblici nel Lago di Lugano, nel Lago Maggiore e nel fiume Tresa tramite una programmazione unitaria tra gli operatori istituzionali dei due Stati che fissi i criteri di ripartizione delle semine sulla base del materiale ittico reciprocamente disponibile presso le piscicolture svizzere ed italiane.
+
+[^16-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Titolo VII: Attività promozionale
 
@@ -263,9 +242,11 @@ I due Stati promuovono la ricerca scientifica sugli ambienti acquatici oggetto d
 
 #### Art. 19
 
-**Stabilimenti di piscicoltura**
+**Stabilimenti di piscicoltura**[^19-1]
 
-Ciascuno dei due Stati si impegna, ognuno per le acque di propria competenza, a sostenere le spese occorrenti per l’incremento del patrimonio ittico mediante pratiche ittiogeniche.
+I due Stati si impegnano per le acque di propria competenza, a sostenere le spese occorrenti per l’incremento del patrimonio ittico mediante ripopolamenti e altre pratiche ittiogeniche.
+
+[^19-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Titolo VIII: Vigilanza e sanzioni
 
@@ -317,9 +298,11 @@ Ciascuno dei due Stati si impegna, ognuno per le acque di propria competenza, a 
 
 <sup>1</sup> Ciascuno Stato assume le spese della propria Delegazione nella Commissione e dei propri esperti designati nella Sottocommissione.
 
-<sup>2</sup> Le spese inerenti ai lavori di ricerca previsti dall’articolo 18 saranno ripartite secondo criteri concordemente fissati dai due Governi su proposta della Commissione.
+<sup>2</sup> Le spese inerenti alle attività di ricerca previste dall’articolo 18 nonché alle semine e alle pratiche ittiogeniche previste dall’articolo 19 saranno erogate dai due Governi su proposta della Commissione.[^24-1]
 
 <sup>3</sup> Ogni altra eventuale spesa che non possa essere ripartita in base al precedente comma, lo sarà secondo modalità da stabilirsi di volta in volta dalla Commissione.
+
+[^24-1]: Nuovo testo giusta lo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 ## Titolo X: Disposizioni transitorie e finali
 
@@ -327,7 +310,11 @@ Ciascuno dei due Stati si impegna, ognuno per le acque di propria competenza, a 
 
 **Disposizioni esecutive**
 
-Ciascuno dei due Stati prenderà i provvedimenti necessari per mettere in esecuzione nel proprio territorio le disposizioni della presente Convenzione, emanando al più tardi entro un anno dallo scambio delle ratifiche della stessa le relative disposizioni.
+<sup>1</sup> Ciascuno dei due Stati prenderà i provvedimenti necessari per mettere in esecuzione nel proprio territorio le disposizioni della presente Convenzione, emanando al più tardi entro un anno dallo scambio delle ratifiche della stessa le relative disposizioni.
+
+<sup>2</sup> La presente Convenzione si applica nel pieno rispetto degli obblighi internazionali reciprocamente assunti e di quelli derivanti dall’appartenenza dell’Italia all’Unione Europea.[^25-1]
+
+[^25-1]: Introdotto dallo scambio di note del 10/24 apr. 2017, in vigore dal 28 gen. 2022 ([RU 2022 178](https://fedlex.data.admin.ch/eli/oc/2022/178)).
 
 #### Art. 26
 
