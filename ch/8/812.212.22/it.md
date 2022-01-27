@@ -4,11 +4,11 @@ title: "Ordinanza dell'Istituto svizzero per gli agenti terapeutici del 9 novemb
 short: OOMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: it
-version: 2020-07-01
+version: 2022-01-28
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2001-517-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20220128/it/xml/fedlex-data-admin-ch-eli-cc-2001-517-20220128-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20200701/it"
 
 (Ordinanza per l’omologazione di medicamenti, OOMed)
 
-del 9 novembre 2001 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+del 9 novembre 2001 (Stato 28 gennaio 2022)
 
 Il Consiglio dell’Istituto svizzero per gli agenti terapeutici (Consiglio dell’Istituto),
 
@@ -416,25 +416,22 @@ Swissmedic libera una partita se essa soddisfa le specifiche di qualità omologa
 
 [^22-1]: Abrogato dal n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
-## Sezione 5*a*:**** Modifiche secondo gli articoli 21–24 OM
+## Sezione 5*a*:**** Modifiche dell’omologazione di medicamenti secondo gli articoli 21–24, 25*a* e 25*b* OM****
 
-[^sec5a-1]
+[^sec5a-1][^sec5a-2]
 
 [^sec5a-1]: Introdotta dal n. I dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 7 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^sec5a-2]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
 
-#### Art. 22a
+**Art. 22**a*[^sec5a-3]* Classificazione delle modifiche
 
-**Classificazione delle modifiche**
-
-Le modifiche relative nelle singole categorie secondo gli articoli 21–24 OM[^22a-1], le condizioni da soddisfare all’occorrenza e i documenti da presentare in ciascun caso sono riportati all’allegato 7.
-
-[^22a-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+Le modifiche relative alle singole categorie secondo gli articoli 21–24, 25*a* e 25*b* OM[^sec5a-4], le condizioni da soddisfare all’occorrenza e i documenti da presentare in ciascun caso sono riportati agli allegati 7 e 7*a*.
 
 #### Art. 22b
 
 **Domande collettive**
 
-<sup>1</sup> Le modifiche secondo gli articoli 21, 22 o 23 OM[^22b-1] possono essere raggruppate e inoltrate come domanda collettiva, a condizione che si tratti della stessa modifica per più medicamenti e che venga presentata per tutti la stessa identica documentazione.
+<sup>1</sup> Le modifiche secondo gli articoli 21–23, 25*a* e 25*b* OM[^22b-1] possono essere raggruppate e inoltrate come domanda collettiva, a condizione che si tratti della stessa modifica per più medicamenti e che venga presentata per tutti la stessa identica documentazione.[^22b-2]
 
 <sup>2</sup> Le domande collettive che comportano le modifiche dell’informazione professionale secondo l’allegato 4 numero 3 rubriche 4–16 o, per i medicamenti veterinari, l’allegato 6 numero 4 rubriche 4–6, sono ammesse soltanto se si tratta di testi collettivi di cui al capoverso 4.
 
@@ -442,7 +439,10 @@ Le modifiche relative nelle singole categorie secondo gli articoli 21–24 OM[^2
 
 <sup>4</sup> È considerato testo collettivo il testo di un’informazione professionale o, se questa non è disponibile, di un foglietto illustrativo comune per diverse forme farmaceutiche dello stesso principio attivo.
 
+[^sec5a-3]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^sec5a-4]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
 [^22b-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^22b-2]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
 
 #### Art. 22c
 
@@ -1172,14 +1172,24 @@ Allegato 7*[^t-13]*
 
 (art. 22*a*)
 
-## Lista delle modifiche secondo gli articoli 21−24 OM**** ****
+## Lista delle modifiche per i medicamenti per uso umano secondo gli articoli 21−24 OM****
 
-[^annex7-lvlu1-1][^annex7-lvlu1-2]
+[^annex7-lvlu1-1]
 
-[^t-13]: Introdotto dal n. II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto dell’8 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)).
-[^annex7-lvlu1-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
-[^annex7-lvlu1-2]: Il testo del presente all. non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-13]: Introdotto dal n. II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nuovo testo giusta il n. II cpv. 1 dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^annex7-lvlu1-1]: Il testo del presente all. non è pubblicato nella RU (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
 
-Allegati 8 e 9*[^t-14]*
+Allegato 7a*[^t-14]*
 
-[^t-14]: Introdotti dal n. II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Abrogati dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+(art. 22*a*)
+
+## Lista delle modifiche per i medicamenti veterinari secondo gli articoli 25*a* e 25*b* OM****
+
+[^annex7a-lvlu1-1]
+
+[^t-14]: Introdotto dal n. II cpv. 2 dell’O del Consiglio dell’Istituto del 12 gen. 2022, in vigore dal 28 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^annex7a-lvlu1-1]: Il testo del presente allegato non è pubblicato nella RU e nella RS (art. 5 LPubb, [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È consultabile online all’indirizzo: www.swissmedic.ch.
+
+Allegati 8 e 9*[^t-15]*
+
+[^t-15]: Introdotti dal n. II dell’O del Consiglio dell’Istituto del 12 set. 2002 ([RU 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Abrogati dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).

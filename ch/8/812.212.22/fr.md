@@ -4,11 +4,11 @@ title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 9 novemb
 short: OEMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: fr
-version: 2020-07-01
+version: 2022-01-28
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-517-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20220128/fr/xml/fedlex-data-admin-ch-eli-cc-2001-517-20220128-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20220128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20200701/fr"
 
 (Ordonnance sur les exigences relatives aux médicaments, OEMéd)
 
-du 9 novembre 2001 (Etat le 1<sup>er</sup> juillet 2020)
+du 9 novembre 2001 (Etat le 28 janvier 2022)
 
 Le Conseil de l’Institut suisse des produits thérapeutiques (Conseil de l’institut),
 
@@ -419,25 +419,27 @@ Swissmedic libère les lots dans la mesure où ils satisfont aux spécifications
 
 [^22-1]: Abrogé par le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
-## Section 5*a***** Modifications au sens des art. 21 à 24 OMéd
+## Section 5*a***** Modifications de l’autorisation de mise sur le marché des médicaments au sens des art. 21 à 24, 25*a* et 25*b* OMéd****
 
-[^sec5a-1]
+[^sec5a-1][^sec5a-2]
 
 [^sec5a-1]: Introduite par le ch. I de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)), nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^sec5a-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 12 janv. 2022, en vigueur depuis le 28 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
 
 #### Art. 22a
 
-**Classification des modifications**
+**Classification des modifications**[^22a-1]
 
-Les modifications entrant dans les différentes catégories au sens des art. 21 à 24 OMéd[^22a-1], les conditions devant le cas échéant être remplies et les documents devant à chaque fois être soumis sont régis par l’annexe 7.
+Les modifications entrant dans les différentes catégories au sens des art. 21 à 24, 25*a* et 25*b* OMéd[^22a-2], les conditions devant le cas échéant être remplies et les documents devant à chaque fois être soumis sont régis par les annexes 7 et 7*a*.
 
-[^22a-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^22a-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 12 janv. 2022, en vigueur depuis le 28 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^22a-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
 
 #### Art. 22b
 
 **Demandes groupées**
 
-<sup>1</sup> Les modifications au sens de l’art. 21, 22 ou 23 OMéd[^22b-1] peuvent être soumises collectivement dans le cadre d’une demande groupée dans la mesure où la même modification concerne simultanément plusieurs médicaments et qu’une documentation identique est présentée pour tous les médicaments concernés.
+<sup>1</sup> Les modifications au sens des art. 21 à 23, 25*a* et 25*b* OMéd[^22b-1] peuvent être soumises collectivement dans le cadre d’une demande groupée dans la mesure où la même modification concerne simultanément plusieurs médicaments et qu’une documentation identique est présentée pour tous les médicaments concernés.[^22b-2]
 
 <sup>2</sup> Les demandes groupées portant sur des modifications de l’information destinée aux professionnels dans les rubriques 4 à 16 mentionnées au ch. 3 de l’annexe 4 ou, pour les médicaments vétérinaires, dans les rubriques 4 à 6 mentionnées au ch. 4 de l’annexe 6 ne sont admises que s’il s’agit de textes communs au sens de l’al. 4.
 
@@ -446,6 +448,7 @@ Les modifications entrant dans les différentes catégories au sens des art. 21 
 <sup>4</sup> Par textes communs, on entend les textes d’information professionnelle ou, à défaut, de notice d’emballage, qui sont communs à plusieurs formes pharmaceutiques du même principe actif.
 
 [^22b-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^22b-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 12 janv. 2022, en vigueur depuis le 28 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
 
 #### Art. 22c
 
@@ -509,7 +512,7 @@ Annexe 1*[^t-1]*
 
 ## Textes et données devant figurer sur les récipients et le matériel d’emballage des médicaments à usage humain
 
-[^t-1]: Mise à jour selon le ch. II al. 3 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) et le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-1]: Mise à jour par le ch. II al. 3 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) et le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Exigences générales
 
@@ -580,7 +583,7 @@ Annexe 1*[^t-1]*
 
 c. si cela s’impose pour des motifs de lisibilité.
 
-### 3 Etiquetage de la catégorie de remise
+### 3 Étiquetage de la catégorie de remise
 
 <sup>1</sup> La catégorie de remise attribuée par Swissmedic doit dûment figurer sur l’emballage ou, à défaut, sur le récipient.
 
@@ -592,7 +595,7 @@ Annexe 1a*[^t-2]*
 
 ## Textes et données devant figurer sur les récipients et le matériel d’emballage des médicaments homéopathiques et anthroposophiques sans indication et des médicaments de gemmothérapie sans indication
 
-[^t-2]: Introduite par le ch. II al. 1 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Nouvelle teneur selon le ch. II al. 1 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)). Mise à jour selon le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-2]: Introduite par le ch. II al. 1 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Nouvelle teneur selon le ch. II al. 1 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)). Mise à jour par le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Exigences générales
 
@@ -655,7 +658,7 @@ Annexe 1a*[^t-2]*
 
 <sup>8</sup> Si plusieurs médicaments homéopathiques ou anthroposophiques destinés à une thérapie individuelle sans indication sont autorisés et emballés ensemble en vue de leur remise (p. ex. comme pharmacie homéopathique de voyage), l’emballage secondaire ne doit comporter aucune mention pouvant fournir une indication ou un champ d’application. La mention doit alors contenir les données fixées au ch. 1, let. b, et l’étiquetage de tous les médicaments doit répondre aux exigences prévues aux ch. 1, let. a, d à g et i à l et 2, al. 1 à 3 et 6. Si l’indication mentionnée au ch. 1, let. h, ne peut pas être apposée sur tous les médicaments contenus dans l’emballage, elle doit alors figurer de manière permanente sur l’emballage secondaire (p. ex. sur l’étui).
 
-### 3 Etiquetage de la catégorie de remise
+### 3 Étiquetage de la catégorie de remise
 
 <sup>1</sup> La catégorie de remise attribuée par Swissmedic doit dûment figurer sur l’emballage extérieur ou, à défaut, sur le récipient.
 
@@ -777,7 +780,7 @@ Annexe 4*[^t-7]*
 
 ## Exigences relatives à l’information destinée aux professionnels des médicaments à usage humain
 
-[^t-7]: Mise à jour selon le ch. II al. 3 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) et le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-7]: Mise à jour par le ch. II al. 3 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) et le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Remarques générales
 
@@ -835,7 +838,7 @@ Annexe 5.1*[^t-8]*
 
 ## Exigences relatives à la notice d’emballage des médicaments à usage humain («information destinée aux patients»)
 
-[^t-8]: Mise à jour selon le ch. II al. 3 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) et le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-8]: Mise à jour par le ch. II al. 3 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) et le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Remarques générales
 
@@ -896,7 +899,7 @@ Annexe 5.2*[^t-9]*
 
 ## Exigences relatives à l’information destinée aux patients pour les médicaments homéopathiques et anthroposophiques
 
-[^t-9]: Mise à jour selon le ch. II al. 3 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) et le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-9]: Mise à jour par le ch. II al. 3 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) et le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Remarques générales
 
@@ -954,7 +957,7 @@ Annexe 5.3*[^t-10]*
 
 ## Exigences relatives à l’information destinée aux patients pour les phytomédicaments
 
-[^t-10]: Mise à jour selon le ch. II al. 3 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) et le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-10]: Mise à jour par le ch. II al. 3 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)), le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2012 ([RO 2012 5651](https://fedlex.data.admin.ch/eli/oc/2012/659)) et le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Remarques générales
 
@@ -1022,7 +1025,7 @@ Annexe 5.4*[^t-11]*
 
 ## Exigences relatives à l’information destinée aux patients pour les médicaments asiatiques sans indication
 
-[^t-11]: Introduite par le ch. II al. 1 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Mise à jour selon le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+[^t-11]: Introduite par le ch. II al. 1 de l’O du Conseil de l’Institut du 22 juin 2006 ([RO 2006 3587](https://fedlex.data.admin.ch/eli/oc/2006/557)). Mise à jour par le ch. II al. 3 de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
 ### 1 Remarques générales
 
@@ -1071,9 +1074,9 @@ Conformez-vous aux indications fournies par votre médecin ou votre thérapeute 
 
 Quels sont les effets secondaires possibles de ce médicament?
 
-L’utilisation de médicaments, même issus de la médecine chinoise *[ou tibétaine ou ayurvédique]*, peut entraîner des effets secondaires. A ce jour, en cas d’usage conforme à celui auquel ils sont destinés, on a pu constater que certains médicaments avaient les effets secondaires suivants: nausée, perte d’appétit, lourdeurs d’estomac, renvois, constipation ou diarrhée, allergies, éruptions cutanées et maux de tête. L’utilisation correcte du médicament et le respect des mesures de précaution requises permettent cependant généralement d’éviter tout effet secondaire grave. Veillez à signaler tout effet secondaire que vous pourriez constater au spécialiste qui vous suit ou qui vous a remis le médicament.
+L’utilisation de médicaments, même issus de la médecine chinoise *[ou tibétaine ou ayurvédique]*, peut entraîner des effets secondaires. À ce jour, en cas d’usage conforme à celui auquel ils sont destinés, on a pu constater que certains médicaments avaient les effets secondaires suivants: nausée, perte d’appétit, lourdeurs d’estomac, renvois, constipation ou diarrhée, allergies, éruptions cutanées et maux de tête. L’utilisation correcte du médicament et le respect des mesures de précaution requises permettent cependant généralement d’éviter tout effet secondaire grave. Veillez à signaler tout effet secondaire que vous pourriez constater au spécialiste qui vous suit ou qui vous a remis le médicament.
 
-A quoi faut-il encore faire attention?
+À quoi faut-il encore faire attention?
 
 Pour autant que votre médecin ou votre thérapeute n’en ait pas décidé autrement, ce médicament est destiné à une utilisation immédiate et ne doit donc pas être conservé en vue d’un traitement ultérieur. Tous les médicaments, y compris les granulés et les plantes, doivent être entreposés dans un endroit sec et à l’abri de la lumière, à température ambiante (15 à 25 °C) et hors de portée des enfants.
 
@@ -1164,7 +1167,7 @@ Annexe 6*[^t-12]*
 <tr><td>2.</td><td>Composition quantitative en principes actifs et en excipients revêtant un intérêt particulier</td></tr>
 <tr><td>3.</td><td>Forme pharmaceutique</td></tr>
 <tr><td>4.</td><td>Données cliniques Subdivisions en: 4.1 Espèces animales cibles 4.2 Champs d’application avec mention des espèces animales cibles (indications) 4.3 Contre-indications 4.4 Mises en garde particulières pour chaque espèce animale cible 4.5 Précautions d’emploi particulières 4.6 Effets secondaires avec indication de la fréquence et de la sévérité (effets indésirables) 4.7 Utilisation en cas de gravidité, de lactation ou de période de ponte 4.8 Interactions médicamenteuses et autres 4.9 Posologie et mode d’administration 4.10 Surdosage (symptômes, conduite d’urgence, antidotes), si nécessaire 4.11 Délais d’attente</td></tr>
-<tr><td>5.</td><td>Propriétés pharmacologiques (y compris le code ATCvet) Subdivisions en: 5.1 Propriétés pharmacodynamiques 5.2 Eléments de pharmacocinétique (le cas échéant, données sur l’impact sur l’environnement)</td></tr>
+<tr><td>5.</td><td>Propriétés pharmacologiques (y compris le code ATCvet) Subdivisions en: 5.1 Propriétés pharmacodynamiques 5.2 Éléments de pharmacocinétique (le cas échéant, données sur l’impact sur l’environnement)</td></tr>
 <tr><td>6.</td><td>Informations pharmaceutiques Subdivisions en: 6.1 Liste des autres composants (liste complète des excipients) 6.2 Incompatibilités fondamentales 6.3 Durée de conservation 6.4 Consignes particulières de conservation 6.5 Nature et composition du récipient 6.6 Précautions particulières d’élimination des médicaments à usage vétérinaire non utilisés ou des déchets dérivés de médicaments à usage vétérinaire</td></tr>
 <tr><td>7.</td><td>Titulaire de l’autorisation</td></tr>
 <tr><td>8.</td><td>Numéro d’autorisation</td></tr>
@@ -1198,14 +1201,24 @@ Annexe 7*[^t-13]*
 
 (art. 22*a*)
 
-## Liste des modifications au sens des art. 21 à 24 OMéd********
+## Liste des modifications pour les médicaments à usage humain au sens des art. 21 à 24 OMéd****
 
-[^annex7-lvlu1-1][^annex7-lvlu1-2]
+[^annex7-lvlu1-1]
 
-[^t-13]: Introduite par le ch. II de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 8 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)).
-[^annex7-lvlu1-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
-[^annex7-lvlu1-2]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^t-13]: Introduite par le ch. II al. 1 de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Nouvelle teneur selon le ch. II de l’O du Conseil de l’Institut du 12 janv. 2022, en vigueur depuis le 28 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^annex7-lvlu1-1]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
 
-Annexes 8 et 9*[^t-14]*
+Annexe 7a*[^t-14]*
 
-[^t-14]: Introduites par le ch. II de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Abrogées par le ch. II al. 1 de l’O du Conseil de l’Institut du 7 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
+(art. 22*a*)
+
+## Liste des modifications pour les médicaments vétérinaires au sens des art. 25*a* et 25*b* OMéd****
+
+[^annex7a-lvlu1-1]
+
+[^t-14]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 12 janv. 2022, en vigueur depuis le 28 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)).
+[^annex7a-lvlu1-1]: Le texte de la présente annexe n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+
+Annexes 8 et 9*[^t-15]*
+
+[^t-15]: Introduites par le ch. II de l’O du Conseil de l’Institut du 12 sept. 2002 ([RO 2002 3660](https://fedlex.data.admin.ch/eli/oc/2002/559)). Abrogées par le ch. II al. 1 de l’O du Conseil de l’Institut du 7 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
