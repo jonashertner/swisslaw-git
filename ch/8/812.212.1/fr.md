@@ -4,11 +4,11 @@ title: Ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des 
 short: OAMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: fr
-version: 2020-01-01
+version: 2022-01-28
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220128/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220128-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20200101/fr"
 
 (OAMéd)
 
-du 14 novembre 2018 (Etat le 1<sup>er</sup> janvier 2020)
+du 14 novembre 2018 (Etat le 28 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -263,7 +263,9 @@ Si des médicaments prêts à l’emploi sont fabriqués dans un État avec lequ
 
 <sup>1</sup> Le titulaire d’une autorisation au sens de l’art. 11 assume la responsabilité de toutes les activités qu’il exerce.
 
-<sup>2</sup> L’importation, le commerce de gros et l’exportation de médicaments prêts à l’emploi doivent être conformes aux règles des BPD visées à l’annexe 4. Ces règles sont applicables par analogie aux médicaments à usage vétérinaire et aux médicaments non prêts à l’emploi.
+<sup>2</sup> L’importation, l’exportation et le commerce de gros de médicaments doivent être conformes aux règles des BPD visées à l’annexe 4.[^15-1]
+
+[^15-1]: Nouvelle teneur selon le ch. I 1 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 16
 
@@ -1053,7 +1055,7 @@ Annexe 1*[^t-1]*
 
 ## Règles internationales des bonnes pratiques de fabrication
 
-[^t-1]: Mise à jour selon l’erratum du 16 juil. 2019 ([RO 2019 2195](https://fedlex.data.admin.ch/eli/oc/2019/409)).
+[^t-1]: Mise à jour par l’erratum du 16 juil. 2019 ([RO 2019 2195](https://fedlex.data.admin.ch/eli/oc/2019/409)).
 
 - 1\.
 
@@ -1080,7 +1082,7 @@ Annexe 2*[^t-2]*
 
 ## Règles de bonnes pratiques de fabrication de médicaments en petites quantités
 
-[^t-2]: Mise à jour selon l’erratum du 16 juil. 2019 ([RO 2019 2195](https://fedlex.data.admin.ch/eli/oc/2019/409)).
+[^t-2]: Mise à jour par l’erratum du 16 juil. 2019 ([RO 2019 2195](https://fedlex.data.admin.ch/eli/oc/2019/409)).
 
 Les chap. 20.1 et 20.2 de la Pharmacopée suisse[^annex2-lvlu1-1] sont applicables au titre de règles de bonnes pratiques de fabrication de médicaments en petites quantités.
 
@@ -1100,7 +1102,7 @@ Le facteur de risque doit toujours être calculé pour un médicament spécifiqu
 
 <table>
 <tr><th></th><th colspan="3">Facteur</th></tr>
-<tr><td>1. Mode d’utilisation:</td><td colspan="3"></td></tr>
+<tr><td>*1. Mode d’utilisation:*</td><td colspan="3"></td></tr>
 <tr><td>a. Voie parentérale</td><td colspan="3">5</td></tr>
 <tr><td>b. Utilisation ophtalmologique en chirurgie ou dans le cas de lésions traumatiques</td><td colspan="3">4</td></tr>
 <tr><td>c. Inhalation</td><td colspan="3">4</td></tr>
@@ -1108,7 +1110,7 @@ Le facteur de risque doit toujours être calculé pour un médicament spécifiqu
 <tr><td>e. Voie entérale</td><td colspan="3">3</td></tr>
 <tr><td>f. Utilisation ophtalmologique sur l’œil sans lésion</td><td colspan="3">1</td></tr>
 <tr><td>g. Utilisation topique</td><td colspan="3">1</td></tr>
-<tr><td>2. Production annuelle: quantité:</td><td colspan="3"></td></tr>
+<tr><td>*2. Production annuelle: quantité:*</td><td colspan="3"></td></tr>
 <tr><td>a. Médicaments sous forme liquide dans des unités d’emballage usuelles ou dans des unités d’application, en litres</td><td colspan="3">[tab]</td></tr>
 <tr><td>1. plus de 2000</td><td colspan="3">5</td></tr>
 <tr><td>2. 1000 à 2000</td><td colspan="3">4</td></tr>
@@ -1139,18 +1141,18 @@ Le facteur de risque doit toujours être calculé pour un médicament spécifiqu
 <tr><td>3. 50 à 99</td><td colspan="3">3</td></tr>
 <tr><td>4. 10 à 49</td><td colspan="3">2</td></tr>
 <tr><td>5. moins de 10</td><td colspan="3">1</td></tr>
-<tr><td>3. Risques inhérents au principe actif:</td><td colspan="3"></td></tr>
+<tr><td>*3. Risques inhérents au principe actif:*</td><td colspan="3"></td></tr>
 <tr><td>a. Risque élevé</td><td colspan="3">5</td></tr>
 <tr><td>b. Risque moyen</td><td colspan="3">3</td></tr>
 <tr><td>c. Risque faible</td><td colspan="3">1</td></tr>
 <tr><td colspan="4">Le risque que présente un principe actif doit être évalué au moins en fonction des critères suivants: caractère cancérigène, caractère mutagène, toxicité environnementale, risque allergène, spectre thérapeutique, unité de dose, stabilité en cas d’exposition à la lumière ou à l’oxygène, variations de la température et modification de la valeur du pH, qualité pharmaceutique, conformité avec la pharmacopée.</td></tr>
-<tr><td>4. Procédés de fabrication:</td><td colspan="3"></td></tr>
+<tr><td>*4. Procédés de fabrication:*</td><td colspan="3"></td></tr>
 <tr><td>a. Fabrication aseptique</td><td colspan="3">5</td></tr>
 <tr><td>b. Fabrication avec stérilisation finale</td><td colspan="3">4</td></tr>
 <tr><td>c. Dissolution et mélange</td><td colspan="3">3</td></tr>
 <tr><td>d. Dilution</td><td colspan="3">2</td></tr>
 <tr><td>e. Conditionnement des formes de médicaments non stériles</td><td colspan="3">1</td></tr>
-<tr><td colspan="2">5. Rapport entre les médicaments fabriqués à façon et les médicaments destinés à être remis à la clientèle de l’établissement:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">*5. Rapport entre les médicaments fabriqués à façon et les médicaments destinés à être remis à la clientèle de l’établissement:*</td><td colspan="2"></td></tr>
 <tr><td>a. Fabrication exclusivement pour une commande à façon</td><td colspan="3">5</td></tr>
 <tr><td>b. Fabrication principalement pour une commande à façon (rapport d’environ 2:1)</td><td colspan="3">4</td></tr>
 <tr><td>c. Répartition équilibrée (rapport de 1:1)</td><td colspan="3">3</td></tr>
@@ -1160,21 +1162,30 @@ Le facteur de risque doit toujours être calculé pour un médicament spécifiqu
 
 Annexe 4*[^t-3]*
 
-(art. 13, al. 2, let. d, 15, al. 2, 17, al. 2, et 45, let. d)
+(art. 13, al. 2, let. d, 15, al. 2, 17, al. 2, 20, al. 3, 45, let. d, 49, al. 5)
 
 ## Règles internationales des bonnes pratiques de distribution
 
-[^t-3]: Mise à jour selon l’erratum du 16 juil. 2019 ([RO 2019 2195](https://fedlex.data.admin.ch/eli/oc/2019/409)).
+[^t-3]: Nouvelle teneur selon le ch. I 1 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 Sont applicables au titre de règles de bonnes pratiques de distribution (BPD) les dispositions suivantes:
 
 - a. lignes directrices de la Commission européenne du 5 novembre 2013 concernant les bonnes pratiques de distribution en gros des médicaments à usage humain[^annex4-lvlu1-1];
-- b. *dispositions particulières pour les principes actifs:* guide des bonnes pratiques de fabrication pour les médicaments à usage humain et les médicaments à usage vétérinaire de la Commission européenne (EudraLex, volume 4), part II[^annex4-lvlu1-2];
-- c. *dispositions particulières pour les aliments médicamenteux pour animaux**:* directive 90/167/CEE établissant les conditions de préparation, de mise sur le marché et d’utilisation des aliments médicamenteux pour animaux dans la Communauté[^annex4-lvlu1-3].
+- b. règlement d’exécution (UE) 2021/1248[^annex4-lvlu1-2];
+- c.
 
-[^annex4-lvlu1-1]: Communication de la Commission européenne JO C 343 du 23.11.2013, p. 1.
-[^annex4-lvlu1-2]: Le guide n’est disponible qu’en anglais sous le lien suivant: http://ec.europa.eu/health/documents/eudralex/vol-4/index\_en.htm
-[^annex4-lvlu1-3]: Version selon JO L 92 du 7.4.1990, p. 42.
+  dispositions particulières pour les principes actifs:
+
+  - 1\. lignes directrices de la Commission européenne du 19 mars 2015 concernant les principes de bonnes pratiques de distribution des substances actives des médicaments à usage humain[^annex4-lvlu1-3],
+  - 2\. règlement d’exécution (UE) 2021/1280[^annex4-lvlu1-4];
+
+- d. dispositions particulières pour les aliments médicamenteux pour animaux: par analogie au règlement (UE) n<sup>o</sup> 2019/4[^annex4-lvlu1-5].
+
+[^annex4-lvlu1-1]: Communication de la Commission européenne, JO C 343 du 23.11.2013, p. 1.
+[^annex4-lvlu1-2]: Règlement d’exécution (UE) 2021/1248 de la Commission du 29 juillet 2021 concernant les mesures relatives aux bonnes pratiques de distribution des médicaments vétérinaires conformément au règlement (UE) 2019/6 du Parlement européen et du Conseil; version du JO L 272 du 30.7.2021, p. 46.
+[^annex4-lvlu1-3]: Communication de la Commission européenne, JO C 95 du 21.3.2015, p. 1.
+[^annex4-lvlu1-4]: Règlement d’exécution (UE) 2021/1280 de la Commission du 2 août 2021 concernant les mesures relatives aux bonnes pratiques de distribution des substances actives utilisées comme matières premières dans les médicaments vétérinaires conformément au règlement (UE) 2019/6 du Parlement européen et du Conseil; version du JO L 279 du 3.8.2021, p. 1.
+[^annex4-lvlu1-5]: Règlement (UE) 2019/4 du Parlement européen et du Conseil du 11 décembre 2018 concernant la fabrication, la mise sur le marché et l’utilisation d’aliments médicamenteux pour animaux, modifiant le règlement (CE) n<sup>o</sup> 183/2005 du Parlement européen et du Conseil et abrogeant la directive 90/167/CEE du Conseil; version du JO L 4 du 7.1.2019, p. 1.
 
 Annexe 5
 

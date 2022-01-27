@@ -4,11 +4,11 @@ title: "Ordinance of 14 November 2018 on Licensing in the Medicinal Products Sec
 short: MPLO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: en
-version: 2020-01-01
+version: 2022-01-28
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220128/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220128-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220128/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Medicinal Products Licensing Ordinance, MPLO)
 
-of 14 November 2018 (Status as of 1 January 2020)
+of 14 November 2018 (Status as of 28 January 2022)
 
 The Swiss Federal Council,
 
@@ -73,7 +73,9 @@ In this Ordinance:
 - l. *wholesale trade* means all activities relating to the paid or unpaid transferring or provision of medicinal products – from acquisition, stockage, storage, offering and advertising to the supply of medicinal products – to persons authorised to trade in them, process them, dispense them or use them in a professional capacity;
 - m. *import* means all the activities listed under letter l relating to the transport of medicinal products into Switzerland;
 - n. *export* means all the activities listed under letter l relating to the transport of medicinal products out of Switzerland;
-- o. *technical release* means the decision taken on completion of manufacture or of a step in the manufacturing process confirming that the batch in question conforms to the requirements of internal or external clients in terms of composition, manufacturing procedure, specifications and quality and was manufactured in compliance with the rules of Good Manufacturing Practice (GMP) as shown in Annex 1 or 2.
+- o. *technical release* means the decision taken on completion of manufacture or of a step in the manufacturing process confirming that the batch in question conforms to the requirements of internal or external clients in terms of composition, manufacturing procedure, specifications and quality and was manufactured in compliance with the rules of Good Manufacturing Practice (GMP[^2-1]) as shown in Annex 1 or 2.
+
+[^2-1]: Footnote not relevant to the English text.
 
 ## Chapter 2 Establishment Licences
 
@@ -247,11 +249,13 @@ They check whether:
 - a. a valid batch certificate issued by the manufacturer is available and whether the batch was manufactured in conformity with the GMP rules described in Annex 1;
 - b. the batch in question fulfils the requirements of the authorisation;
 - c. the conditions described in Articles 11 and 12 have been fulfilled; and
-- d. the entire supply chain is in conformity with the authorisation and the GDP rules described in Annex 4.
+- d. the entire supply chain is in conformity with the authorisation and the GDP[^13-1] rules described in Annex 4.
 
 <sup>3</sup> Swissmedic may specify additional checks.
 
 <sup>4</sup> The Responsible Person confirms that the checks described in paragraphs 2 and 3 have been performed.
+
+[^13-1]: Stands for: *Good Distribution Practice*
 
 #### Art. 14
 
@@ -265,7 +269,9 @@ If ready-to-use medicinal products are manufactured in a State with which Switze
 
 <sup>1</sup> Holders of a licence under Article 11 bear responsibility for the activities they carry out.
 
-<sup>2</sup> The import, export and wholesale trading of ready-to-use medicinal products must conform to the GDP rules described in Annex 4. These rules also apply by analogy to veterinary medicinal products and non-ready-to-use medicinal products.
+<sup>2</sup> The import, export and wholesale trading of medicinal products must conform to the GDP rules described in Annex 4.[^15-1]
+
+[^15-1]: Amended by No I 1 of the O of 12 Jan. 2022 on Amendments related to the new EU Veterinary Medicinal Products Law, in force since 28 Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 16
 
@@ -1160,21 +1166,30 @@ The risk factor should always be calculated for a particular medicinal product. 
 
 Annex 4*[^t-3]*
 
-(Art. 13 para. 2 let. d, 15 para. 2, 17 para. 2, 45 let. d)
+(Art. 13 para. 2 let. d, 15 para. 2, 17 para. 2, 20 para. 3, 45 let. d, 49 para. 5)
 
 ## International rules of Good Distribution Practice
 
-[^t-3]: Revised in accordance with the correction of 16 July 2019 ([AS 2019 2195](https://fedlex.data.admin.ch/eli/oc/2019/409)).
+[^t-3]: Amended by No I 1 of the O of 12 Jan. 2022 on Amendments related to the new EU Veterinary Medicinal Products Law, in force since 28 Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 The following guidelines apply as rules of Good Distribution Practice (GDP):
 
 - a. European Commission Guidelines of 5 November 2013[^annex4-lvlu1-1] on Good Distribution Practice of medicinal products for human use;
-- b. *Special provisions for active pharmaceutical ingredients:* Guide to Good Manufacturing Practice for medicinal products for human use and medicinal products for veterinary use of the European Commission (EudraLex, Volume 4) Part II[^annex4-lvlu1-2];
-- c. *Special provisions for medicated feedingstuffs:* Council Directive 90/167/ EEC[^annex4-lvlu1-3] laying down the conditions governing the preparation, placing on the market and use of medicated feedingstuffs in the Community.
+- b. Implementing Regulation (EU) 2021/1248[^annex4-lvlu1-2];
+- c.
+
+  Special provisions for active pharmaceutical ingredients:
+
+  - 1\. European Commission Guidelines of 19 March 2015[^annex4-lvlu1-3] on principles of Good Distribution Practice of active substances for medicinal products for human use,
+  - 2\. Implementing Regulation (EU) 2021/1280[^annex4-lvlu1-4];
+
+- c. *Special provisions for medicated feedingstuffs:* by analogy with Regulation (EU) 2019/4[^annex4-lvlu1-5].
 
 [^annex4-lvlu1-1]: Communication of the European Commission, OJ C 343 of 23.11.2013, p. 1.
-[^annex4-lvlu1-2]: This text is only available in English. It can be found at: https://ec.europa.eu/health/documents/eudralex/vol-4\_en
-[^annex4-lvlu1-3]: OJ L 92 of 7.4.1990, p. 42.
+[^annex4-lvlu1-2]: Commission Implementing Regulation (EU) 2021/1248 of 29 July 2021 as regards measures on good distribution practice for veterinary medicinal products in accordance with Regulation (EU) 2019/6 of the European Parliament and of the Council; Amended by OJ L 272 of 30.7.2021, p. 46.
+[^annex4-lvlu1-3]: Communication of the European Commission, OJ C 95 of 21.3.2015, p. 1.
+[^annex4-lvlu1-4]: Commission Implementing Regulation (EU) 2021/1280 of 2 August 2021 as regards measures on good distribution practice for active substances used as starting materials in veterinary medicinal products in accordance with Regulation (EU) 2019/6 of the European Parliament and of the Council; last amended by OJ L 279 of 3.8.2021, p. 1.
+[^annex4-lvlu1-5]: Regulation (EU) 2019/4 of the European Parliament and of the Council of 11 December 2018 on the manufacture, placing on the market and use of medicated feed, amending Regulation (EC) No 183/2005 of the European Parliament and of the Council and repealing Council Directive 90/167/EEC; last amended by OJ L 4 of 7.1.2019, p. 1.
 
 Annex 5
 
@@ -1281,5 +1296,5 @@ The ordinances listed below are amended as follows:
 
 ... [^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[AS 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 2, [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 40 [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Annex 3 No 2 [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)Annex 7 No 1 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)No II 2, [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584), [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)Art. 27 No 2 [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)No II, [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)No I 3, [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281)[5935](https://fedlex.data.admin.ch/eli/oc/2017/650)Annex No 2, [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)Annex 6 No II 3]
+[^annex8-lvlu1-1]: [[AS 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 2; [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 40, [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Annex 3 No 2, [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)Annex 7 No 1, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)No II 2; [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584); [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)Art. 27 No 2, [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)No II; [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)No I 3; [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281), [5935](https://fedlex.data.admin.ch/eli/oc/2017/650)Annex No 2; [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)Annex 6 No II 3]
 [^annex8-lvlu1-2]: The amendments can be consulted under [AS 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786).

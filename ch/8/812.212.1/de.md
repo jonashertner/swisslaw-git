@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2018 über die Bewilligungen im Arzneimittelb
 short: AMBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: de
-version: 2020-01-01
+version: 2022-01-28
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220128/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220128-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20200101/de"
 
 (Arzneimittel-Bewilligungsverordnung; AMBV)
 
-vom 14. November 2018 (Stand am 1. Januar 2020)
+vom 14. November 2018 (Stand am 28. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -267,7 +267,9 @@ Werden verwendungsfertige Arzneimittel in einem Staat hergestellt, mit dem die S
 
 <sup>1</sup> Die Person, die eine Bewilligung nach Artikel 11 innehat, trägt die Verantwortung für die von ihr durchgeführten Tätigkeiten.
 
-<sup>2</sup> Die Einfuhr, die Ausfuhr und der Grosshandel mit verwendungsfertigen Arzneimitteln müssen den GDP-Regeln nach Anhang 4 entsprechen. Diese Regeln gelten sinngemäss auch für Tierarzneimittel und für nicht verwendungsfertige Arzneimittel.
+<sup>2</sup> Die Einfuhr, die Ausfuhr und der Grosshandel mit Arzneimitteln müssen den GDP-Regeln nach Anhang 4 entsprechen.[^15-1]
+
+[^15-1]: Fassung gemäss Ziff. I 1 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 16
 
@@ -1104,7 +1106,7 @@ Der Risikofaktor ist jeweils für ein bestimmtes Arzneimittel zu berechnen. Ergi
 
 <table>
 <tr><th></th><th>Faktor</th></tr>
-<tr><td>1. Anwendungsart:</td><td></td></tr>
+<tr><td>*1. Anwendungsart:*</td><td></td></tr>
 <tr><td>a. parenterale Anwendung</td><td>5</td></tr>
 <tr><td>b. ophthalmologische Anwendung in der Chirurgie oder bei traumatischen Verletzungen</td><td>4</td></tr>
 <tr><td>c. inhalative Anwendung</td><td>4</td></tr>
@@ -1112,7 +1114,7 @@ Der Risikofaktor ist jeweils für ein bestimmtes Arzneimittel zu berechnen. Ergi
 <tr><td>e. enterale Anwendung</td><td>3</td></tr>
 <tr><td>f. ophthalmologische Anwendung am unverletzten Auge</td><td>1</td></tr>
 <tr><td>g. topische Anwendung</td><td>1</td></tr>
-<tr><td>2. Jährliche Produktionsmenge:</td><td></td></tr>
+<tr><td>*2. Jährliche Produktionsmenge:*</td><td></td></tr>
 <tr><td>a. flüssige Arzneiformen in üblichen Packungseinheiten oder Applikationseinheiten in Liter</td><td></td></tr>
 <tr><td>1. mehr als 2000</td><td>5</td></tr>
 <tr><td>2. 1000–2000</td><td>4</td></tr>
@@ -1143,18 +1145,18 @@ Der Risikofaktor ist jeweils für ein bestimmtes Arzneimittel zu berechnen. Ergi
 <tr><td>3. 50–99</td><td>3</td></tr>
 <tr><td>4. 10–49</td><td>2</td></tr>
 <tr><td>5. weniger als 10</td><td>1</td></tr>
-<tr><td>3. Inhärente Risiken des Wirkstoffs:</td><td></td></tr>
+<tr><td>*3. Inhärente Risiken des Wirkstoffs:*</td><td></td></tr>
 <tr><td>a. hohes Risiko</td><td>5</td></tr>
 <tr><td>b. mittleres Risiko</td><td>3</td></tr>
 <tr><td>c. geringes Risiko</td><td>1</td></tr>
 <tr><td colspan="2">Bei der Einstufung des Risikos eines Wirkstoffs werden mindestens folgende Kriterien beurteilt: Kanzerogenität, Mutagenität, Umwelttoxizität, Allergierisiko, therapeutische Breite, Dosierungseinheit, Stabilität bei Licht- oder Sauerstoffexposition, Temperaturschwankungen und pH-Wert-Änderungen, pharmazeutische Qualität, Pharmakopöekonformität.</td></tr>
-<tr><td>4. Herstellungsprozess:</td><td></td></tr>
+<tr><td>*4. Herstellungsprozess:*</td><td></td></tr>
 <tr><td>a. aseptische Herstellung</td><td>5</td></tr>
 <tr><td>b. Herstellung mit Endsterilisation</td><td>4</td></tr>
 <tr><td>c. lösen und mischen</td><td>3</td></tr>
 <tr><td>d. verdünnen</td><td>2</td></tr>
 <tr><td>e. abfüllen nicht steriler Arzneiformen</td><td>1</td></tr>
-<tr><td>5. Mengenverhältnis: im Lohnauftrag hergestellte Arzneimittel – für die Abgabe an die eigene Kundschaft hergestellte Arzneimittel:</td><td></td></tr>
+<tr><td>*5. Mengenverhältnis: im Lohnauftrag hergestellte Arzneimittel – für die Abgabe an die eigene Kundschaft hergestellte Arzneimittel:*</td><td></td></tr>
 <tr><td>a. ausschliesslich im Lohnauftrag</td><td>5</td></tr>
 <tr><td>b. hauptsächlich im Lohnauftrag (Verhältnis: rund 2:1)</td><td>4</td></tr>
 <tr><td>c. ausgeglichen (Verhältnis: rund 1:1)</td><td>3</td></tr>
@@ -1164,21 +1166,31 @@ Der Risikofaktor ist jeweils für ein bestimmtes Arzneimittel zu berechnen. Ergi
 
 Anhang 4*[^t-3]*
 
-(Art. 13 Abs. 2 Bst. d, 15 Abs. 2, 17 Abs. 2, 45 Bst. d)
+(Art. 13 Abs. 2 Bst. d, 15 Abs. 2, 17 Abs. 2, 20 Abs. 3, 45 Bst. d, 49 Abs. 5)
 
 ## Internationale Regeln der Guten Vertriebspraxis
 
-[^t-3]: Bereinigt gemäss Berichtigung vom 16. Juli 2019 ([AS 2019 2195](https://fedlex.data.admin.ch/eli/oc/2019/409)).
+[^t-3]: Fassung gemäss Ziff. I 1 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 Als Regeln der Guten Vertriebspraxis (Good Distribution Practice; GDP) sind folgende Bestimmungen anwendbar:
 
 - a. Leitlinien der Europäischen Kommission vom 5. November 2013[^annex4-lvlu1-1] für die Gute Vertriebspraxis von Humanarzneimitteln;
-- b. *besondere Bestimmungen für pharmazeutische Wirkstoffe:* Leitfaden für die gute Herstellungspraxis, Humanarzneimittel und Tierarzneimittel der Europäischen Kommission (EudraLex Band 4) Teil II[^annex4-lvlu1-2];
-- c. *b**esondere Bestimmungen für Fütterungsarzneimittel:* Richtlinie 90/167/ EWG[^annex4-lvlu1-3] zur Festlegung der Bedingungen für die Herstellung, das Inverkehrbringen und die Verwendung von Fütterungsarzneimitteln in der Gemeinschaft.
+- b. Durchführungsverordnung (EU) 2021/1248[^annex4-lvlu1-2];
+- c.
+
+  besondere Bestimmungen für pharmazeutische Wirkstoffe:
+
+  - 1\. Leitlinien der Europäischen Kommission vom 19. März 2015[^annex4-lvlu1-3] zu den Grundsätzen der Guten Vertriebspraxis für Wirkstoffe von Humanarzneimitteln,
+  - 2\. Durchführungsverordnung (EU) 2021/1280[^annex4-lvlu1-4];
+
+- d. besondere Bestimmungen für Fütterungsarzneimittel: sinngemäss Verordnung (EU) 2019/4[^annex4-lvlu1-5].
+- [tab]
 
 [^annex4-lvlu1-1]: Mitteilung der Europäischen Kommission, ABl. C 343 vom 23.11.2013, S. 1.
-[^annex4-lvlu1-2]: Diesen Text gibt es nur auf Englisch. Er ist zu finden unter: https://ec.europa.eu/health/documents/eudralex/vol-4\_en
-[^annex4-lvlu1-3]: Fassung gemäss ABl. L 92 vom 7.4.1990, S. 42.
+[^annex4-lvlu1-2]: Durchführungsverordnung (EU) 2021/1248 der Kommission vom 29. Juli 2021 über Massnahmen zur guten Vertriebspraxis für Tierarzneimittel gemäss der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates; Fassung gemäss ABl. L 272 vom 30.7.2021, S. 46.
+[^annex4-lvlu1-3]: Mitteilung der Europäischen Kommission, ABl. C 95 vom 21.3.2015, S. 1.
+[^annex4-lvlu1-4]: Durchführungsverordnung (EU) 2021/1280 der Kommission vom 2. August 2021 über Massnahmen zur guten Vertriebspraxis für Wirkstoffe, die als Ausgangsstoffe für Tierarzneimittel verwendet werden, gemäss der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates; Fassung gemäss ABl. L 279 vom 3.8.2021, S. 1.
+[^annex4-lvlu1-5]: Verordnung (EU) 2019/4 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über die Herstellung, das Inverkehrbringen und die Verwendung von Arzneifuttermitteln, zur Änderung der Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Richtlinie 90/167/EWG des Rates; Fassung gemäss ABl. L 4 vom 7.1.2019, S. 1.
 
 Anhang 5
 
@@ -1285,5 +1297,5 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 …[^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[AS 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 2, [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 40 [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Anhang 3 Ziff. 2 [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)Anhang 7 Ziff. 1 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)Ziff. II 2, [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584), [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)Art. 27 Ziff. 2 [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)Ziff. II, [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)Ziff. I 3, [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281)[5935](https://fedlex.data.admin.ch/eli/oc/2017/650)Anhang Ziff. 2, [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)Anhang 6 Ziff. II 3]
+[^annex8-lvlu1-1]: [[AS 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 2; [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 40, [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Anhang 3 Ziff. 2, [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)Anhang 7 Ziff. 1, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)Ziff. II 2; [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584); [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)Art. 27 Ziff. 2, [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)Ziff. II; [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)Ziff. I 3; [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281), [5935](https://fedlex.data.admin.ch/eli/oc/2017/650)Anhang Ziff. 2; [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)Anhang 6 Ziff. II 3]
 [^annex8-lvlu1-2]: Die Änderungen können unter [AS 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)konsultiert werden.

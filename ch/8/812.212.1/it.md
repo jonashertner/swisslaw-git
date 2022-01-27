@@ -4,18 +4,18 @@ title: "Ordinanza del 14 novembre 2018 sulle autorizzazioni nel settore dei medi
 short: OAMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: it
-version: 2020-01-01
+version: 2022-01-28
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220128/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220128-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle autorizzazioni nel settore dei medicamenti (Ordinanza sull’autorizzazione dei medicamenti, OAMed)
 
-del 14 novembre 2018 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 14 novembre 2018 (Stato 28 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -265,7 +265,9 @@ Se i medicamenti pronti per l’uso vengono fabbricati in uno Stato con il quale
 
 <sup>1</sup> La persona che detiene un’autorizzazione secondo l’articolo 11 è responsabile delle attività che svolge.
 
-<sup>2</sup> L’importazione, l’esportazione e il commercio all’ingrosso di medicamenti pronti per l’uso devono essere conformi alle norme GDP di cui all’allegato 4. Tali norme si applicano per analogia anche ai medicamenti veterinari e ai medicamenti non pronti per l’uso.
+<sup>2</sup> L’importazione, l’esportazione e il commercio all’ingrosso di medicamenti devono essere conformi alle norme GDP di cui all’allegato 4.[^15-1]
+
+[^15-1]: Nuovo testo giusta il n. I 1 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 16
 
@@ -1162,21 +1164,30 @@ Il fattore di rischio deve essere calcolato per i singoli medicamenti. Se dalla 
 
 Allegato 4*[^t-3]*
 
-(art. 13 cpv. 2 lett. d, 15 cpv. 2, 17 cpv. 2, 45 lett. d)
+(art. 13 cpv. 2 lett. d, 15 cpv. 2, 17 cpv. 2, 20 cpv. 3, 45 lett. d, 49 cpv.5)
 
-## Norme internazionali della Buona prassi di distribuzione
+## Norme internazionali della buona prassi di distribuzione
 
-[^t-3]: Aggiornato dalla correzione del 16 lug. 2019 ([RU 2019 2195](https://fedlex.data.admin.ch/eli/oc/2019/409)).
+[^t-3]: Nuovo testo giusta il n. I 1 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
-Quali principi della Buona prassi di distribuzione (*Good Distribution Practice*; GDP) sono applicabili le seguenti disposizioni:
+Quali principi della buona prassi di distribuzione (Good Distribution Practice; GDP) sono applicabili le seguenti disposizioni:
 
-- a. linee guida della Commissione europea, del 5 novembre 2013[^annex4-lvlu1-1], sulle buone pratiche di distribuzione dei medicinali per uso umano;
-- b. *disposizioni particolari per i principi attivi farmaceutici:* linee guide della Commissione europea per le norme di Buona prassi di fabbricazione per i medicinali ad uso umano e veterinario (EudraLex, volume 4) parte II[^annex4-lvlu1-2];
-- c. *d**isposizioni particolari per i mangimi medicati:* direttiva 90/167/CEE[^annex4-lvlu1-3] che stabilisce le condizioni di preparazione, immissione sul mercato ed utilizzazione dei foraggi medicinali nella Comunità.
+- a. linee guida della Commissione europea del 5 novembre 2013[^annex4-lvlu1-1] sulle buone pratiche di distribuzione dei medicinali per uso umano;
+- b. regolamento di esecuzione (UE) 2021/1248[^annex4-lvlu1-2];
+- c.
+
+  disposizioni particolari per le sostanze attive farmaceutiche*:*
+
+  - 1\. linee guida della Commissione europea del 19 marzo 2015[^annex4-lvlu1-3] relative alle buone prassi di distribuzione di sostanze attive per la fabbricazione di medicinali per uso umano,
+  - 2\. regolamento di esecuzione (UE) 2021/1280[^annex4-lvlu1-4];
+
+- d. disposizioni particolari per i mangimi medicati: per analogia il regolamento (UE) 2019/4[^annex4-lvlu1-5].
 
 [^annex4-lvlu1-1]: Comunicazione della Commissione europea, GU C 343 del 23.11.2013, pag. 1.
-[^annex4-lvlu1-2]: Questo testo è disponibile solo in inglese alla pagina http://ec.europa.eu/health/documents/eudralex/vol-4/index\_en.htm
-[^annex4-lvlu1-3]: Versione della GU L 92 del 7.4.1990, pag. 42.
+[^annex4-lvlu1-2]: Regolamento di esecuzione (UE) 2021/1248 della Commissione del 29 luglio 2021 riguardante le misure in materia di buona pratica di distribuzione per i medicinali veterinari conformemente al regolamento (UE) 2019/6 del Parlamento europeo e del Consiglio, versione della GU L 272 del 30.7.2021, pag. 46.
+[^annex4-lvlu1-3]: Comunicazione della Commissione europea, GU C 95 del 21.3.2015, pag. 1.
+[^annex4-lvlu1-4]: Regolamento di esecuzione (UE) 2021/1280 della Commissione del 2 agosto 2021 riguardante le misure in materia di buona pratica di distribuzione per le sostanze attive utilizzate come materiali di partenza per i medicinali veterinari conformemente al regolamento (UE) 2019/6 del Parlamento europeo e del Consiglio, versione della GU L 279 del 3.8.2021, pag. 1.
+[^annex4-lvlu1-5]: Regolamento (UE) 2019/4 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, relativo alla fabbricazione, all’immissione sul mercato e all’utilizzo di mangimi medicati, che modifica il regolamento (CE) n. 183/2005 del Parlamento europeo e del Consiglio e che abroga la direttiva 90/167/CEE del Consiglio, versione della GU L 4 del 7.1.2019, pag. 1.
 
 Allegato 5
 
@@ -1283,5 +1294,5 @@ Le seguenti ordinanze sono modificate come segue:
 
 ...[^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[RU 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 2, [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 40 [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 2 [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 1 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)n. II 2, [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584), [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)art. 27 n. 2 [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)n. II, [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)n. I 3, [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281)[5935](https://fedlex.data.admin.ch/eli/oc/2017/650)all. n. 2, [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)all. 6 n. II 3]
+[^annex8-lvlu1-1]: [[RU 2001 3399](https://fedlex.data.admin.ch/eli/oc/2001/515); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 2; [2006 2945](https://fedlex.data.admin.ch/eli/oc/2006/449); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 40; [1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 2; [1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 1; [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)n. II 2; [2010 4031](https://fedlex.data.admin.ch/eli/oc/2010/584); [2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)art. 27 n. 2; [1901](https://fedlex.data.admin.ch/eli/oc/2015/365)n. II; [2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)n. I 3; [2017 2785](https://fedlex.data.admin.ch/eli/oc/2017/281), [5935](https://fedlex.data.admin.ch/eli/oc/2017/650)all. n. 2; [2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)all. 6 n. II 3]
 [^annex8-lvlu1-2]: Le mod. possono essere consultate alla [RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786).
