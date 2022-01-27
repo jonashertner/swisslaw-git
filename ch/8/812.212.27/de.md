@@ -4,11 +4,11 @@ title: "Verordnung vom 18. August 2004 über die Tierarzneimittel (Tierarzneimit
 short: TAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: de
-version: 2022-01-01
+version: 2022-01-28
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220128/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220128-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220101/de"
 
 (Tierarzneimittelverordnung, TAMV)
 
-vom 18. August 2004 (Stand am 1. Januar 2022)
+vom 18. August 2004 (Stand am 28. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 5 Absatz 2 Buchstabe b, 42 Absatz 3, 44 und 82 Absatz 2 des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-1] (HMG) sowie auf Artikel 9 des Lebensmittelgesetzes vom 9. Oktober 1992[^ingress-2] (LMG),
+gestützt auf die Artikel 5 Absatz 2 Buchstabe b, 42 Absatz 3, 42*a*, 44 und 82 Absatz 2 des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-1] (HMG) sowie auf Artikel 20 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das Lebensmittelgesetz vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-3]: Fassung gemäss Ziff. I 3 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -317,31 +318,33 @@ Für Nutztiere dürfen nur Arzneimittel umgewidmet werden:
 Tierarzneimittel, die für eine andere Zieltierart zugelassen sind, sowie Humanarzneimittel dürfen nur gemäss Zulassung appliziert werden. Für diese Arzneimittel gelten folgende Absetzfristen:
 
 - a.[^13-1] Wenn die im Arzneimittel enthaltenen Wirkstoffe in Anhang 2 aufgeführt sind, ist keine Absetzfrist notwendig.
-- b.[^13-2] Für ein Arzneimittel, in dem Wirkstoffe enthalten sind, für die das EDI keine Höchstkonzentration gestützt auf Artikel 10 Absatz 4 Buchstabe e LGV[^13-3] festgelegt oder eine Festlegung von Höchstkonzentrationen nicht für erforderlich erachtet hat, und das einem Tier verabreicht wird, das zur gleichen zoologischen Klasse gehört wie das Tier, für das es zugelassen ist, gilt die längste für diese Klasse geltende Absetzfrist; vorbehalten bleibt Buchstabe a.
-- c.
+- b.[^13-2] Für ein Arzneimittel, welches Wirkstoffe enthält, für die das EDI keine Höchstkonzentration gestützt auf Artikel 10 Absatz 4 Buchstabe e LGV[^13-3] festgelegt oder eine Festlegung von Höchstkonzentrationen nicht für erforderlich erachtet hat, und das einem Tier verabreicht wird, das zur gleichen zoologischen Klasse gehört wie das Tier, für das es zugelassen ist, gilt die längste für diese Klasse geltende Absetzfrist, multipliziert mit dem Faktor 1,5; vorbehalten bleibt Buchstabe a.
+- c.[^13-4]
 
-  Wenn für Wirkstoffe eines Arzneimittels in der Lebensmittelgesetzgebung Höchstkonzentrationen vorgesehen sind oder das Arzneimittel Tieren einer zoologischen Klasse verabreicht wird, für die es nicht zugelassen ist, sind für jedes einzelne vom Tier gewonnene Lebensmittel folgende Absetzfristen einzuhalten:
+  Wenn für Wirkstoffe eines Arzneimittels in der Lebensmittelgesetzgebung Höchstkonzentrationen vorgesehen sind, das Arzneimittel nicht für der Lebensmittelgewinnung dienende Tiere zugelassen ist oder das Arzneimittel Tieren einer zoologischen Klasse verabreicht wird, für die es nicht zugelassen ist, sind für jedes einzelne vom Tier gewonnene Lebensmittel folgende Absetzfristen einzuhalten:
 
-  - 1\. 7 Tage für Milch und Eier,
-  - 2\. 28 Tage für essbares Gewebe, und
-  - 3\. 500 Tage dividiert durch die mittlere Wassertemperatur in °C für Fische.
+  - 1\. 7 Tage für Milch;
+  - 2\. 10 Tage für Eier;
+  - 3\. 28 Tage für essbares Gewebe; und
+  - 4\. 500 Tage dividiert durch die mittlere Wassertemperatur in °C für Fische.
 
 <sup>3</sup> Bestehen Hinweise, dass die Höchstkonzentrationen durch die Absetzfristen nach Absatz 2 nicht eingehalten werden können, so hat die verschreibende Tierärztin oder der verschreibende Tierarzt die Absetzfrist zu verlängern.
 
-<sup>4</sup> Für die Arzneimittel, die nach Artikel 12 Absätze 3 und 5 umgewidmet werden, beträgt die Absetzfrist 6 Monate.[^13-4]
+<sup>4</sup> Für die Arzneimittel, die nach Artikel 12 Absätze 3 und 5 umgewidmet werden, beträgt die Absetzfrist 6 Monate.[^13-5]
 
 <sup>5</sup>
 
 Bei zugelassenen homöopathischen, anthroposophischen und phytotherapeutischen Arzneimitteln kann auf Absetzfristen verzichtet werden, wenn die Arzneimittel ausschliesslich Wirkstoffe enthalten:
 
 - a. für die das EDI eine Festlegung von Höchstkonzentrationen nicht für erforderlich erachtet hat; oder
-- b. die in einer Potenzierung von D6 oder höher vorliegen.[^13-5]
+- b. die in einer Potenzierung von D6 oder höher vorliegen.[^13-6]
 
 [^13-1]: Fassung gemäss Anhang Ziff. 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^13-2]: Fassung gemäss Anhang Ziff. 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+[^13-2]: Fassung gemäss Ziff. I 3 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 [^13-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^13-4]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^13-5]: Fassung gemäss Anhang Ziff. 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+[^13-4]: Fassung gemäss Ziff. I 3 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^13-5]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^13-6]: Fassung gemäss Anhang Ziff. 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 
 #### Art. 14
 

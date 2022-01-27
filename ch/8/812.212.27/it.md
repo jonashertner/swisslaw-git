@@ -4,11 +4,11 @@ title: "Ordinanza del 18 agosto 2004 sui medicamenti per uso veterinario (Ordina
 short: OMvet
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: it
-version: 2022-01-01
+version: 2022-01-28
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220128/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220128-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220101/it"
 
 (Ordinanza sui medicamenti veterinari, OMVet)
 
-del 18 agosto 2004 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 18 agosto 2004 (Stato 28 gennaio 2022) (Stato 28 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 5 capoverso 2 lettera b, 42 capoverso 3, 44 e 82 capoverso 2 della legge del 15 dicembre 2000[^ingress-1] sugli agenti terapeutici (LATer); visto l’articolo 9 della legge del 9 ottobre 1992[^ingress-2] sulle derrate alimentari (LDerr),
+visti gli articoli 5 capoverso 2 lettera b, 42 capoverso 3, 42*a*, 44 e 82 capoverso 2 della legge del 15 dicembre 2000[^ingress-1] sugli agenti terapeutici (LATer); visto l’articolo 20 della legge del 20 giugno 2014[^ingress-2] sulle derrate alimentari,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6, [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480), [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I.]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-3]: Nuovo testo giusta il n. I 3 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -317,31 +318,33 @@ Nel caso di animali da reddito, possono essere utilizzati per una diversa destin
 I medicamenti veterinari omologati per un’altra specie animale nonché i medicamenti per uso umano possono essere utilizzati solo conformemente all’omologazione. Per questi medicamenti sono applicabili i seguenti termini d’attesa:
 
 - a.[^13-1] se le sostanze attive contenute nel medicamento figurano nell’allegato 2, non è necessario alcun termine d’attesa;
-- b.[^13-2] se per le sostanze attive contenute in un medicamento il DFI non ha stabilito concentrazioni massime conformemente all’articolo 10 capoverso 4 lettera e ODerr[^13-3] o non ha ritenuto necessario fissare concentrazioni massime e il medicamento è somministrato a un animale della stessa classe zoologica dell’animale per il quale è stato omologato, si applica il termine d’attesa più lungo valido per questa classe; è fatta salva la lettera a;
-- c.
+- b.[^13-2] se per le sostanze attive contenute in un medicamento il DFI non ha stabilito concentrazioni massime conformemente all’articolo 10 capoverso 4 lettera e ODerr[^13-3] o non ha ritenuto necessario fissare concentrazioni massime, e il medicamento è somministrato a un animale della stessa classe zoologica dell’animale per il quale è stato omologato, si applica il termine d’attesa più lungo valido per questa classe, moltiplicato per il fattore 1,5; è fatta salva la lettera a;
+- c.[^13-4]
 
-  se, per le sostanze attive di un medicamento, la legislazione sulle derrate alimentari prevede concentrazioni massime o il medicamento è somministrato ad animali di una classe zoologica per la quale non è stato omologato, per ogni singola derrata alimentare ottenuta dall’animale occorre rispettare almeno i seguenti termini d’attesa:
+  se, per le sostanze attive di un medicamento, la legislazione sulle derrate alimentari prevede concentrazioni massime, se il medicamento non è ammesso per animali che servono alla produzione di derrate alimentari o se il medicamento è somministrato ad animali di una classe zoologica per la quale non è stato omologato, per ogni singola derrata alimentare ottenuta dall’animale occorre rispettare almeno i seguenti termini d’attesa:
 
-  - 1\. 7 giorni per il latte e le uova;
-  - 2\. 28 giorni per tessuti commestibili e
-  - 3\. 500 giorni diviso per la temperatura media dell’acqua in °C per i pesci.
+  - 1\. 7 giorni per il latte,
+  - 2\. 10 giorni per le uova,
+  - 3\. 28 giorni per tessuti commestibili, e
+  - 4\. 500 giorni divisi per la temperatura media dellʼacqua in °C per i pesci.
 
 <sup>3</sup> Se esistono indizi secondo cui le concentrazioni massime non possono essere rispettate mediante i termini d’attesa minimi, il veterinario prescrittore deve prorogare il termine.
 
-<sup>4</sup> Per i medicamenti utilizzati per una diversa destinazione conformemente all’articolo 12 capoversi 3 e 5, il termine d’attesa è di sei mesi.[^13-4]
+<sup>4</sup> Per i medicamenti utilizzati per una diversa destinazione conformemente all’articolo 12 capoversi 3 e 5, il termine d’attesa è di sei mesi.[^13-5]
 
 <sup>5</sup>
 
 Per medicamenti omeopatici, antroposofici e fitoterapeutici omologati si può rinunciare ai termini d’attesa, se il medicamento contiene esclusivamente sostanze attive:
 
 - a. per le quali il DFI non ha ritenuto necessario determinare concentrazioni massime; oppure
-- b. che presentano un potenziamento D6 o più.[^13-5]
+- b. che presentano un potenziamento D6 o più.[^13-6]
 
 [^13-1]: Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^13-2]: Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+[^13-2]: Nuovo testo giusta il n. I 3 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 [^13-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^13-4]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^13-5]: Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+[^13-4]: Nuovo testo giusta il n. I 3 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^13-5]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^13-6]: Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 
 #### Art. 14
 

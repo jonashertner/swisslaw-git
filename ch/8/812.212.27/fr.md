@@ -4,11 +4,11 @@ title: Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)
 short: OMédv
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: fr
-version: 2022-01-01
+version: 2022-01-28
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20220128/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20220128-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20220101/fr"
 
 (OMédV)
 
-du 18 août 2004 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 août 2004 (Etat le 28 janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu les art. 5, al. 2, let. b, 42, al. 3, 44 et 82, al. 2, de la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^ingress-1], vu l’art. 9 de la loi du 9 octobre 1992 sur les denrées alimentaires (LDAl)[^ingress-2],
+vu les art. 5, al. 2, let. b, 42, al. 3, 42*a*, 44 et 82, al. 2, de la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^ingress-1], vu l’art. 20 de la loi du 20 juin 2014 sur les denrées alimentaires[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la L du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-3]: Nouvelle teneur selon le ch. I 3 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -317,31 +318,33 @@ Pour les animaux de rente, seules les reconversions suivantes sont autorisées:
 Les médicaments vétérinaires autorisés pour une espèce de destination donnée ainsi que les médicaments à usage humain ne peuvent être administrés que conformément à leur autorisation. Les délais d’attente valables pour ces médicaments doivent être les suivants:
 
 - a.[^13-1] si les principes actifs présents dans le médicament figurent à l’annexe 2, aucun délai d’attente n’est requis;
-- b.[^13-2] si un médicament contient des substances actives pour lesquelles le DFI n’a pas fixé de concentrations maximales en application de l’art. 10, al. 4, let. e, ODAlOUs[^13-3] ou n’a pas estimé nécessaire de fixer des concentrations maximales et que le médicament est administré à un animal qui appartient à la même classe zoologique que l’animal pour lequel il est autorisé, le délai d’attente à respecter est le plus long délai d’attente prévu pour la classe zoologique de l’animal considéré; la let. a est réservée;
-- c.
+- b.[^13-2] si un médicament contient des principes actifs pour lesquels le DFI n’a pas fixé de concentrations maximales en application de l’art. 10, al. 4, let. e, ODAlOUs[^13-3] ou n’a pas estimé nécessaire de fixer des concentrations maximales et que le médicament est administré à un animal qui appartient à la même classe zoologique que l’animal pour lequel il est autorisé, le délai d’attente à respecter est le plus long délai d’attente prévu pour la classe zoologique de l’animal considéré, multiplié par le facteur 1,5; la let. a est réservée;
+- c.[^13-4]
 
-  si les principes actifs d’un médicament font l’objet de concentrations maximales dans la législation sur les denrées alimentaires ou que le médicament est administré à des animaux d’une classe zoologique pour laquelle il n’est pas autorisé, les délais d’attente à respecter pour chaque denrée alimentaire obtenue à partir de l’animal considéré seront:
+  si les principes actifs d’un médicament font l’objet de concentrations maximales dans la législation sur les denrées alimentaires, que le médicament n’est pas autorisé pour les animaux destinés à la production alimentaire ou que le médicament est administré à des animaux d’une classe zoologique pour laquelle il n’est pas autorisé, les délais d’attente à respecter pour chaque denrée alimentaire obtenue à partir de l’animal considéré sont:
 
-  - 1\. de 7 jours pour le lait et les œufs,
-  - 2\. de 28 jours pour les tissus consommables, et
-  - 3\. de 500 jours divisés par la température moyenne de l’eau en °C pour les poissons.
+  - 1\. de 7 jours pour le lait,
+  - 2\. de 10 jours pour les œufs,
+  - 3\. de 28 jours pour les tissus consommables, et
+  - 4\. de 500 jours divisés par la température moyenne de l’eau en °C pour les poissons.
 
 <sup>3</sup> Si des indices permettent de déduire que les concentrations maximales ne peuvent pas être respectées du fait des délais d’attente fixés à l’al. 2, le vétérinaire prescripteur doit prolonger le délai d’attente.
 
-<sup>4</sup> Dans le cas des médicaments reconvertis en vertu de l’art. 12, al. 3 ou 5, le délai d’attente est de six mois.[^13-4]
+<sup>4</sup> Dans le cas des médicaments reconvertis en vertu de l’art. 12, al. 3 ou 5, le délai d’attente est de six mois.[^13-5]
 
 <sup>5</sup>
 
 Dans le cas des médicaments homéopathiques, anthroposophiques ou phytothérapeutiques autorisés, on peut renoncer aux délais d’attente si le médicament contient exclusivement des principes actifs pour lesquels:
 
 - a. le DFI n’a pas estimé nécessaire de fixer des concentrations maximales, ou
-- b. qui présentent une dilution D6 ou supérieure.[^13-5]
+- b. qui présentent une dilution D6 ou supérieure.[^13-6]
 
 [^13-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^13-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+[^13-2]: Nouvelle teneur selon le ch. I 3 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 [^13-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^13-4]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^13-5]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+[^13-4]: Nouvelle teneur selon le ch. I 3 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^13-5]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^13-6]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 
 #### Art. 14
 
