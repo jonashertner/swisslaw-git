@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 3. Dezember 2021 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/804"
 language: de
-version: 2021-12-27
+version: 2022-01-29
 adopted: 2021-12-03
 in_force: 2021-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20211227/de/xml/fedlex-data-admin-ch-eli-cc-2021-804-20211227-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20211227/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20220129/de/xml/fedlex-data-admin-ch-eli-cc-2021-804-20220129-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20220129/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 3. Dezember 2021 (Stand am 27. Dezember 2021)
+vom 3. Dezember 2021 (Stand am 29. Januar 2022)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -141,6 +141,10 @@ Die Verordnung des BLV vom 26. November 2021[^9-1] über Massnahmen zur Verhinde
 <sup>1</sup> Diese Verordnung tritt am 4. Dezember 2021 in Kraft.
 
 <sup>2</sup> Sie gilt bis zum 31. Januar 2022.
+
+<sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 15. März 2022 verlängert.[^10-1]
+
+[^10-1]: Eingefügt durch Ziff. I der V des BLV vom 27. Jan. 2022, in Kraft seit 29. Jan. 2022 ([AS 2022 47](https://fedlex.data.admin.ch/eli/oc/2022/47)).
 
 Anhang 1*[^t-1]*
 

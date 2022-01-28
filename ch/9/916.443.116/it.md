@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 3 dicembre 2021 che istituisce misure destinate a evitare lʼulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/804"
 language: it
-version: 2021-12-27
+version: 2022-01-29
 adopted: 2021-12-03
 in_force: 2021-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20211227/it/xml/fedlex-data-admin-ch-eli-cc-2021-804-20211227-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20211227/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20220129/it/xml/fedlex-data-admin-ch-eli-cc-2021-804-20220129-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20220129/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare lʼulteriore diffusione dell’influenza aviaria
 
-del 3 dicembre 2021 (Stato 27 dicembre 2021)
+del 3 dicembre 2021 (Stato 29 gennaio 2022) (Stato 29 gennaio 2022)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -142,6 +142,10 @@ L’ordinanza dell’USAV del 26 novembre 2021[^9-1] che istituisce misure desti
 
 <sup>2</sup> Ha effetto sino al 31 gennaio 2022.
 
+<sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 15 marzo 2022.[^10-1]
+
+[^10-1]: Introdotto dal n. I dell’O dell’USAV del 27 gen. 2022, in vigore dal 29 gen. 2022 ([RU 2022 47](https://fedlex.data.admin.ch/eli/oc/2022/47)).
+
 Allegato 1*[^t-1]*
 
 (art. 2)
@@ -152,11 +156,13 @@ Allegato 1*[^t-1]*
 
 Non sono stabiliti zone di protezione e di sorveglianza nonché Cantoni e Comuni interessati.
 
-Allegato 2
+Allegato 2*[^t-2]*
 
 (art. 7)
 
 ## Zone di controllo e di osservazione
+
+[^t-2]: Aggiornato dal n. II dell’O dell’USAV del 27 gen. 2022, in vigore dal 29 gen. 2022 ([RU 2022 47](https://fedlex.data.admin.ch/eli/oc/2022/47)).
 
 ### 1. Acque le cui aree rivierasche sono zone di controllo e di osservazione
 
@@ -166,7 +172,7 @@ Lago artificiale di Klingnau
 
 Lago artificiale di Niederried
 
-Lago di Baldegger
+Lago di Baldegg
 
 Lago dei Quattro Cantoni
 
