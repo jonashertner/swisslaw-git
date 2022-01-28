@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sulla società finanziaria di sviluppo SIFEM SA
 document: Progetto posto in consultazione
 language: it

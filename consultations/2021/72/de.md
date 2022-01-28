@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Entwicklungsfinanzierungsgesellschaft SIFEM AG
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur l’institution financière de développement SIFEM SA
 document: Projet mis en consultation
 language: fr
