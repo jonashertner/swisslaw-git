@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: "Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l'epidemia di COVID-19 nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 traffico internazionale viaggiatori)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: it
-version: 2022-01-22
+version: 2022-01-31
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220122/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220122-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220131/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220131-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220131/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220122/it"
 
 (Ordinanza COVID-19 traffico internazionale viaggiatori)**[^t-1]**
 
-del 23 giugno 2021 (Stato 22 gennaio 2022)
+del 23 giugno 2021 (Stato 31 gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -444,7 +444,7 @@ Allegato 2*[^t-4]*
 
 ## Persone vaccinate e guarite
 
-[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dall’all. n. 3 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) e dal n. II dell’O del 17 dic. 2021, in vigore dal 20 dic. 2021 ([RU 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 17 dic. 2021 ([RU 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)) e dall’all. n. 3 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 31 dic. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Persone vaccinate
 
@@ -457,7 +457,7 @@ Allegato 2*[^t-4]*
   - c. è stato approvato secondo la Lista per l’uso di emergenza dell’OMS ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
   - d. presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma è immesso in commercio da un licenziatario con un altro nome, a condizione che la vaccinazione sia avvenuta in modo completo conformemente ai requisiti o alle raccomandazioni dello Stato in cui è stata effettuata.
 
-- 1\.2 La durata di validità della vaccinazione è di 365 giorni a partire dalla vaccinazione completa; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen, la durata è di 365 giorni a partire dal 22° giorno dalla vaccinazione.
+- 1\.2 La durata di validità della vaccinazione è di 270 giorni a partire dalla vaccinazione completa; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen, la durata è di 270 giorni a partire dal 22° giorno dalla vaccinazione.
 - 1\.3 La vaccinazione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 1 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl1-1] sui certificati COVID-19o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
 - 1\.4
 
@@ -474,7 +474,7 @@ Allegato 2*[^t-4]*
 
   Una guarigione è valida durante il seguente lasso di tempo:
 
-  - a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: dall’11° al 365° giorno dalla conferma del contagio;
+  - a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: dal 11° al 270° giorno dalla conferma del contagio;
   - b. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl2-1] sui certificati COVID-19: per la durata di validità del relativo certificato.
 
 - 2\.2 La guarigione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 2 dell’ordinanza sui certificati COVID-19 o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.

@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 23. Juni 2021 über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung internationaler Personenverkehr)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: de
-version: 2022-01-22
+version: 2022-01-31
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220122/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220122-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220131/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220131-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220131/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220122/de"
 
 (Covid-19-Verordnung internationaler Personenverkehr)**[^t-1]**
 
-vom 23. Juni 2021 (Stand am 22. Januar 2022)
+vom 23. Juni 2021 (Stand am 31. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -444,7 +444,7 @@ Anhang 2*[^t-4]*
 
 ## Geimpfte und genesene Personen
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Anhang Ziff. 3 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. II der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II der V vom 17. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)) und Anhang Ziff. 3 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft seit 31. Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Geimpfte Personen
 
@@ -457,7 +457,7 @@ Anhang 2*[^t-4]*
   - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde; oder
   - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
-- 1\.2 Die Dauer der Gültigkeit einer Impfung beträgt 365 Tage ab der vollständig erfolgten Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung.
+- 1\.2 Die Dauer der Gültigkeit einer Impfung beträgt 270 Tage ab der vollständig erfolgten Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 270 Tage ab dem 22. Tag nach erfolgter Impfung.
 - 1\.3 Der Nachweis für Geimpfte kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 1 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl1-1] oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
 - 1\.4
 
@@ -474,7 +474,7 @@ Anhang 2*[^t-4]*
 
   Eine Genesung ist für die folgende Zeitdauer gültig:
 
-  - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2: vom 11. bis zum 365. Tag nach der Bestätigung der Ansteckung;
+  - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2: vom 11. bis zum 270. Tag nach der Bestätigung der Ansteckung;
   - b. im Falle einer Analyse auf Sars-CoV-2 Antikörper nach Artikel 16 Absatz 3 Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]: während der Dauer der Gültigkeit des entsprechenden Zertifikats.
 
 - 2\.2 Der Nachweis für Genesung kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 2 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021 oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
