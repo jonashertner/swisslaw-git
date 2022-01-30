@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-01-25
+version: 2022-01-31
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220125/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220125-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220131/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220131-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220131/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 25 gennaio 2022) (Stato 25 gennaio 2022)
+del 4 giugno 2021 (Stato 31 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -789,7 +789,7 @@ Allegato 2*[^t-2]*
 
 ## Disposizioni particolari sui certificati di vaccinazione COVID-19
 
-[^t-2]: Aggiornato dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. I dell’O del DFI del 15 nov. 2021 ([RU 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), dall’all. n. 3 dell’O del 17 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)) e dal n. I dell’O del DFI del 5 gen. 2022, in vigore dal 6 gen. 2022 ([RU 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
+[^t-2]: Aggiornato dal n. II dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. I dell’O del DFI del 15 nov. 2021 ([RU 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), dall’all. n. 3 dell’O del 17 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), dal n. I dell’O del DFI del 5 gen. 2022 ([RU 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)) e dall’all. n. 4 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 31 gen. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -806,9 +806,9 @@ Allegato 2*[^t-2]*
 
   Durata di validità:
 
-  - a. per una vaccinazione di cui al numero 1.1 lettera a: 365 giorni dalla somministrazione dell’ultima dose;
-  - b. per una vaccinazione di cui al numero 1.1 lettera b: 365 giorni a partire dal 22° giorno dopo la somministrazione dellʼultima dose;
-  - c. per una vaccinazione di cui al numero 1.1 lettera d: 365 giorni.
+  - a. per una vaccinazione di cui al numero 1.1 lettera a: 270 giorni dalla somministrazione dell’ultima dose;
+  - b. per una vaccinazione di cui al numero 1.1 lettera b: 270 giorni a partire dal 22° giorno dopo la somministrazione dellʼultima dose;
+  - c. per una vaccinazione di cui al numero 1.1 lettera d: 270 giorni.
 
 ### 2 Informazioni sul vaccino somministrato
 
@@ -883,7 +883,7 @@ Allegato 3*[^t-3]*
 
 ## Disposizioni particolari sui certificati di guarigione dalla COVID-19
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. I dell’O del DFI del 22 nov. 2021 ([RU 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) e dal n. II dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi), in vigore dal 24 gen. 2022 ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^t-3]: Aggiornato dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. II dell’O del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)) e dall’all. n. 4 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 31 gen. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -898,8 +898,8 @@ Allegato 3*[^t-3]*
 
   Durata di validità:
 
-  - a. per i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1: 365 giorni calcolati dal giorno del risultato del test di cui al numero 1.1 lettera a;
-  - b. per i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3: 90 giorni calcolati dal giorno del prelievo del campione di cui al numero 1.1 lettera b.
+  - a. per i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 1: 270 giorni calcolati dal giorno del risultato positivo del test di cui al numero 1.1 lettera a;
+  - b. per i certificati di guarigione dalla COVID-19 di cui all’articolo 16 capoverso 3: 90 giorni calcolati dal giorno del prelievo del campione per l’analisi di cui al numero 1.1 lettera b.
 
 ### 2 Informazioni sulla malattia contratta e sul momento della guarigione
 

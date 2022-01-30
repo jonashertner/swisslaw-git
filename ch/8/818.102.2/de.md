@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-01-25
+version: 2022-01-31
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220125/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220125-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220131/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220131-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220131/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 25. Januar 2022)
+vom 4. Juni 2021 (Stand am 31. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -786,7 +786,7 @@ Anhang 2*[^t-2]*
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. I der V des EDI vom 15. Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), Anhang Ziff. 3 der V vom 17. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)) und Ziff. I der V des EDI vom 5. Jan. 2022, in Kraft seit 6. Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. I der V des EDI vom 15. Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), Anhang Ziff. 3 der V vom 17. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), Ziff. I der V des EDI vom 5. Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)) und Anhang Ziff. 4 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft seit 31. Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -803,9 +803,9 @@ Anhang 2*[^t-2]*
 
   Gültigkeitsdauer:
 
-  - a. für eine Impfung nach Ziffer 1.1 Buchstabe a: 365 Tage ab Verabreichung der letzten Dosis;
-  - b. für eine Impfung nach Ziffer 1.1 Buchstabe b: 365 Tage ab dem 22. Tag ab Verabreichung der letzten Dosis;
-  - c. für eine Impfung nach Ziffer 1.1 Buchstabe d: 365 Tage.
+  - a. für eine Impfung nach Ziffer 1.1 Buchstabe a: 270 Tage ab Verabreichung der letzten Dosis;
+  - b. für eine Impfung nach Ziffer 1.1 Buchstabe b: 270 Tage ab dem 22. Tag ab Verabreichung der letzten Dosis;
+  - c. für eine Impfung nach Ziffer 1.1 Buchstabe d: 270 Tage.
 
 ### 2 Angaben zum verabreichten Impfstoff
 
@@ -878,7 +878,7 @@ Anhang 3*[^t-3]*
 
 ## Besondere Bestimmungen über Covid-19-Genesungszertifikate
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. I der V des EDI vom 22. Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) und Ziff. II der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests), in Kraft seit 24. Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. II der V vom 19. Jan. 2022 (Covid-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)) und Anhang Ziff. 4 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft seit 31. Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -890,8 +890,8 @@ Anhang 3*[^t-3]*
 
   Gültigkeitsdauer:
 
-  - a. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1: 365 Tage, berechnet ab dem Tag des Testergebnisses nach Ziffer 1.1 Buchstabe a;
-  - b. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3: 90 Tage, berechnet ab dem Tag der Probeentnahme nach Ziffer 1.1 Buchstabe b.
+  - a. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 1: 270 Tage, berechnet ab dem Tag des positiven Ergebnisses nach Ziffer 1.1 Buchstabe a;
+  - b. für Covid-19-Genesungszertifikate nach Artikel 16 Absatz 3: 90 Tage, berechnet ab dem Tag der Analyse nach Ziffer 1.1 Buchstabe b.
 
 ### 2 Angaben zur durchgemachten Krankheit und zum Zeitpunkt der Genesung
 

@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-01-25
+version: 2022-01-31
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220125/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220125-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220131/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220131-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220131/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 25 janvier 2022)
+du 4 juin 2021 (Etat le 31 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -786,7 +786,7 @@ Annexe 2*[^t-2]*
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
 
-[^t-2]: Mise à jour par le ch. II des O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), le ch. II al. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), le ch. I de l’O du DFI du 15 nov. 2021 ([RO 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)) et l’annexe ch. 3 de l’O du 17 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)) et le ch. I de l’O du DFI du 5 janv. 2022, en vigueur depuis le 6 janv. 2022 ([RO 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
+[^t-2]: Mise à jour par le ch. II de l’O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), le ch. II al. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), le ch. I de l’O du DFI du 15 nov. 2021 ([RO 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), l’annexe ch. 3 de l’O du 17 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), le ch. I de l’O du DFI du 5 janv. 2022 ([RO 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)) et l’annexe ch. 4 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur depuis le 31 janv. 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -803,9 +803,9 @@ Annexe 2*[^t-2]*
 
   Durée de validité:
 
-  - a. pour la vaccination selon le ch. 1.1, let. a: 365 jours à partir de l’administration de la seconde dose;
-  - b. pour la vaccination selon le ch. 1.1, let. b: 365 jours à partir du 22e jour suivant l’administration de la dose;
-  - c. pour la vaccination selon le ch. 1.1, let. d: 365 jours.
+  - a. pour la vaccination selon le ch. 1.1, let. a: 270 jours à partir de l’administration de la dernière dose;
+  - b. pour la vaccination selon le ch. 1.1, let. b: 270 jours à partir du 22<sup>e</sup> jour suivant l’administration de la dernière dose;
+  - c. pour la vaccination selon le ch. 1.1, let. d: 270 jours.
 
 ### 2 Indications concernant le vaccin administré
 
@@ -880,7 +880,7 @@ Annexe 3*[^t-3]*
 
 ## Dispositions particulières applicables aux certificats de guérison COVID-19
 
-[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), le ch. I de l’O du DFI du 22 nov. 2021 ([RO 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) et le ch. II de l’O du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques), en vigueur depuis le 24 janv. 2022 ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), le ch. II de l’O du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)) et l’annexe ch. 4 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur depuis le 31 janv. 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -895,8 +895,8 @@ Annexe 3*[^t-3]*
 
   Durée de validité:
 
-  - a. pour les certificats de guérison COVID-19 visés à l’art. 16, al. 1: 365 jours à compter de la date du résultat du test visé au ch. 1.1, let. a;
-  - b. pour les certificats de guérison COVID-19 visés à l’art. 16, al. 3: 90 jours à compter de la date du prélèvement de l’échantillon visé au ch. 1.1, let. b.
+  - a. pour les certificats de guérison COVID-19 visés à l’art. 16, al. 1: 270 jours à compter de la date du résultat positif visé au ch. 1.1, let. a;
+  - b. pour les certificats de guérison COVID-19 visés à l’art. 16, al. 3: 90 jours à compter de la date de l’analyse visée au ch. 1.1, let. b.
 
 ### 2 Indications concernant la maladie dont la personne a guéri et la date de la guérison
 

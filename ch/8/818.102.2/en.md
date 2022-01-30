@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-01-25
+version: 2022-01-31
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220125/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220125-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220125/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220131/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220131-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220131/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 25 January 2022)
+of 4 June 2021 (Status as of 31 January 2022)
 
 The Swiss Federal Council,
 
@@ -787,7 +787,7 @@ Annex 2*[^t-2]*
 
 ## Special provisions concerning COVID-19 vaccination certificates
 
-[^t-2]: Revised by No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No I of the FDHA O of 15 Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), Annex No 3 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)) and No I of the FDHA O of 5 Jan. 2022, in force since 6 Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)).
+[^t-2]: Revised by No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), by No I of the FDHA O of 15 Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), by Annex No 3 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), by No I of the FDHA O of 5 Jan. 2022, in force since 6 Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)) and by No 4 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force since 31 Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Start of validity and maximum duration
 
@@ -804,9 +804,9 @@ Annex 2*[^t-2]*
 
   Duration of validity:
 
-  - a. for a vaccination in accordance with number 1.1 letter a: 365 days from the date of administration of the final dose;
-  - b. for a vaccination in accordance with number 1.1 letter b: 365 days from the 22nd day after the first dose was administered;
-  - c. for a vaccination in accordance with number 1.1 letter d: 365 days..
+  - a. for a vaccination in accordance with number 1.1 letter a: 270 days from the date of administration of the final dose;
+  - b. for a vaccination in accordance with number 1.1 letter b: 270 days from the 22nd day after the first dose was administered;
+  - c. for a vaccination in accordance with number 1.1 letter d: 270 days..
 
 ### 2 Details of the vaccine administered
 
@@ -881,7 +881,7 @@ Annex 3*[^t-3]*
 
 ## Special provisions concerning COVID-19 recovery certificates
 
-[^t-3]: Revised by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No I of the O of the FDHA of 22 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)) and No II of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^t-3]: Revised by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)) and Annex No 4 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force since 31 Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Start of validity and maximum duration
 
@@ -896,8 +896,8 @@ Annex 3*[^t-3]*
 
   Period of validity:
 
-  - a. for COVID-19 recovery certificates pursuant to Article 16 paragraph 1: 365 days from the date of the test result referred to in number 1.1 letter a;
-  - b. for COVID-19 recovery certificates pursuant to Article 16 paragraph 3: 90 days from the date on which the sample was taken in accordance with number 1.1 letter b.
+  - a. for COVID-19 recovery certificates pursuant to Article 16 paragraph 1: 270 days from the date of the positive result referred to in number 1.1 letter a;
+  - b. for COVID-19 recovery certificates pursuant to Article 16 paragraph 3: 90 days from the date of the analysis in accordance with number 1.1 letter b.
 
 ### 2 Details of the disease contracted and the date of recovery
 
