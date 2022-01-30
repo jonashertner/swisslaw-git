@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2022-01-25
+version: 2022-01-31
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220125/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220125-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220131/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220131-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220131/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220125/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 25 janvier 2022)
+du 19 juin 2020 (Etat le 31 janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -679,24 +679,25 @@ Sont considérées comme vulnérables:
 
 Ne sont pas considérées comme vulnérables:
 
-- a. les femmes enceintes qui sont vaccinées contre le COVID-19, durant 365 jours à compter de la vaccination complète;
+- a. les femmes enceintes qui sont vaccinées contre le COVID-19, durant 270 jours à compter de la vaccination complète;
 - b.
 
   les personnes visées à l’al. 10 qui ont contracté le SARS-CoV-2 et sont considérées comme guéries:
 
-  - 1\. sur la base d’une analyse de biologie moléculaire pour le SARS-CoV-2: durant 365 jours à compter du 11<sup>e</sup> jour suivant la confirmation de l’infection,
-  - 2\. sur la base d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^27a-3]: durant la validité du certificat correspondant.
+  - 1\. sur la base d’une analyse de biologie moléculaire pour le SARS-CoV-2: durant 270 jours à compter du 11<sup>e</sup> jour suivant la confirmation de l’infection,
+  - 2\. sur la base d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^27a-3]: durant la validité du certificat correspondant.[^27a-4]
 
 <sup>12</sup> Les pathologies et anomalies génétiques visées à lʼal. 10, let. b, sont précisées à lʼannexe 7 à lʼaide de critères médicaux. La liste de ces critères n’est pas exhaustive. Une évaluation clinique de la vulnérabilité dans le cas d’espèce est réservée et peut aussi avoir pour conséquence que des personnes visées à l’al. 11 soient considérées comme vulnérables.
 
 <sup>13</sup> Le DFI actualise en permanence lʼannexe 7 selon l’état des connaissances scientifiques.
 
-<sup>14</sup> L’art. 25 de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^27a-4] s’applique à la protection générale des employés.
+<sup>14</sup> L’art. 25 de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^27a-5] s’applique à la protection générale des employés.
 
 [^27a-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^27a-2]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
 [^27a-3]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-4]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 31 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-5]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Chapitre 5 Dispositions finales
 
@@ -811,7 +812,7 @@ Annexe 1a*[^t-2]*
 
 ## Personnes vaccinées
 
-[^t-2]: Introduite par l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Mise à jour par l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) et l’annexe ch. 1 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-2]: Introduite par l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Mise à jour par l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) et l’annexe ch. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur depuis le 31 janv. 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 - 1
 
@@ -822,7 +823,7 @@ Annexe 1a*[^t-2]*
   - c. autorisé selon la liste des situations d’urgences de l’OMS et complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée, ou
   - d. dont il peut être prouvé qu’il a la même composition qu’un vaccin autorisé au sens des let. a, b ou c, mais qui est mis en circulation par un preneur de licence sous un autre nom et qui a été complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée.
 
-- 2 La durée pendant laquelle la personne vaccinée est exemptée de l’interdiction d’entrée au sens de l’art. 4, al. 1, est de 365 jours à compter de la vaccination complète; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen, la durée est de 365 jours à compter du 22<sup>e</sup> jour suivant la vaccination.
+- 2 La durée pendant laquelle la personne vaccinée est exemptée de l’interdiction d’entrée au sens de l’art. 4, al. 1, est de 270 jours à compter de la vaccination complète; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen, la durée est de 270 jours à compter du 22<sup>e</sup> jour suivant la vaccination.
 - 3 La vaccination peut être prouvée au moyen du certificat COVID-19 au sens de l’art. 1, let. a, ch. 1, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex1a-lvlu1-1] ou d’un certificat étranger reconnu conformément à la section 7 de l’ordonnance COVID-19 certificats.
 - 4
 

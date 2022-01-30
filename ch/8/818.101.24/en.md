@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-01-25
+version: 2022-01-31
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220125/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220125-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220125/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220131/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220131-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220131/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 25 January 2022)
+of 19 June 2020 (Status as of 31 January 2022)
 
 The Swiss Federal Council,
 
@@ -681,24 +681,25 @@ The following persons are regarded as being at high risk:
 
 The following persons are not regarded as being at high risk:
 
-- a. pregnant women who have been vaccinated against COVID-19, for 365 days from the date on which the vaccination is administered in full;
+- a. pregnant women who have been vaccinated against COVID-19, for 270 days from the date on which the vaccination is administered in full;
 - b.
 
   persons specified in paragraph 10 who have been infected with Sars-CoV-2 and have recovered:
 
-  - 1\. when based on a molecular-biological analysis for Sars-CoV-2: for 365 days from the eleventh day after confirmation of infection,
-  - 2\. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-3]: for the term of validity of the certificate concerned.
+  - 1\. when based on a molecular-biological analysis for Sars-CoV-2: for 270 days from the eleventh day after confirmation of infection,
+  - 2\. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-3]: for the term of validity of the certificate concerned.[^27a-4]
 
 <sup>12</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.
 
 <sup>13</sup> The FDHA shall continually update Annex 7 based on the state of science.
 
-<sup>14</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-4] applies.
+<sup>14</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-5] applies.
 
 [^27a-1]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 25 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^27a-2]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
 [^27a-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-4]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-4]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 31 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-5]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Chapter 5 Final Provisions
 
@@ -813,7 +814,7 @@ Annex 1a*[^t-2]*
 
 ## Persons who have been vaccinated
 
-[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Revised in accordance with Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) and Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 (AS 2021 380). Revised in accordance with Annex No 3 I of the O of 17 Sept. 2021 (AS 2021 563) and by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 31 Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 - 1
 
@@ -824,7 +825,7 @@ Annex 1a*[^t-2]*
   - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered; or
   - d. has been shown to have the same composition as a vaccine licensed under letters a, b or c, but marketed by the licence holder under another name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
-- 2 The period during which persons who have been vaccinated are exempt from the ban on entry under Article 4 paragraph 1 amounts to 365 days from the date of vaccination in full; the Janssen Ad26.COV2.S / Covid-19 Vaccinevaccine is regarded as being effective for 365 days from the 22nd day after it was administered in full.
+- 2 The period during which persons who have been vaccinated are exempt from the ban on entry under Article 4 paragraph 1 amounts to 270 days from the date of vaccination in full; the Janssen Ad26.COV2.S / Covid-19 vaccine is regarded as being effective for 270 days from the 22nd day after it was administered in full.
 - 3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex1a-lvlu1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
 - 4
 
@@ -1251,7 +1252,7 @@ Annex 6*[^t-8]*
 
 - 1\.4.1.
 
-  The Confederation shall pay the costs of immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use in the following cases only:
+  The Confederation shall pay the costs of immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard in the following cases only:
 
   - a. persons who have symptoms;
   - b. persons who have been in close contact with an infected person as defined in Article 7 paragraph 1 of the COVID-19 Special Situation Ordinance;

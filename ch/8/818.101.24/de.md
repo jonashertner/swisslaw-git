@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2022-01-25
+version: 2022-01-31
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220125/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220125-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220131/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220131-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220131/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220125/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 25. Januar 2022)
+vom 19. Juni 2020 (Stand am 31. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -679,24 +679,25 @@ Als besonders gefährdet gelten:
 
 Nicht als besonders gefährdet gelten:
 
-- a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 365 Tagen ab vollständig erfolgter Impfung;
+- a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 270 Tagen ab vollständig erfolgter Impfung;
 - b.
 
   Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten:
 
-  - 1\. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 365 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
-  - 2\. aufgrund einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^27a-3]: während der Gültigkeit des entsprechenden Zertifikats.
+  - 1\. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 270 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
+  - 2\. aufgrund einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^27a-3]: während der Gültigkeit des entsprechenden Zertifikats.[^27a-4]
 
 <sup>12</sup> Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 11 als besonders gefährdet eingestuft werden.
 
 <sup>13</sup> Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.
 
-<sup>14</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^27a-4].
+<sup>14</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^27a-5].
 
 [^27a-1]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^27a-2]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
 [^27a-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-4]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-4]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 31. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-5]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -813,7 +814,7 @@ Anhang 1a*[^t-2]*
 
 ## Geimpfte Personen
 
-[^t-2]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Bereinigt gemäss Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Anhang Ziff. 1 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^t-2]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Bereinigt gemäss Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Anhang Ziff. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft seit 31. Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 - 1
 
@@ -824,7 +825,7 @@ Anhang 1a*[^t-2]*
   - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde; oder
   - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
-- 2 Die Dauer, während der geimpfte Personen vom Einreiseverbot nach Artikel 4 Absatz 1 ausgenommen sind, beträgt 365 Tage ab der vollständig erfolgten Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung.
+- 2 Die Dauer, während der geimpfte Personen vom Einreiseverbot nach Artikel 4 Absatz 1 ausgenommen sind, beträgt 270 Tage ab der vollständig erfolgten Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 270 Tage ab dem 22. Tag nach erfolgter Impfung.
 - 3 Der Nachweis für Geimpfte kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 1 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex1a-lvlu1-1] oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
 - 4
 
