@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Emendamento al Protocollo di Montreal sulle sostanze che impoveriscono lo strato di ozono, del 15 ottobre 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: it
-version: 2021-09-09
+version: 2022-01-31
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20210909/it/xml/fedlex-data-admin-ch-eli-cc-2018-820-20210909-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20210909/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20220131/it/xml/fedlex-data-admin-ch-eli-cc-2018-820-20220131-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20220131/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,13 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20210909/it"
 
 RU **2018** 5421
 
-Adottato dalla 28<sup>a</sup> riunione delle Parti a Kigali il 15 ottobre 2016
+Adottato dalla 28<sup>a</sup> riunione delle Parti a Kigali il 15 ottobre 2016 Ratificato con strumento depositato dalla Svizzera il 7 novembre 2018 Entrato in vigore per la Svizzera il 1° gennaio 2019
 
-Ratificato con strumento depositato dalla Svizzera il 7 novembre 2018
-
-Entrato in vigore per la Svizzera il 1° gennaio 2019
-
-(Stato 9 settembre 2021)
+(Stato 31 gennaio 2022)
 
 Traduzione
 
@@ -346,7 +342,7 @@ Ogni Parte può, in qualsiasi momento prima che il presente emendamento entri in
 
 (Seguono le firme)
 
-Campo d’applicazione il 9 settembre 2021**[^t-1]**
+Campo d’applicazione il 31 gennaio 2022**[^t-1]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -388,6 +384,7 @@ Campo d’applicazione il 9 settembre 2021**[^t-1]**
 <tr><td>Cuba</td><td>20 giugno</td><td>2019</td><td>18 settembre</td><td>2019</td></tr>
 <tr><td>Danimarca <sup>a</sup></td><td>6 dicembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Ecuador</td><td>22 gennaio</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
+<tr><td>El Salvador</td><td>13 settembre</td><td>2021</td><td>12 dicembre</td><td>2021</td></tr>
 <tr><td>Estonia</td><td>27 settembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Eswatini</td><td>24 novembre</td><td>2020</td><td>22 febbraio</td><td>2021</td></tr>
 <tr><td>Etiopia</td><td>5 luglio</td><td>2019</td><td>3 ottobre</td><td>2019</td></tr>
@@ -404,6 +401,7 @@ Campo d’applicazione il 9 settembre 2021**[^t-1]**
 <tr><td>Grenada</td><td>29 maggio</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Guinea-Bissau</td><td>22 ottobre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>28 gennaio</td><td>2019</td><td>28 aprile</td><td>2019</td></tr>
+<tr><td>India</td><td>27 settembre</td><td>2021</td><td>26 dicembre</td><td>2021</td></tr>
 <tr><td>Irlanda</td><td>12 marzo</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Islanda</td><td>25 gennaio</td><td>2021</td><td>25 aprile</td><td>2021</td></tr>
 <tr><td>Isole Marshall</td><td>15 maggio</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
@@ -450,10 +448,12 @@ Campo d’applicazione il 9 settembre 2021**[^t-1]**
 <tr><td>Russia</td><td>3 ottobre</td><td>2020</td><td>1o gennaio</td><td>2021</td></tr>
 <tr><td>Samoa</td><td>23 marzo</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>San Marino</td><td>20 ottobre</td><td>2020</td><td>18 gennaio</td><td>2021</td></tr>
+<tr><td>Santa Lucia</td><td>2 novembre</td><td>2021</td><td>31 gennaio</td><td>2022</td></tr>
 <tr><td>Santa Sede\*</td><td>17 giugno</td><td>2020 A</td><td>15 settembre</td><td>2020</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>4 ottobre</td><td>2019</td><td>2 gennaio</td><td>2020</td></tr>
 <tr><td>Seicelle</td><td>20 agosto</td><td>2019</td><td>18 novembre</td><td>2019</td></tr>
 <tr><td>Senegal</td><td>31 agosto</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
+<tr><td>Serbia</td><td>8 ottobre</td><td>2021</td><td>6 gennaio</td><td>2022</td></tr>
 <tr><td>Sierra Leone</td><td>15 giugno</td><td>2020</td><td>13 settembre</td><td>2020</td></tr>
 <tr><td>Siria</td><td>5 aprile</td><td>2021</td><td>4 luglio</td><td>2021</td></tr>
 <tr><td>Slovacchia</td><td>16 novembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
@@ -466,6 +466,7 @@ Campo d’applicazione il 9 settembre 2021**[^t-1]**
 <tr><td>Tonga</td><td>17 settembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Trinidad e Tobago</td><td>17 novembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Tunisia</td><td>27 agosto</td><td>2021</td><td>25 novembre</td><td>2021</td></tr>
+<tr><td>Turchia\*</td><td>10 novembre</td><td>2021</td><td>8 febbraio</td><td>2022</td></tr>
 <tr><td>Turkmenistan</td><td>31 agosto</td><td>2020</td><td>29 novembre</td><td>2020</td></tr>
 <tr><td>Tuvalu</td><td>21 settembre</td><td>2017</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Uganda</td><td>21 giugno</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
@@ -478,4 +479,4 @@ Campo d’applicazione il 9 settembre 2021**[^t-1]**
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU): https://treaties.un.org &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> L’Emendamento al Prot. di Montreal non si applica alla Groenlandia. <sup>b</sup> L’Emendamento al Prot. di Montreal non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-1]: [RU 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-1]: [RU 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

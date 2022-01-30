@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, du 15 octobre 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: fr
-version: 2021-09-09
+version: 2022-01-31
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20210909/fr/xml/fedlex-data-admin-ch-eli-cc-2018-820-20210909-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20210909/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20220131/fr/xml/fedlex-data-admin-ch-eli-cc-2018-820-20220131-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20220131/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Instrument de ratification déposé par la Suisse le 7 novembre 2018
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 2019
 
-(Etat le 9 septembre 2021)
+(Etat le 31 janvier 2022)
 
 Texte original
 
@@ -217,9 +217,9 @@ Le tableau ci-après remplace le tableau correspondant au groupe I de l’Annexe
 
 <table>
 <tr><td>Groupe</td><td>Substance</td><td></td><td>Potentiel d’appauvrissement de la couche d’ozone\*</td><td>Potentiel de réchauffement global sur 100 ans</td></tr>
-<tr><td>*Groupe I*</td><td>CFCl<sub>3</sub></td><td>([CFC](https://cms.unov.org/eRef/LinkResolver.aspx?Source=Vintars&amp;External=Yes&amp;Text=CFC&amp;Link0=a48fb9c3-437d-4072-a1bd-12e1abcfe210&amp;Link1=e9918008-246e-4b46-935f-89d6a8f66d1e&amp;Link2=5548617b-ca66-49a7-8c6a-bcf173cbee24)-11)</td><td>1,0</td><td>4750</td></tr>
+<tr><td>*Groupe I*</td><td>CFCl<sub>3</sub></td><td>(CFC-11)</td><td>1,0</td><td>4750</td></tr>
 <tr><td></td><td>CF<sub>2</sub>Cl<sub>2</sub></td><td>(CFC-12)</td><td>1,0</td><td>10900</td></tr>
-<tr><td></td><td>C<sub>2</sub>F<sub>3</sub>Cl<sub>3</sub></td><td>([CFC](https://cms.unov.org/eRef/LinkResolver.aspx?Source=Vintars&amp;External=Yes&amp;Text=CFC&amp;Link0=a48fb9c3-437d-4072-a1bd-12e1abcfe210&amp;Link1=e9918008-246e-4b46-935f-89d6a8f66d1e&amp;Link2=5548617b-ca66-49a7-8c6a-bcf173cbee24)-113)</td><td>0,8</td><td>6130</td></tr>
+<tr><td></td><td>C<sub>2</sub>F<sub>3</sub>Cl<sub>3</sub></td><td>(CFC-113)</td><td>0,8</td><td>6130</td></tr>
 <tr><td></td><td>C<sub>2</sub>F<sub>4</sub>Cl<sub>2</sub></td><td>(CFC-114)</td><td>1,0</td><td>10000</td></tr>
 <tr><td></td><td>C<sub>2</sub>F<sub>5</sub>Cl</td><td>(CFC-115)</td><td>0,6</td><td>7370</td></tr>
 <tr><td>…</td><td></td><td></td><td></td><td></td></tr>
@@ -344,7 +344,7 @@ Toute Partie peut, à tout moment avant l’entrée en vigueur du présent Amend
 
 (Suivent les signatures)
 
-Champ d’application le 9 septembre 2021**[^t-1]**
+Champ d’application le 31 janvier 2022**[^t-1]**
 
 <table>
 <tr><th>états parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -384,6 +384,7 @@ Champ d’application le 9 septembre 2021**[^t-1]**
 <tr><td>Croatie</td><td>6 décembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Cuba</td><td>20 juin</td><td>2019</td><td>18 septembre</td><td>2019</td></tr>
 <tr><td>Danemark <sup>a</sup></td><td>6 décembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>El Salvador</td><td>13 septembre</td><td>2021</td><td>12 décembre</td><td>2021</td></tr>
 <tr><td>équateur</td><td>22 janvier</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Estonie</td><td>27 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Eswatini</td><td>24 novembre</td><td>2020</td><td>22 février</td><td>2021</td></tr>
@@ -401,6 +402,7 @@ Champ d’application le 9 septembre 2021**[^t-1]**
 <tr><td>Honduras</td><td>28 janvier</td><td>2019</td><td>28 avril</td><td>2019</td></tr>
 <tr><td>Îles Cook</td><td>22 août</td><td>2019</td><td>20 novembre</td><td>2019</td></tr>
 <tr><td>Îles Marshall</td><td>15 mai</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Inde</td><td>27 septembre</td><td>2021</td><td>26 décembre</td><td>2021</td></tr>
 <tr><td>Irlande</td><td>12 mars</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Islande</td><td>25 janvier</td><td>2021</td><td>25 avril</td><td>2021</td></tr>
 <tr><td>Japon</td><td>18 décembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -451,8 +453,10 @@ Champ d’application le 9 septembre 2021**[^t-1]**
 <tr><td>Samoa</td><td>23 mars</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Saint-Marin</td><td>20 octobre</td><td>2020</td><td>18 janvier</td><td>2021</td></tr>
 <tr><td>Saint-Siège\*</td><td>17 juin</td><td>2020 A</td><td>15 septembre</td><td>2020</td></tr>
+<tr><td>Sainte-Lucie</td><td>2 novembre</td><td>2021</td><td>31 janvier</td><td>2022</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>4 octobre</td><td>2019</td><td>2 janvier</td><td>2020</td></tr>
 <tr><td>Sénégal</td><td>31 août</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Serbie</td><td>8 octobre</td><td>2021</td><td>6 janvier</td><td>2022</td></tr>
 <tr><td>Seychelles</td><td>20 août</td><td>2019</td><td>18 novembre</td><td>2019</td></tr>
 <tr><td>Sierra Leone</td><td>15 juin</td><td>2020</td><td>13 septembre</td><td>2020</td></tr>
 <tr><td>Slovaquie</td><td>16 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -467,6 +471,7 @@ Champ d’application le 9 septembre 2021**[^t-1]**
 <tr><td>Trinité-et-Tobago</td><td>17 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Tunisie</td><td>27 août</td><td>2021</td><td>25 novembre</td><td>2021</td></tr>
 <tr><td>Turkménistan</td><td>31 août</td><td>2020</td><td>29 novembre</td><td>2020</td></tr>
+<tr><td>Turquie\*</td><td>10 novembre</td><td>2021</td><td>8 février</td><td>2022</td></tr>
 <tr><td>Tuvalu</td><td>21 septembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Union européenne\*</td><td>27 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Uruguay</td><td>12 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -476,4 +481,4 @@ Champ d’application le 9 septembre 2021**[^t-1]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Amendement au Protocole de Montréal ne s’applique pas au Groenland. <sup>b</sup> L’Amendement au Protocole de Montréal ne s’applique pas aux Tokélaou.</td></tr>
 </table>
 
-[^t-1]: [RO 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty
+[^t-1]: [RO 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty
