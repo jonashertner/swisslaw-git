@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2022-01-25
+version: 2022-01-31
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220125/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220125-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220131/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220131-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220131/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220125/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 25. Januar 2022)
+vom 23. Juni 2021 (Stand am 31. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -730,7 +730,7 @@ Anhang 2*[^t-2]*
 
 ## Vorgaben für die Ausnahmen von der Maskenpflicht und von der Kontaktquarantäne für geimpfte und genesene Personen
 
-[^t-2]: Bereinigt gemäss Anhang Ziff. 4 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. I der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung), in Kraft seit 13. Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^t-2]: Bereinigt gemäss Anhang Ziff. 4 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. II der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung) ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)) und Ziff. II Abs. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft seit 31. Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Geimpfte Personen
 
@@ -743,16 +743,16 @@ Anhang 2*[^t-2]*
   - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
   - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
-- 1\.2 Die Dauer, während der geimpfte Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. a) ausgenommen sind, beträgt 365 Tage ab vollständig erfolgter Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung.
+- 1\.2 Die Dauer, während der geimpfte Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. a) ausgenommen sind, beträgt 270 Tage ab vollständig erfolgter Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 270 Tage ab dem 22. Tag nach erfolgter Impfung.
 - 1\.3 Die Dauer, während der geimpfte Personen nach der Impfung von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. a) ausgenommen sind, beträgt 120 Tage ab vollständig erfolgter Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 120 Tage ab dem 22. Tag nach erfolgter Impfung.
 
 ### 2 Genesene Personen
 
 - 2\.1
 
-  Genesene Bewohnerinnen und Bewohner sozialmedizinischer Institutionen sind während folgender Zeitdauern von der Maskenpflicht (Art. 6 Abs. 5 Bst. b) ausgenommen:
+  Während der folgenden Zeitdauern sind genesene Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. b) ausgenommen:
 
-  - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2, eines Sars-CoV-2-Schnelltests zur Fachanwendung oder einer laborbasierten immunologischen Analyse auf Sars-CoV-2-Antigene: vom 6. bis zum 365. Tag ab Bestätigung der Ansteckung;
+  - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2, eines Sars-CoV-2-Schnelltests zur Fachanwendung oder einer laborbasierten immunologischen Analyse auf Sars-CoV-2-Antigene: vom Ende der Absonderung bis zum 270. Tag ab Bestätigung der Ansteckung;
   - b. im Falle einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]: während der Dauer der Gültigkeit des entsprechenden Zertifikats.
 
 - 2\.2 Genesene Personen sind während folgender Zeitdauer von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. b) ausgenommen: vom 6. bis zum 120. Tag ab Bestätigung der Ansteckung durch eine molekularbiologische Analyse auf Sars-CoV-2, einen Sars-CoV-2-Schnelltest zur Fachanwendung oder eine laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene.

@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2022-01-25
+version: 2022-01-31
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220125/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220125-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220125/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220131/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220131-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220131/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 25 January 2022)
+of 23 June 2021 (Status as of 31 January 2022)
 
 The Swiss Federal Council,
 
@@ -419,7 +419,7 @@ Restrictions on numbers do not apply to the following events:
 
 [^19-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^19-2]: Inserted by No 1 of the O of 17 Dec. 2021 (Mask Requirement at Upper-Secondary Level, Restrictions on Access to Persons with a Vaccination or Recovery Certificate, Restrictions on Private Events. Requirement to Work from Home, Requirements at Tertiary Level and in CET) ([AS 2021 882](https://fedlex.data.admin.ch/eli/oc/2021/882)). Amended by No I of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 25 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^19-3]: The reference has been adapted in application of art. 12 para. 2 of the law of 18 June 2004 on official publications ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), in force from 25 Jan. 2022.
+[^19-3]: The reference was adapted on 25 Jan. 2022 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 19a
 
@@ -731,7 +731,7 @@ Annex 2*[^t-2]*
 
 ## Requirements for an exemption from the requirement to wear a mask and from contact quarantine for persons who have been vaccinated or who have recovered
 
-[^t-2]: Revised by Annex No 4 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) and Annex No I of the O of 12 Jan. 2022 (Contact Quarantine and Isolation), in force since 13 Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^t-2]: Revised by Annex No 4 of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Annex No I of the O of 12 Jan. 2022 (Contact Quarantine and Isolation ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)) and No II para. 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force since 31 Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Persons who have been vaccinated
 
@@ -744,13 +744,13 @@ Annex 2*[^t-2]*
   - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered;
   - d. has been shown to have the same composition as a vaccine licensed under letters a, b or c, but marketed by the licence holder under another name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
-- 1\.2 The period during which vaccinated residents of socio-medical institutions are exempt from the requirement to wear a mask (Art. 6 para. 5 let. a) shall amount to 365 days from the date of vaccination in full; the Janssen Ad26.COV2.S / COVID-19 vaccine is regarded as being effective for 365 days from the 22nd day after it was administered in full.
+- 1\.2 The period during which vaccinated residents of socio-medical institutions are exempt from the requirement to wear a mask (Art. 6 para. 5 let. a) shall amount to 270 days from the date of vaccination in full; the Janssen Ad26.COV2.S / COVID-19 vaccine is regarded as being effective for 270 days from the 22nd day after it was administered in full.
 - 1\.3 The period during which persons who have been vaccinated are exempt from contact quarantine (Art. 7 para. 2 let. a) shall amount to 120 days from the date of vaccination in full; the Janssen Ad26.COV2.S / COVID-19 vaccine is regarded as being effective for 120 days from the 22nd day after it was administered in full.
 
 ### 2 Persons who have recovered
 
 - 2\.1 Residents of socio-medical institutions who have recovered are exempt from the requirement to wear a mask (Art. 6 para. 5 let. b) for the following periods:
-- a. when based on a molecular-biological analysis for Sars-CoV-2, a Sars-CoV-2-rapid test for specialist use or a laboratory immunological analysis for Sars-CoV-2 antigens: from the 11th to the 365th day after confirmation of infection;
+- a. when based on a molecular-biological analysis for Sars-CoV-2, a Sars-CoV-2-rapid test for specialist use or a laboratory immunological analysis for Sars-CoV-2 antigens: from the end of isolation until the 270th day after confirmation of infection;
 - b. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex2-lvlu1-lvl2-1]: for the term of validity of the certificate concerned.
 - 2\.2 Persons who have recovered are exempt from contact quarantine (Art. 7 para. 2 let. a) for the following period: from the 6th to the 120th day following confirmation of infection based on a molecular-biological analysis for Sars-CoV-2, a Sars-CoV-2-rapid test for specialist use or a laboratory immunological analysis for Sars-CoV-2 antigens.
 

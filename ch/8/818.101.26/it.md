@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2022-01-25
+version: 2022-01-31
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220125/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220125-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220131/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220131-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220131/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220125/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 25 gennaio 2022)
+del 23 giugno 2021 (Stato 31 gennaio 2022) (Stato 31 gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -730,7 +730,7 @@ Allegato 2*[^t-2]*
 
 ## Prescrizioni relative all’esenzione delle persone vaccinate o guarite dall’obbligo della mascherina e della quarantena dei contatti
 
-[^t-2]: Aggiornato dall’all. n. 4 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dal n. II dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento), in vigore dal 13 gen. 2022 ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^t-2]: Aggiornato dall’all. n. 4 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento) ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)) e dal n. II cpv. 2 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 31 gen. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
 ### 1 Persone vaccinate
 
@@ -744,16 +744,16 @@ Allegato 2*[^t-2]*
   - d. che presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma è immesso in commercio da un licenziatario con un altro nome, a condizione che la vaccinazione sia avvenuta in modo completo conformemente ai requisiti o alle raccomandazioni dello Stato in cui è stata effettuata;
   - e. la presenza di persone con un attestato secondo l’articolo 3 capoverso 2<sup>bis</sup>, ad esempio l’obbligo per queste persone di portare una mascherina facciale o, in caso di compresenza di un attestato per l’esonero dall’obbligo di portare una mascherina facciale secondo l’articolo 5 capoverso 1 lettera b, prescrizioni per il rispetto della distanza obbligatoria.
 
-- 1\.2 Il lasso di tempo durante il quale gli ospiti vaccinati di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. a) è di 365 giorni a partire dal completamento della vaccinazione; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen la durata è di 365 giorni a partire dal 22° giorno dopo la vaccinazione.
+- 1\.2 Il lasso di tempo durante il quale gli ospiti vaccinati di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. a) è di 270 giorni a partire dalla vaccinazione completa; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen la durata è di 270 giorni a partire dal 22° giorno dalla vaccinazione.
 - 1\.3 Il lasso di tempo durante il quale le persone vaccinate sono esentate dall’obbligo della quarantena dei contatti dopo la vaccinazione (art. 7 cpv. 2 lett. a) è di 120 giorni a partire dal completamento della vaccinazione; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen la durata è di 120 giorni a partire dal 22° giorno dopo la vaccinazione.
 
 ### 2 Persone guarite
 
 - 2\.1
 
-  Gli ospiti guariti di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. b) durante il seguente lasso di tempo:
+  Durante il seguente lasso di tempo gli ospiti guariti di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. b):
 
-  - a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2, di test rapido per il SARS-CoV-2 per uso professionale o di analisi immunologica di laboratorio degli antigeni SARS-CoV-2: dal 6° al 365° giorno dalla conferma del contagio;
+  - a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2, di test rapido per il SARS-CoV-2 per uso professionale o di analisi immunologica di laboratorio degli antigeni SARS-CoV-2: dalla fine dell’isolamento al 270° giorno dalla conferma del contagio;
   - b. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl2-1] sui certificati COVID-19: per la durata di validità del relativo certificato.
 
 - 2\.2 Le persone guarite sono esentate dalla quarantena dei contatti (art. 7 cpv. 2 lett. b) dal 6° al 120° giorno dalla conferma del contagio mediante analisi di biologia molecolare per il rilevamento del SARS-CoV-2, test rapido per il SARS-CoV-2 per uso professionale o analisi immunologica di laboratorio degli antigeni SARS-CoV-2.
