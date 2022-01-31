@@ -3,13 +3,12 @@ canton: FR
 number: "413.1.11"
 title: "Reglement über die Berufs-, Studien- und Laufbahnberatung"
 language: de
-version: 2010-09-01
-valid_until: 2022-01-31
-version_adopted: 2010-05-11
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2010-05-11
 in_force: 2010-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/413.1.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5177/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5177/pdf_file"
 
 Berufs-, Studien- und Laufbahnberatung – R
 
-vom 11.05.2010 (Fassung in Kraft getreten am 01.09.2010)
+vom 11.05.2010 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -34,7 +33,9 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement regelt den Vollzug des Gesetzes über die Berufs-, Studien- und Laufbahnberatung.
+<sup>1</sup> Dieses Reglement regelt den Vollzug des Gesetzes über die Berufs-, Studien- und Laufbahnberatung[^1-1].
+
+[^1-1]: SGF [413.1.1](https://bdlf.fr.ch/data/413.1.1/de)
 
 #### Art. 2
 
@@ -98,7 +99,7 @@ beschliesst:
 
 <sup>3</sup> Die Berufsberatung der Schülerinnen und Schüler mit einer Behinderung erfolgt in Zusammenarbeit mit den zuständigen Stellen.
 
-<sup>4</sup> Die Direktion für Erziehung, Kultur und Sport (die Direktion) erlässt Richtlinien für die Zusammenarbeit zwischen der Berufs-, Studien- und Laufbahnberatung und den Orientierungsschulen.
+<sup>4</sup> Die Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) erlässt Richtlinien für die Zusammenarbeit zwischen der Berufs-, Studien- und Laufbahnberatung und den Orientierungsschulen.
 
 #### Art. 9
 
@@ -162,7 +163,7 @@ beschliesst:
 
 **Änderung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 6. Juli 2004 für das Lehrpersonal, das der Direktion für Erziehung, Kultur und Sport untersteht (LPR) (SGF 415.0.11) wird wie folgt geändert:
+<sup>1</sup> Das Reglement vom 6. Juli 2004 für das Lehrpersonal, das der Direktion für Bildung und kulturelle Angelegenheiten untersteht (LPR) (SGF 415.0.11) wird wie folgt geändert:
 
 ...
 

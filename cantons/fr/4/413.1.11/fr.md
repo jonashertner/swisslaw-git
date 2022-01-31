@@ -3,13 +3,12 @@ canton: FR
 number: "413.1.11"
 title: "Règlement sur l'orientation professionnelle, universitaire et de carrière"
 language: fr
-version: 2010-09-01
-valid_until: 2022-01-31
-version_adopted: 2010-05-11
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2010-05-11
 in_force: 2010-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/413.1.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5177/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8515/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5177/pdf_file"
 
 Orientation professionnelle, universitaire et de carrière – R
 
-du 11.05.2010 (version entrée en vigueur le 01.09.2010)
+du 11.05.2010 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,7 +33,9 @@ Arrête:
 
 **Objet**
 
-<sup>1</sup> Le présent règlement fixe les modalités d'application de la loi sur l'orientation professionnelle, universitaire et de carrière.
+<sup>1</sup> Le présent règlement fixe les modalités d'application de la loi sur l'orientation professionnelle, universitaire et de carrière[^1-1].
+
+[^1-1]: RSF [413.1.1](https://bdlf.fr.ch/data/413.1.1/fr)
 
 #### Art. 2
 
@@ -98,7 +99,7 @@ Arrête:
 
 <sup>3</sup> L'orientation des élèves en situation de handicap se fait en collaboration avec les services compétents.
 
-<sup>4</sup> Le mode de collaboration avec les écoles du cycle d'orientation fait l'objet de directives de la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction).
+<sup>4</sup> Le mode de collaboration avec les écoles du cycle d'orientation fait l'objet de directives de la Direction de la formation et des affaires culturelles (ci-après: la Direction).
 
 #### Art. 9
 
@@ -162,7 +163,7 @@ Arrête:
 
 **Modification**
 
-<sup>1</sup> Le règlement du 6 juillet 2004 relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport (RPens) (RSF 415.0.11) est modifié comme il suit:
+<sup>1</sup> Le règlement du 6 juillet 2004 relatif au personnel enseignant de la Direction de la formation et des affaires culturelles (RPens) (RSF 415.0.11) est modifié comme il suit:
 
 ...
 
