@@ -4,13 +4,13 @@ number: "137.11"
 title: "Ordonnance sur la profession d'avocat"
 short: OAv
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 2003-07-01
 in_force: 2003-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/137.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7053/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7383/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Profession d'avocat – O
 
 (OAv)
 
-du 01.07.2003 (version entrée en vigueur le 01.01.2022)
+du 01.07.2003 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -84,7 +84,7 @@ Arrête:
 
 **Commission du barreau (art. 3, 4 et 5 LAv) – Organe consultatif**
 
-<sup>1</sup> La Commission du barreau est consultée par la Direction de la sécurité et de la justice ou par le Conseil d'Etat sur tous les problèmes concernant la profession d'avocat et peut formuler des propositions dans les domaines de sa compétence.
+<sup>1</sup> La Commission du barreau est consultée par la Direction de la sécurité, de la justice et du sport ou par le Conseil d'Etat sur tous les problèmes concernant la profession d'avocat et peut formuler des propositions dans les domaines de sa compétence.
 
 #### Art. 4a
 
@@ -403,21 +403,21 @@ Arrête:
 <sup>1</sup> Les émoluments suivants sont perçus:
 
 - a) Stage d'avocat ou d'avocate:
-  - 1\. autorisation: Fr. 120
-  - 2\. prolongation de l'autorisation: Fr. 120
-- b) Inscription au registre et au tableau: Fr. 500
-- c) Radiation du registre et du tableau: Fr. 120
-- d) Autorisation de pratiquer pour une cause déterminée: Fr. 120
+  - 1\. autorisation: — Fr. 120
+  - 2\. prolongation de l'autorisation: — Fr. 120
+- b) Inscription au registre et au tableau: — Fr. 500
+- c) Radiation du registre et du tableau: — Fr. 120
+- d) Autorisation de pratiquer pour une cause déterminée: — Fr. 120
 - e) Décision disciplinaire:
-  - 1\. selon l'importance de l'instruction: Fr. 60 à 5500
+  - 1\. selon l'importance de l'instruction: — Fr. 60 à 5500
 - f) Epreuve d'aptitude:
-  - 1\. selon l'importance de l'examen: Fr. 500 à 1600
-- g) Entretien de vérification: Fr. 120
+  - 1\. selon l'importance de l'examen: — Fr. 500 à 1600
+- g) Entretien de vérification: — Fr. 120
 - h) Examen au barreau:
-  - 1\. épreuves écrites: Fr. 400
-  - 2\. plus, par épreuve subie: Fr. 200
+  - 1\. épreuves écrites: — Fr. 400
+  - 2\. plus, par épreuve subie: — Fr. 200
 - i) Examen au barreau:
-  - 1\. épreuves orales: Fr. 600
+  - 1\. épreuves orales: — Fr. 600
 
 <sup>2</sup> Les émoluments d'examen au barreau comprennent la délivrance du brevet en cas de réussite des examens.
 

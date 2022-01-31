@@ -4,13 +4,13 @@ number: "137.11"
 title: Verordnung über den Anwaltsberuf
 short: AnwV
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 2003-07-01
 in_force: 2003-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/137.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7053/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7383/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Anwaltsberuf – V
 
 (AnwV)
 
-vom 01.07.2003 (Fassung in Kraft getreten am 01.01.2022)
+vom 01.07.2003 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -84,7 +84,7 @@ beschliesst:
 
 **Anwaltskommission (Art. 3, 4 und 5 AnwG) – Beratendes Organ**
 
-<sup>1</sup> Die Anwaltskommission wird von der Sicherheits- und Justizdirektion und vom Staatsrat in allen Belangen in Zusammenhang mit dem Anwaltsberuf zu Rate gezogen. Sie kann in den Bereichen ihrer Zuständigkeit Vorschläge unterbreiten.
+<sup>1</sup> Die Anwaltskommission wird von der Sicherheits-, Justiz- und Sportdirektion und vom Staatsrat in allen Belangen in Zusammenhang mit dem Anwaltsberuf zu Rate gezogen. Sie kann in den Bereichen ihrer Zuständigkeit Vorschläge unterbreiten.
 
 #### Art. 4a
 
@@ -403,21 +403,21 @@ beschliesst:
 <sup>1</sup> Es werden folgende Gebühren erhoben:
 
 - a) Anwaltspraktikum:
-  - 1\. Bewilligung: Fr. 120
-  - 2\. Verlängerung der Bewilligung: Fr. 120
-- b) Register- oder Listeneintragung: Fr. 500
-- c) Streichung eines Register- oder Listeneintrags: Fr. 120
-- d) Bewilligung zur Berufsausübung für einen bestimmten Fall: Fr. 120
+  - 1\. Bewilligung: — Fr. 120
+  - 2\. Verlängerung der Bewilligung: — Fr. 120
+- b) Register- oder Listeneintragung: — Fr. 500
+- c) Streichung eines Register- oder Listeneintrags: — Fr. 120
+- d) Bewilligung zur Berufsausübung für einen bestimmten Fall: — Fr. 120
 - e) Disziplinarentscheid:
-  - 1\. je nach Umfang der Untersuchung: Fr. 60 à 5500
+  - 1\. je nach Umfang der Untersuchung: — Fr. 60 à 5500
 - f) Eignungsprüfung:
-  - 1\. je nach Umfang der Prüfung: Fr. 500 à 1600
-- g) Gespräch zur Beurteilung der beruflichen Fähigkeiten: Fr. 120
+  - 1\. je nach Umfang der Prüfung: — Fr. 500 à 1600
+- g) Gespräch zur Beurteilung der beruflichen Fähigkeiten: — Fr. 120
 - h) Anwaltsexamen:
-  - 1\. schriftliche Prüfungen: Fr. 400
-  - 2\. zusätzlich pro Prüfung: Fr. 200
+  - 1\. schriftliche Prüfungen: — Fr. 400
+  - 2\. zusätzlich pro Prüfung: — Fr. 200
 - i) Anwaltsexamen:
-  - 1\. mündliche Prüfungen: Fr. 600
+  - 1\. mündliche Prüfungen: — Fr. 600
 
 <sup>2</sup> Die Gebühren für die Anwaltsexamen beinhalten, falls die Prüfungen bestanden werden, die Erteilung des Anwaltspatentes.
 
