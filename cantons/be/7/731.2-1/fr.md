@@ -4,13 +4,12 @@ number: 731.2-1
 title: Accord intercantonal sur les marchés publics
 short: AIMP 2019
 language: fr
-version: 2021-07-01
-valid_until: 2022-01-31
+version: 2022-02-01
 version_adopted: 2019-11-15
 adopted: 2019-11-15
 in_force: 2021-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.2-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2465/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3138/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2465/pdf_file"
 
 (AIMP 2019)
 
-du 15.11.2019 (état au 01.07.2021)
+du 15.11.2019 (état au 01.02.2022)
 
 Edicté par l'organe intercantonal des marchés publics (AiMp) le 15 novembre 2019.
 
@@ -57,10 +56,11 @@ Edicté par l'organe intercantonal des marchés publics (AiMp) le 15 novembre 20
   - 1\. créé pour satisfaire spécifiquement des besoins d’intérêt général ayant un caractère autre que commercial ou industriel,
   - 2\. doté d’une personnalité juridique, et
   - 3\. dont soit l’activité est financée majoritairement par l’Etat, les collectivités territoriales ou d’autres organismes de droit public, soit la gestion est soumise à un contrôle par ces derniers, soit l’organe d’administration, de direction ou de surveillance est composé de membres dont plus de la moitié est désignée par l’Etat, les collectivités territoriales ou d’autres organismes de droit public;
-- g pouvoirs publics: l’Etat, les collectivités territoriales, les établissements de droit public et les associations formées par une ou plusieurs de ces collectivités ou un ou plusieurs de ces établissements de droit public.
+- g pouvoirs publics: l’Etat, les collectivités territoriales, les organismes de droit public et les associations formées par une ou plusieurs de ces collectivités ou un ou plusieurs de ces établissements de droit public.[^3-3]
 
 [^3-1]: RS [220](https://db.clex.ch/link/Bund/220/fr)
 [^3-2]: RS [822.11](https://db.clex.ch/link/Bund/822.11/fr)
+[^3-3]: Rectifiée par décision de l'Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024 (ROB [25-008](https://www.belex.sites.be.ch/app/fr/change_documents/2363))
 
 ## 2 Champ d’application
 
@@ -70,7 +70,7 @@ Edicté par l'organe intercantonal des marchés publics (AiMp) le 15 novembre 20
 
 **Adjudicateurs**
 
-<sup>1</sup> Pour les marchés soumis aux accords internationaux, sont soumis au présent accord les pouvoirs publics ainsi que les unités administratives centrales ou décentralisées, y compris les collectivités de droit public, du canton, du district et de la commune au sens du droit cantonal et communal, exception faite de leurs activités à caractère commercial ou industriel.
+<sup>1</sup> Pour les marchés soumis aux accords internationaux, sont soumis au présent accord les pouvoirs publics ainsi que les unités administratives centrales ou décentralisées, y compris les organismes de droit public, du canton, du district et de la commune au sens du droit cantonal et communal, exception faite de leurs activités à caractère commercial ou industriel.[^4-1]
 
 <sup>2</sup> Pour les marchés soumis aux accords internationaux, sont en outre soumis au présent accord les pouvoirs publics et les entreprises publiques ou privées qui assurent un service public et qui bénéficient de droits exclusifs ou spéciaux pour autant qu’elles exercent des activités en Suisse dans l’un des secteurs énoncés ci-après:
 
@@ -87,10 +87,13 @@ Edicté par l'organe intercantonal des marchés publics (AiMp) le 15 novembre 20
 
 <sup>4</sup> Pour les marchés non soumis aux accords internationaux, sont en outre soumis au présent accord:
 
-- a les autres collectivités assumant des tâches cantonales ou communales dans la mesure où elles n’ont pas d’activités à caractère commercial ou industriel;
+- a les autres organes assumant des tâches cantonales ou communales dans la mesure où elles n’ont pas d’activités à caractère commercial ou industriel;[^4-2]
 - b les projets et prestations qui sont subventionnés à plus de 50 pour cent du coût total par des fonds publics.
 
 <sup>5</sup> Si un tiers passe un marché public pour le compte d’un ou de plusieurs adjudicateurs, il est soumis au présent accord au même titre que les adjudicateurs qu’il représente.
+
+[^4-1]: Rectifié par décision de l'Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024 (ROB [25-008](https://www.belex.sites.be.ch/app/fr/change_documents/2363))
+[^4-2]: Rectifiée par décision de l'Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024 (ROB [25-008](https://www.belex.sites.be.ch/app/fr/change_documents/2363))
 
 #### Art. 5
 
@@ -267,9 +270,11 @@ Edicté par l'organe intercantonal des marchés publics (AiMp) le 15 novembre 20
 
 <sup>2</sup> La Confédération garantit la participation des cantons à toute renégociation des engagements internationaux relatifs aux valeurs seuils.
 
-<sup>3</sup> Lorsque la valeur totale de plusieurs travaux de construction visés à l'annexe 1, chiffre 1, qui sont nécessaires à la réalisation d’un même ouvrage atteint la valeur seuil déterminante pour l’application des accords internationaux, les dispositions du présent accord qui régissent les marchés soumis aux accords internationaux s’appliquent. En revanche, lorsque ces travaux de construction ont chacun une valeur inférieure à deux millions de francs et que leur valeur cumulée ne dépasse pas 20 pour cent de la valeur totale de l’ouvrage, ils sont soumis aux dispositions du présent accord qui régissent les marchés non soumis aux accords internationaux (clause de minimis).
+<sup>3</sup> Lorsque la valeur totale de plusieurs travaux de construction, qui sont nécessaires à la réalisation d’un même ouvrage atteint la valeur seuil déterminante pour l’application des accords internationaux, les dispositions du présent accord qui régissent les marchés soumis aux accords internationaux s’appliquent. En revanche, lorsque ces travaux de construction ont chacun une valeur inférieure à deux millions de francs et que leur valeur cumulée ne dépasse pas 20 pour cent de la valeur totale de l’ouvrage, ils sont soumis aux dispositions du présent accord qui régissent les marchés non soumis aux accords internationaux (clause de minimis).[^16-1]
 
 <sup>4</sup> Pour les travaux de construction non soumis aux accords internationaux, la procédure applicable est déterminée sur la base de la valeur de chacun des travaux.
+
+[^16-1]: Rectifié par décision de l'Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024 (ROB [25-008](https://www.belex.sites.be.ch/app/fr/change_documents/2363))
 
 #### Art. 17
 
@@ -667,11 +672,13 @@ Edicté par l'organe intercantonal des marchés publics (AiMp) le 15 novembre 20
 
 <sup>2</sup> Ces sanctions peuvent être prononcées indépendamment de l’application d’autres mesures juridiques à l’encontre du soumissionnaire, du sous-traitant ou de leurs organes fautifs. Si l’adjudicateur ou l’autorité compétente en vertu de la loi soupçonne un accord illicite affectant la concurrence au sens de l’article 44, alinéa 2, lettre b, il ou elle en informe la Commission de la concurrence.
 
-<sup>3</sup> L’adjudicateur ou l’autorité compétente en vertu de la loi annonce à l’AiMp les exclusions entrées en force prononcées sur la base de l’alinéa 1. L’AiMp tient une liste non publique des soumissionnaires et sous-traitants sanctionnés, qui mentionne le motif et la durée de l’exclusion des marchés publics. Il veille à ce que tout adjudicateur puisse obtenir les données relatives à un soumissionnaire ou sous-traitant déterminé. À cet effet, il peut mettre en place une procédure de consultation en ligne des données. La Confédération et les cantons se donnent mutuellement accès à toutes les informations récoltées sur la base du présent article. À l’expiration de la sanction, l’inscription y relative est effacée de la liste.
+<sup>3</sup> L’adjudicateur ou l’autorité compétente en vertu de la loi annonce à l’AiMp les exclusions entrées en force prononcées sur la base de l’alinéa 1. L’AiMp tient une liste non publique des soumissionnaires et sous-traitants sanctionnés, qui mentionne le motif et la durée de l’exclusion des marchés publics. Elle veille à ce que tout adjudicateur puisse obtenir les données relatives à un soumissionnaire ou sous-traitant déterminé. À cet effet, elle peut mettre en place une procédure de consultation en ligne des données. La Confédération et les cantons se donnent mutuellement accès à toutes les informations récoltées sur la base du présent article. À l’expiration de la sanction, l’inscription y relative est effacée de la liste.[^45-1]
 
 <sup>4</sup> Lorsqu’un adjudicateur contrevient au présent accord, l’autorité compétente en vertu de la loi édicte des instructions appropriées et se charge d’en assurer le respect.
 
 <sup>5</sup> Lorsque des contributions financières sont allouées pour un marché public, elles peuvent être supprimées en tout ou en partie ou faire l'objet d'une demande de restitution en cas de violation du présent accord par l'adjudicateur.
+
+[^45-1]: Rectifié par décision de l'Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024 (ROB [25-008](https://www.belex.sites.be.ch/app/fr/change_documents/2363))
 
 ## 7 Délais et publications, statistiques
 
@@ -895,7 +902,9 @@ Edicté par l'organe intercantonal des marchés publics (AiMp) le 15 novembre 20
 
 **Révision**
 
-<sup>1</sup> Lorsque l’autorité de recours est appelée à statuer sur une demande de révision, l’article 60, alinéa 2, est applicable par analogie.
+<sup>1</sup> Lorsque l’autorité de recours est appelée à statuer sur une demande de révision, l’article 58, alinéa 2, est applicable par analogie.[^59-1]
+
+[^59-1]: Rectifié par décision de l'Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024 (ROB [25-008](https://www.belex.sites.be.ch/app/fr/change_documents/2363))
 
 ## 9 Autorités
 
@@ -922,7 +931,7 @@ Edicté par l'organe intercantonal des marchés publics (AiMp) le 15 novembre 20
 
 **Autorité intercantonale**
 
-<sup>1</sup> Les membres de la Conférence suisse des directeurs cantonaux des travaux publics, de l’aménagement du territoire et de la protection de l’environnement représentant les cantons parties au présent accord, forment l’Autorité intercantonale pour les marchés publics (AiMp).
+<sup>1</sup> Les membres de la Conférence suisse des directeurs cantonaux des travaux publics, de l’aménagement du territoire et de l’environnement représentant les cantons parties au présent accord, forment l’Autorité intercantonale pour les marchés publics (AiMp).[^61-1]
 
 <sup>2</sup> L’AiMp assume notamment les tâches suivantes:
 
@@ -939,6 +948,8 @@ Edicté par l'organe intercantonal des marchés publics (AiMp) le 15 novembre 20
 <sup>3</sup> L’AiMp prend ses décisions à la majorité des trois-quarts des représentants présents, pour autant que la moitié des cantons soit représentée. Chaque canton partie à l'accord dispose d’une voix, qui est exprimée par un membre de son gouvernement.
 
 <sup>4</sup> L’AiMp collabore avec les Conférences des chefs de départements cantonaux concernées, avec les Conférences spécialisées des cantons et avec la Confédération.
+
+[^61-1]: Rectifié par décision de l'Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024 (ROB [25-008](https://www.belex.sites.be.ch/app/fr/change_documents/2363))
 
 #### Art. 62
 
@@ -1063,10 +1074,13 @@ Edicté par l'organe intercantonal des marchés publics (AiMp) le 15 novembre 20
 
 <sup>5</sup> Convention du 5 juin 1992 sur la diversité biologique (RS [0.451.43](https://db.clex.ch/link/Bund/0.451.43/fr));
 
-<sup>6</sup> Convention-cadre des Nations Unies sur les changements climatiques du 9 mai 1992 (RS [0.814.01](https://db.clex.ch/link/Bund/0.814.01/fr));
+<sup>6</sup> Convention-cadre des Nations Unies du 9 mai 1992 sur les changements climatiques (RS [0.814.01](https://db.clex.ch/link/Bund/0.814.01/fr));[^A41-1]
 
 <sup>7</sup> Convention du 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction (RS [0.453](https://db.clex.ch/link/Bund/0.453/fr));
 
-<sup>8</sup> Convention sur la pollution atmosphérique transfrontière à longue distance du 13 novembre 1979 et les huit protocoles ratifiés par la Suisse dans le cadre de cette convention (RS [0.814.32](https://db.clex.ch/link/Bund/0.814.32/fr)).
+<sup>8</sup> Convention du 13 novembre 1979 sur la pollution atmosphérique transfrontière à longue distance et les huit protocoles ratifiés par la Suisse dans le cadre de cette convention (RS [0.814.32](https://db.clex.ch/link/Bund/0.814.32/fr)).[^A41-2]
+
+[^A41-1]: Rectifié par décision de l'Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024 (ROB [25-008](https://www.belex.sites.be.ch/app/fr/change_documents/2363))
+[^A41-2]: Rectifié par décision de l'Autorité intercantonale pour les marchés publics (AiMp) du 19 septembre 2024 (ROB [25-008](https://www.belex.sites.be.ch/app/fr/change_documents/2363))
 
 21-110

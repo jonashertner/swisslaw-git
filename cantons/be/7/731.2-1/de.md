@@ -4,13 +4,12 @@ number: 731.2-1
 title: Interkantonale Vereinbarung über das öffentliche Beschaffungswesen
 short: IVöB
 language: de
-version: 2021-07-01
-valid_until: 2022-01-31
+version: 2022-02-01
 version_adopted: 2019-11-15
 adopted: 2019-11-15
 in_force: 2021-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.2-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2465/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3138/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2465/pdf_file"
 
 (IVöB)
 
-vom 15.11.2019 (Stand 01.07.2021)
+vom 15.11.2019 (Stand 01.02.2022)
 
 Erlassen vom Interkantonalen Organ für das öffentliche Beschaffungswesen (InöB) am 15. November 2019.
 
