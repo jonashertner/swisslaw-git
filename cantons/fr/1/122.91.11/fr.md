@@ -4,13 +4,13 @@ number: "122.91.11"
 title: Règlement sur les marchés publics
 short: RMP
 language: fr
-version: 2011-10-01
-valid_until: 2022-01-31
-version_adopted: 2011-09-05
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 2022-12-12
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.91.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6387/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7241/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Marchés publics – R
 
 (RMP)
 
-du 28.04.1998 (version entrée en vigueur le 01.10.2011)
+du 28.04.1998 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -615,7 +615,7 @@ Arrête:
 
 **Statistiques (art. 4 al. 2 let. e AIMP)**
 
-<sup>1</sup> Sur demande de l'autorité intercantonale, la Direction de l'aménagement, de l'environnement et des constructions lui transmet, à l'intention de la Confédération, la statistique annuelle des marchés soumis aux traités internationaux.
+<sup>1</sup> Sur demande de l'autorité intercantonale, la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement lui transmet, à l'intention de la Confédération, la statistique annuelle des marchés soumis aux traités internationaux.
 
 #### Art. 47b
 

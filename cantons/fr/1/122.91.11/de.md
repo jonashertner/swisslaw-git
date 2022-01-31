@@ -4,13 +4,13 @@ number: "122.91.11"
 title: Reglement über das öffentliche Beschaffungswesen
 short: ÖBR
 language: de
-version: 2011-10-01
-valid_until: 2022-01-31
-version_adopted: 2011-09-05
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 2022-12-12
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.91.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6387/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7241/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6387/pdf_file"
 
 (ÖBR)
 
-vom 28.04.1998 (Fassung in Kraft getreten am 01.10.2011)
+vom 28.04.1998 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -615,7 +615,7 @@ beschliesst:
 
 **Statistik (Art. 4 Abs. 2 Bst. e IVöB)**
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion übermittelt dem Interkantonalen Organ auf dessen Aufforderung die jährliche Statistik über die Aufträge im Staatsvertragsbereich zuhanden des Bundes.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt übermittelt dem Interkantonalen Organ auf dessen Aufforderung die jährliche Statistik über die Aufträge im Staatsvertragsbereich zuhanden des Bundes.
 
 #### Art. 47b
 
