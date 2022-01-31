@@ -3,13 +3,12 @@ canton: FR
 number: "821.0.15"
 title: Ordonnance concernant la protection contre la fumée passive
 language: fr
-version: 2010-01-01
-valid_until: 2022-01-31
-version_adopted: 2009-12-01
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2009-06-03
 in_force: 2009-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.0.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5467/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7405/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5467/pdf_file"
 
 Protection contre la fumée passive – O
 
-du 03.06.2009 (version entrée en vigueur le 01.01.2010)
+du 03.06.2009 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -63,7 +62,7 @@ Arrête:
 - c) être dotés de portes à fermeture automatique, sans possibilité d'ouverture non intentionnelle;
 - d) être désignés comme tels de manière bien visible à l'entrée.
 
-<sup>2</sup> La Direction de la sécurité et de la justice peut fixer des conditions particulières pour les exigences techniques et la surface maximale des espaces fumeurs des établissements suivants:
+<sup>2</sup> La Direction de la sécurité, de la justice et du sport peut fixer des conditions particulières pour les exigences techniques et la surface maximale des espaces fumeurs des établissements suivants:
 
 - a) les casinos;
 - b) les locaux de dégustation des commerces spécialisés dans le domaine du tabac.

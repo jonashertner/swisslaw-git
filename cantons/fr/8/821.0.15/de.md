@@ -3,13 +3,12 @@ canton: FR
 number: "821.0.15"
 title: Verordnung über den Schutz vor dem Passivrauchen
 language: de
-version: 2010-01-01
-valid_until: 2022-01-31
-version_adopted: 2009-12-01
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2009-06-03
 in_force: 2009-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.0.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/5467/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7405/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5467/pdf_file"
 
 Schutz vor dem Passivrauchen – V
 
-vom 03.06.2009 (Fassung in Kraft getreten am 01.01.2010)
+vom 03.06.2009 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -63,7 +62,7 @@ beschliesst:
 - c) mit automatisch schliessenden Türen ausgestattet sein, die sich nicht ungewollt öffnen;
 - d) am Eingang gut erkennbar als solche gekennzeichnet sein.
 
-<sup>2</sup> Die Sicherheits- und Justizdirektion kann besondere Bedingungen in Bezug auf die technischen Anforderungen und die Maximalfläche von Raucherräumen der folgenden Einrichtungen festlegen:
+<sup>2</sup> Die Sicherheits-, Justiz- und Sportdirektion kann besondere Bedingungen in Bezug auf die technischen Anforderungen und die Maximalfläche von Raucherräumen der folgenden Einrichtungen festlegen:
 
 - a) Spielcasinos;
 - b) Degustationsräume von Geschäften, die auf Tabakwaren spezialisiert sind.
