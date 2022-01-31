@@ -4,13 +4,13 @@ number: "821.40.98"
 title: "Ordonnance d'exécution du plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus par un soutien aux établissements publics de restauration"
 short: OPRR COVID-19
 language: fr
-version: 2021-10-12
-valid_until: 2022-01-31
-version_adopted: 2021-10-12
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-01
 adopted: 2021-10-12
 in_force: 2021-10-12
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.98"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6933/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7418/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6933/pdf_file"
 
 (OPRR COVID-19)
 
-du 12.10.2021 (version entrée en vigueur le 12.10.2021)
+du 12.10.2021 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -144,9 +144,9 @@ Arrête:
 
 **Reconsidération**
 
-<sup>1</sup> Les décisions de la PromFR prises sur la base de l'article 3 al. 4 de la présente ordonnance peuvent faire l'objet d'une demande de reconsidération auprès de la Direction de l'économie et de l'emploi (ci-après: la DEE).
+<sup>1</sup> Les décisions de la PromFR prises sur la base de l'article 3 al. 4 de la présente ordonnance peuvent faire l'objet d'une demande de reconsidération auprès de la Direction de l'économie, de l'emploi et de la formation professionnelle (ci-après: la DEEF).
 
-<sup>2</sup> Les décisions de la DEE sont sujettes à recours.
+<sup>2</sup> Les décisions de la DEEF sont sujettes à recours.
 
 #### Art. 10
 

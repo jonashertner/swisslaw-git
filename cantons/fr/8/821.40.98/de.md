@@ -4,13 +4,13 @@ number: "821.40.98"
 title: Ausführungsverordnung zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus durch die Unterstützung der öffentlichen Gaststätten
 short: WPRV-COVID-19
 language: de
-version: 2021-10-12
-valid_until: 2022-01-31
-version_adopted: 2021-10-12
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-01
 adopted: 2021-10-12
 in_force: 2021-10-12
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.98"
-pdf: "https://bdlf.fr.ch/api/de/versions/6933/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7418/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6933/pdf_file"
 
 (WPRV-COVID-19)
 
-vom 12.10.2021 (Fassung in Kraft getreten am 12.10.2021)
+vom 12.10.2021 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -144,9 +144,9 @@ beschliesst:
 
 **Wiedererwägung**
 
-<sup>1</sup> Gesuche um Wiedererwägung von Entscheiden, die von der WIF gestützt auf Artikel 3 Abs. 4 dieser Verordnung getroffen werden, sind an die Volkswirtschaftsdirektion (VWD) zu richten.
+<sup>1</sup> Gesuche um Wiedererwägung von Entscheiden, die von der WIF gestützt auf Artikel 3 Abs. 4 dieser Verordnung getroffen werden, sind an die Volkswirtschafts- und Berufsbildungsdirektion (VWBD) zu richten.
 
-<sup>2</sup> Die Verfügungen der VWD können mit Beschwerde angefochten werden.
+<sup>2</sup> Die Verfügungen der VWBD können mit Beschwerde angefochten werden.
 
 #### Art. 10
 
