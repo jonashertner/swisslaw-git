@@ -4,22 +4,23 @@ number: "122.28.32"
 title: Verordnung über die bedeutenden Immobilienvorhaben des Staates und über die Kommission für die Bewertung der Immobilienvorhaben des Staates
 short: ImmoV
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-11-09
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2021-11-09
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.28.32"
-pdf: "https://bdlf.fr.ch/api/de/versions/6973/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8290/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die bedeutenden Immobilienvorhaben des Staates und über die Kommission für die Bewertung der Immobilienvorhaben des Staates
 
+Bedeutenden Immobilienvorhaben und Kommission für die Bewertung – V
+
 (ImmoV)
 
-vom 09.11.2021 (Fassung in Kraft getreten am 01.01.2022)
+vom 09.11.2021 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -109,7 +110,7 @@ beschliesst:
 
 <sup>1</sup> Der Staatsrat setzt eine Kommission für die Bewertung der Immobilienvorhaben des Staates ein.
 
-<sup>2</sup> Sie ist administrativ der Raumplanungs-, Umwelt- und Baudirektion (RUBD) zugewiesen.
+<sup>2</sup> Sie ist administrativ der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU) zugewiesen.
 
 <sup>3</sup> Die BewKo beurteilt und begutachtet zuhanden der begünstigten Direktion und/oder des Staatsrats gestützt insbesondere auf die Immobilienstrategie des Staates die Gründe für:
 
@@ -122,7 +123,7 @@ beschliesst:
 
 **Zusammensetzung und Arbeitsweise der Bewertungskommission**
 
-<sup>1</sup> Die BewKo wird von der Vorsteherin oder vom Vorsteher der RUBD geleitet. Ihr gehören ausserdem folgende vom Staatsrat ernannte Mitglieder an:
+<sup>1</sup> Die BewKo wird von der Vorsteherin oder vom Vorsteher der RIMU geleitet. Ihr gehören ausserdem folgende vom Staatsrat ernannte Mitglieder an:
 
 - a) eine Vertreterin oder ein Vertreter des Hochbauamts (HBA);
 - b) eine Vertreterin oder ein Vertreter der Konferenz der Generalsekretäre;
@@ -139,7 +140,7 @@ beschliesst:
 
 **Arbeitsgruppe**
 
-<sup>1</sup> Die Arbeitsgruppe wird von der RUBD und der begünstigten Direktion in gegenseitigem Einvernehmen eingesetzt.
+<sup>1</sup> Die Arbeitsgruppe wird von der RIMU und der begünstigten Direktion in gegenseitigem Einvernehmen eingesetzt.
 
 <sup>2</sup> Sie hat insbesondere folgende Aufgaben:
 
@@ -160,7 +161,7 @@ beschliesst:
 
 **Steuerungsausschuss (COPIL)**
 
-<sup>1</sup> Der COPIL wird auf Vorschlag der RUBD und der begünstigten Direktion vom Staatsrat ernannt, sobald der Studienkredit bewilligt ist. Er wird mit der Übergabe des Werks aufgelöst.
+<sup>1</sup> Der COPIL wird auf Vorschlag der RIMU und der begünstigten Direktion vom Staatsrat ernannt, sobald der Studienkredit bewilligt ist. Er wird mit der Übergabe des Werks aufgelöst.
 
 <sup>2</sup> Er hat insbesondere folgende Aufgaben:
 
@@ -176,7 +177,7 @@ beschliesst:
 
 <sup>1</sup> Der COPIL besteht aus:
 
-- a) der Vorsteherin oder dem Vorsteher der RUBD (Co-Präsidium) oder einer delegierten Person;
+- a) der Vorsteherin oder dem Vorsteher der RIMU (Co-Präsidium) oder einer delegierten Person;
 - b) der Vorsteherin oder dem Vorsteher der begünstigten Direktion (Co-Präsidium) oder einer delegierten Person;
 - c) einem Mitglied aus jeder Fraktion im Grossen Rat (Mitglieder);
 - d) einer Person, welche die FinV vertritt (Mitglied);
@@ -196,7 +197,7 @@ beschliesst:
 
 **Projektausschuss (COPRO)**
 
-<sup>1</sup> Der COPRO wird vom Staatsrat auf Vorschlag der RUBD und der begünstigten Direktion ernannt.
+<sup>1</sup> Der COPRO wird vom Staatsrat auf Vorschlag der RIMU und der begünstigten Direktion ernannt.
 
 <sup>2</sup> Er hat folgende Aufgaben:
 
@@ -242,7 +243,7 @@ beschliesst:
 
 **Vorstudien – Arbeitsgruppe (Etappe 1)**
 
-<sup>1</sup> Nach der Validierung des Antrags durch den Staatsrat setzen die RUBD und die begünstigte Direktion in gegenseitigem Einvernehmen eine Arbeitsgruppe ein (Art. 9).
+<sup>1</sup> Nach der Validierung des Antrags durch den Staatsrat setzen die RIMU und die begünstigte Direktion in gegenseitigem Einvernehmen eine Arbeitsgruppe ein (Art. 9).
 
 <sup>2</sup> Die Arbeitsgruppe analysiert den Bedarf der begünstigten Direktion und/oder des benutzenden Amts und führt die Vorstudien bis zum Gesuch für einen Studienkredit oder die Verwendung eines Rahmenkredits durch.
 
@@ -267,9 +268,9 @@ beschliesst:
 
 <sup>1</sup> Auf der Grundlage der von der Arbeitsgruppe erstellten Vorstudien begutachtet die BewKo das Projekt zuhanden des Staatsrats (Art. 7).
 
-<sup>2</sup> Die RUBD und die begünstigte Direktion legen dem Staatsrat gemeinsam einen Vorschlag für die Fortsetzung des Projekts vor.
+<sup>2</sup> Die RIMU und die begünstigte Direktion legen dem Staatsrat gemeinsam einen Vorschlag für die Fortsetzung des Projekts vor.
 
-<sup>3</sup> Wenn die Projektstudien einen Studienkredit erfordern, stellen die RUBD und die begünstigte Direktion gemeinsam einen Antrag an den Staatsrat.
+<sup>3</sup> Wenn die Projektstudien einen Studienkredit erfordern, stellen die RIMU und die begünstigte Direktion gemeinsam einen Antrag an den Staatsrat.
 
 <sup>4</sup> Beschliesst der Staatsrat, das Projekt weiterzuführen, und wurde der Studienkredit angenommen oder die Verwendung eines Rahmenkredits genehmigt, so ernennt er einen COPIL und einen COPRO.
 
@@ -306,7 +307,7 @@ beschliesst:
 
 **Abschluss der Etappe 2**
 
-<sup>1</sup> Nach Abschluss der Etappe Projektierung und Ausschreibungen legen die RUBD und die begünstigte Direktion dem Staatsrat zuhanden des Grossen Rats gemeinsam einen Entwurf für eine Botschaft und ein Dekret für einen Verpflichtungskredit vor.
+<sup>1</sup> Nach Abschluss der Etappe Projektierung und Ausschreibungen legen die RIMU und die begünstigte Direktion dem Staatsrat zuhanden des Grossen Rats gemeinsam einen Entwurf für eine Botschaft und ein Dekret für einen Verpflichtungskredit vor.
 
 <sup>2</sup> Die Botschaft und der Dekretsentwurf geben namentlich Auskunft über den Personalbedarf für die Reinigung und den Betrieb des Gebäudes sowie über die finanziellen Auswirkungen des Betriebs auf den Staatshaushalt. Der mit dem Investitionsvorhaben verbundene Abschreibungsaufwand wird berücksichtigt.
 
@@ -361,9 +362,9 @@ beschliesst:
 
 **Kommunikation bei der Planung und Realisierung von bedeutenden Immobilienvorhaben**
 
-<sup>1</sup> Die begünstigte Direktion ist in Zusammenarbeit mit der RUBD für die Kommunikation über das Projekt zuständig, bis der Verpflichtungskredit bewilligt worden ist (Etappen 1 und 2).
+<sup>1</sup> Die begünstigte Direktion ist in Zusammenarbeit mit der RIMU für die Kommunikation über das Projekt zuständig, bis der Verpflichtungskredit bewilligt worden ist (Etappen 1 und 2).
 
-<sup>2</sup> Die RUBD ist in Zusammenarbeit mit der begünstigten Direktion für die Kommunikation während der gesamten Realisierungsphase bis zur Abnahme des Werks zuständig (Etappe 3).
+<sup>2</sup> Die RIMU ist in Zusammenarbeit mit der begünstigten Direktion für die Kommunikation während der gesamten Realisierungsphase bis zur Abnahme des Werks zuständig (Etappe 3).
 
 #### Art. 26
 
@@ -421,8 +422,11 @@ beschliesst:
 
 **Entschädigungen und Arbeitsweise der verschiedenen Organe**
 
-<sup>1</sup> Die Mitglieder der Organe nach Artikel 6 werden nach den Bestimmungen der Verordnung vom 16. November 2010 über die Entschädigung der Mitglieder der Kommissionen des Staates entschädigt.
+<sup>1</sup> Die Mitglieder der Organe nach Artikel 6 werden nach den Bestimmungen der Verordnung vom 16. November 2010 über die Entschädigung der Mitglieder der Kommissionen des Staates[^29-1] entschädigt.
 
-<sup>2</sup> Im Übrigen gelten für die Arbeitsweise der genannten Organe die Bestimmungen des Reglements vom 31. Oktober 2005 über die Organisation und die Arbeitsweise der Kommissionen des Staates.
+<sup>2</sup> Im Übrigen gelten für die Arbeitsweise der genannten Organe die Bestimmungen des Reglements vom 31. Oktober 2005 über die Organisation und die Arbeitsweise der Kommissionen des Staates[^29-2].
+
+[^29-1]: RSF [122.28.32](https://bdlf.fr.ch/data/122.28.32/de)
+[^29-2]: RSF [122.0.61](https://bdlf.fr.ch/data/122.0.61/de)
 
 2021\_146

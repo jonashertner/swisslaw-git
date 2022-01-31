@@ -4,22 +4,23 @@ number: "122.28.32"
 title: "Ordonnance sur les projets immobiliers importants de l'Etat et sur la Commission d'examen des projets immobiliers de l'Etat"
 short: OPIC
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-11-09
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2021-11-09
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.28.32"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6973/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8290/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur les projets immobiliers importants de l'Etat et sur la Commission d'examen des projets immobiliers de l'Etat
 
+Projet immobiliers importants et Commission d'examen – O
+
 (OPIC)
 
-du 09.11.2021 (version entrée en vigueur le 01.01.2022)
+du 09.11.2021 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -109,7 +110,7 @@ Arrête:
 
 <sup>1</sup> Une Commission d'examen des projets immobiliers de l'Etat est instituée par le Conseil d'Etat.
 
-<sup>2</sup> Elle est rattachée administrativement à la Direction de l'aménagement, de l'environnement et des constructions (ci-après: la DAEC).
+<sup>2</sup> Elle est rattachée administrativement à la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: la DIME).
 
 <sup>3</sup> La ComEx évalue et préavise à l'attention de la Direction bénéficiaire et/ou du Conseil d'Etat, en application notamment de la stratégie immobilière de l'Etat, la motivation de:
 
@@ -122,7 +123,7 @@ Arrête:
 
 **Composition et fonctionnement de la ComEx**
 
-<sup>1</sup> La ComEx est présidée par le Directeur ou la Directrice AEC et comprend les membres suivants, nommés par le Conseil d'Etat:
+<sup>1</sup> La ComEx est présidée par le Directeur ou la Directrice DIME et comprend les membres suivants, nommés par le Conseil d'Etat:
 
 - a) une personne représentant le Service des bâtiments (ci-après: SBat);
 - b) une personne représentant la Conférence des secrétaires généraux;
@@ -139,7 +140,7 @@ Arrête:
 
 **Groupe de travail**
 
-<sup>1</sup> Le groupe de travail est institué par la DAEC et la Direction bénéficiaire, d'entente entre elles.
+<sup>1</sup> Le groupe de travail est institué par la DIME et la Direction bénéficiaire, d'entente entre elles.
 
 <sup>2</sup> Il a notamment pour attributions:
 
@@ -160,7 +161,7 @@ Arrête:
 
 **Comité de pilotage (COPIL)**
 
-<sup>1</sup> Le COPIL est nommé par le Conseil d'Etat dès l'obtention du crédit d'études, sur proposition de la DAEC et de la Direction bénéficiaire. Il perdure jusqu'à livraison de l'ouvrage.
+<sup>1</sup> Le COPIL est nommé par le Conseil d'Etat dès l'obtention du crédit d'études, sur proposition de la DIME et de la Direction bénéficiaire. Il perdure jusqu'à livraison de l'ouvrage.
 
 <sup>2</sup> Il a notamment pour attributions de:
 
@@ -176,7 +177,7 @@ Arrête:
 
 <sup>1</sup> Le COPIL est composé:
 
-- a) du Directeur ou de la Directrice AEC (co-présidence) ou d'une personne déléguée;
+- a) du Directeur ou de la Directrice DIME (co-présidence) ou d'une personne déléguée;
 - b) du directeur ou la directrice de la Direction bénéficiaire (co-présidence) ou d'une personne déléguée;
 - c) d'un ou d'une député-e par groupe parlementaire au Grand Conseil (membres);
 - d) d'une personne représentant l'AFin (membre);
@@ -196,7 +197,7 @@ Arrête:
 
 **Commission de projet (CoPro)**
 
-<sup>1</sup> La CoPro est nommée par le Conseil d'Etat, sur proposition de la DAEC et de la Direction bénéficiaire.
+<sup>1</sup> La CoPro est nommée par le Conseil d'Etat, sur proposition de la DIME et de la Direction bénéficiaire.
 
 <sup>2</sup> Elle a pour attributions de:
 
@@ -242,7 +243,7 @@ Arrête:
 
 **Études préliminaires – Groupe de travail (étape 1)**
 
-<sup>1</sup> Après validation de la demande par le Conseil d'Etat, un groupe de travail est institué par la DAEC et la Direction bénéficiaire, d'entente entre elles (art. 9).
+<sup>1</sup> Après validation de la demande par le Conseil d'Etat, un groupe de travail est institué par la DIME et la Direction bénéficiaire, d'entente entre elles (art. 9).
 
 <sup>2</sup> Il analyse les besoins de la Direction bénéficiaire et/ou du service utilisateur et mène les études préliminaires jusqu'à la demande du crédit d'études ou d'utilisation d'un crédit-cadre.
 
@@ -267,9 +268,9 @@ Arrête:
 
 <sup>1</sup> La ComEx préavise le projet à l'attention du Conseil d'Etat sur la base des études préliminaires établies par le groupe de travail (art. 7).
 
-<sup>2</sup> La DAEC et la Direction bénéficiaire soumettent conjointement une proposition sur la poursuite du projet au Conseil d'Etat.
+<sup>2</sup> La DIME et la Direction bénéficiaire soumettent conjointement une proposition sur la poursuite du projet au Conseil d'Etat.
 
-<sup>3</sup> Si les études de projet nécessitent un crédit d'études, la DAEC et la Direction bénéficiaire soumettent conjointement une demande au Conseil d'Etat.
+<sup>3</sup> Si les études de projet nécessitent un crédit d'études, la DIME et la Direction bénéficiaire soumettent conjointement une demande au Conseil d'Etat.
 
 <sup>4</sup> S'il décide de poursuivre le projet et une fois le crédit d'études adopté, ou l'autorisation d'utiliser un crédit-cadre donnée, le Conseil d'Etat nomme un COPIL et une CoPro.
 
@@ -306,7 +307,7 @@ Arrête:
 
 **Fin de l'étape 2**
 
-<sup>1</sup> Au terme de la phase d'études de projet et d'appels d'offres, la DAEC et la Direction bénéficiaire soumettent conjointement un projet de message et de décret au Conseil d'Etat, à l'attention du Grand Conseil, en vue de l'obtention du crédit d'engagement.
+<sup>1</sup> Au terme de la phase d'études de projet et d'appels d'offres, la DIME et la Direction bénéficiaire soumettent conjointement un projet de message et de décret au Conseil d'Etat, à l'attention du Grand Conseil, en vue de l'obtention du crédit d'engagement.
 
 <sup>2</sup> Le message et le projet de décret indiquent notamment les besoins en personnel de nettoyage et d'exploitation du bâtiment, ainsi que les incidences financières de l'exploitation sur le budget de l'Etat. Les charges d'amortissements liées au projet d'investissement sont prises en compte.
 
@@ -361,9 +362,9 @@ Arrête:
 
 **Communication lors de la planification et réalisation de projets immobiliers importants**
 
-<sup>1</sup> La Direction bénéficiaire se charge, en collaboration avec la DAEC, de la communication relative au projet jusqu'à l'obtention du crédit d'engagement (étapes 1 et 2).
+<sup>1</sup> La Direction bénéficiaire se charge, en collaboration avec la DIME, de la communication relative au projet jusqu'à l'obtention du crédit d'engagement (étapes 1 et 2).
 
-<sup>2</sup> La DAEC se charge, en collaboration avec la Direction bénéficiaire, de la communication durant toute l'étape de réalisation, jusqu'à la réception de l'ouvrage (étape 3).
+<sup>2</sup> La DIME se charge, en collaboration avec la Direction bénéficiaire, de la communication durant toute l'étape de réalisation, jusqu'à la réception de l'ouvrage (étape 3).
 
 #### Art. 26
 
@@ -421,8 +422,11 @@ Arrête:
 
 **Indemnités et fonctionnement des divers organes**
 
-<sup>1</sup> Les membres des organes cités à l'article 6 sont indemnisés conformément aux dispositions de l'ordonnance du 16 novembre 2010 concernant la rémunération des membres des commissions de l'Etat.
+<sup>1</sup> Les membres des organes cités à l'article 6 sont indemnisés conformément aux dispositions de l'ordonnance du 16 novembre 2010 concernant la rémunération des membres des commissions de l'Etat[^29-1].
 
-<sup>2</sup> Pour le surplus, les dispositions du règlement du 31 octobre 2005 sur l'organisation et le fonctionnement des commissions de l'Etat s'appliquent au fonctionnement desdits organes.
+<sup>2</sup> Pour le surplus, les dispositions du règlement du 31 octobre 2005 sur l'organisation et le fonctionnement des commissions de l'Etat[^29-2] s'appliquent au fonctionnement desdits organes.
+
+[^29-1]: RSF [122.8.41](https://bdlf.fr.ch/data/122.8.41/fr)
+[^29-2]: RSF [122.0.61](https://bdlf.fr.ch/data/122.0.61/fr)
 
 2021\_146
