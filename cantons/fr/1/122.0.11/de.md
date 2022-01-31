@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.11"
 title: Beschluss über die Verteilung der Direktionen des Staatsrats und die Bildung seiner Delegationen
 language: de
-version: 2021-01-01
-valid_until: 2022-01-31
-version_adopted: 2020-12-14
+version: 2022-02-01
+valid_until: 2023-01-16
+version_adopted: 2022-01-31
 adopted: 2022-01-31
 in_force: 2022-02-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6704/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7116/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,15 +18,15 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6704/pdf_file"
 
 Verteilung der Direktionen des Staatsrats und Delegationen – B
 
-vom 23.05.2018 (Fassung in Kraft getreten am 01.01.2021)
+vom 31.01.2022 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf die Verfassung des Kantons Freiburg vom 16. Mai 2004;
+gestützt auf die Artikel 47 und 47a des Gesetzes vom 16. Oktober 2001 über die Organisation des Staatsrates und der Verwaltung (SVOG);
 
-gestützt auf das Gesetz vom 16. Oktober 2001 über die Organisation des Staatsrates und der Verwaltung;
+gestützt auf die Verordnung vom 31. Januar 2022 zur Änderung der Organisation der Kantonsverwaltung für die Legislaturperiode 2022-2026;
 
-gestützt auf den Beschluss vom 27. März 2018 über das Ergebnis des zweiten Wahlgangs der Ergänzungswahl in den Staatsrat vom 25. März 2018;
+gestützt auf den Beschluss vom 30. November 2021 über das Ergebnis des zweiten Wahlgangs vom 28. November 2021 für die Gesamterneuerung des Staatsrats (ABl 2021 Nr. 48);
 
 beschliesst:
 
@@ -34,44 +34,38 @@ beschliesst:
 
 <sup>1</sup> Die Direktionen des Staatsrats und die Stellvertretungen werden wie folgt verteilt:
 
-- a) Direktion für Erziehung, Kultur und Sport (EKSD): Jean-Pierre Siggen; Stellvertretung: Jean-François Steiert.
-- b) Sicherheits- und Justizdirektion (SJD): Maurice Ropraz; Stellvertretung: Didier Castella.
-- c) Direktion der Institutionen und der Land- und Forstwirtschaft (ILFD): Didier Castella; Stellvertretung: Olivier Curty.
-- d) Volkswirtschaftsdirektion (VWD): Olivier Curty; Stellvertretung: Anne-Claude Demierre.
-- e) Direktion für Gesundheit und Soziales (GSD): Anne-Claude Demierre; Stellvertretung: Georges Godel.
-- f) Finanzdirektion (FIND): Georges Godel; Stellvertretung: Jean-Pierre Siggen.
-- g) Raumplanungs-, Umwelt- und Baudirektion (RUBD): Jean-François Steiert; Stellvertretung: Maurice Ropraz.
-- h) Staatskanzlerin: Danielle Gagnaux-Morel.
+- a) Direktion für Bildung und kulturelle Angelegenheiten (BKAD):Sylvie Bonvin-Sansonnens; Stellvertretung: Didier Castella;
+- b) Sicherheits-, Justiz- und Sportdirektion (SJSD): Romain Collaud; Stellvertretung: Jean-François Steiert;
+- c) Direktion der Institutionen und der Land- und Forstwirtschaft (ILFD): Didier Castella; Stellvertretung: Olivier Curty;
+- d) Volkswirtschafts- und Berufsbildungsdirektion (VWBD): Olivier Curty; Stellvertretung: Philippe Demierre;
+- e) Direktion für Gesundheit und Soziales (GSD): Philippe Demierre; Stellvertretung: Jean-Pierre Siggen;
+- f) Finanzdirektion (FIND): Jean-Pierre Siggen; Stellvertretung: Sylvie Bonvin-Sansonnens;
+- g) Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU): Jean-François Steiert; Stellvertretung: Romain Collaud;
+- h) Staatskanzlerin: Danielle Gagnaux-Morel;
 - i) Vizekanzlerin und Vizekanzler: Sophie Perrier und Marc Valloton.
 
 #### Art. 2
 
-<sup>1</sup> Es werden sechs ständige Delegationen gebildet, die sich wie folgt zusammensetzen:
+<sup>1</sup> Es werden fünf ständige Delegationen gebildet, die sich wie folgt zusammensetzen:
 
-- a) Delegation für das Wirtschafts- und Finanzwesen: Olivier Curty (VWD), Georges Godel (FIND), Jean-François Steiert (RUBD).
-- b) Delegation für öffentliche Bauten und Umweltschutz: Jean-François Steiert (RUBD), Olivier Curty (VWD), Didier Castella (ILFD).
-- c) Delegation für das Personalwesen: Georges Godel (FIND), Anne-Claude Demierre (GSD), Jean-Pierre Siggen (EKSD).
-- d) Delegation für das Gesundheits- und Sozialwesen: Anne-Claude Demierre (GSD), Didier Castella (ILFD), Georges Godel (FIND).
-- e) Delegation für die Agglomerationen und die territorialen Strukturen: Didier Castella (ILFD), Georges Godel (FIND), Jean-François Steiert (RUBD).
-- f) Delegation für die Digitalisierung und die Informationssysteme: Georges Godel (FIND), Jean-François Steiert (RUBD), Didier Castella (ILFD).
+- a) Delegation für das Wirtschafts- und Finanzwesen: Olivier Curty (VWBD), Jean-Pierre Siggen (FIND), Jean-François Steiert (RIMU);
+- b) Delegation für das Personalwesen: Jean-Pierre Siggen (FIND), Philippe Demierre (GSD), Sylvie Bonvin-Sansonnens (BKAD);
+- c) Delegation für das Gesundheitswesen: Philippe Demierre (GSD), Jean-François Steiert (RIMU), Didier Castella (ILFD);
+- d) Delegation für die Agglomerationen und die territorialen Strukturen: Didier Castella (ILFD), Jean-Pierre Siggen (FIND), Jean-François Steiert (RIMU);
+- e) Delegation für die Digitalisierung und die Informationssysteme: Jean-Pierre Siggen (FIND), Didier Castella (ILFD), Sylvie Bonvin-Sansonnens (BKAD).
 
-<sup>2</sup> Ausserdem werden zwei befristete Delegationen gebildet, die sich wie folgt zusammensetzen:
+<sup>2</sup> Ausserdem werden drei befristete Delegationen gebildet, die sich wie folgt zusammensetzen:
 
-- a) Delegation für die Aufgabenentflechtung Staat/Gemeinden: Didier Castella (ILFD), Georges Godel (FIND), Anne-Claude Demierre (GSD).
-- b) Delegation für Sportinfrastrukturen: Jean-Pierre Siggen (EKSD), Georges Godel (FIND), Jean-François Steiert (RUBD).
+- a) Delegation für die Aufgabenentflechtung Staat/Gemeinden: Didier Castella (ILFD), Jean-Pierre Siggen (FIND), Philppe Demierre (GSD);
+- b) Delegation für den Sport: Romain Collaud (SJSD), Sylvie Bonvin-Sansonnens (BKAD), Olivier Curty (VWBD);
+- c) COVID19-Delegation: Philippe Demierre (GSD), Romain Collaud (SJSD).
 
 <sup>3</sup> Die Person, deren Namen zuerst genannt wird, übt das Präsidium der Delegation aus.
 
 #### Art. 3
 
-<sup>1</sup> Der Beschluss vom 12. Dezember 2016 über die Verteilung der Direktionen des Staatsrats und die Bildung seiner Delegationen (SGF 122.0.11) wird aufgehoben.
+<sup>1</sup> Dieser Beschluss wird in der Amtlichen Sammlung des Kantons Freiburg und im Amtsblatt veröffentlicht.
 
-#### Art. 4
+<sup>2</sup> Die Verteilung der Direktionen wird dem Bundesrat, dem Bundesgericht und den Kantonsregierungen mitgeteilt.
 
-<sup>1</sup> Dieser Beschluss tritt sofort in Kraft.
-
-<sup>2</sup> Er wird in der Amtlichen Sammlung des Kantons Freiburg und im Amtsblatt veröffentlicht.
-
-<sup>3</sup> Die Verteilung der Direktionen wird dem Bundesrat, dem Bundesgericht und den Kantonsregierungen mitgeteilt.
-
-2018\_030
+2022\_008
