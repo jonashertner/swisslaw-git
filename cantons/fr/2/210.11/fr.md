@@ -4,13 +4,12 @@ number: "210.11"
 title: "Ordonnance d'application du code civil suisse"
 short: OACC
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2020-08-25
+version: 2022-02-01
+version_adopted: 2022-02-25
 adopted: 2012-12-11
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/210.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6905/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8433/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Code civil - O d'application
 
 (OACC)
 
-du 11.12.2012 (version entrée en vigueur le 01.01.2022)
+du 11.12.2012 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,6 +33,10 @@ Arrête:
 ## 1 Dispositions d'exécution
 
 ### 1.1 Mesures contre la violence, les menaces ou le harcèlement (art. 6 LACC)
+
+[^t-1]
+
+[^t-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/fr)
 
 #### Art. 1
 
@@ -55,11 +58,13 @@ Arrête:
 
 **Contributions de l'Etat**
 
-<sup>1</sup> La DSAS accorde, dans le cadre du budget, les contributions prévues à l'article 6 al. 5 LACC.
+<sup>1</sup> La DSAS accorde, dans le cadre du budget, les contributions prévues à l'article 6 al. 5 LACC[^2-1].
 
 <sup>2</sup> Elle contrôle régulièrement le respect des conditions fixées à l'article 1 al. 3 et peut, le cas échéant, retirer la reconnaissance.
 
 <sup>3</sup> La reconnaissance n'ouvre pas d'office le droit à une contribution.
+
+[^2-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/fr)
 
 #### Art. 3
 
@@ -67,11 +72,13 @@ Arrête:
 
 #### Art. 3a
 
-**Procédure en cas d'expulsion immédiate du logement commun (art. 6 al. 6 LACC)**
+**Procédure en cas d'expulsion immédiate du logement commun (art. 6 al. 6 LACC[^3a-1])**
 
 <sup>1</sup> La Police cantonale notifie à l'auteur‑e de violence expulsé‑e qu'il ou elle a l'obligation de participer à trois entretiens auprès d'un organisme reconnu de prise en charge des auteur‑e‑s de violence domestique et lui transmet les coordonnées de l'organisme actif dans le canton de Fribourg. La Police cantonale transmet les données personnelles utiles de l'auteur‑e à l'organisme.
 
 <sup>2</sup> Si, pendant une période d'une année, plusieurs expulsions de domicile sont prononcées contre une même personne, celle-ci est astreinte à suivre une seule fois les trois entretiens obligatoires.
+
+[^3a-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/fr)
 
 #### Art. 3b
 
@@ -87,6 +94,10 @@ Arrête:
 
 ### 1.2 Choses trouvées (art. 69 LACC)
 
+[^3b-1]
+
+[^3b-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/fr)
+
 #### Art. 4
 
 **Avis et dépôt**
@@ -101,9 +112,12 @@ Arrête:
 
 **Droits de la personne qui a trouvé la chose**
 
-<sup>1</sup> Si la personne qui a trouvé la chose entend conserver ses droits au sens de l'article 722 du code civil suisse (CC), elle requiert un récépissé du dépôt à son nom.
+<sup>1</sup> Si la personne qui a trouvé la chose entend conserver ses droits au sens de l'article 722 du code civil suisse (CC)[^5-1], elle requiert un récépissé du dépôt à son nom.
 
-<sup>2</sup> A défaut de récépissé lors du dépôt en mains publiques, la personne qui a trouvé la chose est présumée avoir renoncé à son expectative de propriété (art. 722 al. 1 CC). Elle est mise en garde de cela par l'autorité qui a réceptionné la chose.
+<sup>2</sup> A défaut de récépissé lors du dépôt en mains publiques, la personne qui a trouvé la chose est présumée avoir renoncé à son expectative de propriété (art. 722 al. 1 CC[^5-2]). Elle est mise en garde de cela par l'autorité qui a réceptionné la chose.
+
+[^5-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+[^5-2]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
 #### Art. 6
 
@@ -111,7 +125,7 @@ Arrête:
 
 <sup>1</sup> La commune publie sur le site Internet désigné par le Conseil d'Etat les indications nécessaires relatives à la chose trouvée.
 
-<sup>2</sup> La Direction de la sécurité et de la justice (ci-après: la DSJ) se charge de la mise en œuvre du site Internet et soutient les communes dans l'utilisation de ce dernier.
+<sup>2</sup> La Direction de la sécurité, de la justice et du sport (ci-après: la DSJS) se charge de la mise en œuvre du site Internet et soutient les communes dans l'utilisation de ce dernier.
 
 <sup>3</sup> Les coûts financiers engendrés par la mise en œuvre et l'utilisation du site Internet sont à la charge de l'Etat.
 
@@ -131,17 +145,20 @@ Arrête:
 
 **Enchères publiques**
 
-<sup>1</sup> La commune remet à l'Office cantonal des faillites (ci-après: l'OFAIL) les choses à valeur marchande à réaliser aux enchères publiques (art. 721 CC).
+<sup>1</sup> La commune remet à l'Office cantonal des faillites (ci-après: l'OFAIL) les choses à valeur marchande à réaliser aux enchères publiques (art. 721 CC[^8-1]).
 
 <sup>2</sup> L'OFAIL est compétent pour autoriser les enchères publiques.
 
-<sup>3</sup> La vente aux enchères n'est pas soumise aux dispositions des articles 17 et suivants de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite.
+<sup>3</sup> La vente aux enchères n'est pas soumise aux dispositions des articles 17 et suivants de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^8-2].
 
 <sup>4</sup> Les choses n'ayant pas ou que peu de valeur marchande sont remises à des œuvres de bienfaisance ou détruites par la commune, à ses frais.
 
 <sup>5</sup> Les choses mises aux enchères qui n'ont pas pu être réalisées sont détruites par l'OFAIL, aux frais de l'Etat.
 
-<sup>6</sup> La DSJ édicte des directives précisant la nature des choses trouvées à réaliser, les modalités de la remise de celles-ci par la commune à l'OFAIL ainsi que les conditions des ventes aux enchères.
+<sup>6</sup> La DSJS édicte des directives précisant la nature des choses trouvées à réaliser, les modalités de la remise de celles-ci par la commune à l'OFAIL ainsi que les conditions des ventes aux enchères.
+
+[^8-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+[^8-2]: RS [281.1](https://db.clex.ch/link/Bund/281.1/fr)
 
 #### Art. 8a
 
@@ -152,6 +169,10 @@ Arrête:
 <sup>2</sup> L'Etat rembourse toutefois à la commune ses frais effectifs de conservation, jusqu'à concurrence du produit net obtenu lors de la vente.
 
 ### 1.3 Gages sur le bétail (art. 74 LACC)
+
+[^8a-1]
+
+[^8a-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/fr)
 
 #### Art. 9
 
@@ -165,15 +186,21 @@ Arrête:
 
 **Emoluments**
 
-<sup>1</sup> Un émolument est perçu en application, par analogie, des articles 7, 9 à 15 et 42 de l'ordonnance fédérale du 23 septembre 1996 sur les émoluments perçus en application de la loi fédérale sur la poursuite pour dettes et la faillite pour les inscriptions, notifications, établissement de pièces, communications, renseignements, publications, déplacements et débours.
+<sup>1</sup> Un émolument est perçu en application, par analogie, des articles 7, 9 à 15 et 42 de l'ordonnance fédérale du 23 septembre 1996 sur les émoluments perçus en application de la loi fédérale sur la poursuite pour dettes et la faillite[^10-1] pour les inscriptions, notifications, établissement de pièces, communications, renseignements, publications, déplacements et débours.
+
+[^10-1]: RS [281.35](https://db.clex.ch/link/Bund/281.35/fr)
 
 ### 1.4 Prêts sur gages (art. 75 LACC)
+
+[^10-2]
+
+[^10-2]: RSF [210.1](https://bdlf.fr.ch/data/210.1/fr)
 
 #### Art. 11
 
 **Organisation**
 
-<sup>1</sup> Les établissements publics, les communes ou les entreprises d'utilité générale qui exercent l'activité de prêt sur gages doivent être au bénéfice d'une autorisation délivrée par la DSJ. L'autorisation est accordée à une personne physique, âgée de 18 ans révolus, désignée comme responsable et répondant aux conditions suivantes:
+<sup>1</sup> Les établissements publics, les communes ou les entreprises d'utilité générale qui exercent l'activité de prêt sur gages doivent être au bénéfice d'une autorisation délivrée par la DSJS. L'autorisation est accordée à une personne physique, âgée de 18 ans révolus, désignée comme responsable et répondant aux conditions suivantes:
 
 - a) établir, par la production d'un extrait de son casier judiciaire, qu'elle n'a pas fait l'objet, dans les deux ans précédant le dépôt de la requête d'autorisation, de condamnation incompatible avec l'exercice de l'activité;
 - b) fournir une déclaration de l'office des poursuites de son ou de ses domiciles pour les cinq années précédentes, attestant qu'elle n'est pas sous le coup d'un acte de défaut de biens, et fournir une déclaration de l'office des faillites de son ou de ses domiciles pour les cinq années précédentes, attestant qu'elle n'a pas fait l'objet d'une procédure de faillite;
@@ -191,7 +218,7 @@ Arrête:
 
 <sup>1</sup> La personne requérante doit, au moyen de sûretés, garantir les dommages et intérêts revendiqués par les clients.
 
-<sup>2</sup> La DSJ fixe le montant des sûretés dans une fourchette comprise entre 10'000 et 100'000 francs.
+<sup>2</sup> La DSJS fixe le montant des sûretés dans une fourchette comprise entre 10'000 et 100'000 francs.
 
 <sup>3</sup> Les sûretés peuvent être fournies sous la forme:
 
@@ -208,7 +235,7 @@ Arrête:
 
 <sup>1</sup> La personne requérante qui entend exercer sur le territoire cantonal le prêt sur gages doit pouvoir, en tout temps, justifier la provenance de ses marchandises, par des pièces comptables, et l'identité complète de ses fournisseurs.
 
-<sup>2</sup> La DSJ se réserve le droit de contrôler ces pièces, en tout temps.
+<sup>2</sup> La DSJS se réserve le droit de contrôler ces pièces, en tout temps.
 
 #### Art. 14
 
@@ -226,11 +253,15 @@ Arrête:
 
 ### 1.5 Enchères publiques volontaires (art. 78 LACC)
 
+[^15-1]
+
+[^15-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/fr)
+
 #### Art. 16
 
-**Autorisation de la DSJ**
+**Autorisation de la DSJS**
 
-<sup>1</sup> La personne que la DSJ autorise à veiller au bon déroulement des enchères doit être âgée de 18 ans révolus et répondre aux conditions suivantes:
+<sup>1</sup> La personne que la DSJS autorise à veiller au bon déroulement des enchères doit être âgée de 18 ans révolus et répondre aux conditions suivantes:
 
 - a) établir, par la production d'un extrait de son casier judiciaire, qu'elle n'a pas fait l'objet, dans les deux ans précédant le dépôt de la requête d'autorisation, de condamnation incompatible avec l'exercice de l'activité;
 - b) fournir une déclaration de l'office des poursuites de son ou de ses domiciles pour les cinq années précédentes, attestant qu'elle n'est pas sous le coup d'un acte de défaut de biens, et fournir une déclaration de l'office des faillites de son ou de ses domiciles pour les cinq années précédentes, attestant qu'elle n'a pas fait l'objet d'une procédure de faillite;
@@ -299,33 +330,41 @@ Arrête:
 
 **Modifications – Subventions**
 
-<sup>1</sup> Le règlement du 22 août 2000 sur les subventions (RSF 616.11) est modifié comme il suit:
+<sup>1</sup> Le règlement du 22 août 2000 sur les subventions (RSF 616.11[^24-1]) est modifié comme il suit:
 
 ...
+
+[^24-1]: RSF [616.11](https://bdlf.fr.ch/data/616.11/fr)
 
 #### Art. 25
 
 **Modifications – Inventaire fiscal au décès**
 
-<sup>1</sup> L'arrêté du 20 mars 2001 sur l'inventaire fiscal au décès (RSF 631.38) est modifié comme il suit:
+<sup>1</sup> L'arrêté du 20 mars 2001 sur l'inventaire fiscal au décès (RSF 631.38[^25-1]) est modifié comme il suit:
 
 ...
+
+[^25-1]: RSF [631.38](https://bdlf.fr.ch/data/631.38/fr)
 
 #### Art. 26
 
 **Modifications – Protection de la faune et de la flore fribourgeoises**
 
-<sup>1</sup> L'arrêté du 12 mars 1973 concernant la protection de la faune et de la flore fribourgeoises (RSF 721.1.11) est modifié comme il suit:
+<sup>1</sup> L'arrêté du 12 mars 1973 concernant la protection de la faune et de la flore fribourgeoises (RSF 721.1.11[^26-1]) est modifié comme il suit:
 
 ...
+
+[^26-1]: RSF [721.1.11](https://bdlf.fr.ch/data/721.1.11/fr)
 
 #### Art. 27
 
 **Modifications – Protection des escargots**
 
-<sup>1</sup> L'arrêté du 24 mars 1981 relatif à la protection des escargots (RSF 721.1.21) est modifié comme il suit:
+<sup>1</sup> L'arrêté du 24 mars 1981 relatif à la protection des escargots (RSF 721.1.21[^27-1]) est modifié comme il suit:
 
 ...
+
+[^27-1]: RSF [721.1.21](https://bdlf.fr.ch/data/721.1.21/fr)
 
 #### Art. 28
 
@@ -339,57 +378,71 @@ Arrête:
 
 **Modifications – Réserve mycologique La Chanéaz**
 
-<sup>1</sup> L'ordonnance du 14 décembre 2009 concernant la réserve mycologique La Chanéaz, sur le territoire de la commune de Montagny, forêt domaniale de la Chanéaz (RSF 721.1.52), est modifiée comme il suit:
+<sup>1</sup> L'ordonnance du 14 décembre 2009 concernant la réserve mycologique La Chanéaz, sur le territoire de la commune de Montagny, forêt domaniale de la Chanéaz (RSF 721.1.52[^29-1]), est modifiée comme il suit:
 
 ...
+
+[^29-1]: RSF [721.1.52](https://bdlf.fr.ch/data/721.1.52/fr)
 
 #### Art. 30
 
 **Modifications – Réserve mycologique Moosboden**
 
-<sup>1</sup> L'arrêté du 12 octobre 1999 concernant la réserve mycologique Moosboden, sur le territoire de la commune de Cerniat, forêt domaniale du Höllbach (RSF 721.1.53), est modifié comme il suit:
+<sup>1</sup> L'arrêté du 12 octobre 1999 concernant la réserve mycologique Moosboden, sur le territoire de la commune de Cerniat, forêt domaniale du Höllbach (RSF 721.1.53[^30-1]), est modifié comme il suit:
 
 ...
+
+[^30-1]: RSF [721.1.53](https://bdlf.fr.ch/data/721.1.53/fr)
 
 #### Art. 31
 
 **Modifications – Réserve naturelle du lac de Pérolles**
 
-<sup>1</sup> Le règlement du 31 mai 1983 concernant la réserve naturelle du lac de Pérolles (RSF 721.2.31) est modifié comme il suit:
+<sup>1</sup> Le règlement du 31 mai 1983 concernant la réserve naturelle du lac de Pérolles (RSF 721.2.31[^31-1]) est modifié comme il suit:
 
 ...
+
+[^31-1]: RSF [721.2.31](https://bdlf.fr.ch/data/721.2.31/fr)
 
 #### Art. 32
 
 **Modifications – Protection de la réserve du Vanil-Noir**
 
-<sup>1</sup> Le règlement du 11 janvier 1983 concernant la protection de la réserve du Vanil-Noir (RSF 721.2.51) est modifié comme il suit:
+<sup>1</sup> Le règlement du 11 janvier 1983 concernant la protection de la réserve du Vanil-Noir (RSF 721.2.51[^32-1]) est modifié comme il suit:
 
 ...
+
+[^32-1]: RSF [721.2.51](https://bdlf.fr.ch/data/721.2.51/fr)
 
 #### Art. 33
 
 **Modifications – Réserve forestière des Vanils du Paradis et de la Fayère**
 
-<sup>1</sup> L'arrêté du 19 avril 1995 concernant la réserve forestière des Vanils du Paradis et de la Fayère, sur le territoire de la commune d'Estavannens (RSF 721.3.12), est modifié comme il suit:
+<sup>1</sup> L'arrêté du 19 avril 1995 concernant la réserve forestière des Vanils du Paradis et de la Fayère, sur le territoire de la commune d'Estavannens (RSF 721.3.12[^33-1]), est modifié comme il suit:
 
 ...
+
+[^33-1]: RSF [721.3.12](https://bdlf.fr.ch/data/721.3.12/fr)
 
 #### Art. 34
 
 **Modifications – Utilisation des forces hydrauliques**
 
-<sup>1</sup> L'arrêté du 12 octobre 1917 pour l'exécution de la loi fédérale sur l'utilisation de forces hydrauliques (RSF 773.11) est modifié comme il suit:
+<sup>1</sup> L'arrêté du 12 octobre 1917 pour l'exécution de la loi fédérale sur l'utilisation de forces hydrauliques (RSF 773.11[^34-1]) est modifié comme il suit:
 
 ...
+
+[^34-1]: RSF [773.11](https://bdlf.fr.ch/data/773.11/fr)
 
 #### Art. 35
 
 **Modifications – Agriculture**
 
-<sup>1</sup> Le règlement du 27 mars 2007 sur l'agriculture (RSF 910.11) est modifié comme il suit:
+<sup>1</sup> Le règlement du 27 mars 2007 sur l'agriculture (RSF 910.11[^35-1]) est modifié comme il suit:
 
 ...
+
+[^35-1]: RSF [910.11](https://bdlf.fr.ch/data/910.11/fr)
 
 #### Art. 36
 

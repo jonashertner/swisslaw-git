@@ -4,13 +4,12 @@ number: "210.11"
 title: Ausführungsverordnung zum Schweizerischen Zivilgesetzbuch
 short: AVZGB
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2020-08-25
+version: 2022-02-01
+version_adopted: 2022-02-25
 adopted: 2012-12-11
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/210.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6905/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8433/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Zivilgesetzbuch, Ausführungsverordnung
 
 (AVZGB)
 
-vom 11.12.2012 (Fassung in Kraft getreten am 01.01.2022)
+vom 11.12.2012 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -34,6 +33,10 @@ beschliesst:
 ## 1 Ausführungsbestimmungen
 
 ### 1.1 Massnahmen gegen Gewalt, Drohungen oder Nachstellungen (Art. 6 EGZGB)
+
+[^t-1]
+
+[^t-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/de)
 
 #### Art. 1
 
@@ -55,11 +58,13 @@ beschliesst:
 
 **Beiträge des Staates**
 
-<sup>1</sup> Die GSD gewährt, im Rahmen des Voranschlags, die Beiträge nach Artikel 6 Abs. 5 EGZGB.
+<sup>1</sup> Die GSD gewährt, im Rahmen des Voranschlags, die Beiträge nach Artikel 6 Abs. 5 EGZGB[^2-1].
 
 <sup>2</sup> Sie kontrolliert regelmässig, ob die Bedingungen nach Artikel 1 Abs. 3 erfüllt werden, und kann gegebenenfalls die Anerkennung zurückziehen.
 
 <sup>3</sup> Die Anerkennung verleiht nicht von Amtes wegen Anrecht auf einen Beitrag.
+
+[^2-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/de)
 
 #### Art. 3
 
@@ -67,11 +72,13 @@ beschliesst:
 
 #### Art. 3a
 
-**Verfahren bei der sofortigen Wegweisung aus der gemeinsamen Wohnung (Art. 6 Abs. 6 EGZGB)**
+**Verfahren bei der sofortigen Wegweisung aus der gemeinsamen Wohnung (Art. 6 Abs. 6 EGZGB[^3a-1])**
 
 <sup>1</sup> Die Kantonspolizei teilt der weggewiesenen Urheberin von Gewalt oder dem weggewiesenen Urheber von Gewalt mit, dass sie oder er verpflichtet ist, an drei Gesprächen bei einer anerkannten Organisation zur Betreuung von Urheberinnen und Urhebern von häuslicher Gewalt teilzunehmen, und gibt ihr oder ihm die Kontaktdaten der im Kanton Freiburg tätigen Organisation. Die Kantonspolizei leitet die sachdienlichen Personendaten an die Organisation weiter.
 
 <sup>2</sup> Wenn innert eines Jahres gegen dieselbe Person mehrere Wegweisungen verfügt werden, muss sie die drei obligatorischen Gespräche einmal absolvieren.
+
+[^3a-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/de)
 
 #### Art. 3b
 
@@ -87,6 +94,10 @@ beschliesst:
 
 ### 1.2 Fundsachen (Art. 69 EGZGB)
 
+[^3b-1]
+
+[^3b-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/de)
+
 #### Art. 4
 
 **Anzeige und Aufbewahrung**
@@ -101,9 +112,12 @@ beschliesst:
 
 **Rechte der Finderin oder des Finders**
 
-<sup>1</sup> Will die Finderin oder der Finder ihre beziehungsweise seine Rechte im Sinne von Artikel 722 des Zivilgesetzbuchs (ZGB) wahren, so fordert sie oder er eine Empfangsbestätigung für die Hinterlegung auf ihren beziehungsweise seinen Namen.
+<sup>1</sup> Will die Finderin oder der Finder ihre beziehungsweise seine Rechte im Sinne von Artikel 722 des Zivilgesetzbuchs (ZGB)[^5-1] wahren, so fordert sie oder er eine Empfangsbestätigung für die Hinterlegung auf ihren beziehungsweise seinen Namen.
 
-<sup>2</sup> Wird bei der Hinterlegung bei der Behörde keine Empfangsbestätigung ausgestellt, so wird davon ausgegangen, dass die Finderin oder der Finder auf den Anspruch auf Eigentumserwerb verzichtet (Art. 722 Abs. 1 ZGB). Sie oder er wird von der Behörde, die die Fundsache entgegennimmt, darauf hingewiesen.
+<sup>2</sup> Wird bei der Hinterlegung bei der Behörde keine Empfangsbestätigung ausgestellt, so wird davon ausgegangen, dass die Finderin oder der Finder auf den Anspruch auf Eigentumserwerb verzichtet (Art. 722 Abs. 1 ZGB[^5-2]). Sie oder er wird von der Behörde, die die Fundsache entgegennimmt, darauf hingewiesen.
+
+[^5-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^5-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 6
 
@@ -111,7 +125,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinde veröffentlicht auf der vom Staatsrat bezeichneten Website die erforderlichen Angaben zur Fundsache.
 
-<sup>2</sup> Die Sicherheits- und Justizdirektion (die SJD) übernimmt die Umsetzung der Website und unterstützt die Gemeinden bei deren Benützung.
+<sup>2</sup> Die Sicherheits-, Justiz- und Sportdirektion (die SJSD) übernimmt die Umsetzung der Website und unterstützt die Gemeinden bei deren Benützung.
 
 <sup>3</sup> Die finanziellen Kosten, die durch die Einrichtung und die Nutzung der Website entstehen, gehen zu Lasten des Staates.
 
@@ -131,17 +145,20 @@ beschliesst:
 
 **Öffentliche Versteigerungen**
 
-<sup>1</sup> Die Gemeinde übergibt dem Kantonalen Konkursamt (das KKA) die Fundsachen mit Handelswert zur öffentlichen Versteigerung (Art. 721 ZGB).
+<sup>1</sup> Die Gemeinde übergibt dem Kantonalen Konkursamt (das KKA) die Fundsachen mit Handelswert zur öffentlichen Versteigerung (Art. 721 ZGB[^8-1]).
 
 <sup>2</sup> Das KKA ist für die Bewilligung der öffentlichen Versteigerung zuständig.
 
-<sup>3</sup> Die öffentliche Versteigerung untersteht nicht den Bestimmungen der Artikel 17 ff. des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs.
+<sup>3</sup> Die öffentliche Versteigerung untersteht nicht den Bestimmungen der Artikel 17 ff. des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs[^8-2].
 
 <sup>4</sup> Fundsachen ohne oder mit geringem Handelswert werden wohltätigen Zwecken zugeführt oder von der Gemeinde auf eigene Kosten vernichtet.
 
 <sup>5</sup> Fundsachen, die in einer Versteigerung nicht verwertet werden konnten, werden vom KKA auf Staatskosten vernichtet.
 
-<sup>6</sup> Die SJD erlässt Richtlinien, in denen die Art der zu verwertenden Fundsachen, die Modalitäten ihrer Abgabe an das KKA durch die Gemeinde und die Bedingungen der Versteigerung genauer bestimmt werden.
+<sup>6</sup> Die SJSD erlässt Richtlinien, in denen die Art der zu verwertenden Fundsachen, die Modalitäten ihrer Abgabe an das KKA durch die Gemeinde und die Bedingungen der Versteigerung genauer bestimmt werden.
+
+[^8-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^8-2]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
 #### Art. 8a
 
@@ -152,6 +169,10 @@ beschliesst:
 <sup>2</sup> Der Staat zahlt der Gemeinde die tatsächlichen Aufbewahrungskosten bis zur Höhe des Nettoerlöses aus der Versteigerung zurück.
 
 ### 1.3 Viehverpfändung (Art. 74 EGZGB)
+
+[^8a-1]
+
+[^8a-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/de)
 
 #### Art. 9
 
@@ -165,15 +186,21 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Die Gebühren für Eintragungen, Zustellungen, die Erstellung von Schriftstücken, Telefongespräche und Nachrichten, öffentliche Bekanntmachungen, Auskünfte, Auslagen und Wegspesen werden in sinngemässer Anwendung der Artikel 7, 9–15 und 42 der Gebührenverordnung des Bundes vom 23. September 1996 zum Bundesgesetz über Schuldbetreibung und Konkurs erhoben.
+<sup>1</sup> Die Gebühren für Eintragungen, Zustellungen, die Erstellung von Schriftstücken, Telefongespräche und Nachrichten, öffentliche Bekanntmachungen, Auskünfte, Auslagen und Wegspesen werden in sinngemässer Anwendung der Artikel 7, 9–15 und 42 der Gebührenverordnung des Bundes vom 23. September 1996 zum Bundesgesetz über Schuldbetreibung und Konkurs[^10-1] erhoben.
+
+[^10-1]: SR [281.35](https://db.clex.ch/link/Bund/281.35/de)
 
 ### 1.4 Pfandleihe (Art. 75 EGZGB)
+
+[^10-2]
+
+[^10-2]: RSF [210.1](https://bdlf.fr.ch/data/210.1/de)
 
 #### Art. 11
 
 **Organisation**
 
-<sup>1</sup> Öffentliche Anstalten, Gemeinden oder gemeinnützige Unternehmungen, die das Pfandleihgewerbe ausüben, müssen im Besitz einer Bewilligung der SJD sein. Die Bewilligung wird einer volljährigen natürlichen Person erteilt, die als Verantwortliche bezeichnet worden ist und die:
+<sup>1</sup> Öffentliche Anstalten, Gemeinden oder gemeinnützige Unternehmungen, die das Pfandleihgewerbe ausüben, müssen im Besitz einer Bewilligung der SJSD sein. Die Bewilligung wird einer volljährigen natürlichen Person erteilt, die als Verantwortliche bezeichnet worden ist und die:
 
 - a) durch Vorlage eines Auszuges aus dem Strafregister nachweist, dass sie in den zwei Jahren vor dem Einreichen des Bewilligungsgesuchs nicht in einer Angelegenheit verurteilt worden ist, die mit der Ausübung der Tätigkeit nicht vereinbar ist;
 - b) eine Bestätigung des Betreibungsamtes des Wohnsitzes oder der Wohnsitze der letzten fünf Jahre, aus der hervorgeht, dass gegen sie keine Verlustscheine bestehen, sowie eine Bestätigung des Konkursamtes des Wohnsitzes oder der Wohnsitze der letzten fünf Jahre vorlegt, aus der hervorgeht, dass gegen sie kein Konkursverfahren eröffnet wurde;
@@ -191,7 +218,7 @@ beschliesst:
 
 <sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller muss über Sicherheiten verfügen, um von Kundinnen und Kunden eingeforderten Schadenersatz gewährleisten zu können.
 
-<sup>2</sup> Die SJD setzt den Betrag der Sicherheiten in einer Bandbreite von 10'000 bis 100'000 Franken fest.
+<sup>2</sup> Die SJSD setzt den Betrag der Sicherheiten in einer Bandbreite von 10'000 bis 100'000 Franken fest.
 
 <sup>3</sup> Die Sicherheit kann geleistet werden:
 
@@ -208,7 +235,7 @@ beschliesst:
 
 <sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller, die oder der auf dem Kantonsgebiet das Pfandleihgewerbe ausüben will, muss, durch Buchungsbelege, jederzeit die Herkunft der Waren und die vollständige Identität der Verpfänderinnen und Verpfänder belegen können.
 
-<sup>2</sup> Die SJD behält sich das Recht vor, diese Belege jederzeit zu kontrollieren.
+<sup>2</sup> Die SJSD behält sich das Recht vor, diese Belege jederzeit zu kontrollieren.
 
 #### Art. 14
 
@@ -226,11 +253,15 @@ beschliesst:
 
 ### 1.5 Freiwillige öffentliche Versteigerungen (Art. 78 EGZGB)
 
+[^15-1]
+
+[^15-1]: RSF [210.1](https://bdlf.fr.ch/data/210.1/de)
+
 #### Art. 16
 
-**Bewilligung der SJD**
+**Bewilligung der SJSD**
 
-<sup>1</sup> Die Person, die die SJD zur Durchführung der Versteigerungen berechtigt, muss volljährig sein und:
+<sup>1</sup> Die Person, welche die SJSD zur Durchführung der Versteigerungen berechtigt, muss volljährig sein und:
 
 - a) durch Vorlage eines Auszuges aus dem Strafregister nachweisen, dass sie in den letzten zwei Jahren nicht in einer Angelegenheit verurteilt worden ist, die mit der Ausübung der Tätigkeit nicht vereinbar ist;
 - b) eine Bestätigung des Betreibungsamtes des Wohnsitzes oder der Wohnsitze der letzten fünf Jahre, aus der hervorgeht, dass gegen sie keine Verlustscheine bestehen, sowie eine Bestätigung des Konkursamtes des Wohnsitzes oder der Wohnsitze der letzten fünf Jahre vorlegen, aus der hervorgeht, dass gegen sie kein Konkursverfahren eröffnet wurde;
@@ -299,33 +330,41 @@ beschliesst:
 
 **Änderungen bisherigen Rechts – Subventionen**
 
-<sup>1</sup> Das Subventionsreglement vom 22. August 2000 (SGF 616.11) wird wie folgt geändert:
+<sup>1</sup> Das Subventionsreglement vom 22. August 2000 (SGF 616.11[^24-1]) wird wie folgt geändert:
 
 ...
+
+[^24-1]: RSF [616.11](https://bdlf.fr.ch/data/616.11/de)
 
 #### Art. 25
 
 **Änderungen bisherigen Rechts – Steuerinventar im Todesfall**
 
-<sup>1</sup> Der Beschluss vom 20. März 2001 über das Steuerinventar im Todesfall (SGF 631.38) wird wie folgt geändert:
+<sup>1</sup> Der Beschluss vom 20. März 2001 über das Steuerinventar im Todesfall (SGF 631.38[^25-1]) wird wie folgt geändert:
 
 ...
+
+[^25-1]: RSF [631.38](https://bdlf.fr.ch/data/631.38/de)
 
 #### Art. 26
 
 **Änderungen bisherigen Rechts – Schutz der freiburgischen Tier- und Pflanzenwelt**
 
-<sup>1</sup> Der Beschluss vom 12. März 1973 betreffend den Schutz der freiburgischen Tier- und Pflanzenwelt (SGF 721.1.11) wird wie folgt geändert:
+<sup>1</sup> Der Beschluss vom 12. März 1973 betreffend den Schutz der freiburgischen Tier- und Pflanzenwelt (SGF 721.1.11[^26-1]) wird wie folgt geändert:
 
 ...
+
+[^26-1]: RSF [721.1.11](https://bdlf.fr.ch/data/721.1.11/de)
 
 #### Art. 27
 
 **Änderungen bisherigen Rechts – Schutz von Weinbergschnecken**
 
-<sup>1</sup> Der Beschluss vom 24. März 1981 über den Schutz von Weinbergschnecken (SGF 721.1.21) wird wie folgt geändert:
+<sup>1</sup> Der Beschluss vom 24. März 1981 über den Schutz von Weinbergschnecken (SGF 721.1.21[^27-1]) wird wie folgt geändert:
 
 ...
+
+[^27-1]: RSF [721.1.21](https://bdlf.fr.ch/data/721.1.21/de)
 
 #### Art. 28
 
@@ -339,57 +378,71 @@ beschliesst:
 
 **Änderungen bisherigen Rechts – Pilzreservat La Chanéaz**
 
-<sup>1</sup> Die Verordnung vom 14. Dezember 2009 über das Pilzreservat La Chanéaz, Gemeinde Montagny, Staatswald La Chanéaz (SGF 721.1.52) wird wie folgt geändert:
+<sup>1</sup> Die Verordnung vom 14. Dezember 2009 über das Pilzreservat La Chanéaz, Gemeinde Montagny, Staatswald La Chanéaz (SGF 721.1.52[^29-1]) wird wie folgt geändert:
 
 ...
+
+[^29-1]: RSF [721.1.52](https://bdlf.fr.ch/data/721.1.52/de)
 
 #### Art. 30
 
 **Änderungen bisherigen Rechts – Pilzreservat Moosboden**
 
-<sup>1</sup> Der Beschluss vom 12. Oktober 1999 über das Pilzreservat Moosboden, Gemeinde Cerniat, Staatswald Höllbach (SGF 721.1.53) wird wie folgt geändert:
+<sup>1</sup> Der Beschluss vom 12. Oktober 1999 über das Pilzreservat Moosboden, Gemeinde Cerniat, Staatswald Höllbach (SGF 721.1.53[^30-1]) wird wie folgt geändert:
 
 ...
+
+[^30-1]: RSF [721.1.53](https://bdlf.fr.ch/data/721.1.53/de)
 
 #### Art. 31
 
 **Änderungen bisherigen Rechts – Naturschutzgebiet des Pérolles-See**
 
-<sup>1</sup> Das Reglement vom 31. Mai 1983 betreffend das Naturschutzgebiet des Pérolles-Sees (SGF 721.2.31) wird wie folgt geändert:
+<sup>1</sup> Das Reglement vom 31. Mai 1983 betreffend das Naturschutzgebiet des Pérolles-Sees (SGF 721.2.31[^31-1]) wird wie folgt geändert:
 
 ...
+
+[^31-1]: RSF [721.2.31](https://bdlf.fr.ch/data/721.2.31/de)
 
 #### Art. 32
 
 **Änderungen bisherigen Rechts – Naturschutzgebiet des Vanil-Noir**
 
-<sup>1</sup> Das Reglement vom 11. Januar 1983 betreffend das Naturschutzgebiet des Vanil-Noir (SGF 721.2.51) wird wie folgt geändert:
+<sup>1</sup> Das Reglement vom 11. Januar 1983 betreffend das Naturschutzgebiet des Vanil-Noir (SGF 721.2.51[^32-1]) wird wie folgt geändert:
 
 ...
+
+[^32-1]: RSF [721.2.51](https://bdlf.fr.ch/data/721.2.51/de)
 
 #### Art. 33
 
 **Änderungen bisherigen Rechts – Waldreservat Vanil du Paradis und Vanil de la Fayère**
 
-<sup>1</sup> Der Beschluss vom 19. April 1995 über das Waldreservat Vanil du Paradis und Vanil de la Fayère auf dem Gebiet der Gemeinde Estavannens (SGF 721.3.12) wird wie folgt geändert:
+<sup>1</sup> Der Beschluss vom 19. April 1995 über das Waldreservat Vanil du Paradis und Vanil de la Fayère auf dem Gebiet der Gemeinde Estavannens (SGF 721.3.12[^33-1]) wird wie folgt geändert:
 
 ...
+
+[^33-1]: RSF [721.3.12](https://bdlf.fr.ch/data/721.3.12/de)
 
 #### Art. 34
 
 **Änderungen bisherigen Rechts – Nutzbarmachung der Wasserkräfte**
 
-<sup>1</sup> Die Vollzugsverordnung vom 12. Oktober 1917 zum Bundesgesetz über die Nutzbarmachung der Wasserkräfte (SGF 773.11) wird wie folgt geändert:
+<sup>1</sup> Die Vollzugsverordnung vom 12. Oktober 1917 zum Bundesgesetz über die Nutzbarmachung der Wasserkräfte (SGF 773.11[^34-1]) wird wie folgt geändert:
 
 ...
+
+[^34-1]: RSF [773.11](https://bdlf.fr.ch/data/773.11/de)
 
 #### Art. 35
 
 **Änderungen bisherigen Rechts – Landwirtschaft**
 
-<sup>1</sup> Das Landwirtschaftsreglement vom 27. März 2007 (SGF 910.11) wird wie folgt geändert:
+<sup>1</sup> Das Landwirtschaftsreglement vom 27. März 2007 (SGF 910.11[^35-1]) wird wie folgt geändert:
 
 ...
+
+[^35-1]: RSF [910.11](https://bdlf.fr.ch/data/910.11/de)
 
 #### Art. 36
 
