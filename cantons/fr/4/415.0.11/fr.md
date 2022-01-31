@@ -1,27 +1,27 @@
 ---
 canton: FR
 number: "415.0.11"
-title: "Règlement relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport"
+title: Règlement relatif au personnel enseignant de la Direction de la formation et des affaires culturelles
 short: RPEns
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-11-30
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2016-03-14
 in_force: 2016-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/415.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6993/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7301/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Règlement relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport
+# Règlement relatif au personnel enseignant de la Direction de la formation et des affaires culturelles
 
 Personnel enseignant – R
 
 (RPEns)
 
-du 14.03.2016 (version entrée en vigueur le 01.01.2022)
+du 14.03.2016 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -47,7 +47,7 @@ Arrête:
 
 **Champ d'application**
 
-<sup>1</sup> Ce règlement s'applique au personnel enseignant dépendant de la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) et qui est soumis à la législation sur le personnel de l'Etat.
+<sup>1</sup> Ce règlement s'applique au personnel enseignant dépendant de la Direction de la formation et des affaires culturelles (ci-après: la Direction) et qui est soumis à la législation sur le personnel de l'Etat.
 
 <sup>2</sup> Les membres du corps professoral de l'Université et de la Haute Ecole pédagogique ne sont pas soumis à ce règlement.
 

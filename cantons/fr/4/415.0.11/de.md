@@ -1,27 +1,27 @@
 ---
 canton: FR
 number: "415.0.11"
-title: "Reglement für das Lehrpersonal, das der Direktion für Erziehung, Kultur und Sport untersteht"
+title: "Reglement für das Lehrpersonal, das der Direktion für Bildung und kulturelle Angelegenheiten untersteht"
 short: LPR
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-11-30
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2016-03-14
 in_force: 2016-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/415.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6993/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7301/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement für das Lehrpersonal, das der Direktion für Erziehung, Kultur und Sport untersteht
+# Reglement für das Lehrpersonal, das der Direktion für Bildung und kulturelle Angelegenheiten untersteht
 
 Lehrpersonal – R
 
 (LPR)
 
-vom 14.03.2016 (Fassung in Kraft getreten am 01.01.2022)
+vom 14.03.2016 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -47,7 +47,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Das vorliegende Reglement gilt für das Lehrpersonal, das der Direktion für Erziehung, Kultur und Sport (die Direktion) und der Gesetzgebung über das Staatspersonal untersteht.
+<sup>1</sup> Das vorliegende Reglement gilt für das Lehrpersonal, das der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) und der Gesetzgebung über das Staatspersonal untersteht.
 
 <sup>2</sup> Die Mitglieder des Lehrkörpers der Universität und der Pädagogischen Hochschule sind diesem Reglement nicht unterstellt.
 
