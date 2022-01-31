@@ -4,13 +4,12 @@ number: "412.1.11"
 title: Règlement sur les études gymnasiales
 short: REG
 language: fr
-version: 2020-08-01
-valid_until: 2022-01-31
-version_adopted: 2020-01-07
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1998-04-15
 in_force: 1998-08-15
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.1.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6435/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7294/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Etudes gymnasiales – R
 
 (REG)
 
-du 15.04.1998 (version entrée en vigueur le 01.08.2020)
+du 15.04.1998 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -68,7 +67,7 @@ Arrête:
 
 <sup>1</sup> Les demandes d'admission sont adressées à la Conférence des recteurs.
 
-<sup>2</sup> Les indications relatives aux demandes d'admission, notamment le délai d'inscription, sont publiées par la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) dans la Feuille officielle, en janvier.
+<sup>2</sup> Les indications relatives aux demandes d'admission, notamment le délai d'inscription, sont publiées par la Direction de la formation et des affaires culturelles (ci-après: la Direction) dans la Feuille officielle, en janvier.
 
 #### Art. 4
 

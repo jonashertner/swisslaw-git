@@ -4,13 +4,12 @@ number: "412.1.11"
 title: Reglement über die Gymnasialausbildung
 short: GAR
 language: de
-version: 2020-08-01
-valid_until: 2022-01-31
-version_adopted: 2020-01-07
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1998-04-15
 in_force: 1998-08-15
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.1.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6435/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7294/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gymnasialausbildung – R
 
 (GAR)
 
-vom 15.04.1998 (Fassung in Kraft getreten am 01.08.2020)
+vom 15.04.1998 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -68,7 +67,7 @@ beschliesst:
 
 <sup>1</sup> Die Aufnahmegesuche sind an die Rektorenkonferenz zu richten.
 
-<sup>2</sup> Informationen über die Aufnahmegesuche, insbesondere was die Anmeldefrist betrifft, werden von der Direktion für Erziehung, Kultur und Sport im Januar im Amtsblatt veröffentlicht.
+<sup>2</sup> Informationen über die Aufnahmegesuche, insbesondere was die Anmeldefrist betrifft, werden von der Direktion für Bildung und kulturelle Angelegenheiten im Januar (die Direktion) im Amtsblatt veröffentlicht.
 
 #### Art. 4
 
