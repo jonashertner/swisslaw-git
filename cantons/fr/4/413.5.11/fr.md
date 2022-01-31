@@ -4,13 +4,12 @@ number: "413.5.11"
 title: Règlement sur la médecine dentaire scolaire
 short: RMDS
 language: fr
-version: 2016-08-01
-valid_until: 2022-01-31
-version_adopted: 2016-06-21
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2016-06-21
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/413.5.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5181/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8518/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Médecine dentaire scolaire – R
 
 (RMDS)
 
-du 21.06.2016 (version entrée en vigueur le 01.08.2016)
+du 21.06.2016 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -33,12 +32,15 @@ Arrête:
 
 #### Art. 1
 
-**Champ d'application (art. 2 LMDS)**
+**Champ d'application (art. 2 LMDS[^1-1])**
 
-<sup>1</sup> La loi sur la médecine dentaire scolaire (ci-après: la loi) s'applique notamment aux enfants et aux jeunes domiciliés dans le canton de Fribourg (ci-après: les élèves) suivants:
+<sup>1</sup> La loi sur la médecine dentaire scolaire[^1-2] (ci-après: la loi) s'applique notamment aux enfants et aux jeunes domiciliés dans le canton de Fribourg (ci-après: les élèves) suivants:
 
 - a) les élèves fréquentant les établissements publics et privés (y compris les établissements spécialisés) de la scolarité obligatoire dans le canton et hors du canton;
 - b) les élèves au bénéfice d'un enseignement à domicile dans le cadre de la scolarité obligatoire.
+
+[^1-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+[^1-2]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
 
 #### Art. 2
 
@@ -48,7 +50,7 @@ Arrête:
 
 #### Art. 3
 
-**Enseignement de la prophylaxie (art. 6 LMDS)**
+**Enseignement de la prophylaxie (art. 6 LMDS[^3-1])**
 
 <sup>1</sup> La prophylaxie comprend un enseignement théorique et pratique des mesures de prévention des maladies bucco-dentaires, soit:
 
@@ -59,11 +61,13 @@ Arrête:
 
 <sup>2</sup> L'enseignement est donné en principe annuellement, de la 1H à la 8H et par classe, par les éducateurs et éducatrices en hygiène dentaire du Service.
 
+[^3-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+
 #### Art. 4
 
-**Collaboration des autorités scolaires (art. 7 et 11 al. 3 LMDS)**
+**Collaboration des autorités scolaires (art. 7 et 11 al. 3 LMDS[^4-1])**
 
-<sup>1</sup> Les responsables d'établissement ainsi que les directions des écoles du cycle d'orientation et des établissements spécialisés collaborent avec le Service en vue de l'exécution de la loi. Ils confirment au Service les périodes durant lesquelles l'enseignement de la prophylaxie ainsi que les contrôles peuvent être dispensés.
+<sup>1</sup> Les responsables d'établissement ainsi que les directions des écoles du cycle d'orientation et des établissements spécialisés collaborent avec le Service en vue de l'exécution de la loi[^4-2]. Ils confirment au Service les périodes durant lesquelles l'enseignement de la prophylaxie ainsi que les contrôles peuvent être dispensés.
 
 <sup>2</sup> Ils assument notamment les tâches suivantes:
 
@@ -71,17 +75,22 @@ Arrête:
 - b) ils veillent à la transmission entre le Service et les représentants légaux des documents relatifs à l'organisation des contrôles et des soins;
 - c) ils contribuent à l'organisation et au déroulement des contrôles, afin d'assurer l'application de l'article 7 du présent règlement.
 
+[^4-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+[^4-2]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+
 #### Art. 5
 
 **Collaboration en cas de scolarisation dans un établissement privé ou à domicile**
 
-<sup>1</sup> Le Service collabore avec les établissements privés et les parents dont les enfants sont scolarisés à domicile afin de garantir l'exécution de la loi.
+<sup>1</sup> Le Service collabore avec les établissements privés et les parents dont les enfants sont scolarisés à domicile afin de garantir l'exécution de la loi[^5-1].
 
-<sup>2</sup> Les informations nécessaires à ce sujet sont transmises au Service par la Direction de l'instruction publique, de la culture et du sport.
+<sup>2</sup> Les informations nécessaires à ce sujet sont transmises au Service par la Direction de la formation et des affaires culturelles.
+
+[^5-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
 
 #### Art. 6
 
-**Organisation par le Service des contrôles et des soins pour les établissements scolaires (art. 11 al. 2 LMDS) – En général**
+**Organisation par le Service des contrôles et des soins pour les établissements scolaires (art. 11 al. 2 LMDS[^6-1]) – En général**
 
 <sup>1</sup> Le contrôle est organisé en principe par classe. Il a lieu durant les heures de classe.
 
@@ -89,9 +98,11 @@ Arrête:
 
 <sup>3</sup> Le résultat du contrôle, les soins nécessaires et leurs coûts prévisibles ainsi que les traitements effectués sont inscrits dans le dossier médico-dentaire de l'élève.
 
+[^6-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+
 #### Art. 7
 
-**Organisation par le Service des contrôles et des soins pour les établissements scolaires (art. 11 al. 2 LMDS) – Stationnement pour les contrôles**
+**Organisation par le Service des contrôles et des soins pour les établissements scolaires (art. 11 al. 2 LMDS[^7-1]) – Stationnement pour les contrôles**
 
 <sup>1</sup> Le Service stationne au sein de l'établissement scolaire, à la condition que 50 élèves environ par jour (ou 30 élèves environ pour une matinée ou 20 élèves environ pour un après-midi) puissent être contrôlés.
 
@@ -102,15 +113,19 @@ Arrête:
 
 <sup>3</sup> Les communes mettent gratuitement à la disposition de la clinique mobile les infrastructures externes nécessaires (place de stationnement, électricité, évacuation des déchets).
 
+[^7-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+
 #### Art. 8
 
-**Frais de contrôle et de soins (art. 11 al. 4 et 5 LMDS)**
+**Frais de contrôle et de soins (art. 11 al. 4 et 5 LMDS[^8-1])**
 
 <sup>1</sup> Les coûts des contrôles et des soins dispensés par le Service sont débités ou crédités sur le compte courant des communes auprès de l'Administration des finances.
 
 <sup>2</sup> Le coût lié au déplacement de la clinique mobile est fondé sur un coût forfaitaire moyen, indépendamment du degré d'éloignement de la commune. Le montant est arrêté par voie d'ordonnance de la Direction de la santé et des affaires sociales.
 
 <sup>3</sup> Les communes peuvent tenir compte de l'éventuelle participation de tiers (assurances sociales ou autres) aux coûts des contrôles et des soins.
+
+[^8-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
 
 #### Art. 9
 
@@ -122,25 +137,32 @@ Arrête:
 
 #### Art. 10
 
-**Exécution des soins (art. 11 al. 2 LMDS)**
+**Exécution des soins (art. 11 al. 2 LMDS[^10-1])**
 
 <sup>1</sup> Avant tout traitement, les représentants légaux signent un devis. Celui-ci peut leur être transmis, si nécessaire, par l'intermédiaire des responsables d'établissement et des directions des écoles du cycle d'orientation et des écoles spécialisées, dans le respect de la législation sur la protection des données.
 
+[^10-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+
 #### Art. 11
 
-**Médecin dentiste-conseil (art. 19 al. 2 LMDS)**
+**Médecin dentiste-conseil (art. 19 al. 2 LMDS[^11-1])**
 
 <sup>1</sup> Le ou la médecin dentiste-conseil a notamment les attributions suivantes:
 
 - a) définir le contenu obligatoire de l'enseignement théorique et pratique de la prophylaxie;
 - b) assurer la formation continue des éducateurs et éducatrices en hygiène dentaire du Service et assumer la responsabilité de la qualité des prestations fournies en matière de prophylaxie dentaire;
-- c) exercer la surveillance médicale des médecins dentistes scolaires au sens de l'article 19 al. 2 et 3 de la loi;
-- d) prendre les mesures appropriées au sens de l'article 13 al. 2 de la loi;
-- e) traiter des réclamations au sens de l'article 21 de la loi.
+- c) exercer la surveillance médicale des médecins dentistes scolaires au sens de l'article 19 al. 2 et 3 de la loi[^11-2];
+- d) prendre les mesures appropriées au sens de l'article 13 al. 2 de la loi[^11-3];
+- e) traiter des réclamations au sens de l'article 21 de la loi[^11-4].
+
+[^11-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+[^11-2]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+[^11-3]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+[^11-4]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
 
 #### Art. 12
 
-**Procédure de réclamation (art. 21 LMDS)**
+**Procédure de réclamation (art. 21 LMDS[^12-1])**
 
 <sup>1</sup> Avec l'accord des patients et patientes, le ou la médecin dentiste-conseil peut préalablement transmettre la réclamation à la Commission d'expertise médico-dentaire (ci-après: la Commission) de la Société suisse des médecins dentistes, section fribourgeoise (ci-après: SSO-Fribourg), pour conciliation. Si aucun accord n'est trouvé entre les parties, le dossier lui est retourné pour décision.
 
@@ -148,9 +170,11 @@ Arrête:
 
 <sup>3</sup> La Commission peut percevoir un dédommagement auprès des parties.
 
+[^12-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
+
 #### Art. 13
 
-**Emoluments du Service pour les tâches de surveillance (art. 19 al. 4 et 21 al. 1 LMDS)**
+**Emoluments du Service pour les tâches de surveillance (art. 19 al. 4 et 21 al. 1 LMDS[^13-1])**
 
 <sup>1</sup> Les émoluments perçus par le Service se composent:
 
@@ -160,6 +184,8 @@ Arrête:
 <sup>2</sup> L'émolument de base comprend les frais relatifs à l'ouverture du dossier, l'administration générale de l'activité ainsi que le traitement du dossier ne nécessitant pas d'action au-delà d'une heure de travail. Il est fixé à 300 francs par dossier.
 
 <sup>3</sup> Les frais de personnel sont calculés selon le temps effectivement employé, arrondi à la demi-heure supérieure. Ils concernent toutes les prestations non couvertes par l'émolument de base. Le coût horaire est fixé à 180 francs.
+
+[^13-1]: RSF [413.5.1](https://bdlf.fr.ch/data/413.5.1/fr)
 
 #### Art. 14
 
