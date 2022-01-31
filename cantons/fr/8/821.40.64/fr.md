@@ -4,13 +4,13 @@ number: "821.40.64"
 title: Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien et du conseil aux entreprises
 short: OME-entreprises COVID-19
 language: fr
-version: 2020-09-11
-valid_until: 2022-01-31
-version_adopted: 2020-09-01
+version: 2022-02-01
+valid_until: 2023-07-14
+version_adopted: 2022-04-01
 adopted: 2020-04-21
 in_force: 2020-04-24
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.64"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6586/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7414/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, soutien et conseil aux entreprises - O
 
 (OME-entreprises COVID-19)
 
-du 21.04.2020 (version entrée en vigueur le 11.09.2020)
+du 21.04.2020 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -74,7 +74,7 @@ Arrête:
 <sup>2</sup> Les demandes d'aide au sens de l'alinéa 1 du présent article sont traitées selon les modalités suivantes:
 
 - a) les demandes, accompagnées des pièces et documents nécessaires, doivent être déposées par le biais du portail covid19.easygov.swiss;
-- b) l'association FriUp, instance désignée par le canton, en fait l'analyse et transmet son évaluation à la Direction de l'économie et de l'emploi (DEE) pour préavis; FriUp transmet ensuite son analyse et le préavis de la DEE à l'organisme de cautionnement compétent (Cautionnement romand) pour décision; sur la base de cette décision, l'entreprise peut contacter la banque de son choix;
+- b) l'association FriUp, instance désignée par le canton, en fait l'analyse et transmet son évaluation à la Direction de l'économie, de l'emploi et de la formation professionnelle (DEEF) pour préavis; FriUp transmet ensuite son analyse et le préavis de la DEEF à l'organisme de cautionnement compétent (Cautionnement romand) pour décision; sur la base de cette décision, l'entreprise peut contacter la banque de son choix;
 - c) l'aide n'est pas conditionnée à une clause de restitution en cas de fermeture de la société.
 
 <sup>3</sup> L'Etat ne prélève ni frais d'expertise sur chaque cautionnement accordé ni prime de risque annuelle sur le solde ouvert du crédit cautionné.

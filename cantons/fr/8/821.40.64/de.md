@@ -4,13 +4,13 @@ number: "821.40.64"
 title: Verordnung über die wirtschaftlichen Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge und Beratung für Unternehmen
 short: WMV-Unternehmen-COVID-19
 language: de
-version: 2020-09-11
-valid_until: 2022-01-31
-version_adopted: 2020-09-01
+version: 2022-02-01
+valid_until: 2023-07-14
+version_adopted: 2022-04-01
 adopted: 2020-04-21
 in_force: 2020-04-24
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.64"
-pdf: "https://bdlf.fr.ch/api/de/versions/6586/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7414/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Beiträge und Beratung für Unternehmen - V
 
 (WMV-Unternehmen-COVID-19)
 
-vom 21.04.2020 (Fassung in Kraft getreten am 11.09.2020)
+vom 21.04.2020 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -74,7 +74,7 @@ beschliesst:
 <sup>2</sup> Die gestützt auf Absatz 1 gestellten Gesuche werden wie folgt bearbeitet:
 
 - a) Die Gesuche müssen zusammen mit den erforderlichen Belegen und Unterlagen über die Website covid19.easygov.swiss eingereicht werden;
-- b) Der Verein FriUp, die vom Kanton dafür bezeichnete Stelle, prüft das Gesuch und leitet seine Beurteilung an die Volkswirtschaftsdirektion (VWD) zur Stellungnahme weiter. FriUp leitet ihre Beurteilung und die Stellungnahme der VWD zum Entscheid an die zuständige Bürgschaftsorganisation (Bürgschaftsgenossenschaft Westschweiz) weiter. Auf der Grundlage dieses Entscheids kann das Unternehmen bei einer beliebigen Bank einen verbürgten Kredit beantragen;
+- b) Der Verein FriUp, die vom Kanton dafür bezeichnete Stelle, prüft das Gesuch und leitet seine Beurteilung an die Volkswirtschafts- und Berufsbildungsdirektion (VWBD) zur Stellungnahme weiter. FriUp leitet ihre Beurteilung und die Stellungnahme der VWBD zum Entscheid an die zuständige Bürgschaftsorganisation (Bürgschaftsgenossenschaft Westschweiz) weiter. Auf der Grundlage dieses Entscheids kann das Unternehmen bei einer beliebigen Bank einen verbürgten Kredit beantragen;
 - c) Der Beitrag wird nicht zurückgefordert, falls die Firma ihre Tätigkeit aufgibt.
 
 <sup>3</sup> Der Staat stellt für die gewährten Bürgschaften keine Kosten für die Prüfung des Dossiers in Rechnung und erhebt auch keine jährliche Risikoprämie auf dem verbleibenden verbürgten Kredit.
