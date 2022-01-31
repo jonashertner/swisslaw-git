@@ -3,13 +3,12 @@ canton: FR
 number: "97.11"
 title: Verordnung über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 language: de
-version: 2012-04-01
-valid_until: 2022-01-31
-version_adopted: 2012-03-06
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 2012-03-06
 in_force: 2012-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/97.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5751/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8384/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5751/pdf_file"
 
 Internationale Entwicklungszusammenarbeit und humanitäre Hilfe – V
 
-vom 06.03.2012 (Fassung in Kraft getreten am 01.04.2012)
+vom 06.03.2012 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -43,7 +42,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Justiz- und Sicherheitsdirektion ist für die Entwicklungszusammenarbeit zuständig. Sie verfügt hierzu über das Generalsekretariat.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion ist für die Entwicklungszusammenarbeit zuständig. Sie verfügt hierzu über das Generalsekretariat.
 
 <sup>2</sup> Die Finanzdirektion ist für die humanitäre Hilfe zuständig. Sie verfügt hierzu über das Generalsekretariat.
 
@@ -53,21 +52,21 @@ beschliesst:
 
 <sup>1</sup> Die Kantonale Kommission für Entwicklungszusammenarbeit und humanitäre Hilfe (die Kommission) setzt sich wie folgt zusammen:
 
-- a) ein Mitglied der Sicherheits- und Justizdirektion;
+- a) ein Mitglied der Sicherheits-, Justiz- und Sportdirektion;
 - b) ein Mitglied der Finanzdirektion;
-- c) ein Mitglied der Direktion für Erziehung, Kultur und Sport;
-- d) ein Mitglied der Raumplanungs-, Umwelt- und Baudirektion;
+- c) ein Mitglied der Direktion für Bildung und kulturelle Angelegenheiten;
+- d) ein Mitglied der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt;
 - e) ein Mitglied der Direktion für Gesundheit und Soziales;
 - f) ein Mitglied der Direktion der Institutionen und der Land- und Forstwirtschaft;
-- g) ein Mitglied der Volkswirtschaftsdirektion;
+- g) ein Mitglied der Volkswirtschafts- und Berufsbildungsdirektion;
 - h) ein Mitglied des Freiburger Gemeindeverbandes;
 - i) zwei Personen aus den Fachkreisen für internationale Entwicklungszusammenarbeit und humanitäre Hilfe der lokalen Universität und Hochschulen;
 - j) zwei Mitglieder des kantonalen Dachverbandes der Organisationen der Entwicklungszusammenarbeit Solidarisches Freiburg;
 - k) eine Expertin oder ein Experte für humanitäre Hilfe.
 
-<sup>2</sup> Sie wird von der Vertreterin oder vom Vertreter der Sicherheits- und Justizdirektion präsidiert.
+<sup>2</sup> Sie wird von der Vertreterin oder vom Vertreter der Sicherheits-, Justiz- und Sportdirektion präsidiert.
 
-<sup>3</sup> Sie ist der Sicherheits- und Justizdirektion angegliedert, die das Sekretariat führt.
+<sup>3</sup> Sie ist der Sicherheits-, Justiz- und Sportdirektion angegliedert, die das Sekretariat führt.
 
 #### Art. 4
 
@@ -84,7 +83,9 @@ beschliesst:
 
 **Entschädigung**
 
-<sup>1</sup> Die Mitglieder der Kommission werden gemäss der Verordnung über die Entschädigung der Mitglieder der Kommissionen des Staates entschädigt.
+<sup>1</sup> Die Mitglieder der Kommission werden gemäss der Verordnung über die Entschädigung der Mitglieder der Kommissionen des Staates[^5-1] entschädigt.
+
+[^5-1]: SGF [122.8.41](https://bdlf.fr.ch/data/122.8.41/de)
 
 #### Art. 6
 
