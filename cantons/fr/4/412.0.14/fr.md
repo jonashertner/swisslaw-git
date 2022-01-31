@@ -3,13 +3,13 @@ canton: FR
 number: "412.0.14"
 title: Règlement concernant la passerelle de la maturité professionnelle ou spécialisée aux hautes écoles universitaires
 language: fr
-version: 2017-08-01
-valid_until: 2022-01-31
-version_adopted: 2017-06-13
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2011-12-13
 in_force: 2012-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5166/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7290/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5166/pdf_file"
 
 Passerelle de la maturité professionnelle aux hautes écoles universitaires – R
 
-du 13.12.2011 (version entrée en vigueur le 01.08.2017)
+du 13.12.2011 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -50,7 +50,7 @@ Arrête:
 
 <sup>1</sup> La formation passerelle dure un an et s'adresse aux titulaires d'un certificat fédéral de maturité professionnelle ou d'un certificat de maturité spécialisée reconnu au niveau suisse. Elle se conclut par des examens dans chacune de ces disciplines. Un certificat est décerné en cas de succès, qui donne accès aux hautes écoles universitaires.
 
-<sup>2</sup> L'organisation des cours et de l'examen complémentaire est placée sous la responsabilité de la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction).
+<sup>2</sup> L'organisation des cours et de l'examen complémentaire est placée sous la responsabilité de la Direction de la formation et des affaires culturelles (ci-après: la Direction).
 
 #### Art. 3
 
@@ -278,7 +278,7 @@ Arrête:
 
 <sup>1</sup> Le certificat porte les indications suivantes:
 
-- a) la dénomination du canton, soit la mention: «Direction de l'instruction publique, de la culture et du sport du canton de Fribourg»;
+- a) la dénomination du canton, soit la mention: «Direction de la formation et des affaires culturelles du canton de Fribourg»;
 - b) la dénomination de l'école, soit «Collège Saint-Michel»;
 - c) les données personnelles de la personne certifiée, soit ses nom, prénom, date de naissance et lieu d'origine;
 - d) la mention indiquant que l'examen complémentaire a été «organisé conformément à l'ordonnance du 2 février 2011 du Conseil fédéral et au règlement du 17 mars 2011 de la CDIP sur l'examen complémentaire permettant aux titulaires d'un certificat fédéral de maturité professionnelle ou d'un certificat de maturité spécialisée reconnu au niveau suisse d'être admis aux hautes écoles universitaires»;

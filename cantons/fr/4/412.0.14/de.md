@@ -3,13 +3,13 @@ canton: FR
 number: "412.0.14"
 title: Reglement über die Passerelle Berufsmaturität / Fachmaturität – universitäre Hochschulen
 language: de
-version: 2017-08-01
-valid_until: 2022-01-31
-version_adopted: 2017-06-13
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2011-12-13
 in_force: 2012-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/5166/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7290/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5166/pdf_file"
 
 Passerelle Berufsmaturität - universitäre Hochschulen – R
 
-vom 13.12.2011 (Fassung in Kraft getreten am 01.08.2017)
+vom 13.12.2011 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -50,7 +50,7 @@ beschliesst:
 
 <sup>1</sup> Die Passerelle dauert ein Jahr und richtet sich an Inhaberinnen und Inhaber eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses. Sie umfasst die Fächer Französisch, Deutsch, Mathematik, Naturwissenschaften sowie Geistes- und Sozialwissenschaften und wird mit Prüfungen in all diesen Fächern abgeschlossen. Nach bestandener Ergänzungsprüfung wird ein Zeugnis ausgestellt, das zur Zulassung zu den universitären Hochschulen berechtigt.
 
-<sup>2</sup> Für die Organisation der Vorbereitungskurse und der Ergänzungsprüfung ist die Direktion für Erziehung, Kultur und Sport (die Direktion) zuständig.
+<sup>2</sup> Für die Organisation der Vorbereitungskurse und der Ergänzungsprüfung ist die Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) zuständig.
 
 #### Art. 3
 
@@ -278,7 +278,7 @@ beschliesst:
 
 <sup>1</sup> Das Zeugnis enthält folgende Angaben:
 
-- a) die Kantonsbezeichnung, also den Vermerk: «Direktion für Erziehung, Kultur und Sport des Kantons Freiburg»;
+- a) die Kantonsbezeichnung, also den Vermerk: «Direktion für Bildung und kulturelle Angelegenheiten des Kantons Freiburg»;
 - b) den Namen der Schule, also «Kollegium St. Michael»;
 - c) die persönlichen Daten der Inhaberin oder des Inhabers, also Name und Vorname, Geburtsdatum und Heimatort;
 - d) einen Vermerk, der bestätigt, dass die Ergänzungsprüfung den Anforderungen der Bundesverordnung vom 2. Februar 2011 und dem Reglement der EDK vom 17. März 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen entspricht;
