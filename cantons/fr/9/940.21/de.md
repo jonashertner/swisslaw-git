@@ -3,13 +3,12 @@ canton: FR
 number: "940.21"
 title: Verordnung über die Ausübung der Prostitution
 language: de
-version: 2015-07-01
-valid_until: 2022-01-31
-version_adopted: 2015-06-22
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 2010-11-23
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/940.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/5727/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5727/pdf_file"
 
 Ausübung der Prostitution – V
 
-vom 23.11.2010 (Fassung in Kraft getreten am 01.07.2015)
+vom 23.11.2010 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -38,7 +37,7 @@ beschliesst:
 - b) das Bewilligungsverfahren für die Bereitstellung von Räumlichkeiten, die für die Ausübung der Prostitution bestimmt sind, und für die Kontaktvermittlung zwischen Prostituierten (weiblichen und männlichen) und potentiellen Kundinnen und Kunden;
 - c) die Subventionierung der Institutionen, die Prostituierten Hilfe leisten und sie unterstützen, und der Projekte mit diesem Zweck.
 
-<sup>2</sup> Die Sicherheits- und Justizdirektion (die Direktion) vollzieht die Gesetzgebung über die Ausübung der Prostitution.
+<sup>2</sup> Die Sicherheits-, Justiz- und Sportdirektion (die Direktion) vollzieht die Gesetzgebung über die Ausübung der Prostitution.
 
 #### Art. 2
 
@@ -265,7 +264,7 @@ beschliesst:
 
 **Beratende Kommission im Bereich der Prostitution – Zusammensetzung**
 
-<sup>1</sup> Die Kommission wird von der Sicherheits- und Justizdirektorin oder vom Sicherheits- und Justizdirektor geleitet. Ihr gehören ausserdem folgende vom Staatsrat ernannte Mitglieder an:
+<sup>1</sup> Die Kommission wird von der Sicherheits-, Justiz- und Sportdirektorin oder vom Sicherheits-, Justiz- und Sportdirektor geleitet. Ihr gehören ausserdem folgende vom Staatsrat ernannte Mitglieder an:
 
 - a) eine Vertreterin oder ein Vertreter der Organisationen für die Unterstützung der Prostituierten;
 - b) eine Vertreterin oder ein Vertreter der Beratungsstellen OHG;

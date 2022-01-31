@@ -3,13 +3,12 @@ canton: FR
 number: "940.21"
 title: "Ordonnance sur l'exercice de la prostitution"
 language: fr
-version: 2015-07-01
-valid_until: 2022-01-31
-version_adopted: 2015-06-22
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 2010-11-23
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/940.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5727/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7457/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5727/pdf_file"
 
 Exercice de la prostitution – O
 
-du 23.11.2010 (version entrée en vigueur le 01.07.2015)
+du 23.11.2010 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -38,7 +37,7 @@ Arrête:
 - b) à la procédure d'autorisation pour la mise à la disposition de tiers de locaux affectés à l'exercice de la prostitution et pour la mise en contact de personnes exerçant la prostitution et de clients ou clientes potentiels;
 - c) en matière de subventionnement des institutions et des projets d'aide et de soutien des professionnel-le-s du sexe.
 
-<sup>2</sup> La Direction de la sécurité et de la justice (ci-après: la Direction) est chargée de la mise en œuvre de la législation sur l'exercice de la prostitution.
+<sup>2</sup> La Direction de la sécurité, de la justice et du sport (ci-après: la Direction) est chargée de la mise en œuvre de la législation sur l'exercice de la prostitution.
 
 #### Art. 2
 
@@ -265,7 +264,7 @@ Arrête:
 
 **Commission consultative dans le domaine de la prostitution – Composition**
 
-<sup>1</sup> La Commission est présidée par le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice de la sécurité et de la justice et comprend en outre les membres suivants, nommés par le Conseil d'Etat:
+<sup>1</sup> La Commission est présidée par le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice de la sécurité, de la justice et du sport et comprend en outre les membres suivants, nommés par le Conseil d'Etat:
 
 - a) une personne représentant les organisations de soutien des professionnel-le-s du sexe;
 - b) une personne représentant les centres de consultation LAVI;
