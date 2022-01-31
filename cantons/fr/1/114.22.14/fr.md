@@ -3,20 +3,19 @@ canton: FR
 number: "114.22.14"
 title: Ordonnance relative à la lutte contre la traite des êtres humains
 language: fr
-version: 2019-07-01
-valid_until: 2022-01-31
-version_adopted: 2019-06-26
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.22.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6078/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7233/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance relative à la lutte contre la traite des êtres humains
 
-du 18.12.2007 (version entrée en vigueur le 01.07.2019)
+du 18.12.2007 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -50,11 +49,11 @@ Arrête:
 - d) le Ministère public;
 - e) les Centres de consultation LAVI.
 
-<sup>2</sup> Si l'efficacité de la lutte contre la traite des êtres humains le requiert, la Direction de la sécurité et de la justice intègre dans le mécanisme, avec leur accord, d'autres organismes intéressés.
+<sup>2</sup> Si l'efficacité de la lutte contre la traite des êtres humains le requiert, la Direction de la sécurité, de la justice et du sport intègre dans le mécanisme, avec leur accord, d'autres organismes intéressés.
 
 #### Art. 3
 
-<sup>1</sup> Les services et organismes participant au mécanisme remettent chaque année au Conseil d'Etat, par l'intermédiaire de la Direction de la sécurité et de la justice, un rapport sur les résultats obtenus. En cas de besoin, ils proposent à cette occasion des adaptations du mécanisme.
+<sup>1</sup> Les services et organismes participant au mécanisme remettent chaque année au Conseil d'Etat, par l'intermédiaire de la Direction de la sécurité, de la justice et du sport, un rapport sur les résultats obtenus. En cas de besoin, ils proposent à cette occasion des adaptations du mécanisme.
 
 #### Art. 4
 

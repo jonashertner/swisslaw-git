@@ -3,20 +3,19 @@ canton: FR
 number: "114.22.14"
 title: Verordnung über die Bekämpfung des Menschenhandels
 language: de
-version: 2019-07-01
-valid_until: 2022-01-31
-version_adopted: 2019-06-26
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.22.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/6078/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7233/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Bekämpfung des Menschenhandels
 
-vom 18.12.2007 (Fassung in Kraft getreten am 01.07.2019)
+vom 18.12.2007 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -50,11 +49,11 @@ beschliesst:
 - d) die Staatsanwaltschaft;
 - e) die Opferhilfe-Beratungsstellen.
 
-<sup>2</sup> Erweist es sich für eine wirksame Bekämpfung des Menschenhandels als nötig, so nimmt die Sicherheits- und Justizdirektion mit der Zustimmung der genannten Organe weitere interessierte Stellen in den Mechanismus auf.
+<sup>2</sup> Erweist es sich für eine wirksame Bekämpfung des Menschenhandels als nötig, so nimmt die Sicherheits-, Justiz- und Sportdirektion mit der Zustimmung der genannten Organe weitere interessierte Stellen in den Mechanismus auf.
 
 #### Art. 3
 
-<sup>1</sup> Die am Mechanismus beteiligten Organe erstatten dem Staatsrat über die Sicherheits- und Justizdirektion alljährlich einen Bericht über die erzielten Ergebnisse. Wenn nötig schlagen sie bei dieser Gelegenheit Anpassungen des Mechanismus vor.
+<sup>1</sup> Die am Mechanismus beteiligten Organe erstatten dem Staatsrat über die Sicherheits-, Justiz- und Sportdirektion alljährlich einen Bericht über die erzielten Ergebnisse. Wenn nötig schlagen sie bei dieser Gelegenheit Anpassungen des Mechanismus vor.
 
 #### Art. 4
 
