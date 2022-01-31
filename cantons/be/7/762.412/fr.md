@@ -4,13 +4,12 @@ number: "762.412"
 title: "Ordonnance sur l'offre de transports publics"
 short: OOT
 language: fr
-version: 2021-11-01
-valid_until: 2022-01-31
-version_adopted: 2021-09-22
+version: 2022-02-01
+version_adopted: 2021-11-17
 adopted: 1997-09-10
 in_force: 1997-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/762.412"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2387/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2454/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2387/pdf_file"
 
 (OOT)
 
-du 10.09.1997 (état au 01.11.2021)
+du 10.09.1997 (état au 01.02.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -169,13 +168,13 @@ arrête:
 - b l'opportunité au sens de l'article 12,
 - c le respect des principes d'offre.
 
-<sup>4</sup> Il rejette les offres s’il existe des motifs d’exclusion au sens de l’article 24 de l’ordonnance du 16 octobre 2002 sur les marchés publics (OCMP)[^9-1].
+<sup>4</sup> Il rejette les offres s’il existe des motifs d’exclusion au sens de l’article 44 de l’accord intercantonal du 15 novembre 2019 sur les marchés publics (AIMP)[^9-1].
 
 <sup>5</sup> Les entreprises de transport transmettent à l'Office des transports publics et de la coordination des transports leurs offres pour la nouvelle période d'offre dans les délais fixés par l'Office fédéral des transports.
 
 <sup>6</sup> …
 
-[^9-1]: RSB 731.21
+[^9-1]: RSB [731.2-1](https://www.belex.sites.be.ch/data/731.2-1/fr)
 
 ## 4 Evaluation de l'efficacité de la gestion et examen de l'opportunité
 

@@ -4,13 +4,12 @@ number: "762.412"
 title: Verordnung über das Angebot im öffentlichen Verkehr
 short: Angebotsverordnung; AGV
 language: de
-version: 2021-11-01
-valid_until: 2022-01-31
-version_adopted: 2021-09-22
+version: 2022-02-01
+version_adopted: 2021-11-17
 adopted: 1997-09-10
 in_force: 1997-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/762.412"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2387/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2387/pdf_file"
 
 (Angebotsverordnung; AGV)
 
-vom 10.09.1997 (Stand 01.11.2021)
+vom 10.09.1997 (Stand 01.02.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -170,13 +169,13 @@ Noch nicht überbauten Bauzonen wird Rechnung getragen.
 - b die Zweckmässigkeit gemäss Artikel 12,
 - c die Einhaltung der Angebotsgrundsätze.
 
-<sup>4</sup> Es schliesst Anbieterinnen und Anbieter aus, wenn Ausschlussgründe gemäss Artikel 24 der Verordnung vom 16. Oktober 2002 über das öffentliche Beschaffungswesen (ÖBV)[^9-1] vorliegen.
+<sup>4</sup> Es schliesst Anbieterinnen und Anbieter aus, wenn Ausschlussgründe gemäss Artikel 44 der Interkantonalen Vereinbarung vom 15. November 2019 über das öffentliche Beschaffungswesen (IVöB)[^9-1] vorliegen.
 
 <sup>5</sup> Die Transportunternehmungen reichen ihre Offerten für die neue Offertperiode dem Amt für öffentlichen Verkehr und Verkehrskoordination innerhalb der vom Bundesamt für Verkehr festgelegten Fristen ein.
 
 <sup>6</sup> …
 
-[^9-1]: BSG 731.21
+[^9-1]: BSG [731.2-1](https://www.belex.sites.be.ch/data/731.2-1/de)
 
 ## 4 Erfolgskontrolle der effizienten Betriebsführung und Überprüfung der Zweckmässigkeit
 
