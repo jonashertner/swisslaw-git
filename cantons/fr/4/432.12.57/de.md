@@ -3,13 +3,13 @@ canton: FR
 number: "432.12.57"
 title: Verordnung über die Bachelor-Ausbildung in Pflege an der Hochschule für Gesundheit Freiburg
 language: de
-version: 2018-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-12-19
+version: 2022-02-01
+valid_until: 2023-11-30
+version_adopted: 2022-03-04
 adopted: 2006-09-19
 in_force: 2006-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/432.12.57"
-pdf: "https://bdlf.fr.ch/api/de/versions/5321/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7309/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5321/pdf_file"
 
 Hochschule für Gesundheit, Bachelor-Ausbildung in Pflege – V
 
-vom 19.09.2006 (Fassung in Kraft getreten am 01.01.2018)
+vom 19.09.2006 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg[^ingress-1]
 
@@ -335,7 +335,7 @@ F: Nicht bestanden – Ungenügend – Wiederholung des Moduls erforderlich
 
 <sup>1</sup> Zur Erlangung des Diploms müssen 180 ECTS-Credits erworben worden sein.
 
-<sup>2</sup> Das Diplom trägt die Unterschriften der Direktorin oder des Direktors der HfG-FR und der Direktorin oder des Direktors für Erziehung, Kultur und Sport.
+<sup>2</sup> Das Diplom trägt die Unterschriften der Direktorin oder des Direktors der HfG-FR und der Direktorin oder des Direktors für Bildung und kulturelle Angelegenheiten.
 
 #### Art. 29
 
@@ -494,11 +494,11 @@ F: Nicht bestanden – Ungenügend – Wiederholung des Moduls erforderlich
 
 **Beschwerde**
 
-<sup>1</sup> Gegen den Einspracheentscheid kann bei der Direktion für Erziehung, Kultur und Sport Beschwerde eingereicht werden.
+<sup>1</sup> Gegen den Einspracheentscheid kann bei der Direktion für Bildung und kulturelle Angelegenheiten Beschwerde eingereicht werden.
 
 <sup>2</sup> Die Beschwerde muss innert zehn Tagen nach Erhalt des Einspracheentscheids eingereicht werden. Sie muss von der beschwerdeführenden oder der bevollmächtigten Person schriftlich, begründet, mit Datum versehen, eigenhändig unterschrieben und gegebenenfalls mit einer Vollmacht und den für die Instruktion erforderlichen Akten eingereicht werden.
 
-<sup>3</sup> Der Beschwerdeentscheid der Direktion für Erziehung, Kultur und Sport kann bei der Rekurskommission der FH-GS angefochten werden.
+<sup>3</sup> Der Beschwerdeentscheid der Direktion für Bildung und kulturelle Angelegenheiten kann bei der Rekurskommission der FH-GS angefochten werden.
 
 #### Art. 49
 
@@ -511,7 +511,7 @@ F: Nicht bestanden – Ungenügend – Wiederholung des Moduls erforderlich
 <sup>3</sup> Beschwerdebehörde ist:
 
 - a) die Direktorin oder der Direktor der HfG-FR bei Handlungen oder Unterlassungen einer Lehrperson der HfG-FR;
-- b) die Direktion für Erziehung, Kultur und Sport bei Handlungen oder Unterlassungen der Direktorin oder des Direktors der HfG-FR.
+- b) die Direktion für Bildung und kulturelle Angelegenheiten bei Handlungen oder Unterlassungen der Direktorin oder des Direktors der HfG-FR.
 
 <sup>4</sup> Die Beschwerdebehörde stellt den Sachverhalt fest. Sie hört die von der Beschwerde betroffene Person an. Sie kann die Beschwerdeführerin oder den Beschwerdeführer anhören, wenn die Umstände es rechtfertigen. Der Beschwerdeentscheid erfolgt schriftlich und wird begründet.
 

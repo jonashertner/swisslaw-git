@@ -3,13 +3,13 @@ canton: FR
 number: "432.12.57"
 title: Ordonnance sur la formation bachelor en soins infirmiers à la Haute Ecole de santé Fribourg
 language: fr
-version: 2018-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-12-19
+version: 2022-02-01
+valid_until: 2023-11-30
+version_adopted: 2022-03-04
 adopted: 2006-09-19
 in_force: 2006-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/432.12.57"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5321/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7309/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5321/pdf_file"
 
 Haute Ecole de santé, formation bachelor en soins infirmiers – O
 
-du 19.09.2006 (version entrée en vigueur le 01.01.2018)
+du 19.09.2006 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg[^ingress-1]
 
@@ -335,7 +335,7 @@ F: non acquis – Résultat insuffisant exigeant la répétition du module
 
 <sup>1</sup> L'obtention du diplôme est subordonnée à l'acquisition des 180 crédits ECTS requis.
 
-<sup>2</sup> Le diplôme porte les signatures du directeur ou de la directrice de la HEdS-FR et du Directeur ou de la Directrice de la Direction de l'instruction publique, de la culture et du sport.
+<sup>2</sup> Le diplôme porte les signatures du directeur ou de la directrice de la HEdS-FR et du Directeur ou de la Directrice de la Direction de la formation et des affaires culturelles.
 
 #### Art. 29
 
@@ -494,11 +494,11 @@ F: non acquis – Résultat insuffisant exigeant la répétition du module
 
 **Recours**
 
-<sup>1</sup> Les décisions prises sur réclamation peuvent faire l'objet d'un recours auprès de la Direction de l'instruction publique, de la culture et du sport.
+<sup>1</sup> Les décisions prises sur réclamation peuvent faire l'objet d'un recours auprès de la Direction de la formation et des affaires culturelles.
 
 <sup>2</sup> Le recours doit être déposé dans un délai de dix jours dès réception de la décision sur réclamation. Il s'exerce au moyen d'un acte écrit, motivé, daté et signé par la personne candidate ou par l'étudiant ou l'étudiante, voire par leur mandataire, et s'accompagne, le cas échéant, d'une procuration et des pièces nécessaires à son instruction.
 
-<sup>3</sup> Les décisions prises sur recours par la Direction de l'instruction publique, de la culture et du sport peuvent être attaquées auprès de la commission de recours de la HES-S2.
+<sup>3</sup> Les décisions prises sur recours par la Direction de la formation et des affaires culturelles peuvent être attaquées auprès de la commission de recours de la HES-S2.
 
 #### Art. 49
 
@@ -511,7 +511,7 @@ F: non acquis – Résultat insuffisant exigeant la répétition du module
 <sup>3</sup> L'autorité de plainte est:
 
 - a) le directeur ou la directrice de la HEdS-FR, lorsque la plainte est portée contre les actes ou omissions d'un membre du personnel enseignant de la HEdS-FR;
-- b) la Direction de l'instruction publique, de la culture et du sport, lorsque la plainte est portée contre les actes ou omissions du directeur ou de la directrice de la HEdS-FR.
+- b) la Direction de la formation et des affaires culturelles, lorsque la plainte est portée contre les actes ou omissions du directeur ou de la directrice de la HEdS-FR.
 
 <sup>4</sup> L'autorité de plainte établit les faits. Elle entend la personne visée par la plainte. Elle peut entendre oralement le plaignant ou la plaignante, si les circonstances le justifient. La décision sur plainte est rendue par écrit et est motivée.
 
