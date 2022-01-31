@@ -4,13 +4,12 @@ number: "710.61"
 title: Verordnung über die finanziellen Sicherheiten für Materialausbeutungen und Deponien
 short: FSV
 language: de
-version: 2015-10-01
-valid_until: 2022-01-31
-version_adopted: 2015-09-22
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 2015-09-22
 in_force: 2015-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/5342/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7345/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Materialausbeutungen und Deponien, finanzielle Sicherheiten – V
 
 (FSV)
 
-vom 22.09.2015 (Fassung in Kraft getreten am 01.10.2015)
+vom 22.09.2015 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -53,9 +52,9 @@ beschliesst:
 
 #### Art. 3
 
-**Raumplanungs-, Umwelt- und Baudirektion**
+**Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt**
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion (RUBD):
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU):
 
 - a) verlangt die in dieser Verordnung vorgesehenen finanziellen Sicherheiten und verwaltet diese für den Staat;
 - b) gibt die finanziellen Sicherheiten frei, nachdem sie sich mit adäquaten Kontrollen vergewissert hat, dass das Gelände vorschriftsgemäss instand gesetzt wurde;
@@ -68,9 +67,9 @@ beschliesst:
 
 **Bau- und Raumplanungsamt**
 
-<sup>1</sup> Das Bau- und Raumplanungsamt (BRPA) ist zuständig für die Vorbereitung und Begleitung der Dossiers für die RUBD.
+<sup>1</sup> Das Bau- und Raumplanungsamt (BRPA) ist zuständig für die Vorbereitung und Begleitung der Dossiers für die RIMU.
 
-<sup>2</sup> Es kann von der RUBD mit allgemeinen Vollzugsaufgaben beauftragt werden. Es berät und unterstützt die anderen betroffenen Verwaltungsorgane und arbeitet mit diesen zusammen.
+<sup>2</sup> Es kann von der RIMU mit allgemeinen Vollzugsaufgaben beauftragt werden. Es berät und unterstützt die anderen betroffenen Verwaltungsorgane und arbeitet mit diesen zusammen.
 
 <sup>3</sup> Es trifft alle Massnahmen, für die keine formelle Verfügung nötig ist.
 
@@ -94,7 +93,7 @@ beschliesst:
 
 **Form und Verwaltung (Art. 108 RPBR)**
 
-<sup>1</sup> Der Gesamtbetrag der finanziellen Sicherheiten, die gemäss dieser Verordnung verlangt werden, wird in einem Gesamtvertrag zugunsten der RUBD, den die RUBD für sich selber und für die Direktion der Institutionen und der Land- und Forstwirtschaft verwaltet, geregelt.
+<sup>1</sup> Der Gesamtbetrag der finanziellen Sicherheiten, die gemäss dieser Verordnung verlangt werden, wird in einem Gesamtvertrag zugunsten der RIMU, den die RIMU für sich selber und für die Direktion der Institutionen und der Land- und Forstwirtschaft verwaltet, geregelt.
 
 #### Art. 7
 
@@ -149,7 +148,7 @@ beschliesst:
 
 **Freigabe (Art. 159 Abs. 2 RPBG) – Bedingungen**
 
-<sup>1</sup> Freigabegesuche müssen von der Betreiberin oder vom Betreiber an die RUBD gerichtet werden.
+<sup>1</sup> Freigabegesuche müssen von der Betreiberin oder vom Betreiber an die RIMU gerichtet werden.
 
 <sup>2</sup> Um die Freigabe der variablen Beträge zu erreichen, muss die Betreiberin oder der Betreiber nachweisen, dass:
 
@@ -174,11 +173,11 @@ beschliesst:
 
 **Freigabe (Art. 159 Abs. 2 RPBG) – Verfahren**
 
-<sup>1</sup> Nachdem die RUBD die erforderlichen Kontrollen vorgenommen hat, stellt sie fest, ob die Bedingungen für die Freigabe der finanziellen Sicherheiten erfüllt sind. Sind die Bedingungen erfüllt, so erfolgt die Freigabe gemäss den Artikeln 11 und 13.
+<sup>1</sup> Nachdem die RIMU die erforderlichen Kontrollen vorgenommen hat, stellt sie fest, ob die Bedingungen für die Freigabe der finanziellen Sicherheiten erfüllt sind. Sind die Bedingungen erfüllt, so erfolgt die Freigabe gemäss den Artikeln 11 und 13.
 
-<sup>2</sup> Vor ihrem Entscheid hört die RUBD alle betroffenen Dienststellen, Organe, Gemeinwesen und Personen, namentlich die betroffenen Gemeinden, Eigentümerinnen und Eigentümer, Bewirtschafterinnen und Bewirtschafter, sowie betroffene Dritte an.
+<sup>2</sup> Vor ihrem Entscheid hört die RIMU alle betroffenen Dienststellen, Organe, Gemeinwesen und Personen, namentlich die betroffenen Gemeinden, Eigentümerinnen und Eigentümer, Bewirtschafterinnen und Bewirtschafter, sowie betroffene Dritte an.
 
-<sup>3</sup> Sofern unter den Parteien Einigkeit herrscht, eröffnet die RUBD ihren Entscheid mündlich und ohne Begründung. Im Streitfall erlässt die RUBD eine schriftliche und begründete Verfügung.
+<sup>3</sup> Sofern unter den Parteien Einigkeit herrscht, eröffnet die RIMU ihren Entscheid mündlich und ohne Begründung. Im Streitfall erlässt die RIMU eine schriftliche und begründete Verfügung.
 
 ## 6 Rechtsmittel
 

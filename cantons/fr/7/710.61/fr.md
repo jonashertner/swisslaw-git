@@ -4,13 +4,12 @@ number: "710.61"
 title: Ordonnance relative aux garanties financières à fournir pour les exploitations de matériaux et les décharges
 short: OGF
 language: fr
-version: 2015-10-01
-valid_until: 2022-01-31
-version_adopted: 2015-09-22
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 2015-09-22
 in_force: 2015-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5342/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7345/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Exploitations de matériaux et décharges, garanties financières – O
 
 (OGF)
 
-du 22.09.2015 (version entrée en vigueur le 01.10.2015)
+du 22.09.2015 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -53,9 +52,9 @@ Arrête:
 
 #### Art. 3
 
-**Direction de l'aménagement, de l'environnement et des constructions**
+**Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement**
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions (ci-après: la DAEC) est l'autorité compétente pour accomplir toutes les tâches relatives à l'exécution de la présente ordonnance, à savoir:
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: la DIME) est l'autorité compétente pour accomplir toutes les tâches relatives à l'exécution de la présente ordonnance, à savoir:
 
 - a) exiger les garanties prévues par la présente ordonnance et assurer leur gestion pour le compte de l'Etat;
 - b) libérer les garanties après avoir procédé aux contrôles suffisants pour s'assurer de la bonne remise en état des terrains;
@@ -68,9 +67,9 @@ Arrête:
 
 **Service des constructions et de l'aménagement**
 
-<sup>1</sup> Le Service des constructions et de l'aménagement (ci-après: le SeCA) est l'unité administrative chargée de la préparation et du suivi des dossiers à l'intention de la DAEC.
+<sup>1</sup> Le Service des constructions et de l'aménagement (ci-après: le SeCA) est l'unité administrative chargée de la préparation et du suivi des dossiers à l'intention de la DIME.
 
-<sup>2</sup> Il peut être chargé par la DAEC de l'exécution générale de ses tâches. Il fournit des conseils, prête son concours et collabore avec les autres organes administratifs concernés.
+<sup>2</sup> Il peut être chargé par la DIME de l'exécution générale de ses tâches. Il fournit des conseils, prête son concours et collabore avec les autres organes administratifs concernés.
 
 <sup>3</sup> Il est compétent pour prendre toutes les mesures qui ne nécessitent pas de décision formelle.
 
@@ -94,7 +93,7 @@ Arrête:
 
 **Forme et gestion (art. 108 ReLATeC)**
 
-<sup>1</sup> Le montant global des garanties exigé dans la présente ordonnance prend la forme d'un contrat unique de garantie, établie en faveur de la DAEC qui en assure la gestion pour son propre compte et pour celui de la Direction des institutions, de l'agriculture et des forêts.
+<sup>1</sup> Le montant global des garanties exigé dans la présente ordonnance prend la forme d'un contrat unique de garantie, établie en faveur de la DIME qui en assure la gestion pour son propre compte et pour celui de la Direction des institutions, de l'agriculture et des forêts.
 
 #### Art. 7
 
@@ -111,7 +110,7 @@ Arrête:
 
 **Tarif – Montants fixes**
 
-<sup>1</sup> Les montants perçus par la DAEC lors de la délivrance de l'autorisation d'exploitation sont fixés comme il suit:
+<sup>1</sup> Les montants perçus par la DIME lors de la délivrance de l'autorisation d'exploitation sont fixés comme il suit:
 
 - a) 50'000 francs destinés à couvrir les aspects prévus à l'article 5 let. a et b;
 - b) 50'000 francs destinés à couvrir les aspects prévus à l'article 5 let. c;
@@ -149,7 +148,7 @@ Arrête:
 
 **Libération (art. 159 al. 2 LATeC) – Conditions**
 
-<sup>1</sup> Toute demande de libération doit être adressée par l'exploitant ou l'exploitante à la DAEC.
+<sup>1</sup> Toute demande de libération doit être adressée par l'exploitant ou l'exploitante à la DIME.
 
 <sup>2</sup> Pour obtenir la libération des montants variables, l'exploitant ou l'exploitante doit:
 
@@ -174,11 +173,11 @@ Arrête:
 
 **Libération (art. 159 al. 2 LATeC) – Procédure**
 
-<sup>1</sup> Après avoir effectué les contrôles nécessaires, la DAEC constate si les conditions donnant lieu à une libération des garanties sont remplies. Dans la positive, la libération a lieu conformément aux articles 11 et 13.
+<sup>1</sup> Après avoir effectué les contrôles nécessaires, la DIME constate si les conditions donnant lieu à une libération des garanties sont remplies. Dans la positive, la libération a lieu conformément aux articles 11 et 13.
 
-<sup>2</sup> Avant de se prononcer, la DAEC prend l'avis de tous les services et organes, des collectivités et des personnes intéressées, notamment la ou les communes, le ou les propriétaires, le ou les exploitants agricoles et fermiers concernés, ainsi que de tout autre tiers.
+<sup>2</sup> Avant de se prononcer, la DIME prend l'avis de tous les services et organes, des collectivités et des personnes intéressées, notamment la ou les communes, le ou les propriétaires, le ou les exploitants agricoles et fermiers concernés, ainsi que de tout autre tiers.
 
-<sup>3</sup> En cas d'accord, la DAEC notifie sa décision verbalement et renonce à toute motivation. En cas de litige uniquement, elle rend une décision par écrit et motivée.
+<sup>3</sup> En cas d'accord, la DIME notifie sa décision verbalement et renonce à toute motivation. En cas de litige uniquement, elle rend une décision par écrit et motivée.
 
 ## 6 Voies de droit
 
