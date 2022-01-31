@@ -3,13 +3,12 @@ canton: FR
 number: "773.11"
 title: "Arrêté pour l'exécution de la loi fédérale sur l'utilisation des forces hydrauliques"
 language: fr
-version: 2013-01-01
-valid_until: 2022-01-31
-version_adopted: 2012-12-11
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1917-10-12
 in_force: 1918-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/773.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6356/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7358/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6356/pdf_file"
 
 Utilisation des forces hydrauliques – A
 
-du 12.10.1917 (version entrée en vigueur le 01.01.2013)
+du 12.10.1917 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -129,7 +128,7 @@ Arrête:
 
 <sup>2</sup> Les plans prévus sous let. e, f et g ci-dessus doivent être établis par un géomètre breveté.
 
-<sup>3</sup> La Direction de l'aménagement, de l'environnement et des constructions peut autoriser, suivant les circonstances, la levée à une échelle plus réduite de tout ou partie de ces plans.
+<sup>3</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement peut autoriser, suivant les circonstances, la levée à une échelle plus réduite de tout ou partie de ces plans.
 
 #### Art. 12
 
@@ -149,7 +148,7 @@ Arrête:
 
 **60 LF**
 
-<sup>1</sup> En cas d'octroi de la concession demandée, toutes les pièces et renseignements produits à l'appui de la demande de concession demeurent entre les mains de la Direction de l'aménagement, de l'environnement et des constructions, au dossier de la concession. Les intéressés peuvent en tout temps les consulter et en faire prendre des copies à leurs frais.
+<sup>1</sup> En cas d'octroi de la concession demandée, toutes les pièces et renseignements produits à l'appui de la demande de concession demeurent entre les mains de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement, au dossier de la concession. Les intéressés peuvent en tout temps les consulter et en faire prendre des copies à leurs frais.
 
 #### Art. 15
 
@@ -179,7 +178,7 @@ Arrête:
 
 <sup>1</sup> Le présent arrêté entre en vigueur en même temps que la loi fédérale, soit le 1<sup>er</sup> janvier 1918. Il sera publié par la voie de la Feuille officielle, imprimé en livrets et inséré au Bulletin des lois.
 
-<sup>2</sup> La Direction de l'aménagement, de l'environnement et des constructions pourvoit à son exécution.
+<sup>2</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement pourvoit à son exécution.
 
 **Approbation**
 

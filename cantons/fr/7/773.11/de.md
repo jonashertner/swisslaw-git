@@ -3,13 +3,12 @@ canton: FR
 number: "773.11"
 title: Vollzugsverordnung zum Bundesgesetz über die Nutzbarmachung der Wasserkräfte
 language: de
-version: 2013-01-01
-valid_until: 2022-01-31
-version_adopted: 2012-12-11
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1917-10-12
 in_force: 1918-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/773.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6356/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7358/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6356/pdf_file"
 
 Nutzbarmachung der Wasserkräfte – V
 
-vom 12.10.1917 (Fassung in Kraft getreten am 01.01.2013)
+vom 12.10.1917 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -129,7 +128,7 @@ beschliesst:
 
 <sup>2</sup> Die unter obigen Buchstaben e, f und g vorgesehenen Pläne müssen von einem patentierten Geometer erstellt werden.
 
-<sup>3</sup> Die Raumplanungs-, Umwelt- und Baudirektion kann je nach Umständen die Aufnahme aller oder eines Teiles dieser Pläne zu einem kleineren Massstab erlauben.
+<sup>3</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt kann je nach Umständen die Aufnahme aller oder eines Teiles dieser Pläne zu einem kleineren Massstab erlauben.
 
 #### Art. 12
 
@@ -147,7 +146,7 @@ beschliesst:
 
 #### Art. 14
 
-<sup>1</sup> Im Falle der Verleihung der nachgesuchten Konzession verbleiben sämtliche Urkunden und vorgewiesenen Belege zur Unterstützung des Konzessionsgesuches auf der Raumplanungs-, Umwelt- und Baudirektion im Aktenstoss der Konzession. Die Interessenten können jederzeit davon Einsicht nehmen und auf ihre Kosten Kopien machen.
+<sup>1</sup> Im Falle der Verleihung der nachgesuchten Konzession verbleiben sämtliche Urkunden und vorgewiesenen Belege zur Unterstützung des Konzessionsgesuches auf der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt im Aktenstoss der Konzession. Die Interessenten können jederzeit davon Einsicht nehmen und auf ihre Kosten Kopien machen.
 
 #### Art. 15
 
@@ -171,7 +170,7 @@ beschliesst:
 
 <sup>1</sup> Vorliegender Beschluss tritt gleichzeitig mit dem Bundesgesetz, also am 1. Januar 1918 in Kraft. Er wird im Amtsblatt veröffentlicht, in Heften gedruckt und der Gesetzessammlung einverleibt.
 
-<sup>2</sup> Die Raumplanungs-, Umwelt- und Baudirektion sorgt für dessen Vollzug.
+<sup>2</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt sorgt für dessen Vollzug.
 
 **Genehmigung**
 
