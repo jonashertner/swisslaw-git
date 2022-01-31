@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.855"
 title: Studienordnung für den Masterstudiengang International Business an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2022-02-01
+version: "2022-02-01"
+nachtrag: "116"
+valid_until: 2023-01-01
 adopted: 2015-12-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_855-2015_12_10-2016_05_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_855-2015_12_10-2016_05_01-116.html"
 text: pdf
 ---
 
@@ -25,11 +25,11 @@ beschliesst:
 
 [^t-1]: OS 71, 120; Begründung siehe ABl 2016-02-26. Vom Fachhochschulrat genehmigt am 9. Februar 2016.
 [^t-2]: Inkrafttreten: 1. Mai 2016.
-[^t-3]: LS 414.252.3. 1. 4. 20 - 108 3
+[^t-3]: LS 414.252.3. 1. 4. 22 - 116 3
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 4. 20 - 108 3
+[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 4. 22 - 116 3
 
 #### § 1
 
@@ -60,38 +60,39 @@ An der ZHAW oder andernorts auf konsekutiver Masterebene erworbene ECTS-Credits[
 
 ### B. Zulassung zum Studium
 
-[^hBZulassungzumStu-1]: Fassung gemäss B vom 24. Oktober 2017 (OS 73, 58; ABl 2017-11-17). In Kraft seit 1. Februar 2018.
-[^hBZulassungzumStu-2]: Fassung gemäss B vom 22. August 2019 (OS 75, 51; ABl 2019-11-01). In Kraft seit 1. April 2020.
+**Voraussetzungen a. Anforderungen an den Bachelorabschluss**
 
-#### § 5
+§ 5.[^hBZulassungzumStu-1] <sup>1</sup> Bewerberinnen und Bewerber mit folgenden Abschlüssen werden zum Studium zugelassen:[^hBZulassungzumStu-2] a. Bachelorabschluss in Business Administration von 180 ECTS-Credits[^hBZulassungzumStu-3] mit mindestens guten Leistungen,
 
-**Voraussetzungen**
-
-<sup>1</sup> Bewerberinnen und Bewerber mit folgenden Abschlüssen werden zum Studium zugelassen:[^hBZulassungzumStu-1] a. Bachelorabschluss in Business Administration von 180 ECTS-Credits[^hBZulassungzumStu-2] mit mindestens guten Leistungen,
-
-- b. gleichwertiger Hochschulabschluss aus einem verwandten Studiengang von 180 ECTS-Credits[^5-1] mit mindestens guten Leistungen.
+- b. gleichwertiger Hochschulabschluss aus einem verwandten Studiengang von 180 ECTS-Credits[^hBZulassungzumStu-3] mit mindestens guten Leistungen.
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Die Studiengangleitung entscheidet über die Gleichwertigkeit der Abschlüsse gemäss Abs. 1 lit. b.
 
-<sup>3</sup> Die Bewerberinnen und Bewerber müssen ausserdem a. einen Nachweis der Englischkenntnisse auf Stufe C1 gemäss Common European Framework of Reference for Languages (CEFR) erbringen, sofern Englisch nicht ihre Muttersprache ist,
+<sup>3</sup> Bewerberinnen und Bewerber mit Abschlüssen gemäss Abs. 1, die nicht mindestens gute Leistungen aufweisen, müssen einen Zusatznachweis bestehen.
+
+<sup>4</sup> Einzelheiten zum Zusatznachweis sind im Anhang geregelt.
+
+**b. Zusätzliche Zulassungsvoraussetzungen**
+
+§ 6.[^hBZulassungzumStu-4],[^hBZulassungzumStu-5] <sup>1</sup> Die Bewerberinnen und Bewerber müssen ausserdem a. einen Nachweis der Englischkenntnisse auf Stufe C1 gemäss Common European Framework of Reference for Languages (CEFR) erbringen, sofern Englisch nicht ihre Muttersprache ist,
 
 - b. die Eignungsabklärung erfolgreich absolvieren.
 
-<sup>4</sup> Einzelheiten zur Eignungsabklärung sind im Anhang geregelt.[^5-2]
-
-§ 6.[^5-3]
+<sup>2</sup> Einzelheiten zur Eignungsabklärung sind im Anhang geregelt.
 
 **Endgültige Abweisung an einer anderen Hochschule**
 
-§ 6 a.[^5-1] Personen, die an einer anderen Hochschule in einem inhaltlich entsprechenden Masterstudiengang endgültig abgewiesen wurden, wird die Zulassung zum Studium verweigert. Die Entscheidung liegt bei der Studiengangleitung.
+§ 6 a.[^hBZulassungzumStu-3] Personen, die an einer anderen Hochschule in einem inhaltlich entsprechenden Masterstudiengang endgültig abgewiesen wurden, wird die Zulassung zum Studium verweigert. Die Entscheidung liegt bei der Studiengangleitung.
 
-[^5-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 51; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^5-2]: Eingefügt durch B vom 22. August 2019 (OS 75, 51; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^5-3]: Aufgehoben durch B vom 22. August 2019 (OS 75, 51; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hBZulassungzumStu-1]: Fassung gemäss B vom 8. Juli 2021 (OS 77, 22; ABl 2021-10-29). In Kraft seit 1. Februar 2022.
+[^hBZulassungzumStu-2]: Fassung gemäss B vom 24. Oktober 2017 (OS 73, 58; ABl 2017-11-17). In Kraft seit 1. Februar 2018.
+[^hBZulassungzumStu-3]: Fassung gemäss B vom 22. August 2019 (OS 75, 51; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hBZulassungzumStu-4]: Aufgehoben durch B vom 22. August 2019 (OS 75, 51; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hBZulassungzumStu-5]: Eingefügt durch B vom 8. Juli 2021 (OS 77, 22; ABl 2021-10-29). In Kraft seit 1. Februar 2022.
 
 ### C. Module
 
@@ -127,11 +128,11 @@ In der Modulbeschreibung kann vorgesehen werden, dass Expertinnen und Experten z
 
 <sup>2</sup> Die Studiengangleitung entscheidet über Art, Umfang, Form und Zeitpunkt der Nachbesserung oder Nachprüfung.
 
-#### § 11
-
 **Wiederholung von Modulen**
 
-Von nicht bestandenen Modulen sind nur alle nicht bestandenen Leistungsnachweise zu wiederholen.
+§ 11.[^10-1] Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen.
+
+[^10-1]: Fassung gemäss B vom 8. Juli 2021 (OS 77, 22; ABl 2021-10-29). In Kraft seit 1. Februar 2022.
 
 ### E. Studienabschluss und Masterdiplom
 
@@ -174,7 +175,7 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 22 - 116
 
 ## Weitere Fussnoten
 
