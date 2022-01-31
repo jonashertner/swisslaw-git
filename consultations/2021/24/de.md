@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Tierseuchenverordnung
 document: Vernehmlassungsvorlage
 language: de
