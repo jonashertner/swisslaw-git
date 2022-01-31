@@ -3,12 +3,12 @@ canton: FR
 number: "551.12"
 title: Verordnung über den kantonalen Rat für Prävention und Sicherheit
 language: de
-version: 2012-01-01
-valid_until: 2022-01-31
+version: 2022-02-01
+version_adopted: 2022-03-11
 adopted: 2009-05-04
 in_force: 2009-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/551.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/5262/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7331/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -17,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5262/pdf_file"
 
 Kantonaler Rat für Prävention und Sicherheit – V
 
-vom 04.05.2009 (Fassung in Kraft getreten am 01.01.2012)
+vom 04.05.2009 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -43,7 +43,7 @@ beschliesst:
 
 <sup>1</sup> Es wird ein kantonaler Rat für Prävention und Sicherheit (der Rat) eingesetzt.
 
-<sup>2</sup> Der Rat ist der Sicherheits- und Justizdirektion administrativ zugewiesen.
+<sup>2</sup> Der Rat ist der Sicherheits-, Justiz- und Sportdirektion administrativ zugewiesen.
 
 #### Art. 2
 
@@ -62,7 +62,7 @@ beschliesst:
 
 <sup>1</sup> Dem Rat gehören an:
 
-- a) die Sicherheits- und Justizdirektorin oder der Sicherheits- und Justizdirektor als Präsidentin oder Präsident;
+- a) die Sicherheits-, Justiz-, und Sportdirektorin oder der Sicherheits-, Justiz- und Sportdirektor als Präsidentin oder Präsident;
 - b) eine Oberamtsperson;
 - c) die Generalstaatsanwältin oder der Generalstaatsanwalt;
 - d) die Kommandantin oder der Kommandant der Kantonspolizei;
@@ -78,7 +78,7 @@ beschliesst:
 
 <sup>4</sup> Die Mitglieder des Rats werden vom Staatsrat ernannt. Der Rat bezeichnet seine Vizepräsidentin oder seinen Vizepräsidenten.
 
-<sup>5</sup> Das Sekretariat des Rats wird von der Sicherheits- und Justizdirektion geführt.
+<sup>5</sup> Das Sekretariat des Rats wird von der Sicherheits-, Justiz- und Sportdirektion geführt.
 
 #### Art. 4
 
