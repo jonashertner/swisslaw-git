@@ -1,537 +1,356 @@
 ---
 canton: BE
 number: "731.21"
-title: Ordonnance sur les marchés publics
-short: OCMP
+title: Ordonnance concernant l’accord intercantonal sur les marchés publics
+short: OAIMP
 language: fr
-version: 2021-05-01
-valid_until: 2022-01-31
-version_adopted: 2021-03-10
+version: 2022-02-01
+valid_until: 2022-10-31
+version_adopted: 2021-11-17
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2256/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2452/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur les marchés publics
+# Ordonnance concernant l’accord intercantonal sur les marchés publics
 
-(OCMP)
+(OAIMP)
 
-du 16.10.2002 (état au 01.05.2021)
+du 17.11.2021 (état au 01.02.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l'article 15, alinéa 1 de la loi du 11 juin 2002 sur les marchés publics (LCMP)[^ingress-1],
+vu l'article 8 de la loi du 8 juin 2021 concernant l'adhésion à l'accord intercantonal sur les marchés publics (LAIMP)[^ingress-1],
 
-sur proposition de la Direction des travaux publics, des transports et de l'énergie,
+sur proposition de la Direction des finances,
 
 arrête:
 
-[^ingress-1]: RSB 731.2
+[^ingress-1]: RSB [731.2](https://www.belex.sites.be.ch/data/731.2/fr)
 
 ## 1 Champ d'application
 
 #### Art. 1
 
-**Types de marchés**
+**Réciprocité (art. 6, al. 2 et 3 et art. 52, al. 3 AIMP)**
 
-<sup>1</sup> La présente ordonnance s'applique à tous les types de marchés publics,
+<sup>1</sup> La liste des États qui se sont engagés à donner à la Suisse un accès à leur marché est tenue par le Secrétariat d’État à l’économie (SECO).
 
-- a aux marchés de construction concernant la réalisation de travaux de construction de bâtiments ou de génie civil,
-- b aux marchés de fournitures concernant l'acquisition de biens mobiliers notamment sous la forme d'achat, de crédit-bail (leasing), de bail à loyer, de bail à ferme ou de location-vente,
-- c aux marchés de services.
+<sup>2</sup> Elle est publiée sur la plateforme internet pour les marchés publics exploitée par la Confédération et les cantons (www.simap.ch).
 
-<sup>2</sup> La procédure déterminante est fonction de la valeur du marché.
+<sup>3</sup> Le SECO répond aux questions concernant les engagements pris par un État.
 
 #### Art. 2
 
-**Interdiction de subdiviser**
+**Extension du champ d'application de l'AIMP**
 
-<sup>1</sup> La subdivision d'un marché dans l'intention délibérée de se soustraire aux seuils fixés à l’article 3 LCMP est proscrite.
+<sup>1</sup> L'accord intercantonal du 15 novembre 2019 sur les marchés publics (AIMP)[^2-1] s'applique aussi aux marchés passés avec des organismes d'insertion socioprofessionnelle.
+
+[^2-1]: RSB [731.2-1](https://www.belex.sites.be.ch/data/731.2-1/fr)
+
+## 2 Principes généraux
 
 #### Art. 3
 
-**Méthodes de calcul particulières**
+**Mesures contre les conflits d'intérêts et la corruption (art. 11, al. 1, lit. b AIMP)**
 
-<sup>1</sup> Si des marchés de fournitures ou de services répétitifs sont passés ou si un marché est subdivisé en plusieurs lots séparés de même nature, la valeur du marché est calculée
+<sup>1</sup> Les collaborateurs et collaboratrices d’un adjudicateur et les tiers mandatés par ce dernier qui participent à une procédure d'adjudication sont tenus
 
-- a selon la valeur globale effective des marchés passés au cours des douze derniers mois, ou
-- b selon la valeur globale estimée des marchés au cours de l'exercice ou dans les douze mois qui suivent le premier marché.
+- a de déclarer leurs activités accessoires, leurs autres mandats et les liens d’intérêts susceptibles de mener à un conflit d’intérêts lors de la procédure d'adjudication et
+- b de fournir une déclaration d'impartialité lorsque la valeur seuil de la procédure sur invitation est atteinte.
 
-<sup>2</sup> Si un marché contient des options sur des marchés ultérieurs, la valeur globale est déterminante.
-
-<sup>3</sup> Pour les marchés de fournitures ou de services sous la forme de crédit-bail (leasing), de location ou de location-vente, de même que pour les marchés qui ne prévoient pas expressément un prix global, la valeur du marché est,
-
-- a dans le cas de contrats de durée déterminée, la valeur globale estimée des marchés pour la durée du contrat,
-- b dans le cas de contrats de durée indéterminée, l'acompte mensuel multiplié par 48.
-
-## 2 Types de procédures
+<sup>2</sup> L’adjudicateur veille à ce que ses collaborateurs et collaboratrices qui participent à des procédures d’adjudication soient régulièrement informés de la façon dont ils peuvent éviter efficacement les conflits d’intérêts et la corruption.
 
 #### Art. 4
 
-**Procédure ouverte**
+**Service d'enregistrement des irrégularités (art. 11, al. 1, lit. b AIMP)**
 
-<sup>1</sup> Dans la procédure ouverte, tous les soumissionnaires peuvent présenter une offre sur la base d'un appel d'offres public.
+<sup>1</sup> L'adjudicateur s'assure que ses collaborateurs et collaboratrices peuvent s'adresser à un service indépendant de leur hiérarchie pour signaler des manquements aux prescriptions sur les marchés publics.
+
+<sup>2</sup> Le service d'enregistrement des irrégularités traite les signalements d'irrégularités de manière confidentielle. Ces signalements ne doivent pas porter préjudice aux collaborateurs et collaboratrices qui les ont effectués.
+
+<sup>3</sup> Les communes ou d'autres adjudicateurs communaux peuvent renoncer à créer un service d'enregistrement des irrégularités au sens de l'alinéa 1. Dans ce cas, le préfet ou la préfète assume la fonction de service d'enregistrement des irrégularités.
+
+<sup>4</sup> Le Contrôle des finances est, conformément à l'article 17a de la loi cantonale du 1<sup>er</sup> décembre 1999 sur le Contrôle des finances (LCCF)[^4-1], le service d'enregistrement des irrégularités au sens de l'alinéa 1 pour les collaborateurs et collaboratrices du canton.
+
+[^4-1]: RSB [622.1](https://www.belex.sites.be.ch/data/622.1/fr)
 
 #### Art. 5
 
-**Procédure sélective**
+**Peine conventionnelle contre les accords illicites affectant la concurrence (art. 11, al. 1, lit. b AIMP)**
 
-<sup>1</sup> Dans la procédure sélective, tous les candidats et toutes les candidates peuvent présenter une demande de participation sur la base d'un appel d'offres public.
+<sup>1</sup> L'adjudicateur prévoit dans le contrat avec l'adjudicataire que ce dernier lui soit redevable d'une peine conventionnelle si
 
-<sup>2</sup> L'adjudicateur ou adjudicatrice détermine, en fonction des critères d'aptitude de l'article 16, les candidats ou les candidates qui peuvent présenter une offre.
+- a l'adjudicataire conclut en lien avec le marché des accords illicites affectant la concurrence, la peine conventionnelle représentant dans ce cas au minimum dix pour cent du montant final de l'offre;
+- b des sous-traitants ou fournisseurs de l'adjudicataire concluent en lien avec le marché ou les prestations préalables des accords illicites affectant la concurrence, la peine conventionnelle représentant dans ce cas au minimum dix pour cent de la rémunération totale des prestations du sous-traitant ou fournisseur concerné.
 
-<sup>3</sup> Le nombre des soumissionnaires peut être limité lorsque le déroulement rationnel de la procédure d'adjudication l'exige. Ce nombre ne peut être inférieur à trois, lorsqu'il existe suffisamment de soumissionnaires adéquats.
+<sup>2</sup> La peine conventionnelle n’a pas lieu d’être dans les situations visées aux lettres a et b, et elle est réduite de moitié dans la situation visée à la lettre c si
+
+- a l'adjudicataire a prévu dans le contrat conclu avec son sous-traitant ou fournisseur une peine conventionnelle correspondante au profit de l'adjudicateur;
+- b l’entreprise fautive contribue elle-même, par sa dénonciation spontanée dans le cadre d’une enquête de droit administratif des cartels, à mettre en évidence et à éliminer la restriction de la concurrence, et que la Commission de la concurrence (COMCO) confirme, par son secrétariat d’entente avec un membre de sa présidence, que les conditions de la dénonciation spontanée sont satisfaites;
+- c l'entreprise fautive participe à la dénonciation spontanée d'une autre entreprise.
+
+<sup>3</sup> L'adjudicateur peut déroger aux alinéas 1 et 2 lorsque le risque d'accords illicites affectant la concurrence est faible.
 
 #### Art. 6
 
-**Procédure sur invitation**
+**Collecte de données pour mettre en évidence des accords affectant la concurrence (art. 11, al. 1, lit. b AIMP)**
 
-<sup>1</sup> La procédure sur invitation se déroule selon l'article 4 LCMP[^6-1].
-
-[^6-1]: RSB 731.2
+<sup>1</sup> La Commission de la concurrence ou son secrétariat peut accéder sur demande aux procès-verbaux d'ouverture des offres.
 
 #### Art. 7
 
-**Procédure de gré à gré**
+**Justificatifs (art. 12, art. 26, al. 3, art. 27, al. 3, art. 44 AIMP)**
 
-<sup>1</sup> Dans la procédure de gré à gré, l'adjudicateur ou l'adjudicatrice passe le marché directement avec un ou une soumissionnaire, sans procéder à un appel d'offres et sans rendre de décision d'adjudication.
+<sup>1</sup> Afin de vérifier si les soumissionnaires remplissent les conditions de participation, l'adjudicateur exige dans l'appel d'offres ou dans les documents d'appel d'offres les justificatifs mentionnés à l'annexe 1.
 
-<sup>2</sup> Le marché peut être passé de gré à gré quand sa valeur globale n'atteint pas le seuil prévu pour la procédure sur invitation ou un seuil communal plus bas.
+<sup>2</sup> En lieu et place de ces justificatifs, les soumissionnaires peuvent fournir
 
-<sup>3</sup> Le marché peut aussi être passé de gré à gré dans l'une des conditions suivantes:
+- a un certificat conformément à l'alinéa 4 ou
+- b des justificatifs équivalents de l'Etat étranger où leur siège est établi.
 
-- a aucune offre n'est présentée dans le cadre d'une procédure ouverte, sélective ou sur invitation, ou aucun ou aucune soumissionnaire ne répond aux critères de qualification;
-- b toutes les offres présentées dans le cadre d'une procédure ouverte, sélective ou sur invitation ont été concertées ou ne satisfont pas aux exigences essentielles de l'appel d'offres;
-- c un seul ou une seule soumissionnaire entre en considération en raison des particularités techniques ou artistiques du marché ou pour des motifs relevant du droit de la propriété intellectuelle;
-- d l'urgence du marché est telle, en raison d'événements imprévisibles, qu'il est impossible de suivre une procédure ouverte, sélective ou sur invitation;
-- e pour autant que leur valeur ne dépasse pas la moitié de celle du marché initial, des prestations supplémentaires doivent être demandées en raison d'événements imprévisibles pour exécuter ou compléter un marché adjugé sous le régime de la libre concurrence, et le fait de séparer ces prestations du marché initial entraînerait pour l'adjudicateur ou l'adjudicatrice des difficultés importantes pour des motifs techniques ou économiques;
-- f le remplacement, la complémentation ou l'extension de prestations déjà fournies doivent être adjugés aux soumissionnaires initiaux pour assurer l'interchangeabilité avec du matériel existant ou la continuité de services déjà engagés;
-- g l'adjudicateur ou l'adjudicatrice passe un nouveau marché lié à un marché de base similaire adjugé selon la procédure ouverte, sélective ou sur invitation pour autant que les documents de l'appel d'offres relatif au projet de base aient mentionné qu'il était possible de recourir à la procédure de gré à gré;
-- h l'adjudicateur ou l'adjudicatrice achète un bien nouveau (prototype) ou un service d'un nouveau genre qui a été produit ou mis au point à sa demande dans le cadre d'un marché de recherche, d'expérimentation, d'étude ou de développement original;
-- i l'adjudicateur ou l'adjudicatrice passe un contrat avec le lauréat ou la lauréate d'un concours portant sur un projet ou sur l'étude et la réalisation d'un ouvrage, concours dont l'organisation répond aux principes de la LCMP et de la présente ordonnance;
-- k l'adjudicateur ou l'adjudicatrice achète des biens sur un marché de produits de base;
-- l l'adjudicateur ou l'adjudicatrice a la possibilité d'acheter des biens à un prix nettement inférieur aux prix usuels à la faveur d'une offre avantageuse limitée dans le temps, notamment dans le cas de liquidations.
+<sup>3</sup> L'adjudicateur peut demander d'autres justificatifs compte tenu du marché concret.
 
-<sup>4</sup> L'adjudicateur ou l'adjudicatrice rédige un rapport sur chaque marché adjugé de gré à gré soumis aux traités internationaux. Ce rapport mentionne
+<sup>4</sup> Les soumissionnaires peuvent demander au Bureau central de coordination des achats (BCCA) d’établir un certificat attestant qu’ils ont fourni les justificatifs requis à l’annexe 1. Ces justificatifs doivent être remis, et le certificat doit être établi, sous forme numérique. Celui-ci est valable jusqu'à la limite de validité de l'un des justificatifs conformément à l'annexe 1.
 
-- a le nom de l'adjudicateur ou de l'adjudicatrice,
-- b la valeur et la nature de la prestation achetée,
-- c le pays d'origine de la prestation,
-- d la disposition de l'alinéa 3 selon laquelle le marché a été attribué,
-- e la date de la publication prescrite par l'article 6, alinéa 2 LCMP[^7-1].
-
-[^7-1]: RSB 731.2
-
-## 3. Langue de la procédure
+## 3 Procédure d'adjudication
 
 #### Art. 8
 
-<sup>1</sup> La procédure d'adjudication se déroule dans la langue officielle de l’arrondissement administratif concerné.
+**Dialogue (art. 24 AIMP)**
 
-<sup>2</sup> L'adjudicateur ou l'adjudicatrice détermine la langue de la procédure lorsque plusieurs arrondissements administratifs de langues différentes sont concernés, qu'il manque une référence locale déterminée ou que l’arrondissement administratif de Biel/Bienne est impliqué dans le projet.
+<sup>1</sup> L’adjudicateur choisit si possible au moins trois soumissionnaires qu’il invite à un dialogue.
 
-## 4 Appel d'offres
+<sup>2</sup> Le déroulement du dialogue, sa durée, les délais ainsi que les questions de l’indemnisation et de l’utilisation des droits de propriété intellectuelle sont réglés dans une convention. L’acceptation de la convention régissant le dialogue est une condition de participation au dialogue.
+
+<sup>3</sup> Durant le dialogue avec un soumissionnaire et après l’adjudication du marché, aucune information concernant les solutions ou les procédés proposés par les autres soumissionnaires ne peut être communiquée à ce dernier sans avoir obtenu le consentement écrit des soumissionnaires concernés.
 
 #### Art. 9
 
-**Forme et langue**
+**Questions sur les documents d'appel d'offres (art. 36 AIMP)**
 
-<sup>1</sup> Les marchés adjugés dans la procédure ouverte ou dans la procédure sélective font l’objet d’un appel d’offres sur le site Internet de l’Association pour un système d’information sur les marchés publics en Suisse ([http://www.simap.ch](http://www.simap.ch)).
+<sup>1</sup> L’adjudicateur peut fixer dans les documents d’appel d’offres la date jusqu’à laquelle il accepte de recevoir des questions.
 
-<sup>2</sup> Si l’arrondissement administratif de Biel/Bienne est concerné, l'appel d'offres est publié dans les deux langues officielles. Dans tous les autres cas, l'appel d'offre n'est publié que dans une seule de ces langues, assorti d'un résumé dans l'autre langue; le résumé doit contenir au moins les indications demandées par l'article 10, lettres a, b, c, h et i.
-
-<sup>3</sup> Dans le cas d'une procédure sur invitation ou d'une procédure de gré à gré, l'invitation à remettre une offre se fait par communication directe.
-
-<sup>4</sup> Les marchés définis dans le temps peuvent faire l'objet d'un seul appel d'offres global.
+<sup>2</sup> Il anonymise toutes les questions portant sur les documents d’appel d’offres et les met simultanément à la disposition de tous les soumissionnaires avec les réponses correspondantes dans les jours ouvrables qui suivent l’expiration du délai de remise des questions.
 
 #### Art. 10
 
-**Indications**
+**Indemnisation des soumissionnaires (art. 24, al. 3, lit. c et art. 36, al. 1, lit. h AIMP)**
 
-<sup>1</sup> L'appel d'offres ou la communication directe contient au minimum les indications suivantes:
+<sup>1</sup> Les soumissionnaires n’ont droit à aucune indemnité pour leur participation à une procédure.
 
-- a le nom et l'adresse de l'adjudicateur ou de l'adjudicatrice;
-- b le type de procédure;
-- c l'objet et l'importance du marché;
-- d le délai d'exécution ou de livraison;
-- e la langue de la procédure d'adjudication;
-- f les critères d'aptitude;
-- g les critères d'adjudication;
-- h le service où les documents d'appel d'offres peuvent être obtenus et leur prix;
-- i l'adresse et le délai pour la remise d'une offre ou le dépôt d'une demande de participation à une procédure sélective;
-- k les coordonnées d'un bureau de renseignement;
-- l les voies de droit.
+<sup>2</sup> Lorsque l’adjudicateur exige des prestations préalables qui vont au-delà de la charge de travail habituelle, il indique dans les documents d’appel d’offres si, et le cas échéant comment, les soumissionnaires sont indemnisés pour ces prestations.
 
 #### Art. 11
 
-**Documents d'appel d'offres**
+**Sous-traitants (art. 26 et 31 AIMP)**
 
-<sup>1</sup> Les documents d'appel d'offres contiennent au moins
+<sup>1</sup> Le soumissionnaire doit désigner dans son offre ses sous-traitants éventuels.
 
-- a toutes les indications figurant dans l'appel d'offres, selon l'article 10,
-- b la date prévue pour l'ouverture des offres,
-- c la durée de validité de l'offre,
-- d les exigences économiques, techniques et écologiques,
-- e les garanties et informations financières demandées,
-- f les renseignements relatifs aux variantes, aux mandats permanents, aux délais de mise en adjudication de travaux accessoires, aux offres partielles et à la formation de lots,
-- g les options pour des prestations complémentaires,
-- h les critères d'aptitude selon l'article 16,
-- i les critères d'adjudication selon l'article 30,
-- k les conditions de paiement,
-- l les éventuelles conditions générales du contrat,
-- m le formulaire de déclaration spontanée et ses pièces justificatives selon l'article 20,
-- n l'éventuelle exclusion ou les restrictions concernant des offres émanant de consortiums.
+<sup>2</sup> L'adjudicateur peut prévoir dans l'appel d'offres ou dans l'invitation
 
-<sup>2</sup> Ils mentionnent en outre que l'Office de l'économie fournit des renseignements sur les dispositions de la protection des travailleurs applicables sur le lieu d'exécution des travaux.
+- a que le soumissionnaire puisse désigner plus tard ses sous-traitants ou
+- b que pour les sous-traitants, les justificatifs prévus à l'article 7 soient fournis sous la forme du certificat au sens de l'article 7, alinéa 4.
+
+<sup>3</sup> Les alinéas 1 et 2 s'appliquent aussi aux sous-traitants des sous-traitants, ainsi qu'à tous les sous-traitants suivants.
 
 #### Art. 12
 
-**Spécifications techniques**
+**Obligations en matière de documentation (art. 37, 38, 39, al. 4 et art. 40, al. 1 AIMP)**
 
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice détaille les spécifications techniques requises dans les documents d'appel d'offres.
+<sup>1</sup> L’adjudicateur documente l’ouverture et l’évaluation des offres de manière à ce qu’elles puissent être retracées.
 
-<sup>2</sup> Les spécifications techniques sont définies dans les normes techniques utilisées en Suisse. Si de telles normes n'existent pas en Suisse, il y a lieu de s'appuyer sur les normes internationales.
+<sup>2</sup> Le procès-verbal de la rectification d’une offre contient au moins les indications suivantes:
 
-<sup>3</sup> Si un ou une soumissionnaire s'écarte de ces normes, il ou elle doit démontrer l'équivalence de ses spécifications techniques.
-
-<sup>4</sup> La définition de ces spécifications doit en principe se faire en fonction de la prestation demandée et ne doit pas avoir pour effet de favoriser, de manière ciblée, des soumissionnaires ou des prestations.
-
-<sup>5</sup> Si, exceptionnellement, la définition ne peut se faire sans référence à des produits, à des marques ou des appellations commerciales, à des brevets, à des modèles ou types déterminés, à une origine ou unité de production définie, il convient de laisser à d'autres soumissionnaires la possibilité de participer à la procédure en ajoutant la mention «ou d'un genre équivalent».
+- a le lieu,
+- b la date,
+- c les noms des participants et participantes,
+- d les parties de l'offre qui ont été rectifiées,
+- e les résultats de la rectification.
 
 #### Art. 13
 
-**Renseignements**
+**Conclusion du contrat (art. 42 AIMP)**
 
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice donne des renseignements supplémentaires sur les documents d'appel d'offres pour autant que cela ne favorise pas injustement le ou la soumissionnaire dans la suite de la procédure.
+<sup>1</sup> L’adjudicateur conclut le contrat par écrit. Il n'est pas exigé que le contrat conclu sous forme numérique porte une signature manuscrite ou électronique.
 
-<sup>2</sup> Les renseignements importants fournis à un ou à une soumissionnaire en particulier doivent simultanément être communiqués aux autres.
+<sup>2</sup> L’adjudicateur applique ses conditions générales, sauf si la nature du marché exige l’application de conditions contractuelles particulières.
+
+<sup>3</sup> S'il n'a pas de conditions générales qui lui sont propres, il applique celles du canton ([www.be.ch/cg](http://www.be.ch/cg)).
 
 #### Art. 14
 
-**Délais 1. Principes**
+**Publications (art. 48 AIMP)**
 
-<sup>1</sup> Tout délai est défini de manière à ne discriminer personne et à offrir à tous les soumissionnaires suffisamment de temps pour analyser les documents d'appel d'offres et élaborer leur offre.
-
-<sup>2</sup> L'adjudicateur ou l'adjudicatrice fixe le délai en tenant compte notamment du type et de la complexité du marché, de l'ampleur des marchés de sous-traitance ainsi que du temps usuel de traitement et de transmission de l'offre, pour autant que cela soit compatible avec ses justes besoins.
-
-<sup>3</sup> La prolongation d'un délai vaut pour tous les soumissionnaires; ils doivent en être informés à temps et simultanément.
+<sup>1</sup> L'adjudicateur publie aussi sur la plateforme internet www.simap.ch les adjudications de gré à gré de marchés dont le montant atteint le seuil déterminant pour la procédure ouverte ou sélective.
 
 #### Art. 15
 
-**2. Durée**
+**Débriefing (art. 51 AIMP)**
 
-<sup>1</sup> En règle générale, le délai pour présenter une offre ou une demande de participation à une procédure sélective ne doit pas être inférieur à 20 jours.
+<sup>1</sup> Si un soumissionnaire non retenu le demande, l’adjudicateur procède avec lui à un entretien (débriefing).
 
-<sup>2</sup> Le délai pour un marché soumis aux traités internationaux ne peut être inférieur à
-
-- a 40 jours pour la présentation d'une offre,
-- b 25 jours pour la présentation d'une demande de participation à une procédure sélective.
-
-<sup>3</sup> En cas d'urgence, les délais indiqués aux alinéas 1 et 2 peuvent être réduits à dix jours.
-
-## 5. Aptitude des soumissionnaires
+<sup>2</sup> Ce débriefing consiste en particulier à communiquer au soumissionnaire concerné les principales raisons pour lesquelles son offre a été écartée. Les règles de confidentialité définies à l’article 51, alinéa 4 AIMP doivent être observées.
 
 #### Art. 16
 
-**Critères d'aptitude**
+**Formation**
 
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice consigne les critères d'aptitude dans les documents d'appel d'offres. Leur pondération doit être indiquée ainsi que d'éventuels sous-critères.
+<sup>1</sup> Les adjudicateurs qui réalisent régulièrement des procédures d'adjudication ouvertes ou sélectives s'assurent que les personnes ou organisations qui en sont responsables disposent au minimum des compétences suivantes:
 
-<sup>2</sup> L'aptitude d'un ou d'une soumissionnaire peut se mesurer entre autres à sa capacité à remplir son contrat sur les plans professionnel, technique, organisationnel ou économique. Des prestations particulières en matière de formation professionnelle ou de promotion de l'égalité entre hommes et femmes peuvent être prises en compte. Les critères d'aptitude doivent être spécifiques au marché concerné et, si nécessaire, précisés.
+- a elles connaissent les principes, les procédures, les valeurs seuils ainsi que les règles de conduite et de protection juridique du droit des marchés publics;
+- b elles sont en mesure de déterminer la procédure d'adjudication appropriée, de la planifier et de la réaliser dans son intégralité;
+- c elles savent lorsque c'est nécessaire de réaliser une analyse de marché;
+- d elles sont capables d'identifier et de documenter les exigences;
+- e elles peuvent définir sur ces bases des critères appropriés de qualité, de prix et de durabilité;
+- f elles sont en mesure, conformément à ces critères et exigences et en se fondant sur des modèles, d'élaborer un dossier d'appel d'offres de qualité adéquate et de rédiger un contrat;
+- g elles sont capables d'évaluer les offres et de justifier de manière compréhensible la décision d'adjudication.
 
-<sup>3</sup> L'adjudicateur ou l'adjudicatrice peut exiger des soumissionnaires des justificatifs lui permettant d'apprécier si les critères d'aptitude sont remplis.
+<sup>2</sup> Les adjudicateurs peuvent présumer que les personnes suivantes disposent des compétences prévues à l'alinéa 1:
 
-<sup>4</sup> Si la prestation est exécutée à l’étranger, les soumissionnaires doivent garantir le respect des conventions fondamentales de l’Organisation internationale du travail.
+- a titulaires du brevet fédéral de Spécialiste des marchés publics,
+- b titulaires d'une autre formation dans le domaine des marchés publics conférant les compétences énoncées à l'alinéa 1,
+- c personnes disposant d'une expérience suffisante comme responsable de la réalisation de procédures d'adjudication ouvertes ou sélectives.
+
+## 4 Langues
 
 #### Art. 17
 
-**Listes permanentes de soumissionnaires qualifiés**
+**Langue de la procédure**
 
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice n'est pas autorisée à établir des listes permanentes de soumissionnaires qualifiés[^17-1].
+<sup>1</sup> La procédure d'adjudication se déroule dans la langue officielle de l’arrondissement administratif concerné.
 
-[^17-1]: Article 13, lettre e AIMP; article VIII, lettres d à f de l'accord du 15 avril 1994 du GATT/OMC sur les marchés publics (RS 0.632.231.422)
+<sup>2</sup> L'adjudicateur détermine la langue de la procédure
 
-## 6 Dépôt et examen des offres
+- a lorsque plusieurs arrondissements administratifs de langues différentes sont concernés;
+- b lorsqu'une référence locale déterminée fait défaut ou
+- c lorsque l’arrondissement administratif de Biel/Bienne est impliqué dans le projet.
 
 #### Art. 18
 
-**Forme**
+**Langue de l'invitation ou de l'appel d'offres**
 
-<sup>1</sup> Une offre ou une demande de participation à une procédure sélective doit être présentée par écrit dans le délai imparti (art. 10, lit. i).
+<sup>1</sup> L'invitation ou l'appel d'offres est rédigé dans la langue de la procédure.
 
-<sup>2</sup> Elle doit être signée par une personne habilitée.
+<sup>2</sup> Si l'arrondissement administratif de Biel/Bienne est concerné, l'invitation ou l'appel d'offres est rédigé dans les deux langues officielles.
 
-<sup>3</sup> Pour le respect du délai, les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^18-1] sont applicables.
-
-<sup>4</sup> Sauf disposition contraire dans les documents d’appel d’offres, les soumissionnaires doivent présenter leur offre en francs suisses.
-
-[^18-1]: RSB 155.21
+<sup>3</sup> Dans une procédure ouverte ou sélective, l'adjudicateur joint à l'appel d'offres un résumé dans l'autre langue officielle qui contient au minimum les indications prévues à l'article 48, alinéa 4 AIMP.
 
 #### Art. 19
 
-**Modification d'une offre**
+**Langue de l'offre**
 
-<sup>1</sup> Sous réserve de l'article 25, alinéa 2, l'offre ne peut plus être modifiée après avoir été présentée.
+<sup>1</sup> L'offre ou la demande de participation à une procédure sélective doit être rédigée dans la langue de la procédure.
+
+<sup>2</sup> Les annexes peuvent être fournies en allemand, en français ou en anglais. Les justificatifs peuvent être remis en allemand, en français, en italien ou en anglais.
+
+<sup>3</sup> L'invitation ou l'appel d'offres peut prévoir une réglementation différente pour la langue de l'offre ou des annexes.
+
+## 5 Surveillance et exécution
 
 #### Art. 20
 
-**Justificatifs**
+**Surveillance (art. 62, al. 1 AIMP)**
 
-<sup>1</sup> L'offre ou la demande de participation à une procédure sélective doit être étayée par des pièces prouvant que le ou la soumissionnaire respecte ses obligations envers les pouvoirs publics, les assurances sociales et son personnel (déclaration spontanée et autres pièces justificatives).
+<sup>1</sup> Les organes de contrôle internes des adjudicateurs surveillent le respect de la législation sur les marchés publics.
 
-<sup>2</sup> Les soumissionnaires peuvent demander à l'Office d'informatique et d'organisation (OIO) d’établir un certificat attestant qu’ils ou elles ont fourni les pièces justificatives les plus courantes au sens de l’alinéa 1. Ce certificat remplace ces dernières.
+<sup>2</sup> La surveillance est exercée par
 
-<sup>3</sup> Les pièces justificatives ne doivent pas avoir été établies depuis plus d’un an. La validité du certificat expire une année après la remise de la plus ancienne des pièces justificatives.
+- a les Directions et la Chancellerie d'Etat pour les marchés passés par des services qui leur sont subordonnés,
+- b le Conseil-exécutif pour les marchés des Directions et de la Chancellerie d'Etat,
+- c la Direction de la magistrature pour les marchés des autorités judiciaires et du Ministère public,
+- d le Conseil-exécutif, à la demande de la Direction compétente pour le domaine d'activité concerné ou de la Chancellerie d'Etat, pour les marchés des autres organisations chargées de tâches publiques (art. 95, al. 3 de la Constitution cantonale[^20-1]),
+- e les préfets et préfètes pour les marchés des communes (art. 87 de la loi du 16 mars 1998 sur les communes [LCo][^20-2]),
+- f les communes pour les marchés des organisations chargées de tâches communales (art. 65, al. 2 et art. 69, al. 1 LCo).
+
+<sup>3</sup> Les autorités cantonales qui concluent des conventions de prestations avec des organisations chargées de tâches publiques y règlent aussi le respect du droit sur les marchés publics par les prestataires de services, notamment
+
+- a l'obligation de réaliser des procédures d'adjudication publiques pour des marchés dans le domaine de la convention de prestations,
+- b le compte rendu du respect de cette obligation.
+
+[^20-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
+[^20-2]: RSB [170.11](https://www.belex.sites.be.ch/data/170.11/fr)
 
 #### Art. 21
 
-**Langue**
+**Exécution**
 
-<sup>1</sup> L'offre ou la demande de participation à une procédure sélective doit être rédigée dans la langue de la procédure d'adjudication.
+<sup>1</sup> Les organes prévus dans l'ordonnance du 5 novembre 2014 sur l'organisation des marchés publics (OOMP)[^21-1] et les adjudicateurs exécutent la législation sur les marchés publics.
+
+[^21-1]: RSB [731.22](https://www.belex.sites.be.ch/data/731.22/fr)
+
+## 6 Dispositions transitoires et dispositions finales
 
 #### Art. 22
 
-**Frais**
+**Création du service d'enregistrement des irrégularités au sens de l'article 4**
 
-<sup>1</sup> L'élaboration de l'offre ou de la demande de participation à une procédure sélective ne donne en principe droit à aucune indemnité.
+<sup>1</sup> Les adjudicateurs cantonaux créent le service d'enregistrement des irrégularités prévu à l'article 4 dans un délai d'une année après l'entrée en vigueur de la présente ordonnance.
 
 #### Art. 23
 
-**Ouverture des offres**
+**Modification d'actes législatifs**
 
-<sup>1</sup> Les offres reçues dans le cadre d’une procédure ouverte, d’une procédure sélective ou d’une procédure sur invitation doivent rester sous pli fermé jusqu’à la date prévue pour leur ouverture.
+<sup>1</sup> Les actes législatifs suivants sont modifiés:
 
-<sup>2</sup> Les offres parvenues dans les délais sont ouvertes par deux représentants ou représentantes de l'adjudicateur ou de l'adjudicatrice au minimum.
+- a ordonnance du 22 février 1995 fixant les émoluments de l'administration cantonale (ordonnance sur les émoluments; OEmo)[^23-1],
+- b ordonnance du 5 novembre 2014 sur l'organisation des marchés publics (OOMP)[^23-2],
+- c ordonnance du 10 septembre 1997 sur l'offre de transports publics (OOT)[^23-3].
 
-<sup>3</sup> Un procès-verbal d'ouverture des offres est établi qui contient au moins les renseignements suivants:
-
-- a le nom des personnes présentes,
-- b le nom des soumissionnaires,
-- c les dates de réception,
-- d le prix des offres, le cas échéant des variantes ou des offres partielles.
-
-<sup>4</sup> Les soumissionnaires peuvent, sur demande, consulter le procès-verbal d’ouverture anonymisé.
+[^23-1]: RSB [154.21](https://www.belex.sites.be.ch/data/154.21/fr)
+[^23-2]: RSB [731.22](https://www.belex.sites.be.ch/data/731.22/fr)
+[^23-3]: RSB [762.412](https://www.belex.sites.be.ch/data/762.412/fr)
 
 #### Art. 24
 
-**Motifs d'exclusion**
+**Abrogation d'un acte législatif**
 
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice exclut de la procédure un ou une soumissionnaire qui
+<sup>1</sup> L'ordonnance du 16 octobre 2002 sur les marchés publics (OCMP)[^24-1] est abrogée.
 
-- a a participé à la préparation des documents ou de la procédure d'adjudication de telle sorte qu'il ou elle a pu manipuler l'adjudication à son avantage;
-- b a présenté une offre qui ne correspond pas à l'appel d'offres ou aux documents y relatifs, ou ne remplit pas les exigences essentielles de forme;
-- c ne satisfait pas aux critères d'aptitude fixés;
-- d a fourni de faux renseignements à l'adjudicateur ou à l'adjudicatrice;
-- e n'a pas payé ses impôts ou ses cotisations sociales;
-- f offre à son personnel des conditions de travail qui, sur le plan des salaires, des prestations sociales et de l'égalité salariale entre hommes et femmes ne correspondent pas à la législation et à la convention collective de la branche;
-- g conclu des ententes qui empêchent ou entravent considérablement une véritable concurrence;
-- h ne peut garantir, lors de la production, le respect des prescriptions fédérales et cantonales de la législation sur la protection de l'environnement;
-- i est en faillite;
-- k n'a pas rempli la formule de déclaration spontanée d'une manière conforme à la vérité;
-- l n'offre pas la garantie d'une exécution correcte du contrat.
-
-<sup>2</sup> L'offre ne remplit pas les exigences essentielles de forme notamment si elle n'a pas été déposée dans le délai imparti, si elle est incomplète ou si elle ne contient pas la formule de déclaration spontanée accompagnée de toutes les pièces justificatives.
-
-<sup>3</sup> En l'absence d'une convention collective au sens de l'alinéa 1, lettre f , les prescriptions usuelles dans la région et dans la profession sont applicables.
-
-<sup>4</sup> Une société qui reprend une entreprise en faillite peut être exclue de la procédure si elle est contrôlée sur le plan économique par les mêmes personnes.
+[^24-1]: RSB [731.21](https://www.belex.sites.be.ch/data/731.21/fr)
 
 #### Art. 25
 
-**Examen des offres**
-
-<sup>1</sup> Les offres sont examinées sur le plan technique et arithmétique d'après des critères uniformes. Des tiers peuvent être appelés comme experts.
-
-<sup>2</sup> Les erreurs évidentes de calcul et d'écriture peuvent être corrigées.
-
-<sup>3</sup> Un tableau comparatif des offres est établi à la fin de leur examen.
-
-#### Art. 26
-
-**Explications**
-
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice peut demander aux soumissionnaires des explications relatives à leur aptitude ou à leur offre.
-
-<sup>2</sup> Les explications orales sont transcrites par l'adjudicateur ou l'adjudicatrice.
-
-#### Art. 27
-
-**Interdiction de négocier**
-
-<sup>1</sup> Les négociations entre l'adjudicateur ou l'adjudicatrice et les soumissionnaires sur les prix, des remises de prix ou des modifications de prestations sont interdites.
-
-<sup>2</sup> Les négociations sont autorisées dans la procédure de gré à gré.
-
-#### Art. 28
-
-**Offres anormalement basses**
-
-<sup>1</sup> Si un adjudicateur ou une adjudicatrice reçoit une offre anormalement plus basse que les autres, il ou elle peut demander de plus amples renseignements au ou à la soumissionnaire sur le respect des conditions de participation ou des conditions du marché.
-
-#### Art. 29
-
-**Interruption de la procédure**
-
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice peut interrompre la procédure pour de justes motifs.
-
-<sup>2</sup> Sont considérés comme justes motifs notamment les cas suivants:
-
-- a aucune offre satisfaisant aux exigences techniques ou aux critères définis dans les documents d'appel d'offres ou dans l'appel d'offres n'a été reçue;
-- b des offres plus avantageuses sont attendues en raison de modifications des conditions-cadres ou marginales;
-- c une modification importante du projet a été nécessaire;
-- d les offres déposées ne permettent pas de garantir une concurrence efficace.
-
-<sup>3</sup> La procédure interrompue peut être répétée.
-
-## 7 Adjudication du marché
-
-#### Art. 30
-
-**Critères d'adjudication**
-
-<sup>1</sup> Le marché est adjugé au ou à la soumissionnaire ayant présenté l'offre la plus avantageuse, c'est-à-dire celle qui remplit le mieux les critères d'adjudication.
-
-<sup>2</sup> Les critères d'adjudication sont consignés dans les documents d'appel d'offres, accompagnés de leur pondération et d’éventuels sous-critères. Si le prix est considéré comme un critère déterminant, la manière dont il est évalué doit être explicitée.
-
-<sup>3</sup> Les critères suivants peuvent en particulier être pris en considération: la qualité, le prix, les délais, l'écologie, la rentabilité, les coûts d'exploitation, le service après-vente, la pertinence de la prestation, la valeur technique, l'esthétique, la créativité, l'infrastructure. Les critères d'aptitude doivent être spécifiques au marché concerné et, si nécessaire, précisés.
-
-#### Art. 31
-
-**Subdivision du marché**
-
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice ne peut partager le marché et l'attribuer à plusieurs soumissionnaires que si cette possibilité a été signalée dans les documents d'appel d'offres ou si les soumissionnaires impliqués ont donné leur accord avant l'adjudication.
-
-## 8 Conclusion du contrat
-
-#### Art. 32
-
-<sup>1</sup> Une fois le délai de recours passé, le contrat peut être conclu avec l'adjudicataire
-
-- a si le délai pour faire recours n'a pas été utilisé;
-- b dans le cas d'un recours, si l'effet suspensif n'a pas été demandé;
-- c dans le cas d'un recours avec demande d'effet suspensif, dès qu'il est établi que ce dernier n'est pas accordé.
-
-<sup>2</sup> Si une procédure de recours sans effet suspensif est pendante, l'adjudicateur ou l'adjudicatrice informe immédiatement l'autorité de recours de la conclusion du contrat.
-
-## 9 Protection juridique
-
-#### Art. 33
-
-**Effet suspensif**
-
-<sup>1</sup> L’autorité chargée de l’instruction du recours peut, d'office ou sur demande, accorder l'effet suspensif à un recours, pour autant que celui-ci paraisse suffisamment fondé et qu'aucun intérêt prépondérant ne s'y oppose.
-
-<sup>2</sup> Si l'effet suspensif est ordonné sur demande du recourant ou de la recourante et s'il est de nature à causer un préjudice important, le recourant ou la recourante peut être astreinte à fournir, dans un délai convenable, des sûretés pour les frais de procédure et pour une éventuelle indemnité de dépens. A défaut du versement des sûretés dans le délai fixé par le juge, la décision ordonnant l'effet suspensif devient caduque.
-
-<sup>3</sup> Le recourant ou la recourante est tenue de réparer le préjudice causé par l'effet suspensif s'il ou elle a agi par dol ou par négligence grave.
-
-#### Art. 34
-
-**Décision sur recours**
-
-<sup>1</sup> Si le contrat n'est pas encore conclu, l'autorité de recours peut, soit statuer au fond, soit renvoyer la cause à l'adjudicateur ou à l'adjudicatrice dont elle annule la décision, au besoin avec des instructions impératives.
-
-<sup>2</sup> Si le contrat est déjà conclu et que le recours est jugé fondé, l'autorité de recours constate le caractère illicite de la décision.
-
-## 10 Surveillance
-
-#### Art. 35
-
-**Surveillance des adjudicataires**
-
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice contrôle l'observation des dispositions relatives à l'adjudication.
-
-<sup>2</sup> Il ou elle peut en outre exiger que les adjudicataires fournissent ultérieurement les renseignements au sens de l'article 9 LCMP[^35-1] qui leur étaient inconnus au moment de la remise de l'offre.
-
-<sup>3</sup> L'autorité de surveillance des adjudicateurs ou adjudicatrices est la Direction compétente pour le domaine concerné.
-
-[^35-1]: RSB 731.2
-
-#### Art. 36
-
-**Publication de l'adjudication**
-
-<sup>1</sup> Lorsqu’il s’agit d’un marché soumis aux traités internationaux, l’adjudicateur ou l’adjudicatrice publie la décision d’adjudication sur le site Internet de l’Association pour un système d’information sur les marchés publics en Suisse ([http://www.simap.ch](http://www.simap.ch)) au plus tard 72 jours après la date d’entrée en force de la décision.
-
-<sup>2</sup> La publication contient les indications suivantes:
-
-- a le nom et l'adresse de l'adjudicateur ou de l'adjudicatrice,
-- b le type de procédure utilisée,
-- c l'objet et l'importance du marché,
-- d la date de l'adjudication,
-- e le nom et l'adresse de l'adjudicataire,
-- f le prix de l'offre retenue.
-
-#### Art. 37
-
-**Statistiques**
-
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice attribuant des marchés soumis aux traités internationaux tient une statistique annuelle des marchés concernés[^37-1] et la communique à l'OIO, qui la transmet à la Confédération.
-
-[^37-1]: Article XIX, chiffre 5 de l'accord du GATT/OMC sur les marchés publics
-
-#### Art. 38
-
-**Archivage**
-
-<sup>1</sup> Sauf dispositions contraires, les dossiers relatifs aux marchés publics doivent être conservés au minimum trois ans après la fin de la procédure.
-
-<sup>2</sup> Les dossiers comprennent
-
-- a l'appel d'offres,
-- b les documents d'appel d'offres,
-- c le procès-verbal d'ouverture,
-- d la correspondance relative à la procédure,
-- e les décisions rendues dans le cadre de la procédure,
-- f l'offre retenue,
-- g les rapports selon l'article 7, alinéa 4.
-
-## 11
-
-#### Art. 39–43
-
-**…**
-
-## 12 Dispositions transitoires et dispositions finales
-
-#### Art. 44
-
-**Procédures pendantes**
-
-<sup>1</sup> Les procédures d'adjudication pendantes à l'entrée en vigueur de la présente ordonnance sont menées à terme selon l'ancien droit.
-
-#### Art. 45
-
-**Publication sur Internet**
-
-<sup>1</sup> L'obligation de publier les appels d'offres et les adjudications sur le site Internet de l'Association pour un système d'information sur les marchés publics en Suisse, conformément aux articles 9, alinéa 1 et 36, alinéa 1, entre en vigueur
-
-- a le 1<sup>er</sup> janvier 2004 pour les organismes énumérés à l'article 2, alinéa 1, lettre a LCMP[^45-1].
-- b le 1<sup>er</sup> janvier 2005 pour tous les autres organismes énumérés à l'article 2, alinéa 1, lettres b à d LCMP.
-
-[^45-1]: RSB 731.2
-
-#### Art. 46
-
-**Abrogation d'un acte législatif**
-
-<sup>1</sup> L'ordonnance du 29 avril 1998 sur les soumissions (RSB 731.21) est abrogée.
-
-#### Art. 47
-
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2003, conjointement avec la loi du 11 juin 2002 sur les marchés publics.
+<sup>1</sup> La présente ordonnance entre en vigueur en même temps que la loi du 8 juin 2021 concernant l’adhésion à l’accord intercantonal sur les marchés publics (LAIMP)[^25-1].
 
-Berne, le 16 octobre 2002
+[^25-1]: RSB [731.2](https://www.belex.sites.be.ch/data/731.2/fr); 1<sup>er</sup> février 2022
+
+## A1 Annexe 1 à l'article 7, alinéas 1 et 4
+
+#### Art. A1-1
+
+**Justificatifs**
+
+<sup>1</sup>
+
+<table>
+<tr><th>N°</th><th>Objet du justificatif</th><th>Soumissionnaires tenus de fournir le justificatif</th><th>Contenu du justificatif</th><th>Forme du justificatif</th><th>Ancienneté maximale du justificatif</th></tr>
+<tr><td>1</td><td>Dispositions relatives à la protection des travailleurs et conditions de travail</td><td>a. Soumissionnaires assujettis à des conventions collectives de travail ou des contrats types de travail (CCT/CTT) qui sont rattachés au système d’information Alliance construction (SIAC).</td><td>Résultat de l’attestation: «Aucune information sur des manquements actuels à la CCT» ou «La conformité à la CCT a été prouvée».</td><td>Attestation CCT du SIAB</td><td>Date de l'offre</td></tr>
+<tr><td></td><td></td><td>b. Soumissionnaires assujettis à d’autres CCT/CTT</td><td>Pas d’infraction connue à la CCT/au CCT constatée, ou seulement des infractions mineures</td><td>Attestations des commissions paritaires professionnelles compétentes</td><td>1 an</td></tr>
+<tr><td></td><td></td><td>c. Soumissionnaires non assujettis à un/e CTT/CCT</td><td>Respect des dispositions relatives à la protection des travailleurs et des conditions de travail déterminantes dans le pays</td><td>Déclaration spontanée sur le formulaire du BCCA</td><td>Date de l'offre</td></tr>
+<tr><td>2</td><td>Cotisations aux assurances sociales</td><td>Tous les soumissionnaires</td><td>Pas d’impayé de cotisations aux assurances sociales, y compris la part des salariés déduite du salaire</td><td>Attestations: 1. de la caisse de compensation AVS (cotisations AVS, AI, APG, AC) et 2. de la caisse de pension (cotisations LPP des salariés)</td><td>1 an</td></tr>
+<tr><td>3</td><td>Assujettissement à l’impôt (y compris la taxe sur la valeur ajoutée)</td><td>Tous les soumissionnaires</td><td>Pas de créances fiscales échues de la Confédération, des cantons ou des communes</td><td>Attestations: 1. des autorités fiscales du siège social de l’entreprise et 2. des autorités fédérales compétentes pour la TVA</td><td>1 an</td></tr>
+<tr><td>4</td><td>Stabilité financière</td><td>Tous les soumissionnaires</td><td>Pas de procédure de saisie ou de faillite en cours ; pas d’actes de défaut de biens non encore prescrits</td><td>Extrait du registre des poursuites</td><td>1 an</td></tr>
+<tr><td>5</td><td>Travail au noir</td><td>Tous les soumissionnaires</td><td>Respect des obligations en matière d’annonce et d’autorisation prévues dans la loi fédérale du 17 juin 2005 sur le travail au noir (LTN)[^A11-1]</td><td>1. Déclaration spontanée sur le formulaire du BCCA, 2. Le soumissionnaire ne figure pas sur la liste du Secrétariat d’Etat à l’économie (www.seco.admin.ch) des employeurs faisant l’objet d’une décision entrée en force d’exclusion des marchés publics selon l’article 13 LTN.</td><td>Date de l'offre</td></tr>
+<tr><td>6</td><td>Egalité salariale entre femmes et hommes</td><td>a. Employeurs ayant l’obligation d’effectuer une analyse de l’égalité des salaires en vertu des articles 13a et 13b de la loi fédérale du 24 mars 1995 sur l’égalité entre femmes et hommes (loi sur l’égalité, LEg)[^A11-2]</td><td>L'égalité salariale est garantie. Pour une analyse de l'égalité salariale avec la méthode "Logib", la différence de salaire inexpliquée ne peut dépasser 5%.</td><td>1. Analyse de l’égalité des salaires conformément aux articles 13a ss LEg et 2. Justificatif de vérification de l’analyse si cette vérification est nécessaire en vertu de l’article 13d LEg ou 3. Attestation de contrôle d’un organe de l’Etat conformément à l’article 13b LEg.</td><td>Conformément à l'article 13a, alinéas 2 et 3 LEg ou à l'article 13b, lettre c LEg</td></tr>
+<tr><td></td><td></td><td>b. Autres soumissionnaires</td><td>L'égalité salariale est garantie.</td><td>Déclaration spontanée sur le formulaire du BCCA</td><td>Date de l'offre</td></tr>
+<tr><td>7</td><td>Autres conditions de participation ou obligations des soumissionnaires prévues par la loi</td><td>Tous les soumissionnaires</td><td>Selon le formulaire de déclaration spontanée du BCCA</td><td>Déclaration spontanée sur le formulaire du BCCA</td><td>Date de l'offre</td></tr>
+</table>
+
+[^A11-1]: RS [822.41](https://db.clex.ch/link/Bund/822.41/fr)
+[^A11-2]: RS [151.1](https://db.clex.ch/link/Bund/151.1/fr)
+
+Berne, le 17 novembre 2021
 
 Au nom du Conseil-exécutif,
 
-la présidente: Zölch
+la présidente: Simon
 
-le chancelier: Nuspliger
+le chancelier: Auer
 
-02-72
+21-111

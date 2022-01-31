@@ -1,540 +1,356 @@
 ---
 canton: BE
 number: "731.21"
-title: Verordnung über das öffentliche Beschaffungswesen
-short: ÖBV
+title: Verordnung zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
+short: IVöBV
 language: de
-version: 2021-05-01
-valid_until: 2022-01-31
-version_adopted: 2021-03-10
+version: 2022-02-01
+valid_until: 2022-10-31
+version_adopted: 2021-11-17
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2256/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2452/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über das öffentliche Beschaffungswesen
+# Verordnung zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
 
-(ÖBV)
+(IVöBV)
 
-vom 16.10.2002 (Stand 01.05.2021)
+vom 17.11.2021 (Stand 01.02.2022)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 15 Absatz 1 des Gesetzes vom 11. Juni 2002 über das öffentliche Beschaffungswesen (ÖBG[^ingress-1]),
+gestützt auf Artikel 8 des Gesetzes vom 8. Juni 2021 über den Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöBG)[^ingress-1],
 
-auf Antrag der Bau-, Verkehrs- und Energiedirektion,
+auf Antrag der Finanzdirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 731.2
+[^ingress-1]: BSG [731.2](https://www.belex.sites.be.ch/data/731.2/de)
 
-## 1 Anwendungsbereich
+## 1 Geltungsbereich
 
 #### Art. 1
 
-**Auftragsarten**
+**Gegenrecht (Art. 6 Abs. 2 und 3 sowie Art. 52 Abs. 3 IVöB)**
 
-<sup>1</sup> Dem öffentlichen Beschaffungswesen unterliegen alle Arten von öffentlichen Aufträgen, insbesondere
+<sup>1</sup> Die Liste der Staaten, die sich gegenüber der Schweiz zur Gewährung des Marktzutritts verpflichtet haben, wird vom Staatssekretariat für Wirtschaft (SECO) geführt.
 
-- a Bauaufträge über die Durchführung von Hoch- und Tiefbauarbeiten,
-- b Lieferaufträge über die Beschaffung beweglicher Güter, namentlich durch Kauf, Leasing, Miete, Pacht oder Mietkauf,
-- c Dienstleistungsaufträge.
+<sup>2</sup> Sie wird auf der vom Bund und den Kantonen betriebenen Internetplattform für das öffentliche Beschaffungswesen (www.simap.ch) veröffentlicht.
 
-<sup>2</sup> Das anzuwendende Verfahren wird nach dem Wert des einzelnen Auftrags festgelegt.
+<sup>3</sup> Das SECO beantwortet Anfragen zu den eingegangenen Verpflichtungen.
 
 #### Art. 2
 
-**Aufteilungsverbot**
+**Erweiterung des Geltungsbereichs der IVöB**
 
-<sup>1</sup> Ein Auftrag darf nicht in der Absicht aufgeteilt werden, die Schwellenwerte nach Artikel 3 ÖBG[^2-1] zu unterschreiten.
+<sup>1</sup> Die Interkantonale Vereinbarung vom 15. November 2019 über das öffentliche Beschaffungswesen (IVöB)[^2-1] findet auch Anwendung auf Aufträge an Organisationen der Arbeitsintegration.
 
-[^2-1]: BSG 731.2
+[^2-1]: BSG [731.2-1](https://www.belex.sites.be.ch/data/731.2-1/de)
+
+## 2 Allgemeine Grundsätze
 
 #### Art. 3
 
-**Besondere Berechnungsmethoden**
+**Massnahmen gegen Interessenkonflikte und Korruption (Art. 11 Abs. 1 Bst. b IVöB)**
 
-<sup>1</sup> Werden wiederkehrende Liefer- oder Dienstleistungsaufträge vergeben oder wird ein Liefer- oder Dienstleistungsauftrag in mehrere gleichartige Einzelaufträge (Lose) unterteilt, berechnet sich der Auftragswert
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter eines Auftraggebers sowie von ihm beauftragte Dritte, die an Vergabeverfahren mitwirken, sind verpflichtet,
 
-- a entweder nach dem tatsächlichen Gesamtwert der Aufträge, die während der letzten zwölf Monate vergeben worden sind,
-- b oder nach dem geschätzten Gesamtwert der Aufträge im Geschäftsjahr oder in den zwölf Monaten, die dem Erstauftrag folgen.
+- a Nebenbeschäftigungen und Auftragsverhältnisse sowie Interessenbindungen, die zu einem Interessenkonflikt beim Vergabeverfahren führen können, offenzulegen und
+- b eine Erklärung ihrer Unbefangenheit abzugeben, wenn der Schwellenwert des Einladungsverfahrens erreicht ist.
 
-<sup>2</sup> Enthält ein Auftrag die Option auf Folgeaufträge, so ist der Gesamtwert massgebend.
-
-<sup>3</sup> Der Auftragswert für Liefer- oder Dienstleistungsaufträge in der Form von Leasing, Miete oder Mietkauf sowie für Aufträge, die nicht ausdrücklich einen Gesamtpreis vorsehen, wird wie folgt berechnet:
-
-- a Bei Verträgen mit bestimmter Laufzeit wird der geschätzte Gesamtwert der Aufträge während der Laufzeit des Vertrags ermittelt.
-- b Bei Verträgen mit unbestimmter Laufzeit wird die monatliche Rate mit 48 multipliziert.
-
-## 2 Verfahrensarten
+<sup>2</sup> Der Auftraggeber weist seine Mitarbeiterinnen und Mitarbeiter, die an Vergabeverfahren mitwirken, regelmässig darauf hin, wie sie Interessenkonflikte und Korruption wirksam vermeiden.
 
 #### Art. 4
 
-**Offenes Verfahren**
+**Meldestelle für Missstände (Art. 11 Abs. 1 Bst. b IVöB)**
 
-<sup>1</sup> Im offenen Verfahren können alle Anbieterinnen oder Anbieter auf Grund einer öffentlichen Ausschreibung ein Angebot einreichen.
+<sup>1</sup> Der Auftraggeber stellt sicher, dass sich seine Mitarbeiterinnen und Mitarbeiter an eine von ihren Vorgesetzten unabhängige Meldestelle wenden können, um Verstösse gegen Vorschriften des öffentlichen Beschaffungswesens zu melden.
+
+<sup>2</sup> Die Meldestelle behandelt solche Meldungen vertraulich. Den Mitarbeiterinnen und Mitarbeitern dürfen wegen ihrer Meldungen keine Nachteile entstehen.
+
+<sup>3</sup> Gemeinden und andere kommunale Auftraggeber können darauf verzichten, eine Meldestelle gemäss Absatz 1 einzurichten. In diesem Fall ist die Regierungsstatthalterin oder der Regierungsstatthalter die Meldestelle.
+
+<sup>4</sup> Die Finanzkontrolle ist nach Massgabe von Artikel 17a des Gesetzes vom 1. Dezember 1999 über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, KFKG)[^4-1] die Meldestelle gemäss Absatz 1 für Mitarbeiterinnen und Mitarbeiter des Kantons.
+
+[^4-1]: BSG [622.1](https://www.belex.sites.be.ch/data/622.1/de)
 
 #### Art. 5
 
-**Selektives Verfahren**
+**Konventionalstrafe gegen unzulässige Wettbewerbsabreden (Art. 11 Abs. 1 Bst. b IVöB)**
 
-<sup>1</sup> Im selektiven Verfahren können alle Anbieterinnen oder Anbieter auf Grund einer öffentlichen Ausschreibung einen Antrag auf Teilnahme einreichen.
+<sup>1</sup> Der Auftraggeber sieht im Vertrag mit dem Auftragnehmer vor, dass dieser ihm eine Konventionalstrafe schuldet, wenn
 
-<sup>2</sup> Die Auftraggeberinnen oder Auftraggeber bestimmen anhand der Eignungskriterien nach Artikel 16 die Anbieterinnen oder Anbieter, die ein Angebot einreichen dürfen.
+- a der Auftragnehmer im Zusammenhang mit dem Auftrag unzulässige Wettbewerbsabreden trifft, wobei die Konventionalstrafe mindestens zehn Prozent der bereinigten Angebotssumme beträgt,
+- b Subunternehmer oder Lieferanten des Auftragnehmers im Zusammenhang mit dem Auftrag oder dessen Vorleistungen unzulässige Wettbewerbsabreden treffen, wobei die Konventionalstrafe mindestens zehn Prozent der Gesamtvergütung für die Leistung des Subunternehmers oder Lieferanten beträgt.
 
-<sup>3</sup> Die Zahl der Anbieterinnen oder Anbieter kann beschränkt werden, wenn es die rationelle Durchführung des Vergabeverfahrens erfordert. Sie darf, wenn es genügend geeignete Anbieterinnen oder Anbieter gibt, nicht kleiner als drei sein.
+<sup>2</sup> Die Konventionalstrafe entfällt in den Buchstaben a und b ganz sowie in Buchstabe c zur Hälfte, wenn
+
+- a der Auftragnehmer im Vertrag mit dem Subunternehmer oder Lieferanten eine entsprechende Konventionalstrafe zugunsten des Auftraggebers vereinbart hat,
+- b das fehlbare Unternehmen als erster Selbstanzeiger im Rahmen einer kartellverwaltungsrechtlichen Untersuchung an der Aufdeckung und Beseitigung der Wettbewerbsbeschränkung mitwirkt, und das Sekretariat der Wettbewerbskommission (WEKO) die Erfüllung der Voraussetzungen an die Selbstanzeige im Einvernehmen mit einem Mitglied des Präsidiums der Wettbewerbskommission bestätigt,
+- c das fehlbare Unternehmen als weiterer Selbstanzeiger mitwirkt.
+
+<sup>3</sup> Der Auftraggeber kann von den Absätzen 1 und 2 abweichen, wenn das Risiko von unzulässigen Wettbewerbsabreden gering ist.
 
 #### Art. 6
 
-**Einladungsverfahren**
+**Erhebung von Daten zur Aufdeckung von Wettbewerbsabreden (Art. 11 Abs. 1 Bst. b IVöB)**
 
-<sup>1</sup> Das Einladungsverfahren richtet sich nach Artikel 4 ÖBG[^6-1].
-
-[^6-1]: BSG 731.2
+<sup>1</sup> Die Wettbewerbskommission oder ihr Sekretariat erhält auf Anfrage Zugang zu den Protokollen über die Angebotsöffnung.
 
 #### Art. 7
 
-**Freihändiges Verfahren**
+**Nachweise (Art. 12, Art. 26 Abs. 3, Art. 27 Abs. 3, Art. 44 IVöB)**
 
-<sup>1</sup> Im freihändigen Verfahren vergeben die Auftraggeberinnen oder Auftraggeber den Auftrag direkt ohne Ausschreibung und Zuschlagsverfügung.
+<sup>1</sup> Um zu prüfen, ob die Anbieter die Teilnahmebedingungen erfüllen, fordert der Auftraggeber in der Ausschreibung oder in den Ausschreibungsunterlagen die Nachweise gemäss Anhang 1 ein.
 
-<sup>2</sup> Der Auftrag kann freihändig vergeben werden, wenn die Schwellenwerte des Einladungsverfahrens oder die tieferen kommunalen Schwellenwerte nicht erreicht werden.
+<sup>2</sup> Anstelle dieser Nachweise können die Anbieter einreichen
 
-<sup>3</sup> Er kann überdies unter einer der folgenden Voraussetzungen freihändig vergeben werden:
+- a ein Zertifikat gemäss Absatz 4 oder
+- b gleichwertige Nachweise ihres ausländischen Sitzstaates.
 
-- a Es gehen im offenen, selektiven oder Einladungsverfahren keine Angebote ein oder es erfüllt keine Anbieterin oder kein Anbieter die Eignungskriterien.
-- b Es werden im offenen, selektiven oder Einladungsverfahren ausschliesslich Angebote eingereicht, die aufeinander abgestimmt sind oder die nicht den wesentlichen Anforderungen der Ausschreibung entsprechen.
-- c Auf Grund der technischen oder künstlerischen Besonderheiten des Auftrags oder aus Gründen des Schutzes geistigen Eigentums kommt nur eine Anbieterin oder ein Anbieter in Frage.
-- d Die Beschaffung wird auf Grund unvorhersehbarer Ereignisse so dringlich, dass kein offenes, selektives oder Einladungsverfahren durchgeführt werden kann.
-- e Unvorhersehbare Ereignisse verlangen zusätzliche Leistungen, um einen zuvor im Wettbewerb vergebenen Auftrag auszuführen oder abzurunden, wobei die Trennung vom ursprünglichen Auftrag aus technischen und wirtschaftlichen Gründen für die Auftraggeberin oder den Auftraggeber mit erheblichen Schwierigkeiten verbunden sein müsste und der Wert der zusätzlichen Leistungen die Hälfte des Werts der ursprünglichen Leistung nicht übersteigen dürfte.
-- f Ersatz, Ergänzung oder Erweiterung bereits erbrachter Leistungen müssen der ursprünglichen Anbieterin oder dem ursprünglichen Anbieter vergeben werden, weil einzig dadurch die Austauschbarkeit mit schon vorhandenem Material oder die Kontinuität der Dienstleistungen gewährleistet ist.
-- g Die Auftraggeberin oder der Auftraggeber vergibt einen neuen Auftrag, der sich auf einen Grundauftrag bezieht, der im offenen, selektiven oder Einladungsverfahren vergeben worden ist und bei dem die Möglichkeit einer freihändigen Vergabe in den Ausschreibungsunterlagen enthalten war.
-- h Die Auftraggeberin oder der Auftraggeber beschafft Erstanfertigungen von Gütern (Prototypen) oder neuartige Dienstleistungen, die auf ihr oder sein Ersuchen im Rahmen eines Forschungs-, Versuchs-, Studien- oder Neuentwicklungsauftrags hergestellt oder entwickelt werden.
-- i Die Auftraggeberin oder der Auftraggeber schliesst den Vertrag mit der Gewinnerin oder dem Gewinner eines Planungs- oder Gesamtleistungswettbewerbs ab, dessen Organisation den Grundsätzen des ÖBG und dieser Verordnung entsprechen muss.
-- k Die Auftraggeberin oder der Auftraggeber beschafft Güter an Warenbörsen.
-- l Die Auftraggeberin oder der Auftraggeber kann Güter im Rahmen einer günstigen, zeitlich befristeten Gelegenheit zu einem Preis beschaffen, der erheblich unter den üblichen Preisen liegt, insbesondere bei Liquidationsverkäufen.
+<sup>3</sup> Der Auftraggeber kann unter Berücksichtigung des konkreten Auftrags weitere Nachweise einfordern.
 
-<sup>4</sup> Im Staatsvertragsbereich[^7-1] erstellt die Auftraggeberin oder der Auftraggeber über jeden freihändig vergebenen Auftrag einen Bericht. Dieser enthält:
+<sup>4</sup> Anbieter können bei der Zentralen Koordinationsstelle Beschaffung (ZKB) ein Zertifikat über das Erbringen der Nachweise gemäss Anhang 1 beziehen. Die Nachweise sind in digitaler Form einzureichen, und das Zertifikat wird in digitaler Form ausgestellt. Es gilt bis zum Erreichen des Höchstalters eines der Nachweise gemäss Anhang 1.
 
-- a den Namen der Auftraggeberin oder des Auftraggebers,
-- b den Wert und die Art der Beschaffung,
-- c das Ursprungsland der Leistung,
-- d die Bestimmung von Absatz 3, nach welcher der Auftrag vergeben worden ist,
-- e das Datum der Veröffentlichung nach Artikel 6 Absatz 2 ÖBG[^7-2].
-
-[^7-1]: Art. 7 Abs. 1 der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 25. November 1994 (IVöB) mit Änderungen vom 15. März 2001
-[^7-2]: BSG 731.2
-
-## 3. Sprache des Verfahrens
+## 3 Vergabeverfahren
 
 #### Art. 8
 
-<sup>1</sup> Vergabeverfahren werden in der Amtsprache abgewickelt, die im betreffenden Verwaltungskreis gilt.
+**Dialog (Art. 24 IVöB)**
 
-<sup>2</sup> Sind mehrere Verwaltungskreise mit unterschiedlichen Amtsprachen betroffen oder fehlt ein örtlicher Anknüpfungspunkt oder ist von der Sache her der Verwaltungskreis Biel/Bienne betroffen, bestimmen die Auftraggeberinnen oder Auftraggeber die Sprache des Verfahrens.
+<sup>1</sup> Der Auftraggeber wählt wenn möglich mindestens drei Anbieter aus, die er zum Dialog einlädt.
 
-## 4 Ausschreibung
+<sup>2</sup> Der Ablauf des Dialogs einschliesslich Dauer, Fristen, Entschädigung und Nutzung der Immaterialgüterrechte werden in einer Dialogvereinbarung festgelegt. Die Zustimmung zur Dialogvereinbarung bildet eine Voraussetzung für die Teilnahme am Dialog.
+
+<sup>3</sup> Während eines Dialogs und auch nach der Zuschlagserteilung dürfen ohne schriftliche Zustimmung der betroffenen Anbieter keine Informationen über Lösungen und Vorgehensweisen der einzelnen Anbieter weitergegeben werden.
 
 #### Art. 9
 
-**Form und Sprache**
+**Fragen zu den Ausschreibungsunterlagen (Art. 36 IVöB)**
 
-<sup>1</sup> Aufträge, die im offenen oder selektiven Verfahren vergeben werden, sind auf der Website des Vereins für ein Informationssystem über das öffentliche Beschaffungswesen in der Schweiz ([http://www.simap.ch](http://www.simap.ch)) auszuschreiben.
+<sup>1</sup> Der Auftraggeber kann in den Ausschreibungsunterlagen bestimmen, bis zu welchem Zeitpunkt Fragen entgegengenommen werden.
 
-<sup>2</sup> Ist der Verwaltungskreis Biel/Bienne betroffen, erfolgt die Ausschreibung in beiden Amtssprachen. In allen andern Fällen wird der Ausschreibung in der einen Amtssprache zusätzlich eine Zusammenfassung in der andern Amtssprache beigefügt, welche die Angaben von Artikel 10 Buchstaben a, b, c, h und i enthält.
-
-<sup>3</sup> Im Einladungsverfahren und im freihändigen Verfahren erfolgt die Einladung zur Angebotsabgabe durch direkte Mitteilung.
-
-<sup>4</sup> Aufträge, die für einen bestimmten Zeitraum geplant sind, können gesamthaft in einer einzigen Ausschreibung veröffentlicht werden.
+<sup>2</sup> Er anonymisiert alle Fragen zu den Ausschreibungsunterlagen und stellt die Fragen und die Antworten allen Anbietern gleichzeitig innert wenigen Arbeitstagen nach Ablauf der Einreichungsfrist für Fragen zur Verfügung.
 
 #### Art. 10
 
-**Angaben**
+**Entschädigung der Anbieter (Art. 24 Abs. 3 Bst. c und Art. 36 Abs. 1 Bst. h IVöB)**
 
-<sup>1</sup> Die Ausschreibung oder die Mitteilung enthält mindestens folgende Angaben:
+<sup>1</sup> Anbieter haben keinen Anspruch auf eine Entschädigung für die Teilnahme an einem Verfahren.
 
-- a Name und Adresse der Auftraggeberin oder des Auftraggebers,
-- b Verfahrensart,
-- c Gegenstand und Umfang des Auftrags,
-- d Ausführungs- oder Liefertermin,
-- e Sprache des Vergabeverfahrens,
-- f Eignungskriterien,
-- g Zuschlagskriterien,
-- h Bezugsquelle und Preis der Ausschreibungsunterlagen,
-- i Einreichungsstelle und Einreichungsfrist für die Angebote oder die Anträge auf Teilnahme im selektiven Verfahren,
-- k die Bezeichnung einer Auskunftsstelle,
-- l die Rechtsmittelbelehrung.
+<sup>2</sup> Verlangt der Auftraggeber Vorleistungen, die über den gewöhnlichen Aufwand hinausgehen, so gibt er in den Ausschreibungsunterlagen bekannt, ob und wie er diese Vorleistungen entschädigt.
 
 #### Art. 11
 
-**Ausschreibungsunterlagen**
+**Subunternehmer (Art. 26, 31 IVöB)**
 
-<sup>1</sup> Die Ausschreibungsunterlagen enthalten mindestens:
+<sup>1</sup> Der Anbieter muss allfällige Subunternehmer im Angebot bezeichnen.
 
-- a alle Angaben der Ausschreibung nach Artikel 10,
-- b das vorgesehene Datum für die Öffnung der Angebote,
-- c Dauer der Verbindlichkeit des Angebots,
-- d wirtschaftliche, technische und ökologische Anforderungen,
-- e finanzielle Garantien und Angaben,
-- f Information über Varianten und Daueraufträge, Zeitpunkt der Ausschreibung von Nebenarbeiten, Teilangebote und Bildung von Losen,
-- g Optionen für zusätzliche Leistungen,
-- h Eignungskriterien nach Artikel 16,
-- i Zuschlagskriterien nach Artikel 30,
-- k Zahlungsbedingungen,
-- l allfällige allgemeine Vertragsbestimmungen,
-- m Formular für die Selbstdeklaration und weitere Nachweise nach Artikel 20,
-- n den allfälligen Ausschluss oder die Einschränkung von Angeboten von Arbeitsgemeinschaften.
+<sup>2</sup> Der Auftraggeber kann in der Ausschreibung oder in der Einladung vorsehen, dass
 
-<sup>2</sup> Sie enthalten zudem den Hinweis, dass das kantonale Amt für Wirtschaft über die am Ort der Ausführung geltenden Arbeitsschutzbestimmungen Auskunft erteilt.
+- a der Anbieter die Subunternehmer später bezeichnen kann oder
+- b die Nachweise gemäss Artikel 7 für die Subunternehmer in der Form des Zertifikats gemäss Artikel 7 Absatz 4 zu erbringen sind.
+
+<sup>3</sup> Die Absätze 1 und 2 gelten auch für Subunternehmer von Subunternehmern, deren Subunternehmer und für alle weiteren Subunternehmer.
 
 #### Art. 12
 
-**Technische Spezifikationen**
+**Dokumentationspflichten (Art. 37, 38, 39 Abs. 4 und 40 Abs. 1 IVöB)**
 
-<sup>1</sup> Die Auftraggeberinnen oder Auftraggeber bezeichnen in den Ausschreibungsunterlagen die erforderlichen technischen Spezifikationen.
+<sup>1</sup> Die Öffnung und die Evaluation der Angebote werden durch den Auftraggeber so dokumentiert, dass sie nachvollziehbar sind.
 
-<sup>2</sup> Die technischen Spezifikationen werden in den für die Schweiz geltenden technischen Normen definiert. Sind keine Normen für die Schweiz vorhanden, ist auf internationale Normen zurückzugreifen.
+<sup>2</sup> Das Protokoll der Angebotsbereinigung enthält mindestens folgende Angaben:
 
-<sup>3</sup> Weichen Anbieterinnen oder Anbieter von diesen Normen ab, so haben sie die Gleichwertigkeit ihrer technischen Spezifikationen nachzuweisen.
-
-<sup>4</sup> Die Bezeichnung der technischen Spezifikationen hat grundsätzlich in Bezug auf die geforderte Leistung zu erfolgen und darf nicht dazu führen, dass gezielt einzelne Anbieterinnen oder Anbieter oder Leistungen bevorzugt werden.
-
-<sup>5</sup> Kann die Bezeichnung ausnahmsweise nicht ohne Bezugnahme auf bestimmte Produkte, Handelsmarken und -namen, Patente, Muster, Typen sowie auf einen bestimmten Ursprung oder Produktionsbetrieb vorgenommen werden, ist den anderen Anbieterinnen oder Anbietern durch den Zusatz "oder gleichwertiger Art" die Möglichkeit offen zu lassen, am Verfahren teilzunehmen.
+- a Ort,
+- b Datum,
+- c Namen der Teilnehmerinnen und Teilnehmer,
+- d bereinigte Angebotsbestandteile,
+- e Resultate der Bereinigung.
 
 #### Art. 13
 
-**Auskünfte**
+**Vertragsabschluss (Art. 42 IVöB)**
 
-<sup>1</sup> Die Auftraggeberinnen oder Auftraggeber erteilen Auskünfte zu den Ausschreibungsunterlagen, soweit die Zusatzinformation den Anbieterinnen oder Anbieter nicht unzulässige Vorteile im weiteren Verfahren verschafft.
+<sup>1</sup> Der Auftraggeber schliesst den Vertrag in Schriftform ab. Eine eigenhändige Unterschrift oder eine elektronische Signatur beim Abschluss in digitaler Form sind nicht erforderlich.
 
-<sup>2</sup> Wichtige Auskünfte an einzelne Anbieterinnen oder Anbieter müssen gleichzeitig auch allen anderen Anbieterinnen oder Anbietern mitgeteilt werden.
+<sup>2</sup> Er wendet seine allgemeinen Geschäftsbedingungen (AGB) an, es sei denn, die Art der Leistung erfordere besondere Vertragsbedingungen.
+
+<sup>3</sup> Verfügt er nicht über eigene AGB, wendet er die AGB des Kantons an ([www.be.ch/agb](http://www.be.ch/agb)).
 
 #### Art. 14
 
-**Fristen 1. Grundsatz**
+**Veröffentlichungen (Art. 48 IVöB)**
 
-<sup>1</sup> Jede Frist wird so festgelegt, dass niemand diskriminiert wird und allen Anbieterinnen oder Anbietern genügend Zeit zur Prüfung der Ausschreibungsunterlagen und zur Ausarbeitung des Angebots bleibt.
-
-<sup>2</sup> Bei der Bestimmung der Frist werden Umstände wie die Art und Komplexität des Auftrags, das Ausmass von Unteraufträgen sowie die Zeit für die übliche Ausarbeitung und Übermittlung der Offerte berücksichtigt, soweit es sich mit den angemessenen Bedürfnissen der Auftraggeberinnen oder Auftraggeber vereinbaren lässt.
-
-<sup>3</sup> Die Verlängerung einer Frist gilt für alle Anbieterinnen oder Anbieter. Sie ist diesen gleichzeitig und rechtzeitig bekannt zu geben.
+<sup>1</sup> Der Auftraggeber veröffentlicht auf der Internetplattform www.simap.ch ebenfalls Zuschläge, die ab dem für das offene oder das selektive Verfahren massgebenden Schwellenwert freihändig erteilt wurden.
 
 #### Art. 15
 
-**2. Dauer**
+**Debriefing (Art. 51 IVöB)**
 
-<sup>1</sup> Die Fristen für das Einreichen eines Angebots oder eines Antrags auf Teilnahme im selektiven Verfahren sollen in der Regel nicht kürzer als 20 Tage sein.
+<sup>1</sup> Der Auftraggeber führt mit einem nicht berücksichtigten Anbieter auf dessen Verlangen hin ein Gespräch (Debriefing).
 
-<sup>2</sup> Im Staatsvertragsbereich darf die Frist nicht kürzer sein als
-
-- a 40 Tage für das Einreichen eines Angebots,
-- b 25 Tage für das Einreichen eines Antrags auf Teilnahme im selektiven Verfahren.
-
-<sup>3</sup> In dringlichen Fällen können die Fristen nach den Absätzen 1 und 2 bis auf zehn Tage verkürzt werden.
-
-## 5. Eignung der Anbieterinnen oder Anbieter
+<sup>2</sup> Im Debriefing werden insbesondere die wesentlichen Gründe für die Nichtberücksichtigung des Angebots bekanntgegeben. Die Vertraulichkeit gemäss Artikel 51 Absatz 4 IVöB ist zu beachten.
 
 #### Art. 16
 
-**Eignungskriterien**
+**Ausbildung**
 
-<sup>1</sup> Die Auftraggeberinnen oder Auftraggeber legen in den Ausschreibungsunterlagen die Eignungskriterien fest. Deren Gewichtung und allfällige Unterkriterien müssen bekannt gegeben werden.
+<sup>1</sup> Auftraggeber, die regelmässig oﬀene oder selektive Vergabeverfahren durchführen, stellen sicher, dass die dafür verantwortlichen Personen oder Organisationen mindestens über die folgenden Kompetenzen verfügen:
 
-<sup>2</sup> Eignungskriterien können insbesondere die fachliche, technische, organisatorische oder wirtschaftliche Leistungsfähigkeit der Anbieterinnen oder Anbieter sein. Es können auch besondere Leistungen zu Gunsten der Berufsbildung und besondere Massnahmen zur Förderung der Gleichstellung von Mann und Frau mitberücksichtigt werden. Die Eignungskriterien sind auftragsspezifisch festzulegen und wo nötig zu präzisieren.
+- a Sie kennen die Grundsätze, Verfahren, Schwellenwerte sowie Verhaltens- und Rechtsschutzregeln des öﬀentlichen Beschaﬀungsrechts.
+- b Sie können das angemessene Vergabeverfahren bestimmen, gesamtheitlich planen und durchführen.
+- c Sie können wo erforderlich eine Marktanalyse durchführen.
+- d Sie können Anforderungen erheben und dokumentieren.
+- e Sie können gestützt darauf angemessene Qualitäts-, Preis- und Nachhaltigkeitskriterien festlegen.
+- f Sie können gemäss diesen Anforderungen und Kriterien gestützt auf Vorlagen qualitativ angemessene Ausschreibungsunterlagen und einen Vertrag verfassen.
+- g Sie können Angebote bewerten und den Zuschlag nachvollziehbar begründen.
 
-<sup>3</sup> Die Auftraggeberinnen oder Auftraggeber können von den Anbieterinnen oder Anbietern Nachweise zur Beurteilung der festgelegten Eignungskriterien verlangen.
+<sup>2</sup> Die Auftraggeber können die Kompetenzen gemäss Absatz 1 vermuten bei Personen, die
 
-<sup>4</sup> Wird die Leistung im Ausland erbracht, so haben die Anbieterinnen oder Anbieter die Einhaltung der Kernübereinkommen der Internationalen Arbeitsorganisation zu gewährleisten.
+- a über den eidgenössischen Fachausweis als Spezialistin oder Spezialist öffentliche Beschaffung verfügen,
+- b über eine andere Ausbildung im öﬀentlichen Beschaﬀungswesen verfügen, welche die Kompetenzen gemäss Absatz 1 vermittelt, oder
+- c über eine angemessene Erfahrung als Verantwortliche für die Durchführung von oﬀenen oder selektiven Vergabeverfahren verfügen.
+
+## 4 Sprachen
 
 #### Art. 17
 
-**Ständige Listen qualifizierter Anbieterinnen und Anbieter**
+**Sprache des Verfahrens**
 
-<sup>1</sup> Die Auftraggeberinnen oder Auftraggeber dürfen keine ständigen Listen qualifizierter Anbieterinnen oder Anbieter[^17-1] führen.
+<sup>1</sup> Vergabeverfahren werden in der Amtssprache durchgeführt, die im betreffenden Verwaltungskreis gilt.
 
-[^17-1]: Art. 13 Bst. e IVöB sowie Art. VIII Bst. d bis f des GATT/WTO-Übereinkommens vom 15. April 1994 über das öffentliche Beschaffungswesen (Government Procurement Agreement [GPA]; SR 0.632.231.422).
+<sup>2</sup> Der Auftraggeber bestimmt die Sprache des Verfahrens, wenn
 
-## 6 Einreichung und Prüfung der Angebote
+- a mehrere Verwaltungskreise mit unterschiedlichen Amtssprachen betroffen sind,
+- b ein örtlicher Anknüpfungspunkt fehlt oder
+- c von der Sache her der Verwaltungskreis Biel/Bienne betroffen ist.
 
 #### Art. 18
 
-**Form**
+**Sprache der Einladung oder Ausschreibung**
 
-<sup>1</sup> 1 Die Angebote und die Anträge auf Teilnahme am selektiven Verfahren sind innerhalb der Frist (Art. 10 Bst. i) schriftlich einzureichen.
+<sup>1</sup> Die Einladung oder Ausschreibung erfolgt in der Sprache des Verfahrens.
 
-<sup>2</sup> Sie müssen mit einer gültigen Unterschrift versehen sein.
+<sup>2</sup> Ist der Verwaltungskreis Biel/Bienne betroffen, erfolgt sie in beiden Amtssprachen.
 
-<sup>3</sup> Für die Wahrung der Frist gelten die Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^18-1]).
-
-<sup>4</sup> Wenn die Ausschreibungsunterlagen nichts anderes bestimmen, haben die Anbieterinnen und Anbieter das Angebot in Schweizer Franken einzureichen.
-
-[^18-1]: BSG 155.21
+<sup>3</sup> Im offenen oder selektiven Verfahren fügt der Auftraggeber der Ausschreibung eine Zusammenfassung in der anderen Amtssprache bei. Die Zusammenfassung enthält mindestens die Angaben gemäss Artikel 48 Absatz 4 IVöB.
 
 #### Art. 19
 
-**Änderung des Angebots**
+**Sprache des Angebots**
 
-<sup>1</sup> Nach seiner Einreichung darf das Angebot, unter Vorbehalt von Artikel 25 Absatz 2, nicht mehr geändert werden.
+<sup>1</sup> Das Angebot oder der Antrag auf Teilnahme am selektiven Verfahren ist in der Sprache des Verfahrens einzureichen.
+
+<sup>2</sup> Beilagen können in Deutsch, Französisch oder Englisch eingereicht werden. Nachweise können in Deutsch, Französisch, Italienisch oder Englisch eingereicht werden.
+
+<sup>3</sup> Die Einladung oder die Ausschreibung kann die Sprache des Angebots oder der Beilagen anders regeln.
+
+## 5 Aufsicht und Vollzug
 
 #### Art. 20
 
-**Nachweise**
+**Aufsicht (Art. 62 Abs. 1 IVöB)**
 
-<sup>1</sup> Dem Angebot oder dem Antrag auf Teilnahme am selektiven Verfahren sind die Nachweise über die Erfüllung der Pflichten gegenüber der öffentlichen Hand, der Sozialversicherung sowie den Arbeitnehmerinnen und Arbeitnehmern (Selbstdeklaration und weitere Bestätigungen) beizulegen.
+<sup>1</sup> Die internen Kontrollorgane der Auftraggeber überwachen die Einhaltung der Gesetzgebung über das öffentliche Beschaffungswesen.
 
-<sup>2</sup> Anbieterinnen oder Anbieter können beim Amt für Informatik und Organisation (KAIO) ein Zertifikat über das Erbringen der gebräuchlichsten Nachweise nach Absatz 1 beziehen. Das Zertifikat ersetzt die darin erbrachten Nachweise.
+<sup>2</sup> Für die Aufsicht sind zuständig
 
-<sup>3</sup> Die Nachweise dürfen nicht älter als ein Jahr sein. Das Zertifikat verfällt ein Jahr nach Ausstellung des ältesten der eingereichten Nachweise.
+- a die Direktionen und die Staatskanzlei für die Aufträge der ihnen unterstellten Organisationseinheiten,
+- b der Regierungsrat für die Aufträge der Direktionen und der Staatskanzlei,
+- c die Justizleitung für die Aufträge der Gerichtsbehörden und der Staatsanwaltschaft,
+- d der Regierungsrat, auf Antrag der für den betreffenden Aufgabenbereich zuständigen Direktion oder der Staatskanzlei, für die Aufträge der anderen Trägerinnen und Träger kantonaler Aufgaben (Art. 95 Abs. 3 der Verfassung des Kantons Bern[^20-1]),
+- e die Regierungsstatthalterinnen und Regierungsstatthalter für die Aufträge der Gemeinden (Art. 87 des Gemeindegesetzes vom 16. März 1998 [GG][^20-2]),
+- f die Gemeinden für die Aufträge der Trägerinnen und Träger kommunaler Aufgaben (Art. 65 Abs. 2 und Art. 69 Abs. 1 GG).
+
+<sup>3</sup> Kantonale Behörden, die Leistungsvereinbarungen mit Trägerinnen und Trägern öffentlicher Aufgaben abschliessen, regeln in diesen auch die Einhaltung des öffentlichen Beschaffungsrechts durch die Leistungserbringerinnen und Leistungserbringer, namentlich
+
+- a die Pflicht zur Durchführung öffentlicher Vergabeverfahren in Bezug auf Aufträge im Bereich der Leistungsvereinbarung,
+- b die Berichterstattung über die Erfüllung dieser Pflicht.
+
+[^20-1]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
+[^20-2]: BSG [170.11](https://www.belex.sites.be.ch/data/170.11/de)
 
 #### Art. 21
 
-**Sprache**
+**Vollzug**
 
-<sup>1</sup> Das Angebot oder der Antrag auf Teilnahme am selektiven Verfahren muss in der Sprache des Vergabeverfahrens abgefasst werden.
+<sup>1</sup> Die Organe gemäss der Verordnung vom 5. November 2014 über die Organisation des öffentlichen Beschaffungswesens (OÖBV)[^21-1] sowie die Auftraggeber vollziehen die Gesetzgebung über das öffentliche Beschaffungswesen.
+
+[^21-1]: BSG [731.22](https://www.belex.sites.be.ch/data/731.22/de)
+
+## 6 Übergangs- und Schlussbestimmungen
 
 #### Art. 22
 
-**Kosten**
+**Einrichten der Meldestelle gemäss Artikel 4**
 
-<sup>1</sup> Das Ausarbeiten des Angebots oder des Antrags auf Teilnahme am selektiven Verfahren wird grundsätzlich nicht vergütet.
+<sup>1</sup> Kantonale Auftraggeber richten die Meldestelle gemäss Artikel 4 innerhalb eines Jahres nach dem Inkrafttreten dieser Verordnung ein.
 
 #### Art. 23
 
-**Öffnung der Angebote**
+**Änderung von Erlassen**
 
-<sup>1</sup> Die Angebote müssen im offenen und im selektiven Verfahren sowie im Einladungsverfahren bis zu dem für die Öffnung vorgesehenen Datum verschlossen bleiben.
+<sup>1</sup> Folgende Erlasse werden geändert:
 
-<sup>2</sup> Die fristgerecht eingereichten Angebote werden durch mindestens zwei Vertreterinnen oder Vertreter der Auftraggeberin oder des Auftraggebers geöffnet.
+- a Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung; GebV)[^23-1],
+- b Verordnung vom 5. November 2014 über die Organisation des öffentlichen Beschaffungswesens (OÖBV)[^23-2],
+- c Verordnung vom 10 September 1997 über das Angebot im öffentlichen Verkehr (Angebotsverordnung; AGV)[^23-3].
 
-<sup>3</sup> Über die Öffnung der Angebote wird ein Protokoll erstellt (Öffnungsprotokoll). Dieses enthält mindestens folgende Angaben:
-
-- a die Namen der anwesenden Personen,
-- b die Namen der Anbieterinnen oder Anbieter,
-- c die Eingangsdaten,
-- d die Preise der Angebote sowie allfälliger Angebotsvarianten oder Teilangebote.
-
-<sup>4</sup> Alle Anbieterinnen und Anbieter können auf Verlangen in das anonymisierte Öffnungsprotokoll Einsicht nehmen.
+[^23-1]: BSG [154.21](https://www.belex.sites.be.ch/data/154.21/de)
+[^23-2]: BSG [731.22](https://www.belex.sites.be.ch/data/731.22/de)
+[^23-3]: BSG [762.412](https://www.belex.sites.be.ch/data/762.412/de)
 
 #### Art. 24
 
-**Ausschlussgründe**
+**Aufhebung eines Erlasses**
 
-<sup>1</sup> Die Auftraggeberinnen oder Auftraggeber schliessen Anbieterinnen oder Anbieter von der Teilnahme am Verfahren aus, welche
+<sup>1</sup> Die Verordnung vom 16. Oktober 2002 über das öffentliche Beschaffungswesen (ÖBV)[^24-1] wird aufgehoben.
 
-- a an der Vorbereitung der Unterlagen oder des Vergabeverfahrens derart mitgewirkt haben, dass sie die Vergabe zu ihren Gunsten beeinflussen können,
-- b ein Angebot einreichen, das der Ausschreibung, den Ausschreibungsunterlagen oder wesentlichen Formerfordernissen nicht entspricht,
-- c die geforderten Eignungskriterien nicht erfüllen,
-- d der Auftraggeberin oder dem Auftraggeber falsche Auskünfte erteilt haben,
-- e Steuern und Sozialabgaben nicht bezahlt haben,
-- f dem Personal nicht Arbeitsbedingungen bieten, die namentlich hinsichtlich Entlöhnung, Lohngleichheit für Mann und Frau sowie Sozialleistungen der Gesetzgebung oder dem Gesamtarbeitsvertrag der Branche entsprechen,
-- g Abreden getroffen haben, die den wirksamen Wettbewerb beseitigen oder erheblich beeinträchtigen,
-- h die Einhaltung der schweizerischen und bernischen Umweltgesetzgebung im Rahmen der Produktion nicht gewährleisten können,
-- i im Konkurs sind,
-- k das Selbstdeklarationsblatt nicht wahrheitsgetreu ausgefüllt haben,
-- l für eine richtige Vertragserfüllung keine Gewähr bieten.
-
-<sup>2</sup> Das Angebot entspricht den wesentlichen Formerfordernissen namentlich nicht, wenn es nicht fristgerecht eingereicht worden ist, nicht vollständig ist oder das Selbstdeklarationsblatt mit den verlangten Nachweisen fehlt.
-
-<sup>3</sup> Fehlt ein Gesamtarbeitsvertrag im Sinne von Absatz 1 Buchstabe f, gelten die orts- und berufsüblichen Vorschriften.
-
-<sup>4</sup> Die Auffanggesellschaft eines konkursiten Unternehmens kann ausgeschlossen werden, wenn sie wirtschaftlich von denselben Personen beherrscht wird, die für das konkursite Unternehmen verantwortlich sind.
+[^24-1]: BSG [731.21](https://www.belex.sites.be.ch/data/731.21/de)
 
 #### Art. 25
 
-**Prüfung der Angebote**
-
-<sup>1</sup> Die Angebote werden nach einheitlichen Kriterien fachlich und rechnerisch geprüft. Dritte können als Sachverständige eingesetzt werden.
-
-<sup>2</sup> Offensichtliche Rechnungs- und Schreibfehler können berichtigt werden.
-
-<sup>3</sup> Nach der Prüfung wird eine Vergleichstabelle über die Angebote erstellt.
-
-#### Art. 26
-
-**Erläuterungen**
-
-<sup>1</sup> Die Auftraggeberinnen oder Auftraggeber können von den Anbieterinnen oder Anbietern Erläuterungen in Bezug auf ihre Eignung und ihr Angebot verlangen.
-
-<sup>2</sup> Mündliche Erläuterungen werden von den Auftraggeberinnen oder Auftraggebern schriftlich festgehalten.
-
-#### Art. 27
-
-**Verbot von Abgebotsrunden**
-
-<sup>1</sup> Verhandlungen zwischen den Auftraggeberinnen oder Auftraggebern und den Anbieterinnen oder Anbietern über Preise, Preisnachlässe und Änderungen des Leistungsinhalts sind unzulässig.
-
-<sup>2</sup> Im freihändigen Verfahren sind Verhandlungen zulässig.
-
-#### Art. 28
-
-**Ungewöhnlich niedrige Angebote**
-
-<sup>1</sup> Erhalten die Auftraggeberinnen oder Auftraggeber ein Angebot, das ungewöhnlich niedriger ist als andere eingereichte Angebote, können sie bei den Anbieterinnen oder Anbietern nähere Erkundigungen betreffend die Erfüllung der Teilnahme- und Auftragsbedingungen einholen.
-
-#### Art. 29
-
-**Verfahrensabbruch**
-
-<sup>1</sup> Das Verfahren kann aus wichtigen Gründen abgebrochen werden.
-
-<sup>2</sup> Wichtige Gründe liegen namentlich vor, wenn
-
-- a kein Angebot eingereicht worden ist, das die in der Ausschreibung oder in den Ausschreibungsunterlagen festgelegten Kriterien oder technischen Anforderungen erfüllt,
-- b auf Grund veränderter Rahmen- oder Randbedingungen günstigere Angebote zu erwarten sind,
-- c eine wesentliche Änderung des Auftrags erforderlich geworden ist,
-- d die eingereichten Angebote keinen wirksamen Wettbewerb garantieren.
-
-<sup>3</sup> Das abgebrochene Verfahren kann wiederholt werden.
-
-## 7 Zuschlag des Auftrags
-
-#### Art. 30
-
-**Zuschlagskriterien**
-
-<sup>1</sup> Das wirtschaftlich günstigste Angebot erhält den Zuschlag. Als solches gilt dasjenige, das die Zuschlagskriterien am besten erfüllt.
-
-<sup>2</sup> Die Zuschlagskriterien sind in den Ausschreibungsunterlagen mit ihrer Gewichtung und allfälligen Unterkriterien aufzuführen. Wenn der Preis ein Zuschlagskriterium ist, muss zusätzlich die Regel bekannt gegeben werden, wie der Preis bewertet wird.
-
-<sup>3</sup> Zuschlagskriterien können insbesondere sein: Qualität, Preis, Termine, Ökologie, Wirtschaftlichkeit, Betriebskosten, Kundendienst, Zweckmässigkeit, technischer Wert, Ästhetik, Kreativität, Infrastruktur. Die Zuschlagskriterien sind auftragsspezifisch festzulegen und wo nötig zu präzisieren.
-
-#### Art. 31
-
-**Aufteilung des Auftrags**
-
-<sup>1</sup> Die Auftraggeberinnen oder Auftraggeber können den Auftrag nur aufteilen und an verschiedene Zuschlagsempfängerinnen oder Zuschlagsempfänger vergeben, wenn dies in den Ausschreibungsunterlagen bekannt gemacht worden ist oder wenn vor der Vergabe das Einverständnis der Zuschlagsempfängerin oder des Zuschlagsempfängers eingeholt worden ist.
-
-## 8 Vertragsabschluss
-
-#### Art. 32
-
-<sup>1</sup> Der Vertrag mit der Zuschlagsempfängerin oder dem Zuschlagsempfänger darf nach Ablauf der Beschwerdefrist abgeschlossen werden, wenn
-
-- a die Beschwerdefrist unbenutzt abgelaufen ist,
-- b im Fall einer Beschwerde kein Gesuch um Erteilung der aufschiebenden Wirkung gestellt wird,
-- c im Fall einer Beschwerde mit Gesuch um Erteilung der aufschiebenden Wirkung feststeht, dass die aufschiebende Wirkung nicht erteilt wird.
-
-<sup>2</sup> Ist ein Beschwerdeverfahren ohne aufschiebende Wirkung gegen den Zuschlag hängig, so teilt die Auftraggeberin oder der Auftraggeber den Vertragsabschluss umgehend der Beschwerdeinstanz mit.
-
-## 9 Rechtsschutz
-
-#### Art. 33
-
-**Aufschiebende Wirkung**
-
-<sup>1</sup> Die instruierende Behörde der Beschwerdeinstanz kann der Beschwerde auf Gesuch oder von Amtes wegen die aufschiebende Wirkung erteilen, wenn die Beschwerde als ausreichend begründet erscheint und keine überwiegenden Interessen entgegenstehen.
-
-<sup>2</sup> Wird die aufschiebende Wirkung auf Gesuch der Beschwerdeführerin oder des Beschwerdeführers angeordnet und kann sie zu einem bedeutenden Nachteil führen, so kann die Beschwerdeführerin oder der Beschwerdeführer innerhalb nützlicher Frist zur Leistung von Sicherheiten für die Verfahrenskosten und für eine allfällige Parteientschädigung verpflichtet werden. Wird die Sicherheit nicht fristgerecht geleistet, so wird der Entscheid über die aufschiebende Wirkung hinfällig.
-
-<sup>3</sup> Die Beschwerdeführerin oder der Beschwerdeführer ist verpflichtet, den Schaden, der aus der aufschiebenden Wirkung entstanden ist, zu ersetzen, wenn sie oder er absichtlich oder grob fahrlässig gehandelt hat.
-
-#### Art. 34
-
-**Entscheid**
-
-<sup>1</sup> Ist der Vertrag noch nicht abgeschlossen, so kann die Beschwerdeinstanz die Verfügung aufheben und in der Sache selbst entscheiden oder sie an die Auftraggeberin oder den Auftraggeber mit oder ohne verbindliche Anordnungen zurückweisen.
-
-<sup>2</sup> Ist der Vertrag bereits abgeschlossen und erweist sich die Beschwerde als begründet, so stellt die Beschwerdeinstanz fest, dass die Verfügung rechtswidrig ist.
-
-## 10 Überwachung
-
-#### Art. 35
-
-**Überwachung der Zuschlagsempfängerinnen oder -empfänger**
-
-<sup>1</sup> Die Auftraggeberinnen oder Auftraggeber überwachen die Einhaltung der Vergabebestimmungen.
-
-<sup>2</sup> Sie können überdies verlangen, dass Zuschlagsempfängerinnen oder Zuschlagsempfänger die zum Zeitpunkt des Angebots nicht bekannten Angaben nach Artikel 9 ÖBG[^35-1] nachträglich einreichen.
-
-<sup>3</sup> Aufsichtsbehörde über die Auftraggeberinnen oder Auftraggeber ist die jeweils für den Sachbereich zuständige Direktion.
-
-[^35-1]: BSG 731.2
-
-#### Art. 36
-
-**Veröffentlichung des Zuschlags**
-
-<sup>1</sup> Im Staatsvertragsbereich veröffentlichen die Auftraggeberinnen oder die Auftraggeber den Zuschlag spätestens 72 Tage nachdem die Verfügung in Rechtskraft erwachsen ist auf der Website des Vereins für ein Informationssystem über das öffentliche Beschaffungswesen der Schweiz ([http://www.simap.ch](http://www.simap.ch)).
-
-<sup>2</sup> Die Veröffentlichung enthält folgende Angaben:
-
-- a Name und Adresse der Auftraggeberin oder des Auftraggebers,
-- b Verfahrensart,
-- c Gegenstand und Umfang des Auftrags,
-- d Datum des Zuschlags,
-- e Name und Adresse der berücksichtigten Zuschlagsempfängerin oder des Zuschlagsempfängers,
-- f Preis des berücksichtigten Angebots.
-
-#### Art. 37
-
-**Statistik**
-
-<sup>1</sup> Die im Staatsvertragsbereich verpflichteten Auftraggeberinnen und Auftraggeber erstellen jährlich eine Statistik über die meldepflichtigen Aufträge[^37-1] und leiten sie dem KAIO zuhanden des Bundes weiter.
-
-[^37-1]: Art. XIX Ziff. 5 GPA
-
-#### Art. 38
-
-**Archivierung**
-
-<sup>1</sup> Soweit nicht weitergehende Bestimmungen bestehen, werden die Vergabeakten während mindestens drei Jahren nach dem Abschluss des Verfahrens aufbewahrt.
-
-<sup>2</sup> Zu den Vergabeakten gehören:
-
-- a die Ausschreibung,
-- b die Ausschreibungsunterlagen,
-- c das Öffnungsprotokoll,
-- d die Korrespondenz über das Vergabeverfahren,
-- e die Verfügungen im Rahmen des Vergabeverfahrens,
-- f das berücksichtigte Angebot,
-- g die Berichte nach Artikel 7 Absatz 4.
-
-## 11
-
-#### Art. 39–43
-
-**…**
-
-## 12 Übergangs- und Schlussbestimmungen
-
-#### Art. 44
-
-**Hängige Verfahren**
-
-<sup>1</sup> Vergabeverfahren, die bei Inkrafttreten dieser Verordnung hängig sind, werden nach bisherigem Recht zu Ende geführt.
-
-#### Art. 45
-
-**Publikation auf dem Internet**
-
-<sup>1</sup> Die Pflicht zur Veröffentlichung auf der Website des Vereins für ein Informationssystem über das öffentliche Beschaffungswesen in der Schweiz gemäss den Artikeln 9 Absatz 1 und 36 Absatz 1 tritt in Kraft
-
-- a am 1. Januar 2004 für Beschaffungsstellen nach Artikel 2 Absatz 1 Buchstabe a ÖBG[^45-1],
-- b am 1. Januar 2005 für die übrigen Beschaffungsstellen nach Artikel 2 Absatz 1 Buchstabe b bis d ÖBG.
-
-[^45-1]: BSG 731.2
-
-#### Art. 46
-
-**Aufhebung eines Erlasses**
-
-<sup>1</sup> Die Submissionsverordnung vom 29. April 1998 (BSG 731.21) wird aufgehoben.
-
-#### Art. 47
-
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt zusammen mit dem Gesetz vom 11. Juni 2002 über das öffentliche Beschaffungswesen am 1. Januar 2003 in Kraft.
+<sup>1</sup> Diese Verordnung tritt zusammen mit dem Gesetz vom 8. Juni 2021 über den Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöBG)[^25-1] in Kraft.
 
-Bern, 16. Oktober 2002
+[^25-1]: BSG [731.2](https://www.belex.sites.be.ch/data/731.2/de); 1. Februar 2022
+
+## A1 Anhang 1 zu Artikel 7 Absätze 1 und 4
+
+#### Art. A1-1
+
+**Nachweise**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Gegenstand des Nachweises</th><th>Verpflichtete Anbieter</th><th>Inhalt des Nachweises</th><th>Form des Nachweises</th><th>Höchstalter des Nachweises</th></tr>
+<tr><td>1</td><td>Arbeitsschutzbestimmungen und Arbeitsbedingungen</td><td>a. Anbieter, die Gesamt- oder Normalarbeitsverträgen (GAV/NAV) unterstehen, die dem Informationssystem Allianz Bau (ISAB) angeschlossen sind.</td><td>Bescheinigungsergebnis «Keine Informationen über aktuelle GAV-Verfehlungen» oder «GAV-Konformität ist nachgewiesen worden».</td><td>GAV-Bescheinigung gemäss ISAB</td><td>Datum des Angebots</td></tr>
+<tr><td></td><td></td><td>b. Anbieter, die anderen GAV/NAV unterstehen.</td><td>Es sind keine Verstösse oder nur leichte Verstösse gegen die GAV/NAV bekannt.</td><td>Bestätigungen der zuständigen paritätischen Berufskommissionen</td><td>1 Jahr</td></tr>
+<tr><td></td><td></td><td>c. Anbieter, die keinen GAV/NAV unterstehen.</td><td>Einhalten der Arbeitsschutzbestimmungen und der im Inland massgeblichen Arbeitsbedingungen.</td><td>Selbstdeklaration auf dem Formular der ZKB</td><td>Datum des Angebots</td></tr>
+<tr><td>2</td><td>Sozialversicherungsbeiträge</td><td>Alle Anbieter</td><td>Keine ausstehenden Sozialversicherungsbeiträge einschliesslich der vom Lohn abgezogenen Arbeitnehmeranteile.</td><td>Bestätigungen: 1. der AHV-Ausgleichskasse (AHV-, IV-, EO- und ALV-Beiträge), 2. der Pensionskasse (BVG-Beiträge der Arbeitnehmerinnen und Arbeitnehmer).</td><td>1 Jahr</td></tr>
+<tr><td>3</td><td>Steuerpflicht einschliesslich Mehrwertsteuerpflicht</td><td>Alle Anbieter</td><td>Keine fälligen Steuerforderungen des Bundes, der Kantone und der Gemeinden.</td><td>Bestätigungen: 1. der Steuerbehörde am Geschäftssitz, 2. der für die Mehrwertsteuer zuständigen Bundesbehörde.</td><td>1 Jahr</td></tr>
+<tr><td>4</td><td>Finanzielle Stabilität</td><td>Alle Anbieter</td><td>Kein laufendes Pfändungs- oder Konkursverfahren und keine nicht verjährten Verlustscheine.</td><td>Auszug aus dem Betreibungsregister</td><td>1 Jahr</td></tr>
+<tr><td>5</td><td>Keine Schwarzarbeit</td><td>Alle Anbieter</td><td>Einhalten der Melde- und Bewilligungspflichten nach dem Bundesgesetz vom 17. Juni 2005 über Massnahmen zur Bekämpfung der Schwarzarbeit (Bundesgesetz gegen die Schwarzarbeit, BGSA)[^A11-1].</td><td>1. Selbstdeklaration auf dem Formular der ZKB, 2. der Anbieter ist auf der Liste der rechtskräftig sanktionierten Arbeitgeberinnen und Arbeitgeber gemäss Art. 13 BGSA des Staatssekretariates für Wirtschaft (www.seco.admin.ch) nicht verzeichnet.</td><td>Datum des Angebots</td></tr>
+<tr><td>6</td><td>Lohngleichheit für Frauen und Männer</td><td>a. Arbeitgeberinnen und Arbeitgeber, die gemäss Art. 13a und 13b des Bundesgesetzes vom 24. März 1995 über die Gleichstellung von Frau und Mann (Gleichstellungsgesetz, GlG)[^A11-2] zur Durchführung einer Lohngleichheitsanalyse verpflichtet sind</td><td>Die Lohngleichheit ist gewährleistet. Bei einer Lohngleichheitsanalyse mit dem Standard Analyse-Tool des Bundes «Logib» darf die unerklärte Lohndifferenz 5% nicht überschreiten.</td><td>1. Lohngleichheitsanalyse gemäss Art. 13a ff. GlG und 2. wenn gemäss Art. 13d GlG die Überprüfung der Lohngleichheitsanalyse erforderlich ist, der Bericht der unabhängigen Stelle darüber; oder 3. Kontrollbestätigung einer staatlichen Stelle gemäss Art. 13b GlG.</td><td>Gemäss Art. 13a Abs. 2 und 3 GlG bzw. Art. 13b Bst. c GlG</td></tr>
+<tr><td></td><td></td><td>b. Andere Anbieter</td><td>Die Lohngleichheit ist gewährleistet.</td><td>Selbstdeklaration auf dem Formular der ZKB</td><td>Datum des Angebots</td></tr>
+<tr><td>7</td><td>Weitere gesetzliche Teilnahmevoraussetzungen oder Verpflichtungen des Anbieters</td><td>Alle Anbieter</td><td>Gemäss dem Selbstdeklarationsformular der ZKB</td><td>Selbstdeklaration auf dem Formular der ZKB</td><td>Datum des Angebots</td></tr>
+</table>
+
+[^A11-1]: SR [822.41](https://db.clex.ch/link/Bund/822.41/de)
+[^A11-2]: SR [151.1](https://db.clex.ch/link/Bund/151.1/de)
+
+Bern, 17. November 2021
 
 Im Namen des Regierungsrates
 
-Die Präsidentin: Zölch-Balmer
+Die Präsidentin: Simon
 
-Der Staatsschreiber: Nuspliger
+Der Staatsschreiber: Auer
 
-02-72
+21-111
