@@ -4,13 +4,13 @@ number: "526.21"
 title: "Verordnung zum Gesetz über Jagd, Wild- und Vogelschutz"
 short: Jagdverordnung
 language: de
-version: 2016-09-30
-valid_until: 2022-01-31
-version_adopted: 2016-09-27
+version: 2022-02-01
+valid_until: 2024-03-31
+version_adopted: 2022-01-25
 adopted: 2003-04-23
 in_force: 2003-05-01
 url: "https://ar.clex.ch/app/de/texts_of_law/526.21"
-pdf: "https://ar.clex.ch/api/de/versions/1126/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1409/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1126/pdf_file"
 
 (Jagdverordnung)
 
-vom 23.04.2003 (Stand 30.09.2016)
+vom 23.04.2003 (Stand 01.02.2022)
 
 Der Regierungsrat des Kantons Appenzell A.Rh.,
 
@@ -104,9 +104,17 @@ verordnet:
 
 <sup>1</sup> Die Jagdverwaltung prüft das Gesuch um Patenterwerb innert angemessener Frist. Sie kann von der oder vom Bewerbenden weitere Unterlagen und Auskünfte verlangen und ihren Entscheid mit Bedingungen und Auflagen verbinden.
 
-<sup>2</sup> Das Patent wird erteilt, wenn die oder der Bewerbende über die erforderliche Jagdhaftpflichtversicherung verfügt, die obligatorische Schiessübung[^8-1] absolviert und die Patentgebühren bezahlt hat.
+<sup>2</sup> Das Patent wird erteilt, wenn die oder der Bewerbende die Voraussetzungen nach Art. 15 des Jagdgesetzes erfüllt und den Treffsicherheitsnachweis nach Art. 8a erbracht hat.
 
-[^8-1]: Art. 12 Abs. 3 Jagdgesetz
+#### Art. 8a
+
+**Obligatorische Schiessübung**
+
+<sup>1</sup> Die jährliche obligatorische Schiessübung (Treffsicherheitsnachweis) wird erbracht durch ein erfolgreich absolviertes Schiessprogramm gemäss dem Standard der schweizerischen Jagd- und Fischereiverwalterkonferenz (JFK).
+
+<sup>2</sup> Der Treffsicherheitsnachweis muss im laufenden Kalenderjahr sowohl für den Kugel- wie auch für den Schrotschuss erbracht werden.
+
+<sup>3</sup> Treffsicherheitsnachweise anderer Kantone werden anerkannt, wenn sie den JFK-Standard erfüllen und im laufenden Kalenderjahr erbracht worden sind.
 
 #### Art. 9
 
@@ -136,8 +144,8 @@ verordnet:
 
 <sup>2</sup> Für die Ausübung der ordentlichen Jagd gelten unter Vorbehalt des Bundesrechts[^11-1] folgende Rahmenzeiten:
 
-- a) Hochwildjagd: 1. September bis 31. Dezember
-- b) Niederwildjagd: 1. September bis 31. Januar
+- a) Hochwildjagd: 15. August bis 31. Dezember
+- b) Niederwildjagd: 15. August bis 31. Januar
 - c) Passjagd: 1. November bis 28. Februar
 
 <sup>3</sup> Die Jagd ist verboten an Sonn- und allgemeinen Feiertagen.
@@ -253,7 +261,7 @@ verordnet:
 
 **b) Waffen**
 
-<sup>1</sup> Als Jagdschusswaffen dürfen nur Waffen verwendet werden, für die ein gültiger Jagdwaffenausweis einer oder eines von der Jagdverwaltung anerkannten amtlichen Waffenkontrolleurin oder Waffenkontrolleurs vorliegt. Die Jagdverwaltung setzt die Kontrollperiode fest.
+<sup>1</sup> …
 
 <sup>2</sup> Als Jagdschusswaffen kommen in Betracht: ein- oder mehrläufige Kugelgewehre, Repetierkugelgewehre, kombinierte Waffen mit einem oder zwei Kugelläufen und einem oder zwei Schrotläufen, ein- oder mehrläufige Schrotflinten und zweischüssige automatische Schrotflinten.
 
@@ -271,21 +279,31 @@ verordnet:
 
 <sup>4</sup> Schrotgrössen über 4,5 mm sind nicht zulässig.
 
+<sup>5</sup> Die Verwendung und das Mitführen von bleihaltigen Jagdkugelpatronen ist verboten. Davon ausgenommen ist Munition für den Fangschuss.
+
+#### Art. 21a
+
+**d) Schussdistanzen**
+
+<sup>1</sup> Die maximal erlaubten Schussdistanzen betragen für den Kugelschuss 200 Meter und für den Schuss mit Schrot oder Flintenlaufgeschossen 35 Meter.
+
+<sup>2</sup> Bei der maximalen Schussdistanz wird ein Schätzfehler von höchstens 10 Prozent toleriert.
+
 #### Art. 22
 
-**d) Jagd- und Schweisshunde**
+**e) Jagd- und Schweisshunde**
 
-<sup>1</sup> Für die laute Jagd verwendete Jagdhunde dürfen eine Risthöhe von höchstens 42 cm aufweisen.
+<sup>1</sup> Für die Jagd dürfen nur Jagdgebrauchshunde sowie Mischlinge innerhalb dieser Rassen verwendet werden.
 
-<sup>2</sup> Für die Nachsuche müssen auf Schweiss geprüfte Hunde eingesetzt werden.
+<sup>2</sup> Die für die Jagdausübung und zur Nachsuche eingesetzten Hunde müssen gemäss den Minimalstandards der technischen Kommission für das Jagdhundewesen (TKJ) der Arbeitsgemeinschaft für das Jagdhundewesen (AGJ) ausgebildet und geprüft sein. Über Ausnahmen entscheidet die Jagdverwaltung.
 
-<sup>3</sup> Die Jagdverwaltung kann die Verwendung von Jagd- und Schweisshunden verbieten, die für das Wild eine echte Bedrohung darstellen. Nötigenfalls verfügt sie deren entschädigungslose Beseitigung.
+<sup>3</sup> Die Jagdverwaltung kann die Verwendung von einzelnen ungeeigneten Jagd- und Schweisshunden verbieten. Im Zweifelsfall ordnet sie eine Eignungsprüfung an.
 
-<sup>4</sup> Die Jagdverwaltung erlässt in Zusammenarbeit mit den Jagdorganisationen ein Reglement über die Prüfung von Schweisshunden.
+<sup>4</sup> Die Jagdverwaltung erlässt in Zusammenarbeit mit den Jagdorganisationen ein Reglement über den Einsatz der Jagd- und Schweisshunde.
 
 #### Art. 23
 
-**e) Motorfahrzeuge, Fallen**
+**f) Motorfahrzeuge, Fallen**
 
 <sup>1</sup> Die Schussabgabe aus Motorfahrzeugen ist verboten.
 
@@ -293,21 +311,21 @@ verordnet:
 
 #### Art. 24
 
-**f) Ausgraben von Wild und Hunden**
+**g) Ausgraben von Wild und Hunden**
 
 <sup>1</sup> Das Ausgraben von Wild ist verboten. Angeschossenes Wild und im Bau gebliebene Hunde dürfen unter Mitteilung an eine Wildhüterin oder einen Wildhüter oder an die Jagdverwaltung ausgegraben werden. Die Wildhüterin oder der Wildhüter kontrolliert die ordentliche Wiederherstellung des Baus.
 
 #### Art. 25
 
-**g) Mithilfe Dritter, Personen in Jagdausbildung**
+**h) Mithilfe Dritter, Personen in Jagdausbildung**
 
-<sup>1</sup> Die Mithilfe von Drittpersonen ohne Jagdpatent ist unzulässig. Davon ausgenommen sind der Transport von Rucksäcken, Proviant, Kleidern und rechtmässig erlegtem Wild sowie das Führen von Hunden auf der Nachsuche.
+<sup>1</sup> Die Mithilfe von Drittpersonen ohne Jagdpatent ist unzulässig. Davon ausgenommen sind der Transport von Rucksäcken, Proviant, Kleidern und rechtmässig erlegtem Wild, das Führen von Hunden auf der Nachsuche sowie das Treiben auf geführten Treibjagden bei der Niederjagd.
 
 <sup>2</sup> Personen in Jagdausbildung dürfen als Begleiterinnen oder Begleiter auf die Jagd mitgehen und bei Treibjagden mitwirken. Sie dürfen selbst keine Abschüsse tätigen.
 
 #### Art. 26
 
-**h) Eigentum an erlegtem Wild**
+**i) Eigentum an erlegtem Wild**
 
 <sup>1</sup> Das Wild, welches eine Jägerin oder ein Jäger rechtmässig erlegt hat, steht ihr oder ihm als Eigentum zu.
 
@@ -317,7 +335,7 @@ verordnet:
 
 #### Art. 27
 
-**i) Schadenersatz**
+**j) Schadenersatz**
 
 <sup>1</sup> Das Departement Bau und Volkswirtschaft erlässt eine Liste über den bei widerrechtlichem Erlegen von Wild dem Staat geschuldeten Schadenersatz.
 
@@ -570,7 +588,7 @@ verordnet:
 
 <sup>2</sup> Er besteht aus einer Schiess- und einer Theorieprüfung.
 
-<sup>3</sup> Wer die Schiessprüfung nicht besteht, wird zur Theorieprüfung nicht zugelassen.
+<sup>3</sup> …
 
 #### Art. 51
 
@@ -667,6 +685,12 @@ verordnet:
 <sup>2</sup> Gegen Entscheide der Jagdprüfungskommission steht der Rekurs an den Regierungsrat offen. Es können nur Rechtsfehler gerügt werden; die Rüge der Unangemessenheit ist ausgeschlossen.
 
 ## VI. Schlussbestimmung
+
+#### Art. 57a
+
+**Übergangsbestimmung vom 25. Januar 2022**
+
+<sup>1</sup> Bis zum 31. März 2024 (Ende Jagdjahr 2023/2024) bleibt bleihaltige Jagdkugelmunition zulässig.
 
 #### Art. 58
 
