@@ -4,10 +4,10 @@ number: "700.8"
 title: Verordnung über den preisgünstigen Wohnraum (PWV)
 short: PWV
 language: de
-nachtrag: "107"
-valid_until: 2022-02-01
+version: "2022-02-01"
+nachtrag: "116"
 adopted: 2018-07-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_8-2018_07_11-2019_11_01-107.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_8-2018_07_11-2019_11_01-116.html"
 text: pdf
 ---
 
@@ -49,7 +49,7 @@ Diese Verordnung regelt für preisgünstigen Wohnraum a. die Grundsätze für di
 
 <sup>3</sup> Sie erläutern die Durchführbarkeit der festgelegten Mindestanteile in einem Bericht gemäss Art. 47 der Raumplanungsverordnung vom 28. Juni 2000[^2-1].
 
-[^2-1]: SR 700.1. 1. 1. 20 - 107 5
+[^2-1]: SR 700.1.
 
 ### B. Anforderungen an die Erstellung und Erneuerung
 
@@ -61,7 +61,7 @@ von preisgünstigem Wohnraum
 
 **1**
 
-- 1\. 1. 20 - 107 § 4. <sup>1</sup> Grundlage der für ein Bauvorhaben massgebenden Höchstwerte ist ein Punktesystem. Im Sinne von Richtwerten gelten für Zimmerzahl und Gesamtnettowohnfläche (GNF) einer Wohnung folgende Punkte:
+- 1\. 4. 22 - 116 § 4. <sup>1</sup> Grundlage der für ein Bauvorhaben massgebenden Höchstwerte ist ein Punktesystem. Im Sinne von Richtwerten gelten für Zimmerzahl und Gesamtnettowohnfläche (GNF) einer Wohnung folgende Punkte:
 
 **Höchstwerte**
 
@@ -141,7 +141,7 @@ Zimmerzahl ohne Küche und ohne Bad/WC-Räume 1½ 2 2½ 3 3½ 4 4½ 5 5½ 6 GNF 
 
 **3**
 
-- 1\. 1. 20 - 107
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Sie oder er muss die Mietzinse anpassen, wenn die Hypothekar-, Kapital- oder Baurechtszinsen seit der letzten Mietzinsgenehmigung um mindestens einen halben Prozentpunkt gesunken sind.
 
@@ -197,8 +197,6 @@ Zimmerzahl ohne Küche und ohne Bad/WC-Räume 1½ 2 2½ 3 3½ 4 4½ 5 5½ 6 GNF 
 
 <sup>2</sup> Sie lässt die Nebenbestimmungen im Grundbuch anmerken.
 
-#### § 14
+§ 14.[^13-1]
 
-**Gebäude- und Wohnungsregister**
-
-Die zum Vollzug notwendigen Informationen über preisgünstigen Wohnraum werden im kantonalen Gebäude- und Wohnungsregister (GWR-ZH) erfasst.
+[^13-1]: Aufgehoben durch RRB vom 27. Oktober 2021 (OS 77, 56; ABl 2021-11-05). In Kraft seit 1. Februar 2022. 1. 4. 22 - 116 5
