@@ -3,19 +3,19 @@ canton: FR
 number: "481.5.15"
 title: Arrêté concernant le Fonds Jean Tinguely–Niki de Saint Phalle
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2001-11-27
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/481.5.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5243/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7320/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Arrêté concernant le Fonds Jean Tinguely–Niki de Saint Phalle
 
-du 27.11.2001 (version entrée en vigueur le 01.01.2003)
+du 27.11.2001 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -58,7 +58,7 @@ Arrête:
 
 **Utilisation**
 
-<sup>1</sup> Le directeur ou la directrice du Musée d'art et d'histoire, en accord avec la Direction de l'instruction publique, de la culture et du sport, décide de l'utilisation du Fonds.
+<sup>1</sup> Le directeur ou la directrice du Musée d'art et d'histoire, en accord avec la Direction de la formation et des affaires culturelles, décide de l'utilisation du Fonds.
 
 #### Art. 4
 
