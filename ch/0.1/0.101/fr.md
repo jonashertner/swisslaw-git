@@ -4,11 +4,11 @@ title: "Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des
 short: CEDH
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151"
 language: fr
-version: 2021-08-01
+version: 2022-02-01
 adopted: 1950-11-04
 in_force: 1974-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20220201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -21,7 +21,7 @@ Texte original
 
 Conclue à Rome le 4 novembre 1950 Approuvée par l’Assemblée fédérale le 3 octobre 1974[^t-2] Instrument de ratification déposé par la Suisse le 28 novembre 1974 Entrée en vigueur pour la Suisse le 28 novembre 1974
 
-(Etat le 1<sup>er</sup> août 2021)
+(Etat le 1<sup>er</sup> février 2022)
 
 [^t-1]: Les Am. du 13 mai 2004 ([RS 0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377); [RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)) et du 24 juin 2013 (RS **0.101.95**; [RO 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461)) ont été insérés dans le Prot. Ces Am. ne régissent que les rapports entre les États les ayant ratifiés. Voir par conséquent leurs champs d’application dans les textes RS cités entre parenthèse.
 [^t-2]: Art. 1 al. 1 let. a de l’AF du 3 oct. 1974 ([RO 1974 2148](https://fedlex.data.admin.ch/eli/oc/1974/2148_2148_2148))
@@ -403,7 +403,7 @@ La Cour peut être saisie d’une requête par toute personne physique, toute or
 
 **Conditions de recevabilité**
 
-<sup>1.</sup> La Cour ne peut être saisie qu’après l’épuisement des voies de recours internes, tel qu’il est entendu selon les principes de droit international généralement reconnus, et dans un délai de six mois à partir de la date de la décision interne définitive.
+<sup>1.</sup> La Cour ne peut être saisie qu’après l’épuisement des voies de recours internes, tel qu’il est entendu selon les principes de droit international généralement reconnus, et dans un délai de quatre[^35-1] mois à partir de la date de la décision interne définitive.
 
 <sup>2.</sup> La Cour ne retient aucune requête individuelle introduite en application de l’art. 34, lorsque
 
@@ -415,12 +415,13 @@ La Cour peut être saisie d’une requête par toute personne physique, toute or
 La Cour déclare irrecevable toute requête individuelle introduite en application de l’art. 34 lorsqu’elle estime:
 
 - a) que la requête est incompatible avec les dispositions de la Convention ou de ses Protocoles, manifestement mal fondée ou abusive;
-- b)[^35-1] que le requérant n’a subi aucun préjudice important, sauf si le respect des droits de l’homme garantis par la Convention et ses Protocoles exige un examen de la requête au fond ...[^35-2].
+- b)[^35-2] que le requérant n’a subi aucun préjudice important, sauf si le respect des droits de l’homme garantis par la Convention et ses Protocoles exige un examen de la requête au fond ...[^35-3].
 
 <sup>4.</sup> La Cour rejette toute requête qu’elle considère comme irrecevable par application du présent article. Elle peut procéder ainsi à tout stade de la procédure.
 
-[^35-1]: Nouvelle teneur selon l’art. 12 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
-[^35-2]: Partie de la phrase abrogée par l’art. 5 du prot. n<sup>o</sup> 15 du 24 juin 2013, approuvé par l’Ass. féd. le 18 mars 2016 et avec effet pour la Suisse au 1<sup>er</sup> août 2021 ([RO 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 2137](https://fedlex.data.admin.ch/eli/fga/2015/479)).
+[^35-1]: Nouvelle expression selon l’art. 4 du prot. n<sup>o</sup> 15 du 24 juin 2013, approuvé par l’Ass. féd. le 18 mars 2016 et en vigueur pour la Suisse depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 2137](https://fedlex.data.admin.ch/eli/fga/2015/479)).
+[^35-2]: Nouvelle teneur selon l’art. 12 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^35-3]: Partie de la phrase abrogée par l’art. 5 du prot. n<sup>o</sup> 15 du 24 juin 2013, approuvé par l’Ass. féd. le 18 mars 2016 et avec effet pour la Suisse au 1<sup>er</sup> août 2021 ([RO 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 2137](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 36
 

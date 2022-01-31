@@ -4,11 +4,11 @@ title: Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundf
 short: EMRK
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151"
 language: de
-version: 2021-08-01
+version: 2022-02-01
 adopted: 1950-11-04
 in_force: 1974-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20210801/de/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220201/de/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20220201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -27,7 +27,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 28. November 1974
 
 In Kraft getreten für die Schweiz am 28. November 1974
 
-(Stand am 1. August 2021)
+(Stand am 1. Februar 2022)
 
 [^t-1]: Die Änd. vom 13. Mai 2004 ([SR 0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377); [AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)) und 24. Juni 2013 ([SR 0.101.095](https://fedlex.data.admin.ch/eli/cc/2021/461); [AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
 [^t-2]: Bereinigte Übersetzung der EMRK unter Berücksichtigung des Prot. Nr. 11 (zwischen Deutschland, Liechtenstein, Österreich und der Schweiz abgestimmte Fassung). Der französische Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung. Der englische Originaltext kann beim Bundesamt für Bauten und Logistik, BBL, 3000 Bern, bezogen werden ([AS 1975 614](https://fedlex.data.admin.ch/eli/oc/1975/614_614_614)).
@@ -408,7 +408,7 @@ Der Gerichtshof kann von jeder natürlichen Person, nichtstaatlichen Organisatio
 
 **Zulässigkeitsvoraussetzungen**
 
-<sup>(1)</sup> Der Gerichtshof kann sich mit einer Angelegenheit erst nach Erschöpfung aller innerstaatlichen Rechtsbehelfe in Übereinstimmung mit den allgemein anerkannten Grundsätzen des Völkerrechts und nur innerhalb einer Frist von sechs Monaten nach der endgültigen innerstaatlichen Entscheidung befassen.
+<sup>(1)</sup> Der Gerichtshof kann sich mit einer Angelegenheit erst nach Erschöpfung aller innerstaatlichen Rechtsbehelfe in Übereinstimmung mit den allgemein anerkannten Grundsätzen des Völkerrechts und nur innerhalb einer Frist von vier[^35-1] Monaten nach der endgültigen innerstaatlichen Entscheidung befassen.
 
 <sup>(2)</sup> Der Gerichtshof befasst sich nicht mit einer nach Artikel 34 erhobenen Individualbeschwerde, die
 
@@ -420,12 +420,13 @@ Der Gerichtshof kann von jeder natürlichen Person, nichtstaatlichen Organisatio
 Der Gerichtshof erklärt eine nach Artikel 34 erhobene Individualbeschwerde für unzulässig:
 
 - a) wenn er sie für unvereinbar mit dieser Konvention oder den Protokollen dazu, für offensichtlich unbegründet oder für missbräuchlich hält; oder
-- b)[^35-1] wenn er der Ansicht ist, dass dem Beschwerdeführer kein erheblicher Nachteil entstanden ist, es sei denn, die Achtung der Menschenrechte, wie sie in dieser Konvention und den Protokollen dazu anerkannt sind, erfordert eine Prüfung der Begründetheit der Beschwerde, ...[^35-2].
+- b)[^35-2] wenn er der Ansicht ist, dass dem Beschwerdeführer kein erheblicher Nachteil entstanden ist, es sei denn, die Achtung der Menschenrechte, wie sie in dieser Konvention und den Protokollen dazu anerkannt sind, erfordert eine Prüfung der Begründetheit der Beschwerde, ...[^35-3].
 
 <sup>(4)</sup> Der Gerichtshof weist eine Beschwerde zurück, die er nach diesem Artikel für unzulässig hält. Er kann dies in jedem Stadium des Verfahrens tun.
 
-[^35-1]: Fassung gemäss Art. 12 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 und in Kraft seit 1. Juni 2010 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)).
-[^35-2]: Satzteil aufgehoben durch Art. 5 des Prot. Nr. 15 vom 24. Juni 2013, von der BVers genehmigt am 18. März 2016 und mit Wirkung für die Schweiz seit 1. Aug. 2021 ([AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [BBl 2015 2347](https://fedlex.data.admin.ch/eli/fga/2015/479)).
+[^35-1]: Ausdruck gemäss Art. 4 des Prot. Nr. 15 vom 24. Juni 2013, von der BVers genehmigt am 18. März 2016 und in Kraft für die Schweiz seit 1. Febr. 2022 ([AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [BBl 2015 2347](https://fedlex.data.admin.ch/eli/fga/2015/479)).
+[^35-2]: Fassung gemäss Art. 12 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 und in Kraft seit 1. Juni 2010 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^35-3]: Satzteil aufgehoben durch Art. 5 des Prot. Nr. 15 vom 24. Juni 2013, von der BVers genehmigt am 18. März 2016 und mit Wirkung für die Schweiz seit 1. Aug. 2021 ([AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [BBl 2015 2347](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 36
 

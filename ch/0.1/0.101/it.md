@@ -4,11 +4,11 @@ title: "Convenzione del 4 novembre 1950 per la salvaguardia dei diritti dell'uom
 short: CEDU
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151"
 language: it
-version: 2021-08-01
+version: 2022-02-01
 adopted: 1950-11-04
 in_force: 1974-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20210801/it/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220201/it/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20220201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -27,7 +27,7 @@ Istrumento di ratificazione depositato dalla Svizzera il 28 novembre 1974
 
 Entrata in vigore per la Svizzera il 28 novembre 1974
 
-(Stato 1° agosto 2021)
+(Stato 1° febbraio 2022)
 
 [^t-1]: Gli emendamenti del 13 mag. 2004 ([[RS](https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/de) 0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377); [RU 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)) e del 24 giu. 2013 ([[RS](https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/de) 0.101.095](https://fedlex.data.admin.ch/eli/cc/2021/461); [RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461)) sono inseriti nella presente Convenzione. Questi emendamenti sono in vigore solo nei rapporti tra gli Stati che li hanno ratificati. Vedi dunque il campo d’applicazione dei rispettivi Protocolli.
 [^t-2]: Art. 1 cpv. 1 lett. a del DF del 3 ott. 1974 ([RU 1974 2148](https://fedlex.data.admin.ch/eli/oc/1974/2148_2148_2148)).
@@ -409,7 +409,7 @@ La Corte può essere adita per ricorsi presentati da ogni persona fisica, ogni o
 
 **Criteri di ricevibilità**
 
-<sup>1.</sup> Una questione può essere rimessa alla Corte solo dopo l’esaurimento di tutte le vie di ricorso interne, qual è inteso secondo i principi di diritto internazionale generalmente riconosciuti, ed entro un periodo di sei mesi dalla data della decisione interna definitiva.
+<sup>1.</sup> Una questione può essere rimessa alla Corte solo dopo l’esaurimento di tutte le vie di ricorso interne, qual è inteso secondo i principi di diritto internazionale generalmente riconosciuti, ed entro un periodo di quattro[^35-1] mesi dalla data della decisione interna definitiva.
 
 <sup>2.</sup>
 
@@ -423,12 +423,13 @@ La Corte non prende in considerazione alcun ricorso individuale presentato in vi
 La Corte dichiara irricevibile ogni ricorso individuale presentato in virtù dell’articolo 34 qualora:
 
 - a) lo ritenga incompatibile con le disposizioni della Convenzione o dei suoi Protocolli, o manifestamente infondato o abusivo; o
-- b)[^35-1] il ricorrente non abbia subito alcun pregiudizio significativo, a meno che il rispetto dei diritti dell’uomo garantiti dalla Convenzione e dai suoi Protocolli non esiga l’esame del merito del ricorso ...[^35-2].
+- b)[^35-2] il ricorrente non abbia subito alcun pregiudizio significativo, a meno che il rispetto dei diritti dell’uomo garantiti dalla Convenzione e dai suoi Protocolli non esiga l’esame del merito del ricorso ...[^35-3].
 
 <sup>4.</sup> La Corte respinge tutti i ricorsi irricevibili ai sensi del presente articolo. Può procedere in tal senso in ogni fase della procedura.
 
-[^35-1]: Nuovo testo giusta l’art. 12 del Prot. n. 14 del 13 mag. 2004, approvato dall’AF il 16 dic. 2005, in vigore dal 1° giu. 2010 ([RU 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1913](https://fedlex.data.admin.ch/eli/fga/2005/260)).
-[^35-2]: Locuzione abrogata dall’art. 5 del Prot. n. 15 del 24 giu. 2013, approvato dall’AF il 18 mar. 2016, con effetto per la Svizzera il 1° ago. 2021 ([RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 1935](https://fedlex.data.admin.ch/eli/fga/2015/479)).
+[^35-1]: Nuova locuzione giusta l’art. 4 del Prot. n. 15 del 24 giu. 2013, approvato dall’AF il 18 mar. 2016, in vigore per la Svizzera il 1° feb. 2022 ([RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 1935](https://fedlex.data.admin.ch/eli/fga/2015/479)).
+[^35-2]: Nuovo testo giusta l’art. 12 del Prot. n. 14 del 13 mag. 2004, approvato dall’AF il 16 dic. 2005, in vigore dal 1° giu. 2010 ([RU 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1913](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^35-3]: Locuzione abrogata dall’art. 5 del Prot. n. 15 del 24 giu. 2013, approvato dall’AF il 18 mar. 2016, con effetto per la Svizzera il 1° ago. 2021 ([RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 1935](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 36
 
