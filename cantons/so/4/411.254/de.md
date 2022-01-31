@@ -4,13 +4,12 @@ number: "411.254"
 title: Verordnung zum Register über die Gesundheitsfachpersonen NAREG
 short: NAREG-VO
 language: de
-version: 2018-06-28
-valid_until: 2022-01-31
-version_adopted: 2018-06-28
+version: 2022-02-01
+version_adopted: 2021-10-21
 adopted: 2015-10-22
 in_force: 2017-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/411.254"
-pdf: "https://bgs.so.ch/api/de/versions/5246/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5247/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.so.ch/api/de/versions/5246/pdf_file"
 
 (NAREG-VO)
 
-Vom 22.10.2015 (Stand 28.06.2018)
+Vom 22.10.2015 (Stand 01.02.2022)
 
 Der Vorstand der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK)
 
-Gestützt auf Artikel 12<sup>ter</sup> der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 (IKV)[^ingress-1]
+gestützt auf Artikel 12<sup>ter</sup> der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 (IKV)[^ingress-1]
 
 beschliesst:
 
@@ -47,9 +46,17 @@ beschliesst:
 
 <sup>1</sup> Das Schweizerische Rote Kreuz (SRK) führt den administrativen Betrieb des NAREG im Auftrag der GDK.
 
-<sup>2</sup> Es koordiniert seine Tätigkeiten mit den Stellen, die die zur Erreichung seines Zwecks im NAREG einzutragenden Daten liefern.
+<sup>2</sup> Es koordiniert seine Tätigkeiten mit den Stellen, die die zur Erreichung seines Zwecks im NAREG einzutragenden Daten liefern, sowie mit den Nutzerinnen und Nutzern der Standardschnittstelle.
 
-<sup>3</sup> Es erteilt die individuellen Bearbeitungsrechte und Initialpasswörter für das NAREG.
+<sup>3</sup> Es erteilt die individuellen Bearbeitungsrechte und Initialpasswörter für das NAREG sowie für die Nut-zung der Standardschnittstelle.
+
+<sup>4</sup> Die Einzelheiten regeln die GDK und das SRK in einem Leistungsvertrag über die Registerführung.
+
+#### Art. 2bis
+
+**Aufsicht**
+
+<sup>1</sup> Die GDK beaufsichtigt die Registerführung des SRK. Zu diesem Zweck erstattet das SRK der GDK einmal jährlich einen Bericht über seine Tätigkeit.
 
 ## 2. Abschnitt: Datenlieferung
 
@@ -78,10 +85,14 @@ beschliesst:
 - e. Korrespondenzsprache
 - f. Heimatort(e)
 - g. Nationalität(en)
-- h. Beruf und Ausbildungsabschlusstyp mit Datum, Ort und Land der Erteilung
-- i. Anerkannter/nachgeprüfter ausländischer Ausbildungsabschluss mit Datum, Ort und Land der Ausstellung und Datum der Anerkennung
+- h. Beruf und Ausbildungsabschlusstyp mit Datum und Land der Erteilung
+- i. anerkannter/nachgeprüfter ausländischer Ausbildungsabschluss mit Datum und Land der Ausstellung und Datum der Anerkennung/Nachprüfung
 - j. Datum der Registrierung und Registrierungsnummer
 - k. Sterbedatum
+- l. die Angabe, ob besonders schützenswerte Personendaten nach Artikel 5 Absatz 2 vorhanden sind
+- m. den Vermerk «gelöscht» nach Artikel 12<sup>ter</sup> Absatz 9 Satz 4 IKV sowie das Datum des Vermerks
+
+<sup>3</sup> Es legt die besonders schützenswerten Personendaten nach Artikel 5 Absatz 2 in einem vom restlichen NAREG getrennten sicheren Bereich ab.
 
 [^4-1]: Bundesgesetz über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen v. 14.12.2012, SR 935.01.
 [^4-2]: BGS [411.251.](https://bgs.so.ch/data/411.251./de)
@@ -92,18 +103,34 @@ beschliesst:
 
 <sup>1</sup> Die zuständigen kantonalen Behörden tragen folgende Informationen zur Berufsausübung ins NAREG ein (Artikel 12<sup>ter</sup> Absatz 6 Satz 2 IKV[^5-1]:
 
-- a. den Kanton, der die Berufsausübungsbewilligung erteilt hat (Bewilligungskanton)
+- a. den Kanton, der die Berufsausübungsbewilligung erteilt hat (Bewilligungskanton), und die Rechtsgrundlage der Bewilligung
 - b. das Datum einer allfälligen Befristung der Berufsausübungsbewilligung
 - c. den Bewilligungsstatus (erteilt, eingeschränkt, verweigert, entzogen, abgemeldet) mit dem entsprechenden Datum
-- d. die Praxis- bzw. Betriebsadresse (Name, Strasse, PLZ, Ort) sowie fakultativ Telefon- und Faxnummer, E-Mail-Adresse
-- e. das Datum der Praxis- bzw. Betriebseröffnung sowie der Praxis- bzw. Betriebsaufgabe (fakultativ)
-- f. vorhandene Auflagen oder Einschränkungen zu den Berufsausübungsbewilligungen (fachlich, räumlich oder zeitlich) mit Datum der Verfügung und Datum allfälliger Befristung der Auflagen oder Einschränkungen
-- g. ob und in welchem Kanton zu einer Person besonders schützenswerte Daten vorliegen gemäss Artikel 12<sup>ter</sup> Absatz 7 Satz 2 IKV
-- h. den Vermerk „gelöscht“ gemäss Artikel 12<sup>ter</sup> Absatz 9 Satz 4 IKV
-- i. Dienstleistungserbringende, die sich nach dem BGMD gemeldet haben und ihre Tätigkeit ausüben dürfen:
+- d. die Praxis- bzw. Betriebsadresse (Name, Strasse, PLZ, Ort) sowie fakultativ Telefonnummer und E-Mail-Adresse
+- e. ...
+- f. vorhandene Auflagen oder Einschränkungen zu den Berufsausübungsbewilligungen (fachlich, räumlich oder zeitlich) und deren Beschreibung mit Datum der Verfügung und Datum allfälliger Befristung der Auflagen oder Einschränkungen
+- g. ...
+- h. ...
+- i. Dienstleistungserbringende, die sich nach dem BGMD gemeldet haben und ihre Tätigkeit aus-üben dürfen:
   - 1\. Meldekantone und -datum und Kalenderjahr
   - 2\. Start- und Enddatum und Anzahl bewilligter Tage (fakultativ)
-  - 3\. Praxis- bzw. Betriebsadresse
+  - 3\. die Tatsache, dass die Dienstleistungserbringerin oder der -erbringer die 90 Tage im entsprechenden Kalenderjahr ausgeschöpft hat
+  - 4\. Praxis- bzw. Betriebsadresse (Name, Strasse, PLZ, Ort) sowie fakultativ Telefonnummer und E-Mail-Adresse
+- j. die Angabe, ob es sich bei der Praxis oder dem Betrieb um ein Einzelunternehmen handelt oder nicht
+- k. fakultativ die Rechtsform der juristischen Person sowie deren Unternehmensidentifikations-Nummer (UID)
+
+<sup>2</sup> Sie melden dem SRK gestützt auf Artikel 12<sup>ter</sup> Absatz 6 Satz 2 IKV ohne Verzug folgende besonders schützenswerten Personendaten:
+
+- a. die aufgehobenen Einschränkungen mit Datum der Aufhebung
+- b. die Gründe für die Verweigerung der Bewilligung oder für deren Entzug
+- c. Verwarnungen mit Grund und Datum des Entscheids
+- d. Verweise mit Grund und Datum des Entscheids
+- e. die Erteilung von Bussen mit Grund und Datum des Entscheids sowie die Höhe der Busse
+- f. befristete Verbote der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids sowie Beginn und Ende des Verbots
+- g. definitive Verbote der Berufsausübung in eigener fachlicher Verantwortung mit Grund und Datum des Entscheids
+- h. andere aufsichtsrechtliche Massnahmen mit Grund und Datum des Entscheids
+
+<sup>3</sup> Sie melden dem SRK ohne Verzug das Todesdatum einer Gesundheitsfachperson.
 
 [^5-1]: BGS [411.251.](https://bgs.so.ch/data/411.251./de)
 
@@ -164,43 +191,64 @@ beschliesst:
 
 <sup>1</sup> Öffentlich zugänglich sind:
 
-- 1\. Daten gemäss Artikel 4 Absatz 2
-- 2\. Daten gemäss Artikel 5 Buchstaben a. – e., i.
+- 1\. Daten gemäss Artikel 4 Absatz 2 Buchstaben a – k
+- 2\. Daten gemäss Artikel 5 Absatz 1
 - 3\. Daten gemäss Artikel 7
-- 4\. Daten gemäss Artikel 8
+- 4\. Daten gemäss Artikel 8.
 
-<sup>2</sup> Die Daten gemäss Artikel 4 Absatz 2 Buchstaben c., e., f., k. einschliesslich der Erteilungsort gemäss Buchstaben h., und i., die Daten gemäss Artikel 5 Buchstabe e, Start- und Enddatum und Anzahl bewilligter Tage (Buchstabe i.) sowie die E-Mail-Adresse (Buchstabe d.) werden nur auf Anfrage bekannt gegeben.
+<sup>2</sup> Die Daten gemäss Artikel 4 Absatz 2 Buchstaben c, e, f und k sowie die Daten gemäss Artikel 5 Absatz 1 Buchstaben b, d (E-Mail-Adresse), f (Beschreibung), i (Start- und Enddatum und Anzahl bewilligter Tage; E-Mail-Adresse), j und k (Rechtsform) werden nur auf Anfrage bekannt gegeben.
 
 #### Art. 11bis
 
 **Zugang über eine Standardschnittstelle**
 
-<sup>1</sup> Das SRK ermöglicht folgenden Nutzerinnen und Nutzern den Zugang zu den öffentlich zugänglichen Daten über eine Standardschnittstelle:
+<sup>1</sup> Den folgenden Nutzerinnen und Nutzern wird ein Zugang zu den öffentlich zugänglichen Daten über eine Standardschnittstelle gewährt:
 
-- a. den Datenlieferantinnen und -lieferanten gemäss Artikel 5-8
+- a. den Datenlieferantinnen und -lieferanten gemäss Art. 5-8
 - b. den öffentlichen und privaten Stellen, die mit der Durchführung von gesetzlichen Aufgaben betraut sind oder eine Aufgabe im öffentlichen Interesse erfüllen, die dem Zweck des NAREG entspricht.
 
 <sup>2</sup> Die Datenlieferantinnen und -lieferanten erhalten über die Standardschnittstelle nur zu denjenigen Daten Zugang, die die im NAREG erfassten Gesundheitsfachpersonen in ihrem Aufgabengebiet betreffen und für die Erfüllung ihrer Aufgaben im Rahmen der IKV[^11bis-1] erforderlich sind.
 
-<sup>3</sup> Die öffentlichen und privaten Stellen erhalten über die Standardschnittstelle nur zu denjenigen Daten Zugang, die die im NAREG erfassten Gesundheitsfachpersonen in ihrem Aufgabengebiet betreffen und für die Erfüllung ihrer Aufgaben erforderlich sind. Der Zugang wird nur auf schriftlichen Antrag hin und gegen Gebühr gewährt. Auf das Verfahren finden die bundesrechtlichen Vorschriften über das Verwaltungsverfahren6 sinngemäss Anwendung.
+<sup>3</sup> Die öffentlichen und privaten Stellen erhalten über die Standardschnittstelle nur zu denjenigen Daten Zugang, die die im NAREG erfassten Gesundheitsfachpersonen in ihrem Aufgabengebiet betreffen und für die Erfüllung ihrer Aufgaben erforderlich sind. Die GDK entscheidet auf schriftlichen Antrag hin und gegen Gebühr über den Zugang. Auf das Verfahren finden die bundesrechtlichen Vorschriften über das Verwaltungsverfahren[^11bis-2] sinngemäss Anwendung.
 
-<sup>4</sup> Das SRK veröffentlicht im Internet eine Liste der Stellen nach Absatz 1 Buchstabe b, die Zugang zu den öffentlich zugänglichen Daten über eine Standardschnittstelle erhalten.
+<sup>4</sup> Das SRK veröffentlicht im Internet eine Liste der Stellen nach Absatz 1 Buchstabe b, denen der Zugang über die Standardschnittstelle gewährt wurde.
 
 [^11bis-1]: BGS 411.251.
+[^11bis-2]: Verwaltungsverfahrensgesetz (VwVG) vom 20. Dezember 1968, SR 172.021.
 
 #### Art. 12
 
-**Bekanntgabe der besonders schützenswerten Daten**
+**Bekanntgabe der besonders schützenswerten Daten an die zuständigen Behörden**
 
-<sup>1</sup> Daten zu Artiktel 5 Buchstaben. f., g. und h. stehen als besonders schützenswerte Personendaten nur den für die Erteilung von Berufsausübungsbewilligungen und den für die Aufsicht zuständigen kantonalen Behörden zur Verfügung.
+<sup>1</sup> Daten zu Artikel 4 Absatz 2 Buchstaben l und m sowie Daten zu Artikel 5 Absatz 2 stehen als besonders schützenswerte Personendaten nur den für die Erteilung von Berufsausübungsbewilligungen und den für die Aufsicht zuständigen kantonalen Behörden zur Verfügung.
 
-<sup>2</sup> Das SRK erteilt den betroffenen Gesundheitsfachpersonen auf schriftlichen Antrag Auskunft über die zu ihrer Person im NAREG eingetragenen besonders schützenswerten Daten.
+<sup>2</sup> Der Antrag auf Auskunft über die besonders schützenswerten Personendaten nach Artikel 5 Absatz 2 muss elektronisch innerhalb des NAREG gestellt werden.
+
+<sup>3</sup> Das SRK gibt den zuständigen Behörden die beantragten besonders schützenswerten Personendaten nach Artikel 5 Absatz 2 über eine sichere Verbindung bekannt.
+
+#### Art. 12bis
+
+**Bekanntgabe der besonders schützenswerten Daten an die betroffene Gesundheitsfachperson**
+
+<sup>1</sup> Jede im NAREG eingetragene Gesundheitsfachperson kann beim SRK schriftlich Auskunft über Einträge von besonders schützenswerten Personendaten gemäss Artikel 5 Absatz 2 zu ihrer Person beantragen.
+
+<sup>2</sup> Will sie den Antrag elektronisch stellen, so muss sie beim SRK einen Benutzernamen und ein Passwort beantragen.
+
+<sup>3</sup> Das SRK gibt der betroffenen Gesundheitsfachperson die beantragten besonders schützenswerten Personendaten nach Artikel 5 Absatz 2 über eine sichere Verbindung bekannt.
 
 #### Art. 13
 
 **Bekanntgabe der AHV-Versichertennummer**
 
 <sup>1</sup> Die AHV-Versichertennummer steht nur dem SRK sowie den für die Erteilung der Berufsausübungsbewilligungen zuständigen kantonalen Behörden zur Verfügung.
+
+### 5. Abschnitt Datensicherheit
+
+#### Art. 13bis
+
+**Datensicherheit**
+
+<sup>1</sup> Alle am NAREG beteiligten Stellen treffen die organisatorischen und technischen Massnahmen, die nach den datenschutzrechtlichen Bestimmungen erforderlich sind, damit ihre Daten vor Verlust und gegen jegliche unbefugte Bearbeitung, Kenntnisnahme oder Entwendung geschützt sind.
 
 #### Art. 14
 
