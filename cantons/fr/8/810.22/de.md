@@ -3,20 +3,19 @@ canton: FR
 number: "810.22"
 title: Beschluss zur Genehmigung der kantonalen Abfallplanung
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-11-14
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 1994-04-19
 in_force: 1994-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/5446/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7397/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss zur Genehmigung der kantonalen Abfallplanung
 
-vom 19.04.1994 (Fassung in Kraft getreten am 01.01.2003)
+vom 19.04.1994 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg[^ingress-1]
 
@@ -42,7 +41,7 @@ beschliesst:
 
 #### Art. 3
 
-<sup>1</sup> Sofern nichts anderes bestimmt wird, ist die Raumplanungs-, Umwelt- und Baudirektion die planausführende Behörde.
+<sup>1</sup> Sofern nichts anderes bestimmt wird, ist die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt die planausführende Behörde.
 
 #### Art. 4
 

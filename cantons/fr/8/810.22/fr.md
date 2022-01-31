@@ -3,20 +3,19 @@ canton: FR
 number: "810.22"
 title: Arrêté approuvant le plan cantonal de gestion des déchets
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-11-14
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 1994-04-19
 in_force: 1994-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5446/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7397/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Arrêté approuvant le plan cantonal de gestion des déchets
 
-du 19.04.1994 (version entrée en vigueur le 01.01.2003)
+du 19.04.1994 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg[^ingress-1]
 
@@ -42,7 +41,7 @@ Arrête:
 
 #### Art. 3
 
-<sup>1</sup> A défaut d'autres dispositions, la Direction de l'aménagement, de l'environnement et des constructions est l'autorité d'exécution du plan.
+<sup>1</sup> A défaut d'autres dispositions, la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement est l'autorité d'exécution du plan.
 
 #### Art. 4
 
