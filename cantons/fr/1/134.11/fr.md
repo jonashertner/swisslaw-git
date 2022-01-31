@@ -4,13 +4,13 @@ number: "134.11"
 title: "Ordonnance sur la médiation en matière civile, pénale et pénale pour les mineurs"
 short: OMed
 language: fr
-version: 2016-01-01
-valid_until: 2022-01-31
-version_adopted: 2015-12-07
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 2010-12-06
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/134.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5079/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7247/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Médiation en matière civile, pénale et pénale pour les mineurs – O
 
 (OMed)
 
-du 06.12.2010 (version entrée en vigueur le 01.01.2016)
+du 06.12.2010 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -55,14 +55,14 @@ Arrête:
 
 <sup>1</sup> Une Commission de la médiation en matière civile, pénale et pénale pour les mineurs (ci-après: la Commission) est instituée par le Conseil d'Etat. Elle est composée:
 
-- a) du conseiller d'Etat-Directeur ou de la conseillère d'Etat-Directrice de la sécurité et de la justice, qui la préside;
+- a) du conseiller d'Etat-Directeur ou de la conseillère d'Etat-Directrice de la sécurité, de la justice et du sport, qui la préside;
 - b) de deux magistrats ou magistrates du Pouvoir judiciaire et de deux suppléants ou suppléantes;
 - c) de deux médiateurs ou médiatrices et de deux suppléants ou suppléantes;
 - d) d'une personne représentant l'Ordre des avocats fribourgeois et d'un suppléant ou d'une suppléante.
 
 <sup>2</sup> La Commission est nommée pour une période administrative conformément à la législation sur la durée des fonctions publiques accessoires.
 
-<sup>3</sup> Elle est rattachée administrativement à la Direction de la sécurité et de la justice. Son secrétariat est assuré par le Service de la justice.
+<sup>3</sup> Elle est rattachée administrativement à la Direction de la sécurité, de la justice et du sport. Son secrétariat est assuré par le Service de la justice.
 
 <sup>4</sup> Pour le surplus, l'organisation et le fonctionnement de la Commission sont régis par le règlement du 31 octobre 2005 sur l'organisation et le fonctionnement des commissions de l'Etat.
 

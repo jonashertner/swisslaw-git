@@ -4,13 +4,13 @@ number: "134.11"
 title: "Verordnung über die Mediation in Zivil-, Straf- und Jugendstrafsachen"
 short: MedV
 language: de
-version: 2016-01-01
-valid_until: 2022-01-31
-version_adopted: 2015-12-07
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 2010-12-06
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/134.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5079/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7247/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Mediation in Zivil-, Straf- und Jugendstrafsachen – V
 
 (MedV)
 
-vom 06.12.2010 (Fassung in Kraft getreten am 01.01.2016)
+vom 06.12.2010 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -55,14 +55,14 @@ beschliesst:
 
 <sup>1</sup> Es wird eine Kommission für Mediation in Zivil-, Straf- und Jugendstrafsachen (die Kommission) durch den Staatsrat eingesetzt. Ihr gehören an:
 
-- a) die Vorsteherin oder der Vorsteher der Sicherheits- und Justizdirektion als Präsidentin oder Präsident;
+- a) die Vorsteherin oder der Vorsteher der Sicherheits-, Justiz- und Sportdirektion als Präsidentin oder Präsident;
 - b) zwei Magistratinnen oder Magistraten der richterlichen Gewalt und zwei Ersatzrichterinnen oder Ersatzrichter;
 - c) zwei Mediatorinnen oder Mediatoren und zwei Stellvertretungen;
 - d) eine Vertreterin oder ein Vertreter des Freiburger Anwaltsverbandes und eine Stellvertretung.
 
 <sup>2</sup> Die Kommission wird für eine Amtsperiode gemäss der Gesetzgebung über die Dauer der öffentlichen Nebenämter ernannt.
 
-<sup>3</sup> Sie ist der Sicherheits- und Justizdirektion administrativ zugewiesen. Das Amt für Justiz führt ihr Sekretariat.
+<sup>3</sup> Sie ist der Sicherheits-, Justiz- und Sportdirektion administrativ zugewiesen. Das Amt für Justiz führt ihr Sekretariat.
 
 <sup>4</sup> Im Übrigen richten sich Organisation und Arbeitsweise nach dem Reglement vom 31. Oktober 2005 über die Organisation und die Arbeitsweise der Kommissionen des Staates.
 
