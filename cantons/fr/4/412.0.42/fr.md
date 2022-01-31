@@ -3,13 +3,12 @@ canton: FR
 number: "412.0.42"
 title: Arrêté sur les indemnités dues aux membres des jurys des examens finals des écoles du secondaire du deuxième degré
 language: fr
-version: 2016-07-01
-valid_until: 2022-01-31
-version_adopted: 2016-04-19
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1989-11-20
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.42"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5169/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7293/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5169/pdf_file"
 
 Ecoles du secondaire du deuxième degré, indemnités des jurys – A
 
-du 20.11.1989 (version entrée en vigueur le 01.07.2016)
+du 20.11.1989 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -52,7 +51,7 @@ Arrête:
 
 #### Art. 1
 
-<sup>1</sup> Reçoivent une indemnité les membres du jury des examens pour l'octroi du diplôme ou du certificat final délivré par les écoles du secondaire du deuxième degré dépendant de la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction), à l'exception des enseignants examinateurs et des enseignantes examinatrices, ainsi que les personnes surveillant ces examens, dans la mesure où celles-ci ne sont pas des personnes enseignantes libérées de leurs cours en raison de la session d'examens.
+<sup>1</sup> Reçoivent une indemnité les membres du jury des examens pour l'octroi du diplôme ou du certificat final délivré par les écoles du secondaire du deuxième degré dépendant de la Direction de la formation et des affaires culturelles (ci-après: la Direction), à l'exception des enseignants examinateurs et des enseignantes examinatrices, ainsi que les personnes surveillant ces examens, dans la mesure où celles-ci ne sont pas des personnes enseignantes libérées de leurs cours en raison de la session d'examens.
 
 <sup>2</sup> Le montant de l'indemnité est calculé comme il suit:
 

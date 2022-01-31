@@ -3,13 +3,12 @@ canton: FR
 number: "412.0.42"
 title: Beschluss über die Entschädigungen der Mitglieder der Kommissionen für die Schlussprüfungen an den Schulen der Sekundarstufe 2
 language: de
-version: 2016-07-01
-valid_until: 2022-01-31
-version_adopted: 2016-04-19
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1989-11-20
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.42"
-pdf: "https://bdlf.fr.ch/api/de/versions/5169/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7293/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5169/pdf_file"
 
 Sekundarstufe 2, Entschädigungen für die Prüfungsabnahme – B
 
-vom 20.11.1989 (Fassung in Kraft getreten am 01.07.2016)
+vom 20.11.1989 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -52,7 +51,7 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Folgende Personen erhalten eine Entschädigung: die Mitglieder der Kommissionen für die Schlussprüfungen der von der Direktion für Erziehung, Kultur und Sport (die Direktion) abhängigen Schulen der Sekundarstufe 2, mit Ausnahme der Lehrerinnen-Examinatorinnen und der Lehrer-Examinatoren, sowie die Aufsichtspersonen an diesen Prüfungen, sofern es sich nicht um Lehrkräfte handelt, die wegen dieser Prüfungssitzungen vom Unterricht entbunden werden.
+<sup>1</sup> Folgende Personen erhalten eine Entschädigung: die Mitglieder der Kommissionen für die Schlussprüfungen der von der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) abhängigen Schulen der Sekundarstufe 2, mit Ausnahme der Lehrerinnen-Examinatorinnen und der Lehrer-Examinatoren, sowie die Aufsichtspersonen an diesen Prüfungen, sofern es sich nicht um Lehrkräfte handelt, die wegen dieser Prüfungssitzungen vom Unterricht entbunden werden.
 
 <sup>2</sup> Die Entschädigung wird wie folgt berechnet:
 
