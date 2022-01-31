@@ -4,10 +4,10 @@ number: "181.221"
 title: Verordnung über die Organisation der Gesamtkirchlichen Dienste (VO GKD)
 short: VO GKD
 language: de
-nachtrag: "114"
-valid_until: 2022-02-01
+version: "2022-02-01"
+nachtrag: "116"
 adopted: 2021-06-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_221-2021_06_16-2021_10_01-114.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_221-2021_06_16-2021_10_01-116.html"
 text: pdf
 ---
 
@@ -57,7 +57,9 @@ beschliesst:
 
 **1**
 
-1.10. 21 - 114 d. Ausbildung sowie Sicherstellung der Aus- und Weiterbildung von Pfarrerinnen und Pfarrern sowie von Angestellten und Freiwilligen der Kirchgemeinden,
+- 1\. 4. 22 - 116
+
+- d. Ausbildung sowie Sicherstellung der Aus- und Weiterbildung von Pfarrerinnen und Pfarrern sowie von Angestellten und Freiwilligen der Kirchgemeinden,
 
 - e. Sicherstellung und Unterstützung der Präsenz der Kirchgemeinden in Verkündigung, Seelsorge, Diakonie, Bildung und Religionspädagogik,
 
@@ -149,7 +151,7 @@ Die Gesamtkirchlichen Dienste umfassen folgende Abteilungen:
 
 **3**
 
-1.10. 21 - 114
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Der Abteilung Ressourcen obliegen insbesondere:
 
@@ -231,7 +233,7 @@ Die Gesamtkirchlichen Dienste umfassen folgende Abteilungen:
 
 **5**
 
-1.10. 21 - 114 § 11. <sup>1</sup> Die Abteilung Spezialseelsorge gewährleistet über Einrichtungen und Netzwerke die seelsorgliche Begleitung und die sozialsorgliche Beratung von Menschen in ihren besonderen Lebenslagen und in ihren spezifischen Lebenswelten. Sie vernetzt Seel- und Sozialsorge in Institutionen mit der Seel- und Sozialsorge in Kirchgemeinden.
+- 1\. 4. 22 - 116 § 11. <sup>1</sup> Die Abteilung Spezialseelsorge gewährleistet über Einrichtungen und Netzwerke die seelsorgliche Begleitung und die sozialsorgliche Beratung von Menschen in ihren besonderen Lebenslagen und in ihren spezifischen Lebenswelten. Sie vernetzt Seel- und Sozialsorge in Institutionen mit der Seel- und Sozialsorge in Kirchgemeinden.
 
 **e. Spezialseelsorge**
 
@@ -323,7 +325,9 @@ Die Zuständigkeit zum Erlass von Verfügungen, die Unterschriftenberechtigung u
 
 **7**
 
-1.10. 21 - 114 f. verantworten das Erfüllen von Leistungs- und Projektaufträgen ihrer Abteilung und erstatten in der Geschäftsleitung regelmässig Bericht,
+- 1\. 4. 22 - 116
+
+- f. verantworten das Erfüllen von Leistungs- und Projektaufträgen ihrer Abteilung und erstatten in der Geschäftsleitung regelmässig Bericht,
 
 - g. nehmen die weiteren von der Kirchenratsschreiberin oder dem Kirchenratsschreiber und gemäss dieser Verordnung zugewiesenen Aufgaben wahr.
 
@@ -411,11 +415,11 @@ Die Unterschriftenberechtigung der Bereichsleiterinnen und Bereichsleiter und ih
 
 **9**
 
-1.10. 21 - 114 § 27. Die Mitwirkung der Mitarbeitenden richtet sich nach dem Mitwirkungsstatut der Mitarbeiterinnen und Mitarbeiter der Gesamtkirchlichen Dienste vom 28. November 2019[^26-1].
+- 1\. 4. 22 - 116 § 27. Die Mitwirkung der Mitarbeitenden richtet sich nach dem Mitwirkungsstatut der Mitarbeiterinnen und Mitarbeiter der Gesamtkirchlichen Dienste vom 28. November 2019[^26-1].
 
 **Mitarbeitende**
 
-[^26-1]: LS 181.404. 1.10. 21 - 114 21
+[^26-1]: LS 181.404.
 
 ### 5. Abschnitt: Führungsinstrumente
 
@@ -523,7 +527,7 @@ Jedes Mitglied der Geschäftsleitung kann die Beratung eines Geschäfts beantrag
 
 **11**
 
-1.10. 21 - 114 § 39. <sup>1</sup> Die Kirchenratsschreiberin oder der Kirchenratsschreiber ist verantwortlich, dass die Geschäftsleitung die Geschäfte fristgerecht behandeln kann.
+- 1\. 4. 22 - 116 § 39. <sup>1</sup> Die Kirchenratsschreiberin oder der Kirchenratsschreiber ist verantwortlich, dass die Geschäftsleitung die Geschäfte fristgerecht behandeln kann.
 
 **c. Fristen**
 
@@ -633,7 +637,7 @@ An den Konferenzen gemäss §§ 46 und 47 besteht Teilnahmepflicht. Die Verhinde
 
 **13**
 
-1.10. 21 - 114
+- 1\. 4. 22 - 116
 
 ### C. Leistungs- und Projektaufträge
 
@@ -733,7 +737,7 @@ Der Inhalt der Leistungsaufträge richtet sich insbesondere nach dem Grundauftra
 
 **15**
 
-1.10. 21 - 114 § 58. <sup>1</sup> Die Mitarbeitenden der Gesamtkirchlichen Dienste informieren ihre direkten Vorgesetzten, die Abteilung Kommunikation und den Kirchenrat umgehend über Medienanfragen sowie über die Erteilung besonderer Auskünfte an andere Behörden oder Institutionen, ausgenommen Detailauskünfte, Routinefragen und Bagatellfragen.
+- 1\. 4. 22 - 116 § 58. <sup>1</sup> Die Mitarbeitenden der Gesamtkirchlichen Dienste informieren ihre direkten Vorgesetzten, die Abteilung Kommunikation und den Kirchenrat umgehend über Medienanfragen sowie über die Erteilung besonderer Auskünfte an andere Behörden oder Institutionen, ausgenommen Detailauskünfte, Routinefragen und Bagatellfragen.
 
 **Informationspflicht**
 
@@ -821,15 +825,17 @@ Die Kommunikation mit der Kirchensynode und ihren Fraktionen sowie mit Interesse
 
 **17**
 
-1.10. 21 - 114 § 66. <sup>1</sup> Der Kirchenrat legt das Logo, die Bezeichnung der Stabsdienste, der Abteilungen und ihrer Bereiche, den Briefkopf, das Schriftbild sowie die Gestaltung des Auftritts der Gesamtkirchlichen Dienste im Internet und in den sozialen Medien fest.
+- 1\. 4. 22 - 116 § 66. <sup>1</sup> Der Kirchenrat legt das Logo, die Bezeichnung der Stabsdienste, der Abteilungen und ihrer Bereiche, den Briefkopf, das Schriftbild sowie die Gestaltung des Auftritts der Gesamtkirchlichen Dienste im Internet und in den sozialen Medien fest.
 
 **Erscheinungsbild**
 
-<sup>2</sup> Die Mitarbeitenden der Gesamtkirchlichen Dienste pflegen in Wort und Schrift eine angemessene und geschlechtergerechte Sprache. Sie befolgen in der schriftlichen Kommunikation den Leitfaden zur deutschen Rechtschreibung der Bundeskanzlei.
+<sup>2</sup> Die Mitarbeitenden der Gesamtkirchlichen Dienste pflegen in Wort und Schrift eine angemessene und geschlechtergerechte Sprache. Sie befolgen in der schriftlichen Kommunikation den Leitfaden zur deutschen Rechtschreibung der Bundeskanzlei, soweit der Kirchenrat nichts anderes bestimmt.[^65-1]
 
 <sup>3</sup> Präsentationen werden auf der Grundlage von Vorlagen der Abteilung Kommunikation erstellt.
 
 <sup>4</sup> Treten Mitarbeitende der Gesamtkirchlichen Dienste in der Öffentlichkeit und den sozialen Medien auf, entsprechen Inhalt und Erscheinung des Auftritts der Bedeutung der Sache und der Funktion der oder des Mitarbeitenden.
+
+[^65-1]: Fassung gemäss B vom 27. Oktober 2021 (OS 77, 11; ABl 2021-10-29). In Kraft seit 1. Februar 2022. 1. 4. 22 - 116 21
 
 #### § 67
 
@@ -919,7 +925,7 @@ Die für die Eröffnung der Vernehmlassung zuständige Stelle bestimmt, wer zur 
 
 **19**
 
-1.10. 21 - 114
+- 1\. 4. 22 - 116
 
 ### 8. Abschnitt: Rekursverfahren
 
