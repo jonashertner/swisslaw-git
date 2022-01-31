@@ -4,13 +4,13 @@ number: "412.4.22"
 title: Reglement über die Abschlussprüfungen an Fachmittelschulen
 short: FMSPR
 language: de
-version: 2021-08-01
-valid_until: 2022-01-31
-version_adopted: 2021-05-26
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2008-06-10
 in_force: 2008-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.4.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/6844/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7298/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Abschlussprüfungen an Fachmittelschulen – R
 
 (FMSPR)
 
-vom 10.06.2008 (Fassung in Kraft getreten am 01.08.2021)
+vom 10.06.2008 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -49,7 +49,7 @@ beschliesst:
 
 **Prüfungskommission – Bildung und Befugnisse der Präsidentin oder des Präsidenten**
 
-<sup>1</sup> In der FMSF und in der FMS des Kollegiums des Südens wird je eine Prüfungskommission gebildet, deren Präsidentin oder Präsident von der Direktion für Erziehung, Kultur und Sport (die Direktion) bezeichnet wird.
+<sup>1</sup> In der FMSF und in der FMS des Kollegiums des Südens wird je eine Prüfungskommission gebildet, deren Präsidentin oder Präsident von der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) bezeichnet wird.
 
 <sup>2</sup> Die Präsidentin oder der Präsident der Prüfungskommission:
 
@@ -319,7 +319,7 @@ beschliesst:
 
 <sup>1</sup> Der FMS-Ausweis enthält folgende Angaben:
 
-- a) die Bezeichnung des Kantons, also die Erwähnung: «Direktion für Erziehung, Kultur und Sport des Kantons Freiburg»;
+- a) die Bezeichnung des Kantons, also die Erwähnung: «Direktion für Bildung und kulturelle Angelegenheiten des Kantons Freiburg»;
 - b) die Bezeichnung der Schule, also entweder Fachmittelschule Freiburg oder FMS des Kollegiums des Südens;
 - c) den genauen Vermerk «entsprechend den erzielten Resultaten und gemäss dem Reglement über die Abschlussprüfungen an Fachmittelschulen»;
 - d) die Angabe des gewählten Berufsfeldes;

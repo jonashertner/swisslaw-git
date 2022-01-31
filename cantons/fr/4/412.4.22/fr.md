@@ -4,13 +4,13 @@ number: "412.4.22"
 title: Règlement concernant les examens de certificat de culture générale
 short: RCCG
 language: fr
-version: 2021-08-01
-valid_until: 2022-01-31
-version_adopted: 2021-05-26
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2008-06-10
 in_force: 2008-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.4.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6844/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7298/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Examens de certificat de culture générale – R
 
 (RCCG)
 
-du 10.06.2008 (version entrée en vigueur le 01.08.2021)
+du 10.06.2008 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -49,7 +49,7 @@ Arrête:
 
 **Jury des examens – Constitution et compétences du président ou de la présidente**
 
-<sup>1</sup> A l'ECGF et à l'ECG du Collège du Sud est constitué un jury des examens dont le président ou la présidente est désigné‑e par la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction).
+<sup>1</sup> A l'ECGF et à l'ECG du Collège du Sud est constitué un jury des examens dont le président ou la présidente est désigné‑e par la Direction de la formation et des affaires culturelles (ci-après: la Direction).
 
 <sup>2</sup> Le président ou la présidente du jury:
 
@@ -319,7 +319,7 @@ Arrête:
 
 <sup>1</sup> Le certificat ECG porte les indications suivantes:
 
-- a) la dénomination du canton, soit la mention: «Direction de l'instruction publique, de la culture et du sport du canton de Fribourg»;
+- a) la dénomination du canton, soit la mention: «Direction de la formation et des affaires culturelles du canton de Fribourg»;
 - b) la dénomination de l'école, soit Ecole de culture générale de Fribourg ou Collège du Sud;
 - c) la précision «sur la base des résultats obtenus et conformément au règlement concernant les examens de certificat ECG»;
 - d) l'indication du domaine professionnel choisi;
