@@ -3,13 +3,13 @@ canton: FR
 number: "551.13"
 title: Verordnung über das Vorrücken und die Beförderung der Beamtinnen und Beamten der Kantonspolizei
 language: de
-version: 2017-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-05-02
+version: 2022-02-01
+valid_until: 2023-07-31
+version_adopted: 2022-03-11
 adopted: 2017-05-02
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/551.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/5263/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7495/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5263/pdf_file"
 
 Kantonspolizei, Beförderung der Beamten – V
 
-vom 02.05.2017 (Fassung in Kraft getreten am 01.01.2017)
+vom 02.05.2017 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -46,7 +46,7 @@ beschliesst:
 
 **Zuordnung der Stellen und der Grade**
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion bestimmt durch Weisungen im Einvernehmen mit dem Amt für Personal und Organisation die Zuordnung der Stellen und der Grade der Kantonspolizei zur Einreihung der Funktionen beim Staat.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion bestimmt durch Weisungen im Einvernehmen mit dem Amt für Personal und Organisation die Zuordnung der Stellen und der Grade der Kantonspolizei zur Einreihung der Funktionen beim Staat.
 
 #### Art. 3
 
@@ -71,7 +71,7 @@ beschliesst:
 
 <sup>2</sup> Wird das Vorrücken einer Beamtin oder eines Beamten wegen unbefriedigender Leistung oder unbefriedigenden Verhaltens hinausgeschoben, so kann die Person, wenn sie anschliessend zu besonderer Zufriedenheit Anlass gibt, bereits nach einer geringeren als der in diesem Reglement vorgesehenen Anzahl Jahre vorrücken und dadurch die den Dienstjahren entsprechende Klasse und Gehaltsstufe erlangen.
 
-<sup>3</sup> Die Sicherheits- und Justizdirektion entscheidet über das Vorrücken auf Antrag der Kommandantin oder des Kommandanten der Kantonspolizei.
+<sup>3</sup> Die Sicherheits-, Justiz- und Sportdirektion entscheidet über das Vorrücken auf Antrag der Kommandantin oder des Kommandanten der Kantonspolizei.
 
 ### 2.2 Gendarmerie
 
@@ -199,7 +199,7 @@ beschliesst:
 
 <sup>1</sup> Die Beförderungen in Funktionen, die in der Klasse 25 und höher der Gehaltsskala des Staatspersonals eingereiht sind (Offizierinnen und Offiziere), werden vom Staatsrat beschlossen.
 
-<sup>2</sup> Die Beförderungen in Funktionen, die in tieferen Klassen als 25 eingereiht sind, werden von der Sicherheits- und Justizdirektion auf Antrag der Kommandantin oder des Kommandanten der Kantonspolizei beschlossen.
+<sup>2</sup> Die Beförderungen in Funktionen, die in tieferen Klassen als 25 eingereiht sind, werden von der Sicherheits-, Justiz- und Sportdirektion auf Antrag der Kommandantin oder des Kommandanten der Kantonspolizei beschlossen.
 
 ## 4 Schlussbestimmungen
 

@@ -3,13 +3,13 @@ canton: FR
 number: "551.13"
 title: "Ordonnance concernant l'avancement et la promotion des agents et agentes de la Police cantonale"
 language: fr
-version: 2017-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-05-02
+version: 2022-02-01
+valid_until: 2023-07-31
+version_adopted: 2022-03-11
 adopted: 2017-05-02
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/551.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5263/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7495/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5263/pdf_file"
 
 Police cantonale, promotion des agents – O
 
-du 02.05.2017 (version entrée en vigueur le 01.01.2017)
+du 02.05.2017 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -46,7 +46,7 @@ Arrête:
 
 **Rattachement des postes et des grades**
 
-<sup>1</sup> La Direction de la sécurité et de la justice détermine par voie de directives, en accord avec le Service du personnel et d'organisation, le rattachement des postes et des grades de la Police cantonale à la classification des fonctions du personnel de l'Etat.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport détermine par voie de directives, en accord avec le Service du personnel et d'organisation, le rattachement des postes et des grades de la Police cantonale à la classification des fonctions du personnel de l'Etat.
 
 #### Art. 3
 
@@ -71,7 +71,7 @@ Arrête:
 
 <sup>2</sup> L'agent ou l'agente dont l'avancement a été retardé en raison de prestations ou d'un comportement insatisfaisants peut, s'il ou si elle a par la suite donné particulièrement satisfaction, bénéficier d'un avancement après un nombre d'années de service inférieur à celui qui est prévu par la présente ordonnance et ainsi recouvrer la classe ou le palier correspondant à ses années de service.
 
-<sup>3</sup> Les avancements sont décidés par la Direction de la sécurité et de la justice, sur la proposition du commandant ou de la commandante de la Police cantonale.
+<sup>3</sup> Les avancements sont décidés par la Direction de la sécurité, de la justice et du sport, sur la proposition du commandant ou de la commandante de la Police cantonale.
 
 ### 2.2 Gendarmerie
 
@@ -199,7 +199,7 @@ Arrête:
 
 <sup>1</sup> Les promotions aux fonctions rangées en classe 25 et plus (officiers et officières) de l'échelle des traitements du personnel de l'Etat sont décidées par le Conseil d'Etat.
 
-<sup>2</sup> Les promotions aux fonctions rangées en dessous de la classe 25 sont décidées par la Direction de la sécurité et de la justice, sur la proposition du commandant ou de la commandante de la Police cantonale.
+<sup>2</sup> Les promotions aux fonctions rangées en dessous de la classe 25 sont décidées par la Direction de la sécurité, de la justice et du sport, sur la proposition du commandant ou de la commandante de la Police cantonale.
 
 ## 4 Dispositions finales
 
