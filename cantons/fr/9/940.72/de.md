@@ -3,13 +3,12 @@ canton: FR
 number: "940.72"
 title: Beschluss betreffend die Kollekten
 language: de
-version: 2013-01-01
-valid_until: 2022-01-31
-version_adopted: 2012-12-18
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 1946-09-20
 in_force: 1946-09-20
 url: "https://bdlf.fr.ch/app/de/texts_of_law/940.72"
-pdf: "https://bdlf.fr.ch/api/de/versions/6334/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7458/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6334/pdf_file"
 
 Kollekten – B
 
-vom 20.09.1946 (Fassung in Kraft getreten am 01.01.2013)
+vom 20.09.1946 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -162,7 +161,7 @@ beschliesst:
 
 **Kinder**
 
-<sup>1</sup> Wer zum Verkauf von kleinen Blumen oder ähnlichen Gegenständen schulpflichtige Kinder heranzieht, hat bei der Direktion für Erziehung, Kultur und Sport eine Bewilligung einzuholen. Die Mitwirkung von Mädchen unter 12 Jahren ist nicht erlaubt.
+<sup>1</sup> Wer zum Verkauf von kleinen Blumen oder ähnlichen Gegenständen schulpflichtige Kinder heranzieht, hat bei der Direktion für Bildung und kulturelle Angelegenheiten eine Bewilligung einzuholen. Die Mitwirkung von Mädchen unter 12 Jahren ist nicht erlaubt.
 
 <sup>2</sup> Findet der Verkauf nur in der Gemeinde statt, so hat die Schulkommission ihr Einverständnis zu erklären.
 

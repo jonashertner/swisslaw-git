@@ -3,13 +3,12 @@ canton: FR
 number: "940.72"
 title: Arrêté relatif aux collectes
 language: fr
-version: 2013-01-01
-valid_until: 2022-01-31
-version_adopted: 2012-12-18
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 1946-09-20
 in_force: 1946-09-20
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/940.72"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6334/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7458/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6334/pdf_file"
 
 Collectes – A
 
-du 20.09.1946 (version entrée en vigueur le 01.01.2013)
+du 20.09.1946 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -162,7 +161,7 @@ Arrête:
 
 **Collaboration d'enfants**
 
-<sup>1</sup> Celui qui, pour une vente de petites fleurs ou d'objets analogues, a recours à la collaboration d'enfants en âge de scolarité, doit en demander l'autorisation à la Direction de l'instruction publique, de la culture et du sport. La participation de fillettes avant l'âge de 12 ans n'est pas autorisée.
+<sup>1</sup> Celui qui, pour une vente de petites fleurs ou d'objets analogues, a recours à la collaboration d'enfants en âge de scolarité, doit en demander l'autorisation à la Direction de la formation et des affaires culturelles. La participation de fillettes avant l'âge de 12 ans n'est pas autorisée.
 
 <sup>2</sup> Si la vente n'a lieu que dans la commune, c'est la commission scolaire qui donne son approbation.
 
