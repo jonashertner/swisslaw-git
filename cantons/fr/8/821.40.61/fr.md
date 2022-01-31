@@ -4,13 +4,13 @@ number: "821.40.61"
 title: Ordonnance sur les mesures économiques à la suite du coronavirus
 short: OME COVID-19
 language: fr
-version: 2020-09-11
-valid_until: 2022-01-31
-version_adopted: 2020-09-01
+version: 2022-02-01
+valid_until: 2023-07-14
+version_adopted: 2022-04-01
 adopted: 2020-04-06
 in_force: 2020-03-13
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6583/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7413/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, mesures économiques – O
 
 (OME COVID-19)
 
-du 06.04.2020 (version entrée en vigueur le 11.09.2020)
+du 06.04.2020 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -62,7 +62,7 @@ Arrête:
 
 <sup>2</sup> Les montants alloués au travers des différentes mesures font l'objet d'ordonnances séparées.
 
-<sup>3</sup> La Direction de l'économie et de l'emploi est chargée d'assurer, en coordination avec la Direction des finances, le suivi financier et comptable de chacune des mesures décidées.
+<sup>3</sup> La Direction de l'économie, de l'emploi et de la formation professionnelle est chargée d'assurer, en coordination avec la Direction des finances, le suivi financier et comptable de chacune des mesures décidées.
 
 #### Art. 3
 
@@ -76,7 +76,7 @@ Arrête:
 
 **Instruments de soutien économique – Nouvelle politique régionale**
 
-<sup>1</sup> En matière de Nouvelle politique régionale, la Direction de l'économie et de l'emploi est autorisée à avancer le paiement à fonds perdu, au sens de l'article 19b de la loi du 3 octobre 1996 sur la promotion économique, pour la période 2020–2023.
+<sup>1</sup> En matière de Nouvelle politique régionale, la Direction de l'économie, de l'emploi et de la formation professionnelle est autorisée à avancer le paiement à fonds perdu, au sens de l'article 19b de la loi du 3 octobre 1996 sur la promotion économique, pour la période 2020–2023.
 
 #### Art. 5
 

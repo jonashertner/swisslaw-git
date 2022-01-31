@@ -4,13 +4,13 @@ number: "821.40.61"
 title: Verordnung über die wirtschaftlichen Massnahmen infolge des Coronavirus
 short: WMV-COVID-19
 language: de
-version: 2020-09-11
-valid_until: 2022-01-31
-version_adopted: 2020-09-01
+version: 2022-02-01
+valid_until: 2023-07-14
+version_adopted: 2022-04-01
 adopted: 2020-04-06
 in_force: 2020-03-13
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/6583/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7413/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, wirtschaftliche Massnahmen – V
 
 (WMV-COVID-19)
 
-vom 06.04.2020 (Fassung in Kraft getreten am 11.09.2020)
+vom 06.04.2020 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -62,7 +62,7 @@ beschliesst:
 
 <sup>2</sup> Die in Form verschiedener Massnahmen gewährten Beträge werden in getrennten Verordnungen geregelt.
 
-<sup>3</sup> Die Volkswirtschaftsdirektion wird beauftragt, in Koordination mit der Finanzdirektion die finanzielle und buchhalterische Kontrolle jeder beschlossenen Massnahme sicherzustellen.
+<sup>3</sup> Die Volkswirtschafts- und Berufsbildungsdirektion wird beauftragt, in Koordination mit der Finanzdirektion die finanzielle und buchhalterische Kontrolle jeder beschlossenen Massnahme sicherzustellen.
 
 #### Art. 3
 
@@ -76,7 +76,7 @@ beschliesst:
 
 **Instrumente zur wirtschaftlichen Unterstützung – Neue Regionalpolitik**
 
-<sup>1</sup> Im Bereich der Neuen Regionalpolitik wird die Volkswirtschaftsdirektion ermächtigt, die A-Fonds-Perdu-Beiträge im Sinn von Artikel 19b des Gesetzes vom 3. Oktober 1996 über die Wirtschaftsförderung, für die Jahre 2020–2023 vorzuschiessen.
+<sup>1</sup> Im Bereich der Neuen Regionalpolitik wird die Volkswirtschafts- und Berufsbildungsdirektion ermächtigt, die A-Fonds-Perdu-Beiträge im Sinn von Artikel 19b des Gesetzes vom 3. Oktober 1996 über die Wirtschaftsförderung, für die Jahre 2020–2023 vorzuschiessen.
 
 #### Art. 5
 
