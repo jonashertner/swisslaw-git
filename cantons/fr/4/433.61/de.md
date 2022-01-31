@@ -3,20 +3,20 @@ canton: FR
 number: "433.61"
 title: Reglement über das Finanz- und Rechnungswesen der Pädagogischen Hochschule Freiburg
 language: de
-version: 2019-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-01-22
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2019-01-22
 in_force: 2019-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/433.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/5932/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7311/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über das Finanz- und Rechnungswesen der Pädagogischen Hochschule Freiburg
 
-vom 22.01.2019 (Fassung in Kraft getreten am 01.01.2019)
+vom 22.01.2019 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -80,7 +80,7 @@ beschliesst:
 
 <sup>1</sup> Der Direktionsrat der HEP-PH FR erarbeitet auf Grundlage des Globalbudgets einen Budgetvorschlag und unterbreitet diesen der Kommission der HEP-PH FR.
 
-<sup>2</sup> Die Kommission der HEP-PH FR genehmigt den Budgetvorschlag und leitet diesen anschliessend an die Direktion für Erziehung, Kultur und Sport (die Direktion) weiter.
+<sup>2</sup> Die Kommission der HEP-PH FR genehmigt den Budgetvorschlag und leitet diesen anschliessend an die Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) weiter.
 
 <sup>3</sup> Die Direktion legt den Budgetvorschlag dem Staatsrat zur Genehmigung vor.
 
