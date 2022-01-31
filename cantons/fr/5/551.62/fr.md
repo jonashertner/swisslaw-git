@@ -3,20 +3,20 @@ canton: FR
 number: "551.62"
 title: Arrêté concernant les émoluments perçus pour les services assurés par la Police cantonale lors de manifestations sportives intercantonales
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-11-14
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-03-11
 adopted: 2000-04-11
 in_force: 2000-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/551.62"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5272/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7334/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Arrêté concernant les émoluments perçus pour les services assurés par la Police cantonale lors de manifestations sportives intercantonales
 
-du 11.04.2000 (version entrée en vigueur le 01.01.2003)
+du 11.04.2000 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -41,7 +41,7 @@ Arrête:
 
 #### Art. 2
 
-<sup>1</sup> La Direction de la sécurité et de la justice est chargée de l'exécution de cet arrêté qui entre en vigueur le 1<sup>er</sup> mai 2000.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport est chargée de l'exécution de cet arrêté qui entre en vigueur le 1<sup>er</sup> mai 2000.
 
 <sup>2</sup> Cet arrêté est publié dans la Feuille officielle et inséré dans le Bulletin des lois.
 

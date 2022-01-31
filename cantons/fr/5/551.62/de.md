@@ -3,20 +3,20 @@ canton: FR
 number: "551.62"
 title: Beschluss über die Gebühren der Kantonspolizei für Dienstleistungen bei interkantonalen Sportveranstaltungen
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-11-14
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-03-11
 adopted: 2000-04-11
 in_force: 2000-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/551.62"
-pdf: "https://bdlf.fr.ch/api/de/versions/5272/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7334/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die Gebühren der Kantonspolizei für Dienstleistungen bei interkantonalen Sportveranstaltungen
 
-vom 11.04.2000 (Fassung in Kraft getreten am 01.01.2003)
+vom 11.04.2000 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -41,7 +41,7 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion wird mit dem Vollzug dieses Beschlusses beauftragt, der am 1. Mai 2000 in Kraft tritt.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion wird mit dem Vollzug dieses Beschlusses beauftragt, der am 1. Mai 2000 in Kraft tritt.
 
 <sup>2</sup> Dieser Beschluss wird im Amtsblatt veröffentlicht und in die Amtliche Gesetzessammlung aufgenommen.
 
