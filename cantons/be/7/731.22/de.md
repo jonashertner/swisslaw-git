@@ -4,13 +4,13 @@ number: "731.22"
 title: Verordnung über die Organisation des öffentlichen Beschaffungswesens
 short: OÖBV
 language: de
-version: 2021-05-01
-valid_until: 2022-01-31
-version_adopted: 2021-03-10
+version: 2022-02-01
+valid_until: 2022-10-31
+version_adopted: 2021-11-17
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2257/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2257/pdf_file"
 
 (OÖBV)
 
-vom 05.11.2014 (Stand 01.05.2021)
+vom 05.11.2014 (Stand 01.02.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -84,6 +84,16 @@ beschliesst:
 
 <sup>1</sup> Beschaffungen erfolgen möglichst gemäss einheitlichen Prozessen sowie gemäss einheitlichen funktionalen Spezifikationen und technischen Standards.
 
+#### Art. 6a
+
+**Nachhaltigkeit**
+
+<sup>1</sup> Die Beschaffungsstellen berücksichtigen die Nachhaltigkeit der beschafften Leistungen.
+
+<sup>2</sup> Sie sehen dazu entsprechende Kriterien oder technische Spezifikationen vor, wenn dies ohne übermässige Einschränkung des Wettbewerbs möglich ist.
+
+<sup>3</sup> Im Rahmen des Preises berücksichtigen sie wenn möglich alle Kosten während und nach der voraussichtlichen Nutzungsdauer der Leistung.
+
 #### Art. 7
 
 **Kooperation**
@@ -122,14 +132,12 @@ beschliesst:
 
 <sup>1</sup> Die Beschaffungsstellen stellen die Integrität und Nachvollziehbarkeit ihrer Beschaffungen sicher, insbesondere durch die folgenden Massnahmen:
 
-- a Die Begründung von Zuschlagsverfügungen umfasst mindestens Folgendes: Anbieterinnen und Anbieter, angebotene Preise und gegebenenfalls bereinigte Endsummen sowie Anzahl Punkte pro Kriterium gemäss Ausschreibung oder Einladung.
+- a …
 - b Folgende Entscheide müssen von mindestens zwei Personen mit elektronischer oder Handunterschrift bestätigt werden, wenn der Schwellenwert des Einladungsverfahrens erreicht ist: Festlegung der Anforderungen, Zuschlag, Vertragsabschluss, -änderung oder -kündigung.
 
 #### Art. 12
 
 **Aufsicht**
-
-<sup>1</sup> Die Direktionen und die Staatskanzlei stellen sicher, dass die ihnen unterstellten Beschaffungsstellen die Vorschriften über öffentliche Beschaffungen einhalten.
 
 ## 3 Beschaffungsorganisation
 
@@ -225,16 +233,17 @@ beschliesst:
 - d Sie vertritt den Kanton in interkantonalen Fachorganisationen des Beschaffungswesens.
 - e Sie bereitet unter Mitwirkung der KBK Stellungnahmen des Kantons und Antworten auf parlamentarische Vorstösse im Bereich des Beschaffungswesens vor, wenn sie die Aufgaben von Beschaffungsstellen aus mehreren Direktionen betreffen.
 - f Sie führt das Sekretariat der KBK.
-- g Sie vergibt Zertifikate nach Artikel 20 Absatz 2 der Verordnung vom 16. Oktober 2002 über das öffentliche Beschaffungswesen (ÖBV).[^19-1]
+- g Sie vergibt Zertifikate gemäss Artikel 7 Absatz 4 der Verordnung vom 17. November 2021 zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöBV)[^19-1].
 - h Sie informiert über ihr Dienstleistungsangebot und ihre Tätigkeit.
 - i Sie kann für die Beschaffungs- und Bedarfsstellen sowie mit deren Mitwirkung Informationssysteme zur Durchführung, Verwaltung und Kontrolle der Beschaffungen der Kantonsverwaltung betreiben.
 - k Sie kann Verträge mit Beschaffungsstellen ausserhalb der Kantonsverwaltung abschliessen, um die gemeinsame Benutzung von Informationssystemen und die gemeinsame Bearbeitung von Daten über die Identität (wie Namen, Kontaktangaben und Identifikationsnummern) sowie über die eingereichten Nachweise der Anbieterinnen und Anbieter zu regeln.
 - l Sie sammelt und veröffentlicht statistische Informationen über öffentliche Beschaffungen.
 - m Sie nimmt Anliegen der Organisationen der Arbeitgeber- und Arbeitnehmerschaft in Bezug auf die Beschaffungspraxis der Verwaltung entgegen.
+- n Sie unterstützt bei Bedarf die Aufsichtsbehörden bei ihrer Tätigkeit.
 
 <sup>2</sup> Die Aufgaben der ZKB werden vom Amt für Informatik und Organisation (KAIO) wahrgenommen.
 
-[^19-1]: BSG 731.21
+[^19-1]: BSG [731.21](https://www.belex.sites.be.ch/data/731.21/de)
 
 #### Art. 20
 
@@ -258,7 +267,7 @@ beschliesst:
 
 #### Art. 21
 
-**Zusammenarbeit und Verfahren bei Differenzen**
+**Zusammenarbeit**
 
 <sup>1</sup> Die Organe des Beschaffungswesens arbeiten bei der Erfüllung ihrer Aufgaben partnerschaftlich zusammen. Sie verkehren direkt miteinander.
 

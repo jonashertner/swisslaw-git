@@ -4,13 +4,13 @@ number: "731.22"
 title: Ordonnance sur l’organisation des marchés publics
 short: OOMP
 language: fr
-version: 2021-05-01
-valid_until: 2022-01-31
-version_adopted: 2021-03-10
+version: 2022-02-01
+valid_until: 2022-10-31
+version_adopted: 2021-11-17
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2257/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2453/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2257/pdf_file"
 
 (OOMP)
 
-du 05.11.2014 (état au 01.05.2021)
+du 05.11.2014 (état au 01.02.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -84,6 +84,16 @@ arrête:
 
 <sup>1</sup> Les achats sont réalisés autant que possible suivant des procédures uniformes, ainsi qu'en vertu de spécifications fonctionnelles et de normes techniques uniformes.
 
+#### Art. 6a
+
+**Durabilité**
+
+<sup>1</sup> Les services d'achat prennent en considération le caractère durable des prestations achetées.
+
+<sup>2</sup> Ils prévoient à cette fin des critères correspondants ou des spécifications techniques, pour autant que cela n'implique pas une restriction excessive de la concurrence.
+
+<sup>3</sup> Ils tiennent compte dans le prix, lorsque c'est possible, de tous les coûts pendant et après la durée d'utilisation prévue de la prestation.
+
 #### Art. 7
 
 **Coopération**
@@ -122,14 +132,12 @@ arrête:
 
 <sup>1</sup> Les services d'achat garantissent l'intégrité et la traçabilité de leurs achats, au moyen notamment des mesures suivantes:
 
-- a La justification des décisions d'adjudication comprend au minimum les éléments suivants: soumissionnaires, prix offerts et le cas échéant montants finaux corrigés, ainsi que nombre de points par critère selon l'appel d'offres ou l'invitation.
+- a …
 - b Les décisions suivantes sont confirmées par la signature électronique ou manuscrite d'au moins deux personnes lorsque le seuil de la procédure sur invitation est atteint: définition des exigences, adjudication, conclusion, modification ou résiliation du contrat.
 
 #### Art. 12
 
 **Surveillance**
-
-<sup>1</sup> Les Directions et la Chancellerie d'Etat s'assurent que les services d'achat qui leur sont subordonnés respectent les prescriptions relatives aux marchés publics.
 
 ## 3 Organisation des achats
 
@@ -225,16 +233,17 @@ arrête:
 - d Il représente le canton dans des organisations spécialisées du domaine des achats.
 - e Il prépare, avec le concours de la CCA, les prises de position du canton et les réponses aux interventions parlementaires dans le domaine des achats lorsqu'elles concernent les tâches des services d'achat de plusieurs Directions.
 - f Il assure le secrétariat de la CCA.
-- g Il attribue des certificats selon l'article 20, alinéa 2 de l'ordonnance du 16 octobre 2002 sur les marchés publics (OCMP)[^19-1].
+- g Il attribue des certificats conformément à l'article 7, alinéa 4 de l'ordonnance du 17 novembre 2021 concernant l’accord intercantonal sur les marchés publics (OAIMP)[^19-1].
 - h Il informe sur son offre de prestations et sur ses activités.
 - i Il peut exploiter, pour les services d'achat et les services demandeurs et avec leur concours, des systèmes d'information pour l'exécution, l'administration et le contrôle des achats de l'administration cantonale.
 - k Il peut conclure des contrats avec des services d'achat extérieurs à l'administration cantonale pour régler l'utilisation commune de systèmes d'information et le traitement commun de données relatives à l'identité (p. ex. noms, données de contact et numéros d'identification) et aux pièces justificatives fournies par les soumissionnaires.
 - l Il collecte et publie des informations statistiques sur les marchés publics.
 - m Il reçoit les requêtes des organisations des employeurs et des employés en relation avec la pratique de l'administration en matière d'achats.
+- n Il assiste si nécessaire les autorités de surveillance dans leur activité.
 
 <sup>2</sup> L'Office d'informatique et d'organisation (OIO) assume les tâches du BCCA.
 
-[^19-1]: RSB 731.21
+[^19-1]: RSB [731.21](https://www.belex.sites.be.ch/data/731.21/fr)
 
 #### Art. 20
 
@@ -258,7 +267,7 @@ arrête:
 
 #### Art. 21
 
-**Collaboration et procédure en cas de désaccord**
+**Collaboration**
 
 <sup>1</sup> Les organes chargés des achats travaillent en partenariat dans l'accomplissement de leurs tâches. Ils correspondent directement entre eux.
 
