@@ -3,13 +3,12 @@ canton: FR
 number: "481.4.11"
 title: Ordonnance concernant le Conservatoire
 language: fr
-version: 2016-09-01
-valid_until: 2022-01-31
-version_adopted: 2016-08-30
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2004-09-07
 in_force: 2004-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/481.4.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6366/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8579/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6366/pdf_file"
 
 Conservatoire – O
 
-du 07.09.2004 (version entrée en vigueur le 01.09.2016)
+du 07.09.2004 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -50,7 +49,7 @@ Arrête:
 
 <sup>2</sup> Il ou elle prépare les affaires à traiter par la commission.
 
-<sup>3</sup> Le directeur ou la directrice est engagé-e par la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) et est subordonné-e au Service de la culture (ci-après: le Service).
+<sup>3</sup> Le directeur ou la directrice est engagé-e par la Direction de la formation et des affaires culturelles (ci-après: la Direction) et est subordonné-e au Service de la culture (ci-après: le Service).
 
 #### Art. 4
 
@@ -359,15 +358,17 @@ Arrête:
 
 <sup>1</sup> Les professeur-e-s sont engagés par la Direction.
 
-<sup>2</sup> Ils sont soumis à la législation sur le personnel de l'Etat ainsi qu'aux prescriptions réglementaires relatives au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport, sous réserve des dispositions particulières de la présente ordonnance.
+<sup>2</sup> Ils sont soumis à la législation sur le personnel de l'Etat ainsi qu'aux prescriptions réglementaires relatives au personnel enseignant de la Direction de la formation et des affaires culturelles, sous réserve des dispositions particulières de la présente ordonnance.
 
 #### Art. 31
 
 **Attributions des chef-fe-s de service et délégation de compétences**
 
-<sup>1</sup> Les attributions dévolues aux chef-fe-s de service par les articles 67 al. 1, 68 al. 1 let. a, 76 al. 1, 79 al. 2 et 123 al. 2 du règlement du 17 décembre 2002 du personnel de l'Etat (RPers) sont exercées par le directeur ou la directrice du Conservatoire.
+<sup>1</sup> Les attributions dévolues aux chef-fe-s de service par les articles 67 al. 1, 68 al. 1 let. a, 76 al. 1, 79 al. 2 et 123 al. 2 du règlement du 17 décembre 2002 du personnel de l'Etat (RPers)[^31-1] sont exercées par le directeur ou la directrice du Conservatoire.
 
 <sup>2</sup> Les autres attributions dévolues aux chef-fe-s de service par le RPers sont exercées par le ou la chef-fe du Service de la culture.
+
+[^31-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 #### Art. 32
 
@@ -383,7 +384,9 @@ Arrête:
 
 <sup>2</sup> L'indemnisation se fait par le versement d'une indemnité de transport.
 
-<sup>3</sup> L'indemnité de transport est calculée selon l'article 38 du règlement du 6 juillet 2004 relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport (RPens) et sur la base du nombre de kilomètres parcourus en sus de ceux qui sont compris entre le domicile de l'enseignant ou de l'enseignante et son lieu d'engagement.
+<sup>3</sup> L'indemnité de transport est calculée selon l'article 38 du règlement du 6 juillet 2004 relatif au personnel enseignant de la Direction de la formation et des affaires culturelles (RPens)[^33-1] et sur la base du nombre de kilomètres parcourus en sus de ceux qui sont compris entre le domicile de l'enseignant ou de l'enseignante et son lieu d'engagement.
+
+[^33-1]: RSF [415.0.11](https://bdlf.fr.ch/data/415.0.11/fr)
 
 ## 3 Haute Ecole de musique (HEM)
 
@@ -563,7 +566,7 @@ Arrête:
 
 **Modification**
 
-<sup>1</sup> Le règlement du 6 juillet 2004 relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport (RPens; RSF 415.0.11) est modifié comme il suit:
+<sup>1</sup> Le règlement du 6 juillet 2004 relatif au personnel enseignant de la Direction de la formation et des affaires culturelles (RPens; RSF 415.0.11) est modifié comme il suit:
 
 ...
 

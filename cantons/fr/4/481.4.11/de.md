@@ -3,13 +3,12 @@ canton: FR
 number: "481.4.11"
 title: Verordnung über das Konservatorium
 language: de
-version: 2016-09-01
-valid_until: 2022-01-31
-version_adopted: 2016-08-30
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2004-09-07
 in_force: 2004-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/481.4.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6366/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8579/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6366/pdf_file"
 
 Konservatorium – V
 
-vom 07.09.2004 (Fassung in Kraft getreten am 01.09.2016)
+vom 07.09.2004 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -50,7 +49,7 @@ beschliesst:
 
 <sup>2</sup> Sie oder er bereitet die Geschäfte vor, die von der Kommission behandelt werden.
 
-<sup>3</sup> Die Direktorin oder der Direktor wird von der Direktion für Erziehung, Kultur und Sport (die Direktion) angestellt und untersteht dem Amt für Kultur (das Amt).
+<sup>3</sup> Die Direktorin oder der Direktor wird von der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) angestellt und untersteht dem Amt für Kultur (das Amt).
 
 #### Art. 4
 
@@ -359,15 +358,17 @@ beschliesst:
 
 <sup>1</sup> Die Dozentinnen und Dozenten werden von der Direktion angestellt.
 
-<sup>2</sup> Sie unterstehen der Gesetzgebung über das Dienstverhältnis des Staatspersonals sowie den besonderen reglementarischen Bestimmungen für das Lehrpersonal der Direktion für Erziehung, Kultur und Sport. Vorbehalten bleiben die besonderen Bestimmungen dieser Verordnung.
+<sup>2</sup> Sie unterstehen der Gesetzgebung über das Dienstverhältnis des Staatspersonals sowie den besonderen reglementarischen Bestimmungen für das Lehrpersonal der Direktion für Bildung und kulturelle Angelegenheiten. Vorbehalten bleiben die besonderen Bestimmungen dieser Verordnung.
 
 #### Art. 31
 
 **Befugnisse der Dienstchefinnen und Dienstchefs und Kompetenzübertragung**
 
-<sup>1</sup> Die Kompetenzen der Dienstchefinnen und Dienstchefs nach den Artikeln 67 Abs. 1, 68 Abs. 1 Bst. a, 76 Abs. 1, 79 Abs. 2 und 123 Abs. 2 des Reglements vom 17. Dezember 2002 über das Staatspersonal (StPR) werden von der Direktorin oder vom Direktor ausgeübt.
+<sup>1</sup> Die Kompetenzen der Dienstchefinnen und Dienstchefs nach den Artikeln 67 Abs. 1, 68 Abs. 1 Bst. a, 76 Abs. 1, 79 Abs. 2 und 123 Abs. 2 des Reglements vom 17. Dezember 2002 über das Staatspersonal (StPR)[^31-1] werden von der Direktorin oder vom Direktor ausgeübt.
 
 <sup>2</sup> Die übrigen den Dienstchefinnen und Dienstchefs vom StPR übertragenen Befugnisse werden vom Amt ausgeübt.
+
+[^31-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 32
 
@@ -383,7 +384,9 @@ beschliesst:
 
 <sup>2</sup> Die Entschädigung besteht in einer Vergütung der Fahrkosten.
 
-<sup>3</sup> Die Berechnung der Fahrkostenvergütung erfolgt nach Artikel 38 des Reglements vom 6. Juli 2004 für das Lehrpersonal, das der Direktion für Erziehung, Kultur und Sport untersteht (LPR), und aufgrund der zusätzlichen Kilometer zur Strecke zwischen dem Wohnort der Dozentinnen und Dozenten und ihrem Arbeitsort.
+<sup>3</sup> Die Berechnung der Fahrkostenvergütung erfolgt nach Artikel 38 des Reglements vom 6. Juli 2004 für das Lehrpersonal, das der Direktion für Bildung und kulturelle Angelegenheiten untersteht (LPR)[^33-1], und aufgrund der zusätzlichen Kilometer zur Strecke zwischen dem Wohnort der Dozentinnen und Dozenten und ihrem Arbeitsort.
+
+[^33-1]: SGF [415.0.11](https://bdlf.fr.ch/data/415.0.11/de)
 
 ## 3 Musikhochschule (MHS)
 
@@ -559,7 +562,7 @@ beschliesst:
 
 **Änderung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 6. Juli 2004 für das Lehrpersonal, das der Direktion für Erziehung, Kultur und Sport untersteht (LPR; SGF 415.0.11), wird wie folgt geändert:
+<sup>1</sup> Das Reglement vom 6. Juli 2004 für das Lehrpersonal, das der Direktion für Bildung und kulturelle Angelegenheiten untersteht (LPR; SGF 415.0.11), wird wie folgt geändert:
 
 ...
 
