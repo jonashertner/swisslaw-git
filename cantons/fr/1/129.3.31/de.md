@@ -3,19 +3,19 @@ canton: FR
 number: "129.3.31"
 title: Beschluss zur Bezeichnung des Freiburgischen Grenadierkorps als Ehrengarde der obersten Behörden des Kantons Freiburg
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 1964-10-02
 in_force: 1964-10-11
 url: "https://bdlf.fr.ch/app/de/texts_of_law/129.3.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/5067/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7245/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss zur Bezeichnung des Freiburgischen Grenadierkorps als Ehrengarde der obersten Behörden des Kantons Freiburg
 
-vom 02.10.1964 (Fassung in Kraft getreten am 01.01.2003)
+vom 02.10.1964 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -51,7 +51,7 @@ beschliesst:
 
 #### Art. 4
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion ist mit der Ausführung dieses Beschlusses beauftragt, der am 11. Oktober 1964 in Kraft tritt.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion ist mit der Ausführung dieses Beschlusses beauftragt, der am 11. Oktober 1964 in Kraft tritt.
 
 #### Art. 5
 

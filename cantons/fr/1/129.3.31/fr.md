@@ -3,19 +3,19 @@ canton: FR
 number: "129.3.31"
 title: "Arrêté déclarant le Contingent des grenadiers fribourgeois garde d'honneur officielle des autorités supérieures du canton de Fribourg"
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 1964-10-02
 in_force: 1964-10-11
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/129.3.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5067/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7245/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Arrêté déclarant le Contingent des grenadiers fribourgeois garde d'honneur officielle des autorités supérieures du canton de Fribourg
 
-du 02.10.1964 (version entrée en vigueur le 01.01.2003)
+du 02.10.1964 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -51,7 +51,7 @@ Arrête:
 
 #### Art. 4
 
-<sup>1</sup> La Direction de la sécurité et de la justice est chargée de l'exécution du présent arrêté qui entre en vigueur le 11 octobre 1964.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport est chargée de l'exécution du présent arrêté qui entre en vigueur le 11 octobre 1964.
 
 #### Art. 5
 
