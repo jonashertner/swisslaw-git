@@ -4,13 +4,13 @@ number: "214.5.11"
 title: "Règlement d'exécution de la loi sur le registre foncier"
 short: RELRF
 language: fr
-version: 2018-12-01
-valid_until: 2022-01-31
-version_adopted: 2018-10-08
+version: 2022-02-01
+valid_until: 2024-02-29
+version_adopted: 2022-02-25
 adopted: 1986-12-09
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/214.5.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8588/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8589/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Registre foncier – R
 
 (RELRF)
 
-du 09.12.1986 (version entrée en vigueur le 01.12.2018)
+du 09.12.1986 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -131,7 +131,7 @@ Arrête:
 
 <sup>1</sup> Les instructions de l'Autorité de surveillance sont transmises à la Direction et, dans la mesure où elles ont un intérêt pour l'exercice de leur profession,
 
-- a) aux notaires, avec l'approbation de la Direction de la sécurité et de la justice, par l'intermédiaire du président ou de la présidente de la Chambre des notaires, et
+- a) aux notaires, avec l'approbation de la Direction de la sécurité, de la justice et du sport, par l'intermédiaire du président ou de la présidente de la Chambre des notaires, et
 - b) aux géomètres, par l'intermédiaire du Service du cadastre et de la géomatique.
 
 #### Art. 17

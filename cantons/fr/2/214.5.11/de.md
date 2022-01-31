@@ -4,13 +4,13 @@ number: "214.5.11"
 title: Ausführungsreglement zum Gesetz über das Grundbuch
 short: ARGBG
 language: de
-version: 2018-12-01
-valid_until: 2022-01-31
-version_adopted: 2018-10-08
+version: 2022-02-01
+valid_until: 2024-02-29
+version_adopted: 2022-02-25
 adopted: 1986-12-09
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/214.5.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8588/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8589/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Grundbuch – R
 
 (ARGBG)
 
-vom 09.12.1986 (Fassung in Kraft getreten am 01.12.2018)
+vom 09.12.1986 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -131,7 +131,7 @@ beschliesst:
 
 <sup>1</sup> Die Weisungen der Aufsichtsbehörde werden der Direktion zugestellt und, soweit sie für die Ausübung ihres Berufes von Bedeutung sind:
 
-- a) mit Genehmigung der Sicherheits- und Justizdirektion den Notarinnen und Notaren über die Präsidentin oder den Präsidenten der Notariatskammer und
+- a) mit Genehmigung der Sicherheits-, Justiz- und Sportdirektion den Notarinnen und Notaren über die Präsidentin oder den Präsidenten der Notariatskammer und
 - b) den Geometerinnen und Geometern über das Amt für Vermessung und Geomatik.
 
 #### Art. 17
