@@ -3,20 +3,19 @@ canton: FR
 number: "710.31"
 title: Verordnung über die Annahme des kantonalen Richtplans
 language: de
-version: 2018-10-15
-valid_until: 2022-01-31
-version_adopted: 2018-10-02
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 2018-10-02
 in_force: 2018-10-15
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/6607/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7344/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Annahme des kantonalen Richtplans
 
-vom 02.10.2018 (Fassung in Kraft getreten am 15.10.2018)
+vom 02.10.2018 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -40,7 +39,7 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion wird mit dem Vollzug dieser Verordnung beauftragt.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt wird mit dem Vollzug dieser Verordnung beauftragt.
 
 <sup>2</sup> Das Bau- und Raumplanungsamt ist für die Verwaltung und die Nachführung des kantonalen Richtplans sowie die Koordination der raumplanerischen Tätigkeit im Kanton zuständig. Der Richtplan wird beim BRPA aufbewahrt, wo er eingesehen werden kann.
 
