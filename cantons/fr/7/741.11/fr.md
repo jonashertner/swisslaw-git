@@ -4,13 +4,13 @@ number: "741.11"
 title: "Règlement d'exécution de la loi sur les routes"
 short: RELR
 language: fr
-version: 2012-07-01
-valid_until: 2022-01-31
-version_adopted: 2012-05-15
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 1992-12-07
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/741.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5918/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7427/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Routes – R
 
 (RELR)
 
-du 07.12.1992 (version entrée en vigueur le 01.07.2012)
+du 07.12.1992 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -218,7 +218,7 @@ Arrête:
 
 **Autorité compétente**
 
-<sup>1</sup> La classification des routes cantonales en routes principales et secondaires et leur subdivision en catégories, ainsi que la mise à jour périodique, relèvent de la compétence de la Direction de l'aménagement, de l'environnement et des constructions.
+<sup>1</sup> La classification des routes cantonales en routes principales et secondaires et leur subdivision en catégories, ainsi que la mise à jour périodique, relèvent de la compétence de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
 
 ## 2 Construction et aménagement des routes (art. 20 al. 2, 21, 24 al. 3, 36 al. 2 et 54a LR)
 
@@ -350,7 +350,7 @@ Arrête:
 
 **Plans de routes (art. 32 LR)**
 
-<sup>1</sup> Le détail du contenu des plans de routes est fixé dans des directives de la Direction de l'aménagement, de l'environnement et des constructions.
+<sup>1</sup> Le détail du contenu des plans de routes est fixé dans des directives de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
 
 ### 2.5 Domaine public
 
@@ -360,7 +360,7 @@ Arrête:
 
 <sup>1</sup> Les trottoirs, les pistes et les bandes cyclables ainsi que les autres ouvrages annexes, jouxtant une route, sont intégrés au même domaine public que celle-ci.
 
-<sup>2</sup> Lorsque de tels ouvrages sont exécutés ultérieurement à l'aménagement de la chaussée, il est procédé à la mise à jour du bornage et à l'établissement d'un plan de la situation cadastrale définitive, selon les directives de la Direction de l'aménagement, de l'environnement et des constructions.
+<sup>2</sup> Lorsque de tels ouvrages sont exécutés ultérieurement à l'aménagement de la chaussée, il est procédé à la mise à jour du bornage et à l'établissement d'un plan de la situation cadastrale définitive, selon les directives de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
 
 <sup>3</sup> Le long des routes cantonales, les surfaces du domaine public cantonal peuvent être mises temporairement à la disposition des communes pour les trottoirs, pistes et bandes cyclables et les autres ouvrages annexes. Elles sont reportées sur un plan et font l'objet d'une convention; elles restent la propriété de l'Etat.
 
@@ -518,32 +518,32 @@ Arrête:
 <sup>1</sup> Le taux de la subvention variable résulte de la somme des points obtenus en fonction des critères légaux suivants:
 
 - a) Classe de la commune:
-  - 1\. Classe 1: 5 points
-  - 2\. Classe 2: 10 points
-  - 3\. Classe 3: 15 points
-  - 4\. Classe 4: 20 points
-  - 5\. Classe 5: 25 points
-  - 6\. Classe 6: 30 points
+  - 1\. Classe 1: — 5 points
+  - 2\. Classe 2: — 10 points
+  - 3\. Classe 3: — 15 points
+  - 4\. Classe 4: — 20 points
+  - 5\. Classe 5: — 25 points
+  - 6\. Classe 6: — 30 points
 - b) Population:
-  - 1\. Nombre d'habitants inférieur ou égal à 100: 24 points
-  - 2\. Nombre d'habitants de 101 à 200: 20 points
-  - 3\. Nombre d'habitants de 201 à 300: 16 points
-  - 4\. Nombre d'habitants de 301 à 500: 12 points
-  - 5\. Nombre d'habitants de 501 à 1500: 8 points
-  - 6\. Nombre d'habitants de 1501 à 3000: 4 points
-  - 7\. Plus de 3000 habitants: 0 point
+  - 1\. Nombre d'habitants inférieur ou égal à 100: — 24 points
+  - 2\. Nombre d'habitants de 101 à 200: — 20 points
+  - 3\. Nombre d'habitants de 201 à 300: — 16 points
+  - 4\. Nombre d'habitants de 301 à 500: — 12 points
+  - 5\. Nombre d'habitants de 501 à 1500: — 8 points
+  - 6\. Nombre d'habitants de 1501 à 3000: — 4 points
+  - 7\. Plus de 3000 habitants: — 0 point
 - c) Position géographique:
-  - 1\. Echelon 1 – Commune dont la localité est sise sur plusieurs routes cantonales ou commune dont la localité est sise sur une seule route cantonale, mais qui possède une ou plusieurs autres routes cantonales sur son territoire: 4 points
-  - 2\. Echelon 2 – Commune dont la localité est sise sur une seule route cantonale et qui n'a pas d'autre route cantonale: 8 points
-  - 3\. Echelon 3 – Commune dont la localité est sise à proximité d'une route cantonale, avec liaison facile: 12 points
-  - 4\. Echelon 4 – Commune ayant une route cantonale sur son territoire, mais avec liaison à la localité longue, difficile ou indirecte: 16 points
-  - 5\. Echelon 5 – Commune ayant une route cantonale sur son territoire, mais sans liaison de la localité à celle-là sur son territoire: 20 points
-  - 6\. Echelon 6 – Commune sans route cantonale: 24 points
+  - 1\. Echelon 1 – Commune dont la localité est sise sur plusieurs routes cantonales ou commune dont la localité est sise sur une seule route cantonale, mais qui possède une ou plusieurs autres routes cantonales sur son territoire: — 4 points
+  - 2\. Echelon 2 – Commune dont la localité est sise sur une seule route cantonale et qui n'a pas d'autre route cantonale: — 8 points
+  - 3\. Echelon 3 – Commune dont la localité est sise à proximité d'une route cantonale, avec liaison facile: — 12 points
+  - 4\. Echelon 4 – Commune ayant une route cantonale sur son territoire, mais avec liaison à la localité longue, difficile ou indirecte: — 16 points
+  - 5\. Echelon 5 – Commune ayant une route cantonale sur son territoire, mais sans liaison de la localité à celle-là sur son territoire: — 20 points
+  - 6\. Echelon 6 – Commune sans route cantonale: — 24 points
 - d) Intérêt de l'aménagement:
-  - 1\. Echelon 1 – Aménagement dans la localité: 2 points
-  - 2\. Echelon 2 – Aménagement de la liaison à la route cantonale: 4 points
-  - 3\. Echelon 3 – Liaison intercommunale de grand intérêt pour la commune: 6 points
-  - 4\. Echelon 4 – Liaison intercommunale d'intérêt secondaire pour la commune, mais vital pour une commune voisine: 8 points
+  - 1\. Echelon 1 – Aménagement dans la localité: — 2 points
+  - 2\. Echelon 2 – Aménagement de la liaison à la route cantonale: — 4 points
+  - 3\. Echelon 3 – Liaison intercommunale de grand intérêt pour la commune: — 6 points
+  - 4\. Echelon 4 – Liaison intercommunale d'intérêt secondaire pour la commune, mais vital pour une commune voisine: — 8 points
 
 <sup>2</sup> Dans l'application des critères c et d de l'alinéa 1, le nombre de points crédités à un projet peut résulter d'une interpolation entre deux échelons en fonction d'une appréciation plus précise du cas.
 
@@ -612,7 +612,7 @@ Arrête:
 
 <sup>3</sup> Si une demande de subvention est de la compétence du Grand Conseil, elle doit être présentée au plus tard douze semaines avant le début d'une session.
 
-<sup>4</sup> Des directives de la Direction de l'aménagement, de l'environnement et des constructions, propres à chaque type d'ouvrage, fixent le contenu des plans prévus à l'alinéa 2 let. c.
+<sup>4</sup> Des directives de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement, propres à chaque type d'ouvrage, fixent le contenu des plans prévus à l'alinéa 2 let. c.
 
 #### Art. 53
 
@@ -651,7 +651,7 @@ Arrête:
 
 <sup>1</sup> La mise en soumission et l'adjudication sont régies par la législation spéciale.
 
-<sup>2</sup> L'adjudication des travaux qui ont fait l'objet d'un décret du Grand Conseil est soumise à l'approbation de la Direction de l'aménagement, de l'environnement et des constructions; celle des travaux subventionnés par un arrêté du Conseil d'Etat est soumise à l'approbation du Service des ponts et chaussées.
+<sup>2</sup> L'adjudication des travaux qui ont fait l'objet d'un décret du Grand Conseil est soumise à l'approbation de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement; celle des travaux subventionnés par un arrêté du Conseil d'Etat est soumise à l'approbation du Service des ponts et chaussées.
 
 #### Art. 57
 
@@ -758,7 +758,7 @@ Arrête:
 
 **Planification et modalités de collaboration**
 
-<sup>1</sup> Le Conseil d'Etat constitue une commission de coordination placée sous l'égide de la Direction de l'aménagement, de l'environnement et des constructions et composée de représentants du Service des ponts et chaussées, de services spécialisés de l'Etat, des organisations et milieux intéressés ainsi que de l'Association des communes, en vue de la planification cantonale du réseau cyclable.
+<sup>1</sup> Le Conseil d'Etat constitue une commission de coordination placée sous l'égide de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement et composée de représentants du Service des ponts et chaussées, de services spécialisés de l'Etat, des organisations et milieux intéressés ainsi que de l'Association des communes, en vue de la planification cantonale du réseau cyclable.
 
 #### Art. 65
 

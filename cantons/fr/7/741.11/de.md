@@ -4,13 +4,13 @@ number: "741.11"
 title: Ausführungsreglement zum Strassengesetz
 short: ARStrG
 language: de
-version: 2012-07-01
-valid_until: 2022-01-31
-version_adopted: 2012-05-15
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 1992-12-07
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/741.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5918/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7427/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Strassen – R
 
 (ARStrG)
 
-vom 07.12.1992 (Fassung in Kraft getreten am 01.07.2012)
+vom 07.12.1992 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -218,7 +218,7 @@ beschliesst:
 
 **Zuständige Behörde**
 
-<sup>1</sup> Die Einteilung der Kantonsstrassen in die Klassen der Haupt- und Nebenstrassen und in Kategorien sowie deren periodische Nachführung sind der Raumplanungs-, Umwelt- und Baudirektion zur Genehmigung zu unterbreiten.
+<sup>1</sup> Die Einteilung der Kantonsstrassen in die Klassen der Haupt- und Nebenstrassen und in Kategorien sowie deren periodische Nachführung sind der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt zur Genehmigung zu unterbreiten.
 
 ## 2 Bau und Ausbau der Strassen (Art. 20 Abs. 2, 21, 24 Abs. 3, 36 Abs. 2 und 54a StrG)
 
@@ -350,7 +350,7 @@ beschliesst:
 
 **Strassenpläne (Art. 32 StrG)**
 
-<sup>1</sup> Die Einzelheiten der Strassenpläne werden in den Richtlinien der Raumplanungs-, Umwelt- und Baudirektion festgelegt.
+<sup>1</sup> Die Einzelheiten der Strassenpläne werden in den Richtlinien der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt festgelegt.
 
 ### 2.5 Öffentliche Sachen
 
@@ -360,7 +360,7 @@ beschliesst:
 
 <sup>1</sup> Die Trottoirs, die Radwege und die Radstreifen sowie die weitern Nebenanlagen einer Strasse gehören zur selben öffentlichen Sache wie die Strasse.
 
-<sup>2</sup> Werden solche Anlagen nach dem Ausbau der Fahrbahn erstellt, so werden nach Weisung der Raumplanungs-, Umwelt- und Baudirektion die Vermarkung nachgeführt und ein definitiver Kataster-Situationsplan erstellt.
+<sup>2</sup> Werden solche Anlagen nach dem Ausbau der Fahrbahn erstellt, so werden nach Weisung der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt die Vermarkung nachgeführt und ein definitiver Kataster-Situationsplan erstellt.
 
 <sup>3</sup> Längs der Kantonsstrassen kann das zu den öffentlichen Sachen des Kantons gehörende Land den Gemeinden für Trottoirs, Radwege und Radstreifen sowie für weitere Nebenanlagen vorübergehend zur Verfügung gestellt werden. Es wird in einem Plan dargestellt und ist Gegenstand einer Vereinbarung; es bleibt Eigentum des Staates.
 
@@ -518,32 +518,32 @@ beschliesst:
 <sup>1</sup>
 
 - a) Klasse der Gemeinde:
-  - 1\. Klasse 1: 5 Punkte
-  - 2\. Klasse 2: 10 Punkte
-  - 3\. Klasse 3: 15 Punkte
-  - 4\. Klasse 4: 20 Punkte
-  - 5\. Klasse 5: 25 Punkte
-  - 6\. Klasse 6: 30 Punkte
+  - 1\. Klasse 1: — 5 Punkte
+  - 2\. Klasse 2: — 10 Punkte
+  - 3\. Klasse 3: — 15 Punkte
+  - 4\. Klasse 4: — 20 Punkte
+  - 5\. Klasse 5: — 25 Punkte
+  - 6\. Klasse 6: — 30 Punkte
 - b) Bevölkerung:
-  - 1\. Einwohnerzahl bis 100: 24 Punkte
-  - 2\. Einwohnerzahl 101 – 200: 20 Punkte
-  - 3\. Einwohnerzahl 201 – 300: 16 Punkte
-  - 4\. Einwohnerzahl 301 – 500: 12 Punkte
-  - 5\. Einwohnerzahl 501 – 1500: 8 Punkte
-  - 6\. Einwohnerzahl 1501 – 3000: 4 Punkte
-  - 7\. Einwohnerzahl über 3000: 0 Punkte
+  - 1\. Einwohnerzahl bis 100: — 24 Punkte
+  - 2\. Einwohnerzahl 101 – 200: — 20 Punkte
+  - 3\. Einwohnerzahl 201 – 300: — 16 Punkte
+  - 4\. Einwohnerzahl 301 – 500: — 12 Punkte
+  - 5\. Einwohnerzahl 501 – 1500: — 8 Punkte
+  - 6\. Einwohnerzahl 1501 – 3000: — 4 Punkte
+  - 7\. Einwohnerzahl über 3000: — 0 Punkte
 - c) Geografische Lage:
-  - 1\. Stufe 1 – Gemeinde, deren Ortschaft an mehreren Kantonsstrassen liegt oder Gemeinde, deren Ortschaft an einer einzigen Kantonsstrasse liegt, durch deren Gebiet jedoch eine oder mehrere andere Kantonsstrassen führen: 4 Punkte
-  - 2\. Stufe 2 – Gemeinde, deren Ortschaft an einer einzigen Kantonsstrasse liegt und durch deren Gebiet keine andere Kantonsstrasse führt: 8 Punkte
-  - 3\. Stufe 3 – Gemeinde, deren Ortschaft in der Nähe einer Kantonsstrasse liegt und leicht zugänglich ist: 12 Punkte
-  - 4\. Stufe 4 – Gemeinde mit einer Kantonsstrasse auf ihrem Gebiet, jedoch mit einer langen, schwierigen oder indirekten Verbindung zur Ortschaft: 16 Punkte
-  - 5\. Stufe 5 – Gemeinde mit einer Kantonsstrasse auf ihrem Gebiet, jedoch ohne Verbindung auf ihrem Gebiet zur Ortschaft: 20 Punkte
-  - 6\. Stufe 6 – Gemeinde ohne Kantonsstrasse: 24 Punkte
+  - 1\. Stufe 1 – Gemeinde, deren Ortschaft an mehreren Kantonsstrassen liegt oder Gemeinde, deren Ortschaft an einer einzigen Kantonsstrasse liegt, durch deren Gebiet jedoch eine oder mehrere andere Kantonsstrassen führen: — 4 Punkte
+  - 2\. Stufe 2 – Gemeinde, deren Ortschaft an einer einzigen Kantonsstrasse liegt und durch deren Gebiet keine andere Kantonsstrasse führt: — 8 Punkte
+  - 3\. Stufe 3 – Gemeinde, deren Ortschaft in der Nähe einer Kantonsstrasse liegt und leicht zugänglich ist: — 12 Punkte
+  - 4\. Stufe 4 – Gemeinde mit einer Kantonsstrasse auf ihrem Gebiet, jedoch mit einer langen, schwierigen oder indirekten Verbindung zur Ortschaft: — 16 Punkte
+  - 5\. Stufe 5 – Gemeinde mit einer Kantonsstrasse auf ihrem Gebiet, jedoch ohne Verbindung auf ihrem Gebiet zur Ortschaft: — 20 Punkte
+  - 6\. Stufe 6 – Gemeinde ohne Kantonsstrasse: — 24 Punkte
 - d) Ausbauinteresse:
-  - 1\. Stufe 1 – Ausbau in der Ortschaft: 2 Punkte
-  - 2\. Stufe 2 – Ausbau der Verbindung zur Kantonsstrasse: 4 Punkte
-  - 3\. Stufe 3 – Interkommunale Verbindung von bedeutendem Interesse für die Gemeinde: 6 Punkte
-  - 4\. Stufe 4 – Interkommunale Verbindung von untergeordnetem Interesse für die Gemeinde, jedoch von grösstem Interesse für eine Nachbargemeinde: 8 Punkte
+  - 1\. Stufe 1 – Ausbau in der Ortschaft: — 2 Punkte
+  - 2\. Stufe 2 – Ausbau der Verbindung zur Kantonsstrasse: — 4 Punkte
+  - 3\. Stufe 3 – Interkommunale Verbindung von bedeutendem Interesse für die Gemeinde: — 6 Punkte
+  - 4\. Stufe 4 – Interkommunale Verbindung von untergeordnetem Interesse für die Gemeinde, jedoch von grösstem Interesse für eine Nachbargemeinde: — 8 Punkte
 
 <sup>2</sup> Bei der Anwendung der Kriterien nach Absatz 1 Buchstaben c und d kann die Punktezahl für ein Projekt durch eine Interpolation zwischen zwei Stufen aufgrund einer genaueren Bewertung des Falles ermittelt werden.
 
@@ -612,7 +612,7 @@ beschliesst:
 
 <sup>3</sup> Ist für ein Beitragsgesuch der Grosse Rat zuständig, so muss es in der Regel mindestens zwölf Wochen vor Beginn einer Session vorgelegt werden.
 
-<sup>4</sup> Die Richtlinien der Raumplanungs-, Umwelt- und Baudirektion legen je nach der Art der Anlage den Inhalt der im Absatz 2 Buchstabe c vorgesehenen Pläne fest.
+<sup>4</sup> Die Richtlinien der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt legen je nach der Art der Anlage den Inhalt der im Absatz 2 Buchstabe c vorgesehenen Pläne fest.
 
 #### Art. 53
 
@@ -651,7 +651,7 @@ beschliesst:
 
 <sup>1</sup> Die Ausschreibung und die Vergabe der Arbeiten werden in der Spezialgesetzgebung geregelt.
 
-<sup>2</sup> Bei Arbeiten, die Gegenstand eines Dekretes des Grossen Rates waren, ist die Vergabe der Raumplanungs-, Umwelt- und Baudirektion zur Genehmigung zu unterbreiten; bei Arbeiten, die durch einen Staatsratsbeschluss subventioniert wurden, ist die Vergabe dem Tiefbauamt zu unterbreiten.
+<sup>2</sup> Bei Arbeiten, die Gegenstand eines Dekretes des Grossen Rates waren, ist die Vergabe der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt zur Genehmigung zu unterbreiten; bei Arbeiten, die durch einen Staatsratsbeschluss subventioniert wurden, ist die Vergabe dem Tiefbauamt zu unterbreiten.
 
 #### Art. 57
 
@@ -758,7 +758,7 @@ beschliesst:
 
 **Planung und Zusammenarbeit**
 
-<sup>1</sup> Der Staatsrat setzt eine Koordinationskommission ein, die von der Raumplanungs-, Umwelt- und Baudirektion geleitet wird. Diese Kommission besteht aus Vertretern des Tiefbauamtes, der Fachstellen des Staates, der interessierten Organisationen und Kreise sowie des Gemeindeverbandes. Diese Kommission befasst sich mit der kantonalen Planung der Radwege und Radstreifen.
+<sup>1</sup> Der Staatsrat setzt eine Koordinationskommission ein, die von der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt geleitet wird. Diese Kommission besteht aus Vertretern des Tiefbauamtes, der Fachstellen des Staates, der interessierten Organisationen und Kreise sowie des Gemeindeverbandes. Diese Kommission befasst sich mit der kantonalen Planung der Radwege und Radstreifen.
 
 #### Art. 65
 
