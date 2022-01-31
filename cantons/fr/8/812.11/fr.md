@@ -4,13 +4,13 @@ number: "812.11"
 title: Règlement sur les eaux
 short: RCEaux
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-01
 adopted: 2011-06-21
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/812.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7039/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7401/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Eaux – R
 
 (RCEaux)
 
-du 21.06.2011 (version entrée en vigueur le 01.01.2022)
+du 21.06.2011 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -49,9 +49,9 @@ Arrête:
 
 #### Art. 2
 
-**Direction de l'aménagement, de l'environnement et des constructions**
+**Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement**
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions (ci-après: DAEC) exécute toutes les tâches qui ne sont pas confiées à un autre organe d'exécution.
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: DIME) exécute toutes les tâches qui ne sont pas confiées à un autre organe d'exécution.
 
 #### Art. 3
 
@@ -64,7 +64,7 @@ Arrête:
 - c) la surveillance de l'état qualitatif et quantitatif des eaux (art. 5 LCEaux);
 - d) l'organisation de la police de la protection des eaux (art. 49 LEaux).
 
-<sup>2</sup> Il est constitué de personnes représentant les services et organes concernés par la gestion des eaux; il est présidé par une personne représentant la DAEC.
+<sup>2</sup> Il est constitué de personnes représentant les services et organes concernés par la gestion des eaux; il est présidé par une personne représentant la DIME.
 
 #### Art. 4
 
@@ -159,7 +159,7 @@ Arrête:
 <sup>1</sup> La décision est de la compétence de:
 
 - a) la Direction des institutions, de l'agriculture et des forêts pour les cas visés à l'article 9 al. 1 let. f à h;
-- b) la DAEC dans les autres cas.
+- b) la DIME dans les autres cas.
 
 ### 1.3 Planification
 
@@ -206,11 +206,11 @@ Arrête:
 
 <sup>1</sup> Lorsqu'une installation ou un équipement doit être assaini conformément à l'article 14 LCEaux, le détenteur ou la détentrice présente à bref délai un projet d'assainissement à la commune et au SEn pour examen.
 
-<sup>2</sup> Si le projet présenté est accepté par le SEn ou si le détenteur ou la détentrice ne présente pas de projet, la DAEC rend une décision d'assainissement.
+<sup>2</sup> Si le projet présenté est accepté par le SEn ou si le détenteur ou la détentrice ne présente pas de projet, la DIME rend une décision d'assainissement.
 
 <sup>3</sup> La décision d'assainissement est notifiée au détenteur ou à la détentrice. Au besoin, elle fait l'objet d'une publication dans la Feuille officielle.
 
-<sup>4</sup> A défaut d'exécution de l'assainissement par le détenteur ou la détentrice, la DAEC y pourvoit aux frais de l'obligé-e.
+<sup>4</sup> A défaut d'exécution de l'assainissement par le détenteur ou la détentrice, la DIME y pourvoit aux frais de l'obligé-e.
 
 <sup>5</sup> Tant que l'assainissement n'est pas exécuté, le détenteur ou la détentrice doit prendre toutes les mesures nécessaires afin de respecter les prescriptions en matière de protection des eaux.
 
@@ -504,7 +504,7 @@ Arrête:
 
 <sup>4</sup> Les frais d'intervention sont à la charge de l'employeur lorsque l'atteinte est le fait d'un de ses travailleurs ou d'une de ses travailleuses ou autres auxiliaires dans l'accomplissement du travail (art. 55 CO).
 
-<sup>5</sup> Lorsque le perturbateur ou la perturbatrice est inconnu-e ou insolvable et que l'origine de la pollution ne peut être attribuée précisément à une commune, la DAEC rend une décision fixant une répartition équitable de la part communale entre les communes concernées si celles-ci n'ont pas trouvé une entente.
+<sup>5</sup> Lorsque le perturbateur ou la perturbatrice est inconnu-e ou insolvable et que l'origine de la pollution ne peut être attribuée précisément à une commune, la DIME rend une décision fixant une répartition équitable de la part communale entre les communes concernées si celles-ci n'ont pas trouvé une entente.
 
 #### Art. 45
 
@@ -562,9 +562,9 @@ Arrête:
 
 **Assainissement des prélèvements d'eau existants**
 
-<sup>1</sup> L'assainissement des prélèvements d'eau existants, tel qu'il est défini aux articles 80 à 83 LEaux, est ordonné par la DAEC après consultation des services et organes concernés.
+<sup>1</sup> L'assainissement des prélèvements d'eau existants, tel qu'il est défini aux articles 80 à 83 LEaux, est ordonné par la DIME après consultation des services et organes concernés.
 
-<sup>2</sup> Avant d'ordonner les mesures d'assainissement, la DAEC entend le ou la bénéficiaire du prélèvement et les organisations concernées par la protection des eaux en leur communiquant le projet de décision.
+<sup>2</sup> Avant d'ordonner les mesures d'assainissement, la DIME entend le ou la bénéficiaire du prélèvement et les organisations concernées par la protection des eaux en leur communiquant le projet de décision.
 
 <sup>3</sup> La décision d'assainissement est notifiée au ou à la bénéficiaire du prélèvement. Elle fait l'objet d'une publication dans la Feuille officielle.
 
@@ -572,11 +572,11 @@ Arrête:
 
 **Assainissement des éclusées et du régime de charriage**
 
-<sup>1</sup> L'assainissement des éclusées et du régime de charriage (art. 83a LEaux) fait l'objet d'une planification adoptée par la DAEC après consultation des services et organes concernés.
+<sup>1</sup> L'assainissement des éclusées et du régime de charriage (art. 83a LEaux) fait l'objet d'une planification adoptée par la DIME après consultation des services et organes concernés.
 
-<sup>2</sup> En exécution de la planification, la DAEC ordonne les mesures d'assainissement nécessaires après consultation des services et organes concernés.
+<sup>2</sup> En exécution de la planification, la DIME ordonne les mesures d'assainissement nécessaires après consultation des services et organes concernés.
 
-<sup>3</sup> Avant d'ordonner ces mesures, la DAEC entend le détenteur ou la détentrice de l'installation et les organisations concernées en leur communiquant le projet de décision.
+<sup>3</sup> Avant d'ordonner ces mesures, la DIME entend le détenteur ou la détentrice de l'installation et les organisations concernées en leur communiquant le projet de décision.
 
 <sup>4</sup> La décision d'assainissement est notifiée au détenteur ou à la détentrice de l'installation. Elle fait l'objet d'une publication dans la Feuille officielle.
 
@@ -665,7 +665,7 @@ Arrête:
 
 <sup>1</sup> Le requérant ou la requérante d'une extraction de matériaux du domaine public des eaux doit fournir des précisions sur la localisation, le volume et l'étendue de l'extraction, sur la destination des matériaux et, si nécessaire, sur le régime de charriage.
 
-<sup>2</sup> Les extractions doivent faire l'objet d'une notice d'impact sur l'environnement. Une dérogation à ce principe peut être accordée par la DAEC selon le type et l'importance du cours d'eau ainsi que selon la quantité de gravier à extraire.
+<sup>2</sup> Les extractions doivent faire l'objet d'une notice d'impact sur l'environnement. Une dérogation à ce principe peut être accordée par la DIME selon le type et l'importance du cours d'eau ainsi que selon la quantité de gravier à extraire.
 
 <sup>3</sup> Les dépotoirs ne sont pas soumis à cette obligation.
 
@@ -689,7 +689,7 @@ Arrête:
 
 <sup>1</sup> Les travaux pour lesquels une subvention est demandée ne peuvent pas commencer avant que la couverture des frais ne soit assurée.
 
-<sup>2</sup> La compétence d'octroyer les subventions jusqu'à 500'000 francs par projet est déléguée à la DAEC.
+<sup>2</sup> La compétence d'octroyer les subventions jusqu'à 500'000 francs par projet est déléguée à la DIME.
 
 <sup>3</sup> Pour les projets d'aménagement de cours d'eau, les exigences suivantes doivent être respectées pour avoir droit aux subventions:
 
@@ -740,7 +740,7 @@ Arrête:
 
 **Subventions complémentaires (art. 48 et 49 LCEaux)**
 
-<sup>1</sup> Le taux de la subvention complémentaire pour les travaux d'aménagement de cours d'eau en région de montagne est de 5 %. La DAEC délimite le périmètre concerné. A défaut, la région de montagne est fixée selon les limites des zones agricoles définies par l'Office fédéral de l'agriculture.
+<sup>1</sup> Le taux de la subvention complémentaire pour les travaux d'aménagement de cours d'eau en région de montagne est de 5 %. La DIME délimite le périmètre concerné. A défaut, la région de montagne est fixée selon les limites des zones agricoles définies par l'Office fédéral de l'agriculture.
 
 <sup>2</sup> Le taux de la subvention complémentaire pour les travaux d'aménagement de cours d'eau dont les terrains sont acquis et répartis dans le cadre d'un projet d'améliorations foncières est de 5 %.
 

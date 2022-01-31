@@ -4,13 +4,13 @@ number: "812.11"
 title: Gewässerreglement
 short: GewR
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-01
 adopted: 2011-06-21
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/812.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7039/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7401/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gewässerreglement
 
 (GewR)
 
-vom 21.06.2011 (Fassung in Kraft getreten am 01.01.2022)
+vom 21.06.2011 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -49,9 +49,9 @@ beschliesst:
 
 #### Art. 2
 
-**Raumplanungs-, Umwelt- und Baudirektion**
+**Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt**
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion (RUBD) führt alle Aufgaben aus, die nicht ausdrücklich einem anderen Vollzugsorgan übertragen werden.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU) führt alle Aufgaben aus, die nicht ausdrücklich einem anderen Vollzugsorgan übertragen werden.
 
 #### Art. 3
 
@@ -64,7 +64,7 @@ beschliesst:
 - c) die Aufsicht über den qualitativen und quantitativen Zustand der Gewässer (Art. 5 GewG);
 - d) die Organisation der Gewässerschutzpolizei (Art. 49 GSchG).
 
-<sup>2</sup> Sie setzt sich zusammen aus Vertreterinnen und Vertretern der von der Gewässerbewirtschaftung betroffenen Dienststellen und Organe; den Vorsitz hat die Vertreterin oder der Vertreter der RUBD.
+<sup>2</sup> Sie setzt sich zusammen aus Vertreterinnen und Vertretern der von der Gewässerbewirtschaftung betroffenen Dienststellen und Organe; den Vorsitz hat die Vertreterin oder der Vertreter der RIMU.
 
 #### Art. 4
 
@@ -159,7 +159,7 @@ beschliesst:
 <sup>1</sup> Zuständig für die Verfügung ist:
 
 - a) die Direktion der Institutionen und der Land- und Forstwirtschaft in den Fällen nach Artikel 9 Abs. 1 Bst. f–h;
-- b) die RUBD in allen anderen Fällen.
+- b) die RIMU in allen anderen Fällen.
 
 ### 1.3 Planung
 
@@ -206,11 +206,11 @@ beschliesst:
 
 <sup>1</sup> Ist eine Sanierung einer Anlage oder Einrichtung nach Artikel 14 GewG nötig, so unterbreitet die Inhaberin oder der Inhaber der Gemeinde und dem AfU innerhalb kurzer Frist ein Sanierungsprojekt zur Prüfung.
 
-<sup>2</sup> Falls das Projekt vom AfU genehmigt wird oder die Inhaberin beziehungsweise der Inhaber kein Sanierungsprojekt unterbreitet, erlässt die RUBD eine Sanierungsverfügung.
+<sup>2</sup> Falls das Projekt vom AfU genehmigt wird oder die Inhaberin beziehungsweise der Inhaber kein Sanierungsprojekt unterbreitet, erlässt die RIMU eine Sanierungsverfügung.
 
 <sup>3</sup> Die Sanierungsverfügung wird der Inhaberin oder dem Inhaber der Anlage zugestellt und nötigenfalls im Amtsblatt veröffentlicht.
 
-<sup>4</sup> Führt die Inhaberin oder der Inhaber die Sanierung nicht aus, lässt sie die RUBD auf deren bzw. dessen Kosten ausführen.
+<sup>4</sup> Führt die Inhaberin oder der Inhaber die Sanierung nicht aus, lässt sie die RIMU auf deren bzw. dessen Kosten ausführen.
 
 <sup>5</sup> Solange die Sanierung nicht verwirklicht wurde, muss die Inhaberin oder der Inhaber alle Massnahmen ergreifen, die für die Einhaltung der Vorschriften im Bereich des Gewässerschutzes nötig sind.
 
@@ -504,7 +504,7 @@ beschliesst:
 
 <sup>4</sup> Wird die Einwirkung während der Arbeit durch eine Arbeitnehmerin oder einen Arbeitnehmer oder eine Hilfskraft verursacht, so gehen die Einsatzkosten zulasten des Arbeitgebers (Art. 55 OR).
 
-<sup>5</sup> Ist die Störerin oder der Störer unbekannt oder zahlungsunfähig, konnte der Ursprung nicht präzise einer Gemeinde zugeordnet werden und können sich die Gemeinden nicht einigen, so erlässt die RUBD eine Verfügung, in der die Kosten angemessen unter den betroffenen Gemeinden aufgeteilt werden.
+<sup>5</sup> Ist die Störerin oder der Störer unbekannt oder zahlungsunfähig, konnte der Ursprung nicht präzise einer Gemeinde zugeordnet werden und können sich die Gemeinden nicht einigen, so erlässt die RIMU eine Verfügung, in der die Kosten angemessen unter den betroffenen Gemeinden aufgeteilt werden.
 
 #### Art. 45
 
@@ -562,9 +562,9 @@ beschliesst:
 
 **Sanierung der bestehenden Wasserentnahmen**
 
-<sup>1</sup> Die Sanierung der bestehenden Wasserentnahmen nach den Artikeln 80–83 GSchG wird von der RUBD nach Anhörung der betroffenen Dienststellen und Organe verfügt.
+<sup>1</sup> Die Sanierung der bestehenden Wasserentnahmen nach den Artikeln 80–83 GSchG wird von der RIMU nach Anhörung der betroffenen Dienststellen und Organe verfügt.
 
-<sup>2</sup> Bevor die RUBD die Sanierungsmassnahmen verfügt, hört sie die Nutzniesserin oder den Nutzniesser der Bewilligung zur Wasserentnahme und die im Bereich des Gewässerschutzes tätigen Organisationen an und übermittelt ihnen den Verfügungsentwurf.
+<sup>2</sup> Bevor die RIMU die Sanierungsmassnahmen verfügt, hört sie die Nutzniesserin oder den Nutzniesser der Bewilligung zur Wasserentnahme und die im Bereich des Gewässerschutzes tätigen Organisationen an und übermittelt ihnen den Verfügungsentwurf.
 
 <sup>3</sup> Die Sanierungsverfügung wird der Nutzniesserin oder dem Nutzniesser der Bewilligung zur Wasserentnahme zugestellt und im Amtsblatt veröffentlicht.
 
@@ -572,11 +572,11 @@ beschliesst:
 
 **Sanierung bei Schwall und Sunk sowie des Geschiebehaushalts**
 
-<sup>1</sup> Die Sanierung bei Schwall und Sunk sowie des Geschiebehaushalts (Art. 83a GSchG) ist Gegenstand einer Planung, die die RUBD nach Anhörung der betroffenen Dienststellen und Organe verabschiedet.
+<sup>1</sup> Die Sanierung bei Schwall und Sunk sowie des Geschiebehaushalts (Art. 83a GSchG) ist Gegenstand einer Planung, die die RIMU nach Anhörung der betroffenen Dienststellen und Organe verabschiedet.
 
-<sup>2</sup> Die RUBD ordnet nach Anhörung der betroffenen Dienststellen und Organe die zur Umsetzung der Planung erforderlichen Sanierungsmassnahmen an.
+<sup>2</sup> Die RIMU ordnet nach Anhörung der betroffenen Dienststellen und Organe die zur Umsetzung der Planung erforderlichen Sanierungsmassnahmen an.
 
-<sup>3</sup> Bevor die RUBD die Sanierungsmassnahmen verfügt, hört sie die Inhaberin oder den Inhaber der Anlage und die betroffenen Organisationen an und übermittelt ihnen den Verfügungsentwurf.
+<sup>3</sup> Bevor die RIMU die Sanierungsmassnahmen verfügt, hört sie die Inhaberin oder den Inhaber der Anlage und die betroffenen Organisationen an und übermittelt ihnen den Verfügungsentwurf.
 
 <sup>4</sup> Die Sanierungsverfügung wird der Inhaberin oder dem Inhaber der Anlage zugestellt und im Amtsblatt veröffentlicht.
 
@@ -665,7 +665,7 @@ beschliesst:
 
 <sup>1</sup> Wer ein Gesuch für eine Materialgewinnung aus öffentlichen Gewässern einreicht, muss genaue Angaben zu Standort, Volumen und Ausmass der Materialentnahmen, zur Bestimmung des Materials und gegebenenfalls zum Geschiebehaushalt machen.
 
-<sup>2</sup> Für eine Materialentnahme muss ein Kurzbericht zur Umweltverträglichkeit verfasst werden. Die RUBD kann je nach Art und Bedeutung des Fliessgewässers und Volumen der Materialentnahme einer Abweichung von diesem Grundsatz zustimmen.
+<sup>2</sup> Für eine Materialentnahme muss ein Kurzbericht zur Umweltverträglichkeit verfasst werden. Die RIMU kann je nach Art und Bedeutung des Fliessgewässers und Volumen der Materialentnahme einer Abweichung von diesem Grundsatz zustimmen.
 
 <sup>3</sup> Schlammsammler sind von dieser Pflicht ausgenommen.
 
@@ -689,7 +689,7 @@ beschliesst:
 
 <sup>1</sup> Die Wasserbauarbeiten, für die Subventionen beantragt werden, dürfen erst in Angriff genommen werden, wenn deren Kostendeckung gewährleistet ist.
 
-<sup>2</sup> Die RUBD entscheidet über die Gewährung von Beiträgen bis zu 500'000 Franken pro Projekt.
+<sup>2</sup> Die RIMU entscheidet über die Gewährung von Beiträgen bis zu 500'000 Franken pro Projekt.
 
 <sup>3</sup> Damit ein Wasserbauprojekt Anrecht auf Beiträge gibt, müssen folgende Bedingungen erfüllt sein:
 
@@ -740,7 +740,7 @@ beschliesst:
 
 **Zusätzliche Subventionen (Art. 48 und 49 GewG)**
 
-<sup>1</sup> Der Satz der zusätzlichen Subvention für Wasserbauarbeiten im Berggebiet beträgt 5 %. Die RUBD legt den Perimeter dieses Gebiets fest. Andernfalls wird das Berggebiet nach den vom Bundesamt für Landwirtschaft definierten landwirtschaftlichen Zonengrenzen festgelegt.
+<sup>1</sup> Der Satz der zusätzlichen Subvention für Wasserbauarbeiten im Berggebiet beträgt 5 %. Die RIMU legt den Perimeter dieses Gebiets fest. Andernfalls wird das Berggebiet nach den vom Bundesamt für Landwirtschaft definierten landwirtschaftlichen Zonengrenzen festgelegt.
 
 <sup>2</sup> Der Satz der zusätzlichen Subvention für den Erwerb und das Aufteilen von Grundstücken im Rahmen eines Bodenverbesserungsprojekts für Wasserbauarbeiten beträgt 5 %.
 
