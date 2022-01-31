@@ -3,13 +3,12 @@ canton: FR
 number: "415.4.42"
 title: Verordnung über die Entschädigung für die Praktikumsbetreuung auf der Vorschul- oder Primarschulstufe
 language: de
-version: 2002-09-01
-valid_until: 2022-01-31
-version_adopted: 2003-05-13
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2003-05-13
 in_force: 2002-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/415.4.42"
-pdf: "https://bdlf.fr.ch/api/de/versions/5190/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7388/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5190/pdf_file"
 
 Praktikumsbetreuung auf der Primarschulstufe, Entschädigung – V
 
-vom 13.05.2003 (Fassung in Kraft getreten am 01.09.2002)
+vom 13.05.2003 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -38,12 +37,12 @@ beschliesst:
 
 <sup>1</sup> Lehrerinnen und Lehrer, die Praktika auf der Vorschul- oder Primarschulstufe betreuen, werden in der Regel wie folgt entschädigt:
 
-- a) eine ganze Woche: Fr. 300
-- b) ein einzelner Tag: Fr. 60
+- a) eine ganze Woche: — Fr. 300
+- b) ein einzelner Tag: — Fr. 60
 
 #### Art. 2
 
-<sup>1</sup> Die Direktion für Erziehung, Kultur und Sport (die Direktion) kann die Entschädigung für eine Woche aufgrund der folgenden Elemente variieren:
+<sup>1</sup> Die Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) kann die Entschädigung für eine Woche aufgrund der folgenden Elemente variieren:
 
 - a) Zahl der Praktikantinnen und Praktikanten pro Klasse (1, 2 oder mehr);
 - b) Praktikumstyp: normales Praktikum, Praktikum in der anderen Sprachregion, Abschlusspraktikum mit hoher Selbständigkeit.

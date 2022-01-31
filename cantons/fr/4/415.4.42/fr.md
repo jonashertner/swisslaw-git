@@ -3,13 +3,12 @@ canton: FR
 number: "415.4.42"
 title: "Ordonnance fixant les honoraires pour l'encadrement de stages dans les classes enfantines et primaires"
 language: fr
-version: 2002-09-01
-valid_until: 2022-01-31
-version_adopted: 2003-05-13
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2003-05-13
 in_force: 2002-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/415.4.42"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5190/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7388/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5190/pdf_file"
 
 Stages dans les écoles enfantines et primaires, honoraires – O
 
-du 13.05.2003 (version entrée en vigueur le 01.09.2002)
+du 13.05.2003 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -38,12 +37,12 @@ Arrête:
 
 <sup>1</sup> Les enseignants et enseignantes qui reçoivent des candidats et candidates à l'enseignement dans les classes enfantines et primaires sont en principe rétribués comme il suit:
 
-- a) une semaine entière: Fr. 300
-- b) un jour isolé: Fr. 60
+- a) une semaine entière: — Fr. 300
+- b) un jour isolé: — Fr. 60
 
 #### Art. 2
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) peut décider de varier la rétribution pour une semaine entière en fonction des éléments suivants:
+<sup>1</sup> La Direction de la formation et des affaires culturelles (ci-après: la Direction) peut décider de varier la rétribution pour une semaine entière en fonction des éléments suivants:
 
 - a) nombre de stagiaires par classe (1, 2 ou plus);
 - b) type de stage: stage d'enseignement normal, stage dans l'autre région linguistique, stage final en responsabilité.
