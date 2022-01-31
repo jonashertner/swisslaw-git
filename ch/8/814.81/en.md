@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2022-01-01
+version: 2022-02-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220201-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Status as of 1 January 2022)
+of 18 May 2005 (Status as of 1 February 2022)
 
 The Swiss Federal Council,
 
@@ -1276,7 +1276,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must appear in at least two official languages and comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -1803,7 +1803,7 @@ Annex 1.10*[^t-11]*
 
 ## Substances classified as carcinogenic, mutagenic or toxic to reproduction
 
-[^t-11]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No. II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 18 Nov. 2020, in force from 15 Dec. 2020 until 1 June 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) and by No I of the O of 1 Feb. 2021, in force since 1 March 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
+[^t-11]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 18 Nov. 2020, in force from 15 Dec. 2020 until 1 June 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), No I of the FOPH O of 1 Feb. 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)) and of 23 Dec. 2021, in force since 1 Feb. 2022 ([AS 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)).
 
 ### 1 Prohibition
 
@@ -1813,8 +1813,8 @@ Annex 1.10*[^t-11]*
 
 <sup>3</sup> The use of thermal paper with a content by mass of bisphenol A (CAS No 80-05-7) or bisphenol S (CAS No 80-09-1) of 0.02 per cent or more.
 
-[^annex110-lvlu1-lvl1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) 2020/2096, OJ L 125 of 16.12.2020, p. 3.
-[^annex110-lvlu1-lvl1-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Regulation (EU) 2018/669, OJ L 115 of 4.5.2018, p. 1.
+[^annex110-lvlu1-lvl1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) 2021/2204, OJ L 446 of 14.12.2021, p. 34.
+[^annex110-lvlu1-lvl1-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Delegated Regulation (EU) 2021/849, OJ L 188 of 28.5.2021, p.27.
 
 ### 2 Exemptions
 
@@ -1845,14 +1845,35 @@ Annex 1.10*[^t-11]*
 
 <sup>2</sup> This marking must appear in at least two official languages, be clearly legible and indelible.
 
-### 4 Transitional Provision to the Amendment of 1 February 2021
+### 4 Transitional Provision to the Amendment of 23 December 2021
 
-The following substances included by Regulation (EU) 2020/2096[^annex110-lvlu1-lvl4-1] in Annex XVII Appendices 1–6 of the EU REACH Regulation, and substances and preparations that contain such substances may continue to be supplied to the general public until the following dates:
+The following substances included by Regulation (EU) 2021/2204[^annex110-lvlu1-lvl4-1] in Annex XVII Appendices 1–6 of the EU REACH Regulation, and substances and preparations that contain such substances may continue to be supplied to the general public until the following dates:
 
-- a. until 4 July 2021: pyrocatechol (CAS 120-80-9), acetaldehyde (CAS 75-07-0), spirodiclofen (CAS 148477-71-8), 2-benzyl-2-dimethylamino-4′- morpholinobutyrophenone (CAS 119313-12-1), propiconazole (CAS 60207-90-1) and 1-vinylimidazole (CAS 1072-63-5);
+- a.
+
+  until 1 March 2022: the following substances:
+
+  - – Silicon carbide fibres (with diameter of &lt; 3 μm, length &gt; 5 μm and aspect ratio ≥ 3:1) (CAS 409-21-2 or CAS 308076-74-6)
+  - – Sodium-N-(hydroxymethyl) glycinate; [formaldehyde released from sodium-N-(hydroxymethyl) glycinate] (CAS 70161-44-3)
+  - – Methylolacrylamide (CAS 924-42-5)
+  - – Resorcinol diglycidyl ether (CAS 101-90-6)
+  - – Butanone oxime (CAS 96-29-7)
+  - – Dibenzo[def,p]chrysene / Dibenzo[a,l]pyrene (CAS 191-30-0)
+  - – Tris(2-methoxyethoxy) vinylsilane (CAS 1067-53-4)
+  - – Dioctyltin dilaurate (CAS 3648-18-8) and stannane, dioctyl, bis (coco acyloxy) derivatives (CAS 91648-39-4)
+  - – Ipconazole (ISO) (CAS 125225-28-7, CAS 115850-69-6, CAS 115937-89-8)
+  - – Tetraethylene glycol dimethyl ether (CAS 143-24-8)
+  - – 2-(4-tert-Butylbenzyl) propionaldehyde (CAS 80-54-6)
+  - – Diisooctyl phthalate (CAS 27554-26-3)
+  - – 2-Methoxyethyl acrylate (CAS 3121-61-7)
+  - – Pyrithione zinc (CAS 13463-41-7)
+  - – Flurochloridone (ISO) (CAS 61213-25-0)
+  - – Bis(α,α-dimethylbenzyl) peroxide (CAS 80-43-3)
+  - – Dichlordioctyl stannane (CAS 3542-36-7);
+
 - b. until 30 September 2021: all substances that do not fall under letter a.
 
-[^annex110-lvlu1-lvl4-1]: Commission Regulation (EU) 2020/2096 of 15 December 2020 amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), as regards carcinogenic, mutagenic or reproductive toxicant (CMR) substances, devices covered by Regulation (EU) 2017/745 of the European Parliament and of the Council, persistent organic pollutants, certain liquid substances or mixtures, nonylphenol and testing methods for azocolourants, last amended by OJ L 425 of 16.12.2020, p. 3.
+[^annex110-lvlu1-lvl4-1]: Commission Regulation (EU) 2021/2204 der of 13 December 2021, last amended by OJ L 446 of 14.12.2021, p. 34.
 
 Annex 1.11*[^t-12]*
 
@@ -3883,7 +3904,7 @@ Annex 2.9*[^t-28]*
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/en/xml/image/image2.png)</sup>
 
 <sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass and intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 
@@ -4630,17 +4651,17 @@ Consumers must hand over batteries to a trader or manufacturer with a take‑bac
 
 ### 6.1 Liability for the fee
 
-<sup>1</sup> A prepaid disposal fee (fee) for batteries placed on the market (batteries subject to the fee) must be paid to an organisation appointed by the FOEN in accordance with Number 6.7 (the Fee Organisation) by:
+<sup>1</sup> A prepaid disposal fee (fee) for batteries placed on the market (batteries subject to the fee) must be paid to an organisation appointed by the FOEN in accordance with Number 6.7 (organisation) by:
 
 - a. manufacturers of batteries;
 - b. manufacturers of vehicles or appliances which incorporate batteries, if these batteries are not already subject to the fee.
 
 <sup>2</sup> Paragraph 1 letter b does not apply if third parties have assumed liability for the fee as specified in paragraph 1 and the reporting obligation as specified in Number 6.3 paragraph 1.
 
-<sup>3</sup> On request, the Fee Organisation shall exempt manufacturers of automotive and industrial batteries and of vehicles and appliances incorporating automotive or industrial batteries from liability for the fee if they:
+<sup>3</sup> On request, the organisation shall exempt manufacturers of automotive and industrial batteries and of vehicles and appliances incorporating automotive or industrial batteries from liability for the fee if they:
 
 - a. on the basis of a sectoral solution or as a result of particular market condition, ensure environmentally sound disposal of the batteries and the covering of all disposal costs; and
-- b. make a suitable contribution to the costs incurred by the Fee Organisation for exemption from the liability for the fee and reporting as specified in Number 6.3 paragraph 2.
+- b. make a suitable contribution to the costs incurred by the organisation for exemption from the liability for the fee and reporting as specified in Number 6.3 paragraph 2.
 
 ### 6.2 Level of the fee
 
@@ -4650,21 +4671,21 @@ Consumers must hand over batteries to a trader or manufacturer with a take‑bac
 
 ### 6.3 Reporting obligation
 
-<sup>1</sup> Those liable for the fee must report to the Fee Organisation, in accordance with its requirements, the quantity of batteries subject to the fee placed on the market, indicating in particular the types of batteries and the pollutant content. Reporting shall be carried out monthly, unless a different interval has been agreed with the Fee Organisation.
+<sup>1</sup> Those liable for the fee must report to the organisation, in accordance with its requirements, the quantity of batteries subject to the fee placed on the market, indicating in particular the types of batteries and the pollutant content. Reporting shall be carried out monthly, unless a different interval has been agreed with the organisation.
 
-<sup>2</sup> Manufacturers who are exempt from liability for the fee in accordance with Number 6.1 paragraph 3 must provide the Fee Organisation each year by 31 March with information on the quantity of batteries placed on the market, indicating the types of batteries and the pollutant content. The Fee Organisation shall make available reporting forms in paper or electronic form. It shall forward the reports received to the FOEN in accordance with its requirements.
+<sup>2</sup> Manufacturers who are exempt from liability for the fee in accordance with Number 6.1 paragraph 3 must provide the organisation each year by 31 March with information on the quantity of batteries placed on the market, indicating the types of batteries and the pollutant content. The organisation shall make available reporting forms in paper or electronic form. It shall forward the reports received to the FOEN in accordance with its requirements.
 
-<sup>3</sup> Disposal companies that, by virtue of a licence issued under Article 10 of the Ordinance of 22 June 2005 on Movements of Waste, are entitled to accept batteries must provide the Fee Organisation each year by 30 April, in accordance with its requirements, with information on the quantities of batteries taken back in Switzerland and recycled by them or exported for disposal during the previous year.
+<sup>3</sup> Disposal companies that, by virtue of a licence issued under Article 10 of the Ordinance of 22 June 2005 on Movements of Waste, are entitled to accept batteries must provide the organisation each year by 30 April, in accordance with its requirements, with information on the quantities of batteries taken back in Switzerland and recycled by them or exported for disposal during the previous year.
 
 ### 6.4 Time of falling due and period for payment
 
-<sup>1</sup> The Fee Organisation shall submit an invoice to those liable for the fee. The fee falls due upon receipt of the invoice by those liable for the fee or, if the invoice is disputed, when the fee ruling as specified in Number 6.9 paragraph 2 becomes legally valid.
+<sup>1</sup> The organisation shall submit an invoice to those liable for the fee. The fee falls due upon receipt of the invoice by those liable for the fee or, if the invoice is disputed, when the fee ruling as specified in Number 6.9 paragraph 2 becomes legally valid.
 
-<sup>2</sup> Payment must be made within 30 days of the fee falling due. If payment is delayed, interest of 5% is payable on arrears; the Fee Organisation may pay interest on advance payments.
+<sup>2</sup> Payment must be made within 30 days of the fee falling due. If payment is delayed, interest of 5% is payable on arrears; the organisation may pay interest on advance payments.
 
 ### 6.5 Use of the fee
 
-The Fee Organisation may use the fee solely to finance the following activities:
+The organisation may use the fee solely to finance the following activities:
 
 - a. collection, transport and recycling of batteries, provided that these activities are carried out according to the state of the art;
 - b. provision of information, in particular to improve the return rate for batteries, although no more than 25% of annual fee revenues may be used for this purpose;
@@ -4673,31 +4694,31 @@ The Fee Organisation may use the fee solely to finance the following activities:
 
 ### 6.6 Payments to third parties
 
-<sup>1</sup> Third parties claiming payments from the Fee Organisation for activities specified in Number 6.5 must submit a justified request by no later than 31 March of the following year. The Fee Organisation shall make application forms available in paper or electronic format.
+<sup>1</sup> Third parties claiming payments from the organisation for activities specified in Number 6.5 must submit a justified request by no later than 31 March of the following year. The organisation shall make application forms available in paper or electronic format.
 
-<sup>2</sup> The Fee Organisation shall only make payments to third parties if they carry out the activities appropriately and cost-effectively. It may take the measures necessary to assess whether these conditions are met.
+<sup>2</sup> The organisation shall only make payments to third parties if they carry out the activities appropriately and cost-effectively. It may take the measures necessary to assess whether these conditions are met.
 
-<sup>3</sup> The Fee Organisation shall only make payments for activities specified in Number 6.5 letters a and b within the limits of available resources.
+<sup>3</sup> The organisation shall only make payments for activities specified in Number 6.5 letters a and b within the limits of available resources.
 
 ### 6.7 Organisation
 
-<sup>1</sup> The FOEN shall appoint a suitable private organisation to collect, administer and use the fee. The Fee Organisation must not itself carry out any business activities relating to the manufacture, import, sale or recycling of batteries.
+<sup>1</sup> The FOEN shall appoint a suitable private organisation to collect, administer and use the fee. The organisation must not itself carry out any business activities relating to the manufacture, import, sale or recycling of batteries.
 
-<sup>2</sup> The FOEN shall conclude a contract with the Fee Organisation for a term of no more than five years. This contract shall specify in particular the proportion of fee revenues that the Fee Organisation may use for its own activities, as well as the conditions and consequences of premature termination of the contract.
+<sup>2</sup> The FOEN shall conclude a contract with the organisation for a term of no more than five years. This contract shall specify in particular the proportion of fee revenues that the organisation may use for its own activities, as well as the conditions and consequences of premature termination of the contract.
 
 <sup>3</sup> The Fee Organisation must carry out internal controls of management and appoint independent third parties approved by the FOEN to examine the internal control results and audit its accounts. It must supply them with all the necessary information and permit access to files.
 
-<sup>4</sup> The Fee Organisation shall maintain commercial secrecy with regard to those liable to the fee and the disposal companies.
+<sup>4</sup> The organisation shall maintain commercial secrecy with regard to those liable to the fee and the disposal companies.
 
-<sup>5</sup> The FOCBS may communicate to the Fee Organisation data from customs declarations and other observations relating to the import or export of batteries.
+<sup>5</sup> The FOCBS may communicate to the organisation data from customs declarations and other observations relating to the import or export of batteries.
 
-<sup>6</sup> The Fee Organisation may arrange with the FOCBS for the fee to be collected on import. In this case, collection, time of falling due and interest are governed by the relevant customs legislation.
+<sup>6</sup> The organisation may arrange with the FOCBS for the fee to be collected on import. In this case, collection, time of falling due and interest are governed by the relevant customs legislation.
 
-### 6.8 Supervision of the Fee Organisation
+### 6.8 Supervision of the organisation
 
-<sup>1</sup> The FOEN shall supervise the Fee Organisation. It may also issue instructions, in particular on the use of fee revenues.
+<sup>1</sup> The FOEN shall supervise the organisation. It may also issue instructions, in particular on the use of fee revenues.
 
-<sup>2</sup> The Fee Organisation must provide the FOEN with the necessary information and allow it to examine its files.
+<sup>2</sup> The organisation must provide the FOEN with the necessary information and allow it to examine its files.
 
 <sup>3</sup> It must submit to the FOEN each year, by no later than 30 June, a report on its activities during the previous year. This report must include in particular:
 
@@ -4711,7 +4732,7 @@ The Fee Organisation may use the fee solely to finance the following activities:
 
 ### 6.9 Procedures
 
-<sup>1</sup> The Fee Organisation shall decide on exemptions from liability for the fee and on requests for payments to third parties by means of rulings.
+<sup>1</sup> The organisation shall decide on exemptions from liability for the fee and on requests for payments to third parties by means of rulings.
 
 <sup>2</sup> In the event of a dispute concerning the invoice specified in Number 6.4 paragraph 1 sentence 1, it shall issue a fee ruling.
 

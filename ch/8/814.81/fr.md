@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2022-01-01
+version: 2022-02-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220101/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 mai 2005 (Etat le 1<sup>er</sup> février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1270,7 +1270,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre; elle doit être rédigée en deux langues officielles au moins et être conforme au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/fr/xml/image/image1.png)</td><td colspan="3">chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/fr/xml/image/image1.png)</td><td colspan="3">chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -1797,7 +1797,7 @@ Annexe 1.10*[^t-11]*
 
 ## Substances cancérogènes, mutagènes ou toxiques pour la reproduction
 
-[^t-11]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’annexe ch. 2 de l’O du 18 nov. 2020, en vigueur du 15 déc. 2020 au 1<sup>er</sup> juin 2025 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) et le ch. I de l’O de l’OFSP du 1<sup>er</sup> fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
+[^t-11]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’annexe ch. 2 de l’O du 18 nov. 2020, en vigueur du 15 déc. 2020 au 1<sup>er</sup> juin 2025 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), le ch. I des O de l’OFSP du 1<sup>er</sup> fév. 2021 ([RO 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)) et du 23 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2022 1](https://fedlex.data.admin.ch/eli/oc/2022/1)).
 
 ### 1 Interdiction
 
@@ -1807,8 +1807,8 @@ Annexe 1.10*[^t-11]*
 
 <sup>3</sup> Il est interdit d’employer du papier thermique dont la teneur en bisphénol A (n<sup>o</sup> CAS 80-05-7) ou en bisphénol S (n<sup>o</sup> CAS 80-09-1) est de 0,02 % masse ou plus.
 
-[^annex110-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) 2020/2096, JO L 425 du 16.12.2020, p. 3.
-[^annex110-lvlu1-lvl1-2]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le règlement délégué (UE) n<sup>o</sup> 2020/1182, JO L 261 du 11.8.2020, p. 2.
+[^annex110-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2021/2204, JO L 446 du 14.12.2021, p. 34.
+[^annex110-lvlu1-lvl1-2]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le règlement délégué (UE) n<sup>o</sup> 2021/849, JO L 188 du 28.5.2021, p. 27.
 
 ### 2 Exceptions
 
@@ -1839,14 +1839,35 @@ Annexe 1.10*[^t-11]*
 
 <sup>2</sup> Cette mention doit être rédigée en deux langues officielles au moins et être visible, bien lisible et indélébile.
 
-### 4 Disposition transitoire de la modification du 1<sup>er</sup> février 2021
+### 4 Disposition transitoire de la modification du 23 décembre 2021
 
-Les substances suivantes, qui, en vertu du règlement (UE) 2020/2096[^annex110-lvlu1-lvl4-1] sont désormais mentionnées à l’annexe XVII, appendices 1 à 6, du règlement UE-REACH, ainsi que les substances et préparations qui en contiennent peuvent être remises au grand public jusqu’aux dates suivantes:
+Les substances suivantes, qui, en vertu du règlement (UE) n<sup>o</sup> 2021/2204[^annex110-lvlu1-lvl4-1] sont désormais mentionnées à l’annexe XVII, appendices 1 à 6, du règlement UE-REACH, ainsi que les substances et préparations qui en contiennent peuvent être remises au grand public jusqu’aux dates suivantes:
 
-- a. jusqu’au 4 julliet 2021: les substances pyrocatéchol (CAS 120-80-9), acétaldéhyde (CAS 75-07-0), spirodiclofène (CAS 148477-71-8), 2-benzyl-2-diméthylamino-4′-morpholinobutyrophénone (CAS 119313-12-1), propiconazole (CAS 60207-90-1) et 1-vinylimidazole (CAS 1072-63-5);
-- b. jusqu’au 30 septembre 2021: toutes les substances non couvertes par la let. a.
+- a.
 
-[^annex110-lvlu1-lvl4-1]: Règlement (UE) 2020/2096 de la Commission du 15 décembre 2020 modifiant l’annexe XVII du règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), en ce qui concerne les substances cancérogènes, mutagènes ou toxiques pour la reproduction (CMR), les dispositifs relevant du règlement (UE) 2017/745 du Parlement européen et du Conseil, les polluants organiques persistants, certaines substances ou certains mélanges liquides, le nonylphénol et les méthodes d’essai pour les colorants azoïques, version selon JO L 425 du 16.12.2020, p. 3.
+  jusqu’au 1<sup>er</sup> mars 2022: les substances suivantes:
+
+  - – Fibres de carbure de silicium (diamètre &lt; 3μm, longueur &gt; 5μm et rapport de longueur ≥ 3:1) (CAS 409-21-2 ou CAS 308076-74-6)
+  - – N-(Hydroxyméthyl)glycinate de sodium [formaldéhyde libéré par le N-(hydroxyméthyl)glycinate de sodium] (CAS 70161-44-3)
+  - – Méthylolacrylamide (CAS 924-42-5)
+  - – Éther diglycidylique du résorcinol (CAS 101-90-6)
+  - – Butanone-oxime (CAS 96-29-7)
+  - – Dibenzo[def,p]chrysène; dibenzo[a,l]pyrène (CAS 191-30-0),
+  - – Tris(2-méthoxyéthoxy)vinylsilane (CAS 1067-53-4)
+  - – Dilaurate de dibutylétain (CAS 3648-18-8) et Dérivés stannane, dioctyl-, bis(coco acyloxy) (CAS 91648-39-4)
+  - – Ipconazole (ISO) (CAS 125225-28-7, CAS 115850-69-6, CAS 115937-89-8)
+  - – Tétraglyme (CAS 143-24-8)
+  - – 2-(4-tert-Butylbenzyl)propionaldéhyde (CAS 80-54-6)
+  - – Phtalate de diisooctyle (CAS 27554-26-3)
+  - – Acrylate de 2-méthoxyéthyle (CAS 3121-61-7)
+  - – Pyrithione zincique (CAS 13463-41-7)
+  - – Fluorochloridone (ISO) (CAS 61213-25-0)
+  - – Peroxyde de bis(α,α-diméthylbenzyle) (CAS 80-43-3)
+  - – Dichlorodioctylstannane (CAS 3542-36-7);
+
+- b. jusqu’au 17 décembre 2022: toutes les substances non couvertes par la let. a.
+
+[^annex110-lvlu1-lvl4-1]: Règlement (UE) n<sup>o</sup> 2021/2204 du 14.12.2021, JO L 446 du 14.12.2021, p. 34.
 
 Annexe 1.11*[^t-12]*
 
@@ -3873,7 +3894,7 @@ Annexe 2.9*[^t-28]*
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220201/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
