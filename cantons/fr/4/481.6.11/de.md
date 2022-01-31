@@ -3,13 +3,12 @@ canton: FR
 number: "481.6.11"
 title: Reglement des Naturhistorischen Museums
 language: de
-version: 2014-10-01
-valid_until: 2022-01-31
-version_adopted: 2014-09-30
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1993-02-02
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/481.6.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6266/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8582/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6266/pdf_file"
 
 Naturhistorisches Museum – R
 
-vom 02.02.1993 (Fassung in Kraft getreten am 01.10.2014)
+vom 02.02.1993 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -42,7 +41,7 @@ beschliesst:
 
 <sup>3</sup> Er bereitet die Geschäfte vor, welche die Kommission zu behandeln hat.
 
-<sup>4</sup> Der Direktor wird von der Direktion für Erziehung, Kultur und Sport (die EKSD) angestellt; er untersteht dem Amt für Kultur.
+<sup>4</sup> Der Direktor wird von der Direktion für Bildung und kulturelle Angelegenheiten (die BKAD) angestellt; er untersteht dem Amt für Kultur.
 
 #### Art. 2
 
@@ -80,7 +79,7 @@ beschliesst:
 
 **Kommission – Sitzungen**
 
-<sup>1</sup> Die Kommission tagt mindestens zweimal pro Jahr und sooft der Präsident es für nötig hält. Sie muss ausserdem einberufen werden, wenn die EKSD oder drei Mitglieder dies verlangen.
+<sup>1</sup> Die Kommission tagt mindestens zweimal pro Jahr und sooft der Präsident es für nötig hält. Sie muss ausserdem einberufen werden, wenn die BKAD oder drei Mitglieder dies verlangen.
 
 <sup>2</sup> Sie ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist.
 
@@ -108,13 +107,13 @@ beschliesst:
 
 **Tausch, Veräusserung, Ausleihe und Hinterlegung von Gegenständen und Sammlungen**
 
-<sup>1</sup> Die EKSD entscheidet über Tausch und Veräusserung eines bedeutenden Gegenstandes aus den Sammlungen des Museums.
+<sup>1</sup> Die BKAD entscheidet über Tausch und Veräusserung eines bedeutenden Gegenstandes aus den Sammlungen des Museums.
 
 <sup>2</sup> Der Direktor entscheidet über Ausleihe und Hinterlegung eines Gegenstandes aus den Sammlungen des Museums.
 
 <sup>3</sup> Der Vertrag nennt die Auflagen und Bedingungen, die mit der Ausleihe, der Hinterlegung oder dem Tausch verbunden sind.
 
-<sup>4</sup> Die EKSD und der Direktor können solche Geschäfte aus Gründen des Kulturgüterschutzes, des Persönlichkeitsschutzes, des Willens der Hinterleger oder der Institutionsführung beschränken oder verweigern.
+<sup>4</sup> Die BKAD und der Direktor können solche Geschäfte aus Gründen des Kulturgüterschutzes, des Persönlichkeitsschutzes, des Willens der Hinterleger oder der Institutionsführung beschränken oder verweigern.
 
 #### Art. 8
 
@@ -126,7 +125,7 @@ beschliesst:
 
 **Verzeichnis der Sammlungen**
 
-<sup>1</sup> Das Museum erlässt in Zusammenarbeit mit den betroffenen Instituten der Universität und den betroffenen Dienststellen Richtlinien für die Erstellung der Verzeichnisse. Diese Richtlinien sind von der EKSD zu genehmigen.
+<sup>1</sup> Das Museum erlässt in Zusammenarbeit mit den betroffenen Instituten der Universität und den betroffenen Dienststellen Richtlinien für die Erstellung der Verzeichnisse. Diese Richtlinien sind von der BKAD zu genehmigen.
 
 <sup>2</sup> Sie sorgt für eine regelmässige Nachführung der Verzeichnisse.
 
@@ -144,7 +143,7 @@ beschliesst:
 
 <sup>1</sup> Die wissenschaftlichen und didaktischen Geräte, die für den naturwissenschaftlichen Unterricht an den Anstalten des Staates verwendet werden, sind vom betroffenen Organ, von der betroffenen Dienststelle oder Anstalt zu erfassen.
 
-<sup>2</sup> Hat ein wissenschaftliches oder didaktisches Gerät für seinen Anwender offensichtlich keinen praktischen Nutzen mehr, sondern ist einzig noch historisch von Interesse, so informiert das betroffene Organ, die betroffene Dienststelle oder Anstalt das Museum darüber. Nachdem das Museum die Stellungnahme der EKSD eingeholt hat, kann es entscheiden, ob es dieses Gerät in seine Sammlungen aufnehmen will.
+<sup>2</sup> Hat ein wissenschaftliches oder didaktisches Gerät für seinen Anwender offensichtlich keinen praktischen Nutzen mehr, sondern ist einzig noch historisch von Interesse, so informiert das betroffene Organ, die betroffene Dienststelle oder Anstalt das Museum darüber. Nachdem das Museum die Stellungnahme der BKAD eingeholt hat, kann es entscheiden, ob es dieses Gerät in seine Sammlungen aufnehmen will.
 
 ## 3 Ausstellungen und andere Veranstaltungen
 
@@ -160,7 +159,7 @@ beschliesst:
 
 **Ausstellungen – Öffnungszeiten**
 
-<sup>1</sup> Die Ausstellungen sind der Öffentlichkeit während den von der EKSD auf Antrag des Direktors festgesetzten Zeiten zugänglich.
+<sup>1</sup> Die Ausstellungen sind der Öffentlichkeit während den von der BKAD auf Antrag des Direktors festgesetzten Zeiten zugänglich.
 
 <sup>2</sup> Der Direktor kann auf Anfrage, vor allem für Schulen oder Gruppen, Besuche ausserhalb der Öffnungszeiten bewilligen.
 
@@ -191,23 +190,27 @@ beschliesst:
 
 <sup>1</sup> Der Fonds wird gespiesen durch:
 
-- a) die Vermächtnisse, Schenkungen und Zuwendungen, die ihm nach Artikel 36 Bst. m des Gesetzes über die Kantonssteuern gewährt werden;
+- a) die Vermächtnisse, Schenkungen und Zuwendungen, die ihm nach Artikel 36 Bst. m des Gesetzes über die direkten Kantonssteuern[^16-1] gewährt werden;
 - b) den Ertrag des Fondsvermögens;
 - c) alle anderen Mittel, die ihm zugewiesen werden können.
 
-<sup>2</sup> In den Fonds können mit dem Einverständnis der EKSD auch Zuwendungen fliessen, deren Zweckbestimmung vom Schenkenden vorgeschlagen wird.
+<sup>2</sup> In den Fonds können mit dem Einverständnis der BKAD auch Zuwendungen fliessen, deren Zweckbestimmung vom Schenkenden vorgeschlagen wird.
+
+[^16-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 17
 
 **Zuständigkeit**
 
-<sup>1</sup> Die EKSD entscheidet über die Verwendung des Fonds. Übersteigt der Betrag 20'000 Franken, so entscheidet der Staatsrat.
+<sup>1</sup> Die BKAD entscheidet über die Verwendung des Fonds. Übersteigt der Betrag 20'000 Franken, so entscheidet der Staatsrat.
 
 #### Art. 18
 
 **Verwaltung**
 
-<sup>1</sup> Der Fonds wird von der Kommission, die in Artikel 18 des Reglements vom 10. Dezember 2007 über die kulturellen Angelegenheiten eingesetzt wird, verwaltet.
+<sup>1</sup> Der Fonds wird von der Kommission, die in Artikel 18 des Reglements vom 10. Dezember 2007 über die kulturellen Angelegenheiten[^18-1] eingesetzt wird, verwaltet.
+
+[^18-1]: SGF [480.11](https://bdlf.fr.ch/data/480.11/de)
 
 ## 5 Schlussbestimmungen
 
