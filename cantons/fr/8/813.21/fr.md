@@ -3,13 +3,12 @@ canton: FR
 number: "813.21"
 title: Ordonnance sur le smog hivernal
 language: fr
-version: 2009-01-01
-valid_until: 2022-01-31
-version_adopted: 2008-09-30
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2006-12-19
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/813.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5458/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7403/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5458/pdf_file"
 
 Smog hivernal – O
 
-du 19.12.2006 (version entrée en vigueur le 01.01.2009)
+du 19.12.2006 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -44,11 +43,11 @@ Arrête:
 
 **Compétences et coordination**
 
-<sup>1</sup> Dans le cadre de la lutte à court terme contre les immissions atmosphériques excessives, la Direction de l'aménagement, de l'environnement et des constructions (DAEC) est l'autorité compétente pour toutes les tâches qui ne sont pas expressément confiées à un autre organe.
+<sup>1</sup> Dans le cadre de la lutte à court terme contre les immissions atmosphériques excessives, la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (DIME) est l'autorité compétente pour toutes les tâches qui ne sont pas expressément confiées à un autre organe.
 
-<sup>2</sup> La Direction de la santé et des affaires sociales (DSAS) est l'autorité compétente pour les mesures prévues à l'article 4, à l'exception de l'interdiction d'allumer des feux en plein air. Elle décide sur la proposition et en accord avec la DAEC.
+<sup>2</sup> La Direction de la santé et des affaires sociales (DSAS) est l'autorité compétente pour les mesures prévues à l'article 4, à l'exception de l'interdiction d'allumer des feux en plein air. Elle décide sur la proposition et en accord avec la DIME.
 
-<sup>3</sup> La DAEC assure la coordination avec les cantons voisins ainsi que les instances cantonales concernées, en particulier la DSAS.
+<sup>3</sup> La DIME assure la coordination avec les cantons voisins ainsi que les instances cantonales concernées, en particulier la DSAS.
 
 #### Art. 2
 

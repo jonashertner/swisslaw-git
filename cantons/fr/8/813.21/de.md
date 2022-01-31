@@ -3,13 +3,12 @@ canton: FR
 number: "813.21"
 title: Wintersmog-Verordnung
 language: de
-version: 2009-01-01
-valid_until: 2022-01-31
-version_adopted: 2008-09-30
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2006-12-19
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/813.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/5458/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7403/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5458/pdf_file"
 
 Wintersmog – V
 
-vom 19.12.2006 (Fassung in Kraft getreten am 01.01.2009)
+vom 19.12.2006 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -44,11 +43,11 @@ beschliesst:
 
 **Zuständigkeit und Koordination**
 
-<sup>1</sup> Bei der kurzfristigen Bekämpfung übermässiger Luftschadstoff-Immissionen ist die Raumplanungs-, Umwelt- und Baudirektion (RUBD) zuständig für alle Aufgaben, die nicht ausdrücklich einer anderen Behörde übertragen sind.
+<sup>1</sup> Bei der kurzfristigen Bekämpfung übermässiger Luftschadstoff-Immissionen ist die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU) zuständig für alle Aufgaben, die nicht ausdrücklich einer anderen Behörde übertragen sind.
 
-<sup>2</sup> Die Direktion für Gesundheit und Soziales (GSD) ist zuständig für die Massnahmen nach Artikel 4; davon ausgenommen ist das Verbot, Feuer im Freien zu entfachen. Sie entscheidet auf Antrag und mit Zustimmung der RUBD.
+<sup>2</sup> Die Direktion für Gesundheit und Soziales (GSD) ist zuständig für die Massnahmen nach Artikel 4; davon ausgenommen ist das Verbot, Feuer im Freien zu entfachen. Sie entscheidet auf Antrag und mit Zustimmung der RIMU.
 
-<sup>3</sup> Die RUBD stellt die Koordination mit den Nachbarkantonen und mit den betroffenen kantonalen Stellen, insbesondere der GSD, sicher.
+<sup>3</sup> Die RIMU stellt die Koordination mit den Nachbarkantonen und mit den betroffenen kantonalen Stellen, insbesondere der GSD, sicher.
 
 #### Art. 2
 
