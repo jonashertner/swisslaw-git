@@ -4,13 +4,12 @@ number: "212.5.11"
 title: Verordnung über den Kindes- und Erwachsenenschutz
 short: KESV
 language: de
-version: 2020-09-01
-valid_until: 2022-01-31
-version_adopted: 2020-08-25
+version: 2022-02-01
+version_adopted: 2022-02-25
 adopted: 2012-12-18
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/212.5.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6594/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Kindes- und Erwachsenenschutz – V
 
 (KESV)
 
-vom 18.12.2012 (Fassung in Kraft getreten am 01.09.2020)
+vom 18.12.2012 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -33,69 +32,87 @@ beschliesst:
 
 #### Art. 1
 
-**Recht auf Meldung (Art. 1 Abs. 3 KESG)**
+**Recht auf Meldung (Art. 1 Abs. 3 KESG[^1-1])**
 
 <sup>1</sup> Jede Person kann der Schutzbehörde Meldung erstatten, wenn eine Person hilfsbedürftig erscheint.
 
 <sup>2</sup> Gesundheitsfachpersonen können Fälle von Personen, die hilfsbedürftig erscheinen, der Schutzbehörde melden, ohne dass sie sich dafür vom Berufsgeheimnis befreien lassen müssen.
 
+[^1-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 2
 
-**Meldepflicht (Art. 1 Abs. 3 KESG)**
+**Meldepflicht (Art. 1 Abs. 3 KESG[^2-1])**
 
-<sup>1</sup> Gemäss den Artikeln 314d und 443 Abs. 2 des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 (ZGB) sind Personen, die in amtlicher Tätigkeit von einer Person erfahren, die hilfsbedürftig erscheint, dazu verpflichtet, der Schutzbehörde darüber Meldung zu erstatten.
+<sup>1</sup> Gemäss den Artikeln 314d und 443 Abs. 2 des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 (ZGB[^2-2]) sind Personen, die in amtlicher Tätigkeit von einer Person erfahren, die hilfsbedürftig erscheint, dazu verpflichtet, der Schutzbehörde darüber Meldung zu erstatten.
+
+[^2-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+[^2-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 3
 
-**Nachgewiesene Kompetenzen der Beisitzerinnen und Beisitzer (Art. 2 Abs. 2 KESG)**
+**Nachgewiesene Kompetenzen der Beisitzerinnen und Beisitzer (Art. 2 Abs. 2 KESG[^3-1])**
 
 <sup>1</sup> Die Kompetenzen der Beisitzerinnen und Beisitzer müssen durch ein anerkanntes Diplom, durch vertiefte Berufserfahrung oder besondere Kenntnisse im betreffenden Fachbereich nachgewiesen werden.
 
 <sup>2</sup> Die Beisitzerinnen und Beisitzer müssen sich ausserdem über genügende praktische Kenntnisse zur Ausübung ihres Auftrags ausweisen können.
 
+[^3-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 4
 
-**Weiterbildung der Mitglieder der Schutzbehörde (Art. 2 Abs. 3 KESG)**
+**Weiterbildung der Mitglieder der Schutzbehörde (Art. 2 Abs. 3 KESG[^4-1])**
 
 <sup>1</sup> Der Staat organisiert für die Mitglieder der Schutzbehörden Weiterbildungen oder gewährt ihnen die Möglichkeit, von anderen Einheiten organisierte Weiterbildungen zu besuchen.
 
 <sup>2</sup> Die Mitglieder der Schutzbehörde sind dafür verantwortlich, dass sie ihre beruflichen Kompetenzen regelmässig auf dem aktuellen Stand halten und weiterentwickeln, sofern dies für die Ausübung ihrer Aufgaben erforderlich ist.
 
-<sup>3</sup> Die Sicherheits- und Justizdirektion nimmt Stellung zur Wahl einer Weiterbildung, die von der Präsidentin oder vom Präsidenten der Schutzbehörde vorgeschlagen wird. Die Präsidentin oder der Präsident der Schutzbehörde nimmt Stellung zur Auswahl, die von einer Beisitzerin oder einem Beisitzer oder einer Gerichtsschreiberin oder einem Gerichtsschreiber vorgeschlagen wird.
+<sup>3</sup> Die Sicherheits-, Justiz- und Sportdirektion nimmt Stellung zur Wahl einer Weiterbildung, die von der Präsidentin oder vom Präsidenten der Schutzbehörde vorgeschlagen wird. Die Präsidentin oder der Präsident der Schutzbehörde nimmt Stellung zur Auswahl, die von einer Beisitzerin oder einem Beisitzer oder einer Gerichtsschreiberin oder einem Gerichtsschreiber vorgeschlagen wird.
 
 <sup>4</sup> Im Übrigen gelten die allgemeinen Bestimmungen über die Weiterbildungen der Staatsangestellten.
 
+[^4-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 5
 
-**Verfahrenskosten (Art. 6 Abs. 2 KESG)**
+**Verfahrenskosten (Art. 6 Abs. 2 KESG[^5-1])**
 
 <sup>1</sup> Die von der Schutzbehörde erhobenen Gebühren werden im Justizreglement geregelt.
 
+[^5-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 6
 
-**Eignung der privaten Beiständinnen und Beistände (Art. 9 Abs. 1 Bst. a und 10 KESG)**
+**Eignung der privaten Beiständinnen und Beistände (Art. 9 Abs. 1 Bst. a und 10 KESG[^6-1])**
 
 <sup>1</sup> Die Schutzbehörde ermutigt die privaten Beiständinnen und Beistände, die zur Ausübung ihres Auftrags erforderlichen Kenntnisse zu erwerben.
 
+[^6-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 7
 
-**Anerkannte soziale Institutionen (Art. 9 Abs. 1 Bst. d KESG)**
+**Anerkannte soziale Institutionen (Art. 9 Abs. 1 Bst. d KESG[^7-1])**
 
-<sup>1</sup> Der Staatsrat führt durch die Sicherheits- und Justizdirektion eine Liste der Institutionen, die regelmässig auf dem neuesten Stand gehalten und den Schutzbehörden mitgeteilt wird.
+<sup>1</sup> Der Staatsrat führt durch die Sicherheits-, Justiz- und Sportdirektion eine Liste der Institutionen, die regelmässig auf dem neuesten Stand gehalten und den Schutzbehörden mitgeteilt wird.
+
+[^7-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
 
 #### Art. 8
 
-**Entschädigung der Beiständin oder des Beistandes (Art. 11 Abs. 3 KESG) – Spesen**
+**Entschädigung der Beiständin oder des Beistandes (Art. 11 Abs. 3 KESG[^8-1]) – Spesen**
 
-<sup>1</sup> Als Spesen gelten die tatsächlichen Ausgaben, die zur Erfüllung der Beistandschaft notwendig sind, wie Porto-, Telefon- und unerlässliche Reisespesen. Entschädigungen für Reise- und Verpflegungskosten werden sinngemäss nach dem im Reglement über das Staatspersonal vorgesehenen Tarif ausgerichtet.
+<sup>1</sup> Als Spesen gelten die tatsächlichen Ausgaben, die zur Erfüllung der Beistandschaft notwendig sind, wie Porto-, Telefon- und unerlässliche Reisespesen. Entschädigungen für Reise- und Verpflegungskosten werden sinngemäss nach dem im Reglement über das Staatspersonal[^8-2] vorgesehenen Tarif ausgerichtet.
 
 <sup>2</sup> Die Beiständin oder der Beistand legt der Schutzbehörde zusammen mit dem Jahresbericht eine detaillierte Aufstellung der Spesen vor. Liegen die Spesen unter 100 Franken pro Jahr, so genügt eine kurze Begründung.
 
+[^8-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+[^8-2]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
+
 #### Art. 9
 
-**Entschädigung der Beiständin oder des Beistandes (Art. 11 Abs. 3 KESG) – Angemessene Entschädigung**
+**Entschädigung der Beiständin oder des Beistandes (Art. 11 Abs. 3 KESG[^9-1]) – Angemessene Entschädigung**
 
-<sup>1</sup> Die Entschädigung, auf welche die Beiständin oder der Beistand Anrecht hat, wird von der Schutzbehörde jedes Jahr zeitgleich mit dem Einreichen des Jahresberichts und der Jahresrechnung für die abgelaufene Rechnungsperiode festgesetzt. Die Behörde legt im selben Entscheid ebenfalls fest, ob die Entschädigung der Beiständin oder des Beistands angesichts der finanziellen Situation der geschützten Person aus dem Vermögen der betroffenen Person entnommen werden kann oder ob sie in Anwendung von Artikel 11 Abs. 2 KESG ihrer Wohngemeinde auferlegt werden muss.
+<sup>1</sup> Die Entschädigung, auf welche die Beiständin oder der Beistand Anrecht hat, wird von der Schutzbehörde jedes Jahr zeitgleich mit dem Einreichen des Jahresberichts und der Jahresrechnung für die abgelaufene Rechnungsperiode festgesetzt. Die Behörde legt im selben Entscheid ebenfalls fest, ob die Entschädigung der Beiständin oder des Beistands angesichts der finanziellen Situation der geschützten Person aus dem Vermögen der betroffenen Person entnommen werden kann oder ob sie in Anwendung von Artikel 11 Abs. 2 KESG[^9-2] ihrer Wohngemeinde auferlegt werden muss.
 
 <sup>2</sup> Die Entschädigung beträgt:
 
@@ -114,9 +131,12 @@ beschliesst:
 
 <sup>5</sup> Bei Paaren wird bei der Berechnung der Entschädigung für die zweite Person ein um 30 bis 50 % reduzierter Betrag festgesetzt.
 
+[^9-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+[^9-2]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 10
 
-**Entschädigung der Beiständin oder des Beistandes (Art. 11 Abs. 3 KESG) – Entschädigungen für besondere Handlungen**
+**Entschädigung der Beiständin oder des Beistandes (Art. 11 Abs. 3 KESG[^10-1]) – Entschädigungen für besondere Handlungen**
 
 <sup>1</sup> Die Beiständin oder der Beistand hat, zusätzlich zu den Entschädigungen nach Artikel 9, Anrecht auf eine Entschädigung für bestimmte besondere Handlungen. Diese beträgt:
 
@@ -132,9 +152,11 @@ beschliesst:
 
 <sup>2</sup> Hat die Beiständin oder der Beistand berufsspezifische Dienste zu leisten, so hat sie oder er Anspruch auf eine Entschädigung entsprechend dem berufsüblichen Tarif. Hat sie oder er auch Dienste zu leisten, die nicht mit ihrem oder seinem Beruf in Zusammenhang stehen, so werden diese gemäss Artikel 9 und Absatz 1 dieses Artikels entschädigt.
 
+[^10-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 11
 
-**Anforderungen an die Beiständinnen und Beistände bei einer öffentlichen Berufsbeistandschaft (Art. 12 Abs. 3 KESG)**
+**Anforderungen an die Beiständinnen und Beistände bei einer öffentlichen Berufsbeistandschaft (Art. 12 Abs. 3 KESG[^11-1])**
 
 <sup>1</sup> Die Beiständinnen und Beistände bei einer öffentlichen Berufsbeistandschaft müssen Kompetenzen in den Bereichen Erwachsenen- oder Kindesschutz nachweisen können, namentlich im juristischen Bereich, in den Bereichen Sozialarbeit, Psychologie/Pädagogik, Gesundheit oder in der Buchhaltung oder Vermögensverwaltung.
 
@@ -142,11 +164,15 @@ beschliesst:
 
 <sup>3</sup> Die Beiständinnen und Beistände bei einer öffentlichen Berufsbeistandschaft müssen sich ausserdem über genügende praktische Kenntnisse zur Ausübung der vorgesehenen Funktion ausweisen können.
 
+[^11-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 12
 
-**Inventar (Art. 13 und 15 KESG)**
+**Inventar (Art. 13 und 15 KESG[^12-1])**
 
 <sup>1</sup> Im Inventar werden das Vermögen und die Schulden der geschützten Person am Tag der Übernahme des Auftrags aufgeführt.
+
+[^12-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
 
 #### Art. 13
 
@@ -156,7 +182,7 @@ beschliesst:
 
 #### Art. 14
 
-**Rechnung (Art. 14 und 15 KESG)**
+**Rechnung (Art. 14 und 15 KESG[^14-1])**
 
 <sup>1</sup> Im Rechnungsbericht werden alle Einnahmen und Ausgaben genau aufgeführt, die während der Rechnungsperiode getätigt worden sind; die Belege müssen beigelegt werden.
 
@@ -164,37 +190,49 @@ beschliesst:
 
 <sup>3</sup> Der Rechnungsbericht enthält ausserdem den aktuellen Vermögensstand der betroffenen Person; die Richtigkeit des Berichts wird durch Unterschrift der Beiständin oder des Beistandes bescheinigt.
 
+[^14-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 15
 
-**Periodische Berichte (Art. 14 und 15 KESG)**
+**Periodische Berichte (Art. 14 und 15 KESG[^15-1])**
 
 <sup>1</sup> Zusätzlich zum Rechnungsbericht oder getrennt davon, wenn der Auftrag keine finanziellen Fragen betrifft, liefert die Beiständin oder der Beistand der Schutzbehörde einen schriftlichen Bericht über ihre oder seine Tätigkeit ab. Der Bericht umfasst eine Einschätzung des abgelaufenen Berichtsjahrs und setzt die Ziele für die folgende Periode fest; er weist insbesondere alle wichtigen Sachverhalte, welche die geschützte Person betreffen, aus.
 
+[^15-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 16
 
-**Formulare für die fürsorgerische Unterbringung (Art. 18 KESG)**
+**Formulare für die fürsorgerische Unterbringung (Art. 18 KESG[^16-1])**
 
 <sup>1</sup> Beschliesst eine Ärztin oder ein Arzt eine fürsorgerische Unterbringung, so benutzt sie oder er das dazu vorgesehene amtliche Formular.
 
-<sup>2</sup> Das Formular entspricht den Anforderungen nach Artikel 430 Abs. 2 ZGB und erwähnt die Möglichkeit, gemäss Artikel 439 ZGB das Gericht anzurufen.
+<sup>2</sup> Das Formular entspricht den Anforderungen nach Artikel 430 Abs. 2 ZGB[^16-2] und erwähnt die Möglichkeit, gemäss Artikel 439 ZGB[^16-3] das Gericht anzurufen.
+
+[^16-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+[^16-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^16-3]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 17
 
 **Zurückbehaltung freiwillig Eingetretener**
 
-<sup>1</sup> Die Massnahme nach Artikel 427 ZGB kann von der ärztlichen Leitung angeordnet werden oder, im Falle der Delegation durch die ärztliche Leitung, von einem verantwortlichen Arzt, der die notwendigen Fachkenntnisse zur Anordnung der Massnahme besitzt.
+<sup>1</sup> Die Massnahme nach Artikel 427 ZGB[^17-1] kann von der ärztlichen Leitung angeordnet werden oder, im Falle der Delegation durch die ärztliche Leitung, von einem verantwortlichen Arzt, der die notwendigen Fachkenntnisse zur Anordnung der Massnahme besitzt.
+
+[^17-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 18
 
-**Nachbetreuung und ambulante Massnahmen (Art. 26 KESG)**
+**Nachbetreuung und ambulante Massnahmen (Art. 26 KESG[^18-1])**
 
 <sup>1</sup> Die ambulante Behandlung stützt sich auf eine medizinische Beurteilung und kann darin bestehen, dass eine bestimmte Lebensweise oder die Einnahme bestimmter Medikamente verordnet wird, mit der Verpflichtung, regelmässig bei einer bestimmten Gesundheitsbehörde vorzusprechen oder eine Therapie zu befolgen.
 
 <sup>2</sup> Die Gesetzgebung über die Suchtbekämpfung bleibt vorbehalten.
 
+[^18-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 19
 
-**Geeignete Einrichtungen (Art. 28 KESG)**
+**Geeignete Einrichtungen (Art. 28 KESG[^19-1])**
 
 <sup>1</sup> Geeignet sind Gesundheitseinrichtungen und soziotherapeutische Einrichtungen oder ausnahmsweise Strafanstalten, die die Anwesenheit von Pflegepersonal mit Ausbildung in den Bereichen der Psychiatrie und der Psychologie gewährleisten können und die eine enge Zusammenarbeit mit einer externen psychiatrischen Klinik sicherstellen.
 
@@ -202,13 +240,17 @@ beschliesst:
 
 <sup>3</sup> Das Bewilligungsverfahren wird in der Spezialgesetzgebung geregelt.
 
+[^19-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
+
 #### Art. 20
 
-**Übergangsbestimmung über die öffentliche Berufsbeistandschaft (Art. 12 KESG)**
+**Übergangsbestimmung über die öffentliche Berufsbeistandschaft (Art. 12 KESG[^20-1])**
 
 <sup>1</sup> Die Gemeinden müssen ihre öffentliche Berufsbeistandschaft bis am 31. Dezember 2013 einrichten.
 
-<sup>2</sup> In Sonderfällen und auf begründetes Gesuch hin kann die Frist von der Sicherheits- und Justizdirektion bis spätestens am 31. Dezember 2014 verlängert werden.
+<sup>2</sup> In Sonderfällen und auf begründetes Gesuch hin kann die Frist von der Sicherheits-, Justiz- und Sportdirektion bis spätestens am 31. Dezember 2014 verlängert werden.
+
+[^20-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
 
 #### Art. 21
 

@@ -4,13 +4,12 @@ number: "212.5.11"
 title: "Ordonnance concernant la protection de l'enfant et de l'adulte"
 short: OPEA
 language: fr
-version: 2020-09-01
-valid_until: 2022-01-31
-version_adopted: 2020-08-25
+version: 2022-02-01
+version_adopted: 2022-02-25
 adopted: 2012-12-18
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/212.5.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6594/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8454/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Protection de l'enfant et de l'adulte – O
 
 (OPEA)
 
-du 18.12.2012 (version entrée en vigueur le 01.09.2020)
+du 18.12.2012 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -33,69 +32,87 @@ Arrête:
 
 #### Art. 1
 
-**Droit d'aviser (art. 1 al. 3 LPEA)**
+**Droit d'aviser (art. 1 al. 3 LPEA[^1-1])**
 
 <sup>1</sup> Toute personne a le droit d'aviser l'autorité de protection qu'une personne semble avoir besoin d'aide.
 
 <sup>2</sup> Les professionnels de la santé peuvent aviser l'autorité de protection du cas d'une personne semblant avoir besoin d'aide, sans se faire délier du secret professionnel.
 
+[^1-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 2
 
-**Obligation d'aviser (art. 1 al. 3 LPEA)**
+**Obligation d'aviser (art. 1 al. 3 LPEA[^2-1])**
 
-<sup>1</sup> En vertu des articles 314d et 443 al. 2 du code civil suisse du 10 décembre 1907 (CC), toute personne qui, dans l'exercice d'une fonction officielle, a connaissance du cas d'une personne semblant avoir besoin d'aide est tenue d'en informer l'autorité de protection.
+<sup>1</sup> En vertu des articles 314d et 443 al. 2 du code civil suisse du 10 décembre 1907 (CC[^2-2]), toute personne qui, dans l'exercice d'une fonction officielle, a connaissance du cas d'une personne semblant avoir besoin d'aide est tenue d'en informer l'autorité de protection.
+
+[^2-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+[^2-2]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
 #### Art. 3
 
-**Compétences attestées des assesseur-e-s (art. 2 al. 2 LPEA)**
+**Compétences attestées des assesseur-e-s (art. 2 al. 2 LPEA[^3-1])**
 
 <sup>1</sup> Les compétences des assesseur-e-s doivent être attestées par un diplôme reconnu, une bonne expérience professionnelle ou des connaissances particulières dans le domaine de spécialité concerné.
 
 <sup>2</sup> Les assesseur-e-s doivent en outre faire preuve de connaissances pratiques suffisantes pour l'exercice de leur mandat.
 
+[^3-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 4
 
-**Formation continue des membres de l'autorité de protection (art. 2 al. 3 LPEA)**
+**Formation continue des membres de l'autorité de protection (art. 2 al. 3 LPEA[^4-1])**
 
 <sup>1</sup> L'Etat met en place des formations continues pour les membres des autorités de protection ou leur permet de suivre de telles formations organisées par d'autres entités.
 
 <sup>2</sup> Les membres de l'autorité de protection sont responsables de la mise à jour régulière et du développement de leurs compétences professionnelles, dans la mesure nécessitée par l'exécution de leurs tâches.
 
-<sup>3</sup> La Direction de la sécurité et de la justice préavise le choix d'une formation proposée par le président ou la présidente de l'autorité de protection. Le président ou la présidente de l'autorité de protection préavise celui d'un ou d'une assesseur-e ou d'un greffier ou d'une greffière.
+<sup>3</sup> La Direction de la sécurité, de la justice et du sport préavise le choix d'une formation proposée par le président ou la présidente de l'autorité de protection. Le président ou la présidente de l'autorité de protection préavise celui d'un ou d'une assesseur-e ou d'un greffier ou d'une greffière.
 
 <sup>4</sup> Pour le surplus, les dispositions générales relatives à la formation continue du personnel de l'Etat sont applicables.
 
+[^4-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 5
 
-**Frais de procédure (art. 6 al. 2 LPEA)**
+**Frais de procédure (art. 6 al. 2 LPEA[^5-1])**
 
 <sup>1</sup> Les frais perçus par l'autorité de protection sont réglés dans le règlement sur la justice.
 
+[^5-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 6
 
-**Aptitude des curateurs et curatrices privés (art. 9 al. 1 let. a et 10 LPEA)**
+**Aptitude des curateurs et curatrices privés (art. 9 al. 1 let. a et 10 LPEA[^6-1])**
 
 <sup>1</sup> L'autorité de protection encourage les curateurs et curatrices privés à acquérir les connaissances requises pour l'exécution de leur mission.
 
+[^6-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 7
 
-**Institutions sociales reconnues (art. 9 al. 1 let. d LPEA)**
+**Institutions sociales reconnues (art. 9 al. 1 let. d LPEA[^7-1])**
 
-<sup>1</sup> Le Conseil d'Etat, par la Direction de la sécurité et de la justice, tient à jour une liste des institutions reconnues et communique cette liste aux autorités de protection.
+<sup>1</sup> Le Conseil d'Etat, par la Direction de la sécurité, de la justice et du sport, tient à jour une liste des institutions reconnues et communique cette liste aux autorités de protection.
+
+[^7-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
 
 #### Art. 8
 
-**Rémunération du curateur ou de la curatrice (art. 11 al. 3 LPEA) – Frais**
+**Rémunération du curateur ou de la curatrice (art. 11 al. 3 LPEA[^8-1]) – Frais**
 
-<sup>1</sup> Les frais sont les dépenses effectives nécessaires à l'accomplissement du mandat de curatelle, tels ports de lettres, téléphones, frais de déplacements indispensables. Les indemnités de déplacements et de subsistance sont rémunérées, par analogie, selon le tarif prévu par le règlement sur le personnel de l'Etat.
+<sup>1</sup> Les frais sont les dépenses effectives nécessaires à l'accomplissement du mandat de curatelle, tels ports de lettres, téléphones, frais de déplacements indispensables. Les indemnités de déplacements et de subsistance sont rémunérées, par analogie, selon le tarif prévu par le règlement sur le personnel de l'Etat[^8-2].
 
 <sup>2</sup> Les frais font l'objet d'une liste détaillée que le curateur ou la curatrice présente à l'autorité de protection en même temps que son rapport annuel. Une justification sommaire suffit lorsque ces frais ne dépassent pas 100 francs par an.
 
+[^8-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+[^8-2]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
+
 #### Art. 9
 
-**Rémunération du curateur ou de la curatrice (art. 11 al. 3 LPEA) – Equitable indemnité**
+**Rémunération du curateur ou de la curatrice (art. 11 al. 3 LPEA[^9-1]) – Equitable indemnité**
 
-<sup>1</sup> L'indemnité à laquelle le curateur ou la curatrice a droit est fixée par l'autorité de protection chaque année en même temps que le dépôt de son rapport et la présentation de ses comptes pour la période comptable écoulée. L'autorité détermine également dans la même décision si, au regard de la situation financière de la personne protégée, la rémunération du curateur ou de la curatrice peut être prélevée sur les biens de l'intéressé-e ou doit être mise à la charge de sa commune de domicile, en application de l'article 11 al. 2 LPEA.
+<sup>1</sup> L'indemnité à laquelle le curateur ou la curatrice a droit est fixée par l'autorité de protection chaque année en même temps que le dépôt de son rapport et la présentation de ses comptes pour la période comptable écoulée. L'autorité détermine également dans la même décision si, au regard de la situation financière de la personne protégée, la rémunération du curateur ou de la curatrice peut être prélevée sur les biens de l'intéressé-e ou doit être mise à la charge de sa commune de domicile, en application de l'article 11 al. 2 LPEA[^9-2].
 
 <sup>2</sup> Cette indemnité se monte à:
 
@@ -114,9 +131,12 @@ Arrête:
 
 <sup>5</sup> Pour les couples, un montant réduit de 30 à 50 % est fixé pour la seconde personne lors du calcul de l'indemnité.
 
+[^9-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+[^9-2]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 10
 
-**Rémunération du curateur ou de la curatrice (art. 11 al. 3 LPEA) – Indemnités pour actes particuliers**
+**Rémunération du curateur ou de la curatrice (art. 11 al. 3 LPEA[^10-1]) – Indemnités pour actes particuliers**
 
 <sup>1</sup> Pour certains actes particuliers, le curateur ou la curatrice a droit, en plus de l'indemnité de l'article 9, à une indemnité qui se monte à:
 
@@ -132,9 +152,11 @@ Arrête:
 
 <sup>2</sup> Le curateur ou la curatrice appelé-e à fournir des services propres à son activité professionnelle a droit à une rémunération fixée sur la base du tarif usuel dans sa profession. Lorsqu'il ou elle effectue aussi des opérations sans lien avec son activité professionnelle, celles-ci sont indemnisées conformément à l'article 9 ainsi qu'à l'alinéa 1 du présent article.
 
+[^10-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 11
 
-**Exigences requises des curateurs et curatrices des services officiels de curatelles (art. 12 al. 3 LPEA)**
+**Exigences requises des curateurs et curatrices des services officiels de curatelles (art. 12 al. 3 LPEA[^11-1])**
 
 <sup>1</sup> Les curateurs et curatrices des services officiels de curatelles doivent pouvoir attester de compétences dans le domaine de la protection de l'adulte et/ou de l'enfant, notamment dans le domaine juridique, en matière de travail social, en matière de psychologie/pédagogie, dans le domaine de la santé ou dans celui de la comptabilité ou de la gestion de biens.
 
@@ -142,11 +164,15 @@ Arrête:
 
 <sup>3</sup> Les curateurs et curatrices des services officiels de curatelles doivent en outre faire preuve de connaissances pratiques suffisantes pour l'exercice de la fonction envisagée.
 
+[^11-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 12
 
-**Inventaire (art. 13 et 15 LPEA)**
+**Inventaire (art. 13 et 15 LPEA[^12-1])**
 
 <sup>1</sup> L'inventaire mentionne l'état des avoirs et des dettes de la personne protégée au jour de la réception du mandat.
+
+[^12-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
 
 #### Art. 13
 
@@ -156,7 +182,7 @@ Arrête:
 
 #### Art. 14
 
-**Comptes (art. 14 et 15 LPEA)**
+**Comptes (art. 14 et 15 LPEA[^14-1])**
 
 <sup>1</sup> Le rapport comptable doit indiquer le détail de toutes les recettes et dépenses faites pendant la période comptable; les pièces justificatives doivent être communiquées à l'appui.
 
@@ -164,37 +190,49 @@ Arrête:
 
 <sup>3</sup> Le rapport comptable contient également l'état de la fortune actuelle de la personne concernée et est certifié exact par la signature du curateur ou de la curatrice.
 
+[^14-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 15
 
-**Rapports périodiques (art. 14 et 15 LPEA)**
+**Rapports périodiques (art. 14 et 15 LPEA[^15-1])**
 
 <sup>1</sup> En plus du rapport comptable, ou séparément lorsque son mandat ne porte pas sur les questions financières, le curateur ou la curatrice remet à l'autorité de protection un rapport écrit sur son activité. Le rapport comprend l'analyse de l'exercice révolu et fixe les objectifs pour le suivant; il fait en particulier état de tout fait important concernant la personne protégée.
 
+[^15-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 16
 
-**Formules en matière de placement à des fins d'assistance (art. 18 LPEA)**
+**Formules en matière de placement à des fins d'assistance (art. 18 LPEA[^16-1])**
 
 <sup>1</sup> Lorsqu'un placement à des fins d'assistance est décidé par un ou une médecin, celui-ci ou celle-ci utilise la formule officielle prévue à cet effet.
 
-<sup>2</sup> Cette formule satisfait aux exigences de l'article 430 al. 2 CC et indique la possibilité d'en appeler au juge conformément à l'article 439 CC.
+<sup>2</sup> Cette formule satisfait aux exigences de l'article 430 al. 2 CC[^16-2] et indique la possibilité d'en appeler au juge conformément à l'article 439 CC[^16-3].
+
+[^16-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+[^16-2]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+[^16-3]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
 #### Art. 17
 
 **Maintien d'une personne entrée de son plein gré dans une institution**
 
-<sup>1</sup> La mesure prévue à l'article 427 CC peut être prise par un ou une médecin-chef-fe ou, en cas de délégation par le ou la médecin-chef-fe, par un ou une médecin cadre disposant des qualifications spécifiques nécessaires pour prononcer la décision.
+<sup>1</sup> La mesure prévue à l'article 427 CC[^17-1] peut être prise par un ou une médecin-chef-fe ou, en cas de délégation par le ou la médecin-chef-fe, par un ou une médecin cadre disposant des qualifications spécifiques nécessaires pour prononcer la décision.
+
+[^17-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
 #### Art. 18
 
-**Suivi post-institutionnel et mesures ambulatoires (art. 26 LPEA)**
+**Suivi post-institutionnel et mesures ambulatoires (art. 26 LPEA[^18-1])**
 
 <sup>1</sup> Fondé sur un préavis médical, le traitement ambulatoire peut notamment consister en la prescription d'un mode de vie déterminé ou de la prise de certains médicaments, en l'obligation de se présenter régulièrement à une autorité sanitaire déterminée ou de suivre une thérapie.
 
 <sup>2</sup> La législation sur la lutte contre les dépendances est réservée.
 
+[^18-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 19
 
-**Institutions appropriées (art. 28 LPEA)**
+**Institutions appropriées (art. 28 LPEA[^19-1])**
 
 <sup>1</sup> Sont des institutions appropriées les institutions de santé et les institutions socio-thérapeutiques ou, exceptionnellement, les établissements pénitentiaires qui garantissent, d'une part, la présence de personnel de soins formé dans les domaines de la psychiatrie et de la psychologie et, d'autre part, la collaboration étroite avec une clinique psychiatrique extérieure.
 
@@ -202,13 +240,17 @@ Arrête:
 
 <sup>3</sup> La procédure d'autorisation est réglée par la législation spéciale.
 
+[^19-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
+
 #### Art. 20
 
-**Disposition transitoire concernant les services officiels de curatelles (art. 12 LPEA)**
+**Disposition transitoire concernant les services officiels de curatelles (art. 12 LPEA[^20-1])**
 
 <sup>1</sup> Les communes doivent mettre en place leur service officiel de curatelles jusqu'au 31 décembre 2013.
 
-<sup>2</sup> Dans les cas exceptionnels et sur requête motivée, ce délai peut être prolongé par la Direction de la sécurité et de la justice jusqu'au 31 décembre 2014 au plus tard.
+<sup>2</sup> Dans les cas exceptionnels et sur requête motivée, ce délai peut être prolongé par la Direction de la sécurité, de la justice et du sport jusqu'au 31 décembre 2014 au plus tard.
+
+[^20-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
 
 #### Art. 21
 
