@@ -4,13 +4,13 @@ number: "412.4.21"
 title: Reglement über die Ausbildung an Fachmittelschulen
 short: FMSR
 language: de
-version: 2020-08-01
-valid_until: 2022-01-31
-version_adopted: 2020-01-07
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2025-06-23
 in_force: 2025-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.4.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/6436/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7297/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ausbildung an Fachmittelschulen – R
 
 (FMSR)
 
-vom 10.06.2008 (Fassung in Kraft getreten am 01.08.2020)
+vom 10.06.2008 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -67,7 +67,7 @@ beschliesst:
 
 <sup>1</sup> Die Aufnahmegesuche müssen an die Direktion der betreffenden FMS gerichtet werden.
 
-<sup>2</sup> Informationen über die Aufnahmegesuche, insbesondere was die Anmeldefrist betrifft, werden im Januar von der Direktion für Erziehung, Kultur und Sport (die Direktion) im Amtsblatt veröffentlicht.
+<sup>2</sup> Informationen über die Aufnahmegesuche, insbesondere was die Anmeldefrist betrifft, werden im Januar von der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) im Amtsblatt veröffentlicht.
 
 #### Art. 4
 
