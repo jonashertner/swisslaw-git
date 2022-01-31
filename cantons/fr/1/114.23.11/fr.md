@@ -4,13 +4,12 @@ number: "114.23.11"
 title: "Ordonnance sur l'asile"
 short: OAs
 language: fr
-version: 2007-01-01
-valid_until: 2022-01-31
-version_adopted: 2006-12-05
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2002-11-26
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.23.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/4978/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7235/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Asile – O
 
 (OAs)
 
-du 26.11.2002 (version entrée en vigueur le 01.01.2007)
+du 26.11.2002 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -81,9 +80,9 @@ Arrête:
 
 #### Art. 5
 
-**Direction de la sécurité et de la justice**
+**Direction de la sécurité, de la justice et du sport**
 
-<sup>1</sup> La Direction de la sécurité et de la justice (ci-après: la Direction) est chargée de l'application de la législation fédérale sur l'asile, sous réserve des compétences attribuées à la Direction de la santé et des affaires sociales. Elle dispose à cet effet du Service de la population et des migrants.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport (ci-après: la Direction) est chargée de l'application de la législation fédérale sur l'asile, sous réserve des compétences attribuées à la Direction de la santé et des affaires sociales. Elle dispose à cet effet du Service de la population et des migrants.
 
 <sup>2</sup> Elle planifie les mesures à prendre en cas de circonstances exceptionnelles.
 

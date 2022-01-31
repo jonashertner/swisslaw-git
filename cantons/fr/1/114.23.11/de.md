@@ -4,13 +4,12 @@ number: "114.23.11"
 title: Asylverordnung
 short: AsV
 language: de
-version: 2007-01-01
-valid_until: 2022-01-31
-version_adopted: 2006-12-05
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2002-11-26
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.23.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/4978/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7235/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Asylverordnung
 
 (AsV)
 
-vom 26.11.2002 (Fassung in Kraft getreten am 01.01.2007)
+vom 26.11.2002 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -81,9 +80,9 @@ beschliesst:
 
 #### Art. 5
 
-**Sicherheits- und Justizdirektion**
+**Sicherheits-, Justiz- und Sportdirektion**
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion (die Direktion) ist, unter Vorbehalt der Befugnisse der Direktion für Gesundheit und Soziales, für den Vollzug des Bundesrechts im Asylwesen zuständig. Sie verfügt hierfür über das Amt für Bevölkerung und Migration.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion (die Direktion) ist, unter Vorbehalt der Befugnisse der Direktion für Gesundheit und Soziales, für den Vollzug des Bundesrechts im Asylwesen zuständig. Sie verfügt hierfür über das Amt für Bevölkerung und Migration.
 
 <sup>2</sup> Sie plant die entsprechenden Massnahmen für den Fall ausserordentlicher Umstände.
 
