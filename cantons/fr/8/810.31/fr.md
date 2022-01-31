@@ -4,13 +4,12 @@ number: "810.31"
 title: Règlement sur les sites pollués
 short: RSites
 language: fr
-version: 2013-07-01
-valid_until: 2022-01-31
-version_adopted: 2013-06-04
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2013-06-04
 in_force: 2013-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5451/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7399/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Sites pollués – R
 
 (RSites)
 
-du 04.06.2013 (version entrée en vigueur le 01.07.2013)
+du 04.06.2013 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -37,7 +36,7 @@ Arrête:
 
 **Conseil d'Etat et Direction**
 
-<sup>1</sup> Les compétences, en matière d'assainissement des sites pollués, du Conseil d'Etat et de la Direction de l'aménagement, de l'environnement et des constructions (ci-après: la Direction) sont fixées par la loi.
+<sup>1</sup> Les compétences, en matière d'assainissement des sites pollués, du Conseil d'Etat et de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: la Direction) sont fixées par la loi.
 
 <sup>2</sup> La Direction prend les décisions administratives qui lui incombent en vertu de la loi; elle peut cependant renoncer à rendre une décision lorsque, comme le prévoit le droit fédéral, l'exécution des mesures d'investigation, de surveillance et d'assainissement requises est assurée d'une autre manière.
 

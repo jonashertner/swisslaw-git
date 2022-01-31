@@ -4,13 +4,12 @@ number: "810.31"
 title: Reglement über belastete Standorte
 short: AltlastR
 language: de
-version: 2013-07-01
-valid_until: 2022-01-31
-version_adopted: 2013-06-04
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2013-06-04
 in_force: 2013-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/5451/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7399/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Belastete Standorte – R
 
 (AltlastR)
 
-vom 04.06.2013 (Fassung in Kraft getreten am 01.07.2013)
+vom 04.06.2013 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -37,7 +36,7 @@ beschliesst:
 
 **Staatsrat und Direktion**
 
-<sup>1</sup> Die Zuständigkeiten des Staatsrats und der Raumplanungs-, Umwelt- und Baudirektion (die Direktion) bei der Sanierung von belasteten Standorten werden im Gesetz geregelt.
+<sup>1</sup> Die Zuständigkeiten des Staatsrats und der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (die Direktion) bei der Sanierung von belasteten Standorten werden im Gesetz geregelt.
 
 <sup>2</sup> Die Direktion erlässt die Verwaltungsverfügungen, für die sie aufgrund des Gesetzes zuständig ist; sie kann jedoch gestützt auf das Bundesrecht darauf verzichten, wenn die Ausführung der notwendigen Untersuchungs-, Überwachungs- und Sanierungsmassnahmen auch ohne Verfügung sichergestellt ist.
 
