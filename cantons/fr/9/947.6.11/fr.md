@@ -3,20 +3,19 @@ canton: FR
 number: "947.6.11"
 title: "Ordonnance sur les armes, les accessoires d'armes et les munitions"
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-12-09
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 2002-12-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/947.6.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5735/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7459/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur les armes, les accessoires d'armes et les munitions
 
-du 09.12.2002 (version entrée en vigueur le 01.01.2003)
+du 09.12.2002 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -70,7 +69,7 @@ Arrête:
 
 **Disposition transitoire**
 
-<sup>1</sup> Jusqu'à la réalisation définitive du transfert des tâches et compétences du Département de la police à la Police cantonale, les attributions de celle-ci sont exercées par la Direction de la sécurité et de la justice (ci-après: la Direction).
+<sup>1</sup> Jusqu'à la réalisation définitive du transfert des tâches et compétences du Département de la police à la Police cantonale, les attributions de celle-ci sont exercées par la Direction de la sécurité, de la justice et du sport (ci-après: la Direction).
 
 <sup>2</sup> La Police cantonale donne à la Direction son préavis sur les demandes d'autorisations et contrôle les locaux commerciaux des armuriers. Elle peut être chargée d'autres tâches par la Direction.
 

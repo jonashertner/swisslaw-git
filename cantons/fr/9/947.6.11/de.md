@@ -3,20 +3,19 @@ canton: FR
 number: "947.6.11"
 title: "Verordnung über Waffen, Waffenzubehör und Munition"
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-12-09
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 2002-12-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/947.6.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5735/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7459/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Waffen, Waffenzubehör und Munition
 
-vom 09.12.2002 (Fassung in Kraft getreten am 01.01.2003)
+vom 09.12.2002 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -70,7 +69,7 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Bis zur endgültigen Übertragung der Aufgaben und Befugnisse des Polizeidepartements an die Kantonspolizei ist die Sicherheits- und Justizdirektion (die Direktion) dafür zuständig.
+<sup>1</sup> Bis zur endgültigen Übertragung der Aufgaben und Befugnisse des Polizeidepartements an die Kantonspolizei ist die Sicherheits-, Justiz- und Sportdirektion (die Direktion) dafür zuständig.
 
 <sup>2</sup> Die Kantonspolizei nimmt zuhanden der Direktion zu den Bewilligungsgesuchen Stellung und kontrolliert die Geschäftsräume der Waffenhändler. Sie kann von der Direktion mit weiteren Aufgaben betraut werden.
 
