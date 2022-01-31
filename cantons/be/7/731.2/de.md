@@ -1,25 +1,24 @@
 ---
 canton: BE
 number: "731.2"
-title: Gesetz über das öffentliche Beschaffungswesen
-short: ÖBG
+title: Gesetz über den Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
+short: IVöBG
 language: de
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2018-03-21
+version: 2022-02-01
+version_adopted: 2021-06-08
 adopted: 2021-06-08
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1518/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2466/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über das öffentliche Beschaffungswesen
+# Gesetz über den Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
 
-(ÖBG)
+(IVöBG)
 
-vom 11.06.2002 (Stand 01.01.2020)
+vom 08.06.2021 (Stand 01.02.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -29,211 +28,167 @@ beschliesst:
 
 #### Art. 1
 
-**Interkantonale Vereinbarung**
+**Gegenstand und Zweck**
 
-<sup>1</sup> Der Kanton Bern ist Unterzeichnerkanton der bereinigten interkantonalen Vereinbarung vom 25. November 1994 über das öffentliche Beschaffungswesen (IVöB).
+<sup>1</sup> Dieses Gesetz regelt
 
-<sup>2</sup> Die unter der BSG-Nummer 731.2-1[^1-1] wiedergegebenen Änderungen der IVöB vom 15. März 2001 werden genehmigt.
+- a den Beitritt des Kantons Bern zur Interkantonalen Vereinbarung vom 15. November 2019 über das öffentliche Beschaffungswesen (IVöB)[^1-1],
+- b die Einführung der IVöB im Kanton Bern.
 
-[^1-1]: Siehe BAG 02-92 S. 17 ff.
+<sup>2</sup> Es bezweckt nachhaltige und transparente öffentliche Beschaffungen, die Gleichbehandlung der Anbieter und die Förderung des wirksamen, fairen Wettbewerbs (Art. 2 IVöB).
+
+[^1-1]: BSG [731.2-1](https://www.belex.sites.be.ch/data/731.2-1/de)
 
 #### Art. 2
 
-**Geltungsbereich**
+**Beitritt**
 
-<sup>1</sup> Diesem Gesetz unterstehen
+<sup>1</sup> Der Kanton Bern tritt der unter der [BAG-Nummer 21-110](https://www.belex.sites.be.ch/frontend/change_documents/2024?locale=de) veröffentlichten IVöB bei.
 
-- a der Kanton, seine Anstalten und die öffentlich-rechtlichen Körperschaften, an denen er beteiligt ist,
-- b die Gemeinden nach Artikel 2 des Gemeindegesetzes vom 16. März 1998 (GG)[^2-1], ihre Anstalten und die öffentlich-rechtlichen Körperschaften, an denen sie beteiligt sind,
-- b1 die Landeskirchen und ihre regionalen Einheiten nach Artikel 1 bzw. Artikel 9 des Gesetzes vom 21. März 2018 über die bernischen Landeskirchen (Landeskirchengesetz, LKG)[^2-2],
-- c die Organisationen und Unternehmen, gleich welcher Rechtsform, die in den Sektoren Wasser-, Energie- und Verkehrsversorgung, Abwasser- und Abfallentsorgung sowie im Telekommunikationsbereich tätig sind und durch Körperschaften nach Buchstabe a oder b mehrheitlich beherrscht werden oder von diesen mit ausschliesslichen oder besonderen Rechten, insbesondere Konzessionen, ausgestattet sind,
-- d private Vergabestellen für Objekte und Leistungen, die mit mehr als 50 Prozent der Gesamtkosten von Bund, Kanton oder Gemeinden subventioniert werden.
-
-<sup>2</sup> Die Auftraggeberinnen und Auftraggeber nach Absatz 1 haben im Rahmen dieses Gesetzes Verfügungsbefugnis.
-
-<sup>3</sup> Erhalten Behörden, Organisationen oder Unternehmen nach Absatz 1 im Rahmen einer öffentlichen Beschaffung den Zuschlag, so müssen sie bei einer Weitervergabe des Auftrags an Dritte kein Vergabeverfahren durchführen.
-
-[^2-1]: BSG 170.11
-[^2-2]: [BSG 410.11](https://www.belex.sites.be.ch/data/410.11/de)
+<sup>2</sup> Der Regierungsrat erklärt gemäss Artikel 63 IVöB den Beitritt gegenüber dem Interkantonalen Organ für das öffentliche Beschaffungswesen (InöB).
 
 #### Art. 3
 
-**Schwellenwerte**
+**Vorbehalte**
 
-<sup>1</sup> Für die Bestimmung der Verfahrensart sind die Schwellenwerte gemäss Anhang 2 der IVöB massgebend.
+<sup>1</sup> Der Kanton Bern tritt der IVöB mit den Vorbehalten gemäss diesem Artikel bei.
 
-<sup>2</sup> Die Gemeinden können für ihre Beschaffungen tiefere Schwellenwerte vorsehen.
+<sup>2</sup> Anstelle von Artikel 52 Absatz 1 IVöB findet Artikel 6 dieses Gesetzes Anwendung.
+
+<sup>3</sup> Artikel 42 Absatz 1 IVöB und Artikel 54 Absatz 2 IVöB finden Anwendung mit der Massgabe, dass sie statt auf das Verwaltungsgericht auf die gemäss Artikel 6 dieses Gesetzes zuständige Beschwerdeinstanz Bezug nehmen.
 
 #### Art. 4
 
-**Einladungsverfahren**
+**Subsidiäre Anwendung der IVöB als kantonales Recht**
 
-<sup>1</sup> Im Einladungsverfahren bestimmen die Auftraggeberinnen und Auftraggeber, welche Anbieterinnen und Anbieter sie ohne Ausschreibung direkt zur Angebotsabgabe einladen wollen.
+<sup>1</sup> Kann der Beitritt des Kantons zur IVöB mit den Vorbehalten gemäss Artikel 3 nicht wirksam erfolgen, gilt die IVöB mit diesen Vorbehalten sowie nach Massgabe dieses Artikels sinngemäss als kantonales Gesetzesrecht. Der Regierungsrat stellt dies gegebenenfalls durch Verordnung fest.
 
-<sup>2</sup> Es müssen mindestens drei Anbieterinnen oder Anbieter zur Offertstellung eingeladen werden.
+<sup>2</sup> Die folgenden Bestimmungen der IVöB finden in dem Fall gemäss Absatz 1 keine Anwendung:
 
-<sup>3</sup> Der Regierungsrat kann bestimmen, in welchen Bereichen die Auftraggeberin oder der Auftraggeber vom Erfordernis von drei Offerten abweichen kann.
+- a 9. Kapitel (Behörden),
+- b 10. Kapitel (Schlussbestimmungen).
+
+<sup>3</sup> Mit der Zustimmung des Kantons finden in dem Fall gemäss Absatz 1 jedoch auch Anwendung:
+
+- a Änderungen der IVöB gemäss Artikel 61 Absatz 2 Buchstabe b IVöB,
+- b Anpassungen der Schwellenwerte gemäss Artikel 61 Absatz 2 Buchstabe c IVöB.
+
+<sup>4</sup> Zuständig für die Zustimmung gemäss Absatz 3 sind:
+
+- a bei unbedeutenden Änderungen oder Anpassungen der Regierungsrat,
+- b in den anderen Fällen der Grosse Rat.
 
 #### Art. 5
 
-**…**
+**Beschwerde**
+
+<sup>1</sup> Die Beschwerde gegen Verfügungen der Auftraggeber ist ab dem für das Einladungsverfahren massgebenden Auftragswert zulässig.
+
+<sup>2</sup> Die Bestimmungen über den Fristenstillstand sind nicht anwendbar.
 
 #### Art. 6
 
-**Freihändiges Verfahren**
+**Zuständigkeit für Beschwerden**
 
-<sup>1</sup> Der Auftrag kann im freihändigen Verfahren vergeben werden,
+<sup>1</sup> Verfügungen kommunaler Auftraggeber sind mit Beschwerde bei der Regierungsstatthalterin oder beim Regierungsstatthalter anfechtbar.
 
-- a in Fällen von Artikel XV Ziffer 1 des Übereinkommens vom 15. April 1994 über das öffentliche Beschaffungswesen (GATT)[^6-1],
-- b wenn die Schwellenwerte des Einladungsverfahrens oder die tieferen kommunalen Schwellenwerte nicht erreicht werden.
+<sup>2</sup> Verfügungen kantonaler Auftraggeber sind mit Beschwerde bei der in der Sache zuständigen Direktion oder der Staatskanzlei anfechtbar.
 
-<sup>2</sup> Der Entscheid über die Durchführung des freihändigen Verfahrens nach Absatz 1 Buchstabe a ist vor dem Zuschlag auf der Website des Vereins für ein Informationssystem über das öffentliche Beschaffungswesen in der Schweiz ([http://www.simap.ch](http://www.simap.ch)) zu veröffentlichen, wenn die Schwellenwerte des offenen und des selektiven Verfahrens erreicht werden.
+<sup>3</sup> Verfügungen und Beschwerdeentscheide der folgenden Behörden sind mit Beschwerde beim Verwaltungsgericht anfechtbar:
 
-<sup>3</sup> Auf eine Veröffentlichung kann verzichtet werden, wenn
-
-- a die Beschaffung auf Grund unvorhersehbarer Ereignisse so dringlich wird, dass kein offenes oder selektives Verfahren durchgeführt werden kann,
-- b die Auftraggeberin oder der Auftraggeber Güter im Rahmen einer günstigen, zeitlich befristeten Gelegenheit zu einem Preis beschaffen kann, der erheblich unter den üblichen Preisen liegt, insbesondere bei Liquidationsverkäufen.
-
-[^6-1]: SR 0.632.231.422
+- a der Regierungsstatthalterin oder des Regierungsstatthalters,
+- b der Direktionen und der Staatskanzlei,
+- c der Gerichtsbehörden und der Staatsanwaltschaft,
+- d des Grossen Rates.
 
 #### Art. 7
 
-**Freier Zugang zum Markt, Wirtschaftlichkeit**
+**Berücksichtigung der kleinen und mittleren Unternehmen**
 
-<sup>1</sup> Bei sämtlichen Vergabeverfahren ist der freie Zugang zum Markt für alle Anbieterinnen und Anbieter in gleichem Mass zu gewährleisten und der Grundsatz der Wirtschaftlichkeit zu beachten.
+<sup>1</sup> Die Auftraggeber tragen den Bedürfnissen und der Leistungsfähigkeit kleiner und mittlerer Unternehmen auf geeignete Weise Rechnung.
+
+<sup>2</sup> Sie beachten dabei die allgemeinen Grundsätze des Verfassungs- und Völkerrechts sowie des Bundesgesetzes vom 6. Oktober 1995 über den Binnenmarkt (Binnenmarktgesetz, BGBM)[^7-1].
+
+[^7-1]: SR [943.02](https://db.clex.ch/link/Bund/943.02/de)
 
 #### Art. 8
 
-**Sanktionen**
+**Ausführungsbestimmungen**
 
-<sup>1</sup> Verletzt die Zuschlagsempfängerin oder der Zuschlagsempfänger die Vergabebestimmungen, so kann die Auftraggeberin oder der Auftraggeber die Zuschlagsverfügung widerrufen, insbesondere wenn die Zuschlagsempfängerin oder der Zuschlagsempfänger
+<sup>1</sup> Der Regierungsrat erlässt die Ausführungsbestimmungen zur IVöB durch Verordnung.
 
-- a die geforderten Eignungskriterien nicht mehr erfüllt,
-- b der Auftraggeberin oder dem Auftraggeber falsche Auskünfte erteilt hat,
-- c Steuern oder Sozialabgaben nicht bezahlt hat,
-- d ihrem oder seinem Personal nicht Arbeitsbedingungen bietet, welche namentlich hinsichtlich Entlöhnung, Lohngleichheit für Mann und Frau sowie Sozialleistungen der Gesetzgebung und dem Gesamtarbeitsvertrag der Branche entsprechen,
-- e Abreden getroffen hat, die den wirksamen Wettbewerb beseitigen oder erheblich beeinträchtigen,
-- f die Einhaltung der schweizerischen und bernischen Umweltschutzgesetzgebung im Rahmen der Produktion nicht gewährleisten kann,
-- g im Konkurs ist,
-- h das Selbstdeklarationsblatt nicht wahrheitsgetreu ausgefüllt hat,
-- i für eine richtige Vertragserfüllung keine Gewähr mehr bieten kann.
+<sup>2</sup> Er kann Einzelheiten des Vollzugs, des Verfahrens und der Organisation regeln wie namentlich
 
-<sup>2</sup> In schwer wiegenden Fällen kann die Auftraggeberin oder der Auftraggeber die Zuschlagsempfängerin oder den Zuschlagsempfänger zusätzlich für eine Dauer von bis zu fünf Jahren von ihren oder seinen künftigen Vergabeverfahren ausschliessen.
+- a die Erweiterung des Geltungsbereichs der IVöB auf weitere Auftraggeber oder Aufträge,
+- b die Veröffentlichung des Zuschlags im freihändigen Verfahren auch ausserhalb des Staatsvertragsbereichs,
+- c die Sprachen des Verfahrens und des Angebots,
+- d die Ausbildung oder die Vertrauenswürdigkeit der mit öffentlichen Beschaffungen betrauten Personen,
+- e Massnahmen, welche die Auftraggeber gegen Risiken wie das Fehlverhalten von Anbietern oder des Beschaffungspersonals treffen,
+- f die Erhebung, Weitergabe oder Veröffentlichung von Daten über öffentliche Beschaffungen,
+- g die Organisation der zuständigen Stellen für einen einheitlichen Vollzug, die Beratung und Unterstützung der Auftraggeber sowie die Aus- und Weiterbildung im öffentlichen Beschaffungswesen,
+- h die für die Teilnahme an Vergabeverfahren erforderlichen Nachweise (Art. 12 und 26 IVöB).
+
+<sup>3</sup> Er erlässt Ausführungsbestimmungen über die Durchführung von Lohngleichheitskontrollen.
 
 #### Art. 9
 
-**Beizug von Subunternehmen**
+**Vollzug**
 
-<sup>1</sup> Die Zuschlagsempfängerin oder der Zuschlagsempfänger hat der Auftraggeberin oder dem Auftraggeber Art und Umfang der Arbeiten, die untervergeben werden sollen, sowie Namen und Sitz der an der Ausführung des Auftrags beteiligten Unternehmen bekannt zu geben.
+<sup>1</sup> Der Regierungsrat wird ermächtigt,
 
-<sup>2</sup> Die Auftraggeberin oder der Auftraggeber hat vertraglich sicherzustellen, dass alle an der Ausführung des Auftrags beteiligten Unternehmen die Bestimmungen von Artikel 8 Absatz 1 Buchstaben c, d, f und h einhalten.
+- a Vereinbarungen mit Grenzregionen und Nachbarstaaten abzuschliessen (Art. 6 Abs. 4 IVöB),
+- b das für Kontrollen zuständige Organ zu bezeichnen (Art. 12 Abs. 5 IVöB),
+- c die für den Vollzug, die Kontrolle und die Aufsicht verantwortlichen Stellen zu bezeichnen (Art. 28 Abs. 1, Art. 45, Art. 50 Abs. 1, Art. 62 Abs. 1 und 2 IVöB),
+- d die Mitteilungsbefugnis des Auftraggebers zur Eröffnung von Verfügungen (Art. 51 Abs. 1 IVöB) zu delegieren,
+- e Änderungen der IVöB, soweit sie von untergeordneter Bedeutung sind, zuzustimmen (Art. 61 Abs. 2 Bst. b IVöB),
+- f den Austritt des Kantons Bern aus der Interkantonalen Vereinbarung vom 15. März 2001 über das öffentliche Beschaffungswesen (IVöB)[^9-1] zu erklären (Art. 63 IVöB).
 
-<sup>3</sup> Für den Fall der Verletzung dieser Pflichten sind im Vertrag Konventionalstrafen vorzusehen. Sanktionen nach Artikel 8 bleiben vorbehalten.
+[^9-1]: BSG [731.2-1](https://www.belex.sites.be.ch/data/731.2-1/de)
 
 #### Art. 10
 
-**Schadenersatz**
+**Änderung eines Erlasses**
 
-<sup>1</sup> Die Auftraggeberin oder der Auftraggeber haftet für einen Schaden, den sie oder er durch eine rechtswidrige Verfügung verursacht hat.
+<sup>1</sup> Das Arbeitsmarktgesetz vom 23. Juni 2003 (AMG)[^10-1] wird geändert.
 
-<sup>2</sup> Die Haftung nach Absatz 1 beschränkt sich auf Aufwendungen, die der Anbieterin oder dem Anbieter im Zusammenhang mit dem Vergabe- und Rechtsmittelverfahren erwachsen sind.
-
-<sup>3</sup> Im Übrigen sind die Bestimmungen über die Staatshaftung anwendbar.
+[^10-1]: BSG [836.11](https://www.belex.sites.be.ch/data/836.11/de)
 
 #### Art. 11
 
-**Rechtspflege 1. Anfechtbare Verfügungen**
-
-<sup>1</sup> Unabhängig von den Schwellenwerten gelten als anfechtbare Verfügungen der Auftraggeberin oder des Auftraggebers
-
-- a der Ausschluss von künftigen Vergabeverfahren,
-- b die Aufnahme von Anbieterinnen oder Anbietern in ständige Listen oder die Streichung aus solchen Listen,
-- c der Entscheid, einen Auftrag nach Artikel 6 Absatz 1 Buchstabe a freihändig zu vergeben.
-
-<sup>2</sup> Folgende Verfügungen sind nur anfechtbar, wenn die Schwellenwerte des Einladungsverfahrens oder die tieferen kommunalen Schwellenwerte erreicht werden:
-
-- a die Ausschreibung des Auftrags,
-- b der Zuschlag,
-- c der Abbruch des Verfahrens,
-- d die Auswahl der Teilnehmerinnen und Teilnehmer im selektiven Verfahren,
-- e der Ausschluss vom Vergabeverfahren,
-- f der Widerruf des Zuschlags.
-
-#### Art. 12
-
-**2. Rechtsmittel bei kantonalen Aufträgen**
-
-<sup>1</sup> Gegen Verfügungen kantonaler Auftraggeberinnen oder Auftraggeber nach Artikel 2 Absatz 1 Buchstabe a und der von ihnen mehrheitlich beherrschten oder konzessionierten Auftraggeberinnen oder Auftraggeber nach Artikel 2 Absatz 1 Buchstabe c sowie von Privaten nach Artikel 2 Absatz 1 Buchstabe d kann bei der in der Sache zuständigen Direktion des Regierungsrates Beschwerde erhoben werden.
-
-<sup>2</sup> Verfügungen und Beschwerdeentscheide der Direktion sind mit Beschwerde beim Verwaltungsgericht anfechtbar.
-
-<sup>3</sup> Auftragsvergaben unterhalb der Schwellenwerte des Einladungsverfahrens sind nicht anfechtbar.
-
-#### Art. 13
-
-**3. Rechtsmittel bei kommunalen Aufträgen**
-
-<sup>1</sup> Gegen Verfügungen kommunaler Auftraggeberinnen oder Auftraggeber nach Artikel 2 Absatz 1 Buchstabe b und der von ihnen mehrheitlich beherrschten oder konzessionierten Auftraggeberinnen oder Auftraggeber nach Artikel 2 Absatz 1 Buchstabe c kann bei der Regierungsstatthalterin oder beim Regierungsstatthalter Beschwerde erhoben werden.
-
-<sup>2</sup> Die Beschwerdeentscheide der Regierungsstatthalterin oder des Regierungsstatthalters sind mit Beschwerde beim Verwaltungsgericht anfechtbar.
-
-<sup>3</sup> Auftragsvergaben unterhalb der Schwellenwerte des Einladungsverfahrens oder tieferer kommunaler Schwellenwerte sind nicht anfechtbar.
-
-#### Art. 14
-
-**4. Verfahrensbestimmungen**
-
-<sup>1</sup> Die Beschwerdefrist beträgt zehn Tage.
-
-<sup>2</sup> Mit Beschwerde können gerügt werden:
-
-- a Rechtsverletzungen, einschliesslich Rechtsfehler bei der Ausübung des Ermessens,
-- b unrichtige oder unvollständige Feststellung des rechtserheblichen Sachverhaltes.
-
-<sup>3</sup> Die Beschwerde hat keine aufschiebende Wirkung. Im Übrigen gilt Artikel 17 der interkantonalen Vereinbarung.
-
-<sup>4</sup> Schadenersatzansprüche auf Grund von Artikel 10 sind im Klageverfahren nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^14-1] geltend zu machen.
-
-[^14-1]: BSG 155.21
-
-#### Art. 15
-
-**Ausführungsbestimmungen, Änderungen, Austritt**
-
-<sup>1</sup> Der Regierungsrat erlässt die Ausführungsbestimmungen.
-
-<sup>2</sup> Er stimmt Änderungen der interkantonalen Vereinbarung zu, soweit es sich um geringfügige Anpassungen in Fragen des Verfahrens oder der Organisation handelt, und beschliesst den Austritt nach Artikel 20 Absatz 2 der interkantonalen Vereinbarung.
-
-#### Art. 16
-
-**Änderung eines Erlasses**
-
-<sup>1</sup> Das Staatsbeitragsgesetz (StBG) vom 16. September 1992[^16-1] wird wie folgt geändert:
-
-[^16-1]: BSG 641.1
-
-#### Art. 17
-
 **Aufhebung eines Erlasses**
 
-<sup>1</sup> Das Gesetz vom 27. November 1997 über den Beitritt des Kantons Bern zur interkantonalen Vereinbarung über das öffentliche Beschaffungswesen wird aufgehoben.
+<sup>1</sup> Das Gesetz vom 11. Juni 2002 über das öffentliche Beschaffungswesen (ÖBG)[^11-1] wird aufgehoben.
 
-#### Art. 18
+<sup>2</sup> Die Interkantonale Vereinbarung vom 15. März 2001 über das öffentliche Beschaffungswesen (IVöB) wird aus der Bernischen Systematischen Gesetzessammlung entfernt, sobald der Beitritt gemäss Artikel 2 erfolgt ist.
+
+[^11-1]: BSG [731.2](https://www.belex.sites.be.ch/data/731.2/de)
+
+#### Art. 12
 
 **Inkrafttreten**
 
 <sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
 
-Bern, 11. Juni 2002
+Bern, 8. Juni 2021
 
 Im Namen des Grossen Rates
 
-Der Präsident: Widmer
+Der Präsident: Gullotti
 
-Der Vizestaatsschreiber: Krähenbühl
+Der Generalsekretär: Trees
 
-RRB Nr. 3938 vom 20. November 2002:
+Auszug aus dem Protokoll des Regierungsrates vom 17. November 2021
 
-Inkraftsetzung auf den 1. Januar 2003
+Der Regierungsrat stellt fest, dass vom Referendumsrecht zum Gesetz über den Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöBG) innerhalb der festgesetzten Frist kein Gebrauch gemacht worden ist.
 
-02-92
+Das Gesetz ist in die Bernische Amtliche Gesetzessammlung aufzunehmen.
+
+Für getreuen Protokollauszug
+
+Der Staatsschreiber: Auer
+
+RRB Nr. 1298 vom 17. November 2021:
+
+Inkraftsetzung auf den 1. Februar 2022
+
+21-109

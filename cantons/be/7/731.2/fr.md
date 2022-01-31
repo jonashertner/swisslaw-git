@@ -1,25 +1,24 @@
 ---
 canton: BE
 number: "731.2"
-title: Loi sur les marchés publics
-short: LCMP
+title: Loi concernant l’adhésion à l’accord intercantonal sur les marchés publics
+short: LAIMP
 language: fr
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2018-03-21
+version: 2022-02-01
+version_adopted: 2021-06-08
 adopted: 2021-06-08
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1518/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2466/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Loi sur les marchés publics
+# Loi concernant l’adhésion à l’accord intercantonal sur les marchés publics
 
-(LCMP)
+(LAIMP)
 
-du 11.06.2002 (état au 01.01.2020)
+du 08.06.2021 (état au 01.02.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -29,211 +28,167 @@ arrête:
 
 #### Art. 1
 
-**Accord intercantonal**
+**Objet et but**
 
-<sup>1</sup> Le canton de Berne est cosignataire de l'accord intercantonal modifié du 25 novembre 1994 sur les marchés publics (AIMP).
+<sup>1</sup> La présente loi règle
 
-<sup>2</sup> Les modifications de l'AIMP du 15 mars 2001 publié sous le numéro RSB 731.2-1 [^1-1] sont approuvées.
+- a l'adhésion du canton de Berne à l'accord intercantonal du 15 novembre 2019 sur les marchés publics (AIMP)[^1-1],
+- b l'introduction de l'AIMP dans le canton de Berne.
 
-[^1-1]: cf. ROB 02–92, p 17ss
+<sup>2</sup> Elle vise les buts suivants: la transparence des marchés publics, le respect des exigences du développement durable, l'égalité de traitement des soumissionnaires et la promotion d'une concurrence efficace et équitable (art. 2 AIMP).
+
+[^1-1]: RSB [731.2-1](https://www.belex.sites.be.ch/data/731.2-1/fr)
 
 #### Art. 2
 
-**Champ d'application**
+**Adhésion**
 
-<sup>1</sup> Sont soumis à la présente loi
+<sup>1</sup> Le canton de Berne adhère à l'AIMP publié sous le [numéro ROB 21-110](https://www.belex.sites.be.ch/frontend/change_documents/2024?locale=fr).
 
-- a le canton, ses établissements et les collectivités de droit public auxquelles il participe;
-- b les communes au sens de l'article 2 de la loi du 16 mars 1998 sur les communes (LCo)[^2-1], leurs établissements et les collectivités de droit public auxquelles elles participent;
-- b1 les Eglises nationales et leurs entités régionales au sens respectivement de l’article 1 et de l’article 9 de la loi du 21 mars 2018 sur les Eglises nationales bernoises (loi sur les Eglises nationales, LEgN)[^2-2],
-- c les organisations ou entreprises, de quelque forme juridique que ce soit, opérant dans les secteurs de l'eau, de l'énergie, des transports, des eaux usées, des déchets ou des télécommunications et contrôlées majoritairement par une collectivité mentionnée aux lettres a ou b, ou dans la mesure où elles bénéficient de droits exclusifs ou spéciaux, en particulier de concessions, attribués par une telle collectivité;
-- d les entités privées mettant en soumission des objets et des services dont les coûts totaux sont subventionnés à plus de 50 pour cent par la Confédération, le canton ou les communes.
-
-<sup>2</sup> Les adjudicateurs ou les adjudicatrices au sens de l'alinéa 1 ont compétence de décision dans le cadre de la présente loi.
-
-<sup>3</sup> Si, dans le cadre d'un appel d'offres public, le marché est adjugé à des autorités, à des organisations ou à des entreprises figurant à l'alinéa 1, ces adjudicataires sont dispensés d'ouvrir une nouvelle procédure d'adjudication pour confier le mandat à des tiers.
-
-[^2-1]: RSB 170.11
-[^2-2]: [RSB 410.11](https://www.belex.sites.be.ch/data/410.11/fr)
+<sup>2</sup> Le Conseil-exécutif déclare l'adhésion à l'Autorité intercantonale pour les marchés publics (AiMp), conformément à l'article 63 AIMP.
 
 #### Art. 3
 
-**Seuils applicables**
+**Réserves**
 
-<sup>1</sup> Les seuils figurant à l'annexe 2 de l'AIMP sont déterminants pour définir le type de procédure.
+<sup>1</sup> Le canton de Berne adhère à l’AIMP avec les réserves prévues dans le présent article.
 
-<sup>2</sup> Les communes peuvent prévoir des seuils inférieurs pour leurs marchés.
+<sup>2</sup> L’article 6 de la présente loi s’applique en lieu et place de l’article 52, alinéa 1 AIMP.
+
+<sup>3</sup> Les articles 42, alinéa 1, et 54, alinéa 2 AIMP s’appliquent en se référant non pas au Tribunal administratif, mais aux instances de recours compétentes au sens de l’article 6 de la présente loi.
 
 #### Art. 4
 
-**Procédure sur invitation**
+**Application subsidiaire de l’AIMP en tant que droit cantonal**
 
-<sup>1</sup> En procédure sur invitation, les adjudicateurs ou les adjudicatrices désignent les candidats ou les candidates qu'ils souhaitent inviter à soumissionner directement, sans publication.
+<sup>1</sup> Si l’adhésion du canton à l’AIMP ne peut être effective avec les réserves prévues à l’article 3, l’AIMP s’applique par analogie comme droit cantonal ayant le rang de loi, avec ces réserves et conformément au présent article. Le Conseil-exécutif fixe cette réglementation le cas échéant par voie d’ordonnance.
 
-<sup>2</sup> Il convient de requérir l'offre d'au moins trois candidats ou candidates.
+<sup>2</sup> Les dispositions suivantes de l’AIMP ne s’appliquent pas dans le cas visé à l’alinéa 1:
 
-<sup>3</sup> Le Conseil-exécutif peut décider dans quels domaines l'adjudicateur ou l'adjudicatrice peut déroger à la règle des trois offres.
+- a chapitre 9 (Autorités),
+- b chapitre 10 (Dispositions finales).
+
+<sup>3</sup> Néanmoins les dispositions suivantes s’appliquent aussi, avec l’accord du canton, dans le cas visé à l’alinéa 1:
+
+- a modifications de l’AIMP conformément à l’article 61, alinéa 2, lettre b AIMP,
+- b adaptations des valeurs seuils conformément à l’article 61, alinéa 2, lettre c AIMP.
+
+<sup>4</sup> Est compétent pour donner son accord au sens de l’alinéa 3
+
+- a le Conseil-exécutif pour des modifications ou adaptations mineures,
+- b le Grand Conseil dans les autres cas.
 
 #### Art. 5
 
-**…**
+**Recours**
+
+<sup>1</sup> Un recours contre une décision des adjudicateurs peut être formé à partir de la valeur du marché déterminante pour la procédure sur invitation.
+
+<sup>2</sup> Les dispositions sur la suspension des délais ne sont pas applicables.
 
 #### Art. 6
 
-**Procédure de gré à gré**
+**Compétence en matière de recours**
 
-<sup>1</sup> Le marché peut être passé de gré à gré
+<sup>1</sup> Les décisions des autorités adjudicatrices communales peuvent faire l’objet d’un recours auprès du préfet ou de la préfète.
 
-- a dans les cas figurant à l'article XV, chiffre 1 de l'Accord du 15 avril 1994 sur les marchés publics (GATT)[^6-1],
-- b dans les cas où les seuils de la procédure sur invitation ou les seuils communaux inférieurs ne sont pas atteints.
+<sup>2</sup> Les décisions des autorités adjudicatrices cantonales peuvent faire l’objet d’un recours auprès de la Direction compétente en la matière ou de la Chancellerie d’Etat.
 
-<sup>2</sup> La décision d'ouvrir une procédure de gré à gré au sens de l'alinéa 1, lettre a doit être publiée avant adjudication sur le site Internet de l'Association pour un système d'information sur les marchés publics en Suisse ([http://www.simap.ch](http://www.simap.ch)), si les seuils de la procédure ouverte et de la procédure sélective sont atteints.
+<sup>3</sup> Les décisions et les décisions sur recours rendues par les autorités suivantes peuvent faire l’objet d’un recours auprès du Tribunal administratif:
 
-<sup>3</sup> Il peut être renoncé à une publication quand
-
-- a en raison d'événements imprévisibles, l'urgence du marché est telle qu'il est impossible de suivre une procédure ouverte ou sélective;
-- b l'adjudicateur ou l'adjudicatrice peut acquérir des biens à un prix nettement inférieur aux prix usuels à la faveur d'une offre avantageuse de durée limitée, en particulier en cas de liquidations.
-
-[^6-1]: RS 0.632.231.422
+- a préfets ou préfètes,
+- b Directions et Chancellerie d’Etat,
+- c autorités judiciaires et Ministère public,
+- d Grand Conseil.
 
 #### Art. 7
 
-**Libre accès au marché, économie**
+**Prise en compte des petites et moyennes entreprises**
 
-<sup>1</sup> Pour toutes les procédures d'adjudication, il y a lieu de garantir, dans une même mesure, le libre accès au marché à l'ensemble des soumissionnaires et de tenir compte du principe d'économie.
+<sup>1</sup> Les adjudicateurs tiennent compte des besoins et des capacités des petites et moyennes entreprises de manière appropriée.
+
+<sup>2</sup> Ils observent ce faisant les principes généraux du droit constitutionnel et ​du droit international, ainsi que de la loi fédérale du 6 octobre 1995 sur le marché intérieur (LMI)[^7-1].
+
+[^7-1]: RS [943.02](https://db.clex.ch/link/Bund/943.02/fr)
 
 #### Art. 8
 
-**Sanctions**
+**Dispositions d'exécution**
 
-<sup>1</sup> Si l'adjudicataire enfreint les dispositions de mise en soumission, l'adjudicateur ou l'adjudicatrice peut révoquer la décision d'adjudication, en particulier quand l'adjudicataire
+<sup>1</sup> Le Conseil-exécutif édicte les dispositions d'exécution de l'AIMP par voie d'ordonnance.
 
-- a ne satisfait plus aux critères d'aptitude exigés;
-- b a fourni de faux renseignements à l'adjudicateur ou à l'adjudicatrice;
-- c n'a pas payé ses impôts ou ses cotisations sociales;
-- d offre à son personnel des conditions de travail qui, sur le plan des salaires, des prestations sociales et de l'égalité salariale entre hommes et femmes ne correspondent pas à la législation et à la convention collective de la branche;
-- e a conclu des ententes qui empêchent ou entravent considérablement une véritable concurrence;
-- f ne peut garantir, lors de la production, le respect des prescriptions fédérales et cantonales de la législation sur la protection de l'environnement;
-- g est en faillite;
-- h n'a pas rempli la formule de déclaration spontanée d'une manière conforme à la vérité;
-- i n'offre pas la garantie d'une exécution correcte du contrat.
+<sup>2</sup> Il peut régler des détails de l'exécution, de la procédure et de l'organisation, notamment,
 
-<sup>2</sup> Dans les cas graves, l'adjudicateur ou l'adjudicatrice peut en outre exclure l'adjudicataire de ses procédures d'adjudication futures pour une durée maximale de cinq ans.
+- a l'extension du champ d'application de l'AIMP à d'autres adjudicateurs ou à d'autres mandats;
+- b la publication des adjudications de gré à gré de marchés non soumis aux accords internationaux;
+- c les langues de la procédure et de l'offre;
+- d la formation ou la crédibilité des personnes chargées des marchés publics;
+- e les mesures que les adjudicateurs prennent contre les risques tels que le comportement fautif de soumissionnaires ou du personnel chargé des marchés publics;
+- f le relevé, la transmission ou la publication de données sur les marchés publics;
+- g les services compétents pour l'exécution uniforme, pour les conseils et l'appui aux adjudicateurs, ainsi que pour la formation et le perfectionnement dans le domaine des marchés publics;
+- h les preuves exigées pour participer à des procédures d'adjudication (art. 12 et 26 AIMP).
+
+<sup>3</sup> Il édicte des dispositions sur la réalisation de contrôles du respect de l’égalité salariale.
 
 #### Art. 9
 
-**Sous-traitance**
+**Exécution**
 
-<sup>1</sup> L'adjudicataire doit donner des précisions à l'adjudicateur ou l'adjudicatrice sur la nature et l'importance des travaux qui doivent être sous-traités, ainsi que lui communiquer le nom et le siège des entrepreneurs participant à l'exécution du mandat.
+<sup>1</sup> Le Conseil-exécutif est habilité à
 
-<sup>2</sup> L'adjudicateur ou l'adjudicatrice doit s'assurer contractuellement que tous les entrepreneurs participant à l'exécution du marché respectent les dispositions de l'article 8, alinéa 1, lettres c, d, f et h.
+- a passer des accords avec des régions frontalières ou des Etats voisins (art. 6, al. 4 AIMP);
+- b désigner l'organe compétent pour les contrôles (art. 12, al. 5 AIMP);
+- c désigner les services responsables de l'exécution, du contrôle et de la surveillance (art. 28, al. 1, art. 45, art. 50, al. 1, art. 62, al. 1 et 2 AIMP);
+- d déléguer la compétence de l'adjudicateur de notifier les décisions (art. 51, al. 1 AIMP);
+- e approuver les modifications de l'AIMP si elles sont d'une importance mineure (art. 61, al. 2, lit. b AIMP);
+- f dénoncer pour le canton de Berne l'accord intercantonal du 15 mars 2001 sur les marchés publics (AIMP 2001)[^9-1] (art. 63 AIMP).
 
-<sup>3</sup> Le contrat doit prévoir des peines conventionnelles pour le cas où ces obligations ne seraient pas respectées. Les sanctions prévues par l'article 8 sont réservées.
+[^9-1]: RSB [731.2-1](https://www.belex.sites.be.ch/data/731.2-1/fr)
 
 #### Art. 10
 
-**Dommages-intérêts**
+**Modification d'un acte législatif**
 
-<sup>1</sup> L'adjudicateur ou l'adjudicatrice répond du dommage qui résulte d'une décision illicite de sa part.
+<sup>1</sup> La loi du 23 juin 2003 sur le marché du travail (LMT)[^10-1] est modifiée.
 
-<sup>2</sup> La responsabilité au sens de l'alinéa 1 se limite aux dépenses que le ou la soumissionnaire a engagées en rapport avec la procédure d'adjudication et la procédure de recours.
-
-<sup>3</sup> Pour le surplus, les dispositions sur la responsabilité de l'Etat sont applicables.
+[^10-1]: RSB [836.11](https://www.belex.sites.be.ch/data/836.11/fr)
 
 #### Art. 11
 
-**Juridiction 1. Décisions susceptibles de recours**
-
-<sup>1</sup> Sont considérées comme décisions susceptibles de recours de l'adjudicateur ou de l'adjudicatrice, sans prise en compte des seuils,
-
-- a l'exclusion de procédures d'adjudication futures,
-- b l'admission de candidats ou de candidates dans des listes permanentes ou leur radiation de telles listes,
-- c la décision de passer de gré à gré un marché au sens de l'article 6, alinéa 1, lettre a.
-
-<sup>2</sup> Les décisions suivantes ne sont susceptibles de recours que si les seuils de la procédure sur invitation ou les seuils communaux inférieurs sont atteints:
-
-- a l'appel d'offres,
-- b l'adjudication,
-- c l'interruption de la procédure,
-- d le choix des participants et des participantes à la procédure sélective,
-- e l'exclusion de la procédure d'adjudication,
-- f la révocation de l'adjudication.
-
-#### Art. 12
-
-**2. Voies de droit pour les marchés cantonaux**
-
-<sup>1</sup> Les décisions des autorités adjudicatrices cantonales au sens de l'article 2, alinéa 1, lettre a, des adjudicateurs ou des adjudicatrices qu'elles contrôlent majoritairement ou à qui elles ont accordé une concession au sens de l'article 2, alinéa 1, lettre c, ainsi que des entités privées au sens de l'article 2, alinéa 1, lettre d peuvent faire l'objet d'un recours auprès de la Direction compétente du Conseil-exécutif.
-
-<sup>2</sup> Les décisions ainsi que les décisions sur recours rendues par la Direction sont susceptibles de recours au Tribunal administratif.
-
-<sup>3</sup> Les adjudications de marchés n'atteignant pas les seuils de la procédure sur invitation ne sont pas attaquables.
-
-#### Art. 13
-
-**3. Voies de droit pour les marchés communaux**
-
-<sup>1</sup> Les décisions des autorités adjudicatrices communales au sens de l'article 2, alinéa 1, lettre b, des adjudicateurs ou des adjudicatrices qu'elles contrôlent majoritairement ou à qui elles ont accordé une concession au sens de l'article 2, alinéa 1, lettre c peuvent faire l'objet d'un recours auprès du préfet ou de la préfète.
-
-<sup>2</sup> Les décisions sur recours rendues par le préfet ou la préfète sont susceptibles de recours au Tribunal administratif.
-
-<sup>3</sup> Les adjudications de marchés n'atteignant pas les seuils de la procédure sur invitation ou les seuils communaux inférieurs ne sont pas attaquables.
-
-#### Art. 14
-
-**4. Dispositions de procédure**
-
-<sup>1</sup> Le délai de recours est de dix jours.
-
-<sup>2</sup> Les griefs suivants peuvent être invoqués dans le recours:
-
-- a les violations du droit, y compris celles qui sont commises dans l'exercice du pouvoir d'appréciation,
-- b la constatation inexacte ou incomplète des faits.
-
-<sup>3</sup> Le recours n'a pas d'effet suspensif. Pour le surplus, l'article 17 de l'accord intercantonal est applicable.
-
-<sup>4</sup> Il convient de faire valoir les prétentions en dommages-intérêts au sens de l'article 10 selon la procédure d'action prévue par la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^14-1].
-
-[^14-1]: RSB 155.21
-
-#### Art. 15
-
-**Dispositions d'exécution, modifications, dénonciation**
-
-<sup>1</sup> Le Conseil-exécutif édicte les dispositions d'exécution.
-
-<sup>2</sup> Il approuve les modifications de l'accord intercantonal pour autant qu'il s'agisse d'adaptations mineures en matière de procédure ou d'organisation; il est en outre compétent pour décider de la dénonciation au sens de l'article 20, alinéa 2 de l'accord intercantonal.
-
-#### Art. 16
-
-**Modification d'un acte législatif**
-
-<sup>1</sup> La loi du 16 septembre 1992 sur les subventions cantonales (LCSu)[^16-1] est modifiée comme suit:
-
-[^16-1]: RSB 641.1
-
-#### Art. 17
-
 **Abrogation d'un acte législatif**
 
-<sup>1</sup> La loi du 27 novembre 1997 portant adhésion du canton de Berne à l'accord intercantonal sur les marchés publics (RSB 731.2) est abrogée.
+<sup>1</sup> La loi du 11 juin 2002 sur les marchés publics (LCMP)[^11-1] est abrogée.
 
-#### Art. 18
+<sup>2</sup> L'accord intercantonal du 15 mars 2001 sur les marchés publics (AIMP) est retiré du Recueil systématique des lois bernoises dès que l'adhésion conformément à l'article 2 a eu lieu.
+
+[^11-1]: RSB [731.2](https://www.belex.sites.be.ch/data/731.2/fr)
+
+#### Art. 12
 
 **Entrée en vigueur**
 
 <sup>1</sup> Le Conseil-exécutif fixe la date d'entrée en vigueur de la présente loi.
 
-Berne, le 11 juin 2002
+Berne, le 8 juin 2021
 
 Au nom du Grand Conseil,
 
-le président: Widmer
+le président: Gullotti
 
-le vice-chancelier: Krähenbühl
+le secrétaire général: Trees
 
-ACE n° 3938 du 20 novembre 2002:
+Extrait du procès-verbal du Conseil-exécutif du 17 novembre 2021
 
-entrée en vigueur le 1<sup>er</sup> janvier 2003
+Le Conseil-exécutif constate que durant le délai référendaire il n’a pas été fait usage du droit de demander le vote populaire contre la loi concernant l’adhésion à l’accord intercantonal sur les marchés publics (LAIMP).
 
-02-92
+La loi doit être insérée dans le Recueil officiel des lois bernoises.
+
+Certifié exact
+
+Le chancelier: Auer
+
+ACE n° 1335 du 17 novembre 2021:
+
+entrée en vigueur le 1<sup>er</sup> février 2022
+
+21-109
