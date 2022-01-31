@@ -3,13 +3,12 @@ canton: FR
 number: "411.0.71"
 title: "Arrêté sur l'éducation routière à l'école"
 language: fr
-version: 2017-07-01
-valid_until: 2022-01-31
-version_adopted: 2017-05-09
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1993-08-24
 in_force: 1993-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.71"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5160/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7287/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5160/pdf_file"
 
 Education routière à l'école – A
 
-du 24.08.1993 (version entrée en vigueur le 01.07.2017)
+du 24.08.1993 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -52,7 +51,7 @@ Arrête:
 
 <sup>1</sup> L'enseignement de l'éducation routière à l'école primaire fait partie des plans d'études.
 
-<sup>2</sup> L'enseignement de l'éducation routière dans les écoles du cycle d'orientation et du degré secondaire supérieur ainsi que dans les écoles professionnelles est dispensé selon les besoins définis respectivement par la Direction de l'instruction publique, de la culture et du sport et le Service de la formation professionnelle.
+<sup>2</sup> L'enseignement de l'éducation routière dans les écoles du cycle d'orientation et du degré secondaire supérieur ainsi que dans les écoles professionnelles est dispensé selon les besoins définis respectivement par la Direction de la formation et des affaires culturelles et le Service de la formation professionnelle.
 
 <sup>3</sup> L'enseignement de l'éducation routière a lieu durant le temps de classe.
 
@@ -68,9 +67,9 @@ Arrête:
 
 #### Art. 4
 
-**Organes – Direction de l'instruction publique, de la culture et du sport**
+**Organes – Direction de la formation et des affaires culturelles**
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport exerce la surveillance de l'éducation routière.
+<sup>1</sup> La Direction de la formation et des affaires culturelles exerce la surveillance de l'éducation routière.
 
 <sup>2</sup> Elle détermine pour les écoles qui lui sont rattachées, après avoir entendu la Police cantonale et l'Office de la circulation et de la navigation:
 
@@ -95,7 +94,7 @@ Arrête:
 <sup>1</sup> La Police cantonale, qui dispose à cet effet d'un service de l'éducation routière, a les attributions suivantes:
 
 - a) elle apporte une contribution active aux leçons d'éducation routière, chaque année, aux élèves des écoles primaires;
-- b) elle dispense, dans le cadre de sa disponibilité et à la demande de la Direction de l'instruction publique, de la culture et du sport, des leçons d'éducation routière aux élèves des écoles du cycle d'orientation;
+- b) elle dispense, dans le cadre de sa disponibilité et à la demande de la Direction de la formation et des affaires culturelles, des leçons d'éducation routière aux élèves des écoles du cycle d'orientation;
 - c) elle assure, en collaboration avec l'autorité scolaire, la formation et la surveillance des patrouilleurs scolaires et en détermine le programme.
 
 #### Art. 7
@@ -126,7 +125,7 @@ Arrête:
 
 <sup>3</sup> La Commission se constitue elle-même; son président ou sa présidente ne peut toutefois pas être choisi-e parmi les personnes désignées aux lettres a à g de l'alinéa 2.
 
-<sup>4</sup> Elle est rattachée administrativement à la Direction de l'instruction publique, de la culture et du sport, qui pourvoit à son secrétariat.
+<sup>4</sup> Elle est rattachée administrativement à la Direction de la formation et des affaires culturelles, qui pourvoit à son secrétariat.
 
 #### Art. 9
 

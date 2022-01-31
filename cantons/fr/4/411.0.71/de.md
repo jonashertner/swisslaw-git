@@ -3,13 +3,12 @@ canton: FR
 number: "411.0.71"
 title: Beschluss über die Verkehrserziehung in der Schule
 language: de
-version: 2017-07-01
-valid_until: 2022-01-31
-version_adopted: 2017-05-09
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1993-08-24
 in_force: 1993-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/411.0.71"
-pdf: "https://bdlf.fr.ch/api/de/versions/5160/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7287/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5160/pdf_file"
 
 Verkehrserziehung in der Schule – B
 
-vom 24.08.1993 (Fassung in Kraft getreten am 01.07.2017)
+vom 24.08.1993 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -52,7 +51,7 @@ beschliesst:
 
 <sup>1</sup> Der Unterricht in Verkehrserziehung ist in der Primarschule Bestandteil des Lehrplans.
 
-<sup>2</sup> In den Orientierungs- und Mittelschulen sowie den Berufsschulen wird der Unterricht in Verkehrserziehung entsprechend den von der Direktion für Erziehung, Kultur und Sport oder vom Amt für Berufsbildung festgelegten Erfordernissen erteilt.
+<sup>2</sup> In den Orientierungs- und Mittelschulen sowie den Berufsschulen wird der Unterricht in Verkehrserziehung entsprechend den von der Direktion für Bildung und kulturelle Angelegenheiten oder vom Amt für Berufsbildung festgelegten Erfordernissen erteilt.
 
 <sup>3</sup> Die Verkehrserziehung findet während der Unterrichtszeit statt.
 
@@ -68,9 +67,9 @@ beschliesst:
 
 #### Art. 4
 
-**Organe – Direktion für Erziehung, Kultur und Sport**
+**Organe – Direktion für Bildung und kulturelle Angelegenheiten**
 
-<sup>1</sup> Die Direktion für Erziehung, Kultur und Sport übt die Aufsicht über die Verkehrserziehung aus.
+<sup>1</sup> Die Direktion für Bildung und kulturelle Angelegenheiten übt die Aufsicht über die Verkehrserziehung aus.
 
 <sup>2</sup> Sie bestimmt, nachdem sie die Kantonspolizei und das Amt für Strassenverkehr und Schifffahrt angehört hat, für die ihr angegliederten Schulen:
 
@@ -95,7 +94,7 @@ beschliesst:
 <sup>1</sup> Die Kantonspolizei, die zu diesem Zweck über eine Abteilung für Verkehrserziehung verfügt, hat folgende Aufgaben:
 
 - a) Sie beteiligt sich und in der Primarschule alljährlich aktiv an den Lektionen in Verkehrserziehung.
-- b) Sie erteilt im Rahmen ihrer Verfügbarkeit und auf Verlangen der Direktion für Erziehung, Kultur und Sport den Schülern der Orientierungsschule Lektionen in Verkehrserziehung.
+- b) Sie erteilt im Rahmen ihrer Verfügbarkeit und auf Verlangen der Direktion für Bildung und kulturelle Angelegenheiten den Schülern der Orientierungsschule Lektionen in Verkehrserziehung.
 - c) Sie stellt in Zusammenarbeit mit der Schulbehörde die Ausbildung und Überwachung der Schülerverkehrspatrouillen sicher und legt deren Programm fest.
 
 #### Art. 7
@@ -126,7 +125,7 @@ beschliesst:
 
 <sup>3</sup> Die Kommission konstituiert sich selbst; die Präsidentin oder der Präsident kann jedoch nicht unter den Personen nach Absatz 2 Bst. a–g gewählt werden.
 
-<sup>4</sup> Sie ist der Direktion für Erziehung, Kultur und Sport administrativ zugewiesen; diese führt das Sekretariat.
+<sup>4</sup> Sie ist der Direktion für Bildung und kulturelle Angelegenheiten administrativ zugewiesen; diese führt das Sekretariat.
 
 #### Art. 9
 
