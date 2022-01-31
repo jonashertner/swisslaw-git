@@ -4,13 +4,13 @@ number: "340.11"
 title: "Ordonnance relative à l'exécution des peines et des mesures"
 short: OEPM
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2020-08-25
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-02-25
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/340.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6906/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7274/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Exécution des peines et des mesures – O
 
 (OEPM)
 
-du 05.12.2017 (version entrée en vigueur le 01.01.2022)
+du 05.12.2017 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -154,7 +154,7 @@ Arrête:
 
 <sup>1</sup> Les formalités d'entrée et de sortie sont déterminées pour chaque site dans un règlement interne établi par l'EDFR.
 
-<sup>2</sup> Ces règlements sont approuvés par la Direction de la sécurité et de la justice (ci-après: la Direction).
+<sup>2</sup> Ces règlements sont approuvés par la Direction de la sécurité, de la justice et du sport (ci-après: la Direction).
 
 <sup>3</sup> Un exemplaire du règlement la concernant est à la disposition de la personne détenue.
 

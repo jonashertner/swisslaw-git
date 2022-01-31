@@ -4,13 +4,13 @@ number: "340.11"
 title: Verordnung über den Straf- und Massnahmenvollzug
 short: SMVV
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2020-08-25
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-02-25
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/340.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6906/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7274/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Straf- und Massnahmenvollzug – V
 
 (SMVV)
 
-vom 05.12.2017 (Fassung in Kraft getreten am 01.01.2022)
+vom 05.12.2017 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -154,7 +154,7 @@ beschliesst:
 
 <sup>1</sup> Die Eintritts- und Austrittsformalitäten werden für jeden Standort in einem internen Reglement der FRSA festgelegt.
 
-<sup>2</sup> Die Reglemente werden von der Sicherheits- und Justizdirektion (die Direktion) genehmigt.
+<sup>2</sup> Die Reglemente werden von der Sicherheits-, Justiz- und Sportdirektion (die Direktion) genehmigt.
 
 <sup>3</sup> Den Gefangenen steht ein Exemplar des sie betreffenden Reglements zur Verfügung.
 
