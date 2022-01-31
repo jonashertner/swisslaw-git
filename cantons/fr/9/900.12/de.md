@@ -3,20 +3,19 @@ canton: FR
 number: "900.12"
 title: Reglement über den Wirtschaftsförderungs-Fonds
 language: de
-version: 2008-07-01
-valid_until: 2022-01-31
-version_adopted: 2008-06-10
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 2008-06-10
 in_force: 2008-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/900.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/5658/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7455/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Wirtschaftsförderungs-Fonds
 
-vom 10.06.2008 (Fassung in Kraft getreten am 01.07.2008)
+vom 10.06.2008 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -70,7 +69,7 @@ beschliesst:
 
 <sup>2</sup> Die Wirtschaftsförderung kontrolliert laufend die eingegangenen Verpflichtungen.
 
-<sup>3</sup> Sie informiert die Volkswirtschaftsdirektion und die Finanzverwaltung jeweils Ende Jahr über den Stand der finanziellen Verpflichtungen.
+<sup>3</sup> Sie informiert die Volkswirtschafts- und Berufsbildungsdirektion und die Finanzverwaltung jeweils Ende Jahr über den Stand der finanziellen Verpflichtungen.
 
 #### Art. 6
 
@@ -84,7 +83,7 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Aufsicht über die Verwaltung des Fonds wird der Volkswirtschaftsdirektion übertragen.
+<sup>1</sup> Die Aufsicht über die Verwaltung des Fonds wird der Volkswirtschafts- und Berufsbildungsdirektion übertragen.
 
 <sup>2</sup> Das Finanzinspektorat kontrolliert den Fonds einmal im Jahr.
 

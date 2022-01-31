@@ -3,20 +3,19 @@ canton: FR
 number: "900.12"
 title: Règlement relatif au Fonds institué par la loi sur la promotion économique
 language: fr
-version: 2008-07-01
-valid_until: 2022-01-31
-version_adopted: 2008-06-10
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 2008-06-10
 in_force: 2008-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/900.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5658/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7455/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Règlement relatif au Fonds institué par la loi sur la promotion économique
 
-du 10.06.2008 (version entrée en vigueur le 01.07.2008)
+du 10.06.2008 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -70,7 +69,7 @@ Arrête:
 
 <sup>2</sup> La Promotion économique tient un contrôle permanent des engagements pris.
 
-<sup>3</sup> A la fin de chaque année, elle adresse à la Direction de l'économie et de l'emploi et à l'Administration des finances un état des engagements financiers.
+<sup>3</sup> A la fin de chaque année, elle adresse à la Direction de l'économie, de l'emploi et de la formation professionnelle et à l'Administration des finances un état des engagements financiers.
 
 #### Art. 6
 
@@ -84,7 +83,7 @@ Arrête:
 
 **Surveillance**
 
-<sup>1</sup> La surveillance de la gestion du Fonds est exercée par la Direction de l'économie et de l'emploi.
+<sup>1</sup> La surveillance de la gestion du Fonds est exercée par la Direction de l'économie, de l'emploi et de la formation professionnelle.
 
 <sup>2</sup> L'Inspection des finances procède chaque année au contrôle du Fonds.
 
