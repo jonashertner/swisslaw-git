@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.611"
 title: Studienordnung für den Bachelorstudiengang Soziale Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2019-02-01"
-nachtrag: "104"
-valid_until: 2022-02-01
+version: "2022-02-01"
+nachtrag: "116"
+valid_until: 2023-01-01
 adopted: 2010-11-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_611-2010_11_08-2011_08_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_611-2010_11_08-2011_08_01-116.html"
 text: pdf
 ---
 
@@ -75,7 +75,7 @@ Wer ein Modul nicht besteht, muss die nicht bestandenen Leistungsnachweise des M
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Die Einzelheiten zur Aufnahmeprüfung werden im Anhang geregelt.
 
@@ -115,11 +115,13 @@ Die Praxisausbildung findet in einer vom Departement Soziale Arbeit anerkannten 
 
 ### D. Prüfungen und andere Leistungsnachweise
 
+[^hDPrüfungenundand-1]: Fassung gemäss B vom 26. August 2021 (OS 77, 13; ABl 2021-10-29). In Kraft seit 1. Februar 2022.
+
 #### § 10
 
 **Expertinnen und Experten**
 
-<sup>1</sup> Mündliche Prüfungen finden unter Beizug von Expertinnen und Experten statt.
+<sup>1</sup> Expertinnen und Experten können zur Beurteilung von Leistungsnachweisen, insbesondere von Bachelorarbeiten und mündlichen Prüfungen, herangezogen werden.[^hDPrüfungenundand-1]
 
 <sup>2</sup> Die Benotung erfolgt einvernehmlich mit den prüfenden Dozierenden. Kommt keine Einigung zustande, steht der Stichentscheid dem oder der prüfenden Dozierenden zu.
 
@@ -172,7 +174,7 @@ Das Bachelordiplom wird erteilt, wenn die gemäss Anhang erforderlichen Module b
 
 **3**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 22 - 116
 
 <sup>3</sup> Die Praxismodule und das Bachelormodul können besonders gewichtet werden. Die Gewichtung wird im Anhang festgehalten.
 
@@ -208,4 +210,4 @@ bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
 **5**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 22 - 116
