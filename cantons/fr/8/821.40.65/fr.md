@@ -4,13 +4,13 @@ number: "821.40.65"
 title: Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus dans le domaine des médias
 short: MEM COVID-19
 language: fr
-version: 2021-03-09
-valid_until: 2022-01-31
-version_adopted: 2021-03-09
+version: 2022-02-01
+valid_until: 2023-07-14
+version_adopted: 2022-04-01
 adopted: 2020-05-05
 in_force: 2020-05-08
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.65"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6788/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7415/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, mesures économiques dans le domaine des médias - O
 
 (MEM COVID-19)
 
-du 05.05.2020 (version entrée en vigueur le 09.03.2021)
+du 05.05.2020 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -119,14 +119,14 @@ Arrête:
 
 <sup>1</sup> Les modalités de dépôt et de traitement des demandes d'aide en vertu de l'article 3 al. 1 et 2 de la présente ordonnance sont les suivantes:
 
-- a) Dépôt: la demande d'aide est adressée au Secrétariat général de la Direction de l'économie et de l'emploi (SG-DEE), dûment motivée, sur la base des pertes constatées durant le trimestre précédant la demande.
-- b) Obligation de renseigner: le SG-DEE est autorisé à exiger du requérant qu'il lui fournisse, dans des délais raisonnables, les compléments et/ou clarifications nécessaires au traitement de la demande. Si le requérant ne fournit pas les renseignements demandés dans le délai imparti, il est présumé retirer sa demande.
+- a) Dépôt: la demande d'aide est adressée au Secrétariat général de la Direction de l'économie, de l'emploi et de la formation professionnelle (SG-DEEF), dûment motivée, sur la base des pertes constatées durant le trimestre précédant la demande.
+- b) Obligation de renseigner: le SG-DEEF est autorisé à exiger du requérant qu'il lui fournisse, dans des délais raisonnables, les compléments et/ou clarifications nécessaires au traitement de la demande. Si le requérant ne fournit pas les renseignements demandés dans le délai imparti, il est présumé retirer sa demande.
 - c) Réserve: pour les titres faisant état de difficultés structurelles avant la crise due au COVID-19, un examen approfondi de la demande est réservé.
-- d) Décision: la Direction de l'économie et de l'emploi (DEE) statue par voie de décision; la décision n'est pas sujette à recours.
+- d) Décision: la Direction de l'économie, de l'emploi et de la formation professionnelle (DEEF) statue par voie de décision; la décision n'est pas sujette à recours.
 
-<sup>3</sup> Pour l'octroi des aides au sens de l'article 3 al. 2 let. c ch. 3 de la présente ordonnance, la compétence financière du Directeur EE est augmentée à 50'000 francs.
+<sup>3</sup> Pour l'octroi des aides au sens de l'article 3 al. 2 let. c ch. 3 de la présente ordonnance, la compétence financière du Directeur EEF est augmentée à 50'000 francs.
 
-<sup>4</sup> En remplissant la formule de demande, les requérants autorisent le SG-DEE à échanger toutes les données contenues dans leurs demandes avec d'autres autorités publiques (fédérales, cantonales et communales) qu'ils délient de leur secret de fonction, bancaire et fiscal, en relation avec le traitement de ces données.
+<sup>4</sup> En remplissant la formule de demande, les requérants autorisent le SG-DEEF à échanger toutes les données contenues dans leurs demandes avec d'autres autorités publiques (fédérales, cantonales et communales) qu'ils délient de leur secret de fonction, bancaire et fiscal, en relation avec le traitement de ces données.
 
 #### Art. 4a
 

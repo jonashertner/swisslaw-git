@@ -4,13 +4,13 @@ number: "821.40.65"
 title: Verordnung über die wirtschaftlichen Massnahmen zur Abfederung der Auswirkungen des Coronavirus im Bereich der Medien
 short: WMME-COVID-19
 language: de
-version: 2021-03-09
-valid_until: 2022-01-31
-version_adopted: 2021-03-09
+version: 2022-02-01
+valid_until: 2023-07-14
+version_adopted: 2022-04-01
 adopted: 2020-05-05
 in_force: 2020-05-08
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.65"
-pdf: "https://bdlf.fr.ch/api/de/versions/6788/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7415/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, wirtschaftliche Massnahmen im Bereich der Medien - V
 
 (WMME-COVID-19)
 
-vom 05.05.2020 (Fassung in Kraft getreten am 09.03.2021)
+vom 05.05.2020 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -119,14 +119,14 @@ beschliesst:
 
 <sup>1</sup> Für die Einreichung und Bearbeitung der Gesuche gemäss Artikel 3 Abs. 1 und 2 gelten die folgenden Modalitäten:
 
-- a) Einreichung: Das begründete Gesuch um Finanzhilfe wird dem Generalsekretariat der Volkswirtschaftsdirektion (GS-VWD) gestützt auf die Verluste im Quartal, das dem Gesuch vorangeht, vorgelegt.
-- b) Auskunftspflicht: Das GS-VWD ist befugt, von der Gesuchstellerin oder vom Gesuchsteller zu verlangen, dass sie oder er innert einer angemessenen Frist zusätzliche Informationen oder Auskünfte erteilt, die für die Bearbeitung des Gesuchs benötigt werden. Werden die verlangten Auskünfte nicht innerhalb der gesetzten Frist erteilt, wird dies als Rückzug des Gesuchs gewertet.
+- a) Einreichung: Das begründete Gesuch um Finanzhilfe wird dem Generalsekretariat der Volkswirtschafts- und Berufsbildungsdirektion (GS-VWBD) gestützt auf die Verluste im Quartal, das dem Gesuch vorangeht, vorgelegt.
+- b) Auskunftspflicht: Das GS-VWBD ist befugt, von der Gesuchstellerin oder vom Gesuchsteller zu verlangen, dass sie oder er innert einer angemessenen Frist zusätzliche Informationen oder Auskünfte erteilt, die für die Bearbeitung des Gesuchs benötigt werden. Werden die verlangten Auskünfte nicht innerhalb der gesetzten Frist erteilt, wird dies als Rückzug des Gesuchs gewertet.
 - c) Vorbehalt: Der Staat behält sich das Recht vor, die Gesuche von Medien, die vor der Coronakrise mit strukturellen Schwierigkeiten konfrontiert waren, einer vertieften Prüfung zu unterziehen.
-- d) Entscheid: Die Volkswirtschaftsdirektion (VWD) erlässt den Entscheid; der Entscheid ist nicht anfechtbar.
+- d) Entscheid: Die Volkswirtschafts- und Berufsbildungsdirektion (VWBD) erlässt den Entscheid; der Entscheid ist nicht anfechtbar.
 
-<sup>3</sup> Für die Gewährung der Finanzhilfen gemäss Artikel 3 Abs. 2 Bst. c Ziff. 3 wird die Finanzkompetenz des Volkswirtschaftsdirektors auf 50'000 Franken erhöht.
+<sup>3</sup> Für die Gewährung der Finanzhilfen gemäss Artikel 3 Abs. 2 Bst. c Ziff. 3 wird die Finanzkompetenz des Volkswirtschafts- und Berufsbildungsdirektors auf 50'000 Franken erhöht.
 
-<sup>4</sup> Mit dem Ausfüllen des Gesuchformulars ermächtigen die Gesuchstellerinnen und Gesuchsteller das GS-VWD, sämtliche im Gesuch enthaltenen Daten mit anderen Behörden (Bund, Kanton und Gemeinde) auszutauschen. Zu diesem Zweck entbinden sie diese von ihrem Amts-, Bank- und Steuergeheimnis im Zusammenhang mit der Bearbeitung dieser Daten.
+<sup>4</sup> Mit dem Ausfüllen des Gesuchformulars ermächtigen die Gesuchstellerinnen und Gesuchsteller das GS-VWBD, sämtliche im Gesuch enthaltenen Daten mit anderen Behörden (Bund, Kanton und Gemeinde) auszutauschen. Zu diesem Zweck entbinden sie diese von ihrem Amts-, Bank- und Steuergeheimnis im Zusammenhang mit der Bearbeitung dieser Daten.
 
 #### Art. 4a
 
