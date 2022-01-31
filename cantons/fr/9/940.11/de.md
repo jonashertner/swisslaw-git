@@ -4,13 +4,13 @@ number: "940.11"
 title: Reglement über die Ausübung des Handels
 short: HAR
 language: de
-version: 2021-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-02-23
+version: 2022-02-01
+valid_until: 2024-05-31
+version_adopted: 2022-04-08
 adopted: 1998-09-14
 in_force: 1999-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/940.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6777/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7456/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ausübung des Handels – R
 
 (HAR)
 
-vom 14.09.1998 (Fassung in Kraft getreten am 01.01.2021)
+vom 14.09.1998 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -37,7 +37,7 @@ beschliesst:
 
 **Amt für Gewerbepolizei**
 
-<sup>1</sup> Das Amt für Gewerbepolizei (das Amt) ist das ordentliche Ausführungsorgan der Sicherheits- und Justizdirektion für die Anwendung des Gesetzes über die Ausübung des Handels (das Gesetz).
+<sup>1</sup> Das Amt für Gewerbepolizei (das Amt) ist das ordentliche Ausführungsorgan der Sicherheits-, Justiz- und Sportdirektion für die Anwendung des Gesetzes über die Ausübung des Handels (das Gesetz).
 
 <sup>2</sup> Es ist zuständig für:
 
@@ -111,7 +111,7 @@ beschliesst:
 
 **Gemeinderegelung**
 
-<sup>1</sup> Das von einer Gemeinde angenommene allgemein verbindliche Reglement über die Öffnungszeiten der Geschäfte wird der Sicherheits- und Justizdirektion zur Genehmigung unterbreitet; diese holt vorgängig die Stellungnahmen des Amts für Gemeinden und des Amts für den Arbeitsmarkt ein.
+<sup>1</sup> Das von einer Gemeinde angenommene allgemein verbindliche Reglement über die Öffnungszeiten der Geschäfte wird der Sicherheits-, Justiz- und Sportdirektion zur Genehmigung unterbreitet; diese holt vorgängig die Stellungnahmen des Amts für Gemeinden und des Amts für den Arbeitsmarkt ein.
 
 ## 3 Eichung und Kontrolle der Masse und Gewichte
 

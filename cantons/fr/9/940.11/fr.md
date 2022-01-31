@@ -4,13 +4,13 @@ number: "940.11"
 title: "Règlement sur l'exercice du commerce"
 short: RCom
 language: fr
-version: 2021-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-02-23
+version: 2022-02-01
+valid_until: 2024-05-31
+version_adopted: 2022-04-08
 adopted: 1998-09-14
 in_force: 1999-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/940.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6777/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7456/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Exercice du commerce – R
 
 (RCom)
 
-du 14.09.1998 (version entrée en vigueur le 01.01.2021)
+du 14.09.1998 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -37,7 +37,7 @@ Arrête:
 
 **Service de la police du commerce**
 
-<sup>1</sup> Le Service de la police du commerce (ci-après: le Service) est l'organe d'exécution ordinaire de la Direction de la sécurité et de la justice pour l'application de la loi sur l'exercice du commerce (ci-après: la loi).
+<sup>1</sup> Le Service de la police du commerce (ci-après: le Service) est l'organe d'exécution ordinaire de la Direction de la sécurité, de la justice et du sport pour l'application de la loi sur l'exercice du commerce (ci-après: la loi).
 
 <sup>2</sup> Il est compétent pour:
 
@@ -111,7 +111,7 @@ Arrête:
 
 **Réglementation communale**
 
-<sup>1</sup> Le règlement de portée générale relatif aux heures d'ouverture des commerces adopté par une commune est soumis à l'approbation de la Direction de la sécurité et de la justice, qui requiert préalablement le préavis du Service des communes et du Service public de l'emploi.
+<sup>1</sup> Le règlement de portée générale relatif aux heures d'ouverture des commerces adopté par une commune est soumis à l'approbation de la Direction de la sécurité, de la justice et du sport, qui requiert préalablement le préavis du Service des communes et du Service public de l'emploi.
 
 ## 3 Vérifications et contrôles métrologiques
 
