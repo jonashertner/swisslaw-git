@@ -4,11 +4,11 @@ number: "704.11"
 title: Kantonale Geoinformationsverordnung (KGeoIV)
 short: KGeoIV
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2022-02-01
+version: "2022-02-01"
+nachtrag: "116"
+valid_until: 2024-01-01
 adopted: 2012-06-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-704_11-2012_06_27-2012_11_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-704_11-2012_06_27-2012_11_01-116.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ text: pdf
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 22 - 116
 
 ### <sup>3</sup> Nach einer Erneuerung oder Transformation der Informationsebene Liegenschaften werden die Geobasisdaten gemäss Abs. 2 im gleichen Verfahren auf die neuen Koordinaten eingepasst.
 
@@ -110,7 +110,7 @@ text: pdf
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 22 - 116
 
 ### Nutzung und § 13 a.<sup>6</sup> Mit der Gewährung der freien Nutzung und Weitergabe Weitergabe gemäss Anhängen 1–3 sind eine Einschränkung, Aufhebung oder Verweigerung des Zugangs gemäss Art. 22 Abs. 2 der Geoinformationsverordnung vom 21. Mai 2008 (GeoIV)<sup>5</sup> ausgeschlossen und Einwilligungen gemäss Art. 25 GeoIV<sup>5</sup> sowie § 11 KGeoIG<sup>3</sup> hinfällig.
 
@@ -158,7 +158,7 @@ text: pdf
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 22 - 116
 
 ### L. Mitwirkung der Gemeinden
 
@@ -174,7 +174,7 @@ text: pdf
 
 ### Übergangs- § 23.<sup>7</sup> <sup>1</sup> Für das Erheben und Gewährleisten der Verfügbarkeit der fristen Geobasisdaten gelten ab dem Inkrafttreten dieser Verordnung folgende Fristen: a. Prioritätsstufe 1: gemäss koordinierter Umsetzungsplanung des Regierungsrates bis 2020, b. Prioritätsstufe 2: gemäss koordinierter Umsetzungsplanung des Regierungsrates bis 2026, c. Prioritätsstufe 3: nach Ermessen der zuständigen Stelle. <sup>2</sup> Die Prioritätsstufen der Geobasisdaten ergeben sich aus Anhang 2.
 
-### <sup>1</sup> OS 67, 342; Begründung siehe ABl 2012-07-13. <sup>2</sup> Inkrafttreten: 1. November 2012. <sup>3</sup> LS 704.1. <sup>4</sup> SR 211.432.2. <sup>5</sup> SR 510.620. <sup>6</sup> Eingefügt durch RRB vom 30. August 2017 (OS 72, 487; ABl 2017-09-15). In Kraft seit 1. Januar 2018. <sup>7</sup> Fassung gemäss RRB vom 30. August 2017 (OS 72, 487; ABl 2017-09-15). In Kraft seit 1. Januar 2018. <sup>8</sup> Fassung gemäss RRB vom 2. Dezember 2020 (OS 75, 655; ABl 2020-12-11). In Kraft seit 1. Januar 2021.
+### <sup>1</sup> OS 67, 342; Begründung siehe ABl 2012-07-13. <sup>2</sup> Inkrafttreten: 1. November 2012. <sup>3</sup> LS 704.1. <sup>4</sup> SR 211.432.2. <sup>5</sup> SR 510.620. <sup>6</sup> Eingefügt durch RRB vom 30. August 2017 (OS 72, 487; ABl 2017-09-15). In Kraft seit 1. Januar 2018. <sup>7</sup> Fassung gemäss RRB vom 30. August 2017 (OS 72, 487; ABl 2017-09-15). In Kraft seit 1. Januar 2018. <sup>8</sup> Fassung gemäss RRB vom 2. Dezember 2020 (OS 75, 655; ABl 2020-12-11). In Kraft seit 1. Januar 2021. <sup>9</sup> Fassung gemäss RRB vom 27. Oktober 2021 (OS 77, 57; ABl 2021-11-05). In Kraft seit 1. Februar 2022.
 
 ### Anhang 1<sup>7</sup>
 
@@ -218,7 +218,7 @@ Kantonales Inventar der Auengebiete LS 700.1 ALN von nationaler und regionaler �
 
 **A ja ja 56**
 
-- 1\. 1. 21 - 111 Bezeichnung Rechtsgrundlage Kanton Zuständige Stelle gemäss Art. 8 des Bundesgesetzes vom 5. Oktober 2007 über Geoinformation<sup>1</sup> [Kantonale Fachstelle] Kantonales Inventar der Auengebiete LS 700.1 Gemeinden von lokaler Bedeutung § 203 Abs. 1 lit. g und Abs. 2 [ALN] LS 702.11 §§ 4, 6, 7 lit. a, 13
+- 1\. 4. 22 - 116 Bezeichnung Rechtsgrundlage Kanton Zuständige Stelle gemäss Art. 8 des Bundesgesetzes vom 5. Oktober 2007 über Geoinformation<sup>1</sup> [Kantonale Fachstelle] Kantonales Inventar der Auengebiete LS 700.1 Gemeinden von lokaler Bedeutung § 203 Abs. 1 lit. g und Abs. 2 [ALN] LS 702.11 §§ 4, 6, 7 lit. a, 13
 
 **A ja ja 26B**
 
@@ -342,7 +342,7 @@ Planungszonen LS 700.1 ARE § 346
 
 **B A ja ja 131**
 
-- 1\. 1. 21 - 111 Bezeichnung Rechtsgrundlage Kanton Zuständige Stelle gemäss Art. 8 des Bundesgesetzes vom 5. Oktober 2007 über Geoinformation<sup>1</sup> [Kantonale Fachstelle] Fuss- und Wanderwegnetze LS 722.1 AFM<sup>8</sup> überkommunal LS 700.1 § 30 Abs. 4 lit. d
+- 1\. 4. 22 - 116 Bezeichnung Rechtsgrundlage Kanton Zuständige Stelle gemäss Art. 8 des Bundesgesetzes vom 5. Oktober 2007 über Geoinformation<sup>1</sup> [Kantonale Fachstelle] Fuss- und Wanderwegnetze LS 722.1 AFM<sup>8</sup> überkommunal LS 700.1 § 30 Abs. 4 lit. d
 
 **A ja ja 79A**
 
@@ -470,7 +470,7 @@ Waldreservate LS 921.11 ALN § 9 Abs. 2
 
 **11**
 
-- 1\. 1. 21 - 111 Bezeichnung Rechtsgrundlage Kanton Zuständige Stelle gemäss Art. 8 des Bundesgesetzes vom 5. Oktober 2007 über Geoinformation<sup>1</sup> [Kantonale Fachstelle] Forstliche Planung (Standort- LS 921.1 ALN verhältnisse, Waldfunktionen) § 12 LS 921.11 § 4
+- 1\. 4. 22 - 116 Bezeichnung Rechtsgrundlage Kanton Zuständige Stelle gemäss Art. 8 des Bundesgesetzes vom 5. Oktober 2007 über Geoinformation<sup>1</sup> [Kantonale Fachstelle] Forstliche Planung (Standort- LS 921.1 ALN verhältnisse, Waldfunktionen) § 12 LS 921.11 § 4
 
 **A ja ja 161**
 
@@ -550,7 +550,7 @@ Stauanlagen unter kantonaler Aufsicht AWEL
 
 Ruhezonen für Wildtiere ALN (inkl. Routennetz)
 
-### Anhang 2<sup>7</sup>
+### Anhang 2<sup>7,</sup> <sup>9</sup>
 
 ### Geobasisdaten des kantonalen Rechts in der Zuständigkeit von Kanton und Gemeinden
 
@@ -616,7 +616,7 @@ Art. 53, Anhang
 
 **X A ja ja 1 45-ZH**
 
-- 1\. 1. 21 - 111 Bezeichnung Rechtsgrundlage Zuständige Stelle gemäss § 6 Kantonales Geoinformationsgesetz vom 24. Oktober 2011 (KGeoIG) [Kantonale Fachstelle] Gebietseinteilung der christ- LS 180.1 GAZ katholischen Kirchgemeinden § 10
+- 1\. 4. 22 - 116 Bezeichnung Rechtsgrundlage Zuständige Stelle gemäss § 6 Kantonales Geoinformationsgesetz vom 24. Oktober 2011 (KGeoIG) [Kantonale Fachstelle] Gebietseinteilung der christ- LS 180.1 GAZ katholischen Kirchgemeinden § 10
 
 **A ja ja 3 14-ZH**
 
@@ -752,7 +752,7 @@ Lärmbelastungskataster für zivile LS 700.6 TBA Schiessanlagen § 7, Anhang Zif
 
 **B nein nein 1 83-ZH**
 
-- 1\. 1. 21 - 111 Bezeichnung Rechtsgrundlage Zuständige Stelle gemäss § 6 Kantonales Geoinformationsgesetz vom 24. Oktober 2011 (KGeoIG) [Kantonale Fachstelle] Inventar der Natur- und Landschafts- LS 700.1 ALN/ARE schutzobjekte von überkommunaler § 203 Bedeutung LS 702.11 §§ 4–6, 7 lit. a, b, 8, 13–22
+- 1\. 4. 22 - 116 Bezeichnung Rechtsgrundlage Zuständige Stelle gemäss § 6 Kantonales Geoinformationsgesetz vom 24. Oktober 2011 (KGeoIG) [Kantonale Fachstelle] Inventar der Natur- und Landschafts- LS 700.1 ALN/ARE schutzobjekte von überkommunaler § 203 Bedeutung LS 702.11 §§ 4–6, 7 lit. a, b, 8, 13–22
 
 **A ja ja 2 65-ZH**
 
@@ -876,7 +876,7 @@ Unterhaltsbezirke und -regionen LS 722.1 TBA Strasseninspektorat §§ 25, 26
 
 **A ja ja 1 114-ZH**
 
-- 1\. 1. 21 - 111 Bezeichnung Rechtsgrundlage Zuständige Stelle gemäss § 6 Kantonales Geoinformationsgesetz vom 24. Oktober 2011 (KGeoIG) [Kantonale Fachstelle] Gewässernetz LS 724.11 AWEL (kantonale Festlegungen) §§ 1, 7 LS 724.112 §§ 1–2
+- 1\. 4. 22 - 116 Bezeichnung Rechtsgrundlage Zuständige Stelle gemäss § 6 Kantonales Geoinformationsgesetz vom 24. Oktober 2011 (KGeoIG) [Kantonale Fachstelle] Gewässernetz LS 724.11 AWEL (kantonale Festlegungen) §§ 1, 7 LS 724.112 §§ 1–2
 
 **A ja ja 1 100-ZH**
 
@@ -1004,7 +1004,7 @@ Einsatzgebiete Ortsfeuerwehren LS 861.2 Gemeinden [GVZ] §§ 3, 8
 
 **A ja ja 2 147-ZH**
 
-- 1\. 1. 21 - 111 Bezeichnung Rechtsgrundlage Zuständige Stelle gemäss § 6 Kantonales Geoinformationsgesetz vom 24. Oktober 2011 (KGeoIG) [Kantonale Fachstelle] Schätzungskreise LS 862.1 GVZ (Gebäudeversicherung) § 5 Abs. 2
+- 1\. 4. 22 - 116 Bezeichnung Rechtsgrundlage Zuständige Stelle gemäss § 6 Kantonales Geoinformationsgesetz vom 24. Oktober 2011 (KGeoIG) [Kantonale Fachstelle] Schätzungskreise LS 862.1 GVZ (Gebäudeversicherung) § 5 Abs. 2
 
 **A ja ja 3 131-ZH**
 
@@ -1074,10 +1074,6 @@ Fischfangreviere (Pachtgewässer) LS 923.1 ALN §§ 4 Abs. 1 lit. a, b, 12 Bezei
 
 **A ja ja 3 148-ZH**
 
-**B nein opt. 1 150-ZH**
-
-Kantonales Gebäude- und Wohnungs- LS 704.16 ARE register §§ 1–6
-
 **C nein nein 1 151-ZH**
 
 B-Betriebe (Bio-Risikokataster) LS 528.1 AWEL § 26 lit. e
@@ -1092,7 +1088,7 @@ Lichtsignalinventar Staatsstrassen LS 722.1 TBA (ohne Städte Zürich und Winter
 
 **21**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 22 - 116
 
 ### Anhang 3<sup>7</sup>
 
@@ -1310,7 +1306,7 @@ Tempo-30- und Begegnungszonen (ohne Städte Zürich KAPO und Winterthur)
 
 **23**
 
-- 1\. 1. 21 - 111 Bezeichnung Zuständige Stelle
+- 1\. 4. 22 - 116 Bezeichnung Zuständige Stelle
 
 **A ja opt. 57-GIS-ZH**
 
@@ -1374,4 +1370,4 @@ Karte der landwirtschaftlichen Nutzungseignungen ALN
 
 **25**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 22 - 116
