@@ -3,7 +3,7 @@ canton: VD
 number: "900.05.021220.5"
 title: "ARRÊTÉ du 02.12.2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus (COVID-19) par un soutien aux entreprises, dans des cas de rigueur"
 language: fr
-version: 2021-12-03
+version: 2022-02-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05.021220.5?id=4efca371-136f-4b0b-88a1-b997e7119b7b"
 ---
 
@@ -82,27 +82,29 @@ arrête
 
 <sup>2</sup> Un cas de rigueur existe si, en raison des mesures ordonnées par les autorités aux fins de la lutte contre la pandémie COVID-19, la perte de chiffre d'affaires de l'entreprise durant l'année 2020 représente plus de 40% du chiffre d'affaires de référence au sens de l'article 5, alinéa 1, lettre b et alinéa 3 du présent arrêté.
 
-<sup>2bis</sup> En cas de recul du chiffre d'affaires enregistré entre les mois de janvier 2021 et de juin 2021 en raison des mesures ordonnées par les autorités aux fins de la lutte contre l'épidémie de COVID-19, l'entreprise peut calculer le recul de son chiffre d'affaires sur la base du chiffre d'affaires des 12 derniers mois au lieu du chiffre d'affaires de l'exercice 2020.
+<sup>2bis</sup> En cas de recul du chiffre d'affaires enregistré entre les mois de janvier 2021 et de juin 2021 en raison des mesures ordonnées par les autorités aux fins de la lutte contre l'épidémie de COVID-19, l'entreprise peut calculer le recul de son chiffre d'affaires au sens de l'alinéa 2 sur la base du chiffre d'affaires des 12 derniers mois au lieu du chiffre d'affaires de l'exercice 2020.
 
-<sup>2ter</sup> Lorsque la perte de chiffre d'affaires reconnue selon l'alinéa 2bis du présent article se poursuit durant les deux premiers trimestres 2021, celle-ci se calcule en comparant le chiffre d'affaires réalisé durant le trimestre 2021 concerné au quart du chiffre d'affaires annuel moyen de référence au sens de l'article 5 alinéa 1 lettre b ou alinéa 3. La présente disposition s'applique par analogie à l'article 4a.
+<sup>2ter</sup> Lorsque la perte de chiffre d'affaires se poursuit durant les deux derniers trimestres 2021, celle-ci se calcule en comparant le chiffre d'affaires réalisé durant le trimestre 2021 concerné au quart du chiffre d'affaires annuel moyen de référence au sens de l'article 5 alinéa 1 lettre b ou alinéa 3. La présente disposition s'applique par analogie à l'article 4a.
 
 <sup>2quater</sup> Les entreprises relevant du secteur de l'hôtellerie et dont la perte de chiffre d'affaires du secteur "hébergement" durant l'année 2021, en raison des mesures ordonnées par les autorités aux fins de la lutte contre la pandémie COVID-19, représente plus de 40% du chiffre d'affaires de référence au sens de l'article 5, alinéa 1, lettre b et alinéa 3 du présent arrêté peuvent se voir allouer une aide complémentaire au titre des cas de rigueur, couvrant les troisième et quatrième trimestres de l'année 2021, conformément à l'article 4c du présent arrêté.
 
 <sup>2quinquies</sup> ...
 
-<sup>3</sup> Le chiffre d'affaires déterminant pour la perte de chiffre d'affaires est calculé sur la base de la valeur des biens vendus et des services fournis durant l'année civile 2020, respectivement durant les 12 mois concernés en cas d'application de l'alinéa 2<sup>bis</sup> à 2<sup>quater</sup>. Il se réfère au compte individuel de l'entreprise requérante..
+<sup>2sexies</sup> Les entreprises dont la perte de chiffre d'affaires durant l'année 2021, en raison des mesures ordonnées par les autorités aux fins de la lutte contre la pandémie de COVID-19, représente plus de 40% du chiffre d'affaires de référence au sens de l'article 5, alinéa 1, lettre b et alinéa 3 peuvent se voir allouer une aide complémentaire au titre des cas de rigueur, couvrant les troisième et quatrième trimestres de l'année 2021, conformément à l'article 4d.
 
-[^3-1]: Modif. 1 du 20.01.2021: Introduction Al. 2bis; entrée en vigueur au 20.01.2021; Modification Al. 3; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 2; entrée en vigueur au 19.05.2021; Introduction Al. 2ter; entrée en vigueur au 19.05.2021; Modification Al. 3; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Al. 2quater,2quinquies; entrée en vigueur au 07.07.2021 · Modif. 4 du 24.11.2021: Modification Al. 1,2quater; entrée en vigueur au 03.12.2021; Abrogation Al. 2quinquies; entrée en vigueur au 03.12.2021; Modification Al. 3; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Modification Al. 2bis,2ter; entrée en vigueur au 01.02.2022; Introduction Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Modification Al. 2ter; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+<sup>3</sup> Le chiffre d'affaires déterminant pour la perte de chiffre d'affaires est calculé sur la base de la valeur des biens vendus et des services fournis durant l'année civile 2020, respectivement durant les 12 mois concernés en cas d'application de l'alinéa 2<sup>bis</sup> à 2<sup>quater</sup>. Il se réfère au compte individuel de l'entreprise requérante.
+
+[^3-1]: Modif. 1 du 20.01.2021: Introduction Al. 2bis; entrée en vigueur au 20.01.2021; Modification Al. 3; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 2; entrée en vigueur au 19.05.2021; Introduction Al. 2ter; entrée en vigueur au 19.05.2021; Modification Al. 3; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Al. 2quater,2quinquies; entrée en vigueur au 07.07.2021 · Modif. 4 du 24.11.2021: Modification Al. 1,2quater; entrée en vigueur au 03.12.2021; Abrogation Al. 2quinquies; entrée en vigueur au 03.12.2021; Modification Al. 3; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Modification Al. 2bis,2ter; entrée en vigueur au 01.02.2022; Introduction Al. 2sexies; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Modification Al. 2ter; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
 
 #### Art. 4a
 
 **Dérogation en faveur des entreprises fermées par les autorités [^4-1]**
 
-<sup>1</sup> Les entreprises qui, en raison des mesures prises par la Confédération ou les cantons pour endiguer l'épidémie de COVID-19, doivent cesser leur activité pour au moins 40 jours entre le 1er novembre 2020 et le 30 juin 2021 ne sont pas tenues de démontrer une perte de chiffre d'affaires durant l'année 2020, ni durant les mois de janvier 2021 à juin 2021. Elles ne sont également pas tenues de remplir les conditions d'octroi fixées à l'article 6, alinéa 1, lettre b.
+<sup>1</sup> Les entreprises qui, en raison des mesures prises par la Confédération ou les cantons pour endiguer l'épidémie de COVID-19, doivent cesser leur activité pour au moins 40 jours entre le 1er novembre 2020 et le 30 juin 2021 ne sont pas tenues de démontrer une perte de chiffre d'affaires durant l'année 2020, ni durant les mois de janvier 2021 à décembre 2021. Elles ne sont également pas tenues de remplir les conditions d'octroi fixées à l'article 6, alinéa 1, lettre b.
 
 <sup>2</sup> Si une entreprise exploite plusieurs établissements, ceux qui sont concernés par la cessation d'activité doivent avoir généré au moins 50% du chiffre d'affaires de l'entreprise calculé conformément à l'article 9 alinéa 3bis. L'article 4b s'applique par analogie.
 
-[^4-1]: Modif. 1 du 20.01.2021: Introduction Art. 4a; entrée en vigueur au 20.01.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Modification Al. 1; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022
+[^4-1]: Modif. 1 du 20.01.2021: Introduction Art. 4a; entrée en vigueur au 20.01.2021 · Modif. 5 du 26.01.2022: Modification Al. 1; entrée en vigueur au 01.02.2022
 
 #### Art. 4b
 
@@ -135,6 +137,18 @@ arrête
 
 [^4b-1]: Modif. 4 du 24.11.2021: Introduction Art. 4c; entrée en vigueur au 03.12.2021
 
+#### Art. 4d
+
+**Aide complémentaire pour les entreprises les plus impactées en 2021 [^4c-1]**
+
+<sup>1</sup> Les entreprises dont la perte de chiffre d'affaires durant l'année 2021, en raison des mesures ordonnées par les autorités aux fins de la lutte contre la pandémie de COVID-19, représente plus de 40% du chiffre d'affaires de référence au sens de l'article 5, alinéa 1, lettre b et alinéa 3 peuvent se voir allouer une aide complémentaire au titre des cas de rigueur, couvrant les troisième et quatrième trimestres de l'année 2021 et dont le montant maximal diffère de celui fixé pour les aides ordinaires.
+
+<sup>2</sup> Pour être éligibles à cette aide complémentaire, ces entreprises doivent en outre avoir déposé une première demande d'aide «cas de rigueur» sur une période de 12 mois ayant fait l'objet une décision positive du Service de la promotion de l'économie et de l'innovation (ci-après: "le Service").
+
+<sup>3</sup> Les modalités de calcul de cette aide complémentaire se fondent sur le chiffre d'affaires réalisé durant les troisième et quatrième trimestres 2021 comparé au chiffre d'affaires réalisé durant les troisième et quatrième trimestres du chiffre d'affaires de référence au sens de l'article 5, alinéa 1, lettre b et alinéa 3 du présent arrêté, multiplié par les charges d'exploitation reconnues au sens de l'article 10.
+
+[^4c-1]: Modif. 5 du 26.01.2022: Introduction Art. 4d; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Modification Al. 3; entrée en vigueur au 06.07.2022; Introduction Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+
 ## Section II Conditions d'éligibilité
 
 #### Art. 5
@@ -162,11 +176,11 @@ arrête
 - 2\. le chiffre d'affaires selon les calculs indiqués à la let. a.
 - c. Pour une entreprise créée ou qui a commencé son activité commerciale entre le 1er mars 2020 et le 30 septembre 2020, le plus élevé entre:
 - 1\. le chiffre d'affaires moyen qui a été réalisé entre la création de l'entreprise et le 31 décembre 2020, calculé sur 12 mois, ou
-- 2\. le chiffre d'affaires réalisé lors du trimestre 2019 ou 2020 qui a généré le plus gros chiffre d'affaires, extrapolé sur 12 mois;
+- 2\. le chiffre d'affaires réalisé lors du trimestre 2020 qui a généré le plus gros chiffre d'affaires, extrapolé sur 12 mois.
 - d. Pour une entreprise fermée plus de 40 jours sur décision d'autorité au sens de l'article 4a, créée ou qui a commencé son activité commerciale entre le 1er octobre 2020 et le 31 mars 2021:
-- 1\. le chiffre d'affaires mensuel le plus élevé réalisé entre le début de l'activité commerciale et le 30 juin 2021.
+- 1\. le chiffre d'affaires mensuel le plus élevé réalisé entre le début de l'activité commerciale et le 30 juin 2021, extrapolé sur 12 mois.
 
-[^sectionSectionII-1]: Modif. 1 du 20.01.2021: Modification Al. 1, b-c; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 1, a-c; entrée en vigueur au 19.05.2021; Introduction Al. 1, d; entrée en vigueur au 19.05.2021; Modification Al. 2-3; entrée en vigueur au 19.05.2021; Introduction Al. 3, a-c; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Al. 1bis; entrée en vigueur au 07.07.2021; Modification Al. 3, c; entrée en vigueur au 07.07.2021; Modification Al. 3, c, 1; entrée en vigueur au 07.07.2021; Introduction Al. 3, c, 2; entrée en vigueur au 07.07.2021; Introduction Al. 3, d; entrée en vigueur au 07.07.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Modification Al. 3, c, 2; entrée en vigueur au 01.02.2022; Modification Al. 3, d, 1; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Modification Al. 2; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+[^sectionSectionII-1]: Modif. 1 du 20.01.2021: Modification Al. 1, b-c; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 1, a-c; entrée en vigueur au 19.05.2021; Introduction Al. 1, d; entrée en vigueur au 19.05.2021; Modification Al. 2-3; entrée en vigueur au 19.05.2021; Introduction Al. 3, a-c; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Al. 1bis; entrée en vigueur au 07.07.2021; Modification Al. 3, c; entrée en vigueur au 07.07.2021; Modification Al. 3, c, 1; entrée en vigueur au 07.07.2021; Introduction Al. 3, c, 2; entrée en vigueur au 07.07.2021; Introduction Al. 3, d; entrée en vigueur au 07.07.2021 · Modif. 5 du 26.01.2022: Modification Al. 3, c, 2; entrée en vigueur au 01.02.2022; Modification Al. 3, d, 1; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Modification Al. 2; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
 
 #### Art. 6
 
@@ -282,7 +296,7 @@ arrête
 
 <sup>3</sup> L'aide peut être échelonnée.
 
-[^10-2]: Modif. 1 du 20.01.2021: Modification Al. 1, a; entrée en vigueur au 20.01.2021; Introduction Al. 3; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 1; entrée en vigueur au 19.05.2021; Modification Al. 1, a; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Modification Al. 1; entrée en vigueur au 03.12.2021; Modification Al. 1, b; entrée en vigueur au 03.12.2021; Introduction Al. 1bis; entrée en vigueur au 03.12.2021; Modification Al. 2,2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Modification Al. 1bis; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Modification Al. 1; entrée en vigueur au 06.07.2022; Introduction Al. 2bis; entrée en vigueur au 06.07.2022; Abrogation Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+[^10-2]: Modif. 1 du 20.01.2021: Modification Al. 1, a; entrée en vigueur au 20.01.2021; Introduction Al. 3; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 1; entrée en vigueur au 19.05.2021; Modification Al. 1, a; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Modification Al. 1; entrée en vigueur au 03.12.2021; Modification Al. 1, b; entrée en vigueur au 03.12.2021; Introduction Al. 1bis; entrée en vigueur au 03.12.2021; Modification Al. 2,2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Modification Al. 1bis; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Modification Al. 1; entrée en vigueur au 06.07.2022; Introduction Al. 2bis; entrée en vigueur au 06.07.2022; Abrogation Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
 
 #### Art. 11a
 
@@ -290,7 +304,7 @@ arrête
 
 <sup>1</sup> Pour les entreprises dont la perte de chiffre d'affaires 2020 ou sur 12 mois est supérieure à 70%, le montant de l'aide à fonds perdu par entreprise est plafonné, pour l'entier de la période considérée au sens de l'article 12a, à 30% du chiffre d'affaires de référence, mais au maximum à 1,5 million de francs.
 
-<sup>2</sup> Pour les entreprises éligibles à une aide complémentaire au sens de l'article 4c et dont la perte de chiffre d'affaires 2020 ou sur 12 mois est supérieure à 70%, le montant de l'aide à fonds perdu par entreprise est plafonné, pour l'entier de la période considérée au sens de l'article 12a alinéa 2 à 30% du chiffre d'affaires de référence, mais au maximum à 5 millions de francs.
+<sup>2</sup> Pour les entreprises éligibles à une aide complémentaire au sens des articles 4c et 4d et dont la perte de chiffre d'affaires 2020 ou sur 12 mois est supérieure à 70%, le montant de l'aide à fonds perdu par entreprise est plafonné, pour l'entier de la période considérée au sens de l'article 12a, alinéa 2 à 30% du chiffre d'affaires de référence, mais au maximum à 10 millions de francs.
 
 [^11-1]: Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Modification Al. 2; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
 
@@ -300,27 +314,33 @@ arrête
 
 <sup>1</sup> Une entreprise dont le chiffre d'affaires annuel de référence est inférieur ou égal à 5 millions de francs peut se voir allouer une aide pour cas de rigueur quand bien même les comptes de l'entreprise pour la période considérée affichent un bénéfice, cas échéant avant prélèvement privé de l'exploitant.
 
-<sup>2</sup> Le bénéfice de l'exercice considéré, y compris l'aide pour les cas de rigueur, ne peut en aucun cas excéder :
+<sup>2</sup> Le bénéfice des exercices 2020 et 2021, y compris l'aide pour les cas de rigueur, ne peut en aucun cas excéder, pour chacun des exercices :
 
 - a. pour une entreprise en raison individuelle ou en nom collectif : le bénéfice annuel le plus élevé entre 2018 et 2019;
 - b. pour une personne morale fermée plus de 40 jours sur décision d'autorité: le bénéfice annuel le plus élevé entre 2018 et 2019;
 - c. pour une personne morale dont la perte de chiffre d'affaires durant l'année 2020 représente plus de 40% du chiffre d'affaires de référence au sens de l'article 5, alinéa 1, lettre b et alinéa 3 du présent arrêté: au maximum 30'000 francs.
 
-<sup>3</sup> Lorsque les exercices 2018 et 2019, s'ils existent, affichent une perte, l'aide est néanmoins allouée.
+<sup>3</sup> Lorsque les exercices 2018 et 2019 existent et affichent une perte ou à défaut d'exercice antérieur à 2020, l'aide est néanmoins allouée. Dans un tel cas, le bénéfice des exercices 2020 et 2021, y compris l'aide pour les cas de rigueur, ne peut en aucun cas excéder, pour chacun des exercices :
+
+- a. Pour une entreprise en raison individuelle ou en nom collectif : à la part de salaire propre admissible par comparaison avec des entreprises similaires du même secteur, mais au maximum à 120'000 francs ;
+- b. Pour une personne morale au sens de l'alinéa 2, lettre b ou c : au maximum à 30'000 francs.
 
 <sup>4</sup> Les éventuelles aides pour RHT ou APG sont à considérer comme un revenu de l'entreprise individuelle ou de la société en nom collectif.
 
-[^11a-1]: Modif. 2 du 19.05.2021: Modification tArt; entrée en vigueur au 19.05.2021; Modification Al. 1; entrée en vigueur au 19.05.2021; Introduction Al. 2-4; entrée en vigueur au 19.05.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Modification Al. 2-3; entrée en vigueur au 01.02.2022; Introduction Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022
+[^11a-1]: Modif. 2 du 19.05.2021: Modification tArt; entrée en vigueur au 19.05.2021; Modification Al. 1; entrée en vigueur au 19.05.2021; Introduction Al. 2-4; entrée en vigueur au 19.05.2021 · Modif. 5 du 26.01.2022: Modification Al. 2-3; entrée en vigueur au 01.02.2022; Introduction Al. 3, a-b; entrée en vigueur au 01.02.2022
 
 #### Art. 12a
 
 **Période de couverture [^12-1]**
 
-<sup>1</sup> Les mesures prévues par le présent arrêté couvrent au maximum la période qui s'étend du 1er avril 2020 au 30 juin 2021.
+<sup>1</sup> Les mesures prévues par le présent arrêté couvrent au maximum la période qui s'étend du 1er avril 2020 au 31 décembre 2021.
 
-<sup>2</sup> Pour les entreprises éligibles à une aide complémentaire au sens de l'article 4c, les mesures prévues par le présent arrêté couvrent au maximum la période qui s'étend du 1er avril 2020 au 31 décembre 2021.
+<sup>2</sup> Pour être éligibles à une aide complémentaire sur la période du 1er juillet 2021 au 31 décembre 2021, les entreprises :
 
-[^12-1]: Modif. 2 du 19.05.2021: Introduction tArt; entrée en vigueur au 19.05.2021; Introduction Al. 1; entrée en vigueur au 19.05.2021; Introduction Art. 12a; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Introduction Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Modification Al. 1-2; entrée en vigueur au 01.02.2022; Introduction Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022
+- a. doivent avoir déposé une première demande d'aide «cas de rigueur» sur une période de 12 mois ayant fait l'objet d'une décision positive du Service ;
+- b. ne doivent pas avoir atteint, par les montants qui leur ont déjà été octroyés pour la période du 1er janvier 2020 au 30 juin 2021, les plafonds fixés à l'article 11.
+
+[^12-1]: Modif. 2 du 19.05.2021: Introduction tArt; entrée en vigueur au 19.05.2021; Introduction Al. 1; entrée en vigueur au 19.05.2021; Introduction Art. 12a; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Introduction Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Modification Al. 1-2; entrée en vigueur au 01.02.2022; Introduction Al. 2, a-b; entrée en vigueur au 01.02.2022
 [^12a-1]: Modif. 2 du 19.05.2021: Introduction ; entrée en vigueur au 19.05.2021
 
 ## Section IIIa Exigences relatives à la forme des mesures pour les cas de rigueur pour les entreprises dont le chiffre d'affaires annuel de référence est supérieur à 5 millions de francs
@@ -335,17 +355,17 @@ arrête
 
 <sup>2</sup> Le Canton de Vaud fait usage de la possibilité laissée par l'article 8b alinéa 4 de l'Ordonnance fédérale du 25 novembre 2020 concernant les mesures pour les cas de rigueur destinées aux entreprises en lien avec l'épidémie de COVID-19 (Ordonnance COVID-19 cas de rigueur) de fixer des parts de coûts fixes plus faibles s'il constate que les parts de coûts fixes forfaitaires visées à l'article 8b alinéa 3 de ladite ordonnance occasionneraient une surindemnisation.
 
-<sup>3</sup> Pour les entreprises éligibles à une aide complémentaire au sens de l'article 4c du présent arrêté dont le chiffre d'affaires annuel de référence est supérieur à 5 millions de francs, le montant de l'aide à fonds perdu par entreprise est plafonné, pour l'entier de la période considérée au sens de l'article 12a alinéa 2 du présent arrêté, à 30% du chiffre d'affaires de référence, mais au maximum à 5 millions de francs.
+<sup>3</sup> Pour les entreprises éligibles à une aide complémentaire au sens des articles 4c et 4d du présent arrêté dont le chiffre d'affaires annuel de référence est supérieur à 5 millions de francs, le montant de l'aide à fonds perdu par entreprise est plafonné, pour l'entier de la période considérée au sens de l'article 12a, alinéa 2 du présent arrêté, à 30% du chiffre d'affaires de référence, mais au maximum à 5 millions de francs..
 
-[^sectionSectionIIIa-1]: Modif. 2 du 19.05.2021: Introduction Art. 12b; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Introduction Al. 2-3; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Modification Al. 3; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Modification Al. 1; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+[^sectionSectionIIIa-1]: Modif. 2 du 19.05.2021: Introduction Art. 12b; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Introduction Al. 2-3; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Modification Al. 3; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Modification Al. 1; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
 
 ## Section IV Procédure
 
 #### Art. 13
 
-**Demandes [^sectionSectionIV-1]**
+**Demandes d'aide ordinaire relatives à la période du 1er janvier 2020 au 30 juin 2021 [^sectionSectionIV-1]**
 
-<sup>1</sup> L'entreprise qui s'estime éligible à la mesure de soutien dans des cas de rigueur dépose sa demande auprès du Service au moyen du formulaire en ligne dédié.
+<sup>1</sup> L'entreprise qui s'estime éligible à la mesure de soutien dans des cas de rigueur pour la période du 1er janvier 2020 au 30 juin 2021 dépose sa demande auprès du Service au moyen du formulaire en ligne dédié.
 
 <sup>2</sup> L'entreprise dont le chiffre d'affaires annuel de référence est inférieur ou égal à 5 millions de francs annexe à sa demande :
 
@@ -373,13 +393,13 @@ arrête
 
 <sup>6</sup> Le Service peut s'adjoindre les services de tiers mandatés afin de traiter les demandes.
 
-[^sectionSectionIV-1]: Modif. 1 du 20.01.2021: Modification Al. 2, b, 1-2; entrée en vigueur au 20.01.2021; Abrogation Al. 2, b, 3; entrée en vigueur au 20.01.2021; Abrogation Al. 2, d; entrée en vigueur au 20.01.2021; Introduction Al. 3, abis; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 2; entrée en vigueur au 19.05.2021; Modification Al. 2, b, 2; entrée en vigueur au 19.05.2021; Introduction Al. 2bis; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Modification Al. 2bis; entrée en vigueur au 07.07.2021; Introduction Al. 2ter; entrée en vigueur au 07.07.2021 · Modif. 4 du 24.11.2021: Modification Al. 1; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Modification tArt; entrée en vigueur au 01.02.2022; Modification Al. 1; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+[^sectionSectionIV-1]: Modif. 1 du 20.01.2021: Modification Al. 2, b, 1-2; entrée en vigueur au 20.01.2021; Abrogation Al. 2, b, 3; entrée en vigueur au 20.01.2021; Abrogation Al. 2, d; entrée en vigueur au 20.01.2021; Introduction Al. 3, abis; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 2; entrée en vigueur au 19.05.2021; Modification Al. 2, b, 2; entrée en vigueur au 19.05.2021; Introduction Al. 2bis; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Modification Al. 2bis; entrée en vigueur au 07.07.2021; Introduction Al. 2ter; entrée en vigueur au 07.07.2021 · Modif. 4 du 24.11.2021: Modification Al. 1; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Modification tArt; entrée en vigueur au 01.02.2022; Modification Al. 1; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
 
 #### Art. 13a
 
-**Demandes d'aide complémentaire pour les entreprises relevant du secteur de l'hôtellerie [^13-1]**
+**Demandes d'aide complémentaire pour les entreprises relevant du secteur de l'hôtellerie et pour les entreprises les plus impactées en 2021 [^13-1]**
 
-<sup>1</sup> L'entreprise qui s'estime éligible à une aide complémentaire au sens de l'article 4c dépose sa demande auprès du Service au moyen du formulaire en ligne dédié.
+<sup>1</sup> L'entreprise qui s'estime éligible à une aide complémentaire au sens des articles 4c ou 4d dépose sa demande auprès du Service au moyen du formulaire en ligne dédié.
 
 <sup>2</sup> Elle annexe à sa demande :
 
@@ -387,9 +407,9 @@ arrête
 - b. les documents attestant :
 - 1\. de son chiffre d'affaires pour l'année 2021, soit les décomptes TVA des quatre trimestres 2021 ;
 - 2\. de ses charges fixes au sens de l'article 10 alinéa 1 par le biais des comptes clôturés 2021 audités , si disponibles, ou de bouclements intermédiaires pour 2021.
-- 3\. des justificatifs concernant le chiffre d'affaires de référence des années 2018 et 2019.
+- 3\. ...
 
-<sup>3</sup> Elle dépose une demande au moyen du formulaire en ligne dédié :
+<sup>3</sup> L'entreprise qui dépose une demande au moyen du formulaire en ligne dédié :
 
 - a. s'engage sur l'honneur à respecter toutes les conditions prévues par le présent arrêté ;
 - b. confirme que le recul de son chiffre d'affaires est dû aux mesures ordonnées par les autorités aux fins de la lutte contre la pandémie COVID-19 et entraîne d'importants coûts fixes non couverts, excepté si elle est éligible au sens de l'article 4a ;
@@ -401,17 +421,48 @@ arrête
 
 <sup>6</sup> Le Service peut s'adjoindre les services de tiers mandatés afin de traiter les demandes.
 
-[^13-1]: Modif. 4 du 24.11.2021: Introduction Art. 13a; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Modification tArt; entrée en vigueur au 01.02.2022; Modification Al. 1; entrée en vigueur au 01.02.2022; Abrogation Al. 2, b, 3; entrée en vigueur au 01.02.2022; Modification Al. 3; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+[^13-1]: Modif. 4 du 24.11.2021: Introduction Art. 13a; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Modification tArt; entrée en vigueur au 01.02.2022; Modification Al. 1; entrée en vigueur au 01.02.2022; Abrogation Al. 2, b, 3; entrée en vigueur au 01.02.2022; Modification Al. 3; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+
+#### Art. 13b
+
+**Demandes d'aide ordinaire relatives à la période du 1er juillet 2021 au 31 décembre 2021 [^13a-1]**
+
+<sup>1</sup> L'entreprise qui s'estime éligible à la mesure de soutien dans des cas de rigueur pour la période du 1er juillet 2021 au 31 décembre 2021 dépose sa demande auprès du Service au moyen du formulaire en ligne dédié.
+
+<sup>2</sup> Elle annexe à sa demande :
+
+- a. les états financiers, soit au minimum son bilan et ses comptes de pertes et profits pour l'année 2021 (bouclement intermédiaire pour 2021) ;
+- b. les documents attestant :
+- 1\. de son chiffre d'affaires pour l'année 2021, soit les décomptes TVA des quatre trimestres 2021 ;
+- 2\. de ses charges fixes au sens de l'article 10, alinéa 1 par le biais des comptes clôturés 2021 audités , si disponibles, ou de bouclements intermédiaires pour 2021.
+
+<sup>3</sup> L'entreprise qui dépose une demande au moyen du formulaire en ligne dédié :
+
+- a. s'engage sur l'honneur à respecter toutes les conditions prévues par le présent arrêté ;
+- b. confirme que le recul de son chiffre d'affaires est dû aux mesures ordonnées par les autorités aux fins de la lutte contre la pandémie COVID -19 et entraîne d'importants coûts fixes non couverts, excepté si elle est éligible au sens de l'article 4a ;
+- c. autorise le Service à échanger toutes les données contenues dans la demande et les documents annexés avec d'autres autorités publiques (fédérales, cantonales et communales), en relation avec le traitement de sa demande.
+
+<sup>4</sup> Le Service est autorisé à exiger de l'entreprise qu'elle lui fournisse, dans des délais raisonnables, les compléments ou clarifications nécessaires au traitement de la demande. Si l'entreprise ne fournit pas les renseignements demandés dans le délai imparti, la demande est réputée retirée.
+
+<sup>5</sup> L'obligation de renseigner s'étend également au-delà de la période de soutien, dans la mesure où des contrôles sont nécessaires.
+
+<sup>6</sup> Le Service peut s'adjoindre les services de tiers mandatés afin de traiter les demandes.
+
+[^13a-1]: Modif. 5 du 26.01.2022: Introduction Art. 13b; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
 
 #### Art. 14
 
-**Délai de dépôt des demandes [^13a-1]**
+**Délai de dépôt des demandes [^13b-1]**
 
-<sup>1</sup> Les demandes d'aides pour cas de rigueur peuvent être déposées jusqu'au 31 août 2021.
+<sup>1</sup> Les demandes d'aide ordinaire relatives à la période du 1er janvier 2020 au 30 juin 2021 peuvent être déposées jusqu'au 31 août 2021.
 
 <sup>2</sup> Les demandes d'aide complémentaire au sens de l'article 4c peuvent être déposées jusqu'au 31 décembre 2021.
 
-[^13a-1]: Modif. 2 du 19.05.2021: Modification Al. 1; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Introduction Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Modification Al. 1; entrée en vigueur au 01.02.2022; Introduction Al. 3-4; entrée en vigueur au 01.02.2022
+<sup>3</sup> Les demandes d'aide complémentaire au sens de l'article 4d peuvent être déposées jusqu'au 31 mars 2022.
+
+<sup>4</sup> Les demandes d'aide ordinaire relatives à la période du 1er juillet 2021 au 31 décembre 2021 peuvent être déposées jusqu'au 31 mars 2022.
+
+[^13b-1]: Modif. 2 du 19.05.2021: Modification Al. 1; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Introduction Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Modification Al. 1; entrée en vigueur au 01.02.2022; Introduction Al. 3-4; entrée en vigueur au 01.02.2022
 
 #### Art. 14a
 
