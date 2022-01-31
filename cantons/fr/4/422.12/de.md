@@ -3,13 +3,12 @@ canton: FR
 number: "422.12"
 title: Reglement über die Ausbildung zur Technikerin oder zum Techniker HF Bauführung
 language: de
-version: 2017-09-01
-valid_until: 2022-01-31
-version_adopted: 2017-08-22
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2015-11-03
 in_force: 2015-09-14
 url: "https://bdlf.fr.ch/app/de/texts_of_law/422.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6890/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7306/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6890/pdf_file"
 
 Ausbildung zum Techniker HF Bauführung – R
 
-vom 03.11.2015 (Fassung in Kraft getreten am 01.09.2017)
+vom 03.11.2015 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -278,7 +277,7 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Gegen den Einspracheentscheid kann innerhalb von zehn Tagen eine Beschwerde an die Volkswirtschaftsdirektion gerichtet werden.
+<sup>1</sup> Gegen den Einspracheentscheid kann innerhalb von zehn Tagen eine Beschwerde an die Volkswirtschafts- und Berufsbildungsdirektion gerichtet werden.
 
 #### Art. 25
 

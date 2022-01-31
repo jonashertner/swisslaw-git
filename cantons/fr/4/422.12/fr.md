@@ -3,13 +3,12 @@ canton: FR
 number: "422.12"
 title: Règlement sur la formation de technicien ou technicienne ES en conduite de travaux
 language: fr
-version: 2017-09-01
-valid_until: 2022-01-31
-version_adopted: 2017-08-22
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2015-11-03
 in_force: 2015-09-14
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/422.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6890/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7306/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6890/pdf_file"
 
 Formation de technicien ES en conduite de travaux – R
 
-du 03.11.2015 (version entrée en vigueur le 01.09.2017)
+du 03.11.2015 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -278,7 +277,7 @@ Arrête:
 
 **Recours**
 
-<sup>1</sup> Toute décision prise sur réclamation peut, dans les dix jours, faire l'objet d'un recours à la Direction de l'économie et de l'emploi.
+<sup>1</sup> Toute décision prise sur réclamation peut, dans les dix jours, faire l'objet d'un recours à la Direction de l'économie, de l'emploi et de la formation professionnelle.
 
 #### Art. 25
 
