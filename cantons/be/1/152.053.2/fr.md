@@ -4,13 +4,13 @@ number: "152.053.2"
 title: "Ordonnance de Direction sur les droits d'accès aux fichiers centralisés de données personnelles délivrés par la Direction de l'intérieur et de la justice"
 short: FDP OD DIJ
 language: fr
-version: 2021-11-01
-valid_until: 2022-01-31
-version_adopted: 2021-09-24
+version: 2022-02-01
+valid_until: 2022-04-30
+version_adopted: 2021-12-20
 adopted: 2021-09-24
 in_force: 2021-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.053.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2386/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2517/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2386/pdf_file"
 
 (FDP OD DIJ)
 
-du 24.09.2021 (état au 01.11.2021)
+du 24.09.2021 (état au 01.02.2022)
 
 La Direction de l'intérieur et de la justice du canton de Berne,
 
