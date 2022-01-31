@@ -4,13 +4,13 @@ number: "130.11"
 title: Justizreglement
 short: JR
 language: de
-version: 2018-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-09-19
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/130.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5899/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7246/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Justizreglement
 
 (JR)
 
-vom 30.11.2010 (Fassung in Kraft getreten am 01.01.2018)
+vom 30.11.2010 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -68,7 +68,7 @@ beschliesst:
 
 **Schutzmassnahmen (Art. 146 JG und 156 StPO)**
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion trifft nach Anhören der Staatsanwaltschaft alle Massnahmen, die ihr angemessen erscheinen, um Personen zu schützen, die nach Abschluss eines Verfahrens bedroht bleiben. Sie kann bei Bedarf die Hilfe der Polizei anfordern.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion trifft nach Anhören der Staatsanwaltschaft alle Massnahmen, die ihr angemessen erscheinen, um Personen zu schützen, die nach Abschluss eines Verfahrens bedroht bleiben. Sie kann bei Bedarf die Hilfe der Polizei anfordern.
 
 <sup>2</sup> Erachtet die Staatsanwaltschaft Schutzmassnahmen als notwendig, so informiert sie unverzüglich die Sicherheits- und Justizdirektion.
 
@@ -100,7 +100,7 @@ beschliesst:
 
 <sup>1</sup> Die Belohnung für die Mithilfe der Öffentlichkeit bei Fahndungen beträgt zwischen 100 und 5000 Franken.
 
-<sup>2</sup> Liegen ausserordentliche Umstände vor und stimmt die Sicherheits- und Justizdirektion zu, so kann ein höherer Betrag ausgerichtet werden. Dieser Betrag darf jedoch das Doppelte des ordentlichen Höchstbetrags nicht übersteigen.
+<sup>2</sup> Liegen ausserordentliche Umstände vor und stimmt die Sicherheits-, Justiz- und Sportdirektion zu, so kann ein höherer Betrag ausgerichtet werden. Dieser Betrag darf jedoch das Doppelte des ordentlichen Höchstbetrags nicht übersteigen.
 
 <sup>3</sup> Gegen den Entscheid über die Ausrichtung und den Betrag der Belohnung kann keine Beschwerde geführt werden.
 
@@ -865,7 +865,7 @@ beschliesst:
 
 <sup>1</sup> Die gemäss diesem Abschnitt 2 geschuldeten Entschädigungen werden vom Amt für Personal und Organisation aufgrund einer monatlichen Abrechnung überwiesen, welche die betroffenen Behörden dem Amt für Justiz zustellen.
 
-<sup>2</sup> Die Sicherheits- und Justizdirektion passt die Entschädigungen an die Entwicklung des Index der Konsumentenpreise an. Die Anpassung wird am Ende einer Legislaturperiode, Ende November, berechnet (Basis-Index: Dezember 2014 = 100 Pkt.); sie tritt in der folgenden Legislaturperiode in Kraft.
+<sup>2</sup> Die Sicherheits-, Justiz- und Sportdirektion passt die Entschädigungen an die Entwicklung des Index der Konsumentenpreise an. Die Anpassung wird am Ende einer Legislaturperiode, Ende November, berechnet (Basis-Index: Dezember 2014 = 100 Pkt.); sie tritt in der folgenden Legislaturperiode in Kraft.
 
 ## 3 Schlussbestimmungen
 

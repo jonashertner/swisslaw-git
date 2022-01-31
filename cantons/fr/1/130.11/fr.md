@@ -4,13 +4,13 @@ number: "130.11"
 title: Règlement sur la justice
 short: RJ
 language: fr
-version: 2018-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-09-19
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/130.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5899/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7246/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Justice – R
 
 (RJ)
 
-du 30.11.2010 (version entrée en vigueur le 01.01.2018)
+du 30.11.2010 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -68,7 +68,7 @@ Arrête:
 
 **Mesures de protection (art. 146 LJ et 156 CPP)**
 
-<sup>1</sup> La Direction de la sécurité et de la justice prend toute mesure qui lui paraît adéquate, après avoir entendu le Ministère public, pour protéger des personnes qui restent menacées au terme d'une procédure. Elle peut au besoin requérir la collaboration de la police.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport prend toute mesure qui lui paraît adéquate, après avoir entendu le Ministère public, pour protéger des personnes qui restent menacées au terme d'une procédure. Elle peut au besoin requérir la collaboration de la police.
 
 <sup>2</sup> Le Ministère public informe immédiatement la Direction de la nécessité de prendre des mesures de protection.
 
@@ -100,7 +100,7 @@ Arrête:
 
 <sup>1</sup> Le montant de la récompense accordée en cas de participation du public aux recherches est fixé entre 100 et 5000 francs.
 
-<sup>2</sup> Si des circonstances exceptionnelles le justifient et avec l'accord de la Direction de la sécurité et de la justice, un montant supérieur peut être octroyé. Ce montant ne doit toutefois pas excéder le double du maximum ordinaire.
+<sup>2</sup> Si des circonstances exceptionnelles le justifient et avec l'accord de la Direction de la sécurité, de la justice et du sport, un montant supérieur peut être octroyé. Ce montant ne doit toutefois pas excéder le double du maximum ordinaire.
 
 <sup>3</sup> La décision sur l'octroi et le montant de la récompense n'est pas sujette à recours.
 
@@ -865,7 +865,7 @@ Arrête:
 
 <sup>1</sup> Les indemnités dues en vertu de la section 2 sont versées par le Service du personnel et d'organisation, sur la base d'un décompte mensuel adressé par les autorités concernées au Service de la justice.
 
-<sup>2</sup> La Direction de la sécurité et de la justice adapte les indemnités à l'évolution de l'indice des prix à la consommation. Cette adaptation est calculée à la fin d'une législature, en novembre (indice de base: décembre 2014 = 100 pts); elle prend effet pour la législature suivante.
+<sup>2</sup> La Direction de la sécurité, de la justice et du sport adapte les indemnités à l'évolution de l'indice des prix à la consommation. Cette adaptation est calculée à la fin d'une législature, en novembre (indice de base: décembre 2014 = 100 pts); elle prend effet pour la législature suivante.
 
 ## 3 Dispositions finales
 
