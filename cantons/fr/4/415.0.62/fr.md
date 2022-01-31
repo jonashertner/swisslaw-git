@@ -3,19 +3,20 @@ canton: FR
 number: "415.0.62"
 title: Arrêté fixant le statut des maîtres qui enseignent dans les classes spéciales relevant des communes
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
+version: 2022-02-01
+valid_until: 2023-07-30
+version_adopted: 2022-03-04
 adopted: 1979-07-13
 in_force: 1979-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/415.0.62"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5188/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7302/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Arrêté fixant le statut des maîtres qui enseignent dans les classes spéciales relevant des communes
 
-du 13.07.1979 (version entrée en vigueur le 01.01.2003)
+du 13.07.1979 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -47,7 +48,7 @@ Arrête:
 
 #### Art. 2
 
-<sup>1</sup> Le personnel enseignant spécialisé des écoles citées à l'article premier est engagé par la Direction de l'instruction publique, de la culture et du sport, sur préavis du comité de gestion de l'école, de l'inspecteur scolaire concerné et, en ce qui concerne l'application des directives de l'Office fédéral des assurances sociales, de la Direction de la santé et des affaires sociales.
+<sup>1</sup> Le personnel enseignant spécialisé des écoles citées à l'article premier est engagé par la Direction de la formation et des affaires culturelles, sur préavis du comité de gestion de l'école, de l'inspecteur scolaire concerné et, en ce qui concerne l'application des directives de l'Office fédéral des assurances sociales, de la Direction de la santé et des affaires sociales.
 
 <sup>2</sup> Il fait partie du corps enseignant primaire aux statuts et obligations duquel il est soumis, sous réserve d'une classification des fonctions qui lui est propre.
 
@@ -55,7 +56,7 @@ Arrête:
 
 <sup>1</sup> Pour être engagé, le personnel enseignant spécialisé doit, toutes les autres conditions étant remplies, être détenteur du diplôme de capacité pour l'enseignement spécialisé ou, pour les maîtres qui ont achevé leur formation avant 1975, du diplôme de pédagogie curative, délivré par l'Institut de pédagogie curative de l'Université de Fribourg.
 
-<sup>2</sup> Les autres diplômes peuvent faire l'objet d'un examen en vue de leur reconnaître l'équivalence. La Direction de l'instruction publique, de la culture et du sport décide, sur préavis de l'inspecteur scolaire concerné et d'experts.
+<sup>2</sup> Les autres diplômes peuvent faire l'objet d'un examen en vue de leur reconnaître l'équivalence. La Direction de la formation et des affaires culturelles décide, sur préavis de l'inspecteur scolaire concerné et d'experts.
 
 #### Art. 4
 

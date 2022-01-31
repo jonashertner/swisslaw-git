@@ -3,19 +3,20 @@ canton: FR
 number: "415.0.62"
 title: "Beschluss der das Statut des Lehrpersonals festsetzt, das in Sonderschulen der Gemeinden unterrichtet"
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
+version: 2022-02-01
+valid_until: 2023-07-30
+version_adopted: 2022-03-04
 adopted: 1979-07-13
 in_force: 1979-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/415.0.62"
-pdf: "https://bdlf.fr.ch/api/de/versions/5188/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7302/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss der das Statut des Lehrpersonals festsetzt, das in Sonderschulen der Gemeinden unterrichtet
 
-vom 13.07.1979 (Fassung in Kraft getreten am 01.01.2003)
+vom 13.07.1979 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -47,7 +48,7 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Das Lehrpersonal der in Artikel 1 erwähnten Sonderschulen wird von der Direktion für Erziehung, Kultur und Sport angestellt, nach Einholen des Gutachtens des Schulvorstandes, des Schulinspektors und der Direktion für Gesundheit und Soziales, gemäss Anwendung der Verordnungen des Bundesamtes für Sozialversicherung.
+<sup>1</sup> Das Lehrpersonal der in Artikel 1 erwähnten Sonderschulen wird von der Direktion für Bildung und kulturelle Angelegenheiten angestellt, nach Einholen des Gutachtens des Schulvorstandes, des Schulinspektors und der Direktion für Gesundheit und Soziales, gemäss Anwendung der Verordnungen des Bundesamtes für Sozialversicherung.
 
 <sup>2</sup> Es gehört zum Lehrpersonal der Primarschulen. Unter Vorbehalt einer eigenen Einreihung der Funktion hat es dessen Statut und Pflichten.
 
@@ -55,7 +56,7 @@ beschliesst:
 
 <sup>1</sup> Um angestellt zu werden, müssen die Sonderschullehrer nebst den anderen Erfordernissen im Besitze eines Diploms für Sonderschulunterricht sein oder, sofern die Lehrpersonen ihre Ausbildung vor 1975 vollendet haben, eines Diploms in Heilpädagogik, das vom Heilpädagogischen Institut der Universität Freiburg verliehen wird.
 
-<sup>2</sup> Die andern Diplome können hinsichtlich einer Anerkennung der Gleichwertigkeit überprüft werden. Die Direktion für Erziehung, Kultur und Sport entscheidet, nach Anhören des zuständigen Schulinspektors und von Experten.
+<sup>2</sup> Die andern Diplome können hinsichtlich einer Anerkennung der Gleichwertigkeit überprüft werden. Die Direktion für Bildung und kulturelle Angelegenheiten entscheidet, nach Anhören des zuständigen Schulinspektors und von Experten.
 
 #### Art. 4
 
