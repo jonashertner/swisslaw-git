@@ -4,13 +4,13 @@ number: "710.11"
 title: Ausführungsreglement zum Raumplanungs- und Baugesetz
 short: RPBR
 language: de
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-11-05
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6414/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7342/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Raumplanungs- und Baugesetz – R
 
 (RPBR)
 
-vom 01.12.2009 (Fassung in Kraft getreten am 01.01.2020)
+vom 01.12.2009 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -49,7 +49,7 @@ beschliesst:
 - b) sorgt dafür, dass sämtliche Informationen, die erforderlich sind, um die Gesetzesmässigkeit des Projekts zu überprüfen, eingeholt werden;
 - c) achtet auf eine inhaltliche Abstimmung der verschiedenen Verfügungen, so dass sich diese nicht widersprechen.
 
-<sup>3</sup> Bevor über Einsprachen, Beschwerden, Pläne und Reglemente oder Baubewilligungsgesuche entschieden wird, nehmen die Raumplanungs-, Bau- und Umweltdirektion (die Direktion), die Oberamtsperson und die Gemeinde eine Abwägung der betroffenen Interessen vor. In der Begründung zum Hauptentscheid ist allfälligen abweichenden Standpunkten der angehörten Amtsstellen und Organe Rechnung zu tragen.
+<sup>3</sup> Bevor über Einsprachen, Beschwerden, Pläne und Reglemente oder Baubewilligungsgesuche entschieden wird, nehmen die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (die Direktion), die Oberamtsperson und die Gemeinde eine Abwägung der betroffenen Interessen vor. In der Begründung zum Hauptentscheid ist allfälligen abweichenden Standpunkten der angehörten Amtsstellen und Organe Rechnung zu tragen.
 
 <sup>4</sup> Die anderen im Laufe des Verfahrens getroffenen Verfügungen werden gleichzeitig mit dem Hauptentscheid eröffnet.
 

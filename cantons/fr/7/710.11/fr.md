@@ -4,13 +4,13 @@ number: "710.11"
 title: "Règlement d'exécution de la loi sur l'aménagement du territoire et les constructions"
 short: ReLATeC
 language: fr
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-11-05
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6414/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7342/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Aménagement du territoire et constructions – R
 
 (ReLATeC)
 
-du 01.12.2009 (version entrée en vigueur le 01.01.2020)
+du 01.12.2009 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -49,7 +49,7 @@ Arrête:
 - b) veille à recueillir toutes les informations nécessaires à l'examen de la conformité légale du projet;
 - c) veille à assurer une concordance matérielle des différentes décisions, de façon qu'elles ne soient pas contradictoires.
 
-<sup>3</sup> La Direction de l'aménagement, de l'environnement et des constructions (ci-après: la Direction), le préfet, la commune effectuent la pondération des intérêts en présence avant de statuer sur les oppositions ou sur les recours et de rendre leurs décisions sur les plans et règlements ou sur les demandes de permis. Les motifs de la décision principale doivent rendre compte des éventuels avis divergents des services et organes consultés.
+<sup>3</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: la Direction), le préfet, la commune effectuent la pondération des intérêts en présence avant de statuer sur les oppositions ou sur les recours et de rendre leurs décisions sur les plans et règlements ou sur les demandes de permis. Les motifs de la décision principale doivent rendre compte des éventuels avis divergents des services et organes consultés.
 
 <sup>4</sup> Les autres décisions rendues dans le cours de la procédure sont notifiées simultanément à la décision principale.
 
