@@ -3,20 +3,20 @@ canton: FR
 number: "550.12"
 title: Verordnung über die Massnahmen zur Wahrung der inneren Sicherheit und über den Nachrichtendienst
 language: de
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-08-20
+version: 2022-02-01
+valid_until: 2023-01-31
+version_adopted: 2022-03-11
 adopted: 2019-08-20
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/550.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6093/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7330/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Massnahmen zur Wahrung der inneren Sicherheit und über den Nachrichtendienst
 
-vom 20.08.2019 (Fassung in Kraft getreten am 01.01.2020)
+vom 20.08.2019 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -40,7 +40,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion (die Direktion) ist zuständig für die Ausführung der Bundesgesetzgebung über die Massnahmen zur Wahrung der inneren Sicherheit und der Bundesgesetzgebung über den Nachrichtendienst.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion (die Direktion) ist zuständig für die Ausführung der Bundesgesetzgebung über die Massnahmen zur Wahrung der inneren Sicherheit und der Bundesgesetzgebung über den Nachrichtendienst.
 
 #### Art. 2
 

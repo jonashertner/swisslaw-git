@@ -3,20 +3,20 @@ canton: FR
 number: "550.12"
 title: Ordonnance sur les mesures visant au maintien de la sûreté intérieure et sur le renseignement
 language: fr
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-08-20
+version: 2022-02-01
+valid_until: 2023-01-31
+version_adopted: 2022-03-11
 adopted: 2019-08-20
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/550.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6093/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7330/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur les mesures visant au maintien de la sûreté intérieure et sur le renseignement
 
-du 20.08.2019 (version entrée en vigueur le 01.01.2020)
+du 20.08.2019 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -40,7 +40,7 @@ Arrête:
 
 **Champ d'application**
 
-<sup>1</sup> L'application de la législation fédérale sur les mesures visant au maintien de la sûreté intérieure et de la législation fédérale sur le renseignement incombe à la Direction de la sécurité et de la justice (ci-après: la Direction).
+<sup>1</sup> L'application de la législation fédérale sur les mesures visant au maintien de la sûreté intérieure et de la législation fédérale sur le renseignement incombe à la Direction de la sécurité, de la justice et du sport (ci-après: la Direction).
 
 #### Art. 2
 
