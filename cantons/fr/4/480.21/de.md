@@ -3,13 +3,12 @@ canton: FR
 number: "480.21"
 title: Verordnung über das immaterielle Kulturerbe
 language: de
-version: 2020-10-01
-valid_until: 2022-01-31
-version_adopted: 2020-09-08
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2020-09-08
 in_force: 2020-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/480.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/6595/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6595/pdf_file"
 
 Immaterielles Kulturerbe – V
 
-vom 08.09.2020 (Fassung in Kraft getreten am 01.10.2020)
+vom 08.09.2020 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -120,7 +119,7 @@ beschliesst:
 
 **Aufträge – Verfahren und Zuständigkeiten**
 
-<sup>1</sup> Die Direktion für Erziehung, Kultur und Sport (die Direktion) kann gegebenenfalls auf Antrag der Kommission einen schriftlichen Auftrag an einen Dritten, insbesondere für Forschung und Dokumentation, zu einem oder mehreren Themen oder Projekten im Zusammenhang mit dem immateriellen Kulturerbe festlegen und erteilen.
+<sup>1</sup> Die Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) kann gegebenenfalls auf Antrag der Kommission einen schriftlichen Auftrag an einen Dritten, insbesondere für Forschung und Dokumentation, zu einem oder mehreren Themen oder Projekten im Zusammenhang mit dem immateriellen Kulturerbe festlegen und erteilen.
 
 #### Art. 9
 

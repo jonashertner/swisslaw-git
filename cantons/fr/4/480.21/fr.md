@@ -3,13 +3,12 @@ canton: FR
 number: "480.21"
 title: Ordonnance relative au patrimoine culturel immatériel
 language: fr
-version: 2020-10-01
-valid_until: 2022-01-31
-version_adopted: 2020-09-08
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2020-09-08
 in_force: 2020-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/480.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6595/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7313/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6595/pdf_file"
 
 Patrimoine culturel immatériel – O
 
-du 08.09.2020 (version entrée en vigueur le 01.10.2020)
+du 08.09.2020 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -120,7 +119,7 @@ Arrête
 
 **Mandats – Procédure et compétence**
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) peut, le cas échéant sur la proposition de la Commission, définir et octroyer un mandat écrit à un tiers, notamment de recherche et documentation, sur un ou des thèmes ou projets relatifs au patrimoine culturel immatériel.
+<sup>1</sup> La Direction de la formation et des affaires culturelles (ci-après: la Direction) peut, le cas échéant sur la proposition de la Commission, définir et octroyer un mandat écrit à un tiers, notamment de recherche et documentation, sur un ou des thèmes ou projets relatifs au patrimoine culturel immatériel.
 
 #### Art. 9
 
