@@ -4,13 +4,13 @@ number: VI C/1/1
 title: Steuergesetz
 short: StG
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
+version: 2022-02-01
+valid_until: 2022-12-31
 version_adopted: 2021-09-05
 adopted: 2000-05-07
 in_force: 2001-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2262/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2264/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2262/pdf_file"
 
 (StG)
 
-Vom 07.05.2000 (Stand 01.01.2022)
+Vom 07.05.2000 (Stand 01.02.2022)
 
 (Erlassen von der Landsgemeinde am 7. Mai 2000)
 
@@ -2286,7 +2286,7 @@ Vom 07.05.2000 (Stand 01.01.2022)
 
 #### Art. 165a
 
-<sup>1</sup> Der Steuerpflichtige kann gegen den Einspracheentscheid innert 30 Tagen nach Zustellung bei einer von der Steuerbehörde unabhängigen Steuerrekurskommission schriftlich Beschwerde erheben.
+<sup>1</sup> Der Steuerpflichtige kann gegen den Einspracheentscheid innert 30 Tagen nach Zustellung bei einer von der Steuerbehörde unabhängigen Steuerrekurskommission schriftlich Beschwerde erheben. Die Vorschriften von Artikel 90 des Gesetzes über die Verwaltungsrechtspflege finden dabei keine Anwendung.
 
 <sup>2</sup> Die Beschwerde ist zu begründen. Es können alle Mängel des angefochtenen Entscheides und des vorangegangenen Verfahrens gerügt werden.
 
@@ -2300,7 +2300,7 @@ Vom 07.05.2000 (Stand 01.01.2022)
 
 **Beschwerdefrist und Klagebefugnis**
 
-<sup>1</sup> Gegen den Beschwerdeentscheid der Steuerrekurskommission können der Steuerpflichtige und die Veranlagungsbehörde innert 30 Tagen nach Zustellung Verwaltungsgerichtsbeschwerde im Sinne von Artikel 105 des Gesetzes über die Verwaltungsrechtspflege erheben.
+<sup>1</sup> Gegen den Beschwerdeentscheid der Steuerrekurskommission können der Steuerpflichtige und die Veranlagungsbehörde innert 30 Tagen nach Zustellung Verwaltungsgerichtsbeschwerde im Sinne von Artikel 105 des Gesetzes über die Verwaltungsrechtspflege erheben. Die Vorschriften von Artikel 90 des Gesetzes über die Verwaltungsrechtspflege finden dabei keine Anwendung.
 
 <sup>2</sup> Im Verfahren bei Erhebung der Quellensteuer steht das Beschwerderecht auch dem Schuldner der steuerbaren Leistung zu.
 
@@ -2635,7 +2635,7 @@ Vom 07.05.2000 (Stand 01.01.2022)
 
 **Beschwerde**
 
-<sup>1</sup> Gegen den Entscheid der kantonalen Steuerverwaltung kann der Steuerpflichtige innert 30 Tagen nach Zustellung unmittelbar Beschwerde beim Verwaltungsgericht erheben.
+<sup>1</sup> Gegen den Entscheid der kantonalen Steuerverwaltung kann der Steuerpflichtige innert 30 Tagen nach Zustellung unmittelbar Beschwerde beim Verwaltungsgericht erheben. Die Vorschriften von Artikel 90 des Gesetzes über die Verwaltungsrechtspflege finden dabei keine Anwendung.
 
 <sup>2</sup> …
 
