@@ -4,13 +4,13 @@ number: "140.22"
 title: Règlement sur les agglomérations
 short: RAgg
 language: fr
-version: 2021-09-01
-valid_until: 2022-01-31
-version_adopted: 2021-08-17
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 2021-08-17
 in_force: 2021-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/140.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6898/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7249/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Agglomérations – R
 
 (RAgg)
 
-du 17.08.2021 (version entrée en vigueur le 01.09.2021)
+du 17.08.2021 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -35,7 +35,7 @@ Arrête:
 
 **Accompagnement des projets d'agglomération**
 
-<sup>1</sup> La Direction chargée de la mise en œuvre de la politique fédérale des agglomérations, soit la Direction de l'aménagement, de l'environnement et des constructions (ci-après: la Direction), est associée aux travaux relatifs à l'élaboration des projets d'agglomération. Elle est informée et consultée sur leur évolution, en particulier pour ce qui concerne les mesures d'importance cantonale ou suprarégionale.
+<sup>1</sup> La Direction chargée de la mise en œuvre de la politique fédérale des agglomérations, soit la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: la Direction), est associée aux travaux relatifs à l'élaboration des projets d'agglomération. Elle est informée et consultée sur leur évolution, en particulier pour ce qui concerne les mesures d'importance cantonale ou suprarégionale.
 
 <sup>2</sup> Les projets d'agglomération doivent faire l'objet d'un examen préalable et d'une mise en consultation publique. Ils contiennent notamment une estimation des coûts des mesures permettant à l'Etat d'évaluer sa participation financière.
 

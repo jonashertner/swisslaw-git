@@ -4,13 +4,13 @@ number: "140.22"
 title: Reglement über die Agglomerationen
 short: AggR
 language: de
-version: 2021-09-01
-valid_until: 2022-01-31
-version_adopted: 2021-08-17
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 2021-08-17
 in_force: 2021-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/140.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/6898/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7249/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Agglomerationen – R
 
 (AggR)
 
-vom 17.08.2021 (Fassung in Kraft getreten am 01.09.2021)
+vom 17.08.2021 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -35,7 +35,7 @@ beschliesst:
 
 **Betreuung von Agglomerationsprogrammen**
 
-<sup>1</sup> Die mit der Umsetzung der Agglomerationspolitik des Bundes beauftragte Direktion, d. h. die Raumplanungs-, Umwelt- und Baudirektion (die Direktion), wird an den Arbeiten zur Ausarbeitung der Agglomerationsprogramme beteiligt. Sie wird über ihre Entwicklung informiert und angehört, insbesondere was die Massnahmen von kantonaler oder überregionaler Bedeutung betrifft.
+<sup>1</sup> Die mit der Umsetzung der Agglomerationspolitik des Bundes beauftragte Direktion, d. h. die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (die Direktion), wird an den Arbeiten zur Ausarbeitung der Agglomerationsprogramme beteiligt. Sie wird über ihre Entwicklung informiert und angehört, insbesondere was die Massnahmen von kantonaler oder überregionaler Bedeutung betrifft.
 
 <sup>2</sup> Die Agglomerationsprogramme müssen einer Vorprüfung unterzogen und in die öffentliche Vernehmlassung gegeben werden. Sie enthalten insbesondere eine Kostenschätzung der Massnahmen, die es dem Staat erlaubt, seine finanzielle Beteiligung zu veranschlagen.
 
