@@ -4,13 +4,13 @@ number: "261.11"
 title: "Règlement d'exécution de la loi du 20 septembre 1967 sur le notariat"
 short: RN
 language: fr
-version: 2021-09-01
-valid_until: 2022-01-31
-version_adopted: 2021-06-15
+version: 2022-02-01
+valid_until: 2023-04-30
+version_adopted: 2022-02-25
 adopted: 1986-10-07
 in_force: 1986-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/261.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6878/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7273/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Notariat – R
 
 (RN)
 
-du 07.10.1986 (version entrée en vigueur le 01.09.2021)
+du 07.10.1986 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -87,7 +87,7 @@ Arrête:
 
 **Assurance-responsabilité civile (art. 11 LN)**
 
-<sup>1</sup> Le notaire doit conclure une assurance-responsabilité civile pour un montant minimal de 5 millions de francs. La Direction de la sécurité et de la justice peut adapter ce montant à l'évolution du coût de la vie.
+<sup>1</sup> Le notaire doit conclure une assurance-responsabilité civile pour un montant minimal de 5 millions de francs. La Direction de la sécurité, de la justice et du sport peut adapter ce montant à l'évolution du coût de la vie.
 
 <sup>2</sup> La suppression ou la réduction de l'assurance-responsabilité civile doit être annoncée par la compagnie d'assurance à la Commission.
 

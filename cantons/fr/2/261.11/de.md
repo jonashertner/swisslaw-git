@@ -4,13 +4,13 @@ number: "261.11"
 title: Reglement zur Ausführung des Gesetzes vom 20. September 1967 über das Notariat
 short: NR
 language: de
-version: 2021-09-01
-valid_until: 2022-01-31
-version_adopted: 2021-06-15
+version: 2022-02-01
+valid_until: 2023-04-30
+version_adopted: 2022-02-25
 adopted: 1986-10-07
 in_force: 1986-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/261.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6878/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7273/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Notariat – R
 
 (NR)
 
-vom 07.10.1986 (Fassung in Kraft getreten am 01.09.2021)
+vom 07.10.1986 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -87,7 +87,7 @@ beschliesst:
 
 **Haftpflichtversicherung (Art. 11 NG)**
 
-<sup>1</sup> Ein Notar muss eine Haftpflichtversicherung über einen Mindestbetrag von 5 Millionen Franken abschliessen. Die Sicherheits- und Justizdirektion kann diesen Betrag der Entwicklung der Lebenshaltungskosten anpassen.
+<sup>1</sup> Ein Notar muss eine Haftpflichtversicherung über einen Mindestbetrag von 5 Millionen Franken abschliessen. Die Sicherheits-, Justiz- und Sportdirektion kann diesen Betrag der Entwicklung der Lebenshaltungskosten anpassen.
 
 <sup>2</sup> Die Versicherungsgesellschaft muss der Kommission die Auflösung dieser Haftpflichtversicherung und jede Verminderung der Versicherungssumme melden.
 
