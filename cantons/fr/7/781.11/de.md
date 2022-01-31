@@ -3,13 +3,13 @@ canton: FR
 number: "781.11"
 title: Ausführungsbeschluss zum Gesetz zur Ausführung der Bundesgesetzgebung über den Strassenverkehr
 language: de
-version: 2006-03-01
-valid_until: 2022-01-31
-version_adopted: 2006-03-28
+version: 2022-02-01
+valid_until: 2022-06-30
+version_adopted: 2022-03-18
 adopted: 1999-07-06
 in_force: 1999-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/781.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5409/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7363/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5409/pdf_file"
 
 Strassenverkehr – B
 
-vom 06.07.1999 (Fassung in Kraft getreten am 01.03.2006)
+vom 06.07.1999 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -49,7 +49,7 @@ beschliesst:
 - e) Es fördert die Unfallverhütung im Strassenverkehr und trifft diesbezüglich alle nützlichen Vorkehrungen.
 - f) Es ist die zuständige Behörde auf dem Gebiet der Haftpflichtversicherung für Fahrzeuge.
 - g) Es erteilt und entzieht die Sonderbewilligungen für die Benützung und die Ausrüstung von Fahrzeugen, die Ausnahmefahrzeuge und die Ausnahmetransporte.
-- h) Es erteilt und entzieht, nach Anhören der Gendarmerie und gegebenenfalls der Raumplanungs-, Umwelt- und Baudirektion , die Bewilligungen für die Versuchsfahrten, die öffentlichen motor- und radsportlichen Veranstaltungen sowie die übrigen sportlichen Veranstaltungen, die ganz oder teilweise auf öffentlichen Strassen stattfinden. Sind Interessen im Bereich der Jagd und des Schutzes der wild lebenden Säugetiere und Vögel und ihrer Lebensräume betroffen, so ist die Zustimmung der Direktion der Institutionen und der Land- und Forstwirtschaft erforderlich.
+- h) Es erteilt und entzieht, nach Anhören der Gendarmerie und gegebenenfalls der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt, die Bewilligungen für die Versuchsfahrten, die öffentlichen motor- und radsportlichen Veranstaltungen sowie die übrigen sportlichen Veranstaltungen, die ganz oder teilweise auf öffentlichen Strassen stattfinden. Sind Interessen im Bereich der Jagd und des Schutzes der wild lebenden Säugetiere und Vögel und ihrer Lebensräume betroffen, so ist die Zustimmung der Direktion der Institutionen und der Land- und Forstwirtschaft erforderlich.
 - i) Es bewilligt in Anwendung des Gesetzes über die Reklamen die Montierung von Lautsprechern auf Fahrzeugen bei Lautsprecherwerbung auf einer Fahrt durch mehrere Bezirke.
 
 <sup>1<sup>bis</sup></sup> Es erteilt und entzieht die Bewilligungen im Zusammenhang mit Parkierungserleichterungen für gehbehinderte Personen gemäss den Richtlinien der Interkantonalen Kommission für den Strassenverkehr betreffend Parkierungserleichterungen für Gehbehinderte. Diese Richtlinien können bei der zuständigen Behörde eingesehen werden.
@@ -58,9 +58,9 @@ beschliesst:
 
 #### Art. 3
 
-**Raumplanungs-, Umwelt- und Baudirektion**
+**Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt**
 
-<sup>1</sup> Zusätzlich zu den Befugnissen nach Artikel 5 AGSVG und diesem Beschluss ist die Raumplanungs-, Umwelt- und Baudirektion, unter Vorbehalt der dem ASS und der Gendarmerie übertragenen Befugnisse, zuständig, den Verkehr auf Strassen und öffentlichem Verkehrsgelände in Privatbesitz für eine zeitlich beschränkte Zeit zu verbieten, einzuschränken oder zu regeln.
+<sup>1</sup> Zusätzlich zu den Befugnissen nach Artikel 5 AGSVG und diesem Beschluss ist die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt, unter Vorbehalt der dem ASS und der Gendarmerie übertragenen Befugnisse, zuständig, den Verkehr auf Strassen und öffentlichem Verkehrsgelände in Privatbesitz für eine zeitlich beschränkte Zeit zu verbieten, einzuschränken oder zu regeln.
 
 <sup>2</sup> Sie genehmigt, gemäss Bundesrecht, die zeitlich beschränkten Massnahmen, welche die Gendarmerie in Anwendung von Artikel 3 Abs. 6 SVG getroffen hat.
 
@@ -73,7 +73,7 @@ beschliesst:
 <sup>1</sup> Zusätzlich zu den Befugnissen nach Artikel 7 AGSVG und diesem Beschluss übt die Gendarmerie folgende Aufgaben und Befugnisse aus:
 
 - a) Sie fördert die Unfallverhütung im Strassenverkehr und trifft diesbezüglich alle nützlichen Vorkehrungen.
-- b) Sie vermittelt in Zusammenarbeit mit der Raumplanungs-, Umwelt- und Baudirektion die Verkehrsinformationen nach den Bestimmungen des Bundesrechts.
+- b) Sie vermittelt in Zusammenarbeit mit der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt die Verkehrsinformationen nach den Bestimmungen des Bundesrechts.
 - c) Sie ist die Vollzugsbehörde im Sinne der Verordnungen über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer und -führerinnen.
 - d) Sie gibt den Gemeinden die nötigen Anweisungen zur Anwendung der Gesetzgebung über die Ordnungsbussen.
 
