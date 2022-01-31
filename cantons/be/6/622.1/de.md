@@ -4,13 +4,13 @@ number: "622.1"
 title: Gesetz über die Finanzkontrolle
 short: "Kantonales Finanzkontrollgesetz, KFKG"
 language: de
-version: 2021-07-01
-valid_until: 2022-01-31
-version_adopted: 2021-04-07
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-08
 adopted: 2022-03-07
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/622.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2267/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2463/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2267/pdf_file"
 
 (Kantonales Finanzkontrollgesetz, KFKG)
 
-vom 01.12.1999 (Stand 01.07.2021)
+vom 01.12.1999 (Stand 01.02.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -219,6 +219,8 @@ beschliesst:
 <sup>3</sup> Es besteht kein Anspruch auf Abklärung des gemeldeten Sachverhalts.
 
 <sup>4</sup> Die Meldestelle behandelt die Meldungen vertraulich. Ohne Einverständnis der meldenden Mitarbeiterin oder des meldenden Mitarbeiters gibt sie keine Informationen zu deren oder dessen Person bekannt.
+
+<sup>5</sup> Im Einvernehmen mit der Finanzkontrolle kann der Regierungsrat durch Verordnung vorsehen, dass die Finanzkontrolle Aufgaben gemäss Absatz 1 auch für die Mitarbeiterinnen und Mitarbeiter anderer Behörden wahrnimmt.
 
 ## 6 Geschäftsverkehr
 

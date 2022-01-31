@@ -4,13 +4,13 @@ number: "622.1"
 title: Loi cantonale sur le Contrôle des finances
 short: LCCF
 language: fr
-version: 2021-07-01
-valid_until: 2022-01-31
-version_adopted: 2021-04-07
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-08
 adopted: 2022-03-07
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/622.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2267/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2463/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2267/pdf_file"
 
 (LCCF)
 
-du 01.12.1999 (état au 01.07.2021)
+du 01.12.1999 (état au 01.02.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -219,6 +219,8 @@ arrête:
 <sup>3</sup> Nul ne peut faire valoir le droit à la clarification d'une irrégularité signalée.
 
 <sup>4</sup> Le service d'enregistrement traite les avis de manière confidentielle. Il ne révèle aucune information concernant le collaborateur ou la collaboratrice qui l'a avisé sans l'accord de cette personne.
+
+<sup>5</sup> D'entente avec le Contrôle des finances, le Conseil-exécutif peut prévoir par voie d'ordonnance que le Contrôle des finances assume aussi pour les collaborateurs et collaboratrices d'autres autorités les tâches mentionnées à l'alinéa 1.
 
 ## 6 Relations avec les autorités et les institutions
 
