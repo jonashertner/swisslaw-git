@@ -4,13 +4,12 @@ number: "420.11"
 title: Reglement über die Berufsbildung
 short: BBiR
 language: de
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-12-10
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2010-03-23
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/420.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6420/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7304/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Berufsbildung – R
 
 (BBiR)
 
-vom 23.03.2010 (Fassung in Kraft getreten am 01.01.2020)
+vom 23.03.2010 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -39,7 +38,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Berufsbildung (das Amt) kann Weisungen und Empfehlungen über die Anwendung der Gesetzesbestimmungen oder über die interne Organisation der für die Berufsbildung zuständigen Verwaltungseinheiten und Institutionen erlassen.
 
-<sup>2</sup> Das Amt bereitet zuhanden der Volkswirtschaftsdirektion (die Direktion) die Aufträge vor, die mit den Anbietern der Berufsbildung abgeschlossen werden. Diese müssen über ein Qualitätssicherungssystem verfügen.
+<sup>2</sup> Das Amt bereitet zuhanden der Volkswirtschafts- und Berufsbildungsdirektion (die Direktion) die Aufträge vor, die mit den Anbietern der Berufsbildung abgeschlossen werden. Diese müssen über ein Qualitätssicherungssystem verfügen.
 
 <sup>3</sup> Das Amt kann alle Massnahmen zur Betreuung und Begleitung treffen, um den Lernenden den Abschluss ihrer Ausbildung zu ermöglichen. Es kann insbesondere Betreuungs- oder Begleitungsvereinbarungen aufstellen. Es kann diese Befugnis insbesondere an die Berufsfachschulen, die Lehrwerkstätten und die Schulen mit Praktikum übertragen.
 

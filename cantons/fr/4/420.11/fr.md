@@ -4,13 +4,12 @@ number: "420.11"
 title: Règlement sur la formation professionnelle
 short: RFP
 language: fr
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-12-10
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2010-03-23
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/420.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6420/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7304/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Formation professionnelle – R
 
 (RFP)
 
-du 23.03.2010 (version entrée en vigueur le 01.01.2020)
+du 23.03.2010 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -39,7 +38,7 @@ Arrête:
 
 <sup>1</sup> Le Service de la formation professionnelle (ci-après: le Service) peut émettre des directives et des recommandations portant sur l'application des dispositions légales ou sur l'organisation interne des unités administratives et entités compétentes en matière de formation professionnelle.
 
-<sup>2</sup> Le Service élabore à l'intention de la Direction de l'économie et de l'emploi (ci-après: la Direction) les mandats à confier aux prestataires de la formation professionnelle, lesquels doivent être au bénéfice d'un système qualité.
+<sup>2</sup> Le Service élabore à l'intention de la Direction de l'économie, de l'emploi et de la formation professionnelle (ci-après: la Direction) les mandats à confier aux prestataires de la formation professionnelle, lesquels doivent être au bénéfice d'un système qualité.
 
 <sup>3</sup> Le Service peut prendre toutes les mesures d'encadrement et d'accompagnement permettant aux personnes en formation d'achever leur formation, notamment en établissant des conventions de suivi ou d'encadrement; il peut déléguer cette compétence en particulier aux écoles professionnelles, écoles de métiers et écoles stages.
 
