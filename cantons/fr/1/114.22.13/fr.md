@@ -3,13 +3,12 @@ canton: FR
 number: "114.22.13"
 title: Règlement concernant la détention en matière de droit des étrangers
 language: fr
-version: 2018-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-11-15
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 1997-04-08
 in_force: 1997-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.22.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6391/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8154/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6391/pdf_file"
 
 Détention en matière de droit des étrangers – R
 
-du 08.04.1997 (version entrée en vigueur le 01.01.2018)
+du 08.04.1997 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -480,11 +479,11 @@ Arrête:
 
 **Compétence et procédure**
 
-<sup>1</sup> Les sanctions disciplinaires sont prononcées par le directeur ou son remplaçant. Toutefois, les arrêts en cellule forte d'une durée de dix jours et plus sont prononcés par la Direction de la sécurité et de la justice.
+<sup>1</sup> Les sanctions disciplinaires sont prononcées par le directeur ou son remplaçant. Toutefois, les arrêts en cellule forte d'une durée de dix jours et plus sont prononcés par la Direction de la sécurité, de la justice et du sport.
 
 <sup>2</sup> Les sanctions disciplinaires sont prononcées après audition du détenu. Les sanctions d'arrêts en cellule forte sont notifiées par écrit. Les autres sanctions disciplinaires sont notifiées verbalement; elles sont confirmées par écrit si l'intéressé le demande dans les dix jours.
 
-<sup>3</sup> La Direction de la sécurité et de la justice est avisée des sanctions prononcées; le service médical de la prison est informé lorsqu'une personne subit des arrêts en cellule forte.
+<sup>3</sup> La Direction de la sécurité, de la justice et du sport est avisée des sanctions prononcées; le service médical de la prison est informé lorsqu'une personne subit des arrêts en cellule forte.
 
 <sup>4</sup> Le chef de division, ou ses remplaçants, est compétent pour prendre, avant ou pendant l'enquête, toutes les mesures de sûreté nécessaires afin de garantir le bon déroulement de l'enquête (consignement du détenu en cellule, mesures de contrainte, …); il en avise au plus tôt le directeur ou son remplaçant.
 
@@ -504,15 +503,17 @@ Arrête:
 
 <sup>2</sup> Les plaintes à l'encontre du personnel sont adressées au directeur, oralement ou par écrit; la plainte orale est consignée dans un procès-verbal, signé par le détenu.
 
-<sup>3</sup> Les plaintes contre le directeur sont déposées sous pli fermé auprès de celui-ci, à l'attention de la Direction de la sécurité et de la justice.
+<sup>3</sup> Les plaintes contre le directeur sont déposées sous pli fermé auprès de celui-ci, à l'attention de la Direction de la sécurité, de la justice et du sport.
 
 #### Art. 52
 
 **Recours**
 
-<sup>1</sup> Les décisions du directeur ou de son remplaçant peuvent faire l'objet d'un recours auprès de la Direction de la sécurité et de la justice.
+<sup>1</sup> Les décisions du directeur ou de son remplaçant peuvent faire l'objet d'un recours auprès de la Direction de la sécurité, de la justice et du sport.
 
-<sup>2</sup> Pour le surplus, le code de procédure et de juridiction administrative est applicable.
+<sup>2</sup> Pour le surplus, le code de procédure et de juridiction administrative[^52-1] est applicable.
+
+[^52-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 #### Art. 53
 

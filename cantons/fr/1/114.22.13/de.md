@@ -3,13 +3,12 @@ canton: FR
 number: "114.22.13"
 title: Reglement über den Vollzug der Haft im Bereich des Ausländerrechts
 language: de
-version: 2018-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-11-15
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 1997-04-08
 in_force: 1997-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.22.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/6391/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8154/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6391/pdf_file"
 
 Vollzug der Haft im Bereich des Ausländerrechts – R
 
-vom 08.04.1997 (Fassung in Kraft getreten am 01.01.2018)
+vom 08.04.1997 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -480,11 +479,11 @@ beschliesst:
 
 **Zuständigkeit und Verfahren**
 
-<sup>1</sup> Zuständig zur Verhängung von Disziplinarstrafen ist der Direktor oder seine Stellvertretung. Für die Verhängung eines scharfen Zellenarrests von 10 oder mehr Tagen ist jedoch die Sicherheits- und Justizdirektion zuständig.
+<sup>1</sup> Zuständig zur Verhängung von Disziplinarstrafen ist der Direktor oder seine Stellvertretung. Für die Verhängung eines scharfen Zellenarrests von 10 oder mehr Tagen ist jedoch die Sicherheits-, Justiz- und Sportdirektion zuständig.
 
 <sup>2</sup> Die Disziplinarstrafen werden nach Anhören des Inhaftierten verhängt. Scharfer Zellenarrest wird schriftlich eröffnet. Die übrigen Disziplinarsanktionen werden mündlich eröffnet und, wenn der Betroffene dies innert 10 Tagen verlangt, schriftlich bestätigt.
 
-<sup>3</sup> Die Sicherheits- und Justizdirektion wird über die verhängten Strafen in Kenntnis gesetzt; wird gegen eine Person scharfer Zellenarrest verfügt, so ist auch der Gesundheitsdienst des Gefängnisses zu informieren.
+<sup>3</sup> Die Sicherheits-, Justiz- und Sportdirektion wird über die verhängten Strafen in Kenntnis gesetzt; wird gegen eine Person scharfer Zellenarrest verfügt, so ist auch der Gesundheitsdienst des Gefängnisses zu informieren.
 
 <sup>4</sup> Der Abteilungsleiter oder seine Stellvertreter sind zuständig für alle sichernden Massnahmen, die vor oder während der Ermittlung notwendig sind, um die geordnete Durchführung der Untersuchung zu gewährleisten (Einschliessung der gefangenen Person in der Zelle, Zwangsmassnahmen …); der Direktor oder seine Stellvertretung wird so rasch wie möglich informiert.
 
@@ -504,15 +503,17 @@ beschliesst:
 
 <sup>2</sup> Beschwerden gegen das Personal sind mündlich oder schriftlich beim Direktor einzureichen; über die mündliche Beschwerde wird ein Protokoll aufgenommen, das vom Inhaftierten unterschrieben werden muss.
 
-<sup>3</sup> Beschwerden gegen den Direktor sind diesem in verschlossenem Umschlag zu Handen der Sicherheits- und Justizdirektion einzureichen.
+<sup>3</sup> Beschwerden gegen den Direktor sind diesem in verschlossenem Umschlag zu Handen der Sicherheits-, Justiz- und Sportdirektion einzureichen.
 
 #### Art. 52
 
 **Beschwerde**
 
-<sup>1</sup> Entscheide des Direktors oder seiner Stellvertretung können mit Beschwerde bei der Sicherheits- und Justizdirektion angefochten werden.
+<sup>1</sup> Entscheide des Direktors oder seiner Stellvertretung können mit Beschwerde bei der Sicherheits-, Justiz- und Sportdirektion angefochten werden.
 
-<sup>2</sup> Im Übrigen gilt das Gesetz über die Verwaltungsrechtspflege.
+<sup>2</sup> Im Übrigen gilt das Gesetz über die Verwaltungsrechtspflege[^52-1].
+
+[^52-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 #### Art. 53
 
