@@ -4,13 +4,13 @@ number: "122.0.12"
 title: "Ordonnance fixant les attributions des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 short: OADir
 language: fr
-version: 2021-07-01
-valid_until: 2022-01-31
-version_adopted: 2021-06-28
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-01-31
 adopted: 2002-03-12
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6883/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7117/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Attributions des Directions et de la Chancellerie – O
 
 (OADir)
 
-du 12.03.2002 (version entrée en vigueur le 01.07.2021)
+du 12.03.2002 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -37,21 +37,21 @@ Arrête:
 
 <sup>1</sup> Les Directions du Conseil d'Etat sont:
 
-- a) la Direction de l'instruction publique, de la culture et du sport (DICS);
-- b) la Direction de la sécurité et de la justice (DSJ);
+- a) la Direction de la formation et des affaires culturelles (DFAC);
+- b) la Direction de la sécurité, de la justice et du sport (DSJS);
 - c) la Direction des institutions, de l'agriculture et des forêts (DIAF);
-- d) la Direction de l'économie et de l'emploi (DEE);
+- d) la Direction de l'économie, de l'emploi et de la formation professionnelle (DEEF);
 - e) la Direction de la santé et des affaires sociales (DSAS);
 - f) la Direction des finances (DFIN);
-- g) la Direction de l'aménagement, de l'environnement et des constructions (DAEC).
+- g) la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (DIME).
 
 ## 2 Attributions des Directions et de la Chancellerie d'Etat
 
 #### Art. 2
 
-**Direction de l'instruction publique, de la culture et du sport**
+**Direction de la formation et des affaires culturelles**
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport a dans ses attributions:
+<sup>1</sup> La Direction de la formation et des affaires culturelles a dans ses attributions:
 
 - a) l'enseignement obligatoire;
 - b) l'enseignement du degré secondaire 2 de formation générale;
@@ -65,13 +65,13 @@ Arrête:
 - j) la promotion des activités culturelles;
 - k) les institutions culturelles de l'Etat, à l'exception des Archives de l'Etat;
 - l) la conservation des sites archéologiques et des biens culturels ainsi que la protection des curiosités naturelles mobilières;
-- m) l'éducation physique et la promotion du sport,
+- m) le sport scolaire et les mesures scolaires du programme sports-arts-formation ressortissant de la législation scolaire,
 
 #### Art. 3
 
-**Direction de la sécurité et de la justice**
+**Direction de la sécurité, de la justice et du sport**
 
-<sup>1</sup> La Direction de la sécurité et de la justice a dans ses attributions:
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport a dans ses attributions:
 
 - a) la sécurité et l'ordre publics;
 - b) l'organisation en cas de catastrophe;
@@ -91,6 +91,7 @@ Arrête:
 - n) la surveillance des institutions de prévoyance professionnelle et des fondations,
 - o) l'intégration des migrants et des migrantes et la prévention du racisme;
 - p) la coopération au développement,
+- q) la promotion, le développement et l'encouragement du sport et de l'activité physique ainsi que les mesures favorisant la pratique du sport de haut niveau,
 
 #### Art. 4
 
@@ -119,9 +120,9 @@ Arrête:
 
 #### Art. 5
 
-**Direction de l'économie et de l'emploi**
+**Direction de l'économie, de l'emploi et de la formation professionnelle**
 
-<sup>1</sup> La Direction de l'économie et de l'emploi a dans ses attributions:
+<sup>1</sup> La Direction de l'économie, de l'emploi et de la formation professionnelle a dans ses attributions:
 
 - a) le développement économique;
 - b) la politique de l'emploi et la lutte contre le chômage;
@@ -190,9 +191,9 @@ Arrête:
 
 #### Art. 8
 
-**Direction de l'aménagement, de l'environnement et des constructions**
+**Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement**
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions a dans ses attributions:
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement a dans ses attributions:
 
 - a) l'aménagement du territoire;
 - a<sup>bis</sup>) le développement durable;

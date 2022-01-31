@@ -4,13 +4,13 @@ number: "122.0.12"
 title: Verordnung über die Zuständigkeitsbereiche der Direktionen des Staatsrats und der Staatskanzlei
 short: ZDirV
 language: de
-version: 2021-07-01
-valid_until: 2022-01-31
-version_adopted: 2021-06-28
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-01-31
 adopted: 2002-03-12
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6883/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7117/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Zuständigkeitsbereiche der Direktionen und der Staatskanzlei – V
 
 (ZDirV)
 
-vom 12.03.2002 (Fassung in Kraft getreten am 01.07.2021)
+vom 12.03.2002 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -37,21 +37,21 @@ beschliesst:
 
 <sup>1</sup> Die Direktionen des Staatsrates sind:
 
-- a) die Direktion für Erziehung, Kultur und Sport (EKSD);
-- b) die Sicherheits- und Justizdirektion (SJD);
+- a) die Direktion für Bildung und kulturelle Angelegenheiten (BKAD);
+- b) die Sicherheits-, Justiz- und Sportdirektion (SJSD);
 - c) die Direktion der Institutionen und der Land- und Forstwirtschaft (ILFD);
-- d) die Volkswirtschaftsdirektion (VWD);
+- d) die Volkswirtschafts- und Berufsbildungsdirektion (VWBD);
 - e) die Direktion für Gesundheit und Soziales (GSD);
 - f) die Finanzdirektion (FIND);
-- g) die Raumplanungs-, Umwelt- und Baudirektion (RUBD).
+- g) die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU).
 
 ## 2 Zuständigkeitsbereiche der Direktionen und der Staatskanzlei
 
 #### Art. 2
 
-**Direktion für Erziehung, Kultur und Sport**
+**Direktion für Bildung und kulturelle Angelegenheiten**
 
-<sup>1</sup> Der Zuständigkeitsbereich der Direktion für Erziehung, Kultur und Sport umfasst:
+<sup>1</sup> Der Zuständigkeitsbereich der Direktion für Bildung und kulturelle Angelegenheiten umfasst:
 
 - a) die obligatorische Schule;
 - b) die Allgemeinbildung auf der Sekundarstufe 2;
@@ -65,13 +65,13 @@ beschliesst:
 - j) die Kulturförderung;
 - k) die kulturellen Institutionen des Staates mit Ausnahme des Staatsarchivs;
 - l) die Erhaltung der archäologischen Stätten und der Kulturgüter sowie den Schutz der beweglichen Naturdenkmäler;
-- m) den Sportunterricht und die Sportförderung,
+- m) den Schulsport und die schulischen Massnahmen des Programms Sport-Kunst-Ausbildung gemäss der Schulgesetzgebung,
 
 #### Art. 3
 
-**Sicherheits- und Justizdirektion**
+**Sicherheits-, Justiz- und Sportdirektion**
 
-<sup>1</sup> Der Zuständigkeitsbereich der Sicherheits- und Justizdirektion umfasst:
+<sup>1</sup> Der Zuständigkeitsbereich der Sicherheits-, Justiz- und Sportdirektion umfasst:
 
 - a) die öffentliche Sicherheit und Ordnung;
 - b) die Organisation im Katastrophenfall;
@@ -91,6 +91,7 @@ beschliesst:
 - n) die Aufsicht über die Einrichtungen der beruflichen Vorsorge und die Stiftungen;
 - o) die Integration der Migrantinnen und Migranten und die Rassismusprävention;
 - p) die Entwicklungszusammenarbeit,
+- q) die Förderung und die Entwicklung des Sports, der Bewegung sowie die Massnahmen zur Förderung der Ausübung des Leistungssports,
 
 #### Art. 4
 
@@ -119,9 +120,9 @@ beschliesst:
 
 #### Art. 5
 
-**Volkswirtschaftsdirektion**
+**Volkswirtschafts- und Berufsbildungsdirektion**
 
-<sup>1</sup> Der Zuständigkeitsbereich der Volkswirtschaftsdirektion umfasst:
+<sup>1</sup> Der Zuständigkeitsbereich der Volkswirtschafts- und Berufsbildungsdirektion umfasst:
 
 - a) die Wirtschaftsförderung;
 - b) die Beschäftigungspolitik und die Bekämpfung der Arbeitslosigkeit;
@@ -190,9 +191,9 @@ beschliesst:
 
 #### Art. 8
 
-**Raumplanungs-, Umwelt- und Baudirektion**
+**Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt**
 
-<sup>1</sup> Der Zuständigkeitsbereich der Raumplanungs-, Umwelt- und Baudirektion umfasst:
+<sup>1</sup> Der Zuständigkeitsbereich der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt umfasst:
 
 - a) die Raumplanung;
 - a<sup>bis</sup>) die nachhaltige Entwicklung;
