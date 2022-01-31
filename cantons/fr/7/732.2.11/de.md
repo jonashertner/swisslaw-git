@@ -3,20 +3,19 @@ canton: FR
 number: "732.2.11"
 title: Ausführungsreglement zum Gesetz vom 3. Februar 1966 über die obligatorische Versicherung der Fahrhabe gegen Feuerschäden
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2003-04-08
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1990-10-09
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/732.2.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5375/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsreglement zum Gesetz vom 3. Februar 1966 über die obligatorische Versicherung der Fahrhabe gegen Feuerschäden
 
-vom 09.10.1990 (Fassung in Kraft getreten am 01.01.2003)
+vom 09.10.1990 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -58,7 +57,7 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion übt die Aufsicht im Bereich der obligatorischen Versicherung gegen Feuerschäden aus.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion übt die Aufsicht im Bereich der obligatorischen Versicherung gegen Feuerschäden aus.
 
 #### Art. 6
 

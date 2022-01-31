@@ -3,20 +3,19 @@ canton: FR
 number: "732.2.11"
 title: "Règlement d'exécution de la loi du 3 février 1966 sur l'assurance obligatoire du mobilier contre l'incendie"
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2003-04-08
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1990-10-09
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/732.2.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5375/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7349/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Règlement d'exécution de la loi du 3 février 1966 sur l'assurance obligatoire du mobilier contre l'incendie
 
-du 09.10.1990 (version entrée en vigueur le 01.01.2003)
+du 09.10.1990 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -58,7 +57,7 @@ Arrête:
 
 **Surveillance**
 
-<sup>1</sup> La Direction de la sécurité et de la justice exerce la surveillance en matière d'assurance obligatoire contre l'incendie.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport exerce la surveillance en matière d'assurance obligatoire contre l'incendie.
 
 #### Art. 6
 
