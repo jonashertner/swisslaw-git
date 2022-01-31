@@ -4,13 +4,13 @@ number: "482.11"
 title: Ausführungsreglement zum Gesetz über den Schutz der Kulturgüter
 short: ARKGSG
 language: de
-version: 2012-10-01
-valid_until: 2022-01-31
-version_adopted: 2012-09-25
+version: 2022-02-01
+valid_until: 2022-11-30
+version_adopted: 2022-03-04
 adopted: 1993-08-17
 in_force: 1993-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/482.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6267/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7322/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Kulturgüterschutz – R
 
 (ARKGSG)
 
-vom 17.08.1993 (Fassung in Kraft getreten am 01.10.2012)
+vom 17.08.1993 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -51,7 +51,7 @@ beschliesst:
 
 <sup>1</sup> Das Unterstützungsgesuch ist zusammen mit einer Beschreibung des Projekts, einem detaillierten Voranschlag und einem Finanzierungsplan schriftlich an das Amt für Kulturgüter zu richten. Auf Verlangen hat der Gesuchsteller alle weiteren Auskünfte und Belege nachzuliefern.
 
-<sup>2</sup> Die Direktion für Erziehung, Kultur und Sport (die Direktion) entscheidet auf Antrag der Kulturgüterkommission (die Kommission) über die Gewährung und die Art der Unterstützung.
+<sup>2</sup> Die Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) entscheidet auf Antrag der Kulturgüterkommission (die Kommission) über die Gewährung und die Art der Unterstützung.
 
 <sup>3</sup> Ist die Unterstützung finanzieller Art, so hat sie die Form einer Subvention.
 

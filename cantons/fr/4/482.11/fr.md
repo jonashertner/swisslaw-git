@@ -4,13 +4,13 @@ number: "482.11"
 title: "Règlement d'exécution de la loi sur la protection des biens culturels"
 short: RELPBC
 language: fr
-version: 2012-10-01
-valid_until: 2022-01-31
-version_adopted: 2012-09-25
+version: 2022-02-01
+valid_until: 2022-11-30
+version_adopted: 2022-03-04
 adopted: 1993-08-17
 in_force: 1993-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/482.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6267/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7322/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Protection des biens culturels – R
 
 (RELPBC)
 
-du 17.08.1993 (version entrée en vigueur le 01.10.2012)
+du 17.08.1993 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -51,7 +51,7 @@ Arrête:
 
 <sup>1</sup> La demande d'aide doit être adressée par écrit au Service des biens culturels, accompagnée d'une présentation du projet, d'un budget détaillé et d'un plan de financement. Le requérant fournira, sur demande, tous les autres renseignements et pièces justificatives nécessaires.
 
-<sup>2</sup> La Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) décide de l'octroi de l'aide et en détermine la nature, sur le préavis de la Commission des biens culturels (ci-après: la Commission).
+<sup>2</sup> La Direction de la formation et des affaires culturelles (ci-après: la Direction) décide de l'octroi de l'aide et en détermine la nature, sur le préavis de la Commission des biens culturels (ci-après: la Commission).
 
 <sup>3</sup> Si l'aide est financière, elle revêt la forme de la subvention.
 
