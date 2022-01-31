@@ -3,13 +3,12 @@ canton: FR
 number: "811.11"
 title: Ordonnance sur la protection des sols
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2002-08-20
 in_force: 2002-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/811.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7038/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7400/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7038/pdf_file"
 
 Protection des sols – O
 
-du 20.08.2002 (version entrée en vigueur le 01.01.2022)
+du 20.08.2002 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -40,7 +39,7 @@ Arrête:
 
 <sup>1</sup> Les organes d'exécution des dispositions relatives à la protection des sols sont:
 
-- a) la Direction de l'aménagement, de l'environnement et des constructions;
+- a) la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement;
 - b) la Direction des institutions, de l'agriculture et des forêts;
 - c) le Service de l'environnement (SEn);
 - d) …
@@ -61,9 +60,9 @@ Arrête:
 
 #### Art. 3
 
-**Compétence de la Direction de l'aménagement, de l'environnement et des constructions**
+**Compétence de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement**
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions prend les décisions prévues à l'article 8 al. 3 et 4, à l'article 9 al. 2 et à l'article 10 OSol pour les sols non agricoles et pour les sols agricoles lors d'atteintes chimiques d'origine extérieure à l'agriculture.
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement prend les décisions prévues à l'article 8 al. 3 et 4, à l'article 9 al. 2 et à l'article 10 OSol pour les sols non agricoles et pour les sols agricoles lors d'atteintes chimiques d'origine extérieure à l'agriculture.
 
 <sup>2</sup> Elle peut déléguer certaines décisions au SEn pour les cas cités à l'alinéa 1.
 

@@ -3,13 +3,12 @@ canton: FR
 number: "811.11"
 title: Verordnung über den Bodenschutz
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2002-08-20
 in_force: 2002-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/811.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7038/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7400/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7038/pdf_file"
 
 Bodenschutz – V
 
-vom 20.08.2002 (Fassung in Kraft getreten am 01.01.2022)
+vom 20.08.2002 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -40,7 +39,7 @@ beschliesst:
 
 <sup>1</sup> Die Vollzugsorgane für die Bestimmungen über den Bodenschutz sind:
 
-- a) die Raumplanungs-, Umwelt- und Baudirektion;
+- a) die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt;
 - b) die Direktion der Institutionen und der Land- und Forstwirtschaft;
 - c) das Amt für Umwelt;
 - d) …
@@ -61,9 +60,9 @@ beschliesst:
 
 #### Art. 3
 
-**Zuständigkeiten der Raumplanungs-, Umwelt- und Baudirektion**
+**Zuständigkeiten der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt**
 
-<sup>1</sup> Bei chemischen Belastungen von landwirtschaftlichen und nicht landwirtschaftlichen Böden, die nicht auf die landwirtschaftliche Nutzung zurückzuführen sind, trifft die Raumplanungs-, Umwelt- und Baudirektion die Entscheide gemäss Artikel 8 Abs. 3 und 4, Artikel 9 Abs. 2 und Artikel 10 VBBo.
+<sup>1</sup> Bei chemischen Belastungen von landwirtschaftlichen und nicht landwirtschaftlichen Böden, die nicht auf die landwirtschaftliche Nutzung zurückzuführen sind, trifft die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt die Entscheide gemäss Artikel 8 Abs. 3 und 4, Artikel 9 Abs. 2 und Artikel 10 VBBo.
 
 <sup>2</sup> Sie kann bestimmte Entscheide für die in Absatz 1 genannten Fälle dem Amt für Umwelt delegieren.
 
