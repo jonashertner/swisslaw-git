@@ -4,13 +4,13 @@ number: "120.001"
 title: Standeskommissionsbeschluss betreffend die Massnahmen zur Bekämpfung der Corona-Pandemie
 short: StKB COVID-19
 language: de
-version: 2021-12-11
-valid_until: 2022-01-31
-version_adopted: 2021-12-09
+version: 2022-02-01
+valid_until: 2022-02-16
+version_adopted: 2022-01-18
 adopted: 2020-04-14
 in_force: 2020-04-14
 url: "https://ai.clex.ch/app/de/texts_of_law/120.001"
-pdf: "https://ai.clex.ch/api/de/versions/1972/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2003/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1972/pdf_file"
 
 (StKB COVID-19)
 
-vom 14.04.2020 (Stand 11.12.2021)
+vom 14.04.2020 (Stand 01.02.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -81,11 +81,9 @@ beschliesst:
 
 #### Art. 5c
 
-**Pflichten bei positivem Testergebnis**
+<sup>1</sup>
 
-<sup>1</sup> Wer positiv auf eine Infektion mi dem Coronavirus getestet wird, benachrichtigt unverzüglich alle Personen, mit welchen in den letzten 48 Stunden vor dem Test oder vor dem Auftreten der ersten Symptome ein enger Kontakt im Sinne der COVID-19-Verordnung besondere Lage bestand, und begibt sich umgehend in Isolation.
-
-<sup>2</sup> Die benachrichtigte Person begibt sich unverzüglich in Quarantäne und lässt sich testen, wenn Symptome auftreten.
+<sup>2</sup>
 
 #### Art. 6
 
@@ -115,7 +113,9 @@ beschliesst:
 
 <sup>1a</sup> Für die Zeit vom 1. November 2020 bis zum 31. Dezember 2021 steht ein weiterer Betrag aus dem Swisslos-Fonds von Fr. 174'500.-- zur Verfügung.
 
-<sup>2</sup> Die Leistung von Unterstützungsbeiträgen richtet sich nach den mit dem Bund abgeschlossenen Leistungsvereinbarungen.
+<sup>1b</sup> Für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022 steht ein weiterer Betrag aus dem Swisslos-Fonds von Fr. 100'000.-- zur Verfügung. Die Entschädigungen und Projekte müssen bis spätestens Ende 2023 abgerechnet sein.
+
+<sup>2</sup> Die Leistungen richten sich nach den mit dem Bund abgeschlossenen Leistungsvereinbarungen.
 
 #### Art. 9a
 
