@@ -3,18 +3,18 @@ sr: "672.201.1"
 title: Verordnung 1 des EFD vom 4. Dezember 2019 über die Anrechnung ausländischer Quellensteuern
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/29"
 language: de
-version: 2021-02-01
+version: 2022-02-01
 adopted: 2019-12-04
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/29/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2020-29-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/29/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/29/20220201/de/xml/fedlex-data-admin-ch-eli-cc-2020-29-20220201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/29/20220201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung 1 des EFD über die Anrechnung ausländischer Quellensteuern
 
-vom 4. Dezember 2019 (Stand am 1. Februar 2021)
+vom 4. Dezember 2019 (Stand am 1. Februar 2022)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -34,7 +34,7 @@ verordnet:
 
 Die Verordnung 1 des EFD vom 6. Dezember 1967[^2-1] über die pauschale Steueranrechnung wird aufgehoben.
 
-[^2-1]: [[AS 1967 1711](https://fedlex.data.admin.ch/eli/oc/1967/1711_1759_1753), [1981 1999](https://fedlex.data.admin.ch/eli/oc/1981/1999_1999_1999)Ziff. I, [1988 604](https://fedlex.data.admin.ch/eli/oc/1988/604_604_604), [2001 1065](https://fedlex.data.admin.ch/eli/oc/2001/160), [2012 5983](https://fedlex.data.admin.ch/eli/oc/2012/702), [2019 167](https://fedlex.data.admin.ch/eli/oc/2019/26)]
+[^2-1]: [[AS 1967 1711](https://fedlex.data.admin.ch/eli/oc/1967/1711_1759_1753); [1981 1999](https://fedlex.data.admin.ch/eli/oc/1981/1999_1999_1999)Ziff. I; [1988 604](https://fedlex.data.admin.ch/eli/oc/1988/604_604_604); [2001 1065](https://fedlex.data.admin.ch/eli/oc/2001/160); [2012 5983](https://fedlex.data.admin.ch/eli/oc/2012/702); [2019 167](https://fedlex.data.admin.ch/eli/oc/2019/26)]
 
 #### Art. 3
 
@@ -46,37 +46,40 @@ Anhang*[^t-1]*
 
 ## Liste der Vertragsstaaten
 
-[^t-1]: Fassung gemäss Ziff. I der V des SIF vom 15. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 21](https://fedlex.data.admin.ch/eli/oc/2021/21)).
+[^t-1]: Fassung gemäss Ziff. I der V des SIF vom 13. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 915](https://fedlex.data.admin.ch/eli/oc/2021/915)).
 
-(Gilt für die im Jahr 2020 fällig gewordenen Erträge)[^annexu1-lvlu1-1]
+(Gilt für die im Jahr 2021 fällig gewordenen Erträge)[^annexu1-lvlu1-1]
 
 Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund der in der nachstehenden Liste[^annexu1-lvlu1-2] genannten Doppelbesteuerungsabkommen (DBA) anzurechnen.
 
 <table>
-<tr><th colspan="2">*Vertragsstaaten* Datum des Abkommens</th><th colspan="2">Erträge [A1][^annexu1-lvlu1-3]</th><th colspan="2">Nicht rückforderbare Quellensteuern der Vertragsstaaten in % [A2]</th></tr>
-<tr><td colspan="2">Ägypten</td><td colspan="2">Dividenden</td><td colspan="2">0</td></tr>
-<tr><td colspan="2">20.5.1987</td><td colspan="2">[tab]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">15 [C1] [C2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">12,5 [D22]</td></tr>
-<tr><td colspan="2">Albanien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12.11.1999</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">8 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">5 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Algerien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">3.6.2006</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td colspan="2">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Argentinien</td><td colspan="2">Dividenden</td><td colspan="2">7 [B4]</td></tr>
-<tr><td colspan="2">20.3.2014</td><td colspan="2">Zinsen</td><td colspan="2">12 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">15 [D6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Vergütungen für technische Unterstützungsleistungen</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Armenien</td><td colspan="2">Dividenden</td><td colspan="2"></td></tr>
-<tr><td colspan="2">12.6.2006</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td colspan="2">5 [B5]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td colspan="2">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td colspan="2">10 [C1] [C29]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td colspan="2">5</td></tr>
+<tr><th>*Vertragsstaaten* Datum des Abkommens</th><th>Erträge [A1][^annexu1-lvlu1-3]</th><th colspan="2">Nicht rückforderbare Quellensteuern der Vertragsstaaten in % [A2]</th></tr>
+<tr><td>Ägypten</td><td>Dividenden</td><td>0 [B1] [B3]</td></tr>
+<tr><td>20.5.1987</td><td>Zinsen</td><td>15 [C1] [C2]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>12,5 [D22]</td></tr>
+<tr><td>Albanien</td><td>Dividenden</td><td></td></tr>
+<tr><td>12.11.1999</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>8 [B1]</td></tr>
+<tr><td></td><td>Zinsen</td><td>5 [C1]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+<tr><td>Algerien</td><td>Dividenden</td><td></td></tr>
+<tr><td>3.6.2006</td><td>– von Tochtergesellschaften (ab 20 %)</td><td>5</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>15</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C1]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>10</td></tr>
+<tr><td>Argentinien</td><td>Dividenden</td><td>7 [B4]</td></tr>
+<tr><td>20.3.2014</td><td>Zinsen</td><td>12 [C1]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>15 [D6]</td></tr>
+<tr><td></td><td>Vergütungen für technische Unterstützungsleistungen</td><td>10</td></tr>
+<tr><td>Armenien</td><td>Dividenden</td><td></td></tr>
+<tr><td>12.6.2006</td><td>– von Tochtergesellschaften (ab 25 %)</td><td>5 [B5]</td></tr>
+<tr><td></td><td>– übrige Dividenden</td><td>5/10 [B1] [B43]</td></tr>
+<tr><td></td><td>Zinsen</td><td>10 [C1] [C29]</td></tr>
+<tr><td></td><td>Lizenzgebühren</td><td>5</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">*Vertragsstaaten* Datum des Abkommens</th><th colspan="2">Erträge [A1]</th><th colspan="2">Nicht rückforderbare Quellensteuern der Vertragsstaaten in % [A2]</th></tr>
 <tr><td colspan="2">Aserbaidschan</td><td colspan="2">Dividenden</td><td></td></tr>
 <tr><td colspan="2">23.2.2006</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td>5 [B6]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>10 [B1]</td></tr>
@@ -108,9 +111,9 @@ Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund d
 <tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>5 [B2]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Zinsen</td><td>10 [C1]</td></tr>
 <tr><td colspan="2">Chile</td><td colspan="2">Dividenden</td><td>15 [B8]</td></tr>
-<tr><td colspan="2">2.4.2008</td><td colspan="2">Zinsen</td><td>10 [C34] [C8]</td></tr>
+<tr><td colspan="2">2.4.2008</td><td colspan="2">Zinsen</td><td>10 [C8]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– Leasing</td><td>2 [D7]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– Leasing</td><td>2</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– übrige Lizenzgebühren</td><td>10</td></tr>
 <tr><td colspan="2">China</td><td colspan="2">Dividenden</td><td></td></tr>
 <tr><td colspan="2">25.9.2013</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
@@ -130,7 +133,7 @@ Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund d
 <tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>10</td></tr>
 <tr><td colspan="2">Elfenbeinküste</td><td colspan="2">Dividenden</td><td>10 [B11]</td></tr>
 <tr><td colspan="2">23.11.1987</td><td colspan="2">Zinsen</td><td>15 [C1] [C27] [C10]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>10 [D20]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>10</td></tr>
 <tr><td colspan="2">Estland</td><td colspan="2">Dividenden</td><td>0 [B12]</td></tr>
 <tr><td colspan="2">11.6.2002</td><td colspan="2"></td><td></td></tr>
 <tr><td colspan="2">Finnland</td><td colspan="2">Dividenden</td><td></td></tr>
@@ -151,12 +154,12 @@ Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund d
 <tr><td colspan="2"></td><td colspan="2">Dienstleistungsvergütungen</td><td>8 [E1]</td></tr>
 <tr><td colspan="2">Griechenland</td><td colspan="2">Dividenden</td><td></td></tr>
 <tr><td colspan="2">16.6.1983</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>10 [B1]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>5 [B1]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Zinsen</td><td>7 [C17]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>5</td></tr>
 <tr><td colspan="2">Hongkong</td><td colspan="2">Lizenzgebühren</td><td>3</td></tr>
 <tr><td colspan="2">4.11.2011</td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">Indien</td><td colspan="2">Dividenden</td><td>10</td></tr>
+<tr><td colspan="2">Indien</td><td colspan="2">Dividenden</td><td>5 [B45]</td></tr>
 <tr><td colspan="2">2.11.1994</td><td colspan="2">Zinsen</td><td>10 [C1]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Lizenzgebühren (inkl. Leasing)</td><td>10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Gebühren für technische Dienstleistungen</td><td>10</td></tr>
@@ -167,8 +170,8 @@ Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund d
 <tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Dienstleistungsvergütungen</td><td>5</td></tr>
 <tr><td colspan="2">Iran</td><td colspan="2">Dividenden</td><td>0 [B14]</td></tr>
-<tr><td colspan="2">27.10.2002</td><td colspan="2">Zinsen</td><td>0/5 [C1] [C4] [C31]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>1,5 bis 5 [D25]</td></tr>
+<tr><td colspan="2">27.10.2002</td><td colspan="2">Zinsen</td><td>0/5 [C1] [C4]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>5 bis 7,5 [D25]</td></tr>
 <tr><td colspan="2">Island</td><td colspan="2">Dividenden</td><td></td></tr>
 <tr><td colspan="2">10.7.2014</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>15</td></tr>
@@ -205,9 +208,9 @@ Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund d
 <tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>15</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Zinsen</td><td>10 [C1]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Lizenzgebühren (inkl. Leasing)</td><td>10 [D9]</td></tr>
-<tr><td colspan="2">Katar</td><td colspan="2">Dividenden</td><td>0 [B16]</td></tr>
+<tr><td colspan="2">Katar</td><td colspan="2">Dividenden</td><td>0 [B1] [B2] [B3]</td></tr>
 <tr><td colspan="2">24.9.2009</td><td colspan="2">[tab]</td><td></td></tr>
-<tr><td colspan="2">Kosovo</td><td colspan="2">Dividenden</td><td>0 [B1]</td></tr>
+<tr><td colspan="2">Kosovo</td><td colspan="2">Dividenden</td><td>0 [B1] [B3]</td></tr>
 <tr><td colspan="2">26.5.2017</td><td colspan="2">Zinsen</td><td>5 [C1]</td></tr>
 <tr><td colspan="2">Kirgisistan</td><td colspan="2">Dividenden</td><td></td></tr>
 <tr><td colspan="2">26.1.2001</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
@@ -267,7 +270,7 @@ Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund d
 <tr><td colspan="2">Mexiko</td><td colspan="2">Dividenden</td><td></td></tr>
 <tr><td colspan="2">3.8.1993</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td>0</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td>[C1] [C15]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td>[C1]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– an Börsen in Mexiko oder in einem Land, mit dem Mexiko ein DBA abgeschlossen hat, gehandelte Wertpapiere</td><td>4,9</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– an eine Bank oder Versicherung gezahlt</td><td>5</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– andere</td><td>10</td></tr>
@@ -300,7 +303,7 @@ Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund d
 <tr><td colspan="2">Oman</td><td colspan="2">Dividenden</td><td></td></tr>
 <tr><td colspan="2">22.5.2015</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td>0 [B42]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>0 [B1] [B42]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] Zinsen</td><td>0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] Zinsen</td><td>0 [C31]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">[tab] Lizenzgebühren</td><td>8</td></tr>
 <tr><td colspan="2">Österreich</td><td colspan="2">Dividenden</td><td></td></tr>
 <tr><td colspan="2">30.1.1974</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td>0</td></tr>
@@ -365,8 +368,8 @@ Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund d
 <tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>15</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>5 [D16]</td></tr>
 <tr><td colspan="2">Sri Lanka</td><td colspan="2">Dividenden</td><td></td></tr>
-<tr><td colspan="2">11.1.1983</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td>10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>14 [B1]</td></tr>
+<tr><td colspan="2">11.1.1983</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td>0 [B2] [B44]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>0 [B1] [B44]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Zinsen</td><td>5</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Dienstleistungsvergütungen</td><td>5</td></tr>
@@ -408,15 +411,14 @@ Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund d
 <tr><td colspan="2"></td><td colspan="2">Ausgeschüttete Gewinne einer Betriebsstätte</td><td>5 [B15]</td></tr>
 <tr><td colspan="2">Turkmenistan</td><td colspan="2">Dividenden</td><td></td></tr>
 <tr><td colspan="2">8.10.2012</td><td colspan="2">– von Tochtergesellschaften (ab 25 %)</td><td>5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>15</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>10/15 [B1][B16]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Zinsen</td><td>10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>10</td></tr>
 <tr><td colspan="2">Ukraine</td><td colspan="2">Dividenden</td><td></td></tr>
-<tr><td colspan="2">30.10.2000</td><td colspan="2">– von Tochtergesellschaften (ab 20 %)</td><td>5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden an juristische Personen</td><td>15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden an natürliche Personen</td><td>5 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td>10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>10 [D1] [D21]</td></tr>
+<tr><td colspan="2">30.10.2000</td><td colspan="2">– von Tochtergesellschaften (ab 10 %)</td><td>5</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– übrige Dividenden</td><td>15</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Zinsen</td><td>5 [C1]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Lizenzgebühren</td><td>5 [D1] [D21]</td></tr>
 <tr><td colspan="2">Ungarn</td><td colspan="2">Dividenden</td><td>0 [B1]</td></tr>
 <tr><td colspan="2">12.9.2013</td><td colspan="2">[tab]</td><td></td></tr>
 <tr><td colspan="2">Uruguay</td><td colspan="2">Dividenden</td><td></td></tr>
@@ -451,7 +453,7 @@ Die nicht rückforderbaren ausländischen Quellensteuern sind zurzeit aufgrund d
 <tr><td colspan="2">25.7.2014</td><td colspan="2"></td><td></td></tr>
 </table>
 
-Anmerkungen
+**Anmerkungen**
 
 A. Allgemein
 
@@ -471,9 +473,9 @@ B. Dividenden
 
 [4] Argentinien erhebt eine Quellensteuer von 7 % auf Dividenden. Nach DBA wäre Argentinien berechtigt, eine Quellensteuer von 15 % bzw. 10 % bei einer Beteiligung von mindestens 25 % des Kapitals zu erheben.
 
-[5] Vorausgesetzt, das ausländisch investierte Kapital übersteigt CHF 200 000 oder deren Gegenwert in anderer Währung.
+[5] Vorausgesetzt, das ausländisch investierte Kapital übersteigt 200 000 Franken oder deren Gegenwert in anderer Währung.
 
-[6] Vorausgesetzt, die getätigten Investitionen betragen mindestens USD 200 000.
+[6] Vorausgesetzt, die getätigten Investitionen betragen mindestens 200 000 US-Dollar.
 
 [7] In gewissen Fällen («unfranked dividends») wird eine Quellensteuer von 30 % erhoben. In diesen Fällen wird eine Anrechnung der ausländischen Quellensteuer von 15 % gewährt, bei Dividenden von Tochtergesellschaften bei einer Beteiligung von mindestens 10 % jedoch nur 5 %, und bei einer Beteiligung von mindestens 80 % wird in der Regel gar keine Anrechnung der ausländischen Quellensteuer gewährt.
 
@@ -493,9 +495,9 @@ B. Dividenden
 
 [15] In der Türkei kann auf den Gewinnen einer Betriebsstätte eine Quellensteuer in Höhe von maximal 5 % («branch profits tax») erhoben werden (nach innerstaatlichem türkischem Recht: 15 %), sofern diese Gewinne in der Schweiz (Sitzstaat des Unternehmens) steuerbefreit sind. Die Steuerbefreiung der Betriebsstätten ist in Artikel 52 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (SR *642.11*) und in den einschlägigen kantonalen Bestimmungen verankert.
 
-[16] Katar erhebt keine Quellensteuern auf Dividenden. Nach DBA wäre es berechtigt, je nachdem eine Quellensteuer von 5 %, 10 % bzw. 15 % zu erheben.
+[16] Gemäss internem Recht 10 % bei Dividenden, die an nicht ansässige natürliche Personen gezahlt werden.
 
-[17] Keine Quellensteuer für Dividenden aus Beteiligungen ab 50 % und im Mindestwert von 1 Mio. USD, sofern die Investition von der Regierung Kasachstans genehmigt worden ist und seitens der Schweiz vollumfänglich garantiert oder versichert ist.
+[17] Keine Quellensteuer für Dividenden aus Beteiligungen ab 50 % und im Mindestwert von 1 Million US-Dollar, sofern die Investition von der Regierung Kasachstans genehmigt worden ist und seitens der Schweiz vollumfänglich garantiert oder versichert ist.
 
 [18] Wenn die Beteiligung, aufgrund derer die Dividende bezahlt wird, nicht während eines ununterbrochenen Zeitraums von zwei Jahren vor der Zahlung der Dividende gehalten worden ist, beträgt die nicht rückforderbare Steuer 5 %.
 
@@ -517,9 +519,9 @@ B. Dividenden
 
 [27] Bei Dividenden, die nach dem «Investment Promotion Act» (B.E. 2520) oder nach dem «Revenue Code» (B.E. 2481) oder nach einer anderen besonderen Gesetzgebung zur Förderung der Wirtschaft von der thailändischen Steuer befreit sind oder niedriger besteuert werden als zu dem im Abkommen vorgesehenen Satz, beträgt die anrechenbare ausländische Quellensteuer 10 %.
 
-[28] 5 %, falls die begünstigte Gesellschaft 50 % der bezahlenden Gesellschaft hält.
+[28] 5 %, falls die begünstigte Gesellschaft mindestens 50 % der bezahlenden Gesellschaft hält.
 
-[29] Keine Anrechnung der ausländischen Quellensteuer für Einkünfte aus den Vereinigten Staaten, die aufgrund von Artikel 10 Absatz 2, von Artikel 11 Absatz 6 oder von Artikel 22 des Abkommens der amerikanischen Quellensteuer zum Satz von 30 % unterliegen.
+[29] Keine Anrechnung der ausländischen Quellensteuer für Einkünfte aus den Vereinigten Staaten, die aufgrund von Artikel 10 Absatz 2 (Dividenden, die von einem in den Vereinigten Staaten ansässigen REIT-«Real Estate Investment Trust» gezahlt werden), von Artikel 11 Absatz 6 oder von Artikel 22 des Abkommens der amerikanischen Quellensteuer zum Satz von 30 % unterliegen.
 
 [30] Venezuela erhebt keine Quellensteuern auf Dividenden, wenn sie aus besteuerten Gewinnen ausbezahlt werden. Nach DBA wäre es berechtigt, eine Quellensteuer von 10 % zu erheben, ausser es besteht eine Beteiligung von 25 % am Kapital.
 
@@ -547,6 +549,12 @@ B. Dividenden
 
 [42] Auf Dividenden von Aktiengesellschaften und Anlagefonds hat der Oman bis zum 6. Mai 2019 eine Quellensteuer erhoben. Ab diesem Datum bezahlte Dividenden sind befreit.
 
+[43] Gemäss internem Recht 5 % bei Dividenden, die an nicht ansässige natürliche Personen gezahlt werden.
+
+[44] Ab dem 1. Januar 2020 sind Dividenden in Sri Lanka, die an nicht ansässige Personen bezahlt werden, von der Quellensteuer befreit; folglich wird keine Anrechnung der ausländischen Quellensteuer gewährt.
+
+[45] Aufgrund der evolutiven Meistbegünstigungsklausel zwischen der Schweiz und Indien hat der Beitritt Litauens bzw. Kolumbiens zur OECD zur Folge, dass im Verhältnis zwischen Indien und der Schweiz der Anspruch auf die Anrechnung der ausländischen Quellensteuer für Dividenden, die ab dem 1. Januar 2021 fällig werden, auf 5 % begrenzt ist.
+
 C. Zinsen
 
 [1] Für Zinsen, die unter dem Abkommen von der Steuer im Quellenstaat befreit sind, wird keine Anrechnung der ausländischen Quellensteuer gewährt.
@@ -563,7 +571,7 @@ C. Zinsen
 
 [7] Der ecuadorianische Quellensteuersatz beträgt 0 % auf Zinsen, die an private internationale oder multilaterale Finanzinstitute bezahlt werden.
 
-[8] 0 % auf Zinsen, die von einem Finanzinstitut in Chile an eine Bank, an ein ausländisches Finanzinstitut oder an ein internationales Finanzinstitut gezahlt werden; 4 % auf Kontokorrentkonten oder Termingeldanlagen bei autorisierten Finanzinstituten und für Zinsen auf Darlehen, die durch Banken, Versicherungen oder autorisierte internationale Finanzinstitute gewährt werden, Zinsen auf Obligationen sowie auf Zinsen bei Kreditverkäufen, die vom Käufer dem Verkäufer von Maschinen und Ausrüstungen gezahlt werden.
+[8] 0 % auf Zinsen, die von einem Finanzinstitut in Chile an eine Bank, an ein ausländisches Finanzinstitut oder an ein internationales Finanzinstitut gezahlt werden; 4 % auf Kontokorrentkonten oder Termingeldanlagen bei autorisierten Finanzinstituten, für Zinsen auf Darlehen, die durch Banken, Versicherungen, autorisierte internationale Finanzinstitute oder durch Unternehmen, die zur Hauptsache ihre Einkünfte aus Darlehens- oder Finanzgeschäften erzielen, gewährt werden, sowie auf Zinsen bei Kreditverkäufen, die vom Käufer dem Verkäufer von Maschinen und Ausrüstungen gezahlt werden; 5 % auf Obligationsanleihen oder andere Wertschriften, die an einer anerkannten Börse gehandelt werden.
 
 [9] Sofern es sich nicht um Zinsen für ein durch ein Finanzinstitut oder ein Versicherungsunternehmen gewährtes Darlehen handelt (vgl. [C19]), kann Thailand unter dem Abkommen eine Steuer von 15 % erheben. Die Anrechnung der ausländischen Quellensteuer beträgt 10 % der Bruttozinsen. Als weitere Entlastung müssen nur 95 % des Bruttobetrags der Zinsen versteuert werden.
 
@@ -577,7 +585,7 @@ C. Zinsen
 
 [14] Für zwischen Banken bezahlte Zinsen ist keine Anrechnung der ausländischen Quellensteuer möglich.
 
-[15] ...
+[15] …
 
 [16] Keine Anrechnung der ausländischen Quellensteuer, wenn anstelle der Quellensteuer eine «approved issuers levy» von 2 % erhoben wird.
 
@@ -593,7 +601,7 @@ C. Zinsen
 
 [22] Es bestehen verschiedene Befreiungen für Zinsen im nationalen türkischen Recht und unter dem Abkommen. Mit der Türkei wurden für die Quellenbesteuerung der Zinsen folgende Steuersätze vereinbart: 0 % für Zinsen, die einem Vertragsstaat oder seiner Zentralbank bezahlt werden; 5 % für Zinsen, die aufgrund eines von einer Export-Import-Bank oder einer ähnlichen Einrichtung, die die Exportförderung bezweckt, gewährten, garantierten oder versicherten Darlehens oder Kredits gezahlt werden; 15 % in allen anderen Fällen (Ziff. 3 des Protokolls).
 
-[23] ...
+[23] …
 
 [24] Gilt auch für unter dem Abkommen in Malaysia steuerbefreite Zinsen, die für von den malaysischen Behörden genehmigte Darlehen bezahlt werden.
 
@@ -614,8 +622,6 @@ C. Zinsen
 [32] 1 % für natürliche Personen.
 
 [33] Es bestehen verschiedene Befreiungen von Zinsen im nationalen portugiesischen Recht und unter dem Abkommen, z. B. Zinsen für Staatsanleihen, Kreditverkäufe und Darlehen zwischen Finanzinstituten.
-
-[34] Aufgrund einer Evolutivklausel nach Massgabe des meistbegünstigten Landes.
 
 D. Lizenzgebühren
 
@@ -647,7 +653,7 @@ D. Lizenzgebühren
 
 [14] Gilt seit dem 1. Juli 2013. Zuvor 0 % auf Lizenzgebühren.
 
-[15] ...
+[15] …
 
 [16] 0 %, wenn die Bedingungen von Artikel 12 Absatz 7 DBA erfüllt sind (verbundene Unternehmen).
 
@@ -657,13 +663,13 @@ D. Lizenzgebühren
 
 [19] Bei Lizenzgebühren, die nach dem «Investment Promotion Act» (B.E. 2520) oder nach dem «Revenue Code» (B.E. 2481) oder nach einer anderen besonderen Gesetzgebung zur Förderung der Wirtschaft von der thailändischen Steuer befreit sind oder niedriger besteuert werden als zu dem im Abkommen vorgesehenen Satz, beträgt die anrechenbare ausländische Quellensteuer 10 %.
 
-[20] ...
+[20] …
 
 [21] Volle Entlastung im Quellenstaat betreffend Lizenzgebühren für Urheberrechte an wissenschaftlichen Werken, für Patente, Marken, Muster oder Modelle, geheime Formeln oder Verfahren oder für die Mitteilung gewerblicher, kaufmännischer oder wissenschaftlicher Erfahrungen.
 
 [22] Es sind nur 97,5 % des Bruttoertrags der Lizenzgebühren zu versteuern. Der Betrag der anrechenbaren ausländischen Quellensteuer entspricht 10 % des vollen Bruttoertrags.
 
-[23] ...
+[23] …
 
 [24] 5 % für die Benützung oder das Recht zur Benützung von Eisenbahnwagen.
 
@@ -675,6 +681,6 @@ E. Dienstleistungsvergütungen
 
 [2] Ohne Rücksicht auf den Betrag der tatsächlich abgezogenen Steuer, weil das Abkommen eine fiktive Steueranrechnung vorsieht
 
-[^annexu1-lvlu1-1]: Für die 2019 fällig gewordenen Erträge siehe [AS 2020 157](https://fedlex.data.admin.ch/eli/oc/2020/29).
+[^annexu1-lvlu1-1]: Für die 2020 fällig gewordenen Erträge siehe [AS 2021 21](https://fedlex.data.admin.ch/eli/oc/2021/21).
 [^annexu1-lvlu1-2]: Die vorliegende Übersicht hält die nicht rückforderbaren Quellensteuern aufgrund der von der Schweiz abgeschlossenen Doppelbesteuerungsabkommen fest. Art. 9 des Abkommens vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union über den automatischen Informationsaustausch über Finanzkonten zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten ([SR 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)) sieht unter bestimmten Voraussetzungen ein ausschliessliches Besteuerungsrecht im Ansässigkeitsstaat der empfangenden Person für zwischen verbundenen Gesellschaften gezahlte Dividenden, Zinsen und Lizenzgebühren vor. Eine schweizerische Gesellschaft, die aufgrund von Art. 9 dieses Abkommens von der ausländischen Quellensteuer befreite Dividenden, Zinsen, Lizenzgebühren vereinnahmt, kann für diese Einkünfte keine Anrechnung an die Schweizer Steuern geltend machen.
 [^annexu1-lvlu1-3]: Die Anmerkungen finden sich am Schluss der Liste.

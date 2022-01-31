@@ -3,18 +3,18 @@ sr: "672.201.1"
 title: "Ordonnance 1 du DFF du 4 décembre 2019 relative à l'imputation d'impôts étrangers prélevés à la source"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/29"
 language: fr
-version: 2021-02-01
+version: 2022-02-01
 adopted: 2019-12-04
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/29/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-29-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/29/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/29/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-29-20220201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/29/20220201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance 1 du DFF relative à l’imputation d’impôts étrangers prélevés à la source
 
-du 4 décembre 2019 (Etat le 1<sup>er</sup> février 2021)
+du 4 décembre 2019 (Etat le 1<sup>er</sup> février 2022)
 
 Le Département fédéral des Finances (DFF),
 
@@ -40,425 +40,423 @@ L’ordonnance 1 du DFF du 6 décembre 1967 relative à l’imputation forfaitai
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2020.
 
-Annexe[^t-1]
+Annexe*[^t-1]*
 
 (art. 1, al. 1)
 
 ## Liste des États contractants
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du SFI du 15 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 21](https://fedlex.data.admin.ch/eli/oc/2021/21)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du SFI du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 915](https://fedlex.data.admin.ch/eli/oc/2021/915)).
 
-(valable pour les revenus échus au cours de l’année 2020)[^annexu1-lvlu1-1]
+(valable pour les revenus échus au cours de l’année 2021)[^annexu1-lvlu1-1]
 
 Les montants d’impôts prélevés à la source non récupérables doivent actuellement être appliqués sur la base des conventions contre les doubles impositions mentionnées dans la liste ci-dessous[^annexu1-lvlu1-2].
 
 <table>
-<tr><th colspan="2">*États contractants* date de la convention</th><th colspan="2">Revenus [A1][^annexu1-lvlu1-3]</th><th colspan="3">Impôts à la source non récupérables des États contractants en % [A2]</th></tr>
-<tr><td colspan="2">Afrique du Sud</td><td colspan="2">Dividendes</td><td colspan="3"></td></tr>
-<tr><td colspan="2">8.5.2007</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="3">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="3">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="3">5</td></tr>
-<tr><td colspan="2">Albanie</td><td colspan="2">Dividendes</td><td colspan="3"></td></tr>
-<tr><td colspan="2">12.11.1999</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="3">8 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="3">5 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="3">5</td></tr>
-<tr><td colspan="2">Algérie</td><td colspan="2">Dividendes</td><td colspan="3"></td></tr>
-<tr><td colspan="2">3.6.2006</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="3">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="3">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="3">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="3">10</td></tr>
-<tr><td colspan="2">Allemagne</td><td colspan="2">Dividendes</td><td colspan="3"></td></tr>
-<tr><td colspan="2">11.8.1971</td><td colspan="2">– d’usines hydroélectriques frontières</td><td colspan="3">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– revenus de bons de jouissance, d’obligations participant aux bénéfices, de participations tacites et de prêts partiaires</td><td colspan="3">26,375 [B9]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="3">15</td></tr>
-<tr><td colspan="2">Argentine</td><td colspan="2">Dividendes</td><td colspan="2">7 [B4]</td></tr>
-<tr><td colspan="2">20.3.2014</td><td colspan="2">Intérêts</td><td colspan="2">12 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="2">15 [D6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Rémunérations pour fourniture d’assistance technique</td><td colspan="2">10</td></tr>
-<tr><td colspan="2">Arménie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">12.6.2006</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5 [B5]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C29]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Australie</td><td colspan="2">Dividendes</td><td colspan="4">0 [B7]</td></tr>
-<tr><td colspan="2">30.7.2013</td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Autriche</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">30.1.1974</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2">Azerbaïdjan</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">23.2.2006</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">5 [B6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C3] [C21]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10 [D4]</td></tr>
-<tr><td colspan="2">Bangladesh</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">10.12.2007</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Bélarus</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">26.4.1999</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– payés à des personnes morales</td><td colspan="4">12 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">13 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">8 [C1] [C3]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– de brevets et de know-how</td><td colspan="4">3</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– de *leasing*</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Belgique</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">28.8.1978</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2">Bulgarie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">28.10.1991</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">5 [B2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2">Canada</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">5.5.1997</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– payés à des personnes liées</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– payés à des personnes non liées</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10 [D1]</td></tr>
-<tr><td colspan="2">Chili</td><td colspan="2">Dividendes</td><td colspan="4">15 [B8]</td></tr>
-<tr><td colspan="2">2.4.2008</td><td colspan="2">Intérêts</td><td colspan="4">10 [C34] [C8]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– de *leasing*</td><td colspan="4">2 [D7]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres redevances</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Chine</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">25.9.2013</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">9</td></tr>
-<tr><td colspan="2">Chypre</td><td colspan="2">Dividendes</td><td colspan="4">0 [B1]</td></tr>
-<tr><td colspan="2">25.7.2014</td><td colspan="2"></td><td colspan="4"></td></tr>
-<tr><td colspan="2">Colombie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">26.10.2007</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1] [B38]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C26]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Rémunérations pour prestations de services</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Corée (Sud)</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">12.2.1980</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C3]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Côte d’Ivoire</td><td colspan="2">Dividendes</td><td colspan="4">10 [B11]</td></tr>
-<tr><td colspan="2">23.11.1987</td><td colspan="2">Intérêts</td><td colspan="4">15 [C1] [C27] [C10]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10 [D20]</td></tr>
-<tr><td colspan="2">Croatie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">12.3.1999</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">12 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Danemark</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">23.11.1973</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2">Égypte</td><td colspan="2">Dividendes</td><td colspan="4">0</td></tr>
-<tr><td colspan="2">20.5.1987</td><td colspan="2">[tab]</td><td colspan="4"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">15 [C1] [C2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">12,5 [D22]</td></tr>
-<tr><td colspan="2">Émirats arabes unis</td><td colspan="2">Dividendes</td><td colspan="4">0 [B31]</td></tr>
-<tr><td colspan="2">6.10.2011</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Équateur</td><td colspan="2">Dividendes</td><td colspan="4">10 [B10]</td></tr>
-<tr><td colspan="2">28.11.1994</td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C7]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Espagne</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">26.4.1966</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0 [B25]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5 [D16]</td></tr>
-<tr><td colspan="2">Estonie</td><td colspan="2">Dividendes</td><td colspan="4">0 [B12]</td></tr>
-<tr><td colspan="2">11.6.2002</td><td colspan="2"></td><td colspan="4"></td></tr>
-<tr><td colspan="2">États-Unis</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">2.10.1996</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">5 [B29]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15 [B29]</td></tr>
-<tr><td colspan="2">Finlande</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">16.12.1991</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">France</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">9.9.1966</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0 [B13]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">12,8 / 15 [B26]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Géorgie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">15.6.2010</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">5 [B2]</td></tr>
-<tr><td colspan="2">Ghana</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">23.7.2008</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">8 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">8 [C1] [C4] [C32]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">8</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Rémunérations de services</td><td colspan="4">8 [E1]</td></tr>
-<tr><td colspan="2">Grèce</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">16.6.1983</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">7 [C17]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Hong Kong</td><td colspan="2">Redevances de licences</td><td colspan="4">3</td></tr>
-<tr><td colspan="2">4.11.2011</td><td colspan="2"></td><td colspan="4"></td></tr>
-<tr><td colspan="2">Hongrie</td><td colspan="2">Dividendes</td><td colspan="4">0 [B1]</td></tr>
-<tr><td colspan="2">12.9.2013</td><td colspan="2">[tab]</td><td colspan="4"></td></tr>
-<tr><td colspan="2">Inde</td><td colspan="2">Dividendes</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">2.11.1994</td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences (*leasing* inclus)</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Rémunérations pour prestations de services techniques</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Indonésie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">29.8.1988</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Rémunérations des prestations de services</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Iran</td><td colspan="2">Dividendes</td><td colspan="4">0 [B14]</td></tr>
-<tr><td colspan="2">27.10.2002</td><td colspan="2">Intérêts</td><td colspan="4">0/5 [C1] [C4] [C31]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">de 1,5 à 5 [D25]</td></tr>
-<tr><td colspan="2">Islande</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">10.7.2014</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Israël</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">2.7.2003</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– de filiales (dès 10 %), au cas où la société israélienne distributrice n’est pas imposée ordinairement</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C3] [C28]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Italie</td><td colspan="2">Dividendes</td><td colspan="4">15</td></tr>
-<tr><td colspan="2">9.3.1976</td><td colspan="2">Intérêts</td><td colspan="4">12,5 [C30]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences (*leasing* inclus)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Jamaïque</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">6.12.1994</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C2] [C3]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10 [D5] [D8]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Rémunérations des prestations de services</td><td colspan="4">5 [E2]</td></tr>
-<tr><td colspan="2">Japon</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">19.1.1971</td><td colspan="2">– de filiales (dès 50 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2">Kazakhstan</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">21.10.1999</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">5 [B17] [B39]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences (*leasing* inclus)</td><td colspan="4">10 [D9]</td></tr>
-<tr><td colspan="2">Kirghizistan</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">26.1.2001</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Kosovo</td><td colspan="2">Dividendes</td><td colspan="4">0 [B1]</td></tr>
-<tr><td colspan="2">26.5.2017</td><td colspan="2">Intérêts</td><td colspan="4">5 [C1]</td></tr>
-<tr><td colspan="2">Koweït</td><td colspan="2">Dividendes</td><td colspan="4">0 [B1]</td></tr>
-<tr><td colspan="2">16.2.1999</td><td colspan="2">Intérêts</td><td colspan="4">0 [C4]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">0 [D2]</td></tr>
-<tr><td colspan="2">Lettonie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">31.1.2002</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">0 [B3]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– à des personnes morales</td><td colspan="4">0 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10/0 [B1] [B41]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– à des personnes morales</td><td colspan="4">0 [C4]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– à des personnes morales</td><td colspan="4">0 [D2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td colspan="2">Dividendes</td><td colspan="4">0 [B1]</td></tr>
-<tr><td colspan="2">10.7.2015</td><td colspan="2"></td><td colspan="4"></td></tr>
-<tr><td colspan="2">Lituanie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">27.5.2002</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– à des personnes morales</td><td colspan="4">0 [C4]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">0 [D7]</td></tr>
-<tr><td colspan="2">Luxembourg</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">21.1.1993</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0 [B18] [B19]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15 [B19]</td></tr>
-<tr><td colspan="2">Macédoine du Nord</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">14.4.2000</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2">Malaisie</td><td colspan="2">Dividendes</td><td colspan="4">0 [B20]</td></tr>
-<tr><td colspan="2">30.12.1974</td><td colspan="2">Intérêts</td><td colspan="4">10 [C24]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10 [D11]</td></tr>
-<tr><td colspan="2">Malte</td><td colspan="2">Dividendes</td><td colspan="4">0 [B1] [B21]</td></tr>
-<tr><td colspan="2">25.2.2011</td><td colspan="2"></td><td colspan="4"></td></tr>
-<tr><td colspan="2">Maroc</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">31.3.1993</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">7</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Mexique</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">3.8.1993</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">[C1] [C15]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– papiers-valeurs traités en bourse, au Mexique ou dans un État ayant conclu une CDI avec le Mexique</td><td colspan="4">4,9</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– payés à une banque ou à une assurance</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10 [D24]</td></tr>
-<tr><td colspan="2">Moldova</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">13.1.1999</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">6 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2">Mongolie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">20.9.1999</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2">Monténégro</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">13.4.2005</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">9 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">9 [C4]</td></tr>
-<tr><td colspan="2">Norvège</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">7.9.1987</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2">Nouvelle-Zélande</td><td colspan="2">Dividendes</td><td colspan="4">15</td></tr>
-<tr><td colspan="2">6.6.1980</td><td colspan="2">Intérêts</td><td colspan="4">10 [C16]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">*Oman*</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">22.5.2015</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0 [B42]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">0 [B1] [B42]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">8</td></tr>
-<tr><td colspan="2">Ouzbékistan</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">3.4.2002</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">5 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Pakistan</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">21.3.2017</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">de 7,5 à 10 [B22]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">de 7,5 à 15 [B22]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Rémunérations pour des prestations de services techniques</td><td colspan="4">7</td></tr>
-<tr><td colspan="2">Pays-Bas</td><td colspan="2">Dividendes</td><td colspan="4">[B19]</td></tr>
-<tr><td colspan="2">26.2.2010</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2">Pérou</td><td colspan="2">Dividendes</td><td colspan="4">5 [B37]</td></tr>
-<tr><td colspan="2">21.9.2012</td><td colspan="2">[tab] Intérêts</td><td colspan="4">15 [C25]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] Redevances de licences</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Rémunérations pour l’assistance technique et des services numériques</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Philippines</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">24.6.1998</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10 [D12]</td></tr>
-<tr><td colspan="2">Pologne</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">2.9.1991</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">5 [C6] [C18]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5 [D13] [D14]</td></tr>
-<tr><td colspan="2">Portugal</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">26.9.1974</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5 [B35]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C33]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Qatar</td><td colspan="2">Dividendes</td><td colspan="4">0 [B16]</td></tr>
-<tr><td colspan="2">24.9.2009</td><td colspan="2">[tab]</td><td colspan="4"></td></tr>
-<tr><td colspan="2">Roumanie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">25.10.1993</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">5 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">5 [C1] [C6]</td></tr>
-<tr><td colspan="2">Royaume-Uni</td><td colspan="2">Dividendes</td><td colspan="4">0 [B32]</td></tr>
-<tr><td colspan="2">8.12.1977</td><td colspan="2"></td><td colspan="4"></td></tr>
-<tr><td colspan="2">Russie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">15.11.1995</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">5 [B5]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2">Serbie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">13.4.2005</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Singapour</td><td colspan="2">Dividendes</td><td colspan="4">0 [B23]</td></tr>
-<tr><td colspan="2">24.2.2011</td><td colspan="2">Intérêts</td><td colspan="4">5 [C14]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Slovaquie</td><td colspan="2">Dividendes</td><td colspan="4">7 [B1] [B24]</td></tr>
-<tr><td colspan="2">14.2.1997</td><td colspan="2">Intérêts</td><td colspan="4">5 [C1] [C6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5 [D1] [D13]</td></tr>
-<tr><td colspan="2">Slovénie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">12.6.1996</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">5 [C1] [C6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5 [D1] [D13]</td></tr>
-<tr><td colspan="2">Sri Lanka</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">11.1.1983</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">14 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Paiements pour services</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Suède</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">7.5.1965</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2">Tadjikistan</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">23.6.2010</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">12/15 [B1] [B40]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Taïwan</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">(Taipei chinois)</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">8.10.2007 [A3]</td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Tchéquie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">4.12.1995</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5 [D13]</td></tr>
-<tr><td colspan="2">Thaïlande</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">12.2.1996</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">10 [B27]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1] [B27]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C9] [C19] [C20]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences (*leasing* inclus)</td><td colspan="4">10 [D17] [D18] [D19]</td></tr>
-<tr><td colspan="2">Trinité-et-Tobago</td><td colspan="2">Dividendes</td><td colspan="4">10 [B28]</td></tr>
-<tr><td colspan="2">1.2.1973</td><td colspan="2">Intérêts</td><td colspan="4">10 [C2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Rémunérations de gestion</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Tunisie</td><td colspan="2">Dividendes</td><td colspan="4">10 [B36]</td></tr>
-<tr><td colspan="2">10.2.1994</td><td colspan="2">Intérêts</td><td colspan="4">10 [C2]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10 [D8]</td></tr>
-<tr><td colspan="2">Turkménistan</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">8.10.2012</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2">Turquie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">18. 6.2010</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">de 0 à 15 [C22]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Bénéfices distribués d’un établissement stable</td><td colspan="4">5 [B15]</td></tr>
-<tr><td colspan="2">Ukraine</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">30.10.2000</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres dividendes payés à des personnes morales</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres dividendes payés à des personnes physiques</td><td colspan="4">5 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10 [D1] [D21]</td></tr>
-<tr><td colspan="2">Uruguay</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">18.10.2010</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">7 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C11]</td></tr>
-<tr><td colspan="2">Venezuela</td><td colspan="2">Dividendes</td><td colspan="4">0 [B30]</td></tr>
-<tr><td colspan="2">20.12.1996</td><td colspan="2">Intérêts</td><td colspan="4">5 [C1] [C5]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
-<tr><td colspan="2">Vietnam</td><td colspan="2">Dividendes</td><td colspan="4">[B33] [B34]</td></tr>
-<tr><td colspan="2">6.5.1996</td><td colspan="2">– payés à des sociétés</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– payés à des personnes physiques</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– payés à des sociétés</td><td colspan="4">5 [C1] [C4] [C12]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– payés à des personnes physiques</td><td colspan="4">5 [C12]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences (*leasing* inclus)</td><td colspan="4"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">– payées à des sociétés</td><td colspan="4">10 [D10]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– payées à des personnes physiques</td><td colspan="4">5 [D2] [D10]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab]</td><td colspan="4"></td></tr>
-<tr><td colspan="2">*Zambie*</td><td colspan="2">[tab] Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">29.8.2017</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] Intérêts</td><td colspan="4">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">[tab] Redevances de licences</td><td colspan="4">5</td></tr>
+<tr><th colspan="2">*États contractants* date de la convention</th><th colspan="2">Revenus [A1][^annexu1-lvlu1-3]</th><th colspan="2">Impôts à la source non récupérables des États contractants en % [A2]</th></tr>
+<tr><td colspan="2">Afrique du Sud</td><td colspan="2">Dividendes</td><td colspan="2"></td></tr>
+<tr><td colspan="2">8.5.2007</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="2">5</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="2">15</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="2">5</td></tr>
+<tr><td colspan="2">Albanie</td><td colspan="2">Dividendes</td><td colspan="2"></td></tr>
+<tr><td colspan="2">12.11.1999</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="2">5</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="2">8 [B1]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="2">5 [C1]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="2">5</td></tr>
+<tr><td colspan="2">Algérie</td><td colspan="2">Dividendes</td><td colspan="2"></td></tr>
+<tr><td colspan="2">3.6.2006</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="2">5</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="2">15</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="2">10 [C1]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="2">10</td></tr>
+<tr><td colspan="2">Allemagne</td><td colspan="2">Dividendes</td><td colspan="2"></td></tr>
+<tr><td colspan="2">11.8.1971</td><td colspan="2">– d’usines hydroélectriques frontières</td><td colspan="2">5</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="2">0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– revenus de bons de jouissance, d’obligations participant aux bénéfices, de participations tacites et de prêts partiaires</td><td colspan="2">26,375 [B9]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="2">15</td></tr>
+<tr><td colspan="2">Argentine</td><td colspan="2">Dividendes</td><td>7 [B4]</td></tr>
+<tr><td colspan="2">20.3.2014</td><td colspan="2">Intérêts</td><td>12 [C1]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td>15 [D6]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Rémunérations pour fourniture d’assistance technique</td><td>10</td></tr>
+</table>
+
+<table>
+<tr><th>*États contractants* date de la convention</th><th>Revenus [A1]</th><th colspan="2">Impôts à la source non récupérables des États contractants en % [A2]</th></tr>
+<tr><td>Arménie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>12.6.2006</td><td>– de filiales (dès 25 %)</td><td colspan="3">5 [B5]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">5/10 [B1] [B43]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1] [C29]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Australie</td><td>Dividendes</td><td colspan="3">0 [B7]</td></tr>
+<tr><td>30.7.2013</td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Autriche</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>30.1.1974</td><td>– de filiales (dès 20 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td>Azerbaïdjan</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>23.2.2006</td><td>– de filiales (dès 20 %)</td><td colspan="3">5 [B6]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1] [C3] [C21]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10 [D4]</td></tr>
+<tr><td>Bangladesh</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>10.12.2007</td><td>– de filiales (dès 20 %)</td><td colspan="3">10</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td>Bélarus</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>26.4.1999</td><td>– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– payés à des personnes morales</td><td colspan="3">12 [B1]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">13 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">8 [C1] [C3]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3"></td></tr>
+<tr><td></td><td>– de brevets et de know-how</td><td colspan="3">3</td></tr>
+<tr><td></td><td>– de *leasing*</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10</td></tr>
+<tr><td>Belgique</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>28.8.1978</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td>Bulgarie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>28.10.1991</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">5 [B2]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td>Canada</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>5.5.1997</td><td>– de filiales (dès 10 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3"></td></tr>
+<tr><td></td><td>– payés à des personnes liées</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>– payés à des personnes non liées</td><td colspan="3">0</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10 [D1]</td></tr>
+<tr><td>Chili</td><td>Dividendes</td><td colspan="3">15 [B8]</td></tr>
+<tr><td>2.4.2008</td><td>Intérêts</td><td colspan="3">10 [C8]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3"></td></tr>
+<tr><td></td><td>– de *leasing*</td><td colspan="3">2</td></tr>
+<tr><td></td><td>– autres redevances</td><td colspan="3">10</td></tr>
+<tr><td>Chine</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>25.9.2013</td><td>– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">9</td></tr>
+<tr><td>Chypre</td><td>Dividendes</td><td colspan="3">0 [B1]</td></tr>
+<tr><td>25.7.2014</td><td></td><td colspan="3"></td></tr>
+<tr><td>Colombie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>26.10.2007</td><td>– de filiales (dès 20 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10 [B1] [B38]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1] [C26]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Rémunérations pour prestations de services</td><td colspan="3">10</td></tr>
+<tr><td>Corée (Sud)</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>12.2.1980</td><td>– de filiales (dès 10 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1] [C3]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Côte d’Ivoire</td><td>Dividendes</td><td colspan="3">10 [B11]</td></tr>
+<tr><td>23.11.1987</td><td>Intérêts</td><td colspan="3">15 [C1] [C27] [C10]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td>Croatie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>12.3.1999</td><td>– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">12 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">5</td></tr>
+<tr><td>Danemark</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>23.11.1973</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td>Égypte</td><td>Dividendes</td><td colspan="3">0 [B1] [B3]</td></tr>
+<tr><td>20.5.1987</td><td>Intérêts</td><td colspan="3">15 [C1] [C2]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">12,5 [D22]</td></tr>
+<tr><td>Émirats arabes unis</td><td>Dividendes</td><td colspan="3">0 [B31]</td></tr>
+<tr><td>6.10.2011</td><td></td><td></td></tr>
+<tr><td>Équateur</td><td>Dividendes</td><td colspan="3">10 [B10]</td></tr>
+<tr><td>28.11.1994</td><td>Intérêts</td><td colspan="3">10 [C1] [C7]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td>Espagne</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>26.4.1966</td><td>– de filiales (dès 10 %)</td><td colspan="3">0 [B25]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5 [D16]</td></tr>
+<tr><td>Estonie</td><td>Dividendes</td><td colspan="3">0 [B12]</td></tr>
+<tr><td>11.6.2002</td><td></td><td colspan="3"></td></tr>
+<tr><td>États-Unis</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>2.10.1996</td><td>– de filiales (dès 10 %)</td><td colspan="3">5 [B29]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15 [B29]</td></tr>
+<tr><td>Finlande</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>16.12.1991</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10</td></tr>
+<tr><td>France</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>9.9.1966</td><td>– de filiales (dès 10 %)</td><td colspan="3">0 [B13]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">12,8 / 15 [B26]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Géorgie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>15.6.2010</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">5 [B2]</td></tr>
+<tr><td>Ghana</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>23.7.2008</td><td>– de filiales (dès 10 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">8 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">8 [C1] [C4] [C32]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">8</td></tr>
+<tr><td></td><td>Rémunérations de services</td><td colspan="3">8 [E1]</td></tr>
+<tr><td>Grèce</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>16.6.1983</td><td>– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">5 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">7 [C17]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Hong Kong</td><td>Redevances de licences</td><td colspan="3">3</td></tr>
+<tr><td>4.11.2011</td><td></td><td colspan="3"></td></tr>
+<tr><td>Hongrie</td><td>Dividendes</td><td colspan="3">0 [B1]</td></tr>
+<tr><td>12.9.2013</td><td>[tab]</td><td colspan="3"></td></tr>
+<tr><td>Inde</td><td>Dividendes</td><td colspan="3">5 [B45]</td></tr>
+<tr><td>2.11.1994</td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences (*leasing* inclus)</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Rémunérations pour prestations de services techniques</td><td colspan="3">10</td></tr>
+<tr><td>Indonésie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>29.8.1988</td><td>– de filiales (dès 25 %)</td><td colspan="3">10</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Rémunérations des prestations de services</td><td colspan="3">5</td></tr>
+<tr><td>Iran</td><td>Dividendes</td><td colspan="3">0 [B14]</td></tr>
+<tr><td>27.10.2002</td><td>Intérêts</td><td colspan="3">0/5 [C1] [C4]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">de 5 à 7.5 [D25]</td></tr>
+<tr><td>Islande</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>10.7.2014</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>[tab] Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Israël</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>2.7.2003</td><td>– de filiales (dès 10 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– de filiales (dès 10 %), au cas où la société israélienne distributrice n’est pas imposée ordinairement</td><td colspan="3">10</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1] [C3] [C28]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Italie</td><td>Dividendes</td><td colspan="3">15</td></tr>
+<tr><td>9.3.1976</td><td>Intérêts</td><td colspan="3">12,5 [C30]</td></tr>
+<tr><td></td><td>Redevances de licences (*leasing* inclus)</td><td colspan="3">5</td></tr>
+<tr><td>Jamaïque</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>6.12.1994</td><td>– de filiales (dès 10 %)</td><td colspan="3">10</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1] [C2] [C3]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10 [D5] [D8]</td></tr>
+<tr><td></td><td>Rémunérations des prestations de services</td><td colspan="3">5 [E2]</td></tr>
+<tr><td>Japon</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>19.1.1971</td><td>– de filiales (dès 50 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– de filiales (dès 10 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td>Kazakhstan</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>21.10.1999</td><td>– de filiales (dès 10 %)</td><td colspan="3">5 [B17] [B39]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences (*leasing* inclus)</td><td colspan="3">10 [D9]</td></tr>
+<tr><td>Kirghizistan</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>26.1.2001</td><td>– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">5</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Kosovo</td><td>Dividendes</td><td colspan="3">0 [B1] [B3]</td></tr>
+<tr><td>26.5.2017</td><td>Intérêts</td><td colspan="3">5 [C1]</td></tr>
+<tr><td>Koweït</td><td>Dividendes</td><td colspan="3">0 [B1]</td></tr>
+<tr><td>16.2.1999</td><td>Intérêts</td><td colspan="3">0 [C4]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">0 [D2]</td></tr>
+<tr><td>Lettonie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>31.1.2002</td><td>– de filiales (dès 20 %)</td><td colspan="3">0 [B3]</td></tr>
+<tr><td></td><td>– à des personnes morales</td><td colspan="3">0 [B1]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10/0 [B1] [B41]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3"></td></tr>
+<tr><td></td><td>– à des personnes morales</td><td colspan="3">0 [C4]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3"></td></tr>
+<tr><td></td><td>– à des personnes morales</td><td colspan="3">0 [D2]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">5</td></tr>
+<tr><td>Liechtenstein</td><td>Dividendes</td><td colspan="3">0 [B1]</td></tr>
+<tr><td>10.7.2015</td><td></td><td colspan="3"></td></tr>
+<tr><td>Lituanie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>27.5.2002</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3"></td></tr>
+<tr><td></td><td>– à des personnes morales</td><td colspan="3">0 [C4]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">0 [D7]</td></tr>
+<tr><td>Luxembourg</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>21.1.1993</td><td>– de filiales (dès 10 %)</td><td colspan="3">0 [B18] [B19]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15 [B19]</td></tr>
+<tr><td>Macédoine du Nord</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>14.4.2000</td><td>– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td>Malaisie</td><td>Dividendes</td><td colspan="3">0 [B20]</td></tr>
+<tr><td>30.12.1974</td><td>Intérêts</td><td colspan="3">10 [C24]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10 [D11]</td></tr>
+<tr><td>Malte</td><td>Dividendes</td><td colspan="3">0 [B1] [B21]</td></tr>
+<tr><td>25.2.2011</td><td></td><td colspan="3"></td></tr>
+<tr><td>Maroc</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>31.3.1993</td><td>– de filiales (dès 25 %)</td><td colspan="3">7</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C2]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td>Mexique</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>3.8.1993</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">[C1]</td></tr>
+<tr><td></td><td>– papiers-valeurs traités en bourse, au Mexique ou dans un État ayant conclu une CDI avec le Mexique</td><td colspan="3">4,9</td></tr>
+<tr><td></td><td>– payés à une banque ou à une assurance</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10 [D24]</td></tr>
+<tr><td>Moldova</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>13.1.1999</td><td>– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">6 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td>Mongolie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>20.9.1999</td><td>– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td>Monténégro</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>13.4.2005</td><td>– de filiales (dès 20 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">9 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">9 [C4]</td></tr>
+<tr><td>Norvège</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>7.9.1987</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td>Nouvelle-Zélande</td><td>Dividendes</td><td colspan="3">15</td></tr>
+<tr><td>6.6.1980</td><td>Intérêts</td><td colspan="3">10 [C16]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td>*Oman*</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>22.5.2015</td><td>– de filiales (dès 10 %)</td><td colspan="3">0 [B42]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">0 [B1] [B42]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">0 [C31]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">8</td></tr>
+<tr><td>Ouzbékistan</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>3.4.2002</td><td>– de filiales (dès 20 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">5 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Pakistan</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>21.3.2017</td><td>– de filiales (dès 20 %)</td><td colspan="3">de 7,5 à 10 [B22]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">de 7,5 à 15 [B22]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Rémunérations pour des prestations de services techniques</td><td colspan="3">7</td></tr>
+<tr><td>Pays-Bas</td><td>Dividendes</td><td colspan="3">[B19]</td></tr>
+<tr><td>26.2.2010</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td>Pérou</td><td>Dividendes</td><td colspan="3">5 [B37]</td></tr>
+<tr><td>21.9.2012</td><td>[tab] Intérêts</td><td colspan="3">15 [C25]</td></tr>
+<tr><td></td><td>[tab] Redevances de licences</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Rémunérations pour l’assistance technique et des services numériques</td><td colspan="3">10</td></tr>
+<tr><td>Philippines</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>24.6.1998</td><td>– de filiales (dès 10 %)</td><td colspan="3">10</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10 [D12]</td></tr>
+<tr><td>Pologne</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>2.9.1991</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">5 [C6] [C18]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5 [D13] [D14]</td></tr>
+<tr><td>Portugal</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>26.9.1974</td><td>– de filiales (dès 25 %)</td><td colspan="3">5 [B35]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1] [C33]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Qatar</td><td>Dividendes</td><td colspan="3">0 [B1] [B2] [B3]</td></tr>
+<tr><td>24.9.2009</td><td>[tab]</td><td colspan="3"></td></tr>
+<tr><td>Roumanie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>25.10.1993</td><td>– de filiales (dès 25 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">5 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">5 [C1] [C6]</td></tr>
+<tr><td>Royaume-Uni</td><td>Dividendes</td><td colspan="3">0 [B32]</td></tr>
+<tr><td>8.12.1977</td><td></td><td colspan="3"></td></tr>
+<tr><td>Russie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>15.11.1995</td><td>– de filiales (dès 20 %)</td><td colspan="3">5 [B5]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td>Serbie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>13.4.2005</td><td>– de filiales (dès 20 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10</td></tr>
+<tr><td>Singapour</td><td>Dividendes</td><td colspan="3">0 [B23]</td></tr>
+<tr><td>24.2.2011</td><td>Intérêts</td><td colspan="3">5 [C14]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Slovaquie</td><td>Dividendes</td><td colspan="3">7 [B1] [B24]</td></tr>
+<tr><td>14.2.1997</td><td>Intérêts</td><td colspan="3">5 [C1] [C6]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5 [D1] [D13]</td></tr>
+<tr><td>Slovénie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>12.6.1996</td><td>– de filiales (dès 25 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">5 [C1] [C6]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5 [D1] [D13]</td></tr>
+<tr><td>Sri Lanka</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>11.1.1983</td><td>– de filiales (dès 25 %)</td><td colspan="3">0 [B2] [B44]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">0 [B1] [B44]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">5</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Paiements pour services</td><td colspan="3">5</td></tr>
+<tr><td>Suède</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>7.5.1965</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td>Tadjikistan</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>23.6.2010</td><td>– de filiales (dès 20 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">12/15 [B1] [B40]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Taïwan</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>(Taipei chinois)</td><td>– de filiales (dès 20 %)</td><td colspan="3">10</td></tr>
+<tr><td>8.10.2007 [A3]</td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td>Tchéquie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>4.12.1995</td><td>– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5 [D13]</td></tr>
+<tr><td>Thaïlande</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>12.2.1996</td><td>– de filiales (dès 10 %)</td><td colspan="3">10 [B27]</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10 [B1] [B27]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C1] [C9] [C19] [C20]</td></tr>
+<tr><td></td><td>Redevances de licences (*leasing* inclus)</td><td colspan="3">10 [D17] [D18] [D19]</td></tr>
+<tr><td>Trinité-et-Tobago</td><td>Dividendes</td><td colspan="3">10 [B28]</td></tr>
+<tr><td>1.2.1973</td><td>Intérêts</td><td colspan="3">10 [C2]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Rémunérations de gestion</td><td colspan="3">5</td></tr>
+<tr><td>Tunisie</td><td>Dividendes</td><td colspan="3">10 [B36]</td></tr>
+<tr><td>10.2.1994</td><td>Intérêts</td><td colspan="3">10 [C2]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10 [D8]</td></tr>
+<tr><td>Turkménistan</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>8.10.2012</td><td>– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">10/15 [B1] [B16]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td>Turquie</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>18. 6.2010</td><td>– de filiales (dès 20 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">de 0 à 15 [C22]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">10</td></tr>
+<tr><td></td><td>Bénéfices distribués d’un établissement stable</td><td colspan="3">5 [B15]</td></tr>
+<tr><td>Ukraine</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>30.10.2000</td><td>– de filiales (dès 10 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">5 [C1]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5 [D1] [D21]</td></tr>
+<tr><td>Uruguay</td><td>Dividendes</td><td colspan="3"></td></tr>
+<tr><td>18.10.2010</td><td>– de filiales (dès 25 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">7 [B1]</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3">10 [C11]</td></tr>
+<tr><td>Venezuela</td><td>Dividendes</td><td colspan="3">0 [B30]</td></tr>
+<tr><td>20.12.1996</td><td>Intérêts</td><td colspan="3">5 [C1] [C5]</td></tr>
+<tr><td></td><td>Redevances de licences</td><td colspan="3">5</td></tr>
+<tr><td>Vietnam</td><td>Dividendes</td><td colspan="3">[B33] [B34]</td></tr>
+<tr><td>6.5.1996</td><td>– payés à des sociétés</td><td colspan="3">0</td></tr>
+<tr><td></td><td>– payés à des personnes physiques</td><td colspan="3">5</td></tr>
+<tr><td></td><td>Intérêts</td><td colspan="3"></td></tr>
+<tr><td></td><td>– payés à des sociétés</td><td colspan="3">5 [C1] [C4] [C12]</td></tr>
+<tr><td></td><td>– payés à des personnes physiques</td><td colspan="3">5 [C12]</td></tr>
+<tr><td></td><td>Redevances de licences (*leasing* inclus)</td><td colspan="3"></td></tr>
+<tr><td></td><td>– payées à des sociétés</td><td colspan="3">10 [D10]</td></tr>
+<tr><td></td><td>– payées à des personnes physiques</td><td colspan="3">5 [D2] [D10]</td></tr>
+<tr><td></td><td>[tab]</td><td colspan="3"></td></tr>
+<tr><td>*Zambie*</td><td>[tab] Dividendes</td><td colspan="3"></td></tr>
+<tr><td>29.8.2017</td><td>– de filiales (dès 10 %)</td><td colspan="3">5</td></tr>
+<tr><td></td><td>– autres</td><td colspan="3">15</td></tr>
+<tr><td></td><td>[tab] Intérêts</td><td colspan="3">10 [C1]</td></tr>
+<tr><td></td><td>[tab] Redevances de licences</td><td colspan="3">5</td></tr>
 </table>
 
 **Notes**
 
-### A. Général
-
-[^annexu1-lvlu1-1]: Pour les revenus échus en 2019, voir [RO 2020 157](https://fedlex.data.admin.ch/eli/oc/2020/29).
-[^annexu1-lvlu1-2]: Cette liste présente les impôts à la source non récupérables sur la base des conventions contre les doubles impositions conclues par la Suisse. Sous certaines conditions, l’art. 9 de l’accord du 26 oct. 2004 entre la Confédération suisse et l’Union européenne sur l’échange automatique d’informations relatives aux comptes financiers en vue d’améliorer le respect des obligations fiscales au niveau international ([RS 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)) prévoit une imposition exclusive dans l’Etat de résidence de la personne qui reçoit des dividendes, intérêts ou redevances de licence payés entre des entreprises associées. Une société suisse qui reçoit des dividendes, intérêts ou redevances de licence exonérés de l’impôt étranger à la source sur la base de l’art. 9 de cet accord ne peut pas faire valoir d’imputation d’impôt.
-[^annexu1-lvlu1-3]: Les notes se trouvent à la fin de la liste.
+A. Général
 
 [1] Pour les dividendes de filiales, la participation minimale est indiquée entre parenthèses.
 
@@ -466,7 +464,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 
 [3] Il n’existe pas de convention entre la Suisse et Taïwan (Taipei chinois). Il existe seulement un accord privé contre les doubles impositions qui a été reconnu par le Conseil fédéral le 9 décembre 2011. Ses dispositions sont applicables depuis le 1<sup>er</sup> janvier 2011.
 
-**B. Dividendes**
+B. Dividendes
 
 [1] En vertu de la convention, droit de l’État de la source de prélever un impôt à la source de 15 %.
 
@@ -482,13 +480,13 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 
 [7] Dans certains cas (*unfranked dividends*), un impôt à la source de 30 % est prélevé. Dans ces cas, une imputation de l’impôt étranger prélevé à la source de 15 % est accordée. L’imputation de l’impôt étranger prélevé à la source est limitée à 5 % pour les dividendes payés à des sociétés détenant une participation d’au moins 10 % à la société distributrice. En règle générale, il n’y a aucune imputation de l’impôt étranger prélevé à la source pour les dividendes payés à des sociétés détenant une participation d’au moins 80 % à la société distributrice.
 
-[8] Imputation de l’impôt étranger prélevé à la source tant que le crédit chilien de l’impôt de 1<sup>re</sup> catégorie est accordé sur l’impôt additionnel chilien.
+[8] Imputation de l’impôt étranger prélevé à la source tant que le crédit chilien de l’impôt de 1<sup>ère</sup> catégorie est accordé sur l’impôt additionnel chilien.
 
 [9] Ne s’applique que si ces montants sont déductibles lors de la détermination des bénéfices du débiteur (contribution de solidarité incluse). En vertu de la convention, l’Allemagne aurait le droit de prélever un impôt à la source de 30 %.
 
 [10] Depuis 2020, l’Équateur prélève un impôt à la source sur les dividendes dont le taux est en règle générale de 10 %. En vertu de la convention, il aurait le droit de prélever un impôt à la source de 15 %.
 
-[11] 10 % pour les dividendes distribués par des sociétés cotées, 15 % pour les dividendes distribués par des sociétés non cotées, lorsque les bénéfices ont été soumis à l’impôt sur le bénéfice. La Suisse n’accorde pas d’imputation pour l’impôt ivoirien prélevé à la source de 15 % retenu sur des dividendes provenant de bénéfices non soumis à l’impôt sur les sociétés.
+[11] 10 % pour les dividendes distribués par des sociétés cotées, 15 % pour les dividendes distribués par des sociétés non cotées lorsque les bénéfices ont été soumis à l’impôt sur le bénéfice. La Suisse n’accorde pas d’imputation pour l’impôt ivoirien prélevé à la source de 15 % retenu sur des dividendes provenant de bénéfices non soumis à l’impôt sur les sociétés.
 
 [12] L’Estonie ne prélève pas d’impôt à la source sur les dividendes. En vertu de la convention, elle aurait le droit de prélever un impôt à la source de 10 % sur les dividendes, respectivement de 0 % pour une participation d’au moins 10 % au capital.
 
@@ -498,7 +496,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 
 [15] En Turquie, un impôt à la source d’au maximum 5 % peut être prélevé sur les bénéfices d’un établissement stable (*branch profits tax*; d’après la législation turque: 15 %), pour autant que ces bénéfices soient exonérés de l’impôt en Suisse (État du siège de l’entreprise). L’exonération fiscale des établissements stables est fixée à l’art. 52 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (RS *642.11*) et dans les dispositions cantonales correspondantes.
 
-[16] Le Qatar ne prélève pas d’impôt à la source sur les dividendes. En vertu de la convention, il aurait le droit de prélever un impôt à la source fixé, selon le cas, à 5 %, 10 % ou 15 %.
+[16] Selon le droit interne, 10 % dans le cas de dividendes payés à des personnes physiques non résidentes.
 
 [17] Pas d’impôt à la source pour les dividendes de participations dès 50 % et d’une valeur d’au moins 1 million USD, si l’investissement a été approuvé par le Gouvernement du Kazakhstan et est entièrement garanti ou assuré du côté suisse.
 
@@ -524,7 +522,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 
 [28] 5 % si la société qui verse le dividende est détenue à hauteur de 50 % au moins par la société qui le reçoit.
 
-[29] Aucune imputation de l’impôt étranger prélevé à la source n’est accordée pour les revenus de sources américaines qui sont soumis, selon les art. 10, par. 2, 11, par. 6, ou 22 de la convention, à l’impôt américain à la source au taux de 30 %.
+[29] Aucune imputation de l’impôt étranger prélevé à la source n’est accordée pour les revenus de sources américaines qui sont soumis, selon les art. 10, par. 2 (dividendes payés par un REIT-*Real Estate Investment Trust* résident des États-Unis), 11, par. 6 ou 22 de la convention, à l’impôt américain à la source au taux de 30 %.
 
 [30] Le Venezuela ne prélève pas d’impôt à la source sur les dividendes lorsqu’ils proviennent de bénéfices imposés. En vertu de la convention, il aurait le droit de prélever un impôt à la source de 10 %, sauf en cas de participation d’au moins 25 % au capital.
 
@@ -552,7 +550,13 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 
 [42] Oman a prélevé jusqu’au 6 mai 2019 un impôt à la source sur les dividendes provenant des sociétés anonymes et des fonds de placement. Depuis cette date, les dividendes payés sont exonérés de l’impôt à la source.
 
-**C. Intérêts**
+[43] Selon le droit interne, 5 % dans le cas de dividendes payés à des personnes physiques non résidentes.
+
+[44] À compter du 1<sup>er</sup> janvier 2020, les dividendes versés à des non-résidents sont exemptés d’imposition au Sri Lanka; en conséquence, aucune imputation d’impôt étranger n’est octroyée.
+
+[45] En raison de la clause évolutive de la nation la plus favorisée entre la Suisse et l’Inde, l’adhésion de la Lituanie respectivement de la Colombie à l’OCDE a pour conséquence que, s’agissant des relations entre l’Inde et la Suisse, le droit à l’imputation de l’impôt étranger prélevé à la source pour les dividendes dus à partir du 1<sup>er</sup> janvier 2021 est limité à 5%.
+
+C. Intérêts
 
 [1] Pour les intérêts qui sont exonérés, d’après la convention, de l’impôt de l’État d’où ils proviennent, aucune imputation de l’impôt étranger prélevé à la source n’est accordée.
 
@@ -568,7 +572,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 
 [7] Le taux de l’impôt à la source équatorien est de 0 % sur les intérêts versés à des institutions financières privées internationales et à des institutions financières multilatérales.
 
-[8] 0 % sur les intérêts qui sont payés par un institut financier au Chili à une banque, un institut financier à l’étranger ou à un institut financier international; 4 % sur des comptes courants ou des dépôts à terme auprès d’instituts financiers autorisés, et pour les intérêts sur des prêts qui sont accordés par des banques, des assurances ou des instituts financiers internationaux autorisés, et pour les intérêts d’obligations ainsi que pour les intérêts en relation avec une vente à crédit payés par l’acheteur au vendeur de machines et d’équipement.
+[8] 0 % sur les intérêts qui sont payés par un institut financier au Chili à une banque, un institut financier à l’étranger ou à un institut financier international; 4 % sur des comptes courants ou des dépôts à terme auprès d’instituts financiers autorisés, pour les intérêts sur des prêts qui sont accordés par des banques, des assurances, des instituts financiers internationaux autorisés ou par des entreprises qui tirent l’essentiel de leurs revenus d’une activité de prêt ou de financement et pour les intérêts en relation avec une vente à crédit payés par l’acheteur au vendeur de machines et d’équipement; 5 % sur des obligations d’emprunts ou des titres négociés sur un marché boursier réglementé.
 
 [9] Pour autant qu’il ne s’agisse pas d’intérêts payés pour un prêt accordé par une institution financière ou par une société d’assurances [voir C19], la Thaïlande peut prélever selon la convention un impôt de 15 %. L’imputation de l’impôt étranger prélevé à la source est de 10 % des intérêts bruts. Au surplus, seuls 95 % du montant brut des intérêts sont imposables.
 
@@ -620,9 +624,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 
 [33] Il existe différentes exonérations des intérêts dans le droit national portugais et sous la convention, p.ex. pour les intérêts d’obligations d’État, de ventes à crédit et de prêts entre institutions financières.
 
-[34] En vertu d’une clause évolutive de la nation la plus favorisée.
-
-**D. Redevances de licences**
+D. Redevances de licences
 
 [1] Pour les redevances de licences qui sont exonérées, d’après la convention, de l’impôt de l’État d’où elles proviennent, aucune imputation de l’impôt étranger prélevé à la source n’est accordée.
 
@@ -634,7 +636,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 
 [5] Impôt à la source prélevé sur 60 % seulement du montant brut des revenus provenant du *leasing*.
 
-[6] 12,25 % pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, dramatique, musicale ou une autre œuvre artistique lorsque le bénéficiaire effectif est une société; 10 % pour l’usage ou la concession de l’usage d’un équipement industriel, commercial ou scientifique ou d’un brevet, d’une marque de fabrique ou de commerce, d’un dessin ou d’un modèle, d’un plan ou encore d’une formule ou d’un procédé secrets, ou pour des informations ayant trait à une expérience acquise dans le domaine industriel ou scientifique; 5 % pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, dramatique, musicale ou une autre œuvre artistique, pour autant que le bénéficiaire effectif soit l’auteur ou l’héritier de ce dernier; 3 % pour l’usage ou la concession de l’usage de nouvelles; pas d’imputation de l’impôt étranger prélevé à la source pour les paiements de location (*leasing*) assortie d’une option d’achat.
+[6] 12,25 % pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, dramatique, musicale ou une autre œuvre artistique lorsque le bénéficiaire effectif est une société; 10 % pour l’usage ou la concession de l’usage d’un équipement industriel, commercial ou scientifique ou d’un brevet, d’une marque de fabrique ou de commerce, d’un dessin ou d’un modèle, d’un plan ou encore d’une formule ou d’un procédé secrets, ou pour des informations ayant trait à une expérience acquise dans le domaine industriel ou scientifique; 5 % pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, dramatique, musicale ou une autre œuvre artistique, pour autant que le bénéficiaire effectif soit l’auteur ou l’héritier de ce dernier; 3 % pour l’usage ou la concession de l’usage de nouvelles; pas d’imputation de l’impôt étranger prélevé à la source pour les paiements de location (*leasing*) assortis d’une option d’achat.
 
 [7] En vertu d’une clause évolutive de la nation la plus favorisée.
 
@@ -674,8 +676,12 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 
 [25] Le taux de l’impôt à la source sur les redevances de licences prélevé selon le droit iranien dépend de la nature du créancier et de la capacité économique.
 
-**E. Prestations de services**
+E. Prestations de services
 
 [1] Rémunérations de services payées à une personne physique (autre qu’un salarié du débiteur de la rémunération) au titre de services de gestion, de services techniques ou de conseil.
 
 [2] Sans égard au montant de l’impôt effectivement déduit car la convention prévoit une imputation de l’impôt fictif.
+
+[^annexu1-lvlu1-1]: Pour les revenus échus en 2020, voir [RO 2021 21](https://fedlex.data.admin.ch/eli/oc/2021/21).
+[^annexu1-lvlu1-2]: Cette liste présente les impôts à la source non récupérables sur la base des conventions contre les doubles impositions conclues par la Suisse. Sous certaines conditions, l’art. 9 de l’accord du 26 oct. 2004 entre la Confédération suisse et l’Union européenne sur l’échange automatique d’informations relatives aux comptes financiers en vue d’améliorer le respect des obligations fiscales au niveau international ([RS 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)) prévoit une imposition exclusive dans l’État de résidence de la personne qui reçoit des dividendes, intérêts ou redevances de licence payés entre des entreprises associées. Une société suisse qui reçoit des dividendes, intérêts ou redevances de licence exonérés de l’impôt étranger à la source sur la base de l’art. 9 de cet accord ne peut pas faire valoir d’imputation d’impôt.
+[^annexu1-lvlu1-3]: Les notes se trouvent à la fin de la liste.
