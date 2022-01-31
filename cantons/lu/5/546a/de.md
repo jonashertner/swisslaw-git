@@ -3,20 +3,20 @@ canton: LU
 number: 546a
 title: Reglement über das Weiterbildungsangebot CAS «Palliative Care» der Universität Luzern und des Luzerner Kantonsspitals
 language: de
-version: 2020-04-01
-valid_until: 2022-01-31
-version_adopted: 2020-03-25
+version: 2022-02-01
+valid_until: 2023-04-30
+version_adopted: 2021-12-17
 adopted: 2018-12-19
 in_force: 2019-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/546a"
-pdf: "https://srl.lu.ch/api/de/versions/3567/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3888/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über das Weiterbildungsangebot CAS «Palliative Care» der Universität Luzern und des Luzerner Kantonsspitals
 
-vom 19.12.2018 (Stand 01.04.2020)
+vom 19.12.2018 (Stand 01.02.2022)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -113,7 +113,7 @@ beschliesst:
 
 **Lehrkörper**
 
-<sup>1</sup> Der Lehrkörper besteht sowohl aus Dozierenden der Universität Luzern und des LUKS sowie aus beigezogenen Referentinnen und Referenten anderer Universitäten und weiteren Fachpersonen aus dem Bereich Palliative Care und affinen Bereichen. Die Studienleitung ist für die Auswahl des Lehrkörpers verantwortlich, die nach wissenschaftlichen und didaktischen Kriterien erfolgt.
+<sup>1</sup> Der Lehrkörper besteht sowohl aus Dozierenden der Universität Luzern und des LUKS sowie aus beigezogenen Referentinnen und Referenten anderer Universitäten und weiteren Fachpersonen aus dem Bereich Palliative Care und affinen Bereichen. Der Vorstand ist für die Auswahl des Lehrkörpers verantwortlich, die nach wissenschaftlichen und didaktischen Kriterien erfolgt.
 
 <sup>2</sup> Für Dozentinnen und Dozenten der Universität Luzern besteht keine Verpflichtung und kein Anspruch zur Mitwirkung am Zertifikatslehrgang.
 
@@ -133,7 +133,7 @@ beschliesst:
 
 **Zulassung**
 
-<sup>1</sup> Zum Zertifikatslehrgang kann zugelassen werden, wer einen Abschluss an einer anerkannten Hochschule erworben hat und mindestens drei Jahre qualifizierte Berufserfahrung im Bereich Palliative Care oder in einem affinen Bereich nachweisen kann. Die Studienleitung kann darüber hinaus Personen «sur dossier» zulassen, wenn sie über vergleichbare Kompetenzen verfügen und Erfahrungen nachweisen können.
+<sup>1</sup> Zum Zertifikatslehrgang kann zugelassen werden, wer einen Abschluss an einer anerkannten Hochschule erworben hat und mindestens drei Jahre qualifizierte Berufserfahrung im Bereich Palliative Care oder in einem affinen Bereich nachweisen kann. Die Studienleitung kann darüber hinaus Personen «sur dossier» zulassen, wenn sie über vergleichbare Kompetenzen verfügen und Erfahrungen nachweisen können. Personen, die sich «sur dossier» anmelden, sollen einen Motivationsbrief sowie eine Referenz mit den Anmeldungsunterlagen einreichen.
 
 <sup>2</sup> Mit der Zulassung wird entschieden, ob gewisse Vorleistungen von maximal 2 ECTS angerechnet werden. Es können keine ECTS angerechnet werden, die bereits Teil eines abgeschlossenen Studiums sind.
 
@@ -143,7 +143,7 @@ beschliesst:
 
 <sup>5</sup> Einzelne Module oder Teile des ganzen Zertifikatslehrgangs können für weitere interessierte Fachpersonen geöffnet werden. Der Besuch einzelner Module führt nicht zu einem Abschluss.
 
-<sup>6</sup> Pro Kurs werden in der Regel 15 bis 25 Teilnehmende zugelassen. Bei weniger als 15 zugelassenen Teilnehmerinnen und Teilnehmern entscheidet die Studienleitung über die Durchführung des Kurses.
+<sup>6</sup> Pro Kurs werden in der Regel 15 bis 25 Teilnehmende zugelassen. Bei weniger als 15 zugelassenen Teilnehmerinnen und Teilnehmern entscheidet der Vorstand über die Durchführung des Kurses.
 
 #### § 9
 
@@ -181,7 +181,7 @@ beschliesst:
 
 **Abschlüsse**
 
-<sup>1</sup> Die Abschlüsse werden im Namen des Departements für Gesundheitswissenschaften und Medizin der Universität Luzern ausgestellt und von der Rektorin oder vom Rektor der Universität Luzern, von der Departementsleiterin oder vom Departementsleiter und von der Vizepräsidentin oder vom Vizepräsidenten des Vorstands, welche das LUKS vertreten, unterschrieben.
+<sup>1</sup> Die Abschlüsse werden im Namen des Departements für Gesundheitswissenschaften und Medizin der Universität Luzern ausgestellt und von der Vorstandspräsidentin oder vom Vorstandspräsidenten im Namen der Universität Luzern sowie von der Vizepräsidentin oder vom Vizepräsidenten des Vorstands, welche das LUKS vertritt, unterschrieben.
 
 #### § 12
 
