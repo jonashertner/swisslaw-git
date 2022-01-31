@@ -3,13 +3,12 @@ canton: FR
 number: "750.21"
 title: Beschluss betreffend die Benützung von öffentlichen oder privaten Grundstücken des Staates zwecks Erstellung von Ferienhäusern
 language: de
-version: 2008-01-01
-valid_until: 2022-01-31
-version_adopted: 2010-10-04
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1963-12-31
 in_force: 1964-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/750.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/5384/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5384/pdf_file"
 
 Erstellung von Ferienhäusern auf Grundstücken des Staates – B
 
-vom 31.12.1963 (Fassung in Kraft getreten am 01.01.2008)
+vom 31.12.1963 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -38,7 +37,7 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Die Benützung von öffentlichen oder privaten Grundstücken des Staates für die Erstellung von Ferien-, Land-, Wochenendhäuschen, von Fischerhütten oder andern Bauten bedarf einer Bewilligung auf Zusehen hin, die durch die Direktion der Institutionen und der Land- und Forstwirtschaft oder die Raumplanungs-, Umwelt- und Baudirektion erteilt wird, je nachdem, ob es sich um privaten oder öffentlichen Grund und Boden des Staates handelt; die beiden Direktionen sprechen sich untereinander ab.
+<sup>1</sup> Die Benützung von öffentlichen oder privaten Grundstücken des Staates für die Erstellung von Ferien-, Land-, Wochenendhäuschen, von Fischerhütten oder andern Bauten bedarf einer Bewilligung auf Zusehen hin, die durch die Direktion der Institutionen und der Land- und Forstwirtschaft oder die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt erteilt wird, je nachdem, ob es sich um privaten oder öffentlichen Grund und Boden des Staates handelt; die beiden Direktionen sprechen sich untereinander ab.
 
 <sup>2</sup> Die Baubewilligung bleibt stets vorbehalten.
 
@@ -73,9 +72,9 @@ beschliesst:
 
 - I. Erteilung oder Übertrag der Bewilligung
   - a) Prüfung des Gesuches, Bestimmung des Platzes:
-  - a.1. pro Fischerhütte: einmalige Gebühr: Fr. 60
-  - a.2. pro Ferienhaus: einmalige Gebühr: Fr. 310
-  - b) Übertragung der Bewilligung für Ferienhäuser (zahlbar bei Einreichung des Gesuches): Fr. 310
+  - a.1. pro Fischerhütte: einmalige Gebühr: — Fr. 60
+  - a.2. pro Ferienhaus: einmalige Gebühr: — Fr. 310
+  - b) Übertragung der Bewilligung für Ferienhäuser (zahlbar bei Einreichung des Gesuches): — Fr. 310
 - II. Jährliche Abgaben
   - a) Hütte für Berufsfischer: Die bis zum 31. Dezember 2001 geltende Abgabe wird ab 1. Januar 2002 um 10 Prozent heraufgesetzt. Die Hütten der Berufsfischer dürfen weder bewohnt noch vermietet werden.
   - b) Ferienhäuser: Die bis zum 31. Dezember 2001 geltende Abgabe wird um 10 Prozent heraufgesetzt. Die Abgabe wird zudem erhöht, wenn das Gebäude vergrössert wird oder nach dem 1. Januar 1994 vergrössert wurde.
@@ -88,7 +87,7 @@ beschliesst:
 
 #### Art. 8
 
-<sup>1</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft und die Raumplanungs-, Umwelt- und Baudirektion sind, jede in ihrem Kompetenzbereich, mit der Ausführung dieses Beschlusses beauftragt, der am 1. Januar 1964 in Kraft tritt.[^8-1]
+<sup>1</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft und die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt sind, jede in ihrem Kompetenzbereich, mit der Ausführung dieses Beschlusses beauftragt, der am 1. Januar 1964 in Kraft tritt.[^8-1]
 
 [^8-1]: Dieser Beschluss ist durch Art. 14 Bst. a der Verordnung vom 27. November 2007 über die Naturverträge für die Ferienhäuser auf den Grundstücken des Staates am Ufer des Neuenburgersees aufgehoben (ASF 2007\_115). Er ist danach durch die Verordnung vom 04.10.2010 zur Aufhebung der Verordnung vom 27.11.2007 über die Naturverträge für die Ferienhäuser auf den Grundstücken des Staates am Ufer des Neuenburgersees (ASF 2010\_103) rückwirkend auf den 1. Januar 2008 wieder in Kraft gesetzt worden.
 

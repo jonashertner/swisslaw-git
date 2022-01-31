@@ -3,13 +3,12 @@ canton: FR
 number: "750.21"
 title: "Arrêté concernant l'utilisation du domaine public ou privé de l'Etat en vue de la construction de maisons de vacances"
 language: fr
-version: 2008-01-01
-valid_until: 2022-01-31
-version_adopted: 2010-10-04
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1963-12-31
 in_force: 1964-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/750.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5384/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7450/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5384/pdf_file"
 
 Construction de maisons de vacances sur le domaine de l'Etat – A
 
-du 31.12.1963 (version entrée en vigueur le 01.01.2008)
+du 31.12.1963 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -38,7 +37,7 @@ Arrête:
 
 #### Art. 1
 
-<sup>1</sup> L'utilisation d'un bien-fonds, propriété publique ou privée du canton, en vue de la construction de maisons de vacances, cottages, week-end houses, cabanes de pêche ou autres immeubles est subordonnée à l'octroi d'une autorisation à bien plaire par la Direction des institutions, de l'agriculture et des forêts ou la Direction de l'aménagement, de l'environnement et des constructions selon qu'il s'agit respectivement du domaine privé ou du domaine public de l'Etat; elles se consultent réciproquement.
+<sup>1</sup> L'utilisation d'un bien-fonds, propriété publique ou privée du canton, en vue de la construction de maisons de vacances, cottages, week-end houses, cabanes de pêche ou autres immeubles est subordonnée à l'octroi d'une autorisation à bien plaire par la Direction des institutions, de l'agriculture et des forêts ou la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement selon qu'il s'agit respectivement du domaine privé ou du domaine public de l'Etat; elles se consultent réciproquement.
 
 <sup>2</sup> L'octroi du permis de construire est toujours réservé.
 
@@ -73,9 +72,9 @@ Arrête:
 
 - I. Octroi de l'autorisation ou transfert
   - a) Examen de la requête, fixation de l'emplacement:
-  - a.1. par cabane de pêcheur, émolument unique: Fr. 60
-  - a.2. par maison de vacances, émolument unique: Fr. 310
-  - b) Transfert d'une autorisation pour maison de vacances (payables dès le dépôt de la demande): Fr. 310
+  - a.1. par cabane de pêcheur, émolument unique: — Fr. 60
+  - a.2. par maison de vacances, émolument unique: — Fr. 310
+  - b) Transfert d'une autorisation pour maison de vacances (payables dès le dépôt de la demande): — Fr. 310
 - II. Taxes annuelles
   - a) Cabanes de pêcheurs professionnels: la taxe en vigueur jusqu'au 31 décembre 2001 est majorée de 10 % dès le 1<sup>er</sup> janvier 2002. Les cabanes de pêcheurs professionnels ne peuvent être ni habitées ni louées.
   - b) Maison de vacances: la taxe globale en vigueur jusqu'au 31 décembre 2001 est majorée de 10 %. La taxe est en plus augmentée lorsqu'un agrandissement d'immeuble est réalisé ou a été réalisé dès le 1<sup>er</sup> janvier 1994.
@@ -88,7 +87,7 @@ Arrête:
 
 #### Art. 8
 
-<sup>1</sup> La Direction des institutions, de l'agriculture et des forêts et la Direction de l'aménagement, de l'environnement et des constructions, chacune dans le domaine de ses compétences, sont chargées de l'exécution du présent arrêté qui entre en vigueur le 1<sup>er</sup> janvier 1964.[^8-1]
+<sup>1</sup> La Direction des institutions, de l'agriculture et des forêts et la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement, chacune dans le domaine de ses compétences, sont chargées de l'exécution du présent arrêté qui entre en vigueur le 1<sup>er</sup> janvier 1964.[^8-1]
 
 [^8-1]: Cet arrêté a été abrogé par l'art. 14 let. a de l'ordonnance du 27 novembre 2007 relative à l'établissement d'un contrat nature pour les chalets de vacances sur le domaine de l'Etat au bord du lac de Neuchâtel (ROF 2007\_115). Il a ensuite été remis en vigueur avec effet rétroactif au 1<sup>er</sup> janvier 2008 par l'ordonnance du 04.10.2010 abrogeant l'ordonnance du 27.11.2007 relative à l'établissement d'un contrat nature pour les chalets de vacances sur le domaine de l'Etat au bord du lac de Neuchâtel (ROF 2010\_103).
 
