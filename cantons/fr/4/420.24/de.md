@@ -1,27 +1,27 @@
 ---
 canton: FR
 number: "420.24"
-title: "Reglement für das Lehrpersonal, das der Volkswirtschaftsdirektion untersteht"
-short: LPR VWD
+title: "Reglement für das Lehrpersonal, das der Volkswirtschafts- und Berufsbildungsdirektion untersteht"
+short: LPR VWBD
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-11-30
+version: 2022-02-01
+valid_until: 2024-07-31
+version_adopted: 2022-03-04
 adopted: 2011-10-11
 in_force: 2011-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/420.24"
-pdf: "https://bdlf.fr.ch/api/de/versions/6994/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8019/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement für das Lehrpersonal, das der Volkswirtschaftsdirektion untersteht
+# Reglement für das Lehrpersonal, das der Volkswirtschafts- und Berufsbildungsdirektion untersteht
 
-Lehrpersonal der Volkswirtschaftsdirektion – R
+Lehrpersonal der VWBD – R
 
-(LPR VWD)
+(LPR VWBD)
 
-vom 11.10.2011 (Fassung in Kraft getreten am 01.01.2022)
+vom 11.10.2011 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -47,7 +47,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement gilt für das Lehrpersonal, das der Volkswirtschaftsdirektion (die Direktion) unterstellt ist und dem Gesetz über das Staatspersonal untersteht.
+<sup>1</sup> Dieses Reglement gilt für das Lehrpersonal, das der Volkswirtschafts- und Berufsbildungsdirektion (die Direktion) unterstellt ist und dem Gesetz über das Staatspersonal untersteht.
 
 <sup>2</sup> Das Lehrpersonal der Fachhochschule Westschweiz//Freiburg (HES-SO//FR) und das Lehrpersonal, das beim Interprofessionellen Weiterbildungszentrum (IWZ) angestellt ist, unterstehen diesem Reglement nicht.
 
@@ -249,10 +249,10 @@ beschliesst:
 
 <sup>2</sup> Im Rahmen des an den Schulen erteilten Unterrichts verteilt sich die Arbeitszeit je nach Ausbildungsstufe, Unterrichtsart und Rahmenarbeitsbedingungen wie folgt auf die vier Arbeitsbereiche:
 
-- a) Unterricht: 80–85 %
-- b) Begleitung der Lernenden: 5–10 %
-- c) Schulleben: 5–10 %
-- d) Weiterbildung: 3–5 %
+- a) Unterricht: — 80–85 %
+- b) Begleitung der Lernenden: — 5–10 %
+- c) Schulleben: — 5–10 %
+- d) Weiterbildung: — 3–5 %
 
 #### Art. 19
 

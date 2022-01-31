@@ -1,27 +1,27 @@
 ---
 canton: FR
 number: "420.24"
-title: "Règlement relatif au personnel enseignant dépendant de la Direction de l'économie et de l'emploi"
-short: RPEns DEE
+title: "Règlement relatif au personnel enseignant dépendant de la Direction de l'économie, de l'emploi et de la formation professionnelle"
+short: RPEns DEEF
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-11-30
+version: 2022-02-01
+valid_until: 2024-07-31
+version_adopted: 2022-03-04
 adopted: 2011-10-11
 in_force: 2011-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/420.24"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6994/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8019/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Règlement relatif au personnel enseignant dépendant de la Direction de l'économie et de l'emploi
+# Règlement relatif au personnel enseignant dépendant de la Direction de l'économie, de l'emploi et de la formation professionnelle
 
-Personnel enseignant de la Direction de l'économie et de l'emploi – R
+Personnel enseignant de la DEEF – R
 
-(RPEns DEE)
+(RPEns DEEF)
 
-du 11.10.2011 (version entrée en vigueur le 01.01.2022)
+du 11.10.2011 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -47,7 +47,7 @@ Arrête:
 
 **Champ d'application**
 
-<sup>1</sup> Ce règlement s'applique au personnel enseignant dépendant de la Direction de l'économie et de l'emploi (ci-après: la Direction), soumis à la loi sur le personnel de l'Etat.
+<sup>1</sup> Ce règlement s'applique au personnel enseignant dépendant de la Direction de l'économie, de l'emploi et de la formation professionnelle (ci-après: la Direction), soumis à la loi sur le personnel de l'Etat.
 
 <sup>2</sup> Le corps enseignant qui fait partie de la Haute Ecole spécialisée de Suisse occidentale//Fribourg (HES-SO//FR), de même que le corps enseignant engagé auprès du Centre de perfectionnement interprofessionnel (CPI), n'est pas soumis à ce règlement.
 
@@ -249,10 +249,10 @@ Arrête:
 
 <sup>2</sup> Dans le cadre de l'enseignement dispensé dans les Ecoles, le temps de travail est réparti dans chacun des champs d'activité selon le degré, le type d'enseignement et les conditions cadres de travail comme il suit:
 
-- a) enseignement: 80–85 %
-- b) suivi des personnes en formation: 5–10 %
-- c) fonctionnement de l'Ecole: 5–10 %
-- d) formation continue: 3–5 %
+- a) enseignement: — 80–85 %
+- b) suivi des personnes en formation: — 5–10 %
+- c) fonctionnement de l'Ecole: — 5–10 %
+- d) formation continue: — 3–5 %
 
 #### Art. 19
 
