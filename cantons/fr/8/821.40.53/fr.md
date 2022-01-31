@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.53"
 title: Ordonnance pour le soutien à la relance du commerce local
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-01
 adopted: 2020-11-16
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.53"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7041/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7412/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7041/pdf_file"
 
 COVID-19, soutien à la relance du commerce local – O
 
-du 16.11.2020 (version entrée en vigueur le 01.01.2022)
+du 16.11.2020 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -50,7 +50,7 @@ Arrête:
 
 <sup>1</sup> Un montant de 2'000'000 de francs est alloué à cette fin. Ce montant couvre le coût de la contribution de l'Etat sur les bons d'achat ainsi que les frais de gestion et d'exploitation de la plate-forme en ligne.
 
-<sup>2</sup> Un montant complémentaire unique de 160'000 francs est alloué pour le développement de la plate-forme en ligne dès le 1<sup>er</sup> janvier 2022. Il est prélevé sur le montant de 1'000'000 de francs qui était prévu initialement pour la mesure Nº 21 du plan de relance. La Direction des institutions, de l'agriculture et des forêts et la Direction de l'économie et de l'emploi décident du mode de soutien.
+<sup>2</sup> Un montant complémentaire unique de 160'000 francs est alloué pour le développement de la plate-forme en ligne dès le 1<sup>er</sup> janvier 2022. Il est prélevé sur le montant de 1'000'000 de francs qui était prévu initialement pour la mesure Nº 21 du plan de relance. La Direction des institutions, de l'agriculture et des forêts et la Direction de l'économie, de l'emploi et de la formation professionnelle décident du mode de soutien.
 
 <sup>3</sup> Les montants précités font partie de la mesure soutenant la relance des manifestations touristiques et le commerce local (art. 3 al. 3 du décret du 13 octobre 2020 concernant le plan de relance).
 

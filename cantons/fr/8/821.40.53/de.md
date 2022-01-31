@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.53"
 title: Verordnung zur Unterstützung der Wiederankurbelung des lokalen Handels
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-01
 adopted: 2020-11-16
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.53"
-pdf: "https://bdlf.fr.ch/api/de/versions/7041/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7412/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7041/pdf_file"
 
 COVID-19, Unterstützung der Wiederankurbelung des lokalen Handels – V
 
-vom 16.11.2020 (Fassung in Kraft getreten am 01.01.2022)
+vom 16.11.2020 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -50,7 +50,7 @@ beschliesst:
 
 <sup>1</sup> Zu diesem Zweck wird ein Betrag von 2'000'000 Franken bereitgestellt. Dieser Betrag deckt die Kosten des staatlichen Beitrags an die Gutscheine sowie die Verwaltungs- und Betriebskosten der Online-Plattform.
 
-<sup>2</sup> Für die Weiterentwicklung der Online-Plattform wird ab dem 1. Januar 2022 ein zusätzlicher einmaliger Betrag von 160'000 Franken bereitgestellt. Er wird dem Betrag von 1'000'000 Franken entnommen, der ursprünglich für die Massnahme Nr.° 21 des Wiederankurbelungsplans vorgesehen war. Die Direktion der Institutionen und der Land- und Forstwirtschaft und die Volkswirtschaftsdirektion entscheiden über die Art der Unterstützung.
+<sup>2</sup> Für die Weiterentwicklung der Online-Plattform wird ab dem 1. Januar 2022 ein zusätzlicher einmaliger Betrag von 160'000 Franken bereitgestellt. Er wird dem Betrag von 1'000'000 Franken entnommen, der ursprünglich für die Massnahme Nr. 21 des Wiederankurbelungsplans vorgesehen war. Die Direktion der Institutionen und der Land- und Forstwirtschaft und die Volkswirtschafts- und Berufsbildungsdirektion entscheiden über die Art der Unterstützung.
 
 <sup>3</sup> Die erwähnten Beträge sind Teil der Massnahme zur Unterstützung der Wiederaufnahme von touristischen Veranstaltungen und des lokalen Handels (Art. 3 Abs. 3 des Dekrets vom 13. Oktober 2020 zum Wiederankurbelungsplan).
 
