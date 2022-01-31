@@ -4,13 +4,13 @@ number: "114.22.21"
 title: "Ordonnance sur l'intégration des migrants et des migrantes et la prévention du racisme"
 short: OInt
 language: fr
-version: 2017-07-01
-valid_until: 2022-01-31
-version_adopted: 2017-04-25
+version: 2022-02-01
+valid_until: 2022-06-30
+version_adopted: 2022-02-18
 adopted: 2012-03-06
 in_force: 2012-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.22.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/4977/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7234/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Intégration des migrants et prévention du racisme – O
 
 (OInt)
 
-du 06.03.2012 (version entrée en vigueur le 01.07.2017)
+du 06.03.2012 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -52,7 +52,7 @@ Arrête:
 - a) il encourage et conseille les personnes responsables de projets dans le canton dans le domaine de l'intégration des migrants et des migrantes et dans celui de la prévention du racisme;
 - b) il assume l'information, la coordination et la mise en réseau des acteurs et actrices cantonaux et communaux publics ou privés dans ces deux domaines;
 - c) il assure la coordination avec les organes chargés de l'intégration des réfugié-e-s et des personnes admises à titre provisoire;
-- d) il préavise, à l'intention de la Direction de la sécurité et de la justice, l'octroi de subventions cantonales pour les projets d'intégration des migrants et des migrantes et de prévention du racisme.
+- d) il préavise, à l'intention de la Direction de la sécurité, de la justice et du sport, l'octroi de subventions cantonales pour les projets d'intégration des migrants et des migrantes et de prévention du racisme.
 
 <sup>2</sup> Le Bureau est placé sous la responsabilité du ou de la délégué-e à l'intégration.
 
@@ -62,7 +62,7 @@ Arrête:
 
 <sup>1</sup> Il est institué une Commission cantonale pour l'intégration des migrants et des migrantes et la prévention du racisme (ci-après: la Commission pour l'intégration).
 
-<sup>2</sup> La Commission pour l'intégration est un organe consultatif rattaché administrativement à la Direction de la sécurité et de la justice.
+<sup>2</sup> La Commission pour l'intégration est un organe consultatif rattaché administrativement à la Direction de la sécurité, de la justice et du sport.
 
 #### Art. 4
 
@@ -87,9 +87,9 @@ Arrête:
 - d) une personne représentant les salarié-e-s, proposée par les organisations syndicales;
 - e) une personne représentant les employeurs, proposée par les organisations patronales;
 - f) deux personnes représentant l'Association des communes fribourgeoises (ACF), si possible issues des deux régions linguistiques du canton;
-- g) une personne représentant la Direction de l'instruction publique, de la culture et du sport;
-- h) une personne représentant la Direction de la sécurité et de la justice;
-- i) une personne représentant la Direction de l'économie et de l'emploi;
+- g) une personne représentant la Direction de la formation et des affaires culturelles;
+- h) une personne représentant la Direction de la sécurité, de la justice et du sport;
+- i) une personne représentant la Direction de l'économie, de l'emploi et de la formation professionnelle;
 - j) une personne représentant la Direction de la santé et des affaires sociales.
 
 <sup>2</sup> La Commission pour l'intégration désigne son vice-président ou sa vice-présidente, qui doit être choisi-e parmi les personnes représentant les communautés étrangères.
@@ -124,9 +124,9 @@ Arrête:
 
 <sup>1</sup> Il est institué une Commission cantonale de la scolarisation et de l'intégration des enfants de migrants (ci-après: la Commission de la scolarisation et de l'intégration).
 
-<sup>2</sup> La Commission de la scolarisation et de l'intégration est un organe consultatif rattaché administrativement à la Direction de l'instruction publique, de la culture et du sport.
+<sup>2</sup> La Commission de la scolarisation et de l'intégration est un organe consultatif rattaché administrativement à la Direction de la formation et des affaires culturelles.
 
-<sup>3</sup> La Direction de l'instruction publique, de la culture et du sport pourvoit au secrétariat de la Commission de la scolarisation et de l'intégration.
+<sup>3</sup> La Direction de la formation et des affaires culturelles pourvoit au secrétariat de la Commission de la scolarisation et de l'intégration.
 
 #### Art. 9
 
@@ -151,7 +151,7 @@ Arrête:
 - d) ...
 - e) une personne représentant les conseillers et conseillères en orientation professionnelle;
 - f) une personne représentant la Direction de la santé et des affaires sociales;
-- g) une personne représentant la Direction de la sécurité et de la justice;
+- g) une personne représentant la Direction de la sécurité, de la justice et du sport;
 - h) une personne représentant le Service de l'enfance et de la jeunesse;
 - i) une personne représentant les associations de parents d'élèves;
 - j) une personne représentant l'Association des communes fribourgeoises (ACF);
@@ -159,7 +159,7 @@ Arrête:
 - l) une personne représentant ORS Service AG;
 - m) une personne représentant Caritas Suisse;
 - n) ...
-- o) une personne représentant les chef-fe-s de service de la Direction de l'instruction publique, de la culture et du sport, qui en assume la présidence.
+- o) une personne représentant les chef-fe-s de service de la Direction de la formation et des affaires culturelles, qui en assume la présidence.
 
 #### Art. 11
 
@@ -174,7 +174,7 @@ Arrête:
 - e) elle propose des mesures favorisant l'accueil et la scolarisation des enfants de migrants et migrantes;
 - f) elle émet des propositions visant à améliorer l'efficacité des mesures développées dans le domaine de l'accueil et de la scolarisation des enfants de migrants et migrantes (relations école–famille comprises);
 - g) elle soumet au Conseil d'Etat toute proposition utile en matière d'accueil et de scolarisation des enfants de migrants et migrantes;
-- h) elle adresse, chaque année, un rapport d'activité à l'intention de la Direction de l'instruction publique, de la culture et du sport.
+- h) elle adresse, chaque année, un rapport d'activité à l'intention de la Direction de la formation et des affaires culturelles.
 
 #### Art. 12
 

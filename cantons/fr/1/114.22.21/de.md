@@ -4,13 +4,13 @@ number: "114.22.21"
 title: Verordnung über die Integration der Migrantinnen und Migranten und die Rassismusprävention
 short: IntV
 language: de
-version: 2017-07-01
-valid_until: 2022-01-31
-version_adopted: 2017-04-25
+version: 2022-02-01
+valid_until: 2022-06-30
+version_adopted: 2022-02-18
 adopted: 2012-03-06
 in_force: 2012-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.22.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/4977/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7234/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Integration der Migranten und Rassismusprävention – V
 
 (IntV)
 
-vom 06.03.2012 (Fassung in Kraft getreten am 01.07.2017)
+vom 06.03.2012 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -52,7 +52,7 @@ beschliesst:
 - a) Sie unterstützt und berät die Verantwortlichen von kantonalen Projekten in den Bereichen der Integration der Migrantinnen und Migranten und der Rassismusprävention.
 - b) Sie übernimmt die Information, die Koordination und die Vernetzung der kantonalen und kommunalen öffentlichen oder privaten Akteurinnen und Akteure in diesen beiden Bereichen.
 - c) Sie stellt die Koordination mit den Organen sicher, die für die Integration von Flüchtlingen und vorläufig aufgenommenen Personen zuständig sind.
-- d) Sie nimmt zuhanden der Sicherheits- und Justizdirektion Stellung zur Vergabe von Subventionen für Projekte zur Integration der Migrantinnen und Migranten und zur Rassismusprävention.
+- d) Sie nimmt zuhanden der Sicherheits-, Justiz- und Sportdirektion Stellung zur Vergabe von Subventionen für Projekte zur Integration der Migrantinnen und Migranten und zur Rassismusprävention.
 
 <sup>2</sup> Die oder der Delegierte für die Integration leitet die Fachstelle.
 
@@ -62,7 +62,7 @@ beschliesst:
 
 <sup>1</sup> Es wird eine kantonale Kommission für die Integration der Migrantinnen und Migranten und für Rassismusprävention (die Kommission für die Integration) eingesetzt.
 
-<sup>2</sup> Die Kommission für die Integration ist der Sicherheits- und Justizdirektion administrativ zugewiesen.
+<sup>2</sup> Die Kommission für die Integration ist der Sicherheits-, Justiz- und Sportdirektion administrativ zugewiesen.
 
 #### Art. 4
 
@@ -87,9 +87,9 @@ beschliesst:
 - d) eine Person, die die Arbeitnehmerinnen und Arbeitnehmer vertritt und von den Gewerkschaften vorgeschlagen wird;
 - e) eine Person, die die Arbeitgeberinnen und Arbeitgeber vertritt und die von den Arbeitgeberorganisationen vorgeschlagen wird;
 - f) zwei Vertreterinnen und Vertreter des Freiburger Gemeindeverbandes, wenn möglich aus beiden Sprachregionen des Kantons;
-- g) eine Vertreterin oder ein Vertreter der Direktion für Erziehung, Kultur und Sport;
-- h) eine Vertreterin oder ein Vertreter der Sicherheits- und Justizdirektion;
-- i) eine Vertreterin oder ein Vertreter der Volkswirtschaftsdirektion;
+- g) eine Vertreterin oder ein Vertreter der Direktion für Bildung und kulturelle Angelegenheiten;
+- h) eine Vertreterin oder ein Vertreter der Sicherheits-, Justiz- und Sportdirektion;
+- i) eine Vertreterin oder ein Vertreter der Volkswirtschafts- und Berufsbildungsdirektion;
 - j) eine Vertreterin oder ein Vertreter der Direktion für Gesundheit und Soziales.
 
 <sup>2</sup> Die Kommission für die Integration bezeichnet eine Vertreterin oder einen Vertreter der Ausländervereinigungen als Vizepräsidentin oder Vizepräsidenten.
@@ -124,9 +124,9 @@ beschliesst:
 
 <sup>1</sup> Es wird eine kantonale Kommission für die schulische Betreuung und Integration der Kinder von Migrantinnen und Migranten (die Kommission für die schulische Betreuung und Integration) eingesetzt.
 
-<sup>2</sup> Die Kommission für die schulische Betreuung und Integration ist ein beratendes Organ, das der Direktion für Erziehung, Kultur und Sport administrativ zugewiesen ist.
+<sup>2</sup> Die Kommission für die schulische Betreuung und Integration ist ein beratendes Organ, das der Direktion für Bildung und kulturelle Angelegenheiten administrativ zugewiesen ist.
 
-<sup>3</sup> Die Direktion für Erziehung, Kultur und Sport führt das Sekretariat der Kommission für die schulische Betreuung und Integration.
+<sup>3</sup> Die Direktion für Bildung und kulturelle Angelegenheiten führt das Sekretariat der Kommission für die schulische Betreuung und Integration.
 
 #### Art. 9
 
@@ -151,7 +151,7 @@ beschliesst:
 - d) ...
 - e) eine Vertreterin oder ein Vertreter der Berufsberaterinnen und Berufsberater;
 - f) eine Vertreterin oder ein Vertreter der Direktion für Gesundheit und Soziales;
-- g) eine Vertreterin oder ein Vertreter der Sicherheits- und Justizdirektion;
+- g) eine Vertreterin oder ein Vertreter der Sicherheits-, Justiz- und Sportdirektion;
 - h) eine Vertreterin oder ein Vertreter des Jugendamts;
 - i) eine Vertreterin oder ein Vertreter der Elternvereine;
 - j) eine Vertreterin oder ein Vertreter des Freiburger Gemeindeverbandes (FGV);
@@ -159,7 +159,7 @@ beschliesst:
 - l) eine Vertreterin oder ein Vertreter von ORS Service AG;
 - m) eine Vertreterin oder ein Vertreter von Caritas Schweiz;
 - n) ...
-- o) eine Vertreterin oder ein Vertreter der Amtsvorsteherinnen und Amtsvorsteher der Direktion für Erziehung, Kultur und Sport; diese Person hat den Vorsitz inne.
+- o) eine Vertreterin oder ein Vertreter der Amtsvorsteherinnen und Amtsvorsteher der Direktion für Bildung und kulturelle Angelegenheiten; diese Person hat den Vorsitz inne.
 
 #### Art. 11
 
@@ -174,7 +174,7 @@ beschliesst:
 - e) Sie schlägt Massnahmen zur Förderung der Aufnahme und der schulischen Betreuung der Kinder von Migrantinnen und Migranten vor.
 - f) Sie macht Vorschläge für eine bessere Wirksamkeit der Massnahmen auf dem Gebiet der Aufnahme und der schulischen Betreuung der Kinder von Migrantinnen und Migranten (inklusive Schule-Elternhaus-Beziehungen).
 - g) Sie unterbreitet dem Staatsrat alle nützlichen Anträge in den Bereichen der Aufnahme und der schulischen Betreuung der Kinder von Migrantinnen und Migranten.
-- h) Sie legt der Direktion für Erziehung, Kultur und Sport jährlich einen Tätigkeitsbericht vor.
+- h) Sie legt der Direktion für Bildung und kulturelle Angelegenheiten jährlich einen Tätigkeitsbericht vor.
 
 #### Art. 12
 
