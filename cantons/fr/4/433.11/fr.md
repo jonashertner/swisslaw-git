@@ -4,13 +4,13 @@ number: "433.11"
 title: Règlement sur la Haute Ecole pédagogique Fribourg
 short: RHEPF
 language: fr
-version: 2021-10-12
-valid_until: 2022-01-31
-version_adopted: 2021-10-12
+version: 2022-02-01
+valid_until: 2023-10-30
+version_adopted: 2022-03-04
 adopted: 2020-01-14
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/433.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6930/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7310/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Haute Ecole pédagogique Fribourg – R
 
 (RHEPF)
 
-du 14.01.2020 (version entrée en vigueur le 12.10.2021)
+du 14.01.2020 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -224,7 +224,7 @@ Arrête:
 
 **Modalités d'accès**
 
-<sup>1</sup> L'accès aux banques de données est strictement restreint au personnel de la HEP-PH FR et au personnel de la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction), dans les limites de leurs attributions et compétences légales.
+<sup>1</sup> L'accès aux banques de données est strictement restreint au personnel de la HEP-PH FR et au personnel de la Direction de la formation et des affaires culturelles (ci-après: la Direction), dans les limites de leurs attributions et compétences légales.
 
 #### Art. 21
 

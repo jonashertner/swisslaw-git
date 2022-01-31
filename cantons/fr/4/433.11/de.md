@@ -4,13 +4,13 @@ number: "433.11"
 title: Reglement über die Pädagogische Hochschule Freiburg
 short: PHFR
 language: de
-version: 2021-10-12
-valid_until: 2022-01-31
-version_adopted: 2021-10-12
+version: 2022-02-01
+valid_until: 2023-10-30
+version_adopted: 2022-03-04
 adopted: 2020-01-14
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/433.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6930/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7310/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Pädagogische Hochschule Freiburg – R
 
 (PHFR)
 
-vom 14.01.2020 (Fassung in Kraft getreten am 12.10.2021)
+vom 14.01.2020 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -224,7 +224,7 @@ beschliesst:
 
 **Zugangsmodalitäten**
 
-<sup>1</sup> Der Zugang zu den Datenbanken ist innerhalb der jeweiligen gesetzlichen Aufgaben und Zuständigkeiten strikte auf das Personal der HEP-PH FR und auf das Personal der Direktion für Erziehung, Kultur und Sport (die EKSD) beschränkt.
+<sup>1</sup> Der Zugang zu den Datenbanken ist innerhalb der jeweiligen gesetzlichen Aufgaben und Zuständigkeiten strikte auf das Personal der HEP-PH FR und auf das Personal der Direktion für Bildung und kulturelle Angelegenheiten (die BKAD) beschränkt.
 
 #### Art. 21
 
@@ -266,7 +266,7 @@ beschliesst:
 
 <sup>3</sup> Die Prüfung, die zum Zugang zum Aufnahmeverfahren in die Grundausbildung der HEP-PH FR berechtigt, dient der Feststellung der Allgemeinbildung, wie sie üblicherweise auf der Stufe Fachmaturität im Berufsfeld Pädagogik erworben wird.
 
-<sup>4</sup> Die EKSD regelt die Einzelheiten der Prüfung, insbesondere die je nach Vorbildung der Kandidatin und des Kandidaten zu prüfenden Fächer. Prüfungen, die in anderen Schweizer Kantonen bestanden worden sind, können anerkannt werden.
+<sup>4</sup> Die BKAD regelt die Einzelheiten der Prüfung, insbesondere die je nach Vorbildung der Kandidatin und des Kandidaten zu prüfenden Fächer. Prüfungen, die in anderen Schweizer Kantonen bestanden worden sind, können anerkannt werden.
 
 <sup>5</sup> Die Bestimmungen von Artikel 23 dieses Reglements bleiben vorbehalten.
 
@@ -660,7 +660,7 @@ beschliesst:
 
 <sup>1</sup> Die Abteilung Weiterbildung ist im Bereich der Schulentwicklung sowie der Entwicklung des Unterrichts und des Lehrberufs tätig. Ihre Tätigkeiten orientieren sich hauptsächlich an den in der Praxis erkannten Bedürfnissen, den Ergebnissen der Bildungsforschung und an bildungspolitischen Fragen.
 
-<sup>2</sup> Für die von der EKSD subventionierten Fort- und Weiterbildungsangebote wird die Zusammenarbeit zwischen der HEP-PH FR und der Direktion in einem Leistungsauftrag geregelt.
+<sup>2</sup> Für die von der BKAD subventionierten Fort- und Weiterbildungsangebote wird die Zusammenarbeit zwischen der HEP-PH FR und der Direktion in einem Leistungsauftrag geregelt.
 
 <sup>3</sup> Die HEP-PH FR kann alleine oder in Zusammenarbeit mit anderen Partnern weitere Weiterbildungsangebote anbieten.
 
@@ -762,7 +762,7 @@ beschliesst:
 
 - a) die Abteilungsleiterin bzw. der Abteilungsleiter oder die Leiterin bzw. der Leiter der Verwaltung, der oder dem die von der Beschwerde betroffene Person unterstellt ist, wenn sich die Aufsichtsbeschwerde gegen Handlungen oder Unterlassungen eines Mitglieds des Lehrpersonals, des Mittelbaus, des administrativen und technischen Personals oder einer Praktikumslehrperson richtet;
 - b) die Rektorin oder der Rektor, wenn sich die Aufsichtsbeschwerde gegen Handlungen oder Unterlassungen einer Abteilungsleiterin bzw. eines Abteilungsleiters, der Leiterin bzw. des Leiters der Verwaltung oder eines Mitglieds des administrativen und technischen Personals, das ihr oder ihm direkt unterstellt ist, richtet;
-- c) die Direktion, wenn sich die Aufsichtsbeschwerde gegen Handlungen oder Unterlassungen der Rektorin oder des Rektors richtet.
+- c) die BKAD, wenn sich die Aufsichtsbeschwerde gegen Handlungen oder Unterlassungen der Rektorin oder des Rektors richtet.
 
 <sup>2</sup> Die Aufsichtsbeschwerde muss schriftlich abgefasst und mit Datum und Unterschrift versehen werden; sie muss eine kurze Erläuterung des Sachverhalts und der Gründe sowie die Anträge enthalten.
 
@@ -772,6 +772,6 @@ beschliesst:
 
 <sup>5</sup> Die Rektorin oder der Rektor ist Beschwerdebehörde gegen den Entscheid der Abteilungsleiterin bzw. des Abteilungsleiters oder der Leiterin bzw. des Leiters der Verwaltung, die oder der die Aufsichtsbeschwerde als unzulässig erklärt oder abweist oder Verfahrenskosten auferlegt.
 
-<sup>6</sup> Bei Beschwerden gegen den Entscheid der Rektorin oder des Rektors, die oder der die Aufsichtsbeschwerde als unzulässig erklärt oder abweist oder Verfahrenskosten auferlegt, ist die Beschwerdebehörde die EKSD.
+<sup>6</sup> Bei Beschwerden gegen den Entscheid der Rektorin oder des Rektors, die oder der die Aufsichtsbeschwerde als unzulässig erklärt oder abweist oder Verfahrenskosten auferlegt, ist die Beschwerdebehörde die BKAD.
 
 2020\_008
