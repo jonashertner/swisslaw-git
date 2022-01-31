@@ -3,13 +3,12 @@ canton: FR
 number: "481.2.11"
 title: Règlement concernant la Bibliothèque cantonale et universitaire
 language: fr
-version: 2014-10-01
-valid_until: 2022-01-31
-version_adopted: 2014-09-30
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1993-03-02
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/481.2.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6263/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8578/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6263/pdf_file"
 
 Bibliothèque cantonale et universitaire – R
 
-du 02.03.1993 (version entrée en vigueur le 01.10.2014)
+du 02.03.1993 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -45,7 +44,7 @@ Arrête:
 
 <sup>2</sup> Il prépare les affaires à traiter par la commission.
 
-<sup>3</sup> Le directeur est engagé par la Direction de l'instruction publique, de la culture et du sport (ci-après: la DICS) et est subordonné au Service de la culture.
+<sup>3</sup> Le directeur est engagé par la Direction de la formation et des affaires culturelles (ci-après: la DFAC) et est subordonné au Service de la culture.
 
 #### Art. 2
 
@@ -78,7 +77,7 @@ Arrête:
 
 **Commission – Séances**
 
-<sup>1</sup> La commission se réunit au moins deux fois par an et aussi souvent que le président l'estime nécessaire. Elle doit être en outre convoquée à la demande de la DICS ou de trois membres.
+<sup>1</sup> La commission se réunit au moins deux fois par an et aussi souvent que le président l'estime nécessaire. Elle doit être en outre convoquée à la demande de la DFAC ou de trois membres.
 
 <sup>2</sup> Elle ne peut prendre de décision que si la majorité de ses membres sont présents.
 
@@ -90,7 +89,7 @@ Arrête:
 
 **Commission – Bureau**
 
-<sup>1</sup> Le bureau de la commission est formé du président, du vice-président et d'un membre de la commission désigné par celle-ci. Le directeur de la Bibliothèque et le représentant de la DICS peuvent assister aux séances avec voix consultative.
+<sup>1</sup> Le bureau de la commission est formé du président, du vice-président et d'un membre de la commission désigné par celle-ci. Le directeur de la Bibliothèque et le représentant de la DFAC peuvent assister aux séances avec voix consultative.
 
 <sup>2</sup> Le bureau examine préalablement les affaires à traiter par la commission et lui fait des propositions.
 
@@ -121,7 +120,7 @@ Arrête:
 
 <sup>1</sup> Le groupe de coordination établit, pour chaque domaine et en collaboration avec les responsables des bibliothèques décentralisées, un concept de répartition des ouvrages entre la bibliothèque centrale et les bibliothèques décentralisées.
 
-<sup>2</sup> Chaque concept de répartition doit être approuvé par le directeur ainsi que par le Rectorat de l'Université. En cas de désaccord, la DICS tranche.
+<sup>2</sup> Chaque concept de répartition doit être approuvé par le directeur ainsi que par le Rectorat de l'Université. En cas de désaccord, la DFAC tranche.
 
 <sup>3</sup> Chaque concept tient compte des ouvrages financés par le budget de l'Université et de ceux qui sont acquis au moyen du budget d'acquisition de la bibliothèque centrale.
 
@@ -198,7 +197,7 @@ Arrête:
 
 **Consultation et prêt**
 
-<sup>1</sup> Les heures d'ouverture de la bibliothèque centrale sont fixées par la DICS, sur la proposition du directeur.
+<sup>1</sup> Les heures d'ouverture de la bibliothèque centrale sont fixées par la DFAC, sur la proposition du directeur.
 
 <sup>2</sup> Les heures d'ouverture des bibliothèques décentralisées doivent en principe être équivalentes à celles de la bibliothèque centrale.
 
@@ -214,13 +213,13 @@ Arrête:
 
 **Organe de décision**
 
-<sup>1</sup> La DICS décide de tout échange ou aliénation d'un bien culturel appartenant aux collections de la Bibliothèque.
+<sup>1</sup> La DFAC décide de tout échange ou aliénation d'un bien culturel appartenant aux collections de la Bibliothèque.
 
 <sup>2</sup> Le directeur décide de tout prêt ou dépôt d'un bien culturel précieux ou ayant une importance historique, et appartenant aux collections de la Bibliothèque.
 
 <sup>3</sup> Le contrat indique les charges et conditions qui sont liées au prêt, au dépôt ou à l'échange.
 
-<sup>4</sup> La DICS et le directeur peuvent restreindre ou refuser de telles transactions pour des motifs tirés de la protection du patrimoine culturel, de la protection de la personnalité, de la volonté des déposants ou de la gestion de l'institution.
+<sup>4</sup> La DFAC et le directeur peuvent restreindre ou refuser de telles transactions pour des motifs tirés de la protection du patrimoine culturel, de la protection de la personnalité, de la volonté des déposants ou de la gestion de l'institution.
 
 #### Art. 19
 
@@ -257,23 +256,27 @@ Arrête:
 
 <sup>1</sup> Le Fonds est alimenté par:
 
-- a) les legs, dons et les libéralités consenties en sa faveur en vertu de l'article 36 let. m de la loi sur les impôts cantonaux;
+- a) les legs, dons et les libéralités consenties en sa faveur en vertu de l'article 36 let. m de la loi du 6 juin 2000 sur les impôts cantonaux directs[^22-1];
 - b) le produit de la fortune du Fonds;
 - c) toutes les autres ressources qui peuvent lui être affectées.
 
-<sup>2</sup> Le Fonds peut recevoir, sous réserve de l'accord de la DICS, des libéralités dont l'affectation est proposée par le donateur.
+<sup>2</sup> Le Fonds peut recevoir, sous réserve de l'accord de la DFAC, des libéralités dont l'affectation est proposée par le donateur.
+
+[^22-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 23
 
 **Fonctionnement**
 
-<sup>1</sup> La DICS décide de l'utilisation du Fonds. L'attribution d'un montant supérieur à 20'000 francs relève du Conseil d'Etat.
+<sup>1</sup> La DFAC décide de l'utilisation du Fonds. L'attribution d'un montant supérieur à 20'000 francs relève du Conseil d'Etat.
 
 #### Art. 24
 
 **Gestion**
 
-<sup>1</sup> Le Fonds est administré par la commission instituée à l'article 18 du règlement du 10 décembre 2007 sur les affaires culturelles.
+<sup>1</sup> Le Fonds est administré par la commission instituée à l'article 18 du règlement du 10 décembre 2007 sur les affaires culturelles[^24-1].
+
+[^24-1]: RSF [480.11](https://bdlf.fr.ch/data/480.11/fr)
 
 ## 7 Dispositions finales
 

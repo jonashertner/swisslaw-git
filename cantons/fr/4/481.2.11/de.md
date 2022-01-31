@@ -3,13 +3,12 @@ canton: FR
 number: "481.2.11"
 title: Reglement der Kantons- und Universitätsbibliothek
 language: de
-version: 2014-10-01
-valid_until: 2022-01-31
-version_adopted: 2014-09-30
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1993-03-02
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/481.2.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6263/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8578/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6263/pdf_file"
 
 Kantons- und Universitätsbibliothek – R
 
-vom 02.03.1993 (Fassung in Kraft getreten am 01.10.2014)
+vom 02.03.1993 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -45,7 +44,7 @@ beschliesst:
 
 <sup>2</sup> Er bereitet die Geschäfte vor, die die Kommission zu behandeln hat.
 
-<sup>3</sup> Der Direktor wird von der Direktion für Erziehung, Kultur und Sport (die EKSD) angestellt; er untersteht dem Amt für Kultur.
+<sup>3</sup> Der Direktor wird von der Direktion für Bildung und kulturelle Angelegenheiten (die BKAD) angestellt; er untersteht dem Amt für Kultur.
 
 #### Art. 2
 
@@ -78,7 +77,7 @@ beschliesst:
 
 **Kommission – Sitzungen**
 
-<sup>1</sup> Die Kommission tagt mindestens zweimal im Jahr und sooft es der Präsident für nötig hält. Sie muss aussserdem einberufen werden, wenn die EKSD oder drei Mitglieder es verlangen.
+<sup>1</sup> Die Kommission tagt mindestens zweimal im Jahr und sooft es der Präsident für nötig hält. Sie muss aussserdem einberufen werden, wenn die BKAD oder drei Mitglieder es verlangen.
 
 <sup>2</sup> Sie ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist.
 
@@ -90,7 +89,7 @@ beschliesst:
 
 **Kommission – Büro**
 
-<sup>1</sup> Das Büro der Kommission setzt sich aus dem Präsidenten, dem Vizepräsidenten und einem von der Kommission bezeichneten Kommissionsmitglied zusammen. Der Direktor der Bibliothek und der Vertreter der EKSD können mit beratender Stimme an den Sitzungen teilnehmen.
+<sup>1</sup> Das Büro der Kommission setzt sich aus dem Präsidenten, dem Vizepräsidenten und einem von der Kommission bezeichneten Kommissionsmitglied zusammen. Der Direktor der Bibliothek und der Vertreter der BKAD können mit beratender Stimme an den Sitzungen teilnehmen.
 
 <sup>2</sup> Das Büro prüft die von der Kommission zu behandelnden Geschäfte im voraus und stellt ihr Anträge.
 
@@ -121,7 +120,7 @@ beschliesst:
 
 <sup>1</sup> Die Koordinationsgruppe erstellt für jeden Bereich in Zusammenarbeit mit den Verantwortlichen der dezentralen Bibliotheken ein Konzept für die Aufteilung der Werke auf die Zentralbibliothek und die dezentralen Bibliotheken.
 
-<sup>2</sup> Jedes Aufteilungskonzept muss vom Direktor und vom Rektorat der Universität genehmigt werden. Bei Uneinigkeit entscheidet die EKSD.
+<sup>2</sup> Jedes Aufteilungskonzept muss vom Direktor und vom Rektorat der Universität genehmigt werden. Bei Uneinigkeit entscheidet die BKAD.
 
 <sup>3</sup> Jedes Konzept berücksichtigt, welche Werke über den Voranschlag der Universität und welche über den Voranschlag für Neuanschaffungen der Zentralbibliothek erworben wurden.
 
@@ -198,7 +197,7 @@ beschliesst:
 
 **Benützung und Ausleihe**
 
-<sup>1</sup> Die Öffnungszeiten der Zentralbibliothek werden von der EKSD auf Antrag des Direktors festgesetzt.
+<sup>1</sup> Die Öffnungszeiten der Zentralbibliothek werden von der BKAD auf Antrag des Direktors festgesetzt.
 
 <sup>2</sup> Die Öffnungszeiten der dezentralen Bibliotheken müssen grundsätzlich jenen der Zentralbibliothek entsprechen.
 
@@ -214,13 +213,13 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die EKSD entscheidet über jeden Tausch und jede Veräusserung eines Kulturgutes, das zu den Sammlungen der Bibliothek gehört.
+<sup>1</sup> Die BKAD entscheidet über jeden Tausch und jede Veräusserung eines Kulturgutes, das zu den Sammlungen der Bibliothek gehört.
 
 <sup>2</sup> Der Direktor entscheidet über jede Ausleihe oder Hinterlegung eines wertvollen oder geschichtlich bedeutenden Kulturgutes aus den Sammlungen der Bibliothek.
 
 <sup>3</sup> Der Vertrag nennt die Auflagen und Bedingungen, die an die Ausleihe, die Hinterlegung oder den Tausch geknüpft sind.
 
-<sup>4</sup> Die EKSD und der Direktor können solche Geschäfte aus Gründen des Kulturgüterschutzes, des Persönlichkeitsschutzes, des Willens der Hinterleger oder des Bibliotheksbetriebes beschränken oder verweigern.
+<sup>4</sup> Die BKAD und der Direktor können solche Geschäfte aus Gründen des Kulturgüterschutzes, des Persönlichkeitsschutzes, des Willens der Hinterleger oder des Bibliotheksbetriebes beschränken oder verweigern.
 
 #### Art. 19
 
@@ -257,23 +256,27 @@ beschliesst:
 
 <sup>1</sup> Der Fonds wird gespiesen durch:
 
-- a) Vermächtnisse, Schenkungen und Zuwendungen, die ihm nach Artikel 36 Bst. m des Gesetzes über die Kantonssteuern gewährt werden;
+- a) Vermächtnisse, Schenkungen und Zuwendungen, die ihm nach Artikel 36 Bst. m des Gesetzes über die direkten Kantonssteuern[^22-1] gewährt werden;
 - b) den Ertrag des Fondsvermögens;
 - c) alle übrigen Mittel, die ihm zugewiesen werden können.
 
-<sup>2</sup> In den Fonds können mit dem Einverständnis der EKSD Zuwendungen fliessen, deren Zweckbestimmung vom Schenkenden vorgeschlagen wird.
+<sup>2</sup> In den Fonds können mit dem Einverständnis der BKAD Zuwendungen fliessen, deren Zweckbestimmung vom Schenkenden vorgeschlagen wird.
+
+[^22-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 23
 
 **Zuständigkeit**
 
-<sup>1</sup> Die EKSD entscheidet über die Verwendung des Fonds. Übersteigt der Betrag 20'000 Franken, so ist der Staatsrat zuständig.
+<sup>1</sup> Die BKAD entscheidet über die Verwendung des Fonds. Übersteigt der Betrag 20'000 Franken, so ist der Staatsrat zuständig.
 
 #### Art. 24
 
 **Verwaltung**
 
-<sup>1</sup> Der Fonds wird von der Kommission, die in Artikel 18 des Reglements vom 10. Dezember 2007 über die kulturellen Angelegenheiten eingesetzt wird, verwaltet.
+<sup>1</sup> Der Fonds wird von der Kommission, die in Artikel 18 des Reglements vom 10. Dezember 2007 über die kulturellen Angelegenheiten[^24-1] eingesetzt wird, verwaltet.
+
+[^24-1]: SGF [480.11](https://bdlf.fr.ch/data/480.11/de)
 
 ## 7 Schlussbestimmungen
 
