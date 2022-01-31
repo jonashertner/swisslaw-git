@@ -3,13 +3,12 @@ canton: FR
 number: "821.10.51"
 title: Beschluss zur Genehmigung der interkantonalen Vereinbarung über die Ausbildung in Berufen des Gesundheitswesens (medizinische Berufe ausgenommen) und ihre Finanzierung sowie der Anhänge zu dieser Vereinbarung
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2003-04-08
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 1996-07-12
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.10.51"
-pdf: "https://bdlf.fr.ch/api/de/versions/5480/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7406/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5480/pdf_file"
 
 Ausbildung in Berufen des Gesundheitswesens – B
 
-vom 12.07.1996 (Fassung in Kraft getreten am 01.01.2003)
+vom 12.07.1996 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -66,7 +65,7 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Die Direktion für Erziehung, Kultur und Sport bezeichnet den Vertreter des Kantons Freiburg in der interkantonalen Koordinationsstelle gemäss dem Artikel 21 der interkantonalen Vereinbarung vom 4. März 1996 über die Ausbildung in Berufen des Gesundheitswesens (medizinische Berufe ausgenommen) und ihre Finanzierung.
+<sup>1</sup> Die Direktion für Bildung und kulturelle Angelegenheiten bezeichnet den Vertreter des Kantons Freiburg in der interkantonalen Koordinationsstelle gemäss dem Artikel 21 der interkantonalen Vereinbarung vom 4. März 1996 über die Ausbildung in Berufen des Gesundheitswesens (medizinische Berufe ausgenommen) und ihre Finanzierung.
 
 <sup>2</sup> In Anwendung von Artikel 9 dieser Vereinbarung äussert sie sich zu Änderungen der Listen der Ausbildungen, Schulen, Ausbildungszentren und Programme.
 

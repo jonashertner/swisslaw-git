@@ -3,13 +3,12 @@ canton: FR
 number: "821.10.51"
 title: Arrêté approuvant la convention intercantonale concernant la formation aux professions de la santé (professions médicales exceptées) et son financement ainsi que ses annexes
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2003-04-08
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 1996-07-12
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.10.51"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5480/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7406/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5480/pdf_file"
 
 Formation aux professions de la santé – A
 
-du 12.07.1996 (version entrée en vigueur le 01.01.2003)
+du 12.07.1996 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -66,7 +65,7 @@ Arrête:
 
 #### Art. 2
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport désigne le représentant du canton de Fribourg dans l'organe intercantonal de coordination, conformément à l'article 21 de la convention intercantonale du 4 mars 1996 concernant la formation aux professions de la santé (professions médicales exceptées) et son financement.
+<sup>1</sup> La Direction de la formation et des affaires culturelles désigne le représentant du canton de Fribourg dans l'organe intercantonal de coordination, conformément à l'article 21 de la convention intercantonale du 4 mars 1996 concernant la formation aux professions de la santé (professions médicales exceptées) et son financement.
 
 <sup>2</sup> Elle se prononce sur la modification des listes des formations, des écoles et des centres de formation et des programmes, en application de l'article 9 de la convention précitée.
 
