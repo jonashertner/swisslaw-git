@@ -4,13 +4,12 @@ number: "426.11"
 title: Règlement du Centre de perfectionnement interprofessionnel
 short: RCPI
 language: fr
-version: 2010-01-01
-valid_until: 2022-01-31
-version_adopted: 2010-03-23
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2004-07-06
 in_force: 2004-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/426.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6258/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7307/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Centre de perfectionnement interprofessionnel – R
 
 (RCPI)
 
-du 06.07.2004 (version entrée en vigueur le 01.01.2010)
+du 06.07.2004 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg[^ingress-1]
 
@@ -71,9 +70,9 @@ Arrête:
 
 #### Art. 5
 
-**Autorités d'exécution – Direction de l'économie et de l'emploi**
+**Autorités d'exécution – Direction de l'économie, de l'emploi et de la formation professionnelle**
 
-<sup>1</sup> La Direction de l'économie et de l'emploi (ci-après: la Direction) soutient le CPI, notamment dans son action de formation en faveur de l'économie cantonale.
+<sup>1</sup> La Direction de l'économie, de l'emploi et de la formation professionnelle (ci-après: la Direction) soutient le CPI, notamment dans son action de formation en faveur de l'économie cantonale.
 
 <sup>2</sup> Elle encourage la collaboration de l'institution avec les organisations du monde du travail ainsi qu'avec les collectivités publiques et leurs administrations.
 

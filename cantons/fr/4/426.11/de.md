@@ -4,13 +4,12 @@ number: "426.11"
 title: Reglement des Interprofessionellen Weiterbildungszentrums
 short: IWZR
 language: de
-version: 2010-01-01
-valid_until: 2022-01-31
-version_adopted: 2010-03-23
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2004-07-06
 in_force: 2004-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/426.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6258/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7307/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Interprofessionelles Weiterbildungszentrum – R
 
 (IWZR)
 
-vom 06.07.2004 (Fassung in Kraft getreten am 01.01.2010)
+vom 06.07.2004 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg[^ingress-1]
 
@@ -71,9 +70,9 @@ beschliesst:
 
 #### Art. 5
 
-**Vollzugsbehörden – Volkswirtschaftsdirektion**
+**Vollzugsbehörden – Volkswirtschafts- und Berufsbildungsdirektion**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion (die Direktion) unterstützt das IWZ besonders in seiner Bildungstätigkeit zugunsten der Wirtschaft des Kantons.
+<sup>1</sup> Die Volkswirtschafts- und Berufsbildungsdirektion (die Direktion) unterstützt das IWZ besonders in seiner Bildungstätigkeit zugunsten der Wirtschaft des Kantons.
 
 <sup>2</sup> Sie fördert die Zusammenarbeit des IWZ mit den Organisationen der Arbeitswelt und den öffentlichen Körperschaften und deren Verwaltungen.
 
