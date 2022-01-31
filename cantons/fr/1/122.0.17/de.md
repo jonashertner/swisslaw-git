@@ -4,13 +4,13 @@ number: "122.0.17"
 title: Verordnung über die Staatsratssitzungen
 short: SRSVV
 language: de
-version: 2021-01-01
-valid_until: 2022-01-31
-version_adopted: 2020-12-14
+version: 2022-02-01
+valid_until: 2023-04-30
+version_adopted: 2022-01-31
 adopted: 2014-04-08
 in_force: 2014-04-08
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.17"
-pdf: "https://bdlf.fr.ch/api/de/versions/6706/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7119/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Staatsratssitzungen – V
 
 (SRSVV)
 
-vom 08.04.2014 (Fassung in Kraft getreten am 01.01.2021)
+vom 08.04.2014 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -118,10 +118,10 @@ beschliesst:
 <sup>2</sup> Ständige Delegationen sind:
 
 - a) die Delegation für das Wirtschafts- und Finanzwesen;
-- b) die Delegation für öffentliche Bauten und Umweltschutz;
+- b) …
 - c) die Delegation für das Personalwesen;
-- d) die Delegation für das Gesundheits- und Sozialwesen;
-- e) die Delegation für die territorialen Strukturen;
+- d) die Delegation für das Gesundheitswesen;
+- e) die Delegation für die Agglomerationen und die territorialen Strukturen;
 - f) die Delegation für die Digitalisierung und die Informationssysteme.
 
 #### Art. 8

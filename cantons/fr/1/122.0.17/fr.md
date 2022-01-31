@@ -4,13 +4,13 @@ number: "122.0.17"
 title: "Ordonnance sur la gestion des séances du Conseil d'Etat"
 short: OGSCE
 language: fr
-version: 2021-01-01
-valid_until: 2022-01-31
-version_adopted: 2020-12-14
+version: 2022-02-01
+valid_until: 2023-04-30
+version_adopted: 2022-01-31
 adopted: 2014-04-08
 in_force: 2014-04-08
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.17"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6706/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7119/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Conseil d'Etat, gestion des séances – O
 
 (OGSCE)
 
-du 08.04.2014 (version entrée en vigueur le 01.01.2021)
+du 08.04.2014 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -118,10 +118,10 @@ Arrête:
 <sup>2</sup> Les délégations permanentes sont:
 
 - a) la Délégation des affaires économiques et financières;
-- b) la Délégation des travaux publics et de l'environnement;
-- c) la Délégation des affaires du personnel;
-- d) la Délégation de la santé et des affaires sociales;
-- e) la Délégation pour les structures territoriales;
+- b) …
+- c) la Délégation pour les questions du personnel;
+- d) la Délégation de la santé;
+- e) la Délégation pour les agglomérations et les structures territoriales;
 - f) la Délégation en matière de digitalisation et de systèmes d'information.
 
 #### Art. 8
