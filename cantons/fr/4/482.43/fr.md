@@ -3,13 +3,12 @@ canton: FR
 number: "482.43"
 title: Arrêté relatif à la conservation du patrimoine architectural alpestre
 language: fr
-version: 2019-01-01
-valid_until: 2022-01-31
-version_adopted: 2018-11-20
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1990-04-10
 in_force: 1990-06-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/482.43"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5832/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8585/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5832/pdf_file"
 
 Conservation du patrimoine architectural alpestre – A
 
-du 10.04.1990 (version entrée en vigueur le 01.01.2019)
+du 10.04.1990 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -98,7 +97,9 @@ D = Sans qualification particulière – Construction sans caractère significat
 
 **Devoirs du propriétaire**
 
-<sup>1</sup> Tout propriétaire d'un chalet d'alpage est tenu de veiller à l'entretien et à la conservation de son bâtiment, conformément à l'article 169 LATeC.
+<sup>1</sup> Tout propriétaire d'un chalet d'alpage est tenu de veiller à l'entretien et à la conservation de son bâtiment, conformément à l'article 169 LATeC[^6-1].
+
+[^6-1]: RSF [710.1](https://bdlf.fr.ch/data/710.1/fr)
 
 #### Art. 7
 
@@ -178,13 +179,15 @@ D = Sans qualification particulière – Construction sans caractère significat
 
 **Permis de construire**
 
-<sup>1</sup> Tout projet de construction, d'agrandissement, de transformation, de démolition ou de changement de destination de chalets d'alpage est soumis à une autorisation spéciale de la Direction de l'aménagement, de l'environnement et des constructions, délivrée dans le cadre de la procédure de demande de permis de construire.
+<sup>1</sup> Tout projet de construction, d'agrandissement, de transformation, de démolition ou de changement de destination de chalets d'alpage est soumis à une autorisation spéciale de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement, délivrée dans le cadre de la procédure de demande de permis de construire.
 
 #### Art. 16
 
 **Mesures de police**
 
-<sup>1</sup> Si des raisons de sécurité, de salubrité ou d'esthétique l'exigent, le conseil communal peut ordonner à un propriétaire de chalet d'alpage les mesures de police prévues par l'article 170 LATeC.
+<sup>1</sup> Si des raisons de sécurité, de salubrité ou d'esthétique l'exigent, le conseil communal peut ordonner à un propriétaire de chalet d'alpage les mesures de police prévues par l'article 170 LATeC[^16-1].
+
+[^16-1]: RSF [710.1](https://bdlf.fr.ch/data/710.1/fr)
 
 #### Art. 17
 

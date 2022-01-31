@@ -3,13 +3,12 @@ canton: FR
 number: "482.43"
 title: Beschluss über die Erhaltung des Baukulturgutes der Alpen
 language: de
-version: 2019-01-01
-valid_until: 2022-01-31
-version_adopted: 2018-11-20
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1990-04-10
 in_force: 1990-06-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/482.43"
-pdf: "https://bdlf.fr.ch/api/de/versions/5832/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5832/pdf_file"
 
 Erhaltung des Baukulturgutes der Alpen – B
 
-vom 10.04.1990 (Fassung in Kraft getreten am 01.01.2019)
+vom 10.04.1990 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -98,7 +97,9 @@ D = Ohne besondere Bewertung – Bauwerk, das keinen bezeichnenden Charakter hat
 
 **Pflichten des Eigentümers**
 
-<sup>1</sup> Jeder Eigentümer einer Alphütte ist gemäss Artikel 169 RPBG verpflichtet, für den Unterhalt und den Erhalt seines Gebäudes zu sorgen.
+<sup>1</sup> Jeder Eigentümer einer Alphütte ist gemäss Artikel 169 RPBG[^6-1] verpflichtet, für den Unterhalt und den Erhalt seines Gebäudes zu sorgen.
+
+[^6-1]: SGF [710.1](https://bdlf.fr.ch/data/710.1/de)
 
 #### Art. 7
 
@@ -178,13 +179,15 @@ D = Ohne besondere Bewertung – Bauwerk, das keinen bezeichnenden Charakter hat
 
 **Baubewilligung**
 
-<sup>1</sup> Jedes Projekt für den Bau, die Erweiterung, den Umbau, den Abbruch oder die Änderung der Zweckbestimmung von Alphütten bedarf einer Sonderbewilligung der Raumplanungs-, Umwelt- und Baudirektion, die im Rahmen des Baubewilligungsverfahrens erteilt wird.
+<sup>1</sup> Jedes Projekt für den Bau, die Erweiterung, den Umbau, den Abbruch oder die Änderung der Zweckbestimmung von Alphütten bedarf einer Sonderbewilligung der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt, die im Rahmen des Baubewilligungsverfahrens erteilt wird.
 
 #### Art. 16
 
 **Polizeimassnahmen**
 
-<sup>1</sup> Wenn Gründe der Sicherheit, der Hygiene oder der Ästhetik es erfordern, kann der Gemeinderat dem Eigentümer einer Alphütte die im Artikel 170 RPBG vorgesehenen Polizeimassnahmen vorschreiben.
+<sup>1</sup> Wenn Gründe der Sicherheit, der Hygiene oder der Ästhetik es erfordern, kann der Gemeinderat dem Eigentümer einer Alphütte die im Artikel 170 RPBG[^16-1] vorgesehenen Polizeimassnahmen vorschreiben.
+
+[^16-1]: SGF [710.1](https://bdlf.fr.ch/data/710.1/de)
 
 #### Art. 17
 
