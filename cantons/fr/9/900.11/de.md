@@ -4,13 +4,12 @@ number: "900.11"
 title: Reglement über die Wirtschaftsförderung
 short: WFR
 language: de
-version: 2018-10-01
-valid_until: 2022-01-31
-version_adopted: 2018-09-18
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 2018-09-18
 in_force: 2018-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/900.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5925/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Wirtschaftsförderung – R
 
 (WFR)
 
-vom 18.09.2018 (Fassung in Kraft getreten am 01.10.2018)
+vom 18.09.2018 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -127,7 +126,7 @@ beschliesst:
 
 <sup>1</sup> Die regionalen Bürgschaftsorganisationen nach Artikel 9 WFG umfassen die Bürgschaftsgenossenschaft Westschweiz und ihre Freiburger Zweigstelle, den Verein Cautionnement Fribourg (CRC-PME Fribourg).
 
-<sup>2</sup> Der Staatsrat entscheidet auf Antrag der Volkswirtschaftsdirektion (die Direktion) über die Beteiligung am Kapital der Bürgschaftsgenossenschaft Westschweiz.
+<sup>2</sup> Der Staatsrat entscheidet auf Antrag der Volkswirtschafts- und Berufsbildungsdirektion (die Direktion) über die Beteiligung am Kapital der Bürgschaftsgenossenschaft Westschweiz.
 
 <sup>3</sup> Die nötigen Beträge zur Finanzierung der Tätigkeit des Vereins CRC-PME Fribourg in Verbindung mit überkantonalen Bürgschaften werden in den Voranschlag der Wirtschaftsförderung Kanton Freiburg (die Wirtschaftsförderung) aufgenommen.
 

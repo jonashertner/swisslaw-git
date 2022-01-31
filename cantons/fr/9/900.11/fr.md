@@ -4,13 +4,12 @@ number: "900.11"
 title: Règlement sur la promotion économique
 short: RPEc
 language: fr
-version: 2018-10-01
-valid_until: 2022-01-31
-version_adopted: 2018-09-18
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 2018-09-18
 in_force: 2018-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/900.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5925/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7454/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Promotion économique – R
 
 (RPEc)
 
-du 18.09.2018 (version entrée en vigueur le 01.10.2018)
+du 18.09.2018 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -127,7 +126,7 @@ Arrête:
 
 <sup>1</sup> Les structures régionales de cautionnement prévues à l'article 9 LPEc comprennent la société coopérative Cautionnement romand et son antenne fribourgeoise, l'association Cautionnement Fribourg (CRC-PME Fribourg).
 
-<sup>2</sup> Le Conseil d'Etat décide, sur la proposition de la Direction de l'économie et de l'emploi (ci-après: la Direction), de la prise de participation au capital de la société coopérative Cautionnement romand.
+<sup>2</sup> Le Conseil d'Etat décide, sur la proposition de la Direction de l'économie, de l'emploi et de la formation professionnelle (ci-après: la Direction), de la prise de participation au capital de la société coopérative Cautionnement romand.
 
 <sup>3</sup> Les montants nécessaires au financement des activités de l'association CRC-PME Fribourg liées au cautionnement supracantonal sont portés au budget de la Promotion économique du canton de Fribourg (ci-après: la Promotion économique).
 
