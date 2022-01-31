@@ -3,20 +3,19 @@ canton: FR
 number: "810.25"
 title: Ordonnance portant adoption de la modification partielle du plan de gestion des déchets (chapitre «Décharges de type B»)
 language: fr
-version: 2017-10-01
-valid_until: 2022-01-31
-version_adopted: 2017-10-09
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2017-10-09
 in_force: 2017-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.25"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5449/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7398/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance portant adoption de la modification partielle du plan de gestion des déchets (chapitre «Décharges de type B»)
 
-du 09.10.2017 (version entrée en vigueur le 01.10.2017)
+du 09.10.2017 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -44,7 +43,7 @@ Arrête:
 
 #### Art. 2
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions est chargée de l'application de la présente ordonnance.
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement est chargée de l'application de la présente ordonnance.
 
 #### Art. 3
 

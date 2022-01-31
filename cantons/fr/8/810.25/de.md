@@ -3,20 +3,19 @@ canton: FR
 number: "810.25"
 title: Verordnung zur Annahme der Teilrevision der Abfallplanung (Kapitel «Deponien des Typs B»)
 language: de
-version: 2017-10-01
-valid_until: 2022-01-31
-version_adopted: 2017-10-09
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2017-10-09
 in_force: 2017-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.25"
-pdf: "https://bdlf.fr.ch/api/de/versions/5449/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7398/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Annahme der Teilrevision der Abfallplanung (Kapitel «Deponien des Typs B»)
 
-vom 09.10.2017 (Fassung in Kraft getreten am 01.10.2017)
+vom 09.10.2017 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -44,7 +43,7 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion wird mit dem Vollzug dieser Verordnung beauftragt.
+<sup>1</sup> Die Direkion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt wird mit dem Vollzug dieser Verordnung beauftragt.
 
 #### Art. 3
 
