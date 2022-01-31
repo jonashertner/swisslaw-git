@@ -3,13 +3,12 @@ canton: FR
 number: "114.21.12"
 title: Ordonnance relative à la plate-forme informatique contenant les données des registres des habitants
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2022-01-31
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2010-06-14
 in_force: 2010-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.21.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7101/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8153/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7101/pdf_file"
 
 Registre des habitants, plate-forme informatique – O
 
-du 14.06.2010 (version entrée en vigueur le 01.01.2022)
+du 14.06.2010 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,9 +33,12 @@ Arrête:
 
 <sup>1</sup> La présente ordonnance:
 
-- a) fixe la procédure d'autorisation et les modalités du droit d'accès aux données de la plate-forme informatique cantonale prévue à l'article 16 de la loi du 23 mai 1986 sur le contrôle des habitants;
-- b) précise les règles applicables à l'annonce des personnes vivant dans les ménages collectifs mentionnés à l'article 2 let. a<sup>bis</sup> de l'ordonnance fédérale du 21 novembre 2007 sur l'harmonisation de registres;
+- a) fixe la procédure d'autorisation et les modalités du droit d'accès aux données de la plate-forme informatique cantonale prévue à l'article 16 de la loi du 23 mai 1986 sur le contrôle des habitants[^1-1];
+- b) précise les règles applicables à l'annonce des personnes vivant dans les ménages collectifs mentionnés à l'article 2 let. a<sup>bis</sup> de l'ordonnance fédérale du 21 novembre 2007 sur l'harmonisation de registres[^1-2];
 - c) définit l'autorité compétente pour déterminer les standards informatiques des échanges de données effectués par le biais de la plate-forme informatique cantonale.
+
+[^1-1]: RSF [114.21.1](https://bdlf.fr.ch/data/114.21.1/fr)
+[^1-2]: RS [431.021](https://db.clex.ch/link/Bund/431.021/fr)
 
 #### Art. 2
 
@@ -57,7 +59,7 @@ Arrête:
 
 <sup>1</sup> Lorsque la demande est complète, le Service requiert le préavis de l'Autorité cantonale de la transparence, de la protection des données et de la médiation. En cas de demande d'interfaçage, il doit également requérir le préavis du Service de l'informatique et des télécommunications quant à la faisabilité technique de la demande et à l'évaluation des coûts.
 
-<sup>2</sup> Il transmet ensuite la demande, accompagnée du préavis précité, à la Direction de la sécurité et de la justice (ci-après: la Direction) pour décision.
+<sup>2</sup> Il transmet ensuite la demande, accompagnée du préavis précité, à la Direction de la sécurité, de la justice et du sport (ci-après: la Direction) pour décision.
 
 <sup>3</sup> La décision notifiée au requérant ou à la requérante est communiquée à l'Autorité cantonale de la transparence, de la protection des données et de la médiation, au Service et au Service de l'informatique et des télécommunications.
 
@@ -88,9 +90,12 @@ Arrête:
 - c) les établissements pour personnes handicapées;
 - d) les monastères et les établissements d'hébergement de congrégations et autres associations religieuses.
 
-<sup>2</sup> L'annonce est faite par la direction de l'établissement. Toutefois, les personnes majeures résidant dans les ménages collectifs prévus aux lettres b et d ci-dessus se présentent en principe personnellement auprès de la personne préposée au contrôle des habitants, conformément à l'article 6 al. 2 de la loi du 23 mai 1986 sur le contrôle des habitants.
+<sup>2</sup> L'annonce est faite par la direction de l'établissement. Toutefois, les personnes majeures résidant dans les ménages collectifs prévus aux lettres b et d ci-dessus se présentent en principe personnellement auprès de la personne préposée au contrôle des habitants, conformément à l'article 6 al. 2 de la loi du 23 mai 1986 sur le contrôle des habitants[^5-1].
 
-<sup>3</sup> Les données relatives aux personnes résidant dans les autres ménages collectifs mentionnés à l'article 2 let. abis de l'ordonnance fédérale du 21 novembre 2007 sur l'harmonisation de registres sont directement transmises à l'Office fédéral de la statistique par la direction de l'établissement, conformément aux directives dudit Office.
+<sup>3</sup> Les données relatives aux personnes résidant dans les autres ménages collectifs mentionnés à l'article 2 let. abis de l'ordonnance fédérale du 21 novembre 2007 sur l'harmonisation de registres[^5-2] sont directement transmises à l'Office fédéral de la statistique par la direction de l'établissement, conformément aux directives dudit Office.
+
+[^5-1]: RSF [114.21.1](https://bdlf.fr.ch/data/114.21.1/fr)
+[^5-2]: RS [431.021](https://db.clex.ch/link/Bund/431.021/fr)
 
 #### Art. 6
 

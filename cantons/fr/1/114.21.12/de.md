@@ -3,13 +3,12 @@ canton: FR
 number: "114.21.12"
 title: Verordnung über die Informatikplattform für die Einwohnerregisterdaten
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2022-01-31
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2010-06-14
 in_force: 2010-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.21.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7101/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8153/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7101/pdf_file"
 
 Einwohnerregisterdaten, Informatikplattform – V
 
-vom 14.06.2010 (Fassung in Kraft getreten am 01.01.2022)
+vom 14.06.2010 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -34,9 +33,12 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung:
 
-- a) legt das Bewilligungsverfahren und die Modalitäten für den Zugriff auf die Daten der kantonalen Informatikplattform gemäss Artikel 16 des Gesetzes vom 23. Mai 1986 über die Einwohnerkontrolle fest;
-- b) präzisiert die Regeln für die Anmeldung der Personen, die in Kollektivhaushalten gemäss Artikel 2 Bst. a<sup>bis</sup> der Registerharmonisierungsverordnung vom 21. November 2007 wohnen;
+- a) legt das Bewilligungsverfahren und die Modalitäten für den Zugriff auf die Daten der kantonalen Informatikplattform gemäss Artikel 16 des Gesetzes vom 23. Mai 1986 über die Einwohnerkontrolle[^1-1] fest;
+- b) präzisiert die Regeln für die Anmeldung der Personen, die in Kollektivhaushalten gemäss Artikel 2 Bst. a<sup>bis</sup> der Registerharmonisierungsverordnung vom 21. November 2007[^1-2] wohnen;
 - c) bezeichnet die Behörde, die die Informatikstandards für den Austausch von Daten über die kantonale Informatikplattform festlegt.
+
+[^1-1]: SGF [114.21.1](https://bdlf.fr.ch/data/114.21.1/de)
+[^1-2]: SR [431.021](https://db.clex.ch/link/Bund/431.021/de)
 
 #### Art. 2
 
@@ -57,7 +59,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt unterbreitet die vollständig ausgefüllten Gesuche der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation zur Stellungnahme. Im Fall eines Gesuchs betreffend Austausch der Daten muss es ebenfalls die Stellungnahme des Amts für Informatik und Telekommunikation zur technischen Machbarkeit des Gesuchs und zum Kostenvoranschlag einholen.
 
-<sup>2</sup> Es leitet danach das Gesuch zusammen mit der oben erwähnten Stellungnahme an die Sicherheits- und Justizdirektion (die Direktion) zum Entscheid weiter.
+<sup>2</sup> Es leitet danach das Gesuch zusammen mit der oben erwähnten Stellungnahme an die Sicherheits-, Justiz- und Sportdirektion (die Direktion) zum Entscheid weiter.
 
 <sup>3</sup> Der Entscheid wird dem Gesuchsteller zugestellt und der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation, dem Amt sowie dem Amt für Informatik und Telekommunikation mitgeteilt.
 
@@ -88,9 +90,12 @@ beschliesst:
 - c) in Institutionen für Behinderte;
 - d) in Klöstern und anderen Unterkünften religiöser Vereinigungen.
 
-<sup>2</sup> Die Leitungen der Institutionen und Anstalten melden die Personen an. Die volljährigen Personen, die in Kollektivhaushalten nach den Buchstaben b und d wohnen, müssen sich gemäss Artikel 6 Abs. 2 des Gesetzes vom 23. Mai 1986 über die Einwohnerkontrolle jedoch grundsätzlich persönlich beim Vorsteher der Einwohnerkontrolle anmelden.
+<sup>2</sup> Die Leitungen der Institutionen und Anstalten melden die Personen an. Die volljährigen Personen, die in Kollektivhaushalten nach den Buchstaben b und d wohnen, müssen sich gemäss Artikel 6 Abs. 2 des Gesetzes vom 23. Mai 1986 über die Einwohnerkontrolle[^5-1] jedoch grundsätzlich persönlich beim Vorsteher der Einwohnerkontrolle anmelden.
 
-<sup>3</sup> Die Daten der Personen, die in anderen Kollektivhaushalten nach Artikel 2 Bst. abis der Registerharmonisierungsverordnung vom 21. November 2007 wohnen, werden von der Anstaltsleitung direkt an das Bundesamt für Statistik nach dessen Anweisungen übermittelt.
+<sup>3</sup> Die Daten der Personen, die in anderen Kollektivhaushalten nach Artikel 2 Bst. abis der Registerharmonisierungsverordnung vom 21. November 2007[^5-2] wohnen, werden von der Anstaltsleitung direkt an das Bundesamt für Statistik nach dessen Anweisungen übermittelt.
+
+[^5-1]: SGF [114.21.1](https://bdlf.fr.ch/data/114.21.1/de)
+[^5-2]: SR [431.021](https://db.clex.ch/link/Bund/431.021/de)
 
 #### Art. 6
 
