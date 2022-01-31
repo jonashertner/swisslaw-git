@@ -4,13 +4,12 @@ number: "122.0.511"
 title: Richtlinie SK über die Information und die Kommunikation
 short: InfoRL
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2022-01-31
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2015-03-30
 in_force: 2015-04-28
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.511"
-pdf: "https://bdlf.fr.ch/api/de/versions/7106/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8189/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Information und Kommunikation - Richtlinie SK
 
 (InfoRL)
 
-vom 30.03.2015 (Fassung in Kraft getreten am 01.01.2022)
+vom 30.03.2015 (Fassung in Kraft getreten am 01.02.2022)
 
 Die Staatskanzlei des Kantons Freiburg
 
@@ -54,8 +53,12 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleiben:
 
-- a) allgemein die unabhängige Stellung der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation (Art. 31 InfoV);
-- b) für die Vorschriften über die Websites die Ausnahmen aufgrund der besonderen Situation der Einheiten, die ihre Sites nicht mit dem Content Management des Staates (CMS) verwalten müssen (Art. 35 Abs. 2 InfoV) und die nicht die Anforderungen des Corporate Design erfüllen müssen (Art. 3 Abs. 1 CDV).
+- a) allgemein die unabhängige Stellung der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation (Art. 31 InfoV[^2-1]);
+- b) für die Vorschriften über die Websites die Ausnahmen aufgrund der besonderen Situation der Einheiten, die ihre Sites nicht mit dem Content Management des Staates (CMS) verwalten müssen (Art. 35 Abs. 2 InfoV[^2-2]) und die nicht die Anforderungen des Corporate Design erfüllen müssen (Art. 3 Abs. 1 CDV[^2-3]).
+
+[^2-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+[^2-2]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+[^2-3]: SGF [122.0.14](https://bdlf.fr.ch/data/122.0.14/de)
 
 #### Art. 3
 
@@ -71,7 +74,7 @@ beschliesst:
 
 **Sprachliche Aspekte**
 
-<sup>1</sup> Die Sprache der Information wird in den Artikeln 2 und 3 InfoV geregelt.
+<sup>1</sup> Die Sprache der Information wird in den Artikeln 2 und 3 InfoV[^4-1] geregelt.
 
 <sup>2</sup> Ausserdem gelten für Texte, die vor dem Hintergrund der Information und der Kommunikation des Staates verfasst werden:
 
@@ -80,15 +83,21 @@ beschliesst:
 
 <sup>3</sup> Die besonderen Vorschriften nach Artikel 15 für die Mitteilungen an die Medien bleiben aber vorbehalten.
 
+[^4-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+
 #### Art. 5
 
-**Corporate Design (Art. 4 Abs. 3 InfoV)**
+**Corporate Design (Art. 4 Abs. 3 InfoV[^5-1])**
 
 <sup>1</sup> Für den Bereich der Information der Öffentlichkeit gelten sowohl für die Websites als auch für die in diesem Zusammenhang in gedruckter Form oder elektronisch verbreiteten Dokumente die Anforderungen der Verordnung über das Corporate Design des Staates Freiburg und der dazugehörigen Grafikcharta innerhalb der in dieser Verordnung festgelegten Grenzen.
 
-<sup>2</sup> Für die Dossiers im Zusammenhang mit den Entscheiden des Staatsrats bleibt ausserdem Artikel 25 Abs. 2 SRSVV vorbehalten.
+<sup>2</sup> Für die Dossiers im Zusammenhang mit den Entscheiden des Staatsrats bleibt ausserdem Artikel 25 Abs. 2 SRSVV[^5-2] vorbehalten.
 
-<sup>3</sup> Die Verwaltungseinheiten, für welche die Regeln der Verordnung über das Corporate Design des Staates Freiburg nicht gelten, müssen auf ihrer Website und ihren Dokumenten ihre Zugehörigkeit zum Staat Freiburg erwähnen (Art. 3 Abs. 2 CDV); vom Staatsrat erteilte Dispense bleiben vorbehalten.
+<sup>3</sup> Die Verwaltungseinheiten, für welche die Regeln der Verordnung über das Corporate Design des Staates Freiburg nicht gelten, müssen auf ihrer Website und ihren Dokumenten ihre Zugehörigkeit zum Staat Freiburg erwähnen (Art. 3 Abs. 2 CDV[^5-3]); vom Staatsrat erteilte Dispense bleiben vorbehalten.
+
+[^5-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+[^5-2]: SGF [122.0.17](https://bdlf.fr.ch/data/122.0.17/de)
+[^5-3]: SGF [122.0.14](https://bdlf.fr.ch/data/122.0.14/de)
 
 #### Art. 6
 
@@ -96,9 +105,11 @@ beschliesst:
 
 <sup>1</sup> Vorbehalten bleiben:
 
-- a) die Weisungen, welche die Direktionen und die Anstalten mit eigener Rechtspersönlichkeit in Anwendung von Artikel 30 InfoV erlassen haben;
-- b) die Weisungen, welche die Direktion für Erziehung, Kultur und Sport zu den Websites der Schulen und zur Veröffentlichung persönlicher Daten auf diesen Websites erlassen hat;
+- a) die Weisungen, welche die Direktionen und die Anstalten mit eigener Rechtspersönlichkeit in Anwendung von Artikel 30 InfoV[^6-1] erlassen haben;
+- b) die Weisungen, welche die Direktion für Bildung und kulturelle Angelegenheiten zu den Websites der Schulen und zur Veröffentlichung persönlicher Daten auf diesen Websites erlassen hat;
 - c) die Weisungen und die besonderen Vorschriften nach den Artikeln 30 Abs. 2 und 35.
+
+[^6-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
 
 ## 2 Organisation
 
@@ -112,23 +123,28 @@ beschliesst:
 
 #### Art. 8
 
-**Büro für Information (Art. 6 InfoV)**
+**Büro für Information (Art. 6 InfoV[^8-1])**
 
 <sup>1</sup> Das Büro für Information (BfI) führt zusätzlich zu den Aufgaben, die ihm in der Verordnung über die Information über die Tätigkeit des Staatsrats und der Verwaltung übertragen werden, folgende Tätigkeiten aus:
 
 - a) Es achtet auf die Qualität der Information, die vom Staatsrat und von der Verwaltung kommt; ferner sorgt es für ein einheitliches Vorgehen auf diesem Gebiet.
 - b) Es sorgt für die Koordination und die Einheitlichkeit der Information, die von der Verwaltung kommt.
-- c) Es führt die Agenda der Medienkonferenzen, die jede Woche dem Staatsrat unterbreitet wird (Art. 14 Abs. 2 InfoV und Art. 25 Abs. 3 SRSVV), und ein Verzeichnis der wichtigen Dokumente, die an die akkreditierten Medien abgegeben wurden.
+- c) Es führt die Agenda der Medienkonferenzen, die jede Woche dem Staatsrat unterbreitet wird (Art. 14 Abs. 2 InfoV[^8-2] und Art. 25 Abs. 3 SRSVV[^8-3]), und ein Verzeichnis der wichtigen Dokumente, die an die akkreditierten Medien abgegeben wurden.
 - d) Es erstellt täglich einen Medienspiegel mit Themen, die für den Kanton interessant sind, und stellt diesen den Mitgliedern des Staatsrats und der Kantonsverwaltung zur Verfügung.
-- e) Es wirkt an der Schaffung von Weiterbildungskursen für die Mitarbeiterinnen und Mitarbeiter, die mit Informationsaufgaben beauftragt sind, mit (Art. 4 Abs. 2 InfoV).
+- e) Es wirkt an der Schaffung von Weiterbildungskursen für die Mitarbeiterinnen und Mitarbeiter, die mit Informationsaufgaben beauftragt sind, mit (Art. 4 Abs. 2 InfoV[^8-4]).
 - f) Es übernimmt neben der Verwaltung des Webportals des Staates und der Website des Staatsrats die Verwaltung der Website der Staatskanzlei und diejenige der Website zum Corporate Design des Staates.
 - g) Es funktioniert als Kompetenzzentrum für die Social Media.
 - h) Es gibt den Direktionen und ihren Verwaltungseinheiten Auskunft über die Probleme im Zusammenhang mit der Veröffentlichung von Bildern (Art. 32 ff.).
 - i) Es verfolgt die Entwicklung der E-Government-Projekte und hält sich über den technologischen Fortschritt im Informationsbereich auf dem Laufenden.
 
+[^8-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+[^8-2]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+[^8-3]: SGF [122.0.17](https://bdlf.fr.ch/data/122.0.17/de)
+[^8-4]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+
 #### Art. 9
 
-**Ansprechpersonen für die Information in den Direktionen (Art. 7 InfoV)**
+**Ansprechpersonen für die Information in den Direktionen (Art. 7 InfoV[^9-1])**
 
 <sup>1</sup> Die Ansprechpersonen in den Direktionen führen zusätzlich zu den Aufgaben, die ihnen in der Verordnung über die Information über die Tätigkeit des Staatsrats und der Verwaltung übertragen werden, folgende Tätigkeiten aus:
 
@@ -137,21 +153,26 @@ beschliesst:
 - c) Sie stellen die Information ihrer Direktion und deren Verwaltungseinheiten über die allgemeinen Dossiers über die Kommunikation, die in der Konferenz der Informationsverantwortlichen diskutiert wurden, sicher.
 - d) Sie sorgen zusammen mit den Generalsekretärinnen und Generalsekretären dafür, dass das Personal, das bei der Information eine Rolle übernehmen muss, die nötigen Weisungen und wenn nötig eine angemessene Ausbildung erhält.
 
+[^9-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+
 ## 3 Übermittlung der Informationen an die Medien
 
 #### Art. 10
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Zuständigkeit, den Medien Informationen über die Tätigkeit der Verwaltung abzugeben, wird in den Artikeln 26 und 27 InfoV geregelt.
+<sup>1</sup> Die Zuständigkeit, den Medien Informationen über die Tätigkeit der Verwaltung abzugeben, wird in den Artikeln 26 und 27 InfoV[^10-1] geregelt.
 
-<sup>2</sup> Ausserdem gelten die Artikel 22 ff. InfoV für die Informationen über die Absichten und die Entscheide des Staatsrats.
+<sup>2</sup> Ausserdem gelten die Artikel 22 ff. InfoV[^10-2] für die Informationen über die Absichten und die Entscheide des Staatsrats.
+
+[^10-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+[^10-2]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
 
 #### Art. 11
 
-**Art der Informationen (Art. 27 InfoV)**
+**Art der Informationen (Art. 27 InfoV[^11-1])**
 
-<sup>1</sup> Informationen sind politischer Art im Sinne von Artikel 27 Abs. 1 InfoV, wenn sie:
+<sup>1</sup> Informationen sind politischer Art im Sinne von Artikel 27 Abs. 1 InfoV[^11-2], wenn sie:
 
 - a) Themen, für die es mehrere Lösungsvarianten gibt oder zu denen verschiedene Meinungen geäussert werden, zum Inhalt haben;
 - b) kontroverse Themen oder heikle Fragen des Kantonslebens betreffen;
@@ -159,19 +180,25 @@ beschliesst:
 
 <sup>2</sup> Rein tatsachenbezogene Informationen und solche über Einzelheiten der beschlossenen Massnahme, die keine Beurteilung des Hintergrunds des Themas verlangen, sind technischer oder administrativer Art.
 
+[^11-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+[^11-2]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+
 #### Art. 12
 
-**Informationsmittel (Art. 13 ff. InfoV)**
+**Informationsmittel (Art. 13 ff. InfoV[^12-1])**
 
 <sup>1</sup> Die Direktionen und allenfalls ihre Verwaltungseinheiten beschliessen je nach der Bedeutung, die sie ihren Informationen geben wollen, welche Mittel angemessen sind, um die Informationen zu verbreiten.
 
-<sup>2</sup> Für die Organisation einer Medienkonferenz braucht eine Verwaltungseinheit das vorgängige Einverständnis der betreffenden Direktion. Diese Pflicht gilt weder für die Oberämter noch für die Einheiten, die von ihrer Direktion in Anwendung von Artikel 30 Abs. 1 InfoV ausgenommen werden.
+<sup>2</sup> Für die Organisation einer Medienkonferenz braucht eine Verwaltungseinheit das vorgängige Einverständnis der betreffenden Direktion. Diese Pflicht gilt weder für die Oberämter noch für die Einheiten, die von ihrer Direktion in Anwendung von Artikel 30 Abs. 1 InfoV[^12-2] ausgenommen werden.
 
 <sup>3</sup> Die Direktionen und ihre Verwaltungseinheiten beachten die allgemeinen Grundsätze, welche für die Ausarbeitung eines Kommunikationsplans, die Verfassung einer Medienmitteilung und die Organisation einer Medienkonferenz oder einer Medienorientierung gelten; diese Grundsätze werden im Anhang weiter ausgeführt (Anhang 1).
 
+[^12-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+[^12-2]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+
 #### Art. 13
 
-**Verbreitung der Informationen (Art. 29 InfoV) – Im Allgemeinen**
+**Verbreitung der Informationen (Art. 29 InfoV[^13-1]) – Im Allgemeinen**
 
 <sup>1</sup> Das BfI sorgt in Beachtung des Beschleunigungsgebots für eine regelmässige Verbreitung der Informationen, wobei es gleichzeitig den Erscheinungsrhythmus der Freiburger Medien und die Notwendigkeit, die bestmögliche Sichtbarkeit sicherzustellen, berücksichtigt.
 
@@ -179,21 +206,28 @@ beschliesst:
 
 <sup>3</sup> Die Antworten des Staatsrats auf Vernehmlassungen des Bundes werden im Internet veröffentlicht und den Medien grundsätzlich ohne zusätzliche Erläuterungen abgegeben.
 
+[^13-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+
 #### Art. 14
 
-**Verbreitung der Informationen (Art. 29 InfoV) – Durch die Verwaltungseinheiten**
+**Verbreitung der Informationen (Art. 29 InfoV[^14-1]) – Durch die Verwaltungseinheiten**
 
 <sup>1</sup> Die Direktionen teilen dem BfI die Liste ihrer Verwaltungseinheiten, die ihre Informationen selber bei den Medien verbreiten, mit.
 
 <sup>2</sup> Die Einheiten, die ihre Informationen selber verbreiten, sorgen dafür, dass ihre Versände mit denjenigen des BfI koordiniert werden. Sie lassen ihm und der Ansprechperson ihrer Direktion von Amtes wegen eine Kopie zukommen.
 
+[^14-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
+
 #### Art. 15
 
 **Sprachen und Übersetzungen – Besondere Vorschriften**
 
-<sup>1</sup> Wenn erläuternde Berichte zu den Verordnungen des Staatsrats als Mitteilung an die Medien dienen, müssen sie in beiden Amtssprachen ausgearbeitet und verbreitet werden (Art. 26 Abs. 2 SRSVV). Wenn sie ihnen als einfache Beilagen zu einer Mitteilung zur Verfügung gestellt werden, müssen sie nur in der Originalsprache verbreitet werden (Art. 3 Abs. 1 InfoV).
+<sup>1</sup> Wenn erläuternde Berichte zu den Verordnungen des Staatsrats als Mitteilung an die Medien dienen, müssen sie in beiden Amtssprachen ausgearbeitet und verbreitet werden (Art. 26 Abs. 2 SRSVV[^15-1]). Wenn sie ihnen als einfache Beilagen zu einer Mitteilung zur Verfügung gestellt werden, müssen sie nur in der Originalsprache verbreitet werden (Art. 3 Abs. 1 InfoV[^15-2]).
 
 <sup>2</sup> Für die Übersetzung der Mitteilungen an die Medien ist die Direktion, die mit der Angelegenheit beauftragt ist, zuständig, selbst wenn die Mitteilung letztlich im Namen des Staatsrats verbreitet wird.
+
+[^15-1]: SGF [122.0.17](https://bdlf.fr.ch/data/122.0.17/de)
+[^15-2]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
 
 ## 4 Websites des Staates
 
@@ -205,13 +239,15 @@ beschliesst:
 
 #### Art. 17
 
-**Content-Management-System (Art. 35 Abs. 1 InfoV)**
+**Content-Management-System (Art. 35 Abs. 1 InfoV[^17-1])**
 
 <sup>1</sup> Das zentrale Informatiksystem zum Content-Management (CMS) bietet die nötigen Modelle für die Präsentation der Informationen und enthält eine spezielle Anwendung für die Verwaltung von News.
 
 <sup>2</sup> Wenn nötig können weitere Webanwendungen in das CMS eingefügt werden; dabei müssen die Anforderungen der Verordnung über das Corporate Design des Staates Freiburg und der dazugehörigen Grafikcharta beachtet werden.
 
 <sup>3</sup> Der Standardbrowser für das CMS wird von diesem festgelegt. Soweit möglich sorgt das Organ, das mit der Verwaltung der Website beauftragt ist, dafür, dass die veröffentlichten Seiten auch mit anderen Browsern dargestellt werden können und auf verschiedenen Geräten zugänglich sind (Tablets, Mobiltelefone, ...).
+
+[^17-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
 
 #### Art. 18
 
@@ -289,9 +325,11 @@ beschliesst:
 <sup>1</sup> Für die Websites, die von den unterstellten Verwaltungseinheiten geschaffen werden, gibt es eine doppelte Kontrolle:
 
 - a) Die zuständige Direktion führt eine materielle Kontrolle des Inhalts der Website durch und erteilt auf dieser Grundlage eine vorgängige Veröffentlichungsbewilligung.
-- b) Das BfI führt die formale Kontrolle, die in Artikel 35 Abs. 3 InfoV vorgeschrieben wird, durch und erteilt auf dieser Grundlage die definitive Veröffentlichungsbewilligung.
+- b) Das BfI führt die formale Kontrolle, die in Artikel 35 Abs. 3 InfoV[^25-1] vorgeschrieben wird, durch und erteilt auf dieser Grundlage die definitive Veröffentlichungsbewilligung.
 
 <sup>2</sup> Für die Websites, die von den Direktionen und den administrativ zugewiesenen Verwaltungseinheiten geschaffen werden, braucht es nur die formale Kontrolle und die dazugehörige definitive Veröffentlichungsbewilligung.
+
+[^25-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
 
 #### Art. 26
 
@@ -320,7 +358,9 @@ beschliesst:
 
 <sup>2</sup> Das BfI stellt die Veröffentlichung der News des Staatsrats und der Staatskanzlei sicher. Es sortiert ausserdem die weiteren News und koordiniert deren Verbreitung auf den verschiedenen Websites, die es verwaltet.
 
-<sup>3</sup> Die Übernahme der News, die vom Sekretariat des Grossen Rates, vom Justizrat oder vom Kantonsgericht übermittelt werden, auf dem Webportal wird in Artikel 32 Abs. 3 InfoV geregelt.
+<sup>3</sup> Die Übernahme der News, die vom Sekretariat des Grossen Rates, vom Justizrat oder vom Kantonsgericht übermittelt werden, auf dem Webportal wird in Artikel 32 Abs. 3 InfoV[^28-1] geregelt.
+
+[^28-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
 
 #### Art. 29
 
@@ -341,7 +381,7 @@ beschliesst:
 
 **Websites der Direktionen und der Verwaltungseinheiten**
 
-<sup>1</sup> Als Ergänzung zum Mindestinhalt nach Artikel 33 Abs. 2 InfoV müssen die Direktionen, die Staatskanzlei und die Verwaltungseinheiten auf ihrer Website auch Folgendes veröffentlichen:
+<sup>1</sup> Als Ergänzung zum Mindestinhalt nach Artikel 33 Abs. 2 InfoV[^30-1] müssen die Direktionen, die Staatskanzlei und die Verwaltungseinheiten auf ihrer Website auch Folgendes veröffentlichen:
 
 - a) eine Identitätskarte der Direktion oder der Einheit, die verschiedenen Mittel, um sie zu kontaktieren, und ein Kontaktformular mit den nötigen Sicherheitsmassnahmen;
 - b) eine Rubrik «News» mit einem Link zu den News des Webportals;
@@ -352,6 +392,8 @@ beschliesst:
 - a) die grafische Darstellung der Organigramme;
 - b) die Auszüge aus dem Leistungskatalog (Aufträge, Dienstleistungen, gesetzliche Grundlagen);
 - c) das öffentlich zugängliche Telefonbuch.
+
+[^30-1]: SGF [122.0.51](https://bdlf.fr.ch/data/122.0.51/de)
 
 ## 5 Social Media
 
@@ -374,7 +416,9 @@ beschliesst:
 
 <sup>2</sup> Das öffentliche Organ, das in seiner Kommunikation Bilder verwendet, sorgt dafür, dass die Gesetzgebung über das Urheberrecht beachtet wird. Wenn nötig verständigt es sich vorgängig mit der Urheberin oder dem Urheber darüber, wie das Bild verwendet wird und in welchem Ausmass Rechte abgetreten werden.
 
-<sup>3</sup> Die Veröffentlichung von Bildern, auf denen identifizierte oder identifizierbare Personen abgebildet sind, bildet ein Bekanntgeben von Personendaten an die Öffentlichkeit, das in den Artikeln 11 und 12 InfoG und in den folgenden Bestimmungen geregelt wird.
+<sup>3</sup> Die Veröffentlichung von Bildern, auf denen identifizierte oder identifizierbare Personen abgebildet sind, bildet ein Bekanntgeben von Personendaten an die Öffentlichkeit, das in den Artikeln 11 und 12 InfoG[^32-1] und in den folgenden Bestimmungen geregelt wird.
+
+[^32-1]: SGF [17.5](https://bdlf.fr.ch/data/17.5/de)
 
 #### Art. 33
 

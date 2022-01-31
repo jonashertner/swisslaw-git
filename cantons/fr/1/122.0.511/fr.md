@@ -4,13 +4,12 @@ number: "122.0.511"
 title: "Directives CHA relatives à l'information et à la communication"
 short: DirInf
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2022-01-31
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2015-03-30
 in_force: 2015-04-28
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.511"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7106/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8189/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Information et communication - Directives CHA
 
 (DirInf)
 
-du 30.03.2015 (version entrée en vigueur le 01.01.2022)
+du 30.03.2015 (version entrée en vigueur le 01.02.2022)
 
 La Chancellerie d'Etat du canton de Fribourg
 
@@ -54,8 +53,12 @@ Adopte ce qui suit:
 
 <sup>2</sup> Sont toutefois réservés:
 
-- a) de manière générale, le statut d'indépendance de l'Autorité cantonale de la transparence, de la protection des données et de la médiation (art. 31 OInf);
-- b) pour les règles relatives aux sites Internet, les dérogations découlant de la situation particulière des entités qui ne sont pas soumises à l'obligation d'administrer leurs sites à l'aide du système de gestion de contenu de l'Etat (CMS) (art. 35 al. 2 OInf) ou qui ne sont pas soumises aux exigences relatives à l'identité visuelle (art. 3 al. 1 OIV).
+- a) de manière générale, le statut d'indépendance de l'Autorité cantonale de la transparence, de la protection des données et de la médiation (art. 31 OInf[^2-1]);
+- b) pour les règles relatives aux sites Internet, les dérogations découlant de la situation particulière des entités qui ne sont pas soumises à l'obligation d'administrer leurs sites à l'aide du système de gestion de contenu de l'Etat (CMS) (art. 35 al. 2 OInf[^2-2]) ou qui ne sont pas soumises aux exigences relatives à l'identité visuelle (art. 3 al. 1 OIV[^2-3]).
+
+[^2-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+[^2-2]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+[^2-3]: RSF [122.0.14](https://bdlf.fr.ch/data/122.0.14/fr)
 
 #### Art. 3
 
@@ -71,7 +74,7 @@ Adopte ce qui suit:
 
 **Aspects linguistiques**
 
-<sup>1</sup> La langue de l'information est régie par les articles 2 et 3 OInf.
+<sup>1</sup> La langue de l'information est régie par les articles 2 et 3 OInf[^4-1].
 
 <sup>2</sup> Sont en outre applicables aux textes rédigés dans le contexte de l'information et de la communication de l'Etat:
 
@@ -80,15 +83,21 @@ Adopte ce qui suit:
 
 <sup>3</sup> Les règles particulières prévues à l'article 15 pour les communications aux médias sont cependant réservées.
 
+[^4-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+
 #### Art. 5
 
-**Identité visuelle (art. 4 al. 3 OInf)**
+**Identité visuelle (art. 4 al. 3 OInf[^5-1])**
 
 <sup>1</sup> Le domaine de l'information du public est, en ce qui concerne aussi bien les sites Internet que les documents diffusés dans ce contexte sous forme imprimée ou sous forme électronique, soumis aux exigences de l'ordonnance relative à l'identité visuelle de l'Etat de Fribourg et de la charte graphique qui l'accompagne, dans les limites fixées par cette ordonnance.
 
-<sup>2</sup> Pour les dossiers issus de décisions du Conseil d'Etat, l'article 25 al. 2 OGSCE est en outre réservé.
+<sup>2</sup> Pour les dossiers issus de décisions du Conseil d'Etat, l'article 25 al. 2 OGSCE[^5-2] est en outre réservé.
 
-<sup>3</sup> Sous réserve de dispenses accordées par le Conseil d'Etat, les unités administratives qui ne sont pas soumises aux règles de l'ordonnance relative à l'identité visuelle de l'Etat de Fribourg sont tenues de mentionner, sur leur site et dans ces documents, leur appartenance à l'Etat de Fribourg (art. 3 al. 2 OIV).
+<sup>3</sup> Sous réserve de dispenses accordées par le Conseil d'Etat, les unités administratives qui ne sont pas soumises aux règles de l'ordonnance relative à l'identité visuelle de l'Etat de Fribourg sont tenues de mentionner, sur leur site et dans ces documents, leur appartenance à l'Etat de Fribourg (art. 3 al. 2 OIV[^5-3]).
+
+[^5-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+[^5-2]: RSF [122.0.17](https://bdlf.fr.ch/data/122.0.17/fr)
+[^5-3]: RSF [122.0.14](https://bdlf.fr.ch/data/122.0.14/fr)
 
 #### Art. 6
 
@@ -96,9 +105,11 @@ Adopte ce qui suit:
 
 <sup>1</sup> Sont réservées:
 
-- a) les directives prises par les Directions ou les établissements personnalisés en application de l'article 30 OInf;
-- b) les directives prises par la Direction de l'instruction publique, de la culture et du sport relatives aux sites Internet des écoles et à la publication de données personnelles sur ces sites;
+- a) les directives prises par les Directions ou les établissements personnalisés en application de l'article 30 OInf[^6-1];
+- b) les directives prises par la Direction de la formation et des affaires culturelles relatives aux sites Internet des écoles et à la publication de données personnelles sur ces sites;
 - c) les directives et règles particulières mentionnées aux articles 30 al. 2 et 35.
+
+[^6-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
 
 ## 2 Organisation
 
@@ -112,23 +123,28 @@ Adopte ce qui suit:
 
 #### Art. 8
 
-**Bureau de l'information (art. 6 OInf)**
+**Bureau de l'information (art. 6 OInf[^8-1])**
 
 <sup>1</sup> En complément des tâches qui lui sont confiées par l'ordonnance relative à l'information sur les activités du Conseil d'Etat et de l'administration, le Bureau de l'information (ci-après: le BdI):
 
 - a) veille à la qualité de l'information émanant du Conseil d'Etat et de son administration, en assurant une certaine unité de doctrine en la matière;
 - b) veille à la coordination et à la cohérence de l'information fournie par l'administration;
-- c) tient l'agenda des conférences de presse en vue de sa soumission hebdomadaire au Conseil d'Etat (art. 14 al. 2 OInf et art. 25 al. 3 OGSCE) ainsi qu'un répertoire des remises de documents importants à la presse accréditée;
+- c) tient l'agenda des conférences de presse en vue de sa soumission hebdomadaire au Conseil d'Etat (art. 14 al. 2 OInf[^8-2] et art. 25 al. 3 OGSCE[^8-3]) ainsi qu'un répertoire des remises de documents importants à la presse accréditée;
 - d) établit quotidiennement une revue de presse générale des sujets et thèmes intéressants pour le canton, qu'il met à la disposition des membres du Conseil d'Etat et de l'administration cantonale;
-- e) collabore à la mise en place de cours de formation continue destinés aux collaborateurs et collaboratrices chargés de tâches d'information (art. 4 al. 2 OInf);
+- e) collabore à la mise en place de cours de formation continue destinés aux collaborateurs et collaboratrices chargés de tâches d'information (art. 4 al. 2 OInf[^8-4]);
 - f) assume, outre la gestion du site portail de l'Etat et du site du Conseil d'Etat, la gestion du site de la Chancellerie et celle du site consacré à l'identité visuelle de l'Etat;
 - g) fonctionne comme centre de compétence pour les médias sociaux;
 - h) renseigne les Directions et leurs unités administratives sur les problèmes relatifs à la publication d'images (art. 32ss);
 - i) suit l'évolution des projets de cyberadministration et se tient informé des avancées technologiques dans le domaine de l'information.
 
+[^8-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+[^8-2]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+[^8-3]: RSF [122.0.17](https://bdlf.fr.ch/data/122.0.17/fr)
+[^8-4]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+
 #### Art. 9
 
-**Correspondants et correspondantes des Directions en matière d'information (art. 7 OInf)**
+**Correspondants et correspondantes des Directions en matière d'information (art. 7 OInf[^9-1])**
 
 <sup>1</sup> En complément des tâches qui leur sont confiées par l'ordonnance relative à l'information sur les activités du Conseil d'Etat et de l'administration, les correspondants et correspondantes des Directions en matière d'information:
 
@@ -137,21 +153,26 @@ Adopte ce qui suit:
 - c) assurent l'information de leur Direction et de ses unités administratives sur les dossiers généraux relatifs à la communication discutés au sein de la Conférence des responsables de l'information;
 - d) veillent, en collaboration avec les secrétaires généraux, à ce que le personnel amené à jouer un rôle en matière d'information reçoive les instructions nécessaires à cette activité et, au besoin, une formation adéquate.
 
+[^9-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+
 ## 3 Communication des informations aux médias
 
 #### Art. 10
 
 **Compétences**
 
-<sup>1</sup> La compétence pour fournir aux médias des informations sur les activités de l'administration est régie par les articles 26 et 27 OInf.
+<sup>1</sup> La compétence pour fournir aux médias des informations sur les activités de l'administration est régie par les articles 26 et 27 OInf[^10-1].
 
-<sup>2</sup> Les articles 22 et suivants OInf sont en outre applicables à l'information sur les intentions et décisions du Conseil d'Etat.
+<sup>2</sup> Les articles 22 et suivants OInf[^10-2] sont en outre applicables à l'information sur les intentions et décisions du Conseil d'Etat.
+
+[^10-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+[^10-2]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
 
 #### Art. 11
 
-**Nature des informations (art. 27 OInf)**
+**Nature des informations (art. 27 OInf[^11-1])**
 
-<sup>1</sup> Sont de nature politique au sens de l'article 27 al. 1 OInf les informations qui:
+<sup>1</sup> Sont de nature politique au sens de l'article 27 al. 1 OInf[^11-2] les informations qui:
 
 - a) portent sur des sujets présentant des variantes quant aux solutions à trouver ou suscitant l'expression d'avis divergents;
 - b) concernent des thèmes controversés ou des questions délicates de la vie cantonale;
@@ -159,19 +180,25 @@ Adopte ce qui suit:
 
 <sup>2</sup> Sont de nature technique ou administrative les informations purement factuelles ainsi que celles qui sont relatives aux modalités de la mesure décidée et qui ne demandent pas d'appréciation sur le fond du sujet.
 
+[^11-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+[^11-2]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+
 #### Art. 12
 
-**Moyens d'informer (art. 13ss OInf)**
+**Moyens d'informer (art. 13ss OInf[^12-1])**
 
 <sup>1</sup> Les Directions et, le cas échéant, leurs unités administratives décident des moyens appropriés pour diffuser leurs informations, en fonction de l'importance qu'elles entendent leur donner.
 
-<sup>2</sup> L'organisation d'une conférence de presse par une unité administrative nécessite l'accord préalable de la Direction concernée. Cette obligation ne s'applique toutefois ni aux préfectures, ni aux unités qui en sont exemptées par leur Direction en application de l'article 30 al. 1 OInf.
+<sup>2</sup> L'organisation d'une conférence de presse par une unité administrative nécessite l'accord préalable de la Direction concernée. Cette obligation ne s'applique toutefois ni aux préfectures, ni aux unités qui en sont exemptées par leur Direction en application de l'article 30 al. 1 OInf[^12-2].
 
 <sup>3</sup> Les Directions et leurs unités administratives respectent les principes généraux qui gouvernent l'établissement d'un plan de communication, la rédaction d'un communiqué de presse et l'organisation d'une conférence de presse ou d'un point presse. Ces principes sont précisés en annexe (annexe 1).
 
+[^12-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+[^12-2]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+
 #### Art. 13
 
-**Diffusion des informations (art. 29 OInf) – En général**
+**Diffusion des informations (art. 29 OInf[^13-1]) – En général**
 
 <sup>1</sup> Dans le respect du principe de célérité, le BdI veille à une diffusion régulière des informations, tenant compte à la fois du rythme de parution des médias fribourgeois et de la nécessité d'en assurer la meilleure visibilité possible.
 
@@ -179,21 +206,28 @@ Adopte ce qui suit:
 
 <sup>3</sup> Les réponses du Conseil d'Etat aux consultations fédérales sont publiées sur Internet et sont en principe remises aux médias sans explications complémentaires.
 
+[^13-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+
 #### Art. 14
 
-**Diffusion des informations (art. 29 OInf) – Par les unités administratives**
+**Diffusion des informations (art. 29 OInf[^14-1]) – Par les unités administratives**
 
 <sup>1</sup> Les Directions communiquent au BdI la liste de leurs unités administratives qui diffusent elles-mêmes leurs informations auprès des médias.
 
 <sup>2</sup> Les unités qui diffusent elles-mêmes leurs informations auprès des médias veillent à coordonner leurs envois avec ceux du BdI. Elles lui en font d'office parvenir une copie, ainsi qu'au correspondant ou à la correspondante de leur Direction.
 
+[^14-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
+
 #### Art. 15
 
 **Langues et traductions – Règles particulières**
 
-<sup>1</sup> Lorsqu'ils font office de communication aux médias, les rapports explicatifs relatifs à des ordonnances du Conseil d'Etat doivent être établis et diffusés dans les deux langues officielles (art. 26 al. 2 OGSCE). Lorsqu'ils sont mis à disposition en tant que simples annexes à une communication, ils peuvent être diffusés uniquement dans leur langue originelle (art. 3 al. 1 OInf).
+<sup>1</sup> Lorsqu'ils font office de communication aux médias, les rapports explicatifs relatifs à des ordonnances du Conseil d'Etat doivent être établis et diffusés dans les deux langues officielles (art. 26 al. 2 OGSCE[^15-1]). Lorsqu'ils sont mis à disposition en tant que simples annexes à une communication, ils peuvent être diffusés uniquement dans leur langue originelle (art. 3 al. 1 OInf[^15-2]).
 
 <sup>2</sup> La traduction des communications destinées aux médias incombe à la Direction chargée du dossier, même lorsque la communication est finalement diffusée au nom du Conseil d'Etat.
+
+[^15-1]: RSF [122.0.17](https://bdlf.fr.ch/data/122.0.17/fr)
+[^15-2]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
 
 ## 4 Sites Internet de l'Etat
 
@@ -205,13 +239,15 @@ Adopte ce qui suit:
 
 #### Art. 17
 
-**Système de gestion de contenu (art. 35 al. 1 OInf)**
+**Système de gestion de contenu (art. 35 al. 1 OInf[^17-1])**
 
 <sup>1</sup> Le système informatique de gestion de contenu centralisé des sites de l'Etat (CMS) fournit les modèles nécessaires à la présentation des informations et contient une application spécifique destinée à la gestion des actualités.
 
 <sup>2</sup> Au besoin, d'autres applications web peuvent être insérées dans le CMS; cette insertion a lieu conformément aux exigences de l'ordonnance relative à l'identité visuelle de l'Etat de Fribourg et de sa charte graphique.
 
 <sup>3</sup> Le navigateur Internet de référence pour le CMS est défini par ce dernier. Dans la mesure du possible, l'organe chargé de la gestion du site veille à ce que les pages publiées soient également compatibles avec d'autres navigateurs et accessibles sur différents supports (tablettes, téléphones mobiles, …).
+
+[^17-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
 
 #### Art. 18
 
@@ -289,9 +325,11 @@ Adopte ce qui suit:
 <sup>1</sup> Les sites créés par les unités administratives subordonnées font l'objet d'un double contrôle:
 
 - a) la Direction compétente effectue un contrôle du contenu matériel du site et délivre sur cette base une autorisation de publication préalable;
-- b) le BdI effectue le contrôle formel requis par l'article 35 al. 3 OInf et délivre sur cette base l'autorisation de publication définitive.
+- b) le BdI effectue le contrôle formel requis par l'article 35 al. 3 OInf[^25-1] et délivre sur cette base l'autorisation de publication définitive.
 
 <sup>2</sup> Pour les sites créés par les Directions et les unités administratives rattachées administrativement, seuls le contrôle formel par le BdI et l'autorisation de publication définitive qui l'accompagne sont requis.
+
+[^25-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
 
 #### Art. 26
 
@@ -320,7 +358,9 @@ Adopte ce qui suit:
 
 <sup>2</sup> Le BdI assure la publication des actualités du Conseil d'Etat et de la Chancellerie. Il procède en outre au tri des autres actualités et coordonne leur diffusion sur les différents sites dont il assume la gestion.
 
-<sup>3</sup> La reprise, sur le site portail, des actualités transmises par le Secrétariat du Grand Conseil, le Conseil de la magistrature et le Tribunal cantonal est régie par l'article 32 al. 3 OInf.
+<sup>3</sup> La reprise, sur le site portail, des actualités transmises par le Secrétariat du Grand Conseil, le Conseil de la magistrature et le Tribunal cantonal est régie par l'article 32 al. 3 OInf[^28-1].
+
+[^28-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
 
 #### Art. 29
 
@@ -341,7 +381,7 @@ Adopte ce qui suit:
 
 **Sites des Directions et des unités administratives**
 
-<sup>1</sup> En complément du contenu minimal mentionné à l'article 33 al. 2 OInf, les Directions, la Chancellerie et les unités administratives doivent également publier sur leur site:
+<sup>1</sup> En complément du contenu minimal mentionné à l'article 33 al. 2 OInf[^30-1], les Directions, la Chancellerie et les unités administratives doivent également publier sur leur site:
 
 - a) une carte d'identité de la Direction ou de l'unité, les différents moyens de la contacter ainsi qu'un formulaire de contact doté des mesures de sécurité nécessaires;
 - b) une rubrique «actualités», accompagnée d'un lien vers les actualités du site portail;
@@ -352,6 +392,8 @@ Adopte ce qui suit:
 - a) la présentation graphique des organigrammes;
 - b) la publication des extraits des catalogues de prestations (missions, prestations, bases légales);
 - c) la publication de l'annuaire téléphonique accessible au public.
+
+[^30-1]: RSF [122.0.51](https://bdlf.fr.ch/data/122.0.51/fr)
 
 ## 5 Médias sociaux
 
@@ -374,7 +416,9 @@ Adopte ce qui suit:
 
 <sup>2</sup> L'organe public qui utilise des images dans sa communication veille au respect de la législation sur le droit d'auteur. Si nécessaire, il s'entend au préalable avec l'auteur-e sur l'utilisation de l'œuvre et l'étendue des droits cédés.
 
-<sup>3</sup> La publication d'images représentant des personnes identifiées ou identifiables constitue une communication de données personnelles au public, régie par les articles 11 et 12 LInf et par les dispositions qui suivent.
+<sup>3</sup> La publication d'images représentant des personnes identifiées ou identifiables constitue une communication de données personnelles au public, régie par les articles 11 et 12 LInf[^32-1] et par les dispositions qui suivent.
+
+[^32-1]: RSF [17.5](https://bdlf.fr.ch/data/17.5/fr)
 
 #### Art. 33
 
