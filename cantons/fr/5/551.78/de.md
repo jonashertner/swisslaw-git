@@ -3,20 +3,19 @@ canton: FR
 number: "551.78"
 title: Beschluss über die Beteiligung des Staates an den Kosten der Krankenversicherung der mit Polizeigewalt ausgestatteten Beamten (Übergangsregelung)
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-11-14
+version: 2022-02-01
+version_adopted: 2022-03-11
 adopted: 1995-12-22
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/551.78"
-pdf: "https://bdlf.fr.ch/api/de/versions/5273/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die Beteiligung des Staates an den Kosten der Krankenversicherung der mit Polizeigewalt ausgestatteten Beamten (Übergangsregelung)
 
-vom 22.12.1995 (Fassung in Kraft getreten am 01.01.2003)
+vom 22.12.1995 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -32,7 +31,7 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Der Staat beteiligt sich an den Kosten der Krankenversicherung der mit Polizeigewalt ausgestatteten Beamten, die der Übergangsregelung nach Artikel 51a des Gesetzes über die Kantonspolizei unterstehen.
+<sup>1</sup> Der Staat beteiligt sich an den Kosten der Krankenversicherung der mit Polizeigewalt ausgestatteten Beamten, die der Übergangsregelung nach Artikel 51a des Gesetzes vom 15. November 1990 über die Kantonspolizei[^1-1] unterstehen.
 
 <sup>2</sup> Zu diesem Zweck richtet er diesen Beamten eine Entschädigung aus, deren Betrag jenem der Grundprämie für die obligatorische Krankenversicherung entspricht.
 
@@ -40,9 +39,11 @@ beschliesst:
 
 <sup>4</sup> Die vom Staat auszurichtende Entschädigung wird gekürzt oder fällt ganz weg, wenn und soweit der Beamte aufgrund der Gesetzgebung über die Krankenversicherung als Versicherter in wirtschaftlich bescheidenen Verhältnissen eine Prämienverbilligung erhält.
 
+[^1-1]: SGF [551.1](https://bdlf.fr.ch/data/551.1/de)
+
 #### Art. 2
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion wird beauftragt, in Zusammenarbeit mit dem Amt für Personal und Organisation und den anderen zuständigen Organen die Durchführung dieses Beschlusses näher zu regeln.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion wird beauftragt, in Zusammenarbeit mit dem Amt für Personal und Organisation und den anderen zuständigen Organen die Durchführung dieses Beschlusses näher zu regeln.
 
 #### Art. 3
 
