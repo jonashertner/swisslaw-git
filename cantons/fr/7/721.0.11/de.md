@@ -4,13 +4,12 @@ number: "721.0.11"
 title: Reglement über den Natur- und Landschaftsschutz
 short: NatR
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 2014-05-27
 in_force: 2014-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/721.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7034/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Natur- und Landschaftsschutz – R
 
 (NatR)
 
-vom 27.05.2014 (Fassung in Kraft getreten am 01.01.2022)
+vom 27.05.2014 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -47,9 +46,9 @@ beschliesst:
 
 **Zuständige Direktion – Besondere Zuständigkeiten**
 
-<sup>1</sup> Die Direktion für Erziehung, Kultur und Sport (EKSD) ist zuständig für die beweglichen Naturdenkmäler (Art. 36 und 37 NatG).
+<sup>1</sup> Die Direktion für Bildung und kulturelle Angelegenheiten (BKAD) ist zuständig für die beweglichen Naturdenkmäler (Art. 36 und 37 NatG).
 
-<sup>2</sup> Die EKSD und die anderen im Bildungswesen tätigen Direktionen fördern in den Unterrichtsprogrammen das Bewusstsein für die Bedeutung der Erhaltung der Biodiversität und der Schonung der Landschaft und der Geotope.
+<sup>2</sup> Die BKAD und die anderen im Bildungswesen tätigen Direktionen fördern in den Unterrichtsprogrammen das Bewusstsein für die Bedeutung der Erhaltung der Biodiversität und der Schonung der Landschaft und der Geotope.
 
 #### Art. 3
 
@@ -399,7 +398,7 @@ beschliesst:
 
 **Entscheide**
 
-<sup>1</sup> Für die Entscheide zu beweglichen Naturdenkmälern (Art. 36 Abs. 1 und 3 und Art. 37 Abs. 1 und 3 NatG) ist die EKSD zuständig.
+<sup>1</sup> Für die Entscheide zu beweglichen Naturdenkmälern (Art. 36 Abs. 1 und 3 und Art. 37 Abs. 1 und 3 NatG) ist die BKAD zuständig.
 
 <sup>2</sup> Bewilligungen für die Suche und das Sammeln von Fossilien, Gesteinen und Mineralien zu Erwerbszwecken präzisieren insbesondere die erlaubten Mengen sowie das Sammelgebiet und den Zeitraum, für die sie gültig sind, und werden nur unter folgenden Bedingungen erteilt:
 

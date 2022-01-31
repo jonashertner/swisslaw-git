@@ -4,13 +4,12 @@ number: "721.0.11"
 title: Règlement sur la protection de la nature et du paysage
 short: RPNat
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 2014-05-27
 in_force: 2014-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/721.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7034/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8436/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Protection de la nature et du paysage – R
 
 (RPNat)
 
-du 27.05.2014 (version entrée en vigueur le 01.01.2022)
+du 27.05.2014 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -47,9 +46,9 @@ Arrête:
 
 **Direction compétente – Compétences particulières**
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport (DICS) est la Direction compétente en matière de curiosités naturelles mobilières (art. 36 et 37 LPNat).
+<sup>1</sup> La Direction de la formation et des affaires culturelles (DFAC) est la Direction compétente en matière de curiosités naturelles mobilières (art. 36 et 37 LPNat).
 
-<sup>2</sup> La DICS et les autres Directions en charge de tâches d'enseignement veillent à favoriser, dans les programmes de formation, une prise de conscience de l'importance que revêtent la conservation de la biodiversité et la préservation des paysages et géotopes.
+<sup>2</sup> La DFAC et les autres Directions en charge de tâches d'enseignement veillent à favoriser, dans les programmes de formation, une prise de conscience de l'importance que revêtent la conservation de la biodiversité et la préservation des paysages et géotopes.
 
 #### Art. 3
 
@@ -399,7 +398,7 @@ Arrête:
 
 **Décisions**
 
-<sup>1</sup> Les décisions relatives aux curiosités naturelles mobilières (art. 36 al. 1 et 3 et art. 37 al. 1 et 3 LPNat) sont prises par la DICS.
+<sup>1</sup> Les décisions relatives aux curiosités naturelles mobilières (art. 36 al. 1 et 3 et art. 37 al. 1 et 3 LPNat) sont prises par la DFAC.
 
 <sup>2</sup> L'autorisation permettant la recherche et la récolte, dans un but commercial, de fossiles, roches ou minéraux précise notamment les limites de quantité, d'espace et de temps pour lesquelles elle est valide; elle est notamment subordonnée aux conditions suivantes:
 
