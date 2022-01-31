@@ -4,13 +4,12 @@ number: "810.21"
 title: Reglement über die Abfallbewirtschaftung
 short: ABR
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-11-23
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 1998-01-20
 in_force: 1998-02-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/6979/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7396/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Abfallbewirtschaftung – R
 
 (ABR)
 
-vom 20.01.1998 (Fassung in Kraft getreten am 01.01.2022)
+vom 20.01.1998 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -39,7 +38,7 @@ beschliesst:
 
 **Richtlinien und branchenspezifische Normen**
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion (die Direktion) kann wenn nötig Richtlinien herausgeben, namentlich zur Definition bestimmter Abfallkategorien, zur Bewirtschaftung besonderer Abfälle und von Sonderabfällen, die in kleinen Mengen in den Haushalten anfallen.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (die Direktion) kann wenn nötig Richtlinien herausgeben, namentlich zur Definition bestimmter Abfallkategorien, zur Bewirtschaftung besonderer Abfälle und von Sonderabfällen, die in kleinen Mengen in den Haushalten anfallen.
 
 <sup>2</sup> Sie kann ebenfalls die Anwendung verschiedener branchenspezifischer Normen vorschreiben.
 

@@ -4,13 +4,12 @@ number: "810.21"
 title: Règlement sur la gestion des déchets
 short: RGD
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-11-23
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 1998-01-20
 in_force: 1998-02-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6979/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7396/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Gestion des déchets – R
 
 (RGD)
 
-du 20.01.1998 (version entrée en vigueur le 01.01.2022)
+du 20.01.1998 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -39,7 +38,7 @@ Arrête:
 
 **Directives et normes professionnelles**
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions (ci-après: la Direction) peut, si nécessaire, émettre des directives, notamment sur la définition de certaines catégories de déchets, la gestion des déchets particuliers et des déchets spéciaux produits en petites quantités par les ménages.
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: la Direction) peut, si nécessaire, émettre des directives, notamment sur la définition de certaines catégories de déchets, la gestion des déchets particuliers et des déchets spéciaux produits en petites quantités par les ménages.
 
 <sup>2</sup> Elle peut aussi prescrire l'application de certaines normes professionnelles.
 
