@@ -4,13 +4,12 @@ number: "866.1.11"
 title: "Règlement sur l'emploi et le marché du travail"
 short: REMT
 language: fr
-version: 2021-07-01
-valid_until: 2022-01-31
-version_adopted: 2021-06-28
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2012-07-02
 in_force: 2012-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/866.1.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6881/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7536/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Emploi et marché du travail – R
 
 (REMT)
 
-du 02.07.2012 (version entrée en vigueur le 01.07.2021)
+du 02.07.2012 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -91,7 +90,7 @@ Arrête:
 
 **Commissions particulières (art. 19 LEMT) – Institution et organisation**
 
-<sup>1</sup> L'institution de commissions particulières est ordonnée par le Conseil d'Etat, sur la proposition de la Direction de l'économie et de l'emploi (ci-après: la Direction) ou de la CEMT.
+<sup>1</sup> L'institution de commissions particulières est ordonnée par le Conseil d'Etat, sur la proposition de la Direction de l'économie, de l'emploi et de la formation professionnelle (ci-après: la Direction) ou de la CEMT.
 
 <sup>2</sup> Le Conseil d'Etat nomme le président ou la présidente ainsi que les autres membres des commissions particulières, dont le nombre dépend des besoins de la question abordée.
 
@@ -355,7 +354,7 @@ Arrête:
 
 <sup>1</sup> Le Service veille à la formation initiale et continue des inspecteurs et inspectrices SMT, notamment en matière de gestion des conflits et de maîtrise comportementale en situation difficile.
 
-<sup>2</sup> La formation des inspecteurs et inspectrices SMT aux compétences judiciaires a lieu selon un plan de formation élaboré en accord avec la Direction de la sécurité et de la justice, autorité chargée de la Police cantonale.
+<sup>2</sup> La formation des inspecteurs et inspectrices SMT aux compétences judiciaires a lieu selon un plan de formation élaboré en accord avec la Direction de la sécurité, de la justice et du sport, autorité chargée de la Police cantonale.
 
 <sup>3</sup> Pour le surplus, le Service veille à ce que le personnel du tiers mandaté dispose des compétences requises pour être assermenté comme inspecteur ou inspectrice auxiliaire de l'Etat. Le devoir de formation initiale et continue incombe à l'entreprise mandatée pour les contrôles. Le Service peut en tout temps exiger l'attestation de formation des inspecteurs et inspectrices.
 
@@ -719,5 +718,11 @@ Arrête:
 <sup>2</sup> La fortune déterminante se compose de la fortune effective telle qu'elle ressort de la dernière taxation fiscale. L'immeuble ou partie d'immeuble propriété du requérant ou de la requérante qui lui sert d'habitation principale ainsi que la fortune constituée des mesures de prévoyance individuelle prises par le requérant ou la requérante sont déduits de la fortune effective.
 
 <sup>3</sup> Si la fortune du requérant ou de la requérante s'est modifiée entre le moment décisif de la dernière taxation fiscale et le dépôt de la requête, il lui appartient d'en apporter la preuve.
+
+**Approbation**
+
+Le présent règlement a été approuvée par le Conseil fédéral le 20.06.2018 ([ROF INFO 2022-07](https://bdlf.fr.ch/app/fr/change_documents/3604)).
+
+Les modifications du 22.09.2020 et 28.06.2021 ont été approuvées par le Département fédéral de l'économie, de la formation et de la recherche le 11.11.2021 ([ROF INFO 2022-07](https://bdlf.fr.ch/app/fr/change_documents/3604)).
 
 2012\_058

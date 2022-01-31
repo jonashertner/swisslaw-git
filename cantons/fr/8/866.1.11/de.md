@@ -4,13 +4,12 @@ number: "866.1.11"
 title: Reglement über die Beschäftigung und den Arbeitsmarkt
 short: BAMR
 language: de
-version: 2021-07-01
-valid_until: 2022-01-31
-version_adopted: 2021-06-28
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2012-07-02
 in_force: 2012-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/866.1.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6881/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7536/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Beschäftigung und Arbeitsmarkt – R
 
 (BAMR)
 
-vom 02.07.2012 (Fassung in Kraft getreten am 01.07.2021)
+vom 02.07.2012 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -91,7 +90,7 @@ beschliesst:
 
 **Besondere Kommissionen (Art. 19 BAMG) – Errichtung und Organisation**
 
-<sup>1</sup> Die Einsetzung von besonderen Kommissionen wird vom Staatsrat auf Antrag der Volkswirtschaftsdirektion (die Direktion) oder der BAMK angeordnet.
+<sup>1</sup> Die Einsetzung von besonderen Kommissionen wird vom Staatsrat auf Antrag der Volkswirtschafts- und Berufsbildungsdirektion (die Direktion) oder der BAMK angeordnet.
 
 <sup>2</sup> Der Staatsrat ernennt die Präsidentin oder den Präsidenten sowie alle übrigen Mitglieder von besonderen Kommissionen; deren Mitgliederzahl hängt von der Fragestellung ab.
 
@@ -355,7 +354,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt sorgt für die Grundausbildung und Weiterbildung der Inspektorinnen und Inspektoren der Arbeitsmarktüberwachung, namentlich im Bereich der Konfliktbewältigung und Selbstbeherrschung in schwierigen Situationen.
 
-<sup>2</sup> Die Schulung der Inspektorinnen und Inspektoren der Arbeitsmarktüberwachung mit gerichtspolizeilichen Kompetenzen findet gemäss einem Ausbildungsplan statt, der in Absprache mit der Sicherheits- und Justizdirektion aufgestellt wird, die für die Kantonspolizei zuständig ist.
+<sup>2</sup> Die Schulung der Inspektorinnen und Inspektoren der Arbeitsmarktüberwachung mit gerichtspolizeilichen Kompetenzen findet gemäss einem Ausbildungsplan statt, der in Absprache mit der Sicherheits-, Justiz- und Sportdirektion aufgestellt wird, die für die Kantonspolizei zuständig ist.
 
 <sup>3</sup> Im Übrigen achtet das Amt darauf, dass das Personal der beauftragten Dritten über die Kompetenzen verfügt, die für die Vereidigung als Hilfsinspektorin oder Hilfsinspektor des Staates erforderlich sind. Die Pflicht der Grundausbildung und der Weiterbildung fällt dem mit den Kontrollen beauftragten Unternehmen zu. Das Amt kann jederzeit die Ausbildungsbestätigung der Inspektorinnen und Inspektoren einfordern.
 
@@ -719,5 +718,11 @@ beschliesst:
 <sup>2</sup> Das anrechenbare Vermögen ist das Reinvermögen gemäss der letzten Steuerveranlagung. Vom anrechenbaren Vermögen werden abgezogen: Immobilien oder Teile von Immobilien, die Eigentum der Gesuchstellerin oder des Gesuchstellers sind und ihr oder ihm als Hauptwohnung dienen, sowie das Vermögen aus der individuellen Vorsorge der Gesuchstellerin oder des Gesuchstellers.
 
 <sup>3</sup> Hat sich das Vermögen der Gesuchstellerin oder des Gesuchstellers zwischen dem massgeblichen Zeitpunkt der letzten Steuerveranlagung und dem Einreichen des Gesuches verändert, so muss der Beweis dafür erbracht werden.
+
+**Genehmigung**
+
+Dieses Reglement wurde am 20.06.2018 vom Bundesrat genehmigt ([ASF INFO 2022-07](https://bdlf.fr.ch/app/de/change_documents/3604)).
+
+Die Änderungen vom 22.09.2020 und vom 28.06.2021 wurden am 11.11.2021 vom Eidgenössischen Departement für Wirtschaft, Bildung und Forschung genehmigt ([ASF INFO 2022-07](https://bdlf.fr.ch/app/de/change_documents/3604)).
 
 2012\_058
