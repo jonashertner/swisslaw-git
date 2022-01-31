@@ -3,13 +3,13 @@ canton: FR
 number: "821.12.52"
 title: Reglement über die Beförderung im 2. Ausbildungsjahr der Fachangestellten Gesundheit
 language: de
-version: 2004-07-06
-valid_until: 2022-01-31
-version_adopted: 2004-07-06
+version: 2022-02-01
+valid_until: 2023-02-28
+version_adopted: 2022-04-01
 adopted: 2004-07-06
 in_force: 2004-07-06
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.12.52"
-pdf: "https://bdlf.fr.ch/api/de/versions/5484/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7408/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5484/pdf_file"
 
 Fachangestellte Gesundheit, 2. Ausbildungsjahr – R
 
-vom 06.07.2004 (Fassung in Kraft getreten am 06.07.2004)
+vom 06.07.2004 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -165,7 +165,7 @@ und das Fach
 
 <sup>1</sup> Jeder Entscheid, der gegen eine Lernende oder einen Lernenden getroffen wurde, kann innert zehn Tagen nach Mitteilung bei der Direktion mit Einsprache angefochten werden.
 
-<sup>2</sup> Gegen jeden Einspracheentscheid kann innert zehn Tagen nach Mitteilung bei der Direktion für Erziehung, Kultur und Sport Beschwerde eingereicht werden.
+<sup>2</sup> Gegen jeden Einspracheentscheid kann innert zehn Tagen nach Mitteilung bei der Direktion für Bildung und kulturelle Angelegenheiten Beschwerde eingereicht werden.
 
 ## 7 Schlussbestimmung
 
