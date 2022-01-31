@@ -3,13 +3,12 @@ canton: FR
 number: "122.98.11"
 title: Beschluss über die Zuteilung und die Verwaltung von Parkplätzen für Personenwagen
 language: de
-version: 2014-01-01
-valid_until: 2022-01-31
-version_adopted: 2013-11-11
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 1991-07-12
 in_force: 1991-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.98.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5055/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8393/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5055/pdf_file"
 
 Staatsverwaltung, Parkplätze – B
 
-vom 12.07.1991 (Fassung in Kraft getreten am 01.01.2014)
+vom 12.07.1991 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -42,15 +41,17 @@ beschliesst:
 
 <sup>3</sup> Die Anstalten des Staates regeln die Zuteilung und die Verwaltung von Parkplätzen im Sinne dieses Beschlusses; dabei hören sie vorgängig die Direktion an, der sie unterstellt sind. Ihre Anordnungen bedürfen der Genehmigung der Direktion.
 
-<sup>4</sup> Die Anstalten des Staates sind in Artikel 2 des Reglements vom 17. Dezember 2002 über das Staatspersonal aufgezählt. Dazu gehören ferner die weiteren Ausbildungsanstalten, die vom Staat abhängen.
+<sup>4</sup> Die Anstalten des Staates sind in Artikel 2 des Reglements vom 17. Dezember 2002 über das Staatspersonal[^1-1] aufgezählt. Dazu gehören ferner die weiteren Ausbildungsanstalten, die vom Staat abhängen.
 
 <sup>5</sup> Der Beschluss findet ebenfalls für den Gerichtsbereich Anwendung.
+
+[^1-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 2
 
 **Erstellen und Mieten von Parkplätzen**
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion ist beauftragt, Parkplätze zu erstellen oder zu mieten, die der kantonalen Verwaltung und den Anstalten zur Verfügung gestellt werden.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt ist beauftragt, Parkplätze zu erstellen oder zu mieten, die der kantonalen Verwaltung und den Anstalten zur Verfügung gestellt werden.
 
 #### Art. 3
 

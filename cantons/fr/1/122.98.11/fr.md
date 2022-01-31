@@ -3,13 +3,12 @@ canton: FR
 number: "122.98.11"
 title: "Arrêté concernant l'attribution et la gestion des places de stationnement pour voitures"
 language: fr
-version: 2014-01-01
-valid_until: 2022-01-31
-version_adopted: 2013-11-11
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 1991-07-12
 in_force: 1991-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.98.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5055/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8393/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5055/pdf_file"
 
 Administration de l'Etat, places de stationnement – A
 
-du 12.07.1991 (version entrée en vigueur le 01.01.2014)
+du 12.07.1991 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -42,15 +41,17 @@ Arrête:
 
 <sup>3</sup> Les établissements de l'Etat règlent l'attribution et la gestion de places de stationnement par analogie avec le présent arrêté, après consultation des Directions dont ils dépendent. Les dispositions qu'ils arrêtent sont soumises à l'approbation de leur Direction.
 
-<sup>4</sup> Les établissements de l'Etat sont énumérés à l'article 2 du règlement du 17 décembre 2002 du personnel de l'Etat. S'y ajoutent les autres établissements d'instruction relevant de l'Etat.
+<sup>4</sup> Les établissements de l'Etat sont énumérés à l'article 2 du règlement du 17 décembre 2002 du personnel de l'Etat[^1-1]. S'y ajoutent les autres établissements d'instruction relevant de l'Etat.
 
 <sup>5</sup> L'arrêté s'applique également au secteur judiciaire.
+
+[^1-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 #### Art. 2
 
 **Création et location de places**
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions est chargée de construire ou de louer des places de stationnement pour les mettre à la disposition de l'administration cantonale et des établissements.
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement est chargée de construire ou de louer des places de stationnement pour les mettre à la disposition de l'administration cantonale et des établissements.
 
 #### Art. 3
 
