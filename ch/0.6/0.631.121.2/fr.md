@@ -3,11 +3,11 @@ sr: "0.631.121.2"
 title: "Convention du 15 décembre 1950 portant création d'un conseil de coopération douanière (avec annexe et protocole)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1953/42_42_42"
 language: fr
-version: 2020-06-02
+version: 2022-02-01
 adopted: 1950-12-15
 in_force: 1952-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1953/42_42_42/20200602/fr/xml/fedlex-data-admin-ch-eli-cc-1953-42_42_42-20200602-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1953/42_42_42/20200602/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1953/42_42_42/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-1953-42_42_42-20220201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1953/42_42_42/20220201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Bruxelles le 15 décembre 1950 Approuvée par l’Assemblée fédérale le 18 juin 1952[^t-1] Instrument d’adhésion déposé par la Suisse le 19 décembre 1952 Entrée en vigueur pour la Suisse le 19 décembre 1952
 
-(Etat le 2 juin 2020)
+(Etat le 1<sup>er</sup> février 2022)
 
 [^t-1]: [RO 1953 41](https://fedlex.data.admin.ch/eli/oc/1953/41_41_41)
 
@@ -383,7 +383,7 @@ Fait à Bruxelles, le 15 décembre 1950 en langue française et en langue anglai
 
 (Suivent les signatures)
 
-Champ d’application le 2 juin 2020**[^t-2]**
+Champ d’application le 1<sup>er</sup> février 2022**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -458,6 +458,7 @@ Champ d’application le 2 juin 2020**[^t-2]**
 <tr><td>Grèce</td><td>10 décembre</td><td>1951</td><td>4 novembre</td><td>1952</td></tr>
 <tr><td>Guatemala</td><td>22 février</td><td>1985 A</td><td>22 février</td><td>1985</td></tr>
 <tr><td>Guinée</td><td>30 octobre</td><td>1991 A</td><td>30 octobre</td><td>1991</td></tr>
+<tr><td>Guinée équatoriale</td><td>22 décembre</td><td>2021 A</td><td>22 décembre</td><td>2021</td></tr>
 <tr><td>Guinée-Bissau</td><td>19 août</td><td>2010 A</td><td>19 août</td><td>2010</td></tr>
 <tr><td>Guyana</td><td>29 juillet</td><td>1976 A</td><td>29 juillet</td><td>1976</td></tr>
 <tr><td>Haïti</td><td>31 janvier</td><td>1958 A</td><td>31 janvier</td><td>1958</td></tr>
@@ -574,4 +575,4 @@ Champ d’application le 2 juin 2020**[^t-2]**
 <tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Admission selon l’art. Il a) ii) de la convention. <sup>b</sup> Du 13 juillet 1987 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. <sup>c</sup> Du 7 juillet 1993 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine.</td></tr>
 </table>
 
-[^t-2]: [RO 1974 1455](https://fedlex.data.admin.ch/eli/oc/1974/1455_1455_1455), [1981 542](https://fedlex.data.admin.ch/eli/oc/1981/542_542_542), [1983 1319](https://fedlex.data.admin.ch/eli/oc/1983/1319_1319_1319), [1986 718](https://fedlex.data.admin.ch/eli/oc/1986/718_718_718), [1987 1015](https://fedlex.data.admin.ch/eli/oc/1987/1015_1015_1015), [1989 313](https://fedlex.data.admin.ch/eli/oc/1989/313_313_313), [1990 1492](https://fedlex.data.admin.ch/eli/oc/1990/1492_1492_1492), [1991 2335](https://fedlex.data.admin.ch/eli/oc/1991/2335_2335_2335), [2004 767](https://fedlex.data.admin.ch/eli/oc/2004/80), [2005 3895](https://fedlex.data.admin.ch/eli/oc/2005/533), [2007 1403](https://fedlex.data.admin.ch/eli/oc/2007/245), [2010 31](https://fedlex.data.admin.ch/eli/oc/2010/12), [2012 1657](https://fedlex.data.admin.ch/eli/oc/2012/236), [2015 1839](https://fedlex.data.admin.ch/eli/oc/2015/356), [2020 2171](https://fedlex.data.admin.ch/eli/oc/2020/428). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1974 1455](https://fedlex.data.admin.ch/eli/oc/1974/1455_1455_1455); [1981 542](https://fedlex.data.admin.ch/eli/oc/1981/542_542_542); [1983 1319](https://fedlex.data.admin.ch/eli/oc/1983/1319_1319_1319); [1986 718](https://fedlex.data.admin.ch/eli/oc/1986/718_718_718); [1987 1015](https://fedlex.data.admin.ch/eli/oc/1987/1015_1015_1015); [1989 313](https://fedlex.data.admin.ch/eli/oc/1989/313_313_313); [1990 1492](https://fedlex.data.admin.ch/eli/oc/1990/1492_1492_1492); [1991 2335](https://fedlex.data.admin.ch/eli/oc/1991/2335_2335_2335); [2004 767](https://fedlex.data.admin.ch/eli/oc/2004/80); [2005 3895](https://fedlex.data.admin.ch/eli/oc/2005/533); [2007 1403](https://fedlex.data.admin.ch/eli/oc/2007/245); [2010 31](https://fedlex.data.admin.ch/eli/oc/2010/12); [2012 1657](https://fedlex.data.admin.ch/eli/oc/2012/236); [2015 1839](https://fedlex.data.admin.ch/eli/oc/2015/356); [2020 2171](https://fedlex.data.admin.ch/eli/oc/2020/428); [2022 62](https://fedlex.data.admin.ch/eli/oc/2022/62). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.

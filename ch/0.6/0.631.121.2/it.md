@@ -3,11 +3,11 @@ sr: "0.631.121.2"
 title: Convenzione del 15 dicembre 1950 che istituisce un consiglio di cooperazione doganale (con All. e Protocollo)
 eli: "https://fedlex.data.admin.ch/eli/cc/1953/42_42_42"
 language: it
-version: 2020-06-02
+version: 2022-02-01
 adopted: 1950-12-15
 in_force: 1952-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1953/42_42_42/20200602/it/xml/fedlex-data-admin-ch-eli-cc-1953-42_42_42-20200602-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1953/42_42_42/20200602/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1953/42_42_42/20220201/it/xml/fedlex-data-admin-ch-eli-cc-1953-42_42_42-20220201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1953/42_42_42/20220201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1953** 42; FF **1952** I 525 ediz. ted. 533 ediz. franc.
 
 Traduzione
 
-Conchiusa a Bruxelles il 15 dicembre 1950
+Conchiusa a Bruxelles il 15 dicembre 1950 Approvata dall’Assemblea federale il 18 giugno 1952[^t-1] Istrumento d’adesione depositato dalla Svizzera il 19 dicembre 1952 Entrata in vigore per la Svizzera il 19 dicembre 1952
 
-Approvata dall’Assemblea federale il 18 giugno 1952[^t-1]
-
-Istrumento d’adesione depositato dalla Svizzera il 19 dicembre 1952
-
-Entrata in vigore per la Svizzera il 19 dicembre 1952
-
-(Stato 2 giugno 2020)
+(Stato 1° febbraio 2022)
 
 [^t-1]: [RU 1953 41](https://fedlex.data.admin.ch/eli/oc/1953/41_41_41)
 
@@ -389,7 +383,7 @@ Fatto a Bruxelles, il 15 dicembre 1950, in un solo esemplare, nelle lingue franc
 
 (Seguono le firme)
 
-Campo d’applicazione il 2 giugno 2020**[^t-2]**
+Campo d’applicazione il 1° febbraio 2022**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -430,8 +424,8 @@ Campo d’applicazione il 2 giugno 2020**[^t-2]**
 <tr><td>Ciad</td><td>16 febbraio</td><td>2005 A</td><td>16 febbraio</td><td>2005</td></tr>
 <tr><td>Cile</td><td>1° luglio</td><td>1966 A</td><td>1° luglio</td><td>1966</td></tr>
 <tr><td>Cina</td><td>18 luglio</td><td>1983 A</td><td>18 luglio</td><td>1983</td></tr>
-<tr><td>[tab] Hong Kong <sup>a</sup> <sup>b</sup></td><td>1° luglio</td><td>1987</td><td>1° luglio</td><td>1987</td></tr>
-<tr><td>[tab] Macao <sup>a</sup> <sup>c</sup></td><td>7 luglio</td><td>1993</td><td>7 luglio</td><td>1993</td></tr>
+<tr><td>Hong Kong <sup>a</sup> <sup>b</sup></td><td>1° luglio</td><td>1987</td><td>1° luglio</td><td>1987</td></tr>
+<tr><td>Macao <sup>a</sup> <sup>c</sup></td><td>7 luglio</td><td>1993</td><td>7 luglio</td><td>1993</td></tr>
 <tr><td>Cipro</td><td>31 agosto</td><td>1967 A</td><td>31 agosto</td><td>1967</td></tr>
 <tr><td>Colombia</td><td>1° luglio</td><td>1993 A</td><td>1° luglio</td><td>1993</td></tr>
 <tr><td>Comore</td><td>1° luglio</td><td>1993 A</td><td>1° luglio</td><td>1993</td></tr>
@@ -449,8 +443,8 @@ Campo d’applicazione il 2 giugno 2020**[^t-2]**
 <tr><td>El Salvador</td><td>7 luglio</td><td>2005 A</td><td>7 luglio</td><td>2005</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>7 febbraio</td><td>1979 A</td><td>7 febbraio</td><td>1979</td></tr>
 <tr><td>Eritrea</td><td>8 agosto</td><td>1995 A</td><td>8 agosto</td><td>1995</td></tr>
-<tr><td>Eswatini</td><td>15 maggio</td><td>1981 A</td><td>15 maggio</td><td>1981</td></tr>
 <tr><td>Estonia</td><td>18 giugno</td><td>1992 A</td><td>18 giugno</td><td>1992</td></tr>
+<tr><td>Eswatini</td><td>15 maggio</td><td>1981 A</td><td>15 maggio</td><td>1981</td></tr>
 <tr><td>Etiopia</td><td>6 agosto</td><td>1973 A</td><td>6 agosto</td><td>1973</td></tr>
 <tr><td>Figi</td><td>1° luglio</td><td>1997 A</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Filippine</td><td>1° ottobre</td><td>1980 A</td><td>1° ottobre</td><td>1980</td></tr>
@@ -468,6 +462,7 @@ Campo d’applicazione il 2 giugno 2020**[^t-2]**
 <tr><td>Grecia</td><td>10 dicembre</td><td>1951</td><td>4 novembre</td><td>1952</td></tr>
 <tr><td>Guatemala</td><td>22 febbraio</td><td>1985 A</td><td>22 febbraio</td><td>1985</td></tr>
 <tr><td>Guinea</td><td>30 ottobre</td><td>1991 A</td><td>30 ottobre</td><td>1991</td></tr>
+<tr><td>Guinea equatoriale</td><td>22 dicembre</td><td>2021 A</td><td>22 dicembre</td><td>2021</td></tr>
 <tr><td>Guinea-Bissau</td><td>19 agosto</td><td>2010 A</td><td>19 agosto</td><td>2010</td></tr>
 <tr><td>Guyana</td><td>29 luglio</td><td>1976 A</td><td>29 luglio</td><td>1976</td></tr>
 <tr><td>Haiti</td><td>31 gennaio</td><td>1958 A</td><td>31 gennaio</td><td>1958</td></tr>
@@ -580,4 +575,4 @@ Campo d’applicazione il 2 giugno 2020**[^t-2]**
 <tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Ammissione giusta l’art. II a) ii) della Conv. <sup>b</sup> Dal 13 lug. 1987 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. <sup>c</sup> Dal 7 lug. 1993 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese.</td></tr>
 </table>
 
-[^t-2]: [RU 1974 1455](https://fedlex.data.admin.ch/eli/oc/1974/1455_1455_1455), [1981 542](https://fedlex.data.admin.ch/eli/oc/1981/542_542_542), [1983 1319](https://fedlex.data.admin.ch/eli/oc/1983/1319_1319_1319), [1986 718](https://fedlex.data.admin.ch/eli/oc/1986/718_718_718), [1987 1015](https://fedlex.data.admin.ch/eli/oc/1987/1015_1015_1015), [1989 313](https://fedlex.data.admin.ch/eli/oc/1989/313_313_313), [1990 1492](https://fedlex.data.admin.ch/eli/oc/1990/1492_1492_1492), [1991 2335](https://fedlex.data.admin.ch/eli/oc/1991/2335_2335_2335), [2004 767](https://fedlex.data.admin.ch/eli/oc/2004/80), [2005 3895](https://fedlex.data.admin.ch/eli/oc/2005/533), [2007 1403](https://fedlex.data.admin.ch/eli/oc/2007/245), [2010 31](https://fedlex.data.admin.ch/eli/oc/2010/12), [2012 1657](https://fedlex.data.admin.ch/eli/oc/2012/236), [2015 1839](https://fedlex.data.admin.ch/eli/oc/2015/356)e [2020 2171](https://fedlex.data.admin.ch/eli/oc/2020/428). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1974 1455](https://fedlex.data.admin.ch/eli/oc/1974/1455_1455_1455); [1981 542](https://fedlex.data.admin.ch/eli/oc/1981/542_542_542); [1983 1319](https://fedlex.data.admin.ch/eli/oc/1983/1319_1319_1319); [1986 718](https://fedlex.data.admin.ch/eli/oc/1986/718_718_718); [1987 1015](https://fedlex.data.admin.ch/eli/oc/1987/1015_1015_1015); [1989 313](https://fedlex.data.admin.ch/eli/oc/1989/313_313_313); [1990 1492](https://fedlex.data.admin.ch/eli/oc/1990/1492_1492_1492); [1991 2335](https://fedlex.data.admin.ch/eli/oc/1991/2335_2335_2335); [2004 767](https://fedlex.data.admin.ch/eli/oc/2004/80); [2005 3895](https://fedlex.data.admin.ch/eli/oc/2005/533); [2007 1403](https://fedlex.data.admin.ch/eli/oc/2007/245); [2010 31](https://fedlex.data.admin.ch/eli/oc/2010/12); [2012 1657](https://fedlex.data.admin.ch/eli/oc/2012/236); [2015 1839](https://fedlex.data.admin.ch/eli/oc/2015/356); [2020 2171](https://fedlex.data.admin.ch/eli/oc/2020/428); [2022 62](https://fedlex.data.admin.ch/eli/oc/2022/62). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
