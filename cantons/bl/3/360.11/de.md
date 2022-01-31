@@ -4,13 +4,12 @@ number: "360.11"
 title: Staatsbeitragsverordnung
 short: SBV
 language: de
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-12-17
+version: 2022-02-01
+version_adopted: 2022-01-25
 adopted: 2019-12-17
 in_force: 2020-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/360.11"
-pdf: "https://bl.clex.ch/api/de/versions/2529/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3227/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2529/pdf_file"
 
 (SBV)
 
-Vom 17.12.2019 (Stand 01.01.2020)
+Vom 17.12.2019 (Stand 01.02.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -61,6 +60,15 @@ beschliesst:
 <sup>1</sup> Für die Aushandlung neuer oder zu erneuernder Leistungsvereinbarungen bedarf es des Auftrags des Regierungsrats, sofern die damit zusammenhängende Ausgabe in dessen Bewilligungszuständigkeit oder in diejenige des Landrats fällt.
 
 <sup>2</sup> Der Regierungsrat legt im Auftrag den kantonsseitigen Verhandlungsspielraum fest.
+
+<sup>3</sup> Bei der Erneuerung eines Staatsbeitrags kann auf das Einholen eines Auftrags des Regierungsrats verzichtet werden, wenn:
+
+- a. der massgebliche Ausgabenbetrag CHF 1 Mio. nicht übersteigt;
+- b. die Ausgabe spätestens 4 Monate vor Inkrafttreten dem Regierungsrat beantragt wird;
+- c. im Vergleich zur ablaufenden Leistungsperiode der Umfang der Leistungen der Beitragsempfängerin oder des Beitragsempfängers unverändert bleibt oder mit einer entsprechenden Anpassung des Staatsbeitrags gesenkt wird und
+- d. sich der Staatsbeitrag des Kantons nicht erhöht.
+
+<sup>4</sup> Auf das Einholen eines Auftrags des Regierungsrats kann ebenso verzichtet werden, wenn die Höhe des Beitrags aufgrund der vorliegenden Rechtsgrundlagen nicht verhandelbar ist.
 
 #### § 5
 
@@ -139,6 +147,6 @@ beschliesst:
 
 <sup>2</sup> Transferaufwände und -erträge sind definiert gemäss dem jeweils geltenden Harmonisierten Rechnungslegungsmodell der Konferenz der kantonalen Finanzdirektoren.
 
-<sup>3</sup> Die Direktionen sorgen für die dauernde Aktualität der Transferdatenbank betreffend die von ihnen verwalteten Transferleistungen.
+<sup>3</sup> Die Direktionen aktualisieren die von ihnen verwalteten Transferleistungen in der Transferdatenbank mindestens 1-mal pro Jahr.
 
 GS 2019.082
