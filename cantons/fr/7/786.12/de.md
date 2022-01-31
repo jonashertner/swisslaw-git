@@ -4,13 +4,13 @@ number: "786.12"
 title: Verordnung über unbemannte Luftfahrzeuge mit einem Gewicht von weniger als 30 kg
 short: LfzV
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2024-02-29
+version_adopted: 2022-03-18
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/786.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7262/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7365/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Unbemannte Luftfahrzeuge – V
 
 (LfzV)
 
-vom 14.12.2021 (Fassung in Kraft getreten am 01.01.2022)
+vom 14.12.2021 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -86,7 +86,7 @@ beschliesst:
 
 **Temporäre Flugverbotszonen**
 
-<sup>1</sup> Die für die Sicherheit zuständige Direktion kann in Form eines im Amtsblatt veröffentlichten Beschlusses weitere temporäre Flugverbotszonen beschliessen, namentlich:
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion (die Direktion) kann in Form eines im Amtsblatt veröffentlichten Beschlusses weitere temporäre Flugverbotszonen beschliessen, namentlich:
 
 - a) bei grossen Menschenansammlungen;
 - b) bei besonderen Ereignissen, die eine höhere Sicherheit erfordern.
@@ -102,10 +102,10 @@ beschliesst:
 <sup>2</sup> Zuständig für die Bewilligung von Ausnahmen von Artikel 2 ist:
 
 - a) in den Fällen nach Absatz 1 Bst. a und d die Direktorin oder der Direktor der betreffenden Einrichtung;
-- b) in den Fällen nach Absatz 1 Bst. b die für die Sicherheit zuständige Direktion;
+- b) in den Fällen nach Absatz 1 Bst. b die Direktion;
 - c) in den Fällen nach Absatz 1 Bst. c die Kommandantin oder der Kommandant der Kantonspolizei.
 
-<sup>3</sup> Die für die Sicherheit zuständige Direktion ist für die Bewilligung von Ausnahmen von den Flugverboten nach Artikel 3 zuständig. Die Ausnahmebewilligung kann an Bedingungen geknüpft werden.
+<sup>3</sup> Die Direktion ist für die Bewilligung von Ausnahmen von den Flugverboten nach Artikel 3 zuständig. Die Ausnahmebewilligung kann an Bedingungen geknüpft werden.
 
 <sup>4</sup> Ausnahmegesuche müssen bei der zuständigen Behörde mindestens 5 Arbeitstage vor dem beantragten Flugdatum eingehen.
 
@@ -113,7 +113,7 @@ beschliesst:
 
 **Kommunale Flugverbotszonen – Verfahren**
 
-<sup>1</sup> Die Gemeinden können bei der für die Sicherheit zuständigen Direktion die Schaffung von permanenten oder temporären Flugverbotszonen auf ihrem Gebiet beantragen.
+<sup>1</sup> Die Gemeinden können bei der Direktion die Schaffung von permanenten oder temporären Flugverbotszonen auf ihrem Gebiet beantragen.
 
 <sup>2</sup> Die Gemeinden reichen der Direktion zur Unterstützung ihres Gesuchs folgende Unterlagen ein:
 
@@ -123,9 +123,9 @@ beschliesst:
 
 <sup>3</sup> Die Einrichtung einer permanenten oder temporären Flugverbotszone muss aus Gründen der Sicherheit von Personen und Sachen erfolgen.
 
-<sup>4</sup> Wird das Gesuch bewilligt, so informiert die für die Sicherheit zuständige Direktion sofort die Kantonspolizei und die FRSA, wenn diese davon betroffen sind. Sie sorgt für die Bekanntmachung der Flugverbotszonen.
+<sup>4</sup> Wird das Gesuch bewilligt, so informiert die Direktion sofort die Kantonspolizei und die FRSA, wenn diese davon betroffen sind. Sie sorgt für die Bekanntmachung der Flugverbotszonen.
 
-<sup>5</sup> Die für die Sicherheit zuständige Direktion ist für die Bewilligung von Ausnahmen von den kommunalen Flugverboten zuständig. Entsprechende Gesuche müssen mindestens 5 Arbeitstage vor dem beantragten Flugdatum bei der Direktion eingehen. Wird eine Bewilligung erteilt, so informiert die Direktion sofort die Kantonspolizei und die FRSA.
+<sup>5</sup> Die Direktion ist für die Bewilligung von Ausnahmen von den kommunalen Flugverboten zuständig. Entsprechende Gesuche müssen mindestens 5 Arbeitstage vor dem beantragten Flugdatum bei der Direktion eingehen. Wird eine Bewilligung erteilt, so informiert die Direktion sofort die Kantonspolizei und die FRSA.
 
 #### Art. 6
 

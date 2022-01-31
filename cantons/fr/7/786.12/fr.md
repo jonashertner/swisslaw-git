@@ -4,13 +4,13 @@ number: "786.12"
 title: "Ordonnance sur les aéronefs sans occupants d'un poids inférieur à 30 kg"
 short: OAero
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2024-02-29
+version_adopted: 2022-03-18
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/786.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7262/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7365/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Aéronefs sans occupants – O
 
 (OAero)
 
-du 14.12.2021 (version entrée en vigueur le 01.01.2022)
+du 14.12.2021 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -86,7 +86,7 @@ Arrête:
 
 **Zones d'exclusion de vol temporaires**
 
-<sup>1</sup> La Direction chargée de la sécurité peut arrêter, sous forme d'arrêté publié dans la feuille officielle, d'autres zones d'exclusion de vol temporaires, notamment:
+<sup>1</sup> La Direction de la sécurité, la justice et du sport (ci-après: la Direction) peut arrêter, sous forme d'arrêté publié dans la feuille officielle, d'autres zones d'exclusion de vol temporaires, notamment:
 
 - a) en cas de grands rassemblements de personnes;
 - b) en cas d'événements particuliers nécessitant une sécurité accrue.
@@ -102,10 +102,10 @@ Arrête:
 <sup>2</sup> Est compétent pour octroyer des dérogations à l'article 2:
 
 - a) dans les cas visés à l'alinéa 1 let. a et d, le directeur ou la directrice du site concerné;
-- b) dans les cas visés à l'alinéa 1 let. b, la Direction en charge de la sécurité;
+- b) dans les cas visés à l'alinéa 1 let. b, la Direction;
 - c) dans les cas visés à l'alinéa 1 let. c, le Commandant ou la Commandante de la Police cantonale.
 
-<sup>3</sup> La Direction en charge de la sécurité est compétente pour octroyer des dérogations aux zones d'exclusion de vol prévues à l'article 3. Elles peuvent être assorties de conditions.
+<sup>3</sup> La Direction est compétente pour octroyer des dérogations aux zones d'exclusion de vol prévues à l'article 3. Elles peuvent être assorties de conditions.
 
 <sup>4</sup> Les demandes de dérogations doivent parvenir à l'autorité compétente au moins 5 jours ouvrables avant la date de vol requise.
 
@@ -113,7 +113,7 @@ Arrête:
 
 **Zones d'exclusion de vol communales – Procédure**
 
-<sup>1</sup> Les communes ont la possibilité de requérir l'introduction de zones d'exclusion de vol permanentes ou temporaires sur leur propre territoire auprès de la Direction en charge de la sécurité.
+<sup>1</sup> Les communes ont la possibilité de requérir l'introduction de zones d'exclusion de vol permanentes ou temporaires sur leur propre territoire auprès de la Direction.
 
 <sup>2</sup> Les communes fournissent à la Direction à l'appui de leur requête:
 
@@ -123,9 +123,9 @@ Arrête:
 
 <sup>3</sup> L'introduction d'une zone d'exclusion de vol permanente ou temporaire doit reposer sur des motifs de sécurité des personnes et des biens.
 
-<sup>4</sup> Lorsque la requête est admise, la Direction en charge de la sécurité informe aussitôt la Police cantonale et l'EDFR pour les cas qui le concernent. Elle assure la publicité des zones d'exclusion de vol.
+<sup>4</sup> Lorsque la requête est admise, la Direction informe aussitôt la Police cantonale et l'EDFR pour les cas qui le concernent. Elle assure la publicité des zones d'exclusion de vol.
 
-<sup>5</sup> La Direction en charge de la sécurité est compétente pour octroyer des dérogations aux zones d'exclusion de vol communales. Les demandes doivent lui parvenir au moins 5 jours ouvrables avant la date de vol requise. En cas d'octroi d'une dérogation, celle-ci en avise aussitôt la Police cantonale et l'EDFR.
+<sup>5</sup> La Direction est compétente pour octroyer des dérogations aux zones d'exclusion de vol communales. Les demandes doivent lui parvenir au moins 5 jours ouvrables avant la date de vol requise. En cas d'octroi d'une dérogation, celle-ci en avise aussitôt la Police cantonale et l'EDFR.
 
 #### Art. 6
 
