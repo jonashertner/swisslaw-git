@@ -4,13 +4,13 @@ number: "122.96.11"
 title: "Ordonnance sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat"
 short: OGDSI
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2023-07-31
+version_adopted: 2022-02-18
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7031/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7243/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7031/pdf_file"
 
 Gouvernance de la digitalisation et des systèmes d'information de l'Etat – O
 
-du 28.06.2021 (version entrée en vigueur le 01.01.2022)
+du 28.06.2021 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -418,7 +418,7 @@ Arrête:
 
 <sup>1</sup> La Commission informatique des autorités judiciaires (ci-après: la CIAJ) est une commission spécialisée au sens de l'article 15 dont le domaine de compétence s'étend à l'ensemble des autorités judiciaires telles qu'elles sont définies à l'article 3 de la loi du 31 mai 2010 sur la justice, à l'exception des préfets.
 
-<sup>2</sup> Elle est rattachée administrativement à la Direction de la sécurité et de la justice et est présidée par un ou une juge cantonal‑e.
+<sup>2</sup> Elle est rattachée administrativement à la Direction de la sécurité, de la justice et du sport et est présidée par un ou une juge cantonal‑e.
 
 <sup>3</sup> Elle est dotée d'un bureau dont la présidence est assurée par le ou la secrétaire général‑e du Tribunal cantonal.
 
@@ -434,7 +434,7 @@ Arrête:
 - d) un magistrat ou une magistrate représentant les tribunaux d'arrondissement;
 - e) un magistrat ou une magistrate représentant les justices de paix;
 - f) un magistrat ou une magistrate représentant le Tribunal des mineurs;
-- g) une personne représentant la Direction de la sécurité et de la justice;
+- g) une personne représentant la Direction de la sécurité, de la justice et du sport;
 - h) une personne représentant le SITel;
 - i) une personne représentant le Conseil de la magistrature.
 
@@ -457,7 +457,7 @@ Arrête:
 
 <sup>1</sup> La Commission informatique de l'enseignement (CIEns) est une commission spécialisée au sens de l'article 15.
 
-<sup>2</sup> Elle est rattachée administrativement à la Direction de l'instruction publique, de la culture et du sport et est présidée par un ou une chef‑fe de service de l'enseignement auprès de la Direction de l'instruction publique, de la culture et du sport, de la Direction de l'économie et de l'emploi ou de la Direction des institutions, de l'agriculture et des forêts.
+<sup>2</sup> Elle est rattachée administrativement à la Direction de la formation et des affaires culturelles et est présidée par un ou une chef‑fe de service de l'enseignement auprès de la Direction de la formation et des affaires culturelles, de la Direction de l'économie, de l'emploi et de la formation professionnelle ou de la Direction des institutions, de l'agriculture et des forêts.
 
 <sup>3</sup> Son secrétariat est assumé par le Centre de compétences Fritic.
 
@@ -596,7 +596,7 @@ Arrête:
 
 **Dispositions générales**
 
-<sup>1</sup> Le Centre de compétences Fritic (Fritic) est un centre pédagogique cantonal des technologies de l'information et de la communication dans l'enseignement, subordonné à la Direction de l'instruction publique, de la culture et du sport.
+<sup>1</sup> Le Centre de compétences Fritic (Fritic) est un centre pédagogique cantonal des technologies de l'information et de la communication dans l'enseignement, subordonné à la Direction de la formation et des affaires culturelles.
 
 <sup>2</sup> Le périmètre d'activités de Fritic comprend, d'une part, les outils de gestion administrative (programme d'harmonisation de l'administration des écoles – programme HAE – et ses suites) et, d'autre part, les outils pédagogiques. Sur le plan organisationnel, il couvre le même périmètre que celui de la CIEns ainsi que les institutions de pédagogie spécialisées relevant de la compétence du Service de l'enseignement spécialisé et des mesures d'aide.
 

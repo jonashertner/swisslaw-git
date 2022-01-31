@@ -4,13 +4,13 @@ number: "122.96.11"
 title: Verordnung über die Governance der Digitalisierung und der Informationssysteme des Staates
 short: GDISV
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2023-07-31
+version_adopted: 2022-02-18
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7031/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7243/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7031/pdf_file"
 
 Governance der Digitalisierung und der Informationssysteme des Staates – V
 
-vom 28.06.2021 (Fassung in Kraft getreten am 01.01.2022)
+vom 28.06.2021 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -418,7 +418,7 @@ beschliesst:
 
 <sup>1</sup> Die Informatikkommission für die Gerichtsbehörden (IKGB) ist eine IT-Fachkommission im Sinne von Artikel 15. Ihr Zuständigkeitsbereich erstreckt sich auf alle Gerichtsbehörden, wie sie in Artikel 3 des Justizgesetzes vom 31. Mai 2010 definiert werden, mit Ausnahme der Oberamtspersonen.
 
-<sup>2</sup> Sie ist administrativ der Sicherheits- und Justizdirektion zugewiesen und wird von einer Kantonsrichterin oder einem Kantonsrichter präsidiert.
+<sup>2</sup> Sie ist administrativ der Sicherheits-, Justiz- und Sportdirektion zugewiesen und wird von einer Kantonsrichterin oder einem Kantonsrichter präsidiert.
 
 <sup>3</sup> Sie verfügt über ein Büro, das von der Generalsekretärin oder vom Generalsekretär des Kantonsgerichts geleitet wird.
 
@@ -434,7 +434,7 @@ beschliesst:
 - d) einer Magistratsperson als Vertretung der Bezirksgerichte;
 - e) einer Magistratsperson als Vertretung der Friedensgerichte;
 - f) einer Magistratsperson als Vertretung des Jugendstrafgerichts;
-- g) einer Person als Vertretung der Direktion für Sicherheit und Justiz;
+- g) einer Person als Vertretung der Sicherheits-, Justiz- und Sportdirektion;
 - h) einer Person als Vertretung des ITA;
 - i) einer Person als Vertretung des Justizrats.
 
@@ -457,7 +457,7 @@ beschliesst:
 
 <sup>1</sup> Die Kommission für Informatik im Unterrichtswesen (IKU) ist eine IT-Fachkommission im Sinne von Artikel 15.
 
-<sup>2</sup> Sie ist administrativ der Direktion für Erziehung, Kultur und Sport zugewiesen und wird von einer Dienstchefin oder einem Dienstchef im Unterrichtswesen bei der Direktion für Erziehung, Kultur und Sport, der Volkswirtschaftsdirektion oder der Direktion der Institutionen und der Land- und Forstwirtschaft präsidiert.
+<sup>2</sup> Sie ist administrativ der Direktion für Bildung und kulturelle Angelegenheiten zugewiesen und wird von einer Dienstchefin oder einem Dienstchef im Unterrichtswesen bei der Direktion für Bildung und kulturelle Angelegenheiten, der Volkswirtschafts- und Berufsbildungsdirektion oder der Direktion der Institutionen und der Land- und Forstwirtschaft präsidiert.
 
 <sup>3</sup> Die Fachstelle Fritic führt ihr Sekretariat.
 
@@ -596,7 +596,7 @@ beschliesst:
 
 **Allgemeine Bestimmungen**
 
-<sup>1</sup> Die Fachstelle Fritic ist ein kantonales pädagogisches Zentrum für die Informations- und Kommunikationstechnologien im Unterricht, das der Direktion für Erziehung, Kultur und Sport untersteht.
+<sup>1</sup> Die Fachstelle Fritic ist ein kantonales pädagogisches Zentrum für die Informations- und Kommunikationstechnologien im Unterricht, das der Direktion für Bildung und kulturelle Angelegenheiten untersteht.
 
 <sup>2</sup> Der Tätigkeitsbereich der Fachstelle Fritic umfasst einerseits die Verwaltungsmanagementtools (Programm zur Harmonisierung der Schulverwaltungs-Informationssysteme – HAE-Programm – und seine Fortsetzungen) und andererseits die pädagogischen IT-Tools. Organisatorisch deckt sie den gleichen Bereich wie die IKU und die sonderpädagogischen Einrichtungen in der Zuständigkeit des Amts für Sonderpädagogik ab.
 
