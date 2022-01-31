@@ -3,13 +3,12 @@ canton: FR
 number: "190.12"
 title: "Ordonnance relative à la Commission cantonale pour les questions d'aumônerie"
 language: fr
-version: 2011-01-01
-valid_until: 2022-01-31
-version_adopted: 2010-12-21
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2003-06-03
 in_force: 2003-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/190.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5108/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8420/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5108/pdf_file"
 
 Commission cantonale pour les questions d'aumônerie - O
 
-du 03.06.2003 (version entrée en vigueur le 01.01.2011)
+du 03.06.2003 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -50,7 +49,7 @@ Arrête:
 
 - a) deux personnes représentant l'Eglise catholique romaine;
 - b) deux personnes représentant l'Eglise évangélique réformée;
-- c) quatre personnes représentant les Directions concernées (Direction de l'économie et de l'emploi, Direction de l'instruction publique, de la culture et du sport, Direction de la sécurité et de la justice, Direction de la santé et des affaires sociales).
+- c) quatre personnes représentant les Directions concernées (Direction de l'économie, de l'emploi et de la formation professionnelle, Direction de la formation et des affaires culturelles, Direction de la sécurité, de la justice et du sport, Direction de la santé et des affaires sociales).
 
 <sup>3</sup> Le président ou la présidente ne peut appartenir ni à l'administration cantonale ni à un organe d'une Eglise reconnue.
 
@@ -65,8 +64,10 @@ Arrête:
 - a) elle est l'organe consultatif du Conseil d'Etat pour toutes les questions relatives à l'aumônerie dans les établissements de l'Etat;
 - b) elle tient à jour l'inventaire des aumôneries;
 - c) elle évalue les besoins en matière d'aumônerie en tenant compte des intérêts des collectivités publiques et des Eglises reconnues;
-- d) elle établit les projets de conventions prévus à l'article 23 al. 2 de la loi du 26 septembre 1990 concernant les rapports entre les Eglises et l'Etat;
+- d) elle établit les projets de conventions prévus à l'article 23 al. 2 de la loi du 26 septembre 1990 concernant les rapports entre les Eglises et l'Etat[^3-1];
 - e) elle peut faire au Conseil d'Etat toute proposition concernant les questions d'aumônerie.
+
+[^3-1]: RSF [190.1](https://bdlf.fr.ch/data/190.1/fr)
 
 #### Art. 4
 

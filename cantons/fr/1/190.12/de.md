@@ -3,13 +3,12 @@ canton: FR
 number: "190.12"
 title: Verordnung über die kantonale Kommission für Fragen der Anstaltsseelsorge
 language: de
-version: 2011-01-01
-valid_until: 2022-01-31
-version_adopted: 2010-12-21
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2003-06-03
 in_force: 2003-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/190.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/5108/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5108/pdf_file"
 
 Kantonale Kommission für Fragen der Anstaltsseelsorge – V
 
-vom 03.06.2003 (Fassung in Kraft getreten am 01.01.2011)
+vom 03.06.2003 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -50,7 +49,7 @@ beschliesst:
 
 - a) zwei Personen, die die Römisch-katholische Kirche vertreten;
 - b) zwei Personen, die die Evangelisch-reformierte Kirche vertreten;
-- c) vier Personen, die die betreffenden Direktionen vertreten (Volkswirtschaftsdirektion; Direktion für Erziehung, Kultur und Sport; Sicherheits- und Justizdirektion; Direktion für Gesundheit und Soziales).
+- c) vier Personen, die die betreffenden Direktionen vertreten (Volkswirtschafts- und Berufsbildungsdirektion; Direktion für Bildung und kulturelle Angelegenheiten; Sicherheits-, Justiz- und Sportdirektion; Direktion für Gesundheit und Soziales).
 
 <sup>3</sup> Die Präsidentin oder der Präsident dürfen weder der Kantonsverwaltung noch einem Organ einer anerkannten Kirche angehören.
 
@@ -65,8 +64,10 @@ beschliesst:
 - a) Sie ist das beratende Organ des Staatsrats für alle Fragen der Seelsorge in den staatlichen Anstalten.
 - b) Sie hält die Liste der Tätigkeiten im Bereich der Anstaltsseelsorge auf dem neuesten Stand.
 - c) Sie beurteilt die Bedürfnisse im Bereich der Anstaltsseelsorge unter Berücksichtigung der Interessen der Öffentlichkeit und der anerkannten Kirchen.
-- d) Sie arbeitet die in Artikel 23 Abs. 2 des Gesetzes vom 26. September 1990 über die Beziehungen zwischen den Kirchen und dem Staat vorgesehenen Vereinbarungsentwürfe aus.
+- d) Sie arbeitet die in Artikel 23 Abs. 2 des Gesetzes vom 26. September 1990 über die Beziehungen zwischen den Kirchen und dem Staat[^3-1] vorgesehenen Vereinbarungsentwürfe aus.
 - e) Sie kann dem Staatsrat Anträge stellen, die die Anstaltsseelsorge betreffen.
+
+[^3-1]: SGF [190.1](https://bdlf.fr.ch/data/190.1/de)
 
 #### Art. 4
 
