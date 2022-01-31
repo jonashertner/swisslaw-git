@@ -3,13 +3,12 @@ canton: FR
 number: "481.4.12"
 title: Ordonnance concernant les examens au Conservatoire
 language: fr
-version: 2012-09-01
-valid_until: 2022-01-31
-version_adopted: 2012-08-21
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2005-04-05
 in_force: 2005-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/481.4.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6365/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7318/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6365/pdf_file"
 
 Conservatoire, examens – O
 
-du 05.04.2005 (version entrée en vigueur le 01.09.2012)
+du 05.04.2005 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -42,7 +41,7 @@ Arrête:
 
 **Dispositions techniques**
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport (ci-après: la DICS) peut édicter des dispositions techniques complémentaires, en particulier sur le programme des examens.
+<sup>1</sup> La Direction de la formation et des affaires culturelles (ci-après: la DFAC) peut édicter des dispositions techniques complémentaires, en particulier sur le programme des examens.
 
 #### Art. 3
 
@@ -329,9 +328,9 @@ Arrête:
 
 #### Art. 53
 
-**Voies de droit en matière d'examen de passage – Recours à la DICS**
+**Voies de droit en matière d'examen de passage – Recours à la DFAC**
 
-<sup>1</sup> La nouvelle décision de l'examinateur ou de l'examinatrice peut faire l'objet d'un recours à la DICS, dans les trente jours dès sa communication.
+<sup>1</sup> La nouvelle décision de l'examinateur ou de l'examinatrice peut faire l'objet d'un recours à la DFAC, dans les trente jours dès sa communication.
 
 <sup>2</sup> …
 
@@ -339,7 +338,7 @@ Arrête:
 
 **Voies de droit en matière d'examen de passage – Recours au Tribunal cantonal**
 
-<sup>1</sup> La décision de la DICS peut faire l'objet d'un recours auprès du Tribunal cantonal. Les dispositions du code de procédure et de juridiction administrative sont applicables.
+<sup>1</sup> La décision de la DFAC peut faire l'objet d'un recours auprès du Tribunal cantonal. Les dispositions du code de procédure et de juridiction administrative sont applicables.
 
 #### Art. 55
 
@@ -349,17 +348,17 @@ Arrête:
 
 #### Art. 56
 
-**Voies de droit en matière d'autres examens – Recours à la DICS**
+**Voies de droit en matière d'autres examens – Recours à la DFAC**
 
-<sup>1</sup> La nouvelle décision du jury peut faire l'objet d'un recours à la DICS, dans les trente jours dès sa communication.
+<sup>1</sup> La nouvelle décision du jury peut faire l'objet d'un recours à la DFAC, dans les trente jours dès sa communication.
 
-<sup>2</sup> La DICS se prononce sur la décision du jury sous l'angle du respect des règles d'organisation ou de procédure et de l'interdiction de l'arbitraire.
+<sup>2</sup> La DFAC se prononce sur la décision du jury sous l'angle du respect des règles d'organisation ou de procédure et de l'interdiction de l'arbitraire.
 
 #### Art. 57
 
 **Voies de droit en matière d'autres examens – Recours au Tribunal cantonal**
 
-<sup>1</sup> La décision de la DICS peut faire l'objet d'un recours auprès du Tribunal cantonal. Les dispositions du code de procédure et de juridiction administrative sont applicables.
+<sup>1</sup> La décision de la DFAC peut faire l'objet d'un recours auprès du Tribunal cantonal. Les dispositions du code de procédure et de juridiction administrative sont applicables.
 
 #### Art. 57a
 

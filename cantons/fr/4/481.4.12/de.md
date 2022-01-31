@@ -3,13 +3,12 @@ canton: FR
 number: "481.4.12"
 title: Verordnung über die Prüfungen am Konservatorium
 language: de
-version: 2012-09-01
-valid_until: 2022-01-31
-version_adopted: 2012-08-21
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2005-04-05
 in_force: 2005-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/481.4.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6365/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7318/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6365/pdf_file"
 
 Konservatorium, Prüfungen – V
 
-vom 05.04.2005 (Fassung in Kraft getreten am 01.09.2012)
+vom 05.04.2005 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -42,7 +41,7 @@ beschliesst:
 
 **Technische Bestimmungen**
 
-<sup>1</sup> Die Direktion für Erziehung, Kultur und Sport (EKSD) kann zusätzliche technische Bestimmungen, insbesondere über das Prüfungsprogramm, erlassen.
+<sup>1</sup> Die Direktion für Bildung und kulturelle Angelegenheiten (BKAD) kann zusätzliche technische Bestimmungen, insbesondere über das Prüfungsprogramm, erlassen.
 
 #### Art. 3
 
@@ -341,9 +340,9 @@ beschliesst:
 
 #### Art. 53
 
-**Rechtsmittel bei der Übertrittsprüfung – Beschwerde bei der EKSD**
+**Rechtsmittel bei der Übertrittsprüfung – Beschwerde bei der BKAD**
 
-<sup>1</sup> Gegen den neuen Entscheid der Examinatorin oder des Examinators kann innert dreissig Tagen ab Mitteilung bei der EKSD Beschwerde erhoben werden.
+<sup>1</sup> Gegen den neuen Entscheid der Examinatorin oder des Examinators kann innert dreissig Tagen ab Mitteilung bei der BKAD Beschwerde erhoben werden.
 
 <sup>2</sup> …
 
@@ -351,7 +350,7 @@ beschliesst:
 
 **Rechtsmittel bei der Übertrittsprüfung – Beschwerde beim Kantonsgericht**
 
-<sup>1</sup> Gegen den Entscheid der EKSD kann beim Kantonsgericht Beschwerde erhoben werden. Die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege sind anwendbar.
+<sup>1</sup> Gegen den Entscheid der BKAD kann beim Kantonsgericht Beschwerde erhoben werden. Die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege sind anwendbar.
 
 #### Art. 55
 
@@ -361,17 +360,17 @@ beschliesst:
 
 #### Art. 56
 
-**Rechtsmittel bei anderen Prüfungen – Beschwerde bei der EKSD**
+**Rechtsmittel bei anderen Prüfungen – Beschwerde bei der BKAD**
 
-<sup>1</sup> Gegen den neuen Entscheid der Prüfungskommission kann innert dreissig Tagen ab Mitteilung bei der EKSD Beschwerde erhoben werden.
+<sup>1</sup> Gegen den neuen Entscheid der Prüfungskommission kann innert dreissig Tagen ab Mitteilung bei der BKAD Beschwerde erhoben werden.
 
-<sup>2</sup> Die EKSD prüft den Entscheid der Prüfungskommission auf Einhaltung der Organisations- und Verfahrensregeln und auf Willkür.
+<sup>2</sup> Die BKAD prüft den Entscheid der Prüfungskommission auf Einhaltung der Organisations- und Verfahrensregeln und auf Willkür.
 
 #### Art. 57
 
 **Rechtsmittel bei anderen Prüfungen – Beschwerde beim Kantonsgericht**
 
-<sup>1</sup> Gegen den Entscheid der EKSD kann beim Kantonsgericht Beschwerde erhoben werden. Die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege sind anwendbar.
+<sup>1</sup> Gegen den Entscheid der BKAD kann beim Kantonsgericht Beschwerde erhoben werden. Die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege sind anwendbar.
 
 #### Art. 57a
 
