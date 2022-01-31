@@ -4,13 +4,13 @@ number: "732.1.11"
 title: "Règlement sur l'assurance immobilière, la prévention et les secours en matière de feu et d'éléments naturels"
 short: RECAB
 language: fr
-version: 2021-07-01
-valid_until: 2022-01-31
-version_adopted: 2021-06-21
+version: 2022-02-01
+valid_until: 2022-03-17
+version_adopted: 2022-03-18
 adopted: 2018-06-18
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/732.1.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6873/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7348/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Assurance immobilière, prévention et secours en matière de feu – R
 
 (RECAB)
 
-du 18.06.2018 (version entrée en vigueur le 01.07.2021)
+du 18.06.2018 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -39,7 +39,7 @@ Arrête:
 
 **Rattachement administratif**
 
-<sup>1</sup> L'Etablissement cantonal d'assurance des bâtiments (ci-après: l'Etablissement) est rattaché administrativement à la Direction de la sécurité et de la justice.
+<sup>1</sup> L'Etablissement cantonal d'assurance des bâtiments (ci-après: l'Etablissement) est rattaché administrativement à la Direction de la sécurité, de la justice et du sport.
 
 #### Art. 2
 
