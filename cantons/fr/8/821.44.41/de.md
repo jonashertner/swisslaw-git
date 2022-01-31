@@ -3,13 +3,12 @@ canton: FR
 number: "821.44.41"
 title: Verordnung über die Verwendung des Fonds für die Bekämpfung der Drogenabhängigkeit
 language: de
-version: 2015-07-01
-valid_until: 2022-01-31
-version_adopted: 2015-06-22
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2015-06-22
 in_force: 2015-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.44.41"
-pdf: "https://bdlf.fr.ch/api/de/versions/5526/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5526/pdf_file"
 
 Fonds für die Bekämpfung der Drogenabhängigkeit – V
 
-vom 22.06.2015 (Fassung in Kraft getreten am 01.07.2015)
+vom 22.06.2015 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -64,7 +63,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion (die Direktion) entscheidet über die Verwendung der vorhandenen Mittel für Gesuche um Beiträge bis zu 50'000 Franken, nachdem sie die Meinung der Direktionen eingeholt hat, die vom Antrag an den Fonds betroffen sind.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion (die Direktion) entscheidet über die Verwendung der vorhandenen Mittel für Gesuche um Beiträge bis zu 50'000 Franken, nachdem sie die Meinung der Direktionen eingeholt hat, die vom Antrag an den Fonds betroffen sind.
 
 <sup>2</sup> Die Direktion legt dem Staatsrat Gesuche um Subventionsbeiträge in der Höhe von mehr als 50'000 Franken zum Entscheid vor. Wenn die Finanzhilfe weitere Hilfen des Staates für dasselbe Projekt ergänzt, ist für die Zuständigkeit für die Gewährung die Summe aller verlangten und gewährten Mittel massgebend.
 

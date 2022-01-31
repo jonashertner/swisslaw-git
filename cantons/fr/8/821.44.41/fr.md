@@ -3,13 +3,12 @@ canton: FR
 number: "821.44.41"
 title: "Ordonnance sur l'utilisation du fonds pour la lutte contre les toxicomanies"
 language: fr
-version: 2015-07-01
-valid_until: 2022-01-31
-version_adopted: 2015-06-22
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2015-06-22
 in_force: 2015-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.44.41"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5526/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7420/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5526/pdf_file"
 
 Fonds pour la lutte contre les toxicomanies – O
 
-du 22.06.2015 (version entrée en vigueur le 01.07.2015)
+du 22.06.2015 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -64,7 +63,7 @@ Arrête:
 
 **Compétence**
 
-<sup>1</sup> La Direction de la sécurité et de la justice (ci-après: la Direction), après avoir pris l'avis de la ou des Directions concernées par la demande adressée au fonds, décide de l'affectation des montants disponibles pour les demandes d'octroi jusqu'à 50'000 francs.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport (ci-après: la Direction), après avoir pris l'avis de la ou des Directions concernées par la demande adressée au fonds, décide de l'affectation des montants disponibles pour les demandes d'octroi jusqu'à 50'000 francs.
 
 <sup>2</sup> La Direction soumet au Conseil d'Etat, pour décision, les demandes d'octroi de subvention d'un montant supérieur à 50'000 francs. Toutefois, lorsque la demande d'aide financière est complémentaire à d'autres aides de l'Etat octroyées pour le même projet, le montant déterminant pour la compétence d'octroi correspond à l'addition de l'ensemble des aides octroyées et demandées.
 
