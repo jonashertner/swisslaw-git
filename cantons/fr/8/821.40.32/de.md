@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.32"
 title: Ausführungsverordnung der Bundesverordnung über die Abfederung der wirtschaftlichen Auswirkungen des Coronavirus (COVID-19) im Kultursektor
 language: de
-version: 2020-09-11
-valid_until: 2022-01-31
-version_adopted: 2020-09-01
+version: 2022-02-01
+valid_until: 2023-07-14
+version_adopted: 2022-04-01
 adopted: 2020-04-14
 in_force: 2020-04-14
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.32"
-pdf: "https://bdlf.fr.ch/api/de/versions/6580/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7410/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6580/pdf_file"
 
 COVID-19, Abfederung der wirtschaftlichen Auswirkungen im Kultursektor - V
 
-vom 14.04.2020 (Fassung in Kraft getreten am 11.09.2020)
+vom 14.04.2020 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -92,7 +92,7 @@ beschliesst:
 <sup>1</sup> Folgende Behörde entscheidet, gestützt auf die Stellungnahme der Ad-Hoc-Kommission (Art. 4 Abs. 2), über das Gesuch:
 
 - a) das Amt für Kultur für die Gewährung eines Betrags bis höchstens 30'000 Franken;
-- b) die Direktion für Erziehung, Kultur und Sport für die Gewährung eines Betrags zwischen 30'001 und 100'000 Franken;
+- b) die Direktion für Bildung und kulturelle Angelegenheiten für die Gewährung eines Betrags zwischen 30'001 und 100'000 Franken;
 - c) der Staatsrat für die Gewährung einer Finanzhilfe, deren Betrag 100'000 Franken übersteigt.
 
 <sup>2</sup> Eine Ausfallentschädigung von über 100'000 Franken wird nur gewährt, wenn nach der Bearbeitung sämtlicher Gesuche genügend finanzielle Mittel verbleiben.

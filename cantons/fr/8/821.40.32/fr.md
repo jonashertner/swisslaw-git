@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.32"
 title: "Ordonnance d'application de l'ordonnance fédérale sur l'atténuation des conséquences économiques du coronavirus (COVID-19) dans le secteur de la culture"
 language: fr
-version: 2020-09-11
-valid_until: 2022-01-31
-version_adopted: 2020-09-01
+version: 2022-02-01
+valid_until: 2023-07-14
+version_adopted: 2022-04-01
 adopted: 2020-04-14
 in_force: 2020-04-14
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.32"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6580/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7410/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6580/pdf_file"
 
 COVID-19, conséquences économiques dans le secteur de la culture - O
 
-du 14.04.2020 (version entrée en vigueur le 11.09.2020)
+du 14.04.2020 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -92,7 +92,7 @@ Arrête:
 <sup>1</sup> Sur la base du préavis de la commission ad hoc (art. 4 al. 2), l'autorité compétente est:
 
 - a) le Service de la culture pour décider de l'octroi d'un montant jusqu'à 30'000 francs;
-- b) la Direction de l'instruction publique, de la culture et du sport pour décider de l'octroi d'un montant se situant entre 30'001 et 100'000 francs;
+- b) la Direction de la formation et des affaires culturelles pour décider de l'octroi d'un montant se situant entre 30'001 et 100'000 francs;
 - c) le Conseil d'Etat pour décider de l'octroi d'une subvention dont le montant est supérieur à 100'000 francs.
 
 <sup>2</sup> Une indemnisation des pertes financières dépassant 100'000 francs ne sera accordée que sous réserve d'une disponibilité financière à l'issue du traitement de toutes les demandes.
