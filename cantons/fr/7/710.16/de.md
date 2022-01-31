@@ -3,13 +3,13 @@ canton: FR
 number: "710.16"
 title: Verordnung über den Tarif der Gebühren und Verfahrenskosten im Bereich der Raumplanung und des Bauwesens
 language: de
-version: 2017-07-01
-valid_until: 2022-01-31
-version_adopted: 2017-06-19
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-03-18
 adopted: 2015-06-30
 in_force: 2015-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/5333/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7425/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5333/pdf_file"
 
 Raumplanung und Bauwesen, Gebühren – V
 
-vom 30.06.2015 (Fassung in Kraft getreten am 01.07.2017)
+vom 30.06.2015 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -50,7 +50,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt den Tarif der Gebühren und Verfahrenskosten für alle Leistungen im Bereich der Raumplanung und des Bauwesens, nämlich:
 
-- a) Raumplanungs-, Umwelt- und Baudirektion:
+- a) Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt:
   - 1\. für Bewilligungen und Verfügungen, die sie als zuständige kantonale Behörde für Bauten ausserhalb der Bauzone erlässt;
   - 2\. für Verfügungen, die sie in Verfahren zur Wiederherstellung des rechtmässigen Zustands ausserhalb der Bauzone erlässt;
   - 3\. für die anderen Bewilligungen und Verfügungen, die sie im Rahmen ihrer Befugnisse, die ihr vom Gesetz übertragen werden, erlässt;
@@ -99,9 +99,9 @@ beschliesst:
 
 <sup>3</sup> Die Höhe der Personalkosten wird wie folgt berechnet:
 
-- a) Augenschein je Mitarbeiterin oder Mitarbeiter: Fr. 100 /Std.
-- b) Koordinationssitzung je Mitarbeiterin oder Mitarbeiter: Fr. 100 /Std.
-- c) Erfassen von Unterlagen für ein Vorprüfungs- oder ein Baugesuch (ordentliches oder vereinfachtes Verfahren) in der Informatikanwendung für das Baubewilligungsverfahren: Fr. 80 /Std.
+- a) Augenschein je Mitarbeiterin oder Mitarbeiter: . — Fr. 100 /Std
+- b) Koordinationssitzung je Mitarbeiterin oder Mitarbeiter: — Fr. 100 /Std.
+- c) Erfassen von Unterlagen für ein Vorprüfungs- oder ein Baugesuch (ordentliches oder vereinfachtes Verfahren) in der Informatikanwendung für das Baubewilligungsverfahren: — Fr. 80 /Std.
 
 ## 2 Nutzungspläne
 
@@ -118,18 +118,18 @@ beschliesst:
 <sup>1</sup> Die Gebühren für das Prüfungsverfahren der Nutzungspläne betragen:
 
 - a) Ortsplan:
-  - 1\. Grundgebühr pro Dossier: Fr. 500
-  - 2\. Prüfung des Dossiers: Fr. 1000 bis 10'000
+  - 1\. Grundgebühr pro Dossier: — Fr. 500
+  - 2\. Prüfung des Dossiers: — Fr. 1000 bis 10'000
 - b) Detailbebauungsplan:
-  - 1\. Grundgebühr pro Dossier: Fr. 500
-  - 2\. Prüfung des Dossiers: Fr. 1000 bis 7500
+  - 1\. Grundgebühr pro Dossier: — Fr. 500
+  - 2\. Prüfung des Dossiers: — Fr. 1000 bis 7500
 
 <sup>2</sup> Die Gebühren für die Genehmigungsverfügungen der Pläne betragen:
 
-- a) Genehmigungsverfügung für eine Gebührensumme von weniger als 3000 Franken: Fr. 500
-- b) Genehmigungsverfügung für eine Gebührensumme von 3000 Franken oder mehr: Fr. 1000
+- a) Genehmigungsverfügung für eine Gebührensumme von weniger als 3000 Franken: — Fr. 500
+- b) Genehmigungsverfügung für eine Gebührensumme von 3000 Franken oder mehr: — Fr. 1000
 
-<sup>3</sup> Entscheidet die Raumplanungs-, Umwelt- und Baudirektion gleichzeitig über Beschwerden, so fallen für diese Verfahren die Gebühren gemäss Tarif der Verfahrenskosten und Entschädigungen in der Verwaltungsjustiz an.
+<sup>3</sup> Entscheidet die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt gleichzeitig über Beschwerden, so fallen für diese Verfahren die Gebühren gemäss Tarif der Verfahrenskosten und Entschädigungen in der Verwaltungsjustiz an.
 
 #### Art. 8
 
@@ -137,8 +137,8 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren der Kommissionen für die Prüfungsverfahren der Nutzungspläne betragen:
 
-- a) Grundgebühr pro Dossier: Fr. 150
-- b) Prüfung des Dossiers: Fr. 300 bis 3000
+- a) Grundgebühr pro Dossier: — Fr. 150
+- b) Prüfung des Dossiers: — Fr. 300 bis 3000
 
 ## 3 Bewilligungen
 
@@ -154,12 +154,12 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für das ordentliche Prüfungsverfahren der Bewilligungsgesuche betragen (pro Fall):
 
-- a) Grundgebühr pro Dossier: Fr. 150
+- a) Grundgebühr pro Dossier: — Fr. 150
 - b) Prüfung des Dossiers nach Kosten der projektierten Arbeiten:
-  - 1\. bis 2'000'000 Franken: 2 ‰ (mindestens Fr. 150)
-  - 2\. je weitere 1'000'000 Franken: 1 ‰
-  - 3\. ab 5'000'000 Franken: Fr. 7000
-- c) Sonderbewilligung ausserhalb der Bauzone: Fr. 100 bis 800
+  - 1\. bis 2'000'000 Franken: — 2 ‰ (mindestens Fr. 150)
+  - 2\. je weitere 1'000'000 Franken: — 1 ‰
+  - 3\. ab 5'000'000 Franken: — Fr. 7000
+- c) Sonderbewilligung ausserhalb der Bauzone: — Fr. 100 bis 800
 
 <sup>2</sup> Bei besonders komplizierten Projekten kann die Gebühr um bis zu 50 % erhöht werden. Dieser Zuschlag gilt einzig für die Gebühr nach Absatz 1 Bst. b.
 
@@ -169,12 +169,12 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für das Prüfungsverfahren der Bewilligungsgesuche für Materialabbau betragen:
 
-- a) Grundgebühr pro Dossier: Fr. 150
+- a) Grundgebühr pro Dossier: — Fr. 150
 - b) Gebühr nach bewilligtem Volumen:
-  - 1\. bis 99'999 m³: Fr. 1000
-  - 2\. von 100'000 m³ bis 299'999 m³: Fr. 3000
-  - 3\. 300'000 m³ und mehr: Fr. 5000
-- c) Abbaubewilligung: Fr. 100 bis 800
+  - 1\. bis 99'999 m³: — Fr. 1000
+  - 2\. von 100'000 m³ bis 299'999 m³: — Fr. 3000
+  - 3\. 300'000 m³ und mehr: — Fr. 5000
+- c) Abbaubewilligung: — Fr. 100 bis 800
 
 <sup>2</sup> Die Gebühren nach Absatz 1 Bst. a und b können im Fall eines besonderen Koordinationsbedarfs um 200 bis 2000 Franken erhöht werden; dies gilt namentlich für Umweltverträglichkeitsprüfungen und Rodungsgesuche.
 
@@ -186,9 +186,9 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für das vereinfachte Prüfungsverfahren der Bewilligungsgesuche betragen:
 
-- a) Grundgebühr pro Dossier: Fr. 100
-- b) Prüfung des Dossiers: Fr. 50 bis 500
-- c) Sonderbewilligung ausserhalb der Bauzone: Fr. 100 bis 500
+- a) Grundgebühr pro Dossier: — Fr. 100
+- b) Prüfung des Dossiers: — Fr. 50 bis 500
+- c) Sonderbewilligung ausserhalb der Bauzone: — Fr. 100 bis 500
 
 #### Art. 13
 
@@ -196,8 +196,8 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für die Behandlung der Baubewilligungsgesuche durch die Kommissionen betragen:
 
-- a) Grundgebühr pro Dossier: Fr. 100
-- b) Prüfung des Dossiers: Fr. 100 bis 2000
+- a) Grundgebühr pro Dossier: — Fr. 100
+- b) Prüfung des Dossiers: — Fr. 100 bis 2000
 
 ## 4 Wiederherstellung des rechtmässigen Zustands
 
@@ -207,8 +207,8 @@ beschliesst:
 
 <sup>2</sup> Die Gebühren betragen:
 
-- a) Grundgebühr pro Dossier: Fr. 100
-- b) Prüfung des Dossiers und Verfügung: Fr. 100 bis 10'000
+- a) Grundgebühr pro Dossier: — Fr. 100
+- b) Prüfung des Dossiers und Verfügung: — Fr. 100 bis 10'000
 
 ## 5 Weitere kantonale Verfahren
 
@@ -218,9 +218,9 @@ beschliesst:
 
 <sup>2</sup> Die Gebühren betragen:
 
-- a) Für eine Verfügung aufgrund der kantonalen Kompetenz im Bereich der Bauten und Anlagen ausserhalb der Bauzone: Fr. 100 bis 1000
-- b) Für eine Verfügung im Bereich der Baulandumlegungen und Grenzbereinigungen: Fr. 100 bis 500
-- c) Für eine Verfügung zur Genehmigung eines Gemeindereglements: Fr. 100 bis 500
+- a) Für eine Verfügung aufgrund der kantonalen Kompetenz im Bereich der Bauten und Anlagen ausserhalb der Bauzone: — Fr. 100 bis 1000
+- b) Für eine Verfügung im Bereich der Baulandumlegungen und Grenzbereinigungen: — Fr. 100 bis 500
+- c) Für eine Verfügung zur Genehmigung eines Gemeindereglements: — Fr. 100 bis 500
 
 ## 6 Schlussbestimmungen
 
