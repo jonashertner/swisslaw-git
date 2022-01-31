@@ -3,20 +3,19 @@ canton: FR
 number: "122.72.82"
 title: Verordnung über die Einreihung subventionierter Funktionen
 language: de
-version: 2021-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-02-02
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2021-02-02
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.82"
-pdf: "https://bdlf.fr.ch/api/de/versions/6762/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7240/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Einreihung subventionierter Funktionen
 
-vom 02.02.2021 (Fassung in Kraft getreten am 01.01.2021)
+vom 02.02.2021 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -44,7 +43,7 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> In den subventionierten Institutionen, die in die Zuständigkeit der Direktion für Gesundheit und Soziales und der Direktion für Erziehung, Kultur und Sport fallen, werden die im Folgenden aufgeführten Funktionen bis zur Höhe der angegebenen Einreihung subventioniert:
+<sup>1</sup> In den subventionierten Institutionen, die in die Zuständigkeit der Direktion für Gesundheit und Soziales und der Direktion für Bildung und kulturelle Angelegenheiten fallen, werden die im Folgenden aufgeführten Funktionen bis zur Höhe der angegebenen Einreihung subventioniert:
 
 - a) Bereits bewertete Funktionen
   - 1\. Betagtenbetreuer/in — KL 8
@@ -66,6 +65,6 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Die Direktion für Gesundheit und Soziales und die Direktion für Erziehung, Kultur und Sport erlassen Weisungen für die Anwendung dieser Verordnung.
+<sup>1</sup> Die Direktion für Gesundheit und Soziales und die Direktion für Bildung und kulturelle Angelegenheiten erlassen Weisungen für die Anwendung dieser Verordnung.
 
 2021\_012

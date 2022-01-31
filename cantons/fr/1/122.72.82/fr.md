@@ -3,20 +3,19 @@ canton: FR
 number: "122.72.82"
 title: Ordonnance concernant la classification de fonctions subventionnées
 language: fr
-version: 2021-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-02-02
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 2021-02-02
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.82"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6762/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7240/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la classification de fonctions subventionnées
 
-du 02.02.2021 (version entrée en vigueur le 01.01.2021)
+du 02.02.2021 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -44,7 +43,7 @@ Arrête:
 
 #### Art. 1
 
-<sup>1</sup> Dans les institutions subventionnées relevant de la compétence de la Direction de la santé et des affaires sociales et de la Direction de l'instruction publique, de la culture et du sport, les fonctions mentionnées ci-dessous sont subventionnées, jusqu'à concurrence de la classification indiquée:
+<sup>1</sup> Dans les institutions subventionnées relevant de la compétence de la Direction de la santé et des affaires sociales et de la Direction de la formation et des affaires culturelles, les fonctions mentionnées ci-dessous sont subventionnées, jusqu'à concurrence de la classification indiquée:
 
 - a) Fonctions ayant déjà fait l'objet d'une évaluation
   - 1\. Accompagnateur/trice pour personnes âgées — CL 8
@@ -66,6 +65,6 @@ Arrête:
 
 #### Art. 2
 
-<sup>1</sup> La Direction de la santé et des affaires sociales et la Direction de l'instruction publique, de la culture et du sport émettent des directives d'application concernant la présente ordonnance.
+<sup>1</sup> La Direction de la santé et des affaires sociales et la Direction de la formation et des affaires culturelles émettent des directives d'application concernant la présente ordonnance.
 
 2021\_012
