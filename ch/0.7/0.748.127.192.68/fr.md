@@ -3,11 +3,11 @@ sr: "0.748.127.192.68"
 title: Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien (avec annexe et acte final)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/258"
 language: fr
-version: 2021-08-01
+version: 2022-02-01
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/258/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2002-258-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/258/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/258/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-2002-258-20220201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/258/20220201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2002** 1705; FF **1999** 5440
 
 Texte original
 
-Conclu le 21 juin 1999
+Conclu le 21 juin 1999 Approuvé par l’Assemblée fédérale le 8 octobre 1999[^t-1] Instrument de ratification suisse déposé le 16 octobre 2000 Entré en vigueur le 1<sup>er</sup> juin 2002
 
-Approuvé par l’Assemblée fédérale le 8 octobre 1999[^t-1]
-
-Instrument de ratification suisse déposé le 16 octobre 2000
-
-Entré en vigueur le 1<sup>er</sup> juin 2002
-
-(Etat le 1<sup>er</sup> août 2021)
+(Etat le 1<sup>er</sup> février 2022)
 
 [^t-1]: Art. 1 al. 1 let. e de l’AF du 8 oct. 1999 ([RO 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
 
@@ -34,13 +28,13 @@ La Confédération suisse, ci-après dénommée «la Suisse», la Communauté eu
 
 ci-après dénommées «les Parties contractantes»,
 
-reconnaissant le caractère intégré de l’aviation civile internationale et désireuses d’harmoniser les dispositions réglementaires en matière de transport aérien intra-européen;
+reconnaissant le caractère intégré de l’aviation civile internationale et désireuses d’harmoniser les dispositions réglementaires en matière de transport aérien intra-européen,
 
-souhaitant fixer des règles applicables à l’aviation civile dans la zone couverte par la Communauté et la Suisse, sans préjudice des règles définies par le traité CE, et notamment les compétences communautaires fixées par les art. 81 et 82 de ce traité ainsi que les règles de concurrence qui en découlent;
+souhaitant fixer des règles applicables à l’aviation civile dans la zone couverte par la Communauté et la Suisse, sans préjudice des règles définies par le traité CE, et notamment les compétences communautaires fixées par les art. 81 et 82 de ce traité ainsi que les règles de concurrence qui en découlent,
 
-convenant qu’il est approprié de fonder ces règles sur la législation en vigueur dans la Communauté au moment de la signature du présent Accord;
+convenant qu’il est approprié de fonder ces règles sur la législation en vigueur dans la Communauté au moment de la signature du présent Accord,
 
-désireuses de prévenir, dans le plein respect de l’indépendance des tribunaux, les divergences d’interprétation, et de parvenir à une interprétation aussi uniforme que possible des dispositions du présent Accord et des dispositions correspondantes du droit communautaire qui sont reproduites en substance dans le présent Accord;
+désireuses de prévenir, dans le plein respect de l’indépendance des tribunaux, les divergences d’interprétation, et de parvenir à une interprétation aussi uniforme que possible des dispositions du présent Accord et des dispositions correspondantes du droit communautaire qui sont reproduites en substance dans le présent Accord,
 
 sont convenues de ce qui suit:
 
@@ -373,7 +367,7 @@ Aux fins du présent accord:
 
 ## 1. Libéralisation dans le domaine de l’aviation et autres règles applicables à l’aviation civile
 
-[^t-2]: Nouvelle teneur selon la D n<sup>o</sup> 1/2021 du Comité mixte des transports aériens Union européenne/Suisse du 15 juil. 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 553](https://fedlex.data.admin.ch/eli/oc/2021/553)).
+[^t-2]: Nouvelle teneur selon la D n<sup>o</sup> 2/2021 du Comité mixte des transports aériens UE/Suisse du 8 déc. 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> fév. 2022 ([RO 2022 133](https://fedlex.data.admin.ch/eli/oc/2022/133)).
 
 **Règlement (CE) n****<sup>o</sup>** **1008/2008 du Parlement européen et du Conseil** du 24 septembre 2008 établissant des règles communes pour l’exploitation de services aériens dans la Communauté (refonte), JO L 293 du 31.10.2008, p. 3, modifié par:
 
@@ -402,7 +396,7 @@ Aux fins du présent accord:
 - – Règlement (CE) n<sup>o</sup> 793/2004, JO L 138 du 30.4.2004, p. 50,
 - – Règlement (UE) 2020/459, JO L 99 du 31.3.2020, p. 1,
 - – Règlement délégué (UE) 2020/1477 de la Commission, JO L 338 du 15.10.2020, p. 4,
-- – Règlement (UE) 2021/250, JO L 58 du 19.2.2021, p. 1; les par. 1 et 4 de l’art. 10 bis du règlement (CEE) n<sup>o</sup> 95/93, tels que modifiés par l’art. 1<sup>er</sup>, point 6 du règlement (UE) 2021/250, s’appliquent en Suisse depuis le 20.2.2021.
+- – Règlement (UE) 2021/250, JO L 58 du 19.2.2021, p. 1; les par.1 et 4 de l’art. 10 *bis* du règlement (CEE) n<sup>o</sup> 95/93, tels que modifiés par l’art. 1<sup>er</sup>, point 6 du règlement (UE) 2021/250, s’appliquent en Suisse depuis le 20.2.2021.
 
 **Directive 2009/12/CE du Parlement européen et du Conseil** du 11 mars 2009 sur les redevances aéroportuaires (Texte présentant de l’intérêt pour l’EEE), JO L 70 du 14.3.2009, p. 11.
 
@@ -420,7 +414,7 @@ Aux fins du présent accord:
 
 **Règlement (CE) n****<sup>o</sup>** **773/2004 de la Commission** du 7 avril 2004 relatif aux procédures mises en œuvre par la Commission en application des art. 81 et 82 du traité CE (Texte présentant de l’intérêt pour l’EEE), JO L 123 du 27.4.2004, p. 18, modifié par:
 
-- – Règlement (CE) n<sup>o</sup> 1792/2006 de la Commission, JO L 362 du 20.12.2006, p. 1,
+- – Règlement (CE) n<sup>o</sup> 1792/2006 de la Commission, JO L 362 du 20.12.2006, p. 1.
 - – Règlement (CE) n<sup>o</sup> 622/2008 de la Commission, JO L 171 du 1.7.2008, p. 3.
 
 **Règlement (CE) n****<sup>o</sup>** **139/2004 du Conseil** du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises («le règlement sur les concentrations») (Texte présentant de l’intérêt pour l’EEE), JO L 24 du 29.1.2004, p. 1.
@@ -433,7 +427,7 @@ En ce qui concerne l’art. 4, par. 5, du règlement sur les concentrations, les
 - (2) la Commission européenne transmet sans délai à la Confédération suisse tous les mémoires reçus en application de l’art. 4, par. 5, du règlement (CE) n<sup>o</sup> 139/2004 et du précédent paragraphe;
 - (3) lorsque la Confédération suisse a exprimé son désaccord concernant la demande de renvoi de l’affaire, l’autorité suisse compétente en matière de concurrence conserve sa compétence et l’affaire n’est pas renvoyée en vertu du présent paragraphe.
 
-En ce qui concerne les délais visés à l’art. 4, par. 4 et 5, à l’art. 9, par. 2 et 6, et à l’art. 22, par. 2, du règlement CE sur les concentrations:
+En ce qui concerne les délais visés à l’art. 4, par. 4 et 5, à l’art. 9, par.s 2 et 6, et à l’art. 22, par. 2, du règlement CE sur les concentrations:
 
 - (1) la Commission européenne transmet sans délai à l’autorité suisse compétente en matière de concurrence tous les documents requis en application de l’art. 4, par. 4 et 5, de l’art. 9, par. 2 et 6, et de l’art. 22, par. 2;
 - (2) pour la Confédération suisse, les délais visés à l’art. 4, par. 4 et 5, à l’art. 9, par. 2 et 6, et à l’art. 22, par. 2, du règlement (CE) n<sup>o</sup> 139/2004 courent après réception des documents requis par l’autorité suisse compétente en matière de concurrence.
@@ -446,15 +440,17 @@ En ce qui concerne les délais visés à l’art. 4, par. 4 et 5, à l’art. 9,
 
 **Directive 2006/111/CE de la Commission** du 16 novembre 2006 relative à la transparence des relations financières entre les États membres et les entreprises publiques ainsi qu’à la transparence financière dans certaines entreprises (version codifiée) (Texte présentant de l’intérêt pour l’EEE), JO L 318 du 17.11.2006, p. 17.
 
-**Règlement (CE)** **n****<sup>o</sup>** **487/2009 du Conseil** du 25 mai 2009 concernant l’application de l’art. 81, par. 3, du traité à des catégories d’accords et de pratiques concertées dans le domaine des transports aériens (version codifiée) (texte présentant de l’intérêt pour l’EEE), JO L 148 du 11.6.2009, p. 1.
+**Règlement (CE) n****<sup>o</sup>** **487/2009 du Conseil** du 25 mai 2009 concernant l’application de l’art. 81, par. 3, du traité à des catégories d’accords et de pratiques concertées dans le domaine des transports aériens (version codifiée) (texte présentant de l’intérêt pour l’EEE), JO L 148 du 11.6.2009, p. 1.
 
 ## 3. Sécurité aérienne
 
-**Règlement (UE) 2018/1139 du Parlement européen et du Conseil** du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, JO L 212 du 22.8.2018, p. 1.
+**Règlement (UE) 2018/1139** du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) nº 3922/91 du Conseil, JO L 212 du 22.8.2018, p. 1, modifié par:
+
+- – Règlement délégué (UE) 2021/1087 de la Commission, JO L 236 du 5.7.2021, p. 1.
 
 L’Agence jouit également en Suisse des pouvoirs que lui confèrent les dispositions du règlement.
 
-La Commission jouit également en Suisse des pouvoirs qui lui sont conférés pour les décisions adoptées en vertu de l’art. 2, par. 6 et 7, de l’art. 41, par. 6, de l’art. 62, par. 5, de l’art. 67, par. 2 et 3, de l’art. 70, par. 4, de l’art. 71, par. 2, de l’art. 76, par. 4, de l’art. 84, par. 1, de l’art. 85, par. 9, de l’art. 104, par. 3, point i), de l’art. 105, par. 1, et de l’art. 106, par. 1 et 6.
+La Commission jouit également en Suisse des pouvoirs qui lui sont conférés pour les décisions adoptées en vertu de l’art. 2, par. 6 et 7, de l’art. 41, par. 6, de l’art.62, par. 5, de l’art. 67, par. 2 et 3, de l’art. 70, par. 4, de l’art. 71, par. 2, de l’art. 76, par. 4, de l’art. 84, par. 1, de l’art. 85, par. 9, de l’art. 104, par. 3, point i), de l’art. 105, par. 1, et de l’art. 106, par.s 1 et 6.
 
 Nonobstant l’adaptation horizontale prévue au deuxième alinéa de l’annexe de l’accord entre la Communauté européenne et la Confédération suisse sur le transport aérien, les références aux «États membres» faites dans les dispositions du règlement (UE) n<sup>o</sup> 182/2011 mentionnées à l’art. 127 du règlement (UE) 2018/1139 ne sont pas réputées s’appliquer à la Suisse.
 
@@ -466,7 +462,7 @@ Aux fins du présent accord, le texte du règlement est adapté comme suit:
 
   l’art. 68 est modifié comme suit:
 
-  - i) au par. 1, point a), les termes «ou la Suisse» sont insérés après les termes «l’Union»;
+  - i) au par. 1, point a), les termes «ou la Suisse» sont insérés après les termes «l’Union»,
   - ii) le paragraphe suivant est ajouté:
   - «4. Chaque fois que l’Union négocie avec un pays tiers en vue de conclure un accord prévoyant qu’un État membre ou l’Agence peut délivrer des certificats sur la base de certificats délivrés par les autorités aéronautiques de ce pays tiers, elle s’efforce d’obtenir que soit proposée à la Suisse la conclusion d’un accord semblable avec le pays tiers considéré. La Suisse s’efforce, quant à elle, de conclure avec les pays tiers des accords correspondant à ceux de l’Union.»;
 
@@ -485,8 +481,8 @@ Aux fins du présent accord, le texte du règlement est adapté comme suit:
 
   - S = la part du budget de l’Agence non couverte par les honoraires et redevances indiqués au par. 1, points c) et d)
   - a = le nombre d’États associés
-  - b = le nombre d’États membres de l’Union européenne
-  - c = la contribution de la Suisse au budget de l’OACI
+  - b = e nombre d’États membres de l’Union européenne
+  - c = a contribution de la Suisse au budget de l’OACI
   - C = la contribution totale des États membres de l’Union européenne et des États associés au budget de l’OACI.»;
 
 - f) à l’art. 122, le paragraphe suivant est ajouté:
@@ -501,7 +497,7 @@ Aux fins du présent accord, le texte du règlement est adapté comme suit:
 - h) à l’art. 132, par. 1, la référence au règlement (UE) 2016/679 s’entend, en ce qui concerne la Suisse, comme faite à la législation nationale pertinente;
 - i) l’art. 140, par. 6, ne s’applique pas à la Suisse.
 
-**Règlement (UE)** **n****<sup>o</sup>** **1178/2011 de la Commission** du 3 novembre 2011 déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l’aviation civile conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, JO L 311 du 25.11.2011, p. 1, modifié par:
+**Règlement (UE) n****<sup>o</sup>** **1178/2011 de la Commission** du 3 novembre 2011 déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l’aviation civile conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, JO L 311 du 25.11.2011, p. 1, modifié par:
 
 - – Règlement (UE) n<sup>o</sup> 290/2012 de la Commission, JO L 100 du 5.4.2012, p. 1,
 - – Règlement (UE) n<sup>o</sup> 70/2014 de la Commission, JO L 23 du 28.1.2014, p. 25,
@@ -516,7 +512,8 @@ Aux fins du présent accord, le texte du règlement est adapté comme suit:
 - – Règlement d’exécution (UE) 2019/1747 de la Commission, JO L 268 du 22.10.2019, p. 23,
 - – Règlement d’exécution (UE) 2020/359 de la Commission, JO L 67 du 5.3.2020, p. 82,
 - – Règlement délégué (UE) 2020/723 de la Commission, JO L 170 du 2.6.2020, p. 1,
-- – Règlement d’exécution (UE) 2020/2193 de la Commission, JO L 434 du 23.12.2020, p. 13.
+- – Règlement d’exécution (UE) 2020/2193 de la Commission, JO L 434 du 23.12.2020, p. 13,
+- – Règlement d’exécution (UE) 2021/1310 de la Commission, JO L 284 du 9.8.2021, p. 15.
 
 **Règlement délégué (UE) 2020/723 de la Commission** du 4 mars 2020 établissant des règles détaillées concernant l’acceptation de la certification des pilotes par les pays tiers et modifiant le règlement (UE) n<sup>o</sup> 1178/2011, JO L 170 du 2.6.2020, p. 1.
 
@@ -531,64 +528,67 @@ Conformément à l’art. 139 du règlement (UE) 2018/1139, le règlement (CEE) 
 
 **Règlement (UE) n****<sup>o</sup>** **996/2010 du Parlement européen et du Conseil** du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l’aviation civile et abrogeant la directive 94/56/CE (Texte présentant de l’intérêt pour l’EEE), JO L 295 du 12.11.2010, p. 35, modifié par:
 
-- <sup>–</sup> Règlement (UE) n<sup>o</sup> 376/2014, JO L 122 du 24.4.2014, p. 18,
-- <sup>–</sup> Règlement (UE) 2018/1139, JO L 212 du 22.8.2018, p. 1.
+- – Règlement (UE) n<sup>o</sup> 376/2014, JO L 122 du 24.4.2014, p. 18,
+- – Règlement (UE) 2018/1139, JO L 212 du 22.8.2018, p. 1.
 
 **Règlement (CE) n****<sup>o</sup>** **104/2004 de la Commission** du 22 janvier 2004 fixant les règles relatives à l’organisation et à la composition de la chambre de recours de l’Agence européenne de la sécurité aérienne, JO L 16 du 23.1.2004, p. 20.
 
 **Règlement (CE) n****<sup>o</sup>** **2111/2005 du Parlement européen et du Conseil** du 14 décembre 2005 concernant l’établissement d’une liste communautaire des transporteurs aériens qui font l’objet d’une interdiction d’exploitation dans la Communauté et l’information des passagers du transport aérien sur l’identité du transporteur aérien effectif, et abrogeant l’art. 9 de la directive 2004/36/CE (Texte présentant de l’intérêt pour l’EEE), JO L 344 du 27.12.2005, p. 15, modifié par:
 
-- <sup>–</sup> Règlement (UE) 2018/1139, JO L 212 du 22.8.2018, p. 1.
+- – Règlement (UE) 2018/1139, JO L 212 du 22.8.2018, p. 1.
 
 **Règlement (CE) n****<sup>o</sup>** **473/2006 de la Commission** du 22 mars 2006 portant sur les règles de mise en œuvre pour la liste communautaire des transporteurs aériens qui font l’objet d’une interdiction d’exploitation dans la Communauté visée au chapitre II du règlement (CE) n<sup>o</sup> 2111/2005 du Parlement européen et du Conseil (Texte présentant de l’intérêt pour l’EEE), JO L 84 du 23.3.2006, p. 8.
 
 **Règlement (CE) n****<sup>o</sup>** **474/2006 de la Commission** du 22 mars 2006 établissant la liste communautaire des transporteurs aériens qui font l’objet d’une interdiction d’exploitation dans la Communauté visée au chapitre II du règlement (CE) n<sup>o</sup> 2111/2005 du Parlement européen et du Conseil, JO L 84 du 23.3.2006, p. 14, modifié en dernier lieu par:
 
-- <sup>–</sup> Règlement d’exécution (UE) 2020/1992 de la Commission, JO L 410 du 7.12.2020, p. 49.
+- – Règlement d’exécution (UE) 2021/883 de la Commission, JO L 194 du 2.6.2021, p. 22.
 
 **Règlement (UE) n****<sup>o</sup>** **1332/2011 de la Commission** du 16 décembre 2011 établissant des exigences communes pour l’utilisation de l’espace aérien et des procédures d’exploitation communes pour l’évitement de collision en vol (Texte présentant de l’intérêt pour l’EEE), JO L 336 du 20.12.2011, p. 20, modifié par:
 
-- <sup>–</sup> Règlement (UE) 2016/583 de la Commission, JO L 101 du 16.4.2016, p. 7.
+- – Règlement (UE) 2016/583 de la Commission, JO L 101 du 16.4.2016, p. 7.
 
 **Règlement d’exécution (UE) n****<sup>o</sup>** **646/2012 de la Commission** du 16 juillet 2012 établissant les modalités d’exécution relatives aux amendes et astreintes conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil (Texte présentant de l’intérêt pour l’EEE), JO L 187 du 17.7.2012, p. 29.
 
 **Règlement (UE) n****<sup>o</sup>** **748/2012 de la Commission** du 3 août 2012 établissant des règles d’application pour la certification de navigabilité et environnementale des aéronefs et produits, pièces et équipements associés, ainsi que pour la certification des organismes de conception et de production, JO L 224 du 21.8.2012, p. 1, modifié par:
 
-- <sup>–</sup> Règlement (UE) n<sup>o</sup> 7/2013 de la Commission, JO L 4 du 9.1.2013, p. 36,
-- <sup>–</sup> Règlement (UE) n<sup>o</sup> 69/2014 de la Commission, JO L 23 du 28.1.2014, p. 12,
-- <sup>–</sup> Règlement (UE) 2015/1039 de la Commission, JO L 167 du 1.7.2015, p. 1,
-- <sup>–</sup> Règlement (UE) 2016/5 de la Commission, JO L 3 du 6.1.2016, p. 3,
-- <sup>–</sup> Règlement délégué (UE) 2019/897 de la Commission, JO L 144 du 3.6.2019, p. 1,
-- <sup>–</sup> Règlement délégué (UE) 2020/570 de la Commission, JO L 132 du 27.4.2020, p. 1.
+- – Règlement (UE) n<sup>o</sup> 7/2013 de la Commission, JO L 4 du 9.1.2013, p. 36,
+- – Règlement (UE) n<sup>o</sup> 69/2014 de la Commission, JO L 23 du 28.1.2014, p. 12,
+- – Règlement (UE) 2015/1039 de la Commission, JO L 167 du 1.7.2015, p. 1,
+- – Règlement (UE) 2016/5 de la Commission, JO L 3 du 6.1.2016, p. 3,
+- – Règlement délégué (UE) 2019/897 de la Commission, JO L 144 du 3.6.2019, p. 1,
+- – Règlement délégué (UE) 2020/570 de la Commission, JO L 132 du 27.4.2020, p. 1,
+- – Règlement délégué (UE) 2021/699 de la Commission, JO L 145 du 28.4.2021, p. 1,
+- – Règlement délégué (UE) 2021/1088 de la Commission, JO L 236 du 5.7.2021, p. 3.
 
 **Règlement (UE) n****<sup>o</sup>** **965/2012 de la Commission** du 5 octobre 2012 déterminant les exigences techniques et les procédures administratives applicables aux opérations aériennes conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, JO L 296 du 25.10.2012, p. 1, modifié par:
 
-- <sup>–</sup> Règlement (UE) n<sup>o</sup> 800/2013 de la Commission, JO L 227 du 24.8.2013, p. 1,
-- <sup>–</sup> Règlement (UE) n<sup>o</sup> 71/2014 de la Commission, JO L 23 du 28.1.2014, p. 27,
-- <sup>–</sup> Règlement (UE) n<sup>o</sup> 83/2014 de la Commission, JO L 28 du 31.1.2014, p. 17,
-- <sup>–</sup> Règlement (UE) n<sup>o</sup> 379/2014 de la Commission, JO L 123 du 24.4.2014, p. 1,
-- <sup>–</sup> Règlement (UE) 2015/140 de la Commission, JO L 24 du 30.1.2015, p. 5,
-- <sup>–</sup> Règlement (UE) 2015/1329 de la Commission, JO L 206 du 1.8.2015, p. 21,
-- <sup>–</sup> Règlement (UE) 2015/640 de la Commission, JO L 106 du 24.4.2015, p. 18,
-- <sup>–</sup> Règlement (UE) 2015/2338 de la Commission, JO L 330 du 16.12.2015, p. 1,
-- <sup>–</sup> Règlement (UE) 2016/1199 de la Commission, JO L 198 du 23.7.2016, p. 13,
-- <sup>–</sup> Règlement (UE) 2017/363 de la Commission, JO L 55 du 2.3.2017, p. 1,
-- <sup>–</sup> Règlement (UE) 2018/394 de la Commission, JO L 71 du 14.3.2018, p. 1,
-- <sup>–</sup>
+- – Règlement (UE) n<sup>o</sup> 800/2013 de la Commission, JO L 227 du 24.8.2013, p. 1,
+- – Règlement (UE) n<sup>o</sup> 71/2014 de la Commission, JO L 23 du 28.1.2014, p. 27,
+- – Règlement (UE) n<sup>o</sup> 83/2014 de la Commission, JO L 28 du 31.1.2014, p. 17,
+- – Règlement (UE) n<sup>o</sup> 379/2014 de la Commission, JO L 123 du 24.4.2014, p. 1,
+- – Règlement (UE) 2015/140 de la Commission, JO L 24 du 30.1.2015, p. 5,
+- – Règlement (UE) 2015/1329 de la Commission, JO L 206 du 1.8.2015, p. 21,
+- – Règlement (UE) 2015/640 de la Commission, JO L 106 du 24.4.2015, p. 18,
+- – Règlement (UE) 2015/2338 de la Commission, JO L 330 du 16.12.2015, p. 1,
+- – Règlement (UE) 2016/1199 de la Commission, JO L 198 du 23.7.2016, p. 13,
+- – Règlement (UE) 2017/363 de la Commission, JO L 55 du 2.3.2017, p. 1,
+- – Règlement (UE) 2018/394 de la Commission, JO L 71 du 14.3.2018, p. 1,
+- –
 
   Règlement (UE) 2018/1042 de la Commission, JO L 188 du 25.7.2018, p. 3, à l’exception du nouvel art. 4, par. 2, du règlement (UE) n<sup>o</sup> 965/2012 tel que prévu à l’art. 1<sup>er</sup>, par. 1, du règlement (UE) 2018/1042, modifié par:
 
-  - <sup>–</sup> Règlement d’exécution (UE) 2020/745 de la Commission, JO L 176 du 5.6.2020, p. 11,
+  - – Règlement d’exécution (UE) 2020/745 de la Commission, JO L 176 du 5.6.2020, p. 11,
 
-- <sup>–</sup> Règlement d’exécution (UE) 2018/1975 de la Commission, JO L 326 du 20.12.2018, p. 53,
-- <sup>–</sup>
+- – Règlement d’exécution (UE) 2018/1975 de la Commission, JO L 326 du 20.12.2018, p. 53,
+- –
 
   Règlement d’exécution (UE) 2019/1387 de la Commission, JO L 229 du 5.9.2019, p. 1, modifié par:
 
-  - <sup>–</sup> Règlement d’exécution (UE) 2020/1176 de la Commission, JO L 259 du 10.8.2020, p. 10,
+  - – Règlement d’exécution (UE) 2020/1176 de la Commission, JO L 259 du 10.8.2020, p. 10,
 
-- <sup>–</sup> Règlement d’exécution (UE) 2019/1384 de la Commission, JO L 228 du 4.9.2019, p. 106,
-- <sup>–</sup> Règlement d’exécution (UE) 2020/2036 de la Commission, JO L 416 du 11.12.2020, p. 24; les par.s 4 à 6 de l’annexe du règlement (UE) 2020/2036 s’appliquent en Suisse depuis le 31.12.2020.
+- – Règlement d’exécution (UE) 2019/1384 de la Commission, JO L 228 du 4.9.2019, p. 106,
+- – Règlement d’exécution (UE) 2020/2036 de la Commission, JO L 416 du 11.12.2020, p. 24; les par. 4 à 6 de l’annexe du règlement (UE) 2020/2036 s’appliquent en Suisse depuis le 31.12.2020,
+- – Règlement d’exécution (UE) 2021/1062 de la Commission, JO L 229 du 29.6.2021, p. 3.
 
 **Règlement d’exécution (UE) n****<sup>o</sup>** **628/2013 de la Commission** du 28 juin 2013 relatif aux méthodes de travail de l’Agence européenne de la sécurité aérienne pour l’exécution d’inspections de normalisation et pour le contrôle de l’application des dispositions du règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, et abrogeant le règlement (CE) n<sup>o</sup> 736/2006 de la Commission (Texte présentant de l’intérêt pour l’EEE), JO L 179 du 29.6.2013, p. 46.
 
@@ -611,7 +611,7 @@ Conformément à l’art. 139 du règlement (UE) 2018/1139, le règlement (CEE) 
 
 - – Règlement (UE) 2018/1139, JO L 212 du 22.8.2018, p. 1.
 
-**Règlement (UE) n****<sup>o</sup>** **452/2014 de la Commission** du 29 avril 2014 déterminant les exigences techniques et les procédures administratives applicables aux opérations aériennes des exploitants de pays tiers conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil (Texte présentant de l’intérêt pour l’EEE), JO L 133 du 6.5.2014, p. 12, modifié par:
+**Règlement (UE) n****<sup>o</sup>** **452/2014 de la Commission** du 29 avril 2014 déterminant les exigences techniques et les procédures administratives applicables aux opérations aériennes des exploitants de pays tiers conformément au règlement (CE) nº 216/2008 du Parlement européen et du Conseil (Texte présentant de l’intérêt pour l’EEE), JO L 133 du 6.5.2014, p. 12, modifié par:
 
 - – Règlement (UE) 2016/1158 de la Commission, JO L 192 du 16.7.2016, p. 21.
 
@@ -624,7 +624,9 @@ Conformément à l’art. 139 du règlement (UE) 2018/1139, le règlement (CEE) 
 - – Règlement d’exécution (UE) 2019/1383 de la Commission, JO L 228 du 4.9.2019, p. 1,
 - – Règlement d’exécution (UE) 2019/1384 de la Commission, JO L 228 du 4.9.2019, p. 106,
 - – Règlement d’exécution (UE) 2020/270 de la Commission, JO L 56 du 27.2.2020, p. 20,
-- – Règlement d’exécution (UE) 2020/1159 de la Commission, JO L 257 du 6.8.2020, p. 14.
+- – Règlement d’exécution (UE) 2020/1159 de la Commission, JO L 257 du 6.8.2020, p. 14,
+- – Règlement d’exécution (UE) 2021/685 de la Commission, JO L 143 du 27.4.2021, p. 6,
+- – Règlement d’exécution (UE) 2021/700 de la Commission, JO L 145 du 28.4.2021, p. 20; l’art. 1<sup>er</sup>, point 1) et les points 5), 6) et 8) de l’annexe I du règlement (UE) 2021/700 s’appliquent en Suisse depuis le 18.5.2021.
 
 **Règlement (UE) 2015/340 de la Commission** du 20 février 2015 déterminant les exigences techniques et les procédures administratives applicables aux licences et certificats de contrôleur de la circulation aérienne conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, modifiant le règlement d’exécution (UE) n<sup>o</sup> 923/2012 de la Commission et abrogeant le règlement (UE) n<sup>o</sup> 805/2011 de la Commission (Texte présentant de l’intérêt pour l’EEE), JO L 63 du 6.3.2015, p. 1.
 
@@ -638,7 +640,7 @@ Conformément à l’art. 139 du règlement (UE) 2018/1139, le règlement (CEE) 
 
 **Décision (UE) 2016/2357 de la Commission** du 19 décembre 2016 relative au non-respect effectif du règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil et de ses règles de mise en œuvre en ce qui concerne les certificats délivrés par Hellenic Aviation Training Academy (HATA) et les licences relevant de la partie 66 délivrées sur la base de ces certificats [notifiée sous le numéro C(2016) 8645], JO L 348 du 21.12.2016, p. 72.
 
-**Règlement (UE) 2018/395 de la Commission** du 13 mars 2018 établissant des règles détaillées concernant l’exploitation de ballons ainsi que l’octroi de licences pour les membres d’équipage de conduite de ballons conformément au règlement (UE) 2018/ 1139 du Parlement européen et du Conseil, JO L 71 du 14.3.2018, p. 10, modifié par:
+**Règlement (UE) 2018/395 de la Commission** du 13 mars 2018 établissant des règles détaillées concernant l’exploitation de ballons ainsi que l’octroi de licences pour les membres d’équipage de conduite de ballons conformément au règlement (UE) 2018/1139 du Parlement européen et du Conseil, JO L 71 du 14.3.2018, p. 10, modifié par:
 
 - – Règlement d’exécution (UE) 2020/357 de la Commission, JO L 67 du 5.3.2020, p. 34.
 
@@ -649,6 +651,8 @@ Conformément à l’art. 139 du règlement (UE) 2018/1139, le règlement (CEE) 
 **Règlement (UE) 2019/494 du Parlement européen et du Conseil** du 25 mars 2019 concernant certains aspects de la sécurité aérienne eu égard au retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union (Texte présentant de l’intérêt pour l’EEE), JO L 85I du 27.3.2019, p. 11.
 
 **Décision d’exécution (UE) 2019/1128 de la Commission** du 1<sup>er</sup> juillet 2019 relative aux droits d’accès aux recommandations de sécurité et aux réponses stockées dans le répertoire central européen et abrogeant la décision 2012/780/UE (Texte présentant de l’intérêt pour l’EEE), JO L 177 du 2.7.2019, p. 112.
+
+**Règlement délégué (UE) 2020/2034 de la Commission** du 6 octobre 2020 complétant le règlement (UE) n<sup>o</sup> 376/2014 du Parlement européen et du Conseil en ce qui concerne le mécanisme européen commun de classification des risques (Texte présentant de l’intérêt pour l’EEE), JO L 416 du 11.12.2020, p. 1.
 
 [^annexu1-lvl3-1]: JO L 224 du 21.8.2012, p. 1.
 
@@ -663,11 +667,11 @@ Conformément à l’art. 139 du règlement (UE) 2018/1139, le règlement (CEE) 
 - – Règlement (UE) n<sup>o</sup> 1141/2011 de la Commission, JO L 293 du 11.11.2011, p. 22,
 - – Règlement (UE) n<sup>o</sup> 245/2013 de la Commission, JO L 77 du 20.3.2013, p. 5.
 
-**Règlement (UE)** **n****<sup>o</sup>** **1254/2009 de la Commission** du 18 décembre 2009 fixant les critères permettant aux États membres de déroger aux normes de base communes en matière de sûreté de l’aviation civile et d’adopter d’autres mesures de sûreté (Texte présentant de l’intérêt pour l’EEE), JO L 338 du 19.12.2009, p. 17, modifié par:
+**Règlement (UE) n****<sup>o</sup>** **1254/2009 de la Commission** du 18 décembre 2009 fixant les critères permettant aux États membres de déroger aux normes de base communes en matière de sûreté de l’aviation civile et d’adopter d’autres mesures de sûreté (Texte présentant de l’intérêt pour l’EEE), JO L 338 du 19.12.2009, p. 17, modifié par:
 
 - – Règlement (UE) 2016/2096 de la Commission, JO L 326 du 1.12.2016, p. 7.
 
-**Règlement (UE)** **n****<sup>o</sup>** **18/2010 de la Commission** du 8 janvier 2010 modifiant le règlement (CE) no 300/2008 du Parlement européen et du Conseil en ce qui concerne les spécifications des programmes nationaux de contrôle de la qualité dans le domaine de la sûreté de l’aviation civile, JO L 7 du 12.1.2010, p. 3.
+**Règlement (UE) n****<sup>o</sup>** **18/2010 de la Commission** du 8 janvier 2010 modifiant le règlement (CE) n<sup>o</sup> 300/2008 du Parlement européen et du Conseil en ce qui concerne les spécifications des programmes nationaux de contrôle de la qualité dans le domaine de la sûreté de l’aviation civile, JO L 7 du 12.1.2010, p. 3.
 
 **Règlement (UE) n****<sup>o</sup>** **72/2010 de la Commission** du 26 janvier 2010 établissant des procédures pour la conduite des inspections effectuées par la Commission dans le domaine de la sûreté aérienne (Texte présentant de l’intérêt pour l’EEE), JO L 23 du 27.1.2010, p. 1, modifié par:
 
@@ -689,7 +693,7 @@ Conformément à l’art. 139 du règlement (UE) 2018/1139, le règlement (CEE) 
 
   Règlement d’exécution (UE) 2019/1583 de la Commission, JO L 246 du 26.9.2019, p. 15, modifié par:
 
-  - – Règlement d’exécution (UE) 2020/910 de la Commission, JO L 208 du 1.7.2020, p. 43,
+  - – Règlement d’exécution (UE) 2020/910 de la Commission, JO L 208 du 1.7.2020, p. 43.
 
 - – Règlement d’exécution (UE) 2020/111 de la Commission, JO L 21 du 27.1.2020, p. 1,
 - – Règlement d’exécution (UE) 2020/910 de la Commission, JO L 208 du 1.7.2020, p. 43,
@@ -721,11 +725,11 @@ au par. 2, les termes «au niveau communautaire» sont remplacés par les mots �
 
 Nonobstant l’adaptation horizontale prévue au deuxième alinéa de l’annexe de l’accord entre la Communauté européenne et la Confédération suisse sur le transport aérien, les références aux «États membres» figurant à l’art. 5 du règlement (CE) n<sup>o</sup> 549/2004 ou dans les dispositions de la décision 1999/468/CE citées dans ladite disposition ne sont pas réputées s’appliquer à la Suisse.
 
-**Règlement (CE) n****<sup>o</sup>** **550/2004 du Parlement européen et du Conseil** du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le ciel unique européen («règlement sur la fourniture de services») (Texte présentant de l’intérêt pour l’EEE), JO L 96 du 31.3.2004, p. 10 modifié par:
+**Règlement (CE) n****<sup>o</sup>** **550/2004 du Parlement européen et du Conseil** du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le ciel unique européen («règlement sur la fourniture de services») (Texte présentant de l’intérêt pour l’EEE), JO L 96 du 31.3.2004, p. 10. modifié par:
 
 - – Règlement (CE) n<sup>o</sup> 1070/2009, JO L 300 du 14.11.2009, p. 34.
 
-La Commission jouit en Suisse des pouvoirs qui lui sont conférés en vertu des art. 9 *<sup>bis</sup>*, 9 *<sup>ter</sup>*, 15, 15 *<sup>bis</sup>*, 16 et 17.
+La Commission jouit en Suisse des pouvoirs qui lui sont conférés en vertu des art. 9 *bis*, 9 *ter*, 15, 15 *bis*, 16 et 17.
 
 Aux fins du présent accord, les dispositions du règlement sont modifiées comme suit:
 
@@ -744,13 +748,13 @@ Aux fins du présent accord, les dispositions du règlement sont modifiées comm
 
 - – Règlement (CE) n<sup>o</sup> 1070/2009, JO L 300 du 14.11.2009, p. 34.
 
-La Commission jouit en Suisse des pouvoirs qui lui sont octroyés en vertu des art. 3 *<sup>bis</sup>*, 6 et 10.
+La Commission jouit en Suisse des pouvoirs qui lui sont octroyés en vertu des art. 3 *bis*, 6 et 10.
 
 **Règlement (CE) n****<sup>o</sup>** **552/2004 du Parlement européen et du Conseil** du 10 mars 2004 concernant l’interopérabilité du réseau européen de gestion du trafic aérien («règlement sur l’interopérabilité») (Texte présentant de l’intérêt pour l’EEE), JO L 96 du 31.3.2004, p. 26, modifié par:
 
 - – Règlement (CE) n<sup>o</sup> 1070/2009, JO L 300 du 14.11.2009, p. 34.
 
-La Commission jouit en Suisse des pouvoirs qui lui sont conférés en vertu des art. 4 et 7 et de l’art. 10, par. 3.
+La Commission jouit en Suisse des pouvoirs qui lui sont conférés en vertu des art. 4 et 7 et de l’art.10, par. 3.
 
 Aux fins du présent accord, les dispositions du règlement sont modifiées comme suit:
 
@@ -761,7 +765,7 @@ Aux fins du présent accord, les dispositions du règlement sont modifiées comm
 - c) l’annexe III est modifiée comme suit:
 - à la section 3, deuxième et dernier alinéas, les termes «ou en Suisse» sont insérés après les termes «la Communauté».
 
-Conformément à l’art. 139 du règlement (UE) 2018/1139, le règlement (CE) n<sup>o</sup> 552/2004 est abrogé avec effet au 11 septembre 2018. Cependant, les art. 4, 5, 6, 6 *bis* et 7 de ce règlement et ses annexes III et IV continuent de s’appliquer jusqu’à la date d’application des actes délégués visés à l’art. 47 du règlement (UE) 2018/1139 et dans la mesure où ces actes se rapportent à l’objet des dispositions concernées du règlement (CE) n<sup>o</sup> 552/2004, et, en tout état de cause, au plus tard jusqu’au 12 septembre 2023.
+Conformément à l’art. 139 du règlement (UE) 2018/1139, le règlement (CE) n<sup>o</sup> 552/2004 est abrogé avec effet au 11 septembre 2018. Cependant, les art. 4, 5, 6, 6<sup>bis</sup> et 7 de ce règlement et ses annexes III et IV continuent de s’appliquer jusqu’à la date d’application des actes délégués visés à l’art. 47 du règlement (UE) 2018/1139 et dans la mesure où ces actes se rapportent à l’objet des dispositions concernées du règlement (CE) n<sup>o</sup> 552/2004, et, en tout état de cause, au plus tard jusqu’au 12 septembre 2023.
 
 **Règlement (CE) n****<sup>o</sup>** **2150/2005 de la Commission** du 23 décembre 2005 établissant des règles communes pour la gestion souple de l’espace aérien (Texte présentant de l’intérêt pour l’EEE), JO L 342 du 24.12.2005, p. 20.
 
@@ -795,13 +799,15 @@ Conformément à l’art. 139 du règlement (UE) 2018/1139, le règlement (CE) n
 
 - – Règlement (UE) n<sup>o</sup> 283/2011 de la Commission, JO L 77 du 23.3.2011, p. 23.
 
-**Règlement d’exécution (UE) 2017/373 de la Commission** du 1<sup>er</sup> mars 2017 établissant des exigences communes relatives aux prestataires de services de gestion du trafic aérien et de services de navigation aérienne ainsi que des autres fonctions de réseau de la gestion du trafic aérien, et à leur supervision, abrogeant le règlement (CE) n<sup>o</sup> 482/2008, les règlements d’exécution (UE) n<sup>o</sup> 1034/2011, (UE) n<sup>o</sup> 1035/2011 et (UE) 2016/1377 et modifiant le règlement (UE) n<sup>o</sup> 677/2011 (Texte présentant de l’intérêt pour l’EEE), JO L 62 du 8.3.2017, p. 1, modifié par:
+**Règlement d’exécution (UE) 2017/373 de la Commission** du 1<sup>er</sup> mars 2017 établissant des exigences communes relatives aux prestataires de services de gestion du trafic aérien et de services de navigation aérienne ainsi que des autres fonctions de réseau de la gestion du trafic aérien, et à leur supervision, abrogeant le règlement (CE) nº 482/2008, les règlements d’exécution (UE) n<sup>o</sup> 1034/2011, (UE) n<sup>o</sup> 1035/2011 et (UE) 2016/1377 et modifiant le règlement (UE) n<sup>o</sup> 677/2011 (Texte présentant de l’intérêt pour l’EEE), JO L 62 du 8.3.2017, p. 1, modifié par:
 
 - –
 
   Règlement d’exécution (UE) 2020/469 de la Commission, JO L 104 du 3.4.2020, p. 1, modifié par:
 
-  - – Règlement d’exécution (UE) 2020/1177 de la Commission, JO L 259 du 10.8.2020, p. 12.
+  - – Règlement d’exécution (UE) 2020/1177 de la Commission, JO L 259 du 10.8.2020, p. 12,
+
+- – Règlement d’exécution (UE) 2021/1338 de la Commission, JO L 289 du 12.8.2021, p. 12.
 
 **Règlement (CE) n****<sup>o</sup>** **29/2009 de la Commission** du 16 janvier 2009 définissant les exigences relatives aux services de liaison de données pour le ciel unique européen (Texte présentant de l’intérêt pour l’EEE), JO L 13 du 17.1.2009, p. 3, modifié par:
 
@@ -845,7 +851,7 @@ Le règlement (UE) n<sup>o</sup> 73/2010 est abrogé avec effet au 27.1.2022.
 
 **Décision C(2011) 4130 de la Commission** du 7 juillet 2011 portant nomination du gestionnaire de réseau chargé des fonctions de réseau de la gestion du trafic aérien pour le ciel unique européen (Texte présentant de l’intérêt pour l’EEE) (non parue au JO).
 
-**Règlement d’exécution (UE) n****<sup>o</sup>** **1 206/2011 de la Commission** du 22 novembre 2011 fixant les exigences relatives à l’identification d’un aéronef dans le cadre des activités de surveillance pour le ciel unique européen (Texte présentant de l’intérêt pour l’EEE), JO L 305 du 23.11.2011, p. 23, modifié par:
+**Règlement d’exécution (UE) n****<sup>o</sup>** **1206/2011 de la Commission** du 22 novembre 2011 fixant les exigences relatives à l’identification d’un aéronef dans le cadre des activités de surveillance pour le ciel unique européen (Texte présentant de l’intérêt pour l’EEE), JO L 305 du 23.11.2011, p. 23, modifié par:
 
 - – Règlement d’exécution (UE) 2020/587 de la Commission, JO L 138 du 30.4.2020, p. 1.
 
@@ -881,24 +887,24 @@ Aux fins du présent accord, le texte du règlement d’exécution (UE) n<sup>o<
 
 - – Règlement d’exécution (UE) 2021/116 de la Commission, JO L 36 du 2.2.2021, p. 10.
 
-**Règlement d’exécution (UE) 2021/116 de la Commission** du 1<sup>er</sup> février 2021 sur la mise en place du premier projet commun de soutien à la mise en œuvre du plan directeur européen de gestion du trafic aérien prévu par le règlement (CE) n<sup>o</sup> 550/2004 du Parlement européen et du Conseil, modifiant le règlement d’exécution (UE) n<sup>o</sup> 409/ 2013 de la Commission et abrogeant le règlement d’exécution (UE) n<sup>o</sup> 716/2014 de la Commission (Texte présentant de l’intérêt pour l’EEE), JO L 36 du 2.2.2021, p. 10.
+**Règlement d’exécution (UE) 2021/116 de la Commission** du 1<sup>er</sup> février 2021 sur la mise en place du premier projet commun de soutien à la mise en œuvre du plan directeur européen de gestion du trafic aérien prévu par le règlement (CE) n<sup>o</sup> 550/2004 du Parlement européen et du Conseil, modifiant le règlement d’exécution (UE) n<sup>o</sup> 409/2013 de la Commission et abrogeant le règlement d’exécution (UE) n<sup>o</sup> 716/2014 de la Commission (Texte présentant de l’intérêt pour l’EEE), JO L 36 du 2.2.2021, p. 10.
 
 Aux fins du présent accord, l’annexe du règlement est adaptée comme suit:
 
-- a) Le point suivant est ajouté après le point 1.2.1.r): «s) Zürich Kloten»
-- b) Le point suivant est ajouté après le point 2.2.1.r): «s) Zürich Kloten»
-- c) Le point suivant est ajouté après le point 2.2.2.r): «s) Zürich Kloten»
-- d) Le point suivant est ajouté après le point 2.2.3.bb): «cc) Genève; dd) Zürich Kloten».
+- (a) Le point suivant est ajouté après le point 1.2.1.r): «s) Zürich Kloten»
+- (b) Le point suivant est ajouté après le point 2.2.1.r): «s) Zürich Kloten»
+- (c) Le point suivant est ajouté après le point 2.2.2.r): «s) Zürich Kloten»
+- (d) Le point suivant est ajouté après le point 2.2.3.bb): «cc) Genève; dd) Zürich Kloten».
 
 **Règlement d’exécution (UE) 2018/1048 de la Commission** du 18 juillet 2018 fixant des exigences pour l’utilisation de l’espace aérien et des procédures d’exploitation concernant la navigation fondée sur les performances, JO L 189 du 26.7.2018, p. 3.
 
 **Règlement d’exécution (UE) 2019/123 de la Commission** du 24 janvier 2019 établissant les modalités d’exécution des fonctions de réseau de la gestion du trafic aérien et abrogeant le règlement (UE) n<sup>o</sup> 677/2011 (Texte présentant de l’intérêt pour l’EEE), JO L 28 du 31.1.2019, p. 1.
 
-**Règlement d’exécution (UE) 2019/317 de la Commission** du 11 février 2019 établissant un système de performance et de tarification dans le ciel unique européen et abrogeant les règlements d’exécution (UE) n<sup>o</sup> 390/2013 et (UE) n<sup>o</sup> 391/2013 (Texte présentant de l’intérêt pour l’EEE), JO L 56 du 25.2.2019, p. 1.
+**Règlement d’exécution (UE) 2019/317 de la Commission** du 11 février 2019 établissant un système de performance et de tarification dans le ciel unique européen et abrogeant les règlements d’exécution (UE) n<sup>o</sup> 390/2013 et (UE) nº 391/2013 (Texte présentant de l’intérêt pour l’EEE), JO L 56 du 25.2.2019, p. 1.
 
 **Décision d’exécution (UE) 2019/709 de la Commission** du 6 mai 2019 relative à la nomination du gestionnaire de réseau chargé des fonctions de réseau de la gestion du trafic aérien pour le ciel unique européen [notifiée sous le numéro C(2019) 3228], JO L 120 du 8.5.2019, p. 27.
 
-**Décision d’exécution (UE) 2019/903 de la Commission** du 29 mai 2019 fixant les objectifs de performance à l’échelle de l’Union pour le réseau de gestion du trafic aérien pour la troisième période de référence débutant le 1<sup>er</sup> janvier 2020 et s’achevant le 31 décembre 2024 (Texte présentant de l’intérêt pour l’EEE), JO L 144 du 3.6.2019, p. 49.
+**Décision d’exécution (UE) 2021/891 de la Commission** du 2 juin 2021 fixant les objectifs de performance révisés à l’échelle de l’Union pour le réseau de gestion du trafic aérien pour la troisième période de référence (2020–2024) et abrogeant la décision d’exécution (UE) 2019/903 (Texte présentant de l’intérêt pour l’EEE), JO L 195 du 3.6.2021, p. 3.
 
 **Décision d’exécution (UE) 2019/2167 de la Commission** du 17 décembre 2019 portant approbation du plan de réseau stratégique applicable aux fonctions de réseau de la gestion du trafic aérien du ciel unique européen pour la période 2020–2029, JO L 328 du 18.12.2019, p. 89.
 
@@ -922,7 +928,7 @@ Aux fins du présent accord, l’annexe du règlement est adaptée comme suit:
 
 ## 7. Protection des consommateurs
 
-**Directive 90/314/CEE du Conseil** du 13 juin 1990 concernant les voyages, vacances et circuits à forfait, JO L 158 du 23.6.1990, p. 59 (art. 1<sup>er</sup> à 10).
+**Directive 90/314/CEE du Conseil** du 13 juin 1990 concernant les voyages, vacances et circuits à forfait, JO L 158 du 23.6.1990, p. 59 (art.s 1<sup>er</sup> à 10).
 
 **Directive 93/13/CEE du Conseil** du 5 avril 1993 concernant les clauses abusives dans les contrats conclus avec les consommateurs, JO L 95 du 21.4.1993, p. 29 (art. 1<sup>er</sup> à 11), modifiée par:
 
@@ -985,9 +991,9 @@ L’Union est exonérée de tous droits de douane, prohibitions et restrictions 
 
 L’Union est également exonérée de tout droit de douane et de toute prohibition et restriction d’importation et d’exportation à l’égard de leurs publications.
 
-## Chapitre II Communications et laissez-passer
+### Chapitre II Communications et laissez-passer
 
-### Art. 5
+#### Art. 5
 
 Pour leurs communications officielles et le transfert de tous leurs documents, les institutions de l’Union bénéficient sur le territoire de chaque État membre du traitement accordé par cet État aux missions diplomatiques.
 
@@ -1123,13 +1129,13 @@ Le remboursement de la TVA est accordé sur présentation à l’Administration 
 
 ### 3. Modalités d’application des règles relatives au personnel de l’Agence
 
-En ce qui concerne l’art. 12, deuxième alinéa, du protocole, la Suisse exempte, selon les principes de son droit interne, les fonctionnaires et autres agents de l’Agence au sens de l’art. 2 du règlement (Euratom, CECA, CEE) n<sup>o</sup> 549/69[^annexu1-lvlu1-lvl3-1] des impôts fédéraux, cantonaux et communaux sur les traitements, salaires et émoluments versés par l’Union européenne et soumis au profit de celle-ci à un impôt interne.
+En ce qui concerne l’art. 12, deuxième alinéa, du protocole, la Suisse exempte, selon les principes de son droit interne, les fonctionnaires et autres agents de l’Agence au sens de l’art. 2 du règlement (Euratom, CECA, CEE) nº 549/69[^annexu1-lvlu1-lvl3-1] des impôts fédéraux, cantonaux et communaux sur les traitements, salaires et émoluments versés par l’Union européenne et soumis au profit de celle-ci à un impôt interne.
 
 La Suisse n’est pas considérée comme un État membre au sens du point 1 du présent appendice pour l’application de l’art. 13 du protocole.
 
 Les fonctionnaires et autres agents de l’Agence, ainsi que les membres de leur famille qui sont affiliés au système d’assurances sociales applicable aux fonctionnaires et autres agents de l’Union européenne ne sont pas obligatoirement soumis au système suisse d’assurances sociales.
 
-La Cour de justice de l’Union européenne a une compétence exclusive pour toutes les questions concernant les relations entre l’Agence ou la Commission et son personnel en ce qui concerne l’application du règlement (CEE, Euratom, CECA) n<sup>o</sup> 259/68 du Conseil[^annexu1-lvlu1-lvl3-2] et des autres dispositions du droit de l’Union européenne fixant les conditions de travail.
+La Cour de justice de l’Union européenne a une compétence exclusive pour toutes les questions concernant les relations entre l’Agence ou la Commission et son personnel en ce qui concerne l’application du règlement (CEE, Euratom, CECA) nº 259/68 du Conseil[^annexu1-lvlu1-lvl3-2] et des autres dispositions du droit de l’Union européenne fixant les conditions de travail.
 
 [^annexu1-lvlu1-lvl3-1]: Règlement (Euratom, CECA, CEE) n<sup>o</sup> 549/69 du Conseil du 25 mars 1969 déterminant les catégories des fonctionnaires et agents des Communautés européennes auxquelles s’appliquent les dispositions des art. 12, 13, deuxième alinéa, et 14 du protocole sur les privilèges et immunités des Communautés (JO L 74 du 27.3.1969, p. 1). Règlement modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 1749/2002 de la Commission (JO L 264 du 2.10.2002, p. 13).
 [^annexu1-lvlu1-lvl3-2]: Règlement (CEE, Euratom, CECA) n<sup>o</sup> 259/68 du Conseil du 29 février 1968 fixant le statut des fonctionnaires des Communautés européennes ainsi que le régime applicable aux autres agents de ces Communautés, et instituant des mesures particulières temporairement applicables aux fonctionnaires de la Commission (régime applicable aux autres agents) (JO L 56 du 4.3.1968, p. 1). Règlement modifié en dernier lieu par le règlement (CE) n<sup>o</sup> 2104/2005 de la Commission (JO L 337 du 22.12.2005, p. 7).
@@ -1148,7 +1154,7 @@ L’Agence et la Commission communiquent directement avec toutes les personnes o
 
 **Contrôles**
 
-<sup>1.</sup> Conformément au règlement (CE, Euratom) n<sup>o</sup> 1605/2002 du Conseil du 25 juin 2002 portant règlement financier applicable au budget général des Communautés européennes[^annexB-lvlu1-2-1] et au règlement financier adopté par le Conseil d’administration de l’Agence le 26 mars 2003, au règlement (CE, Euratom) n<sup>o</sup> 2343/2002 de la Commission du 23 décembre 2002 portant règlement financier-cadre des organismes visés à l’art. 185 du règlement (CE, Euratom) n<sup>o</sup> 1605/2002 du Conseil portant règlement financier applicable au budget général des Communautés européennes[^annexB-lvlu1-2-2], ainsi qu’aux autres réglementations auxquelles se réfère la présente décision, les contrats ou conventions conclus ainsi que les décisions prises avec des bénéficiaires établis en Suisse peuvent prévoir que des audits scientifiques, financiers, technologiques ou autres peuvent être effectués à tout moment auprès d’eux et de leurs sous-traitants par des agents de l’Agence et de la Commission ou par d’autres personnes mandatées par celles-ci.
+<sup>1.</sup> Conformément au règlement (CE, Euratom) nº 1605/2002 du Conseil du 25 juin 2002 portant règlement financier applicable au budget général des Communautés européennes[^annexB-lvlu1-2-1] et au règlement financier adopté par le Conseil d’administration de l’Agence le 26 mars 2003, au règlement (CE, Euratom) n<sup>o</sup> 2343/2002 de la Commission du 23 décembre 2002 portant règlement financier-cadre des organismes visés à l’art. 185 du règlement (CE, Euratom) n<sup>o</sup> 1605/2002 du Conseil portant règlement financier applicable au budget général des Communautés européennes[^annexB-lvlu1-2-2], ainsi qu’aux autres réglementations auxquelles se réfère la présente décision, les contrats ou conventions conclus ainsi que les décisions prises avec des bénéficiaires établis en Suisse peuvent prévoir que des audits scientifiques, financiers, technologiques ou autres peuvent être effectués à tout moment auprès d’eux et de leurs sous-traitants par des agents de l’Agence et de la Commission ou par d’autres personnes mandatées par celles-ci.
 
 <sup>2.</sup> Les agents de l’Agence et de la Commission ainsi que les autres personnes mandatées par celles-ci ont un accès approprié aux sites, travaux et documents, ainsi qu’à toutes les informations nécessaires, y compris sous format électronique, pour mener à bien ces audits. Ce droit d’accès figure expressément dans les contrats conclus en application des instruments auxquels se réfère la présente décision.
 
@@ -1165,7 +1171,7 @@ L’Agence et la Commission communiquent directement avec toutes les personnes o
 
 **Contrôles sur place**
 
-<sup>1.</sup> Dans le cadre du présent accord, la Commission (OLAF) est autorisée à effectuer des contrôles et vérifications sur place sur le territoire suisse, conformément aux conditions et modalités du règlement (Euratom, CE) n<sup>o</sup> 2185/96 du Conseil du 11 novembre 1996 relatif aux contrôles et vérifications sur place effectués par la Commission pour la protection des intérêts financiers des Communautés européennes contre les fraudes et autres irrégularités[^annexB-lvlu1-3-1].
+<sup>1.</sup> Dans le cadre du présent accord, la Commission (OLAF) est autorisée à effectuer des contrôles et vérifications sur place sur le territoire suisse, conformément aux conditions et modalités du règlement (Euratom, CE) nº 2185/96 du Conseil du 11 novembre 1996 relatif aux contrôles et vérifications sur place effectués par la Commission pour la protection des intérêts financiers des Communautés européennes contre les fraudes et autres irrégularités[^annexB-lvlu1-3-1].
 
 <sup>2.</sup> Les contrôles et vérifications sur place sont préparés et conduits par la Commission en collaboration étroite avec le Contrôle fédéral des finances suisse ou avec les autres autorités suisses compétentes désignées par le Contrôle fédéral des finances, qui sont informés en temps utile de l’objet, du but et de la base juridique des contrôles et vérifications, de manière à pouvoir apporter toute l’aide nécessaire. À cet effet, les agents des autorités suisses compétentes peuvent participer aux contrôles et vérifications sur place.
 
@@ -1195,7 +1201,7 @@ Les informations communiquées ou obtenues en vertu de la présente annexe, sous
 
 **Mesures et sanctions administratives**
 
-Sans préjudice de l’application du droit pénal suisse, des mesures et des sanctions administratives pourront être imposées par l’Agence ou par la Commission en conformité avec le règlement (CE, Euratom) n<sup>o</sup> 1605/2002 du Conseil du 25 juin 2002 et le règlement (CE, Euratom) n<sup>o</sup> 2342/2002 de la Commission du 23 décembre 2002, ainsi qu’avec le règlement (CE, Euratom) n<sup>o</sup> 2988/95 du Conseil du 18 décembre 1995 relatif à la protection des intérêts financiers des Communautés européennes[^annexB-lvlu1-6-1].
+Sans préjudice de l’application du droit pénal suisse, des mesures et des sanctions administratives pourront être imposées par l’Agence ou par la Commission en conformité avec le règlement (CE, Euratom) nº 1605/2002 du Conseil du 25 juin 2002 et le règlement (CE, Euratom) nº 2342/2002 de la Commission du 23 décembre 2002, ainsi qu’avec le règlement (CE, Euratom) nº 2988/95 du Conseil du 18 décembre 1995 relatif à la protection des intérêts financiers des Communautés européennes[^annexB-lvlu1-6-1].
 
 [^annexB-lvlu1-6-1]: JO L 312 du 23.12.1995, p. 1.
 
@@ -1208,6 +1214,10 @@ Les décisions de l’Agence ou de la Commission, prises dans le cadre du champ 
 La formule exécutoire est apposée, sans autre contrôle que celui de la vérification de l’authenticité du titre, par l’autorité désignée par le gouvernement suisse qui en donnera connaissance à l’Agence ou la Commission. L’exécution forcée a lieu selon les règles de la procédure suisse. La légalité de la décision formant titre exécutoire est soumise au contrôle de la Cour de justice de l’Union européenne.
 
 Les arrêts de la Cour de justice de l’Union européenne prononcés en vertu d’une clause compromissoire ont force exécutoire sous les mêmes conditions.
+
+## Art. 2 al. 1 de la Décision n<sup>o</sup> 2/2021
+
+Les modifications apportées à tout acte visé à l’annexe de l’accord, adoptées par l’Union européenne compte tenu de la pandémie de COVID-19 après l’adoption de la présente décision et se limitant à modifier l’entrée en vigueur ou la date d’application de l’acte ou son application totale ou partielle, ou concernant uniquement son abroga-tion totale ou partielle, sont communiquées à la Confédération suisse conformément à l’art. 23, par. 3, de l’accord et sont considérées comme incluses dans l’annexe de l’accord dès leur publication au Journal officiel de l’Union européenne sans nécessiter d’autre décision du comité mixte révisant l’annexe. Des informations contenant une référence complète aux modifications pertinentes, à la suite de leur adoption, ainsi qu’une référence à la présente décision, sont publiées au Journal officiel de l’Union européenne et au Recueil officiel du droit fédéral suisse. Les modifications deviennent applicables en Suisse à partir de leur date d’application dans l’Union européenne.
 
 ## Acte final
 
@@ -1237,9 +1247,9 @@ Les Parties contractantes conviennent qu’il est souhaitable de prendre les mes
 
 ### Déclaration commune relative à de futures négociations additionnelles
 
-La Confédération suisse et la Communauté européenne déclarent leur intention d’engager des négociations en vue de conclure des accords dans les domaines d’intérêt commun tels que la mise à jour du Protocole 2[^annexB-lvlu2-lvlu2-1] de l’Accord de libre-échange de 1972, la participation suisse à certains programmes communautaires pour la formation, la jeunesse, les médias, les statistiques et l’environnement. Ces négociations devraient être préparées rapidement après la conclusion des négociations bilatérales actuelles.
+La Confédération suisse et la Communauté européenne déclarent leur intention d’engager des négociations en vue de conclure des accords dans les domaines d’intérêt commun tels que la mise à jour du Protocole 2[^annexB-lvlu3-lvlu2-1] de l’Accord de libre-échange de 1972, la participation suisse à certains programmes communautaires pour la formation, la jeunesse, les médias, les statistiques et l’environnement. Ces négociations devraient être préparées rapidement après la conclusion des négociations bilatérales actuelles.
 
-[^annexB-lvlu2-lvlu2-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997)
+[^annexB-lvlu3-lvlu2-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997)
 
 ### Déclaration relative à la participation de la Suisse aux comités
 
@@ -1252,9 +1262,9 @@ Le Conseil convient que les représentants de la Suisse participent en qualité 
 
 Ces comités se réunissent sans la présence des représentants de la Suisse lors des votes.
 
-En ce qui concerne les autres comités traitant des domaines couverts par les présents Accords et pour lesquels la Suisse, soit a repris l’acquis communautaire, soit l’applique par équivalence, la Commission consultera les experts de la Suisse selon la formule de l’art. 100 de l’accord EEE[^annexB-lvlu2-lvlu3-1].
+En ce qui concerne les autres comités traitant des domaines couverts par les présents Accords et pour lesquels la Suisse, soit a repris l’acquis communautaire, soit l’applique par équivalence, la Commission consultera les experts de la Suisse selon la formule de l’art. 100 de l’accord EEE[^annexB-lvlu3-lvlu3-1].
 
-[^annexB-lvlu2-lvlu3-1]: [FF 1992 IV 655](https://fedlex.data.admin.ch/eli/fga/1992/4__655_)
+[^annexB-lvlu3-lvlu3-1]: [FF 1992 IV 655](https://fedlex.data.admin.ch/eli/fga/1992/4__655_)
 
 ### Déclaration de la Suisse relative à une éventuelle modification du statut de la CJCE
 
