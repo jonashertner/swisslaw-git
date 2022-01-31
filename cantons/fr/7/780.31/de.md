@@ -3,20 +3,19 @@ canton: FR
 number: "780.31"
 title: Verordnung über den kantonalen Verkehrsplan
 language: de
-version: 2012-01-01
-valid_until: 2022-01-31
-version_adopted: 2011-12-06
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 2006-03-28
 in_force: 2006-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/780.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/5406/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den kantonalen Verkehrsplan
 
-vom 28.03.2006 (Fassung in Kraft getreten am 01.01.2012)
+vom 28.03.2006 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -36,7 +35,7 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion wird mit dem Vollzug dieser Verordnung beauftragt.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt wird mit dem Vollzug dieser Verordnung beauftragt.
 
 <sup>2</sup> Das Amt für Mobilität ist für die Verwaltung und die Nachführung des kantonalen Verkehrsplans zuständig. Der Verkehrsplan wird beim VEA aufbewahrt, wo er eingesehen werden kann.
 
