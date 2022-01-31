@@ -3,13 +3,12 @@ canton: FR
 number: "813.11"
 title: "Arrêté d'exécution de dispositions fédérales sur la protection de l'air"
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 1992-06-23
 in_force: 1992-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/813.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7040/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7402/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7040/pdf_file"
 
 Protection de l'air – A
 
-du 23.06.1992 (version entrée en vigueur le 01.01.2022)
+du 23.06.1992 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -37,7 +36,7 @@ Arrête:
 <sup>1</sup> Les autorités d'exécution des dispositions fédérales sur la protection de l'air sont:
 
 - a) le Conseil d'Etat,
-- b) la Direction de l'aménagement, de l'environnement et des constructions (ci-après: la Direction),
+- b) la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: la Direction),
 - c) le Service de l'environnement (ci-après: le Service),
 - c<sup>bis</sup> ) le Service des forêts et de la nature,
 - c<sup>ter</sup> ) Grangeneuve,

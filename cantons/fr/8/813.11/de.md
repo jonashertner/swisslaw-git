@@ -3,13 +3,12 @@ canton: FR
 number: "813.11"
 title: Ausführungsbeschluss zur Bundesgesetzgebung über die Luftreinhaltung
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 1992-06-23
 in_force: 1992-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/813.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7040/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7040/pdf_file"
 
 Luftreinhaltung – B
 
-vom 23.06.1992 (Fassung in Kraft getreten am 01.01.2022)
+vom 23.06.1992 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -37,7 +36,7 @@ beschliesst:
 <sup>1</sup> Vollziehende Behörden im Sinne der Bundesgesetzgebung sind:
 
 - a) der Staatsrat,
-- b) die Raumplanungs-, Umwelt- und Baudirektion (die Direktion),
+- b) die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (die Direktion),
 - c) das Amt für Umwelt (das Amt),
 - c<sup>bis</sup> ) das Amt für Wald und Natur,
 - c<sup>ter</sup> ) Grangeneuve,
