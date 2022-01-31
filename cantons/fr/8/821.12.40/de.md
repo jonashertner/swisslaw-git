@@ -3,20 +3,20 @@ canton: FR
 number: "821.12.40"
 title: Beschluss über die Zulassungsergänzungen für die Krankenpflegeschule
 language: de
-version: 2008-07-01
-valid_until: 2022-01-31
-version_adopted: 2008-08-20
+version: 2022-02-01
+valid_until: 2023-02-28
+version_adopted: 2022-04-01
 adopted: 2001-07-10
 in_force: 2001-07-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.12.40"
-pdf: "https://bdlf.fr.ch/api/de/versions/5481/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7407/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die Zulassungsergänzungen für die Krankenpflegeschule
 
-vom 10.07.2001 (Fassung in Kraft getreten am 01.07.2008)
+vom 10.07.2001 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg[^ingress-1]
 
@@ -38,7 +38,7 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Die Direktion für Erziehung, Kultur und Sport setzt eine für die Praktika verantwortliche Kommission ein. Diese untersteht administrativ der kantonalen Koordinationsinstanz, die in der interkantonalen Vereinbarung über die Errichtung der FH-GS vorgesehen ist.
+<sup>1</sup> Die Direktion für Bildung und kulturelle Angelegenheiten setzt eine für die Praktika verantwortliche Kommission ein. Diese untersteht administrativ der kantonalen Koordinationsinstanz, die in der interkantonalen Vereinbarung über die Errichtung der FH-GS vorgesehen ist.
 
 #### Art. 3
 

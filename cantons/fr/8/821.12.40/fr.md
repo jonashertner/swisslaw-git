@@ -3,20 +3,20 @@ canton: FR
 number: "821.12.40"
 title: "Arrêté relatif aux compléments d'admission à l'Ecole du personnel soignant"
 language: fr
-version: 2008-07-01
-valid_until: 2022-01-31
-version_adopted: 2008-08-20
+version: 2022-02-01
+valid_until: 2023-02-28
+version_adopted: 2022-04-01
 adopted: 2001-07-10
 in_force: 2001-07-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.12.40"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5481/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7407/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Arrêté relatif aux compléments d'admission à l'Ecole du personnel soignant
 
-du 10.07.2001 (version entrée en vigueur le 01.07.2008)
+du 10.07.2001 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg[^ingress-1]
 
@@ -38,7 +38,7 @@ Arrête:
 
 #### Art. 2
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport institue une commission responsable des stages. Cette dernière est placée sous l'autorité de la direction administrative de l'instance cantonale de coordination prévue par la convention intercantonale créant la HES-S2.
+<sup>1</sup> La Direction de la formation et des affaires culturelles institue une commission responsable des stages. Cette dernière est placée sous l'autorité de la direction administrative de l'instance cantonale de coordination prévue par la convention intercantonale créant la HES-S2.
 
 #### Art. 3
 
