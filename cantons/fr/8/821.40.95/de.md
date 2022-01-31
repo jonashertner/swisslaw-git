@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.95"
 title: "Ausführungsreglement zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus («Gutschein für Forschung und Entwicklung», «Gutschein für Digitalisierung und Automatisierung» und «COVID Service Pack / Innovationsförderung»)"
 language: de
-version: 2020-11-24
-valid_until: 2022-01-31
-version_adopted: 2020-11-24
+version: 2022-02-01
+valid_until: 2023-07-14
+version_adopted: 2022-04-01
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.95"
-pdf: "https://bdlf.fr.ch/api/de/versions/6654/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6654/pdf_file"
 
 COVID-19, Wiederankurbelungsplan – Forschung und Entwicklung – R
 
-vom 24.11.2020 (Fassung in Kraft getreten am 24.11.2020)
+vom 24.11.2020 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -91,7 +91,7 @@ beschliesst:
 
 <sup>2</sup> Mit Ausfüllen des Formulars bestätigt das Unternehmen, dass die übermittelten Informationen und Unterlagen wahrheitsgetreu sind, befreit die Behörden von der Geheimhaltungspflicht und erlaubt ihnen, Informationen auszutauschen.
 
-<sup>3</sup> Die Wirtschaftsförderung Kanton Freiburg (die Wirtschaftsförderung) prüft das Dossier und legt der Volkswirtschaftsdirektion (VWD) einen Entscheidentwurf vor. Im Rahmen ihrer Zuständigkeit gemäss der Gesetzgebung über den Finanzhaushalt des Staates entscheidet die VWD über die Zusicherung des Beitrags oder legt dem Staatsrat ihre Stellungnahme zum Gesuch vor.
+<sup>3</sup> Die Wirtschaftsförderung Kanton Freiburg (die Wirtschaftsförderung) prüft das Dossier und legt der Volkswirtschafts- und Berufsbildungsdirektion (VWBD) einen Entscheidentwurf vor. Im Rahmen ihrer Zuständigkeit gemäss der Gesetzgebung über den Finanzhaushalt des Staates entscheidet die VWBD über die Zusicherung des Beitrags oder legt dem Staatsrat ihre Stellungnahme zum Gesuch vor.
 
 #### Art. 7
 
@@ -139,7 +139,7 @@ beschliesst:
 
 <sup>2</sup> Mit Ausfüllen des Formulars bestätigt das Unternehmen, dass die übermittelten Informationen und Unterlagen wahrheitsgetreu sind, befreit die Behörden von der Geheimhaltungspflicht und erlaubt ihnen, Informationen auszutauschen.
 
-<sup>3</sup> Die Wirtschaftsförderung prüft das Dossier und legt der Volkswirtschaftsdirektion (VWD) einen Entscheidentwurf vor. Im Rahmen ihrer Zuständigkeit gemäss der Gesetzgebung über den Finanzhaushalt des Staates entscheidet die VWD über die Zusicherung des Beitrags oder legt dem Staatsrat ihre Stellungnahme zum Gesuch vor.
+<sup>3</sup> Die Wirtschaftsförderung prüft das Dossier und legt der Volkswirtschafts- und Berufsbildungsdirektion (VWBD) einen Entscheidentwurf vor. Im Rahmen ihrer Zuständigkeit gemäss der Gesetzgebung über den Finanzhaushalt des Staates entscheidet die VWBD über die Zusicherung des Beitrags oder legt dem Staatsrat ihre Stellungnahme zum Gesuch vor.
 
 #### Art. 12
 
@@ -190,7 +190,7 @@ beschliesst:
 
 <sup>3</sup> Das Unternehmen wird von der Plattform Innosquare kontaktiert, um die gewünschten Leistungen zu klären und zu prüfen, ob auf das Gesuch eingetreten werden kann.
 
-<sup>4</sup> Die Plattform Innosquare übermittelt ihre Stellungnahme an die Wirtschaftsförderung, die das Dossier prüft und der VWD, die für die Zusicherung des Beitrags zuständig ist, einen Entscheidentwurf vorlegt.
+<sup>4</sup> Die Plattform Innosquare übermittelt ihre Stellungnahme an die Wirtschaftsförderung, die das Dossier prüft und der VWBD, die für die Zusicherung des Beitrags zuständig ist, einen Entscheidentwurf vorlegt.
 
 #### Art. 17
 

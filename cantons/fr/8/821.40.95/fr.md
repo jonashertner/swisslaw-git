@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.95"
 title: "Règlement d'exécution du plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus («Chèques à la recherche et au développement», «Chèques à la digitalisation et à l'automation» et «COVID Service Pack / Soutien à l'innovation»)"
 language: fr
-version: 2020-11-24
-valid_until: 2022-01-31
-version_adopted: 2020-11-24
+version: 2022-02-01
+valid_until: 2023-07-14
+version_adopted: 2022-04-01
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.95"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6654/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7416/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6654/pdf_file"
 
 COVID-19, plan de relance – Recherche et développement – R
 
-du 24.11.2020 (version entrée en vigueur le 24.11.2020)
+du 24.11.2020 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -91,7 +91,7 @@ Arrête:
 
 <sup>2</sup> En remplissant la formule de demande, elle s'engage sur l'exactitude des informations et des documents fournis, elle délie les autorités de leur devoir de confidentialité et autorise ainsi lesdites autorités à communiquer entre elles.
 
-<sup>3</sup> La Promotion économique du canton de Fribourg (ci-après: la Promotion économique) évalue le dossier et soumet une proposition de décision à la Direction de l'économie et de l'emploi, qui est compétente pour allouer l'aide sollicitée ou la préaviser à l'intention du Conseil d'Etat, selon les compétences définies par la législation sur les finances de l'Etat.
+<sup>3</sup> La Promotion économique du canton de Fribourg (ci-après: la Promotion économique) évalue le dossier et soumet une proposition de décision à la Direction de l'économie, de l'emploi et de la formation professionnelle, qui est compétente pour allouer l'aide sollicitée ou la préaviser à l'intention du Conseil d'Etat, selon les compétences définies par la législation sur les finances de l'Etat.
 
 #### Art. 7
 
@@ -139,7 +139,7 @@ Arrête:
 
 <sup>2</sup> En remplissant la formule de demande, elle s'engage sur l'exactitude des informations et des documents fournis, elle délie les autorités de leur devoir de confidentialité et autorise ainsi lesdites autorités à communiquer entre elles.
 
-<sup>3</sup> La Promotion économique évalue le dossier et soumet une proposition de décision à la Direction de l'économie et de l'emploi, qui est compétente pour allouer l'aide sollicitée ou la préaviser à l'intention du Conseil d'Etat, selon les compétences définies par la législation sur les finances de l'Etat.
+<sup>3</sup> La Promotion économique évalue le dossier et soumet une proposition de décision à la Direction de l'économie, de l'emploi et de la formation professionnelle, qui est compétente pour allouer l'aide sollicitée ou la préaviser à l'intention du Conseil d'Etat, selon les compétences définies par la législation sur les finances de l'Etat.
 
 #### Art. 12
 
@@ -190,7 +190,7 @@ Arrête:
 
 <sup>3</sup> La société est contactée par la plate-forme Innosquare pour préciser la prestation souhaitée et évaluer une possible entrée en matière.
 
-<sup>4</sup> La plate-forme Innosquare transmet son préavis à la Promotion économique qui évalue le dossier sur la base d'une analyse externe et soumet une proposition de décision à la Direction de l'économie et de l'emploi, qui est compétente pour allouer l'aide sollicitée.
+<sup>4</sup> La plate-forme Innosquare transmet son préavis à la Promotion économique qui évalue le dossier sur la base d'une analyse externe et soumet une proposition de décision à la Direction de l'économie, de l'emploi et de la formation professionnelle, qui est compétente pour allouer l'aide sollicitée.
 
 #### Art. 17
 
