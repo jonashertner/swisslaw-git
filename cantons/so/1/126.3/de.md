@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2021-08-01
-valid_until: 2022-01-31
-version_adopted: 2021-07-05
+version: 2022-02-01
+valid_until: 2022-07-31
+version_adopted: 2021-12-21
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5093/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5162/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. August 2021)
+vom 25. Oktober 2004 (Stand 1. Februar 2022)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -3577,13 +3577,17 @@ Der Grundlohn für soziales und medizinisches Personal beträgt für Mitarbeiten
 
 Die ersten 10 Erfahrungsanstiege für soziales und medizinisches Personal mit Stellenantritt vor dem 1. Januar 2016 betragen 3%, die nächsten zwei Erfahrungsanstiege 2,5% und die weiteren Erfahrungsanstiege 1,25%. Für Mitarbeitende mit Stellenantritt ab dem 1. Januar 2016 gilt der Erfahrungszuschlag nach § 133 GAV.
 
-**LK**
+### NB AT Anhang 2 AHV-Ersatzrente (§ 203 ff. GAV)
 
-**Anstieg 2,5% Anstieg 1,25%**
+[^hNBATAnhang2AHVE-1]: § 245 Fassung vom 24. Oktober 2016.
 
-LK Erfahrungsstufen Anstieg 3,5% E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 E15 1 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 1 2 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 2 3 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 3 4 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 4 5 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 5 6 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 6 7 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 7 8 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 8 9 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 9 10 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 10 11 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 11 12 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 12 13 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 99.3% 98.3% 97.3% 96.3% 95.3% 94.3% 13 14 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 98.8% 96.7% 95.7% 94.6% 93.6% 92.6% 91.5% 90.5% 89.4% 88.4% 14 15 100% 100% 100% 100% 100% 100% 100% 100% 100% 98.3% 95.2% 93.0% 90.8% 89.7% 88.6% 87.5% 86.4% 85.3% 84.2% 83.1% 82.0% 15 16 100% 100% 100% 100% 100% 100% 100% 98.9% 95.7% 92.5% 89.2% 86.9% 84.6% 83.4% 82.3% 81.1% 80.0% 78.8% 77.7% 76.5% 75.3% 16 17 100% 100% 100% 100% 100% 99.9% 96.5% 93.1% 89.7% 86.3% 82.9% 80.5% 78.0% 76.8% 75.6% 74.4% 73.2% 72.0% 70.7% 69.5% 68.3% 17 18 100% 100% 100% 100% 97.7% 94.1% 90.5% 87.0% 83.4% 79.8% 76.2% 73.7% 71.1% 69.8% 68.6% 67.3% 66.0% 64.7% 63.5% 62.2% 60.9% 18 19 100% 100% 99.3% 95.5% 91.8% 88.0% 84.3% 80.5% 76.7% 73.0% 69.2% 66.6% 63.9% 62.5% 61.2% 59.8% 58.5% 57.2% 55.8% 54.5% 53.1% 19 20 100% 97.4% 93.5% 89.5% 85.6% 81.6% 77.7% 73.8% 69.8% 65.9% 61.9% 59.1% 56.3% 54.9% 53.5% 52.0% 50.6% 49.2% 47.8% 46.4% 45% 20 21 95.7% 91.5% 87.4% 83.3% 79.1% 75.0% 70.8% 66.7% 62.5% 58.4% 54.2% 51.3% 48.3% 46.8% 45.4% 45.0% 45.0% 45.0% 45.0% 45.0% 45% 21 22 89.8% 85.4% 81.0% 76.7% 72.3% 68.0% 63.6% 59.3% 54.9% 50.6% 46.2% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45% 22 23 83.6% 79.0% 74.4% 69.9% 65.3% 60.7% 56.1% 51.6% 47.0% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 23 24 77.1% 72.3% 67.5% 62.7% 57.9% 53.1% 48.3% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 24 25 70.4% 65.3% 60.3% 55.3% 50.2% 45.2% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 25 26 63.4% 58.1% 52.8% 47.5% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 26 27 56.1% 50.6% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 27 28 48.5% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 28 29 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 29 30 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 30 31 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 31
+#### §245
 
-**E16 E17 E18 E19 E20**
+**Berechnung der AHV-Ersatzrente[^hNBATAnhang2AHVE-1]**
+
+### Die AHV-Ersatzrente berechnet sich wie folgt: Jahresbruttolohn inkl. 13 Mo-
+
+natslohn und unkl. Teuerungszulagen ohne Leistungsbonus.
 
 ### Normative Bestimmungen, Besonderer Teil: I. Spitäler (NB BT Spitäler)
 
@@ -5192,45 +5196,49 @@ Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes übe
 
 **21**
 
-Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-2] (ausgenommen sind Hauswirtschaftslehrerinnen- und Arbeitslehrerinnenpatente) Sekundarstufenpatente oder Sonderpädagogik- 20 bzw. Heilpädagogik-Patente anderer Kantone Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 20 nenpatent mit Präsenzstudium als Fachvertiefung von mindestens 100 Stunden Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 17 nenpatent Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte tent Hochschulstudium ohne Abschluss oder Studie- 15 rende Berufsausbildung oder Maturität
-
-**12**
-
-<sup>2</sup> Lehrpersonen und Lehrbeauftragte für den sonder- bzw. heilpädagogischen Unterricht werden wie folgt eingereiht:
+**2**
 
 **LK**
 
-**15 12**
+Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-2] (ausgenommen sind Hauswirtschaftslehrerinnen- und Arbeitslehrerinnenpatente) Sekundarstufenpatente oder Sonderpädagogik- 20 bzw. Heilpädagogik-Patente anderer Kantone Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 20 nenpatent mit Präsenzstudium als Fachvertiefung von mindestens 100 Stunden Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 17 nenpatent Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte tent Hochschulstudium ohne Abschluss oder Studie- 15 rende Berufsausbildung oder Maturität Lehrpersonen und Lehrbeauftragte für den sonder- bzw. heilpädagogischen Unterricht werden wie folgt eingereiht:[^384-3] Kategorie Voraussetzung Lehrperso- Diplom gemäss Art. 15 des Reglementes über die 21 nen Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik) vom 12. Juni 2008[^384-4] Diplom gemäss Art. 22 des Reglementes über die 20 Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik) vom 12. Juni 2008[^384-5] Sonderpädagogik- bzw. Heilpädagogik-Patente 20 anderer Kantone Alte Diplome Früherziehung Lehrbeauf- Diplom gemäss Art. 11 des Reglementes über die 21 tragte Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-6] oder kantonales Bezirkslehrerpatent Diplom gemäss Art. 19 des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-7] oder kantonale Sekundarstufenpatente Hochschuldiplom oder Diplom gemäss Art. 10 15, und 18 des Reglements über die Anerkennung 18; von Hochschuldiplomen für Lehrkräfte der Vor- Ge schulstufe und der Primarstufe vom 10. Juni mäs
 
-Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 15 des Reglementes über die 21 Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik) vom 12. Juni 2008[^384-3] Diplom gemäss Art. 22\* des Reglementes über die 20 Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik vom 12. Juni 2008[^384-4]
-
-sowie kantonales Bezirkslehrerpatent
-
-Sonderpädagogik- bzw. Heilpädagogik-Patente 20 oder Sekundarstufenpatente anderer Kantone
+**12**
 
 **19**
 
-Altrechtliche Diplome Früherziehung
+**s**
 
-Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte tent Hochschulstudium ohne Abschluss oder Studie- 15 rende Berufsausbildung oder Maturität
+1999[^384-8] oder kantonales Primarschulpatent
 
-**12**
+**17 17**
+
+Einsatz auf der Sch ulst ufe Hochschulstudium ohne Abschluss oder Studie- 12, rende gemäs s Einsatz auf der Sch ulst ufe
+
+**9,**
+
+Berufsausbildung oder Maturität
+
+12; gemäs s Einsatz auf der Sch ulst ufe
 
 <sup>3</sup> Lehrpersonen und Lehrbeauftragte für den Primarschulunterricht werden wie folgt eingereiht:
 
 **LK**
 
-Kategorie Voraussetzung Lehrpersonen Diplom gemäss den Art. 10 und 18\* des Regle- 18 mentes über die Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom 10. Juni 1999[^384-5] Andere kantonale Primarschulpatente oder Son- 18 derpädagogik- bzw. Heilpädagogik-Patente oder Sekundarstufenpatente Arbeitslehrerinnenpatent mit Präsenzstudium als 18 Fachvertiefung von mindestens 100 Stunden Arbeitslehrerinnenpatent
+Kategorie Voraussetzung Lehrpersonen Diplom gemäss den Art. 10 und 18\* des Regle- 18 mentes über die Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom 10. Juni 1999[^384-9] Andere kantonale Primarschulpatente oder Son- 18 derpädagogik- bzw. Heilpädagogik-Patente oder Sekundarstufenpatente Arbeitslehrerinnenpatent mit Präsenzstudium als 18 Fachvertiefung von mindestens 100 Stunden Arbeitslehrerinnenpatent
 
-**17 17**
+Lehrbeauf- Kantonales Kindergärtnerinnendiplom tragte[^384-10] Hochschulstudium
 
-Lehrbeauf- Kantonales Kindergärtnerinnendiplom tragte[^384-6] Hochschulstudium
+**15 12**
 
 Hochschulstudium ohne Abschluss
 
 oder Studierende Berufsausbildung oder Maturität
 
-<sup>4</sup> …[^384-7]
+**15;**
+
+**9**
+
+<sup>4</sup> …[^384-11]
 
 <sup>5</sup> Lehrpersonen und Lehrbeauftragte für den Kindergartenunterricht werden wie folgt eingereiht (ab 1. August 2012):
 
@@ -5238,7 +5246,7 @@ oder Studierende Berufsausbildung oder Maturität
 
 Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 10 des Reglementes über die 18 Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom
 
-\10. Juni 1999[^384-8] oder Primarschulpatent
+\10. Juni 1999[^384-12] oder Primarschulpatent
 
 Kindergärtnerinnendiplom mit Präsenzstudium 18 als Fachvertiefung von mindestens 100 Stunden
 
@@ -5254,7 +5262,7 @@ Lehrbeauf- Hochschuldiplom tragte Hochschulstudium ohne Abschluss oder Studie- 1
 
 **LK**
 
-Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes über die 18 Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomotoriktherapie vom 3. November 2000[^384-9] Altrechtliche Diplome in Logopädie Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
+Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes über die 18 Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomotoriktherapie vom 3. November 2000[^384-13] Altrechtliche Diplome in Logopädie Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
 
 **19**
 
@@ -5264,20 +5272,22 @@ Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes übe
 
 [^384-1]: EDK Rechtssammlung 4.2.2.4.
 [^384-2]: EDK Rechtssammlung 4.2.2.4.
-[^384-3]: EDK Rechtssammlung 4.2.2.2.
+[^384-3]: § 384 Absatz 2 Fassung vom 21. Dezember 2021.
 [^384-4]: EDK Rechtssammlung 4.2.2.2.
-[^384-5]: EDK Rechtssammlung 4.2.2.3.
-[^384-6]: § 384 Absatz 3 Abschnitt «Lehrbeauftragte» Fassung vom 5. Juli 2021.
-[^384-7]: § 384 Absatz 4 aufgehoben am 26. Juni 2012.
+[^384-5]: EDK Rechtssammlung 4.2.2.2.
+[^384-6]: EDK Rechtssammlung 4.2.2.4.
+[^384-7]: EDK Rechtssammlung 4.2.2.4.
 [^384-8]: EDK Rechtssammlung 4.2.2.3.
-[^384-9]: EDK Rechtssammlung 4.2.2.5.
-[^384-10]: § 385 Fassung vom 20. Juni 2011.
+[^384-9]: EDK Rechtssammlung 4.2.2.3.
+[^384-10]: § 384 Absatz 3 Abschnitt «Lehrbeauftragte» Fassung vom 5. Juli 2021.
+[^384-11]: § 384 Absatz 4 aufgehoben am 26. Juni 2012.
+[^384-12]: EDK Rechtssammlung 4.2.2.3.
+[^384-13]: EDK Rechtssammlung 4.2.2.5.
+[^384-14]: § 385 Fassung vom 20. Juni 2011.
 
 #### § 385
 
-**9**[^384-10]
-
-**Einreihung der Stellvertretenden**
+**Einreihung der Stellvertretenden**[^384-14]
 
 <sup>1</sup> Die Entschädigung für Stellvertretungen entspricht dem Grundlohn in der jeweils massgebenden Lohnklasse. Dazu kommt der 13. Monatslohn und die Teuerungszulage.
 
@@ -6057,9 +6067,7 @@ Der Besondere Teil Berufsschule regelt die Abweichungen und Ergänzungen gegenü
 
 <sup>2</sup> Soweit das Pensum oder ein Teil davon voraussichtlich nicht für mehr als zwei Jahre sichergestellt ist, wird im unbefristeten Vertrag der gesicherte Pensenteil (Sockelpensum) und ein darüber hinausgehender Pensenrahmen von höchstens fünf Lektionen (Maximalpensum) für den nicht gesicherten Pensenteil festgelegt.
 
-<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt.
-
-§ 454<sup>bis</sup>.[^454-1] Befristete Anstellung
+<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt. § 454<sup>bis</sup>.[^454-1] Befristete Anstellung
 
 <sup>1</sup> Lehrpersonen werden soweit befristet angestellt, als mit dem Pensenrahmen die Unsicherheit in der Pensenfestlegung nicht abgedeckt werden kann.
 
@@ -6905,7 +6913,9 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 15\. Dezember 2020 am 1. Januar 2021;
 
-- 5\. Juli 2021 am 1. August 2021.
+- 5\. Juli 2021 am 1. August 2021;
+
+- 21\. Dezember 2021 am 1. Februar 2022.
 
 ## Weitere Fussnoten
 
