@@ -3,20 +3,20 @@ canton: GL
 number: IV B/1/12/2
 title: Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 language: de
-version: 2017-01-01
-valid_until: 2022-01-31
-version_adopted: 2014-03-05
+version: 2022-02-01
+valid_until: 2022-11-30
+version_adopted: 2021-10-21
 adopted: 1993-02-18
 in_force: 1995-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.1.12.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2051/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2252/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 
-Vom 18.02.1993 (Stand 01.01.2017)
+Vom 18.02.1993 (Stand 01.02.2022)
 
 (Beschlossen von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren)
 
@@ -226,27 +226,28 @@ Vom 18.02.1993 (Stand 01.01.2017)
 
 - a. Osteopathin und Osteopath mit interkantonalem Diplom GDK
 - b. Diplomierte Logopädin und diplomierter Logopäde (EDK)
-- c. Bachelor of Science FH in Ernährung und Diätetik
-- d. Bachelor/Master of Science FH in Ergotherapie
-- e. Bachelor of Science FH in Hebamme
-- f. Bachelor/Master of Science FH in Physiotherapie
-- g. Pflegefachfrau und Pflegefachmann HF
+- c. …
+- d. Master of Science FH in Ergotherapie
+- e. Master of Science FH in Hebamme
+- f. Master of Science FH in Physiotherapie
+- g. …
 - h. Aktivierungsfachfrau und Aktivierungsfachmann HF
 - i. Biomedizinische Analytikerin und biomedizinischer Analytiker HF
 - j. Dentalhygienikerin und Deantalhygieniker HF
 - k. Drogistin und Drogist HF
-- l. Fachfrau und Fachmann für medizinisch-technische Radiologie HF/Bachelor of Science HES-SO en Technique en radiologie médicale[^A11a-1]
+- l. Radiologiefachfrau und Radiologiefachmann HF
+- l1. Bachelor of Science HES-SO en technique en radiologie médicale
 - m. Fachfrau und Fachmann Operationstechnik HF
 - n. Orthoptistin und Orthoptist HF
 - o. Podologin und Podologe HF
 - p. Rettungssanitäterin und Rettungssanitäter HF
 - q. Medizinische Masseurin und medizinischer Masseur mit eidg. Fachausweis
 - r. Augenoptikerin und Augenoptiker HFP
-- s. Bachelor/Master of Science FH in Pflege / Master of Science in Nursing[^A11a-2]
-- t. Bachelor/Master of Science FH in Optometrie
-
-[^A11a-1]: Bis zum Beginn des Wintersemesters 2014/15 befristet bewilligter, z.Zt. ausschliesslich an der Fachhochschule Westschweiz (HES-SO) angebotener Studiengang.
-[^A11a-2]: Institut für Pflegewissenschaft, Medizinische Fakultät der Universität Basel.
+- s. Master of Science FH in Pflege / Master of Science in Nursing
+- t. …
+- u. Naturheilpraktikerin und Naturheilpraktiker mit eidgenössischem Diplom
+- v. Augenoptikerin und Augenoptiker EFZ mit kantonaler Berufsausübungsbewilligung
+- w. Podologin und Podologe EFZ mit kantonaler Berufsausübungsbewilligung
 
 Datum des Inkrafttretens: 1. Januar 1995
 
