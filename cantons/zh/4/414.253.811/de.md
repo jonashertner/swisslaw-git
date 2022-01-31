@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.811"
 title: "Studienordnung für die Bachelorstudiengänge Angewandtes Recht, Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2021-11-01"
-nachtrag: "115"
-valid_until: 2022-02-01
+version: "2022-02-01"
+nachtrag: "116"
+valid_until: 2023-01-01
 adopted: 2009-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_811-2009_01_29-2009_06_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_811-2009_01_29-2009_06_01-116.html"
 text: pdf
 ---
 
@@ -25,11 +25,11 @@ beschliesst:
 
 [^t-1]: Fassung gemäss B vom 20. August 2020 (OS 76, 384; ABl 2021-07-23). In Kraft seit 1. November 2021.
 [^t-2]: OS 64, 168. Vom Fachhochschulrat genehmigt am 24. März 2009.
-[^t-3]: LS 414.252.3. 1. 1. 22 - 115 7
+[^t-3]: LS 414.252.3. 1. 4. 22 - 116 7
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 1. 22 - 115 7
+[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 4. 22 - 116 7
 
 #### § 1
 
@@ -55,19 +55,19 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Vertiefungen
 
 - a. Accounting, Controlling, Auditing,
 
-- b. Banking and Finance,
+- b. Banking and Finance, c.[^3-1] Behavioral Design,
 
-- c. Economics and Politics,
+- d. Economics and Politics,
 
-- d. General Management,
+- e. General Management,
 
-- e. Marketing,
+- f. Marketing,
 
-- f. Risk and Insurance.
+- g. Risk and Insurance.
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 22 - 116
 
 <sup>3</sup> Der Studiengang Wirtschaftsinformatik kann in den folgenden Vertiefungen durchgeführt werden:
 
@@ -75,13 +75,14 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Vertiefungen
 
 - b. Data Science.
 
-[^3-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^3-1]: Eingefügt durch B vom 8. Juli 2021 (OS 77, 14; ABl 2021-10-29). In Kraft seit 1. Februar 2022.
+[^3-2]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 #### § 4
 
 **Studienform**
 
-<sup>1</sup> Die Bachelorstudiengänge können als Vollzeit- und als Teilzeitstudium geführt werden.[^3-1]
+<sup>1</sup> Die Bachelorstudiengänge können als Vollzeit- und als Teilzeitstudium geführt werden.[^3-2]
 
 <sup>2</sup> Ein Wechsel vom Vollzeitstudium ins Teilzeitstudium und umgekehrt ist erst nach bestandenem Assessment möglich.
 
@@ -184,7 +185,7 @@ Der Beginn des Hauptstudiums in einer Vertiefung setzt das Bestehen des Assessme
 <sup>3</sup> Nicht bestandene Module der Modulgruppe des Hauptstudiums können nur nach Nichtbestehen des gesamten Hauptstudiums wiederholt werden.
 
 [^14-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
-[^14-2]: LS 414.252.3. 1. 1. 22 - 115 7
+[^14-2]: LS 414.252.3. 1. 4. 22 - 116 7
 
 #### § 16
 
@@ -194,7 +195,7 @@ Ein Wechsel der Vertiefung nach Beginn des Hauptstudiums richtet sich sinngemäs
 
 **3**
 
-- 1\. 1. 22 - 115 § 17. <sup>1</sup> Das Hauptstudium ist bestanden, wenn
+- 1\. 4. 22 - 116 § 17. <sup>1</sup> Das Hauptstudium ist bestanden, wenn
 
 **Abschluss**
 
@@ -312,7 +313,7 @@ Studierende, die ihr Studium vor dem Herbstsemester 2009/ 2010 aufgenommen haben
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Studierende im Teilzeitstudium, die im Frühlingssemester 2010 das Assessment einmal nicht bestanden haben, wiederholen das Assessment nach dieser Studienordnung. Die Studien- und Prüfungsordnung der Zürcher Hochschule Winterthur vom 8. Juni 2006 bleibt im dritten Semester der Assessmentstufe (Herbstsemester 2009/2010) anwendbar.
 
@@ -407,7 +408,7 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **9**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 22 - 116
 
 ## Weitere Fussnoten
 
