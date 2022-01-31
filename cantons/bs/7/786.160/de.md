@@ -1,24 +1,24 @@
 ---
 canton: BS
 number: "786.160"
-title: Verordnung über Abfallgebühren
+title: Verordnung über Abfallgebühren der Stadt Basel
 language: de
-version: 2013-01-01
-valid_until: 2022-01-31
-version_adopted: 2012-07-07
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-01-11
 adopted: 1993-05-11
 in_force: 1993-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/786.160"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3589/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5428/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über Abfallgebühren
+# Verordnung über Abfallgebühren der Stadt Basel
 
 Abfallgebühren: Verordnung | Abfallbeseitigung[^t-1]
 
-Vom 11. Mai 1993 (Stand 1. Januar 2013)
+Vom 11. Mai 1993 (Stand 1. Februar 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -30,79 +30,157 @@ beschliesst:
 [^ingress-1]: SG [780.100](https://www.gesetzessammlung.bs.ch/data/780.100/de).
 [^ingress-2]: SG [153.800](https://www.gesetzessammlung.bs.ch/data/153.800/de).
 
-## I. Gebühren für die Kehrichtabfuhr der Stadt Basel
+## I.
 
-### 1. Sackgebühren
+### 1.
 
 #### § 1
 
-<sup>1</sup> Für die Beseitigung nicht verwertbarer Siedlungsabfälle gelangen in der Stadt Basel gebührenpflichtige Abfallsäcke zum Einsatz.
+**Kehricht**
+
+<sup>1</sup> Für die Entsorgung von nicht verwertbaren Siedlungsabfällen gelangen gebührenpflichtige Abfallsäcke zum Einsatz.
+
+<sup>1<sup>bis</sup></sup> Für die Siedlungsabfälle Sperrgut, unbrennbare Abfälle und Asche gilt § 3.
 
 <sup>2</sup> Es werden folgende Gebühren erhoben (einschliesslich Herstellungs- und Vertriebskosten sowie Mehrwertsteuer):
 
 <table>
-<tr><th>Sackinhalt</th><th>Gebühr pro Sack</th></tr>
-<tr><td>17 Liter</td><td>CHF 1.20</td></tr>
-<tr><td>35 Liter</td><td>CHF 2.30</td></tr>
-<tr><td>60 Liter</td><td>CHF 3.30</td></tr>
+<tr><th>Sackvolumen (Liter)</th><th>Gebühr pro Sack</th></tr>
+<tr><td>10</td><td>Fr. 0.70</td></tr>
+<tr><td>17</td><td>Fr. 1.20</td></tr>
+<tr><td>35</td><td>Fr. 2.30</td></tr>
+<tr><td>60</td><td>Fr. 3.30</td></tr>
 </table>
 
 <sup>3</sup> Das Departement für Wirtschaft, Soziales und Umwelt legt die Wiederverkäuferrabatte fest.
 
-### 2. Container
+#### § 1a
+
+**Wertstoffe**
+
+<sup>1</sup> Für die Entsorgung von Wertstoffen können gebührenpflichtige Sammelsäcke eingesetzt werden.
+
+<sup>2</sup> Es werden folgende Gebühren erhoben (einschliesslich Herstellungs- und Vertriebskosten sowie Mehrwertsteuer):
+
+<table>
+<tr><th>Wertstoff</th><th>Sammelsystem</th><th>Sackvolumen</th><th>Gebühr pro Sack</th></tr>
+<tr><td>Rüst- und Speiseabfälle</td><td>Bioklappen</td><td>10 Liter</td><td>Fr. 0.55</td></tr>
+</table>
+
+### 2.
 
 #### § 2
 
-<sup>1</sup> Für die Entsorgung der Abfälle in Containern sind Gebühren für die Übergabe der Abfälle an die Kehrichtverwertungsanlage (KVA) Basel zu entrichten. Es gilt die Tarifstufe III gemäss § 2 des Gebührentarifs der IWB Industrielle Werke Basel betreffend die Entgegennahme von Abfällen zur Verbrennung in der Kehrichtverwertungsanlage (KVA).
+**Container**
 
-<sup>2</sup> Die Gebühren für die Sammlung von Abfällen in Containern werden in Form folgender Zuschläge zu den Gebühren gemäss Abs. 1 entrichtet:
+<sup>1</sup> Für die Entsorgung von brennbaren Abfällen in Containern, die nach Gewicht abgerechnet werden, sind Gebühren für die Übergabe der Abfälle an die Kehrichtverwertungsanlage (KVA) Basel zu entrichten. Es gilt die Tarifstufe III gemäss § 2 des Gebührentarifs der IWB Industrielle Werke Basel betreffend die Entgegennahme von Abfällen zur Verbrennung in der Kehrichtverwertungsanlage (KVA).
+
+<sup>1<sup>bis</sup></sup> Für die Entsorgung von Grünabfällen in Containern, die nach Gewicht abgerechnet werden, sind Gebühren für die Übergabe der Wertstoffe an die Kompostier- und Vergärungsanlage zu entrichten.
+
+<sup>2</sup> Die Gebühren für die Sammlung von Abfällen in Containern werden in Form folgender Zuschläge zu den Gebühren gemäss Abs. 1 und 1<sup>bis</sup> entrichtet:
 
 <table>
-<tr><th>Containerinhalt</th><th>Zuschlag der Sammlung (exkl. MWSt.)</th></tr>
-<tr><td>140 l</td><td>CHF 5</td></tr>
-<tr><td>240 l</td><td>CHF 6</td></tr>
-<tr><td>350 l / 400 l</td><td>CHF 9</td></tr>
-<tr><td>600 l</td><td>CHF 13</td></tr>
-<tr><td>800 l</td><td>CHF 15</td></tr>
+<tr><th>Containervolumen (Liter)</th><th>Zuschlag der Sammlung (exkl. MWSt.)</th></tr>
+<tr><td>bis 140</td><td>Fr. 5</td></tr>
+<tr><td>bis 240</td><td>Fr. 6</td></tr>
+<tr><td>bis 360</td><td>Fr. 9</td></tr>
+<tr><td>bis 600</td><td>Fr. 13</td></tr>
+<tr><td>bis und ab 770</td><td>Fr. 15</td></tr>
 </table>
 
-<sup>3</sup> Die Gebühren für die Beseitigung von Abfällen in Containern mit deutlich geringerem Abfuhraufwand pro Behälter (z.B. mehrere Behälter zur Bereitstellung) können vom Tiefbauamt entsprechend dem Minderaufwand reduziert werden.
+<sup>3</sup> Die Gebühren für die Beseitigung von Abfällen in Containern mit deutlich geringerem Abfuhraufwand pro Gebinde (z.B. mehrere Gebinde zur Bereitstellung) können vom Tiefbauamt entsprechend dem Minderaufwand reduziert werden.
 
-### 3. Sperrgut und Asche
+### 3.
 
 #### § 3
 
-<sup>1</sup> Die Gebühren für brennbares Sperrgut sind in Form von Sperrgutvignetten zu entrichten: 1 Vignette à CHF 4.50 pro 10 kg. Vorbehalten bleibt die Bezahlung mit Containergebühren nach § 2.
+**Sperrgut, Asche und unbrennbare Abfälle**
 
-<sup>2</sup> Die Gebühren für Asche und Schlacke in Eimern sind in Form von Sperrgutvignetten zu entrichten: 1 Vignette à CHF 4.50 pro Eimer (max. 35 l).
+<sup>1</sup> Die Gebühren für die Abfuhr von brennbarem Sperrgut sind in Form von Gebührenvignetten zu entrichten. Vorbehalten bleibt die Abfuhr mit Containern nach § 2.
 
-<sup>3</sup> Grössere Mengen können nach Gewicht entsorgt werden. Dafür gilt die Tarifstufe III gemäss § 2 des Gebührentarifs der IWB Industrielle Werke Basel betreffend die Entgegennahme von Abfällen zur Verbrennung in der Kehrichtverwertungsanlage (KVA) zuzüglich des Aufwands für Sammlung und Transport.
+<sup>1<sup>bis</sup></sup> Die Gebühren für Asche und Schlacke in Eimern sind in Form von Gebührenvignetten zu entrichten.
+
+<sup>1<sup>ter</sup></sup> Die Gebühren für die Abfuhr von unbrennbaren Abfällen sind in Form von Gebührenvignetten zu entrichten.
+
+<sup>2</sup> Es werden Gebühren nach Abs. 2<sup>bis</sup> bis 2<sup>quater</sup> erhoben (einschliesslich Herstellungs- und Vertriebskosten sowie Mehrwertsteuer).
+
+<sup>2<sup>bis</sup></sup> Sperrgut. Maximal 20 kg.
+
+<table>
+<tr><th>Gewicht</th><th>Anzahl Gebührenvignetten</th></tr>
+<tr><td>pro 10 kg</td><td>1 zu Fr. 4.50</td></tr>
+</table>
+
+<sup>2<sup>ter</sup></sup> Asche. Maximal 35 Liter.
+
+<table>
+<tr><th>Einheit</th><th>Anzahl Gebührenvignetten</th></tr>
+<tr><td>pro Eimer</td><td>1 zu Fr. 4.50</td></tr>
+</table>
+
+<sup>2<sup>quater</sup></sup> Unbrennbare Abfälle. Maximal 20 kg.
+
+<table>
+<tr><th>Gewicht</th><th>Anzahl Gebührenvignetten</th></tr>
+<tr><td>pro 10 kg</td><td>1 zu Fr. 4.50</td></tr>
+</table>
+
+<sup>3</sup> …
 
 <sup>4</sup> Das Departement für Wirtschaft, Soziales und Umwelt kann pro Haushalt und Jahr bis zu zwei Gratis-Sperrgutvignetten abgeben.
 
-## II. Gebühren für die Grünabfuhr der Stadt Basel
+## II.
 
 #### § 4
 
-<sup>1</sup> Die Gebühren für die Abfuhr kompostierbarer Abfälle sind in Form folgender Grünabfuhrstreifen zu entrichten, soweit sie nicht nach Gewicht nach § 2 Abs. 1 und 2[^4-1] eintrichtet werden:
+**Grünabfuhr**
+
+<sup>1</sup> Für die Entsorgung von Grünabfällen werden Gebührenvignetten verwendet, soweit die Grünabfälle nicht in Containern nach Gewicht nach § 2 Abs. 1 und 2 entsorgt werden.
 
 <table>
-<tr><td>a) Bereitstellung in Bündeln oder offenen Behältern</td><td>Masse und Inhalt</td><td>Grünabfuhrvignetten à CHF 3</td></tr>
-<tr><td></td><td>bis 200 × 50 cm oder 60 l</td><td>1</td></tr>
-<tr><td></td><td>bis 200 × 100 cm oder 120 l</td><td>2</td></tr>
-<tr><td>b) Bereitstellung in Containern</td><td>Containerinhalt</td><td>Grünabfuhrvignetten à CHF 14</td></tr>
-<tr><td></td><td>bis 350 l</td><td>1</td></tr>
-<tr><td></td><td>bis 600 l</td><td>2</td></tr>
-<tr><td></td><td>bis 800 l</td><td>3</td></tr>
+<tr><td>a) Bereitstellung in Bündeln oder offenen Behältern</td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
+<tr><td>b) Bereitstellung in Containern</td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
 </table>
 
-[^4-1]: § 4 Einleitungssatz: Verweis redaktionell berichtigt.
+<sup>2</sup> Es werden Gebühren nach Abs. 3 bis 5 erhoben (einschliesslich Herstellungs- und Vertriebskosten sowie Mehrwertsteuer).
+
+<sup>3</sup> Bereitstellung in Bündeln. Gewicht maximal 20 kg.
+
+<table>
+<tr><th>Masse Länge x Umfang (cm)</th><th>Anzahl Gebührenvignetten</th></tr>
+<tr><td>bis 200 x 50</td><td>1 zu Fr. 3</td></tr>
+<tr><td>bis 200 x 100</td><td>2 zu Fr. 3</td></tr>
+</table>
+
+<sup>4</sup> Bereitstellung in Behältern/Tragtaschen. Gewicht maximal 20 kg.
+
+<table>
+<tr><th>Volumen (Liter)</th><th>Anzahl Gebührenvignetten</th></tr>
+<tr><td>bis 60</td><td>1 zu Fr. 3</td></tr>
+<tr><td>bis 120</td><td>2 zu Fr. 3</td></tr>
+<tr><td>bis 180</td><td>3 zu Fr. 3</td></tr>
+</table>
+
+<sup>5</sup> Bereitstellung in Containern
+
+<table>
+<tr><th>Volumen (Liter)</th><th>Anzahl Gebührenvignetten</th></tr>
+<tr><td>bis 140</td><td>2 zu Fr. 3</td></tr>
+<tr><td>bis 240</td><td>3 zu Fr. 3</td></tr>
+<tr><td>bis 360</td><td>1 zu Fr. 14</td></tr>
+<tr><td>bis 800</td><td>2 zu Fr. 14</td></tr>
+</table>
 
 #### § 5
 
-<sup>1</sup> Das Amt für Umwelt und Energie kann für die Bezahlung der Entsorgung in bar oder auf Rechnung eine Bearbeitungsgebühr von CHF 5 einfordern. Bei grösseren Aufwendungen kann diese Gebühr verdoppelt werden.
+<sup>1</sup> …
 
-## III. Gebühren der Kehrichtverbrennungsanlagen
+## III.
 
 #### § 6
 
@@ -124,33 +202,19 @@ beschliesst:
 
 **…**
 
-## IV. Gebühr bei Widerhandlungen
+## IV.
 
 #### § 7
 
-<sup>1</sup> Die Gebühr für die Ermittlung des Verursachers und die Entsorgung nicht ordnungsgemäss bereitgestellten Abfalls beträgt CHF 200.
+**…**
 
-<sup>2</sup> Die Gebühr für Beanstandungen, Mahnungen oder Verwarnungen an Verursacher von unzeitig bereitgestellten Abfallsäcken und Containern beträgt CHF 100.
-
-<sup>3</sup> Das Amt für Umwelt und Energie kann in begründeten Fällen die Gebühr reduzieren.
-
-## V. Mahngebühren
+## V.
 
 #### § 8
 
-<sup>1</sup> Die Zahlungsfrist von Gebühren beträgt 30 Tage.
+**…**
 
-<sup>2</sup> Nach Ablauf der Zahlungsfrist kann ein Verzugszins von 5% erhoben werden.
-
-<sup>3</sup> Für nicht rechtzeitig bezahlte Gebühren können Mahngebühren und Umtriebsgebühren für Inkassomassnahmen erhoben werden.
-
-Diese betragen:
-
-- a) erste Mahnung — gratis
-- b) Mahngebühren ab zweiter Mahnung — je CHF 40
-- c) Umtriebsgebühr für Inkassomassnahmen — CHF 50
-
-<sup>4</sup> Vorbehalten bleibt die Einforderung weiterer Gebühren im Zusammenhang mit Betreibungsverfahren.
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren; sie wird am 1. Juli 1993 wirksam.
 
