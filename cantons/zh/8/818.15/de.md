@@ -3,10 +3,10 @@ canton: ZH
 number: "818.15"
 title: Rahmenverordnung über die Durchführung von Online-Prüfungen an der Universität Zürich während der Covid-19-Pandemie (Covid-19-RVO Online-Prüfungen)
 language: de
-nachtrag: "111"
-valid_until: 2022-02-01
+version: "2022-02-01"
+nachtrag: "116"
 adopted: 2020-12-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-818_15-2020_12_07-2021_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-818_15-2020_12_07-2021_01_01-116.html"
 text: pdf
 ---
 
@@ -22,7 +22,7 @@ gestützt auf § 29 Abs. 5 Ziff. 1 des Universitätsgesetzes vom 15. März 1998[
 
 beschliesst:
 
-[^t-1]: OS 75, 661; Begründung ABl 2020-12-11.
+[^t-1]: OS 75, 661; Begründung siehe ABl 2020-12-11.
 [^t-2]: Inkrafttreten: 1. Januar 2021.
 [^t-3]: LS 415.11.
 
@@ -60,7 +60,7 @@ Die Durchführung von Prüfungen im Rahmen dieser Verordnung dient insbesondere 
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Sie sorgen für eine stabile und ausreichend leistungsfähige Internetverbindung, wenn die Online-Prüfung ausserhalb der UZH stattfindet.
 
@@ -86,8 +86,6 @@ Die Durchführung von Prüfungen im Rahmen dieser Verordnung dient insbesondere 
 
 <sup>3</sup> Den Studierenden wird vor der Prüfung ausreichend Gelegenheit gegeben, sich mit dem System von Online-Prüfungen vertraut zu machen.
 
-#### § 6
+§ 6.[^5-1]
 
-**Inkrafttreten und Geltungsdauer**
-
-Diese Rahmenverordnung tritt am 1. Januar 2021 in Kraft und gilt bis zum Herbstsemester 2021 einschliesslich der dazugehörigen Prüfungsperiode.
+[^5-1]: Aufgehoben durch URB vom 8. November 2021 (OS 77, 58; ABl 2021-11-19). In Kraft seit 1. Februar 2022.
