@@ -3,13 +3,13 @@ canton: FR
 number: "780.22"
 title: "Règlement concernant l'octroi d'autorisations cantonales pour le transport des voyageurs"
 language: fr
-version: 2012-01-01
-valid_until: 2022-01-31
-version_adopted: 2011-12-06
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 1999-11-03
 in_force: 2000-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/780.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5404/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7360/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5404/pdf_file"
 
 Transport des voyageurs, autorisations cantonales – R
 
-du 03.11.1999 (version entrée en vigueur le 01.01.2012)
+du 03.11.1999 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -137,7 +137,7 @@ Arrête:
 
 **Recours**
 
-<sup>1</sup> Les décisions du Service peuvent faire l'objet d'un recours à la Direction de l'aménagement, de l'environnement et des constructions, dans les trente jours dès leur communication.
+<sup>1</sup> Les décisions du Service peuvent faire l'objet d'un recours à la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement, dans les trente jours dès leur communication.
 
 ## 3 Dispositions transitoires et finales
 

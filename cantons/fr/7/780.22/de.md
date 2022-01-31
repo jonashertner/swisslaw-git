@@ -3,13 +3,13 @@ canton: FR
 number: "780.22"
 title: Reglement über die kantonalen Bewilligungen für die Personenbeförderung
 language: de
-version: 2012-01-01
-valid_until: 2022-01-31
-version_adopted: 2011-12-06
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 1999-11-03
 in_force: 2000-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/780.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/5404/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7360/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5404/pdf_file"
 
 Personenbeförderung, kantonale Bewilligungen – R
 
-vom 03.11.1999 (Fassung in Kraft getreten am 01.01.2012)
+vom 03.11.1999 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -137,7 +137,7 @@ beschliesst:
 
 **Beschwerden**
 
-<sup>1</sup> Die Entscheide des Amts können innerhalb von dreissig Tagen nach Eröffnung mit Beschwerde an die Raumplanungs-, Umwelt- und Baudirektion angefochten werden.
+<sup>1</sup> Die Entscheide des Amts können innerhalb von dreissig Tagen nach Eröffnung mit Beschwerde an die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt angefochten werden.
 
 ## 3 Übergangs- und Schlussbestimmungen
 
