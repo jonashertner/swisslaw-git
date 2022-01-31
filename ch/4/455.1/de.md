@@ -4,11 +4,11 @@ title: Tierschutzverordnung vom 23. April 2008 (TSchV)
 short: TSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: de
-version: 2020-07-14
+version: 2022-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20200714/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20200714-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20200714/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20220201/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20220201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20200714/de"
 
 (TSchV)
 
-vom 23. April 2008 (Stand am 14. Juli 2020)
+vom 23. April 2008 (Stand am 1. Februar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -35,7 +35,7 @@ verordnet:
 
 **Gegenstand**
 
-Diese Verordnung regelt den Umgang mit Wirbeltieren, Kopffüssern *(Cephalopoda)* und Panzerkrebsen *(Reptantia)*, ihre Haltung und Nutzung sowie Eingriffe an ihnen.
+Diese Verordnung regelt den Umgang mit Wirbeltieren, Kopffüssern *(Cephalop**o**da)* und Panzerkrebsen *(Reptantia)*, ihre Haltung und Nutzung sowie Eingriffe an ihnen.
 
 #### Art. 2
 
@@ -83,10 +83,10 @@ Im Sinne dieser Verordnung gelten als:
   - 3\. *von anderen Tieren:* der gewerbsmässige Einsatz eines Produkts oder einer Verhaltenseigenschaft des Tieres;
 
 - p.[^2-2] *Equiden:* die domestizierten Tiere der Pferdegattung, das heisst Pferde, Ponys, Esel, Maultiere und Maulesel;
-- q.[^2-3] ...
+- q.[^2-3] …
 - r. *Rinder:* domestizierte Tiere der Rindergattung einschliesslich Yaks und Wasserbüffel;
 - s. *Tierheim:* Tierhaltung, in der Tiere in Pension genommen werden oder Verzichttiere und herrenlose Tiere betreut werden;
-- t.[^2-4] *Informationssystem E-Tierversuche:* Informationssystem nach der Verordnung vom 1. September 2010[^2-5] über das elektronische Informationssystem zur Verwaltung der Tierversuche;
+- t.[^2-4] *Informationssystem Animex-ch*: Informationssystem nach der Animex-ch-Verordnung vom 1. September 2010[^2-5];
 - u.[^2-6] *BLV:* Bundesamt für Lebensmittelsicherheit und Veterinärwesen;
 - v.[^2-7] *gentechnisch veränderte Tiere:* Tiere, deren genetisches Material in den Keimzellen durch gentechnische Verfahren nach Anhang 1 der Einschliessungsverordnung vom 9. Mai 2012[^2-8] so verändert worden ist, wie dies unter natürlichen Bedingungen durch Kreuzen oder natürliche Rekombination nicht vorkommt;
 - w.[^2-9] *Panzerkrebse:* Krebstiere der Unterordnung *Pleocyemata*, ausgenommen der Teilordnungen *Stenopodidea* und *Caridea*.
@@ -98,7 +98,7 @@ Im Sinne dieser Verordnung gelten als:
 [^2-1]: Ausdruck gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^2-2]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^2-3]: Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-4]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^2-4]: Fassung gemäss Ziff. III 1 der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 [^2-5]: [SR 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
 [^2-6]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^2-7]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
@@ -107,7 +107,7 @@ Im Sinne dieser Verordnung gelten als:
 
 ## 2. Kapitel: Tierhaltung und Umgang mit Tieren
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+### 1. Abschnitt: Allgemeine Bestimmungen****
 
 [^chap2-sec1-1]
 
@@ -442,7 +442,7 @@ Bei Fischen und Panzerkrebsen sind zudem verboten:
 
 Verboten sind zudem:
 
-- a. das Amputieren der Krallen von Hauskatzen und anderen Katzenartigen *(Felidae)*;
+- a. das Amputieren der Krallen von Hauskatzen und anderen Katzenartigen *(F**e**lidae)*;
 - b. operative Eingriffe zur Erleichterung der Haltung von Heimtieren, wie Zahnresektion, Coupieren der Flügel oder Entfernen von Sekretdrüsen; ausgenommen sind Eingriffe zur Verhütung der Fortpflanzung oder das Entfernen der Afterkrallen;
 - c. die Ständerhaltung von Papageienartigen und die Haltung von Gesangskanarien in Harzerbauern;
 - d. die Verwendung von Sandhülsen als Überzug von Sitzstangen für Vögel;
@@ -526,7 +526,7 @@ Es sind anzugeben:
 - a. für Hunde, Katzen und Grosspapageien: Name, Identifikation und Geburts- oder Schlüpfdatum sämtlicher Zuchttiere und Nachkommen; Abgänge soweit bekannt mit Ursache;
 - b. für die übrigen Tierarten: Anzahl und Herkunft der Zuchttiere, Geburts- oder Schlüpfdatum und, soweit bekannt, Anzahl der Jungtiere; Abgänge soweit bekannt mit Ursache.
 
-### 5. Abschnitt: Umgang mit Tieren an Veranstaltungen
+### 5. Abschnitt:**** Umgang mit Tieren an Veranstaltungen
 
 [^chap2-sec5-1]
 
@@ -1281,7 +1281,7 @@ Tierärztinnen und Tierärzte, Ärztinnen und Ärzte, Tierheimverantwortliche, H
 
 <sup>1</sup> Die zuständige kantonale Stelle überprüft nach Eingang einer Meldung den Sachverhalt. Dazu kann sie Sachverständige beiziehen.
 
-<sup>2</sup> ...[^79-1]
+<sup>2</sup> …[^79-1]
 
 <sup>3</sup> Ergibt die Überprüfung, dass ein Hund eine Verhaltensauffälligkeit, insbesondere ein übermässiges Aggressionsverhalten, zeigt, so ordnet die zuständige kantonale Stelle die erforderlichen Massnahmen an.
 
@@ -1432,7 +1432,7 @@ Das private Halten folgender Wildtiere ist bewilligungspflichtig:
 - c. Schnabeltier, Schnabeligel; Gürteltiere; Ameisenbären; Stachelschweine; Faultiere, Schuppentiere;
 - d. Schuhschnabel, Kiwis, Laufvögel, Pinguine, Pelikane, Kormorane, Schlangenhalsvögel, Stelzvögel, Flamingos, Kraniche, Sumpf- und Strandvögel; Grosspapageien (Aras und Kakadus); alle Greife, Sekretär; Nachtschwalben, Seeschwalben; Kolibris, Trogons, Nashornvögel, Nektarvögel, Paradiesvögel; Tropikvögel; Seetaucher, Lappentaucher, Alken, Tölpel, Fregattvögel; Grosstrappen; Segler;
 - e. Fische, die in Freiheit mehr als 1 m lang werden, ausgenommen einheimische Arten nach der Fischereigesetzgebung; Haie und Rochen;
-- f.[^89-2] Meeresschildkröten (*Cheloniidae, Dermochelyidae*); Galapagos- und Seychellen-Riesenschildkröten (*Chelonoidis nigra*, *Dipsochelys* spp.); Spornschildkröte (*Geochelone [Centrochelys] sulcata*); Alligatorschildkröten (*Chelydridae*), Schlangenhalsschildkröten (*Chelidae*), Pelomedusenschildkröten (*Pelomedusiae*); grosse Weichschildkröten (*Amyda cartilaginea*, *Aspideretes nigricans, Chitra* spp., *Pelochelys* spp., *Rafetus* spp., *Trionyx triunguis*); grosse Schienenschildkröten (*Podocnemis expansa*); grosse asiatische Flussschildkröten (*Batagur borneensis*, *Orlitia borneensis*); alle Krokodilartigen (*Crocodylia*); Brückenechsen (*Sphenodon* spp.); Drusenköpfe (*Conolophus* spp.), Meerechsen (*Amblyrhynchus cristatus*); Leguane, Tejus und Warane, die erwachsen eine Gesamtlänge von mehr als 1 m erreichen, Mitchells Waran (*Varanus mitchelli*), Rostkopfwaran (*Varanus semiremex*); Krustenechsen (*Heloderma*); alle Chamäleons (*Chamaeleonidae*); Segelechsen (*Hydrosaurus* spp.); Flugdrachen (*Draco* spp), Dornteufel (*Moloch* *horridus*); Riesenschlangen, die erwachsen mehr als 3 m lang werden, ausgenommen Königsboa (*Boa constrictor*);
+- f.[^89-2] Meeresschildkröten (*Cheloniidae, Dermochelyidae*); Galapagos- und Seychellen-Riesenschildkröten (*Chelonoidis nigra*, *Dipsochelys* spp.); Spornschildkröte (*Geochelone [Centrochelys] sulcata*); Alligatorschildkröten (*Chelydridae*), Schlangenhalsschildkröten (*Chelidae*), Pelomedusenschildkröten (*Pelomedusiae*); grosse Weichschildkröten (*Amyda cartilaginea*, *Aspideretes nigricans, Chitra* spp., *Pelochelys* spp., *Rafetus* spp., *Trionyx triunguis*); grosse Schienenschildkröten (*Podocnemis expansa*); grosse asiatische Flussschildkröten (*Batagur borneensis*, *Orlitia borneensis*); alle Krokodilartigen (*Crocodylia*); Brückenechsen (*Sphenodon* spp.); Drusenköpfe (*Conolophus* spp.), Meerechsen (*Amblyrhynchus cristatus*); Leguane, Tejus und Warane, die erwachsen eine Gesamtlänge von mehr als 1 m erreichen, Mitchells Waran (*Varanus mitchelli*), Rostkopfwaran (*Varanus semiremex*); Krustenechsen (*Heloderma*); alle Chamäleons (*Chamaeleonidae*); Segelechsen (*Hydrosaurus* spp.); Flugdrachen (*Draco* spp), Dornteufel (*Moloch horridus*); Riesenschlangen, die erwachsen mehr als 3 m lang werden, ausgenommen Königsboa (*Boa constrictor*);
 - g. Goliathfrosch; Riesensalamander;
 - h.[^89-3] Schlangen, die über einen Giftapparat verfügen und das Gift einsetzen können (Giftschlangen), ausgenommen die vom BLV in einer Verordnung festgelegten ungefährlichen Giftschlangen.
 
@@ -1621,7 +1621,7 @@ Die maximale Dauer der Bewilligung beträgt:
 
 [^100-1]: [SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
 
-## 5. Kapitel: Gewerbsmässiger Umgang mit Tieren
+## 5. Kapitel:**** Gewerbsmässiger Umgang mit Tieren
 
 [^chap5-1]
 
@@ -1649,7 +1649,7 @@ Eine kantonale Bewilligung benötigt, wer:[^101-1]
   - 6\. 100 Reptilien,
   - 7\. die Nachzucht von mehr als fünfundzwanzig Vogelpaaren bis zur Grösse eines Nymphensittichs, von mehr als zehn Vogelpaaren, die grösser als Nymphensittiche sind, oder von mehr als fünf Ara- oder Kakadupaaren;
 
-- d.[^101-2] ...
+- d.[^101-2] …
 - e. gewerbsmässig Klauenpflege für Rinder oder Hufpflege für Equiden durchführt, ohne über eine Ausbildung nach Artikel 192 Absatz 1 Buchstabe a zu verfügen.
 
 [^101-1]: Die Berichtigung vom 9. April 2015 betrifft nur den französischen Text ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
@@ -1710,7 +1710,7 @@ In den folgenden Fällen genügt es, wenn die für die Tierbetreuung verantwortl
 
 - a. in Tierheimen mit maximal 19 Pflegeplätzen;
 - b.[^102-2] bei anderer gewerbsmässiger Betreuung von höchstens 19 Tieren;
-- c. und d.[^102-3] ...
+- c. und d.[^102-3] …
 
 <sup>3</sup> In Tierheimen mit maximal 5 Pflegeplätzen oder bei anderer gewerbsmässiger Betreuung von höchstens 5 Tieren genügt es, wenn die für die Tierbetreuung verantwortliche Person über die für die Haltung der betreuten Tierarten verlangte Ausbildung verfügt.
 
@@ -2259,7 +2259,7 @@ Unzulässig sind belastende Tierversuche:
 
 **Bewilligungsverfahren**
 
-<sup>1</sup> Das Gesuch um die Bewilligung eines Tierversuchs ist über das Informationssystem E-Tierversuche einzureichen. Die kantonale Behörde kann in begründeten Fällen Gesuche nach der Formularvorlage des BLV in Papierform zulassen.
+<sup>1</sup> Das Gesuch um die Bewilligung eines Tierversuchs ist über das Informationssystem Animex-ch[^139-1] einzureichen. Die kantonale Behörde kann in begründeten Fällen Gesuche nach der Formularvorlage des BLV in Papierform zulassen.
 
 <sup>1bis</sup>
 
@@ -2269,7 +2269,7 @@ Das Gesuch muss für jeden Tierversuch enthalten:
 - b. das Fachgebiet;
 - c. den Versuchszweck nach international anerkannter Einteilung;
 - d. die geplante Anzahl Tiere pro Tierart; und
-- e. den voraussichtlichen Schweregrad der Belastung.[^139-1]
+- e. den voraussichtlichen Schweregrad der Belastung.[^139-2]
 
 <sup>2</sup> Betrifft ein Tierversuch, durch Änderung des Aufenthaltsorts der Tiere während des Versuchs oder bei Feldstudien, mehrere Kantone, so ist das Gesuch bei der Behörde des Kantons einzureichen, in dem der Versuch hauptsächlich stattfindet. Diese informiert alle anderen betroffenen kantonalen Behörden und berücksichtigt deren Beurteilung.
 
@@ -2277,7 +2277,8 @@ Das Gesuch muss für jeden Tierversuch enthalten:
 
 <sup>4</sup> Die kantonale Behörde überweist Gesuche für belastende Tierversuche an die kantonale Tierversuchskommission und entscheidet auf Grund des Antrags der Kommission. Entscheidet die kantonale Behörde gegen den Antrag, so begründet sie dies gegenüber der Kommission.
 
-[^139-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Mai 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^139-1]: Ausdruck gemäss Ziff. III 1 der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^139-2]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Mai 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 140
 
@@ -2401,14 +2402,14 @@ Die Aufzeichnungen müssen:
 
 <sup>1</sup>
 
-Die Leiterin oder der Leiter einer Versuchstierhaltung muss der kantonalen Behörde über das Informationssystem E-Tierversuche melden:
+Die Leiterin oder der Leiter einer Versuchstierhaltung muss der kantonalen Behörde über das Informationssystem Animex-ch melden:
 
 - a. Linien oder Stämme mit belasteten Mutanten nach Artikel 126 innerhalb zweier Wochen nach Feststellung der Belastung;
 - b. pro Kalenderjahr für jede Tierart sowie für gentechnisch veränderte und belastete Linien oder Stämme die Gesamtzahl der gezüchteten und erzeugten Tiere, jeweils bis Ende Februar des folgenden Jahres.
 
 <sup>2</sup>
 
-Die Bereichsleiterin oder der Bereichsleiter muss der kantonalen Behörde über das Informationssystem E‑Tierversuche für jeden Tierversuch melden:
+Die Bereichsleiterin oder der Bereichsleiter muss der kantonalen Behörde über das Informationssystem Animex-ch für jeden Tierversuch melden:
 
 - a.[^145-1] den Abschluss eines Versuchs oder einer Versuchsreihe, die Angaben über die Versuchstätigkeit im laufenden Kalenderjahr, die endgültigen Angaben zur Anzahl Tiere pro Tierart und zum Schweregrad der Belastung sowie die Bestätigung der Richtigkeit der Angaben nach Artikel 139 Absatz 1<sup>bis</sup> Buchstaben a–c: innerhalb von zwei Monaten nach Beendigung des Versuchs oder der Versuchsreihe, spätestens aber innerhalb von zwei Monaten nach Ablauf der Bewilligung;
 - b. bei Versuchen, die sich über mehrere Jahre erstrecken, jeweils bis Ende Februar die Angaben über die Versuchstätigkeit im abgelaufenen Kalenderjahr.
@@ -2417,7 +2418,7 @@ Die Bereichsleiterin oder der Bereichsleiter muss der kantonalen Behörde über 
 
 <sup>4</sup>
 
-Die Kantone übermitteln dem BLV über das Informationssystem E-Tierversuche:
+Die Kantone übermitteln dem BLV über das Informationssystem Animex-ch:
 
 - a.
 
@@ -2879,7 +2880,7 @@ Die Tötung von Wirbeltieren oder Panzerkrebsen ist ohne Betäubung zulässig:
 
 <sup>2</sup> Die Tötung von Fröschen ist zudem ohne Betäubung zulässig, wenn die Frösche bei der Schlachtung in gekühltem Zustand geköpft werden und der Kopf sofort vernichtet wird.
 
-<sup>3</sup> ...[^178a-2]
+<sup>3</sup> …[^178a-2]
 
 [^178a-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^178a-2]: Aufgehoben durch Ziff. I der V vom 23. Okt. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
@@ -2962,7 +2963,7 @@ Die Tötung von Wirbeltieren oder Panzerkrebsen ist ohne Betäubung zulässig:
 
 [^179d-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
-### 2. Abschnitt: Verantwortlichkeiten bei der Schlachtung und Umgang mit den Tieren in den Schlachtbetrieben
+### 2. Abschnitt: Verantwortlichkeiten bei der Schlachtung und Umgang mit den Tieren in den Schlachtbetrieben****
 
 [^chap8-sec2-1]
 
@@ -3047,7 +3048,7 @@ Die oder der Tierschutzbeauftragte ist weisungsbefugt. Sie oder er kontrolliert 
 
 [^183187-1]: Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
-### 3. Abschnitt: Koordination der Kontrollaufgaben in Schlachtbetrieben
+### 3. Abschnitt: Koordination der Kontrollaufgaben in Schlachtbetrieben****
 
 [^chap8-sec3-1]
 
@@ -3061,9 +3062,9 @@ Die oder der Tierschutzbeauftragte ist weisungsbefugt. Sie oder er kontrolliert 
 
 <sup>3</sup> Für die amtliche Überwachung des Vollzugs der Tierschutzgesetzgebung im Rahmen des Schlachtens werden keine Gebühren erhoben.
 
-[^188-1]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: die V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^188-1]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: die V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 
-## 9. Kapitel: Kapitel: Aus- und Weiterbildung in der Tierhaltung
+## 9. Kapitel: Kapitel: Aus- und Weiterbildung in der Tierhaltung****
 
 [^chap9-1]
 
@@ -3230,7 +3231,7 @@ Als Ausbildung in einem Fischereiberuf gelten:
 
 <sup>3</sup> Das EDI regelt Lernziele, Form, Inhalt und Umfang der Ausbildung.
 
-### 3. Abschnitt: Anerkennung und Organisation der Aus- und Weiterbildungen
+### 3. Abschnitt: Anerkennung und Organisation der Aus- und Weiterbildungen****
 
 [^chap9-sec3-1]
 
@@ -3373,7 +3374,7 @@ Ausbildungen nach Artikel 203 können angeboten werden von:
 
 [^206-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
-## 9*a*. Kapitel: Widerhandlungen
+## 9*a*. Kapitel:**** Widerhandlungen
 
 [^chap9a-1]
 
@@ -3424,9 +3425,9 @@ Das BLV beschafft die wissenschaftlichen Grundlagen für die Vorgaben und Empfeh
 
 <sup>2</sup> Es kann die zuständigen kantonalen Behörden verpflichten, die Bewilligungen und Ergebnisse der amtlichen Kontrollen in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN) nach der Verordnung vom 6. Juni 2014[^209-1] über die Informationssysteme für den öffentlichen Veterinärdienst einzugeben.[^209-2]
 
-<sup>3</sup> und <sup>4</sup> ...[^209-3]
+<sup>3</sup> und <sup>4</sup> …[^209-3]
 
-<sup>5</sup> ...[^209-4]
+<sup>5</sup> …[^209-4]
 
 [^209-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
 [^209-2]: Fassung gemäss Anhang 3 Ziff. II 2 der V vom 6. Juni 2014 über die Informationssysteme für den öffentlichen Veterinärdienst, in Kraft seit 1. Juli 2014 ([AS 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
@@ -3525,7 +3526,7 @@ Die kantonalen Behörden teilen dem BLV sämtliche Strafentscheide und Einstellu
 
 <sup>3</sup> Die kantonale Fachstelle erstellt jährlich nach Vorgabe des BLV einen Bericht über ihre Kontrolltätigkeit und über die Massnahmen, die sie getroffen hat.
 
-<sup>4</sup> und <sup>5</sup> ...[^213-4]
+<sup>4</sup> und <sup>5</sup> …[^213-4]
 
 [^213-1]: Fassung gemäss Anhang 2 Ziff. 1 der Kontrollkoordinationsverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^213-2]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
@@ -3633,7 +3634,7 @@ Für die am 1. September 2001 bestehenden Wildtierhaltungen gilt mit Ausnahme vo
 
 <sup>3</sup> Die Ausbildungsanforderungen nach Artikel 132 an Versuchsleiterinnen oder Versuchsleiter und nach Artikel 134 an Personen, die Tierversuche durchführen, gelten nicht für Personen, die diese Funktion bereits vor dem 1. Juli 1999 ausgeübt haben.
 
-<sup>4</sup> ...[^222-2]
+<sup>4</sup> …[^222-2]
 
 [^222-1]: Fassung gemäss Ziff. I der V vom 14. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)).
 [^222-2]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4871](https://fedlex.data.admin.ch/eli/oc/2016/782)).
@@ -3702,7 +3703,7 @@ Bis am 1. Januar 2017 müssen die Anforderungen an die Ausbildung erfüllt sein:
 
 <sup>2</sup> Die Artikel 23 Absatz 1 Buchstaben b–d und 2, 97 Absatz 2, 100 Absatz 2, 194 Absatz 1 Buchstabe a sowie die Artikel 3 zweiter Satz, 5*b* und 5*d* des Anhangs 6 Ziffer II/4 treten am 1. Januar 2009 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 10)
 
@@ -3971,7 +3972,7 @@ Tabelle 9
 ## Hausgeflügel
 
 <table>
-<tr><th>**Tab. 9-1** **Haushühner**</th><th colspan="2">Tierkategorie</th><th>Küken</th><th>Jungtiere</th><th>Legehennen, Elterntiere</th><th>Masttiere</th></tr>
+<tr><th>**Tab. 9-1 Haushühner**</th><th colspan="2">Tierkategorie</th><th>Küken</th><th>Jungtiere</th><th>Legehennen, Elterntiere</th><th>Masttiere</th></tr>
 <tr><th></th><th colspan="2">Lebenswoche</th><th>bis Ende 10</th><th>ab 11. bis Legebeginn</th><th>ab Legebeginn</th><th></th></tr>
 <tr><td colspan="2">1 Stalleinrichtungen</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">11 Fütterungs‑ und Tränkeeinrichtungen, pro Tier</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -3995,7 +3996,7 @@ Tabelle 9
 </table>
 
 <table>
-<tr><th>**Tab. 9-1** **Haushühner**</th><th>Tierkategorie</th><th>Küken</th><th>Jungtiere</th><th colspan="2">Legehennen, Elterntiere</th><th colspan="2"></th><th>Masttiere</th></tr>
+<tr><th>**Tab. 9-1 Haushühner**</th><th>Tierkategorie</th><th>Küken</th><th>Jungtiere</th><th colspan="2">Legehennen, Elterntiere</th><th colspan="2"></th><th>Masttiere</th></tr>
 <tr><th></th><th>Lebenswoche</th><th>bis Ende 10.</th><th>ab 11. bis Legebeginn</th><th>bis 2 kg</th><th colspan="3">über 2 kg</th><th></th></tr>
 <tr><td>2 Begehbare Fläche je Tier<sup>7</sup> in Haltungen mit</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>21 bis 150 Tiere: Anzahl (n) Tiere/m<sup>2</sup></td><td>n</td><td>14</td><td>9,3</td><td>7</td><td colspan="3">6</td><td>–</td></tr>
@@ -4027,7 +4028,7 @@ Anmerkungen zu Tabelle 9-1 – Haushühner
 </table>
 
 <table>
-<tr><th>**Tab. 9-3** **Haustauben**</th><th></th><th>Innengehege<sup>a),b)</sup></th><th></th><th>Offenfrontgehege<sup>a),c)</sup></th><th>Besondere Anforderungen</th></tr>
+<tr><th>**Tab. 9-3 Haustauben**</th><th></th><th>Innengehege<sup>a),b)</sup></th><th></th><th>Offenfrontgehege<sup>a),c)</sup></th><th>Besondere Anforderungen</th></tr>
 <tr><th></th><th>Rassen</th><th>Mindestfläche pro Tier (m<sup>2</sup>)</th><th>Aussengehege<sup>a),d)</sup></th><th>Mindestfläche pro Tier (m<sup>2</sup>)</th><th></th></tr>
 <tr><td>Tauben während der Brut und Aufzucht, ohne täglichen Freiflug</td><td>Kl<sup>e)</sup> Gr<sup>e)</sup></td><td>0,2 0,25</td><td>zwingend zwingend</td><td>0,35 0,45</td><td>1) 2) 3) 1) 2) 3)</td></tr>
 <tr><td>Andere Tauben und Jungtiere, ohne täglichen Freiflug</td><td>Kl<sup>e)</sup> Gr<sup>e)</sup></td><td>0,15 0,2</td><td>zwingend zwingend</td><td>0,25 0,3</td><td>1) 3) 1) 3)</td></tr>
@@ -4095,7 +4096,7 @@ Anmerkungen zu Tabelle 11 – Hauskatzen
 <tr><td><sup>1</sup> Angegeben ist die höchstzulässige Anzahl Katzen pro Flächeneinheit. Dazu dürfen die Jungtiere bis zum Absetzen gehalten werden. <sup>2</sup> Das Verhältnis Länge zu Breite darf höchstens 2:1 betragen.</td></tr>
 </table>
 
-Anhang 2[^t-2]
+Anhang 2*[^t-2]*
 
 (Art. 10)
 
@@ -4401,7 +4402,7 @@ Anmerkungen zu Tabelle 2 (Vögel)
 <tr><td>c) Alle Gehege müssen mindestens 4 m2 Bodenfläche aufweisen.</td></tr>
 <tr><td>d) Wenn in Tabelle 4 Mindestabmessungen für Bassins vorgeschrieben sind, muss diese Fläche zusätzlich zu den in Tabelle 2 angegebenen Flächen zur Verfügung gestellt werden.</td></tr>
 <tr><td>e) Für die private Haltung ist eine Bewilligung nach Artikel 89 notwendig.</td></tr>
-<tr><td>f) Grosse Aras: *Anodorhynchus hyacinthinus, Anodorhynchus leari, Ara ambigua, Ara ararauna, Ara caninde, Ara chloroptera, Ara macao, Ara militaris, Ara rubrogenys, Cyanopsitta spixii.* Grosse Kakadus: *Cacatua alba, Cacatua galerita, Cacatua moluccensis, Cacatua ophthalmica, Calyptorhynchus funereus, Calyptorhynchus lathami, Calyptor**hynchus magnificus, Probosciger aterrimus.*</td></tr>
+<tr><td>f) Grosse Aras: *Anodorhynchus hyacinthinus, Anodorhynchus leari, Ara ambigua, Ara ararauna, Ara caninde, Ara chl**o**roptera, Ara macao, Ara militaris, Ara rubrogenys, Cyanopsitta spixii.* Grosse Kakadus: *Cacatua alba, Cacatua galerita, Cacatua moluccensis, Cacatua ophthalmica, Calyptorhynchus funereus, Calyptorhynchus lath**a**mi, Caly**p**tor**hynchus magnificus, Probosciger aterrimus.*</td></tr>
 <tr><td>g) Diese Mindestmasse gelten für am 1. September 2008 bestehende Haltungen. Bei neu eingerichteten Anlagen sind vorliegende neue Erkenntnisse bei der Festlegung der Mindestmasse einzubeziehen.</td></tr>
 <tr><td>h) Für andere Wachtelarten als *Cortunix japonica* gelten je nach Grösse die Mindestanforderungen nach Ziffer 31 oder 32.</td></tr>
 </table>
@@ -4778,7 +4779,7 @@ Anmerkungen zu Tabelle 8 (Aquarien und Teiche)
 <tr><td>a) Zusätzlich zu den errechneten Mindestvolumina sind die artspezifischen Bedürfnisse der jeweiligen Fischarten zu berücksichtigen. b) Zusätzlich zu den errechneten Mindestvolumina sind folgende Mindestbeckenabmessungen zu berücksichtigen: Beckenlänge: mind. 3× Körperlänge grösster Fisch Beckenbreite: mind. 2× Körperlänge grösster Fisch Wassertiefe: mind. 1× Körperlänge grösster Fisch</td></tr>
 </table>
 
-Anhang 3[^t-3]
+Anhang 3*[^t-3]*
 
 (Art. 10)
 
@@ -4908,7 +4909,7 @@ Die Wassertemperatur muss zwischen 18 °C und 22 °C liegen.
 <tr><th></th><th>&gt; 12 cm</th><th>920</th><th>230</th><th>12,5</th></tr>
 </table>
 
-Anhang 4[^t-4]
+Anhang 4*[^t-4]*
 
 (Art. 165 Abs. 1 Bst. f)
 
@@ -4977,7 +4978,7 @@ Tabelle 3
 <tr><td>über 15,0 kg</td><td>90</td><td colspan="3">40</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-Anhang 5[^t-5]
+Anhang 5*[^t-5]*
 
 (Art. 225)
 
@@ -5072,7 +5073,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex6-lvlu1-2]
+…[^annex6-lvlu1-2]
 
-[^annex6-lvlu1-1]: [[AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572), [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408), [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349), [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121), [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303), [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)Anhang Ziff. 1 [2063](https://fedlex.data.admin.ch/eli/oc/2001/304), [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 2, [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Anhang 3 Ziff. 1]
+[^annex6-lvlu1-1]: [[AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572); [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408); [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349); [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121); [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303);, [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)Anhang Ziff. 1, [2063](https://fedlex.data.admin.ch/eli/oc/2001/304); [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 2; [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Anhang 3 Ziff. 1]
 [^annex6-lvlu1-2]: Die Änderungen können unter [AS 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)konsultiert werden.

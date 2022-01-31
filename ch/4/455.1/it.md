@@ -4,11 +4,11 @@ title: Ordinanza del 23 aprile 2008 sulla protezione degli animali (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: it
-version: 2020-07-14
+version: 2022-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20200714/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20200714-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20200714/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20220201/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20220201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20200714/it"
 
 (OPAn)
 
-del 23 aprile 2008 (Stato 14 luglio 2020)
+del 23 aprile 2008 (Stato 1° febbraio 2022) (Stato 1° febbraio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -35,7 +35,7 @@ ordina:
 
 **Oggetto**
 
-La presente ordinanza disciplina il trattamento, la detenzione, l’utilizzazione e gli interventi su animali vertebrati, cefalopodi (*Cephalopoda*) e decapodi (*Reptantia*).
+La presente ordinanza disciplina il trattamento, la detenzione, l’utilizzazione e gli interventi su animali vertebrati, cefalopodi (*Cephalopoda*) e decapodi (*Repta**n**tia*).
 
 #### Art. 2
 
@@ -86,19 +86,19 @@ Ai sensi della presente ordinanza, si intendono per:
 - q.[^2-3] *...*
 - r. *bovini:* gli animali addomesticati della specie bovina, inclusi yak e bufali;
 - s. *pensione o rifugio per animali**:* centro di detenzione che prende a pensione o accoglie e accudisce animali a cui il proprietario ha rinunciato o che sono stati abbandonati;
-- t.[^2-4] *sistema d’informazione elettronico per la gestione degli esperimenti sugli animali**:* sistema d’informazione secondo l’ordinanza del 1° settembre 2010[^2-5] concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali;
+- t.[^2-4] *sistema d’informazione animex-ch*: sistema d’informazione ai sensi dell’ordinanza animex-ch del 1° settembre 2010[^2-5];
 - u.[^2-6] *USAV:* Ufficio federale della sicurezza alimentare e di veterinaria.
 - v.[^2-7] *animali geneticamente modificati*: animali il cui materiale genetico nelle cellule germinali è stato modificato con tecniche di modificazione genetica secondo l’allegato 1 dell’ordinanza del 9 maggio 2012[^2-8] sull’impiego confinato in un modo non riscontrabile in condizioni naturali in seguito a incrocio o ricombinazione naturale;
 - w.[^2-9] *decapodi*: crostacei del sottordine *Pleocyemata*, eccettuati gli ordini parziali *Stenopodidea* e *Caridea*.
 
-<sup>4</sup> I termini *regione d’estivazione, regione di montagna* e *unità standard di manodopera* sono da intendersi ai sensi della legislazione sull’agricoltura.
+<sup>4</sup> I termini *regione d’estivazione, regione di montagna* e *unità standard di manod**o**pera* sono da intendersi ai sensi della legislazione sull’agricoltura.
 
 <sup>5</sup> Le costruzioni nuove o quelle che hanno subito un cambiamento di destinazione d’uso e gli edifici che sono stati ricostruiti o ampliati sono considerati, ai sensi della presente ordinanza, *di nuova realizzazione*.
 
 [^2-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^2-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^2-3]: Abrogata dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^2-4]: Nuovo testo giusta il n. III 1 dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 [^2-5]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
 [^2-6]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^2-7]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
@@ -107,7 +107,7 @@ Ai sensi della presente ordinanza, si intendono per:
 
 ## Capitolo 2: Detenzione e trattamento degli animali
 
-### Sezione 1: Disposizioni generali
+### Sezione 1: Disposizioni generali****
 
 [^chap2-sec1-1]
 
@@ -374,7 +374,7 @@ Sugli equidi è inoltre vietato:
 - e. eliminare i peli tattili;
 - f. legare la lingua;
 - g.[^21-2] sbarrarli;
-- h.[^21-3] usare metodi che provocano un’iperflessione del collo o del dorso (*rollkur*).
+- h.[^21-3] usare metodi che provocano un’iperflessione del collo o del dorso (*ro**l**lkur*).
 
 [^21-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^21-2]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
@@ -528,7 +528,7 @@ Nel registro occorre indicare:
 - a. per cani, gatti e pappagalli di grossa taglia: nome, identificazione e data di nascita di tutti gli animali da allevamento e della loro progenie; diminuzione dell’effettivo ed eventuale indicazione della causa;
 - b. per le altre specie animali: numero e provenienza degli animali da allevamento, data di nascita e, se conosciuto, numero degli animali giovani; diminuzione dell’effettivo ed eventuale indicazione della causa.
 
-### Sezione 5: Trattamento degli animali in occasione di manifestazioni
+### Sezione 5:**** Trattamento degli animali in occasione di manifestazioni
 
 [^chap2-sec5-1]
 
@@ -1137,8 +1137,7 @@ I provvedimenti per correggere il comportamento dei cani devono essere adeguati 
   - 1\. collari a strozzo senza arresto,
   - 2\. collari con aculei interni,
   - 3\. altri strumenti ausiliari di conduzione muniti di elementi sporgenti verso l’interno;
-
-- c. trattare i cani con eccessivo rigore, ad esempio colpirli con oggetti duri.[^73-1]
+  - c. trattare i cani con eccessivo rigore, ad esempio colpirli con oggetti duri.[^73-1]
 
 <sup>3</sup> Per il traino possono essere utilizzati soltanto cani idonei al riguardo. Non sono idonei, in particolare, gli animali malati, quelli in gestazione avanzata o in lattazione. I cani devono essere bardati adeguatamente.
 
@@ -1492,7 +1491,7 @@ Per le specie animali seguenti, l’autorità cantonale può rilasciare l’auto
 
 - a. tutti i cetacei *(Cetacea)*, sireni, lontre, otarie, foche e trichechi;
 - b. tutti i primati, eccettuati gli uistitì;
-- c. speoto, crisocione, licaone, protele, ienidi; tutti gli orsi, eccettuati i procioni, cercoletti, bassarischi e i nasua; lontra gigante, taira, ghiottone e moffetta; felini di grossa taglia quali pantera nebulosa, giaguaro, leopardo, irbis, puma, leone, tigre, ghepardo; oritteropo; tutti gli elefanti; tutti gli equidi selvatici; tapiri; tutti i rinoceronti, tutti i cinghiali, eccettuata la specie *Sus scrofa*; ippopotamo pigmeo, ippopotamo; tragulidi; okapi, giraffe; tutti i bovidi, eccettuati i camosci *(Rupicapra rupicapra)*, lo stambecco delle Alpi *(Capra ibex)*, il muflone, l’ammotrago, gli altri ovini e caprini selvatici;
+- c. speoto, crisocione, licaone, protele, ienidi; tutti gli orsi, eccettuati i procioni, cercoletti, bassarischi e i nasua; lontra gigante, taira, ghiottone e moffetta; felini di grossa taglia quali pantera nebulosa, giaguaro, leopardo, irbis, puma, leone, tigre, ghepardo; oritteropo; tutti gli elefanti; tutti gli equidi selvatici; tapiri; tutti i rinoceronti, tutti i cinghiali, eccettuata la specie *Sus scr**o**fa*; ippopotamo pigmeo, ippopotamo; tragulidi; okapi, giraffe; tutti i bovidi, eccettuati i camosci *(Rupicapra rupicapra)*, lo stambecco delle Alpi *(Capra ibex)*, il muflone, l’ammotrago, gli altri ovini e caprini selvatici;
 - d. tutti i marsupiali, eccettuati i canguri di piccola taglia, ratti canguri, uallabie e tilogale;
 - e. ornitorinco, echidna istrice; armadilli; formichieri; bradipi, ateruri, istrici;
 - f. becco a scarpa, kiwi; tutti i pinguini; strolaghe, podicipedidi; procellariformi; fetonti, sule, fregate; serpentario, otarde grandi; sterne, eccettuati la sterna inca e i nidiaci delle specie indigene; alcidi; apodidi, eccettuati i nidiaci delle specie indigene;
@@ -1631,7 +1630,7 @@ La durata massima dell’autorizzazione è di:
 
 ## Capitolo 5: Trattamento professionale degli animali
 
-### Sezione 1: Accudimento, cura, allevamento e detenzione degli animali
+### Sezione 1:**** Accudimento, cura, allevamento e detenzione degli animali
 
 [^chap5-sec1-1]
 
@@ -2268,7 +2267,7 @@ Sono inammissibili gli esperimenti che compromettono il benessere degli animali:
 
 **Procedura di autorizzazione**
 
-<sup>1</sup> La domanda di autorizzazione deve essere presentata mediante il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali. In casi motivati l’autorità cantonale può ammettere domande in forma cartacea sul modello di formulario dell’USAV.
+<sup>1</sup> La domanda di autorizzazione deve essere presentata mediante il sistema d’informazione animex-ch[^139-1]. In casi motivati l’autorità cantonale può ammettere domande in forma cartacea sul modello di formulario dell’USAV.
 
 <sup>1bis</sup>
 
@@ -2278,7 +2277,7 @@ Per ogni esperimento sugli animali la domanda deve contenere:
 - b. il settore in cui è svolto;
 - c. lo scopo dell’esperimento secondo la classificazione riconosciuta sul piano internazionale;
 - d. il numero previsto di animali impiegati per ogni specie; e
-- e. il grado di aggravio previsto.[^139-1]
+- e. il grado di aggravio previsto.[^139-2]
 
 <sup>2</sup> Se un esperimento concerne più Cantoni in seguito allo spostamento del luogo in cui sono custoditi gli animali durante l’esperimento o in caso di ricerche sul campo, la domanda deve essere presentata all’autorità del Cantone in cui si svolge la parte preponderante dell’esperimento. Quest’ultima informa tutte le altre autorità cantonali coinvolte e tiene conto della loro valutazione.
 
@@ -2286,7 +2285,8 @@ Per ogni esperimento sugli animali la domanda deve contenere:
 
 <sup>4</sup> L’autorità cantonale trasmette le domande di esperimenti che compromettono il benessere degli animali alla commissione cantonale per gli esperimenti sugli animali e decide sulla scorta della proposta della commissione. Se non accoglie la proposta, motiva la sua decisione nei confronti della commissione.
 
-[^139-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^139-1]: Nuova espr. giusta il n. III 1 dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^139-2]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 140
 
@@ -2412,14 +2412,14 @@ I verbali devono:
 
 <sup>1</sup>
 
-Il direttore del centro di detenzione di animali da laboratorio deve notificare all’autorità cantonale mediante il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali:
+Il direttore del centro di detenzione di animali da laboratorio deve notificare all’autorità cantonale mediante il sistema d’informazione animex-ch:
 
 - a. le linee o i ceppi con mutazioni patologiche secondo l’articolo 126 entro due settimane dalla constatazione dell’aggravio;
 - b. il numero complessivo degli animali allevati o prodotti nell’anno civile, per ogni specie animale e per le linee o i ceppi geneticamente modificati o con mutazioni patologiche, entro la fine di febbraio dell’anno successivo.
 
 <sup>2</sup>
 
-Per ogni esperimento il capounità deve notificare all’autorità cantonale mediante sistema d’informazione elettronico per la gestione degli esperimenti sugli animali:
+Per ogni esperimento il capounità deve notificare all’autorità cantonale mediante il sistema d’informazione animex-ch:
 
 - a.[^145-1] la conclusione di un esperimento o di una serie di esperimenti, i dati sull’attività sperimentale durante l’anno in corso, i dati definitivi sul numero di animali per specie e sul grado di aggravio, la conferma della correttezza dei dati di cui all’articolo 139 capoverso 1<sup>bis</sup> lettere a–c: entro due mesi dalla conclusione dell’esperimento o della serie di esperimenti, al più tardi però due mesi dopo la scadenza dell’autorizzazione;
 - b. le indicazioni sull’attività sperimentale nell’anno civile trascorso, entro la fine di febbraio per gli esperimenti pluriennali.
@@ -2428,7 +2428,7 @@ Per ogni esperimento il capounità deve notificare all’autorità cantonale med
 
 <sup>4</sup>
 
-I Cantoni trasmettono all’USAV, mediante il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali:
+I Cantoni trasmettono all’USAV, mediante il sistema d’informazione animex-ch:
 
 - a.
 
@@ -2980,7 +2980,7 @@ L’uccisione di animali vertebrati o decapodi senza stordimento è ammessa:
 
 [^179d-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
-### Sezione 2: Responsabilità al momento della macellazione e trattamento degli animali nei macelli
+### Sezione 2: Responsabilità al momento della macellazione e trattamento degli animali nei macelli****
 
 [^chap8-sec2-1]
 
@@ -3067,7 +3067,7 @@ L’incaricato della protezione degli animali è autorizzato a emanare istruzion
 
 [^183187-1]: Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
-### Sezione 3: Coordinamento dei compiti di controllo nei macelli
+### Sezione 3:**** Coordinamento dei compiti di controllo nei macelli****
 
 [^chap8-sec3-1][^chap8-sec3-2]
 
@@ -3084,7 +3084,7 @@ L’incaricato della protezione degli animali è autorizzato a emanare istruzion
 
 [^188-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora la l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)**)**.
 
-## Capitolo 9: Formazione e formazione continua in materia di detenzione di animali
+## Capitolo 9: Formazione e formazione continua in materia di detenzione di animali****
 
 [^chap9-1]
 
@@ -3247,7 +3247,7 @@ Rientrano nelle professioni legate alla pesca le formazioni seguenti:
 
 <sup>3</sup> Il DFI disciplina gli obiettivi di apprendimento, la forma, il contenuto e la durata della formazione.
 
-### Sezione 3: Riconoscimento e organizzazione delle formazioni e delle formazioni continue
+### Sezione 3: Riconoscimento e organizzazione delle formazioni e delle formazioni continue****
 
 [^chap9-sec3-1]
 
@@ -3392,7 +3392,7 @@ Le formazioni di cui all’articolo 203 possono essere offerte da:
 
 [^206-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
-## Capitolo 9*a*: Infrazioni
+## Capitolo 9*a*:**** Infrazioni
 
 [^chap9a-1]
 
@@ -3721,7 +3721,7 @@ Entro il 1° gennaio 2017 devono essere soddisfatti i requisiti riguardanti la f
 
 <sup>2</sup> Gli articoli 23 capoversi 1 lettere b–d e 2, 97 capoverso 2, 100 capoverso 2, 194 capoverso 1 lettera a e gli articoli 3 primo periodo, 5*b* e 5*d* dell’allegato 6 cifra II/4 entrano in vigore il 1° gennaio 2009.
 
-Allegato 1[^t-1]
+Allegato 1*[^t-1]*
 
 (art. 10)
 
@@ -3913,7 +3913,7 @@ Tabella 7
 <table>
 <tr><th>Categoria animale</th><th></th><th colspan="6">Equide</th></tr>
 <tr><th>Altezza al garrese</th><th></th><th>&lt; 120 cm</th><th>120–134 cm</th><th>134–148 cm</th><th>148–162 cm</th><th>162–175 cm</th><th>&gt; 175 cm</th></tr>
-<tr><td>1 Superficie per equide[^annexu1-lvlu1-1]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1 Superficie per equide*[^annexu1-lvlu1-1]*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>11 Box singoli<sup>1, 2</sup> o di gruppo<sup>1, 3, 4</sup></td><td>m<sup>2</sup></td><td>5,5</td><td>7</td><td>8</td><td>9</td><td>10,5</td><td>12</td></tr>
 <tr><td>12 Valori di tolleranza<sup>5</sup></td><td>m<sup>2</sup></td><td>–</td><td>–</td><td>7</td><td>8</td><td>9</td><td>10,5</td></tr>
 <tr><td>13 Superficie di riposo nella stalla di gruppo con diversi spazi<sup>1, 3, 4, 6</sup></td><td>m<sup>2</sup></td><td>4</td><td>4,5</td><td>5,5</td><td>6</td><td>7,5</td><td>8</td></tr>
@@ -4016,7 +4016,7 @@ Tabella 9
 </table>
 
 <table>
-<tr><th>**Tab. 9-1** **Pollame domestico**</th><th>Categoria animale</th><th>Pulcini</th><th>Animali giovani</th><th colspan="2">Galline ovaiole, animali riproduttori</th><th></th><th>Animali da ingrasso</th></tr>
+<tr><th>**Tab. 9-1 Pollame domestico**</th><th>Categoria animale</th><th>Pulcini</th><th>Animali giovani</th><th colspan="2">Galline ovaiole, animali riproduttori</th><th></th><th>Animali da ingrasso</th></tr>
 <tr><th></th><th>Settimana di vita</th><th>Fino al termine della 10a</th><th>Dall’11a all’inizio della deposizione delle uova</th><th>Fino a 2 kg</th><th>Oltre 2 kg</th><th colspan="2"></th></tr>
 <tr><td>2 Superficie calpestabile per animale7 in unità di detenzione con</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>21 fino a 150 animali: numero (n) animali/m<sup>2</sup></td><td>n</td><td>14</td><td>9,3</td><td>7</td><td>6</td><td colspan="2">–</td></tr>
@@ -4048,7 +4048,7 @@ Osservazioni sulla tabella 9-1 – Pollame domestico
 </table>
 
 <table>
-<tr><th>**Tab. 9-3** **Piccioni domestici**</th><th></th><th>Parco interno<sup>a</sup>),<sup>b</sup>)</th><th></th><th>Parco con parte anteriore aperta<sup>a</sup>),<sup>c</sup>)</th><th>Requisiti particolari</th></tr>
+<tr><th>**Tab. 9-3 Piccioni domestic****i**</th><th></th><th>Parco interno<sup>a</sup>),<sup>b</sup>)</th><th></th><th>Parco con parte anteriore aperta<sup>a</sup>),<sup>c</sup>)</th><th>Requisiti particolari</th></tr>
 <tr><th></th><th>Razze</th><th>Superficie minima per animale (m<sup>2</sup>)</th><th>Parco esterno<sup>a</sup>),<sup>d</sup>)</th><th>Superficie minima per animale (m<sup>2</sup>)</th><th></th></tr>
 <tr><td>Piccioni durante la cova e l’allevamento senza possibilità di volare liberamente all’esterno ogni giorno</td><td>Pi<sup>e)</sup> Gr<sup>e)</sup></td><td>0,2 0,25</td><td>obbligatorio obbligatorio</td><td>0,35 0,45</td><td>1) 2) 3) 1) 2) 3)</td></tr>
 <tr><td>Altri piccioni e animali giovani senza possibilità di volare liberamente all’esterno ogni giorno</td><td>Pi<sup>e)</sup> Gr<sup>e)</sup></td><td>0,15 0,2</td><td>obbligatorio obbligatorio</td><td>0,25 0,3</td><td>1) 3) 1) 3)</td></tr>
@@ -4116,7 +4116,7 @@ Osservazioni sulla tabella 11 – Gatti domestici
 <tr><td><sup>1</sup> È indicato il numero massimo ammesso di gatti per unità di superficie. Gli animali giovani possono essere tenuti nello stesso spazio fino allo svezzamento. <sup>2</sup> Il rapporto fra lunghezza e larghezza può essere al massimo di 2:1.</td></tr>
 </table>
 
-Allegato 2[^t-2]
+Allegato 2*[^t-2]*
 
 (art. 10)
 
@@ -4825,7 +4825,7 @@ Osservazioni sulla tabella 8 – Acquari e stagni
 <tr><td>a) Oltre ai volumi minimi calcolati occorre tenere conto delle esigenze particolari di ciascuna specie di pesci. b) Oltre ai volumi minimi calcolati occorre tenere conto delle dimensioni minime del bacino seguenti: Lunghezza del bacino: min. 3× la lunghezza del corpo del pesce più grande Larghezza del bacino: min. 2× la lunghezza del corpo del pesce più grande Profondità dell’acqua: min. 1× la lunghezza del corpo del pesce più grande</td></tr>
 </table>
 
-Allegato 3[^t-3]
+Allegato 3*[^t-3]*
 
 (art. 10)
 
@@ -4955,7 +4955,7 @@ La temperatura dell’acqua deve essere compresa tra 18 °C e 22 °C.
 <tr><th></th><th>&gt; 12 cm</th><th>920</th><th>230</th><th>12,5</th></tr>
 </table>
 
-Allegato 4[^t-4]
+Allegato 4*[^t-4]*
 
 (art. 165 cpv. 1 lett. f)
 
@@ -5024,7 +5024,7 @@ Tabella 3
 <tr><td>oltre 15,0 kg</td><td>90</td><td colspan="3">40</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-Allegato 5[^t-5]
+Allegato 5*[^t-5]*
 
 (art. 225)
 
@@ -5121,5 +5121,5 @@ Le seguenti ordinanze sono modificate come segue:
 
 …[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-2]: [[RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572), [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408), [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349), [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121), [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303), [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)all. n. 1 [2063](https://fedlex.data.admin.ch/eli/oc/2001/304), [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all. n. 2, [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 1]
+[^annexu1-lvlu1-2]: [[RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572); [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408); [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349); [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121); [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303); [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)all. n. 1 [2063](https://fedlex.data.admin.ch/eli/oc/2001/304); [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all. n. 2; [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 1]
 [^annexu1-lvlu1-3]: Le mod. possono essere consultate alla [RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416).

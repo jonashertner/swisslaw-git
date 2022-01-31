@@ -4,11 +4,11 @@ title: Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: fr
-version: 2020-07-14
+version: 2022-02-01
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20200714/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20200714-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20200714/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20220201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20220201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20200714/fr"
 
 (OPAn)
 
-du 23 avril 2008 (Etat le 14 juillet 2020)
+du 23 avril 2008 (Etat le 1<sup>er</sup> février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -88,12 +88,12 @@ Au sens de la présente ordonnance, on entend par:
 - q.[^2-4] *...*
 - r. *bovins:* les animaux domestiqués de l’espèce bovine, y compris les yacks et les buffles;
 - s. *pension ou refuge pour animaux:* l’établissement qui accueille des animaux en pension ou qui recueille et soigne des animaux sans maître ou dont le détenteur a dû se séparer;
-- t.[^2-5] *système informatique SIGEXPA:* le système informatique visé par l’ordonnance du 1<sup>er</sup> septembre 2010 sur le système informatique de gestion des expériences sur animaux[^2-6];
+- t.[^2-5] *système informatique animex-ch:* le système informatique visé par l’ordonnance animex-ch du 1<sup>er</sup> septembre 2010[^2-6];
 - u.[^2-7] *OSAV:* Office fédéral de la sécurité alimentaire et des affaires vétérinaires;
 - v.[^2-8] *animaux génétiquement modifiés:* les animaux dont le matériel génétique a été modifié dans les cellules germinales par des techniques de modification génétique au sens de l’annexe 1 de l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^2-9] d’une manière qui ne se produit pas par croisement dans des conditions naturelles ou par recombinaison naturelle;
 - w.[^2-10] *décapodes marcheurs:* crustacés du sous-ordre *Pleocyemata*, à l’exception des infra-ordres *Stenopodidea* et *Caridea*.
 
-<sup>4</sup> Les termes *région d’estivage, région de montagne* et *unité de main-d’œuvre standard* sont utilisés au sens défini dans la législation sur l’agriculture.
+<sup>4</sup> Les termes *région d’estivage, région de montagne* et *unité de main-d’œuvre sta**n**dard* sont utilisés au sens défini dans la législation sur l’agriculture.
 
 <sup>5</sup> Sont réputés *nouvellement aménagés* au sens de la présente ordonnance, les constructions nouvelles et les bâtiments existants qui ont connu un changement d’affectation ainsi que les bâtiments annexes qui ont été reconstruits ou agrandis.
 
@@ -101,7 +101,7 @@ Au sens de la présente ordonnance, on entend par:
 [^2-2]: Nouvelle expressionselon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Il a été tenu compte de cette mod. dans tout le texte.
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^2-4]: Abrogée par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-5]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^2-5]: Nouvelle teneur selon le ch. III 1 de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 [^2-6]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
 [^2-7]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^2-8]: Introduite par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
@@ -110,7 +110,7 @@ Au sens de la présente ordonnance, on entend par:
 
 ## Chapitre 2 Détention et manière de traiter les animaux
 
-### Section 1 Dispositions générales
+### Section 1 Dispositions générales****
 
 [^chap2-sec1-1]
 
@@ -530,7 +530,7 @@ Le registre d’élevage doit contenir les informations suivantes:
 - a. s’il s’agit d’un élevage de chiens, de chats ou de grands perroquets, le nom, l’identification et la date de naissance ou d’éclosion de tous les animaux d’élevage et de leurs descendants; les diminutions d’effectif et leur cause, si elle est connue;
 - b. s’il s’agit d’autres espèces animales, le nombre d’animaux d’élevage, leur provenance, leur date de naissance ou d’éclosion et, s’il est connu, le nombre de jeunes animaux; les diminutions d’effectif et leur cause, si elle est connue.
 
-### Section 5 Manière de traiter les animaux lors de manifestations
+### Section 5**** Manière de traiter les animaux lors de manifestations
 
 [^chap2-sec5-1]
 
@@ -1631,13 +1631,13 @@ L’autorisation est délivrée pour une durée maximale de:
 
 [^100-1]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
 
-## Chapitre 5 Prise en charge professionnelle des animaux
+## Chapitre 5 Prise en charge professionnelle des animaux****
 
 [^chap5-1]
 
 [^chap5-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
-### Section 1 Prise en charge, soins, élevage et détention des animaux
+### Section 1**** Prise en charge, soins, élevage et détention des animaux
 
 [^chap5-sec1-1]
 
@@ -2283,7 +2283,7 @@ Les expériences causant des contraintes qui poursuivent les buts suivants ne so
 
 **Procédure d’autorisation**
 
-<sup>1</sup> La demande d’autorisation de pratiquer des expériences sur animaux doit être déposée au moyen du système informatique. Lorsque la situation le justifie, l’autorité cantonale peut accepter des demandes formulées sur papier si elles sont présentées selon le modèle de formulaire de l’OSAV.[^139-1]
+<sup>1</sup> La demande d’autorisation de pratiquer des expériences sur animaux doit être déposée au moyen du système informatique animex-ch[^139-1]. Lorsque la situation le justifie, l’autorité cantonale peut accepter des demandes formulées sur papier si elles sont présentées selon le modèle de formulaire de l’OSAV.[^139-2]
 
 <sup>1bis</sup>
 
@@ -2293,7 +2293,7 @@ Pour chaque expérience sur animaux, la demande doit contenir les informations s
 - b. le domaine concerné;
 - c. la finalité de l’expérience selon les classifications internationales;
 - d. le nombre d’animaux prévu par espèce, et
-- e. le degré de contrainte prévisible.[^139-2]
+- e. le degré de contrainte prévisible.[^139-3]
 
 <sup>2</sup> Si une expérience sur animaux concerne plusieurs cantons, soit en raison d’un changement du lieu de séjour des animaux durant l’expérience, soit en raison d’études sur le terrain menées dans plusieurs cantons, la demande d’autorisation doit être déposée auprès de l’autorité du canton où l’expérience est réalisée principalement. Cette autorité informe les autres autorités cantonales concernées et prend en considération leur avis.
 
@@ -2301,8 +2301,9 @@ Pour chaque expérience sur animaux, la demande doit contenir les informations s
 
 <sup>4</sup> L’autorité cantonale soumet les demandes d’autorisation d’expériences sur animaux causant des contraintes à l’avis de la commission cantonale des expériences sur animaux; elle prend sa décision sur la base du préavis de la commission. Si sa décision va à l’encontre du préavis, elle en informe la commission en lui faisant part de ses motifs.
 
-[^139-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^139-2]: Introduit le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^139-1]: Nouvelle expression selon le ch. III 1 de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Il a été tenu compte de cette mod. dans tout le texte.
+[^139-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^139-3]: Introduit le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 140
 
@@ -2428,14 +2429,14 @@ Les procès-verbaux doivent:
 
 <sup>1</sup>
 
-Le responsable d’une animalerie autorisée doit annoncer à l’autorité cantonale au moyen du système informatique SIGEXPA:[^145-1]
+Le responsable d’une animalerie autorisée doit annoncer à l’autorité cantonale au moyen du système informatique animex-ch:[^145-1]
 
 - a. les lignées visées à l’art. 126, qui comportent des mutants présentant un phénotype invalidant: dans les quinze jours suivant la constatation du phénotype;
 - b. le nombre total d’animaux élevés ou produits par année civile pour chaque espèce animale et chaque lignée ou souche d’animaux génétiquement modifiés ou présentant un phénotype invalidant: au plus tard à la fin du mois de février de l’année suivante.
 
 <sup>2</sup>
 
-Le directeur du domaine de l’expérimentation animale doit communiquer à l’autorité cantonale, en utilisant le système informatique SIGEXPA, pour chaque expérience:[^145-2]
+Le directeur du domaine de l’expérimentation animale doit communiquer à l’autorité cantonale, en utilisant le système informatique animex-ch, pour chaque expérience:[^145-2]
 
 - a. la fin d’une expérience ou d’une série d’expériences, les expériences effectuées dans le courant de l’année civile, le nombre effectif d’animaux utilisés par espèce et le degré de contrainte imposé et la confirmation de l’exactitude des informations visées à l’art. 139, al. 1<sup>bis</sup>, let. a à c: dans les deux mois qui suivent la fin de l’expérience ou de la série d’expériences, mais au plus tard dans les deux mois qui suivent l’expiration de la validité de l’autorisation;[^145-3]
 - b. les informations concernant les expériences effectuées lors de l’année écoulée s’il s’agit d’expériences s’étendant sur plusieurs années: avant fin février.
@@ -2444,7 +2445,7 @@ Le directeur du domaine de l’expérimentation animale doit communiquer à l’
 
 <sup>4</sup>
 
-Les cantons transmettent les données suivantes à l’OSAV en utilisant le système informatique SIGEXPA:
+Les cantons transmettent les données suivantes à l’OSAV en utilisant le système informatique animex-ch:
 
 - a.
 
@@ -2992,7 +2993,7 @@ La mise à mort de vertébrés ou de décapodes marcheurs sans étourdissement e
 
 [^179d-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
-### Section 2 Responsabilités lors de l’abattage et manière de traiter les animaux à l’abattoir
+### Section 2 Responsabilités lors de l’abattage et manière de traiter les animaux à l’abattoir****
 
 [^chap8-sec2-1]
 
@@ -3077,7 +3078,7 @@ Le délégué à la protection des animaux est habilité à donner des instructi
 
 [^183187-1]: Abrogés par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
-### Section 3 Coordination des contrôles dans les abattoirs
+### Section 3**** Coordination des contrôles dans les abattoirs
 
 [^chap8-sec3-1]
 
@@ -3093,7 +3094,7 @@ Le délégué à la protection des animaux est habilité à donner des instructi
 
 [^188-1]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)ch. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)annexe ch. II 3. [RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Voir actuellement l’O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 
-## Chapitre 9 Formation et formation continue en matière de détention d’animaux
+## Chapitre 9 Formation et formation continue en matière de détention d’animaux****
 
 [^chap9-1]
 
@@ -3265,7 +3266,7 @@ Par formation dans une profession de la pêche on entend:
 
 <sup>3</sup> Le DFI réglemente les objectifs, la forme, le contenu et l’ampleur de la formation.
 
-### Section 3 Reconnaissance et organisation des formations et des formations continues
+### Section 3 Reconnaissance et organisation des formations et des formations continues****
 
 [^chap9-sec3-1]
 
@@ -3408,7 +3409,7 @@ Les formations visées à l’art. 203 peuvent être dispensées par:
 
 [^206-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
-## Chapitre 9*a* Infractions
+## Chapitre 9*a***** Infractions
 
 [^chap9a-1]
 
@@ -3738,7 +3739,7 @@ Doivent remplir les exigences de formation d’ici au 1<sup>er</sup> janvier 201
 
 <sup>2</sup> Les art. 23, al. 1, let. b à d, et 2, 97, al. 2, 100, al. 2, 194, al. 1, let. a, ainsi que les art. 3, deuxième phrase, 5*b* et 5*d* de l’annexe 6, ch. II/4, entrent en vigueur le 1<sup>er</sup> janvier 2009.
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 10)
 
@@ -4006,7 +4007,7 @@ Tableau 9
 ## Volailles domestiques
 
 <table>
-<tr><th>**Tableau 9-1** **Poules domestiques**</th><th colspan="2">Catégorie d’animaux</th><th>Poussins</th><th>Jeunes animaux</th><th>Pondeuses, parentaux</th><th>Volailles de chair</th></tr>
+<tr><th>**Tableau 9-1 Poules domestiques**</th><th colspan="2">Catégorie d’animaux</th><th>Poussins</th><th>Jeunes animaux</th><th>Pondeuses, parentaux</th><th>Volailles de chair</th></tr>
 <tr><th></th><th colspan="2">Semaine de vie</th><th>jusqu’à la fin de la 10<sup>e</sup></th><th>à partir de la 11<sup>e</sup> jusqu’au début de la ponte</th><th>à partir du début de la ponte</th><th></th></tr>
 <tr><td colspan="2">1 Équipements de poulailler</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">11 Équipements pour l’alimentation et l’abreuvement, par animal</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -4030,7 +4031,7 @@ Tableau 9
 </table>
 
 <table>
-<tr><th>**Tab. 9-1** **Poules domestiques**</th><th>Catégorie d’animaux</th><th>Poussins</th><th>Jeunes animaux</th><th colspan="2">Pondeuses, parentaux</th><th colspan="2"></th><th>Volailles de chair</th></tr>
+<tr><th>**Tab. 9-1 Poules domestiques**</th><th>Catégorie d’animaux</th><th>Poussins</th><th>Jeunes animaux</th><th colspan="2">Pondeuses, parentaux</th><th colspan="2"></th><th>Volailles de chair</th></tr>
 <tr><th></th><th>Semaine de vie</th><th>jusqu’à la fin de la 10<sup>e</sup></th><th>à partir de la 11<sup>e</sup> jusqu’au début de la ponte</th><th>jusqu’à 2 kg</th><th colspan="3">plus de 2 kg</th><th></th></tr>
 <tr><td>2 Surfaces sur lesquelles les animaux peuvent se déplacer, par animal<sup>7</sup> dans les unités de détention comportant</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>21 à 150 animaux: nbre (n) d’animaux/m<sup>2</sup></td><td>n</td><td>14</td><td>9,3</td><td>7</td><td colspan="3">6</td><td>–</td></tr>
@@ -4057,12 +4058,12 @@ Notes du tableau 9-1 – volaille domestique
 </table>
 
 <table>
-<tr><th>**Tableau 9-2** **Dindes domestiques**</th><th>Jusqu’à la fin de la 6<sup>e</sup> semaine de vie</th><th>À partir de la 7<sup>e</sup> semaine de vie</th></tr>
+<tr><th>**Tableau 9-2 Dindes domestiques**</th><th>Jusqu’à la fin de la 6<sup>e</sup> semaine de vie</th><th>À partir de la 7<sup>e</sup> semaine de vie</th></tr>
 <tr><td>1 Densité d’occupation</td><td>32 kg par m<sup>2</sup></td><td>36,5 kg par m<sup>2</sup></td></tr>
 </table>
 
 <table>
-<tr><th>**Tab. 9-3****Pigeons domestiques**</th><th></th><th>Enclos intérieur<sup>a),b)</sup></th><th></th><th>Enclos à front ouvert<sup>a),c)</sup></th><th>Exigences particulières</th></tr>
+<tr><th>**Tab. 9-3** **Pigeons domestiques**</th><th></th><th>Enclos intérieur<sup>a),b)</sup></th><th></th><th>Enclos à front ouvert<sup>a),c)</sup></th><th>Exigences particulières</th></tr>
 <tr><th></th><th>Races</th><th>Surface totale par animal (m<sup>2</sup>)</th><th>Enclos extérieur<sup>a),d)</sup></th><th>Surface minimale par animal (m<sup>2</sup>)</th><th></th></tr>
 <tr><td>Pigeons durant la couvaison et l’élevage des jeunes sans possibilité de voler librement chaque jour</td><td>PR<sup>e)</sup> GR<sup>e)</sup></td><td>0,2 0,25</td><td>obligatoire obligatoire</td><td>0,35 0,45</td><td>1) 2) 3) 1) 2) 3)</td></tr>
 <tr><td>Autres pigeons et jeunes pigeons sans possibilité de voler librement chaque jour</td><td>PR<sup>e)</sup> GR<sup>e)</sup></td><td>0,15 0,2</td><td>obligatoire obligatoire</td><td>0,25 0,3</td><td>1) 3) 1) 3)</td></tr>
@@ -4130,7 +4131,7 @@ Notes du tableau 11 – Chats domestiques
 <tr><td><sup>1</sup> Le tableau indique le nombre maximal de chats admis par unité de surface. Les jeunes animaux peuvent être détenus en plus jusqu’au sevrage. <sup>2</sup> Le rapport entre la longueur et la largeur ne doit pas dépasser 2:1.</td></tr>
 </table>
 
-Annexe 2[^t-2]
+Annexe 2*[^t-2]*
 
 (art. 10)
 
@@ -4816,7 +4817,7 @@ Notes du tableau 8 (aquariums et étangs)
 <tr><td>a) Indépendamment des volumes minimaux calculés, il faut toujours tenir compte des besoins spécifiques des espèces de poissons concernées. b) Indépendamment des volumes minimaux calculés, il faut tenir compte des dimensions minimales suivantes: longueur du bassin: au moins 3× la longueur du corps du plus grand poisson largeur du bassin: au moins 2× la longueur du corps du plus grand poisson profondeur de l’eau: au moins 1× la longueur du corps du plus grand poisson</td></tr>
 </table>
 
-Annexe 3[^t-3]
+Annexe 3*[^t-3]*
 
 (art. 10)
 
@@ -4946,7 +4947,7 @@ La température de l’eau doit se situer entre 18 °C et 22 °C.
 <tr><th></th><th>&gt;12 cm</th><th>920</th><th>230</th><th>12,5</th></tr>
 </table>
 
-Annexe 4[^t-4]
+Annexe 4*[^t-4]*
 
 (art. 165, al. 1, let. f)
 
@@ -5015,7 +5016,7 @@ Tableau 3
 <tr><td>plus de 15,0 kg</td><td>90</td><td colspan="3">40</td><td></td><td></td><td colspan="2"></td><td></td></tr>
 </table>
 
-Annexe 5[^t-5]
+Annexe 5*[^t-5]*
 
 (art. 225)
 
