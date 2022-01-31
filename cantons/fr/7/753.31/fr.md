@@ -3,13 +3,12 @@ canton: FR
 number: "753.31"
 title: "Arrêté instaurant des mesures concernant les maisons de vacances sur le domaine public et privé de l'Etat au bord du lac de Neuchâtel"
 language: fr
-version: 2019-04-01
-valid_until: 2022-01-31
-version_adopted: 2019-04-02
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1983-04-26
 in_force: 1983-06-30
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/753.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6287/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7355/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6287/pdf_file"
 
 Maisons de vacances sur le domaine de l'Etat, lac de Neuchâtel – A
 
-du 26.04.1983 (version entrée en vigueur le 01.04.2019)
+du 26.04.1983 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -128,7 +127,7 @@ Arrête:
 
 <sup>1</sup> Le périmètre de zone naturelle 6.1.2 let. d, à Font, comprenant la forêt riveraine (pinède), sans roselière, et considéré comme une zone tampon, est soumis au même régime que le périmètre voisin 6.2 let. b (art. 3 al. 5).
 
-<sup>2</sup> Le Conseil d'Etat peut accorder le transfert des autorisations concernant des maisons existantes dans le périmètre des zones naturelles et dans les périmètres affectés à l'urbanisation (zones d'aménagements publics), pour autant que les circonstances le permettent. La requête est adressée à la Direction de l'aménagement, de l'environnement et des constructions pour les maisons sises sur le domaine public et au Service des forêts et de la nature pour celles qui sont implantées sur le domaine privé de l'Etat.
+<sup>2</sup> Le Conseil d'Etat peut accorder le transfert des autorisations concernant des maisons existantes dans le périmètre des zones naturelles et dans les périmètres affectés à l'urbanisation (zones d'aménagements publics), pour autant que les circonstances le permettent. La requête est adressée à la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement pour les maisons sises sur le domaine public et au Service des forêts et de la nature pour celles qui sont implantées sur le domaine privé de l'Etat.
 
 #### Art. 6
 

@@ -3,13 +3,12 @@ canton: FR
 number: "753.31"
 title: Beschluss zur Einführung von Massnahmen betreffend die Ferienhäuser auf den öffentlichen und privaten Grundstücken des Staates am Ufer des Neuenburgersees
 language: de
-version: 2019-04-01
-valid_until: 2022-01-31
-version_adopted: 2019-04-02
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1983-04-26
 in_force: 1983-06-30
 url: "https://bdlf.fr.ch/app/de/texts_of_law/753.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/6287/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7355/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6287/pdf_file"
 
 Ferienhäuser auf Grundstücken des Staates, Neuenburgersee – B
 
-vom 26.04.1983 (Fassung in Kraft getreten am 01.04.2019)
+vom 26.04.1983 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -128,7 +127,7 @@ beschliesst:
 
 <sup>1</sup> Das natürliche Gebiet 6.1.2 Bst. d in Font, welches den Uferwald (Fichten) ohne Schilf umfasst und als Pufferzone betrachtet wird, untersteht den gleichen Rechtsvorschriften wie das benachbarte Gebiet 6.2 Bst. b (Art. 3 Abs. 5).
 
-<sup>2</sup> Der Staatsrat kann der Übertragung von Bewilligungen für vorhandene Häuser innerhalb der natürlichen Gebiete und innerhalb der Siedlungsgebiete (Raum für öffentliche Anlagen) zustimmen, unter der Voraussetzung, dass die Umstände dies zulassen. Ein entsprechendes Gesuch ist für die Häuser auf den öffentlichen Grundstücken des Staates an die Raumplanungs-, Umwelt- und Baudirektion zu richten und für die Häuser auf den privaten Grundstücken des Staates an das Amt für Wald und Natur.
+<sup>2</sup> Der Staatsrat kann der Übertragung von Bewilligungen für vorhandene Häuser innerhalb der natürlichen Gebiete und innerhalb der Siedlungsgebiete (Raum für öffentliche Anlagen) zustimmen, unter der Voraussetzung, dass die Umstände dies zulassen. Ein entsprechendes Gesuch ist für die Häuser auf den öffentlichen Grundstücken des Staates an die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt zu richten und für die Häuser auf den privaten Grundstücken des Staates an das Amt für Wald und Natur.
 
 #### Art. 6
 
