@@ -3,20 +3,19 @@ canton: FR
 number: "76.17"
 title: Tarif betreffend die Parteikosten im Enteignungsverfahren
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-11-14
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1985-02-26
 in_force: 1984-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/76.17"
-pdf: "https://bdlf.fr.ch/api/de/versions/5390/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7357/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Tarif betreffend die Parteikosten im Enteignungsverfahren
 
-vom 26.02.1985 (Fassung in Kraft getreten am 01.01.2003)
+vom 26.02.1985 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -28,7 +27,7 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Dieser Tarif regelt die Parteikosten im Enteignungsverfahren mit Ausnahme des Verfahrens vor der Raumplanungs-, Umwelt- und Baudirektion.
+<sup>1</sup> Dieser Tarif regelt die Parteikosten im Enteignungsverfahren mit Ausnahme des Verfahrens vor der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt.
 
 #### Art. 2
 
