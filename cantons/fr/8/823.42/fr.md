@@ -3,13 +3,13 @@ canton: FR
 number: "823.42"
 title: "Règlement de promotion de la première année tronc commun des formations d'aide familiale, d'assistance en soins et santé communautaire et de gestion en économie familiale"
 language: fr
-version: 2003-06-03
-valid_until: 2022-01-31
-version_adopted: 2003-06-03
+version: 2022-02-01
+valid_until: 2023-02-28
+version_adopted: 2022-04-01
 adopted: 2003-06-03
 in_force: 2003-06-03
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/823.42"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5549/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7421/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5549/pdf_file"
 
 Formations d'aide familiale et de gestion en économie familiale – R
 
-du 03.06.2003 (version entrée en vigueur le 03.06.2003)
+du 03.06.2003 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -134,7 +134,7 @@ Arrête:
 
 <sup>1</sup> Toute décision prise à l'égard d'un ou d'une apprenti-e peut, dans les dix jours qui suivent la notification de la décision contestée, faire l'objet d'une réclamation auprès de la direction du site dont dépend administrativement l'apprenti-e.
 
-<sup>2</sup> Toute décision sur réclamation peut, dans les dix jours, faire l'objet d'un recours soit à la Direction de l'instruction publique, de la culture et du sport, soit à la Direction des institutions, de l'agriculture et des forêts.
+<sup>2</sup> Toute décision sur réclamation peut, dans les dix jours, faire l'objet d'un recours soit à la Direction de la formation et des affaires culturelles, soit à la Direction des institutions, de l'agriculture et des forêts.
 
 ## 7 Entrée en vigueur
 

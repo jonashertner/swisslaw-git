@@ -3,13 +3,13 @@ canton: FR
 number: "823.42"
 title: "Reglement über die Beförderung im gemeinsamen 1. Ausbildungsjahr der Hauspflegerinnen und Hauspfleger, der Fachangestellten Gesundheit und der Hauswirtschafterinnen und Hauswirtschafter"
 language: de
-version: 2003-06-03
-valid_until: 2022-01-31
-version_adopted: 2003-06-03
+version: 2022-02-01
+valid_until: 2023-02-28
+version_adopted: 2022-04-01
 adopted: 2003-06-03
 in_force: 2003-06-03
 url: "https://bdlf.fr.ch/app/de/texts_of_law/823.42"
-pdf: "https://bdlf.fr.ch/api/de/versions/5549/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7421/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5549/pdf_file"
 
 Ausbildung in Hauspflege und Hauswirtschaft - R
 
-vom 03.06.2003 (Fassung in Kraft getreten am 03.06.2003)
+vom 03.06.2003 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -134,7 +134,7 @@ beschliesst:
 
 <sup>1</sup> Jeder Entscheid, der gegen eine auszubildende Person getroffen wurde, kann innert 10 Tagen nach dessen Mitteilung bei der Direktion des Ausbildungsortes, dem die auszubildende Person administrativ zugeordnet ist, mit Einsprache angefochten werden.
 
-<sup>2</sup> Gegen jeden Einspracheentscheid kann innert 10 Tagen nach dessen Mitteilung entweder bei der Direktion für Erziehung, Kultur und Sport oder bei der Direktion der Institutionen und der Land- und Forstwirtschaft Beschwerde eingereicht werden.
+<sup>2</sup> Gegen jeden Einspracheentscheid kann innert 10 Tagen nach dessen Mitteilung entweder bei der Direktion für Bildung und kulturelle Angelegenheiten oder bei der Direktion der Institutionen und der Land- und Forstwirtschaft Beschwerde eingereicht werden.
 
 ## 7 Inkrafttreten
 
