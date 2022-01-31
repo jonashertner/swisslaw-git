@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2022-01-01
+version: 2022-02-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20220201/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20220201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220101/it"
 
 (Ordinanza sulle prestazioni, OPre)**[^t-1]**
 
-del 29 settembre 1995 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 29 settembre 1995 (Stato 1° febbraio 2022) (Stato 1° febbraio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -1341,7 +1341,7 @@ Una domanda di ammissione nell’elenco delle specialità deve contenere in part
 [^30a-1]: Introdotto dal n. I dellʼO del DFI del 2 lug. 2002, in vigore dal 1° lug. 2002 ([RU 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)).
 [^30a-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 [^30a-3]: Introdotta dal n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
-[^30a-4]: Introdotta dal n. I dellʼO del DFI del 26 apr. 2006, in vigore dal 1° mag. 2006 (RU **2****006** 1757).
+[^30a-4]: Introdotta dal n. I dellʼO del DFI del 26 apr. 2006, in vigore dal 1° mag. 2006 ([RU 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)).
 [^30a-5]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 [^30a-6]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 [^30a-7]: Abrogata dal n. I dellʼO del DFI dellʼ8 mag. 2013, con effetto dal 1° giu. 2013 ([RU 2013 1357](https://fedlex.data.admin.ch/eli/oc/2013/319)).
@@ -2072,7 +2072,7 @@ Allegato 1a*[^t-3]*
 
 (art. 3*c* cpv. 4)
 
-## Limitazione dellʼassunzione dei costi per determinati interventi elettivi
+## Limitazione dellʼassunzione dei costi per determinati interventi elettivi****
 
 [^annex1a-lvlu1-1]
 
@@ -2083,7 +2083,7 @@ Allegato 2*[^t-4]*
 
 (art. 20*a*)
 
-## Elenco dei mezzi e degli apparecchi
+## Elenco dei mezzi e degli apparecchi****
 
 [^annex2-lvlu1-1]
 
@@ -2098,14 +2098,14 @@ Allegato 3*[^t-5]*
 
 [^annex3-lvlu1-1]
 
-[^t-5]: Aggiornato dal n. I delle O del DFI del 28 gen. 2009 ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), del 26 giu. 2009 ([RU 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), dal n. II cpv. 3 delle O del DFI del 27 ott. 2009 ([RU 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), del 14 giu. 2010 ([RU 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), del 2 dic. 2010 ([RU 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), del 31 mag. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), del 12 giu. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), dal n. I dell’O del DFI del 13 ago. 2012 ([RU 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), dal n. II cpv. 3 delle O del DFI del 15 nov. 2012 ([RU 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), del 6 dic. 2013 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), del 16 mag. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), dal n. I dell’O del DFI del 21 ott. 2014 ([RU 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), dal n. II cpv. 3 delle O del DFI del 20 nov. 2014 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), del 17 giu. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), del 27 nov. 2015 ([RU 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), del 20 giu. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), del 25 nov. 2016 ([RU 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), del 2 giu. 2017 ([RU 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), del 28 nov. 2017 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), del 7 giu. 2018 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), dal n. II cpv. 4 dell’O del DFI del 30 nov. 2018 ([RU 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), dal n. II cpv. 3 delle O del DFI del 16 gen. 2019 ([RU 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), del 6 giu. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), dal n. I delle O del DFI del 28 feb. 2020 ([RU 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), del 27 apr. 2020 ([RU 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), dal n. II cpv. 4 dell’O del DFI del 27 mag. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), dal n. I dell’O del DFI del 25 set. 2020 ([RU 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), dal n. II cpv. 4 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), dal n. I delle O del DFI del 5 gen. 2021 ([RU 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), del 26 feb. 2021 ([RU 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), dal n. II cpv. 3 d dell’O del DFI del 8 giu. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)) e dal n. II cpv. 4 dell’O del DFI del 1° dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
-[^annex3-lvlu1-1]: Non pubblicato nella RU (art. 28). La modifica può essere consultata all ’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; ww.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA).
+[^t-5]: Aggiornato dal n. I delle O del DFI del 28 gen. 2009 ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), del 26 giu. 2009 ([RU 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), dal n. II cpv. 3 delle O del DFI del 27 ott. 2009 ([RU 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), del 14 giu. 2010 ([RU 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), del 2 dic. 2010 ([RU 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), del 31 mag. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), del 12 giu. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), dal n. I dell’O del DFI del 13 ago. 2012 ([RU 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), dal n. II cpv. 3 delle O del DFI del 15 nov. 2012 ([RU 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), del 6 dic. 2013 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), del 16 mag. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), dal n. I dell’O del DFI del 21 ott. 2014 ([RU 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), dal n. II cpv. 3 delle O del DFI del 20 nov. 2014 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), del 17 giu. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), del 27 nov. 2015 ([RU 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), del 20 giu. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), del 25 nov. 2016 ([RU 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), del 2 giu. 2017 ([RU 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), del 28 nov. 2017 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), del 7 giu. 2018 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), dal n. II cpv. 4 dell’O del DFI del 30 nov. 2018 ([RU 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), dal n. II cpv. 3 delle O del DFI del 16 gen. 2019 ([RU 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), del 6 giu. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), dal n. I delle O del DFI del 28 feb. 2020 ([RU 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), del 27 apr. 2020 ([RU 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), dal n. II cpv. 4 dell’O del DFI del 27 mag. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), dal n. I dell’O del DFI del 25 set. 2020 ([RU 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), dal n. II cpv. 4 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), dal n. I delle O del DFI del 5 gen. 2021 ([RU 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), del 26 feb. 2021 ([RU 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), dal n. II cpv. 3 d dell’O del DFI del 8 giu. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), dal n. II cpv. 4 dell’O del DFI del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)) e dal n. I dell’O del DFI del 1° dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)).
+[^annex3-lvlu1-1]: Non pubblicato nella RU (art. 28). La mod. può essere consultata all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp).
 
 Allegato 4*[^t-6]*
 
 (art. 29)
 
-## Elenco dei medicamenti con tariffa (EMT)
+## Elenco dei medicamenti con tariffa (EMT)****
 
 [^annex4-lvlu1-1]
 
