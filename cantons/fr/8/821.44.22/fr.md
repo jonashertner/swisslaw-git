@@ -3,13 +3,12 @@ canton: FR
 number: "821.44.22"
 title: Ordonnance sur la Commission cantonale des addictions
 language: fr
-version: 2014-07-01
-valid_until: 2022-01-31
-version_adopted: 2014-06-23
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2014-06-23
 in_force: 2014-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.44.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5523/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7419/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5523/pdf_file"
 
 Commission cantonale des addictions – O
 
-du 23.06.2014 (version entrée en vigueur le 01.07.2014)
+du 23.06.2014 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -38,7 +37,7 @@ Arrête:
 
 - a) une personne en assumant la présidence;
 - b) le ou la délégué-e cantonal-e aux questions liées aux addictions, représentant la Direction de la santé et des affaires sociales;
-- c) une personne représentant la Direction de la sécurité et de la justice (DSJ);
+- c) une personne représentant la Direction de la sécurité, de la justice et du sport (DSJS);
 - d) une personne représentant le Réseau fribourgeois de soins en santé mentale (RFSM);
 - e) une personne représentant l'hôpital fribourgeois (HFR);
 - f) une personne représentant la Société de médecine du canton de Fribourg (SMCF);

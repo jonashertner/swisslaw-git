@@ -3,13 +3,12 @@ canton: FR
 number: "821.44.22"
 title: Verordnung über die kantonale Kommission für Suchtfragen
 language: de
-version: 2014-07-01
-valid_until: 2022-01-31
-version_adopted: 2014-06-23
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2014-06-23
 in_force: 2014-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.44.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/5523/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7419/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5523/pdf_file"
 
 Kantonale Kommission für Suchtfragen – V
 
-vom 23.06.2014 (Fassung in Kraft getreten am 01.07.2014)
+vom 23.06.2014 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -38,7 +37,7 @@ beschliesst:
 
 - a) eine Präsidentin oder ein Präsident;
 - b) die oder der kantonale Beauftragte für Suchtfragen, für die Direktion für Gesundheit und Soziales;
-- c) eine Person für die Sicherheits- und Justizdirektion;
+- c) eine Person für die Sicherheits-, Justiz- und Sportdirektion;
 - d) eine Person für das Freiburger Netzwerk für psychische Gesundheit;
 - e) eine Person für das freiburger spital (HFR);
 - f) eine Person für die Ärztegesellschaft des Kantons Freiburg;
