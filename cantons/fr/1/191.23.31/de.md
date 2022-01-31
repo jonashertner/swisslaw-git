@@ -3,13 +3,12 @@ canton: FR
 number: "191.23.31"
 title: Beschluss über die Errichtung der Stiftung Altenryf
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-11-14
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 1966-12-27
 in_force: 1966-12-27
 url: "https://bdlf.fr.ch/app/de/texts_of_law/191.23.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/5112/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7251/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5112/pdf_file"
 
 Errichtung der Stiftung Altenryf – B
 
-vom 27.12.1966 (Fassung in Kraft getreten am 01.01.2003)
+vom 27.12.1966 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -96,7 +95,7 @@ beschliesst:
 
 #### Art. 9
 
-<sup>1</sup> Der Stiftungsrat erstellt das Ausführungsprogramm der auf mehrere Jahre zu verteilenden Renovationsarbeiten und unterbreitet dieses mit Kostenvoranschlag der Raumplanungs-, Umwelt- und Baudirektion (die Direktion.
+<sup>1</sup> Der Stiftungsrat erstellt das Ausführungsprogramm der auf mehrere Jahre zu verteilenden Renovationsarbeiten und unterbreitet dieses mit Kostenvoranschlag der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (die Direktion).
 
 <sup>2</sup> Er unterbreitet der Direktion in regelmässigen Abständen den Voranschlag für die Wiederaufbau-, Renovations- und die grösseren Reparaturarbeiten zur Genehmigung.
 

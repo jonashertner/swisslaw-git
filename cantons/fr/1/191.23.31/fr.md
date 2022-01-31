@@ -3,13 +3,12 @@ canton: FR
 number: "191.23.31"
 title: "Arrêté concernant l'érection de la Fondation d'Hauterive"
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-11-14
+version: 2022-02-01
+version_adopted: 2022-02-18
 adopted: 1966-12-27
 in_force: 1966-12-27
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/191.23.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5112/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7251/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5112/pdf_file"
 
 Fondation d'Hauterive – A
 
-du 27.12.1966 (version entrée en vigueur le 01.01.2003)
+du 27.12.1966 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -98,7 +97,7 @@ Arrête:
 
 #### Art. 9
 
-<sup>1</sup> Le Conseil de fondation établira le programme des réparations à effectuer, étalé sur plusieurs années, qui sera présenté avec devis à la Direction de l'aménagement, de l'environnement et des constructions (ci-après: la Direction).
+<sup>1</sup> Le Conseil de fondation établira le programme des réparations à effectuer, étalé sur plusieurs années, qui sera présenté avec devis à la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: la Direction).
 
 <sup>2</sup> Il soumet périodiquement pour approbation à la Direction le budget des reconstructions, rénovations et réparations majeures.
 
