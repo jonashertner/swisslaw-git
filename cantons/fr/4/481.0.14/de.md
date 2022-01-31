@@ -3,13 +3,12 @@ canton: FR
 number: "481.0.14"
 title: Beteiligung des Staates an der Finanzierung von Dritten gegründeter kultureller Institutionen
 language: de
-version: 2018-06-01
-valid_until: 2022-01-31
-version_adopted: 2018-05-29
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2018-05-29
 in_force: 2018-06-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/481.0.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/5324/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7315/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5324/pdf_file"
 
 Von Dritten gegründete kulturelle Institutionen, Finanzierung des Staates – V
 
-vom 29.05.2018 (Fassung in Kraft getreten am 01.06.2018)
+vom 29.05.2018 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -68,7 +67,7 @@ beschliesst:
 
 **Verfahren und Zuständigkeit**
 
-<sup>1</sup> Das Beitragsgesuch muss zusammen mit einer ausführlichen Beschreibung der kulturellen Institution, einem detaillierten Voranschlag und einem Finanzierungsplan bei der Direktion für Erziehung, Kultur und Sport (die Direktion) eingereicht werden. Die Institution muss auf Verlangen alle weiteren erforderlichen Auskünfte und Beweisstücke vorlegen.
+<sup>1</sup> Das Beitragsgesuch muss zusammen mit einer ausführlichen Beschreibung der kulturellen Institution, einem detaillierten Voranschlag und einem Finanzierungsplan bei der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) eingereicht werden. Die Institution muss auf Verlangen alle weiteren erforderlichen Auskünfte und Beweisstücke vorlegen.
 
 <sup>2</sup> Die Direktion kann im Rahmen der budgetären Möglichkeiten über die Gewährung des beantragten Beitrags oder eines Teils davon entscheiden.
 

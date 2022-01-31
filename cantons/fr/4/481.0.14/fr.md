@@ -3,13 +3,12 @@ canton: FR
 number: "481.0.14"
 title: "Ordonnance relative à la participation de l'Etat au financement de nouvelles institutions culturelles fondées par des tiers"
 language: fr
-version: 2018-06-01
-valid_until: 2022-01-31
-version_adopted: 2018-05-29
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 2018-05-29
 in_force: 2018-06-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/481.0.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5324/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7315/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5324/pdf_file"
 
 Institutions culturelles fondées par des tiers, financement de l'Etat – O
 
-du 29.05.2018 (version entrée en vigueur le 01.06.2018)
+du 29.05.2018 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -68,7 +67,7 @@ Arrête:
 
 **Procédure et compétence**
 
-<sup>1</sup> Toute demande de subvention doit être adressée à la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction), accompagnée d'une présentation exhaustive de l'institution culturelle concernée, d'un budget détaillé et d'un plan de financement. L'institution a l'obligation de fournir, sur demande, tous les autres renseignements et toutes les pièces justificatives nécessaires.
+<sup>1</sup> Toute demande de subvention doit être adressée à la Direction de la formation et des affaires culturelles (ci-après: la Direction), accompagnée d'une présentation exhaustive de l'institution culturelle concernée, d'un budget détaillé et d'un plan de financement. L'institution a l'obligation de fournir, sur demande, tous les autres renseignements et toutes les pièces justificatives nécessaires.
 
 <sup>2</sup> Dans les limites des disponibilités budgétaires, la Direction est compétente pour décider de l'octroi de la subvention demandée ou d'une partie seulement de celle-ci.
 
