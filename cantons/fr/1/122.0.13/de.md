@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: Verordnung zur Bezeichnung der Verwaltungseinheiten der Direktionen des Staatsrats und der Staatskanzlei
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2022-01-31
+version: 2022-02-01
+valid_until: 2022-11-30
+version_adopted: 2022-02-18
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7103/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7236/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7103/pdf_file"
 
 Verwaltungseinheiten der Direktionen und der Staatskanzlei – V
 
-vom 09.07.2002 (Fassung in Kraft getreten am 01.01.2022)
+vom 09.07.2002 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -28,11 +28,11 @@ beschliesst:
 
 #### Art. 1
 
-**Direktion für Erziehung, Kultur und Sport (EKSD)**
+**Direktion für Bildung und kulturelle Angelegenheiten (BKAD)**
 
-<sup>1</sup> Der Direktion für Erziehung, Kultur und Sport sind folgende Verwaltungseinheiten unterstellt:
+<sup>1</sup> Der Direktion für Bildung und kulturelle Angelegenheiten sind folgende Verwaltungseinheiten unterstellt:
 
-- a) das Generalsekretariat (GS-EKSD);
+- a) das Generalsekretariat (GS-BKAD);
 - b) das Amt für französischsprachigen obligatorischen Unterricht (FOA);
 - c) das Amt für deutschsprachigen obligatorischen Unterricht (DOA);
 - d) das Amt für Sonderpädagogik (SoA);
@@ -40,7 +40,7 @@ beschliesst:
 - f) das Amt für Universitätsfragen (UFA);
 - g) das Amt für Berufsberatung und Erwachsenenbildung (BEA);
 - h) das Amt für Ausbildungsbeiträge (ABBA);
-- i) das Amt für Sport (SpA);
+- i) …
 - j) das Amt für Kultur (KA);
 - k) das Amt für Archäologie (AAFR);
 - l) das Amt für Kulturgüter (KGA);
@@ -56,11 +56,11 @@ beschliesst:
 
 #### Art. 2
 
-**Sicherheits- und Justizdirektion (SJD)**
+**Sicherheits-, Justiz- und Sportdirektion (SJSD)**
 
-<sup>1</sup> Der Sicherheits- und Justizdirektion sind folgende Verwaltungseinheiten unterstellt:
+<sup>1</sup> Der Sicherheits-, Justiz- und Sportdirektion sind folgende Verwaltungseinheiten unterstellt:
 
-- a) das Generalsekretariat (GS-SJD);
+- a) das Generalsekretariat (GS-SJSD);
 - b) die Kantonspolizei (Pol);
 - c) das Amt für Bevölkerungsschutz und Militär (BSMA);
 - d) das Amt für Bevölkerung und Migration (BMA);
@@ -71,6 +71,7 @@ beschliesst:
 - h) …
 - i) …
 - j) …
+- k) das Amt für Sport (SpA).
 
 <sup>2</sup> Folgende Einheiten sind ihr administrativ zugewiesen:
 
@@ -104,11 +105,11 @@ beschliesst:
 
 #### Art. 4
 
-**Volkswirtschaftsdirektion (VWD)**
+**Volkswirtschafts- und Berufsbildungsdirektion (VWBD)**
 
-<sup>1</sup> Der Volkswirtschaftsdirektion sind folgende Verwaltungseinheiten unterstellt:
+<sup>1</sup> Der Volkswirtschafts- und Berufsbildungsdirektion sind folgende Verwaltungseinheiten unterstellt:
 
-- a) das Generalsekretariat (GS-VWD);
+- a) das Generalsekretariat (GS-VWBD);
 - b) die Wirtschaftsförderung Kanton Freiburg (WIF);
 - c) das Amt für den Arbeitsmarkt (AMA);
 - d) das Handelsregisteramt (HRA);
@@ -171,11 +172,11 @@ beschliesst:
 
 #### Art. 7
 
-**Raumplanungs-, Umwelt- und Baudirektion (RUBD)**
+**Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU)**
 
-<sup>1</sup> Der Raumplanungs-, Umwelt und Baudirektion sind folgende Verwaltungseinheiten unterstellt:
+<sup>1</sup> Der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt sind folgende Verwaltungseinheiten unterstellt:
 
-- a) das Generalsekretariat (GS-RUBD);
+- a) das Generalsekretariat (GS-RIMU);
 - b) das Bau- und Raumplanungsamt (BRPA);
 - c) das Amt für Umwelt (AfU);
 - c<sup>bis</sup>) das Amt für Mobilität (MobA);

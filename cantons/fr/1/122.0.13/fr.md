@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: "Ordonnance désignant les unités administratives des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2022-01-31
+version: 2022-02-01
+valid_until: 2022-11-30
+version_adopted: 2022-02-18
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7103/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7236/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7103/pdf_file"
 
 Unités administratives des Directions et de la Chancellerie – O
 
-du 09.07.2002 (version entrée en vigueur le 01.01.2022)
+du 09.07.2002 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -28,11 +28,11 @@ Arrête:
 
 #### Art. 1
 
-**Direction de l'instruction publique, de la culture et du sport (DICS)**
+**Direction de la formation et des affaires culturelles (DFAC)**
 
-<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport comprend les unités administratives subordonnées suivantes:
+<sup>1</sup> La Direction de la formation et des affaires culturelles comprend les unités administratives subordonnées suivantes:
 
-- a) le Secrétariat général (SG-DICS);
+- a) le Secrétariat général (SG-DFAC);
 - b) le Service de l'enseignement obligatoire de langue française (SEnOF);
 - c) le Service de l'enseignement obligatoire de langue allemande (SEnOA);
 - d) le Service de l'enseignement spécialisé et des mesures d'aide (SESAM);
@@ -40,7 +40,7 @@ Arrête:
 - f) le Service des affaires universitaires (SAfU);
 - g) le Service de l'orientation professionnelle et de la formation des adultes (SOPFA);
 - h) le Service des subsides de formation (SSF);
-- i) le Service du sport (SSpo);
+- i) …
 - j) le Service de la culture (SeCu);
 - k) le Service archéologique (SAEF);
 - l) le Service des biens culturels (SBC);
@@ -56,11 +56,11 @@ Arrête:
 
 #### Art. 2
 
-**Direction de la sécurité et de la justice (DSJ)**
+**Direction de la sécurité, de la justice et du sport (DSJS)**
 
-<sup>1</sup> La Direction de la sécurité et de la justice comprend les unités administratives subordonnées suivantes:
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport comprend les unités administratives subordonnées suivantes:
 
-- a) le Secrétariat général (SG-DSJ);
+- a) le Secrétariat général (SG-DSJS);
 - b) la Police cantonale (Pol);
 - c) le Service de la protection de la population et des affaires militaires (SPPAM);
 - d) le Service de la population et des migrants (SPoMi);
@@ -71,6 +71,7 @@ Arrête:
 - h) …
 - i) …
 - j) …
+- k) le Service du sport (SSpo).
 
 <sup>2</sup> Lui sont rattachées administrativement les unités suivantes:
 
@@ -104,11 +105,11 @@ Arrête:
 
 #### Art. 4
 
-**Direction de l'économie et de l'emploi (DEE)**
+**Direction de l'économie, de l'emploi et de la formation professionnelle (DEEF)**
 
-<sup>1</sup> La Direction de l'économie et de l'emploi comprend les unités administratives subordonnées suivantes:
+<sup>1</sup> La Direction de l'économie, de l'emploi et de la formation professionnelle comprend les unités administratives subordonnées suivantes:
 
-- a) le Secrétariat général (SG-DEE);
+- a) le Secrétariat général (SG-DEEF);
 - b) la Promotion économique du canton de Fribourg (PromFR);
 - c) le Service public de l'emploi (SPE);
 - d) le Service du registre du commerce (SRC);
@@ -171,11 +172,11 @@ Arrête:
 
 #### Art. 7
 
-**Direction de l'aménagement, de l'environnement et des constructions (DAEC)**
+**Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (DIME)**
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions comprend les unités administratives subordonnées suivantes:
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement comprend les unités administratives subordonnées suivantes:
 
-- a) le Secrétariat général (SG-DAEC);
+- a) le Secrétariat général (SG-DIME);
 - b) le Service des constructions et de l'aménagement (SeCA);
 - c) le Service de l'environnement (SEn);
 - c<sup>bis</sup>) le Service de la mobilité (SMo);
