@@ -4,13 +4,13 @@ number: "952.11"
 title: Reglement über die öffentlichen Gaststätten
 short: ÖGR
 language: de
-version: 2020-07-01
-valid_until: 2022-01-31
-version_adopted: 2020-06-29
+version: 2022-02-01
+valid_until: 2024-06-30
+version_adopted: 2022-04-08
 adopted: 1992-11-16
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/952.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8601/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8602/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8601/pdf_file"
 
 (ÖGR)
 
-vom 16.11.1992 (Fassung in Kraft getreten am 01.07.2020)
+vom 16.11.1992 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -509,7 +509,7 @@ beschliesst:
 
 **Fähigkeitsausweis**
 
-<sup>1</sup> Hat der Kandidat die Prüfung über das Programm der obligatorischen Ausbildung nach Artikel 28 bestanden, so händigt ihm die Sicherheits- und Justizdirektion einen Fähigkeitsausweis aus.
+<sup>1</sup> Hat der Kandidat die Prüfung über das Programm der obligatorischen Ausbildung nach Artikel 28 bestanden, so händigt ihm die Sicherheits-, Justiz- und Sportdirektion einen Fähigkeitsausweis aus.
 
 <sup>2</sup> In den Fällen nach Artikel 29 erhält der Kandidat eine dem Fähigkeitsausweis im Sinne von Artikel 31 des Gesetzes gleichgestellte Bestätigung.
 

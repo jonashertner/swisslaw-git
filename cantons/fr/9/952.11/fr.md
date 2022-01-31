@@ -4,13 +4,13 @@ number: "952.11"
 title: Règlement sur les établissements publics
 short: REPu
 language: fr
-version: 2020-07-01
-valid_until: 2022-01-31
-version_adopted: 2020-06-29
+version: 2022-02-01
+valid_until: 2024-06-30
+version_adopted: 2022-04-08
 adopted: 1992-11-16
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/952.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8601/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8602/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Etablissements publics – R
 
 (REPu)
 
-du 16.11.1992 (version entrée en vigueur le 01.07.2020)
+du 16.11.1992 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -509,7 +509,7 @@ Arrête:
 
 **Certificat de capacité**
 
-<sup>1</sup> Lorsque l'examen portant sur le programme de formation obligatoire fixée à l'article 28 est réussi, la Direction de la sécurité et de la justice remet au candidat un certificat de capacité professionnelle.
+<sup>1</sup> Lorsque l'examen portant sur le programme de formation obligatoire fixée à l'article 28 est réussi, la Direction de la sécurité, de la justice et du sport remet au candidat un certificat de capacité professionnelle.
 
 <sup>2</sup> Dans les cas visés par l'article 29, le candidat reçoit une attestation qui est assimilée au certificat de capacité professionnelle au sens de l'article 31 de la loi.
 
