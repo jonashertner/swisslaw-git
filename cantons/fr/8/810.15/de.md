@@ -4,13 +4,13 @@ number: "810.15"
 title: Verordnung über die Umweltverträglichkeitsprüfungen und die massgeblichen Verfahren
 short: UVPVV
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-01
 adopted: 2002-07-02
 in_force: 2002-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/7037/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7395/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Umweltverträglichkeitsprüfungen – V
 
 (UVPVV)
 
-vom 02.07.2002 (Fassung in Kraft getreten am 01.01.2022)
+vom 02.07.2002 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -85,7 +85,7 @@ beschliesst:
 - c) die Erteilung der Standortbewilligung für die in Artikel 152 RPBG vorgesehenen Fälle;
 - d) die Erteilung der Baubewilligung für alle übrigen Fälle (Art. 135 ff RPBG).
 
-<sup>3</sup> Für die Fälle nach Absatz 2 Bst. a und b sowie für Projekte ausserhalb der Bauzonen nach Absatz 2 Bst. d (Art. 16a und 24 des Bundesgesetzes über die Raumplanung und Art. 136 RPBG) ist die Raumplanungs-, Umwelt- und Baudirektion (RUBD) zuständig.
+<sup>3</sup> Für die Fälle nach Absatz 2 Bst. a und b sowie für Projekte ausserhalb der Bauzonen nach Absatz 2 Bst. d (Art. 16a und 24 des Bundesgesetzes über die Raumplanung und Art. 136 RPBG) ist die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU) zuständig.
 
 <sup>4</sup> Der Oberamtmann ist die zuständige Behörde für die in Absatz 2 Bst. c und d erwähnten Fälle.
 
@@ -97,7 +97,7 @@ beschliesst:
 
 <sup>1</sup> Für Projekte, deren Realisierung ausschliesslich vom Gesetz über die öffentlichen Sachen abhängt (Anhang 4), ist die Konzession oder die Bewilligung das massgebliche Verfahren (Art. 21 ff. des Gesetzes vom 4. Februar 1972 über die öffentlichen Sachen).
 
-<sup>2</sup> Die Raumplanungs-, Umwelt- und Baudirektion ist die zuständige Behörde.
+<sup>2</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt ist die zuständige Behörde.
 
 <sup>3</sup> Das AfU ist die Koordinationsbehörde.
 
@@ -107,7 +107,7 @@ beschliesst:
 
 <sup>1</sup> Für Projekte, deren Realisierung vom Strassengesetz (Anhang 2) abhängt, ist die Plangenehmigung das massgebliche Verfahren (Art. 37 Strassengesetz).
 
-<sup>2</sup> Die Raumplanungs-, Umwelt- und Baudirektion ist die zuständige Behörde.
+<sup>2</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt ist die zuständige Behörde.
 
 <sup>3</sup> Das Tiefbauamt ist die Koordinationsbehörde.
 

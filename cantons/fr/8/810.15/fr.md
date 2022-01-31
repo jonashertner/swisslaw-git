@@ -4,13 +4,13 @@ number: "810.15"
 title: "Ordonnance sur les études d'impact sur l'environnement et les procédures décisives"
 short: OEIEP
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-01
 adopted: 2002-07-02
 in_force: 2002-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7037/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7395/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Etudes d'impact sur l'environnement – O
 
 (OEIEP)
 
-du 02.07.2002 (version entrée en vigueur le 01.01.2022)
+du 02.07.2002 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -85,7 +85,7 @@ Arrête:
 - c) le permis d'implantation pour les cas prévus à l'article 152 LATeC;
 - d) le permis de construire pour tous les autres cas (art. 135ss LATeC).
 
-<sup>3</sup> La Direction de l'aménagement, de l'environnement et des constructions (DAEC) est l'autorité compétente pour les cas mentionnés aux lettres a et b et pour ceux qui sont mentionnés à la lettre d lorsque le projet est situé hors de la zone à bâtir (art. 16a et 24 de la loi fédérale sur l'aménagement du territoire et art. 136 LATeC).
+<sup>3</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (DIME) est l'autorité compétente pour les cas mentionnés aux lettres a et b et pour ceux qui sont mentionnés à la lettre d lorsque le projet est situé hors de la zone à bâtir (art. 16a et 24 de la loi fédérale sur l'aménagement du territoire et art. 136 LATeC).
 
 <sup>4</sup> Le préfet est l'autorité compétente pour les cas mentionnés aux lettres c et d de l'alinéa 2.
 
@@ -97,7 +97,7 @@ Arrête:
 
 <sup>1</sup> Pour les projets dont la réalisation dépend uniquement de la loi sur le domaine public (Annexe 4), la procédure décisive est celle de l'autorisation ou de la concession (art. 21ss de la loi du 4 février 1972 sur le domaine public).
 
-<sup>2</sup> La Direction de l'aménagement, de l'environnement et des constructions est l'autorité compétente.
+<sup>2</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement est l'autorité compétente.
 
 <sup>3</sup> Le SEn est le service de coordination.
 
@@ -107,7 +107,7 @@ Arrête:
 
 <sup>1</sup> Pour les projets dont la réalisation dépend de la loi sur les routes (Annexe 2), la procédure décisive est celle de l'approbation du plan de route (art. 37 de la loi sur les routes).
 
-<sup>2</sup> La Direction de l'aménagement, de l'environnement et des constructions est l'autorité compétente.
+<sup>2</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement est l'autorité compétente.
 
 <sup>3</sup> Le Service des ponts et chaussées est le service de coordination.
 
