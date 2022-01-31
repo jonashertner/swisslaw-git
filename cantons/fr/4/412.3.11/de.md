@@ -4,13 +4,13 @@ number: "412.3.11"
 title: Reglement über die Vollzeit-Handelsmittelschule
 short: VHR
 language: de
-version: 2021-08-01
-valid_until: 2022-01-31
-version_adopted: 2021-05-26
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2016-06-21
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.3.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6843/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Vollzeit-Handelsmittelschule – R
 
 (VHR)
 
-vom 21.06.2016 (Fassung in Kraft getreten am 01.08.2021)
+vom 21.06.2016 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -66,7 +66,7 @@ beschliesst:
 
 <sup>5</sup> Der Eintritt erfolgt zu Beginn des Schuljahres, ausser es liegen aussergewöhnliche Umstände vor.
 
-<sup>6</sup> Die Angaben zum Aufnahmeverfahren, darunter insbesondere die Anmeldefrist, werden von der Direktion für Erziehung, Kultur und Sport (nachfolgend: die Direktion) jeweils vor dem 31. Januar im Amtsblatt veröffentlicht.
+<sup>6</sup> Die Angaben zum Aufnahmeverfahren, darunter insbesondere die Anmeldefrist, werden von der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) jeweils vor dem 31. Januar im Amtsblatt veröffentlicht.
 
 #### Art. 3
 

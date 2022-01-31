@@ -4,13 +4,13 @@ number: "412.3.11"
 title: "Règlement sur l'école de commerce à plein temps"
 short: RECPT
 language: fr
-version: 2021-08-01
-valid_until: 2022-01-31
-version_adopted: 2021-05-26
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2016-06-21
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.3.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6843/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7296/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Ecole de commerce à plein temps – R
 
 (RECPT)
 
-du 21.06.2016 (version entrée en vigueur le 01.08.2021)
+du 21.06.2016 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -66,7 +66,7 @@ Arrête:
 
 <sup>5</sup> Sauf circonstances exceptionnelles, l'entrée se fait au début de l'année scolaire.
 
-<sup>6</sup> Les indications relatives à la procédure d'admission, notamment le délai d'inscription, sont publiées par la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) dans la Feuille officielle avant le 31 janvier.
+<sup>6</sup> Les indications relatives à la procédure d'admission, notamment le délai d'inscription, sont publiées par la Direction de la formation et des affaires culturelles (ci-après: la Direction) dans la Feuille officielle avant le 31 janvier.
 
 #### Art. 3
 
