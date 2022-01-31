@@ -3,13 +3,12 @@ canton: FR
 number: "753.12"
 title: "Arrêté concernant l'utilisation des rives des lacs par les particuliers"
 language: fr
-version: 2019-04-01
-valid_until: 2022-01-31
-version_adopted: 2019-04-02
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1973-02-20
 in_force: 1973-02-20
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/753.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6010/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7354/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6010/pdf_file"
 
 Utilisation des rives des lacs par les particuliers – A
 
-du 20.02.1973 (version entrée en vigueur le 01.04.2019)
+du 20.02.1973 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -56,17 +55,17 @@ Arrête:
 
 #### Art. 3
 
-<sup>1</sup> Les passerelles et débarcadères privés établis sans autorisation seront démolis sur ordre de la Direction de l'aménagement, de l'environnement et des constructions. A défaut, la démolition sera effectuée aux frais du propriétaire.
+<sup>1</sup> Les passerelles et débarcadères privés établis sans autorisation seront démolis sur ordre de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement. A défaut, la démolition sera effectuée aux frais du propriétaire.
 
 #### Art. 4
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions demandera, moyennant un avis donné six mois à l'avance, la démolition des passerelles et autres débarcadères privés au bénéfice d'une autorisation à bien plaire.
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement demandera, moyennant un avis donné six mois à l'avance, la démolition des passerelles et autres débarcadères privés au bénéfice d'une autorisation à bien plaire.
 
 <sup>2</sup> Ces installations devront être enlevées au plus tard dans le délai d'un an dès l'établissement de ports collectifs de remplacement.
 
 #### Art. 5
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions est chargée de l'exécution du présent arrêté qui entre en vigueur immédiatement.
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement est chargée de l'exécution du présent arrêté qui entre en vigueur immédiatement.
 
 <sup>2</sup> Il sera publié dans la Feuille officielle, imprimé en livrets et inséré dans le Bulletin des lois.
 

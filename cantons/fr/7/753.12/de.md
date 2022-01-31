@@ -3,13 +3,12 @@ canton: FR
 number: "753.12"
 title: Beschluss über die Benützung der Seeufer durch Privatpersonen
 language: de
-version: 2019-04-01
-valid_until: 2022-01-31
-version_adopted: 2019-04-02
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1973-02-20
 in_force: 1973-02-20
 url: "https://bdlf.fr.ch/app/de/texts_of_law/753.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6010/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6010/pdf_file"
 
 Benützung der Seeufer durch Privatpersonen – B
 
-vom 20.02.1973 (Fassung in Kraft getreten am 01.04.2019)
+vom 20.02.1973 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -56,17 +55,17 @@ beschliesst:
 
 #### Art. 3
 
-<sup>1</sup> Die ohne Bewilligung erstellten privaten Brücken- und Schiffsstege werden auf Weisung der Raumplanungs-, Umwelt- und Baudirektion abgebrochen. Gegebenenfalls wird der Abbruch auf Kosten des Eigentümers ausgeführt.
+<sup>1</sup> Die ohne Bewilligung erstellten privaten Brücken- und Schiffsstege werden auf Weisung der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt abgebrochen. Gegebenenfalls wird der Abbruch auf Kosten des Eigentümers ausgeführt.
 
 #### Art. 4
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion wird den Abbruch privater Stege, die auf Zusehen hin bewilligt worden sind, durch eine sechs Monate zuvor gegebene Aufforderung, verlangen.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt wird den Abbruch privater Stege, die auf Zusehen hin bewilligt worden sind, durch eine sechs Monate zuvor gegebene Aufforderung, verlangen.
 
 <sup>2</sup> Diese Anlagen müssen spätestens innert Jahresfrist nach der Erstellung der gemeinsamen Ersatzhäfen abgebrochen sein.
 
 #### Art. 5
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion ist mit der Ausführung dieses Beschlusses beauftragt, der sofort in Kraft tritt.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt ist mit der Ausführung dieses Beschlusses beauftragt, der sofort in Kraft tritt.
 
 <sup>2</sup> Dieser Beschluss ist im Amtsblatt zu veröffentlichen, in die Amtliche Gesetzessammlung aufzunehmen und im Sonderdruck herauszugeben.
 
