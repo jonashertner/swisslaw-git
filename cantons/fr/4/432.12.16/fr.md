@@ -3,13 +3,13 @@ canton: FR
 number: "432.12.16"
 title: Ordonnance concernant les taxes et les contributions dues par les étudiants et étudiantes immatriculés à la Haute Ecole spécialisée de Suisse occidentale//Fribourg
 language: fr
-version: 2018-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-12-19
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/432.12.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5211/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7308/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5211/pdf_file"
 
 HES-SO//FR, taxes et contributions – O
 
-du 19.12.2017 (version entrée en vigueur le 01.01.2018)
+du 19.12.2017 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -146,7 +146,7 @@ Arrête:
 
 #### Art. 13
 
-<sup>1</sup> La Direction de l'économie et de l'emploi peut accorder, sur requête motivée et sur le préavis de la direction de la haute école concernée, une exemption des taxes.
+<sup>1</sup> La Direction de l'économie, de l'emploi et de la formation professionnelle peut accorder, sur requête motivée et sur le préavis de la direction de la haute école concernée, une exemption des taxes.
 
 #### Art. 14
 

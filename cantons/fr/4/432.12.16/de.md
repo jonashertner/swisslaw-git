@@ -3,13 +3,13 @@ canton: FR
 number: "432.12.16"
 title: Verordnung über die Gebühren und Beiträge von Studierenden an der Fachhochschule Westschweiz//Freiburg
 language: de
-version: 2018-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-12-19
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/432.12.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/5211/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7308/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5211/pdf_file"
 
 HES-SO//FR, Gebühren und Beiträge – V
 
-vom 19.12.2017 (Fassung in Kraft getreten am 01.01.2018)
+vom 19.12.2017 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -146,7 +146,7 @@ beschliesst:
 
 #### Art. 13
 
-<sup>1</sup> Die Volkswirtschaftsdirektion kann auf ein begründetes Gesuch hin die Gebühren auf Antrag der betreffenden Schuldirektion erlassen.
+<sup>1</sup> Die Volkswirtschafts- und Berufsbildungsdirektion kann auf ein begründetes Gesuch hin die Gebühren auf Antrag der betreffenden Schuldirektion erlassen.
 
 #### Art. 14
 
