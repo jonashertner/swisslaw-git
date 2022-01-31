@@ -4,13 +4,12 @@ number: "834.1.21"
 title: "Règlement sur les institutions spécialisées et les familles d'accueil professionnelles"
 short: RIFAP
 language: fr
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-12-16
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2019-12-16
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/834.1.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7369/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7422/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Institutions spécialisées et familles d'accueil professionnelles – R
 
 (RIFAP)
 
-du 16.12.2019 (version entrée en vigueur le 01.01.2020)
+du 16.12.2019 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -43,7 +42,7 @@ Arrête:
 
 <sup>1</sup> Sauf mention contraire du présent règlement, les compétences attribuées à une Direction sont exercées:
 
-- a) par la Direction de l'instruction publique, de la culture et du sport dans le domaine de la pédagogie spécialisée (ci-après: la DICS);
+- a) par la Direction de la formation et des affaires culturelles dans le domaine de la pédagogie spécialisée (ci-après: la DFAC);
 - b) par la Direction de la santé et des affaires sociales (ci-après: la DSAS) dans les autres domaines.
 
 #### Art. 2
@@ -131,7 +130,7 @@ Arrête:
 
 <sup>2</sup> Elle est composée de onze à treize membres représentant, en particulier, les Directions et services compétents, l'Administration des finances, les communes, l'association faîtière des institutions spécialisées (INFRI) ainsi que d'autres prestataires de services.
 
-<sup>3</sup> Elle est présidée par le conseiller ou la conseillère d'Etat en charge de la DSAS, et la vice-présidence est assurée par le conseiller ou la conseillère d'Etat en charge de la DICS.
+<sup>3</sup> Elle est présidée par le conseiller ou la conseillère d'Etat en charge de la DSAS, et la vice-présidence est assurée par le conseiller ou la conseillère d'Etat en charge de la DFAC.
 
 ### 2.3 Autorisation d'exploiter
 

@@ -4,13 +4,12 @@ number: "834.1.21"
 title: Reglement über die sonder- und sozialpädagogischen Institutionen und die professionellen Pflegefamilien
 short: SIPR
 language: de
-version: 2020-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-12-16
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2019-12-16
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/834.1.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7369/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Sonder- und sozialpädagogische Institutionen und professionelle Pflegefamilien 
 
 (SIPR)
 
-vom 16.12.2019 (Fassung in Kraft getreten am 01.01.2020)
+vom 16.12.2019 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -43,7 +42,7 @@ beschliesst:
 
 <sup>1</sup> Sofern in diesem Reglement nicht anders vermerkt gilt auf Direktionsstufe folgende Zuständigkeitsregelung:
 
-- a) Direktion für Erziehung, Kultur und Sport (EKSD): Bereich sonderpädagogischer Schulunterricht;
+- a) Direktion für Bildung und kulturelle Angelegenheiten (BKAD): Bereich sonderpädagogischer Schulunterricht;
 - b) Direktion für Gesundheit und Soziales (GSD): alle übrigen Bereiche.
 
 #### Art. 2
@@ -131,7 +130,7 @@ beschliesst:
 
 <sup>2</sup> Sie besteht aus elf bis dreizehn Vertreterinnen und Vertretern, insbesondere der zuständigen Direktionen und Ämter, der Finanzverwaltung, der Gemeinden, der Dachorganisation der sonder- und sozialpädagogischen Institutionen (INFRI) und anderer Leistungserbringenden.
 
-<sup>3</sup> Die oder der für die GSD verantwortliche Staatsrätin oder Staatsrat übt das Präsidium, die oder der für die EKSD verantwortliche Staatsrätin oder Staatsrat übt das Vizepräsidium aus.
+<sup>3</sup> Die oder der für die GSD verantwortliche Staatsrätin oder Staatsrat übt das Präsidium, die oder der für die BKAD verantwortliche Staatsrätin oder Staatsrat übt das Vizepräsidium aus.
 
 ### 2.3 Betriebsbewilligung
 
