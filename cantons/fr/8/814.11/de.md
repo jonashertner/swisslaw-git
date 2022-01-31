@@ -4,13 +4,12 @@ number: "814.11"
 title: Lärmschutz- und Schallverordnung
 short: LSSV
 language: de
-version: 2021-04-01
-valid_until: 2022-01-31
-version_adopted: 2021-02-23
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/814.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6832/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7544/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Lärmschutz – V
 
 (LSSV)
 
-vom 17.03.2009 (Fassung in Kraft getreten am 01.04.2021)
+vom 17.03.2009 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -58,9 +57,9 @@ beschliesst:
 
 #### Art. 2
 
-**Raumplanungs-, Umwelt- und Baudirektion (RUBD)**
+**Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU)**
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion (RUBD):
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU):
 
 - a) ordnet Sanierungen an;
 - b) gewährt Erleichterungen;
@@ -79,7 +78,7 @@ beschliesst:
 <sup>1</sup> Das Amt für Umwelt (AfU):
 
 - a) ordnet Lärmmessungen an;
-- b) kontrolliert die Einhaltung der Emissionsbegrenzungen und der Schallschutzmassnahmen, die von der RUBD oder der Oberamtsperson angeordnet wurden;
+- b) kontrolliert die Einhaltung der Emissionsbegrenzungen und der Schallschutzmassnahmen, die von der RIMU oder der Oberamtsperson angeordnet wurden;
 - c) ermittelt die Aussenlärmimmissionen ortsfester Anlagen oder ordnet deren Ermittlung an, wenn Grund zur Annahme besteht, dass die massgebenden Belastungsgrenzwerte überschritten werden oder ihre Überschreitung zu erwarten ist;
 - d) beurteilt die Lärmimmissionen nach Artikel 15 USG, wenn Belastungsgrenzwerte fehlen;
 - e) bewertet Sanierungsprojekte;
@@ -94,7 +93,7 @@ beschliesst:
 - k3) nimmt die Meldungen über Veranstaltungen mit elektroakustisch verstärktem Schall nach den Artikeln 20 Abs. 1 V-NISSG und 72 ÖGR entgegen;
 - l) führt alle Aufgaben aus, die diese Verordnung nicht ausdrücklich einer andern Behörde überträgt.
 
-<sup>2</sup> Das AfU erstellt regelmässig einen Bericht über die kantonalen Prioritäten und Massnahmen im Bereich des Lärmschutzes. Der Bericht wird der RUBD zur Genehmigung unterbreitet; diese holt die Meinungen der betroffenen Direktionen ein.
+<sup>2</sup> Das AfU erstellt regelmässig einen Bericht über die kantonalen Prioritäten und Massnahmen im Bereich des Lärmschutzes. Der Bericht wird der RIMU zur Genehmigung unterbreitet; diese holt die Meinungen der betroffenen Direktionen ein.
 
 #### Art. 4
 
@@ -155,7 +154,7 @@ beschliesst:
 
 <sup>3</sup> Die Gemeinden legen in den Zonennutzungsplänen und den einschlägigen Reglementen die Empfindlichkeitsstufe der verschiedenen Zonen fest.
 
-<sup>4</sup> Die Gemeinden behandeln die Klagen in ihrem Zuständigkeitsbereich und bemühen sich dabei um eine Schlichtung. Auf ihr Ersuchen nimmt das AfU eine technische Bewertung der Immissionen vor. Erweist sich eine Sanierungsverfügung als nötig, so leiten die Gemeinden das Dossier an die RUBD weiter.
+<sup>4</sup> Die Gemeinden behandeln die Klagen in ihrem Zuständigkeitsbereich und bemühen sich dabei um eine Schlichtung. Auf ihr Ersuchen nimmt das AfU eine technische Bewertung der Immissionen vor. Erweist sich eine Sanierungsverfügung als nötig, so leiten die Gemeinden das Dossier an die RIMU weiter.
 
 <sup>5</sup> Die Befugnisse nach kommunalem Polizeirecht im Bereich der öffentlichen Ruhe bleiben vorbehalten.
 
@@ -167,7 +166,7 @@ beschliesst:
 
 <sup>1</sup> Emissionsbegrenzungen bei neuen oder geänderten ortsfesten Anlagen werden von der Verfügungsbehörde im Rahmen des massgeblichen Verfahrens festgelegt.
 
-<sup>2</sup> Eine allfällige Erleichterung wird von der RUBD vor der Hauptverfügung gewährt.
+<sup>2</sup> Eine allfällige Erleichterung wird von der RIMU vor der Hauptverfügung gewährt.
 
 #### Art. 9
 
@@ -179,7 +178,7 @@ beschliesst:
 
 **Sanierungen (Art. 13 ff. LSV) – Allgemein**
 
-<sup>1</sup> Die RUBD ordnet bei ortsfesten Anlagen, die wesentlich zur Überschreitung der Immissionsgrenzwerte beitragen, die notwendigen Sanierungen an.
+<sup>1</sup> Die RIMU ordnet bei ortsfesten Anlagen, die wesentlich zur Überschreitung der Immissionsgrenzwerte beitragen, die notwendigen Sanierungen an.
 
 <sup>2</sup> Sie verlangt von der Inhaberschaft der Anlage Sanierungspläne.
 
@@ -203,17 +202,17 @@ beschliesst:
 
 **Sanierungen (Art. 13 ff. LSV) – Anhörung der Betroffenen**
 
-<sup>1</sup> Bevor die RUBD Sanierungsmassnahmen nach den Artikeln 10 und 12 anordnet, hört sie die Betroffenen und die Inhaberschaft der Anlage an und lässt ihnen hierfür den Verfügungsentwurf zukommen.
+<sup>1</sup> Bevor die RIMU Sanierungsmassnahmen nach den Artikeln 10 und 12 anordnet, hört sie die Betroffenen und die Inhaberschaft der Anlage an und lässt ihnen hierfür den Verfügungsentwurf zukommen.
 
-<sup>2</sup> Können die Betroffenen der Sanierung einer ortsfesten Anlage nicht genau definiert werden, so veröffentlicht die RUBD den Entwurf zur Sanierungsverfügung im Amtsblatt und informiert die Inhaberschaft der Anlage über diese Anhörung.
+<sup>2</sup> Können die Betroffenen der Sanierung einer ortsfesten Anlage nicht genau definiert werden, so veröffentlicht die RIMU den Entwurf zur Sanierungsverfügung im Amtsblatt und informiert die Inhaberschaft der Anlage über diese Anhörung.
 
-<sup>3</sup> Die Inhaberschaft der Anlage und alle Betroffenen können innerhalb von 30 Tagen zuhanden der RUBD eine Stellungnahme einreichen.
+<sup>3</sup> Die Inhaberschaft der Anlage und alle Betroffenen können innerhalb von 30 Tagen zuhanden der RIMU eine Stellungnahme einreichen.
 
 #### Art. 14
 
 **Sanierungen (Art. 13 ff. LSV) – Verfügung**
 
-<sup>1</sup> Die Sanierungsverfügung der RUBD wird der Inhaberschaft der Anlage zugestellt. Erfolgte die Anhörung mit Veröffentlichung im Amtsblatt, so wird auch die Sanierungsverfügung im Amtsblatt publiziert.
+<sup>1</sup> Die Sanierungsverfügung der RIMU wird der Inhaberschaft der Anlage zugestellt. Erfolgte die Anhörung mit Veröffentlichung im Amtsblatt, so wird auch die Sanierungsverfügung im Amtsblatt publiziert.
 
 <sup>2</sup> Ist die Sanierung Bestandteil eines Bauprojekts oder einer Nutzungsänderung, so wird die Sanierungsverfügung zusammen mit der Hauptverfügung kommuniziert.
 
@@ -274,6 +273,6 @@ beschliesst:
 
 **Genehmigung**
 
-Die Änderung vom 23.02.2021 ist vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation am 12.05.2021 genehmigt worden (siehe ASF INFO 2021-21).
+Die Änderung vom 23.02.2021 ist vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation am 12.05.2021 genehmigt worden ([ASF INFO 2021-21](https://bdlf.fr.ch/app/de/change_documents/3278)).
 
 2009\_030

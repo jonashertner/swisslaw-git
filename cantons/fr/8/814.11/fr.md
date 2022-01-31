@@ -4,13 +4,12 @@ number: "814.11"
 title: Ordonnance sur la protection contre le bruit et les dangers liés au son
 short: OPBS
 language: fr
-version: 2021-04-01
-valid_until: 2022-01-31
-version_adopted: 2021-02-23
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/814.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6832/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7544/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Protection contre le bruit – O
 
 (OPBS)
 
-du 17.03.2009 (version entrée en vigueur le 01.04.2021)
+du 17.03.2009 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -58,9 +57,9 @@ Arrête:
 
 #### Art. 2
 
-**Direction de l'aménagement, de l'environnement et des constructions (DAEC)**
+**Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (DIME)**
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions (DAEC) est l'autorité compétente pour:
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (DIME) est l'autorité compétente pour:
 
 - a) ordonner un assainissement;
 - b) accorder des allégements;
@@ -79,7 +78,7 @@ Arrête:
 <sup>1</sup> Le Service de l'environnement (SEn) est compétent pour:
 
 - a) ordonner de procéder à des mesures du bruit;
-- b) procéder aux contrôles du respect des limitations d'émissions et des mesures d'isolation acoustique ordonnées par la DAEC ou le préfet;
+- b) procéder aux contrôles du respect des limitations d'émissions et des mesures d'isolation acoustique ordonnées par la DIME ou le préfet;
 - c) déterminer les immissions de bruit extérieur dues aux installations fixes ou ordonner leur détermination s'il y a des raisons de supposer que les valeurs limites d'exposition en vigueur sont déjà ou vont être dépassées;
 - d) évaluer les immissions de bruit au sens de l'article 15 LPE, lorsque les valeurs limites d'exposition font défaut;
 - e) évaluer les projets d'assainissement;
@@ -94,7 +93,7 @@ Arrête:
 - k3) recevoir les annonces relatives aux manifestations avec des sons amplifiés par électroacoustique, conformément aux articles 20 al. 1 O-LRNIS et 72 REPu;
 - l) exécuter toutes les tâches qui ne sont pas expressément confiées par la présente ordonnance à un autre organe.
 
-<sup>2</sup> Le SEn établit régulièrement un rapport qui détermine les priorités et les mesures cantonales en matière de protection contre le bruit. Le rapport est soumis à la DAEC pour approbation. Celle-ci consulte les autres Directions.
+<sup>2</sup> Le SEn établit régulièrement un rapport qui détermine les priorités et les mesures cantonales en matière de protection contre le bruit. Le rapport est soumis à la DIME pour approbation. Celle-ci consulte les autres Directions.
 
 #### Art. 4
 
@@ -155,7 +154,7 @@ Arrête:
 
 <sup>3</sup> Les communes attribuent les degrés de sensibilité aux zones d'affectation dans le plan d'affectation des zones et la réglementation y relative.
 
-<sup>4</sup> Dans leur domaine de compétence, les communes traitent les plaintes et procèdent par voie de conciliation. A leur demande, le SEn procède à une évaluation technique des nuisances. Si une décision d'assainissement s'avère nécessaire, les communes transmettent le dossier à la DAEC.
+<sup>4</sup> Dans leur domaine de compétence, les communes traitent les plaintes et procèdent par voie de conciliation. A leur demande, le SEn procède à une évaluation technique des nuisances. Si une décision d'assainissement s'avère nécessaire, les communes transmettent le dossier à la DIME.
 
 <sup>5</sup> Les compétences des communes fondées sur leur réglementation de police en matière d'ordre et de tranquillité publics sont réservées.
 
@@ -167,7 +166,7 @@ Arrête:
 
 <sup>1</sup> La limitation des émissions d'une nouvelle installation fixe ou d'une installation fixe modifiée est ordonnée par l'autorité de décision dans le cadre de la procédure principale.
 
-<sup>2</sup> Un éventuel allégement est accordé par la DAEC préalablement à la décision principale.
+<sup>2</sup> Un éventuel allégement est accordé par la DIME préalablement à la décision principale.
 
 #### Art. 9
 
@@ -179,7 +178,7 @@ Arrête:
 
 **Assainissement (art. 13ss OPB) – En général**
 
-<sup>1</sup> La DAEC ordonne l'assainissement d'une installation fixe existante qui contribue de manière notable au dépassement des valeurs limites d'immissions.
+<sup>1</sup> La DIME ordonne l'assainissement d'une installation fixe existante qui contribue de manière notable au dépassement des valeurs limites d'immissions.
 
 <sup>2</sup> Elle demande un plan d'assainissement au détenteur ou à la détentrice de l'installation à assainir.
 
@@ -203,17 +202,17 @@ Arrête:
 
 **Assainissement (art. 13ss OPB) – Consultation des intéressés**
 
-<sup>1</sup> Avant de décider des mesures d'assainissement selon les articles 10 et 12, la DAEC entend les intéressés et le détenteur ou la détentrice de l'installation en leur communiquant le projet de décision.
+<sup>1</sup> Avant de décider des mesures d'assainissement selon les articles 10 et 12, la DIME entend les intéressés et le détenteur ou la détentrice de l'installation en leur communiquant le projet de décision.
 
-<sup>2</sup> Si le cercle des intéressés par l'assainissement d'une installation fixe existante ne peut pas être défini de manière précise, la DAEC met le projet de décision d'assainissement en consultation par publication dans la Feuille officielle. Elle annonce cette consultation au détenteur ou à la détentrice de l'installation.
+<sup>2</sup> Si le cercle des intéressés par l'assainissement d'une installation fixe existante ne peut pas être défini de manière précise, la DIME met le projet de décision d'assainissement en consultation par publication dans la Feuille officielle. Elle annonce cette consultation au détenteur ou à la détentrice de l'installation.
 
-<sup>3</sup> Durant un délai de trente jours, le détenteur ou la détentrice de l'installation ainsi que toutes les personnes intéressées peuvent déposer une détermination auprès de la DAEC.
+<sup>3</sup> Durant un délai de trente jours, le détenteur ou la détentrice de l'installation ainsi que toutes les personnes intéressées peuvent déposer une détermination auprès de la DIME.
 
 #### Art. 14
 
 **Assainissement (art. 13ss OPB) – Décision**
 
-<sup>1</sup> La décision d'assainissement de la DAEC est notifiée au détenteur ou à la détentrice de l'installation. S'il y a eu une consultation par publication dans la Feuille officielle, la décision fait également l'objet d'une publication dans la Feuille officielle.
+<sup>1</sup> La décision d'assainissement de la DIME est notifiée au détenteur ou à la détentrice de l'installation. S'il y a eu une consultation par publication dans la Feuille officielle, la décision fait également l'objet d'une publication dans la Feuille officielle.
 
 <sup>2</sup> Si l'assainissement fait partie intégrante d'un projet de construction ou d'un changement d'affectation, la décision est communiquée simultanément à la décision principale.
 
@@ -274,6 +273,6 @@ Arrête:
 
 **Approbation**
 
-La modification du 23.02.2021 a été approuvée par le Département fédéral de l'environnement, des transports, de l'énergie et de la communication le 12.05.2021 (cf. ROF INFO 2021-21).
+La modification du 23.02.2021 a été approuvée par le Département fédéral de l'environnement, des transports, de l'énergie et de la communication le 12.05.2021 ([ROF INFO 2021-21](https://bdlf.fr.ch/app/fr/change_documents/3278)).
 
 2009\_030
