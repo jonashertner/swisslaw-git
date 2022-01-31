@@ -4,13 +4,12 @@ number: "222.3.11"
 title: Verordnung über den Mietvertrag und den nichtlandwirtschaftlichen Pachtvertrag
 short: MPVV
 language: de
-version: 2017-07-01
-valid_until: 2022-01-31
-version_adopted: 2017-06-27
+version: 2022-02-01
+version_adopted: 2022-02-25
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/222.3.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5140/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5140/pdf_file"
 
 (MPVV)
 
-vom 30.11.2010 (Fassung in Kraft getreten am 01.07.2017)
+vom 30.11.2010 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -35,7 +34,7 @@ beschliesst:
 
 **Schlichtungskommissionen – Zusammensetzung**
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion veröffentlicht die Zusammensetzung der Schlichtungskommissionen und ihre örtliche Zuständigkeit im Internet.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion veröffentlicht die Zusammensetzung der Schlichtungskommissionen und ihre örtliche Zuständigkeit im Internet.
 
 #### Art. 2
 
@@ -55,13 +54,17 @@ beschliesst:
 
 **Zinssatz für hinterlegte Mietzinse**
 
-<sup>1</sup> Der nach Artikel 24 Abs. 2 MPVG hinterlegte Mietzins wird mit dem bei der betreffenden Bank üblichen Zinssatz für Sparhefte verzinst.
+<sup>1</sup> Der nach Artikel 24 Abs. 2 MPVG[^4-1] hinterlegte Mietzins wird mit dem bei der betreffenden Bank üblichen Zinssatz für Sparhefte verzinst.
+
+[^4-1]: SGF 222.3.1
 
 #### Art. 5
 
 **Begriff des Wohnungsmangels**
 
-<sup>1</sup> Wohnungsmangel nach Artikel 27 Abs. 1 MPVG besteht, wenn der Leerwohnungsbestand im Kanton unter 1,8 % des Wohnungsbestands liegt.
+<sup>1</sup> Wohnungsmangel nach Artikel 27 Abs. 1 MPVG[^5-1] besteht, wenn der Leerwohnungsbestand im Kanton unter 1,8 % des Wohnungsbestands liegt.
+
+[^5-1]: SGF 222.3.1
 
 #### Art. 6
 

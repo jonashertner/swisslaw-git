@@ -4,13 +4,12 @@ number: "222.3.11"
 title: Ordonnance relative au bail à loyer et au bail à ferme non agricole
 short: OBLFNA
 language: fr
-version: 2017-07-01
-valid_until: 2022-01-31
-version_adopted: 2017-06-27
+version: 2022-02-01
+version_adopted: 2022-02-25
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/222.3.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5140/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8471/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5140/pdf_file"
 
 (OBLFNA)
 
-du 30.11.2010 (version entrée en vigueur le 01.07.2017)
+du 30.11.2010 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -35,7 +34,7 @@ Arrête:
 
 **Commissions de conciliation – Composition**
 
-<sup>1</sup> La Direction de la sécurité et de la justice publie sur Internet la composition des commissions de conciliation ainsi que leur compétence à raison du lieu.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport publie sur Internet la composition des commissions de conciliation ainsi que leur compétence à raison du lieu.
 
 #### Art. 2
 
@@ -55,13 +54,17 @@ Arrête:
 
 **Taux d'intérêt du loyer consigné**
 
-<sup>1</sup> Le loyer consigné aux conditions de l'article 24 al. 2 LABLF porte intérêt selon le taux usuel pratiqué pour les comptes d'épargne par l'établissement bancaire concerné.
+<sup>1</sup> Le loyer consigné aux conditions de l'article 24 al. 2 LABLF[^4-1] porte intérêt selon le taux usuel pratiqué pour les comptes d'épargne par l'établissement bancaire concerné.
+
+[^4-1]: RSF 222.3.1
 
 #### Art. 5
 
 **Notion de pénurie de logements**
 
-<sup>1</sup> Il y a pénurie, au sens de l'article 27 al. 1 LABLF, lorsque le taux des logements vacants, dans le canton, est inférieur à 1,8 % du parc immobilier.
+<sup>1</sup> Il y a pénurie, au sens de l'article 27 al. 1 LABLF[^5-1], lorsque le taux des logements vacants, dans le canton, est inférieur à 1,8 % du parc immobilier.
+
+[^5-1]: RSF 222.3.1
 
 #### Art. 6
 
