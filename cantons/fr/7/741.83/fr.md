@@ -3,13 +3,13 @@ canton: FR
 number: "741.83"
 title: "Arrêté relatif à l'entretien, la réfection et la reconstruction des passages supérieurs et inférieurs des routes nationales"
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-11-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 1979-06-05
 in_force: 1979-06-15
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/741.83"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5919/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7352/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5919/pdf_file"
 
 Passages supérieurs et inférieurs des routes nationales – A
 
-du 05.06.1979 (version entrée en vigueur le 01.01.2003)
+du 05.06.1979 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -56,7 +56,7 @@ Arrête:
 
 <sup>2</sup> Les PS et les PI comprennent un ouvrage (pont, passerelle, passage, etc.) et un complément de route (parties entre les limites du domaine public de la route nationale et l'ouvrage).
 
-<sup>3</sup> Les installations aménagées dans, sur ou sous les PS et les PI, par le propriétaire de la route de croisement ou par des tiers (telles que conduits, signalisation, éclairage), ne sont pas régies par le présent arrêté. Conformément à la loi sur le domaine public, elles font l'objet d'une autorisation accordée par la Direction de l'aménagement, de l'environnement et des constructions à titre précaire et qui précise les conditions à observer.
+<sup>3</sup> Les installations aménagées dans, sur ou sous les PS et les PI, par le propriétaire de la route de croisement ou par des tiers (telles que conduits, signalisation, éclairage), ne sont pas régies par le présent arrêté. Conformément à la loi sur le domaine public, elles font l'objet d'une autorisation accordée par la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement à titre précaire et qui précise les conditions à observer.
 
 <sup>4</sup> Un schéma des définitions est annexé à cet arrêté (annexe 1).
 
@@ -104,7 +104,7 @@ Arrête:
 
 #### Art. 10
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions est chargée de veiller à ce que le présent arrêté soit remis aux propriétaires des routes de croisement, avec la liste et le repérage des croisements concernés.
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement est chargée de veiller à ce que le présent arrêté soit remis aux propriétaires des routes de croisement, avec la liste et le repérage des croisements concernés.
 
 #### Art. 11
 

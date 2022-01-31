@@ -3,13 +3,13 @@ canton: FR
 number: "741.83"
 title: "Beschluss über den Unterhalt, die Instandsetzung und die Erneuerung von Über- und Unterführungen von Nationalstrassen"
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-11-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 1979-06-05
 in_force: 1979-06-15
 url: "https://bdlf.fr.ch/app/de/texts_of_law/741.83"
-pdf: "https://bdlf.fr.ch/api/de/versions/5919/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7352/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5919/pdf_file"
 
 Über- und Unterführungen von Nationalstrassen – B
 
-vom 05.06.1979 (Fassung in Kraft getreten am 01.01.2003)
+vom 05.06.1979 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -56,7 +56,7 @@ beschliesst:
 
 <sup>2</sup> Die Über- und Unterführungen umfassen ein Bauwerk (Brücke, Fussgängersteg, Übergang, usw.) und den dazugehörenden Strassenteil (Teile zwischen den Grenzen der öffentlichen Sachen der Nationalstrasse und dem Bauwerk).
 
-<sup>3</sup> Die Anlagen in, über oder unter den Über- und Unterführungen, welche vom Eigentümer der Kreuzungsstrasse oder von Dritten erstellt wurden (wie Leitungen, Signalisation, Beleuchtung), werden nicht durch diesen Beschluss geregelt; nach dem Gesetz über die öffentlichen Sachen sind sie Gegenstand einer widerruflichen Bewilligung, die von der Raumplanungs-, Umwelt- und Baudirektion mit den zu befolgenden Bedingungen erteilt wird.
+<sup>3</sup> Die Anlagen in, über oder unter den Über- und Unterführungen, welche vom Eigentümer der Kreuzungsstrasse oder von Dritten erstellt wurden (wie Leitungen, Signalisation, Beleuchtung), werden nicht durch diesen Beschluss geregelt; nach dem Gesetz über die öffentlichen Sachen sind sie Gegenstand einer widerruflichen Bewilligung, die von der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt mit den zu befolgenden Bedingungen erteilt wird.
 
 <sup>4</sup> Diesem Beschluss ist ein Schema über die Begriffe beigelegt (Anhang 1).
 
@@ -104,7 +104,7 @@ beschliesst:
 
 #### Art. 10
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion ist dafür besorgt, dass den Eigentümern der Kreuzungsstrassen dieser Beschluss mit der Liste und der Bezeichnung der fraglichen Kreuzungen übergeben wird.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt ist dafür besorgt, dass den Eigentümern der Kreuzungsstrassen dieser Beschluss mit der Liste und der Bezeichnung der fraglichen Kreuzungen übergeben wird.
 
 #### Art. 11
 
