@@ -4,13 +4,13 @@ number: "412.1.31"
 title: Reglement über die Maturitätsprüfungen
 short: MPR
 language: de
-version: 2021-08-01
-valid_until: 2022-01-31
-version_adopted: 2021-05-26
+version: 2022-02-01
+valid_until: 2025-07-31
+version_adopted: 2022-03-04
 adopted: 2001-09-17
 in_force: 2001-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.1.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/6842/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7295/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Maturitätsprüfungen – R
 
 (MPR)
 
-vom 17.09.2001 (Fassung in Kraft getreten am 01.08.2021)
+vom 17.09.2001 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -45,7 +45,7 @@ beschliesst:
 
 <sup>2</sup> Der Kanton Freiburg stellt einen gymnasialen Maturitätsausweis aus, der mit der vom Schweizerischen Bundesrat und der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren gemeinsam genehmigten Reglementierung übereinstimmt.
 
-<sup>3</sup> Der Ausweis kann mit dem Vermerk «zweisprachig» versehen sein, wenn er den Bedingungen entspricht, die von der Direktion für Erziehung, Kultur und Sport festgelegt wurden.
+<sup>3</sup> Der Ausweis kann mit dem Vermerk «zweisprachig» versehen sein, wenn er den Bedingungen entspricht, die von der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) festgelegt wurden.
 
 <sup>4</sup> Der Ausweis wird von den folgenden kantonalen Kollegien (die Kollegien) ausgestellt:
 
