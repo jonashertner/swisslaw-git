@@ -4,13 +4,12 @@ number: "45.11"
 title: Ausführungsreglement zum Gesetz über die Erwachsenenbildung
 short: ErBR
 language: de
-version: 2020-02-01
-valid_until: 2022-01-31
-version_adopted: 2020-02-11
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1999-02-08
 in_force: 1999-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/45.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6455/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7312/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Erwachsenenbildung – R
 
 (ErBR)
 
-vom 08.02.1999 (Fassung in Kraft getreten am 01.02.2020)
+vom 08.02.1999 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -78,7 +77,7 @@ beschliesst:
 
 **Beitragsgesuche**
 
-<sup>1</sup> Die Beitragsgesuche müssen bis spätestens zwei Monate vor Beginn der geplanten Tätigkeit der Direktion für Erziehung, Kultur und Sport (die Direktion) eingereicht werden. Die Direktion kann es ablehnen, auf verspätet eingereichte Gesuche einzutreten.
+<sup>1</sup> Die Beitragsgesuche müssen bis spätestens zwei Monate vor Beginn der geplanten Tätigkeit der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) eingereicht werden. Die Direktion kann es ablehnen, auf verspätet eingereichte Gesuche einzutreten.
 
 <sup>2</sup> Dem Gesuch muss eine Darstellung der vorgesehenen Bildungstätigkeit und ein ausreichend detaillierter Voranschlag beigelegt werden. Die Gesuchstellerin ist verpflichtet, auf Verlangen alle erforderlichen weiteren Auskünfte und Beweisstücke vorzulegen.
 

@@ -4,13 +4,12 @@ number: "45.11"
 title: Règlement sur la formation des adultes
 short: RFAd
 language: fr
-version: 2020-02-01
-valid_until: 2022-01-31
-version_adopted: 2020-02-11
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1999-02-08
 in_force: 1999-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/45.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6455/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7312/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Formation des adultes – R
 
 (RFAd)
 
-du 08.02.1999 (version entrée en vigueur le 01.02.2020)
+du 08.02.1999 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -78,7 +77,7 @@ Arrête:
 
 **Demandes de subvention**
 
-<sup>1</sup> Les demandes de subvention doivent être adressées à la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction), au plus tard deux mois avant le début de l'activité envisagée. La Direction peut refuser d'entrer en matière sur des demandes tardives.
+<sup>1</sup> Les demandes de subvention doivent être adressées à la Direction de la formation et des affaires culturelles (ci-après: la Direction), au plus tard deux mois avant le début de l'activité envisagée. La Direction peut refuser d'entrer en matière sur des demandes tardives.
 
 <sup>2</sup> La demande doit être accompagnée d'une présentation de l'activité de formation envisagée et d'un budget suffisamment détaillé. La requérante a l'obligation de fournir, sur demande, tous les autres renseignements et pièces justificatives nécessaires.
 
