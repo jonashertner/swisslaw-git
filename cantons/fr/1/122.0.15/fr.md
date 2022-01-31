@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.15"
 title: Règlement protocolaire
 language: fr
-version: 2019-02-01
-valid_until: 2022-01-31
-version_adopted: 2018-12-10
+version: 2022-02-01
+valid_until: 2023-09-03
+version_adopted: 2022-02-18
 adopted: 2023-09-04
 in_force: 2023-09-04
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6045/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7237/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6045/pdf_file"
 
 Règlement protocolaire
 
-du 10.12.2018 (version entrée en vigueur le 01.02.2019)
+du 10.12.2018 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -143,7 +143,7 @@ Arrête:
 
 **Consuls généraux**
 
-<sup>1</sup> Les consuls de carrière ayant juridiction dans le canton de Fribourg qui en font la demande sont reçus en audience par le Directeur de la sécurité et de la justice.
+<sup>1</sup> Les consuls de carrière ayant juridiction dans le canton de Fribourg qui en font la demande sont reçus en audience par le Directeur de la sécurité, de la justice et du sport.
 
 <sup>2</sup> Cette rencontre est organisée par sa Direction.
 

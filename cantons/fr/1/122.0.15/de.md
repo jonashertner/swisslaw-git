@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.15"
 title: Protokollreglement
 language: de
-version: 2019-02-01
-valid_until: 2022-01-31
-version_adopted: 2018-12-10
+version: 2022-02-01
+valid_until: 2023-09-03
+version_adopted: 2022-02-18
 adopted: 2023-09-04
 in_force: 2023-09-04
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/6045/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7237/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6045/pdf_file"
 
 Protokollreglement
 
-vom 10.12.2018 (Fassung in Kraft getreten am 01.02.2019)
+vom 10.12.2018 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -143,7 +143,7 @@ beschliesst:
 
 **Generalkonsulinnen und Generalkonsuln**
 
-<sup>1</sup> Berufskonsulinnen und Berufskonsuln, zu deren Zuständigkeitsgebiet der Kanton Freiburg gehört, werden auf Anfrage von der Sicherheits- und Justizdirektorin oder vom Sicherheits- und Justizdirektor zu einer Unterredung empfangen.
+<sup>1</sup> Berufskonsulinnen und Berufskonsuln, zu deren Zuständigkeitsgebiet der Kanton Freiburg gehört, werden auf Anfrage von der Sicherheits-, Justiz- und Sportdirektorin oder vom Sicherheits-, Justiz- und Sportdirektor zu einer Unterredung empfangen.
 
 <sup>2</sup> Diese Unterredung wird von ihrer oder seiner Direktion organisiert.
 
