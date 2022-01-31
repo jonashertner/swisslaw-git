@@ -3,13 +3,12 @@ canton: FR
 number: "821.22.11"
 title: Ordonnance sur les stupéfiants
 language: fr
-version: 2016-04-01
-valid_until: 2022-01-31
-version_adopted: 2016-04-12
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2016-04-12
 in_force: 2016-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.22.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5489/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7436/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5489/pdf_file"
 
 Stupéfiants – O
 
-du 12.04.2016 (version entrée en vigueur le 01.04.2016)
+du 12.04.2016 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -53,9 +52,9 @@ Arrête:
 
 #### Art. 2
 
-**Autorités cantonales compétentes – La Direction de la sécurité et de la justice**
+**Autorités cantonales compétentes – La Direction de la sécurité, de la justice et du sport**
 
-<sup>1</sup> La Direction de la sécurité et de la justice exerce les compétences suivantes:
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport exerce les compétences suivantes:
 
 - a) organiser la transformation ou la destruction de stocks de stupéfiants prohibés ordonnées par les autorités judiciaires (art. 8 al. 4 LStup);
 - b) autoriser les autorités cantonales et notamment la police à se procurer, à importer, à détenir, à utiliser, à remettre ou à exporter des stupéfiants, sur le préavis du ou de la procureur-e général-e (art. 14a al. 1<sup>bis</sup> LStup);
@@ -197,8 +196,8 @@ Arrête:
 
 <sup>1</sup> Le tarif horaire est fixé comme il suit:
 
-- a) collaborateurs et collaboratrices en classe de traitement 20 et plus: Fr. 180
-- b) collaborateurs et collaboratrices en classe de traitement 19 et moins: Fr. 80
+- a) collaborateurs et collaboratrices en classe de traitement 20 et plus: — Fr. 180
+- b) collaborateurs et collaboratrices en classe de traitement 19 et moins: — Fr. 80
 
 <sup>2</sup> Un minimum de 80 francs est facturé.
 

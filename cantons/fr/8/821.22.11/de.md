@@ -3,13 +3,12 @@ canton: FR
 number: "821.22.11"
 title: Verordnung über die Betäubungsmittel
 language: de
-version: 2016-04-01
-valid_until: 2022-01-31
-version_adopted: 2016-04-12
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2016-04-12
 in_force: 2016-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.22.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5489/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5489/pdf_file"
 
 Betäubungsmittel – V
 
-vom 12.04.2016 (Fassung in Kraft getreten am 01.04.2016)
+vom 12.04.2016 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -53,9 +52,9 @@ beschliesst:
 
 #### Art. 2
 
-**Zuständige kantonale Behörden – Sicherheits- und Justizdirektion**
+**Zuständige kantonale Behörden – Sicherheits-, Justiz- und Sportdirektion**
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion übt folgende Kompetenzen aus:
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion übt folgende Kompetenzen aus:
 
 - a) Sie organisiert die von den Gerichtsbehörden angeordnete Überführung oder Vernichtung von Vorräten verbotener Betäubungsmittel (Art. 8 Abs. 4 BetmG).
 - b) Sie erteilt den kantonalen Behörden und namentlich der Polizei auf Stellungnahme des Generalstaatsanwalts die Bewilligung, Betäubungsmittel zu beziehen, einzuführen, zu lagern, zu verwenden, abzugeben oder auszuführen (Art. 14a Abs. 1<sup>bis</sup> BetmG).
@@ -197,8 +196,8 @@ beschliesst:
 
 <sup>1</sup> Der Stundentarif beträgt:
 
-- a) Mitarbeitende ab Lohnklasse 20: Fr. 180
-- b) Mitarbeitende bis Lohnklasse 19: Fr. 80
+- a) Mitarbeitende ab Lohnklasse 20: — Fr. 180
+- b) Mitarbeitende bis Lohnklasse 19: — Fr. 80
 
 <sup>2</sup> Es werden mindestens 80 Franken verrechnet.
 
