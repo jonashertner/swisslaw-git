@@ -4,13 +4,13 @@ number: III G/1
 title: Gesetz über die Verwaltungsrechtspflege
 short: Verwaltungsrechtspflegegesetz
 language: de
-version: 2018-01-01
-valid_until: 2022-01-31
-version_adopted: 2017-05-07
+version: 2022-02-01
+valid_until: 2022-06-30
+version_adopted: 2021-09-05
 adopted: 1986-05-04
 in_force: 1987-10-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-G.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1971/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2254/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1971/pdf_file"
 
 (Verwaltungsrechtspflegegesetz)
 
-Vom 04.05.1986 (Stand 01.01.2018)
+Vom 04.05.1986 (Stand 01.02.2022)
 
 Die Landsgemeinde,
 
@@ -378,7 +378,7 @@ beschliesst:
 
 <sup>1</sup> Gesetzliche Fristen können nicht erstreckt werden.
 
-<sup>2</sup> Behördlich angesetzte Fristen können ein erstes Mal erstreckt werden, wenn die Partei vor Ablauf der Frist darum ersucht. Eine weitere Erstreckung ist nur möglich, wenn die Partei unvorhergesehene und von ihr nicht verschuldete Gründe geltend machen kann oder wenn die Gegenpartei zustimmt.
+<sup>2</sup> Behördlich angesetzte Fristen können einmal erstreckt werden, wenn die Partei vor Ablauf der Frist darum ersucht.
 
 #### Art. 34
 
@@ -975,7 +975,7 @@ beschliesst:
 
 **Stillstand der Fristen**
 
-<sup>1</sup> Im Beschwerdeverfahren vor dem Regierungsrat und vor den Departementen sowie in den Verfahren vor Verwaltungsgericht und den verwaltungsunabhängigen Rekurskommissionen stehen die durch Gesetz bestimmten oder durch die Behörden angesetzten Fristen still:
+<sup>1</sup> Im Beschwerdeverfahren vor dem Regierungsrat und vor den Departementen sowie in den Verfahren vor Verwaltungsgericht und den verwaltungsunabhängigen Rekurskommissionen stehen die durch Gesetz bestimmten Fristen still:
 
 - a. vom siebten Tag vor Ostern bis und mit dem siebten Tag nach Ostern;
 - b. vom 15. Juli bis und mit 15. August;
@@ -1568,6 +1568,12 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz ist nicht anwendbar auf Verfahren, die im Zeitpunkt seines Inkrafttretens hängig sind; in allen diesen Fällen gilt das bisherige Recht einschliesslich der früheren Zuständigkeiten.
 
 <sup>2</sup> Die Bestimmungen über die Zuständigkeit und den Ausstand (Art. 10-14) und über die Revision und Erläuterung (Art. 117-122) sind mit Inkrafttreten auf alle Verfahren anwendbar.
+
+#### Art. 140a
+
+**Übergangsbestimmung zur Änderung vom 5. September 2021**
+
+<sup>1</sup> Für Verfahren, welche beim Inkrafttreten dieser Änderungen rechtshängig sind, findet das bisherige Recht bis zum Abschluss des Verfahrens vor der betroffenen Instanz Anwendung.
 
 #### Art. 141
 
