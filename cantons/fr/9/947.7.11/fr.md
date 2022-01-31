@@ -3,13 +3,12 @@ canton: FR
 number: "947.7.11"
 title: "Arrêté d'application de la loi fédérale du 25 mars 1977 sur les substances explosibles"
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-12-09
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 1982-06-07
 in_force: 1982-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/947.7.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5736/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7460/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5736/pdf_file"
 
 Substances explosibles – A
 
-du 07.06.1982 (version entrée en vigueur le 01.01.2003)
+du 07.06.1982 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -56,7 +55,7 @@ Arrête:
 
 **Police cantonale – Engins pyrotechniques**
 
-<sup>1</sup> La Direction de la sécurité et de la justice peut, en accord avec l'Etablissement cantonal d'assurance des bâtiments, interdire la vente de certaines pièces d'artifice (art. 44 LF).
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport peut, en accord avec l'Etablissement cantonal d'assurance des bâtiments, interdire la vente de certaines pièces d'artifice (art. 44 LF).
 
 <sup>2</sup> Elle dresse une liste des engins pyrotechniques visés à l'alinéa précédent et la fait publier de manière appropriée.
 

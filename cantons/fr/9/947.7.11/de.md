@@ -3,13 +3,12 @@ canton: FR
 number: "947.7.11"
 title: Beschluss zum Vollzug des Bundesgesetzes vom 25. März 1977 über explosionsgefährliche Stoffe
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2002-12-09
+version: 2022-02-01
+version_adopted: 2022-04-08
 adopted: 1982-06-07
 in_force: 1982-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/947.7.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5736/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7460/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5736/pdf_file"
 
 Explosionsgefährliche Stoffe – B
 
-vom 07.06.1982 (Fassung in Kraft getreten am 01.01.2003)
+vom 07.06.1982 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -56,7 +55,7 @@ beschliesst:
 
 **Kantonspolizei – Pyrotechnische Gegenstände**
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion kann in Übereinstimmung mit der Kantonalen Gebäudeversicherung den Verkauf bestimmter Feuerwerkskörper verbieten (Art. 44 BG).
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion kann in Übereinstimmung mit der Kantonalen Gebäudeversicherung den Verkauf bestimmter Feuerwerkskörper verbieten (Art. 44 BG).
 
 <sup>2</sup> Sie erstellt eine Liste der im vorhergehenden Absatz genannten pyrotechnischen Gegenstände und lässt diese in geeigneter Weise veröffentlichen.
 
