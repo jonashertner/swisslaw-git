@@ -3,20 +3,19 @@ canton: FR
 number: "482.42"
 title: Beschluss über die Kommission für das Verzeichnis der Kunstdenkmäler
 language: de
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2003-02-04
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1983-12-20
 in_force: 1984-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/482.42"
-pdf: "https://bdlf.fr.ch/api/de/versions/5247/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7323/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die Kommission für das Verzeichnis der Kunstdenkmäler
 
-vom 20.12.1983 (Fassung in Kraft getreten am 01.01.2003)
+vom 20.12.1983 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -28,7 +27,7 @@ beschliesst:
 
 <sup>1</sup> Es wird eine Kommission für das Verzeichnis der Kunstdenkmäler (im folgenden: die Kommission) eingesetzt.
 
-<sup>2</sup> Die Kommission ist der Direktion für Erziehung, Kultur und Sport (die Direktion) administrativ zugewiesen.
+<sup>2</sup> Die Kommission ist der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) administrativ zugewiesen.
 
 #### Art. 2
 
