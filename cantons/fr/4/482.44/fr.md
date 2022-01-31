@@ -3,20 +3,19 @@ canton: FR
 number: "482.44"
 title: "Arrêté instituant une commission du recensement des chalets d'alpage"
 language: fr
-version: 2003-01-01
-valid_until: 2022-01-31
-version_adopted: 2003-02-04
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1987-12-22
 in_force: 1988-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/482.44"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5249/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7325/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Arrêté instituant une commission du recensement des chalets d'alpage
 
-du 22.12.1987 (version entrée en vigueur le 01.01.2003)
+du 22.12.1987 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -28,7 +27,7 @@ Arrête:
 
 <sup>1</sup> Il est institué une commission de l'inventaire des chalets d'alpage (ci-après: la Commission).
 
-<sup>2</sup> La Commission est rattachée administrativement à la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction).
+<sup>2</sup> La Commission est rattachée administrativement à la Direction de la formation et des affaires culturelles (ci-après: la Direction).
 
 #### Art. 2
 
