@@ -4,11 +4,11 @@ title: "Ordinanza del 29 novembre 2013 relativa alla legge federale sulla promoz
 short: O-LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: it
-version: 2021-04-15
+version: 2022-02-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210415/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210415-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20220201/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20220201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/it"
 
 (Ordinanza sulla promozione della ricerca e dell’innovazione, O-LPRI)
 
-del 29 novembre 2013 (Stato 15 aprile 2021)
+del 29 novembre 2013 (Stato 1° febbraio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -742,7 +742,9 @@ I sussidi permettono ai servizi svizzeri interessati, nell’ambito di un’isti
 - b. integrarsi nei progetti di grande importanza per la futura politica svizzera nel settore della ricerca e dell’innovazione, per la piazza scientifica svizzera o per la presenza del settore scientifico svizzero all’estero;
 - c. utilizzare le infrastrutture di organizzazioni scientifiche internazionali.
 
-<sup>2</sup> Sono fatti salvi i trattati internazionali e le disposizioni di diritto speciale, in particolare quelle relative alla partecipazione ai programmi quadro di ricerca dell’Unione europea.
+<sup>2</sup> Sono fatti salvi i trattati internazionali e le disposizioni di diritto speciale, in particolare quelle relative alla partecipazione ai programmi quadro di ricerca dell’Unione europea e alle attività nazionali nel settore spaziale.[^45-1]
+
+[^45-1]: Nuovo testo giusta l’art. 20 dell’O del 17 dic. 2021 sulla promozione delle attività nazionali nel settore spaziale, in vigore dal 1° feb. 2022 ([RU 2021 929](https://fedlex.data.admin.ch/eli/oc/2021/929)).
 
 #### Art. 46
 

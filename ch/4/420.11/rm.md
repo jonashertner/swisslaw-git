@@ -4,11 +4,11 @@ title: "Ordinaziun dals 29 da november 2013 tar la Lescha federala davart la pro
 short: O-LPPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: rm
-version: 2021-04-15
+version: 2022-02-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210415/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210415-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20220201/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20220201-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Ordinaziun da perscrutaziun e d’innovaziun, O-LPPI)
 
-dals 29 da november 2013 (versiun dals 15 d’avrigl 2021)
+dals 29 da november 2013 (versiun dal 1. da favrer 2022)
 
 Il Cussegl federal svizzer,
 
@@ -743,7 +743,9 @@ En il rom d’ina instituziun u d’ina organisaziun permettan las contribuziuns
 - b. da s’integrar en projects ch’èn da gronda impurtanza per la futura politica svizra da perscrutaziun e d’innovaziun, per la Svizra sco plazza scientifica ubain per la preschientscha da la scienza svizra a l’exteriur;
 - c. da duvrar l’infrastructura d’organisaziuns scientificas internaziunalas.
 
-<sup>2</sup> Resalvads restan ils contracts internaziunals sco er las disposiziuns da dretg spezial, particularmain per la participaziun als programs da perscrutaziun da l’Uniun europeica.
+<sup>2</sup> Resalvads restan ils contracts internaziunals sco er las disposiziuns da dretg spezial, particularmain per la participaziun als programs da perscrutaziun da l’Uniun europeica ed a las activitads naziunalas en il sectur da l’astronautica.[^45-1]
+
+[^45-1]: Versiun tenor l’art. 20 da l’O dals 17 da dec. 2021 davart la promoziun da las activitads naziunalas en il sectur da l’astronautica, en vigur dapi il 1. da favr. 2022 ([AS 2021 929](https://fedlex.data.admin.ch/eli/oc/2021/929)).
 
 #### Art. 46
 
@@ -980,7 +982,7 @@ Ils organs da perscrutaziun infurmeschan, cun lur programs da plirs onns, davart
 
 ...[^62-2]
 
-[^62-1]: [[AS 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775), [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 cifra 3 [1861](https://fedlex.data.admin.ch/eli/oc/2000/287), [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639)[4871](https://fedlex.data.admin.ch/eli/oc/2004/730), [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169)[4617](https://fedlex.data.admin.ch/eli/oc/2008/644)[5747](https://fedlex.data.admin.ch/eli/oc/2008/794)agiunta cifra 8, [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784), [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)cifra I 8, [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
+[^62-1]: [[AS 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775); [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 cifra 3, [1861](https://fedlex.data.admin.ch/eli/oc/2000/287); [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639), [4871](https://fedlex.data.admin.ch/eli/oc/2004/730); [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169), [4617](https://fedlex.data.admin.ch/eli/oc/2008/644), [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)agiunta cifra 8, [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784); [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)cifra I 8; [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
 [^62-2]: Las midadas pon vegnir consultadas en la [AS 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814).
 
 #### Art. 63

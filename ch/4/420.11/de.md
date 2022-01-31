@@ -4,11 +4,11 @@ title: "Verordnung vom 29. November 2013 zum Bundesgesetz über die Förderung d
 short: V-FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: de
-version: 2021-04-15
+version: 2022-02-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210415/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210415-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20220201/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20220201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/de"
 
 (Forschungs- und Innovationsförderungsverordnung, V-FIFG)
 
-vom 29. November 2013 (Stand am 15. April 2021)
+vom 29. November 2013 (Stand am 1. Februar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -741,7 +741,9 @@ Die Beiträge ermöglichen es interessierten schweizerischen Stellen, im Rahmen 
 - b. sich in Vorhaben zu integrieren, die für die zukünftige schweizerische Forschungs- und Innovationspolitik, für den Wissenschaftsstandort Schweiz oder für die Präsenz der Schweizer Wissenschaft im Ausland von grosser Bedeutung sind;
 - c. die Infrastruktur internationaler wissenschaftlicher Organisationen zu nutzen.
 
-<sup>2</sup> Vorbehalten bleiben völkerrechtliche Verträge sowie spezialrechtliche Bestimmungen, namentlich für die Teilnahme an den Forschungsrahmenprogrammen der Europäischen Union.
+<sup>2</sup> Vorbehalten bleiben völkerrechtliche Verträge sowie spezialrechtliche Bestimmungen, namentlich für die Teilnahme an den Forschungsrahmenprogrammen der Europäischen Union und die nationalen Aktivitäten im Bereich der Raumfahrt.[^45-1]
+
+[^45-1]: Fassung gemäss Art. 20 der V vom 17. Dez. 2021 über die Förderung von nationalen Aktivitäten im Bereich der Raumfahrt, in Kraft seit 1. Febr. 2022 ([AS 2021 929](https://fedlex.data.admin.ch/eli/oc/2021/929)).
 
 #### Art. 46
 
@@ -976,9 +978,9 @@ Mit ihren Mehrjahresprogrammen geben die Forschungsorgane Auskunft über die bea
 
 <sup>2</sup> Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^62-2]
+…[^62-2]
 
-[^62-1]: [[AS 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775), [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 3 [1861](https://fedlex.data.admin.ch/eli/oc/2000/287), [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639)[4871](https://fedlex.data.admin.ch/eli/oc/2004/730), [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169)[4617](https://fedlex.data.admin.ch/eli/oc/2008/644)[5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 8, [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784), [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)Ziff. I 8, [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
+[^62-1]: [[AS 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775); [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 3, [1861](https://fedlex.data.admin.ch/eli/oc/2000/287); [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639), [4871](https://fedlex.data.admin.ch/eli/oc/2004/730); [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169), [4617](https://fedlex.data.admin.ch/eli/oc/2008/644), [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 8; [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784); [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)Ziff. I 8; [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
 [^62-2]: Die Änderungen können unter [AS 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814)konsultiert werden.
 
 #### Art. 63
@@ -989,7 +991,7 @@ Mit ihren Mehrjahresprogrammen geben die Forschungsorgane Auskunft über die bea
 
 <sup>2</sup> Bis zum Inkrafttreten der Kapitel 1–5 des HFKG hat Artikel 52 Absatz 2, zweiter Satz folgenden Wortlaut:
 
-...[^63-3]
+…[^63-3]
 
 [^63-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^63-2]: [AS 2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784)

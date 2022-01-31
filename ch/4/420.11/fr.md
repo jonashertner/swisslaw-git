@@ -4,11 +4,11 @@ title: "Ordonnance du 29 novembre 2013 relative à la loi fédérale sur l'encou
 short: O-LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: fr
-version: 2021-04-15
+version: 2022-02-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210415/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210415-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20220201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/fr"
 
 (Ordonnance sur l’encouragement de la recherche et de l’innovation, O-LERI)
 
-du 29 novembre 2013 (Etat le 15 avril 2021)
+du 29 novembre 2013 (Etat le 1<sup>er</sup> février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -746,7 +746,9 @@ Les contributions permettent, dans le cadre d’une institution ou d’une organ
 - b. d’intégrer des projets présentant une grande importance pour l’avenir de la politique suisse en matière de recherche et d’innovation, pour le pôle scientifique suisse ou pour la présence scientifique suisse à l’étranger;
 - c. d’utiliser les infrastructures d’organisations scientifiques internationales.
 
-<sup>2</sup> Les accords internationaux et les dispositions spéciales, notamment ceux concernant la participation aux programmes-cadres de recherche de l’Union européenne sont réservés.
+<sup>2</sup> Les accords internationaux et les dispositions spéciales, notamment ceux concernant la participation aux programmes-cadres de recherche de l’Union européenne et les activités nationales dans le domaine spatial sont réservés.[^45-1]
+
+[^45-1]: Nouvelle teneur selon l’art. 20 de l’O du 17 déc. 2021 sur l’encouragement des activités nationales dans le domaine spatial, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 929](https://fedlex.data.admin.ch/eli/oc/2021/929)).
 
 #### Art. 46
 
