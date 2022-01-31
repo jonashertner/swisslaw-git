@@ -3,13 +3,13 @@ canton: FR
 number: "810.14"
 title: Ausführungsbeschluss zur Störfallverordnung des Bundes
 language: de
-version: 2013-01-01
-valid_until: 2022-01-31
-version_adopted: 2012-12-03
+version: 2022-02-01
+valid_until: 2022-11-30
+version_adopted: 2022-04-01
 adopted: 1992-06-23
 in_force: 1992-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/5439/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7394/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5439/pdf_file"
 
 Störfallverordnung – B
 
-vom 23.06.1992 (Fassung in Kraft getreten am 01.01.2013)
+vom 23.06.1992 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -34,7 +34,7 @@ beschliesst:
 
 <sup>1</sup> Vollziehende Behörden im Sinne der Bundesgesetzgebung über den Schutz gegen Störfälle sind:
 
-- a) die Raumplanungs-, Umwelt- und Baudirektion (RUBD),
+- a) die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU),
 - b) das Amt für Umwelt (das Amt),
 - c) die Koordinationsgruppe für Störfälle (KOST),
 - d) die Kantonale Gebäudeversicherung (KGV),

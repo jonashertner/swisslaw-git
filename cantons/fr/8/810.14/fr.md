@@ -3,13 +3,13 @@ canton: FR
 number: "810.14"
 title: "Arrêté d'exécution de dispositions fédérales sur la protection contre les accidents majeurs"
 language: fr
-version: 2013-01-01
-valid_until: 2022-01-31
-version_adopted: 2012-12-03
+version: 2022-02-01
+valid_until: 2022-11-30
+version_adopted: 2022-04-01
 adopted: 1992-06-23
 in_force: 1992-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5439/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7394/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5439/pdf_file"
 
 Protection contre les accidents majeurs – A
 
-du 23.06.1992 (version entrée en vigueur le 01.01.2013)
+du 23.06.1992 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,7 +34,7 @@ Arrête:
 
 <sup>1</sup> Les autorités d'exécution des dispositions fédérales sur la protection contre les accidents majeurs sont:
 
-- a) la Direction de l'aménagement, de l'environnement et des constructions (ci-après: DAEC),
+- a) la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: DIME),
 - b) le Service de l'environnement (ci-après: Service),
 - c) le Groupe de coordination pour les accidents majeurs (ci-après: GROPAM),
 - d) l'Etablissement cantonal d'assurance des bâtiments (ci-après: ECAB),
