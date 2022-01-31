@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.96"
 title: "Règlement d'exécution du plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus («Contribution au financement des salaires des apprenti-e-s de première année»)"
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-01
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.96"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7044/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7417/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7044/pdf_file"
 
 COVID-19, plan de relance – Salaires des apprenti-e-s – R
 
-du 24.11.2020 (version entrée en vigueur le 01.01.2022)
+du 24.11.2020 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -72,9 +72,9 @@ Arrête:
 
 #### Art. 6
 
-<sup>1</sup> La Direction de l'économie et de l'emploi ainsi que le SFP sont chargés de l'exécution du présent règlement.
+<sup>1</sup> La Direction de l'économie, de l'emploi et de la formation professionnelle ainsi que le SFP sont chargés de l'exécution du présent règlement.
 
-<sup>2</sup> Le SFP assure un contrôle permanent des engagements financiers pris. Il rapporte périodiquement ces engagements ainsi que les paiements effectués à la Direction de l'économie et de l'emploi et à l'Administration des finances.
+<sup>2</sup> Le SFP assure un contrôle permanent des engagements financiers pris. Il rapporte périodiquement ces engagements ainsi que les paiements effectués à la Direction de l'économie, de l'emploi et de la formation professionnelle à l'Administration des finances.
 
 #### Art. 7
 

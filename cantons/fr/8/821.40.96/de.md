@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.96"
 title: Ausführungsreglement zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus («Beitrag an den Lohn von Lernenden im 1. Lehrjahr»)
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-01
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.96"
-pdf: "https://bdlf.fr.ch/api/de/versions/7044/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7417/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7044/pdf_file"
 
 COVID-19, Wiederankurbelungsplan – Lohn von Lernenden – R
 
-vom 24.11.2020 (Fassung in Kraft getreten am 01.01.2022)
+vom 24.11.2020 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -72,9 +72,9 @@ beschliesst:
 
 #### Art. 6
 
-<sup>1</sup> Die Volkswirtschaftsdirektion und das Amt sind für die Ausführung dieses Reglements zuständig.
+<sup>1</sup> Die Volkswirtschafts- und Berufsbildungsdirektion und das Amt sind für die Ausführung dieses Reglements zuständig.
 
-<sup>2</sup> Das Amt gewährleistet die ständige Kontrolle über die verpflichteten Beträge. Es erstattet der Volkswirtschaftsdirektion und der Finanzverwaltung regelmässig Bericht über die verpflichteten und ausgezahlten Beträge.
+<sup>2</sup> Das Amt gewährleistet die ständige Kontrolle über die verpflichteten Beträge. Es erstattet der Volkswirtschafts- und Berufsbildungsdirektion und der Finanzverwaltung regelmässig Bericht über die verpflichteten und ausgezahlten Beträge.
 
 #### Art. 7
 
