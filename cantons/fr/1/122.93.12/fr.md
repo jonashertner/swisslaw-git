@@ -3,13 +3,13 @@ canton: FR
 number: "122.93.12"
 title: "Règlement concernant la Commission d'acquisition des immeubles"
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 1984-12-28
 in_force: 1985-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.93.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7030/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7242/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7030/pdf_file"
 
 Commission d'acquisition des immeubles – R
 
-du 28.12.1984 (version entrée en vigueur le 01.01.2022)
+du 28.12.1984 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -38,7 +38,7 @@ Arrête:
 
 <sup>1</sup> La Commission d'acquisition des immeubles (ci-après: la Commission) est l'organe chargé d'estimer les immeubles et les droits nécessaires aux réalisations et à d'autres tâches de l'Etat, hormis ceux qui relèvent du Service des forêts et de la nature.
 
-<sup>2</sup> Elle est rattachée administrativement à la Direction de l'aménagement, de l'environnement et des constructions (ci-après: la Direction).
+<sup>2</sup> Elle est rattachée administrativement à la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: la Direction).
 
 #### Art. 2
 

@@ -3,13 +3,13 @@ canton: FR
 number: "122.93.12"
 title: Reglement betreffend die Kommission für Grundstückerwerb
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-12-14
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-18
 adopted: 1984-12-28
 in_force: 1985-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.93.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7030/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7242/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7030/pdf_file"
 
 Kommission für Grundstückerwerb – R
 
-vom 28.12.1984 (Fassung in Kraft getreten am 01.01.2022)
+vom 28.12.1984 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -38,7 +38,7 @@ beschliesst:
 
 <sup>1</sup> Die Kommission für Grundstückerwerb (die Kommission) schätzt die Grundstücke und Rechte, die für die Verwirklichung von Projekten und die Erfüllung von anderen Aufgaben des Staates erforderlich sind. Ausgenommen sind Projekte und Aufgaben, für die das Amt für Wald und Natur zuständig ist.
 
-<sup>2</sup> Sie ist der Raumplanungs-, Umwelt- und Baudirektion (die Direktion) administrativ zugewiesen.
+<sup>2</sup> Sie ist der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (die Direktion) administrativ zugewiesen.
 
 #### Art. 2
 
