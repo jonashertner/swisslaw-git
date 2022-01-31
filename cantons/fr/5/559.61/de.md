@@ -3,13 +3,12 @@ canton: FR
 number: "559.61"
 title: Ausführungsbeschluss zum Konkordat über die Sicherheitsunternehmen
 language: de
-version: 2016-01-01
-valid_until: 2022-01-31
-version_adopted: 2015-12-07
+version: 2022-02-01
+version_adopted: 2022-03-11
 adopted: 1998-12-15
 in_force: 1999-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/559.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/5274/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7453/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5274/pdf_file"
 
 Sicherheitsunternehmen – B
 
-vom 15.12.1998 (Fassung in Kraft getreten am 01.01.2016)
+vom 15.12.1998 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -46,7 +45,7 @@ beschliesst:
 
 **Vollzugsorgane – Direktion**
 
-<sup>1</sup> Die Sicherheits- und Justizdirektion ist die mit dem Vollzug des Konkordats und dieses Beschlusses beauftragte Behörde.
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion ist die mit dem Vollzug des Konkordats und dieses Beschlusses beauftragte Behörde.
 
 <sup>2</sup> Sie ernennt die Mitglieder der Prüfungskommission für die Sicherheitsunternehmen.
 
@@ -60,7 +59,7 @@ beschliesst:
 
 **Vollzugsorgane – Prüfungskommission**
 
-<sup>1</sup> Die Prüfungskommission für die Sicherheitsunternehmen (die Prüfungskommission) setzt sich aus drei Mitgliedern zusammen: dem Präsidenten, der die Sicherheits- und Justizdirektion vertritt, und zwei Vertretern der Kantonspolizei.
+<sup>1</sup> Die Prüfungskommission für die Sicherheitsunternehmen (die Prüfungskommission) setzt sich aus drei Mitgliedern zusammen: dem Präsidenten, der die Sicherheits-, Justiz- und Sportdirektion vertritt, und zwei Vertretern der Kantonspolizei.
 
 <sup>2</sup> Die Mitglieder werden für eine Amtsperiode gemäss der Gesetzgebung über die Dauer der öffentlichen Nebenämter ernannt. Das Sekretariat der Prüfungskommission wird von der Kantonspolizei geführt.
 
@@ -73,7 +72,7 @@ beschliesst:
 
 **Vollzugsorgane – Kantonspolizei**
 
-<sup>1</sup> Die Kantonspolizei ist das Ausführungsorgan der Sicherheits- und Justizdirektion.
+<sup>1</sup> Die Kantonspolizei ist das Ausführungsorgan der Sicherheits-, Justiz- und Sportdirektion.
 
 <sup>2</sup> Sie hat folgende Befugnisse:
 
@@ -152,21 +151,21 @@ beschliesst:
 
 <sup>1</sup> Folgende Gebühren werden erhoben:
 
-- a) Erteilung, Erneuerung, Verweigerung oder Entzug der Betriebsbewilligung oder der Bewilligung zur Anstellung eines Zweigstellenleiters: Fr. 500
-- b) Erteilung, Erneuerung, Verweigerung oder Entzug der Bewilligung für die Anstellung von Sicherheitspersonal oder Aufsichtspersonal in öffentlichen Gaststätten und Geschäften oder für die Berufsausübung: Fr. 300
-- c) Anerkennung von Bewilligungen oder Fähigkeitsausweisen von Nichtkonkordatskantonen (unter Vorbehalt des Bundesgesetzes über den Binnenmarkt): Fr. 200 bis 300
-- d) Erteilung, Verweigerung oder Entzug zeitweiliger Bewilligungen (pro Person): Fr. 100
+- a) Erteilung, Erneuerung, Verweigerung oder Entzug der Betriebsbewilligung oder der Bewilligung zur Anstellung eines Zweigstellenleiters: — Fr. 500
+- b) Erteilung, Erneuerung, Verweigerung oder Entzug der Bewilligung für die Anstellung von Sicherheitspersonal oder Aufsichtspersonal in öffentlichen Gaststätten und Geschäften oder für die Berufsausübung: — Fr. 300
+- c) Anerkennung von Bewilligungen oder Fähigkeitsausweisen von Nichtkonkordatskantonen (unter Vorbehalt des Bundesgesetzes über den Binnenmarkt): — Fr. 200 bis 300
+- d) Erteilung, Verweigerung oder Entzug zeitweiliger Bewilligungen (pro Person): — Fr. 100
 - e) Prüfungen:
-  - 1\. 1 Teil: Fr. 200
-  - 2\. 2 Teile: Fr. 400
-  - 3\. 3 Teile: Fr. 500
+  - 1\. 1 Teil: — Fr. 200
+  - 2\. 2 Teile: — Fr. 400
+  - 3\. 3 Teile: — Fr. 500
 - f) Verwarnungen oder Suspendierungen von Bewilligungen:
-  - 1\. gegenüber Unternehmens- oder Betriebsleitern: Fr. 200 bis 500
-  - 2\. gegenüber Sicherheits- oder Aufsichtspersonal: Fr. 200 bis 300
-- g) Erteilung, Erneuerung, Verweigerung oder Entzug der Bewilligung für den Einsatz von Hunden: Fr. 50 bis 100
-- h) Eignungstest für Hunde und Hundeführer: Fr. 300
-- i) Genehmigung oder Ablehnung des benutzten Materials: Fr. 100
-- j) Duplikat eines Legitimationsausweises: Fr. 20
+  - 1\. gegenüber Unternehmens- oder Betriebsleitern: — Fr. 200 bis 500
+  - 2\. gegenüber Sicherheits- oder Aufsichtspersonal: — Fr. 200 bis 300
+- g) Erteilung, Erneuerung, Verweigerung oder Entzug der Bewilligung für den Einsatz von Hunden: — Fr. 50 bis 100
+- h) Eignungstest für Hunde und Hundeführer: — Fr. 300
+- i) Genehmigung oder Ablehnung des benutzten Materials: — Fr. 100
+- j) Duplikat eines Legitimationsausweises: — Fr. 20
 
 <sup>2</sup> Bei der Festsetzung der Gebühr werden der Arbeitsaufwand und die Auslagen berücksichtigt.
 

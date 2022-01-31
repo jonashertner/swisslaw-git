@@ -3,13 +3,12 @@ canton: FR
 number: "559.61"
 title: "Arrêté d'exécution du concordat sur les entreprises de sécurité"
 language: fr
-version: 2016-01-01
-valid_until: 2022-01-31
-version_adopted: 2015-12-07
+version: 2022-02-01
+version_adopted: 2022-03-11
 adopted: 1998-12-15
 in_force: 1999-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/559.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5274/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7453/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5274/pdf_file"
 
 Entreprises de sécurité – A
 
-du 15.12.1998 (version entrée en vigueur le 01.01.2016)
+du 15.12.1998 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -46,7 +45,7 @@ Arrête:
 
 **Organes d'application – Direction**
 
-<sup>1</sup> La Direction de la sécurité et de la justice est l'autorité chargée de l'application du concordat et du présent arrêté.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport est l'autorité chargée de l'application du concordat et du présent arrêté.
 
 <sup>2</sup> Elle nomme les membres de la Commission d'examen pour les entreprises de sécurité.
 
@@ -60,7 +59,7 @@ Arrête:
 
 **Organes d'application – Commission d'examen pour les entreprises de sécurité**
 
-<sup>1</sup> La Commission d'examen pour les entreprises de sécurité (ci-après: la Commission d'examen) est composée de trois membres, soit un président, représentant la Direction de la sécurité et de la justice, et deux personnes représentant la Police cantonale.
+<sup>1</sup> La Commission d'examen pour les entreprises de sécurité (ci-après: la Commission d'examen) est composée de trois membres, soit un président, représentant la Direction de la sécurité, de la justice et du sport, et deux personnes représentant la Police cantonale.
 
 <sup>2</sup> Les membres sont nommés pour une période administrative conformément à la législation sur la durée des fonctions publiques accessoires. Le secrétariat de la Commission d'examen est assumé par la Police cantonale.
 
@@ -73,7 +72,7 @@ Arrête:
 
 **Organes d'application – Police cantonale**
 
-<sup>1</sup> La Police cantonale est l'organe d'exécution de la Direction de la sécurité et de la justice.
+<sup>1</sup> La Police cantonale est l'organe d'exécution de la Direction de la sécurité, de la justice et du sport.
 
 <sup>2</sup> Elle est compétente pour:
 
@@ -152,21 +151,21 @@ Arrête:
 
 <sup>1</sup> Les émoluments suivants sont perçus:
 
-- a) octroi, renouvellement, refus ou retrait d'autorisations d'exploiter ou d'engager un chef de succursale: Fr. 500
-- b) octroi, renouvellement, refus ou retrait de l'autorisation d'engager un agent de sécurité, un surveillant d'établissement public ou de commerce, ou de l'autorisation d'exercer: Fr. 300
-- c) reconnaissance d'autorisations ou de certificats de capacité émanant d'autres cantons non concordataires (sous réserve de l'application de la loi fédérale sur le marché intérieur): Fr. 200 à 300
-- d) octroi, refus ou retrait d'autorisations temporaires (par personne): Fr. 100
+- a) octroi, renouvellement, refus ou retrait d'autorisations d'exploiter ou d'engager un chef de succursale: — Fr. 500
+- b) octroi, renouvellement, refus ou retrait de l'autorisation d'engager un agent de sécurité, un surveillant d'établissement public ou de commerce, ou de l'autorisation d'exercer: — Fr. 300
+- c) reconnaissance d'autorisations ou de certificats de capacité émanant d'autres cantons non concordataires (sous réserve de l'application de la loi fédérale sur le marché intérieur): — Fr. 200 à 300
+- d) octroi, refus ou retrait d'autorisations temporaires (par personne): — Fr. 100
 - e) examens:
-  - 1\. 1 partie: Fr. 200
-  - 2\. 2 parties: Fr. 400
-  - 3\. 3 parties: Fr. 500
+  - 1\. 1 partie: — Fr. 200
+  - 2\. 2 parties: — Fr. 400
+  - 3\. 3 parties: — Fr. 500
 - f) avertissements ou suspensions d'autorisations:
-  - 1\. chef d'entreprise ou chef d'établissement en cause: Fr. 200 à 500
-  - 2\. agent ou surveillant en cause: Fr. 200 à 300
-- g) octroi, renouvellement, refus ou retrait de l'autorisation d'utiliser un chien: Fr. 50 à 100
-- h) test d'aptitude pour les chiens et maîtres chiens: Fr. 300
-- i) approbation ou refus des matériels utilisés: Fr. 100
-- j) duplicata d'une carte de légitimation: Fr. 20
+  - 1\. chef d'entreprise ou chef d'établissement en cause: — Fr. 200 à 500
+  - 2\. agent ou surveillant en cause: — Fr. 200 à 300
+- g) octroi, renouvellement, refus ou retrait de l'autorisation d'utiliser un chien: — Fr. 50 à 100
+- h) test d'aptitude pour les chiens et maîtres chiens: — Fr. 300
+- i) approbation ou refus des matériels utilisés: — Fr. 100
+- j) duplicata d'une carte de légitimation: — Fr. 20
 
 <sup>2</sup> Le montant de l'émolument est fixé en tenant compte de l'importance du travail et des frais.
 
