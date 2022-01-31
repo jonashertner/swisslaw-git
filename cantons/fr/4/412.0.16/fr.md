@@ -3,13 +3,13 @@ canton: FR
 number: "412.0.16"
 title: "Ordonnance fixant les écolages et les taxes d'inscription des écoles du secondaire du deuxième degré"
 language: fr
-version: 2019-01-01
-valid_until: 2022-01-31
-version_adopted: 2019-01-15
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-03-04
 adopted: 1995-06-27
 in_force: 1995-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5914/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7291/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5914/pdf_file"
 
 Ecoles du secondaire du deuxième degré, écolages – O
 
-du 27.06.1995 (version entrée en vigueur le 01.01.2019)
+du 27.06.1995 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -40,7 +40,7 @@ Arrête:
 
 **Champ d'application**
 
-<sup>1</sup> La présente ordonnance s'applique à toutes les écoles du secondaire du deuxième degré de l'Etat de Fribourg ainsi qu'aux élèves dont les parents sont domiciliés dans le canton de Fribourg et qui fréquentent, moyennant une prise en charge financière par la Direction de l'instruction publique, de la culture et du sport, une école extracantonale.
+<sup>1</sup> La présente ordonnance s'applique à toutes les écoles du secondaire du deuxième degré de l'Etat de Fribourg ainsi qu'aux élèves dont les parents sont domiciliés dans le canton de Fribourg et qui fréquentent, moyennant une prise en charge financière par la Direction de la formation et des affaires culturelles, une école extracantonale.
 
 #### Art. 2
 
@@ -48,7 +48,7 @@ Arrête:
 
 <sup>1</sup> Pour les élèves fréquentant les écoles précitées et dont les parents sont domiciliés dans le canton de Fribourg, l'écolage annuel est fixé à 375 francs et à 1200 francs pour le cours préparatoire à l'examen complémentaire permettant l'accès aux hautes écoles universitaires.
 
-<sup>2</sup> Pour les élèves dont les parents sont domiciliés dans le canton de Fribourg et qui fréquentent, moyennant une prise en charge financière par la Direction de l'instruction publique, de la culture et du sport, une école extracantonale, un écolage annuel de 375 francs pour les formations du secondaire du deuxième degré et de 1200 francs pour les passerelles entre le secondaire du deuxième degré et le tertiaire est perçu.
+<sup>2</sup> Pour les élèves dont les parents sont domiciliés dans le canton de Fribourg et qui fréquentent, moyennant une prise en charge financière par la Direction de la formation et des affaires culturelles, une école extracantonale, un écolage annuel de 375 francs pour les formations du secondaire du deuxième degré et de 1200 francs pour les passerelles entre le secondaire du deuxième degré et le tertiaire est perçu.
 
 #### Art. 3
 
@@ -88,7 +88,7 @@ Arrête:
 
 **Exemption**
 
-<sup>1</sup> En cas de circonstances exceptionnelles, la Direction de l'instruction publique, de la culture et du sport peut accorder l'exemption du paiement de l'écolage ou de la taxe d'inscription, en tout ou en partie.
+<sup>1</sup> En cas de circonstances exceptionnelles, la Direction de la formation et des affaires culturelles peut accorder l'exemption du paiement de l'écolage ou de la taxe d'inscription, en tout ou en partie.
 
 #### Art. 8
 
