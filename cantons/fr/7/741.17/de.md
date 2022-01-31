@@ -3,20 +3,20 @@ canton: FR
 number: "741.17"
 title: Verordnung über die Zuständigkeit der Gemeinde Freiburg im Bereich Strasse
 language: de
-version: 2012-06-01
-valid_until: 2022-01-31
-version_adopted: 2012-05-22
+version: 2022-02-01
+valid_until: 2026-01-31
+version_adopted: 2022-03-18
 adopted: 2026-02-23
 in_force: 2026-02-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/741.17"
-pdf: "https://bdlf.fr.ch/api/de/versions/6862/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7351/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Zuständigkeit der Gemeinde Freiburg im Bereich Strasse
 
-vom 22.05.2012 (Fassung in Kraft getreten am 01.06.2012)
+vom 22.05.2012 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -44,7 +44,7 @@ Auf Antrag der Raumplanungs-, Umwelt- und Baudirektion,
 - b) das Ausführen des Winterdienstes und der anderen für den Unterhalt und Betrieb nötigen Arbeiten auf den im Plan Nr. 2 festgelegten Abschnitten;
 - c) das Erlassen von Bestimmungen über Verbot und Einschränkung des Verkehrs und des Parkierens auf ihrem Gebiet; davon ausgenommen sind Bestimmungen über die Höchstgeschwindigkeit.
 
-<sup>2</sup> Bei kantonalen Projekten auf dem Gemeindegebiet bleibt der Staat, vertreten von der Raumplanungs-, Umwelt- und Baudirektion, zuständig für das Erlassen von Bestimmungen über Verbot und Einschränkung des Verkehrs und des Parkierens.
+<sup>2</sup> Bei kantonalen Projekten auf dem Gemeindegebiet bleibt der Staat, vertreten von der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt, zuständig für das Erlassen von Bestimmungen über Verbot und Einschränkung des Verkehrs und des Parkierens.
 
 [^1-1]: Anmerkung des Autors: die im Absatz 1 Bst. a und b erwähnten Pläne können beim Tiefbauamt eingesehen werden.
 

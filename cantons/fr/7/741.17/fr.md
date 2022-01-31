@@ -3,20 +3,20 @@ canton: FR
 number: "741.17"
 title: Ordonnance déléguant à la commune de Fribourg des compétences en matière routière
 language: fr
-version: 2012-06-01
-valid_until: 2022-01-31
-version_adopted: 2012-05-22
+version: 2022-02-01
+valid_until: 2026-01-31
+version_adopted: 2022-03-18
 adopted: 2026-02-23
 in_force: 2026-02-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/741.17"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6862/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7351/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance déléguant à la commune de Fribourg des compétences en matière routière
 
-du 22.05.2012 (version entrée en vigueur le 01.06.2012)
+du 22.05.2012 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -46,7 +46,7 @@ Arrête:
 - b) d'exécuter le service d'hiver et les autres travaux d'entretien et d'exploitation pour les sections représentées sur le plan no 2;
 - c) d'interdire et de restreindre la circulation et le stationnement sur son territoire, à l'exception des limitations de vitesse.
 
-<sup>2</sup> L'Etat, par la Direction de l'aménagement, de l'environnement et des constructions, reste toutefois compétent pour interdire et restreindre la circulation et le stationnement pour les projets cantonaux situés sur le territoire de la commune.
+<sup>2</sup> L'Etat, par la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement, reste toutefois compétent pour interdire et restreindre la circulation et le stationnement pour les projets cantonaux situés sur le territoire de la commune.
 
 [^1-1]: Note d'auteur: les plans mentionnés à l'alinéa 1 let. a et b de cet article peuvent être consultés au- près du Service des ponts et chaussées.
 
