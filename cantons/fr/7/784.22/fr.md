@@ -3,13 +3,13 @@ canton: FR
 number: "784.22"
 title: "Arrêté fixant la procédure d'autorisation de construire et d'exploiter des téléphériques servant au transport de personnes sans concession fédérale et des téléskis"
 language: fr
-version: 2012-01-01
-valid_until: 2022-01-31
-version_adopted: 2011-12-06
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 1980-12-09
 in_force: 1981-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/784.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5417/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7364/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5417/pdf_file"
 
 Téléphériques sans concession fédérale et téléskis – A
 
-du 09.12.1980 (version entrée en vigueur le 01.01.2012)
+du 09.12.1980 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -42,7 +42,7 @@ Arrête:
 
 <sup>1</sup> Le Service de la mobilité (ci-après: le Service) est l'autorité compétente pour délivrer ou retirer l'autorisation de construire ou d'exploiter les installations de remontée mécanique soumises au concordat intercantonal concernant les installations de transport par câbles et skilifts sans concession fédérale.
 
-<sup>2</sup> Est réservée la compétence d'autres autorités en vertu de lois spéciales, notamment l'octroi par le préfet du permis de construire pour des bâtiments et des ouvrages soumis à l'obligation d'un tel permis et l'octroi, par la Direction de l'aménagement, de l'environnement et des constructions, de l'autorisation spéciale prévue par la législation sur l'aménagement du territoire.
+<sup>2</sup> Est réservée la compétence d'autres autorités en vertu de lois spéciales, notamment l'octroi par le préfet du permis de construire pour des bâtiments et des ouvrages soumis à l'obligation d'un tel permis et l'octroi, par la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement, de l'autorisation spéciale prévue par la législation sur l'aménagement du territoire.
 
 #### Art. 2
 
@@ -102,7 +102,7 @@ Arrête:
 
 #### Art. 10
 
-<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions peut compléter par des directives la procédure prévue par le présent arrêté.
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement peut compléter par des directives la procédure prévue par le présent arrêté.
 
 #### Art. 11
 

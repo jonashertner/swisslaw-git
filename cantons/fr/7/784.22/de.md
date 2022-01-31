@@ -3,13 +3,13 @@ canton: FR
 number: "784.22"
 title: Beschluss betreffend das Verfahren über die Erteilung von Bewilligungen für den Bau und den Betrieb der Luftseilbahnen mit Personenbeförderung ohne Bundeskonzession und der Skilifte
 language: de
-version: 2012-01-01
-valid_until: 2022-01-31
-version_adopted: 2011-12-06
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 1980-12-09
 in_force: 1981-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/784.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/5417/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7364/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5417/pdf_file"
 
 Luftseilbahnen ohne Bundeskonzession und Skilifte – B
 
-vom 09.12.1980 (Fassung in Kraft getreten am 01.01.2012)
+vom 09.12.1980 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -42,7 +42,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Mobilität (das Amt) ist die zuständige Behörde für die Erteilung oder den Entzug von Bau- und Betriebsbewilligungen für mechanische Liftanlagen, welche dem interkantonalen Konkordat über die nicht eidgenössisch konzessionierten Seilbahnen und Skilifte unterstellt sind.
 
-<sup>2</sup> Vorbehalten bleibt die Zuständigkeit anderer Behörden gemäss besonderer Gesetzgebung, namentlich des Oberamtmannes hinsichtlich der Erteilung der Baubewilligung für Gebäude und Werke, welche einer solchen Bewilligungspflicht unterstehen, sowie der Raumplanungs-, Umwelt- und Baudirektion hinsichtlich der Erteilung der Sonderbewilligung, welche durch die Gesetzgebung über die Raumplanung vorgesehen ist.
+<sup>2</sup> Vorbehalten bleibt die Zuständigkeit anderer Behörden gemäss besonderer Gesetzgebung, namentlich des Oberamtmannes hinsichtlich der Erteilung der Baubewilligung für Gebäude und Werke, welche einer solchen Bewilligungspflicht unterstehen, sowie der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt hinsichtlich der Erteilung der Sonderbewilligung, welche durch die Gesetzgebung über die Raumplanung vorgesehen ist.
 
 #### Art. 2
 
@@ -102,7 +102,7 @@ beschliesst:
 
 #### Art. 10
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion kann das gemäss vorliegendem Beschluss geregelte Verfahren durch Vorschriften ergänzen.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt kann das gemäss vorliegendem Beschluss geregelte Verfahren durch Vorschriften ergänzen.
 
 #### Art. 11
 
