@@ -3,20 +3,19 @@ canton: FR
 number: "76.16"
 title: Tarif betreffend die Verfahrenskosten im Enteignungsverfahren
 language: de
-version: 2008-01-01
-valid_until: 2022-01-31
-version_adopted: 2007-11-14
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1985-02-26
 in_force: 1984-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/76.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/6357/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7356/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Tarif betreffend die Verfahrenskosten im Enteignungsverfahren
 
-vom 26.02.1985 (Fassung in Kraft getreten am 01.01.2008)
+vom 26.02.1985 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -32,7 +31,7 @@ beschliesst:
 
 <sup>1</sup> Der vorliegende Tarif regelt die Verfahrenskosten in jenen Streitigkeiten, auf die das Enteignungsgesetz Anwendung findet.
 
-<sup>2</sup> Die Verfahrenskosten im Verfahren vor der Raumplanungs-, Umwelt- und Baudirektion bestimmen sich jedoch nach dem Tarif der Verwaltungsgebühren.
+<sup>2</sup> Die Verfahrenskosten im Verfahren vor der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt bestimmen sich jedoch nach dem Tarif der Verwaltungsgebühren.
 
 #### Art. 2
 

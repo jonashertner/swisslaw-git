@@ -3,20 +3,19 @@ canton: FR
 number: "76.16"
 title: "Tarif des frais de procédure en matière d'expropriation"
 language: fr
-version: 2008-01-01
-valid_until: 2022-01-31
-version_adopted: 2007-11-14
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 1985-02-26
 in_force: 1984-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/76.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6357/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7356/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Tarif des frais de procédure en matière d'expropriation
 
-du 26.02.1985 (version entrée en vigueur le 01.01.2008)
+du 26.02.1985 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -32,7 +31,7 @@ Arrête:
 
 <sup>1</sup> Le présent tarif régit les frais de procédure dans les causes soumises à la loi sur l'expropriation.
 
-<sup>2</sup> Les frais de procédure devant la Direction de l'aménagement, de l'environnement et des constructions sont toutefois fixés conformément au tarif des émoluments administratifs.
+<sup>2</sup> Les frais de procédure devant la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement sont toutefois fixés conformément au tarif des émoluments administratifs.
 
 #### Art. 2
 
