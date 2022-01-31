@@ -4,13 +4,13 @@ number: "780.11"
 title: Ausführungsreglement zum Verkehrsgesetz
 short: VR
 language: de
-version: 2012-01-01
-valid_until: 2022-01-31
-version_adopted: 2011-12-06
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 2022-12-20
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/780.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5403/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7430/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Verkehr – R
 
 (VR)
 
-vom 25.11.1996 (Fassung in Kraft getreten am 01.01.2012)
+vom 25.11.1996 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -183,11 +183,11 @@ beschliesst:
 <sup>4</sup> Leistungen des öffentlichen Verkehrs, die von einem regionalen Verkehrsverbund mit finanzieller Unterstützung des Kantons bestellt werden, müssen bei der Auslastung und der Kostendeckung folgende Zielvorgaben und Minimalanforderungen erfüllen:
 
 - a) Zielvorgaben:
-  - 1\. Auslastung (Personen pro Kurs): 18 Personen
-  - 2\. Kostendeckungsgrad: 40 %
+  - 1\. Auslastung (Personen pro Kurs): — 18 Personen
+  - 2\. Kostendeckungsgrad: — 40 %
 - b) Minimalanforderungen:
-  - 1\. Auslastung (Personen pro Kurs): 11 Personen
-  - 2\. Kostendeckungsgrad: 20 %
+  - 1\. Auslastung (Personen pro Kurs): — 11 Personen
+  - 2\. Kostendeckungsgrad: — 20 %
 - c) Die Auslastung wird auf dem meistbelasteten Teilstück der entsprechenden Linie gemessen.
 - d) Auslastung und Kostendeckungsgrad gelten nur für Bus- und Trolleybuslinien; andere Verkehrsmittel (Standseilbahnen usw.) müssen nur die Anforderungen an den Kostendeckungsgrad erfüllen.
 
@@ -273,7 +273,7 @@ beschliesst:
 
 <sup>2</sup> Um die Transportkosten zu vermindern, passen die Schulen ihre Stundenpläne soweit wie möglich den Fahrplänen des öffentlichen Verkehrs an.
 
-<sup>3</sup> Die nach Artikel 19 dieses Reglements bewilligten Transportkosten werden im Sinne des Schulgesetzes von der Direktion für Erziehung, Kultur und Sport und den Gemeinden übernommen.
+<sup>3</sup> Die nach Artikel 19 dieses Reglements bewilligten Transportkosten werden im Sinne des Schulgesetzes von der Direktion für Bildung und kulturelle Angelegenheiten und den Gemeinden übernommen.
 
 ## 4 Verschiedene Bestimmungen
 
@@ -285,7 +285,7 @@ beschliesst:
 
 <sup>2</sup> Die Fahrplangruppe nimmt auch an der Ausarbeitung der Angebotsvereinbarungen für den Regionalverkehr teil.
 
-<sup>3</sup> Sie lädt die Vertreter der Direktion für Erziehung, Kultur und Sport sowie der öffentlichen Transportunternehmen und der betroffenen Regionen zu ihren Sitzungen ein.
+<sup>3</sup> Sie lädt die Vertreter der Direktion für Bildung und kulturelle Angelegenheiten sowie der öffentlichen Transportunternehmen und der betroffenen Regionen zu ihren Sitzungen ein.
 
 #### Art. 19
 

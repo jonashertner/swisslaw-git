@@ -4,13 +4,13 @@ number: "780.11"
 title: "Règlement d'exécution de la loi sur les transports"
 short: RTr
 language: fr
-version: 2012-01-01
-valid_until: 2022-01-31
-version_adopted: 2011-12-06
+version: 2022-02-01
+valid_until: 2022-12-31
+version_adopted: 2022-03-18
 adopted: 2022-12-20
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/780.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5403/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7430/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Transports – R
 
 (RTr)
 
-du 25.11.1996 (version entrée en vigueur le 01.01.2012)
+du 25.11.1996 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -183,11 +183,11 @@ Arrête:
 <sup>4</sup> Les prestations de transport public mandatées par une communauté régionale avec l'aide financière de l'Etat doivent, en ce qui concerne les taux d'occupation et de couverture des coûts, viser les objectifs et respecter les valeurs minimales fixés selon les principes suivants:
 
 - a) Objectifs:
-  - 1\. Taux d'utilisation (nombre de personnes par course): 18 personnes
-  - 2\. Taux de couverture des coûts: 40 %
+  - 1\. Taux d'utilisation (nombre de personnes par course): — 18 personnes
+  - 2\. Taux de couverture des coûts: — 40 %
 - b) Exigences minimales:
-  - 1\. Taux d'utilisation (nombre de personnes par course): 11 personnes
-  - 2\. Taux de couverture des coûts: 20 %
+  - 1\. Taux d'utilisation (nombre de personnes par course): — 11 personnes
+  - 2\. Taux de couverture des coûts: — 20 %
 - c) Le taux d'utilisation se mesure sur la section la plus chargée de la ligne considérée.
 - d) Les taux d'utilisation et de couverture des coûts s'appliquent aux lignes de bus et de trolleybus, les autres systèmes de transport (funiculaire, etc.) devant satisfaire uniquement aux exigences concernant le taux de couverture des coûts.
 
@@ -273,7 +273,7 @@ Arrête:
 
 <sup>2</sup> Afin de diminuer les coûts des transports, les écoles adaptent, dans la mesure du possible, leurs horaires à ceux des transports publics.
 
-<sup>3</sup> Les coûts des transports au bénéfice d'une autorisation, au sens de l'article 19 du règlement, sont pris en charge par la Direction de l'instruction publique, de la culture et du sport et par les communes, conformément à la loi scolaire.
+<sup>3</sup> Les coûts des transports au bénéfice d'une autorisation, au sens de l'article 19 du règlement, sont pris en charge par la Direction de la formation et des affaires culturelles et par les communes, conformément à la loi scolaire.
 
 ## 4 Dispositions diverses
 
@@ -285,7 +285,7 @@ Arrête:
 
 <sup>2</sup> Le Groupe horaire participe également à l'élaboration des conventions d'offres en matière de trafic régional.
 
-<sup>3</sup> Il invite à ses séances les représentants de la Direction de l'instruction publique, de la culture et du sport ainsi que ceux des entreprises de transports publics et des régions concernées.
+<sup>3</sup> Il invite à ses séances les représentants de la Direction de la formation et des affaires culturelles ainsi que ceux des entreprises de transports publics et des régions concernées.
 
 #### Art. 19
 
