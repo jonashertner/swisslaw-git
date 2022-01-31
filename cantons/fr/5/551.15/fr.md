@@ -3,13 +3,12 @@ canton: FR
 number: "551.15"
 title: Ordonnance relative à la gestion des menaces
 language: fr
-version: 2021-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-01-12
+version: 2022-02-01
+version_adopted: 2022-03-11
 adopted: 2021-01-12
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/551.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6721/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8613/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6721/pdf_file"
 
 Gestion des menaces – O
 
-du 12.01.2021 (version entrée en vigueur le 01.01.2021)
+du 12.01.2021 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -36,9 +35,11 @@ Arrête:
 
 **Objet**
 
-<sup>1</sup> La présente ordonnance règle la composition et le fonctionnement des organes mis en place pour assurer la gestion des menaces définies aux articles 30f et suivants LPol.
+<sup>1</sup> La présente ordonnance règle la composition et le fonctionnement des organes mis en place pour assurer la gestion des menaces définies aux articles 30f et suivants LPol[^1-1].
 
 <sup>2</sup> Elle règle également la gestion des données traitées par l'unité de gestion des menaces de la Police cantonale et leur accès.
+
+[^1-1]: RSF [551.1](https://bdlf.fr.ch/data/551.1/fr)
 
 ## 2. Unité de gestion des menaces de la Police cantonale
 
@@ -48,7 +49,9 @@ Arrête:
 
 <sup>1</sup> L'unité de gestion des menaces de la Police cantonale (ci-après: l'unité) est composée d'agents et agentes de police et de collaborateurs et collaboratrices civils de la Police cantonale, disposant d'une formation adaptée aux tâches et aux missions de l'unité.
 
-<sup>2</sup> Les règles relatives à l'affectation du personnel selon l'article 20 LPol sont réservées.
+<sup>2</sup> Les règles relatives à l'affectation du personnel selon l'article 20 LPol[^2-1] sont réservées.
+
+[^2-1]: RSF [551.1](https://bdlf.fr.ch/data/551.1/fr)
 
 ## 3. Réseau d'annonce
 
@@ -72,7 +75,9 @@ Arrête:
 
 <sup>2</sup> Il réexamine et adapte la liste des experts et expertes en cas de besoin.
 
-<sup>3</sup> Les conditions de rémunération fixées à l'article 2 de l'ordonnance du 16 novembre 2010 concernant la rémunération des membres des commissions de l'Etat s'appliquent au groupe d'experts et expertes.
+<sup>3</sup> Les conditions de rémunération fixées à l'article 2 de l'ordonnance du 16 novembre 2010 concernant la rémunération des membres des commissions de l'Etat[^4-1] s'appliquent au groupe d'experts et expertes.
+
+[^4-1]: RSF [122.8.41](https://bdlf.fr.ch/data/122.8.41/fr)
 
 #### Art. 5
 
@@ -96,9 +101,11 @@ Arrête:
 
 **Experts et expertes externes**
 
-<sup>1</sup> Lorsque le traitement d'un cas nécessite un avis particulier d'un expert ou d'une experte, l'unité peut faire appel à un expert ou une experte dont il n'est pas fait mention à l'article 5; la Direction de la sécurité et de la justice valide la consultation de l'expert ou de l'experte concerné‑e.
+<sup>1</sup> Lorsque le traitement d'un cas nécessite un avis particulier d'un expert ou d'une experte, l'unité peut faire appel à un expert ou une experte dont il n'est pas fait mention à l'article 5; la Direction de la sécurité, de la justice et du sport valide la consultation de l'expert ou de l'experte concerné‑e.
 
-<sup>2</sup> Le montant de la rémunération des experts et expertes externes se fonde par analogie sur les montants prévus par l'article 3 al. 2 de l'ordonnance du 16 novembre 2010 concernant la rémunération des membres des commissions de l'Etat.
+<sup>2</sup> Le montant de la rémunération des experts et expertes externes se fonde par analogie sur les montants prévus par l'article 3 al. 2 de l'ordonnance du 16 novembre 2010 concernant la rémunération des membres des commissions de l'Etat[^6-1].
+
+[^6-1]: RSF [122.8.41](https://bdlf.fr.ch/data/122.8.41/fr)
 
 #### Art. 7
 
@@ -106,9 +113,11 @@ Arrête:
 
 <sup>1</sup> Lorsque la situation le requiert, l'unité sollicite les experts et expertes ayant compétence pour l'analyse du cas, en ne leur communiquant que les données personnelles strictement nécessaires à leur appréciation.
 
-<sup>2</sup> L'unité s'appuie sur l'analyse des experts et expertes pour décider des éventuelles mesures à prendre au sens de l'article 30j LPol.
+<sup>2</sup> L'unité s'appuie sur l'analyse des experts et expertes pour décider des éventuelles mesures à prendre au sens de l'article 30j LPol[^7-1].
 
 <sup>3</sup> L'unité réunit au moins une fois par année le groupe d'experts et expertes en séance plénière.
+
+[^7-1]: RSF [551.1](https://bdlf.fr.ch/data/551.1/fr)
 
 ## 5. Traitement des données
 
@@ -120,9 +129,11 @@ Arrête:
 
 <sup>2</sup> Avant toute intégration à la base de données, chaque cas annoncé à l'unité fait l'objet d'une analyse. Seules les personnes à risques, au terme de cette analyse, figurent dans la base de données spécifique.
 
-<sup>3</sup> Figurent dans la base de données de l'unité toutes les données nécessaires à la gestion du cas, y compris des données sensibles, conformément à l'article 38c al. 1 LPol.
+<sup>3</sup> Figurent dans la base de données de l'unité toutes les données nécessaires à la gestion du cas, y compris des données sensibles, conformément à l'article 38c al. 1 LPol[^8-1].
 
 <sup>4</sup> L'anonymat des personnes procédant à l'annonce est garanti par la Police cantonale. Sont exceptées les données fournies dans le cadre d'une procédure pénale.
+
+[^8-1]: RSF [551.1](https://bdlf.fr.ch/data/551.1/fr)
 
 #### Art. 9
 
@@ -142,6 +153,8 @@ Arrête:
 
 <sup>2</sup> Un refus total ou partiel de l'accès aux données, de même qu'un report de l'accès à ces données, en présence d'intérêts publics et/ou privés prépondérants, fait l'objet d'une décision du commandant ou de la commandante de la Police cantonale.
 
-<sup>3</sup> La décision de refus, total ou partiel, ou de report peut faire l'objet d'un recours auprès de la Direction de la sécurité et de la justice. Au surplus, les règles de la législation sur la protection des données et du code de procédure et de juridiction administrative s'appliquent.
+<sup>3</sup> La décision de refus, total ou partiel, ou de report peut faire l'objet d'un recours auprès de la Direction de la sécurité, de la justice et du sport. Au surplus, les règles de la législation sur la protection des données et du code de procédure et de juridiction administrative[^10-1] s'appliquent.
+
+[^10-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 2021\_003
