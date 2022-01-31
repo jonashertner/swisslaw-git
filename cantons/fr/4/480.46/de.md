@@ -3,13 +3,13 @@ canton: FR
 number: "480.46"
 title: Verordnung über Schaffensbeiträge an anerkannte Theatergruppen
 language: de
-version: 2012-09-01
-valid_until: 2022-01-31
-version_adopted: 2012-07-02
+version: 2022-02-01
+valid_until: 2023-07-30
+version_adopted: 2022-03-04
 adopted: 2012-07-02
 in_force: 2012-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/480.46"
-pdf: "https://bdlf.fr.ch/api/de/versions/5233/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7314/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5233/pdf_file"
 
 Theatergruppen, Schaffensbeiträge – V
 
-vom 02.07.2012 (Fassung in Kraft getreten am 01.09.2012)
+vom 02.07.2012 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -42,7 +42,7 @@ beschliesst:
 
 **Fachgruppe – Auftrag**
 
-<sup>1</sup> Eine Fachgruppe hat die Aufgabe, der Direktion für Erziehung, Kultur und Sport (die Direktion) Vorschläge für die Vergabe von Schaffensbeiträgen an anerkannte Theatergruppen zu unterbreiten.
+<sup>1</sup> Eine Fachgruppe hat die Aufgabe, der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) Vorschläge für die Vergabe von Schaffensbeiträgen an anerkannte Theatergruppen zu unterbreiten.
 
 #### Art. 3
 

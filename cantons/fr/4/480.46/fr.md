@@ -3,13 +3,13 @@ canton: FR
 number: "480.46"
 title: "Ordonnance concernant l'octroi d'aides ponctuelles à la création en faveur des compagnies théâtrales confirmées"
 language: fr
-version: 2012-09-01
-valid_until: 2022-01-31
-version_adopted: 2012-07-02
+version: 2022-02-01
+valid_until: 2023-07-30
+version_adopted: 2022-03-04
 adopted: 2012-07-02
 in_force: 2012-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/480.46"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5233/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7314/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5233/pdf_file"
 
 Compagnies théâtrales, octroi d'aides ponctuelles – O
 
-du 02.07.2012 (version entrée en vigueur le 01.09.2012)
+du 02.07.2012 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -42,7 +42,7 @@ Arrête:
 
 **Groupe d'évaluation – Mission**
 
-<sup>1</sup> Un groupe d'évaluation (ci-après: le groupe) est chargé de proposer à la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) l'attribution d'aides ponctuelles à la création en faveur des compagnies théâtrales confirmées.
+<sup>1</sup> Un groupe d'évaluation (ci-après: le groupe) est chargé de proposer à la Direction de la formation et des affaires culturelles (ci-après: la Direction) l'attribution d'aides ponctuelles à la création en faveur des compagnies théâtrales confirmées.
 
 #### Art. 3
 
