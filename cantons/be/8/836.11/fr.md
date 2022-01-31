@@ -4,13 +4,13 @@ number: "836.11"
 title: Loi sur le marché du travail
 short: LMT
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-03-09
+version: 2022-02-01
+valid_until: 2026-08-31
+version_adopted: 2021-06-08
 adopted: 2003-06-23
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/836.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2475/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2480/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2475/pdf_file"
 
 (LMT)
 
-du 23.06.2003 (état au 01.01.2022)
+du 23.06.2003 (état au 01.02.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -153,14 +153,12 @@ arrête:
 
 <sup>2</sup> Ces données peuvent être communiquées aux autorités et organes suivants chargés de l'exécution des dispositions de lutte contre le travail au noir relevant de la loi ou de conventions collectives de travail:
 
-- a services de l'administration chargés de l'application de la loi du 11 juin 2002 sur les marchés publics (LCMP)[^11-1],
+- a autorités chargées de l'application de la législation sur les marchés publics,
 - b autorités compétentes en matière d'asile et police des étrangers,
 - c autorités fiscales et autorités compétentes en matière d'aide sociale,
 - d organes des assurances sociales,
 - e membres de la CCMT et personnes et services mandatés par elle,
 - f services de contrôle compétents en vertu d'une convention collective de travail.
-
-[^11-1]: RSB 731.2
 
 ### 2.8 Observation du marché du travail
 

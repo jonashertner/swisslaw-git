@@ -4,13 +4,13 @@ number: "836.11"
 title: Arbeitsmarktgesetz
 short: AMG
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2021-03-09
+version: 2022-02-01
+valid_until: 2026-08-31
+version_adopted: 2021-06-08
 adopted: 2003-06-23
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/836.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2475/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2480/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2475/pdf_file"
 
 (AMG)
 
-vom 23.06.2003 (Stand 01.01.2022)
+vom 23.06.2003 (Stand 01.02.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -153,14 +153,12 @@ beschliesst:
 
 <sup>2</sup> Diese Daten dürfen den folgenden mit der Durchführung gesetzlicher oder gesamtarbeitsvertraglicher Bestimmungen zur Bekämpfung der Schwarzarbeit befassten Behörden und Organen bekannt gegeben werden:
 
-- a den mit der Anwendung des Gesetzes vom 11. Juni 2002 über das öffentliche Beschaffungswesen (ÖBG)[^11-1] betrauten Verwaltungsstellen,
+- a den mit der Anwendung der Gesetzgebung über das öffentliche Beschaffungswesen betrauten Behörden,
 - b Asyl- und Ausländerbehörden,
 - c Steuer- und Sozialhilfebehörden,
 - d Organen der Sozialversicherungen,
 - e den Mitgliedern der KAMKO und den von der KAMKO beauftragten Personen und Stellen,
 - f den nach Gesamtarbeitsvertrag zuständigen Kontrollstellen.
-
-[^11-1]: BSG 731.2
 
 ### 2.8 Arbeitsmarktbeobachtung
 
