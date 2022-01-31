@@ -3,13 +3,13 @@ canton: FR
 number: "551.61"
 title: Ordonnance concernant les émoluments de la Police cantonale
 language: fr
-version: 2016-10-01
-valid_until: 2022-01-31
-version_adopted: 2016-07-04
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-03-11
 adopted: 2025-12-15
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/551.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5271/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7333/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5271/pdf_file"
 
 Police cantonale, émoluments – O
 
-du 22.12.2009 (version entrée en vigueur le 01.10.2016)
+du 22.12.2009 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -258,13 +258,13 @@ Arrête:
 
 <sup>2</sup> Celui qui conteste le principe ou le montant d'un émolument ainsi perçu peut, dans les dix jours, interjeter une réclamation auprès du commandant.
 
-<sup>3</sup> La décision sur réclamation est sujette à recours auprès de la Direction de la sécurité et de la justice.
+<sup>3</sup> La décision sur réclamation est sujette à recours auprès de la Direction de la sécurité, de la justice et du sport.
 
 #### Art. 15
 
 **Réduction et remise**
 
-<sup>1</sup> Les émoluments peuvent, d'office ou sur requête, être réduits ou remis par la Direction de la sécurité et de la justice dans les mêmes cas que ceux qui sont prévus par le code de procédure et de juridiction administrative.
+<sup>1</sup> Les émoluments peuvent, d'office ou sur requête, être réduits ou remis par la Direction de la sécurité, de la justice et du sport dans les mêmes cas que ceux qui sont prévus par le code de procédure et de juridiction administrative.
 
 ## 3<sup>bis</sup> Frais pour le service d'ordre lié aux manifestations sportives
 

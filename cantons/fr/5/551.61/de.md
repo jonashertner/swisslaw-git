@@ -3,13 +3,13 @@ canton: FR
 number: "551.61"
 title: Verordnung über die Gebühren der Kantonspolizei
 language: de
-version: 2016-10-01
-valid_until: 2022-01-31
-version_adopted: 2016-07-04
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-03-11
 adopted: 2025-12-15
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/551.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/5271/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7333/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5271/pdf_file"
 
 Kantonspolizei, Gebühren – V
 
-vom 22.12.2009 (Fassung in Kraft getreten am 01.10.2016)
+vom 22.12.2009 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -258,13 +258,13 @@ beschliesst:
 
 <sup>2</sup> Wer eine so erhobene Gebühr dem Grundsatz oder dem Betrag nach bestreitet, kann innert zehn Tagen beim Kommandanten Einsprache erheben.
 
-<sup>3</sup> Gegen den Einspracheentscheid kann bei der Sicherheits- und Justizdirektion Beschwerde erhoben werden.
+<sup>3</sup> Gegen den Einspracheentscheid kann bei der Sicherheits-, Justiz- und Sportdirektion Beschwerde erhoben werden.
 
 #### Art. 15
 
 **Ermässigung und Erlass**
 
-<sup>1</sup> Die Gebühren können von der Sicherheits- und Justizdirektion in den im Gesetz über die Verwaltungsrechtspflege vorgesehenen Fällen von Amtes wegen oder auf Antrag ermässigt oder erlassen werden.
+<sup>1</sup> Die Gebühren können von der Sicherheits-, Justiz- und Sportdirektion in den im Gesetz über die Verwaltungsrechtspflege vorgesehenen Fällen von Amtes wegen oder auf Antrag ermässigt oder erlassen werden.
 
 ## 3<sup>bis</sup> Kosten für den Ordnungsdienst an Sportveranstaltungen
 
