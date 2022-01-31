@@ -3,13 +3,12 @@ canton: FR
 number: "866.2.12"
 title: "Ordonnance concernant l'attribution de la main-d'oeuvre étrangère"
 language: fr
-version: 2019-07-01
-valid_until: 2022-01-31
-version_adopted: 2019-06-26
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2007-12-10
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/866.2.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6081/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7424/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6081/pdf_file"
 
 Attribution de la main d'oeuvre étrangère – O
 
-du 10.12.2007 (version entrée en vigueur le 01.07.2019)
+du 10.12.2007 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -70,7 +69,7 @@ Arrête:
 
 <sup>1</sup> Trois personnes représentant la première le Service de la population et des migrants, la deuxième le Service public de l'emploi et la troisième la Promotion économique du canton de Fribourg assistent aux séances de la Commission, avec voix consultative, lorsque cette dernière siège pour les questions relatives à la présente ordonnance.
 
-<sup>2</sup> Lorsque la Commission prépare la proposition, adressée au Conseil d'Etat, relative à la répartition des contingents, deux personnes représentant l'une la Direction de l'instruction publique, de la culture et du sport et l'autre la Direction de la santé et des affaires sociales assistent également à ses délibérations, avec voix consultative.
+<sup>2</sup> Lorsque la Commission prépare la proposition, adressée au Conseil d'Etat, relative à la répartition des contingents, deux personnes représentant l'une la Direction de la formation et des affaires culturelles et l'autre la Direction de la santé et des affaires sociales assistent également à ses délibérations, avec voix consultative.
 
 <sup>3</sup> La Commission peut faire appel à d'autres personnes expertes pour l'appréciation de demandes particulières.
 

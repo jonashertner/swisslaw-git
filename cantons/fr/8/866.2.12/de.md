@@ -3,13 +3,12 @@ canton: FR
 number: "866.2.12"
 title: Verordnung über die Zuteilung der ausländischen Arbeitskräfte
 language: de
-version: 2019-07-01
-valid_until: 2022-01-31
-version_adopted: 2019-06-26
+version: 2022-02-01
+version_adopted: 2022-04-01
 adopted: 2007-12-10
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/866.2.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6081/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7424/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6081/pdf_file"
 
 Zuteilung der ausländischen Arbeitskräfte – V
 
-vom 10.12.2007 (Fassung in Kraft getreten am 01.07.2019)
+vom 10.12.2007 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -70,7 +69,7 @@ beschliesst:
 
 <sup>1</sup> An den Sitzungen der Kommission nehmen je eine Vertreterin oder ein Vertreter des Amtes für Bevölkerung und Migration, des Amtes für den Arbeitsmarkt und der Wirtschaftsförderung Kanton Freiburg mit beratender Stimme teil, wenn die Kommission für Fragen in Verbindung mit dieser Verordnung einberufen wird.
 
-<sup>2</sup> Wenn die Kommission den Antrag zuhanden des Staatsrates für die Zuteilung der Kontingente vorbereitet, nehmen auch je eine Vertreterin oder ein Vertreter der Direktion für Erziehung, Kultur und Sport sowie der Direktion für Gesundheit und Soziales mit beratender Stimme teil.
+<sup>2</sup> Wenn die Kommission den Antrag zuhanden des Staatsrates für die Zuteilung der Kontingente vorbereitet, nehmen auch je eine Vertreterin oder ein Vertreter der Direktion für Bildung und kulturelle Angelegenheiten sowie der Direktion für Gesundheit und Soziales mit beratender Stimme teil.
 
 <sup>3</sup> Für besondere Fragen kann die Kommission auch andere Expertinnen und Experten beiziehen.
 
