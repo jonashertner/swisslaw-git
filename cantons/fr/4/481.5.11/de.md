@@ -3,13 +3,12 @@ canton: FR
 number: "481.5.11"
 title: Reglement des Museums für Kunst und Geschichte
 language: de
-version: 2014-10-01
-valid_until: 2022-01-31
-version_adopted: 2014-09-30
+version: 2022-02-01
+version_adopted: 2022-03-04
 adopted: 1993-02-02
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/481.5.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6265/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6265/pdf_file"
 
 Museum für Kunst und Geschichte – R
 
-vom 02.02.1993 (Fassung in Kraft getreten am 01.10.2014)
+vom 02.02.1993 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -42,7 +41,7 @@ beschliesst:
 
 <sup>3</sup> Er bereitet die Geschäfte vor, welche die Kommission zu behandeln hat.
 
-<sup>4</sup> Der Direktor wird von der Direktion für Erziehung, Kultur und Sport (die EKSD) angestellt; er untersteht dem Amt für Kultur.
+<sup>4</sup> Der Direktor wird von der Direktion für Bildung und kulturelle Angelegenheiten (die BKAD) angestellt; er untersteht dem Amt für Kultur.
 
 #### Art. 2
 
@@ -77,7 +76,7 @@ beschliesst:
 
 **Kommission – Sitzungen**
 
-<sup>1</sup> Die Kommission tagt mindestens zweimal pro Jahr und sooft es der Präsident für nötig erachtet. Sie muss einberufen werden, wenn die EKSD oder drei Mitglieder dies verlangen.
+<sup>1</sup> Die Kommission tagt mindestens zweimal pro Jahr und sooft es der Präsident für nötig erachtet. Sie muss einberufen werden, wenn die BKAD oder drei Mitglieder dies verlangen.
 
 <sup>2</sup> Sie ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist.
 
@@ -89,7 +88,7 @@ beschliesst:
 
 **Kommission – Büro**
 
-<sup>1</sup> Das Büro der Kommission setzt sich aus dem Präsidenten, dem Vizepräsidenten und einem weiteren Kommissionsmitglied zusammen, welches die Kommission selbst bezeichnet. Der Direktor des Museums und der Vertreter der EKSD können mit beratender Stimme an den Sitzungen teilnehmen.
+<sup>1</sup> Das Büro der Kommission setzt sich aus dem Präsidenten, dem Vizepräsidenten und einem weiteren Kommissionsmitglied zusammen, welches die Kommission selbst bezeichnet. Der Direktor des Museums und der Vertreter der BKAD können mit beratender Stimme an den Sitzungen teilnehmen.
 
 <sup>2</sup> Das Büro prüft die von der Kommission zu behandelnden Geschäfte im voraus und stellt ihr Anträge.
 
@@ -103,7 +102,7 @@ beschliesst:
 
 <sup>2</sup> Es sorgt für den Unterhalt, die Restaurierung, die Aufbewahrung und die geeignete Ausstellungsweise.
 
-<sup>3</sup> Es erlässt Richtlinien über die Sicherheit von nicht im Museum untergebrachten beweglichen Sachen. Die Richtlinien werden der EKSD zur Genehmigung vorgelegt.
+<sup>3</sup> Es erlässt Richtlinien über die Sicherheit von nicht im Museum untergebrachten beweglichen Sachen. Die Richtlinien werden der BKAD zur Genehmigung vorgelegt.
 
 #### Art. 7
 
@@ -123,13 +122,13 @@ beschliesst:
 
 **Entscheidungsorgane**
 
-<sup>1</sup> Die EKSD entscheidet über jeden Tausch oder jede Veräusserung eines Kulturgutes aus den Sammlungen des Museums.
+<sup>1</sup> Die BKAD entscheidet über jeden Tausch oder jede Veräusserung eines Kulturgutes aus den Sammlungen des Museums.
 
 <sup>2</sup> Der Direktor entscheidet über jede Ausleihe oder jede Hinterlegung eines Kulturgutes aus den Sammlungen des Museums.
 
 <sup>3</sup> Der Vertrag nennt die Auflagen und Bedingungen, die mit der Ausleihe, der Hinterlegung oder dem Tausch verbunden sind.
 
-<sup>4</sup> Die EKSD und der Direktor können solche Geschäfte aus Gründen des Kulturgüterschutzes, des Persönlichkeitsschutzes, des Willens der Hinterleger oder des Museumsbetriebs beschränken oder verweigern.
+<sup>4</sup> Die BKAD und der Direktor können solche Geschäfte aus Gründen des Kulturgüterschutzes, des Persönlichkeitsschutzes, des Willens der Hinterleger oder des Museumsbetriebs beschränken oder verweigern.
 
 ## 4 Ausstellungen und andere Veranstaltungen
 
@@ -137,7 +136,7 @@ beschliesst:
 
 **Ausstellungen – Öffnungszeiten**
 
-<sup>1</sup> Die Ausstellungen sind der Öffentlichkeit während den von der EKSD auf Vorschlag des Direktors festgelegten Zeiten zugänglich.
+<sup>1</sup> Die Ausstellungen sind der Öffentlichkeit während den von der BKAD auf Vorschlag des Direktors festgelegten Zeiten zugänglich.
 
 <sup>2</sup> Der Direktor kann auf Anfrage vor allem für Schulen oder Gruppen Besuche ausserhalb der Öffnungszeiten bewilligen.
 
@@ -176,23 +175,27 @@ beschliesst:
 
 <sup>1</sup> Der Fonds wird gespiesen durch:
 
-- a) Vermächtnisse, Schenkungen und Zuwendungen, die ihm nach Artikel 36 Bst. m des Gesetzes über die Kantonssteuern gewährt werden;
+- a) Vermächtnisse, Schenkungen und Zuwendungen, die ihm nach Artikel 36 Bst. m des Gesetzes über die direkten Kantonssteuern[^14-1] gewährt werden;
 - b) den Ertrag des Fondsvermögens;
 - c) alle übrigen Mittel, die ihm zugewiesen werden können.
 
-<sup>2</sup> In den Fonds können mit dem Einverständnis der EKSD Zuwendungen fliessen, deren Zweckbestimmung vom Schenkenden vorgeschlagen wird.
+<sup>2</sup> In den Fonds können mit dem Einverständnis der BKAD Zuwendungen fliessen, deren Zweckbestimmung vom Schenkenden vorgeschlagen wird.
+
+[^14-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 15
 
 **Zuständigkeit**
 
-<sup>1</sup> Die EKSD entscheidet über die Verwendung des Fonds. Übersteigt der Betrag 30'000 Franken, so ist der Staatsrat zuständig.
+<sup>1</sup> Die BKAD entscheidet über die Verwendung des Fonds. Übersteigt der Betrag 30'000 Franken, so ist der Staatsrat zuständig.
 
 #### Art. 16
 
 **Verwaltung**
 
-<sup>1</sup> Der Fonds wird von der Kommission, die in Artikel 18 des Reglements vom 10. Dezember 2007 über die kulturellen Angelegenheiten eingesetzt wird, verwaltet.
+<sup>1</sup> Der Fonds wird von der Kommission, die in Artikel 18 des Reglements vom 10. Dezember 2007 über die kulturellen Angelegenheiten[^16-1] eingesetzt wird, verwaltet.
+
+[^16-1]: SGF [480.11](https://bdlf.fr.ch/data/480.11/de)
 
 ## 6 Schlussbestimmungen
 
