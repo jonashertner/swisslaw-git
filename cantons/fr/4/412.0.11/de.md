@@ -4,13 +4,13 @@ number: "412.0.11"
 title: Reglement über den Mittelschulunterricht
 short: MSR
 language: de
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2022-01-31
+version: 2022-02-01
+valid_until: 2022-07-31
+version_adopted: 2022-03-04
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7113/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7289/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Mittelschulunterricht – R
 
 (MSR)
 
-vom 26.05.2021 (Fassung in Kraft getreten am 01.01.2022)
+vom 26.05.2021 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -110,7 +110,7 @@ beschliesst:
 
 <sup>3</sup> Der erfolgreiche Abschluss einer zweisprachigen Ausbildung ermöglicht den Erwerb eines zweisprachigen Ausweises.
 
-<sup>4</sup> Die Zulassungsbedingungen und die Organisation dieser Klassen werden von der Direktion für Erziehung, Kultur und Sport (EKSD) näher ausgeführt.
+<sup>4</sup> Die Zulassungsbedingungen und die Organisation dieser Klassen werden von der Direktion für Bildung und kulturelle Angelegenheiten (BKAD) näher ausgeführt.
 
 #### Art. 8
 
@@ -118,7 +118,7 @@ beschliesst:
 
 <sup>1</sup> Erfolgt der Sprach- und Kulturaustausch in Form eines Aufenthalts inner- oder ausserhalb der Schweiz, darf die Aufenthaltsdauer nicht länger als zwei Semester betragen. Die damit verbundenen Kosten, insbesondere die Unterkunfts-, die Verpflegungs- und die Transportkosten, tragen die Eltern.
 
-<sup>2</sup> Die Schuldirektorin oder der Schuldirektor genehmigt den Aufenthalt, entsprechend den von der EKSD erlassenen Bestimmungen.
+<sup>2</sup> Die Schuldirektorin oder der Schuldirektor genehmigt den Aufenthalt, entsprechend den von der BKAD erlassenen Bestimmungen.
 
 ## 3 Allgemeiner Schulbetrieb
 
@@ -130,15 +130,15 @@ beschliesst:
 
 <sup>1</sup> Im Schulkalender werden der Anfang und das Ende des Schuljahres, die Schulferien und allfällige besondere Veranstaltungen festgelegt.
 
-<sup>2</sup> Die EKSD sorgt gemäss den diesbezüglichen gesetzlichen und reglementarischen Bestimmungen für die Koordination des Schulkalenders der Mittelschulen mit denjenigen der anderen Bildungsstufen.
+<sup>2</sup> Die BKAD sorgt gemäss den diesbezüglichen gesetzlichen und reglementarischen Bestimmungen für die Koordination des Schulkalenders der Mittelschulen mit denjenigen der anderen Bildungsstufen.
 
 #### Art. 10
 
 **Zahl und Dauer der Lektionen**
 
-<sup>1</sup> Die EKSD legt die Anzahl der wöchentlichen Lektionen für jeden Bildungsgang nach Massgabe seines Lehrplans fest.
+<sup>1</sup> Die BKAD legt die Anzahl der wöchentlichen Lektionen für jeden Bildungsgang nach Massgabe seines Lehrplans fest.
 
-<sup>2</sup> Eine Lektion dauert 50 Minuten einschliesslich Klassenzimmerwechsel. Die EKSD kann Ausnahmen bewilligen.
+<sup>2</sup> Eine Lektion dauert 50 Minuten einschliesslich Klassenzimmerwechsel. Die BKAD kann Ausnahmen bewilligen.
 
 #### Art. 11
 
@@ -160,9 +160,9 @@ beschliesst:
 
 <sup>1</sup> Die Schuldirektorin oder der Schuldirektor kann einer Klasse einen Urlaub von bis zu einem Tag pro Jahr gewähren, wenn ausserordentliche und unvorhergesehene Umstände dies rechtfertigen.
 
-<sup>2</sup> Die Gewährung eines Klassenurlaubs für jeden anderen Grund oder für mehr als einen Tag und die Urlaubsgewährung für eine ganze Schule oder mehrere Schulen liegen in der Kompetenz der EKSD. Diese entscheidet auf Antrag der Schuldirektorin oder des Schuldirektors.
+<sup>2</sup> Die Gewährung eines Klassenurlaubs für jeden anderen Grund oder für mehr als einen Tag und die Urlaubsgewährung für eine ganze Schule oder mehrere Schulen liegen in der Kompetenz der BKAD. Diese entscheidet auf Antrag der Schuldirektorin oder des Schuldirektors.
 
-<sup>3</sup> Die Schuldirektorin oder der Schuldirektor kann während der Schulzeit für sämtliche Lehrpersonen einen pädagogischen Weiterbildungstag oder zwei Halbtage pro Schuljahr organisieren. Die Schülerinnen und Schüler haben in dieser Zeit schulfrei. Die Schuldirektorin oder der Schuldirektor legt der EKSD die Daten und den Inhalt der Weiterbildung zur Genehmigung vor. Zusätzliche Weiterbildungstage finden ausserhalb der Schulzeit statt.
+<sup>3</sup> Die Schuldirektorin oder der Schuldirektor kann während der Schulzeit für sämtliche Lehrpersonen einen pädagogischen Weiterbildungstag oder zwei Halbtage pro Schuljahr organisieren. Die Schülerinnen und Schüler haben in dieser Zeit schulfrei. Die Schuldirektorin oder der Schuldirektor legt der BKAD die Daten und den Inhalt der Weiterbildung zur Genehmigung vor. Zusätzliche Weiterbildungstage finden ausserhalb der Schulzeit statt.
 
 #### Art. 13
 
@@ -236,7 +236,7 @@ beschliesst:
 
 **Inhalt**
 
-<sup>1</sup> Für jeden Bildungsgang erlässt die EKSD, auf Empfehlung der Schuldirektorenkonferenz und der Fachschaften, einen kantonalen Lehrplan. Dieser legt insbesondere Folgendes fest:
+<sup>1</sup> Für jeden Bildungsgang erlässt die BKAD, auf Empfehlung der Schuldirektorenkonferenz und der Fachschaften, einen kantonalen Lehrplan. Dieser legt insbesondere Folgendes fest:
 
 - a) die zu erreichenden Ziele und Kompetenzen sowie die zu behandelnden Inhalte,
 - b) die allfälligen offiziellen Lehrmittel,
@@ -273,7 +273,7 @@ beschliesst:
 
 <sup>4</sup> Die Schuldirektorenkonferenz sorgt für die Qualität der Ausbildung, indem sie den regelmässigen Austausch in und zwischen den Mittelschulen, den Hochschulen und der obligatorischen Schule fördert und in verschiedenen nationalen Arbeitsgruppen mitwirkt.
 
-<sup>5</sup> Die EKSD erarbeitet ein Konzept zur Qualitätssicherung und ‑entwicklung und sorgt für ein Monitoring mit quantitativen und qualitativen Indikatoren, mit denen die Ausbildung beobachtet, analysiert und gesteuert werden kann.
+<sup>5</sup> Die BKAD erarbeitet ein Konzept zur Qualitätssicherung und ‑entwicklung und sorgt für ein Monitoring mit quantitativen und qualitativen Indikatoren, mit denen die Ausbildung beobachtet, analysiert und gesteuert werden kann.
 
 #### Art. 23
 
@@ -320,7 +320,7 @@ beschliesst:
 
 <sup>2</sup> Der Schülerbestand für die Schwerpunkt- und Ergänzungsfächer muss mindestens 12 Schülerinnen und Schüler betragen. Insgesamt müssen alle diese Fächer an den Gymnasien im Durchschnitt von 17 Schülerinnen und Schülern besucht werden.
 
-<sup>3</sup> Die Fächer müssen entsprechend den Zielsetzungen der EKSD rationell organisiert werden. Sie sind wenn immer möglich innerhalb einer Schule oder zwischen Schulen zusammenzulegen.
+<sup>3</sup> Die Fächer müssen entsprechend den Zielsetzungen der BKAD rationell organisiert werden. Sie sind wenn immer möglich innerhalb einer Schule oder zwischen Schulen zusammenzulegen.
 
 <sup>4</sup> Der Mindestbestand für diese Fächer kann jedoch herabgesetzt werden, wenn der Bildungsgang dies erfordert, insbesondere bei obligatorischen Fächern, die im übergeordneten Recht über die Ausweise vorgesehen sind. In diesem Fall muss die Zahl der in der Stundentafel vorgesehenen wöchentlichen Lektionen entsprechend herabgesetzt werden.
 
@@ -330,11 +330,11 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die ESKD entscheidet auf Stellungnahme der Schuldirektorin oder des Schuldirektors jeweils Ende Mai für das folgende Schuljahr über die Schaffung, die Aufhebung oder die Beibehaltung von Klassen. Die Schuldirektorin oder der Schuldirektor muss ihre oder seine Stellungnahme bis zum 15. Mai an die EKSD richten. Fristverlängerungen aufgrund besonderer Umstände bleiben vorbehalten.
+<sup>1</sup> Die BKAD entscheidet auf Stellungnahme der Schuldirektorin oder des Schuldirektors jeweils Ende Mai für das folgende Schuljahr über die Schaffung, die Aufhebung oder die Beibehaltung von Klassen. Die Schuldirektorin oder der Schuldirektor muss ihre oder seine Stellungnahme bis zum 15. Mai an die BKAD richten. Fristverlängerungen aufgrund besonderer Umstände bleiben vorbehalten.
 
 <sup>2</sup> Bei grösseren Veränderungen kann die Zusammensetzung und die Zahl der Klassen vor Schulbeginn und gegebenenfalls im Laufe des Schuljahres geändert werden.
 
-<sup>3</sup> Die Schuldirektorin oder der Schuldirektor entscheidet über die Durchführung der Wahl- und der Freifachkurse; Abweichungen vom Mindestbestand müssen allerdings zuvor der EKSD zur Bewilligung vorgelegt werden.
+<sup>3</sup> Die Schuldirektorin oder der Schuldirektor entscheidet über die Durchführung der Wahl- und der Freifachkurse; Abweichungen vom Mindestbestand müssen allerdings zuvor der BKAD zur Bewilligung vorgelegt werden.
 
 ### 3.7 Allgemeine Schulbetriebsregeln
 
@@ -370,7 +370,7 @@ beschliesst:
 
 <sup>1</sup> Besondere Aktivitäten oder Projekte können von Dritten unter der Bedingung unterstützt werden, dass diese Unterstützung dem Ansehen der Schule sowie ihren Aufgaben und Zielen nicht schadet.
 
-<sup>2</sup> Die EKSD erlässt Bestimmungen für die Mittelbeschaffung, das Sponsoring und andere Formen der Zusammenarbeit mit dem privaten Sektor.
+<sup>2</sup> Die BKAD erlässt Bestimmungen für die Mittelbeschaffung, das Sponsoring und andere Formen der Zusammenarbeit mit dem privaten Sektor.
 
 #### Art. 31
 
@@ -396,7 +396,7 @@ beschliesst:
 
 <sup>1</sup> Auf schriftliches Gesuch hin erteilt die Schuldirektorin oder der Schuldirektor die Bewilligung, wenn die verfolgten Ziele dem Schulzweck nicht zuwiderlaufen und die Verantwortlichkeiten der Drittnutzerinnen und Drittnutzer klar definiert sind.
 
-<sup>2</sup> Insbesondere können, wenn die Räumlichkeiten regelmässig von Dritten genutzt werden, zwischen der Schuldirektorin oder dem Schuldirektor und Dritten besondere Vereinbarungen getroffen werden. Diese unterliegen der Genehmigung durch die EKSD.
+<sup>2</sup> Insbesondere können, wenn die Räumlichkeiten regelmässig von Dritten genutzt werden, zwischen der Schuldirektorin oder dem Schuldirektor und Dritten besondere Vereinbarungen getroffen werden. Diese unterliegen der Genehmigung durch die BKAD.
 
 #### Art. 34
 
@@ -408,7 +408,7 @@ beschliesst:
 
 **Tarife und Weisungen**
 
-<sup>1</sup> Die EKSD legt in Abstimmung mit dem Hochbauamt die Gebührentarife und Weisungen für die Nutzung der Schulräumlichkeiten durch Dritte fest.
+<sup>1</sup> Die BKAD legt in Abstimmung mit dem Hochbauamt die Gebührentarife und Weisungen für die Nutzung der Schulräumlichkeiten durch Dritte fest.
 
 ## 4 Eltern (Art. 28–30 MSG)
 
@@ -471,7 +471,7 @@ beschliesst:
 
 **Bedingungen und Modalitäten für die Aufnahme und den Übertritt**
 
-<sup>1</sup> Die EKSD erlässt Bestimmungen über die Bedingungen und die Einzelheiten für die Aufnahme in die verschiedenen Bildungsgänge und für den Übertritt zwischen diesen.
+<sup>1</sup> Die BKAD erlässt Bestimmungen über die Bedingungen und die Einzelheiten für die Aufnahme in die verschiedenen Bildungsgänge und für den Übertritt zwischen diesen.
 
 <sup>2</sup> Schülerinnen und Schüler aus öffentlichen Schulen anderer Kantone können aufgenommen werden, wenn sie die Übertrittsbedingungen für die entsprechenden Klassen ihres Kantons erfüllen; allfällige Rückstände müssen aufgeholt werden.
 
@@ -509,7 +509,7 @@ beschliesst:
 - b) Die Schülerinnen und Schüler aus dem Einzugsgebiet des interkantonalen Gymnasiums der Broye, das in der interkantonalen Vereinbarung festgelegt wird, besuchen dieses Kollegium.
 - c) Die übrigen Schülerinnen und Schüler werden auf die Kollegien Sankt Michael, Heilig Kreuz und Gambach respektive auf die Fachmittelschule Freiburg verteilt.
 
-<sup>2</sup> Die gesamthafte Verteilung der Schülerinnen und Schüler auf die kantonalen Mittelschulen wird jedes Jahr von der Schuldirektorenkonferenz beschlossen. Sie wird der EKSD zur Genehmigung vorgelegt.
+<sup>2</sup> Die gesamthafte Verteilung der Schülerinnen und Schüler auf die kantonalen Mittelschulen wird jedes Jahr von der Schuldirektorenkonferenz beschlossen. Sie wird der BKAD zur Genehmigung vorgelegt.
 
 <sup>3</sup> Bei der Verteilung der Schülerinnen und Schüler auf die Mittelschulen der Stadt Freiburg wird nicht nur der Wunsch der Schülerin oder des Schülers berücksichtigt, sondern namentlich auch:
 
@@ -523,7 +523,7 @@ beschliesst:
 
 **Ausserkantonaler Schulbesuch (Art. 69 MSG)**
 
-<sup>1</sup> In Übereinstimmung mit den interkantonalen Vereinbarungen kann die EKSD, wenn stichhaltige Gründe vorliegen, den Besuch einer ausserkantonalen Schule bewilligen und eine Kostengutsprache für die verlangten Schulgeldbeiträge leisten.
+<sup>1</sup> In Übereinstimmung mit den interkantonalen Vereinbarungen kann die BKAD, wenn stichhaltige Gründe vorliegen, den Besuch einer ausserkantonalen Schule bewilligen und eine Kostengutsprache für die verlangten Schulgeldbeiträge leisten.
 
 ### 5.3 Rechte und Pflichten der Schülerinnen und Schüler (Art. 36 und 37 MSG)
 
@@ -581,11 +581,11 @@ beschliesst:
 
 <sup>1</sup> Die Fördermassnahmen richten sich an Schülerinnen und Schüler mit ausserordentlichen Fähigkeiten oder mit Schulresultaten, die weit über dem Durchschnitt der Schülerinnen und Schüler ihres Jahrganges liegen, und an Schülerinnen und Schüler, die gemäss Sportgesetzgebung in das SKA-Förderprogramm aufgenommen sind.
 
-<sup>2</sup> Die Unterstützungsmassnahmen richten sich an Schülerinnen und Schüler mit einer Behinderung oder einer von der EKSD anerkannten Fachperson diagnostizierten Funktionsstörung und an neu zugezogene fremdsprachige Schülerinnen und Schüler.
+<sup>2</sup> Die Unterstützungsmassnahmen richten sich an Schülerinnen und Schüler mit einer Behinderung oder einer von einer Fachperson, die von der BKAD anerkannt ist, diagnostizierten Funktionsstörung und an neu zugezogene fremdsprachige Schülerinnen und Schüler.
 
 <sup>3</sup> Die Schuldirektorin oder der Schuldirektor entscheidet, auf Antrag der Eltern oder der volljährigen Schülerin oder des volljährigen Schülers, über Förder- und Unterstützungsmassnahmen und setzt diese um.
 
-<sup>4</sup> Die EKSD erlässt entsprechende Bestimmungen.
+<sup>4</sup> Die BKAD erlässt entsprechende Bestimmungen.
 
 #### Art. 53
 
@@ -596,7 +596,7 @@ beschliesst:
 - a) die Differenzierung des Unterrichts innerhalb der Klasse,
 - b) ein Zusatzangebot von Fächern, Arbeiten oder Projekten innerhalb der Schule oder in einer anderen Schule des Kantons,
 - c) die Beschleunigung der Ausbildung,
-- d) die Bewilligung, an höchstens zwei Halbtagen pro Woche an einem von der EKSD anerkanntem, externen Unterrichtsprogramm teilzunehmen.
+- d) die Bewilligung, an höchstens zwei Halbtagen pro Woche an einem von der BKAD anerkanntem, externen Unterrichtsprogramm teilzunehmen.
 
 <sup>2</sup> Diese Massnahmen dürfen die schulische Ausbildung der Schülerin oder des Schülers nicht gefährden und den Schulbetrieb nicht beeinträchtigen.
 
@@ -622,11 +622,11 @@ beschliesst:
 
 **Nachteilsausgleichsmassnahmen**
 
-<sup>1</sup> Einer Schülerin oder einem Schüler mit einer Behinderung oder einer von einer Fachperson, die von der EKSD anerkannt ist, diagnostizierten Funktionsstörung können Massnahmen zum Nachteilsausgleich gewährt werden. Es können besondere Anpassungen im Unterricht und/oder besondere Prüfungsmodalitäten vorgesehen werden, sofern die Schülerin oder der Schüler in der Lage ist, die Lernziele des Lehrplans zu erfüllen.
+<sup>1</sup> Einer Schülerin oder einem Schüler mit einer Behinderung oder einer von einer Fachperson, die von der BKAD anerkannt ist, diagnostizierten Funktionsstörung können Massnahmen zum Nachteilsausgleich gewährt werden. Es können besondere Anpassungen im Unterricht und/oder besondere Prüfungsmodalitäten vorgesehen werden, sofern die Schülerin oder der Schüler in der Lage ist, die Lernziele des Lehrplans zu erfüllen.
 
 <sup>2</sup> Die Massnahmen zum Nachteilsausgleich müssen dem Grundsatz der Verhältnismässigkeit entsprechen und dem Ausbildungsziel angepasst sein.
 
-<sup>3</sup> Die EKSD bestimmt die Bedingungen und Modalitäten zur Gewährung.
+<sup>3</sup> Die BKAD bestimmt die Bedingungen und Modalitäten zur Gewährung.
 
 #### Art. 56
 
@@ -695,7 +695,7 @@ beschliesst:
 
 <sup>1</sup> Das gemeinsame Prüfen soll den pädagogischen Austausch sowie die Vergleichbarkeit der Prüfungsanforderungen fördern.
 
-<sup>2</sup> Die EKSD fördert das gemeinsame Prüfen auf Grundlage eines in Zusammenarbeit mit der Schuldirektorenkonferenz erarbeiteten Konzeptes.
+<sup>2</sup> Die BKAD fördert das gemeinsame Prüfen auf Grundlage eines in Zusammenarbeit mit der Schuldirektorenkonferenz erarbeiteten Konzeptes.
 
 <sup>3</sup> Die Schulen setzen das Konzept gemeinsam mit den Fachschaften selbstständig um.
 
@@ -705,7 +705,7 @@ beschliesst:
 
 <sup>1</sup> Das Schulzeugnis ist die offizielle Mitteilungsform der Schulergebnisse der Schülerin oder des Schülers.
 
-<sup>2</sup> Die EKSD bestimmt Inhalt und Form des Schulzeugnisses.
+<sup>2</sup> Die BKAD bestimmt Inhalt und Form des Schulzeugnisses.
 
 <sup>3</sup> Das Schulzeugnis wird der Schülerin oder dem Schüler zweimal im Jahr zugestellt, jeweils am Ende eines Semesters. Die Eltern Minderjähriger bezeugen mit ihrer Unterschrift, dass sie die darin eingetragenen Noten zur Kenntnis genommen haben.
 
@@ -774,7 +774,7 @@ beschliesst:
 - m) der besondere Bildungsbedarf der Schülerin oder des Schülers, namentlich die Förder- und Unterstützungsmassnahmen,
 - n) die Informationen zur pädagogischen Begleitung der Schülerin oder des Schülers.
 
-<sup>2</sup> Weitere personenbezogene Schülerdaten dürfen, mit Zustimmung der EKSD, für statistische Zwecke und wissenschaftliche Studien bearbeitet werden. Diese Daten werden anonymisiert.
+<sup>2</sup> Weitere personenbezogene Schülerdaten dürfen, mit Zustimmung der BKAD, für statistische Zwecke und wissenschaftliche Studien bearbeitet werden. Diese Daten werden anonymisiert.
 
 <sup>3</sup> Der Datenkatalog wird der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation zur Genehmigung vorgelegt.
 
@@ -792,7 +792,7 @@ beschliesst:
 
 <sup>1</sup> Der Zugriff auf die Datenbanken ist strikte auf das Lehr- und Verwaltungspersonal im Sinne von Artikel 69 Abs. 2, in den Schranken ihrer jeweiligen gesetzlichen Aufgaben und Zuständigkeiten, beschränkt.
 
-<sup>2</sup> Die EKSD legt die Zugriffsrechte und -modalitäten fest.
+<sup>2</sup> Die BKAD legt die Zugriffsrechte und -modalitäten fest.
 
 #### Art. 71
 
@@ -837,7 +837,7 @@ beschliesst:
 
 <sup>3</sup> Nicht archivierungswürdige Daten werden so vernichtet, dass ihre Wiederherstellung nicht mehr möglich ist.
 
-<sup>4</sup> Bei Bedarf kann die EKSD Richtlinien für die Archivierung erlassen.
+<sup>4</sup> Bei Bedarf kann die BKAD Richtlinien für die Archivierung erlassen.
 
 #### Art. 74
 
@@ -851,7 +851,7 @@ beschliesst:
 
 <sup>4</sup> Im Widerhandlungsfall bleiben disziplinarische und/oder strafrechtliche Sanktionen vorbehalten.
 
-<sup>5</sup> Die EKSD kann Bestimmungen, namentlich zum obligatorischen Inhalt des Internetauftritts und zur Publikation von Personendaten, erlassen.
+<sup>5</sup> Die BKAD kann Bestimmungen, namentlich zum obligatorischen Inhalt des Internetauftritts und zur Publikation von Personendaten, erlassen.
 
 ### 5.9 Erzieherische und disziplinarische Massnahmen (Art. 44 MSG)
 
@@ -948,9 +948,9 @@ beschliesst:
 
 **Ernennung und Absetzung der Mitglieder**
 
-<sup>1</sup> Die Mitglieder und die Präsidentin oder der Präsident werden von der EKSD für eine Dauer von fünf Jahren bestimmt.
+<sup>1</sup> Die Mitglieder und die Präsidentin oder der Präsident werden von der BKAD für eine Dauer von fünf Jahren bestimmt.
 
-<sup>2</sup> Die EKSD kann eine Person, die der Arbeitsweise oder dem Ansehen der Schulkommission oder der Schule schadet, ihres Amtes entheben. Dieser Verfügung muss eine Verwarnung vorausgehen, ausser in schweren Fällen.
+<sup>2</sup> Die BKAD kann eine Person, die der Arbeitsweise oder dem Ansehen der Schulkommission oder der Schule schadet, ihres Amtes entheben. Dieser Verfügung muss eine Verwarnung vorausgehen, ausser in schweren Fällen.
 
 #### Art. 83
 
@@ -958,7 +958,7 @@ beschliesst:
 
 <sup>1</sup> Die Präsidentin oder der Präsident versammelt die Schulkommission in der Regel mindestens zweimal im Jahr.
 
-<sup>2</sup> Die Schulkommission kann zudem auf Verlangen der EKSD, der Schuldirektorin oder des Schuldirektors oder von einem Drittel der Mitglieder einberufen werden.
+<sup>2</sup> Die Schulkommission kann zudem auf Verlangen der BKAD, der Schuldirektorin oder des Schuldirektors oder von einem Drittel der Mitglieder einberufen werden.
 
 #### Art. 84
 
@@ -1054,7 +1054,7 @@ beschliesst:
 - j) die Ausschlussandrohung,
 - k) die Behandlung einer Aufsichtsbeschwerde im Sinne von Artikel 81 MSG gegen Handlungen oder Unterlassungen einer Lehrperson.
 
-<sup>3</sup> Die EKSD erstellt für die Schuldirektorin oder den Schuldirektor ein Pflichtenheft, das den Besonderheiten der einzelnen Schule angepasst ist. Sie berücksichtigt dabei die allgemeinen Befugnisse nach Artikel 58 MSG.
+<sup>3</sup> Die BKAD erstellt für die Schuldirektorin oder den Schuldirektor ein Pflichtenheft, das den Besonderheiten der einzelnen Schule angepasst ist. Sie berücksichtigt dabei die allgemeinen Befugnisse nach Artikel 58 MSG.
 
 #### Art. 89
 
@@ -1142,7 +1142,7 @@ beschliesst:
 - a) die Schuldirektorinnen und Schuldirektoren aller Mittelschulen,
 - b) die Präsidentinnen und Präsidenten und die Sekretärinnen und Sekretäre der Prüfungskommissionen der einzelnen Schulen, deren Zusammensetzung und Funktionsweise in den Studienreglementen der einzelnen Bildungsgänge geregelt sind,
 - c) die Person, die den Kanton Freiburg in der Schweizerischen Maturitätskommission vertritt,
-- d) eine Person als Vertretung der EKSD, welche die kantonale Kommission präsidiert.
+- d) eine Person als Vertretung der BKAD, welche die kantonale Kommission präsidiert.
 
 #### Art. 95
 
@@ -1155,7 +1155,7 @@ beschliesst:
 - c) genehmigt die Prüfungsaufgaben, wobei sie deren Übereinstimmung mit den kantonalen Lehrplänen sowie die Gleichwertigkeit der Prüfungsanforderungen in den Schulen sicherstellt,
 - d) legt die Daten der ordentlichen Prüfungssession sowie die Dauer der den Kandidatinnen und Kandidaten gewährten unterrichtsfreien Vorbereitungszeit fest,
 - e) unterhält die nötigen Kontakte mit der Schweizerischen Maturitätskommission,
-- f) schlägt der EKSD allfällige Reglementsänderungen vor,
+- f) schlägt der BKAD allfällige Reglementsänderungen vor,
 - g) entscheidet über Ausnahmebewilligungen und bewilligt besondere Massnahmen,
 - h) kann Expertinnen und Experten beiziehen.
 
@@ -1169,7 +1169,7 @@ beschliesst:
 
 <sup>2</sup> Eine Sitzung der Lehrpersonenkonferenz kann auf Verlangen von einem Viertel aller Lehrpersonen der Schule einberufen werden.
 
-<sup>3</sup> Die Sitzungen der Lehrpersonenkonferenz finden grundsätzlich ausserhalb der Unterrichtszeit statt. Die EKSD kann Ausnahmen zulassen.
+<sup>3</sup> Die Sitzungen der Lehrpersonenkonferenz finden grundsätzlich ausserhalb der Unterrichtszeit statt. Die BKAD kann Ausnahmen zulassen.
 
 #### Art. 97
 
@@ -1241,7 +1241,7 @@ beschliesst:
 
 - a) die Erarbeitung von kantonalen Lehrplänen,
 - b) die Ausbildung von Praktikantinnen und Praktikanten,
-- c) die Mitarbeit an Prüfungen, die von der Schule oder von der EKSD organisiert werden,
+- c) die Mitarbeit an Prüfungen, die von der Schule oder von der BKAD organisiert werden,
 - d) die Koordination von Schüleraustauschen.
 
 ## 7 Finanzierung der Schulen (Art. 66–69 MSG)
@@ -1292,7 +1292,7 @@ beschliesst:
 
 **Eröffnung einer Schule (Art. 70 MSG)**
 
-<sup>1</sup> Wird die Eröffnung einer Privatschule gemeldet, so vergewissert sich die EKSD, dass die angebotenen Bildungsgänge klar definiert sind, die ausgestellten Studienausweise der betreffenden Ausbildung entsprechen und es keinen Anlass zu Verwechslungen mit anderen Ausweisen gibt.
+<sup>1</sup> Wird die Eröffnung einer Privatschule gemeldet, so vergewissert sich die BKAD, dass die angebotenen Bildungsgänge klar definiert sind, die ausgestellten Studienausweise der betreffenden Ausbildung entsprechen und es keinen Anlass zu Verwechslungen mit anderen Ausweisen gibt.
 
 #### Art. 109
 
@@ -1304,13 +1304,13 @@ beschliesst:
 
 **Anerkennung eines Bildungsganges**
 
-<sup>1</sup> Ein von einer Privatschule angebotener Bildungsgang kann mit einer vom Staatsrat genehmigten Vereinbarung mit der EKSD anerkannt werden. Diese Anerkennung kann unabhängig von der Gewährung von Subventionen erfolgen.
+<sup>1</sup> Ein von einer Privatschule angebotener Bildungsgang kann mit einer vom Staatsrat genehmigten Vereinbarung mit der BKAD anerkannt werden. Diese Anerkennung kann unabhängig von der Gewährung von Subventionen erfolgen.
 
 #### Art. 111
 
 **Bedingungen und Auflagen für Subventionen (Art. 72 MSG)**
 
-<sup>1</sup> Wird einer Privatschule eine Subvention nach Artikel 72 MSG gewährt, so muss eine vom Staatsrat genehmigte Vereinbarung mit der EKSD abgeschlossen werden. Darin werden namentlich folgende Aspekte geregelt:
+<sup>1</sup> Wird einer Privatschule eine Subvention nach Artikel 72 MSG gewährt, so muss eine vom Staatsrat genehmigte Vereinbarung mit der BKAD abgeschlossen werden. Darin werden namentlich folgende Aspekte geregelt:
 
 - a) das Bildungsangebot,
 - b) die Qualitätssicherung und -entwicklung,
@@ -1326,7 +1326,7 @@ beschliesst:
 
 **Psychologischer Beratungsdienst**
 
-<sup>1</sup> Der psychologische Beratungsdienst ist administrativ dem Amt zugeordnet; sein interner Betrieb wird in besonderen Bestimmungen der EKSD geregelt.
+<sup>1</sup> Der psychologische Beratungsdienst ist administrativ dem Amt zugeordnet; sein interner Betrieb wird in besonderen Bestimmungen der BKAD geregelt.
 
 #### Art. 113
 
@@ -1336,9 +1336,9 @@ beschliesst:
 
 <sup>2</sup> Die Fachpersonen der Schulmediation fördern eine gute Kommunikationskultur, beraten und begleiten die Schülerin oder den Schüler und/oder die Erwachsenen in Konfliktsituationen. Die Fachpersonen der Schulsozialarbeit fördern die schulische Integration der Schülerinnen und Schüler und unterstützen dadurch den Bildungs- und Erziehungsauftrag der Schule.
 
-<sup>3</sup> Sie werden von der EKSD auf Antrag der Schuldirektorin oder des Schuldirektors angestellt, der oder dem sie unterstellt sind.
+<sup>3</sup> Sie werden von der BKAD auf Antrag der Schuldirektorin oder des Schuldirektors angestellt, der oder dem sie unterstellt sind.
 
-<sup>4</sup> Ihre Zuständigkeiten werden in einem von der EKSD genehmigten Pflichtenheft festgelegt.
+<sup>4</sup> Ihre Zuständigkeiten werden in einem von der BKAD genehmigten Pflichtenheft festgelegt.
 
 <sup>5</sup> Sie können an einer oder mehreren Schulen tätig sein.
 
@@ -1373,9 +1373,9 @@ beschliesst:
 
 <sup>1</sup> Gegen die Nichtgewährung einer Bewilligung und die Rechnungsstellung von Nutzungsgebühren kann die Gesuchstellerin oder der Gesuchsteller innert dreissig Tagen Einsprache erheben.
 
-<sup>2</sup> Die Einsprache ist an die EKSD zu richten.
+<sup>2</sup> Die Einsprache ist an die BKAD zu richten.
 
-<sup>3</sup> Gegen den Entscheid der EKSD kann gemäss dem Verfahren, das im Gesetz über die Verwaltungsrechtspflege vorgesehen ist, beim Kantonsgericht Beschwerde geführt werden.
+<sup>3</sup> Gegen den Entscheid der BKAD kann gemäss dem Verfahren, das im Gesetz über die Verwaltungsrechtspflege vorgesehen ist, beim Kantonsgericht Beschwerde geführt werden.
 
 #### Art. 117
 
@@ -1384,9 +1384,9 @@ beschliesst:
 <sup>1</sup> Aufsichtsbeschwerdebehörden sind:
 
 - a) die Schuldirektorin oder der Schuldirektor, wenn sich die Beschwerde gegen Handlungen oder Unterlassungen einer Lehrperson oder einer Vorsteherin oder eines Vorstehers richtet,
-- b) die EKSD, wenn sich die Beschwerde gegen die Handlungen oder Unterlassungen einer Schuldirektorin oder eines Schuldirektors richtet.
+- b) die BKAD, wenn sich die Beschwerde gegen die Handlungen oder Unterlassungen einer Schuldirektorin oder eines Schuldirektors richtet.
 
-<sup>2</sup> Die EKSD ist zuständig für die Beurteilung einer Beschwerde gegen den Entscheid der Schuldirektorin oder des Schuldirektors, mit dem die Aufsichtsbeschwerde für unzulässig oder unbegründet erklärt wird oder der Beschwerdeführerin oder dem Beschwerdeführer Verfahrenskosten auferlegt werden.
+<sup>2</sup> Die BKAD ist zuständig für die Beurteilung einer Beschwerde gegen den Entscheid der Schuldirektorin oder des Schuldirektors, mit dem die Aufsichtsbeschwerde für unzulässig oder unbegründet erklärt wird oder der Beschwerdeführerin oder dem Beschwerdeführer Verfahrenskosten auferlegt werden.
 
 #### Art. 118
 

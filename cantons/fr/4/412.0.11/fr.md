@@ -4,13 +4,13 @@ number: "412.0.11"
 title: "Règlement sur l'enseignement secondaire supérieur"
 short: RESS
 language: fr
-version: 2022-01-01
-valid_until: 2022-01-31
-version_adopted: 2022-01-31
+version: 2022-02-01
+valid_until: 2022-07-31
+version_adopted: 2022-03-04
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7113/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7289/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Enseignement secondaire supérieur – R
 
 (RESS)
 
-du 26.05.2021 (version entrée en vigueur le 01.01.2022)
+du 26.05.2021 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -110,7 +110,7 @@ Arrête:
 
 <sup>3</sup> L'accomplissement avec succès d'une formation bilingue permet l'obtention d'un certificat bilingue.
 
-<sup>4</sup> Les conditions d'admission et l'organisation de ces classes sont précisées par la Direction de l'instruction publique, de la culture et du sport (ci-après: la DICS).
+<sup>4</sup> Les conditions d'admission et l'organisation de ces classes sont précisées par la Direction de la formation et des affaires culturelles (ci-après: la DFAC).
 
 #### Art. 8
 
@@ -118,7 +118,7 @@ Arrête:
 
 <sup>1</sup> Lorsque les échanges linguistiques et culturels prennent la forme d'un séjour, en Suisse ou à l'étranger, la durée de celui-ci ne peut pas dépasser deux semestres. Les frais y relatifs, en particulier les frais de logement, de repas et de transport, sont à la charge des élèves.
 
-<sup>2</sup> Le directeur ou la directrice autorise le séjour, conformément aux dispositions fixées par la DICS.
+<sup>2</sup> Le directeur ou la directrice autorise le séjour, conformément aux dispositions fixées par la DFAC.
 
 ## 3 Fonctionnement général de l'école
 
@@ -130,15 +130,15 @@ Arrête:
 
 <sup>1</sup> Le calendrier scolaire fixe les dates du début et de la fin de l'année scolaire, les périodes de vacances scolaires et éventuellement certaines manifestations particulières.
 
-<sup>2</sup> La DICS veille à coordonner le calendrier scolaire du degré secondaire supérieur avec ceux des autres degrés de formation, compte tenu des dispositions légales ou réglementaires spécifiques.
+<sup>2</sup> La DFAC veille à coordonner le calendrier scolaire du degré secondaire supérieur avec ceux des autres degrés de formation, compte tenu des dispositions légales ou réglementaires spécifiques.
 
 #### Art. 10
 
 **Nombre et durée des cours**
 
-<sup>1</sup> La DICS fixe le nombre de cours hebdomadaires de chaque voie de formation en fonction de son plan d'études.
+<sup>1</sup> La DFAC fixe le nombre de cours hebdomadaires de chaque voie de formation en fonction de son plan d'études.
 
-<sup>2</sup> La durée d'un cours est de cinquante minutes, y compris le temps de déplacement, sous réserve de dérogations autorisées par la DICS.
+<sup>2</sup> La durée d'un cours est de cinquante minutes, y compris le temps de déplacement, sous réserve de dérogations autorisées par la DFAC.
 
 #### Art. 11
 
@@ -160,9 +160,9 @@ Arrête:
 
 <sup>1</sup> Le directeur ou la directrice peut octroyer à une classe un congé de un jour au maximum par année scolaire lorsque des circonstances exceptionnelles et imprévues le justifient.
 
-<sup>2</sup> L'octroi d'un congé à une classe pour toute autre raison ou pour une durée supérieure à un jour, de même que l'octroi d'un congé à toute une école ou à plusieurs écoles, relève de la compétence de la DICS, sur la proposition du directeur ou de la directrice.
+<sup>2</sup> L'octroi d'un congé à une classe pour toute autre raison ou pour une durée supérieure à un jour, de même que l'octroi d'un congé à toute une école ou à plusieurs écoles, relève de la compétence de la DFAC, sur la proposition du directeur ou de la directrice.
 
-<sup>3</sup> Une journée ou deux demi-journées de formation pédagogique par année scolaire réunissant l'ensemble du corps enseignant peuvent être organisées sur le temps scolaire par le directeur ou la directrice. Les élèves sont mis en congé. Le directeur ou la directrice soumet à la DICS, pour approbation, les dates retenues et le contenu de la formation. Les jours de formation supplémentaires organisés par l'école ont lieu hors du temps scolaire.
+<sup>3</sup> Une journée ou deux demi-journées de formation pédagogique par année scolaire réunissant l'ensemble du corps enseignant peuvent être organisées sur le temps scolaire par le directeur ou la directrice. Les élèves sont mis en congé. Le directeur ou la directrice soumet à la DFAC, pour approbation, les dates retenues et le contenu de la formation. Les jours de formation supplémentaires organisés par l'école ont lieu hors du temps scolaire.
 
 #### Art. 13
 
@@ -236,7 +236,7 @@ Arrête:
 
 **Contenu**
 
-<sup>1</sup> Pour chaque voie de formation, la DICS adopte un plan d'études cantonal sur la recommandation de la conférence des directeurs et directrices et sur celles des conférences de branche. Ce plan précise notamment:
+<sup>1</sup> Pour chaque voie de formation, la DFAC adopte un plan d'études cantonal sur la recommandation de la conférence des directeurs et directrices et sur celles des conférences de branche. Ce plan précise notamment:
 
 - a) les objectifs et les compétences visés ainsi que les contenus à traiter,
 - b) les éventuels moyens d'enseignement officiels,
@@ -273,7 +273,7 @@ Arrête:
 
 <sup>4</sup> La conférence des directeurs et directrices garantit la qualité de la formation en favorisant des échanges réguliers à l'intérieur des écoles, entre écoles du degré secondaire supérieur, avec les instituts de formation œuvrant en amont et en aval ainsi que grâce à la participation aux travaux de divers groupes nationaux.
 
-<sup>5</sup> La DICS élabore un concept de maintien et de développement de la qualité et met en place un dispositif d'évaluation à l'aide d'indicateurs quantitatifs et qualitatifs permettant l'observation, l'analyse et le pilotage de la formation.
+<sup>5</sup> La DFAC élabore un concept de maintien et de développement de la qualité et met en place un dispositif d'évaluation à l'aide d'indicateurs quantitatifs et qualitatifs permettant l'observation, l'analyse et le pilotage de la formation.
 
 #### Art. 23
 
@@ -320,7 +320,7 @@ Arrête:
 
 <sup>2</sup> L'effectif des cours à option spécifiques et complémentaires est de 12 élèves par cours au minimum, l'effectif moyen de l'ensemble de ces cours dans les gymnases devant être de 17 élèves.
 
-<sup>3</sup> Les cours doivent être organisés de façon rationnelle, selon les objectifs fixés par la DICS. Chaque fois que cela est possible, ils sont groupés à l'intérieur d'un établissement ou entre établissements.
+<sup>3</sup> Les cours doivent être organisés de façon rationnelle, selon les objectifs fixés par la DFAC. Chaque fois que cela est possible, ils sont groupés à l'intérieur d'un établissement ou entre établissements.
 
 <sup>4</sup> Toutefois, l'effectif minimal de ces cours peut être abaissé lorsque la voie de formation l'impose, notamment lorsqu'il s'agit d'un cours obligatoire prévu par les dispositions du droit supérieur concernant les certificats. Dans ce cas, le nombre de leçons hebdomadaires prévu à la grille horaire doit être réduit en conséquence.
 
@@ -330,11 +330,11 @@ Arrête:
 
 **Compétences**
 
-<sup>1</sup> La DICS décide, à la fin mai pour l'année scolaire suivante, de la création, de la suppression ou du maintien de classes, sur le préavis du directeur ou de la directrice adressé à la DICS jusqu'au 15 mai, sous réserve d'une prolongation de délai liée à des circonstances particulières.
+<sup>1</sup> La DFAC décide, à la fin mai pour l'année scolaire suivante, de la création, de la suppression ou du maintien de classes, sur le préavis du directeur ou de la directrice adressé à la DFAC jusqu'au 15 mai, sous réserve d'une prolongation de délai liée à des circonstances particulières.
 
 <sup>2</sup> En cas de variations importantes, le nombre et la composition des classes peuvent être modifiés avant la rentrée scolaire, le cas échéant en cours d'année scolaire.
 
-<sup>3</sup> Le directeur ou la directrice décide de l'organisation des cours à option et des cours facultatifs, les dérogations à l'effectif minimal étant toutefois soumises à l'accord préalable de la DICS.
+<sup>3</sup> Le directeur ou la directrice décide de l'organisation des cours à option et des cours facultatifs, les dérogations à l'effectif minimal étant toutefois soumises à l'accord préalable de la DFAC.
 
 ### 3.7 Règles de fonctionnement général
 
@@ -370,7 +370,7 @@ Arrête:
 
 <sup>1</sup> Des activités ou des projets particuliers peuvent être soutenus par des tiers, à la condition que ce soutien n'affecte pas l'image de l'école ni ne porte atteinte à ses finalités et ses buts.
 
-<sup>2</sup> La DICS règle la collecte de fonds, le parrainage et d'autres formes de collaboration avec le secteur privé.
+<sup>2</sup> La DFAC règle la collecte de fonds, le parrainage et d'autres formes de collaboration avec le secteur privé.
 
 #### Art. 31
 
@@ -396,7 +396,7 @@ Arrête:
 
 <sup>1</sup> Une autorisation est délivrée par le directeur ou la directrice sur requête écrite si les objectifs poursuivis ne contreviennent pas aux buts de l'école et si les responsabilités des tiers utilisateurs sont clairement définies.
 
-<sup>2</sup> Des conventions particulières, notamment lorsque les locaux sont utilisés régulièrement, peuvent être conclues entre le directeur ou la directrice et des tiers. Elles sont soumises à l'approbation de la DICS.
+<sup>2</sup> Des conventions particulières, notamment lorsque les locaux sont utilisés régulièrement, peuvent être conclues entre le directeur ou la directrice et des tiers. Elles sont soumises à l'approbation de la DFAC.
 
 #### Art. 34
 
@@ -408,7 +408,7 @@ Arrête:
 
 **Barèmes et règles**
 
-<sup>1</sup> La DICS est chargée d'édicter le barème des taxes et les règles d'utilisation des locaux scolaires par des tiers, de concert avec le Service des bâtiments.
+<sup>1</sup> La DFAC est chargée d'édicter le barème des taxes et les règles d'utilisation des locaux scolaires par des tiers, de concert avec le Service des bâtiments.
 
 ## 4 Parents (art. 28 à 30 LESS)
 
@@ -471,7 +471,7 @@ Arrête:
 
 **Conditions et modalités d'admission et de passage**
 
-<sup>1</sup> La DICS édicte des dispositions concernant les conditions et les modalités d'admission dans les différentes filières du degré secondaire supérieur et de passage entre les voies de formation de ces écoles.
+<sup>1</sup> La DFAC édicte des dispositions concernant les conditions et les modalités d'admission dans les différentes filières du degré secondaire supérieur et de passage entre les voies de formation de ces écoles.
 
 <sup>2</sup> Les élèves provenant d'écoles publiques d'autres cantons peuvent être admis s'ils remplissent les conditions de passage dans les classes analogues de leur canton, sous réserve de rattrapages éventuels.
 
@@ -509,7 +509,7 @@ Arrête:
 - b) les élèves de l'aire de recrutement du Gymnase intercantonal de la Broye, définie par la convention intercantonale y relative, fréquentent cet établissement;
 - c) les autres élèves sont répartis entre les Collèges Saint-Michel, Sainte-Croix, de Gambach ou l'Ecole de culture générale de Fribourg.
 
-<sup>2</sup> La répartition globale des élèves entre les écoles est décidée chaque année par la conférence des directeurs et directrices. Elle est soumise à l'approbation de la DICS.
+<sup>2</sup> La répartition globale des élèves entre les écoles est décidée chaque année par la conférence des directeurs et directrices. Elle est soumise à l'approbation de la DFAC.
 
 <sup>3</sup> Lors de la répartition des élèves entre les écoles de la ville de Fribourg, il est tenu compte non seulement du souhait de l'élève mais aussi notamment:
 
@@ -523,7 +523,7 @@ Arrête:
 
 **Fréquentation d'une école hors du canton (art. 69 LESS)**
 
-<sup>1</sup> Conformément aux conventions intercantonales, la DICS peut, pour de justes motifs, autoriser la fréquentation d'une école située dans un autre canton et émettre une garantie de prise en charge pour les contributions aux écolages demandées.
+<sup>1</sup> Conformément aux conventions intercantonales, la DFAC peut, pour de justes motifs, autoriser la fréquentation d'une école située dans un autre canton et émettre une garantie de prise en charge pour les contributions aux écolages demandées.
 
 ### 5.3 Droits et obligations des élèves (art. 36 et 37 LESS)
 
@@ -581,11 +581,11 @@ Arrête:
 
 <sup>1</sup> Les mesures d'encouragement s'adressent à l'élève ayant des aptitudes exceptionnelles ou obtenant des résultats scolaires largement en dessus des moyennes des élèves de sa volée ainsi qu'à l'élève admis‑e au programme «sports-arts-formation» selon la législation sur le sport.
 
-<sup>2</sup> Les mesures de soutien s'adressent à l'élève en situation de handicap ou de trouble fonctionnel attesté par un ou une spécialiste agréé‑e par la DICS ainsi qu'à l'élève primo-arrivant‑e allophone.
+<sup>2</sup> Les mesures de soutien s'adressent à l'élève en situation de handicap ou de trouble fonctionnel attesté par un ou une spécialiste agréé‑e par la DFAC ainsi qu'à l'élève primo-arrivant‑e allophone.
 
 <sup>3</sup> Le directeur ou la directrice décide, à la demande des parents ou de l'élève majeur‑e, des mesures d'encouragement et de soutien et les met en œuvre.
 
-<sup>4</sup> La DICS fixe des dispositions en la matière.
+<sup>4</sup> La DFAC fixe des dispositions en la matière.
 
 #### Art. 53
 
@@ -596,7 +596,7 @@ Arrête:
 - a) la différenciation de l'enseignement au sein de la classe;
 - b) l'offre de cours, de travaux ou de projets supplémentaires au sein de l'école ou dans une autre école du canton;
 - c) l'accélération de la formation;
-- d) l'autorisation de participer, durant deux demi-jours par semaine au maximum, à un programme d'enseignement spécial extérieur admis par la DICS.
+- d) l'autorisation de participer, durant deux demi-jours par semaine au maximum, à un programme d'enseignement spécial extérieur admis par la DFAC.
 
 <sup>2</sup> Ces mesures ne doivent pas nuire au déroulement de la formation de l'élève, ni perturber le fonctionnement de l'école.
 
@@ -622,11 +622,11 @@ Arrête:
 
 **Mesures de compensation des désavantages**
 
-<sup>1</sup> L'élève en situation de handicap ou de trouble fonctionnel attesté par un ou une spécialiste agréé‑e par la DICS peut bénéficier de mesures de compensation des désavantages sous forme d'aménagements spécifiques en classe et/ou de conditions particulières d'exécution d'examen, à la condition qu'il ou elle soit en mesure d'atteindre les objectifs des plans d'études.
+<sup>1</sup> L'élève en situation de handicap ou de trouble fonctionnel attesté par un ou une spécialiste agréé‑e par la DFAC peut bénéficier de mesures de compensation des désavantages sous forme d'aménagements spécifiques en classe et/ou de conditions particulières d'exécution d'examen, à la condition qu'il ou elle soit en mesure d'atteindre les objectifs des plans d'études.
 
 <sup>2</sup> Les mesures de compensation des désavantages doivent respecter le principe de proportionnalité et être adaptées à la formation visée.
 
-<sup>3</sup> La DICS fixe les conditions et les modalités d'octroi.
+<sup>3</sup> La DFAC fixe les conditions et les modalités d'octroi.
 
 #### Art. 56
 
@@ -695,7 +695,7 @@ Arrête:
 
 <sup>1</sup> L'évaluation en commun a pour but d'encourager les échanges pédagogiques et de promouvoir la comparabilité des examens au niveau des exigences.
 
-<sup>2</sup> La DICS favorise l'évaluation en commun sur la base d'un concept élaboré en collaboration avec la conférence des directeurs et directrices.
+<sup>2</sup> La DFAC favorise l'évaluation en commun sur la base d'un concept élaboré en collaboration avec la conférence des directeurs et directrices.
 
 <sup>3</sup> Les écoles mettent en œuvre de manière autonome le concept, en collaboration avec les conférences de branche.
 
@@ -705,7 +705,7 @@ Arrête:
 
 <sup>1</sup> Le bulletin scolaire est le moyen officiel de communication des résultats de l'élève.
 
-<sup>2</sup> La DICS fixe le contenu et la forme du bulletin scolaire.
+<sup>2</sup> La DFAC fixe le contenu et la forme du bulletin scolaire.
 
 <sup>3</sup> Le bulletin scolaire est remis à l'élève deux fois par année, au terme de chaque semestre. Par leur signature, les parents d'élèves mineurs attestent avoir pris connaissance des résultats qui y sont consignés.
 
@@ -774,7 +774,7 @@ Arrête:
 - m) les besoins particuliers de l'élève, en particulier les mesures d'encouragement et de soutien;
 - n) des remarques concernant le suivi pédagogique de l'élève.
 
-<sup>2</sup> D'autres données personnelles des élèves peuvent être traitées, avec l'accord de la DICS, à des fins statistiques ou de recherches scientifiques. Ces données sont rendues anonymes.
+<sup>2</sup> D'autres données personnelles des élèves peuvent être traitées, avec l'accord de la DFAC, à des fins statistiques ou de recherches scientifiques. Ces données sont rendues anonymes.
 
 <sup>3</sup> Le catalogue des données est soumis pour ratification à l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
@@ -792,7 +792,7 @@ Arrête:
 
 <sup>1</sup> L'accès aux banques de données est strictement restreint au personnel enseignant et administratif au sens de l'article 69 al. 2, dans les limites de leurs attributions et compétences légales.
 
-<sup>2</sup> La DICS fixe les droits et les modalités d'accès.
+<sup>2</sup> La DFAC fixe les droits et les modalités d'accès.
 
 #### Art. 71
 
@@ -837,7 +837,7 @@ Arrête:
 
 <sup>3</sup> Les données sans intérêt archivistique sont détruites de façon à écarter toute possibilité de reconstitution.
 
-<sup>4</sup> Au besoin, la DICS peut émettre des directives sur l'archivage.
+<sup>4</sup> Au besoin, la DFAC peut émettre des directives sur l'archivage.
 
 #### Art. 74
 
@@ -851,7 +851,7 @@ Arrête:
 
 <sup>4</sup> En cas de non-respect, l'élève s'expose à des sanctions disciplinaires et/ou pénales.
 
-<sup>5</sup> La DICS peut régler, en particulier, les contenus obligatoires du site Internet et la publication de données personnelles.
+<sup>5</sup> La DFAC peut régler, en particulier, les contenus obligatoires du site Internet et la publication de données personnelles.
 
 ### 5.9 Mesures éducatives et sanctions disciplinaires (art. 44 LESS)
 
@@ -948,9 +948,9 @@ Arrête:
 
 **Nomination et destitution des membres**
 
-<sup>1</sup> Les membres et le président ou la présidente de la commission d'école sont désignés par la DICS pour une durée de cinq ans.
+<sup>1</sup> Les membres et le président ou la présidente de la commission d'école sont désignés par la DFAC pour une durée de cinq ans.
 
-<sup>2</sup> La DICS peut démettre une personne qui nuit au fonctionnement ou à l'image de la commission ou de l'école. Sauf cas grave, cette décision est précédée d'un avertissement.
+<sup>2</sup> La DFAC peut démettre une personne qui nuit au fonctionnement ou à l'image de la commission ou de l'école. Sauf cas grave, cette décision est précédée d'un avertissement.
 
 #### Art. 83
 
@@ -958,7 +958,7 @@ Arrête:
 
 <sup>1</sup> Le président ou la présidente de la commission d'école réunit la commission en principe au minimum deux fois par année.
 
-<sup>2</sup> La commission est en outre convoquée à la demande de la DICS, du directeur ou de la directrice ou d'un tiers de ses membres.
+<sup>2</sup> La commission est en outre convoquée à la demande de la DFAC, du directeur ou de la directrice ou d'un tiers de ses membres.
 
 #### Art. 84
 
@@ -1054,7 +1054,7 @@ Arrête:
 - j) le prononcé d'une menace d'exclusion;
 - k) le traitement d'une plainte au sens de l'article 81 LESS portée contre les actes ou les omissions d'un enseignant ou d'une enseignante.
 
-<sup>3</sup> Un cahier des charges du directeur ou de la directrice, adapté aux particularités de chaque école, est établi par la DICS, compte tenu des attributions générales fixées à l'article 58 LESS.
+<sup>3</sup> Un cahier des charges du directeur ou de la directrice, adapté aux particularités de chaque école, est établi par la DFAC, compte tenu des attributions générales fixées à l'article 58 LESS.
 
 #### Art. 89
 
@@ -1142,7 +1142,7 @@ Arrête:
 - a) des directeurs ou directrices de chaque école de l'enseignement secondaire supérieur;
 - b) des présidents ou présidentes et des secrétaires des jurys de chaque école dont la composition et le fonctionnement sont précisés dans les règlements des différentes voies de formation;
 - c) du représentant ou de la représentante fribourgeois‑e à la Commission suisse de maturité;
-- d) d'une personne représentant la DICS qui préside la Commission cantonale.
+- d) d'une personne représentant la DFAC qui préside la Commission cantonale.
 
 #### Art. 95
 
@@ -1155,7 +1155,7 @@ Arrête:
 - c) valide les examens en s'assurant de leur adéquation avec les plans d'études cantonaux et de l'équivalence des exigences dans les écoles;
 - d) fixe les dates de la session ordinaire et la durée des congés accordés aux personnes candidates pour leur préparation;
 - e) maintient les contacts nécessaires avec la Commission suisse de maturité;
-- f) propose à la DICS les changements à apporter au règlement;
+- f) propose à la DFAC les changements à apporter au règlement;
 - g) décide des autorisations d'exception et valide les mesures particulières;
 - h) peut faire appel à des experts et expertes.
 
@@ -1169,7 +1169,7 @@ Arrête:
 
 <sup>2</sup> Une séance de la conférence des enseignants et enseignantes peut être convoquée à la demande d'un quart du corps enseignant de l'école.
 
-<sup>3</sup> Les séances de la conférence des enseignants et enseignantes ont lieu, en principe, en dehors du temps de classe; les dérogations relèvent de la DICS.
+<sup>3</sup> Les séances de la conférence des enseignants et enseignantes ont lieu, en principe, en dehors du temps de classe; les dérogations relèvent de la DFAC.
 
 #### Art. 97
 
@@ -1241,7 +1241,7 @@ Arrête:
 
 - a) l'élaboration des plans d'études cantonaux;
 - b) la formation d'enseignants ou enseignantes stagiaires;
-- c) la collaboration aux examens organisés par l'école ou la DICS;
+- c) la collaboration aux examens organisés par l'école ou la DFAC;
 - d) la coordination des échanges scolaires.
 
 ## 7 Financement des écoles (art. 66 à 69 LESS)
@@ -1292,7 +1292,7 @@ Arrête:
 
 **Ouverture d'une école (art. 70 LESS)**
 
-<sup>1</sup> Lors de l'annonce de l'ouverture d'une école privée, la DICS s'assure que les formations dispensées sont clairement définies et que les certificats délivrés correspondent à cette formation et ne prêtent pas à confusion avec d'autres certificats.
+<sup>1</sup> Lors de l'annonce de l'ouverture d'une école privée, la DFAC s'assure que les formations dispensées sont clairement définies et que les certificats délivrés correspondent à cette formation et ne prêtent pas à confusion avec d'autres certificats.
 
 #### Art. 109
 
@@ -1304,13 +1304,13 @@ Arrête:
 
 **Reconnaissance d'une voie de formation**
 
-<sup>1</sup> Une voie de formation dispensée dans une école privée peut faire l'objet d'une reconnaissance par convention passée avec la DICS et approuvée par le Conseil d'Etat. Cette reconnaissance peut être indépendante de tout octroi de subvention.
+<sup>1</sup> Une voie de formation dispensée dans une école privée peut faire l'objet d'une reconnaissance par convention passée avec la DFAC et approuvée par le Conseil d'Etat. Cette reconnaissance peut être indépendante de tout octroi de subvention.
 
 #### Art. 111
 
 **Conditions et charges liées au subventionnement (art. 72 LESS)**
 
-<sup>1</sup> Si une école privée obtient une subvention conformément à l'article 72 LESS, une convention avec la DICS, approuvée par le Conseil d'Etat, doit être établie. Celle-ci doit notamment régler les éléments suivants:
+<sup>1</sup> Si une école privée obtient une subvention conformément à l'article 72 LESS, une convention avec la DFAC, approuvée par le Conseil d'Etat, doit être établie. Celle-ci doit notamment régler les éléments suivants:
 
 - a) l'offre de formation;
 - b) le maintien et le développement de la qualité;
@@ -1326,7 +1326,7 @@ Arrête:
 
 **Service de consultation psychologique**
 
-<sup>1</sup> Le Service de consultation psychologique relève du Service sur le plan administratif; son fonctionnement interne est réglé par des dispositions particulières émises par la DICS.
+<sup>1</sup> Le Service de consultation psychologique relève du Service sur le plan administratif; son fonctionnement interne est réglé par des dispositions particulières émises par la DFAC.
 
 #### Art. 113
 
@@ -1336,9 +1336,9 @@ Arrête:
 
 <sup>2</sup> Les personnes chargées de la médiation promeuvent une culture de la communication par le conseil et l'accompagnement de l'élève et/ou de l'adulte rencontrant des difficultés relationnelles. Les personnes chargées du travail social encouragent l'intégration des élèves à l'école et soutiennent ainsi le mandat de formation et d'éducation de celle-ci.
 
-<sup>3</sup> Elles sont engagées par la DICS, sur le préavis du directeur ou de la directrice à qui elles sont subordonnées.
+<sup>3</sup> Elles sont engagées par la DFAC, sur le préavis du directeur ou de la directrice à qui elles sont subordonnées.
 
-<sup>4</sup> Leurs attributions sont définies dans un cahier des charges approuvé par la DICS.
+<sup>4</sup> Leurs attributions sont définies dans un cahier des charges approuvé par la DFAC.
 
 <sup>5</sup> Elles peuvent exercer leur mission dans une ou plusieurs écoles.
 
@@ -1373,9 +1373,9 @@ Arrête:
 
 <sup>1</sup> Le refus d'autorisation et la facturation de la taxe d'utilisation peuvent, dans les trente jours, faire l'objet d'une réclamation du requérant ou de la requérante.
 
-<sup>2</sup> La réclamation est adressée à la DICS.
+<sup>2</sup> La réclamation est adressée à la DFAC.
 
-<sup>3</sup> La décision de la DICS peut faire l'objet d'un recours au Tribunal cantonal, selon la procédure prévue par le code de procédure et de juridiction administrative.
+<sup>3</sup> La décision de la DFAC peut faire l'objet d'un recours au Tribunal cantonal, selon la procédure prévue par le code de procédure et de juridiction administrative.
 
 #### Art. 117
 
@@ -1384,9 +1384,9 @@ Arrête:
 <sup>1</sup> L'autorité de plainte est:
 
 - a) le directeur ou la directrice lorsque la plainte est portée contre les actes ou les omissions d'un enseignant ou d'une enseignante ou d'un ou d'une proviseur‑e;
-- b) la DICS lorsque la plainte est portée contre les actes ou les omissions d'un directeur ou d'une directrice.
+- b) la DFAC lorsque la plainte est portée contre les actes ou les omissions d'un directeur ou d'une directrice.
 
-<sup>2</sup> La DICS est l'autorité de recours contre la décision du directeur ou de la directrice qui déclare la plainte irrecevable ou mal fondée ou qui met des frais de procédure à la charge du plaignant ou de la plaignante.
+<sup>2</sup> La DFAC est l'autorité de recours contre la décision du directeur ou de la directrice qui déclare la plainte irrecevable ou mal fondée ou qui met des frais de procédure à la charge du plaignant ou de la plaignante.
 
 #### Art. 118
 
