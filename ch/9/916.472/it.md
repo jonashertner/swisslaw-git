@@ -3,11 +3,11 @@ sr: "916.472"
 title: "Ordinanza del 30 ottobre 1985 sulle tasse dell'Ufficio federale della sicurezza alimentare e di veterinaria (Ordinanza sulle tasse dell'USAV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: it
-version: 2022-01-01
+version: 2022-02-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220201/it/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220101/it"
 
 (Ordinanza sulle tasse dell’USAV)**[^t-1]**
 
-del 30 ottobre 1985 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 30 ottobre 1985 (Stato 1° febbraio 2022)
 
 [^t-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2011 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -374,15 +374,16 @@ Per il riconoscimento di un laboratorio di diagnostica e per la revoca del ricon
 [^24a-4]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinariopubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 [^24a-5]: Nuovo testo giusta l’all. 2 n. II 8 dell’O del 16 nov. 2011 concernente la formazione’ il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
-### Sezione 9:**** Utilizzo del sistema d’informazione elettronico per la gestione degli esperimenti sugli animali
+### Sezione 9:**** Utilizzo del sistema d’informazione animex-ch****
 
-[^chap2-sec9-1]
+[^chap2-sec9-1][^chap2-sec9-2]
 
 [^chap2-sec9-1]: Introdotta dall’all. 2 n. 2 dell’O del 1° set. 2010 concernente il sistema d’informazione elettronico per la gestione degli esperimenti sugli animali, in vigore dal 1° gen. 2012 ([RU 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
+[^chap2-sec9-2]: Nuova espr. giusta il n. III 2 dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 24b
 
-<sup>1</sup> Per l’utilizzo del sistema d’informazione elettronico per la gestione degli esperimenti sugli animali l’Ufficio federale riscuote dai Cantoni le tasse seguenti:
+<sup>1</sup> Per l’utilizzo del sistema d’informazione animex-ch l’Ufficio federale riscuote dai Cantoni le tasse seguenti:
 
 <table>
 <tr><th colspan="2"></th><th>Fr.</th></tr>
@@ -393,7 +394,7 @@ Per il riconoscimento di un laboratorio di diagnostica e per la revoca del ricon
 <tr><td>e. annualmente per l’accreditamento di una persona, inclusa la gestione continua della formazione, del perfezionamento e dell’aggiornamento</td><td colspan="2">60.– fino a 80.–</td></tr>
 </table>
 
-<sup>2</sup> Se l’USAV svolge i compiti di un Cantone che non lavora con il sistema d’informazione elettronico, la tassa ammonta al doppio dell’importo di cui al capoverso 1.
+<sup>2</sup> Se l’USAV svolge i compiti di un Cantone che non lavora con il sistema d’informazione animex-ch, la tassa ammonta al doppio dell’importo di cui al capoverso 1.
 
 ### Sezione 10:**** Omologazione di prodotti fitosanitari
 

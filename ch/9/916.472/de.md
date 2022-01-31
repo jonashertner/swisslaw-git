@@ -3,11 +3,11 @@ sr: "916.472"
 title: Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV)
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: de
-version: 2022-01-01
+version: 2022-02-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220201/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220101/de"
 
 (Gebührenverordnung BLV)**[^t-1]**
 
-vom 30. Oktober 1985 (Stand am 1. Januar 2022)
+vom 30. Oktober 1985 (Stand am 1. Februar 2022)
 
 [^t-1]: Kurztitel eingefügt gemäss Anhang 2 Ziff. 2 der V vom 1. Sept. 2010 über das elektronische Informationssystem zur Verwaltung der Tierversuche, in Kraft seit 1. Jan. 2011 ([AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -126,7 +126,7 @@ Das BLV[^4-2] kann für Verfügungen und Dienstleistungen von aussergewöhnliche
 <sup>2</sup> Wird eine vom Zollamt erhobene Gebühr (Art. 6) zusammen mit der Zollveranlagung angefochten oder bezieht sich die Beschwerde lediglich auf einen Rechnungsfehler, so richten sich Zuständigkeit und Verfahren nach Artikel 109 des Zollgesetzes vom 1. Oktober 1925[^8-2].
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2709](https://fedlex.data.admin.ch/eli/oc/2006/418)).
-[^8-2]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^8-2]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 Ziff. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Anhang Ziff. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)Ziff. I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)Ziff. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)Ziff. I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 Abs. 1]. Siehe heute: das Zollgesetz vom 18. März 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 
 #### Art. 9–14
 
@@ -382,26 +382,28 @@ Für die Anerkennung eines diagnostischen Labors sowie für den Widerruf der Ane
 [^24a-4]: Fassung gemäss Anhang 2 Ziff. II 8 der V vom 16. Nov. 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen, in Kraft seit 1. Jan. 2012 ([AS 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 [^24a-5]: Fassung gemäss Anhang 2 Ziff. II 8 der V vom 16. Nov. 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen, in Kraft seit 1. Jan. 2012 ([AS 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
-### 9. Abschnitt:**** Benutzung des Informationssystems E-Tierversuche
+### 9. Abschnitt:**** Benutzung des Informationssystems Animex-ch****
 
-[^chap2-sec9-1]
+[^chap2-sec9-1][^chap2-sec9-2]
 
 [^chap2-sec9-1]: Eingefügt durch Anhang 2 Ziff. 2 der V vom 1. Sept. 2010 über das elektronische Informationssystem zur Verwaltung der Tierversuche, in Kraft seit 1. Jan. 2012 ([AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
+[^chap2-sec9-2]: Ausdruck gemäss Ziff. III 2 der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 24b
 
-<sup>1</sup> Das BLV erhebt für die Benutzung des Informationssystems E-Tierversuche von den Kantonen folgende Gebühren:
+<sup>1</sup> Das BLV erhebt für die Benutzung des Informationssystems Animex-ch von den Kantonen folgende Gebühren:
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
 <tr><td>a. Abwicklung von Bewilligungen für Tierversuche oder Versuchstierhaltungen, einschliesslich Berichte</td><td>200.– bis 300.–</td></tr>
 <tr><td>b. Abwicklung von Bewilligungen für die Ergänzung eines Tierversuchs oder einer Versuchstierhaltung</td><td>60.– bis 80.–</td></tr>
 <tr><td>c. Abwicklung von Entscheiden zu belasteten Linien und Stämmen (Art. 127 TSchV)</td><td>200.– bis 300.–</td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>d. Abwicklung von Ergänzungen zu Entscheiden zu belasteten Linien und Stämmen (Art. 127 TSchV)</td><td>60.– bis 80.–</td></tr>
 <tr><td>e. jährlich für die Akkreditierung einer Person einschliesslich des fortlaufenden Managements der Aus-, Weiter- und Fortbildung</td><td>60.– bis 80.–</td></tr>
 </table>
 
-<sup>2</sup> Übernimmt das BLV die Aufgaben eines Kantons, der selbst nicht mit dem Informationssystem E-Tierversuche arbeitet, so beträgt die Gebühr das Zweifache des Betrages nach Absatz 1.
+<sup>2</sup> Übernimmt das BLV die Aufgaben eines Kantons, der selbst nicht mit dem Informationssystem Animex-ch arbeitet, so beträgt die Gebühr das Zweifache des Betrages nach Absatz 1.
 
 ### 10. Abschnitt:**** Zulassung von Pflanzenschutzmitteln
 

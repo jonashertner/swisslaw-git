@@ -3,11 +3,11 @@ sr: "916.472"
 title: "Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l'OSAV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: fr
-version: 2022-01-01
+version: 2022-02-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20220201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20220101/fr"
 
 (Ordonnance sur les émoluments de l’OSAV, OEmol-OSAV)**[^t-1]**
 
-du 30 octobre 1985 (Etat le 1<sup>er</sup> janvier 2022)
+du 30 octobre 1985 (Etat le 1<sup>er</sup> février 2022)
 
 [^t-1]: Tit. introduit par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> sept. 2010 sur le système informatique de gestion des expériences sur animaux, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -375,15 +375,16 @@ Pour l’agrément d’un laboratoire de diagnostic, de même que pour la révoc
 [^24a-5]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 16 nov. 2011 (Formation des personnes travaillant dans le Service vétérinaire public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 [^24a-6]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 16 nov. 2011 (Formation des personnes travaillant dans le Service vétérinaire public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
-### Section 9**** Utilisation du système informatique de gestion des expériences sur animaux
+### Section 9**** Utilisation du système informatique animex-ch****
 
-[^chap2-sec9-1]
+[^chap2-sec9-1][^chap2-sec9-2]
 
 [^chap2-sec9-1]: Introduite par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> sept. 2010 sur le système informatique de gestion des expériences sur animaux, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
+[^chap2-sec9-2]: Nouvelle expression selon le ch. III 2 de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 24b
 
-<sup>1</sup> Pour l’utilisation du système informatique de gestion des expériences sur animaux, l’OSAV prélève les émoluments suivants:
+<sup>1</sup> Pour l’utilisation du système informatique animex-ch, l’OSAV prélève les émoluments suivants:
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -394,7 +395,7 @@ Pour l’agrément d’un laboratoire de diagnostic, de même que pour la révoc
 <tr><td>e. tous les ans, pour l’accréditation d’une personne, y compris la tenue à jour des attestations de formation de base, de formation qualifiante et de formation continue</td><td>60.– à 80.–</td></tr>
 </table>
 
-<sup>2</sup> Si l’OSAV assume des tâches d’un canton qui ne travaille pas avec le système informatique e-expérimentation animale, l’émolument est deux fois supérieur au montant fixé à l’al. 1.
+<sup>2</sup> Si l’OSAV assume des tâches d’un canton qui ne travaille pas avec le système informatique animex-ch, l’émolument est deux fois supérieur au montant fixé à l’al. 1.
 
 ### Section 10**** Homologation des produits phytosanitaires
 
