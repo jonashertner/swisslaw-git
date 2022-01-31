@@ -3,20 +3,20 @@ canton: FR
 number: "821.40.42"
 title: "Ordonnance déléguant aux communes de Corminbœuf, Fribourg, Givisiez, Granges-Paccot, Marly, Matran, Villars-sur-Glâne, Bulle, Morat, Romont, Estavayer et Châtel-Saint-Denis la compétence d'infliger des amendes d'ordre (COVID-19)"
 language: fr
-version: 2021-03-09
-valid_until: 2022-01-31
-version_adopted: 2021-03-09
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-04-01
 adopted: 2021-03-09
 in_force: 2021-03-09
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.42"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6787/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7411/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance déléguant aux communes de Corminbœuf, Fribourg, Givisiez, Granges-Paccot, Marly, Matran, Villars-sur-Glâne, Bulle, Morat, Romont, Estavayer et Châtel-Saint-Denis la compétence d'infliger des amendes d'ordre (COVID-19)
 
-du 09.03.2021 (version entrée en vigueur le 09.03.2021)
+du 09.03.2021 (version entrée en vigueur le 01.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -43,7 +43,7 @@ Arrête:
 
 #### Art. 2
 
-<sup>1</sup> Les communes visées par la présente ordonnance se conforment aux dispositions fédérales et cantonales en la matière ainsi qu'aux directives de la Direction de la sécurité et de la justice.
+<sup>1</sup> Les communes visées par la présente ordonnance se conforment aux dispositions fédérales et cantonales en la matière ainsi qu'aux directives de la Direction de la sécurité, de la justice et du sport.
 
 #### Art. 3
 

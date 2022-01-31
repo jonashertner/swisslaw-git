@@ -3,20 +3,20 @@ canton: FR
 number: "821.40.42"
 title: "Verordnung über die Verhängung von Ordnungsbussen durch die Gemeinden Corminbœuf, Freiburg, Givisiez, Granges-Paccot, Marly, Matran, Villars-sur-Glâne, Bulle, Murten, Romont, Estavayer und Châtel-Saint-Denis (COVID-19)"
 language: de
-version: 2021-03-09
-valid_until: 2022-01-31
-version_adopted: 2021-03-09
+version: 2022-02-01
+valid_until: 2025-12-31
+version_adopted: 2022-04-01
 adopted: 2021-03-09
 in_force: 2021-03-09
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.42"
-pdf: "https://bdlf.fr.ch/api/de/versions/6787/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7411/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Verhängung von Ordnungsbussen durch die Gemeinden Corminbœuf, Freiburg, Givisiez, Granges-Paccot, Marly, Matran, Villars-sur-Glâne, Bulle, Murten, Romont, Estavayer und Châtel-Saint-Denis (COVID-19)
 
-vom 09.03.2021 (Fassung in Kraft getreten am 09.03.2021)
+vom 09.03.2021 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -43,7 +43,7 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Die von dieser Verordnung betroffenen Gemeinden müssen die einschlägigen eidgenössischen und kantonalen Bestimmungen sowie die Richtlinien der Sicherheits- und Justizdirektion beachten.
+<sup>1</sup> Die von dieser Verordnung betroffenen Gemeinden müssen die einschlägigen eidgenössischen und kantonalen Bestimmungen sowie die Richtlinien der Sicherheits-, Justiz- und Sportdirektion beachten.
 
 #### Art. 3
 
