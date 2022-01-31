@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 concernant la mise sur le marché et l'utilisa
 short: OPBio
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: fr
-version: 2022-01-01
+version: 2022-02-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220101/fr"
 
 (Ordonnance sur les produits biocides, OPBio)
 
-du 18 mai 2005 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 mai 2005 (Etat le 1<sup>er</sup> février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -193,7 +193,7 @@ Les termes suivants s’entendent au sens de l’art. 2 de l’ordonnance du 18 
 [^2-13]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^2-14]: Introduit par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
-## Chapitre 2 Conditions relatives à la mise sur le marché
+## Chapitre 2 Conditions relatives à la mise sur le marché****
 
 [^chap2-1]
 
@@ -427,7 +427,7 @@ En accord avec l’OFEV et le SECO, l’OFSP adapte:[^10-2]
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### Section 2*a* Conditions à remplir pour les autorisations AL et AnL et dispositions particulières concernant les familles de produits biocides
+### Section 2*a* Conditions à remplir pour les autorisations AL et AnL et dispositions particulières concernant les familles de produits biocides****
 
 [^chap2-sec2a-1]
 
@@ -598,7 +598,7 @@ En accord avec les organes d’évaluation, l’organe de réception des notific
 [^11g-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^11g-2]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
 
-### Section 2*b* Conditions à remplir pour l’autorisation simplifiée
+### Section 2*b***** Conditions à remplir pour l’autorisation simplifiée
 
 [^chap2-sec2b-1]
 
@@ -614,7 +614,7 @@ Un produit biocide est autorisé selon une procédure simplifiée lorsque les co
 - d. le produit biocide est suffisamment efficace;
 - e. la manipulation du produit biocide et son utilisation prévue ne nécessitent pas d’équipement de protection individuelle.
 
-### Section 3 Conditions à remplir pour la reconnaissance, l’autorisation A<sub>N</sub> et l’autorisation de commerce parallèle
+### Section 3**** Conditions à remplir pour la reconnaissance, l’autorisation A<sub>N</sub> et l’autorisation de commerce parallèle
 
 [^chap2-sec3-1]
 
@@ -680,7 +680,7 @@ Un produit biocide est considéré comme identique au produit de référence, lo
 [^13a-1]: Introduit par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^13a-2]: Introduit par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 
-### Section 3*a* Régime des garanties pour les produits biocides contenant des microorganismes
+### Section 3*a***** Régime des garanties pour les produits biocides contenant des microorganismes
 
 [^chap2-sec3a-1]
 
@@ -692,7 +692,7 @@ Quiconque entend mettre sur le marché des produits biocides consistant en des m
 
 [^13b-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
-### Section 3*b* Obligations de déclarer pour les produits biocides de l’UE ou de l’AELE autorisés dans le cadre d’une procédure simplifiée et pour les familles de produits biocides
+### Section 3*b***** Obligations de déclarer pour les produits biocides de l’UE ou de l’AELE autorisés dans le cadre d’une procédure simplifiée et pour les familles de produits biocides
 
 [^chap2-sec3b-1]
 
@@ -723,7 +723,7 @@ Aucune déclaration n’est requise si:
 
 [^13d-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### Section 3*c* Obligation de consigner et de déclarer pour la recherche et le développement
+### Section 3*c***** Obligation de consigner et de déclarer pour la recherche et le développement
 
 [^chap2-sec3c-1]
 
@@ -773,7 +773,7 @@ Si les essais de dissémination sont susceptibles d’entraîner des effets inac
 
 [^13f-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
-### Section 4 Procédure pour les demandes d’autorisation
+### Section 4**** Procédure pour les demandes d’autorisation
 
 [^chap2-sec4-1]
 
@@ -1149,7 +1149,7 @@ La demande de prolongation d’une autorisation A<sub>L</sub> ou A<sub>nL</sub> 
 [^26-4]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^26-5]: Introduit par le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 
-### Section 4*a* Délais de vente en cas de modification ou de révocation de l’autorisation ou d’expiration de sa durée de validité
+### Section 4*a***** Délais de vente en cas de modification ou de révocation de l’autorisation ou d’expiration de sa durée de validité
 
 [^chap2-sec4a-1]
 
@@ -1308,7 +1308,7 @@ Le demandeur fournit les données ci-après à l’organe de réception des noti
 
 [^29b-1]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
-### Section 6 Clauses dérogatoires
+### Section 6**** Clauses dérogatoires****
 
 [^chap2-sec6-1][^chap2-sec6-2]
 
@@ -1347,7 +1347,7 @@ En accord avec les organes d’évaluation, l’organe de réception des notific
 
 En accord avec les organes d’évaluation, l’organe de réception des notifications peut autoriser un produit biocide contenant une substance active non approuvée si la protection du patrimoine culturel l’exige et qu’il n’existe pas d’autre solution appropriée.
 
-## Chapitre 3 Articles traités
+## Chapitre 3**** Articles traités
 
 [^chap3-1]
 
@@ -1402,7 +1402,7 @@ Toute personne responsable de la mise sur le marché d’articles traités doit:
 
 Abrogé
 
-## Chapitre 4 Secret de fabrication ou d’affaires, sphère privée et sécurité de la personne concernée
+## Chapitre 4**** Secret de fabrication ou d’affaires, sphère privée et sécurité de la personne concernée
 
 [^chap4-1]
 
@@ -1994,7 +1994,7 @@ Les art. 74 à 76 OChim[^61-2] s’appliquent par analogie à la transmission de
 
 ## Chapitre 8 Dispositions finales
 
-### Section 1 Dispositions transitoires de la modification du 20 juin 2014
+### Section 1 Dispositions transitoires de la modification du 20 juin 2014****
 
 [^chap8-sec1-1]
 
@@ -2055,7 +2055,7 @@ Les articles traités visés à l’al. 1 peuvent être mis sur le marché pour 
 
 [^62d-1]: Introduit par le ch. I de l’O du 20 juin 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)). Abrogé par le ch. I de l’O du 18 nov. 2020, avec effet au 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
-### Section 1*a* Disposition transitoire de la modification du 18 novembre 2020
+### Section 1*a***** Disposition transitoire de la modification du 18 novembre 2020
 
 [^chap8-sec1a-1]
 
@@ -2068,7 +2068,7 @@ Les produits biocides suivants peuvent être mis sur le marché sans indication 
 - a. les produits biocides destinés aux utilisateurs professionnels;
 - b. les produits biocides destinés à des utilisateurs privés et mis sur le marché avant le 1<sup>er</sup> janvier 2022.
 
-### Section 2 Entrée en vigueur
+### Section 2 Entrée en vigueur****
 
 [^chap8-sec2-1]
 
@@ -2080,29 +2080,29 @@ Les produits biocides suivants peuvent être mis sur le marché sans indication 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 2005.
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 7, al. 1, 8, al. 1, 9, al. 1, 10, al. 1, 11, al. 2 et 3, 11*h*, let. a, 22, 31, al. 1, et 62*c*, al. 1)
 
-## Liste des substances actives qui se prêtent à la procédure simplifiée
+## Liste des substances actives qui se prêtent à la procédure simplifiée****
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 4 août 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 488](https://fedlex.data.admin.ch/eli/oc/2021/488)).
 [^annex1-lvlu1-1]: Le contenu de la liste des substances actives qui se prêtent à la procédure simplifiée n’est pas publié dans le RO. La liste peut être consultée gratuitement sous www.anmeldestelle.admin.ch &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides &gt; Annexe 1. La version en vigueur est celle du 1<sup>er</sup> septembre 2021.
 
-Annexe 2[^t-2]
+Annexe 2*[^t-2]*
 
 (art. 7, al. 1, 8, al. 1, 9, al. 1 et 3, 10, al. 1, 11, al. 2 et 3, 22, 31, al. 1, 62, al. 2, et 62*c*, al. 1)
 
-## Liste de l’Union des substances actives approuvées
+## Liste de l’Union des substances actives approuvées****
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 4 août 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 488](https://fedlex.data.admin.ch/eli/oc/2021/488)).
-[^annex2-lvlu1-1]: Le contenu de la liste de l’Union des substances actives approuvées n’est pas publié dans le RO. La liste peut être consultée gratuitement sous www.anmeldestelle.admin.ch &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides &gt; Annexe 2. La version en vigueur est celle du 1<sup>er</sup> septembre 2021.
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 23 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 928](https://fedlex.data.admin.ch/eli/oc/2021/928)).
+[^annex2-lvlu1-1]: Le contenu de la liste de l’Union des substances actives approuvées n’est pas publié dans le RO. La liste peut être consultée gratuitement sous www.anmeldestelle.admin.ch &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides &gt; Annexe 2. La version en vigueur est celle du 1<sup>er</sup> février 2022.
 
-Annexe 3[^t-3]
+Annexe 3*[^t-3]*
 
 (art. 2, al. 4, et 9, al. 2)
 
@@ -2120,7 +2120,7 @@ Les équivalences entre les expressions figurant dans règlement (UE) n<sup>o</s
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>*a. Expressions en allemand*</td><td></td></tr>
+<tr><td>a. Expressions en allemand</td><td></td></tr>
 <tr><td>Gemisch</td><td>Zubereitung</td></tr>
 <tr><td>Erzeugnis</td><td>Gegenstand</td></tr>
 <tr><td>Bereitstellung auf dem Markt</td><td>Inverkehrbringen nach Artikel 4 Absatz 1 Buchstabe i des Chemikaliengesetzes vom 15. Dezember 2000</td></tr>
@@ -2129,7 +2129,7 @@ Les équivalences entre les expressions figurant dans règlement (UE) n<sup>o</s
 <tr><td>Zugangsbescheinigung</td><td>Zugangsbescheinigung nach Artikel 2 Absatz 2 Buchstabe e</td></tr>
 <tr><td>befasste bzw. bewertende zuständige Behörde</td><td>Anmeldestelle bzw. Beurteilungsstellen</td></tr>
 <tr><td>vereinfachtes Zulassungsverfahren</td><td>vereinfachte Zulassung</td></tr>
-<tr><td>*b. Expressions en français*</td><td></td></tr>
+<tr><td>b. Expressions en français</td><td></td></tr>
 <tr><td>Mélange</td><td>Préparation</td></tr>
 <tr><td>Article</td><td>Objet</td></tr>
 <tr><td>Mise à disposition sur le marché</td><td>Mise sur le marché selon l’art. 4, al. 1, let. i, de la loi du 15 décembre 2000 sur les produits chimiques</td></tr>
@@ -2138,7 +2138,7 @@ Les équivalences entre les expressions figurant dans règlement (UE) n<sup>o</s
 <tr><td>Lettre d’accès</td><td>Lettre d’accès selon l’art. 2, al. 2, let. e</td></tr>
 <tr><td>Autorité compétente réceptrice ou d’évaluation</td><td>Organe de réception des notifications (organe de réception des notifications) ou organes d’évaluation</td></tr>
 <tr><td>Procédure d’autorisation simplifiée</td><td>Autorisation simplifiée</td></tr>
-<tr><td>*c. Expressions en italien*</td><td></td></tr>
+<tr><td>c. Expressions en italien</td><td></td></tr>
 <tr><td>Miscela</td><td>Preparato</td></tr>
 <tr><td>Prodotto</td><td>Oggetto</td></tr>
 <tr><td>Messa a disposizione sul mercato</td><td>Immissione sul mercato secondo l’articolo 4 capoverso 1 lettera i della legge del 15 dicembre 2000 sui prodotti chimici</td></tr>
@@ -2179,16 +2179,16 @@ Les équivalences entre les expressions figurant dans les actes de l’UE auxque
 
 <table>
 <tr><th>Union européenne</th><th>Suisse</th></tr>
-<tr><td>*a. Deutsche Ausdrücke:*</td><td></td></tr>
+<tr><td>a. Deutsche Ausdrücke:</td><td></td></tr>
 <tr><td>in Mitgliedstaaten zur Verwendung zugelassen</td><td>in der Schweiz zur Verwendung zugelassen</td></tr>
 <tr><td>die Mitgliedstaaten bewerten</td><td>die Beurteilungsstellen (BS) bewerten</td></tr>
 <tr><td>Rückstandshöchstgehalte (RHG)</td><td>Höchstkonzentrationen bzw. Höchstwerte</td></tr>
 <tr><td>Antrag</td><td>Gesuch</td></tr>
-<tr><td>*b. Expressions françaises:*</td><td></td></tr>
+<tr><td>b. Expressions françaises:</td><td></td></tr>
 <tr><td>autorisés à des fins d’utilisation dans les États membres</td><td>autorisés à des fins d’utilisation en Suisse</td></tr>
 <tr><td>les États membres étudient</td><td>les Organes d’évaluation (OE) étudient</td></tr>
 <tr><td>limites maximales de résidus (LMR)</td><td>concentrations maximales ou valeurs maximales</td></tr>
-<tr><td>*c. Italienische Ausdrücke:*</td><td></td></tr>
+<tr><td>c. Italienische Ausdrücke:</td><td></td></tr>
 <tr><td>autorizzati per l’impiego negli Stati membri</td><td>autorizzati per l’impiego in Svizzera</td></tr>
 <tr><td>gli Stati membri valutare</td><td>gli Servizi di valutazione (SV) valutare</td></tr>
 <tr><td>livelli massimi di residui (LMR)</td><td>concentrazioni massime o valori massimi</td></tr>
@@ -2212,11 +2212,11 @@ Lorsque la présente ordonnance fait référence à des actes d’exécution de 
 [^annex3-lvlu1-lvl4-3]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
 [^annex3-lvlu1-lvl4-4]: [RS 817.023.21](https://fedlex.data.admin.ch/eli/cc/2017/164)
 
-Annexe 4[^t-4]
+Annexe 4*[^t-4]*
 
 [^t-4]: Abrogée par le ch. II al. 1 de l’O du 28 fév. 2007, avec effet au 1<sup>er</sup> avr. 2007 ([RO 2007 851](https://fedlex.data.admin.ch/eli/oc/2007/153)).
 
-Annexe 5[^t-5]
+Annexe 5*[^t-5]*
 
 (art. 14, al. 2, let. a)
 
@@ -2299,7 +2299,7 @@ Si l’organe de réception des notifications est déjà en possession des docum
 
 Pour un produit biocide contenant une substance active qui ne figure pas dans la liste de l’annexe 1 ou 2 ou dans la liste des substances actives notifiées, le demandeur peut joindre le résumé des caractéristiques du produit biocide conformément à l’art. 22, par. 2, du règlement (UE) n<sup>o</sup> 528/2012 ainsi que le rapport d’évaluation avec les conclusions conformément à l’art. 30, par. 3, du règlement (UE) n<sup>o</sup> 528/2012, ou pour les substances actives conformément à l’art. 8, par. 1, du règlement (UE) n<sup>o</sup> 528/2012, d’une autorité compétente d’un État membre de l’UE ou de l’AELE.
 
-Annexe 6[^t-6]
+Annexe 6*[^t-6]*
 
 (art. 14, al. 2, let. b)
 
@@ -2327,7 +2327,7 @@ Annexe 6[^t-6]
 
 [^annex6-lvlu1-1]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
 
-Annexe 7[^t-7]
+Annexe 7*[^t-7]*
 
 (art. 14, al. 2, let. c, et 14*a*)
 
@@ -2368,11 +2368,11 @@ Annexe 7[^t-7]
 
 [^annex7-lvlu1-1]: Cf. note de bas de page relative à l’art. 1*b*, al. 3.
 
-Annexe 7<sup>bis</sup> [^t-8]
+Annexe 7<sup>bis</sup> *[^t-8]*
 
 [^t-8]: Introduite par le ch. II al. 2 de l’O du 22 avr. 2009 ([RO 2009 1759](https://fedlex.data.admin.ch/eli/oc/2009/261)). Abrogée par le ch. II al. 3 de l’O du 20 juin 2014, avec effet au 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
-Annexe 8[^t-9]
+Annexe 8*[^t-9]*
 
 (art. 14, al. 2, let. d)
 
@@ -2457,7 +2457,7 @@ La demande doit être présentée avec les pièces suivantes:
 
 [^annex8-lvlu1-lvl3-lvl32-1]: Cf. note de bas de page relative à l’art. 2, al. 2, let. a, ch. 1.
 
-Annexe 8a[^t-10]
+Annexe 8a*[^t-10]*
 
 (art. 14, al. 2, let. c)
 
@@ -2499,11 +2499,11 @@ Annexe 8a[^t-10]
   - a. une traduction des parties pertinentes du mode d’emploi d’origine visé au ch. 1.1, let. d, et
   - b. des documents supplémentaires prouvant que le produit biocide est identique au produit de référence.
 
-Annexe 9[^t-11]
+Annexe 9*[^t-11]*
 
 [^t-11]: Abrogée par le ch. II al. 3 de l’O du 20 juin 2014, avec effet au 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 
-Annexe 10[^t-12]
+Annexe 10*[^t-12]*
 
 (art. 2, al. 1, let. b, 4, al. 1, 50, al. 3, let. a, et annexes 6 à 8)
 

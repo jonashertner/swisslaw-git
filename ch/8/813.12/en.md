@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2022-01-01
+version: 2022-02-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20220201/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20220201-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20220201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 1 January 2022)
+of 18 May 2005 (Status as of 1 February 2022)
 
 The Swiss Federal Council,
 
@@ -2103,8 +2103,8 @@ Annex 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Amended by No I of the FOPH O of 4 Aug. 2021, in force since 1 Sept. 2021 ([AS 2021 488](https://fedlex.data.admin.ch/eli/oc/2021/488)).
-[^annex2-lvlu1-1]: The Union list of approved active substances is not published in the Official Compilation. The Union list may be viewed free of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products &gt; Annex 2. The version of 1 Sept. 2021 applies.
+[^t-2]: Amended by No I of the FOPH O of 23 Dec. 2021, in force since 1 Feb. 2022 ([AS 2021 928](https://fedlex.data.admin.ch/eli/oc/2021/928)).
+[^annex2-lvlu1-1]: The Union list of approved active substances is not published in the Official Compilation. The Union list may be viewed free of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products &gt; Annex 2. The version of 1 Feb. 2022 applies.
 
 Annex 3*[^t-3]*
 
