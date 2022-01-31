@@ -4,13 +4,12 @@ number: "712.11"
 title: Ausführungsverordnung zur Bundesgesetzgebung über Zweitwohnungen
 short: AVZW
 language: de
-version: 2017-09-01
-valid_until: 2022-01-31
-version_adopted: 2017-06-27
+version: 2022-02-01
+version_adopted: 2022-03-18
 adopted: 2017-06-27
 in_force: 2017-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/712.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5343/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7346/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Zweitwohnungen – V
 
 (AVZW)
 
-vom 27.06.2017 (Fassung in Kraft getreten am 01.09.2017)
+vom 27.06.2017 (Fassung in Kraft getreten am 01.02.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -49,7 +48,7 @@ beschliesst:
 
 **Organisation – Zentralbehörde (Art. 5 Abs. 4 ZWG)**
 
-<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion ist dafür zuständig, den Kanton gegenüber dem Bund zu vertreten.
+<sup>1</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt ist dafür zuständig, den Kanton gegenüber dem Bund zu vertreten.
 
 <sup>2</sup> Sie sorgt für eine gute Koordination und für den Informationsaustausch zwischen den Behörden und Organen, die mit dem Vollzug der Bundesgesetzgebung betraut sind (Ausführungsbehörden und -organe).
 
