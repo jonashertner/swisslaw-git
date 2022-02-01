@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Accord international de 2007 sur le café du 28 septembre 2007 (avec annexe et résolution)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: fr
-version: 2021-02-02
+version: 2022-02-02
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20210202/fr/xml/fedlex-data-admin-ch-eli-cc-2011-608-20210202-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20210202/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20220202/fr/xml/fedlex-data-admin-ch-eli-cc-2011-608-20220202-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20220202/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 11 septembre 2009
 
 Entré en vigueur pour la Suisse le 2 février 2011
 
-(Etat le 2 février 2021)
+(Etat le 2 février 2022)
 
 [^t-1]: [RO 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -627,7 +627,7 @@ Si le Conseil considère qu’un Membre a commis une infraction aux obligations 
 
 \6) Toute décision concernant la durée et/ou la résiliation du présent Accord et toute notification reçue par le Conseil, conformément au présent article, est dûment transmise au dépositaire par le Conseil.
 
-[^48-1]: Prorogé jusqu’au 2 fév. 2022 par la résolution n<sup>o</sup> 471 du 11 septembre 2020 ([RO 2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
+[^48-1]: Prorogé à nouveau jusqu’au 1<sup>er</sup> fév. 2024 par la résolution n<sup>o</sup> 473 du 10 sept. 2021 ([RO 2022 324](https://fedlex.data.admin.ch/eli/oc/2022/324); [2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
 
 #### Art. 49
 
