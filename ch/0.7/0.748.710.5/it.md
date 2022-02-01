@@ -3,11 +3,11 @@ sr: "0.748.710.5"
 title: "Convenzione del 10 settembre 2010 per la repressione di atti illeciti contro l'aviazione civile internazionale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/487"
 language: it
-version: 2020-09-03
+version: 2022-02-02
 adopted: 2010-09-10
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/487/20200903/it/xml/fedlex-data-admin-ch-eli-cc-2018-487-20200903-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/487/20200903/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/487/20220202/it/xml/fedlex-data-admin-ch-eli-cc-2018-487-20220202-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/487/20220202/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di adesione depositato dalla Svizzera l’11 dicembre 2014
 
 Entrata in vigore per la Svizzera il 1° luglio 2018
 
-(Stato 3 settembre 2020)
+(Stato 2 febbraio 2022)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 20 giu. 2018 ([RU 2018 257](https://fedlex.data.admin.ch/eli/oc/2018/41)).
 
@@ -336,13 +336,14 @@ Il depositario informerà sollecitamente tutti gli Stati Parte alla presente Con
 
 *In fede di che* i plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Pechino il 10 settembre 2010, nelle lingue francese, inglese, araba, cinese, spagnola e russa, tutti i testi facenti ugualmente fede dopo la verifica da parte del Segretariato della Conferenza, sotto l’egida del Presidente della Conferenza, entro novanta giorni da tale data per quanto concerne la concordanza dei testi tra loro. La presente Convenzione sarà depositata negli archivi dell’Organizzazione dell’aviazione civile internazionale e copie conformi autentiche della stessa verranno trasmesse dal depositario a tutti gli Stati Parte alla presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 3 settembre 2020**[^t-2]**
+Campo d’applicazione il 2 febbraio 2022**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Angola</td><td>11 giugno</td><td>2013 A</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Bahrein<sup>\*</sup></td><td>26 ottobre</td><td>2017 A</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Benin</td><td>27 ottobre</td><td>2017</td><td>1° luglio</td><td>2018</td></tr>
+<tr><td>Botswana</td><td>30 aprile</td><td>2021 A</td><td>1° giugno</td><td>2021</td></tr>
 <tr><td>Burkina Faso</td><td>24 settembre</td><td>2019</td><td>1° novembre</td><td>2019</td></tr>
 <tr><td>Ceca, Repubblica<sup>\*</sup></td><td>2 luglio</td><td>2013</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Cipro</td><td>28 marzo</td><td>2019</td><td>1° maggio</td><td>2019</td></tr>
@@ -351,12 +352,16 @@ Campo d’applicazione il 3 settembre 2020**[^t-2]**
 <tr><td>Cuba<sup>\*</sup></td><td>22 marzo</td><td>2013</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>27 novembre</td><td>2012</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Eswatini</td><td>23 novembre</td><td>2016 A</td><td>1° luglio</td><td>2018</td></tr>
+<tr><td>Finlandia\*</td><td>28 giugno</td><td>2021 A</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Francia</td><td>15 dicembre</td><td>2016</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Gabon</td><td>24 settembre</td><td>2019 A</td><td>1° novembre</td><td>2019</td></tr>
+<tr><td>Gambia</td><td>15 febbraio</td><td>2021</td><td>1° aprile</td><td>2021</td></tr>
 <tr><td>Ghana</td><td>4 giugno</td><td>2018</td><td>1° agosto</td><td>2018</td></tr>
 <tr><td>Guyana</td><td>26 febbraio</td><td>2013 A</td><td>1° luglio</td><td>2018</td></tr>
+<tr><td>Honduras\*</td><td>23 agosto</td><td>2021 A</td><td>1° ottobre</td><td>2021</td></tr>
 <tr><td>Kazakistan</td><td>20 gennaio</td><td>2019 A</td><td>1° marzo</td><td>2019</td></tr>
 <tr><td>Kuwait</td><td>28 luglio</td><td>2014 A</td><td>1° luglio</td><td>2018</td></tr>
+<tr><td>Lussemburgo</td><td>19 novembre</td><td>2021 A</td><td>1° gennaio</td><td>2022</td></tr>
 <tr><td>Mali</td><td>14 novembre</td><td>2012</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Malta</td><td>26 settembre</td><td>2016 A</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Mozambico</td><td>17 agosto</td><td>2016 A</td><td>1° luglio</td><td>2018</td></tr>
@@ -365,7 +370,9 @@ Campo d’applicazione il 3 settembre 2020**[^t-2]**
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)<sup>\*</sup></td><td>17 marzo</td><td>2016</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Panama</td><td>9 ottobre</td><td>2015</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>3 agosto</td><td>2018</td><td>1° ottobre</td><td>2018</td></tr>
+<tr><td>Portogallo</td><td>22 aprile</td><td>2021</td><td>1° giugno</td><td>2021</td></tr>
 <tr><td>Romania</td><td>22 giugno</td><td>2018</td><td>1° agosto</td><td>2018</td></tr>
+<tr><td>Ruanda</td><td>9 dicembre</td><td>2021 A</td><td>1° febbraio</td><td>2022</td></tr>
 <tr><td>Saint Lucia<sup>\*</sup></td><td>12 settembre</td><td>2012</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Sierra Leone</td><td>25 novembre</td><td>2015</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td>12 luglio</td><td>2018 A</td><td>1° settembre</td><td>2018</td></tr>
@@ -374,7 +381,7 @@ Campo d’applicazione il 3 settembre 2020**[^t-2]**
 <tr><td>Turkmenistan</td><td>17 giugno</td><td>2019 A</td><td>1° agosto</td><td>2019</td></tr>
 <tr><td>Uganda</td><td>28 novembre</td><td>2017</td><td>1° luglio</td><td>2018</td></tr>
 <tr><td>Uruguay</td><td>5 dicembre</td><td>2019 A</td><td>1° febbraio</td><td>2020</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in francese ed in inglese si possono consultare sul sito internet (Organizzazione internazionale dell’aviazione civile (OACI) e www.icao.int) &gt; Français &gt; Recueil des traités &gt; Current lists of parties o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2018 3059](https://fedlex.data.admin.ch/eli/oc/2018/487)e [2020 3781](https://fedlex.data.admin.ch/eli/oc/2020/689). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2018 3059](https://fedlex.data.admin.ch/eli/oc/2018/487); [2020 3781](https://fedlex.data.admin.ch/eli/oc/2020/689), [2022 64](https://fedlex.data.admin.ch/eli/oc/2022/64). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty).
