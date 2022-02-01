@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 sulla durata del lavoro e del riposo dei co
 short: OLR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: it
-version: 2022-01-01
+version: 2022-02-02
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220202/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220202-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220202/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220101/it"
 
 (Ordinanza per gli autisti, OLR 1)[^t-1]
 
-del 19 giugno 1995 (Stato 1° gennaio 2022)
+del 19 giugno 1995 (Stato 2 febbraio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
@@ -154,7 +154,7 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 [^4-2]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^4-3]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-4]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-5]: Nuovo testo giusta il n. II 7 dell’all. all’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^4-5]: Nuovo testo giusta l’all. n. II 7 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^4-6]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
 [^4-7]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-8]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
@@ -167,7 +167,7 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 [^4-15]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
 [^4-16]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
 [^4-17]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
-[^4-18]: Introdotto dal n. 4 dell’all. 1 all’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogato dal n. I dell’O del 30 giu. 2010, con effetto dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-18]: Introdotto dall’all. 1 n. 4 dell’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogato dal n. I dell’O del 30 giu. 2010, con effetto dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 ## Sezione 3: Periodi di guida, di lavoro, pause, periodi di riposo
 
@@ -439,7 +439,7 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 [^13b-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 [^13b-3]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 [^13b-4]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13b-5]: Nuovo testo giusta il n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13b-5]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^13b-6]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 [^13b-7]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
@@ -460,10 +460,10 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 [^13c-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13c-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^13c-3]: Regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio del 4 febbraio 2014 relativo ai tachigrafi nel settore dei trasporti su strada, che abroga il regolamento (CEE) n. 3821/85 del Consiglio relativo all’apparecchio di controllo nel settore dei trasporti su strada e modifica il regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio relativo all’armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada, versione della GU L 60 del 28.2.2014, pag. 1.
-[^13c-4]: Nuovo testo giusta il n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13c-4]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^13c-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta modifica è tenuto conto in tutto il presente testo.
 [^13c-6]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13c-7]: Nuovo testo giusta il n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13c-7]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 13d
 
@@ -479,7 +479,7 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 
 [^13d-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13d-2]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13d-3]: Nuovo testo giusta il n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13d-3]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 13e
 
@@ -495,7 +495,7 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 
 [^13e-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13e-2]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13e-3]: Nuovo testo giusta il n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13e-3]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^13e-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 
 #### Art. 14
@@ -552,7 +552,7 @@ Il conducente deve apportare sul disco le seguenti indicazioni:
 
 **Uso del tachigrafo digitale**[^14b-1]
 
-<sup>1</sup> Il conducente deve inserire nel tachigrafo il Paese d’inizio e di fine dell’attività professionale. L’inserimento non è necessario se il tachigrafo è collegato a un servizio di posizionamento satellitare e registra automaticamente queste informazioni.[^14b-2]
+<sup>1</sup> Il conducente deve inserire nel tachigrafo il Paese d’inizio e di fine dell’attività professionale. All’inizio della prima sosta utile dopo aver attraversato il confine di Stato, deve inoltre inserire il Paese in cui è entrato. L’inserimento non è necessario se il tachigrafo è collegato a un servizio di posizionamento satellitare e registra automaticamente queste informazioni.[^14b-2]
 
 <sup>2</sup> Le carte del conducente e del secondo conducente devono rimanere inserite nell’apparecchio durante l’intera durata dell’attività professionale. Nell’inserire e nell’estrarre la carta, il conducente deve rispondere «sì» o «no» alle richieste di input dell’apparecchio.[^14b-3]
 
@@ -571,7 +571,7 @@ Il conducente deve apportare sul disco le seguenti indicazioni:
 <sup>8</sup> Il datore di lavoro deve mettere gratuitamente a disposizione del lavoratore la carta da stampa nonché gli altri strumenti necessari per scaricare i dati dalla carta del conducente e, a richiesta, consegnargli gratuitamente una copia degli estratti o dei dati restanti.
 
 [^14b-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14b-2]: Nuovo testo giusta il n. I dell’O dell’11 feb. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
+[^14b-2]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 2 feb. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^14b-3]: Nuovo testo giusta il n. I dell’O dell’11 feb. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
 [^14b-4]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 [^14b-5]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).

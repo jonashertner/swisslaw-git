@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Juni 1995 über die Arbeits- und Ruhezeit der berufsm
 short: ARV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: de
-version: 2022-01-01
+version: 2022-02-02
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220202/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220202-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220202/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220101/de"
 
 (Chauffeurverordnung, ARV 1)
 
-vom 19. Juni 1995 (Stand am 1. Januar 2022)
+vom 19. Juni 1995 (Stand am 2. Februar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -549,7 +549,7 @@ Der Führer oder die Führerin hat auf dem Einlageblatt folgende Angaben einzutr
 
 **Bedienung des digitalen Fahrtschreibers**[^14b-1]
 
-<sup>1</sup> Der Führer oder die Führerin hat das Land des Beginns und des Endes der beruflichen Tätigkeit in den Fahrtschreiber einzugeben. Diese Eingabe ist nicht erforderlich, wenn der Fahrtschreiber mit einem Positionsbestimmungsdienst auf der Basis eines Satellitennavigationssystems verbunden ist und diese Angaben automatisch aufzeichnet.[^14b-2]
+<sup>1</sup> Der Führer oder die Führerin hat das Land des Beginns und des Endes der beruflichen Tätigkeit in den Fahrtschreiber einzugeben. Ferner hat er oder sie zu Beginn des nächstmöglichen Halts nach Überqueren der Landesgrenze das Land einzugeben, in das eingereist wurde. Diese Eingaben sind nicht erforderlich, wenn der Fahrtschreiber mit einem Positionsbestimmungsdienst auf der Basis eines Satellitennavigationssystems verbunden ist und diese Angaben automatisch aufzeichnet.[^14b-2]
 
 <sup>2</sup> Die Fahrer- und die Beifahrerkarte müssen während der gesamten beruflichen Tätigkeit eingesteckt bleiben. Beim Einstecken und bei der Entnahme der Fahrerkarte muss der Führer oder die Führerin die Eingabeaufforderungen des Fahrtschreibers mit Ja oder Nein beantworten.[^14b-3]
 
@@ -568,7 +568,7 @@ Der Führer oder die Führerin hat auf dem Einlageblatt folgende Angaben einzutr
 <sup>8</sup> Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin das Druckerpapier sowie die für das Herunterladen der Daten von der Fahrerkarte notwendigen Hilfsmittel unentgeltlich zur Verfügung zu stellen und ihnen auf Verlangen unentgeltlich eine Kopie der Ausdrucke oder der übrigen Daten auszuhändigen.
 
 [^14b-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14b-2]: Fassung gemäss Ziff. I der V vom 11. Febr. 2015, in Kraft seit 1. Mai 2015 ([AS 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
+[^14b-2]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 2. Febr. 2022 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^14b-3]: Fassung gemäss Ziff. I der V vom 11. Febr. 2015, in Kraft seit 1. Mai 2015 ([AS 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
 [^14b-4]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 [^14b-5]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).

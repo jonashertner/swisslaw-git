@@ -4,11 +4,11 @@ title: "Ordonnance du 19 juin 1995 sur la durée du travail et du repos des cond
 short: OTR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: fr
-version: 2022-01-01
+version: 2022-02-02
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20220202/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20220202-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220202/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20220101/fr"
 
 (Ordonnance sur les chauffeurs, OTR 1)
 
-du 19 juin 1995 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 juin 1995 (Etat le 2 février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -551,7 +551,7 @@ Le conducteur porte les inscriptions suivantes sur le disque d’enregistrement:
 
 **Utilisation du tachygraphe numérique**[^14b-1]
 
-<sup>1</sup> Le conducteur saisit le pays du début et de la fin de l’activité professionnelle dans le tachygraphe. Cette manipulation n’est pas nécessaire si le tachygraphe est relié à un service de positionnement reposant sur un système de navigation par satellite et enregistre automatiquement ces données.[^14b-2]
+<sup>1</sup> Le conducteur saisit le pays du début et de la fin de l’activité professionnelle dans le tachygraphe. Il saisit en outre, au début du prochain arrêt possible après le franchissement de la frontière nationale, le pays dans lequel il est entré. Ces manipulations ne sont pas nécessaires si le tachygraphe est relié à un service de positionnement reposant sur un système de navigation par satellite et enregistre automatiquement ces données.[^14b-2]
 
 <sup>2</sup> La carte du conducteur et celle du passager doivent rester insérées pendant toute la durée de l’activité professionnelle. En introduisant et en retirant la carte de conducteur, le conducteur doit répondre par oui ou par non aux ordres de saisie donnés par l’appareil.[^14b-3]
 
@@ -570,7 +570,7 @@ Le conducteur porte les inscriptions suivantes sur le disque d’enregistrement:
 <sup>8</sup> L’employeur délivre gratuitement au salarié le papier d’imprimante ainsi que les moyens auxiliaires nécessaires au déchargement des données de la carte de conducteur, et lui remet gratuitement, sur demande, une copie des feuilles imprimées ou des autres données.
 
 [^14b-1]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14b-2]: Nouvelle teneur selon le ch. I de l’O du 11 fév. 2015, en vigueur depuis le 1<sup>er</sup> mai 2015 ([RO 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
+[^14b-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 2 fév. 2022 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^14b-3]: Nouvelle teneur selon le ch. I de l’O du 11 fév. 2015, en vigueur depuis le 1<sup>er</sup> mai 2015 ([RO 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
 [^14b-4]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 [^14b-5]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
