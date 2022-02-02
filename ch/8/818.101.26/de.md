@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2022-01-31
+version: 2022-02-03
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220131/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220131-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220131/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220203/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220203-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220203/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220131/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 31. Januar 2022)
+vom 23. Juni 2021 (Stand am 3. Februar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -148,63 +148,21 @@ Sozialmedizinische Institutionen können nach Rücksprache mit der zuständigen 
 [^6-4]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 (Ausweitung der Pflicht zum Tragen einer Gesichtsmaske und der Zugangsbeschränkung auf Personen mit einem Zertifikat) ([AS 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^6-5]: Aufgehoben durch Ziff. I der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), mit Wirkung vom 13. Sept. 2021 bis zum 31. März 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542); [2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
-## 3. Abschnitt: Massnahmen betreffend die Kontaktquarantäne und die Absonderung
+## 3. Abschnitt: Massnahmen betreffend die Absonderung****
 
-#### Art. 7
+[^sec3-1]
 
-**Anordnung der Kontaktquarantäne**[^7-1]
+[^sec3-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht), in Kraft seit 3. Febr. 2022 ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
-<sup>1</sup>
+#### Art. 7 und 8
 
-Die zuständige kantonale Behörde stellt Personen unter Kontaktquarantäne, die in einem der folgenden Zeiträume im selben Haushalt lebten oder in ähnlicher Weise regelmässigen und engen Kontakt hatten mit:
+[^78-1]
 
-- a. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt oder wahrscheinlich ist und die symptomatisch ist: in den letzten 48 Stunden vor dem Auftreten der Symptome und bis 5 Tage danach;
-- b. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt ist und die asymptomatisch ist: in den letzten 48 Stunden vor der Probenentnahme und bis zur Absonderung der Person.
-
-<sup>2</sup>
-
-Von der Kontaktquarantäne ausgenommen sind Personen, die:
-
-- a. nachweisen, dass sie gegen Covid-19 geimpft wurden: für die in Anhang 2 festgelegten Impfstoffe und festgelegte Dauer;
-- b. nachweisen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten: für die in Anhang 2 festgelegte Dauer;
-- c. eine Tätigkeit ausüben, die für die Gesellschaft von grosser Bedeutung ist und bei der ein akuter Personalmangel herrscht: während der Ausübung der beruflichen Tätigkeit und auf dem Arbeitsweg.
-
-<sup>3</sup>
-
-Die zuständige kantonale Behörde kann Personen oder Kategorien von Personen während der Ausübung der beruflichen Tätigkeit und auf dem Arbeitsweg von der Kontaktquarantäne ausnehmen, sofern sie in Betrieben tätig sind, die über ein Testkonzept verfügen, das gewährleistet, dass:
-
-- a. die Mitarbeitenden einfachen Zugang zu Tests haben und regelmässig über die Vorteile der Tests informiert werden;
-- b. die Mitarbeitenden sich mindestens einmal pro Woche testen lassen können;
-- c. die Voraussetzungen für die Übernahme der Kosten der Tests durch den Bund nach Anhang 6 Ziffern 3.1 und 3.2 der Covid-19-Verordnung 3 vom 19. Juni 2020[^7-2] erfüllt sind.
-
-<sup>4</sup> Die Personen nach den Absätzen 2 Buchstabe c und 3 müssen ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und den erforderlichen Abstand zu anderen Personen einhalten. Sie müssen sich ausserhalb der beruflichen Tätigkeit und des Arbeitswegs an die Kontaktquarantäne halten.
-
-<sup>5</sup>
-
-Die zuständige kantonale Behörde kann in begründeten Fällen für bestimmte Personen oder Kategorien von Personen:
-
-- a. weitere Ausnahmen von der Kontaktquarantäne bewilligen, Erleichterungen gewähren oder die Kontaktquarantäne vorzeitig aufheben;
-- b. eine längere Dauer der Kontaktquarantäne anordnen;
-- c. eine Kontaktquarantäne vorsehen, obwohl die Voraussetzungen nach Absatz 1 nicht erfüllt oder die Voraussetzungen nach den Absätzen 2 Buchstabe c oder 3 erfüllt sind.
-
-<sup>6</sup> Sie informiert das BAG über Massnahmen gegenüber Kategorien von Personen nach Absatz 5.
-
-[^7-1]: Fassung gemäss Ziff. I der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung), in Kraft seit 13. Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
-[^7-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-
-#### Art. 8
-
-**Dauer der Kontaktquarantäne**[^8-1]
-
-<sup>1</sup> Die Kontaktquarantäne dauert 5 Tage ab dem Zeitpunkt des letzten engen Kontakts mit der Person nach Artikel 7 Absatz 1.
-
-<sup>2</sup> Anderslautende Anordnungen der zuständigen kantonalen Behörde nach Artikel 7 Absatz 5 bleiben vorbehalten.
-
-[^8-1]: Fassung gemäss Ziff. I der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung), in Kraft seit 13. Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^78-1]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht), mit Wirkung seit 3. Febr. 2022 ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
 #### Art. 9
 
-**Absonderung**[^9-1]
+**…[^9-2]**[^9-1]
 
 <sup>1</sup> Die zuständige kantonale Behörde ordnet bei Personen, die an Covid-19 erkrankt sind oder sich mit Sars-CoV-2 angesteckt haben, eine Absonderung von 5 Tagen an.
 
@@ -234,6 +192,7 @@ Die zuständige kantonale Behörde kann Personen oder Kategorien von Personen w�
 <sup>6</sup> Personen, die nach Absatz 5 von der Absonderung ausgenommen sind, müssen ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und den erforderlichen Abstand zu anderen Personen einhalten. Sie müssen sich ausserhalb der beruflichen Tätigkeit und des Arbeitswegs an die Absonderung halten.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung), in Kraft seit 13. Jan. 2022 ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^9-2]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht), mit Wirkung seit 3. Febr. 2022 ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
 ## 4. Abschnitt: Massnahmen betreffend öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen
 
@@ -552,23 +511,26 @@ In Innenräumen, einschliesslich Fahrzeugen, in denen sich mehr als eine Person 
 - a. Tätigkeiten ausüben, bei denen aus Sicherheitsgründen oder aufgrund der Art der Tätigkeit keine Maske getragen werden kann; oder
 - b. nach Artikel 6 Absatz 2 Buchstaben b, c, e und f keine Gesichtsmaske tragen müssen.
 
-<sup>3</sup> Die Arbeitgeber sehen weitere Massnahmen nach dem STOP-Prinzip (Substitution, technische Massnahmen, organisatorische Massnahmen, persönliche Schutzausrüstung) vor, namentlich die physische Trennung, getrennte Teams, regelmässiges Lüften oder das Tragen von Gesichtsmasken im Freien.
+<sup>3</sup> Die Arbeitgeber sehen weitere Massnahmen nach dem STOP-Prinzip (Substitution, technische Massnahmen, organisatorische Massnahmen, persönliche Schutzausrüstung) vor, namentlich die Möglichkeit, die Arbeitsverpflichtungen von zu Hause aus zu erfüllen, die physische Trennung, getrennte Teams, regelmässiges Lüften oder das Tragen von Gesichtsmasken im Freien.[^25-2]
 
 <sup>4</sup>
 
 Sie sind unter den folgenden Voraussetzungen berechtigt, zu überprüfen, ob ihre Arbeitnehmerinnen und Arbeitnehmer über ein Impf-, Genesungs- oder Testzertifikat verfügen:
 
-- a. Die Überprüfung dient einzig der Festlegung von angemessenen Schutzmassnahmen oder der Umsetzung des Testkonzepts nach Artikel 7 Absatz 3.
+- a.[^25-3] Die Überprüfung dient einzig der Festlegung von angemessenen Schutzmassnahmen.
 - b. Das Ergebnis der Überprüfung wird nicht für andere Zwecke verwendet.
 - c. Die Überprüfung und die daraus abgeleiteten Massnahmen werden schriftlich festgehalten.
 - d. Die Arbeitnehmerinnen und Arbeitnehmer oder deren Vertretung werden vorgängig angehört.
 
-<sup>5</sup> Die Arbeitgeber sind verpflichtet sicherzustellen, dass die Arbeitnehmerinnen und Arbeitnehmer ihre Arbeitsverpflichtungen von zu Hause aus erfüllen, wo dies aufgrund der Art der Aktivität möglich und mit verhältnismässigem Aufwand umsetzbar ist. Sie treffen die geeigneten organisatorischen und technischen Massnahmen.
+<sup>5</sup> …[^25-4]
 
-<sup>6</sup> Für den Schutz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer gilt zudem Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^25-2].
+<sup>6</sup> Für den Schutz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer gilt zudem Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^25-5].
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022, Abs. 5 in Kraft bis zum 28. Febr. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^25-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^25-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht), in Kraft seit 3. Febr. 2022 ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^25-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht), in Kraft seit 3. Febr. 2022 ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^25-4]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht), mit Wirkung seit 3. Febr. 2022 ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^25-5]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -662,6 +624,14 @@ Bewilligungen für Pilotprojekte, die gestützt auf Artikel 6*b*<sup>quater</sup
 [^32a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Fassung gemäss Ziff. I der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^32a-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
+#### Art. 32b
+
+**Übergangsbestimmung zur Änderung vom 2. Februar 2022**[^32b-1]
+
+Für Personen, die beim Inkrafttreten der Änderung vom 2. Februar 2022 unter Quarantäne gestellt sind, ist die Quarantäne auf den Zeitpunkt des Inkrafttretens dieser Änderung aufgehoben.
+
+[^32b-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht), in Kraft seit 3. Febr. 2022 ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+
 #### Art. 33
 
 **Inkrafttreten und Geltungsdauer**
@@ -726,17 +696,17 @@ Das Schutzkonzept enthält Massnahmen in Bezug auf:
 
 Anhang 2*[^t-2]*
 
-(Art. 6 Abs. 5 und 6, 7 Abs. 2 sowie 29)
+(Art. 6 Abs. 5 und 6 sowie Art. 29)
 
-## Vorgaben für die Ausnahmen von der Maskenpflicht und von der Kontaktquarantäne für geimpfte und genesene Personen
+## Vorgaben für die Ausnahmen von der Maskenpflicht für geimpfte und genesene Bewohnerinnen und Bewohner sozialmedizinischer Institutionen
 
-[^t-2]: Bereinigt gemäss Anhang Ziff. 4 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Ziff. II der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung) ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)) und Ziff. II Abs. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft seit 31. Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Bereinigt gemäss Anhang Ziff. 4 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II der V vom 12. Jan. 2022 (Kontaktquarantäne und Absonderung) ([AS 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)), Ziff. II Abs. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen) ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)) und Ziff. II der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht), in Kraft seit 3. Febr. 2022 ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
 ### 1 Geimpfte Personen
 
 - 1\.1
 
-  Als geimpfte Personen im Sinne dieser Verordnung gelten Personen, die mit einem Impfstoff geimpft wurden, der:
+  Als geimpfte Personen im Sinne von Artikel 6 Absatz 5 Buchstabe a gelten Personen, die mit einem Impfstoff geimpft wurden, der:
 
   - a. über eine Zulassung in der Schweiz verfügt und gemäss den Empfehlungen des BAG vollständig verimpft wurde;
   - b. über eine Zulassung der Europäischen Arzneimittelagentur für die Europäische Union verfügt und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
@@ -744,7 +714,6 @@ Anhang 2*[^t-2]*
   - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
 - 1\.2 Die Dauer, während der geimpfte Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. a) ausgenommen sind, beträgt 270 Tage ab vollständig erfolgter Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 270 Tage ab dem 22. Tag nach erfolgter Impfung.
-- 1\.3 Die Dauer, während der geimpfte Personen nach der Impfung von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. a) ausgenommen sind, beträgt 120 Tage ab vollständig erfolgter Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 120 Tage ab dem 22. Tag nach erfolgter Impfung.
 
 ### 2 Genesene Personen
 
@@ -755,7 +724,7 @@ Anhang 2*[^t-2]*
   - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2, eines Sars-CoV-2-Schnelltests zur Fachanwendung oder einer laborbasierten immunologischen Analyse auf Sars-CoV-2-Antigene: vom Ende der Absonderung bis zum 270. Tag ab Bestätigung der Ansteckung;
   - b. im Falle einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]: während der Dauer der Gültigkeit des entsprechenden Zertifikats.
 
-- 2\.2 Genesene Personen sind während folgender Zeitdauer von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. b) ausgenommen: vom 6. bis zum 120. Tag ab Bestätigung der Ansteckung durch eine molekularbiologische Analyse auf Sars-CoV-2, einen Sars-CoV-2-Schnelltest zur Fachanwendung oder eine laborbasierte immunologische Analyse auf Sars-CoV-2-Antigene.
+- 2\.2 …
 - [tab]
 
 [^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)

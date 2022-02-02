@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: fr
-version: 2022-01-31
+version: 2022-02-03
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220131/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220131-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220131/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220203/fr/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220203-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220203/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220131/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 23 juin 2021 (Etat le 31 janvier 2022)
+du 23 juin 2021 (Etat le 3 février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -133,7 +133,7 @@ Les personnes suivantes sont exemptées de l’obligation prévue à l’al. 1:
 - h.[^6-3] les personnes dans la zone réservée au public des manifestations lorsqu’elles consomment assises à leur place;
 - i.[^6-4] les personnes dans les installations et les établissements accessibles au public ou les manifestations auxquels l’accès est limité aux personnes disposant à la fois d’un certificat de vaccination ou de guérison et d’un certificat de test*.*
 
-<sup>3</sup> et <sup>4</sup> ...[^6-5]
+<sup>3</sup> et <sup>4</sup> …[^6-5]
 
 <sup>5</sup>
 
@@ -150,63 +150,21 @@ Les institutions médico-sociales peuvent, après consultation de l’autorité 
 [^6-4]: Introduite par le ch. I de l’O du 3 déc. 2021 (Extension de l’obligation de porter un masque facial et de la limitation des accès aux personnes disposant d’un certificat) ([RO 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^6-5]: Abrogés par le ch. I de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), avec effet du 13 sept. 2021 au 31 mars 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542); [2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
-## Section 3 Mesures de quarantaine-contact et d’isolement
+## Section 3 Mesures d’isolement****
 
-#### Art. 7
+[^sec3-1]
 
-**Ordre de quarantaine-contact**[^7-1]
+[^sec3-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), en vigueur depuis le 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
-<sup>1</sup>
+#### Art. 7 et 8
 
-L’autorité cantonale compétente met en quarantaine les personnes qui faisaient ménage commun ou ont eu des contacts réguliers et étroits comparables (quarantaine-contact) dans un des laps de temps suivants:
+[^78-1]
 
-- a. avec une personne dont l’infection au SARS-CoV-2 est confirmée ou probable et qui est symptomatique: les 48 heures précédant l’apparition des symptômes et les 5 jours qui suivent;
-- b. avec une personne dont l’infection au SARS-CoV-2 est confirmée et qui est asymptomatique: les 48 heures précédant le prélèvement de l’échantillon et jusqu’à l’isolement de la personne.
-
-<sup>2</sup>
-
-Sont exemptées de la quarantaine-contact les personnes:
-
-- a. qui peuvent prouver qu’elles ont été vaccinées contre le COVID-19: pour le vaccin et la durée fixés à l’annexe 2;
-- b. qui peuvent prouver qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries: pour la durée fixée à l’annexe 2;
-- c. dont l’activité revêt une grande importance pour la société, et ce dans un secteur marqué par une grave pénurie de personnel: pour se rendre au travail et exercer leur activité professionnelle.
-
-<sup>3</sup>
-
-L’autorité cantonale compétente peut exempter de la quarantaine-contact pour se rendre au travail et exercer leur activité professionnelle des personnes ou catégories de personnes, si elles travaillent dans des entreprises ayant un plan de dépistage qui garantit que:
-
-- a. le personnel peut se faire tester facilement et est informé régulièrement des avantages que le test procure;
-- b. le personnel peut se faire tester au minimum une fois par semaine;
-- c. les conditions pour la prise en charge des tests par la Confédération au sens de l’annexe 6, ch. 3.1 et 3.2, de l’ordonnance 3 COVID-19 du 19 juin 2020[^7-2] sont remplies.
-
-<sup>4</sup> Les personnes visées aux al. 2, let. c, et 3 doivent porter un masque facial et respecter la distance requise avec les autres personnes à l’extérieur de leur logement ou de leur lieu d’hébergement. Elles doivent respecter la quarantaine-contact en dehors de leur activité professionnelle et du trajet pour se rendre au travail.
-
-<sup>5</sup>
-
-L’autorité cantonale compétente peut, pour certaines personnes ou catégories de personne et dans des cas justifiés:
-
-- a. autoriser d’autres dérogations à la quarantaine-contact, décider d’autres allègements ou mettre fin à la quarantaine-contact de manière anticipée;
-- b. ordonner une période de quarantaine-contact plus longue;
-- c. prévoir une quarantaine-contact bien que les conditions prévues à l’al. 1 ne soient pas remplies ou que celles prévues aux al. 2, let. c, ou 3 le soient.
-
-<sup>6</sup> Elle informe l’OFSP des mesures prises pour certaines catégories de personnes en vertu de l’al. 5.
-
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 12 janv. 2022 (Quarantaine-contact et isolement), en vigueur depuis le 13 janv. 2022 ([RO 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
-[^7-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-
-#### Art. 8
-
-**Durée de la quarantaine-contact**[^8-1]
-
-<sup>1</sup> La quarantaine-contact dure 5 jours à compter du dernier jour où les personnes ont été en contact étroit avec une personne au sens de l’art. 7, al. 1.
-
-<sup>2</sup> Les ordres contraires de l’autorité cantonale compétente au sens de l’art. 7, al. 5, demeurent réservés.
-
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 12 janv. 2022 (Quarantaine-contact et isolement), en vigueur depuis le 13 janv. 2022 ([RO 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^78-1]: Abrogés par le ch. I de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), avec effet au 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
 #### Art. 9
 
-**Isolement**[^9-1]
+**…[^9-2]**[^9-1]
 
 <sup>1</sup> L’autorité cantonale compétente ordonne une période d’isolement de 5 jours pour les personnes atteintes du COVID-19 ou qui ont contracté le SARS-CoV-2.
 
@@ -236,6 +194,7 @@ L’autorité cantonale compétente peut exempter de l’isolement des personnes
 <sup>6</sup> Les personnes exemptées d’isolement au sens de l’al. 5 doivent porter un masque facial et respecter la distance requise avec les autres personnes à l’extérieur de leur logement ou de leur lieu d’hébergement. Elles doivent respecter l’isolement en dehors de leur activité professionnelle et du trajet pour se rendre au travail.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 12 janv. 2022 (Quarantaine-contact et isolement), en vigueur depuis le 13 janv. 2022 ([RO 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^9-2]: Abrogé par le ch. I de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), avec effet au 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
 ## Section 4 Mesures visant les installations et les établissements accessibles au public ainsi que les manifestations
 
@@ -555,23 +514,26 @@ Dans les espaces intérieurs, y compris les véhicules où se tiennent plus d’
 - a. exercent des activités pour lesquelles il est impossible de porter un masque pour des raisons de sécurité ou à cause de la nature de l’activité, ou qui
 - b. ne sont pas tenues de porter un masque facial en vertu de l’art. 6, al. 2, let. b, c, e et f.
 
-<sup>3</sup> L’employeur prend d’autres mesures en vertu du principe STOP (substitution, technique, organisation, personnel), notamment la mise en place de séparations physiques, la séparation des équipes, l’aération régulière ou le port d’un masque facial en plein air.
+<sup>3</sup> L’employeur prend d’autres mesures en vertu du principe STOP (substitution, technique, organisation, personnel), notamment la possibilité de remplir les obligations professionnelles depuis le domicile, la mise en place de séparations physiques, la séparation des équipes, l’aération régulière ou le port d’un masque facial en plein air.[^25-2]
 
 <sup>4</sup>
 
 Il est habilité à vérifier que son personnel dispose d’un certificat de vaccination, de guérison ou de test aux conditions suivantes:
 
-- a. la vérification permet de définir des mesures de protection appropriées ou de mettre en œuvre le plan de dépistage prévu à l’art. 7, al. 3;
+- a.[^25-3] la vérification permet uniquement de définir des mesures de protection appropriées;
 - b. le résultat de la vérification n’est pas utilisé à d’autres fins;
 - c. la vérification et les mesures qui en découlent sont consignées par écrit;
 - d. les employés ou leurs représentants sont consultés au préalable.
 
-<sup>5</sup> Lorsque la nature de l’activité le rend possible et réalisable sans efforts disproportionnés, l’employeur est tenu de garantir que les employés remplissent leurs obligations professionnelles depuis leur domicile. Il prend les mesures organisationnelles et techniques appropriées.
+<sup>5</sup> …[^25-4]
 
-<sup>6</sup> L’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^25-2] s’applique en sus à la protection des employés vulnérables.
+<sup>6</sup> L’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^25-5] s’applique en sus à la protection des employés vulnérables.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022, sous réserve de l’al. 5, en vigueur jusqu’au 28 fév. 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^25-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), en vigueur depuis le 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^25-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), en vigueur depuis le 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^25-4]: Abrogé par le ch. I de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), avec effet au 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^25-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -665,6 +627,14 @@ Les autorisations octroyées pour des projets pilotes en vertu de l’art. 6*b*<
 [^32a-1]: Introduit par l’annexe ch. 2 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^32a-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
+#### Art. 32b
+
+**Disposition transitoire de la modification du 2 février 2022**[^32b-1]
+
+Pour les personnes en quarantaine à l’entrée en vigueur de la modification du 2 février 2022, la quarantaine est levée avec effet à l’entrée en vigueur de ladite modification.
+
+[^32b-1]: Introduit par le ch. I de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), en vigueur depuis le 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+
 #### Art. 33
 
 **Entrée en vigueur et durée de validité**
@@ -727,17 +697,17 @@ Le plan de protection comprend des mesures concernant les points suivants:
 
 Annexe 2*[^t-2]*
 
-(art. 6, al. 5 et 6, 7, al. 2, et 29)
+(art. 6, al. 5 et 6, et 29)
 
-## Prescriptions concernant les exemptions de l’obligation de porter un masque et de la quarantaine-contact pour les personnes vaccinées et guéries
+## [Prescriptions concernant les exemptions de l’obligation de porter un masque pour les résidents vaccinés ou guéris d’une institution médico-sociale](https://www.fedlex.admin.ch/eli/cc/2021/379/fr)
 
-[^t-2]: Mise à jour par l’annexe ch. 4 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 12 janv. 2022 (Quarantaine-contact et isolement) ([RO 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)) et le ch. II al. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur depuis le 31 janv. 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Mise à jour par l’annexe ch. 4 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 12 janv. 2022 (Quarantaine-contact et isolement) ([RO 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)), le ch. II al. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle) ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)) et le ch. II de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), en vigueur depuis le 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
 ### 1 Personnes vaccinées
 
 - 1\.1
 
-  Sont considérées comme vaccinées au sens de la présente ordonnance les personnes ayant reçu un vaccin:
+  Sont considérées comme vaccinées au sens de l’art. 6, al. 5, let. a, les personnes ayant reçu un vaccin:
 
   - a. autorisé en Suisse et complètement administré, conformément aux recommandations de l’OFSP;
   - b. autorisé par l’Agence européenne des médicaments pour l’Union européenne et complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée;
@@ -745,7 +715,6 @@ Annexe 2*[^t-2]*
   - d. dont il peut être prouvé qu’il a la même composition qu’un vaccin autorisé au sens des let. a, b ou c, mais qui est mis en circulation par un preneur de licence sous un autre nom et qui a été complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée.
 
 - 1\.2 La durée pendant laquelle les résidents vaccinés des institutions médico-sociales sont exemptés de l’obligation de porter un masque (art. 6, al. 5, let. a) est de 270 jours à compter de la vaccination complète; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen, la durée est de 270 jours à compter du 22<sup>e</sup> jour suivant la vaccination.
-- 1\.3 La durée pendant laquelle les personnes vaccinées sont exemptées de la quarantaine-contact après la vaccination (art. 7, al. 2, let. a) est de 120 jours à compter de la vaccination complète; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen, la durée est de 120 jours à compter du 22<sup>e</sup> jour suivant la vaccination.
 
 ### 2 Personnes guéries
 
@@ -756,7 +725,7 @@ Annexe 2*[^t-2]*
   - a. dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2, d’un test rapide SARS-CoV-2 avec application par un professionnel ou d’une analyse immunologique en laboratoire des antigènes du SARS-CoV-2: de la fin de l’isolement jusqu’au 270<sup>e</sup> jour à compter de la confirmation de leur infection;
   - b. dans le cas d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex2-lvlu1-lvl2-1]: pendant la durée de validité du certificat correspondant.
 
-- 2\.2 Les personnes guéries sont exemptées de la quarantaine-contact (art. 7, al. 2, let. b) pendant la durée suivante: du 6<sup>e</sup> au 120<sup>e</sup> jour à compter de la confirmation de leur infection par une analyse de biologie moléculaire pour le SARS-CoV-2, un test rapide SARS-CoV-2 avec application par un professionnel ou une analyse immunologique en laboratoire des antigènes du SARS-CoV-2.
+- 2\.2 …
 
 [^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
@@ -768,7 +737,7 @@ Annexe 3
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Les mod. peuvent être consultées au [RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379).
 

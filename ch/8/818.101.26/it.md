@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2022-01-31
+version: 2022-02-03
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220131/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220131-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220131/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20220203/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20220203-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220203/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20220131/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 31 gennaio 2022) (Stato 31 gennaio 2022)
+del 23 giugno 2021 (Stato 3 febbraio 2022) (Stato 3 febbraio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -148,63 +148,21 @@ Sentita l’autorità cantonale competente, gli istituti medico-sociali possono 
 [^6-4]: Introdotta dal n. I dell’O del 3 dic. 2021 (Estensione dell’obbligo di portare una mascherina facciale e della limitazione dell’accesso a persone con un certificato ([RU 2021 813](https://fedlex.data.admin.ch/eli/oc/2021/813)). Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 25 gen. 2022 al 31 mar. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^6-5]: Abrogati dal n. I dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), con effetto dal 13 set. 2021 al 31 mar. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542); [2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 
-## Sezione 3: Provvedimenti concernenti la quarantena dei contatti e l’isolamento
+## Sezione 3: Provvedimenti concernenti l’isolamento****
 
-#### Art. 7
+[^sec3-1]
 
-**Ordine della quarantena dei contatti**[^7-1]
+[^sec3-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), in vigore dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
-<sup>1</sup>
+#### Art. 7 e 8
 
-L’autorità cantonale competente sottopone alla quarantena dei contatti le persone che in una delle circostanze temporali seguenti vivevano nella stessa economia domestica o hanno similmente avuto un contatto regolare e stretto con:
+[^78-1]
 
-- a. una persona il cui contagio con il SARS-CoV-2 è confermato o probabile e che è sintomatica: nelle 48 ore prima della comparsa dei sintomi e fino a cinque giorni dopo;
-- b. una persona il cui contagio con il SARS-CoV-2 è confermato e che è asintomatica: nelle 48 ore prima del prelievo del campione e fino all’isolamento della persona.
-
-<sup>2</sup>
-
-Sono esentate dalla quarantena dei contatti le persone che:
-
-- a. possono provare di essere state vaccinate contro il COVID-19: per i vaccini e il lasso di tempo stabiliti nell’allegato 2;
-- b. possono provare di essere state contagiate dal SARS-CoV-2 e sono considerate guarite: per il lasso di tempo stabilito nell’allegato 2;
-- c. svolgono un’attività che è di grande importanza per la società e per la quale vi è una grave mancanza di personale: durante l’esercizio dell’attività professionale e lungo il tragitto per andare al lavoro.
-
-<sup>3</sup>
-
-L’autorità cantonale competente può esentare dalla quarantena dei contatti durante l’esercizio dell’attività professionale e lungo il tragitto per andare al lavoro determinate persone o categorie di persone, purché lavorino in aziende che dispongono di un piano di test che garantisce che:
-
-- a. i collaboratori abbiano un accesso semplice ai test e siano informati regolarmente sui vantaggi dei test;
-- b. i collaboratori possano sottoporsi a un test almeno una volta alla settimana;
-- c. siano soddisfatte le condizioni per l’assunzione delle spese dei test da parte della Confederazione secondo l’allegato 6 numeri 3.1 e 3.2 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^7-2].
-
-<sup>4</sup> Al di fuori della loro abitazione o del loro alloggio, le persone di cui ai capoversi 2 lettera c e 3 devono portare una mascherina facciale e rispettare la distanza obbligatoria dalle altre persone. Al di fuori dell’attività professionale e del tragitto per andare al lavoro, devono attenersi alla quarantena dei contatti.
-
-<sup>5</sup>
-
-In casi motivati, per determinate persone o categorie di persone l’autorità cantonale competente può:
-
-- a. autorizzare altre deroghe alla quarantena dei contatti, concedere agevolazioni o revocare anticipatamente la quarantena dei contatti;
-- b. ordinare una quarantena dei contatti più lunga;
-- c. prevedere una quarantena dei contatti nonostante le condizioni di cui al capoverso 1 non siano soddisfatte o le condizioni di cui ai capoversi 2 lettera c o 3 siano soddisfatte.
-
-<sup>6</sup> Informa l’UFSP in merito ai provvedimenti adottati nei confronti di categorie di persone secondo il capoverso 5.
-
-[^7-1]: Nuovo testo giusta il n. I dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento), in vigore dal 13 gen. 2022 ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
-[^7-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-
-#### Art. 8
-
-**Durata della quarantena dei contatti**[^8-1]
-
-<sup>1</sup> La quarantena dei contatti dura cinque giorni a decorrere dall’ultimo contatto stretto avuto con una persona di cui all’articolo 7 capoverso 1.
-
-<sup>2</sup> Sono fatti salvi ordini diversi dell’autorità cantonale competente secondo l’articolo 7 capoverso 5.
-
-[^8-1]: Nuovo testo giusta il n. I dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento), in vigore dal 13 gen. 2022 ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^78-1]: Abrogati dal n. I dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), con effetto dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
 #### Art. 9
 
-**Isolamento**[^9-1]
+**... [^9-2]**[^9-1]
 
 <sup>1</sup> L’autorità cantonale competente ordina un isolamento di cinque giorni alle persone malate di COVID-19 o contagiate dal SARS-CoV-2.
 
@@ -234,6 +192,7 @@ L’autorità cantonale competente può esentare dall’isolamento durante l’e
 <sup>6</sup> Al di fuori della loro abitazione o del loro alloggio, le persone esentate dall’isolamento di cui al capoverso 5 devono portare una mascherina facciale e rispettare la distanza obbligatoria dalle altre persone. Al di fuori dell’attività professionale e del tragitto per andare al lavoro, devono attenersi all’isolamento.
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento), in vigore dal 13 gen. 2022 ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)).
+[^9-2]: Abrogata dal n. I dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), con effetto dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
 ## Sezione 4: Provvedimenti concernenti le strutture accessibili al pubblico e le manifestazioni
 
@@ -552,23 +511,26 @@ Nei luoghi chiusi, compresi i veicoli, in cui si trova più di una persona, ogni
 - a. svolgono attività durante le quali, per motivi di sicurezza o a causa della natura dell’attività, non può essere portata una mascherina; o
 - b. non devono portare una mascherina facciale secondo l’articolo 6 capoverso 2 lettere b, c, e ed f.
 
-<sup>3</sup> I datori di lavoro prendono ulteriori provvedimenti secondo il principio STOP (sostituzione, misure tecniche, misure organizzative, misure di protezione individuale), segnatamente la separazione fisica, squadre separate, la regolare aerazione o l’uso della mascherina all’aperto.
+<sup>3</sup> I datori di lavoro prendono ulteriori provvedimenti secondo il principio STOP (sostituzione, misure tecniche, misure organizzative, misure di protezione individuale), segnatamente la possibilità di adempiere da casa gli obblighi lavorativi, la separazione fisica, squadre separate, la regolare aerazione o l’uso della mascherina all’aperto.[^25-2]
 
 <sup>4</sup>
 
 Sono autorizzati a verificare se i loro lavoratori possiedono un certificato di vaccinazione, guarigione o test alle seguenti condizioni:
 
-- a. la verifica serve soltanto a stabilire misure di protezione opportune o all’attuazione del piano di test di cui all’articolo 7 capoverso 3;
+- a.[^25-3] la verifica serve soltanto a stabilire misure di protezione opportune;
 - b. il risultato della verifica non è utilizzato per altri scopi;
 - c. la verifica e i provvedimenti risultanti sono documentati per scritto;
 - d. sono sentiti preventivamente i lavoratori o i loro rappresentanti.
 
-<sup>5</sup> I datori di lavoro sono tenuti a garantire che i lavoratori adempiano da casa i loro obblighi lavorativi, qualora per la natura dell’attività ciò sia possibile e attuabile senza un onere sproporzionato. Adottano provvedimenti organizzativi e tecnici idonei a tal fine.
+<sup>5</sup> ... [^25-4]
 
-<sup>6</sup> Alla protezione dei lavoratori particolarmente a rischio si applica inoltre l’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^25-2].
+<sup>6</sup> Alla protezione dei lavoratori particolarmente a rischio si applica inoltre l’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^25-5].
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 25 gen. 2022 al 31 mar. 2022, ad eccezione del cpv. 5 in vigore fino al 28 feb. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^25-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^25-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), in vigore dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^25-3]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), in vigore dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^25-4]: Abrogato dal n. I dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), con effetto dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^25-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -662,6 +624,14 @@ Le autorizzazioni per progetti pilota rilasciate in virtù dell’articolo 6*b*<
 [^32a-1]: Introdotto dall’all. n. 2 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)). Nuovo testo giusta il n. I dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 25 gen. 2022 al 31 mar. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^32a-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
+#### Art. 32b
+
+**Disposizione transitoria della modifica del 2 febbraio 2022**[^32b-1]
+
+Le quarantene in corso all’entrata in vigore della modifica del 2 febbraio 2022 sono revocate al momento dell’entrata in vigore di tale modifica.
+
+[^32b-1]: Introdotto giusta il n. I dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), in vigore dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+
 #### Art. 33
 
 **Entrata in vigore**
@@ -720,23 +690,22 @@ Il piano di protezione prevede misure per quanto riguarda:
 - e. l’igiene, in particolare la messa a disposizione di disinfettanti, le pulizie periodiche, l’aerazione;
 - f. un eventuale obbligo per i lavoratori e per le altre persone che lavorano per la manifestazione che hanno contatti sul posto con i visitatori di portare una mascherina facciale;
 - g. la presenza di persone con un attestato secondo gli articoli 3*a* capoverso 4 o 32*a* capoverso 1, ad esempio l’obbligo per queste persone di portare una mascherina facciale o, in caso di compresenza di un attestato per l’esonero dall’obbligo di portare una mascherina facciale secondo l’articolo 5 capoverso 1 lettera b, prescrizioni per il rispetto della distanza obbligatoria.
-- [tab]
 
 [^annex1-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Allegato 2*[^t-2]*
 
-(art. 6 cpv. 5 e 6, 7 cpv. 2 nonché 29)
+(art. 6 cpv. 5 e 6 e 29)
 
-## Prescrizioni relative all’esenzione delle persone vaccinate o guarite dall’obbligo della mascherina e della quarantena dei contatti
+## Prescrizioni relative all’esenzione degli ospiti vaccinati o guariti di istituti medico-sociali dall’obbligo della mascherina
 
-[^t-2]: Aggiornato dall’all. n. 4 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento) ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)) e dal n. II cpv. 2 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 31 gen. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Aggiornato dall’all. n. 4 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 12 gen. 2022 (Quarantena dei contatti e isolamento) ([RU 2022 5](https://fedlex.data.admin.ch/eli/oc/2022/5)) e dal n. II cpv. 2 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)) e dal n. II dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), in vigore dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 
 ### 1 Persone vaccinate
 
 - 1\.1
 
-  Sono considerate persone vaccinate ai sensi della presente ordinanza le persone che sono state vaccinate con un vaccino:
+  Sono considerate persone vaccinate ai sensi dell’articolo 6 capoverso 5 lettera a le persone che sono state vaccinate con un vaccino:
 
   - a. omologato in Svizzera e che è stato interamente somministrato conformemente alle raccomandazioni dell’UFSP;
   - b. omologato dall’Agenzia europea per i medicinali per l’Unione europea e che è stato interamente somministrato conformemente alle prescrizioni o alle raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
@@ -745,7 +714,6 @@ Allegato 2*[^t-2]*
   - e. la presenza di persone con un attestato secondo l’articolo 3 capoverso 2<sup>bis</sup>, ad esempio l’obbligo per queste persone di portare una mascherina facciale o, in caso di compresenza di un attestato per l’esonero dall’obbligo di portare una mascherina facciale secondo l’articolo 5 capoverso 1 lettera b, prescrizioni per il rispetto della distanza obbligatoria.
 
 - 1\.2 Il lasso di tempo durante il quale gli ospiti vaccinati di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. a) è di 270 giorni a partire dalla vaccinazione completa; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen la durata è di 270 giorni a partire dal 22° giorno dalla vaccinazione.
-- 1\.3 Il lasso di tempo durante il quale le persone vaccinate sono esentate dall’obbligo della quarantena dei contatti dopo la vaccinazione (art. 7 cpv. 2 lett. a) è di 120 giorni a partire dal completamento della vaccinazione; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen la durata è di 120 giorni a partire dal 22° giorno dopo la vaccinazione.
 
 ### 2 Persone guarite
 
@@ -756,7 +724,7 @@ Allegato 2*[^t-2]*
   - a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2, di test rapido per il SARS-CoV-2 per uso professionale o di analisi immunologica di laboratorio degli antigeni SARS-CoV-2: dalla fine dell’isolamento al 270° giorno dalla conferma del contagio;
   - b. in caso di analisi per gli anticorpi contro il SARS-CoV-2 di cui all’articolo 16 capoverso 3 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl2-1] sui certificati COVID-19: per la durata di validità del relativo certificato.
 
-- 2\.2 Le persone guarite sono esentate dalla quarantena dei contatti (art. 7 cpv. 2 lett. b) dal 6° al 120° giorno dalla conferma del contagio mediante analisi di biologia molecolare per il rilevamento del SARS-CoV-2, test rapido per il SARS-CoV-2 per uso professionale o analisi immunologica di laboratorio degli antigeni SARS-CoV-2.
+- 2\.2 ...
 
 [^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
