@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-01-31
+version: 2022-02-03
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220131/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220131-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220131/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220203/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220203-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220203/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 31 January 2022)
+of 19 June 2020 (Status as of 3 February 2022)
 
 The Swiss Federal Council,
 
@@ -1032,7 +1032,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Annex No 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) and No II para. 1 of the O of 17 Dec. 2021 in force since 18 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Annex No 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II para. 1 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), No III 1 of the O of 2 Feb. 2022 (Lifting the Requirement for Contact Quarantine and to Work from Home), ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)) and No I of the O of 4 Feb. 2022, in force since 3 Feb. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1043,9 +1043,14 @@ Annex 6*[^t-8]*
   The Confederation shall pay the costs of molecular-biological analyses for Sars-CoV-2 in following cases only:
 
   - a. persons who have symptoms;
-  - b. persons who have been in close contact with an infected person as defined in Article 7 paragraph 1 of the COVID-19 Special Situation Ordinance of 23 June 2021[^annex6-lvlu1-lvl1-lvl11-1];
-  - c. persons who wish to leave contact quarantine early in accordance with Article 8 of the COVID-19 Special Situation Ordinance;
-  - d. ...
+  - b.
+
+    persons who have in any of the following periods lived in the same household as or in a similar way have had close contact with:
+
+    - 1\. a person whose infection with Sars-VoV-2 has been confirmed or is probable and who has symptoms: in the 48 hours prior to the appearance of symptoms and for 5 days thereafter,
+    - 2\. a person whose infection with Sars-VoV-2 has been confirmed but who is asymptomatic: in the 48 hours prior to the sample being taken and until the person went into isolation;
+
+  - c. and d. …
   - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test;
   - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
   - g. persons resident in Switzerland who work, study or train abroad where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering the foreign country concerned and no other authority will cover the costs;
@@ -1075,18 +1080,18 @@ Annex 6*[^t-8]*
 
     - 1\.
 
-      the following service providers under the HIA[^annex6-lvlu1-lvl1-lvl11-2]:
+      the following service providers under the HIA[^annex6-lvlu1-lvl1-lvl11-1]:
 
       - – doctors
       - – pharmacists
       - – hospitals
-      - – laboratories under Article 54 paragraph 3 of the Ordinance of 27 June 1995[^annex6-lvlu1-lvl1-lvl11-3] on Health Insurance (HIO) and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA
+      - – laboratories under Article 54 paragraph 3 of the Ordinance of 27 June 1995[^annex6-lvlu1-lvl1-lvl11-2] on Health Insurance (HIO) and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA
       - – care homes
       - – organisations that provide nursing services and other assistance at home,
 
     - 2\. test centres operated by or on behalf of a canton,
     - 3\. socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment,
-    - 4\. assistants as defined in the InvIA[^annex6-lvlu1-lvl1-lvl11-4];
+    - 4\. assistants as defined in the InvIA[^annex6-lvlu1-lvl1-lvl11-3];
 
   - b. when an analysis is conducted, by laboratories under Article 54 paragraph 3 HIO and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA.
 
@@ -1097,7 +1102,7 @@ Annex 6*[^t-8]*
   - a. for collecting a sample:
 
 <table>
-<tr><td>Service</td><td>Maximum amount</td></tr>
+<tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
 <tr><td>For supervising the taking of the sample by the person tested and assigning the sample to the person concerned</td><td>15 Fr.</td></tr>
 <tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA, and requesting the activation code generated by the Proximity Tracing System for the Coronavirus Sars-CoV-2 (PT System) when infection is detected and for issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
@@ -1122,10 +1127,9 @@ Annex 6*[^t-8]*
 <tr><td>– ordering processing, overheads and sampling material</td><td>5 Fr.</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl1-lvl11-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex6-lvlu1-lvl1-lvl11-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^annex6-lvlu1-lvl1-lvl11-3]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^annex6-lvlu1-lvl1-lvl11-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annex6-lvlu1-lvl1-lvl11-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex6-lvlu1-lvl1-lvl11-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 ### 1. 2Pooled molecular-biological analyses for Sars-CoV-2
 
@@ -1255,9 +1259,14 @@ Annex 6*[^t-8]*
   The Confederation shall pay the costs of immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard in the following cases only:
 
   - a. persons who have symptoms;
-  - b. persons who have been in close contact with an infected person as defined in Article 7 paragraph 1 of the COVID-19 Special Situation Ordinance;
-  - c. persons who wish to leave contact quarantine early in accordance with Article 8 of the COVID-19 Special Situation Ordinance;
-  - d. ...
+  - b.
+
+    persons who have in any of the following periods lived in the same household as or in a similar way have had close contact with:
+
+    - 1\. a person whose infection with Sars-VoV-2 has been confirmed or is probable and who has symptoms: in the 48 hours prior to the appearance of symptoms and for 5 days thereafter,
+    - 2\. a person whose infection with Sars-VoV-2 has been confirmed but who is asymptomatic: in the 48 hours prior to the sample being taken and until the person went into isolation;
+
+  - c. and d. …
   - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test;
   - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
   - g. persons resident in Switzerland who work, study or train abroad where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering the foreign country concerned and no other authority will cover the costs;

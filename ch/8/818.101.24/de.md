@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2022-01-31
+version: 2022-02-03
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220131/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220131-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220131/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220203/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220203-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220203/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220131/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 31. Januar 2022)
+vom 19. Juni 2020 (Stand am 3. Februar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -970,7 +970,7 @@ Anhang 6*[^t-8]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II Abs. 2 der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), Ziff. II der V vom 1. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Anhang Ziff. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) und Ziff. II Abs. 1 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II Abs. 2 der V vom 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), Ziff. II der V vom 1. Okt. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Anhang Ziff. 1 der V vom 3. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), Ziff. II Abs. 1 der V vom 17. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), Ziff. III 1 der V vom 2. Febr. 2022 (Aufhebung der Kontaktquarantäne und der Homeofficepflicht) ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)) und Ziff. I der V vom 4. Febr. 2022, in Kraft seit 3. Febr. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -981,9 +981,14 @@ Anhang 6*[^t-8]*
   Der Bund übernimmt die Kosten für molekularbiologische Analysen auf Sars-CoV-2 nur in folgenden Fällen:
 
   - a. bei Personen, die symptomatisch sind;
-  - b. bei Personen, die einen engen Kontakt im Sinne von Artikel 7 Absatz 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^annex6-lvlu1-lvl1-lvl11-1] hatten;
-  - c. bei Personen, die die Kontaktquarantäne nach Artikel 8 der Covid-19-Verordnung besondere Lage vorzeitig beenden möchten;
-  - d. …
+  - b.
+
+    bei Personen, die in einem der folgenden Zeiträume im selben Haushalt lebten oder in ähnlicher Weise regelmässigen und engen Kontakt hatten mit:
+
+    - 1\. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt oder wahrscheinlich ist und die symptomatisch ist: in den letzten 48 Stunden vor dem Auftreten der Symptome und bis 5 Tage danach,
+    - 2\. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt ist und die asymptomatisch ist: in den letzten 48 Stunden vor der Probenentnahme und bis zur Absonderung der Person;
+
+  - c. und d. …
   - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test;
   - f. bei Personen mit Wohnsitz im Ausland, die in der Schweiz arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Wohnsitzstaat eine Pflicht zum Vorlegen eines negativen molekularbiologischen Testergebnisses auf Sars-CoV-2 angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
   - g. bei Personen mit Wohnsitz in der Schweiz, die im Ausland arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Staat eine Pflicht zum Vorlegen eines negativen molekularbiologischen Testergebnisses auf Sars-CoV-2 angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
@@ -1013,18 +1018,18 @@ Anhang 6*[^t-8]*
 
     - 1\.
 
-      folgende Leistungserbringer nach dem KVG[^annex6-lvlu1-lvl1-lvl11-2]:
+      folgende Leistungserbringer nach dem KVG[^annex6-lvlu1-lvl1-lvl11-1]:
 
       - – Ärztinnen und Ärzte
       - – Apothekerinnen und Apotheker
       - – Spitäler
-      - – Laboratorien nach Artikel 54 Absatz 3 der Verordnung vom 27. Juni 1995[^annex6-lvlu1-lvl1-lvl11-3] über die Krankenversicherung (KVV) und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen
+      - – Laboratorien nach Artikel 54 Absatz 3 der Verordnung vom 27. Juni 1995[^annex6-lvlu1-lvl1-lvl11-2] über die Krankenversicherung (KVV) und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen
       - – Pflegeheime
       - – Organisationen der Krankenpflege und Hilfe zu Hause,
 
     - 2\. Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden,
     - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
-    - 4\. Assistenzpersonen nach dem IVG[^annex6-lvlu1-lvl1-lvl11-4];
+    - 4\. Assistenzpersonen nach dem IVG[^annex6-lvlu1-lvl1-lvl11-3];
 
   - b. bei der Analyse durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallabo-ratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
 
@@ -1060,10 +1065,9 @@ Anhang 6*[^t-8]*
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl1-lvl11-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex6-lvlu1-lvl1-lvl11-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^annex6-lvlu1-lvl1-lvl11-3]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^annex6-lvlu1-lvl1-lvl11-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annex6-lvlu1-lvl1-lvl11-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex6-lvlu1-lvl1-lvl11-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 ### 1.2 Gepoolte molekularbiologische Analysen auf Sars-CoV-2
 
@@ -1193,9 +1197,14 @@ Anhang 6*[^t-8]*
   Der Bund übernimmt die Kosten für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard nur in folgenden Fällen:
 
   - a. bei Personen, die symptomatisch sind;
-  - b. bei Personen, die einen engen Kontakt im Sinne von Artikel 7 Absatz 1 der Covid-19-Verordnung besondere Lage hatten;
-  - c. bei Personen, die die Kontaktquarantäne nach Artikel 8 der Covid-19-Verordnung besondere Lage vorzeitig beenden möchten;
-  - d. …
+  - b.
+
+    bei Personen, die in einem der folgenden Zeiträume im selben Haushalt lebten oder in ähnlicher Weise regelmässigen und engen Kontakt hatten mit:
+
+    - 1\. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt oder wahrscheinlich ist und die symptomatisch ist: in den letzten 48 Stunden vor dem Auftreten der Symptome und bis 5 Tage danach,
+    - 2\. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt ist und die asymptomatisch ist: in den letzten 48 Stunden vor der Probenentnahme und bis zur Absonderung der Person;
+
+  - c. und d. …
   - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test;
   - f. bei Personen mit Wohnsitz im Ausland, die in der Schweiz arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Wohnsitzstaat eine Pflicht zum Vorlegen eines negativen Ergebnisses einer immunologischen Analyse auf Sars-CoV-2-Antigene oder eines Sars-CoV-2-Schnelltests zur Fachanwendung angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
   - g. bei Personen mit Wohnsitz in der Schweiz, die im Ausland arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Staat eine Pflicht zum Vorlegen eines negativen Ergebnisses einer immunologischen Analyse auf Sars-CoV-2-Antigene oder eines Sars-CoV-2-Schnelltests zur Fachanwendung angeordnet ist und keine anderweitige Kostenübernahme vorliegt;

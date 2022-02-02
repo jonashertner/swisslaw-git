@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2022-01-31
+version: 2022-02-03
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220131/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220131-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220131/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220203/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220203-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220203/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220131/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 31 gennaio 2022) (Stato 31 gennaio 2022)
+del 19 giugno 2020 (Stato 3 febbraio 2022) (Stato 3 febbraio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -966,7 +966,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), dal n. II dell’O del 1° ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), dall’all. n. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) e dal n. II cpv. 1 dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), dal n. II dell’O del 1° ott. 2021 ([RU 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), dall’all. n. 1 dell’O del 3 nov. 2021 ([RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), dal n. II cpv. 1 dell’O del 17 dic. 2021 ([RU 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), dal n. III 1 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro) ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)) e dal n. I dell’O del 4 feb. 2022, in vigore dal 3 feb. 2022 ([RU 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -977,9 +977,14 @@ Allegato 6*[^t-8]*
   La Confederazione assume le spese per le analisi di biologia molecolare per il SARS-CoV-2 soltanto nei seguenti casi:
 
   - a. per le persone sintomatiche;
-  - b. per le persone che hanno avuto un contatto stretto ai sensi dell’articolo 7 capoverso 1 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl1-lvl11-1];
-  - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 8 dell’ordinanza COVID-19 situazione particolare;
-  - d. ...
+  - b.
+
+    per le persone che in una delle circostanze temporali seguenti vivevano nella stessa economia domestica o hanno similmente avuto un contatto regolare e stretto con:
+
+    - 1\. una persona il cui contagio con il SARS-CoV-2 è confermato o probabile e che è sintomatica: nelle 48 ore prima della comparsa dei sintomi e fino a cinque giorni dopo,
+    - 2\. una persona il cui contagio con il SARS-CoV-2 è confermato e che è asintomatica: nelle 48 ore prima del prelievo del campione e fino all’isolamento della persona;
+
+  - [tab] c. e d. ...
   - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test;
   - f. per le persone domiciliate all’estero che lavorano o seguono una formazione in Svizzera, se per entrare nello Stato estero di residenza è richiesto il risultato negativo di un’analisi di biologia molecolare per il SARS-CoV-2 e i costi non sono assunti in altro modo;
   - g. per le persone domiciliate in Svizzera che lavorano o seguono una formazione all’estero, se per entrare nello Stato estero è richiesto il risultato negativo di un’analisi di biologia molecolare per il SARS-CoV-2 e i costi non sono assunti in altro modo;
@@ -1009,18 +1014,18 @@ Allegato 6*[^t-8]*
 
     - 1\.
 
-      dai seguenti fornitori di prestazioni secondo la LAMal[^annex6-lvlu1-lvl1-lvl11-2]:
+      dai seguenti fornitori di prestazioni secondo la LAMal[^annex6-lvlu1-lvl1-lvl11-1]:
 
       - – medici
       - – farmacisti
       - – ospedali
-      - – laboratori di cui all’articolo 54 capoverso 3 dell’ordinanza del 27 giugno 1995[^annex6-lvlu1-lvl1-lvl11-3] sull’assicurazione malattie (OAMal) e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp
+      - – laboratori di cui all’articolo 54 capoverso 3 dell’ordinanza del 27 giugno 1995[^annex6-lvlu1-lvl1-lvl11-2] sull’assicurazione malattie (OAMal) e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp
       - – case di cura
       - – organizzazioni di cure e d’aiuto a domicilio,
 
     - 2\. da centri di test gestiti dal Cantone o su suo incarico,
     - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
-    - 4\. da assistenti secondo la LAI[^annex6-lvlu1-lvl1-lvl11-4];
+    - 4\. da assistenti secondo la LAI[^annex6-lvlu1-lvl1-lvl11-3];
 
   - b. per l’analisi, da laboratori di cui all’articolo 54 capoverso 3 OAMal e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp.
 
@@ -1058,10 +1063,9 @@ Allegato 6*[^t-8]*
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>5 fr.</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl1-lvl11-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex6-lvlu1-lvl1-lvl11-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^annex6-lvlu1-lvl1-lvl11-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^annex6-lvlu1-lvl1-lvl11-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annex6-lvlu1-lvl1-lvl11-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex6-lvlu1-lvl1-lvl11-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 ### 1.2 Analisi di biologia molecolare aggregate per il SARS-CoV-2
 
@@ -1191,9 +1195,14 @@ Allegato 6*[^t-8]*
   La Confederazione assume le spese per le analisi immunologiche degli antigeni SARS-CoV-2 e per i test rapidi SARS-CoV-2 per uso professionale nei seguenti casi:
 
   - a. per le persone sintomatiche;
-  - b. per le persone che hanno avuto un contatto stretto ai sensi dell’articolo 7 capoverso 1 dell’ordinanza COVID-19 situazione particolare;
-  - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 8 dell’ordinanza COVID-19 situazione particolare;
-  - d. ...
+  - b.
+
+    per le persone che in una delle circostanze temporali seguenti vivevano nella stessa economia domestica o hanno similmente avuto un contatto regolare e stretto con:
+
+    - 1\. una persona il cui contagio con il SARS-CoV-2 è confermato o probabile e che è sintomatica: nelle 48 ore prima della comparsa dei sintomi e fino a cinque giorni dopo,
+    - 2\. una persona il cui contagio con il SARS-CoV-2 è confermato e che è asintomatica: nelle 48 ore prima del prelievo del campione e fino all’isolamento della persona;
+
+  - [tab] c. e d. ...
   - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test;
   - f. per le persone domiciliate all’estero che lavorano o seguono una formazione in Svizzera, se per entrare nello Stato estero di residenza è richiesto il risultato negativo di un’analisi immunologica degli antigeni SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale e i costi non sono assunti in altro modo;
   - g. per le persone domiciliate in Svizzera che lavorano o seguono una formazione all’estero, se per entrare nello Stato estero è richiesto il risultato negativo di un’analisi immunologica degli antigeni SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale e i costi non sono assunti in altro modo;
@@ -1555,6 +1564,7 @@ Allegato 6*[^t-8]*
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
 <tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
 <tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>255 fr.</td></tr>
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>

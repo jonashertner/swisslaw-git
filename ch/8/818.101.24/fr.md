@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2022-01-31
+version: 2022-02-03
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220131/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220131-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220131/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220203/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220203-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220203/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220131/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 31 janvier 2022)
+du 19 juin 2020 (Etat le 3 février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -81,7 +81,7 @@ Par pays ou région à risque, on entend notamment tout pays ou toute région o�
 Se voient refuser l’entrée les personnes suivantes qui souhaitent entrer en Suisse pour un séjour non soumis à autorisation d’une durée de trois mois au plus sans avoir pour but d’exercer une activité lucrative (art. 10 de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^4-2]):
 
 - a. les étrangers en provenance d’un pays à risque ou d’une région à risque qui souhaitent entrer en Suisse et qui ne peuvent se prévaloir de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (ALCP)[^4-3] ou de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (convention AELE)[^4-4];
-- b. et c.[^4-5] ... .[^4-6]
+- b. et c.[^4-5] … .[^4-6]
 
 <sup>2</sup>
 
@@ -745,7 +745,7 @@ Les tests rapides SARS-CoV-2 avec application par un professionnel autorisés en
 
 <sup>2</sup> Elle a effet jusqu’au 13 septembre 2020.[^29-1]
 
-<sup>3</sup> ...[^29-2]
+<sup>3</sup> …[^29-2]
 
 <sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2021, sous réserve de l’al. 5.[^29-3]
 
@@ -1022,7 +1022,7 @@ Annexe 6*[^t-8]*
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), l’erratum du 23 juin 2021 ([RO 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II al. 2 de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), le ch. II de l’O du 1<sup>er</sup> oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), l’annexe ch. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)) et le ch. II al. 1 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), l’erratum du 23 juin 2021 ([RO 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II al. 2 de l’O du 25 août 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), le ch. II de l’O du 1<sup>er</sup> oct. 2021 ([RO 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), l’annexe ch. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), le ch. II al. 1 de l’O du 17 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), le ch. III 1 de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile) ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)) et le ch. I de l’O du 4 fév. 2022, en vigueur depuis le 3 fév. 2022 ([RO 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)).
 
 ### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
@@ -1033,9 +1033,14 @@ Annexe 6*[^t-8]*
   La Confédération ne prend en charge les coûts des analyses de biologie moléculaire pour le SARS-CoV-2 que dans les cas suivants:
 
   - a. pour les personnes symptomatiques;
-  - b. pour les personnes qui ont eu un contact étroit au sens de l’art. 7, al. 1, de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^annex6-lvlu1-lvl1-lvl11-1];
-  - c. pour les personnes souhaitant mettre fin de manière anticipée à une quarantaine-contact en vertu de l’art. 8 de l’ordonnance COVID-19 situation particulière;
-  - d. ...
+  - b.
+
+    pour les personnes qui faisaient ménage commun ou ont eu des contacts réguliers et étroits comparables dans un des laps de temps suivants:
+
+    - 1\. avec une personne dont l’infection au SARS-CoV-2 est confirmée ou probable et qui est symptomatique: les 48 heures précédant l’apparition des symptômes et les 5 jours qui suivent,
+    - 2\. avec une personne dont l’infection au SARS-CoV-2 est confirmée et qui est asymptomatique: les 48 heures précédant le prélèvement de l’échantillon et jusqu’à l’isolement de la personne;
+
+  - c et d. …
   - e. pour les personnes qui reçoivent une notification de l’application SwissCovid selon laquelle elles ont potentiellement été en contact étroit avec une personne infectée au SARS-CoV-2;
   - f. pour les personnes domiciliées à l’étranger qui travaillent ou suivent une formation en Suisse, à condition qu’elles aient l’obligation, à l’entrée dans leur pays de domicile, de présenter un résultat négatif à un test de biologie moléculaire pour le SARS-CoV-2 et que les coûts ne soient pas pris en charge autrement;
   - g. pour les personnes domiciliées en Suisse qui travaillent ou suivent une formation à l’étranger, à condition qu’elles aient l’obligation, à l’entrée dans le pays étranger, de présenter un résultat négatif à un test de biologie moléculaire pour le SARS-CoV-2 et que les coûts ne soient pas pris en charge autrement;
@@ -1062,20 +1067,20 @@ Annexe 6*[^t-8]*
 
     - 1\.
 
-      les fournisseurs de prestations suivants visés par la LAMal[^annex6-lvlu1-lvl1-lvl11-2]:
+      les fournisseurs de prestations suivants visés par la LAMal[^annex6-lvlu1-lvl1-lvl11-1]:
 
       - – médecins
       - – pharmaciens
       - – hôpitaux
-      - – laboratoires visés à l’art. 54, al. 3, de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^annex6-lvlu1-lvl1-lvl11-3] et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
+      - – laboratoires visés à l’art. 54, al. 3, de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^annex6-lvlu1-lvl1-lvl11-2] et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
       - – établissements médico-sociaux
       - – organisations de soins et d’aide à domicile,
 
     - 2\. les centres de tests exploités par le canton ou sur son mandat,
     - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
-    - 4\. les assistants au sens de la LAI[^annex6-lvlu1-lvl1-lvl11-4];
+    - 4\. les assistants au sens de la LAI[^annex6-lvlu1-lvl1-lvl11-3];
 
-- b. pour l’analyse par les laboratoires visés à l’art. 54, al. 3, OAMal[^annex6-lvlu1-lvl1-lvl11-5] et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
+- b. pour l’analyse par les laboratoires visés à l’art. 54, al. 3, OAMal[^annex6-lvlu1-lvl1-lvl11-4] et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
 - 1\.1.3
 
   Elle prend en charge au maximum 153,50 francs pour les analyses de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
@@ -1109,11 +1114,10 @@ Annexe 6*[^t-8]*
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl1-lvl11-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex6-lvlu1-lvl1-lvl11-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^annex6-lvlu1-lvl1-lvl11-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^annex6-lvlu1-lvl1-lvl11-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^annex6-lvlu1-lvl1-lvl11-5]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex6-lvlu1-lvl1-lvl11-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annex6-lvlu1-lvl1-lvl11-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 ### 1.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
 
@@ -1243,9 +1247,14 @@ Annexe 6*[^t-8]*
   La Confédération prend en charge les coûts pour les analyses des antigènes du SARS-CoV-2 par immunologie et pour les tests rapides SARS-CoV-2 avec application par un professionnel dans les cas suivants:
 
   - a. pour les personnes symptomatiques;
-  - b. pour les personnes qui ont eu un contact étroit au sens de l’art. 7, al. 1, de l’ordonnance COVID-19 situation particulière;
-  - c. pour les personnes souhaitant mettre fin de manière anticipée à une quarantaine-contact en vertu de l’art. 8 de l’ordonnance COVID-19 situation particulière;
-  - d. ...
+  - b.
+
+    pour les personnes qui faisaient ménage commun ou ont eu des contacts réguliers et étroits comparables dans un des laps de temps suivants:
+
+    - 1\. avec une personne dont l’infection au SARS-CoV-2 est confirmée ou probable et qui est symptomatique: les 48 heures précédant l’apparition des symptômes et les 5 jours qui suivent,
+    - 2\. avec une personne dont l’infection au SARS-CoV-2 est confirmée et qui est asymptomatique: les 48 heures précédant le prélèvement de l’échantillon et jusqu’à l’isolement de la personne;
+
+  - c et d. …
   - e. pour les personnes qui reçoivent une notification de l’application SwissCovid selon laquelle elles ont potentiellement eu un contact étroit avec une personne infectée au SARS-CoV-2; la Confédération prend en charge les coûts pour un test unique;
   - f. pour les personnes domiciliées à l’étranger qui travaillent ou suivent une formation en Suisse, à condition qu’elles aient l’obligation, à l’entrée dans leur pays de domicile, de présenter un résultat négatif à une analyse des antigènes du SARS-CoV-2 par immunologie ou à un test rapide SARS-CoV-2 avec application par un professionnel et que les coûts ne soient pas pris en charge autrement;
   - g. pour les personnes domiciliées en Suisse qui travaillent ou suivent une formation à l’étranger, à condition qu’elles aient l’obligation, à l’entrée dans le pays étranger, de présenter un résultat négatif à une analyse des antigènes du SARS-CoV-2 par immunologie ou à un test rapide SARS-CoV-2 avec application par un professionnel et que les coûts ne soient pas pris en charge autrement;
@@ -1254,14 +1263,14 @@ Annexe 6*[^t-8]*
 
   - 2. au sens des ch. 1.7, 2.2 et 3.2;
   - i. pour un contrôle et une enquête d’entourage ordonnés par un médecin;
-  - j.[^annex6-lvlu1-lvl1-lvl14-1] ...
+  - j.[^annex6-lvlu1-lvl1-lvl14-1] …
   - k. pour les enfants de moins de 16 ans;
   - l. pour les personnes pouvant attester qu’elles ne peuvent pas se faire vacciner pour des motifs médicaux; l’invocation de raisons médicales doit pouvoir être attestée par un certificat délivré par un médecin titulaire d’une autorisation d’exercer sa profession sous sa propre responsabilité professionnelle au sens de la loi du 23 juin 2006 sur les professions médicales[^annex6-lvlu1-lvl1-lvl14-2];
   - m. pour les visiteurs des hôpitaux, des établissements médico-sociaux et des autres institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation;
   - n. pour les personnes qui ne remplissent pas les critères des let. a à m, si elles ont reçu une dose de vaccin mais qu’elles ne sont pas encore vaccinées conformément à l’annexe 1*a*, ch. 1, pendant 6 semaines à compter de l’administration du vaccin; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen pendant 22 jours;
   - o. pour toutes les personnes qui ne sont pas visées par les let. a à n.
 
-- 1\.4.2 ...
+- 1\.4.2 …
 - 1\.4.3
 
   Elle prend en charge les coûts uniquement si les prestations sont fournies par les fournisseurs de prestations suivants:
@@ -1455,7 +1464,7 @@ Annexe 6*[^t-8]*
     - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
     - 4\. les assistants visés par la LAI.
 
-- 2\.1.3 2.1.3 Elle prend en charge au maximum 30,50 francs pour un test rapide SARS-CoV-2 avec application par un professionnel. Ce montant comprend les prestations et les coûts suivants:
+- 2\.1.3 Elle prend en charge au maximum 30,50 francs pour un test rapide SARS-CoV-2 avec application par un professionnel. Ce montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><td>Prestation</td><td>Montant maximal</td></tr>
@@ -1552,7 +1561,7 @@ Annexe 6*[^t-8]*
   - c. lorsqu’une personne-contact est en quarantaine et qu’un dépistage ciblé et répétitif est effectué au moins une fois par semaine dans l’entreprise dans laquelle travaille la personne-contact;
   - d. …
 
-- 3\.1.2 ...
+- 3\.1.2 …
 - 3\.1.3
 
   Elle prend en charge les coûts pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le ch. 3.1.1 uniquement si les prestations sont fournies par les fournisseurs de prestations suivants:
