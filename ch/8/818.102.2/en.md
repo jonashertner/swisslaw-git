@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-01-31
+version: 2022-02-03
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220131/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220131-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220131/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220203/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220203-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220203/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 31 January 2022)
+of 4 June 2021 (Status as of 3 February 2022)
 
 The Swiss Federal Council,
 
@@ -131,15 +131,17 @@ The cantons and the Surgeon General shall notify the FOITT of the designated iss
 
 <sup>1</sup>
 
-The cantons and the Surgeon General shall ensure that in the following cases requests for a COVID-19 vaccination certificate or COVID-19 recovery certificate pursuant to Article 16 paragraph 1 are processed, even if an issuer under Article 6 has no access to the relevant medical history or primary documentation for this purpose:[^7-2]
+The cantons and the Surgeon General shall ensure that in the following cases requests for a COVID-19 vaccination certificate or COVID-19 recovery certificate pursuant to Article 16 paragraph 1 letter a are processed, even if an issuer under Article 6 has no access to the relevant medical history or primary documentation for this purpose:
 
-- a. if the person received the vaccination or recovered from the illness in Switzerland;
+- a. where the person concerned received the vaccination or recovered from an infection confirmed by a molecular-biological analysis in Switzerland;
 - b.
 
-  if the person received the vaccination or recovered from the illness abroad:
+  where any person in the following groups received the vaccination or recovered from an infection confirmed by a molecular-biological analysis illness abroad:
 
-  - 1\. in the case of Swiss citizens,
-  - 2\. in the case of foreign nationals who are entitled to enter Switzerland under Article 4 of the COVID-19 Ordinance of 19 June 2020[^7-3] and can credibly demonstrate that they are planning to enter Switzerland or are already in Switzerland.[^7-4]
+  - 1\. Swiss citizens,
+  - 2\. foreign nationals who are entitled to enter Switzerland under Article 4 of the COVID-19 Ordinance of 19 June 2020[^7-2] and can credibly demonstrate that they are planning to enter Switzerland or are already in Switzerland.[^7-3]
+
+<sup>1bis</sup> The cantons shall ensure that requests to be issued with a COVID-19 Recovery Certificate pursuant to Article 16 paragraph 1 letter b by persons who have received an isolation order based on a Sars-CoV-2 rapid test for specialist use pursuant to Article 24*a* paragraph 1 of the Covid-19-Verordnung 3 are processed.[^7-4]
 
 <sup>2</sup> They shall designate at least one issuer for dealing with such requests.
 
@@ -162,9 +164,9 @@ If there is any doubt as to whether the documents submitted are genuine, the iss
 <sup>5</sup> If there is still doubt as to whether the documents submitted are genuine despite taking the foregoing measures, the issuer may decline the request. In such an event, the requesting person is not entitled to a refund of any fee paid.[^7-8]
 
 [^7-1]: Amended by Annex No 3 of the O of 17 Dec. 2021, in force since 17 Jan. 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
-[^7-2]: Amended by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^7-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^7-4]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-3]: Amended by No I of the O of 2 Feb. 2022, in force since 3 Feb. 2022 ([AS 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
+[^7-4]: Inserted by No I of the O of 2 Feb. 2022, in force since 3 Feb. 2022 ([AS 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
 [^7-5]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 [^7-6]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^7-7]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
@@ -192,7 +194,7 @@ The cantons shall ensure that in the following cases requests for a COVID-19 tes
 
 **Automated procedure for issuing COVID-19 recovery certificates**
 
-<sup>1</sup> For the purpose of issuing COVID-19 recovery certificates, the cantons may use an automated procedure to retrieve information on the requesting person's recovery from the information system in accordance with Article 60 of the Epidemics Act of 28 September 2012[^8-1] and compare it with the information in the request.
+<sup>1</sup> For the purpose of issuing COVID-19 recovery certificates pursuant to Article 16 paragraph 1 letter a, the cantons may use an automated procedure to retrieve information on the requesting person's recovery from the information system in accordance with Article 60 of the Epidemics Act of 28 September 2012[^8-1] and compare it with the information in the request.[^8-2]
 
 <sup>2</sup> For this purpose, they may provide the requesting person with an electronic request form supplied by the Confederation.
 
@@ -203,6 +205,7 @@ The cantons shall ensure that in the following cases requests for a COVID-19 tes
 <sup>5</sup> The cantons shall ensure that the requesting person may also submit the request in hard copy or in any other suitable form.
 
 [^8-1]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^8-2]: Amended by No I of the O of 2 Feb. 2022, in force since 3 Feb. 2022 ([AS 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
 
 #### Art. 9
 
@@ -387,36 +390,37 @@ A COVID-19 recovery certificate shall be issued when a person has been infected 
 
 <sup>2</sup>
 
-A request for the issuance of a COVID-19 certificate that cannot be processed under the automated procedure for issuing COVID-19 recovery certificates pursuant to Article 8 must be accompanied by the following documents:
+A request to be issued with a COVID-19 certificate pursuant to paragraph 1 letter a for an infection from which the person concerned has recovered while abroad must be accompanied by the following documents:[^16-3]
 
-- a.
+- a.[^16-4]
 
-  proof of a positive analysis for Sars-CoV-2 in accordance with paragraph 1 that includes the following information:[^16-3]
+  proof of a positive molecular-biological analysis for Sars-CoV-2 in accordance with paragraph 1 that includes the following information:
 
   - 1\. the requesting person's surname, first name and date of birth,
   - 2\. the date and time at which the sample was taken,
   - 3\. the name and address of the test centre or the institution where the test was carried out;
 
-- b. confirmation of termination of isolation or a medical certificate confirming recovery from a competent authority with official duties, including the name and address of this authority.[^16-4]
+- b. confirmation of termination of isolation or a medical certificate confirming recovery from a competent authority with official duties, including the name and address of this authority.[^16-5]
 
 <sup>3</sup>
 
 A COVID-19 recovery certificate shall be issued to persons who have tested positive for Sars-CoV-2 antibodies provided:
 
-- a. the sample was taken in Switzerland by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 of 19 June 2020[^16-5];
+- a. the sample was taken in Switzerland by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 of 19 June 2020[^16-6];
 - b. the analysis was carried out in Switzerland by a facility specified in Annex 6 number 1.3.2 letter b COVID-19 Ordinance 3;
 - c. the sample was taken after 15 November 2021;
-- d. a clearly positive serology was detected by analysis using a CE-marked certified immunoassay in the form of a quantifiable result.[^16-6]
+- d. a clearly positive serology was detected by analysis using a CE-marked certified immunoassay in the form of a quantifiable result.[^16-7]
 
-<sup>4</sup> COVID-19 recovery certificates pursuant to paragraph 3 may only be issued by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 or by a facility specified in Annex 6 number 1.3.2 letter b of the COVID-19 Ordinance 3 that has been instructed by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 to carry out the analysis.[^16-7]
+<sup>4</sup> COVID-19 recovery certificates pursuant to paragraph 3 may only be issued by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 or by a facility specified in Annex 6 number 1.3.2 letter b of the COVID-19 Ordinance 3 that has been instructed by a facility specified in Annex 6 number 1.3.2 letter a of the COVID-19 Ordinance 3 to carry out the analysis.[^16-8]
 
 [^16-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^16-2]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
-[^16-3]: Amended by No I of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
-[^16-4]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
-[^16-5]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^16-6]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-3]: Amended by No I of the O of 2 Feb. 2022, in force since 3 Feb. 2022 ([AS 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
+[^16-4]: Amended by No I of the O of 2 Feb. 2022, in force since 3 Feb. 2022 ([AS 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
+[^16-5]: Inserted by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^16-6]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^16-7]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-8]: Inserted by No I of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 17
 
@@ -787,91 +791,140 @@ Annex 2*[^t-2]*
 
 ## Special provisions concerning COVID-19 vaccination certificates
 
-[^t-2]: Revised by No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), by No II para. 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), by No I of the FDHA O of 15 Nov. 2021 ([AS 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), by Annex No 3 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), by No I of the FDHA O of 5 Jan. 2022, in force since 6 Jan. 2022 ([AS 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)) and by No 4 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force since 31 Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Amended by No I para. 1 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines), in force since 3 Feb. 2022 ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)).
 
 ### 1 Start of validity and maximum duration
 
 - 1\.1
 
-  Start of validity:
+  COVID-19 vaccination certificates are valid for 270 days:
 
-  - a. for double-dose vaccination in accordance with numbers 3.2, 3.4 and 3.5: on the day of administration of the second dose;
-  - b. for single-dose vaccination in accordance with numbers 3.1 and 3.5: on the 22nd day after administration of the dose;
-  - c. for a vaccination in accordance with the requirements of number 3.3: on the day of administration of a dose of a vaccine in accordance with numbers 3.1 and 3.2,
-  - d. in the case of additional doses: on the day the additional dose is administered.
+  - a. from the administration of the dose that completes the basic immunisation; or
+  - b. from the administration of a dose provided after basic immunisation is completed (booster vaccination).
 
-- 1\.2
+- 1\.2 In the case of basic immunisation with the Janssen COVID-19 vaccine, the period of validity begins on the 22 day after the single dose was administered.
 
-  Duration of validity:
+### 2 Information on the vaccine administered
 
-  - a. for a vaccination in accordance with number 1.1 letter a: 270 days from the date of administration of the final dose;
-  - b. for a vaccination in accordance with number 1.1 letter b: 270 days from the 22nd day after the first dose was administered;
-  - c. for a vaccination in accordance with number 1.1 letter d: 270 days..
+- 2\.1 Disease against which the vaccination was administered (COVID-19)
+- 2\.2 Vaccination/prophylaxis (type of vaccine/how it works)
+- 2\.3 Immunologic agent (name of vaccine/product name)
+- 2\.4 Holder of the vaccine authorisation or, if not indicated for vaccine doses administered abroad, information on the manufacturer
+- 2\.5 Number of vaccine doses administered in a series and the total number of doses administered
+- 2\.6 Date on which the final dose was administered
 
-### 2 Details of the vaccine administered
+### 3 Information on the level of vaccination
 
-- a. Disease against which the vaccination was administered (COVID-19)
-- b. Vaccination/prophylaxis (type of vaccine/how it works)
-- c. Immunologic agent (name of vaccine/product name)
-- d. Holder of the vaccine authorisation or, if not indicated for vaccine doses administered abroad, information on the manufacturer
-- e. Number of vaccine doses administered in a series and the total number of doses administered
-- f. Date on which the final dose was administered
+- 3\.1 General provisions
+- 3\.1.1
 
-### 3 Requirements for full vaccination
+  An indication of the level of vaccination is provided:
 
-- 3\.1 A person is regarded as fully vaccinated after receiving at least one dose of the Janssen Ad26.COV2.S/COVID-19 vaccine.
-- 3\.2
+  - a. in the case of full vaccination: by the codes set out in numbers 3.2–3.4, such as “3/3”;
+  - b. in the case of incomplete vaccination: according to the "A/B" system, where A stands for the number of vaccine doses received and B for the number of vaccine doses scheduled at the time of receiving the vaccine dose according to the vaccination programme concerned.
 
-  A person is regarded as fully vaccinated after receiving at least two doses of the following vaccines:
+- 3\.1.2
 
-  - a. BNT162b2 / Comirnaty / Tozinameran;
-  - b. mRNA-1273 / Spikevax / Moderna COVID-19 vaccine;
-  - c. AZD1222 / Vaxzevria / AstraZeneca COVID-19 vaccine;
-  - d. Sars-CoV-2 vaccine from the Sinopharm Beijing Institute of Biological Products (BIBP) Co., Ltd.;
-  - e. Coronavac (vaccine from Sinovac Life Sciences Co., Ltd);
-  - f. Bharat Biotech COVID-19 vaccine / Covaxin.
-  - g. Nuvaxovid / NXV-CoV2373 / Novavax.
-
-- 3\.3
-
-  A person is regarded as fully vaccinated after receiving one dose of a vaccine specified in number 3.2, provided the person has already been infected with Sars-CoV-2. The following requirements apply when establishing that the person has been infected with Sars-CoV-2:
+  A proven infection with Sars-CoV-2 occurring before a vaccine dose is administered for which a certificate is issued is considered equivalent to a vaccine dose. The following requirements apply to proof of infection:
 
   - a.
 
-    The finding that the person has been infected must be based on one of the following tests:
+    Proof of infection must be based on one of the following tests:
 
     - 1\. the positive result of a molecular-biological analysis for Sars-CoV‑2;
     - 2\. the positive result of a Sars-CoV-2 rapid test for specialist use pursuant to Article 24*a* paragraph 1 of the COVID-19 Ordinance 3 of 19 June 2020[^annex2-lvlu1-lvl3-1];
-    - 3\. a positive analysis for Sars-CoV-2 antibodies pursuant to Article 16 paragraph 3.
-    - 4\. the positive result of a laboratory immunological analysis for Sars-CoV-2 antigens.
+    - 3\. a positive analysis for Sars-CoV-2 antibodies pursuant to Article 16 paragraph 3..
 
-  - b. At least 28 days must have elapsed between taking the sample and administering the vaccine.
+  - b. In the cases specified in letter a numbers 1 and 2, at least 28 days must have elapsed between taking the sample and administering the vaccine.
 
-- 3\.4
+- 3\.1.3 Vaccine doses also count as booster vaccinations if they are administered to immunosuppressed persons outside the vaccination programmes in accordance with this Ordinance in order to achieve effective basic immunisation.
+- 3\.2 Single-dose vaccines
+- 3\.2.1 Number 3.2 applies to the following vaccine authorised by Swissmedic:
 
-  A person is regarded as fully vaccinated after receiving the following combination of vaccines:
+<table>
+<tr><th>Product name(s)</th><th>Manufacturer</th></tr>
+<tr><td>Janssen COVID-19 vaccine</td><td>Johnson&Johnson</td></tr>
+</table>
 
-  - a. BNT162b2 / Comirnaty / Tozinameran and mRNA-1273 / Spikevax / Moderna COVID-19 vaccine;
-  - b. AZD1222 / Vaxzevria / AstraZeneca COVID-19 vaccine and BNT162b2 / Comirnaty / Tozinameran;
-  - c. AZD1222 / Vaxzevria / AstraZeneca COVID-19 vaccine and mRNA-1273 / Spikevax / Moderna COVID-19 vaccine.
+- 3\.2.2
 
-- 3\.5
+  Indication of level of vaccination in the case of basic immunisation:
 
-  Vaccines that demonstrably have the same composition but have been placed on the market by the licence holder under a different name are deemed equivalent to the vaccines specified in numbers 3.1–3.4. Proof is considered to be provided for the following licensed vaccine products:
+  - a. basic immunisation with a single vaccine dose: “1/1”;
+  - b. basic immunisation on the continuation of a vaccination programme started with a different vaccine, for example in the case of contraindications: “2/2”.
 
-  - a.
+- 3\.2.3
 
-    Licensed products of AZD1222 / Vaxzevria / AstraZeneca COVID-19 vaccine:
+  Indication of level of vaccination in the case of booster vaccinations:
 
-    - – Covishield / ChAdOx1\_nCoV-19
-    - – COVID-19 vaccine recombinant (vaccine from the Fundação Instituto Oswaldo Cruz [FIOCRUZ])
-    - – R-Covi (vaccine from R-Pharma)
+  - a. booster vaccination following basic immunisation with a single vaccine dose (No 3.2.2 let. a): “2/1” (for further doses: “[2+X]/1”);
+  - b. booster vaccination following basic immunisation begun with a different vaccine (No 3.2.2 let. b): “3/3” (for further doses: “[3+X]/[3+X]”).
 
-  - b.
+- 3\.3 Two-dose vaccines
+- 3\.3.1 Number 3.3 applies to the following vaccines:
 
-    Licensed products of Nuvaxovid / NXV-CoV2373 / Novavax:
+<table>
+<tr><th>Product name(s)</th><th>Manufacturer</th></tr>
+<tr><td colspan="2">a. Vaccines authorised by Swissmedic:</td></tr>
+<tr><td>Comirnaty (BNT162b2)</td><td>Pfizer/BioNTech</td></tr>
+<tr><td>Spikevax (mRNA-1273)</td><td>Moderna</td></tr>
+<tr><td colspan="2">b. Vaccines authorised by the European Medicines Agency (EMA), but not by Swissmedic:</td></tr>
+<tr><td>Vaxzevria (ChAdOx1 nCoV-19)</td><td>AstraZeneca</td></tr>
+<tr><td>Nuvaxovid (NVX-CoV2373)</td><td>Novavax</td></tr>
+<tr><td colspan="2">c. Vaccines authorised in the WHO Emergency Use Listing, but not by Swissmedic or the EMA:</td></tr>
+<tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan /Sinopharm Beijing</td></tr>
+<tr><td>CoronaVac</td><td>Sinovac</td></tr>
+<tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
+</table>
 
-    - – NXV-CoV2373 / Covovax
+- 3\.3.2
+
+  Indication of level of vaccination in the case of basic immunisation:
+
+  - a. basic immunisation with two vaccine doses: “2/2”;
+  - b. basic immunisation through the combination of a single vaccine dose with an earlier infection with Sars-Cov-2 (No 3.1.2): “1/1”.
+
+- 3\.3.3
+
+  Indication of level of vaccination in the case of booster vaccinations:
+
+  - a. booster vaccination following basic immunisation with two vaccine doses (No 3.3.2 let. a): “3/3” (for further doses: “[3+X]/[3+X]”);
+  - b. booster vaccination following basic immunisation through the combination of a single vaccine dose with an earlier infection in accordance with No 3.3.2 let. b: “2/1” (for further doses: “[2+X]/1”).
+
+- 3\.4 Supplementing vaccinations with unrecognised vaccines
+- 3\.4.1 Number 3.4 applies to vaccinations with the following vaccines that do not meet the requirements of Article 13 paragraph 1, but which may be used to supplement a vaccine authorised in Switzerland:
+
+<table>
+<tr><th>Product name(s)</th><th>Manufacturer</th><th>Supplement with a vaccine authorised in Switzerland</th></tr>
+<tr><td>Sputnik light</td><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</td></tr>
+<tr><td>Sputnik V (Gam-COVID-Vac, rAd26-S, rAd5-S)</td><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</td></tr>
+<tr><td>KoviVac</td><td>Chumakov Center</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>QazVac (QazCovid-in)</td><td>Kazakhstan RIBSP</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>Medigen (MVC-COV1901)</td><td>Medigen Vaccine Biologics</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>SARS-CoV-2 Vaccine (KCONVAC)</td><td>Minhai Biotechnology</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>EpiVacCorona</td><td>VECTOR</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>SoberanaPlus (Plus CIGB-66)</td><td>Center for Genetic Engineering and Biotechnology</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least one dose has already been administered</td></tr>
+<tr><td>RBD-Dimer, Zifivax (ZF2001)</td><td>Anhui Zhifei Longcom</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>Abadala (CIGB-66)</td><td>Center for Genetic Engineering and Biotechnology</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+<tr><td>ZyCoV-D</td><td>Zydus Cadila</td><td>Single dose of Comirnaty (BNT162b2) or Spikevax (mRNA-1273), if at least two doses have already been administered</td></tr>
+</table>
+
+- 3\.4.2 Indication of level of vaccination if supplemented with a vaccine authorised in Switzerland: “1/1”.
+- 3\.4.3 Indication of level of vaccination if a further dose is administered following a supplement in accordance with Number 3.4.2: “2/1” (for further doses: “[2+X]/1”).
+- 3\.5 Combinations of vaccines (heterologous vaccinations)
+- 3\.5.1 The vaccines in accordance with numbers 3.2 and 3.3 letters a and b may be combined freely with each other for the purpose of basic immunisation.
+- 3\.5.2 The vaccines in accordance with numbers 3.2 and 3.3 may be combined with any basic immunisation as a booster vaccination. This also applies to combinations with vaccination supplemented in accordance with Number 3.4.
+- 3\.6 Recognised licensed products
+
+Proof in accordance with Article 13 paragraph 1 letter d is considered to be provided for the following licensed vaccine products:
+
+<table>
+<tr><th>Name(s) of the licensed product</th><th>Manufacturer of the licensed product</th><th>Corresponds to</th></tr>
+<tr><td>Covishield (ChAdOx1\_nCoV-19)</td><td>Serum Institute of India</td><td>Vaxzevria (ChAdOx1 nCoV-19)</td></tr>
+<tr><td>Covid-19 vaccine recombinant</td><td>Fundação Instituto Oswaldo Cruz (FIOCRUZ)</td><td></td></tr>
+<tr><td>R-Covi</td><td>R-Pharma CJSC</td><td></td></tr>
+<tr><td>Covovax (NXV-CoV2373)</td><td>Serum Institute of India</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
+</table>
 
 [^annex2-lvlu1-lvl3-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
@@ -976,7 +1029,7 @@ Annex 5*[^t-6]*
 
 ## List of recognised foreign certificates
 
-[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), No I of the FDHA O of 22 Nov. 2021 ([AS 2021 721](https://fedlex.data.admin.ch/eli/oc/2021/721)), of 21 Dec. 2021 ([AS 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)), of 5 Jan. 2022 ([AS 2021 2](https://fedlex.data.admin.ch/eli/oc/2021/2)) and No II of the O of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests), in force since 24 Jan. 2022 ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)) and No I para. 2 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines), in in force since 3 Feb. 2022 ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -1024,6 +1077,7 @@ Annex 5*[^t-6]*
 
   - – New Zealand
   - – Singapore
+  - – Taiwan (Chinese Taipei)
   - – Togo
   - – United Arab Emirates
 

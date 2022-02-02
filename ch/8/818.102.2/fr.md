@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-01-31
+version: 2022-02-03
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220131/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220131-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220131/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220203/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220203-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220203/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220131/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 31 janvier 2022)
+du 4 juin 2021 (Etat le 3 février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -129,15 +129,17 @@ Les cantons et le médecin en chef de l’armée communiquent à l’OFIT quels 
 
 <sup>1</sup>
 
-Les cantons et le médecin en chef de l’armée veillent à ce que les demandes d’établissement de certificats de vaccination COVID-19 ou de certificats de guérison COVID-19 au sens de l’art. 16, al. 1, déposées dans les cas suivants soient traitées même lorsqu’il n’existe pas de dossier médical ni de documentation primaire auprès d’un émetteur visé à l’art. 6:[^7-2]
+Les cantons et le médecin en chef de l’armée veillent à ce que les demandes d’établissement de certificats de vaccination COVID-19 ou de certificats de guérison COVID-19 au sens de l’art. 16, al. 1, let. a, déposées dans les cas suivants soient traitées même lorsqu’il n’existe pas de dossier médical ni de documentation primaire auprès d’un émetteur visé à l’art. 6:
 
-- a. pour une vaccination administrée ou une guérison en Suisse;
+- a. pour une vaccination administrée en Suisse ou pour une guérison attestée en Suisse par une analyse de biologie moléculaire;
 - b.
 
-  pour une vaccination administrée ou une guérison à l’étranger:
+  pour une vaccination administrée à l’étranger ou pour une guérison attestée à l’étranger par une analyse de biologie moléculaire chez les personnes suivantes:
 
-  - 1\. de ressortissants suisses,
-  - 2\. d’étrangers autorisés à entrer en Suisse en vertu de l’art. 4 de l’ordonnance 3 COVID-19 du 19 juin 2020[^7-3] et qui démontrent de manière vraisemblable qu’ils prévoient d’entrer en Suisse ou qu’ils s’y trouvent déjà.[^7-4]
+  - 1\. ressortissants suisses,
+  - 2\. étrangers qui sont autorisés à entrer en Suisse en vertu de l’art. 4 de l’ordonnance 3 COVID-19 du 19 juin 2020[^7-2] et qui démontrent de manière vraisemblable qu’ils prévoient d’entrer en Suisse ou qu’ils s’y trouvent déjà.[^7-3]
+
+<sup>1bis</sup> Les cantons veillent à ce que les demandes d’établissement de certificats de guérison COVID-19 au sens de l’art. 16, al. 1, let. b, soient traitées pour les personnes qui ont été placées en isolement après avoir effectué un test rapide SARS-CoV-2 avec application par un professionnel au sens de l’art. 24*a*, al. 1, de l’ordonnance 3 COVID‑19.[^7-4]
 
 <sup>2</sup> Ils désignent au moins un émetteur assurant le traitement de ces cas.
 
@@ -160,9 +162,9 @@ En cas de doute sur l’authenticité des documents fournis, l’émetteur peut:
 <sup>5</sup> Si le doute sur l’authenticité des documents subsiste malgré ces mesures, l’émetteur peut rejeter la demande de certificat. Dans ce cas, le demandeur n’a pas droit au remboursement d’un éventuel émolument qu’il aurait payé.[^7-8]
 
 [^7-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 17 déc. 2021, en vigueur depuis le 17 janv. 2022 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
-[^7-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^7-3]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^7-4]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 3 fév. 2022 ([RO 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
+[^7-4]: Introduit par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 3 fév. 2022 ([RO 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
 [^7-5]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 [^7-6]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^7-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
@@ -190,7 +192,7 @@ Les cantons veillent à ce que les demandes d’établissement de certificats de
 
 **Procédure automatisée d’établissement de certificats de guérison COVID-19**
 
-<sup>1</sup> Pour établir les certificats de guérison COVID-19, les cantons peuvent utiliser une procédure automatisée leur permettant de consulter les informations relatives à la guérison du demandeur enregistrées dans le système d’information visé à l’art. 60 de la loi du 28 septembre 2012 sur les épidémies[^8-1] et les comparer aux indications fournies dans la demande.
+<sup>1</sup> Pour établir les certificats de guérison COVID-19 au sens de l’art. 16, al. 1, let. a, les cantons peuvent utiliser une procédure automatisée leur permettant de consulter les informations relatives à la guérison du demandeur enregistrées dans le système d’information visé à l’art. 60 de la loi du 28 septembre 2012 sur les épidémies[^8-1] et les comparer aux indications fournies dans la demande.[^8-2]
 
 <sup>2</sup> À cette fin, ils peuvent fournir au demandeur un formulaire de demande électronique fourni par la Confédération.
 
@@ -201,6 +203,7 @@ Les cantons veillent à ce que les demandes d’établissement de certificats de
 <sup>5</sup> Les cantons veillent à ce que le demandeur puisse également déposer la demande sous forme papier ou sous toute autre forme appropriée.
 
 [^8-1]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 3 fév. 2022 ([RO 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
 
 #### Art. 9
 
@@ -386,36 +389,37 @@ Un certificat de guérison COVID-19 est établi lorsqu’une personne a contract
 
 <sup>2</sup>
 
-Une demande de certificat COVID-19 qui ne peut pas être traitée selon la procédure automatisée d’établissement de certificats de guérison COVID-19 prévue à l’art. 8 doit comprendre les documents suivants:
+Une demande de certificat COVID-19 au sens de l’al. 1, let. a, pour une infection survenue à l’étranger doit comprendre les documents suivants:[^16-3]
 
-- a.
+- a.[^16-4]
 
-  une attestation du résultat positif d’une analyse visée à l’al. 1 incluant les indications suivantes:[^16-3]
+  une attestation du résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2 incluant les indications suivantes:
 
   - 1\. nom, prénom et date de naissance du demandeur,
   - 2\. date et heure du prélèvement de l’échantillon,
   - 3\. nom et adresse du centre de test ou de l’institution où le test a été effectué;
 
-- b. une confirmation de la levée de l’isolement ou une attestation médicale de la guérison établie par un service compétent exerçant des tâches relevant de la puissance publique, indiquant le nom et l’adresse de ce service.[^16-4]
+- b. une confirmation de la levée de l’isolement ou une attestation médicale de la guérison établie par un service compétent exerçant des tâches relevant de la puissance publique, indiquant le nom et l’adresse de ce service.[^16-5]
 
 <sup>3</sup>
 
 Un certificat de guérison COVID-19 est établi pour un test positif aux anticorps contre le SARS-CoV-2 si:
 
-- a. le prélèvement de l’échantillon a été réalisé en Suisse par un établissement visé à l’annexe 6, ch. 1.3.2, let. a, de l’ordonnance 3 COVID-19 du 19 juin 2020[^16-5];
+- a. le prélèvement de l’échantillon a été réalisé en Suisse par un établissement visé à l’annexe 6, ch. 1.3.2, let. a, de l’ordonnance 3 COVID-19 du 19 juin 2020[^16-6];
 - b. l’analyse a été réalisée en Suisse par un établissement visé à l’annexe 6, ch. 1.3.2, let. b, de l’ordonnance 3 COVID-19;
 - c. le prélèvement de l’échantillon a été effectué après le 15 novembre 2021;
-- d. une sérologie indubitablement positive a été détectée dans l’analyse au moyen d’un test immunologique certifié CE sous la forme d’un résultat quantifiable.[^16-6]
+- d. une sérologie indubitablement positive a été détectée dans l’analyse au moyen d’un test immunologique certifié CE sous la forme d’un résultat quantifiable.[^16-7]
 
-<sup>4</sup> Les certificats de guérison COVID-19 visés à l’al. 3 peuvent être établis uniquement par un établissement visé à l’annexe 6, ch. 1.3.2, let. a, de l’ordonnance 3 COVID-19 ou par un établissement visé à l’annexe 6, ch. 1.3.2, let. b, de l’ordonnance 3 COVID-19 mandaté par lui pour réaliser l’analyse.[^16-7]
+<sup>4</sup> Les certificats de guérison COVID-19 visés à l’al. 3 peuvent être établis uniquement par un établissement visé à l’annexe 6, ch. 1.3.2, let. a, de l’ordonnance 3 COVID-19 ou par un établissement visé à l’annexe 6, ch. 1.3.2, let. b, de l’ordonnance 3 COVID-19 mandaté par lui pour réaliser l’analyse.[^16-8]
 
 [^16-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques), en vigueur depuis le 24 janv. 2022 ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
-[^16-3]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques), en vigueur depuis le 24 janv. 2022 ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
-[^16-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
-[^16-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^16-6]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 3 fév. 2022 ([RO 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
+[^16-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 3 fév. 2022 ([RO 2022 60](https://fedlex.data.admin.ch/eli/oc/2022/60)).
+[^16-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 11 oct. 2021 ([RO 2021 592](https://fedlex.data.admin.ch/eli/oc/2021/592)).
+[^16-6]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^16-7]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
+[^16-8]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
 
 #### Art. 17
 
@@ -782,95 +786,143 @@ Avant de voyager, veuillez vérifier les mesures de santé publique et les restr
 
 Annexe 2*[^t-2]*
 
-(art. 13, 14, 15, et 33)
+(art. 13, al. 3, 14, 15 et 33)
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
 
-[^t-2]: Mise à jour par le ch. II de l’O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)), le ch. II al. 1 de l’O du 3 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), le ch. I de l’O du DFI du 15 nov. 2021 ([RO 2021 669](https://fedlex.data.admin.ch/eli/oc/2021/669)), l’annexe ch. 3 de l’O du 17 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), le ch. I de l’O du DFI du 5 janv. 2022 ([RO 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)) et l’annexe ch. 4 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur depuis le 31 janv. 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du DFI du 1<sup>er</sup> fév. 2022 (Caractère complet d’une primovaccination et d’une vaccination de rappel, prise en compte de vaccins supplémentaires), en vigueur depuis le 3 fév. 2022 ([RO 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)).
 
 ### 1 Début de la validité et durée de validité maximale
 
 - 1\.1
 
-  Début de la validité:
+  La durée de validité des certificats de vaccination COVID-19 est de 270 jours:
 
-  - a. pour la vaccination avec deux doses conformément auxch. 3.2, 3.4 et 3.5: le jour de l’administration de la seconde dose;
-  - b. pour la vaccination avec une seule dose conformément aux ch. 3.1 et 3.5: le 22e jour suivant l’administration de la dose;
-  - c. pour la vaccination selon le schéma prévu au ch. 3.3: le jour de l’administration d’une dose conformément aux ch. 3.1 et 3.2;
-  - d. en cas de doses supplémentaires: le jour de l’administration de la dose supplémentaire.
+  - a. à compter de la dose qui complète la primovaccination, ou
+  - b. à compter de l’administration d’une dose après une primovaccination complète (vaccination de rappel).
 
-- 1\.2
-
-  Durée de validité:
-
-  - a. pour la vaccination selon le ch. 1.1, let. a: 270 jours à partir de l’administration de la dernière dose;
-  - b. pour la vaccination selon le ch. 1.1, let. b: 270 jours à partir du 22<sup>e</sup> jour suivant l’administration de la dernière dose;
-  - c. pour la vaccination selon le ch. 1.1, let. d: 270 jours.
+- 1\.2 En cas de primovaccination avec le vaccin COVID-19 Vaccine Janssen, le délai court à partir du 22<sup>e</sup> jour suivant l’administration de la dose unique.
 
 ### 2 Indications concernant le vaccin administré
 
-- a. Maladie contre laquelle le vaccin a été administré («COVID-19»)
-- b. Vaccination/prophylaxie (type/fonctionnement du vaccin)
-- c. Médicament immunologique (nom du vaccin/nom du produit)
-- d. Titulaire de l’autorisation de mise sur le marché du vaccin ou, à défaut, informations sur le fabricant
-- e. Nombre dans une série de vaccins et nombre total de doses administrées
-- f. Date de l’administration de la dernière dose
+- 2\.1 Maladie contre laquelle le vaccin a été administré (« COVID-19 »)
+- 2\.2 Vaccin/prophylaxie (type/fonctionnement du vaccin)
+- 2\.3 Médicament immunologique (nom du vaccin/nom du produit)
+- 2\.4 Titulaire de l’autorisation de mise sur le marché du vaccin ou, à défaut en cas de vaccins administrés à l’étranger, informations sur le fabricant
+- 2\.5 Nombre de doses administrées dans une série de vaccins et nombre total de doses administrées
+- 2\.6 Date de l’administration de la dernière dose
 
-### 3 Caractère complet du programme de vaccination
+### 3 Indication du caractère complet d’une vaccination
 
-- 3\.1 La vaccination est réputée complète après l’administration d’au moins une dose du vaccin Ad26.COV2.S/Covid-19 Vaccine Janssen.
-- 3\.2
+- 3\.1 Dispositions générales
+- 3\.1.1
 
-  La vaccination est réputée complète après l’administration d’au moins deux doses des vaccins suivants:
+  Le caractère complet est indiqué:
 
-  - a. BNT162b2 / Comirnaty / Tozinameran;
-  - b. mRNA-1273 / Spikevax / Covid-19 Vaccine Moderna;
-  - c. AZD1222/Vaxzevria / Covid-19 Vaccine AstraZeneca;
-  - d. Sars-CoV-2 Vaccine de Sinopharm Beijing Institute of Biological Products (BIBP) Co., Ltd.;
-  - e. Coronavac (vaccination de Sinovac Life Sciences Co., Ltd);
-  - f. Bharat Biotech COVID-19 Vaccine / Covaxin;
-  - g. Nuvaxovid / NXV-CoV2373 / Novavax.
+  - a. si la vaccination est complète: selon les codes visés aux ch. 3.2 à 3.4, comme «3/3»;
+  - b. si la vaccination est incomplète: selon le modèle «A/B», A représentant le nombre de doses de vaccin administrées et B le nombre de doses requises le programme de vaccination au moment où la dose est administrée.
 
-- 3\.3
+- 3\.1.2
 
-  La vaccination est réputée complète après l’administration d’une dose d’un vaccin visé au ch. 3.2, pour autant que la personne ait contracté le SARS-CoV-2 auparavant. Pour attester qu’une personne a contracté le SARS-CoV-2, les conditions suivantes s’appliquent:
+  La preuve d’une infection par le SARS-CoV-2, survenue avant l’administration d’une dose de vaccin et pour laquelle un certificat peut être établi, équivaut à l’administration d’une dose de vaccin. Pour prouver une infection, les conditions suivantes doivent être remplies:
 
   - a.
 
-    l’infection d’une personne doit être attestée par l’un des résultats suivants:
+    l’infection a été confirmée par l’une des analyses suivantes:
 
     - 1\. résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2,
-    - 2\. résultat positif d’un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24a, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^annex2-lvlu1-lvl3-1],
-    - 3\. résultat positif d’une analyse des anticorps contre le SARS-CoV-2 conformément à l’art. 16, al. 3,
-    - 4\. résultat positif d’une analyse immunologique en laboratoire des antigènes au SARS-CoV-2;
+    - 2\. résultat positif d’un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID‑19 du 19 juin 2020[^annex2-lvlu1-lvl3-1],
+    - 3\. résultat positif d’une analyse des anticorps contre le SARS-CoV-2 conformément à l’art. 16, al. 3;
 
-  - b. l’écart entre le prélèvement de l’échantillon et la vaccination est d’au moins 28 jours.
+  - b. pour les cas visés à la let. a, ch. 1 et 2, l’écart entre le prélèvement de l’échantillon et la vaccination est d’au moins 28 jours.
 
-- 3\.4
+- 3\.1.3 Les doses de vaccin comptent aussi comme rappel lorsqu’elles sont administrées à des personnes immunosupprimées en dehors des programmes de vaccination visés dans cette ordonnance dans le but d’obtenir une primovaccination efficace.
 
-  La vaccination est réputée complète après l’administration des combinaisons suivantes de vaccins:
+3.2 Vaccin à une dose
 
-  - a. BNT162b2 / Comirnaty / Tozinameran et mRNA-1273 / Spikevax / Covid-19 Vaccine Moderna;
-  - b. AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca et BNT162b2 / Comirnaty / Tozinameran;
-  - c. AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca et mRNA-1273 / Spikevax / Covid-19 Vaccine Moderna.
+- 3\.2.1 Le ch. 3.2. s’applique au vaccin suivant autorisé par Swissmedic:
 
-- 3\.5
+<table>
+<tr><th>Nom(s) du/des produit(s)</th><th>Fabricant</th></tr>
+<tr><td>COVID-19 Vaccine Janssen</td><td>Johnson&Johnson</td></tr>
+</table>
 
-  Sont considérés comme équivalents aux vaccins visés aux ch. 3.1 à 3.4 les vaccins dont il peut être prouvé qu’ils ont la même composition mais qui sont mis en circulation par un preneur de licence sous un autre nom. La preuve est réputée apportée pour les vaccins produits sous licence suivants:
+- 3\.2.2
 
-  - a.
+  Indication du caractère complet d’une primovaccination:
 
-    produits sous licence de AZD1222 / Vaxzevria / Covid-19 Vaccine AstraZeneca:
+  - a. primovaccination à une dose de vaccin: «1/1»;
+  - b. primovaccination en cas de poursuite d’un programme de vaccination commencé avec un autre vaccin, par exemple en raison de contre-indications: «2/2».
 
-    - – Covishield / ChAdOx1\_nCoV-19
-    - – Covid-19 vaccine recombinant (vaccin de la Fundação Instituto Oswaldo Cruz [FIOCRUZ])
-    - – R-Covi (vaccin de R-Pharma)
+- 3\.2.3 Indication du caractère complet d’une vaccination de rappel
+  - a. si la vaccination de rappel a été effectuée après une primovaccination à une dose de vaccin (ch. 3.2.2, let. a): «2/1» (doses supplémentaires: «[2+X]/1»);
+  - b. si la vaccination de rappel a été effectuée après une primovaccination commencée avec un autre vaccin (ch. 3.2.2, let. b): «3/3» (doses supplémentaires: «[3+X]/[3+X]»).
 
-  - b.
+- 3\.3 Vaccins à deux doses
+- 3\.3.1 Le ch. 3.3 s’applique aux vaccins suivants:
 
-    produits sous licence de Nuvaxovid / NXV-CoV2373 / Novavax:
+<table>
+<tr><th>Nom(s) du/des produit(s)</th><th>Fabricant</th></tr>
+<tr><td colspan="2">a. vaccins autorisés par Swissmedic:</td></tr>
+<tr><td>Comirnaty (BNT162b2)</td><td>Pfizer/BioNTech</td></tr>
+<tr><td>Spikevax (mRNA-1273)</td><td>Moderna</td></tr>
+<tr><td colspan="2">b. vaccins autorisés par l’Agence européenne des médicaments (EMA), mais pas par Swissmedic:</td></tr>
+<tr><td>Vaxzevria (ChAdOx1 nCoV-19)</td><td>AstraZeneca</td></tr>
+<tr><td>Nuvaxovid (NVX-CoV2373)</td><td>Novavax</td></tr>
+<tr><td colspan="2">c. vaccins autorisés sur la base de la liste des situations d’urgence de l’OMS, mais pas par Swissmedic ou l’EMA:</td></tr>
+<tr><td>BIBP P-CoV</td><td>Sinopharm Wuhan/Sinopharm Beijing</td></tr>
+<tr><td>CoronaVac</td><td>Sinovac</td></tr>
+<tr><td>Bharat Biotech Covaxin</td><td>Indian Council for Medical Research</td></tr>
+</table>
 
-    - – NXV-CoV2373 / Covovax
+- 3\.3.2
+
+  Indication du caractère complet d’une primovaccination:
+
+  - a. primovaccination à deux doses de vaccin: «2/2»;
+  - b. primovaccination consistant en une dose de vaccin et une infection au SARS-CoV-2 antérieure (ch. 3.1.2): «1/1».
+
+- 3\.3.3
+
+  Indication du caractère complet d’une vaccination de rappel:
+
+  - a. si la vaccination de rappel a été effectuée après une primovaccination à deux doses de vaccin (ch. 3.3.2, let. a): «3/3» (doses supplémentaires: «[3+X]/[3+X]»);
+  - b. si la vaccination de rappel a été effectuée après une primovaccination consistant en une dose de vaccin et une infection antérieure (ch. 3.3.2, let. b): «2/1» (doses supplémentaires: «[2+X]/1»).
+
+- 3\.4 Compléments de vaccinations avec des vaccins non reconnus
+- 3\.4.1 Le ch. 3.4 s’applique aux vaccins ne remplissant pas les conditions fixées à l’art. 13, al. 1, mais pouvant être complétés par un vaccin autorisé en Suisse:
+
+<table>
+<tr><th>Nom(s) du/des produit(s)</th><th>Fabricant</th><th>Complément avec un vaccin autorisé en Suisse:</th></tr>
+<tr><td>Sputnik light</td><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins une dose ait déjà été administrée</td></tr>
+<tr><td>Sputnik V (Gam-COVID-Vac, rAd26-S, rAd5-S)</td><td>Gamaleya National Centre of Epidemiology and Microbiology</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins une dose ait déjà été administrée</td></tr>
+<tr><td>KoviVac</td><td>Chumakov Center</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>QazVac (QazCovid-in)</td><td>Kazakhstan RIBSP</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>Medigen (MVC-COV1901)</td><td>Medigen Vaccine Biologics</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>SARS-CoV-2 Vaccine (KCONVAC)</td><td>Minhai Biotechnology</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>EpiVacCorona</td><td>VECTOR</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>SoberanaPlus (Plus CIGB-66)</td><td>Center for Genetic Engineering and Biotechnology</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins une dose ait déjà été administrée</td></tr>
+<tr><td>RBD-Dimer, Zifivax (ZF2001)</td><td>Anhui Zhifei Longcom</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>Abadala (CIGB-66)</td><td>Center for Genetic Engineering and Biotechnology</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+<tr><td>ZyCoV-D</td><td>Zydus Cadila</td><td>Dose unique de Comirnaty (BNT162b2) ou de Spikevax (mRNA-1273), pour autant qu’au moins deux doses aient déjà été administrées</td></tr>
+</table>
+
+- 3\.4.2 Indication du caractère complet après complément avec un vaccin autorisé en Suisse: «1/1».
+- 3\.4.3 Indication du caractère complet après une dose supplémentaire avec complément visé au ch. 3.4.2: «2/1» (doses supplémentaires: «[2+X]/1»).
+- 3\.5 Combinaison de vaccins (vaccinations hétérologues)
+- 3\.5.1 Les vaccins visés aux ch. 3.2 et 3.3, let. a et b, peuvent être librement combinés pour la primovaccination.
+- 3\.5.2 Les vaccins visés aux ch. 3.2 et 3.3 peuvent être combinés, en tant que vaccination de rappel avec chaque primovaccination. Ceci s’applique aussi aux combinaisons de vaccins avec complément de vaccination au sens du ch. 3.4.
+- 3\.6 Produits sous licence reconnus
+
+La preuve au sens de l’art. 13, al. 1, let. d, est réputée apportée pour les vaccins produits sous licence suivants:
+
+<table>
+<tr><th>Nom(s) du/des produit(s) sous licence</th><th>Fabricant du/des produit(s) sous licence</th><th>équivaut à</th></tr>
+<tr><td>Covishield (ChAdOx1\_nCoV-19)</td><td>Serum Institute of India</td><td>Vaxzevria® (ChAdOx1 nCoV-19)</td></tr>
+<tr><td>Covid-19 vaccine recombinant</td><td>Fundação Instituto Oswaldo Cruz (FIOCRUZ)</td><td></td></tr>
+<tr><td>R-Covi</td><td>R-Pharma CJSC</td><td></td></tr>
+<tr><td>Covovax (NXV-CoV2373)</td><td>Serum Institute of India</td><td>Nuvaxovid (NVX-CoV2373)</td></tr>
+</table>
 
 [^annex2-lvlu1-lvl3-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
@@ -926,7 +978,7 @@ Annexe 4*[^t-4]*
 
 [^t-4]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), le ch. II de l’O du 30 juin 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) et l’annexe ch. 3 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
-### 1 ...
+### 1 …
 
 ### 2 Durée de validité
 
@@ -973,7 +1025,7 @@ Annexe 5*[^t-6]*
 
 ## Liste des certificats étrangers reconnus
 
-[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), le ch. I des O du DFI du 21 déc. 2021 ([RO 2021 896](https://fedlex.data.admin.ch/eli/oc/2021/896)) et du 5 janv. 2022 ([RO 2022 2](https://fedlex.data.admin.ch/eli/oc/2022/2)) et le ch. II de l’O du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques), en vigueur depuis le 24 janv. 2022 ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)).
+[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)) et le ch. I al. 2 de l’O du DFI du 1<sup>er</sup> fév. 2022 (Caractère complet d’une primovaccination et d’une vaccination de rappel, prise en compte de vaccins supplémentaires), en vigueur depuis le 3 fév. 2022 ([RO 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 
@@ -1019,12 +1071,13 @@ Annexe 5*[^t-6]*
 
 - 2\.2
 
-  Sont reconnus les certificats de vaccination ou de test qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par les États et les régions suivants:
+  Sont reconnus les certificats de vaccination et de test qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par les États et les régions suivants:
 
-  - – Émirats arabes unis
   - – Nouvelle-Zélande
   - – Singapour
+  - – Taïwan (Taipei chinois)
   - – Togo
+  - – Émirats arabes unis
 
 - 2\.3
 
