@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordonnance du 20 mars 2020 sur les mesures en cas de pertes de gain en lien avec le coronavirus (COVID-19) (Ordonnance sur les pertes de gain COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: fr
-version: 2022-01-25
+version: 2022-02-03
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220125/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220125-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220203/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220203-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220203/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220125/fr"
 
 (Ordonnance sur les pertes de gain COVID-19)
 
-du 20 mars 2020 (Etat le 25 janvier 2022)
+du 20 mars 2020 (Etat le 3 février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -54,19 +54,7 @@ Ont droit à l’allocation, pour autant qu’ils remplissent les conditions pr�
 
 Les personnes visées à l’al. 1 ont droit à l’allocation pour autant qu’elles remplissent les conditions suivantes:
 
-- a.[^2-3]
-
-  elles doivent, en raison de mesures ordonnées par une autorité en lien avec le coronavirus en vertu de l’art. 6, al. 2, let. a ou b, 35 ou 40 de la loi du 28 septembre 2012 sur les épidémies (LEp)[^2-4], interrompre leur activité lucrative et subir une perte de gain:
-
-  - 1\.
-
-    parce que la garde de leur enfant par des tiers n’est plus assurée:
-
-    - – en raison d’une fermeture temporaire, ordonnée par l’autorité, d’une institution, à savoir l’école maternelle, la structure d’accueil collectif de jour, l’école ou l’établissement ou l’atelier visé à l’art. 27, al. 1, LAI, ou
-    - – en raison d’une mesure de quarantaine ordonnée à la personne prévue pour assurer la garde, ou
-
-  - 2\. parce qu’une mesure de quarantaine a été ordonnée à elles-mêmes ou à l’enfant;
-
+- a.[^2-3] elles doivent, en raison de mesures ordonnées par une autorité en lien avec le coronavirus en vertu de l’art. 6, al. 2, let. a ou b, 35 ou 40 de la loi du 28 septembre 2012 sur les épidémies (LEp)[^2-4], interrompre leur activité lucrative et subir une perte de gain parce que la garde de leur enfant par des tiers n’est plus assurée en raison d’une fermeture temporaire, ordonnée par l’autorité, d’une institution, à savoir la structure d’accueil collectif de jour, l’école maternelle, l’école ou l’établissement ou l’atelier visé à l’art. 27, al. 1, LAI;
 - b.
 
   au moment de l’interruption de leur activité lucrative:
@@ -76,16 +64,16 @@ Les personnes visées à l’al. 1 ont droit à l’allocation pour autant qu’
 
 - c. elles sont assurées obligatoirement au sens de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^2-6].[^2-7]
 
-<sup>2</sup> Les parents qui doivent interrompre leur activité lucrative pour assurer la garde de leur enfant pendant les vacances scolaires n’ont droit à l’allocation qu’en cas de fermeture de l’institution prévue pour assurer cette garde ou de mise en quarantaine de la personne prévue pour assurer cette garde.[^2-8]
+<sup>2</sup> Les parents qui doivent interrompre leur activité lucrative pour assurer la garde de leur enfant pendant les vacances scolaires n’ont droit à l’allocation qu’en cas de fermeture de l’institution prévue pour assurer cette garde.[^2-8]
 
-<sup>2bis</sup> Les pertes de gain dues à une quarantaine-voyage au sens de l’art. 9 de l’ordonnance COVID-19 du 23 juin 2021 transport international de voyageurs[^2-9] ne donnent pas droit à l’allocation.[^2-10]
+<sup>2bis</sup> …[^2-9]
 
 <sup>3</sup>
 
-Les personnes qui exercent une activité lucrative indépendante au sens de l’art. 12 LPGA et les personnes visées à l’art. 31, al. 3, let. b et c, de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^2-11], pour autant qu’elles remplissent la condition prévue à l’al. 1<sup>bis</sup>, let. c, , ont droit à l’allocation:
+Les personnes qui exercent une activité lucrative indépendante au sens de l’art. 12 LPGA et les personnes visées à l’art. 31, al. 3, let. b et c, de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^2-10], pour autant qu’elles remplissent la condition prévue à l’al. 1<sup>bis</sup>, let. c, , ont droit à l’allocation:
 
 - a. si elles doivent interrompre leur activité lucrative en raison de mesures de lutte contre l’épidémie de COVID-19 ordonnées par une autorité, et
-- b. si elles subissent une perte de gain ou une perte de salaire.[^2-12]
+- b. si elles subissent une perte de gain ou une perte de salaire.[^2-11]
 
 <sup>3bis</sup>
 
@@ -93,17 +81,17 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 
 - a. si leur activité lucrative est significativement limitée en raison de mesures de lutte contre l’épidémie de COVID-19 ordonnées par une autorité;
 - b. si elles subissent une perte de gain ou une perte de salaire, et
-- c. si elles ont touché pour cette activité au moins 10 000 francs à titre de revenu soumis aux cotisations AVS en 2019; cette condition s’applique par analogie si l’activité a débuté après 2019; si celle-ci n’a pas été exercée pendant une année complète, cette condition s’applique proportionnellement à sa durée.[^2-13]
+- c. si elles ont touché pour cette activité au moins 10 000 francs à titre de revenu soumis aux cotisations AVS en 2019; cette condition s’applique par analogie si l’activité a débuté après 2019; si celle-ci n’a pas été exercée pendant une année complète, cette condition s’applique proportionnellement à sa durée.[^2-12]
 
-<sup>3ter</sup> L’activité lucrative est considérée comme significativement limitée lorsque le chiffre d’affaires mensuel baisse d’au moins 30 % par rapport au chiffre d’affaires mensuel moyen des années 2015 à 2019. Si l’activité lucrative a débuté après 2015 et avant 2020, la moyenne doit être calculée sur la période de revenu correspondante. Les personnes ayant débuté leur activité lucrative après 2019 doivent prouver qu’elles ont subi une baisse de chiffre d’affaires d’au moins 30 % par mois comparé au chiffre d’affaires moyen réalisé sur au moins trois mois; la moyenne des trois mois où le chiffre d’affaires était le plus élevé étant déterminante.[^2-14]
+<sup>3ter</sup> L’activité lucrative est considérée comme significativement limitée lorsque le chiffre d’affaires mensuel baisse d’au moins 30 % par rapport au chiffre d’affaires mensuel moyen des années 2015 à 2019. Si l’activité lucrative a débuté après 2015 et avant 2020, la moyenne doit être calculée sur la période de revenu correspondante. Les personnes ayant débuté leur activité lucrative après 2019 doivent prouver qu’elles ont subi une baisse de chiffre d’affaires d’au moins 30 % par mois comparé au chiffre d’affaires moyen réalisé sur au moins trois mois; la moyenne des trois mois où le chiffre d’affaires était le plus élevé étant déterminante.[^2-13]
 
-<sup>3quater</sup> Les employés vulnérables au sens de l’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^2-15] ont droit à l’allocation s’il n’est pas possible de les occuper conformément à l’art. 27*a*, al. 1 à 4, de l’ordonnance 3 COVID-19, ou dès lors qu’ils refusent d’accomplir la tâche qui leur a été attribuée conformément à l’art. 27*a*, al. 6, de l’ordonnance 3 COVID-19. Les employés doivent prouver leur vulnérabilité au moyen d’un certificat médical.[^2-16]
+<sup>3quater</sup> Les employés vulnérables au sens de l’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^2-14] ont droit à l’allocation s’il n’est pas possible de les occuper conformément à l’art. 27*a*, al. 1 à 4, de l’ordonnance 3 COVID-19, ou dès lors qu’ils refusent d’accomplir la tâche qui leur a été attribuée conformément à l’art. 27*a*, al. 6, de l’ordonnance 3 COVID-19. Les employés doivent prouver leur vulnérabilité au moyen d’un certificat médical.[^2-15]
 
-<sup>3quinquies</sup> Les personnes vulnérables exerçant une activité lucrative indépendante au sens de l’art. 12 LPGA ont droit à l’allocation lorsqu’elles ne peuvent pas travailler depuis leur domicile. Pour la définition des personnes vulnérables, l’art. 27*a*, al. 10 à 12 de l’ordonnance 3 COVID-19 s’applique par analogie. Les employés doivent prouver leur vulnérabilité au moyen d’un certificat médical.[^2-17]
+<sup>3quinquies</sup> Les personnes vulnérables exerçant une activité lucrative indépendante au sens de l’art. 12 LPGA ont droit à l’allocation lorsqu’elles ne peuvent pas travailler depuis leur domicile. Pour la définition des personnes vulnérables, l’art. 27*a*, al. 10 à 12 de l’ordonnance 3 COVID-19 s’applique par analogie. Les employés doivent prouver leur vulnérabilité au moyen d’un certificat médical.[^2-16]
 
-<sup>4</sup> L’allocation est octroyée subsidiairement aux prestations des assurances sociales et aux prestations des assurances régies par la loi du 2 avril 1908 sur le contrat d’assurance[^2-18]. Ce principe ne s’applique pas aux prestations octroyées en vertu de l’art. 12 de la loi COVID-19 du 25 septembre 2020.[^2-19]
+<sup>4</sup> L’allocation est octroyée subsidiairement aux prestations des assurances sociales et aux prestations des assurances régies par la loi du 2 avril 1908 sur le contrat d’assurance[^2-17]. Ce principe ne s’applique pas aux prestations octroyées en vertu de l’art. 12 de la loi COVID-19 du 25 septembre 2020.[^2-18]
 
-<sup>5</sup> …[^2-20]
+<sup>5</sup> …[^2-19]
 
 <sup>6</sup> Les deux parents peuvent avoir droit à l’allocation si la garde des enfants par un tiers n’est plus assurée. Toutefois, ils ne peuvent faire valoir qu’une seule indemnité journalière par jour de travail.
 
@@ -113,48 +101,48 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 
 [^2-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 17 mars 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)).
-[^2-3]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
+[^2-3]: Nouvelle teneur selon le ch. III 2 de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), en vigueur depuis le 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 [^2-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^2-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^2-6]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^2-7]: Introduit par le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 17 mars 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)).
-[^2-8]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^2-9]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
-[^2-10]: Introduit par l’art. 6 ch. 2 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 2 juil. 2020 ([RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906)).
-[^2-11]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^2-12]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-13]: Introduit par le ch. I de l’O du 16 avr. 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-14]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2020 ([RO 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
-[^2-15]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^2-8]: Nouvelle teneur selon le ch. III 2 de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), en vigueur depuis le 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^2-9]: Introduit par l’art. 6 ch. 2 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 2 juil. 2020 ([RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)). Abrogé par le ch. III 2 de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), avec effet au 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^2-10]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^2-11]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-12]: Introduit par le ch. I de l’O du 16 avr. 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-13]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2020 ([RO 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
+[^2-14]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^2-15]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
 [^2-16]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
-[^2-17]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
-[^2-18]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^2-19]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-20]: Abrogé par le ch. I de l’O du 11 sept. 2020, avec effet au 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
+[^2-17]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^2-18]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-19]: Abrogé par le ch. I de l’O du 11 sept. 2020, avec effet au 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 
 #### Art. 3
 
 **Début et fin du droit aux prestations, nombre maximal d’indemnités journalières**[^3-1]
 
-<sup>1</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 1, le droit à l’allocation prend effet le quatrième jour suivant la fermeture ordonnée de l’institution ou la mesure de quarantaine ordonnée au tiers prévu pour assurer la garde de l’enfant.
+<sup>1</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, le droit à l’allocation prend effet le quatrième jour suivant la fermeture ordonnée de l’institution.[^3-2]
 
-<sup>2</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 2, le droit à l’allocation prend effet dès le début de la mesure de quarantaine-contact ordonnée à la personne exerçant une activité lucrative ou à l’enfant. Le droit prend fin à la fin de la quarantaine-contact ordonnée.[^3-2]
+<sup>2</sup> …[^3-3]
 
-<sup>3</sup> Pour un ayant droit au sens de l’art. 2, al. 3 ou 3<sup>bis</sup>, le droit à l’allocation prend effet dès le début des mesures ordonnées par l’autorité.[^3-3]
+<sup>3</sup> Pour un ayant droit au sens de l’art. 2, al. 3 ou 3<sup>bis</sup>, le droit à l’allocation prend effet dès le début des mesures ordonnées par l’autorité.[^3-4]
 
-<sup>4</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 1, ou de l’art. 2, al. 3 ou 3<sup>bis</sup>, le droit à l’allocation prend fin lorsque les mesures ordonnées sont levées.[^3-4]
+<sup>4</sup> Pour un Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ou de l’art. 2, al. 3 ou 3<sup>bis</sup>, le droit à l’allocation prend fin lorsque les mesures ordonnées sont levées.[^3-5]
 
-<sup>5</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quater</sup>, le droit à l’allocation prend effet dès le moment où il n’est pas possible de l’occuper conformément à l’art. 27*a*, al. 1 à 4, de l’ordonnance 3 COVID-19 du 19 juin 2020[^3-5], ou dès lors qu’il refuse d’accomplir la tâche qui lui a été attribuée conformément à l’art. 27*a*, al. 6, de l’ordonnance 3 COVID-19. Le droit à l’allocation prend fin dès la reprise du travail ou dès l’abrogation de l’art. 27*a* de l’ordonnance 3 COVID-19.[^3-6]
+<sup>5</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quater</sup>, le droit à l’allocation prend effet dès le moment où il n’est pas possible de l’occuper conformément à l’art. 27*a*, al. 1 à 4, de l’ordonnance 3 COVID-19 du 19 juin 2020[^3-6], ou dès lors qu’il refuse d’accomplir la tâche qui lui a été attribuée conformément à l’art. 27*a*, al. 6, de l’ordonnance 3 COVID-19. Le droit à l’allocation prend fin dès la reprise du travail ou dès l’abrogation de l’art. 27*a* de l’ordonnance 3 COVID-19.[^3-7]
 
-<sup>6</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quinquies</sup>, le droit à l’allocation prend effet à compter de l’interruption de l’activité professionnelle et prend fin avec la reprise de cette activité.[^3-7]
+<sup>6</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quinquies</sup>, le droit à l’allocation prend effet à compter de l’interruption de l’activité professionnelle et prend fin avec la reprise de cette activité.[^3-8]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 25 janv. 2022 ([RO 2022 22](https://fedlex.data.admin.ch/eli/oc/2022/22)).
-[^3-3]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^3-2]: Nouvelle teneur selon le ch. III 2 de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), en vigueur depuis le 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^3-3]: Abrogé par le ch. III 2 de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), avec effet au 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^3-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3-6]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
+[^3-5]: Nouvelle teneur selon le ch. III 2 de l’O du 2 fév. 2022 (Suppression de la quarantaine-contact et de l’obligation de travailler à domicile), en vigueur depuis le 3 fév. 2022 ([RO 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^3-6]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^3-7]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
+[^3-8]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11, al. 8).
 
 #### Art. 4
 

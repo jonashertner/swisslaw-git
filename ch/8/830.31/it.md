@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordinanza del 20 marzo 2020 sui provvedimenti in caso di perdita di guadagno in relazione con il coronavirus (COVID-19) (Ordinanza COVID-19 perdita di guadagno)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: it
-version: 2022-01-25
+version: 2022-02-03
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220125/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220125-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20220203/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20220203-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220203/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20220125/it"
 
 (Ordinanza COVID-19 perdita di guadagno)
 
-del 20 marzo 2020 (Stato 25 gennaio 2022) (Stato 25 gennaio 2022)
+del 20 marzo 2020 (Stato 3 febbraio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -54,19 +54,7 @@ Se adempiono le condizioni di cui al capoverso 1<sup>bis</sup>, hanno diritto a 
 
 Le persone di cui al capoverso 1 hanno diritto all’indennità, se adempiono le seguenti condizioni:
 
-- a.[^2-3]
-
-  devono interrompere l’attività lucrativa a causa di provvedimenti ordinati dalle autorità conformemente all’articolo 6 capoverso 2 lettere a o b, 35 oppure 40 della legge del 28 settembre 2012[^2-4] sulle epidemie (LEp) in relazione con il coronavirus e subiscono una perdita di guadagno:
-
-  - 1\.
-
-    perché la custodia dei figli da parte di terzi è cessata a causa di:
-
-    - – una chiusura temporanea ordinata all’istituto, segnatamente alla scuola dell’infanzia, alla struttura di custodia collettiva diurna, alla scuola oppure allo stabilimento o al laboratorio secondo l’articolo 27 capoverso 1 LAI, o
-    - – di una quarantena ordinata alla persona prevista per la custodia dei figli, o
-
-  - 2\. perché nei loro confronti o nei confronti dei figli è stata ordinata una quarantena;
-
+- a.[^2-3] devono interrompere l’attività lucrativa a causa di provvedimenti ordinati dalle autorità conformemente all’articolo 6 capoverso 2 lettere a o b, 35 oppure 40 della legge del 28 settembre 2012[^2-4] sulle epidemie (LEp) in relazione con il coronavirus e subiscono una perdita di guadagno perché la custodia dei figli da parte di terzi è cessata a causa di una chiusura temporanea ordinata all’istituto, segnatamente alla scuola dell’infanzia, alla struttura di custodia collettiva diurna, alla scuola oppure allo stabilimento o al laboratorio secondo l’articolo 27 capoverso 1 LAI;
 - b.
 
   al momento dell’interruzione dell’attività lucrativa sono:
@@ -76,16 +64,16 @@ Le persone di cui al capoverso 1 hanno diritto all’indennità, se adempiono le
 
 - c. sono assicurate obbligatoriamente ai sensi della legge federale del 20 dicembre 1946[^2-6] sull’assicurazione per la vecchiaia e per i superstiti (LAVS).[^2-7]
 
-<sup>2</sup> I genitori che devono interrompere la loro attività lucrativa per occuparsi della custodia dei figli durante le vacanze scolastiche hanno diritto all’indennità soltanto se l’istituto previsto per la custodia è stato chiuso o se la persona prevista per la custodia è stata messa in quarantena.[^2-8]
+<sup>2</sup> I genitori che devono interrompere la loro attività lucrativa per occuparsi della custodia dei figli durante le vacanze scolastiche hanno diritto all’indennità soltanto se l’istituto previsto per la custodia è stato chiuso.[^2-8]
 
-<sup>2bis</sup> La perdita di guadagno dovuta a una quarantena per le persone in entrata ai sensi dell’articolo 9 dell’ordinanza COVID-19 traffico internazionale viaggiatori del 23 giugno 2021[^2-9] non conferisce alcun diritto all’indennità.[^2-10]
+<sup>2bis</sup> ...[^2-9]
 
 <sup>3</sup>
 
-I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui all’articolo 31 capoverso 3 lettere b e c della legge del 25 giugno 1982[^2-11] sull’assicurazione contro la disoccupazione (LADI) hanno diritto all’indennità, alla condizione di cui al capoverso 1<sup>bis</sup> lettera c, se:
+I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui all’articolo 31 capoverso 3 lettere b e c della legge del 25 giugno 1982[^2-10] sull’assicurazione contro la disoccupazione (LADI) hanno diritto all’indennità, alla condizione di cui al capoverso 1<sup>bis</sup> lettera c, se:
 
 - a. devono interrompere la loro attività lucrativa a causa di provvedimenti ordinati dalle autorità per combattere l’epidemia di COVID-19; e
-- b. subiscono una perdita di guadagno o salariale.[^2-12]
+- b. subiscono una perdita di guadagno o salariale.[^2-11]
 
 <sup>3bis</sup>
 
@@ -93,17 +81,17 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 
 - a. la loro attività lucrativa è limitata in modo considerevole a causa di provvedimenti ordinati dalle autorità per combattere l’epidemia di COVID-19;
 - b. subiscono una perdita di guadagno o salariale; e
-- c. nel 2019 hanno conseguito con questa attività un reddito soggetto all’AVS di almeno 10 000 franchi; questa condizione vale per analogia anche se hanno avviato l’attività dopo il 2019; se l'attività non è stata svolta per un anno intero, questa condizione va adempiuta in proporzione alla durata dell'attività.[^2-13]
+- c. nel 2019 hanno conseguito con questa attività un reddito soggetto all’AVS di almeno 10 000 franchi; questa condizione vale per analogia anche se hanno avviato l’attività dopo il 2019; se l'attività non è stata svolta per un anno intero, questa condizione va adempiuta in proporzione alla durata dell'attività.[^2-12]
 
-<sup>3ter</sup> L’attività lucrativa è ritenuta limitata in modo considerevole se si è registrata una diminuzione della cifra d’affari mensile pari almeno al 30 per cento rispetto alla cifra d’affari mensile media degli anni 2015–2019. Se l’attività è stata avviata dopo il 2015 e prima del 2020, è determinante la media del periodo di attività effettivo. Le persone che hanno avviato la loro attività lucrativa dopo il 2019 devono dimostrare di aver subito una diminuzione della cifra d’affari mensile pari almeno al 30 per cento rispetto alla cifra d’affari mensile media di almeno tre mesi; fa stato la media dei tre mesi con le cifre d’affari più elevate.[^2-14]
+<sup>3ter</sup> L’attività lucrativa è ritenuta limitata in modo considerevole se si è registrata una diminuzione della cifra d’affari mensile pari almeno al 30 per cento rispetto alla cifra d’affari mensile media degli anni 2015–2019. Se l’attività è stata avviata dopo il 2015 e prima del 2020, è determinante la media del periodo di attività effettivo. Le persone che hanno avviato la loro attività lucrativa dopo il 2019 devono dimostrare di aver subito una diminuzione della cifra d’affari mensile pari almeno al 30 per cento rispetto alla cifra d’affari mensile media di almeno tre mesi; fa stato la media dei tre mesi con le cifre d’affari più elevate.[^2-13]
 
-<sup>3quater</sup> I lavoratori particolarmente a rischio ai sensi dell’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^2-15] hanno diritto all’indennità se non possono essere occupati conformemente all’articolo 27*a* capoversi 1–4 dell’ordinanza 3 COVID-19 o se, in virtù dell’articolo 27*a* capoverso 6 dell’ordinanza 3 COVID-19, rifiutano il lavoro assegnato loro. La condizione di lavoratore particolarmente a rischio deve essere comprovata mediante un certificato medico.[^2-16]
+<sup>3quater</sup> I lavoratori particolarmente a rischio ai sensi dell’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^2-14] hanno diritto all’indennità se non possono essere occupati conformemente all’articolo 27*a* capoversi 1–4 dell’ordinanza 3 COVID-19 o se, in virtù dell’articolo 27*a* capoverso 6 dell’ordinanza 3 COVID-19, rifiutano il lavoro assegnato loro. La condizione di lavoratore particolarmente a rischio deve essere comprovata mediante un certificato medico.[^2-15]
 
-<sup>3quinquies</sup> I lavoratori indipendenti ai sensi dell’articolo 12 LPGA particolarmente a rischio hanno diritto all’indennità se non possono svolgere il loro lavoro da casa. Per la definizione delle persone particolarmente a rischio è applicabile per analogia l’articolo 27*a* capoversi 10–12 dell’ordinanza 3 COVID-19. La condizione di persona particolarmente a rischio deve essere comprovata mediante un certificato medico.[^2-17]
+<sup>3quinquies</sup> I lavoratori indipendenti ai sensi dell’articolo 12 LPGA particolarmente a rischio hanno diritto all’indennità se non possono svolgere il loro lavoro da casa. Per la definizione delle persone particolarmente a rischio è applicabile per analogia l’articolo 27*a* capoversi 10–12 dell’ordinanza 3 COVID-19. La condizione di persona particolarmente a rischio deve essere comprovata mediante un certificato medico.[^2-16]
 
-<sup>4</sup> L’indennità è sussidiaria rispetto a tutte le prestazioni di assicurazioni sociali e assicurazioni secondo la legge del 2 aprile 1908[^2-18] sul contratto d’assicurazione. Questo non vale per le prestazioni secondo l’articolo 12 della legge COVID-19 del 25 settembre 2020.[^2-19]
+<sup>4</sup> L’indennità è sussidiaria rispetto a tutte le prestazioni di assicurazioni sociali e assicurazioni secondo la legge del 2 aprile 1908[^2-17] sul contratto d’assicurazione. Questo non vale per le prestazioni secondo l’articolo 12 della legge COVID-19 del 25 settembre 2020.[^2-18]
 
-<sup>5</sup> ...[^2-20]
+<sup>5</sup> ...[^2-19]
 
 <sup>6</sup> Entrambi i genitori possono avere diritto all’indennità a causa della cessazione della custodia dei figli da parte di terzi. Il diritto può tuttavia essere fatto valere soltanto per un’indennità giornaliera per giorno di lavoro.
 
@@ -113,48 +101,48 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 
 [^2-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^2-2]: Nuovo testo giusta il n. I dell’O del 16 apr. 2020, in vigore dal 17 mar. 2020 ([RU 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)).
-[^2-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
+[^2-3]: Nuovo testo giusta il n. III 2 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), in vigore dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 [^2-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^2-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^2-6]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^2-7]: Introdotto dal n. I dell’O del 16 apr. 2020, in vigore dal 17 mar. 2020 ([RU 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)).
-[^2-8]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^2-9]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
-[^2-10]: Introdotto dall’art. 6 n. 2 dell’O del 2 lug. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906)).
-[^2-11]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^2-12]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-13]: Introdotto dal n. I dell’O del 16 apr. 2020 ([RU 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-14]: Introdotto dal n. I dell’O del 1° lug. 2020 ([RU 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
-[^2-15]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^2-8]: Nuovo testo giusta il n. III 2 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), in vigore dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^2-9]: Introdotto dall’art. 6 n. 2 dell’O del 2 lug. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)). Abrogato dal n. III 2 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), con effetto dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^2-10]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^2-11]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-12]: Introdotto dal n. I dell’O del 16 apr. 2020 ([RU 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-13]: Introdotto dal n. I dell’O del 1° lug. 2020 ([RU 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
+[^2-14]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^2-15]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
 [^2-16]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
-[^2-17]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
-[^2-18]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^2-19]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-20]: Abrogato dal n. I dell’O dell’11 set. 2020, con effetto dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
+[^2-17]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^2-18]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-19]: Abrogato dal n. I dell’O dell’11 set. 2020, con effetto dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 
 #### Art. 3
 
 **Inizio e fine del diritto, numero massimo di indennità giornaliere**[^3-1]
 
-<sup>1</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a numero 1, il diritto nasce il quarto giorno successivo alla chiusura ordinata all’istituto o alla quarantena ordinata alla persona prevista per la custodia dei figli.
+<sup>1</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a, il diritto nasce il quarto giorno successivo alla chiusura ordinata all’istituto.[^3-2]
 
-<sup>2</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a numero 2, il diritto nasce con l’inizio della quarantena dei contatti ordinata alla persona esercitante l’attività lucrativa o a suo figlio. Il diritto si estingue al termine della quarantena dei contatti ordinata.[^3-2]
+<sup>2</sup> ...[^3-3]
 
-<sup>3</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3 o 3<sup>bis</sup>, il diritto nasce con l’inizio del provvedimento ordinato dalle autorità.[^3-3]
+<sup>3</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3 o 3<sup>bis</sup>, il diritto nasce con l’inizio del provvedimento ordinato dalle autorità.[^3-4]
 
-<sup>4</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a numero 1, capoverso 3 o 3<sup>bis</sup>, il diritto si estingue con la revoca del provvedimento ordinato.[^3-4]
+<sup>4</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a, capoverso 3 o 3<sup>bis</sup>, il diritto si estingue con la revoca del provvedimento ordinato.[^3-5]
 
-<sup>5</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quater</sup>, il diritto nasce nel momento in cui una loro occupazione secondo l’articolo 27*a* capoversi 1–4 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^3-5] risulta impossibile o se in virtù dell’articolo 27*a* capoverso 6 dell’ordinanza 3 COVID-19 rifiutano il lavoro assegnato loro. Il diritto cessa con la ripresa del lavoro o con l’abrogazione dell’articolo 27*a* dell’ordinanza 3 COVID-19.[^3-6]
+<sup>5</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quater</sup>, il diritto nasce nel momento in cui una loro occupazione secondo l’articolo 27*a* capoversi 1–4 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^3-6] risulta impossibile o se in virtù dell’articolo 27*a* capoverso 6 dell’ordinanza 3 COVID-19 rifiutano il lavoro assegnato loro. Il diritto cessa con la ripresa del lavoro o con l’abrogazione dell’articolo 27*a* dell’ordinanza 3 COVID-19.[^3-7]
 
-<sup>6</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quinquies</sup> il diritto nasce con l’interruzione dell’attività lucrativa e cessa con la sua ripresa.[^3-7]
+<sup>6</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quinquies</sup> il diritto nasce con l’interruzione dell’attività lucrativa e cessa con la sua ripresa.[^3-8]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022, in vigore dal 25 gen. 2022 ([RU 2022 22](https://fedlex.data.admin.ch/eli/oc/2022/22)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^3-2]: Nuovo testo giusta il n. III 2 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), in vigore dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^3-3]: Abrogato dal n. III 2 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), con effetto dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
 [^3-4]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^3-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3-6]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
+[^3-5]: Nuovo testo giusta il n. III 2 dell’O del 2 feb. 2022 (Revoca della quarantena dei contatti e dell’obbligo di telelavoro), in vigore dal 3 feb. 2022 ([RU 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)).
+[^3-6]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^3-7]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
+[^3-8]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio) ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 mar. 2022 ([RU 2021 906](https://fedlex.data.admin.ch/eli/oc/2021/906); art. 11 cpv. 8).
 
 #### Art. 4
 
