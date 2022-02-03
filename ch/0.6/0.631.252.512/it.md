@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Convenzione doganale del 14 novembre 1975 concernente il trasporto internazionale di merci con libretti TIR (Convenzione TIR) (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: it
-version: 2021-06-01
+version: 2022-02-04
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20210601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20220204-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 (Convenzione TIR)
 
-Conchiusa a Ginevra il 14 novembre 1975
+Conchiusa a Ginevra il 14 novembre 1975 Approvata dall’Assemblea federale il 27 settembre 1977[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 3 febbraio 1978 Entrata in vigore per la Svizzera il 3 agosto 1978
 
-Approvata dall’Assemblea federale il 27 settembre 1977[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 3 febbraio 1978
-
-Entrata in vigore per la Svizzera il 3 agosto 1978
-
-(Stato 25 maggio 2021)
+(Stato 4 febbraio 2022)
 
 [^t-1]: [RU 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -146,7 +140,7 @@ Presso gli uffici doganali di passaggio, le merci trasportate nel regime TIR non
 
 #### Art. 6
 
-<sup>1.</sup> Fintanto che saranno rispettate le condizioni e prescrizioni minime convenute nella prima parte dell’Allegato 9, ogni Parte contraente può autorizzare delle associazioni a rilasciare libretti TIR, sia direttamente, sia per il tramite di associazioni con le quali esse sono in relazione, nonché ad assumerne la garanzia. L’autorizzazione è revocata se sono disattese le condizioni e prescrizioni minime contenute nella prima parte dell’Allegato 9.[^6-1]
+<sup>1.</sup> Fintanto che saranno rispettate le condizioni e prescrizioni minime convenute nella prima parte dell’Allegato 9, le autorità doganali o altre autorità competenti di una Parte contraente possono autorizzare delle associazioni a rilasciare libretti TIR, sia direttamente, sia per il tramite di associazioni con le quali esse sono in relazione, nonché ad assumerne la garanzia. L’autorizzazione è revocata se sono disattese le condizioni e prescrizioni minime contenute nella prima parte dell’Allegato 9.[^6-1]
 
 <sup>2.</sup> Un’associazione può essere ammessa[^6-2] in un Paese soltanto se la garanzia da essa prestata copre anche gli obblighi risultanti, in tale Paese, da trasporti di merci effettuati sulla scorta di libretti TIR rilasciati da associazioni estere affiliate alla medesima organizzazione internazionale cui è affiliata l’associazione garante.
 
@@ -158,12 +152,12 @@ Presso gli uffici doganali di passaggio, le merci trasportate nel regime TIR non
 
 <sup>5.</sup> L’accesso al regime TIR è accordato in virtù delle procedure definite nella seconda parte dell’allegato 9 alla presente Convenzione.[^6-6]
 
-[^6-1]: Nuovo testo giusta la mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^6-1]: Nuovo testo giusta la mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293). Aggiornato dalla mod. del 15 ott. 2020, in vigore per la Svizzera dal 4 feb. 2022 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 [^6-2]: Nuova espr. giusta la mod. del 12 ott. 2017, in vigore per la Svizzera dal 3 feb. 2019 ([RU 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
 [^6-3]: Introdotto dalla mod. approvata dal CF l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)). Nuovo testo giusta la mod. approvata dal CF il 26 giu. 2013 ed in vigore dal 10 ott. 2013 ([RU 2013 2787](https://fedlex.data.admin.ch/eli/oc/2013/573)).
-[^6-4]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
-[^6-5]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
-[^6-6]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^6-4]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998, in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^6-5]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998, in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^6-6]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998, in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
 
 #### Art. 7
 
@@ -286,7 +280,9 @@ Le merci e il veicolo stradale, l’autotreno o il contenitore vanno presentati 
 
 #### Art. 20
 
-Le autorità doganali possono fissare un termine per il trasporto attraverso il loro Paese ed esigere che il veicolo stradale, l’autotreno o il contenitore segua un itinerario prestabilito.
+Le autorità doganali competenti possono fissare un termine per il trasporto attraverso il territorio di una Parte contraente o di più Parti contraenti che formano un’unione doganale o economica ed esigere che il veicolo stradale, l’autotreno o il contenitore segua un itinerario prestabilito.[^20-1]
+
+[^20-1]: Aggiornato dalla mod. del 15 ott. 2020, in vigore per la Svizzera dal 4 feb. 2022 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 #### Art. 21
 
@@ -321,7 +317,7 @@ Se, in casi diversi da quelli menzionati agli articoli 24 e 35, una chiusura dog
 
 <sup>3.</sup> In tali casi gli uffici doganali presso i quali il trasporto TIR è interrotto o ripreso saranno reputati uffici di passaggio in uscita, rispettivamente in entrata.
 
-[^26-1]: Per. introdotto dalla mod. approvata dal CF il 26 mag. 2004 ed in vigore dal 19 set. 2004 ([RU 2005 703](https://fedlex.data.admin.ch/eli/oc/2005/78)).
+[^26-1]: Per. introdotto dalla mod. approvata dal CF il 26 mag. 2004, in vigore dal 19 set. 2004 ([RU 2005 703](https://fedlex.data.admin.ch/eli/oc/2005/78)).
 
 #### Art. 27
 
@@ -387,10 +383,10 @@ Allorché non è possibile stabilire dove un’irregolarità è stata commessa, 
 
 <sup>1.</sup> Ciascuna Parte contraente ha il diritto di escludere, temporaneamente o definitivamente, dalle agevolazioni della presente convenzione chiunque abbia commesso una grave e ripetuta infrazione alle leggi o ai regolamenti doganali applicabili ai trasporti internazionali di merci. Le condizioni alle quali l’infrazione alle leggi o ai regolamenti doganali è considerata grave sono stabilite dalla Parte contraente.[^38-1]
 
-<sup>2.</sup> Detta esclusione sarà notificata entro una settimana alle autorità competenti della Parte contraente sul cui territorio il contravventore risiede o è domiciliato, alla (alle) associazione(i) del Paese o del territorio doganale nel quale l’infrazione è stata commessa e alla Commissione di controllo TIR.[^38-2]
+<sup>2.</sup> Detta esclusione sarà notificata senza indugio alle autorità competenti della Parte contraente sul cui territorio il contravventore risiede o è domiciliato, alla (alle) associazione(i) del Paese o del territorio doganale nel quale l’infrazione è stata commessa e alla Commissione di controllo TIR.[^38-2]
 
 [^38-1]: Nuovo testo giusta la mod. del 12 ott. 2017, in vigore per la Svizzera dal 3 feb. 2019 ([RU 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
-[^38-2]: Nuovo testo giusta la mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^38-2]: Nuovo testo giusta la mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293). Aggiornato dalla mod. del 15 ott. 2020, in vigore per la Svizzera dal 4 feb. 2022 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 #### Art. 39
 
@@ -418,7 +414,7 @@ Verso domanda motivata di una Parte contraente, le autorità competenti delle Pa
 
 Le autorità competenti, in stretta collaborazione con le associazioni, adottano tutte le misure atte a garantire una corretta utilizzazione dei libretti TIR. All’uopo dette autorità possono prendere adeguate misure di controllo nazionali e internazionali. Le misure di controllo nazionali adottate in questo contesto dalle autorità competenti sono immediatamente comunicate alla Commissione di controllo TIR che verificherà la loro conformità con le disposizioni della Convenzione. Le misure di controllo internazionali sono adottate dal Comitato di gestione.
 
-[^42a-1]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^42a-1]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998, in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
 
 #### Art. 42b
 
@@ -571,7 +567,7 @@ Se, dopo l’entrata in vigore della presente Convenzione, il numero degli Stati
 
 È istituito un Comitato di gestione composto di tutte le Parti contraenti. La sua composizione, le sue funzioni e il suo regolamento interno sono definiti nell’Allegato 8.
 
-[^58a-1]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^58a-1]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998, in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
 
 #### Art. 58b
 
@@ -579,7 +575,7 @@ Se, dopo l’entrata in vigore della presente Convenzione, il numero degli Stati
 
 Il Comitato di gestione istituisce una Commissione di controllo TIR che fungerà da organo sussidiario e adempirà in suo nome i compiti che le sono trasmessi nell’ambito della Convenzione. La sua composizione, le sue funzioni e il suo regolamento interno sono definiti nell’Allegato 8.
 
-[^58b-1]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^58b-1]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998, in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
 
 #### Art. 59
 
@@ -605,7 +601,7 @@ Il Comitato di gestione istituisce una Commissione di controllo TIR che fungerà
 
 [^60-1]: Nuovo testo giusta la mod. approvata dal CF il 3 mag. 2006, in vigore dal 12 ago. 2006 ([RU 2007 1187](https://fedlex.data.admin.ch/eli/oc/2007/197)).
 [^60-2]: Nuovo testo di parte del per. giusta la mod. approvata dal CF il 3 mag. 2006, in vigore dal 12 ago. 2006 ([RU 2007 1187](https://fedlex.data.admin.ch/eli/oc/2007/197)).
-[^60-3]: Nuovo testo giusta la mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^60-3]: Nuovo testo giusta la mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998, in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
 
 #### Art. 60a
 
@@ -671,7 +667,7 @@ Allegato 1*[^t-2]*
 
 [^annexu1-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la mod. approvata dal CF il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)). Aggiornato giusta le mod. approvate dal CF il 20 giu. 1988 ([RU 1988 1304](https://fedlex.data.admin.ch/eli/oc/1988/1304_1304_1304)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 21 dic. 2005 ([RU 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)) e dalla mod. del DFF del 30 set. 2014, in vigore per la Svizzera il 1° gen. 2015 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)).
+[^t-2]: Nuovo testo giusta la mod. approvata dal CF il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)). Aggiornato giusta le mod. approvate dal CF il 20 giu. 1988 ([RU 1988 1304](https://fedlex.data.admin.ch/eli/oc/1988/1304_1304_1304)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 21 dic. 2005 ([RU 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)) e dalla mod. del DFF del 30 set. 2014, in vigore per la Svizzera dal 1° gen. 2015 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)).
 [^annexu1-lvlu1-1]: Il modello non è pubblicato nella RS, per lo stato attuale vedi le modifiche qui avanti. Può essere ottenuto presso la Direzione generale delle dogane, Sezione Franchigia doganale e transiti, 3003 Berna.
 
 ### Versione 1
@@ -820,43 +816,43 @@ Illustrazione n. 1
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image1.png)
 
 Illustrazione n. 2
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image2.png)
 
 Illustrazione n. 2a)
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image3.png)
 
 Illustrazione n. 3
 
 Copertone costituito da diversi pezzi connessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image4.png)
 
 Illustrazione n. 4
 
 Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image5.png)
 
 Illustrazione n. 5
 
 Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image6.png)
 
 Illustrazione n. 6
 
 Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image7.png)
 
 Il tetto scorrevole telonato è conforme ai requisiti di cui alle lettere a–c seguenti:
 
@@ -872,7 +868,7 @@ Illustrazione n. 7
 
 Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image8.png)
 
 ### Descrizione
 
@@ -882,7 +878,7 @@ Illustrazione n. 8
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image9.png)
 
 ### Descrizione
 
@@ -892,19 +888,19 @@ Illustrazione n. 9
 
 Esempio della struttura di un veicolo dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image11.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image12.png)
 
 Illustrazione n. 10
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image13.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image14.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image15.png)
 
 Allegato 3
 
@@ -995,7 +991,7 @@ Allegato 6*[^t-4]*
 
 ## Note esplicative
 
-[^t-4]: Aggiornato dalle mod. approvate dal CF il 1° ago. 1979 ([RU 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), il 2 giu. 1980 ([RU 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), l’8 lug. 1981 ([RU 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), l’11 ago. 1982 ([RU 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), l’11 apr. 1984 ([RU 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), il 14 ago. 1985 ([RU 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), il 4 nov. 1987 ([RU 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), il 23 mag. 1990 ([RU 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), il 18 dic. 1991 ([RU 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dal CF l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 26 set. 2003 ([RU 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), il 14 set. 2005 ([RU 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), dalla mod. in vigore dal 12 ago. 2006 ([RU 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), dalle mod. approvate dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) e il 1° lug. 2009 ([RU 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalle mod. dei 3 e 4 feb. 2011 ([RU 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), del 30 set. 2014 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), dalla mod. approvata dal DFF il 1° nov. 2016 ([RU 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) e dalla mod. del 15 ott. 2020, in vigore per la Svizzera dal 1 ° giu. 2021 ([RU 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)).
+[^t-4]: Aggiornato dalle mod. approvate dal CF il 1° ago. 1979 ([RU 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), il 2 giu. 1980 ([RU 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), l’8 lug. 1981 ([RU 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), l’11 ago. 1982 ([RU 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), l’11 apr. 1984 ([RU 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), il 14 ago. 1985 ([RU 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), il 4 nov. 1987 ([RU 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), il 23 mag. 1990 ([RU 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), il 18 dic. 1991 ([RU 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dal CF l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 26 set. 2003 ([RU 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), il 14 set. 2005 ([RU 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), dalla mod. in vigore dal 12 ago. 2006 ([RU 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), dalle mod. approvate dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), il 1° lug. 2009 ([RU 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalle mod. dei 3 e 4 feb. 2011 ([RU 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), del 30 set. 2014 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), dalla mod. approvata dal DFF il 1° nov. 2016 ([RU 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), del 15 ott. 2020 ([RU 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)) e del 15 ott. 2020, in vigore per la Svizzera dal 4 feb. 2022 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 ### Introduzione
 
@@ -1006,123 +1002,336 @@ Allegato 6*[^t-4]*
 
 ### 0 Tenore principale della Convenzione
 
-<table>
-<tr><td>0.1</td><td>Articolo 1</td></tr>
-<tr><td>0.1 b)</td><td>Dall’articolo 1 lettera b) risulta che se in uno o più Paesi vi sono più uffici doganali di partenza o di destinazione, nella stessa Parte contraente vi può essere più di un’operazione TIR. In queste condizioni il segmento nazionale di un trasporto TIR realizzato tra due uffici doganali consecutivi, indipendentemente dal fatto che si tratti di uffici di partenza, di destinazione o di passaggio, può essere considerato un’operazione TIR.</td></tr>
-<tr><td>0.1 f)</td><td>Per eccezioni (tasse e aggravi) previste alla lettera f) dell’articolo 1 s’intendono tutte le somme diverse dai tributi riscossi dalle Parti contraenti all’atto dell’importazione o dell’esportazione o in correlazione con l’importazione o l’esportazione. Gli importi di tali somme saranno limitati al costo approssimativo dei servizi resi e non dovranno costituire un mezzo indiretto di protezione dei prodotti nazionali o una tassa di carattere fiscale riscossa su le importazioni o le esportazioni. Tali tasse e aggravi comprendono, tra altro, i versamenti concernenti – i certificati d’origine, qualora siano necessari per il transito, – le analisi effettuate dai laboratori delle dogane a scopi di controllo, – i controlli doganali e le altre operazioni di sdoganamento effettuati fuori delle ore normali d’ufficio e dell’area ufficiale dell’ufficio doganale, – i controlli eseguiti per motivi d’ordine sanitario, veterinario o fitopatologico.</td></tr>
-<tr><td>0.1 ij)</td><td>Per «carrozzeria amovibile» s’intende un compartimento di carico sprovvisto di mezzi di locomozione e concepito in particolare per essere trasportato su veicolo stradale; il telaio del veicolo e la parte inferiore della carrozzeria devono essere specialmente adattati a tal fine. Questa definizione si applica anche alle casse mobili che sono compartimenti di carico specialmente concepiti per il trasporto intermodale strada/ferrovia.</td></tr>
-<tr><td>0.1 ij)i)</td><td>Con il termine «parzialmente chiuso», applicabile all’attrezzatura menzionata alla lettera ij) i) dell’articolo 1, s’intende un’attrezzatura generalmente costituita da un pavimento e da una sovrastruttura delimitanti uno spazio di carico corrispondente a quello di un contenitore chiuso. La sovrastruttura è di solito composta di elementi metallici formanti la carcassa di un contenitore. I contenitori di siffatto genere possono parimenti essere provvisti di una o più pareti laterali o frontali. Taluni di detti contenitori sono costituiti solo da un tetto collegato al pavimento mediante montanti verticali. I contenitori di tal genere sono segnatamente utilizzati per il trasporto di merci voluminose (ad esempio autovetture).</td></tr>
-<tr><td>02</td><td>Articolo 2</td></tr>
-<tr><td>0.2.1</td><td>L’articolo 2 prevede che un trasporto con libretto TIR può iniziare e terminare nello stesso Paese a condizione che durante il percorso attraversi territorio estero. In tal caso le autorità doganali del Paese di partenza possono esigere, oltre al libretto TIR, un documento nazionale destinato a garantire la libera reimportazione delle merci. Si raccomanda tuttavia alle autorità doganali di rinunciare ad un tale documento, sostituendolo con un’annotazione particolare sul libretto TIR.</td></tr>
-<tr><td>0.2.2</td><td>Le disposizioni di detto articolo permettono il trasporto di merci con libretto TIR anche quando solo una parte del tragitto è percorsa per strada. Esse non precisano quale parte del tragitto debba essere percorsa per strada e basta che tale parte si trovi tra l’inizio del trasporto TIR e la sua fine. Tuttavia, contrariamente alle intenzioni del mittente alla partenza, può capitare per motivi imprevisti, di carattere commerciale o accidentale, che nessuna parte del tragitto possa essere percorsa per strada. In tali casi straordinari le Parti contraenti accetteranno il libretto TIR e la responsabilità delle associazioni garanti rimarrà immutata.</td></tr>
-<tr><td>0.3</td><td>Articolo 3</td></tr>
-<tr><td>0.3 a) iii)</td><td>Le disposizioni dell’articolo 3 a) iii) non si applicano alle autovetture (codice SA 8703) che si spostano con i propri mezzi. Le autovetture possono tuttavia essere ammesse al trasporto nel regime TIR se sono trasportate da altri veicoli come indicato all’articolo 3 lettera a) i) e a) ii).</td></tr>
-<tr><td>0.5</td><td>Articolo 5 Tale articolo non esclude il diritto di eseguire dei controlli saltuari delle merci, ma specifica che detti controlli dovranno essere di numero molto limitato. Infatti il sistema internazionale del libretto TIR offre maggiori garanzie rispetto a quelle derivanti dalle procedure nazionali; da un canto, le indicazioni nel libretto TIR riferentisi alle merci devono corrispondere con le menzioni contenute nei documenti doganali eventualmente stesi nel Paese di partenza; d’altro canto, ai Paesi di passaggio e di destinazione sono già date delle garanzie dai controlli effettuati alla partenza e convalidati con il visto dell’ufficio doganale di partenza (v. anche la nota esplicativa all’articolo 19).</td></tr>
-<tr><td>0.6</td><td>Articolo 6</td></tr>
-<tr><td>0.6.2</td><td>Secondo le disposizioni di tale paragrafo, le autorità doganali di un Paese possono ammettere più associazioni, ciascuna delle quali assume la responsabilità derivante da operazioni effettuate con libretti che essa ha rilasciato o che sono stati rilasciati dalle associazioni con cui essa è in relazione.</td></tr>
-<tr><td>0.6.2<sup>bis-1</sup></td><td>Le relazioni tra un’organizzazione internazionale e le sue associazioni membro sono definite in accordi scritti che trattano del funzionamento del sistema di garanzia internazionale.</td></tr>
-<tr><td>0.6.2<sup>bis-2</sup></td><td>L’autorizzazione di cui all’articolo 6.2<sup>bis</sup> deve essere stabilita in un accordo scritto concluso tra la CEE-ONU e l’organizzazione internazionale. Nell’accordo occorre indicare che l’organizzazione internazionale soddisfa le disposizioni pertinenti della Convenzione, rispetta le competenze delle Parti contraenti della Convenzione, ottempera alle decisioni del Comitato di gestione TIR e osserva le domande presentate dalla Commissione di controllo TIR. Con la firma dell’accordo, l’organizzazione internazionale conferma di accettare le responsabilità connesse con l’autorizzazione. L’accordo è parimenti applicabile alle responsabilità dell’organizzazione internazionale menzionate nell’articolo 10 lettera b) dell’Allegato 8, sempre che l’attività di stampa e di rilascio centralizzato dei libretti TIR venga espletata dalla citata organizzazione internazionale summenzionata. L’accordo viene approvato dal Comitato di gestione.</td></tr>
-<tr><td>0.8</td><td>Articolo 8</td></tr>
-<tr><td>0.8.2</td><td>Le disposizioni del presente paragrafo si applicano se, in caso di irregolarità come quelle previste dal paragrafo 1 dall’articolo 8, le leggi e i regolamenti di una parte contraente prevedono il pagamento di somme diverse dai tributi d’entrata e d’uscita, come le ammende amministrative o altre sanzioni pecuniarie. La somma da pagare non deve però essere superiore all’importo dei tributi d’entrata e d’uscita che avrebbero dovuto essere pagati se le merci fossero state importate o esportate secondo le disposizioni doganali pertinenti, più gli eventuali interessi di mora.</td></tr>
-<tr><td>0.8.3</td><td>Si raccomanda alle Parti contraenti di limitare a una somma corrispondente a 100 000 EUR, per libretto TIR, l’importo massimo eventualmente esigibile dall’associazione garante. Per un trasporto di alcool e di tabacco, il cui dettaglio figura qui di seguito ed eccede i valori soglia qui sotto definiti, si raccomanda alle Parti contraenti di portare l’importo massimo eventualmente esigibile dalle associazioni garanti a una somma corrispondente a 200 000 dollari degli Stati Uniti: 1. alcool etilico non denaturato ad un titolo alcolometrico volumico dell’80% vol o più (codice SH 2207.10); 2. alcool etilico non denaturato ad un titolo alcolometrico volumico di meno dell’80%; acquavite, liquori e altre bevande spiritose; preparazioni alcoliche composte dei tipi utilizzati per la fabbricazione di bevande (codice SH: 2208); 3. sigari (compresi quelli a punta tagliata) e cigarillos, contenenti tabacco (codice SH: 2402.10); 4. sigarette contenenti tabacco (codice SH: 2402.20); 5. tabacco da fumare anche se contiene succedanei del tabacco in ogni proporzione (codice SH: 2403.11 e 2403.19). Si raccomanda di limitare a una somma corrispondente a 100 000 EUR l’importo massimo eventualmente esigibile dalle associazioni garanti, se le quantità qui sotto elencate non sono sorpassate per le categorie di tabacco e di alcool di cui sopra: 1. 300 litri, 2. 500 litri, 3. 40 000 unità, 4. 70 000 unità, 5. 100 chilogrammi. Le quantità esatte in litri, unità e chilogrammi delle categorie di tabacco e di alcool di cui sopra devono essere iscritte nel manifesto del libretto TIR.</td></tr>
-<tr><td>0.8.5</td><td>Qualora venga inviata una richiesta di pagamento all’associazione garante per merci non menzionate nel libretto TIR, l’amministrazione interessata dovrebbe menzionare i fatti a fondamento dei quali essa si è convinta che le merci erano contenute nel compartimento sigillato dell’autocarro o del contenitore.</td></tr>
-<tr><td>0.8.6</td><td>1. Qualora indicazioni insufficientemente precise nel libretto TIR non permettessero di gravare le merci di tributi, gli interessati potranno addurre la prova della natura esatta di dette merci. 2. Se non è addotta alcuna prova, i tributi non saranno riscossi secondo un’aliquota forfettaria estranea alla natura della merce, bensì secondo l’aliquota più alta applicabile al genere di merci corrispondente alle indicazioni nel libretto TIR</td></tr>
-<tr><td>0.10</td><td>Articolo 10</td></tr>
-<tr><td>0.10.1</td><td>Il certificato di fine dell’operazione TIR è reputato ottenuto abusivamente o fraudolentemente allorché l’operazione TIR è stata effettuata impiegando compartimenti di carico o contenitori modificati fraudolentemente, oppure quando furono accertati dei raggiri, come l’impiego di documenti falsi o inesatti, la sostituzione di merci, la manipolazione di chiusure doganali ecc., oppure allorquando il certificato è stato ottenuto con altri mezzi illeciti.</td></tr>
-<tr><td>0.10.2</td><td>La frase «o non vi sia stata la fine dell’operazione» comprende i casi in cui l’attestazione della fine dell’operazione è stata falsificata.</td></tr>
-<tr><td>0.11</td><td>Articolo 11</td></tr>
-<tr><td>0.11.1</td><td>Le modalità di notifica sono disciplinate dalla legislazione nazionale.</td></tr>
-<tr><td>0.11.2</td><td>Nel tentativo di esigere il pagamento da parte delle persone debitrici, le autorità competenti inviano la richiesta di pagamento almeno al titolare del libretto TIR, al suo indirizzo indicato sul libretto, o ai terzi tenuti al pagamento, se diversi dal titolare, stabiliti conformemente alla legislazione nazionale. La richiesta di pagamento al titolare del libretto TIR può essere abbinata alla notifica di cui al paragrafo 1 lettera a) del presente articolo.</td></tr>
-<tr><td>0.11.3-1</td><td>Allorché devono prendere la decisione di liberare o no le merci o il veicolo, le autorità competenti non dovrebbero lasciarsi influenzare dal fatto che l’associazione garante è responsabile del pagamento dei tributi o degli interessi di mora dovuti dal titolare del libretto, se la loro legislazione offre altri mezzi per assicurare la tutela degli interessi che esse devono difendere.</td></tr>
-<tr><td>0.11.3-2</td><td>Le autorità competenti possono informare l’associazione garante che sono stati avviati procedimenti amministrativi o giudiziari riguardanti l’obbligo di pagamento. In ogni caso, le autorità competenti, prima che il termine di due anni sia scaduto, informano l’associazione garante in merito a tali procedimenti che possono concludersi dopo il termine di due anni.</td></tr>
-<tr><td>0.11.4</td><td>Se, conformemente alla procedura di cui nel presente articolo, l’associazione garante è invitata a pagare le somme previste ai paragrafi 1 e 2 dell’articolo 8 e non lo fa entro il termine di tre mesi prescritto dalla Convenzione, le autorità competenti potranno esigere il pagamento di dette somme fondandosi sul loro ordinamento nazionale, poiché in tal caso si tratta di una mancata esecuzione di un contratto di garanzia firmato dall’associazione garante in virtù della legislazione nazionale. Tale termine si applica anche nel caso in cui l’associazione garante, al ricevimento della richiesta, consulti l’organizzazione internazionale di cui all’articolo 6 paragrafo 2 in merito alla sua posizione sulla richiesta.</td></tr>
-<tr><td>0.15</td><td>Articolo 15 La rinuncia al documento doganale d’importazione temporanea può far sorgere certe difficoltà allorché trattasi di veicoli non soggetti all’immatricolazione, come in certi Paesi i rimorchi o i semirimorchi. In tal caso le disposizioni dell’articolo 15 possono essere rispettate – garantendo nel contempo alle autorità doganali una sufficiente sicurezza – mediante annotazione, nei tagliandi n. 1 e 2 del libretto TIR utilizzati dal rispettivo Paese e nelle matrici corrispondenti, delle caratteristiche (marche e numeri) di detti veicoli.</td></tr>
-<tr><td>0.17</td><td>Articolo 17</td></tr>
-<tr><td>0.17.1</td><td>La disposizione secondo la quale il manifesto delle merci spedite con libretto Tir deve indicare separatamente il contenuto di ogni veicolo appartenente ad un autotreno o di ogni contenitore ha unicamente lo scopo di agevolare il controllo doganale del contenuto di un sol veicolo o di un sol contenitore. Detta disposizione non deve dunque essere interpretata con un rigore tale che qualsiasi differenza tra il contenuto effettivo d’un veicolo o d’un contenitore e il contenuto di tale veicolo o contenitore, indicato nel manifesto, sia reputata come una violazione delle disposizioni della Convenzione. Se, a soddisfazione delle autorità competenti, il trasportatore può comprovare che nonostante tale differenza tutte le merci indicate nel manifesto corrispondono al totale delle merci caricate nell’autotreno o nei contenitori trasportati con libretto TIR, non si dovrà reputare, per principio, che esista una violazione delle disposizioni doganali.</td></tr>
-<tr><td>0.17.2</td><td>In caso di traslochi, si potrà applicare la procedura prevista al paragrafo 10 c) delle regole concernenti l’impiego del libretto TIR e si semplificherà ragionevolmente l’enumerazione degli oggetti trasportati.</td></tr>
-<tr><td>0.18</td><td>Articolo 18</td></tr>
-<tr><td>0.18.1</td><td>Il buon funzionamento del regime TIR esige che le autorità doganali di un Paese rifiutino che un ufficio d’uscita di tale Paese sia designato come ufficio di destinazione per un trasporto che prosegue verso il Paese vicino, pure Parte contraente della presente Convenzione, tranne che motivi particolari ne giustifichino la domanda.</td></tr>
-<tr><td>0.18.2</td><td>1. Le merci devono essere caricate in modo che la partita di merci destinata ad essere scaricata al primo luogo di scarico possa essere ritirata dal veicolo o dal contenitore senza dover scaricare l’altra partita o le altre partite di merci destinate ad essere scaricate negli altri luoghi di scarico. 2. Trattandosi di un trasporto comprendente lo scarico presso più uffici, è necessario, non appena sia stato effettuato uno scarico parziale, apporre un’adeguata annotazione nella casella 12 di tutti i rimanenti manifesti del libretto TIR, specificando nel tempo stesso nei tagliandi rimanenti e nelle matrici corrispondenti che sono state applicate nuove chiusure.</td></tr>
-<tr><td>0.19</td><td>Articolo 19</td></tr>
-<tr><td></td><td>L’obbligo, per l’ufficio doganale di partenza, di accertarsi dell’esattezza del manifesto delle merci implica la necessità di verificare almeno che le indicazioni nel manifesto concernenti le merci corrispondano a quelle dei documenti d’esportazione e dei documenti di trasporto o di altri documenti commerciali inerenti a tali merci; se necessario, l’ufficio doganale di partenza può parimenti sottoporre le merci alla visita. Prima di apporre le chiusure l’ufficio doganale di partenza deve pure verificare lo stato del veicolo stradale o del contenitore e, qualora trattisi di veicoli o contenitori provvisti di copertone, lo stato dei copertoni e dei mezzi di fissazione dei copertoni, tali accessori non essendo compresi nel certificato d’ammissione.</td></tr>
-<tr><td>0.20</td><td>Articolo 20 Allorché fissano dei termini per il trasporto di merci sul loro territorio, le autorità doganali devono parimenti tener conto, tra altro, dei regolamenti particolari che i trasportatori sono tenuti ad osservare, segnatamente dei regolamenti concernenti le ore di lavoro e i periodi di riposo obbligatorio dei conducenti di veicoli stradali. Si raccomanda alle autorità doganali di far uso del loro diritto di fissare l’itinerario soltanto se lo giudicano indispensabile.</td></tr>
-<tr><td>0.21</td><td>Articolo 21</td></tr>
-<tr><td>0.21.1</td><td>Le disposizioni di detto articolo non limitano per nulla la facoltà delle autorità doganali di controllare tutte le parti del veicolo nonché i compartimenti di carico posti sotto chiusura doganale</td></tr>
-<tr><td>0.21.2</td><td>L’ufficio doganale d’entrata può rinviare il trasportatore all’ufficio doganale d’uscita del Paese vicino allorché accerta che il visto d’uscita è stato omesso o non è stato apposto correttamente in detto Paese. In tal caso l’ufficio doganale d’entrata iscrive nel libretto TIR un’annotazione per il corrispondente ufficio doganale d’uscita.</td></tr>
-<tr><td>0.21.3</td><td>Se, procedendo alle operazioni di controllo, le autorità doganali prelevano dei campioni di merci, esse devono iscrivere nel manifesto delle merci del libretto Tir un’annotazione contenente tutte le necessarie indicazioni sulle merci prelevate.</td></tr>
-<tr><td>0.28</td><td>Articolo 28</td></tr>
-<tr><td>0.28.1</td><td>L’uso del libretto TIR dev’essere limitato alle funzioni che gli sono proprie, vale a dire il transito. Il libretto TIR non deve servire, per esempio, a conservare le merci vincolate a dogana al luogo di destinazione.</td></tr>
-<tr><td>0.28.2</td><td>Il presente articolo prevede che la fine di un’operazione TIR sia vincolata all’immissione delle merci in un altro regime doganale o in un altro sistema di controllo doganale, quale, ad esempio, lo sdoganamento delle merci (con o senza condizioni) a fini di consumo interno, il trasferimento oltre confine in un Paese terzo (esportazione), o in una zona franca, o il deposito delle merci in un luogo autorizzato dalle autorità doganali in attesa di dichiarazione per un altro regime doganale.</td></tr>
-<tr><td>0.29</td><td>Articolo 29 [tab] Non è richiesto un certificato d’ammissione per i veicoli stradali o i contenitori trasportanti merci ponderose o voluminose. Spetta tuttavia all’ufficio doganale di partenza di verificare che siano adempite le altre condizioni fissate in detto articolo per tale genere di trasporto. Gli uffici doganali delle altre Parti contraenti accetteranno la decisione presa dall’ufficio doganale di partenza, salvo che la reputino in manifesta contraddizione con le disposizioni dell’articolo 29.</td></tr>
-<tr><td>0.38</td><td>Articolo 38</td></tr>
-<tr><td>0.38.2</td><td>L’obbligo legale di notificare alla Commissione di controllo TIR che una persona è stata temporaneamente o definitivamente esclusa dalle agevolazioni previste dalla Convenzione si ritiene adempiuto qualora siano state correttamente utilizzate le applicazioni elettroniche sviluppate a tal fine dal Segretariato TIR con la supervisione della Commissione di controllo TIR.</td></tr>
-<tr><td>0.39</td><td>Articolo 39</td></tr>
-<tr><td></td><td>L’espressione «errori commessi per negligenza» si riferisce ad atti che non sono commessi deliberatamente e con piena cognizione di causa, ma che risultano dal fatto che non sono stati presi provvedimenti ragionevoli e necessari per garantire l’esattezza delle indicazioni nel singolo caso.</td></tr>
-<tr><td>0.42</td><td>Art. 42a</td></tr>
-<tr><td></td><td>Il termine «immediatamente», di cui all’articolo 42*a*, va inteso nel senso che tutte le misure nazionali suscettibili di incidere sull’applicazione della Convenzione TIR e/o sul funzionamento del sistema TIR dovrebbero essere comunicate per scritto alla Commissione di controllo TIR quanto prima e, se possibile, prima della loro entrata in vigore, per consentire a tale commissione di espletare in modo efficace le funzioni di supervisione e adempiere al proprio compito di verificare la conformità delle misure alla convenzione TIR, conformemente all’articolo 42*a* e al proprio mandato, quale stabilito nell’allegato 8 della Convenzione TIR.</td></tr>
-<tr><td>0.45</td><td>Articolo 45 Si raccomanda alle Parti contraenti di abilitare il più grande numero possibile di uffici doganali, all’interno e al confine, alle operazioni TIR.</td></tr>
-<tr><td>0.49</td><td>Articolo 49 Le Parti contraenti possono accordare, conformemente alla loro legislazione nazionale, agevolezze più ampie per l’applicazione delle disposizioni della Convenzione alle persone debitamente autorizzate. Le condizioni imposte dalle autorità competenti nell’accordare tali agevolezze dovrebbero includere almeno l’uso delle tecnologie dell’informazione e della comunicazione per garantire il corretto svolgimento della procedura TIR, l’esenzione dall’obbligo di presentare le merci, il veicolo stradale, l’autotreno, il contenitore e il libretto TIR presso gli uffici doganali di partenza o di destinazione nonché le istruzioni per le persone debitamente autorizzate a svolgere compiti specifici assegnati alle autorità doganali secondo la Convenzione TIR, in particolare la compilazione del libretto TIR, l’apposizione del timbro sul libretto TIR e l’apposizione o la verifica dei sigilli doganali. Le persone debitamente autorizzate a cui sono state accordate agevolezze più ampie dovrebbero introdurre un sistema di conservazione dei dati che consente alle autorità doganali di effettuare controlli efficaci nonché di sorvegliare la procedura ed effettuare controlli casuali. Agevolezze più ampie dovrebbero essere accordate ai titolari di libretti TIR senza pregiudicare l’obbligo di pagamento previsto all’articolo 11 paragrafo 2 della Convenzione.</td></tr>
-</table>
+### 0.1 Articolo 1
+
+0.1 b) Dall’articolo 1 lettera b) risulta che se in uno o più Paesi vi sono più uffici doganali di partenza o di destinazione, nella stessa Parte contraente vi può essere più di un’operazione TIR. In queste condizioni il segmento nazionale di un trasporto TIR realizzato tra due uffici doganali consecutivi, indipendentemente dal fatto che si tratti di uffici di partenza, di destinazione o di passaggio, può essere considerato un’operazione TIR.
+
+0.1 f) Per eccezioni (tasse e aggravi) previste alla lettera f) dell’articolo 1 s’intendono tutte le somme diverse dai tributi riscossi dalle Parti contraenti all’atto dell’importazione o dell’esportazione o in correlazione con l’importazione o l’esportazione. Gli importi di tali somme saranno limitati al costo approssimativo dei servizi resi e non dovranno costituire un mezzo indiretto di protezione dei prodotti nazionali o una tassa di carattere fiscale riscossa su le importazioni o le esportazioni. Tali tasse e aggravi comprendono, tra altro, i versamenti concernenti
+
+- – i certificati d’origine, qualora siano necessari per il transito,
+- – le analisi effettuate dai laboratori delle dogane a scopi di controllo,
+- – i controlli doganali e le altre operazioni di sdoganamento effettuati fuori delle ore normali d’ufficio e dell’area ufficiale dell’ufficio doganale,
+- – i controlli eseguiti per motivi d’ordine sanitario, veterinario o fitopatologico.
+
+0.1 ij) Per «carrozzeria amovibile» s’intende un compartimento di carico sprovvisto di mezzi di locomozione e concepito in particolare per essere trasportato su veicolo stradale; il telaio del veicolo e la parte inferiore della carrozzeria devono essere specialmente adattati a tal fine. Questa definizione si applica anche alle casse mobili che sono compartimenti di carico specialmente concepiti per il trasporto intermodale strada/ferrovia.
+
+0.1 ij)i) Con il termine «parzialmente chiuso», applicabile all’attrezzatura menzionata alla lettera ij) i) dell’articolo 1, s’intende un’attrezzatura generalmente costituita da un pavimento e da una sovrastruttura delimitanti uno spazio di carico corrispondente a quello di un contenitore chiuso. La sovrastruttura è di solito composta di elementi metallici formanti la carcassa di un contenitore. I contenitori di siffatto genere possono parimenti essere provvisti di una o più pareti laterali o frontali. Taluni di detti contenitori sono costituiti solo da un tetto collegato al pavimento mediante montanti verticali. I contenitori di tal genere sono segnatamente utilizzati per il trasporto di merci voluminose (ad esempio autovetture).
+
+### 0.2 Articolo 2
+
+0.2.1 L’articolo 2 prevede che un trasporto con libretto TIR può iniziare e terminare nello stesso Paese a condizione che durante il percorso attraversi territorio estero. In tal caso le autorità doganali del Paese di partenza possono esigere, oltre al libretto TIR, un documento nazionale destinato a garantire la libera reimportazione delle merci. Si raccomanda tuttavia alle autorità doganali di rinunciare ad un tale documento, sostituendolo con un’annotazione particolare sul libretto TIR.
+
+0.2.2 Le disposizioni di detto articolo permettono il trasporto di merci con libretto TIR anche quando solo una parte del tragitto è percorsa per strada. Esse non precisano quale parte del tragitto debba essere percorsa per strada e basta che tale parte si trovi tra l’inizio del trasporto TIR e la sua fine. Tuttavia, contrariamente alle intenzioni del mittente alla partenza, può capitare per motivi imprevisti, di carattere commerciale o accidentale, che nessuna parte del tragitto possa essere percorsa per strada. In tali casi straordinari le Parti contraenti accetteranno il libretto TIR e la responsabilità delle associazioni garanti rimarrà immutata.
+
+### 0.3 Articolo 3
+
+0.3 a) iii) Le disposizioni dell’articolo 3 a) iii) non si applicano alle autovetture (codice SA 8703) che si spostano con i propri mezzi. Le autovetture possono tuttavia essere ammesse al trasporto nel regime TIR se sono trasportate da altri veicoli come indicato all’articolo 3 lettera a) i) e a) ii).
+
+### 0.5 Articolo 5
+
+Tale articolo non esclude il diritto di eseguire dei controlli saltuari delle merci, ma specifica che detti controlli dovranno essere di numero molto limitato. Infatti il sistema internazionale del libretto TIR offre maggiori garanzie rispetto a quelle derivanti dalle procedure nazionali; da un canto, le indicazioni nel libretto TIR riferentisi alle merci devono corrispondere con le menzioni contenute nei documenti doganali eventualmente stesi nel Paese di partenza; d’altro canto, ai Paesi di passaggio e di destinazione sono già date delle garanzie dai controlli effettuati alla partenza e convalidati con il visto dell’ufficio doganale di partenza (v. anche la nota esplicativa all’articolo 19).
+
+### 0.6 Articolo 6
+
+0.6.2 Secondo le disposizioni di tale paragrafo, le autorità doganali di una Parte contraente possono ammettere più associazioni, ciascuna delle quali assume la responsabilità derivante da operazioni effettuate con libretti che essa ha rilasciato o che sono stati rilasciati dalle associazioni con cui essa è in relazione.
+
+0.6.2<sup>bis-1</sup> Le relazioni tra un’organizzazione internazionale e le sue associazioni membro sono definite in accordi scritti che trattano del funzionamento del sistema di garanzia internazionale.
+
+0.6.2<sup>bis-2</sup> L’autorizzazione di cui all’articolo 6.2<sup>bis</sup> deve essere stabilita in un accordo scritto concluso tra la CEE-ONU e l’organizzazione internazionale. Nell’accordo occorre indicare che l’organizzazione internazionale soddisfa le disposizioni pertinenti della Convenzione, rispetta le competenze delle Parti contraenti della Convenzione, ottempera alle decisioni del Comitato di gestione TIR e osserva le domande presentate dalla Commissione di controllo TIR. Con la firma dell’accordo, l’organizzazione internazionale conferma di accettare le responsabilità connesse con l’autorizzazione. L’accordo è parimenti applicabile alle responsabilità dell’organizzazione internazionale menzionate nell’articolo 10 lettera b) dell’Allegato 8, sempre che l’attività di stampa e di rilascio centralizzato dei libretti TIR venga espletata dalla citata organizzazione internazionale summenzionata. L’accordo viene approvato dal Comitato di gestione.
+
+### 0.8 Articolo 8
+
+0.8.2 Le disposizioni del presente paragrafo si applicano se, in caso di irregolarità come quelle previste dal paragrafo 1 dall’articolo 8, le leggi e i regolamenti di una parte contraente prevedono il pagamento di somme diverse dai tributi d’entrata e d’uscita, come le ammende amministrative o altre sanzioni pecuniarie. La somma da pagare non deve però essere superiore all’importo dei tributi d’entrata e d’uscita che avrebbero dovuto essere pagati se le merci fossero state importate o esportate secondo le disposizioni doganali pertinenti, più gli eventuali interessi di mora.
+
+0.8.3 Si raccomanda alle Parti contraenti di limitare a una somma corrispondente a 100 000 EUR, per libretto TIR, l’importo massimo eventualmente esigibile dall’associazione garante.
+
+Per un trasporto di alcool e di tabacco, il cui dettaglio figura qui di seguito ed eccede i valori soglia qui sotto definiti, si raccomanda alle Parti contraenti di portare l’importo massimo eventualmente esigibile dalle associazioni garanti a una somma corrispondente a 400 000 euro degli Stati Uniti:
+
+- 1\. alcool etilico non denaturato ad un titolo alcolometrico volumico dell’80% vol o più (codice SH 2207.10);
+- 2\. alcool etilico non denaturato ad un titolo alcolometrico volumico di meno dell’80%; acquavite, liquori e altre bevande spiritose; preparazioni alcoliche composte dei tipi utilizzati per la fabbricazione di bevande (codice SH: 2208);
+- 3\. sigari (compresi quelli a punta tagliata) e cigarillos, contenenti tabacco (codice SH: 2402.10);
+- 4\. sigarette contenenti tabacco (codice SH: 2402.20);
+- 5\. tabacco da fumare anche se contiene succedanei del tabacco in ogni proporzione (codice SH: 2403.11 e 2403.19).
+
+Si raccomanda di limitare a una somma corrispondente a 100 000 EUR l’importo massimo eventualmente esigibile dalle associazioni garanti, se le quantità qui sotto elencate non sono sorpassate per le categorie di tabacco e di alcool di cui sopra:
+
+- [tab] 1. 300 litri,
+- [tab] 2. 500 litri,
+- [tab] 3. 40 000 unità,
+- [tab] 4. 70 000 unità,
+- [tab] 5. 100 chilogrammi.
+
+Le quantità esatte in litri, unità e chilogrammi delle categorie di tabacco e di alcool di cui sopra devono essere iscritte nel manifesto del libretto TIR.
+
+0.8.5 Qualora venga inviata una richiesta di pagamento all’associazione garante per merci non menzionate nel libretto TIR, l’amministrazione interessata dovrebbe menzionare i fatti a fondamento dei quali essa si è convinta che le merci erano contenute nel compartimento sigillato dell’autocarro o del contenitore.
+
+0.8.6
+
+\1. Qualora indicazioni insufficientemente precise nel libretto TIR non permettessero di gravare le merci di tributi, gli interessati potranno addurre la prova della natura esatta di dette merci.
+
+\2. Se non è addotta alcuna prova, i tributi non saranno riscossi secondo un’aliquota forfettaria estranea alla natura della merce, bensì secondo l’aliquota più alta applicabile al genere di merci corrispondente alle indicazioni nel libretto TIR
+
+### 0.10 Articolo 10
+
+0.10.1 Il certificato di fine dell’operazione TIR è reputato ottenuto abusivamente o fraudolentemente allorché l’operazione TIR è stata effettuata impiegando compartimenti di carico o contenitori modificati fraudolentemente, oppure quando furono accertati dei raggiri, come l’impiego di documenti falsi o inesatti, la sostituzione di merci, la manipolazione di chiusure doganali ecc., oppure allorquando il certificato è stato ottenuto con altri mezzi illeciti.
+
+0.10.2 La frase «o non vi sia stata la fine dell’operazione» comprende i casi in cui l’attestazione della fine dell’operazione è stata falsificata.
+
+### 0.11 Articolo 11
+
+0.11.1 Le modalità di notifica sono disciplinate dalla legislazione nazionale.
+
+0.11.2 Nel tentativo di esigere il pagamento da parte delle persone debitrici, le autorità competenti inviano la richiesta di pagamento almeno al titolare del libretto TIR, al suo indirizzo indicato sul libretto, o ai terzi tenuti al pagamento, se diversi dal titolare, stabiliti conformemente alla legislazione nazionale. La richiesta di pagamento al titolare del libretto TIR può essere abbinata alla notifica di cui al paragrafo 1 lettera a) del presente articolo.
+
+0.11.3-1 Allorché devono prendere la decisione di liberare o no le merci o il veicolo, le autorità competenti non dovrebbero lasciarsi influenzare dal fatto che l’associazione garante è responsabile del pagamento dei tributi o degli interessi di mora dovuti dal titolare del libretto, se la loro legislazione offre altri mezzi per assicurare la tutela degli interessi che esse devono difendere.
+
+0.11.3-2 Le autorità competenti possono informare l’associazione garante che sono stati avviati procedimenti amministrativi o giudiziari riguardanti l’obbligo di pagamento. In ogni caso, le autorità competenti, prima che il termine di due anni sia scaduto, informano l’associazione garante in merito a tali procedimenti che possono concludersi dopo il termine di due anni.
+
+0.11.4 Se, conformemente alla procedura di cui nel presente articolo, l’associazione garante è invitata a pagare le somme previste ai paragrafi 1 e 2 dell’articolo 8 e non lo fa entro il termine di tre mesi prescritto dalla Convenzione, le autorità competenti potranno esigere il pagamento di dette somme fondandosi sul loro ordinamento nazionale, poiché in tal caso si tratta di una mancata esecuzione di un contratto di garanzia firmato dall’associazione garante in virtù della legislazione nazionale. Tale termine si applica anche nel caso in cui l’associazione garante, al ricevimento della richiesta, consulti l’organizzazione internazionale di cui all’articolo 6 paragrafo 2 in merito alla sua posizione sulla richiesta.
+
+### 0.15 Articolo 15
+
+La rinuncia al documento doganale d’importazione temporanea può far sorgere certe difficoltà allorché trattasi di veicoli non soggetti all’immatricolazione, come in certi Paesi i rimorchi o i semirimorchi. In tal caso le disposizioni dell’articolo 15 possono essere rispettate – garantendo nel contempo alle autorità doganali una sufficiente sicurezza – mediante annotazione, nei tagliandi n. 1 e 2 del libretto TIR utilizzati dal rispettivo Paese e nelle matrici corrispondenti, delle caratteristiche (marche e numeri) di detti veicoli.
+
+### 0.17 Articolo 17
+
+0.17.1 La disposizione secondo la quale il manifesto delle merci spedite con libretto Tir deve indicare separatamente il contenuto di ogni veicolo appartenente ad un autotreno o di ogni contenitore ha unicamente lo scopo di agevolare il controllo doganale del contenuto di un sol veicolo o di un sol contenitore. Detta disposizione non deve dunque essere interpretata con un rigore tale che qualsiasi differenza tra il contenuto effettivo d’un veicolo o d’un contenitore e il contenuto di tale veicolo o contenitore, indicato nel manifesto, sia reputata come una violazione delle disposizioni della Convenzione. Se, a soddisfazione delle autorità competenti, il trasportatore può comprovare che nonostante tale differenza tutte le merci indicate nel manifesto corrispondono al totale delle merci caricate nell’autotreno o nei contenitori trasportati con libretto TIR, non si dovrà reputare, per principio, che esista una violazione delle disposizioni doganali.
+
+0.17.2 In caso di traslochi, si potrà applicare la procedura prevista al paragrafo 10 c) delle regole concernenti l’impiego del libretto TIR e si semplificherà ragionevolmente l’enumerazione degli oggetti trasportati.
+
+### 0.18 Articolo 18
+
+0.18.1 Il buon funzionamento del regime TIR esige che le autorità doganali di un Paese rifiutino che un ufficio d’uscita di tale Paese sia designato come ufficio di destinazione per un trasporto che prosegue verso il Paese vicino, pure Parte contraente della presente Convenzione, tranne che motivi particolari ne giustifichino la domanda.
+
+0.18.2
+
+\1. Le merci devono essere caricate in modo che la partita di merci destinata ad essere scaricata al primo luogo di scarico possa essere ritirata dal veicolo o dal contenitore senza dover scaricare l’altra partita o le altre partite di merci destinate ad essere scaricate negli altri luoghi di scarico.
+
+\2. Trattandosi di un trasporto comprendente lo scarico presso più uffici, è necessario, non appena sia stato effettuato uno scarico parziale, apporre un’adeguata annotazione nella casella 12 di tutti i rimanenti manifesti del libretto TIR, specificando nel tempo stesso nei tagliandi rimanenti e nelle matrici corrispondenti che sono state applicate nuove chiusure.
+
+### 0.19 Articolo 19
+
+L’obbligo, per l’ufficio doganale di partenza, di accertarsi dell’esattezza del manifesto delle merci implica la necessità di verificare almeno che le indicazioni nel manifesto concernenti le merci corrispondano a quelle dei documenti d’esportazione e dei documenti di trasporto o di altri documenti commerciali inerenti a tali merci; se necessario, l’ufficio doganale di partenza può parimenti sottoporre le merci alla visita. Prima di apporre le chiusure l’ufficio doganale di partenza deve pure verificare lo stato del veicolo stradale o del contenitore e, qualora trattisi di veicoli o contenitori provvisti di copertone, lo stato dei copertoni e dei mezzi di fissazione dei copertoni, tali accessori non essendo compresi nel certificato d’ammissione.
+
+### 0.20 Articolo 20
+
+Allorché fissano dei termini per il trasporto di merci sul loro territorio, le autorità doganali devono parimenti tener conto, tra altro, dei regolamenti particolari che i trasportatori sono tenuti ad osservare, segnatamente dei regolamenti concernenti le ore di lavoro e i periodi di riposo obbligatorio dei conducenti di veicoli stradali. Si raccomanda alle autorità doganali di far uso del loro diritto di fissare l’itinerario soltanto se lo giudicano indispensabile.
+
+### 0.21 Articolo 21
+
+0.21.1 Le disposizioni di detto articolo non limitano per nulla la facoltà delle autorità doganali di controllare tutte le parti del veicolo nonché i compartimenti di carico posti sotto chiusura doganale.
+
+0.21.2 L’ufficio doganale d’entrata può rinviare il trasportatore all’ufficio doganale d’uscita del Paese vicino allorché accerta che il visto d’uscita è stato omesso o non è stato apposto correttamente in detto Paese. In tal caso l’ufficio doganale d’entrata iscrive nel libretto TIR un’annotazione per il corrispondente ufficio doganale d’uscita.
+
+0.21.3 Se, procedendo alle operazioni di controllo, le autorità doganali prelevano dei campioni di merci, esse devono iscrivere nel manifesto delle merci del libretto Tir un’annotazione contenente tutte le necessarie indicazioni sulle merci prelevate.
+
+### 0.28 Articolo 28
+
+0.28.1 L’uso del libretto TIR dev’essere limitato alle funzioni che gli sono proprie, vale a dire il transito. Il libretto TIR non deve servire, per esempio, a conservare le merci vincolate a dogana al luogo di destinazione.
+
+0.28.2 Il presente articolo prevede che la fine di un’operazione TIR sia vincolata all’immissione delle merci in un altro regime doganale o in un altro sistema di controllo doganale, quale, ad esempio, lo sdoganamento delle merci (con o senza condizioni) a fini di consumo interno, il trasferimento oltre confine in un Paese terzo (esportazione), o in una zona franca, o il deposito delle merci in un luogo autorizzato dalle autorità doganali in attesa di dichiarazione per un altro regime doganale.
+
+### 0.29 Articolo 29
+
+Non è richiesto un certificato d’ammissione per i veicoli stradali o i contenitori trasportanti merci ponderose o voluminose. Spetta tuttavia all’ufficio doganale di partenza di verificare che siano adempite le altre condizioni fissate in detto articolo per tale genere di trasporto.
+
+Gli uffici doganali delle altre Parti contraenti accetteranno la decisione presa dall’ufficio doganale di partenza, salvo che la reputino in manifesta contraddizione con le disposizioni dell’articolo 29.
+
+### 0.38 Articolo 38
+
+0.38.2 L’obbligo legale di notificare alla Commissione di controllo TIR che una persona è stata temporaneamente o definitivamente esclusa dalle agevolazioni previste dalla Convenzione è adempiuto qualora siano state correttamente utilizzate le applicazioni elettroniche sviluppate a tal fine dal Segretariato TIR con la supervisione della Commissione di controllo TIR.
+
+### 0.39 Articolo 39
+
+L’espressione «errori commessi per negligenza» si riferisce ad atti che non sono commessi deliberatamente e con piena cognizione di causa, ma che risultano dal fatto che non sono stati presi provvedimenti ragionevoli e necessari per garantire l’esattezza delle indicazioni nel singolo caso.
+
+### 0.42 Articolo 42*a*
+
+Il termine «immediatamente», di cui all’articolo 42*a*, va inteso nel senso che tutte le misure nazionali suscettibili di incidere sull’applicazione della Convenzione TIR e/o sul funzionamento del sistema TIR dovrebbero essere comunicate per scritto alla Commissione di controllo TIR quanto prima e, se possibile, prima della loro entrata in vigore, per consentire a tale commissione di espletare in modo efficace le funzioni di supervisione e adempiere al proprio compito di verificare la conformità delle misure alla convenzione TIR, conformemente all’articolo 42*a* e al proprio mandato, quale stabilito nell’allegato 8 della Convenzione TIR.
+
+### 0.45 Articolo 45
+
+0.45.1 L’obbligo legale di pubblicare la lista degli uffici doganali di partenza, di passaggio e di destinazione abilitati a compiere le operazioni TIR si ritiene adempiuto qualora siano state correttamente utilizzate le applicazioni elettroniche sviluppate a tal fine dal Segretariato TIR con la supervisione della Commissione di controllo TIR.
+
+0.45.2 Si raccomanda alle Parti contraenti di abilitare il più grande numero possibile di uffici doganali, all’interno e al confine, alle operazioni TIR.
+
+### 0.49 Articolo 49
+
+Le Parti contraenti possono accordare, conformemente alla loro legislazione nazionale, agevolezze più ampie per l’applicazione delle disposizioni della Convenzione alle persone debitamente autorizzate. Le condizioni imposte dalle autorità competenti nell’accordare tali agevolezze dovrebbero includere almeno l’uso delle tecnologie dell’informazione e della comunicazione per garantire il corretto svolgimento della procedura TIR, l’esenzione dall’obbligo di presentare le merci, il veicolo stradale, l’autotreno, il contenitore e il libretto TIR presso gli uffici doganali di partenza o di destinazione nonché le istruzioni per le persone debitamente autorizzate a svolgere compiti specifici assegnati alle autorità doganali secondo la Convenzione TIR, in particolare la compilazione del libretto TIR, l’apposizione del timbro sul libretto TIR e l’apposizione o la verifica dei sigilli doganali. Le persone debitamente autorizzate a cui sono state accordate agevolezze più ampie dovrebbero introdurre un sistema di conservazione dei dati che consente alle autorità doganali di effettuare controlli efficaci nonché di sorvegliare la procedura ed effettuare controlli casuali. Agevolezze più ampie dovrebbero essere accordate ai titolari di libretti TIR senza pregiudicare l’obbligo di pagamento previsto all’articolo 11 paragrafo 2 della Convenzione.
 
 ### 1 Annesso 1
 
-<table>
-<tr><td>1.10 c)</td><td>Norme disciplinanti l’utilizzazione del libretto TIR – Elenco di carico allegato al manifesto delle merci L’articolo 10 c) delle norme disciplinanti l’utilizzazione del libretto TIR autorizza l’utilizzazione, sotto forma di allegato al libretto, anche se esiste lo spazio necessario per iscrivere sul manifesto tutte le merci trasportate. Nondimeno, tale pratica è autorizzata soltanto se tali elenchi recano, in modo leggibile e riconoscibile, tutte le indicazioni richieste conformemente al manifesto delle merci e se tutte le altre disposizioni della norma 10c) sono rispettate.</td></tr>
-</table>
+1.10 c) Norme disciplinanti l’utilizzazione del libretto TIR – Elenco di carico allegato al manifesto delle merci
+
+L’articolo 10 c) delle norme disciplinanti l’utilizzazione del libretto TIR autorizza l’utilizzazione, sotto forma di allegato al libretto, anche se esiste lo spazio necessario per iscrivere sul manifesto tutte le merci trasportate. Nondimeno, tale pratica è autorizzata soltanto se tali elenchi recano, in modo leggibile e riconoscibile, tutte le indicazioni richieste conformemente al manifesto delle merci e se tutte le altre disposizioni della norma 10c) sono rispettate.
 
 ### 2 Annesso 2
 
-<table>
-<tr><td>2.2</td><td>Articolo 2</td></tr>
-<tr><td>2.2.1 a)</td><td>Paragrafo 1 lettera a) – Commettitura degli elementi costitutivi a) Se sono impiegati dei congegni di giunzione (ribadini, viti, bulloni e dadi, ecc.), gli stessi dovranno essere applicati in quantità sufficiente dall’esterno, sporgere all’interno degli elementi costitutivi e ivi essere saldamente fissati (ad esempio, ribaditi, saldati, provvisti di anelli di chiusura, oppure avvitati, ribadendo o saldando quindi i dadi). Tuttavia, i ribadini tradizionali (ossia quelli la cui posa dev’essere effettuata su entrambe le facce degli elementi commessi), potranno essere applicati anche dall’interno. Ciò nonostante, ilpavimento dei compartimenti riservati al carico può essere fissato mediante viti mordenti, ribadini a percussione, apposti dall’interno e penetranti ad angolo retto nel pavimento e nelle sottostanti traverse metalliche, sempreché – salvo trattandosi di viti mordenti – l’estremità di alcuni di essi affondi sino alla parte esterna delle traverse, oppure sia saldata sulle stesse. b) L’autorità competente fissa quali e quanti congegni di giunzione devono soddisfare alle condizioni della lettera a) della presente nota, accertando inoltre che non sia possibile spostare gli elementi costitutivi così commessi senza lasciare tracce visibili. Gli altri congegni di giunzione possono essere scelti e collocati a beneplacito. c) A tenore della lettera a) della presente nota, non saranno ammessi i congegni di giunzione che possono essere tolti e sostituiti su una sola faccia senza lasciare tracce visibili, vale a dire i congegni la cui posa non esige il compimento di un’operazione su entrambe le facce degli elementi da commettere. Trattasi segnatamente dei ribadini ad espansione, dei ribadini ciechi e simili. d) I suddescritti sistemi di commettitura sono applicabili ai veicoli speciali, ai veicoli isotermici, ai veicoli frigoriferi e ai veicoli-cisterne, sempreché gli stessi non siano incompatibili con le prescrizioni tecniche cui tali veicoli devono soddisfare per quanto concerne la loro utilizzazione. Allorché per ragioni tecniche non è possibile fissare gli elementi nel modo descritto alla lettera a) della presente nota, gli elementi costitutivi potranno essere commessi impiegando i congegni previsti alla lettera c) della presente nota, a condizione che i congegni apposti sulla faccia interna della parete non siano accessibili dall’esterno.</td></tr>
-<tr><td>2.2.1 b)</td><td>Paragrafo 1 lettera b) – Porte e altri congegni di chiusura a) Il dispositivo che permette l’apposizione della chiusuradoganale dev’essere: i) fissato mediante saldatura o impiegando almeno due congegni di giunzione secondo la lettera a) della nota esplicativa 2.2.1 a); oppure ii) costituito in modo che, una volta chiuso il compartimento riservato al carico e apposta la chiusura doganale, non possa essere tolto senza lasciare tracce visibili. Esso deve pure: iii) essere provvisto di fori d’un diametro di almeno 11 mm o di fessure aventi almeno 11 mm di lunghezza e 3 mm di larghezza, e iv) presentare una sicurezza uguale, qualunque sia il tipo di chiusura utilizzato. b) Le cerniere, le bandelle, i cardini e gli altri dispositivi di montaggio delle porte, ecc., devono essere apposti secondo le prescrizioni delle lettere a) i) e ii) della presente nota. Inoltre, le diverse parti del dispositivo d’arresto (ad es. lastre, perni, cardini), se sono indispensabili a garantire la sicurezza doganale del compartimento riservato al carico, saranno fissate in modo che, una volta chiuso il compartimento riservato al carico e apposta la chiusura doganale, non possano essere tolte o smontate senza lasciare tracce visibili. Se invece il dispositivo d’arresto non è accessibile dall’esterno, basterà ad esempio che la porta – dopo essere stata chiusa e provvista della chiusura doganale – non possa essere rimossa senza lasciare tracce visibili. Se una porta o un congegno di chiusura è provvisto di più di due cardini, solo i due cardini più vicini alle estremità della porta saranno fissati secondo le prescrizioni delle lettere a) i) e ii) che precedono. c) In via straordinaria, trattandosi di veicoli provvisti di compartimenti calorifughi riservati al carico, il dispositivo di chiusura doganale, i cardini e le altre parti la cui asportazione permetterebbe di accedere all’interno del compartimento riservato al carico o a spazi nei quali le merci potrebbero essere nascoste, possono essere fissati alle porte di tale compartimento riservato al carico mediante i mezzi seguenti: i) Bulloni o viti di fissazione introdotti dall’esterno, ma che del rimanente non soddisfano le condizioni della lettera a) della nota esplicativa 2.2.1) a) qui sopra, sempreché: le punte dei bulloni o delle viti siano ancorate in una lastra filettata o in un dispositivo analogo montato dietro il pannello esterno della porta; e le teste di un adeguato numero di tali bulloni o viti siano saldate al dispositivo di chiusura doganale, ai cardini, ecc., in modo che siano completamente deformate e che i bulloni o le viti di fissazione non possano essere rimossi senza lasciare tracce visibili (vedi illustrazione n. 1 annessa al presente allegato). ii) Un dispositivo di fissazione introdotto dall’esterno della porta isolata, sempreché: il perno di fissazione e la rosetta di bloccaggio del dispositivo siano assemblati per mezzo di un utensile pneumatico o idraulico e siano fissati dietro una lastra o un dispositivo analogo inserito tra il rivestimento esterno della porta e l’isolante; e la testa del perno di fissazione non sia accessibile dall’interno del compartimento riservato al carico; e un numero sufficiente di rosette di bloccaggio e di perni di fissazione siano saldati insieme e non possano essere rimossi senza lasciare tracce visibili (vedi illustrazione n. 5 annessa al presente allegato). Il termine «compartimento calorifugo riservato al carico» dev’essere interpretato come applicabile ai compartimenti frigoriferi e isotermici riservati ai carichi. d) I veicoli muniti di numerose chiusure, come valvole, rubinetti, passi d’uomo, flange, ecc., devono essere sistemati in modo da limitare al minimo il numero delle chiusure doganali. A tal uopo le chiusure vicine le une alle altre dovranno essere collegate con un dispositivo comune richiedente l’apposizione di un’unica chiusura doganale, oppure provviste di un coperchio che adempie il medesimo scopo. e) I veicoli provvisti di tetto scorrevole devono essere costruiti in modo da limitare al minimo le chiusure doganali. f) Qualora per garantire la sicurezza della chiusura doganale siano necessarie più chiusure doganali, il loro numero dev’essere indicato nel cerificato d’ammissione (Allegato 4 alla Convenzione TIR 1975) al numero 5. Al certificato d’ammissione occorre allegare un’illustrazione o fotografie dei veicoli stradali nelle quali sia visibile la posizione esatta delle chiusure doganali.</td></tr>
-<tr><td>2.2.1 c).1</td><td>Paragrafo 1 lettera c) – Apertura d’aerazione a) Per principio, tali aperture dovranno avere una dimensione di al massimo 400 mm. b) Le aperture che permettono l’accesso diretto al compartimento riservato al carico devono essere chiuse: i) da un telone metallico o lastra metallica perforata (dimensione massima dei fori: 3 mm in ambedue i casi) e protetto da una griglia di metallo saldato (dimensione massima delle maglie: 10 mm); o ii) da una lastra metallica perforata di spessore sufficiente (dimensione massima dei fori: 3 mm; spessore della lastra: 1 mm almeno). c) Le aperture che non permettono l’accesso diretto al compartimento riservato al carico (per esempio condotta di ventilazione con tubi a gomito o dispositivi di bloccaggio) devono essere munite dei dispositivi menzionati al capoverso b) le cui dimensioni dei fori e delle maglie possono raggiungere un diametro di 10 mm (per il telone metallico o lastra metallica) e di 20 mm (per la griglia metallica). d) Se il copertone è provvisto di aperture, si dovrà per principio esigere che siano applicati i dispositivi menzionati alla lettera b) della presente nota esplicativa. Tuttavia, si potranno ammettere un congegno d’ostruzione costituito da una lastra di metallo perforata, apposta all’esterno, e una tela di metallo o d’un’altra materia, fissata all’interno. e) Potranno essere ammessi dei dispositivi analoghi non metallici, a condizione che le dimensioni dei fori e delle maglie siano rispettate e che il materiale impiegato sia sufficientemente resistente in modo che tali fori o maglie non possano essere notevolmente ampliati senza visibile deteriorazione. Inoltre, il dispositivo d’aerazione non deve poter essere sostituito operando su un solo lato del copertone. f) L’apertura d’aerazione può essere munita di un dispositivo di protezione. Tale dispositivo verrà fissato al copertone in modo tale da permettere un controllo doganale di questa apertura. Il dispositivo sarà fissato al copertone a una distanza di almeno 5 cm dallo schermo dell’apertura di aerazione.</td></tr>
-<tr><td>2.2.1 c).2</td><td>Paragrafo 1 lettera c) – Apertura di scolo a) Per principio, le stesse dovranno avere un’apertura di al massimo 35 mm. b) Le aperture che permettono l’accesso diretto al compartimento riservato al carico saranno munite dei dispositivi prescritti per le aperture d’aerazione, menzionati alla lettera b) della nota esplicativa 2.2.1 c)-1. c) Non si esigerà l’apposizione dei dispositivi menzionati alla lettera b) della presente nota allorché le aperture di scolo non permettono l’accesso diretto al compartimento riservato al carico, a condizione però che le stesse siano provviste di un congegno d’ostruzione sicuro, facilmente accessibile dall’interno del compartimento riservato al carico.</td></tr>
-<tr><td>2.2.3</td><td>Paragrafo 3 – Vetro di sicurezza Un vetro è considerato vetro di sicurezza se non v’è il pericolo che si rompa per effetto di un’azione qualsiasi derivante dal normale uso del veicolo. Il vetro di sicurezza dev’essere contrassegnato come tale.</td></tr>
-<tr><td>2.3</td><td>Articolo 3</td></tr>
-<tr><td>2.3.3</td><td>Paragrafo 3 – Copertoni costituiti da diversi pezzi a) I vari pezzi di un copertone possono essere costituiti da diverse materie, conformemente alle prescrizioni dell’articolo 3, paragrafo 2 dell’allegato 2. b) La disposizione dei vari pezzi di un copertone può essere effettuata a beneplacito, purché dia sufficienti garanzie di sicurezza e a condizione che la commettitura sia eseguita conformemente alle prescrizioni dell’articolo 3 dell’allegato 2.</td></tr>
-<tr><td>2.3.6 a).1</td><td>Paragrafo 6 lettera a) – Veicoli a anelli scorrevoli Possono essere ammessi, agli effetti del presente paragrafo, degli anelli di fissazione di metallo scorrevoli sulle barre metalliche fissate ai veicoli (v. illustrazione n. 2 annessa al presente allegato), sempreché a) le barre siano fissate al veicolo a intervalli massimi di 60 cm, in modo che non possano essere tolte e riapplicate senza lasciare tracce visibili; b) gli anelli siano costituiti da due aperture o provvisti di una barra centrale e siano fabbricati di un sol pezzo senza saldatura; c) il copertone sia fissato al veicolo in modo da soddisfare rigorosamente alla condizione menzionata alla lettera a) dell’art. 1 dell’allegato 2 alla presente Convenzione.</td></tr>
-<tr><td>2.3.6 a).2</td><td>Paragrafo 6a) – Veicoli muniti di anelli di fissazione girevoli Degli anelli di fissazione di metallo, girevoli singolarmente in una staffa di metallo fissata al veicolo, possono essere ammessi ai fini del presente paragrafo (v. illustrazione n. 2*a* annessa) solo a condizione che: a) ogni staffa sia fissata al veicolo in modo che non si possa toglierla o rimetterla senza lasciare tracce visibili; b) la molla di ogni staffa sia interamente ricoperta da una custodia di metallo a foggia di campana.</td></tr>
-<tr><td>2.3.6 b)</td><td>Paragrafo 6 lettera b) – Copertoni fissati in modo permanente Se uno o più orli del copertone sono fissati alla carrozzeria del veicolo in modo permanente, il copertone sarà trattenuto da uno o più nastri di metallo o di altro materiale confacente, ancorato alla carrozzeria del veicolo mediante dispositivi di giunzione rispondenti alle esigenze della lettera a) della nota 2.2.1 a) del presente allegato.</td></tr>
-<tr><td>2.3.8</td><td>Paragrafo 8 – Intervallo tra gli anelli e gli occhielli Può essere ammesso, su ambedue i lati del montante, uno spazio superiore a 200 mm ma non eccedente 300 mm, se gli anelli sono apposti in profondità sulle pareti laterali e se gli occhielli sono ovali e di grandezza sufficiente per lasciar passare gli anelli.</td></tr>
-<tr><td>2.3.11 a).1</td><td>Paragrafo 11 lettera a) – Raddoppiatura di tensione dei copertoni Su numerosi veicoli il copertone è munito, all’esterno, di una raddoppiatura orizzontale provvista di occhielli lungo la parete laterale del veicolo. Tali raddoppiature, denominate raddoppiature di tensione, sono destinate a consentire di tendere il copertone mediante corde o dispositivi analoghi. Siffatte raddoppiature sono state utilizzate per celare degli intagli praticati orizzontalmente nei copertoni e che permettevano di accedere illecitamente alle merci trasportate nel veicolo. Si raccomanda pertanto di non accettare l’impiego di raddoppiature del genere suddescritto. Esse possono essere sostituite con i seguenti dispositivi: a) raddoppiature di tensione di genere analogo, fissate all’interno del copertone, oppure b) piccole raddoppiature singole, provviste ognuna d’un occhiello, fissate sulla faccia esterna del copertone e ripartite ad intervalli che consentono di tendere il copertone in modo soddisfacente. Un’altra soluzione, possibile in certi casi, consiste nell’evitare l’impiego delle raddoppiature di tensione sui copertoni.</td></tr>
-<tr><td>2.3.11 a).2</td><td>Paragrafo 11 lettera a) – Corregge dei copertoni Le materie seguenti sono reputate idonee per la confezione di corregge: a) cuoio; b) materie tessili non estensibili, compreso il tessuto plastificato o gommato, a condizione che non possano essere saldate o ricongiunte dopo la rottura senza lasciare tracce visibili. Inoltre la materia plastica di copertura delle corregge dovrà essere trasparente e la sua superficie liscia.</td></tr>
-<tr><td>2.3.11 a).3</td><td>Il dispositivo conforme all’istruzione n. 3 annessa al presente allegato corrisponde alle prescrizioni dell’ultima parte del paragrafo 11 a) dell’articolo 3 dell’allegato 2. Esso corrisponde pure alle prescrizioni del paragrafo 6 dell’articolo 3 dell’allegato 2.</td></tr>
-</table>
+2.2 Articolo 2
+
+2.2.1 a) *Paragrafo 1 lettera a) – Commettitura degli elementi costitutivi*
+
+- a) Se sono impiegati dei congegni di giunzione (ribadini, viti, bulloni e dadi, ecc.), gli stessi dovranno essere applicati in quantità sufficiente dall’esterno, sporgere all’interno degli elementi costitutivi e ivi essere saldamente fissati (ad esempio, ribaditi, saldati, provvisti di anelli di chiusura, oppure avvitati, ribadendo o saldando quindi i dadi). Tuttavia, i ribadini tradizionali (ossia quelli la cui posa dev’essere effettuata su entrambe le facce degli elementi commessi), potranno essere applicati anche dall’interno. Ciò nonostante, ilpavimento dei compartimenti riservati al carico può essere fissato mediante viti mordenti, ribadini a percussione, apposti dall’interno e penetranti ad angolo retto nel pavimento e nelle sottostanti traverse metalliche, sempreché – salvo trattandosi di viti mordenti – l’estremità di alcuni di essi affondi sino alla parte esterna delle traverse, oppure sia saldata sulle stesse.
+- b) L’autorità competente fissa quali e quanti congegni di giunzione devono soddisfare alle condizioni della lettera a) della presente nota, accertando inoltre che non sia possibile spostare gli elementi costitutivi così commessi senza lasciare tracce visibili. Gli altri congegni di giunzione possono essere scelti e collocati a beneplacito.
+- c) A tenore della lettera a) della presente nota, non saranno ammessi i congegni di giunzione che possono essere tolti e sostituiti su una sola faccia senza lasciare tracce visibili, vale a dire i congegni la cui posa non esige il compimento di un’operazione su entrambe le facce degli elementi da commettere. Trattasi segnatamente dei ribadini ad espansione, dei ribadini ciechi e simili.
+- d) I suddescritti sistemi di commettitura sono applicabili ai veicoli speciali, ai veicoli isotermici, ai veicoli frigoriferi e ai veicoli-cisterne, sempreché gli stessi non siano incompatibili con le prescrizioni tecniche cui tali veicoli devono soddisfare per quanto concerne la loro utilizzazione. Allorché per ragioni tecniche non è possibile fissare gli elementi nel modo descritto alla lettera a) della presente nota, gli elementi costitutivi potranno essere commessi impiegando i congegni previsti alla lettera c) della presente nota, a condizione che i congegni apposti sulla faccia interna della parete non siano accessibili dall’esterno.
+
+2.2.1 b) *Paragrafo 1 lettera b) – Porte e altri congegni di chiusura*
+
+- a)
+
+  Il dispositivo che permette l’apposizione della chiusuradoganale dev’essere:
+
+  - i) fissato mediante saldatura o impiegando almeno due congegni di giunzione secondo la lettera a) della nota esplicativa 2.2.1 a); oppure
+  - ii) costituito in modo che, una volta chiuso il compartimento riservato al carico e apposta la chiusura doganale, non possa essere tolto senza lasciare tracce visibili.
+  - Esso deve pure:
+  - iii) essere provvisto di fori d’un diametro di almeno 11 mm o di fessure aventi almeno 11 mm di lunghezza e 3 mm di larghezza, e
+  - iv) presentare una sicurezza uguale, qualunque sia il tipo di chiusura utilizzato.
+
+- b) Le cerniere, le bandelle, i cardini e gli altri dispositivi di montaggio delle porte, ecc., devono essere apposti secondo le prescrizioni delle lettere a) i) e ii) della presente nota.
+- Inoltre, le diverse parti del dispositivo d’arresto (ad es. lastre, perni, cardini), se sono indispensabili a garantire la sicurezza doganale del compartimento riservato al carico, saranno fissate in modo che, una volta chiuso il compartimento riservato al carico e apposta la chiusura doganale, non possano essere tolte o smontate senza lasciare tracce visibili.
+- Se invece il dispositivo d’arresto non è accessibile dall’esterno, basterà ad esempio che la porta – dopo essere stata chiusa e provvista della chiusura doganale – non possa essere rimossa senza lasciare tracce visibili. Se una porta o un congegno di chiusura è provvisto di più di due cardini, solo i due cardini più vicini alle estremità della porta saranno fissati secondo le prescrizioni delle lettere a) i) e ii) che precedono.
+- c)
+
+  In via straordinaria, trattandosi di veicoli provvisti di compartimenti calorifughi riservati al carico, il dispositivo di chiusura doganale, i cardini e le altre parti la cui asportazione permetterebbe di accedere all’interno del compartimento riservato al carico o a spazi nei quali le merci potrebbero essere nascoste, possono essere fissati alle porte di tale compartimento riservato al carico mediante i mezzi seguenti:
+
+  - i) Bulloni o viti di fissazione introdotti dall’esterno, ma che del rimanente non soddisfano le condizioni della lettera a) della nota esplicativa 2.2.1) a) qui sopra, sempreché:
+  - le punte dei bulloni o delle viti siano ancorate in una lastra filettata o in un dispositivo analogo montato dietro il pannello esterno della porta; e le teste di un adeguato numero di tali bulloni o viti siano saldate al dispositivo di chiusura doganale, ai cardini, ecc., in modo che siano completamente deformate e che i bulloni o le viti di fissazione non possano essere rimossi senza lasciare tracce visibili (vedi illustrazione n. 1 annessa al presente allegato).
+  - ii) Un dispositivo di fissazione introdotto dall’esterno della porta isolata, sempreché:
+  - il perno di fissazione e la rosetta di bloccaggio del dispositivo siano assemblati per mezzo di un utensile pneumatico o idraulico e siano fissati dietro una lastra o un dispositivo analogo inserito tra il rivestimento esterno della porta e l’isolante; e
+  - la testa del perno di fissazione non sia accessibile dall’interno del compartimento riservato al carico; e
+  - un numero sufficiente di rosette di bloccaggio e di perni di fissazione siano saldati insieme e non possano essere rimossi senza lasciare tracce visibili (vedi illustrazione n. 5 annessa al presente allegato).
+
+- Il termine «compartimento calorifugo riservato al carico» dev’essere interpretato come applicabile ai compartimenti frigoriferi e isotermici riservati ai carichi.
+- d) I veicoli muniti di numerose chiusure, come valvole, rubinetti, passi d’uomo, flange, ecc., devono essere sistemati in modo da limitare al minimo il numero delle chiusure doganali. A tal uopo le chiusure vicine le une alle altre dovranno essere collegate con un dispositivo comune richiedente l’apposizione di un’unica chiusura doganale, oppure provviste di un coperchio che adempie il medesimo scopo.
+- e) I veicoli provvisti di tetto scorrevole devono essere costruiti in modo da limitare al minimo le chiusure doganali.
+- f) Qualora per garantire la sicurezza della chiusura doganale siano necessarie più chiusure doganali, il loro numero dev’essere indicato nel cerificato d’ammissione (Allegato 4 alla Convenzione TIR 1975) al numero 5. Al certificato d’ammissione occorre allegare un’illustrazione o fotografie dei veicoli stradali nelle quali sia visibile la posizione esatta delle chiusure doganali.
+
+2.2.1 c).1 *Paragrafo 1 lettera c) – Apertura d**’**aerazione*
+
+- a) Per principio, tali aperture dovranno avere una dimensione di al massimo 400 mm.
+- b)
+
+  Le aperture che permettono l’accesso diretto al compartimento riservato al carico devono essere chiuse:
+
+  - i) da un telone metallico o lastra metallica perforata (dimensione massima dei fori: 3 mm in ambedue i casi) e protetto da una griglia di metallo saldato (dimensione massima delle maglie: 10 mm); o
+  - ii) da una lastra metallica perforata di spessore sufficiente (dimensione massima dei fori: 3 mm; spessore della lastra: 1 mm almeno).
+
+- c) Le aperture che non permettono l’accesso diretto al compartimento riservato al carico (per esempio condotta di ventilazione con tubi a gomito o dispositivi di bloccaggio) devono essere munite dei dispositivi menzionati al capoverso b) le cui dimensioni dei fori e delle maglie possono raggiungere un diametro di 10 mm (per il telone metallico o lastra metallica) e di 20 mm (per la griglia metallica).
+- d) Se il copertone è provvisto di aperture, si dovrà per principio esigere che siano applicati i dispositivi menzionati alla lettera b) della presente nota esplicativa. Tuttavia, si potranno ammettere un congegno d’ostruzione costituito da una lastra di metallo perforata, apposta all’esterno, e una tela di metallo o d’un’altra materia, fissata all’interno.
+- e) Potranno essere ammessi dei dispositivi analoghi non metallici, a condizione che le dimensioni dei fori e delle maglie siano rispettate e che il materiale impiegato sia sufficientemente resistente in modo che tali fori o maglie non possano essere notevolmente ampliati senza visibile deteriorazione. Inoltre, il dispositivo d’aerazione non deve poter essere sostituito operando su un solo lato del copertone.
+- f) L’apertura d’aerazione può essere munita di un dispositivo di protezione. Tale dispositivo verrà fissato al copertone in modo tale da permettere un controllo doganale di questa apertura. Il dispositivo sarà fissato al copertone a una distanza di almeno 5 cm dallo schermo dell’apertura di aerazione.
+
+2.2.1 c).2 *Paragrafo 1 lettera c) – Apertura di scolo*
+
+- a) Per principio, le stesse dovranno avere un’apertura di al massimo 35 mm.
+- b) Le aperture che permettono l’accesso diretto al compartimento riservato al carico saranno munite dei dispositivi prescritti per le aperture d’aerazione, menzionati alla lettera b) della nota esplicativa 2.2.1 c)-1.
+- c) Non si esigerà l’apposizione dei dispositivi menzionati alla lettera b) della presente nota allorché le aperture di scolo non permettono l’accesso diretto al compartimento riservato al carico, a condizione però che le stesse siano provviste di un congegno d’ostruzione sicuro, facilmente accessibile dall’interno del compartimento riservato al carico.
+
+2.2.3 *Paragrafo 3 – Vetro di sicurezza*
+
+Un vetro è considerato vetro di sicurezza se non v’è il pericolo che si rompa per effetto di un’azione qualsiasi derivante dal normale uso del veicolo. Il vetro di sicurezza dev’essere contrassegnato come tale.
+
+2.3 Articolo 3
+
+2.3.3 *Paragrafo 3 – Copertoni costituiti da diversi pezzi*
+
+- a) I vari pezzi di un copertone possono essere costituiti da diverse materie, conformemente alle prescrizioni dell’articolo 3, paragrafo 2 dell’allegato 2.
+- b) La disposizione dei vari pezzi di un copertone può essere effettuata a beneplacito, purché dia sufficienti garanzie di sicurezza e a condizione che la commettitura sia eseguita conformemente alle prescrizioni dell’articolo 3 dell’allegato 2.
+
+2.3.6 a).1 *Paragrafo 6 lettera a) – Veicoli a anelli scorrevoli*
+
+Possono essere ammessi, agli effetti del presente paragrafo, degli anelli di fissazione di metallo scorrevoli sulle barre metalliche fissate ai veicoli (v. illustrazione n. 2 annessa al presente allegato), sempreché
+
+- a) le barre siano fissate al veicolo a intervalli massimi di 60 cm, in modo che non possano essere tolte e riapplicate senza lasciare tracce visibili;
+- b) gli anelli siano costituiti da due aperture o provvisti di una barra centrale e siano fabbricati di un sol pezzo senza saldatura;
+- c) il copertone sia fissato al veicolo in modo da soddisfare rigorosamente alla condizione menzionata alla lettera a) dell’art. 1 dell’allegato 2 alla presente Convenzione.
+
+2.3.6 a).2 *Paragrafo 6a) – Veicoli muniti di anelli di fissazione girevoli*
+
+Degli anelli di fissazione di metallo, girevoli singolarmente in una staffa di metallo fissata al veicolo, possono essere ammessi ai fini del presente paragrafo (v. illustrazione n. 2*a* annessa) solo a condizione che:
+
+- a) ogni staffa sia fissata al veicolo in modo che non si possa toglierla o rimetterla senza lasciare tracce visibili;
+- b) la molla di ogni staffa sia interamente ricoperta da una custodia di metallo a foggia di campana.
+
+2.3.6 b) *Paragrafo 6 lettera b) – Copertoni fissati in modo permanente*
+
+Se uno o più orli del copertone sono fissati alla carrozzeria del veicolo in modo permanente, il copertone sarà trattenuto da uno o più nastri di metallo o di altro materiale confacente, ancorato alla carrozzeria del veicolo mediante dispositivi di giunzione rispondenti alle esigenze della lettera a) della nota 2.2.1 a) del presente allegato.
+
+2.3.8 *Paragrafo 8 – Intervallo tra gli anelli e gli occhielli*
+
+Può essere ammesso, su ambedue i lati del montante, uno spazio superiore a 200 mm ma non eccedente 300 mm, se gli anelli sono apposti in profondità sulle pareti laterali e se gli occhielli sono ovali e di grandezza sufficiente per lasciar passare gli anelli.
+
+2.3.11 a).1 *Paragrafo 11 lettera a) – Raddoppiatura di tensione dei copertoni*
+
+Su numerosi veicoli il copertone è munito, all’esterno, di una raddoppiatura orizzontale provvista di occhielli lungo la parete laterale del veicolo. Tali raddoppiature, denominate raddoppiature di tensione, sono destinate a consentire di tendere il copertone mediante corde o dispositivi analoghi. Siffatte raddoppiature sono state utilizzate per celare degli intagli praticati orizzontalmente nei copertoni e che permettevano di accedere illecitamente alle merci trasportate nel veicolo. Si raccomanda pertanto di non accettare l’impiego di raddoppiature del genere suddescritto. Esse possono essere sostituite con i seguenti dispositivi:
+
+- a) raddoppiature di tensione di genere analogo, fissate all’interno del copertone, oppure
+- b) piccole raddoppiature singole, provviste ognuna d’un occhiello, fissate sulla faccia esterna del copertone e ripartite ad intervalli che consentono di tendere il copertone in modo soddisfacente.
+
+Un’altra soluzione, possibile in certi casi, consiste nell’evitare l’impiego delle raddoppiature di tensione sui copertoni.
+
+2.3.11 a).2 *Paragrafo 11 lettera a) – Corregge dei copertoni*
+
+Le materie seguenti sono reputate idonee per la confezione di corregge:
+
+- a) cuoio;
+- b) materie tessili non estensibili, compreso il tessuto plastificato o gommato, a condizione che non possano essere saldate o ricongiunte dopo la rottura senza lasciare tracce visibili.
+- Inoltre la materia plastica di copertura delle corregge dovrà essere trasparente e la sua superficie liscia.
+
+2.3.11 a).3 Il dispositivo conforme all’istruzione n. 3 annessa al presente allegato corrisponde alle prescrizioni dell’ultima parte del paragrafo 11 a) dell’articolo 3 dell’allegato 2. Esso corrisponde pure alle prescrizioni del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
 ### 3 Annesso 3
 
-<table>
-<tr><td>3.0.17</td><td>Procedura d’ammissione 1) L’allegato 3 prevede che le autorità competenti di una Parte contraente possono rilasciare un certificato d’ammissione per un veicolo fabbricato nel territorio di detta Parte e che il veicolo in parola non sarà sottoposto ad alcuna procedura d’ammissione suppletoria nel Paese in cui è immatricolato o, dato il caso, nel Paese in cui il suo proprietario è domiciliato. 2) Dette disposizioni non limitano il diritto delle autorità competenti della Parte contraente – in cui il veicolo è immatricolato o nel cui territorio il proprietario è domiciliato – di esigere la presentazione di un certificato d’ammissione sia all’atto dell’importazione, sia più tardi a scopi in correlazione con l’immatricolazione o il controllo del veicolo o con formalità analoghe.</td></tr>
-<tr><td>3.0.20</td><td>Procedura per l’apposizione di annotazioni nel certificato d’ammissione Per annullare un’annotazione concernente dei difetti dopo che il veicolo è stato riassettato in modo soddisfacente, basterà che la rispettiva autorità competente apponga, nella rubrica 11, l’annotazione «Difetti riparati», il suo nome, la sua firma e il suo bollo.</td></tr>
-</table>
+3.0.17 Procedura d’ammissione
+
+\1. L’allegato 3 prevede che le autorità competenti di una Parte contraente possono rilasciare un certificato d’ammissione per un veicolo fabbricato nel territorio di detta Parte e che il veicolo in parola non sarà sottoposto ad alcuna procedura d’ammissione suppletoria nel Paese in cui è immatricolato o, dato il caso, nel Paese in cui il suo proprietario è domiciliato.
+
+\2. Dette disposizioni non limitano il diritto delle autorità competenti della Parte contraente – in cui il veicolo è immatricolato o nel cui territorio il proprietario è domiciliato – di esigere la presentazione di un certificato d’ammissione sia all’atto dell’importazione, sia più tardi a scopi in correlazione con l’immatricolazione o il controllo del veicolo o con formalità analoghe.
+
+3.0.20 Procedura per l’apposizione di annotazioni nel certificato d’ammissione
+
+Per annullare un’annotazione concernente dei difetti dopo che il veicolo è stato riassettato in modo soddisfacente, basterà che la rispettiva autorità competente apponga, nella rubrica 11, l’annotazione «Difetti riparati», il suo nome, la sua firma e il suo bollo.
 
 ### 8 Annesso 8
 
-<table>
-<tr><td>8.1a.6</td><td>Il comitato può chiedere al servizio competente delle Nazioni Unite di svolgere verifiche supplementari. In alternativa il comitato può decidere di assumere un revisore esterno indipendente e incaricare il comitato esecutivo TIR di preparare il disciplinare dell’audit, sulla base dell’oggetto e della finalità dell’audit definiti dal comitato. Il disciplinare deve essere approvato dal comitato. La verifica supplementare da parte di un revisore indipendente esterno deve dare luogo a una relazione e a una lettera di raccomandazione da presentare al comitato. In tal caso, il costo finanziario dell’assunzione di un revisore esterno indipendente, compresa la relativa procedura di appalto, è a carico del bilancio del comitato esecutivo TIR.</td></tr>
-<tr><td>8.9.1</td><td>I membri della Commissione di controllo TIR hanno competenza ed esperienza nell’applicazione delle procedure doganali, in particolare per quanto riguarda il regime di transito TIR, sia a livello nazionale che internazionale. I membri della Commissione di controllo sono proposti dai rispettivi Governi od organizzazioni che sono Parti contraenti della Convenzione. Rappresentano gli interessi delle Parti contraenti della Convenzione e non gli interessi particolari di un Governo o di un’organizzazione.</td></tr>
-<tr><td>8.9.2</td><td>Qualora un membro della Commissione di controllo TIR si dimetta prima della fine del mandato, il Comitato di gestione può eleggere un sostituto. In tal caso il membro eletto rimane in carica solo per la parte restante del mandato del suo predecessore. Qualora un membro della Commissione di controllo TIR non sia in grado, per ragioni diverse dalle dimissioni, di portare a termine il proprio mandato, l’amministrazione nazionale del membro interessato ne informa per iscritto la Commissione di controllo TIR e il Segretariato TIR. In tal caso il Comitato di gestione può eleggere un sostituto per la parte rimanente del mandato.</td></tr>
-<tr><td>8.10 b)</td><td>L’accordo menzionato nella nota esplicativa di cui all’articolo 6.2<sup>bis</sup> si applica parimenti alle responsabilità dell’organizzazione internazionale menzionate alla lettera b) del presente articolo, sempre che l’attività di stampa e di rilascio centralizzato dei libretti TIR venga espletata dalla citata organizzazione internazionale.</td></tr>
-<tr><td>8.13.1.1</td><td>Disposizioni finanziarie Al termine di un periodo iniziale di due anni, le Parti contraenti prevedono di finanziare la Commissione di controllo TIR e il Segretariato TIR tramite il bilancio ordinario dell’Organizzazione delle Nazioni Unite. Ciò non esclude una proroga delle disposizioni finanziarie originali qualora venisse meno un finanziamento da parte dell’Organizzazione delle Nazioni Unite o di altre fonti.</td></tr>
-<tr><td>8.13.1.2</td><td>Funzionamento della Commissione di controllo TIR I lavori dei membri della Commissione di controllo TIR saranno finanziati dai rispettivi Governi.</td></tr>
-<tr><td>8.13.1.3</td><td>Importo L’importo di cui al paragrafo 1 è basato (a) sul bilancio e sul piano dei costi della Commissione di controllo TIR e del Segretariato TIR approvato dal Comitato di gestione e (b) sul numero di libretti TIR che l’organizzazione internazionale prevede di distribuire.</td></tr>
-<tr><td>8.13.2</td><td>Dopo consultazione dell’organizzazione internazionale di cui all’articolo 6, le modalità di cui al paragrafo 2 devono essere riprodotte nell’accordo tra la CEE-ONU, che agisce su mandato e a nome delle Parti contraenti, e l’organizzazione internazionale di cui all’articolo 6. L’accordo deve essere approvato dal Comitato di gestione.</td></tr>
-</table>
+8.1a.6 Il comitato può chiedere al servizio competente delle Nazioni Unite di svolgere verifiche supplementari. In alternativa il comitato può decidere di assumere un revisore esterno indipendente e incaricare il comitato esecutivo TIR di preparare il disciplinare dell’audit, sulla base dell’oggetto e della finalità dell’audit definiti dal comitato. Il disciplinare deve essere approvato dal comitato. La verifica supplementare da parte di un revisore indipendente esterno deve dare luogo a una relazione e a una lettera di raccomandazione da presentare al comitato. In tal caso, il costo finanziario dell’assunzione di un revisore esterno indipendente, compresa la relativa procedura di appalto, è a carico del bilancio del comitato esecutivo TIR.
+
+8.9.1 I membri della Commissione di controllo TIR hanno competenza ed esperienza nell’applicazione delle procedure doganali, in particolare per quanto riguarda il regime di transito TIR, sia a livello nazionale che internazionale. I membri della Commissione di controllo sono proposti dai rispettivi Governi od organizzazioni che sono Parti contraenti della Convenzione. Rappresentano gli interessi delle Parti contraenti della Convenzione e non gli interessi particolari di un Governo o di un’organizzazione.
+
+8.9.2 Qualora un membro della Commissione di controllo TIR si dimetta prima della fine del mandato, il Comitato di gestione può eleggere un sostituto. In tal caso il membro eletto rimane in carica solo per la parte restante del mandato del suo predecessore. Qualora un membro della Commissione di controllo TIR non sia in grado, per ragioni diverse dalle dimissioni, di portare a termine il proprio mandato, l’amministrazione nazionale del membro interessato ne informa per iscritto la Commissione di controllo TIR e il Segretariato TIR. In tal caso il Comitato di gestione può eleggere un sostituto per la parte rimanente del mandato.
+
+8.10 b) L’accordo menzionato nella nota esplicativa di cui all’articolo 6.2<sup>bis</sup> si applica parimenti alle responsabilità dell’organizzazione internazionale menzionate alla lettera b) del presente articolo, sempre che l’attività di stampa e di rilascio centralizzato dei libretti TIR venga espletata dalla citata organizzazione internazionale.
+
+8.13.1.1 Disposizioni finanziarie
+
+Al termine di un periodo iniziale di due anni, le Parti contraenti prevedono di finanziare la Commissione di controllo TIR e il Segretariato TIR tramite il bilancio ordinario dell’Organizzazione delle Nazioni Unite. Ciò non esclude una proroga delle disposizioni finanziarie originali qualora venisse meno un finanziamento da parte dell’Organizzazione delle Nazioni Unite o di altre fonti.
+
+8.13.1.2 Funzionamento della Commissione di controllo TIR
+
+I lavori dei membri della Commissione di controllo TIR saranno finanziati dai rispettivi Governi.
+
+8.13.1.3 Importo
+
+L’importo di cui al paragrafo 1 è basato (a) sul bilancio e sul piano dei costi della Commissione di controllo TIR e del Segretariato TIR approvato dal Comitato di gestione e (b) sul numero di libretti TIR che l’organizzazione internazionale prevede di distribuire.
+
+8.13.2 Dopo consultazione dell’organizzazione internazionale di cui all’articolo 6, le modalità di cui al paragrafo 2 devono essere riprodotte nell’accordo tra la CEE-ONU, che agisce su mandato e a nome delle Parti contraenti, e l’organizzazione internazionale di cui all’articolo 6. L’accordo deve essere approvato dal Comitato di gestione.
 
 ### 9 Annesso
 
-<table>
-<tr><td>9.II.3</td><td>Comitato d’autorizzazione Si raccomanda di istituire dei Comitati nazionali d’autorizzazione comprendenti rappresentanti delle autorità competenti, associazioni nazionali e altre organizzazioni interessate.</td></tr>
-<tr><td>9.II.4</td><td>Gli obblighi concernenti la trasmissione dei dati previsti nel paragrafo 4 si ritengono adempiuti qualora siano state correttamente utilizzate le applicazioni elettroniche sviluppate a tal fine dal Segretariato TIR con la supervisione della Commissione di controllo TIR.</td></tr>
-<tr><td>9.II.5</td><td>La nota esplicativa 9.II.4 si applica mutatis mutandis al paragrafo 5.</td></tr>
-</table>
+9.II.3 Comitato d’autorizzazione
+
+Si raccomanda di istituire dei Comitati nazionali d’autorizzazione comprendenti rappresentanti delle autorità competenti, associazioni nazionali e altre organizzazioni interessate.
+
+9.II.4 I dati di cui al paragrafo 4 devono essere trasmessi utilizzando correttamente le applicazioni elettroniche sviluppate a tal fine dal Segretariato TIR con la supervisione del*la Commissione di controllo TIR*.
+
+9.II.5 La nota esplicativa 9.II.4 si applica mutatis mutandis al paragrafo 5.
 
 Illustrazione n. 1
 
 Esempio di cerniera e di dispositivo di chiusura doganale per le parte di veicoli provvisti di compartimenti di carico calorifughi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image16.png)
 
 Illustrazione n. 1a
 
@@ -1130,19 +1339,19 @@ Esempio di una cerniera che non ha bisogno di una protezione particolare del per
 
 La cerniera qui riprodotta è conforme alle prescrizioni della seconda frase del paragrafo b) della nota 2.2.1 b). La struttura della piastra e del ponticello rende superflua ogni particolare protezione del perno, dato che i becchetti della piastra risalgono fin dietro le estremità del ponticello. Questi becchetti impediscono che la porta provvista di chiusura doganale possa essere aperta al livello del dispositivo d’arresto senza lasciare tracce visibili anche se il perno non protetto è stato smontato.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image17.png)
 
 Illustrazione n. 2
 
 Veicolo provvisti di copertoni ad anelli scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image18.png)
 
 Illustrazione n. 2a
 
 Esempio di anello di fissazione girevole (modello «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image19.png)
 
 Illustrazione n. 3
 
@@ -1150,7 +1359,7 @@ Esempio di dispositivo di fissazione d’un copertone di veicolo
 
 Il dispositivo riprodotto qui appresso corrisponde alle prescrizioni dell’ultimo capoverso del paragrafo 11a) dell’articolo 3 dell’allegato 2. Esso è pure conforme alle prescrizioni del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image20.png)
 
 Illustrazione n. 4
 
@@ -1158,13 +1367,13 @@ Dispositivo di fissazione d’un copertone
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni della lettera a) del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image21.png)
 
 Illustrazione 5
 
 Esempio di dispositivo di fissazione introdotto dall’interno della porta isolata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image22.png)
 
 Allegato 7*[^t-5]*
 
@@ -1310,13 +1519,13 @@ Parte I – Illustrazione n. 1
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image23.png)
 
 Parte I – Illustrazione n. 2
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image24.png)
 
 *Nota*: Le cuciture d’angolo effettuate secondo il metodo esposto nell’illustrazione n. 2a dell’allegato 2 alla presente Convenzione sono pure ammesse.
 
@@ -1324,25 +1533,25 @@ Parte I – Illustrazione n. 3
 
 Copertone costituito da diversi pezzi connessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image25.png)
 
 Parte I – Illustrazione n. 4
 
 Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image26.png)
 
 Parte I – Illustrazione n. 5
 
 Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image27.png)
 
 Illustrazione n. 6
 
 Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image28.png)
 
 Il tetto scorrevole telonato deve essere conforme ai requisiti di cui alle lettera a)–c) seguenti:
 
@@ -1358,7 +1567,7 @@ Illustrazione n. 7
 
 Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image29.png)
 
 ### Descrizione
 
@@ -1368,7 +1577,7 @@ Illustrazione n. 8
 
 Copertone con l’apertura per il caricamento e lo scaricamento
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image30.png)
 
 ### Descrizione
 
@@ -1378,17 +1587,17 @@ Illustrazione n. 9
 
 Esempio della struttura di un contenitore dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image31.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image32.png)
 
 Illustrazione n. 10
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image33.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image34.png)
 
 ### Parte II Procedure per l’ammissione dei contenitori che adempiono le condizioni tecniche della parte I
 
@@ -1456,7 +1665,7 @@ Modello n. I
 
 (testo inglese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image35.png)
 
 Appendice 1 della parte II
 
@@ -1466,7 +1675,7 @@ Modello n. I
 
 (testo francese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image36.png)
 
 Appendice 2 della parte II
 
@@ -1556,13 +1765,13 @@ Dispositivo per fissare il copertone attorno ai montanti d’angolo
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni delle lettera a) del paragrafo 6 dell’articolo 4 della Parte I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/it/xml/image/image37.png)
 
 Allegato 8*[^t-6]*
 
 ## Composizione, funzioni e Regolamento interno del Comitato di gestione e della Commissione di controllo TIRComposizione, funzioni e Regolamento interno del Comitato di gestione
 
-[^t-6]: Aggiornato dalla mod. approvata dal CF il 14 mar. 1994 ([RU 1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161)), dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dalla mod. approvata dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) e dalla mod. del 30 mar. 2018, in vigore per la Svizzera il 1° lug. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
+[^t-6]: Aggiornato dalla mod. approvata dal CF il 14 mar. 1994 ([RU 1994 1161](https://fedlex.data.admin.ch/eli/oc/1994/1161_1161_1161)), dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dalla mod. approvata dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) e dalla mod. del 30 mar. 2018, in vigore per la Svizzera dal 1° lug. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
 
 #### Art. 1
 
@@ -1662,13 +1871,13 @@ Allegato 9*[^t-7]*
 
 ## Accesso al regime TIR
 
-[^t-7]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293). Aggiornato dalla mod. in vigore per la Svizzera dal 1° apr. 2006 ([RU 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalla mod. in vigore per la Svizzera dal 10 ott. 2013 ([RU 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) e dalla mod. del 6 feb. 2020, in vigore per la Svizzera dal 25 mag. 2021 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
+[^t-7]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293). Aggiornato dalla mod. in vigore per la Svizzera dal 1° apr. 2006 ([RU 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalla mod. in vigore per la Svizzera dal 10 ott. 2013 ([RU 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), dalla mod. del 6 feb. 2020 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)) e dalla mod. del 15 ott. 2020, in vigore per la Svizzera dal 4 feb. 2022 ([RU 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 ### Parte prima Autorizzazione delle associazioni a rilasciare i libretti TIR e ad agire come garanti
 
 ### Condizioni e requisiti minimi
 
-\1. Le condizioni e i requisiti minimi che le associazioni devono rispettare per essere autorizzate dalle Parti contraenti a rilasciare i libretti TIR e ad agire come garanti secondo quanto disposto nell’articolo 6 della Convenzione sono i seguenti:
+\1. Le condizioni e i requisiti minimi che le associazioni devono rispettare per essere autorizzate dalle autorità doganali o da altre autorità competenti di una Parte contraente a rilasciare i libretti TIR e ad agire come garanti secondo quanto disposto nell’articolo 6 della Convenzione sono i seguenti:
 
 - a) provata esistenza per almeno un anno come associazione stabilita sul territorio della Parte contraente in cui l’autorizzazione è rilasciata;
 - b) prova di solida situazione finanziaria e di capacità organizzative che consentono all’associazione di adempiere agli obblighi previsti dalla Convenzione;
@@ -1690,7 +1899,7 @@ Allegato 9*[^t-7]*
 - viii) accettare una procedura per l’efficiente soluzione delle controversie derivanti dall’uso improprio o fraudolento dei libretti TIR, se possibile senza adire i tribunali;
 - ix) conformarsi strettamente alle decisioni delle autorità competenti della Parte contraente sul territorio in cui essa è stabilita riguardo alla revoca dell’autorizzazione o all’esclusione di persone nel rispetto degli articoli 6 e 38 della Convenzione e della seconda parte del presente allegato;
 - x) acconsentire all’attuazione fedele di tutte le decisioni adottate dal Comitato di gestione e dalla Commissione di controllo TIR, nella misura in cui dette decisioni sono state accettate dalle competenti autorità della Parte contraente sul cui territorio l’associazione è stabilita;
-- xi) confermare, in caso di procedura di riserva di cui all’Allegato 11 articolo 10 paragrafo 2, per le Parti contraenti vincolate dall’Allegato 11, su richiesta delle autorità competenti, che la garanzia è valida e che un trasporto TIR è effettuato nell’ambito del regime eTIR e fornire altre informazioni pertinenti per il trasporto TIR.
+- xi) confermare, in caso di procedura di riserva di cui all’Allegato 11 articolo 10 paragrafo 2, per le autorità doganali o da altre autorità competenti di una Parte contraente vincolate dall’Allegato 11, su richiesta delle autorità competenti, che la garanzia è valida e che un trasporto TIR è effettuato nell’ambito del regime eTIR e fornire altre informazioni pertinenti per il trasporto TIR.
 
 \4. Quando, conformemente alle procedure indicate all’articolo 11, un’associazione garante è invitata a pagare le somme di cui all’articolo 8 paragrafi 1 e 2, essa informa l’organizzazione internazionale del ricevimento di tale richiesta conformemente all’accordo scritto menzionato nella nota esplicativa 0.6.2<sup>bis-1</sup> relativa all’articolo 6 paragrafo 2<sup>bis</sup>.
 
@@ -1724,35 +1933,18 @@ Allegato 9*[^t-7]*
 
 \3. Sulla base delle condizioni e prescrizioni minime enunciate nei paragrafi 1 e 2, le Parti contraenti decideranno, conformemente alla legislazione nazionale, circa le procedure da seguire per accedere al regime TIR.
 
-\4. Conformemente al modulo tipo di autorizzazione allegato (MTA), le autorità competenti trasmettono alla Commissione di controllo TIR, entro una settimana a decorrere dalla data di autorizzazione o di ritiro dell’autorizzazione a utilizzare i libretti TIR, le dovute precisazioni su ciascuna persona.
+\4. Le autorità competenti trasmettono alla Commissione di controllo TIR, senza indugio a decorrere dalla data di autorizzazione o di ritiro dell’autorizzazione a utilizzare i libretti TIR, le dovute precisazioni su ciascuna persona, in particolare:
 
-\5. L’associazione trasmette annualmente il 31 dicembre un elenco aggiornato di tutte le persone autorizzate e di quelle a cui è stata ritirata l’autorizzazione. L’elenco è trasmesso alle autorità competenti la settimana successiva al 31 dicembre. Le autorità competenti ne inviano copia alla Commissione di controllo TIR.
+- a) numero di identificazione individuale e unico assegnato alla persona dall’associazione garante in collaborazione con l’organizzazione internazionale cui quest’ultima è affiliata conformemente al modello armonizzato definito dal Comitato di gestione;
+- b) nome(i) e indirizzo(i) della(e) persona(e) o dell’impresa. Per le associazioni commerciali indicare anche il nome dei dirigenti responsabili;
+- c) coordinate complete della persona da contattare; e
+- d) numero dell’immatricolazione commerciale o numero della licenza di trasporto internazionale o altro (se disponibile).
+
+\5. Non appena ne vengono a conoscenza, le associazioni comunicano senza indugio alle autorità competenti e alla Commissione di controllo TIR tutte le modifiche dei dati concernenti le persone autorizzate.
 
 \6. L’autorizzazione ad accedere al regime TIR non costituisce di per sé un diritto al rilascio dei libretti TIR da parte delle associazioni.
 
 \7. L’autorizzazione concessa ad una persona di utilizzare i libretti TIR conformemente alle condizioni e prescrizioni minime di cui sopra, non pregiudica le responsabilità e gli obblighi di detta persona nei confronti della Convenzione.
-
-### Modulo tipo di autorizzazione (MTA)
-
-<table>
-<tr><td>Nome dell’associazione:</td><td></td><td>Paese:</td></tr>
-<tr><td colspan="3">Nome dell’autorità competente:</td></tr>
-</table>
-
-<table>
-<tr><td colspan="9">Da compilare dall’associazione nazionale e/o dall’autorità competente</td></tr>
-<tr><td>Numero di identificazione</td><td>Nome della (delle) persona (e) o dell’impresa</td><td>Indirizzo professionale</td><td>Punto di contatto e numero di chiamata (N. tel., di fax e della posta elettronica)</td><td>Immatricolazione commerciale o numero della patente, ecc.\*</td><td>Ritiro dell’autorizzazione prece-dente\*\*</td><td>Data di autorizzazione\*\*</td><td>Data di ritiro dell’autorizza-zione\*\*</td><td>Timbro/ firma</td></tr>
-<tr><td colspan="9">\* Se disponibile</td></tr>
-<tr><td colspan="9">\*\* All’occorrenza</td></tr>
-</table>
-
-Per ogni persona oggetto di una domanda di autorizzazione presentata dall’associazione autorizzata, dovranno essere forniti all’autorità competente almeno i seguenti dati:
-
-- – Numero di identificazione individuale e unico (ID) assegnato alla persona dall’associazione garante (in collaborazione con l’organizzazione internazionale cui quest’ultima è affiliata) conformemente a un modello armonizzato. Il modello del numero di identificazione è stabilito dal Comitato di gestione.
-- – Nome(i) e indirizzo(i) della(e) persona(e) o dell’impresa (per le associazioni commerciali indicare anche il nome dei dirigenti responsabili).
-- – Punto di contatto (persone fisiche autorizzate a rilasciare informazioni sul regime TIR alle autorità doganali e alle associazioni) con indicazioni complete dei numeri telefonici, telefax e posta elettronica).
-- – Numero dell’immatricolazione commerciale o numero della licenza di trasporto internazionale o altro (se disponibile).
-- – (All’occorrenza) Ritiro dell’autorizzazione precedente, inclusa la data, la durata e il genere di tale ritiro.
 
 ### Terza parte Autorizzazione di un’organizzazione internazionale, quale indicata all’articolo 6, ad assumere la responsabilità dell’organizzazione e del funzionamento efficaci di un sistema internazionale di garanzia e a stampare e distribuire i carnet TIR
 

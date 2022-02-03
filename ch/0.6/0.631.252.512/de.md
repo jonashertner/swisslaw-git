@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Zollabkommen vom 14. November 1975 über den internationalen Warentransport mit Carnets TIR (TIR-Abkommen) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: de
-version: 2021-06-01
+version: 2022-02-04
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20210601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20220204-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ AS **1978** 1281; BBl **1977** I 1397
 
 Abgeschlossen in Genf am 14. November 1975 Von der Bundesversammlung genehmigt am 27. September 1977[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. Februar 1978 In Kraft getreten für die Schweiz am 3. August 1978
 
-(Stand am 1. Juni 2021)
+(Stand am 4. Februar 2022)
 
 [^t-1]: [AS 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -42,7 +42,7 @@ sind wie folgt übereingekommen:
 
 #### Art. 1
 
-Im Sinne dieses Abkommens bedeutet der Begriff
+Im Sinne dieses Abkommens bedeutet der Begriff:
 
 - a) «TIR-Transport» die Beförderung von Waren von einem Abgangszollamt bis zu einem Bestimmungszollamt im Rahmen des in diesem Abkommen festgelegten so genannten TIR-Verfahrens[^1-1];
 - b)[^1-2] «TIR-Versand» den Streckenteil eines TIR-Transports, der in einer Vertragspartei von einem Abgangszollamt oder Eingangszollamt (Durchgangszollamt) bis zu einem Bestimmungszollamt oder Ausgangszollamt (Durchgangszollamt) erfolgt;
@@ -52,7 +52,10 @@ Im Sinne dieses Abkommens bedeutet der Begriff
 - f)[^1-6] «Eingangs- und Ausgangsabgaben» der Zölle und alle anderen Abgaben, Steuern, Gebühren und sonstigen Belastungen, die anlässlich oder im Zusammenhang mit der Einfuhr oder Ausfuhr von Waren erhoben werden, ohne die Gebühren und Belastungen, die dem Betrag nach ungefähr auf die Kosten der erbrachten Dienstleistungen beschränkt sind;
 - g)[^1-7] «Strassenfahrzeuge» nicht nur Strassenmotorfahrzeuge, sondern auch alle Anhänger und Sattelanhänger, die dazu bestimmt sind, von derartigen Fahrzeugen gezogen zu werden;
 - h)[^1-8] «Lastzüge» miteinander verbundene Fahrzeuge, die als Einheit im Strassenverkehr eingesetzt sind;
-- ij)[^1-9] «Behälter» eine Transportausrüstung (Möbeltransportbehälter, abnehmbarer Tank oder anderes ähnliches Gerät), die
+- ij)[^1-9]
+
+  «Behälter» eine Transportausrüstung (Möbeltransportbehälter, abnehmbarer Tank oder anderes ähnliches Gerät), die:
+
   - i) einen zur Aufnahme von Waren, bestimmten ganz oder teilweise geschlossenen Hohlkörper darstellt;
   - ii) von dauerhafter Beschaffenheit und daher genügend widerstandsfähig ist, um wiederholt verwendet werden zu können;
   - iii) besonders dafür gebaut ist, um den Transport von Waren durch ein oder mehrere Verkehrsmittel ohne Umladung des Inhalts zu erleichtern;
@@ -102,7 +105,10 @@ Dieses Abkommen gilt für Warentransporte, bei denen die Waren ohne Umladung üb
 
 Voraussetzung für die Anwendung dieses Abkommens ist:
 
-- a) dass der Warentransport durchgeführt wird
+- a)
+
+  dass der Warentransport durchgeführt wird:
+
   - i) mit Strassenfahrzeugen, Lastzügen oder Behältern, die vorher nach den in Kapitel III a) festgelegten Bedingungen zugelassen worden sind, oder
   - ii) mit anderen Strassenfahrzeugen, Lastzügen oder Behältern, sofern die in Kapitel III c) festgelegten Bedingungen beachtet werden, oder
   - iii) mit Strassenfahrzeugen oder Spezialfahrzeugen wie Bussen, Kränen, Kehrmaschinen, Betonmischmaschinen usw., die ausgeführt werden und daher selbst als Waren gelten und die unter den in Kapitel III c) festgelegten Bedingungen selbständig von einem Abgangszollamt zu einem Bestimmungszollamt gelangen. Transportieren solche Fahrzeuge andere Waren, so finden die unter Ziffer i) oder ii) genannten Bedingungen entsprechend Anwendung;
@@ -130,7 +136,7 @@ Für Waren, die im TIR-Verfahren befördert werden, wird eine Entrichtung oder H
 
 #### Art. 6
 
-<sup>1.</sup> Jede Vertragspartei kann Verbänden die Bewilligung erteilen, entweder selbst oder durch die mit ihnen in Verbindung stehenden Verbände Carnets TIR auszugeben und die Bürgschaft zu übernehmen, solange die in Anlage 9 Teil I niedergelegten Mindestvoraussetzungen und -erfordernisse erfüllt werden. Die Bewilligung wird widerrufen, wenn die in Anlage 9 Teil I aufgeführten Mindestvoraussetzungen und -erfordernisse nicht mehr erfüllt werden.[^6-1]
+<sup>1.</sup> Die Zollbehörden oder andere zuständige Behörden einer Vertragspartei können Verbänden die Bewilligung erteilen, entweder selbst oder durch die mit ihnen in Verbindung stehenden Verbände Carnets TIR auszugeben und die Bürgschaft zu übernehmen, solange die in Anlage 9 Teil I niedergelegten Mindestvoraussetzungen und -erfordernisse erfüllt werden. Die Bewilligung wird widerrufen, wenn die in Anlage 9 Teil I aufgeführten Mindestvoraussetzungen und -erfordernisse nicht mehr erfüllt werden.[^6-1]
 
 <sup>2.</sup> Ein Verband wird in einem Land nur zugelassen, wenn seine Bürgschaft sich auch auf die in diesem Lande entstehenden Verbindlichkeiten aus Warentransporten mit Carnets TIR erstreckt, die von ausländischen Verbänden ausgegeben worden sind, die derselben internationalen Organisation wie der bürgende Verband angehören.
 
@@ -142,7 +148,7 @@ Für Waren, die im TIR-Verfahren befördert werden, wird eine Entrichtung oder H
 
 <sup>5.</sup> Die Zulassung zum TIR-Verfahren erfolgt nach dem in Anlage 9 Teil II festgelegten Verfahren.[^6-5]
 
-[^6-1]: Fassung gemäss der Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 und in Kraft getreten für die Schweiz am 17. Febr. 1999 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770).
+[^6-1]: Fassung gemäss der Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770). Bereinigt gemäss der Änd. vom 15. Okt. 2020, in Kraft getreten für die Schweiz am 4. Febr. 2022 ([AS 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 [^6-2]: Eingefügt durch die vom BR am 8. März 2002 genehmigte Änd. ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)). Fassung gemäss der vom BR am 26. Juni 2013 genehmigten Änderung, in Kraft getreten für die Schweiz am 10. Okt. 2013 ([AS 2013 2787](https://fedlex.data.admin.ch/eli/oc/2013/573)).
 [^6-3]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 und in Kraft getreten für die Schweiz am 17. Febr. 1999 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770).
 [^6-4]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 und in Kraft getreten für die Schweiz am 17. Febr. 1999 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770).
@@ -166,7 +172,7 @@ Carnet TIR-Formulare, die den bürgenden Verbänden von den mit ihnen in Verbind
 
 <sup>6.</sup> Die im Carnet TIR über die Waren enthaltenen Angaben gelten für die Festsetzung der in den Absätzen 1 und 2 genannten Abgaben bis zum Beweise des Gegenteils als richtig.
 
-<sup>7.</sup> ...[^8-3]
+<sup>7.</sup> …[^8-3]
 
 [^8-1]: Fassung gemäss der vom BR am 8. Juni 2012 genehmigten Änd., in Kraft getreten für die Schweiz am 13. Sept. 2012 ([AS 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
 [^8-2]: Fassung des zweiten Satzes gemäss der vom BR am 8. März 2002 genehmigten Änd., in Kraft getreten für die Schweiz am 12. Mai 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
@@ -269,7 +275,9 @@ Die Waren und das Strassenfahrzeug, der Lastzug oder der Behälter sind dem Abga
 
 #### Art. 20
 
-Die Zollbehörden können für die Fahrt durch ihr Land eine Frist festsetzen und verlangen, dass das Strassenfahrzeug, der Lastzug oder der Behälter eine vorgeschriebene Fahrtstrecke einhält.
+Für die Fahrt durch das Hoheitsgebiet einer Vertragspartei oder mehrerer Vertragsparteien, die eine Zoll- oder Wirtschaftsunion bilden, können die zuständigen Zollbehörden verlangen, dass das Strassenfahrzeug, der Lastzug oder der Behälter eine vorgeschriebene Fahrtstrecke einhält.[^20-1]
+
+[^20-1]: Bereinigt gemäss der Änd. vom 15. Okt. 2020, in Kraft getreten für die Schweiz am 4. Febr. 2022 ([AS 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 #### Art. 21
 
@@ -283,7 +291,7 @@ Das Strassenfahrzeug, der Lastzug oder der Behälter sind mit der Warenladung un
 
 #### Art. 23
 
-Die Zollbehörden dürfen nur in Ausnahmefällen
+Die Zollbehörden dürfen nur in Ausnahmefällen:
 
 - – die Strassenfahrzeuge, Lastzüge oder Behälter in ihrem Land auf Kosten des Transportunternehmers begleiten lassen,
 - – unterwegs eine Kontrolle und eine Revision der Warenladung der Strassenfahrzeuge, Lastzüge oder Behälter vornehmen.
@@ -370,10 +378,10 @@ Kann nicht ermittelt werden, wo die Unregelmässigkeit begangen worden ist, so g
 
 <sup>1.</sup> Jede Vertragspartei ist berechtigt, eine Person, die sich einer schweren oder wiederholten Zuwiderhandlung gegen die für den internationalen Warentransport geltenden Zollgesetze oder sonstigen Zollvorschriften schuldig gemacht hat, vorübergehend oder dauernd von den Erleichterungen dieses Übereinkommens auszuschliessen. Die Voraussetzungen, unter denen die Zuwiderhandlung gegen die Zollgesetze oder Zollvorschriften als schwer anzusehen ist, werden von der Vertragspartei festgelegt.[^38-1]
 
-<sup>2.</sup> Dieser Ausschluss ist innerhalb einer Woche den zuständigen Behörden der Vertragspartei, in deren Hoheitsgebiet die betreffende Person ihren Wohnsitz oder Geschäftssitz hat, dem (den) Verband (Verbänden) des Landes oder des Zollgebietes, in dem die Zuwiderhandlung begangen worden ist, und der TIR-Kontrollkommission mitzuteilen.[^38-2]
+<sup>2.</sup> Dieser Ausschluss ist unverzüglich den zuständigen Behörden der Vertragspartei, in deren Hoheitsgebiet die betreffende Person ihren Wohnsitz oder Geschäftssitz hat, dem (den) Verband (Verbänden) des Landes oder des Zollgebietes, in dem die Zuwiderhandlung begangen worden ist, und der TIR-Kontrollkommission mitzuteilen.[^38-2]
 
 [^38-1]: Fassung gemäss der Änd. vom 12. Okt. 2017, in Kraft getreten für die Schweiz am 3. Febr. 2019 ([AS 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
-[^38-2]: Fassung gemäss der Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 und in Kraft getreten für die Schweiz am 17. Febr. 1999 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770).
+[^38-2]: Fassung gemäss der Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770). Bereinigt gemäss der Änd. vom 15. Okt. 2020, in Kraft getreten für die Schweiz am 4. Febr. 2022 ([AS 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 #### Art. 39
 
@@ -431,7 +439,7 @@ Die Erläuterungen in Anlage 6, Anlage 7 Teil III und Anlage 11 Teil II enthalte
 
 #### Art. 44
 
-Jede Vertragspartei gewährt den beteiligten bürgenden Verbänden Erleichterungen für die Überweisung der erforderlichen Zahlungsmittel
+Jede Vertragspartei gewährt den beteiligten bürgenden Verbänden Erleichterungen für die Überweisung der erforderlichen Zahlungsmittel:
 
 - a) zur Entrichtung der Beträge, die von Behörden der Vertragsparteien aufgrund von Artikel 8 gefordert werden und
 - b) zur Bezahlung der Carnet TIR-Formulare, die den bürgenden Verbänden von den mit ihnen in Verbindung stehenden ausländischen Verbänden oder von internationalen Organisationen zugesandt werden.
@@ -474,7 +482,9 @@ Die Anlagen dieses Abkommens sind Bestandteil des Abkommens.
 
 **Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt**
 
-<sup>1.</sup> Alle Staaten, die Mitglieder der Vereinten Nationen oder einer ihrer Sonderorganisationen oder der Internationalen Atomenergieorganisation oder Parteien des Statuts des Internationalen Gerichtshofes sind, sowie alle anderen von der Generalversammlung der Vereinten Nationen eingeladenen Staaten können Vertragsparteien dieses Abkommens werden
+<sup>1.</sup>
+
+Alle Staaten, die Mitglieder der Vereinten Nationen oder einer ihrer Sonderorganisationen oder der Internationalen Atomenergieorganisation oder Parteien des Statuts des Internationalen Gerichtshofes sind, sowie alle anderen von der Generalversammlung der Vereinten Nationen eingeladenen Staaten können Vertragsparteien dieses Abkommens werden:
 
 - a) durch Unterzeichnung ohne Ratifikations‑, Annahme- oder Genehmigungsvorbehalt;
 - b) durch Hinterlegung einer Ratifikations‑, Annahme- oder Genehmigungs-urkunde nach einer Unterzeichnung mit Ratifikations‑, Annahme- oder Genehmigungsvorbehalt oder
@@ -642,7 +652,7 @@ Der Generalsekretär der Vereinten Nationen unterrichtet alle Vertragsparteien u
 
 **Notifikationen**
 
-Ausser den Notifikationen und Mitteilungen nach den Artikeln 61 und 62 notifiziert der Generalsekretär der Vereinten Nationen allen in Artikel 52 bezeichneten Staaten
+Ausser den Notifikationen und Mitteilungen nach den Artikeln 61 und 62 notifiziert der Generalsekretär der Vereinten Nationen allen in Artikel 52 bezeichneten Staaten:
 
 - a) die Unterzeichnungen, Ratifikationen, Annahmen, Genehmigungen und Beitritte nach Artikel 52;
 - b) die Zeitpunkte des Inkrafttretens dieses Abkommens nach Artikel 53;
@@ -658,7 +668,7 @@ Nach dem 31. Dezember 1976 wird die Urschrift dieses Abkommens beim Generalsekre
 
 *Zu Urkund dessen* haben die hierzu gehörig Bevollmächtigten dieses Abkommen unterzeichnet. Geschehen zu Genf, am vierzehnten November neunzehnhundertfünfundsiebzig in einer Urschrift in englischer, französischer und russischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. (Es folgen die Unterschriften)
 
-Anlage 1[^t-2]
+Anlage 1*[^t-2]*
 
 ## Muster des Carnet TIR
 
@@ -679,7 +689,7 @@ Je nach Bedarf kann das «Protokoll» auf seiner Rückseite auch in einer andere
 
 \3. Für die Beförderung von Tabakwaren und Alkohol, für die vom bürgenden Verband nach Anlage 6 Erläuterung 0.8.3 eine erhöhte Sicherheitsleistung verlangt werden kann, fordern die Zollbehörden Carnets TIR mit gut lesbarem Aufdruck «TABAC/ALCOOL» und «TOBACCO/ALCOHOL» auf dem Umschlagblatt und allen weiteren Blättern. Zusätzlich sind auf einem gesonderten Blatt, das nach Seite 2 des Carnet-TIR-Umschlagblatts einzufügen ist, zu den Tabak- und Branntweinerzeugnissen, für die die Sicherheit geleistet wurde, nähere Angaben – zumindest in englischer und französischer Sprache – zu machen.
 
-Anlage 2[^t-3]
+Anlage 2*[^t-3]*
 
 ## Vorschriften über die technischen Bedingungen für Strassenfahrzeuge, die für den internationalen Warentransport unter Zollverschluss zugelassen werden können.
 
@@ -689,7 +699,7 @@ Anlage 2[^t-3]
 
 **Grundsätze**
 
-Für den internationalen Warentransport unter Zollverschluss werden nur Fahrzeuge zugelassen, deren Laderäume so gebaut und eingerichtet sind, dass
+Für den internationalen Warentransport unter Zollverschluss werden nur Fahrzeuge zugelassen, deren Laderäume so gebaut und eingerichtet sind, dass:
 
 - a) dem zollamtlich verschlossenen Teil der Fahrzeuge keine Waren entnommen oder in ihn hineingebracht werden können, ohne sichtbare Spuren des Aufbrechens zu hinterlassen oder den Zollverschluss zu verletzen;
 - b) Zollverschlüsse auf einfache und wirksame Weise angebracht werden können;
@@ -737,7 +747,10 @@ Ungeachtet des Artikels 1 Buchstabe c dieser Vorschriften sind Laderaumbestandte
 
 Die Schutzdecke muss an dem Fahrzeug so befestigt sein, dass die Bedingungen des Artikels 1 Buchstaben a und b dieser Vorschriften in vollem Umfang erfüllt sind. Folgende Befestigungsmethoden sind möglich:
 
-- a) Die Schutzdecke kann befestigt werden durch
+- a)
+
+  Die Schutzdecke kann befestigt werden durch:
+
   - i) am Fahrzeug befestigte Metallringe,
   - ii) in den Rand der Schutzdecke eingelassene Ösen,
   - iii) ein Befestigungsmittel, das über der Schutzdecke durch die Ringe führt und in seiner ganzen Länge von aussen sichtbar ist.
@@ -767,10 +780,16 @@ Als Befestigungsmittel sind zu verwenden:
 
 An den Öffnungen der Schutzdecke, die zum Beladen und Entladen dienen, muss die Verbindung lückenlos sein. Die folgenden Systeme können angewendet werden:
 
-- a) Die beiden Ränder der Schutzdecke müssen einander ausreichend überlappen. Ausserdem muss ihr Verschluss gesichert sein durch
+- a)
+
+  Die beiden Ränder der Schutzdecke müssen einander ausreichend überlappen. Ausserdem muss ihr Verschluss gesichert sein durch:
+
   - i) einen Überfall, der nach Absatz 3 oder 4 angenäht oder angeschweisst ist;
   - ii) Ringe und Ösen, die den Bedingungen des Absatzes 8 entsprechen; die Ringe müssen aus Metall gefertigt sein und
-  - iii) einen Riemen aus geeignetem Material, der aus einem einzigen Stück besteht, nicht dehnbar, mindestens 20 mm breit und 3 mm dick ist und der durch die Ringe geführt wird und die beiden Ränder der Schutzdecke und den Überfall zusammenhält; der Riemen muss an der Innenseite der Schutzdecke befestigt und entweder
+  - iii)
+
+    einen Riemen aus geeignetem Material, der aus einem einzigen Stück besteht, nicht dehnbar, mindestens 20 mm breit und 3 mm dick ist und der durch die Ringe geführt wird und die beiden Ränder der Schutzdecke und den Überfall zusammenhält; der Riemen muss an der Innenseite der Schutzdecke befestigt und entweder:
+
     - – mit einer Öse zur Aufnahme des in Absatz 9 angeführten Seiles versehen sein oder
     - – mit einer Öse versehen sein, die über den in Absatz 6 angeführten Metallring gezogen und durch das in Absatz 9 angeführte Seil gesichert werden kann.
 
@@ -806,43 +825,43 @@ Schiebeplanen, Boden, Türen und andere Bestandteile des Laderaums müssen den E
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image1.png)
 
 *Zeichnung 2*
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image2.png)
 
 *Zeichnung 2a*
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image3.png)
 
 *Zeichnung* 3
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image4.png)
 
 *Zeichnung* 4
 
 Ausbesserung der Schutzdecke
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image5.png)
 
 *Zeichnung* 5
 
 Muster einer Zwinge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image6.png)
 
 *Zeichnung* 6
 
 Beispiel eines Schutzdeckenverschlusssystem
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image7.png)
 
 Beschreibung
 
@@ -852,7 +871,7 @@ Dieses Schutzdeckenverschlusssystem kann zugelassen werden unter der Voraussetzu
 
 Beispiel einer Schutzdecke, die an einer besonderen Rahmenkonstruktion befestigt ist
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image8.png)
 
 Beschreibung
 
@@ -862,7 +881,7 @@ Diese Befestigung der Schutzdecke an den Fahrzeugen ist annehmbar unter der Vora
 
 Schutzdeckenverschlusssystem an den Öffnungen zum Beladen und Entladen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image9.png)
 
 Beschreibung
 
@@ -872,19 +891,19 @@ Bei diesem Verschlusssystem werden die beiden Ränder an den Öffnungen der Schu
 
 Beispiel einer Konstruktion eines Fahrzeugs mit Schiebeplanen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image11.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image12.png)
 
 *Zeichnung 10*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image13.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image14.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image15.png)
 
 Das Schiebeplanendach muss den Erfordernissen der nachstehenden Buchstaben a) bis c) entsprechen:
 
@@ -964,7 +983,7 @@ Verfahren für das Anbringen von Anmerkungen auf der Zulassungsbescheinigung (Ve
 
 Anlage 4
 
-## Muster der Zulassungsbescheinigung (Verschlussanerkenntnis) für Strassenfahrzeuge
+## Muster der Zulassungsbescheinigung (Verschlussanerkenntnis) für Strassenfahrzeuge****
 
 [^annexu1-lvlu1-2]
 
@@ -978,11 +997,11 @@ Anlage 5
 
 \2. Die Buchstaben TIR in grosser lateinischer Druckschrift müssen 200 mm hoch und ihre Striche mindestens 20 mm breit sein. Sie müssen weiss auf blauem Grund sein.
 
-Anlage 6[^t-4]
+Anlage 6*[^t-4]*
 
 ## Erläuterungen
 
-[^t-4]: Bereinigt gemäss der am 1. Aug. 1979 in Kraft getretenen Änd. ([AS 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), den Änd. genehmigt vom BR am 2. Juni 1980 ([AS 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), am 8. Juli 1981 ([AS 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), am 11. Aug. 1982 ([AS 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), am 11. April 1984 ([AS 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), am 14. Aug. 1985 ([AS 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), am 16. Juni 1986 ([AS 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), am 4. Nov. 1987 ([AS 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), am 23. Mai 1990 ([AS 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), am 18. Dez. 1991 ([AS 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), am 29. Juni 1994 ([AS 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), am 12. Mai 1995 ([AS 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), von der BVers am 27. Juni 1997 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770), vom BR am 8. März 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), am 26. Sept. 2003 ([AS 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), am 14. Sept. 2005 ([AS 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), der am 12. Aug. 2006 in Kraft getretenen Änd. ([AS 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), gemäss der Änd. ge-nehmigt vom EFD am 3. Okt. 2008 ([AS 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), am 1. Juli 2009 ([AS 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), gemäss der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der Änd. vom 3./4. Febr. 2011 ([AS 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), der Änd. genehmigt vom EFD am 30. Sept. 2014 ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), am 1. Nov. 2016 ([AS 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) und der Änd. vom 15. Okt. 2020, in Kraft getreten für die Schweiz am 1. Juni 2021 ([AS 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)).
+[^t-4]: Bereinigt gemäss der am 1. Aug. 1979 in Kraft getretenen Änd. ([AS 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), den Änd. genehmigt vom BR am 2. Juni 1980 ([AS 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), am 8. Juli 1981 ([AS 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), am 11. Aug. 1982 ([AS 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), am 11. April 1984 ([AS 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), am 14. Aug. 1985 ([AS 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), am 16. Juni 1986 ([AS 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), am 4. Nov. 1987 ([AS 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), am 23. Mai 1990 ([AS 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), am 18. Dez. 1991 ([AS 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), am 29. Juni 1994 ([AS 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), am 12. Mai 1995 ([AS 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), von der BVers am 27. Juni 1997 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770), vom BR am 8. März 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), am 26. Sept. 2003 ([AS 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), am 14. Sept. 2005 ([AS 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), der am 12. Aug. 2006 in Kraft getretenen Änd. ([AS 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), gemäss der Änd. ge-nehmigt vom EFD am 3. Okt. 2008 ([AS 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), am 1. Juli 2009 ([AS 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), gemäss der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der Änd. vom 3./4. Febr. 2011 ([AS 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), der Änd. genehmigt vom EFD am 30. Sept. 2014 ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), am 1. Nov. 2016 ([AS 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), der Änd. vom 15. Okt. 2020 ([AS 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)) und der Änd. vom 15. Okt. 2020, in Kraft getreten für die Schweiz am 4. Febr. 2022 ([AS 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 ### Einleitung
 
@@ -997,7 +1016,7 @@ Anlage 6[^t-4]
 
 0.1 b) Aus Artikel 1 Buchstabe b) geht hervor, dass es in einer Vertragspartei mehr als einen TIR-Versand geben kann, wenn sich in einem oder mehreren Ländern mehrere Abgangs- oder Bestimmungszollämter befinden. Unter diesen Umständen kann der innerstaatliche Streckenabschnitt eines zwischen zwei aufeinander folgenden Zollämtern durchgeführten TIR-Transports als ein TIR-Versand gelten, und zwar ungeachtet dessen, ob es sich um Abgangs-, Bestimmungs- oder Durchgangszollämter handelt.
 
-0.1 f) Als ausgenommen im Sinne von Artikel 1 Buchstabe f) (Gebühren und Belastungen) gelten alle Beträge, bei denen es sich nicht um Abgaben und Steuern handelt, die anlässlich oder im Zusammenhang mit der Einfuhr oder Ausfuhr von den Vertragsparteien erhoben werden. Diese Beträge bleiben ungefähr auf die Kosten der erbrachten Dienstleistungen beschränkt und dürfen nicht eine indirekte Schutzmassnahme für inländische Waren oder eine Finanzabgabe auf Einfuhren oder Ausfuhren darstellen. Zu solchen Gebühren und Belastungen gehören unter anderem Zahlungen für
+0.1 f) Als ausgenommen im Sinne von Artikel 1 Buchstabe f) (Gebühren und Belastungen) gelten alle Beträge, bei denen es sich nicht um Abgaben und Steuern handelt, die anlässlich oder im Zusammenhang mit der Einfuhr oder Ausfuhr von den Vertragsparteien erhoben werden. Diese Beträge bleiben ungefähr auf die Kosten der erbrachten Dienstleistungen beschränkt und dürfen nicht eine indirekte Schutzmassnahme für inländische Waren oder eine Finanzabgabe auf Einfuhren oder Ausfuhren darstellen. Zu solchen Gebühren und Belastungen gehören unter anderem Zahlungen für:
 
 - – Kontrolluntersuchungen durch die zolltechnischen Prüfungsanstalten;
 - – Zollkontrollen und andere Amtshandlungen ausserhalb der üblichen Öffnungszeiten und des Amtsplatzes des Zollamtes;
@@ -1023,7 +1042,7 @@ Dieser Artikel schliesst nicht das Recht aus, die Waren stichprobenweise zu kont
 
 ### 0.6 Artikel 6
 
-0.6.2 Nach diesem Absatz können die Zollbehörden eines Landes mehrere Verbände zulassen, wobei jeder Verband für die Verbindlichkeiten aus durchgeführten Transporten mit Carnets haftet, die er ausgegeben hat oder die die mit ihm in Verbindung stehenden Verbände ausgegeben haben.
+0.6.2 Nach diesem Absatz können die Zollbehörden einer Vertragspartei mehrere Verbände ermächtigen, wobei jeder Verband für die Verbindlichkeiten aus durchgeführten Transporten mit Carnets haftet, die er ausgegeben hat oder die die mit ihm in Verbindung stehenden Verbände ausgegeben haben.
 
 0.6.2<sup>bis-1</sup> Die Beziehungen zwischen einer internationalen Organisation und ihren Mitgliedsverbänden sind in schriftlichen Vereinbarungen über die Funktionsweise des internationalen Bürgschaftssystems festzulegen.
 
@@ -1035,7 +1054,7 @@ Dieser Artikel schliesst nicht das Recht aus, die Waren stichprobenweise zu kont
 
 0.8.3 Den Vertragsparteien wird empfohlen, den Höchstbetrag, der gegebenenfalls vom bürgenden Verband zu entrichten ist, je Carnet TIR auf eine Summe festzusetzen, die dem Wert von 100 000 EUR entspricht.
 
-Bei der Beförderung von nachstehend näher bezeichneten Alkohol- und Tabakerzeugnissen wird den Zollbehörden empfohlen, den Höchstbetrag der Sicherheitsleistung durch den bürgenden Verband auf den Gegenwert von 200 000 US $ zu erhöhen:
+Bei der Beförderung von nachstehend näher bezeichneten Alkohol- und Tabakerzeugnissen wird den Zollbehörden empfohlen, den Höchstbetrag der Sicherheitsleistung durch den bürgenden Verband auf den Gegenwert von 400 000 EUR zu erhöhen:
 
 - 1. Ethylalkohol, nicht denaturiert, mit einem Alkoholgehalt von 80 % Vol oder mehr (HS-Code: 2207.10).
 - 2. Ethylalkohol, nicht denaturiert, mit einem Alkoholgehalt von weniger als 80 % Vol; Branntwein, Likör und andere Spirituosen; zusammengesetzte alkoholische Zubereitungen der zum Herstellen von Getränken verwendeten Art (HS-Code: 2208).
@@ -1043,7 +1062,7 @@ Bei der Beförderung von nachstehend näher bezeichneten Alkohol- und Tabakerzeu
 - 4. Zigaretten, Tabak enthaltend (HS-Code: 2402.20).
 - 5. Rauchtabak, auch mit beliebigem Gehalt an Tabakersatzstoffen (HS-Code: 2403.11 und 2403.19).
 
-Es wird empfohlen, den Höchstbetrag der Sicherheitsleistung durch den bürgenden Verband auf den Gegenwert von 100 000 EUR zu begrenzen, wenn die folgenden Mengen für die oben angegebenen Tabak- und Alkoholerzeugnisse nicht überschritten werden
+Es wird empfohlen, den Höchstbetrag der Sicherheitsleistung durch den bürgenden Verband auf den Gegenwert von 100 000 EUR zu begrenzen, wenn die folgenden Mengen für die oben angegebenen Tabak- und Alkoholerzeugnisse nicht überschritten werden:
 
 - 1. 300 Liter,
 - 2. 500 Liter,
@@ -1129,11 +1148,11 @@ Die Zollämter der anderen Vertragsparteien erkennen die Entscheidung des Abgang
 
 ### 0.38 Artikel 38
 
-0.38.2 Die rechtliche Verpflichtung, der TIR-Kontrollkommission mitzuteilen, dass eine Person vorübergehend oder dauerhaft von den Erleichterungen des Abkommens ausgeschlossen wurde, gilt als erfüllt, wenn die vom TIR-Sekretariat unter Aufsicht der TIR-Kontrollkommission zu diesem Zweck entwickelten elektronischen Anwendungen ordnungsgemäss verwendet wurden.
+0.38.2 Die rechtliche Verpflichtung, der TIR-Kontrollkommission mitzuteilen, dass eine Person vorübergehend oder dauerhaft von den Erleichterungen des Abkommens ausgeschlossen wurde, ist erfüllt, wenn die vom TIR-Sekretariat unter Aufsicht der TIR-Kontrollkommission zu diesem Zweck entwickelten elektronischen Anwendungen ordnungsgemäss verwendet wurden.
 
 ### 0.39 Artikel 39
 
-Unter dem Ausdruck «Fehler..., die... fahrlässig begangen worden sind», sind Handlungen zu verstehen, die nicht vorsätzlich und in voller Kenntnis der Dinge begangen werden, sondern daraus erwachsen, dass es unterlassen wurde, sich im Einzelfall in angemessenem Umfang und in der erforderlichen Weise von der Richtigkeit der Angaben zu überzeugen.
+Unter dem Ausdruck «Fehler…, die… fahrlässig begangen worden sind», sind Handlungen zu verstehen, die nicht vorsätzlich und in voller Kenntnis der Dinge begangen werden, sondern daraus erwachsen, dass es unterlassen wurde, sich im Einzelfall in angemessenem Umfang und in der erforderlichen Weise von der Richtigkeit der Angaben zu überzeugen.
 
 ### 0.42 Artikel 42a
 
@@ -1141,7 +1160,9 @@ Der Ausdruck «umgehend» in Artikel 42*a* bedeutet, dass nationale Massnahmen, 
 
 ### 0.45 Artikel 45
 
-Den Vertragsparteien wird empfohlen, möglichst viele Zollämter im Landesinneren und an der Grenze zur Abfertigung von Versandverfahren mit Carnets TIR zuzulassen.
+0.45.1 Die rechtliche Bestimmung zur Veröffentlichung des Verzeichnisses der Abgangszollämter, der Durchgangszollämter und der Bestimmungszollämter, die für die Durchführung eines TIR-Versands zugelassen sind, gilt ebenfalls als erfüllt, wenn die vom TIR-Sekretariat unter Aufsicht der TIR-Kontrollkommission zu diesem Zweck entwickelten elektronischen Anwendungen ordnungsgemäss verwendet wurden.
+
+0.45.2 Den Vertragsparteien wird empfohlen, möglichst viele Zollämter im Landesinneren und an der Grenze zur Abfertigung von Versandverfahren mit Carnets TIR zuzulassen.
 
 ### 0.49 Artikel 49
 
@@ -1166,7 +1187,10 @@ Regel Nr. 10 Buchstabe c der Anleitung für die Verwendung des Carnet TIR gestat
 
 2.2.1 b) Absatz 1 Buchstabe b) – Türen und andere Abschlusseinrichtungen
 
-- [tab] a) Die Vorrichtung, die das Anbringen eines Zollverschlusses ermöglicht, muss
+- [tab]
+
+  a) Die Vorrichtung, die das Anbringen eines Zollverschlusses ermöglicht, muss:
+
   - i) angeschweisst oder mit mindestens zwei unter Buchstabe a) der Erläuterung 2.2.1 a) beschriebenen Verbindungsteilen befestigt sein oder
   - ii) so beschaffen sein, dass sie, nachdem der Laderaum geschlossen und mit einem Zollverschluss versehen worden ist, nicht entfernt werden kann, ohne sichtbare Spuren zu hinterlassen.
   - Sie muss ferner
@@ -1190,7 +1214,10 @@ Der Ausdruck «wärmeisolierter Laderaum» umfasst Laderäume mit Kühl- oder W�
 2.2.1 c).1 Absatz 1 Buchstabe c) – Lüftungsöffnungen
 
 - a) Ihre grösste Weite darf grundsätzlich 400 mm nicht überschreiten.
-- b) Öffnungen, die einen unmittelbaren Zugang zum Laderaum gestatten, müssen
+-
+
+  b) Öffnungen, die einen unmittelbaren Zugang zum Laderaum gestatten, müssen:
+
   - i) mit Drahtgeflecht oder durchlochten Blechen (grösste Weite der Maschen oder Löcher 3 mm) versperrt und durch ein geschweisstes Metallgitter (grösste Weite der Maschen 10 mm) geschützt oder
   - ii) mit einem ausreichend starken, durchlochten Blech (grösste Weite der Löcher 3 mm; Stärke des Blechs mindestens 1 mm) versperrt sein.
 
@@ -1302,7 +1329,7 @@ Für den Betrag gemäss Absatz 1 werden (a) der vom Verwaltungsausschuss genehmi
 
 Es wird empfohlen, nationale Zulassungsausschüsse einzurichten, die aus Vertretern der zuständigen Behörden, der nationalen Verbände und anderer betroffener Organisationen bestehen.
 
-9.II.4 Die rechtliche Verpflichtung zur Übermittlung der Angaben gemäss Absatz 4 wird als erfüllt angesehen, wenn die vom TIR-Sekretariat unter Aufsicht der TIR-Kontrollkommission zu diesem Zweck entwickelten elektronischen Anwendungen ordnungsgemäss verwendet wurden.
+9.II.4 Angaben gemäss Absatz 4 werden übermittelt, wenn die vom TIR-Sekretariat unter Aufsicht der TIR-Kontrollkommission zu diesem Zweck entwickelten elektronischen Anwendungen ordnungsgemäss verwendet wurden.
 
 9.II.5 Die Erläuterung 9.II.4 gilt sinngemäss auch für Absatz 5.
 
@@ -1310,7 +1337,7 @@ Zeichnung 1
 
 Scharniere und Zollverschlusssysteme für Türen von Fahrzeugen mit wärmeisolierten Laderäumen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image16.png)
 
 Zeichnung 1a
 
@@ -1318,19 +1345,19 @@ Beispiel für ein Scharnier, bei dem es nicht erforderlich ist, den Scharnierbol
 
 Das abgebildete Scharnier entspricht der Vorschrift der Nr. 2.2.1 b) Buchstabe b zweiter Satz. Auf eine Sicherung des Scharnierbolzens kann verzichtet werden, weil Scharnierblatt und Scharnierbock so konstruiert sind, dass das Scharnierblatt mit seinem Hinterschnitt hinter die Backen des Scharnierbockes greift. Der Hinterschnitt verhindert, dass die zollamtlich verschlossene Tür auch bei Entfernung des ungesicherten Scharnierbolzens an der Anschlagvorrichtung geöffnet werden kann, ohne sichtbare Spuren zu hinterlassen.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image17.png)
 
 Zeichnung 2
 
 Fahrzeuge mit Schutzdecken und Gleitringen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image18.png)
 
 Zeichnung 2a
 
 Beispiel eines drehbaren Befestigungsringes (Modell «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image19.png)
 
 Zeichnung 3
 
@@ -1338,7 +1365,7 @@ Beispiel einer Vorrichtung zur Befestigung von Schutzdecken
 
 Die abgebildete Vorrichtung entspricht den Vorschriften der Anlage 2 Artikel 3 Absatz 11 Buchstabe a letzter Satz. Sie entspricht auch den Vorschriften der Anlage 2 Artikel 3 Absatz 6.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image20.png)
 
 Zeichnung 4
 
@@ -1346,15 +1373,15 @@ Vorrichtung zur Befestigung einer Schutzdecke
 
 Die abgebildete Vorrichtung entspricht den Vorschriften der Anlage 2 Artikel 3 Absatz 6 Buchstabe a.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image21.png)
 
 Zeichnung 5
 
 Befestigungsvorrichtung, die von der Innenseite der isolierten Tür angebracht wird
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image22.png)
 
-Anlage 7[^t-5]
+Anlage 7*[^t-5]*
 
 ## Anlage über die Zulassung von Behältern
 
@@ -1366,7 +1393,7 @@ Anlage 7[^t-5]
 
 **Grundsätze**
 
-Zum internationalen Warentransport unter Zollverschluss werden nur Behälter zugelassen, die so gebaut und eingerichtet sind, dass
+Zum internationalen Warentransport unter Zollverschluss werden nur Behälter zugelassen, die so gebaut und eingerichtet sind, dass:
 
 - a) dem zollamtlich verschlossenen Teil des Behälters keine Waren entnommen oder in ihn hineingebracht werden können, ohne sichtbare Spuren des Aufbrechens zu hinterlassen oder den Zollverschluss zu verletzen;
 - b) Zollverschlüsse auf einfache und wirksame Weise angebracht werden können;
@@ -1406,7 +1433,7 @@ Die Artikel 1 und 2 dieser Vorschriften gelten auch für zusammenklappbare oder 
 
 <sup>2.</sup> Die Schutzdecke muss entweder aus starkem Segeltuch oder aus nicht dehnbarem, genügend widerstandsfähigem kunststoff- oder kautschukbeschichtetem Gewebe bestehen. Sie muss in gutem Zustand und so hergerichtet sein, dass nach Anlegen der Verschlussvorrichtung ein Zugang zur Ladung nicht möglich ist, ohne sichtbare Spuren zu hinterlassen.
 
-<sup>3.</sup> Ist die Schutzdecke aus mehreren Stücken zusammengesetzt, so müssen die Ränder der Stücke ineinander gefaltet und durch zwei mindestens 15 mm voneinander entfernte Nähte miteinander verbunden sein. Die Nähte müssen entsprechend der diesen Vorschriften beigefügten Zeichnung 1 ausgeführt sein; wenn es jedoch bei gewissen Teilen der Schutzdecke (z.B. bei den Überfällen ... und bei verstärkten Ecken) nicht möglich ist, die Stücke auf diese Weise zusammenzunähen, so genügt es, dass nur der Rand des oberen Teiles umgefaltet und entsprechend der diesen Vorschriften beigefügten Zeichnung 2 angenäht ist. Die eine Naht, deren Faden sich in der Farbe vom Faden der anderen Naht und von der Schutzdecke deutlich unterscheiden muss, darf nur an der Innenseite sichtbar sein. Alle Nähte müssen mit der Maschine genäht sein.
+<sup>3.</sup> Ist die Schutzdecke aus mehreren Stücken zusammengesetzt, so müssen die Ränder der Stücke ineinander gefaltet und durch zwei mindestens 15 mm voneinander entfernte Nähte miteinander verbunden sein. Die Nähte müssen entsprechend der diesen Vorschriften beigefügten Zeichnung 1 ausgeführt sein; wenn es jedoch bei gewissen Teilen der Schutzdecke (z.B. bei den Überfällen … und bei verstärkten Ecken) nicht möglich ist, die Stücke auf diese Weise zusammenzunähen, so genügt es, dass nur der Rand des oberen Teiles umgefaltet und entsprechend der diesen Vorschriften beigefügten Zeichnung 2 angenäht ist. Die eine Naht, deren Faden sich in der Farbe vom Faden der anderen Naht und von der Schutzdecke deutlich unterscheiden muss, darf nur an der Innenseite sichtbar sein. Alle Nähte müssen mit der Maschine genäht sein.
 
 <sup>4.</sup> Besteht die Schutzdecke aus kunststoffbeschichtetem Gewebe und ist sie aus mehreren Stücken zusammengesetzt, so können diese Stücke auch durch Verschweissen entsprechend der diesen Vorschriften beigefügten Zeichnung 3 aneinandergefügt werden. Dabei müssen sich die Ränder der Stücke um mindestens 15 mm überlappen. Sie müssen in der vollen Breite der 15 mm miteinander verschmolzen sein. Auf der Aussenseite ist die Überlappkante mit einem mindestens 7 mm breiten Kunststoffband im selben Schweissvorgang zu überdecken. Das Kunststoffband und ein Streifen von mindestens 3 mm zu beiden Seiten dieses Bandes sind mit einer gleichförmigen und deutlich sichtbaren Narbung zu versehen. Das Verschweissen muss so ausgeführt sein, dass die Stücke nicht getrennt und danach wieder zusammengefügt werden können, ohne sichtbare Spuren zu hinterlassen.
 
@@ -1446,7 +1473,10 @@ Als Befestigungsmittel sind zu verwenden:
 
 An den Öffnungen der Schutzdecke, die zum Beladen und Entladen dienen, muss die Verbindung lückenlos sein. Die folgenden Systeme können angewendet werden:
 
-- a) Die beiden Ränder der Schutzdecke müssen einander ausreichend überlappen. Ausserdem muss ihr Verschluss gesichert sein durch
+- a)
+
+  Die beiden Ränder der Schutzdecke müssen einander ausreichend überlappen. Ausserdem muss ihr Verschluss gesichert sein durch:
+
   - i) einen Überfall, der nach Absatz 3 oder 4 angenäht oder angeschweisst ist;
   - ii) Ringe und Ösen, die den Bedingungen des Absatzes 8 entsprechen; die Ringe müssen aus Metall gefertigt sein und
   - iii) einen Riemen aus geeignetem Material, der aus einem einzigen Stück besteht, nicht dehnbar, mindestens 20 mm breit und 3 mm dick ist und der durch die Ringe geführt wird und die beiden Ränder der Schutzdecke und den Überfall zusammenhält; der Riemen muss an der Innenseite der Schutzdecke befestigt und entweder
@@ -1489,13 +1519,13 @@ Schutzdecke aus mehreren Stücken
 
 (zusammengenäht)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image23.png)
 
 *Teil I – Zeichnung 2*
 
 Schutzdecke aus mehreren Stücken
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image24.png)
 
 *Teil I – Zeichnung 3*
 
@@ -1503,31 +1533,31 @@ Schutzdecke aus mehreren Stücken
 
 (zusammengeschweisst)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image25.png)
 
 *Teil I – Zeichnung 4*
 
 Ausbesserung der Schutzdecke
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image26.png)
 
 *Teil I – Zeichnung 5*
 
 Muster einer Zwinge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image27.png)
 
 *Zeichnung 6*
 
 Beispiel für ein Schutzdeckenverschlusssystem
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image28.png)
 
 *Zeichnung 7*
 
 Beispiel einer Schutzdecke, die an einer besonderen Rahmenkonstruktion befestigt ist
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image29.png)
 
 Das Schiebeplanendach muss den Erfordernissen der nachstehenden Ziffern a) bis c) entsprechen:
 
@@ -1543,7 +1573,7 @@ Diese Befestigung der Schutzdecke an den Fahrzeugen ist annehmbar unter der Vora
 
 Schutzdeckenverschlusssystem an den Öffnungen zum Beladen und Entladen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image30.png)
 
 ### Beschreibung
 
@@ -1553,23 +1583,23 @@ Bei diesem Verschlusssystem werden die beiden Ränder an den Öffnungen der Schu
 
 Beispiel einer Konstruktion eines Behälters mit Schiebeplanen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image31.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image32.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image33.png)
 
 *Zeichnung 10*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image34.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image35.png)
 
 ### Teil II Verfahren bei der Zulassung von Behältern, die den technischen Bedingungen des Teils I entsprechen
 
 Allgemeines
 
-\1. Behälter können zum Warentransport unter Zollverschluss zugelassen werden
+\1. Behälter können zum Warentransport unter Zollverschluss zugelassen werden:
 
 - a) auf der Herstellungsstufe nach dem Konstruktionstyp (Verfahren für die Zulassung auf der Herstellungsstufe) oder
 - b) auf einer späteren Stufe als der der Herstellung entweder einzeln oder für eine bestimmte Zahl von Behältern des gleichen Typs (Verfahren für die Zulassung auf einer späteren Stufe als der der Herstellung).
@@ -1631,7 +1661,7 @@ Muster I
 
 (englische Fassung)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image36.png)
 
 Anhang I von Teil II
 
@@ -1641,7 +1671,7 @@ Muster I
 
 (französische Fassung)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image37.png)
 
 Anhang 2 von Teil II
 
@@ -1735,9 +1765,9 @@ Teil III
 
 Die abgebildete Vorrichtung entspricht den Vorschriften des Teils I Artikel 4 Absatz 6 Buchstabe a
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image38.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20220204/de/xml/image/image38.png)
 
-Anlage 8[^t-6]
+Anlage 8*[^t-6]*
 
 ## Zusammensetzung, Aufgaben und Geschäftsordnungen des Verwaltungsausschusses und der TIR-Kontrollkommission
 
@@ -1806,7 +1836,7 @@ Soweit in dieser Anlage nichts bestimmt ist, gilt die Geschäftsordnung der Wirt
 
 #### Art. 10
 
-Die TIR-Kontrollkommission
+Die TIR-Kontrollkommission:
 
 - a) überwacht die Anwendung des Abkommens, einschliesslich des Bürgschaftssystems, und erfüllt die ihr vom Verwaltungsausschuss übertragenen Aufgaben;
 - b) überwacht die zentrale Durchführung des Drucks der Carnets TIR und ihr Verteilung an die Verbände; diese Aufgabe kann von einer der in Artikel 6 genannten zugelassenen internationalen Organisationen wahrgenommen werden;
@@ -1839,17 +1869,17 @@ Der TIR-Sekretär muss Mitglied des Sekretariats der Wirtschaftskommission der V
 
 <sup>(2)</sup> Das Verfahren für die Finanzierung der Tätigkeit der TIR-Kontrollkommission und des TIR-Sekretariats ist vom Verwaltungsausschuss zu genehmigen.
 
-Anlage 9[^t-7]
+Anlage 9*[^t-7]*
 
 ## Zulassung zum TIR-Verfahren
 
-[^t-7]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770). Bereinigt gemäss der vom BR am 21. Dez. 2005 genehmigten Änd. ([AS 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der am 10. Okt. 2013 für die Schweiz in Kraft getretenen Änd. ([AS 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), der vom EFD am 30. Sept. 2014 genehmigten Änd. ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)) und der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) und der Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
+[^t-7]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770). Bereinigt gemäss der vom BR am 21. Dez. 2005 genehmigten Änd. ([AS 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der am 10. Okt. 2013 für die Schweiz in Kraft getretenen Änd. ([AS 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), der vom EFD am 30. Sept. 2014 genehmigten Änd. ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)) und der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)), der Änd. vom 6. Febr. 2020 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)) und der Änd. vom 15. Okt. 2020, in Kraft getreten für die Schweiz am 4. Febr. 2022 ([AS 2021 752](https://fedlex.data.admin.ch/eli/oc/2021/752)).
 
 ### Teil I Ermächtigung der Verbände zur Ausgabe von Carnets TIR und zur Übernahme der Bürgschaft
 
 ### Mindestvoraussetzungen und -erfordernisse
 
-(1) Ein Verband muss folgende Mindestvoraussetzungen und -erfordernisse erfüllen, um nach Artikel 6 des Übereinkommens von den Vertragsparteien die Bewilligung zu erhalten, Carnets TIR auszugeben und die Bürgschaft zu übernehmen:
+(1) Ein Verband muss folgende Mindestvoraussetzungen und -erfordernisse erfüllen, um nach Artikel 6 des Übereinkommens von den Zollbehörden oder andere zuständige Behörden einer Vertragspartei die Bewilligung zu erhalten, Carnets TIR auszugeben und die Bürgschaft zu übernehmen:
 
 - a) mindestens einjähriges nachgewiesenes Bestehen als Verband, der im Hoheitsgebiet der Vertragspartei, die die Bewilligung ausgestellt hat, seinen Geschäftssitz hat;
 - b) Nachweis gesunder Finanzen und der organisatorischen Befähigung des Verbands, seine Verpflichtungen aus dem Übereinkommen zu erfüllen;
@@ -1902,34 +1932,18 @@ Anlage 9[^t-7]
 
 (3) Die Vertragsparteien legen die Verfahren für die Zulassung zum TIR-Verfahren auf der Grundlage der in den Absätzen 1 und 2 aufgeführten Mindestvoraussetzungen und -erfordernisse im Einklang mit ihrem innerstaatlichen Recht fest.
 
-(4) Die zuständigen Behörden übermitteln der TIR-Kontrollkommission innerhalb einer Woche nach der Zulassung oder dem Widerruf der Zulassung zur Verwendung von Carnets TIR die näheren Angaben zu jeder Person in Form der anliegenden Musterzulassung (MZ).
+(4) Die zuständigen Behörden übermitteln der TIR-Kontrollkommission unverzüglich nach der Zulassung oder dem Widerruf der Zulassung zur Verwendung von Carnets TIR die näheren Angaben zu jeder Person, einschliesslich folgender Angaben:
 
-(5) Der Verband übermittelt jährlich eine aktualisierte Liste aller zugelassenen Personen sowie der Personen, deren Zulassung widerrufen worden ist, mit Stand vom 31. Dezember. Diese Liste ist den zuständigen Behörden innerhalb einer Woche nach dem 31. Dezember zu übermitteln. Die zuständigen Behörden übersenden eine Kopie dieser Liste der TIR-Kontrollkommission.
+- a) Persönliche Identifikations(ID)-Nummer, die der Person vom bürgenden Verband in Zusammenarbeit mit der internationalen Organisation, der er angehört, gemäss dem vom Verwaltungsausschuss festgelegten Standardformat erteilt worden ist;
+- b) Name(n) und Anschrift(en) der Person(en) oder des Unternehmens (bei einer Unternehmensgesellschaft auch die Namen der Verantwortlichen);
+- c) Kontaktperson mit vollständigen Kontaktdaten und
+- d) Registriernummer, Nummer der Genehmigung für internationale Transporte oder sonstige Nummer (falls vorhanden).
+
+(5) Die Verbände teilen den zuständigen Behörden und der TIR-Kontrollkommission jede Änderung der Angaben zu zugelassenen Personen unverzüglich mit, sobald sie davon Kenntnis erhalten.
 
 (6) Die Zulassung zum TIR-Verfahren begründet selbst noch keinen Anspruch, von den Verbänden Carnets TIR zu erhalten.
 
 (7) Die Zulassung einer Person zur Verwendung von Carnets TIR unter Erfüllung der oben aufgeführten Mindestvoraussetzungen und -erfordernisse lässt die Verantwortlichkeiten und Verpflichtungen dieser Person nach dem Abkommen unberührt.
-
-### Musterzulassung (MZ)
-
-<table>
-<tr><td>Name des Verbandes:</td><td>Land:</td></tr>
-<tr><td colspan="2">Zuständige Behörde:</td></tr>
-</table>
-
-<table>
-<tr><td colspan="9">Von den nationalen Verbänden und/oder zuständigen Behörden auszufüllen</td></tr>
-<tr><td>ID-Nummer</td><td>Name der Person-(en)/des Unternehmens</td><td>Geschäftsadresse</td><td>Kontaktstelle und Rufnummer (Telefon-, Fax- und E-Mail-Nummer)</td><td>Registrier- oder Genehmigungsnummer des Betriebs usw.\*</td><td>Früherer Widerruf der Zulassung\*\*</td><td>Datum der Zulassung\*\*</td><td>Datum des Widerrufs der Zulassung\*\*</td><td>Stempel/ Unterschrift</td></tr>
-<tr><td colspan="9">\* falls vorhanden \*\* falls zutreffend</td></tr>
-</table>
-
-Zu jeder Person, für die von dem zugelassenen Verband ein Zulassungsantrag gestellt wird, sind den zuständigen Behörden mindestens folgende Angaben zu übermitteln:
-
-- – persönliche Identifikations(ID)-Nummer, die der Person vom bürgenden Verband (in Zusammenarbeit mit der internationalen Organisation, der er angehört) nach einem Standardformat erteilt worden ist. Das Format der ID-Nummer wird vom Verwaltungsausschuss festgesetzt.;
-- – Name(n) und Anschrift(en) der Person(en) oder des Unternehmens (bei einer Unternehmensgesellschaft auch die Namen der Verantwortlichen);
-- – Kontaktstelle (Person, die befugt ist, Zollbehörden und Verbänden Auskunft über den TIR-Vorgang zu erteilen) mit vollständiger Telefon-, Fax- und E‑Mail-Nummer;
-- – Registriernummer, Nummer der Genehmigung für internationale Transporte oder sonstige Nummer (falls vorhanden);
-- – früherer Widerruf der Zulassung, einschliesslich Datum, Dauer und Art des Widerrufs der Zulassung (falls zutreffend).
 
 ### Teil III Zulassung einer internationalen Organisation gemäss Artikel 6 zur Übernahme der Verantwortlichkeit für die wirksame Gestaltung und Funktionsweise eines internationalen Bürgschaftssystems sowie zum Druck und zur Verteilung der Carnets TIR
 
