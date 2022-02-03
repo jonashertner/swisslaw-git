@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Attuazione del divieto di dissimulare il proprio viso (art. 10a Cost.): modifica del codice penale"
 document: Progetto posto in consultazione
 language: it

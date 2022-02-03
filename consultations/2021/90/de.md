@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Umsetzung des Verbots zur Gesichtsverhüllung (Art. 10a BV): Änderung des StGB"
 document: Vernehmlassungsvorlage
 language: de

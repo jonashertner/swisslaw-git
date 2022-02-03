@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Mise en œuvre à l’interdiction de se dissimuler le visage (art. 10a Cst.): modification du code pénal"
 document: Projet mis en consultation
 language: fr
