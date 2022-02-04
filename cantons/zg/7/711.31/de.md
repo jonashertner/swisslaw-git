@@ -3,13 +3,13 @@ canton: ZG
 number: "711.31"
 title: "Kantonaler Richtplan, Richtplantext"
 language: de
-version: 2020-11-07
-valid_until: 2022-02-04
-version_adopted: 2020-10-29
+version: 2022-02-05
+valid_until: 2023-02-02
+version_adopted: 2022-01-27
 adopted: 1988-09-01
 in_force: 1988-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/711.31"
-pdf: "https://bgs.zg.ch/api/de/versions/2260/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2371/pdf_file"
 text: pdf
 ---
 
@@ -17,9 +17,7 @@ text: pdf
 
 # Kantonaler Richtplan Richtplantext
 
-### Kantonsratsbeschlüsse bis: 29. Oktober 2020 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 29. Oktober 2020
-
-(Ausnahme: das Genehmigungsverfahren für das Vorhaben E 11.2.1 Nr. 12 ist sistiert)
+### Kantonsratsbeschlüsse bis: 27. Januar 2022 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 27. Januar 2022
 
 Amt für Raum und Verkehr
 
@@ -29,9 +27,9 @@ Herausgeber Baudirektion des Kantons Zug Amt für Raum und Verkehr Aabachstrasse
 
 6300 Zug T 041 728 54 80 info.arv@zg.ch
 
-Stand der Nachführung: Kantonsratsbeschlüsse bis: 29. Oktober 2020 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 29. Oktober 2020 Genehmigungsvorbehalt: Das Genehmigungsverfahren betreffend die Richtplananpassung zum Vorhaben E 11.2.1 Nr. 12 «Hatwil/Hubletzen» (Kiesabbaustandort) wird sistiert, bis die dagegen erhobene Beschwerde der Gemeinde Cham (Verfahrensnummer 1C\_687/2020) vom Bundesgericht entschieden sein wird.
+Stand der Nachführung: Kantonsratsbeschlüsse bis: 27. Januar 2022 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 27. Januar 2022
 
-Erstellt am 18. August 2021
+Erstellt am 6. September 2022
 
 ### Vorwort
 
@@ -61,11 +59,11 @@ G Grundzüge der räumlichen Entwicklung
 
 S Siedlung
 
-**14 15 16 16**
+**14 15 16**
 
-S 1 Siedlungsgebiet S 2 Siedlungsbegrenzung S 3 Hochhäuser S 4 Einkaufszentren und Fachmärkte S 5 Siedlungsqualität / Dichten der Siedlungen / Natur in der Siedlung / Naherholung S 6 Zonen mit speziellen Vorschriften für historisch wertvolle Gebäude und Anlagen S 7 Denkmalpflege und Archäologie S 9 Öffentliche Bauten und Anlagen S 10 Preisgünstiger Wohnraum
+S 1 Siedlungsgebiet S 2 Siedlungsbegrenzung S 3 Hochhäuser S 4 Verkehrsintensive Einrichtungen S 5 Siedlungsqualität / Dichten der Siedlungen / Natur in der Siedlung / Naherholung 16 S 6 Zonen mit speziellen Vorschriften für historisch wertvolle Gebäude und Anlagen S 7 Denkmalpflege und Archäologie S 9 Öffentliche Bauten und Anlagen S 10 Preisgünstiger Wohnraum
 
-**16 18 18 19 20**
+**18 18 19 20**
 
 **21**
 
@@ -79,15 +77,25 @@ L 1 Landwirtschaft L 2 Bodenschutz L 3 Weiler L 4 Wald L 5 Naturschutzgebiete un
 
 V Verkehr
 
-**35 35 36 39 41 43 43 44 44 44 45**
+**35 35 36 38 40 41 43 43 44 44 44 45**
 
-V 1 Zuger Verkehrspolitik V 2 Nationalstrassen V 3 Kantonsstrassen V 4 Nationaler und internationaler Bahnverkehr / Grobverteiler V 6 Busverkehr / Feinverteiler, u.a. auf Eigentrassee V 7 Bahn-Güterverkehr V 8 Flugverkehr V 9 Radverkehr V 10 Kantonales Wanderwegnetz V 11 Flankierende Massnahmen im Verkehr V 12 Prioritäten bei den Verkehrsvorhaben E Ver- und Entsorgung, weitere Raumnutzungen
+V 1 Zuger Verkehrspolitik V 2 Nationalstrassen V 3 Kantonsstrassen V 4 Nationaler und internationaler Bahnverkehr / Grobverteiler V 5 Regionaler Bahnverkehr / Mittelverteiler V 6 Busverkehr / Feinverteiler, u.a. auf Eigentrassee V 7 Bahn-Güterverkehr V 8 Flugverkehr V 9 Radverkehr V 10 Kantonales Wanderwegnetz V 11 Flankierende Massnahmen im Verkehr V 12 Prioritäten bei den Verkehrsvorhaben
 
 **47**
 
-**47 47 47 48 49 49 49 49 51 51 52 52**
+E Ver- und Entsorgung, weitere Raumnutzungen
 
-E 1 Abfallplanung E 2 Entsorgung von Siedlungsabfällen E 3 Deponierung E 4 Verwertung von Bauabfällen E 5 Abwasser E 6 Grundwasser und Wasserversorgung E 10 Störfallvorsorge E 11 Abbau Steine und Erden E 12 Altlasten E 13 Militärische Infrastrukturanlagen E 14 Kommunikation E 15 Energie
+**47 47 47 48 49**
+
+E 1 Abfallplanung E 2 Entsorgung von Siedlungsabfällen
+
+E 3 Deponierung
+
+E 4 Verwertung von Bauabfällen
+
+E 5 Abwasser E 6 Grundwasser und Wasserversorgung E 10 Störfallvorsorge E 11 Abbau Steine und Erden E 12 Altlasten E 13 Militärische Infrastrukturanlagen E 14 Kommunikation E 15 Energie
+
+**49 49 49 51 51 52 52**
 
 **55**
 
@@ -543,7 +551,9 @@ S 3 Hochhäuser
 
 S 3.1 Gebiete mit möglichen Standorten für Hochhäuser
 
-S 3.1.1 Richtplankarte Neue Hochhäuser (höher als 30 Meter) sind im Kanton Zug nur in der Stadtlandschaft möglich. Teilkarte G 9 Sie bedingen einen Bebauungsplan.
+S 3.1.1 Neue Hochhäuser (höher als 30 Meter) sind im Kanton Zug nur in der Stadtlandschaft möglich. Sie bedingen einen Bebauungsplan.
+
+**Richtplankarte Teilkarte G 9**
 
 S 3.1.3 Ein Hochhausprojekt muss hohe Anforderungen erfüllen betreffend:
 
@@ -557,31 +567,35 @@ S 3.1.3 Ein Hochhausprojekt muss hohe Anforderungen erfüllen betreffend:
 
 - e. Vernetzung mit Grün- bzw. Naherholungsräumen.
 
-S 4 Einkaufszentren und Fachmärkte
+S 4 Verkehrsintensive Einrichtungen
 
-S 4.1 Standorte für Einkaufszentren und Fachmärkte
+S 4.1 Definition
 
-S 4.1.1 Richtplankarte S 1 Die Gemeinden und der Kanton konzentrieren neue Einkaufszentren und Fachmärkte auf die
+Als verkehrsintensive Einrichtungen VE gelten Einkaufs- und Freizeitanlagen mit mehr als 7500 m<sup>2</sup> Verkaufs- bzw. Nutzfläche oder mehr als 500 Parkplätzen oder mehr als 3000 Bewegungen pro Tag (an mindestens hundert Tagen pro Jahr).
 
-Kernzonen oder Gebiete mit guter Verkehrserschliessung.
+S 4.2 Standorte
 
-S 4.1.2 Die Gemeinden prüfen bei der Revision der Nutzungsplanung das Einschränken von neuen
+**Richtplankarte S 4**
 
-Einkaufszentren und Fachmärkten ausserhalb der Kernzonen.
+Eine verkehrsintensive Einrichtung braucht keinen Richtplaneintrag, wenn sie innerhalb des Perimeters «VE ohne Richtplaneintrag» liegt oder rechtmässig bewilligt ist. Falls der Standort ausserhalb geplant ist, braucht es einen Eintrag im Richtplan.
 
-S 5 Siedlungsqualität / Dichten der Siedlungen /
+S 4.3 Mobilitätsmanagement
 
-Natur in der Siedlung / Naherholung
+Die Gemeinden fordern im Rahmen der nachfolgenden Planungen für verkehrsintensive Einrichtungen ein umfassendes Mobilitätsmanagement.
+
+S 5 Siedlungsqualität / Dichten der Siedlungen / Natur in der Siedlung / Naherholung
 
 S 5.1 Siedlungsqualität
 
 S 5.1.1 Die Gemeinden sorgen für eine den Bedürfnissen der Bevölkerung entsprechende Siedlungsqualität (Ortsbild, Qualität der Architektur, Umgebungs- und Freiraumgestaltung, Erschliessung und Parkierung).
 
-S 5.1.2 Richtplankarte S 5 Die Gemeinden stärken in den Zentrumgebieten die ortsbaulichen Qualitäten. Dazu ergreifen sie Massnahmen beispielsweise für die Verbesserung der Wege für den Langsamverkehr, das Schaffen und Beleben neuer öffentlicher Freiräume sowie die Gestaltung der Strassenräume.
+S 5.1.2 Die Gemeinden stärken in den Zentrumgebieten die ortsbaulichen Qualitäten. Dazu ergreifen sie Massnahmen beispielsweise für die Verbesserung der Wege für den Langsamverkehr, das Schaffen und Beleben neuer öffentlicher Freiräume sowie die Gestaltung der Strassenräume.
 
 S 5.2 Dichten der Siedlungen
 
-S 5.2.1 Richtplantext Kap. V 4 - V 6 Die Gemeinden stellen bei der Revision der Nutzungsplanung sicher, dass die Grundnutzung bei den Haltestellen der Stadtbahn und bei Bushaltestellen mit grosser Nachfrage genügend hohe Dichten zulässt.
+S 5.2.1 Die Gemeinden stellen bei der Revision der Nutzungsplanung sicher, dass die Grundnutzung bei den Haltestellen der Stadtbahn und bei Bushaltestellen mit grosser Nachfrage genügend hohe Dichten zulässt.
+
+**Richtplantext Kap. V 4 - V 6**
 
 S 5.2.2 Die Gemeinden prüfen bei der Revision der Nutzungsplanung die heutigen Ausnützungsziffern ihrer Bauzonen. Sie achten auf eine sinnvolle Abstufung der Dichten zwischen benachbarten Zonen. Bei Bedarf legen sie in den kantonalen Verdichtungsgebieten Mindestdichten fest.
 
@@ -612,6 +626,8 @@ S 5.2.5 Der Kanton führt eine quantitative und qualitative Erfolgskontrolle fü
 S 5.3 Natur im Siedlungsgebiet
 
 S 5.3.1 Kanton und Gemeinden sorgen für ökologische Ausgleichsflächen auch in der Siedlung. Sie achten auf die naturnahe Umgebungsgestaltung. Dazu können sie:
+
+**Richtplankarte S 5**
 
 - a. im Rahmen von Sondernutzungsplänen Regelungen für die naturnahe Umgebungsgestaltung aufnehmen;
 
@@ -653,9 +669,7 @@ S 7.2 Ortsbildschutzgebiete
 
 S 7.2.2 Die Gemeinden bezeichnen bei der Revision der Zonenpläne die genaue Abgrenzung der Ortsbildschutzgebiete und legen die notwendigen Schutzbestimmungen fest. Dazu arbeiten sie mit dem Amt für Denkmalpflege und Archäologie zusammen.
 
-S 7.2.3 Die Gemeinden und der Kanton ziehen das Inventar der schützenswerten Ortsbilder der Schweiz
-
-(ISOS) als Planungshilfe bei.
+S 7.2.3 Die Gemeinden und der Kanton ziehen das Inventar der schützenswerten Ortsbilder der Schweiz (ISOS) als Planungshilfe bei.
 
 S 7.3 Archäologische Fundstätten
 
@@ -677,7 +691,7 @@ S 9.1 Planungsgrundsätze
 
 S 9.1.1 Bund, Kanton und Gemeinden stimmen ihre Standortentscheide für öffentliche Bauten und Anlagen mit Publikumsverkehr auf die räumlichen Ziele des Richtplans ab.
 
-S 9.1.2 Öffentliche Bauten und Anlagen sind gut mit dem öffentlichen Verkehr sowie Rad- und Fusswegen zu erschliessen.
+S 9.1.2 Öffentliche Bauten und Anlagen sind gut mit dem öffentlichen Verkehr sowie Velo- und Fusswegen zu erschliessen.
 
 S 9.2 Vorhaben
 
@@ -691,21 +705,29 @@ Nr. Gemeinde Vorhaben
 
 **Festsetzung M 10**
 
-1 Zug Umnutzung altes Kantonsspital 6 Zug Erweiterung kantonale Verwaltung an der Aa Festsetzung 7 Risch Aufhebung Tanklager (Antrag Kanton an den Vororientierung O 4 Bund) 8 Zug Hofstrasse, Standort Mittelschule 9 Menzingen Institut Bernarda, Standort Mittelschule 10 Zug Neubau Kunsthaus, Areal des alten Kantons- Festsetzung spitals 11 Cham Röhrliberg Allmendhof, Standort Mittelschule Festsetzung 12 Zug Lüssiweg, Standort Mittelschule 13 Risch Suurstoffi, Standort Fachhochschule Zentral- Festsetzung
-
 **K 10**
 
 **Festsetzung M 10 Festsetzung J 15**
 
 **M 10**
 
-**J 5**
-
 **Festsetzung K 11**
+
+1 Zug Umnutzung altes Kantonsspital 6 Zug Erweiterung kantonale Verwaltung an der Aa Festsetzung 7 Risch Aufhebung Tanklager (Antrag Kanton an den Vororientierung O 4 Bund) 8 Zug Hofstrasse, Standort Mittelschule 9 Menzingen Institut Bernarda, Standort Mittelschule 10 Zug Neubau Kunsthaus, Areal des alten Kantons- Festsetzung spitals 12 Zug Lüssiweg, Standort Mittelschule Nr. Gemeinde Vorhaben 13 Risch Suurstoffi, Standort Fachhochschule Zentral- Festsetzung schweiz 14 Risch Rotkreuz Bahnhof, Standort Mittelschule Bei den nachfolgenden Planungen sind folgende Punkte zu vertiefen:
+
+**Stand Planquadrat**
 
 **O 4**
 
-schweiz S 9.2.3 Der Kanton optimiert in Zusammenarbeit mit den Betreibern des öffentlichen Verkehrs und den Schulleitungen die Erschliessung der Standorte der Mittel- und Fachhochschulen.
+**Festsetzung O 4**
+
+- a. Gemeinsame Nutzungen: Erarbeiten eines Betriebskonzepts für die Nutzung der kantonalen Mittelschule und der gemeindlichen Sportanlagen;
+
+- b. Velo: Stärken der Veloinfrastruktur im Ennetsee;
+
+- c. Störfall: Der Kanton stellt den Einbezug der zuständigen Bundesbehörden und der SBB sicher. Sie erarbeiten gemeinsam die notwendigen, vorsorglichen Massnahmen. Kanton und Gemeinde legen in einem Bebauungsplan bzw. im Rahmen der Baubewilligung diese Massnahmen grundeigentümerverbindlich fest.
+
+S 9.2.2 Der Kanton optimiert in Zusammenarbeit mit den Betreibern des öffentlichen Verkehrs und den Schulleitungen die Erschliessung der Standorte der Mittel- und Fachhochschulen.
 
 S 10 Preisgünstiger Wohnraum
 
@@ -1379,13 +1401,9 @@ V 3.2
 
 An den nachfolgenden Vorhaben besteht ein kantonales Interesse. Sie sind räumlich abgestimmt und werden festgesetzt:
 
-**Planquadrat**
+**Planquadrat H 6–L 4**
 
-Nr. Vorhaben
-
-2 Neubau Tangente Zug–Baar zwischen Knoten Neufeld und Anschluss J 11–J 12 Margel mit einem Anschluss an der Rigistrasse und Anschlussmöglichkeiten Baarermatte / Göbli / verlängerte Industriestrasse 3 Neubau Umfahrung Cham–Hünenberg 8 Kapazitätssteigerung Chamer- und Nordstrasse (inkl. Knoten Autobahn- J 8–K 10, anschluss Baar)
-
-**H 6–L 4**
+Nr. Vorhaben 3 Neubau Umfahrung Cham–Hünenberg 8 Kapazitätssteigerung Chamer- und Nordstrasse (inkl. Knoten Autobahn- J 8–K 10, anschluss Baar)
 
 **H 10–J 10**
 
@@ -1401,11 +1419,9 @@ Nr. Vorhaben
 
 **J 8–J 10/K 9**
 
-2 Neubau Verbindung Autobahn-Halbanschluss Steinhausen Süd nach Baar oder Zug Im Jahr 2035 prüft der Kanton den Erfolg der Massnahme «Kapazitätssteigerung» Chamer- und Nordstrasse. Verfehlt die Ertüchtigung der beiden Strassen die Ziele V 3.1 b) und c), ist dem Kantonsrat innert 2 eine Anpassung des Richtplans zur Festsetzung des Autobahn-Halbanschlusses Steinhausen Süd mit Verbindung nach Baar oder Zug zu unterbreiten (Vorhaben V 2.3 Nr. 1 und V 3.3 Nr. 2). Der Kanton bindet Bund und die betroffenen Gemeinden in den Prozess ein.
+2 Neubau Verbindung Autobahn-Halbanschluss Steinhausen Süd nach Baar oder Zug Im Jahr 2035 prüft der Kanton den Erfolg der Massnahme «Kapazitätssteigerung» Chamer- und Nordstrasse. Verfehlt die Ertüchtigung der beiden Strassen die Ziele V 3.1 b) und c), ist dem Kantonsrat innert 2 eine Anpassung des Richtplans zur Festsetzung des Autobahn-Halbanschlusses Steinhausen Süd mit Verbindung nach Baar oder Zug zu unterbreiten (Vorhaben V 2.3 Nr. 1 und V 3.3 Nr. 2). Der Kanton bindet den Bund und die betroffenen Gemeinden in den Prozess ein.
 
 **Jahren**
-
-**den**
 
 **N 14–O 16**
 
@@ -1415,17 +1431,19 @@ Nr. Vorhaben
 
 5 Neubau Ostumfahrung Rotkreuz
 
-6 Verbindung Autobahnanschluss Rotkreuz an die Holzhäusernstrasse/ M 4–N 4 Bösch mit Bügel zur Industriestrasse (1. Teil Bügel zur Industriestrasse und 2. Teil Verbindung Holzhäusernstrasse/Bösch) Der Kanton unterbreitet dem Kantonsrat bis 2023 einen Antrag zur weiteren Planung des 1. Teils des Bügels zur Industriestrasse. Mit Gemeinden, Bund und Betroffenen evaluiert er die Machbarkeit, die Kosten verkehrlichen Wirkungen des 1. Teils des Bügels mit Unterbindung des Durchgangsverkehrs. Ein Trassee für den Feinverteiler des öffenlichen Verkehrs ist einzubeziehen.
+6 Verbindung Autobahnanschluss Rotkreuz an die Holzhäusernstrasse/ M 4–N 4 Bösch mit Bügel zur Industriestrasse (1. Teil Bügel zur Industriestrasse und 2. Teil Verbindung Holzhäusernstrasse/Bösch) Der Kanton unterbreitet dem Kantonsrat bis 2023 einen Antrag zur weiteren Planung des 1. Teils des Bügels zur Industriestrasse. Mit Gemeinden, Bund und Betroffenen evaluiert er die Machbarkeit, die Kosten verkehrlichen Wirkungen des 1. Teils des Bügels mit Unterbindung des Durchgangsverkehrs. Ein Trassee für den Feinverteiler des öffentlichen Verkehrs ist einzubeziehen.
+
+**und die**
+
+Bis spätestens 2035 prüft der Kanton den Erfolg der realisierten verkehrlichen Massnahmen im Raum Rotkreuz/Hünenberg. Verfehlen diese Massnahmen die Ziele V 3.1 a), b) und c), ist dem Kantonsrat 2 Jahren eine Anpassung des Richtplans zur Festsetzung der Vorhaben V 3.3 Nr. 5 und V 3.3 Nr. 6 zu unter - breiten. Der Kanton bindet den Bund und die betroffenen Gemeinden in den Prozess ein.
 
 **innert**
 
-Bis spätestens 2035 prüft der Kanton den Erfolg der realisierten verkehrlichen Massnahmen im Raum Rotkreuz/Hünenberg. Verfehlen diese Massnahmen die Ziele V 3.1 a), b) und c), ist dem Kantonsrat V 3.6
+V 3.6
 
 Der Kanton Zug und die Gemeinden treffen gleichzeitig mit der Realisierung der vorgenannten Kantonsstrassen flankierende Massnahmen (z. B. verkehrsdosierende Massnahmen, verkehrsverlagernde, gestalterische Aufwertung der Strassenräume, Erhöhung der Aufenthaltsqualität, Förderung des Langsamverkehrs und des öffentlichen Verkehrs), um die Ziele der Gesamtentwicklung zu unterstützen. Damit entspricht der Beschluss wiederum dem heutigen Stand der Technik. Die flankierenden Massnahmen stellen immer einen Abwägungsprozess zwischen den unterschiedlichen Nutzergruppen dar. Im Fokus stehen Gesamtlösungen, welche allen dienen.
 
-Nr. Vorhaben
-
-1 Zuger- und Baarerstrasse mit der Realisierung der Tangente Zug/Baar 2 Steinhauserstrasse zwischen Chamerstrasse und Ammannsmatt mit der Realisierung des Neubaus Verbindung Autobahn-Halbanschluss Steinhausen Süd nach Baar oder Zug 3 Zentrum von Unterägeri mit der Realisierung der Umfahrung Unterägeri 4 Zentrum Cham mit der Realisierung der Umfahrungen Cham–Hünenberg 7 Rotkreuz / Risch / Buonas mit der Realisierung des Autobahn-Halbanschlusses Rotkreuz Süd mit Massnahmen zur Verflüssigung des Verkehrs zwischen Halbanschluss Rotkreuz Süd und Vollanschluss Rotkreuz 8 Rotkreuz / Risch / Buonas / Holzhäusern / Bösch mit der Realisierung der Verbindung Autobahnanschluss Rotkreuz an die Holzhäusernstrasse/Bösch mit Bügel zur Industriestrasse
+Nr. Vorhaben 2 Steinhauserstrasse zwischen Chamerstrasse und Ammannsmatt mit der Realisierung des Neubaus Verbindung Autobahn-Halbanschluss Steinhausen Süd nach Baar oder Zug 3 Zentrum von Unterägeri mit der Realisierung der Umfahrung Unterägeri 4 Zentrum Cham mit der Realisierung der Umfahrungen Cham–Hünenberg 7 Rotkreuz / Risch / Buonas mit der Realisierung des Autobahn-Halbanschlusses Rotkreuz Süd mit Massnahmen zur Verflüssigung des Verkehrs zwischen Halbanschluss Rotkreuz Süd und Vollanschluss Rotkreuz 8 Rotkreuz / Risch / Buonas / Holzhäusern / Bösch mit der Realisierung der Verbindung Autobahnanschluss Rotkreuz an die Holzhäusernstrasse/Bösch mit Bügel zur Industriestrasse
 
 V 3.8
 
@@ -1437,17 +1455,15 @@ V 3.9
 
 Mit dem Abschluss folgender Bauprojekte werden die nachfolgend genannten Strassen an die Gemeinden oder den Bund abgetreten:
 
-- a. Tangente Zug/Baar: KS L, Ägeristrasse von Langgasse bis Geissbüel/Margel an die Gemeinde Baar; KS 4b Zuger-/Baarerstrasse von Südstrasse (Baar) bis Bundesplatz (Zug) an die Gemeinde Baar bzw. Zug und KS U Feldstrasse an die Gemeinde Zug. Im Gegenzug tritt die Gemeinde Zug die Aabachstrasse Abschnitt Gubelstrasse bis Chamerstrasse an den Kanton Zug ab.
-
 - b. Umfahrung Cham Hünenberg: KS 4 Zuger-/Luzerner-/Chamerstrasse vom Alpenblick–Zythus– Holzhäusern an die Gemeinden Cham, Hünenberg und Risch; KS C Cham–Hünenberg an die Gemeinden Cham und Hünenberg; KS 25 Sinserstrasse von Cham Zentrum bis Ende verkehrsberuhigter Zone und KS 382 Knonauerstrasse von Cham Zentrum–Knoten Teuflibach an die Gemeinde Cham.
-
-**und die**
 
 - c. Umfahrung Unterägeri: KS 381 Zugerstrasse vom Anschluss Umfahrung Zugerstrasse–Anschluss Umfahrung Seestrasse an die Gemeinde Unterägeri.
 
 - d. Verbindung Grindel Bibersee: KS H Knonauerstrasse Unterfeld–Bibersee an die Gemeinde Steinhausen.
 
-- f. Abtreten der Kantonalen Autobahn A4a, KS 4 Sihlbruggstrasse/Zugerstrasse und KS 338 Zugerstrasse von Autobahnanschluss Baar–Walterswil–Kantonsgrenze/Hirzel an den Bund, sofern die Abschnitte ins Nationalstrassennetz aufgenommen werden. V 3.10
+- f. Abtreten der Kantonalen Autobahn A4a, KS 4 Sihlbruggstrasse/Zugerstrasse und KS 338 Zugerstrasse von Autobahnanschluss Baar–Walterswil–Kantonsgrenze/Hirzel an den Bund, sofern die Abschnitte ins Nationalstrassennetz aufgenommen werden.
+
+V 3.10
 
 Der Kanton erarbeitet mit den betroffenen Gemeinden bis Ende 2016 eine Vertragsgrundlage für die Abtretung der Kantonsstrassen.
 
@@ -1455,7 +1471,9 @@ V 4 Nationaler und internationaler Bahnverkehr / Grobverteiler
 
 V 4.1
 
-Der Kanton Zug setzt sich beim Bund und der SBB AG dafür ein, dass sein Gebiet optimal und marktgerecht mit dem nationalen und internationalen Bahnverkehr erschlossen wird. Besonders ist in den Hauptverkehrszeiten ein 15-Minuten-Schnellzugtakt zwischen Luzern und Zürich zu realisieren.
+Der Kanton Zug setzt sich beim Bund und der SBB AG dafür ein, dass sein Gebiet optimal und marktgerecht mit dem nationalen und internationalen Bahnverkehr erschlossen wird. Besonders ist in den Hauptverkehrszeiten ein 15-Minuten-Schnellzugtakt zwischen Luzern und Zürich zu
+
+realisieren.
 
 V 4.2
 
@@ -1473,15 +1491,15 @@ V 4.5
 
 **Richtplankarte Teilkarte V 4.5**
 
-Der Bund evaluiert zusammen mit dem Kanton Zug und den betroffenen Nachbarkantonen (Schwyz, Luzern, Aargau und Zürich) die langfristige Linienführung des NEAT-Zubringers im Raum Zug (Abschnitt Ausfahrt Zimmerberg-Basistunnel Litti bei Baar bis Arth-Goldau resp. Schwyz). Die Evaluation der technischen und raumplanerischen Machbarkeit umfasst Varianten auf beiden Seiten des Zugersees. Die Bestvariante setzt der Bund im Sachplan Verkehr fest.
+Der Bund evaluiert zusammen mit dem Kanton Zug und den betroffenen Nachbarkantonen (Schwyz, Luzern, Aargau und Zürich) die langfristige Linienführung des NEAT-Zubringers im Raum Zug (Abschnitt Ausfahrt Zimmerberg-Basistunnel Litti bei Baar bis Arth-Goldau resp. Schwyz).
+
+Die Evaluation der technischen und raumplanerischen Machbarkeit umfasst Varianten auf beiden Seiten des Zugersees. Die Bestvariante setzt der Bund im Sachplan Verkehr fest.
 
 Der Kanton Zug setzt sich beim Bund für einen siedlungs-, landschafts- und lärmverträglichen NEAT-Zubringer ein. Dabei werden Tunnellösungen bevorzugt. Er favorisiert eine östliche, unterirdische Linienführung mit Anschluss des Bahnhofs Zug.
 
 V 4.6
 
-Der Kanton Zug setzt sich zusammen mit weiteren betroffenen Kantonen beim Bund dafür ein, dass Standorte für einen NEAT-Bahnhof Zentralschweiz evaluiert und raumplanerisch untersucht werden. Dabei unterstützt der Kanton Zug einen NEAT-Bahnhof in Zug. Bis zur Entscheidung und zum Eintrag in den Sachplan Verkehr sind keine Präjudizien für einen anderen Standort zu
-
-schaffen.
+Der Kanton Zug setzt sich zusammen mit weiteren betroffenen Kantonen beim Bund dafür ein, dass Standorte für einen NEAT-Bahnhof Zentralschweiz evaluiert und raumplanerisch untersucht werden. Dabei unterstützt der Kanton Zug einen NEAT-Bahnhof in Zug. Bis zur Entscheidung und zum Eintrag in den Sachplan Verkehr sind keine Präjudizien für einen anderen Standort zu schaffen.
 
 V 4.7
 
@@ -1489,21 +1507,13 @@ V 4.7
 
 An den nachfolgenden Vorhaben besteht ein kantonales oder nationales Interesse. Sie sind räumlich abgestimmt und werden festgesetzt. Sofern notwendig, sichert der Bund auf Antrag des Kantons Zug die Trassees mittels Projektierungszonen.
 
-**Planquadrat**
+Nr. Vorhaben Planquadrat
 
-Nr. Vorhaben
+1 Neubau Gleis 8 beim Bahnhof Zug K 10
 
-**K 10**
+2 Neubau Zimmerberg-Basistunnel zwischen Litti (Baar) und dem unterirdi- F 12–A 15 schen Anschluss Nidelbad (Thalwil) 4 Neubau einer landschaftsverträglichen, direkten Verbindung zwischen M 5–O 5 Cham und Immensee (Spange Rotkreuz) 5 Ausbau SBB-Trassee zwischen Baar und Zug auf vier Spuren H 11–K 10 V 4.8
 
-1 Neubau Gleis 8 beim Bahnhof Zug 2 Neubau Zimmerberg-Basistunnel zwischen Litti (Baar) und dem unterirdi- F 12–A 15 schen Anschluss Nidelbad (Thalwil) 4 Neubau einer landschaftsverträglichen, direkten Verbindung zwischen M 5–O 5 Cham und Immensee (Spange Rotkreuz) 5 Ausbau SBB-Trassee zwischen Baar und Zug auf vier Spuren
-
-**H 11–K 10**
-
-V 4.8
-
-**Richtplankarte V 4 , V 5**
-
-An der Weiterbearbeitung der nachfolgenden Vorhaben besteht ein kantonales oder nationales Interesse. Sie sind räumlich noch nicht abschliessend abgestimmt und werden daher als Zwischenergebnis aufgenommen:
+Richtplankarte V 4 , V 5 An der Weiterbearbeitung der nachfolgenden Vorhaben besteht ein kantonales oder nationales Interesse. Sie sind räumlich noch nicht abschliessend abgestimmt und werden daher als Zwischenergebnis aufgenommen:
 
 **Planquadrat**
 
@@ -1527,21 +1537,21 @@ V 5.1
 
 Die Stadtbahn sowie die S-Bahn Zürich übernehmen die Funktion des Mittelverteilers im öffentlichen Verkehr. Der Kanton setzt sich dafür ein, dass zu Hauptverkehrszeiten bis 2016 ein Viertelstundentakt auf dem Stadtbahn- bzw. S-Bahn-Netz realisiert wird.
 
-**Richtplantext Kap. V 4**
-
-Der Kanton Zug koordiniert mit dem Bund und den Nachbarkantonen die Realisierung der Haltestellen auf dem SBB-Netz sowie die Gestaltung des Angebots. S-Bahn und Stadtbahn gewährleisten optimale Anschlüsse an den Fernverkehr.
+Richtplantext Kap. V 4 Der Kanton Zug koordiniert mit dem Bund und den Nachbarkantonen die Realisierung der Haltestellen auf dem SBB-Netz sowie die Gestaltung des Angebots. S-Bahn und Stadtbahn gewährleisten optimale Anschlüsse an den Fernverkehr.
 
 Der Kanton prüft spätestens nach dem Ausbau des SBB-Trassees zwischen Zug und Chollermüli auf drei Spuren (Vorhaben V 4.8, Nr. 5) Direktverbindungen zwischen Zug und dem Freiamt. Dazu arbeitet er mit den Nachbarkantonen und den SBB zusammen.
 
 V 5.2
 
-**Richtplankarte V 5**
+Richtplankarte V 5 An den nachfolgenden Vorhaben besteht ein kantonales Interesse. Sie sind räumlich abgestimmt und werden festgesetzt:
 
-An den nachfolgenden Vorhaben besteht ein kantonales Interesse. Sie sind räumlich abgestimmt und werden festgesetzt:
+**Planquadrat**
 
-Nr. Vorhaben Planquadrat
+Nr. Vorhaben
 
-17 Abstellanlage Zug Bahnhof (Zug) / Unterfeld (Baar) K 10, J 10
+**K 10, J 10**
+
+17 Abstellanlage Zug Bahnhof (Zug) / Unterfeld (Baar)
 
 V 5.3
 
@@ -1581,11 +1591,11 @@ V 6.3
 
 Das Hauptnetz des öffentlichen Feinverteilers wird festgesetzt. Es bildet das Rückgrat des öffentlichen Feinverteilers. Dieser zirkuliert auf dem Hauptnetz möglichst ungehindert und mit hoher Priorität und erreicht konkurrenzfähige Reisezeiten. Das Hauptnetz soll zu einem Pneutram- oder Tramsystem weiterentwickelt werden können.
 
-Der Kanton überprüft zwischen Unterfeld (Baar) und Feldstrasse (Zug), ob eine Linienführung via Feldstrasse technisch machbar und mit den Zielen zum Feinverteiler (V 6.1 und V 6.3) vereinbar ist. Dazu erteilt er dem Kantonsrat im Rahmen der Beschlussfassung zur Kapazitätssteigerung
-
-der Nordstrasse (Vorhaben V 3.2 Nr. 8) umfassend Bericht.
+Der Kanton überprüft zwischen Unterfeld (Baar) und Feldstrasse (Zug), ob eine Linienführung via Feldstrasse technisch machbar und mit den Zielen zum Feinverteiler (V 6.1 und V 6.3) vereinbar ist. Dazu erteilt er dem Kantonsrat im Rahmen der Beschlussfassung zur Kapazitätssteigerung der Nordstrasse (Vorhaben V 3.2 Nr. 8) umfassend Bericht.
 
 V 6.4
+
+**K 10**
 
 Treten verkehrliche Behinderungen auf, trifft der Kanton Massnahmen zur Verbesserung des öffentlichen Verkehrs. Neben baulichen Massnahmen für den öffentlichen Verkehr sind allenfalls auch Ausbauten beim Individualverkehr zu prüfen. Bei steuerungstechnischen Massnahmen für den öffentlichen Verkehr (Busbevorzugung an den Knoten, Lichtsignalsteuerungen) sind die konkreten Auswirkungen auf den Individualverkehr gering zu halten.
 
@@ -1635,11 +1645,7 @@ Der Standort ist räumlich abgestimmt und wird festgesetzt:
 
 Nr. Vorhaben
 
-**K 10**
-
-1 Hauptstützpunkt Feinverteiler an der Aa
-
-V 7 Bahn-Güterverkehr
+1 Hauptstützpunkt Feinverteiler an der Aa V 7 Bahn-Güterverkehr
 
 V 7.1
 
@@ -1739,21 +1745,53 @@ Die Liste Stand 2020 sieht folgende Prioritäten vor:
 
 Priorität 1: Baubeginn bis 2027
 
-Art Nr. Vorhaben Kantonsstrasse V 3.2-3 Neubau Umfahrung Cham–Hünenberg (L 4–H 6) Öffentlicher Verkehr V 7.4-1 Güterumladestation Bahnhof Zug (Zug) (K 10) Radverkehr V 9.2 Fertigstellung des festgesetzten Radstreckennetzes (1. Teil)
+**Vorhaben Neubau Umfahrung Cham–Hünenberg (L 4–H 6) Güterumladestation Bahnhof Zug (Zug) (K 10) Fertigstellung des festgesetzten Radstreckennetzes**
+
+Art Nr.
+
+Kantonsstrasse V 3.2-3 Öffentlicher Verkehr V 7.4-1 Radverkehr V 9.2 (1. Teil)
 
 Priorität 2: Baubeginn bis 2035
 
-Art Nr. Vorhaben Nationalstrasse V 2.2-2 Neubau Autobahn-Halbanschluss Rotkreuz Süd (O 5) Kantonsstrasse V 3.2-8 Kapazitätssteigerung Chamer- und Nordstrasse (inkl. Knoten Autobahnanschluss Baar) (K 8–K 9 / H 10–J 10) Kantonsstrasse V 3.3-6 Verbindung Autobahnanschluss Rotkreuz an die Holzhäusernstrasse/Bösch mit Bügel zur Industriestrasse (1. Teil Bügel zur Industriestrasse) (M 4) Öffentlicher Verkehr V 4.7-2 Neubau Zimmerberg-Basistunnel zwischen Litti (Baar) und dem unterirdischen Anschluss Nidelbad (Thalwil) (F 12–A 15) Öffentlicher Verkehr V 4.7-5 Ausbau SBB-Trassee zwischen Baar und Zug auf vier Spuren, Teil 1 (H 11–K 10) Öffentlicher Verkehr V 5.2-17 Abstellanlage Zug Bahnhof / Unterfeld (Baar) (Teil 1) (K 10, J 10) Öffentlicher Verkehr V 6.7-2 ÖV-Feinverteilertrassee Steinhausen Bahnhof–EKZ Zugerland (H 7) Radverkehr V 9.2 Fertigstellung des festgesetzten Radstreckennetzes
+**Vorhaben Neubau Autobahn-Halbanschluss Rotkreuz Süd (O 5) Kapazitätssteigerung Chamer- und Nordstrasse (inkl.**
 
-(2. Teil) Priorität 3: Baubeginn nach 2035
+Art Nr.
 
-Art Nr. Vorhaben
+Nationalstrasse V 2.2-2 Kantonsstrasse V 3.2-8 Knoten Autobahnanschluss Baar) (K 8–K 9 / H 10–J 10) Kantonsstrasse V 3.3-6 sernstrasse/Bösch mit Bügel zur Industriestrasse (1. Teil Bügel zur Industriestrasse) (M 4) Öffentlicher Verkehr V 4.7-2 dem unterirdischen Anschluss Nidelbad (Thalwil) (F 12–A 15) Öffentlicher Verkehr V 4.7-5 Spuren, Teil 1 (H 11–K 10) Öffentlicher Verkehr V 5.2-17 (K 10, J 10) Öffentlicher Verkehr V 6.7-2 land (H 7) Radverkehr V 9.2 (2. Teil)
 
-Nationalstrasse V 2.2-1 Neubau Umfahrung von Walterswil und Sihlbrugg (mit 2-streifigem Tunnel) mit Halbanschluss Walterswil West und Vollanschluss Walterswil Ost/Sihlbrugg. (F 12–E15) Nationalstrasse V 2.3-1 Neubau Autobahn-Halbanschluss Steinhausen Süd (J 8) Kantonsstrasse V 3.3-2 Neubau Verbindung Autobahn-Halbanschluss Steinhausen Süd nach Baar oder Zug (J 8–J 10/K 9) Kantonsstrasse V 3.3-3 Neubau Umfahrung Unterägeri (O 15–O 16) Kantonsstrasse V 3.3-5 Neubau Ostumfahrung Rotkreuz (N 4–O 5) Kantonsstrasse V 3.3-6 Verbindung Autobahnanschluss Rotkreuz an die Holzhäusernstrasse/Bösch mit Bügel zur Industriestrasse (2. Teil Verbindung Holzhäusernstrasse/Bösch) (N 4) Öffentlicher Verkehr V 4.7-1 Neubau Gleis 8 beim Bahnhof Zug (K 10) Öffentlicher Verkehr V 4.7-4 Neubau einer landschaftsverträglichen, direkten Verbindung zwischen Cham und Immensee (Spange Rotkreuz) (M 5–O 5) Öffentlicher Verkehr V 4.7-5 Ausbau SBB-Trassee zwischen Baar und Zug auf vier Spuren, Teil 2 (H 11–K 10) Öffentlicher Verkehr V 4.8-4 Doppelspurinsel Oberwil (N 10–P 9) Öffentlicher Verkehr V 4.8-5 Ausbau SBB-Trassee zwischen Zug und Chollermüli auf drei Spuren (K 8–K 10) Öffentlicher Verkehr V 5.2-15 Neubau Haltestelle Sennweid (G 11) Öffentlicher Verkehr V 5.2-17 Abstellanlage Zug Bahnhof / Unterfeld (Baar) (Teil 2)
+**Verbindung Autobahnanschluss Rotkreuz an die Holzhäu-**
+
+**Neubau Zimmerberg-Basistunnel zwischen Litti (Baar) und**
+
+**Ausbau SBB-Trassee zwischen Baar und Zug auf vier**
+
+**Abstellanlage Zug Bahnhof / Unterfeld (Baar) (Teil 1)**
+
+**ÖV-Feinverteilertrassee Steinhausen Bahnhof–EKZ Zuger-**
+
+**Fertigstellung des festgesetzten Radstreckennetzes**
+
+Priorität 3: Baubeginn nach 2035
+
+**Vorhaben**
+
+Art Nr.
+
+**Neubau Umfahrung von Walterswil und Sihlbrugg (mit**
+
+Nationalstrasse V 2.2-1 2-streifigem Tunnel) mit Halbanschluss Walterswil West und Vollanschluss Walterswil Ost/Sihlbrugg. (F 12–E15) Art Nr. Vorhaben Nationalstrasse V 2.3-1 Neubau Autobahn-Halbanschluss Steinhausen Süd (J 8) Kantonsstrasse V 3.3-2 Neubau Verbindung Autobahn-Halbanschluss Steinhausen Süd nach Baar oder Zug (J 8–J 10/K 9) Kantonsstrasse V 3.3-3 Neubau Umfahrung Unterägeri (O 15–O 16) Kantonsstrasse V 3.3-5 Neubau Ostumfahrung Rotkreuz (N 4–O 5) Kantonsstrasse V 3.3-6 Verbindung Autobahnanschluss Rotkreuz an die Holzhäusernstrasse/Bösch mit Bügel zur Industriestrasse (2. Teil Verbindung Holzhäusernstrasse/Bösch) (N 4) Öffentlicher Verkehr V 4.7-1 Neubau Gleis 8 beim Bahnhof Zug (K 10) Öffentlicher Verkehr V 4.7-4 Neubau einer landschaftsverträglichen, direkten Verbindung zwischen Cham und Immensee (Spange Rotkreuz) (M 5–O 5) Öffentlicher Verkehr V 4.7-5 Ausbau SBB-Trassee zwischen Baar und Zug auf vier Spuren, Teil 2 (H 11–K 10) Öffentlicher Verkehr V 4.8-4 Doppelspurinsel Oberwil (N 10–P 9) Öffentlicher Verkehr V 4.8-5 Ausbau SBB-Trassee zwischen Zug und Chollermüli auf
+
+drei Spuren (K 8–K 10)
+
+Öffentlicher Verkehr V 5.2-15 Neubau Haltestelle Sennweid (G 11) Öffentlicher Verkehr V 5.2-17 Abstellanlage Zug Bahnhof / Unterfeld (Baar) (Teil 2)
 
 (K 10, J 10) (Teil 2)
 
-Öffentlicher Verkehr V 5.3-1 Durchgehender Bau des Gleises 1 beim Bahnhof Zug (K 10) Öffentlicher Verkehr V 5.3-8 Doppelspurausbau Chollermüli–Kantonsgrenze Zürich (J 8–F 7) Öffentlicher Verkehr V 5.3-10 Doppelspurinsel Raum Casino–Fridbach (L 10–M 10) Öffentlicher Verkehr V 5.3-11 Verlängerung der Haltestelle Schutzengel für Züge mit grosser Kapazität (K 9) Öffentlicher Verkehr V 7.4-2 Güterumladestation Bahnhofareal Rotkreuz (Risch) (O 4) Radverkehr V 9.2 Fertigstellung des festgesetzten Radstreckennetzes (3. Teil)
+Öffentlicher Verkehr V 5.3-1 Durchgehender Bau des Gleises 1 beim Bahnhof Zug (K 10) Öffentlicher Verkehr V 5.3-8 Doppelspurausbau Chollermüli–Kantonsgrenze Zürich (J 8–F 7) Öffentlicher Verkehr V 5.3-10 Doppelspurinsel Raum Casino–Fridbach (L 10–M 10) Öffentlicher Verkehr V 5.3-11 Verlängerung der Haltestelle Schutzengel für Züge mit
+
+grosser Kapazität (K 9)
+
+Öffentlicher Verkehr V 7.4-2 Güterumladestation Bahnhofareal Rotkreuz (Risch) (O 4) Radverkehr V 9.2 Fertigstellung des festgesetzten Radstreckennetzes (3. Teil)
 
 ### E Ver- und Entsorgung, weitere Raumnutzungen
 
@@ -1871,11 +1909,11 @@ E 10.1 Störfallrisiko
 
 E 10.1.1 Die Gemeinden prüfen bei der nächsten Revision der Nutzungsplanung die Begrenzung der Einwirkungen von Störfällen. Dazu können sie geeignete raumwirksame Vorschriften erlassen.
 
+**E 11: KRB vom 29.10.2020; RPA 19/1: Hatwil als Festsetzung; diverse Änderungen BGE 13.1.22: Hatwil wieder als Zwischenergebnis drin**
+
 E 10.1.2 Die Karte mit den Konsultationsgebieten Raumplanung und Störfallvorsorge dient als Grundlage für die Beurteilung von Störfallrisiken bei Planungen. Gemeinden, Kanton und Bund berücksichtigen die Karte. Die zuständige Planungsbehörde beurteilt das Risiko. In ihren Interessenabwägungen zieht sie die Stellungnahme der Vollzugsbehörde als eine Grundlage mit ein.
 
 E 10.1.3 Im Rahmen von Baugesuchen innerhalb der Konsultationsgebiete trifft die Baubewilligungsbehörde die notwendigen Abklärungen. Sie kann die kantonale Fachstelle einbeziehen.
-
-**E 11: KRB vom 29.10.2020; RPA 19/1: Hatwil als Festsetzung; diverse Änderungen**
 
 E 11 Abbau Steine und Erden
 
@@ -1917,27 +1955,17 @@ Nr. Gemeinde Standort
 
 1 Menzingen Bethlehem 2 Menzingen, Neuheim Hinterburg–Müli–Kuenz 3 Cham Oberwil–Hof–Boden 4 Cham Äbnetwald 5 Neuheim, Baar Kreuzhügel 6 Neuheim Tal–Winkel–Hof–Hintertann–Winzenbach 7 Neuheim Hintertann Ost 8 Neuheim Hintertann West 9 Menzingen Bethlehem Süd
 
-10 Cham Hof Süd Nr. Gemeinde Standort 11 Cham Äbnetwald West (Abbau max. zu bestehendem E 5–F 6 Feldweg, westlich des Feldweges nur Sichtschutzmassnahmen ohne Bodenveränderungen) 12 Cham Hatwil/Hubletzen Der Abbau Hatwil erfolgt erst nach Abbauende am Standort Äbnetwald. Die nachfolgenden Planungen berücksichtigen die folgenden Auflagen:
+10 Cham Hof Süd Nr. Gemeinde Standort Planquadrat 11 Cham Äbnetwald West (Abbau max. zu bestehendem E 5–F 6 Feldweg, westlich des Feldweges nur Sichtschutzmassnahmen ohne Bodenveränderungen)
 
-**Planquadrat**
+E 11.2.2 Für die langfristige Kiesversorgung wird in den kantonalen Richtplan folgender Standort als Zwischenergebnis aufgenommen:
 
-**E 4–E 6**
+**Richtplankarte E 11**
 
-- a. Wiederherstellung geomorphologischer Formen;
+Nr. Ort Standort Planquadrat
 
-- b. Funktionsersatz für gerodeten Wald als Überbrückung bis zur Wiederbewaldung;
+1 Cham Hatwil/Hubletzen E 4–F 4
 
-- c. Etappierung und Erschliessung bezüglich Natur- und Landschaft optimieren, offene Fläche minimieren;
-
-- d. Kompensationsmassnahmen an Fliessgewässern vorsehen, Vernetzung zwischen Lorze und Haselbach stärken. Die typischen Feldgehölze mit grossen Bäumen und Baumreihen sowie die Obstgärten sind zu erhalten und zu fördern;
-
-- e. Der Erschliessungskorridor zwischen Abbau-/Auffüllgebiet und Werkareal Boden ist entlang des westlichen Grubenrandes Äbnetwald und in Tieflage zu führen;
-
-- f. Die bestehende Grundwasserfassung Nr. 1352 ist zu erhalten. Massnahmen zur Grundwasseranreicherung sind vorzusehen;
-
-- g. Aufrechterhalten der bestehenden Wanderwegbeziehungen während des Betriebs;
-
-- h. Aufrechterhalten der regionalen Bewegungsachse für Wildtiere.
+Der Kanton nimmt in Zusammenarbeit mit der Standortgemeinde und den betroffenen Grundeigentümern die definitive Abgrenzung vor. Diese legt er dem Kantonsrat im Zeitraum zwischen 2015 und 2020 zur Festsetzung im Richtplan vor. Der dazugehörige raumplanerische Bericht weist den Bedarf nach und erläutert die wichtigsten raumplanerischen Fragen (Grundwasser, Landwirtschaft, Einbettung in die Landschaft, Einsehbarkeit, Erschliessung und notwendige technische Infrastrukturen). Der Kanton orientiert den Kanton Zürich sowie den Bund über diese Schritte.
 
 E 12 Altlasten
 
@@ -1951,7 +1979,9 @@ E 13 Militärische Infrastrukturanlagen
 
 E 13.1 Planungsgrundsätze
 
-E 13.1.1 Kanton und Gemeinden prüfen bei historisch wertvollen militärischen Anlagen, die nicht mehr militärisch genutzt werden, deren Eintrag in das Inventar der schützenswerten Denkmäler bzw. die Unterschutzstellung.
+E 13.1.1 Kanton und Gemeinden prüfen bei historisch wertvollen militärischen Anlagen, die nicht mehr militärisch genutzt werden, deren Eintrag in das Inventar der schützenswerten Denkmäler bzw.
+
+die Unterschutzstellung.
 
 E 13.1.2 Der Bund informiert den Kanton und die Standortgemeinden frühzeitig über die Aufhebung oder Umnutzung von militärischen Bauten und Anlagen.
 
@@ -1961,13 +1991,9 @@ E 13.2.1 Folgende Bauten und Anlagen werden in den Richtplan aufgenommen:
 
 **Richtplankarte E 13**
 
-**Stand Planquadrat**
+Nr. Gemeinde Anlage und Standort Stand Planquadrat
 
-Nr. Gemeinde Anlage und Standort
-
-**Festsetzung F 3**
-
-1 Cham Übersetzstelle Frauental E 14 Kommunikation
+1 Cham Übersetzstelle Frauental Festsetzung F 3 E 14 Kommunikation
 
 E 14.1 Planungsgrundsatz
 
@@ -2118,7 +2144,3 @@ P 3.1.2 Der Kanton setzt sich beim Bund zur Verbesserung des Agglomerationsverke
 Agglomeration;
 
 - e. allfällig weitere Projekte.
-
-## Weitere Fussnoten
-
-- [2] Jahren eine Anpassung des Richtplans zur Festsetzung der Vorhaben V 3.3 Nr. 5 und V 3.3 Nr. 6 zu unter - breiten. Der Kanton bindet den Bund und die betroffenen Gemeinden in den Prozess ein.
