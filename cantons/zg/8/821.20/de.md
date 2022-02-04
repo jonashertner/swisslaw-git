@@ -4,13 +4,13 @@ number: "821.20"
 title: Verordnung über Massnahmen zur Bekämpfung der COVID-19-Epidemie
 short: COVID-19-Verordnung
 language: de
-version: 2021-12-27
-valid_until: 2022-02-04
-version_adopted: 2021-12-21
+version: 2022-02-05
+valid_until: 2022-02-20
+version_adopted: 2022-02-01
 adopted: 2021-06-01
 in_force: 2021-06-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/821.20"
-pdf: "https://bgs.zg.ch/api/de/versions/2301/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2309/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2301/pdf_file"
 
 (COVID-19-Verordnung)
 
-Vom 1. Juni 2021 (Stand 27. Dezember 2021)
+Vom 1. Juni 2021 (Stand 5. Februar 2022)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -75,13 +75,15 @@ beschliesst:
 - b) für den Turn- und Sportunterricht;
 - c) für den Unterricht mit Blasinstrumenten.
 
+<sup>3</sup> Die Gesundheitsdirektion kann Vorschriften betreffend die Durchführung von Tests erlassen. Sie kann die Teilnahme für die Lehrer- und die Schülerschaft sowie für weiteres während der Unterrichtszeiten tätiges Personal für obligatorisch erklären.
+
 #### § 5
 
 **Massnahmen im Gesundheitsbereich**
 
-<sup>1</sup> Spitäler sowie Alters- und Pflegeheime müssen den Zugang zu Innenbereichen für Besucherinnen und Besucher ab 16 Jahren auf Personen mit einem Zertifikat oder einem negativen Testnachweis beschränken.
+<sup>1</sup> …
 
-<sup>2</sup> Das Personal von Spitälern, Alters- und Pflegeheimen muss über ein Zertifikat verfügen oder sich regelmässig testen lassen. Die Institutionen dürfen zur Kontrolle die Gültigkeitsdauer der Zertifikate sowie die Testdaten erfassen. Tests haben mindestens zweimal wöchentlich zu erfolgen; bei Arbeitseinsätzen an einem oder zwei Tagen pro Woche beziehungsweise an drei Tagen pro Woche, sofern diese aufeinanderfolgen, genügt eine wöchentliche Testung. Der Zeitpunkt der Tests ist so zu wählen, dass sich ihre Gültigkeitsdauer über einen möglichst grossen Teil der Arbeitszeit erstreckt.
+<sup>2</sup> …
 
 <sup>3</sup> Besucherinnen und Besucher sowie das Personal in Spitälern, Alters- und Pflegeheimen müssen in allen Innenbereichen dieser Einrichtungen eine Gesichtsmaske tragen. Kinder vor ihrem 7. Geburtstag sind von der Maskentragepflicht ausgenommen. Für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können sowie in Restaurationsbetrieben gelten die Ausnahmen des Bundesrechts analog.
 
