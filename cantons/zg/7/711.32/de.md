@@ -3,13 +3,13 @@ canton: ZG
 number: "711.32"
 title: "Kantonaler Richtplan, Richtplankarte"
 language: de
-version: 2020-11-07
-valid_until: 2022-02-04
-version_adopted: 2020-10-29
+version: 2022-02-05
+valid_until: 2023-02-02
+version_adopted: 2022-01-27
 adopted: 1988-09-01
 in_force: 1988-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/711.32"
-pdf: "https://bgs.zg.ch/api/de/versions/2261/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2372/pdf_file"
 text: pdf
 ---
 
@@ -21,11 +21,9 @@ text: pdf
 
 ## Richtplankarte
 
-### Kantonsratsbeschlüsse bis: 29. Oktober 2020 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 29. Oktober 2020
+### Kantonsratsbeschlüsse bis: 27. Januar 2022 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 27. Januar 2022
 
 **C C**
-
-(Ausnahme: das Genehmigungsverfahren für das Vorhaben E 11.2.1 Nr. 12 ist sistiert)
 
 **D**
 
@@ -133,7 +131,7 @@ Nachführungsstand der Landeskarte 1:25'000:
 
 **1110 1111 1112**
 
-Stand des Karteninhalts: 1110:2013 1111:2013 1112:2013 1130:2013 1131:2013 1132:2013 1150: 2013 1151: 2013 1152:2013
+Stand des Karteninhalts: 1110: 2019 1111: 2019 1112: 2021 1130: 2013 1131: 2013 1132:2013 1150: 2013 1151: 2013 1152:2013
 
 **1130 1131 1132**
 
@@ -153,4 +151,4 @@ Stand des Karteninhalts: 1110:2013 1111:2013 1112:2013 1130:2013 1131:2013 1132:
 
 **680000 2 685 000 2 690 000**
 
-1000 2000 © Amt für Raum und Verkehr | Druckdatum 23. August 2021| wa
+1000 2000 © Amt für Raum und Verkehr | Druckdatum 07.09.2022| wa
