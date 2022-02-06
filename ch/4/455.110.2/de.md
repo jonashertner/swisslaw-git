@@ -4,11 +4,11 @@ title: Verordnung des BLV vom 8. November 2021 über den Tierschutz beim Schlach
 short: VTSchS
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/694"
 language: de
-version: 2022-01-01
+version: 2022-02-07
 adopted: 2021-11-08
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-694-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220207/de/xml/fedlex-data-admin-ch-eli-cc-2021-694-20220207-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220207/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220101/de"
 
 (VTSchS)
 
-vom 8. November 2021 (Stand am 1. Januar 2022)
+vom 8. November 2021 (Stand am 7. Februar 2022)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -650,7 +650,7 @@ Anhang 4
 - 2\.3 Die Elektroden sind im Bereich der Ohrbasis, nach Möglichkeit von hinten, so anzusetzen, dass eine erfolgreiche Durchströmung des Gehirns gewährleistet ist (Kopfdurchströmung).
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220101/de/xml/image/image33.png)</td><td>[tab]</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220207/de/xml/image/image33.png)</td><td>[tab]</td></tr>
 </table>
 
 Zangenansatz Kopf am Beispiel Schwein
@@ -929,11 +929,13 @@ Anhang 6
   - c. keine Reaktion der Augen auf Antippen des Panzers; und
   - d. keine Reaktion auf Berührung im Bereich der Kauwerkzeuge.
 
-Anhang 7
+Anhang 7[^t-1]
 
 (Art. 4, 6 Abs. 2 und 9)
 
 ## Kohlendioxidbetäubung von Schweinen
+
+[^t-1]: Die Berichtigung vom 7. Febr. 2022 betrifft nur den französischen Text ([AS 2022 69](https://fedlex.data.admin.ch/eli/oc/2022/69))
 
 ### 1 Anforderungen an Anlagen und Geräte
 
@@ -1017,7 +1019,7 @@ Der Betäubungserfolg ist anhand folgender Leitsymptome zu überprüfen:
 - 6\.1 Die CO<sub>2</sub>-Konzentration, die Verweildauer in der CO<sub>2</sub>-Atmosphäre und das Zeitintervall vom Auftauchen aus der CO<sub>2</sub>-Atmosphäre bis zum Beginn der Entblutung müssen wie folgt aufeinander abgestimmt sein:
 
 <table>
-<tr><td>CO<sub>2</sub>-Konzentration in Volumenprozent</td><td>Verweildauer in Sekunden</td><td>Zeitintervall in Sekunden bis zum Beginn der Entblutung</td></tr>
+<tr><th>CO<sub>2</sub>-Konzentration in Volumenprozent</th><th>Verweildauer in Sekunden</th><th>Zeitintervall in Sekunden bis zum Beginn der Entblutung</th></tr>
 <tr><td>mind. 84 Vol.% CO<sub>2</sub></td><td>100 Sek.</td><td>max. 55 Sek. nach dem Auftauchen</td></tr>
 <tr><td>mind. 84 Vol.% CO<sub>2</sub></td><td>120 Sek.</td><td>max. 60 Sek. nach dem Auftauchen</td></tr>
 <tr><td>mind. 84 Vol.% CO<sub>2</sub></td><td>150 Sek.</td><td>max. 70 Sek. nach dem Auftauchen</td></tr>

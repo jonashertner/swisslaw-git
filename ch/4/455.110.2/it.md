@@ -4,11 +4,11 @@ title: "Ordinanza dell’USAV dell'8 novembre 2021 concernente la protezione deg
 short: OPAnMac
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/694"
 language: it
-version: 2022-01-01
+version: 2022-02-07
 adopted: 2021-11-08
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-694-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220207/it/xml/fedlex-data-admin-ch-eli-cc-2021-694-20220207-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220207/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220101/it"
 
 (OPAnMac)
 
-dell’8 novembre 2021 (Stato 1° gennaio 2022)
+dell’8 novembre 2021 (Stato 7 febbraio 2022)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -650,7 +650,7 @@ Allegato 4
 - 2\.3 Gli elettrodi devono essere applicati nella zona situata alla base delle orecchie, possibilmente da dietro, in modo che la corrente possa attraversare efficacemente il cervello (applicazione di corrente alla testa).
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220101/it/xml/image/image33.png)</td><td>[tab]</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220207/it/xml/image/image33.png)</td><td>[tab]</td></tr>
 </table>
 
 Applicazione della pinza alla testa, esempio: suino
@@ -925,11 +925,13 @@ Allegato 6
   - c. nessuna reazione degli occhi se si tocca il carapace con la punta delle dita; e
   - d. nessuna reazione al tatto nella zona degli organi masticatori.
 
-Allegato 7
+Allegato 7[^t-1]
 
 (art. 4, 6 cpv. 2 e art. 9)
 
 ## Stordimento dei suini per esposizione al biossido di carbonio
+
+[^t-1]: La correzione del 7 feb. 2022 concerne soltanto il testo francese ([RU 2022 69](https://fedlex.data.admin.ch/eli/oc/2022/69))
 
 ### 1 Requisiti degli impianti e degli apparecchi
 

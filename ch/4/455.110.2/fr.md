@@ -4,11 +4,11 @@ title: Ordonnance de l’OSAV du 8 novembre 2021 sur la protection des animaux l
 short: OPAnAb
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/694"
 language: fr
-version: 2022-01-01
+version: 2022-02-07
 adopted: 2021-11-08
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-694-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/694/20220207/fr/xml/fedlex-data-admin-ch-eli-cc-2021-694-20220207-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/694/20220101/fr"
 
 (OPAnAb)
 
-du 8 novembre 2021 (Etat le 1<sup>er</sup> janvier 2022)
+du 8 novembre 2021 (Etat le 7 février 2022)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -925,11 +925,13 @@ Annexe 6
   - c. pas de réaction oculaire lors du tapotement de la carapace, et
   - d. pas de réaction au toucher des pièces masticatoires.
 
-Annexe 7
+Annexe 7*[^t-1]*
 
 (art. 4, 6, al. 2, et 9)
 
 ## Étourdissement des porcs au dioxyde de carbone
+
+[^t-1]: Mise à jour par l’erratum du 7 fév. 2022 ([RO 2022 69](https://fedlex.data.admin.ch/eli/oc/2022/69)).
 
 ### 1 Prescriptions concernant les installations et les appareils
 
@@ -964,7 +966,7 @@ Annexe 7
   - b. celui où la tête de l’animal sort de l’atmosphère ayant une concentration de CO<sub>2</sub> de 84 % du volume au moins.
 
 - 2\.2 L’installation d’étourdissement doit disposer d’un système permettant de relever la durée d’exposition d’un animal aux concentrations minimales de CO<sub>2</sub> prescrites.
-- 2\.3 La concentration de CO<sub>2</sub> et la durée d’exposition des animaux au CO<sub>2</sub> à 84 % du volume au moins doivent être enregistrées en permanence; en cas d’écarts par rapport aux valeurs fixées, les mesures correctives doivent être documentées.
+- 2\.3 La concentration de CO<sub>2</sub>, la durée d’exposition des animaux au CO<sub>2</sub> à 84 % du volume au moins et la température du gaz doivent être enregistrées en permanence; en cas d’écarts par rapport aux valeurs fixées, les mesures correctives doivent être documentées.
 - 2\.4 Les instruments de mesure visés aux ch. 2.1 à 2.3 doivent toujours être visibles et donner un signal d’alerte optique et sonore lorsque la durée minimale d’exposition ou la concentration minimale en CO2 est inférieure à la valeur fixée ou lorsque les prescriptions de température ne sont pas respectées. Le signal d’alerte indiquant que la concentration minimale n’est pas atteinte doit être activé lorsque la concentration minimale de gaz est inférieure de 2 % ou plus du volume durant plus de 60 sec. ou lorsque les prescriptions de température ne sont pas respectées.
 - 2\.5 Le bon fonctionnement et la précision des instruments de mesure visés aux ch. 2.1 à 2.3 doivent être vérifiés au moins une fois par semestre et les résultats doivent être documentés.
 
