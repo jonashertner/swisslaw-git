@@ -3,20 +3,20 @@ canton: OW
 number: "810.512"
 title: Ausführungsbestimmungen über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 language: de
-version: 2021-12-10
-valid_until: 2022-02-06
-version_adopted: 2021-12-07
+version: 2022-02-07
+valid_until: 2022-02-17
+version_adopted: 2022-02-04
 adopted: 2021-11-23
 in_force: 2021-11-29
 url: "http://gdb.ow.ch/app/de/texts_of_law/810.512"
-pdf: "http://gdb.ow.ch/api/de/versions/1570/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1571/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 
-vom 23.11.2021 (Stand 10.12.2021)
+vom 23.11.2021 (Stand 07.02.2022)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -72,15 +72,7 @@ beschliesst:
 
 #### Art. 4
 
-**b. Maskenpflicht**
-
-<sup>1</sup> Lernende ab der 5. Klasse der Primarschule müssen in Innenräumen von Bildungseinrichtungen eine Gesichtsmaske tragen. Auf die Maskenpflicht kann mit Zustimmung des Gesundheitsamts verzichtet werden, sofern mindestens 80 Prozent aller Lernenden und Lehrpersonen der entsprechenden Stufe am Schulstandort am repetitiven Testen teilnehmen.
-
-<sup>2</sup> Ausgenommen sind Situationen, in denen das Tragen einer Maske den Unterricht wesentlich erschwert. Dies gilt insbesondere für Aktivitäten in den Bereichen Sport und Kultur. Die Bildungseinrichtung hat andere Massnahmen zu ergreifen, welche das Risiko zur Übertragung von Covid-19 reduzieren. Insbesondere sind im Musik- und Instrumentalunterricht genügende Abstände einzuhalten. Im Sportunterricht sind Kontaktsportarten verboten.
-
-<sup>2a</sup> Sämtliche Erwachsenen sind verpflichtet in Innenräumen von Bildungseinrichtungen eine Gesichtsmaske zu tragen.
-
-<sup>3</sup> Von der Pflicht nach Absatz 1 und 2a ausgenommen sind Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können; für den Nachweis medizinischer Gründe gilt Art. 5 Abs. 1 Bst. b der Covid-19-Verordnung besondere Lage.
+**…**
 
 **Informationen zum Erlass**
 
@@ -90,6 +82,8 @@ Ursprüngliches Inkrafttreten: 29. November 2021
 
 geändert durch:
 
-\- Nachtrag vom 7. Dezember 2021, in Kraft seit 10. Dezember 2021 (OGS 2021, 51)
+\- Nachtrag vom 7. Dezember 2021, in Kraft seit 10. Dezember 2021 (OGS 2021, 51),
+
+\- Nachtrag vom 4. Februar 2022, in Kraft seit 7. Februar 2022 (OGS 2022, 3)
 
 OGS 2021, 40
