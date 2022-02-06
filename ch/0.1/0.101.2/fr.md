@@ -3,11 +3,11 @@ sr: "0.101.2"
 title: "Règlement de la Cour européenne des droits de l'homme du 4 novembre 1998"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: fr
-version: 2021-10-18
+version: 2022-02-07
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20211018/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20211018-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20211018/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20220207/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20220207-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20220207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,9 +18,9 @@ RO **2006** 3961[^t-1]
 
 Texte original
 
-du 4 novembre 1998 (Etat le 18 octobre 2021)
+du 4 novembre 1998 (Etat le 7 février 2022)
 
-[^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: www.echr.coe.int.
+[^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223), [275](https://fedlex.data.admin.ch/eli/oc/2022/275)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: www.echr.coe.int.
 
 La Cour européenne des droits de l’homme,
 
@@ -538,7 +538,8 @@ Les Parties contractantes sont représentées par des agents, qui peuvent se fai
 <sup>3.</sup> Le requérant doit être ainsi représenté à toute audience décidée par la chambre, sauf si le président de la chambre autorise exceptionnellement le requérant à présenter sa cause lui-même, sous réserve, au besoin, qu’il soit assisté par un conseil ou par un autre représentant agréé.
 
 - 4\. a) Le représentant agissant pour le compte du requérant en vertu des par. 2 et 3 du présent article doit être un conseil habilité à exercer dans l’une quelconque des Parties contractantes et résidant sur le territoire de l’une d’elles, ou une autre personne agréée par le président de la chambre.
-- b) Dans des circonstances exceptionnelles et à tout moment de la procédure, le président de la chambre peut, lorsqu’il considère que les circonstances ou la conduite du conseil ou l’autre personne désignés conformément à l’alinéa précédent le justifient, décider que ce conseil ou cette personne ne peut plus représenter ou assister le requérant et que celui-ci doit chercher un autre représentant.
+- b) Si le représentant d’une partie formule des observations abusives, frivoles, vexatoires, trompeuses ou prolixes, le président de la chambre peut refuser d’admettre tout ou partie des observations en cause ou rendre toute ordonnance qu’il juge appropriée, sans préjudice de l’art. 35 § 3 de la Convention.
+- c) Dans des circonstances exceptionnelles et à tout moment de la procédurerelative à une requête donnée, le président de la chambre peut, lorsqu’il considère que les circonstances ou la conduite du conseil ou l’autre personne désignés conformément à l’al. a) ci-dessus le justifient, décider que ce conseil ou cette personne ne peut plus représenter ou assister le requérant dans le cadre de cette procédure et que l’intéressé doit chercher un autre représentant. Le représentant en question doit se voir offrir la possibilité de s’exprimer préalablement à l’adoption de pareille ordonnance.
 - 5\. a) Le conseil ou l’autre représentant agréé du requérant, ou ce dernier s’il demande l’autorisation d’assumer lui-même la défense de ses intérêts, doivent, même s’ils obtiennent l’autorisation visée à l’al. b) ci-dessous, avoir une connaissance suffisante de l’une des langues officielles de la Cour.
 - b) S’ils n’ont pas une aisance suffisante pour s’exprimer dans l’une des langues officielles de la Cour, le président de la chambre peut, en vertu de l’art. 34 par. 3 du présent règlement, leur accorder l’autorisation d’employer l’une des langues officielles des Parties contractantes.
 
@@ -570,7 +571,7 @@ Les questions de procédure nécessitant une décision de la chambre sont trait�
 
 <sup>1.</sup> La chambre ou, le cas échéant, le président de la section ou un juge de permanence désigné conformément au par. 4 du présent article peuvent, soit à la demande d’une partie ou de toute autre personne intéressée, soit d’office, indiquer aux parties toute mesure provisoire qu’ils estiment devoir être adoptée dans l’intérêt des parties ou du bon déroulement de la procédure.
 
-<sup>2.</sup> LLe cas échéant, le Comité des Ministres est immédiatement informé des mesures adoptées dans une affaire.
+<sup>2.</sup> Le cas échéant, le Comité des Ministres est immédiatement informé des mesures adoptées dans une affaire.
 
 <sup>3.</sup> La chambre ou, le cas échéant, le président de la section ou un juge de permanence désigné conformément au par. 4 du présent article peuvent inviter les parties à lui fournir des informations sur toute question relative à la mise en œuvre des mesures provisoires indiquées.
 
@@ -654,9 +655,13 @@ Lorsqu’une partie ne se conforme pas à une ordonnance de la Cour relative à 
 
 #### Art. 44d
 
-**Observations hors de propos formulées par une partie**
+**Interdiction de représentation ou d’assistance de parties devant la Cour**
 
-Si le représentant d’une partie formule des observations abusives, frivoles, vexatoires, trompeuses ou prolixes, le président de la chambre peut l’exclure de la procédure, refuser d’admettre tout ou partie des observations en cause ou rendre toute ordonnance qu’il juge appropriée, sans préjudice de l’art. 35 par. 3 de la Convention.
+<sup>1.</sup> Le président de la Cour peut, dans des circonstances exceptionnelles, lorsqu’il considère que la conduite du conseil ou de la personne désignés conformément à l’art. 36 § 4 a) du présent règlement le justifie, décider que ce conseil ou cette personne ne peut plus représenter ou assister de parties devant la Cour. La décision d’exclusion peut être prise pour une durée déterminée ou indéterminée.
+
+<sup>2.</sup> La décision d’exclusion doit être motivée et prise sur proposition d’une chambre et après que la personne visée et tout gouvernement et tout barreau concernés se sont vu offrir la possibilité de soumettre des observations. La personne visée et tout gouvernement et tout barreau concernés doivent être informés de la décision.
+
+<sup>3.</sup> Sur demande motivée de la personne exclue en vertu du par. 1, le président de la Cour peut, après avoir consulté le cas échéant la chambre mentionnée au par. 2, ainsi que tout gouvernement et tout barreau concernés, rétablir les droits de représentation supprimés. La personne visée et tout gouvernement et tout barreau concernés doivent être informés de pareille décision.
 
 #### Art. 44e
 
@@ -1477,4 +1482,4 @@ L’application de toute disposition concernant le fonctionnement interne de la 
 
 Le présent règlement entre en vigueur le 1<sup>er</sup> novembre 1998.
 
-[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date. Les Am. aux art. 24, 93, 94 et 101 adoptés le 11 octobre 2021 sont entrés en vigueur le 18 octobre 2021.
+[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date. Les Am. aux art. 24, 93, 94 et 101 adoptés le 11 octobre 2021 sont entrés en vigueur le 18 octobre 2021. Les Am. aux articles 36 et 44*d* qui ont été adoptés le 7 février 2022 sont entrés en vigueur à la même date.
