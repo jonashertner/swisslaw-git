@@ -3,11 +3,11 @@ sr: "0.974.12"
 title: Übereinkommen von Tampere vom 18. Juni 1998 über die Bereitstellung von Telekommunikationsmitteln für Katastrophenschutz und Katastrophenhilfseinsätze
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/546"
 language: de
-version: 2016-08-18
+version: 2022-02-07
 adopted: 1998-06-18
 in_force: 2005-01-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/546/20160818/de/xml/fedlex-data-admin-ch-eli-cc-2011-546-20160818-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/546/20160818/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/546/20220207/de/xml/fedlex-data-admin-ch-eli-cc-2011-546-20220207-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/546/20220207/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/546/20160818/de"
 
 AS **2011** 3839
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Tampere (Finnland) am 18. Juni 1998
 
@@ -24,9 +24,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 24. April 2002
 
 Für die Schweiz in Kraft getreten am 8. Januar 2005
 
-(Stand am 18. August 2016)
-
-[^t-1]: Übersetzung des französischen Originaltextes.
+(Stand am 7. Februar 2022)
 
 Die Vertragsstaaten dieses Übereinkommens
 
@@ -386,7 +384,7 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die hierzu gehörig Bevollmächtigten dieses Übereinkommen unterzeichnet. Geschehen zu Tampere (Finnland), am 18 Juni 1998. (Es folgen die Unterschriften)
 
-Geltungsbereich am 18. August 2016**[^t-2]**
+Geltungsbereich am 7. Februar 2022[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -409,6 +407,7 @@ Geltungsbereich am 18. August 2016**[^t-2]**
 <tr><td>Irland\*</td><td>16. August</td><td>2007 B</td><td>15. September</td><td>2007</td></tr>
 <tr><td>Island</td><td>13. Mai</td><td>2011</td><td>12. Juni</td><td>2011</td></tr>
 <tr><td>Kanada</td><td>18. Mai</td><td>2001</td><td>8. Januar</td><td>2005</td></tr>
+<tr><td>Kap Verde</td><td>22. März</td><td>2018 B</td><td>21. April</td><td>2018</td></tr>
 <tr><td>Kenia</td><td>12. Februar</td><td>2003</td><td>8. Januar</td><td>2005</td></tr>
 <tr><td>Kolumbien\*</td><td>12. Juni</td><td>2008 B</td><td>12. Juli</td><td>2008</td></tr>
 <tr><td>Kuwait</td><td>13. Juni</td><td>2002</td><td>8. Januar</td><td>2005</td></tr>
@@ -444,7 +443,7 @@ Geltungsbereich am 18. August 2016**[^t-2]**
 <tr><td>Venezuela\*</td><td>13. Mai</td><td>2005</td><td>12. Juni</td><td>2005</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>18. Juni</td><td>2003 U</td><td>8. Januar</td><td>2005</td></tr>
 <tr><td>Zypern</td><td>14. Juli</td><td>2000</td><td>8. Januar</td><td>2005</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2011 3839](https://fedlex.data.admin.ch/eli/oc/2011/546), [2013 2451](https://fedlex.data.admin.ch/eli/oc/2013/514)und [2016 3013](https://fedlex.data.admin.ch/eli/oc/2016/511). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: Diese Veröffentlichung ergänzt die früheren in [AS 2011 3839](https://fedlex.data.admin.ch/eli/oc/2011/546); [2013 2451](https://fedlex.data.admin.ch/eli/oc/2013/514); [2016 3013](https://fedlex.data.admin.ch/eli/oc/2016/511); [2022 84](https://fedlex.data.admin.ch/eli/oc/2022/84). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty

@@ -3,20 +3,20 @@ sr: "0.974.12"
 title: "Convenzione di Tampere del 18 giugno 1998 sulla fornitura di risorse di telecomunicazione per l'attenuazione degli effetti delle catastrofi e le operazioni di soccorso in caso di catastrofe"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/546"
 language: it
-version: 2016-08-18
+version: 2022-02-07
 adopted: 1998-06-18
 in_force: 2005-01-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/546/20160818/it/xml/fedlex-data-admin-ch-eli-cc-2011-546-20160818-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/546/20160818/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/546/20220207/it/xml/fedlex-data-admin-ch-eli-cc-2011-546-20220207-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/546/20220207/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione di Tampere sulla fornitura di risorse di telecomunicazione per l’attenuazione degli effetti delle catastrofi e le operazioni di soccorso in caso di catastrofe
 
-RU **2011** 3839
+AS **2011** 3839
 
-Traduzione*[^t-1]*
+Traduzione
 
 Conclusa a Tampere (Finlandia) il 18 giugno 1998
 
@@ -24,9 +24,7 @@ Strumento di ratifica depositato dalla Svizzera il 24 aprile 2002
 
 Entrata in vigore per la Svizzera l’8 gennaio 2005
 
-(Stato 18 agosto 2016)
-
-[^t-1]: Dal testo originale francese.
+(Stato 7 febbraio 2022)
 
 Gli Stati parte della presente Convenzione,
 
@@ -386,7 +384,7 @@ L’originale della presente Convenzione, le cui versioni in inglese, arabo, cin
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tal scopo, hanno firmato la presente Convenzione. Fatto a Tampere (Finlandia) il 18 giugno 1998. (Seguono le firme)
 
-Campo d’applicazione il 18 agosto 2016**[^t-2]**
+Campo d’applicazione il 7 febbraio 2022[^t-1]
 
 <table>
 <tr><th>Stati parte</th><th>Ratifica Adesione (A) Firma senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -398,6 +396,7 @@ Campo d’applicazione il 18 agosto 2016**[^t-2]**
 <tr><td>Bulgaria</td><td>20 giugno</td><td>2000</td><td>8 gennaio</td><td>2005</td></tr>
 <tr><td>Burundi</td><td>23 gennaio</td><td>2013</td><td>22 febbraio</td><td>2013</td></tr>
 <tr><td>Canada</td><td>18 maggio</td><td>2001</td><td>8 gennaio</td><td>2005</td></tr>
+<tr><td>Capo Verde</td><td>22 marzo</td><td>2018 A</td><td>21 aprile</td><td>2018</td></tr>
 <tr><td>Ceca, Repubblica</td><td>17 giugno</td><td>2003</td><td>8 gennaio</td><td>2005</td></tr>
 <tr><td>Cipro</td><td>14 luglio</td><td>2000</td><td>8 gennaio</td><td>2005</td></tr>
 <tr><td>Colombia\*</td><td>12 giugno</td><td>2008 A</td><td>12 luglio</td><td>2008</td></tr>
@@ -444,7 +443,7 @@ Campo d’applicazione il 18 agosto 2016**[^t-2]**
 <tr><td>Ungheria</td><td>7 aprile</td><td>2004</td><td>8 gennaio</td><td>2005</td></tr>
 <tr><td>Uruguay</td><td>19 aprile</td><td>2012</td><td>19 maggio</td><td>2012</td></tr>
 <tr><td>Venezuela\*</td><td>13 maggio</td><td>2005</td><td>12 giugno</td><td>2005</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2011 3839](https://fedlex.data.admin.ch/eli/oc/2011/546), [2013 2451](https://fedlex.data.admin.ch/eli/oc/2013/514)e [2016 3013](https://fedlex.data.admin.ch/eli/oc/2016/511). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 2011 3839](https://fedlex.data.admin.ch/eli/oc/2011/546); [2013 2451](https://fedlex.data.admin.ch/eli/oc/2013/514); [2016 3013](https://fedlex.data.admin.ch/eli/oc/2016/511)e [2022 84](https://fedlex.data.admin.ch/eli/oc/2022/84). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

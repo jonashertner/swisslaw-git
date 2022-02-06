@@ -3,18 +3,18 @@ sr: "0.974.12"
 title: "Convention de Tampere du 18 juin 1998 sur la mise à disposition de ressources de télécommunication pour l'atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/546"
 language: fr
-version: 2016-08-18
+version: 2022-02-07
 adopted: 1998-06-18
 in_force: 2005-01-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/546/20160818/fr/xml/fedlex-data-admin-ch-eli-cc-2011-546-20160818-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/546/20160818/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/546/20220207/fr/xml/fedlex-data-admin-ch-eli-cc-2011-546-20220207-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/546/20220207/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention de Tampere sur la mise à disposition de ressources de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe
 
-RO **2011** 3839
+AS **2011** 3839
 
 Texte original
 
@@ -24,9 +24,9 @@ Instrument de ratification déposé par la Suisse le 24 avril 2002
 
 Entrée en vigueur pour la Suisse le 8 janvier 2005
 
-(Etat le 18 août 2016)
+(État le 7 février 2022)
 
-Les Etats Parties à la présente Convention,
+Les États Parties à la présente Convention,
 
 reconnaissant que les catastrophes sont d’une gravité croissante par leur ampleur, leur complexité, leur fréquence et leur impact et ont des conséquences particulièrement graves dans les pays en développement,
 
@@ -54,7 +54,7 @@ notant en outre la résolution 44/236 de l’Assemblée générale des Nations U
 
 notant en outre le rôle prépondérant joué par les ressources de communication dans la Stratégie de Yokohama pour un monde plus sûr et le Plan d’action adoptés par la Conférence mondiale sur la prévention des catastrophes naturelles (Yokohama, 1994),
 
-notant en outre la résolution 7 de la Conférence mondiale de développement des télécommunications (Buenos Aires, 1994), entérinée par la résolution 36 de la Conférence de plénipotentiaires de l’Union internationale des télécommunications (Kyoto, 1994), par laquelle la Conférence priait instamment les gouvernements de prendre toutes les mesures envisageables dans la pratique pour faciliter la mise à disposition rapide et l’utilisation efficace d’équipements de télécommunication en vue de l’atténuation des effets des catastrophes et des opérations de secours en cas de catastrophe, en réduisant et, lorsque cela est possible, en supprimant les obstacles réglementaires et en renforçant la coopération transfrontière entre les Etats,
+notant en outre la résolution 7 de la Conférence mondiale de développement des télécommunications (Buenos Aires, 1994), entérinée par la résolution 36 de la Conférence de plénipotentiaires de l’Union internationale des télécommunications (Kyoto, 1994), par laquelle la Conférence priait instamment les gouvernements de prendre toutes les mesures envisageables dans la pratique pour faciliter la mise à disposition rapide et l’utilisation efficace d’équipements de télécommunication en vue de l’atténuation des effets des catastrophes et des opérations de secours en cas de catastrophe, en réduisant et, lorsque cela est possible, en supprimant les obstacles réglementaires et en renforçant la coopération transfrontière entre les États,
 
 notant en outre la résolution 644 de la Conférence mondiale des radiocommunications (Genève, 1997) par laquelle la Conférence priait instamment les gouvernements d’apporter leur concours plein et entier à l’adoption de la présente Convention et à sa mise en œuvre au niveau national,
 
@@ -64,7 +64,7 @@ notant en outre la résolution 51/94 de l’Assemblée générale des Nations un
 
 se référant aux conclusions du Groupe de travail sur les télécommunications d’urgence en ce qui concerne le rôle essentiel joué par les télécommunications dans l’atténuation des effets des catastrophes et les opérations de secours,
 
-avec l’appui des travaux de nombreux Etats, organismes des Nations Unies, organisations gouvernementales, intergouvernementales ou non gouvernementales, agences d’aide humanitaire, fournisseurs d’équipement et de services de télécommunication, représentants de la presse, universités et organisations œuvrant dans le domaine des communications ou des secours en cas de catastrophe, afin d’améliorer et de faciliter les communications liées aux opérations de secours en cas de catastrophe,
+avec l’appui des travaux de nombreux États, organismes des Nations Unies, organisations gouvernementales, intergouvernementales ou non gouvernementales, agences d’aide humanitaire, fournisseurs d’équipement et de services de télécommunication, représentants de la presse, universités et organisations œuvrant dans le domaine des communications ou des secours en cas de catastrophe, afin d’améliorer et de faciliter les communications liées aux opérations de secours en cas de catastrophe,
 
 désireux de faire en sorte de mettre rapidement à disposition des ressources de télécommunication fiables pour atténuer les effets des catastrophes et permettre le déroulement des opérations de secours, et
 
@@ -78,17 +78,17 @@ décident de ce qui suit:
 
 Sauf indication contraire suivant le contexte dans lequel ils sont utilisés, les termes ci-dessous ont la signification suivante aux fins de la présente Convention:
 
-- 1\. Un *«Etat partie»* est un Etat qui a accepté d’être lié par la présente Convention.
-- 2\. On entend par *«Etat partie prêtant assistance»* un Etat partie à la présente Convention prêtant à ce titre une assistance en matière de télécommunication.
-- 3\. On entend par *«Etat partie demandeur»* un Etat partie à la présente Convention demandant à ce titre une assistance en matière de télécommunication.
+- 1\. Un *«État partie»* est un État qui a accepté d’être lié par la présente Convention.
+- 2\. On entend par *«État partie prêtant assistance»* un État partie à la présente Convention prêtant à ce titre une assistance en matière de télécommunication.
+- 3\. On entend par *«État partie demandeur»* un État partie à la présente Convention demandant à ce titre une assistance en matière de télécommunication.
 - 4\. On entend par *«la présente Convention»* la Convention de Tampere sur la mise à disposition de ressources de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe.
 - 5\. On entend par *«dépositaire»* le dépositaire de la présente Convention tel qu’il est désigné dans l’art. 16.
 - 6\. On entend par *«catastrophe»* une grave perturbation du fonctionnement de la société causant une menace réelle et généralisée à la vie ou à la santé humaine, aux biens ou à l’environnement, que la cause en soit un accident, un phénomène naturel ou une activité humaine et qu’il s’agisse d’un événement soudain ou du résultat de processus complexes se déroulant sur une longue période.
 - 7\. On entend par *«atténuation des effets des catastrophes»* les mesures conçues pour prévenir, prévoir ou surveiller les catastrophes, s’y préparer, y faire face et en atténuer les conséquences.
 - 8\. On entend par *«risque sanitaire»* le brusque déclenchement de maladies infectieuses, telles que les épidémies ou les pandémies ou tout autre événement causant une menace réelle à la vie ou à la santé humaine et susceptible de déclencher une catastrophe.
 - 9\. On entend par *«risque naturel»* un événement ou un processus, tels que séisme, incendie, inondation, vent, glissement de terrain, avalanche, cyclone, tsunami, invasion d’insectes, sécheresse ou éruption volcanique qui sont susceptibles de déclencher une catastrophe.
-- 10\. On entend par *«organisation non gouvernementale»* toute organisation, y compris les entités privées et les entreprises, autre qu’un Etat, une organisation gouvernementale ou une organisation intergouvernementale, travaillant dans le domaine de l’atténuation des effets des catastrophes et des opérations de secours en cas de catastrophe et/ou de la mise à disposition de ressources de télécommunication pour l’atténuation des effets des catastrophes et les opérations de secours en cas de catastrophe.
-- 11\. On entend par *«entité autre qu’un Etat»* toute entité, autre qu’un Etat, y compris les organisations non gouvernementales et le Mouvement de la Croix-Rouge et du Croissant-Rouge, travaillant dans le domaine de l’atténuation des effets des catastrophes et des opérations de secours en cas de catastrophe et/ou de la mise à disposition de ressources de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe.
+- 10\. On entend par *«organisation non gouvernementale»* toute organisation, y compris les entités privées et les entreprises, autre qu’un État, une organisation gouvernementale ou une organisation intergouvernementale, travaillant dans le domaine de l’atténuation des effets des catastrophes et des opérations de secours en cas de catastrophe et/ou de la mise à disposition de ressources de télécommunication pour l’atténuation des effets des catastrophes et les opérations de secours en cas de catastrophe.
+- 11\. On entend par *«entité autre qu’un État»* toute entité, autre qu’un État, y compris les organisations non gouvernementales et le Mouvement de la Croix-Rouge et du Croissant-Rouge, travaillant dans le domaine de l’atténuation des effets des catastrophes et des opérations de secours en cas de catastrophe et/ou de la mise à disposition de ressources de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe.
 - 12\. On entend par *«opérations de secours»* les activités destinées à réduire les pertes humaines, les souffrances et les dégâts aux biens et/ou à l’environnement causés par une catastrophe.
 - 13\. On entend par *«assistance en matière de télécommunication»* la mise à disposition de ressources de télécommunication ou d’autres ressources ou supports destinés à faciliter l’utilisation des ressources de télécommunication.
 - 14\. On entend par *«ressources de télécommunication»* le personnel, les équipements, les matériels, les informations, la formation, le spectre des fréquences radioélectriques, la capacité de réseau ou de transmission ou toute autre ressource nécessaire aux télécommunications.
@@ -108,49 +108,49 @@ Sauf indication contraire suivant le contexte dans lequel ils sont utilisés, le
 
 **Dispositions générales**
 
-<sup>1.</sup> Les Etats parties collaborent entre eux ainsi qu’avec les entités autres que des Etats et les organisations intergouvernementales, conformément aux dispositions de la présente Convention, afin de faciliter l’utilisation des ressources de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe.
+<sup>1.</sup> Les États parties collaborent entre eux ainsi qu’avec les entités autres que des États et les organisations intergouvernementales, conformément aux dispositions de la présente Convention, afin de faciliter l’utilisation des ressources de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe.
 
 <sup>2.</sup>
 
 Cette utilisation peut comprendre, mais non exclusivement:
 
 - a) la mise en œuvre d’équipement de télécommunication de Terre et par satellite pour prévoir et surveiller les risques naturels, les risques sanitaires et les catastrophes et pour fournir des informations y relatives;
-- b) le partage des informations concernant les risques naturels, les risques sanitaires et les catastrophes entre les Etats parties et avec d’autres Etats et des entités autres que des Etats, et la diffusion de ces informations auprès du public et notamment des communautés exposées;
+- b) le partage des informations concernant les risques naturels, les risques sanitaires et les catastrophes entre les États parties et avec d’autres États et des entités autres que des États, et la diffusion de ces informations auprès du public et notamment des communautés exposées;
 - c) la mise à disposition rapide d’une assistance en matière de télécommunication pour atténuer les effets d’une catastrophe, et
 - d) l’installation et la mise en œuvre de ressources de télécommunication fiables et souples qui seront utilisées par les organisations de secours et d’assistance humanitaires.
 
-<sup>3.</sup> Pour faciliter cette utilisation, les Etats parties peuvent conclure des accords ou des arrangements internationaux ou bilatéraux additionnels.
+<sup>3.</sup> Pour faciliter cette utilisation, les États parties peuvent conclure des accords ou des arrangements internationaux ou bilatéraux additionnels.
 
 <sup>4.</sup>
 
-Les Etats parties demandent au coordonnateur des opérations, en consultation avec l’Union internationale des télécommunications, le dépositaire, les autres institutions des Nations Unies et les organisations intergouvernementales et non gouvernementales, de tout mettre en œuvre, conformément aux dispositions de la présente Convention, pour:
+Les États parties demandent au coordonnateur des opérations, en consultation avec l’Union internationale des télécommunications, le dépositaire, les autres institutions des Nations Unies et les organisations intergouvernementales et non gouvernementales, de tout mettre en œuvre, conformément aux dispositions de la présente Convention, pour:
 
-- a) élaborer, d’entente avec les Etats parties, des modèles d’accords sur lesquels pourront se fonder les accords internationaux ou bilatéraux facilitant la mise à disposition de ressources de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe;
-- b) mettre à la disposition des Etats parties, des autres Etats, des entités autres que les Etats et des organisations intergouvernementales des modèles d’accord, des meilleures pratiques et autres informations pertinentes concernant la mise à disposition de ressources de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe, par moyens électroniques ou autres mécanismes appropriés;
+- a) élaborer, d’entente avec les États parties, des modèles d’accords sur lesquels pourront se fonder les accords internationaux ou bilatéraux facilitant la mise à disposition de ressources de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe;
+- b) mettre à la disposition des États parties, des autres États, des entités autres que les États et des organisations intergouvernementales des modèles d’accord, des meilleures pratiques et autres informations pertinentes concernant la mise à disposition de ressources de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe, par moyens électroniques ou autres mécanismes appropriés;
 - c) élaborer, exploiter et tenir à jour les procédures et systèmes de collecte et de diffusion d’informations nécessaires à la mise en œuvre de la présente Convention, et
-- d) informer les Etats des conditions énoncées par la présente Convention et faciliter et soutenir la coopération entre les Etats parties prévue dans ladite Convention.
+- d) informer les États des conditions énoncées par la présente Convention et faciliter et soutenir la coopération entre les États parties prévue dans ladite Convention.
 
-<sup>5.</sup> Les Etats parties coopèrent entre eux en vue de renforcer la capacité des organisations gouvernementales, des entités autres que des Etats et des organisations intergouvernementales pour leur permettre de mettre sur pied des mécanismes de formation à l’utilisation et à l’exploitation des équipements ainsi que des stages d’apprentissage des techniques de développement, de conception et de construction d’installations de télécommunication d’urgence propres à faciliter la prévention et la surveillance des catastrophes ainsi que la réduction de leurs effets.
+<sup>5.</sup> Les États parties coopèrent entre eux en vue de renforcer la capacité des organisations gouvernementales, des entités autres que des États et des organisations intergouvernementales pour leur permettre de mettre sur pied des mécanismes de formation à l’utilisation et à l’exploitation des équipements ainsi que des stages d’apprentissage des techniques de développement, de conception et de construction d’installations de télécommunication d’urgence propres à faciliter la prévention et la surveillance des catastrophes ainsi que la réduction de leurs effets.
 
 #### Art. 4
 
 **Mise a disposition d’une assistance en matière de télécommunication**
 
-<sup>1.</sup> Un Etat partie demandant une assistance en matière de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe peut s’adresser à tout autre Etat partie, soit directement, soit par l’intermédiaire du coordonnateur des opérations. Dans le deuxième cas, le coordonnateur des opérations communique immédiatement ladite demande à tous les autres Etats parties concernés; dans le premier cas, l’Etat partie demandeur informe au plus tôt le coordonnateur des opérations.
+<sup>1.</sup> Un État partie demandant une assistance en matière de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe peut s’adresser à tout autre État partie, soit directement, soit par l’intermédiaire du coordonnateur des opérations. Dans le deuxième cas, le coordonnateur des opérations communique immédiatement ladite demande à tous les autres États parties concernés; dans le premier cas, l’État partie demandeur informe au plus tôt le coordonnateur des opérations.
 
-<sup>2.</sup> Un Etat partie demandeur d’une assistance en matière de télécommunication précise l’ampleur et le type d’assistance requise et les mesures prises en application des art. 5 et 9 de la présente Convention et, lorsque cela est réalisable, fournit à l’Etat partie auquel il s’adresse et/ou au coordonnateur des opérations toute autre information nécessaire pour déterminer dans quelle mesure ledit Etat partie peut répondre à sa demande.
+<sup>2.</sup> Un État partie demandeur d’une assistance en matière de télécommunication précise l’ampleur et le type d’assistance requise et les mesures prises en application des art. 5 et 9 de la présente Convention et, lorsque cela est réalisable, fournit à l’État partie auquel il s’adresse et/ou au coordonnateur des opérations toute autre information nécessaire pour déterminer dans quelle mesure ledit État partie peut répondre à sa demande.
 
-<sup>3.</sup> Chaque Etat partie auquel est adressée une demande d’assistance en matière de télécommunication, que ce soit directement ou par l’intermédiaire du coordonnateur des opérations, détermine et fait savoir immédiatement à l’Etat partie demandeur s’il est prêt à fournir l’assistance requise, soit directement, soit autrement, et indique la portée, les termes, conditions et restrictions applicables à cette assistance ainsi que, le cas échéant, les coûts y afférents.
+<sup>3.</sup> Chaque État partie auquel est adressée une demande d’assistance en matière de télécommunication, que ce soit directement ou par l’intermédiaire du coordonnateur des opérations, détermine et fait savoir immédiatement à l’État partie demandeur s’il est prêt à fournir l’assistance requise, soit directement, soit autrement, et indique la portée, les termes, conditions et restrictions applicables à cette assistance ainsi que, le cas échéant, les coûts y afférents.
 
-<sup>4.</sup> Tout Etat partie, décidant de fournir une assistance en matière de télécommunication en informe au plus tôt le coordonnateur des opérations.
+<sup>4.</sup> Tout État partie, décidant de fournir une assistance en matière de télécommunication en informe au plus tôt le coordonnateur des opérations.
 
-<sup>5.</sup> Aucune assistance en matière de télécommunication ne sera fournie par un Etat partie au titre de la présente Convention sans le consentement de l’Etat partie demandeur. Ce dernier a le droit de refuser la totalité ou une partie de l’assistance en matière de télécommunication que lui propose un autre Etat partie conformément à sa législation et à sa politique générale.
+<sup>5.</sup> Aucune assistance en matière de télécommunication ne sera fournie par un État partie au titre de la présente Convention sans le consentement de l’État partie demandeur. Ce dernier a le droit de refuser la totalité ou une partie de l’assistance en matière de télécommunication que lui propose un autre État partie conformément à sa législation et à sa politique générale.
 
-<sup>6.</sup> Les Etats parties reconnaissent en vertu du présent article aux Etats parties demandeurs le droit de demander une assistance en matière de télécommunication directement à des entités autres que des Etats ou à des organisations intergouvernementales et reconnaissent aux entités autres que des Etats et aux organisations intergouvernementales le droit, conformément aux dispositions légales auxquelles elles sont soumises de fournir une assistance en matière de télécommunication aux Etats parties demandeurs.
+<sup>6.</sup> Les États parties reconnaissent en vertu du présent article aux États parties demandeurs le droit de demander une assistance en matière de télécommunication directement à des entités autres que des États ou à des organisations intergouvernementales et reconnaissent aux entités autres que des États et aux organisations intergouvernementales le droit, conformément aux dispositions légales auxquelles elles sont soumises de fournir une assistance en matière de télécommunication aux États parties demandeurs.
 
-<sup>7.</sup> Une entité autre qu’un Etat ou une organisation intergouvernementale peut ne pas être un *«Etat partie demandeur»* et ne pas être autorisée à demander une assistance en matière de télécommunication au titre de la présente Convention.
+<sup>7.</sup> Une entité autre qu’un État ou une organisation intergouvernementale peut ne pas être un *«État partie demandeur»* et ne pas être autorisée à demander une assistance en matière de télécommunication au titre de la présente Convention.
 
-<sup>8.</sup> Aucune disposition de la présente Convention n’altère le droit d’un Etat partie, en application de sa législation nationale, de diriger, de gérer, de coordonner et de superviser l’assistance en matière de télécommunication fournie sur son territoire au titre de la présente Convention.
+<sup>8.</sup> Aucune disposition de la présente Convention n’altère le droit d’un État partie, en application de sa législation nationale, de diriger, de gérer, de coordonner et de superviser l’assistance en matière de télécommunication fournie sur son territoire au titre de la présente Convention.
 
 #### Art. 5
 
@@ -158,23 +158,23 @@ Les Etats parties demandent au coordonnateur des opérations, en consultation av
 
 <sup>1.</sup>
 
-L’Etat partie demandeur accorde, dans les limites permises par sa législation nationale, aux personnes autres que ses ressortissants et aux organisations autres que celles qui ont leur siège ou sont domiciliées sur son territoire, qui agissent aux termes de la présente Convention et qui ont été dûment notifiées à l’Etat partie demandeur et acceptées par lui, les privilèges, immunités et facilités nécessaires à l’exercice de leurs fonctions y compris, mais non exclusivement:
+L’État partie demandeur accorde, dans les limites permises par sa législation nationale, aux personnes autres que ses ressortissants et aux organisations autres que celles qui ont leur siège ou sont domiciliées sur son territoire, qui agissent aux termes de la présente Convention et qui ont été dûment notifiées à l’État partie demandeur et acceptées par lui, les privilèges, immunités et facilités nécessaires à l’exercice de leurs fonctions y compris, mais non exclusivement:
 
-- a) l’immunité en matière d’arrestation, de détention et de juridiction, y compris en ce qui concerne la compétence en matière civile, pénale et administrative de 1’Etat partie demandeur eu égard aux actes ou omissions liés spécifiquement et directement à la fourniture d’assistance en matière de télécommunication;
-- b) l’exonération d’impôts, de taxes ou autres droits, à l’exception de ceux qui sont habituellement compris dans le prix des biens et des services, dans l’exercice de leurs fonctions d’assistance ou pour les équipements, le matériel et les autres biens amenés ou achetés sur le territoire de l’Etat partie demandeur afin de fournir une assistance en matière de télécommunication au titre de la présente Convention, et
+- a) l’immunité en matière d’arrestation, de détention et de juridiction, y compris en ce qui concerne la compétence en matière civile, pénale et administrative de 1’État partie demandeur eu égard aux actes ou omissions liés spécifiquement et directement à la fourniture d’assistance en matière de télécommunication;
+- b) l’exonération d’impôts, de taxes ou autres droits, à l’exception de ceux qui sont habituellement compris dans le prix des biens et des services, dans l’exercice de leurs fonctions d’assistance ou pour les équipements, le matériel et les autres biens amenés ou achetés sur le territoire de l’État partie demandeur afin de fournir une assistance en matière de télécommunication au titre de la présente Convention, et
 - c) l’immunité contre la saisie, la saisie-arrêt ou la réquisition de ces équipements, matériel et biens.
 
-<sup>2.</sup> L’Etat partie demandeur fournit, dans la mesure de ses capacités, des installations et des services sur place pour la gestion appropriée et efficace de l’assistance en matière de télécommunication; il doit entre autres faire en sorte que les équipements de télécommunication amenés sur son territoire au titre de la présente Convention soient agréés dans les plus brefs délais ou exemptés de l’agrément conformément à ses dispositions légales et réglementaires.
+<sup>2.</sup> L’État partie demandeur fournit, dans la mesure de ses capacités, des installations et des services sur place pour la gestion appropriée et efficace de l’assistance en matière de télécommunication; il doit entre autres faire en sorte que les équipements de télécommunication amenés sur son territoire au titre de la présente Convention soient agréés dans les plus brefs délais ou exemptés de l’agrément conformément à ses dispositions légales et réglementaires.
 
-<sup>3.</sup> L’Etat partie demandeur garantit la protection du personnel, des équipements et du matériel amenés sur son territoire au titre de la présente Convention.
+<sup>3.</sup> L’État partie demandeur garantit la protection du personnel, des équipements et du matériel amenés sur son territoire au titre de la présente Convention.
 
-<sup>4.</sup> La propriété des équipements et du matériel fournis au titre de la présente Convention ne doit pas souffrir de l’usage qu’il en sera fait au titre de la présente Convention. L’Etat partie demandeur fait en sorte que ces équipements, ce matériel et ces biens soient rendus dans les meilleurs délais à l’Etat partie qui prête assistance.
+<sup>4.</sup> La propriété des équipements et du matériel fournis au titre de la présente Convention ne doit pas souffrir de l’usage qu’il en sera fait au titre de la présente Convention. L’État partie demandeur fait en sorte que ces équipements, ce matériel et ces biens soient rendus dans les meilleurs délais à l’État partie qui prête assistance.
 
-<sup>5.</sup> L’Etat partie demandeur ne peut orienter la mise en œuvre ou l’utilisation de quelque ressource de télécommunication que ce soit fournie au titre de la présente Convention à des fins qui ne soient pas directement liées à la prévision ou à la surveillance des catastrophes, ou aux mesures visant à s’y préparer, y faire face, en atténuer les effets ou fournir des secours pendant les catastrophes ou à la suite de celles-ci.
+<sup>5.</sup> L’État partie demandeur ne peut orienter la mise en œuvre ou l’utilisation de quelque ressource de télécommunication que ce soit fournie au titre de la présente Convention à des fins qui ne soient pas directement liées à la prévision ou à la surveillance des catastrophes, ou aux mesures visant à s’y préparer, y faire face, en atténuer les effets ou fournir des secours pendant les catastrophes ou à la suite de celles-ci.
 
-<sup>6.</sup> Aucune disposition du présent article n’exige d’un Etat partie demandeur qu’il octroie à ses ressortissants ou à ses résidents permanents, ou encore aux organisations ayant leur siège ou domiciliées sur son territoire des privilèges et immunités.
+<sup>6.</sup> Aucune disposition du présent article n’exige d’un État partie demandeur qu’il octroie à ses ressortissants ou à ses résidents permanents, ou encore aux organisations ayant leur siège ou domiciliées sur son territoire des privilèges et immunités.
 
-<sup>7.</sup> Sans préjudice de leurs privilèges et immunités conformément aux dispositions du présent article, toutes les personnes pénétrant sur le territoire d’un Etat partie afin de fournir une assistance en matière de télécommunication ou de faciliter de toute autre manière l’utilisation de ressources de télécommunication au titre de la présente Convention, et toutes les organisations fournissant une assistance en matière de télécommunication ou facilitant de toute autre manière l’utilisation de moyens de télécommunication au titre de la présente Convention sont tenues de respecter la législation et la réglementation dudit Etat partie. Ces personnes et ces organisations ont également un devoir de non-ingérence dans les affaires intérieures de l’Etat partie sur le territoire duquel elles ont pénétré.
+<sup>7.</sup> Sans préjudice de leurs privilèges et immunités conformément aux dispositions du présent article, toutes les personnes pénétrant sur le territoire d’un État partie afin de fournir une assistance en matière de télécommunication ou de faciliter de toute autre manière l’utilisation de ressources de télécommunication au titre de la présente Convention, et toutes les organisations fournissant une assistance en matière de télécommunication ou facilitant de toute autre manière l’utilisation de moyens de télécommunication au titre de la présente Convention sont tenues de respecter la législation et la réglementation dudit État partie. Ces personnes et ces organisations ont également un devoir de non-ingérence dans les affaires intérieures de l’État partie sur le territoire duquel elles ont pénétré.
 
 <sup>8.</sup> Aucune disposition du présent article ne doit préjuger des droits et obligations relatifs aux privilèges et immunités accordés aux personnes et aux organisations qui participent directement ou indirectement à l’assistance en matière de télécommunication, conformément à d’autres accords internationaux (dont la Convention sur les privilèges et immunités des Nations Unies adoptée par l’Assemblée générale le 13 février 1946 et la Convention sur les privilèges et immunités des institutions spécialisées adoptée par l’Assemblée générale le 21 novembre 1947) ou au droit international.
 
@@ -182,21 +182,21 @@ L’Etat partie demandeur accorde, dans les limites permises par sa législation
 
 **Cessation de l’assistance**
 
-<sup>1.</sup> L’Etat partie demandeur ou l’Etat partie prêtant l’assistance peut, à tout moment, mettre fin à l’assistance en matière de télécommunication revue ou fournie au titre de l’art. 4 par notification écrite. Dès réception de cette notification, les Etats parties concernés procèdent à des consultations en vue de mettre fin de manière appropriée et rapide à l’assistance, en tenant compte des risques pour la vie humaine que comporte la cessation de l’assistance et de ses conséquences sur les opérations en cours de secours en cas de catastrophe.
+<sup>1.</sup> L’État partie demandeur ou l’État partie prêtant l’assistance peut, à tout moment, mettre fin à l’assistance en matière de télécommunication revue ou fournie au titre de l’art. 4 par notification écrite. Dès réception de cette notification, les États parties concernés procèdent à des consultations en vue de mettre fin de manière appropriée et rapide à l’assistance, en tenant compte des risques pour la vie humaine que comporte la cessation de l’assistance et de ses conséquences sur les opérations en cours de secours en cas de catastrophe.
 
-<sup>2.</sup> Les Etats parties fournissant ou recevant une assistance en matière de télécommunication en vertu de la présente Convention demeurent liés par les dispositions de la présente Convention après la cessation de l’assistance en question.
+<sup>2.</sup> Les États parties fournissant ou recevant une assistance en matière de télécommunication en vertu de la présente Convention demeurent liés par les dispositions de la présente Convention après la cessation de l’assistance en question.
 
-<sup>3.</sup> Tout Etat partie demandant la cessation de l’assistance en matière de télécommunication notifie le coordonnateur des opérations de cette demande. Le coordonnateur fournit l’aide demandée et nécessaire pour faciliter la cessation de l’assistance en matière de télécommunication.
+<sup>3.</sup> Tout État partie demandant la cessation de l’assistance en matière de télécommunication notifie le coordonnateur des opérations de cette demande. Le coordonnateur fournit l’aide demandée et nécessaire pour faciliter la cessation de l’assistance en matière de télécommunication.
 
 #### Art. 7
 
 **Paiement ou remboursement des frais ou des droits**
 
-<sup>1.</sup> Les Etats parties peuvent soumettre la fourniture d’une assistance en matière de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe à un accord relatif au paiement ou au remboursement des coûts ou des droits spécifiés, en gardant toujours à l’esprit les dispositions du par. 9 du présent article.
+<sup>1.</sup> Les États parties peuvent soumettre la fourniture d’une assistance en matière de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe à un accord relatif au paiement ou au remboursement des coûts ou des droits spécifiés, en gardant toujours à l’esprit les dispositions du par. 9 du présent article.
 
 <sup>2.</sup>
 
-Au cas où une telle condition s’applique, les Etats parties établissent par écrit, avant la fourniture d’assistance en matière de télécommunication:
+Au cas où une telle condition s’applique, les États parties établissent par écrit, avant la fourniture d’assistance en matière de télécommunication:
 
 - a) l’obligation de paiement ou de remboursement;
 - b) le montant de ce paiement ou remboursement ou encore les modalités selon lesquelles il est calculé, et
@@ -204,17 +204,17 @@ Au cas où une telle condition s’applique, les Etats parties établissent par 
 
 <sup>3.</sup> Les conditions énoncées aux par. 2 let. b et c du présent article peuvent être satisfaites par référence aux tarifs, taux ou prix publiés.
 
-<sup>4.</sup> Afin que la négociation des accords relatifs au paiement et au remboursement ne retarde pas de manière indue la fourniture d’assistance en télécommunication, le coordonnateur des opérations élabore, d’entente avec les Etats parties, un modèle d’accord de paiement et de remboursement qui peut constituer la base de la négociation des obligations de paiement et de remboursement aux termes du présent article.
+<sup>4.</sup> Afin que la négociation des accords relatifs au paiement et au remboursement ne retarde pas de manière indue la fourniture d’assistance en télécommunication, le coordonnateur des opérations élabore, d’entente avec les États parties, un modèle d’accord de paiement et de remboursement qui peut constituer la base de la négociation des obligations de paiement et de remboursement aux termes du présent article.
 
-<sup>5.</sup> Aucun Etat partie n’est tenu de procéder au paiement ou au remboursement de coûts ou de droits aux termes de la présente Convention sans avoir au préalable exprimé son accord aux conditions établies par un Etat partie prêtant assistance conformément au par. 2 du présent article.
+<sup>5.</sup> Aucun État partie n’est tenu de procéder au paiement ou au remboursement de coûts ou de droits aux termes de la présente Convention sans avoir au préalable exprimé son accord aux conditions établies par un État partie prêtant assistance conformément au par. 2 du présent article.
 
-<sup>6.</sup> Lorsque la fourniture d’assistance en matière de télécommunication est dûment soumise au paiement ou au remboursement de coûts ou de droits aux termes du présent article, ce paiement ou ce remboursement est effectué immédiatement après présentation de la demande de paiement ou de remboursement par l’Etat partie prêtant assistance.
+<sup>6.</sup> Lorsque la fourniture d’assistance en matière de télécommunication est dûment soumise au paiement ou au remboursement de coûts ou de droits aux termes du présent article, ce paiement ou ce remboursement est effectué immédiatement après présentation de la demande de paiement ou de remboursement par l’État partie prêtant assistance.
 
-<sup>7.</sup> Les fonds payés ou remboursés par un Etat partie demandeur dans le cadre de la fourniture d’assistance en matière de télécommunication sont librement transférables en dehors de la juridiction de l’Etat partie demandeur et ne doivent être ni l’objet de retards ni retenus.
+<sup>7.</sup> Les fonds payés ou remboursés par un État partie demandeur dans le cadre de la fourniture d’assistance en matière de télécommunication sont librement transférables en dehors de la juridiction de l’État partie demandeur et ne doivent être ni l’objet de retards ni retenus.
 
 <sup>8.</sup>
 
-Pour déterminer s’il convient de soumettre la fourniture d’assistance en matière de télécommunication à un accord prévoyant le paiement ou le remboursement de frais ou de droits spécifiés, le montant de ces coûts ou de ces droits et les termes, conditions et restrictions associés à leur paiement ou remboursement, les Etats parties tiennent notamment compte:
+Pour déterminer s’il convient de soumettre la fourniture d’assistance en matière de télécommunication à un accord prévoyant le paiement ou le remboursement de frais ou de droits spécifiés, le montant de ces coûts ou de ces droits et les termes, conditions et restrictions associés à leur paiement ou remboursement, les États parties tiennent notamment compte:
 
 - a) des principes des Nations Unies en matière d’assistance humanitaire;
 - b) de la nature de la catastrophe, du risque naturel ou du risque sanitaire;
@@ -222,16 +222,16 @@ Pour déterminer s’il convient de soumettre la fourniture d’assistance en ma
 - d) du lieu d’origine de la catastrophe;
 - e) de la région touchée ou potentiellement touchée par la catastrophe;
 - f) d’éventuelles précédentes catastrophes et de la probabilité de futures catastrophes dans la région touchée;
-- g) de la capacité de chaque Etat touché par la catastrophe, le risque naturel ou le risque sanitaire de se préparer ou de faire face à un tel événement, et
+- g) de la capacité de chaque État touché par la catastrophe, le risque naturel ou le risque sanitaire de se préparer ou de faire face à un tel événement, et
 - h) des besoins des pays en développement.
 
 <sup>9.</sup>
 
-Le présent article s’applique en outre aux cas où une assistance en matière de télécommunication est fournie par une entité autre qu’un Etat ou par une organisation intergouvernementale, à condition:
+Le présent article s’applique en outre aux cas où une assistance en matière de télécommunication est fournie par une entité autre qu’un État ou par une organisation intergouvernementale, à condition:
 
-- a) que l’Etat partie demandeur ait consenti à ce que cette assistance en matière de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe soit mise à sa disposition et n’y ait pas mis fin;
-- b) que l’entité autre qu’un Etat ou l’organisation intergouvernementale fournissant cette assistance en matière de télécommunication ait informé l’Etat partie demandeur de son acceptation du présent article et des art. 4 et 5, et
-- c) que l’application du présent article ne soit pas incompatible avec tout autre accord concernant les relations entre l’Etat partie demandeur et l’entité autre qu’un Etat ou l’organisation intergouvernementale fournissant cette assistance en matière de télécommunication.
+- a) que l’État partie demandeur ait consenti à ce que cette assistance en matière de télécommunication pour l’atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe soit mise à sa disposition et n’y ait pas mis fin;
+- b) que l’entité autre qu’un État ou l’organisation intergouvernementale fournissant cette assistance en matière de télécommunication ait informé l’État partie demandeur de son acceptation du présent article et des art. 4 et 5, et
+- c) que l’application du présent article ne soit pas incompatible avec tout autre accord concernant les relations entre l’État partie demandeur et l’entité autre qu’un État ou l’organisation intergouvernementale fournissant cette assistance en matière de télécommunication.
 
 #### Art. 8
 
@@ -239,26 +239,26 @@ Le présent article s’applique en outre aux cas où une assistance en matière
 
 <sup>1.</sup>
 
-Chaque Etat partie notifie au coordonnateur des opérations le nom de son autorité ou de ses autorités:
+Chaque État partie notifie au coordonnateur des opérations le nom de son autorité ou de ses autorités:
 
 - a) chargée(s) des questions relevant de la présente Convention et autorisée(s) à demander, à offrir, à accepter l’assistance et à y mettre fin. et
 - b) habilitée(s) à déterminer les ressources gouvernementales, intergouvernementales et/ou non gouvernementales pouvant être dégagées pour faciliter l’utilisation des ressources de télécommunication pour atténuer les effets des catastrophes et pour permettre les opérations de secours en cas de catastrophe, ainsi que pour fournir une assistance en matière de télécommunication.
 
-<sup>2.</sup> Chaque Etat partie doit s’efforcer d’informer promptement le coordonnateur des opérations de toute modification apportée aux informations communiquées conformément aux dispositions du présent article.
+<sup>2.</sup> Chaque État partie doit s’efforcer d’informer promptement le coordonnateur des opérations de toute modification apportée aux informations communiquées conformément aux dispositions du présent article.
 
-<sup>3.</sup> Le coordonnateur des opérations peut accepter qu’une entité autre qu’un Etat ou une organisation intergouvernementale lui notifie les procédures qu’elle applique pour autoriser à offrir une assistance en matière de télécommunication et à y mettre fin conformément au présent article.
+<sup>3.</sup> Le coordonnateur des opérations peut accepter qu’une entité autre qu’un État ou une organisation intergouvernementale lui notifie les procédures qu’elle applique pour autoriser à offrir une assistance en matière de télécommunication et à y mettre fin conformément au présent article.
 
-<sup>4.</sup> Un Etat partie, une entité autre qu’un Etat ou une organisation intergouvernementale peut, à sa discrétion, inclure dans le dossier qu’il ou elle dépose auprès du coordonnateur des opérations des informations concernant des ressources de télécommunication particulières ou des plans relatifs à l’utilisation de ces ressources pour répondre à une demande d’assistance en matière de télécommunication présentée par un Etat partie demandeur.
+<sup>4.</sup> Un État partie, une entité autre qu’un État ou une organisation intergouvernementale peut, à sa discrétion, inclure dans le dossier qu’il ou elle dépose auprès du coordonnateur des opérations des informations concernant des ressources de télécommunication particulières ou des plans relatifs à l’utilisation de ces ressources pour répondre à une demande d’assistance en matière de télécommunication présentée par un État partie demandeur.
 
-<sup>5.</sup> Le coordonnateur des opérations tient à jour des exemplaires de toutes les listes d’autorités et diffuse rapidement ces informations aux Etats parties, aux autres Etats, aux entités autres que des Etats et aux organisations intergouvernementales compétentes, à moins qu’un Etat partie, une entité autre qu’un Etat ou une organisation intergouvernementale n’ait précédemment spécifié par écrit que la diffusion des informations qu’il ou elle a fournies doit être limitée.
+<sup>5.</sup> Le coordonnateur des opérations tient à jour des exemplaires de toutes les listes d’autorités et diffuse rapidement ces informations aux États parties, aux autres États, aux entités autres que des États et aux organisations intergouvernementales compétentes, à moins qu’un État partie, une entité autre qu’un État ou une organisation intergouvernementale n’ait précédemment spécifié par écrit que la diffusion des informations qu’il ou elle a fournies doit être limitée.
 
-<sup>6.</sup> Le coordonnateur des opérations traite la documentation déposée par des entités autres que des Etats ou par des organisations intergouvernementales selon les mêmes modalités qui sont applicables à la documentation déposée par des Etats parties.
+<sup>6.</sup> Le coordonnateur des opérations traite la documentation déposée par des entités autres que des États ou par des organisations intergouvernementales selon les mêmes modalités qui sont applicables à la documentation déposée par des États parties.
 
 #### Art. 9
 
 **Obstacles réglementaires**
 
-<sup>1.</sup> Les Etats parties réduisent ou éliminent, si possible et en conformité avec leur législation nationale, les obstacles réglementaires à l’utilisation des ressources de télécommunication pour l’atténuation des effets des catastrophes et les opérations de secours en cas de catastrophe, y compris la fourniture d’assistance en matière de télécommunication.
+<sup>1.</sup> Les États parties réduisent ou éliminent, si possible et en conformité avec leur législation nationale, les obstacles réglementaires à l’utilisation des ressources de télécommunication pour l’atténuation des effets des catastrophes et les opérations de secours en cas de catastrophe, y compris la fourniture d’assistance en matière de télécommunication.
 
 <sup>2.</sup>
 
@@ -267,7 +267,7 @@ Les obstacles réglementaires peuvent comprendre les obstacles suivants, mais ce
 - a) dispositions réglementaires limitant l’importation ou l’exportation d’équipements de télécommunication;
 - b) dispositions réglementaires limitant l’utilisation des équipements de télécommunication ou du spectre des fréquences radioélectriques;
 - c) dispositions réglementaires limitant les mouvements des personnels qui exploitent les équipements de télécommunication ou qui sont indispensables à leur utilisation efficace;
-- d) dispositions réglementaires limitant le transit des ressources de télécommunication en direction ou en provenance du territoire d’un Etat partie ou à travers ce territoire;
+- d) dispositions réglementaires limitant le transit des ressources de télécommunication en direction ou en provenance du territoire d’un État partie ou à travers ce territoire;
 - e) retards dus à l’administration de dispositions réglementaires de ce type.
 
 <sup>3.</sup>
@@ -281,17 +281,17 @@ La réduction des obstacles réglementaires peut prendre la forme des mesures su
 - e) examen rapide des ressources de télécommunication en vue de leur utilisation pour l’atténuation des effets des catastrophes et les opérations de secours en cas de catastrophe, dans le respect de ces dispositions réglementaires, et
 - f) levée temporaire de ces dispositions réglementaires en vue de l’utilisation de ressources de télécommunication pour l’atténuation des effets des catastrophes et des opérations de secours en cas de catastrophe.
 
-<sup>4.</sup> Chaque Etat partie facilite, à la demande de tout autre Etat partie et dans les limites permises par sa législation nationale, le transit à destination ou en provenance de son territoire ou à travers son territoire du personnel, des équipements, des matériels et des informations associés à l’utilisation des ressources de télécommunication pour l’atténuation des effets des catastrophes et les opérations de secours en cas de catastrophe.
+<sup>4.</sup> Chaque État partie facilite, à la demande de tout autre État partie et dans les limites permises par sa législation nationale, le transit à destination ou en provenance de son territoire ou à travers son territoire du personnel, des équipements, des matériels et des informations associés à l’utilisation des ressources de télécommunication pour l’atténuation des effets des catastrophes et les opérations de secours en cas de catastrophe.
 
 <sup>5.</sup>
 
-Chaque Etat Membre notifie au coordonnateur des opérations et aux autres Etats parties, directement ou par l’intermédiaire de celui-ci:
+Chaque État Membre notifie au coordonnateur des opérations et aux autres États parties, directement ou par l’intermédiaire de celui-ci:
 
 - a) les mesures prises, au titre de la présente Convention, en vue de réduire ou d’éliminer les obstacles réglementaires de ce type;
-- b) les procédures mises à la disposition, au titre de la présente Convention, d’Etats parties, d’autres Etats, d’entités autres que des Etats et d’organisations intergouvernementales, en vue d’exempter les ressources de télécommunication spécifiées et utilisées pour l’atténuation des effets des catastrophes et les opérations de secours en cas de catastrophe, de l’application de ces réglementations, pour procéder à l’autorisation préalable ou à l’examen accéléré de ces ressources dans le respect des réglementations applicables, la reconnaissance de l’homologation étrangère de ces ressources, ou la levée temporaire des réglementations normalement applicables à ces ressources;
+- b) les procédures mises à la disposition, au titre de la présente Convention, d’États parties, d’autres États, d’entités autres que des États et d’organisations intergouvernementales, en vue d’exempter les ressources de télécommunication spécifiées et utilisées pour l’atténuation des effets des catastrophes et les opérations de secours en cas de catastrophe, de l’application de ces réglementations, pour procéder à l’autorisation préalable ou à l’examen accéléré de ces ressources dans le respect des réglementations applicables, la reconnaissance de l’homologation étrangère de ces ressources, ou la levée temporaire des réglementations normalement applicables à ces ressources;
 - c) les termes, conditions et restrictions associés, le cas échéant, à l’utilisation de ces procédures.
 
-<sup>6.</sup> Le coordonnateur des opérations fournit régulièrement et rapidement aux Etats parties, aux autres Etats, aux entités autres que des Etats et aux organisations intergouvernementales une liste actualisée de ces mesures, de leur champ d’application, et des termes, conditions et restrictions associés, le cas échéant, à leur utilisation.
+<sup>6.</sup> Le coordonnateur des opérations fournit régulièrement et rapidement aux États parties, aux autres États, aux entités autres que des États et aux organisations intergouvernementales une liste actualisée de ces mesures, de leur champ d’application, et des termes, conditions et restrictions associés, le cas échéant, à leur utilisation.
 
 <sup>7.</sup> Nulle disposition du présent article n’autorise la violation ou l’abrogation d’obligations et de responsabilités imposées par la législation d’un pays, par le droit international ou bien par des accords multilatéraux ou bilatéraux, notamment en matière de douanes et de contrôles à l’exportation.
 
@@ -299,76 +299,76 @@ Chaque Etat Membre notifie au coordonnateur des opérations et aux autres Etats 
 
 **Relations avec d’autres accords internationaux**
 
-La présente Convention n’altère pas les droits et obligations des Etats parties découlant d’autres accords internationaux ou du droit international.
+La présente Convention n’altère pas les droits et obligations des États parties découlant d’autres accords internationaux ou du droit international.
 
 #### Art. 11
 
 **Règlement des différends**
 
-<sup>1.</sup> En cas de différend entre des Etats parties concernant l’interprétation ou l’application de la présente Convention, les Etats parties au différend procèdent à des consultations afin de régler le différend. Ces consultations commencent immédiatement après la déclaration écrite, remise par un Etat partie à un autre Etat partie, concernant l’existence d’un différend au titre de la présente Convention. L’Etat partie formulant une déclaration écrite concernant l’existence d’un différend remet immédiatement copie de cette déclaration au dépositaire.
+<sup>1.</sup> En cas de différend entre des États parties concernant l’interprétation ou l’application de la présente Convention, les États parties au différend procèdent à des consultations afin de régler le différend. Ces consultations commencent immédiatement après la déclaration écrite, remise par un État partie à un autre État partie, concernant l’existence d’un différend au titre de la présente Convention. L’État partie formulant une déclaration écrite concernant l’existence d’un différend remet immédiatement copie de cette déclaration au dépositaire.
 
-<sup>2.</sup> Si un différend entre des Etats parties ne peut être réglé dans les six (6) mois à compter de la date de remise de la déclaration écrite à un Etat partie au différend, les Etats parties au différend peuvent demander à tout autre Etat partie, à une entité autre qu’un Etat ou à une organisation intergouvernementale d’utiliser ses bons offices pour faciliter le règlement du différend.
+<sup>2.</sup> Si un différend entre des États parties ne peut être réglé dans les six (6) mois à compter de la date de remise de la déclaration écrite à un État partie au différend, les États parties au différend peuvent demander à tout autre État partie, à une entité autre qu’un État ou à une organisation intergouvernementale d’utiliser ses bons offices pour faciliter le règlement du différend.
 
 <sup>3.</sup>
 
-Si aucun des Etats parties ne cherche à s’assurer les bons offices d’un autre Etat partie, d’un Etat, d’une entité autre qu’un Etat ou d’une organisation intergouvernementale ou encore si les bons offices ne permettent pas de faciliter le règlement du différend dans les six (6) mois à compter de la demande de bons offices présentée, l’un ou l’autre Etat partie au différend peut alors:
+Si aucun des États parties ne cherche à s’assurer les bons offices d’un autre État partie, d’un État, d’une entité autre qu’un État ou d’une organisation intergouvernementale ou encore si les bons offices ne permettent pas de faciliter le règlement du différend dans les six (6) mois à compter de la demande de bons offices présentée, l’un ou l’autre État partie au différend peut alors:
 
 - a) demander que le différend soit soumis à un arbitrage contraignant, ou
-- b) soumettre le différend à la Cour internationale de Justice pour décision, sous réserve que l’un et l’autre Etats parties au différend aient, au moment où ils ont signé ou ratifié la présente Convention ou bien au moment où ils y ont adhéré, ou bien encore à tout autre moment ultérieurement, accepté la juridiction de la Cour internationale de Justice pour les différends de ce type.
+- b) soumettre le différend à la Cour internationale de Justice pour décision, sous réserve que l’un et l’autre États parties au différend aient, au moment où ils ont signé ou ratifié la présente Convention ou bien au moment où ils y ont adhéré, ou bien encore à tout autre moment ultérieurement, accepté la juridiction de la Cour internationale de Justice pour les différends de ce type.
 
-<sup>4.</sup> Au cas où les Etats parties au différend demandent que le différend soit soumis à un arbitrage contraignant et soumettent le différend à la Cour internationale de Justice pour décision, la saisine de la Cour internationale de Justice a priorité.
+<sup>4.</sup> Au cas où les États parties au différend demandent que le différend soit soumis à un arbitrage contraignant et soumettent le différend à la Cour internationale de Justice pour décision, la saisine de la Cour internationale de Justice a priorité.
 
-<sup>5.</sup> En cas de différend entre un Etat partie demandeur d’une assistance en matière de télécommunication et une entité autre qu’un Etat ou une organisation intergouvernementale, dont le siège ou le domicile est situé hors du territoire de cet Etat partie, concernant la mise à disposition d’une assistance en matière de télécommunication conformément à l’art. 4, 1’Etat partie sur le territoire duquel 1’entité autre qu’un Etat ou l’organisation intergouvernementale a son siège ou son domicile peut directement faire sienne la réclamation formulée par ladite entité comme réclamation d’Etat à Etat aux termes du présent article, à condition que cette substitution ne soit pas incompatible avec tout autre accord conclu entre l’Etat partie et 1’entité autre qu’un Etat ou l’organisation intergouvernementale concernés par le différend.
+<sup>5.</sup> En cas de différend entre un État partie demandeur d’une assistance en matière de télécommunication et une entité autre qu’un État ou une organisation intergouvernementale, dont le siège ou le domicile est situé hors du territoire de cet État partie, concernant la mise à disposition d’une assistance en matière de télécommunication conformément à l’art. 4, 1’État partie sur le territoire duquel 1’entité autre qu’un État ou l’organisation intergouvernementale a son siège ou son domicile peut directement faire sienne la réclamation formulée par ladite entité comme réclamation d’État à État aux termes du présent article, à condition que cette substitution ne soit pas incompatible avec tout autre accord conclu entre l’État partie et 1’entité autre qu’un État ou l’organisation intergouvernementale concernés par le différend.
 
-<sup>6.</sup> Lors de la signature, de la ratification, de l’acceptation, de l’approbation de la présente Convention ou lors de l’adhésion à la présente Convention, un Etat peut déclarer qu’il ne se considère pas comme lié par l’une ou l’autre des procédures de règlement des différends visées au par. 3 ci-dessus. Les autres Etats parties ne sont pas liés par une procédure de règlement des différends visés au par. 3 vis-à-vis d’un Etat partie auquel s’applique une déclaration de ce type.
+<sup>6.</sup> Lors de la signature, de la ratification, de l’acceptation, de l’approbation de la présente Convention ou lors de l’adhésion à la présente Convention, un État peut déclarer qu’il ne se considère pas comme lié par l’une ou l’autre des procédures de règlement des différends visées au par. 3 ci-dessus. Les autres États parties ne sont pas liés par une procédure de règlement des différends visés au par. 3 vis-à-vis d’un État partie auquel s’applique une déclaration de ce type.
 
 #### Art. 12
 
 **Entrée en vigueur**
 
-<sup>1.</sup> La présente Convention est ouverte à la signature de tous les Etats qui sont membres de l’Organisation des Nations Unies ou de l’Union internationale des télécommunications à la Conférence intergouvernementale sur les télécommunications d’urgence à Tampere, le 18 juin 1998 et ensuite au Siège de l’Organisation des Nations Unies, New York, à compter du 22 juin 1998 jusqu’au 21 juin 2003.
+<sup>1.</sup> La présente Convention est ouverte à la signature de tous les États qui sont membres de l’Organisation des Nations Unies ou de l’Union internationale des télécommunications à la Conférence intergouvernementale sur les télécommunications d’urgence à Tampere, le 18 juin 1998 et ensuite au Siège de l’Organisation des Nations Unies, New York, à compter du 22 juin 1998 jusqu’au 21 juin 2003.
 
 <sup>2.</sup>
 
-Un Etat peut exprimer son consentement à être lié par la présente Convention:
+Un État peut exprimer son consentement à être lié par la présente Convention:
 
 - a) par signature (définitive);
 - b) par signature soumise à ratification, acceptation ou approbation suivie du dépôt d’un instrument de ratification, d’acceptation ou d’approbation, ou
 - c) par dépôt d’un instrument d’adhésion.
 
-<sup>3.</sup> La Convention entre en vigueur trente (30) jours après que trente (30) Etats auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion ou apposé leur signature définitive.
+<sup>3.</sup> La Convention entre en vigueur trente (30) jours après que trente (30) États auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion ou apposé leur signature définitive.
 
-<sup>4.</sup> Pour chaque Etat ayant signé définitivement ou déposé un instrument de ratification, d’acceptation, d’approbation ou d’adhésion, une fois satisfaite la condition énoncée au par. 3 du présent article, la présente Convention entre en vigueur trente (30) jours après la date de la signature définitive ou de l’expression du consentement à être lié.
+<sup>4.</sup> Pour chaque État ayant signé définitivement ou déposé un instrument de ratification, d’acceptation, d’approbation ou d’adhésion, une fois satisfaite la condition énoncée au par. 3 du présent article, la présente Convention entre en vigueur trente (30) jours après la date de la signature définitive ou de l’expression du consentement à être lié.
 
 #### Art. 13
 
 **Amendements**
 
-<sup>1.</sup> Un Etat partie peut proposer des amendements à la présente Convention en soumettant lesdits amendements au dépositaire, qui les communique aux autres Etats parties pour approbation.
+<sup>1.</sup> Un État partie peut proposer des amendements à la présente Convention en soumettant lesdits amendements au dépositaire, qui les communique aux autres États parties pour approbation.
 
-<sup>2.</sup> Les Etats parties informent le dépositaire s’ils approuvent ou non les amendements proposés dans les cent quatre-vingt (180) jours suivant leur réception.
+<sup>2.</sup> Les États parties informent le dépositaire s’ils approuvent ou non les amendements proposés dans les cent quatre-vingt (180) jours suivant leur réception.
 
-<sup>3.</sup> Tout amendement approuvé par les deux tiers de tous les Etats parties est présenté dans un protocole qui est ouvert à la signature, auprès du dépositaire, par tous les Etats parties.
+<sup>3.</sup> Tout amendement approuvé par les deux tiers de tous les États parties est présenté dans un protocole qui est ouvert à la signature, auprès du dépositaire, par tous les États parties.
 
-<sup>4.</sup> Le protocole entre en vigueur selon les mêmes modalités que la présente Convention. Pour chaque Etat ayant signé définitivement ledit protocole ou déposé un instrument de ratification, d’acceptation, d’approbation ou d’adhésion, une fois satisfaites les conditions applicables à l’entrée en vigueur du protocole, ledit protocole entre en vigueur pour ledit Etat partie trente (30) jours après la date de la signature définitive ou de l’expression du consentement à être lié.
+<sup>4.</sup> Le protocole entre en vigueur selon les mêmes modalités que la présente Convention. Pour chaque État ayant signé définitivement ledit protocole ou déposé un instrument de ratification, d’acceptation, d’approbation ou d’adhésion, une fois satisfaites les conditions applicables à l’entrée en vigueur du protocole, ledit protocole entre en vigueur pour ledit État partie trente (30) jours après la date de la signature définitive ou de l’expression du consentement à être lié.
 
 #### Art. 14
 
 **Réserves**
 
-<sup>1.</sup> Au moment de la signature définitive, de la ratification de la présente Convention ou de tout amendement y relatif, ou de l’adhésion à ladite Convention, un Etat partie peut formuler des réserves.
+<sup>1.</sup> Au moment de la signature définitive, de la ratification de la présente Convention ou de tout amendement y relatif, ou de l’adhésion à ladite Convention, un État partie peut formuler des réserves.
 
-<sup>2.</sup> Un Etat partie peut à tout moment retirer sa réserve antérieure par notification écrite au dépositaire. Le retrait d’une réserve prend effet immédiatement après notification au dépositaire.
+<sup>2.</sup> Un État partie peut à tout moment retirer sa réserve antérieure par notification écrite au dépositaire. Le retrait d’une réserve prend effet immédiatement après notification au dépositaire.
 
 #### Art. 15
 
 **Dénonciation**
 
-<sup>1.</sup> Un Etat partie peut dénoncer la présente Convention par notification écrite au dépositaire.
+<sup>1.</sup> Un État partie peut dénoncer la présente Convention par notification écrite au dépositaire.
 
 <sup>2.</sup> La dénonciation prend effet quatre-vingt-dix (90) jours après la date de dépôt de la notification écrite.
 
-<sup>3.</sup> A la demande de l’Etat partie dénonçant la présente Convention, tous les exemplaires des listes des autorités ainsi que des mesures adoptées et des procédures disponibles pour réduire les obstacles réglementaires, qu’il aura précédemment communiqués, sont retirés à la date à laquelle prend effet ladite dénonciation.
+<sup>3.</sup> Á la demande de l’État partie dénonçant la présente Convention, tous les exemplaires des listes des autorités ainsi que des mesures adoptées et des procédures disponibles pour réduire les obstacles réglementaires, qu’il aura précédemment communiqués, sont retirés à la date à laquelle prend effet ladite dénonciation.
 
 #### Art. 16
 
@@ -384,10 +384,10 @@ L’original de la présente Convention, dont les versions anglaise, arabe, chin
 
 *En foi de quoi* les soussignées, dûment autorisés à cette fin, ont signé la présente Convention. Fait à Tampere (Finlande), le 18 juin 1998. (Suivent les signatures)
 
-Champ d’application le 18 août 2016**[^t-1]**
+Champ d’application le 7 février 2022[^t-1]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>3 septembre</td><td>2014 A</td><td>3 octobre</td><td>2014</td></tr>
 <tr><td>Argentine</td><td>5 juillet</td><td>2007</td><td>4 août</td><td>2007</td></tr>
 <tr><td>Arménie</td><td>25 mars</td><td>2008 A</td><td>24 avril</td><td>2008</td></tr>
@@ -396,11 +396,12 @@ Champ d’application le 18 août 2016**[^t-1]**
 <tr><td>Bulgarie</td><td>20 juin</td><td>2000</td><td>8 janvier</td><td>2005</td></tr>
 <tr><td>Burundi</td><td>23 janvier</td><td>2013</td><td>22 février</td><td>2013</td></tr>
 <tr><td>Canada</td><td>18 mai</td><td>2001</td><td>8 janvier</td><td>2005</td></tr>
+<tr><td>Cap-Vert</td><td>22 mars</td><td>2018 A</td><td>21 avril</td><td>2018</td></tr>
 <tr><td>Chypre</td><td>14 juillet</td><td>2000</td><td>8 janvier</td><td>2005</td></tr>
 <tr><td>Colombie\*</td><td>12 juin</td><td>2008 A</td><td>12 juillet</td><td>2008</td></tr>
 <tr><td>Danemark\*</td><td>2 juin</td><td>2003</td><td>8 janvier</td><td>2005</td></tr>
 <tr><td>Groenland</td><td>2 juin</td><td>2003</td><td>8 janvier</td><td>2005</td></tr>
-<tr><td>Iles Féroé</td><td>2 juin</td><td>2003</td><td>8 janvier</td><td>2005</td></tr>
+<tr><td>Îles Féroé</td><td>2 juin</td><td>2003</td><td>8 janvier</td><td>2005</td></tr>
 <tr><td>Dominique</td><td>26 décembre</td><td>2000 A</td><td>8 janvier</td><td>2005</td></tr>
 <tr><td>El Salvador</td><td>18 avril</td><td>2002</td><td>8 janvier</td><td>2005</td></tr>
 <tr><td>Espagne\*</td><td>27 février</td><td>2006 A</td><td>29 mars</td><td>2006</td></tr>
@@ -442,7 +443,7 @@ Champ d’application le 18 août 2016**[^t-1]**
 <tr><td>Tonga</td><td>8 mai</td><td>2003 A</td><td>8 janvier</td><td>2005</td></tr>
 <tr><td>Uruguay</td><td>19 avril</td><td>2012</td><td>19 mai</td><td>2012</td></tr>
 <tr><td>Venezuela\*</td><td>13 mai</td><td>2005</td><td>12 juin</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-1]: [RO 2011 3839](https://fedlex.data.admin.ch/eli/oc/2011/546), [2013 2451](https://fedlex.data.admin.ch/eli/oc/2013/514), [2016 3013](https://fedlex.data.admin.ch/eli/oc/2016/511). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 2011 3839](https://fedlex.data.admin.ch/eli/oc/2011/546); [2013 2451](https://fedlex.data.admin.ch/eli/oc/2013/514); [2016 3013](https://fedlex.data.admin.ch/eli/oc/2016/511); [2022 84](https://fedlex.data.admin.ch/eli/oc/2022/84). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
