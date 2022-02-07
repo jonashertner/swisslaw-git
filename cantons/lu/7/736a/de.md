@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2021-12-14
-valid_until: 2022-02-07
-version_adopted: 2021-12-14
+version: 2022-02-08
+valid_until: 2022-05-30
+version_adopted: 2022-02-08
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/3882/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3892/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 14.12.2021)
+vom 04.07.2017 (Stand 08.02.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -48,6 +48,7 @@ beschliesst:
 <tr><td>Nebikon</td><td>24. August 2020</td><td>10. September 2021</td></tr>
 <tr><td>Buchrain</td><td>13. Juni 2021</td><td>14. Dezember 2021</td></tr>
 <tr><td>Römerswil</td><td>13. Juni 2021</td><td>14. Dezember 2021</td></tr>
+<tr><td>Ettiswil</td><td>12. Oktober 2021</td><td>8. Februar 2022</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
