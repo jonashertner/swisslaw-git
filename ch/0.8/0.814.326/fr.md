@@ -3,11 +3,11 @@ sr: "0.814.326"
 title: "Protocole du 24 juin 1998 à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif aux métaux lourds (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/141"
 language: fr
-version: 2017-05-10
+version: 2022-02-08
 adopted: 1998-06-24
 in_force: 2003-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20170510/fr/xml/fedlex-data-admin-ch-eli-cc-2004-141-20170510-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20170510/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20220208/fr/xml/fedlex-data-admin-ch-eli-cc-2004-141-20220208-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20220208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 14 novembre 2000
 
 Entré en vigueur pour la Suisse le 29 décembre 2003
 
-(Etat le 10 mai 2017)
+(Etat le 8 février 2022)
 
 [^t-1]: [RO 2004 1189](https://fedlex.data.admin.ch/eli/oc/2004/140)
 
@@ -89,17 +89,16 @@ Aux fins du présent Protocole,
 
 <sup>9.</sup> on entend par «source fixe» tout bâtiment, structure, dispositif, installation ou équipement fixe qui émet ou peut émettre directement ou indirectement dans l’atmosphère un des métaux lourds énumérés à l’annexe I;
 
-<sup>10.</sup>
+10.[^1-3] on entend par «source fixe nouvelle» toute source fixe que l’on commence à construire ou que l’on entreprend de modifier substantiellement à l’expiration d’un délai de deux ans qui commence à courir à la date d’entrée en vigueur pour une Partie au présent Protocole. Une Partie peut décider de ne pas considérer comme étant une source fixe nouvelle toute source fixe pour laquelle un agrément a déjà été délivré par l’autorité nationale compétente appropriée au moment de l’entrée en vigueur du Protocole pour ladite Partie, et pour autant que sa construction ou sa modification substantielle ait débuté dans les cinq ans suivant cette date. Il appartient aux autorités nationales compétentes de déterminer si une modification est substantielle ou non, en tenant compte de facteurs tels que les avantages que cette modification présente pour l’environnement;
 
-on entend par «source fixe nouvelle» toute source fixe que l’on commence à construire ou que l’on entreprend de modifier substantiellement à l’expiration d’un délai de deux ans qui commence à courir à la date d’entrée en vigueur:
+<sup>11.</sup> on entend par «catégorie de grandes sources fixes» toute catégorie de sources fixes qui est visée à l’annexe II et qui contribue pour au moins 1 % au total des émissions d’un des métaux lourds énumérés à l’annexe I provenant de sources fixes d’une Partie pour l’année de référence fixée conformément à l’annexe I;
 
-- i) du présent Protocole, ou
-- ii) d’un amendement à l’annexe I ou II, si la source fixe ne tombe sous le coup des dispositions du présent Protocole qu’en vertu de cet amendement. Il appartient aux autorités nationales compétentes de déterminer si une modification est substantielle ou non, en tenant compte de facteurs tels que les avantages que cette modification présente pour l’environnement;
-
-<sup>11.</sup> on entend par «catégorie de grandes sources fixes» toute catégorie de sources fixes qui est visée à l’annexe II et qui contribue pour au moins 1 % au total des émissions d’un des métaux lourds énumérés à l’annexe I provenant de sources fixes d’une Partie pour l’année de référence fixée conformément à l’annexe I.
+12.[^1-4] On entend par «le Protocole» et «le présent Protocole» le Protocole de 1998 relatif aux métaux lourds, tel qu’il a été de temps à autre modifié.
 
 [^1-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
 [^1-2]: [RS 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+[^1-3]: Mise à jour par l’annexe ch. 1 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^1-4]: Introduit par l’annexe ch. 2 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 2
 
@@ -113,24 +112,60 @@ Le présent Protocole a pour objet de lutter contre les émissions de métaux lo
 
 <sup>1.</sup> Chaque Partie réduit ses émissions annuelles totales dans l’atmosphère de chacun des métaux lourds énumérés à l’annexe I par rapport au niveau des émissions au cours de l’année de référence fixée conformément à cette annexe, en prenant des mesures efficaces adaptées à sa situation particulière.
 
-<sup>2.</sup>
+<sup>2.</sup> 2<sup>bis</sup>. Une Partie qui était déjà partie au présent Protocole avant l’entrée en vigueur d’un amendement qui introduit de nouvelles catégories de sources peut appliquer les valeurs limites prévues pour une «source fixe existante» à toute source relevant d’une nouvelle catégorie, dont la construction ou la modification substantielle démarre avant l’expiration d’un délai de deux ans à compter de la date d’entrée en vigueur dudit amendement pour cette Partie, à moins et jusqu’à ce que la source subisse ultérieurement une modification substantielle.[^3-1]
 
-Chaque Partie applique, au plus tard dans les délais spécifiés à l’annexe IV:
+2<sup>ter</sup>. Une Partie qui était déjà partie au présent Protocole avant l’entrée en vigueur d’un amendement qui introduit de nouvelles valeurs limites applicables à toute «source fixe nouvelle» peut continuer d’appliquer les valeurs limites qui s’appliquaient précédemment à toute source dont la construction ou la modification substantielle démarre avant l’expiration d’un délai de deux ans à compter de la date d’entrée en vigueur dudit amendement pour cette Partie, à moins et jusqu’à ce que la source subisse ultérieurement une modification substantielle.[^3-2]
 
-- a) les meilleures techniques disponibles, en prenant en considération l’annexe III, à l’égard de chaque source fixe nouvelle entrant dans une catégorie de grandes sources fixes pour laquelle les meilleures techniques disponibles sont définies à l’annexe III;
+Sous réserve des par. 2<sup>bis</sup> et 2<sup>ter</sup>, chaque Partie applique, au plus tard dans les délais spécifiés à l’annexe IV:[^3-3]
+
+- a)[^3-4] les meilleures techniques disponibles, en prenant en considération l’annexe III, à l’égard de chaque source fixe nouvelle entrant dans une catégorie de grandes sources fixes pour laquelle les meilleures techniques disponibles sont définies dans un document d’orientation adopté par les Parties à une session de l’Organe exécutif;
 - b) les valeurs limites spécifiées à l’annexe V à l’égard de chaque source fixe nouvelle entrant dans une catégorie de grandes sources fixes. Toute Partie peut, sinon, appliquer des stratégies de réduction des émissions différentes qui aboutissent globalement à des niveaux d’émission équivalents;
-- c) les meilleures techniques disponibles, en prenant en considération l’annexe III, à l’égard de chaque source fixe existante entrant dans une catégorie de grandes sources fixes pour laquelle les meilleures techniques disponibles sont définies à l’annexe III. Toute Partie peut, sinon, appliquer des stratégies de réduction des émissions différentes qui aboutissent globalement à des réductions des émissions équivalentes;
+- c)[^3-5] les meilleures techniques disponibles, en prenant en considération l’annexe III, à l’égard de chaque source fixe existante entrant dans une catégorie de grandes sources fixes pour laquelle les meilleures techniques disponibles sont définies dans un document d’orientation adopté par les Parties à une session de l’Organe exécutif. Toute Partie peut, sinon, appliquer des stratégies de réduction des émissions différentes qui aboutissent globalement à des réductions des émissions équivalentes;
 - d) les valeurs limites spécifiées à l’annexe V à l’égard de chaque source fixe existante entrant dans une catégorie de grandes sources fixes, pour autant que cela soit techniquement et économiquement possible. Toute Partie peut, sinon, appliquer des stratégies de réduction des émissions différentes qui aboutissent globalement à des réductions des émissions équivalentes.
 
 <sup>3.</sup> Chaque Partie applique à l’égard des produits des mesures de réglementation conformément aux conditions et dans les délais spécifiés à l’annexe VI.
 
 <sup>4.</sup> Chaque Partie devrait étudier la possibilité d’appliquer à l’égard des produits des mesures de gestion supplémentaires en prenant en considération l’annexe VII.
 
-<sup>5.</sup> Chaque Partie dresse et tient à jour des inventaires des émissions des métaux lourds énumérés à l’annexe I, en utilisant au minimum les méthodes spécifiées par l’Organe directeur de l’EMEP, si elle est située dans la zone géographique des activités de l’EMEP, ou en s’inspirant des méthodes mises au point dans le cadre du plan de travail de l’Organe exécutif, si elle est située en dehors de cette zone.
+<sup>5.</sup> Chaque Partie dresse et tient à jour des inventaires des émissions des métaux lourds énumérés à l’annexe I. Les Parties situées dans la zone géographique des activités de l’EMEP utilisent les méthodes spécifiées dans un texte de référence établi par l’Organe directeur de l’EMEP et adopté par les Parties à une session de l’Organe exécutif. Les Parties situées en dehors de la zone géographique des activités de l’EMEP s’inspirent des méthodes mises au point dans le cadre du plan de travail de l’Organe exécutif.[^3-6]
 
 <sup>6.</sup> Toute Partie qui, après avoir appliqué les par. 2 et 3 ci-dessus, ne parvient pas à se conformer aux dispositions du par. 1 ci-dessus pour l’un des métaux lourds énumérés à l’annexe I est exemptée des obligations qu’elle a contractées au titre du par. 1 ci-dessus pour ce métal lourd.
 
 <sup>7.</sup> Toute Partie dont la superficie totale est supérieure à 6 millions de km<sup>2</sup> est exemptée des obligations qu’elle a contractées au titre des al. b), c) et d) du par. 2 ci-dessus si elle peut démontrer que, huit ans au plus tard après la date d’entrée en vigueur du présent Protocole, elle aura réduit le total de ses émissions annuelles de chacun des métaux lourds énumérés à l’annexe I provenant des catégories de sources spécifiées à l’annexe II d’au moins 50 % par rapport au niveau des émissions provenant de ces catégories au cours de l’année de référence fixée conformément à l’annexe I. Toute Partie qui entend se prévaloir de ce paragraphe doit le préciser au moment où elle signe le présent Protocole ou y adhère.
+
+<sup>8.</sup> Chaque Partie participe activement aux programmes exécutés au titre de la Convention sur les effets de la pollution atmosphérique sur la santé et l’environnement et sur la surveillance atmosphérique et la modélisation.[^3-7]
+
+[^3-1]: Introduit par l’annexe ch. 6 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-2]: Introduit par l’annexe ch. 6 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-3]: Mise à jour par l’annexe ch. 3 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-4]: Mise à jour par l’annexe ch. 4 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-5]: Mise à jour par l’annexe ch. 5 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-6]: Mise à jour par l’annexe ch. 7 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-7]: Introduit par l’annexe ch. 8 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+
+#### Art. 3<sup>bis</sup>
+
+**Dispositions transitoires adaptables**[^3bis-1]
+
+<sup>1.</sup> Nonobstant les al. c et d du par. 2 de l’art. 3, une Partie à la Convention qui devient Partie au présent Protocole entre le 1<sup>er</sup> janvier 2014 et le 31 décembre 2019 peut recourir à des dispositions transitoires adaptables pour appliquer les meilleures techniques disponibles et les valeurs limites aux sources fixes existantes indiquées dans des catégories spécifiques de sources fixes dans les conditions précisées dans le présent article.
+
+<sup>2.</sup>
+
+Toute Partie choisissant de recourir aux dispositions transitoires adaptables au titre du présent article indique, dans son instrument de ratification, d’acceptation, d’approbation ou d’adhésion relatif au présent Protocole, les éléments suivants:
+
+- a) les catégories spécifiques de sources fixes indiquées à l’annexe II pour lesquelles elle choisit d’appliquer les dispositions transitoires adaptables, à condition que pas plus de quatre de ces catégories ne soient indiquées;
+- b) les sources fixes dont la construction ou la dernière modification substantielle a démarré avant 1990 ou toute autre année entre 1985 et 1995 (inclus), spécifiée par une Partie lors de la ratification, l’acceptation, l’approbation ou l’adhésion, qui remplissent les conditions requises pour bénéficier des dispositions transitoires adaptables comme prévu au par. 5, et
+- c) un plan de mise en œuvre conforme aux par. 3 et 4 et comprenant un calendrier pour la mise en œuvre totale des dispositions spécifiées.
+
+<sup>3.</sup> Une Partie applique, au minimum, les meilleures techniques disponibles pour les sources fixes existantes des catégories 1, 2, 5 et 7 de l’annexe II au plus tard dans les huit ans après l’entrée en vigueur du présent Protocole ou le 31 décembre 2022, la date la plus proche étant retenue, sous réserve des dispositions du par. 5.
+
+<sup>4.</sup> L’application par une Partie des meilleures techniques disponibles ou des valeurs limites à une source fixe existante ne peut en aucun cas être reportée après le 31 décembre 2030.
+
+<sup>5.</sup> S’agissant d’une ou de plusieurs sources indiquées conformément à l’al. b du par. 2, une Partie peut décider, au plus tard dans les huit ans à compter de l’entrée en vigueur du présent Protocole pour la Partie, ou le 31 décembre 2022, la date la plus proche étant retenue, la fermeture de la ou des sources en question. Une liste en sera communiquée dans le rapport suivant de la Partie conformément au par. 6. Les prescriptions relatives à l’application des meilleures techniques disponibles et des valeurs limites ne s’appliquent pas à cette ou ces sources, à condition que sa ou leur fermeture intervienne le 31 décembre 2030 au plus tard. Lorsque la ou les sources ne sont pas fermées à cette date, une Partie doit par la suite appliquer les meilleures techniques disponibles ou les valeurs limites applicables aux nouvelles sources dans la catégorie des sources applicables.
+
+<sup>6.</sup> Une Partie qui choisit de recourir aux dispositions transitoires adaptables au titre du présent article fournit au Secrétaire exécutif de la Commission un rapport triennal sur l’état d’avancement de l’application des meilleures techniques disponibles et des valeurs limites aux sources fixes entrant dans les catégories de sources fixes mentionnées conformément au présent article. Le Secrétaire exécutif de la Commission communique les rapports triennaux à l’Organe exécutif.
+
+[^3bis-1]: Introduit par l’annexe ch. 9 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 4
 
@@ -191,18 +226,34 @@ Les Parties, en mettant l’accent avant tout sur les métaux lourds énumérés
 
 Sous réserve de ses lois visant à préserver le caractère confidentiel de l’information commerciale:
 
-- a) chaque Partie, par l’intermédiaire du Secrétaire exécutif de la Commission, communique à l’Organe exécutif, à intervalles réguliers fixés par les Parties réunies au sein de l’Organe exécutif, des informations sur les mesures qu’elle a prises pour appliquer le présent Protocole;
-- b) chaque Partie située dans la zone géographique des activités de l’EMEP communique à l’EMEP, par l’intermédiaire du Secrétaire exécutif de la Commission, à intervalles réguliers fixés par l’Organe directeur de l’EMEP et approuvés par les Parties à une session de l’Organe exécutif, des informations sur les niveaux des émissions des métaux lourds énumérés à l’annexe I en utilisant au minimum à cet effet les méthodes et la résolution temporelle et spatiale spécifiées par l’Organe directeur de l’EMEP. Les Parties situées en dehors de la zone géographique des activités de l’EMEP mettent à la disposition de l’Organe exécutif des informations analogues si la demande leur en est faite. En outre, chaque Partie, selon qu’il convient, rassemble et communique des informations pertinentes sur ses émissions d’autres métaux lourds, en tenant compte des indications données par l’Organe directeur de l’EMEP et l’Organe exécutif en ce qui concerne les méthodes et la résolution temporelle et spatiale.
+- a)[^7-1]
+
+  chaque Partie, par l’intermédiaire du Secrétaire exécutif de la Commission, communique à l’Organe exécutif, à intervalles réguliers fixés par les Parties réunies au sein de l’Organe exécutif, des informations sur les mesures qu’elle a prises pour appliquer le présent Protocole. De plus:
+
+  - i) lorsqu’une Partie applique des stratégies différentes de réduction des émissions au titre des al. b, c et d du par. 2 de l’art. 3, elle présente des documents décrivant ces stratégies et attestant son respect des obligations énoncées dans ces alinéas,
+  - ii) lorsqu’une Partie estime que certaines valeurs limites, telles que spécifiées conformément à l’al. d du par. 2 de l’art. 3, ne sont techniquement et économiquement pas applicables, elle le signale et fournit un justificatif.
+
+- b)[^7-2] chaque Partie située dans la zone géographique des activités de l’EMEP communique régulièrement à l’EMEP, par l’intermédiaire du Secrétaire exécutif de la Commission, des informations sur les niveaux des émissions de métaux lourds énumérés à l’annexe I, en utilisant les méthodes spécifiées dans un texte de référence établi par l’Organe directeur de l’EMEP et adopté par les Parties à une session de l’Organe exécutif. Les Parties situées en dehors de la zone géographique des activités de l’EMEP communiquent les informations disponibles sur les niveaux des émissions de métaux lourds énumérés à l’annexe I. Chaque Partie fournit aussi des informations sur les niveaux des émissions des substances énumérées à l’annexe I pour l’année de référence spécifiée dans cette annexe;
+- c)[^7-3] chaque Partie située dans la zone géographique des activités de l’EMEP devrait, par l’intermédiaire du Secrétaire exécutif de la Commission, communiquer à l’Organe exécutif les informations dont elle dispose au sujet de ses programmes, exécutés au titre de la Convention, sur les effets de la pollution atmosphérique sur la santé et l’environnement et sur la surveillance atmosphérique et la modélisation conformément au texte de référence adopté par l’Organe exécutif;
+- d)[^7-4] les Parties situées en dehors de la zone géographique des activités de l’EMEP devraient communiquer les informations analogues à celles visées à l’al. c dont elles disposent si l’Organe exécutif leur en fait la demande.
 
 <sup>2.</sup> Les informations à communiquer en application de l’al. a) du par. 1 ci-dessus seront conformes à la décision relative à la présentation et à la teneur des communications, que les Parties adopteront à une session de l’Organe exécutif. Les termes de cette décision seront revus, selon qu’il conviendra, pour déterminer tout élément à y ajouter concernant la présentation ou la teneur des informations à communiquer.
 
-<sup>3.</sup> En temps voulu avant chaque session annuelle de l’Organe exécutif, l’EMEP fournit des informations sur le transport à longue distance et les dépôts de métaux lourds.
+<sup>3.</sup> À la demande de l’Organe exécutif et conformément aux délais qu’il a fixés, l’EMEP et les autres organes subsidiaires fournissent des informations pertinentes sur le transport à longue distance et les dépôts de métaux lourds.[^7-5]
+
+[^7-1]: Mise à jour par l’annexe ch. 10 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^7-2]: Nouvelle teneur selon l’annexe ch. 11 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^7-3]: Introduite par l’annexe ch. 12 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^7-4]: Introduite par l’annexe ch. 12 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^7-5]: Mise à jour par l’annexe ch. 13 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 8
 
 **Calculs**
 
-L’EMEP, en utilisant des modèles et des mesures appropriés, fournit à l’Organe exécutif, en temps voulu avant chacune de ses sessions annuelles, des calculs des flux transfrontières et des dépôts de métaux lourds à l’intérieur de la zone géographique de ses activités. En dehors de la zone géographique des activités de l’EMEP, les Parties à la Convention utiliseront des modèles adaptés à leur situation particulière.
+À la demande de l’Organe exécutif et conformément aux délais qu’il a fixés, l’EMEP et ses organes et centres techniques, en utilisant des modèles et des mesures appropriés, lui fournissent, des calculs des flux transfrontières et des dépôts de métaux lourds à l’intérieur de la zone géographique de ses activités. En dehors de la zone géographique des activités de l’EMEP, les Parties à la Convention utiliseront des modèles adaptés à leur situation particulière.[^8-1]
+
+[^8-1]: Mise à jour par l’annexe ch. 14 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 9
 
@@ -231,7 +282,9 @@ Le respect par chaque Partie des obligations qu’elle a contractées en vertu d
 
 - c) les modalités, les méthodes et le calendrier de ces examens sont arrêtés par les Parties à une session de l’Organe exécutif.
 
-<sup>4.</sup> Les Parties, se fondant sur la conclusion de l’examen visé au par. 3 ci-dessus, élaborent, aussi vite que possible après l’achèvement de cet examen, un plan de travail concernant les nouvelles mesures à prendre pour réduire les émissions dans l’atmosphère des métaux lourds énumérés à l’annexe I.
+<sup>4.</sup> Les Parties, se fondant sur la conclusion de l’examen visé au par. 3 ci-dessus, envisagent d’élaborer, aussi vite que possible après l’achèvement de cet examen, un plan de travail concernant les nouvelles mesures à prendre.[^10-1]
+
+[^10-1]: Mise à jour par l’annexe ch. 15 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 11
 
@@ -268,11 +321,23 @@ Les annexes du présent Protocole font partie intégrante du Protocole. Les anne
 
 <sup>2.</sup> Les amendements proposés sont soumis par écrit au Secrétaire exécutif de la Commission, qui les communique à toutes les Parties. Les Parties réunies au sein de l’Organe exécutif examinent les propositions d’amendements à sa session suivante, pour autant que le Secrétaire exécutif les ait transmises aux Parties au moins quatre-vingt-dix jours à l’avance.
 
-<sup>3.</sup> Les amendements au présent Protocole et aux annexes I, II, IV, V et VI sont adoptés par consensus par les Parties présentes à une session de l’Organe exécutif et entrent en vigueur à l’égard des Parties qui les ont acceptés le quatre-vingt-dixième jour qui suit la date à laquelle deux tiers des Parties ont déposé leur instrument d’acceptation de ces amendements auprès du Dépositaire. Les amendements entrent en vigueur à l’égard de toute autre Partie le quatre-vingt-dixième jour qui suit la date à laquelle ladite Partie a déposé son instrument d’acceptation des amendements.
+<sup>3.</sup> Les amendements au présent Protocole et aux annexes autres que III et VII sont adoptés par consensus par les Parties présentes à une session de l’Organe exécutif et entrent en vigueur à l’égard des Parties qui les ont acceptés le quatre-vingt-dixième jour qui suit la date à laquelle deux tiers de celles qui étaient Parties au moment de leur adoption ont déposé leur instrument d’acceptation de ces amendements auprès du Dépositaire. Les amendements entrent en vigueur à l’égard de toute autre Partie le quatre-vingt-dixième jour qui suit la date à laquelle ladite Partie a déposé son instrument d’acceptation des amendements.[^13-1]
 
-<sup>4.</sup> Les amendements aux annexes III et VII sont adoptés par consensus par les Parties présentes à une session de l’Organe exécutif. À l’expiration d’un délai de quatre-vingt-dix jours à compter de la date à laquelle le Secrétaire exécutif de la Commission l’a communiqué à toutes les Parties, tout amendement à l’une ou l’autre de ces annexes prend effet à l’égard des Parties qui n’ont pas soumis de notification au Dépositaire conformément aux dispositions du par. 5 ci-après, à condition que seize Parties au moins n’aient pas soumis cette notification.
+<sup>4.</sup> Les amendements aux annexes III et VII sont adoptés par consensus par les Parties présentes à une session de l’Organe exécutif. À l’expiration d’un délai de 180 jours à compter de la date à laquelle le Secrétaire exécutif de la Commission l’a communiqué à toutes les Parties, tout amendement à l’une ou l’autre de ces annexes prend effet à l’égard des Parties qui n’ont pas soumis de notification au Dépositaire conformément aux dispositions du par. 5 ci-après, à condition que seize Parties au moins n’aient pas soumis cette notification.[^13-2]
 
-<sup>5.</sup> Toute Partie qui n’est pas en mesure d’approuver un amendement à l’annexe III ou VII en donne notification au Dépositaire par écrit dans un délai de quatre-vingt-dix jours à compter de la date de la communication de son adoption. Le Dépositaire informe sans retard toutes les Parties de la réception de cette notification. Une Partie peut à tout moment substituer une acceptation à sa notification antérieure et, après le dépôt d’un instrument d’acceptation auprès du Dépositaire, l’amendement à cette annexe prend effet à l’égard de cette Partie.
+<sup>5.</sup> Toute Partie qui n’est pas en mesure d’approuver un amendement à l’annexe III ou VII en donne notification au Dépositaire par écrit dans un délai de 180 jours à compter de la date de la communication de son adoption. Le Dépositaire informe sans retard toutes les Parties de la réception de cette notification. Une Partie peut à tout moment substituer une acceptation à sa notification antérieure et, après le dépôt d’un instrument d’acceptation auprès du Dépositaire, l’amendement à cette annexe prend effet à l’égard de cette Partie.[^13-3]
+
+5<sup>bis</sup>. Pour les Parties qui l’ont acceptée, la procédure définie au par. 5<sup>ter</sup> ci‑après remplace celle définie au par. 3 ci-dessus en ce qui concerne les amendements aux annexes II, IV, V et VI.[^13-4]
+
+5<sup>ter</sup>. Les amendements aux annexes II, IV, V et VI sont adoptés par consensus par les Parties présentes à une session de l’Organe exécutif. A l’expiration d’un délai d’un an à compter de la date de sa communication à toutes les Parties par le Secrétaire exécutif de la Commission, un amendement à l’une quelconque de ces annexes prend effet à l’égard des Parties qui n’ont pas soumis de notification au Dépositaire conformément aux dispositions de l’al. a:
+
+- a) toute Partie qui n’est pas en mesure d’approuver un amendement aux annexes II, IV, V et VI en donne notification au Dépositaire par écrit dans un délai d’un an à compter de la date de la communication de son adoption. Le Dépositaire informe sans retard toutes les Parties de la réception de cette notification. Une Partie peut à tout moment substituer une acceptation à sa notification antérieure et, après le dépôt d’un instrument d’acceptation auprès du Dépositaire, l’amendement à cette annexe prend effet pour cette Partie;
+- b)
+
+  tout amendement aux annexes II, IV, V et VI n’entre pas en vigueur si 16 Parties au moins:
+
+  - i) ont soumis une notification conformément aux dispositions de l’al. a, ou
+  - ii) n’ont pas accepté la procédure définie dans ce paragraphe et n’ont pas encore déposé un instrument d’acceptation conformément aux dispositions du par. 3 ci-dessus.[^13-5]
 
 <sup>6.</sup>
 
@@ -282,6 +347,12 @@ S’il s’agit d’une proposition visant à modifier l’annexe I, VI ou VII e
 - b) les Parties évaluent la proposition conformément aux procédures définies dans la décision 1998/1 de l’Organe exécutif et dans tout amendement y relatif.
 
 <sup>7.</sup> Toute décision visant à modifier la décision 1998/1 de l’Organe exécutif est adoptée par consensus par les Parties réunies au sein de l’Organe exécutif et prend effet soixante jours après la date de son adoption.
+
+[^13-1]: Mise à jour par l’annexe ch. 16 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^13-2]: Mise à jour par l’annexe ch. 17 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^13-3]: Mise à jour par l’annexe ch. 18 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^13-4]: Introduit par l’annexe ch. 19 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^13-5]: Introduit par l’annexe ch. 19 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 14
 
@@ -298,6 +369,10 @@ S’il s’agit d’une proposition visant à modifier l’annexe I, VI ou VII e
 <sup>1.</sup> Le présent Protocole est soumis à la ratification, à l’acceptation ou à l’approbation des Signataires.
 
 <sup>2.</sup> Le présent Protocole est ouvert à l’adhésion des États et des organisations qui remplissent les conditions énoncées au par. 1 de l’art. 14 à compter du 21 décembre 1998.
+
+<sup>3.</sup> Tout État ou organisation d’intégration économique régionale qui ne souhaite pas être lié par la procédure définie au par. 5<sup>ter</sup> de l’art. 13 au sujet de l’amendement des annexes II, IV, V et VI le déclare dans son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.[^15-1]
+
+[^15-1]: Introduit par l’annexe ch. 20 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 16
 
@@ -338,9 +413,11 @@ Annexe I
 <tr><td>Mercure (Hg)</td><td>1990, ou toute autre année entre 1985 et 1995 (inclus) spécifiée par une Partie lors de la ratification, acceptation, approbation ou adhésion.</td></tr>
 </table>
 
-Annexe II
+Annexe II*[^t-2]*
 
 ## Catégorie des sources fixes
+
+[^t-2]: Mise à jour par l’annexe ch. 21 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 ### I. Introduction
 
@@ -356,7 +433,7 @@ Annexe II
 <tr><td>2</td><td>Installations de grillage ou d’agglomération de minerais (y compris de minerais sulfurés) ou de concentrés d’une capacité supérieure à 150 tonnes/jour d’aggloméré pour le minerai de fer ou le concentré et 30 tonnes/jour d’aggloméré en cas de grillage de cuivre, de plomb ou de zinc ou pour tout traitement de minerais d’or et de mercure.</td></tr>
 <tr><td>3</td><td>Fonderies et aciéries (première ou deuxième fusion, notamment dans des fours à arc), y compris en coulée continue, d’une capacité supérieure à 2,5 tonnes/heure.</td></tr>
 <tr><td>4</td><td>Fonderies de métaux ferreux ayant une capacité de production supérieure à 20 tonnes/jour.</td></tr>
-<tr><td>5</td><td>Installations de production de cuivre, de plomb et de zinc à partir de minerais, de concentrés ou de matières premières de récupération par des procédés métallurgiques, d’une capacité supérieure à 30 tonnes/jour de métal dans le cas d’installations de production primaire et à 15 tonnes/jour dans le cas d’installations de production secondaire ou de toute installation de production primaire de mercure.</td></tr>
+<tr><td>5</td><td>Installations de production de cuivre, de plomb, de zinc et d’alliages de silico- et ferro-manganèse à partir de minerais, de concentrés ou de matières premières de récupération par des procédés métallurgiques, d’une capacité supérieure à 30 tonnes/jour de métal dans le cas d’installations de production primaire et à 15 tonnes/jour dans le cas d’installations de production secondaire ou de toute installation de production primaire de mercure.</td></tr>
 <tr><td>6</td><td>Installations de fusion (affinage, moulages de fonderie, etc.), notamment pour les alliages du cuivre, du plomb et du zinc, y compris les produits de récupération, d’une capacité supérieure à 4 tonnes/jour pour le plomb ou à 20 tonnes/jour pour le cuivre et le zinc.</td></tr>
 <tr><td>7</td><td>Installations de production de clinker de ciment dans des fours rotatifs d’une capacité de production supérieure à 500 tonnes/jour ou dans d’autres fours d’une capacité de production supérieure à 50 tonnes/jour.</td></tr>
 <tr><td>8</td><td>Fabriques de verre au plomb, y compris de fibre de verre, d’une capacité de fusion supérieure à 20 tonnes/jour.</td></tr>
@@ -365,11 +442,11 @@ Annexe II
 <tr><td>11</td><td>Installations d’incinération de déchets urbains d’une capacité supérieure à 3 tonnes/heure ou installations de co-incinération de déchets urbains spécifiés conformément à la législation nationale.</td></tr>
 </table>
 
-Annexe III*[^t-2]*
+Annexe III*[^t-3]*
 
 ## Meilleures techniques disponibles pour lutter contre les émissions de métaux lourds et de leurs composés provenant des catégories de sources énumérées à l’annexe II
 
-[^t-2]: Nouvelle teneur selon la D n° 2012/6 du 13 déc. 2012, en vigueur depuis le 9 janvier 2014 ([RO 2014 4711](https://fedlex.data.admin.ch/eli/oc/2014/796)).
+[^t-3]: Nouvelle teneur selon la D n° 2012/6 du 13 déc. 2012, en vigueur depuis le 9 janvier 2014 ([RO 2014 4711](https://fedlex.data.admin.ch/eli/oc/2014/796)).
 
 \1. La présente annexe vise à donner aux Parties des indications pour déterminer les meilleures techniques disponibles applicables aux sources fixes afin de leur permettre de s’acquitter des obligations découlant du Protocole. Une description plus complète de ces meilleures techniques disponibles ainsi que des conseils les concernant sont fournis dans un document d’orientation adopté par les Parties à une session de l’Organe exécutif et peuvent être actualisés selon que de besoin par consensus par les Parties réunies au sein de l’Organe exécutif.
 
@@ -398,117 +475,236 @@ La notion de MTD ne vise pas à prescrire une technique ou une technologie parti
 
 \4. L’expérience que l’on a des installations et des produits nouveaux qui font appel à des techniques peu polluantes, ainsi que de la mise à niveau des installations existantes, s’accroît sans cesse; il se peut donc que le document d’orientation mentionné au par. 1 doive être actualisé.
 
-Annexe IV
+Annexe IV*[^t-4]*
 
 ## Délais d’application des valeurs limites et des meilleures techniques disponibles pour les sources fixes nouvelles et les sources fixés existantes
 
-Les délais d’application des valeurs limites et des meilleures techniques disponibles sont les suivants:
+[^t-4]: Mise à jour par l’annexe ch. 22 à 25 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
-- a) Pour les sources fixes nouvelles: deux ans après la date d’entrée en vigueur du présent Protocole;
-- b) Pour les sources fixes existantes: huit ans après la date d’entrée en vigueur du présent Protocole. Au besoin, ce délai pourra être prolongé pour des sources fixes particulières existantes conformément au délai d’amortissement prévu à cet égard par la législation nationale.
+\1. Les délais d’application des valeurs limites et des meilleures techniques disponibles sont les suivants:
 
-Annexe V
+- a) Pour les sources fixes nouvelles: deux ans après la date d’entrée en vigueur du présent Protocole pour une Partie;
+- b) Pour les sources fixes existantes: deux ans après la date d’entrée en vigueur du présent Protocole pour une Partie ou le 31 décembre 2020, la date la plus éloignée étant retenue.
+
+\2. Nonobstant les dispositions du par. 1, mais sous réserve de celles du par. 3, une Partie à la Convention qui devient Partie au présent Protocole entre le 1<sup>er</sup> janvier 2014 et le 31 décembre 2019, peut déclarer lors de sa ratification, acceptation ou approbation du présent Protocole ou de son adhésion à cet instrument, qu’elle prorogera les délais d’application des valeurs limites énoncées à l’al. d du par. 2 de l’art. 3 jusqu’à quinze ans après la date d’entrée en vigueur du présent Protocole pour la Partie en question.
+
+\3. Une Partie qui a procédé à un choix conformément à l’art. 3<sup>bis</sup> du présent Protocole en ce qui concerne une catégorie particulière de source fixe ne peut faire aussi une déclaration au titre du par. 2 concernant la même catégorie de source.
+
+Annexe V*[^t-5]*
 
 ## Valeurs limites aux fins de la lutte contre les émissions provenant de grandes sources fixes
 
-### I. Introduction
+[^t-5]: Nouvelle teneur selon l’annexe ch. 26 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 \1. Deux types de valeur limite sont importants aux fins de la lutte contre les émissions de métaux lourds:
 
-- – Les valeurs applicables à des métaux lourds ou groupes de métaux lourds particuliers;
-- – Les valeurs applicables aux émissions de particules en général.
+- a) les valeurs applicables à des métaux lourds ou groupes de métaux lourds particuliers, et
+- b) les valeurs applicables aux émissions de particules en général.
 
-\2. En principe, les valeurs limites pour les matières particulaires ne sauraient remplacer les valeurs limites spécifiques pour le cadmium, le plomb et le mercure, car la quantité de métaux associés aux émissions de particules varie d’un procédé à l’autre. Cependant, le respect de ces limites contribue sensiblement à réduire les émissions de métaux lourds en général. En outre, la surveillance des émissions de particules est généralement moins coûteuse que la surveillance de telle ou telle substance, et en général la surveillance continue de différents métaux lourds n’est matériellement pas possible. En conséquence, les valeurs limites pour les particules présentent un grand intérêt pratique et sont également énoncées dans la présente annexe, le plus souvent pour compléter ou remplacer les valeurs limites spécifiques applicables au cadmium, au plomb ou au mercure.
+\2. En principe, les valeurs limites pour les particules ne sauraient remplacer les valeurs limites spécifiques pour le cadmium, le plomb et le mercure car la quantité de métaux associés aux émissions de particules varie d’un procédé à l’autre. Cependant, le respect de ces limites contribue sensiblement à réduire les émissions de métaux lourds en général. En outre, la surveillance des émissions de particules est généralement moins coûteuse que celle de telle ou telle substance, et en général la surveillance continue des métaux lourds pris séparément n’est matériellement pas possible. En conséquence, les valeurs limites pour les particules présentent un grand intérêt pratique et sont également énoncées dans la présente annexe, le plus souvent pour compléter les valeurs limites spécifiques applicables au cadmium, au plomb ou au mercure.
 
-\3. Les valeurs limites, exprimées en mg/m<sup>3</sup>, se rapportent aux conditions normales (volume à 273,15 K, 101,3 kPa, gaz secs) et sont calculées sous forme de valeur moyenne des mesures relevées toutes les heures pendant plusieurs heures d’exploitation, soit 24 heures en règle générale. Les périodes de démarrage et d’arrêt devraient être exclues. La période servant au calcul des moyennes peut, au besoin, être prolongée pour que la surveillance donne des résultats suffisamment précis. En ce qui concerne la teneur en oxygène des rejets de gaz, on appliquera les valeurs données pour certaines grandes sources fixes. Toute dilution, en vue de diminuer les concentrations des polluants dans les gaz rejetés, est interdite. Les valeurs limites pour les métaux lourds s’appliquent aux trois états du métal et de ses composés – solide, gaz et vapeur – exprimés en masse de métal. Lorsqu’on donne des valeurs limites pour les émissions totales, exprimées en g/unité de production ou de capacité, elles correspondent à la somme des émissions de gaz de combustion et des émissions fugaces, calculée en valeur annuelle.
+\3. La section A s’applique aux Parties autres que les États-Unis d’Amérique. La partie B s’applique aux États-Unis d’Amérique.
 
-\4. Si un dépassement des valeurs limites données ne peut être exclu, il faut surveiller les émissions ou un paramètre de performance qui indique si un dispositif antipollution est correctement utilisé et entretenu. La surveillance des émissions ou des indicateurs de performance devrait avoir un caractère continu si le débit massique des particules émises est supérieur à 10 kg/h. En cas de surveillance des émissions, les concentrations de polluants atmosphériques dans les effluents canalisés doivent être mesurées de façon représentative. Si les matières particulaires sont surveillées de manière discontinue, les concentrations devraient être mesurées à intervalles réguliers, avec au moins trois relevés indépendants par vérification. Les méthodes de prélèvement et d’analyse d’échantillons de tous les polluants, ainsi que les méthodes de mesure de référence servant à étalonner les systèmes de mesure automatisés, devront être conformes aux normes fixées par le Comité européen de normalisation (CEN) ou par l’Organisation internationale de normalisation (ISO). En attendant la mise au point des normes CEN ou ISO, il y aura lieu d’appliquer les normes nationales. Les normes nationales peuvent aussi être appliquées si elles donnent les mêmes résultats que les normes CEN ou ISO.
+### A. Parties autres que les États-Unis d’Amérique
 
-\5. En cas de surveillance continue, les valeurs limites sont respectées si aucune des valeurs de concentration moyenne des émissions calculées sur 24 heures ne dépasse la valeur limite ou si la valeur moyenne calculée sur 24 heures du paramètre surveillé ne dépasse pas la valeur corrélée de ce paramètre obtenue à l’occasion d’un essai de fonctionnement au cours duquel le dispositif antipollution était correctement utilisé et entretenu. En cas de surveillance discontinue des émissions, les valeurs limites sont respectées si la moyenne des relevés par vérification ne dépasse pas la valeur limite. Chacune des valeurs limites exprimées par le total des émissions par unité de production ou le total des émissions annuelles est respectée si la valeur surveillée n’est pas dépassée, comme indiqué plus haut.
+\4. Dans la présente section uniquement, on entend par «poussières» la masse des particules, de quelque forme, structure ou densité que ce soit, dispersées dans la phase gazeuse au point d’échantillonnage qui peuvent être recueillies par filtration dans certaines conditions après échantillonnage représentatif du gaz à analyser et restent en amont du filtre et sur le filtre après séchage dans certaines conditions.
 
-### II. Valeurs limites particulières pour certaines grandes sources fixes
+\5. Aux fins de la présente section, on entend par «valeur limite d’émission» (VLE) ou «valeur limite» la quantité de poussières et de certains métaux lourds visés par le présent Protocole contenue dans les gaz résiduaires d’une installation, qui ne doit pas être dépassée. Sauf indication contraire, elle est calculée en masse de polluant par volume de gaz résiduaires (et exprimée en mg/m<sup>3</sup>), en supposant des conditions normales de température et de pression pour des gaz secs (volume à 273,15 K, 101,3 kPa). En ce qui concerne la teneur en oxygène des gaz résiduaires, on retient les valeurs données pour des catégories choisies de grandes sources fixes. La dilution effectuée dans le but de diminuer les concentrations de polluants dans les gaz résiduaires n’est pas autorisée. Les phases de démarrage et d’arrêt et les opérations d’entretien du matériel sont exclues.
 
-Combustion de combustibles fossiles (annexe II, catégorie 1):
+\6. Les émissions sont surveillées dans tous les cas au moyen de mesures ou de calculs présentant au moins le même degré de précision. Le respect des valeurs limites est vérifié au moyen de mesures en continu ou intermittentes, ou de toute autre méthode techniquement valable, y compris des méthodes de calcul vérifiées. Des mesures des métaux lourds en cause sont réalisées au moins une fois tous les trois ans pour chaque source industrielle. Il est tenu compte des documents d’orientation relatifs aux méthodes de mesure et de calcul qui ont été adoptés par les Parties à la session de l’Organe exécutif. En cas de mesures en continu, la valeur limite est respectée si la moyenne mensuelle validée des émissions ne dépasse pas la VLE. En cas de mesures intermittentes ou d’autres procédures appropriées de détermination ou de calcul, les VLE sont respectées si la valeur moyenne déterminée en fonction d’un nombre approprié de mesures effectuées dans des conditions représentatives ne dépasse pas la valeur de la norme d’émission. L’imprécision des méthodes de mesure peut être prise en compte aux fins de vérification. Une surveillance indirecte des substances est également possible à l’aide de paramètres de somme/cumulatifs (par exemple la poussière comme paramètre de somme pour les métaux lourds). Dans certains cas, le recours à une technique donnée de traitement des émissions permet de maintenir ou d’atteindre une valeur/valeur limite.
 
-\6. Les valeurs limites correspondent à une concentration de 6 % de O<sub>2</sub> dans les gaz de combustion pour les combustibles solides et de 3 % de O<sub>2</sub> pour les combustibles liquides.
+\7. La surveillance des substances polluantes pertinentes et les mesures des paramètres de fonctionnement, ainsi que l’assurance qualité des systèmes automatisés de mesure et les mesures de référence pour l’étalonnage de ces systèmes, sont conformes aux normes fixées par le Comité européen de normalisation (CEN). A défaut de celles-ci, ce sont les normes de l’Organisation internationale de normalisation (ISO) ou des normes nationales ou internationales garantissant la communication de données d’une qualité scientifique équivalente qui s’appliquent.
 
-\7. Valeur limite pour les émissions de particules provenant de combustibles solides et liquides: 50 mg/m<sup>3</sup>.
+Installations de combustion (chaudières et récupérateurs de chaleur industrielle) d’une puissance thermique nominale supérieure à 50 MWth**[^annexV-lvlu1-lvlA-1]** (annexe II, catégorie 1)
 
-Ateliers d’agglomération (annexe II, catégorie 2):
+\8. Valeurs limites pour les émissions de poussières provenant de la combustion de combustibles solides et liquides, autres que la biomasse et la tourbe[^annexV-lvlu1-lvlA-2]:
 
-\8. Valeur limite pour les émissions de particules: 50 mg/m<sup>3</sup>.
+Tableau 1
 
-Ateliers de boulettage (annexe II, catégorie 2):
+<table>
+<tr><th>Type de combustible</th><th>Puissance thermique (MWth)</th><th>VLE pour les poussières (mg/m<sup>3</sup>)<sup>a</sup></th></tr>
+<tr><td>Combustibles solides</td><td>50–100</td><td>Installations nouvelles: 20 (charbon, lignite et autres combustibles solides) Installations existantes: 30 (charbon, lignite et autres combustibles solides)</td></tr>
+<tr><td></td><td>100–300</td><td>Installations nouvelles: 20 (charbon, lignite et autres combustibles solides) Installations existantes: 25 (charbon, lignite et autres combustibles solides)</td></tr>
+<tr><td></td><td>&gt;300</td><td>Installations nouvelles: 10 (charbon, lignite et autres combustibles solides) Installations existantes: 20 (charbon, lignite et autres combustibles solides)</td></tr>
+<tr><td>Combustibles liquides</td><td>50–100</td><td>Installations nouvelles: 20 Installations existantes: 30 (en général) 50 pour les installations de combustion au sein de raffineries qui utilisent des résidus de distillation et de conversion provenant du raffinage du pétrole brut pour leur consommation propre</td></tr>
+<tr><td></td><td>100–300</td><td>Installations nouvelles: 20 Installations existantes: 25 (en général) 50 pour les installations de combustion au sein de raffineries qui utilisent des résidus de distillation et de conversion provenant du raffinage du pétrole brut pour leur consommation propre</td></tr>
+<tr><td></td><td>&gt;300</td><td>Installations nouvelles: 10 Installations existantes: 20 (en général) 50 pour les installations de combustion au sein de raffineries qui utilisent des résidus de distillation et de conversion provenant du raffinage du pétrole brut pour leur consommation propre</td></tr>
+<tr><td colspan="3"><sup>a</sup> Les valeurs limites se rapportent à une teneur en oxygène de 6 % pour les combustibles solides et de 3 % pour les combustibles liquides.</td></tr>
+</table>
 
-\9. Valeur limite pour les émissions de particules:
+\9. Dispositions particulières pour les installations de combustion visées au par. 8:
 
-- a) Concassage, séchage: 25 mg/m<sup>3</sup>; et
-- b) Boulettage: 25 mg/m<sup>3</sup>; ou
+- a)
 
-\10. Valeur limite pour le total des émissions de particules: 40 g/Mg de boulettes produites.
+  Une Partie peut dispenser l’installation de satisfaire aux VLE prévues au par. 8 dans les cas suivants:
 
-Hauts fourneaux (annexe II, catégorie 3):
+  - i) pour les installations de combustion utilisant habituellement du combustible gazeux qui doivent recourir exceptionnellement à d’autres combustibles en raison d’une interruption soudaine de l’approvisionnement en gaz et qui, pour cette raison, devraient être équipées d’un dispositif d’épuration des gaz résiduaires;
+  - ii) pour les installations de combustion existantes qui ne fonctionnent pas plus de 17 500 heures d’exploitation, à compter du 1<sup>er</sup> janvier 2016 et jusqu’au 31 décembre 2023 au plus tard.
 
-\11. Valeur limite pour les émissions de particules: 50 mg/m<sup>3</sup>.
+- b) Lorsque la capacité d’une installation de combustion est augmentée d’au moins 50 MWth, la VLE indiquée au par. 8 pour les installations nouvelles s’applique à l’extension touchée par la modification. La VLE retenue correspond à une moyenne pondérée en fonction de la puissance thermique effective de la partie existante et de la partie nouvelle de l’installation.
+- c) Les Parties veillent à ce que figurent des dispositions relatives aux procédures applicables en cas de dysfonctionnement ou de panne du dispositif antipollution.
+- d) Dans le cas d’une installation de combustion multicombustible dans laquelle deux combustibles ou plus sont utilisés simultanément, la VLE, qui représente la moyenne pondérée des VLE pour les différents combustibles, est déterminée sur la base de la puissance thermique fournie par chacun d’eux.
 
-Fours à arc (annexe II, catégorie 3):
+Sidérurgie primaire et secondaire (annexe II, catégories 2 et 3)
 
-\12. Valeur limite pour les émissions de particules: 20 mg/m<sup>3</sup>.
+\10. Valeurs limites pour les émissions de poussières:
 
-Production de cuivre et de zinc, y compris dans les fours “Imperial Smelting“ (annexe II, catégories 5 et 6):
+Tableau 2
 
-\13. Valeur limite pour les émissions de particules: 20 mg/m<sup>3</sup>.
+<table>
+<tr><td>Activité</td><td>VLE pour les poussières (mg/m<sup>3</sup>)</td></tr>
+<tr><td>Atelier d’agglomération</td><td>50</td></tr>
+<tr><td>Installation de production de pellets</td><td>20 pour le concassage, le broyage et le séchage 15 pour toutes les autres étapes du processus</td></tr>
+<tr><td>Hauts fourneaux: appareils Cowper</td><td>10</td></tr>
+<tr><td>Aciérie à l’oxygène – affinage et moulage</td><td>30</td></tr>
+<tr><td>Aciérie électrique – affinage et moulage</td><td>15 (installations existantes) 5 (installations nouvelles)</td></tr>
+</table>
 
-Production de plomb (annexe II, catégories 5 et 6):
+Fonderies (annexe II, catégorie 4)
 
-\14. Valeur limite pour les émissions de particules: 10 mg/m<sup>3</sup>.
+\11. Valeurs limites pour les émissions de poussières provenant des fonderies:
 
-Industrie du ciment (annexe II, catégorie 7):
+Tableau 3
 
-\15. Valeur limite pour les émissions de particules: 50 mg/m<sup>3</sup>.
+<table>
+<tr><td>Activité</td><td>VLE pour les poussières (mg/m<sup>3</sup>)</td></tr>
+<tr><td>Fonderies: Tous types de fours (cubilots, fours à induction, fours rotatifs); tous types de moulages (perdus, permanents)</td><td>20</td></tr>
+<tr><td>Laminoirs à chaud</td><td>20 50 lorsque la présence de vapeurs humides a empêché l’application d’un filtre à manche</td></tr>
+</table>
 
-Industrie du verre (annexe II, catégorie 8):
+Production et transformation du cuivre, du zinc et des alliages de silico- et ferro-manganèse, y compris dans les fours «Imperial Smelting» (annexe II, catégories 5 et 6)
 
-\16. Les valeurs limites correspondent à des concentrations de O<sub>2</sub> dans les gaz de combustion dont la valeur varie selon le type de four: fours à cuve: 8 %; fours à creuset et fours à pot: 13 %.
+\12. Valeur limite pour les émissions de poussières provenant de la production et la transformation du cuivre, du zinc et des alliages de silico- et ferro-manganèse:
 
-\17. Valeur limite pour les émissions de plomb: 5 mg/m<sup>3</sup>.
+Tableau 4
 
-Industrie du chlore et de la soude caustique (annexe II, catégorie 9):
+<table>
+<tr><td>Activité</td><td>VLE pour les poussières (mg/m<sup>3</sup>)</td></tr>
+<tr><td>Production et transformation de métaux non ferreux</td><td>20</td></tr>
+</table>
 
-\18. Les valeurs limites se rapportent à la quantité totale de mercure rejetée dans l’atmosphère par une installation, quelle que soit la source d’émission, exprimée en valeur moyenne annuelle.
+Production et transformation du plomb (annexe II, catégories 5 et 6)
 
-\19. Les valeurs limites pour les installations existantes produisant du chlore et de la soude caustique seront évaluées par les Parties réunies au sein de l’Organe exécutif deux ans au plus tard après la date d’entrée en vigueur du présent Protocole.
+\13. Valeur limite pour les émissions de poussières provenant de la production et la transformation du plomb:
 
-\20. Valeur limite pour les installations nouvelles produisant du chlore et de la soude caustique: 0,01 g Hg/Mg de capacité de production de Cl<sub>2</sub>.
+Tableau 5
 
-Incinération des déchets urbains, médicaux et dangereux (annexe II, catégories 10 et 11):
+<table>
+<tr><td>Activité</td><td>VLE pour les poussières (mg/m<sup>3</sup>)</td></tr>
+<tr><td>Production et transformation du plomb</td><td>5</td></tr>
+</table>
 
-\21. Les valeurs limites correspondent à une concentration de 11 % de O<sub>2</sub> dans les gaz de combustion.
+Industrie du ciment (annexe II, catégorie 7)
 
-\22. Valeur limite pour les émissions de particules:
+\14. Valeurs limites pour les émissions de poussières provenant de l’industrie du ciment:
 
-- a) 10 mg/m<sup>3</sup> pour l’incinération des déchets dangereux et des déchets médicaux;
-- b) 25 mg/m<sup>3</sup> pour l’incinération des déchets urbains;
+Tableau 6
 
-\23. Valeur limite pour les émissions de mercure:
+<table>
+<tr><td>Activité</td><td>VLE pour les poussières (mg/m<sup>3</sup>)<sup>a</sup></td></tr>
+<tr><td>Installations productrices de ciment, fours, broyeurs et dispositifs de refroidissement du clinker</td><td>20</td></tr>
+<tr><td>Installations productrices de ciment, fours, broyeurs et dispositifs de refroidissement du clinker utilisant la coïncinération des déchets</td><td>20</td></tr>
+<tr><td colspan="2"><sup>a</sup> Les valeurs limites se rapportent à une teneur en oxygène de 10 %.</td></tr>
+</table>
 
-- a) 0,05 mg/m<sup>3</sup> pour l’incinération des déchets dangereux;
-- b) 0,08 mg/m<sup>3</sup> pour l’incinération des déchets urbains;
-- c) Les valeurs limites pour les émissions de mercure provenant de l’incinération des déchets médicaux seront évaluées par les Parties réunies au sein de l’Organe exécutif deux ans au plus tard après la date d’entrée en vigueur du présent Protocole.
+Industrie du verre (annexe II, catégorie 8)
 
-Annexe VI
+\15. Valeurs limites pour les émissions de poussières provenant de l’industrie du verre:
+
+Tableau 7
+
+<table>
+<tr><td>Activité</td><td>VLE pour les poussières (mg/m<sup>3</sup>)<sup>a</sup></td></tr>
+<tr><td>Installations nouvelles</td><td>20</td></tr>
+<tr><td>Installations existantes</td><td>30</td></tr>
+<tr><td colspan="2"><sup>a</sup> Les valeurs limites se rapportent à une teneur en oxygène de 8 % pour la fusion continue et de 13 % pour la fusion discontinue.</td></tr>
+</table>
+
+\16. Valeur limite pour les émissions de plomb dans la fabrication du verre: 5 mg/m<sup>3</sup>.
+
+Industrie du chlore et de la soude caustique (annexe II, catégorie 9)
+
+\17. Les installations existantes produisant du chlore et de la soude caustique au moyen du procédé à cathode de mercure doivent être converties de façon à utiliser une technologie sans mercure ou fermer d’ici au 31 décembre 2020; pendant la période précédant cette conversion, la limite applicable pour les émissions de mercure dans l’air d’une installation est de 1 g par Mg[^annexV-lvlu1-lvlA-3] de chlore produit.
+
+\18. Les installations nouvelles produisant du chlore et de la soude caustique n’utilisent pas de mercure.
+
+Incinération des déchets (annexe II, catégories 10 et 11)
+
+\19. Valeur limite pour les émissions de poussières provenant de l’incinération des déchets:
+
+Tableau 8
+
+<table>
+<tr><td>Activité</td><td>VLE pour les poussières (mg/m<sup>3</sup>)<sup>a</sup></td></tr>
+<tr><td>Incinération des déchets urbains non dangereux, dangereux et médicaux</td><td>10</td></tr>
+<tr><td colspan="2"><sup>a</sup> La valeur limite se rapporte à une teneur en oxygène de 11 %.</td></tr>
+</table>
+
+\20. Valeur limite pour les émissions de mercure produites par l’incinération des déchets: 0,05 mg/m<sup>3</sup>.
+
+\21. Valeur limite pour les émissions de mercure produites par la coïncinération des déchets dans les catégories de sources 1 et 7: 0,05 mg/m<sup>3</sup>.
+
+[^annexV-lvlu1-lvlA-1]: La puissance thermique nominale de l’installation de combustion est la somme de la puissance délivrée par toutes les unités rattachées à une cheminée commune. Les unités isolées de moins de 15 MWth ne sont pas prises en considération pour le calcul de la puissance thermique nominale totale.
+[^annexV-lvlu1-lvlA-2]: En particulier, les VLE ne s’appliquent pas aux : – Installations utilisant la biomasse et la tourbe comme unique source de combustible; – Installations dans lesquelles les produits de la combustion sont utilisés directement pour le chauffage, le séchage ou tout autre traitement d’objets ou de matériaux; – Installations de postcombustion servant à purifier les gaz résiduaires par combustion, qui ne fonctionnent pas comme des installations de combustion indépendantes; – Dispositifs de régénération des catalyseurs de craquage catalytique; – Installations utilisées pour la transformation du sulfure d’hydrogène en soufre; – Réacteurs utilisés dans l’industrie chimique; – Batteries de fours à coke; – Récupérateurs Cowper; – Chaudières de récupération dans les installations de production de pâte à papier; – Incinérateurs de déchets, et – Installations équipées de moteurs diesel, à essence ou à gaz ou de turbines à combustion, indépendamment du combustible utilisé.
+[^annexV-lvlu1-lvlA-3]: 1 Mg = 1 tonne.
+
+### B. États-Unis d’Amérique
+
+\22. Les valeurs limites aux fins de la lutte contre les émissions de particules et/ou de certains métaux lourds provenant de sources fixes appartenant aux catégories de sources fixes ci-après, ainsi que les sources auxquelles elles s’appliquent, sont spécifiées dans les documents suivants:
+
+- a) Aciéries: fours électriques à arc – C.F.R., titre 40, partie 60, sections AA et AAa;
+- b) Petits incinérateurs de déchets urbains – C.F.R., titre 40, partie 60, section AAAA;
+- c) Industrie du verre – C.F.R., titre 40, partie 60, section CC;
+- d) Générateurs de vapeur des compagnies publiques d’électricité – C.F.R., titre 40, partie 60, sections D et Da;
+- e) Générateurs de vapeur des secteurs industriel, commercial et institutionnel – C.F.R., titre 40, partie 60, sections Db et Dc;
+- f) Incinérateurs de déchets urbains – C.F.R., titre 40, partie 60, sections E, Ea et Eb;
+- g) Incinérateurs de déchets hospitaliers et médicaux/infectieux – C.F.R., titre 40, partie 60, section Ec;
+- h) Ciment Portland – C.F.R., titre 40, partie 60, section F;
+- i) Fonderies de plomb de deuxième coulée – C.F.R., titre 40, partie 60, section L;
+- j) Convertisseurs à oxygène – C.F.R., titre 40, partie 60, section N;
+- k) Installations sidérurgiques de base (après le 20 janvier 1983) – C.F.R., titre 40, partie 60, section Na;
+- l) Fonderies de cuivre de première coulée – C.F.R., titre 40, partie 60, section P;
+- m) Fonderies de zinc de première coulée – C.F.R., titre 40, partie 60, section Q;
+- n) Fonderies de plomb de première coulée – C.F.R., titre 40, partie 60, section R;
+- o) Installations de production de ferroalliages – C.F.R., titre 40, partie 60, section Z;
+- p) Autres installations d’incinération de déchets solides (après le 9 décembre 2004) – C.F.R., titre 40, partie 60, section EEEE;
+- q) Fonderies de plomb de deuxième coulée – C.F.R., titre 40, partie 63, section X;
+- r) Incinérateurs de déchets dangereux – C.F.R., titre 40, partie 63, section EEE;
+- s) Fabrication de ciment Portland – C.F.R., titre 40, partie 63, section LLL;
+- t) Cuivre de première coulée – C.F.R., titre 40, partie 63, section QQQ;
+- u) Fonte de plomb de première coulée – C.F.R., titre 40, partie 63, section TTT;
+- v) Fonderies de fonte et d’acier – C.F.R., titre 40, partie 63, section EEEEE;
+- w) Usines sidérurgiques intégrées – C.F.R., titre 40, partie 63, section FFFFF;
+- x) Installations sidérurgiques avec fours électriques à arc – C.F.R., titre 40, partie 63, section YYYYY;
+- y) Fonderies de fonte et d’acier – C.F.R., titre 40, partie 63, section ZZZZZ;
+- z) Fonte de cuivre de première coulée (sources diffuses) – C.F.R., titre 40, partie 63, section EEEEEE;
+- aa) Fonte de cuivre de deuxième coulée (sources diffuses) – C.F.R., titre 40, partie 63, section FFFFFF;
+- bb) Métaux non ferreux de première coulée (sources diffuses): zinc, cadmium et béryllium – C.F.R., titre 40, partie 63, section GGGGGG;
+- cc) Fabrication du verre (sources diffuses) – C.F.R., titre 40, partie 63, section SSSSSS;
+- dd) Fonderie de métaux non ferreux de deuxième coulée (sources diffuses) – C.F.R., titre 40, partie 63, section TTTTTT;
+- ee) Production de ferroalliages (sources diffuses) – C.F.R., titre 40, partie 63, section YYYYYY;
+- ff) Fonderies d’aluminium, de cuivre et de métaux et alliages non ferreux (sources diffuses) – C.F.R., titre 40, partie 63, section ZZZZZZ;
+- gg) Normes de rendement des installations de préparation et de transformation des charbons – C.F.R., titre 40, partie 60, section Y;
+- hh) Chaudières industrielles, commerciales et collectives et échangeurs de chaleur indirecte – C.F.R., titre 40, partie 63, section DDDDD;
+- ii) Chaudières industrielles, commerciales et collectives (sources diffuses) – C.F.R., titre 40, partie 63, section JJJJJJ;
+- jj) Installations à cathode de mercure pour la production de chlore et de soude caustique – C.F.R., titre 40, partie 63, section IIIII;
+- kk) Normes de rendement des installations commerciales et industrielles d’incinération de déchets solides dont la construction a démarré après le 30 novembre 1999 ou dont la modification ou la reconstruction a démarré au plus tôt le 1<sup>er</sup> juin 2001 – C.F.R., titre 40, partie 60, section CCCC.»
+
+Annexe VI*[^t-6]*
 
 ## Mesures de réglementation des produits
 
-\1. Sauf dispositions contraires de la présente annexe, six mois au plus tard après la date d’entrée en vigueur du présent Protocole, la teneur en plomb de l’essence commercialisée destinée aux véhicules routiers ne devra pas dépasser 0,013 g/l. Les Parties qui commercialisent de l’essence sans plomb contenant moins de 0,013 g/l de ce métal devront s’efforcer de maintenir cette teneur ou de l’abaisser.
+[^t-6]: Mise à jour par l’annexe ch. 27 à 30 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+
+\1. Au plus tard à la date d’entrée en vigueur du présent Protocole pour une Partie, la teneur en plomb de l’essence commercialisée destinée aux véhicules routiers ne devra pas dépasser 0,013 g/l. Les Parties qui commercialisent de l’essence sans plomb contenant moins de 0,013 g/l de ce métal devront s’efforcer de maintenir cette teneur ou de l’abaisser.
 
 \2. Chaque Partie tâchera de faire en sorte que le passage à des carburants dont la teneur en plomb est celle spécifiée au par. 1 ci-dessus se traduise par une réduction globale des effets nocifs sur la santé et l’environnement.
 
-\3. Lorsqu’un État constatera que le fait de limiter la teneur en plomb de l’essence commercialisée conformément au par. 1 ci-dessus entraînerait pour lui de graves problèmes socio-économiques ou techniques ou n’aurait pas d’effets bénéfiques globaux sur l’environnement ou la santé en raison, notamment, de sa situation climatique, il pourra prolonger le délai fixé dans ce paragraphe et le porter à 10 années au maximum; pendant cette période, il pourra commercialiser de l’essence au plomb dont la teneur en plomb ne dépassera pas 0,15 g/l. En pareil cas, l’État devra spécifier, dans une déclaration qui sera déposée en même temps que son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, qu’il a l’intention de prolonger le délai et expliquer par écrit à l’Organe exécutif les raisons de cette prolongation.
+\3. ...
 
-\4. Les Parties sont autorisées à commercialiser de petites quantités d’essence au plomb, dont la teneur en plomb ne dépasse pas 0,15 g/l, étant entendu que ces quantités, destinées aux véhicules routiers anciens, ne doivent pas représenter plus de 0,5 % du total de leurs ventes.
+\4. Nonobstant le par. 1, les Parties sont autorisées à commercialiser de petites quantités d’essence au plomb, dont la teneur en plomb ne dépasse pas 0,15 g/l, étant entendu que ces quantités, destinées aux véhicules routiers anciens, ne doivent pas représenter plus de 0,5 % du total de leurs ventes.
 
-\5. Chaque Partie, cinq ans au plus tard après l’entrée en vigueur du présent Protocole ou 10 ans au plus tard pour les pays en transition sur le plan économique qui auront fait part de leur intention d’opter pour un délai de 10 ans dans une déclaration déposée en même temps que leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, doit parvenir à des concentrations qui ne dépassent pas:
+\5. Chaque Partie, au plus tard à la date d’entrée en vigueur du présent Protocole pour cette Partie, parvient à des concentrations qui ne dépassent pas:
 
 - a) 0,05 % en poids de mercure dans les piles et accumulateurs alcalins au manganèse destinés à un usage prolongé dans des conditions extrêmes (p. ex. température inférieure à 0°C ou supérieure à 50°C, risque de chocs); et
 - b) 0,025 % en poids de mercure dans toutes les autres piles et accumulateurs au manganèse.
@@ -539,7 +735,7 @@ Annexe VII
 - f) Peintures contenant du mercure (les mesures prises comprennent l’interdiction de toutes ces peintures, l’interdiction de ces peintures pour une utilisation intérieure ou sur les jouets destinés aux enfants et l’interdiction de l’utilisation du mercure dans les peintures anticorrosion); et
 - g) Piles et accumulateurs contenant du mercure autres que ceux visés à l’annexe VI (les mesures prises comprennent la diminution de la teneur en mercure grâce à des programmes tant volontaires que réglementaires, la perception de taxes et redevances environnementales et des programmes volontaires de recyclage).
 
-Champ d’application le 10 mai 2017**[^t-3]**
+Champ d’application le 10 mai 2017**[^t-7]**
 
 <table>
 <tr><th>États parties</th><th>Adhésion (A) Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -561,7 +757,7 @@ Champ d’application le 10 mai 2017**[^t-3]**
 <tr><td>Liechtenstein\*</td><td>23 décembre</td><td>2003</td><td>22 mars</td><td>2004</td></tr>
 <tr><td>Lituanie</td><td>28 octobre</td><td>2004</td><td>26 janvier</td><td>2005</td></tr>
 <tr><td>Luxembourg\*</td><td>1<sup>er</sup> mai</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
-<tr><td>Macédoine</td><td>1<sup>er</sup> novembre</td><td>2010 A</td><td>30 janvier</td><td>2011</td></tr>
+<tr><td>Macédoine du Nord</td><td>1<sup>er</sup> novembre</td><td>2010 A</td><td>30 janvier</td><td>2011</td></tr>
 <tr><td>Moldova</td><td>1<sup>er</sup> octobre</td><td>2002</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>Monaco\*</td><td>13 novembre</td><td>2003 A</td><td>11 février</td><td>2004</td></tr>
 <tr><td>Montenegro</td><td>30 décembre</td><td>2011 A</td><td>29 mars</td><td>2012</td></tr>
@@ -577,8 +773,16 @@ Champ d’application le 10 mai 2017**[^t-3]**
 <tr><td>Suède</td><td>19 janvier</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>Suisse</td><td>14 novembre</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>Union européenne (UE)</td><td>3 mai</td><td>2001</td><td>29 décembre</td><td>2003</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l'exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141), [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644), [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493), [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141), [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+## Déclaration
+
+[^t-7]: [RO 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141); [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644); [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493); [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141); [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326); [2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+
+### Suisse
+
+La Suisse formule la déclaration suivante lors de l’acceptation, conformément à l’art. 13, par. 3, du Protocole:
+
+Conformément au par. 3 de l’art. 15 du Protocole tel que modifié, la Suisse déclare qu’elle ne souhaite pas être liée par la procédure définie au par. 5<sup>ter</sup> de l’art. 13 au sujet de l’amendement des annexes II, IV, V et VI.

@@ -3,11 +3,11 @@ sr: "0.814.326"
 title: Protokoll vom 24. Juni 1998 zu dem Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung betreffend Schwermetalle
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/141"
 language: de
-version: 2017-05-10
+version: 2022-02-08
 adopted: 1998-06-24
 in_force: 2003-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20170510/de/xml/fedlex-data-admin-ch-eli-cc-2004-141-20170510-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20170510/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20220208/de/xml/fedlex-data-admin-ch-eli-cc-2004-141-20220208-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20220208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20170510/de"
 
 AS **2004** 1191; BBl **2000** 3097
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Aarhus am 24. Juni 1998 Von der Bundesversammlung genehmigt am 19. September 2000[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 14. November 2000 In Kraft getreten für die Schweiz am 29. Dezember 2003
+Abgeschlossen in Aarhus am 24. Juni 1998 Von der Bundesversammlung genehmigt am 19. September 2000[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 14. November 2000 In Kraft getreten für die Schweiz am 29. Dezember 2003
 
-(Stand am 10. Mai 2017)
+(Stand am 8. Februar 2022)
 
-[^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-2]: [AS 2004 1189](https://fedlex.data.admin.ch/eli/oc/2004/140)
+[^t-1]: [AS 2004 1189](https://fedlex.data.admin.ch/eli/oc/2004/140)
 
 Die Vertragsparteien,
 
@@ -75,14 +74,14 @@ Im Sinne dieses Protokolls
 - 7\. bedeutet «Schwermetalle» die Metalle bzw. in einigen Fällen Metalloide, die beständig sind und eine Dichte grösser als 4,5 g/cm<sup>3</sup> aufweisen, sowie ihre Verbindungen;
 - 8\. bedeutet «Emission» die Freisetzung aus einer Punktquelle oder einer diffusen Quelle in die Atmosphäre;
 - 9\. bedeutet «ortsfeste Quelle» jedes feste Gebäude oder Bauwerk, jede feste Einrichtung, Anlage oder Ausrüstung, das bzw. die ein in Anhang I aufgeführtes Schwermetall direkt oder indirekt in die Atmosphäre freisetzt oder freisetzen kann;
-- 10\. bedeutet «neue ortsfeste Quelle» jede ortsfeste Quelle, deren Bau oder wesentliche Modifikation nach Ablauf von zwei Jahren nach dem Inkrafttreten
-  - i) dieses Protokolls oder
-  - ii) einer Änderung von Anhang I oder II begonnen wurde, wobei die ortsfeste Quelle erst auf Grund dieser Änderung unter dieses Protokoll fällt. Es ist Angelegenheit der zuständigen nationalen Behörden, unter Berücksichtigung solcher Faktoren wie des Umweltnutzens einer Modifikation zu entscheiden, ob diese wesentlich ist;
-
-- 11\. bedeutet «Kategorie grösserer ortsfester Quellen» jede Kategorie ortsfester Quellen, die in Anhang II aufgeführt ist und mindestens mit einem Prozent an den Gesamtemissionen eines in Anhang I aufgeführten Schwermetalls aus ortsfesten Quellen einer Vertragspartei für das gemäss Anhang I festgelegte Bezugsjahr beteiligt ist.
+- 10\.[^1-3] bedeutet «neue ortsfeste Quelle» jede ortsfeste Quelle, deren Bau oder wesentliche Modifikation nach Ablauf von zwei Jahren nach dem Inkrafttreten für eine Partei des vorliegenden Protokolls begonnen wurde. Eine Vertragspartei kann beschliessen, eine ortsfeste Quelle, die zum Zeitpunkt des Inkrafttretens des Protokolls für diese Vertragspartei bereits von den zuständigen nationalen Behörden genehmigt wurde, nicht als neue ortsfeste Quelle zu betrachten, vorausgesetzt, mit dem Bau oder der wesentlichen Veränderung wird innerhalb von fünf Jahren ab diesem Zeitpunkt begonnen. Es ist Angelegenheit der zuständigen nationalen Behörden, unter Berücksichtigung solcher Faktoren wie des Umweltnutzens einer Modifikation zu entscheiden, ob diese wesentlich ist;
+- 11\. bedeutet «Kategorie grösserer ortsfester Quellen» jede Kategorie ortsfester Quellen, die in Anhang II aufgeführt ist und mindestens mit einem Prozent an den Gesamtemissionen eines in Anhang I aufgeführten Schwermetalls aus ortsfesten Quellen einer Vertragspartei für das gemäss Anhang I festgelegte Bezugsjahr beteiligt ist;
+- [tab] 12.[^1-4] «dieses Protokoll», «das Protokoll» bzw. «das vorliegende Protokoll» das Protokoll von 1998 betreffend Schwermetalle in seiner jeweils geltenden Fassung.
 
 [^1-1]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
 [^1-2]: [SR 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+[^1-3]: Bereinigt gemäss Anhang Ziff. 1 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^1-4]: Eingefügt durch Anhang Ziff. 2 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 2
 
@@ -96,24 +95,60 @@ Ziel dieses Protokolls ist die Begrenzung von anthropogenen Schwermetallemission
 
 <sup>1.</sup> Jede Vertragspartei verringert ihre jährlichen Gesamtemissionen aller der in Anhang I aufgeführten Schwermetalle in die Atmosphäre vom Stand der Emissionen in einem gemäss diesem Anhang festgelegten Bezugsjahr durch wirksame Massnahmen, die ihren speziellen Gegebenheiten angemessen sind.
 
-<sup>2.</sup>
+<sup>2.</sup> 2<sup>bis</sup>. Jede Vertragspartei, die bereits vor dem Inkrafttreten einer Änderung, mit der neue Quellenkategorien eingeführt werden, Vertragspartei des vorliegenden Protokolls war, kann die für eine «bestehende ortsfeste Quelle» geltenden Grenzwerte auf jede Quelle innerhalb einer solchen neuen Kategorie, mit deren Bau oder wesentlichen Veränderung vor Ablauf von zwei Jahren nach dem Tag des Inkrafttretens dieser Änderung für diese Vertragspartei begonnen wird, anwenden, es sei denn, diese Quelle wird zu einem späteren Zeitpunkt einer wesentlichen Veränderung unterzogen; in diesem Fall läuft diese Regelung an diesem Zeitpunkt ab.[^3-1]
 
-Jede Vertragspartei wendet spätestens nach Ablauf der in Anhang IV angegebenen Fristen Folgendes an:
+2<sup>ter</sup>. Jede Vertragspartei, die bereits vor dem Inkrafttreten einer Änderung, mit der neue Grenzwerte für eine «neue ortsfeste Quelle» eingeführt werden, Vertragspartei des vorliegenden Protokolls war, kann die bis dahin geltenden Grenzwerte auf jede Quelle, mit deren Bau oder wesentlichen Modifikation vor Ablauf von zwei Jahren nach dem Tag des Inkrafttretens dieser Änderung für diese Vertragspartei begonnen wird, anwenden, es sei denn, diese Quelle wird zu einem späteren Zeitpunkt einer wesentlichen Veränderung unterzogen; in diesem Fall läuft diese Regelung an diesem Zeitpunkt ab.[^3-2]
 
-- a) die unter Berücksichtigung von Anhang III besten verfügbaren Techniken für jede neue ortsfeste Quelle innerhalb einer Kategorie grösserer ortsfester Quellen, für die Anhang III beste verfügbare Techniken ausweist;
+Vorbehaltlich Absätze 2<sup>bis</sup> und 2<sup>ter</sup> wendet jede Vertragspartei spätestens nach Ablauf der in Anhang IV angegebenen Fristen Folgendes an:[^3-3]
+
+- a)[^3-4] die unter Berücksichtigung von Anhang III besten verfügbaren Techniken für jede neue ortsfeste Quelle innerhalb einer Kategorie grösserer ortsfester Quellen, für die in Leitlinien, die die Vertragsparteien auf einer Tagung des Exekutivorgans angenommen haben, beste verfügbare Techniken ausgewiesen sind;
 - b) die in Anhang V festgelegten Grenzwerte für jede neue ortsfeste Quelle innerhalb einer Kategorie grösserer ortsfester Quellen. Als Alternative kann eine Vertragspartei andere Strategien zur Emissionsminderung anwenden, die zu äquivalenten Gesamtemissionen führen;
-- c) die unter Berücksichtigung von Anhang III besten verfügbaren Techniken für jede bestehende ortsfeste Quelle innerhalb einer Kategorie grösserer ortsfester Quellen, für die Anhang III beste verfügbare Techniken ausweist. Als Alternative kann eine Vertragspartei andere Strategien zur Emissionsminderung anwenden, die zu äquivalenten Gesamtemissionsminderungen führen;
+- c)[^3-5] die unter Berücksichtigung von Anhang III besten verfügbaren Techniken für jede bestehende ortsfeste Quelle innerhalb einer Kategorie grösserer ortsfester Quellen, für die in Leitlinien, die die Vertragsparteien auf einer Tagung des Exekutivorgans angenommen haben, beste verfügbare Techniken ausgewiesen sind. Als Alternative kann eine Vertragspartei andere Strategien zur Emissionsminderung anwenden, die zu äquivalenten Gesamtemissionsminderungen führen;
 - d) die Grenzwerte, die in Anhang V für jede bestehende ortsfeste Quelle innerhalb einer Kategorie grösserer ortsfester Quellen festgelegt sind, sofern dies technisch und wirtschaftlich machbar ist. Als Alternative kann eine Vertragspartei andere Strategien zur Emissionsminderung anwenden, die zu äquivalenten Gesamtemissionsminderungen führen.
 
 <sup>3.</sup> Jede Vertragspartei wendet gemäss den in Anhang VI festgelegten Bedingungen und Fristen Produktkontrollmassnahmen an.
 
 <sup>4.</sup> Jede Vertragspartei erwägt unter Berücksichtigung von Anhang VII die Anwendung zusätzlicher Produktmanagementmassnahmen.
 
-<sup>5.</sup> Jede Vertragspartei erstellt und unterhält Emissionsverzeichnisse für die in Anhang I aufgeführten Schwermetalle, wobei für die Vertragsparteien im geografischen Anwendungsbereich des EMEP als Minimum die vom Lenkungsorgan des EMEP festgelegten Methoden zur Anwendung kommen und für die Vertragsparteien ausserhalb des geografischen Anwendungsbereichs des EMEP als Richtschnur die im Arbeitsplan des Exekutivorgans entwickelten Methoden dienen.
+<sup>5.</sup> Jede Vertragspartei erstellt und unterhält Emissionsverzeichnisse für die in Anhang I aufgeführten Schwermetalle. Vertragsparteien im geografischen Anwendungsbereich des EMEP wenden die Methoden an, die in den vom Lenkungsorgan des EMEP erarbeiteten und von den Vertragsparteien auf einer Tagung des Exekutivorgans angenommenen Leitlinien festgelegt sind. Vertragsparteien ausserhalb des geografischen Anwendungsbereichs des EMEP wenden als Leitlinien die im Rahmen des Arbeitsplans des Exekutivorgans entwickelten Methoden an.[^3-6]
 
 <sup>6.</sup> Eine Vertragspartei, die nach Anwendung von Absatz 2 und Absatz 3 den Anforderungen von Absatz 1 für ein in Anhang I aufgeführtes Schwermetall nicht entsprechen kann, wird für dieses Schwermetall von ihren Verpflichtungen in Absatz 1 befreit.
 
 <sup>7.</sup> Eine Vertragspartei, deren Gesamtfläche 6 000 000 km<sup>2</sup> überschreitet, wird von ihren Verpflichtungen gemäss Absatz 2 Buchstaben b, c und d befreit, wenn sie nachweisen kann, dass sie nicht später als acht Jahre nach dem Inkrafttreten dieses Protokolls ihre jährlichen Gesamtemissionen jedes der in Anhang I aufgeführten Schwermetalle aus den in Anhang II aufgeführten Kategorien von Quellen um mindestens 50 Prozent gegenüber dem Emissionsniveau dieser Kategorien in dem in Anhang I festgelegten Bezugsjahr verringert haben wird. Eine Vertragspartei, die diesen Absatz geltend machen möchte, gibt dies bei der Unterzeichnung oder beim Beitritt zu diesem Protokoll an.
+
+<sup>8.</sup> Jede Vertragspartei sollte aktiv an Programmen im Rahmen des Übereinkommens über die Auswirkungen der Luftverunreinigung auf die menschliche Gesundheit und die Umwelt sowie an Programmen zur Überwachung und Modellierung der Atmosphäre mitwirken.[^3-7]
+
+[^3-1]: Eingefügt durch Anhang Ziff. 6 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-2]: Eingefügt durch Anhang Ziff. 6 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-3]: Bereinigt gemäss Anhang Ziff. 3 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-4]: Bereinigt gemäss Anhang Ziff. 4 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-5]: Bereinigt gemäss Anhang Ziff. 5 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-6]: Bereinigt gemäss Anhang Ziff. 7 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^3-7]: Eingefügt durch Anhang Ziff. 8 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+
+#### Art. 3<sup>bis</sup>
+
+**Flexible Übergangsvorkehrungen**[^3bis-1]
+
+<sup>1.</sup> Unbeschadet von Artikel 3 Absatz 2 Buchstaben c und d kann eine Vertragspartei des Übereinkommens, die zwischen dem 1. Januar 2014 und dem 31. Dezember 2019 Vertragspartei des vorliegenden Protokolls wird, unter den in diesem Artikel festgelegten Bedingungen für die Umsetzung der besten verfügbaren Techniken und der Grenzwerte für bestehende ortsfeste Quellen bestimmter Quellenkategorien flexible Übergangsvorkehrungen treffen.
+
+<sup>2.</sup>
+
+Jede Vertragspartei, die beschliesst, flexible Übergangsvorkehrungen gemäss diesem Artikel zu treffen, gibt in ihrer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde zum vorliegenden Protokoll Folgendes an:
+
+- a) die in Anhang II aufgelisteten spezifischen Kategorien ortsfester Quellen, für die die Vertragspartei beschliesst, flexible Übergangsvorkehrungen zu treffen, vorausgesetzt, es dürfen nicht mehr als vier derartige Kategorien aufgelistet werden;
+- b) ortsfeste Quellen, mit deren Bau oder letzter wesentlicher Veränderung vor 1990 oder einem von einer Vertragspartei zum Zeitpunkt der Ratifikation, der Annahme, der Genehmigung oder des Beitritts festgelegten alternativen Jahr zwischen 1985 und einschliesslich 1995 begonnen wurde und die für flexible Übergangsvorkehrungen gemäss Absatz 5 in Frage kommen; und
+- c) einen Umsetzungsplan in Einklang mit den Absätzen 3 und 4, einschliesslich eines Zeitplans für die vollständige Umsetzung der darin vorgesehenen Massnahmen.
+
+<sup>3.</sup> Eine Vertragspartei setzt die die besten verfügbaren Techniken für bestehende ortsfeste Quellen der in Anhang II genannten Kategorien 1, 2, 5 und 7 als Mindestmassnahme spätestens acht Jahre nach dem Inkrafttreten dieses Protokolls für die betreffende Partei um, oder spätestens am 31. Dezember 2022, je nachdem, welcher Termin früher eintritt, ausser in Fällen gemäss Absatz 5.
+
+<sup>4.</sup> In keinem Fall darf die Umsetzung der besten verfügbaren Techniken oder der Grenzwerte für bestehende ortsfeste Quellen von einer Vertragspartei über den 31. Dezember 2030 hinausgezögert werden.
+
+<sup>5.</sup> Für jede der Quellen gemäss Absatz 2 Buchstabe b kann eine Vertragspartei spätestens acht Jahre nach dem Inkrafttreten des vorliegenden Protokolls für die Partei oder bis spätestens 31. Dezember 2022, je nach dem welcher Termin früher eintritt, beschliessen, diese Quelle(n) zu schliessen. Eine Liste derartiger Quellen wird im Rahmen des nächsten Berichts der Vertragspartei gemäss Absatz 6 mitgeteilt. Die Auflagen für die Anwendung der besten verfügbaren Techniken und der Grenzwerte gelten für (eine) derartige Quelle(n) nicht, sofern sie spätestens am 31. Dezember 2030 geschlossen wird/werden. Ist/sind (eine) derartige Quellen(n) nach diesem Datum nicht geschlossen, so muss die betreffende Vertragspartei die für neue Quellen in der betreffenden Quellenkategorie geltenden besten verfügbaren Techniken und Grenzwerte anwenden.
+
+<sup>6.</sup> Eine Vertragspartei, die nach Massgabe dieses Artikels beschliesst, flexible Übergangsvorkehrungen zu treffen, übermittelt dem Exekutivsekretär der Kommission alle drei Jahre einen Bericht über ihre Fortschritte bei der Anwendung der besten verfügbaren Techniken und der Grenzwerte auf die ortsfesten Quellen in den gemäss diesem Artikel ermittelten Kategorien ortsfester Quellen. Der Exekutivsekretär der Kommission hält diese dreijährlichen Berichte dem Exekutivorgan zur Verfügung.
+
+[^3bis-1]: Eingefügt durch Anhang Ziff. 9 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 4
 
@@ -170,20 +205,38 @@ Die Vertragsparteien fördern mit Schwerpunkt auf die in Anhang I aufgeführten 
 
 **Berichterstattung**
 
-<sup>1.</sup> In Übereinstimmung mit ihren Rechtsvorschriften über die Vertraulichkeit gewerblicher Informationen
+<sup>1.</sup>
 
-- a) übermittelt jede Vertragspartei dem Exekutivorgan über den Exekutivsekretär der Kommission in regelmässigen Abständen, die von den im Exekutivorgan zusammentretenden Vertragsparteien festgelegt werden, Informationen über Massnahmen, die sie zur Durchführung dieses Protokolls getroffen hat;
-- b) übermittelt jede Vertragspartei im geografischen Anwendungsbereich des EMEP diesem über den Exekutivsekretär der Kommission in regelmässigen, vom Lenkungsorgan des EMEP festzulegenden und von den Vertragsparteien auf einer Tagung des Exekutivorgans zu billigenden Abständen Informationen über das Niveau der Emissionen der in Anhang I aufgeführten Schwermetalle und hält sich dabei zumindest an die Methoden sowie die zeitliche und räumliche Auflösung, die vom Lenkungsorgan des EMEP festgelegt worden sind. Vertragsparteien ausserhalb des geografischen Anwendungsbereichs des EMEP stellen dem Exekutivorgan auf Anforderung ähnliche Informationen zur Verfügung. Ausserdem sammelt jede Vertragspartei gegebenenfalls einschlägige Informationen über ihre Emissionen anderer Schwermetalle und berichtet darüber unter Berücksichtigung der Leitlinien zu den Methoden und zur zeitlichen und räumlichen Auflösung des Lenkungsgremiums des EMEP und des Exekutivorgans.
+In Übereinstimmung mit ihren Rechtsvorschriften über die Vertraulichkeit gewerblicher Informationen:
+
+- a)[^7-1]
+
+  übermittelt jede Vertragspartei dem Exekutivorgan über den Exekutivsekretär der Kommission in regelmässigen Abständen, die von den im Exekutivorgan zusammentretenden Vertragsparteien festgelegt werden, Informationen über Massnahmen, die sie zur Durchführung dieses Protokolls getroffen hat. Darüber hinaus gilt Folgendes:
+
+  - i) Wendet eine Vertragspartei gemäss Artikel 3 Absatz 2 Buchstaben b, c oder d andere Strategien zur Emissionsminderung an, so weist sie die angewandten Strategien und die Erfüllung der Anforderungen dieser Buchstaben dokumentarisch nach;
+  - ii) hält eine Vertragspartei die Anwendung bestimmter Grenzwerte nach Artikel 3 Absatz 2 Buchstabe d für technisch und wirtschaftlich nicht machbar, so erstattet sie unter Angabe von Gründen entsprechend Bericht;
+
+- b)[^7-2] übermittelt jede Vertragspartei im geografischen Anwendungsbereich des EMEP diesem über den Exekutivsekretär der Kommission Informationen über den Umfang der Emissionen der in Anhang I aufgeführten Schwermetalle und hält sich dabei an die Methoden, die in den vom Lenkungsorgan des EMEP ausgearbeiteten und von den Vertragsparteien auf einer Tagung des Exekutivorgans angenommenen Leitlinien vorgesehen sind. Vertragsparteien ausserhalb des geografischen Anwendungsbereichs des EMEP teilen verfügbare Informationen über den Umfang der Emissionen der in Anhang I aufgeführten Schwermetalle mit. Jede Vertragspartei legt auch Informationen über den Umfang der Emissionen der in Anhang I genannten Stoffe für das in diesem Anhang genannte Bezugsjahr vor;
+- c)[^7-3] übermittelt jede Vertragspartei im geografischen Anwendungsbereich des EMEP dem Exekutivorgan über den Exekutivsekretär der Kommission verfügbare Informationen über ihre im Rahmen des Übereinkommens durchgeführten Programme zur Ermittlung der Auswirkungen der Luftverunreinigung auf die menschliche Gesundheit und die Umwelt und Programme zur Überwachung und Modellierung der Atmosphäre und hält sich dabei an die vom Exekutivorgan angenommenen Leitlinien;
+- d)[^7-4] stellen Vertragsparteien ausserhalb des geografischen Anwendungsbereichs des EMEP den Informationen gemäss Buchstabe c ähnliche Informationen zur Verfügung, wenn das Exekutivorgan dies verlangt.
 
 <sup>2.</sup> Form und Inhalt der gemäss Absatz 1 Buchstabe a vorzulegenden Informationen werden in einem Beschluss festgelegt, der von den Vertragsparteien auf einer Tagung des Exekutivorgans angenommen wird. Bei Ergänzungen bezüglich Format oder Inhalt der Informationen, die in die Berichte aufzunehmen sind, wird dieser Beschluss erforderlichenfalls überarbeitet.
 
-<sup>3.</sup> Rechtzeitig vor jeder Jahrestagung des Exekutivorgans legt das EMEP Informationen über den weiträumigen Transport und die Deposition von Schwermetallen vor.
+<sup>3.</sup> Auf Verlangen und innerhalb der zeitlichen Vorgaben des Exekutivorgans legen das EMEP und andere eingesetzte Nebenorgane relevante Informationen über den weiträumigen Transport und die Deposition von Schwermetallen vor.[^7-5]
+
+[^7-1]: Bereinigt gemäss Anhang Ziff. 10 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^7-2]: Fassung gemäss Anhang Ziff. 11 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^7-3]: Eingefügt durch Anhang Ziff. 12 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^7-4]: Eingefügt durch Anhang Ziff. 12 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^7-5]: Bereinigt gemäss Anhang Ziff. 13 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 8
 
 **Berechnungen**
 
-Das EMEP stellt dem Exekutivorgan unter Verwendung geeigneter Modelle und Messungen und rechtzeitig vor jeder Jahrestagung des Exekutivorgans Berechnungen grenzüberschreitender Flüsse und Depositionen von Schwermetallen im geografischen Anwendungsbereich des EMEP zur Verfügung. Ausserhalb des geografischen Anwendungsbereichs des EMEP werden den besonderen Gegebenheiten der Vertragsparteien des Übereinkommens angemessene Modelle benutzt.
+Das EMEP und seine technischen Stellen und Zentren stellen dem Exekutivorgan auf dessen Verlangen und innerhalb dessen zeitlicher Vorgaben sowie unter Verwendung geeigneter Modelle und Messungen Berechnungen grenzüberschreitender Flüsse und Depositionen von Schwermetallen im geografischen Anwendungsbereich des EMEP zur Verfügung. Ausserhalb des geografischen Anwendungsbereichs des EMEP werden den besonderen Gegebenheiten der Vertragsparteien des Übereinkommens angemessene Modelle benutzt.[^8-1]
+
+[^8-1]: Bereinigt gemäss Anhang Ziff. 14 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 9
 
@@ -209,7 +262,9 @@ Die Einhaltung der Verpflichtungen der Vertragsparteien im Rahmen dieses Protoko
 
 - c) Die Verfahren, die Methoden und der Zeitplan für diese Überprüfungen werden von den Vertragsparteien auf einer Tagung des Exekutivorgans festgelegt.
 
-<sup>4.</sup> Die Vertragsparteien erstellen anhand der Schlussfolgerungen aus den Überprüfungen gemäss Absatz 3 und so bald wie möglich nach Abschluss der Überprüfung einen Arbeitsplan über weitere Schritte zur Verringerung der Emissionen der in Anhang I aufgeführten Schwermetalle in die Atmosphäre.
+<sup>4.</sup> Die Vertragsparteien erwägen anhand der Schlussfolgerungen aus den Überprüfungen gemäss Absatz 3 und so bald wie möglich nach Abschluss der Überprüfung die Erstellung eines Arbeitsplans über weitere Schritte.[^10-1]
+
+[^10-1]: Bereinigt gemäss Anhang Ziff. 15 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 11
 
@@ -246,11 +301,23 @@ Die Anhänge dieses Protokolls sind Bestandteil dieses Protokolls. Die Anhänge 
 
 <sup>2.</sup> Vorgeschlagene Änderungen werden schriftlich beim Exekutivsekretär der Kommission eingereicht, der sie allen Vertragsparteien übermittelt. Die im Exekutivorgan zusammenkommenden Vertragsparteien erörtern die vorgeschlagenen Änderungen auf ihrer folgenden Tagung, vorausgesetzt, die Vorschläge wurden vom Exekutivsekretär mindestens neunzig Tage vorher an die Vertragsparteien weitergeleitet.
 
-<sup>3.</sup> Änderungen des Protokolls und der Anhänge I, II bis IV, V und VI bedürfen der einvernehmlichen Annahme durch die auf einer Tagung des Exekutivorgans anwesenden Vertragsparteien und treten für die Vertragsparteien, die sie angenommen haben, am neunzigsten Tag nach dem Zeitpunkt, zu dem zwei Drittel der Vertragsparteien ihre Annahmeurkunden beim Verwahrer hinterlegt haben, in Kraft. Für jede andere Vertragspartei treten Änderungen am neunzigsten Tag nach dem Zeitpunkt in Kraft, zu dem die Vertragspartei ihre Urkunde über die Annahme derselben hinterlegt hat.
+<sup>3.</sup> Änderungen des Protokolls und der Anhänge, ausgenommen der Anhänge III und VII, bedürfen der einvernehmlichen Annahme durch die auf einer Tagung des Exekutivorgans anwesenden Vertragsparteien und treten für die Vertragsparteien, die sie angenommen haben, am neunzigsten Tag nach dem Zeitpunkt, zu dem zwei Drittel der Vertragsparteien, die zum Zeitpunkt der Annahme der Änderungen Vertragsparteien waren, ihre Annahmeurkunden beim Verwahrer hinterlegt haben, in Kraft. Für jede andere Vertragspartei treten Änderungen am neunzigsten Tag nach dem Zeitpunkt in Kraft, zu dem die Vertragspartei ihre Urkunde über die Annahme derselben hinterlegt hat.[^13-1]
 
-<sup>4.</sup> Änderungen der Anhänge III und VII bedürfen der einvernehmlichen Annahme durch die auf einer Tagung des Exekutivorgans anwesenden Vertragsparteien. Eine Änderung einer dieser Anhänge wird nach Ablauf von neunzig Tagen nach dem Zeitpunkt, zu dem sie der Exekutivsekretär an alle Vertragsparteien weitergeleitet hat, für die Vertragsparteien wirksam, die dem Verwahrer keine Notifikation gemäss Absatz 5 vorgelegt haben, sofern mindestens sechzehn Vertragsparteien keine solche Notifikation eingereicht haben.
+<sup>4.</sup> Änderungen der Anhänge III und VII bedürfen der einvernehmlichen Annahme durch die auf einer Tagung des Exekutivorgans anwesenden Vertragsparteien. Eine Änderung einer dieser Anhänge wird nach Ablauf von 180 Tagen nach dem Zeitpunkt, zu dem sie der Exekutivsekretär an alle Vertragsparteien weitergeleitet hat, für die Vertragsparteien wirksam, die dem Verwahrer keine Notifikation gemäss Absatz 5 vorgelegt haben, sofern mindestens sechzehn Vertragsparteien keine solche Notifikation eingereicht haben.[^13-2]
 
-<sup>5.</sup> Jede Vertragspartei, die eine Änderung von Anhang III oder Anhang VII nicht genehmigen kann, notifiziert dies dem Verwahrer schriftlich innerhalb von neunzig Tagen ab dem Zeitpunkt der Mitteilung ihrer Annahme. Der Verwahrer setzt unverzüglich alle Vertragsparteien über jede dieser eingegangenen Notifikationen in Kenntnis. Eine Vertragspartei kann jederzeit ihre frühere Notifikation durch eine Annahme ersetzen; mit Hinterlegung einer Annahmeurkunde beim Verwahrer wird die Änderung des betreffenden Anhangs für diese Vertragspartei wirksam.
+<sup>5.</sup> Jede Vertragspartei, die eine Änderung von Anhang III oder Anhang VII nicht genehmigen kann, notifiziert dies dem Verwahrer schriftlich innerhalb von 180 Tagen ab dem Zeitpunkt der Mitteilung ihrer Annahme. Der Verwahrer setzt unverzüglich alle Vertragsparteien über jede dieser eingegangenen Notifikationen in Kenntnis. Eine Vertragspartei kann jederzeit ihre frühere Notifikation durch eine Annahme ersetzen; mit Hinterlegung einer Annahmeurkunde beim Verwahrer wird die Änderung des betreffenden Anhangs für diese Vertragspartei wirksam.[^13-3]
+
+5<sup>bis</sup>. Für die Vertragsparteien, die die Änderung angenommen haben, ersetzt das Verfahren gemäss Absatz 5<sup>ter</sup> das Verfahren gemäss Absatz 3 im Falle von Änderungen der Anhänge II, IV, V und VI.[^13-4]
+
+5<sup>ter</sup>. Änderungen der Anhänge II, IV, V und VI werden von den auf einer Tagung des Exekutivorgans anwesenden Vertragsparteien einvernehmlich angenommen. Eine Änderung eines dieser Anhänge tritt nach Ablauf eines Jahres ab dem Datum ihrer Weiterleitung durch den Exekutivsekretär der Kommission an die Vertragsparteien für diejenigen Vertragsparteien in Kraft, die dem Verwahrer keine Notifikation gemäss Buchstabe a vorgelegt haben:
+
+- a) Vertragsparteien, die eine Änderung der Anhänge II, IV, V und VI nicht genehmigen können, notifizieren dies dem Verwahrer schriftlich innerhalb eines Jahres ab dem Zeitpunkt der Mitteilung ihrer Annahme. Der Verwahrer setzt alle Vertragsparteien unverzüglich über jede dieser eingegangenen Notifikationen in Kenntnis. Eine Vertragspartei kann jederzeit ihre frühere Notifikation durch eine Annahme ersetzen; mit Hinterlegung einer Annahmeurkunde beim Verwahrer wird die Änderung des betreffenden Anhangs für diese Vertragspartei wirksam;
+- b)
+
+  Änderungen der Anhänge II, IV, V und VI treten nicht in Kraft, wenn mindestens sechzehn Vertragsparteien:
+
+  - i) eine Notifikation gemäss Buchstabe a eingereicht haben, oder
+  - ii) das in diesem Absatz vorgesehene Verfahren nicht angenommen und noch keine Annahmeurkunde gemäss Absatz 3 hinterlegt haben.[^13-5]
 
 <sup>6.</sup> Im Falle eines Vorschlags zur Änderung von Anhang I, VI oder VII durch Hinzufügen eines Schwermetalls, einer Produktkontrollmassnahme oder eines Produkts bzw. einer Produktkategorie zu diesem Protokoll
 
@@ -258,6 +325,12 @@ Die Anhänge dieses Protokolls sind Bestandteil dieses Protokolls. Die Anhänge 
 - b) beurteilen die Vertragsparteien den Vorschlag nach den im Beschluss des Exekutivorgans 1998/2 festgelegten Verfahren einschliesslich aller Änderungen.
 
 <sup>7.</sup> Beschlüsse zur Änderung des Beschlusses des Exekutivorgans 1998/2 bedürfen der einvernehmlichen Annahme durch die im Exekutivorgan zusammentretenden Vertragsparteien und werden sechzig Tage nach dem Tag der Annahme wirksam.
+
+[^13-1]: Bereinigt gemäss Anhang Ziff. 16 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^13-2]: Bereinigt gemäss Anhang Ziff. 17 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^13-3]: Bereinigt gemäss Anhang Ziff. 18 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^13-4]: Eingefügt durch Anhang Ziff. 19 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+[^13-5]: Eingefügt durch Anhang Ziff. 19 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 14
 
@@ -274,6 +347,10 @@ Die Anhänge dieses Protokolls sind Bestandteil dieses Protokolls. Die Anhänge 
 <sup>1.</sup> Dieses Protokoll bedarf der Ratifikation, Annahme oder Genehmigung durch die Unterzeichner.
 
 <sup>2.</sup> Dieses Protokoll steht ab dem 21. Dezember 1998 Staaten und Organisationen, die die Voraussetzungen des Artikels 14 Absatz 1 erfüllen, zum Beitritt offen.
+
+<sup>3.</sup> Die Staaten oder Organisationen für regionale Wirtschaftsintegration geben in ihrer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde eine entsprechende Erklärung ab, falls sie beabsichtigen, die Verfahren gemäss Artikel 13 Absatz 5<sup>ter</sup> in Bezug auf die Änderungen der Anhänge II, IV, V und VI abzulehnen.[^15-1]
+
+[^15-1]: Eingefügt durch Anhang Ziff. 20 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 #### Art. 16
 
@@ -314,9 +391,11 @@ Anhang I
 <tr><td>Quecksilber (Hg)</td><td>1990 oder ein beliebiges anderes Jahr von 1985 bis einschliesslich 1995, das von einer Vertragspartei bei der Ratifikation, der Annahme, der Genehmigung oder beim Beitritt angegeben wird.</td></tr>
 </table>
 
-Anhang II
+Anhang II*[^t-2]*
 
 ## Kategorien ortsfester Quellen
+
+[^t-2]: Bereinigt gemäss Anhang Ziff. 21 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
 ### I. Einleitung
 
@@ -332,7 +411,7 @@ Die im Folgenden angegebenen Schwellenwerte beziehen sich im Allgemeinen auf Pro
 <tr><td>2</td><td>Anlagen zum Rösten oder Sintern von Metallerz (einschliesslich Sulfiderz) oder Konzentraten mit einer Kapazität über 150 Tonnen Sintergut pro Tag bei Eisenerz oder ‑konzentrat und 30 Tonnen Sintergut pro Tag beim Rösten von Kupfer, Blei oder Zink oder bei der Gold‑ und Quecksilbererzaufbereitung.</td></tr>
 <tr><td>3</td><td>Anlagen für die Erzeugung von Roheisen oder Stahl (Primär‑ oder Sekundärschmelzbetrieb, inklusive Elektrolichtbogenöfen) einschliesslich Stranggiessen mit einer Kapazität über 2,5 Tonnen je Stunde.</td></tr>
 <tr><td>4</td><td>Eisengiessereien mit einer Produktionskapazität über 20 Tonnen je Tag.</td></tr>
-<tr><td>5</td><td>Anlagen zur Erzeugung von Kupfer, Blei und Zink aus Erz, Konzentraten oder Sekundärrohstoffen durch metallurgische Verfahren mit einer Kapazität über 30 Tonnen Metall je Tag im Primärbereich und 15 Tonnen Metall je Tag im Sekundärbereich oder zur Primärerzeugung von Quecksilber.</td></tr>
+<tr><td>5</td><td>Anlagen zur Erzeugung von Kupfer, Blei, Zink und Ferro-Silizium-Manganlegierungen aus Erz, Konzentraten oder Sekundärrohstoffen durch metallurgische Verfahren mit einer Kapazität über 30 Tonnen Metall je Tag im Primärbereich und 15 Tonnen Metall je Tag im Sekundärbereich oder zur Primärerzeugung von Quecksilber.</td></tr>
 <tr><td>6</td><td>Anlagen zum Schmelzen (Raffinieren, Giessen usw.), einschliesslich Legieren, von Kupfer, Blei und Zink, einschliesslich rückgewonnener Einsatzstoffe, mit einer Schmelzkapazität über 4 Tonnen je Tag bei Blei bzw. 20 Tonnen je Tag bei Kupfer und Zink.</td></tr>
 <tr><td>7</td><td>Anlagen zur Herstellung von Zementklinker in Drehrohröfen mit einer Produktionskapazität über 500 Tonnen je Tag oder in anderen Öfen mit einer Produktionskapazität über 50 Tonnen je Tag.</td></tr>
 <tr><td>8</td><td>Anlagen zur Herstellung von Glas nach dem Bleieinsatzverfahren mit einer Schmelzkapazität über 20 Tonnen je Tag.</td></tr>
@@ -374,117 +453,236 @@ Das Konzept der BVT zielt nicht darauf ab, eine bestimmte Technik oder Technolog
 
 \4. Die Erfahrungen mit neuen Produkten und neuen Anlagen, die mit emissionsarmen Techniken arbeiten, sowie mit der Nachrüstung vorhandener Anlagen wachsen ständig; dies kann eine Aktualisierung des in Absatz 1 genannten Leitfadens erforderlich machen.
 
-Anhang IV
+Anhang IV*[^t-4]*
 
 ## Fristen bis zur Anwendung von Grenzwerten und besten verfügbaren Techniken für neue und bestehende ortsfeste Quellen
 
-Nach Ablauf folgender Fristen sind die Grenzwerte und besten verfügbaren Techniken anzwenden:
+[^t-4]: Bereinigt gemäss Anhang Ziff. 22–25 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
-- a) Neue ortsfeste Quellen: zwei Jahre nach dem Zeitpunkt des Inkrafttretens dieses Protokolls;
-- b) bestehende ortsfeste Quellen: acht Jahre nach dem Zeitpunkt des Inkrafttretens dieses Protokolls. Im Bedarfsfall kann diese Frist für bestimmte ortsfeste Quellen entsprechend der im innerstaatlichen Recht vorgesehenen Abschreibungsfristen verlängert werden.
+\1. Nach Ablauf folgender Fristen sind die Grenzwerte und besten verfügbaren Techniken anzwenden:
 
-Anhang V
+- a) Neue ortsfeste Quellen: zwei Jahre nach dem Zeitpunkt des Inkrafttretens dieses Protokolls für eine Vertragspartei;
+- b) bestehende ortsfeste Quellen: zwei Jahre nach dem Zeitpunkt des Inkrafttretens dieses Protokolls für eine Vertragspartei oder am 31. Dezember 2020, je nachdem, welcher Zeitpunkt später eintritt. Im Bedarfsfall kann diese Frist für bestimmte ortsfeste Quellen entsprechend der im innerstaatlichen Recht vorgesehenen Abschreibungsfristen verlängert werden.
 
-## Grenzwerte für die Begrenzung der Emissionen aus grösseren ortsfesten Quellen
+\2. Unbeschadet des Absatzes 1, jedoch vorbehaltlich von Absatz 3, kann eine Vertragspartei des Übereinkommens, die zwischen dem 1. Januar 2014 und dem 31. Dezember 2019 Vertragspartei des vorliegenden Protokolls wird, zum Zeitpunkt der Ratifikation, der Annahme, der Genehmigung oder des Beitritts zum Protokoll erklären, dass sie die Fristen für die Anwendung der in Artikel 3 Absatz 2 Buchstabe d) aufgeführten Grenzwerte bis zu 15 Jahren nach dem Tag des Inkrafttretens des Protokolls für die betreffende Vertragspartei verlängert.
 
-### I. Einleitung
+\3. Fasst eine Vertragspartei in Bezug auf eine bestimmte Kategorie ortsfester Quellen einen Beschluss gemäss Artikel 3<sup>bis</sup> des vorliegenden Protokolls, so kann sie nicht zugleich eine Erklärung nach dem für dieselbe Quellenkategorie geltenden Absatz 2 abgeben.
 
-\1. Für die Bekämpfung der Schwermetallemissionen sind zwei Arten von Grenzwerten von Belang:
+Anhang V*[^t-5]*
 
-- – Werte für spezifische Schwermetalle oder Kategorien von Schwermetallen und
-- – Werte für Partikelemissionen im Allgemeinen.
+## Grenzwerte für die Begrenzung von Emissionen aus grösseren ortsfesten Quellen
 
-\2. Prinzipiell können Grenzwerte für Partikel nicht die spezifischen Grenzwerte für Cadmium, Blei und Quecksilber ersetzen, weil die Menge der mit Partikelemissionen assoziierten Metalle je nach Verfahren unterschiedlich ausfällt. Die Einhaltung dieser Grenzwerte trägt jedoch erheblich zur Reduzierung der Schwermetallemissionen im Allgemeinen bei. Zudem ist die Überwachung von Partikelemissionen in aller Regel billiger als die Überwachung einzelner Schadstoffe, und eine kontinuierliche Überwachung der einzelnen Schwermetalle ist im Allgemeinen nicht realisierbar. Daher sind die Grenzwerte für Partikel von grosser praktischer Bedeutung und werden in diesem Anhang in den meisten Fällen auch als Ergänzung oder Ersatz für spezifische Grenzwerte für Cadmium, Blei oder Quecksilber angegeben.
+[^t-5]: Fassung gemäss Anhang Ziff. 26 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
-\3. Grenzwerte, die in mg/m<sup>3</sup> ausgedrückt werden, beziehen sich auf Standardbedingungen (Volumen bei 273,15 K, 101,3 kPa, Trockengas) und werden als Durchschnittswert einstündiger Messungen, die sich über mehrere Betriebsstunden – in der Regel 24 Stunden – erstrecken, berechnet. Anfahr‑ und Abschaltzeiten sollten ausgeklammert werden. Die Mittelungszeit kann verlängert werden, falls dies zur Erzielung hinreichend genauer Überwachungsergebnisse erforderlich ist. Im Hinblick auf den Sauerstoffgehalt des Abgases gelten die für ausgewählte grosse ortsfeste Quellen angegebenen Werte. Jede Verdünnung zum Zwecke der Verringerung der Konzentrationen von Schadstoffen in Abgasen ist unzulässig. Grenzwerte für Schwermetalle beziehen sich auf den festen, den gasförmigen und den dampfförmigen Zustand des Metalls und seiner Verbindungen, angegeben als das Metall. Werden Grenzwerte für Gesamtemissionen (ausgedrückt als g/Einheit der Produktion bzw. Kapazität) angegeben, beziehen sie sich auf die Summe der als Jahreswert gefassten Abgas‑ und diffusen Emissionen.
+\1. Für die Bekämpfung von Schwermetallemissionen sind zwei Arten von Grenzwerten von Belang:
 
-\4. Kann die Überschreitung angegebener Grenzwerte nicht ausgeschlossen werden, werden entweder die Emissionen oder ein Betriebsparameter, der angibt, ob eine Abgasreinigungsanlage ordnungsgemäss betrieben und gewartet wird, überwacht. Die Überwachung von Emissionen bzw. Betriebsindikatoren sollte kontinuierlich erfolgen, wenn der ausgestossene Massenfluss der Partikel grösser als 10 kg/h ist. Werden die Emissionen zur Überwachung herangezogen, müssen die Luftschadstoffkonzentrationen in Abgas führenden Kanälen auf repräsentative Weise gemessen werden. Bei diskontinuierlicher Überwachung der Partikelemissionen sollten die Konzentrationen in regelmässigen Abständen gemessen werden, mit mindestens drei unabhängigen Messungen je Überprüfung. Die Probenahme und Analyse aller Schadstoffe sowie Referenzmessungen zur Kalibrierung automatischer Messsysteme werden nach den vom Europäischen Komitee für Normung (Comité européen de normalisation, CEN) bzw. der Internationalen Organisation für Normung (ISO) festgelegten Normen durchgeführt. Nationale Normen gelten solange, bis CEN‑ und ISO-Normen vorliegen. Sie können auch zu Grunde gelegt werden, wenn sie Ergebnisse liefern, die den CEN‑ und ISO-Normen gleichwertig sind.
+- a) Werte für spezifische Schwermetalle oder Kategorien von Schwermetallen; und
+- b) Werte für Partikelemissionen im Allgemeinen.
 
-\5. Bei kontinuierlicher Überwachung ist von einer Einhaltung der Grenzwerte auszugehen, wenn keine der auf der Grundlage des 24-Stunden-Mittels errechneten Emissionskonzentrationen den Grenzwert überschreitet oder wenn das 24-Stunden-Mittel des überwachten Parameters nicht über dem korrelierten Wert des Parameters liegt, der bei ordnungsgemässem Betrieb und ordnungsgemässer Wartung der Abgasreinigungsanlage während einer Überprüfung aufgestellt wurde. Bei der diskontinuierlichen Emissionsüberwachung gelten die Bestimmungen als erfüllt, wenn der gemittelte Messwert je Überprüfung nicht den Grenzwert überschreitet. Eine Übereinstimmung mit jedem der Grenzwerte, ausgedrückt als Gesamtemissionen je Produktionseinheit oder jährliche Gesamtemissionen, liegt vor, wenn der ermittelte Wert – wie oben beschrieben – nicht überschritten wird.
+\2. Prinzipiell können Grenzwerte für Partikel nicht die spezifischen Grenzwerte für Cadmium, Blei und Quecksilber ersetzen, weil die Menge der mit Partikelemissionen assoziierten Metalle je nach Verfahren unterschiedlich ausfällt. Die Einhaltung dieser Grenzwerte trägt jedoch erheblich zur Reduzierung der Schwermetallemissionen im Allgemeinen bei. Zudem ist die Überwachung von Partikelemissionen in aller Regel preiswerter als die Überwachung einzelner Schadstoffe, und eine kontinuierliche Überwachung der einzelnen Schwermetalle ist im Allgemeinen nicht realisierbar. Daher sind die Grenzwerte für Partikel von grosser praktischer Bedeutung und werden in diesem Anhang in den meisten Fällen auch als Ergänzung für spezifische Grenzwerte für Cadmium, Blei oder Quecksilber angegeben.
 
-### II. Spezifische Grenzwerte für ausgewählte grössere ortsfeste Quellen
+\3. Abschnitt A gilt für alle Vertragsparteien mit Ausnahme der Vereinigten Staaten von Amerika. Abschnitt B gilt für die Vereinigten Staaten von Amerika.
 
-Verbrennung fossiler Brennstoffe (Anhang II, Kategorie 1):
+### A. Vertragsparteien mit Ausnahme der Vereinigten Staaten von Amerika
 
-\6. Grenzwerte beziehen sich auf 6% O<sub>2</sub> in Abgas bei festen Brennstoffen und 3% O<sub>2</sub> bei flüssigen Brennstoffen.
+\4. Allein in diesem Abschnitt bedeutet «Staub» die Masse der Partikel beliebiger Form, Struktur oder Dichte, die unter den Bedingungen der Probenahmestellen in der Gasphase dispergiert sind, unter bestimmten Bedingungen nach repräsentativer Probenahme des zu analysierende Gases durch Filtration abgeschieden werden können und nach dem Trocknungsprozess unter bestimmten Bedingungen oberhalb des Filters und auf dem Filter verbleiben.
 
-\7. Grenzwerte für Partikelemissionen bei festen und flüssigen Brennstoffen: 50 mg/m<sup>3</sup>.
+\5. Für die Zwecke dieses Abschnitts bedeutet «Emissionsgrenzwert» (EGW) die Menge an Staub und bestimmten, unter dieses Protokoll fallenden Schwermetallen in den Abgasen einer Anlage, die nicht überschritten werden darf. Sofern nicht anders angegeben, wird er als Schadstoffmasse pro Abgasvolumen (in mg/m<sup>3</sup>), bezogen auf Standardbedingungen für Temperatur und Druck von Trockengas (Volumen bei 273,15 K, 101,3 kPa), ausgedrückt. Für den Sauerstoffgehalt im Abgas gelten die für ausgewählte Kategorien grösserer ortsfester Quellen angegebenen Werte. Ein Verdünnen der Abgase zur Verringerung der Schadstoffkonzentrationen ist nicht zulässig. Das An- und Abfahren und die Wartung von Anlagen sind ausgenommen.
 
-Sinteranlagen (Anhang II, Kategorie 2):
+\6. Die Emissionen sind in allen Fällen durch Messungen oder Berechnungen, die mindestens die gleiche Genauigkeit erreichen, zu überwachen. Die Einhaltung der Grenzwerte ist durch kontinuierliche oder diskontinuierliche Messungen oder nach anderen technisch zweckmässigen Verfahren, einschliesslich geprüfter Berechnungsmethoden, zu überprüfen. Die relevanten Schwermetalle sind für jede Industriequelle mindestens einmal alle drei Jahre zu messen. Dabei sind die Leitfäden über die Methoden für Messungen und Berechnungen zu berücksichtigen, die von den Vertragsparteien auf der Tagung des Exekutivorgans angenommen wurden. Bei kontinuierlichen Messungen gelten die Grenzwerte als eingehalten, wenn der validierte Durchschnittswert der monatlichen Emissionen den EGW nicht überschreitet. Bei diskontinuierlichen Messungen oder anderen geeigneten Bestimmungs- oder Berechnungsverfahren gelten die EGW als eingehalten, wenn der anhand einer angemessenen Anzahl Messungen unter repräsentativen Bedingungen ermittelte Mittelwert den Wert der Emissionsnorm nicht überschreitet. Die Ungenauigkeit der Messverfahren kann für die Zwecke der Überprüfung berücksichtigt werden. Eine indirekte Schadstoffüberwachung anhand von Summenparametern/kumulativen Parametern (z.B. Staub als Summenparameter für Schwermetalle) ist ebenfalls möglich. In bestimmten Fällen kann eine bestimmte Technik der Emissionskontrolle gewährleisten, dass ein Wert/Grenzwert eingehalten oder erfüllt wird.
 
-\8. Grenzwert für Partikelemissionen: 50 mg/m<sup>3</sup>.
+\7. Die Überwachung der relevanten Schadstoffe und die Messungen von Prozessparametern sowie die Qualitätssicherung von automatisierten Messsystemen und die Referenzmessungen zur Kalibrierung dieser Systeme erfolgen nach den CEN-Normen. Stehen CEN-Normen nicht zur Verfügung, so werden ISO-Normen, nationale Normen oder andere internationale Normen zugrunde gelegt, die gewährleisten, dass Daten von gleichwertiger wissenschaftlicher Qualität erhoben werden.
 
-Pelletanlagen (Anhang II, Kategorie 2):
+Feuerungsanlagen (Kessel und Prozessfeuerungen) mit einer berechneten Feuerungswärmeleistung von über 50 MWth**[^annexV-lvlu1-lvlA-1]** (Anhang II Kategorie 1)
 
-\9. Grenzwert für Partikelemissionen:
+\8. Grenzwerte für Staubmissionen aus der Verbrennung anderer fester und flüssiger Brennstoffe als Biomasse und Torf:[^annexV-lvlu1-lvlA-2]
 
-- a) Mahlen, Trocknen: 25 mg/m<sup>3</sup>; und
-- b) Pelletieren: 25 mg/m<sup>3</sup>; oder
+Tabelle 1
 
-\10. Grenzwert für Partikelgesamtemissionen: 40 g/Mg produzierte Pellets.
+<table>
+<tr><th>Brennstoffart</th><th>Feuerungswärmeleistung (MWth)</th><th>EGW für Staub (mg/m<sup>3</sup>)<sup>a</sup></th></tr>
+<tr><td>Feste Brennstoffe</td><td>50–100</td><td>Neue Anlagen: 20 (Steinkohle, Braunkohle und andere feste Brennstoffe) Bestehende Anlagen: 30 (Steinkohle, Braunkohle und andere feste Brennstoffe)</td></tr>
+<tr><td></td><td>100–300</td><td>Neue Anlagen: 20 (Steinkohle, Braunkohle und andere feste Brennstoffe) Bestehende Anlagen: 25 (Steinkohle, Braunkohle und andere feste Brennstoffe)</td></tr>
+<tr><td></td><td>&gt;300</td><td>Neue Anlagen: 10 (Steinkohle, Braunkohle und andere feste Brennstoffe) Bestehende Anlagen: 20 (Steinkohle, Braunkohle und andere feste Brennstoffe)</td></tr>
+<tr><td>Flüssige Brennstoffe</td><td>50–100</td><td>Neue Anlagen: 20 Bestehende Anlagen: 30 (allgemein) 50 (bei Verfeuerung von Destillations- oder Konversionsrückständen aus der Rohölraffinierung für den Eigenverbrauch in Feuerungsanlagen)</td></tr>
+<tr><td></td><td>100–300</td><td>Neue Anlagen: 20 Bestehende Anlagen: 25 (allgemein) 50 (bei Verfeuerung von Destillations- oder Konversionsrückständen aus der Rohölraffinierung für den Eigenverbrauch in Feuerungsanlagen)</td></tr>
+<tr><td></td><td>&gt;300</td><td>Neue Anlagen: 10 Bestehende Anlagen: 20 (allgemein) 50 (bei Verfeuerung von Destillations- oder Konversionsrückständen aus der Rohölraffinierung für den Eigenverbrauch in Feuerungsanlagen)</td></tr>
+<tr><td colspan="3"><sup>a</sup> Grenzwerte bezogen auf einen Sauerstoffgehalt von 6 % (feste Brennstoffe) und von 3 % (flüssige Brennstoffe)</td></tr>
+</table>
 
-Hochöfen (Anhang II, Kategorie 3):
+\9. Sondervorschriften für Feuerungsanlagen gemäss Nummer 8:
 
-\11. Grenzwerte für Partikelemissionen: 50 mg/m<sup>3</sup>.
+- a)
 
-Elektrolichtbogenöfen (Anhang II, Kategorie 3):
+  Eine Vertragspartei kann in folgenden Fällen von der Verpflichtung zur Einhaltung der Emissionsgrenzwerte gemäss Nummer 8 abweichen:
 
-\12. Grenzwert für Partikelemissionen: 20 mg/m<sup>3</sup>.
+  - i) im Falle von Feuerungsanlagen, die normalerweise mit gasförmigen Brennstoffen betrieben werden, aber aufgrund einer plötzlichen Unterbrechung der Gasversorgung ausnahmsweise auf andere Brennstoffe ausweichen müssen und aus diesem Grund mit einer Abgasreinigungsanlage ausgestattet werden müssten;
+  - ii) im Falle bestehender Feuerungsanlagen, die im Zeitraum vom 1. Januar 2016 bis spätestens 31. Dezember 2023 nicht mehr als 17 500 Betriebsstunden in Betrieb sind.
 
-Gewinnung von Kupfer und Zink, einschliesslich Imperial-Smelting-Öfen (Anhang II, Gruppen 5 und 6):
+- b) Wird eine Feuerungsanlage um mindestens 50 MWth erweitert, so findet der EGW für neue Anlagen gemäss Nummer 8 auf den erweiterten Teil der Anlage Anwendung. Der EGW wird als gewogener Durchschnitt der tatsächlichen Wärmeleistung des bestehenden und des neuen Teils der Anlage berechnet.
+- c) Die Vertragsparteien tragen dafür Sorge, dass für den Fall einer Betriebsstörung oder des Ausfalls der Abgasreinigungsanlage Vorkehrungen getroffen werden.
+- d) Im Falle von Mehrstofffeuerungsanlagen, die gleichzeitig mit zwei oder mehr Brennstoffen beschickt werden, wird der EGW auf der Grundlage der Wärmeleistung der einzelnen Brennstoffe als gewogener Durchschnitt der EGW der jeweiligen Brennstoffe bestimmt.
 
-\13. Grenzwert für Partikelemissionen: 20 mg/m<sup>3</sup>.
+Primär- und Sekundäranlagen für die Erzeugung von Eisen und Stahl (Anhang II Kategorien 2 und 3)
 
-Gewinnung von Blei (Anhang II, Kategorien 5 und 6):
+\10. Grenzwerte für Staubemissionen:
 
-\14. Grenzwert für Partikelemissionen: 10 mg/m<sup>3</sup>.
+Tabelle 2
 
-Zementindustrie (Anhang II, Kategorie 7):
+<table>
+<tr><th>Tätigkeit</th><th>EGW für Staub (mg/m<sup>3</sup>)</th></tr>
+<tr><td>Sinteranlage</td><td>50</td></tr>
+<tr><td>Pelletieranlage</td><td>20 für Zerkleinern, Mahlen und Trocknen 15 für alle anderen Verfahrensschritte</td></tr>
+<tr><td>Hochofen: Winderhitzer</td><td>10</td></tr>
+<tr><td>Stahlerzeugung und Giessen nach dem Sauerstoffaufblasverfahren</td><td>30</td></tr>
+<tr><td>Stahlerzeugung und Giessen nach dem Elektrolichtbogenverfahren</td><td>15 (bestehende Anlagen) 5 (neue Anlagen)</td></tr>
+</table>
 
-\15. Grenzwert für Partikelemissionen: 50 mg/m<sup>3</sup>.
+Eisengiessereien (Anhang II Kategorie 4)
 
-Glasindustrie (Anhang II, Kategorie 8):
+\11. Grenzwerte für Staubemissionen aus Eisengiessereien:
 
-\16. Grenzwerte beziehen sich auf verschiedene O<sub>2</sub>-Konzentrationen im Abgas in Abhängigkeit von der Ofenart: Wannenöfen: 8 %; Hafenöfen und Tageswannen: 13 %.
+Tabelle 3
 
-\17. Grenzwert für Bleiemissionen: 5 mg/m<sup>3</sup>.
+<table>
+<tr><th>Tätigkeit</th><th>EGW für Staub (mg/m<sup>3</sup>)</th></tr>
+<tr><td>Eisengiessereien: sämtliche Ofentypen (Kupolöfen, Induktionsöfen, Drehrohröfen); alle Gussformen (Einwegformen, Dauerformen)</td><td>20</td></tr>
+<tr><td>Warmwalzen</td><td>20 50, wenn Gewebefilter aufgrund eines hohen Feuchtegehalts im Abgas nicht eingesetzt werden können</td></tr>
+</table>
 
-Chloralkaliindustrie (Anhang II, Kategorie 9):
+Anlagen zur Erzeugung und Verarbeitung von Kupfer, Zink und Ferro‑Silizium-Manganlegierungen, einschliesslich Imperial-Smelting-Öfen (Anhang II Kategorien 5 und 6)
 
-\18. Grenzwerte beziehen sich auf die Gesamtmasse des von einer Anlage in die Luft freigesetzten Quecksilbers, und zwar unabhängig von der Emissionsquelle und ausgedrückt als Jahresmittelwert.
+\12. Grenzwert für Staubemissionen aus der Erzeugung und Verarbeitung von Kupfer, Zink und Eisen-Silizium-Manganlegierungen:
 
-\19. Grenzwerte bestehender Chloralkalianlagen werden von den im Exekutivorgan zusammentretenden Vertragsparteien spätestens zwei Jahre nach dem Zeitpunkt des Inkrafttretens dieses Protokolls neu bewertet.
+Tabelle 4
 
-\20. Grenzwert für neue Chloralkalianlagen: 0,01 g Hg/Mg Cl<sub>2</sub>-Produktionskapazität.
+<table>
+<tr><th>Tätigkeit</th><th>EGW für Staub (mg/m<sup>3</sup>)</th></tr>
+<tr><td>Herstellung und Verarbeitung von Nichteisenmetallen</td><td>20</td></tr>
+</table>
 
-Siedlungsabfälle, medizinische Abfälle und gefährliche Abfälle (Anhang II, Kategorien 10 und 11):
+Herstellung und Verarbeitung von Blei (Anhang II Kategorien 5 und 6)
 
-\21. Grenzwerte beziehen sich auf eine O<sub>2</sub>-Konzentration von 11 % im Abgas.
+\13. Grenzwert für Staubemissionen aus der Herstellung und Verarbeitung von Blei:
 
-\22. Grenzwert für Partikelemissionen:
+Tabelle 5
 
-- a) 10 mg/m<sup>3</sup> bei der Verbrennung gefährlicher und medizinischer Abfälle;
-- b) 25 mg/m<sup>3</sup> bei der Verbrennung von Siedlungsabfällen.
+<table>
+<tr><th>Tätigkeit</th><th>EGW für Staub (mg/m<sup>3</sup>)</th></tr>
+<tr><td>Herstellung und Verarbeitung von Blei</td><td>5</td></tr>
+</table>
 
-\23. Grenzwert für Quecksilberemissionen:
+Zementindustrie (Anhang II Kategorie 7)
 
-- a) 0,05 mg/m<sup>3</sup> bei der Verbrennung gefährlicher Abfälle;
-- b) 0,08 mg/m<sup>3</sup> bei der Verbrennung von Siedlungsabfällen;
-- c) Grenzwerte für quecksilberhaltige Emissionen, die bei der Verbrennung von medizinischen Abfällen entstehen, werden von den im Exekutivorgan zusammentretenden Vertragsparteien spätestens zwei Jahre nach dem Datum des Inkrafttretens dieses Protokolls neu bewertet.
+\14. Grenzwerte für Staubemissionen aus der Zementherstellung:
 
-Anhang VI
+Tabelle 6
+
+<table>
+<tr><th>Tätigkeit</th><th>EGW für Staub (mg/m<sup>3</sup>)<sup>a</sup></th></tr>
+<tr><td>Zementwerke, Brennöfen, Zementmühlen und Klinkerkühler</td><td>20</td></tr>
+<tr><td>Zementwerke, Brennöfen, Zementmühlen und Klinkerkühler, die Abfälle mitverbrennen</td><td>20</td></tr>
+<tr><td colspan="2"><sup>a</sup> Grenzwerte bezogen auf einen Sauerstoffgehalt von 10 %.</td></tr>
+</table>
+
+Glasindustrie (Anhang II Kategorie 8)
+
+\15. Grenzwerte für Staubemissionen aus der Glasherstellung:
+
+Tabelle 7
+
+<table>
+<tr><th>Tätigkeit</th><th>EGW für Staub (mg/m<sup>3</sup>)<sup>a</sup></th></tr>
+<tr><td>Neue Anlagen</td><td>20</td></tr>
+<tr><td>Bestehende Anlagen</td><td>30</td></tr>
+<tr><td colspan="2"><sup>a</sup> Grenzwerte bezogen auf einen Sauerstoffgehalt von 8 % (kontinuierliches Schmelzen) und von 13 % (diskontinuierliches Schmelzen).</td></tr>
+</table>
+
+\16. Grenzwert für Bleiemissionen aus der Glasherstellung: 5 mg/m<sup>3</sup>.
+
+Chloralkali-Industrie (Anhang II Kategorie 9)
+
+\17. Bestehende Chloralkali-Anlagen, die eine Quecksilberzelltechnik anwenden, müssen bis zum 31. Dezember 2020 auf quecksilberfreie Technologien umstellen oder schliessen; bis zur Umstellung gilt für den Quecksilberausstoss einer Anlage in die Luft ein Grenzwert von 1 g je Mg[^annexV-lvlu1-lvlA-3] produziertes Chlor.
+
+\18. Neue Chloralkali-Anlagen müssen quecksilberfrei betrieben werden.
+
+Abfallverbrennung (Anhang II Kategorien 10 und 11)
+
+\19. Grenzwert für Staubemissionen aus der Abfallverbrennung:
+
+Tabelle 8
+
+<table>
+<tr><th>Tätigkeit</th><th>EGW für Staub (mg/m<sup>3</sup>)<sup>a</sup></th></tr>
+<tr><td>Verbrennungen von Siedlungsabfällen und nicht gefährlichen, gefährlichen und medizinischen Abfällen</td><td>10</td></tr>
+<tr><td colspan="2"><sup>a</sup> Grenzwert bezogen auf einen Sauerstoffgehalt von 11 %.</td></tr>
+</table>
+
+\20. Grenzwert für Quecksilberemissionen aus der Abfallverbrennung: 0,05 mg/m<sup>3</sup>.
+
+\21. Grenzwert für Quecksilberemissionen für die Mitverbrennung von Abfällen der Quellenkategorien 1 und 7: 0,05 mg/m<sup>3</sup>.
+
+[^annexV-lvlu1-lvlA-1]: Die Feuerungswärmeleistung der Feuerungsanlage wird als die Summe der Wärmeleistungen aller Einheiten berechnet, die an einen gemeinsamen Schornstein angeschlossen sind. Einzelne Anlagen unter 15 MWth bleiben bei der Berechnung der Gesamtfeuerungswärmeleistung unberücksichtigt.
+[^annexV-lvlu1-lvlA-2]: Insbesondere gelten die EGW nicht für: – Anlagen, die als einzige Brennstoffquelle Biomasse und Torf verwenden ; – Anlagen, in denen die Verbrennungsprodukte unmittelbar zum Erwärmen, zum Trocknen oder zu einer anderweitigen Behandlung von Gegenständen oder Materialien verwendet werden; – Nachverbrennungsanlagen, die dafür ausgelegt sind, die Abgase durch Verbrennung zu reinigen, und die nicht als unabhängige Feuerungsanlagen betrieben werden; – Anlagen zum Regenerieren von Katalysatoren für katalytisches Cracken; – Anlagen für die Umwandlung von Schwefelwasserstoff in Schwefel; – in der chemischen Industrie verwendete Reaktoren; – Koksofenunterfeuerung; – Winderhitzer (Cowper); – Ablaugekessel in Anlagen für die Zellstofferzeugung; – Abfallverbrennungsöfen; und – Anlagen, die von Diesel-, Benzin- oder Gasmotoren oder von Gasturbinen angetrieben werden, unabhängig vom verwendeten Brennstoff.
+[^annexV-lvlu1-lvlA-3]: 1 Mg = 1 Tonne.
+
+### B. Vereinigte Staaten von Amerika
+
+\22. Die Grenzwerte zur Minderung der Emissionen partikelförmiger Stoffe und/oder bestimmter Schwermetalle aus ortsfesten Quellen der folgenden Quellenkategorien, und die Quellen, für die sie gelten, sind in folgenden Dokumenten festgelegt:
+
+- a) Stahlwerke: Elektrolichtbogenöfen – 40 C.F.R. Teil 60, Unterabschnitte AA und AAa;
+- b) Kleine kommunale Abfallverbrennungsanlagen – 40 C.F.R. Teil 60, Unterabschnitt AAAA;
+- c) Glasherstellung – 40 C.F.R. Teil 60, Unterabschnitt CC;
+- d) Dampferzeuger in E-Werken – 40 C.F.R. Teil 60 Unterabschnitte D und Da;
+- e) Anlagen zur Dampferzeugung in Industrie, Gewerbe, Institutionen – 40 C.F.R. Teil 60, Unterabschnitte Db und Dc;
+- f) Kommunale Abfallverbrennungsanlagen – 40 C.F.R. Teil 60, Unterabschnitte E, Ea und Eb;
+- g) Verbrennungsanlagen für Krankenhausabfälle/medizinische Abfälle und infektiöse Abfälle – 40 C.F.R. Teil 60. Unterabschnitt Ec;
+- h) Portland-Zement – 40 C.F.R. Teil 60, Unterabschnitt F;
+- i) Sekundäre Bleischmelzen – 40 C.F.R. Teil 60, Unterabschnitt L;
+- j) Sauerstoffblaskonverter – 40 C.F.R. Teil 60, Unterabschnitt N;
+- k) Sauerstoffblaskonverter und dazugehörige Anlagen (nach dem 20. Januar 1983) – 40 C.F.R. Teil 60, Unterabschnitt Na;
+- l) Primäre Kupferschmelzen – 40 C.F.R. Teil 60, Unterabschnitt P;
+- m) Primäre Zinkschmelzen – 40 C.F.R. Teil 60, Unterabschnitt Q;
+- n) Primäre Bleischmelzen – 40 C.F.R. Teil 60, Unterabschnitt R;
+- o) Eisenlegierungsanlagen – 40 C.F.R. Teil 60, Unterabschnitt Z;
+- p) Andere Einheiten für die Verbrennung fester Abfälle (nach dem 9. Dezember 2004) – 40 C.F.R. Teil 60, Unterabschnitt EEEE;
+- q) Sekundäre Bleischmelzen – 40 C.F.R. Teil 63, Unterabschnitt X;
+- r) Verbrennungsanlagen für gefährliche Abfälle – 40 C.F.R. Teil 63, Unterabschnitt EEE;
+- s) Herstellung von Portland-Zement – 40 C.F.R. Teil 63, Unterabschnitt LLL;
+- t) Primärkupfer – 40 C.F.R. Teil 63, Unterabschnitt QQQ;
+- u) primäres Bleischmelzen – 40 C.F.R. Teil 63, Unterabschnitt TTT;
+- v) Eisen- und Stahlgiessereien – 40 C.F.R. Teil 63, Unterabschnitt EEEEE;
+- w) Integrierte Eisen- und Stahlherstellung – 40 C.F.R. Teil 63, Unterabschnitt FFFFF;
+- x) Elektrostahlwerke – 40 C.F.R. Teil 63, Unterabschnitt YYYYY;
+- y) Eisen- und Stahlgiessereien – 40 C.F.R. Teil 63, Unterabschnitt ZZZZZ;
+- z) Primärkupferschmelzen – diffuse Quellen – 40 C.F.R. Teil 63, Unterabschnitt EEEEEE;
+- aa) Sekundärkupferschmelzen – diffuse Quellen – 40 C.F.R. Teil 63, Unterabschnitt EEEEEE;
+- bb) Primäre Nichteisenmetalle – Diffuse Quellen: Zink, Kadmium und Beryllium – 40 C.F.R. Beryllium GGGGGG;
+- cc) Glasherstellung (diffuse Quellen) – 40 C.F.R. Teil 63, Unterabschnitt SSSSSS;
+- dd) Schmelzen sekundäre Nichteisenmetalle (diffuse Quellen) – 40 C.F.R. Teil 63, Unterabschnitt TTTTTT;
+- ee) Herstellung von Eisenlegierungen (diffuse Quellen) – 40 C.F.R. Teil 63, Unterabschnitt YYYYYY;
+- ff) Schmelzen Aluminium-, Kupfer- und Nichteisenmetalle (diffuse Quellen) – 40 C.F.R. Teil 63, Unterabschnitt ZZZZZZ;
+- gg) Leistungsnormen für Kohleaufbereitungs- und -verarbeitungsanlagen – 40 C.F.R. Teil 60, Unterabschnitt Y;
+- hh) Erhitzer für Industrie, Gewerbe, Institutionen und Prozesse – 40 C.F.R. Teil 63, Unterabschnitt DDDDD;
+- ii) Kessel für Industrie, Gewerbe und Institutionen (diffuse Quellen) – 40 C.F.R. Teil 63, Unterabschnitt JJJJJJ;
+- jj) Quecksilberzell-Chloralkalianlagen – 40 C.F.R. Teil 63, Unterabschnitt IIIII;
+- kk) Leistungsnormen für gewerbliche und industrielle Einheiten zur Verbrennung fester Abfälle, mit deren Bau nach dem 30. November 1999 bzw. mit deren Umbau oder Neubau am oder nach dem 1. Juni 2001 begonnen wurde – 40 C.F.R. Teil 60, Unterabschnitt CCCC.»
+
+Anhang VI*[^t-6]*
 
 ## Produktkontrollmassnahmen
 
-\1. Sofern in diesem Anhang nichts anderes festgelegt ist und spätestens bis zum Ablauf von sechs Monaten nach dem Zeitpunkt des Inkrafttretens dieses Protokolls darf der Bleigehalt von Ottokraftstoff, der für Strassenfahrzeuge verkauft wird, 0,013 g/l nicht überschreiten. Vertragsparteien, die unverbleiten Ottokraftstoff mit einem Bleigehalt unter 0,013 g/l verkaufen, bemühen sich, diesen Wert zu halten oder zu senken.
+[^t-6]: Bereinigt gemäss Anhang Ziff. 27–30 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
+
+\1. Spätestens am Tag des Inkrafttretens bis zum Ablauf dieses Protokolls für eine Vertragspartei darf der Bleigehalt von Ottokraftstoff, der für Strassenfahrzeuge verkauft wird, 0,013 g/l nicht überschreiten. Vertragsparteien, die unverbleiten Ottokraftstoff mit einem Bleigehalt unter 0,013 g/l verkaufen, bemühen sich, diesen Wert zu halten oder zu senken.
 
 \2. Jede Vertragspartei ist bestrebt zu gewährleisten, dass sich aus der Umstellung auf Kraftstoffe mit einem Bleigehalt gemäss Absatz 1 eine Verringerung der gefährlichen Auswirkungen auf die menschliche Gesundheit und die Umwelt insgesamt ergibt.
 
-\3. Gelangt ein Staat zu der Auffassung, dass für ihn die Begrenzung des Bleigehalts von auf dem Markt befindlichen Ottokraftstoff gemäss Absatz 1 schwerwiegende sozioökonomische oder technische Probleme zur Folge hätte bzw. unter anderem auf Grund seiner klimatischen Situation insgesamt keine Vorteile für Umwelt und Gesundheit mit sich bringen würde, so kann er den in dem genannten Absatz angegebenen Zeitraum auf maximal 10 Jahre verlängern und darf währenddessen Ottokraftstoff mit einem Bleigehalt von höchstens 0,15 g/l verkaufen. In einem solchen Fall gibt der Staat in einer zusammen mit seiner Ratifikations‑, Annahme‑, Genehmigungs‑ und Beitrittsurkunde zu hinterlegenden Erklärung an, dass er beabsichtigt, den Zeitraum zu verlängern, und legt dem Exekutivorgan schriftlich eine entsprechende Begründung vor.
+\3. …
 
-\4. Eine Vertragspartei ist berechtigt, kleine Mengen, d. h. bis zu 0,5 % ihres Gesamtabsatzes an Ottokraftstoff, von verbleitem Ottokraftstoff mit einem Bleigehalt von höchstens 0,15 g/l für alte Strassenfahrzeuge zu verkaufen.
+\4. Unbeschadet von Nummer 1 ist eine Vertragspartei berechtigt, kleine Mengen, d. h. bis zu 0,5 % ihres Gesamtabsatzes an Ottokraftstoff, von verbleitem Ottokraftstoff mit einem Bleigehalt von höchstens 0,15 g/l für alte Strassenfahrzeuge zu verkaufen.
 
-\5. Jede Vertragspartei erreicht bis spätestens fünf Jahre bzw. zehn Jahre im Falle von Ländern im Übergang zur Marktwirtschaft, die in einer mit ihrer Ratifikations‑, Annahme‑, Genehmigungs‑ und Beitrittsurkunde zu hinterlegenden Erklärung ihre Absicht zur Übernahme eines Zehnjahreszeitraums bekunden, nach dem Datum des Inkrafttretens dieses Protokolls Konzentrationen, die folgende Werte nicht überschreiten:
+\5. Jede Vertragspartei erreicht spätestens am Tag des Inkrafttretens dieses Protokolls für die Vertragspartei Konzentrationen, die die folgenden Werte nicht überschreiten:
 
 - a) 0,05 Masseprozent Quecksilber in Alkali-Mangan-Batterien, die zur längeren Verwendung unter extremen Bedingungen (z. B. Temperatur unter 0°C oder über 50°C, Erschütterungen) vorgesehen sind, und
 - b) 0,025 Masseprozent Quecksilber in allen anderen Alkali-Mangan-Batterien.
@@ -515,7 +713,7 @@ Anhang VII
 - f) quecksilberhaltige Farben (Massnahmen sind unter anderem Verbote für alle derartigen Farben, Verbote für die Verwendung derartiger Farben im Innenbereich und für Kinderspielzeug sowie Verbote für die Verwendung in Antifouling); und
 - g) quecksilberhaltige ausser den in Anhang VI aufgeführten Batterien (Massnahmen sind unter anderem die Verringerung des Quecksilbergehalts durch freiwillige und ordnungspolitische Programme sowie Umweltabgaben und freiwillige Recyclingprogramme).
 
-Geltungsbereich am 10. Mai 2017**[^t-4]**
+Geltungsbereich am 10. Mai 2017**[^t-7]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -533,17 +731,17 @@ Geltungsbereich am 10. Mai 2017**[^t-4]**
 <tr><td>Liechtenstein\*</td><td>23. Dezember</td><td>2003</td><td>22. März</td><td>2004</td></tr>
 <tr><td>Litauen</td><td>28. Oktober</td><td>2004</td><td>26. Januar</td><td>2005</td></tr>
 <tr><td>Luxemburg\*</td><td>1. Mai</td><td>2000</td><td>29. Dezember</td><td>2003</td></tr>
-<tr><td>Mazedonien</td><td>1. November</td><td>2010 B</td><td>30. Januar</td><td>2011</td></tr>
 <tr><td>Moldau</td><td>1. Oktober</td><td>2002</td><td>29. Dezember</td><td>2003</td></tr>
 <tr><td>Monaco\*</td><td>13. November</td><td>2003 B</td><td>11. Februar</td><td>2004</td></tr>
 <tr><td>Montenegro</td><td>30. Dezember</td><td>2011 B</td><td>29. März</td><td>2012</td></tr>
 <tr><td>Niederlande\* <sup>a</sup></td><td>23. Juni</td><td>2000</td><td>29. Dezember</td><td>2003</td></tr>
+<tr><td>Nordmazedonien</td><td>1. November</td><td>2010 B</td><td>30. Januar</td><td>2011</td></tr>
 <tr><td>Norwegen\*</td><td>16. Dezember</td><td>1999</td><td>29. Dezember</td><td>2003</td></tr>
 <tr><td>Österreich\*</td><td>17. Dezember</td><td>2003</td><td>16. März</td><td>2004</td></tr>
 <tr><td>Portugal</td><td>4. Mai</td><td>2017</td><td>2. August</td><td>2017</td></tr>
 <tr><td>Rumänien\*</td><td>5. September</td><td>2003</td><td>29. Dezember</td><td>2003</td></tr>
 <tr><td>Schweden</td><td>19. Januar</td><td>2000</td><td>29. Dezember</td><td>2003</td></tr>
-<tr><td>Schweiz</td><td>14. November</td><td>2000</td><td>29. Dezember</td><td>2003</td></tr>
+<tr><td>Schweiz\*</td><td>14. November</td><td>2000</td><td>29. Dezember</td><td>2003</td></tr>
 <tr><td>Serbien<sup>\*</sup></td><td>26. März</td><td>2012 B</td><td>24. Juni</td><td>2012</td></tr>
 <tr><td>Slowakei\*</td><td>30. Dezember</td><td>2002</td><td>29. Dezember</td><td>2003</td></tr>
 <tr><td>Slowenien</td><td>9. Februar</td><td>2004</td><td>9. Mai</td><td>2004</td></tr>
@@ -554,8 +752,16 @@ Geltungsbereich am 10. Mai 2017**[^t-4]**
 <tr><td>Vereinigtes Königreich</td><td>6. Juli</td><td>2005</td><td>4. Oktober</td><td>2005</td></tr>
 <tr><td>Zypern</td><td>2. September</td><td>2004</td><td>1. Dezember</td><td>2004</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-4]: [AS 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141), [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644), [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493), [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141)und [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+## Erklärung
+
+[^t-7]: [AS 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141); [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644); [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493); [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141); [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326)und [2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.fedlex.admin.ch/de/treaty).
+
+### Schweiz
+
+Die Schweiz hat gestützt auf Artikel 13 Absatz 3 des Protokolls bei der Annahme folgende Erklärung angebracht:
+
+Gemäss Artikel 15 Absatz 3 des Protokolls in seiner geänderten Fassung erklärt die Schweiz, dass sie hinsichtlich der Änderung der Anhänge II, IV, V und VI nicht an das in Artikel 13 Absatz 5<sup>ter</sup> festgelegte Verfahren gebunden sein will.
