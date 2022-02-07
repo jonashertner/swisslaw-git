@@ -3,11 +3,11 @@ sr: "0.191.02"
 title: Convenzione di Vienna del 24 aprile 1963 sulle relazioni consolari
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/887_927_843"
 language: it
-version: 2016-06-16
+version: 2022-02-08
 adopted: 1963-04-24
 in_force: 1967-03-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/887_927_843/20160616/it/xml/fedlex-data-admin-ch-eli-cc-1968-887_927_843-20160616-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/887_927_843/20160616/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/887_927_843/20220208/it/xml/fedlex-data-admin-ch-eli-cc-1968-887_927_843-20220208-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/887_927_843/20220208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1968/887_927_843/20160616/it"
 
 RU **1968** 843; FF **1964** II 1849
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiusa a Vienna il 24 aprile 1963
+Conchiusa a Vienna il 24 aprile 1963 Approvata dall’Assemblea federale il 18 dicembre 1964[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 3 maggio 1965 Entrata in vigore per la Svizzera il 19 marzo 1967
 
-Approvata dall’Assemblea federale il 18 dicembre 1964[^t-2]
+(Stato 8 febbraio 2022)
 
-Istrumento di ratificazione depositato dalla Svizzera il 3 maggio 1965
-
-Entrata in vigore per la Svizzera il 19 marzo 1967
-
-(Stato 16 giugno 2016)
-
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 1968 841](https://fedlex.data.admin.ch/eli/oc/1968/885_925_841)
+[^t-1]: [RU 1968 841](https://fedlex.data.admin.ch/eli/oc/1968/885_925_841)
 
 Gli Stati parti alla presente Convenzione,
 
@@ -47,8 +40,8 @@ affermato che le regole del diritto internazionale consuetudinario devono rimane
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
 
 #### Art. 1
 
@@ -795,7 +788,7 @@ Per altro, non saranno considerati discriminatori:
 
 La presente Convenzione rimane aperta alla firma di tutti gli Stati Membri dell’Organizzazione delle Nazioni Unite o di un’istituzione speciale, di tutti gli Stati che partecipano allo Statuto della Corte internazionale di Giustizia[^74-1] e di ogni altro Stato invitato dall’Assemblea generale dell’Organizzazione delle Nazioni Unite a partecipare alla Convenzione, nella maniera seguente: fino al 31 ottobre 1963, al Ministero federale degli Affari esteri della Repubblica d’Austria e, successivamente, fino al 31 marzo 1964, alla Sede dell’Organizzazione delle Nazioni Unite in Nuova York.
 
-[^74-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^74-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 75
 
@@ -834,7 +827,7 @@ L’originale della presente Convenzione, i cui testi inglese, cinese, spagnolo,
 
 *In fede di che,* i plenipotenziari sottoscritti, a ciò debitamente autorizzati dai loro governi, hanno firmato la presente Convenzione. Fatto a Vienna, il ventiquattro aprile milienovecentosessantatre. (Seguono le firme)
 
-Campo d’applicazione il 16 giugno 2016**[^t-3]**
+Campo d’applicazione l’8 febbraio 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -888,6 +881,7 @@ Campo d’applicazione il 16 giugno 2016**[^t-3]**
 <tr><td>Emirati Arabi Uniti</td><td>24 febbraio</td><td>1977 A</td><td>26 marzo</td><td>1977</td></tr>
 <tr><td>Eritrea</td><td>14 gennaio</td><td>1997 A</td><td>13 febbraio</td><td>1997</td></tr>
 <tr><td>Estonia</td><td>21 ottobre</td><td>1991 A</td><td>20 novembre</td><td>1991</td></tr>
+<tr><td>Eswatini</td><td>8 marzo</td><td>2019 A</td><td>7 aprile</td><td>2019</td></tr>
 <tr><td>Figi<sup>\*</sup></td><td>28 aprile</td><td>1972 A</td><td>28 maggio</td><td>1972</td></tr>
 <tr><td>Filippine</td><td>15 novembre</td><td>1965</td><td>19 marzo</td><td>1967</td></tr>
 <tr><td>Finlandia<sup>\* \*\*</sup></td><td>2 luglio</td><td>1980</td><td>1° agosto</td><td>1980</td></tr>
@@ -931,7 +925,7 @@ Campo d’applicazione il 16 giugno 2016**[^t-3]**
 <tr><td>Liechtenstein</td><td>18 maggio</td><td>1966</td><td>19 marzo</td><td>1967</td></tr>
 <tr><td>Lituania</td><td>15 gennaio</td><td>1992 A</td><td>14 febbraio</td><td>1992</td></tr>
 <tr><td>Lussemburgo</td><td>8 marzo</td><td>1972</td><td>7 aprile</td><td>1972</td></tr>
-<tr><td>Macedonia</td><td>18 agosto</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>18 agosto</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>17 febbraio</td><td>1967 A</td><td>19 marzo</td><td>1967</td></tr>
 <tr><td>Malawi</td><td>29 aprile</td><td>1980 A</td><td>29 maggio</td><td>1980</td></tr>
 <tr><td>Malaysia</td><td>1° ottobre</td><td>1991 A</td><td>31 ottobre</td><td>1991</td></tr>
@@ -980,6 +974,7 @@ Campo d’applicazione il 16 giugno 2016**[^t-3]**
 <tr><td>Saint Kitts e Nevis</td><td>6 luglio</td><td>2010 A</td><td>5 agosto</td><td>2010</td></tr>
 <tr><td>Saint Lucia</td><td>27 agosto</td><td>1986 S</td><td>22 febbraio</td><td>1979</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>27 aprile</td><td>1999 S</td><td>27 ottobre</td><td>1979</td></tr>
+<tr><td>Salomone, Isole</td><td>3 giugno</td><td>2021 A</td><td>3 luglio</td><td>2021</td></tr>
 <tr><td>Samoa</td><td>26 ottobre</td><td>1987 A</td><td>25 novembre</td><td>1987</td></tr>
 <tr><td>Santa Sede</td><td>8 ottobre</td><td>1970</td><td>7 novembre</td><td>1970</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>3 maggio</td><td>1983 A</td><td>2 giugno</td><td>1983</td></tr>
@@ -1012,6 +1007,7 @@ Campo d’applicazione il 16 giugno 2016**[^t-3]**
 <tr><td>Turkmenistan</td><td>25 settembre</td><td>1996 A</td><td>25 ottobre</td><td>1996</td></tr>
 <tr><td>Tuvalu</td><td>15 settembre</td><td>1982 S</td><td>23 ottobre</td><td>1978</td></tr>
 <tr><td>Ucraina</td><td>27 aprile</td><td>1989 A</td><td>27 maggio</td><td>1989</td></tr>
+<tr><td>Uganda</td><td>10 novembre</td><td>2021 A</td><td>10 dicembre</td><td>2021</td></tr>
 <tr><td>Ungheria</td><td>19 giugno</td><td>1987 A</td><td>19 luglio</td><td>1987</td></tr>
 <tr><td>Uruguay</td><td>10 marzo</td><td>1970</td><td>9 aprile</td><td>1970</td></tr>
 <tr><td>Uzbekistan</td><td>2 marzo</td><td>1992 A</td><td>1° aprile</td><td>1992</td></tr>
@@ -1021,9 +1017,7 @@ Campo d’applicazione il 16 giugno 2016**[^t-3]**
 <tr><td>Yemen<sup>\*</sup></td><td>10 aprile</td><td>1986 A</td><td>10 maggio</td><td>1986</td></tr>
 <tr><td>Zambia</td><td>18 maggio</td><td>2016 A</td><td>17 giugno</td><td>2016</td></tr>
 <tr><td>Zimbabwe</td><td>13 maggio</td><td>1991 A</td><td>12 giugno</td><td>1991</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau. <sup>b</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 1968 843](https://fedlex.data.admin.ch/eli/oc/1968/887_927_843), [1974 1275](https://fedlex.data.admin.ch/eli/oc/1974/1275_1275_1275), [1976 1464](https://fedlex.data.admin.ch/eli/oc/1976/1464_1464_1464), [1977 1409](https://fedlex.data.admin.ch/eli/oc/1977/1411_1411_1409), [1979 559](https://fedlex.data.admin.ch/eli/oc/1979/559_559_559), [1980 328](https://fedlex.data.admin.ch/eli/oc/1980/328_328_328), [1981 2062](https://fedlex.data.admin.ch/eli/oc/1981/2062_2062_2062), [1982 2076](https://fedlex.data.admin.ch/eli/oc/1982/2076_2076_2076), [1984 196](https://fedlex.data.admin.ch/eli/oc/1984/196_196_196)[421](https://fedlex.data.admin.ch/eli/oc/1984/421_421_421), [1985 370](https://fedlex.data.admin.ch/eli/oc/1985/370_370_370), [1987 466](https://fedlex.data.admin.ch/eli/oc/1987/466_466_466), [1988 1636](https://fedlex.data.admin.ch/eli/oc/1988/1636_1636_1636), [1990 323](https://fedlex.data.admin.ch/eli/oc/1990/323_323_323), [1993 2348](https://fedlex.data.admin.ch/eli/oc/1993/2348_2348_2348), [2004 1377](https://fedlex.data.admin.ch/eli/oc/2004/168), [2006 3321](https://fedlex.data.admin.ch/eli/oc/2006/515), [2010 1621](https://fedlex.data.admin.ch/eli/oc/2010/234), [2013 1237](https://fedlex.data.admin.ch/eli/oc/2013/272)e [2016 2289](https://fedlex.data.admin.ch/eli/oc/2016/367). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1968 843](https://fedlex.data.admin.ch/eli/oc/1968/887_927_843); [1974 1275](https://fedlex.data.admin.ch/eli/oc/1974/1275_1275_1275); [1976 1464](https://fedlex.data.admin.ch/eli/oc/1976/1464_1464_1464); [1977 1409](https://fedlex.data.admin.ch/eli/oc/1977/1411_1411_1409); [1979 559](https://fedlex.data.admin.ch/eli/oc/1979/559_559_559); [1980 328](https://fedlex.data.admin.ch/eli/oc/1980/328_328_328); [1981 2062](https://fedlex.data.admin.ch/eli/oc/1981/2062_2062_2062); [1982 2076](https://fedlex.data.admin.ch/eli/oc/1982/2076_2076_2076); [1984 196](https://fedlex.data.admin.ch/eli/oc/1984/196_196_196), [421](https://fedlex.data.admin.ch/eli/oc/1984/421_421_421); [1985 370](https://fedlex.data.admin.ch/eli/oc/1985/370_370_370); [1987 466](https://fedlex.data.admin.ch/eli/oc/1987/466_466_466); [1988 1636](https://fedlex.data.admin.ch/eli/oc/1988/1636_1636_1636); [1990 323](https://fedlex.data.admin.ch/eli/oc/1990/323_323_323); [1993 2348](https://fedlex.data.admin.ch/eli/oc/1993/2348_2348_2348); [2004 1377](https://fedlex.data.admin.ch/eli/oc/2004/168); [2006 3321](https://fedlex.data.admin.ch/eli/oc/2006/515); [2010 1621](https://fedlex.data.admin.ch/eli/oc/2010/234); [2013 1237](https://fedlex.data.admin.ch/eli/oc/2013/272); [2016 2289](https://fedlex.data.admin.ch/eli/oc/2016/367); [2022 88](https://fedlex.data.admin.ch/eli/oc/2022/88). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

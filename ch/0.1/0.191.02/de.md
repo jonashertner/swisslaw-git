@@ -3,25 +3,26 @@ sr: "0.191.02"
 title: Wiener Übereinkommen vom 24. April 1963 über konsularische Beziehungen
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/887_927_843"
 language: de
-version: 2016-06-16
+version: 2022-02-08
 adopted: 1963-04-24
 in_force: 1967-03-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/887_927_843/20160616/de/xml/fedlex-data-admin-ch-eli-cc-1968-887_927_843-20160616-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/887_927_843/20160616/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/887_927_843/20220208/de/xml/fedlex-data-admin-ch-eli-cc-1968-887_927_843-20220208-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/887_927_843/20220208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Wiener Übereinkommen über konsularische Beziehungen
 
-Übersetzung*[^t-1]*
+AS **1968** 887; BBl **1964** II 457
 
-Abgeschlossen in Wien am 24. April 1963 Von der Bundesversammlung genehmigt am 18. Dezember 1964[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 3. Mai 1965 In Kraft getreten für die Schweiz am 19. März 1967
+Übersetzung
 
-(Stand am 16. Juni 2016)
+Abgeschlossen in Wien am 24. April 1963 Von der Bundesversammlung genehmigt am 18. Dezember 1964[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. Mai 1965 In Kraft getreten für die Schweiz am 19. März 1967
 
-[^t-1]: AS **1968** 887; BBl **1964** II 457 Übersetzung des französischen Originaltexts.
-[^t-2]: [AS 1968 885](https://fedlex.data.admin.ch/eli/oc/1968/885_925_841)
+(Stand am 8. Februar 2022)
+
+[^t-1]: <sup>1</sup> [AS 1968 885](https://fedlex.data.admin.ch/eli/oc/1968/885_925_841)
 
 Die Vertragsstaaten dieses Übereinkommens,
 
@@ -29,7 +30,7 @@ eingedenk dessen, dass zwischen den Völkern von alters her konsularische Bezieh
 
 in Anbetracht der in der Satzung der Vereinten Nationen verkündeten Ziele und Grundsätze in Bezug auf die souveräne Gleichheit der Staaten, die Wahrung des Weltfriedens und der internationalen Sicherheit sowie auf die Förderung freundschaftlicher Beziehungen zwischen den Nationen,
 
-in der Erwägung, dass die Konferenz der Vereinten Nationen über die diplomatischen Beziehungen und Immunitäten das Wiener Übereinkommen über diplomatische Beziehungen[^ingress-1] angenommen hat, das am 18. April 1961 zur Unterzeichnung aufgelegt worden ist,
+in der Erwägung, dass die Konferenz der Vereinten Nationen über die diplomatischen Beziehungen und Immunitäten das Wiener Übereinkommen über diplomatische Beziehungen angenommen hat, das am 18. April 1961[^ingress-1] zur Unterzeichnung aufgelegt worden ist,
 
 überzeugt, dass ein internationales Übereinkommen über konsularische Beziehungen, Vorrechte und Immunitäten ebenfalls geeignet ist, ungeachtet der unterschiedlichen Verfassungs- und Sozialordnungen der Nationen zur Entwicklung freundschaftlicher Beziehungen zwischen ihnen beizutragen,
 
@@ -37,7 +38,7 @@ in der Erkenntnis, dass diese Vorrechte und Immunitäten nicht dem Zweck dienen,
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^ingress-1]: <sup>2</sup> [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
 
 #### Art. 1
 
@@ -293,7 +294,7 @@ Dem Ministerium für Auswärtige Angelegenheiten des Empfangsstaats oder der von
 
 <sup>2.</sup> Die Ankunft und die endgültige Abreise sind nach Möglichkeit im Voraus zu notifizieren.
 
-## Abschnitt II. Beendigung der konsularischen Tätigkeit
+### Abschnitt II. Beendigung der konsularischen Tätigkeit
 
 #### Art. 25
 
@@ -443,7 +444,7 @@ Bei der Wahrnehmung ihrer Aufgaben können sich die Konsularbeamten
 
 <sup>2.</sup> Die vereinnahmten Beträge der in Ziffer 1 genannten Gebühren und Kosten und die hierüber ausgestellten Quittungen sind im Empfangsstaat von allen Steuern und sonstigen Abgaben befreit.
 
-## Abschnitt II. Erleichterungen, Vorrechte und Immunitäten für Berufs-Konsularbeamte und andere Mitglieder des konsularischen Postens
+### Abschnitt II. Erleichterungen, Vorrechte und Immunitäten für Berufs-Konsularbeamte und andere Mitglieder des konsularischen Postens
 
 #### Art. 40
 
@@ -770,7 +771,7 @@ Jeder Staat kann nach freiem Ermessen entscheiden, ob er Honorar-Konsularbeamte 
 
 Dieses Übereinkommen liegt für alle Mitgliedstaaten der Vereinten Nationen oder einer ihrer Spezialorganisationen, für Vertragsstaaten des Statuts des Internationalen Gerichtshofs[^74-1] und für jeden andern Staat, den die Generalversammlung der Vereinten Nationen einlädt, Vertragspartei des Übereinkommens zu werden, wie folgt zur Unterzeichnung auf: bis zum 31. Oktober 1963 im Bundesministerium für Auswärtige Angelegenheiten der Republik Österreich und danach bis zum 31. März 1964 am Sitz der Vereinten Nationen in New York.
 
-[^74-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^74-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 75
 
@@ -809,7 +810,7 @@ Die Urschrift dieses Übereinkommens, dessen chinesischer, englischer, französi
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Geschehen zu Wien am vierundzwanzigsten April neunzehnhundertdreiundsechzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 16. Juni 2016**[^t-3]**
+Geltungsbereich am 8. Februar 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -852,6 +853,7 @@ Geltungsbereich am 16. Juni 2016**[^t-3]**
 <tr><td>El Salvador</td><td>19. Januar</td><td>1973 B</td><td>18. Februar</td><td>1973</td></tr>
 <tr><td>Eritrea</td><td>14. Januar</td><td>1997 B</td><td>13. Februar</td><td>1997</td></tr>
 <tr><td>Estland</td><td>21. Oktober</td><td>1991 B</td><td>20. November</td><td>1991</td></tr>
+<tr><td>Eswatini</td><td>8. März</td><td>2019 B</td><td>7. April</td><td>2019</td></tr>
 <tr><td>Fidschi<sup>\*</sup></td><td>28. April</td><td>1972 B</td><td>28. Mai</td><td>1972</td></tr>
 <tr><td>Finnland<sup>\* \*\*</sup></td><td>2. Juli</td><td>1980</td><td>1. August</td><td>1980</td></tr>
 <tr><td>Frankreich<sup>\*\*</sup></td><td>31. Dezember</td><td>1970</td><td>30. Januar</td><td>1971</td></tr>
@@ -913,7 +915,7 @@ Geltungsbereich am 16. Juni 2016**[^t-3]**
 <tr><td>Marshallinseln</td><td>9. August</td><td>1991 B</td><td>8. September</td><td>1991</td></tr>
 <tr><td>Mauretanien</td><td>21. Juli</td><td>2000 B</td><td>20. August</td><td>2000</td></tr>
 <tr><td>Mauritius</td><td>13. Mai</td><td>1970 B</td><td>12. Juni</td><td>1970</td></tr>
-<tr><td>Mazedonien</td><td>18. August</td><td>1993 N</td><td>17. November</td><td>1991</td></tr>
+<tr><td>Nordmazedonien</td><td>18. August</td><td>1993 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Mexiko<sup>\*</sup></td><td>16. Juni</td><td>1965</td><td>19. März</td><td>1967</td></tr>
 <tr><td>Mikronesien</td><td>29. April</td><td>1991 B</td><td>29. Mai</td><td>1991</td></tr>
 <tr><td>Moldau</td><td>26. Januar</td><td>1993 B</td><td>25. Februar</td><td>1993</td></tr>
@@ -949,6 +951,7 @@ Geltungsbereich am 16. Juni 2016**[^t-3]**
 <tr><td>Ruanda</td><td>31. Mai</td><td>1974 B</td><td>30. Juni</td><td>1974</td></tr>
 <tr><td>Rumänien</td><td>24. Februar</td><td>1972 B</td><td>25. März</td><td>1972</td></tr>
 <tr><td>Russland</td><td>15. März</td><td>1989 B</td><td>14. April</td><td>1989</td></tr>
+<tr><td>Salomoninseln</td><td>3. Juni</td><td>2021 B</td><td>3. Juli</td><td>2021</td></tr>
 <tr><td>Sambia</td><td>18. Mai</td><td>2016 B</td><td>17. Juni</td><td>2016</td></tr>
 <tr><td>Samoa</td><td>26. Oktober</td><td>1987 B</td><td>25. November</td><td>1987</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>3. Mai</td><td>1983 B</td><td>2. Juni</td><td>1983</td></tr>
@@ -985,6 +988,7 @@ Geltungsbereich am 16. Juni 2016**[^t-3]**
 <tr><td>Türkei</td><td>19. Februar</td><td>1976 B</td><td>20. März</td><td>1976</td></tr>
 <tr><td>Turkmenistan</td><td>25. September</td><td>1996 B</td><td>25. Oktober</td><td>1996</td></tr>
 <tr><td>Tuvalu</td><td>15. September</td><td>1982 N</td><td>23. Oktober</td><td>1978</td></tr>
+<tr><td>Uganda</td><td>10. November</td><td>2021 B</td><td>10. Dezember</td><td>2021</td></tr>
 <tr><td>Ukraine</td><td>27. April</td><td>1989 B</td><td>27. Mai</td><td>1989</td></tr>
 <tr><td>Ungarn</td><td>19. Juni</td><td>1987 B</td><td>19. Juli</td><td>1987</td></tr>
 <tr><td>Uruguay</td><td>10. März</td><td>1970</td><td>9. April</td><td>1970</td></tr>
@@ -996,7 +1000,7 @@ Geltungsbereich am 16. Juni 2016**[^t-3]**
 <tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>9. Mai</td><td>1972</td><td>8. Juni</td><td>1972</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>8. September</td><td>1992 B</td><td>8. Oktober</td><td>1992</td></tr>
 <tr><td>Zypern</td><td>14. April</td><td>1976 B</td><td>14. Mai</td><td>1976</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://untreaty.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Die Änderung gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Die Änderung gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 1974 1275](https://fedlex.data.admin.ch/eli/oc/1974/1275_1275_1275), [1976 1464](https://fedlex.data.admin.ch/eli/oc/1976/1464_1464_1464), [1977 1410](https://fedlex.data.admin.ch/eli/oc/1977/1410_1410_1409), [1979 559](https://fedlex.data.admin.ch/eli/oc/1979/559_559_559), [1980 328](https://fedlex.data.admin.ch/eli/oc/1980/328_328_328), [1981 2062](https://fedlex.data.admin.ch/eli/oc/1981/2062_2062_2062), [1982 2076](https://fedlex.data.admin.ch/eli/oc/1982/2076_2076_2076), [1984 196](https://fedlex.data.admin.ch/eli/oc/1984/196_196_196)[421](https://fedlex.data.admin.ch/eli/oc/1984/421_421_421), [1985 370](https://fedlex.data.admin.ch/eli/oc/1985/370_370_370), [1987 466](https://fedlex.data.admin.ch/eli/oc/1987/466_466_466), [1988 1636](https://fedlex.data.admin.ch/eli/oc/1988/1636_1636_1636), [1990 323](https://fedlex.data.admin.ch/eli/oc/1990/323_323_323), [1993 2348](https://fedlex.data.admin.ch/eli/oc/1993/2348_2348_2348), [2004 1377](https://fedlex.data.admin.ch/eli/oc/2004/168), [2006 3321](https://fedlex.data.admin.ch/eli/oc/2006/515), [2010 1621](https://fedlex.data.admin.ch/eli/oc/2010/234), [2013 1237](https://fedlex.data.admin.ch/eli/oc/2013/272)und [2016 2289](https://fedlex.data.admin.ch/eli/oc/2016/367). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1968 887](https://fedlex.data.admin.ch/eli/oc/1968/887_927_843); [1974 1275](https://fedlex.data.admin.ch/eli/oc/1974/1275_1275_1275); [1976 1464](https://fedlex.data.admin.ch/eli/oc/1976/1464_1464_1464); [1977 1410](https://fedlex.data.admin.ch/eli/oc/1977/1410_1410_1409); [1979 559](https://fedlex.data.admin.ch/eli/oc/1979/559_559_559); [1980 328](https://fedlex.data.admin.ch/eli/oc/1980/328_328_328); [1981 2062](https://fedlex.data.admin.ch/eli/oc/1981/2062_2062_2062); [1982 2076](https://fedlex.data.admin.ch/eli/oc/1982/2076_2076_2076); [1984 196](https://fedlex.data.admin.ch/eli/oc/1984/196_196_196), [421](https://fedlex.data.admin.ch/eli/oc/1984/421_421_421); [1985 370](https://fedlex.data.admin.ch/eli/oc/1985/370_370_370); [1987 466](https://fedlex.data.admin.ch/eli/oc/1987/466_466_466); [1988 1636](https://fedlex.data.admin.ch/eli/oc/1988/1636_1636_1636); [1990 323](https://fedlex.data.admin.ch/eli/oc/1990/323_323_323); [1993 2348](https://fedlex.data.admin.ch/eli/oc/1993/2348_2348_2348); [2004 1377](https://fedlex.data.admin.ch/eli/oc/2004/168); [2006 3321](https://fedlex.data.admin.ch/eli/oc/2006/515); [2010 1621](https://fedlex.data.admin.ch/eli/oc/2010/234); [2013 1237](https://fedlex.data.admin.ch/eli/oc/2013/272); [2016 2289](https://fedlex.data.admin.ch/eli/oc/2016/367); [2022 88](https://fedlex.data.admin.ch/eli/oc/2022/88). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
