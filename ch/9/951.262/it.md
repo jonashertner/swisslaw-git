@@ -4,20 +4,22 @@ title: "Ordinanza del 25 novembre 2020 sui provvedimenti per i casi di rigore co
 short: OPCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: it
-version: 2022-01-01
+version: 2022-02-08
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220208/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220208-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sui provvedimenti per i casi di rigore concernenti le imprese in relazione all’epidemia di COVID-19
 
-(Ordinanza COVID-19 casi di rigore)
+(Ordinanza COVID-19 casi di rigore 2020, OPCR 20)**[^t-1]**
 
-del 25 novembre 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 25 novembre 2020 (Stato 8 febbraio 2022) (Stato 8 febbraio 2022)
+
+[^t-1]: Nuovo testo giusta l’art 19 dell’O del 2 feb. 2022 sui provvedimenti per i casi di rigore concernenti le imprese in relazione all’epidemia di COVID-19 nel 2022, in vigore dall’8 feb. 2022 al 31 dic. 2031 ([RU 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
 Il Consiglio federale svizzero,
 
@@ -98,11 +100,11 @@ Il contratto che il Cantone conclude con un’impresa relativo alla concessione 
 
 **Quadro temporale**[^10-1]
 
-<sup>1</sup> Per i mutui, le fideiussioni o le garanzie per i quali il Cantone può chiedere la partecipazione della Confederazione alle eventuali perdite, le richieste sono presentate ai Cantoni al più tardi entro il 31 marzo 2022.
+<sup>1</sup> Per i mutui, le fideiussioni o le garanzie per i quali il Cantone può chiedere la partecipazione della Confederazione alle eventuali perdite, le richieste sono presentate ai Cantoni al più tardi entro il 30 giugno 2022.
 
-<sup>2</sup> Per i contributi non rimborsabili per i quali il Cantone può chiedere la partecipazione della Confederazione ai costi, le richieste sono presentate ai Cantoni al più tardi entro il 31 marzo 2022.
+<sup>2</sup> Per i contributi non rimborsabili per i quali il Cantone può chiedere la partecipazione della Confederazione ai costi, le richieste sono presentate ai Cantoni al più tardi entro il 30 giugno 2022.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 mar. 2022 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^10-1]: Nuovo testo giusta l’art 19 dell’O del 2 feb. 2022 sui provvedimenti per i casi di rigore concernenti le imprese in relazione all’epidemia di COVID-19 nel 2022, in vigore dall’8 feb. 2022 al 31 dic. 2031 ([RU 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
 #### Art. 11
 
@@ -183,7 +185,7 @@ I contributi della Confederazione sono pagati al Cantone:
 - b.[^17-3] nel caso delle fideiussioni: se sono escusse o nel caso delle garanzie se sono richieste;
 - c.[^17-4] nel caso dei contributi non rimborsabili: al più tardi entro la fine di dicembre del 2022 oppure, se il Cantone non può emettere la fattura in tempo utile a causa di un procedimento pendente dinanzi ad autorità amministrative o giudiziarie, entro 15 mesi dalla conclusione del procedimento.
 
-<sup>2bis</sup> Per i contributi non rimborsabili, il Cantone emette una fattura alla Confederazione al più tardi entro il 31 agosto 2022 oppure, se è pendente un procedimento dinanzi ad autorità amministrative o giudiziarie, entro nove mesi dalla conclusione del procedimento.[^17-5]
+<sup>2bis</sup> Per i contributi non rimborsabili, il Cantone emette una fattura alla Confederazione al più tardi entro il 31 ottobre 2022 oppure, se è pendente un procedimento dinanzi ad autorità amministrative o giudiziarie, entro nove mesi dalla conclusione del procedimento.[^17-5]
 
 <sup>3</sup> I ricavi derivanti dal recupero di mutui e fideiussioni, da cui sono dedotti i costi sostenuti per il recupero, sono ripartiti tra Confederazione e Cantoni in funzione dell’effettiva partecipazione ai costi.[^17-6]
 
@@ -193,7 +195,7 @@ I contributi della Confederazione sono pagati al Cantone:
 [^17-2]: In vigore fino al 31 dic. 2031 (art. 23 cpv. 5).
 [^17-3]: In vigore fino al 31 dic. 2031 (art. 23 cpv. 5).
 [^17-4]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
-[^17-5]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-5]: Introdotto dal n. I dell’O del 17 dic. 2021 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)). Nuovo testo giusta l’art 19 dell’O del 2 feb. 2022 sui provvedimenti per i casi di rigore concernenti le imprese in relazione all’epidemia di COVID-19 nel 2022, in vigore dall’8 feb. 2022 al 31 dic. 2031 ([RU 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 [^17-6]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)). In vigore fino al 31 dic. 2031 (art. 23 cpv. 5).
 [^17-7]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2031 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
@@ -282,6 +284,6 @@ Ai fini del calcolo della copertura del capitale e delle riserve secondo l’art
 [^23-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 [^23-2]: Introdotto dal n. I dell’O del 17 dic. 2021, in vigore dal 18 dic. 2021 ([RU 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
-Allegato*[^t-1]*
+Allegato*[^t-2]*
 
-[^t-1]: In vigore fino al 31 dic. 2021 (art. 23 cpv. 2).
+[^t-2]: In vigore fino al 31 dic. 2021 (art. 23 cpv. 2).

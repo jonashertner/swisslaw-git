@@ -4,20 +4,22 @@ title: "Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unterne
 short: HFMV 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: de
-version: 2022-01-01
+version: 2022-02-08
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220208/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220208-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 
-(Covid-19-Härtefallverordnung)
+(Covid-19-Härtefallverordnung 2020, HFMV 20)**[^t-1]**
 
-vom 25. November 2020 (Stand am 1. Januar 2022)
+vom 25. November 2020 (Stand am 8. Februar 2022)
+
+[^t-1]: Fassung gemäss Art. 19 der Covid-19-Härtefallverordnung 2022 vom 2. Febr. 2022, in Kraft vom 8. Febr. 2022 bis zum 31. Dez. 2031 ([AS 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
 Der Schweizerische Bundesrat,
 
@@ -92,11 +94,11 @@ Der Vertrag über Beiträge, Darlehen, Bürgschaften oder Garantien, den der Kan
 
 **Zeitlicher Rahmen**[^10-1]
 
-<sup>1</sup> Für Darlehen, Bürgschaften oder Garantien, für die der Kanton im Verlustfall die Beteiligung des Bundes beanspruchen kann, werden die Gesuche bis spätestens am 31. März 2022 bei den Kantonen eingereicht.
+<sup>1</sup> Für Darlehen, Bürgschaften oder Garantien, für die der Kanton im Verlustfall die Beteiligung des Bundes beanspruchen kann, werden die Gesuche bis spätestens am 30. Juni 2022 bei den Kantonen eingereicht.
 
-<sup>2</sup> Für nicht rückzahlbare Beiträge, für deren Kosten der Kanton die Beteiligung des Bundes beanspruchen kann, werden die Gesuche bis spätestens am 31. März 2022 bei den Kantonen eingereicht.
+<sup>2</sup> Für nicht rückzahlbare Beiträge, für deren Kosten der Kanton die Beteiligung des Bundes beanspruchen kann, werden die Gesuche bis spätestens am 30. Juni 2022 bei den Kantonen eingereicht.
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. März 2022 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^10-1]: Fassung gemäss Art. 19 der Covid-19-Härtefallverordnung 2022 vom 2. Febr. 2022, in Kraft vom 8. Febr. 2022 bis zum 31. Dez. 2031 ([AS 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
 #### Art. 11
 
@@ -179,7 +181,7 @@ Beiträge des Bundes werden dem Kanton ausbezahlt:
 - b.[^17-3] bei Bürgschaften, wenn sie gezogen, oder bei Garantien, wenn sie eingefordert werden;
 - c.[^17-4] bei nicht rückzahlbaren Beiträgen: spätestens Ende Dezember 2022 oder, sofern der Kanton wegen eines hängigen Verfahrens vor Verwaltungs- oder Gerichtsinstanzen nicht fristgerecht abrechnen kann, innert 15 Monaten nach Abschluss des Verfahrens.
 
-<sup>2bis</sup> Für nicht rückzahlbare Beiträge stellt der Kanton dem Bund bis spätestens am 31. August 2022 oder, sofern ein Verfahren vor Verwaltungs- oder Gerichtsinstanzen hängig ist, innert neun Monaten nach Abschluss des Verfahrens Rechnung.[^17-5]
+<sup>2bis</sup> Für nicht rückzahlbare Beiträge stellt der Kanton dem Bund bis spätestens am 31. Oktober 2022 oder, sofern ein Verfahren vor Verwaltungs- oder Gerichtsinstanzen hängig ist, innert neun Monaten nach Abschluss des Verfahrens Rechnung.[^17-5]
 
 <sup>3</sup> Wiedereinbringungserträge aus Darlehen und Bürgschaften abzüglich der Kosten für die Wiedereinbringung fallen im Umfang der tatsächlich erfolgten Kostenbeteiligung zugunsten von Bund und Kantonen an.[^17-6]
 
@@ -189,7 +191,7 @@ Beiträge des Bundes werden dem Kanton ausbezahlt:
 [^17-2]: In Kraft bis zum 31. Dez. 2031 (Art. 23 Abs. 5).
 [^17-3]: In Kraft bis zum 31. Dez. 2031 (Art. 23 Abs. 5).
 [^17-4]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
-[^17-5]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-5]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)). Fassung gemäss Art. 19 der Covid-19-Härtefallverordnung 2022 vom 2. Febr. 2022, in Kraft vom 8. Febr. 2022 bis zum 31. Dez. 2031 ([AS 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 [^17-6]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)). In Kraft bis zum 31. Dez. 2031 (Art. 23 Abs. 5).
 [^17-7]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2031 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
@@ -278,6 +280,6 @@ Für die Berechnung der Deckung von Kapital und Reserven nach Artikel 725 Absatz
 [^23-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 [^23-2]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
-Anhang*[^t-1]*
+Anhang*[^t-2]*
 
-[^t-1]: In Kraft bis zum 31. Dez. 2021 (Art. 23 Abs. 2).
+[^t-2]: In Kraft bis zum 31. Dez. 2021 (Art. 23 Abs. 2).

@@ -4,20 +4,22 @@ title: "Ordonnance du 25 novembre 2020 concernant les mesures pour les cas de ri
 short: OMCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: fr
-version: 2022-01-01
+version: 2022-02-08
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20220208/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20220208-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20220208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant les mesures pour les cas de rigueur destinées aux entreprises en lien avec l’épidémie de COVID-19
 
-(Ordonnance COVID-19 cas de rigueur)
+(Ordonnance COVID-19 cas de rigueur 2020, OMCR 20)**[^t-1]**
 
-du 25 novembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 novembre 2020 (Etat le 8 février 2022)
+
+[^t-1]: Nouvelle teneur selon l’art. 19 de l’O COVID-19 cas de rigueur 2022 du 2 fév. 2022, en vigueur du 8 fév. 2022 au 31 déc. 2031 ([RO 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
 Le Conseil fédéral suisse,
 
@@ -92,11 +94,11 @@ Le contrat que le canton conclut avec une entreprise concernant l’octroi de co
 
 **Calendrier**[^10-1]
 
-<sup>1</sup> Pour les prêts, cautionnements ou garanties pour lesquels le canton peut solliciter la participation de la Confédération aux éventuelles pertes, les demandes sont adressées aux cantons au plus tard le 31 mars 2022.
+<sup>1</sup> Pour les prêts, cautionnements ou garanties pour lesquels le canton peut sollici-ter la participation de la Confédération aux éventuelles pertes, les demandes sont adressées aux cantons au plus tard le 30 juin 2022.
 
-<sup>2</sup> Pour les contributions non remboursables pour lesquelles le canton peut solliciter la participation de la Confédération aux coûts, les demandes sont adressées aux cantons au plus tard le 31 mars 2022.
+<sup>2</sup> Pour les contributions non remboursables pour lesquelles le canton peut sollici-ter la participation de la Confédération aux coûts, les demandes sont adressées aux cantons au plus tard le 30 juin 2022.
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 mars 2022 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^10-1]: Nouvelle teneur selon l’art. 19 de l’O COVID-19 cas de rigueur 2022 du 2 fév. 2022, en vigueur du 8 fév. 2022 au 31 déc. 2031 ([RO 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 
 #### Art. 11
 
@@ -177,7 +179,7 @@ Les contributions de la Confédération sont versées au canton aux moments suiv
 - b.[^17-3] pour les cautionnements ou les garanties: dès lors qu’ils sont sollicités ou exigés;
 - c.[^17-4] pour les contributions non remboursables: au plus tard à la fin de décembre 2022 ou, si le canton ne peut pas faire son décompte dans les délais en raison d’une procédure en cours devant une instance administrative ou judiciaire, dans les 15 mois suivant la clôture de la procédure.
 
-<sup>2bis</sup> Pour les contributions non remboursables, le canton adresse sa facture à la Confédération au plus tard le 31 août 2022 ou, si une procédure est en cours devant une instance administrative ou judiciaire, dans les 9 mois suivant la clôture de la procédure.[^17-5]
+<sup>2bis</sup> Pour les contributions non remboursables, le canton adresse sa facture à la Con-fédération au plus tard le 31 octobre 2022 ou, si une procédure est en cours de-vant une instance administrative ou judiciaire, dans les 9 mois suivant la clôture de la procédure.[^17-5]
 
 <sup>3</sup> Les revenus de recouvrement provenant des prêts et des cautionnements, déduction faite des coûts de recouvrement, sont répartis entre la Confédération et les cantons en fonction de la participation effective aux coûts.[^17-6]
 
@@ -187,7 +189,7 @@ Les contributions de la Confédération sont versées au canton aux moments suiv
 [^17-2]: En vigueur jusqu’au 31 déc. 2031 (art. 23, al. 5).
 [^17-3]: En vigueur jusqu’au 31 déc. 2031 (art. 23, al. 5).
 [^17-4]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
-[^17-5]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
+[^17-5]: Introduit par le ch. I de l’O du 17 déc. 2021 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)). Nouvelle teneur selon l’art. 19 de l’O COVID-19 cas de rigueur 2022 du 2 fév. 2022, en vigueur du 8 fév. 2022 au 31 déc. 2031 ([RO 2022 61](https://fedlex.data.admin.ch/eli/oc/2022/61)).
 [^17-6]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)). En vigueur jusqu’au 31 déc. 2031 (art. 23, al. 5).
 [^17-7]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2031 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
@@ -276,6 +278,6 @@ Ne sont pas pris en compte comme capitaux de tiers pour le calcul de la couvertu
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 [^23-2]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 884](https://fedlex.data.admin.ch/eli/oc/2021/884)).
 
-Annexe*[^t-1]*
+Annexe*[^t-2]*
 
-[^t-1]: En vigueur jusqu’au 31 déc. 2021 (art. 23, al. 2).
+[^t-2]: En vigueur jusqu’au 31 déc. 2021 (art. 23, al. 2).
