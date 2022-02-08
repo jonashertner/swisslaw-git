@@ -4,13 +4,13 @@ number: "711.13"
 title: Verordnung zur Bekämpfung der Verbreitung des Coronavirus
 short: Kantonale Covid-19-Verordnung
 language: de
-version: 2022-01-03
-valid_until: 2022-02-08
-version_adopted: 2022-01-02
+version: 2022-02-09
+valid_until: 2022-03-25
+version_adopted: 2022-02-08
 adopted: 2020-11-03
 in_force: 2020-11-04
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/972/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/999/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/972/pdf_file"
 
 (Kantonale Covid-19-Verordnung)
 
-vom 03.11.2020 (Stand 03.01.2022)
+vom 03.11.2020 (Stand 09.02.2022)
 
 Der Regierungsrat von Nidwalden,
 
@@ -49,21 +49,7 @@ beschliesst:
 
 <sup>3</sup> Die Gesundheits- und Sozialdirektion kann gegenüber den Schulen bei Bedarf Weisungen zu den Covid-19-Tests erteilen.
 
-#### § 2a
-
-**…**
-
-#### § 2b
-
-**Zusätzliche Massnahmen für die Schulen**
-
-<sup>1</sup> Auf dem ganzen Areal von Bildungseinrichtungen sowie während des Präsenzunterrichts müssen die Lehrpersonen und das weitere Personal sowie Jugendliche ab der Sekundarstufe I eine Gesichtsmaske tragen.
-
-<sup>2</sup> Ausgenommen sind Situationen, in denen das Tragen einer Maske den Unterricht wesentlich erschwert. Dies gilt insbesondere für Aktivitäten in den Bereichen Sport und Kultur. Die Bildungseinrichtung hat andere Massnahmen zu ergreifen, welche das Risiko zur Übertragung von Covid-19 reduzieren. Insbesondere sind im Musik- und Instrumentalunterricht genügende Abstände einzuhalten.
-
-<sup>3</sup> Im Sportunterricht sind Kontaktsportarten verboten.
-
-#### § 3–4
+#### § 2a–4
 
 **…**
 
@@ -77,64 +63,9 @@ beschliesst:
 
 [^4a-1]: SR 818.101.1
 
-#### § 4b
+#### § 4b–4e
 
-**Kontaktquarantäne 1. Grundsatz**
-
-<sup>1</sup> Für die Kontaktquarantäne ersetzen die nachfolgenden Bestimmungen die Vorgaben gemäss Art. 7 Abs. 1 bis 5 und Art. 8 der Covid-19-Verordung besondere Lage[^4b-1].
-
-[^4b-1]: SR 818.101.26
-
-#### § 4c
-
-**2. Anordnung**
-
-<sup>1</sup> Die Kantonsärztin oder der Kantonsarzt stellt Personen unter Kontaktquarantäne, die:
-
-- 1\. mit einer Person im selben Haushalt leben, deren Ansteckung mit Sars-CoV-2 bestätigt ist;
-- 2\. mit einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt ist, in einem der folgenden Zeiträume intimen Kontakt hatten:
-  - a. symptomatisch: in den letzten 48 Stunden vor dem Auftreten der Symptome und bis 10 Tage danach;
-  - b. asymptomatisch: in den letzten 48 Stunden vor der Probenentnahme und bis zur Absonderung der Person.
-
-<sup>2</sup> Von der Kontaktquarantäne ausgenommen sind Personen, die:
-
-- 1\. ihre letzte Impfdosis (Grundimmunisierung oder Booster) spätestens vor vier Monaten erhalten haben;
-- 2\. nachweisen, dass sie sich mit Sars-CoV-2 angesteckt haben und längstens seit vier Monaten als genesen gelten; oder
-- 3\. eine Tätigkeit ausüben, die für die Gesellschaft von grosser Bedeutung ist und bei der ein akuter Personalmangel herrscht: während der Ausübung der beruflichen Tätigkeit und auf dem Arbeitsweg.
-
-<sup>3</sup> Welche Personen im Sinne von Abs. 2 lit. a als geimpft gelten, richtet sich nach Anhang 2 der Covid-19-Verordnung besondere Lage[^4c-1].
-
-<sup>4</sup> Von der Kontaktquarantäne während der Ausübung der beruflichen Tätigkeit und auf dem Arbeitsweg ausgenommen sind Personen, die in Betrieben tätig sind, die über ein Testkonzept verfügen, das die folgenden Anforderungen erfüllt:
-
-- 1\. Das Konzept gewährleistet den Mitarbeitenden einen einfachen Zugang zu Tests und sieht vor, dass sie regelmässig über die Vorteile der Tests informiert werden.
-- 2\. Die Mitarbeitenden können sich mindestens einmal je Woche testen lassen.
-- 3\. Die Voraussetzungen für die Übernahme der Kosten der Tests durch den Bund nach Anhang 6 Ziffern 3.1 und 3.2 der Covid-19-Verordnung 3 vom 19. Juni 2020[^4c-2] sind erfüllt.
-
-<sup>5</sup> Die Personen nach Abs. 4 müssen sich ausserhalb der beruflichen Tätigkeit und des Arbeitswegs an die Kontaktquarantäne halten.
-
-[^4c-1]: SR 818.101.26
-[^4c-2]: SR 818.101.24
-
-#### § 4d
-
-**3. Dauer und vorzeitige Beendigung**
-
-<sup>1</sup> Die Kontaktquarantäne dauert sieben Tage ab dem Zeitpunkt des letzten engen Kontakts mit der Person nach § 4c Abs. 1.
-
-<sup>2</sup> Personen in Kontaktquarantäne können die Quarantäne beenden, wenn am siebten Tag keine Symptome vorliegen. Ein negatives Resultat einer Analyse im Sinne von Art. 8 Abs. 2 lit. a der Covid-19-Verordnung besondere Lage[^4d-1] ist nicht erforderlich.
-
-[^4d-1]: SR 818.101.26
-
-#### § 4e
-
-**Empfehlung für weitere Personen mit Kontakten zu einer positiv auf SARS-CoV-2 getesteten Person**
-
-<sup>1</sup> Personen, die mit einer Person gemäss § 4c Abs. 1 Ziff. 1 oder 2 engen Kontakt hatten, aber weder im selben Haushalt leben noch intimen Kontakt hatten, wird empfohlen:
-
-- 1\. sich vier bis sieben Tage nach dem letzten Kontakt mit der positiv getesteten Person testen zu lassen;
-- 2\. während sieben Tagen nach dem letzten Kontakt mit der positiv getesteten Person eine Gesichtsmaske zu tragen;
-- 3\. Kontakte so weit wie möglich einzuschränken und einen Abstand von mehr als 1.5 m zum Umfeld einzuhalten; und
-- 4\. öffentliche Orte zu meiden.
+**…**
 
 #### § 5
 
