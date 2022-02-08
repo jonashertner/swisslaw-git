@@ -4,13 +4,13 @@ number: "321.331"
 title: Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-Verordnung zusätzliche Massnahmen
 language: de
-version: 2022-01-03
-valid_until: 2022-02-08
-version_adopted: 2022-01-25
+version: 2022-02-09
+valid_until: 2022-02-16
+version_adopted: 2022-02-08
 adopted: 2021-11-22
 in_force: 2021-11-24
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/321.331"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5432/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5432/pdf_file"
 
 (Covid-19-Verordnung zusätzliche Massnahmen)
 
-Vom 22. November 2021 (Stand 3. Januar 2022)
+Vom 22. November 2021 (Stand 9. Februar 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -64,7 +64,7 @@ beschliesst:
 
 <sup>5</sup> Ausgenommen von den Tests gemäss Abs. 4 sind Personen, die in den letzten 6 Monaten positiv auf eine Sars-Cov-2 Infektion getestet worden sind oder aus medizinischen Gründen an einer Teilnahme verhindert sind.
 
-<sup>6</sup> Bei Verweigerung der Teilnahme am individuellen Nachtest (Depooling) wird durch das zuständige Departement eine Quarantäne angeordnet.
+<sup>6</sup> …
 
 #### § 2a
 
