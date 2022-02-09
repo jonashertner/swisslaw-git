@@ -3,13 +3,12 @@ canton: BS
 number: BaB 153.200
 title: Reglement für die Institutionen und die Zentralen Dienste
 language: de
-version: 2017-10-01
-valid_until: 2022-02-09
-version_adopted: 2017-06-27
+version: 2022-02-10
+version_adopted: 2022-02-01
 adopted: 2005-05-24
 in_force: 2006-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20153.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4242/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5455/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4242/pdf_file"
 
 Institutionen und Zentrale Dienste: Reglement | Basel: Bürgergemeinde
 
-Vom 24. Mai 2005 (Stand 1. Oktober 2017)
+Vom 24. Mai 2005 (Stand 10. Februar 2022)
 
 Der Bürgerrat der Stadt Basel
 
@@ -108,7 +107,8 @@ erlässt in Ausführung von § 14 Abs. 2 Ziff. 8a und 9, § 21b Abs. 2 und § 21
 - 6\. …
 - 7\. entscheiden erstinstanzlich über Personalrekurse;
 - 8\. entscheiden im Rahmen der Bestimmungen des Stifters über die der Institution bzw. den Zentralen Diensten gewidmeten unselbständigen Stiftungen und Fonds;
-- 9\. legen das Revisionsmandat fest.
+- 9\. legen das Revisionsmandat fest;
+- 10\. genehmigen den Abschluss von Rahmenverträgen für grundpfandgesicherte Forderungen.
 
 #### § 7
 
