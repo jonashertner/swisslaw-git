@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sugli stranieri e la loro integrazione: ammissione agevolata di stranieri con un diploma universitario svizzero"
 document: Progetto posto in consultazione
 language: it

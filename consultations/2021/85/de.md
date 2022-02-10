@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Ausländer- und Integrationsgesetzes: Zulassungserleichterung für Ausländerinnen und Ausländer mit Schweizer Hochschulabschluss"
 document: Vernehmlassungsvorlage
 language: de

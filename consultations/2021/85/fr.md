@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi fédérale sur les étrangers et l’intégration: admission facilitée pour les étrangers titulaires d’un diplôme d’une haute école suisse"
 document: Projet mis en consultation
 language: fr
