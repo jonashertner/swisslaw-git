@@ -4,13 +4,13 @@ number: "320.114"
 title: Verordnung über zusätzliche Massnahmen des Kantons Aargau zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-V AG
 language: de
-version: 2022-01-28
-valid_until: 2022-02-11
-version_adopted: 2022-01-26
+version: 2022-02-12
+valid_until: 2022-02-16
+version_adopted: 2022-02-07
 adopted: 2021-12-01
 in_force: 2021-12-04
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.114"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3151/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3153/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3151/pdf_file"
 
 (Covid-19-V AG)
 
-Vom 01.12.2021 (Stand 28.01.2022)
+Vom 01.12.2021 (Stand 12.02.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -44,24 +44,13 @@ beschliesst:
 
 **Schulen und Angebote der familien- und schulergänzenden Kinderbetreuung sowie Lager**
 
-<sup>1</sup> Jede Person muss in den Innenräumen von Schulen der Primar- und Sekundarstufe I sowie von Angeboten der familien- und schulergänzenden Kinderbetreuung eine Gesichtsmaske tragen. Die Maskentragpflicht gilt nicht:
+<sup>1</sup> …
 
-- a) für noch nicht schulpflichtige Kinder;
-- b) für Schülerinnen und Schüler des Kindergartens;
-- c) in Unterrichts-, Betreuungs- und Therapiesituationen, in denen das Tragen einer Gesichtsmaske den Unterricht, die Betreuung oder die Therapie wesentlich erschwert, sofern der Mindestabstand eingehalten wird oder der Schutz durch andere Schutzmassnahmen gewährleistet wird; dazu gehören namentlich folgende Situationen:
-  - 1\. in den Unterrichtsräumen in Situationen, in denen das Tragen einer Maske den Unterricht wesentlich erschwert;
-  - 2\. für eine einzelne Schülerin beziehungsweise einen einzelnen Schüler im Unterricht (bei Vorträgen, Referaten oder Präsentationen), wenn die übrigen Personen eine Maske tragen;
-  - 3 im Sportunterricht oder bei sportlichen Aktivitäten der Schule, wobei Körperkontakt zu vermeiden und auf entsprechende Sportarten zu verzichten ist;
-  - 4\. für eine einzelne Schülerin beziehungsweise einen einzelnen Schüler im Musik- und Instrumentalunterricht, wenn die übrigen Schülerinnen und Schüler eine Maske tragen. Zudem kann auf das Tragen von Masken verzichtet werden, wenn grosse Räumlichkeiten das Einhalten der Abstandsvorgaben von mindestens 1,5 Metern ermöglichen oder wirksame Schutzvorrichtungen zwischen den Personen angebracht werden;
-  - 5\. in den Aufenthaltsräumen, sofern die Schülerinnen und Schüler Speisen oder Getränke konsumieren. Dabei sind die Mindestabstände, wenn möglich, einzuhalten;
-  - 6\. für Schülerinnen und Schüler, die ein ärztliches Attest vorweisen können, dass sie keine Gesichtsmaske tragen können;
-  - 7\. in Sonderschulen, wenn die Schulleitung eine Schülerin oder einen Schüler von der Maskentragpflicht befreit.
+<sup>2</sup> …
 
-<sup>2</sup> Es wird dringend empfohlen, bis auf Weiteres auf Lager zu verzichten. Werden trotzdem Lager angeboten, müssen sämtliche Teilnehmende unmittelbar vor der Abreise ein gültiges Covid-19-Zertifikat oder ein aktuelles negatives Testergebnis (PCR-Test oder Antigen-Schnelltest) vorweisen.
+<sup>3</sup> …
 
-<sup>3</sup> An Schulen der Primar- und Sekundarstufe I und II und in Angeboten der familien- oder schulergänzenden Kinderbetreuung tätige Personen mit einem ärztlich bescheinigten Maskentragdispens sind verpflichtet, am wöchentlichen repetitiven Testen in der Schule teilzunehmen, wenn sie keinen Nachweis erbringen, dass sie über ein gültiges Covid-19-Impfzertifikat oder ein gültiges Covid-19-Genesungszertifikat verfügen. Bietet die Schule oder das Betreuungsangebot kein repetitives Testen an, sind sie verpflichtet, sich wöchentlich mittels molekularbiologischer Analyse testen zu lassen (PCR-Test). Die Testkosten gehen dabei zulasten des Schulträgers oder des Trägers des Betreuungsangebots.
-
-<sup>4</sup> Die vorgesetzte Person kontrolliert die Einhaltung der Verpflichtung gemäss Absatz 3. Sie kann das Testdatum oder die Gültigkeitsdauer eines vorgelegten Covid-19-Impfzertifikats beziehungsweise eines Covid-19-Genesungszertifikats erfassen.
+<sup>4</sup> …
 
 #### § 2a
 
@@ -149,7 +138,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Zuständige Behörde zum Erlass von weiteren Massnahmen betreffend die Kontaktquarantäne gemäss Art. 7 Abs. 5 der Covid-19-Verordnung besondere Lage ist die Abteilung Gesundheit des Departements Gesundheit und Soziales.
+<sup>3</sup> …
 
 #### § 8b
 
