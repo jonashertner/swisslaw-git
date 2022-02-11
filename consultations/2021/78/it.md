@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’articolo 117 capoverso 1 dell’ordinanza sull’assicurazione contro gli infortuni (OAINF)
 document: Progetto posto in consultazione
 language: it

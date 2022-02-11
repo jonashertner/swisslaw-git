@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung von Artikel 117 Absatz 1 der Verordnung über die Unfallversicherung (UVV)
 document: Vernehmlassungsvorlage
 language: de
