@@ -4,11 +4,11 @@ title: "Constituziun federala da la Confederaziun svizra dals 18 d'avrigl 1999"
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: rm
-version: 2021-11-28
+version: 2022-02-13
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20211128/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20211128-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20211128/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20220213/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20220213-rm-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20220213/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20211128/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 18 d’avrigl 1999 (versiun dals 28 da november 2021)
+dals 18 d’avrigl 1999 (versiun dals 13 da favrer 2022)
 
 **Preambel**
 
@@ -35,7 +35,7 @@ conscients da las prestaziuns communablas e da la responsabladad envers las gene
 
 savend che liber è be quel che dovra sia libertad e che la fermezza dal pievel sa mesira vi dal bainstar dals flaivels,
 
-sa dattan la sequenta constituziun:*[^ingress-1]*
+sa dattan la sequenta constituziun:[^ingress-1]
 
 [^ingress-1]: Acceptà en la votaziun dal pievel dals 18 d’avr. 1999 (COF dals 18 da dec. 1998, COCF dals 11 d’avust 1999 – [AS 1999 2556](https://fedlex.data.admin.ch/eli/oc/1999/404); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), **1999** 162 [5986](https://fedlex.data.admin.ch/eli/fga/1999/1_5986_5306_4968)).
 
@@ -300,7 +300,7 @@ La libertad da l’art è garantida.
 
 **Garanzias generalas da procedura**
 
-<sup>1</sup> Mintga persuna ha, en proceduras avant instanzas giudizialas ed administrativas, il dretg d’in tractament egual e gist sco er d’in giudicament entaifer in termin commensurà.
+<sup>1</sup> Mintga persuna ha, en proceduras davant instanzas giudizialas ed administrativas, il dretg d’in tractament egual e gist sco er d’in giudicament entaifer in termin commensurà.
 
 <sup>2</sup> Las partidas han il dretg d’attenziun giuridica.
 
@@ -445,13 +445,15 @@ Cumplettond la responsabladad persunala e l’iniziativa privata s’engaschan l
 - d. persunas ablas da lavurar possian segirar lur existenza tras ina lavur ch’ellas exequeschan sut cundiziuns commensuradas;
 - e. persunas che tschertgan abitaziuns possian chattar per els e per lur famiglia in’abitaziun adattada per cundiziuns acceptablas;
 - f. uffants e giuvenils sco er persunas en la vegliadetgna da lavur possian giudair ina scolaziun ed instrucziun sco er ina furmaziun supplementara tenor lur abilitads;
-- g. uffants e giuvenils vegnian promovids en lur svilup a persunas independentas e socialmain responsablas e vegnian sustegnids en lur integraziun sociala, culturala e politica.
+- g.[^41-1] uffants e giuvenils vegnian promovids en lur svilup a persunas independentas e socialmain responsablas e vegnian sustegnids en lur integraziun sociala, culturala e politica sco er per che lur sanadad vegnia promovida.
 
 <sup>2</sup> La Confederaziun ed ils chantuns s’engaschan che mintga persuna saja assicurada cunter las consequenzas economicas da vegliadetgna, invaliditad, malsogna, accident, dischoccupaziun, maternitad, dal daventar orfen, vaiv u vaiva.
 
 <sup>3</sup> Els sa stentan da cuntanscher las finamiras socialas en il rom da lur cumpetenzas constituziunalas e da lur meds disponibels.
 
 <sup>4</sup> Da las finamiras socialas na pon ins betg deducir dretgs directs da prestaziuns dal stadi.
+
+[^41-1]: Acceptà en la votaziun dal pievel dals 13 da favr. 2022, en vigur dapi ils 13 da favr. 2022 (COF dal 1. d’oct. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386), [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895), [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315), [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 
 ## 3. titel Confederaziun, chantuns e vischnancas
 
@@ -739,7 +741,7 @@ Sin dumonda da chantuns interessads po la Confederaziun declerar contracts inter
 <sup>3</sup> Ademplind lur incumbensas[^61a-2] s’engaschan la Confederaziun ed ils chantuns che las vias da furmaziun generala e da furmaziun professiunala chattian ina renconuschientscha equivalenta en la societad.
 
 [^61a-1]: Acceptà en la votaziun dal pievel dals 21 da matg 2006, en vigur dapi ils 21 da matg 2006 (COF dals 16 da dec. 2005, COCF dals 27 da fan. 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^61a-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^61a-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 62
 
@@ -1674,8 +1676,11 @@ La Confederaziun decretescha prescripziuns davart:
 Ella decretescha prescripziuns davart:
 
 - a. la manipulaziun da victualias sco er da medicaments, meds narcotics, organissems, chemicalias ed objects che pon periclitar la sanadad;
-- b. il cumbat cunter malsognas d’umans u d’animals transmissiblas e fitg derasadas u privlusas;
+- b.[^118-1] il cumbat cunter malsognas d’umans u d’animals transmissiblas e fitg derasadas u privlusas; ella scumonda particularmain reclama da tut gener per products da tubac, che cuntanscha uffants e giuvenils;[^118-2]\*
 - c. la protecziun cunter radis ionisants.
+
+[^118-1]: Acceptà en la votaziun dal pievel dals 13 da favr. 2022, en vigur dapi ils 13 da favr. 2022 (COF dal 1. d’oct. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386), [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895), [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315), [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^118-2]: <sup>\*</sup> Cun disposiziun transitorica.
 
 #### Art. 118a
 
@@ -1939,8 +1944,8 @@ La Confederaziun po incassar ina taglia directa:
 
 [^130-1]: Acceptà en la votaziun dal pievel dals 28 da nov. 2004, en vigur dapi il 1. da schan. 2007 (COF dals 19 da mars 2004, COCF dals 26 da schan. 2005, COCF dals 2 da favr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^130-2]: <sup>\*</sup> Cun disposiziun transitorica.
-[^130-3]: Dal 1. da schan. 2018 fin maximalmain ils 31 da dec. 2027 importa la taxa speziala per prestaziuns dal sectur d’alloschament 3,7 % (art. 25 al. 4 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur – [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
-[^130-4]: Dal 1. da schan. 2018 fin maximalmain ils 31 da dec. 2030 importan las taxas da la taglia sin la plivalur 7,7 % (taxa normala) e 2,5 % (taxa reducida) (art. 25 al. 1 e 2 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur – [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
+[^130-3]: Dal 1. da schan. 2018 fin maximalmain ils 31 da dec. 2027 importa la taxa speziala per prestaziuns dal sectur d’alloschament 3,7 % (art. 25 al. 4 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur – [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
+[^130-4]: Dal 1. da schan. 2018 fin maximalmain ils 31 da dec. 2030 importan las taxas da la taglia sin la plivalur 7,7 % (taxa normala) e 2,5 % (taxa reducida) (art. 25 al. 1 e 2 da la LF dals 12 da zer. 2009 davart la taglia sin la plivalur – [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
 [^130-5]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 #### Art. 131
@@ -2602,7 +2607,7 @@ Il Cussegl federal ha ultra da quai las suandantas incumbensas e cumpetenzas:
 
 <sup>2</sup> La lescha po surdar al Cussegl federal ulteriuras incumbensas e cumpetenzas.
 
-### 4. chapitel**** Tribunal federal ed autras autoritads giudizialas
+### 4. chapitel Tribunal federal ed autras autoritads giudizialas
 
 [^tit5-chap4-1]
 
@@ -2631,7 +2636,7 @@ Il Tribunal federal giuditgescha dispitas pervia da violaziun:
 - c. dal dretg interchantunal;
 - d. da dretgs chantunals constituziunals;
 - e. da l’autonomia communala e d’autras garanzias dals chantuns en favur da corporaziuns da dretg public;
-- f . da disposiziuns federalas e chantunalas davart il dretgs politics.
+- f . da disposiziuns federalas e chantunalas davart ils dretgs politics.
 
 <sup>1bis</sup> …[^189-1]
 
@@ -2747,7 +2752,7 @@ Il transferiment dal transport da rauba da transit sin la viafier sto esser term
 
 <table>
 <tr><th></th><th>fr.</th></tr>
-<tr><td>a. per camiuns e camiuns-tracturs</td><td>[tab]</td></tr>
+<tr><td>a. per camiuns e camiuns-tracturs</td><td></td></tr>
 <tr><td>– da pli che 3,5 fin 12 tonnas</td><td>650</td></tr>
 <tr><td>– da pli che 12 fin 18 tonnas</td><td>2000</td></tr>
 <tr><td>– da pli che 18 fin 26 tonnas</td><td>3000</td></tr>
@@ -2771,10 +2776,10 @@ Il transferiment dal transport da rauba da transit sin la viafier sto esser term
 
 <sup>8</sup> Questa disposiziun vala fin a l’entrada en vigur da la Lescha dals 19 da december 1997[^196-subdivu2-2] davart il traffic cun camiuns pesants.
 
-[^196-subdivu2-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^196-subdivu2-2]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^196-subdivu2-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^196-subdivu2-2]: [SR 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 
-### Disposiziuns transitoricas tar l’art. 86 (Impundaziun da taxas per incumbensas ed expensas en connex cun il traffic sin via), tar l’art. 87 (Viafiers ed ulteriurs meds da traffic) e tar l’art. 87a (Infrastructura da viafier)**
+### Disposiziuns transitoricas tar l’art. 86 (Impundaziun da taxas per incumbensas ed expensas en connex cun il traffic sin via), tar l’art. 87 (Viafiers ed ulteriurs meds da traffic) e tar l’art. 87a (Infrastructura da viafier)
 
 [^196-subdivu3-1]
 
@@ -2817,7 +2822,7 @@ Fin al decret d’ina legislaziun federala èn ils chantuns obligads da renconus
 
 Ils chantuns pon mantegnair durant maximalmain 10 onns a partir da l’entrada en vigur da la constituziun las reglamentaziuns existentas che fan dependenta l’avertura da manaschis dal basegn per garantir l’existenza da parts considerablas d’in tschert rom da hotellaria.
 
-### 8.** …
+### 8. …
 
 [^196-subdivu8-1]
 
@@ -2829,9 +2834,9 @@ Ils chantuns pon mantegnair durant maximalmain 10 onns a partir da l’entrada e
 
 <sup>2</sup> Il di da la festa naziunala na vegn betg quintà tar il dumber dals firads tenor l’artitgel 18 alinea 2 da la Lescha da lavur dals 13 da mars 1964[^196-subdivu9-1].
 
-[^196-subdivu9-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^196-subdivu9-1]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
-### 10.** …
+### 10. …
 
 [^196-subdivu10-1]
 
@@ -2841,13 +2846,13 @@ Ils chantuns pon mantegnair durant maximalmain 10 onns a partir da l’entrada e
 
 Assicurads ch’appartegnan a la generaziun d’entrada e na disponan per quest motiv betg dal temp da contribuziun cumplain, duain obtegnair la protecziun minimala prescritta da la lescha e quai mintgamai tenor l’autezza da lur entrada da gudogn entaifer 10 fin 20 onns suenter l’entrada en vigur da la lescha.
 
-### 12.** …
+### 12. …
 
 [^196-subdivu12-1]
 
 [^196-subdivu12-1]: Dapi ils 2 da dec. 2001 ha l’art. 126 ina nova versiun.
 
-### 13.** Disposiziun transitorica tar l’art. 128 (Durada da l’imposiziun da taglia)
+### 13. Disposiziun transitorica tar l’art. 128 (Durada da l’imposiziun da taglia)
 
 [^196-subdivu13-1]
 
@@ -2855,7 +2860,7 @@ Assicurads ch’appartegnan a la generaziun d’entrada e na disponan per quest 
 
 La taglia federala directa po vegnir incassada fin la fin da l’onn 2035.
 
-### 14.** Disposiziun transitorica tar l’art. 130 (Taglia sin la plivalur)**
+### 14. Disposiziun transitorica tar l’art. 130 (Taglia sin la plivalur)
 
 [^196-subdivu14-1][^196-subdivu14-2]
 
@@ -2874,17 +2879,17 @@ La taglia federala directa po vegnir incassada fin la fin da l’onn 2035.
 
 [^196-subdivu14-3]: Acceptà en la votaziun dal pievel dals 4 da mars 2018, en vigur dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 [^196-subdivu14-4]: Acceptà en la votaziun dal pievel dals 27 da sett. 2009, en vigur dapi il 1. da schan. 2011 (COF dals 13 da zer. 2008 e dals 12 da zer. 2009, COCF dals 7 da sett. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772)[4377](https://fedlex.data.admin.ch/eli/fga/2009/774)[4379](https://fedlex.data.admin.ch/eli/fga/2009/775)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
-[^196-subdivu14-5]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^196-subdivu14-5]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^196-subdivu14-6]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 [^196-subdivu14-7]: Acceptà en la votaziun dal pievel dals 9 da favr. 2014, en vigur dapi il 1. da schan. 2016 (COF dals 20 da zer. 2013, COCF dals 13 da matg 2014, COCF dals 2 da zer. 2014, COCF dals 6 da zer. 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
-### 15.** …
+### 15. …
 
 [^196-subdivu15-1]
 
 [^196-subdivu15-1]: Abolì en la votaziun dal pievel dals 4 da mars 2018, cun effect dapi il 1. da schan. 2021 (COF dals 16 da zer. 2017, COCF dals 13 da favr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 
-### 16.** …
+### 16. …
 
 [^196-subdivu16-1]
 
@@ -2902,9 +2907,9 @@ La taglia federala directa po vegnir incassada fin la fin da l’onn 2035.
 
 <sup>2</sup> Il Cussegl federal vegn autorisà da drizzar al secretari general da l’Organisaziun da las Naziuns Unidas (ONU) ina dumonda da la Svizra da vegnir recepida en questa organisaziun ed in’explicaziun davart l’adempliment da las obligaziuns cuntegnidas en la Charta da las Naziuns Unidas[^197-subdivu1-1].
 
-[^197-subdivu1-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^197-subdivu1-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
-### 2.** Disposiziun transitorica tar l’art. 62 (Fatgs da scola)
+### 2. Disposiziun transitorica tar l’art. 62 (Fatgs da scola)
 
 [^197-subdivu2-1]
 
@@ -2913,9 +2918,9 @@ La taglia federala directa po vegnir incassada fin la fin da l’onn 2035.
 A partir da l’entrada en vigur dal conclus federal dals 3 d’october 2003[^197-subdivu2-2] davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns surpiglian ils chantuns las prestaziuns da fin uss da l’assicuranza d’invalids vi da la scolaziun speziala (inclusiv l’educaziun prescolara pedagogic-curativa tenor l’artitgel 19 da la Lescha federala dals 19 da zercladur 1959[^197-subdivu2-3] davart l’assicuranza d’invalids), fin ch’els disponan da concepts da scolaziun speziala ch’èn approvads dal chantun, almain dentant durant trais onns.
 
 [^197-subdivu2-2]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
-[^197-subdivu2-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^197-subdivu2-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
-### 3.** Disposiziun transitorica tar l’art. 83 (Vias naziunalas)
+### 3. Disposiziun transitorica tar l’art. 83 (Vias naziunalas)
 
 [^197-subdivu3-1]
 
@@ -2923,10 +2928,10 @@ A partir da l’entrada en vigur dal conclus federal dals 3 d’october 2003[^19
 
 Ils chantuns construeschan las vias naziunalas ch’èn enumeradas en il conclus federal dals 21 da zercladur 1960[^197-subdivu3-2] davart la rait da las vias naziunalas (stadi tar l’entrada en vigur dal conclus federal dals 3 d’october 2003[^197-subdivu3-3] davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns) tenor las prescripziuns e sut la surveglianza suprema da la Confederaziun. La Confederaziun ed ils chantuns portan communablamain ils custs. La part dals custs dals singuls chantuns sa drizza tenor la grevezza che las vias naziunalas muntan per els, tenor lur interess per talas vias e tenor lur capacitad finanziala.
 
-[^197-subdivu3-2]: [SR 725.113.11](https://fedlex.data.admin.ch/eli/cc/1960/872_912_900)
+[^197-subdivu3-2]: [SR 725.113.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8457)
 [^197-subdivu3-3]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
 
-### 4.** Disposiziun transitorica tar l’art. 112b (Promoziun da l’integraziun d’invalids)
+### 4. Disposiziun transitorica tar l’art. 112b (Promoziun da l’integraziun d’invalids)
 
 [^197-subdivu4-1]
 
@@ -2936,7 +2941,7 @@ A partir da l’entrada en vigur dal conclus federal dals 3 d’october 2003[^19
 
 [^197-subdivu4-2]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
 
-### 5.** Disposiziuns transitoricas tar l’art. 112c (Agid als attempads ed als impedids)
+### 5. Disposiziuns transitoricas tar l’art. 112c (Agid als attempads ed als impedids)
 
 [^197-subdivu5-1]
 
@@ -2944,9 +2949,9 @@ A partir da l’entrada en vigur dal conclus federal dals 3 d’october 2003[^19
 
 Las prestaziuns da fin uss tenor l’artitgel 101<sup>bis</sup> da la Lescha federala dals 20 da december 1946[^197-subdivu5-2] davart l’assicuranza per vegls e survivents per l’agid e per la tgira dals attempads e dals impedids a chasa vegnan pajadas vinavant dals chantuns fin a l’entrada en vigur d’ina regulaziun chantunala da finanziaziun per l’agid e per la tgira a chasa.
 
-[^197-subdivu5-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^197-subdivu5-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
-### 7.** Disposiziun transitorica tar l’art. 120 (Tecnologia da gens en il sectur betg uman)
+### 7. Disposiziun transitorica tar l’art. 120 (Tecnologia da gens en il sectur betg uman)
 
 [^197-subdivu6-1]
 
@@ -2957,7 +2962,7 @@ L’agricultura svizra n’utilisescha nagins organissems modifitgads geneticama
 - a. plantas, parts da plantas e semenza modifitgadas geneticamain ch’èn ablas da sa multiplitgar e ch’èn destinadas per vegnir utilisadas or en il liber tar l’agricultura, tar l’orticultura u tar la selvicultura;
 - b. animals modifitgads geneticamain ch’èn destinads per la producziun da victualias e d’auters products agriculs.
 
-### 8.** Disposiziun transitorica tar l’art. 121 (Dimora e domicil da persunas estras)
+### 8. Disposiziun transitorica tar l’art. 121 (Dimora e domicil da persunas estras)
 
 [^197-subdivu7-1]
 
@@ -2965,7 +2970,7 @@ L’agricultura svizra n’utilisescha nagins organissems modifitgads geneticama
 
 Il legislatur sto definir ed agiuntar ils causals tenor artitgel 121 alinea 3 e decretar las prescripziuns penalas davart l’entrada illegala tenor artitgel 121 alinea 6 entaifer maximalmain 5 onns dapi l’acceptanza da l’artitgel 121 alineas 3–6 tras il pievel ed ils chantuns.
 
-### 9.** Disposiziun transitorica tar l’art. 75b (Abitaziuns secundaras)
+### 9. Disposiziun transitorica tar l’art. 75b (Abitaziuns secundaras)
 
 [^197-subdivu8-1]
 
@@ -2975,7 +2980,7 @@ Il legislatur sto definir ed agiuntar ils causals tenor artitgel 121 alinea 3 e 
 
 <sup>2</sup> Permissiuns da construcziun per abitaziuns secundaras, che vegnan concedidas tranter il 1. da schaner da l’onn che suonda l’acceptaziun da l’artitgel 75*b* e la data che las disposiziuns executivas entran en vigur, èn nunvalaivlas.
 
-### 10.** Disposiziun transitorica tar l’art. 95 al. 3
+### 10. Disposiziun transitorica tar l’art. 95 al. 3
 
 [^197-subdivu9-1]
 
@@ -2983,7 +2988,7 @@ Il legislatur sto definir ed agiuntar ils causals tenor artitgel 121 alinea 3 e 
 
 Fin che las disposiziuns legalas entran en vigur, decretescha il Cussegl federal las disposiziuns executivas necessarias entaifer in onn suenter che l’alinea 3 da l’artitgel 95 è vegnì acceptà dal pievel e dals chantuns.
 
-### 11.** Disposiziun transitorica tar l’art. 121a (Regulaziun da l’immigraziun)
+### 11. Disposiziun transitorica tar l’art. 121a (Regulaziun da l’immigraziun)
 
 [^197-subdivu10-1]
 
@@ -2993,7 +2998,7 @@ Fin che las disposiziuns legalas entran en vigur, decretescha il Cussegl federal
 
 <sup>2</sup> Sche la legislaziun executiva n’è betg anc entrada en vigur 3 onns suenter che l’artitgel 121*a* è vegnì acceptà tras il pievel ed ils chantuns, decretescha il Cussegl federal per quest termin a maun d’ina ordinaziun las disposiziuns executivas transitoricas.
 
-### 12.** Disposiziun transitorica tar l’art 10a (Scumond da cuvrir l’atgna fatscha)
+### 12. Disposiziun transitorica tar l’art 10a (Scumond da cuvrir l’atgna fatscha)
 
 [^197-subdivu11-1]
 
@@ -3001,7 +3006,7 @@ Fin che las disposiziuns legalas entran en vigur, decretescha il Cussegl federal
 
 La legislaziun executiva tar l’artitgel 10*a* sto vegnir elavurada entaifer 2 onns suenter che quel è vegnì acceptà dal pievel e dals chantuns.
 
-### 13.** Disposiziun transitorica tar l’art. 117b (Tgira)
+### 13. Disposiziun transitorica tar l’art. 117b (Tgira)
 
 [^197-subdivu12-1]
 
@@ -3024,9 +3029,17 @@ En il rom da sias cumpetenzas decretescha la Confederaziun disposiziuns executiv
 
 <sup>2</sup> L’Assamblea federala deliberescha las disposiziuns executivas legalas entaifer 4 onns suenter l’acceptaziun da l’artitgel 117*b* tras il pievel ed ils chantuns. Fin che las disposiziuns executivas legalas entran en vigur prenda il Cussegl federal – entaifer 18 mais suenter l’acceptaziun da l’artitgel 117*b* tras il pievel ed ils chantuns – mesiras efficazias per eliminar la mancanza da tgirunzas e tgirunzs diplomads.
 
-Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu12-2]
+### 14. Disposiziun transitorica tar l’art. 118 al. 2 lit. b (Protecziun da la sanadad)
 
-[^197-subdivu12-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu13-1]
+
+[^197-subdivu13-1]: Acceptà en la votaziun dal pievel dals 13 da favr. 2022, en vigur dapi ils 13 da favr. 2022 (COF dal 1. d’oct. 2021, COCF dals 11 d’avr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386), [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895), [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315), [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+
+L’Assamblea federala deliberescha las disposiziuns executivas legalas entaifer 3 onns suenter l’acceptaziun da l’artitgel 118 alinea 2 litera b tras il pievel ed ils chantuns.
+
+Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu13-2]
+
+[^197-subdivu13-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Disposiziuns finalas dal Conclus federal dals 18 da december 1998 davart ina nova Constituziun federala
 
@@ -3036,11 +3049,11 @@ II
 
 <sup>2</sup> Las sequentas disposiziuns da la Constituziun federala ch’èn da transferir en il dretg legal valan vinavant fin al mument che las disposiziuns legalas correspundentas entran en vigur:
 
-a. Art. 32<sup>quater</sup> al. 6*[^u1-2]*
+a. Art. 32<sup>quater</sup> al. 6[^u1-2]
 
 Il commerzi ambulant cun bavrondas alcoholicas sco er la vendita ambulanta da talas èn scumandads.
 
-b. Art. 36<sup>quinquies</sup> al.1 emprima construcziun, 2 segunda–davosa construcziun e 4 segunda construcziun*[^u1-3]*
+b. Art. 36<sup>quinquies</sup> al.1 emprima construcziun, 2 segunda–davosa construcziun e 4 segunda construcziun[^u1-3]
 
 <sup>1</sup> La Confederaziun incassa sin vehichels e chars annexs svizzers cun ina paisa totala fin a mintgamai 3,5 tonnas ina taxa annuala da 40 francs per il diever da las vias naziunalas d’emprima e segunda classa. …
 
@@ -3048,7 +3061,7 @@ b. Art. 36<sup>quinquies</sup> al.1 emprima construcziun, 2 segunda–davosa con
 
 <sup>4</sup> … La lescha po extender la taxa sin ulteriuras categorias da vehichels che na suttastattan betg a la taxa per il traffic da camiuns pesants.
 
-c. Art. 121<sup>bis</sup> al. 1, 2 ed al. 3 emprima e segunda construcziun*[^u1-4]*
+c. Art. 121<sup>bis</sup> al. 1, 2 ed al. 3 emprima e segunda construcziun[^u1-4]
 
 <sup>2</sup> La maioritad absoluta vegn eruida separadamain per mintga dumonda. Dumondas senza resposta na vegnan betg consideradas.
 
@@ -3062,7 +3075,7 @@ IV
 
 <sup>1</sup> Quest conclus vegn suttamess a la votaziun dal pievel e dals chantuns.
 
-<sup>2</sup> L’Assamblea federala determinescha l’entrada en vigur.
+<sup>2</sup> L’Assamblea federala determinescha l’entrada en vigur..
 
 <sup>1</sup> Decida l’Assamblea federala ina cuntraproposta, vegnan preschentads als votants sin il medem cedel da votar trais dumondas. Mintga votant po declerar senza restricziun:
 
@@ -3070,7 +3083,7 @@ IV
 - 2\. sch’el preferescha la cuntraproposta al dretg en vigur;
 - 3\. tgenin dals dus projects che duai entrar en vigur, sche pievel e chantuns duessan dar la preferenza a domadus projects avant il dretg en vigur.
 
-[^u1-1]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544), [1951 606](https://fedlex.data.admin.ch/eli/oc/1951/606_603_619), [1957 1027](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065), [1958 362](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375)[768](https://fedlex.data.admin.ch/eli/oc/1958/768_798_804)[770](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806), [1959 224](https://fedlex.data.admin.ch/eli/oc/1959/224_234_234)[912](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933), [1961 476](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498), [1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)[1637](https://fedlex.data.admin.ch/eli/oc/1962/1637_1695_1717)[1804](https://fedlex.data.admin.ch/eli/oc/1962/1804_1858_1888), [1964 97](https://fedlex.data.admin.ch/eli/oc/1964/97_93_93), [1966 1672](https://fedlex.data.admin.ch/eli/oc/1966/1672_1730_1714), [1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267), [1970 1649](https://fedlex.data.admin.ch/eli/oc/1970/1649_1653_1653), [1971 325](https://fedlex.data.admin.ch/eli/oc/1971/325_329_329)[905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905)[907](https://fedlex.data.admin.ch/eli/oc/1971/907_907_907), [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)[1484](https://fedlex.data.admin.ch/eli/oc/1972/1484_1512_1684), [1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)[1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049)[1455](https://fedlex.data.admin.ch/eli/oc/1973/1455_1455_1455), [1974 721](https://fedlex.data.admin.ch/eli/oc/1974/721_721_721), [1975 1205](https://fedlex.data.admin.ch/eli/oc/1975/1205_1205_1205), [1976 713](https://fedlex.data.admin.ch/eli/oc/1976/713_713_713)[715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)[2003](https://fedlex.data.admin.ch/eli/oc/1976/2003_2003_2003), [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)[1849](https://fedlex.data.admin.ch/eli/oc/1977/1849_1849_1849)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)[2230](https://fedlex.data.admin.ch/eli/oc/1977/2230_2230_2230), [1978 212](https://fedlex.data.admin.ch/eli/oc/1978/212_212_212)[484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484)[1578](https://fedlex.data.admin.ch/eli/oc/1978/1578_1578_1578), [1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678), [1980 380](https://fedlex.data.admin.ch/eli/oc/1980/380_380_380), [1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243)[1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244), [1982 138](https://fedlex.data.admin.ch/eli/oc/1982/138_138_138), [1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240)[444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444), [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290), [1985 150](https://fedlex.data.admin.ch/eli/oc/1985/150_150_150), [151](https://fedlex.data.admin.ch/eli/oc/1985/151_151_151)[658](https://fedlex.data.admin.ch/eli/oc/1985/658_658_658)[659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659)[1025](https://fedlex.data.admin.ch/eli/oc/1985/1025_1025_1025)[1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026)[1648](https://fedlex.data.admin.ch/eli/oc/1985/1648_1648_1648), [1987 282](https://fedlex.data.admin.ch/eli/oc/1987/282_282_282)[1125](https://fedlex.data.admin.ch/eli/oc/1987/1125_1125_1125), [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352), [1991 246](https://fedlex.data.admin.ch/eli/oc/1991/246_246_246)[247](https://fedlex.data.admin.ch/eli/oc/1991/247_247_247)[1122](https://fedlex.data.admin.ch/eli/oc/1991/1122_1122_1122), [1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578)[1579](https://fedlex.data.admin.ch/eli/oc/1992/1579_1579_1579), [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040)[3041](https://fedlex.data.admin.ch/eli/oc/1993/3041_3041_3041), [1994 258](https://fedlex.data.admin.ch/eli/oc/1994/258_258_258)[263](https://fedlex.data.admin.ch/eli/oc/1994/263_263_263)[265](https://fedlex.data.admin.ch/eli/oc/1994/265_265_265)[267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267)[1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096)[1097](https://fedlex.data.admin.ch/eli/oc/1994/1097_1097_1097)[1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099)[1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101), [1995 1455](https://fedlex.data.admin.ch/eli/oc/1995/1455_1455_1455), [1996 1490](https://fedlex.data.admin.ch/eli/oc/1996/1490_1490_1490)[1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491)[1492](https://fedlex.data.admin.ch/eli/oc/1996/1492_1492_1492)[2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502), [1998 918](https://fedlex.data.admin.ch/eli/oc/1998/918_918_918)[2031](https://fedlex.data.admin.ch/eli/oc/1998/2031_2031_2031), [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)[743](https://fedlex.data.admin.ch/eli/oc/1999/111)[1239](https://fedlex.data.admin.ch/eli/oc/1999/168)[1341](https://fedlex.data.admin.ch/eli/oc/1999/186)]
+[^u1-1]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544); [1951 60](https://fedlex.data.admin.ch/eli/oc/1951/60_60_60); [1957 1027](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065); [1958 362](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375), [768](https://fedlex.data.admin.ch/eli/oc/1958/768_798_804), [770](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806); [1959 224](https://fedlex.data.admin.ch/eli/oc/1959/224_234_234), [912](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933); [1961 476](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498); [1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803), [1637](https://fedlex.data.admin.ch/eli/oc/1962/1637_1695_1717), [1804](https://fedlex.data.admin.ch/eli/oc/1962/1804_1858_1888); [1964 97](https://fedlex.data.admin.ch/eli/oc/1964/97_93_93); [1966 1672](https://fedlex.data.admin.ch/eli/oc/1966/1672_1730_1714); [1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267); [1970 1649](https://fedlex.data.admin.ch/eli/oc/1970/1649_1653_1653); [1971 325](https://fedlex.data.admin.ch/eli/oc/1971/325_329_329), [905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905), [907](https://fedlex.data.admin.ch/eli/oc/1971/907_907_907); [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681), [1484](https://fedlex.data.admin.ch/eli/oc/1972/1484_1512_1684); [1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429), [1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049), [1455](https://fedlex.data.admin.ch/eli/oc/1973/1455_1455_1455); [1974 721](https://fedlex.data.admin.ch/eli/oc/1974/721_721_721); [1975 1205](https://fedlex.data.admin.ch/eli/oc/1975/1205_1205_1205); [1976 713](https://fedlex.data.admin.ch/eli/oc/1976/713_713_713), [715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715), [2003](https://fedlex.data.admin.ch/eli/oc/1976/2003_2003_2003); [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807), [1849](https://fedlex.data.admin.ch/eli/oc/1977/1849_1849_1849), [2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228), [2230](https://fedlex.data.admin.ch/eli/oc/1977/2230_2230_2230); [1978 212](https://fedlex.data.admin.ch/eli/oc/1978/212_212_212), [484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484), [1578](https://fedlex.data.admin.ch/eli/oc/1978/1578_1578_1578); [1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678); [1980 380](https://fedlex.data.admin.ch/eli/oc/1980/380_380_380); [1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243), [1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244); [1982 138](https://fedlex.data.admin.ch/eli/oc/1982/138_138_138); [1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240), [444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444); [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290); [1985 150](https://fedlex.data.admin.ch/eli/oc/1985/150_150_150), [151](https://fedlex.data.admin.ch/eli/oc/1985/151_151_151), [658](https://fedlex.data.admin.ch/eli/oc/1985/658_658_658), [659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659), [1025](https://fedlex.data.admin.ch/eli/oc/1985/1025_1025_1025), [1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026), [1648](https://fedlex.data.admin.ch/eli/oc/1985/1648_1648_1648); [1987 282](https://fedlex.data.admin.ch/eli/oc/1987/282_282_282), [1125](https://fedlex.data.admin.ch/eli/oc/1987/1125_1125_1125); [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352); [1991 246](https://fedlex.data.admin.ch/eli/oc/1991/246_246_246), [247](https://fedlex.data.admin.ch/eli/oc/1991/247_247_247), [1122](https://fedlex.data.admin.ch/eli/oc/1991/1122_1122_1122); [1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578), [1579](https://fedlex.data.admin.ch/eli/oc/1992/1579_1579_1579); [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040), [3041](https://fedlex.data.admin.ch/eli/oc/1993/3041_3041_3041); [1994 258](https://fedlex.data.admin.ch/eli/oc/1994/258_258_258), [263](https://fedlex.data.admin.ch/eli/oc/1994/263_263_263), [265](https://fedlex.data.admin.ch/eli/oc/1994/265_265_265), [267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267), [1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096), [1097](https://fedlex.data.admin.ch/eli/oc/1994/1097_1097_1097), [1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099), [1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101); [1995 1455](https://fedlex.data.admin.ch/eli/oc/1995/1455_1455_1455); [1996 1490](https://fedlex.data.admin.ch/eli/oc/1996/1490_1490_1490), [1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491), [1492](https://fedlex.data.admin.ch/eli/oc/1996/1492_1492_1492), [2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502); [1998 918](https://fedlex.data.admin.ch/eli/oc/1998/918_918_918), [2031](https://fedlex.data.admin.ch/eli/oc/1998/2031_2031_2031); [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110), [743](https://fedlex.data.admin.ch/eli/oc/1999/111), [1239](https://fedlex.data.admin.ch/eli/oc/1999/168), [1341](https://fedlex.data.admin.ch/eli/oc/1999/186)]
 [^u1-2]: Art. 105
 [^u1-3]: Art. 86 al. 2
 [^u1-4]: Guardar ussa: art. 139*b*.

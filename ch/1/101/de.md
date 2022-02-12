@@ -4,18 +4,18 @@ title: Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999
 short: BV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: de
-version: 2021-11-28
+version: 2022-02-13
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20211128/de/xml/fedlex-data-admin-ch-eli-cc-1999-404-20211128-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20211128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20220213/de/xml/fedlex-data-admin-ch-eli-cc-1999-404-20220213-de-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20220213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesverfassung der Schweizerischen Eidgenossenschaft
 
-vom 18. April 1999 (Stand am 28. November 2021)
+vom 18. April 1999 (Stand am 13. Februar 2022)
 
 **Präambel**
 
@@ -33,9 +33,9 @@ im Bewusstsein der gemeinsamen Errungenschaften und der Verantwortung gegenüber
 
 gewiss, dass frei nur ist, wer seine Freiheit gebraucht, und dass die Stärke des Volkes sich misst am Wohl der Schwachen,
 
-geben sich folgende Verfassung*[^ingress-1]*:
+geben sich folgende Verfassung[^ingress-1]:
 
-[^ingress-1]: Angenommen in der [Volksabstimmung vom 18. April 1999](http://www.admin.ch/ch/d/pore/va/19990418/index.html)(BB vom 18. Dez. 1998, BRB vom 11. Aug. 1999 – [AS 1999 2556](https://fedlex.data.admin.ch/eli/oc/1999/404); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), **1999** 162 [5986](https://fedlex.data.admin.ch/eli/fga/1999/1_5986_5306_4968)).
+[^ingress-1]: Angenommen in der [Volksabstimmung vom 18. April 1999](http://www.admin.ch/ch/d/pore/va/19990418/index.html)(BB vom 18. Dez. 1998, BRB vom 11. Aug. 1999 – [AS 1999 2556](https://fedlex.data.admin.ch/eli/oc/1999/404); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); **1999** 162, [5986](https://fedlex.data.admin.ch/eli/fga/1999/1_5986_5306_4968)).
 
 ## 1. Titel: Allgemeine Bestimmungen
 
@@ -87,7 +87,7 @@ Die Landessprachen sind Deutsch, Französisch, Italienisch und Rätoromanisch.
 
 Bei der Zuweisung und Erfüllung staatlicher Aufgaben ist der Grundsatz der Subsidiarität zu beachten.
 
-[^5a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^5a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 6
 
@@ -310,7 +310,7 @@ Die Freiheit der Kunst ist gewährleistet.
 
 Jede Person hat bei Rechtsstreitigkeiten Anspruch auf Beurteilung durch eine richterliche Behörde. Bund und Kantone können durch Gesetz die richterliche Beurteilung in Ausnahmefällen ausschliessen.
 
-[^29a-1]: Angenommen in der [Volksabstimmung vom 12. März 2000](http://www.admin.ch/ch/d/pore/va/20000312/index.html), in Kraft seit 1. Jan. 2007 (BB vom 8. Okt. 1999, BRB vom 17. Mai 2000, BB vom 8. März 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^29a-1]: Angenommen in der [Volksabstimmung vom 12. März 2000](http://www.admin.ch/ch/d/pore/va/20000312/index.html), in Kraft seit 1. Jan. 2007 (BB vom 8. Okt. 1999, BRB vom 17. Mai 2000, BB vom 8. März 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615); [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 30
 
@@ -407,7 +407,7 @@ Er erleichtert die Einbürgerung von:
 - a. Personen der dritten Ausländergeneration;
 - b. staatenlosen Kindern.[^38-1]
 
-[^38-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 12. Febr. 2017 (BB vom 30. Sept. 2016, BRB vom 13. April 2017 – [AS 2017 2643](https://fedlex.data.admin.ch/eli/oc/2017/259); [BBl 2015 769](https://fedlex.data.admin.ch/eli/fga/2015/62)[1327](https://fedlex.data.admin.ch/eli/fga/2015/132), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^38-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 12. Febr. 2017 (BB vom 30. Sept. 2016, BRB vom 13. April 2017 – [AS 2017 2643](https://fedlex.data.admin.ch/eli/oc/2017/259); [BBl 2015 769](https://fedlex.data.admin.ch/eli/fga/2015/62), [1327](https://fedlex.data.admin.ch/eli/fga/2015/132), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 39
 
@@ -443,13 +443,15 @@ Bund und Kantone setzen sich in Ergänzung zu persönlicher Verantwortung und pr
 - d. Erwerbsfähige ihren Lebensunterhalt durch Arbeit zu angemessenen Bedingungen bestreiten können;
 - e. Wohnungssuchende für sich und ihre Familie eine angemessene Wohnung zu tragbaren Bedingungen finden können;
 - f. Kinder und Jugendliche sowie Personen im erwerbsfähigen Alter sich nach ihren Fähigkeiten bilden, aus- und weiterbilden können;
-- g. Kinder und Jugendliche in ihrer Entwicklung zu selbstständigen und sozial verantwortlichen Personen gefördert und in ihrer sozialen, kulturellen und politischen Integration unterstützt werden.
+- g.[^41-1] Kinder und Jugendliche in ihrer Entwicklung zu selbstständigen und sozial verantwortlichen Personen gefördert und in ihrer sozialen, kulturellen und politischen Integration unterstützt werden sowie ihre Gesundheit gefördert wird.
 
 <sup>2</sup> Bund und Kantone setzen sich dafür ein, dass jede Person gegen die wirtschaftlichen Folgen von Alter, Invalidität, Krankheit, Unfall, Arbeitslosigkeit, Mutterschaft, Verwaisung und Verwitwung gesichert ist.
 
 <sup>3</sup> Sie streben die Sozialziele im Rahmen ihrer verfassungsmässigen Zuständigkeiten und ihrer verfügbaren Mittel an.
 
 <sup>4</sup> Aus den Sozialzielen können keine unmittelbaren Ansprüche auf staatliche Leistungen abgeleitet werden.
+
+[^41-1]: Angenommen in der [Volksabstimmung vom 13. Febr. 2022](http://www.admin.ch/ch/d/pore/va/20220213/index.html), in Kraft seit 13. Febr. 2022 (BB vom 1. Okt. 2021, BRB vom 11. Apr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 
 ## 3. Titel: Bund, Kantone und Gemeinden
 
@@ -463,9 +465,9 @@ Bund und Kantone setzen sich in Ergänzung zu persönlicher Verantwortung und pr
 
 <sup>1</sup> Der Bund erfüllt die Aufgaben, die ihm die Bundesverfassung zuweist.
 
-<sup>2</sup> ...[^42-1]
+<sup>2</sup> …[^42-1]
 
-[^42-1]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^42-1]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 43
 
@@ -483,11 +485,11 @@ Die Kantone bestimmen, welche Aufgaben sie im Rahmen ihrer Zuständigkeiten erf�
 
 <sup>3</sup> Das Gemeinwesen, das die Kosten einer staatlichen Leistung trägt, kann über diese Leistung bestimmen.
 
-<sup>4</sup> Leistungen der Grundversorgung müssen allen Personen in vergleichbarer Weise offen stehen.
+<sup>4</sup> Leistungen der Grundversorgung müssen allen Personen in vergleichbarer Weise offenstehen.
 
 <sup>5</sup> Staatliche Aufgaben müssen bedarfsgerecht und wirtschaftlich erfüllt werden.
 
-[^43a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^43a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 ### 2. Abschnitt: Zusammenwirken von Bund und Kantonen
 
@@ -519,8 +521,8 @@ Die Kantone bestimmen, welche Aufgaben sie im Rahmen ihrer Zuständigkeiten erf�
 
 <sup>3</sup> Der Bund belässt den Kantonen möglichst grosse Gestaltungsfreiheit und trägt den kantonalen Besonderheiten Rechnung.[^46-2]
 
-[^46-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^46-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^46-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^46-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 47
 
@@ -530,7 +532,7 @@ Die Kantone bestimmen, welche Aufgaben sie im Rahmen ihrer Zuständigkeiten erf�
 
 <sup>2</sup> Er belässt den Kantonen ausreichend eigene Aufgaben und beachtet ihre Organisationsautonomie. Er belässt den Kantonen ausreichende Finanzierungsquellen und trägt dazu bei, dass sie über die notwendigen finanziellen Mittel zur Erfüllung ihrer Aufgaben verfügen.[^47-1]
 
-[^47-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^47-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 48
 
@@ -551,8 +553,8 @@ Die Kantone können interkantonale Organe durch interkantonalen Vertrag zum Erla
 
 <sup>5</sup> Die Kantone beachten das interkantonale Recht.[^48-2]
 
-[^48-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^48-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 48a
 
@@ -576,9 +578,9 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>3</sup> Das Gesetz legt die Voraussetzungen für die Allgemeinverbindlicherklärung und für die Beteiligungsverpflichtung fest und regelt das Verfahren.
 
-[^48a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^48a-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^48a-3]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^48a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^48a-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^48a-3]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 49
 
@@ -682,7 +684,7 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>3</sup> Der Einsatz der Armee ist Sache des Bundes.[^58-1]
 
-[^58-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^58-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 59
 
@@ -704,11 +706,11 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>1</sup> Die Militärgesetzgebung sowie Organisation, Ausbildung und Ausrüstung der Armee sind Sache des Bundes.
 
-<sup>2</sup> ...[^60-1]
+<sup>2</sup> …[^60-1]
 
 <sup>3</sup> Der Bund kann militärische Einrichtungen der Kantone gegen angemessene Entschädigung übernehmen.
 
-[^60-1]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^60-1]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 61
 
@@ -736,8 +738,8 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>3</sup> Sie setzen sich bei der Erfüllung ihrer Aufgaben[^61a-2] dafür ein, dass allgemein bildende und berufsbezogene Bildungswege eine gleichwertige gesellschaftliche Anerkennung finden.
 
-[^61a-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^61a-2]: Berichtigt von der Redaktionskommission der BVers, Art. 58 Abs. 1 ParlG ([SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^61a-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^61a-2]: Berichtigt von der Redaktionskommission der BVers, Art. 58 Abs. 1 ParlG ([SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 62
 
@@ -745,7 +747,7 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>1</sup> Für das Schulwesen sind die Kantone zuständig.
 
-<sup>2</sup> Sie sorgen für einen ausreichenden Grundschulunterricht, der allen Kindern offen steht. Der Grundschulunterricht ist obligatorisch und untersteht staatlicher Leitung oder Aufsicht. An öffentlichen Schulen ist er unentgeltlich.[^62-2]
+<sup>2</sup> Sie sorgen für einen ausreichenden Grundschulunterricht, der allen Kindern offensteht. Der Grundschulunterricht ist obligatorisch und untersteht staatlicher Leitung oder Aufsicht. An öffentlichen Schulen ist er unentgeltlich.[^62-2]
 
 <sup>3</sup> Die Kantone sorgen für eine ausreichende Sonderschulung aller behinderten Kinder und Jugendlichen bis längstens zum vollendeten 20. Altersjahr.[^62-3]
 
@@ -756,11 +758,11 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 <sup>6</sup> Bei der Vorbereitung von Erlassen des Bundes, welche die Zuständigkeit der Kantone betreffen, kommt der Mitwirkung der Kantone besonderes Gewicht zu.[^62-6]
 
 [^62-1]: <sup>\*</sup> Mit Übergangsbestimmung.
-[^62-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^62-3]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^62-4]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^62-5]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^62-6]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-3]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^62-4]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-5]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^62-6]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 63
 
@@ -770,7 +772,7 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>2</sup> Er fördert ein breites und durchlässiges Angebot im Bereich der Berufsbildung.
 
-[^63-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^63-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 63a
 
@@ -786,7 +788,7 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>5</sup> Erreichen Bund und Kantone auf dem Weg der Koordination die gemeinsamen Ziele nicht, so erlässt der Bund Vorschriften über die Studienstufen und deren Übergänge, über die Weiterbildung und über die Anerkennung von Institutionen und Abschlüssen. Zudem kann der Bund die Unterstützung der Hochschulen an einheitliche Finanzierungsgrundsätze binden und von der Aufgabenteilung zwischen den Hochschulen in besonders kostenintensiven Bereichen abhängig machen.
 
-[^63a-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^63a-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 64
 
@@ -798,8 +800,8 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>3</sup> Er kann Forschungsstätten errichten, übernehmen oder betreiben.
 
-[^64-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^64-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^64-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^64-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 64a
 
@@ -811,7 +813,7 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>3</sup> Das Gesetz legt die Bereiche und die Kriterien fest.
 
-[^64a-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^64a-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 65
 
@@ -821,7 +823,7 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>2</sup> Er kann Vorschriften über die Harmonisierung und Führung amtlicher Register erlassen, um den Erhebungsaufwand möglichst gering zu halten.
 
-[^65-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^65-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 66
 
@@ -831,8 +833,8 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>2</sup> Er kann zudem in Ergänzung zu den kantonalen Massnahmen und unter Wahrung der kantonalen Schulhoheit eigene Massnahmen zur Förderung der Ausbildung ergreifen.
 
-[^66-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^66-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^66-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^66-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 67
 
@@ -842,8 +844,8 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>2</sup> Der Bund kann in Ergänzung zu kantonalen Massnahmen die ausserschulische Arbeit mit Kindern und Jugendlichen unterstützen.[^67-2]
 
-[^67-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^67-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^67-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
+[^67-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2006](http://www.admin.ch/ch/d/pore/va/20060521/index.html), in Kraft seit 21. Mai 2006 (BB vom 16. Dez. 2005, BRB vom 27. Juli 2006 – [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860), [5547](https://fedlex.data.admin.ch/eli/fga/2005/862), [7273](https://fedlex.data.admin.ch/eli/fga/2005/1171); [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
 
 #### Art. 67a
 
@@ -855,7 +857,7 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>3</sup> Der Bund legt unter Mitwirkung der Kantone Grundsätze fest für den Zugang der Jugend zum Musizieren und die Förderung musikalisch Begabter.
 
-[^67a-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 23. Sept. 2012 (BB vom 15. März 2012, BRB vom 29. Jan. 2013 – [AS 2013 435](https://fedlex.data.admin.ch/eli/oc/2013/85); [BBl 2009 613](https://fedlex.data.admin.ch/eli/fga/2009/122), [2010 1](https://fedlex.data.admin.ch/eli/fga/2010/1), [2012 3443](https://fedlex.data.admin.ch/eli/fga/2012/452)[6899](https://fedlex.data.admin.ch/eli/fga/2012/1001), [2013 1135](https://fedlex.data.admin.ch/eli/fga/2013/166)).
+[^67a-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 23. Sept. 2012 (BB vom 15. März 2012, BRB vom 29. Jan. 2013 – [AS 2013 435](https://fedlex.data.admin.ch/eli/oc/2013/85); [BBl 2009 613](https://fedlex.data.admin.ch/eli/fga/2009/122); [2010 1](https://fedlex.data.admin.ch/eli/fga/2010/1); [2012 3443](https://fedlex.data.admin.ch/eli/fga/2012/452), [6899](https://fedlex.data.admin.ch/eli/fga/2012/1001); [2013 1135](https://fedlex.data.admin.ch/eli/fga/2013/166)).
 
 #### Art. 68
 
@@ -909,7 +911,7 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>3</sup> Der Bau von Minaretten ist verboten.[^72-1]
 
-[^72-1]: Angenommen in der [Volksabstimmung vom 29. Nov. 2009](http://www.admin.ch/ch/d/pore/va/20091129/index.html), in Kraft seit 29. Nov. 2009 (BB vom 12. Juni 2009, BRB vom 5. Mai 2010 – [AS 2010 2161](https://fedlex.data.admin.ch/eli/oc/2010/293); [BBl 2008 6851](https://fedlex.data.admin.ch/eli/fga/2008/1174)[7603](https://fedlex.data.admin.ch/eli/fga/2008/1294), [2009 4381](https://fedlex.data.admin.ch/eli/fga/2009/776), [2010 3437](https://fedlex.data.admin.ch/eli/fga/2010/606)).
+[^72-1]: Angenommen in der [Volksabstimmung vom 29. Nov. 2009](http://www.admin.ch/ch/d/pore/va/20091129/index.html), in Kraft seit 29. Nov. 2009 (BB vom 12. Juni 2009, BRB vom 5. Mai 2010 – [AS 2010 2161](https://fedlex.data.admin.ch/eli/oc/2010/293); [BBl 2008 6851](https://fedlex.data.admin.ch/eli/fga/2008/1174), [7603](https://fedlex.data.admin.ch/eli/fga/2008/1294); [2009 4381](https://fedlex.data.admin.ch/eli/fga/2009/776); [2010 3437](https://fedlex.data.admin.ch/eli/fga/2010/606)).
 
 ### 4. Abschnitt: Umwelt und Raumplanung
 
@@ -949,7 +951,7 @@ Bund und Kantone streben ein auf Dauer ausgewogenes Verhältnis zwischen der Nat
 
 <sup>3</sup> Er kann Vorschriften erlassen über die Harmonisierung amtlicher Informationen, welche Grund und Boden betreffen.
 
-[^75a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^75a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 75b
 
@@ -959,7 +961,7 @@ Bund und Kantone streben ein auf Dauer ausgewogenes Verhältnis zwischen der Nat
 
 <sup>2</sup> Das Gesetz verpflichtet die Gemeinden, ihren Erstwohnungsanteilplan und den detaillierten Stand seines Vollzugs alljährlich zu veröffentlichen.
 
-[^75b-1]: Angenommen in der [Volksabstimmung vom 11. März 2012](http://www.admin.ch/ch/d/pore/va/20120311/index.html), in Kraft seit 11. März 2012 (BB vom 17. Juni 2011, BRB vom 20. Juni 2012 – [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235)[8757](https://fedlex.data.admin.ch/eli/fga/2008/1556), [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^75b-1]: Angenommen in der [Volksabstimmung vom 11. März 2012](http://www.admin.ch/ch/d/pore/va/20120311/index.html), in Kraft seit 11. März 2012 (BB vom 17. Juni 2011, BRB vom 20. Juni 2012 – [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235), [8757](https://fedlex.data.admin.ch/eli/fga/2008/1556); [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766); [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 [^75b-2]: <sup>\*</sup> Mit Übergangsbestimmung.
 
 #### Art. 76
@@ -1043,7 +1045,7 @@ Der Bund kann im Interesse des ganzen oder eines grossen Teils des Landes öffen
 
 <sup>2</sup> Die Kosten des öffentlichen Verkehrs werden zu einem angemessenen Teil durch die von den Nutzerinnen und Nutzern bezahlten Preise gedeckt.
 
-[^81a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^81a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 #### Art. 82
 
@@ -1063,7 +1065,7 @@ Der Bund kann im Interesse des ganzen oder eines grossen Teils des Landes öffen
 
 <sup>2</sup> Der Bund stellt die Errichtung eines Netzes von Nationalstrassen und dessen Benutzbarkeit sicher. Er baut, betreibt und unterhält die Nationalstrassen. Er trägt die Kosten dafür. Er kann die Aufgabe ganz oder teilweise öffentlichen, privaten oder gemischten Trägerschaften übertragen.
 
-[^83-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^83-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 84
 
@@ -1088,7 +1090,7 @@ Der Bund kann im Interesse des ganzen oder eines grossen Teils des Landes öffen
 <sup>3</sup> Die Kantone werden am Reinertrag beteiligt. Bei der Bemessung der Anteile sind die besonderen Auswirkungen der Abgabe in Berg- und Randgebieten zu berücksichtigen.
 
 [^85-1]: <sup>\*</sup> Mit Übergangsbestimmung.
-[^85-2]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^85-2]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 #### Art. 85a
 
@@ -1096,7 +1098,7 @@ Der Bund kann im Interesse des ganzen oder eines grossen Teils des Landes öffen
 
 Der Bund erhebt eine Abgabe für die Benützung der Nationalstrassen durch Motorfahrzeuge und Anhänger, die nicht der Schwerverkehrsabgabe unterstehen.
 
-[^85a-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^85a-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 86
 
@@ -1114,7 +1116,7 @@ Dem Fonds werden die folgenden Mittel zugewiesen:
 - d. der Reinertrag der Abgabe nach Artikel 131 Absatz 2 Buchstabe b;
 - e. ein Anteil des Reinertrags der Verbrauchssteuer auf allen Treibstoffen, ausser den Flugtreibstoffen, nach Artikel 131 Absatz 1 Buchstabe e; der Anteil beträgt je 9 Prozent der Mittel nach Buchstabe c und der Hälfte des Reinertrags der Verbrauchssteuer auf allen Treibstoffen, ausser den Flugtreibstoffen, höchstens aber 310 Millionen Franken pro Jahr; das Gesetz regelt die Indexierung dieses Betrags;
 - f. in der Regel 10 Prozent des Reinertrags der Verbrauchssteuer auf allen Treibstoffen, ausser den Flugtreibstoffen, nach Artikel 131 Absatz 1 Buchstabe e;
-- g. die Erträge zur Kompensation von Mehraufwendungen für neu ins Nationalstrassennetz aufgenommene Strecken aus der Spezialfinanzierung nach Absatz 3 Buchstabe g und aus Beiträgen der Kantone
+- g. die Erträge zur Kompensation von Mehraufwendungen für neu ins Nationalstrassennetz aufgenommene Strecken aus der Spezialfinanzierung nach Absatz 3 Buchstabe g und aus Beiträgen der Kantone;
 - h. weitere vom Gesetz zugewiesene Mittel, die im Zusammenhang mit dem Strassenverkehr stehen.
 
 <sup>3</sup>
@@ -1133,7 +1135,7 @@ Für folgende Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr 
 
 <sup>5</sup> Ist der Bedarf in der Spezialfinanzierung ausgewiesen und soll in der Spezialfinanzierung eine angemessene Rückstellung gebildet werden, so sind Erträge aus der Verbrauchssteuer nach Artikel 131 Absatz 1 Buchstabe d, statt dem Fonds zuzuweisen, der Spezialfinanzierung gutzuschreiben.
 
-[^86-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018, Abs. 2 Bst. g und 3 Bst. g in in Kraft seit 1. Jan. 2020 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^86-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018, Abs. 2 Bst. g und 3 Bst. g in in Kraft seit 1. Jan. 2020 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 [^86-2]: <sup>\*</sup> Mit Übergangsbestimmung.
 
 #### Art. 87
@@ -1163,7 +1165,7 @@ Die Eisenbahninfrastruktur wird über einen Fonds finanziert. Dem Fonds werden f
 
 <sup>4</sup> Das Gesetz kann eine ergänzende Finanzierung durch Dritte vorsehen.
 
-[^87a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^87a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 [^87a-2]: <sup>\*</sup> Mit Übergangsbestimmung.
 
 #### Art. 87b
@@ -1176,7 +1178,7 @@ Für die folgenden Aufgaben und Aufwendungen im Zusammenhang mit dem Luftverkehr
 - b. Beiträge an Sicherheitsmassnahmen zur Abwehr widerrechtlicher Handlungen gegen den Luftverkehr, namentlich von Terroranschlägen und Entführungen, soweit diese Massnahmen nicht staatlichen Behörden obliegen;
 - c. Beiträge an Massnahmen zur Förderung eines hohen technischen Sicherheitsniveaus im Luftverkehr.
 
-[^87b-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^87b-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 88
 
@@ -1188,7 +1190,7 @@ Für die folgenden Aufgaben und Aufwendungen im Zusammenhang mit dem Luftverkehr
 
 <sup>3</sup> Er nimmt bei der Erfüllung seiner Aufgaben Rücksicht auf solche Netze. Er ersetzt Wege, die er aufheben muss.
 
-[^88-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2018](http://www.admin.ch/ch/d/pore/va/20180923/index.html), in Kraft seit 23. Sept. 2018 (BB vom 13. März 2018, BRB vom 27. Jan. 2019 – [AS 2019 525](https://fedlex.data.admin.ch/eli/oc/2019/91); [BBl 2016 1791](https://fedlex.data.admin.ch/eli/fga/2016/385), [2017 5901](https://fedlex.data.admin.ch/eli/fga/2017/1639), [2018 1859](https://fedlex.data.admin.ch/eli/fga/2018/685), [2019 1311](https://fedlex.data.admin.ch/eli/fga/2019/279)).
+[^88-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2018](http://www.admin.ch/ch/d/pore/va/20180923/index.html), in Kraft seit 23. Sept. 2018 (BB vom 13. März 2018, BRB vom 27. Jan. 2019 – [AS 2019 525](https://fedlex.data.admin.ch/eli/oc/2019/91); [BBl 2016 1791](https://fedlex.data.admin.ch/eli/fga/2016/385); [2017 5901](https://fedlex.data.admin.ch/eli/fga/2017/1639); [2018 1859](https://fedlex.data.admin.ch/eli/fga/2018/685); [2019 1311](https://fedlex.data.admin.ch/eli/fga/2019/279)).
 
 ### 6. Abschnitt: Energie und Kommunikation
 
@@ -1276,7 +1278,7 @@ Zum Schutz der Volkswirtschaft, des Privateigentums und der Aktionärinnen und A
 - d. Widerhandlung gegen die Bestimmungen nach den Buchstaben a–c wird mit Freiheitsstrafe bis zu drei Jahren und Geldstrafe bis zu sechs Jahresvergütungen bestraft.[^95-2]
 
 [^95-1]: <sup>\*</sup> Mit Übergangsbestimmung.
-[^95-2]: Angenommen in der [Volksabstimmung vom 3. März 2013](http://www.admin.ch/ch/d/pore/va/20130303/index.html), in Kraft seit 3. März 2013 (BRB vom 15. Nov. 2012 und 30. April 2013 – [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
+[^95-2]: Angenommen in der [Volksabstimmung vom 3. März 2013](http://www.admin.ch/ch/d/pore/va/20130303/index.html), in Kraft seit 3. März 2013 (BRB vom 15. Nov. 2012 und 30. April 2013 – [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115); [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557); [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37); [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688); [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
 
 #### Art. 96
 
@@ -1404,7 +1406,7 @@ Zur Sicherstellung der Versorgung der Bevölkerung mit Lebensmitteln schafft der
 - d. grenzüberschreitende Handelsbeziehungen, die zur nachhaltigen Entwicklung der Land- und Ernährungswirtschaft beitragen;
 - e. einen ressourcenschonenden Umgang mit Lebensmitteln.
 
-[^104a-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 24. Sept. 2017 (BB vom 14. März 2017, BRB vom 30. Nov. 2017 – [AS 2017 6735](https://fedlex.data.admin.ch/eli/oc/2017/752); [BBl 2014 6135](https://fedlex.data.admin.ch/eli/fga/2014/1287), [2015 5753](https://fedlex.data.admin.ch/eli/fga/2015/1320), [2017 2495](https://fedlex.data.admin.ch/eli/fga/2017/484)[7829](https://fedlex.data.admin.ch/eli/fga/2017/2279)).
+[^104a-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 24. Sept. 2017 (BB vom 14. März 2017, BRB vom 30. Nov. 2017 – [AS 2017 6735](https://fedlex.data.admin.ch/eli/oc/2017/752); [BBl 2014 6135](https://fedlex.data.admin.ch/eli/fga/2014/1287); [2015 5753](https://fedlex.data.admin.ch/eli/fga/2015/1320); [2017 2495](https://fedlex.data.admin.ch/eli/fga/2017/484), [7829](https://fedlex.data.admin.ch/eli/fga/2017/2279)).
 
 #### Art. 105
 
@@ -1436,7 +1438,7 @@ Die Kantone sind zuständig für die Bewilligung und die Beaufsichtigung:
 
 <sup>7</sup> Der Bund und die Kantone koordinieren sich bei der Erfüllung ihrer Aufgaben. Das Gesetz schafft zu diesem Zweck ein gemeinsames Organ, das hälftig aus Mitgliedern der Vollzugsorgane des Bundes und der Kantone zusammengesetzt ist.
 
-[^106-1]: Angenommen in der [Volksabstimmung vom 11. März 2012](http://www.admin.ch/ch/d/pore/va/20120311/index.html), in Kraft seit 11. März 2012 (BB vom 29. Sept. 2011, BRB vom 20. Juni 2012 – [AS 2012 3629](https://fedlex.data.admin.ch/eli/oc/2012/417); [BBl 2009 7019](https://fedlex.data.admin.ch/eli/fga/2009/1248), [2010 7961](https://fedlex.data.admin.ch/eli/fga/2010/1467), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^106-1]: Angenommen in der [Volksabstimmung vom 11. März 2012](http://www.admin.ch/ch/d/pore/va/20120311/index.html), in Kraft seit 11. März 2012 (BB vom 29. Sept. 2011, BRB vom 20. Juni 2012 – [AS 2012 3629](https://fedlex.data.admin.ch/eli/oc/2012/417); [BBl 2009 7019](https://fedlex.data.admin.ch/eli/fga/2009/1248); [2010 7961](https://fedlex.data.admin.ch/eli/fga/2010/1467); [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 
 #### Art. 107
 
@@ -1526,12 +1528,12 @@ Die Versicherung wird finanziert:
 
 <sup>5</sup> Die Leistungen des Bundes werden in erster Linie aus dem Reinertrag der Tabaksteuer, der Steuer auf gebrannten Wassern und der Abgabe aus dem Betrieb von Spielbanken gedeckt.
 
-<sup>6</sup> ...[^112-4]
+<sup>6</sup> …[^112-4]
 
-[^112-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-3]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^112-4]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-3]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112-4]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 112a
 
@@ -1541,7 +1543,7 @@ Die Versicherung wird finanziert:
 
 <sup>2</sup> Das Gesetz legt den Umfang der Ergänzungsleistungen sowie die Aufgaben und Zuständigkeiten von Bund und Kantonen fest.
 
-[^112a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112a-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 112b
 
@@ -1553,7 +1555,7 @@ Die Versicherung wird finanziert:
 
 <sup>3</sup> Das Gesetz legt die Ziele der Eingliederung und die Grundsätze und Kriterien fest.
 
-[^112b-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112b-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112b-2]: <sup>\*</sup> Mit Übergangsbestimmung.
 
 #### Art. 112c
@@ -1564,7 +1566,7 @@ Die Versicherung wird finanziert:
 
 <sup>2</sup> Der Bund unterstützt gesamtschweizerische Bestrebungen zu Gunsten Betagter und Behinderter. Zu diesem Zweck kann er Mittel aus der Alters-, Hinterlassenen- und Invalidenversicherung verwenden.
 
-[^112c-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^112c-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112c-2]: <sup>\*</sup> Mit Übergangsbestimmung.
 
 #### Art. 113
@@ -1648,7 +1650,7 @@ Der Bund erlässt Vorschriften über:
 - a. die Aus- und Weiterbildung für Berufe der medizinischen Grundversorgung und über die Anforderungen zur Ausübung dieser Berufe;
 - b. die angemessene Abgeltung der Leistungen der Hausarztmedizin.
 
-[^117a-1]: Angenommen in der [Volksabstimmung vom 18. Mai 2014](http://www.admin.ch/ch/d/pore/va/20140518/index.html), in Kraft seit 18. Mai 2014 (BB vom 19. Sept. 2013, BRB vom 18. Aug. 2014 – [AS 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [BBl 2010 2939](https://fedlex.data.admin.ch/eli/fga/2010/515), [2011 7553](https://fedlex.data.admin.ch/eli/fga/2011/1253), [2013 7347](https://fedlex.data.admin.ch/eli/fga/2013/1412), [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
+[^117a-1]: Angenommen in der [Volksabstimmung vom 18. Mai 2014](http://www.admin.ch/ch/d/pore/va/20140518/index.html), in Kraft seit 18. Mai 2014 (BB vom 19. Sept. 2013, BRB vom 18. Aug. 2014 – [AS 2014 2769](https://fedlex.data.admin.ch/eli/oc/2014/476); [BBl 2010 2939](https://fedlex.data.admin.ch/eli/fga/2010/515); [2011 7553](https://fedlex.data.admin.ch/eli/fga/2011/1253); [2013 7347](https://fedlex.data.admin.ch/eli/fga/2013/1412); [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415)).
 
 #### Art. 117b
 
@@ -1658,7 +1660,7 @@ Der Bund erlässt Vorschriften über:
 
 <sup>2</sup> Sie stellen sicher, dass eine genügende Anzahl diplomierter Pflegefachpersonen für den zunehmenden Bedarf zur Verfügung steht und dass die in der Pflege tätigen Personen entsprechend ihrer Ausbildung und ihren Kompetenzen eingesetzt werden.
 
-[^117b-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 28. Nov. 2021 (BB vom 18. Juni 2021, BRB vom 11. Apr. 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^117b-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 28. Nov. 2021 (BB vom 18. Juni 2021, BRB vom 11. Apr. 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238); [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676); [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488); [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
 [^117b-2]: <sup>\*</sup> Mit Übergangsbestimmung.
 
 #### Art. 118
@@ -1672,8 +1674,11 @@ Der Bund erlässt Vorschriften über:
 Er erlässt Vorschriften über:
 
 - a. den Umgang mit Lebensmitteln sowie mit Heilmitteln, Betäubungsmitteln, Organismen, Chemikalien und Gegenständen, welche die Gesundheit gefährden können;
-- b. die Bekämpfung übertragbarer, stark verbreiteter oder bösartiger Krankheiten von Menschen und Tieren;
+- b.[^118-1] die Bekämpfung übertragbarer, stark verbreiteter oder bösartiger Krankheiten von Menschen und Tieren; er verbietet namentlich jede Art von Werbung für Tabakprodukte, die Kinder und Jugendliche erreicht;[^118-2]\*
 - c. den Schutz vor ionisierenden Strahlen.
+
+[^118-1]: Angenommen in der [Volksabstimmung vom 13. Febr. 2022](http://www.admin.ch/ch/d/pore/va/20220213/index.html), in Kraft seit 13. Febr. 2022 (BB vom 1. Okt. 2021, BRB vom 11. Apr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^118-2]: <sup>\*</sup> Mit Übergangsbestimmung.
 
 #### Art. 118a
 
@@ -1681,7 +1686,7 @@ Er erlässt Vorschriften über:
 
 Bund und Kantone sorgen im Rahmen ihrer Zuständigkeiten für die Berücksichtigung der Komplementärmedizin.
 
-[^118a-1]: Angenommen in der [Volksabstimmung vom 17. Mai 2009](http://www.admin.ch/ch/d/pore/va/20090517/index.html), in Kraft seit 17. Mai 2009 (BB vom 3. Okt. 2008, BRB vom 21. Okt. 2009 – [AS 2009 5325](https://fedlex.data.admin.ch/eli/oc/2009/633); [BBl 2005 6001](https://fedlex.data.admin.ch/eli/fga/2005/966), [2006 7591](https://fedlex.data.admin.ch/eli/fga/2006/947), [2008 8229](https://fedlex.data.admin.ch/eli/fga/2008/1400), [2009 7539](https://fedlex.data.admin.ch/eli/fga/2009/1326)).
+[^118a-1]: Angenommen in der [Volksabstimmung vom 17. Mai 2009](http://www.admin.ch/ch/d/pore/va/20090517/index.html), in Kraft seit 17. Mai 2009 (BB vom 3. Okt. 2008, BRB vom 21. Okt. 2009 – [AS 2009 5325](https://fedlex.data.admin.ch/eli/oc/2009/633); [BBl 2005 6001](https://fedlex.data.admin.ch/eli/fga/2005/966); [2006 7591](https://fedlex.data.admin.ch/eli/fga/2006/947); [2008 8229](https://fedlex.data.admin.ch/eli/fga/2008/1400); [2009 7539](https://fedlex.data.admin.ch/eli/fga/2009/1326)).
 
 #### Art. 118b
 
@@ -1698,7 +1703,7 @@ Für die Forschung in Biologie und Medizin mit Personen beachtet er folgende Gru
 - c. Mit urteilsunfähigen Personen darf ein Forschungsvorhaben nur durchgeführt werden, wenn gleichwertige Erkenntnisse nicht mit urteilsfähigen Personen gewonnen werden können. Lässt das Forschungsvorhaben keinen unmittelbaren Nutzen für die urteilsunfähigen Personen erwarten, so dürfen die Risiken und Belastungen nur minimal sein.
 - d. Eine unabhängige Überprüfung des Forschungsvorhabens muss ergeben haben, dass der Schutz der teilnehmenden Personen gewährleistet ist.
 
-[^118b-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 7. März 2010 (BB vom 25. Sept. 2009, BRB vom 15. April 2010 – [AS 2010 1569](https://fedlex.data.admin.ch/eli/oc/2010/224); [BBl 2007 6713](https://fedlex.data.admin.ch/eli/fga/2007/1025), [2009 6649](https://fedlex.data.admin.ch/eli/fga/2009/1171), [2010 2625](https://fedlex.data.admin.ch/eli/fga/2010/455)).
+[^118b-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 7. März 2010 (BB vom 25. Sept. 2009, BRB vom 15. April 2010 – [AS 2010 1569](https://fedlex.data.admin.ch/eli/oc/2010/224); [BBl 2007 6713](https://fedlex.data.admin.ch/eli/fga/2007/1025); [2009 6649](https://fedlex.data.admin.ch/eli/fga/2009/1171); [2010 2625](https://fedlex.data.admin.ch/eli/fga/2010/455)).
 
 #### Art. 119
 
@@ -1718,7 +1723,7 @@ Der Bund erlässt Vorschriften über den Umgang mit menschlichem Keim- und Erbgu
 - f. Das Erbgut einer Person darf nur untersucht, registriert oder offenbart werden, wenn die betroffene Person zustimmt oder das Gesetz es vorschreibt.
 - g. Jede Person hat Zugang zu den Daten über ihre Abstammung.
 
-[^119-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 14. Juni 2015 (BB vom 12. Dez. 2014, BRB vom 21. Aug. 2015 – [AS 2015 2887](https://fedlex.data.admin.ch/eli/oc/2015/541); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075), [2014 9675](https://fedlex.data.admin.ch/eli/fga/2014/2098), [2015 6313](https://fedlex.data.admin.ch/eli/fga/2015/1509)).
+[^119-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 14. Juni 2015 (BB vom 12. Dez. 2014, BRB vom 21. Aug. 2015 – [AS 2015 2887](https://fedlex.data.admin.ch/eli/oc/2015/541); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075); [2014 9675](https://fedlex.data.admin.ch/eli/fga/2014/2098); [2015 6313](https://fedlex.data.admin.ch/eli/fga/2015/1509)).
 
 #### Art. 119a
 
@@ -1730,7 +1735,7 @@ Der Bund erlässt Vorschriften über den Umgang mit menschlichem Keim- und Erbgu
 
 <sup>3</sup> Die Spende von menschlichen Organen, Geweben und Zellen ist unentgeltlich. Der Handel mit menschlichen Organen ist verboten.
 
-[^119a-1]: Angenommen in der [Volksabstimmung vom 7. Febr. 1999](http://www.admin.ch/ch/d/pore/va/19990207/index.html), in Kraft seit 1. Jan. 2000 (BB vom 26. Juni 1998, BRB vom 23. März 1999 – [AS 1999 1341](https://fedlex.data.admin.ch/eli/oc/1999/186); [BBl 1997 III 653](https://fedlex.data.admin.ch/eli/fga/1997/3_653_613_557), **1998** 3473, **1999** 2912 [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+[^119a-1]: Angenommen in der [Volksabstimmung vom 7. Febr. 1999](http://www.admin.ch/ch/d/pore/va/19990207/index.html), in Kraft seit 1. Jan. 2000 (BB vom 26. Juni 1998, BRB vom 23. März 1999 – [AS 1999 1341](https://fedlex.data.admin.ch/eli/oc/1999/186); [BBl 1997 III 653](https://fedlex.data.admin.ch/eli/fga/1997/3_653_613_557); **1998** 3473; **1999** 2912, [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
 
 #### Art. 120
 
@@ -1766,11 +1771,11 @@ Sie verlieren unabhängig von ihrem ausländerrechtlichen Status ihr Aufenthalts
 <sup>6</sup> Wer das Einreiseverbot missachtet oder sonstwie illegal in die Schweiz einreist, macht sich strafbar. Der Gesetzgeber erlässt die entsprechenden Bestimmungen.[^121-6]
 
 [^121-1]: <sup>\*</sup> Mit Übergangsbestimmung.
-[^121-2]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 9. Febr. 2014 (BB vom 27. Sept. 2013, BRB vom 13. Mai 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
-[^121-3]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010 (BB vom 18. Juni 2010, BRB 17. März 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
-[^121-4]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010 (BB vom 18. Juni 2010, BRB 17. März 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
-[^121-5]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010 (BB vom 18. Juni 2010, BRB 17. März 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
-[^121-6]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010 (BB vom 18. Juni 2010, BRB 17. März 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-2]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 9. Febr. 2014 (BB vom 27. Sept. 2013, BRB vom 13. Mai 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924); [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506); [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50), [7351](https://fedlex.data.admin.ch/eli/fga/2013/1414); [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^121-3]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010 (BB vom 18. Juni 2010, BRB 17. März 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430); [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876); [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717); [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-4]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010 (BB vom 18. Juni 2010, BRB 17. März 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430); [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876); [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717); [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-5]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010 (BB vom 18. Juni 2010, BRB 17. März 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430); [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876); [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717); [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+[^121-6]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010 (BB vom 18. Juni 2010, BRB 17. März 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430); [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876); [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717); [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
 
 #### Art. 121a
 
@@ -1786,7 +1791,7 @@ Sie verlieren unabhängig von ihrem ausländerrechtlichen Status ihr Aufenthalts
 
 <sup>5</sup> Das Gesetz regelt die Einzelheiten.
 
-[^121a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 9. Febr. 2014 (BB vom 27. Sept. 2013, BRB vom 13. Mai 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^121a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 9. Febr. 2014 (BB vom 27. Sept. 2013, BRB vom 13. Mai 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924); [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506); [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50), [7351](https://fedlex.data.admin.ch/eli/fga/2013/1414); [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 [^121a-2]: <sup>\*</sup> Mit Übergangsbestimmung.
 
 ### 10. Abschnitt: Zivilrecht, Strafrecht, Messwesen
@@ -1799,7 +1804,7 @@ Sie verlieren unabhängig von ihrem ausländerrechtlichen Status ihr Aufenthalts
 
 <sup>2</sup> Für die Organisation der Gerichte und die Rechtsprechung in Zivilsachen sind die Kantone zuständig, soweit das Gesetz nichts anderes vorsieht.
 
-[^122-1]: Angenommen in der [Volksabstimmung vom 12. März 2000](http://www.admin.ch/ch/d/pore/va/20000312/index.html), in Kraft seit 1. Jan. 2007 (BB vom 8. Okt. 1999, BRB vom 17. Mai 2000, BB vom 8. März 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^122-1]: Angenommen in der [Volksabstimmung vom 12. März 2000](http://www.admin.ch/ch/d/pore/va/20000312/index.html), in Kraft seit 1. Jan. 2007 (BB vom 8. Okt. 1999, BRB vom 17. Mai 2000, BB vom 8. März 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615); [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 123
 
@@ -1817,8 +1822,8 @@ Der Bund kann Vorschriften zum Straf- und Massnahmenvollzug erlassen. Er kann de
 - b. für Verbesserungen im Straf- und Massnahmenvollzug;
 - c. an Einrichtungen, die erzieherische Massnahmen an Kindern, Jugendlichen und jungen Erwachsenen vollziehen.[^123-2]
 
-[^123-1]: Angenommen in der [Volksabstimmung vom 12. März 2000](http://www.admin.ch/ch/d/pore/va/20000312/index.html), in Kraft seit 1. April 2003 (BB vom 8. Okt. 1999, BRB vom 17. Mai 2000, BB vom 24. Sept. 2002 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^123-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^123-1]: Angenommen in der [Volksabstimmung vom 12. März 2000](http://www.admin.ch/ch/d/pore/va/20000312/index.html), in Kraft seit 1. April 2003 (BB vom 8. Okt. 1999, BRB vom 17. Mai 2000, BB vom 24. Sept. 2002 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615); [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^123-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 123a
 
@@ -1830,7 +1835,7 @@ Der Bund kann Vorschriften zum Straf- und Massnahmenvollzug erlassen. Er kann de
 
 <sup>3</sup> Alle Gutachten zur Beurteilung der Sexual- und Gewaltstraftäter sind von mindestens zwei voneinander unabhängigen, erfahrenen Fachleuten unter Berücksichtigung aller für die Beurteilung wichtigen Grundlagen zu erstellen.
 
-[^123a-1]: Angenommen in der [Volksabstimmung vom 8. Febr. 2004](http://www.admin.ch/ch/d/pore/va/20040208/index.html), in Kraft seit 8. Febr. 2004 (BB vom 20. Juni 2003, BRB vom 21. April 2004 – [AS 2004 2341](https://fedlex.data.admin.ch/eli/oc/2004/272); [BBl 2000 3336](https://fedlex.data.admin.ch/eli/fga/2000/693), [2001 3433](https://fedlex.data.admin.ch/eli/fga/2001/638), [2003 4434](https://fedlex.data.admin.ch/eli/fga/2003/678), [2004 2199](https://fedlex.data.admin.ch/eli/fga/2004/404)).
+[^123a-1]: Angenommen in der [Volksabstimmung vom 8. Febr. 2004](http://www.admin.ch/ch/d/pore/va/20040208/index.html), in Kraft seit 8. Febr. 2004 (BB vom 20. Juni 2003, BRB vom 21. April 2004 – [AS 2004 2341](https://fedlex.data.admin.ch/eli/oc/2004/272); [BBl 2000 3336](https://fedlex.data.admin.ch/eli/fga/2000/693); [2001 3433](https://fedlex.data.admin.ch/eli/fga/2001/638); [2003 4434](https://fedlex.data.admin.ch/eli/fga/2003/678); [2004 2199](https://fedlex.data.admin.ch/eli/fga/2004/404)).
 
 #### Art. 123b
 
@@ -1838,7 +1843,7 @@ Der Bund kann Vorschriften zum Straf- und Massnahmenvollzug erlassen. Er kann de
 
 Die Verfolgung sexueller oder pornografischer Straftaten an Kindern vor der Pubertät und die Strafe für solche Taten sind unverjährbar.
 
-[^123b-1]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 30. Nov. 2008 (BB vom 13. Juni 2008, BRB vom 23. Jan. 2009 – [AS 2009 471](https://fedlex.data.admin.ch/eli/oc/2009/82); [BBl 2006 3657](https://fedlex.data.admin.ch/eli/fga/2006/386), [2007 5369](https://fedlex.data.admin.ch/eli/fga/2007/758), [2008 5245](https://fedlex.data.admin.ch/eli/fga/2008/935), [2009 605](https://fedlex.data.admin.ch/eli/fga/2009/121)).
+[^123b-1]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 30. Nov. 2008 (BB vom 13. Juni 2008, BRB vom 23. Jan. 2009 – [AS 2009 471](https://fedlex.data.admin.ch/eli/oc/2009/82); [BBl 2006 3657](https://fedlex.data.admin.ch/eli/fga/2006/386); [2007 5369](https://fedlex.data.admin.ch/eli/fga/2007/758); [2008 5245](https://fedlex.data.admin.ch/eli/fga/2008/935); [2009 605](https://fedlex.data.admin.ch/eli/fga/2009/121)).
 
 #### Art. 123c
 
@@ -1846,7 +1851,7 @@ Die Verfolgung sexueller oder pornografischer Straftaten an Kindern vor der Pube
 
 Personen, die verurteilt werden, weil sie die sexuelle Unversehrtheit eines Kindes oder einer abhängigen Person beeinträchtigt haben, verlieren endgültig das Recht, eine berufliche oder ehrenamtliche Tätigkeit mit Minderjährigen oder Abhängigen auszuüben.
 
-[^123c-1]: Angenommen in der [Volksabstimmung vom 18. Mai 2014](http://www.admin.ch/ch/d/pore/va/20140518/index.html), in Kraft seit 18. Mai 2014 (BRB vom 20. Febr. 2014 – [AS 2014 2771](https://fedlex.data.admin.ch/eli/oc/2014/477); [BBl 2009 7021](https://fedlex.data.admin.ch/eli/fga/2009/1249), [2011 4435](https://fedlex.data.admin.ch/eli/fga/2011/670), [2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575), [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415)[1779](https://fedlex.data.admin.ch/eli/fga/2014/304)).
+[^123c-1]: Angenommen in der [Volksabstimmung vom 18. Mai 2014](http://www.admin.ch/ch/d/pore/va/20140518/index.html), in Kraft seit 18. Mai 2014 (BRB vom 20. Febr. 2014 – [AS 2014 2771](https://fedlex.data.admin.ch/eli/oc/2014/477); [BBl 2009 7021](https://fedlex.data.admin.ch/eli/fga/2009/1249); [2011 4435](https://fedlex.data.admin.ch/eli/fga/2011/670); [2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575); [2014 6349](https://fedlex.data.admin.ch/eli/fga/2014/1415), [1779](https://fedlex.data.admin.ch/eli/fga/2014/304)).
 
 #### Art. 124
 
@@ -1876,7 +1881,7 @@ Die Gesetzgebung über das Messwesen ist Sache des Bundes.
 
 <sup>5</sup> Das Gesetz regelt die Einzelheiten.
 
-[^126-1]: Angenommen in der [Volksabstimmung vom 2. Dez. 2001](http://www.admin.ch/ch/d/pore/va/20011202/index.html), in Kraft seit 2. Dez. 2001 (BB vom 22. Juni 2001, BRB vom 4. Febr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510)[2878](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+[^126-1]: Angenommen in der [Volksabstimmung vom 2. Dez. 2001](http://www.admin.ch/ch/d/pore/va/20011202/index.html), in Kraft seit 2. Dez. 2001 (BB vom 22. Juni 2001, BRB vom 4. Febr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962); [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510), [2878](https://fedlex.data.admin.ch/eli/fga/2001/554); [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
 
 #### Art. 127
 
@@ -1898,7 +1903,7 @@ Der Bund kann eine direkte Steuer erheben:
 
 - a. von höchstens 11,5 Prozent auf dem Einkommen der natürlichen Personen;
 - b.[^128-2] von höchstens 8,5 Prozent auf dem Reinertrag der juristischen Personen;
-- c.[^128-3] ...
+- c.[^128-3] …
 
 <sup>2</sup> Der Bund nimmt bei der Festsetzung der Tarife auf die Belastung durch die direkten Steuern der Kantone und Gemeinden Rücksicht.
 
@@ -1907,9 +1912,9 @@ Der Bund kann eine direkte Steuer erheben:
 <sup>4</sup> Die Steuer wird von den Kantonen veranlagt und eingezogen. Vom Rohertrag der Steuer fallen ihnen mindestens 17 Prozent zu. Der Anteil kann bis auf 15 Prozent gesenkt werden, sofern die Auswirkungen des Finanzausgleichs dies erfordern.[^128-4]
 
 [^128-1]: <sup>\*</sup> Mit Übergangsbestimmung.
-[^128-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2007 (BB vom 19. März 2004, BRB vom 26. Jan. 2005, BRB vom 2. Febr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^128-3]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2007 (BB vom 19. März 2004, BRB vom 26. Jan. 2005, BRB vom 2. Febr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^128-4]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2007 (BB vom 19. März 2004, BRB vom 26. Jan. 2005, BRB vom 2. Febr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220); [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-3]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2007 (BB vom 19. März 2004, BRB vom 26. Jan. 2005, BRB vom 2. Febr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220); [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^128-4]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 129
 
@@ -1935,11 +1940,11 @@ Der Bund kann eine direkte Steuer erheben:
 
 <sup>4</sup> 5 Prozent des nicht zweckgebundenen Ertrags werden für die Prämienverbilligung in der Krankenversicherung zu Gunsten unterer Einkommensschichten verwendet, sofern nicht durch Gesetz eine andere Verwendung zur Entlastung unterer Einkommensschichten festgelegt wird.
 
-[^130-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2007 (BB vom 19. März 2004, BRB vom 26. Jan. 2005, BRB vom 2. Febr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^130-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2007 (BB vom 19. März 2004, BRB vom 26. Jan. 2005, BRB vom 2. Febr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220); [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^130-2]: <sup>\*</sup> Mit Übergangsbestimmung.
-[^130-3]: Vom 1. Jan. 2018 bis längstens zum 31. Dez. 2027 beträgt der Sondersatz für Beherbergungsleistungen 3,7 % (Art. 25 Abs. 4 des Mehrwertsteuergesetzes vom 12. Juni 2009 – [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
-[^130-4]: Vom 1. Jan. 2018 bis längstens zum 31. Dez. 2030 betragen die Mehrwertsteuersätze 7,7 % (Normalsatz) und 2,5 % (ermässigter Satz) (Art. 25 Abs. 1 und 2 des Mehrwertsteuergesetzes vom 12. Juni 2009 – [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
-[^130-5]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^130-3]: Vom 1. Jan. 2018 bis längstens zum 31. Dez. 2027 beträgt der Sondersatz für Beherbergungsleistungen 3,7 % (Art. 25 Abs. 4 des Mehrwertsteuergesetzes vom 12. Juni 2009 – [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
+[^130-4]: Vom 1. Jan. 2018 bis längstens zum 31. Dez. 2030 betragen die Mehrwertsteuersätze 7,7 % (Normalsatz) und 2,5 % (ermässigter Satz) (Art. 25 Abs. 1 und 2 des Mehrwertsteuergesetzes vom 12. Juni 2009 – [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
+[^130-5]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 #### Art. 131
 
@@ -1967,8 +1972,8 @@ Er kann zudem erheben:
 <sup>3</sup> Die Kantone erhalten 10 Prozent des Reinertrags aus der Besteuerung der gebrannten Wasser. Diese Mittel sind zur Bekämpfung der Ursachen und Wirkungen von Suchtproblemen zu verwenden.
 
 [^131-1]: <sup>\*</sup> Mit Übergangsbestimmung.
-[^131-2]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^131-3]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^131-2]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^131-3]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 #### Art. 132
 
@@ -1978,7 +1983,7 @@ Er kann zudem erheben:
 
 <sup>2</sup> Der Bund kann auf dem Ertrag von beweglichem Kapitalvermögen, auf Lotteriegewinnen und auf Versicherungsleistungen eine Verrechnungssteuer erheben. Vom Steuerertrag fallen 10 Prozent den Kantonen zu.[^132-1]
 
-[^132-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^132-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 133
 
@@ -2010,7 +2015,7 @@ Der Finanz- und Lastenausgleich soll insbesondere:
 
 <sup>3</sup> Die Mittel für den Ausgleich der Ressourcen werden durch die ressourcenstarken Kantone und den Bund zur Verfügung gestellt. Die Leistungen der ressourcenstarken Kantone betragen mindestens zwei Drittel und höchstens 80 Prozent der Leistungen des Bundes.
 
-[^135-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^135-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 ## 4. Titel: Volk und Stände
 
@@ -2040,7 +2045,7 @@ Die politischen Parteien wirken an der Meinungs- und Willensbildung des Volkes m
 
 <sup>2</sup> Dieses Begehren ist dem Volk zur Abstimmung zu unterbreiten.
 
-[^138-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^138-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 139
 
@@ -2056,13 +2061,13 @@ Die politischen Parteien wirken an der Meinungs- und Willensbildung des Volkes m
 
 <sup>5</sup> Eine Initiative in der Form des ausgearbeiteten Entwurfs wird Volk und Ständen zur Abstimmung unterbreitet. Die Bundesversammlung empfiehlt die Initiative zur Annahme oder zur Ablehnung. Sie kann der Initiative einen Gegenentwurf gegenüberstellen.
 
-[^139-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^139-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 #### Art. 139a
 
 [^139a-1]
 
-[^139a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html)(BB vom 4. Okt. 2002, BRB vom 25. März 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Aufgehoben in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), mit Wirkung seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Dieser Art. in der Fassung des BB vom 4. Okt. 2002 ist nie in Kraft getreten.
+[^139a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html)(BB vom 4. Okt. 2002, BRB vom 25. März 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Aufgehoben in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), mit Wirkung seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Dieser Art. in der Fassung des BB vom 4. Okt. 2002 ist nie in Kraft getreten.
 
 #### Art. 139b
 
@@ -2074,8 +2079,8 @@ Die politischen Parteien wirken an der Meinungs- und Willensbildung des Volkes m
 
 <sup>3</sup> Erzielt bei angenommenen Verfassungsänderungen in der Stichfrage die eine Vorlage mehr Volks- und die andere mehr Standesstimmen, so tritt die Vorlage in Kraft, bei welcher der prozentuale Anteil der Volksstimmen und der prozentuale Anteil der Standesstimmen in der Stichfrage die grössere Summe ergeben.
 
-[^139b-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), Abs. 2 und 3 in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)). Abs. 1 in der Fassung des BB vom 4. Okt. 2002 ist nie in Kraft getreten.
-[^139b-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^139b-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), Abs. 2 und 3 in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)). Abs. 1 in der Fassung des BB vom 4. Okt. 2002 ist nie in Kraft getreten.
+[^139b-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 #### Art. 140
 
@@ -2094,12 +2099,12 @@ Volk und Ständen werden zur Abstimmung unterbreitet:
 Dem Volk werden zur Abstimmung unterbreitet:
 
 - a. die Volksinitiativen auf Totalrevision der Bundesverfassung;
-- a<sup>bis</sup>.[^140-1] ...
+- a<sup>bis</sup>.[^140-1] …
 - b.[^140-2] die Volksinitiativen auf Teilrevision der Bundesverfassung in der Form der allgemeinen Anregung, die von der Bundesversammlung abgelehnt worden sind;
 - c. die Frage, ob eine Totalrevision der Bundesverfassung durchzuführen ist, bei Uneinigkeit der beiden Räte.
 
-[^140-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html)(BB vom 4. Okt. 2002, BRB vom 25. März 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Aufgehoben in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), mit Wirkung seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Dieser Bst. in der Fassung des BB vom 4. Okt. 2002 ist nie in Kraft getreten.
-[^140-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^140-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html)(BB vom 4. Okt. 2002, BRB vom 25. März 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Aufgehoben in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), mit Wirkung seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Dieser Bst. in der Fassung des BB vom 4. Okt. 2002 ist nie in Kraft getreten.
+[^140-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 #### Art. 141
 
@@ -2120,11 +2125,11 @@ Verlangen es 50 000 Stimmberechtigte oder acht Kantone innerhalb von 100 Tagen s
   - 2\. den Beitritt zu einer internationalen Organisation vorsehen,
   - 3\.[^141-2] wichtige rechtsetzende Bestimmungen enthalten oder deren Umsetzung den Erlass von Bundesgesetzen erfordert.
 
-<sup>2</sup> ...[^141-3]
+<sup>2</sup> …[^141-3]
 
-[^141-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
-[^141-2]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
-[^141-3]: Aufgehoben in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), mit Wirkung seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-2]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141-3]: Aufgehoben in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), mit Wirkung seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 141a
 
@@ -2134,7 +2139,7 @@ Verlangen es 50 000 Stimmberechtigte oder acht Kantone innerhalb von 100 Tagen s
 
 <sup>2</sup> Untersteht der Genehmigungsbeschluss eines völkerrechtlichen Vertrags dem fakultativen Referendum, so kann die Bundesversammlung die Gesetzesänderungen, die der Umsetzung des Vertrages dienen, in den Genehmigungsbeschluss aufnehmen.
 
-[^141a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^141a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 142
 
@@ -2277,9 +2282,9 @@ Das Gesetz sieht Bestimmungen vor, um sicherzustellen, dass bei Uneinigkeit der 
 - c.[^156-2] die Umsetzung eines vom Volk gutgeheissenen Bundesbeschlusses zur Einleitung einer Totalrevision der Bundesverfassung;
 - d. den Voranschlag oder einen Nachtrag.[^156-3]
 
-[^156-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
-[^156-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
-[^156-3]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), Bst. a und d in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
+[^156-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^156-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^156-3]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), Bst. a und d in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390), [3954](https://fedlex.data.admin.ch/eli/fga/2003/586), [3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 
 #### Art. 157
 
@@ -2319,8 +2324,8 @@ Der Zustimmung der Mehrheit der Mitglieder jedes der beiden Räte bedürfen jedo
 
 <sup>4</sup> Die Bundesversammlung kann die Beträge nach Absatz 3 Buchstabe b mit einer Verordnung der Teuerung anpassen.[^159-2]
 
-[^159-1]: Angenommen in der [Volksabstimmung vom 2. Dez. 2001](http://www.admin.ch/ch/d/pore/va/20011202/index.html), in Kraft seit 2. Dez. 2001 (BB vom 22. Juni 2001, BRB vom 4. Febr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510)[2878](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
-[^159-2]: Angenommen in der [Volksabstimmung vom 2. Dez. 2001](http://www.admin.ch/ch/d/pore/va/20011202/index.html), in Kraft seit 2. Dez. 2001 (BB vom 22. Juni 2001, BRB vom 4. Febr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962), [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510)[2878](https://fedlex.data.admin.ch/eli/fga/2001/554), [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+[^159-1]: Angenommen in der [Volksabstimmung vom 2. Dez. 2001](http://www.admin.ch/ch/d/pore/va/20011202/index.html), in Kraft seit 2. Dez. 2001 (BB vom 22. Juni 2001, BRB vom 4. Febr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962); [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510), [2878](https://fedlex.data.admin.ch/eli/fga/2001/554); [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
+[^159-2]: Angenommen in der [Volksabstimmung vom 2. Dez. 2001](http://www.admin.ch/ch/d/pore/va/20011202/index.html), in Kraft seit 2. Dez. 2001 (BB vom 22. Juni 2001, BRB vom 4. Febr. 2002 – [AS 2002 241](https://fedlex.data.admin.ch/eli/oc/2002/51); [BBl 2000 4653](https://fedlex.data.admin.ch/eli/fga/2000/962); [2001 2387](https://fedlex.data.admin.ch/eli/fga/2001/510), [2878](https://fedlex.data.admin.ch/eli/fga/2001/554); [2002 1209](https://fedlex.data.admin.ch/eli/fga/2002/150)).
 
 #### Art. 160
 
@@ -2483,8 +2488,8 @@ Der Bundesrat ist die oberste leitende und vollziehende Behörde des Bundes.
 
 <sup>4</sup> Dabei ist darauf Rücksicht zu nehmen, dass die Landesgegenden und Sprachregionen angemessen vertreten sind.[^175-2]
 
-[^175-1]: Angenommen in der [Volksabstimmung vom 7. Febr. 1999](http://www.admin.ch/ch/d/pore/va/19990207/index.html), in Kraft seit 1. Jan. 2000 (BB vom 9. Okt. 1998, BRB vom 2. März 1999 – [AS 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [BBl 1993 IV 554](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501), [1994 III 1370](https://fedlex.data.admin.ch/eli/fga/1994/3_1370_1356_1236), **1998** 4800, **1999** 2475 [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
-[^175-2]: Angenommen in der [Volksabstimmung vom 7. Febr. 1999](http://www.admin.ch/ch/d/pore/va/19990207/index.html), in Kraft seit 1. Jan. 2000 (BB vom 9. Okt. 1998, BRB vom 2. März 1999 – [AS 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [BBl 1993 IV 554](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501), [1994 III 1370](https://fedlex.data.admin.ch/eli/fga/1994/3_1370_1356_1236), **1998** 4800, **1999** 2475 [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+[^175-1]: Angenommen in der [Volksabstimmung vom 7. Febr. 1999](http://www.admin.ch/ch/d/pore/va/19990207/index.html), in Kraft seit 1. Jan. 2000 (BB vom 9. Okt. 1998, BRB vom 2. März 1999 – [AS 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [BBl 1993 IV 554](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501); [1994 III 1370](https://fedlex.data.admin.ch/eli/fga/1994/3_1370_1356_1236); **1998** 4800; **1999** 2475, [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
+[^175-2]: Angenommen in der [Volksabstimmung vom 7. Febr. 1999](http://www.admin.ch/ch/d/pore/va/19990207/index.html), in Kraft seit 1. Jan. 2000 (BB vom 9. Okt. 1998, BRB vom 2. März 1999 – [AS 1999 1239](https://fedlex.data.admin.ch/eli/oc/1999/168); [BBl 1993 IV 554](https://fedlex.data.admin.ch/eli/fga/1993/4_554_566_501); [1994 III 1370](https://fedlex.data.admin.ch/eli/fga/1994/3_1370_1356_1236); **1998** 4800; **1999** 2475, [8768](https://fedlex.data.admin.ch/eli/fga/1999/1_8768_7967_7589)).
 
 #### Art. 176
 
@@ -2603,11 +2608,11 @@ Der Bundesrat hat zudem folgende Aufgaben und Befugnisse:
 
 <sup>2</sup> Das Gesetz kann dem Bundesrat weitere Aufgaben und Befugnisse übertragen.
 
-### 4. Kapitel:**** Bundesgericht und andere richterliche Behörden
+### 4. Kapitel: Bundesgericht und andere richterliche Behörden
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Angenommen in der [Volksabstimmung vom 12. März 2000](http://www.admin.ch/ch/d/pore/va/20000312/index.html), in Kraft seit 1. Jan. 2007 (BB vom 8. Okt. 1999, BRB vom 17. Mai 2000, BB vom 8. März 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^tit5-chap4-1]: Angenommen in der [Volksabstimmung vom 12. März 2000](http://www.admin.ch/ch/d/pore/va/20000312/index.html), in Kraft seit 1. Jan. 2007 (BB vom 8. Okt. 1999, BRB vom 17. Mai 2000, BB vom 8. März 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [2006 1059](https://fedlex.data.admin.ch/eli/oc/2006/185); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615); [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 188
 
@@ -2634,7 +2639,7 @@ Das Bundesgericht beurteilt Streitigkeiten wegen Verletzung:
 - e. der Gemeindeautonomie und anderer Garantien der Kantone zu Gunsten von öffentlich-rechtlichen Körperschaften;
 - f. von eidgenössischen und kantonalen Bestimmungen über die politischen Rechte.
 
-<sup>1bis</sup> ...[^189-1]
+<sup>1bis</sup> …[^189-1]
 
 <sup>2</sup> Es beurteilt Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen.
 
@@ -2642,7 +2647,7 @@ Das Bundesgericht beurteilt Streitigkeiten wegen Verletzung:
 
 <sup>4</sup> Akte der Bundesversammlung und des Bundesrates können beim Bundesgericht nicht angefochten werden. Ausnahmen bestimmt das Gesetz.
 
-[^189-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html)(BB vom 4. Okt. 2002, BRB vom 25. März 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Aufgehoben in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), mit Wirkung seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642)[2907](https://fedlex.data.admin.ch/eli/fga/2008/644), [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Dieser Abs. in der Fassung des BB vom 4. Okt. 2002 ist nie in Kraft getreten.
+[^189-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html)(BB vom 4. Okt. 2002, BRB vom 25. März 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781), [6080](https://fedlex.data.admin.ch/eli/fga/2001/1021); [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020); [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)). Aufgehoben in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), mit Wirkung seit 27. Sept. 2009 (BB vom 19. Dez. 2008, BRB vom 1. Dez. 2009 – [AS 2009 6409](https://fedlex.data.admin.ch/eli/oc/2009/783); [BBl 2008 2891](https://fedlex.data.admin.ch/eli/fga/2008/642), [2907](https://fedlex.data.admin.ch/eli/fga/2008/644); [2009 13](https://fedlex.data.admin.ch/eli/fga/2009/3), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)). Dieser Abs. in der Fassung des BB vom 4. Okt. 2002 ist nie in Kraft getreten.
 
 #### Art. 190
 
@@ -2672,7 +2677,7 @@ Bundesgesetze und Völkerrecht sind für das Bundesgericht und die anderen recht
 
 <sup>3</sup> Das Gesetz kann weitere richterliche Behörden des Bundes vorsehen.
 
-[^191a-1]: Angenommen in der [Volksabstimmung vom 12. März 2000](http://www.admin.ch/ch/d/pore/va/20000312/index.html), Abs. 1 in Kraft seit 1. April 2003 und die Abs. 2 und 3 seit 1. Sept. 2005 (BB vom 8. Okt. 1999, BRB vom 17. Mai 2000, BB vom 24. Sept. 2002 und 2. März 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467), [2005 1475](https://fedlex.data.admin.ch/eli/oc/2005/222); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1), [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454), [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615), [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731), [2004 4787](https://fedlex.data.admin.ch/eli/fga/2004/845)).
+[^191a-1]: Angenommen in der [Volksabstimmung vom 12. März 2000](http://www.admin.ch/ch/d/pore/va/20000312/index.html), Abs. 1 in Kraft seit 1. April 2003 und die Abs. 2 und 3 seit 1. Sept. 2005 (BB vom 8. Okt. 1999, BRB vom 17. Mai 2000, BB vom 24. Sept. 2002 und 2. März 2005 – [AS 2002 3148](https://fedlex.data.admin.ch/eli/oc/2002/467); [2005 1475](https://fedlex.data.admin.ch/eli/oc/2005/222); [BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1); [1999 8633](https://fedlex.data.admin.ch/eli/fga/1999/1_8633_7831_7454); [2000 2990](https://fedlex.data.admin.ch/eli/fga/2000/615); [2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731); [2004 4787](https://fedlex.data.admin.ch/eli/fga/2004/845)).
 
 #### Art. 191b
 
@@ -2736,7 +2741,7 @@ Die ganz oder teilweise revidierte Bundesverfassung tritt in Kraft, wenn sie von
 
 ### Übergangsbestimmung zu Art. 84 (Alpenquerender Transitverkehr)
 
-[^196-1]: Angenommen in der [Volksabstimmung vom 3. März 2002](http://www.admin.ch/ch/d/pore/va/20020303/index.html), in Kraft seit 3. März 2002 (BB vom 5. Okt. 2001, BRB vom 26. April 2002 – [AS 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [BBl 2000 2453](https://fedlex.data.admin.ch/eli/fga/2000/488), [2001 1183](https://fedlex.data.admin.ch/eli/fga/2001/230)[5731](https://fedlex.data.admin.ch/eli/fga/2001/891), [2002 3690](https://fedlex.data.admin.ch/eli/fga/2002/523)).
+[^196-1]: Angenommen in der [Volksabstimmung vom 3. März 2002](http://www.admin.ch/ch/d/pore/va/20020303/index.html), in Kraft seit 3. März 2002 (BB vom 5. Okt. 2001, BRB vom 26. April 2002 – [AS 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [BBl 2000 2453](https://fedlex.data.admin.ch/eli/fga/2000/488); [2001 1183](https://fedlex.data.admin.ch/eli/fga/2001/230), [5731](https://fedlex.data.admin.ch/eli/fga/2001/891); [2002 3690](https://fedlex.data.admin.ch/eli/fga/2002/523)).
 
 Die Verlagerung des Gütertransitverkehrs auf die Schiene muss zehn Jahre nach der Annahme der Volksinitiative zum Schutz des Alpengebietes vor dem Transitverkehr abgeschlossen sein.
 
@@ -2748,7 +2753,7 @@ Die Verlagerung des Gütertransitverkehrs auf die Schiene muss zehn Jahre nach d
 
 <table>
 <tr><td></td><td>Fr.</td></tr>
-<tr><td>a. für Lastwagen und Sattelmotorfahrzeuge von</td><td>[tab]</td></tr>
+<tr><td>a. für Lastwagen und Sattelmotorfahrzeuge von</td><td></td></tr>
 <tr><td>– über 3,5 bis 12 t</td><td>650</td></tr>
 <tr><td>– über 12 bis 18 t</td><td>2000</td></tr>
 <tr><td>– über 18 bis 26 t</td><td>3000</td></tr>
@@ -2772,14 +2777,14 @@ Die Verlagerung des Gütertransitverkehrs auf die Schiene muss zehn Jahre nach d
 
 <sup>8</sup> Diese Bestimmung gilt bis zum Inkrafttreten des Schwerverkehrsabgabegesetzes vom 19. Dezember 1997[^196-subdivu2-2].
 
-[^196-subdivu2-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^196-subdivu2-2]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^196-subdivu2-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^196-subdivu2-2]: [SR 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 
-### Übergangsbestimmungen zu Art. 86 (Verwendung von Abgaben für Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr), Art. 87 (Eisenbahnen und weitere Verkehrsträger) und Art. 87a (Eisenbahninfrastruktur)**
+### Übergangsbestimmungen zu Art. 86 (Verwendung von Abgaben für Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr), Art. 87 (Eisenbahnen und weitere Verkehrsträger) und Art. 87a (Eisenbahninfrastruktur)
 
 [^196-subdivu3-1]
 
-[^196-subdivu3-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-1]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
 
 <sup>1</sup> Die Eisenbahngrossprojekte umfassen die Neue Eisenbahn-Alpentransversale (NEAT), BAHN 2000, den Anschluss der Ost- und Westschweiz an das europäische Eisenbahn-Hochleistungsnetz sowie die Verbesserung des Lärmschutzes entlang der Eisenbahnstrecken durch aktive und passive Massnahmen.
 
@@ -2795,10 +2800,10 @@ Die Verlagerung des Gütertransitverkehrs auf die Schiene muss zehn Jahre nach d
 
 <sup>5</sup> Diese Bestimmung gilt bis zum Abschluss der Bauarbeiten und der Finanzierung (Rückzahlung der Bevorschussung) der in Absatz 1 erwähnten Eisenbahngrossprojekte.
 
-[^196-subdivu3-2]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^196-subdivu3-3]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^196-subdivu3-4]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416), [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628), [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
-[^196-subdivu3-5]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^196-subdivu3-2]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-3]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-4]: Angenommen in der [Volksabstimmung vom 12. Febr. 2017](http://www.admin.ch/ch/d/pore/va/20170212/index.html), in Kraft seit 1. Jan. 2018 (BB vom 30. Sept. 2016, BRB vom 10. Nov. 2016 – [AS 2017 6731](https://fedlex.data.admin.ch/eli/oc/2017/751); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416); [2016 7587](https://fedlex.data.admin.ch/eli/fga/2016/1628); [2017 3387](https://fedlex.data.admin.ch/eli/fga/2017/748)).
+[^196-subdivu3-5]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970), [4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 ### Übergangsbestimmung zu Art. 90 (Kernenergie)
 
@@ -2818,7 +2823,7 @@ Bis zum Erlass einer Bundesgesetzgebung sind die Kantone zur gegenseitigen Anerk
 
 Die Kantone können während längstens zehn Jahren ab Inkrafttreten der Verfassung bestehende Regelungen beibehalten, welche zur Sicherung der Existenz bedeutender Teile eines bestimmten Zweigs des Gastgewerbes die Eröffnung von Betrieben vom Bedürfnis abhängig machen.
 
-### 8.** ...
+### 8. …
 
 [^196-subdivu8-1]
 
@@ -2830,42 +2835,42 @@ Die Kantone können während längstens zehn Jahren ab Inkrafttreten der Verfass
 
 <sup>2</sup> Der Bundesfeiertag wird der Zahl der Feiertage nach Artikel 18 Absatz 2 des Arbeitsgesetzes vom 13. März 1964[^196-subdivu9-1] nicht angerechnet.
 
-[^196-subdivu9-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^196-subdivu9-1]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
-### 10.** ...
+### 10. …
 
 [^196-subdivu10-1]
 
-[^196-subdivu10-1]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu10-1]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 ### Übergangsbestimmung zu Art. 113 (Berufliche Vorsorge)
 
 Versicherte, die zur Eintrittsgeneration gehören und deswegen nicht über die volle Beitragszeit verfügen, sollen je nach Höhe ihres Einkommens innert 10 bis 20 Jahren nach Inkrafttreten des Gesetzes den gesetzlich vorgeschriebenen Mindestschutz erhalten.
 
-### 12.** ...
+### 12. …
 
 [^196-subdivu12-1]
 
 [^196-subdivu12-1]: Art. 126 hat seit dem 2. Dez. 2001 eine neue Fassung.
 
-### 13.** Übergangsbestimmung zu Art. 128 (Dauer der Steuererhebung)
+### 13. Übergangsbestimmung zu Art. 128 (Dauer der Steuererhebung)
 
 [^196-subdivu13-1]
 
-[^196-subdivu13-1]: Angenommen in der [Volksabstimmung vom 4. März 2018](http://www.admin.ch/ch/d/pore/va/20180304/index.html), in Kraft seit 1. Jan. 2021 (BB vom 16. Juni 2017, BRB vom 13. Febr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+[^196-subdivu13-1]: Angenommen in der [Volksabstimmung vom 4. März 2018](http://www.admin.ch/ch/d/pore/va/20180304/index.html), in Kraft seit 1. Jan. 2021 (BB vom 16. Juni 2017, BRB vom 13. Febr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193); [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059); [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 
 Die Befugnis zur Erhebung der direkten Bundessteuer ist bis Ende 2035 befristet.
 
-### 14.** Übergangsbestimmung zu Art. 130 (Mehrwertsteuer)**
+### 14. Übergangsbestimmung zu Art. 130 (Mehrwertsteuer)
 
 [^196-subdivu14-1][^196-subdivu14-2]
 
-[^196-subdivu14-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2007 (BB vom 19. März 2004, BRB vom 26. Jan. 2005, BRB vom 2. Febr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
-[^196-subdivu14-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 1. Jan. 2011 (BB vom 13. Juni 2008 und vom 12. Juni 2009, BRB vom 7. Sept. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772)[4377](https://fedlex.data.admin.ch/eli/fga/2009/774)[4379](https://fedlex.data.admin.ch/eli/fga/2009/775)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^196-subdivu14-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2007 (BB vom 19. März 2004, BRB vom 26. Jan. 2005, BRB vom 2. Febr. 2006 – [AS 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [BBl 2003 1531](https://fedlex.data.admin.ch/eli/fga/2003/220); [2004 1363](https://fedlex.data.admin.ch/eli/fga/2004/254); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu14-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 1. Jan. 2011 (BB vom 13. Juni 2008 und vom 12. Juni 2009, BRB vom 7. Sept. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721); [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933); [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772), [4377](https://fedlex.data.admin.ch/eli/fga/2009/774), [4379](https://fedlex.data.admin.ch/eli/fga/2009/775), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
 
 <sup>1</sup> Die Befugnis zur Erhebung der Mehrwertsteuer ist bis Ende 2035 befristet.[^196-subdivu14-3]
 
-<sup>2</sup> Zur Sicherung der Finanzierung der Invalidenversicherung hebt der Bundesrat die Mehrwertsteuersätze vom 1. Januar 2011 bis 31. Dezember 2017 wie folgt an: ...
+<sup>2</sup> Zur Sicherung der Finanzierung der Invalidenversicherung hebt der Bundesrat die Mehrwertsteuersätze vom 1. Januar 2011 bis 31. Dezember 2017 wie folgt an: …
 
 <sup>3</sup> Der Ertrag aus der Anhebung nach Absatz 2 wird vollumfänglich dem Ausgleichsfonds der Invalidenversicherung zugewiesen.[^196-subdivu14-4]
 
@@ -2873,23 +2878,23 @@ Die Befugnis zur Erhebung der direkten Bundessteuer ist bis Ende 2035 befristet.
 
 <sup>5</sup> Der Ertrag aus der Anhebung nach Absatz 4 wird vollumfänglich dem Fonds nach Artikel 87*a* zugewiesen.[^196-subdivu14-7]
 
-[^196-subdivu14-3]: Angenommen in der [Volksabstimmung vom 4. März 2018](http://www.admin.ch/ch/d/pore/va/20180304/index.html), in Kraft seit 1. Jan. 2021 (BB vom 16. Juni 2017, BRB vom 13. Febr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
-[^196-subdivu14-4]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 1. Jan. 2011 (BB vom 13. Juni 2008 und vom 12. Juni 2009, BRB vom 7. Sept. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772)[4377](https://fedlex.data.admin.ch/eli/fga/2009/774)[4379](https://fedlex.data.admin.ch/eli/fga/2009/775)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
-[^196-subdivu14-5]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^196-subdivu14-6]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
-[^196-subdivu14-7]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^196-subdivu14-3]: Angenommen in der [Volksabstimmung vom 4. März 2018](http://www.admin.ch/ch/d/pore/va/20180304/index.html), in Kraft seit 1. Jan. 2021 (BB vom 16. Juni 2017, BRB vom 13. Febr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193); [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059); [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+[^196-subdivu14-4]: Angenommen in der [Volksabstimmung vom 27. Sept. 2009](http://www.admin.ch/ch/d/pore/va/20090927/index.html), in Kraft seit 1. Jan. 2011 (BB vom 13. Juni 2008 und vom 12. Juni 2009, BRB vom 7. Sept. 2010 – [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721); [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933); [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772), [4377](https://fedlex.data.admin.ch/eli/fga/2009/774), [4379](https://fedlex.data.admin.ch/eli/fga/2009/775), [8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
+[^196-subdivu14-5]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^196-subdivu14-6]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^196-subdivu14-7]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168); [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305); [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897), [6518](https://fedlex.data.admin.ch/eli/fga/2013/1136); [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
-### 15.** ...
+### 15. …
 
 [^196-subdivu15-1]
 
-[^196-subdivu15-1]: Aufgehoben in der [Volksabstimmung vom 4. März 2018](http://www.admin.ch/ch/d/pore/va/20180304/index.html), mit Wirkung seit 1. Jan. 2021 (BB vom 16. Juni 2017, BRB vom 13. Febr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
+[^196-subdivu15-1]: Aufgehoben in der [Volksabstimmung vom 4. März 2018](http://www.admin.ch/ch/d/pore/va/20180304/index.html), mit Wirkung seit 1. Jan. 2021 (BB vom 16. Juni 2017, BRB vom 13. Febr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193); [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059); [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 
-### 16.** ...
+### 16. …
 
 [^196-subdivu16-1]
 
-[^196-subdivu16-1]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^196-subdivu16-1]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 #### Art. 197
 
@@ -2897,116 +2902,122 @@ Die Befugnis zur Erhebung der direkten Bundessteuer ist bis Ende 2035 befristet.
 
 ### Beitritt der Schweiz zur UNO
 
-[^197-1]: Angenommen in der [Volksabstimmung vom 3. März 2002](http://www.admin.ch/ch/d/pore/va/20020303/index.html), in Kraft seit 3. März 2002 (BB vom 5. Okt. 2001, BRB vom 26. April 2002 – [AS 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [BBl 2000 2453](https://fedlex.data.admin.ch/eli/fga/2000/488), [2001 1183](https://fedlex.data.admin.ch/eli/fga/2001/230)[5731](https://fedlex.data.admin.ch/eli/fga/2001/891), [2002 3690](https://fedlex.data.admin.ch/eli/fga/2002/523)).
+[^197-1]: Angenommen in der [Volksabstimmung vom 3. März 2002](http://www.admin.ch/ch/d/pore/va/20020303/index.html), in Kraft seit 3. März 2002 (BB vom 5. Okt. 2001, BRB vom 26. April 2002 – [AS 2002 885](https://fedlex.data.admin.ch/eli/oc/2002/156); [BBl 2000 2453](https://fedlex.data.admin.ch/eli/fga/2000/488); [2001 1183](https://fedlex.data.admin.ch/eli/fga/2001/230), [5731](https://fedlex.data.admin.ch/eli/fga/2001/891); [2002 3690](https://fedlex.data.admin.ch/eli/fga/2002/523)).
 
 <sup>1</sup> Die Schweiz tritt der Organisation der Vereinten Nationen bei.
 
 <sup>2</sup> Der Bundesrat wird ermächtigt, an den Generalsekretär der Organisation der Vereinten Nationen (UNO) ein Gesuch der Schweiz um Aufnahme in diese Organisation und eine Erklärung zur Erfüllung der in der UN-Charta[^197-subdivu1-1] enthaltenen Verpflichtungen zu richten.
 
-[^197-subdivu1-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^197-subdivu1-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
-### 2.** Übergangsbestimmung zu Art. 62 (Schulwesen)
+### 2. Übergangsbestimmung zu Art. 62 (Schulwesen)
 
 [^197-subdivu2-1]
 
-[^197-subdivu2-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu2-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 Die Kantone übernehmen ab Inkrafttreten des Bundesbeschlusses vom 3. Oktober 2003[^197-subdivu2-2] zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen die bisherigen Leistungen der Invalidenversicherung an die Sonderschulung (einschliesslich der heilpädagogischen Früherziehung gemäss Art. 19 des BG vom 19. Juni 1959[^197-subdivu2-3] über die Invalidenversicherung), bis sie über kantonal genehmigte Sonderschulkonzepte verfügen, mindestens jedoch während drei Jahren.
 
 [^197-subdivu2-2]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
-[^197-subdivu2-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^197-subdivu2-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
-### 3.** Übergangsbestimmung zu Art. 83 (Nationalstrassen)
+### 3. Übergangsbestimmung zu Art. 83 (Nationalstrassen)
 
 [^197-subdivu3-1]
 
-[^197-subdivu3-1]: Art. 83 hat heute eine neue Fassung. Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu3-1]: Art. 83 hat heute eine neue Fassung. Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 Die Kantone erstellen die im Bundesbeschluss vom 21. Juni 1960[^197-subdivu3-2] über das Nationalstrassennetz aufgeführten Nationalstrassen (Stand bei Inkrafttreten des BB vom 3. Okt. 2003[^197-subdivu3-3] zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen) nach den Vorschriften und unter der Oberaufsicht des Bundes fertig. Bund und Kantone tragen die Kosten gemeinsam. Der Kostenanteil der einzelnen Kantone richtet sich nach ihrer Belastung durch die Nationalstrassen, nach ihrem Interesse an diesen Strassen und nach ihrer finanziellen Leistungsfähigkeit.
 
-[^197-subdivu3-2]: [SR 725.113.11](https://fedlex.data.admin.ch/eli/cc/1960/872_912_900)
+[^197-subdivu3-2]: [SR 725.113.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8457)
 [^197-subdivu3-3]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
 
-### 4.** Übergangsbestimmung zu Art. 112b (Förderung der Eingliederung Invalider)
+### 4. Übergangsbestimmung zu Art. 112b (Förderung der Eingliederung Invalider)
 
 [^197-subdivu4-1]
 
-[^197-subdivu4-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu4-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 Die Kantone übernehmen ab Inkrafttreten des Bundesbeschlusses vom 3. Oktober 2003[^197-subdivu4-2] zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen die bisherigen Leistungen der Invalidenversicherung an Anstalten, Werkstätten und Wohnheime, bis sie über genehmigte Behindertenkonzepte verfügen, welche auch die Gewährung kantonaler Beiträge an Bau und Betrieb von Institutionen mit ausserkantonalen Platzierungen regeln, mindestens jedoch während drei Jahren.
 
 [^197-subdivu4-2]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
 
-### 5.** Übergangsbestimmung zu Art. 112c (Betagten- und Behindertenhilfe)
+### 5. Übergangsbestimmung zu Art. 112c (Betagten- und Behindertenhilfe)
 
 [^197-subdivu5-1]
 
-[^197-subdivu5-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
+[^197-subdivu5-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316); [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089); [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
 Die bisherigen Leistungen gemäss Artikel 101<sup>bis</sup> des Bundesgesetzes vom 20. Dezember 1946[^197-subdivu5-2] über die Alters- und Hinterlassenenversicherung an die Hilfe und Pflege zu Hause für Betagte und Behinderte werden durch die Kantone weiter ausgerichtet bis zum Inkrafttreten einer kantonalen Finanzierungsregelung für die Hilfe und Pflege zu Hause.
 
-[^197-subdivu5-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^197-subdivu5-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
-### 7.** Übergangsbestimmung zu Art. 120 (Gentechnologie im Ausserhumanbereich)
+### 6.
 
 [^197-subdivu6-1]
 
-[^197-subdivu6-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2005](http://www.admin.ch/ch/d/pore/va/20051127/index.html), in Kraft seit 27. Nov. 2005 (BB vom 17. Juni 2005, BRB vom 19. Jan. 2006 – [AS 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [BBl 2003 6903](https://fedlex.data.admin.ch/eli/fga/2003/1148), [2004 4937](https://fedlex.data.admin.ch/eli/fga/2004/882), [2005 4039](https://fedlex.data.admin.ch/eli/fga/2005/591), [2006 1061](https://fedlex.data.admin.ch/eli/fga/2006/111)).
+[^197-subdivu6-1]: Diese Ziffer wurde nicht verwendet.
+
+### 7. Übergangsbestimmung zu Art. 120 (Gentechnologie im Ausserhumanbereich)
+
+[^197-subdivu7-1]
+
+[^197-subdivu7-1]: Angenommen in der [Volksabstimmung vom 27. Nov. 2005](http://www.admin.ch/ch/d/pore/va/20051127/index.html), in Kraft seit 27. Nov. 2005 (BB vom 17. Juni 2005, BRB vom 19. Jan. 2006 – [AS 2006 89](https://fedlex.data.admin.ch/eli/oc/2006/23); [BBl 2003 6903](https://fedlex.data.admin.ch/eli/fga/2003/1148); [2004 4937](https://fedlex.data.admin.ch/eli/fga/2004/882); [2005 4039](https://fedlex.data.admin.ch/eli/fga/2005/591); [2006 1061](https://fedlex.data.admin.ch/eli/fga/2006/111)).
 
 Die schweizerische Landwirtschaft bleibt für die Dauer von fünf Jahren nach Annahme dieser Verfassungsbestimmung gentechnikfrei. Insbesondere dürfen weder eingeführt noch in Verkehr gebracht werden:
 
 - a. gentechnisch veränderte vermehrungsfähige Pflanzen, Pflanzenteile und Saatgut, welche für die landwirtschaftliche, gartenbauliche oder forstwirtschaftliche Anwendung in der Umwelt bestimmt sind;
 - b. gentechnisch veränderte Tiere, welche für die Produktion von Lebensmitteln und anderen landwirtschaftlichen Erzeugnissen bestimmt sind.
 
-### 8.** Übergangsbestimmung zu Art. 121 (Aufenthalt und Niederlassung von Ausländerinnen und Ausländern)
-
-[^197-subdivu7-1]
-
-[^197-subdivu7-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010 (BB vom 18. Juni 2010, BRB 17. März 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430), [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876), [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717), [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
-
-Der Gesetzgeber hat innert fünf Jahren seit Annahme von Artikel 121 Absätze 3–6 durch Volk und Stände die Tatbestände nach Artikel 121 Absatz 3 zu definieren und zu ergänzen und die Strafbestimmungen bezüglich illegaler Einreise nach Artikel 121 Absatz 6 zu erlassen.
-
-### 9.** Übergangsbestimmungen zu Art. 75b (Zweitwohnungen)
+### 8. Übergangsbestimmung zu Art. 121 (Aufenthalt und Niederlassung von Ausländerinnen und Ausländern)
 
 [^197-subdivu8-1]
 
-[^197-subdivu8-1]: Angenommen in der [Volksabstimmung vom 11. März 2012](http://www.admin.ch/ch/d/pore/va/20120311/index.html), in Kraft seit 11. März 2012 (BB vom 17. Juni 2011, BRB vom 20. Juni 2012 – [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235)[8757](https://fedlex.data.admin.ch/eli/fga/2008/1556), [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766), [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
+[^197-subdivu8-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), in Kraft seit 28. Nov. 2010 (BB vom 18. Juni 2010, BRB 17. März 2011 – [AS 2011 1199](https://fedlex.data.admin.ch/eli/oc/2011/175); [BBl 2008 1927](https://fedlex.data.admin.ch/eli/fga/2008/430); [2009 5097](https://fedlex.data.admin.ch/eli/fga/2009/876); [2010 4241](https://fedlex.data.admin.ch/eli/fga/2010/717); [2011 2771](https://fedlex.data.admin.ch/eli/fga/2011/395)).
+
+Der Gesetzgeber hat innert fünf Jahren seit Annahme von Artikel 121 Absätze 3–6 durch Volk und Stände die Tatbestände nach Artikel 121 Absatz 3 zu definieren und zu ergänzen und die Strafbestimmungen bezüglich illegaler Einreise nach Artikel 121 Absatz 6 zu erlassen.
+
+### 9. Übergangsbestimmungen zu Art. 75b (Zweitwohnungen)
+
+[^197-subdivu9-1]
+
+[^197-subdivu9-1]: Angenommen in der [Volksabstimmung vom 11. März 2012](http://www.admin.ch/ch/d/pore/va/20120311/index.html), in Kraft seit 11. März 2012 (BB vom 17. Juni 2011, BRB vom 20. Juni 2012 – [AS 2012 3627](https://fedlex.data.admin.ch/eli/oc/2012/416); [BBl 2008 1113](https://fedlex.data.admin.ch/eli/fga/2008/235), [8757](https://fedlex.data.admin.ch/eli/fga/2008/1556); [2011 4825](https://fedlex.data.admin.ch/eli/fga/2011/766); [2012 6623](https://fedlex.data.admin.ch/eli/fga/2012/969)).
 
 <sup>1</sup> Tritt die entsprechende Gesetzgebung nach Annahme von Artikel 75*b* nicht innerhalb von zwei Jahren in Kraft, so erlässt der Bundesrat die nötigen Ausführungsbestimmungen über Erstellung, Verkauf und Registrierung im Grundbuch durch Verordnung.
 
 <sup>2</sup> Baubewilligungen für Zweitwohnungen, die zwischen dem 1. Januar des auf die Annahme von Artikel 75*b* folgenden Jahres und dem Inkrafttreten der Ausführungsbestimmungen erteilt werden, sind nichtig.
 
-### 10.** Übergangsbestimmung zu Art. 95 Abs. 3
-
-[^197-subdivu9-1]
-
-[^197-subdivu9-1]: Angenommen in der [Volksabstimmung vom 3. März 2013](http://www.admin.ch/ch/d/pore/va/20130303/index.html), in Kraft seit 3. März 2013 (BRB vom 15. Nov. 2012 und 30. April 2013 – [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115), [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557), [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37), [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688), [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
-
-Bis zum Inkrafttreten der gesetzlichen Bestimmungen erlässt der Bundesrat innerhalb eines Jahres nach Annahme von Artikel 95 Absatz 3 durch Volk und Stände die erforderlichen Ausführungsbestimmungen.
-
-### 11.** Übergangsbestimmung zu Art. 121a (Steuerung der Zuwanderung)
+### 10. Übergangsbestimmung zu Art. 95 Abs. 3
 
 [^197-subdivu10-1]
 
-[^197-subdivu10-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 9. Febr. 2014 (BB vom 27. Sept. 2013, BRB vom 13. Mai 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924), [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506), [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50)[7351](https://fedlex.data.admin.ch/eli/fga/2013/1414), [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
+[^197-subdivu10-1]: Angenommen in der [Volksabstimmung vom 3. März 2013](http://www.admin.ch/ch/d/pore/va/20130303/index.html), in Kraft seit 3. März 2013 (BRB vom 15. Nov. 2012 und 30. April 2013 – [AS 2013 1303](https://fedlex.data.admin.ch/eli/oc/2013/297); [BBl 2006 8755](https://fedlex.data.admin.ch/eli/fga/2006/1115); [2008 2577](https://fedlex.data.admin.ch/eli/fga/2008/557); [2009 299](https://fedlex.data.admin.ch/eli/fga/2009/37); [2012 9219](https://fedlex.data.admin.ch/eli/fga/2012/1688); [2013 3129](https://fedlex.data.admin.ch/eli/fga/2013/646)).
+
+Bis zum Inkrafttreten der gesetzlichen Bestimmungen erlässt der Bundesrat innerhalb eines Jahres nach Annahme von Artikel 95 Absatz 3 durch Volk und Stände die erforderlichen Ausführungsbestimmungen.
+
+### 11. Übergangsbestimmung zu Art. 121a (Steuerung der Zuwanderung)
+
+[^197-subdivu11-1]
+
+[^197-subdivu11-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 9. Febr. 2014 (BB vom 27. Sept. 2013, BRB vom 13. Mai 2014 – [AS 2014 1391](https://fedlex.data.admin.ch/eli/oc/2014/295); [BBl 2011 6269](https://fedlex.data.admin.ch/eli/fga/2011/924); [2012 3869](https://fedlex.data.admin.ch/eli/fga/2012/506); [2013 291](https://fedlex.data.admin.ch/eli/fga/2013/50), [7351](https://fedlex.data.admin.ch/eli/fga/2013/1414); [2014 4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 <sup>1</sup> Völkerrechtliche Verträge, die Artikel 121*a* widersprechen, sind innerhalb von drei Jahren nach dessen Annahme durch Volk und Stände neu zu verhandeln und anzupassen.
 
 <sup>2</sup> Ist die Ausführungsgesetzgebung zu Artikel 121*a* drei Jahre nach dessen Annahme durch Volk und Stände noch nicht in Kraft getreten, so erlässt der Bundesrat auf diesen Zeitpunkt hin die Ausführungsbestimmungen vorübergehend auf dem Verordnungsweg.
 
-### 12.** Übergangsbestimmung zu Art. 10a (Verbot der Verhüllung des eigenen Gesichts)
-
-[^197-subdivu11-1]
-
-[^197-subdivu11-1]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 7. März 2021 (BB vom 19. Juni 2020, BRB vom 31. Mai 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
-
-Die Ausführungsgesetzgebung zu Artikel 10*a* ist innert zweier Jahre nach dessen Annahme durch Volk und Stände zu erarbeiten.
-
-### 13.** Übergangsbestimmung zu Art. 117b (Pflege)
+### 12. Übergangsbestimmung zu Art. 10a (Verbot der Verhüllung des eigenen Gesichts)
 
 [^197-subdivu12-1]
 
-[^197-subdivu12-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 28. Nov. 2021 (BB vom 18. Juni 2021, BRB vom 11. Apr. 2022 – AS [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238), [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676), [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488), [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
+[^197-subdivu12-1]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 7. März 2021 (BB vom 19. Juni 2020, BRB vom 31. Mai 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+
+Die Ausführungsgesetzgebung zu Artikel 10*a* ist innert zweier Jahre nach dessen Annahme durch Volk und Stände zu erarbeiten.
+
+### 13. Übergangsbestimmung zu Art. 117b (Pflege)
+
+[^197-subdivu13-1]
+
+[^197-subdivu13-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 28. Nov. 2021 (BB vom 18. Juni 2021, BRB vom 11. Apr. 2022 – [AS 2022 240](https://fedlex.data.admin.ch/eli/oc/2022/240); [BBl 2017 7724](https://fedlex.data.admin.ch/eli/fga/2017/2238); [2018 7653](https://fedlex.data.admin.ch/eli/fga/2018/2676); [2021 1488](https://fedlex.data.admin.ch/eli/fga/2021/1488); [2022 894](https://fedlex.data.admin.ch/eli/fga/2022/894)).
 
 <sup>1</sup>
 
@@ -3025,9 +3036,17 @@ Der Bund erlässt im Rahmen seiner Zuständigkeiten Ausführungsbestimmungen üb
 
 <sup>2</sup> Die Bundesversammlung verabschiedet die gesetzlichen Ausführungsbestimmungen innert vier Jahren seit Annahme von Artikel 117*b* durch Volk und Stände. Bis zum Inkrafttreten der gesetzlichen Ausführungsbestimmungen trifft der Bundesrat innerhalb von achtzehn Monaten nach Annahme von Artikel 117*b* durch Volk und Stände wirksame Massnahmen zur Behebung des Mangels an diplomierten Pflegefachpersonen.
 
-Datum des Inkrafttretens: 1. Januar 2000[^197-subdivu12-2]
+### 14. Übergangsbestimmung zu Art. 118 Abs. 2 Bst. b (Schutz der Gesundheit)
 
-[^197-subdivu12-2]: BB vom 28. Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
+[^197-subdivu14-1]
+
+[^197-subdivu14-1]: Angenommen in der [Volksabstimmung vom 13. Febr. 2022](http://www.admin.ch/ch/d/pore/va/20220213/index.html), in Kraft seit 13. Febr. 2022 (BB vom 1. Okt. 2021, BRB vom 11. Apr. 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+
+Die Bundesversammlung verabschiedet die gesetzlichen Ausführungsbestimmungen innert drei Jahren seit Annahme von Artikel 118 Absatz 2 Buchstabe b durch Volk und Stände.
+
+Datum des Inkrafttretens: 1. Januar 2000[^197-subdivu14-2]
+
+[^197-subdivu14-2]: BB vom 28. Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
 
 ## Schlussbestimmungen des Bundesbeschlusses vom 18. Dezember 1998
 
@@ -3037,23 +3056,23 @@ II
 
 <sup>2</sup> Die folgenden Bestimmungen der Bundesverfassung, die in Gesetzesrecht zu überführen sind, gelten weiter bis zum Inkrafttreten der entsprechenden gesetzlichen Bestimmungen:
 
-a. Art. 32<sup>quater</sup> Abs. 6*[^u1-2]*
+a. Art. 32<sup>quater</sup> Abs. 6[^u1-2]
 
 Das Hausieren mit geistigen Getränken sowie ihr Verkauf im Umherziehen sind untersagt.
 
-b. Art. 36<sup>quinquies</sup> Abs. 1 erster Satz, 2 zweiter–letzter Satz und 4 zweiter Satz*[^u1-3]*
+b. Art. 36<sup>quinquies</sup> Abs. 1 erster Satz, 2 zweiter–letzter Satz und 4 zweiter Satz[^u1-3]
 
-<sup>1</sup> Der Bund erhebt für die Benützung der Nationalstrassen erster und zweiter Klasse auf in- und ausländischen Motorfahrzeugen und Anhängern bis zu einem Gesamtgewicht von je 3,5 Tonnen eine jährliche Abgabe von 40 Franken. ...
+<sup>1</sup> Der Bund erhebt für die Benützung der Nationalstrassen erster und zweiter Klasse auf in- und ausländischen Motorfahrzeugen und Anhängern bis zu einem Gesamtgewicht von je 3,5 Tonnen eine jährliche Abgabe von 40 Franken. …
 
-<sup>2</sup> ... Der Bundesrat kann bestimmte Fahrzeuge von der Abgabe befreien und Sonderregelungen treffen, insbesondere für Fahrten im Grenzbereich. Dadurch dürfen im Ausland immatrikulierte Fahrzeuge nicht besser gestellt werden als schweizerische. Der Bundesrat kann für Übertretungen Bussen vorsehen. Die Kantone ziehen die Abgabe für die im Inland immatrikulierten Fahrzeuge ein und überwachen die Einhaltung der Vorschriften bei allen Fahrzeugen.
+<sup>2</sup> … Der Bundesrat kann bestimmte Fahrzeuge von der Abgabe befreien und Sonderregelungen treffen, insbesondere für Fahrten im Grenzbereich. Dadurch dürfen im Ausland immatrikulierte Fahrzeuge nicht besser gestellt werden als schweizerische. Der Bundesrat kann für Übertretungen Bussen vorsehen. Die Kantone ziehen die Abgabe für die im Inland immatrikulierten Fahrzeuge ein und überwachen die Einhaltung der Vorschriften bei allen Fahrzeugen.
 
-<sup>4</sup> ... Das Gesetz kann die Abgabe auf weitere Fahrzeugkategorien, die nicht der Schwerverkehrsabgabe unterstehen, ausdehnen.
+<sup>4</sup> … Das Gesetz kann die Abgabe auf weitere Fahrzeugkategorien, die nicht der Schwerverkehrsabgabe unterstehen, ausdehnen.
 
-c. Art. 121<sup>bis</sup> Abs. 1, 2 und Abs. 3 erster und zweiter Satz*[^u1-4]*
+c. Art. 121<sup>bis</sup> Abs. 1, 2 und Abs. 3 erster und zweiter Satz[^u1-4]
 
 <sup>2</sup> Das absolute Mehr wird für jede Frage getrennt ermittelt. Unbeantwortete Fragen fallen ausser Betracht.
 
-<sup>3</sup> Werden sowohl das Volksbegehren als auch der Gegenentwurf angenommen, so entscheidet das Ergebnis der dritten Frage. In Kraft tritt die Vorlage, die bei dieser Frage mehr Volks- und mehr Standesstimmen erzielt. ...
+<sup>3</sup> Werden sowohl das Volksbegehren als auch der Gegenentwurf angenommen, so entscheidet das Ergebnis der dritten Frage. In Kraft tritt die Vorlage, die bei dieser Frage mehr Volks- und mehr Standesstimmen erzielt. …
 
 III
 
@@ -3071,7 +3090,7 @@ IV
 - 2\. ob er den Gegenentwurf dem geltenden Recht vorziehe;
 - 3\. welche der beiden Vorlagen in Kraft treten soll, falls Volk und Stände beide Vorlagen dem geltenden Recht vorziehen sollten.
 
-[^u1-1]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544), [1951 606](https://fedlex.data.admin.ch/eli/oc/1951/606_603_619), [1957 1027](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065), [1958 362](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375)[768](https://fedlex.data.admin.ch/eli/oc/1958/768_798_804)[770](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806), [1959 224](https://fedlex.data.admin.ch/eli/oc/1959/224_234_234)[912](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933), [1961 476](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498), [1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)[1637](https://fedlex.data.admin.ch/eli/oc/1962/1637_1695_1717)[1804](https://fedlex.data.admin.ch/eli/oc/1962/1804_1858_1888), [1964 97](https://fedlex.data.admin.ch/eli/oc/1964/97_93_93), [1966 1672](https://fedlex.data.admin.ch/eli/oc/1966/1672_1730_1714), [1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267), [1970 1649](https://fedlex.data.admin.ch/eli/oc/1970/1649_1653_1653), [1971 325](https://fedlex.data.admin.ch/eli/oc/1971/325_329_329)[905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905)[907](https://fedlex.data.admin.ch/eli/oc/1971/907_907_907), [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)[1484](https://fedlex.data.admin.ch/eli/oc/1972/1484_1512_1684), [1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)[1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049)[1455](https://fedlex.data.admin.ch/eli/oc/1973/1455_1455_1455), [1974 721](https://fedlex.data.admin.ch/eli/oc/1974/721_721_721), [1975 1205](https://fedlex.data.admin.ch/eli/oc/1975/1205_1205_1205), [1976 713](https://fedlex.data.admin.ch/eli/oc/1976/713_713_713)[715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)[2003](https://fedlex.data.admin.ch/eli/oc/1976/2003_2003_2003), [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)[1849](https://fedlex.data.admin.ch/eli/oc/1977/1849_1849_1849)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)[2230](https://fedlex.data.admin.ch/eli/oc/1977/2230_2230_2230), [1978 212](https://fedlex.data.admin.ch/eli/oc/1978/212_212_212)[484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484)[1578](https://fedlex.data.admin.ch/eli/oc/1978/1578_1578_1578), [1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678), [1980 380](https://fedlex.data.admin.ch/eli/oc/1980/380_380_380), [1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243)[1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244), [1982 138](https://fedlex.data.admin.ch/eli/oc/1982/138_138_138), [1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240)[444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444), [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290), [1985 150](https://fedlex.data.admin.ch/eli/oc/1985/150_150_150), [151](https://fedlex.data.admin.ch/eli/oc/1985/151_151_151)[658](https://fedlex.data.admin.ch/eli/oc/1985/658_658_658)[659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659)[1025](https://fedlex.data.admin.ch/eli/oc/1985/1025_1025_1025)[1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026)[1648](https://fedlex.data.admin.ch/eli/oc/1985/1648_1648_1648), [1987 282](https://fedlex.data.admin.ch/eli/oc/1987/282_282_282)[1125](https://fedlex.data.admin.ch/eli/oc/1987/1125_1125_1125), [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352), [1991 246](https://fedlex.data.admin.ch/eli/oc/1991/246_246_246)[247](https://fedlex.data.admin.ch/eli/oc/1991/247_247_247)[1122](https://fedlex.data.admin.ch/eli/oc/1991/1122_1122_1122), [1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578)[1579](https://fedlex.data.admin.ch/eli/oc/1992/1579_1579_1579), [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040)[3041](https://fedlex.data.admin.ch/eli/oc/1993/3041_3041_3041), [1994 258](https://fedlex.data.admin.ch/eli/oc/1994/258_258_258)[263](https://fedlex.data.admin.ch/eli/oc/1994/263_263_263)[265](https://fedlex.data.admin.ch/eli/oc/1994/265_265_265)[267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267)[1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096)[1097](https://fedlex.data.admin.ch/eli/oc/1994/1097_1097_1097)[1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099)[1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101), [1995 1455](https://fedlex.data.admin.ch/eli/oc/1995/1455_1455_1455), [1996 1490](https://fedlex.data.admin.ch/eli/oc/1996/1490_1490_1490)[1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491)[1492](https://fedlex.data.admin.ch/eli/oc/1996/1492_1492_1492)[2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502), [1998 918](https://fedlex.data.admin.ch/eli/oc/1998/918_918_918)[2031](https://fedlex.data.admin.ch/eli/oc/1998/2031_2031_2031), [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)[743](https://fedlex.data.admin.ch/eli/oc/1999/111)[1239](https://fedlex.data.admin.ch/eli/oc/1999/168)[1341](https://fedlex.data.admin.ch/eli/oc/1999/186)]
+[^u1-1]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544); [1951 606](https://fedlex.data.admin.ch/eli/oc/1951/606_603_619); [1957 1027](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065); [1958 362](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375), [768](https://fedlex.data.admin.ch/eli/oc/1958/768_798_804), [770](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806); [1959 224](https://fedlex.data.admin.ch/eli/oc/1959/224_234_234), [912](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933); [1961 476](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498); [1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803), [1637](https://fedlex.data.admin.ch/eli/oc/1962/1637_1695_1717), [1804](https://fedlex.data.admin.ch/eli/oc/1962/1804_1858_1888); [1964 97](https://fedlex.data.admin.ch/eli/oc/1964/97_93_93); [1966 1672](https://fedlex.data.admin.ch/eli/oc/1966/1672_1730_1714); [1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267); [1970 1649](https://fedlex.data.admin.ch/eli/oc/1970/1649_1653_1653); [1971 325](https://fedlex.data.admin.ch/eli/oc/1971/325_329_329), [905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905), [907](https://fedlex.data.admin.ch/eli/oc/1971/907_907_907); [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681), [1484](https://fedlex.data.admin.ch/eli/oc/1972/1484_1512_1684); [1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429), [1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049), [1455](https://fedlex.data.admin.ch/eli/oc/1973/1455_1455_1455); [1974 721](https://fedlex.data.admin.ch/eli/oc/1974/721_721_721); [1975 1205](https://fedlex.data.admin.ch/eli/oc/1975/1205_1205_1205); [1976 713](https://fedlex.data.admin.ch/eli/oc/1976/713_713_713), [715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715), [2003](https://fedlex.data.admin.ch/eli/oc/1976/2003_2003_2003); [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807), [1849](https://fedlex.data.admin.ch/eli/oc/1977/1849_1849_1849), [2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228), [2230](https://fedlex.data.admin.ch/eli/oc/1977/2230_2230_2230); [1978 212](https://fedlex.data.admin.ch/eli/oc/1978/212_212_212), [484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484), [1578](https://fedlex.data.admin.ch/eli/oc/1978/1578_1578_1578); [1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678); [1980 380](https://fedlex.data.admin.ch/eli/oc/1980/380_380_380); [1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243), [1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244); [1982 138](https://fedlex.data.admin.ch/eli/oc/1982/138_138_138); [1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240), [444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444); [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290), [1985 150](https://fedlex.data.admin.ch/eli/oc/1985/150_150_150), [151](https://fedlex.data.admin.ch/eli/oc/1985/151_151_151), [658](https://fedlex.data.admin.ch/eli/oc/1985/658_658_658), [659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659), [1025](https://fedlex.data.admin.ch/eli/oc/1985/1025_1025_1025), [1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026), [1648](https://fedlex.data.admin.ch/eli/oc/1985/1648_1648_1648); [1987 282](https://fedlex.data.admin.ch/eli/oc/1987/282_282_282), [1125](https://fedlex.data.admin.ch/eli/oc/1987/1125_1125_1125); [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352); [1991 246](https://fedlex.data.admin.ch/eli/oc/1991/246_246_246), [247](https://fedlex.data.admin.ch/eli/oc/1991/247_247_247), [1122](https://fedlex.data.admin.ch/eli/oc/1991/1122_1122_1122); [1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578), [1579](https://fedlex.data.admin.ch/eli/oc/1992/1579_1579_1579); [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040), [3041](https://fedlex.data.admin.ch/eli/oc/1993/3041_3041_3041); [1994 258](https://fedlex.data.admin.ch/eli/oc/1994/258_258_258), [263](https://fedlex.data.admin.ch/eli/oc/1994/263_263_263), [265](https://fedlex.data.admin.ch/eli/oc/1994/265_265_265), [267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267), [1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096), [1097](https://fedlex.data.admin.ch/eli/oc/1994/1097_1097_1097), [1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099), [1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101); [1995 1455](https://fedlex.data.admin.ch/eli/oc/1995/1455_1455_1455); [1996 1490](https://fedlex.data.admin.ch/eli/oc/1996/1490_1490_1490), [1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491), [1492](https://fedlex.data.admin.ch/eli/oc/1996/1492_1492_1492), [2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502); [1998 918](https://fedlex.data.admin.ch/eli/oc/1998/918_918_918), [2031](https://fedlex.data.admin.ch/eli/oc/1998/2031_2031_2031); [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110), [743](https://fedlex.data.admin.ch/eli/oc/1999/111), [1239](https://fedlex.data.admin.ch/eli/oc/1999/168), [1341](https://fedlex.data.admin.ch/eli/oc/1999/186)]
 [^u1-2]: Art. 105
 [^u1-3]: Art. 86 Abs. 2
 [^u1-4]: Siehe heute: Art. 139*b*
@@ -4013,7 +4032,7 @@ Gesetze
 
 **Gestaltungsfreiheit** der Kantone 46
 
-**Gesundheit** 41, 118–120*a*
+**Gesundheit** 41, 118–120*a,* 197 Ziff. 14
 
 **Getränke**, alkoholische 105, 131, 196 Ziff. 15, Ziff. II
 
@@ -4217,6 +4236,7 @@ Jugendliche
 - – musikalische Bildung 67*a*
 - – Schutz 11
 - – Sozialziele 41
+- – Werbung für Tabakprodukte 118<sup>2b</sup>
 
 **Jugendsport** 68
 
@@ -4279,6 +4299,7 @@ Kinder
 - – Schutz 11
 - – Sozialziele 41
 - – Unverjährbarkeit pornografischer Straftaten an Kindern 123*b*
+- – Werbung für Tabakprodukte 118<sup>2b</sup>
 
 **Kino** 71
 
@@ -5140,7 +5161,10 @@ Streitwertgrenze
 
 ### T
 
-**Tabaksteuer** 112, 131
+**Tabak**
+
+- – Tabakprodukte, Werbung für 118<sup>2b</sup>
+- – Tabaksteuer 112, 131
 
 **Tarife** im Post- und Fernmeldewesen 92
 
@@ -5298,7 +5322,7 @@ Unterstützung
 
 Verantwortung
 
-- – allgemein (Präambel), 6
+- – allgemein (Präambel) 6
 - – Persönliche 41
 
 **Verbilligung** des Wohnungsbaus und der Wohnkosten 108
@@ -5423,7 +5447,7 @@ Verträge
 
 Vielfalt
 
-- – des Landes (Präambel), 2
+- – des Landes (Präambel) 2
 - – kulturelle und sprachliche 69
 - – genetische 120
 

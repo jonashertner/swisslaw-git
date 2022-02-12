@@ -4,11 +4,11 @@ title: Federal Constitution of 18 April 1999 of the Swiss Confederation
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: en
-version: 2021-11-28
+version: 2022-02-13
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20211128/en/xml/fedlex-data-admin-ch-eli-cc-1999-404-20211128-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20211128/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20220213/en/xml/fedlex-data-admin-ch-eli-cc-1999-404-20220213-en-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20220213/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20211128/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 18 April 1999 (Status as of 28 November 2021)
+of 18 April 1999 (Status as of 13 February 2022)
 
 **Preamble**
 
@@ -35,7 +35,7 @@ conscious of their common achievements and their responsibility towards future g
 
 and in the knowledge that only those who use their freedom remain free, and that the strength of a people is measured by the well-being of its weakest members,
 
-adopt the following Constitution*[^ingress-1]*:
+adopt the following Constitution[^ingress-1]:
 
 [^ingress-1]: Adopted by the popular vote on 18 April 1999 (FedD of 18 Dec. 1998, FCD of 11 Aug. 1999; [AS 1999 2556](https://fedlex.data.admin.ch/eli/oc/1999/404);[BBl 1997 I 1](https://fedlex.data.admin.ch/eli/fga/1997/1_1_1_1),**1999** 162 [5986](https://fedlex.data.admin.ch/eli/fga/1999/1_5986_5306_4968)**)**.
 
@@ -45,7 +45,7 @@ adopt the following Constitution*[^ingress-1]*:
 
 **The Swiss Confederation**
 
-The People and the Cantons of Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden and Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel Stadt and Basel Landschaft, Schaffhausen, Appenzell Ausserrhoden and Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, and Jura form the Swiss Confederation.
+The People and the Cantons of Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden and Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel Stadt and Basel Landschaft, Schaffhausen, Appenzell Ausserrhoden and Appenzell Innerrhoden, St Gallen, Graubünden, Aargau, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, and Jura form the Swiss Confederation.
 
 #### Art. 2
 
@@ -445,13 +445,15 @@ The Confederation and the Cantons shall, as a complement to personal responsibil
 - d. every person who is fit to work can earn their living by working under fair conditions;
 - e. any person seeking accommodation for themselves and their family can find suitable accommodation on reasonable terms;
 - f. children and young people as well as persons of employable age can obtain an education and undergo basic and advanced training in accordance with their abilities;
-- g. children and young people are encouraged to develop into independent and socially responsible people and are supported in their social, cultural and political integration.
+- g.[^41-1] children and young people are encouraged to develop into independent and socially responsible people and are supported in their social, cultural and political integration and in leading healthy lives.
 
 <sup>2</sup> The Confederation and Cantons shall endeavour to ensure that every person is protected against the economic consequences of old-age, invalidity, illness, accident, unemployment, maternity, being orphaned and being widowed.
 
 <sup>3</sup> They shall endeavour to achieve these social objectives within the scope of their constitutional powers and the resources available to them.
 
 <sup>4</sup> No direct right to state benefits may be established on the basis of these social objectives.
+
+[^41-1]: Adopted by the popular vote on 13 Feb. 2022, in force since 13 Feb. 2022 (FedD of 1 Oct. 2021, FCD of 11 April 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 
 ## Title 3 Confederation, Cantons and Communes
 
@@ -739,7 +741,7 @@ At the request of interested Cantons, the Confederation may declare intercantona
 <sup>3</sup> They shall ensure in the fulfilment of their duties[^61a-2] that general and vocational courses of study achieve equal recognition in society.
 
 [^61a-1]: Adopted by the popular vote on 21 May 2006, in force since 21 May 2006 (FedD of 16 Dec. 2005, FCD of 27 July 2006; [AS 2006 3033](https://fedlex.data.admin.ch/eli/oc/2006/468); [BBl 2005 5479](https://fedlex.data.admin.ch/eli/fga/2005/860)[5547](https://fedlex.data.admin.ch/eli/fga/2005/862)[7273](https://fedlex.data.admin.ch/eli/fga/2005/1171), [2006 6725](https://fedlex.data.admin.ch/eli/fga/2006/818)).
-[^61a-2]: Revised by the Editing Committee of the Federal Assembly, Art. 58 para. 1 ParlA ([SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^61a-2]: Revised by the Editing Committee of the Federal Assembly, Art. 58 para. 1 ParlA ([SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 62
 
@@ -1674,8 +1676,11 @@ The Confederation shall legislate on:
 It shall legislate on:
 
 - a. the use of foodstuffs as well as therapeutic products, narcotics, organisms, chemicals and items that may be dangerous to health;
-- b. the combating of communicable, widespread or particularly dangerous human and animal diseases;
+- b.[^118-1] the combating of communicable, widespread or particularly dangerous human and animal diseases; it shall in particular prohibit any form of advertising for tobacco products from reaching children and adolescents;[^118-2]\*
 - c. protection against ionising radiation.
+
+[^118-1]: Adopted by the popular vote on 13 Feb. 2022, in force since 13 Feb. 2022 (FedD of 1 Oct. 2021, FCD of 11 April 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^118-2]: <sup>\*</sup> With transitional provision.
 
 #### Art. 118a
 
@@ -1938,8 +1943,8 @@ The Confederation may levy a direct tax:
 <sup>4</sup> 5 per cent of the non-earmarked revenues shall be used to reduce the health insurance premiums of persons on low incomes, unless an alternative method of assisting such persons is provided for by law.
 
 [^130-1]: Adopted by the popular vote on 28 Nov. 2004, in force since 1 Jan. 2007 (FedD of 19 March 2004, FCD of 26 Jan. 2005, FCD of 2 Feb. 2006; AS **2006** 1057; BBl **2003** 1531, **2004** 1363, **2005** 951). <sup>\*</sup> With transitional provision
-[^130-2]: The legislature has made use of this power; see Art. 25 para. 4 of the Value Added Tax Act of 12 June 2009 ([SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)), under which the rate of value added tax amounts to 3.7% (special rate for accommodation services), valid from 1 Jan. 2018 until 31 Dec. 2027.
-[^130-3]: The legislature has made use of this power; see Art. 25 para. 1 and 2 of the Value Added Tax Act of 12 June 2009 ([SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)) under which the rates of value added tax amounts to 7.7% (standard rate) and 2.5% (reduced rate) valid from 1 Jan. 2018 until 31 Dec. 2027.
+[^130-2]: The legislature has made use of this power; see Art. 25 para. 4 of the Value Added Tax Act of 12 June 2009 ([SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)), under which the rate of value added tax amounts to 3.7% (special rate for accommodation services), valid from 1 Jan. 2018 until 31 Dec. 2027.
+[^130-3]: The legislature has made use of this power; see Art. 25 para. 1 and 2 of the Value Added Tax Act of 12 June 2009 ([SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)) under which the rates of value added tax amounts to 7.7% (standard rate) and 2.5% (reduced rate) valid from 1 Jan. 2018 until 31 Dec. 2027.
 [^130-4]: Adopted by the popular vote on 9 Feb. 2014, in force since 1 Jan. 2016 (FedD of 20 June 2013, FCD of 13 May 2014, FCD of 2 June 2014, FCD of 6 June 2014; [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 20106637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 #### Art. 131
@@ -2094,7 +2099,7 @@ The following must be put to the vote of the People and the Cantons:
 
 The following are submitted to a vote of the People:
 
-- a. popular initiatives for a total revision of the Federal Constitution;
+- popular initiatives for a total revision of the Federal Constitution;
 - a<sup>bis</sup>.[^140-1] ...
 - b.[^140-2] popular initiatives for a partial revision of the Federal Constitution in the form of a general proposal that have been rejected by the Federal Assembly;
 - c. the question of whether a total revision of the Federal Constitution should be carried out, in the event that there is disagreement between the two Councils.
@@ -2604,7 +2609,7 @@ The Federal Council also has the following duties and powers:
 
 <sup>2</sup> Other duties and powers may be delegated by law to the Federal Council.
 
-### Chapter 4**** Federal Supreme Court and other Judicial Authorities
+### Chapter 4 Federal Supreme Court and other Judicial Authorities
 
 [^tit5-chap4-1]
 
@@ -2753,7 +2758,7 @@ The transfer of freight transit traffic from road to rail must be completed ten 
 <tr><td>– over 12 to 18 t</td><td>2000</td></tr>
 <tr><td>– over 18 to 26 t</td><td>3000</td></tr>
 <tr><td>– over 26 t</td><td>4000</td></tr>
-<tr><td>b. for trailers of</td><td>[tab]</td></tr>
+<tr><td>b. for trailers of</td><td></td></tr>
 <tr><td>– over 3.5 to 8 t</td><td>650</td></tr>
 <tr><td>– over 8 to 10 t</td><td>1500</td></tr>
 <tr><td>– over 10 t</td><td>2000</td></tr>
@@ -2772,10 +2777,10 @@ The transfer of freight transit traffic from road to rail must be completed ten 
 
 <sup>8</sup> This provision applies until the Heavy Vehicle Charge Act of 19 December 1997[^196-subdivu2-2] comes into force.
 
-[^196-subdivu2-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^196-subdivu2-2]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^196-subdivu2-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^196-subdivu2-2]: [SR 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 
-### Transitional provisions to Art. 86 (Use of charges for tasks and costs in connection with road transport), Art. 87 (Railways and other carriers) and Art. 87a (Railway infrastructure)**
+### Transitional provisions to Art. 86 (Use of charges for tasks and costs in connection with road transport), Art. 87 (Railways and other carriers) and Art. 87a (Railway infrastructure)
 
 [^196-subdivu3-1]
 
@@ -2818,7 +2823,7 @@ Until the enactment of federal legislation, the Cantons must mutually recognise 
 
 For no more than ten years from the date on which the Constitution comes into force, the Cantons may retain existing regulations that make the opening of new businesses dependent on establishing a need, in order to guarantee the existence of important parts of a specific branch of the hotel and restaurant industry.
 
-### 8.** ...
+### 8. ...
 
 [^196-subdivu8-1]
 
@@ -2832,20 +2837,20 @@ For no more than ten years from the date on which the Constitution comes into fo
 
 *10.*[^196-subdivu9-2] ...
 
-[^196-subdivu9-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^196-subdivu9-1]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 [^196-subdivu9-2]: Repealed by the popular vote on 28 Nov. 2004, with effect from 1 Jan. 2008 (FCD of 3 Oct 2003, FCD of 26 Jan. 2005, FCD of 7 Nov. 2007; [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116))
 
 ### Transitional provision to Art. 113 (Occupational Pension Scheme)
 
 Insured persons who belong to the generation working at the time of the introduction of the occupational pension scheme and therefore do not contribute for the full period shall receive the statutory minimum benefits, according to their income, within 10 to 20 years of the Act coming into force.
 
-### 12.** ...
+### 12. ...
 
 [^196-subdivu11-1]
 
 [^196-subdivu11-1]: Art. 126 was revised on 2 Dec. 2001.
 
-### 13.** Transitional provision to Art. 128 (Duration of tax levy)
+### 13. Transitional provision to Art. 128 (Duration of tax levy)
 
 [^196-subdivu12-1]
 
@@ -2853,7 +2858,7 @@ Insured persons who belong to the generation working at the time of the introduc
 
 The power to levy the direct federal tax shall be limited until the end of 2035.
 
-### 14.** Transitional provision to Art. 130 (Value Added Tax)**
+### 14. Transitional provision to Art. 130 (Value Added Tax)
 
 [^196-subdivu13-1][^196-subdivu13-2]
 
@@ -2872,11 +2877,11 @@ The power to levy the direct federal tax shall be limited until the end of 2035.
 
 [^196-subdivu13-3]: Adopted by the popular vote on 4 March 2018, in force since 1 Jan. 2021 (FedD of 16 June 2017, FCD of 13 Feb. 2019; [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 [^196-subdivu13-4]: Adopted by the popular vote on 27 Sept. 2009, in force since 1 Jan. 2011 (FedD of 13 June 2008 and of 12 June 2009, FCD of 7 Sept. 2010; [AS 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 5241](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 4371](https://fedlex.data.admin.ch/eli/fga/2009/772)[4377](https://fedlex.data.admin.ch/eli/fga/2009/774)[4379](https://fedlex.data.admin.ch/eli/fga/2009/775)[8719](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
-[^196-subdivu13-5]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^196-subdivu13-5]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^196-subdivu13-6]: Adopted by the popular vote on 9 Feb. 2014, in force since 1 Jan. 2016 (FedD of 20 June 2013, FCD of 13 May 2014, FCD of 2 June 2014, FCD of 6 June 2014; [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 [^196-subdivu13-7]: Adopted by the popular vote on 9 Feb. 2014, in force since 1 Jan. 2016 (FedD of 20 June 2013, FCD of 13 May 2014, FCD of 2 June 2014, FCD of 6 June 2014; [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
-### 15.** ...
+### 15. ...
 
 [^196-subdivu14-1]
 
@@ -2898,9 +2903,9 @@ The power to levy the direct federal tax shall be limited until the end of 2035.
 
 <sup>2</sup> The Federal Council shall be authorised to submit an application to the Secretary General of the United Nations (UN) requesting Switzerland’s accession to the organisation, together with a declaration on the acceptance of the obligations contained in the UN Charter[^197-subdivu1-1].
 
-[^197-subdivu1-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^197-subdivu1-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
-### 2.** Transitional provision to Art. 62 (School education)
+### 2. Transitional provision to Art. 62 (School education)
 
 [^197-subdivu2-1]
 
@@ -2909,9 +2914,9 @@ The power to levy the direct federal tax shall be limited until the end of 2035.
 From the date on which the Federal Decree of 3 October 2003[^197-subdivu2-2] on the New System of Financial Equalisation and the Allocation of Tasks between the Confederation and Cantons comes into force, the Cantons shall, until they have their own approved special-needs school strategies, but for a minimum of three years, assume responsibility for the current payments made by the Invalidity Insurance for special needs education (including the special needs pre-school education in accordance with Art. 19 of the Federal Act of 19 June 1959[^197-subdivu2-3] on Invalidity Insurance).
 
 [^197-subdivu2-2]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
-[^197-subdivu2-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^197-subdivu2-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
-### 3.** Transitional provision to Art. 83 (National highways)
+### 3. Transitional provision to Art. 83 (National highways)
 
 [^197-subdivu3-1]
 
@@ -2919,10 +2924,10 @@ From the date on which the Federal Decree of 3 October 2003[^197-subdivu2-2] on 
 
 The Cantons shall construct the national highways listed in the Federal Decree of 21 June 1960[^197-subdivu3-2] on the National Highway Network (in its version valid on the commencement of the Federal Decree of 3 Oct. 2003[^197-subdivu3-3] on the New System of Financial Equalisation and the Allocation of Tasks between the Confederation and Cantons) in accordance with the regulations of and subject to the oversight of the Confederation. The Confederation and Cantons shall share the costs. The share of the costs borne by the individual Cantons shall be determined by the burden imposed on them by the national highways, their interest in these highways, and their financial capacity.
 
-[^197-subdivu3-2]: [SR 725.113.11](https://fedlex.data.admin.ch/eli/cc/1960/872_912_900)
+[^197-subdivu3-2]: [SR 725.113.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8457)
 [^197-subdivu3-3]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
 
-### 4.** Transitional provision to Art. 112b (Promoting the rehabilitation of people eligible for invalidity benefits)
+### 4. Transitional provision to Art. 112b (Promoting the rehabilitation of people eligible for invalidity benefits)
 
 [^197-subdivu4-1]
 
@@ -2932,19 +2937,19 @@ From the date on which the Federal Decree of 3 October 2003[^197-subdivu4-2] on 
 
 [^197-subdivu4-2]: [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
 
-### 5.** Transitional provision to Art. 112c (Aid for elderly people and people with disabilities)
+### 5. Transitional provision to Art. 112c (Aid for elderly people and people with disabilities)
 
 [^197-subdivu5-1]
 
 [^197-subdivu5-1]: Adopted by the popular vote on 28 Nov. 2004, in force since 1 Jan. 2008 (FCD of 3 Oct 2003, FCD of 26 Jan. 2005, FCD of 7 Nov. 2007; [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
-### The current payments under Article 101<sup>bis</sup> of the Federal Act of 20 December 1946** on the Old-Age and Survivors’ Insurance for assistance and care in the home for elderly people and people with disabilities shall continue to be paid by the Cantons until cantonal regulations on the financing of assistance and care in the home come into force.
+### The current payments under Article 101<sup>bis</sup> of the Federal Act of 20 December 1946 on the Old-Age and Survivors’ Insurance for assistance and care in the home for elderly people and people with disabilities shall continue to be paid by the Cantons until cantonal regulations on the financing of assistance and care in the home come into force.
 
 [^197-subdivu6-1]
 
-[^197-subdivu6-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^197-subdivu6-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
-### 7.** Transitional Provision to Art. 120 (Non-human gene technology)
+### 7. Transitional Provision to Art. 120 (Non-human gene technology)
 
 [^197-subdivu7-1]
 
@@ -2955,7 +2960,7 @@ Swiss agriculture shall remain free of gene technology for a period of five year
 - a. genetically modified plants that are capable of propagation, parts of plants and seeds that are intended for agricultural, horticultural or forestry use in the environment;
 - b. genetically modified animals that are intended for the production of foodstuffs and other agricultural products.
 
-### 8.** Transitional provision to Art. 121 (Residence and Permanent Settlement of Foreign Nationals)
+### 8. Transitional provision to Art. 121 (Residence and Permanent Settlement of Foreign Nationals)
 
 [^197-subdivu8-1]
 
@@ -2963,7 +2968,7 @@ Swiss agriculture shall remain free of gene technology for a period of five year
 
 The legislature must define and add to the offences covered by Article 121 paragraph 3 and issue the criminal provisions relating to illegal entry in accordance with Article 121 paragraph 6 within five years of the adoption of Article 121 paragraphs 3–6 by the People and the Cantons.
 
-### 9.** Transitional provision to Art. 75b (Second homes)
+### 9. Transitional provision to Art. 75b (Second homes)
 
 [^197-subdivu9-1]
 
@@ -2973,7 +2978,7 @@ The legislature must define and add to the offences covered by Article 121 parag
 
 <sup>2</sup> Building permits for second homes granted between 1 January of the year following the adoption of Article 75*b* and the date on which the implementing provisions come into force shall be null and void.
 
-### 10.** Transitional provision to Art. 95 para. 3
+### 10. Transitional provision to Art. 95 para. 3
 
 [^197-subdivu10-1]
 
@@ -2981,7 +2986,7 @@ The legislature must define and add to the offences covered by Article 121 parag
 
 Until the statutory provisions come into force, the Federal Council shall issue the required implementing provisions within one year of the adoption of Article 95 paragraph 3 by the People and the Cantons.
 
-### 11.** Transitional provision to Art. 121a (Control of immigration)
+### 11. Transitional provision to Art. 121a (Control of immigration)
 
 [^197-subdivu11-1]
 
@@ -2991,7 +2996,7 @@ Until the statutory provisions come into force, the Federal Council shall issue 
 
 <sup>2</sup> If the implementing legislation for Article 121*a* has not come into force within three years of its adoption by the People and the Cantons, the Federal Council shall issue temporary implementing provisions in the form of an ordinance.
 
-### 12.** Transitional provision to Art. 10a (Ban on covering the face)
+### 12. Transitional provision to Art. 10a (Ban on covering the face)
 
 [^197-subdivu12-1]
 
@@ -2999,7 +3004,7 @@ Until the statutory provisions come into force, the Federal Council shall issue 
 
 The implementing legislation for Article 10*a* must be drawn up within two years of its adoption by the People and the Cantons.
 
-### 13.** Transitional provision to Art. 117b (Nursing care)
+### 13. Transitional provision to Art. 117b (Nursing care)
 
 [^197-subdivu13-1]
 
@@ -3022,9 +3027,17 @@ The Confederation shall, within the scope of its powers, enact implementing prov
 
 <sup>2</sup> The Federal Assembly shall approve the statutory implementing provisions within four years of the adoption of Article 117*b* by the People and Cantons. Before the statutory implementing provisions come into force, the Federal Council shall, within eighteen months of the adoption of Article 117*b* by the People and Cantons, take effective measures in order to address the shortage of qualified nursing staff.
 
-Commencement Date: 1 January 2000[^197-subdivu13-2]
+### 14. Transitional provision to Art. 118 para. 2 let. b (Health protection)
 
-[^197-subdivu13-2]: FedD of 28 Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu14-1]
+
+[^197-subdivu14-1]: Adopted by the popular vote on 13 Feb. 2022, in force since 13 Feb. 2022 (FedD of 1 Oct. 2021, FCD of 11 April 2022 – [AS 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [BBl 2019 6883](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 7049](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+
+The Federal Assembly shall approve the statutory implementing provisions within three years of the adoption of Article 118 paragraph 2 letter b by the People and Cantons.
+
+Commencement Date: 1 January 2000[^197-subdivu14-2]
+
+[^197-subdivu14-2]: FedD of 28 Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Final Provisions of the Federal Decree of 18 December 1998
 
@@ -3034,11 +3047,11 @@ II
 
 <sup>2</sup> The following provisions of the Federal Constitution, which must be re-enacted as statute law, continue to apply until the corresponding statutory provisions come into force:
 
-a. Art. 32<sup>quater</sup> para. 6*[^u1-2]*
+a. Art. 32<sup>quater</sup> para. 6[^u1-2]
 
 Hawking and other forms of itinerant sale of spirits are prohibited.
 
-b. Art. 36<sup>quinquies</sup> para. 1 first sentence, 2 second–last sentence and 4 second sentence*[^u1-3]*
+b. Art. 36<sup>quinquies</sup> para. 1 first sentence, 2 second–last sentence and 4 second sentence[^u1-3]
 
 <sup>1</sup> For the use of first and second class national highways, the Confederation shall levy an annual charge of 40 francs on each Swiss and foreign motor vehicle and trailer with a total weight not exceeding 3.5 tonnes. ...
 
@@ -3046,7 +3059,7 @@ b. Art. 36<sup>quinquies</sup> para. 1 first sentence, 2 second–last sentence 
 
 <sup>4</sup> ... The charge may be extended by federal act to further categories of vehicle that are not liable to pay the heavy vehicle charge.
 
-c. Art. 121<sup>bis</sup> para. 1, 2 and para. 3 first and second sentence*[^u1-4]*
+c. Art. 121<sup>bis</sup> para. 1, 2 and para. 3 first and second sentence[^u1-4]
 
 <sup>2</sup> The absolute majority shall be calculated separately for each question. Unanswered questions shall not be taken into consideration.
 

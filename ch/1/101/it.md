@@ -4,18 +4,18 @@ title: Costituzione federale della Confederazione Svizzera del 18 aprile 1999
 short: Cost.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: it
-version: 2021-11-28
+version: 2022-02-13
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20211128/it/xml/fedlex-data-admin-ch-eli-cc-1999-404-20211128-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20211128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20220213/it/xml/fedlex-data-admin-ch-eli-cc-1999-404-20220213-it-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20220213/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione federale della Confederazione Svizzera
 
-del 18 aprile 1999 (Stato 28 novembre 2021)
+del 18 aprile 1999 (Stato 13 febbraio 2022)
 
 **Preambolo**
 
@@ -443,13 +443,15 @@ A complemento della responsabilità e dell’iniziativa private, la Confederazio
 - d. le persone abili al lavoro possano provvedere al proprio sostentamento con un lavoro a condizioni adeguate;
 - e. ognuno possa trovare, per sé stesso e per la sua famiglia, un’abitazione adeguata e a condizioni sopportabili;
 - f. i fanciulli e gli adolescenti nonché le persone in età lavorativa possano istruirsi e perfezionarsi secondo le loro capacità;
-- g. i fanciulli e gli adolescenti siano aiutati nel loro sviluppo, cosicché diventino persone indipendenti e socialmente responsabili, e sostenuti nella loro integrazione sociale, culturale e politica.
+- g.[^41-1] i fanciulli e gli adolescenti siano aiutati nel loro sviluppo, cosicché diventino persone indipendenti e socialmente responsabili, e sostenuti nella loro integrazione sociale, culturale e politica, e ne sia promossa la salute.
 
 <sup>2</sup> La Confederazione e i Cantoni si adoperano affinché ognuno sia assicurato contro le conseguenze economiche della vecchiaia, dell’invalidità, della malattia, dell’infortunio, della disoccupazione, della maternità, dell’orfanità e della vedovanza.
 
 <sup>3</sup> La Confederazione e i Cantoni perseguono gli obiettivi sociali nell’ambito delle loro competenze costituzionali e dei mezzi disponibili.
 
 <sup>4</sup> Dagli obiettivi sociali non si possono desumere pretese volte a ottenere direttamente prestazioni dello Stato.
+
+[^41-1]: Accettata nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 13 feb. 2022 (DF del 1° ott. 2021, DCF dell’11 apr. 2022 – [RU 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 5707](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6165](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
 
 ## Titolo terzo: Confederazione, Cantoni e Comuni
 
@@ -1672,8 +1674,11 @@ La Confederazione emana prescrizioni concernenti:
 Emana prescrizioni su:
 
 - a. l’impiego di alimenti, nonché di farmaci, stupefacenti, organismi, sostanze chimiche e oggetti che possono mettere in pericolo la salute;
-- b. la lotta contro malattie trasmissibili, fortemente diffuse o maligne dell’uomo e degli animali;
+- b.[^118-1] la lotta contro malattie trasmissibili, fortemente diffuse o maligne dell’uomo e degli animali; vieta in particolare ogni forma di pubblicità per i prodotti del tabacco che raggiunge fanciulli e adolescenti; [^118-2]\*
 - c. la protezione dalle radiazioni ionizzanti.
+
+[^118-1]: Accettata nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 13 feb. 2022 (DF del 1° ott. 2021, DCF dell’11 apr. 2022 – [RU 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 5707](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6165](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+[^118-2]: <sup>\*</sup> Con disposizione transitoria.
 
 #### Art. 118a
 
@@ -1937,8 +1942,8 @@ La Confederazione può riscuotere un’imposta diretta:
 
 [^130-1]: Accettato nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2007 (DF del del 19 mar. 2004, DCF del 26 gen. 2005, DCF del 2 feb. 2006 – [RU 2006 1057](https://fedlex.data.admin.ch/eli/oc/2006/184); [FF 2003 1361](https://fedlex.data.admin.ch/eli/fga/2003/220), [2004 1175](https://fedlex.data.admin.ch/eli/fga/2004/254), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^130-2]: <sup>\*</sup> Con disposizione transitoria.
-[^130-3]: Dal 1° gen. 2018 fino al massimo il 31 dic. 2027 l’aliquota speciale per le prestazioni del settore alberghiero ammonta al 3,7 % (art. 25 cpv. 4 della L del 12 giu. 2009 sull’IVA; [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
-[^130-4]: Dal 1° gen. 2018 fino al massimo il 31 dic. 2030 l’aliquota normale ammonta al 7,7 % e l’aliquota ridotta al 2,5 % (art. 25 cpv. 1 e 2 della L del 12 giu. 2009 sull’IVA; [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
+[^130-3]: Dal 1° gen. 2018 fino al massimo il 31 dic. 2027 l’aliquota speciale per le prestazioni del settore alberghiero ammonta al 3,7 % (art. 25 cpv. 4 della L del 12 giu. 2009 sull’IVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
+[^130-4]: Dal 1° gen. 2018 fino al massimo il 31 dic. 2030 l’aliquota normale ammonta al 7,7 % e l’aliquota ridotta al 2,5 % (art. 25 cpv. 1 e 2 della L del 12 giu. 2009 sull’IVA; [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)).
 [^130-5]: Accettato nella [votazione popolare del 9 feb. 2014](http://www.admin.ch/ch/i/pore/va/20140209/index.html), in vigore dal 1° gen. 2016 (DF del 20 giu. 2013, DCF 13 mag. 2014, DCF 2 giu. 2014, DCF 6 giu. 2014 – [RU 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 5843](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1283](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4003](https://fedlex.data.admin.ch/eli/fga/2013/897)5646, [2014 3507](https://fedlex.data.admin.ch/eli/fga/2014/970)[3511](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
 #### Art. 131
@@ -2603,7 +2608,7 @@ Il Consiglio federale ha inoltre i compiti e le attribuzioni seguenti:
 
 <sup>2</sup> La legge può conferire al Consiglio federale altri compiti e attribuzioni.
 
-### Capitolo 4:**** Tribunale federale e altre autorità giudiziarie
+### Capitolo 4: Tribunale federale e altre autorità giudiziarie
 
 [^tit5-chap4-1]
 
@@ -2747,7 +2752,7 @@ Il trasferimento del trasporto merci di transito dalla strada alla ferrovia deve
 <sup>2</sup> La tassa ammonta a:
 
 <table>
-<tr><td>[tab]</td><td>Fr.</td></tr>
+<tr><td></td><td>Fr.</td></tr>
 <tr><td>a. per gli autocarri e i veicoli articolati:</td><td></td></tr>
 <tr><td>– di oltre 3,5 fino a 12 tonnellate</td><td>650</td></tr>
 <tr><td>– di oltre 12 fino a 18 tonnellate</td><td>2000</td></tr>
@@ -2772,8 +2777,8 @@ Il trasferimento del trasporto merci di transito dalla strada alla ferrovia deve
 
 <sup>8</sup> Il presente articolo ha effetto sino all’entrata in vigore della legge del 19 dicembre 1997[^196-subdivu2-2] concernente una tassa sul traffico pesante commisurata alle prestazioni.
 
-[^196-subdivu2-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^196-subdivu2-2]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^196-subdivu2-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^196-subdivu2-2]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 
 ### Disposizioni transitorie dell’articolo 86 (Impiego di tasse per compiti e spese connessi alla circolazione stradale), dell’articolo 87 (Ferrovie e altri mezzi di trasporto) e dell’articolo 87a (Infrastruttura ferroviaria
 
@@ -2818,7 +2823,7 @@ Fino all’emanazione della pertinente legislazione federale, i Cantoni sono ten
 
 Per non oltre dieci anni dall’entrata in vigore della presente Costituzione, i Cantoni possono mantenere i loro disciplinamenti che, per assicurare l’esistenza di parti significative di un determinato ramo dell’industria alberghiera e della ristorazione, subordinano alla prova del bisogno l’apertura di nuovi esercizi pubblici.
 
-### ...**
+### ...
 
 [^196-subdivu8-1]
 
@@ -2830,9 +2835,9 @@ Per non oltre dieci anni dall’entrata in vigore della presente Costituzione, i
 
 <sup>2</sup> Il giorno della festa nazionale non è computato nel numero dei giorni festivi secondo l’articolo 18 capoverso 2 della legge del 13 marzo 1964[^196-subdivu9-1] sul lavoro.
 
-[^196-subdivu9-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^196-subdivu9-1]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
-### ...**
+### ...
 
 [^196-subdivu10-1]
 
@@ -2842,13 +2847,13 @@ Per non oltre dieci anni dall’entrata in vigore della presente Costituzione, i
 
 Gli assicurati che appartengono alla generazione d’entrata e che non dispongono pertanto di un periodo intero di contribuzione devono poter beneficiare della protezione minima prescritta dalla legge, a seconda dell’importo del loro reddito, entro 10–20 anni dall’entrata in vigore di quest’ultima.
 
-### ...**
+### ...
 
 [^196-subdivu12-1]
 
 [^196-subdivu12-1]: L’art. 126 ha un nuovo testo dal 2 dic. 2001, le disp. trans. sono prive d’oggetto.
 
-### 13.** Disposizione transitoria dell’art. 128 (Durata della riscossione dell’imposta)
+### 13. Disposizione transitoria dell’art. 128 (Durata della riscossione dell’imposta)
 
 [^196-subdivu13-1]
 
@@ -2856,7 +2861,7 @@ Gli assicurati che appartengono alla generazione d’entrata e che non dispongon
 
 La facoltà di riscuotere l’imposta federale diretta decade alla fine del 2035.
 
-### 14.** Disposizioni transitorie ad art. 130 (Imposta sul valore aggiunto)**
+### 14. Disposizioni transitorie ad art. 130 (Imposta sul valore aggiunto)
 
 [^196-subdivu14-1][^196-subdivu14-2]
 
@@ -2879,17 +2884,17 @@ Per garantire il finanziamento dell’assicurazione invalidità, il Consiglio fe
 
 [^196-subdivu14-3]: Accettato nella [votazione popolare del 4 mar. 2018](http://www.admin.ch/ch/i/pore/va/20180304/index.html), in vigore dal 1° gen. 2021 (DF del 16. giu. 2017, DCF del 13 feb. 2019 – [RU 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [FF 2016 5609](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 3611](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2297](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 [^196-subdivu14-4]: Accettato nella [votazione popolare del 26 set. 2009](http://www.admin.ch/ch/i/pore/va/20090926/index.html), in vigore dal 1° gen. 2011 (DF del 13 giu. 2008 e del 12 giu. 2009, DCF del 7 set. 2010 – [RU 2010 3821](https://fedlex.data.admin.ch/eli/oc/2010/542); [FF 2005 4151](https://fedlex.data.admin.ch/eli/fga/2005/721), [2008 4573](https://fedlex.data.admin.ch/eli/fga/2008/933), [2009 3753](https://fedlex.data.admin.ch/eli/fga/2009/772)[3759](https://fedlex.data.admin.ch/eli/fga/2009/774)[3761](https://fedlex.data.admin.ch/eli/fga/2009/775)[7599](https://fedlex.data.admin.ch/eli/fga/2009/1477)).
-[^196-subdivu14-5]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^196-subdivu14-5]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^196-subdivu14-6]: Accettato nella [votazione popolare del 9 feb. 2014](http://www.admin.ch/ch/i/pore/va/20140209/index.html), in vigore dal 1° gen. 2016 (DF del 20 giu. 2013, DCF 13 mag. 2014, DCF 2 giu. 2014, DCF 6 giu. 2014 – [RU 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 5843](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1283](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4003](https://fedlex.data.admin.ch/eli/fga/2013/897)5646, [2014 3507](https://fedlex.data.admin.ch/eli/fga/2014/970)[3511](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 [^196-subdivu14-7]: Accettato nella [votazione popolare del 9 feb. 2014](http://www.admin.ch/ch/i/pore/va/20140209/index.html), in vigore dal 1° gen. 2016 (DF del 20 giu. 2013, DCF 13 mag. 2014, DCF 2 giu. 2014, DCF 6 giu. 2014 – [RU 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [FF 2010 5843](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1283](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4003](https://fedlex.data.admin.ch/eli/fga/2013/897)5646, [2014 3507](https://fedlex.data.admin.ch/eli/fga/2014/970)[3511](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
-### ...**
+### ...
 
 [^196-subdivu15-1]
 
 [^196-subdivu15-1]: Abrogato dalla [votazione popolare del 4 mar. 2018](http://www.admin.ch/ch/i/pore/va/20180304/index.html), con effetto dal 1° gen. 2021 (DF del 16. giu. 2017, DCF del 13 feb. 2019 – [RU 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [FF 2016 5609](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 3611](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2297](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 
-### ...**
+### ...
 
 [^196-subdivu16-1]
 
@@ -2907,9 +2912,9 @@ Per garantire il finanziamento dell’assicurazione invalidità, il Consiglio fe
 
 <sup>2</sup> Il Consiglio federale è abilitato a rivolgere al Segretario generale dell’Organizzazione delle Nazioni Unite una richiesta della Svizzera ai fini dell’ammissione in seno a tale organizzazione e una dichiarazione di intenti per l’adempimento degli obblighi che risultano dallo Statuto delle Nazioni Unite[^197-subdivu1-1].
 
-[^197-subdivu1-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^197-subdivu1-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
-### 2.** Disposizione transitoria dell’art. 62 (Scuola)
+### 2. Disposizione transitoria dell’art. 62 (Scuola)
 
 [^197-subdivu2-1]
 
@@ -2918,9 +2923,9 @@ Per garantire il finanziamento dell’assicurazione invalidità, il Consiglio fe
 Dall’entrata in vigore del decreto federale del 3 ottobre 2003[^197-subdivu2-2] concernente la nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, questi ultimi assumono, fino all’adozione di una propria strategia in materia di istruzione scolastica speciale ma almeno per tre anni, le prestazioni dell’assicurazione invalidità in materia di istruzione scolastica speciale (inclusa quella precoce di natura pedagogico–terapeutica secondo l’art. 19 della LF del 19 giu. 1959[^197-subdivu2-3] sull’assicurazione per l’invalidità).
 
 [^197-subdivu2-2]: [RU 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
-[^197-subdivu2-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^197-subdivu2-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
-### 3.** Disposizione transitoria dell’art. 83 (Strade nazionali)
+### 3. Disposizione transitoria dell’art. 83 (Strade nazionali)
 
 [^197-subdivu3-1]
 
@@ -2928,10 +2933,10 @@ Dall’entrata in vigore del decreto federale del 3 ottobre 2003[^197-subdivu2-2
 
 I Cantoni portano a termine la costruzione delle strade nazionali elencate nel decreto federale del 21 giugno 1960[^197-subdivu3-2] concernente la rete delle strade nazionali (stato all’entrata in vigore del DF del 3 ott. 2003[^197-subdivu3-3] concernente la nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni) secondo le prescrizioni e sotto l’alta vigilanza della Confederazione. La Confederazione e i Cantoni sopperiscono insieme alle spese. La quota a carico dei singoli Cantoni è commisurata all’onere causato loro dalle strade nazionali, nonché al loro interesse per quest’ultime e alla loro capacità finanziaria.
 
-[^197-subdivu3-2]: [RS 725.113.11](https://fedlex.data.admin.ch/eli/cc/1960/872_912_900)
+[^197-subdivu3-2]: [RS 725.113.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8457)
 [^197-subdivu3-3]: [RU 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
 
-### 4.** Disposizione transitoria dell’art. 112b (Promozione dell’integrazione degli invalidi)
+### 4. Disposizione transitoria dell’art. 112b (Promozione dell’integrazione degli invalidi)
 
 [^197-subdivu4-1]
 
@@ -2941,7 +2946,7 @@ Dall’entrata in vigore del decreto federale del 3 ottobre 2003[^197-subdivu4-2
 
 [^197-subdivu4-2]: [RU 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785)
 
-### 5.** Disposizione transitoria dell’art. 112c (Aiuto agli anziani e ai disabili)
+### 5. Disposizione transitoria dell’art. 112c (Aiuto agli anziani e ai disabili)
 
 [^197-subdivu5-1]
 
@@ -2949,9 +2954,9 @@ Dall’entrata in vigore del decreto federale del 3 ottobre 2003[^197-subdivu4-2
 
 Fino all’entrata in vigore di un disciplinamento cantonale in materia, i Cantoni continuano a versare agli anziani e ai disabili le prestazioni per l’assistenza e le cure a domicilio conformemente all’articolo 101<sup>bis</sup> della legge federale del 20 dicembre 1946[^197-subdivu5-2] sull’assicurazione per la vecchiaia e per i superstiti.
 
-[^197-subdivu5-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^197-subdivu5-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
-### 7.** Disposizione transitoria dell’art. 120 (Ingegneria genetica in ambito non umano)
+### 7. Disposizione transitoria dell’art. 120 (Ingegneria genetica in ambito non umano)
 
 [^197-subdivu6-1]
 
@@ -2962,7 +2967,7 @@ Nei cinque anni seguenti l’accettazione della presente disposizione costituzio
 - a. le piante, le parti di piante e le sementi geneticamente modificate che possono riprodursi e sono destinate a essere utilizzate nell’ambiente per fini agricoli, orticoli o forestali;
 - b. gli animali geneticamente modificati destinati alla produzione di alimenti e altri prodotti agricoli.
 
-### 8.** Disposizione transitoria dell’art. 121 (Dimora e domicilio degli stranieri)
+### 8. Disposizione transitoria dell’art. 121 (Dimora e domicilio degli stranieri)
 
 [^197-subdivu7-1]
 
@@ -2970,7 +2975,7 @@ Nei cinque anni seguenti l’accettazione della presente disposizione costituzio
 
 Entro cinque anni dall’accettazione dell’articolo 121 capoversi 3–6 da parte del Popolo e dei Cantoni, il legislatore definisce e completa le fattispecie di cui all’articolo 121 capoverso 3 ed emana le disposizioni penali relative all’entrata illegale di cui all’articolo 121 capoverso 6.
 
-### 9.** Disposizioni transitorie dell’art. 75b (Abitazioni secondarie)
+### 9. Disposizioni transitorie dell’art. 75b (Abitazioni secondarie)
 
 [^197-subdivu8-1]
 
@@ -2980,7 +2985,7 @@ Entro cinque anni dall’accettazione dell’articolo 121 capoversi 3–6 da par
 
 <sup>2</sup> I permessi di costruzione per residenze secondarie concessi tra il 1° gennaio dell’anno che segue l’accettazione dell’articolo 75*b* e l’entrata in vigore delle disposizioni d’esecuzione sono nulli.
 
-### 10.** Disposizione transitoria dell’art. 95 cpv. 3
+### 10. Disposizione transitoria dell’art. 95 cpv. 3
 
 [^197-subdivu9-1]
 
@@ -2988,7 +2993,7 @@ Entro cinque anni dall’accettazione dell’articolo 121 capoversi 3–6 da par
 
 Entro un anno dall’accettazione dell’articolo 95 capoverso 3 da parte del Popolo e dei Cantoni, il Consiglio federale emana le disposizioni di esecuzione necessarie, che rimangono valide fino all’entrata in vigore delle disposizioni legali.
 
-### 11.** Disposizione transitoria dell’art. 121a (Regolazione dell’immigrazione)
+### 11. Disposizione transitoria dell’art. 121a (Regolazione dell’immigrazione)
 
 [^197-subdivu10-1]
 
@@ -2998,7 +3003,7 @@ Entro un anno dall’accettazione dell’articolo 95 capoverso 3 da parte del Po
 
 <sup>2</sup> Se la legislazione d’esecuzione relativa all’articolo 121*a* non è entrata in vigore entro tre anni dall’accettazione di detto articolo da parte del Popolo e dei Cantoni, il Consiglio federale emana provvisoriamente le disposizioni d’esecuzione in via d’ordinanza.
 
-### 12.** Disposizione transitoria dell’art. 10a (Divieto di dissimulare il proprio viso)
+### 12. Disposizione transitoria dell’art. 10a (Divieto di dissimulare il proprio viso)
 
 [^197-subdivu11-1]
 
@@ -3006,7 +3011,7 @@ Entro un anno dall’accettazione dell’articolo 95 capoverso 3 da parte del Po
 
 La legislazione d’esecuzione relativa all’articolo 10*a* è elaborata entro due anni dall’accettazione di detto articolo da parte del Popolo e dei Cantoni.
 
-### 13.** Disposizione transitoria dell’art. 117b (Cure infermieristiche)
+### 13. Disposizione transitoria dell’art. 117b (Cure infermieristiche)
 
 [^197-subdivu12-1]
 
@@ -3029,9 +3034,17 @@ Nell’ambito delle sue competenze, la Confederazione emana disposizioni di esec
 
 <sup>2</sup> L’Assemblea federale adotta le disposizioni legislative di esecuzione entro quattro anni dall’accettazione dell’articolo 117*b* da parte del Popolo e dei Cantoni. Entro diciotto mesi dall’accettazione dell’articolo 117*b* da parte del Popolo e dei Cantoni, il Consiglio federale prende provvedimenti efficaci per ovviare alla mancanza di infermieri diplomati; tali provvedimenti hanno effetto fino all’entrata in vigore delle disposizioni legislative di esecuzione.
 
-Data dell’entrata in vigore: 1° gennaio 2000[^197-subdivu12-2]
+### 14. Disposizione transitoria dell’art. 118 cpv. 2 lett. b (Protezione della salute)
 
-[^197-subdivu12-2]: DF del 28 set. 1999 ([RU 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu13-1]
+
+[^197-subdivu13-1]: Accettato nella [votazione popolare del 13 feb. 2022](http://www.admin.ch/ch/i/pore/va/20220213/index.html), in vigore dal 13 feb. 2022 (DF del 1° ott. 2021, DCF dell’11 apr. 2022 – [RU 2022 241](https://fedlex.data.admin.ch/eli/oc/2022/241); [FF 2019 5707](https://fedlex.data.admin.ch/eli/fga/2019/2386); [2020 6165](https://fedlex.data.admin.ch/eli/fga/2020/1895); [2021 2315](https://fedlex.data.admin.ch/eli/fga/2021/2315); [2022 895](https://fedlex.data.admin.ch/eli/fga/2022/895)).
+
+L’Assemblea federale adotta le disposizioni legislative di esecuzione entro tre anni dall’accettazione dell’articolo 118 capoverso 2 lettera b da parte del Popolo e dei Cantoni.
+
+Data dell’entrata in vigore: 1° gennaio 2000[^197-subdivu13-2]
+
+[^197-subdivu13-2]: DF del 28 set. 1999 ([RU 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Disposizioni finali del Decreto federale del 18 dicembre 1998
 
@@ -3041,11 +3054,11 @@ II
 
 <sup>2</sup> Le seguenti disposizioni della Costituzione federale abrogata che devono essere trasposte a livello di legge rimangono nondimeno applicabili fino all’entrata in vigore delle pertinenti disposizioni legislative:
 
-a. Art. 32<sup>quater</sup> cpv. 6*[^u1-2]*
+a. Art. 32<sup>quater</sup> cpv. 6[^u1-2]
 
 Per le bevande spiritose sono vietati il commercio ambulante e ogni forma di vendita girovaga.
 
-b. Art. 36<sup>quinquies</sup> cpv. 1 primo periodo, 2 dal secondo all’ultimo periodo, e 4 secondo periodo*[^u1-3]*
+b. Art. 36<sup>quinquies</sup> cpv. 1 primo periodo, 2 dal secondo all’ultimo periodo, e 4 secondo periodo[^u1-3]
 
 <sup>1</sup> La Confederazione riscuote, per l’utilizzazione delle strade nazionali di prima e seconda classe, una tassa annuale di 40 franchi sui veicoli a motore e sui rimorchi immatricolati in Svizzera o all’estero, il cui peso complessivo non superi le 3,5 tonnellate. ...
 
@@ -3053,7 +3066,7 @@ b. Art. 36<sup>quinquies</sup> cpv. 1 primo periodo, 2 dal secondo all’ultimo 
 
 <sup>4</sup> ... Essa [la tassa] può anche essere applicata ad altre categorie di veicoli che non sono assoggettati alla tassa sul traffico pesante.
 
-c. Art. 121<sup>bis</sup> cpv. 1, 2 e 3 primo e secondo periodo*[^u1-4]*
+c. Art. 121<sup>bis</sup> cpv. 1, 2 e 3 primo e secondo periodo[^u1-4]
 
 <sup>2</sup> La maggioranza assoluta è accertata separatamente per ogni domanda. Non è tenuto conto delle domande lasciate senza risposta.
 
@@ -3075,7 +3088,7 @@ IV
 - 2\. se preferisce il controprogetto al diritto vigente;
 - 3\. quale dei due testi dovrà entrare in vigore nel caso in cui Popolo e Cantoni li abbiano preferiti entrambi al diritto vigente.
 
-[^u1-1]: [RS **1** 3; [RU 1949 1544](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544)art. 2, [1951 619](https://fedlex.data.admin.ch/eli/oc/1951/606_603_619)art. 2, [1957 1065](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065)art. 2, [1958 375](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375)art. 2 [804](https://fedlex.data.admin.ch/eli/oc/1958/768_798_804)art. 2 [806](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806)art. 2, [1959 234](https://fedlex.data.admin.ch/eli/oc/1959/224_234_234)art. 2 [933](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933)art. 2, [1961 498](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498)art. 2, [1962 803](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)art. 2 [1717](https://fedlex.data.admin.ch/eli/oc/1962/1637_1695_1717)art. 2 [1888](https://fedlex.data.admin.ch/eli/oc/1962/1804_1858_1888), [1964 93](https://fedlex.data.admin.ch/eli/oc/1964/97_93_93)art. 2, [1966 1714](https://fedlex.data.admin.ch/eli/oc/1966/1672_1730_1714)art. 2, [1969 1267](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267)art. 2, [1970 1653](https://fedlex.data.admin.ch/eli/oc/1970/1649_1653_1653)art. 2, [1971 329](https://fedlex.data.admin.ch/eli/oc/1971/325_329_329)art. 2 [905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905)art. 2 [907](https://fedlex.data.admin.ch/eli/oc/1971/907_907_907)art. 2, [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)art. 2 [1684](https://fedlex.data.admin.ch/eli/oc/1972/1484_1512_1684)art. 2, [1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)art. 2 n. I a IV [1049](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049)art. 2 [1455](https://fedlex.data.admin.ch/eli/oc/1973/1455_1455_1455), [1974 721](https://fedlex.data.admin.ch/eli/oc/1974/721_721_721)art. 2 n. 1, [1975 1205](https://fedlex.data.admin.ch/eli/oc/1975/1205_1205_1205)art. 2, [1976 713](https://fedlex.data.admin.ch/eli/oc/1976/713_713_713)[715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)[2003](https://fedlex.data.admin.ch/eli/oc/1976/2003_2003_2003), [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)art. 2 [1849](https://fedlex.data.admin.ch/eli/oc/1977/1849_1849_1849)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)[2230](https://fedlex.data.admin.ch/eli/oc/1977/2230_2230_2230), [1978 212](https://fedlex.data.admin.ch/eli/oc/1978/212_212_212)[484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484)[1578](https://fedlex.data.admin.ch/eli/oc/1978/1578_1578_1578)n. I e II, [1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678), [1980 380](https://fedlex.data.admin.ch/eli/oc/1980/380_380_380), [1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243)[1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244), [1982 138](https://fedlex.data.admin.ch/eli/oc/1982/138_138_138), [1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240)[444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444), [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290), [1985 150](https://fedlex.data.admin.ch/eli/oc/1985/150_150_150)[151](https://fedlex.data.admin.ch/eli/oc/1985/151_151_151)[658](https://fedlex.data.admin.ch/eli/oc/1985/658_658_658)[659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659)[1025](https://fedlex.data.admin.ch/eli/oc/1985/1025_1025_1025)n. I e II, [1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026)n. I e II [1648](https://fedlex.data.admin.ch/eli/oc/1985/1648_1648_1648), [1987 282](https://fedlex.data.admin.ch/eli/oc/1987/282_282_282)art. 2 cpv. 2 [1125](https://fedlex.data.admin.ch/eli/oc/1987/1125_1125_1125), **1988** art. 1, cpv. 2, [1991 246](https://fedlex.data.admin.ch/eli/oc/1991/246_246_246)[247](https://fedlex.data.admin.ch/eli/oc/1991/247_247_247)art. 1, cpv. 2 [1122](https://fedlex.data.admin.ch/eli/oc/1991/1122_1122_1122)1578, [1992 1579](https://fedlex.data.admin.ch/eli/oc/1992/1579_1579_1579)art. 2, cpv. 2, [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040)[3041](https://fedlex.data.admin.ch/eli/oc/1993/3041_3041_3041)art. 1, cpv. 2, [1994 258](https://fedlex.data.admin.ch/eli/oc/1994/258_258_258)n. I e II [263](https://fedlex.data.admin.ch/eli/oc/1994/263_263_263)n. I e II [265](https://fedlex.data.admin.ch/eli/oc/1994/265_265_265)[267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267)n. II [1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096)[1097](https://fedlex.data.admin.ch/eli/oc/1994/1097_1097_1097)[1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099)[1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101)art. 1, cpv. 2, [1995 1455](https://fedlex.data.admin.ch/eli/oc/1995/1455_1455_1455), [1996 1490](https://fedlex.data.admin.ch/eli/oc/1996/1490_1490_1490)a 1492 2502, **1998** 918 2031, **1999** 741 743 1239 1341]
+[^u1-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; [RU 1949 1544](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544)art. 2, [1951 619](https://fedlex.data.admin.ch/eli/oc/1951/606_603_619)art. 2, [1957 1065](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065)art. 2, [1958 375](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375)art. 2 [804](https://fedlex.data.admin.ch/eli/oc/1958/768_798_804)art. 2 [806](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806)art. 2, [1959 234](https://fedlex.data.admin.ch/eli/oc/1959/224_234_234)art. 2 [933](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933)art. 2, [1961 498](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498)art. 2, [1962 803](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)art. 2 [1717](https://fedlex.data.admin.ch/eli/oc/1962/1637_1695_1717)art. 2 [1888](https://fedlex.data.admin.ch/eli/oc/1962/1804_1858_1888), [1964 93](https://fedlex.data.admin.ch/eli/oc/1964/97_93_93)art. 2, [1966 1714](https://fedlex.data.admin.ch/eli/oc/1966/1672_1730_1714)art. 2, [1969 1267](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267)art. 2, [1970 1653](https://fedlex.data.admin.ch/eli/oc/1970/1649_1653_1653)art. 2, [1971 329](https://fedlex.data.admin.ch/eli/oc/1971/325_329_329)art. 2 [905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905)art. 2 [907](https://fedlex.data.admin.ch/eli/oc/1971/907_907_907)art. 2, [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)art. 2 [1684](https://fedlex.data.admin.ch/eli/oc/1972/1484_1512_1684)art. 2, [1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)art. 2 n. I a IV [1049](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049)art. 2 [1455](https://fedlex.data.admin.ch/eli/oc/1973/1455_1455_1455), [1974 721](https://fedlex.data.admin.ch/eli/oc/1974/721_721_721)art. 2 n. 1, [1975 1205](https://fedlex.data.admin.ch/eli/oc/1975/1205_1205_1205)art. 2, [1976 713](https://fedlex.data.admin.ch/eli/oc/1976/713_713_713)[715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)[2003](https://fedlex.data.admin.ch/eli/oc/1976/2003_2003_2003), [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)art. 2 [1849](https://fedlex.data.admin.ch/eli/oc/1977/1849_1849_1849)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)[2230](https://fedlex.data.admin.ch/eli/oc/1977/2230_2230_2230), [1978 212](https://fedlex.data.admin.ch/eli/oc/1978/212_212_212)[484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484)[1578](https://fedlex.data.admin.ch/eli/oc/1978/1578_1578_1578)n. I e II, [1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678), [1980 380](https://fedlex.data.admin.ch/eli/oc/1980/380_380_380), [1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243)[1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244), [1982 138](https://fedlex.data.admin.ch/eli/oc/1982/138_138_138), [1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240)[444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444), [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290), [1985 150](https://fedlex.data.admin.ch/eli/oc/1985/150_150_150)[151](https://fedlex.data.admin.ch/eli/oc/1985/151_151_151)[658](https://fedlex.data.admin.ch/eli/oc/1985/658_658_658)[659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659)[1025](https://fedlex.data.admin.ch/eli/oc/1985/1025_1025_1025)n. I e II, [1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026)n. I e II [1648](https://fedlex.data.admin.ch/eli/oc/1985/1648_1648_1648), [1987 282](https://fedlex.data.admin.ch/eli/oc/1987/282_282_282)art. 2 cpv. 2 [1125](https://fedlex.data.admin.ch/eli/oc/1987/1125_1125_1125), **1988** art. 1, cpv. 2, [1991 246](https://fedlex.data.admin.ch/eli/oc/1991/246_246_246)[247](https://fedlex.data.admin.ch/eli/oc/1991/247_247_247)art. 1, cpv. 2 [1122](https://fedlex.data.admin.ch/eli/oc/1991/1122_1122_1122)1578, [1992 1579](https://fedlex.data.admin.ch/eli/oc/1992/1579_1579_1579)art. 2, cpv. 2, [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040)[3041](https://fedlex.data.admin.ch/eli/oc/1993/3041_3041_3041)art. 1, cpv. 2, [1994 258](https://fedlex.data.admin.ch/eli/oc/1994/258_258_258)n. I e II [263](https://fedlex.data.admin.ch/eli/oc/1994/263_263_263)n. I e II [265](https://fedlex.data.admin.ch/eli/oc/1994/265_265_265)[267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267)n. II [1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096)[1097](https://fedlex.data.admin.ch/eli/oc/1994/1097_1097_1097)[1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099)[1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101)art. 1, cpv. 2, [1995 1455](https://fedlex.data.admin.ch/eli/oc/1995/1455_1455_1455), [1996 1490](https://fedlex.data.admin.ch/eli/oc/1996/1490_1490_1490)a 1492 2502, **1998** 918 2031, **1999** 741 743 1239 1341]
 [^u1-2]: Art. 105
 [^u1-3]: Art. 86 cpv. 2
 [^u1-4]: Ora art. 139*b*
@@ -3128,6 +3141,7 @@ Adolescenti
 - – misure educative 123
 - – obiettivi sociali 41
 - – protezione 11
+- – tabacco 41, 118
 
 **Adozione** 38
 
@@ -4016,12 +4030,13 @@ Fabbricazione
 Fanciulli
 
 - – apolidi 38
+- – disabili, istruzione speciale 62
 - – misure educative 123
 - – naturalizzazione agevoltata 38
 - – obiettivi sociali 41
 - – protezione 11
 - – reati sessuali commessi su 123*b,* 123*c*
-- – disabili, istruzione speciale 62
+- – tabacco 41, 118
 
 **Farina panificabile** 196 n. 6
 
@@ -4796,7 +4811,7 @@ Popolazione
 
 **Povertà** nel mondo 54
 
-**Pratica mus****i****cale** 67*a*
+**Pratica musicale** 67*a*
 
 **Precipitazioni atmosferiche** 76
 
@@ -4925,7 +4940,7 @@ Protezione
 - – dall’espulsione, dall’estradizione e dal rinvio forzato 25
 - – degli animali 80
 - – dei lavoratori e delle lavoratrici 110
-- – dei fanciulli 11, 123*b*, 123*c*
+- – dei fanciulli 11, 41, 118, 123*b*, 123*c*
 - – del paesaggio 78, 86
 - – dell’ambiente, costi 74
 - – dell’economia indigena 101
@@ -4950,6 +4965,7 @@ Pubblicità
 
 - – dell’udienza 30
 - – della pronuncia della sentenza 30
+- – protezione dei fanciulli e degli adolescenti dalla - per il tabacco 41, 118
 
 **Punizione,** crudele, inumana o degradante 10, 25
 
@@ -5350,7 +5366,10 @@ Sviluppo
 
 ### T
 
-**Tabacco,** imposta sul112, 131
+**Tabacco**
+
+- – imposta sul112, 131
+- – protezione dei fanciulli e degli adolescenti dalla pubblicità per il 41, 118
 
 **Talenti musicali** 67*a*
 
