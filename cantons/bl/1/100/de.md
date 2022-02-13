@@ -3,20 +3,20 @@ canton: BL
 number: "100"
 title: Verfassung des Kantons Basel-Landschaft
 language: de
-version: 2019-04-01
-valid_until: 2022-02-13
-version_adopted: 2018-11-25
+version: 2022-02-14
+valid_until: 2022-07-31
+version_adopted: 2022-02-13
 adopted: 1984-05-17
 in_force: 1987-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/100"
-pdf: "https://bl.clex.ch/api/de/versions/2342/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Basel-Landschaft
 
-Vom 17.05.1984 (Stand 01.04.2019)
+Vom 17.05.1984 (Stand 14.02.2022)
 
 Das Baselbieter Volk,
 
@@ -331,6 +331,8 @@ Stimmrecht in Angelegenheiten des Kantons und der Gemeinde.
 
 <sup>1</sup> 1500 Stimmberechtigte können das formulierte oder nichtformulierte Begehren auf Erlass, Änderung oder Aufhebung von Verfassungs- und Gesetzesbestimmungen stellen.
 
+<sup>1<sup>bis</sup></sup> Die Frist zur Einreichung der Unterschriften beträgt 2 Jahre.
+
 <sup>2</sup> Das formulierte Begehren enthält einen ausgearbeiteten Vorschlag. Es wird ausdrücklich als Verfassungs- oder Gesetzesinitiative eingereicht.
 
 <sup>3</sup> Mit dem nichtformulierten Begehren wird dem Landrat beantragt, eine Vorlage im Sinne des Begehrens auszuarbeiten.
@@ -345,9 +347,11 @@ Stimmrecht in Angelegenheiten des Kantons und der Gemeinde.
 
 <sup>1</sup> Der Landrat erklärt unmögliche oder offensichtlich rechtswidrige Volksbegehren für ungültig.
 
-<sup>2</sup> Formulierte Begehren werden in Form und Inhalt unverändert innert 18 Monaten dem Volk zur Abstimmung vorgelegt. Das Gesetz regelt die Ausnahmen und Säumnisfolgen.
+<sup>2</sup> Formulierte Begehren werden in Form und Inhalt unverändert innert 18 Monaten dem Volk zur Abstimmung vorgelegt.
 
-<sup>3</sup> Nichtformulierte Begehren werden innert zweier Jahre dem Volk zur Abstimmung vorgelegt, wenn der Landrat sie in der Sache ablehnt. Hat das Volk oder der Landrat beschlossen, dem Begehren Folge zu geben, so arbeitet der Landrat innert zweier Jahre eine entsprechende Vorlage zuhanden des Volkes aus. Er bestimmt die Stufe der Verfassung oder des Gesetzes.
+<sup>3</sup> Nichtformulierte Begehren werden innert 2 Jahren dem Volk zur Abstimmung vorgelegt, wenn der Landrat sie in der Sache ablehnt. Hat das Volk oder der Landrat beschlossen, dem Begehren Folge zu geben, so arbeitet der Landrat innert 2 Jahren eine entsprechende Vorlage aus. Er bestimmt die Stufe der Verfassung oder des Gesetzes.
+
+<sup>3<sup>bis</sup></sup> Das Gesetz regelt die Ausnahmen und Säumnisfolgen der Behandlungsfristen von Volksbegehren.
 
 <sup>4</sup> Der Landrat kann jedem Begehren einen Gegenvorschlag gegenüberstellen.
 
@@ -360,9 +364,9 @@ Stimmrecht in Angelegenheiten des Kantons und der Gemeinde.
 <sup>1</sup> Der obligatorischen Volksabstimmung unterliegen:
 
 - a. Verfassungsänderungen und Staatsverträge mit verfassungsänderndem Inhalt;
-- b. Gesetze und Staatsverträge mit gesetzeswesentlichem Inhalt, die der Landrat mit weniger als vier Fünfteln der anwesenden Mitglieder beschliesst oder die er durch separaten Beschluss der obligatorischen Volksabstimmung unterstellt;
-- c. formulierte Initiativbegehren und gegenübergestellte Gegenvorschläge;
-- d. nichtformulierte Initiativbegehren, die der Landrat ablehnt, gegenübergestellte Gegenvorschläge sowie Vorlagen, die der Landrat aufgrund nichtformulierter Initiativbegehren ausarbeitet;
+- b. Gesetze und Staatsverträge mit gesetzeswesentlichem Inhalt sowie Vorlagen aufgrund von zurückgezogenen nichtformulierten Initiativbegehren, die der Landrat mit weniger als 4/5 der anwesenden Mitglieder beschliesst oder die er durch separaten Beschluss der obligatorischen Volksabstimmung unterstellt;
+- c. formulierte Initiativbegehren und gleichzeitig gegenübergestellte Gegenvorschläge;
+- d. nichtformulierte Initiativbegehren, die der Landrat ablehnt, und gleichzeitig gegenübergestellte Gegenvorschläge sowie Vorlagen aufgrund von nichtformulierten Initiativbegehren;
 - e. Beschlüsse der Gemeindeversammlung und des Einwohnerrates nach den Bestimmungen des Gesetzes und der Gemeindeordnung.
 
 #### § 31
@@ -373,7 +377,7 @@ Stimmrecht in Angelegenheiten des Kantons und der Gemeinde.
 
 - a. durch Verfassung oder Gesetz der fakultativen Volksabstimmung unterstellte verbindliche Planungsbeschlüsse des Landrates von grundsätzlicher Bedeutung,
 - b. Beschlüsse des Landrates über neue einmalige Ausgaben von mehr als CHF 1 Million oder über neue jährlich wiederkehrende Ausgaben von mehr als CHF 200'000;
-- c. Gesetze sowie Staatsverträge mit gesetzeswesentlichem Inhalt, die nicht der obligatorischen Volksabstimmung unterliegen;
+- c. Gesetze und Staatsverträge mit gesetzeswesentlichem Inhalt sowie Vorlagen aufgrund von zurückgezogenen nichtformulierten Initiativbegehren, die nicht der obligatorischen Volksabstimmung unterliegen;
 - d. als Ausnahme zu § 63 Absatz 3 die mittels Dekret beschlossene Festlegung des kantonalen Einkommenssteuerfusses für das folgende Steuerjahr bei einem anderen Wert als 100% der normalen Staatssteuer vom Einkommen der natürlichen Personen.
 
 <sup>2</sup> Das Begehren ist innert acht Wochen nach der Veröffentlichung zu stellen.
