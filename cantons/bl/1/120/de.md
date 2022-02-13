@@ -4,20 +4,20 @@ number: "120"
 title: Gesetz über die politischen Rechte
 short: GpR
 language: de
-version: 2019-04-01
-valid_until: 2022-02-13
-version_adopted: 2018-05-17
+version: 2022-02-14
+valid_until: 2022-12-31
+version_adopted: 2021-09-16
 adopted: 1981-09-07
 in_force: 1982-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/120"
-pdf: "https://bl.clex.ch/api/de/versions/2345/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3369/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die politischen Rechte
 
-Vom 07.09.1981 (Stand 01.04.2019)
+Vom 07.09.1981 (Stand 14.02.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -606,7 +606,7 @@ beschliesst:[^ingress-2]
 - a. Wahlkreis Allschwil, umfassend die Einwohnergemeinden Allschwil und Schönenbuch;
 - b. Wahlkreis Binningen, umfassend die Einwohnergemeinden Binningen und Bottmingen;
 - c. Wahlkreis Oberwil, umfassend die Einwohnergemeinden Biel-Benken, Ettingen, Oberwil und Therwil;
-- d. Wahlkreis Reinach, umfassend die Einwohnergemeinden Aesch, Pfeff ingen und Reinach;
+- d. Wahlkreis Reinach, umfassend die Einwohnergemeinden Aesch, Pfeffingen und Reinach;
 - e. Wahlkreis Münchenstein, umfassend die Einwohnergemeinden Arlesheim und Münchenstein;
 - f. Wahlkreis Muttenz, umfassend die Einwohnergemeinden Birsfelden und Muttenz;
 - f.<sup>bis</sup> Wahlkreis Laufen, umfassend die Einwohnergemeinden Blauen, Brislach, Burg im Leimental, Dittingen, Duggingen, Grellingen, Laufen, Liesberg, Nenzlingen, Roggenburg, Röschenz, Wahlen und Zwingen;
@@ -834,7 +834,7 @@ beschliesst:[^ingress-2]
 
 **Einreichung**
 
-<sup>1</sup> Die Unterschriftenlisten einer Volksinitiative sind der Landeskanzlei gesamthaft einzureichen.
+<sup>1</sup> Die Unterschriftenlisten einer Volksinitiative sind der Landeskanzlei gesamthaft und spätestens 2 Jahre seit der Veröffentlichung des Titels und Textes im Amtsblatt einzureichen.
 
 <sup>2</sup> Eingereichte Unterschriftenlisten werden nicht zurückgegeben und können nicht eingesehen werden.
 
@@ -863,8 +863,10 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Der Rückzug ist nicht mehr zulässig:
 
-- a. wenn der Landrat beschlossen hat, einem nichtformulierten Begehren Folge zu geben;
+- a. …
 - b. wenn der Regierungsrat die Volksabstimmung über eine Volksinitiative festgesetzt hat.
+
+<sup>3</sup> Wird eine Initiative zurückgezogen, unterliegt ein formulierter Gegenvorschlag dem fakultativen Referendum, sofern der Landrat diesen mit mindestens 4/5 der anwesenden Mitglieder beschliesst und nicht durch separaten Beschluss der obligatorischen Volksabstimmung unterstellt.
 
 ## 6.3 Gemeindeinitiative
 
@@ -890,25 +892,30 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Der Landrat erklärt unmögliche oder offensichtlich rechtswidrige Volksbegehren für ungültig.
 
-<sup>3</sup> Formulierte Begehren werden in Form und Inhalt unverändert innert 18 Monaten dem Volk zur Abstimmung vorgelegt.
+<sup>3</sup> Formulierte Begehren werden in Form und Inhalt unverändert innert 18 Monaten seit der amtlichen Bekanntgabe des Zustandekommens dem Volk zur Abstimmung vorgelegt.
 
-<sup>4</sup> Nichtformulierte Begehren werden innert 2 Jahren dem Volk zur Abstimmung vorgelegt, wenn der Landrat sie in der Sache ablehnt. Hat das Volk oder der Landrat beschlossen, dem Begehren Folge zu geben, so arbeitet der Landrat innert 2 Jahren eine entsprechende Vorlage zuhanden des Volkes aus. Der Landrat bestimmt die Stufe der Verfassung oder des Gesetzes.
+<sup>4</sup> Nichtformulierte Begehren werden innert 2 Jahren seit der amtlichen Bekanntgabe des Zustandekommens dem Volk zur Abstimmung vorgelegt, wenn der Landrat sie in der Sache ablehnt. Hat das Volk oder der Landrat beschlossen, dem Begehren Folge zu geben, so arbeitet der Landrat innert 2 Jahren seit der Zustimmung eine entsprechende Vorlage aus. Der Landrat bestimmt die Stufe der Verfassung oder des Gesetzes.
 
 <sup>5</sup> Der Landrat kann jedem Begehren einen Gegenvorschlag gegenüberstellen.
 
 #### § 78a
 
-**Weitere Behandlungsfristen bei formulierten Initiativen**
+**Weitere Behandlungsfristen**
 
-<sup>1</sup> Der Regierungsrat unterbreitet dem Landrat innert 3 Monaten seit der amtlichen Bekanntgabe des Zustandekommens eine Vorlage zur Rechtsgültigkeit der formulierten Initiative.
+<sup>1</sup> Der Regierungsrat unterbreitet dem Landrat innert 3 Monaten seit der amtlichen Bekanntgabe des Zustandekommens eine Vorlage zur Rechtsgültigkeit der Initiative.
 
-<sup>2</sup> Der Regierungsrat unterbreitet dem Landrat in der Regel innert 6 Monaten seit der amtlichen Bekanntgabe des Zustandekommens eine Vorlage, worin beantragt wird, der formulierten Initiative zuzustimmen oder sie abzulehnen. Im Falle eines Gegenvorschlages entfällt das Vernehmlassungsverfahren.
+<sup>2</sup> Der Regierungsrat beantragt dem Landrat die Zustimmung zur Initiative oder deren Ablehnung seit der amtlichen Bekanntgabe des Zustandekommens in der Regel innert:
 
-<sup>3</sup> Der Landrat kann im Einvernehmen mit dem Initiativkomitee eine Verlängerung oder Unterbrechung der Behandlungsfrist gemäss § 29 Absatz 2 der Kantonsverfassung anordnen. Der Beschluss des Landrates ist endgültig.
+- a. 6 Monaten bei formulierten Initiativen;
+- b. 12 Monaten bei nichtformulierten Initiativen.
+
+<sup>2<sup>bis</sup></sup> Hat das Volk oder der Landrat beschlossen, dem nichtformulierten Begehren Folge zu geben, unterbreitet der Regierungsrat dem Landrat in der Regel innert 12 Monaten seit der Zustimmung eine entsprechende Vorlage.
+
+<sup>3</sup> Der Landrat kann im Einvernehmen mit dem Initiativkomitee eine Verlängerung oder Unterbrechung der Behandlungsfristen gemäss § 29 Abs. 2 und 3 der Kantonsverfassung anordnen. Der Beschluss des Landrats ist endgültig.
 
 <sup>4</sup> Der Regierungsrat trifft geeignete Massnahmen zur Wahrung der Behandlungsfristen.
 
-<sup>5</sup> Im Falle eines Säumnisses legt das Präsidium des Verfassungsgerichts auf Antrag des Initiativkomitees nach Anhören des Regierungsrates und des Landrates den Abstimmungstermin fest.
+<sup>5</sup> Im Falle eines Säumnisses legt das Präsidium des Kantonsgerichts (Abteilung Verfassungs- und Verwaltungsrecht) auf Antrag des Initiativkomitees nach Anhören des Regierungsrates und des Landrates den Abstimmungstermin fest.
 
 #### § 79
 
@@ -926,7 +933,9 @@ beschliesst:[^ingress-2]
 
 **Abstimmung**
 
-<sup>1</sup> Wird gleichzeitig mit der Initiative ein Gegenvorschlag des Landrates zur Abstimmung gebracht, ist nach § 20 zu verfahren.
+<sup>1</sup> Initiativen und gleichzeitig gegenübergestellte Gegenvorschläge sind den Stimmberechtigten gemeinsam zur Abstimmung vorzulegen.
+
+<sup>2</sup> Das Verfahren richtet sich nach § 20 dieses Gesetzes.
 
 ## 7 Besondere Bestimmungen für Gemeindebegehren
 
@@ -968,13 +977,13 @@ beschliesst:[^ingress-2]
 
 **Anwendbare Bestimmungen**
 
-<sup>1</sup> Die §§ 54–57, 59–63, 67–74, 78, 79, 81 und 91 gelten sinngemäss auch für Referendum und Volksinitiative in der Gemeinde. Vorbehalten bleiben die Bestimmungen des Gemeindegesetzes vom 28. Mai 1970[^82-1].
+<sup>1</sup> Die §§ 54–57, 59–63, 67–74, 78, 78a Abs. 3–5, 79, 81 und 91 gelten sinngemäss auch für Referendum und Volksinitiative in der Gemeinde. Vorbehalten bleiben die Bestimmungen des Gemeindegesetzes vom 28. Mai 1970[^82-1].
 
 <sup>2</sup> Die Veröffentlichungen erfolgen im amtlichen Publikationsorgan der Gemeinde.
 
 <sup>3</sup> Zuständig sind: die Gemeindeverwaltung anstelle der Landeskanzlei, der Gemeinderat bzw. der Bürgerrat anstelle des Regierungsrates, die Gemeindeversammlung bzw. der Einwohnerrat anstelle des Landrates.
 
-[^82-1]: GS 24.293, SGS [180](https://bl.clex.ch/data/180/de)
+[^82-1]: [SGS 180](https://bl.clex.ch/data/180/de)
 
 ## 9 Rechtspflege
 
@@ -1136,5 +1145,13 @@ beschliesst:[^ingress-2]
 
 [^99-1]: Durch LRB vom 11. Januar 1982 auf den 1. Juli 1982 in Kraft gesetzt.
 [^99-2]: Am 27. April 1982 genehmigt.
+
+#### § 100
+
+**Übergangsbestimmung zur Änderung vom 16. September 2021**
+
+<sup>1</sup> Die Unterschriftenlisten einer im Amtsblatt bereits veröffentlichten Volksinitiative sind der Landeskanzlei gesamthaft und spätestens 2 Jahre seit Inkrafttreten der Änderung vom 16. September 2021 einzureichen.
+
+<sup>2</sup> Die Behandlungsfristen gemäss § 78a Abs. 1, 2 und 2<sup>bis</sup> sind nur auf nichtformulierte Initiativen anwendbar, die nach Inkrafttreten dieser Änderung vom 16. September 2021 zustande gekommen sind.
 
 GS 27.820
