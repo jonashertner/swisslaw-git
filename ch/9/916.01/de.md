@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2022-01-01
+version: 2022-02-15
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220215/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220215-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220101/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Januar 2022)
+vom 26. Oktober 2011 (Stand am 15. Februar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -2900,7 +2900,7 @@ Anhang 3*[^t-3]*
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Ziff. I der V des BLW vom 16. Febr. 2021 ([AS 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), vom 29. April 2021 ([AS 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), vom 15. Juni 2021 ([AS 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), vom 18. Juni 2021 ([AS 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 (AS 2**021** 617), Ziff. III der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)) und Ziff. I der V des BLW vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)).
+[^t-3]: Bereinigt gemäss Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Ziff. I der V des BLW vom 18. Juni 2021 ([AS 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 (AS 2**021** 617), Ziff. III der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), Ziff. I der V des BLW vom 17. Nov. 2021 ([AS 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)) und vom 3. Febr. 2022, in Kraft seit 15. Febr. 2022 ([AS 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -2979,8 +2979,7 @@ Anhang 3*[^t-3]*
 <tr><td>07.2</td><td>Milchpulver</td><td>**300**</td></tr>
 <tr><td>07.3</td><td>Verschiedene Milchprodukte</td><td>210</td></tr>
 <tr><td>07.4</td><td>Butter und andere Fettstoffe aus der Milch</td><td>100</td></tr>
-<tr><td>07.4.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: ab 1. März bis 31. Dezember 2021</td><td>1500</td></tr>
-<tr><td>07.4.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: ab 1. Juli bis 31. Dezember 2021</td><td>1000</td></tr>
+<tr><td>07.4.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: ab 15. Februar bis 31. Dezember 2022</td><td>1000</td></tr>
 <tr><td>07.5</td><td>«Fontalkontingent»</td><td>**2624**</td></tr>
 <tr><td></td><td></td><td>[4]</td></tr>
 <tr><td>07.6</td><td>Übrige Milchprodukte</td><td>**[5]**</td></tr>

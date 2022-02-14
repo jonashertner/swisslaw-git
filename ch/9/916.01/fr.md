@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2022-01-01
+version: 2022-02-15
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220215/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220215-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220101/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (Etat le 1<sup>er</sup> janvier 2022)
+du 26 octobre 2011 (Etat le 15 février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -2884,7 +2884,7 @@ Annexe 3*[^t-3]*
 
 ## Contingents tarifaires et contingents tarifaires partiels
 
-[^t-3]: Mise à jour par le ch. I al. 1 de l’O du 9 déc. 2016 ([RO 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), le ch II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), le ch. I des O de l’OFAG du 16 fév. 2021 ([RO 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), du 18 juin 2021 ([RO 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. III de l’O de l’OFAG du 30 août 2021 ([RO 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)) et le ch. I de l’O de l’OFAG du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)).
+[^t-3]: Mise à jour par le ch. I al. 1 de l’O du 9 déc. 2016 ([RO 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), le ch II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), le ch. I de l’O de l’OFAG du 18 juin 2021 ([RO 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. III de l’O de l’OFAG du 30 août 2021 ([RO 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), le ch. I des O de l’OFAG du 17 nov. 2021 ([RO 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)) et du 3 fév. 2022, en vigueur depuis le 15 fév. 2022 ([RO 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)).
 
 ### 1. Marché des équidés
 
@@ -2957,8 +2957,8 @@ Annexe 3*[^t-3]*
 <tr><td></td><td></td><td>(tonnes)</td></tr>
 <tr><td>07.2</td><td>Poudre de lait</td><td>**300**</td></tr>
 <tr><td>07.3</td><td>Divers produits laitiers</td><td>**210**</td></tr>
-<tr><td>07.4</td><td>Beurre et autres matières grasses du lait</td><td>**100**</td></tr>
-<tr><td>07.4.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2021: dès le 1<sup>er</sup> mars et jusqu’au 31 décembre</td><td>1500</td></tr>
+<tr><td>07.4</td><td>Beurre et autres matières grasses du lait</td><td>100</td></tr>
+<tr><td>07.4.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2022: à partir du 15 février et jusqu’au 31 décembre</td><td>1000</td></tr>
 <tr><td>07.5</td><td>«Contingent de fontal»</td><td>**2624** [4]</td></tr>
 <tr><td>07.6</td><td>Autres produits laitiers</td><td>**[5]**</td></tr>
 <tr><td>08</td><td>Caséine</td><td>697 **[5]**</td></tr>
