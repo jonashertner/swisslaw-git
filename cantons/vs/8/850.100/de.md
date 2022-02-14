@@ -5,12 +5,12 @@ title: Verordnung über die Eingliederung und die Sozialhilfe
 short: VES
 language: de
 version: 2021-07-01
-valid_until: 2024-09-30
+corrected: 2022-02-15
 version_adopted: 2021-04-21
 adopted: 2021-04-21
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.100"
-pdf: "https://lex.vs.ch/api/de/versions/3013/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2881/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -251,7 +251,7 @@ verordnet[^ingress-1]:
 
 #### Art. 21
 
-**b) Junge Erwachsene**
+**b) Junge Erwaschene**
 
 <sup>1</sup> Als junge Erwachsene gelten alle Personen zwischen dem vollendeten 18. und 25. Lebensjahr.
 

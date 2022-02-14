@@ -5,12 +5,12 @@ title: "Ordonnance sur l'intégration et l'aide sociale"
 short: OLIAS
 language: fr
 version: 2021-07-01
-valid_until: 2024-09-30
+corrected: 2022-02-15
 version_adopted: 2021-04-21
 adopted: 2021-04-21
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3013/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2881/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
