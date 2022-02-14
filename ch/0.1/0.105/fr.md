@@ -3,33 +3,26 @@ sr: "0.105"
 title: "Convention du 10 décembre 1984 contre la torture et autres peines ou traitements cruels, inhumains ou dégradants"
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307"
 language: fr
-version: 2020-03-25
+version: 2022-02-15
 adopted: 1984-12-10
 in_force: 1987-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307/20200325/fr/xml/fedlex-data-admin-ch-eli-cc-1987-1307_1307_1307-20200325-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/1307_1307_1307/20200325/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307/20220215/fr/xml/fedlex-data-admin-ch-eli-cc-1987-1307_1307_1307-20220215-fr-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/1307_1307_1307/20220215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants
 
-[^t-1]AS AS
+RO **1987** 1307; FF **1985** III 273
 
 Texte original
 
-Conclue à New York le 10 décembre 1984
+Conclue à New York le 10 décembre 1984 Approuvée par l’Assemblée fédérale le 6 octobre 1986[^t-1] Instrument de ratification déposé par la Suisse le 2 décembre 1986 Entrée en vigueur pour la Suisse le 26 juin 1987
 
-Approuvée par l’Assemblée fédérale le 6 octobre 1986[^t-2]
+(État le 15 février 2022)
 
-Instrument de ratification déposé par la Suisse le 2 décembre 1986
-
-Entrée en vigueur pour la Suisse le 26 juin 1987
-
-(Etat le 25 mars 2020)
-
-[^t-1]: [RO 1987 1307](https://fedlex.data.admin.ch/eli/oc/1987/1307_1307_1307); [FF 1985 III 273](https://fedlex.data.admin.ch/eli/fga/1985/3_285_273_263)
-[^t-2]: Art. 1 al. 1 de l’AF du 6 oct. 1986 ([RO 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306))
+[^t-1]: Art. 1 al. 1 de l’AF du 6 oct. 1986 ([RO 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306))
 
 Les États parties à la présente Convention,
 
@@ -47,7 +40,7 @@ désireux d’accroître l’efficacité de la lutte contre la torture et les au
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Première partie
 
@@ -330,7 +323,7 @@ Le Secrétaire général de l’Organisation des Nations Unies notifiera à tous
 
 <sup>2.</sup> Le Secrétaire général de l’Organisation des Nations Unies fera tenir une copie certifiée conforme de la présente Convention à tous les États.
 
-Champ d’application le 25 mars 2020**[^t-3]**
+Champ d’application le 15 février 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -454,6 +447,7 @@ Champ d’application le 25 mars 2020**[^t-3]**
 <tr><td>Nigéria</td><td>28 juin</td><td>2001</td><td>28 juillet</td><td>2001</td></tr>
 <tr><td>Norvège\*\*</td><td>9 juillet</td><td>1986</td><td>26 juin</td><td>1987</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>10 décembre</td><td>1989</td><td>9 janvier</td><td>1990</td></tr>
+<tr><td>Oman\*</td><td>9 juin</td><td>2020 A</td><td>9 juillet</td><td>2020</td></tr>
 <tr><td>Ouganda</td><td>3 novembre</td><td>1986 A</td><td>26 juin</td><td>1987</td></tr>
 <tr><td>Ouzbékistan</td><td>28 septembre</td><td>1995 A</td><td>28 octobre</td><td>1995</td></tr>
 <tr><td>Pakistan\*</td><td>23 juin</td><td>2010</td><td>23 juillet</td><td>2010</td></tr>
@@ -490,22 +484,25 @@ Champ d’application le 25 mars 2020**[^t-3]**
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>8 décembre</td><td>1988</td><td>7 janvier</td><td>1989</td></tr>
 <tr><td>Russie</td><td>3 mars</td><td>1987</td><td>26 juin</td><td>1987</td></tr>
 <tr><td>Rwanda</td><td>15 décembre</td><td>2008 A</td><td>14 janvier</td><td>2009</td></tr>
+<tr><td>Saint-Kitts-et-Nevis</td><td>21 septembre</td><td>2020 A</td><td>21 octobre</td><td>2020</td></tr>
 <tr><td>Saint-Marin</td><td>27 novembre</td><td>2006</td><td>27 décembre</td><td>2006</td></tr>
 <tr><td>Saint-Siège\*</td><td>26 juin</td><td>2002 A</td><td>26 juillet</td><td>2002</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>1<sup>er</sup> août</td><td>2001 A</td><td>31 août</td><td>2001</td></tr>
 <tr><td>Samoa\*</td><td>28 mars</td><td>2019 A</td><td>27 avril</td><td>2019</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>10 janvier</td><td>2017</td><td>9 février</td><td>2017</td></tr>
-<tr><td>Sénégal</td><td>21 août</td><td>1986</td><td>26 juin</td><td colspan="2">1987</td></tr>
+<tr><td>Sénégal</td><td>21 août</td><td>1986</td><td>26 juin</td><td>1987</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Seychelles\*</td><td>5 mai</td><td>1992 A</td><td>4 juin</td><td>1992</td></tr>
 <tr><td>Sierra Leone</td><td>25 avril</td><td>2001</td><td>25 mai</td><td>2001</td></tr>
 <tr><td>Slovaquie\*\*</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>16 juillet</td><td>1993 A</td><td>15 août</td><td>1993</td></tr>
 <tr><td>Somalie</td><td>24 janvier</td><td>1990 A</td><td>23 février</td><td>1990</td></tr>
+<tr><td>Soudan\*</td><td>10 août</td><td>2021</td><td>9 septembre</td><td>2021</td></tr>
 <tr><td>Soudan du Sud</td><td>30 avril</td><td>2015 A</td><td>30 mai</td><td>2015</td></tr>
 <tr><td>Sri Lanka</td><td>3 janvier</td><td>1994 A</td><td>2 février</td><td>1994</td></tr>
 <tr><td>Suède\*\*</td><td>8 janvier</td><td>1986</td><td>26 juin</td><td>1987</td></tr>
 <tr><td>Suisse\*\*</td><td>2 décembre</td><td>1986</td><td>26 juin</td><td>1987</td></tr>
+<tr><td>Suriname</td><td>16 novembre</td><td>2021 A</td><td>16 décembre</td><td>2021</td></tr>
 <tr><td>Syrie\*</td><td>19 août</td><td>2004 A</td><td>18 septembre</td><td>2004</td></tr>
 <tr><td>Tadjikistan</td><td>11 janvier</td><td>1995 A</td><td>10 février</td><td>1995</td></tr>
 <tr><td>Tchad</td><td>9 juin</td><td>1995 A</td><td>9 juillet</td><td>1995</td></tr>
@@ -518,16 +515,16 @@ Champ d’application le 25 mars 2020**[^t-3]**
 <tr><td>Ukraine\*</td><td>24 février</td><td>1987</td><td>26 juin</td><td>1987</td></tr>
 <tr><td>Uruguay</td><td>24 octobre</td><td>1986</td><td>26 juin</td><td>1987</td></tr>
 <tr><td>Vanuatu</td><td>12 juillet</td><td>2011 A</td><td>11 août</td><td>2011</td></tr>
-<tr><td>Venezuela</td><td>29 juillet</td><td>1991</td><td>28 août</td><td colspan="2">1991</td></tr>
-<tr><td>Vietnam\*</td><td>5 février</td><td>2015</td><td>7 mars</td><td colspan="2">2015</td></tr>
+<tr><td>Venezuela</td><td>29 juillet</td><td>1991</td><td>28 août</td><td>1991</td></tr>
+<tr><td>Vietnam\*</td><td>5 février</td><td>2015</td><td>7 mars</td><td>2015</td></tr>
 <tr><td>Yémen</td><td>5 novembre</td><td>1991 A</td><td>5 décembre</td><td>1991</td></tr>
 <tr><td>Zambie</td><td>7 octobre</td><td>1998 A</td><td>6 novembre</td><td>1998</td></tr>
-<tr><td colspan="6">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 8 déc. 1992 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 28 juin 1999 au 19 déc. 1999, la convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la convention est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="6">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 8 déc. 1992 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 28 juin 1999 au 19 déc. 1999, la convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la convention est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 1987 1307](https://fedlex.data.admin.ch/eli/oc/1987/1307_1307_1307), [1988 567](https://fedlex.data.admin.ch/eli/oc/1988/567_567_567), [1989 280](https://fedlex.data.admin.ch/eli/oc/1989/280_280_280)[2286](https://fedlex.data.admin.ch/eli/oc/1989/2286_2286_2286), [1990 789](https://fedlex.data.admin.ch/eli/oc/1990/789_789_789), [1992 660](https://fedlex.data.admin.ch/eli/oc/1992/660_660_660), [1993 1901](https://fedlex.data.admin.ch/eli/oc/1993/1901_1901_1901), [2004 2735](https://fedlex.data.admin.ch/eli/oc/2004/329), [2005 1907](https://fedlex.data.admin.ch/eli/oc/2005/323), [2006 2967](https://fedlex.data.admin.ch/eli/oc/2006/453), [2008 647](https://fedlex.data.admin.ch/eli/oc/2008/154), [2011 509](https://fedlex.data.admin.ch/eli/oc/2011/73)[6529](https://fedlex.data.admin.ch/eli/oc/2011/905), [2012 5507](https://fedlex.data.admin.ch/eli/oc/2012/630), [2015 589](https://fedlex.data.admin.ch/eli/oc/2015/90), [2016 3801](https://fedlex.data.admin.ch/eli/oc/2016/634), [2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441), [2019 1829](https://fedlex.data.admin.ch/eli/oc/2019/341)et **2020** 1179. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1987 1307](https://fedlex.data.admin.ch/eli/oc/1987/1307_1307_1307); [1988 567](https://fedlex.data.admin.ch/eli/oc/1988/567_567_567); [1989 280](https://fedlex.data.admin.ch/eli/oc/1989/280_280_280), [2286](https://fedlex.data.admin.ch/eli/oc/1989/2286_2286_2286); [1990 789](https://fedlex.data.admin.ch/eli/oc/1990/789_789_789); [1992 660](https://fedlex.data.admin.ch/eli/oc/1992/660_660_660); [1993 1901](https://fedlex.data.admin.ch/eli/oc/1993/1901_1901_1901); [2004 2735](https://fedlex.data.admin.ch/eli/oc/2004/329); [2005 1907](https://fedlex.data.admin.ch/eli/oc/2005/323); [2006 2967](https://fedlex.data.admin.ch/eli/oc/2006/453); [2008 647](https://fedlex.data.admin.ch/eli/oc/2008/154); [2011 509](https://fedlex.data.admin.ch/eli/oc/2011/73), [6529](https://fedlex.data.admin.ch/eli/oc/2011/905); [2012 5507](https://fedlex.data.admin.ch/eli/oc/2012/630); [2015 589](https://fedlex.data.admin.ch/eli/oc/2015/90); [2016 3801](https://fedlex.data.admin.ch/eli/oc/2016/634); [2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441); [2019 1829](https://fedlex.data.admin.ch/eli/oc/2019/341); [2020 1179](https://fedlex.data.admin.ch/eli/oc/2020/217); [2022 105](https://fedlex.data.admin.ch/eli/oc/2022/105). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
-États ayant déclarés reconnaître la compétence du Comité contre la torture, conformément à l’art. 21 de la Convention**[^t-4]**
+États ayant déclarés reconnaître la compétence du Comité contre la torture, conformément à l’art. 21 de la Convention[^t-3]
 
 <table>
 <tr><td>Afrique du Sud</td><td>Kazakhstan</td></tr>
@@ -536,45 +533,47 @@ Champ d’application le 25 mars 2020**[^t-3]**
 <tr><td>Andorre</td><td>Malte</td></tr>
 <tr><td>Argentine</td><td>Moldova</td></tr>
 <tr><td>Australie</td><td>Monaco</td></tr>
-<tr><td>Belgique</td><td>Monténégro</td></tr>
-<tr><td>Bolivie</td><td>Norvège</td></tr>
-<tr><td>Bulgarie</td><td>Nouvelle-Zélande</td></tr>
-<tr><td>Cameroun</td><td>Ouganda</td></tr>
-<tr><td>Canada</td><td>Paraguay</td></tr>
-<tr><td>Chili</td><td>Pays-Bas</td></tr>
-<tr><td>Chypre</td><td>Pérou</td></tr>
-<tr><td>Corée (Sud)</td><td>Pologne</td></tr>
-<tr><td>Costa Rica</td><td>Portugal</td></tr>
-<tr><td>Croatie</td><td>République tchèque</td></tr>
-<tr><td>Danemark</td><td>Royaume-Uni</td></tr>
-<tr><td>Équateur</td><td>Russie</td></tr>
-<tr><td>Espagne</td><td>Saint-Marin</td></tr>
-<tr><td>États-Unis</td><td>Sénégal</td></tr>
-<tr><td>Finlande</td><td>Serbie</td></tr>
-<tr><td>France</td><td>Slovaquie</td></tr>
-<tr><td>Géorgie</td><td>Slovénie</td></tr>
-<tr><td>Ghana</td><td>Suède</td></tr>
-<tr><td>Grèce</td><td>Suisse[^t-5]</td></tr>
-<tr><td>Guinée-Bissau</td><td>Togo</td></tr>
-<tr><td>Hongrie</td><td>Tunisie</td></tr>
-<tr><td>Irlande</td><td>Turquie</td></tr>
-<tr><td>Islande</td><td>Ukraine</td></tr>
-<tr><td>Italie</td><td>Uruguay</td></tr>
-<tr><td>Japon</td><td>Venezuela</td></tr>
+<tr><td>Autriche</td><td>Monténégro</td></tr>
+<tr><td>Belgique</td><td>Norvège</td></tr>
+<tr><td>Bolivie</td><td>Nouvelle-Zélande</td></tr>
+<tr><td>Bulgarie</td><td>Ouganda</td></tr>
+<tr><td>Cameroun</td><td>Paraguay</td></tr>
+<tr><td>Canada</td><td>Pays-Bas</td></tr>
+<tr><td>Chili</td><td>Pérou</td></tr>
+<tr><td>Chypre</td><td>Pologne</td></tr>
+<tr><td>Corée (Sud)</td><td>Portugal</td></tr>
+<tr><td>Costa Rica</td><td>République tchèque</td></tr>
+<tr><td>Croatie</td><td>Royaume-Uni</td></tr>
+<tr><td>Danemark</td><td>Russie</td></tr>
+<tr><td>Équateur</td><td>Saint-Marin</td></tr>
+<tr><td>Espagne</td><td>Sénégal</td></tr>
+<tr><td>États-Unis</td><td>Serbie</td></tr>
+<tr><td>Finlande</td><td>Slovaquie</td></tr>
+<tr><td>France</td><td>Slovénie</td></tr>
+<tr><td>Géorgie</td><td>Suède</td></tr>
+<tr><td>Ghana</td><td>Suisse[^t-4]</td></tr>
+<tr><td>Grèce</td><td>Togo</td></tr>
+<tr><td>Guinée-Bissau</td><td>Tunisie</td></tr>
+<tr><td>Hongrie</td><td>Turquie</td></tr>
+<tr><td>Irlande</td><td>Ukraine</td></tr>
+<tr><td>Islande</td><td>Uruguay</td></tr>
+<tr><td>Italie</td><td>Venezuela</td></tr>
+<tr><td>Japon</td><td></td></tr>
 </table>
 
-[^t-4]: [RO 2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441)
-[^t-5]: Art. 1, al. 2, de l’AF du 6 oct. 1986 ([RO 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).
+[^t-3]: [RO 2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441)
+[^t-4]: Art. 1, al. 2, de l’AF du 6 oct. 1986 ([RO 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).
 
-États ayant déclarés reconnaître la compétence du Comité contre la torture, conformément à l’art. 22 de la Convention**[^t-6]**
+États ayant déclarés reconnaître la compétence du Comité contre la torture, conformément à l’art. 22 de la Convention[^t-5]
 
 <table>
-<tr><td>Afrique du Sud</td><td>Kazakhstan</td></tr>
-<tr><td>Algérie</td><td>Liechtenstein</td></tr>
-<tr><td>Allemagne</td><td>Luxembourg</td></tr>
-<tr><td>Andorre</td><td>Malte</td></tr>
-<tr><td>Argentine</td><td>Maroc</td></tr>
-<tr><td>Australie</td><td>Mexique</td></tr>
+<tr><td>Afrique du Sud</td><td>Italie</td></tr>
+<tr><td>Algérie</td><td>Kazakhstan</td></tr>
+<tr><td>Allemagne</td><td>Liechtenstein</td></tr>
+<tr><td>Andorre</td><td>Luxembourg</td></tr>
+<tr><td>Argentine</td><td>Malte</td></tr>
+<tr><td>Australie</td><td>Maroc</td></tr>
+<tr><td>Autriche</td><td>Mexique</td></tr>
 <tr><td>Azerdaïdjan</td><td>Moldova</td></tr>
 <tr><td>Belgique</td><td>Monaco</td></tr>
 <tr><td>Bolivie</td><td>Monténégro</td></tr>
@@ -595,15 +594,14 @@ Champ d’application le 25 mars 2020**[^t-3]**
 <tr><td>Finlande</td><td>Slovénie</td></tr>
 <tr><td>France</td><td>Sri Lanka</td></tr>
 <tr><td>Géorgie</td><td>Suède</td></tr>
-<tr><td>Ghana</td><td>Suisse[^t-7]</td></tr>
+<tr><td>Ghana</td><td>Suisse[^t-6]</td></tr>
 <tr><td>Grèce</td><td>Togo</td></tr>
 <tr><td>Guatemala</td><td>Tunisie</td></tr>
 <tr><td>Guinée-Bissau</td><td>Turquie</td></tr>
 <tr><td>Hongrie</td><td>Ukraine</td></tr>
 <tr><td>Irlande</td><td>Uruguay</td></tr>
 <tr><td>Islande</td><td>Venezuela</td></tr>
-<tr><td>Italie</td><td></td></tr>
 </table>
 
-[^t-6]: [RO 2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441)
-[^t-7]: Art. 1, al. 2, de l’AF du 6 oct. 1986 ([RO 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306))
+[^t-5]: [RO 2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441)
+[^t-6]: Art. 1, al. 2, de l’AF du 6 oct. 1986 ([RO 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).

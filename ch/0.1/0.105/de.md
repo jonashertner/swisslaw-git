@@ -3,11 +3,11 @@ sr: "0.105"
 title: "Übereinkommen vom 10. Dezember 1984 gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe"
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307"
 language: de
-version: 2020-03-25
+version: 2022-02-15
 adopted: 1984-12-10
 in_force: 1987-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307/20200325/de/xml/fedlex-data-admin-ch-eli-cc-1987-1307_1307_1307-20200325-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/1307_1307_1307/20200325/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307/20220215/de/xml/fedlex-data-admin-ch-eli-cc-1987-1307_1307_1307-20220215-de-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/1307_1307_1307/20220215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1987** 1307; BBl **1985** III 285
 
 Abgeschlossen in New York am 10. Dezember 1984 Von der Bundesversammlung genehmigt am 6. Oktober 1986[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 2. Dezember 1986 In Kraft getreten für die Schweiz am 26. Juni 1987
 
-(Stand am 25. März 2020)
+(Stand am 15. Februar 2022)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 6. Okt. 1986 ([AS 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).
 
@@ -38,7 +38,7 @@ im Hinblick auch auf die von der Generalversammlung am 9. Dezember 1975 angenomm
 
 in dem Wunsch, dem Kampf gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe in der ganzen Welt grössere Wirksamkeit zu verleihen, sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Teil 1
 
@@ -209,7 +209,7 @@ Der Ausschuss gibt sich eine Geschäftsordnung, die unter anderem folgende Besti
 
 #### Art. 21
 
-<sup>1.</sup> In jedem Fall wird der Bericht den beteiligten Vertragsstaaten übermittelt.
+<sup>1.</sup>
 
 Ein Vertragsstaat kann aufgrund dieses Artikels jederzeit erklären, dass er die Zuständigkeit des Ausschusses zur Entgegennahme und Prüfung von Mitteilungen anerkennt, in denen ein Vertragsstaat geltend macht, ein anderer Vertragsstaat komme seinen Verpflichtungen aus diesem Übereinkommen nicht nach. Diese Mitteilungen können nur dann nach den in diesem Artikel festgelegten Verfahren entgegengenommen und geprüft werden, wenn sie von einem Vertragsstaat eingereicht werden, der für sich selbst die Zuständigkeit des Ausschusses durch eine Erklärung anerkannt hat. Der Ausschuss darf keine Mitteilung aufgrund dieses Artikels behandeln, die einen Vertragsstaat betrifft, der keine derartige Erklärung abgegeben hat. Auf Mitteilungen, die aufgrund dieses Artikels eingehen, ist folgendes Verfahren anzuwenden:
 
@@ -227,6 +227,8 @@ Ein Vertragsstaat kann aufgrund dieses Artikels jederzeit erklären, dass er die
   - i) Wenn eine Regelung im Sinne des Buchstabens e zustandegekommen ist, beschränkt der Ausschuss seinen Bericht auf eine kurze Darstellung des Sachverhalts und der erzielten Regelung;
   - ii) wenn eine Regelung im Sinne des Buchstabens e nicht zustandegekommen ist, beschränkt der Ausschuss seinen Bericht auf eine kurze Darstellung des Sachverhalts; die schriftlichen Stellungnahmen und das Protokoll über die mündlichen Stellungnahmen der beteiligten Vertragsstaaten sind dem Bericht beizufügen.
 
+- In jedem Fall wird der Bericht den beteiligten Vertragsstaaten übermittelt.
+
 <sup>2.</sup> Die Bestimmungen dieses Artikels treten in Kraft, wenn fünf Vertragsstaaten Erklärungen nach Absatz 1 abgegeben haben. Diese Erklärungen werden von den Vertragsstaaten beim Generalsekretär der Vereinten Nationen hinterlegt, der den anderen Vertragsstaaten Abschriften davon übermittelt. Eine Erklärung kann jederzeit durch eine an den Generalsekretär gerichtete Notifikation zurückgenommen werden. Eine solche Zurücknahme berührt nicht die Prüfung einer Sache, die Gegenstand einer aufgrund dieses Artikels bereits vorgenommenen Mitteilung ist; nach Eingang der Notifikation über die Zurücknahme der Erklärung beim Generalsekretär wird keine weitere Mitteilung eines Vertragsstaats aufgrund dieses Artikels entgegengenommen, es sei denn, dass der betroffene Vertragsstaat eine neue Erklärung abgegeben hat.
 
 #### Art. 22
@@ -239,7 +241,9 @@ Ein Vertragsstaat kann aufgrund dieses Artikels jederzeit erklären, dass er die
 
 <sup>4.</sup> Der Ausschuss prüft die ihm nach diesem Artikel zugegangenen Mitteilungen unter Berücksichtigung aller ihm von der Einzelperson oder in deren Namen und von dem betroffenen Vertragsstaat unterbreiteten Informationen.
 
-<sup>5.</sup> Der Ausschuss prüft Mitteilungen einer Einzelperson aufgrund dieses Artikels erst dann, wenn er sich Gewissheit verschafft hat,
+<sup>5.</sup>
+
+Der Ausschuss prüft Mitteilungen einer Einzelperson aufgrund dieses Artikels erst dann, wenn er sich Gewissheit verschafft hat:
 
 - a) dass dieselbe Sache nicht bereits in einem anderen internationalen Untersuchungs‑ oder Streitregelungsverfahren geprüft wurde oder wird;
 - b) dass die Einzelperson alle zur Verfügung stehenden innerstaatlichen Rechtsbehelfe erschöpft hat; dies gilt nicht, wenn das Verfahren bei der Anwendung der Rechtsbehelfe unangemessen lange gedauert hat oder für die Person, die das Opfer einer Verletzung dieses Übereinkommens geworden ist, keine wirksame Abhilfe erwarten lässt.
@@ -310,7 +314,7 @@ Dieses Übereinkommen steht allen Staaten zum Beitritt offen. Der Beitritt erfol
 
 #### Art. 32
 
-Der Generalsekretär der Vereinten Nationen unterrichtet alle Mitgliedstaaten der Vereinten Nationen und alle Staaten, die dieses Übereinkommen unterzeichnet haben oder ihm beigetreten sind,
+Der Generalsekretär der Vereinten Nationen unterrichtet alle Mitgliedstaaten der Vereinten Nationen und alle Staaten, die dieses Übereinkommen unterzeichnet haben oder ihm beigetreten sind:
 
 - a) von den Unterzeichnungen, Ratifikationen und Beitritten nach den Artikeln 25 und 26;
 - b) vom Zeitpunkt des Inkrafttretens dieses Übereinkommens nach Artikel 27 und vom Zeitpunkt des Inkrafttretens von Änderungen nach Artikel 29;
@@ -322,7 +326,7 @@ Der Generalsekretär der Vereinten Nationen unterrichtet alle Mitgliedstaaten de
 
 <sup>2.</sup> Der Generalsekretär der Vereinten Nationen übermittelt allen Staaten beglaubigte Abschriften dieses Übereinkommens.
 
-Geltungsbereich am 25. März 2020**[^t-2]**
+Geltungsbereich am 15. Februar 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -447,6 +451,7 @@ Geltungsbereich am 25. März 2020**[^t-2]**
 <tr><td>Nigeria</td><td>28. Juni</td><td>2001</td><td>28. Juli</td><td>2001</td></tr>
 <tr><td>Nordmazedonien</td><td>12. Dezember</td><td>1994 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen\*\*</td><td>9. Juli</td><td>1986</td><td>26. Juni</td><td>1987</td></tr>
+<tr><td>Oman\*</td><td>9. Juni</td><td>2020 B</td><td>9. Juli</td><td>2020</td></tr>
 <tr><td>Österreich\* \*\*</td><td>29. Juli</td><td>1987</td><td>28. August</td><td>1987</td></tr>
 <tr><td>Pakistan\*</td><td>23. Juni</td><td>2010</td><td>23. Juli</td><td>2010</td></tr>
 <tr><td>Palästina</td><td>2. April</td><td>2014 B</td><td>2. Mai</td><td>2014</td></tr>
@@ -475,9 +480,12 @@ Geltungsbereich am 25. März 2020**[^t-2]**
 <tr><td>Somalia</td><td>24. Januar</td><td>1990 B</td><td>23. Februar</td><td>1990</td></tr>
 <tr><td>Spanien\*\*</td><td>21. Oktober</td><td>1987</td><td>20. November</td><td>1987</td></tr>
 <tr><td>Sri Lanka</td><td>3. Januar</td><td>1994 B</td><td>2. Februar</td><td>1994</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>21. September</td><td>2020 B</td><td>21. Oktober</td><td>2020</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>1. August</td><td>2001 B</td><td>31. August</td><td>2001</td></tr>
 <tr><td>Südafrika\*</td><td>10. Dezember</td><td>1998</td><td>9. Januar</td><td>1999</td></tr>
+<tr><td>Sudan\*</td><td>10. August</td><td>2021</td><td>9. September</td><td>2021</td></tr>
 <tr><td>Südsudan</td><td>30. April</td><td>2015 B</td><td>30. Mai</td><td>2015</td></tr>
+<tr><td>Suriname</td><td>16. November</td><td>2021 B</td><td>16. Dezember</td><td>2021</td></tr>
 <tr><td>Syrien\*</td><td>19. August</td><td>2004 B</td><td>18. September</td><td>2004</td></tr>
 <tr><td>Tadschikistan</td><td>11. Januar</td><td>1995 B</td><td>10. Februar</td><td>1995</td></tr>
 <tr><td>Thailand\*</td><td>2. Oktober</td><td>2007 B</td><td>1. November</td><td>2007</td></tr>
@@ -514,48 +522,46 @@ Geltungsbereich am 25. März 2020**[^t-2]**
 <tr><td>Vietnam\*</td><td>5. Februar</td><td>2015</td><td>7. März</td><td>2015</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>11. Oktober</td><td>2016 B</td><td>11. Oktober</td><td>2016</td></tr>
 <tr><td>Zypern</td><td>18. Juli</td><td>1991</td><td>17. August</td><td>1991</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Vom 8. Dezember 1992 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Vom 15. Juni 1999 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Aufgrund der chinesischen Erklärung vom 13. Dezember 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 8. Dezember 1992 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 15. Juni 1999 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Aufgrund der chinesischen Erklärung vom 13. Dezember 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1987 1307](https://fedlex.data.admin.ch/eli/oc/1987/1307_1307_1307), [1988 567](https://fedlex.data.admin.ch/eli/oc/1988/567_567_567), [1989 280](https://fedlex.data.admin.ch/eli/oc/1989/280_280_280)[2286](https://fedlex.data.admin.ch/eli/oc/1989/2286_2286_2286), [1990 789](https://fedlex.data.admin.ch/eli/oc/1990/789_789_789), [1992 660](https://fedlex.data.admin.ch/eli/oc/1992/660_660_660), [1993 1901](https://fedlex.data.admin.ch/eli/oc/1993/1901_1901_1901), [2004 2735](https://fedlex.data.admin.ch/eli/oc/2004/329), [2005 1907](https://fedlex.data.admin.ch/eli/oc/2005/323), [2006 2967](https://fedlex.data.admin.ch/eli/oc/2006/453), [2008 647](https://fedlex.data.admin.ch/eli/oc/2008/154), [2011 509](https://fedlex.data.admin.ch/eli/oc/2011/73)[6529](https://fedlex.data.admin.ch/eli/oc/2011/905), [2012 5507](https://fedlex.data.admin.ch/eli/oc/2012/630), [2015 589](https://fedlex.data.admin.ch/eli/oc/2015/90), [2016 3801](https://fedlex.data.admin.ch/eli/oc/2016/634), [2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441), [2019 1829](https://fedlex.data.admin.ch/eli/oc/2019/341), [2020 1179](https://fedlex.data.admin.ch/eli/oc/2020/217). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1987 1307](https://fedlex.data.admin.ch/eli/oc/1987/1307_1307_1307); [1988 567](https://fedlex.data.admin.ch/eli/oc/1988/567_567_567); [1989 280](https://fedlex.data.admin.ch/eli/oc/1989/280_280_280), [2286](https://fedlex.data.admin.ch/eli/oc/1989/2286_2286_2286); [1990 789](https://fedlex.data.admin.ch/eli/oc/1990/789_789_789); [1992 660](https://fedlex.data.admin.ch/eli/oc/1992/660_660_660); [1993 1901](https://fedlex.data.admin.ch/eli/oc/1993/1901_1901_1901); [2004 2735](https://fedlex.data.admin.ch/eli/oc/2004/329); [2005 1907](https://fedlex.data.admin.ch/eli/oc/2005/323); [2006 2967](https://fedlex.data.admin.ch/eli/oc/2006/453); [2008 647](https://fedlex.data.admin.ch/eli/oc/2008/154); [2011 509](https://fedlex.data.admin.ch/eli/oc/2011/73), [6529](https://fedlex.data.admin.ch/eli/oc/2011/905); [2012 5507](https://fedlex.data.admin.ch/eli/oc/2012/630); [2015 589](https://fedlex.data.admin.ch/eli/oc/2015/90); [2016 3801](https://fedlex.data.admin.ch/eli/oc/2016/634); [2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441); [2019 1829](https://fedlex.data.admin.ch/eli/oc/2019/341); [2020 1179](https://fedlex.data.admin.ch/eli/oc/2020/217); [2022 105](https://fedlex.data.admin.ch/eli/oc/2022/105). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Staaten, die nach Artikel 21 des Übereinkommens erklärt haben, die Zuständigkeit des Ausschusses gegen Folter anzuerkennen
 
 <table>
-<tr><td>[tab] Algerien</td><td>[tab] Monaco</td></tr>
-<tr><td>[tab] Andorra</td><td>[tab] Montenegro</td></tr>
-<tr><td>[tab] Argentinien</td><td>[tab] Neuseeland</td></tr>
-<tr><td>[tab] Australien</td><td>[tab] Niederlande</td></tr>
-<tr><td>[tab] Belgien</td><td>[tab] Norwegen</td></tr>
-<tr><td>[tab] Bolivien</td><td>[tab] Paraguay</td></tr>
-<tr><td>[tab] Bulgarien</td><td>[tab] Peru</td></tr>
-<tr><td>[tab] Chile</td><td>[tab] Polen</td></tr>
-<tr><td>[tab] Costa Rica</td><td>[tab] Portugal</td></tr>
-<tr><td>[tab] Deutschland</td><td>[tab] Russland</td></tr>
-<tr><td>[tab] Dänemark</td><td>[tab] San Marino</td></tr>
-<tr><td>[tab] Ecuador</td><td>[tab] Schweden</td></tr>
-<tr><td>[tab] Finnland</td><td>[tab] Schweiz[^t-3]</td></tr>
-<tr><td>[tab] Frankreich</td><td>[tab] Senegal</td></tr>
-<tr><td>[tab] Georgien</td><td>[tab] Serbien</td></tr>
-<tr><td>[tab] Ghana</td><td>[tab] Slowakei</td></tr>
-<tr><td>[tab] Griechenland</td><td>[tab] Slowenien</td></tr>
-<tr><td>[tab] Guinea-Bissau</td><td>[tab] Spanien</td></tr>
-<tr><td>[tab] Irland</td><td>[tab] Südafrika</td></tr>
-<tr><td>[tab] Island</td><td>[tab] Togo</td></tr>
-<tr><td>[tab] Italien</td><td>[tab] Tschechische Republik</td></tr>
-<tr><td>[tab] Japan</td><td>[tab] Tunesien</td></tr>
-<tr><td>[tab] Kamerun</td><td>[tab] Türkei</td></tr>
-<tr><td>[tab] Kanada</td><td>[tab] Uganda</td></tr>
-<tr><td>[tab] Kasachstan</td><td>[tab] Ukraine</td></tr>
-<tr><td>[tab] Korea (Süd-)</td><td>[tab] Ungarn</td></tr>
-<tr><td>[tab] Kroatien</td><td>[tab] Uruguay</td></tr>
-<tr><td>[tab] Liechtenstein</td><td>[tab] Venezuela</td></tr>
-<tr><td>[tab] Luxemburg</td><td>[tab] Vereinigte Staaten</td></tr>
-<tr><td>[tab] Malta</td><td>[tab] Vereinigtes Königreich</td></tr>
-<tr><td>[tab] Moldau</td><td>[tab] Zypern</td></tr>
+<tr><td>Algerien</td><td>Montenegro</td></tr>
+<tr><td>Andorra</td><td>Neuseeland</td></tr>
+<tr><td>Argentinien</td><td>Niederlande</td></tr>
+<tr><td>Australien</td><td>Norwegen</td></tr>
+<tr><td>Belgien</td><td>Österreich</td></tr>
+<tr><td>Bolivien</td><td>Paraguay</td></tr>
+<tr><td>Bulgarien</td><td>Peru</td></tr>
+<tr><td>Chile</td><td>Polen</td></tr>
+<tr><td>Costa Rica</td><td>Portugal</td></tr>
+<tr><td>Deutschland</td><td>Russland</td></tr>
+<tr><td>Dänemark</td><td>San Marino</td></tr>
+<tr><td>Ecuador</td><td>Schweden</td></tr>
+<tr><td>Finnland</td><td>Schweiz[^t-3]</td></tr>
+<tr><td>Frankreich</td><td>Senegal</td></tr>
+<tr><td>Georgien</td><td>Serbien</td></tr>
+<tr><td>Ghana</td><td>Slowakei</td></tr>
+<tr><td>Griechenland</td><td>Slowenien</td></tr>
+<tr><td>Guinea-Bissau</td><td>Spanien</td></tr>
+<tr><td>Irland</td><td>Südafrika</td></tr>
+<tr><td>Island</td><td>Togo</td></tr>
+<tr><td>Italien</td><td>Tschechische Republik</td></tr>
+<tr><td>Japan</td><td>Tunesien</td></tr>
+<tr><td>Kamerun</td><td>Türkei</td></tr>
+<tr><td>Kanada</td><td>Uganda</td></tr>
+<tr><td>Kasachstan</td><td>Ukraine</td></tr>
+<tr><td>Korea (Süd-)</td><td>Ungarn</td></tr>
+<tr><td>Kroatien</td><td>Uruguay</td></tr>
+<tr><td>Liechtenstein</td><td>Venezuela</td></tr>
+<tr><td>Luxemburg</td><td>Vereinigte Staaten</td></tr>
+<tr><td>Malta</td><td>Vereinigtes Königreich</td></tr>
+<tr><td>Moldau</td><td>Zypern</td></tr>
+<tr><td>Monaco</td><td></td></tr>
 </table>
 
 [^t-3]: Art. 1 Abs. 2 des BB vom 6. Okt. 1986 ([AS 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).
@@ -563,14 +569,14 @@ Staaten, die nach Artikel 21 des Übereinkommens erklärt haben, die Zuständigk
 Staaten, die nach Artikel 22 des Übereinkommens erklärt haben, die Zuständigkeit des Ausschusses gegen Folter anzuerkennen
 
 <table>
-<tr><td>Algerien</td><td>Marokko</td></tr>
-<tr><td>Andorra</td><td>Mexiko</td></tr>
-<tr><td>Argentinien</td><td>Moldau</td></tr>
-<tr><td>Aserbaidschan</td><td>Monaco</td></tr>
-<tr><td>Australien</td><td>Montenegro</td></tr>
-<tr><td>Belgien</td><td>Neuseeland</td></tr>
-<tr><td>Bolivien</td><td>Niederlande</td></tr>
-<tr><td>Bosnien und Herzegowina</td><td>Norwegen</td></tr>
+<tr><td>Algerien</td><td>Mexiko</td></tr>
+<tr><td>Andorra</td><td>Moldau</td></tr>
+<tr><td>Argentinien</td><td>Monaco</td></tr>
+<tr><td>Aserbaidschan</td><td>Montenegro</td></tr>
+<tr><td>Australien</td><td>Neuseeland</td></tr>
+<tr><td>Belgien</td><td>Niederlande</td></tr>
+<tr><td>Bolivien</td><td>Norwegen</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>Österreich</td></tr>
 <tr><td>Brasilien</td><td>Paraguay</td></tr>
 <tr><td>Bulgarien</td><td>Peru</td></tr>
 <tr><td>Burundi</td><td>Polen</td></tr>
@@ -597,6 +603,7 @@ Staaten, die nach Artikel 22 des Übereinkommens erklärt haben, die Zuständigk
 <tr><td>Liechtenstein</td><td>Venezuela</td></tr>
 <tr><td>Luxemburg</td><td>Zypern</td></tr>
 <tr><td>Malta</td><td></td></tr>
+<tr><td>Marokko</td><td></td></tr>
 </table>
 
 [^t-4]: Art. 1 Abs. 2 des BB vom 6. Okt. 1986 ([AS 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).
