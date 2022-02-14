@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Règlement du 15 février 2021 de l’autorité de surveillance du Ministère public de la Confédération
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: fr
-version: 2021-10-01
+version: 2022-02-15
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-177-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20220215/fr/xml/fedlex-data-admin-ch-eli-cc-2021-177-20220215-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20220215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement de l’autorité de surveillance du Ministère public de la Confédération
 
-du 15 février 2021 (Etat le 1<sup>er</sup> octobre 2021)
+du 15 février 2021 (État le 15 février 2022)
 
 L’autorité de surveillance du Ministère public de la Confédération (autorité de surveillance),
 
@@ -230,6 +230,10 @@ Il est chargé notamment des tâches suivantes:
 <sup>3</sup> En dehors des séances, elle peut prendre ses décisions par voie de circulation ou par voie électronique.
 
 <sup>4</sup> En cas d’égalité des voix, la voix du président est déterminante.
+
+<sup>5</sup> En cas de plaintes pénales vraisemblablement ou manifestement infondées, le président ou le vice-président peut nommer un procureur extraordinaire avec l’accord d’un autre membre.[^17-1]
+
+[^17-1]: Introduit par le ch. I de la D de l’autorité de surveillance du 22 nov. 2021, en vigueur depuis le 15 fév. 2022 ([RO 2022 10](https://fedlex.data.admin.ch/eli/oc/2022/10)).
 
 #### Art. 18
 

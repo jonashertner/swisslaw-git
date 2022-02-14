@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Regolamento del 15 febbraio 2021 dell’autorità di vigilanza sul Ministero pubblico della Confederazione
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: it
-version: 2021-10-01
+version: 2022-02-15
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2021-177-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20220215/it/xml/fedlex-data-admin-ch-eli-cc-2021-177-20220215-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20220215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento dell’autorità di vigilanza sul Ministero pubblico della Confederazione
 
-del 15 febbraio 2021 (Stato 1° ottobre 2021)
+del 15 febbraio 2021 (Stato 15 febbraio 2022)
 
 L’autorità di vigilanza sul Ministero pubblico della Confederazione (autorità di vigilanza),
 
@@ -56,7 +56,7 @@ A tale scopo può, in particolare:
 
 <sup>4</sup> Se un membro dell’autorità di vigilanza viene a conoscenza di informazioni potenzialmente rilevanti per il diritto di vigilanza, informa tempestivamente il presidente
 
-[^2-1]: Nuovo testo giusta il n. I della dec. dell’autorità di vigilanza sul Ministero pubblico della Confederazione del 1° set. 2021, in vigore dal 1° ott. 2021 ([RU 2021 532](https://fedlex.data.admin.ch/eli/oc/2021/532)).
+[^2-1]: Nuovo testo giusta il n. I della dec. dell’autorità di vigilanza del 1° set. 2021, in vigore dal 1° ott. 2021 ([RU 2021 532](https://fedlex.data.admin.ch/eli/oc/2021/532)).
 
 #### Art. 3
 
@@ -230,6 +230,10 @@ La segreteria adempie in particolare i seguenti compiti:
 <sup>3</sup> Al di fuori delle sedute, può prendere decisioni mediante circolazione degli atti o per via elettronica.
 
 <sup>4</sup> In caso di parità, è decisivo il voto del presidente.
+
+<sup>5</sup> Nel caso di denunce presumibilmente o manifestamente infondate, il presidente o il vicepresidente può, con l’assenso di un altro membro, nominare un procuratore straordinario.[^17-1]
+
+[^17-1]: Introdotto dal n. I della dec. dell’autorità di vigilanza del 22 nov. 2021, in vigore dal 15 feb. 2022 ([RU 2022 10](https://fedlex.data.admin.ch/eli/oc/2022/10)).
 
 #### Art. 18
 

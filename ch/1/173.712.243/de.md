@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Reglement vom 15. Februar 2021 der Aufsichtsbehörde über die Bundesanwaltschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: de
-version: 2021-10-01
+version: 2022-02-15
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2021-177-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20220215/de/xml/fedlex-data-admin-ch-eli-cc-2021-177-20220215-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20220215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Reglement der Aufsichtsbehörde über die Bundesanwaltschaft
 
-vom 15. Februar 2021 (Stand am 1. Oktober 2021)
+vom 15. Februar 2021 (Stand am 15. Februar 2022)
 
 Die Aufsichtsbehörde über die Bundesanwaltschaft (Aufsichtsbehörde)
 
@@ -230,6 +230,10 @@ Es hat insbesondere folgende Aufgaben:
 <sup>3</sup> Ausserhalb von Sitzungen kann sie Beschlüsse auf dem Zirkulationsweg oder auf elektronischem Weg fassen.
 
 <sup>4</sup> Bei Stimmengleichheit ist die Stimme des Präsidenten oder der Präsidentin ausschlaggebend.
+
+<sup>5</sup> Bei voraussichtlich oder offensichtlich unbegründeten Strafanzeigen kann der Präsident oder die Präsidentin oder der Vizepräsident oder die Vizepräsidentin mit Zustimmung eines weiteren Mitglieds einen ausserordentlichen Staatsanwalt oder eine ausserordentliche Staatsanwältin einsetzen.[^17-1]
+
+[^17-1]: Eingefügt durch Ziff. I des Beschlusses der Aufsichtsbehörde vom 22. Nov. 2021, in Kraft seit 15. Febr. 2022 ([AS 2022 10](https://fedlex.data.admin.ch/eli/oc/2022/10)).
 
 #### Art. 18
 
