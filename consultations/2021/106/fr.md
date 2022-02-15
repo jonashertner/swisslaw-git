@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur les contributions d’Innosuisse
 document: Projet mis en consultation
 language: fr

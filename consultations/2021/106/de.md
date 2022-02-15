@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der Beitragsverordnung Innosuisse
 document: Vernehmlassungsvorlage
 language: de

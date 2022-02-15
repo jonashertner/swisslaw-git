@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sui sussidi di Innosuisse
 document: Progetto posto in consultazione
 language: it
