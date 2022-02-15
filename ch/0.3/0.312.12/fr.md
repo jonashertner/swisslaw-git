@@ -3,11 +3,11 @@ sr: "0.312.12"
 title: Amendements au Statut de Rome du 10 juin 2010 de la Cour pénale internationale relatifs aux crimes de guerre
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/645"
 language: fr
-version: 2020-06-30
+version: 2022-02-16
 adopted: 2010-06-10
 in_force: 2016-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/645/20200630/fr/xml/fedlex-data-admin-ch-eli-cc-2015-645-20200630-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/645/20200630/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/645/20220216/fr/xml/fedlex-data-admin-ch-eli-cc-2015-645-20220216-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/645/20220216/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 10 septembre 2015
 
 Entrés en vigueur pour la Suisse le 10 septembre 2016
 
-(Etat le 30 juin 2020)
+(Etat le 16 février 2022)
 
 [^t-1]: Résolution RC/Res.5; voir C.N.533.2010.TREATIES-6 (Notification dépositaire), en date du 29 novembre 2010, disponible à l’adresse suivante: http://treaties.un.org.
 [^t-2]: Art. 1, al.1, let. b, de l’AF du 20 mars 2015 ([RO 2015 3823](https://fedlex.data.admin.ch/eli/oc/2015/643)).

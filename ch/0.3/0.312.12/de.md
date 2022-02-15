@@ -3,11 +3,11 @@ sr: "0.312.12"
 title: Änderungen des Römer Statuts vom 10. Juni 2010 des Internationalen Strafgerichtshofs betreffend die Kriegsverbrechen
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/645"
 language: de
-version: 2020-06-30
+version: 2022-02-16
 adopted: 2010-06-10
 in_force: 2016-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/645/20200630/de/xml/fedlex-data-admin-ch-eli-cc-2015-645-20200630-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/645/20200630/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/645/20220216/de/xml/fedlex-data-admin-ch-eli-cc-2015-645-20220216-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/645/20220216/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde durch die Schweiz hinterlegt am 10. September 2015
 
 In Kraft getreten für die Schweiz am 10. September 2016
 
-(Stand am 30. Juni 2020)
+(Stand am 16. Februar 2022)
 
 [^t-1]: Resolution RC/Res.5; siehe Verwahrernotifikation C.N.533.2010 Treaties-6 vom 29. November 2010, verfügbar unter http://treaties.un.org.
 [^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 20. März 2015 ([AS 2015 3823](https://fedlex.data.admin.ch/eli/oc/2015/643)).

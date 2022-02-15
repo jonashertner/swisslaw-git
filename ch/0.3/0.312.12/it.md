@@ -3,11 +3,11 @@ sr: "0.312.12"
 title: Emendamenti allo Statuto di Roma del 10 giugno 2010 della Corte penale internazionale relativi ai crimini di guerra
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/645"
 language: it
-version: 2020-06-30
+version: 2022-02-16
 adopted: 2010-06-10
 in_force: 2016-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/645/20200630/it/xml/fedlex-data-admin-ch-eli-cc-2015-645-20200630-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/645/20200630/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/645/20220216/it/xml/fedlex-data-admin-ch-eli-cc-2015-645-20220216-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/645/20220216/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2015** 3833; FF **2014** 1827
 
 Traduzione
 
-Adottati a Kampala il 10 giugno 2010[^t-1]
+Adottati a Kampala il 10 giugno 2010[^t-1] Approvati dall’Assemblea federale il 20 marzo 2015[^t-2] Strumenti di ratifica depositati dalla Svizzera il 10 settembre 2015 Entrati in vigore per la Svizzera il 10 settembre 2016
 
-Approvati dall’Assemblea federale il 20 marzo 2015[^t-2]
-
-Strumenti di ratifica depositati dalla Svizzera il 10 settembre 2015
-
-Entrati in vigore per la Svizzera il 10 settembre 2016
-
-(Stato 30 giugno 2020)
+(Stato 16 febbraio 2022)
 
 [^t-1]: Risoluzione RC/Res.5; cfr. notifica del depositario C.N.533.2010.TREATIES-6 in data 29 novembre 2010, disponibile al seguente indirizzo: http://treaties.un.org.
 [^t-2]: Art. 1 cpv. 1 lett. b del DF del 20 mar. 2015 ([RU 2015 3823](https://fedlex.data.admin.ch/eli/oc/2015/643)).
