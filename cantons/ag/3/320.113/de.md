@@ -4,13 +4,13 @@ number: "320.113"
 title: Sonderverordnung 1 zur Begegnung von Störungen der öffentlichen Ordnung und Sicherheit sowie sozialen Notständen infolge des Coronavirus
 short: SonderV 20-1
 language: de
-version: 2021-10-01
-valid_until: 2022-02-16
-version_adopted: 2021-09-29
+version: 2022-02-17
+valid_until: 2022-03-31
+version_adopted: 2022-02-16
 adopted: 2020-04-01
 in_force: 2020-04-02
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.113"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3025/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3162/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3025/pdf_file"
 
 (SonderV 20-1)
 
-Vom 01.04.2020 (Stand 01.10.2021)
+Vom 01.04.2020 (Stand 17.02.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -63,7 +63,7 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Für die von den Rehabilitationskliniken geschaffenen Rekonvaleszenzabteilungen gilt eine Tagespauschale von Fr. 913.–.
+<sup>4</sup> …
 
 <sup>5</sup> …
 
