@@ -4,13 +4,13 @@ number: "320.114"
 title: Verordnung über zusätzliche Massnahmen des Kantons Aargau zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-V AG
 language: de
-version: 2022-02-12
-valid_until: 2022-02-16
-version_adopted: 2022-02-07
+version: 2022-02-17
+valid_until: 2022-03-31
+version_adopted: 2022-02-16
 adopted: 2021-12-01
 in_force: 2021-12-04
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.114"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3153/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3161/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3153/pdf_file"
 
 (Covid-19-V AG)
 
-Vom 01.12.2021 (Stand 12.02.2022)
+Vom 01.12.2021 (Stand 17.02.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -62,11 +62,11 @@ beschliesst:
 
 **Spitäler und Kliniken, Pflegeheime, Betreuungseinrichtungen: Besucherinnen und Besucher**
 
-<sup>1</sup> Der Zugang zu Innenräumen von Spitälern und Kliniken, Pflegeheimen sowie Betreuungseinrichtungen darf Besucherinnen und Besuchern ab 16 Jahren nur gewährt werden, wenn sie ein Covid-19-Zertifikat gemäss Art. 3 Covid-19-Verordnung besondere Lage oder eine vergleichbare Bescheinigung vorweisen.
+<sup>1</sup> …
 
-<sup>2</sup> In Fällen zeitlicher Dringlichkeit wie anlässlich des Besuchs bei Sterbenden darf Besucherinnen und Besuchern ab 16 Jahren ohne Covid-19-Zertifikat beziehungsweise ohne vergleichbare Bescheinigung der Zugang gewährt werden.
+<sup>2</sup> …
 
-<sup>3</sup> Besucherinnen und Besucher müssen in den Innenräumen von Betrieben und Einrichtungen gemäss Absatz 1 eine Gesichtsmaske tragen. Die Maskentragpflicht gilt nicht:
+<sup>3</sup> Besucherinnen und Besucher müssen in den Innenräumen von Spitälern und Kliniken, Pflegeheimen sowie Betreuungseinrichtungen eine Gesichtsmaske tragen. Die Maskentragpflicht gilt nicht:
 
 - a) für Kinder vor ihrem 12. Geburtstag;
 - b) für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können; für den Nachweis medizinischer Gründe ist ein Attest einer Fachperson erforderlich, die nach dem Medizinalberufegesetz vom 23. Juni 2006[^3-1] oder dem Psychologieberufegesetz vom 18. März 2011[^3-2] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist.
@@ -78,7 +78,7 @@ beschliesst:
 
 **Spitäler und Kliniken, Pflegeheime, Betreuungseinrichtungen: Wichtige Dienstleistungen**
 
-<sup>1</sup> Bei wichtigen Einsätzen oder in Fällen zeitlicher Dringlichkeit darf Personen, die für die Institution unabdingbare Dienstleistungen erbringen, der Zugang ohne Covid-19-Zertifikat beziehungsweise ohne vergleichbare Bescheinigungen gewährt werden.
+<sup>1</sup> …
 
 #### § 4
 
@@ -89,6 +89,14 @@ beschliesst:
 <sup>1<sup>bis</sup></sup> Stationären Einrichtungen wird empfohlen, Patientinnen und Patienten sowie Bewohnerinnen und Bewohner ebenfalls regelmässig auf eine Covid-19-Infektion zu testen, sofern die letzte Impfung oder die Genesung länger als vier Monate zurückliegt.
 
 <sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> Mitarbeitende von Einrichtungen und Organisationen gemäss Absatz 1 müssen eine Gesichtsmaske tragen, sofern sie nicht gemäss § 3 Abs. 3 lit. b von der Maskentragpflicht befreit sind.
+
+#### § 4a
+
+**Rekonvaleszenzpauschale für Rehabilitationskliniken**
+
+<sup>1</sup> Für die von den Rehabilitationskliniken geschaffenen Rekonvaleszenzabteilungen gilt rückwirkend per 1. Januar 2022 eine Tagespauschale von Fr. 951.–.
 
 #### § 5
 
@@ -122,7 +130,7 @@ beschliesst:
 
 <sup>3<sup>bis</sup></sup> …
 
-<sup>4</sup> Wer eine Veranstaltung, eine Fach- oder Publikumsmesse mit mehr als 300 Personen, seien es Besucherinnen und Besucher oder Teilnehmende, durchführen will, muss diese vor Durchführung der zuständigen kantonalen Behörde melden.
+<sup>4</sup> …
 
 #### § 8
 
