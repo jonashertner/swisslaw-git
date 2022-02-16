@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-02-03
+version: 2022-02-17
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220203/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220203-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220203/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220217/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220217-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220217/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 3 February 2022)
+of 19 June 2020 (Status as of 17 February 2022)
 
 The Swiss Federal Council,
 
@@ -525,6 +525,21 @@ For this purpose, they may require hospitals and clinics:
 
 <sup>3</sup> The hospitals and clinics must ensure that supplies of medicinal products for COVID-19 patients and for other urgently required medical examinations and treatments is guaranteed in their outpatient and inpatient departments.
 
+#### Art. 25a
+
+**Duty of the cantons to report healthcare capacities**[^25a-1]
+
+The cantons shall be required to report the following regularly to the Coordinated Medical Services:
+
+- a. the total number and occupancy of hospital beds;
+- b. the total number and occupancy of hospital beds intended for treating COVID-19 patients, as well as the number of COVID-19 patients currently being treated;
+- c. the total number and occupancy of intensive care beds and the number of COVID-19 patients currently being treated and being ventilated in intensive care;
+- d. the total number and usage of extracorporeal membrane oxygenation devices (ECMO);
+- e. the availability of medical and nursing staff in hospitals;
+- f. the maximum capacities, i.e. the total number of patients and of COVID-19 patients that can be treated in their hospitals taking into consideration the numbers of available beds and of available staff.
+
+[^25a-1]: Inserted by Annex No 2 of the COVID-19 Special Situation Ordinance of 16 Feb. 2022, in force since 17 Feb. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+
 #### Art. 26
 
 **Payment of costs for analyses for Sars-CoV-2**[^26-1]
@@ -562,7 +577,7 @@ Where a service involving an analysis for Sars-CoV-2 under Annex 6 number 1 is c
 
 <sup>3</sup>
 
-Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sections 1.1.1 letters i and j, 1.4.1 letters h and i, 3.1.1 letter a and 3.2.1 letter a, the service providers may choose as the person liable to pay for the service:[^26a-6]
+In the case of analyses for Sars-CoV-2 in accordance with Annex 6 numbers 1.1 and 1.4 following a positive result from a pooled molecular-biological analysis or based on an outbreak investigation ordered by a doctor and in the case of analyses in accordance with Annex 6 numbers 3.1.1 letter a and 3.2.1 letter a, the service providers may choose as the person liable to pay for the service:[^26a-6]
 
 - a. the insurer under paragraph 1 that is liable to pay for the services under the *tiers payant* system in terms of Article 42 paragraph 2 HIA; or
 - b. the canton in which the sample for Sars-CoV-2 is taken.
@@ -574,7 +589,7 @@ Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sectio
 [^26a-3]: Amended by No I of the O of 25 Aug. 2021, in force since 1 Oct. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^26a-4]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 [^26a-5]: Amended by No I of the O of 1 Oct. 2021, in force since 11 Oct. 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)).
-[^26a-6]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26a-6]: Amended by No I of the O of 16 Feb. 2022, in force since 17 Feb. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 [^26a-7]: Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 26b
@@ -687,19 +702,20 @@ The following persons are not regarded as being at high risk:
   persons specified in paragraph 10 who have been infected with Sars-CoV-2 and have recovered:
 
   - 1\. when based on a molecular-biological analysis for Sars-CoV-2: for 270 days from the eleventh day after confirmation of infection,
-  - 2\. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-3]: for the term of validity of the certificate concerned.[^27a-4]
+  - 2\.[^27a-3] when based on an analysis for Sars-CoV-2 antibodies: for the period of validity of the related certificate (Art. 34*a* para. 1 let. c of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-4]).[^27a-5]
 
 <sup>12</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.
 
 <sup>13</sup> The FDHA shall continually update Annex 7 based on the state of science.
 
-<sup>14</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-5] applies.
+<sup>14</sup> …[^27a-6]
 
 [^27a-1]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 25 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^27a-2]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-4]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 31 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-5]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-3]: Amended by No III of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force from 17 Feb. 2022 to 31 March 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^27a-4]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-5]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 31 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-6]: Repealed by Annex No 2 of the COVID-19 Special Situation Ordinance of 16 Feb. 2022, with effect from 17 Feb. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 ## Chapter 5 Final Provisions
 
@@ -723,21 +739,21 @@ Personal protective equipment that was permitted under Article 24 of the previou
 
 **Transitional provisions to the Amendment of 23 June 2021**[^28b-1]
 
-<sup>1</sup> Licences for placing Sars-CoV-2 self-tests on the market that Swissmedic has granted based on Article 23*a* of the previous law remain valid until the licence expires.
+<sup>1</sup> …[^28b-2]
 
 <sup>2</sup> Pharmacies may continue to supply Sars-CoV-2 self-tests licensed under Article 23*a* of the previous law provided the requirements of Article 24 paragraph 4<sup>bis</sup> letter b are met.
 
-<sup>3</sup> Applications that are pending when the Amendment of 23 June 2021 comes into force shall be processed in accordance with Article 23*a* of the previous law.
+<sup>3</sup> …[^28b-3]
 
 [^28b-1]: Inserted by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^28b-2]: Repealed by No I of the O of 16 Feb. 2022, with effect from 17 Feb. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
+[^28b-3]: Repealed by No I of the O of 16 Feb. 2022, with effect from 17 Feb. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 #### Art. 28c
 
-**Transitional provision to the Amendment of 25 August 2021**[^28c-1]
+[^28c-1]
 
-Sars-CoV-2 rapid tests for specialist use that are permitted based on Article 24*a* of the previous law may continue to be used until 25 October 2021 provided the requirements of Article 24 are met.
-
-[^28c-1]: Inserted by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^28c-1]: Inserted by No I of the O of 25. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Repealed by No I of the O of 16 Feb. 2022, with effect from 17 Feb. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 #### Art. 29
 
@@ -1032,7 +1048,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Annex No 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II para. 1 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), No III 1 of the O of 2 Feb. 2022 (Lifting the Requirement for Contact Quarantine and to Work from Home), ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)) and No I of the O of 4 Feb. 2022, in force since 3 Feb. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), Annex No 3 I of the O of 17 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)), No II of the O of 1 Oct 2021 ([AS 2021 594](https://fedlex.data.admin.ch/eli/oc/2021/594)), Annex No 1 of the O of 3 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)), No II para. 1 of the O of 17 Dec. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)), No III 1 of the O of 2 Feb. 2022 (Lifting the Requirement for Contact Quarantine and to Work from Home) ([AS 2022 59](https://fedlex.data.admin.ch/eli/oc/2022/59)), No I of the O of 4 Feb. 2022 ([AS 2022 65](https://fedlex.data.admin.ch/eli/oc/2022/65)) and No II of the O of 16 Feb. 2022, in force since 17 Feb. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1040,9 +1056,9 @@ Annex 6*[^t-8]*
 
 - 1\.1.1
 
-  The Confederation shall pay the costs of molecular-biological analyses for Sars-CoV-2 in following cases only:
+  The Confederation shall pay the costs of molecular-biological analyses for Sars-CoV-2 for persons who have symptoms. In the case of persons who are asymptomatic, it shall pay the costs of such analyses in the following cases only:
 
-  - a. persons who have symptoms;
+  - a. …
   - b.
 
     persons who have in any of the following periods lived in the same household as or in a similar way have had close contact with:
@@ -1105,7 +1121,7 @@ Annex 6*[^t-8]*
 <tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
 <tr><td>For supervising the taking of the sample by the person tested and assigning the sample to the person concerned</td><td>15 Fr.</td></tr>
-<tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA, and requesting the activation code generated by the Proximity Tracing System for the Coronavirus Sars-CoV-2 (PT System) when infection is detected and for issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
+<tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA, and requesting the activation code generated by the Proximity Tracing System for the Coronavirus Sars-CoV-2 (PT System) when infection is detected and for issuing the COVID-19 test or recovery certificate</td><td>2.50 Fr.</td></tr>
 <tr><td>Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
 </table>
 
@@ -1254,34 +1270,7 @@ Annex 6*[^t-8]*
 
 ### 1.4 Immunological analyses for Sars-CoV-2 antigens and Sars-CoV-2 rapid tests for specialist use
 
-- 1\.4.1.
-
-  The Confederation shall pay the costs of immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard in the following cases only:
-
-  - a. persons who have symptoms;
-  - b.
-
-    persons who have in any of the following periods lived in the same household as or in a similar way have had close contact with:
-
-    - 1\. a person whose infection with Sars-VoV-2 has been confirmed or is probable and who has symptoms: in the 48 hours prior to the appearance of symptoms and for 5 days thereafter,
-    - 2\. a person whose infection with Sars-VoV-2 has been confirmed but who is asymptomatic: in the 48 hours prior to the sample being taken and until the person went into isolation;
-
-  - c. and d. …
-  - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test;
-  - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
-  - g. persons resident in Switzerland who work, study or train abroad where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering the foreign country concerned and no other authority will cover the costs;
-  - h. following a positive result from a pooled molecular-biological analysis;
-    - 1\. in accordance with Number 1.2,
-    - 2\. in accordance with Numbers 1.7, 2.2 and 3.2;
-
-  - i. as part of outbreak investigation and control procedures ordered by a doctor:
-  - j.[^annex6-lvlu1-lvl1-lvl14-1] ...
-  - k. children under the age of 16;
-  - l. persons who can prove that they cannot be vaccinated on medical grounds; as proof, a medical certificate is required from a doctor who who is authorised to practise their profession under their own professional responsibility under the Medical Professions Act of 23 June 2006[^annex6-lvlu1-lvl1-lvl14-2];
-  - m. visitors to hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, rehabilitation or for socio-professional rehabilitation or employment;
-  - n. persons who do not fall under letters a–m, provided they have already received one dose of a vaccine but they are not vaccinated in accordance with Annex 1*a* number 1, for six weeks from receiving the single dose of the vaccine, in the case of the Janssen Ad26.COV2.S / Covid-19 vaccine, for 22 days.
-  - o. any persons who do not fall under letters a–n.
-
+- 1\.4.1. The Confederation shall pay the costs of immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use.
 - 1\.4.2 ...
 - 1\.4.3
 
@@ -1315,7 +1304,7 @@ Annex 6*[^t-8]*
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
-<tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA and requesting the activation code generated by the PT system when infection is detected and for issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
+<tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA and requesting the activation code generated by the PT system when infection is detected and for issuing the COVID-19 test or recovery certificate</td><td>2.50 Fr.</td></tr>
 <tr><td colspan="2">Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
 </table>
 
@@ -1330,9 +1319,6 @@ Annex 6*[^t-8]*
 <tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>6 Fr.</td></tr>
 <tr><td>– order processing, overheads and sampling materials</td><td>24 Fr.</td></tr>
 </table>
-
-[^annex6-lvlu1-lvl1-lvl14-1]: In force until 10 Oct. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [582](https://fedlex.data.admin.ch/eli/oc/2021/582)).
-[^annex6-lvlu1-lvl1-lvl14-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 ### 1.5 Molecular-biological detection of one or more Sars-CoV-2 variants of concern
 
@@ -1385,12 +1371,10 @@ Annex 6*[^t-8]*
 
 - 1\.7.1
 
-  The Confederation shall pay the costs of pooled molecular-biological saliva analyses for Sars-CoV-2 for the following persons on an individual basis, provided they are not symptomatic:
+  The Confederation shall pay the costs of pooled molecular-biological saliva analyses for Sars-CoV-2:
 
-  - a. persons in accordance with Number 1.4.1 letter k;
-  - b. persons in accordance with Number 1.4.1 letter l;
-  - c. persons in accordance with Number 1.4.1 letter n;
-  - d. all persons who do not fall under letters a–c.
+  - a. in the case of the individual participation of persons who are asymptomatic;
+  - b. in testing arranged by the FOPH to monitor the spread of Sars-CoV-2.
 
 - 1\.7.2
 
@@ -1486,7 +1470,7 @@ Annex 6*[^t-8]*
 <tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>If the sample is not taken by the tested person him- or herself: taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td>28 Fr.</td></tr>
 <tr><td>If the sample is taken by the tested person him- or herself: taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td colspan="2">14 Fr.</td></tr>
-<tr><td>For issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
+<tr><td>For issuing the COVID-19 test or recovery certificate</td><td>2.50 Fr.</td></tr>
 </table>
 
 ### 2.2 Pooled molecular-biological analyses for Sars-CoV-2
@@ -1573,9 +1557,8 @@ Annex 6*[^t-8]*
   The Confederation shall pay the costs of Sars-CoV-2 rapid tests for specialist use only in following cases:
 
   - a. where targeted and repetitive testing is carried out in hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
-  - b. where targeted and repetitive testing is carried out in businesses and clubs, provided the responsible authority or organisation in the canton submits a plan to the FOPH;
-  - c. where a contact person is in quarantine and targeted and repetitive testing is carried in the business where the contact person works, with at least one test per week;
-  - d. ...
+  - b. where targeted and repetitive testing is carried out in companies specified by the cantons that are important for the operation of critical infrastructure, provided the responsible authority or organisation in the canton submits a plan to the FOPH or provided that the testing is coordinated via a platform made available by the Confederation;
+  - c. in testing arranged by the FOPH to monitor the spread of Sars-CoV-2.
 
 - 3\.1.2 ...
 - 3\.1.3
@@ -1602,7 +1585,7 @@ Annex 6*[^t-8]*
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>Conducting the Sars-CoV-2 rapid test for specialist use, test materials only</td><td>6.00 Fr.</td></tr>
-<tr><td>For issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
+<tr><td>For issuing the COVID-19 test or recovery certificate</td><td>2.50 Fr.</td></tr>
 <tr><td>s</td><td></td></tr>
 </table>
 
@@ -1613,8 +1596,8 @@ Annex 6*[^t-8]*
   The Confederation shall pay the costs of pooled molecular-biological analyses for Sars-CoV-2 only in following cases:
 
   - a. where targeted and repetitive testing is carried out in hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
-  - b. where targeted and repetitive testing is carried out in businesses and clubs, provided the responsible authority or organisation in the canton submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation;
-  - c. where a contact person is in quarantine and targeted and repetitive testing is carried out in the business where the contact person works, with at least one test per week.
+  - b. where targeted and repetitive testing is carried out in businesses specified by the cantons that are important for the operation of critical infrastructure, provided the responsible authority or organisation in the canton submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation;
+  - c. in testing arranged by the FOPH to monitor the spread of Sars-CoV-2.
 
 - 3\.2.2 It shall pay the costs only if the services are provided by laboratories under Article 54 paragraph 3 HIO and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA.
 - 3\.2.3 It shall pay a maximum of 295 francs for pooled molecular-biological analyses for Sars-CoV-2. The amount covers the following services and cost components:
