@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2022-01-25
+version: 2022-02-17
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220125/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220125-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220217/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220217-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220125/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 25 gennaio 2022)
+del 16 gennaio 2019 (Stato 17 febbraio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -598,7 +598,7 @@ Allegato 2*[^t-2]*
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II delle O del 17 dic. 2021 ([RU 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)), del 19 gen. 2022 ([RU 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)) e dall’all. n. 1 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 25 gen. al 31 mar. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 19 gen. 2022 ([RU 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)) e dall’all. n. 1 dell’O COVID-19 situazione particolare del 16 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) e dal n. III dell’O del 16 feb. 2022, in vigore dal 17 feb. 2022 ([RU 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
@@ -727,16 +727,11 @@ Allegato 2*[^t-2]*
 <tr><td>14002. Offerta di merci o servizi la cui vendita nell’ambito del commercio ambulante infrange limitazioni o divieti (art. 14 cpv. 1 lett. e e cpv. 2 della LF sul commercio ambulante)</td><td colspan="2">[tab] 200</td></tr>
 <tr><td>14003. Omissione di avere con sé l’autorizzazione mentre si esercita il commercio ambulante (art. 14 cpv. 1 lett. f e cpv. 2 della LF sul commercio ambulante)</td><td colspan="2">[tab] 20</td></tr>
 <tr><td>XV. ...</td><td colspan="2"></td></tr>
-<tr><td>XVI. Ordinanza COVID-19 situazione particolare del 23 giugno 2021**[^annex2-lvlu1-lvlu1-25]**</td><td colspan="2">[tab]</td></tr>
+<tr><td>XVI. Ordinanza COVID-19 situazione particolare del 16 febbraio 2022**[^annex2-lvlu1-lvlu1-25]**</td><td colspan="2">[tab]</td></tr>
 <tr><td>16001. *...*</td><td colspan="2">[tab]</td></tr>
-<tr><td>16002. Omissione di portare una mascherina facciale in settori chiusi di veicoli del trasporto pubblico, in luoghi chiusi accessibili al pubblico di strutture o a manifestazioni (art. 28 lett. e in combinato disposto con l’art. 5 cpv. 1, 6 cpv. 1 o 15 cpv. 2 lett. b dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>16003. *...*</td><td colspan="2">[tab]</td></tr>
-<tr><td>16004. *...*</td><td colspan="2">[tab]</td></tr>
-<tr><td>16005. Accesso illecito senza il certificato obbligatorio a un luogo o una manifestazione per i quali l’accesso delle persone a partire dai 16 anni è limitato alle persone con un determinato certificato (art. 28 lett. h dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>16006. Violazione, in qualità di ospite, dell’obbligo di stare seduti in strutture della ristorazione e bar (art. 28 lett. g in combinato disposto con l’art. 12 cpv. 1 lett. a dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 100</td></tr>
-<tr><td>16007. Svolgimento di una manifestazione privata con un numero di persone superiore a quello ammesso (art. 28 lett. c in combinato disposto con gli art. 14 cpv. 3 e 15 cpv. 3 dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 200</td></tr>
-<tr><td>**XVII.** **Legge del 28 settembre 2012**[^annex2-lvlu1-lvlu1-26] **sulle epidemie (LEp) in combinato disposto con l’ordinanza COVID-19 traffico internazionale viaggiatori del 23 giugno 2021**[^annex2-lvlu1-lvlu1-27]</td><td colspan="2">[tab]</td></tr>
-<tr><td colspan="2">17001. Mancata attestazione di un’analisi di biologia molecolare per il SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale con risultato negativo all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp in combinato disposto con l’art. 8 cpv. 1 e 4 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">200</td></tr>
+<tr><td>16002.[^annex2-lvlu1-lvlu1-26] Violazione dell’obbligo di portare una mascherina facciale in settori chiusi di veicoli del trasporto pubblico, in luoghi chiusi accessibili al pubblico di ospedali e cliniche nonché di case di cura e case per anziani (art. 9 in combinato disposto con l’art. 3 cpv. 1 o art. 4 cpv. 1 dell’ordinanza COVID-19 situazione particolare)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>**XVII.** **Legge del 28 settembre 2012**[^annex2-lvlu1-lvlu1-27] **sulle epidemie (LEp) in combinato disposto con l’ordinanza COVID-19 traffico internazionale viaggiatori del 23 giugno 2021**[^annex2-lvlu1-lvlu1-28]</td><td colspan="2">[tab]</td></tr>
+<tr><td colspan="2">17001. Mancata attestazione di un’analisi di biologia molecolare per il SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale con risultato negativo all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp in combinato disposto con l’art. 8 cpv. 1 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">200</td></tr>
 <tr><td colspan="2">17002. Dati di contatto errati o mancanti all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp e art. 3 cpv. 1 dell’ordinanza COVID-19 traffico internazionale viaggiatori)</td><td colspan="2">100</td></tr>
 </table>
 
@@ -765,8 +760,9 @@ Allegato 2*[^t-2]*
 [^annex2-lvlu1-lvlu1-23]: O del 24 nov. 1993 concernente la legge federale sulla pesca ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)).
 [^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
 [^annex2-lvlu1-lvlu1-25]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex2-lvlu1-lvlu1-26]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^annex2-lvlu1-lvlu1-27]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
+[^annex2-lvlu1-lvlu1-26]: In vigore fino al 31 mar. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^annex2-lvlu1-lvlu1-27]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^annex2-lvlu1-lvlu1-28]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
 
 Allegato 3
 

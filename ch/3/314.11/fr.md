@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2022-01-25
+version: 2022-02-17
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220125/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220125-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20220217-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220217/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20220125/fr"
 
 (OAO)
 
-du 16 janvier 2019 (Etat le 25 janvier 2022)
+du 16 janvier 2019 (Etat le 17 février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -144,7 +144,7 @@ Annexe 1*[^t-1]*
 <tr><td>a. de deux heures au plus</td><td>40</td></tr>
 <tr><td>b. de plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
 <tr><td>c. de plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
-<tr><td>201. ...</td><td></td></tr>
+<tr><td>201. …</td><td></td></tr>
 <tr><td>202. Ne pas placer ou placer de manière peu visible</td><td></td></tr>
 <tr><td>1. le disque de stationnement sur le véhicule (art. 48*a*, al. 4, OSR)</td><td>40</td></tr>
 <tr><td>2. le ticket de stationnement sur le véhicule (art. 48*b*, al. 2, OSR)</td><td>40</td></tr>
@@ -183,7 +183,7 @@ Annexe 1*[^t-1]*
 <tr><td>218. 1. Stationner à moins de 10 m après un panneau indiquant un arrêt des transports publics (art. 18, al. 3 et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
 <tr><td>2. Gêner les transports publics en s’arrêtant à moins de 10 m après un panneau indiquant un arrêt des transports publics pour laisser monter ou descendre des passagers (art. 18, al. 3, OCR)</td><td>80</td></tr>
 <tr><td>3. S’arrêter pour charger ou décharger des marchandises, à moins de 10 m après un panneau indiquant un arrêt des transports publics (art. 18, al. 3, OCR)</td><td>80</td></tr>
-<tr><td>219. ...</td><td></td></tr>
+<tr><td>219. …</td><td></td></tr>
 <tr><td>220. 1. Stationner devant un local du service du feu ou un dépôt d’engins d’extinction (art. 18, al. 3, et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
 <tr><td>2. S’arrêter devant un local du service du feu ou un dépôt d’engins d’extinction, pour charger ou décharger des marchandises (art. 18, al. 3, OCR)</td><td>80</td></tr>
 <tr><td>3. Gêner le service du feu en s’arrêtant devant un local du service du feu ou un dépôt d’engins d’extinction, pour laisser monter ou descendre des passagers (art. 18, al. 3, OCR)</td><td>80</td></tr>
@@ -236,7 +236,7 @@ Annexe 1*[^t-1]*
 <tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
 <tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
 <tr><td>c. pendant plus de quatre heures, mais pas plus de dix heures</td><td>100</td></tr>
-<tr><td>244. ...</td><td></td></tr>
+<tr><td>244. …</td><td></td></tr>
 <tr><td>245. Stationner à moins de 20 m d’un passage à niveau (art. 19, al. 2, let. e, OCR)</td><td></td></tr>
 <tr><td>a. jusqu’à deux heures</td><td>40</td></tr>
 <tr><td>b. pendant plus de deux heures, mais pas plus de quatre heures</td><td>60</td></tr>
@@ -374,7 +374,7 @@ Annexe 1*[^t-1]*
 <tr><td>3. Utilisation abusive des feux clignotants sur le véhicule à l’arrêt (art. 23, al. 3, let. a, OCR)</td><td>40</td></tr>
 <tr><td>4. Utilisation abusive des feux clignotants sur le véhicule en marche (art. 23, al. 3, let. b, OCR)</td><td>40</td></tr>
 <tr><td>5. Ne pas placer de signal de panne à l’arrière d’un véhicule remorqué (art. 23, al. 6, OCR)</td><td>40</td></tr>
-<tr><td>319. ...</td><td></td></tr>
+<tr><td>319. …</td><td></td></tr>
 <tr><td>320. 1. Faire des courses d’apprentissage avec un véhicule dépourvu de la plaque L (art. 27, al. 1, OCR)</td><td>20</td></tr>
 <tr><td>2. Ne pas ôter la plaque L lorsqu’il ne s’agit pas d’une course d’apprentissage (art. 27, al. 1, OCR)</td><td>20</td></tr>
 <tr><td>321. 1. Ne pas annoncer un changement de direction (art. 28, al. 1, OCR)</td><td>100</td></tr>
@@ -461,7 +461,7 @@ Annexe 1*[^t-1]*
 <tr><td>507. Mettre en circulation un motocycle sans catadioptre fixé à demeure (art. 140, al. 1, let. b, et 148, al. 1, OETV)</td><td>60</td></tr>
 <tr><td>6. Cyclistes, cyclomotoristes et conducteurs de vélos-taxis électriques; règles de la circulation</td><td></td></tr>
 <tr><td>600. 1. Lâcher l’appareil de direction (art. 3, al. 3, OCR)</td><td>20</td></tr>
-<tr><td>2. ...</td><td></td></tr>
+<tr><td>2. …</td><td></td></tr>
 <tr><td>601. Conducteurs de cyclomoteurs ne portant pas le casque (art. 3*b*, al. 1, OCR)</td><td>30</td></tr>
 <tr><td>602. S’arrêter sur un passage pour piétons lorsque la circulation est arrêtée (art. 12, al. 3, OCR)</td><td>20</td></tr>
 <tr><td>603. Faire tourner inutilement le moteur d’un cyclomoteur à l’arrêt (art. 22, al. 1, et art. 33, let. a, OCR)</td><td>20</td></tr>
@@ -531,11 +531,11 @@ Annexe 1*[^t-1]*
 <tr><td>623. Ne pas accorder la priorité à un passage pour piétons (art. 33 LCR, art. 6, al. 1 et 2, OCR)</td><td>40</td></tr>
 <tr><td>624. Utiliser un téléphone sans dispositif «mains libres» pendant la course (art. 3, al. 1, OCR)</td><td>40</td></tr>
 <tr><td>7. Cyclistes, cyclomotoristes et conducteurs de vélos-taxis électriques; prescriptions sur la construction et l’équipement et dispositions administratives</td><td></td></tr>
-<tr><td>700. 1. ...</td><td></td></tr>
+<tr><td>700. 1. …</td><td></td></tr>
 <tr><td>2. Utiliser un cyclomoteur ou un vélo-taxi électrique dépourvu de la plaque de contrôle ou d’une vignette valable, lorsqu’une assurance a été conclue (art. 90 et 94, al. 6, OAC; art. 176, al. 4, OETV)</td><td>60</td></tr>
 <tr><td>3. Utiliser un cyclomoteur ou un vélo-taxi électrique sans le permis de circulation requis (art. 90 OAC; art. 96 LCR)</td><td>80</td></tr>
 <tr><td>4. Utiliser un cyclomoteur qui n’est pas assuré (art. 90 OAC)</td><td>120</td></tr>
-<tr><td>701. 1. ...</td><td></td></tr>
+<tr><td>701. 1. …</td><td></td></tr>
 <tr><td>2. Permettre à un tiers de faire usage d’un cyclomoteur ou d’un vélo-taxi électrique dépourvu de la plaque de contrôle ou d’une vignette valable, lorsqu’une assurance a été conclue (art. 90 OAC et art. 176, al. 4, OETV)</td><td>60</td></tr>
 <tr><td>3. Permettre à un tiers de faire usage d’un cyclomoteur ou d’un vélo-taxi électrique sans le permis de circulation requis (art. 90 OAC; art. 96 LCR)</td><td>80</td></tr>
 <tr><td>4. Permettre à un tiers de faire usage d’un cyclomoteur qui n’est pas assuré (art. 90 OAC)</td><td>120</td></tr>
@@ -595,27 +595,27 @@ Annexe 2*[^t-2]*
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. III de l’O du 17 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)), le ch. II de l’O du 19 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)) et l’annexe ch. 1 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe ch. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 19 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)), l’annexe ch. 1 de l’O COVID-19 situation particulière du 16 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)) et le ch. III de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 ### Contraventions à d’autres actes normatifs
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
-<tr><td>I. Loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)**[^annex2-lvlu1-lvlu1-1]**</td><td></td></tr>
+<tr><td>I**.** **Loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)**[^annex2-lvlu1-lvlu1-1]</td><td></td></tr>
 <tr><td>1001. Ne pas collaborer à l’obtention de documents de voyage (art. 120, al. 1, let. e, LEI)</td><td>100</td></tr>
-<tr><td>II. Loi du 26 juin 1998 sur l’asile (LAsi)**[^annex2-lvlu1-lvlu1-2]**</td><td></td></tr>
+<tr><td>**II.** **Loi du 26 juin 1998 sur l’asile (LAsi)**[^annex2-lvlu1-lvlu1-2]</td><td></td></tr>
 <tr><td>2001. Violer l’obligation d’informer en refusant de donner un renseignement (art. 116, let. a, LAsi)</td><td>200</td></tr>
-<tr><td>III. Loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)**[^annex2-lvlu1-lvlu1-3]**</td><td></td></tr>
+<tr><td>**III.** **Loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)**[^annex2-lvlu1-lvlu1-3]</td><td></td></tr>
 <tr><td>3001. Violer l’obligation d’indiquer les prix ou le prix unitaire (art. 24, al. 1, let. a, et al. 2, LCD)</td><td>200</td></tr>
-<tr><td>IV. Loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)**[^annex2-lvlu1-lvlu1-4]**</td><td>[tab]</td></tr>
+<tr><td>**IV.** **Loi fédérale du 1****<sup>er</sup>** **juillet 1966 sur la protection de la nature et du paysage (LPN)**[^annex2-lvlu1-lvlu1-4]</td><td>[tab]</td></tr>
 <tr><td>4001. Violer l’interdiction de cueillir, déterrer, arracher, emmener, mettre en vente, vendre, acheter ou détruire au maximum 5 plantes sauvages des espèces désignées à l’annexe 2 OPN[^annex2-lvlu1-lvlu1-5] (art. 24*a*, al. 1, let. b, LPN, art. 20, al. 1 et 5, OPN)</td><td>100</td></tr>
-<tr><td>V. Loi fédérale du 20 juin 1997 sur les armes (LArm)**[^annex2-lvlu1-lvlu1-6]**</td><td></td></tr>
+<tr><td>**V.** **Loi fédérale du 20 juin 1997 sur les armes (LArm)**[^annex2-lvlu1-lvlu1-6]</td><td></td></tr>
 <tr><td>5001. Omettre de conserver sur soi le permis de port d’armes (art. 34, al. 1, let. h, LArm)</td><td>20</td></tr>
 <tr><td>5002. Transporter une arme à feu sans avoir séparé l’arme des munitions (art. 34, al. 1, let. n, LArm)</td><td>300</td></tr>
-<tr><td>VI. Loi fédérale du 19 mars 2010 sur la vignette autoroutière (LVA)**[^annex2-lvlu1-lvlu1-7]**</td><td></td></tr>
+<tr><td>**VI.** **Loi fédérale du 19 mars 2010 sur la vignette autoroutière (LVA)**[^annex2-lvlu1-lvlu1-7]</td><td></td></tr>
 <tr><td>6001. Emprunter une route nationale soumise à redevance sans avoir acheté la vignette nécessaire pour la période de taxation (art. 14, al. 1, en rel. avec les art. 7 et 8 LVA)</td><td>200</td></tr>
 <tr><td>6002. Emprunter une route nationale soumise à redevance sans avoir collé la vignette nécessaire pour la période de taxation directement sur le véhicule ou à l’emplacement prescrit ou en ayant collé une vignette endommagée (art. 14, al. 1, en rel. avec les art. 7 et 8 LVA)</td><td>200</td></tr>
-<tr><td>VII. Loi fédérale du 3 octobre 1975 sur la navigation intérieure (LNI)**[^annex2-lvlu1-lvlu1-8]**</td><td></td></tr>
+<tr><td>**VII.** **Loi fédérale du 3 octobre 1975 sur la navigation intérieure (LNI)**[^annex2-lvlu1-lvlu1-8]</td><td></td></tr>
 <tr><td>**1.** **Dispositions administratives**</td><td>[tab]</td></tr>
 <tr><td>7100. Ne pas être muni des documents exigés (art. 45 et 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-9], art. 1.06 RNC[^annex2-lvlu1-lvlu1-10])</td><td></td></tr>
 <tr><td>1. Ne pas être muni du permis de conduire exigé (art. 45 LNI, art. 8 ONI, art. 1.06 RNC)</td><td>20</td></tr>
@@ -693,17 +693,17 @@ Annexe 2*[^t-2]*
 <tr><td>7504. Plonger dans les voies navigables marquées (art. 40, al. 1, LNI, art. 11.04, al. 2, RNC)</td><td>100</td></tr>
 <tr><td>7505. Ne pas observer le signal d’interdiction A14 figurant à l’annexe 4 ONI (art. 40, al. 1, LNI en rel. avec l’art. 36, al. 1, ONI)</td><td>50</td></tr>
 <tr><td>7506. Utiliser sans droit un scooter de plongée (art. 40, al. 1, LNI, art. 54*a*, al. 1 et 2, ONI)</td><td>100</td></tr>
-<tr><td>VIII. Loi fédérale du 3 octobre 1951 sur les stupéfiants (LStup)**[^annex2-lvlu1-lvlu1-13]**</td><td></td></tr>
+<tr><td>**VIII.** **Loi fédérale du 3 octobre 1951 sur les stupéfiants (LStup)**[^annex2-lvlu1-lvlu1-13]</td><td></td></tr>
 <tr><td>8001. Consommer illicitement et intentionnellement des stupéfiants ayant des effets de type cannabique (art. 19*a*, ch. 1, LStup)</td><td>100</td></tr>
-<tr><td>IX. Loi du 7 octobre 1983 sur la protection de l’environnement (LPE)**[^annex2-lvlu1-lvlu1-14]**</td><td></td></tr>
+<tr><td>**IX.** **Loi du 7 octobre 1983 sur la protection de l’environnement (LPE)**[^annex2-lvlu1-lvlu1-14]</td><td></td></tr>
 <tr><td>9001. Utiliser un point de collecte des déchets public en dehors des horaires prescrits (art. 61, al. 1, let. a, art. 12, al. 1, let. c, LPE)</td><td>50</td></tr>
 <tr><td>9002. Ne pas être muni du document de suivi lors du transport de déchets (art. 61, al. 1, let. k, LPE, art. 31, al. 4<sup>bis</sup> et 6, OMoD[^annex2-lvlu1-lvlu1-15])</td><td>100</td></tr>
-<tr><td>X. Loi fédérale du 3 octobre 2008 sur la protection contre le tabagisme passif**[^annex2-lvlu1-lvlu1-16]**</td><td></td></tr>
+<tr><td>**X.** **Loi fédérale du 3 octobre 2008 sur la protection contre le tabagisme passif**[^annex2-lvlu1-lvlu1-16]</td><td></td></tr>
 <tr><td>10001. Fumer dans des espaces fermés accessibles au public (art. 2, al. 1, et art. 5, al. 1, let. a, de la loi sur la protection contre le tabagisme passif)</td><td>80</td></tr>
 <tr><td>**XI.** **Loi du 4 octobre 1991 sur les forêts (LFo)**[^annex2-lvlu1-lvlu1-17]</td><td>[tab]</td></tr>
 <tr><td>11001. Ne pas observer les limitations d’accès dans certaines zones forestières (art. 14, al. 2, let. a, et 43, al. 1, let. c, LFo)</td><td>100</td></tr>
 <tr><td>11002. Circuler sans droit en forêt et sur des routes forestières avec des véhicules à moteur (art. 15 et 43, al. 1, let. d, LFo)</td><td>100</td></tr>
-<tr><td>XII. Loi du 20 juin 1986 sur la chasse (LChP)**[^annex2-lvlu1-lvlu1-18]**</td><td>[tab]</td></tr>
+<tr><td>**XII.** **Loi du 20 juin 1986 sur la chasse (LChP)**[^annex2-lvlu1-lvlu1-18]</td><td>[tab]</td></tr>
 <tr><td>12001. Pénétrer sans motif suffisant sur le territoire de chasse muni d’une arme de tir (art. 18, al. 1, let. b, et al. 3, LChP)</td><td>200</td></tr>
 <tr><td>12002. Laisser chasser des chiens (art. 18, al. 1, let. d, et al. 3, LChP)</td><td>150</td></tr>
 <tr><td>12003. Pénétrer ou circuler dans les zones de tranquillité pour la faune sauvage en dehors des chemins et itinéraires qu’il est autorisé d’y emprunter (art. 18, al. 1, let. e, et al. 3, LChP, art. 4<sup>ter</sup> OChP[^annex2-lvlu1-lvlu1-19])</td><td>150</td></tr>
@@ -723,17 +723,12 @@ Annexe 2*[^t-2]*
 <tr><td>14001. Pratiquer le commerce itinérant sans autorisation (art. 14, al. 1, let. b, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>200</td></tr>
 <tr><td>14002. Offrir des marchandises ou des services en violation des interdictions ou restrictions prévues (art. 14, al. 1, let. e, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>200</td></tr>
 <tr><td>14003. Ne pas porter sur soi l’autorisation de pratiquer le commerce itinérant dans l’exercice de cette activité (art. 14, al. 1, let. f, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>20</td></tr>
-<tr><td>**XV.** **...**</td><td></td></tr>
-<tr><td>XVI. Ordonnance COVID-19 du 19 juin 2020 situation particulière**[^annex2-lvlu1-lvlu1-25]**</td><td>[tab]</td></tr>
+<tr><td>**XV.** **…**</td><td></td></tr>
+<tr><td>**XVI.** Ordonnance COVID-19 du 16 février 2022 situation **particulière**[^annex2-lvlu1-lvlu1-25]</td><td>[tab]</td></tr>
 <tr><td>16001. …</td><td>[tab]</td></tr>
-<tr><td>16002. Infractions à l’obligation de porter un masque facial dans les espaces clos des véhicules des transports publics, dans les espaces clos accessibles au public des installations et des établissements ou lors de manifestations (art. 28, let. e, en relation avec l’art. 5, al. 1, 6, al. 1, ou 15, al. 2, let. b, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
-<tr><td>16003. …</td><td>[tab]</td></tr>
-<tr><td>16004. …</td><td>[tab]</td></tr>
-<tr><td>16005. Accès non autorisé sans le certificat requis à un lieu ou à une manifestation pour lesquels les personnes de 16 ans et plus doivent disposer d’un certificat particulier (art. 28, let. h, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
-<tr><td>16006. Infractions à l’obligation de s’asseoir en tant que client d’un établissement de restauration ou d’un bar (art. 28, let. g, en relation avec l’art. 12, al. 1, let. a, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
-<tr><td>16007. Organisation d’une manifestation privée au-delà du nombre de personnes autorisé (art. 28, let. c, en relation avec les art. 14, al. 3, et 15, al. 3, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 200</td></tr>
+<tr><td>16002.[^annex2-lvlu1-lvlu1-26] Infractions à l’obligation de porter un masque facial dans les espaces clos des véhicules de transports publics ou dans les espaces intérieurs accessibles au public des hôpitaux, cliniques et établissements médico-sociaux (art. 9 en relation avec l’art. 3, al. 1, ou 4, al. 1, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>**XVII.** **Loi du 28 septembre 2012 sur les épidémies (LEp) , en relation avec l’ordonnance COVID-19 du 23 juin 2021 transport international de voyageurs**</td><td>[tab]</td></tr>
-<tr><td>17001. Ne pas fournir la preuve d’un résultat négatif à une analyse de biologie moléculaire pour le SARS-CoV-2 ou à un test rapide SARS-CoV-2 avec application par un professionnel lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp, en relation avec l’art. 8, al. 1 et 4, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>200</td></tr>
+<tr><td>17001. Ne pas fournir la preuve d’un résultat négatif à une analyse de biologie moléculaire pour le SARS-CoV-2 ou à un test rapide SARS-CoV-2 avec application par un professionnel lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp, en relation avec l’art. 8, al. 1, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>200</td></tr>
 <tr><td>17002. Fournir des coordonnées incomplètes ou erronées lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp et 3, al. 1, de l’ordonnance COVID-19 transport international de voyageurs)</td><td>100</td></tr>
 </table>
 
@@ -762,6 +757,7 @@ Annexe 2*[^t-2]*
 [^annex2-lvlu1-lvlu1-23]: O du 24 novembre 1993 relative à la loi fédérale sur la pêche ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
 [^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
 [^annex2-lvlu1-lvlu1-25]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex2-lvlu1-lvlu1-26]: En vigueur jusqu’au 31 mars 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 Annexe 3
 
@@ -771,6 +767,6 @@ Annexe 3
 
 Les actes suivants sont modifiés comme suit:
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Les mod. peuvent être consultées au [RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93).
