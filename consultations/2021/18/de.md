@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Rechnungslegung der öffentlich-rechtlichen Anstalt des Bundes «compenswiss (Ausgleichsfonds AHV/IV/EO)»
 document: Vernehmlassungsvorlage
 language: de

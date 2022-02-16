@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la présentation des comptes de l’établissement de droit public de la Confédération «compenswiss (Fonds de compensation AVS/AI/APG)»
 document: Projet mis en consultation
 language: fr

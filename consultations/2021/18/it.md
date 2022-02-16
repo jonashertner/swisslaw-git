@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla presentazione dei conti dell’istituto di diritto pubblico della Confederazione «compenswiss (Fondi di compensazione AVS/AI/IPG)»
 document: Progetto posto in consultazione
 language: it
