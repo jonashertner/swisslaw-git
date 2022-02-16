@@ -3,18 +3,18 @@ sr: "818.101.32"
 title: Ordinanza del 29 aprile 2015 concernente i laboratori di microbiologia
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/299"
 language: it
-version: 2016-01-01
+version: 2022-02-17
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2015-299-20160101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20220217/it/xml/fedlex-data-admin-ch-eli-cc-2015-299-20220217-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20220217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente i laboratori di microbiologia
 
-del 29 aprile 2015 (Stato 1° gennaio 2016)
+del 29 aprile 2015 (Stato 17 febbraio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -189,13 +189,15 @@ La domanda deve contenere:
 
 **Controllo**
 
-<sup>1</sup> L’Istituto svizzero per gli agenti terapeutici controlla periodicamente se il laboratorio rispetta le disposizioni della presente ordinanza.
+<sup>1</sup> L’Istituto svizzero per gli agenti terapeutici controlla periodicamente se il laboratorio rispetta le disposizioni della presente ordinanza. Su segnalazione dell’autorità cantonale competente, controlla il disbrigo del processo di dichiarazione di cui all’articolo 12 capoverso 2 LEp da parte del laboratorio.[^13-1]
 
 <sup>2</sup> L’Istituto svizzero per gli agenti terapeutici può in ogni momento svolgere o disporre ispezioni con o senza preavviso. Può delegare l’ispezione ai Cantoni o a terzi.
 
 <sup>3</sup> Per effettuare le ispezioni può avvalersi di esperti esterni.
 
 <sup>4</sup> L’Istituto svizzero per gli agenti terapeutici informa l’autorità cantonale competente e, se si tratta di laboratori accreditati, il Servizio di accreditamento svizzero (SAS) in merito alle ispezioni e può invitare alle ispezioni rappresentanti di queste autorità.
+
+[^13-1]: Nuovo testo giusta l’all. n. 1 dell’O del 16 feb. 2022, in vigore dal 17 feb. 2022 ([RU 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 #### Art. 14
 
@@ -219,7 +221,10 @@ L’Istituto svizzero per gli agenti terapeutici può revocare, sospendere o lim
 
 - a. le condizioni per l’autorizzazione non sono più soddisfatte;
 - b. gli obblighi di cui agli articoli 16–20 e le esigenze di cui all’articolo 21 non sono rispettati;
-- c. i risultati del controllo esterno di qualità danno adito a ripetute contestazioni.
+- c. i risultati del controllo esterno di qualità danno adito a ripetute contestazioni;
+- d.[^15-1] il controllo del rispetto degli obblighi di dichiarazione di cui all’articolo 12 capoverso 2 LEp ha dato adito a ripetute contestazioni da parte dell’autorità cantonale competente.
+
+[^15-1]: Introdotta dall’all. n. 1 dell’O del 16 feb. 2022, in vigore dal 17 feb. 2022 ([RU 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 ## Sezione 4: Obblighi del laboratorio
 

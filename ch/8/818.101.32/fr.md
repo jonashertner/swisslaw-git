@@ -3,18 +3,18 @@ sr: "818.101.32"
 title: Ordonnance du 29 avril 2015 sur les laboratoires de microbiologie
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/299"
 language: fr
-version: 2016-01-01
+version: 2022-02-17
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-299-20160101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-2015-299-20220217-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20220217/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les laboratoires de microbiologie
 
-du 29 avril 2015 (Etat le 1<sup>er</sup> janvier 2016)
+du 29 avril 2015 (Etat le 17 février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -189,13 +189,15 @@ La demande doit comprendre les indications suivantes:
 
 **Contrôle**
 
-<sup>1</sup> L’Institut suisse des produits thérapeutiques contrôle périodiquement si le laboratoire respecte les dispositions de la présente ordonnance.
+<sup>1</sup> L’Institut suisse des produits thérapeutiques contrôle périodiquement si le laboratoire respecte les dispositions de la présente ordonnance. Sur plainte de l’autorité cantonale compétente, il contrôle que le laboratoire respecte la procédure de déclaration prévue à l’art. 12, al. 2, LEp.[^13-1]
 
 <sup>2</sup> Il peut à tout moment effectuer ou ordonner des inspections annoncées ou inopinées du laboratoire. Il peut déléguer l’inspection aux cantons ou à des tiers.
 
 <sup>3</sup> Il peut faire appel à des experts externes pour procéder aux inspections.
 
 <sup>4</sup> Il avertit l’autorité cantonale compétente et, dans le cas des laboratoires accrédités, le Service d’accréditation suisse (SAS), des inspections et peut inviter des représentants de ces autorités à participer aux inspections.
+
+[^13-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 #### Art. 14
 
@@ -219,7 +221,10 @@ L’Institut suisse des produits thérapeutiques peut retirer, suspendre ou rest
 
 - a. les conditions liées à l’autorisation ne sont plus remplies;
 - b. les obligations visées aux art. 16 à 20 et les exigences de l’art. 21 ne sont pas respectées;
-- c. les résultats du contrôle de qualité externe donnent lieu à des contestations répétées.
+- c. les résultats du contrôle de qualité externe donnent lieu à des contestations répétées;
+- d.[^15-1] le contrôle du respect des obligations de déclarer visées à l’art. 12, al. 2, LEp donne lieu à des contestations répétées de l’autorité cantonale compétente.
+
+[^15-1]: Introduite par l’annexe ch. 1 de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 ## Section 4 Obligations du laboratoire
 

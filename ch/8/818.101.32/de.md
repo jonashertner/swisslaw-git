@@ -3,18 +3,18 @@ sr: "818.101.32"
 title: Verordnung vom 29. April 2015 über mikrobiologische Laboratorien
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/299"
 language: de
-version: 2016-01-01
+version: 2022-02-17
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2015-299-20160101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20220217/de/xml/fedlex-data-admin-ch-eli-cc-2015-299-20220217-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20220217/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über mikrobiologische Laboratorien
 
-vom 29. April 2015 (Stand am 1. Januar 2016)
+vom 29. April 2015 (Stand am 17. Februar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -189,13 +189,15 @@ Das Gesuch muss Folgendes enthalten:
 
 **Kontrolle**
 
-<sup>1</sup> Das Schweizerische Heilmittelinstitut kontrolliert periodisch, ob das Laboratorium die Bestimmungen dieser Verordnung einhält.
+<sup>1</sup> Das Schweizerische Heilmittelinstitut kontrolliert periodisch, ob das Laboratorium die Bestimmungen dieser Verordnung einhält. Auf Anzeige der zuständigen kantonalen Behörde hin kontrolliert es die Abwicklung des Meldevorgangs nach Artikel 12 Absatz 2 EpG durch das Laboratorium.[^13-1]
 
 <sup>2</sup> Es kann das Laboratorium jederzeit angemeldet oder unangemeldet inspizieren oder Inspektionen anordnen. Es kann die Inspektion an die Kantone oder an Dritte delegieren.
 
 <sup>3</sup> Es kann für die Durchführung der Inspektionen externe Expertinnen und Experten beiziehen.
 
 <sup>4</sup> Es informiert die zuständige kantonale Behörde und bei akkreditierten Laboratorien die Schweizerische Akkreditierungsstelle (SAS) über die Inspektionen und kann Vertreterinnen und Vertreter dieser Behörden zu Inspektionen einladen.
+
+[^13-1]: Fassung gemäss Anhang Ziff. 1 der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 #### Art. 14
 
@@ -219,7 +221,10 @@ Das Schweizerische Heilmittelinstitut kann die Bewilligung entziehen, sistieren 
 
 - a. die Bewilligungsvoraussetzungen nicht mehr erfüllt sind;
 - b. die Pflichten nach den Artikeln 16–20 sowie die Anforderungen nach Artikel 21 nicht eingehalten werden;
-- c. die Ergebnisse der externen Qualitätskontrolle wiederholt zu Beanstandungen Anlass geben.
+- c. die Ergebnisse der externen Qualitätskontrolle wiederholt zu Beanstandungen Anlass geben;
+- d.[^15-1] die Kontrolle der Einhaltung der Meldepflichten nach Artikel 12 Absatz 2 EpG wiederholt zu Beanstandungen durch die zuständige kantonale Behörde Anlass gegeben hat.
+
+[^15-1]: Eingefügt durch Anhang Ziff. 1 der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 ## 4. Abschnitt: Pflichten des Laboratoriums
 
@@ -325,7 +330,7 @@ Die Gebühren werden nach der Heilmittel-Gebührenverordnung vom 2. Dezember 201
 
 Die Verordnung vom 26. Juni 1996[^26-1] über die mikrobiologischen und serologischen Laboratorien wird aufgehoben.
 
-[^26-1]: [[AS 1996 2324](https://fedlex.data.admin.ch/eli/oc/1996/2324_2324_2324), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 11, [2003 4835](https://fedlex.data.admin.ch/eli/oc/2003/706), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. II Abs. 1]
+[^26-1]: [[AS 1996 2324](https://fedlex.data.admin.ch/eli/oc/1996/2324_2324_2324); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 11; [2003 4835](https://fedlex.data.admin.ch/eli/oc/2003/706); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. II Abs. 1]
 
 #### Art. 27
 
