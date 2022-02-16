@@ -4,13 +4,13 @@ number: "120.001"
 title: Standeskommissionsbeschluss betreffend die Massnahmen zur Bekämpfung der Corona-Pandemie
 short: StKB COVID-19
 language: de
-version: 2022-02-01
-valid_until: 2022-02-16
-version_adopted: 2022-01-18
+version: 2022-02-17
+valid_until: 2024-08-12
+version_adopted: 2022-02-15
 adopted: 2020-04-14
 in_force: 2020-04-14
 url: "https://ai.clex.ch/app/de/texts_of_law/120.001"
-pdf: "https://ai.clex.ch/api/de/versions/2003/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2014/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2003/pdf_file"
 
 (StKB COVID-19)
 
-vom 14.04.2020 (Stand 01.02.2022)
+vom 14.04.2020 (Stand 17.02.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -49,13 +49,7 @@ beschliesst:
 
 #### Art. 5
 
-**Verwaltung**
-
-<sup>1</sup> Das oberste Verwaltungsorgan kann den Zugang zur Verwaltung beschränken und gesetzlich oder reglementarisch vorgesehene Dienstleistungen der Verwaltung einschränken oder aussetzen, soweit dies wegen der Massnahmen des Bundes zur Bekämpfung der Corona-Pandemie notwendig ist.
-
-<sup>2</sup> …
-
-<sup>3</sup> Gesetzlich oder reglementarisch vorgesehene Auflagen können elektronisch vorgenommen werden. Ist eine unmittelbare Einsicht aus sachlichen Gründen notwendig, ist diese unter Einhaltung der Hygiene- und Abstandsvorschriften des Bundes zu gewähren.
+**…**
 
 #### Art. 5a
 
@@ -69,15 +63,7 @@ beschliesst:
 
 #### Art. 5b
 
-**Schutzkonzepte und Bewilligungen gemäss COVID-19-Verordnung besondere Lage**
-
-<sup>1</sup> Für die Prüfung von Schutzkonzepten im Wirkungsbereich des Arbeitsinspektorats ist das Arbeitsinspektorat zuständig, ansonsten das Gesundheits- und Sozialdepartement.
-
-<sup>2</sup> Für die Kontrolle von Schutzkonzepten ist das Arbeitsinspektorat zuständig.
-
-<sup>3</sup> …
-
-<sup>4</sup> Über Erleichterungen von Bundesmassnahmen entscheidet die Standeskommission.
+**…**
 
 #### Art. 5c
 
@@ -143,59 +129,19 @@ beschliesst:
 
 #### Art. 10a
 
-**Maskenpflicht an Veranstaltungen**
-
-<sup>1</sup> Jede Person trägt während einer Veranstaltung, an Märkten sowie an Fach- und Publikumsmessen eine Gesichtsmaske. Diese Pflicht gilt auch dann, wenn eine Zertifikatspflicht (3G) besteht; ist der Zugang auf Personen mit einem Impf- oder Genesungszertifikat (2G) beschränkt, kann auf eine Maske verzichtet werden.
-
-<sup>2</sup> Die Begriffe Veranstaltung, Märkte, Fach- und Publikumsmessen entsprechen jenen gemäss der COVID-19-Verordnung besondere Lage.
-
-<sup>3</sup> Von der Pflicht nach Abs. 1 sind ausgenommen:
-
-- a) Kinder vor ihrem 12. Geburtstag;
-- b) Personen mit einem Nachweis, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können;
-- c) Auftretende Personen, namentlich Rednerinnen und Redner;
-- d) Personen, die sportliche oder kulturelle Aktivitäten gemäss Art. 20 COVID-19-Verordnung besondere Lage ausüben;
-- e) Gäste für die Zeit, während welcher sie Speisen und Getränke konsumieren;
-- f) Mitarbeitende ohne Kontakt zu Gästen oder Besucherinnen und Besuchern;
-- g) Personen an privaten Veranstaltungen.
+**…**
 
 #### Art. 10b
 
-**Maskenpflicht im öffentlicher Verkehr und in Fussgängerbereichen**
-
-<sup>1</sup> In den Warte- und Zugangsbereichen des öffentlichen Verkehrs sowie in belebten Fussgängerbereichen von Dorfkernen gilt eine Maskenpflicht.
-
-<sup>2</sup> Von der Pflicht nach Abs. 1 sind ausgenommen:
-
-- a) Kinder vor ihrem 12. Geburtstag;
-- b) Personen mit einem Nachweis, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmaske tragen können.
+**…**
 
 #### Art. 10c
 
-**Besuche von Gesundheits- und Sozialinstitutionen**
-
-<sup>1</sup> Personen ab 16 Jahren benötigen für Besuche in folgenden Institutionen ein gültiges Zertifikat gemäss Art. 3 der COVID-19-Verordnung besondere Lage:
-
-- a) Kantonales Gesundheitszentrum Appenzell;
-- b) Klinik im Hof, Weissbad;
-- c) Alters- und Pflegeheime;
-- d) Wohnheime für Menschen mit Beeinträchtigung.
-
-<sup>2</sup> Die Institutionen sorgen für eine wirksame Kontrolle der Zertifikate.
-
-<sup>3</sup> Die Institutionen können in Ausnahmefällen vom Erfordernis eines Zertifikats absehen oder Ersatzmassnahmen anordnen, namentlich in Krisensituationen oder wenn anders die notwendige Begleitung oder Betreuung eines Kindes oder einer besonders schutzbedürftigen Person nicht möglich ist.
-
-<sup>4</sup> Für Besucherinnen und Besucher der Institutionen gilt im Innen- und Aussenbereich eine Maskenpflicht, ausser während einer Konsumation von Speisen und Getränken; befreit von dieser Pflicht sind Kinder bis zum 12. Geburtstag und Personen mit einem Nachweis, dass sie aus besonderen Gründen keine Gesichtsmaske tragen können.
+**…**
 
 #### Art. 10d
 
-**Mitarbeitende von Gesundheits- und Sozialinstitutionen**
-
-<sup>1</sup> Mitarbeitende von Institutionen nach Art. 10c Abs. 1 sowie von Spitex-Organisationen müssen zur Ausübung ihrer beruflichen Tätigkeit den Nachweis erbringen, dass sie geimpft, genesen oder negativ getestet sind.
-
-<sup>2</sup> Der Testnachweis kann mittels gepoolter Speichel-PCR-Tests im Betrieb erbracht werden.
-
-<sup>3</sup> Bei beruflichen Tätigkeiten mit direktem Kontakt zu anderen Personen tragen die Mitarbeitenden eine Maske.
+**…**
 
 #### Art. 11
 
