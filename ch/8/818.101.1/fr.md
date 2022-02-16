@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2022-01-01
+version: 2022-02-17
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220217-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220217/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220101/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 1<sup>er</sup> janvier 2022)
+du 29 avril 2015 (Etat le 17 février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -78,7 +78,7 @@ L’OFSP exploite notamment les systèmes de dépistage précoce et de surveilla
 
 **Délai de déclaration de dangers pour la santé publique**
 
-- [tab] Si les autorités cantonales assujetties à l’obligation de déclarer en vertu de l’art. 12, al. 4, LEp, les capitaines de navire ou les commandants de bord assurant un vol de ligne ou un vol charter international, font des observations pouvant indiquer un danger pour la santé publique, ils sont tenus de les signaler sans délai.
+Si les autorités cantonales assujetties à l’obligation de déclarer en vertu de l’art. 12, al. 4, LEp, les capitaines de navire ou les commandants de bord assurant un vol de ligne ou un vol charter international, font des observations pouvant indiquer un danger pour la santé publique, ils sont tenus de les signaler sans délai.
 
 ### Section 3 Contenu des déclarations
 
@@ -957,6 +957,65 @@ Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la v
 
 [^64d-1]: Introduit par le ch. I de l’O du 3 nov. 2021 ([RO 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
 
+#### Art. 64e
+
+**Prise en charge des coûts des médicaments pour le traitement ambulatoire du COVID-19**[^64e-1]
+
+<sup>1</sup> La Confédération prend en charge les coûts des médicaments figurant dans l’annexe aux conditions qui y sont énoncées.
+
+<sup>2</sup>
+
+Le DFI peut ajouter d’autres médicaments dans l’annexe dès lors qu’ils remplissent les conditions suivantes:
+
+- a. ils sont utilisés pour le traitement ambulatoire du COVID-19;
+- b. ils ne figurent pas sur la liste des spécialités au sens de la LAMal[^64e-2];
+- c. la Confédération, pour ces médicaments, a conclu un contrat avec les titulaires de l’autorisation pour garantir un approvisionnement suffisant de la population.
+
+<sup>3</sup> Chaque médicament a une valeur comptable unique de 150 francs.
+
+<sup>4</sup>
+
+Lorsque le médicament est remis par un pharmacien admis comme fournisseur de prestations au sens de la LAMal, la Confédération prend en charge 4 fr. 20 supplémentaires pour la vérification, à condition que l’ordonnance comporte uniquement ledit médicament. Ce montant comprend les prestations suivantes:
+
+- a. vérification de l’ordonnance;
+- b. vérification de l’admissibilité;
+- c. vérification du dosage et des limitations éventuelles de quantité à l’intérieur de l’ordonnance;
+- d. contrôle des interactions dans le cadre du traitement;
+- e. vérification des facteurs de risque et des contre-indications, pour autant qu’ils soient connus du pharmacien;
+- f. prise de contact avec le médecin ayant délivré l’ordonnance, pour autant que cela soit médicalement nécessaire ou souhaité par le patient;
+- g. contrôle des abus à l’intérieur de l’ordonnance.
+
+<sup>5</sup>
+
+La rémunération de la valeur comptable unique du médicament visée à l’al. 3 et de la vérification visée à l’al. 4 est effectuée selon le système du tiers payant au sens de l’art. 42, al. 2, LAMal. Elle est due par les assureurs dans les cas suivants:
+
+- a. pour les personnes qui disposent d’une assurance obligatoire des soins au sens de la LAMal, par la caisse-maladie visée à l’art. 2 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^64e-3], auprès de laquelle la personne traitée est assurée;
+- b. pour les personnes qui sont assurées en cas de maladie auprès de l’assurance militaire, par l’assurance militaire;
+- c. pour les personnes qui ne disposent pas d’une assurance obligatoire des soins au sens de la LAMal par l’institution commune visée à l’art. 18 LAMal.
+
+[^64e-1]: Introduit par le ch. I de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19), en vigueur depuis le 17 fév. 2022 ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
+[^64e-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64e-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+
+#### Art. 64f
+
+**Procédure pour la prise en charge des coûts des médicaments pour le traitement ambulatoire du COVID-19**[^64f-1]
+
+<sup>1</sup> Les fournisseurs de prestations envoient à l’assureur compétent la facture relative aux coûts visés à l’art. 64*e*, al. 3 et 4, par personne traitée, au cas par cas ou de manière groupée sur une base trimestrielle, au plus tard 9 mois après la fourniture des prestations. La facture ne peut contenir que les coûts visés à l’art. 64*e*, al. 3 et 4. Dans l’idéal, la transmission se fait par voie électronique.
+
+<sup>2</sup> Les assureurs et l’institution commune contrôlent les factures et vérifient si le fournisseur de prestations a facturé correctement les prestations. Ils traitent les données conformément aux art. 84 à 84*b* LAMal[^64f-2].
+
+<sup>3</sup> Ils communiquent à l’OFSP le nombre d’emballages de médicaments qu’ils ont remboursés aux fournisseurs de prestations, ainsi que le montant remboursé au début des mois de janvier, d’avril, de juillet et d’octobre. Les services de révision externes des assureurs procèdent à un contrôle annuel des communications et de l’existence de contrôles appropriés au sens de l’al. 2 et font rapport à l’OFSP. L’OFSP peut demander aux assureurs des informations supplémentaires relatives aux montants remboursés par fournisseur de prestations.
+
+<sup>4</sup> Tous les 3 mois, la Confédération paie aux assureurs les prestations qu’ils ont remboursées.
+
+<sup>5</sup> Si la prestation a été indûment facturée par le fournisseur de prestations, l’assureur peut exiger de lui la restitution du montant déjà remboursé. Avec le paiement de la prestation par la Confédération au sens de l’al. 4, un éventuel droit au remboursement échoit à la Confédération. Les assureurs communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles.
+
+<sup>6</sup> Tous les 3 mois, l’institution commune facture à l’OFSP ses frais administratifs liés à son activité en tant qu’assureur au sens de l’art. 64*e*, al. 5, let. c, sur la base de ses coûts effectifs. Le tarif horaire est de 95 francs et comprend les coûts liés aux salaires, aux prestations sociales et aux infrastructures. S’agissant des dépenses qui ne sont pas incluses dans les frais administratifs concernant d’éventuels révisions, modifications du système et intérêts négatifs, les coûts effectifs sont remboursés.
+
+[^64f-1]: Introduit par le ch. I de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19), en vigueur depuis le 17 fév. 2022 ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
+[^64f-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+
 ### Section 3 Transport de marchandises
 
 #### Art. 65
@@ -1496,7 +1555,7 @@ Les ordonnances suivantes sont abrogées:
 
 [^107-1]: [[RO 2002 3902](https://fedlex.data.admin.ch/eli/oc/2002/602)]
 [^107-2]: [[RO 2005 2137](https://fedlex.data.admin.ch/eli/oc/2005/349); [2007 2941](https://fedlex.data.admin.ch/eli/oc/2007/392); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.9]
-[^107-3]: [RO **1974** 1102; [2003 4837](https://fedlex.data.admin.ch/eli/oc/2003/707)]
+[^107-3]: [[RO 1974 1103](https://fedlex.data.admin.ch/eli/oc/1974/1102_1103_1103); [2003 4837](https://fedlex.data.admin.ch/eli/oc/2003/707)]
 [^107-4]: [[RO 2005 6643](https://fedlex.data.admin.ch/eli/oc/2005/818)]
 [^107-5]: [[RO 2003 4839](https://fedlex.data.admin.ch/eli/oc/2003/708); [2009 2805](https://fedlex.data.admin.ch/eli/oc/2009/368)]
 [^107-6]: [[RO 1976 2820](https://fedlex.data.admin.ch/eli/oc/1976/2820_2820_2820)]
@@ -1517,3 +1576,52 @@ Les ordonnances suivantes sont abrogées:
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
+
+Annexe*[^t-1]*
+
+(art. 64*e*, al. 1 et 2)
+
+## Médicaments pour le traitement ambulatoire du COVID-19
+
+[^t-1]: Introduite par le ch. II de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19), en vigueur depuis le 17 fév. 2022 ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
+
+- 1\. La Confédération prend en charge les coûts visés à l’art. 64*e*, al. 3 et 4, pour les médicaments suivants utilisés pour le traitement ambulatoire du COVID-19:
+
+<table>
+<tr><th>Médicaments</th></tr>
+<tr><td>Molnupiravir</td></tr>
+<tr><td>Nirmatrelvir (PF-07321332) / Ritonavir</td></tr>
+</table>
+
+- 2\.
+
+  Elle prend en charge les coûts uniquement:
+
+  - a. pour les personnes qui sont symptomatiques, et
+  - b.
+
+    qui sont traitées:
+
+    - 1\. dans le cadre de l’indication autorisée, ou
+    - 2\. avant l’autorisation, mais selon les recommandations des sociétés médicales responsables et compte tenu des données épidémiologiques relatives aux variants préoccupants du SARS-CoV-2.
+
+- 3\.
+
+  Elle prend en charge les coûts uniquement dans les cas suivants:
+
+  - a.
+
+    si les médicaments sont ordonnés par les fournisseurs de prestations au sens de la LAMal[^annexu1-lvlu1-1] suivants:
+
+    - 1\. médecins,
+    - 2\. hôpitaux;
+
+  - b.
+
+    si les médicaments sont remis par les fournisseurs de prestations au sens de la LAMal suivants:
+
+    - 1\. médecins,
+    - 2\. pharmaciens,
+    - 3\. hôpitaux.
+
+[^annexu1-lvlu1-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
