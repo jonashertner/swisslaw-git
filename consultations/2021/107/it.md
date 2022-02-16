@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale della legge sulla protezione dell’ambiente – Rafforzare l’economia circolare svizzera
 document: Progetto posto in consultazione
 language: it

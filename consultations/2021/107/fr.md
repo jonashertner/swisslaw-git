@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification partielle de la loi sur la protection de l’environnement – Développer l’économie circulaire en Suisse
 document: Projet mis en consultation
 language: fr
