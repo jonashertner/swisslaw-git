@@ -3,11 +3,11 @@ sr: "0.103.1"
 title: "Internationaler Pakt vom 16. Dezember 1966 über wirtschaftliche, soziale und kulturelle Rechte"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/725_725_725"
 language: de
-version: 2019-05-28
+version: 2022-02-17
 adopted: 1966-12-16
 in_force: 1992-09-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/725_725_725/20190528/de/xml/fedlex-data-admin-ch-eli-cc-1993-725_725_725-20190528-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20190528/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/725_725_725/20220217/de/xml/fedlex-data-admin-ch-eli-cc-1993-725_725_725-20220217-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20220217/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 725; BBl **1991** I 189
 
 Abgeschlossen in New York am 16. Dezember 1966 Von der Bundesversammlung genehmigt am 13. Dezember 1991[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 18. Juni 1992 In Kraft getreten für die Schweiz am 18. September 1992
 
-(Stand am 28. Mai 2019)
+(Stand am 17. Februar 2022)
 
 [^t-1]: [AS 1993 724](https://fedlex.data.admin.ch/eli/oc/1993/724_724_724)
 
@@ -273,7 +273,7 @@ Unabhängig von den Notifikationen nach Artikel 26 Absatz 5 unterrichtet der Gen
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 28. Mai 2019**[^t-2]**
+Geltungsbereich am 17. Februar 2022**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -282,6 +282,7 @@ Geltungsbereich am 28. Mai 2019**[^t-2]**
 <tr><td>Albanien</td><td>4. Oktober</td><td>1991 B</td><td>4. Januar</td><td>1992</td></tr>
 <tr><td>Algerien\*</td><td>12. September</td><td>1989</td><td>12. Dezember</td><td>1989</td></tr>
 <tr><td>Angola</td><td>10. Januar</td><td>1992 B</td><td>10. April</td><td>1992</td></tr>
+<tr><td>Antigua und Barbuda</td><td>3. Juli</td><td>2019 B</td><td>3. Oktober</td><td>2019</td></tr>
 <tr><td>Äquatorialguinea</td><td>25. September</td><td>1987 B</td><td>25. Dezember</td><td>1987</td></tr>
 <tr><td>Argentinien</td><td>8. August</td><td>1986</td><td>8. November</td><td>1986</td></tr>
 <tr><td>Armenien</td><td>13. September</td><td>1993 B</td><td>13. Dezember</td><td>1993</td></tr>
@@ -397,6 +398,7 @@ Geltungsbereich am 28. Mai 2019**[^t-2]**
 <tr><td>Nigeria</td><td>29. Juli</td><td>1993 B</td><td>29. Oktober</td><td>1993</td></tr>
 <tr><td>Nordmazedonien</td><td>18. Januar</td><td>1994 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen\* \*\*</td><td>13. September</td><td>1972</td><td>3. Januar</td><td>1976</td></tr>
+<tr><td>Oman\*</td><td>9. Juni</td><td>2020 B</td><td>9. September</td><td>2020</td></tr>
 <tr><td>Österreich\*\*</td><td>10. September</td><td>1978</td><td>10. Dezember</td><td>1978</td></tr>
 <tr><td>Pakistan\* \*\*</td><td>17. April</td><td>2008</td><td>17. Juli</td><td>2008</td></tr>
 <tr><td>Palästina</td><td>2. April</td><td>2014 B</td><td>2. Juli</td><td>2014</td></tr>
@@ -464,7 +466,7 @@ Geltungsbereich am 28. Mai 2019**[^t-2]**
 <tr><td>Vietnam\*</td><td>24. September</td><td>1982 B</td><td>24. Dezember</td><td>1982</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>8. Mai</td><td>1981 B</td><td>8. August</td><td>1981</td></tr>
 <tr><td>Zypern\*\*</td><td>2. April</td><td>1969</td><td>3. Januar</td><td>1976</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1993 725](https://fedlex.data.admin.ch/eli/oc/1993/725_725_725)[3101](https://fedlex.data.admin.ch/eli/oc/1993/3101_3101_3101), [1996 716](https://fedlex.data.admin.ch/eli/oc/1996/716_716_716), [2004 3875](https://fedlex.data.admin.ch/eli/oc/2004/536), [2006 591](https://fedlex.data.admin.ch/eli/oc/2006/83), [2007 413](https://fedlex.data.admin.ch/eli/oc/2007/81), [2009 587](https://fedlex.data.admin.ch/eli/oc/2009/102), [2012 3147](https://fedlex.data.admin.ch/eli/oc/2012/364), [2015 989](https://fedlex.data.admin.ch/eli/oc/2015/184), [2018 2997](https://fedlex.data.admin.ch/eli/oc/2018/460), [2019 1789](https://fedlex.data.admin.ch/eli/oc/2019/327). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1993 725](https://fedlex.data.admin.ch/eli/oc/1993/725_725_725), [3101](https://fedlex.data.admin.ch/eli/oc/1993/3101_3101_3101); [1996 716](https://fedlex.data.admin.ch/eli/oc/1996/716_716_716); [2004 3875](https://fedlex.data.admin.ch/eli/oc/2004/536); [2006 591](https://fedlex.data.admin.ch/eli/oc/2006/83); [2007 413](https://fedlex.data.admin.ch/eli/oc/2007/81); [2009 587](https://fedlex.data.admin.ch/eli/oc/2009/102); [2012 3147](https://fedlex.data.admin.ch/eli/oc/2012/364); [2015 989](https://fedlex.data.admin.ch/eli/oc/2015/184); [2018 2997](https://fedlex.data.admin.ch/eli/oc/2018/460); [2019 1789](https://fedlex.data.admin.ch/eli/oc/2019/327); [2022 103](https://fedlex.data.admin.ch/eli/oc/2022/103). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.

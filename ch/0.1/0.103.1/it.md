@@ -3,11 +3,11 @@ sr: "0.103.1"
 title: "Patto internazionale del 16 dicembre 1966 relativo ai diritti economici, sociali e culturali"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/725_725_725"
 language: it
-version: 2019-05-28
+version: 2022-02-17
 adopted: 1966-12-16
 in_force: 1992-09-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/725_725_725/20190528/it/xml/fedlex-data-admin-ch-eli-cc-1993-725_725_725-20190528-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20190528/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/725_725_725/20220217/it/xml/fedlex-data-admin-ch-eli-cc-1993-725_725_725-20220217-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20220217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20190528/it"
 
 Traduzione
 
-Concluso a Nuova York il 16 dicembre 1966
+Concluso a Nuova York il 16 dicembre 1966 Approvato dall’Assemblea federale il 13 dicembre 1991[^t-1] Istrumento d’adesione depositato dalla Svizzera il 18 giugno 1992 Entrato in vigore per la Svizzera il 18 settembre 1992
 
-Approvato dall’Assemblea federale il 13 dicembre 1991[^t-1]
-
-Istrumento d’adesione depositato dalla Svizzera il 18 giugno 1992
-
-Entrato in vigore per la Svizzera il 18 settembre 1992
-
-(Stato 28 maggio 2019)
+(Stato 17 febbraio 2022)
 
 [^t-1]: RU **1993** 725; FF **1991** I 925 RU **1993** 724
 
@@ -290,7 +284,7 @@ Indipendentemente dalle notifiche effettuate ai sensi del paragrafo 5 dell’art
 
 (Seguono le firme)
 
-Campo d’applicazione il 28 maggio 2019**[^t-2]**
+Campo d’applicazione il 17 febbraio 2022**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -298,6 +292,7 @@ Campo d’applicazione il 28 maggio 2019**[^t-2]**
 <tr><td>Albania</td><td>4 ottobre</td><td>1991 A</td><td>4 gennaio</td><td>1992</td></tr>
 <tr><td>Algeria<sup>\*</sup></td><td>12 settembre</td><td>1989</td><td>12 dicembre</td><td>1989</td></tr>
 <tr><td>Angola</td><td>10 gennaio</td><td>1992 A</td><td>10 aprile</td><td>1992</td></tr>
+<tr><td>Antigua e Barbuda</td><td>3 luglio</td><td>2019 A</td><td>3 ottobre</td><td>2019</td></tr>
 <tr><td>Argentina</td><td>8 agosto</td><td>1986</td><td>8 novembre</td><td>1986</td></tr>
 <tr><td>Armenia</td><td>13 settembre</td><td>1993 A</td><td>13 dicembre</td><td>1993</td></tr>
 <tr><td>Australia</td><td>10 dicembre</td><td>1975</td><td>10 marzo</td><td>1976</td></tr>
@@ -362,9 +357,9 @@ Campo d’applicazione il 28 maggio 2019**[^t-2]**
 <tr><td>Grecia<sup>\*\*</sup></td><td>16 maggio</td><td>1985 A</td><td>16 agosto</td><td>1985</td></tr>
 <tr><td>Grenada</td><td>6 settembre</td><td>1991 A</td><td>6 dicembre</td><td>1991</td></tr>
 <tr><td>Guatemala</td><td>19 maggio</td><td>1988 A</td><td>19 agosto</td><td>1988</td></tr>
-<tr><td>Guinea equatoriale</td><td>25 settembre</td><td>1987 A</td><td>25 dicembre</td><td>1987</td></tr>
 <tr><td>Guinea<sup>\*</sup></td><td>24 gennaio</td><td>1978</td><td>24 aprile</td><td>1978</td></tr>
 <tr><td>Guinea-Bissau</td><td>2 luglio</td><td>1992 A</td><td>2 ottobre</td><td>1992</td></tr>
+<tr><td>Guinea equatoriale</td><td>25 settembre</td><td>1987 A</td><td>25 dicembre</td><td>1987</td></tr>
 <tr><td>Guyana</td><td>15 febbraio</td><td>1977</td><td>15 maggio</td><td>1977</td></tr>
 <tr><td>Haiti</td><td>8 ottobre</td><td>2013 A</td><td>8 gennaio</td><td>2014</td></tr>
 <tr><td>Honduras</td><td>17 febbraio</td><td>1981</td><td>17 maggio</td><td>1981</td></tr>
@@ -412,6 +407,7 @@ Campo d’applicazione il 28 maggio 2019**[^t-2]**
 <tr><td>Nigeria</td><td>29 luglio</td><td>1993 A</td><td>29 ottobre</td><td>1993</td></tr>
 <tr><td>Norvegia<sup>\* \*\*</sup></td><td>13 settembre</td><td>1972</td><td>3 gennaio</td><td>1976</td></tr>
 <tr><td>Nuova Zelanda<sup>\*</sup></td><td>28 dicembre</td><td>1978</td><td>28 marzo</td><td>1979</td></tr>
+<tr><td>Oman\*</td><td>9 giugno</td><td>2020 A</td><td>9 settembre</td><td>2020</td></tr>
 <tr><td>Paesi Bassi<sup>\*\*</sup></td><td>11 dicembre</td><td>1978</td><td>11 marzo</td><td>1979</td></tr>
 <tr><td>Aruba</td><td>11 dicembre</td><td>1978</td><td>11 marzo</td><td>1979</td></tr>
 <tr><td>Curaçao</td><td>11 dicembre</td><td>1978</td><td>11 marzo</td><td>1979</td></tr>
@@ -481,7 +477,7 @@ Campo d’applicazione il 28 maggio 2019**[^t-2]**
 <tr><td>Yemen<sup>\*</sup></td><td>9 febbraio</td><td>1987 A</td><td>9 maggio</td><td>1987</td></tr>
 <tr><td>Zambia<sup>\*\*</sup></td><td>10 aprile</td><td>1984 A</td><td>10 luglio</td><td>1984</td></tr>
 <tr><td>Zimbabwe</td><td>13 maggio</td><td>1991 A</td><td>13 agosto</td><td>1991</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell ’Organizzazione delle Nazioni Unite: https://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1993 725](https://fedlex.data.admin.ch/eli/oc/1993/725_725_725)[3101](https://fedlex.data.admin.ch/eli/oc/1993/3101_3101_3101), [1996 716](https://fedlex.data.admin.ch/eli/oc/1996/716_716_716), [2004 3875](https://fedlex.data.admin.ch/eli/oc/2004/536),[2006 591](https://fedlex.data.admin.ch/eli/oc/2006/83), [2007 413](https://fedlex.data.admin.ch/eli/oc/2007/81), [2009 587](https://fedlex.data.admin.ch/eli/oc/2009/102), [2012 3147](https://fedlex.data.admin.ch/eli/oc/2012/364), [2015 989](https://fedlex.data.admin.ch/eli/oc/2015/184), [2018 2997](https://fedlex.data.admin.ch/eli/oc/2018/460)e [2019 1789](https://fedlex.data.admin.ch/eli/oc/2019/327). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1993 725](https://fedlex.data.admin.ch/eli/oc/1993/725_725_725), [3101](https://fedlex.data.admin.ch/eli/oc/1993/3101_3101_3101); [1996 716](https://fedlex.data.admin.ch/eli/oc/1996/716_716_716); [2004 3875](https://fedlex.data.admin.ch/eli/oc/2004/536); [2006 591](https://fedlex.data.admin.ch/eli/oc/2006/83); [2007 413](https://fedlex.data.admin.ch/eli/oc/2007/81); [2009 587](https://fedlex.data.admin.ch/eli/oc/2009/102); [2012 3147](https://fedlex.data.admin.ch/eli/oc/2012/364); [2015 989](https://fedlex.data.admin.ch/eli/oc/2015/184); [2018 2997](https://fedlex.data.admin.ch/eli/oc/2018/460); [2019 1789](https://fedlex.data.admin.ch/eli/oc/2019/327); [2022 103](https://fedlex.data.admin.ch/eli/oc/2022/103). Una versione aggiornata del campo d ’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all ’indirizzo seguente: www.fedlex.admin.ch/it/treaty.

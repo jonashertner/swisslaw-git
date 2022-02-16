@@ -3,11 +3,11 @@ sr: "0.103.1"
 title: "Pacte international du 16 décembre 1966 relatif aux droits économiques, sociaux et culturels"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/725_725_725"
 language: fr
-version: 2019-05-28
+version: 2022-02-17
 adopted: 1966-12-16
 in_force: 1992-09-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/725_725_725/20190528/fr/xml/fedlex-data-admin-ch-eli-cc-1993-725_725_725-20190528-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20190528/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/725_725_725/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-1993-725_725_725-20220217-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20220217/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,11 +20,11 @@ Texte original
 
 Conclu à New York le 16 décembre 1966 Approuvé par l’Assemblée fédérale le 13 décembre 1991[^t-1] Instrument d’adhésion déposé par la Suisse le 18 juin 1992 Entré en vigueur pour la Suisse le 18 septembre 1992
 
-(Etat le 28 mai 2019)
+(Etat le 17 février 2022)
 
 [^t-1]: [RO 1993 724](https://fedlex.data.admin.ch/eli/oc/1993/724_724_724)
 
-Les Etats parties au présent Pacte,
+Les États parties au présent Pacte,
 
 considérant que, conformément aux principes énoncés dans la Charte des Nations Unies[^ingress-1], la reconnaissance de la dignité inhérente à tous les membres de la famille humaine et de leurs droits égaux et inaliénables constitue le fondement de la liberté, de la justice et de la paix dans le monde,
 
@@ -32,7 +32,7 @@ reconnaissant que ces droits découlent de la dignité inhérente à la personne
 
 reconnaissant que, conformément à la Déclaration universelle des droits de l’homme, l’idéal de l’être humain libre, libéré de la crainte et de la misère, ne peut être réalisé que si des conditions permettant à chacun de jouir de ses droits économiques, sociaux et culturels, aussi bien que de ses droits civils et politiques, sont créées,
 
-considérant que la Charte des Nations Unies impose aux Etats l’obligation de promouvoir le respect universel et effectif des droits et des libertés de l’homme,
+considérant que la Charte des Nations Unies impose aux États l’obligation de promouvoir le respect universel et effectif des droits et des libertés de l’homme,
 
 prenant en considération le fait que l’individu a des devoirs envers autrui et envers la collectivité à laquelle il appartient et est tenu de s’efforcer de promouvoir et de respecter les droits reconnus dans le présent Pacte,
 
@@ -48,29 +48,29 @@ sont convenus des articles suivants:
 
 <sup>2.</sup> Pour atteindre leurs fins, tous les peuples peuvent disposer librement de leurs richesses et de leurs ressources naturelles, sans préjudice des obligations qui découlent de la coopération économique internationale, fondée sur le principe de l’intérêt mutuel, et du droit international. En aucun cas, un peuple ne pourra être privé de ses propres moyens de subsistance.
 
-<sup>3.</sup> Les Etats parties au présent Pacte, y compris ceux qui ont la responsabilité d’administrer des territoires non autonomes et des territoires sous tutelle, sont tenus de faciliter la réalisation du droit des peuples à disposer d’eux-mêmes, et de respecter ce droit, conformément aux dispositions de la Charte des Nations Unies.
+<sup>3.</sup> Les États parties au présent Pacte, y compris ceux qui ont la responsabilité d’administrer des territoires non autonomes et des territoires sous tutelle, sont tenus de faciliter la réalisation du droit des peuples à disposer d’eux-mêmes, et de respecter ce droit, conformément aux dispositions de la Charte des Nations Unies.
 
 ## Deuxième partie
 
 #### Art. 2
 
-<sup>1.</sup> Chacun des Etats parties au présent Pacte s’engage à agir, tant par son effort propre que par l’assistance et la coopération internationales, notamment sur les plans économique et technique, au maximum de ses ressources disponibles, en vue d’assurer progressivement le plein exercice des droits reconnus dans le présent Pacte par tous les moyens appropriés, y compris en particulier l’adoption de mesures législatives.
+<sup>1.</sup> Chacun des États parties au présent Pacte s’engage à agir, tant par son effort propre que par l’assistance et la coopération internationales, notamment sur les plans économique et technique, au maximum de ses ressources disponibles, en vue d’assurer progressivement le plein exercice des droits reconnus dans le présent Pacte par tous les moyens appropriés, y compris en particulier l’adoption de mesures législatives.
 
-<sup>2.</sup> Les Etats parties au présent Pacte s’engagent à garantir que les droits qui y sont énoncés seront exercés sans discrimination aucune fondée sur la race, la couleur, le sexe, la langue, la religion, l’opinion politique ou toute autre opinion, l’origine nationale ou sociale, la fortune, la naissance ou toute autre situation.
+<sup>2.</sup> Les États parties au présent Pacte s’engagent à garantir que les droits qui y sont énoncés seront exercés sans discrimination aucune fondée sur la race, la couleur, le sexe, la langue, la religion, l’opinion politique ou toute autre opinion, l’origine nationale ou sociale, la fortune, la naissance ou toute autre situation.
 
 <sup>3.</sup> Les pays en voie de développement, compte dûment tenu des droits de l’homme et de leur économie nationale, peuvent déterminer dans quelle mesure ils garantiront les droits économiques reconnus dans le présent Pacte à des non-ressortissants.
 
 #### Art. 3
 
-Les Etats parties au présent Pacte s’engagent à assurer le droit égal qu’ont l’homme et la femme au bénéfice de tous les droits économiques, sociaux et culturels qui sont énumérés dans le présent Pacte.
+Les États parties au présent Pacte s’engagent à assurer le droit égal qu’ont l’homme et la femme au bénéfice de tous les droits économiques, sociaux et culturels qui sont énumérés dans le présent Pacte.
 
 #### Art. 4
 
-Les Etats parties au présent Pacte reconnaissent que, dans la jouissance des droits assurés par l’Etat conformément au présent Pacte, l’Etat ne peut soumettre ces droits qu’aux limitations établies par la loi, dans la seule mesure compatible avec la nature de ces droits et exclusivement en vue de favoriser le bien-être général dans une société démocratique.
+Les États parties au présent Pacte reconnaissent que, dans la jouissance des droits assurés par l’État conformément au présent Pacte, l’État ne peut soumettre ces droits qu’aux limitations établies par la loi, dans la seule mesure compatible avec la nature de ces droits et exclusivement en vue de favoriser le bien-être général dans une société démocratique.
 
 #### Art. 5
 
-<sup>1.</sup> Aucune disposition du présent Pacte ne peut être interprétée comme impliquant pour un Etat, un groupement ou un individu un droit quelconque de se livrer à une activité ou d’accomplir un acte visant à la destruction des droits ou libertés reconnus dans le présent Pacte ou à des limitations plus amples que celles prévues dans ledit Pacte.
+<sup>1.</sup> Aucune disposition du présent Pacte ne peut être interprétée comme impliquant pour un État, un groupement ou un individu un droit quelconque de se livrer à une activité ou d’accomplir un acte visant à la destruction des droits ou libertés reconnus dans le présent Pacte ou à des limitations plus amples que celles prévues dans ledit Pacte.
 
 <sup>2.</sup> Il ne peut être admis aucune restriction ou dérogation aux droits fondamentaux de l’homme reconnus ou en vigueur dans tout pays en vertu de lois, de conventions, de règlements ou de coutumes, sous prétexte que le présent Pacte ne les reconnaît pas ou les reconnaît à un moindre degré.
 
@@ -78,13 +78,13 @@ Les Etats parties au présent Pacte reconnaissent que, dans la jouissance des dr
 
 #### Art. 6
 
-<sup>1.</sup> Les Etats parties au présent Pacte reconnaissent le droit au travail, qui comprend le droit qu’a toute personne d’obtenir la possibilité de gagner sa vie par un travail librement choisi ou accepté, et prendront des mesures appropriées pour sauvegarder ce droit.
+<sup>1.</sup> Les États parties au présent Pacte reconnaissent le droit au travail, qui comprend le droit qu’a toute personne d’obtenir la possibilité de gagner sa vie par un travail librement choisi ou accepté, et prendront des mesures appropriées pour sauvegarder ce droit.
 
-<sup>2.</sup> Les mesures que chacun des Etats parties au présent Pacte prendra en vue d’assurer le plein exercice de ce droit doivent inclure l’orientation et la formation techniques et professionnelles, l’élaboration de programmes, de politiques et de techniques propres à assurer un développement économique, social et culturel constant et un plein emploi productif dans des conditions qui sauvegardent aux individus la jouissance des libertés politiques et économiques fondamentales.
+<sup>2.</sup> Les mesures que chacun des États parties au présent Pacte prendra en vue d’assurer le plein exercice de ce droit doivent inclure l’orientation et la formation techniques et professionnelles, l’élaboration de programmes, de politiques et de techniques propres à assurer un développement économique, social et culturel constant et un plein emploi productif dans des conditions qui sauvegardent aux individus la jouissance des libertés politiques et économiques fondamentales.
 
 #### Art. 7
 
-Les Etats parties au présent Pacte reconnaissent le droit qu’a toute personne de jouir de conditions de travail justes et favorables, qui assurent notamment:
+Les États parties au présent Pacte reconnaissent le droit qu’a toute personne de jouir de conditions de travail justes et favorables, qui assurent notamment:
 
 - a)
 
@@ -101,7 +101,7 @@ Les Etats parties au présent Pacte reconnaissent le droit qu’a toute personne
 
 <sup>1.</sup>
 
-Les Etats parties au présent Pacte s’engagent à assurer:
+Les États parties au présent Pacte s’engagent à assurer:
 
 - a) le droit qu’a toute personne de former avec d’autres des syndicats et de s’affilier au syndicat de son choix, sous la seule réserve des règles fixées par l’organisation intéressée, en vue de favoriser et de protéger ses intérêts économiques et sociaux. L’exercice de ce droit ne peut faire l’objet que des seules restrictions prévues par la loi et qui constituent des mesures nécessaires, dans une société démocratique, dans l’intérêt de la sécurité nationale ou de l’ordre public, ou pour protéger les droits et les libertés d’autrui;
 - b) le droit qu’ont les syndicats de former des fédérations ou des confédérations nationales et le droit qu’ont celles-ci de former des organisations syndicales internationales ou de s’y affilier;
@@ -110,40 +110,40 @@ Les Etats parties au présent Pacte s’engagent à assurer:
 
 <sup>2.</sup> Le présent article n’empêche pas de soumettre à des restrictions légales l’exercice de ces droits par les membres des forces armées, de la police ou de la fonction publique.
 
-<sup>3.</sup> Aucune disposition du présent article ne permet aux Etats parties à la Convention de 1948 de l’Organisation internationale du Travail concernant la liberté syndicale et la protection du droit syndical[^8-1] de prendre des mesures législatives portant atteinte – ou d’appliquer la loi de façon à porter atteinte – aux garanties prévues dans ladite convention.
+<sup>3.</sup> Aucune disposition du présent article ne permet aux États parties à la Convention de 1948 de l’Organisation internationale du Travail concernant la liberté syndicale et la protection du droit syndical[^8-1] de prendre des mesures législatives portant atteinte – ou d’appliquer la loi de façon à porter atteinte – aux garanties prévues dans ladite convention.
 
 [^8-1]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
 
 #### Art. 9
 
-Les Etats parties au présent Pacte reconnaissent le droit de toute personne à la sécurité sociale, y compris les assurances sociales.
+Les États parties au présent Pacte reconnaissent le droit de toute personne à la sécurité sociale, y compris les assurances sociales.
 
 #### Art. 10
 
-Les Etats parties au présent Pacte reconnaissent que:
+Les États parties au présent Pacte reconnaissent que:
 
 - 1\. Une protection et une assistance aussi larges que possible doivent être accordées à la famille, qui est l’élément naturel et fondamental de la société, en particulier pour sa formation et aussi longtemps qu’elle a la responsabilité de l’entretien et de l’éducation d’enfants à charge. Le mariage doit être librement consenti par les futurs époux.
 - 2\. Une protection spéciale doit être accordée aux mères pendant une période de temps raisonnable avant et après la naissance des enfants. Les mères salariées doivent bénéficier, pendant cette même période, d’un congé payé ou d’un congé accompagné de prestations de sécurité sociale adéquates.
-- 3\. Des mesures spéciales de protection et d’assistance doivent être prises en faveur de tous les enfants et adolescents, sans discrimination aucune pour des raisons de filiation ou autres. Les enfants et adolescents doivent être protégés contre l’exploitation économique et sociale. Le fait de les employer à des travaux de nature à compromettre leur moralité ou leur santé, à mettre leur vie en danger ou à nuire à leur développement normal doit être sanctionné par la loi. Les Etats doivent aussi fixer des limites d’âge au-dessous desquelles l’emploi salarié de la main‑d’œuvre enfantine sera interdit et sanctionné par la loi.
+- 3\. Des mesures spéciales de protection et d’assistance doivent être prises en faveur de tous les enfants et adolescents, sans discrimination aucune pour des raisons de filiation ou autres. Les enfants et adolescents doivent être protégés contre l’exploitation économique et sociale. Le fait de les employer à des travaux de nature à compromettre leur moralité ou leur santé, à mettre leur vie en danger ou à nuire à leur développement normal doit être sanctionné par la loi. Les États doivent aussi fixer des limites d’âge au-dessous desquelles l’emploi salarié de la main‑d’œuvre enfantine sera interdit et sanctionné par la loi.
 
 #### Art. 11
 
-<sup>1.</sup> Les Etats parties au présent Pacte reconnaissent le droit de toute personne à un niveau de vie suffisant pour elle-même et sa famille, y compris une nourriture, un vêtement et un logement suffisants, ainsi qu’à une amélioration constante de ses conditions d’existence. Les Etats parties prendront des mesures appropriées pour assurer la réalisation de ce droit et ils reconnaissent à cet effet l’importance essentielle d’une coopération internationale librement consentie.
+<sup>1.</sup> Les États parties au présent Pacte reconnaissent le droit de toute personne à un niveau de vie suffisant pour elle-même et sa famille, y compris une nourriture, un vêtement et un logement suffisants, ainsi qu’à une amélioration constante de ses conditions d’existence. Les États parties prendront des mesures appropriées pour assurer la réalisation de ce droit et ils reconnaissent à cet effet l’importance essentielle d’une coopération internationale librement consentie.
 
 <sup>2.</sup>
 
-Les Etats parties au présent Pacte, reconnaissant le droit fondamental qu’a toute personne d’être à l’abri de la faim, adopteront, individuellement et au moyen de la coopération internationale, les mesures nécessaires, y compris des programmes concrets:
+Les États parties au présent Pacte, reconnaissant le droit fondamental qu’a toute personne d’être à l’abri de la faim, adopteront, individuellement et au moyen de la coopération internationale, les mesures nécessaires, y compris des programmes concrets:
 
 - a) pour améliorer les méthodes de production, de conservation et de distribution des denrées alimentaires par la pleine utilisation des connaissances techniques et scientifiques, par la diffusion de principes d’éducation nutritionnelle et par le développement ou la réforme des régimes agraires, de manière à assurer au mieux la mise en valeur et l’utilisation des ressources naturelles;
 - b) pour assurer une répartition équitable des ressources alimentaires mondiales par rapport aux besoins, compte tenu des problèmes qui se posent tant aux pays importateurs qu’aux pays exportateurs de denrées alimentaires.
 
 #### Art. 12
 
-<sup>1.</sup> Les Etats parties au présent Pacte reconnaissent le droit qu’a toute personne de jouir du meilleur état de santé physique et mentale qu’elle soit capable d’atteindre.
+<sup>1.</sup> Les États parties au présent Pacte reconnaissent le droit qu’a toute personne de jouir du meilleur état de santé physique et mentale qu’elle soit capable d’atteindre.
 
 <sup>2.</sup>
 
-Les mesures que les Etats parties au présent Pacte prendront en vue d’assurer le plein exercice de ce droit devront comprendre les mesures nécessaires pour assurer:
+Les mesures que les États parties au présent Pacte prendront en vue d’assurer le plein exercice de ce droit devront comprendre les mesures nécessaires pour assurer:
 
 - a) La diminution de la mortinatalité et de la mortalité infantile, ainsi que le développement sain de l’enfant;
 - b) L’amélioration de tous les aspects de l’hygiène du milieu et de l’hygiène industrielle;
@@ -152,11 +152,11 @@ Les mesures que les Etats parties au présent Pacte prendront en vue d’assurer
 
 #### Art. 13
 
-<sup>1.</sup> Les Etats parties au présent Pacte reconnaissent le droit de toute personne à l’éducation. Ils conviennent que l’éducation doit viser au plein épanouissement de la personnalité humaine et du sens de sa dignité et renforcer le respect des droits de l’homme et des libertés fondamentales. Ils conviennent en outre que l’éducation doit mettre toute personne en mesure de jouer un rôle utile dans une société libre, favoriser la compréhension, la tolérance et l’amitié entre toutes les nations et tous les groupes raciaux, ethniques ou religieux et encourager le développement des activités des Nations Unies pour le maintien de la paix.
+<sup>1.</sup> Les États parties au présent Pacte reconnaissent le droit de toute personne à l’éducation. Ils conviennent que l’éducation doit viser au plein épanouissement de la personnalité humaine et du sens de sa dignité et renforcer le respect des droits de l’homme et des libertés fondamentales. Ils conviennent en outre que l’éducation doit mettre toute personne en mesure de jouer un rôle utile dans une société libre, favoriser la compréhension, la tolérance et l’amitié entre toutes les nations et tous les groupes raciaux, ethniques ou religieux et encourager le développement des activités des Nations Unies pour le maintien de la paix.
 
 <sup>2.</sup>
 
-Les Etats parties au présent Pacte reconnaissent qu’en vue d’assurer le plein exercice de ce droit:
+Les États parties au présent Pacte reconnaissent qu’en vue d’assurer le plein exercice de ce droit:
 
 - a) l’enseignement primaire doit être obligatoire et accessible gratuitement à tous;
 - b) l’enseignement secondaire, sous ses différentes formes, y compris l’enseignement secondaire technique et professionnel, doit être généralisé et rendu accessible à tous par tous les moyens appropriés et notamment par l’instauration progressive de la gratuité;
@@ -164,46 +164,46 @@ Les Etats parties au présent Pacte reconnaissent qu’en vue d’assurer le ple
 - d) l’éducation de base doit être encouragée ou intensifiée, dans toute la mesure possible, pour les personnes qui n’ont pas reçu d’instruction primaire ou qui ne l’ont pas reçue jusqu’à son terme;
 - e) il faut poursuivre activement le développement d’un réseau scolaire à tous les échelons, établir un système adéquat de bourses et améliorer de façon continue les conditions matérielles du personnel enseignant.
 
-<sup>3.</sup> Les Etats parties au présent Pacte s’engagent à respecter la liberté des parents et, le cas échéant, des tuteurs légaux, de choisir pour leurs enfants des établissements autres que ceux des pouvoirs publics, mais conformes aux normes minimales qui peuvent être prescrites ou approuvées par l’Etat en matière d’éducation, et de faire assurer l’éducation religieuse et morale de leurs enfants conformément à leurs propres convictions.
+<sup>3.</sup> Les États parties au présent Pacte s’engagent à respecter la liberté des parents et, le cas échéant, des tuteurs légaux, de choisir pour leurs enfants des établissements autres que ceux des pouvoirs publics, mais conformes aux normes minimales qui peuvent être prescrites ou approuvées par l’État en matière d’éducation, et de faire assurer l’éducation religieuse et morale de leurs enfants conformément à leurs propres convictions.
 
-<sup>4.</sup> Aucune disposition du présent article ne doit être interprétée comme portant atteinte à la liberté des individus et des personnes morales de créer et de diriger des établissements d’enseignement, sous réserve que les principes énoncés au par. 1 du présent article soient observés et que l’éducation donnée dans ces établissements soit conforme aux normes minimales qui peuvent être prescrites par l’Etat.
+<sup>4.</sup> Aucune disposition du présent article ne doit être interprétée comme portant atteinte à la liberté des individus et des personnes morales de créer et de diriger des établissements d’enseignement, sous réserve que les principes énoncés au par. 1 du présent article soient observés et que l’éducation donnée dans ces établissements soit conforme aux normes minimales qui peuvent être prescrites par l’État.
 
 #### Art. 14
 
-Tout Etat partie au présent Pacte qui, au moment où il devient partie, n’a pas encore pu assurer dans sa métropole ou dans les territoires placés sous sa juridiction le caractère obligatoire et la gratuité de l’enseignement primaire s’engage à établir et à adopter, dans un délai de deux ans, un plan détaillé des mesures nécessaires pour réaliser progressivement, dans un nombre raisonnable d’années fixé par ce plan, la pleine application du principe de l’enseignement primaire obligatoire et gratuit pour tous.
+Tout État partie au présent Pacte qui, au moment où il devient partie, n’a pas encore pu assurer dans sa métropole ou dans les territoires placés sous sa juridiction le caractère obligatoire et la gratuité de l’enseignement primaire s’engage à établir et à adopter, dans un délai de deux ans, un plan détaillé des mesures nécessaires pour réaliser progressivement, dans un nombre raisonnable d’années fixé par ce plan, la pleine application du principe de l’enseignement primaire obligatoire et gratuit pour tous.
 
 #### Art. 15
 
 <sup>1.</sup>
 
-Les Etats parties au présent Pacte reconnaissent à chacun le droit:
+Les États parties au présent Pacte reconnaissent à chacun le droit:
 
 - a) de participer à la vie culturelle;
 - b) de bénéficier du progrès scientifique et de ses applications;
 - c) de bénéficier de la protection des intérêts moraux et matériels découlant de toute production scientifique, littéraire ou artistique dont il est l’auteur.
 
-<sup>2.</sup> Les mesures que les Etats parties au présent Pacte prendront en vue d’assurer le plein exercice de ce droit devront comprendre celles qui sont nécessaires pour assurer le maintien, le développement et la diffusion de la science et de la culture.
+<sup>2.</sup> Les mesures que les États parties au présent Pacte prendront en vue d’assurer le plein exercice de ce droit devront comprendre celles qui sont nécessaires pour assurer le maintien, le développement et la diffusion de la science et de la culture.
 
-<sup>3.</sup> Les Etats parties au présent Pacte s’engagent à respecter la liberté indispensable à la recherche scientifique et aux activités créatrices.
+<sup>3.</sup> Les États parties au présent Pacte s’engagent à respecter la liberté indispensable à la recherche scientifique et aux activités créatrices.
 
-<sup>4.</sup> Les Etats parties au présent Pacte reconnaissent les bienfaits qui doivent résulter de l’encouragement et du développement de la coopération et des contacts internationaux dans le domaine de la science et de la culture.
+<sup>4.</sup> Les États parties au présent Pacte reconnaissent les bienfaits qui doivent résulter de l’encouragement et du développement de la coopération et des contacts internationaux dans le domaine de la science et de la culture.
 
 ## Quatrième partie
 
 #### Art. 16
 
-<sup>1.</sup> Les Etats parties au présent Pacte s’engagent à présenter, conformément aux dispositions de la présente partie du Pacte, des rapports sur les mesures qu’ils auront adoptées et sur les progrès accomplis en vue d’assurer le respect des droits reconnus dans le Pacte.
+<sup>1.</sup> Les États parties au présent Pacte s’engagent à présenter, conformément aux dispositions de la présente partie du Pacte, des rapports sur les mesures qu’ils auront adoptées et sur les progrès accomplis en vue d’assurer le respect des droits reconnus dans le Pacte.
 
 - 2\. a) Tous les rapports sont adressés au Secrétaire général de l’Organisation des Nations Unies, qui en transmet copie au Conseil économique et social, pour examen, conformément aux dispositions du présent Pacte.
-- b) Le Secrétaire général de l’Organisation des Nations Unies transmet également aux institutions spécialisées copie des rapports, ou de toutes parties pertinentes des rapports, envoyés par les Etats parties au présent Pacte qui sont également membres desdites institutions spécialisées, pour autant que ces rapports, ou parties de rapports, ont trait à des questions relevant de la compétence desdites institutions aux termes de leurs actes constitutifs respectifs.
+- b) Le Secrétaire général de l’Organisation des Nations Unies transmet également aux institutions spécialisées copie des rapports, ou de toutes parties pertinentes des rapports, envoyés par les États parties au présent Pacte qui sont également membres desdites institutions spécialisées, pour autant que ces rapports, ou parties de rapports, ont trait à des questions relevant de la compétence desdites institutions aux termes de leurs actes constitutifs respectifs.
 
 #### Art. 17
 
-<sup>1.</sup> Les Etats parties au présent Pacte présentent leurs rapports par étapes, selon un programme qu’établira le Conseil économique et social dans un délai d’un an à compter de la date d’entrée en vigueur du présent Pacte, après avoir consulté les Etats parties et les institutions spécialisées intéressées.
+<sup>1.</sup> Les États parties au présent Pacte présentent leurs rapports par étapes, selon un programme qu’établira le Conseil économique et social dans un délai d’un an à compter de la date d’entrée en vigueur du présent Pacte, après avoir consulté les États parties et les institutions spécialisées intéressées.
 
-<sup>2.</sup> Les rapports peuvent faire connaître les facteurs et les difficultés empêchant ces Etats de s’acquitter pleinement des obligations prévues au présent Pacte.
+<sup>2.</sup> Les rapports peuvent faire connaître les facteurs et les difficultés empêchant ces États de s’acquitter pleinement des obligations prévues au présent Pacte.
 
-<sup>3.</sup> Dans le cas où des renseignements à ce sujet ont déjà été adressés à l’Organisation des Nations Unies ou à une institution spécialisée par un Etat partie au Pacte, il ne sera pas nécessaire de reproduire lesdits renseignements et une référence précise à ces renseignements suffira.
+<sup>3.</sup> Dans le cas où des renseignements à ce sujet ont déjà été adressés à l’Organisation des Nations Unies ou à une institution spécialisée par un État partie au Pacte, il ne sera pas nécessaire de reproduire lesdits renseignements et une référence précise à ces renseignements suffira.
 
 #### Art. 18
 
@@ -211,15 +211,15 @@ En vertu des responsabilités qui lui sont conférées par la Charte des Nations
 
 #### Art. 19
 
-Le Conseil économique et social peut renvoyer à la Commission des droits de l’homme aux fins d’étude et de recommandation d’ordre général ou pour information, s’il y a lieu, les rapports concernant les droits de l’homme que communiquent les Etats conformément aux art. 16 et 17 et les rapports concernant les droits de l’homme que communiquent les institutions spécialisées conformément à l’art. 18.
+Le Conseil économique et social peut renvoyer à la Commission des droits de l’homme aux fins d’étude et de recommandation d’ordre général ou pour information, s’il y a lieu, les rapports concernant les droits de l’homme que communiquent les États conformément aux art. 16 et 17 et les rapports concernant les droits de l’homme que communiquent les institutions spécialisées conformément à l’art. 18.
 
 #### Art. 20
 
-Les Etats parties au présent Pacte et les institutions spécialisées intéressées peuvent présenter au Conseil économique et social des observations sur toute recommandation d’ordre général faite en vertu de l’art. 19 ou sur toute mention d’une recommandation d’ordre général figurant dans un rapport de la Commission des droits de l’homme ou dans tout document mentionné dans ledit rapport.
+Les États parties au présent Pacte et les institutions spécialisées intéressées peuvent présenter au Conseil économique et social des observations sur toute recommandation d’ordre général faite en vertu de l’art. 19 ou sur toute mention d’une recommandation d’ordre général figurant dans un rapport de la Commission des droits de l’homme ou dans tout document mentionné dans ledit rapport.
 
 #### Art. 21
 
-Le Conseil économique et social peut présenter de temps en temps à l’Assemblée générale des rapports contenant des recommandations de caractère général et un résumé des renseignements reçus des Etats parties au présent Pacte et des institutions spécialisées sur les mesures prises et les progrès accomplis en vue d’assurer le respect général des droits reconnus dans le présent Pacte.
+Le Conseil économique et social peut présenter de temps en temps à l’Assemblée générale des rapports contenant des recommandations de caractère général et un résumé des renseignements reçus des États parties au présent Pacte et des institutions spécialisées sur les mesures prises et les progrès accomplis en vue d’assurer le respect général des droits reconnus dans le présent Pacte.
 
 #### Art. 22
 
@@ -227,7 +227,7 @@ Le Conseil économique et social peut porter à l’attention des autres organes
 
 #### Art. 23
 
-Les Etats parties au présent Pacte conviennent que les mesures d’ordre international destinées à assurer la réalisation des droits reconnus dans ledit Pacte comprennent notamment la conclusion de conventions, l’adoption de recommandations, la fourniture d’une assistance technique et l’organisation, en liaison avec les gouvernements intéressés, de réunions régionales et de réunions techniques aux fins de consultations et d’études.
+Les États parties au présent Pacte conviennent que les mesures d’ordre international destinées à assurer la réalisation des droits reconnus dans ledit Pacte comprennent notamment la conclusion de conventions, l’adoption de recommandations, la fourniture d’une assistance technique et l’organisation, en liaison avec les gouvernements intéressés, de réunions régionales et de réunions techniques aux fins de consultations et d’études.
 
 #### Art. 24
 
@@ -241,15 +241,15 @@ Aucune disposition du présent Pacte ne sera interprétée comme portant atteint
 
 #### Art. 26
 
-<sup>1.</sup> Le présent Pacte est ouvert à la signature de tout Etat Membre de l’Organisation des Nations Unies ou membre de l’une quelconque de ses institutions spécialisées, de tout Etat partie au Statut de la Cour internationale de Justice[^26-1], ainsi que tout autre Etat invité par l’Assemblée générale des Nations Unies à devenir partie au présent Pacte.
+<sup>1.</sup> Le présent Pacte est ouvert à la signature de tout État Membre de l’Organisation des Nations Unies ou membre de l’une quelconque de ses institutions spécialisées, de tout État partie au Statut de la Cour internationale de Justice[^26-1], ainsi que tout autre État invité par l’Assemblée générale des Nations Unies à devenir partie au présent Pacte.
 
 <sup>2.</sup> Le présent Pacte est sujet à ratification et les instruments de ratification seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>3.</sup> Le présent Pacte sera ouvert à l’adhésion de tout Etat visé au par. 1 du présent article.
+<sup>3.</sup> Le présent Pacte sera ouvert à l’adhésion de tout État visé au par. 1 du présent article.
 
 <sup>4.</sup> L’adhésion se fera par le dépôt d’un instrument d’adhésion auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>5.</sup> Le Secrétaire général de l’Organisation des Nations Unies informe tous les Etats qui ont signé le présent Pacte ou qui y ont adhéré du dépôt de chaque instrument de ratification ou d’adhésion.
+<sup>5.</sup> Le Secrétaire général de l’Organisation des Nations Unies informe tous les États qui ont signé le présent Pacte ou qui y ont adhéré du dépôt de chaque instrument de ratification ou d’adhésion.
 
 [^26-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
 
@@ -257,23 +257,23 @@ Aucune disposition du présent Pacte ne sera interprétée comme portant atteint
 
 <sup>1.</sup> Le présent Pacte entrera en vigueur trois mois après la date du dépôt auprès du Secrétaire général de l’Organisation des Nations Unies du trente-cinquième instrument de ratification ou d’adhésion.
 
-<sup>2.</sup> Pour chacun des Etats qui ratifieront le présent Pacte ou y adhéreront après le dépôt du trente-cinquième instrument de ratification ou d’adhésion, ledit Pacte entrera en vigueur trois mois après la date du dépôt par cet Etat de son instrument de ratification ou d’adhésion.
+<sup>2.</sup> Pour chacun des États qui ratifieront le présent Pacte ou y adhéreront après le dépôt du trente-cinquième instrument de ratification ou d’adhésion, ledit Pacte entrera en vigueur trois mois après la date du dépôt par cet État de son instrument de ratification ou d’adhésion.
 
 #### Art. 28
 
-Les dispositions du présent Pacte s’appliquent, sans limitation ni exception aucune, à toutes les unités constitutives des Etats fédératifs.
+Les dispositions du présent Pacte s’appliquent, sans limitation ni exception aucune, à toutes les unités constitutives des États fédératifs.
 
 #### Art. 29
 
-<sup>1.</sup> Tout Etat partie au présent Pacte peut proposer un amendement et en déposer le texte auprès du Secrétaire général de l’Organisation des Nations Unies. Le Secrétaire général transmet alors tous projets d’amendements aux Etats parties au présent Pacte en leur demandant de lui indiquer s’ils désirent voir convoquer une conférence d’Etats parties pour examiner ces projets et les mettre aux voix. Si un tiers au moins des Etats se déclarent en faveur de cette convocation, le Secrétaire général convoque la conférence sous les auspices de l’Organisation des Nations Unies. Tout amendement adopté par la majorité des Etats présents et votants à la conférence est soumis pour approbation à l’Assemblée générale des Nations Unies.
+<sup>1.</sup> Tout État partie au présent Pacte peut proposer un amendement et en déposer le texte auprès du Secrétaire général de l’Organisation des Nations Unies. Le Secrétaire général transmet alors tous projets d’amendements aux États parties au présent Pacte en leur demandant de lui indiquer s’ils désirent voir convoquer une conférence d’États parties pour examiner ces projets et les mettre aux voix. Si un tiers au moins des États se déclarent en faveur de cette convocation, le Secrétaire général convoque la conférence sous les auspices de l’Organisation des Nations Unies. Tout amendement adopté par la majorité des États présents et votants à la conférence est soumis pour approbation à l’Assemblée générale des Nations Unies.
 
-<sup>2.</sup> Ces amendements entrent en vigueur lorsqu’ils ont été approuvés par l’Assemblée générale des Nations Unies et acceptés, conformément à leurs règles constitutionnelles respectives, par une majorité des deux tiers des Etats parties au présent Pacte.
+<sup>2.</sup> Ces amendements entrent en vigueur lorsqu’ils ont été approuvés par l’Assemblée générale des Nations Unies et acceptés, conformément à leurs règles constitutionnelles respectives, par une majorité des deux tiers des États parties au présent Pacte.
 
-<sup>3.</sup> Lorsque ces amendements entrent en vigueur, ils sont obligatoires pour les Etats parties qui les ont acceptés, les autres Etats parties restant liés par les dispositions du présent Pacte et par tout amendement antérieur qu’ils ont accepté.
+<sup>3.</sup> Lorsque ces amendements entrent en vigueur, ils sont obligatoires pour les États parties qui les ont acceptés, les autres États parties restant liés par les dispositions du présent Pacte et par tout amendement antérieur qu’ils ont accepté.
 
 #### Art. 30
 
-Indépendamment des notifications prévues au par. 5 de l’art. 26, le Secrétaire général de l’Organisation des Nations Unies informera tous les Etats visés au par. 1 dudit Article:
+Indépendamment des notifications prévues au par. 5 de l’art. 26, le Secrétaire général de l’Organisation des Nations Unies informera tous les États visés au par. 1 dudit Article:
 
 - a) des signatures apposées au présent Pacte et des instruments de ratification et d’adhésion déposés conformément à l’art. 26;
 - b) de la date à laquelle le présent Pacte entrera en vigueur conformément à l’art. 27 et de la date à laquelle entreront en vigueur les amendements prévus à l’art. 29.
@@ -282,20 +282,21 @@ Indépendamment des notifications prévues au par. 5 de l’art. 26, le Secréta
 
 <sup>1.</sup> Le présent Pacte, dont les textes anglais, chinois, espagnol, français et russe font également foi, sera déposé aux archives de l’Organisation des Nations Unies.
 
-<sup>2.</sup> Le Secrétaire général de l’Organisation des Nations Unies transmettra une copie certifiée conforme du présent Pacte à tous les Etats visés à l’art. 26.
+<sup>2.</sup> Le Secrétaire général de l’Organisation des Nations Unies transmettra une copie certifiée conforme du présent Pacte à tous les États visés à l’art. 26.
 
 (Suivent les signatures)
 
-Champ d’application le 28 mai 2019**[^t-2]**
+Champ d’application le 17 février 2022**[^t-2]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan\*</td><td>24 janvier</td><td>1983 A</td><td>24 avril</td><td>1983</td></tr>
 <tr><td>Afrique du Sud\*</td><td>12 janvier</td><td>2015</td><td>12 avril</td><td>2015</td></tr>
 <tr><td>Albanie</td><td>4 octobre</td><td>1991 A</td><td>4 janvier</td><td>1992</td></tr>
 <tr><td>Algérie\*</td><td>12 septembre</td><td>1989</td><td>12 décembre</td><td>1989</td></tr>
 <tr><td>Allemagne\*\*</td><td>17 décembre</td><td>1973</td><td>3 janvier</td><td>1976</td></tr>
 <tr><td>Angola</td><td>10 janvier</td><td>1992 A</td><td>10 avril</td><td>1992</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>3 juillet</td><td>2019 A</td><td>3 octobre</td><td>2019</td></tr>
 <tr><td>Argentine</td><td>8 août</td><td>1986</td><td>8 novembre</td><td>1986</td></tr>
 <tr><td>Arménie</td><td>13 septembre</td><td>1993 A</td><td>13 décembre</td><td>1993</td></tr>
 <tr><td>Australie</td><td>10 décembre</td><td>1975</td><td>10 mars</td><td>1976</td></tr>
@@ -335,14 +336,14 @@ Champ d’application le 28 mai 2019**[^t-2]**
 <tr><td>Danemark\* \*\*</td><td>6 janvier</td><td>1972</td><td>3 janvier</td><td>1976</td></tr>
 <tr><td>Djibouti</td><td>5 novembre</td><td>2002 A</td><td>5 février</td><td>2003</td></tr>
 <tr><td>Dominique</td><td>17 juin</td><td>1993 A</td><td>17 septembre</td><td>1993</td></tr>
-<tr><td>Egypte\*</td><td>14 janvier</td><td>1982</td><td>14 avril</td><td>1982</td></tr>
+<tr><td>Égypte\*</td><td>14 janvier</td><td>1982</td><td>14 avril</td><td>1982</td></tr>
 <tr><td>El Salvador</td><td>30 novembre</td><td>1979</td><td>29 février</td><td>1980</td></tr>
-<tr><td>Equateur</td><td>6 mars</td><td>1969</td><td>3 janvier</td><td>1976</td></tr>
-<tr><td>Erythrée</td><td>17 avril</td><td>2001 A</td><td>17 juillet</td><td>2001</td></tr>
+<tr><td>Équateur</td><td>6 mars</td><td>1969</td><td>3 janvier</td><td>1976</td></tr>
+<tr><td>Érythrée</td><td>17 avril</td><td>2001 A</td><td>17 juillet</td><td>2001</td></tr>
 <tr><td>Espagne\*\*</td><td>27 avril</td><td>1977</td><td>27 juillet</td><td>1977</td></tr>
 <tr><td>Estonie\*\*</td><td>21 octobre</td><td>1991 A</td><td>21 janvier</td><td>1992</td></tr>
 <tr><td>Eswatini</td><td>26 mars</td><td>2004 A</td><td>26 juin</td><td>2004</td></tr>
-<tr><td>Ethiopie</td><td>11 juin</td><td>1993 A</td><td>11 septembre</td><td>1993</td></tr>
+<tr><td>Éthiopie</td><td>11 juin</td><td>1993 A</td><td>11 septembre</td><td>1993</td></tr>
 <tr><td>Fidji</td><td>16 août</td><td>2018 A</td><td>16 novembre</td><td>2018</td></tr>
 <tr><td>Finlande\*\*</td><td>19 août</td><td>1975</td><td>3 janvier</td><td>1976</td></tr>
 <tr><td>France\* \*\*</td><td>4 novembre</td><td>1980 A</td><td>4 février</td><td>1981</td></tr>
@@ -360,8 +361,8 @@ Champ d’application le 28 mai 2019**[^t-2]**
 <tr><td>Haïti</td><td>8 octobre</td><td>2013 A</td><td>8 janvier</td><td>2014</td></tr>
 <tr><td>Honduras</td><td>17 février</td><td>1981</td><td>17 mai</td><td>1981</td></tr>
 <tr><td>Hongrie\* \*\*</td><td>17 janvier</td><td>1974</td><td>3 janvier</td><td>1976</td></tr>
-<tr><td>Iles Marshall</td><td>12 mars</td><td>2018 A</td><td>12 juin</td><td>2018</td></tr>
-<tr><td>Iles Salomon</td><td>17 mars</td><td>1982 S</td><td>7 juillet</td><td>1978</td></tr>
+<tr><td>Îles Marshall</td><td>12 mars</td><td>2018 A</td><td>12 juin</td><td>2018</td></tr>
+<tr><td>Îles Salomon</td><td>17 mars</td><td>1982 S</td><td>7 juillet</td><td>1978</td></tr>
 <tr><td>Inde\*</td><td>10 avril</td><td>1979 A</td><td>10 juillet</td><td>1979</td></tr>
 <tr><td>Indonésie\*</td><td>23 février</td><td>2006 A</td><td>23 mai</td><td>2006</td></tr>
 <tr><td>Iran</td><td>24 juin</td><td>1975</td><td>3 janvier</td><td>1976</td></tr>
@@ -408,6 +409,7 @@ Champ d’application le 28 mai 2019**[^t-2]**
 <tr><td>Nigéria</td><td>29 juillet</td><td>1993 A</td><td>29 octobre</td><td>1993</td></tr>
 <tr><td>Norvège\* \*\*</td><td>13 septembre</td><td>1972</td><td>3 janvier</td><td>1976</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>28 décembre</td><td>1978</td><td>28 mars</td><td>1979</td></tr>
+<tr><td>Oman\*</td><td>9 juin</td><td>2020 A</td><td>9 septembre</td><td>2020</td></tr>
 <tr><td>Ouganda</td><td>21 janvier</td><td>1987 A</td><td>21 avril</td><td>1987</td></tr>
 <tr><td>Ouzbékistan</td><td>28 septembre</td><td>1995 A</td><td>28 décembre</td><td>1995</td></tr>
 <tr><td>Pakistan\* \*\*</td><td>17 avril</td><td>2008</td><td>17 juillet</td><td>2008</td></tr>
@@ -433,12 +435,12 @@ Champ d’application le 28 mai 2019**[^t-2]**
 <tr><td>Bermudes</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
 <tr><td>Gibraltar</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
 <tr><td>Guernesey</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
-<tr><td>Ile de Man</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
-<tr><td>Iles Cayman</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
-<tr><td>Iles Falkland</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
-<tr><td>Iles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
-<tr><td>Iles Turques et Caïques</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
-<tr><td>Iles Vierges britanniques</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
+<tr><td>Île de Man</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
+<tr><td>Îles Cayman</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
+<tr><td>Îles Falkland</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
+<tr><td>Îles Turques et Caïques</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
+<tr><td>Îles Vierges britanniques</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
 <tr><td>Jersey</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
 <tr><td>Montserrat</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
@@ -480,4 +482,4 @@ Champ d’application le 28 mai 2019**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1993 725](https://fedlex.data.admin.ch/eli/oc/1993/725_725_725), [1993 3101](https://fedlex.data.admin.ch/eli/oc/1993/3101_3101_3101), [1996 716](https://fedlex.data.admin.ch/eli/oc/1996/716_716_716), [2004 3875](https://fedlex.data.admin.ch/eli/oc/2004/536), [2006 591](https://fedlex.data.admin.ch/eli/oc/2006/83), [2007 413](https://fedlex.data.admin.ch/eli/oc/2007/81), [2009 587](https://fedlex.data.admin.ch/eli/oc/2009/102), [2012 3147](https://fedlex.data.admin.ch/eli/oc/2012/364), [2015 989](https://fedlex.data.admin.ch/eli/oc/2015/184), [2018 2997](https://fedlex.data.admin.ch/eli/oc/2018/460), [2019 1789](https://fedlex.data.admin.ch/eli/oc/2019/327). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1993 725](https://fedlex.data.admin.ch/eli/oc/1993/725_725_725), [3101](https://fedlex.data.admin.ch/eli/oc/1993/3101_3101_3101); [1996 716](https://fedlex.data.admin.ch/eli/oc/1996/716_716_716); [2004 3875](https://fedlex.data.admin.ch/eli/oc/2004/536); [2006 591](https://fedlex.data.admin.ch/eli/oc/2006/83); [2007 413](https://fedlex.data.admin.ch/eli/oc/2007/81); [2009 587](https://fedlex.data.admin.ch/eli/oc/2009/102); [2012 3147](https://fedlex.data.admin.ch/eli/oc/2012/364); [2015 989](https://fedlex.data.admin.ch/eli/oc/2015/184); [2018 2997](https://fedlex.data.admin.ch/eli/oc/2018/460); [2019 1789](https://fedlex.data.admin.ch/eli/oc/2019/327); [2022 103](https://fedlex.data.admin.ch/eli/oc/2022/103). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
