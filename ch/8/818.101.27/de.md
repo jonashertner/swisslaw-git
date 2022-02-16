@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 23. Juni 2021 über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung internationaler Personenverkehr)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: de
-version: 2022-01-31
+version: 2022-02-17
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220131/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220131-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220131/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220217/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220217-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220217/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220131/de"
 
 (Covid-19-Verordnung internationaler Personenverkehr)**[^t-1]**
 
-vom 23. Juni 2021 (Stand am 31. Januar 2022)
+vom 23. Juni 2021 (Stand am 17. Februar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -39,14 +39,18 @@ verordnet:
 
 <sup>2</sup>
 
-Sie regelt für Personen, die in die Schweiz einreisen:
+Sie regelt für Personen, die aus einem Staat oder Gebiet mit einer besorgniserregenden Virusvariante in die Schweiz einreisen:
 
-- a. die Erfassung von Kontaktdaten und soweit erforderlich von Gesundheitsdaten;
-- b. die Testpflicht.
+- a. die Erfassung von Kontaktdaten nach Artikel 49 der Epidemienverordnung vom 29. April 2015[^1-2] (Kontaktdaten) und soweit erforderlich von Gesundheitsdaten;
+- b. die Test- und die Quarantänepflicht;
+- c. den Vollzug der Quarantäne.[^1-3]
 
-<sup>3</sup> Sie regelt zudem für Personen, die aus einem Staat oder Gebiet mit einer besorgniserregenden Virusvariante einreisen, die Quarantäne und den Vollzug der Quarantäne.
+<sup>3</sup> …[^1-4]
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^1-2]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
+[^1-3]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
+[^1-4]: Aufgehoben durch Ziff. I der V vom 16. Febr. 2022, mit Wirkung seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 ## 2. Abschnitt: Staat oder Gebiet mit einer besorgniserregenden Virusvariante
 
@@ -74,12 +78,7 @@ Massgebend für die Einstufung als Staat oder Gebiet mit einer besorgniserregend
 
 **Verpflichtete Personen**[^3-1]
 
-<sup>1</sup>
-
-Zur Erfassung von Kontaktdaten nach Artikel 49 der Epidemienverordnung vom 29. April 2015[^3-2] (Kontaktdaten) und soweit erforderlich von Gesundheitsdaten verpflichtet sind Personen, die:
-
-- a. aus einem Staat oder Gebiet nach Anhang 1 einreisen;
-- b. mit einem Flugverkehrs- oder einem Busunternehmen, das Fernverkehrsreisen anbietet, in die Schweiz einreisen.
+<sup>1</sup> Zur Erfassung von Kontaktdaten und soweit erforderlich von Gesundheitsdaten verpflichtet sind Personen, die aus einem Staat oder Gebiet nach Anhang 1 einreisen. [^3-2]
 
 <sup>2</sup>
 
@@ -89,7 +88,7 @@ Ausgenommen von dieser Pflicht sind Personen, die:
 - b. ohne Zwischenhalt durch die Schweiz durchreisen.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022, in Kraft seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
-[^3-2]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
+[^3-2]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 #### Art. 4
 
@@ -148,41 +147,13 @@ Sobald es Kenntnis von der Einreise einer mit Sars-CoV-2 infizierten Person erh�
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022, in Kraft seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
-## 4. Abschnitt:**** Testpflicht vor der Abreise
-
-[^sec4-1]
-
-[^sec4-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+## 4. Abschnitt: …
 
 #### Art. 7
 
-<sup>1</sup> Die Luftverkehrsunternehmen und die Busunternehmen, die Fernverkehrsreisen anbieten, müssen die Passagiere informieren, dass diese sich vor der Abreise in die Schweiz auf Sars-CoV-2 testen lassen müssen und nur dann zum Flugzeug oder Bus zugelassen werden, wenn sie ein negatives Testergebnis vorweisen.[^7-1]
+[^7-1]
 
-<sup>2</sup> Sie müssen vor der Abreise überprüfen, ob ein negatives Testergebnis vorliegt. Die Anforderungen an den Test und den Testnachweis werden in Anhang 2*a* geregelt.[^7-2]
-
-<sup>3</sup> Die Luftverkehrsunternehmen und die Busunternehmen müssen Passagieren, die kein negatives Testergebnis vorweisen, den Zutritt zum Flugzeug oder Bus verweigern.
-
-<sup>4</sup> c.[^7-3] Personen, die aus Staaten oder Gebieten einreisen, die nicht in Anhang 1 Ziffer 1 aufgeführt sind, und auf der Durchreise einen schweizerischen Flughafen nutzen, ohne diesen vor der Weiterreise zu verlassen;
-
-Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Testergebnisses befördern:
-
-- a. Personen unter 16 Jahren;
-- b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen dringend in die Schweiz transportiert werden müssen;
-
-- c<sup>bis</sup>.[^7-4] Personen, die mit einem Busunternehmen durch die Schweiz reisen, ohne den Bus zu verlassen;
-- d.[^7-5] Personen, die aus Staaten oder Gebieten einreisen, die nicht in Anhang 1 Ziffer 1 aufgeführt sind, und den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, die Dauer, für welche die Impfung gilt, sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
-- e.[^7-6] Personen, die aus Staaten oder Gebieten einreisen, die nicht in Anhang 1 Ziffer 1 aufgeführt sind, und den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
-- f. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen Sars-CoV-2-Test machen können.
-
-<sup>5</sup> Bei der Einreise aus einem Staat oder Gebiet nach Anhang 1 Ziffer 1 müssen bereits Personen ab sechs Jahren ein negatives Testergebnis nach Absatz 2 vorweisen können.[^7-7]
-
-[^7-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^7-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
-[^7-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^7-4]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 4. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^7-5]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022, in Kraft seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
-[^7-6]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022, in Kraft seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
-[^7-7]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^7-1]: Aufgehoben durch Ziff. I der V vom 16. Febr. 2022, mit Wirkung seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 ## 5. Abschnitt: Test-, Quarantäne- und Meldepflicht der einreisenden Personen
 
@@ -190,7 +161,7 @@ Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Testergeb
 
 **Testpflicht**[^8-1]
 
-<sup>1</sup> In die Schweiz einreisende Personen müssen ein negatives Testergebnis vorweisen können. Die Anforderungen an die Tests sowie die Testnachweise werden in Anhang 2*a* geregelt.[^8-2]
+<sup>1</sup> Personen ab sechs Jahren, die aus einem Staat oder Gebiet nach Anhang 1 einreisen, müssen ein negatives Testergebnis vorweisen können. Die Anforderungen an die Tests sowie die Testnachweise werden in Anhang 2*a* geregelt. [^8-2]
 
 <sup>2</sup>
 
@@ -204,10 +175,10 @@ Wer bei der Einreise in die Schweiz kein negatives Testergebnis nach Absatz 1 vo
 
 <sup>3</sup> …[^8-9]
 
-<sup>4</sup> Bei der Einreise aus einem Staat oder Gebiet nach Anhang 1 Ziffer 1 gilt Absatz 1 bereits für Personen ab sechs Jahren.[^8-10]
+<sup>4</sup> …[^8-10]
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^8-2]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 [^8-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^8-4]: Fassung gemäss Anhang Ziff. 2 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 [^8-5]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
@@ -215,7 +186,7 @@ Wer bei der Einreise in die Schweiz kein negatives Testergebnis nach Absatz 1 vo
 [^8-7]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^8-8]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)). Aufgehoben durch Ziff. I der V vom 19. Jan. 2022, mit Wirkung seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 [^8-9]: Aufgehoben durch Ziff. I der V vom 19. Jan. 2022, mit Wirkung seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
-[^8-10]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-10]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)). Aufgehoben durch Ziff. I der V vom 16. Febr. 2022, mit Wirkung seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 #### Art. 9
 
@@ -259,7 +230,7 @@ Von der Testpflicht nach Artikel 8 und der Quarantänepflicht nach Artikel 9 aus
 
 Von der Testpflicht nach Artikel 8 ausgenommen sind zudem:
 
-- a.[^9a-6] Personen unter 16 Jahren, ausser sie reisen aus einem Staat oder Gebiet nach Anhang 1 Ziffer 1 ein;
+- a.[^9a-6] …
 - b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen Sars-CoV-2-Test machen können;
 - c.[^9a-7] Personen, die aus Gebieten nach Anhang 1*a* einreisen, sofern der entsprechende Staat oder das entsprechende Gebiet nicht in Anhang 1 Ziffer 1 aufgeführt ist;
 - d.[^9a-8] Personen, deren Tätigkeit in der Schweiz zwingend notwendig ist für die Aufrechterhaltung der Funktionsfähigkeit von institutionellen Begünstigten im Sinne von Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007[^9a-9] und die dies mit einer Bestätigung des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) nachweisen können;
@@ -294,7 +265,7 @@ Von der Quarantänepflicht nach Artikel 9 ausgenommen sind Personen:
 [^9a-3]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^9a-4]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022, in Kraft seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 [^9a-5]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022, in Kraft seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
-[^9a-6]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9a-6]: Aufgehoben durch Ziff. I der V vom 16. Febr. 2022, mit Wirkung seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 [^9a-7]: Fassung gemäss Ziff. I der V vom 1. Okt. 2021, in Kraft seit 4. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 [^9a-8]: Eingefügt durch Ziff. I der V vom 1. Okt. 2021, in Kraft seit 4. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 [^9a-9]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
@@ -326,7 +297,7 @@ Wer sich nach Artikel 9 in Einreisequarantäne begeben muss, muss die Einreise i
 
 Die Grenzkontrollbehörden können Personen bei der Einreise in die Schweiz risikobasiert kontrollieren. Sie prüfen dabei:[^11-2]
 
-- a.[^11-3] das Vorliegen eines negativen Testergebnisses gemäss Artikel 8 Absätze 1 und 4;
+- a.[^11-3] das Vorliegen eines negativen Testergebnisses gemäss Artikel 8 Absatz 1;
 - b. die Erfassung der Kontaktdaten gemäss Artikel 4 Absatz 1.
 
 <sup>2</sup> Kann die kontrollierte Person das negative Testergebnis oder die Erfassung der Kontaktdaten nicht nachweisen, so erstattet die Grenzkontrollbehörde der zuständigen kantonalen Behörde Meldung. Die Meldung umfasst Angaben zur eingereisten Person, zu Zeit und Ort der Kontrolle, zum angegebenen geplanten Aufenthaltsort in der Schweiz sowie das Kontrollergebnis.
@@ -335,7 +306,7 @@ Die Grenzkontrollbehörden können Personen bei der Einreise in die Schweiz risi
 
 [^11-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^11-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^11-3]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 20. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 #### Art. 11a
 
@@ -345,14 +316,9 @@ Die Grenzkontrollbehörden können Personen bei der Einreise in die Schweiz risi
 
 #### Art. 11b
 
-**Kontrollpflicht für Private**[^11b-1]
+[^11b-1]
 
-<sup>1</sup> Wer gewerbsmässig Personen beherbergt, die sich zu touristischen oder geschäftlichen Zwecken in der Schweiz aufhalten, muss prüfen, ob die negativen Testergebnisse nach Artikel 8 Absätze 1 und 4 vorliegen.[^11b-2]
-
-<sup>2</sup> Personen, die kein negatives Testergebnis vorweisen können, sind der zuständigen kantonalen Behörde zu melden.
-
-[^11b-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^11b-2]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022, in Kraft seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^11b-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)). Aufgehoben durch Ziff. I der V vom 16. Febr. 2022, mit Wirkung seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 ## 7. Abschnitt: Nachführung der Anhänge
 
@@ -386,13 +352,13 @@ Diese Verordnung tritt am 26. Juni 2021 um 00.00 Uhr in Kraft.
 
 Anhang 1*[^t-2]*
 
-(Art. 2 Abs. 2 und 3, 3 Abs. 1 Bst. a, 7 Abs. 4 Bst. c und 5, 8 Abs. 4, 9 Abs. 1 und 3, 9*a* Abs. 2 Bst. a und c und 2<sup>bis</sup> Bst. b–f sowie 12 Abs. 1)
+(Art. 2 Abs. 2 und 3, 3 Abs. 1, 9 Abs. 1 und 3, 9*a* Abs. 2 Bst. c sowie 12 Abs. 1)
 
 ## Liste der Staaten und Gebiete mit einer besorgniserregenden Virusvariante****
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 3. Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Bereinigt gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft seit 4. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 3. Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Bereinigt gemäss Ziff. II der V vom 3. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)) und vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete mit einer besorgniserregenden Virusvariante, die immunevasiv ist oder von der noch nicht klar ist, ob sie immunevasiv ist (Art. 2 Abs. 1 und 2)
@@ -405,11 +371,11 @@ Diese Liste enthält zurzeit keine Einträge.
 
 Anhang 1a*[^t-3]*
 
-(Art. 2 Abs. 4, 3 Abs. 2 Bst. d und 9*a* Abs. 2 Bst. c)
+(Art. 2 Abs. 4 und 9*a* Abs. 2 Bst. c)
 
 ## Gebiete an der Grenze zur Schweiz
 
-[^t-3]: Eingefügt durch Ziff. II der V vom 1. Okt. 2021, in Kraft seit 4. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^t-3]: Eingefügt durch Ziff. II der V vom 1. Okt. 2021 ([AS 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)). Bereinigt gemäss Ziff. II der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 Gebiete in Deutschland:
 
@@ -440,11 +406,11 @@ Gebiete in Liechtenstein:
 
 Anhang 2*[^t-4]*
 
-(Art. 9*a* Abs. 2<sup>bis</sup> Bst. a, b und 2<sup>ter</sup> Bst. e und f sowie 12 Abs. 2)
+(Art. 9*a* Abs. 2<sup>ter</sup> Bst. e und f sowie 12 Abs. 2)
 
 ## Geimpfte und genesene Personen
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II der V vom 17. Dez. 2021 ([AS 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)) und Anhang Ziff. 3 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft seit 31. Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Anhang Ziff. 3 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen),([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)) und Ziff. II der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 ### 1 Geimpfte Personen
 
@@ -475,7 +441,7 @@ Anhang 2*[^t-4]*
   Eine Genesung ist für die folgende Zeitdauer gültig:
 
   - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2: vom 11. bis zum 270. Tag nach der Bestätigung der Ansteckung;
-  - b. im Falle einer Analyse auf Sars-CoV-2 Antikörper nach Artikel 16 Absatz 3 Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]: während der Dauer der Gültigkeit des entsprechenden Zertifikats.
+  - b. im Falle einer Analyse auf Sars-CoV-2-Antikörper: während der Dauer der Gültigkeit des entsprechenden Zertifikats (Art. 34*a* Abs. 1 Bst. c der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]).
 
 - 2\.2 Der Nachweis für Genesung kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 2 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021 oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
 - 2\.3
@@ -489,11 +455,11 @@ Anhang 2*[^t-4]*
 
 Anhang 2a*[^t-5]*
 
-(Art. 7 Abs. 2, 8 Abs. 1 und 2<sup>bis</sup> sowie 12 Abs. 3)
+(Art. 8 Abs. 1 und 12 Abs. 3)
 
 ## Anforderungen an Tests und Testnachweise
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Bereinigt gemäss Ziff. II der V vom 3. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)) und Anhang Ziff. 2 der V vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Bereinigt gemäss Ziff. II der V vom 3. Dez. 2021 ([AS 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)), Anhang Ziff. 2 der V vom 17. Dez. 2021 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)) und Ziff. II der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 - 1\.
 

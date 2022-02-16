@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre la pandémie de COVID-19 dans le domaine du transport international de voyageurs (Ordonnance COVID-19 transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: fr
-version: 2022-01-31
+version: 2022-02-17
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220131/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220131-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220131/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220217-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220217/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220131/fr"
 
 (Ordonnance COVID-19 transport international de voyageurs)**[^t-1]**
 
-du 23 juin 2021 (Etat le 31 janvier 2022)
+du 23 juin 2021 (Etat le 17 février 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -39,14 +39,18 @@ arrête:
 
 <sup>2</sup>
 
-Pour les personnes entrant en Suisse, elle règle les mesures suivantes:
+Pour les personnes entrant en Suisse en provenance d’un État ou d’une zone avec un variant préoccupant du virus, elle règle les mesures suivantes:
 
-- a. l’enregistrement des coordonnées et, si nécessaire, des données de santé;
-- b. l’obligation de test.
+- a. l’enregistrement des coordonnées au sens de l’art. 49 de l’ordonnance du 29 avril 2015 sur les épidémies[^1-2] (coordonnées) et, si nécessaire, des données de santé;
+- b. l’obligation de test et l’obligation de quarantaine;
+- c. l’exécution de la quarantaine.[^1-3]
 
-<sup>3</sup> Pour les personnes en provenance d’un État ou d’une zone avec un variant préoccupant du virus, elle règle en outre la quarantaine et l’exécution de la quarantaine.
+<sup>3</sup> …[^1-4]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^1-2]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
+[^1-4]: Abrogé par le ch. I de l’O du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 ## Section 2 État ou zone avec un variant préoccupant du virus
 
@@ -74,12 +78,7 @@ Est déterminante pour la classification d’un État ou d’une zone avec un va
 
 **Personnes tenues d’enregistrer leurs coordonnées**[^3-1]
 
-<sup>1</sup>
-
-Sont tenues d’enregistrer leurs coordonnées au sens de l’art. 49 de l’ordonnance du 29 avril 2015 sur les épidémies[^3-2] (coordonnées) et, si nécessaire, leurs données de santé les personnes:
-
-- a. entrant en Suisse en provenance d’un État ou d’une zone figurant dans l’annexe 1;
-- b. entrant en Suisse avec une entreprise de transport par avion ou de transport par autobus proposant des voyages longue distance.
+<sup>1</sup> Les personnes entrant en Suisse en provenance d’un État ou d’une zone figurant dans l’annexe 1 sont tenues d’enregistrer leurs coordonnées et, si nécessaire, leurs données de santé.[^3-2]
 
 <sup>2</sup>
 
@@ -89,7 +88,7 @@ Sont exemptées de cette obligation les personnes:
 - b. qui traversent la Suisse sans faire de halte.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
-[^3-2]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 #### Art. 4
 
@@ -148,41 +147,13 @@ Dès qu’il a connaissance de l’entrée d’une personne infectée par le SAR
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
-## Section 4**** Obligation de test avant le départ
-
-[^sec4-1]
-
-[^sec4-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+## Section 4 …
 
 #### Art. 7
 
-<sup>1</sup> Les entreprises de transport aérien et les entreprises de transport par autobus proposant des voyages longue distance doivent informer les passagers qu’ils sont tenus de se faire tester pour le SARS-CoV-2 avant le départ vers la Suisse et qu’ils ne sont autorisés à monter dans l’avion ou dans l’autobus que sur présentation d’un résultat de test négatif.[^7-1]
+[^7-1]
 
-<sup>2</sup> Avant le départ, elles doivent vérifier l’existence d’un résultat de test négatif. L’annexe 2*a* détermine les exigences applicables aux tests et aux résultats de test.[^7-2]
-
-<sup>3</sup> Les entreprises de transport aérien et les entreprises de transport par autobus doivent refuser l’accès à l’avion ou à l’autobus aux passagers qui ne présentent pas un résultat de test négatif.
-
-<sup>4</sup>
-
-Elles peuvent transporter les passagers suivants en l’absence d’un résultat de test négatif:
-
-- a. les personnes de moins de 16 ans;
-- b. les personnes munies d’une attestation médicale prouvant qu’elles doivent être transportées d’urgence en Suisse pour des raisons médicales;
-- c.[^7-3] les personnes en provenance d’États ou de zones qui ne figurent pas dans l’annexe 1, ch. 1, qui transitent par un aéroport suisse et ne le quittent pas avant de poursuivre leur voyage;
-- c<sup>bis</sup>.[^7-4] les personnes qui traversent la Suisse avec une compagnie de bus sans quitter le bus;
-- d.[^7-5] les personnes qui arrivent d’États ou de zones qui ne figurent pas dans l’annexe 1, ch. 1, et peuvent fournir la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 2 détermine les personnes considérées comme vaccinées, la durée pour laquelle la vaccination est valable et les types de preuves autorisés;
-- e.[^7-6] les personnes qui arrivent d’États ou de zones qui ne figurent pas l’annexe 1, ch. 1, et qui peuvent fournir la preuve qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries; l’annexe 2 détermine la durée de la dérogation et les types de preuves autorisés;
-- f. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas se soumettre à un test SARS-CoV-2.
-
-<sup>5</sup> Lors de l’entrée depuis un État ou d’une zone au sens de l’annexe 1, ch. 1, les personnes dès 6 ans doivent également pouvoir présenter un résultat de test négatif.[^7-7]
-
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^7-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
-[^7-3]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^7-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
-[^7-5]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
-[^7-6]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
-[^7-7]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^7-1]: Abrogé par le ch. I de l’O du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 ## Section 5 Obligation de test, de quarantaine et de déclaration pour les personnes entrant en Suisse
 
@@ -190,7 +161,7 @@ Elles peuvent transporter les passagers suivants en l’absence d’un résultat
 
 **Obligation de test**[^8-1]
 
-<sup>1</sup> Les personnes entrant en Suisse doivent pouvoir présenter un résultat de test négatif. L’annexe 2*a* détermine les exigences applicables aux tests et aux résultats de test.[^8-2]
+<sup>1</sup> Les personnes dès 6 ans en provenance d’un État ou d’une zone figurant dans l’annexe 1 doivent pouvoir présenter un résultat de test négatif. L’annexe 2*a* détermine les exigences applicables aux tests et aux résultats de test.[^8-2]
 
 <sup>2</sup>
 
@@ -200,14 +171,14 @@ Les personnes qui ne peuvent pas présenter de résultat de test négatif au sen
 - b.[^8-4] par un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a*, al. 1, de l’ordonnance 3 COVID-19 du 19 juin 2020[^8-5], à moins qu’il se base sur un prélèvement d’échantillon provenant uniquement de la cavité nasale ou d’un test salivaire, ou
 - c.[^8-6] par une analyse immunologique en laboratoire des antigènes du SARS-CoV-2 visée à l’art. 19, al. 1, let. c, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^8-7].
 
-<sup>2bis</sup> ...[^8-8]
+<sup>2bis</sup> …[^8-8]
 
-<sup>3</sup> ...[^8-9]
+<sup>3</sup> …[^8-9]
 
-<sup>4</sup> Lors de l’entrée depuis un État ou une zone au sens de l’annexe 1, ch. 1, l’al. 1 s’applique également aux personnes dès 6 ans.[^8-10]
+<sup>4</sup> …[^8-10]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 [^8-3]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^8-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 [^8-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
@@ -215,7 +186,7 @@ Les personnes qui ne peuvent pas présenter de résultat de test négatif au sen
 [^8-7]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 [^8-8]: Introduit par le ch. I de l’O du 3 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)). Abrogé par le ch. I de l’O du 19 janv. 2022, avec effet au 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 [^8-9]: Abrogé par le ch. I de l’O du 19 janv. 2022, avec effet au 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
-[^8-10]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^8-10]: Introduit par le ch. I de l’O du 3 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)). Abrogé par le ch. I de l’O du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 #### Art. 9
 
@@ -248,7 +219,7 @@ Sont exemptées de l’obligation de test prévue à l’art. 8 et de l’obliga
 
 - a.[^9a-2] …
 - b. qui, dans le cadre de leur activité professionnelle, transportent des voyageurs ou des biens en traversant la frontière;
-- c.[^9a-3] ...
+- c.[^9a-3] …
 - d. qui traversent la Suisse sans faire de halte;
 - e.[^9a-4] qui arrivent d’États ou de zones qui ne figurent pas dans l’annexe 1, ch. 1, et peuvent fournir la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 2 détermine les personnes considérées comme vaccinées, la durée pour laquelle la vaccination est valable et les types de preuves autorisés;
 - f.[^9a-5] qui arrivent d’États ou de zones qui ne figurent pas l’annexe 1, ch. 1, et qui peuvent fournir la preuve qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries; l’annexe 2 détermine la durée de la dérogation et les types de preuves autorisés;
@@ -259,13 +230,13 @@ Sont exemptées de l’obligation de test prévue à l’art. 8 et de l’obliga
 
 Sont en outre exemptées de l’obligation de test visée à l’art. 8:
 
-- a.[^9a-6] les personnes de moins de 16 ans; sauf si elles arrivent d’un État ou d’une zone au sens de l’annexe 1, ch. 1;
+- a.[^9a-6] …
 - b. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas se soumettre à un test SARS-CoV-2;
 - c.[^9a-7] les personnes en provenance de zones mentionnées à l’annexe 1*a*, pour autant que l’État ou la zone en question ne figure pas à l’annexe 1, ch. 1;
 - d.[^9a-8] les personnes dont l’activité en Suisse est absolument nécessaire au maintien du fonctionnement des bénéficiaires institutionnels au sens de l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte[^9a-9] et qui peuvent le prouver par une attestation du Département fédéral des affaires étrangères (DFAE);
 - e.[^9a-10] les personnes dont l’activité en Suisse est absolument nécessaire au maintien des relations diplomatiques et consulaires de la Suisse et qui peuvent le prouver par une attestation du DFAE.
 
-<sup>2bis</sup> ...[^9a-11]
+<sup>2bis</sup> …[^9a-11]
 
 <sup>2ter</sup>
 
@@ -283,7 +254,7 @@ Sont exemptées de l’obligation de quarantaine prévue à l’art. 9 les perso
 - b. qui ont séjourné dans un État ou une zone au sens de l’annexe 1 pendant moins de 24 heures en tant que passagers en transit;
 - c. qui reviennent en Suisse après avoir participé à une manifestation dans un État ou une zone au sens de l’annexe 1, ch. 1, si elles peuvent fournir la preuve que la participation et le séjour se sont déroulés dans le respect d’un plan de protection spécifique; la participation à titre professionnel à une compétition sportive, à une manifestation culturelle ou à un congrès spécialisé est considérée comme une participation à une manifestation;
 - d. qui arrivent en Suisse d’un État ou d’une zone au sens de l’annexe 1 pour participer à une manifestation en Suisse; la participation à titre professionnel à une compétition sportive, à une manifestation culturelle ou à un congrès spécialisé est considérée comme une participation à une manifestation;
-- e. et f.[^9a-12] ... .[^9a-13]
+- e. et f.[^9a-12] … .[^9a-13]
 
 <sup>3</sup> Les exemptions visées aux al. 1 à 2<sup>ter</sup> ne s’appliquent pas aux personnes qui présentent des symptômes du COVID‑19 à moins que celles-ci puissent prouver, attestation médicale à l’appui, que les symptômes peuvent être attribués à une autre cause.[^9a-14]
 
@@ -294,7 +265,7 @@ Sont exemptées de l’obligation de quarantaine prévue à l’art. 9 les perso
 [^9a-3]: Abrogée par le ch. I de l’O du 3 déc. 2021, avec effet au 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^9a-4]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 [^9a-5]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
-[^9a-6]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^9a-6]: Abrogée par le ch. I de l’O du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 [^9a-7]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 [^9a-8]: Introduite par le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
 [^9a-9]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
@@ -326,7 +297,7 @@ Toute personne obligée de se mettre en quarantaine-voyage en vertu de l’art. 
 
 Les autorités chargées de contrôles à la frontière peuvent effectuer des contrôles basés sur les risques sur les personnes entrant dans le pays. Dans ce cas, elles vérifient:[^11-2]
 
-- a.[^11-3] l’existence d’un test négatif conformément à l’art. 8, al. 1 et 4;
+- a.[^11-3] l’existence d’un test négatif conformément à l’art. 8, al. 1;
 - b. l’enregistrement des coordonnées conformément à l’art. 4, al. 1.
 
 <sup>2</sup> Si la personne contrôlée n’est pas en mesure de fournir un résultat de test négatif ou de prouver qu’elle a enregistré ses coordonnées, l’autorité chargée des contrôles à la frontière la signale à l’autorité cantonale compétente. Le signalement comprend des informations concernant la personne entrée dans le pays, l’heure et le lieu du contrôle, le lieu de séjour prévu en Suisse et le résultat du contrôle.
@@ -335,7 +306,7 @@ Les autorités chargées de contrôles à la frontière peuvent effectuer des co
 
 [^11-1]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^11-3]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 20 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 #### Art. 11a
 
@@ -345,14 +316,9 @@ Les autorités chargées de contrôles à la frontière peuvent effectuer des co
 
 #### Art. 11b
 
-**Obligation de contrôle des particuliers**[^11b-1]
+[^11b-1]
 
-<sup>1</sup> Toute personne qui accueille à titre professionnel des personnes qui séjournent en Suisse pour des raisons touristiques ou professionnelles doit vérifier l’existence d’un résultat de test négatif au sens de l’art. 8, al. 1 et 4.[^11b-2]
-
-<sup>2</sup> Les personnes qui ne peuvent pas présenter un résultat de test négatif doivent être annoncées aux autorités cantonales compétentes.
-
-[^11b-1]: Introduit par le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
-[^11b-2]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
+[^11b-1]: Introduit par le ch. I de l’O du 3 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)). Abrogé par le ch. I de l’O du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 ## Section 7 Actualisation des annexes
 
@@ -386,18 +352,18 @@ La présente ordonnance entre en vigueur le 26 juin 2021 à 0 h 00.
 
 Annexe 1*[^t-2]*
 
-(art. 2, al. 2 et 3, 3, al. 1, let. a, 7, al. 4, let. c, et 5, 8, al. 4, 9, al. 1 et 3, 9*a,* al. 2, let. a et c, et 2<sup>bis</sup>, let. b à f, et 12, al. 1)
+(art. 2, al. 2 et 3, 3, al. 1, 9, al. 1 et 3, 9*a*, al. 2, let. c, et 12, al. 1)
 
 ## Liste des États et zones avec un variant préoccupant du virus****
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 3 août 2021 ([RO 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Mise à jour par le ch. II de l’O du 3 déc. 2021, en vigueur depuis le 4 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 3 août 2021 ([RO 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Mise à jour par le ch. II des O du 3 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)) et du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. états ou zones avec un variant préoccupant du virus résistant aux anticorps ou dont on ne sait pas encore s’il résiste aux anticorps (art. 2, al. 1 et 2)
 
-*La liste ne contient actuellement aucune entrée.*
+La liste ne contient actuellement aucune entrée.
 
 ### 2. états ou zones avec un variant préoccupant du virus qui n’est pas résistant aux anticorps (art. 2, al. 1 et 3)
 
@@ -405,11 +371,11 @@ La liste ne contient actuellement aucune entrée.
 
 Annexe 1a*[^t-3]*
 
-(art. 2, al. 4, 3, al. 2, let. d, et 9*a,* al. 2, let. c)
+(art. 2, al. 4, et 9*a*, al. 2, let. c)
 
 ## Zones frontalières de la Suisse
 
-[^t-3]: Introduite par le ch. II de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 4 oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)).
+[^t-3]: Introduite par le ch. II de l’O du 1<sup>er</sup> oct. 2021 ([RO 2021 591](https://fedlex.data.admin.ch/eli/oc/2021/591)). Mise à jour par le ch. II de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 Zones en Allemagne:
 
@@ -440,11 +406,11 @@ Zones au Liechtenstein:
 
 Annexe 2*[^t-4]*
 
-(art. 9*a*, al. 2<sup>bis</sup>, let. a et b, 2<sup>ter</sup>, let. e et f, et 12, al. 2)
+(art. 9*a*, al. 2<sup>ter</sup>, let. e et f, et 12, al. 2)
 
 ## Personnes vaccinées et personnes guéries
 
-[^t-4]: Mise à jour par le ch. II al. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 17 déc. 2021 ([RO 2021 883](https://fedlex.data.admin.ch/eli/oc/2021/883)) et l’annexe ch. 3 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur depuis le 31 janv. 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-4]: Mise à jour par le ch. II al. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), l’annexe ch. 3 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle) ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)) et le ch. II de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 ### 1 Personnes vaccinées
 
@@ -475,7 +441,7 @@ Annexe 2*[^t-4]*
   Une guérison est valable pendant la durée suivante:
 
   - a. dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2: du 11<sup>e</sup> au 270<sup>e</sup> jour à compter de la confirmation de l’infection;
-  - b. dans le cas d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex2-lvlu1-lvl2-1]: pendant la durée de validité du certificat correspondant.
+  - b. dans le cas d’une analyse des anticorps contre le SARS-CoV-2: durant la validité du certificat correspondant (art. 34*a*, al. 1, let. c, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex2-lvlu1-lvl2-1]).
 
 - 2\.2 La guérison peut être prouvée au moyen du certificat COVID-19 au sens de l’art. 1, let. a, ch. 2, de l’ordonnance COVID-19 du 4 juin 2021 certificats ou d’un certificat étranger reconnu au sens de 7 de l’ordonnance COVID-19 certificats.
 - 2\.3
@@ -489,11 +455,11 @@ Annexe 2*[^t-4]*
 
 Annexe 2a*[^t-5]*
 
-(art. 7, al. 2, 8, al. 1 et 2<sup>bis</sup>, et 12, al. 3)
+(art. 8, al. 1, et 12, al. 3)
 
 ## Exigences applicables aux tests et aux résultats de test
 
-[^t-5]: Introduite par le ch. II al. 2 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Mise à jour par le ch. II de l’O du 3 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)) et l’annexe ch. 2 de l’O du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^t-5]: Introduite par le ch. II al. 2 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Mise à jour par le ch. II de l’O du 3 déc. 2021 ([RO 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)), l’annexe ch. 2 de l’O du 17 déc. 2021 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)) et le ch. II de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
 
 - 1\.
 
@@ -517,6 +483,6 @@ Annexe 3
 
 ## Modification d’un autre acte
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: La mod. peut être consultée au [RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380).
