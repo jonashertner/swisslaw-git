@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Soumettre les infrastructures stratégiques du secteur énergétique à la lex Koller
 document: Projet mis en consultation
 language: fr

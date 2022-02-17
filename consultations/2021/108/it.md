@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Assoggettare le infrastrutture strategiche dell’economia energetica alla lex Koller
 document: Progetto posto in consultazione
 language: it

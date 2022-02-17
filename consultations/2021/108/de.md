@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Unterstellung der strategischen Infrastrukturen der Energiewirtschaft unter die Lex Koller
 document: Vernehmlassungsvorlage
 language: de
