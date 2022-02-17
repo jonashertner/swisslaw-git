@@ -4,13 +4,13 @@ number: "961.212"
 title: Sonderverordnung 2 zur Abfederung der wirtschaftlichen Auswirkungen der COVID-19-Pandemie
 short: SonderV 20-2
 language: de
-version: 2022-01-01
-valid_until: 2022-02-17
-version_adopted: 2021-12-22
+version: 2022-02-18
+valid_until: 2022-04-15
+version_adopted: 2022-02-16
 adopted: 2020-04-15
 in_force: 2020-04-20
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.212"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3138/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3163/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3138/pdf_file"
 
 (SonderV 20-2)
 
-Vom 15.04.2020 (Stand 01.01.2022)
+Vom 15.04.2020 (Stand 18.02.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -236,7 +236,7 @@ beschliesst:
 - a) Bereich Kultur und Sport: Hat ein Unternehmen bereits eine branchenspezifische Covid-19-Finanzhilfe in den Bereichen Kultur oder Sport erhalten, und ist diese geringer ausgefallen als eine Härtefallhilfe gemäss Covid-19-Härtefallverordnung, wird der Differenzbetrag ausbezahlt.
 - b) Unternehmen mit einem Umsatzrückgang von mehr als 70 %: Hat ein Unternehmen im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 einen Umsatzrückgang von mehr als 70 % erlitten, wird der Differenzbetrag zwischen den ungedeckten Fixkosten aufgrund des Umsatzrückgangs und dem aufgrund der Obergrenze von Art. 8a Abs. 2 beziehungsweise 8c Abs. 2 lit. a Covid-19-Härtefallverordnung tatsächlich ausbezahlten, tieferen Unterstützungsbeitrags ausbezahlt.
 - c) Unternehmen mit einem Jahresumsatz unter 5 Millionen Franken und Umsatzrückgängen in den Monaten Juli bis Dezember 2021 gemäss § 7j: Hat ein Unternehmen aufgrund des Umsatzrückgangs in den Monaten Juli bis Dezember 2021 einen höheren Anspruch auf nicht rückzahlbare Beiträge gemäss § 7j als aufgrund der Obergrenzen gemäss den Art. 8, 8a und 8d Covid-19-Härtefallverordnung ausbezahlt werden könnte, wird ein anteilsmässiger Betrag ausbezahlt. Der ausbezahlte Anteil richtet sich nach den verfügbaren Mitteln der Bundesratsreserve und ist für alle Unternehmen gleich hoch.
-- d) Unternehmen mit einem Jahresumsatz über 5 Millionen Franken: Unternehmen mit einem Jahresumsatz über 5 Millionen Franken, die bereits Beiträge gemäss § 7e erhalten haben, werden die Umsatzrückgänge in den Monaten Juli bis Dezember 2021 entschädigt. Die Beiträge bemessen sich am über 10 % hinausgehenden Umsatzrückgang in den Monaten Juli bis Dezember 2021, multipliziert mit einem branchenüblichen Anteil an den Fixkosten samt Abschreibungen. Die Höchstgrenzen gemäss Art. 8c Covid-19-Härtefallverordnung gelten nicht. Der ausbezahlte Anteil ist für alle Unternehmen gleich hoch und richtet sich nach den verfügbaren Mitteln der Bundesratsreserve. Gesuche sind bis 28. Februar 2022 über das elektronische Behördenportal einzureichen. Die Unternehmen müssen den Umsatzrückgang in den Monaten Juli bis Dezember 2021 nachweisen.
+- d) Unternehmen mit einem Jahresumsatz über 5 Millionen Franken: Unternehmen mit einem Jahresumsatz über 5 Millionen Franken, die bereits Beiträge gemäss § 7e erhalten haben, werden die Umsatzrückgänge in den Monaten Juli bis Dezember 2021 entschädigt. Die Beiträge bemessen sich am über 10 % hinausgehenden Umsatzrückgang in den Monaten Juli bis Dezember 2021, multipliziert mit einem branchenüblichen Anteil an den Fixkosten samt Abschreibungen. Die Höchstgrenzen gemäss Art. 8c Covid-19-Härtefallverordnung gelten nicht. Der ausbezahlte Anteil ist für alle Unternehmen gleich hoch und richtet sich nach den verfügbaren Mitteln der Bundesratsreserve. Gesuche sind bis 15. April 2022 über das elektronische Behördenportal einzureichen. Die Unternehmen müssen den Umsatzrückgang in den Monaten Juli bis Dezember 2021 nachweisen.
 
 #### § 7j
 
@@ -248,11 +248,11 @@ beschliesst:
 
 <sup>3</sup> Es gelten die Höchstgrenzen gemäss den Art. 8a und 8d Covid-19-Härtefallverordnung. Bereits erhaltene Beiträge werden angerechnet.
 
-<sup>4</sup> Gesuche sind bis 28. Februar 2022 über das elektronische Behördenportal einzureichen. Die Unternehmen müssen den Umsatzrückgang in den Monaten Juli bis Dezember 2021 nachweisen.
+<sup>4</sup> Gesuche sind bis 15. April 2022 über das elektronische Behördenportal einzureichen. Die Unternehmen müssen den Umsatzrückgang in den Monaten Juli bis Dezember 2021 nachweisen.
 
 <sup>5</sup> Unternehmen, die bereits Beiträge gemäss den §§ 7a bis 7d erhalten haben, müssen nur noch die zusätzlich notwendigen Nachweise zur Belegung des Umsatzrückgangs in den Monaten Juli bis Dezember 2021 einreichen.
 
-<sup>6</sup> Unternehmen mit einem Umsatzrückgang im Jahr 2020 im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 von über 40 %, die bisher keine Härtefallmassnahme erhalten haben, können bis 28. Februar 2022 ein Gesuch um Härtefallmassnahmen gemäss § 7d einreichen. Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz einer späteren Periode von 12 Monaten verwenden. Ausgenommen sind Unternehmen, deren Gesuch gemäss § 7d abgelehnt wurde. Bei einer Gutheissung werden dabei sowohl die Ansprüche für den nachgewiesenen Umsatzrückgang bis Juni 2021 als auch für die Monate Juli bis Dezember 2021 geprüft.
+<sup>6</sup> Unternehmen mit einem Umsatzrückgang im Jahr 2020 im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 von über 40 %, die bisher keine Härtefallmassnahme erhalten haben, können bis 15. April 2022 ein Gesuch um Härtefallmassnahmen gemäss § 7d einreichen. Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz einer späteren Periode von 12 Monaten verwenden. Ausgenommen sind Unternehmen, deren Gesuch gemäss § 7d abgelehnt wurde. Bei einer Gutheissung werden dabei sowohl die Ansprüche für den nachgewiesenen Umsatzrückgang bis Juni 2021 als auch für die Monate Juli bis Dezember 2021 geprüft.
 
 ### 2.5 Vollzug
 
