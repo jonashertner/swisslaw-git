@@ -3,20 +3,20 @@ sr: "916.443.102.1"
 title: "Ordinanza dell’USAV del 15 ottobre 2021 che istituisce provvedimenti per evitare l’introduzione dell’influenza aviaria da taluni Stati membri dell’Unione europea e dall'Irlanda nel Nord"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: it
-version: 2022-02-12
+version: 2022-02-19
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220212/it/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220212-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220212/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220219/it/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220219-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220219/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza dell’USAV che istituisce provvedimenti per evitare l’introduzione dell’influenza aviaria da taluni Stati membri dell’Unione europea e dall’Irlanda del Nord****
+# Ordinanza dell’USAV che istituisce provvedimenti per evitare l’introduzione dell’influenza aviaria da taluni Stati membri dell’Unione europea****
 
-del 15 ottobre 2021 (Stato 12 febbraio 2022)[^t-1]
+del 15 ottobre 2021 (Stato 19 febbraio 2022)[^t-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 16 dic. 2021, in vigore dal 21 dic. 2021 ([RU 2021 889](https://fedlex.data.admin.ch/eli/oc/2021/889)).
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 17 feb. 2022, in vigore dal 19 feb. 2022 ([RU 2022 102](https://fedlex.data.admin.ch/eli/oc/2022/102)).
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -91,22 +91,20 @@ Allegato*[^t-2]*
 
 ## Territori interessati e zone soggette a restrizioni
 
-[^t-2]: Nuovo testo giusta il n. I dell’O dell’USAV dell’11 feb. 2022, in vigore dal 12 feb. 2022 ([RU 2022 89](https://fedlex.data.admin.ch/eli/oc/2022/89)).
+[^t-2]: Nuovo testo giusta il n. II dell’O dell’USAV del 17 feb. 2022, in vigore dal 19 feb. 2022 ([RU 2022 102](https://fedlex.data.admin.ch/eli/oc/2022/102)).
 
-### 1 Zone soggette a restrizioni negli Stati membri dell’UE interessati e in Irlanda del Nord
+### 1 Zone soggette a restrizioni negli Stati membri dell’UE interessati
 
-Gli Stati membri dell’UE interessati nonché le zone soggette a restrizioni nellʼUE e in Irlanda del Nord sono stabiliti nella decisione di esecuzione seguente:
+Gli Stati membri dell’UE interessati nonché le zone soggette a restrizioni nellʼUE sono stabiliti nella decisione di esecuzione seguente:
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2021/641</td><td>Decisione di esecuzione (UE) 2021/641 della Commissione, del 16 aprile 2021, relativa a misure di emergenza in relazione a focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 134 del 20.4.2021, pag. 166; modificata da ultimo dalla decisione di esecuzione (UE) 2022/145, GU L 24 del 3.2.2022, pag. 6.</td></tr>
+<tr><td>Decisione di esecuzione (UE) 2021/641</td><td>Decisione di esecuzione (UE) 2021/641 della Commissione, del 16 aprile 2021, relativa a misure di emergenza in relazione a focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 134 del 20.4.2021, pag. 166; modificata da ultimo dalla decisione di esecuzione (UE) 2022/198, GU L 31 del 14.2.2022, pag. 56.</td></tr>
 </table>
 
-### 2 Stati membri dell’UE interessati e Irlanda del Nord
+### 2 Stati membri dell’UE interessati
 
-In Irlanda del Nord e nei seguenti Stati membri dell’UE vi sono zone soggette a restrizioni:
-
-Belgio
+Nei seguenti Stati membri dell’UE vi sono zone soggette a restrizioni:
 
 Bulgaria
 
@@ -129,8 +127,6 @@ Portogallo
 Repubblica Ceca
 
 Romania
-
-Slovacchia
 
 Spagna
 
