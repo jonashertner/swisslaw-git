@@ -4,13 +4,13 @@ number: "821.20"
 title: Verordnung über Massnahmen zur Bekämpfung der COVID-19-Epidemie
 short: COVID-19-Verordnung
 language: de
-version: 2022-02-05
-valid_until: 2022-02-20
-version_adopted: 2022-02-01
+version: 2022-02-21
+valid_until: 2022-02-25
+version_adopted: 2021-11-30
 adopted: 2021-06-01
 in_force: 2021-06-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/821.20"
-pdf: "https://bgs.zg.ch/api/de/versions/2309/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2309/pdf_file"
 
 (COVID-19-Verordnung)
 
-Vom 1. Juni 2021 (Stand 5. Februar 2022)
+Vom 1. Juni 2021 (Stand 21. Februar 2022)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf Art. 40 des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen vom 8. September 2012 (Epidemiengesetz, EpG)[^ingress-1], Art. 16, 17, 18 und 23 der Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie vom 19. Juni 2020 (Covid-19-Verordnung besondere Lage)[^ingress-2], § 56 Abs. 1 des Gesetzes über das Gesundheitswesen im Kanton Zug vom 30. Oktober 2008 (Gesundheitsgesetz, GesG)[^ingress-3] und § 6 Abs. 1 des Gesetzes über die Organisation der Staatsverwaltung vom 29. Oktober 1998 (Organisationsgesetz, OG)[^ingress-4],
+gestützt auf Art. 40 des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen vom 8. September 2012 (Epidemiengesetz, EpG)[^ingress-1], Art. 6a bis 6b<sup>quinquies</sup> der Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie vom 19. Juni 2020 (Covid-19-Verordnung besondere Lage)[^ingress-2], § 56 Abs. 1 des Gesetzes über das Gesundheitswesen im Kanton Zug vom 30. Oktober 2008 (Gesundheitsgesetz, GesG)[^ingress-3] und § 6 Abs. 1 des Gesetzes über die Organisation der Staatsverwaltung vom 29. Oktober 1998 (Organisationsgesetz, OG)[^ingress-4],
 
 beschliesst:
 
@@ -36,9 +36,10 @@ beschliesst:
 
 <sup>1</sup> Die Sicherheitsdirektion entscheidet über die Erteilung von Bewilligungen für
 
-- a) Grossveranstaltungen im Sinne von Art. 16 und 17 der Covid-19-Verordnung besondere Lage[^1-1],
+- a) Grossveranstaltungen im Sinne von Art. 6a bis Art. 6b<sup>ter</sup> der Covid-19-Verordnung besondere Lage[^1-1],
 - b) …
-- c) grosse Fach- und Publikumsmessen im Sinne von Art. 18 der Covid-19-Verordnung besondere Lage[^1-2].
+- b1) Pilotversuche zur Durchführung von Grossveranstaltungen im Sinne von Art. 6b<sup>quater</sup> der COVID-19-Verordnung besondere Lage[^1-2] und
+- c) grosse Fach- und Publikumsmessen im Sinne von Art. 6b<sup>quinquies</sup> der Covid-19-Verordnung besondere Lage[^1-3].
 
 <sup>2</sup> Sie kann die Bewilligungen bedingt oder mit Auflagen erteilen und in Wiedererwägung ziehen.
 
@@ -46,8 +47,12 @@ beschliesst:
 
 <sup>4</sup> …
 
+<sup>4a</sup> Über die Auswahl der Veranstaltungsgesuche, welche als Pilotversuche im Sinne von Art. 6b<sup>quater</sup> der Covid-19-Verordnung besondere Lage[^1-4] bewilligt werden sollen, entscheidet die Sicherheitsdirektion nach Rücksprache mit der Gesundheitsdirektion.
+
 [^1-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
 [^1-2]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
+[^1-3]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
+[^1-4]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
 
 #### § 2
 
@@ -67,13 +72,9 @@ beschliesst:
 
 **Massnahmen in Schulen ab Primarstufe**
 
-<sup>1</sup> In den Innenräumen der Schulen ab Primarstufe muss jede Person eine Gesichtsmaske tragen.
+<sup>1</sup> …
 
-<sup>2</sup> Keine Maskentragepflicht nach Abs. 1 gilt:
-
-- a) für den Unterricht, wenn dieser sitzend am Pult erfolgt;
-- b) für den Turn- und Sportunterricht;
-- c) für den Unterricht mit Blasinstrumenten.
+<sup>2</sup> …
 
 <sup>3</sup> Die Gesundheitsdirektion kann Vorschriften betreffend die Durchführung von Tests erlassen. Sie kann die Teilnahme für die Lehrer- und die Schülerschaft sowie für weiteres während der Unterrichtszeiten tätiges Personal für obligatorisch erklären.
 
