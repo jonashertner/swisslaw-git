@@ -3,11 +3,11 @@ sr: "0.831.109.367.2"
 title: Abkommen vom 9. September 2021 zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/818"
 language: de
-version: 2021-11-01
+version: 2022-02-21
 adopted: 2021-09-09
 in_force: 2021-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2021-818-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220221/de/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220221-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2021** 818
 
 Abgeschlossen am 9. September 2021 Provisorisch angewendet durch Notenaustausch ab 1. November 2021
 
-(Stand am 1. November 2021)
+(Stand am 21. Februar 2022)
 
 Die Schweizerische Eidgenossenschaft («Schweiz») und das Vereinigte Königreich von Grossbritannien und Nordirland («Vereinigtes Königreich») (zusammen «die Staaten» und einzeln «der Staat»)
 
@@ -981,9 +981,11 @@ Die Anhänge (Anlagen eingeschlossen) sind integrierende Bestandteile dieses Abk
 
 #### Art. 72
 
-**Inkrafttreten**
+**Inkrafttreten**[^72-1]
 
 Dieses Abkommen tritt am ersten Tag des dritten Monats in Kraft, der auf den Eingang der schriftlichen Notifikation des letzten der beiden Staaten folgt, dass sie alle gesetzlichen und verfassungsrechtlichen Voraussetzungen für das Inkrafttreten dieses Abkommens erfüllen.
+
+[^72-1]: Die Berichtigung vom 21. Febr. 2022 betrifft nur den französischen Text ([AS 2022 108](https://fedlex.data.admin.ch/eli/oc/2022/108)).
 
 #### Art. 73
 
@@ -1972,7 +1974,7 @@ Die ersuchte Partei ist nicht verpflichtet:
 Verjährungsfristen werden wie folgt geregelt:
 
 - a) nach dem geltenden Recht des Staates der ersuchenden Partei, soweit es die Forderung oder den Vollstreckungstitel betrifft; und
-- b) nach dem geltenden Recht des Staates der ersuchenden Partei, soweit es die Forderung oder den Vollstreckungstitel betrifft; und
+- b) nach dem geltenden Recht des Staates der ersuchten Partei, soweit es die Vollstreckungsmassnahmen betrifft.
 
 <sup>(2)</sup> Die Verjährungsfristen nach dem im Staat der ersuchten Partei geltenden Recht beginnen ab dem Zeitpunkt der unmittelbaren Anerkennung oder ab dem Zeitpunkt der Zustimmung, Anerkennung, Ergänzung oder Ersetzung nach Artikel 60 dieses Anhangs.
 

@@ -3,11 +3,11 @@ sr: "0.831.109.367.2"
 title: Convenzione del 9 settembre 2021 sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/818"
 language: it
-version: 2021-11-01
+version: 2022-02-21
 adopted: 2021-09-09
 in_force: 2021-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2021-818-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220221/it/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220221-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220221/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2021** 818
 
 Conclusa il 9 settembre 2021 Applicata provvisoriamente mediante scambio di note il 1° novembre 2021
 
-(Stato 1° novembre 2021)
+(Stato 21 febbraio 2022)
 
 La Confederazione Svizzera («Svizzera») e il Regno Unito di Gran Bretagna e Irlanda del Nord («Regno Unito») (insieme «gli Stati» e singolarmente «lo Stato»),
 
@@ -993,9 +993,11 @@ Gli allegati (incluse le appendici) costituiscono parte integrante della present
 
 #### Art. 72
 
-**Entrata in vigore**
+**Entrata in vigore**[^72-1]
 
 La presente convenzione entra in vigore il primo giorno del terzo mese successivo alla data di ricevimento dell’ultima delle notifiche scritte degli Stati secondo cui essi soddisfano tutti i requisiti legali e costituzionali per l’entrata in vigore della presente convenzione.
+
+[^72-1]: La correzione del 21 feb. 2022 concerne soltanto il testo francese ([RU 2022 108](https://fedlex.data.admin.ch/eli/oc/2022/108)).
 
 #### Art. 73
 

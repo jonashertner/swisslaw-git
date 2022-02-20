@@ -3,11 +3,11 @@ sr: "0.831.109.367.2"
 title: Convention du 9 septembre 2021 sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/818"
 language: fr
-version: 2021-11-01
+version: 2022-02-21
 adopted: 2021-09-09
 in_force: 2021-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-818-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/818/20220221/fr/xml/fedlex-data-admin-ch-eli-cc-2021-818-20220221-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/818/20220221/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclue le 9 septembre 2021 Appliquée provisoirement par échange de notes dès le 1<sup>er</sup> novembre 2021
 
-(Etat le 1<sup>er</sup> novembre 2021)
+(Etat le 21 février 2022)
 
 La Confédération suisse («Suisse») et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord («Royaume-Uni») (ensemble «les États» et individuellement «l’État»)
 
@@ -985,9 +985,11 @@ Les annexes (y compris les appendices) font partie intégrante de la présente c
 
 #### Art. 72
 
-**Entrée en vigueur**
+**Entrée en vigueur**[^72-1]
 
-Les autorités compétentes des États notifient au Comité administratif mixte toute modification de leur législation relative aux branches de la sécurité sociale visées à l’art. 6, par. 1, qui affecte ou est susceptible d’affecter la mise en œuvre de la présente convention.
+Le présent accord entre en vigueur le 1<sup>er</sup> jour du 3<sup>ème</sup> mois suivant la réception de la notification écrite par le dernier des deux États qu’ils ont rempli toutes les conditions légales et constitutionnelles requises pour l’entrée en vigueur du présent accord.
+
+[^72-1]: Erratum du 21 fév. 2022 ([RO 2022 108](https://fedlex.data.admin.ch/eli/oc/2022/108)).
 
 #### Art. 73
 
