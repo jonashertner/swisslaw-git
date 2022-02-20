@@ -3,11 +3,11 @@ sr: "0.732.44"
 title: "Convenzione del 29 luglio 1960 sulla responsabilità civile nel campo dell’energia nucleare, emendata dal Protocollo addizionale del 28 gennaio 1964, dal Protocollo del 16 novembre 1982 e dal Protocollo del 12 febbraio 2004"
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/44"
 language: it
-version: 2022-01-01
+version: 2022-02-21
 adopted: 1960-07-29
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/44/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2022-44-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/44/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/44/20220221/it/xml/fedlex-data-admin-ch-eli-cc-2022-44-20220221-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/44/20220221/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **2022** 44; FF **2007** 4957[^t-1]
 
 Conclusa a Parigi il 29 luglio 1960 Approvata dall’Assemblea federale il 13 giugno 2008[^t-2] Strumento di ratifica depositato dalla Svizzera il 9 marzo 2009 Entrata in vigore per la Svizzera il 1° gennaio 2022
 
-(Stato 1° gennaio 2022)
+(Stato 21 febbraio 2022)
 
 [^t-1]: Testo consolidato ufficioso della Conv. di Parigi che incorpora le disposizioni dei tre Prot. emendativi summenzionati.
 [^t-2]: Art. 1 cpv. 1 lett. a del DF del 13 giu. 2008 ([RU 2022 42](https://fedlex.data.admin.ch/eli/oc/2022/42)).
@@ -376,7 +376,7 @@ Le Decisioni, le Raccomandazioni e le Interpretazioni relative all’applicazion
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: Il contenuto delle presenti dec. è pubblicato nella RU e nella RS soltanto mediante rimando ([RU 2024 82](https://fedlex.data.admin.ch/eli/oc/2024/82)). Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Agenzia per l’energia nucleare dell’OCSE (NEA): [www.oecd-nea.org](https://www.oecd-nea.org/)
+[^annexu1-lvlu2-1]: Il contenuto delle presenti dec. è pubblicato nella RU e nella RS soltanto mediante rimando ([RU 2024 82](https://fedlex.data.admin.ch/eli/oc/2024/82)). Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Agenzia per l’energia nucleare dell’OCSE (NEA): www.oecd-nea.org
 
 Entrate in vigore per la Svizzera il 1° gennaio 2022
 
@@ -390,7 +390,7 @@ Entrate in vigore per la Svizzera il 1° gennaio 2022
 [^annexu1-lvlu2-4]: Décision portant sur l’exclusion de petites quantités de substances nucléaires en dehors d’une installation nucléaire du champ d’application de la Convention sur la responsabilité civile dans le domaine de l’énergie nucléaire [NEA/NE(2016)8/FINAL] [www.oecd-nea.org](https://www.oecd-nea.org/) &gt; Topics &gt; Paris Convention on Third Party on Liability in the Field of Nuclear Energy &gt; Resources.
 [^annexu1-lvlu2-5]: Convention de Paris sur la responsabilité civile dans le domaine de l’énergie nucléaire: exclusion de certaines catégories de substances nucléaires, n. 4 [NE/M(77)2, [www.oecd-nea.org](https://www.oecd-nea.org/) &gt; Topics &gt; Paris Convention on Third Party on Liability in the Field of Nuclear Energy &gt; Resources.
 
-## Campi d’applicazione l’11 gennaio 2022[^annexu1-lvlu3-1]:
+## Campi d’applicazione il 21 febbraio 2022[^annexu1-lvlu3-1]:
 
 [^annexu1-lvlu3-1]: [RU 2022 44](https://fedlex.data.admin.ch/eli/oc/2022/44), [132](https://fedlex.data.admin.ch/eli/oc/2022/132). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
@@ -425,9 +425,9 @@ Entrate in vigore per la Svizzera il 1° gennaio 2022
 <tr><td>Spagna[^annexu1-lvlu3-lvlu1-1]</td><td>30 aprile</td><td>1965</td><td>1° aprile</td><td>1968</td></tr>
 <tr><td>Svezia\*</td><td>1° aprile</td><td>1968</td><td>1° aprile</td><td>1968</td></tr>
 <tr><td>Svizzera\*</td><td>9 marzo</td><td>2009</td><td>1° gennaio</td><td>2022</td></tr>
-<tr><td>Turchia</td><td>10 ottobre</td><td>1961</td><td>1° aprile</td><td>1968</td></tr>
+<tr><td>Turchia\*</td><td>10 ottobre</td><td>1961</td><td>1° aprile</td><td>1968</td></tr>
 <tr><td>Turchia[^annexu1-lvlu3-lvlu1-2]</td><td>5 aprile</td><td>1968</td><td>5 aprile</td><td>1968</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi francesi e inglesi si possono consultare sul sito internet dell’Agenzia per l’energia nucleare dell’OCSE (NEA): [www.oecd-nea.org](http://www.oecd-nea.org) &gt; Topics &gt; Nuclear Law &gt; Nuclear liability &gt; the 1960 Paris Convention on Third Party Liability in the Field of Nuclear Energy &gt; Resources o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> La Convenzione e il Protocollo addizionale non si applicano alle Isole Faeröer. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi francesi e inglesi si possono consultare sul sito internet dell’Agenzia per l’energia nucleare dell’OCSE (NEA): [www.oecd-nea.org](http://www.oecd-nea.org) &gt; Topics &gt; Nuclear Law &gt; Nuclear liability &gt; the 1960 Paris Convention on Third Party Liability in the Field of Nuclear Energy &gt; Resources o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
 
 [^annexu1-lvlu3-lvlu1-1]: La Spagna ha ratificato il Prot. addizionale del 1964 il 30 apr. 1965.
@@ -463,7 +463,7 @@ Entrate in vigore per la Svizzera il 1° gennaio 2022
 <tr><td>Turchia</td><td>21 gennaio</td><td>1986</td><td>7 ottobre</td><td>1988</td></tr>
 </table>
 
-## Protocollo di modifica del 12 febbraio 2004 della Convenzione del 29 luglio 1960
+## rotocollo di modifica del 12 febbraio 2004 della Convenzione del 29 luglio 1960
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -482,6 +482,7 @@ Entrate in vigore per la Svizzera il 1° gennaio 2022
 <tr><td>Spagna <sup>a</sup></td><td>1° gennaio</td><td>2022</td><td>1° gennaio</td><td>2022</td></tr>
 <tr><td>Svezia <sup>a</sup></td><td>1° gennaio</td><td>2022</td><td>1° gennaio</td><td>2022</td></tr>
 <tr><td>Svizzera <sup>a</sup></td><td>9 marzo</td><td>2009</td><td>1° gennaio</td><td>2022</td></tr>
+<tr><td>Turchia</td><td>4 gennaio</td><td>2022 A</td><td>4 gennaio</td><td>2022</td></tr>
 <tr><td colspan="5"><sup>a</sup> Conformemente dell’art. 20 della Conv. di Parigi e alla richiesta delle Parti contraenti di registrare il deposito dei loro strumenti di ratifica, accettazione o approvazione il 1° gen. 2022, il Prot. del 2004 è entrato in vigore il 1° gen. 2022 per tutte le Parti contraenti della Conv. di Parigi che hanno ratificato, accettato o approvato il Prot. del 2004 fino a tale data. [tab]</td></tr>
 </table>
 

@@ -3,11 +3,11 @@ sr: "0.732.44"
 title: "Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung des Zusatzprotokolls vom 28. Januar 1964, des Protokolls vom 16. November 1982 und des Protokolls vom 12. Februar 2004"
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/44"
 language: de
-version: 2022-01-01
+version: 2022-02-21
 adopted: 1960-07-29
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/44/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2022-44-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/44/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/44/20220221/de/xml/fedlex-data-admin-ch-eli-cc-2022-44-20220221-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/44/20220221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ AS **2022** 44; BBl **2007** 5397[^t-1]
 
 Abgeschlossen in Paris am 29. Juli 1960 Von der Bundesversammlung genehmigt am 13. Juni 2008[^t-2] Ratifikationsurkunde von der Schweiz hinterlegt am 9. März 2009 In Kraft getreten für die Schweiz am 1. Januar 2022
 
-(Stand am 1. Januar 2022)
+(Stand am 21. Februar 2022)
 
 [^t-1]: Konsolidierter offiziöser Text des Pariser Übereinkommens einschliesslich der Bestimmugen der drei oben erwähnten Zusatzprotokolle.
 [^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 13. Juni 2008 ([AS 2022 42](https://fedlex.data.admin.ch/eli/oc/2022/42))
@@ -392,11 +392,11 @@ In Kraft getreten für die Schweiz am 1. Januar 2022
 [^annexu1-lvlu2-4]: Decision on the [Exclusion of Small Quantities of Nuclear Substances outside a Nuclear Installation from the Application of the Convention on Third Party Liability in the Field of Nuclear Energy [NEA/NE(2016)8/FINAL]](https://www.oecd-nea.org/jcms/pl_20242/decision-on-the-exclusion-of-small-quantities-of-nuclear-substances-outside-a-nuclear-installation-from-the-application-of-the-convention-on-third-party-liability-in-the-field-of-nuclear-energy-nea/ne-2016-8/final?details=true) [www.oecd-nea.org &gt; Topics &gt; Paris Convention on Third Party on Liability in the Field of Nuclear Energy &gt; Resources.](https://www.oecd-nea.org/jcms/pl_20242/decision-on-the-exclusion-of-small-quantities-of-nuclear-substances-outside-a-nuclear-installation-from-the-application-of-the-convention-on-third-party-liability-in-the-field-of-nuclear-energy-nea/ne-2016-8/final)
 [^annexu1-lvlu2-5]: Paris Convention on Third Party Liability in the Field of Nuclear Energy: Exclusion of Certain Kinds of Nuclear Substances, Ziff. 4 [[NE/M(77)2]](https://www.oecd-nea.org/jcms/pl_79153/dri-compilation-english?preview=true) [www.oecd-nea.org/jcms/pl\_79153/dri-compilation-english?preview=true](https://www.oecd-nea.org/jcms/pl_79153/dri-compilation-english?preview=true).
 
-Geltungsbereiche vom 11. Januar 2022[^t-3]:
+Geltungsbereiche am 21. Februar 2022[^t-3]:
 
 ## Übereinkommen vom 29. Juli 1960 und des Zusatzprotokolls vom 28. Januar 1964
 
-[^t-3]: [AS 2022 44](https://fedlex.data.admin.ch/eli/oc/2022/44). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-3]: [AS 2022 44](https://fedlex.data.admin.ch/eli/oc/2022/44), [132](https://fedlex.data.admin.ch/eli/oc/2022/132). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -417,7 +417,7 @@ Geltungsbereiche vom 11. Januar 2022[^t-3]:
 <tr><td>Slowenien\*</td><td>16. Oktober</td><td>2001 B</td><td>16. Oktober</td><td>2001</td></tr>
 <tr><td>Spanien\*</td><td>31. Oktober</td><td>1961</td><td>1. April</td><td>1968</td></tr>
 <tr><td>Spanien[^scopeu1-lvlu1-1]</td><td>30. April</td><td>1965</td><td>1. April</td><td>1968</td></tr>
-<tr><td>Türkei</td><td>10. Oktober</td><td>1961</td><td>1. April</td><td>1968</td></tr>
+<tr><td>Türkei\*</td><td>10. Oktober</td><td>1961</td><td>1. April</td><td>1968</td></tr>
 <tr><td>Türkei[^scopeu1-lvlu1-2]</td><td>5. April</td><td>1968</td><td>5. April</td><td>1968</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>23. Februar</td><td>1966</td><td>1. April</td><td>1968</td></tr>
 <tr><td>Britische Jungferninseln</td><td>29. März</td><td>1973</td><td>29. März</td><td>1973</td></tr>
@@ -429,7 +429,7 @@ Geltungsbereiche vom 11. Januar 2022[^t-3]:
 <tr><td>Kaimaninseln</td><td>23. März</td><td>1972</td><td>23. März</td><td>1972</td></tr>
 <tr><td>Montserrat</td><td>23. März</td><td>1972</td><td>23. März</td><td>1972</td></tr>
 <tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>19. April</td><td>1972</td><td>19. April</td><td>1972</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internet-Seite der OECD Nuclear Energy Agency (NEA): [www.oecd-nea.org](https://www.oecd-nea.org/jcms/pl_20196/paris-convention-on-nuclear-third-party-liability) Topics &gt; Nuclear Law &gt; Nuclear liability &gt; the 1960 Paris Convention on Third Party Liability in the Field of Nuclear Energy eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen und das Zusatzprotokoll gelten nicht für die Färöer. [tab]</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der OECD Nuclear Energy Agency (NEA): [www.oecd-nea.org](https://www.oecd-nea.org/jcms/pl_20196/paris-convention-on-nuclear-third-party-liability) Topics &gt; Nuclear Law &gt; Nuclear liability &gt; the 1960 Paris Convention on Third Party Liability in the Field of Nuclear Energy eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen und das Zusatzprotokoll gelten nicht für die Färöer. [tab]</td></tr>
 </table>
 
 [^scopeu1-lvlu1-1]: Spanien ratifizierte das Zusatzprotokoll von 1964 am 30. April 1965.
@@ -465,10 +465,10 @@ Protokoll vom 16. November 1982 zur Änderung des Übereinkommens vom 29. Juli 1
 <tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>19. August</td><td>1985</td><td>7. Oktober</td><td>1988</td></tr>
 </table>
 
-Protokoll vom 12. Februar 2004 zur Änderung des Übereinkommens vom 29. Juli 1960
+Geltungsbereich am 21. Februar 2022 des Protokolls vom 12. Februar 2004 zur Änderung des Übereinkommens vom 29. Juli 1960
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Belgien <sup>a</sup></td><td>1. Januar</td><td>2022</td><td>1. Januar</td><td>2022</td></tr>
 <tr><td>Deutschland <sup>a</sup></td><td>1. Januar</td><td>2022</td><td>1. Januar</td><td>2022</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>1. Januar</td><td>2022</td><td>1. Januar</td><td>2022</td></tr>
@@ -483,6 +483,7 @@ Protokoll vom 12. Februar 2004 zur Änderung des Übereinkommens vom 29. Juli 19
 <tr><td>Schweiz <sup>a</sup></td><td>9. März</td><td>2009</td><td>1. Januar</td><td>2022</td></tr>
 <tr><td>Slowenien <sup>a</sup></td><td>1. Januar</td><td>2022</td><td>1. Januar</td><td>2022</td></tr>
 <tr><td>Spanien <sup>a</sup></td><td>1. Januar</td><td>2022</td><td>1. Januar</td><td>2022</td></tr>
+<tr><td>Türkei</td><td>4. Januar</td><td>2022 B</td><td>4. Januar</td><td>2022</td></tr>
 <tr><td>Vereinigtes Königreich <sup>a</sup></td><td>1. Januar</td><td>2022</td><td>1. Januar</td><td>2022</td></tr>
 <tr><td colspan="5"><sup>a</sup> Gemäss Artikel 20 des Pariser Übereinkommens und in Übereinstimmung mit dem Ersuchen der Vertragsparteien, die Hinterlegung ihrer Ratifikations-, Annahme- oder Genehmigungsurkunden am 1. Januar 2022 zu registrieren, ist das Protokoll von 2004 am 1. Januar 2022 für alle Vertragsparteien des Pariser Übereinkommens, die das Protokoll von 2004 bis zu diesem Zeitpunkt ratifiziert, angenommen oder genehmigt haben, in Kraft getreten. [tab]</td></tr>
 </table>

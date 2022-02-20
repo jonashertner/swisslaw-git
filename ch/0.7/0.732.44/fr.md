@@ -3,11 +3,11 @@ sr: "0.732.44"
 title: "Convention du 29 juillet 1960 sur la responsabilité civile dans le domaine de l’énergie nucléaire, amendée par le protocole additionnel du 28 janvier 1964, par le protocole du 16 novembre 1982 et par le protocole du 12 février 2004"
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/44"
 language: fr
-version: 2022-01-01
+version: 2022-02-21
 adopted: 1960-07-29
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/44/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-44-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/44/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/44/20220221/fr/xml/fedlex-data-admin-ch-eli-cc-2022-44-20220221-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/44/20220221/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ RO **2022** 44; FF **2007** 5125[^t-1]
 
 Conclue à Paris le 29 juillet 1960 Approuvée par l’Assemblée fédérale le 13 juin 2008[^t-2] Instrument de ratification déposé par la Suisse le 9 mars 2009 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2022
 
-(État le 1<sup>er</sup> janvier 2022)
+(État le 21 février 2022)
 
 [^t-1]: Texte consolidé officieux de la Convention de Paris incorporant les dispositions des trois Protocoles d’amendement susvisés.
 [^t-2]: Art. 1, al. 1, let. a, de l’AF du 13 juin 2008 ([RO 2022 42](https://fedlex.data.admin.ch/eli/oc/2022/42)).
@@ -365,16 +365,17 @@ Entrées en vigueur pour la Suisse le 1<sup>er</sup> janvier 2022
 - – Exclusion des installations nucléaires en cours de déclassement du champ d’application de la Convention de Paris sur la responsabilité civile[^annexu1-lvlu6-2]
 - – Possibilité d’exclusion des installations nucléaires de stockage de certaines catégories de déchets radioactifs de faible activité[^annexu1-lvlu6-3]
 - – Exclusion de petites quantités de substances nucléaires en dehors d’une installation nucléaire du champ d’application de la Convention sur la responsabilité civile dans le domaine de l’énergie nucléaire[^annexu1-lvlu6-4]
-- – Exclusion de certaines catégories de substances nucléaires[^annexu1-lvlu6-5]
+
+– Exclusion de certaines catégories de substances nucléaires[^annexu1-lvlu6-5]
 
 [^annexu1-lvlu6-2]: [Décision et Recommandation du Comité de direction portant sur l’application de la Convention de Paris aux installations nucléaires en cours de déclassement (2014) [NEA/NE(2014)14/REV1]](https://www.oecd-nea.org/jcms/pl_20237/projet-de-decision-et-recommandation-du-comite-de-direction-portant-sur-l-application-de-la-convention-de-paris-aux-installations-nucleaires-en-cours-de-declassement-2014) [www.oecd-nea.org &gt; Topics &gt; Paris Convention on Third Party on Liability in the Field of Nuclear Energy &gt; Resources](https://www.oecd-nea.org/jcms/pl_20237/projet-de-decision-et-recommandation-du-comite-de-direction-portant-sur-l-application-de-la-convention-de-paris-aux-installations-nucleaires-en-cours-de-declassement-2014).
 [^annexu1-lvlu6-3]: [Décision et Recommandation portant sur l’application de la Convention de Paris sur la responsabilité civile dans le domaine de l’énergie nucléaire aux installations nucléaires de stockage de certaines catégories de déchets radioactifs de faible activité [NEA/NE(2016)7/FINAL]](https://www.oecd-nea.org/jcms/pl_20230/decision-et-recommandation-portant-sur-l-application-de-la-convention-de-paris-sur-la-responsabilite-civile-dans-le-domaine-de-l-energie-nucleaire-aux-installations-nucleaires-de-stockage-de-certaines-categories-de-dechets-radioactifs-de-faible-activite-nea/ne-2016-7/final) [www.oecd-nea.org &gt; Topics &gt; Paris Convention on Third Party on Liability in the Field of Nuclear Energy &gt; Resources](https://www.oecd-nea.org/jcms/pl_20230/decision-et-recommandation-portant-sur-l-application-de-la-convention-de-paris-sur-la-responsabilite-civile-dans-le-domaine-de-l-energie-nucleaire-aux-installations-nucleaires-de-stockage-de-certaines-categories-de-dechets-radioactifs-de-faible-activite-nea/ne-2016-7/final).
 [^annexu1-lvlu6-4]: [Décision portant sur l’exclusion de petites quantités de substances nucléaires en dehors d’une installation nucléaire du champ d’application de la Convention sur la responsabilité civile dans le domaine de l’énergie nucléaire [NEA/NE(2016)8/FINAL]](https://www.oecd-nea.org/jcms/pl_20243/decision-portant-sur-l-exclusion-de-petites-quantites-de-substances-nucleaires-en-dehors-d-une-installation-nucleaire-du-champ-d-application-de-la-convention-sur-la-responsabilite-civile-dans-le-domaine-de-l-energie-nucleaire-nea/ne-2016-8/final) [www.oecd‑nea.org &gt; Topics &gt; Paris Convention on Third Party on Liability in the Field of Nuclear Energy &gt; Resources](https://www.oecd-nea.org/jcms/pl_20243/decision-portant-sur-l-exclusion-de-petites-quantites-de-substances-nucleaires-en-dehors-d-une-installation-nucleaire-du-champ-d-application-de-la-convention-sur-la-responsabilite-civile-dans-le-domaine-de-l-energie-nucleaire-nea/ne-2016-8/final).
 [^annexu1-lvlu6-5]: [Convention de Paris sur la responsabilité civile dans le domaine de l’énergie nucléaire: exclusion de certaines catégories de substances nucléaires, ch. 4 [NE/M(77)2],](https://www.oecd-nea.org/jcms/pl_79155/dri-compilation-french?preview=true)[www.oecd‑nea.org &gt; Topics &gt; Paris Convention on Third Party on Liability in the Field of Nuclear Energy &gt; Resources](https://www.oecd-nea.org/jcms/pl_79155/dri-compilation-french?preview=true).
 
-## Champs d’application du 11 janvier 2022[^annexu1-lvlu2-1]:
+## Champs d’application du 21 février 2022[^annexu1-lvlu2-1]:
 
-[^annexu1-lvlu2-1]: Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)
+[^annexu1-lvlu2-1]: [RO 2022 44](https://fedlex.data.admin.ch/eli/oc/2022/44), [132](https://fedlex.data.admin.ch/eli/oc/2022/132). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
 
 ### Convention du 29 juillet 1960 et du Protocole additionnel du 28 janvier 1964
 
@@ -407,9 +408,9 @@ Entrées en vigueur pour la Suisse le 1<sup>er</sup> janvier 2022
 <tr><td>Slovénie\*</td><td>16 octobre</td><td>2001 A</td><td>16 octobre</td><td>2001</td></tr>
 <tr><td>Suisse\*</td><td>9 mars</td><td>2009</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
 <tr><td>Suède\*</td><td>1<sup>er</sup> avril</td><td>1968</td><td>1<sup>er</sup> avril</td><td>1968</td></tr>
-<tr><td>Turquie</td><td>10 octobre</td><td>1961</td><td>1<sup>er</sup> avril</td><td>1968</td></tr>
+<tr><td>Turquie\*</td><td>10 octobre</td><td>1961</td><td>1<sup>er</sup> avril</td><td>1968</td></tr>
 <tr><td>Turquie[^annexu1-lvlu2-lvlu1-2]</td><td>5 avril</td><td>1968</td><td>5 avril</td><td>1968</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et anglais pourront être consultés à l’adresse du site Internet de l’Agence pour l’énergie nucléaire de l’OCDE (AEN): [www.oecd-nea.org](https://www.oecd-nea.org/jcms/pl_20196/paris-convention-on-nuclear-third-party-liability) Topics &gt; Nuclear Law &gt; Nuclear liability &gt; the 1960 Paris Convention on Third Party Liability in the Field of Nuclear Energy ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention et le Protocole additionnel ne s’appliquent pas aux Îles Féroé. [tab]</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Agence pour l’énergie nucléaire de l’OCDE (AEN): [www.oecd-nea.org](https://www.oecd-nea.org/jcms/pl_20196/paris-convention-on-nuclear-third-party-liability) Topics &gt; Nuclear Law &gt; Nuclear liability &gt; the 1960 Paris Convention on Third Party Liability in the Field of Nuclear Energy ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention et le Protocole additionnel ne s’appliquent pas aux îles Féroé. [tab]</td></tr>
 </table>
 
 [^annexu1-lvlu2-lvlu1-1]: L’Espagne a ratifié le 30 avril 1965 le Protocole additionnel du 28 janvier 1964.
@@ -448,7 +449,7 @@ Entrées en vigueur pour la Suisse le 1<sup>er</sup> janvier 2022
 ## Protocole du 12 février 2004 portant modification de la Convention du 29 juillet 1960
 
 <table>
-<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne <sup>a</sup></td><td>1<sup>er</sup> janvier</td><td>2022</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
 <tr><td>Belgique <sup>a</sup></td><td>1<sup>er</sup> janvier</td><td>2022</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
 <tr><td>Danemark <sup>a</sup></td><td>1<sup>er</sup> janvier</td><td>2022</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
@@ -464,6 +465,7 @@ Entrées en vigueur pour la Suisse le 1<sup>er</sup> janvier 2022
 <tr><td>Slovénie <sup>a</sup></td><td>1<sup>er</sup> janvier</td><td>2022</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
 <tr><td>Suisse <sup>a</sup></td><td>9 mars</td><td>2009</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
 <tr><td>Suède <sup>a</sup></td><td>1<sup>er</sup> janvier</td><td>2022</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
+<tr><td>Turquie</td><td>4 janvier</td><td>2022 A</td><td>4 janvier</td><td>2022</td></tr>
 <tr><td colspan="5"><sup>a</sup> En application de l’art. 20 de la Convention de Paris, et conformément à la demande des Parties contractantes à ce que le dépôt de leurs instruments de ratification, d’acceptation ou d’approbation soit enregistré le 1<sup>er</sup> janvier 2022, le Protocole de 2004 est entré en vigueur le 1<sup>er</sup> janvier 2022 pour toutes les Parties contractantes à la Convention de Paris qui ont ratifié, accepté ou approuvé le Protocole de 2004 jusqu’à cette date. [tab]</td></tr>
 </table>
 
