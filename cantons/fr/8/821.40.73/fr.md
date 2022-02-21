@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
 language: fr
-version: 2021-11-30
-valid_until: 2022-02-21
-version_adopted: 2021-11-30
+version: 2022-02-22
+valid_until: 2025-12-31
+version_adopted: 2022-02-22
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6991/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7268/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6991/pdf_file"
 
 COVID-19, mesures cantonales – O
 
-du 10.11.2020 (version entrée en vigueur le 30.11.2021)
+du 10.11.2020 (version entrée en vigueur le 22.02.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -61,26 +61,7 @@ Arrête:
 
 #### Art. 2
 
-**Rassemblements et manifestations**
-
-<sup>1</sup> …
-
-<sup>1a</sup> …
-
-<sup>2</sup> …
-
-<sup>3</sup> Les événements et manifestations autorisés en vertu de l'article 6 de l'ordonnance fédérale COVID-19 situation particulière doivent avoir un plan de protection, qui prévoit un système d'information clair, la gestion des flux ainsi que la désinfection obligatoire des mains. L'organisateur doit garantir l'élaboration et la mise en œuvre du plan de protection, qui doit en tout temps être disponible pour les autorités. Il peut prévoir de collecter de manière électronique les coordonnées des participants et participantes, de les conserver durant quatorze jours, puis de les détruire.
-
-<sup>3a</sup> …
-
-<sup>4</sup> Dans des cas exceptionnels, une dérogation à l'interdiction des manifestations prévues par le droit fédéral peut être accordée par le préfet, en coordination avec le Service du médecin cantonal et la Police cantonale, notamment en cas d'impossibilité absolue de report et de réunion en non-présentiel et à la condition que la manifestation réponde à un intérêt prépondérant.
-
-<sup>5</sup> Le comité d'une association de communes peut, par décision notifiée par écrit ou sous forme électronique au plus tard quatre jours avant l'assemblée de délégué‑e‑s, quel que soit le nombre prévu de participants et participantes, sans respecter le délai de convocation et à la condition que l'objet s'y prête, imposer aux délégué‑e‑s d'exercer leurs droits exclusivement:
-
-- a) par écrit ou sous forme électronique, ou
-- b) par l'intermédiaire d'un ou d'une délégué‑e unique assurant la représentation des voix de la commune.
-
-<sup>6</sup> Lorsque, sur l'espace public et dans une situation de forte affluence, les mesures de prévention ne sont pas respectées, les communes peuvent définir des zones de forte affluence au sens de l'article 3c al. 2 de l'ordonnance fédérale COVID-19 situation particulière, dans lesquelles le port du masque facial est obligatoire en vertu de cette disposition. Elles fixent le périmètre ainsi que les horaires auxquels cette obligation s'applique, en coordination avec la Police cantonale. Les zones concernées ainsi que l'obligation du port du masque facial sont dûment signalées.
+**…**
 
 #### Art. 2a
 
@@ -92,19 +73,7 @@ Arrête:
 
 #### Art. 3a
 
-**Etablissements publics**
-
-<sup>1</sup> …
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-<sup>4</sup> …
-
-<sup>5</sup> Les modalités de la mise en œuvre de la collecte des données peuvent être précisées par voie d'ordonnance de la Direction de la santé et des affaires sociales ou de la Direction de la sécurité et de la justice, conformément à l'article 5 al. 2 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration.
-
-<sup>6</sup> Les indications qui se réfèrent aux établissements publics sont également valables pour les manifestations.
+**…**
 
 #### Art. 3b
 
@@ -122,61 +91,31 @@ Arrête:
 
 <sup>2</sup> Sont considérées comme institutions à risque au sens de la présente ordonnance les hôpitaux, les cliniques, la maison de naissance, les services d'ambulances, les établissements et foyers de jour pour personnes âgées, les services d'aide et de soins à domicile ainsi que les institutions spécialisées pour les personnes en situation de handicap et souffrant d'addiction.
 
-<sup>3</sup> Le certificat COVID-19 est obligatoire pour les visites dans les institutions à risque. Ces dernières doivent prévoir des exceptions, notamment pour les situations de fin de vie et les urgences.
+<sup>3</sup> …
 
 #### Art. 4a
 
-**Institutions à risque – Personnel**
-
-<sup>1</sup> Le personnel en contact avec les personnes prises en charge dans les institutions à risque (ci-après: personnel concerné) doit prouver qu'il est titulaire d'un certificat COVID-19 valable au sens de la législation fédérale ou qu'il dispose d'un test négatif au COVID-19 réalisé dans le cadre du testing en entreprise.
-
-<sup>2</sup> L'institution met en place une procédure de tests pour son personnel concerné qui ne dispose pas d'un certificat COVID-19 valable, dans le respect de la procédure cantonale relative aux tests répétitifs à large échelle.
-
-<sup>3</sup> L'institution est responsable de contrôler les exigences prévues à l'alinéa 1.
-
-<sup>4</sup> L'institution tient une liste du personnel vacciné ou guéri disposant d'un certificat COVID-19 en veillant à respecter la législation sur la protection des données. Elle communique régulièrement le nombre de personnes vaccinées ou guéries au Service du médecin cantonal.
-
-<sup>5</sup> Les exigences prévues pour le personnel concerné s'appliquent par analogie aux intervenants et intervenantes extérieurs en contact avec les personnes prises en charge.
+**…**
 
 #### Art. 4b
 
-**Institutions à risque – Contrôle et sanctions**
-
-<sup>1</sup> Le Service du médecin cantonal est compétent pour contrôler le respect des prescriptions de l'article 4a par des moyens appropriés, notamment une vérification sur place.
-
-<sup>2</sup> La violation des prescriptions de l'article 4a peut faire l'objet d'une sanction conformément à la LEp.
+**…**
 
 #### Art. 4c
 
-**Police cantonale – Personnel**
-
-<sup>1</sup> Lorsque les circonstances et les missions l'exigent, tout ou partie du personnel de la Police cantonale peut, par analogie à l'article 4a, être astreint à prouver qu'il est titulaire d'un certificat COVID-19 valable au sens de la législation fédérale ou qu'il dispose d'un test négatif au COVID-19.
-
-<sup>2</sup> La Police cantonale tient une liste du personnel vacciné ou guéri disposant d'un certificat COVID-19 en veillant à respecter la législation sur la protection des données. Elle communique chaque mois le nombre de personnes vaccinées ou guéries à la Direction de la sécurité et de la justice.
+**…**
 
 #### Art. 4d
 
-**Police cantonale – Contrôle et sanctions**
-
-<sup>1</sup> La Police cantonale est compétente pour contrôler le respect des prescriptions de l'article 4c par des moyens appropriés.
-
-<sup>2</sup> La violation des prescriptions de l'article 4c peut faire l'objet d'une sanction conformément à la LEp.
+**…**
 
 #### Art. 4e
 
-**Inspecteurs des autres services intervenant dans le cadre du Groupe de coordination contrôles COVID (G3C COVID-19)**
-
-<sup>1</sup> Lorsque les circonstances ou les missions l'exigent et que le certificat COVID-19 est obligatoire pour accéder au lieu contrôlé, ce dernier peut être exigible pour les inspecteurs des autres services intervenant dans le cadre du G3C COVID-19.
-
-<sup>2</sup> Les chefs des services précités sont compétents pour contrôler le respect des prescriptions de l'alinéa 1 par des moyens appropriés.
-
-<sup>3</sup> La violation des prescriptions de l'alinéa 1 peut faire l'objet d'une sanction conformément à la LEp.
+**…**
 
 #### Art. 5
 
-**Structures d'accueil extrafamilial de jour**
-
-<sup>1</sup> Les structures d'accueil extrafamilial de jour restent ouvertes, moyennant un plan de protection.
+**…**
 
 #### Art. 6
 
@@ -212,11 +151,7 @@ Arrête:
 
 #### Art. 13a
 
-**Dérogations**
-
-<sup>1</sup> Les allégements visés par l'article 7 de l'ordonnance fédérale COVID-19 situation particulière sont décidés par la Direction de la sécurité et de la justice, sur le préavis du bureau de l'Organe cantonal de conduite et des Directions concernées.
-
-<sup>2</sup> Lorsque des intérêts prépondérants l'exigent, des dérogations aux mesures prévues par la présente ordonnance peuvent être octroyées par la Direction de la sécurité et de la justice, sur le préavis du bureau de l'Organe cantonal de conduite et des Directions concernées.
+**…**
 
 #### Art. 14
 
@@ -224,12 +159,10 @@ Arrête:
 
 <sup>1</sup> Les présentes mesures portent effet jusqu'à leur abrogation. En fonction de la situation sanitaire, elles peuvent être adaptées. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
 
-<sup>2</sup> Elles remplacent les mesures consignées dans l'arrêté du 3 novembre 2020, publié dans la Feuille officielle du 6 novembre 2020, concernant les mesures cantonales pour freiner la propagation du coronavirus.
+<sup>2</sup> …
 
 #### Art. 15
 
-**Disposition transitoire – Remboursement des tests sérologiques**
-
-<sup>1</sup> Les tests sérologiques sont remboursés aux personnes qui se vaccinent dans un délai d'un mois après leur test sérologique, jusqu'au 31 décembre 2021.
+**…**
 
 2020\_145
