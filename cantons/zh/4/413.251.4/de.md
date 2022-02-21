@@ -4,10 +4,10 @@ number: "413.251.4"
 title: Promotionsreglement für die Fachmittelschulen des Kantons Zürich
 language: de
 version: "2020-06-16"
-nachtrag: "110"
-valid_until: 2022-02-21
+nachtrag: "116"
+valid_until: 2022-08-01
 adopted: 2007-06-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_251_4-2007_06_29-2007_08_20-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_251_4-2007_06_29-2007_08_20-116.html"
 text: pdf
 ---
 
@@ -63,9 +63,9 @@ Die Noten für weitere Fächer gemäss Lehrplan sind für den Entscheid über di
 
 **1**
 
-1.10. 20 - 110 § 5. Die Leistungen in den einzelnen Fächern werden mit ganzen und halben Noten bewertet. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
+- 1\. 4. 22 - 116 § 5. Die Leistungen in den einzelnen Fächern werden mit ganzen und halben Noten bewertet. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
-[^hCBeurteilungderL-1]: Fassung gemäss Beschluss des Bildungsrates vom 6. Juli 2020 (OS 75, 389; ABl 2020-08-07). In Kraft seit 16. Juni 2020. 1.10. 20 - 110 3
+[^hCBeurteilungderL-1]: Fassung gemäss Beschluss des Bildungsrates vom 6. Juli 2020 (OS 75, 389; ABl 2020-08-07). In Kraft seit 16. Juni 2020.
 
 #### § 6
 
@@ -83,7 +83,7 @@ Die Noten für weitere Fächer gemäss Lehrplan sind für den Entscheid über di
 
 § 7.[^hDPromotionsentsche-1] Der Klassenkonvent entscheidet am Ende der Probezeit über die definitive Aufnahme und jeweils am Ende des Semesters, letztmals am Ende des 4. Semesters, über die Promotion.
 
-[^hDPromotionsentsche-1]: Fassung gemäss Beschluss des Bildungsrates vom 6. Juli 2020 (OS 75, 389; ABl 2020-08-07). In Kraft seit 16. Juni 2020. 1.10. 20 - 110 3
+[^hDPromotionsentsche-1]: Fassung gemäss Beschluss des Bildungsrates vom 6. Juli 2020 (OS 75, 389; ABl 2020-08-07). In Kraft seit 16. Juni 2020.
 
 #### § 8
 
@@ -103,9 +103,9 @@ Schülerinnen und Schüler, welche die Bedingungen für die definitive Aufnahme 
 
 **Letzte Promotionstermine**
 
-§ 10.[^9-1] Eine provisorische Promotion kann letztmals Ende des Semesters, eine Nichtpromotion am Ende des 4. Semesters ausgesprochen werden.
+§ 10.[^9-1] Eine provisorische Promotion kann letztmals Ende des 3. Semesters, eine Nichtpromotion am Ende des 4. Semesters ausgesprochen werden.
 
-[^9-1]: Fassung gemäss Beschluss des Bildungsrates vom 6. Juli 2020 (OS 75, 389; ABl 2020-08-07). In Kraft seit 16. Juni 2020. 1.10. 20 - 110 3
+[^9-1]: Fassung gemäss Berichtigung vom 21. Februar 2022 (OS 77, 137). In Kraft seit 16. Juni 2020. 1. 4. 22 - 116 3
 
 #### § 11
 
@@ -143,7 +143,7 @@ Für Schülerinnen und Schüler, die die Ausbildung im Schuljahr 2005/06 und 200
 
 **5**
 
-1.10. 20 - 110
+- 1\. 4. 22 - 116
 
 ## Weitere Fussnoten
 
