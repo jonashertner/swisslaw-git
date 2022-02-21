@@ -4,11 +4,10 @@ number: "172.110.5"
 title: Organisationsverordnung der Gesundheitsdirektion (OV GD)
 short: OV GD
 language: de
-version: "2020-06-01"
-nachtrag: "110"
-valid_until: 2022-02-21
+nachtrag: "116"
+valid_until: 2023-10-26
 adopted: 2021-12-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_5-2011_10_27-2011_11_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_5-2021_12_23-2022_01_01-116.html"
 text: pdf
 ---
 
@@ -16,71 +15,50 @@ text: pdf
 
 # Organisationsverordnung der Gesundheitsdirektion (OV GD)
 
-(vom 27. Oktober 2011)[^t-1],[^t-2]
+(vom 23. Dezember 2021)[^t-1]
 
-Die Gesundheitsdirektion verfügt:
+Die Gesundheitsdirektion,
 
-A.[^t-3] Einleitung
+gestützt auf § 60 Abs. 1 der Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung vom 18. Juli 2007 (VOG RR)[^t-2],
 
-**Geltungsbereich**
+verfügt:
 
-§ 1. Diese Verordnung regelt:
+[^t-1]: OS 77, 63; Begründung siehe ABl 2022-01-07.
+[^t-2]: LS 172.11.
 
-- a. die Gliederung der Gesundheitsdirektion (Direktion),
+### 1. Abschnitt: Organisation und Aufgaben
 
-- b. deren Organisation und Führung,
+A. Gliederung
 
-- c. die Aufgabenbereiche der Verwaltungseinheiten und der administrativ angegliederten Einheiten,
+**Direktion**
 
-- d. die Vertretung im Zuständigkeitsbereich der Direktionsvorsteherin oder des Direktionsvorstehers,
+§ 1. <sup>1</sup> Die Gesundheitsdirektion (Direktion) ist wie folgt gegliedert:
 
-- e. die Zuständigkeiten, die Unterschrifts- und Anweisungsberechtigung,
+- a. Generalsekretariat (GS),
 
-- f. die Kommunikation.
+- b. Abteilung Kommunikation (KOM),
 
-B.[^t-3] Gliederung der Direktion
+- c. Ämter:
 
-**Verwaltungseinheiten**
+- 1\. Amt für Gesundheit (AFG),
 
-§ 2. <sup>1</sup> Die Direktion gliedert sich in folgende Verwaltungseinheiten (Organigramm siehe Anhang 1):[^t-3] a. Geschäftsfelder:
+- 2\. Kantonsapotheke (KAZ),
 
-- 1\. Generalsekretariat (GS),
+- 3\. Kantonale Heilmittelkontrolle (KHZ),
 
-- 2\. Gesundheitsversorgung (GV),
+- 4\. Kantonales Labor (KLZH),
 
-- 3\. Medizin (MED).
+- 5\. Veterinäramt (VETA).
 
-- 4\. . . .[^t-4]
+<sup>2</sup> Die Ämter sind gemäss Anhang 1 gegliedert.
 
-- b. Ämter:
+#### § 2
 
-- 1\. Kantonsapotheke (KAZ),
+**Kommissionen und Anstalten**
 
-- 2\. Kantonale Heilmittelkontrolle (KHZ),
+<sup>1</sup> Der Direktion ist die Kantonale Ethikkommission (KEK) administrativ angegliedert.
 
-- 3\. Kantonales Labor (KLZH),
-
-- 4\. Veterinäramt (VETA).
-
-<sup>2</sup> Untereinheiten der Geschäftsfelder gemäss lit. a werden als Abteilungen, Untereinheiten der Abteilungen als Bereiche bezeichnet.
-
-**1**
-
-1.10. 20 - 110 § 3. <sup>1</sup> Der Direktion sind folgende Einheiten administrativ angegliedert:
-
-**Administrativ angegliederte Einheiten**
-
-- 1\. die durch den Regierungsrat gewählten Kommissionen im Zuständigkeitsbereich der Direktion,
-
-- 2\. die Konsultativorgane der Direktion.
-
-<sup>2</sup> Die administrativ angegliederten Einheiten werden von den zuständigen Leiterinnen und Leitern der Geschäftsfelder oder der Ämter administriert (siehe Anhang 2).
-
-<sup>3</sup> Für die administrativ angegliederten Einheiten gilt diese Verordnung direkt, wo es ausdrücklich erwähnt ist, und sinngemäss, soweit dies mit deren Funktion und Aufgaben vereinbar ist.
-
-**Kantonale Spitäler und Kliniken**
-
-§ 3 a.[^t-5] Die Gesundheitsdirektion nimmt gegenüber folgenden selbstständigen Anstalten die Aufsicht und die Interessen des Kantons als Eigentümer wahr:
+<sup>2</sup> Der Direktion sind folgende selbstständigen Anstalten zugeordnet:
 
 - a. Universitätsspital Zürich (USZ),
 
@@ -90,592 +68,846 @@ B.[^t-3] Gliederung der Direktion
 
 - d. Integrierte Psychiatrie Winterthur – Zürcher Unterland (ipw).
 
-C.[^t-3] Organisation und Führung der Direktion
+<sup>3</sup> Dem Amt für Gesundheit ist die Kommission HIV und andere übertragbare Krankheiten zugeordnet.
 
-**Direktionsvorsteherin oder Direktionsvorsteher**
+**1**
 
-§ 4. <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher trägt die oberste Verantwortung für die Organisation und Führung der Direktion und deren Aufgabenerfüllung.
+- 1\. 4. 22 - 116
 
-<sup>2</sup> Sie oder er führt als Direktunterstellte die Generalsekretärin oder den Generalsekretär sowie die Leiterinnen und Leiter der Ämter.[^t-3]
+<sup>4</sup> Dem Veterinäramt sind folgende Kommissionen administrativ angegliedert:
+
+- a. Tierschutzkommission,
+
+- b. Tierversuchskommission,
+
+- c. Schadenskommission.
+
+<sup>5</sup> §§ 30–32 gelten für die Kommissionen sinngemäss.
+
+### B. Direktionsvorsteherin oder Direktionsvorsteher
+
+#### § 3
+
+**Stellung und Aufgaben**
+
+<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher trägt die oberste Verantwortung für die Führung und Steuerung der Direktion und deren Aufgabenerfüllung.
+
+<sup>2</sup> Sie oder er a. stellt die Umsetzung der Legislaturziele des Regierungsrates in der Direktion sicher,
+
+- b. legt die Legislaturziele und die Aufgaben- und Finanzplanung der Direktion fest,
+
+- c. genehmigt Planungen und Anträge des Generalsekretariats und der Ämter,
+
+- d. weist dem Generalsekretariat und den Ämtern Aufgaben und Kompetenzen zu,
+
+- e. beaufsichtigt das Generalsekretariat und stellt die Aufsicht über die Ämter und die zugeordneten oder administrativ angegliederten Einheiten sicher,
+
+- f. gewährleistet den Vollzug des Rechts und von Entscheidungen des Regierungsrates und der Gerichte,
+
+- g. führt die ihr oder ihm direkt Unterstellten,
+
+- h. legt die Führungs- und Controllinginstrumente der Direktion fest.
+
+#### § 4
+
+**Unterstellungen**
+
+Der Direktionsvorsteherin oder dem Direktionsvorsteher sind direkt unterstellt:
+
+- a. die Generalsekretärin oder der Generalsekretär,
+
+- b. die Amtsleiterinnen und Amtsleiter,
+
+- c. die Leiterin oder der Leiter der Kommunikationsabteilung,
+
+- d. die Direktionsassistentin oder der Direktionsassistent.
+
+### C. Generalsekretariat
+
+#### § 5
+
+**Aufgaben und Gliederung**
+
+<sup>1</sup> Das Generalsekretariat ist allgemeine Stabsstelle und Dienstleistungszentrum der Direktion.
+
+<sup>2</sup> Das Generalsekretariat erfüllt die Aufgaben eines Amtes gemäss § 12, ferner folgende Aufgaben:
+
+- a. Unterstützung der Direktionsvorsteherin oder des Direktionsvorstehers bei der Erfüllung ihrer oder seiner Aufgaben,
+
+- b. Unterstützung und Begleitung der Ämter bei der Erfüllung ihrer Aufgaben, wobei es insbesondere die Sicht der Direktion einbringt,
+
+- c. Erfüllung der Aufgaben der Direktion, die keinem Amt zugewiesen sind,
+
+- d. Vertretung der Direktion in den Koordinationsorganen der Direktionen gemäss § 68 VOG RR,
+
+- e. Geschäftskontrolle über die Direktionsgeschäfte.
+
+<sup>3</sup> Das Generalsekretariat ist wie folgt gegliedert:
+
+- a. Abteilung Recht & Politik (R&P)
+
+- b. Abteilung Personal (HR),
+
+- c. Abteilung Finanzen & Digital Management (F&D),
+
+- d. Fachstelle Rechtsmittel (RM),
+
+- e. Team Administration und Loge (A&L).
+
+<sup>4</sup> Dem Generalsekretariat ist die Geschäftsstelle der kantonalen Ethikkommission angegliedert.
+
+#### § 6
 
 **Generalsekretärin oder Generalsekretär**
 
-§ 5. Die Generalsekretärin oder der Generalsekretär führt im Auftrag der Direktionsvorsteherin oder des Direktionsvorstehers die Geschäftsfeldleiterinnen und -leiter und die Abteilungsleiterinnen und -leiter des Generalsekretariats.
+<sup>1</sup> Die Generalsekretärin oder der Generalsekretär unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher im gesamten Aufgabenbereich. Sie oder er vertritt die Vorsteherin oder den Vorsteher im Einvernehmen mit ihr oder ihm gegen innen und aussen und ist insoweit gegenüber den Ämtern weisungsbefugt.
 
-**Stv. Generalsekretärin oder Stv. Generalsekretär**
+<sup>2</sup> Sie oder er trägt die Verantwortung für die Führung und Steuerung des Generalsekretariats und die Erfüllung seiner Aufgaben.
 
-§ 6.[^t-3] Die Stellvertretende Generalsekretärin oder der Stellvertretende Generalsekretär unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher bei der Führung der Ämter.
+<sup>3</sup> Sie oder er erfüllt für das Generalsekretariat die Aufgaben der Amtsleiterinnen und Amtsleiter gemäss §§ 13 und 14, ferner folgende Aufgaben:
 
-[^t-1]: OS 66, 927; Begründung siehe ABl 2011, 3185.
-[^t-2]: Inkrafttreten: 1. November 2011.
-[^t-3]: Fassung gemäss Vfg. vom 2. April 2019 (OS 74, 202; ABl 2019-04-18). In Kraft seit 1. Mai 2019.
-[^t-4]: Aufgehoben durch Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
-[^t-5]: Eingefügt durch Vfg. vom 2. April 2019 (OS 74, 202; ABl 2019-04-18). In Kraft seit 1. Mai 2019.
-[^t-6]: Fassung gemäss Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
+- a. Koordination der Zusammenarbeit zwischen dem Generalsekretariat und den Ämtern, unter den Ämtern sowie mit den anderen Direktionen und der Staatskanzlei,
 
-#### § 7
-
-**Geschäftsleitung**
-
-<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher, die Generalsekretärin oder der Generalsekretär, die Stellvertretende Generalsekretärin oder der Stellvertretende Generalsekretär, die Leiterinnen und Leiter der Geschäftsfelder, die oder der Personalbeauftragte, die oder der Kommunikationsbeauftragte sowie die Leiterin oder der Leiter der Abteilung Finanzen & Dienstleistungen bilden die Geschäftsleitung. Bei Bedarf können weitere Personen beigezogen werden. Die Direktionsvorsteherin oder der Direktionsvorsteher hat den Vorsitz.[^t-6]
-
-<sup>2</sup> Die Geschäftsleitung a. unterstützt und berät die Direktionsvorsteherin oder den Direktionsvorsteher in Fragen der Organisation, Führung und Aufgabenerfüllung der Direktion,
-
-- b. dient dem Informationsaustausch unter den Geschäftsfeldern.
-
-[^7-1]: Fassung gemäss Vfg. vom 2. April 2019 (OS 74, 202; ABl 2019-04-18). In Kraft seit 1. Mai 2019.
-
-### D. Aufgabenbereiche der Verwaltungseinheiten und der administrativ
-
-[^7-1]
-
-angegliederten Einheiten
-
-**Kernauftrag**
-
-§ 8.[^hD71Aufgabenber-1] <sup>1</sup> Der Kernauftrag der Geschäftsfelder und ihrer Untereinheiten richtet sich nach Anhang 3, derjenige der Ämter nach Anhang 4 zu dieser Verordnung.
-
-<sup>2</sup> Soweit sich der Kernauftrag der administrativ angegliederten Einheiten nicht aus dem eidgenössischen oder kantonalen Recht ergibt, richtet er sich nach dem jeweiligen Organisationsreglement. Dieses bedarf der Genehmigung der Direktionsvorsteherin oder des Direktionsvorstehers und wird öffentlich zugänglich gemacht.
-
-**Sonderaufträge**
-
-§ 9.[^hD71Aufgabenber-1] Die Geschäftsfelder, die Ämter und die administrativ angegliederten Einheiten erledigen Sonderaufträge der Direktionsvorsteherin oder des Direktionsvorstehers und der Generalsekretärin oder des Generalsekretärs.
-
-**Aufträge Dritter**
-
-§ 10.[^hD71Aufgabenber-1] <sup>1</sup> Die Geschäftsfelder, die Ämter und die administrativ angegliederten Einheiten dürfen in ihrem Zuständigkeitsbereich Aufträge Dritter annehmen, sofern:
-
-- a. dadurch die Erfüllung des Kernauftrags und der Sonderaufträge nicht beeinträchtigt wird,
-
-- b. der Auftraggeber oder andere Dritte die dadurch entstehenden Kosten decken.
-
-<sup>2</sup> Vorbehalten bleiben §§ 13 Abs. 1 lit. c und 14 Abs. 1 lit. e.
+- b. Sicherstellung der für die Direktion zentralen Führungsprozesse.
 
 **3**
 
-1.10. 20 - 110
+- 1\. 4. 22 - 116 § 7. <sup>1</sup> Die Abteilung Recht & Politik berät die Direktionsvorsteherin oder den Direktionsvorsteher und die Generalsekretärin oder den Generalsekretär in juristischen Fragen und bei politischen Geschäften.
 
-[^hD71Aufgabenber-1]: Fassung gemäss Vfg. vom 2. April 2019 (OS 74, 202; ABl 2019-04-18). In Kraft seit 1. Mai 2019.
+**Abteilung Recht & Politik**
 
-### E. Vertretung im Zuständigkeitsbereich der Direktionsvorsteherin
+<sup>2</sup> Auf Direktionsebene erfüllt sie folgende Aufgaben:
 
-[^hD71Aufgabenber-1]
+- a. Prüfung der Anträge und Eingaben der Ämter unter rechtlichen und politischen Gesichtspunkten zuhanden der Direktionsvorsteherin oder des Direktionsvorstehers aus Sicht der Direktion,
 
-oder des Direktionsvorstehers sowie Zuständigkeiten, Unterschrifts- und Anweisungsberechtigung
+- b. Bearbeitung parlamentarischer Geschäfte unter Miteinbezug der Ämter,
 
-**Vertretung im Zuständigkeitsbereich der Direktionsvorsteherin oder des Direktionsvorstehers a. Handeln in ihrem oder seinem Namen**
+- c. Prüfung der Anträge anderer Direktionen an den Regierungsrat unter rechtlichen und politischen Gesichtspunkten,
 
-§ 11.[^hEhD71Aufgabenber-1] Die Generalsekretärin oder der Generalsekretär sowie die Stellvertretende Generalsekretärin oder der Stellvertretende Generalsekretär sind ermächtigt, im Einvernehmen mit der Direktionsvorsteherin oder dem Direktionsvorsteher in allen Geschäften zu handeln und Dokumente aller Art in ihrem oder seinem Namen zu unterzeichnen.
+- d. Leitung komplexer Rechtsetzungsvorhaben im Zuständigkeitsbereich der Direktion,
 
-**b. Handeln im eigenen Namen**
+- e. Vorbereitung und Koordination des Austausches mit interkantonalen, nationalen oder internationalen Gremien, in denen die Direktionsvorsteherin oder der Direktionsvorsteher Einsitz hat,
 
-§ 12.[^hEhD71Aufgabenber-1] <sup>1</sup> Die Generalsekretärin oder der Generalsekretär, die Stellvertretende Generalsekretärin oder der Stellvertretende Generalsekretär sowie die oder der Personalbeauftragte in Personalgeschäften sind ermächtigt, im Rahmen von Mitberichtsverfahren, Verfahren zur Einholung besonderer Stellungnahmen und Antragsbereinigungsverfahren im Sinne von §§ 39 und 40 der Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung (VOG RR)[^hEhD71Aufgabenber-2] Dokumente in eigenem Namen zu unterzeichnen, sofern deren Inhalt nicht von erheblicher politischer Bedeutung ist.
+- f. Wahrnehmung der allgemeinen Aufsicht über die kantonalen Spitäler,
 
-<sup>2</sup> Die Berechtigung kann im Rahmen von Regelungen im Sinne von § 15 Abs. 3 weiter delegiert werden.
+- g. Bearbeitung von Geschäften, die nicht in den Zuständigkeitsbereich der Ämter und der anderen Abteilungen des Generalsekretariats fallen.
 
-**Zuständigkeiten**
+<sup>3</sup> Für die Ämter erfüllt sie folgende Aufgaben:
 
-§ 13.[^hEhD71Aufgabenber-1] <sup>1</sup> Die Leiterinnen und Leiter der Geschäftsfelder, der Abteilungen und der Ämter sowie die oder der Personalbeauftragte bzw. bei deren Abwesenheit deren Stellvertreterinnen und Stellvertreter sind zuständig für:
+- a. Unterstützung und Beratung in juristischen Fragen,
 
-- a. die Führung und Steuerung ihrer Verwaltungseinheit,
+- b. Unterstützung bei weniger komplexen Rechtsetzungsgeschäften im Zuständigkeitsbereich des Amts.
 
-- b. den Abschluss von Verträgen, sofern die finanziellen Auswirkungen im Rahmen ihrer Ausgabenkompetenzen gemäss Anhang 5 liegen,
+#### § 8
 
-- c. die Übernahme von Aufträgen, welche die Voraussetzungen von § 10 erfüllen und die zu einmaligen Einnahmen bis höchstens Fr. 500 000 oder zu wiederkehrenden Einnahmen bis höchstens Fr. 100 000 führen,
+**Abteilung Finanzen & Digital Management**
 
-- d. den Entscheid über die Führung eines Prozesses oder über den Abschluss eines Vergleichs bei einem Streitwert bzw. einer Verpflichtung des Kantons bis Fr. 250 000,
+<sup>1</sup> Die Abteilung Finanzen & Digital Management erfüllt auf Direktionsebene folgende Aufgaben:
 
-- e. Annahmen von Erbschaften und Zuwendungen Dritter in den Fällen von § 49 Abs. 3 der Finanzcontrollingverordnung (FCV)[^hEhD71Aufgabenber-3] bis zu einem Wert von Fr. 250 000 pro Zuwendung,
+- a. finanzielle Gesamtsteuerung der Direktion (Koordination von Budgetierung, Finanzplanung, Sicherstellung Reporting und Jahresabschluss sowie Steuerung des internen Kontrollsystems [IKS]),
 
-- f. die Entbindung ihrer Mitarbeitenden vom Amtsgeheimnis gemäss Art. 320 StGB[^hEhD71Aufgabenber-4].
+- b. Vorbereitung der Rahmen- und Jahreskontrakte zu den von den Ämtern zu erbringenden Leistungen,
 
-<sup>2</sup> Die Begründung neuer Mietverhältnisse sowie die Erneuerung oder Ablösung bestehender Mietverhältnisse unterstehen dem Standardprozess der Immobilienverordnung.
+- c. Sicherstellung der Umsetzung der finanziellen Vorgaben des Kantons und der Finanzverwaltung,
 
-<sup>3</sup> Die administrativ angegliederten Einheiten verfügen nur dann über Finanzkompetenzen, wenn ihnen im Organisationsreglement ausdrücklich solche eingeräumt werden.
+- d. Vorbereitung von Anträgen an den Regierungsrat in den Bereichen Finanzen, Digitalisierung und Informations- und Kommunikationstechnologie (IKT) sowie Prüfung der Anträge anderer Direktionen unter diesen Gesichtspunkten,
 
-**Unterschriftenberechtigung a. Vorbehalt zugunsten der Direktionsvorsteherin oder des Direktionsvorstehers**
+- e. Vorbereitung und Koordination der Geschäfte der Finanzkontrolle sowie der Finanzkommission, der Kommission für soziale Sicherheit und Gesundheit (Geschäfte mit finanziellen Aspekten) und der Aufsichtskommission Bildung und Gesundheit (Beteiligungscontrolling) des Kantonsrates,
 
-§ 14.[^hEhD71Aufgabenber-1] <sup>1</sup> Unter Vorbehalt der §§ 11 und 12 sind der Direktionsvorsteherin oder dem Direktionsvorsteher unabhängig von der Zuständigkeit nach § 13 und der Ausgabenkompetenz nach Anhang 5 folgende Geschäfte zur Unterschrift vorzulegen:
+- f. Revisionen gemäss Staatsbeitragsrecht,
 
-- a. Anträge an den Regierungsrat,
+- g. Unterstützung der Ämter in den Bereichen Finanzen und Digital Management,
 
-- b. Korrespondenz mit Vorsteherinnen und Vorstehern von Bundesdepartementen, von Direktionen anderer Kantone, von anderen Direktionen des Regierungsrates, von Fachdirektorenkonferenzen und von vergleichbaren Stellen,
+- h. Vertretung der Direktion in direktionsübergreifenden Gremien des Finanzwesens, der Digitalisierung und der IKT,
 
-- c. Weitere Korrespondenz mit erheblicher politischer Bedeutung,
+- i. Gesamtverantwortung für die Informationssicherheit, die IKT-Steuerung und die digitale Strategie,
 
-- d. Allgemeinverfügungen, Kreisschreiben und Weisungen von erheblicher politischer Bedeutung, unter Vorbehalt abweichender Zuständigkeitsregelungen des übergeordneten Rechts,
+- j. Wahrnehmung der Eigentümerrolle und Sicherstellung des Beteiligungscontrollings bei den kantonalen Spitälern und bei kantonalen Beteiligungen,
 
-- e. Verträge mit erheblicher politischer Bedeutung,
+- k. finanzielle Gesamtsteuerung und Abrechnung im Bereich Prämienverbilligung.
 
-- f. Übertragungen ins Finanzvermögen sowie Veräusserungen von nicht mehr benötigtem Verwaltungsvermögen.
+<sup>2</sup> Für das Generalsekretariat, das Amt für Gesundheit, die Kantonale Heilmittelkontrolle und das Veterinäramt erfüllt die Abteilung folgende Aufgaben:
 
-<sup>2</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher unterzeichnet in den Fällen gemäss lit. e zusammen mit der Leitung des Geschäftsfeldes, der Abteilung oder des Amtes. In den übrigen Fällen unterzeichnet sie bzw. er allein.
+- a. Abschluss von Leistungsvereinbarungen (SLA) mit dem Amt für Informatik, Sicherstellung der Einhaltung der Vereinbarungen, Kontaktstelle zum Amt für Informatik (single point of contact) sowie Steuerung des IKT-Budgets,
 
-<sup>3</sup> Bei Gegenständen mit erheblicher politischer Bedeutung ist immer rechtzeitig Rücksprache mit der Direktionsvorsteherin oder dem Direktionsvorsteher zu nehmen.
+- b. Leitung der Digitalisierungsprojekte, der IKT-Projekte sowie von Fachapplikationsprojekten (signifikante Änderungen, major releases).
 
-**b. Im Zuständigkeitsbereich der Verwaltungseinheiten**
+<sup>3</sup> Für das Generalsekretariat und das Amt für Gesundheit erfüllt die Abteilung folgende Aufgaben:
 
-§ 15.[^hEhD71Aufgabenber-1] <sup>1</sup> Unter Vorbehalt von § 14 sind die Leiterinnen und Leiter der Geschäftsfelder, der Abteilungen und der Ämter sowie die oder der Personalbeauftragte bzw. bei deren Abwesenheit deren Stellvertreterinnen und Stellvertreter für die in ihren Zuständigkeitsbereich fallenden Geschäfte unterschriftsberechtigt.
+- a. operatives Rechnungswesen, insbesondere Rechnungstellung und Debitorenbuchhaltung, sowie Sicherstellung des IKS,
 
-<sup>2</sup> Im Kantonsärztlichen und im Kantonszahnärztlichen Dienst, in der Abteilung Gesundheitsberufe und Bewilligungen (Kernaufgaben Bewilligungswesen und Aufsicht) sowie in den Ämtern erfolgt die Unterzeichnung in deren Namen. In den übrigen Fällen erfolgt die Unterzeichnung im Namen der Direktion.
+- b. Betrieb einer Geschäftsverwaltung.
+
+#### § 9
+
+**Abteilung Personal**
+
+<sup>1</sup> Die Abteilung Personal bearbeitet für die gesamte Direktion personalstrategische und personalrechtliche Fragen. Auf Direktionsebene erfüllt sie folgende Aufgaben:
+
+- a. Umsetzung der kantonalen Personalstrategie und Erarbeitung der Personalstrategie der Direktion,
+
+- b. Personalentwicklung und betriebliches Gesundheitsmanagement,
 
 **5**
 
-1.10. 20 - 110
+- 1\. 4. 22 - 116
 
-<sup>3</sup> Die Leiterinnen und Leiter regeln die Unterschriftsberechtigung im Geschäftsfeld oder im Amt schriftlich.
+- c. Erarbeitung von Vorgaben im Personalbereich unter Berücksichtigung der kantonalen Vorgaben und unter Beachtung der Besonderheiten des Generalsekretariats und der Ämter,
 
-<sup>4</sup> Verträge bedürfen der Doppelunterschrift.
+- d. Führung der Stellenpläne und Erhebung der Führungskennzahlen für die Direktion,
 
-<sup>5</sup> Sind administrativ angegliederte Einheiten gemäss den Bestimmungen des eidgenössischen oder kantonalen Rechts oder ihren Organisationsreglementen zum Erlass von Beschlüssen oder Verfügungen berechtigt, so unterzeichnet die Präsidentin oder der Präsident gemeinsam mit einem anderen Mitglied. Vorbehalten bleiben abweichende Spezialbestimmungen oder Regelungen im Organisationsreglement.
+- e. Kontrolle der Personalbudgets auf Direktionsstufe,
 
-**Ausgabenkompetenz**
+- f. Sicherstellung der Einhaltung des Personalrechts in der Direktion,
 
-§ 16.[^hEhD71Aufgabenber-5] <sup>1</sup> Die Leiterinnen und Leiter der Geschäftsfelder, der Abteilungen und der Ämter sowie die oder der Personalbeauftragte (Leitungen) bzw. bei deren Abwesenheit deren Stellvertreterinnen und Stellvertreter verfügen in ihren Aufgabenbereichen über die Ausgabenkompetenzen nach Anhang 5.
+- g. Erstellung und Weiterentwicklung von Prozessen und Hilfsmitteln im Personalbereich,
 
-<sup>2</sup> Die Leitungen können die Ausgabenkompetenz an Mitarbeitende ihres Geschäftsfeldes, ihrer Abteilung oder ihres Amtes delegieren. Die Delegation erfolgt schriftlich. Die Delegationsregelung ist der Abteilung Finanzen & Dienstleistungen mitzuteilen.
+- h. Unterstützung der Ämter im Personalwesen,
 
-<sup>3</sup> Ausgabenbewilligungen über Fr. 1000 erfolgen schriftlich. Sie können in anderer Form erfolgen, wenn die Klarheit und Nachvollziehbarkeit der Ausgabenbewilligung sicherstellt ist.
+- i. Vertretung der Direktion in direktionsübergreifenden Gremien des Personalwesens,
 
-**Anweisungsberechtigung**
+- j. Vertretung der Direktion in personalrechtlichen Streitigkeiten.
 
-§ 16 a.[^hEhD71Aufgabenber-6] <sup>1</sup> Die Leitungen nach § 16 Abs. 1 können im Rahmen ihrer Ausgabenkompetenz die Anweisung zur Freigabe einer Zahlung erteilen. Ist die Höhe einer Ausgabe in der Ausgabenbewilligung genau bestimmt oder bestimmbar, besteht die Anweisungsberechtigung in unbeschränkter Höhe.
+<sup>2</sup> Für das Generalsekretariat und das Amt für Gesundheit erfüllt die Abteilung Personal die operativen Aufgaben im Personalbereich. Dazu gehören insbesondere:
 
-<sup>2</sup> Für die Delegation der Anweisungsberechtigung gilt § 16 Abs. 2.
+- a. Controlling des Stellenplans sowie Erhebung und Aufbereitung der Führungskennzahlen,
 
-<sup>3</sup> Die Anweisung zur Freigabe einer Zahlung erfolgt durch Unterzeichnung des Rechnungsbelegs. Sie kann in anderer Form erfolgen, wenn die Klarheit und Nachvollziehbarkeit der Anweisung sichergestellt ist. Sie kann automatisiert erfolgen, wenn die Zuverlässigkeit des Automatismus gewährleistet ist.
+- b. Unterstützung bei der Rekrutierung von Personal,
 
-<sup>4</sup> Wird der Direktion ohne vorgängige Ausgabenbewilligung Rechnung gestellt, gilt die Zahlungsanweisung als Ausgabenbewilligung.
+- c. Arbeitszeit- und Absenzenkontrolle,
 
-[^hEhD71Aufgabenber-1]: Fassung gemäss Vfg. vom 2. April 2019 (OS 74, 202; ABl 2019-04-18). In Kraft seit 1. Mai 2019.
-[^hEhD71Aufgabenber-2]: LS 172.11.
-[^hEhD71Aufgabenber-3]: LS 611.2.
-[^hEhD71Aufgabenber-4]: SR 311.0.
-[^hEhD71Aufgabenber-5]: Fassung gemäss Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
-[^hEhD71Aufgabenber-6]: Eingefügt durch Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
+- d. Sicherstellung der Mitarbeiterbeurteilung,
 
-#### § 17
+- e. Unterstützung und Begleitung der Vorgesetzten und Mitarbeitenden in personellen Fragestellungen,
 
-**Budgetdeckung**
+- f. Initiierung und Begleitung von Case-Management-Fällen.
 
-<sup>1</sup> Ausgaben dürfen nur getätigt werden, wenn sie durch das Budget gedeckt sind.
+#### § 10
 
-<sup>2</sup> Reicht das Budget einer Leistungsgruppe voraussichtlich nicht aus, ist der Direktionsvorsteherin oder dem Direktionsvorsteher frühzeitig ein Antrag für einen Nachtragskredit oder eine Kreditüberschreitung zu unterbreiten. Der Antrag ist über die Abteilung Finanzen & Dienstleistungen einzureichen.[^17-1]
+**Fachstelle Rechtsmittel**
 
-[^17-1]: Fassung gemäss Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
-[^17-2]: Fassung gemäss Vfg. vom 2. April 2019 (OS 74, 202; ABl 2019-04-18). In Kraft seit 1. Mai 2019.
+<sup>1</sup> Die Fachstelle Rechtsmittel behandelt und entscheidet namens der Direktion über Rekurse gegen Anordnungen der Ämter. Zudem behandelt und entscheidet sie namens der Direktion über Rekurse, für die das Gesetz die Zuständigkeit der Direktion vorsieht.
 
-### F. Kommunikation und Öffentlichkeitsprinzip
+<sup>2</sup> Sie vertritt die Direktion in Rechtsmittelverfahren gegen ihre Rekursentscheide.
 
-[^17-2]
+<sup>3</sup> Sie bearbeitet Aufsichtsbeschwerden gegen die Ämter.
 
-#### § 18
+<sup>4</sup> Die Generalsekretärin oder der Generalsekretär kann der Fachstelle weitere Aufgaben übertragen.
 
-**Zuständigkeit**
+### D. Abteilung Kommunikation
 
-<sup>1</sup> Zu Sachverhalten von grosser politischer Tragweite, insbesondere zu Gesetzesvorhaben, Grossprojekten und zu besonderen Vorkommnissen äussern sich gegenüber den Medien die Direktionsvorsteherin oder der Direktionsvorsteher, die Generalsekretärin oder der Generalsekretär sowie die Mitarbeiterinnen und Mitarbeiter der Kommunikationsabteilung der Direktion. Vorbehalten bleibt die ausdrückliche Delegation durch die Vorgenannten an weitere Personen im Einzelfall.
+[^hDAbteilungKommuni-1]: LS 170.4.
 
-<sup>2</sup> Ohne ausdrückliche Delegation im Einzelfall äussern sich die Leiterinnen und Leiter der Verwaltungseinheiten sowie die Präsidentinnen und Präsidenten der administrativ angegliederten Einheiten gegenüber den Medien zu reinen Fachfragen im jeweiligen Zuständigkeitsbereich. Die Delegation an Mitarbeitende der Verwaltungseinheit ist zulässig. Gleiches gilt für die Kantonszahnärztin oder den Kantonszahnarzt und das Institut für Epidemiologie, Biostatistik und Prävention (EBPI) der Universität Zürich.[^18-1]
+#### § 11
 
-<sup>3</sup> Die Kommunikation mit dem Kantonsrat und den politischen Parteien erfolgt grundsätzlich über die Direktionsvorsteherin oder den Direktionsvorsteher bzw. in ihrem oder seinem Auftrag. Soweit es sich nicht um reine Fachfragen handelt, sind entsprechende Kontakte an die Direktionsvorsteherin oder den Direktionsvorsteher weiterzuleiten.
+<sup>1</sup> Die Abteilung Kommunikation stellt die transparente, zielgruppenorientierte und inhaltlich abgestimmte Information über die Positionen, Entscheidungen und Handlungen der Direktion und ihrer Vorsteherin oder ihres Vorstehers sicher. Sie gewährleistet auf Direktionsstufe die Informationstätigkeit von Amtes wegen gemäss § 14 des Gesetzes über Information und Datenschutz vom 12. Februar 2007 (IDG)[^hDAbteilungKommuni-1].
 
-**Medienmitteilungen und -konferenzen**
+<sup>2</sup> Die Abteilung erfüllt insbesondere folgende Aufgaben:
 
-§ 19.[^18-1] Die Ämter und die administrativ angegliederten Einheiten stellen Medienmitteilungen und Einladungen zu Medienkonferenzen zu Sachverhalten nach § 18 Abs. 1 vorgängig der Kommunikationsabteilung der Direktion zur Prüfung zu. Diese leitet sie an die Kommunikationsabteilung des Regierungsrates zur zentralen Verbreitung weiter.
+- a. Erarbeitung und Umsetzung der Kommunikationsstrategie der Direktion,
 
-[^18-1]: Fassung gemäss Vfg. vom 2. April 2019 (OS 74, 202; ABl 2019-04-18). In Kraft seit 1. Mai 2019.
-[^18-2]: LS 170.4.
+- b. Information der Öffentlichkeit,
 
-#### § 20
+- c. Erteilung von Medienauskünften,
 
-**IDG-Gesuche**
+- d. direktionsinterne Kommunikation,
 
-<sup>1</sup> Die Verwaltungseinheiten behandeln Gesuche um Informationszugang gemäss IDG[^18-2] in ihrem Aufgabenbereich. Sie informieren die IDG-Ansprechperson der Direktion jährlich über die behandelten Gesuche.
+- e. Unterstützung der Ämter in der Kommunikation.
+
+### E. Ämter
+
+#### § 12
+
+**Aufgaben**
+
+Die Ämter erfüllen in den Zuständigkeitsbereichen gemäss Anhang 2 folgende Aufgaben:
+
+- a. Vollzug des Rechts,
+
+- b. Umsetzung der Legislaturziele des Regierungsrates und der Direktion,
+
+- c. Planungen zur vorausschauenden Steuerung und Fortentwicklung in den Zuständigkeitsbereichen des Amts,
+
+- d. Mitwirkung bei Geschäften der Direktion und des Regierungsrates, insbesondere bei der Rechtsetzung,
+
+- e. Erfüllung von Aufträgen der Direktionsvorsteherin oder des Direktionsvorstehers,
+
+- f. Mitwirkung in ämter- oder direktionsübergreifenden Projekten und bei der Umsetzung von Strategien der Direktion,
+
+- g. Budgetierung, Finanzplanung und Rechnungslegung.
+
+#### § 13
+
+**Amtsleiterin oder Amtsleiter**
+
+<sup>1</sup> Die Amtsleiterin oder der Amtsleiter trägt die Verantwortung für die Führung und Steuerung des Amts und die Erfüllung seiner Aufgaben.
 
 **7**
 
-1.10. 20 - 110
+- 1\. 4. 22 - 116
 
-<sup>2</sup> Betrifft ein Gesuch Belange der gesamten Direktion oder den Aufgabenbereich mehrerer Verwaltungseinheiten, ist es der IDG-Ansprechperson der Direktion zu überweisen.
+<sup>2</sup> Sie oder er nimmt dazu insbesondere folgenden Aufgaben wahr:
 
-[^20-1]: Fassung gemäss Vfg. vom 2. April 2019 (OS 74, 202; ABl 2019-04-18). In Kraft seit 1. Mai 2019.
+- a. Organisation des Amts,
 
-### G. Übergangsbestimmungen
+- b. Festlegung von kurz-, mittel- und langfristigen Zielen des Amts hinsichtlich des Vollzugs des Rechts und anderer Vorgaben sowie der Weiterentwicklung des Amts in seinem Aufgabenfeld,
 
-[^20-1]
+- c. Aufgaben- und Ressourcenplanung sowie Steuerung der Aufgabenerfüllung des Amts,
 
-#### § 21
+- d. Führung der ihr oder ihm direkt Unterstellten,
 
-**Bisherige Regelungen**
+- e. Beantragung der für die Aufgabenerfüllung erforderlichen Ressourcen,
 
-Bis zum Erlass neuer Regelungen betreffend die Unterschriftsberechtigung und die Ausgabenkompetenz im Geschäftsfeld, in der Abteilung, im Betrieb oder Amt im Sinne von §§ 15 Abs. 2 und 16 Abs. 2, längstens aber bis ein Jahr nach Inkrafttreten der vorliegenden Verordnung, gelten die bisherigen Regelungen.
+- f. Regelung der eigenen Stellvertretung und der Stellvertretung der Direktunterstellten,
+
+- g. Bezeichnung von Ansprechpersonen für die Zusammenarbeit mit anderen Verwaltungseinheiten und Dritten,
+
+- h. Regelung der Geschäftsverwaltung und der Prozesse des Amts,
+
+- i. Personalgeschäfte, soweit sie dem Amt übertragen sind,
+
+- j. Vertretung des Amts gegen aussen unter Beachtung der Vorgaben gemäss §§ 30–32.
+
+#### § 14
+
+**Organisationsreglement**
+
+<sup>1</sup> Die Amtsleiterin oder der Amtsleiter regelt für das Amt schriftlich und nachvollziehbar:
+
+- a. Gliederung und Organisation,
+
+- b. Unterstellungsverhältnisse,
+
+- c. Aufgaben der Organisationseinheiten des Amts und der Direktunterstellten,
+
+- d. Aufgaben, Entscheidbefugnisse und Ausgabenkompetenzen der Organisationseinheiten,
+
+- e. Information und Kommunikation innerhalb der Verwaltungseinheit und nach aussen, unter Berücksichtigung von §§ 30 und 31.
+
+<sup>2</sup> Die Ausgabenkompetenzen der einzelnen Mitarbeitenden sind der Abteilung Finanzen & Digital Management zu melden.
+
+<sup>3</sup> Die Amtsleiterin oder der Amtsleiter bringt der Direktionsvorsteherin oder dem Direktionsvorsteher das Organisationsreglement zur Kenntnis.
+
+### 2. Abschnitt: Kompetenzen
+
+#### § 15
+
+**Handlungen und Entscheide a. Direktionsvorsteherin oder Direktionsvorsteher**
+
+<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher handelt und entscheidet in folgenden Bereichen namens der Direktion:
+
+- a. Austausch mit dem Kantonsrat und den eidgenössischen Räten einschliesslich ihrer Kommissionen,
+
+- b. Austausch mit den Regierungsmitgliedern und Kanzleivorständen des Bundes und der Kantone,
+
+- c. Anträge an den Regierungsrat,
+
+- d. Austausch mit politischen Parteien und wichtigen Verbänden, Gremien und Organisationen, insbesondere den Fachdirektorenkonferenzen,
+
+- e. Austausch mit den Spitalräten der kantonalen Spitäler,
+
+- f. Abschluss von Verträgen mit Abschlussermächtigung oder Genehmigungspflicht des Regierungsrates.
+
+<sup>2</sup> Zur Vor- oder Nachbereitung von Geschäften können die Mitarbeitenden der Direktion und der genannten Behörden, Organisationen und Organe direkt untereinander verkehren.
+
+#### § 16
+
+**b. Generalsekretariat**
+
+<sup>1</sup> Das Generalsekretariat handelt und entscheidet in seinen Aufgabenbereichen namens der Direktion.
+
+<sup>2</sup> Das Generalsekretariat verkehrt namens der Direktion mit den anderen Direktionen, soweit es um die Einladung zu Mitberichten, besonderen Stellungnahmen und Antragsbereinigungen gemäss §§ 39 und 40 VOG RR geht. Bei Inhalten von erheblicher politischer Bedeutung erfolgt der Verkehr über die Direktionsvorsteherin oder den Direktionsvorsteher.
+
+#### § 17
+
+**c. Ämter**
+
+Die Ämter handeln und entscheiden in den Zuständigkeitsbereichen gemäss Anhang 2 in eigenem Namen. § 29 betreffend Information der oder des Vorgesetzten bei besonderen Angelegenheiten bleibt vorbehalten.
+
+#### § 18
+
+**Ausgaben a. Ausgabenkompetenzen**
+
+<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher entscheidet im Rahmen des übergeordneten Rechts über Ausgaben, die über den Kompetenzgrenzen des Generalsekretariats oder der Ämter liegen.
+
+<sup>2</sup> Das Generalsekretariat und die Ämter entscheiden über:
+
+- a. neue oder gebundene einmalige Ausgaben bis Fr. 250 000,
+
+- b. neue oder gebundene wiederkehrende Ausgaben bis jährlich Fr. 50 000,
 
 **9**
 
-1.10. 20 - 110
+- 1\. 4. 22 - 116
 
-[^21-1]: Fassung gemäss Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
+- c. gebundene Ausgaben in unbegrenzter Höhe, sofern sie zulasten eines der in Anhang 1 der Finanzcontrollingverordnung vom 5. März 2008 (FCV)[^18-1] aufgeführten Konten des kantonalen Kontenplans zu verbuchen sind,
 
-### Anhang 2: Übersicht über die administrativ angegliederten Einheiten (Kommissionen des Regierungsrates und Konsultativorgane der Gesundheitsdirektion) (§ 3)
+- d. gebundene Ausgaben in unbegrenzter Höhe, sofern sie aufgrund einer der in Anhang 2 FCV aufgeführten Bestimmungen bewilligt werden.
 
-[^21-1]
+<sup>3</sup> Die Ausgabenkompetenzen gelten sinngemäss auch für folgende Geschäfte:
 
-**Geschäftsfeld/Amt Veterinäramt Veterinäramt Veterinäramt Medizin**
+- a. Abschluss von Verträgen, insbesondere Vergabe von Aufträgen an Dritte,
 
-### 1. Kommissionen des Regierungsrates Tierschutzkommission Tierversuchskommission Schadenskommission Kommission HIV und andere sexuell übertragbare Krankheiten Kantonale Ethikkommission
+- b. Abschluss von Vergleichen.
 
-**Generalsekretariat**
+[^18-1]: LS 611.2. 1. 4. 22 - 116 15
 
-**Geschäftsfeld/Amt Medizin**
+#### § 19
 
-- 2\. Konsultativorgane der Gesundheitsdirektion
+**b. Form der Ausgabenbewilligung**
 
-### Prüfungskommission für Zahnprothetikerinnen
+<sup>1</sup> Die Bewilligung einer Ausgabe erfolgt durch Unterzeichnung einer Verfügung oder eines Vertrags oder in einer anderen Form, welche die Klarheit und Nachvollziehbarkeit der Willensäusserung der ausgabenberechtigten Person sicherstellt.
 
-und Zahnprothetiker
+<sup>2</sup> Die Bewilligung kann in folgenden Fällen stattdessen durch Zahlungsanweisung gemäss § 22 erfolgen:
 
-### Betriebliche Kommission der medizinisch-technischen Medizin
+- a. Ausgaben bis Fr. 10 000,
 
-und medizinisch-therapeutischen Berufe (BK MTTB)
+- b. Zahlungen aufgrund von Urteilen und Beschlüssen von Rechtsmittelinstanzen,
 
-**Medizin**
+- c. gesetzlich vorgeschriebene Abgaben und Gebühren,
 
-### Pflegedienstkommission Kommission für die Koordination des Sanitätsdienstes Medizin
+- e. interne Verrechnungen.
 
-in ausserordentlichen Lagen (KoSaL)
+<sup>3</sup> Bei Ausgaben über Fr. 10 000 ist die Zustimmung von zwei Personen erforderlich, wovon eine Person über die entsprechende Ausgabenkompetenz verfügen muss. Beruht die Ausgabe auf genehmigten Preislisten, Tarifen, Rahmenverträgen oder Ähnlichem, genügt die Zustimmung einer Person mit entsprechender Ausgabenkompetenz.
 
-**Medizin**
+<sup>4</sup> Die Bewilligung von Ausgaben bis Fr. 100 000 kann automatisiert erfolgen, wenn die Zuverlässigkeit des Automatismus gewährleistet ist.
 
-### Regionale Psychiatriekommission (RPK)
+#### § 20
 
-- RPK Nord
+**c. Budgetdeckung**
 
-- RPK Zürich
+<sup>1</sup> Ausgaben dürfen nur getätigt werden, wenn sie durch das Budget gedeckt sind.
 
-- RPK Horgen-Affoltern
+<sup>2</sup> Reicht das Budget einer Leistungsgruppe voraussichtlich nicht aus, ist der Direktionsvorsteherin oder dem Direktionsvorsteher frühzeitig Antrag für eine Kreditüberschreitung zu stellen oder der Bedarf für einen Nachtragskredit zu melden.
 
-- RPK Zürcher Oberland
+#### § 21
 
-[^hRegionalePsychiatri-1]: Fassung gemäss Vfg. vom 2. April 2019 (OS 74, 202; ABl 2019-04-18). In Kraft seit 1. Mai 2019.
+**Zahlungsanweisung a. Anweisungskompetenz**
 
-### Anhang 3: Kernauftrag der Geschäftsfelder und ihrer Untereinheiten (§ 8)
+<sup>1</sup> Die Kompetenz einer Person zur Freigabe einer Zahlung richtet sich nach ihrer Ausgabenkompetenz.
 
-[^hRegionalePsychiatri-1]
+<sup>2</sup> Ist die Höhe einer Ausgabe in der Ausgabenbewilligung genau bestimmt oder genau bestimmbar, besteht die Kompetenz bis zu diesem Betrag.
 
-### Verwaltungseinheit Kernaufgaben
+#### § 22
 
-[^hVerwaltungseinheitK-1]: Fassung gemäss Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
+**b. Form der Zahlungsanweisung**
 
-### 1. Generalsekretariat
+<sup>1</sup> Die Anweisung zur Freigabe einer Zahlung erfolgt in der Regel elektronisch. Sie kann durch Unterzeichnung des Rechnungsbelegs oder in anderer Form erfolgen, welche die Klarheit und Nachvollziehbarkeit der Anweisung sicherstellt.
 
-[^hVerwaltungseinheitK-1]
+<sup>2</sup> Bevor die berechtigte Person eine Zahlung freigibt, muss diese von einer anderen Person inhaltlich geprüft worden sein (materielle Prüfung).
 
-- a. Politik und Aufsicht – Beratung und Unterstützung der Direktionsvorsteherin / des Direktionsvorstehers in fachlicher, politischer und administrativer
+#### § 23
 
-### Hinsicht
+**Personalgeschäfte**
 
-- Allgemeine Aufsicht über verselbstständigte
+Die Direktionsvorsteherin oder der Direktionsvorsteher legt im Rahmen des Personalrechts fest, über welche Personalgeschäfte die Direktion oder aber das Generalsekretariat und die Ämter entscheiden.
 
-### Anstalten
+### 3. Abschnitt: Zusammenarbeit
 
-- Parlamentarische Geschäfte
+### A. Führungsgefässe
 
-- Geschäfte mit strategisch-politischer
+#### § 24
 
-### Bedeutung
+**Geschäftsleitung**
 
-- Ansprechpartner für die Ethikkommission und deren Geschäftsstelle
+<sup>1</sup> Die Geschäftsleitung setzt sich aus der Direktionsvorsteherin oder dem Direktionsvorsteher, der Generalsekretärin oder dem Generalsekretär und den Amtsleiterinnen und Amtsleitern zusammen. In erweiterter Form gehören ihr auch die Abteilungsleiterinnen und Abteilungsleiter des Generalsekretariats und die Leiterin oder der Leiter der Abteilung Kommunikation an.
 
-- Vernetzung
+<sup>2</sup> Die Geschäftsleitung erfüllt folgende Aufgaben:
 
-- b. Personal – HR-seitige Zuständigkeit für das GD-interne
+- a. Unterstützung und Beratung der Direktionsvorsteherin oder des Direktionsvorstehers bei der Führung und Aufgabenerfüllung der Direktion,
 
-### Personal
+- b. Erarbeitung strategischer Vorgaben für die Direktion, insbesondere Legislaturziele,
 
-- Umsetzung gesamtkantonale HR-Strategie
+- c. Erarbeitung von Vorgaben für die Querschnittbereiche Personal, Digitalisierung, Controlling und Geschäftsverwaltung,
 
-- Einheitlicher Vollzug der personalrechtlichen
+- e. Informationsaustausch zu Geschäften, die für die anderen Ämter, die Direktion oder den Kanton von Bedeutung sind,
 
-### Bestimmungen
-
-- Personalrechtliche Beratung und Unterstützung der Ämter Personaladministration/
-
-### Personalcontrolling / Case Management
-
-- c. Kommunikation – Interne und externe Kommunikation
-
-- Unterstützung und Beratung im Bereich
-
-### Kommunikation
-
-- Konzeption und Betreuung des Intranet- und Internetauftritts
+- f. Berichterstattung über wichtige Projekte und Entwicklungen.
 
 **11**
 
-1.10. 20 - 110
+- 1\. 4. 22 - 116
 
-**Kernaufgaben – Rechtsetzung**
+<sup>3</sup> Die Sitzungen der Geschäftsleitung finden in der Regel monatlich statt.
 
-### Verwaltungseinheit
+<sup>4</sup> Es wird eine Traktandenliste und ein Kurzprotokoll erstellt und eine Pendenzenliste geführt.
 
-- d. Recht
+<sup>5</sup> Ein- bis zweimal pro Jahr findet eine Klausur zu Grundsatzthemen und zur Strategieentwicklung statt.
 
-- Rechtsberatung
+#### § 25
 
-- Vertretung der Direktion in Rechtsmittelverfahren
+**Amtsrapporte**
 
-- Befreiung der Medizinalpersonen vom
+<sup>1</sup> Zur Wahrnehmung der Führungs- und Aufsichtsfunktion führt die Direktionsvorsteherin oder der Direktionsvorsteher mit den Amtsleiterinnen und Amtsleitern regelmässig Rapporte durch. An den Rapporten nehmen in der Regel auch die Generalsekretärin oder der Generalsekretär teil. Bei Bedarf können weitere Personen des Amts und des Generalsekretariats beigezogen werden.
 
-### Berufsgeheimnis
+<sup>2</sup> Gegenstände der Amtsrapporte sind:
 
-- Prämienverbilligung (Recht)
+- a. Berichterstattung über den Regelbetrieb,
 
-- Befreiung vom OKP-Versicherungsobligatorium
+- b. wichtige Projekte, Entwicklungen, Vorfälle und Personalangelegenheiten,
 
-**– Verwaltungsinterne Rechtspflege – Budget, Finanzplanung und Geschäftsbericht**
+- c. Führungskennzahlen des Controllings, insbesondere Einhaltung des Budgets, Umsetzung der Legislaturziele und Personalcontrolling.
 
-- e. Rechtsmittel
+<sup>3</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher erteilt Aufträge und legt die Ziele und Rahmenbedingungen zur eigenverantwortlichen Aufgabenerfüllung durch das Amt fest.
 
-- f. Finanzen und Dienstleistungen
+<sup>4</sup> Es wird eine Traktandenliste erstellt und eine Pendenzenliste geführt.
 
-- Prämienverbilligung (Finanzen)
+### B. Informationen
 
-- Projektmanagement und -controlling
+#### § 26
 
-- Eigentümercontrolling der Beteiligungen
+**Wege a. Dienstweg**
 
-- Rechnungswesen
+<sup>1</sup> Wichtige Informationen und Dokumente werden der organisatorischen Hierarchie folgend übermittelt.
 
-- Rechnungswesen und Kodierrevision
+<sup>2</sup> Bei besonderer Dringlichkeit ist die direkte Übermittlung an die Letztadressatin oder den Letztadressaten zulässig. Die übersprungenen Stufen werden zeitgleich mit Kopien bedient.
 
-- Informationsverwaltung
+<sup>3</sup> Das Amt übermittelt wichtige Informationen und Dokumente, die für die Direktionsvorsteherin oder den Direktionsvorsteher bestimmt sind, in Kopie der Generalsekretärin oder dem Generalsekretär.
 
-- Digitalisierung
+<sup>4</sup> Es übermittelt Dokumente, die von der Direktionsvorsteherin oder dem Direktionsvorsteher zu unterzeichnen sind, der Generalsekretärin oder dem Generalsekretär zwecks Prüfung und Weiterleitung an die Direktionsvorsteherin oder den Direktionsvorsteher.
 
-- Digital Health
+<sup>5</sup> Es übermittelt Informationen und Dokumente, die für die Planung von Sitzungen und Besprechungen erforderlich sind, der Direktionsassistentin oder dem Direktionsassistenten.
 
-### Verwaltungseinheit Kernaufgaben
+#### § 27
 
-- 2\. Gesundheitsversorgung
+**b. horizontaler Austausch**
 
-- a. Versorgungsplanung – Spitalplanung
+<sup>1</sup> Es verkehren direkt miteinander:
 
-- Ambulante Planung
+- a. die Sachbearbeiterinnen und Sachbearbeiter des Generalsekretariats und der Ämter zwecks Vorbereitung oder Umsetzung von Entscheidungen,
 
-- Leistungscontrolling
+- b. die Fachverantwortlichen des Generalsekretariats und der Ämter in den Querschnittbereichen Personal, Finanzen, Kommunikation, Zugang Dritter zu Informationen, Digital Management und Submissionswesen.
 
-- Qualitätsentwicklung
+<sup>2</sup> Bei Geschäften von grosser Bedeutung nehmen sie Rücksprache mit den Vorgesetzten.
 
-- Qualitätscontrolling
+#### § 28
 
-- Versorgungsanalyse und -entwicklung
+**Inhalte a. Planungen und Projekte**
 
-- Optimierung Schnitt- und Nahtstellen
+Die Generalsekretärin oder der Generalsekretär und die Amtsleiterinnen und Amtsleiter informieren die Direktionsvorsteherin oder den Direktionsvorsteher frühzeitig insbesondere über folgende Geschäfte:
 
-- Weiterentwicklung Leistungsgruppen insbesondere SPLG
+- a. grundlegende Planungen und Zielfestlegungen,
 
-- Rettungswesen
+- b. Projekte von besonderer politischer Bedeutung,
 
-- b. Datenanalyse – Datenerhebung und Datenmanagement
+- c. Projekte mit erheblichem finanziellem oder personellem Aufwand oder mit entsprechenden Auswirkungen.
 
-- Bedarfsprognosen
+#### § 29
 
-- Datenanalysen und Kostenvergleiche
+**b. besondere Angelegenheiten**
 
-- Berichterstattung und Publikationen
+<sup>1</sup> Alle Mitarbeitenden der Direktion informieren ihre Vorgesetzte oder ihren Vorgesetzten umgehend über ausserordentliche Vorfälle in ihrem Aufgabenbereich, wenn diese a. von politischer Bedeutung oder grosser Tragweite sein können,
 
-- SPLG-Grouper c.[^hVerwaltungseinheitK_2-1] Finanzierung – Kredite
+- b. einen dringenden Handlungs- oder Koordinationsbedarf auslösen können,
 
-- Abrechnung und Kontrolle Kantonsanteil der stationären IV- und KVG-Leistungen
+- c. die eigene Sicherheit oder die Sicherheit anderer Mitarbeitenden betreffen.
 
-- Eigentümerbeiträge
+- d. private Angelegenheit betreffen, die sich wesentlich auf die Aufgabenerfüllung auswirken können.
 
-- Wirtschaftlichkeitsvergleiche
-
-- Tarifwesen
-
-- Festlegung Kantonsanteil (Art. 49 a KVG[^hVerwaltungseinheitK_2-2]
-
-- Prämienwesen KVG
-
-- Langzeitpflege d.[^hVerwaltungseinheitK_2-1] Subventionen und Darlehen – Abrechnung von Subventionen und weiteren
-
-[^hVerwaltungseinheitK_2-1]: Fassung gemäss Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
-[^hVerwaltungseinheitK_2-2]: SR 832.10.
-
-### Staatsbeiträgen
+<sup>2</sup> Sie nehmen vorgängig mit ihren Vorgesetzten Rücksprache, wenn in ihrem Aufgabenbereich Entscheidungen von politischer Bedeutung oder grosser Tragweite anstehen.
 
 **13**
 
-1.10. 20 - 110
+- 1\. 4. 22 - 116
 
-**Kernaufgaben**
+<sup>3</sup> Die Generalsekretärin oder der Generalsekretär und die Amtsleiterinnen und Amtsleiter nehmen mit der Direktionsvorsteherin oder dem Direktionsvorsteher Rücksprache:
 
-### Verwaltungseinheit
+- a. bei Angelegenheiten von grosser politischer Bedeutung oder mit sehr grosser Tragweite,
 
-- 3\. Medizin
+- b. vor geplanten Praxisänderungen.
 
-- a. Kantonsärztlicher Dienst – Übertragbare Krankheiten inkl. Impfwesen
+### 4. Abschnitt: Aussenkontakte und Medien
 
-- Besondere und ausserordentliche Lagen
+#### § 30
 
-**– Bewilligungswesen Personen/ Institutionen**
+**Zuständigkeit**
 
-- b. Gesundheitsberufe und Bewilligungen
+<sup>1</sup> Die Medien und die Öffentlichkeit werden informiert durch a. die Direktionsvorsteherin oder den Direktionsvorsteher,
 
-- Aufsicht Medizinalpersonen
+- b. die Generalsekretärin oder den Generalsekretär,
 
-- Sicherung beruflicher Nachwuchs
+- c. die Abteilung Kommunikation,
 
-**– Prävention und Gesundheitsförderung**
+- d. die Kommunikationsstelle des VETA, ausgenommen bei Sachverhalten von grundsätzlicher Bedeutung oder grosser politischer Tragweite,
 
-- c. Prävention (delegiert an EBPI) d.[^hVerwaltungseinheit_2-1] Kantonszahnärztlicher
+- e. die Amtsleiterinnen und Amtsleiter sowie weitere Mitarbeitende über fachliche Themen, jeweils in Absprache mit der Abteilung Kommunikation.
 
-**– Bewilligungswesen Personen / Institutionen**
+<sup>2</sup> Das Generalsekretariat und die Ämter informieren von sich aus über ihre fachlichen Tätigkeiten gemäss § 14 IDG, soweit sie nicht von besonderer politischer Bedeutung sind.
 
-[^hVerwaltungseinheit_2-1]: Eingefügt durch Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
+<sup>3</sup> Die Abteilung Kommunikation kann vom Generalsekretariat und von den Ämtern Informationen einfordern und dazu eine Frist ansetzen. Das Generalsekretariat und die Ämter können Personen bezeichnen, die in bestimmten Fachbereichen direkt mit der Abteilung Kommunikation verkehren können.
 
-### Dienst
+#### § 31
 
-- Aufsicht Medizinalpersonen
+**Medienmitteilungen und -konferenzen**
 
-- Aufsicht Schulzahnpflege
+<sup>1</sup> Medienmitteilungen und Einladungen zu Medienkonferenzen werden von der Abteilung Kommunikation erstellt. Die Inhalte dafür werden ihr vom Generalsekretariat oder von den Ämtern fristgerecht zur Verfügung gestellt. Die Abteilung Kommunikation leitet sie an die Kommunikationsabteilung des Regierungsrates zur zentralen Verbreitung weiter.
 
-### Anhang 4: Kernauftrag der Ämter (§ 8)
+<sup>2</sup> Die Ämter informieren die Abteilung Kommunikation über geplante Aktivitäten, die eine Medienmitteilung erfordern können.
 
-**Amt 1. Kantonsapotheke**
+#### § 32
 
-### Kernaufgaben
+**IDG-Gesuche**
 
-- Arzneimittelversorgung: Beschaffung,
+<sup>1</sup> Die Ämter und das Generalsekretariat behandeln Gesuche um Informationszugang gemäss § 20 IDG in ihrem Aufgabenbereich. Die Ämter informieren das Generalsekretariat jährlich über die behandelten Gesuche.
 
-### Lagerung und Verkauf/Abgabe
+<sup>2</sup> Betrifft ein Gesuch die Belange der gesamten Direktion oder von mehreren Ämtern, wird es vom Generalsekretariat in Zusammenarbeit mit den Ämtern behandelt.
 
-von pharmazeutischen Produkten – Arzneimittelherstellung (sterile und nichtsterile Arzneiformen) – Klinische Studien – Vorhalteleistungen (Notfallleistungen) – Pharmazeutische Fachberatung und
+<sup>3</sup> IDG-Gesuche von politischer Bedeutung werden in Absprache mit der Abteilung Kommunikation behandelt.
 
-### Wissensvermittlung
+### 5. Abschnitt: Schlussbestimmungen
 
-**2.11 Kantonale Heilmittelkontrolle**
+#### § 33
 
-- Vollzug der Heilmittelgesetzgebung: Bewilligungserteilung für Herstellung,
+**Umsetzung**
 
-### Abgabe und Versandhandel von Arznei-
+Das Generalsekretariat und die Ämter erlassen die Regelungen gemäss § 14 bis 30. Juni 2022.
 
-mitteln sowie für Lagerung von Blut und
+#### § 34
 
-### Blutprodukten. Kontrolle der Arzneimittel-
+**Übergangsrecht**
 
-herstellung, des Arzneimittelgrosshandels und der Heilmittelabgabe; Marktüberwachung von Heilmitteln – Vollzug der Betäubungsmittelgesetzgebung:
+Bis zur Inkraftsetzung der Organisationsreglemente des Generalsekretariats und der Ämter gelten die Ausgabenkompetenzen und Unterschriftenberechtigungen gemäss Anhang 5 der Organisationverordnung der Gesundheitsdirektion vom 27. Oktober 2011 und ihrer Konkretisierungen.
 
-### Bewilligungserteilung für Umgang mit
+#### § 35
 
-Betäubungsmitteln, Betriebskontrollen,
+**Inkrafttreten**
 
-### Abgabe amtlicher Formulare für Betäu-
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
-bungsmittelrezepte – Vollzug der Medizinalberufegesetzgebung:
+<sup>2</sup> Die Organisationsverordnung der Gesundheitsdirektion vom 27. Oktober 2011 wird aufgehoben.
 
-### Bewilligungserteilung an Apothekerinnen
+### Anhang 1: Gliederung der Ämter (§ 1 Abs. 2)
 
-und Apotheker, Drogistinnen und Drogisten,
+### A. Amt für Gesundheit
 
-### Optometristinnen und Optometristen
+Das Amt für Gesundheit (AFG) ist wie folgt gegliedert:
 
-sowie deren Aufsicht
+- 1\. Abteilung Versorgungsplanung (VP)
 
-**Amt**
+- 2\. Abteilung Kantonsärztlicher Dienst (KAD)
 
-### Kernaufgaben
+- 3\. Abteilungen Bewilligungen und Aufsicht (B&A)
 
-**3.11 Kantonales Labor**
+- 4\. Abteilung Tarife und Rechnungskontrolle (T&R)
 
-- Vollzug der Lebensmittelgesetzgebung:
+- 5\. Abteilung Datenanalyse (DA)
 
-### Chemische, mikrobiologische und physi-
+- 6\. Abteilung Recht (RA)
 
-kalische Untersuchung von Lebensmitteln und Gebrauchsgegenständen, Betriebskontrollen in den der Lebensmittelgesetzgebung unterstellten Betrieben – Vollzug der Chemikaliengesetzgebung:
+- 7\. Amtsstab
 
-### Sicherheit von Chemikalien durch Betriebs-
+### B. Kantonsapotheke
 
-und Marktkontrollen – Kontrolle des Badewassers in Oberflächengewässern – Umsetzung der Werbebeschränkungen für
+Die Kantonsapotheke (KAZ) ist wie folgt gegliedert:
 
-### Suchtmittel
+- 1\. Bereich Produktion und Qualität mit den Abteilungen
 
-**4. Veterinäramt**
+- a. Herstellung Steril (SS)
 
-- Prävention und Bekämpfung von Tierseuchen oder anderen übertragbaren
+- b. Herstellung Nichtsteril (NS)
 
-### Krankheiten
+- c. Qualitätskontrolle (QK)
 
-- Tierschutz und Wahrnehmung der Parteirechte in Strafverfahren
+- d. Qualitätsmanagement/Validierungskoordination (QM)
 
-- Öffentliche Sicherheit bei der Haltung von
+- 2\. Bereich Pharmazeutische Dienste mit den Abteilungen
 
-### Hunden und Information der Bevölkerung
+- a. Logistik (LS)
 
-im Umgang mit Hunden – Lebensmittelsicherheit bei der tierischen
+- b. Ofﬁzin (OZ)
 
-### Primärproduktion sowie beim Schlachten
+- c. Klinikbetreuung (KZ)
 
-und Zerlegen – Heilmittel und Medizinalberufe, soweit sie
+- d. Kantonsspitalapotheke Winterthur (KAW)
 
-### Tiere und Tätigkeiten mit Tieren betreffen
+- 3\. Support- und Stabsstellen
 
-**1.10. 20 - 110**
+- a. Abteilung Finanzen und Controlling (FiCo)
 
-**15**
+- b. Abteilung IT (IT)
 
-- Findeltiermeldestelle
+- c. Stabsstelle Personal
 
-[^hTiereundTätigkeite-1]: Fassung gemäss Vfg. vom 2. April 2019 (OS 74, 202; ABl 2019-04-18). In Kraft seit 1. Mai 2019.
+- d. Stabsstelle Sekretariat
 
-### Anhang 5: Ausgabenkompetenzen (§ 16)
+- e. Supportstelle Facility Management (FM)
 
-[^hTiereundTätigkeite-1]
+- f. Supportstelle Studienkoordination
 
-- 1\. Die Leitungen der Geschäftsfelder, der Abteilungen und der Ämter sowie die oder der Personalbeauftragte bzw. bei deren Abwesenheit deren Stellvertreterinnen und Stellvertreter verfügen im Rahmen des Budgets über folgende Ausgabenkompetenzen (gestützt auf § 39 der Finanzcontrollingverordnung, FCV[^hAnhang5Ausgabenko-1]:[^hAnhang5Ausgabenko-2]
+### C. Kantonale Heilmittelkontrolle
 
-**Betrag bis Fr. 250 000**
+Die Kantonale Heilmittelkontrolle (KHZ) ist wie folgt gegliedert:
 
-[^hAnhang5Ausgabenko-1]: LS 611.2.
-[^hAnhang5Ausgabenko-2]: Fassung gemäss Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
+- 1\. Abteilungen:
 
-### Art der Ausgabe
+- a. lnspektorat A
 
-- a. neue oder gebundene einmalig
+- b. lnspektorat B
 
-- b. neue oder gebundene wiederkehrende Ausgaben bis Fr. 50 000 pro Jahr
+- c. Bewilligungen und Sekretariat
 
-- c. gebundene wiederkehrende Ausgaben, sofern sie unbegrenzt zulasten eines der in Anhang 1 FCV[^hArtderAusgabe-1] aufgeführten
+- d. Labor
 
-[^hArtderAusgabe-1]: LS 611.2.
+- 2\. Support- und Stabsstellen:
 
-### Konten des kantonalen Kontenplans zu verbuchen
+- a. Qualitätsmanagement
 
-sind d. gebundene einmalige oder wiederkehrende Aus- unbegrenzt gaben, sofern sie aufgrund einer der in Anhang 2
+- b. Personalwesen
 
-[^hKontendeskantonale-1]: LS 611.2.
+- c. Rechnungswesen
 
-### FCV aufgeführten Bestimmungen bewilligt werden
+### D. Kantonales Labor
 
-[^hKontendeskantonale-1]
+Das Kantonale Labor (KLZH) ist wie folgt gegliedert:
 
-- e. . . .[^hFCVhKontendeskanto-1]
+- 1\. Bereich Bioanalytik
 
-- 2\. Die Leiterin oder der Leiter des Geschäftsfeldes Gesundheitsversorgung bzw. bei deren Abwesenheit deren Stellvertreterinnen und Stellvertreter verfügen im Rahmen des Budgets über folgende Ausgabenkompetenz:
+- 2\. Bereich Chemische Analytik
 
-**Betrag bis Fr. 1 000 000**
+- 3\. Bereich Spurenanalytik
 
-[^hFCVhKontendeskanto-1]: Aufgehoben durch Vfg. vom 12. Mai 2020 (OS 75, 339; ABl 2020-06-05). In Kraft seit 1. Juni 2020.
+- 4\. Bereich Inspektorate
 
-### Art der Ausgabe Neue oder gebundene einmalige Ausgaben für
+- 5\. Bereich Dienste
 
-lnvestitionsvorhaben sowie für Investitionsbeiträge an staatsbeitragsberechtigte Betriebe zulasten der
+### E. Veterinäramt
 
-### Investitionsrechnung der Leistungsgruppen Nrn. 6300
+Das Veterinäramt (VETA) ist wie folgt gegliedert:
 
-und 6400
+- 1\. Abteilung Tierschutz (A-Tsch)
+
+- 2\. Abteilung Tiergesundheit und Lebensmittelsicherheit (A-TGLM)
+
+- 3\. Abteilungen Kundenservice (KS)
+
+- 4\. Abteilung Amtsstab (AmtS)
 
 **17**
 
-1.10. 20 - 110
+- 1\. 4. 22 - 116
+
+### Anhang 2: Zuständigkeitsbereiche der Ämter (§ 12)
+
+**Amt 1. Amt für Gesundheit a.**
+
+### Zuständigkeitsbereich Versorgungsplanung: Planung und Controlling
+
+der stationären und ambulanten Gesundheitsversorgung in der Akutsomatik, Psychiatrie und Rehabilitation (einschliesslich Deﬁnition der Leistungsgruppen, Versorgungsanalysen,
+
+### Leistungscontrolling, Qualitätsentwicklung
+
+und -controlling); Versorgungsanalysen sowie Berechnung der Normdeﬁzite und Kennzahlen im Langzeitbereich; Optimierung Rettungswesen; Prüfung von Subventionsanträgen gemäss § 11 SPFG; Durchführung von Kodierrevisionen
+
+**b.**
+
+### Kantonsärztlicher Dienst: übertragbare Krank-
+
+heiten einschliesslich Impfwesen und Epidemien; Gesundheitsversorgung in besonderen und ausserordentliche Lagen und im
+
+### Bereich Bevölkerungsschutz; Prävention und Gesundheitsförderung; Mitwirkung bei Auf-
+
+sicht über Ärztinnen und Ärzte, Spezialbewilligungen insbesondere in den Bereichen
+
+### Fortpﬂanzungsmedizin, Betäubungsmittel
+
+und Schwangerschaftsabbruch
+
+**c.**
+
+### Bewilligungen und Aufsicht: Gesundheitspoli-
+
+zeiliche Bewilligungen sowie Zulassungen nach KVG für Institutionen des Gesundheitswesens und für Medizinal- und Gesundheitsfachpersonen unter Vorbehalt der Zuständigkeit der Kantonalen Heilmittelkontrolle und des Veterinäramts; (Ober-)Aufsicht über diese
+
+### Institutionen und Personen einschliesslich Schulzahnpﬂege Tarife und Rechnungskontrolle: Tarife nach KVG; Mitwirkung am Prämiengenehmigungs-
+
+**d.**
+
+prozess nach KVG; Wirtschaftlichkeitsvergleiche; Kontraktmanagement mit Leistungserbringern; Abrechnung und Kontrolle des Kantonsanteils für stationäre Leistungen
+
+**Amt**
+
+### Zuständigkeitsbereich
+
+- e. Datenanalyse: Datenerhebung und Datenmanagement; Bedarfsprognosen; Kostenvergleiche; SPLG-Grouper
+
+- f. Recht: juristische Unterstützung der Amtsleitung und Abteilungen; Rechtsetzung bei weniger komplexen Rechtsetzungsvorhaben;
+
+### Führung förmlicher Aufsichts- und Beschwer-
+
+deverfahren gegenüber Medizinal- und Gesundheitsfachpersonen sowie Institutionen des Gesundheitswesens; Befreiung von der beruﬂichen Schweigepﬂicht nach Art. 321
+
+### StGB bei allen Medizinal- und Gesundheits-
+
+fachpersonen g. Amtsstab: administrative Unterstützung des
+
+### Amts und der Amtscheﬁn oder des Amtschefs
+
+**2. Kantonsapotheke**
+
+- a. Beschaffung, Lagerung, Verkauf/Abgabe und
+
+### Vertrieb von Heilmitteln an Institutionen und Private
+
+- b. Herstellung von Arzneimitteln
+
+- c. Vorhalteleistungen für Epidemien und andere aussergewöhnliche Ereignisse
+
+- d. Pharmazeutische Fachberatung und Wissensvermittlung
+
+**3. Kantonale Heilmittelkontrolle**
+
+- a. Vollzug der Heilmittelgesetzgebung: Bewilligungserteilung für Herstellung, Abgabe und
+
+### Versandhandel von Arzneimitteln sowie für Lagerung von Blut und Blutprodukten; Kon-
+
+trolle der Arzneimittelherstellung, des Arzneimittelgrosshandels und der Heilmittelabgabe;
+
+### Marktüberwachung von Heilmitteln
+
+- b. Vollzug der Betäubungsmittelgesetzgebung:
+
+### Bewilligungserteilung für Umgang mit Betäu-
+
+bungsmitteln, Betriebskontrollen, Abgabe amtlicher Formulare für Betäubungsmittelrezepte
+
+**1. 4. 22 - 116**
+
+19
+
+**Amt**
+
+### Zuständigkeitsbereich
+
+- c. Vollzug der Medizinalberufegesetzgebung: Bewilligungserteilung an Apothekerinnen und
+
+### Apotheker, Drogistinnen und Drogisten, Opto-
+
+metristinnen und Optometristen sowie deren
+
+### Aufsicht
+
+**4. Kantonales Labor**
+
+- a. Vollzug der Lebensmittelgesetzgebung: chemische, mikrobiologische und physikalische
+
+### Untersuchung von Lebensmitteln und Ge-
+
+brauchsgegenständen; Betriebskontrollen in den der Lebensmittelgesetzgebung unterstellten Betrieben b. Koordination des kantonalen Vollzugs und Vollzug von Teilen der Chemikaliengesetzgebung:
+
+### Sicherheit vor Chemikalien durch Betriebs-
+
+und Marktkontrollen c. Kontrolle des Badewassers in Oberﬂächengewässern d. Vollzug der rechtlichen Werbebeschränkungen für Suchtmittel e. Kontrolle der Solarien nach NISSG a. Prävention und Bekämpfung von Tierseuchen und anderen übertragbaren Krankheiten b. Tierschutz und Wahrnehmung der Parteirechte in Strafverfahren c. öffentliche Sicherheit bei der Haltung von
+
+**5. Veterinäramt**
+
+### Hunden und Information der Bevölkerung im Umgang mit Hunden
+
+- d. Lebensmittelsicherheit bei der tierischen Primärproduktion sowie beim Schlachten und
+
+### Zerlegen
+
+- e. Heilmittel und Medizinalberufe, soweit sie
+
+### Tiere und Tätigkeiten mit Tieren betreffen
+
+- f. Findeltiermeldestelle
