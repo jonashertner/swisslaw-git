@@ -4,13 +4,13 @@ number: "835.203"
 title: Verordnung zur Umsetzung von Massnahmen im Kulturbereich gemäss Covid-19-Gesetz des Bundes
 short: Verordnung Kulturbereich gemäss Covid-19-Gesetz
 language: de
-version: 2021-11-10
-valid_until: 2022-02-22
-version_adopted: 2021-11-09
+version: 2022-02-23
+valid_until: 2022-12-31
+version_adopted: 2022-02-22
 adopted: 2020-11-10
 in_force: 2020-09-26
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/835.203"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5366/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5469/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19 Unterstützung Kultur: Verordnung
 
 (Verordnung Kulturbereich gemäss Covid-19-Gesetz)
 
-Vom 10. November 2020 (Stand 10. November 2021)
+Vom 10. November 2020 (Stand 23. Februar 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -69,15 +69,15 @@ beschliesst:
 
 **Höchstbetrag**
 
-<sup>1</sup> Ausfallentschädigungen gemäss Art. 3 Abs. 1 lit. a sowie Art. 4 ff. Covid-19-Kulturverordnung für Kulturunternehmen werden nur bis zu einem Höchstbetrag von Fr. 2'000'000 je Gesuchstellerin oder Gesuchsteller zugesprochen.
+<sup>1</sup> Ausfallentschädigungen gemäss Art. 3 Abs. 1 lit. a sowie Art. 4 ff. Covid-19-Kulturverordnung für Kulturunternehmen werden nur bis zu einem Höchstbetrag von Fr. 2'000'000 pro Kalenderjahr je Gesuchstellerin oder Gesuchsteller zugesprochen.
 
-<sup>2</sup> Ausfallentschädigungen gemäss Art. 3 Abs. 1 lit. a sowie Art. 4 ff. Covid-19-Kulturverordnung für Kulturschaffende werden nur bis zu einem Höchstbetrag von Fr. 200'000 je Gesuchstellerin oder Gesuchsteller zugesprochen.
+<sup>2</sup> Ausfallentschädigungen gemäss Art. 3 Abs. 1 lit. a sowie Art. 4 ff. Covid-19-Kulturverordnung für Kulturschaffende werden nur bis zu einem Höchstbetrag von Fr. 200'000 pro Kalenderjahr je Gesuchstellerin oder Gesuchsteller zugesprochen.
 
 #### § 6
 
 **Abgrenzung**
 
-<sup>1</sup> Unterstützungsleistungen gemäss dieser Verordnung schliessen die Ausrichtung von Unterstützungsleistungen gemäss Verordnung betreffend Härtefallprogramm für Unternehmen im Zusammenhang mit der Covid-19-Pandemie (Covid-19-Verordnung Härtefallprogramm) vom 20. April 2021 aus. Ausgenommen sind Unterstützungsleistungen für Unternehmen, deren Tätigkeitsbereiche mittels Spartenrechnung klar abgegrenzt werden.
+<sup>1</sup> Unterstützungsleistungen gemäss dieser Verordnung schliessen die Ausrichtung von Unterstützungsleistungen gemäss der Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung) vom 25. November 2020 des Bundes aus. Ausgenommen sind Unterstützungsleistungen für Unternehmen, deren Tätigkeitsbereiche mittels Spartenrechnung klar abgegrenzt werden.
 
 <sup>2</sup> Ausfallentschädigungen für Kulturschaffende gemäss Art. 3 Abs. 1 lit. a sowie Art. 4 ff. Covid-19-Kulturverordnung werden für den Schadenszeitraum ab Mai 2021 ausgerichtet. Entschädigungen für frühere Zeiträume sind gemäss der Covid-19-Verordnung Kulturschaffende geltend zu machen.
 
@@ -95,9 +95,15 @@ beschliesst:
 
 #### § 8
 
-**Übergangsbestimmung zur Revision von § 5**
+**Übergangsbestimmung zur Revision von § 5 vom 9. November 2021**
 
 <sup>1</sup> Auf Gesuche, welche im Zeitpunkt des Inkrafttretens des neuen Rechts noch nicht abschliessend beurteilt worden sind, wird das für sie günstigere Recht angewendet.
+
+#### § 9
+
+**Übergangsbestimmung zur Revision von § 5 und § 6 vom 22. Februar 2022**
+
+<sup>1</sup> Auf Gesuche für den Schadenszeitraum bis zum 31. Dezember 2021, welche noch nicht abschliessend beurteilt worden sind, wird das alte Recht angewendet. Auf Gesuche, die den Schadenszeitraum ab dem 1. Januar 2022 betreffen, wird das neue Recht angewendet.
 
 *Schlussbestimmung*
 
