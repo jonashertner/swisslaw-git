@@ -4,29 +4,30 @@ title: Übereinkommen vom 30. September 1957 über die internationale Beförderu
 short: ADR
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249"
 language: de
-version: 2021-01-01
+version: 2022-02-23
 adopted: 1957-09-30
 in_force: 1972-07-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1972-1073_1085_1249-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/1073_1085_1249/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249/20220223/de/xml/fedlex-data-admin-ch-eli-cc-1972-1073_1085_1249-20220223-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/1073_1085_1249/20220223/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Europäisches Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Strasse
+# Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Strasse****
 
-AS **1972** 1073; BBl **1969** II 1
+AS **1972** 1073; BBl **1969** II 1[^t-1]
 
-Übersetzung*[^t-1]*
+Übersetzung*[^t-2]*
 
 (ADR)
 
-Abgeschlossen in Genf am 30. September 1957 Von der Bundesversammlung genehmigt am 4. Dezember 1969[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 20. Juni 1972 In Kraft getreten für die Schweiz am 20. Juli 1972 Anhänge A und B geändert am 29. Januar 1968, 26. Oktober 1970 und 30. Dezember 1971
+Abgeschlossen in Genf am 30. September 1957 Von der Bundesversammlung genehmigt am 4. Dezember 1969[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 20. Juni 1972 In Kraft getreten für die Schweiz am 20. Juli 1972 Anhänge A und B geändert am 29. Januar 1968, 26. Oktober 1970 und 30. Dezember 1971
 
-(Stand am 1. Januar 2021)
+(Stand am 23. Februar 2022)
 
-[^t-1]: Gemeinsame schweizerische, bundesdeutsche und österreichische Übersetzung.
-[^t-2]: [AS 1972 1069](https://fedlex.data.admin.ch/eli/oc/1972/1069_1081_1245)
+[^t-1]: Berichtigung vom 23. Febr. 2022 ([AS 2022 127](https://fedlex.data.admin.ch/eli/oc/2022/127)).
+[^t-2]: Gemeinsame schweizerische, bundesdeutsche und österreichische Übersetzung.
+[^t-3]: [AS 1972 1069](https://fedlex.data.admin.ch/eli/oc/1972/1069_1081_1245)
 
 Im Bestreben, die Sicherheit der Beförderungen im internationalen Strassenverkehr zu erhöhen,
 
@@ -183,7 +184,7 @@ Nach dem 15. Dezember 1957 wird die Urschrift dieses Übereinkommens beim Genera
 
 Unterzeichnungsprotokoll
 
-Bei der Unterzeichnung des Europäischen Übereinkommens über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR) haben die gehörig Bevollmächtigten
+Bei der Unterzeichnung des Europäischen Übereinkommens über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR) haben die gehörig Bevollmächtigten:
 
 - 1\. In der Erwägung, dass die Bedingungen für die Beförderung gefährlicher Güter zur See nach und von dem Vereinigten Königreich wesentlich von denen der Anlage A des ADR abweichen und dass es nicht möglich ist, sie in absehbarer Zeit dem ADR anzupassen,
 - In Anbetracht dessen, dass das Vereinigte Königreich sich verpflichtet hat, zur Ergänzung der Anlage A einen besonderen Anhang vorzulegen, der Sondervorschriften für die Beförderung gefährlicher Güter auf der Strasse und zur See zwischen dem Festland und dem Vereinigten Königreich enthält,
@@ -193,11 +194,11 @@ Bei der Unterzeichnung des Europäischen Übereinkommens über die international
 
 (Es folgen die Unterschriften)
 
-Anlagen A und B*[^t-3]*
+Anlagen A und B*[^t-4]*
 
-[^t-3]: Die Anlagen werden in der AS nicht veröffentlicht (AS **1972** 1081 1361, [1973 1339](https://fedlex.data.admin.ch/eli/oc/1973/1339_1339_1339), [1974 843](https://fedlex.data.admin.ch/eli/oc/1974/843_843_843)[1395](https://fedlex.data.admin.ch/eli/oc/1974/1395_1395_1395), [1975 1609](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607), [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610), [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222), [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300), [1983 441](https://fedlex.data.admin.ch/eli/oc/1983/441_441_441), [1985 494](https://fedlex.data.admin.ch/eli/oc/1985/494_494_494), [1987 1625](https://fedlex.data.admin.ch/eli/oc/1987/1625_1625_1625), [1989 2486](https://fedlex.data.admin.ch/eli/oc/1989/2486_2486_2486), [1993 191](https://fedlex.data.admin.ch/eli/oc/1993/191_191_191), [1994 2856](https://fedlex.data.admin.ch/eli/oc/1994/2856_2856_2856), [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422), [1999 751](https://fedlex.data.admin.ch/eli/oc/1999/115), [2002 455](https://fedlex.data.admin.ch/eli/oc/2002/102)[4363](https://fedlex.data.admin.ch/eli/oc/2002/712), [2004 5201](https://fedlex.data.admin.ch/eli/oc/2004/800), [2007 69](https://fedlex.data.admin.ch/eli/oc/2007/16), [2008 5123](https://fedlex.data.admin.ch/eli/oc/2008/716), [2011 3553](https://fedlex.data.admin.ch/eli/oc/2011/485), [2012 6657](https://fedlex.data.admin.ch/eli/oc/2012/803)und [2014 4707](https://fedlex.data.admin.ch/eli/oc/2014/794), [2016 3805](https://fedlex.data.admin.ch/eli/oc/2016/636), [2018 3893](https://fedlex.data.admin.ch/eli/oc/2018/617), [2020 4473](https://fedlex.data.admin.ch/eli/oc/2020/785)). Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern, erhältlich.
+[^t-4]: Die Anlagen werden in der AS nicht veröffentlicht (AS **1972** 1081, 1361; [1973 1339](https://fedlex.data.admin.ch/eli/oc/1973/1339_1339_1339); [1974 843](https://fedlex.data.admin.ch/eli/oc/1974/843_843_843), [1395](https://fedlex.data.admin.ch/eli/oc/1974/1395_1395_1395); [1975 1609](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607); [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610); [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222); [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300); [1983 441](https://fedlex.data.admin.ch/eli/oc/1983/441_441_441); [1985 494](https://fedlex.data.admin.ch/eli/oc/1985/494_494_494); [1987 1625](https://fedlex.data.admin.ch/eli/oc/1987/1625_1625_1625); [1989 2486](https://fedlex.data.admin.ch/eli/oc/1989/2486_2486_2486); [1993 191](https://fedlex.data.admin.ch/eli/oc/1993/191_191_191); [1994 2856](https://fedlex.data.admin.ch/eli/oc/1994/2856_2856_2856); [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422); [1999 751](https://fedlex.data.admin.ch/eli/oc/1999/115); [2002 455](https://fedlex.data.admin.ch/eli/oc/2002/102), [4363](https://fedlex.data.admin.ch/eli/oc/2002/712); [2004 5201](https://fedlex.data.admin.ch/eli/oc/2004/800); [2007 69](https://fedlex.data.admin.ch/eli/oc/2007/16); [2008 5123](https://fedlex.data.admin.ch/eli/oc/2008/716); [2011 3553](https://fedlex.data.admin.ch/eli/oc/2011/485); [2012 6657](https://fedlex.data.admin.ch/eli/oc/2012/803); [2014 4707](https://fedlex.data.admin.ch/eli/oc/2014/794); [2016 3805](https://fedlex.data.admin.ch/eli/oc/2016/636); [2018 3893](https://fedlex.data.admin.ch/eli/oc/2018/617); [2020 4473](https://fedlex.data.admin.ch/eli/oc/2020/785)). Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern, erhältlich.
 
-Geltungsbereich am 19. Juni 2019**[^t-4]**
+Geltungsbereich am 19. Juni 2019**[^t-5]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -252,7 +253,7 @@ Geltungsbereich am 19. Juni 2019**[^t-4]**
 <tr><td>Ungarn\*</td><td>19. Juli</td><td>1979 B</td><td>19. August</td><td>1979</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>29. Juni</td><td>1968</td><td>29. Juli</td><td>1968</td></tr>
 <tr><td>Zypern</td><td>19. April</td><td>2004 B</td><td>19. Mai</td><td>2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-4]: AS **1975** 1628, [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610), [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222), [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300), [1987 1144](https://fedlex.data.admin.ch/eli/oc/1987/1144_1144_1144), [2005 1237](https://fedlex.data.admin.ch/eli/oc/2005/181), [2008 4939](https://fedlex.data.admin.ch/eli/oc/2008/692), [2012 4571](https://fedlex.data.admin.ch/eli/oc/2012/550), [2019 2003](https://fedlex.data.admin.ch/eli/oc/2019/365). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-5]: AS **1975** 1628; [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610); [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222); [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300); [1987 1144](https://fedlex.data.admin.ch/eli/oc/1987/1144_1144_1144); [2005 1237](https://fedlex.data.admin.ch/eli/oc/2005/181); [2008 4939](https://fedlex.data.admin.ch/eli/oc/2008/692); [2012 4571](https://fedlex.data.admin.ch/eli/oc/2012/550); [2019 2003](https://fedlex.data.admin.ch/eli/oc/2019/365). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.

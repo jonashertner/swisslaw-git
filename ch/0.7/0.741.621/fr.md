@@ -4,18 +4,18 @@ title: Accord du 30 septembre 1957 relatif au transport international des marcha
 short: ADR
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249"
 language: fr
-version: 2021-01-01
+version: 2022-02-23
 adopted: 1957-09-30
 in_force: 1972-07-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1972-1073_1085_1249-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/1073_1085_1249/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249/20220223/fr/xml/fedlex-data-admin-ch-eli-cc-1972-1073_1085_1249-20220223-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/1073_1085_1249/20220223/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord européen relatif au transport international des marchandises dangereuses par route
+# Accord relatif au transport international des marchandises dangereuses par route****
 
-RO **1972** 1085; FF **1969** II 1
+RO **1972** 1085; FF **1969** II 1[^t-1]
 
 Texte original
 
@@ -23,7 +23,7 @@ Texte original
 
 Conclu à Genève le 30 septembre 1957
 
-Approuvé par l’Assemblée fédérale le 4 décembre 1969[^t-1]
+Approuvé par l’Assemblée fédérale le 4 décembre 1969[^t-2]
 
 Instrument de ratification déposé le 20 juin 1972
 
@@ -31,9 +31,10 @@ Entré en vigueur pour la Suisse le 20 juillet 1972
 
 Annexes A et B amendées les 29 janvier 1968, 26 octobre 1970 et le 30 décembre 1971
 
-(Etat le 1<sup>er</sup> janvier 2021)
+(Etat le 23 février 2022)
 
-[^t-1]: [RO 1972 1081](https://fedlex.data.admin.ch/eli/oc/1972/1069_1081_1245)
+[^t-1]: Erratum du 23 fév. 2022 ([RO 2022 127](https://fedlex.data.admin.ch/eli/oc/2022/127)).
+[^t-2]: [RO 1972 1081](https://fedlex.data.admin.ch/eli/oc/1972/1069_1081_1245)
 
 Les Parties contractantes,
 
@@ -142,7 +143,7 @@ Les pays membres de la Commission économique pour l’Europe et les pays admis 
 
 #### Art. 14
 
-<sup>1.</sup> Indépendamment de la procédure de revision prévue à l’art. 13, toute Partie contractante pourra proposer un ou plusieurs amendements aux annexes du présent Accord. A cet effet, elle en transmettra le texte au Secrétaire général de l’Organisation des Nations Unies. Pour obtenir la concordance de ces annexes avec les autres accords internationaux relatifs au transport des marchandises dangereuses, le Secrétaire général pourra également proposer des amendements aux annexes du présent Accord.
+<sup>1.</sup> Indépendamment de la procédure de revision prévue à l’art. 13, toute Partie contractante pourra proposer un ou plusieurs amendements aux annexes du présent Accord. À cet effet, elle en transmettra le texte au Secrétaire général de l’Organisation des Nations Unies. Pour obtenir la concordance de ces annexes avec les autres accords internationaux relatifs au transport des marchandises dangereuses, le Secrétaire général pourra également proposer des amendements aux annexes du présent Accord.
 
 <sup>2.</sup> Le Secrétaire général communiquera à toutes les Parties contractantes et portera à la connaissance des autres pays visés au par. 1 de l’art. 6 toute proposition faite conformément au par. 1 du présent article.
 
@@ -198,14 +199,14 @@ Au moment de signer l’Accord européen relatif au transport international des 
 
 (Suivent les signatures)
 
-Annexes A et B*[^t-2]*
+Annexes A et B*[^t-3]*
 
-[^t-2]: Les annexes A et B ne sont publiées ni au RO ni au RS (RO **1972** 1093 1382, [1973 1339](https://fedlex.data.admin.ch/eli/oc/1973/1339_1339_1339), [1974 843](https://fedlex.data.admin.ch/eli/oc/1974/843_843_843)[1395](https://fedlex.data.admin.ch/eli/oc/1974/1395_1395_1395), [1975 1607](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607), [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610), [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222), [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300), [1983 441](https://fedlex.data.admin.ch/eli/oc/1983/441_441_441), [1985 494](https://fedlex.data.admin.ch/eli/oc/1985/494_494_494), [1987 1625](https://fedlex.data.admin.ch/eli/oc/1987/1625_1625_1625), [1989 2486](https://fedlex.data.admin.ch/eli/oc/1989/2486_2486_2486), [1993 191](https://fedlex.data.admin.ch/eli/oc/1993/191_191_191), [1994 2856](https://fedlex.data.admin.ch/eli/oc/1994/2856_2856_2856), [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422), [1999 751](https://fedlex.data.admin.ch/eli/oc/1999/115), [2002 455](https://fedlex.data.admin.ch/eli/oc/2002/102)[4363](https://fedlex.data.admin.ch/eli/oc/2002/712), [2004 5201](https://fedlex.data.admin.ch/eli/oc/2004/800), [2007 69](https://fedlex.data.admin.ch/eli/oc/2007/16), [2008 5123](https://fedlex.data.admin.ch/eli/oc/2008/716), [2011 3553](https://fedlex.data.admin.ch/eli/oc/2011/485), [2012 6657](https://fedlex.data.admin.ch/eli/oc/2012/803), [2014 4707](https://fedlex.data.admin.ch/eli/oc/2014/794), [2016 3805](https://fedlex.data.admin.ch/eli/oc/2016/636), [2018 3893](https://fedlex.data.admin.ch/eli/oc/2018/617), [2020 4473](https://fedlex.data.admin.ch/eli/oc/2020/785)). Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
+[^t-3]: Les annexes A et B ne sont publiées ni au RO ni au RS (RO **1972** 1093 1382, [1973 1339](https://fedlex.data.admin.ch/eli/oc/1973/1339_1339_1339), [1974 843](https://fedlex.data.admin.ch/eli/oc/1974/843_843_843)[1395](https://fedlex.data.admin.ch/eli/oc/1974/1395_1395_1395), [1975 1607](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607), [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610), [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222), [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300), [1983 441](https://fedlex.data.admin.ch/eli/oc/1983/441_441_441), [1985 494](https://fedlex.data.admin.ch/eli/oc/1985/494_494_494), [1987 1625](https://fedlex.data.admin.ch/eli/oc/1987/1625_1625_1625), [1989 2486](https://fedlex.data.admin.ch/eli/oc/1989/2486_2486_2486), [1993 191](https://fedlex.data.admin.ch/eli/oc/1993/191_191_191), [1994 2856](https://fedlex.data.admin.ch/eli/oc/1994/2856_2856_2856), [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422), [1999 751](https://fedlex.data.admin.ch/eli/oc/1999/115), [2002 455](https://fedlex.data.admin.ch/eli/oc/2002/102)[4363](https://fedlex.data.admin.ch/eli/oc/2002/712), [2004 5201](https://fedlex.data.admin.ch/eli/oc/2004/800), [2007 69](https://fedlex.data.admin.ch/eli/oc/2007/16), [2008 5123](https://fedlex.data.admin.ch/eli/oc/2008/716), [2011 3553](https://fedlex.data.admin.ch/eli/oc/2011/485), [2012 6657](https://fedlex.data.admin.ch/eli/oc/2012/803), [2014 4707](https://fedlex.data.admin.ch/eli/oc/2014/794), [2016 3805](https://fedlex.data.admin.ch/eli/oc/2016/636), [2018 3893](https://fedlex.data.admin.ch/eli/oc/2018/617), [2020 4473](https://fedlex.data.admin.ch/eli/oc/2020/785)). Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
 
-Champ d’application le 19 juin 2019**[^t-3]**
+Champ d’application le 19 juin 2019**[^t-4]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>26 janvier</td><td>2005 A</td><td>26 février</td><td>2005</td></tr>
 <tr><td>Allemagne\*</td><td>1<sup>er</sup> décembre</td><td>1969</td><td>1<sup>er</sup> janvier</td><td>1970</td></tr>
 <tr><td>Andorre</td><td>9 mars</td><td>2009 A</td><td>9 avril</td><td>2009</td></tr>
@@ -257,8 +258,7 @@ Champ d’application le 19 juin 2019**[^t-3]**
 <tr><td>Tunisie</td><td>3 septembre</td><td>2008 A</td><td>3 octobre</td><td>2008</td></tr>
 <tr><td>Turquie</td><td>22 février</td><td>2010 A</td><td>22 mars</td><td>2010</td></tr>
 <tr><td>Ukraine</td><td>1<sup>er</sup> mai</td><td>2000 A</td><td>1<sup>er</sup> juin</td><td>2000</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-[^t-3]: [RO 1975 1607](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607), [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610), [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222), [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300), [1987 1144](https://fedlex.data.admin.ch/eli/oc/1987/1144_1144_1144), [2005 1237](https://fedlex.data.admin.ch/eli/oc/2005/181), [2008 4939](https://fedlex.data.admin.ch/eli/oc/2008/692), [2012 4571](https://fedlex.data.admin.ch/eli/oc/2012/550)et **2019** 2003. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-4]: [RO 1975 1607](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607), [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610), [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222), [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300), [1987 1144](https://fedlex.data.admin.ch/eli/oc/1987/1144_1144_1144), [2005 1237](https://fedlex.data.admin.ch/eli/oc/2005/181), [2008 4939](https://fedlex.data.admin.ch/eli/oc/2008/692), [2012 4571](https://fedlex.data.admin.ch/eli/oc/2012/550)et **2019** 2003. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
