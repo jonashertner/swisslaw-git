@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-02-17
+version: 2022-02-23
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220217-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220223/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220223-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220223/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220217/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 17 février 2022)
+du 4 juin 2021 (Etat le 23 février 2022)
 
 Le Conseil fédéral suisse,
 
@@ -717,7 +717,7 @@ Les certificats suivants conservent leur ancienne durée de validité:
 
 [^34a-1]: Introduit par le ch. I de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), en vigueur depuis le 17 fév. 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 [^34a-2]: [RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-3]: [RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20), [56](https://fedlex.data.admin.ch/eli/oc/2022/56)
+[^34a-3]: [RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20), [21](https://fedlex.data.admin.ch/eli/oc/2022/21), [60](https://fedlex.data.admin.ch/eli/oc/2022/60)
 [^34a-4]: [RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
 [^34a-5]: [RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
 
@@ -960,7 +960,7 @@ Annexe 5*[^t-6]*
 
 ## Liste des certificats étrangers reconnus
 
-[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)) et le ch. I al. 2 de l’O du DFI du 1<sup>er</sup> fév. 2022 (Caractère complet d’une primovaccination et d’une vaccination de rappel, prise en compte de vaccins supplémentaires), en vigueur depuis le 3 fév. 2022 ([RO 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)).
+[^t-6]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II des O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), du 19 janv. 2022 (Certificat de guérison COVID-19 pour les tests rapides antigéniques) ([RO 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), le ch. I al. 2 de l’O du DFI du 1<sup>er</sup> fév. 2022 (Caractère complet d’une primovaccination et d’une vaccination de rappel, prise en compte de vaccins supplémentaires) ([RO 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)) et le ch. I de l’O du DFI du 22 fév. 2022, en vigueur depuis le 23 fév. 2022 ([RO 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 
@@ -984,6 +984,7 @@ Annexe 5*[^t-6]*
   - – Albanie
   - – Andorre
   - – Arménie
+  - – Bénin
   - – Cabo Verde
   - – El Salvador
   - – Géorgie
@@ -1018,6 +1019,7 @@ Annexe 5*[^t-6]*
 
   Sont reconnus les certificats de vaccination qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par les États et les régions suivants:
 
+  - – Jordanie
   - – Liban
   - – Tunisie
 

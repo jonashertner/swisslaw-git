@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-02-17
+version: 2022-02-23
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220217/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220217-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220223/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220223-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220223/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220217/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 17 febbraio 2022)
+del 4 giugno 2021 (Stato 23 febbraio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -719,7 +719,7 @@ I seguenti certificati mantengono la loro precedente durata di validità:
 
 [^34a-1]: Introdotto dal n. I dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 [^34a-2]: [RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-3]: [RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20), [56](https://fedlex.data.admin.ch/eli/oc/2022/56)
+[^34a-3]: [RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20), [21](https://fedlex.data.admin.ch/eli/oc/2022/21), [60](https://fedlex.data.admin.ch/eli/oc/2022/60)
 [^34a-4]: [RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
 [^34a-5]: [RU 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
 
@@ -964,7 +964,7 @@ Allegato 5*[^t-6]*
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), e dal n. I cpv. 2 dell’O del DFI del 1° feb. 2022 (Completamento delle immunizzazioni di base e vaccinazioni di richiamo, considerazione di ulteriori vaccini), in vigore dal 3 feb. 2022 ([RU 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)).
+[^t-6]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II delle O del 17 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), del 19 gen. 2022 (Certificati di guarigione dalla COVID-19 per i test antigenici rapidi) ([RU 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), dal n. I cpv. 2 dell’O del DFI del 1° feb. 2022 (Completamento delle immunizzazioni di base e vaccinazioni di richiamo, considerazione di ulteriori vaccini ([RU 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)) e dal n. I dell’O del del DFI del 22 feb. 2022, in vigore dal 23 feb. 2022 ([RU 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
@@ -983,15 +983,16 @@ Allegato 5*[^t-6]*
 
 - 2\.1
 
-  Sono riconosciuti i certificati di vaccinazione, di guarigione e di test che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati e dalle regioni seguenti:
+  Sono riconosciuti i certificati di vaccinazione, di guarigione e di test che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati et dalle regioni seguenti:
 
   - – Albania
   - – Andorra
   - – Armenia
+  - – Benin
   - – Capo Verde
   - – El Salvador
   - – Georgia
-  - – Isole Faroe
+  - – Isole Färöer
   - – Israele
   - – Macedonia del Nord
   - – Marocco
@@ -1022,6 +1023,7 @@ Allegato 5*[^t-6]*
 
   Sono riconosciuti i certificati di vaccinazione che sono interoperabili conformemente al regolamento (UE) 2021/953 e che sono stati emessi dagli Stati e dalle regioni seguenti:
 
+  - – Giordania
   - – Libano
   - – Tunisia
 

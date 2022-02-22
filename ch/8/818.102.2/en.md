@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-02-17
+version: 2022-02-23
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220217/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220217-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220217/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220223/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220223-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220223/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 17 February 2022)
+of 4 June 2021 (Status as of 23 February 2022)
 
 The Swiss Federal Council,
 
@@ -719,7 +719,7 @@ The following certificates retain their current validity:
 
 [^34a-1]: Inserted by No I of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
 [^34a-2]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
-[^34a-3]: [AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20), [56](https://fedlex.data.admin.ch/eli/oc/2022/56)
+[^34a-3]: [AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20), [21](https://fedlex.data.admin.ch/eli/oc/2022/21), [60](https://fedlex.data.admin.ch/eli/oc/2022/60)
 [^34a-4]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)
 [^34a-5]: [AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653), [813](https://fedlex.data.admin.ch/eli/oc/2021/813)
 
@@ -960,7 +960,7 @@ Annex 5*[^t-6]*
 
 ## List of recognised foreign certificates
 
-[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)) and No I para. 2 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines), in force since 3 Feb. 2022 ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)).
+[^t-6]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), of 19 Jan. 2022 (COVID Recovery Certificates for Rapid Antigen Tests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), by No I para. 2 of the FDHA O of 1 Feb. 2022 (Level of Basic Immunisation and Booster Vaccination, Recognition of other Vaccines) ([AS 2022 56](https://fedlex.data.admin.ch/eli/oc/2022/56)) and by No I of the O of the FDHA of 22 Feb. 2022, in force since 23 Feb. 2022 ([AS 2022 117](https://fedlex.data.admin.ch/eli/oc/2022/117)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -982,6 +982,7 @@ Annex 5*[^t-6]*
 - – Albania
 - – Andorra
 - – Armenia
+- – Benin
 - – Cape Verde
 - – El Salvador
 - – Faroe Islands
@@ -1016,6 +1017,7 @@ Annex 5*[^t-6]*
 
   Vaccination certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following states and regions are recognised:
 
+  - – Jordan
   - – Lebanon
   - – Tunisia
 
