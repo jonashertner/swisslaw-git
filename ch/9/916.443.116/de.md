@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 3. Dezember 2021 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/804"
 language: de
-version: 2022-01-29
+version: 2022-02-26
 adopted: 2021-12-03
 in_force: 2021-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20220129/de/xml/fedlex-data-admin-ch-eli-cc-2021-804-20220129-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20220129/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20220226/de/xml/fedlex-data-admin-ch-eli-cc-2021-804-20220226-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20220226/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 3. Dezember 2021 (Stand am 29. Januar 2022)
+vom 3. Dezember 2021 (Stand am 26. Februar 2022)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -156,15 +156,19 @@ Anhang 1*[^t-1]*
 
 Es sind keine Schutz- und Überwachungszonen und davon betroffenen Kantone und Gemeinden festgelegt.
 
-Anhang 2
+Anhang 2*[^t-2]*
 
 (Art. 7)
 
 ## Kontroll- und Beobachtungsgebiete
 
+[^t-2]: Fassung gemäss Ziff. I der V des BLV vom 25. Febr. 2022, in Kraft seit 26. Febr. 2022 ([AS 2022 139](https://fedlex.data.admin.ch/eli/oc/2022/139)).
+
 ### 1. Gewässer, deren Uferstreifen Kontroll- und Beobachtungsgebiete sind
 
 Aare, Ausfluss Bielersee bis Klingnau
+
+Aare, ab Einmündung Gürbe flussabwärts bis Zufluss Wohlensee
 
 Baldeggersee
 
