@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale dell’ordinanza sulla segnaletica stradale per semplificare l’introduzione di zone 30 e car pooling
 document: Progetto posto in consultazione
 language: it

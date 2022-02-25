@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de l’ordonnance sur la signalisation routière portant sur le covoiturage et la simplification de l’introduction de zones 30
 document: Projet mis en consultation
 language: fr

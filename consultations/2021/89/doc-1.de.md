@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Teilrevision der Signalisationsverordnung, Vereinfachung der Einführung von Tempo-30-Zonen und Carpooling"
 document: Vernehmlassungsvorlage-2
 language: de
