@@ -4,24 +4,25 @@ number: "512.1"
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2020-09-01
-valid_until: 2022-02-25
-version_adopted: 2020-04-30
+version: 2022-02-26
+version_adopted: 2021-12-16
 adopted: 2006-11-30
 in_force: 2008-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/512.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2130/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2316/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Polizeigesetz
 
-Vom 30. November 2006 (Stand 1. September 2020)
+(PolG)
+
+Vom 30. November 2006 (Stand 26. Februar 2022)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs.1 Bst. b der Kantonsverfassung[^ingress-1],
 
 beschliesst:
 
@@ -146,35 +147,36 @@ beschliesst:
 
 #### § 10a
 
-**Verdeckte Vorermittlung, verdeckte Registrierung**
+**Präventive verdeckte Ermittlung**
 
-<sup>1</sup> Die Polizeikommandantin oder der Polizeikommandant kann zur Erkennung und Verhinderung von Straftaten an allgemein zugänglichen Orten, insbesondere auch in öffentlichen elektronischen Datennetzen (Internet), eine verdeckte Vorermittlung anordnen, wenn
+<sup>1</sup> Die Polizei kann zur Erkennung und Verhinderung von Straftaten eine präventive verdeckte Ermittlung anordnen, wenn
 
-- a) aufgrund hinreichender Anhaltspunkte anzunehmen ist, dass eine Straftat voraussichtlich begangen werden soll und
-- b) die besondere Schwere der in Betracht fallenden Straftat die verdeckte Vorermittlung rechtfertigt und
+- a) aufgrund hinreichender Anhaltspunkte anzunehmen ist, dass eine Straftat im Sinne von Art. 286 Abs. 2 der Schweizerischen Strafprozessordnung (StPO)[^10a-1] begangen werden soll;
+- b) die besondere Schwere dieser Straftat die präventive verdeckte Ermittlung rechtfertigt; und
 - c) andere Massnahmen aussichtslos wären.
 
-<sup>2</sup> Als verdeckt Vorermittelnde können Angehörige eines schweizerischen oder ausländischen Polizeikorps eingesetzt werden oder Personen, die vorübergehend mit polizeilichen Aufgaben beauftragt werden.
+<sup>2</sup> Als präventiv verdeckt Ermittelnde können Angehörige eines schweizerischen oder ausländischen Polizeikorps oder Personen, die vorübergehend mit polizeilichen Aufgaben beauftragt werden, eingesetzt werden.
 
-<sup>3</sup> Die Polizei kann die verdeckt Vorermittelnden mit einer Legende ausstatten, die ihnen eine Identität verleiht, die von der wahren Identität abweicht. Sie kann ihnen im Falle der Befragung als Auskunftsperson oder Zeugin oder Zeuge im Strafverfahren Anonymität zusichern.
+<sup>3</sup> Die Polizei stattet die präventiv verdeckt Ermittelnden mit einer Legende aus, die ihnen eine Identität verleiht, die von der wahren Identität abweicht. Sie kann ihnen im Falle der Befragung als Auskunftsperson oder Zeugin oder Zeuge im Strafverfahren Anonymität zusichern.
 
-<sup>4</sup> Der Einsatz von verdeckt Vorermittelnden bedarf der vorgängigen Genehmigung durch das Zwangsmassnahmengericht.
+<sup>4</sup> Der Einsatz von präventiv verdeckt Ermittelnden bedarf der vorgängigen Genehmigung durch das Zwangsmassnahmengericht.
 
-<sup>5</sup> Im Übrigen gelten die Art. 287 bis Art. 295 und Art. 297 bis Art. 298 der Schweizerischen Strafprozessordnung (StPO)[^10a-1] sinngemäss. Die Weiterverfolgung von Zufallsfunden bedarf der erneuten Genehmigung des Zwangsmassnahmengerichts.
+<sup>5</sup> Im Übrigen gelten Art. 287 bis Art. 295 sowie Art. 297 und Art. 298 StPO[^10a-2] sinngemäss. Die Weiterverfolgung von Zufallsfunden bedarf der erneuten Genehmigung des Zwangsmassnahmengerichts.
 
-<sup>6</sup> Die Polizei kann zur Abwehr von Gefahren für die öffentliche Sicherheit Personen, Fahrzeuge, Wasserfahrzeuge, Luftfahrzeuge und Container zur verdeckten Registrierung im Schengener Informationssystem ausschreiben lassen.
+<sup>6</sup> …
 
 [^10a-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^10a-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 10b
 
-**Observation**
+**Präventive Observation**
 
 <sup>1</sup> Die Polizei kann zur Informationsbeschaffung, zum Schutz von Personen, Tieren und Gegenständen sowie zur Verhinderung und Erkennung von Verbrechen oder Vergehen öffentliche und allgemein zugängliche Orte offen oder verdeckt überwachen, wenn andere Massnahmen weniger Erfolg versprechen oder erschwert wären.
 
 <sup>2</sup> Sie kann dabei Bild- und Tonaufzeichnungen machen, wenn aufgrund hinreichender Anhaltspunkte anzunehmen ist, dass Verbrechen oder Vergehen voraussichtlich begangen werden sollen oder es zur Abwehr drohender Gefahren geeignet und erforderlich ist.
 
-<sup>3</sup> Hat die Observation insgesamt dreissig Tage gedauert, bedarf deren Fortsetzung der vorgängigen Genehmigung durch die Staatsanwaltschaft.
+<sup>3</sup> Hat die präventive Observation insgesamt dreissig Tage gedauert, bedarf deren Fortsetzung der vorgängigen Genehmigung durch die Staatsanwaltschaft.
 
 #### § 10c
 
@@ -194,6 +196,32 @@ beschliesst:
 **Vertrauliche Quellen**
 
 <sup>1</sup> Zur Informationsbeschaffung kann die Polizei von Informantinnen und Informanten oder von Vertrauenspersonen unter Zusicherung der Vertraulichkeit einzelfallweise Hinweise entgegennehmen, die der polizeilichen Aufgabenerfüllung dienen.
+
+#### § 10e
+
+**Präventive verdeckte Fahndung**
+
+<sup>1</sup> Die Polizei kann zur Erkennung und Verhinderung von Straftaten eine präventive verdeckte Fahndung anordnen, wenn
+
+- a) aufgrund hinreichender Anhaltspunkte anzunehmen ist, dass ein Verbrechen oder Vergehen begangen werden soll; und
+- b) andere Massnahmen erfolglos geblieben sind, weniger Erfolg versprechen oder unverhältnismässig erschwert würden.
+
+<sup>2</sup> Präventive verdeckte Fahndung liegt vor, wenn Angehörige der Polizei im Rahmen kurzer Einsätze mit anderen Personen Kontakt aufnehmen, ohne ihre wahre Identität und Funktion bekannt zu geben, und dabei insbesondere Scheingeschäfte abschliessen oder den Willen zu deren Abschluss vortäuschen.
+
+<sup>3</sup> Präventive verdeckte Fahnderinnen und Fahnder werden nicht mit einer durch Urkunden abgesicherten Legende im Sinne von Art. 285a StPO[^10e-1] ausgestattet. Ihre wahre Identität und Funktion wird in den Verfahrensakten und bei Einvernahmen offengelegt.
+
+<sup>4</sup> Hat eine präventive verdeckte Fahndung dreissig Tage gedauert, so bedarf ihre Fortsetzung der Genehmigung durch das Zwangsmassnahmengericht.
+
+<sup>5</sup> Die Vorgaben gemäss Art. 298c und Art. 298d StPO[^10e-2] gelten sinngemäss.
+
+[^10e-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^10e-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+
+#### § 10f
+
+**Verdeckte Registrierung und gezielte Kontrolle**
+
+<sup>1</sup> Die Polizei kann zur Abwehr von Gefahren für die öffentliche Sicherheit Personen, Fahrzeuge, Wasserfahrzeuge, Luftfahrzeuge und Container zur verdeckten Registrierung oder gezielten Kontrolle im Schengener Informationssystem ausschreiben lassen.
 
 #### § 11
 
@@ -324,6 +352,19 @@ beschliesst:
 <sup>1</sup> Besteht eine ernsthafte Gefahr, dass die gefährdende Person ein Verbrechen oder Vergehen begeht, kann die Polizei bei Bedarf mit anderen kantonalen und ausserkantonalen Behörden und Stellen zusammenarbeiten. In der direkten Zusammenarbeit sind Personen vom Amtsgeheimnis entbunden; vorbehalten bleiben das Berufsgeheimnis nach Art. 321 StGB[^16d-1] sowie besondere gesetzliche Schweigepflichten.
 
 [^16d-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+### 2.2.1b. Ergänzende Bestimmung zur Verhinderung terroristischer Aktivitäten
+
+#### § 16e
+
+**Antragstellung an das Bundesamt für Polizei (fedpol) und Datenbearbeitung**
+
+<sup>1</sup> Die Polizei kann beim fedpol gestützt auf Art. 23i Abs. 1 des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit (BWIS)[^16e-1] Massnahmen gegenüber terroristischen Gefährderinnen und Gefährdern nach Art. 23k bis Art. 23q BWIS beantragen.
+
+<sup>2</sup> Die Polizei kann gestützt auf Art. 23h Abs. 1 BWIS[^16e-2] besonders schützenswerte Personendaten von terroristischen Gefährderinnen und Gefährdern sowie von Dritten bearbeiten. Die Bearbeitung erfolgt in einer Arbeitskartei, auf welche einzig die mit dem Gewaltschutz betrauten Polizeiangehörigen sowie die Einsatzleitzentrale Zugriff haben.
+
+[^16e-1]: SR [120](https://db.clex.ch/link/Bund/120/de)
+[^16e-2]: SR [120](https://db.clex.ch/link/Bund/120/de)
 
 ### 2.2.2. Ergänzende Bestimmungen zum Schutz vor häuslicher Gewalt
 
@@ -743,6 +784,21 @@ beschliesst:
 
 <sup>4</sup> Soweit es sich nicht um die Ausfällung von Ordnungsbussen handelt, rapportiert die Polizei ihre Amtshandlungen und Abklärungen zuhanden der zuständigen Organe.
 
+#### § 39a
+
+**Elektronischer Datenaustausch**
+
+<sup>1</sup> Die Polizei kann mit Polizeien anderer Kantone und des Bundes bei der Übermittlung von polizeilichen Daten im Einzelfall und zur Erkennung oder Bekämpfung von Verbrechen und Vergehen oder zur Suche nach vermissten oder entwichenen Personen auf elektronischem Weg zusammenarbeiten.
+
+<sup>2</sup> Sie kann, soweit zur Aufgabenerfüllung erforderlich,
+
+- a) Schnittstellen zwischen eigenen polizeilichen Datenbearbeitungssystemen und jenen anderer Kantone und des Bundes einrichten;
+- b) mit den Polizeien anderer Kantone und des Bundes gemeinsame Datenbearbeitungssysteme betreiben.
+
+<sup>3</sup> Zugriffsberechtigung, Beschränkungen und Einzelheiten unterstehen den kantonalen Bestimmungen zur Informationssicherheit und zum Datenschutz, soweit übergeordnetes Recht nichts Abweichendes vorsieht.
+
+<sup>4</sup> Die Einzelheiten des Datenaustausches sind in Vereinbarungen zu regeln.
+
 #### § 40
 
 **Datenbearbeitungssysteme des Kantons**
@@ -787,9 +843,9 @@ beschliesst:
 
 **Vernichtung von Aufzeichnungen**
 
-<sup>1</sup> Die bei polizeilichen Spezialeinsätzen und bei Sportveranstaltungen erstellten Bild- und Tonaufnahmen vernichtet die Polizei ein Jahr nach deren Erstellung, sofern die Aufnahmen nicht zu Beweiszwecken in Straf-, Staatshaftungs- oder Verwaltungsverfahren oder anonymisiert zur polizeiinternen Schulung dienen.
+<sup>1</sup> Aufzeichnungen von Funk- und Telefongesprächen mit der Einsatzleitzentrale sowie die bei polizeilichen Spezialeinsätzen und bei Sportveranstaltungen erstellten Bild- und Tonaufnahmen vernichtet die Polizei ein Jahr nach deren Erstellung, sofern die Aufnahmen nicht zu Beweiszwecken in Straf-, Staatshaftungs- oder Verwaltungsverfahren oder anonymisiert zur polizeiinternen Schulung dienen.
 
-<sup>2</sup> Aufzeichnungsmaterial aus polizeilichen Observationen, verdeckten Vorermittlungen sowie Überwachungen ausserhalb von Strafverfahren vernichtet die Polizei spätestens nach 180 Tagen, sofern sie nicht in einem eingeleiteten Strafverfahren weiterverwendet werden.
+<sup>2</sup> Aufzeichnungsmaterial aus präventiven Observationen, präventiven verdeckten Fahndungen und präventiven verdeckten Ermittlungen sowie Überwachungen ausserhalb von Strafverfahren vernichtet die Polizei spätestens nach 180 Tagen, sofern sie nicht in einem eingeleiteten Strafverfahren weiterverwendet werden.
 
 #### § 43b
 
