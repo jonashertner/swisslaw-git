@@ -3,18 +3,20 @@ sr: "946.231.176.72"
 title: Verordnung vom 27. August 2014 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/486"
 language: de
-version: 2022-02-25
+version: 2022-02-28
 adopted: 2014-08-27
 in_force: 2014-08-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/486/20220225/de/xml/fedlex-data-admin-ch-eli-cc-2014-486-20220225-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/486/20220225/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/486/20220228/de/xml/fedlex-data-admin-ch-eli-cc-2014-486-20220228-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/486/20220228/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über Massnahmen zur Vermeidung der Umgehung internationaler Sanktionen im Zusammenhang mit der Situation in der Ukraine
+# Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine****
 
-vom 27. August 2014 (Stand am 25. Februar 2022)
+vom 27. August 2014 (Stand am 28. Februar 2022)[^t-1]
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
 
 Der Schweizerische Bundesrat,
 
@@ -88,116 +90,181 @@ Die folgenden Dienstleistungen müssen dem SECO unverzüglich gemeldet werden, f
 
 #### Art. 3
 
-**Einfuhr von Gütern aus der Krim und Sewastopol**
+**Einfuhr von Gütern aus den bezeichneten Gebieten**[^3-1]
 
-<sup>1</sup> Güter mit Ursprung auf der Krim oder in Sewastopol dürfen nur eingeführt werden, wenn ein von den ukrainischen Behörden ausgestelltes Herkunftszertifikat vorliegt.
+<sup>1</sup> Güter mit Ursprung in den bezeichneten Gebieten dürfen nur eingeführt werden, wenn ein von den ukrainischen Behörden ausgestelltes Herkunftszertifikat vorliegt.
 
-<sup>2</sup> Es ist verboten, im Zusammenhang mit der Einfuhr von Gütern mit Ursprung auf der Krim oder in Sewastopol, für die kein von den ukrainischen Behörden ausgestelltes Herkunftszertifikat vorliegt, Finanzdienstleistungen zu erbringen sowie Versicherungen und Rückversicherungen abzuschliessen.
+<sup>2</sup> Es ist verboten, im Zusammenhang mit der Einfuhr von Gütern mit Ursprung in den bezeichneten Gebieten, für die kein von den ukrainischen Behörden ausgestelltes Herkunftszertifikat vorliegt, Finanzdienstleistungen zu erbringen sowie Versicherungen und Rückversicherungen abzuschliessen.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
 
 #### Art. 4
 
-**Ausfuhr von Gütern nach der Krim und Sewastopol**[^4-1]
+**Ausfuhr von Gütern nach den bezeichneten Gebieten[^4-2]**[^4-1]
 
-<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern nach Anhang 1 an Personen, Unternehmen oder Organisationen auf der Krim und in Sewastopol ist untersagt.
+<sup>1</sup> Der Verkauf, die Lieferung, die Ausfuhr und die Durchfuhr von Gütern nach Anhang 1 an Personen, Unternehmen oder Organisationen in den bezeichneten Gebieten ist untersagt.[^4-3]
 
-<sup>2</sup> Die Erbringung technischer Hilfe, Vermittlungsdienste, Bau- oder Ingenieursdienstleistungen sowie die Bereitstellung von Finanzmitteln oder finanzieller Unterstützung im Zusammenhang mit Gütern nach Anhang 1 zugunsten von Personen, Unternehmen oder Organisationen auf der Krim und in Sewastopol sind untersagt.
+<sup>2</sup> Die Erbringung technischer Hilfe, Vermittlungsdienste, Bau- oder Ingenieursdienstleistungen sowie die Bereitstellung von Finanzmitteln oder finanzieller Unterstützung im Zusammenhang mit Gütern nach Anhang 1 zugunsten von Personen, Unternehmen oder Organisationen in den bezeichneten Gebieten sind untersagt.[^4-4]
 
-<sup>3</sup> Ausgenommen von den Verboten nach den Absätzen 1 und 2 sind Handlungen, die für die amtliche Tätigkeit konsularischer Vertretungen oder internationaler Organisationen sowie für Spitäler oder Bildungseinrichtungen mit Sitz auf der Krim und in Sewastopol erforderlich sind.
+<sup>3</sup> Ausgenommen von den Verboten nach den Absätzen 1 und 2 sind Handlungen, die für die amtliche Tätigkeit konsularischer Vertretungen oder internationaler Organisationen sowie für Spitäler oder Bildungseinrichtungen mit Sitz in den bezeichneten Gebieten erforderlich sind.[^4-5]
 
 <sup>4</sup> Das SECO kann nach Rücksprache mit dem Eidgenössischen Departement für auswärtige Angelegenheiten Ausnahmen von den Verboten nach den Absätzen 1 und 2 gewähren, sofern dies für die Abwendung oder Eindämmung eines Ereignisses erforderlich ist, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen, einschliesslich der Sicherheit vorhandener Infrastruktur, oder die Umwelt haben wird.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 6. März 2015, in Kraft seit 6. März 2015 ([AS 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^4-4]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^4-5]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
 
 ## 2. Abschnitt: Finanzielle Beschränkungen
 
+#### Art. 4a
+
+**Begriffe**[^4a-1]
+
+In dieser Verordnung bedeuten:
+
+- a. *Gelder:* finanzielle Vermögenswerte, einschliesslich Bargeld, Schecks, Geldforderungen, Wechsel, Geldanweisungen oder anderer Zahlungsmittel, Guthaben, Schulden und Schuldverpflichtungen, Wertpapieren und Schuldtiteln, Wertpapierzertifikaten, Obligationen, Schuldscheinen, Optionsscheinen, Pfandbriefen, Derivaten; Zinserträge, Dividenden oder andere Einkünfte oder Wertzuwächse aus Vermögenswerten; Kredite, Rechte auf Verrechnung, Bürgschaften, Vertragserfüllungsgarantien oder andere finanzielle Zusagen; Akkreditive, Konnossemente, Sicherungsübereignungen, Dokumente zur Verbriefung von Anteilen an Fondsvermögen oder anderen Finanzressourcen und jedes andere Finanzierungsinstrument für Exporte;
+- b. *Sperrung von Geldern:* die Verhinderung jeder Handlung, welche die Verwaltung oder die Nutzung der Gelder ermöglicht, mit Ausnahme von normalen Verwaltungshandlungen von Finanzinstituten;
+- c. *wirtschaftliche Ressourcen:* Vermögenswerte jeder Art, unabhängig davon, ob sie materiell oder immateriell, beweglich oder unbeweglich sind, insbesondere Immobilien und Luxusgüter, mit Ausnahme von Geldern nach Buchstabe a;
+- d. *Sperrung wirtschaftlicher Ressourcen:* die Verhinderung der Verwendung wirtschaftlicher Ressourcen zum Erwerb von Geldern, Waren oder Dienstleistungen, einschliesslich des Verkaufs, des Vermietens oder des Verpfändens solcher Ressourcen;
+- e. *bezeichnete Gebiete*: die Krim, Sewastopol und die nicht von der ukrainischen Regierung kontrollierten Gebiete der ukrainischen Oblaste Donetsk und Luhansk.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+
 #### Art. 5
 
-**Bewilligungspflicht für die Begebung von Finanzinstrumenten**
+**Verbot der Begebung von Finanzinstrumenten[^5-1]**
 
 <sup>1</sup>
 
-Die Begebung von Finanzinstrumenten mit einer Laufzeit von mehr als 30 Tagen durch einen der folgenden Emittenten unterliegt der Bewilligungspflicht:
+Die Unterstützung bei der Begebung oder die Begebung von Finanzinstrumenten mit einer Laufzeit von mehr als 30 Tagen durch einen der folgenden Emittenten ist verboten:[^5-2]
 
 - a. Banken und andere Unternehmen mit Sitz in Russland nach Anhang 2;
 - b. Banken sowie andere Unternehmen und Organisationen mit Sitz ausserhalb der Schweiz, die von Banken oder Unternehmen nach Anhang 2 zu über 50 Prozent beherrscht werden;
-- c. Unternehmen und Organisationen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a oder b handeln.[^5-1]
+- c. Unternehmen und Organisationen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a oder b handeln.[^5-3]
 
-<sup>1bis</sup> ...[^5-2]
+<sup>1bis</sup>
 
-<sup>2</sup> Die Bewilligung wird erteilt, wenn durch die geplante Kapitalaufnahme der durchschnittliche nominelle Wert der innerhalb der letzten drei Jahre ausstehenden Finanzinstrumente des jeweiligen Gesuchstellers nicht überschritten wird. Temporäre Überschreitungen im Zusammenhang mit Refinanzierungen sind gestattet.[^5-3]
+Die Unterstützung bei der Begebung oder die Begebung von Finanzinstrumenten durch einen der folgenden Emittenten ist verboten:
+
+- a. die Russische Föderation und ihre Regierung oder die Zentralbank Russlands;
+- b. juristische Personen, Organisationen oder Einrichtungen, wenn sie im Namen oder auf Anweisung einer unter Buchstabe a genannten Organisation handeln.[^5-4]
+
+<sup>2</sup> Die Bewilligung wird erteilt, wenn durch die geplante Kapitalaufnahme der durchschnittliche nominelle Wert der innerhalb der letzten drei Jahre ausstehenden Finanzinstrumente des jeweiligen Gesuchstellers nicht überschritten wird. Temporäre Überschreitungen im Zusammenhang mit Refinanzierungen sind gestattet.[^5-5]
 
 <sup>3</sup> Das SECO erteilt die Bewilligung nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departementes für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements.
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 12. Nov. 2014, in Kraft seit 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
-[^5-2]: Eingefügt durch Ziff. I der V vom 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)). Aufgehoben durch Ziff. I der V vom 6. März 2015, mit Wirkung seit 6. März 2015 ([AS 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
 [^5-3]: Fassung gemäss Ziff. I der V vom 12. Nov. 2014, in Kraft seit 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
+[^5-4]: Eingefügt durch Ziff. I der V vom 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)). Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^5-5]: Fassung gemäss Ziff. I der V vom 12. Nov. 2014, in Kraft seit 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
 
 #### Art. 5a
 
-**Bewilligungspflichten für die Gewährung von Darlehen**[^5a-1]
+**Verbot der Gewährung von Darlehen[^5a-2]**[^5a-1]
 
 <sup>1</sup>
 
-Die Gewährung von Darlehen mit einer Laufzeit von mehr als 30 Tagen an Empfänger nach Artikel 5 Absatz 1 Buchstaben a–c unterliegt der Bewilligungspflicht; ausgenommen ist die Gewährung von Darlehen zu folgenden Zwecken:
+Die direkte oder indirekte Gewährung von Darlehen mit einer Laufzeit von mehr als 30 Tagen an Empfänger nach Artikel 5 Absatz 1 Buchstaben a–c ist verboten; ausgenommen ist die Gewährung von Darlehen zu folgenden Zwecken:[^5a-3]
 
 - a. zur Finanzierung des durch diese Verordnung nicht betroffenen Handels zwischen der Schweiz oder der Europäischen Union und Drittstaaten;
 - b. zur Finanzierung der für die Erfüllung eines Handelsvertrags nach Buchstabe a notwendigen Güterlieferungen und Dienstleistungen aus der Europäischen Union oder anderen Drittstaaten;
 - c. zur Sicherstellung der gesetzlich vorgeschriebenen Liquidität zugunsten von juristischen Personen mit Sitz in der Schweiz oder der Europäischen Union, die von Banken oder Unternehmen nach Anhang 2 zu über 50 Prozent beherrscht werden.
 
-<sup>2</sup> Die Bewilligung für die Gewährung von Darlehen wird erteilt, wenn der geplante Darlehensbetrag den durchschnittlichen Wert der innerhalb der letzten drei Jahre gewährten Darlehensbeträge des jeweiligen Darlehensgebers nicht überschreitet.
+<sup>1bis</sup>
+
+Die direkte oder indirekte Gewährung von Darlehen an Empfänger nach Artikel 5 Absatz 1<sup>bis</sup> Buchstaben a und b ist verboten; ausgenommen ist die Gewährung von Darlehen zu folgenden Zwecken:
+
+- a. zur Finanzierung des durch diese Verordnung nicht betroffenen Handels zwischen der Schweiz oder der Europäischen Union und Drittstaaten;
+- b. zur Finanzierung der für die Erfüllung eines Handelsvertrags nach Buchstabe a notwendigen Güterlieferungen und Dienstleistungen aus der Europäischen Union oder anderen Drittstaaten.[^5a-4]
+
+<sup>2</sup>
+
+Das Verbot nach den Absätzen 1 und 1<sup>bis</sup> gilt nicht für Bezüge und Auszahlungen aufgrund eines vor dem 28. Februar 2022 abgeschlossenen Vertrags, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a.
+
+  Die Bedingungen für diese Bezüge oder Auszahlungen, einschliesslich von Bestimmungen über die Rückzahlungsfrist für jeden Bezug oder jede Auszahlung, des angewandten Zinssatzes oder der Berechnung dieses Zinssatzes sowie des Höchstbetrages, sind:
+
+  - 1\. vor dem 28. Februar 2022 vereinbart worden; und
+  - 2\. an oder nach diesem Datum nicht mehr geändert worden.
+
+- b. Es wurde vor dem 28. Februar 2022 vertraglich festgelegt, an welchem Datum die vollständige Rückzahlung aller zur Verfügung gestellten Mittel fällig wird und alle Verpflichtungen, Rechte und Pflichten erlöschen, die sich aus dem Vertrag ergeben.[^5a-5]
 
 <sup>3</sup> Das SECO erteilt die Bewilligung nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departementes für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements.
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 6. März 2015, in Kraft seit 6. März 2015 ([AS 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^5a-2]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^5a-3]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^5a-4]: Eingefügt durch Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^5a-5]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
 
 #### Art. 6
 
-**Meldepflichten**[^6-1]
+**Verbot des Handels mit Finanzinstrumenten**[^6-1]
 
-<sup>1</sup> Der Handel mit Finanzinstrumenten mit einer Laufzeit von mehr als 90 Tagen, die von Banken, Unternehmen oder Organisationen nach Artikel 5 Absatz 1 Buchstaben a–c vom 27. August 2014 bis 12. November 2014 begeben wurden, sowie der Handel mit Finanzinstrumenten mit einer Laufzeit von mehr als 30 Tagen, die von Banken, Unternehmen oder Organisationen nach Artikel 5 Absatz 1 Buchstaben a–c nach dem 12. November 2014 begeben wurden, muss dem SECO gemeldet werden.
+<sup>1</sup> Der Handel mit Finanzinstrumenten mit einer Laufzeit von mehr als 90 Tagen, die von Banken, Unternehmen oder Organisationen nach Artikel 5 Absatz 1 Buchstaben a–c vom 27. August 2014 bis 14. März 2022 begeben wurden, ist verboten.
 
-<sup>2</sup> Der Handel mit Finanzinstrumenten, die in der Schweiz oder der Europäischen Union begeben wurden, muss dem SECO nicht gemeldet werden.
+<sup>2</sup> Der Handel mit Finanzinstrumenten, die von Organisationen nach Artikel 5 Absatz 1<sup>bis</sup> Buchstaben a und b nach dem 14. März 2022 begeben wurden, ist verboten.
 
-<sup>3</sup> Die Meldungen haben monatlich jeweils auf das Monatsende zu erfolgen.
-
-<sup>4</sup> Die Meldungen nach Absatz 1 müssen detaillierte Angaben zu den begebenen oder gehandelten Finanzinstrumenten, den Zweck, den Umfang und den Wert der Transaktionen sowie gegebenenfalls die Mitglieder des Syndikats enthalten.[^6-2]
-
-[^6-1]: Fassung gemäss Ziff. I der V vom 12. Nov. 2014, in Kraft seit 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 6. März 2015, in Kraft seit 6. März 2015 ([AS 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
 
 #### Art. 7
 
-**Verbot von Finanzierungen, Beteiligungen und Dienstleistungen auf der Krim und in Sewastopol**[^7-1]
+**Verbot von Finanzierungen, Beteiligungen und Dienstleistungen in den bezeichneten Gebieten[^7-2]**[^7-1]
 
-<sup>1</sup> Die Gewährung von Darlehen und Krediten an Unternehmen und Organisationen auf der Krim und in Sewastopol sowie die Beteiligung an der Vergabe solcher Darlehen und Kredite ist verboten.
+<sup>1</sup> Die Gewährung von Darlehen und Krediten an Unternehmen und Organisationen in den bezeichneten Gebieten sowie die Beteiligung an der Vergabe solcher Darlehen und Kredite ist verboten.[^7-3]
 
-<sup>2</sup> Der Erwerb und die Ausweitung von Beteiligungen an Unternehmen und Immobilien auf der Krim und in Sewastopol sowie die Gründung von Jointventures zusammen mit Unternehmen oder Organisationen auf der Krim und in Sewastopol ist verboten.
+<sup>2</sup> Der Erwerb und die Ausweitung von Beteiligungen an Unternehmen und Immobilien in den bezeichneten Gebieten sowie die Gründung von Jointventures zusammen mit Unternehmen oder Organisationen in den bezeichneten Gebieten ist verboten.[^7-4]
 
 <sup>3</sup> Die Erbringung von Wertpapierdienstleistungen, die direkt mit den Tätigkeiten nach den Absätzen 1 und 2 zusammenhängen, ist verboten.
 
-<sup>4</sup> Die Erbringung von Dienstleistungen im Zusammenhang mit tourismusbezogenen Aktivitäten auf der Krim und in Sewastopol ist verboten.
+<sup>4</sup> Die Erbringung von Dienstleistungen im Zusammenhang mit tourismusbezogenen Aktivitäten in den bezeichneten Gebieten ist verboten.[^7-5]
 
-<sup>5</sup> Ausgenommen von den Verboten nach den Absätzen 1 und 2 sind Handlungen, die für die amtliche Tätigkeit konsularischer Vertretungen oder internationaler Organisationen sowie für Spitäler oder Bildungseinrichtungen mit Sitz auf der Krim und in Sewastopol erforderlich sind oder welche die Sicherheit der bestehenden Infrastruktur gewährleisten.
+<sup>5</sup> Ausgenommen von den Verboten nach den Absätzen 1–3 sind Handlungen, die für die amtliche Tätigkeit konsularischer Vertretungen oder internationaler Organisationen sowie für Spitäler oder Bildungseinrichtungen mit Sitz in den bezeichneten Gebieten erforderlich sind oder welche die Sicherheit der bestehenden Infrastruktur gewährleisten.[^7-6]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 6. März 2015, in Kraft seit 6. März 2015 ([AS 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^7-3]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^7-4]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^7-5]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^7-6]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
 
 #### Art. 8
 
-**Verbot der Eröffnung neuer Geschäftsbeziehungen**
+**Sperrung von Geldern und wirtschaftlichen Ressourcen**[^8-1]
 
-Finanzintermediären ist es verboten, neue Geschäftsbeziehungen zu eröffnen:
+<sup>1</sup> Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter der Kontrolle der natürlichen Personen, Unternehmen und Organisationen nach Anhang 3 befinden, sind gesperrt.
 
-- a. für natürliche Personen, Unternehmen und Organisationen nach Anhang 3;
-- b. für natürliche Personen, Unternehmen und Organisationen, die im Namen oder auf Anweisung der natürlichen Personen, Unternehmen und Organisationen nach Buchstabe a handeln;
-- c. für Unternehmen und Organisationen, die sich im Eigentum oder unter Kontrolle der natürlichen Personen, Unternehmen und Organisationen nach Buchstabe a oder b befinden.
+<sup>2</sup> Es ist verboten, natürlichen Personen, Unternehmen und Organisationen nach Absatz 1 Gelder zu überweisen oder Gelder und wirtschaftliche Ressourcen sonstwie direkt oder indirekt zur Verfügung zu stellen.
+
+<sup>3</sup>
+
+In Ausnahmefällen kann das SECO Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen bewilligen zur:
+
+- a. Vermeidung von Härtefällen;
+- b. Erfüllung bestehender Verträge;
+- c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
+- d. Erfüllung amtlicher Zwecke von russischen diplomatischen oder konsularischen Vertretungen; oder
+- e. Wahrung schweizerischer Interessen.
+
+<sup>4</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 3 unter den SSID-Nummern 175-48057, 175-48067 und 175-48076 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um mit diesen Organisationen vor dem 23. Februar 2022 abgeschlossene Geschäfte, Verträge oder sonstige Vereinbarungen einschliesslich der entsprechenden Bankbeziehungen spätestens am 24. August 2022 zu beenden.
+
+<sup>5</sup> Das SECO bewilligt Ausnahmen nach den Absätzen 3 und 4 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
 
 #### Art. 9
 
-**Meldepflichten für bestehende Geschäftsbeziehungen**
+**Meldepflichten**[^9-1]
 
-<sup>1</sup> Finanzintermediäre, die Geschäftsbeziehungen mit natürlichen Personen, Unternehmen oder Organisationen nach Artikel 8 Buchstaben a–c unterhalten, müssen diese dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 8 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der Geschäftsbeziehungen enthalten.
+<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Angaben zur Art und zum Wert der betreffenden Gelder und wirtschaftlichen Ressourcen enthalten.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
 
 ## 3. Abschnitt: Vollzug und Strafbestimmungen
 
@@ -213,13 +280,14 @@ Finanzintermediären ist es verboten, neue Geschäftsbeziehungen zu eröffnen:
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer gegen Artikel 1, 1*a*, 3–5*a*, 7 oder 8 verstösst, wird nach Artikel 9 EmbG bestraft.[^11-1]
+<sup>1</sup> Wer gegen Artikel 1, 1*a*, 3, 4 oder 5–8 verstösst, wird nach Artikel 9 EmbG bestraft.[^11-1]
 
-<sup>2</sup> Wer gegen die Artikel 2, 6 oder 9 verstösst, wird nach Artikel 10 EmbG bestraft.
+<sup>2</sup> Wer gegen Artikel 2 oder 9 verstösst, wird nach Artikel 10 EmbG bestraft.[^11-2]
 
 <sup>3</sup> Verstösse nach den Artikeln 9 und 10 EmbG werden vom SECO verfolgt und beurteilt; dieses kann Beschlagnahmungen oder Einziehungen anordnen.
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2015 ([AS 2015 2311](https://fedlex.data.admin.ch/eli/oc/2015/430)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
 
 ## 4. Abschnitt: Veröffentlichung und Schlussbestimmungen
 
@@ -273,6 +341,18 @@ Artikel 1 Absatz 1 sowie die Artikel 3, 4 und 7 sind nicht auf Geschäfte anwend
 
 [^14b-1]: Eingefügt durch Ziff. I der V vom 6. März 2015, in Kraft seit 6. März 2015 ([AS 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
 
+#### Art. 14c
+
+**Übergangsbestimmungen zur Änderung vom 28. Februar 2022**[^14c-1]
+
+<sup>1</sup> Die Artikel 3, 4 und 7 in der Fassung der Änderung vom 28. Februar 2022 sind, wenn sie in Verbindung mit den nicht von der ukrainischen Regierung kontrollierten Gebieten der ukrainischen Oblaste Donezk und Luhansk angewendet werden, nicht auf Geschäfte anwendbar, die vor dem 28. Februar 2022, 18.00 Uhr, vertraglich vereinbart wurden.
+
+<sup>2</sup> Artikel 5 Absatz 1 in der Fassung der Änderung vom 28. Februar 2022 und Absatz 1<sup>bis</sup> sind nicht auf Geschäfte anwendbar, die vor dem 28. Februar 2022, 18.00 Uhr, vertraglich vereinbart wurden.
+
+<sup>3</sup> Die Bewilligungspflicht nach Artikel 5*a* Absatz 1<sup>bis</sup> gilt nicht für Geschäfte, die vor dem 28. Februar 2022, 18.00 Uhr, vertraglich vereinbart wurden.
+
+[^14c-1]: Eingefügt durch Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143)).
+
 #### Art. 15
 
 **Inkrafttreten und Geltungsdauer[^15-1]**
@@ -284,13 +364,13 @@ Artikel 1 Absatz 1 sowie die Artikel 3, 4 und 7 sind nicht auf Geschäfte anwend
 [^15-1]: Fassung gemäss Ziff. I der V vom 26. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1953](https://fedlex.data.admin.ch/eli/oc/2019/358)).
 [^15-2]: Eingefügt durch Ziff. I der V vom 26. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1953](https://fedlex.data.admin.ch/eli/oc/2019/358)).
 
-Anhang 1*[^t-1]*
+Anhang 1*[^t-2]*
 
 (Art. 2 und 4)
 
 ## Meldepflichtige beziehungsweise verbotene Güter
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 6. März 2015, in Kraft seit 6. März 2015 ([AS 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 6. März 2015, in Kraft seit 6. März 2015 ([AS 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
 
 <table>
 <tr><th>Zolltarif-Nr.</th><th>Bezeichnung</th></tr>
@@ -459,7 +539,7 @@ Anhang 1*[^t-1]*
 <tr><td>9033 00 00</td><td>Teile und Zubehör, in diesem Kapitel anderweit weder genannt noch inbegriffen, für Maschinen, Apparate, Geräte, Instrumente oder andere Waren des Kapitels 90</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2*[^t-3]*
 
 (Art. 5)
 
@@ -467,10 +547,10 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 12. Nov. 2014, in Kraft seit 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 12. Nov. 2014, in Kraft seit 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
 [^annex2-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
 
-Anhang 3*[^t-3]*
+Anhang 3*[^t-4]*
 
 (Art. 8)
 
@@ -478,10 +558,10 @@ Anhang 3*[^t-3]*
 
 [^annex3-lvlu1-1]
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)), Ziff. I der V des WBF vom 15. Dez. 2014 ([AS 2014 4701](https://fedlex.data.admin.ch/eli/oc/2014/791)), Ziff. II Abs. 2 der V vom 6. März 2015 ([AS 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)), Ziff. I der V des WBF vom 1. April 2015 ([AS 2015 1015](https://fedlex.data.admin.ch/eli/oc/2015/194)), vom 5. Okt. 2015 ([AS 2015 3821](https://fedlex.data.admin.ch/eli/oc/2015/642)), vom 22. März 2016 ([AS 2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179)), vom 10. Okt. 2016 ([AS 2016 3435](https://fedlex.data.admin.ch/eli/oc/2016/578)), vom 17. Nov. 2016 ([AS 2016 3881](https://fedlex.data.admin.ch/eli/oc/2016/659)), vom 23. März 2017 ([AS 2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176)), vom 14. Aug. 2017 ([AS 2017 4037](https://fedlex.data.admin.ch/eli/oc/2017/476)), vom 25. Sept. 2017 ([AS 2017 5065](https://fedlex.data.admin.ch/eli/oc/2017/553)), vom 21. Dez. 2017 ([AS 2017 7657](https://fedlex.data.admin.ch/eli/oc/2017/835)), vom 20. März 2018 ([AS 2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176)), vom 22. Mai 2018 ([AS 2018 2139](https://fedlex.data.admin.ch/eli/oc/2018/303)), vom 25. Juni 2018 ([AS 2018 2535](https://fedlex.data.admin.ch/eli/oc/2018/369)), vom 15. Aug. 2018 ([AS 2018 3025](https://fedlex.data.admin.ch/eli/oc/2018/472)), vom 26. Sept. 2018 ([AS 2018 3259](https://fedlex.data.admin.ch/eli/oc/2018/525)), vom 20. Dez. 2018 ([AS 2018 5341](https://fedlex.data.admin.ch/eli/oc/2018/806)), vom 13. Febr. 2019 ([AS 2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106)), 29. März 2019 ([AS 2019 1085](https://fedlex.data.admin.ch/eli/oc/2019/207)), vom 27. Sept. 2019 ([AS 2019 3089](https://fedlex.data.admin.ch/eli/oc/2019/566)), vom 10. Febr. 2020 ([AS 2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79)), vom 1. April 2020 ([AS 2020 1153](https://fedlex.data.admin.ch/eli/oc/2020/212)), vom 25. Sept. 2020 ([AS 2020 3889](https://fedlex.data.admin.ch/eli/oc/2020/723)), vom 14. Okt. 2020 ([AS 2020 4157](https://fedlex.data.admin.ch/eli/oc/2020/761)), vom 24. März 2021 ([AS 2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175)), vom 21. Sept. 2021 ([AS 2021 568](https://fedlex.data.admin.ch/eli/oc/2021/568)), vom 22. Okt. 2021 ([AS 2021 626](https://fedlex.data.admin.ch/eli/oc/2021/626)), vom 13. Jan. 2022 ([AS 2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8)) und vom 25. Febr. 2022, in Kraft seit 25. Febr. 2022 um 18.00 Uhr ([AS 2022 138](https://fedlex.data.admin.ch/eli/oc/2022/138)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)), Ziff. I der V des WBF vom 15. Dez. 2014 ([AS 2014 4701](https://fedlex.data.admin.ch/eli/oc/2014/791)), Ziff. II Abs. 2 der V vom 6. März 2015 ([AS 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)), Ziff. I der V des WBF vom 1. April 2015 ([AS 2015 1015](https://fedlex.data.admin.ch/eli/oc/2015/194)), vom 5. Okt. 2015 ([AS 2015 3821](https://fedlex.data.admin.ch/eli/oc/2015/642)), vom 22. März 2016 ([AS 2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179)), vom 10. Okt. 2016 ([AS 2016 3435](https://fedlex.data.admin.ch/eli/oc/2016/578)), vom 17. Nov. 2016 ([AS 2016 3881](https://fedlex.data.admin.ch/eli/oc/2016/659)), vom 23. März 2017 ([AS 2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176)), vom 14. Aug. 2017 ([AS 2017 4037](https://fedlex.data.admin.ch/eli/oc/2017/476)), vom 25. Sept. 2017 ([AS 2017 5065](https://fedlex.data.admin.ch/eli/oc/2017/553)), vom 21. Dez. 2017 ([AS 2017 7657](https://fedlex.data.admin.ch/eli/oc/2017/835)), vom 20. März 2018 ([AS 2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176)), vom 22. Mai 2018 ([AS 2018 2139](https://fedlex.data.admin.ch/eli/oc/2018/303)), vom 25. Juni 2018 ([AS 2018 2535](https://fedlex.data.admin.ch/eli/oc/2018/369)), vom 15. Aug. 2018 ([AS 2018 3025](https://fedlex.data.admin.ch/eli/oc/2018/472)), vom 26. Sept. 2018 ([AS 2018 3259](https://fedlex.data.admin.ch/eli/oc/2018/525)), vom 20. Dez. 2018 ([AS 2018 5341](https://fedlex.data.admin.ch/eli/oc/2018/806)), vom 13. Febr. 2019 ([AS 2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106)), 29. März 2019 ([AS 2019 1085](https://fedlex.data.admin.ch/eli/oc/2019/207)), vom 27. Sept. 2019 ([AS 2019 3089](https://fedlex.data.admin.ch/eli/oc/2019/566)), vom 10. Febr. 2020 ([AS 2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79)), vom 1. April 2020 ([AS 2020 1153](https://fedlex.data.admin.ch/eli/oc/2020/212)), vom 25. Sept. 2020 ([AS 2020 3889](https://fedlex.data.admin.ch/eli/oc/2020/723)), vom 14. Okt. 2020 ([AS 2020 4157](https://fedlex.data.admin.ch/eli/oc/2020/761)), vom 24. März 2021 ([AS 2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175)), vom 21. Sept. 2021 ([AS 2021 568](https://fedlex.data.admin.ch/eli/oc/2021/568)), vom 22. Okt. 2021 ([AS 2021 626](https://fedlex.data.admin.ch/eli/oc/2021/626)), vom 13. Jan. 2022 ([AS 2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8)), vom 25. Febr. 2022 ([AS 2022 138](https://fedlex.data.admin.ch/eli/oc/2022/138)) und Ziff. I der V vom 28. Febr. 2022, in Kraft seit 28. Febr. 2022 um 18.00 Uhr ([AS 2022 144](https://fedlex.data.admin.ch/eli/oc/2022/144)).
 [^annex3-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 4*[^t-4]*
+Anhang 4*[^t-5]*
 
 (Art. 1)
 
@@ -489,5 +569,5 @@ Anhang 4*[^t-4]*
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 3 der V vom 12. Nov. 2014, in Kraft seit 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
+[^t-5]: Eingefügt durch Ziff. II Abs. 3 der V vom 12. Nov. 2014, in Kraft seit 12. Nov. 2014 ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
 [^annex4-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Expertkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.

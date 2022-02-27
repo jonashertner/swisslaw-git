@@ -3,18 +3,20 @@ sr: "946.231.176.72"
 title: Ordonnance du 27 août 2014 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/486"
 language: fr
-version: 2022-02-25
+version: 2022-02-28
 adopted: 2014-08-27
 in_force: 2014-08-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/486/20220225/fr/xml/fedlex-data-admin-ch-eli-cc-2014-486-20220225-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/486/20220225/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/486/20220228/fr/xml/fedlex-data-admin-ch-eli-cc-2014-486-20220228-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/486/20220228/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance instituant des mesures visant à empêcher le contournement de sanctions internationales en lien avec la situation en Ukraine
+# Ordonnance instituant des mesures en lien avec la situation en Ukraine****
 
-du 27 août 2014 (Etat le 25 février 2022)
+du 27 août 2014 (Etat le 28 février 2022)[^t-1]
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
 
 Le Conseil fédéral suisse,
 
@@ -88,116 +90,181 @@ Les services suivants doivent être déclarés sans délai au SECO s’ils sont 
 
 #### Art. 3
 
-**Importation de biens en provenance de Crimée et de Sébastopol**
+**Importation de biens en provenance des territoires désignés**[^3-1]
 
-<sup>1</sup> L’importation de biens originaires de Crimée ou de Sébastopol est autorisée uniquement s’ils sont assortis d’un certificat d’origine établi par les autorités ukrainiennes.
+<sup>1</sup> L’importation de biens originaires des territoires désignés est autorisée uniquement s’ils sont assortis d’un certificat d’origine établi par les autorités ukrainiennes.
 
-<sup>2</sup> Il est interdit de fournir des services financiers et de conclure des conventions d’assurance ou de réassurance en lien avec l’importation de biens originaires de Crimée ou de Sébastopol en l’absence d’un certificat d’origine établi par les autorités ukrainiennes.
+<sup>2</sup> Il est interdit de fournir des services financiers et de conclure des conventions d’assurance ou de réassurance en lien avec l’importation de biens originaires des territoires désignés en l’absence d’un certificat d’origine établi par les autorités ukrainiennes.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
 
 #### Art. 4
 
-**Exportation de biens à destination de la Crimée ou de Sébastopol**[^4-1]
+**Exportation de biens à destination des territoires désignés[^4-2]**[^4-1]
 
-<sup>1</sup> La vente, la fourniture, l’exportation et le transit des biens visés à l’annexe 1 sont interdits si ces biens sont destinés à des personnes, à des entreprises ou à des entités en Crimée ou à Sébastopol.
+<sup>1</sup> La vente, la fourniture, l’exportation et le transit des biens visés à l’annexe 1 sont interdits si ces biens sont destinés à des personnes, à des entreprises ou à des entités dans les territoires désignés.[^4-3]
 
-<sup>2</sup> Il est interdit de fournir une assistance technique, des services d’intermédiation et des services de construction et d’ingénierie ainsi qu’un financement ou une aide financière en lien avec les biens visés à l’annexe 1 à des personnes, à des entreprises ou à des entités en Crimée ou à Sébastopol.
+<sup>2</sup> Il est interdit de fournir une assistance technique, des services d’intermédiation et des services de construction et d’ingénierie ainsi qu’un financement ou une aide financière en lien avec les biens visés à l’annexe 1 à des personnes, à des entreprises ou à des entités dans les territoires désignés.[^4-4]
 
-<sup>3</sup> Les activités menées pour les besoins officiels de missions consulaires ou d’organisations internationales ainsi que pour le soutien d’hôpitaux ou d’établissements scolaires ayant leur siège en Crimée ou à Sébastopol ne sont pas soumises aux interdictions prévues aux al. 1 et 2.
+<sup>3</sup> Les activités menées pour les besoins officiels de missions consulaires ou d’organisations internationales ainsi que pour le soutien d’hôpitaux ou d’établissements scolaires ayant leur siège dans les territoires désignés ne sont pas soumises aux interdictions prévues aux al. 1 et 2.[^4-5]
 
 <sup>4</sup> Le SECO peut, après avoir consulté le Département fédéral des affaires étrangères (DFAE), accorder des dérogations aux interdictions prévues aux al. 1 et 2 dans la mesure où cela est nécessaire pour prévenir ou atténuer un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines, la sécurité des infrastructures existantes comprise, ou sur l’environnement.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2015, en vigueur depuis le 6 mars 2015 ([RO 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^4-5]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
 
 ## Section 2 Restrictions financières
 
+#### Art. 4a
+
+**Définitions**[^4a-1]
+
+Au sens de la présente ordonnance, on entend par:
+
+- a. *avoirs:* les actifs financiers, y compris le numéraire, les chèques, les créances monétaires, les lettres de change, les mandats ou autres moyens de paiement, les dépôts, les dettes et reconnaissances de dette, les titres et titres de dette, les certificats de titres, les obligations, les titres de créances, les options, les lettres de gage, les dérivés; les recettes d’intérêts, les dividendes ou autres revenus ou plus-values engendrés par des biens en capital; les crédits, les droits à des compensations, les cautions, les garanties d’exécution de contrats ou autres engagements financiers; les accréditifs, les connaissements, les transferts de propriété à fin de garantie, les documents de titrisation de parts à des fonds ou à d’autres ressources financières et tout autre instrument de financement des exportations;
+- b. *gel des avoirs:* le fait d’empêcher toute action permettant la gestion ou l’utilisation des avoirs, à l’exception des actions administratives normales effectuées par des instituts financiers;
+- c. *ressources économiques:* les valeurs de quelque nature que ce soit, corporelles ou incorporelles, mobilières ou immobilières, en particulier les immeubles et les biens de luxe, à l’exception des avoirs au sens de la let. a;
+- d. *gel des ressources économiques:* toute action visant à empêcher l’utilisation de ressources économiques afin d’obtenir des avoirs, des biens ou des services, y compris par leur vente, leur location ou leur hypothèque;
+- e. *territoires désignés*: la Crimée, Sébastopol et les zones des oblasts ukrainiens de Donetsk et Louhansk non contrôlées par le gouvernement ukrainien.
+
+[^4a-1]: Introduit par le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+
 #### Art. 5
 
-**Obligation d’obtenir une autorisation pour l’émission d’instruments financiers**
+**Interdiction d’émission d’instruments financiers[^5-1]**
 
 <sup>1</sup>
 
-L’émission d’instruments financiers dont l’échéance est supérieure à 30 jours est soumise à autorisation lorsque l’émetteur est:
+L’aide à l’émission ou l’émission d’instruments financiers dont l’échéance est supérieure à 30 jours est interdite lorsque l’émetteur est: [^5-2]
 
 - a. une banque ou une autre entreprise sise en Russie visée à l’annexe 2;
 - b. une banque, une entreprise ou une entité sise en dehors de la Suisse et contrôlée à plus de 50 % par des banques ou des entreprises visées à l’annexe 2;
-- c. une entreprise ou une entité agissant pour le compte ou selon les instructions d’une banque, d’une entreprise ou d’une entité visée aux let. a ou b.[^5-1]
+- c. une entreprise ou une entité agissant pour le compte ou selon les instructions d’une banque, d’une entreprise ou d’une entité visée aux let. a ou b.[^5-3]
 
-<sup>1bis</sup> ...[^5-2]
+<sup>1bis</sup>
 
-<sup>2</sup> L’autorisation est accordée lorsque la levée de fonds prévue ne causera pas de dépassement de la valeur nominale moyenne des instruments financiers détenus par le requérant au cours des trois années précédentes. Des dépassements temporaires liés à des refinancements sont permis.[^5-3]
+L’aide à l’émission ou l’émission d’instruments financiers est interdite lorsque l’émetteur est:
+
+- a. la Fédération de Russie et son gouvernement, ou la Banque centrale de Russie;
+- b. une personne morale, une entité ou un organisme agissant pour le compte ou selon les instructions d’une entité visée à la let. a. [^5-4]
+
+<sup>2</sup> L’autorisation est accordée lorsque la levée de fonds prévue ne causera pas de dépassement de la valeur nominale moyenne des instruments financiers détenus par le requérant au cours des trois années précédentes. Des dépassements temporaires liés à des refinancements sont permis.[^5-5]
 
 <sup>3</sup> Le SECO octroie l’autorisation après avoir consulté les offices compétents du Département fédéral des affaires étrangères (DFAE) et du Département fédéral des finances (DFF).
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2014, en vigueur depuis le 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
-[^5-2]: Introduit par le ch. I de l’O du 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)). Abrogé par le ch. I de l’O du 6 mars 2015, avec effet au 6 mars 2015 ([RO 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
 [^5-3]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2014, en vigueur depuis le 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
+[^5-4]: Introduit par le ch. I de l’O du 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)). Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2014, en vigueur depuis le 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
 
 #### Art. 5a
 
-**Obligation d’obtenir une autorisation pour l’octroi de prêts**[^5a-1]
+**Interdiction d’octroi de prêts [^5a-2]**[^5a-1]
 
 <sup>1</sup>
 
-L’octroi de prêts dont l’échéance est supérieure à 30 jours est soumis à autorisation lorsque le bénéficiaire est visé à l’art. 5, al. 1, let. a à c; fait exception l’octroi de prêts servant:
+L’octroi direct ou indirect de prêts dont l’échéance est supérieure à 30 jours est interdit lorsque le bénéficiaire est visé à l’art. 5, al. 1, let. a à c; fait exception l’octroi de prêts servant:[^5a-3]
 
 - a. à financer le commerce entre la Suisse ou l’Union européenne et des États tiers auquel l’ordonnance ne s’applique pas;
 - b. à financer les livraisons de biens et les services nécessaires à l’exécution d’un contrat commercial dans le cadre évoqué à la let. a en provenance d’États membres de l’Union européenne ou d’autres États tiers;
 - c. à garantir la liquidité prescrite par la loi en faveur de personnes morales ayant leur siège en Suisse ou dans l’Union européenne qui sont contrôlées à plus de 50 % par des banques ou des entreprises visées à l’annexe 2.
 
-<sup>2</sup> L’autorisation d’octroyer un prêt est accordée lorsque le montant prévu n’excède pas la valeur moyenne des prêts versés par le bailleur de fonds au cours des trois années précédentes.
+<sup>1bis</sup>
+
+L’octroi direct ou indirect de prêts est interdit lorsque le bénéficiaire est visé à l’art. 5, al. 1<sup>bis</sup>, let. a ou b; fait exception l’octroi de prêts servant:
+
+- a. à financer le commerce entre la Suisse ou l’Union européenne et des États tiers auquel l’ordonnance ne s’applique pas;
+- b. à financer les livraisons de biens et les services nécessaires à l’exécution d’un contrat commercial dans le cadre évoqué à la let. a en provenance d’États membres de l’Union européenne ou d’autres États tiers.[^5a-4]
+
+<sup>2</sup>
+
+L’interdiction visée aux al. 1 et 1<sup>bis</sup> ne concerne pas les tirages ou décaissements effectués en vertu d’un contrat conclu avant le 28 février 2022, si les conditions suivantes sont remplies:
+
+- a.
+
+  les conditions de ces tirages ou décaissements, qui incluent des dispositions concernant la durée du remboursement pour chaque tirage ou décaissement, le taux d’intérêt appliqué ou le mode de calcul de ce taux, ainsi que le montant maximum:
+
+  - 1\. ont toutes été convenues avant le 28 février 2022, et
+  - 2\. n’ont plus été modifiées à cette date ou postérieurement à celle-ci, et que
+
+- b. avant le 28 février 2022, une date d’échéance contractuelle a été fixée pour le remboursement intégral de tous les fonds mis à disposition et pour l’annulation de l’ensemble des engagements, droits et obligations découlant du contrat.[^5a-5]
 
 <sup>3</sup> Le SECO accorde l’autorisation après avoir consulté les services compétents du DFAE et du Département fédéral des finances.
 
 [^5a-1]: Introduit par le ch. I de l’O du 6 mars 2015, en vigueur depuis le 6 mars 2015 ([RO 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^5a-2]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^5a-3]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^5a-4]: Introduit par le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^5a-5]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
 
 #### Art. 6
 
-**Déclaration obligatoire**[^6-1]
+**Interdiction de négoce d’instruments financiers**[^6-1]
 
-<sup>1</sup> Le négoce d’instruments financiers dont l’échéance est supérieure à 90 jours doit être déclaré au SECO lorsque ces instruments financiers ont été émis du 27 août 2014 au 12 novembre 2014 par une banque, une entreprise ou une entité visée à l’art. 5, al. 1, let. a à c; le négoce d’instruments financiers dont l’échéance est supérieure à 30 jours doit être déclaré au SECO lorsque ces instruments financiers ont été émis après le 12 novembre 2014 par une banque, une entreprise ou une entité visée à l’art. 5, al. 1, let. a à c.
+<sup>1</sup> Le négoce d’instruments financiers dont l’échéance est supérieure à 90 jours est interdit lorsque ces instruments financiers ont été émis du 27 août 2014 au 14 mars 2022 par une banque, une entreprise ou une entité visée à l’art. 5, al. 1, let. a à c.
 
-<sup>2</sup> Le négoce d’instruments financiers émis en Suisse ou dans l’Union européenne n’est pas soumis à déclaration au SECO.
+<sup>2</sup> Le négoce d’instruments financiers est interdit lorsque ces instruments financiers ont été émis après le 14 mars 2022 par une entité visée à l’art. 5, al. 1<sup>bis</sup>, let. a ou b.
 
-<sup>3</sup> Les déclarations sont effectuées à la fin de chaque mois.
-
-<sup>4</sup> Les déclarations visées à l’al. 1 doivent contenir des indications détaillées sur les instruments financiers émis ou négociés, l’objet, le volume et la valeur des transactions ainsi que, le cas échéant, sur les membres du consortium.[^6-2]
-
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 12 nov. 2014, en vigueur depuis le 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2015, en vigueur depuis le 6 mars 2015 ([RO 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
 
 #### Art. 7
 
-**Interdiction de financements, de participations et de services en Crimée et à Sébastopol**[^7-1]
+**Interdiction de financements, de participations et de services dans les territoires désignés [^7-2]**[^7-1]
 
-<sup>1</sup> Il est interdit d’accorder des prêts ou des crédits à des entreprises ou à des entités en Crimée ou à Sébastopol, ou de participer à de telles opérations.
+<sup>1</sup> Il est interdit d’accorder des prêts ou des crédits à des entreprises ou à des entités dans les territoires désignés ou de participer à de telles opérations.[^7-3]
 
-<sup>2</sup> Il est interdit d’acquérir ou d’augmenter des participations dans des entreprises ou des biens immobiliers en Crimée et à Sébastopol et de créer des entreprises conjointes avec des entreprises ou des entités en Crimée ou à Sébastopol.
+<sup>2</sup> Il est interdit d’acquérir ou d’augmenter des participations dans des entreprises ou des biens immobiliers dans les territoires désignés et de créer des entreprises conjointes avec des entreprises ou des entités dans les territoires désignés.[^7-4]
 
 <sup>3</sup> Il est interdit de fournir des services d’investissement directement liés aux activités visées aux al. 1 et 2.
 
-<sup>4</sup> Il est interdit de fournir des services liés aux activités touristiques en Crimée ou à Sébastopol.
+<sup>4</sup> Il est interdit de fournir des services liés aux activités touristiques dans les territoires désignés.[^7-5]
 
-<sup>5</sup> Les activités menées pour les besoins officiels de missions consulaires ou d’organisations internationales ainsi que pour le soutien d’hôpitaux ou d’établissements scolaires ayant leur siège en Crimée ou à Sébastopol, ou qui garantissent la sécurité des infrastructures existantes ne sont pas soumises aux interdictions prévues aux al. 1 et 2.
+<sup>5</sup> Les activités menées pour les besoins officiels de missions consulaires ou d’organisations internationales ainsi que pour le soutien d’hôpitaux ou d’établissements scolaires ayant leur siège dans les territoires désignés, ou qui garantissent la sécurité des infrastructures existantes ne sont pas soumises aux interdictions prévues aux al. 1 à 3. [^7-6]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2015, en vigueur depuis le 6 mars 2015 ([RO 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^7-5]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^7-6]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
 
 #### Art. 8
 
-**Interdiction d’établir de nouvelles relations d’affaires**
+**Gel des avoirs et des ressources économiques**[^8-1]
 
-Il est interdit aux intermédiaires financiers d’établir de nouvelles relations d’affaires:
+<sup>1</sup> Les avoirs et les ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités citées à l’annexe 3 sont gelés.
 
-- a. avec les personnes physiques, les entreprises et les organisations mentionées dans l’annexe 3;
-- b. avec les personnes physiques, les entreprises et les organisations oeuvrant au nom ou pour le compte des personnes physiques, des entreprises et des organisations visées à la let. a;
-- c. avec les entreprises et organisations détenues ou contrôlées par des personnes physiques, des entreprises et des organisations visées à la let. a ou b.
+<sup>2</sup> Il est interdit de fournir des avoirs aux personnes physiques, entreprises et entités visées à l’al. 1 ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques.
+
+<sup>3</sup>
+
+Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
+
+- a. d’éviter des cas de rigueur;
+- b. d’honorer des contrats existants;
+- c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
+- d. de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires russes, ou
+- e. de sauvegarder des intérêts suisses.
+
+<sup>4</sup> Le SECO peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités citées à l’annexe 3 sous les numéros SSID 175-48057, SSID 175-48067 et SSID 175-48076, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 24 août 2022 aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 23 février 2022.
+
+<sup>5</sup> Le SECO autorise les dérogations prévues aux al. 3 et 4 après avoir consulté les services compétents du DFAE et du DFF.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
 
 #### Art. 9
 
-**Déclaration obligatoire des relations d’affaires existantes**
+**Déclaration obligatoire**[^9-1]
 
-<sup>1</sup> Les intermédiaires financiers qui entretiennent des relations d’affaires avec des personnes physiques, des entreprises ou des entités visées à l’art. 8, let. a à c, sont tenus de les déclarer sans délai au SECO.
+<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 8, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur de la relation d’affaires.
+<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire ainsi que la nature et la valeur des avoirs et des ressources économiques concernés.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
 
 ## Section 3 Exécution et dispositions pénales
 
@@ -213,13 +280,14 @@ Il est interdit aux intermédiaires financiers d’établir de nouvelles relatio
 
 **Dispositions pénales**
 
-<sup>1</sup> Quiconque enfreint les dispositions des art. 1, 1*a*, 3 à 5*a*, 7 ou 8 est puni conformément à l’art. 9 LEmb.[^11-1]
+<sup>1</sup> Quiconque enfreint les dispositions des art. 1, 1*a*, 3, 4 et 5 à 8 est puni conformément à l’art. 9 LEmb.[^11-1]
 
-<sup>2</sup> Quiconque enfreint les dispositions des art. 2, 6 ou 9 est puni conformément à l’art. 10 LEmb.
+<sup>2</sup> Quiconque enfreint les dispositions de l’art. 2 ou 9 est puni conformément à l’art. 10 LEmb.[^11-2]
 
 <sup>3</sup> Le SECO poursuit et juge les infractions au sens des art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
 
-[^11-1]: Nouvelle teneur le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 2311](https://fedlex.data.admin.ch/eli/oc/2015/430)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
 
 ## Section 4 Publication et dispositions finales
 
@@ -273,6 +341,18 @@ Les art. 1, al. 1, de même que les art. 3, 4 et 7 ne s’appliquent pas aux op�
 
 [^14b-1]: Introduit par le ch. I de l’O du 6 mars 2015, en vigueur depuis le 6 mars 2015 ([RO 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
 
+#### Art. 14c
+
+**Dispositions transitoires de la modification du 28 février 2022**[^14c-1]
+
+<sup>1</sup> Les art. 3, 4 et 7, dans la version modifiée du 28 février 2022, lorsqu’ils sont appliqués en lien avec les zones des oblasts ukrainiens de Donetsk et Louhansk non contrôlées par le gouvernement ukrainien, ne s’appliquent pas aux opérations régies par un contrat antérieur au 28 février 2022, 18 heures.
+
+<sup>2</sup> L’art. 5, al. 1, dans la version modifiée du 28 février 2022, et 1<sup>bis</sup> ne s’applique pas aux opérations régies par un contrat antérieur au 28 février 2022, 18 heures.
+
+<sup>3</sup> L’obligation d’obtenir une autorisation prévue à l’art. 5*a,* al. 1<sup>bis</sup>, ne s’applique pas aux opérations régies par un contrat antérieur au 28 février 2022, 18 heures.
+
+[^14c-1]: Introduit par le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 143](https://fedlex.data.admin.ch/eli/oc/2022/143))<sup>.</sup>
+
 #### Art. 15
 
 **Entrée en vigueur et durée de validité[^15-1]**
@@ -284,13 +364,13 @@ Les art. 1, al. 1, de même que les art. 3, 4 et 7 ne s’appliquent pas aux op�
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1953](https://fedlex.data.admin.ch/eli/oc/2019/358)).
 [^15-2]: Introduit par le ch. I de l’O du 26 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1953](https://fedlex.data.admin.ch/eli/oc/2019/358)).
 
-Annexe 1*[^t-1]*
+Annexe 1*[^t-2]*
 
 (art. 2 et 4)
 
 ## Biens soumis à déclaration ou biens interdits
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 6 mars 2015, en vigueur depuis le 6 mars 2015 ([RO 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 6 mars 2015, en vigueur depuis le 6 mars 2015 ([RO 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)).
 
 <table>
 <tr><th>N<sup>o</sup> du tarif</th><th>Désignation</th></tr>
@@ -459,7 +539,7 @@ Annexe 1*[^t-1]*
 <tr><td>9033 00 00</td><td colspan="2">Parties et accessoires non dénommés ni compris ailleurs dans le présent chapitre, pour machines, appareils, instruments ou articles du chapitre 90</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2*[^t-3]*
 
 (art. 5)
 
@@ -467,10 +547,10 @@ Annexe 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. II al. 1 de l’O du 12 nov. 2014, en vigueur depuis le 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 12 nov. 2014, en vigueur depuis le 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
 [^annex2-lvlu1-1]: Non publiée au RO<sup>.</sup> Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos.
 
-Annexe 3*[^t-3]*
+Annexe 3*[^t-4]*
 
 (art. 8)
 
@@ -478,10 +558,10 @@ Annexe 3*[^t-3]*
 
 [^annex3-lvlu1-1]
 
-[^t-3]: Mise à jour par le ch. II al. 2 de l’O du 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)), le ch. I de l’O du DEFR du 15 déc. 2014 ([RO 2014 4701](https://fedlex.data.admin.ch/eli/oc/2014/791)), le ch. II al. 2 de l’O du 6 mars 2015 ([RO 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)), le ch. I des O du DEFR du 1<sup>er</sup> avr. 2015 ([RO 2015 1015](https://fedlex.data.admin.ch/eli/oc/2015/194)), du 5 oct. 2015 ([RO 2015 3821](https://fedlex.data.admin.ch/eli/oc/2015/642)), du 22 mars 2016 ([RO 2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179)), du 10 oct. 2016 ([RO 2016 3435](https://fedlex.data.admin.ch/eli/oc/2016/578)), du 17 nov. 2016 ([RO 2016 3881](https://fedlex.data.admin.ch/eli/oc/2016/659)); du 23 mars 2017 ([RO 2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176)), du 14 août 2017 ([RO 2017 4037](https://fedlex.data.admin.ch/eli/oc/2017/476)), du 25 sept. 2017 ([RO 2017 5065](https://fedlex.data.admin.ch/eli/oc/2017/553)), du 21 nov. 2017 ([RO 2017 7657](https://fedlex.data.admin.ch/eli/oc/2017/835)); du 20 mars 2018 ([RO 2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176)), du 22 mai 2018 ([RO 2018 2139](https://fedlex.data.admin.ch/eli/oc/2018/303)), du 25 juin 2018 ([RO 2018 2535](https://fedlex.data.admin.ch/eli/oc/2018/369)), du 15 août 2018 ([RO 2018 3025](https://fedlex.data.admin.ch/eli/oc/2018/472)), du 26 sept. 2018 ([RO 2018 3259](https://fedlex.data.admin.ch/eli/oc/2018/525)), du 20 déc. 2018 ([RO 2018 5341](https://fedlex.data.admin.ch/eli/oc/2018/806)), du 13 fév. 2019 ([RO 2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106)), du 29 mars 2019 ([RO 2019 1085](https://fedlex.data.admin.ch/eli/oc/2019/207)), du 27 sept. 2019 ([RO 2019 3089](https://fedlex.data.admin.ch/eli/oc/2019/566)), du 10 fév. 2020 ([RO 2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79)), du 1<sup>er</sup> avr. 2020 ([RO 2020 1153](https://fedlex.data.admin.ch/eli/oc/2020/212)), du 25 sept. 2020 ([RO 2020 3889](https://fedlex.data.admin.ch/eli/oc/2020/723)), du 14 oct. 2020 ([RO 2020 4157](https://fedlex.data.admin.ch/eli/oc/2020/761)), du 24 mars 2021 ([RO 2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175)), du 21 sept. 2021 ([RO 2021 568](https://fedlex.data.admin.ch/eli/oc/2021/568)), du 22 oct. 2021 ([RO 2021 626](https://fedlex.data.admin.ch/eli/oc/2021/626)), du 13 janv. 2022 ([RO 2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8)) et du 25 fév. 2022, en vigueur depuis le 25 fév. 2022 à 18 heures ([RO 2022 138](https://fedlex.data.admin.ch/eli/oc/2022/138))<sup>.</sup>
+[^t-4]: Mise à jour par le ch. II al. 2 de l’O du 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)), le ch. I de l’O du DEFR du 15 déc. 2014 ([RO 2014 4701](https://fedlex.data.admin.ch/eli/oc/2014/791)), le ch. II al. 2 de l’O du 6 mars 2015 ([RO 2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)), le ch. I des O du DEFR du 1<sup>er</sup> avr. 2015 ([RO 2015 1015](https://fedlex.data.admin.ch/eli/oc/2015/194)), du 5 oct. 2015 ([RO 2015 3821](https://fedlex.data.admin.ch/eli/oc/2015/642)), du 22 mars 2016 ([RO 2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179)), du 10 oct. 2016 ([RO 2016 3435](https://fedlex.data.admin.ch/eli/oc/2016/578)), du 17 nov. 2016 ([RO 2016 3881](https://fedlex.data.admin.ch/eli/oc/2016/659)); du 23 mars 2017 ([RO 2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176)), du 14 août 2017 ([RO 2017 4037](https://fedlex.data.admin.ch/eli/oc/2017/476)), du 25 sept. 2017 ([RO 2017 5065](https://fedlex.data.admin.ch/eli/oc/2017/553)), du 21 nov. 2017 ([RO 2017 7657](https://fedlex.data.admin.ch/eli/oc/2017/835)); du 20 mars 2018 ([RO 2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176)), du 22 mai 2018 ([RO 2018 2139](https://fedlex.data.admin.ch/eli/oc/2018/303)), du 25 juin 2018 ([RO 2018 2535](https://fedlex.data.admin.ch/eli/oc/2018/369)), du 15 août 2018 ([RO 2018 3025](https://fedlex.data.admin.ch/eli/oc/2018/472)), du 26 sept. 2018 ([RO 2018 3259](https://fedlex.data.admin.ch/eli/oc/2018/525)), du 20 déc. 2018 ([RO 2018 5341](https://fedlex.data.admin.ch/eli/oc/2018/806)), du 13 fév. 2019 ([RO 2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106)), du 29 mars 2019 ([RO 2019 1085](https://fedlex.data.admin.ch/eli/oc/2019/207)), du 27 sept. 2019 ([RO 2019 3089](https://fedlex.data.admin.ch/eli/oc/2019/566)), du 10 fév. 2020 ([RO 2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79)), du 1<sup>er</sup> avr. 2020 ([RO 2020 1153](https://fedlex.data.admin.ch/eli/oc/2020/212)), du 25 sept. 2020 ([RO 2020 3889](https://fedlex.data.admin.ch/eli/oc/2020/723)), du 14 oct. 2020 ([RO 2020 4157](https://fedlex.data.admin.ch/eli/oc/2020/761)), du 24 mars 2021 ([RO 2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175)), du 21 sept. 2021 ([RO 2021 568](https://fedlex.data.admin.ch/eli/oc/2021/568)), du 22 oct. 2021 ([RO 2021 626](https://fedlex.data.admin.ch/eli/oc/2021/626)), du 13 janv. 2022 ([RO 2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8)), du 25 fév. 2022 ([RO 2022 138](https://fedlex.data.admin.ch/eli/oc/2022/138)) et par le ch. I de l’O du 28 fév. 2022, en vigueur depuis le 28 fév. 2022 à 18 heures ([RO 2022 144](https://fedlex.data.admin.ch/eli/oc/2022/144))<sup>.</sup>
 [^annex3-lvlu1-1]: Non publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
-Annexe 4*[^t-4]*
+Annexe 4*[^t-5]*
 
 (art. 1)
 
@@ -489,5 +569,5 @@ Annexe 4*[^t-4]*
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Introduite par le ch. II al. 3 de l’O du 12 nov. 2014, en vigueur depuis le 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
+[^t-5]: Introduite par le ch. II al. 3 de l’O du 12 nov. 2014, en vigueur depuis le 12 nov. 2014 ([RO 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
 [^annex4-lvlu1-1]: Non publiée au RO<sup>.</sup> Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos.
