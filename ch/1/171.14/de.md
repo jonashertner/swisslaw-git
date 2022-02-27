@@ -4,11 +4,11 @@ title: Geschäftsreglement des Ständerates vom 20. Juni 2003 (GRS)
 short: GRS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: de
-version: 2020-09-07
+version: 2022-02-28
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20200907/de/xml/fedlex-data-admin-ch-eli-cc-2003-515-20200907-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20200907/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20220228/de/xml/fedlex-data-admin-ch-eli-cc-2003-515-20220228-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20200907/de"
 
 (GRS)
 
-vom 20. Juni 2003 (Stand am 7. September 2020)
+vom 20. Juni 2003 (Stand am 28. Februar 2022)
 
 Der Ständerat,
 
@@ -152,7 +152,7 @@ Es bestehen folgende ständige Kommissionen:
 - 9\. Kommission für Wirtschaft und Abgaben (WAK);
 - 10\. Staatspolitische Kommission (SPK);
 - 11\. Kommission für Rechtsfragen (RK);
-- 12\. ...[^7-1]
+- 12\. …[^7-1]
 
 <sup>2</sup> Die ständigen Kommissionen haben 13 Mitglieder.[^7-2]
 
@@ -270,7 +270,7 @@ Die Beratungsgegenstände nach Artikel 71 ParlG werden von den zuständigen Komm
 
 <sup>3</sup> Ein Vorstoss kann vorberaten werden, wenn die zuständige Kommission oder der Rat dies beschliesst.
 
-<sup>4</sup> ...[^17-1]
+<sup>4</sup> …[^17-1]
 
 [^17-1]: Aufgehoben durch Ziff. I des Beschlusses vom 17. Juni 2011 (Für die Behandlung von Gesuchen um die Aufhebung der Immunität zuständiges Ratsorgan), mit Wirkung seit 5. Dez. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
@@ -348,7 +348,7 @@ Der Adressat eines Vorstosses beantwortet diesen schriftlich auf die nächste or
 
 <sup>1</sup> Eine parlamentarische Initiative oder ein Vorstoss kann von mehreren Ratsmitgliedern unterzeichnet werden. Als Urheberin oder Urheber gilt das erstunterzeichnende Ratsmitglied.
 
-<sup>1bis</sup> ...[^25-1]
+<sup>1bis</sup> …[^25-1]
 
 <sup>2</sup> Die Urheberin oder der Urheber kann die Initiative oder den Vorstoss ohne Zustimmung der Mitunterzeichnerinnen und Mitunterzeichner zurückziehen.
 
@@ -517,7 +517,7 @@ Jedes Ratsmitglied kann eine kurze persönliche Erklärung abgeben; mit dieser d
 
 <sup>1</sup> Ein Antrag ist der Präsidentin oder dem Präsidenten schriftlich und in der Regel vor der Beratung des betreffenden Beratungsgegenstandes einzureichen.
 
-<sup>1bis</sup> ...[^38-1]
+<sup>1bis</sup> …[^38-1]
 
 <sup>2</sup> Sie oder er prüft die Anträge bei der Einreichung auf ihre formale Rechtmässigkeit.
 
@@ -587,14 +587,7 @@ Vor der Abstimmung gibt die Präsidentin oder der Präsident eine kurze Übersic
 
 <sup>3</sup> Die Präsidentin oder der Präsident gibt das Ergebnis bekannt.
 
-<sup>4</sup>
-
-Das Ergebnis wird in Form einer Namensliste veröffentlicht:
-
-- a. bei Gesamtabstimmungen;
-- b. bei Schlussabstimmungen;
-- c. bei Abstimmungen über Bestimmungen, für deren Annahme die Mehrheit der Ratsmitglieder gemäss Artikel 159 Absatz 3 der Bundesverfassung[^44a-2] erforderlich ist;
-- d. wenn mindestens zehn Ratsmitglieder dies verlangen.
+<sup>4</sup> Das Ergebnis wird in Form einer Namensliste veröffentlicht.[^44a-2]
 
 <sup>5</sup>
 
@@ -610,12 +603,13 @@ Auf der Namensliste wird für jedes Ratsmitglied vermerkt, ob es:
 
 <sup>6bis</sup> Als teilweise entschuldigt gilt, wer sich spätestens bis zu Sitzungsbeginn für Teile des Sitzungstages aufgrund eines Auftrages eines parlamentarischen Organes abgemeldet hat.[^44a-4]
 
-<sup>7</sup> Das Büro kann auf Gesuch hin eine wissenschaftliche Auswertung der nicht veröffentlichten Abstimmungsergebnisse bewilligen.
+<sup>7</sup> …[^44a-5]
 
 [^44a-1]: Eingefügt durch Ziff. I des Beschlusses vom 22. März 2013 (Elektronische Abstimmungsanlage), in Kraft seit 1. März 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^44a-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^44a-2]: Fassung gemäss Ziff. I des Beschlusses vom 17. Dez. 2021 (Namensliste bei allen Abstimmungen), in Kraft seit 28. Febr. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 [^44a-3]: Fassung gemäss Ziff. I des Beschlusses vom 20. März 2015 (Anpassung der Entschuldigungsgründe), in Kraft seit 1. Juni 2015 ([AS 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [BBl 2015 2239](https://fedlex.data.admin.ch/eli/fga/2015/425)).
 [^44a-4]: Eingefügt durch Ziff. I des Beschlusses vom 20. März 2015 (Anpassung der Entschuldigungsgründe), in Kraft seit 1. Juni 2015 ([AS 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [BBl 2015 2239](https://fedlex.data.admin.ch/eli/fga/2015/425)).
+[^44a-5]: Aufgehoben durch Ziff. I des Beschlusses vom 17. Dez. 2021 (Namensliste bei allen Abstimmungen), mit Wirkung seit 28. Febr. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 
 #### Art. 45
 
@@ -698,7 +692,7 @@ Zum Ratssaal und zu seinen Vorzimmern haben während der Sessionen Zutritt:
 
 Das Geschäftsreglement des Ständerates vom 24. September 1986[^49-1] wird aufgehoben.
 
-[^49-1]: [[AS 1987 2](https://fedlex.data.admin.ch/eli/oc/1987/2_2_2), [1991 2340](https://fedlex.data.admin.ch/eli/oc/1991/2340_2340_2340), [1994 2151](https://fedlex.data.admin.ch/eli/oc/1994/2151_2151_2151), [1995 4360](https://fedlex.data.admin.ch/eli/oc/1995/4360_4360_4360), [1997 1475](https://fedlex.data.admin.ch/eli/oc/1997/1475_1475_1475), [1998 785](https://fedlex.data.admin.ch/eli/oc/1998/785_785_785), [1999 2614](https://fedlex.data.admin.ch/eli/oc/1999/406), [2000 1](https://fedlex.data.admin.ch/eli/oc/2000/1)und [241](https://fedlex.data.admin.ch/eli/oc/2000/42)]
+[^49-1]: [[AS 1987 2](https://fedlex.data.admin.ch/eli/oc/1987/2_2_2); [1991 2340](https://fedlex.data.admin.ch/eli/oc/1991/2340_2340_2340); [1994 2151](https://fedlex.data.admin.ch/eli/oc/1994/2151_2151_2151); [1995 4360](https://fedlex.data.admin.ch/eli/oc/1995/4360_4360_4360); [1997 1475](https://fedlex.data.admin.ch/eli/oc/1997/1475_1475_1475); [1998 785](https://fedlex.data.admin.ch/eli/oc/1998/785_785_785); [1999 2614](https://fedlex.data.admin.ch/eli/oc/1999/406); [2000 1](https://fedlex.data.admin.ch/eli/oc/2000/1), [241](https://fedlex.data.admin.ch/eli/oc/2000/42)]
 
 #### Art. 50
 

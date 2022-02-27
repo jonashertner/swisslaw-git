@@ -4,11 +4,11 @@ title: Standing Orders of the Council of States of 20 June 2003 (SO-CS)
 short: SO-CS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: en
-version: 2020-09-07
+version: 2022-02-28
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20200907/en/xml/fedlex-data-admin-ch-eli-cc-2003-515-20200907-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20200907/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20220228/en/xml/fedlex-data-admin-ch-eli-cc-2003-515-20220228-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SO-CS)
 
-of 20 June 2003 (Status as of 7 September)
+of 20 June 2003 (Status as of 28 February 2022)
 
 The Council of States,
 
@@ -589,14 +589,7 @@ Before the vote, the President shall provide a brief summary of the proposed ame
 
 <sup>3</sup> The President announces the result.
 
-<sup>4</sup>
-
-The result is published in the form of a list of names:
-
-- a. in the case of votes on entire bills;
-- b. in the case of final votes;
-- c. in the case of votes on provisions that require the approval of a majority of the members of the Council in accordance with Article 159 paragraph 3 of the Federal Constitution[^44a-2] in order to be accepted;
-- d. if at least ten members of the Council so request.
+<sup>4</sup> The result is published in the form of a list of names.[^44a-2]
 
 <sup>5</sup>
 
@@ -612,12 +605,13 @@ On the list of names, for each member it is indicated whether he or she:
 
 <sup>6bis</sup> A person is regarded as partially excused if he or she gives notice of being unable to attend part of a day's sitting at the latest by the start of the sitting due to an assignment from a parliamentary body.[^44a-4]
 
-<sup>7</sup> The office may on request authorise a scientific evaluation of unpublished voting results.
+<sup>7</sup> …[^44a-5]
 
 [^44a-1]: Inserted by No I of the Decree of 22 March 2013 (Electronic Voting Equipment), in force since 1 March 2014 ([AS 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [BBl 2012 9463](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^44a-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^44a-2]: Amended by No I of the Decree of 17 Dec. 2021 (List of Names for All Votes), in force since 28 Feb. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 [^44a-3]: Amended by No I of the Decree of 20 March 2015 (Amendment of the Grounds for being excused), in force since 1 June 2015 ([AS 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [BBl 2015 2239](https://fedlex.data.admin.ch/eli/fga/2015/425)).
 [^44a-4]: Inserted by No I of the Decree of 20 March 2015 (Amendment of the Grounds for being excused), in force since 1 June 2015 ([AS 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [BBl 2015 2239](https://fedlex.data.admin.ch/eli/fga/2015/425)).
+[^44a-5]: Repealed by No I of the Decree of 17 Dec. 2021 (List of Names for All Votes), with effect from 28 Feb. 2022 ([AS 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [BBl 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 
 #### Art. 45
 
@@ -700,7 +694,7 @@ The following persons are allowed access to the Chamber and its anterooms (the L
 
 The Standing Orders of the Council of States of 24 September 1986[^49-1] are repealed.
 
-[^49-1]: [[AS 1987 2](https://fedlex.data.admin.ch/eli/oc/1987/2_2_2), [1991 2340](https://fedlex.data.admin.ch/eli/oc/1991/2340_2340_2340), [1994 2151](https://fedlex.data.admin.ch/eli/oc/1994/2151_2151_2151), [1995 4360](https://fedlex.data.admin.ch/eli/oc/1995/4360_4360_4360), [1997 1475](https://fedlex.data.admin.ch/eli/oc/1997/1475_1475_1475), [1998 785](https://fedlex.data.admin.ch/eli/oc/1998/785_785_785), [1999 2614](https://fedlex.data.admin.ch/eli/oc/1999/406), [2000 1](https://fedlex.data.admin.ch/eli/oc/2000/1)and 241]
+[^49-1]: [[AS 1987 2](https://fedlex.data.admin.ch/eli/oc/1987/2_2_2); [1991 2340](https://fedlex.data.admin.ch/eli/oc/1991/2340_2340_2340); [1994 2151](https://fedlex.data.admin.ch/eli/oc/1994/2151_2151_2151); [1995 4360](https://fedlex.data.admin.ch/eli/oc/1995/4360_4360_4360); [1997 1475](https://fedlex.data.admin.ch/eli/oc/1997/1475_1475_1475); [1998 785](https://fedlex.data.admin.ch/eli/oc/1998/785_785_785); [1999 2614](https://fedlex.data.admin.ch/eli/oc/1999/406); [2000 1](https://fedlex.data.admin.ch/eli/oc/2000/1)and 241]
 
 #### Art. 50
 

@@ -4,11 +4,11 @@ title: Regolamento del Consiglio degli Stati del 20 giugno 2003 (RCS)
 short: RCS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: it
-version: 2020-09-07
+version: 2022-02-28
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20200907/it/xml/fedlex-data-admin-ch-eli-cc-2003-515-20200907-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20200907/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20220228/it/xml/fedlex-data-admin-ch-eli-cc-2003-515-20220228-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20200907/it"
 
 (RCS)
 
-del 20 giugno 2003 (Stato 7 settembre 2020) (Stato 7 settembre 2020)
+del 20 giugno 2003 (Stato 28 febbraio 2022) (Stato 28 febbraio 2022)
 
 Il Consiglio degli Stati,
 
@@ -587,14 +587,7 @@ Prima della votazione, il presidente riepiloga brevemente le proposte e propone 
 
 <sup>3</sup> Il presidente comunica il risultato della votazione.
 
-<sup>4</sup>
-
-Il risultato è pubblicato sotto forma di elenco nominativo:
-
-- a. nelle votazioni sul complesso;
-- b. nelle votazioni finali;
-- c. nelle votazioni su disposizioni per la cui accettazione è richiesto il consenso della maggioranza dei deputati conformemente all’articolo 159 capoverso 3 della Costituzione federale[^44a-2];
-- d. a richiesta di almeno dieci deputati.
+<sup>4</sup> Il risultato è pubblicato sotto forma di elenco nominativo.[^44a-2]
 
 <sup>5</sup>
 
@@ -610,12 +603,13 @@ Sull’elenco nominativo si menziona per ogni deputato se:
 
 <sup>6bis</sup> Il deputato che, al più tardi entro l’inizio della seduta, ha annunciato la sua assenza per una parte della giornata a causa di un mandato conferitogli da un organo parlamentare è considerato scusato per quella parte della giornata.[^44a-4]
 
-<sup>7</sup> L’Ufficio può autorizzare, su richiesta, un’analisi scientifica dei risultati della votazione non pubblicati.
+<sup>7</sup> ...[^44a-5]
 
 [^44a-1]: Introdotto dal n. I del D del CS del 22 mar. 2013 (Sistema di voto elettronico), in vigore dal 1° mar. 2014 ([RU 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8313](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^44a-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^44a-2]: Nuovo testo giusta il n. I del D del CS del 17 dic. 2021 (Elenco nominativo per ogni votazione), in vigore dal 28 feb. 2022 ([RU 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [FF 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 [^44a-3]: Nuovo testo giusta il n. I del D del CS del 20 mar. 2015 (Modifica dell’elenco dei motivi di impedimento), in vigore dal 1° giu. 2015 ([RU 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [FF 2015 1889](https://fedlex.data.admin.ch/eli/fga/2015/425)).
 [^44a-4]: Introdotto dal n. I del D del CS del 20 mar. 2015 (Modifica dell’elenco dei motivi di impedimento), in vigore dal 1° giu. 2015 ([RU 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [FF 2015 1889](https://fedlex.data.admin.ch/eli/fga/2015/425)).
+[^44a-5]: Abrogato dal n. I del D del CS del 17 dic. 2021 (Elenco nominativo per ogni votazione), con effetto dal 28 feb. 2022 ([RU 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [FF 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 
 #### Art. 45
 

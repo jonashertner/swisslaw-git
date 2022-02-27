@@ -4,11 +4,11 @@ title: Règlement du Conseil des États du 20 juin 2003 (RCE)
 short: RCE
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: fr
-version: 2020-09-07
+version: 2022-02-28
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20200907/fr/xml/fedlex-data-admin-ch-eli-cc-2003-515-20200907-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20200907/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20220228/fr/xml/fedlex-data-admin-ch-eli-cc-2003-515-20220228-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20200907/fr"
 
 (RCE)
 
-du 20 juin 2003 (Etat le 7 septembre 2020)
+du 20 juin 2003 (Etat le 28 février 2022)
 
 Le Conseil des États,
 
@@ -348,7 +348,7 @@ Le destinataire d’une intervention y répond par écrit avant le début de la 
 
 <sup>1</sup> Une initiative parlementaire ou une intervention peut être signée par plusieurs députés. Le premier signataire en est considéré l’auteur.
 
-<sup>1bis</sup> ...[^25-1]
+<sup>1bis</sup> …[^25-1]
 
 <sup>2</sup> L’auteur d’une initiative ou d’une intervention peut la retirer sans le consentement des cosignataires.
 
@@ -517,7 +517,7 @@ Tout député peut faire une brève déclaration personnelle, afin de répondre 
 
 <sup>1</sup> Les propositions visant à amender un objet soumis à délibération sont à remettre au président par écrit et autant que possible avant le début des débats portant sur l’objet concerné.
 
-<sup>1bis</sup> ...[^38-1]
+<sup>1bis</sup> …[^38-1]
 
 <sup>2</sup> Dès qu’une proposition est déposée, le président vérifie qu’elle est recevable.
 
@@ -591,14 +591,7 @@ Avant le vote, le président présente un bref aperçu des propositions déposé
 
 <sup>3</sup> Le président communique le résultat du vote.
 
-<sup>4</sup>
-
-Le résultat du vote est publié sous la forme d’une liste nominative:
-
-- a. lorsqu’il s’agit d’un vote sur l’ensemble;
-- b. lorsqu’il s’agit d’un vote final;
-- c. lorsqu’il s’agit d’un vote sur une disposition dont l’adoption requiert l’approbation de la majorité des députés, conformément à l’art. 159, al. 3, de la Constitution[^44a-2];
-- d. lorsque dix députés au moins en font la demande.
+<sup>4</sup> Le résultat du vote est publié sous la forme d’une liste nominative.[^44a-2]
 
 <sup>5</sup>
 
@@ -614,12 +607,13 @@ Pour chacun des députés, une des mentions suivantes figure sur la liste nomina
 
 <sup>6bis</sup> Le député qui, avant le début de la séance, a annoncé son absence pour une partie de la journée en raison d’un mandat qui lui a été confié par un organe parlementaire est considéré comme excusé pour cette partie de la journée.[^44a-4]
 
-<sup>7</sup> Le bureau peut autoriser, sur demande, l’exploitation scientifique des résultats des votes non publiés.
+<sup>7</sup> …[^44a-5]
 
 [^44a-1]: Introduit par le ch. ch. I de la D du CE du 22 mars 2013 (Système de vote électronique), en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8733](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^44a-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^44a-2]: Nouvelle teneur selon le ch. I de la D du CE du 17 déc. 2021 (Liste nominative pour chaque vote), en vigueur depuis le 28 fév. 2022 ([RO 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [FF 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 [^44a-3]: Nouvelle teneur selon le ch. I de la D du CE du 20 mars 2015 (Modification de la liste des motifs d’empêchement), en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [FF 2015 2073](https://fedlex.data.admin.ch/eli/fga/2015/425)).
 [^44a-4]: Introduit par le ch. I de la D du CE du 20 mars 2015 (Modification de la liste des motifs d’empêchement), en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1295](https://fedlex.data.admin.ch/eli/oc/2015/268); [FF 2015 2073](https://fedlex.data.admin.ch/eli/fga/2015/425)).
+[^44a-5]: Abrogé par le ch. I de la D du CE du 17 déc. 2021 (Liste nominative pour chaque vote), avec effet au 28 fév. 2022 ([RO 2022 107](https://fedlex.data.admin.ch/eli/oc/2022/107); [FF 2021 2696](https://fedlex.data.admin.ch/eli/fga/2021/2696)).
 
 #### Art. 45
 
@@ -636,7 +630,7 @@ Les voix et les abstentions sont toujours comptées:
 - c. lorsqu’il s’agit d’un vote sur une disposition dont l’adoption requiert l’approbation de la majorité des députés, conformément à l’art. 159, al. 3, de la Constitution[^45-3].
 
 [^45-1]: Nouvelle teneur selon le ch. I de la D du CE du 22 mars 2013 (Système de vote électronique), en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8733](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
-[^45-2]: Nouvelle teneur selon le ch. I de la D du CE du 22 mars 2013 (Système de vote électronique), en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8733](https://fedlex.data.admin.ch/eli/fga/2012/1754))..
+[^45-2]: Nouvelle teneur selon le ch. I de la D du CE du 22 mars 2013 (Système de vote électronique), en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 251](https://fedlex.data.admin.ch/eli/oc/2014/42); [FF 2012 8733](https://fedlex.data.admin.ch/eli/fga/2012/1754)).
 [^45-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 
 #### Art. 46
