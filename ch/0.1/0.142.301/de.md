@@ -3,11 +3,11 @@ sr: "0.142.301"
 title: Protokoll vom 31. Januar 1967 über die Rechtsstellung der Flüchtlinge
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148"
 language: de
-version: 2012-09-28
+version: 2022-02-28
 adopted: 1967-01-31
 in_force: 1968-05-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148/20120928/de/xml/fedlex-data-admin-ch-eli-cc-1968-1189_1233_1148-20120928-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/1189_1233_1148/20120928/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148/20220228/de/xml/fedlex-data-admin-ch-eli-cc-1968-1189_1233_1148-20220228-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/1189_1233_1148/20220228/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1968** 1189; BBl **1967** II 873
 
 Abgeschlossen in New York am 31. Januar 1967 Von der Bundesversammlung genehmigt am 4. März 1968[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 20. Mai 1968 In Kraft getreten für die Schweiz am 20. Mai 1968
 
-(Stand am 28. September 2012)
+(Stand am 28. Februar 2022)
 
 [^t-1]: [AS 1968 1188](https://fedlex.data.admin.ch/eli/oc/1968/1188_1232_1147)
 
@@ -34,7 +34,7 @@ Die Vertragsparteien dieses Protokolls
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^ingress-1]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 
 #### Art. I
 
@@ -130,7 +130,7 @@ Ein vom Präsidenten der Generalversammlung und vom Generalsekretär der Vereint
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 28. September 2012**[^t-2]**
+Geltungsbereich am 28. Februar 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -144,7 +144,7 @@ Geltungsbereich am 28. September 2012**[^t-2]**
 <tr><td>Argentinien</td><td>6. Dezember</td><td>1967</td><td>6. Dezember</td><td>1967</td></tr>
 <tr><td>Armenien</td><td>6. Juli</td><td>1993 B</td><td>6. Juli</td><td>1993</td></tr>
 <tr><td>Aserbaidschan</td><td>12. Februar</td><td>1993 B</td><td>12. Februar</td><td>1993</td></tr>
-<tr><td>Äthiopien\*</td><td>10. November</td><td>1969</td><td>10. November</td><td>1969</td></tr>
+<tr><td>Äthiopien\* \*\*</td><td>10. November</td><td>1969</td><td>10. November</td><td>1969</td></tr>
 <tr><td>Australien\*</td><td>13. Dezember</td><td>1973</td><td>13. Dezember</td><td>1973</td></tr>
 <tr><td>Bahamas</td><td>15. September</td><td>1993 B</td><td>15. September</td><td>1993</td></tr>
 <tr><td>Belarus</td><td>23. August</td><td>2001 B</td><td>23. August</td><td>2001</td></tr>
@@ -164,13 +164,14 @@ Geltungsbereich am 28. September 2012**[^t-2]**
 <tr><td>Costa Rica</td><td>28. März</td><td>1978</td><td>28. März</td><td>1978</td></tr>
 <tr><td>Côte d’Ivoire</td><td>16. Februar</td><td>1970</td><td>16. Februar</td><td>1970</td></tr>
 <tr><td>Dänemark</td><td>29. Januar</td><td>1968</td><td>29. Januar</td><td>1968</td></tr>
-<tr><td>Deutschland\* \*\*</td><td>5. November</td><td>1969</td><td>5. November</td><td>1969</td></tr>
+<tr><td>Deutschland\*\*</td><td>5. November</td><td>1969</td><td>5. November</td><td>1969</td></tr>
 <tr><td>Dominica</td><td>17. Februar</td><td>1994 B</td><td>17. Februar</td><td>1994</td></tr>
 <tr><td>Dominikanische Republik</td><td>4. Januar</td><td>1978</td><td>4. Januar</td><td>1978</td></tr>
 <tr><td>Dschibuti</td><td>9. August</td><td>1977 N</td><td>27. Juni</td><td>1977</td></tr>
 <tr><td>Ecuador</td><td>6. März</td><td>1969</td><td>6. März</td><td>1969</td></tr>
 <tr><td>El Salvador\*</td><td>28. April</td><td>1983</td><td>28. April</td><td>1983</td></tr>
 <tr><td>Estland</td><td>10. April</td><td>1997 B</td><td>10. April</td><td>1997</td></tr>
+<tr><td>Eswatini\*</td><td>28. Januar</td><td>1969</td><td>28. Januar</td><td>1969</td></tr>
 <tr><td>Fidschi</td><td>12. Juni</td><td>1972 N</td><td>10. Oktober</td><td>1970</td></tr>
 <tr><td>Finnland\*</td><td>10. Oktober</td><td>1968</td><td>10. Oktober</td><td>1968</td></tr>
 <tr><td>Frankreich\*\*</td><td>3. Februar</td><td>1971</td><td>3. Februar</td><td>1971</td></tr>
@@ -210,13 +211,12 @@ Geltungsbereich am 28. September 2012**[^t-2]**
 <tr><td>Liberia</td><td>27. Februar</td><td>1980</td><td>27. Februar</td><td>1980</td></tr>
 <tr><td>Liechtenstein</td><td>20. Mai</td><td>1968</td><td>20. Mai</td><td>1968</td></tr>
 <tr><td>Litauen</td><td>28. April</td><td>1997 B</td><td>28. April</td><td>1997</td></tr>
-<tr><td>Luxemburg\*\*</td><td>22. April</td><td>1971</td><td>22. April</td><td>1971</td></tr>
+<tr><td>Luxemburg \* \*\*</td><td>22. April</td><td>1971</td><td>22. April</td><td>1971</td></tr>
 <tr><td>Malawi\*</td><td>10. Dezember</td><td>1987 B</td><td>10. Dezember</td><td>1987</td></tr>
 <tr><td>Mali</td><td>2. Februar</td><td>1973</td><td>2. Februar</td><td>1973</td></tr>
-<tr><td>Malta</td><td>15. September</td><td>1971</td><td>15. September</td><td>1971</td></tr>
+<tr><td>Malta\*</td><td>15. September</td><td>1971</td><td>15. September</td><td>1971</td></tr>
 <tr><td>Marokko</td><td>20. April</td><td>1971</td><td>20. April</td><td>1971</td></tr>
 <tr><td>Mauretanien</td><td>5. Mai</td><td>1987 B</td><td>5. Mai</td><td>1987</td></tr>
-<tr><td>Mazedonien</td><td>18. Januar</td><td>1994 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>7. Juni</td><td>2000 B</td><td>7. Juni</td><td>2000</td></tr>
 <tr><td>Moldau</td><td>31. Januar</td><td>2002 B</td><td>31. Januar</td><td>2002</td></tr>
 <tr><td>Monaco</td><td>16. Juni</td><td>2010 B</td><td>16. Juni</td><td>2010</td></tr>
@@ -226,16 +226,17 @@ Geltungsbereich am 28. September 2012**[^t-2]**
 <tr><td>Neuseeland</td><td>6. August</td><td>1973</td><td>6. August</td><td>1973</td></tr>
 <tr><td>Nicaragua</td><td>28. März</td><td>1980</td><td>28. März</td><td>1980</td></tr>
 <tr><td>Niederlande\* \*\*</td><td>29. November</td><td>1968</td><td>29. November</td><td>1968</td></tr>
-<tr><td>Aruba</td><td>29. November</td><td>1968</td><td>29. November</td><td>1968</td></tr>
+<tr><td>Aruba <sup>b</sup></td><td>29. November</td><td>1968</td><td>29. November</td><td>1968</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>22. Juni</td><td>2011</td><td>22. Juni</td><td>2011</td></tr>
 <tr><td>Niger</td><td>2. Februar</td><td>1970</td><td>2. Februar</td><td>1970</td></tr>
 <tr><td>Nigeria</td><td>2. Mai</td><td>1968</td><td>2. Mai</td><td>1968</td></tr>
+<tr><td>Nordmazedonien</td><td>18. Januar</td><td>1994 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>28. November</td><td>1967</td><td>28. November</td><td>1967</td></tr>
 <tr><td>Österreich</td><td>5. September</td><td>1973</td><td>5. September</td><td>1973</td></tr>
 <tr><td>Panama</td><td>2. August</td><td>1978</td><td>2. August</td><td>1978</td></tr>
 <tr><td>Papua-Neuguinea</td><td>17. Juli</td><td>1986 B</td><td>17. Juli</td><td>1986</td></tr>
 <tr><td>Paraguay</td><td>1. April</td><td>1970</td><td>1. April</td><td>1970</td></tr>
-<tr><td>Peru</td><td>15. September</td><td>1983 B</td><td>15. September</td><td>1983</td></tr>
+<tr><td>Peru\*</td><td>15. September</td><td>1983 B</td><td>15. September</td><td>1983</td></tr>
 <tr><td>Philippinen</td><td>22. Juli</td><td>1981 B</td><td>22. Juli</td><td>1981</td></tr>
 <tr><td>Polen</td><td>27. September</td><td>1991 B</td><td>27. September</td><td>1991</td></tr>
 <tr><td>Portugal\*</td><td>13. Juli</td><td>1976</td><td>13. Juli</td><td>1976</td></tr>
@@ -260,10 +261,10 @@ Geltungsbereich am 28. September 2012**[^t-2]**
 <tr><td>Spanien</td><td>14. August</td><td>1978</td><td>14. August</td><td>1978</td></tr>
 <tr><td>Südafrika</td><td>12. Januar</td><td>1996 B</td><td>12. Januar</td><td>1996</td></tr>
 <tr><td>Sudan</td><td>23. Mai</td><td>1974</td><td>23. Mai</td><td>1974</td></tr>
+<tr><td>Südsudan</td><td>10. Dezember</td><td>2018 B</td><td>10. Dezember</td><td>2018</td></tr>
 <tr><td>Suriname</td><td>29. November</td><td>1978 N</td><td>25. November</td><td>1975</td></tr>
-<tr><td>Swasiland\*</td><td>28. Januar</td><td>1969</td><td>28. Januar</td><td>1969</td></tr>
 <tr><td>Tadschikistan</td><td>7. Dezember</td><td>1993 B</td><td>7. Dezember</td><td>1993</td></tr>
-<tr><td>Tansania<sup>\*</sup></td><td>4. September</td><td>1968</td><td>4. September</td><td>1968</td></tr>
+<tr><td>Tansania\*</td><td>4. September</td><td>1968</td><td>4. September</td><td>1968</td></tr>
 <tr><td>Timor-Leste\*</td><td>7. Mai</td><td>2003 B</td><td>7. Mai</td><td>2003</td></tr>
 <tr><td>Togo</td><td>1. Dezember</td><td>1969</td><td>1. Dezember</td><td>1969</td></tr>
 <tr><td>Trinidad und Tobago</td><td>10. November</td><td>2000 B</td><td>10. November</td><td>2000</td></tr>
@@ -283,9 +284,7 @@ Geltungsbereich am 28. September 2012**[^t-2]**
 <tr><td>Jersey</td><td>20. Februar</td><td>1996</td><td>20. Mai</td><td>1996</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>30. August</td><td>1967</td><td>4. Oktober</td><td>1967</td></tr>
 <tr><td>Zypern</td><td>9. Juli</td><td>1968</td><td>9. Juli</td><td>1968</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">\*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen sowie die Vorbehalte und Erklärungen, die anlässlich der Erweiterung der territorialen Geltung des Protokolls gemacht wurden, werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Auf Grund einer Erklärung der Volksrepublik China vom 13. April 1987 ist das Prot. seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen sowie die Vorbehalte und Erklärungen, die anlässlich der Erweiterung der territorialen Geltung des Protokolls gemacht wurden, werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Auf Grund einer Erklärung der Volksrepublik China vom 13. April 1987 ist das Prot. seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar. <sup>b</sup> Am 1. Jan. 1986 erhielt die Insel Aruba, die ein Teil der Niederländischen Antillen war, die innere Autonomie innerhalb des Königreichs der Niederlande. Diese Änd. betrifft nur die internen verfassungsrechtlichen Beziehungen innerhalb des Königreichs der Niederlande</td></tr>
 </table>
 
-[^t-2]: [AS 1968 1189](https://fedlex.data.admin.ch/eli/oc/1968/1189_1233_1148), [1976 2850](https://fedlex.data.admin.ch/eli/oc/1976/2850_2850_2850), [1980 376](https://fedlex.data.admin.ch/eli/oc/1980/376_376_376), [1982 437](https://fedlex.data.admin.ch/eli/oc/1982/437_437_437)[2069](https://fedlex.data.admin.ch/eli/oc/1982/2069_2069_2069), [1983 1173](https://fedlex.data.admin.ch/eli/oc/1983/1173_1173_1173), [1984 332](https://fedlex.data.admin.ch/eli/oc/1984/332_332_332), [1985 74](https://fedlex.data.admin.ch/eli/oc/1985/74_74_74), [1986 173](https://fedlex.data.admin.ch/eli/oc/1986/173_173_173), [1987 276](https://fedlex.data.admin.ch/eli/oc/1987/276_276_276), [1988 1556](https://fedlex.data.admin.ch/eli/oc/1988/1556_1556_1556), [1989 2435](https://fedlex.data.admin.ch/eli/oc/1989/2435_2435_2435), [1991 895](https://fedlex.data.admin.ch/eli/oc/1991/895_895_895), [1993 2337](https://fedlex.data.admin.ch/eli/oc/1993/2337_2337_2337), [2002 4078](https://fedlex.data.admin.ch/eli/oc/2002/655), [2006 1763](https://fedlex.data.admin.ch/eli/oc/2006/273), [2009 2493](https://fedlex.data.admin.ch/eli/oc/2009/308)und [2012 5509](https://fedlex.data.admin.ch/eli/oc/2012/631). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1968 1189](https://fedlex.data.admin.ch/eli/oc/1968/1189_1233_1148); [1976 2850](https://fedlex.data.admin.ch/eli/oc/1976/2850_2850_2850); [1980 376](https://fedlex.data.admin.ch/eli/oc/1980/376_376_376); [1982 437](https://fedlex.data.admin.ch/eli/oc/1982/437_437_437), [2069](https://fedlex.data.admin.ch/eli/oc/1982/2069_2069_2069); [1983 1173](https://fedlex.data.admin.ch/eli/oc/1983/1173_1173_1173); [1984 332](https://fedlex.data.admin.ch/eli/oc/1984/332_332_332); [1985 74](https://fedlex.data.admin.ch/eli/oc/1985/74_74_74); [1986 173](https://fedlex.data.admin.ch/eli/oc/1986/173_173_173); [1987 276](https://fedlex.data.admin.ch/eli/oc/1987/276_276_276); [1988 1556](https://fedlex.data.admin.ch/eli/oc/1988/1556_1556_1556); [1989 2435](https://fedlex.data.admin.ch/eli/oc/1989/2435_2435_2435); [1991 895](https://fedlex.data.admin.ch/eli/oc/1991/895_895_895); [1993 2337](https://fedlex.data.admin.ch/eli/oc/1993/2337_2337_2337); [2002 4078](https://fedlex.data.admin.ch/eli/oc/2002/655); [2006 1763](https://fedlex.data.admin.ch/eli/oc/2006/273); [2009 2493](https://fedlex.data.admin.ch/eli/oc/2009/308); [2012 5509](https://fedlex.data.admin.ch/eli/oc/2012/631); [2022 147](https://fedlex.data.admin.ch/eli/oc/2022/147). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.

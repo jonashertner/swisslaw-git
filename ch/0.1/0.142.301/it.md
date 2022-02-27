@@ -3,11 +3,11 @@ sr: "0.142.301"
 title: Protocollo del 31 gennaio 1967 sullo statuto dei rifugiati
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148"
 language: it
-version: 2012-09-28
+version: 2022-02-28
 adopted: 1967-01-31
 in_force: 1968-05-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148/20120928/it/xml/fedlex-data-admin-ch-eli-cc-1968-1189_1233_1148-20120928-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/1189_1233_1148/20120928/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148/20220228/it/xml/fedlex-data-admin-ch-eli-cc-1968-1189_1233_1148-20220228-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/1189_1233_1148/20220228/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1968/1189_1233_1148/20120928/it"
 
 RU **1968** 1148; FF **1967** II 721
 
-Traduzione dai testi originali francese e inglese
+Traduzione
 
 Conchiuso a Nuova York il 31 gennaio 1967 Approvato dall’Assemblea federale il 4 marzo 1968[^t-1] Istrumento d’adesione depositato dalla Svizzera il 20 maggio 1968 Entrato in vigore per la Svizzera il 20 maggio 1968
 
-(Stato 28 settembre 2012)
+(Stato 28 febbraio 2022)
 
 [^t-1]: [RU 1968 1147](https://fedlex.data.admin.ch/eli/oc/1968/1188_1232_1147)
 
@@ -34,7 +34,7 @@ considerando l’opportunità di applicare il medesimo statuto a tutti i rifugia
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^ingress-1]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 
 #### Art. I
 
@@ -128,7 +128,7 @@ Un esemplare del presente Protocollo, i cui testi inglese, cinese, spagnolo, fra
 
 (Seguono le firme)
 
-Campo d’applicazione il 28 settembre 2012**[^t-2]**
+Campo d’applicazione il 28 febbraio 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -179,6 +179,7 @@ Campo d’applicazione il 28 settembre 2012**[^t-2]**
 <tr><td>Egitto</td><td>22 maggio</td><td>1981 A</td><td>22 maggio</td><td>1981</td></tr>
 <tr><td>El Salvador\*</td><td>28 aprile</td><td>1983</td><td>28 aprile</td><td>1983</td></tr>
 <tr><td>Estonia</td><td>10 aprile</td><td>1997 A</td><td>10 aprile</td><td>1997</td></tr>
+<tr><td>Eswatini\*</td><td>28 gennaio</td><td>1969</td><td>28 gennaio</td><td>1969</td></tr>
 <tr><td>Etiopia\* \*\*</td><td>10 novembre</td><td>1969</td><td>10 novembre</td><td>1969</td></tr>
 <tr><td>Figi</td><td>12 giugno</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
 <tr><td>Filippine</td><td>22 luglio</td><td>1981 A</td><td>22 luglio</td><td>1981</td></tr>
@@ -213,7 +214,7 @@ Campo d’applicazione il 28 settembre 2012**[^t-2]**
 <tr><td>Liechtenstein</td><td>20 maggio</td><td>1968</td><td>20 maggio</td><td>1968</td></tr>
 <tr><td>Lituania</td><td>28 aprile</td><td>1997 A</td><td>28 aprile</td><td>1997</td></tr>
 <tr><td>Lussemburgo\* \*\*</td><td>22 aprile</td><td>1971</td><td>22 aprile</td><td>1971</td></tr>
-<tr><td>Macedonia</td><td>18 gennaio</td><td>1994 S</td><td>17 settembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>18 gennaio</td><td>1994 S</td><td>17 settembre</td><td>1991</td></tr>
 <tr><td>Malawi\*</td><td>10 dicembre</td><td>1987 A</td><td>10 dicembre</td><td>1987</td></tr>
 <tr><td>Mali</td><td>2 febbraio</td><td>1973</td><td>2 febbraio</td><td>1973</td></tr>
 <tr><td>Malta\*</td><td>15 settembre</td><td>1971</td><td>15 settembre</td><td>1971</td></tr>
@@ -231,12 +232,12 @@ Campo d’applicazione il 28 settembre 2012**[^t-2]**
 <tr><td>Norvegia</td><td>28 novembre</td><td>1967</td><td>28 novembre</td><td>1967</td></tr>
 <tr><td>Nuova Zelanda</td><td>6 agosto</td><td>1973</td><td>6 agosto</td><td>1973</td></tr>
 <tr><td>Paesi Bassi</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Aruba</td><td>29 novembre</td><td>1968</td><td>29 novembre</td><td>1968</td></tr>
+<tr><td>Aruba <sup>b</sup></td><td>29 novembre</td><td>1968</td><td>29 novembre</td><td>1968</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>22 giugno</td><td>2011</td><td>22 giugno</td><td>2011</td></tr>
 <tr><td>Panama</td><td>2 agosto</td><td>1978</td><td>2 agosto</td><td>1978</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>17 luglio</td><td>1986 A</td><td>17 luglio</td><td>1986</td></tr>
 <tr><td>Paraguay</td><td>1° aprile</td><td>1970</td><td>1° aprile</td><td>1970</td></tr>
-<tr><td>Perù</td><td>15 settembre</td><td>1983 A</td><td>15 settembre</td><td>1983</td></tr>
+<tr><td>Perù\*</td><td>15 settembre</td><td>1983 A</td><td>15 settembre</td><td>1983</td></tr>
 <tr><td>Polonia</td><td>27 settembre</td><td>1991 A</td><td>27 settembre</td><td>1991</td></tr>
 <tr><td>Portogallo\*</td><td>13 luglio</td><td>1976</td><td>13 luglio</td><td>1976</td></tr>
 <tr><td>Regno Unito\*</td><td>4 settembre</td><td>1968</td><td>4 settembre</td><td>1968</td></tr>
@@ -260,10 +261,10 @@ Campo d’applicazione il 28 settembre 2012**[^t-2]**
 <tr><td>Stati Uniti\*</td><td>1° novembre</td><td>1968</td><td>1° novembre</td><td>1968</td></tr>
 <tr><td>Sudafrica</td><td>12 gennaio</td><td>1996 A</td><td>12 gennaio</td><td>1996</td></tr>
 <tr><td>Sudan</td><td>23 maggio</td><td>1974</td><td>23 maggio</td><td>1974</td></tr>
+<tr><td>Sudan del Sud</td><td>10 dicembre</td><td>2018 A</td><td>10 dicembre</td><td>2018</td></tr>
 <tr><td>Suriname</td><td>29 novembre</td><td>1978 S</td><td>25 novembre</td><td>1975</td></tr>
 <tr><td>Svezia</td><td>4 ottobre</td><td>1967</td><td>4 ottobre</td><td>1967</td></tr>
 <tr><td>Svizzera</td><td>20 maggio</td><td>1968</td><td>20 maggio</td><td>1968</td></tr>
-<tr><td>Swaziland\*</td><td>28 gennaio</td><td>1969</td><td>28 gennaio</td><td>1969</td></tr>
 <tr><td>Tagikistan</td><td>7 dicembre</td><td>1993 A</td><td>7 dicembre</td><td>1993</td></tr>
 <tr><td>Tanzania\*</td><td>4 settembre</td><td>1968</td><td>4 settembre</td><td>1968</td></tr>
 <tr><td>Timor-Leste<sup>\*</sup></td><td>7 maggio</td><td>2003 A</td><td>7 maggio</td><td>2003</td></tr>
@@ -281,10 +282,7 @@ Campo d’applicazione il 28 settembre 2012**[^t-2]**
 <tr><td>Yemen</td><td>18 gennaio</td><td>1980</td><td>18 gennaio</td><td>1980</td></tr>
 <tr><td>Zambia</td><td>24 settembre</td><td>1969</td><td>24 settembre</td><td>1969</td></tr>
 <tr><td>Zimbabwe</td><td>25 agosto</td><td>1981</td><td>25 agosto</td><td>1981</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> In base ad una dichiarazione della Repubblica Popolare Cinese del 13 apr. 1987, le Prot. è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> In base ad una dichiarazione della Repubblica Popolare Cinese del 13 apr. 1987, le Prot. è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao. <sup>b</sup> Il 1° gennaio 1986 l’isola di Aruba, che faceva parte delle Antille olandesi, ha ottenuto l'autonomia interna in seno al Regno dei Paesi Bassi. Questo cambiamento ha effetti unicamente sulle relazioni di diritto costituzionale interne al Regno</td></tr>
 </table>
 
-- [tab]
-
-[^t-2]: [RU 1968 1148](https://fedlex.data.admin.ch/eli/oc/1968/1189_1233_1148), [1976 2850](https://fedlex.data.admin.ch/eli/oc/1976/2850_2850_2850), [1980 376](https://fedlex.data.admin.ch/eli/oc/1980/376_376_376), [1982 437](https://fedlex.data.admin.ch/eli/oc/1982/437_437_437)[2069](https://fedlex.data.admin.ch/eli/oc/1982/2069_2069_2069), [1983 1173](https://fedlex.data.admin.ch/eli/oc/1983/1173_1173_1173), [1984 332](https://fedlex.data.admin.ch/eli/oc/1984/332_332_332), [1985 74](https://fedlex.data.admin.ch/eli/oc/1985/74_74_74), [1986 173](https://fedlex.data.admin.ch/eli/oc/1986/173_173_173), [1987 276](https://fedlex.data.admin.ch/eli/oc/1987/276_276_276), [1988 1556](https://fedlex.data.admin.ch/eli/oc/1988/1556_1556_1556), [1989 2435](https://fedlex.data.admin.ch/eli/oc/1989/2435_2435_2435), [1991 895](https://fedlex.data.admin.ch/eli/oc/1991/895_895_895), [1993 2337](https://fedlex.data.admin.ch/eli/oc/1993/2337_2337_2337), [2002 4078](https://fedlex.data.admin.ch/eli/oc/2002/655), [2006 1763](https://fedlex.data.admin.ch/eli/oc/2006/273), [2009 2493](https://fedlex.data.admin.ch/eli/oc/2009/308)e [2012 5509](https://fedlex.data.admin.ch/eli/oc/2012/631). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1968 1148](https://fedlex.data.admin.ch/eli/oc/1968/1189_1233_1148); [1976 2850](https://fedlex.data.admin.ch/eli/oc/1976/2850_2850_2850); [1980 376](https://fedlex.data.admin.ch/eli/oc/1980/376_376_376); [1982 437](https://fedlex.data.admin.ch/eli/oc/1982/437_437_437), [2069](https://fedlex.data.admin.ch/eli/oc/1982/2069_2069_2069); [1983 1173](https://fedlex.data.admin.ch/eli/oc/1983/1173_1173_1173); [1984 332](https://fedlex.data.admin.ch/eli/oc/1984/332_332_332); [1985 74](https://fedlex.data.admin.ch/eli/oc/1985/74_74_74); [1986 173](https://fedlex.data.admin.ch/eli/oc/1986/173_173_173); [1987 276](https://fedlex.data.admin.ch/eli/oc/1987/276_276_276); [1988 1556](https://fedlex.data.admin.ch/eli/oc/1988/1556_1556_1556); [1989 2435](https://fedlex.data.admin.ch/eli/oc/1989/2435_2435_2435); [1991 895](https://fedlex.data.admin.ch/eli/oc/1991/895_895_895); [1993 2337](https://fedlex.data.admin.ch/eli/oc/1993/2337_2337_2337); [2002 4078](https://fedlex.data.admin.ch/eli/oc/2002/655); [2006 1763](https://fedlex.data.admin.ch/eli/oc/2006/273); [2009 2493](https://fedlex.data.admin.ch/eli/oc/2009/308); [2012 5509](https://fedlex.data.admin.ch/eli/oc/2012/631); [2022 147](https://fedlex.data.admin.ch/eli/oc/2022/147). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
