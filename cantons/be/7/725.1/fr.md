@@ -4,13 +4,13 @@ number: "725.1"
 title: "Décret concernant la procédure d'octroi du permis de construire"
 short: DPC
 language: fr
-version: 2020-08-01
-valid_until: 2022-02-28
-version_adopted: 2020-06-24
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-03
 adopted: 1994-03-22
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/725.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1919/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2385/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1919/pdf_file"
 
 (DPC)
 
-du 22.03.1994 (état au 01.08.2020)
+du 22.03.1994 (état au 01.03.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -140,7 +140,7 @@ décrète:
 
 **Obligation d’annoncer les installations solaires**
 
-<sup>1</sup> Les maîtres d’ouvrage annoncent la construction d’installations solaires non soumises au régime du permis de construire à l’autorité de police des constructions au plus tard sept jours ouvrés avant le début des travaux.
+<sup>1</sup> Les maîtres d’ouvrage annoncent la construction d’installations solaires non soumises au régime du permis de construire à l’autorité de police des constructions au plus tard sept jours ouvrés avant le début des travaux par l’intermédiaire du système de transmission cantonal.
 
 <sup>2</sup> Ils communiquent les informations suivantes:
 
@@ -150,7 +150,7 @@ décrète:
 
 <sup>3</sup> Un plan indiquant l’échelle et la direction du nord doit être joint.
 
-<sup>4</sup> L’annonce est effectuée au moyen du formulaire officiel.
+<sup>4</sup> …
 
 ## 3 Compétence
 
@@ -191,7 +191,7 @@ décrète:
 
 <sup>2</sup> La compétence d'octroyer le permis de construire passe de la petite commune au préfet ou à la préfète lorsqu'un projet requiert une étude d'impact sur l'environnement ou que sa réalisation revient à plus d'un million de francs. La Direction de l’intérieur et de la justice peut adapter ce montant à l'indice des coûts de la construction.
 
-<sup>3</sup> Si elle n'est pas manifestement compétente, la petite commune remet au préfet ou à la préfète une copie de la demande de permis de construire et du plan de situation dans les sept jours ouvrables qui suivent la réception de ces documents. Si l'affaire n'est pas du ressort de la commune, le préfet ou la préfète se déclare compétent dans un délai de sept jours ouvrables.
+<sup>3</sup> Si elle n'est pas manifestement compétente, la petite commune annonce au préfet ou à la préfète le dépôt de la demande de permis de construire dans les sept jours ouvrables qui suivent la réception de ces documents. Si l'affaire n'est pas du ressort de la commune, le préfet ou la préfète se déclare compétent dans un délai de sept jours ouvrables.
 
 <sup>4</sup> Lorsqu'une petite commune est autorité d'octroi du permis de construire, elle sollicite le rapport officiel du préfet ou de la préfète en cas de demande de dérogation aux prescriptions cantonales.
 
@@ -205,19 +205,19 @@ décrète:
 
 **Demande 1. Forme**
 
-<sup>1</sup> La demande de permis de construire est adressée à l'administration communale.
+<sup>1</sup> La demande de permis de construire est remplie et transmise par l’intermédiaire du système de transmission cantonal.
 
-<sup>2</sup> Le requérant ou la requérante utilisera la formule officielle, qui portera la signature du maître de l'ouvrage, de l'auteur du projet et, en outre, du propriétaire foncier ou de la propriétaire foncière pour les constructions à établir sur sol d'autrui.
+<sup>2</sup> Elle doit être signée par le maître d’ouvrage, l'auteur du projet et, en outre, par le propriétaire foncier ou la propriétaire foncière pour les constructions à établir sur sol d’autrui.
 
-<sup>3</sup> Le plan de situation (art. 12 et 13), les plans du projet (art. 14) et d'éventuels autres documents nécessaires (art. 15) seront joints à la demande. Tous les plans seront datés; ils porteront la signature du requérant ou de la requérante et de l'auteur du projet.
+<sup>3</sup> Le plan de situation (art. 12 et 13), les plans du projet (art. 14) et d'éventuels autres documents nécessaires (art. 15) seront remis avec la demande de permis de construire.
 
-<sup>3a</sup> Le formulaire relatif aux mesures parasismiques ainsi que les documents devant y être joints doivent être déposés pour tous les projets de construction.
+<sup>3a</sup> Pour tous les projets de construction, des indications relatives aux mesures parasismiques doivent être fournies, avec les documents s’y rapportant.
 
 <sup>4</sup> Si le projet nécessite l'octroi d'une dérogation, une requête correspondante sera jointe à la demande de permis. Il convient de la motiver.
 
-<sup>5</sup> Si le projet est soumis à la législation sur l'énergie ou à celle sur la protection de l'environnement, les documents requis seront joints à la demande.
+<sup>5</sup> Si le projet est soumis à la législation sur l'énergie ou à celle sur la protection de l'environnement, les documents requis seront également remis.
 
-<sup>6</sup> Toutes les pièces du dossier doivent être remises en un nombre suffisant de copies, mais au minimum en double exemplaire. L'autorité d'octroi du permis de construire peut en exiger davantage.
+<sup>6</sup> Toutes les pièces du dossier doivent être remises à la commune en double exemplaire sur support papier, munies d’une date et d’une signature et accompagnées des plans. Ces documents font foi du point de vue juridique. L'autorité d'octroi du permis de construire peut exiger davantage d’exemplaires.
 
 #### Art. 11
 
@@ -245,11 +245,13 @@ décrète:
 
 **Plan de situation 1. Forme**
 
-<sup>1</sup> Le plan de situation sera, sur le territoire cantonal ayant fait l’objet de mensurations officielles, établi sur une copie du plan du registre foncier signée par le géomètre conservateur ou la géomètre conservatrice. Là où la mensuration officielle fait encore défaut, l’auteur du projet dessinera le plan de situation en y portant les éléments correspondant à ceux d’un plan du registre foncier.
+<sup>1</sup> Le plan de situation sera, sur le territoire cantonal ayant fait l’objet de mensurations officielles, établi sur la base des données actuelles de la mensuration officielle​. Le géomètre conservateur ou la géomètre conservatrice atteste l’exactitude et l’actualité du plan de situation.
 
-<sup>2</sup> L’auteur du projet fera figurer dans le plan de situation les indications relatives à la police des constructions exigées à l’article 13; ces indications se distingueront nettement, par l’utilisation d’une couleur spéciale, des inscriptions certifiées conformes par le géomètre conservateur ou la géomètre conservatrice.
+<sup>1a</sup> Là où la mensuration officielle fait encore défaut, l’auteur du projet dessinera le plan de situation en y portant les éléments correspondant à ceux d’un plan du registre foncier.
 
-<sup>3</sup> L'organe communal compétent atteste sur le plan l'exactitude et l'exhaustivité des indications relatives à la police des constructions; dans le territoire n'ayant pas fait l'objet de mensurations cadastrales, il confirme l'exactitude du plan de situation dans son ensemble.
+<sup>2</sup> L’auteur fera figurer dans le plan de situation les indications relatives à la police des constructions exigées à l’article 13; ces indications se distingueront nettement, par l’utilisation d’une couleur spéciale, des inscriptions certifiées conformes par le géomètre conservateur ou la géomètre conservatrice.
+
+<sup>3</sup> L'organe communal compétent atteste l'exactitude et l'exhaustivité des indications relatives à la police des constructions; dans le territoire n'ayant pas fait l'objet de mensurations cadastrales, il confirme l'exactitude du plan de situation dans son ensemble.
 
 #### Art. 13
 
@@ -452,7 +454,7 @@ décrète:
 
 <sup>2</sup> Si un projet de construction soumis à l’octroi d’un permis de construire concerne uniquement des détails d’architecture intérieure, l’agencement des pièces et l’équipement fixe de monuments historiques dignes de protection, ou l’agencement des pièces de monuments historiques dignes de conservation, il suffit de procéder à une communication au service cantonal spécialisé et aux organisations privées au sens de l’article 38, alinéa 1, lettre b de la loi du 8 septembre 1999 sur la protection du patrimoine (LPat)[^27-1].
 
-<sup>3</sup> La communication aux voisins et aux voisines ainsi qu’aux organisations privées est notifiée par lettre recommandée et contient les indications énumérées à l’article 26, alinéa 3. La communication au service cantonal spécialisé s’effectue par courrier ordinaire et contient une copie des documents de la demande.
+<sup>3</sup> La communication aux voisins ainsi qu’aux organisations privées est notifiée par lettre recommandée et contient les indications énumérées à l’article 26, alinéa 3. La communication au service cantonal spécialisé s’effectue par voie électronique.
 
 <sup>4</sup> La communication n’est pas nécessaire si les voisins et les voisines concernés, les organisations privées et le service cantonal spécialisé ont donné leur accord écrit au projet. Dans ce cas, l’autorité d’octroi du permis de construire statue dans les 30 jours dès réception des pièces nécessaires et une fois en possession des autres décisions, rapports officiels et rapports techniques. L’article 2a, alinéa 2, lettre b LC est réservé.
 
@@ -468,7 +470,11 @@ décrète:
 
 **Dépôt public**
 
-<sup>1</sup> La demande, les plans et les autres pièces du dossier sont déposés publiquement auprès de l'administration communale jusqu'à l'expiration du délai d'opposition selon l'article 31.
+<sup>1</sup> La demande, les plans et les autres pièces du dossier sont déposés publiquement, sous forme papier et sous forme électronique, auprès de l'administration communale jusqu'à l'expiration du délai d'opposition selon l'article 31.
+
+<sup>2</sup> La commune garantit que les dossiers de demande de permis de construire puissent être consultés par la voie électronique. Elle prend des mesures afin que la sécurité de l’information et la protection des données soient assurées, conformément à la législation sur la protection des données.
+
+<sup>3</sup> Les documents papier sont déterminants.
 
 ## 8 Opposition, réserves de droit
 
@@ -719,7 +725,7 @@ décrète:
 
 **Déclaration spontanée en matière de police des constructions**
 
-<sup>1</sup> Avant le commencement des travaux et après leur achèvement, la personne responsable de la déclaration spontanée fournit à l’autorité communale de police des constructions des explications concernant le respect des dispositions, conditions et charges du permis de construire. Elle utilise à cet effet les formules officielles.
+<sup>1</sup> Avant le commencement des travaux et après leur achèvement, la personne responsable de la déclaration spontanée fournit à l’autorité communale de police des constructions des explications concernant le respect des dispositions, conditions et charges du permis de construire par l’intermédiaire du système de transmission cantonal.
 
 <sup>2</sup> Elle informe l’autorité communale de police des constructions lorsque les contrôles obligatoires peuvent être effectués et elle veille à ce que l’avancement des travaux n’empêche ni n’entrave le bon déroulement de ces contrôles.
 
@@ -752,9 +758,9 @@ décrète:
 
 **Infractions**
 
-<sup>1</sup> Les infractions aux dispositions du présent décret ainsi qu'aux ordonnances édictées et décisions rendues sur la base de ce dernier sont passibles des peines prévues à l'article 50 de la loi sur les constructions[^50-1] (amende de 40'000 francs au plus; dans les cas graves, de 100'000 francs au plus; dans les cas de peu de gravité, amende de 1000 francs au plus).
+<sup>1</sup> Les infractions aux dispositions du présent décret ainsi qu'aux ordonnances édictées et décisions rendues sur la base de ce dernier sont passibles des peines prévues à l'article 50 de la loi sur les constructions[^50-1].
 
-[^50-1]: RSB 721.0
+[^50-1]: RSB [721.0](https://www.belex.sites.be.ch/data/721.0/fr)
 
 ## 13 Frais
 

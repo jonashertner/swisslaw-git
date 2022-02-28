@@ -4,13 +4,13 @@ number: "725.1"
 title: Dekret über das Baubewilligungsverfahren
 short: "Baubewilligungsdekret, BewD"
 language: de
-version: 2020-08-01
-valid_until: 2022-02-28
-version_adopted: 2020-06-24
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-03
 adopted: 1994-03-22
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/725.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1919/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2385/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1919/pdf_file"
 
 (Baubewilligungsdekret, BewD)
 
-vom 22.03.1994 (Stand 01.08.2020)
+vom 22.03.1994 (Stand 01.03.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -140,7 +140,7 @@ beschliesst:
 
 **Meldepflicht für Solaranlagen**
 
-<sup>1</sup> Die Bauherrschaft meldet der Baupolizeibehörde Bauvorhaben für baubewilligungsfreie Solaranlagen spätestens sieben Arbeitstage vor Baubeginn.
+<sup>1</sup> Die Bauherrschaft meldet der Baupolizeibehörde Bauvorhaben für baubewilligungsfreie Solaranlagen spätestens sieben Arbeitstage vor Baubeginn im kantonalen Übermittlungssystem.
 
 <sup>2</sup> Die Meldung muss folgende Angaben enthalten:
 
@@ -150,7 +150,7 @@ beschliesst:
 
 <sup>3</sup> Es ist ein Plan mit Angabe des Massstabs und der Nordrichtung beizulegen.
 
-<sup>4</sup> Es ist das amtliche Formular zu verwenden.
+<sup>4</sup> …
 
 ## 3 Zuständigkeit
 
@@ -184,14 +184,14 @@ beschliesst:
 - e die Haustechnik,
 - f den energietechnischen Massnahmennachweis,
 - g die Prüfung der technischen Belange der Feuerpolizei und des Zivilschutzes,
-- h die Ausnahmebewilligung für das Bauen ausserhalb der Bauzone nach dem Bundesgesetze vom 22. Juni 1979 über die Raumplanung (Raumplanungsgesetz, RPG)[^9-2],
+- h die Ausnahmebewilligung für das Bauen ausserhalb der Bauzone nach dem Bundesgesetz vom 22. Juni 1979 über die Raumplanung (Raumplanungsgesetz, RPG)[^9-2],
 - i den Entscheid über die Zonenkonformität einer Baute ausserhalb der Bauzone,
 - k die Ausnahme nach Artikel 26 oder 28 BauG, nach Artikel 81 des Strassengesetzes vom 4. Juni 2008 (SG)[^9-3] oder nach Artikel 62 Absatz 3 des Kantonalen Energiegesetzes vom 15. Mai 2011 (KEnG)[^9-4] oder
 - l die Genehmigung des Bundesamts für Strassen (ASTRA) zu Reklamestandorten im Nationalstrassenbereich nach Artikel 99 Absatz 1 SSV.
 
 <sup>2</sup> Die Baubewilligungskompetenz der kleinen Gemeinden entfällt und die Regierungsstatthalterin oder der Regierungsstatthalter ist zuständig, wenn das Vorhaben eine Umweltverträglichkeitsprüfung erfordert oder die Baukosten eine Million Franken übersteigen. Die Direktion für Inneres und Justiz kann diesen Betrag dem Baukostenindex anpassen.
 
-<sup>3</sup> Ist sie nicht offensichtlich selbst zuständig, stellt die kleine Gemeinde der Regierungsstatthalterin oder dem Regierungsstatthalter innert sieben Arbeitstagen nach Eingang eine Kopie des Baugesuchs und des Situationsplans zu. Ist die kleine Gemeinde nicht zuständig, erklärt sich die Regierungsstatthalterin oder der Regierungsstatthalter innert sieben Arbeitstagen für zuständig.
+<sup>3</sup> Ist sie nicht offensichtlich selbst zuständig, meldet die kleine Gemeinde der Regierungsstatthalterin oder dem Regierungsstatthalter innert sieben Arbeitstagen den Eingang des Baugesuchs. Ist die kleine Gemeinde nicht zuständig, erklärt sich die Regierungsstatthalterin oder der Regierungsstatthalter innert sieben Arbeitstagen für zuständig.
 
 <sup>4</sup> Ist die kleine Gemeinde Baubewilligungsbehörde, holt sie zu Gesuchen um Ausnahmen von kantonalen Vorschriften den Amtsbericht der Regierungsstatthalterin oder des Regierungsstatthalters ein.
 
@@ -206,19 +206,19 @@ beschliesst:
 
 **Baugesuch 1. Form**
 
-<sup>1</sup> Das Baugesuch ist der Gemeindeverwaltung einzureichen.
+<sup>1</sup> Das Baugesuch ist im kantonalen Übermittlungssystem auszufüllen und zu übermitteln.
 
-<sup>2</sup> Es ist das amtliche Formular zu verwenden, das von der Bauherrschaft, von den Projektverfassenden und bei Bauten auf fremdem Boden ausserdem von der Grundeigentümerin oder vom Grundeigentümer zu unterzeichnen ist.
+<sup>2</sup> Es ist von der Bauherrschaft, von den Projektverfasserinnen und Projektverfassern und bei Bauten auf fremdem Boden ausserdem von der Grundeigentümerin oder vom Grundeigentümer zu unterzeichnen.
 
-<sup>3</sup> Dem Baugesuch sind der Situationsplan (Art. 12 und 13), die Projektpläne (Art. 14) und die allenfalls erforderlichen weiteren Unterlagen (Art. 15) beizulegen. Alle Pläne sind zu datieren und von den Gesuchstellenden sowie von den Projektverfassenden zu unterzeichnen.
+<sup>3</sup> Mit dem Baugesuch sind der Situationsplan (Art. 12 und 13), die Projektpläne (Art. 14) und die allenfalls erforderlichen weiteren Unterlagen (Art. 15) einzugeben.
 
-<sup>3a</sup> Bei allen Bauvorhaben ist das Formular Erdbebensicherheit mit den darin geforderten Beilagen einzureichen.
+<sup>3a</sup> Bei allen Bauvorhaben sind die Angaben zur Erdbebensicherheit mit den erforderlichen Beilagen einzugeben.
 
 <sup>4</sup> Setzt die Bewilligung des Bauvorhabens die Erteilung einer Ausnahme voraus, so ist in der Baueingabe darum nachzusuchen. Das Ausnahmebegehren ist zu begründen.
 
-<sup>5</sup> Bei Bauvorhaben, die der Energie- oder Umweltschutzgesetzgebung unterstehen, sind die dort verlangten Unterlagen beizulegen.
+<sup>5</sup> Bei Bauvorhaben, die der Energie- oder Umweltschutzgesetzgebung unterstehen, sind die dort verlangten Unterlagen einzugeben.
 
-<sup>6</sup> Alle Gesuchsunterlagen sind in der nötigen Anzahl, mindestens aber in zweifacher Ausfertigung, einzureichen. Die Baubewilligungsbehörde kann weitere Doppel verlangen.
+<sup>6</sup> Die Gesuchsunterlagen mit den Plänen sind in zweifacher Papierausfertigung, datiert und unterzeichnet bei der Gemeinde einzureichen. Diese sind rechtlich massgebend. Die Baubewilligungsbehörde kann weitere Doppel verlangen.
 
 #### Art. 11
 
@@ -246,11 +246,13 @@ beschliesst:
 
 **Situationsplan 1. Form**
 
-<sup>1</sup> Der Situationsplan ist im vermessenen Kantonsgebiet auf einer von der Nachführungsgeometerin oder vom Nachführungsgeometer unterzeichneten Kopie des Plans für das Grundbuch zu erstellen. Wo die amtliche Vermessung noch fehlt, zeichnen die Projektverfasserinnen und Projektverfasser den Situationsplan mit den Eintragungen, wie sie einem Plan für das Grundbuch entsprechen.
+<sup>1</sup> Der Situationsplan ist im vermessenen Kantonsgebiet auf der Grundlage von aktuellen Daten der amtlichen Vermessung zu erstellen. Die Nachführungsgeometerin oder der Nachführungsgeometer bestätigt die Richtigkeit und die Aktualität des Situationsplans.
+
+<sup>1a</sup> Wo die amtliche Vermessung noch fehlt, zeichnen die Projektverfasserinnen und Projektverfasser den Situationsplan mit den Eintragungen, wie sie einem Plan für das Grundbuch entsprechen.
 
 <sup>2</sup> Die Projektverfasserinnen und Projektverfasser haben im Situationsplan die nach Artikel 13 verlangten baupolizeilichen Angaben einzutragen. Diese sind durch die Verwendung einer besonderen Farbe deutlich von den von der Nachführungsgeometerin oder vom Nachführungsgeometer bescheinigten Eintragungen zu unterscheiden.
 
-<sup>3</sup> Das zuständige Gemeindeorgan bestätigt auf dem Plan die Richtigkeit und die Vollständigkeit der baupolizeilichen Eintragungen, im nicht vermessenen Kantonsgebiet die Richtigkeit des gesamten Situationsplans.
+<sup>3</sup> Das zuständige Gemeindeorgan bestätigt die Richtigkeit und die Vollständigkeit der baupolizeilichen Eintragungen, im nicht vermessenen Kantonsgebiet die Richtigkeit des gesamten Situationsplans.
 
 #### Art. 13
 
@@ -453,7 +455,7 @@ beschliesst:
 
 <sup>2</sup> Betrifft ein baubewilligungspflichtiges Bauvorhaben nur innere Bauteile, Raumstrukturen, feste Ausstattungen in schützenswerten Baudenkmälern oder Raumstrukturen in erhaltenswerten Baudenkmälern, genügt die Mitteilung an die zuständige kantonale Fachstelle und an die privaten Organisationen nach Artikel 38 Absatz 1 Buchstabe b des Gesetzes vom 8. September 1999 über die Denkmalpflege (Denkmalpflegegesetz, DPG[^27-1]).
 
-<sup>3</sup> Die Mitteilung an die Nachbarinnen und Nachbarn sowie an die privaten Organisationen erfolgt mit eingeschriebenem Brief und enthält die in Artikel 26 Absatz 3 genannten Angaben. Die Mitteilung an die kantonale Fachstelle erfolgt mit gewöhnlicher Post und unter Beilage einer Kopie der Gesuchsunterlagen.
+<sup>3</sup> Die Mitteilung an die Nachbarinnen und Nachbarn sowie an die privaten Organisationen erfolgt mit eingeschriebenem Brief und enthält die in Artikel 26 Absatz 3 genannten Angaben. Die Mitteilung an die kantonale Fachstelle erfolgt in elektronischer Form.
 
 <sup>4</sup> Die Mitteilung kann unterbleiben, wenn die betroffenen Nachbarinnen und Nachbarn, die privaten Organisationen sowie die kantonale Fachstelle dem Bauvorhaben schriftlich zugestimmt haben. In diesem Fall entscheidet die Baubewilligungsbehörde innert 30 Tagen nach Erhalt der nötigen Unterlagen und nach Eingang der weiteren Verfügungen, Amts- und Fachberichte. Vorbehalten bleibt Artikel 2a Absatz 2 Buchstabe b des Baugesetzes.
 
@@ -469,7 +471,11 @@ beschliesst:
 
 **Auflage**
 
-<sup>1</sup> Das Gesuch, die zugehörigen Pläne und die weiteren Unterlagen sind bis zum Ablauf der Einsprachefrist nach Artikel 31 bei der Gemeindeverwaltung zur Einsichtnahme aufzulegen.
+<sup>1</sup> Das Gesuch, die zugehörigen Pläne und die weiteren Unterlagen sind bis zum Ablauf der Einsprachefrist nach Artikel 31 bei der Gemeindeverwaltung in physischer und in elektronischer Form zur Einsichtnahme aufzulegen.
+
+<sup>2</sup> Die Gemeinde gewährleistet die Einsichtnahme auf elektronischem Weg. Sie trifft Massnahmen zur Wahrung der Informationssicherheit und des Datenschutzes nach Massgabe der Datenschutzgesetzgebung.
+
+<sup>3</sup> Massgebend sind die physischen Unterlagen.
 
 ## 8 Einsprache, Rechtsverwahrung
 
@@ -715,7 +721,7 @@ beschliesst:
 
 **Baupolizeiliche Selbstdeklaration**
 
-<sup>1</sup> Die für die baupolizeiliche Selbstdeklaration verantwortliche Person gibt der Gemeindebaupolizeibehörde unter Verwendung der amtlichen Formulare vor Beginn und nach Vollendung der Bauarbeiten Erklärungen über die Einhaltung der Baubewilligung und der darin enthaltenen Bedingungen und Auflagen ab.
+<sup>1</sup> Die für die baupolizeiliche Selbstdeklaration verantwortliche Person gibt der Gemeindebaupolizeibehörde unter Verwendung des kantonalen Übermittlungssystems vor Beginn und nach Vollendung der Bauarbeiten Erklärungen über die Einhaltung der Baubewilligung und der darin enthaltenen Bedingungen und Auflagen ab.
 
 <sup>2</sup> Sie meldet der Gemeindebaupolizeibehörde den Zeitpunkt für die durchzuführenden Pflichtkontrollen und sorgt dafür, dass der Baufortschritt die ordnungsgemässe Abwicklung dieser Kontrollen nicht verhindert oder erschwert.
 
@@ -750,9 +756,9 @@ beschliesst:
 
 **Widerhandlungen**
 
-<sup>1</sup> Widerhandlungen gegen die Bestimmungen dieses Dekrets und der gestützt darauf erlassenen Verordnungen und Einzelverfügungen werden nach den Strafbestimmungen des Artikels 50 des Baugesetzes[^50-1] geahndet (Busse bis zu 40'000 Franken, in schweren Fällen Busse bis zu 100'000 Franken, in leichten Fällen Busse bis zu 1000 Franken).
+<sup>1</sup> Widerhandlungen gegen die Bestimmungen dieses Dekrets und der gestützt darauf erlassenen Verordnungen und Einzelverfügungen werden nach den Strafbestimmungen von Artikel 50 des Baugesetzes[^50-1] geahndet.
 
-[^50-1]: BSG 721.0
+[^50-1]: BSG [721.0](https://www.belex.sites.be.ch/data/721.0/de)
 
 ## 13 Kosten
 
