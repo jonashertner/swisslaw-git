@@ -4,13 +4,13 @@ number: "169.112"
 title: Ordonnance sur le notariat
 short: ON
 language: fr
-version: 2021-06-01
-valid_until: 2022-02-28
-version_adopted: 2021-04-28
+version: 2022-03-01
+valid_until: 2025-01-31
+version_adopted: 2022-02-02
 adopted: 2006-04-26
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/169.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2279/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2542/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2279/pdf_file"
 
 (ON)
 
-du 26.04.2006 (état au 01.06.2021)
+du 26.04.2006 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -162,7 +162,7 @@ arrête:
 
 **Publication**
 
-<sup>1</sup> L’inscription d’un ou d’une notaire au registre des notaires et sa radiation sont publiées dans l’Amtsblatt des Kantons Bern et dans la Feuille officielle du Jura bernois.
+<sup>1</sup> L’inscription d’un ou d’une notaire au registre des notaires et sa radiation sont publiées dans la Feuille officielle.
 
 <sup>2</sup> Les noms et les adresses commerciales des personnes inscrites au registre des notaires sont publiés sur Internet. L’autorité de surveillance prend les mesures techniques et organisationnelles nécessaires pour assurer la sécurité de l’exploitation d’une telle publication.
 
