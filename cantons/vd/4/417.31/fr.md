@@ -4,7 +4,7 @@ number: "417.31"
 title: LOI du 01.09.2015 sur la pédagogie spécialisée (LPS)
 short: LPS
 language: fr
-version: 2019-08-01
+version: 2022-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/417.31?id=f71dd1cc-c084-4ee5-96ff-623fe2ebb557"
 ---
 
@@ -784,7 +784,7 @@ décrète
 
 <sup>1</sup> Les dispositions prévues à l'article 18 seront mises en œuvre par le département dans un délai de 3 ans à compter de l'entrée en vigueur de la présente loi.
 
-<sup>2</sup> Durant les dix premières années suivant l'entrée en vigueur de la présente loi, et de façon dégressive, le Grand Conseil peut octroyer aux communes, par voie de décret, des subventions pour compenser les coûts supplémentaires à leur charge au sens de l'article 43, alinéa 1, lettre b, liés à l'intégration d'élèves au bénéfice de mesures renforcées. Ces prestations pécuniaires seront calculées sous forme de forfait, en fonction du nombre d'enfants intégrés dans leurs classes de la scolarité obligatoire.
+<sup>2</sup> Durant les dix premières années suivant l'entrée en vigueur de la présente loi, et de façon dégressive, l'Etat octroie aux communes des subventions pour compenser les coûts supplémentaires à leur charge au sens de l'article 43, alinéa 1, lettre b, liés à l'intégration d'élèves au bénéfice de mesures renforcées. Ces prestations pécuniaires seront calculées sous forme de forfait, en fonction du nombre d'enfants intégrés dans leurs classes de la scolarité obligatoire.
 
 [^65-1]: Modif. 1 du 14.12.2021: Modification Al. 2; entrée en vigueur au 01.03.2022
 
