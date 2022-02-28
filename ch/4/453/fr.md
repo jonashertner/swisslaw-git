@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 mars 2012 sur la circulation des espèces de faune 
 short: LCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/600"
 language: fr
-version: 2022-01-01
+version: 2022-03-01
 adopted: 2012-03-16
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220101/fr"
 
 (Loi sur les espèces protégées, LCITES)
 
-du 16 mars 2012 (Etat le 1<sup>er</sup> janvier 2022)
+du 16 mars 2012 (Etat le 1<sup>er</sup> mars 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -140,18 +140,21 @@ Le Conseil fédéral peut prévoir des exceptions aux régimes de déclaration e
 
 <sup>1</sup>
 
-Le Conseil fédéral peut interdire l’importation de spécimens visés à l’art. 1, al. 2, let. b, s’il dispose d’informations fiables selon lesquelles:
+Le Conseil fédéral peut interdire l’importation de spécimens visés à l’art. 1, al. 2, let. b et c, s’il dispose d’informations fiables selon lesquelles:[^9-1]
 
 - a. ils sont prélevés dans la nature de manière illicite ou font l’objet d’un commerce illicite;
 - b. ils sont prélevés dans la nature en des quantités telles ou font l’objet d’un commerce tel que l’espèce est menacée d’extinction.
 
 <sup>2</sup>
 
-En cas d’infraction prouvée à la CITES et sur recommandation des organes de la CITES dans lesquels la Suisse est représentée, le DFI peut interdire temporairement l’importation des spécimens suivants:
+En cas d’infraction prouvée à la CITES et sur recommandation des organes de la CITES dans lesquels la Suisse est représentée, l’OSAV peut interdire temporairement l’importation des spécimens suivants:[^9-2]
 
 - a. les spécimens de certaines espèces inscrites dans les annexes I à III CITES en provenance de certains pays;
 - b. les spécimens de toutes les espèces inscrites dans les annexes I à III CITES en provenance de certains pays;
 - c. les spécimens de certaines espèces inscrites dans les annexes I à III CITES en provenance de tous les pays.
+
+[^9-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^9-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 10
 
@@ -165,13 +168,29 @@ En cas d’infraction prouvée à la CITES et sur recommandation des organes de 
 
 #### Art. 11
 
-**Obligations des entreprises commerciales**
+**Obligations des entreprises commerciales et des établissements d’élevage[^11-1]**
 
-<sup>1</sup> Quiconque fait le commerce à titre professionnel de spécimens d’espèces inscrites dans les annexes I à III CITES doit tenir un registre de ces spécimens.
+<sup>1</sup> Quiconque fait, à titre professionnel, le commerce ou l’élevage de spécimens d’espèces inscrites aux annexes I à III CITES doit tenir un registre de ces spécimens.[^11-2]
 
 <sup>2</sup> Le DFI règle les modalités. Il peut prévoir des exceptions pour les matières végétales reproduites artificiellement.
 
-<sup>3</sup> Il peut prévoir que les personnes qui font le commerce à titre professionnel de spécimens de certaines espèces inscrites aux annexes I à III CITES ont l’obligation de s’enregistrer.
+<sup>3</sup> Il peut prévoir que les personnes qui font, à titre professionnel, le commerce ou l’élevage de spécimens de certaines espèces inscrites aux annexes I à III CITES ont l’obligation de s’enregistrer.[^11-3]
+
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^11-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^11-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+
+#### Art. 11a
+
+**Obligation d’informer en cas de vente de spécimens d’espèces protégées**[^11a-1]
+
+<sup>1</sup> Les personnes qui proposent publiquement à la vente des spécimens d’espèces protégées doivent fournir des informations sur elles-mêmes et sur les spécimens concernés.
+
+<sup>2</sup> Le Conseil fédéral détermine les informations qui doivent être fournies.
+
+<sup>3</sup> Les exploitants de plateformes internet et les éditeurs de publications de la presse écrite veillent à ce que les données fournies soient complètes.
+
+[^11a-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 ## Section 3 Exécution
 
@@ -203,12 +222,18 @@ En cas d’infraction prouvée à la CITES et sur recommandation des organes de 
 
 **Mesures**
 
+<sup>1</sup>
+
 En cas de contestation, les organes de contrôle prennent une des mesures suivantes:
 
 - a. libération sous réserve;
 - b. refoulement;
 - c. séquestre;
 - d. confiscation.
+
+<sup>2</sup> Ils peuvent renoncer à prendre une mesure lorsqu’un spécimen fait déjà l’objet d’une mesure prise en vertu de la législation sur les épizooties ou sur les denrées alimentaires.[^14-1]
+
+[^14-1]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 15
 
@@ -221,11 +246,14 @@ Les organes de contrôle séquestrent les spécimens d’espèces protégées da
 - a. les spécimens font l’objet d’une contestation et leur libération sous réserve ou leur refoulement n’est pas possible;
 - b. les spécimens font l’objet d’une contestation et leur refoulement n’est pas conciliable avec la protection des animaux;
 - c. les organes de contrôle ont des raisons fondées de soupçonner que les spécimens ont été mis en circulation de manière illicite;
-- d. les spécimens destinés à l’importation, au transit ou à l’exportation ne sont pas accompagnés des autorisations ou certificats nécessaires;
+- d.[^15-1] les spécimens destinés à l’importation, au transit ou à l’exportation ne sont pas accompagnés des autorisations ou certificats nécessaires et ne font pas l’objet d’une décision de refoulement;
 - e. les spécimens déclarés ne leur sont pas présentés;
 - f. les spécimens contrôlés à l’intérieur du pays ne sont pas accompagnés des documents valables ou de la preuve qu’ils ont été mis en circulation légalement.
 
-<sup>2</sup> Le Conseil fédéral règle l’entreposage ou l’hébergement des spécimens séquestrés.
+<sup>2</sup> Le Conseil fédéral règle l’entreposage ou l’hébergement des spécimens séquestrés. Il détermine les informations qui doivent être communiquées aux personnes responsables et aux tiers sur l’entreposage ou l’hébergement des spécimens vivants séquestrés.[^15-2]
+
+[^15-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^15-2]: Phrase introduite par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 16
 
@@ -233,14 +261,23 @@ Les organes de contrôle séquestrent les spécimens d’espèces protégées da
 
 <sup>1</sup>
 
-Les spécimens séquestrés sont confisqués par les organes de contrôle dans les cas suivants:
+Les spécimens d’espèces protégées séquestrés sont confisqués par les organes de contrôle dans les cas suivants:
+
+- a. les documents ou les preuves manquants ne leur sont pas présentés dans le délai imparti;
+- b. les spécimens déclarés ne leur sont pas présentés dans le délai imparti.[^16-1]
+
+<sup>1bis</sup>
+
+Les organes de contrôle peuvent confisquer des spécimens d’espèces protégées sans les avoir séquestrés au préalable dans les cas suivants:
 
 - a. aucune autorisation ni certificat ne peut être délivré pour l’importation, le transit ou l’exportation de ces spécimens;
-- b. les documents manquants ne sont pas remis ou les preuves manquantes ne sont pas présentées dans le délai imparti;
-- c. les spécimens déclarés ne leur sont pas présentés dans le délai imparti;
-- d. les spécimens sont sans maître.
+- b. les spécimens ont été importés sans autorisation alors que la personne responsable savait manifestement qu’une autorisation était nécessaire;
+- c. les spécimens sont sans maître.[^16-2]
 
 <sup>2</sup> Les spécimens confisqués peuvent être renvoyés dans le pays exportateur, conservés, détruits ou aliénés. Le Conseil fédéral règle les modalités.
+
+[^16-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^16-2]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 17
 
@@ -322,7 +359,12 @@ L’OSAV et les autres organes de contrôle se transmettent les données nécess
 
 <sup>2</sup> L’effet suspensif de l’opposition peut être retiré.
 
-<sup>3</sup> Le délai d’opposition est de 10 jours.
+<sup>3</sup> Le délai d’opposition est de 30 jours.[^24-1]
+
+<sup>4</sup> La procédure d’opposition est gratuite, sauf en cas d’opposition téméraire.[^24-2]
+
+[^24-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^24-2]: Introduit par le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 25
 
@@ -336,27 +378,31 @@ L’OSAV et les autres organes de contrôle se transmettent les données nécess
 
 #### Art. 26
 
-**Contraventions et délits**
+**Infractions**[^26-1]
 
 <sup>1</sup>
 
-Est puni d’une amende de 40 000 francs au plus quiconque enfreint intentionnellement:
+Est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire quiconque, intentionnellement:
 
-- a. les art. 6, al. 1, 7, al. 1, ou 11, al. 1;
-- b. les dispositions édictées par le Conseil fédéral ou le DFI en application des art. 7, al. 2, 9 ou 11, al. 3, et dont la violation est déclarée punissable.
+- a. enfreint les art. 6, al. 1 (déclaration), 7, al. 1 (autorisation), ou 11, al. 1 (obligation des entreprises commerciales et des établissements d’élevage de tenir un registre des spécimens);
+- b. enfreint les dispositions édictées par le Conseil fédéral, le DFI ou l’OSAV en application des art. 7, al. 2 (autorisation), 9 (interdiction d’importer) ou 11, al. 3 (obligation pour les entreprises commerciales et les établissements d’élevage de s’enregistrer);
+- c. possède, propose à la vente ou cède, à titre gratuit ou onéreux, des spécimens importés sans l’autorisation prévue à l’art. 7, al. 1.
 
 <sup>2</sup>
 
-Dans les cas graves, la peine est une peine privative de liberté de trois ans au plus ou une peine pécuniaire. Le cas est grave notamment dans les cas suivants:
+La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire:
 
-- a. l’infraction porte sur une quantité telle de spécimens d’espèces inscrites dans l’annexe I CITES que l’espèce est menacée d’extinction;
-- b. l’infraction est commise par métier ou de manière répétée.
+- a. si l’infraction aux art. 6, al. 1, 7, al. 1 ou 2, et 9, ou celle visée à l’al. 1, let. c, porte sur un grand nombre de spécimens d’espèces inscrites aux annexes I et II CITES;
+- b. si l’infraction est commise par métier;
+- c. si l’auteur agit en qualité d’affilié à une bande formée pour commettre de façon systématique des infractions à la présente loi.
 
-<sup>3</sup> La tentative, la complicité et l’instigation sont punissables.
+<sup>3</sup> Si l’auteur agit par négligence, la peine est une amende de 20 000 francs au plus.
 
-<sup>4</sup> Si l’auteur agit par négligence, la peine est une amende de 20 000 francs au plus.
+<sup>4</sup> Dans les cas de peu de gravité au sens des al. 1 et 3, la peine est l’amende.
 
-<sup>5</sup> Est puni d’une amende quiconque enfreint d’autres dispositions d’exécution édictées par le Conseil fédéral ou le DFI dont la violation est déclarée punissable.
+<sup>5</sup> Est puni d’une amende quiconque enfreint intentionnellement ou par négligence une disposition d’exécution du Conseil fédéral ou du DFI assortie de la menace de la peine prévue au présent alinéa.
+
+[^26-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 7703](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 27
 

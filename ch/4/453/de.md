@@ -4,11 +4,11 @@ title: Bundesgesetz vom 16. März 2012 über den Verkehr mit Tieren und Pflanzen
 short: BGCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/600"
 language: de
-version: 2022-01-01
+version: 2022-03-01
 adopted: 2012-03-16
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220101/de"
 
 (BGCITES)
 
-vom 16. März 2012 (Stand am 1. Januar 2022)
+vom 16. März 2012 (Stand am 1. März 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -59,7 +59,7 @@ Das Eidgenössische Departement des Innern (EDI) bestimmt in einer Verordnung, w
 In diesem Gesetz bedeuten:
 
 - a. *Exemplare geschützter Arten:* lebende und tote Tiere und Pflanzen geschützter Arten, ohne Weiteres erkennbare Teile von solchen Tieren und Pflanzen und daraus hergestellte Erzeugnisse sowie Teile oder Erzeugnisse, bei denen aus einem Beleg, der Verpackung, einem Warenzeichen oder einer Aufschrift hervorgeht, dass es sich um Teile oder Erzeugnisse von Tieren oder Pflanzen geschützter Arten handelt;
-- b. *Verkehr:* das entgeltliche und unentgeltliche Veräussern und Annehmen, das Ein-, Durch- und Ausführen, das Anbieten, das Ausstellen und der Besitz von Exemplaren;
+- b.[^3-1] *Verkehr:* das entgeltliche und unentgeltliche Weitergeben und Annehmen, das Ein-, Durch- und Ausführen, das Anbieten, das Ausstellen und der Besitz von Exemplaren;
 - c.
 
   *verantwortliche Personen:*
@@ -70,6 +70,8 @@ In diesem Gesetz bedeuten:
 - d. *Einfuhr:* das Verbringen von Exemplaren in das Zollgebiet und die Zollausschlussgebiete der Schweiz;
 - e. *Durchfuhr:* das Befördern von Exemplaren durch das Zollgebiet und die Zollausschlussgebiete der Schweiz;
 - f. *Ausfuhr:* das Verbringen von Exemplaren aus dem Zollgebiet und den Zollausschlussgebieten der Schweiz.
+
+[^3-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 4
 
@@ -140,18 +142,21 @@ Der Bundesrat kann Ausnahmen von der Anmelde- und der Bewilligungspflicht vorseh
 
 <sup>1</sup>
 
-Der Bundesrat kann die Einfuhr von Exemplaren nach Artikel 1 Absatz 2 Buchstabe b verbieten, wenn zuverlässige Angaben vorliegen, dass sie:
+Der Bundesrat kann die Einfuhr von Exemplaren nach Artikel 1 Absatz 2 Buchstaben b und c verbieten, wenn zuverlässige Angaben vorliegen, dass sie:[^9-1]
 
 - a. rechtswidrig der Natur entnommen werden oder rechtswidrig mit ihnen gehandelt wird;
 - b. in einem Mass der Natur entnommen werden oder in einem Mass mit ihnen gehandelt wird, das die Art in ihrem Bestand gefährdet.
 
 <sup>2</sup>
 
-Das EDI kann bei nachgewiesener Verletzung des CITES auf Empfehlung der Organe des CITES, in denen die Schweiz vertreten ist, vorübergehend die Einfuhr verbieten:
+Das BLV kann bei nachgewiesener Verletzung des CITES auf Empfehlung der Organe des CITES, in denen die Schweiz vertreten ist, vorübergehend die Einfuhr verbieten:[^9-2]
 
 - a. von Exemplaren bestimmter Arten nach den Anhängen I–III CITES aus bestimmten Ländern;
 - b. der Exemplare aller Arten nach den Anhängen I–III CITES aus bestimmten Ländern;
 - c. von Exemplaren bestimmter Arten nach den Anhängen I–III CITES aus allen Ländern.
+
+[^9-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^9-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 10
 
@@ -165,13 +170,29 @@ Das EDI kann bei nachgewiesener Verletzung des CITES auf Empfehlung der Organe d
 
 #### Art. 11
 
-**Pflichten von Handelsbetrieben**
+**Pflichten von Handels- und Zuchtbetrieben[^11-1]**
 
-<sup>1</sup> Wer mit Exemplaren von Arten nach den Anhängen I–III CITES gewerbsmässig handelt, muss eine Bestandeskontrolle führen.
+<sup>1</sup> Wer mit Exemplaren von Arten nach den Anhängen I–III CITES gewerbsmässig handelt oder diese gewerbsmässig züchtet, muss eine Bestandeskontrolle führen.[^11-2]
 
 <sup>2</sup> Das EDI regelt die Einzelheiten. Es kann für künstlich vermehrtes Pflanzenmaterial Ausnahmen von der Pflicht zur Führung einer Bestandeskontrolle vorsehen.
 
-<sup>3</sup> Es kann eine Registrierungspflicht vorsehen für Personen, die mit Exemplaren bestimmter Arten nach den Anhängen I–III CITES gewerbsmässig handeln.
+<sup>3</sup> Es kann eine Registrierungspflicht vorsehen für Personen, die mit Exemplaren bestimmter Arten nach den Anhängen I–III CITES gewerbsmässig handeln oder diese gewerbsmässig züchten.[^11-3]
+
+[^11-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^11-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^11-3]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+
+#### Art. 11a
+
+**Informationspflicht beim Verkauf von Exemplaren geschützter Arten**[^11a-1]
+
+<sup>1</sup> Personen, die Exemplare geschützter Arten öffentlich anbieten, müssen über sich und die angebotenen Exemplare informieren.
+
+<sup>2</sup> Der Bundesrat legt fest, welche Informationen anzugeben sind.
+
+<sup>3</sup> Die Betreiberinnen und Betreiber von Internetplattformen und die Verlegerinnen und Verleger von Presseerzeugnissen sorgen für die Vollständigkeit der Angaben.
+
+[^11a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 ## 3. Abschnitt: Vollzug
 
@@ -203,12 +224,18 @@ Das EDI kann bei nachgewiesener Verletzung des CITES auf Empfehlung der Organe d
 
 **Massnahmen**
 
+<sup>1</sup>
+
 Bei Beanstandungen verfügen die Kontrollorgane eine der folgenden Massnahmen:
 
 - a. Freigabe unter Vorbehalt;
 - b. Rückweisung;
 - c. Beschlagnahme;
 - d. Einziehung.
+
+<sup>2</sup> Sie können auf eine Massnahme verzichten, wenn für ein Exemplar bereits gestützt auf die Tierseuchen- oder die Lebensmittelgesetzgebung eine Massnahme verfügt wird.[^14-1]
+
+[^14-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 15
 
@@ -221,11 +248,14 @@ Die Kontrollorgane beschlagnahmen Exemplare geschützter Arten, wenn:
 - a. bei einer Beanstandung die Freigabe der Exemplare unter Vorbehalt oder die Rückweisung nicht möglich ist;
 - b. bei einer Beanstandung die Rückweisung aus Gründen des Tierschutzes nicht vertretbar ist;
 - c. ein begründeter Verdacht besteht, dass Exemplare rechtswidrig im Verkehr sind;
-- d. bei der Ein-, Durch- oder Ausfuhr die vorgeschriebenen Bewilligungen oder Bescheinigungen fehlen;
+- d.[^15-1] bei der Ein-, Durch- oder Ausfuhr die vorgeschriebenen Bewilligungen oder Bescheinigungen fehlen und keine Rückweisung verfügt wird;
 - e. angemeldete Exemplare den Kontrollorganen nicht vorgelegt werden; oder
 - f. bei einer Kontrolle im Inland keine gültigen Dokumente vorliegen oder ein Nachweis des rechtmässigen Verkehrs fehlt.
 
-<sup>2</sup> Der Bundesrat regelt die Lagerung beschlagnahmter Exemplare und die Unterbringung beschlagnahmter lebender Tiere und Pflanzen.
+<sup>2</sup> Der Bundesrat regelt die Lagerung beschlagnahmter Exemplare und die Unterbringung beschlagnahmter lebender Tiere und Pflanzen. Er bestimmt, welche Informationen den verantwortlichen Personen sowie Dritten über die Unterbringung der beschlagnahmten lebenden Exemplare weitergegeben werden müssen.[^15-2]
+
+[^15-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^15-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 16
 
@@ -233,14 +263,23 @@ Die Kontrollorgane beschlagnahmen Exemplare geschützter Arten, wenn:
 
 <sup>1</sup>
 
-Die Kontrollorgane ziehen beschlagnahmte Exemplare ein, wenn:
+Die Kontrollorgane ziehen beschlagnahmte Exemplare geschützter Arten ein, wenn ihnen:
+
+- a. fehlende Dokumente oder Nachweise nicht innert der gesetzten Frist vorgelegt werden; oder
+- b. angemeldete Exemplare nicht innert der gesetzten Frist vorgelegt werden.[^16-1]
+
+<sup>1bis</sup>
+
+Sie können Exemplare geschützter Arten ohne vorgängige Beschlagnahme einziehen, wenn:
 
 - a. für die Ein-, Durch- oder Ausfuhr dieser Exemplare keine Bewilligungen oder Bescheinigungen ausgestellt werden dürfen;
-- b. fehlende Dokumente oder Nachweise nicht innert der gesetzten Frist vorgelegt werden;
-- c. angemeldete Exemplare den Kontrollorganen nicht innert der gesetzten Frist vorgelegt werden; oder
-- d. es sich um herrenloses Gut handelt.
+- b. die Exemplare ohne Bewilligung eingeführt wurden, obwohl die verantwortliche Person die Bewilligungspflicht offenkundig kannte; oder
+- c. es sich um herrenloses Gut handelt.[^16-2]
 
 <sup>2</sup> Eingezogene Exemplare werden entweder an den Ausfuhrstaat zurückgesandt oder verwahrt, entsorgt oder veräussert. Der Bundesrat regelt die Einzelheiten.
+
+[^16-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^16-2]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 17
 
@@ -322,7 +361,12 @@ Das BLV und die weiteren Kontrollorgane geben einander die Daten weiter, die fü
 
 <sup>2</sup> Der Einsprache kann die aufschiebende Wirkung entzogen werden.
 
-<sup>3</sup> Die Einsprachefrist beträgt 10 Tage.
+<sup>3</sup> Die Einsprachefrist beträgt 30 Tage.[^24-1]
+
+<sup>4</sup> Das Einspracheverfahren ist kostenlos, sofern es sich nicht um eine mutwillige Einsprache handelt.[^24-2]
+
+[^24-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^24-2]: Eingefügt durch Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 25
 
@@ -336,27 +380,31 @@ Das BLV und die weiteren Kontrollorgane geben einander die Daten weiter, die fü
 
 #### Art. 26
 
-**Übertretungen und Vergehen**
+**Widerhandlungen**[^26-1]
 
 <sup>1</sup>
 
-Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich zuwiderhandelt:
+Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird bestraft, wer vorsätzlich:
 
-- a. den Bestimmungen der Artikel 6 Absatz 1, 7 Absatz 1 und 11 Absatz 1;
-- b. den Vorschriften, die der Bundesrat oder das EDI gestützt auf die Artikel 7 Absatz 2, 9 und 11 Absatz 3 erlässt und deren Missachtung für strafbar erklärt worden ist.
+- a. Artikel 6 Absatz 1 (Anmeldepflicht), 7 Absatz 1 (Bewilligungspflicht) oder 11 Absatz 1 (Pflicht von Handels- und Zuchtbetrieben zur Führung einer Bestandeskontrolle) zuwiderhandelt;
+- b. Vorschriften zuwiderhandelt, die der Bundesrat, das EDI oder das BLV gestützt auf Artikel 7 Absatz 2 (Bewilligungspflicht), 9 (Einfuhrverbote) oder 11 Absatz 3 (Registrierungspflicht von Handels- und Zuchtbetrieben) erlassen;
+- c. Exemplare, die ohne Bewilligung nach Artikel 7 Absatz 1 eingeführt worden sind, besitzt, anbietet oder entgeltlich oder unentgeltlich weitergibt.
 
 <sup>2</sup>
 
-In schweren Fällen ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. Ein schwerer Fall liegt insbesondere vor, wenn:
+Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe, wenn die Widerhandlung:
 
-- a. die Widerhandlung eine bestandesgefährdende Menge Exemplare von Arten nach Anhang I CITES betrifft;
-- b. Vorschriften gewerbs- oder gewohnheitsmässig verletzt werden.
+- a. gegen Artikel 6 Absatz 1, 7 Absatz 1 oder 2 oder 9 oder die Widerhandlung nach Absatz 1 Buchstabe c eine grosse Anzahl von Exemplaren von Arten nach den Anhängen I und II CITES betrifft;
+- b. gewerbsmässig begangen wird;
+- c. von der Täterin oder dem Täter als Mitglied einer Bande begangen wird, die sich zur fortgesetzten Ausübung von Widerhandlungen gegen dieses Gesetz zusammengefunden hat.
 
-<sup>3</sup> Versuch, Gehilfenschaft und Anstiftung sind strafbar.
+<sup>3</sup> Handelt die Täterin oder der Täter fahrlässig, so ist die Strafe Busse bis zu 20 000 Franken.
 
-<sup>4</sup> Handelt die Täterin oder der Täter fahrlässig, so ist die Strafe Busse bis zu 20 000 Franken.
+<sup>4</sup> In leichten Fällen nach den Absätzen 1 und 3 ist die Strafe Busse.
 
-<sup>5</sup> Mit Busse wird bestraft, wer gegen weitere Ausführungsvorschriften des Bundesrats oder des EDI verstösst, deren Missachtung für strafbar erklärt worden ist.
+<sup>5</sup> Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig gegen Ausführungsvorschriften des Bundesrats oder des EDI verstösst, deren Übertretung unter Hinweis auf die Strafdrohung dieses Absatzes für strafbar erklärt worden ist.
+
+[^26-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. März 2022 ([AS 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [BBl 2020 7965](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 27
 
@@ -414,7 +462,7 @@ Anhang 1
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annex1-lvlu1-1]
+…[^annex1-lvlu1-1]
 
 [^annex1-lvlu1-1]: Die Änd. können unter [AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)konsultiert werden.
 
@@ -428,6 +476,6 @@ Anhang 2
 
 [^annex2-lvlu1-1]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
-...[^annex2-lvlu1-2]
+…[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-2]: Die Änd. kann unter [AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)konsultiert werden.

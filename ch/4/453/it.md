@@ -4,11 +4,11 @@ title: Legge federale del 16 marzo 2012 sulla circolazione delle specie di fauna
 short: LF-CITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/600"
 language: it
-version: 2022-01-01
+version: 2022-03-01
 adopted: 2012-03-16
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220101/it"
 
 (LF-CITES)
 
-del 16 marzo 2012 (Stato 1° gennaio 2022)
+del 16 marzo 2012 (Stato 1° marzo 2022) (Stato 1° marzo 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -140,18 +140,21 @@ Il Consiglio federale può prevedere deroghe all’obbligo di dichiarazione e di
 
 <sup>1</sup>
 
-Il Consiglio federale può vietare l’importazione di esemplari di cui all’articolo 1 capoverso 2 lettera b se dispone di informazioni affidabili secondo cui essi:
+Il Consiglio federale può vietare l’importazione di esemplari di cui all’articolo 1 capoverso 2 lettere b e c se dispone di informazioni affidabili secondo cui essi:[^9-1]
 
 - a. sono prelevati illegalmente dall’ambiente naturale o sono oggetto di commercio illegale;
 - b. sono prelevati dall’ambiente naturale o sono oggetto di commercio in una quantità tale da minacciare di estinzione la specie.
 
 <sup>2</sup>
 
-In caso di comprovata violazione della CITES e su raccomandazione degli organi della CITES in cui è rappresentata la Svizzera, il DFI può vietare temporaneamente l’importazione di:
+In caso di comprovata violazione della CITES e su raccomandazione degli organi della CITES in cui è rappresentata la Svizzera, l’USAV può vietare temporaneamente l’importazione di:[^9-2]
 
 - a. esemplari di determinate specie di cui agli allegati I–III CITES provenienti da determinati Paesi;
 - b. esemplari di tutte le specie di cui agli allegati I–III CITES provenienti da determinati Paesi;
 - c. esemplari di determinate specie di cui agli allegati I–III CITES provenienti da qualsiasi Paese.
+
+[^9-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^9-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 10
 
@@ -165,13 +168,29 @@ In caso di comprovata violazione della CITES e su raccomandazione degli organi d
 
 #### Art. 11
 
-**Obblighi delle aziende commerciali**
+**Obblighi delle aziende commerciali e delle aziende di allevamento[^11-1]**
 
-<sup>1</sup> Chiunque commerci a titolo professionale esemplari delle specie di cui agli allegati I–III CITES deve tenere un registro di controllo degli effettivi.
+<sup>1</sup> Chiunque, a titolo professionale, commerci o allevi esemplari delle specie di cui agli allegati I–III CITES deve tenere un registro di controllo degli effettivi.[^11-2]
 
 <sup>2</sup> Il DFI disciplina i dettagli. Può prevedere deroghe all’obbligo di tenere un registro di controllo degli effettivi per il materiale vegetale riprodotto artificialmente.
 
-<sup>3</sup> Il DFI può prevedere un obbligo di registrazione per le persone che commerciano a titolo professionale esemplari di determinate specie di cui agli allegati I–III CITES.
+<sup>3</sup> Può prevedere un obbligo di registrazione per le persone che, a titolo professionale, commerciano o allevano esemplari di determinate specie di cui agli allegati I–III CITES.[^11-3]
+
+[^11-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^11-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^11-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+
+#### Art. 11a
+
+**Obbligo di informazione in caso di vendita di esemplari di specie protette**[^11a-1]
+
+<sup>1</sup> Le persone che offrono in vendita al pubblico esemplari di specie protette devono fornire informazioni su sé stesse e sugli esemplari offerti.
+
+<sup>2</sup> Il Consiglio federale stabilisce quali informazioni devono essere fornite.
+
+<sup>3</sup> I gestori di piattaforme Internet e gli editori della carta stampata provvedono alla completezza dei dati.
+
+[^11a-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 ## Sezione 3: Esecuzione
 
@@ -203,12 +222,18 @@ In caso di comprovata violazione della CITES e su raccomandazione degli organi d
 
 **Misure**
 
+<sup>1</sup>
+
 Se riscontrano irregolarità, gli organi di controllo dispongono una delle seguenti misure:
 
 - a. rilascio con riserva;
 - b. respingimento;
 - c. sequestro;
 - d. confisca.
+
+<sup>2</sup> Possono rinunciare a una misura se per un esemplare è stata già disposta una misura in virtù della legislazione sulle epizoozie o sulle derrate alimentari.[^14-1]
+
+[^14-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 15
 
@@ -221,11 +246,14 @@ Gli organi di controllo sequestrano gli esemplari di specie protette se:
 - a. in presenza di irregolarità, il rilascio degli esemplari con riserva o il respingimento non è possibile;
 - b. in presenza di irregolarità, un respingimento non è ragionevolmente sostenibile per motivi inerenti alla protezione degli animali;
 - c. vi è motivo di sospettare che determinati esemplari si trovino illegalmente in circolazione;
-- d. all’atto dell’importazione, del transito o dell’esportazione mancano le autorizzazioni o i certificati prescritti;
+- d.[^15-1] all’atto dell’importazione, del transito o dell’esportazione mancano le autorizzazioni o i certificati prescritti e non è stato disposto un respingimento;
 - e. gli esemplari dichiarati non sono loro esibiti; oppure
 - f. al momento del controllo all’interno del Paese mancano documenti validi o non è comprovata la legalità della circolazione.
 
-<sup>2</sup> Il Consiglio federale disciplina l’immagazzinamento di esemplari sequestrati nonché la custodia di piante e animali vivi sequestrati.
+<sup>2</sup> Il Consiglio federale disciplina l’immagazzinamento di esemplari sequestrati nonché la custodia di piante e animali vivi sequestrati. Determina quali informazioni concernenti la custodia degli esemplari vivi sequestrati devono essere trasmesse alle persone responsabili e a terzi.[^15-2]
+
+[^15-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^15-2]: Per. introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 16
 
@@ -233,14 +261,23 @@ Gli organi di controllo sequestrano gli esemplari di specie protette se:
 
 <sup>1</sup>
 
-Gli organi di controllo confiscano gli esemplari sequestrati se:
+Gli organi di controllo confiscano gli esemplari di specie protette sequestrati se:
 
-- a. non possono essere rilasciati autorizzazioni o certificati per l’importazione, il transito o l’esportazione di tali esemplari;
-- b. i documenti o le prove mancanti non sono esibiti entro il termine impartito;
-- c. gli esemplari dichiarati non sono loro esibiti entro il termine impartito; oppure
-- d. sono un bene senza padrone.
+- a. i documenti o le prove mancanti non sono loro esibiti entro il termine impartito; oppure
+- b. gli esemplari dichiarati non sono loro esibiti entro il termine impartito.[^16-1]
+
+<sup>1bis</sup>
+
+Possono confiscare esemplari di specie protette senza sequestro preliminare se:
+
+- a. per l’importazione, il transito o l’esportazione di tali esemplari non possono essere rilasciati autorizzazioni o certificati;
+- b. gli esemplari sono stati importati senza autorizzazione nonostante la persona responsabile fosse palesemente a conoscenza dell’obbligo di autorizzazione; oppure
+- c. sono un bene senza padrone.[^16-2]
 
 <sup>2</sup> Gli esemplari confiscati sono rispediti al Paese d’esportazione oppure conservati, eliminati o alienati. Il Consiglio federale disciplina i dettagli.
+
+[^16-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^16-2]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 17
 
@@ -312,6 +349,13 @@ L’USAV e gli altri organi di controllo si trasmettono i dati necessari all’a
 
 <sup>2</sup> I dati possono essere comunicati mediante procedura di richiamo se la legislazione estera corrispondente garantisce un’adeguata tutela della personalità delle persone interessate. Il Consiglio federale designa gli Stati nonché le organizzazioni sovranazionali e internazionali che garantiscono tale tutela.
 
+<sup>3</sup> Il termine di opposizione è di 30 giorni.[^23-1]
+
+<sup>4</sup> La procedura di opposizione è gratuita, salvo se si tratta di un’opposizione temeraria.[^23-2]
+
+[^23-1]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^23-2]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+
 ## Sezione 6: Rimedi giuridici
 
 #### Art. 24
@@ -322,7 +366,12 @@ L’USAV e gli altri organi di controllo si trasmettono i dati necessari all’a
 
 <sup>2</sup> L’effetto sospensivo di un’opposizione può essere revocato.
 
-<sup>3</sup> Il termine di opposizione è di dieci giorni.
+<sup>3</sup> Il termine di opposizione è di 30 giorni.[^24-1]
+
+<sup>4</sup> La procedura di opposizione è gratuita, salvo se si tratta di un’opposizione temeraria.[^24-2]
+
+[^24-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
+[^24-2]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 25
 
@@ -336,27 +385,31 @@ L’USAV e gli altri organi di controllo si trasmettono i dati necessari all’a
 
 #### Art. 26
 
-**Contravvenzioni e delitti**
+**Infrazioni**[^26-1]
 
 <sup>1</sup>
 
-È punito con la multa sino a 40 000 franchi chiunque intenzionalmente viola:
+È punito con una pena detentiva sino a un anno o con una pena pecuniaria chiunque intenzionalmente:
 
-- a. le disposizioni degli articoli 6 capoverso 1, 7 capoverso 1 e 11 capoverso 1;
-- b. le prescrizioni emanate dal Consiglio federale o dal DFI in virtù degli articoli 7 capoverso 2, 9 e 11 capoverso 3 e la cui inosservanza è stata dichiarata punibile.
+- a. viola l’articolo 6 capoverso 1 (obbligo di dichiarazione), 7 capoverso 1 (obbligo di autorizzazione) o 11 capoverso 1 (obbligo delle aziende commerciali e delle aziende di allevamento di tenere un registro di controllo degli effettivi);
+- b. viola le prescrizioni emanate dal Consiglio federale, dal DFI o dall’USAV in virtù dell’articolo 7 capoverso 2 (obbligo di autorizzazione), 9 (divieti d’importazione) o 11 capoverso 3 (obbligo di registrazione delle aziende commerciali e delle aziende di allevamento);
+- c. possiede, offre in vendita o aliena a terzi a titolo oneroso o gratuito esemplari importati senza l’autorizzazione secondo l’articolo 7 capoverso 1.
 
 <sup>2</sup>
 
-Nei casi gravi, la pena è una pena detentiva sino a tre anni o una pena pecuniaria. Vi è caso grave segnatamente se:
+La pena è una pena detentiva sino a cinque anni o una pena pecuniaria se l’infrazione:
 
-- a. l’infrazione riguarda una quantità tale di esemplari di una delle specie di cui all’allegato I CITES da minacciare di estinzione detta specie;
-- b. l’infrazione è commessa per mestiere o per abitudine.
+- a. all’articolo 6 capoverso 1, 7 capoversi 1 o 2 o 9 oppure secondo il capoverso 1 lettera c riguarda un gran numero di esemplari di specie di cui agli allegati I e II CITES;
+- b. è stata commessa per mestiere;
+- c. è stata commessa dall’autore come membro di una banda costituitasi per contravvenire sistematicamente alla presente legge.
 
-<sup>3</sup> Il tentativo, la complicità e l’istigazione sono punibili.
+<sup>3</sup> Se l’autore ha agito per negligenza la pena è della multa sino a 20 000 franchi.
 
-<sup>4</sup> Se l’autore ha agito per negligenza, la pena è della multa sino a 20 000 franchi.
+<sup>4</sup> Nei casi di lieve entità secondo i capoversi 1 e 3 la pena è della multa.
 
-<sup>5</sup> È punito con la multa chiunque viola altre prescrizioni d’esecuzione del Consiglio federale o del DFI la cui inosservanza è stata dichiarata punibile.
+<sup>5</sup> È punito con la multa chiunque viola intenzionalmente o per negligenza prescrizioni d’esecuzione del Consiglio federale o del DFI la cui violazione è dichiarata punibile sotto comminatoria della pena prevista dal presente capoverso.
+
+[^26-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021, in vigore dal 1° mar. 2022 ([RU 2022 128](https://fedlex.data.admin.ch/eli/oc/2022/128); [FF 2020 6987](https://fedlex.data.admin.ch/eli/fga/2020/2062)).
 
 #### Art. 27
 
