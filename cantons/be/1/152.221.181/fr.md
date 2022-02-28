@@ -4,13 +4,13 @@ number: "152.221.181"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'instruction publique et de la culture *"
 short: "Ordonnance d'organisation INC, OO INC"
 language: fr
-version: 2022-01-01
-valid_until: 2022-02-28
-version_adopted: 2021-11-10
+version: 2022-03-01
+valid_until: 2022-04-30
+version_adopted: 2022-02-02
 adopted: 2002-11-27
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.181"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2443/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2540/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2443/pdf_file"
 
 (Ordonnance d'organisation INC, OO INC)
 
-du 27.11.2002 (état au 01.01.2022)
+du 27.11.2002 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -78,11 +78,11 @@ arrête:
 
 **Conférence de coordination francophone**
 
-<sup>1</sup> La Conférence de coordination francophone est l’organe consultatif pour toutes les affaires qui concernent principalement la partie francophone du canton. Elle est l’unité administrative francophone au sens de l’article 48, alinéa 2 de la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone du district bilingue de Bienne (loi sur le statut particulier, LStP)[^5-1].
+<sup>1</sup> La Conférence de coordination francophone est l’organe consultatif pour toutes les affaires qui concernent principalement la partie francophone du canton. Elle est l’unité administrative francophone au sens de l’article 48, alinéa 1, lettre b de la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone de l'arrondissement administratif de Biel/Bienne (loi sur le statut particulier, LStP)[^5-1].
 
 <sup>2</sup> Elle se compose de représentants et de représentantes du Secrétariat général et des offices.
 
-[^5-1]: RSB 102.1
+[^5-1]: RSB [102.1](https://www.belex.sites.be.ch/data/102.1/fr)
 
 ## 3 Conduite
 

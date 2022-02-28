@@ -4,13 +4,13 @@ number: "152.221.181"
 title: Verordnung über die Organisation und die Aufgaben der Bildungs- und Kulturdirektion
 short: "Organisationsverordnung BKD, OrV BKD"
 language: de
-version: 2022-01-01
-valid_until: 2022-02-28
-version_adopted: 2021-11-10
+version: 2022-03-01
+valid_until: 2022-04-30
+version_adopted: 2022-02-02
 adopted: 2002-11-27
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.181"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2443/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2540/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2443/pdf_file"
 
 (Organisationsverordnung BKD, OrV BKD)
 
-vom 27.11.2002 (Stand 01.01.2022)
+vom 27.11.2002 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -78,11 +78,11 @@ beschliesst:
 
 **Französischsprachige Koordinationskonferenz**
 
-<sup>1</sup> Die Französischsprachige Koordinationskonferenz ist das beratende Organ für alle wichtigen Geschäfte, die vorwiegend den französischsprachigen Kantonsteil betreffen. Sie ist die französischsprachige Organisationseinheit im Sinne von Artikel 48 Absatz 2 des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel (Sonderstatutsgesetz, SStG)[^5-1].
+<sup>1</sup> Die Französischsprachige Koordinationskonferenz ist das beratende Organ für alle wichtigen Geschäfte, die vorwiegend den französischsprachigen Kantonsteil betreffen. Sie ist die französischsprachige Organisationseinheit im Sinne von Artikel 48 Absatz 1 Buchstabe b des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne (Sonderstatutsgesetz, SStG)[^5-1].
 
 <sup>2</sup> Sie setzt sich zusammen aus Vertretungen des Generalsekretariats und der Ämter.
 
-[^5-1]: BSG 102.1
+[^5-1]: BSG [102.1](https://www.belex.sites.be.ch/data/102.1/de)
 
 ## 3 Führung
 
