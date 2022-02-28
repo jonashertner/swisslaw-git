@@ -4,13 +4,13 @@ number: "152.211"
 title: Verordnung über die Organisation und die Aufgaben der Staatskanzlei
 short: "Organisationsverordnung STA, OrV STA"
 language: de
-version: 2020-01-01
-valid_until: 2022-02-28
-version_adopted: 2019-10-23
+version: 2022-03-01
+valid_until: 2023-12-31
+version_adopted: 2022-02-02
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1714/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2538/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1714/pdf_file"
 
 (Organisationsverordnung STA, OrV STA)
 
-vom 18.10.1995 (Stand 01.01.2020)
+vom 18.10.1995 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -40,7 +40,7 @@ beschliesst:
 - a sie ist verantwortlich für die politische Gesamtplanung;
 - b sie führt Wahlen und Abstimmungen durch;
 - b1 sie betreut das Vorverfahren bei einer Totalrevision der Verfassung;
-- c sie koordiniert die Zusammenarbeit der Kantonsverwaltung mit der Deputation, dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel;
+- c sie koordiniert die Zusammenarbeit der Kantonsverwaltung mit der Deputation, dem Bernjurassischen Rat (BJR) und dem Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB);
 - d sie behandelt Fragen im Zusammenhang mit den Aussenbeziehungen des Kantons und mit der europäischen Integration, sofern nicht andere Direktionen zuständig sind;
 - e sie besorgt die Information der Öffentlichkeit und des Personals der Kantonsverwaltung;
 - f sie plant und koordiniert direktionsübergreifende Geschäfte, sofern nicht andere Direktionen zuständig sind;[^1-1]
@@ -137,7 +137,7 @@ beschliesst:
 
 **Gleichstellungsnetzwerk "Réseau égalité Berne francophone"**
 
-<sup>1</sup> Der Regierungsrat ernennt die sieben bis dreizehn Mitglieder des Gleichstellungsnetzwerks "Réseau égalité Berne francophone" (Gleichstellungsnetzwerk) auf Antrag der Staatskanzlei. Der Bernjurassische Rat und der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel werden vorgängig angehört.
+<sup>1</sup> Der Regierungsrat ernennt die sieben bis dreizehn Mitglieder des Gleichstellungsnetzwerks «Réseau égalité Berne francophone» (Gleichstellungsnetzwerk) auf Antrag der Staatskanzlei. Der BJR und der RFB werden vorgängig angehört.
 
 <sup>2</sup> Dem Gleichstellungsnetzwerk gehören an:
 
@@ -257,7 +257,7 @@ beschliesst:
 <sup>1</sup> Das Amt für Zweisprachigkeit, Gesetzgebung und Ressourcen
 
 - a ist zuständig für Fragen der Zweisprachigkeit des Kantons;
-- b betreut die Zusammenarbeit der Kantonsverwaltung mit den durch das Gesetz vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel (Sonderstatutsgesetz, SStG)[^12a-1] eingesetzten Organen und führt die Generalsekretariate des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel;
+- b betreut die Zusammenarbeit der Kantonsverwaltung mit den durch das Gesetz vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne (Sonderstatutsgesetz, SStG)[^12a-1] eingesetzten Organen und führt die Generalsekretariate des BJR und des RFB;
 - c betreut den Dienst der Juradelegation des Regierungsrates;
 - d führt das französischsprachige Sekretariat der Staatskanzlei;
 - e koordiniert die Simultandolmetschung für die Sitzungen des Grossen Rates;

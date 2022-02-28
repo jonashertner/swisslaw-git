@@ -4,13 +4,13 @@ number: "152.211"
 title: "Ordonnance sur l'organisation et les tâches de la Chancellerie d'Etat"
 short: "Ordonnance d'organisation CHA, OO CHA"
 language: fr
-version: 2020-01-01
-valid_until: 2022-02-28
-version_adopted: 2019-10-23
+version: 2022-03-01
+valid_until: 2023-12-31
+version_adopted: 2022-02-02
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1714/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2538/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1714/pdf_file"
 
 (Ordonnance d'organisation CHA, OO CHA)
 
-du 18.10.1995 (état au 01.01.2020)
+du 18.10.1995 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -42,7 +42,7 @@ arrête:
 - a elle est responsable de la planification politique générale;
 - b elle assure le déroulement des élections et des votations;
 - b1 elle se charge de la procédure préliminaire en cas de révision totale de la Constitution;
-- c elle coordonne la collaboration entre l'administration cantonale et la Députation, le Conseil du Jura bernois (CJB) et le Conseil des affaires francophones du district bilingue de Bienne (CAF);
+- c elle coordonne la collaboration entre l'administration cantonale et la Députation, le Conseil du Jura bernois (CJB) et le Conseil des affaires francophones de l'arrondissement de Biel/Bienne (CAF);
 - d elle traite les questions touchant aux relations extérieures du canton et à l'intégration européenne, pour autant que d'autres Directions ne soient pas compétentes;
 - e elle assure l’information du public et du personnel de l’administration cantonale;
 - f elle planifie et coordonne les affaires interdirectionnelles, pour autant que d'autres Directions ne soient pas compétentes;[^1-1]
@@ -115,7 +115,7 @@ arrête:
 
 <sup>3</sup> Un siège est réservé au représentant ou à la représentante du Réseau égalité Berne francophone.
 
-<sup>4</sup> Le Conseil du Jura bernois et le Conseil des affaires francophones du district bilingue de Bienne sont consultés préalablement sur les candidats ou candidates issus du Jura bernois et de l'arrondissement administratif de Biel/Bienne.
+<sup>4</sup> Le CJB et le CAF sont consultés préalablement sur les candidats ou candidates issus du Jura bernois et de l'arrondissement administratif de Biel/Bienne.
 
 #### Art. 5b
 
@@ -139,7 +139,7 @@ arrête:
 
 **Réseau égalité Berne francophone**
 
-<sup>1</sup> Le Conseil-exécutif nomme les membres du Réseau égalité Berne francophone (Réseau), qui sont au nombre de 7 à 13, sur proposition de la Chancellerie d'Etat. Le Conseil du Jura bernois et le Conseil des affaires francophones du district bilingue de Bienne sont consultés préalablement.
+<sup>1</sup> Le Conseil-exécutif nomme les membres du Réseau égalité Berne francophone (Réseau), qui sont au nombre de 7 à 13, sur proposition de la Chancellerie d'Etat. Le CJB et le CAF sont consultés préalablement.
 
 <sup>2</sup> Celui-ci est composé de représentants et de représentantes
 
@@ -259,7 +259,7 @@ arrête:
 <sup>1</sup> L'Office du bilinguisme, de la législation et des ressources
 
 - a est chargé des questions touchant au bilinguisme du canton;
-- b coordonne la collaboration entre l’administration cantonale et les organes institués par la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone du district bilingue de Bienne (loi sur le statut particulier, LStP)[^12a-1] et assure le secrétariat général du Conseil du Jura bernois et celui du Conseil des affaires francophones du district bilingue de Bienne;
+- b coordonne la collaboration entre l’administration cantonale et les organes institués par la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone de l'arrondissement administratif de Biel/Bienne (loi sur le statut particulier, LStP)[^12a-1] et assure le secrétariat général du CJB et celui du CAF;
 - c assure le service de la Délégation du Conseil-exécutif pour les affaires jurassiennes;
 - d assure le secrétariat de langue française de la Chancellerie d’Etat;
 - e coordonne l’interprétation simultanée pour les séances plénières du Grand Conseil;
