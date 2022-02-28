@@ -4,11 +4,11 @@ title: "Legge federale del 29 aprile 1998 sull'agricoltura (Legge sull'agricoltu
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: it
-version: 2022-01-01
+version: 2022-03-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220301/it/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220301-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220101/it"
 
 (Legge sull’agricoltura, LAgr)
 
-del 29 aprile 1998 (Stato 1° gennaio 2022)
+del 29 aprile 1998 (Stato 1° marzo 2022) (Stato 1° marzo 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -395,7 +395,12 @@ Sono vietati ai sensi del capoverso 1 i metodi di produzione non autorizzati per
 
 **Aliquote di dazio**
 
-In quanto la presente legge non preveda altrimenti, la competenza e la procedura per la determinazione delle aliquote di dazio sono rette dalla legislazione doganale.
+<sup>1</sup> In quanto la presente legge non preveda altrimenti, la competenza e la procedura per la determinazione delle aliquote di dazio sono rette dalla legislazione doganale.
+
+<sup>2</sup> Le aliquote di dazio per lo zucchero, inclusi i contributi al fondo di garanzia (art. 16 della legge del 17 giugno 2016[^19-1] sull’approvvigionamento del Paese), ammontano ad almeno 7 franchi per 100 kg lordi. La presente disposizione è valida fino al 2026.[^19-2]
+
+[^19-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^19-2]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° mar. 2022 ([RU 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [FF 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
 
 #### Art. 19a
 
@@ -842,10 +847,13 @@ La Confederazione può versare contributi per singole colture al fine di:
 
 <sup>2</sup> Il Consiglio federale definisce le colture e stabilisce l’importo dei contributi.
 
-<sup>3</sup> I contributi possono essere versati anche per le superfici situate nel territorio estero della zona di confine secondo l’articolo 43 capoverso 2 della legge del 18 marzo 2005[^54-2] sulle dogane.
+<sup>2bis</sup> Fino al 2026, per le barbabietole destinate alla produzione di zucchero è versato un contributo di 2100 franchi per ettaro e anno. Per le barbabietole coltivate secondo le esigenze dell’agricoltura biologica o della produzione integrata, fino al 2026 è versato un contributo supplementare di 200 franchi per ettaro e anno.[^54-2]
+
+<sup>3</sup> I contributi possono essere versati anche per le superfici situate nel territorio estero della zona di confine secondo l’articolo 43 capoverso 2 della legge del 18 marzo 2005[^54-3] sulle dogane.
 
 [^54-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1757](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^54-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^54-2]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° mar. 2022 ([RU 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [FF 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
+[^54-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 55
 

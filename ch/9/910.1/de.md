@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 29. April 1998 über die Landwirtschaft (Landwirtschaft
 short: LwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: de
-version: 2022-01-01
+version: 2022-03-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220301/de/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220301-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220101/de"
 
 (Landwirtschaftsgesetz, LwG)
 
-vom 29. April 1998 (Stand am 1. Januar 2022)
+vom 29. April 1998 (Stand am 1. März 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -399,7 +399,12 @@ Als verboten im Sinne von Absatz 1 gelten Produktionsmethoden, die nicht zuläss
 
 **Zollansätze**
 
-Zuständigkeit und Verfahren zur Festsetzung der Zollansätze richten sich, soweit dieses Gesetz nichts anderes bestimmt, nach der Zollgesetzgebung.
+<sup>1</sup> Zuständigkeit und Verfahren zur Festsetzung der Zollansätze richten sich, soweit dieses Gesetz nichts anderes bestimmt, nach der Zollgesetzgebung.
+
+<sup>2</sup> Die Zollansätze für Zucker zuzüglich der Garantiefondsbeiträge (Art. 16 Landesversorgungsgesetz vom 17. Juni 2016[^19-1]) betragen mindestens 7 Franken je 100 kg brutto. Die Bestimmung gilt bis 2026.[^19-2]
+
+[^19-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^19-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. März 2022 ([AS 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [BBl 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
 
 #### Art. 19a
 
@@ -846,10 +851,13 @@ Der Bund kann Einzelkulturbeiträge ausrichten, um:
 
 <sup>2</sup> Der Bundesrat bezeichnet die Kulturen und bestimmt die Höhe der Beiträge.
 
-<sup>3</sup> Die Beiträge können auch für Flächen im ausländischen Gebiet der Grenzzone nach Artikel 43 Absatz 2 des Zollgesetzes vom 18. März 2005[^54-2] ausgerichtet werden.
+<sup>2bis</sup> Für Zuckerrüben zur Zuckerherstellung wird bis 2026 ein Beitrag von 2100 Franken pro Hektare und Jahr ausgerichtet. Werden die Zuckerrüben nach den Anforderungen der biologischen Landwirtschaft oder der integrierten Produktion angebaut, so wird bis 2026 ein Zusatzbeitrag von 200 Franken pro Hektare und Jahr ausgerichtet.[^54-2]
+
+<sup>3</sup> Die Beiträge können auch für Flächen im ausländischen Gebiet der Grenzzone nach Artikel 43 Absatz 2 des Zollgesetzes vom 18. März 2005[^54-3] ausgerichtet werden.
 
 [^54-1]: Fassung gemäss Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^54-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^54-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. März 2022 ([AS 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [BBl 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
+[^54-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 55
 

@@ -4,11 +4,11 @@ title: "Federal Act of 29 April 1998 on Agriculture (Agriculture Act, AgricA)"
 short: AgricA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: en
-version: 2022-01-01
+version: 2022-03-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220301/en/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220301-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Agriculture Act, AgricA)
 
-of 29 April 1998 (Status as of 1 January 2022)
+of 29 April 1998 (Status as of 1 March 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -401,7 +401,12 @@ Under the terms of paragraph 1, banned production methods include those methods 
 
 **Customs tariffs**
 
-Unless this Act provides otherwise, responsibility and procedures for setting customs tariffs are governed by customs legislation.
+<sup>1</sup> Unless this Act provides otherwise, responsibility and procedures for setting customs tariffs are governed by customs legislation.
+
+<sup>2</sup> The customs tariffs for sugar together with the guarantee fund contributions (Art. 16 National Economic Supply Act of 17 June 2016[^19-1]) amount to a minimum of 7 francs per 100 kg gross. This provisions applies until 2026.[^19-2]
+
+[^19-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^19-2]: Inserted by No I of the FA of 1 Oct 2021, in force since 1 March 2022 ([AS 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [BBl 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
 
 #### Art. 19a
 
@@ -848,10 +853,13 @@ The Federal Council may pay subsidies for individual crops in order to:
 
 <sup>2</sup> The Federal Council decides on the crops and the amount of the subsidies.
 
-<sup>3</sup> Subsidies may also be paid for farmland in the foreign part of the Swiss border zone under Article 43 paragraph 2 of the Customs Tariff Act of 18 March 2005[^54-2].
+<sup>2bis</sup> For sugar beet for sugar production, a contribution of 2,100 francs per hectare and year shall be paid until 2026. If the sugar beet is grown in accordance with the requirements for organic farming or integrated production, an additional contribution of 200 Swiss francs per hectare per year shall be paid until 2026.[^54-2]
+
+<sup>3</sup> Subsidies may also be paid for farmland in the foreign part of the Swiss border zone under Article 43 paragraph 2 of the Customs Tariff Act of 18 March 2005[^54-3].
 
 [^54-1]: Amended by No I of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^54-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^54-2]: Inserted by No I of the FA of 1 Oct 2021, in force since 1 March 2022 ([AS 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [BBl 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
+[^54-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 55
 
@@ -937,19 +945,19 @@ The cantonal authorities keep a register of vineyards that includes any special 
 
 Wines are divided into the following classes:
 
-- a. wines with *appellation contrôlée*;
+- a. wines with an *appellation d’origine contrôlée*;
 - b. domestic wines;
 - c. table wines.
 
-<sup>2</sup> The Federal Council shall draw up a list of the criteria governing the classification of wines with *appellation contrôlée* and domestic wines. It may stipulate a minimum level of natural sugar content and a maximum yield per unit of land area, taking into account the production conditions specific to a given area.
+<sup>2</sup> The Federal Council shall draw up a list of the criteria governing the classification of wines with an *appellation d’origine contrôlée* and domestic wines. It may stipulate a minimum level of natural sugar content and a maximum yield per unit of land area, taking into account the production conditions specific to a given area.
 
-<sup>3</sup> Otherwise, the cantonal authorities shall set out the requirements for each criterion with regard to wines with *appellation contrôlée* and domestic wines produced within their borders and under their own traditional designation.
+<sup>3</sup> Otherwise, the cantonal authorities shall set out the requirements for each criterion with regard to wines with an *appellation d’origine contrôlée* and domestic wines produced within their borders and under their own traditional designation.
 
 <sup>4</sup> The Federal Council shall stipulate the requirements concerning domestic wines that are sold without a traditional designation and for table wines. It may define the terms relating specifically to wine, in particular traditional terms, and stipulate their use.
 
 <sup>5</sup> It shall draw up regulations for the declassification of wines that do not meet the minimum requirements.
 
-<sup>6</sup> The terms of Article 16 paragraphs 6, 6<sup>bis</sup>, 7 and 16*b* apply to the labelling of wines with *appellation contrôlée* and of other wines with geographical indications.
+<sup>6</sup> The terms of Article 16 paragraphs 6, 6<sup>bis</sup>, 7 and 16*b* apply to the labelling of wines with an *appellation d’origine contrôlée* and of other wines with geographical indications.
 
 [^63-1]: Amended by No I of the FA of 22 June 2007, in force since 1 Jan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
@@ -3028,4 +3036,4 @@ The following are repealed:
 
 ...[^annexu1-lvlu1-lvlu2-1]
 
-[^annexu1-lvlu1-lvlu2-1]: The amendments may be consulted under [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033).
+[^annexu1-lvlu1-lvlu2-1]: The amendments may be consulted under [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)..

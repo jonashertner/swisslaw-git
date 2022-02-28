@@ -4,11 +4,11 @@ title: "Lescha federala dals 29 d'avrigl 1998 davart l'agricultura (Lescha d'agr
 short: LAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033"
 language: rm
-version: 2022-01-01
+version: 2022-03-01
 adopted: 1998-04-29
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033/20220301/rm/xml/fedlex-data-admin-ch-eli-cc-1998-3033_3033_3033-20220301-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/20220301/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha d’agricultura, LAgr)
 
-dals 29 d’avrigl 1998 (versiun dal 1. da schaner 2022)
+dals 29 d’avrigl 1998 (versiun dal 1. da mars 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -401,7 +401,12 @@ Sco scumandadas en il senn da l’alinea 1 valan metodas da producziun che n’�
 
 **Tariffas da dazi**
 
-La cumpetenza e las proceduras per fixar las tariffas da dazi sa drizzan tenor la legislaziun da duana, sche questa lescha na dispona betg autramain.
+<sup>1</sup> La cumpetenza e las proceduras per fixar las tariffas da dazi sa drizzan tenor la legislaziun da duana, sche questa lescha na dispona betg autramain.
+
+<sup>2</sup> Las tariffas da dazi per zutger, inclusiv las contribuziuns al fond da garanzia (art. 16 da la Lescha dals 17 da zercladur 2016[^19-1] davart il provediment dal pajais), importan almain 7 francs per 100 kg bruts. Questa disposiziun vala fin l’onn 2026.[^19-2]
+
+[^19-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^19-2]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da mars 2022 ([AS 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [BBl 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
 
 #### Art. 19a
 
@@ -534,7 +539,7 @@ L’alinea 2 na vala betg per l’applicaziun da clausulas da protecziun en cunv
 
 [^26-1]: Abolì tras la cifra I da la LF dals 22 da zer. 2007, cun effect dapi il 1. da schan. 2010 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-### 5. secziun Observaziun dal martgà****
+### 5. secziun Observaziun dal martgà
 
 [^tit2-chap1-sec5-1]
 
@@ -548,7 +553,7 @@ L’alinea 2 na vala betg per l’applicaziun da clausulas da protecziun en cunv
 
 [^27-1]: Versiun tenor la cifra I da la LF dals 22 da zer. 2007, en vigur dapi il 1. da schan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-### 6. secziun**** Tecnica genetica
+### 6. secziun Tecnica genetica
 
 [^tit2-chap1-sec6-1]
 
@@ -562,7 +567,7 @@ L’alinea 2 na vala betg per l’applicaziun da clausulas da protecziun en cunv
 
 [^27a-1]: Expressiun tenor la cifra II 3 da la LF dals 19 da mars 2010, en vigur dapi il 1. d’avust 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Questa midada è vegnida resguardada en l’entir decret.
 
-### 7. secziun**** Meds da producziun e bains d’investiziun agriculs protegids d’ina patenta
+### 7. secziun Meds da producziun e bains d’investiziun agriculs protegids d’ina patenta
 
 [^tit2-chap1-sec7-1]
 
@@ -576,7 +581,7 @@ L’alinea 2 na vala betg per l’applicaziun da clausulas da protecziun en cunv
 
 ### 2. chapitel Economia da latg
 
-### 1. secziun Champ d’applicaziun****
+### 1. secziun Champ d’applicaziun
 
 [^tit2-chap2-sec1-1]
 
@@ -613,7 +618,7 @@ L’alinea 2 na vala betg per l’applicaziun da clausulas da protecziun en cunv
 
 [^36a36b-1]: Integrà tras la cifra I da la LF dals 20 da zer. 2003 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)). Abolì tras la cifra I da la LF dals 22 da mars 2013, cun effect dapi il 1. da schan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### 3. secziun**** Contract da standard en il sectur da latg
+### 3. secziun Contract da standard en il sectur da latg
 
 [^tit2-chap2-sec3-1]
 
@@ -743,7 +748,7 @@ Il Cussegl federal po prevair excepziuns per:
 
 <sup>4</sup> Spartiziuns da manaschis per evitar las disposiziuns pertutgant ils effectivs maximals na vegnan betg renconuschidas.
 
-### 2. secziun Muvel da maz, charn, launa da besch ed ovs****
+### 2. secziun Muvel da maz, charn, launa da besch ed ovs
 
 [^tit2-chap3-sec2-1]
 
@@ -848,10 +853,13 @@ La Confederaziun po pajar contribuziuns per singulas culturas per:
 
 <sup>2</sup> Il Cussegl federal designescha las culturas e fixescha l’import da las contribuziuns.
 
-<sup>3</sup> Las contribuziuns pon vegnir pajadas er per surfatschas en il territori ester da la zona da cunfin tenor l’artitgel 43 alinea 2 da la Lescha da duana dals 18 da mars 2005[^54-2].
+<sup>2bis</sup> Per ravas da zutger ch’èn destinadas a la producziun da zutger vegn pajada fin l’onn 2026 ina contribuziun da 2100 francs per hectara ed onn. Sche las ravas da zutger vegnan cultivadas tenor las pretensiuns da l’agricultura biologica u da la producziun integrada, vegn pajada fin l’onn 2026 ina contribuziun supplementara da 200 francs per hectara ed onn.[^54-2]
+
+<sup>3</sup> Las contribuziuns pon vegnir pajadas er per surfatschas en il territori ester da la zona da cunfin tenor l’artitgel 43 alinea 2 da la Lescha da duana dals 18 da mars 2005[^54-3].
 
 [^54-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
-[^54-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^54-2]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da mars 2022 ([AS 2022 85](https://fedlex.data.admin.ch/eli/oc/2022/85); [BBl 2021 457](https://fedlex.data.admin.ch/eli/fga/2021/457), [748](https://fedlex.data.admin.ch/eli/fga/2021/748)).
+[^54-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 55
 
@@ -893,7 +901,7 @@ La Confederaziun po pajar contribuziuns per singulas culturas per:
 
 [^59-1]: Abolì tras la cifra I da la LF dals 22 da mars 2013, cun effect dapi il 1. da schan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### 5. chapitel Economia da vin****
+### 5. chapitel Economia da vin
 
 [^tit2-chap5-1]
 
@@ -985,7 +993,7 @@ Ils vins vegnan repartids en las suandantas classas:
 
 [^6769-1]: Abolì tras la cifra I da la LF dals 22 da zer. 2007, cun effect dapi il 1. da schan. 2008 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-## 3. titel**** Pajaments directs
+## 3. titel Pajaments directs
 
 [^tit3-1]
 
@@ -1186,7 +1194,7 @@ Il Cussegl federal fixescha:
 
 [^77-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## 3*a*. titel**** Utilisaziun persistenta da resursas natiralas
+## 3*a*. titel Utilisaziun persistenta da resursas natiralas
 
 [^tit3a-1]
 
@@ -1216,13 +1224,13 @@ Contribuziuns vegnan concedidas als purtaders responsabels, sche:
 [^77b-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
 [^77b-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
-## 4. titel Mesiras d’accumpagnament socialas****
+## 4. titel Mesiras d’accumpagnament socialas
 
 [^tit4-1]
 
 [^tit4-1]: Versiun tenor la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 1. chapitel Agid a manaschis agriculs****
+### 1. chapitel Agid a manaschis agriculs
 
 [^tit4-chap1-1]
 
@@ -1341,7 +1349,7 @@ Sche las restituziuns ed ils tschains surpassan il basegn en il chantun, po il U
 
 <sup>2</sup> Perditas ed eventuals custs giuridics che resultan da la concessiun d’emprests, ils quals èn vegnids approvads tras il UFAG tenor l’artitgel 81, ston vegnir repartids sin la Confederaziun e sin ils chantuns tenor lur participaziun a l’emprest, uschenavant ch’els n’èn betg cuvridas tras tschains.
 
-### 2. chapitel**** Agids da rescolaziun
+### 2. chapitel Agids da rescolaziun
 
 [^tit4-chap2-1]
 
@@ -1793,13 +1801,13 @@ Perditas che resultan da la concessiun da credits d’investiziun, inclusiv even
 
 Ils chantuns surpiglian ils custs d’administraziun.
 
-## 6. titel Perscrutaziun e cussegliaziun, promoziun da la cultivaziun da plantas e da l’allevament d’animals sco er resursas geneticas****
+## 6. titel Perscrutaziun e cussegliaziun, promoziun da la cultivaziun da plantas e da l’allevament d’animals sco er resursas geneticas
 
 [^tit6-1]
 
 [^tit6-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
-### 1. chapitel**** Princip
+### 1. chapitel Princip
 
 [^tit6-chap1-1]
 
@@ -1811,7 +1819,7 @@ Ils chantuns surpiglian ils custs d’administraziun.
 
 <sup>2</sup> Ina part adequata dals meds finanzials vegn impundida per furmas da producziun ch’èn spezialmain natiralas e che respectan particularmain l’ambient ed ils animals.
 
-### 1*a*. chapitel Perscrutaziun****
+### 1*a*. chapitel Perscrutaziun
 
 [^tit6-chap1a-1]
 
@@ -1879,7 +1887,7 @@ Las staziuns da perscrutaziun agriculas han en spezial las suandantas incumbensa
 
 [^118135-1]: Abolì tras la cifra II 5 da l’agiunta da la LF dals 13 da dec. 2002 davart la furmaziun professiunala, cun effect dapi il 1. da schan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 
-### 2*a*. chapitel**** Cussegliaziun
+### 2*a*. chapitel Cussegliaziun
 
 [^tit6-chap2a-1]
 
@@ -1916,7 +1924,7 @@ Las staziuns da perscrutaziun agriculas han en spezial las suandantas incumbensa
 
 [^139-1]: Abolì tras la cifra I da la LF dals 20 da zer. 2003, cun effect dapi il 1. da schan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 3. chapitel Cultivaziun da plantas ed allevament d’animals sco er resursas geneticas****
+### 3. chapitel Cultivaziun da plantas ed allevament d’animals sco er resursas geneticas
 
 [^tit6-chap3-1]
 
@@ -2036,7 +2044,7 @@ Il Cussegl federal po decretar prescripziuns per allevar, importar u metter en c
 [^147-2]: Versiun tenor la cifra I da la LF dals 22 da mars 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 [^147-3]: Integrà tras la cifra I da la LF dals 22 da zer. 2007 ([AS 2007 6095](https://fedlex.data.admin.ch/eli/oc/2007/814); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)). Abolì tras la cifra 5 da l’agiunta da la LF dals 18 da zer. 2010, cun effect dapi il 1. da schan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
-### 3. secziun**** Resursas geneticas per l’agricultura e per l’alimentaziun
+### 3. secziun Resursas geneticas per l’agricultura e per l’alimentaziun
 
 [^tit6-chap3-sec3-1]
 
@@ -2056,13 +2064,13 @@ Il Cussegl federal po decretar prescripziuns per allevar, importar u metter en c
 
 Uschenavant ch’i existan obligaziuns internaziunalas, regla il Cussegl federal l’access a las resursas geneticas e la repartiziun d’avantatgs che resultan da l’utilisaziun da talas resursas.
 
-## 7. titel Protecziun da las plantas e meds da producziun****
+## 7. titel Protecziun da las plantas e meds da producziun
 
 [^tit7-1]
 
 [^tit7-1]: Versiun tenor la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 1. chapitel Disposiziuns executivas****
+### 1. chapitel Disposiziuns executivas
 
 [^tit7-chap1-1]
 
@@ -2076,7 +2084,7 @@ Uschenavant ch’i existan obligaziuns internaziunalas, regla il Cussegl federal
 
 [^148-1]: Integrà tras la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 2. chapitel**** Mesiras preventivas
+### 2. chapitel Mesiras preventivas
 
 [^tit7-chap2-1]
 
@@ -2100,7 +2108,7 @@ Sco mesiras preventivas po il Cussegl federal particularmain:
 - a. restrenscher, colliar cun cundiziuns u scumandar l’import, il metter en circulaziun u l’utilisaziun da meds da producziun;
 - b. restrenscher, colliar cun cundiziuns u scumandar l’import ed il metter en circulaziun da material vegetal e d’objects che pon esser ils purtaders d’organissems nuschaivels spezialmain privlus.
 
-### 3. chapitel**** Protecziun da las plantas
+### 3. chapitel Protecziun da las plantas
 
 [^tit7-chap3-1]
 
@@ -2208,7 +2216,7 @@ Las indemnisaziuns vegnan fixadas definitivamain en ina procedura uschè simpla 
 
 [^157-1]: Versiun tenor la cifra I da la LF dals 20 da zer. 2003, en vigur dapi il 1. da schan. 2004 ([AS 2003 4217](https://fedlex.data.admin.ch/eli/oc/2003/625); [BBl 2002 4721](https://fedlex.data.admin.ch/eli/fga/2002/775)[7234](https://fedlex.data.admin.ch/eli/fga/2002/1163)).
 
-### 4. chapitel Meds da producziun****
+### 4. chapitel Meds da producziun
 
 [^tit7-chap4-1]
 
@@ -2322,7 +2330,7 @@ Il Cussegl federal po obligar ils producents da meds da producziun e las firmas 
 
 <sup>2</sup> Ils servetschs federals cumpetents han il dretg d’infurmar la publicitad davart las qualitads e davart l’utilisabladad da meds da producziun.
 
-## 7*a**.* titel**** Ulteriuras disposiziuns
+## 7*a**.* titel Ulteriuras disposiziuns
 
 [^tit7a-1]
 
