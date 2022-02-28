@@ -4,7 +4,7 @@ number: "730.01"
 title: "LOI du 16.05.2006 sur l'énergie (LVLEne)"
 short: LVLEne
 language: fr
-version: 2021-09-01
+version: 2022-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01?id=e7f13ccb-9bc3-4442-876e-c316278b9975"
 ---
 
@@ -122,6 +122,10 @@ décrète
 <sup>3</sup> Le Conseil d'Etat peut imposer des normes de construction ou de rénovation énergétiquement plus exigeantes à l'égard de bâtiments dont l'Etat est propriétaire ou pour lesquels il participe financièrement à la construction, à la rénovation ou à l'exploitation.
 
 <sup>4</sup> Lors d'une construction ou d'une rénovation importante d'un bâtiment dont l'Etat est propriétaire ou pour lequel il participe financièrement, le Conseil d'Etat propose au Grand Conseil en règle générale de mettre en place des dispositifs de production d'énergie renouvelable, notamment des panneaux photovoltaïques.
+
+<sup>5</sup> Lors d'une construction ou d'une rénovation des toitures et façades d'un bâtiment dont l'Etat est propriétaire ou pour lequel il participe financièrement, le Conseil d'Etat propose au Grand Conseil en règle générale de maximiser le recours à l'énergie solaire, dans le but d'atteindre d'ici 2035 l'autonomie électrique.
+
+<sup>6</sup> Dans le cadre du budget annuel, le Conseil d'Etat présente un rapport sur l'état d'avancement du recours à l'énergie solaire sur les toitures et façades des bâtiments dont l'Etat est propriétaire ou pour lequel il participe financièrement.
 
 [^9-2]: Modif. 1 du 29.10.2013: Modification Al. 1; entrée en vigueur au 01.07.2014; Introduction Al. 3; entrée en vigueur au 01.07.2014 · Modif. 3 du 19.06.2018: Introduction Al. 4; entrée en vigueur au 01.10.2018 · Modif. 6 du 14.12.2021: Introduction Al. 5-6; entrée en vigueur au 01.03.2022
 
