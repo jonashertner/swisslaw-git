@@ -4,13 +4,13 @@ number: "400.11"
 title: Verordnung zum Raumplanungs- und Baugesetz
 short: RBV
 language: de
-version: 2019-01-01
-valid_until: 2022-02-28
-version_adopted: 2018-11-20
+version: 2022-03-01
+valid_until: 2022-06-30
+version_adopted: 2022-01-25
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400.11"
-pdf: "https://bl.clex.ch/api/de/versions/2690/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3229/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2690/pdf_file"
 
 (RBV)
 
-Vom 27.10.1998 (Stand 01.01.2019)
+Vom 27.10.1998 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -92,6 +92,14 @@ beschliesst:
 <sup>10</sup> Die Gemeinde reicht dem Regierungsrat mit dem Antrag zur Genehmigung der kommunalen Nutzungsplanung die Bestätigung ein, dass die beschlossenen Nutzungspläne mit den signierten elektronischen Nutzungsplänen übereinstimmen.
 
 [^3a-1]: [SGS 211.58](https://bl.clex.ch/data/211.58/de/art8)
+
+#### § 3abis
+
+**Laufende und geplante Änderungen öffentlich-rechtlicher Eigentumsbeschränkungen**
+
+<sup>1</sup> Das Amt für Raumplanung integriert die eingereichten Geobasisdaten gemäss § 3a Abs. 6 als laufende oder geplante Änderungen der öffentlich-rechtlichen Eigentumsbeschränkungen in die kantonale Geodatenbank und informiert das Amt für Geoinformation, dass es sich um Zusatzinformationen gemäss Art. 8b Abs. 1 Bst. a. der Verordnung des Bundes über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREBKV)[^3abis-1] handelt.
+
+[^3abis-1]: [SR 510.622.4](https://db.clex.ch/link/Bund/510.622.4/de)
 
 #### § 3b
 
@@ -818,7 +826,7 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 
 <sup>2<sup>bis</sup></sup> Im Rahmen von ordentlichen Quartierplänen kann die Gemeinde aufgrund eines Verkehrs- und Mobilitätsgutachtens für Wohneinheiten die Mindestzahl der Abstellplätze für Motorfahrzeuge unabhängig von Anhang 1/S. 12 herabsetzen oder Höchstwerte festlegen. Dabei gelten folgende Kriterien:
 
-- a. Die Abstellplätze für Besucher dürfen nicht reduziert werden.
+- a. …
 - b. Eine gute Erreichbarkeit mit dem öffentlichen Verkehr muss gegeben sein.
 - c. Genügend Abstellplätze für Zweiräder sind vorzusehen.
 - d. Die Umsetzung des zur Parkplatzreduktion führenden Nutzungskonzepts ist in den Quartierplanvorschriften (Reglement, Quartierplanvertrag) sicherzustellen.
