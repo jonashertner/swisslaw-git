@@ -4,13 +4,13 @@ number: "721.1"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2020-11-01
-valid_until: 2022-02-28
-version_adopted: 2020-09-02
+version: 2022-03-01
+valid_until: 2022-10-31
+version_adopted: 2021-09-22
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1955/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2383/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1955/pdf_file"
 
 (BauV)
 
-vom 06.03.1985 (Stand 01.11.2020)
+vom 06.03.1985 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -1489,9 +1489,7 @@ beschliesst:
 
 #### Art. 100a
 
-**Elektronisches Baubewilligungsverfahren**
-
-<sup>1</sup> Im elektronischen Baubewilligungsverfahren gelten die Verfahrens- und die weiteren Vorschriften des Baubewilligungsdekrets sinngemäss.
+**…**
 
 #### Art. 101
 
@@ -1605,7 +1603,11 @@ beschliesst:
 
 **Allgemeines 1 Massgebende Vorschriften, Zuständigkeiten**
 
-<sup>1</sup> Das Verfahren für den Erlass, die Änderung und die Aufhebung von Vorschriften und Plänen richtet sich nach Artikel 58 bis 63 des Baugesetzes[^109-1] und nach den nachstehenden Ausführungsbestimmungen.
+<sup>1</sup> Das Verfahren für den Erlass, die Änderung und die Aufhebung von Vorschriften und Plänen richtet sich nach Artikel 57a bis 63 des Baugesetzes[^109-1] und nach den nachstehenden Ausführungsbestimmungen.
+
+<sup>1a</sup> Die Vorschriften und Pläne sind mit den notwendigen Erläuterungen oder technischen Berichten sowie dem Bericht über die Information und die Mitwirkung der Bevölkerung in der Applikation des Amtes für Gemeinden und Raumordnung für die Vorprüfung und Genehmigung einzureichen.
+
+<sup>1b</sup> Überbauungsordnungen können im Dateiformat PDF in der Applikation des Amtes für Gemeinden und Raumordnung eingereicht werden.
 
 <sup>2</sup> Die Gemeinden können in ihren Vorschriften
 
@@ -1632,6 +1634,8 @@ beschliesst:
 <sup>1</sup> Vorschriften und Pläne der Gemeinden und Planungsregionen bzw. Regionalkonferenzen treten frühestens mit ihrer Genehmigung in Kraft.
 
 <sup>1a</sup> Die Genehmigung ist unter Hinweis auf den Zeitpunkt des Inkrafttretens der Vorschriften und Pläne öffentlich bekannt zu machen, sobald sie rechtskräftig geworden ist.
+
+<sup>1b</sup> Das Inkrafttreten der elektronischen Nutzungspläne ist dem Amt für Gemeinden und Raumordnung zur Kenntnis zu bringen zwecks Aufschaltung der rechtskräftigen Pläne auf der kantonalen Geodaten-Infrastruktur.
 
 <sup>2</sup> Die geltenden Vorschriften und Pläne sind an folgenden Stellen jedermann zur Einsichtnahme offenzuhalten:
 
@@ -1664,17 +1668,17 @@ beschliesst:
 
 **1.2 Verfahren**
 
-<sup>1</sup> Die Richtplanentwürfe der Gemeinde sind mit den technischen Berichten sowie dem Bericht über die Information und die Mitwirkung der Bevölkerung in der für den Einzelfall abgesprochenen Anzahl Exemplare dem Amt für Gemeinden und Raumordnung vorzulegen; dieses teilt der Gemeinde mit, ob und welche Einwände allenfalls einer Genehmigung entgegenstehen.
+<sup>1</sup> Die Richtplanentwürfe der Gemeinde sind mit den technischen Berichten sowie dem Bericht über die Information und die Mitwirkung der Bevölkerung dem Amt für Gemeinden und Raumordnung einzureichen; dieses teilt der Gemeinde mit, ob und welche Einwände allenfalls einer Genehmigung entgegenstehen.
 
-<sup>2</sup> Nach Beschlussfassung durch das zuständige Gemeindeorgan reicht der Gemeinderat den Richtplan mit technischem Bericht in der im Vorprüfungsbericht verlangten Anzahl Exemplare dem Amt für Gemeinden und Raumordnung zur Genehmigung ein.
+<sup>2</sup> Nach Beschlussfassung durch das zuständige Gemeindeorgan reicht der Gemeinderat den Richtplan mit technischem Bericht dem Amt für Gemeinden und Raumordnung zur Genehmigung ein.
 
 #### Art. 113
 
 **2 Regionale Richtpläne**
 
-<sup>1</sup> Die Richtplanentwürfe der Planungsregion bzw. Regionalkonferenz sind mit den technischen Berichten sowie dem Bericht über die Information und Mitwirkung der Bevölkerung dem Amt für Gemeinden und Raumordnung zur Vorprüfung vorzulegen.
+<sup>1</sup> Die Richtplanentwürfe der Planungsregion bzw. der Regionalkonferenz sind mit den technischen Berichten sowie dem Bericht über die Information und die Mitwirkung der Bevölkerung dem Amt für Gemeinden und Raumordnung zur Vorprüfung einzureichen.
 
-<sup>2</sup> Nach der Beschlussfassung durch das zuständige Organ der Planungsregion bzw. der Regionalkonferenz reicht der Vorstand der Planungsregion bzw. die Geschäftsleitung der Regionalkonferenz den Richtplan mit dem technischen Bericht in 15 Ausfertigungen dem Amt für Gemeinden und Raumordnung zur Genehmigung ein.
+<sup>2</sup> Nach der Beschlussfassung durch das zuständige Organ der Planungsregion bzw. der Regionalkonferenz reicht der Vorstand der Planungsregion bzw. die Geschäftsleitung der Regionalkonferenz den Richtplan mit dem technischen Bericht dem Amt für Gemeinden und Raumordnung zur Genehmigung ein.
 
 #### Art. 114
 
@@ -1710,11 +1714,11 @@ beschliesst:
 
 **Nutzungspläne 1 Kommunale Nutzungspläne 1.1 Vorprüfung**
 
-<sup>1</sup> Baureglemente, Zonenpläne und Überbauungsordnungen sind mit dem Bericht über die Information und die Mitwirkung der Bevölkerung und mit den notwendigen Erläuterungen oder technischen Berichten in der für den Einzelfall abgesprochenen Anzahl Exemplaren dem Amt für Gemeinden und Raumordnung einzureichen. Eine Kopie des Überweisungsschreibens geht an das Regierungsstatthalteramt.
+<sup>1</sup> Baureglemente, Zonenpläne und Überbauungsordnungen sind mit den notwendigen Erläuterungen oder technischen Berichten sowie dem Bericht über die Information und die Mitwirkung der Bevölkerung dem Amt für Gemeinden und Raumordnung einzureichen. Eine Meldung der Überweisung geht an das Regierungsstatthalteramt.
 
 <sup>2</sup> Bei besonderen Bauten und Anlagen (Art. 19 und 20 BauG) und bei Überbauungsordnungen für Zonen mit Planungspflicht (Art. 92 ff. BauG) sind in der Regel auch über die Erschliessung Angaben zu machen, gegebenenfalls auch über die Beschattungsverhältnisse und die Ausnützung.
 
-<sup>3</sup> Das Amt für Gemeinden und Raumordnung kann auf einzelne Unterlagen verzichten oder weitere verlangen (z. B. Modelle oder Photomontagen) und die Profilierung vorschreiben. Es kann, wenn es die rechtzeitige Durchführung der Vorprüfung erfordert, auch zusätzliche Ausfertigungen der einzureichenden Unterlagen anfordern.
+<sup>3</sup> Das Amt für Gemeinden und Raumordnung kann auf einzelne Unterlagen verzichten oder weitere verlangen (z. B. Modelle oder Photomontagen) und die Profilierung vorschreiben.
 
 <sup>4</sup> Es prüft,
 
@@ -1738,11 +1742,11 @@ beschliesst:
 
 **1.3 Pflichten der Gemeinde und des Regierungsstatthalteramts**
 
-<sup>1</sup> Nach ihrer Annahme durch die Gemeinde sind Vorschriften und Pläne ohne Verzug in der im Vorprüfungsbericht verlangten Anzahl dem Amt für Gemeinden und Raumordnung einzureichen. Eine Kopie des Überweisungsschreibens geht an das Regierungsstatthalteramt.
+<sup>1</sup> Nach ihrer Annahme durch die Gemeinde sind Vorschriften und Pläne mit den notwendigen Erläuterungen oder technischen Berichten ohne Verzug dem Amt für Gemeinden und Raumordnung einzureichen. Eine Meldung der Überweisung geht an das Regierungsstatthalteramt.
 
-<sup>2</sup> Der Präsident und der Sekretär des Organs, das für den Beschluss zuständig ist, bezeugen dessen Annahme unterschriftlich, der Sekretär überdies die ordnungsgemässe Durchführung des Auflageverfahrens und die Zahl der erledigten und der unerledigten Einsprachen.
+<sup>2</sup> Die Präsidentin oder der Präsident und die Sekretärin oder der Sekretär des Organs, das für den Beschluss zuständig ist, bestätigen dessen Annahme, die Sekretärin oder der Sekretär überdies die ordnungsgemässe Durchführung des Auflageverfahrens und die Zahl der erledigten und der unerledigten Einsprachen.
 
-<sup>3</sup> Beizulegen sind:
+<sup>3</sup> Einzureichen sind:
 
 - a eine Liste der Einsprachen mit der Bezeichnung der Parzellen im Auflageplan, die Gegenstand dieser Einsprachen sind;
 - b die Protokolle der Einigungsverhandlungen;
@@ -1772,9 +1776,7 @@ beschliesst:
 
 #### Art. 120c
 
-**Digitale Zonenpläne, Datenmodell**
-
-<sup>1</sup> Stimmen die digitalen Daten und die Papierfassung eines Baureglements, eines Zonenplans oder einer Überbauungsordnung nicht überein, so gilt die bei der Genehmigungsbehörde aufbewahrte Papierfassung als massgebend.
+**…**
 
 #### Art. 121
 
@@ -1810,9 +1812,9 @@ beschliesst:
 
 <sup>1</sup> Der Gemeinderat kann die geringfügige Änderung von Vorschriften und Plänen ohne Vorprüfung und ohne öffentliche Auflage beschliessen.
 
-<sup>2</sup> Vor dem Beschluss ist den davon betroffenen Grundeigentümern, soweit sie der Änderung nicht unterschriftlich zugestimmt haben, mit eingeschriebenem Brief eine Frist von wenigstens zehn Tagen zur Einreichung einer Einsprache anzusetzen.
+<sup>2</sup> Vor dem Beschluss ist den davon betroffenen Grundeigentümerinnen und Grundeigentümern, soweit sie der Änderung nicht schriftlich zugestimmt haben, eine Frist von wenigstens zehn Tagen zur Einreichung einer Einsprache anzusetzen.
 
-<sup>3</sup> Die abgeänderten Vorschriften und Pläne sind dem Amt für Gemeinden und Raumordnung in der mit ihm abgesprochenen Anzahl Exemplaren zur Genehmigung und zum Entscheid über die unerledigten Einsprachen zuzustellen.
+<sup>3</sup> Die abgeänderten Vorschriften und Pläne sind dem Amt für Gemeinden und Raumordnung zur Genehmigung und zum Entscheid über die unerledigten Einsprachen einzureichen.
 
 <sup>4</sup> Für die geringfügige Änderung von kantonalen Überbauungsordnungen gelten die vorstehenden Bestimmungen sinngemäss. Für die Zuständigkeit und den Rechtsmittelweg gilt Artikel 102 des Baugesetzes.
 
@@ -1968,6 +1970,27 @@ beschliesst:
 **Ladestationen für Elektrofahrzeuge**
 
 <sup>1</sup> Bestehende verkehrsintensive Vorhaben, die der Bestimmung von Artikel 91b1 nicht entsprechen, sind innert fünf Jahren seit Inkrafttreten dieser Änderung anzupassen.
+
+## T8 Übergangsbestimmungen der Änderung vom 22.09.2021
+
+#### Art. T8-1
+
+**Überführung der kommunalen und regionalen Richtpläne in die elektronische Form**
+
+<sup>1</sup> Bis zur Überführung der kommunalen und regionalen Richtpläne in die elektronische Form, deren Zeitpunkt und Einzelheiten der Regierungsrat bestimmt, gelten die folgenden Bestimmungen:
+
+- a Die Richtplanentwürfe sind mit den technischen Berichten sowie dem Bericht über die Information und die Mitwirkung der Bevölkerung in gedruckter Form und in der für den Einzelfall abgesprochenen Anzahl Exemplaren dem Amt für Gemeinden und Raumordnung zur Vorprüfung vorzulegen.
+- b Die Richtpläne sind mit den technischen Berichten in gedruckter Form und in der im Vorprüfungsbericht verlangten Anzahl Exemplare dem Amt für Gemeinden und Raumordnung zur Genehmigung einzureichen.
+
+#### Art. T8-2
+
+**Überführung der kommunalen Nutzungspläne in die elektronische Form**
+
+<sup>1</sup> Bis zur Überführung der kommunalen Nutzungspläne in die elektronische Form gelten die folgenden Bestimmungen:
+
+- a Baureglemente, Zonenpläne und Überbauungsordnungen sind mit den notwendigen Erläuterungen oder technischen Berichten sowie mit dem Bericht über die Information und die Mitwirkung der Bevölkerung in gedruckter Form und in der für den Einzelfall abgesprochenen Anzahl Exemplaren dem Amt für Gemeinden und Raumordnung zur Vorprüfung einzureichen. Eine Meldung der Überweisung geht an das Regierungsstatthalteramt.
+- b Nach ihrer Annahme durch die Gemeinde sind Vorschriften und Pläne mit den notwendigen Erläuterungen oder technischen Berichten in gedruckter Form und ohne Verzug in der im Vorprüfungsbericht verlangten Anzahl dem Amt für Gemeinden und Raumordnung zur Genehmigung einzureichen. Eine Meldung der Überweisung geht an das Regierungsstatthalteramt.
+- c Stimmen die elektronische Form und die Papierfassung eines Baureglements, eines Zonenplans oder einer Überbauungsordnung nicht überein, so gilt die bei der Genehmigungsbehörde aufbewahrte Papierfassung als massgebend.
 
 Bern, 6. März 1985
 

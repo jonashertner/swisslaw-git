@@ -4,13 +4,13 @@ number: "721.1"
 title: Ordonnance sur les constructions
 short: OC
 language: fr
-version: 2020-11-01
-valid_until: 2022-02-28
-version_adopted: 2020-09-02
+version: 2022-03-01
+valid_until: 2022-10-31
+version_adopted: 2021-09-22
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1955/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2383/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1955/pdf_file"
 
 (OC)
 
-du 06.03.1985 (état au 01.11.2020)
+du 06.03.1985 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -1461,9 +1461,7 @@ arrête:
 
 #### Art. 100a
 
-**Procédure électronique d'octroi du permis de construire**
-
-<sup>1</sup> Les prescriptions du décret concernant la procédure d’octroi du permis de construire, relatives à la procédure notamment, s’appliquent par analogie à la procédure électronique.
+**…**
 
 #### Art. 101
 
@@ -1571,7 +1569,11 @@ arrête:
 
 **Généralités 1 Prescriptions déterminantes, compétences**
 
-<sup>1</sup> La procédure applicable pour édicter, modifier et abroger des plans et prescriptions est régie par les articles 58 à 63 de la loi sur les constructions, et par les dispositions d'application ci-après.
+<sup>1</sup> La procédure applicable pour édicter, modifier et abroger des plans et prescriptions est régie par les articles 57a à 63 de la loi sur les constructions, et par les dispositions d'application ci-après.
+
+<sup>1a</sup> Les plans et prescriptions, accompagnés des explications requises ou des rapports techniques ainsi que du rapport sur l'information et la participation de la population, doivent être remis au moyen de l'application de l'Office des affaires communales et de l'organisation du territoire en vue de leur examen préalable et de leur approbation.
+
+<sup>1b</sup> Les plans de quartier peuvent être remis au format PDF au moyen de l'application de l'Office des affaires communales et de l'organisation du territoire.
 
 <sup>2</sup> Dans leurs prescriptions, les communes peuvent
 
@@ -1596,6 +1598,8 @@ arrête:
 <sup>1</sup> Les plans et prescriptions des communes et des régions d’aménagement ou des conférences régionales entrent en vigueur au plus tôt dès la date de leur approbation.
 
 <sup>1a</sup> L’approbation doit être rendue publique dès qu’elle est entrée en force. La publication doit mentionner la date d’entrée en vigueur des plans et prescriptions.
+
+<sup>1b</sup> L'entrée en vigueur des plans d'affectation numériques doit être portée à la connaissance de l'Office des affaires communales et de l'organisation du territoire en vue de leur publication dans l'infrastructure cantonale de géodonnées.
 
 <sup>2</sup> Les plans et prescriptions en vigueur doivent pouvoir être consultés par quiconque auprès des services suivants:
 
@@ -1626,17 +1630,17 @@ arrête:
 
 **1.2 Procédure**
 
-<sup>1</sup> Les projets de plan directeur de la commune, accompagnés des rapports techniques ainsi que du rapport sur l'information et la participation de la population, doivent être adressés à l’Office des affaires communales et de l’organisation du territoire, le nombre d’exemplaires étant fixé au cas par cas, d’entente avec ledit office; celui-ci informe la commune de l'existence et de la nature des éléments faisant éventuellement obstacle à l'approbation.
+<sup>1</sup> Les projets de plan directeur de la commune, accompagnés des rapports techniques ainsi que du rapport sur l'information et la participation de la population, doivent être remis à l’Office des affaires communales et de l’organisation du territoire; celui-ci informe la commune de l'existence et de la nature des éléments faisant éventuellement obstacle à l'approbation.
 
-<sup>2</sup> Une fois la décision rendue par l'organe communal compétent, le conseil communal adresse le plan directeur et le rapport technique à l'Office des affaires communales et de l'organisation du territoire pour approbation, le nombre d’exemplaires étant fixé dans le rapport d’examen préalable.
+<sup>2</sup> Une fois la décision rendue par l'organe communal compétent, le conseil communal remet le plan directeur et le rapport technique à l'Office des affaires communales et de l'organisation du territoire pour approbation.
 
 #### Art. 113
 
 **2 Plans directeurs régionaux**
 
-<sup>1</sup> Les projets de plan directeur de la région d’aménagement ou de la conférence régionale doivent être adressés, accompagnés des rapports techniques ainsi que du rapport sur l’information et la participation de la population, à l’Office des affaires communales et de l’organisation du territoire en vue de leur examen préalable.
+<sup>1</sup> Les projets de plan directeur de la région d’aménagement ou de la conférence régionale, accompagnés des rapports techniques ainsi que du rapport sur l’information et la participation de la population, doivent être remis à l’Office des affaires communales et de l’organisation du territoire en vue de leur examen préalable.
 
-<sup>2</sup> Une fois la décision prise par l’organe compétent de la région d’aménagement ou de la conférence régionale, le comité directeur de la région d’aménagement ou le directoire de la conférence régionale adresse le plan directeur et le rapport technique en 15 exemplaires à l’Office des affaires communales et de l’organisation du territoire pour approbation.
+<sup>2</sup> Une fois la décision prise par l’organe compétent de la région d’aménagement ou de la conférence régionale, le comité directeur de la région d’aménagement ou le directoire de la conférence régionale remet le plan directeur et le rapport technique à l’Office des affaires communales et de l’organisation du territoire pour approbation.
 
 #### Art. 114
 
@@ -1670,11 +1674,11 @@ arrête:
 
 **Plans d'affectation 1 Plans d'affectation communaux 1.1 Examen préalable**
 
-<sup>1</sup> Les règlements de construction, les plans de zone et les plans de quartier, accompagnés du rapport sur l’information et la participation de la population et des explications requises ou des rapports techniques, doivent être adressés à l’Office des affaires communales et de l’organisation du territoire, le nombre d’exemplaires étant fixé d’entente avec ce dernier, au cas par cas. Une copie de la lettre d’accompagnement est transmise à la préfecture.
+<sup>1</sup> Les règlements de construction, les plans de zone et les plans de quartier, accompagnés des explications requises ou des rapports techniques ainsi que du rapport sur l’information et la participation de la population, doivent être remis à l’Office des affaires communales et de l’organisation du territoire. Un avis est transmis à la préfecture.
 
 <sup>2</sup> Pour les bâtiments et installations de nature particulière (art. 19 et 20 LC) et pour les plans de quartier pour les zones à planification obligatoire (art. 72, 3<sup>e</sup> al. et 92 ss. LC), des indications doivent en général être également données sur l'équipement technique et, le cas échéant, sur l'ombragement et l'utilisation.
 
-<sup>3</sup> L'Office des affaires communales et de l'organisation du territoire peut renoncer à certains documents ou en exiger d'autres (p. ex. maquettes ou montages-photo) et prescrire la pose de profils. Si la nécessité de procéder à l'examen préalable en temps utile l'exige, il peut également réclamer des exemplaires supplémentaires des documents à lui adresser.
+<sup>3</sup> L'Office des affaires communales et de l'organisation du territoire peut renoncer à certains documents ou en exiger d'autres (p. ex. maquettes ou montages-photo) et prescrire la pose de profils.
 
 <sup>4</sup> Il examine
 
@@ -1698,11 +1702,11 @@ arrête:
 
 **1.3 Obligations de la commune et de la préfecture**
 
-<sup>1</sup> Après leur adoption par la commune, les plans et prescriptions doivent être remis immédiatement à l’Office des affaires communales et de l’organisation du territoire, le nombre d’exemplaires étant fixé dans le rapport de l’examen préalable. Une copie de la lettre d’accompagnement est transmise à la préfecture.
+<sup>1</sup> Après leur adoption par la commune, les plans et prescriptions, accompagnés des explications requises ou des rapports techniques, doivent être remis immédiatement à l’Office des affaires communales et de l’organisation du territoire. Un avis est transmis à la préfecture.
 
-<sup>2</sup> Le président et le secrétaire de l'organe compétent pour prendre la décision attestent l'adoption de cette dernière en la signant; le secrétaire atteste de plus le déroulement réglementaire de la procédure de dépôt et le nombre des oppositions vidées et non vidées.
+<sup>2</sup> Le président ou la présidente et le ou la secrétaire de l'organe compétent pour prendre la décision confirment l'adoption de cette dernière; le ou la secrétaire atteste de plus le déroulement réglementaire de la procédure de dépôt et le nombre des oppositions vidées et non vidées.
 
-<sup>3</sup> Les documents suivants doivent être joints:
+<sup>3</sup> Les documents suivants doivent être remis:
 
 - a une liste des oppositions avec l'indication, sur le plan déposé, des parcelles faisant l'objet de ces oppositions;
 - b les procès-verbaux des pourparlers de conciliation;
@@ -1732,9 +1736,7 @@ arrête:
 
 #### Art. 120c
 
-**Plans de zones sous forme numérique, modèle de données**
-
-<sup>1</sup> Si la version numérique d’un règlement de construction, d’un plan de zones ou d’un plan de quartier et sa version papier ne concordent pas, la version papier conservée par l’autorité d’approbation est déterminante.
+**…**
 
 #### Art. 121
 
@@ -1770,9 +1772,9 @@ arrête:
 
 <sup>1</sup> Le conseil communal peut décider la modification mineure de plans et prescriptions sans examen préalable et sans dépôt public.
 
-<sup>2</sup> Avant la décision, un délai de dix jours au moins doit être imparti par lettre recommandée aux propriétaires fonciers, à moins qu'ils n'aient consenti par écrit à la modification.
+<sup>2</sup> Avant la décision, un délai de dix jours au moins doit être imparti aux propriétaires fonciers, à moins qu'ils n'aient consenti par écrit à la modification.
 
-<sup>3</sup> Les plans et prescriptions modifiés doivent être remis à l'Office des affaires communales et de l'organisation du territoire, le nombre d'exemplaires étant fixé d'entente avec ce dernier, pour qu'il les approuve et qu'il statue sur les oppositions non vidées.
+<sup>3</sup> Les plans et prescriptions modifiés doivent être remis à l'Office des affaires communales et de l'organisation du territoire pour qu'il les approuve et qu'il statue sur les oppositions non vidées.
 
 <sup>4</sup> Les dispositions précédentes sont applicables par analogie à la modification mineure de plans de quartier cantonaux. L’article 102 de la loi sur les constructions règle les questions de compétence et de voies de recours.
 
@@ -1925,6 +1927,27 @@ arrête:
 **Bornes de recharge pour véhicules électriques**
 
 <sup>1</sup> Les projets générant une importante fréquentation existants qui ne remplissent pas les exigences de l’article 91b1 doivent être adaptés dans les cinq ans qui suivent l’entrée en vigueur de la présente modification.
+
+## T8 Dispositions transitoires de la modification du 22.09.2021
+
+#### Art. T8-1
+
+**Numérisation des plans directeurs communaux et régionaux**
+
+<sup>1</sup> Jusqu'à la numérisation des plans directeurs communaux et régionaux, dont la date et les modalités sont fixées par le Conseil-exécutif, les dispositions suivantes s'appliquent:
+
+- a les projets de plan directeur, accompagnés des rapports techniques ainsi que du rapport sur l'information et la participation de la population, doivent être adressés sous forme imprimée à l'Office des affaires communales et de l’organisation du territoire en vue de leur examen préalable, le nombre d'exemplaires étant fixé au cas par cas, d'entente avec ledit office;
+- b les plans directeurs et les rapports techniques doivent être adressés sous forme imprimée à l'Office des affaires communales et de l'organisation du territoire pour approbation, le nombre d'exemplaires étant fixé dans le rapport de l'examen préalable.
+
+#### Art. T8-2
+
+**Numérisation des plans d'affectation communaux**
+
+<sup>1</sup> Jusqu'à la numérisation des plans d'affectation communaux, les dispositions suivantes s'appliquent:
+
+- a les règlements de construction, les plans de zone et les plans de quartier, accompagnés des explications requises ou des rapports techniques ainsi que du rapport sur l'information et la participation de la population, doivent être adressés sous forme imprimée à l'Office des affaires communales et de l'organisation du territoire en vue de leur examen préalable, le nombre d'exemplaires étant fixé d'entente avec ce dernier, au cas par cas. Un avis est transmis à la préfecture;
+- b après leur adoption par la commune, les plans et prescriptions, accompagnés des explications requises ou des rapports techniques, doivent être remis immédiatement sous forme imprimée à l'Office des affaires communales et de l'organisation du territoire, le nombre d'exemplaires étant fixé dans le rapport de l'examen préalable. Un avis est transmis à la préfecture;
+- c si la version numérique d'un règlement de construction, d'un plan de zones ou d'un plan de quartier et sa version papier ne concordent pas, la version papier conservée par l'autorité d'approbation est déterminante.
 
 Berne, le 6 mars 1985
 
