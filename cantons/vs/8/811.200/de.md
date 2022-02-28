@@ -3,47 +3,43 @@ canton: VS
 number: "811.200"
 title: Verordnung über die vom Staat delegierten Tätigkeiten im Gesundheitswesen
 language: de
-version: 2015-01-01
-corrected: 2017-06-13
-version_adopted: 2014-10-01
+version: 2022-03-01
+version_adopted: 2022-01-12
 adopted: 2022-01-12
 in_force: 2022-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/811.200"
-pdf: "https://lex.vs.ch/api/de/versions/233/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3007/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die vom Staat delegierten Tätigkeiten im Gesundheitswesen
 
-vom 1. Oktober 2014
+vom 12.01.2022 (Stand 01.03.2022)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Bestimmungen des Gesetzes über die Krankenanstalten und -institutionen vom 13. März 2014 (GKAI), insbesondere die Artikel 19, 22, 23 und 25;
+eingesehen das Gesundheitsgesetz vom 12. März 2020 (GG), insbesondere die Artikel 7 bis 10 und 129;
 
-eingesehen die Bestimmungen des Gesundheitsgesetzes vom 14. Februar 2008 (GG), insbesondere die Artikel 5 bis 8 und 125;
+eingesehen das Gesetz über die Krankenanstalten und -institutionen vom 13. März 2014 (GKAI), insbesondere die Artikel 19, 22, 23 und 25;
 
-eingesehen die Bestimmungen des Gesetzes über die Langzeitpflege vom 14. September 2011 (Langzeitpflegegesetz), insbesondere Artikel 36;
+eingesehen das Gesetz über die Langzeitpflege vom 14. September 2011 (GLP), insbesondere Artikel 36;
 
-auf Antrag des Departements für Gesundheit, Soziales und Kultur,
+auf Antrag des für die Gesundheit zuständigen Departements,
 
 verordnet:
 
 #### Art. 1
 
-**Gegenstand, Zweck und Geltungsbereich**
+**Gegenstand**
 
-<sup>1</sup> Die vorliegende Verordnung hat die Delegierung von medizinischen Tätigkeiten oder Tätigkeiten im Bereich des Gesundheitswesens an öffentliche oder private Einrichtungen oder Institutionen durch den Staat zum Gegenstand.
-
-<sup>2</sup> Sie präzisiert insbesondere den Auftrag oder die Umstände der Delegierung, die delegierten spezifischen Aufgaben, die Zuständigkeiten und Verantwortlichkeiten, die Organisation und die Funktionsweise sowie die Finanzierung durch den Staat.
+<sup>1</sup> Die vorliegende Verordnung bezieht sich auf die Delegierung von medizinischen Tätigkeiten oder Tätigkeiten im Bereich des Gesundheitswesens an öffentliche oder private Einrichtungen oder Institutionen durch den Staat, insbesondere an die kantonale Einheit für übertragbare Krankheiten, an die Sozial-Medizinische Koordinationsstelle (SOMEKO) und an die Abteilung für den schulärztlichen Dienst.
 
 #### Art. 2
 
 **Grundsatz**
 
-Der Staatsrat kann im Rahmen der Gesundheitsplanung die Ausführung bestimmter offizieller medizinischer Tätigkeiten oder Tätigkeiten im Bereich des Gesundheitswesens, die insbesondere auf spezifischen gesetzlichen Bestimmungen beruhen, vorübergehend oder dauernd an Spitäler, an ihnen angegliederte medizinisch-technische Institute oder an sonstige öffentliche oder private spezialisierte Anstalten oder Institutionen delegieren.
+<sup>1</sup> Der Staatsrat kann im Rahmen der Gesundheitsplanung die Ausübung bestimmter offizieller medizinischer Tätigkeiten oder Tätigkeiten im Bereich des Gesundheitswesens, die insbesondere auf spezifischen gesetzlichen Bestimmungen beruhen, vorübergehend oder dauerhaft an Spitäler, an diesen angegliederte medizinisch-technische Institute oder an andere öffentliche oder private spezialisierte Anstalten oder Institutionen delegieren.
 
 #### Art. 3
 
@@ -51,25 +47,15 @@ Der Staatsrat kann im Rahmen der Gesundheitsplanung die Ausführung bestimmter o
 
 <sup>1</sup> Die delegierten Tätigkeiten werden unter der Aufsicht und Verantwortung des Staates ausgeübt, notfalls mit der Unterstützung von Experten oder Universitätsinstituten, die vom Gesundheitsdepartement (nachfolgend: das Departement) beauftragt werden.
 
-<sup>2</sup> Das Departement ist dafür zuständig, die Modalitäten der Delegierung offizieller medizinischer Tätigkeiten oder Tätigkeiten im Bereich des Gesundheitswesens im Rahmen der sachbezogenen Bestimmungen und der Bestimmungen der vorliegenden Verordnung auf dem Vereinbarungsweg zu regeln.
+<sup>2</sup> Das Departement ist dafür zuständig, die Modalitäten der Delegierung offizieller medizinischer Tätigkeiten oder Tätigkeiten im Bereich des Gesundheitswesens im Rahmen der sachbezogenen Bestimmungen und der Bestimmungen der vorliegenden Verordnung auf dem Vereinbarungs- oder Reglementsweg zu regeln.
 
 <sup>3</sup> Diese Modalitäten umfassen insbesondere:
 
-- a) die Zuständigkeiten und Verantwortlichkeiten;
-
-- b) die zu erbringenden Leistungen, deren Qualität und deren Angemessenheit;
-
-- c) die Bezeichnung der Kaderpersonen und der Verantwortlichen;
-
-- d) die Bereitstellung des Personals;
-
-- e) die Bereitstellung der Infrastrukturen und Einrichtungen;
-
-- f) die Finanzierung durch den Staat;
-
-- g) die Kommunikation, die Tätigkeitsberichte und die Publikationen;
-
-- h) den Schutz der Personendaten sowie die Einhaltung des Berufs- und Amtsgeheimnisses.
+- a) die Zuständigkeiten;
+- b) die Bezeichnung der Kaderpersonen und der Verantwortlichen;
+- c) die Finanzierung durch den Staat;
+- d) die Tätigkeitsberichte und die Publikationen;
+- e) den Schutz der Personendaten sowie die Einhaltung des Berufs- und Amtsgeheimnisses.
 
 #### Art. 4
 
@@ -83,62 +69,66 @@ Der Staatsrat kann im Rahmen der Gesundheitsplanung die Ausführung bestimmter o
 
 #### Art. 5
 
-Delegierung an die kantonale Einheit für übertragbare Krankheiten
+**Kantonale Einheit für übertragbare Krankheiten**
 
-<sup>1</sup> Die Tätigkeiten, die vom Staat an die kantonale Einheit für übertragbare Krankheiten delegiert werden, sind durch die Umsetzung der Bundesgesetzgebung über die Bekämpfung von übertragbaren Krankheiten auf der Ebene des Kantons vorgezeichnet.
+<sup>1</sup> Die kantonale Einheit für übertragbare Krankheiten ist eine selbstständige Verwaltungseinheit, die in die Abteilung für Infektionskrankheiten des Zentralinstituts der Spitäler (nachfolgend: ZIS) integriert ist, um vom medizinischen und wissenschaftlichen Umfeld dieses Instituts profitieren zu können.
 
-<sup>2</sup> Das Departement delegiert auf dem Vereinbarungsweg nach Artikel 4 an die kantonale Einheit für übertragbare Krankheiten die spezifischen operativen Aufgaben, die den kantonalen Gesundheitsbehörden, insbesondere dem Kantonsarzt, zufallen und die in den vorgenannten Gesetzesbestimmungen, insbesondere in Artikel 125 GG, definiert sind.
+<sup>2</sup> Der verantwortliche Arzt der kantonalen Einheit für übertragbare Krankheiten ist der Kantonsarzt. Die Ausübung der Aufgaben, die an diese Einheit delegiert werden, untersteht seiner Aufsicht und Verantwortung.
 
-<sup>3</sup> Das Departement kann der kantonalen Einheit für übertragbare Krankheiten sonstigen Aufgaben übertragen, zum Beispiel epidemiologischen Studien und Präventionsmassnahmen im Bereich der ansteckenden Krankheiten wie beispielsweise die anonyme Erkennung der HIV-Infektion und die Impfung gewisser Risikogruppen. Überdies kann die kantonale Einheit für übertragbare Krankheiten mit der Zustimmung des Departements sonstige Aufgaben für das Spital Wallis sowie für andere Partner wahrnehmen.
+<sup>3</sup> Der Chefarzt wird nach der Genehmigung durch das Departement vom ZIS ernannt. Er organisiert und verwaltet die kantonale Einheit für übertragbare Krankheiten im Einvernehmen mit dem Kantonsarzt und legt das Pflichtenheft seiner Mitarbeiter fest.
 
-<sup>4</sup> Die kantonale Einheit für übertragbare Krankheiten ist eine selbständige Verwaltungseinheit, die in der Abteilung für Infektionskrankheiten des Zentralinstituts der Walliser Spitäler (ZIWS) eingegliedert ist, um vom medizinischen und wissenschaftlichen Umfeld dieses Instituts zu profitieren.
-
-<sup>5</sup> Der verantwortliche Arzt der kantonalen Einheit für übertragbare Krankheiten ist der vom Staatsrat ernannte Kantonsarzt. Die Erfüllung der Aufgaben, die an diese Einheit delegiert werden, untersteht der Aufsicht und Verantwortlichkeit des Kantonsarztes.
-
-<sup>6</sup> Der Staatsrat bezeichnet aus der Mitte der beim ZIWS angestellten Ärzte, welche die nötigen Ausbildungsanforderungen erfüllen, einen oder mehrere Kaderärzte der kantonalen Einheit für übertragbare Krankheiten als stellvertretende verantwortliche Ärzte des Kantonsarztes.
+<sup>4</sup> Der Staatsrat bezeichnet unter den vom ZIS angestellten Ärzten, welche die nötigen Ausbildungsanforderungen erfüllen, einen oder mehrere Kaderärzte der kantonalen Einheit für übertragbare Krankheiten als Stellvertreter des Kantonsarztes.
 
 #### Art. 6
 
-**Kantonale Koordinationsstelle**
+**Delegierung an die kantonale Einheit für übertragbare Krankheiten**
 
-<sup>1</sup> Die kantonale Koordinationsstelle gemäss Artikel 23 GKAI und Artikel 36 des Langzeitpflegegesetzes ist insbesondere dafür zuständig, die Information und Begleitung der Patientinnen und Patienten zwischen den Gesundheitseinrichtungen sicherzustellen, damit die Pflegekontinuität gewährleistet wird und das Vorgehen beim Eintritt in die verschiedenen Heime oder Gesundheitseinrichtungen nach Spitalaufenthalten harmonisiert wird.
+<sup>1</sup> Die Tätigkeiten, die vom Staat an die kantonale Einheit für übertragbare Krankheiten delegiert werden, sind durch die Umsetzung der Bundesgesetzgebung über die Bekämpfung von übertragbaren Krankheiten auf kantonaler Ebene vorgegeben.
 
-<sup>2</sup> Sie wird von einem Vorstand geleitet, der auf Antrag der Mitgliedsinstitutionen vom Staatsrat ernannt wird.
+<sup>2</sup> Das Departement delegiert auf dem Vereinbarungsweg nach Artikel 3 die spezifischen operativen Aufgaben, die den kantonalen Gesundheitsbehörden, insbesondere dem Kantonsarzt, zufallen und die in den vorgenannten Gesetzesbestimmungen, insbesondere in Artikel 129 GG, definiert sind, an die kantonale Einheit für übertragbare Krankheiten.
 
-<sup>3</sup> Der Kantonsarzt präsidiert den Vorstand.
-
-<sup>4</sup> Die Koordinationsstelle wird administrativ dem Zentralinstitut der Walliser Spitäler (ZIWS) angegliedert.
-
-<sup>5</sup> Das Departement legt die Strategie der Koordinationsstelle auf Antrag des Vorstands fest, der mit dem Vollzug beauftragt wird.
-
-<sup>6</sup> Das Departement beschliesst das Budget und die finanzielle Beteiligung des Kantons auf Antrag des Vorstands.
-
-<sup>7</sup> Die Aufgaben sowie die Organisations- und Finanzierungsmodalitäten werden in einem Organisationsreglement festgehalten, das der Genehmigung durch das Departement untersteht.
+<sup>3</sup> Der Kanton kann der kantonalen Einheit für übertragbare Krankheiten sonstige Aufgaben übertragen, zum Beispiel epidemiologischen Studien und Präventionsmassnahmen im Bereich der ansteckenden Krankheiten.
 
 #### Art. 7
 
-**Sonstige delegierte Tätigkeiten**
+**Sozial-Medizinische Koordinationsstelle (SOMEKO)**
 
-<sup>1</sup> Die medizinisch-ethische Kommission des Kantons Wallis gehört zu den delegierten Tätigkeiten.
+<sup>1</sup> Die SOMEKO hat insbesondere den Auftrag, die Information und Begleitung von Patienten zwischen den Pflegeeinrichtungen sicherzustellen, damit die Pflegekontinuität gewährleistet wird, sowie das Vorgehen beim Eintritt in die verschiedenen Gesundheitsinstitutionen nach Spitalaufenthalten zu vereinheitlichen.
 
-<sup>2</sup> Das Departement regelt auf dem Beschlusswege die Fragen zu sonstigen delegierten Tätigkeiten, sofern sie nicht den Bestimmungen der vorliegenden Verordnung zuwiderlaufen.
+<sup>2</sup> Sie wird von einem Vorstand geleitet, der auf Antrag der Mitgliedsinstitutionen vom Departement ernannt wird.
+
+<sup>3</sup> Der Kantonsarzt präsidiert den Vorstand.
+
+<sup>4</sup> Die SOMEKO ist administrativ dem ZIS angegliedert.
 
 #### Art. 8
 
-**Schlussbestimmungen**
+**Delegierung an die Sozial-Medizinische Koordinationsstelle (SOMEKO)**
 
-<sup>1</sup> Alle dieser Verordnung widersprechenden Bestimmungen werden aufgehoben, insbesondere die Verordnung über die vom Staat delegierten Tätigkeiten im Gesundheitswesen vom 4. März 2009.
+<sup>1</sup> Das Departement legt die strategische Ausrichtung der SOMEKO auf Vorschlag des Vorstands, der für die Umsetzung zuständig ist, fest.
 
-<sup>2</sup> Das Departement ist mit dem Vollzug der vorliegenden Verordnung beauftragt.
+<sup>2</sup> Die Aufgaben sowie die Organisations- und Finanzierungsmodalitäten werden in einem Betriebsreglement festgehalten, das dem Departement zur Genehmigung unterbreitet wird.
 
-<sup>3</sup> Diese wird im Amtsblatt veröffentlicht und tritt gleichzeitig mit dem Gesetz über die Krankenanstalten und -institutionen vom 13. März 2014 (GKAI) in Kraft.
+<sup>3</sup> Das Departement erlässt auf Vorschlag des Vorstands das Budget und die finanzielle Beteiligung des Kantons.
 
-So angenommen im Staatsrat zu Sitten, am 1. Oktober 2014.
+#### Art. 9
 
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
+**Abteilung für den schulärztlichen Dienst**
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+<sup>1</sup> Die Abteilung für den schulärztlichen Dienst wird von Gesundheitsförderung Wallis organisiert und verwaltet und ist für die Überwachung des Gesundheitszustands der Schüler, die Vorsorgeuntersuchungen sowie die Aufrechterhaltung und Förderung der Gesundheit der Schüler zuständig.
 
-Verordnung über die vom Staat delegierten Abl. Nr. 41/2014; 01.01.2015 Tätigkeiten im Gesundheitswesen vom 1. Abl. Nr. 39/2014
+<sup>2</sup> Die Delegierung von Aufgaben an die Abteilung für den schulärztlichen Dienst wird in einer spezifischen Verordnung geregelt.
 
-### Oktober 2014
+#### Art. 10
+
+**Andere delegierte Tätigkeiten**
+
+<sup>1</sup> Das Departement kann andere Aufgaben aus den Bereichen Medizin oder Gesundheitswesen delegieren, namentlich, über Vereinbarungen mit den betroffenen Berufsverbänden, die Aufgaben in Bezug auf die Kontrolle der Medizinprodukte der im Kanton tätigen Ärzte, Zahnärzte und ambulanten Ärztezentren.
+
+#### Art. 11
+
+**Schlussbestimmung**
+
+<sup>1</sup> Das Departement wird mit dem Vollzug der vorliegenden Verordnung beauftragt.
+
+CSW RO/AGS 2022-004
