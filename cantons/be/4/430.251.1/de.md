@@ -4,13 +4,13 @@ number: "430.251.1"
 title: Direktionsverordnung über die Anstellung der Lehrkräfte
 short: LADV
 language: de
-version: 2020-08-01
-valid_until: 2022-02-28
-version_adopted: 2020-07-03
+version: 2022-03-01
+valid_until: 2022-07-31
+version_adopted: 2022-05-30
 adopted: 2007-06-15
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1925/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2608/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1925/pdf_file"
 
 (LADV)
 
-vom 15.06.2007 (Stand 01.08.2020)
+vom 15.06.2007 (Stand 01.03.2022)
 
 Die Erziehungsdirektion des Kantons Bern,
 
