@@ -3,20 +3,20 @@ canton: VS
 number: "805.130"
 title: Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les organisations de soins à domicile et les infirmières et infirmiers indépendants
 language: fr
-version: 2022-01-01
-valid_until: 2022-02-28
-version_adopted: 2021-12-01
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-18
 adopted: 2026-06-10
 in_force: 2026-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/805.130"
-pdf: "https://lex.vs.ch/api/fr/versions/2993/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3036/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les organisations de soins à domicile et les infirmières et infirmiers indépendants
 
-du 01.12.2021 (état 01.01.2022)
+du 01.12.2021 (état 01.03.2022)
 
 Le Conseil d’Etat du canton du Valais
 
@@ -65,6 +65,10 @@ arrête:
 <tr><td>Examens et traitements</td><td>23.10</td><td>9.90</td></tr>
 <tr><td>Soins de base</td><td>15.00</td><td>6.40</td></tr>
 </table>
+
+<sup>2</sup> Pour les organisations de soins et d'aide à domicile qui emploient et rémunèrent des membres de la famille (proches aidants), aucune contribution résiduelle des pouvoirs publics n'est accordée pour les prestations effectuées par les membres de la famille.
+
+<sup>3</sup> Aucune contribution résiduelle n’est versée par les pouvoirs publics dans le cas particulier où un établissement médico-social (EMS) dispense des prestations dans des appartements à encadrement médico-social situés dans la même infrastructure que celle de l’EMS.
 
 #### Art. 4
 

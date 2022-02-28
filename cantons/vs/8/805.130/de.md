@@ -3,20 +3,20 @@ canton: VS
 number: "805.130"
 title: Beschluss betreffend die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Organisationen für Krankenpflege zu Hause und die selbstständigen Pflegefachpersonen
 language: de
-version: 2022-01-01
-valid_until: 2022-02-28
-version_adopted: 2021-12-01
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2022-05-18
 adopted: 2026-06-10
 in_force: 2026-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/805.130"
-pdf: "https://lex.vs.ch/api/de/versions/2993/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3036/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss betreffend die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Organisationen für Krankenpflege zu Hause und die selbstständigen Pflegefachpersonen
 
-vom 01.12.2021 (Stand 01.01.2022)
+vom 01.12.2021 (Stand 01.03.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -65,6 +65,10 @@ beschliesst:
 <tr><td>Untersuchung und Behandlung</td><td>23.10</td><td>9.90</td></tr>
 <tr><td>Grundpflege</td><td>15.00</td><td>6.40</td></tr>
 </table>
+
+<sup>2</sup> Für die Organisationen für Krankenpflege zu Hause, die Familienangehörige (pflegende Angehörige) beschäftigen und entlohnen, wird kein Restbeitrag der öffentlichen Hand für die von den Familienangehörigen erbrachten Leistungen gewährt.
+
+<sup>3</sup> Kein Restbeitrag der öffentlichen Hand wird in dem besonderen Fall gewährt, dass ein Alters- und Pflegeheim (APH) Leistungen in Wohnungen mit sozialmedizinischer Betreuung erbringt, die sich in derselben Infrastruktur wie das APH befinden.
 
 #### Art. 4
 
