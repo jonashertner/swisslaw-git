@@ -4,13 +4,12 @@ number: "141.2"
 title: Geschäftsordnung der Regierung
 short: GeschO
 language: de
-version: 2021-02-01
-valid_until: 2022-02-28
-version_adopted: 2021-01-12
+version: 2022-03-01
+version_adopted: 2022-01-25
 adopted: 1997-05-05
 in_force: 1997-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3102/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3102/pdf_file"
 
 (GeschO)
 
-vom 05.05.1997 (Stand 01.02.2021)
+vom 05.05.1997 (Stand 01.03.2022)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -57,6 +56,8 @@ als Verordnung:[^ingress-2]
 - d) bedeutende Themen im Zusammenhang mit Organisationen mit kantonaler Beteiligung.
 
 <sup>2</sup> Über Orientierungen erfolgt keine Beschlussfassung.
+
+<sup>3</sup> Die Staatskanzlei dokumentiert die Orientierungen schriftlich und bewahrt sie während zehn Jahren auf.
 
 #### Art. 3
 
@@ -244,7 +245,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Staatskanzlei erstellt schriftliche Aufzeichnungen über die Beschlussfassung der Regierung. Die Aufzeichnungen dienen insbesondere der mit den Beratungen übereinstimmenden Ausfertigung der Beschlüsse.
 
-<sup>2</sup> Die Aufzeichnungen werden längstens sechs Monate aufbewahrt.
+<sup>2</sup> Die Aufzeichnungen werden während zehn Jahren aufbewahrt.
 
 ### 3. Nachbereitung
 
