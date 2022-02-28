@@ -4,13 +4,13 @@ number: "490.11"
 title: Energieverordnung
 short: EnV BL
 language: de
-version: 2021-10-08
-valid_until: 2022-02-28
-version_adopted: 2021-09-28
+version: 2022-03-01
+valid_until: 2023-06-09
+version_adopted: 2022-01-25
 adopted: 2016-12-20
 in_force: 2017-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/490.11"
-pdf: "https://bl.clex.ch/api/de/versions/3102/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3231/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3102/pdf_file"
 
 (EnV BL)
 
-Vom 20.12.2016 (Stand 08.10.2021)
+Vom 20.12.2016 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -66,7 +66,7 @@ beschliesst:
 <tr><td>a.</td><td>«Gebäude» oder «Baute»</td><td>im Erdboden eingelassene oder darauf stehende, künstlich geschaffene, auf Dauer angelegte bauliche Einrichtungen, die einen Raum zum Schutz von Menschen, Tieren oder Sachen gegen äussere, namentlich atmosphärische Einflüsse weitestgehend abschliessen. Darunter fallen auch Fahrnisbauten;</td></tr>
 <tr><td>b.</td><td>«Neubauten»</td><td>neue Gebäude sowie Anbauten und Aufstockungen;</td></tr>
 <tr><td>c.</td><td>«Umbauten»</td><td>jede bauliche Veränderung von Gebäuden oder Gebäudeteilen, wenn dadurch die Energienutzung beeinflusst wird;</td></tr>
-<tr><td>d.</td><td>«Umnutzung»</td><td>jede Änderung der Standardnutzung gemäss Norm SIA 380/1 «Thermische Energie im Hochbau», sofern diese zu einer Erhöhung der Standardraumtemperatur oder zu einer Veränderung des Raumklimas gegenüber dem Ausgangszustand führt;</td></tr>
+<tr><td>d.</td><td>«Umnutzung»</td><td>jede Änderung der Standardnutzung gemäss Norm SIA 380/1 «Heizwärmebedarf», sofern diese zu einer Erhöhung der Standardraumtemperatur oder zu einer Veränderung des Raumklimas gegenüber dem Ausgangszustand führt;</td></tr>
 <tr><td>e.</td><td>«Haustechnische Anlagen»</td><td>Anlagen, die Wärme, Kälte, Warmwasser und Raumluft aufbereiten und verteilen;</td></tr>
 <tr><td>f.</td><td>«Elektroheizung»</td><td>Heizungen, welche Elektrizität ohne elektrothermischen Verstärkungsfaktor für Raumwärme einsetzen und für die Beheizung von Räumen oder Bauten während der Heizperiode vorgesehen sind;</td></tr>
 <tr><td>g.</td><td>«Abwärme»</td><td>nach dem Stand der Technik nicht vermeidbare Wärmeverluste, die aus Energieumwandlungs- oder chemischen Prozessen (u. a. Druckluftanlagen, Kälteanlagen usw.) entstehen, ausgenommen Heizwärme aus Wärme-Kraft-Kopplungsanlagen;</td></tr>
@@ -132,13 +132,13 @@ beschliesst:
 
 <sup>1</sup> Für den Nachweis des ausreichenden Wärmeschutzes müssen entweder die Einzelanforderungen oder die Systemanforderungen gemäss dieser Verordnung eingehalten werden.
 
-<sup>2</sup> Für Anbauten, Aufstockungen, neubauartige Umbauten wie Auskernungen und dergleichen gelten die Anforderungen für Neubauten.
+<sup>2</sup> Für Anbauten, Aufstockungen, neubauartige Umbauten gelten die Anforderungen für Neubauten.
 
 <sup>3</sup> Bei einer Umnutzung gelten die Anforderungen für Umbauten.
 
 <sup>4</sup> Bei Neubauten sind für lineare und punktuelle Wärmebrücken, die nicht in den U-Werten eingerechnet sind, die Grenzwerte gemäss Anhang 1 einzuhalten.
 
-<sup>5</sup> Ausgenommen von der Nachweispflicht sind Umnutzungen mit gleich bleibender Raumlufttemperatur gemäss Standardnutzung nach der Norm SIA 380/1 «Thermische Energie im Hochbau», Ausgabe 2009.
+<sup>5</sup> Ausgenommen von der Nachweispflicht sind Umnutzungen mit gleich bleibender Raumlufttemperatur gemäss Standardnutzung nach der Norm SIA 380/1 «Heizwärmebedarf», Ausgabe 2016.
 
 #### § 11
 
@@ -152,7 +152,7 @@ beschliesst:
 
 **Systemanforderungen an den Wärmeschutz**
 
-<sup>1</sup> Die Berechnung des jährlichen Heizwärmebedarfs (Qh,li) hat nach dem Verfahren gemäss Norm SIA 380/1 «Thermische Energie im Hochbau», Ausgabe 2009 zu erfolgen.
+<sup>1</sup> Die Berechnung des jährlichen Heizwärmebedarfs (Qh,li) hat nach dem Verfahren gemäss Norm SIA 380/1 «Heizwärmebedarf», Ausgabe 2016, zu erfolgen.
 
 <sup>2</sup> Es sind die Daten der Klimastation Basel-Binningen zu verwenden.
 
@@ -233,9 +233,9 @@ beschliesst:
 
 #### § 19
 
-**Brauchwarmwasser**
+**Warmwasser**
 
-<sup>1</sup> Brauchwarmwassererwärmer müssen für eine Betriebstemperatur von höchstens 60° C ausgelegt werden. Ausgenommen sind solche, deren Temperatur aus betrieblichen oder aus hygienischen Gründen höher sein muss.
+<sup>1</sup> Wassererwärmer müssen für eine Betriebstemperatur von höchstens 60° C ausgelegt werden. Ausgenommen sind solche, deren Temperatur aus betrieblichen oder aus hygienischen Gründen höher sein muss.
 
 #### § 20
 
@@ -306,7 +306,7 @@ beschliesst:
 
 <sup>1</sup> Lüftungstechnische Anlagen mit Aussenluft und Fortluft sind mit einer Wärmerückgewinnung auszurüsten, welche einen Temperatur-Änderungsgrad nach dem Stand der Technik aufweist.
 
-<sup>2</sup> Einfache Abluftanlagen von beheizten Räumen sind entweder mit einer kontrollierten Zuführung der Ersatzluft und einer Wärmerückgewinnung oder einer Nutzung der Wärme der Abluft auszurüsten, sofern der Abluftvolumenstrom grösser als 1'000 m³/Stunde und die Betriebsdauer mehr als 500 Stunden/Jahr beträgt.
+<sup>2</sup> Einfache Abluftanlagen von beheizten Räumen sind nur bis zu einem Abluftvolumenstrom von bis 1'000 m³/Stunde und einer Betriebsdauer bis 500 Stunden/Jahr erlaubt. Lüftungsanlagen mit höherem Volumenstrom und längerer Betriebsdauer müssen mit einer Wärmerückgewinnungs- oder Abwärme-Nutzungsanlage ausgestattet sein.
 
 <sup>3</sup> Die Luftgeschwindigkeiten dürfen in Apparaten, bezogen auf die Nettofläche, 2,0 m/s und im massgebenden Strangen der Kanäle folgende Werte nicht überschreiten:
 
@@ -362,7 +362,7 @@ beschliesst:
 
 **Elektrizität bei Beleuchtungsanlagen in Hochbauten**
 
-<sup>1</sup> Für Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche (EBF) von mehr als 1000 m² muss die Einhaltung der Grenzwerte für den jährlichen Elektrizitätsbedarf gemäss Norm SIA 380/4 «Elektrische Energie im Hochbau», Ausgabe 2006, für Beleuchtung (E'Li) nachgewiesen werden.
+<sup>1</sup> Für Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche (EBF) von mehr als 1000 m² muss die Einhaltung der Grenzwerte für den jährlichen spezifischen Elektrizitätsbedarf (E'Li) und die spezifische Leistung (pLi) nach Norm SIA 387/4 nachgewiesen werden.
 
 <sup>2</sup> Die Pflicht, den jährlichen Elektrizitätsbedarf nachzuweisen, besteht nicht bei:
 
