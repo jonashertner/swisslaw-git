@@ -4,13 +4,12 @@ number: "211.59"
 title: Kantonale Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
 short: KÖREBKV
 language: de
-version: 2021-04-01
-valid_until: 2022-02-28
-version_adopted: 2021-03-09
+version: 2022-03-01
+version_adopted: 2022-01-25
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.59"
-pdf: "https://bl.clex.ch/api/de/versions/2938/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3228/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2938/pdf_file"
 
 (KÖREBKV)
 
-Vom 12.12.2017 (Stand 01.04.2021)
+Vom 12.12.2017 (Stand 01.03.2022)
 
 Der Regierungsrat,
 
@@ -40,6 +39,10 @@ beschliesst
 
 - a. kantonale Baulinien (ID 22-BL);
 - b. kommunale Baulinien (ID 25-BL).
+
+<sup>3</sup> Zusätzlich werden im Kataster die in den Anhängen 1 und 2 der kantonalen Verordnung über Geoinformation[^1-1] in der Rubrik geplante oder laufende Änderungen bezeichneten öffentlich-rechtlichen Eigentumsbeschränkungen dargestellt.
+
+[^1-1]: [SGS 211.58](https://bl.clex.ch/data/211.58/de)
 
 #### § 2
 
@@ -72,7 +75,13 @@ beschliesst
 
 <sup>2</sup> Es stellt bei der Erarbeitung der Weisungen die Mitwirkung der zuständigen kantonalen Fachstellen und der GIS-Koordinationsgruppe Gemeinden-Kanton auf geeignete Weise sicher.
 
-<sup>3</sup> Die zuständige Stelle gemäss § 3 stellt dem Amt für Geoinformation die nachgeführten Daten spätestens 15 Arbeitstage nach Eintritt der Rechtskraft zur Verfügung.
+<sup>3</sup> Vorbehältlich der Bestimmungen zur Nachführung der kommunalen Richt- und Nutzungspläne sowie der zugehörigen Reglemente gemäss § 3a ff. der Verordnung zum Raumplanungs- und Baugesetz (RBV)[^4-1] stellt die zuständige Stelle gemäss § 3 dem Amt für Geoinformation zur Verfügung:
+
+- a. die Geobasisdaten der beschlossenen öffentlich-rechtlichen Eigentumsbeschränkungen nach Beschluss und unbenutztem Ablauf der allfälligen Referendumsfrist mit dem Hinweis zur Verfügung, dass es sich um Zusatzinformationen gemäss Art. 8b Abs. 1 Bst. a. der Verordnung des Bundes über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREBKV)[^4-2] handelt;
+- b. die nachgeführten Geobasisdaten der rechtskräftigen, öffentlich-rechtlichen Eigentumsbeschränkungen spätestens 15 Arbeitstage nach Eintritt der Rechtskraft.
+
+[^4-1]: [SGS 400.11](https://bl.clex.ch/data/SGS%20400.11/de)
+[^4-2]: [SR 510.622.4](https://db.clex.ch/link/Bund/510.622.4/de)
 
 #### § 5
 
