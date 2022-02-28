@@ -3,20 +3,20 @@ canton: SG
 number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
-version: 2022-01-20
-valid_until: 2022-02-28
-version_adopted: 2022-01-18
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-26
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3312/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3343/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 
-vom 12.12.1995 (Stand 20.01.2022)
+vom 12.12.1995 (Stand 01.03.2022)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -137,7 +137,7 @@ als Verordnung:[^ingress-2]
 
 **Anspruchsberechtigung a) Personen mit Wohnsitz oder Aufenthaltsberechtigung im Kanton**
 
-<sup>1</sup> Massgebend für die Anspruchsberechtigung auf Prämienverbilligung für Personen mit zivilrechtlichem Wohnsitz oder einer fremdenpolizeilichen Bewilligung zum Jahresaufenthalt (Ausweis B) im Kanton sowie für erwerbstätige vorläufig aufgenommene Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N) und Kurzaufenthalter (Ausweis L) mit einer ununterbrochenen Aufenthaltsdauer von wenigstens 365 Tagen sind die persönlichen und familiären Verhältnisse einer Person am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird.
+<sup>1</sup> Massgebend für die Anspruchsberechtigung auf Prämienverbilligung für Personen mit zivilrechtlichem Wohnsitz oder einer fremdenpolizeilichen Bewilligung zum Jahresaufenthalt (Ausweis B) im Kanton sowie für erwerbstätige vorläufig aufgenommene Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), erwerbstätige Schutzbedürftige (Ausweis S) und Kurzaufenthalter (Ausweis L) mit einer bewilligten ununterbrochenen Aufenthaltsdauer von wenigstens 365 Tagen sind die persönlichen und familiären Verhältnisse einer Person am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird.
 
 <sup>2</sup> …
 
@@ -367,7 +367,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Sozialversicherungsanstalt stellt der voraussichtlich anspruchsberechtigten Person, die am 1. Januar des Jahres der Prämienverbilligung ihren zivilrechtlichen Wohnsitz oder eine fremdenpolizeiliche Bewilligung zum Jahresaufenthalt (Ausweis B) im Kanton hat, bis 31. Januar ein vorausgefülltes Anmeldeformular zu.
 
-<sup>2</sup> Kein vorausgefülltes Anmeldeformular erhalten versicherungspflichtige Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, erwerbstätige vorläufig aufgenommene Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), Kurzaufenthalter (Ausweis L) mit einer ununterbrochenen Aufenthaltsdauer von wenigstens 365 Tagen und Personen, die nach Art. 177 des Steuergesetzes vom 9. April 1998[^22-1] nach Ermessen veranlagt werden sowie Personen mit Einkommen und Vermögen Null.
+<sup>2</sup> Kein vorausgefülltes Anmeldeformular erhalten versicherungspflichtige Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, erwerbstätige vorläufig aufgenommene Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), erwerbstätige Schutzbedürftige (Ausweis S), Kurzaufenthalter (Ausweis L) mit einer bewilligten ununterbrochenen Aufenthaltsdauer von wenigstens 365 Tagen und Personen, die nach Art. 177 des Steuergesetzes vom 9. April 1998[^22-1] nach Ermessen veranlagt werden sowie Personen mit Einkommen und Vermögen Null.
 
 <sup>3</sup> Personen, die kein vorausgefülltes Anmeldeformular erhalten haben, können ein Anmeldeformular bei der Sozialversicherungsanstalt beziehen.
 
