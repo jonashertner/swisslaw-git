@@ -4,13 +4,13 @@ number: "922.111"
 title: Ordonnance sur la chasse
 short: OCh
 language: fr
-version: 2021-04-01
-valid_until: 2022-02-28
-version_adopted: 2021-02-17
+version: 2022-03-01
+valid_until: 2023-02-28
+version_adopted: 2022-02-02
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2206/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2551/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2206/pdf_file"
 
 (OCh)
 
-du 26.02.2003 (état au 01.04.2021)
+du 26.02.2003 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -456,7 +456,7 @@ arrête:
 
 <sup>2</sup> Les membres de la CCPFS sont choisis de manière à ce que les intérêts du sport et du tourisme soient aussi représentés.
 
-<sup>2a</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer en priorité un candidat ou une candidate.
+<sup>2a</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones de l'arrondissement de Biel/Bienne le droit de proposer en priorité un candidat ou une candidate.
 
 <sup>3</sup> La CCPFS est l'organe d'expertise et de consultation de la Direction de l’économie, de l’énergie et de l’environnement dans les domaines de la chasse, de la planification de la chasse, du gibier, des dommages causés par la faune sauvage et de la protection des animaux. Elle apporte son soutien à l'Office de l'agriculture et de la nature et à l'Inspection de la chasse et les conseille.
 

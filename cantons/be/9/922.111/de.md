@@ -4,13 +4,13 @@ number: "922.111"
 title: Jagdverordnung
 short: JaV
 language: de
-version: 2021-04-01
-valid_until: 2022-02-28
-version_adopted: 2021-02-17
+version: 2022-03-01
+valid_until: 2023-02-28
+version_adopted: 2022-02-02
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2206/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2551/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2206/pdf_file"
 
 (JaV)
 
-vom 26.02.2003 (Stand 01.04.2021)
+vom 26.02.2003 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -456,7 +456,7 @@ beschliesst:
 
 <sup>2</sup> Die Mitglieder der KJW sind so auszuwählen, dass auch die Interessen des Sports und des Tourismus vertreten werden.
 
-<sup>2a</sup> Die Wirtschafts-, Energie- und Umweltdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel das Recht, vorgängig eine Kandidatin oder einen Kandidaten vorzuschlagen.
+<sup>2a</sup> Die Wirtschafts-, Energie- und Umweltdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne das Recht, vorgängig eine Kandidatin oder einen Kandidaten vorzuschlagen.
 
 <sup>3</sup> Die KJW ist das begutachtende und vorberatende Organ der Wirtschafts-, Energie- und Umweltdirektion für Fragen des Jagdwesens, der Jagdplanung, der jagdbaren Wildtierarten, des Wildschadenwesens und des Wildtierschutzes. Sie unterstützt das LANAT und das Jagdinspektorat und steht ihnen beratend zur Seite.
 
