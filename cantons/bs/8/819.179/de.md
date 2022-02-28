@@ -1,0 +1,181 @@
+---
+canton: BS
+number: "819.179"
+title: Verordnung betreffend Härtefallprogramm für Unternehmen im Zusammenhang mit der Covid-19-Pandemie im Jahr 2022
+short: Covid-19-Verordnung Härtefallprogramm 2022
+language: de
+version: 2022-03-01
+version_adopted: 2022-02-22
+adopted: 2022-02-22
+in_force: 2022-03-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/819.179"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5470/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung betreffend Härtefallprogramm für Unternehmen im Zusammenhang mit der Covid-19-Pandemie im Jahr 2022
+
+Arbeitsmarkt und Arbeitsbeschaffung
+
+(Covid-19-Verordnung Härtefallprogramm 2022)
+
+Vom 22. Februar 2022 (Stand 1. März 2022)
+
+Der Regierungsrat des Kantons Basel-Stadt,
+
+gestützt auf Art. 11b und 12 des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020[^ingress-1], die Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie im Jahr 2022 (Covid-19-Härtefallverordnung 2022, HFMV 22) vom 2. Februar 2022[^ingress-2], die Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung) vom 25. November 2020 in der Fassung vom 18. Dezember 2021[^ingress-3] und § 4 Abs. 1 lit. d und § 5 des Gesetzes betreffend den Fonds zur Bekämpfung der Arbeitslosigkeit vom 6. Dezember 1995[^ingress-4], unter Verweis auf seine Erläuterungen Nr. [P220222](https://www.regierungsrat.bs.ch/geschaefte/regierungsratsbeschluesse.html?previousAction1=search&previousAction2=&previousAction3=&previousAction4=&action=geschaeft&geschaeftId=8d2160b1acad487aaa7e7a1bb98273d8&praesidialNr=P220222&monat=&sort=&bis=&dokumentVersion=&jahr=&sitzungId=&searchTerm=&dokumentAnsicht=&von=&dokumentId=),
+
+beschliesst
+
+[^ingress-1]: SR [818.102](https://db.clex.ch/link/Bund/%20818.102/de)
+[^ingress-2]: SR [951.264](https://db.clex.ch/link/Bund/%20951.264/de)
+[^ingress-3]: SR [951.262](https://db.clex.ch/link/Bund/%20951.262/de)
+[^ingress-4]: SG [835.200](https://db.clex.ch/link/SG/%20835.200/de)
+
+#### § 1
+
+**Zweck**
+
+<sup>1</sup> Der Kanton leistet Unterstützungsbeiträge an Unternehmen, welche aufgrund der Auswirkungen der Covid-19-Pandemie und der von Bund oder Kanton dagegen ergriffenen Massnahmen starke wirtschaftliche Einbussen erleiden. Dadurch soll ein Abbau von Arbeits- und Ausbildungsplätzen eingedämmt werden.
+
+<sup>2</sup> Diese Verordnung ist Grundlage für die Umsetzung der Covid-19-Härteverordnung 2022 des Bundes im Kanton Basel-Stadt.
+
+#### § 2
+
+**Geltung der Vorschriften des Bundes**
+
+<sup>1</sup> Soweit in dieser Verordnung nicht etwas Abweichendes geregelt ist, gelten die bundesrechtlichen Bestimmungen gemäss Art. 11b und 12 des Covid-19-Gesetzes sowie der Covid-19-Härtefallverordnung 2022.
+
+#### § 3
+
+**Unternehmen mit einem Jahresumsatz über Fr. 5 Millionen**
+
+<sup>1</sup> Für Unternehmen mit einem Jahresumsatz über Fr. 5 Millionen gelten die Vorschriften des Bundesrechts. Die Bemessung des Unterstützungsbeitrags richtet sich nach § 6.
+
+#### § 4
+
+**Kreis der berechtigten Unternehmen mit einem Jahresumsatz unter Fr. 5 Millionen**
+
+<sup>1</sup> Beitragsberechtigt sind die in diesem Paragraphen definierten Unternehmen, sofern sie die übrigen Voraussetzungen erfüllen.
+
+<sup>2</sup> Beitragsberechtigt sind Beherbergungsbetriebe gemäss § 10 des Gesetzes über das Gastgewerbe (Gastgewerbegesetz) vom 15. September 2004.
+
+<sup>3</sup> Beitragsberechtigt sind Restaurationsbetriebe gemäss § 11 Gastgewerbegesetz. In der Regel werden nur Beiträge an Betriebe geleistet, welche:
+
+- a) über Innenplätze verfügen;
+- b) ganz oder vorwiegend öffentlich zugänglich sind;
+- c) dem Landes-Gesamtarbeitsvertrag des Gastgewerbes (L-GAV) unterstehen.
+
+<sup>4</sup> In begründeten Einzelfällen können Beiträge an andere Unternehmen (insbesondere an Eventcatering-Betriebe) geleistet werden, sofern sie im gleichen Markt wie Beherbergungs- und Restaurationsbetriebe tätig sind und über eine feste Infrastruktur verfügen.
+
+<sup>5</sup> Beitragsberechtigt sind ferner:
+
+- a) Reiseveranstalterinnen oder Reiseveranstalter oder Reisevermittlerinnen oder Reisevermittler im Sinne des Bundesgesetzes über Pauschalreisen vom 18. Juni 1993, welche mindestens 80 % ihres Umsatzes aus der Veranstaltungs- oder Vermittlungstätigkeit erzielen und über eine Absicherung der Kundinnen- und Kundengelder des Garantiefonds der Schweizer Reisebranche oder einer anderen gleichwertigen Institution verfügen;
+- b) Veranstalterinnen und Veranstalter von Busreisen, die über eine Zulassung gemäss dem Bundesgesetz über die Zulassung als Strassentransportunternehmen (STUG) vom 20. März 2009 verfügen;
+- c) Schaustellerinnen und Schausteller gemäss Art. 2 Bst. c der Verordnung über das Gewerbe der Reisenden (RGV) vom 4. September 2002, welche über eine kantonale Bewilligung verfügen oder im Jahr 2021 über eine solche verfügt haben;
+- d) Markthändlerinnen und Markthändler, die mindestens 80 % ihres Umsatzes mit dem Verkauf an Märkten erzielen;
+- e) professionelle Kongressorganisationsunternehmen, welche regelmässig wissenschaftliche oder fachbezogene Veranstaltungen mit mindestens 50 Teilnehmerinnen und Teilnehmern planen oder durchführen;
+- f) Messeunternehmen, Messebau- und Standbauunternehmen sowie Media- und Eventtechnikunternehmen, die mindestens 80 % ihres Umsatzes im Ausstellungs- und Veranstaltungsbereich erzielen;
+- g) Unternehmen, die einen überwiegenden Teil des Umsatzes aus dem Verkauf von Produkten an Gastronomie- oder Hotelbetriebe erzielen;
+- h) Unternehmen, welche Dienstleistungen anbieten, die nur unter Einsatz ortsfester Maschinen oder Anlagen erbracht werden können (wie namentlich Wäschereibetriebe), sofern sie einen überwiegenden Teil ihres Umsatzes aus Leistungen an Gastronomie- oder Hotelbetriebe erzielen;
+- i) Unternehmen, die Einrichtungen zur Durchführung von Freizeitaktivitäten (wie beispielsweise Fitnessstudios, Tanzstudios, Kletterhallen, Escaperooms etc.) betreiben;
+- j) Unternehmen mit spezialisierten handwerklichen und gestalterischen Tätigkeiten, die einen wesentlichen Teil des Umsatzes aus dem Verkauf von Leistungen für die Durchführung der Basler Fasnacht erzielen;
+- k) Unternehmen, die ein Detailhandelsgeschäft betreiben;
+- l) Taxiunternehmen.
+
+#### § 5
+
+**Voraussetzungen für den Leistungsanspruch für Unternehmen mit einem Jahresumsatz unter Fr. 5 Millionen**
+
+<sup>1</sup> Beitragsberechtigt sind die in § 4 definierten Unternehmen, welche die in der Covid-19-Härtefallverordnung 2022 des Bundes und in diesem Paragraphen festgelegten Voraussetzungen erfüllen.
+
+<sup>2</sup> Es sind auch Unternehmen beitragsberechtigt, die nach dem 30. September 2020, aber vor dem 1. Oktober 2021 ins Handelsregister eingetragen oder gegründet wurden, sofern der Umsatz im Zeitraum Januar bis März 2022, hochgerechnet auf ein Jahr, unter 80 % des Umsatzes ab Eintrag ins Handelsregister oder, bei fehlendem Handelsregistereintrag, ab der Gründung bis 30. November 2021, hochgerechnet auf ein Jahr, beträgt.
+
+<sup>3</sup> Es besteht ein Anspruch, wenn der Jahresumsatz 2020 unter 80 % des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 liegt.
+
+<sup>4</sup> Das Unternehmen muss im Durchschnitt der Jahre 2018 und 2019 einen Umsatz von mindestens Fr. 40'000 erzielt haben.
+
+<sup>5</sup> Die Unterstützung setzt voraus, dass das Unternehmen per 31. Dezember 2019 nicht in dem Masse überschuldet war, dass die kurzfristigen Verbindlichkeiten durch die Aktiven nicht mehr gedeckt waren.
+
+<sup>6</sup> Der Anspruch auf Ausrichtung eines Beitrags ist an die Bedingung geknüpft, dass sich das Unternehmen zum Zeitpunkt der Einreichung des Gesuchs nach dieser Verordnung nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge oder Steuerforderungen befindet und keine Verlustscheine aufweist, es sei denn, dass zum Zeitpunkt der Einreichung des Gesuchs eine vereinbarte Zahlungsplanung vorliegt oder das Verfahren durch Zahlung abgeschlossen war. Zudem darf sich das Unternehmen bei der Auszahlung der Beiträge nicht in einem Konkurs- oder Nachlassverfahren oder in Liquidation befindet.
+
+#### § 6
+
+**Art, Bemessung und Höchstgrenzen**
+
+<sup>1</sup> Die Unterstützung erfolgt in Form von nicht rückzahlbaren Beiträgen (à fonds perdu-Beiträge).
+
+<sup>2</sup> Es wird ein Beitrag in Höhe der ungedeckten Kosten im Zeitraum vom 1. Januar bis 31. März 2022 ausgerichtet. Für Unternehmen gemäss § 4 Abs. 5 lit. j wird ein Beitrag in Höhe der ungedeckten Kosten im Zeitraum vom 1. Oktober 2021 bis 31. März 2022 ausgerichtet.
+
+<sup>3</sup> Für die Ermittlung der ungedeckten Kosten wird vom liquiditätswirksamen Aufwand der Umsatz und erhaltene Hilfen (wie namentlich Kurzarbeitsentschädigung, Covid-Erwerbsersatz, Leistungen einer Pandemieversicherung) in Abzug gebracht. Kosten, welche durch zumutbare Selbsthilfemassnahmen vermeidbar gewesen wären, werden nicht berücksichtigt.
+
+<sup>4</sup> Die Höchstgrenzen der Beiträge bestimmen sich nach Art. 5 der Covid-19-Härtefallverordnung 2022 des Bundes.
+
+#### § 7
+
+**Akontozahlung**
+
+<sup>1</sup> Steht die Anspruchsberechtigung fest, können Akontozahlungen auf Verlangen geleistet werden, falls sich die definitive Unterstützung noch nicht berechnen lässt und das Unternehmen einen dringenden Liquiditätsbedarf nachweisen kann. Akontozahlungen können für das erste Quartal 2022 beantragt werden.
+
+<sup>2</sup> Für die Akontozahlung müssen die Unterlagen gemäss § 10 Abs. 3 lit. b eingereicht werden.
+
+<sup>3</sup> Eine bereits ausgerichtete Akontozahlung wird an die Ansprüche gemäss dieser Verordnung angerechnet. Ist die Zahlung höher als der definitive Anspruch, ist der zu viel ausbezahlte Beitrag zurückzuzahlen.
+
+#### § 8
+
+**Finanzierung**
+
+<sup>1</sup> Die Finanzierung über den Fonds zur Bekämpfung der Arbeitslosigkeit (Krisenfonds) ist auf Fr. 10 Millionen begrenzt. Zusätzlich werden die Bundesmittel gemäss Art. 12 Abs. 1<sup>quater</sup> Covid-19-Gesetz eingesetzt.
+
+#### § 9
+
+**Abwicklung der Gesuche**
+
+<sup>1</sup> Das Departement für Wirtschaft, Soziales und Umwelt ist für die Abwicklung der Gesuche zuständig. Der Geschäftsverkehr soll dabei soweit als möglich digital abgewickelt werden.
+
+#### § 10
+
+**Einreichen der Gesuche**
+
+<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller reicht mit dem Gesuch auch die weiteren notwendigen Unterlagen über ein dafür bereitgestelltes Online-Portal ein. Das elektronische Antragsformular ist vollständig und wahrheitsgemäss auszufüllen. Der Eingang des Gesuchs wird automatisch bestätigt.
+
+<sup>2</sup> Hat das Unternehmen bereits Härtefallbeiträge nach der Covid-19-Verordnung Härtefallprogramm vom 20. April 2021 erhalten, kann der damalige Antrag durch Nachreichung der noch nicht eingereichten Unterlagen nach Abs. 3 ergänzt werden.
+
+<sup>3</sup> Es sind insbesondere folgende Unterlagen einzureichen:
+
+- a) Jahresrechnungen, umfassend Bilanz, Erfolgsrechnung und Anhang, für die Jahre 2018, 2019, 2020 und, soweit vorhanden, 2021; unterliegt das Unternehmen der Revisionspflicht: die revidierten Jahresrechnungen;
+- b) Unterzeichnete Bilanz, Erfolgsrechnung und Anhang (Zwischenabschluss) für den Bemessungszeitraum der ungedeckten Kosten;
+- c) Auszug aus dem Betreibungsregister (Ausstellungsdatum nicht älter als 2 Wochen zum Zeitpunkt der Gesuchseinreichung nach dieser Verordnung);
+- d) MwSt-Abrechnungen ab 2018 bis zum Ende der Bemessungsperiode;
+- e) Deklaration der ergriffenen Selbsthilfemassnahmen zum Schutz der Liquidität und Kapitalbasis seit dem 1. Januar 2021.
+
+<sup>4</sup> Das Departement für Wirtschaft, Soziales und Umwelt kann weitere Unterlagen einverlangen, sofern diese für die Beurteilung des Anspruchs erforderlich sind.
+
+<sup>5</sup> Mit dem Gesuchsformular ermächtigen die Gesuchstellerinnen und Gesuchsteller das Departement für Wirtschaft, Soziales und Umwelt, sämtliche im Gesuch enthaltenen Daten mit anderen Behörden auszutauschen. Zu diesem Zweck entbinden sie diese von ihrem Amts-, Bank- und Steuergeheimnis im Zusammenhang mit der Bearbeitung dieser Daten.
+
+<sup>6</sup> Das Gesuch ist beim Departement für Wirtschaft, Soziales und Umwelt bis spätestens 31. Mai 2022 einzureichen.
+
+#### § 11
+
+**Prüfung der Gesuche**
+
+<sup>1</sup> Über ordnungsgemäss und vollständig eingereichte Gesuche entscheidet das Departement für Wirtschaft, Soziales und Umwelt.
+
+#### § 12
+
+**Rückforderung**
+
+<sup>1</sup> Leistungen gemäss dieser Verordnung werden von einem Unternehmen ganz oder teilweise zurückgefordert, falls nachträglich Tatsachen bekannt werden, die das Unternehmen im Zusammenhang mit der Beantragung einer Härtefallmassnahme gemäss dieser Verordnung nicht, nicht vollständig oder falsch deklariert hat und aufgrund derer die gewährte Härtefallmassnahme ganz oder teilweise hätte verweigert werden müssen.
+
+#### § 13
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Gesuche, welche vor Inkrafttreten dieser Verordnung eingereicht wurden, werden nach der Covid-19-Verordnung Härtefallprogramm vom 20. April 2021 beurteilt.
+
+*Schlussbestimmung*
+
+Diese Verordnung ist zu publizieren; sie tritt am 1. März 2022 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung betreffend Härtefallprogramm für Unternehmen im Zusammenhang mit der Covid-19-Pandemie (Covid-19-Verordnung Härtefallprogramm) vom 20. April 2021 aufgehoben.
+
+KB 26.02.2022
