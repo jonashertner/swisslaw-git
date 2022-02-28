@@ -3,20 +3,20 @@ canton: BE
 number: "732.181"
 title: Verordnung über den Vollzug des Bundesgesetzes über die Nationalstrassen im Kanton Bern vom 8. März 1960
 language: de
-version: 2020-08-01
-valid_until: 2022-02-28
-version_adopted: 2020-06-24
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-02
 adopted: 1961-03-03
 in_force: 1961-04-08
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/732.181"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1917/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2548/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Vollzug des Bundesgesetzes über die Nationalstrassen im Kanton Bern vom 8. März 1960
 
-vom 03.03.1961 (Stand 01.08.2020)
+vom 03.03.1961 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 

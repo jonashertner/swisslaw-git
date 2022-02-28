@@ -3,20 +3,20 @@ canton: BE
 number: "732.181"
 title: Ordonnance portant exécution de la loi fédérale du 8 mars 1960 sur les routes nationales
 language: fr
-version: 2020-08-01
-valid_until: 2022-02-28
-version_adopted: 2020-06-24
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-02
 adopted: 1961-03-03
 in_force: 1961-04-08
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/732.181"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1917/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2548/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance portant exécution de la loi fédérale du 8 mars 1960 sur les routes nationales
 
-du 03.03.1961 (état au 01.08.2020)
+du 03.03.1961 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne
 
@@ -74,13 +74,13 @@ arrête:
 
 **Zones réservées 1 établissement**
 
-<sup>1</sup> Une fois fixées ou supprimées par le Département fédéral de l’intérieur les zones à réserver au projet, la décision est publiée par la Direction des travaux publics et des transports dans la Feuille officielle du Jura bernois et dans la feuille officielle d’avis.
+<sup>1</sup> Une fois fixées ou supprimées par le Département fédéral de l’intérieur les zones à réserver au projet, la décision est publiée par la Direction des travaux publics et des transports dans la Feuille officielle et dans la feuille officielle d’avis.
 
 <sup>2</sup> Cette décision peut être déférée au Conseil fédéral conformément aux articles 124 et suivants de la loi fédérale d'organisation judiciaire du 16 décembre 1943[^6-1].
 
 <sup>3</sup> La fixation des zones réservées au projet entre en force dès sa publication dans la «Feuille officielle». Les plans mis au point seront déposés auprès de l'administration communale pour y être consultés. Les zones réservées doivent être supprimées dès la fixation définitive des alignements et au plus tard cinq ans après avoir été créées (art. 14 et 17 de la loi fédérale).
 
-<sup>4</sup> Avant remise du préavis du Conseil-exécutif (art. 14 de la loi fédérale), la Direction des travaux publics et des transports a la faculté de déposer publiquement pendant dix jours les plans des zones réservées auprès des administrations communales compétentes; il est loisible, pendant ce délai, d’adresser à ces dernières des observations écrites, sur papier timbré. Le dépôt des plans sera rendu public par la Feuille officielle du Jura bernois et la feuille officielle d’avis. La publication mentionnera exactement le délai imparti. L’article 36 de la loi sur la réglementation des constructions est applicable par analogie.
+<sup>4</sup> Avant remise du préavis du Conseil-exécutif (art. 14 de la loi fédérale), la Direction des travaux publics et des transports a la faculté de déposer publiquement pendant dix jours les plans des zones réservées auprès des administrations communales compétentes; il est loisible, pendant ce délai, d’adresser à ces dernières des observations écrites, sur papier timbré. Le dépôt des plans sera rendu public par la Feuille officielle et la feuille officielle d’avis. La publication mentionnera exactement le délai imparti. L’article 36 de la loi sur la réglementation des constructions est applicable par analogie.
 
 <sup>5</sup> Dans les dix jours qui suivent l'expiration du délai de dépôt, le conseil communal envoie les plans, avec le certificat de dépôt et les observations reçues, ainsi que son rapport et ses propositions, à la Direction des travaux publics et des transports; sur la base de cette documentation, celle-ci présente ses propositions au Conseil-exécutif en vue du préavis à donner aux autorités fédérales.
 
@@ -107,7 +107,7 @@ arrête:
 
 **Les projets définitifs**
 
-<sup>1</sup> Les projets définitifs, comportant des alignements basés sur les documents cadastraux, doivent être mis à l’enquête publique pendant 30 jours. La publication du dépôt a lieu dans la Feuille officielle du Jura bernois et la feuille officielle d’avis; elle mentionne exactement le délai de dépôt. Elle précise que pendant le délai d’enquête, des oppositions au projet définitif ou aux alignements qu’il prévoit peuvent être formées par écrit et motivées (art. 27, al. 1 de la loi fédérale).
+<sup>1</sup> Les projets définitifs, comportant des alignements basés sur les documents cadastraux, doivent être mis à l’enquête publique pendant 30 jours. La publication du dépôt a lieu dans la Feuille officielle et dans la feuille officielle d’avis; elle mentionne exactement le délai de dépôt. Elle précise que pendant le délai d’enquête, des oppositions au projet définitif ou aux alignements qu’il prévoit peuvent être formées par écrit et motivées (art. 27, al. 1 de la loi fédérale).
 
 <sup>2</sup> Des piquetages devront signaler les changements rendus nécessaires dans le terrain par la construction de la route (art. 26 de la loi fédérale).
 
@@ -119,7 +119,7 @@ arrête:
 
 <sup>6</sup> Si les projets définitifs doivent subir des compléments ou modifications sensibles, il y a lieu de procéder à une nouvelle mise à l'enquête publique. Si la mise au point ne touche qu'un nombre relativement faible de personnes pouvant faire opposition, elle doit être communiquée aux intéressés, auxquels sera imparti un délai d'opposition de 30 jours (art. 28, 2<sup>e</sup> al. de la loi fédérale).
 
-<sup>7</sup> La Direction des travaux publics et des transports fait connaître dans les communes l’alignement approuvé par publication dans la Feuille officielle du Jura bernois et dans la feuille officielle d’avis. L’article 5 est réservé. L’alignement entre en force dès sa publication dans la Feuille officielle du Jura bernois. Les plans seront déposés dans les administrations communales pour y être consultés.
+<sup>7</sup> La Direction des travaux publics et des transports fait connaître dans les communes l’alignement approuvé par publication dans la Feuille officielle et dans la feuille officielle d’avis. L’article 5 est réservé. L’alignement entre en force dès sa publication dans la Feuille officielle. Les plans seront déposés dans les administrations communales pour y être consultés.
 
 #### Art. 9
 
