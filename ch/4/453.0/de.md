@@ -4,11 +4,11 @@ title: Verordnung vom 4. September 2013 über den Verkehr mit Tieren und Pflanze
 short: VCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: de
-version: 2022-01-01
+version: 2022-03-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220101/de"
 
 (VCITES)
 
-vom 4. September 2013 (Stand am 1. Januar 2022)
+vom 4. September 2013 (Stand am 1. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -70,7 +70,10 @@ Exemplare der in den Anhängen I–III CITES[^3-1] genannten Arten dürfen nur e
 
 <sup>2</sup> Die Bewilligung oder Bescheinigung muss lückenlos den Ursprung der sie begleitenden Exemplare nach den Anhängen I–III CITES nachweisen. Das Original oder eine amtlich beglaubigte Übersetzung muss in einer schweizerischen Amtssprache oder in englischer oder spanischer Sprache abgefasst sein.
 
+<sup>3</sup> Die Bewilligungen und Bescheinigungen können in Papierform oder in elektronischer Form vorgelegt werden.[^3-2]
+
 [^3-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^3-2]: Eingefügt durch Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 4
 
@@ -86,10 +89,11 @@ Wer Exemplare nach Artikel 1 Absatz 1 ein-, durch- oder ausführt, ist für die 
 
 <sup>2</sup> Die Exemplare sind dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^5-1] mit der Anmeldung nach der Zollgesetzgebung anzumelden. Werden die Exemplare in ein Zollausschlussgebiet eingeführt, durch ein Zollausschlussgebiet durchgeführt oder aus einem Zollausschlussgebiet ausgeführt, so ist die Anmeldung bei einer vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)[^5-2] bezeichneten Stelle vorzunehmen.
 
-<sup>3</sup> Mit der Anmeldung müssen dem BAZG oder der vom BLV bezeichneten Stelle die notwendigen Bewilligungen nach dem BGCITES und dem JSG sowie die notwendigen Bewilligungen und Bescheinigungen nach Artikel 3 vorgelegt werden.
+<sup>3</sup> Mit der Anmeldung müssen dem BAZG oder der vom BLV bezeichneten Stelle die notwendigen Bewilligungen nach dem BGCITES und dem JSG sowie die notwendigen Bewilligungen und Bescheinigungen nach Artikel 3 vorgelegt werden. Die Bewilligungen und Bescheinigungen können in Papierform oder in elektronischer Form vorgelegt werden.[^5-3]
 
 [^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 [^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^5-3]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 6
 
@@ -128,6 +132,29 @@ Wer Exemplare von Arten nach den Anhängen I–III CITES[^7-1] gewerbsmässig ei
 
 [^7-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
+## 2*a*. Kapitel:**** Pflichten beim öffentlichen Anbieten von Exemplaren geschützter Arten
+
+[^chap2a-1]
+
+[^chap2a-1]: Eingefügt durch Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 7a
+
+Wer Exemplare geschützter Arten öffentlich anbietet, muss folgende Informationen schriftlich angeben:
+
+- a. Informationen, die eine Kontaktaufnahme mit der anbietenden Person ermöglichen;
+- b. den wissenschaftlichen Namen des angebotenen Exemplars;
+- c.
+
+  Informationen dazu, ob das angebotene Exemplar:
+
+  - 1\. bei Tieren: der Natur entnommen wurde oder aus einer Zucht stammt,
+  - 2\. bei Pflanzen: der Natur entnommen oder künstlich vermehrt wurde;
+
+- d. bei Exemplaren nach den Anhängen I–III CITES[^7a-1]: die Angabe, nach welchem Anhang des CITES das Exemplar geschützt ist.
+
+[^7a-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
 ## 3. Kapitel: Bewilligungen
 
 ### 1. Abschnitt: Bewilligungen für die Ein-, Durch- und Ausfuhr von Exemplaren von Tier- und Pflanzenarten nach den Anhängen I–III CITES
@@ -140,11 +167,12 @@ Wer Exemplare von Arten nach den Anhängen I–III CITES[^7-1] gewerbsmässig ei
 
 <sup>2</sup> Für Exemplare einer Tierart nach Anhang I CITES, die für Handelszwecke in Gefangenschaft gezüchtet wurden, und für Exemplare einer Pflanzenart nach Anhang I CITES, die für Handelszwecke künstlich vermehrt wurden, gelten gestützt auf Artikel VII Absatz 4 CITES die Voraussetzungen nach Artikel IV CITES.
 
-<sup>3</sup> Bei Tierarten nach Anhang I CITES, deren Überleben wesentlich davon abhängt, dass die Tiere in Gefangenschaft gehalten werden, müssen die Voraussetzungen nach Artikel III CITES auch dann erfüllt sein, wenn die Tiere in Gefangenschaft gezüchtet wurden. Das EDI legt die Liste der betreffenden Tierarten in einer Verordnung fest.
+<sup>3</sup> …[^8-2]
 
 <sup>4</sup> Bei Arten nach den Anhängen I–III CITES, die besonders stark gefährdet oder häufig von illegalem Handel betroffen sind, kann das BLV zusätzliche Dokumente und Angaben einfordern, die die Rechtmässigkeit des Verkehrs mit den Exemplaren nachweisen.
 
 [^8-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^8-2]: Aufgehoben durch Ziff. I der V vom 26. Jan. 2022, mit Wirkung seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 9
 
@@ -345,9 +373,36 @@ Die Ausnahme nach Absatz 1 gilt nicht:
 
 <sup>5</sup> Absatz 4 kommt nicht zur Anwendung bei Exemplaren, die im Vorerwerb erworben wurden.
 
-<sup>6</sup> Das EDI kann auf Empfehlung der Konferenz der Vertragsparteien nach Artikel XI CITES für bestimmte nicht lebende Exemplare von Arten nach den Anhängen I–III CITES Höchstmengen für die Ausnahmen nach Absatz 1 festlegen.
+<sup>6</sup> …[^22-2]
 
 [^22-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^22-2]: Aufgehoben durch Ziff. I der V vom 26. Jan. 2022, mit Wirkung seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 22a
+
+**Souvenirs**[^22a-1]
+
+<sup>1</sup>
+
+Für die Einfuhr von Souvenirs sind keine Bewilligungen nach Artikel 7 BGCITES, keine Bewilligungen und Bescheinigungen nach Artikel 3 und keine Anmeldung nach Artikel 5 erforderlich, wenn sie:
+
+- a. aus Arten nach Anhang II oder III CITES[^22a-2] hergestellt wurden; und
+- b. rechtmässigen Ursprungs sind.
+
+<sup>2</sup>
+
+Als Souvenirs gelten nicht lebende Exemplare geschützter Arten, die von der einführenden Person:
+
+- a. für sich selbst oder für Dritte zu nicht kommerziellen Zwecken erworben wurden;
+- b. in demjenigen Land erworben wurden, in dem das Exemplar der Natur entnommen wurde; und
+- c. im Reiseverkehr auf sich getragen oder mitgeführt werden.
+
+<sup>3</sup> Das EDI legt auf Empfehlung der Konferenz der Vertragsparteien nach Artikel XI CITES fest, welche Exemplare von welchen Arten als Souvenirs gelten, und bestimmt dafür Höchstmengen.
+
+<sup>4</sup> Die Anmeldepflicht nach der Zollgesetzgebung bleibt vorbehalten.
+
+[^22a-1]: Eingefügt durch Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^22a-2]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
 #### Art. 23
 
@@ -414,17 +469,59 @@ Das EDI kann unter den Voraussetzungen von Artikel 8 Absatz 2 BGCITES Ausnahmen 
 
 [^27-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
+## 4*a*. Kapitel:**** Einfuhrverbote
+
+[^chap4a-1]
+
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 27a
+
+<sup>1</sup>
+
+Die Einfuhr von Exemplaren geschützter Arten ist verboten, wenn:
+
+- a. das Exemplar der Natur entnommen wurde;
+- b.
+
+  die entsprechende Art:
+
+  - 1\. durch die Weltnaturschutzunion als stark gefährdet oder vom Aussterben bedroht beurteilt wird oder ihre Gefährdung anderweitig wissenschaftlich belegt ist, und
+  - 2\. durch den internationalen Handel gefährdet ist; und
+
+- c. die Gesetzgebung des Herkunftslandes den Lebensraum der entsprechenden Art schützt und die Entnahme von Exemplaren dieser Art aus der Natur verbietet.
+
+<sup>2</sup> Ausgenommen vom Einfuhrverbot sind lebende Exemplare, deren Einfuhr im Rahmen von registrierten Zuchtprogrammen erforderlich ist.
+
 ## 5. Kapitel: Vollzug
 
 ### 1. Abschnitt: Kontrollen und Massnahmen im Inland
 
 #### Art. 28
 
-<sup>1</sup> Stellen die Kontrollorgane fest, dass keine gültigen Dokumente vorliegen oder der Nachweis der Rechtmässigkeit des Verkehrs fehlt, so beschlagnahmen sie die Exemplare. Sie können der verantwortlichen Person eine angemessene Frist zum Vorlegen der erforderlichen Dokumente oder zum Nachweis der Rechtmässigkeit des Verkehrs setzen.
+**Beschlagnahme**[^28-1]
 
-<sup>2</sup> Werden innert der gesetzten Frist die erforderlichen Dokumente nicht vorgelegt oder wird der Nachweis der Rechtmässigkeit des Verkehrs nicht erbracht, so zieht das BLV die Exemplare ein.
+Stellen die Kontrollorgane fest, dass keine gültigen Dokumente vorliegen oder der Nachweis der Rechtmässigkeit des Verkehrs fehlt, so beschlagnahmen sie die Exemplare. Sie können der verantwortlichen Person eine angemessene Frist zum Vorlegen der erforderlichen Dokumente oder zum Nachweis der Rechtmässigkeit des Verkehrs setzen.
 
-<sup>3</sup> Stellen die Kontrollorgane fest, dass die vorgeschriebene Bestandeskontrolle fehlt, so können sie unter Ansetzung einer angemessenen Frist die Errichtung einer ordnungsgemässen Bestandeskontrolle verfügen.
+[^28-1]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 28a
+
+**Einziehung**[^28a-1]
+
+<sup>1</sup> Werden innert der gesetzten Frist die erforderlichen Dokumente nicht vorgelegt oder wird der Nachweis der Rechtmässigkeit des Verkehrs nicht erbracht, so zieht das BLV die Exemplare ein.
+
+<sup>2</sup> Es kann die Exemplare ohne vorgängige Beschlagnahme einziehen, wenn die Voraussetzungen nach Artikel 16 Absatz 1<sup>bis</sup> BGCITES erfüllt sind.
+
+[^28a-1]: Eingefügt durch Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 28b
+
+**Massnahmen bei fehlender Bestandeskontrolle**[^28b-1]
+
+Stellen die Kontrollorgane fest, dass die vorgeschriebene Bestandeskontrolle fehlt, so können sie unter Ansetzung einer angemessenen Frist die Errichtung einer ordnungsgemässen Bestandeskontrolle verfügen.
+
+[^28b-1]: Eingefügt durch Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ### 2. Abschnitt: Kontrollen und Massnahmen bei der Ein-, Durch- und Ausfuhr
 
@@ -449,18 +546,15 @@ Bei der Ein-, Durch- oder Ausfuhr über ein Zollausschlussgebiet nimmt die vom B
 
 #### Art. 30
 
-**Kontrolle der Einfuhrsendungen**
+**Kontrolle der Einfuhrsendungen**[^30-1]
 
 <sup>1</sup> Das EDI legt in einer Verordnung fest, für welche anzumeldenden Exemplare bei der Einfuhr eine Dokumentenkontrolle und für welche Exemplare in welchen Fällen zusätzlich eine Identitätskontrolle und eine physische Kontrolle durchgeführt werden müssen.
 
-<sup>2</sup> Sendungen, die nicht auf dem Amtsplatz kontrolliert werden, sind dem zuständigen Kontrollorgan innert zwei Arbeitstagen nach Anmeldung vorzulegen, wenn dies vom BLV angeordnet wird. Die Sendungen dürfen vor der Durchführung der Kontrolle nur so weit verändert werden, wie es für das Wohlergehen lebender Tiere und lebender Pflanzen notwendig ist.
+<sup>2</sup> Die Exemplare, für die eine Identitätskontrolle und eine physische Kontrolle vorgesehen sind, sind dem zuständigen Kontrollorgan innert zwei Arbeitstagen nach Anmeldung vorzulegen. Die entsprechenden Sendungen dürfen vor der Durchführung der Kontrolle nur so weit verändert werden, wie es für das Wohlergehen lebender Tiere und lebender Pflanzen notwendig ist.
 
-<sup>3</sup> Das BLV kann mit zugelassenen Empfängerinnen und Empfängern nach Artikel 101 der Zollverordnung vom 1. November 2006[^30-1] und mit Lagerhalterinnen und Lagerhaltern nach Artikel 52 Absatz 1 ZG[^30-2] die durchzuführenden Kontrollen und den Ort der Kontrolle vereinbaren. In der Vereinbarung ist festzulegen, wie die Exemplare bis zur Kontrolle gelagert oder untergebracht werden und welche Aufzeichnungen erforderlich sind.
+<sup>3</sup> Das BLV kann die Kontrolle von Dokumenten und Sendungen im Einvernehmen mit dem BAZG an die mit der Kontrolle von Waren beauftragten Personen übertragen.
 
-<sup>4</sup> Das BLV kann die Kontrolle von Dokumenten und Sendungen im Einvernehmen mit dem BAZG den Zollorganen übertragen.
-
-[^30-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^30-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^30-1]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 31
 
@@ -502,9 +596,11 @@ Die Kontrollorgane beanstanden Sendungen, die den Vorschriften nicht entsprechen
 
 #### Art. 35
 
-**Rückweisung, Freigabe unter Vorbehalt**
+**Rückweisung und Freigabe unter Vorbehalt**[^35-1]
 
-Die Kontrollorgane können in Ausnahmefällen die Rückweisung von Sendungen oder die Freigabe unter Vorbehalt verfügen, wenn die Sendungen oder die Dokumente nur unwesentlich vom vorschriftsgemässen Zustand abweichen.
+Die Kontrollorgane können die Rückweisung von Sendungen oder die Freigabe unter Vorbehalt verfügen, wenn die Sendungen oder die Dokumente nur unwesentlich vom vorschriftsgemässen Zustand abweichen.
+
+[^35-1]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 36
 
@@ -515,13 +611,16 @@ Die Kontrollorgane können in Ausnahmefällen die Rückweisung von Sendungen ode
 Die Kontrollorgane beschlagnahmen Exemplare:
 
 - a. in den Fällen nach Artikel 15 Absatz 1 Buchstaben a–e BGCITES;
-- b. wenn die nach dem JSG erforderliche Bewilligung fehlt und eine Rückweisung aus Gründen des Tierschutzes nicht vertretbar ist oder wenn die Exemplare nicht angemeldet oder den Kontrollorganen nicht vorgelegt wurden.
+- b.[^36-1] wenn die nach dem JSG erforderliche Bewilligung fehlt; oder
+- c.[^36-2] wenn die Exemplare nicht angemeldet oder den Kontrollorganen nicht vorgelegt werden.
 
-<sup>2</sup> Bei der Durchfuhr über Landesflughäfen beschlagnahmen sie Exemplare nach Anhang I CITES[^36-1] oder lebende Tiere, wenn diese beanstandet werden.
+<sup>2</sup> Bei der Durchfuhr über Landesflughäfen beschlagnahmen sie Exemplare nach Anhang I CITES[^36-3] oder lebende Tiere, wenn diese beanstandet werden.
 
 <sup>3</sup> Sie können der verantwortlichen Person eine angemessene Frist zur Behebung des beanstandeten Mangels setzen.
 
-[^36-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^36-1]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^36-2]: Eingefügt durch Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^36-3]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
 #### Art. 37
 
@@ -533,16 +632,21 @@ Das BLV gibt beschlagnahmte Exemplare frei, wenn der beanstandete Mangel behoben
 
 **Einziehung**
 
-Das BLV zieht beschlagnahmte Exemplare ein:
+Das BLV zieht Exemplare ein:[^38-1]
 
-- a. in den Fällen nach Artikel 16 Absatz 1 BGCITES;
+- a.[^38-2] in den Fällen nach Artikel 16 Absätze 1 und 1<sup>bis</sup> BGCITES;
 - b. wenn innert der gesetzten Frist die nach JSG erforderliche Bewilligung nicht vorgelegt oder die Exemplare den Kontrollorganen nicht vorgelegt werden.
+
+[^38-1]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^38-2]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ### 3. Abschnitt: Beschlagnahmte und eingezogene Exemplare
 
 #### Art. 39
 
 <sup>1</sup> Beschlagnahmte Exemplare werden durch die Kontrollorgane vorübergehend in einer vom BLV bestimmten Einrichtung oder an einem anderen geeigneten Ort gelagert oder untergebracht.
+
+<sup>1bis</sup> Das BLV muss den verantwortlichen Personen und Dritten ausschliesslich Auskünfte über das Wohlergehen beschlagnahmter lebender Exemplare erteilen.[^39-1]
 
 <sup>2</sup> Beschlagnahmte lebende Exemplare, die verenden, werden nach dem Vorliegen der Verzichtserklärung der Eigentümerin oder des Eigentümers einem vom BLV bestimmten Zweck zugeführt oder entsorgt.
 
@@ -551,16 +655,17 @@ Das BLV zieht beschlagnahmte Exemplare ein:
 Eingezogene Exemplare werden vom BLV:
 
 - a. nach Anhören des Ausfuhrstaates auf dessen Kosten an ihn zurückgesandt;
-- b. in eine von ihm bestimmte Einrichtung oder an einen anderen Ort gebracht, der geeignet und mit den Zwecken des CITES[^39-1] vereinbar ist;
+- b. in eine von ihm bestimmte Einrichtung oder an einen anderen Ort gebracht, der geeignet und mit den Zwecken des CITES[^39-2] vereinbar ist;
 - c. veräussert, soweit es das CITES zulässt; oder
 - d. entsorgt, wenn eine Rücksendung an den Ausfuhrstaat oder eine Veräusserung nicht möglich sind und eine Lagerung oder Unterbringung unzweckmässig oder nicht möglich ist.
 
 <sup>4</sup> Werden eingezogene Exemplare veräussert, so ist der Erlös zur Unterstützung von Forschungs- und Umsetzungsprojekten für die Erreichung der Ziele des CITES, wenn möglich in den Ursprungsländern der betroffenen Exemplare, einzusetzen.
 
-<sup>5</sup> Müssen beschlagnahmte oder eingezogene Exemplare entsorgt werden, so ist die Verordnung vom 25. Mai 2011[^39-2] über die Entsorgung von tierischen Nebenprodukten zu berücksichtigen.
+<sup>5</sup> Müssen beschlagnahmte oder eingezogene Exemplare entsorgt werden, so ist die Verordnung vom 25. Mai 2011[^39-3] über die Entsorgung von tierischen Nebenprodukten zu berücksichtigen.
 
-[^39-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^39-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^39-1]: Eingefügt durch Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^39-2]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^39-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 ### 4. Abschnitt: Vollzugsorganisation
 
@@ -610,15 +715,29 @@ Kontrollorgane sind:
 - c. das BAZG;
 - d. kantonale Veterinärämter, Tierärztinnen und Tierärzte sowie weitere Organisationen oder Personen des privaten oder des öffentlichen Rechts, die vom EDI mit Vollzugsaufgaben betraut werden.
 
-<sup>2</sup> Das BAZG kann für den Vollzug die anderen Kontrollorgane nach Absatz 1 beiziehen.
+<sup>2</sup> Das BLV und das BAZG können für den Vollzug die anderen Kontrollorgane beiziehen.[^41-1]
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 42
 
-**Fachgremium**
+**Fachgremium**[^42-1]
 
 <sup>1</sup> Fachgremium nach Artikel 19 BGCITES ist die Eidgenössische Kommission für die Belange des Artenschutzübereinkommens.
 
-<sup>2</sup> Die Kommission zählt höchstens neun Mitglieder und setzt sich zusammen aus Expertinnen und Experten der Zoologie, Botanik, Wildtierhaltung sowie des zoologischen und botanischen Artenschutzes. Der Bundesrat bestimmt die Präsidentin oder den Präsidenten.
+<sup>2</sup>
+
+Die Kommission zählt höchstens neun Mitglieder und setzt sich zusammen aus Expertinnen und Experten:
+
+- a. der Zoologie und Botanik;
+- b. der Wildtierhaltung;
+- c. des zoologischen und botanischen Artenschutzes;
+- d. des Umweltrechts; und
+- e. der Wirtschaftswissenschaften.
+
+<sup>3</sup> Der Bundesrat bestimmt die Präsidentin oder den Präsidenten der Kommission.
+
+[^42-1]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ## 6. Kapitel: Gebühren und Kosten
 
@@ -826,7 +945,11 @@ Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach de
 
 #### Art. 58
 
-Widerhandlungen gegen die Artikel 3 Absatz 1 und 30 Absatz 2 sind strafbar nach Artikel 26 Absatz 5 BGCITES.
+[^58-1]
+
+Widerhandlungen gegen die Artikel 3 Absatz 1, 7*a* und 30 Absatz 2 sind strafbar nach Artikel 26 Absatz 5 BGCITES.
+
+[^58-1]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ## 9. Kapitel: Schlussbestimmungen
 
@@ -856,7 +979,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 2007 2661](https://fedlex.data.admin.ch/eli/oc/2007/351), [2008 4619](https://fedlex.data.admin.ch/eli/oc/2008/645), [2011 553](https://fedlex.data.admin.ch/eli/oc/2011/82)]
+[^annexu1-lvlu1-1]: [[AS 2007 2661](https://fedlex.data.admin.ch/eli/oc/2007/351); [2008 4619](https://fedlex.data.admin.ch/eli/oc/2008/645); [2011 553](https://fedlex.data.admin.ch/eli/oc/2011/82)]
 [^annexu1-lvlu1-2]: Die Änd. können unter [AS 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)konsultiert werden.

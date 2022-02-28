@@ -4,11 +4,11 @@ title: Ordonnance du 4 septembre 2013 sur la circulation des espèces de faune e
 short: OCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: fr
-version: 2022-01-01
+version: 2022-03-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220101/fr"
 
 (OCITES)
 
-du 4 septembre 2013 (Etat le 1<sup>er</sup> janvier 2022)
+du 4 septembre 2013 (Etat le 1<sup>er</sup> mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -70,7 +70,10 @@ Les spécimens des espèces inscrites aux annexes I à III de la CITES[^3-1] ne 
 
 <sup>2</sup> L’autorisation ou le certificat doit prouver entièrement l’origine des spécimens couverts inscrits aux annexes I à III CITES. L’original ou une traduction de celui-ci légalisée par une autorité officielle doit être libellé soit dans l’une des langues officielles de la Suisse, soit en anglais ou en espagnol.
 
+<sup>3</sup> Les autorisations et certificats peuvent être présentés sous forme papier ou électronique.[^3-2]
+
 [^3-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^3-2]: Introduit par le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 4
 
@@ -86,10 +89,11 @@ Quiconque importe, fait transiter ou exporte des spécimens visés à l’art. 1
 
 <sup>2</sup> Les spécimens doivent être déclarés à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^5-1] au moyen de la déclaration prescrite par la législation douanière. Si les spécimens sont importés dans une enclave douanière suisse, transitent par une telle enclave ou sont exportés depuis une telle enclave, la déclaration doit être effectuée à l’un des postes de contrôle désignés par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^5-2].
 
-<sup>3</sup> Les autorisations requises par la LCITES et la LChP ainsi que les autorisations et certificats visés à l’art. 3 doivent être joints à la déclaration destinée à l’OFDF ou au poste de contrôle désigné par l’OSAV.
+<sup>3</sup> Les autorisations requises par la LCITES et la LChP ainsi que les autorisations et certificats visés à l’art. 3 doivent être joints à la déclaration et présentés à l’OFDF ou au poste de contrôle désigné par l’OSAV. Les autorisations et certificats peuvent être présentés sous forme papier ou électronique.[^5-3]
 
 [^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 [^5-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 6
 
@@ -128,6 +132,29 @@ Quiconque importe à titre professionnel des spécimens d’espèces inscrites a
 
 [^7-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
+## Chapitre 2*a***** Obligations relatives aux propositions à la vente de spécimens d’espèces protégées auprès du public
+
+[^chap2a-1]
+
+[^chap2a-1]: Introduit par le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 7a
+
+Quiconque propose publiquement à la vente des spécimens d’espèces protégées doit fournir par écrit les informations suivantes:
+
+- a. les données permettant d’avoir un contact avec la personne qui propose les spécimens à la vente;
+- b. le nom scientifique des spécimens proposés à la vente;
+- c.
+
+  une mention précisant si le spécimen:
+
+  - 1\. de faune a été prélevé dans la nature ou est issu d’un élevage,
+  - 2\. de flore a été prélevé dans la nature ou reproduit artificiellement;
+
+- d. s’il s’agit de spécimens mentionnés dans l’une des annexes I à III CITES[^7a-1], l’indication de l’annexe concernée.
+
+[^7a-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
 ## Chapitre 3 Autorisations
 
 ### Section 1 Autorisations d’importation, de transit ou d’exportation de spécimens d’espèces de faune et de flore protégées inscrites aux annexes I à III CITES
@@ -140,11 +167,12 @@ Quiconque importe à titre professionnel des spécimens d’espèces inscrites a
 
 <sup>2</sup> Les conditions d’octroi des autorisations applicables aux spécimens d’une espèce animale inscrite à l’annexe I CITES qui sont élevés en captivité à des fins commerciales et aux spécimens d’une espèce végétale inscrite à l’annexe I CITES qui sont reproduits artificiellement à des fins commerciales, sont fixées à l’art. IV CITES et s’appliquent en vertu de l’art. VII, al. 4, CITES.
 
-<sup>3</sup> Les conditions d’octroi des autorisations pour les espèces animales inscrites à l’annexe I CITES dont la survie dépend essentiellement de leur détention en captivité, sont fixées à l’art. III CITES. Ces conditions doivent être remplies même si les animaux sont élevés en captivité. Le DFI définit par voie d’ordonnance les espèces animales concernées.
+<sup>3</sup> ...[^8-2]
 
 <sup>4</sup> Pour les espèces inscrites aux annexes I à III CITES qui sont particulièrement menacées ou qui font fréquemment l’objet d’un commerce illégal, l’OSAV peut exiger la présentation de documents et d’informations supplémentaires prouvant la légalité de la circulation des spécimens.
 
 [^8-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^8-2]: Abrogé par le ch. I de l’O du 26 janv. 2022, avec effet au 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 9
 
@@ -345,9 +373,36 @@ La dérogation prévue à l’al. 1 n’est pas applicable:
 
 <sup>5</sup> L’al. 4 n’est pas applicable aux spécimens pré-convention.
 
-<sup>6</sup> Sur recommandation de la conférence des Parties visée à l’art. XI CITES, le DFI peut définir des quantités maximales admises pour certains spécimens non vivants d’espèces inscrites aux annexes I à III CITES qui entrent dans le cadre des exceptions prévues à l’al. 1.
+<sup>6</sup> ...[^22-2]
 
 [^22-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^22-2]: Abrogé par le ch. I de l’O du 26 janv. 2022, avec effet au 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 22a
+
+**Souvenirs**[^22a-1]
+
+<sup>1</sup>
+
+Ni les autorisations visées à l’art. 7 LCITES, ni les autorisations ou certificats visés à l’art. 3, ni la déclaration visée à l’art. 5 ne sont requis pour importer des souvenirs si ceux-ci remplissent les conditions suivantes:
+
+- a. ils ont été fabriqués à partir de spécimens d’espèces inscrites à l’annexe II ou III CITES[^22a-2];
+- b. ils sont d’origine légale.
+
+<sup>2</sup>
+
+Est réputé «souvenir» tout spécimen non vivant d’une espèce protégée dont la personne qui l’importe remplit les conditions suivantes:
+
+- a. avoir acquis le spécimen pour elle-même ou un tiers à des fins non commerciales;
+- b. avoir acquis le spécimen dans le pays où il a été prélevé dans la nature;
+- c. porter le spécimen sur elle ou l’emporter dans ses bagages dans le trafic voyageurs.
+
+<sup>3</sup> Le DFI détermine, sur recommandation de la Conférence des Parties visée à l’article XI CITES, quels spécimens de quelles espèces doivent être considérés comme des souvenirs et fixe des quantités maximales.
+
+<sup>4</sup> Le devoir de déclaration prescrit par la législation douanière demeure réservé.
+
+[^22a-1]: Introduit par le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^22a-2]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
 #### Art. 23
 
@@ -414,17 +469,59 @@ Le DFI peut prévoir des dérogations au régime d’autorisation applicable à 
 
 [^27-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
+## Chapitre 4*a***** Interdictions d’importer
+
+[^chap4a-1]
+
+[^chap4a-1]: Introduit par le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 27a
+
+<sup>1</sup>
+
+L’importation de spécimens d’espèces protégées est interdite si les conditions suivantes sont réunies:
+
+- a. le spécimen a été prélevé dans la nature;
+- b.
+
+  l’espèce concernée:
+
+  - 1\. est considérée comme en danger ou en danger critique d’extinction par l’Union internationale pour la conservation de la nature ou menacée sur la base d’autres preuves scientifiques, et
+  - 2\. est menacée par le commerce international;
+
+- c. la législation du pays de provenance protège le biotope de l’espèce concernée et interdit de prélever des spécimens de cette espèce dans la nature.
+
+<sup>2</sup> L’interdiction d’importer ne frappe pas les spécimens vivants dont l’importation est requise pour des programmes d’élevage enregistrés.
+
 ## Chapitre 5 Exécution
 
 ### Section 1 Contrôles et mesures en Suisse
 
 #### Art. 28
 
-<sup>1</sup> Si les organes de contrôle constatent l’absence de documents valables ou que la preuve de la légalité de la circulation des spécimens fait défaut, ils séquestrent les spécimens. Ils peuvent accorder à la personne responsable un délai approprié pour lui permettre de présenter les documents requis ou d’apporter la preuve que la circulation des spécimens est légale.
+**Séquestre**[^28-1]
 
-<sup>2</sup> Si, au terme du délai qui a été accordé, les documents requis n’ont pas été présentés ou que la preuve de la légalité de la circulation n’ait pas été apportée, l’OSAV confisque les spécimens.
+Si les organes de contrôle constatent que les documents valables ou la preuve de la légalité de la circulation des spécimens font défaut, ils séquestrent les spécimens. Ils peuvent accorder à la personne responsable un délai approprié pour lui permettre de présenter les documents requis ou d’apporter la preuve que la circulation des spécimens est légale.
 
-<sup>3</sup> Si les organes de contrôle constatent que le registre des spécimens fait défaut, ils peuvent ordonner l’établissement d’un registre en bonne et due forme et accorder à cet effet un délai approprié.
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 28a
+
+**Confiscation**[^28a-1]
+
+<sup>1</sup> Si les documents requis n’ont pas été présentés ou si la preuve de la légalité de la circulation n’a pas été apportée dans le délai imparti, l’OSAV confisque les spécimens.
+
+<sup>2</sup> Il peut confisquer les spécimens sans séquestre préalable si les conditions de l’art. 16, al. 1<sup>bis</sup>, LCITES sont remplies.
+
+[^28a-1]: Introduit par le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 28b
+
+**Mesures en cas d’absence de registre des spécimens**[^28b-1]
+
+Si les organes de contrôle constatent que le registre des spécimens fait défaut, ils peuvent ordonner l’établissement d’un registre en bonne et due forme en fixant un délai approprié.
+
+[^28b-1]: Introduit par le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ### Section 2 Contrôles et mesures lors de l’importation, du transit et de l’exportation
 
@@ -449,18 +546,15 @@ Si l’importation, le transit ou l’exportation sont effectués via une enclav
 
 #### Art. 30
 
-**Contrôle des lots destinés à l’importation**
+**Contrôle des lots destinés à l’importation**[^30-1]
 
-<sup>1</sup> Le DFI définit dans une ordonnance, d’une part, les spécimens à déclarer qui doivent faire l’objet d’un contrôle documentaire au moment de leur importation, et d’autre part, en précisant dans quels cas, les spécimens qui doivent en outre faire l’objet d’un contrôle d’identité et d’un contrôle physique.
+<sup>1</sup> Le DFI définit dans une ordonnance pour quels spécimens à déclarer un contrôle documentaire doit être effectué au moment de l’importation et pour quels spécimens et dans quels cas un contrôle d’identité et un contrôle physique sont en outre obligatoires.
 
-<sup>2</sup> Les lots qui ne sont pas contrôlés à l’emplacement officiel doivent être présentés à l’organe de contrôle compétent dans un délai de deux jours ouvrables à compter de leur déclaration, si l’OSAV l’a ordonné. Un lot peut être modifié avant le contrôle uniquement dans la mesure où cette modification est nécessaire pour assurer le bien-être des animaux ou des plantes.
+<sup>2</sup> Les spécimens pour lesquels un contrôle d’identité et un contrôle physique sont prévus doivent être présentés à l’organe de contrôle compétent dans les deux jours ouvrables après la déclaration. Les lots concernés ne peuvent être modifiés avant l’exécution du contrôle que dans la mesure où ces modifications sont nécessaires au bien-être d’animaux vivants ou à la prospérité de plantes vivantes.
 
-<sup>3</sup> L’OSAV peut convenir avec les destinataires agréés visés à l’art. 101 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^30-1] et avec les entreposeurs visés à l’art. 52, al. 1, LD[^30-2] des contrôles à effectuer et du lieu où ces contrôles seront effectués. La convention doit définir les modalités qui régissent l’entreposage des spécimens jusqu’au moment du contrôle ainsi que les informations à enregistrer.
+<sup>3</sup> En accord avec l’OFDF, l’OSAV peut déléguer le contrôle des documents et des lots aux personnes chargées du contrôle des marchandises.
 
-<sup>4</sup> En accord avec l’OFDF, l’OSAV peut déléguer aux organes des douanes le contrôle des documents et des lots.
-
-[^30-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^30-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 31
 
@@ -502,9 +596,11 @@ Les lots non réglementaires font l’objet d’une contestation par les organes
 
 #### Art. 35
 
-**Refoulement, libération sous réserve**
+**Refoulement et libération sous réserve**[^35-1]
 
-Exceptionnellement, les organes de contrôle peuvent ordonner le refoulement du lot ou sa libération sous réserve, si le lot ou les documents qui l’accompagnent ne s’écartent que de manière marginale de leur état réglementaire.
+Les organes de contrôle peuvent ordonner le refoulement du lot ou sa libération sous réserve si le lot ou les documents qui l’accompagnent ne s’écartent que de manière marginale de leur état réglementaire.
+
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 36
 
@@ -515,13 +611,16 @@ Exceptionnellement, les organes de contrôle peuvent ordonner le refoulement du 
 Les organes de contrôle séquestrent les spécimens:
 
 - a. dans les cas visés à l’art. 15, al. 1, let. a à e, LCITES;
-- b. lorsque l’autorisation requise par la LChP fait défaut et qu’un refoulement ne soit pas défendable pour des raisons de protection des animaux, ou si les spécimens n’ont pas été déclarés ou qu’ils n’ont pas été présentés aux organes de contrôle.
+- b.[^36-1] si l’autorisation requise par la LChP fait défaut, ou
+- c.[^36-2] si les spécimens n’ont pas été déclarés ou s’ils n’ont pas été présentés aux organes de contrôle.
 
-<sup>2</sup> Ils séquestrent les spécimens inscrits à l’annexe I CITES[^36-1] et les animaux vivants qui transitent par des aéroports nationaux si ces spécimens ou ces animaux font l’objet d’une contestation.
+<sup>2</sup> Ils séquestrent les spécimens inscrits à l’annexe I CITES[^36-3] et les animaux vivants qui transitent par des aéroports nationaux si ces spécimens ou ces animaux font l’objet d’une contestation.
 
 <sup>3</sup> Ils peuvent accorder à la personne responsable un délai approprié pour lui permettre de remédier à l’irrégularité qui a entraîné la contestation.
 
-[^36-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^36-2]: Introduite par le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^36-3]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
 #### Art. 37
 
@@ -535,14 +634,18 @@ L’OSAV libère le lot séquestré lorsqu’il a été remédié à l’irrégu
 
 L’OSAV confisque les spécimens:
 
-- a. dans les cas visés à l’art. 16, al. 1, LCITES;
+- a.[^38-1] dans les cas visés à l’art. 16, al. 1 et 1<sup>bis</sup>, LCITES;
 - b. lorsque l’autorisation exigée par la LChP n’a pas été présentée dans le délai prescrit ou que les spécimens n’ont pas été présentés aux organes de contrôle.
+
+[^38-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ### Section 3 Spécimens séquestrés et spécimens confisqués
 
 #### Art. 39
 
 <sup>1</sup> Les spécimens séquestrés sont entreposés ou hébergés temporairement par les organes de contrôle dans une structure désignée par l’OSAV ou dans un autre lieu approprié.
+
+<sup>1bis</sup> L’OSAV n’est tenu de fournir des informations sur les spécimens séquestrés aux personnes responsables ou à des tiers que si ces informations concernent le bien-être ou la prospérité de spécimens vivants.[^39-1]
 
 <sup>2</sup> Les spécimens vivants séquestrés qui meurent sont utilisés à l’une des fins prévues dans un tel cas par l’OSAV ou sont détruits, pour autant que leur propriétaire ait rempli une déclaration de renonciation.
 
@@ -551,16 +654,17 @@ L’OSAV confisque les spécimens:
 Les spécimens confisqués:
 
 - a. sont renvoyés par l’OSAV dans l’État d’exportation après consultation et aux frais de cet État;
-- b. sont transportés par l’OSAV dans une structure désignée par lui ou dans un autre lieu approprié et compatible avec les buts de la CITES[^39-1];
+- b. sont transportés par l’OSAV dans une structure désignée par lui ou dans un autre lieu approprié et compatible avec les buts de la CITES[^39-2];
 - c. sont aliénés, dans la mesure où cela est autorisé par la CITES, ou
 - d. sont détruits, s’il est impossible de les renvoyer dans l’État d’exportation ou de les aliéner et qu’il soit impossible ou peu judicieux de les entreposer ou de les héberger.
 
 <sup>4</sup> Si les spécimens confisqués sont aliénés, le produit sera utilisé pour soutenir des projets de recherche ou des projets de mise en œuvre conformes aux buts de la CITES, si possible dans le pays d’origine des spécimens en question.
 
-<sup>5</sup> Si les spécimens séquestrés ou confisqués doivent être détruits, leur destruction doit respecter les dispositions de l’ordonnance du 25 mai 2011 sur l’élimination des sous-produits animaux[^39-2].
+<sup>5</sup> Si les spécimens séquestrés ou confisqués doivent être détruits, leur destruction doit respecter les dispositions de l’ordonnance du 25 mai 2011 sur l’élimination des sous-produits animaux[^39-3].
 
-[^39-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^39-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^39-1]: Introduit par le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^39-2]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^39-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 ### Section 4 Organisation de l’exécution
 
@@ -610,15 +714,29 @@ Les organes de contrôle sont:
 - c. l’OFDF;
 - d. les services vétérinaires cantonaux, les vétérinaires, les organisations et les personnes de droit public ou de droit privé auxquels le DFI a confié des tâches d’exécution.
 
-<sup>2</sup> L’OFDF peut faire appel aux autres organes de contrôle visés à l’al. 1 pour l’exécution de la présente ordonnance.
+<sup>2</sup> L’OSAV et l’OFDF peuvent faire appel aux autres organes de contrôle pour l’exécution de la présente ordonnance.[^41-1]
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 42
 
-**Comité d’experts**
+**Comité d’experts**[^42-1]
 
 <sup>1</sup> Le comité d’experts visé à l’art. 19 LCITES est la Commission fédérale pour les affaires relatives à la convention sur la conservation des espèces.
 
-<sup>2</sup> La commission comprend neuf membres au maximum; elle se compose d’experts en zoologie, en botanique, en détention des animaux sauvages et en protection des espèces de faune et de flore. Le Conseil fédéral désigne le président.
+<sup>2</sup>
+
+La commission comprend neuf membres au maximum et se compose d’experts dans les domaines suivants:
+
+- a. zoologie et botanique;
+- b. détention des animaux sauvages;
+- c. protection des espèces de faune et de flore;
+- d. droit de l’environnement;
+- e. sciences économiques.
+
+<sup>3</sup> Le Conseil fédéral désigne le président de la commission.
+
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ## Chapitre 6 Émoluments et coûts
 
@@ -825,7 +943,11 @@ Les mesures destinées à garantir la sécurité informatique sont régies par l
 
 #### Art. 58
 
-Les infractions aux art. 3, al. 1, et 30, al. 2, sont punissables conformément à l’art. 26, al. 5, LCITES.
+[^58-1]
+
+Les infractions aux art. 3, al. 1, 7*a* et 30, al. 2, sont punissables conformément à l’art. 26, al. 5, LCITES.
+
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ## Chapitre 9 Dispositions finales
 

@@ -4,11 +4,11 @@ title: Ordinanza del 4 settembre 2013 sulla circolazione delle specie di fauna e
 short: O-CITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: it
-version: 2022-01-01
+version: 2022-03-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220101/it"
 
 (O-CITES)
 
-del 4 settembre 2013 (Stato 1° gennaio 2022)
+del 4 settembre 2013 (Stato 1° marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -70,7 +70,10 @@ Gli esemplari delle specie di cui agli allegati I–III CITES[^3-1] possono esse
 
 <sup>2</sup> Lʼautorizzazione o il certificato devono attestare compiutamente l’origine degli esemplari di cui agli allegati I‒III CITES a cui si riferiscono. L’originale o una sua traduzione autenticata deve essere in una lingua ufficiale svizzera o in inglese o in spagnolo.
 
+<sup>3</sup> Le autorizzazioni e i certificati possono essere presentati in forma cartacea o elettronica.[^3-2]
+
 [^3-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^3-2]: Introdotto dal n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 4
 
@@ -86,10 +89,11 @@ Chi importa, fa transitare o esporta esemplari secondo l’articolo 1 capoverso 
 
 <sup>2</sup> Gli esemplari devono essere dichiarati all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^5-1] conformemente alla dichiarazione descritta nella legislazione sulle dogane. In caso di importazione degli esemplari in un’enclave doganale svizzera, di transito degli esemplari per un’enclave doganale svizzera o di esportazione degli esemplari da un’enclave doganale svizzera, la dichiarazione deve avvenire presso un ufficio designato dall’Ufficio federale della sicurezza alimentare e di veterinaria (USAV)[^5-2].
 
-<sup>3</sup> Con la dichiarazione occorre presentare all’UDSC o all’ufficio designato dall’USAV le autorizzazioni necessarie secondo la LF-CITES e la LCP, nonché le autorizzazioni e i certificati necessari secondo l’articolo 3.
+<sup>3</sup> Con la dichiarazione occorre presentare all’UDSC o all’ufficio designato dall’USAV le autorizzazioni necessarie secondo la LF-CITES e la LCP, nonché le autorizzazioni e i certificati necessari secondo l’articolo 3. Le autorizzazioni e i certificati possono essere presentati in forma cartacea o elettronica.[^5-3]
 
 [^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^5-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
+[^5-3]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 6
 
@@ -128,6 +132,29 @@ Chi importa a titolo professionale esemplari delle specie di cui agli allegati I
 
 [^7-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
+## Capitolo 2*a*:**** Obblighi relativi all’offerta pubblica di esemplari di specie protette
+
+[^chap2a-1]
+
+[^chap2a-1]: Introdotto dal n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 7a
+
+Chi offre al pubblico esemplari di specie protette deve fornire per scritto le seguenti informazioni:
+
+- a. informazioni che permettono di contattare l’offerente;
+- b. il nome scientifico dell’esemplare offerto;
+- c.
+
+  informazioni sull’esemplare offerto:
+
+  - 1\. per gli animali: se è stato prelevato dall’ambiente naturale o proviene da un allevamento,
+  - 2\. per le piante: se è stato prelevato dall’ambiente naturale o riprodotto artificialmente;
+
+- d. per gli esemplari elencati negli allegati I-III CITES[^7a-1]: indicare secondo quale allegato CITES l’esemplare è protetto.
+
+[^7a-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+
 ## Capitolo 3: Autorizzazioni
 
 ### Sezione 1: Autorizzazioni all’importazione, al transito e all’esportazione di esemplari delle specie di fauna e di flora di cui agli allegati I–III CITES
@@ -140,11 +167,12 @@ Chi importa a titolo professionale esemplari delle specie di cui agli allegati I
 
 <sup>2</sup> Per gli esemplari di una specie animale di cui all’allegato I CITES allevati in cattività per scopi commerciali e per gli esemplari di una specie vegetale secondo l’allegato I CITES riprodotti artificialmente per scopi commerciali valgono le condizioni di cui all’articolo IV CITES in virtù dellʼarticolo VII paragrafo 4 CITES.
 
-<sup>3</sup> Nel caso delle specie di fauna di cui all’allegato I CITES, la cui conservazione dipende essenzialmente dalla detenzione in cattività degli animali, le condizioni secondo l’articolo III CITES vanno adempiute anche se gli animali sono allevati in cattività. Il DFI stabilisce in un’ordinanza l’elenco delle specie di fauna interessate.
+<sup>3</sup> ...[^8-2]
 
 <sup>4</sup> Nel caso delle specie di cui agli allegati I–III CITES, gravemente minacciate o frequentemente oggetto di commercio illegale, l’USAV può chiedere documenti e informazioni supplementari che attestino la legalità della circolazione degli esemplari.
 
 [^8-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^8-2]: Abrogato dal n. I dell’O del 26 gen.2022, con effetto dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 9
 
@@ -345,9 +373,36 @@ La deroga di cui al capoverso 1 non si applica:
 
 <sup>5</sup> Il capoverso 4 non si applica agli esemplari preconvenzione.
 
-<sup>6</sup> Dietro raccomandazione della Conferenza delle Parti, il DFI può, in virtù dell’articolo XI CITES, stabilire per determinati esemplari morti delle specie di cui agli allegati I–III CITES quantitativi massimi per le deroghe di cui al capoverso 1.
+<sup>6</sup> ...[^22-2]
 
 [^22-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^22-2]: Abrogato dal n. I dell’O del 26 gen.2022, con effetto dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 22a
+
+**Souvenir**[^22a-1]
+
+<sup>1</sup>
+
+Per l’importazione di souvenir non sono necessarie autorizzazioni secondo l’articolo 7 LF-CITES, autorizzazioni e certificati secondo l’articolo 3 né la dichiarazione secondo l’articolo 5 se essi:
+
+- a. sono prodotti da specie di cui all’allegato II o III CITES[^22a-2]; e
+- b. sono di origine legale.
+
+<sup>2</sup>
+
+Per souvenir si intendono esemplari morti di specie protette che la persona che li importa:
+
+- a. ha acquistato per sé o per terzi a scopo non commerciale;
+- b. ha acquistato nel Paese in cui sono stati prelevati dall’ambiente naturale; e
+- c. porta con sé nei suoi spostamenti.
+
+<sup>3</sup> Dietro raccomandazione della Conferenza delle Parti, il DFI stabilisce in virtù dell’articolo XI CITES quali esemplari di quali specie sono da considerare souvenir e ne determina le quantità massime.
+
+<sup>4</sup> È fatto salvo l’obbligo di dichiarazione ai sensi della legislazione sulle dogane.
+
+[^22a-1]: Introdotto dal n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^22a-2]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
 #### Art. 23
 
@@ -414,17 +469,59 @@ Se le condizioni di cui allʼarticolo 8 capoverso 2 LF-CITES sono adempiute, il 
 
 [^27-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
+## Capitolo 4*a*:**** Divieti di importazione
+
+[^chap4a-1]
+
+[^chap4a-1]: Introdotta dal n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 27a
+
+<sup>1</sup>
+
+L’importazione di esemplari di specie protette è vietata se:
+
+- a. l’esemplare è stato prelevato dall’ambiente naturale;
+- b.
+
+  la specie in questione:
+
+  - 1\. è valutata dall’Unione internazionale per la conservazione della natura come gravemente minacciata o minacciata di estinzione o la minaccia è comprovata altrimenti scientificamente, e
+  - 2\. è minacciata dal commercio internazionale; e
+
+- c. la legislazione del Paese di provenienza protegge il suo habitat e ne vieta il prelievo dall’ambiente naturale.
+
+<sup>2</sup> Gli esemplari vivi la cui importazione è richiesta nell’ambito di programmi di allevamento registrati sono esenti dal divieto di importazione.
+
 ## Capitolo 5: Esecuzione
 
 ### Sezione 1: Controlli e misure in Svizzera
 
 #### Art. 28
 
-<sup>1</sup> Gli organi di controllo sequestrano gli esemplari se constatano la mancanza di documenti validi o della prova della legalità della circolazione. Possono fissare un termine congruo affinché la persona responsabile presenti la documentazione richiesta o comprovi la legalità della circolazione.
+**Sequestro**[^28-1]
 
-<sup>2</sup> L’USAV confisca gli esemplari se la documentazione richiesta non è presentata entro il termine stabilito o non è fornita la prova della legalità della circolazione.
+Gli organi di controllo sequestrano gli esemplari se constatano la mancanza di documenti validi o della prova della legalità della circolazione. Possono fissare un termine congruo affinché la persona responsabile presenti la documentazione richiesta o comprovi la legalità della circolazione.
 
-<sup>3</sup> Se gli organi di controllo constatano che viene meno il controllo degli effettivi conforme alle prescrizioni possono disporre l'istituzione, entro un congruo termine, di un registro di controllo.
+[^28-1]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 28a
+
+**Confisca**[^28a-1]
+
+<sup>1</sup> L’USAV confisca gli esemplari se la documentazione richiesta non è presentata entro il termine stabilito o non è fornita la prova della legalità della circolazione.
+
+<sup>2</sup> Può confiscare gli esemplari senza sequestro preliminare se le condizioni dell’articolo 16 capoverso 1<sup>bis</sup> LF-CITES sono soddisfatte.
+
+[^28a-1]: Introdotto dal n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+
+#### Art. 28b
+
+**Misure in caso di mancato controllo degli effettivi**[^28b-1]
+
+Se gli organi di controllo constatano che viene meno il controllo degli effettivi conforme alle prescrizioni possono disporre l’istituzione, entro un congruo termine, di un registro di controllo.
+
+[^28b-1]: Introdotto dal n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ### Sezione 2: Controlli e misure all’atto dell’importazione, del transito e dell’esportazione
 
@@ -449,18 +546,15 @@ All’atto dell’importazione in un’enclave doganale svizzera, del transito a
 
 #### Art. 30
 
-**Controllo delle partite in importazione**
+**Controllo delle partite in importazione**[^30-1]
 
-<sup>1</sup> Il DFI stabilisce in unʼordinanza per quali esemplari soggetti a dichiarazione occorre procedere a un controllo documentale all’atto dell’importazione e per quali esemplari e in quali casi occorre inoltre procedere a un controllo d’identità e a un controllo fisico.
+<sup>1</sup> Il DFI stabilisce in un’ordinanza per quali esemplari soggetti a dichiarazione occorre procedere a un controllo documentale all’atto dell’importazione e per quali esemplari e in quali casi occorre inoltre procedere a un controllo di identità e a un controllo fisico.
 
-<sup>2</sup> Le partite che non sono controllate presso gli uffici devono essere presentate all’organo di controllo competente entro due giorni lavorativi dalla dichiarazione, se ciò viene disposto dall’USAV. Le partite possono essere modificate prima del controllo soltanto se necessario per il benessere degli animali vivi e delle piante vive.
+<sup>2</sup> Gli esemplari per i quali è previsto un controllo di identità e un controllo fisico devono essere presentati all’organo di controllo competente entro due giorni lavorativi dalla dichiarazione. Le partite interessate possono essere modificate prima del controllo soltanto se necessario per il benessere degli animali vivi e delle piante vive.
 
-<sup>3</sup> L’USAV può concordare con i destinatari autorizzati di cui all’articolo 101 dell’ordinanza del 1° novembre 2006[^30-1] sulle dogane e con i depositari di cui all’articolo 52 capoverso 1 LD[^30-2] i controlli da effettuare e il luogo del controllo. Nell’accordo è stabilito come depositare o custodire gli esemplari fino al momento del controllo e quali informazioni devono essere registrate.
+<sup>3</sup> D’intesa con l’UDSC, l’USAV può affidare alle persone incaricate del controllo delle merci il controllo della documentazione e delle partite.
 
-<sup>4</sup> D’intesa con l’UDSC, l’USAV può affidare agli organi delle dogane il controllo della documentazione e delle partite.
-
-[^30-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^30-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^30-1]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 31
 
@@ -502,9 +596,11 @@ Gli organi di controllo contestano le partite non conformi alle prescrizioni. So
 
 #### Art. 35
 
-**Respingimento, rilascio con riserva**
+**Respingimento e rilascio con riserva**[^35-1]
 
-In casi eccezionali, gli organi di controllo possono disporre il respingimento di partite o il rilascio con riserva se le partite o i documenti differiscono dalle norme prescritte anche soltanto in misura trascurabile.
+Gli organi di controllo possono disporre il respingimento di partite o il rilascio con riserva se le partite o i documenti differiscono dalle norme prescritte anche soltanto in misura trascurabile.
+
+[^35-1]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 36
 
@@ -515,13 +611,16 @@ In casi eccezionali, gli organi di controllo possono disporre il respingimento d
 Gli organi di controllo sequestrano esemplari:
 
 - a. nei casi di cui all’articolo 15 capoverso 1 lettere a–e LF-CITES;
-- b. se manca l’autorizzazione richiesta secondo la LCP e un respingimento per motivi di protezione degli animali non è ragionevolmente sostenibile o se gli esemplari non sono stati dichiarati o esibiti agli organi di controllo.
+- b.[^36-1] se manca l’autorizzazione richiesta secondo la LCP; oppure
+- c.[^36-2] se gli esemplari non sono stati dichiarati o esibiti agli organi di controllo.
 
-<sup>2</sup> In caso di transito per aeroporti nazionali sequestrano esemplari di cui all’allegato I CITES[^36-1] o animali vivi se sono riscontrate irregolarità.
+<sup>2</sup> In caso di transito per aeroporti nazionali sequestrano esemplari di cui all’allegato I CITES[^36-3] o animali vivi se sono riscontrate irregolarità.
 
 <sup>3</sup> Possono fissare alla persona responsabile un congruo termine per permetterle di rimediare alle irregolarità che hanno comportato la contestazione.
 
-[^36-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^36-1]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^36-2]: Introdotta dal n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^36-3]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
 #### Art. 37
 
@@ -533,16 +632,21 @@ L’USAV rilascia gli esemplari confiscati quando è stato posto rimedio all'irr
 
 **Confisca**
 
-L’USAV confisca esemplari sequestrati:
+L’USAV confisca esemplari:[^38-1]
 
-- a. nei casi di cui all’articolo 16 capoverso 1 LF-CITES;
+- a.[^38-2] nei casi di cui all’articolo 16 capoversi 1 e 1<sup>bis</sup> LF-CITES;
 - b. se entro il termine fissato l’autorizzazione richiesta in virtù della LPC non è stata presentata o gli esemplari non sono stati presentati agli organi di controllo.
+
+[^38-1]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^38-2]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ### Sezione 3: Esemplari sequestrati e confiscati
 
 #### Art. 39
 
 <sup>1</sup> Gli organi di controllo depositano o custodiscono temporaneamente gli esemplari sequestrati in una struttura designata dall’USAV o in un altro luogo adeguato.
+
+<sup>1bis</sup> L’USAV deve fornire alle persone responsabili e a terzi esclusivamente informazioni sul benessere di esemplari sequestrati vivi.[^39-1]
 
 <sup>2</sup> Se muoiono esemplari sequestrati vivi, essi sono destinati a uno degli scopi previsti dall’USAV o eliminati, previa presentazione di una dichiarazione di rinuncia da parte del proprietario.
 
@@ -551,16 +655,17 @@ L’USAV confisca esemplari sequestrati:
 L’USAV:
 
 - a. previa consultazione e alle spese dello Stato esportatore rinvia a quest’ultimo gli esemplari confiscati;
-- b. trasferisce gli esemplari confiscati in una struttura designata dall’USAV o in un altro luogo adeguato e conforme agli scopi della CITES[^39-1];
+- b. trasferisce gli esemplari confiscati in una struttura designata dall’USAV o in un altro luogo adeguato e conforme agli scopi della CITES[^39-2];
 - c. aliena gli esemplari confiscati, se ciò è consentito dalla CITES; oppure
 - d. elimina gli esemplari confiscati, se il loro respingimento allo Stato di esportazione o la loro alienazione sono impossibili e se il loro immagazzinamento e la loro custodia sono inopportuni o impraticabili.
 
 <sup>4</sup> Quando esemplari confiscati sono alienati, il ricavato deve essere utilizzato per finanziare progetti di ricerca e interventi intesi a raggiungere gli scopi della CITES, se possibile nei Paesi di origine degli esemplari in questione.
 
-<sup>5</sup> L’eliminazione degli esemplari sequestrati o confiscati è disciplinata dall’ordinanza del 25 maggio 2011[^39-2] concernente l’eliminazione dei sottoprodotti di origine animale.
+<sup>5</sup> L’eliminazione degli esemplari sequestrati o confiscati è disciplinata dall’ordinanza del 25 maggio 2011[^39-3] concernente l’eliminazione dei sottoprodotti di origine animale.
 
-[^39-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
-[^39-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^39-1]: Introdotto dal n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^39-2]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^39-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 ### Sezione 4: Organizzazione esecutiva
 
@@ -610,15 +715,29 @@ Gli organi di controllo sono:
 - c. l’UDSC;
 - d. i servizi veterinari cantonali, i veterinari cantonali, nonché altre organizzazioni o persone di diritto privato o pubblico a cui vengono assegnati compiti esecutivi dal DFI.
 
-<sup>2</sup> A fini esecutivi, l’UDSC può avvalersi della collaborazione degli altri organi di controllo di cui al capoverso 1.
+<sup>2</sup> Per l’esecuzione, l’USAV e l’UDSC possono avvalersi della collaborazione degli altri organi di controllo.[^41-1]
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 #### Art. 42
 
-**Commissione tecnica**
+**Commissione tecnica**[^42-1]
 
 <sup>1</sup> La commissione tecnica di cui all’articolo 19 LF-CITES è la Commissione federale per gli affari riguardanti la Convenzione sulla protezione delle specie.
 
-<sup>2</sup> La Commissione è formata da nove membri al massimo ed è composta da esperti in zoologia, botanica, detenzione di animali selvatici, nonché in protezione delle specie di fauna e di flora. Il Consiglio federale ne designa il presidente.
+<sup>2</sup>
+
+La Commissione è formata da nove membri al massimo ed è composta da esperti in:
+
+- a. zoologia e botanica;
+- b. detenzione di animali selvatici;
+- c. protezione delle specie di fauna e di flora;
+- d. diritto ambientale; e
+- e. scienze economiche.
+
+<sup>3</sup> Il Consiglio federale designa il presidente della Commissione.
+
+[^42-1]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ## Capitolo 6: Tasse e costi
 
@@ -826,7 +945,11 @@ Le misure atte a garantire la sicurezza informatica sono rette dall’ordinanza 
 
 #### Art. 58
 
-Infrazioni degli articoli 3 capoverso 1 e 30 capoverso 2 sono punibili secondo l’articolo 26 capoverso 5 LF-CITES.
+[^58-1]
+
+Infrazioni degli articoli 3 capoverso 1, 7*a* e 30 capoverso 2 sono punibili secondo l’articolo 26 capoverso 5 LF-CITES.
+
+[^58-1]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
 
 ## Capitolo 9: Disposizioni finali
 
