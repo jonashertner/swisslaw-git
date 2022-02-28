@@ -4,13 +4,12 @@ number: "916.812"
 title: "Ordonnance sur la protection des animaux et les chiens *"
 short: OPAC
 language: fr
-version: 2021-04-01
-valid_until: 2022-02-28
-version_adopted: 2021-02-17
+version: 2022-03-01
+version_adopted: 2022-02-02
 adopted: 2009-01-21
 in_force: 2009-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.812"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2201/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2550/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2201/pdf_file"
 
 (OPAC)
 
-du 21.01.2009 (état au 01.04.2021)
+du 21.01.2009 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -199,7 +198,7 @@ arrête:
 
 <sup>2</sup> Les organisations intéressées peuvent proposer des candidats ou des candidates à la Direction de l’économie, de l’énergie et de l’environnement en vue de la nomination.
 
-<sup>3</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer un candidat ou une candidate, d'entente avec l'organisation intéressée.
+<sup>3</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones de l'arrondissement de Biel/Bienne le droit de proposer un candidat ou une candidate, d'entente avec l'organisation intéressée.
 
 #### Art. 15
 

@@ -4,13 +4,12 @@ number: "916.812"
 title: Verordnung über den Tierschutz und die Hunde
 short: THV
 language: de
-version: 2021-04-01
-valid_until: 2022-02-28
-version_adopted: 2021-02-17
+version: 2022-03-01
+version_adopted: 2022-02-02
 adopted: 2009-01-21
 in_force: 2009-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/916.812"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2201/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2550/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2201/pdf_file"
 
 (THV)
 
-vom 21.01.2009 (Stand 01.04.2021)
+vom 21.01.2009 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -199,7 +198,7 @@ beschliesst:
 
 <sup>2</sup> Die interessierten Organisationen können der Wirtschafts-, Energie- und Umweltdirektion Vertreterinnen und Vertreter zur Wahl vorschlagen.
 
-<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel das Recht, in Absprache mit der interessierten Organisation eine Kandidatin oder einen Kandidaten vorzuschlagen.
+<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne das Recht, in Absprache mit der interessierten Organisation eine Kandidatin oder einen Kandidaten vorzuschlagen.
 
 #### Art. 15
 
