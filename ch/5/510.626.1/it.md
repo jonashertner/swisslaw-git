@@ -4,11 +4,11 @@ title: Ordinanza del DDPS del 5 giugno 2008 sulla misurazione nazionale (OMN-DDP
 short: OMN-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/395"
 language: it
-version: 2017-08-01
+version: 2022-03-01
 adopted: 2008-06-05
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/395/20170801/it/xml/fedlex-data-admin-ch-eli-cc-2008-395-20170801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/395/20170801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/395/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2008-395-20220301-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/395/20220301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/395/20170801/it"
 
 (OMN-DDPS)
 
-del 5 giugno 2008 (Stato 1° agosto 2017)
+del 5 giugno 2008 (Stato 1° marzo 2022)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -50,9 +50,9 @@ I sistemi di riferimento geodetici globali sono definiti mediante:
 
 I punti fissi planimetrici della categoria 1 (PFP1) costituiscono il quadro di riferimento della misurazione nazionale per la planimetria. Comprendono:
 
-- a. i punti della triangolazione nazionale di 1° e 2° ordine, nonché una scelta di punti della triangolazione di 3° ordine di importanza storica o particolare per la misurazione nazionale;
+- a.[^2-1] le stazioni permanenti della rete ufficiale del sistema globale di navigazione satellitare (rete GNSS) della Svizzera;
 - b. i punti di riferimento della rete nazionale MN95;
-- c. le stazioni permanenti della rete ufficiale del sistema globale di navigazione satellitare (rete GNSS) della Svizzera.
+- c.[^2-2] i punti di triangolazione nazionale di 1° e 2° ordine, nonché una scelta di punti della triangolazione di 3° ordine di importanza storica o particolare per la misurazione nazionale.
 
 <sup>3</sup> Per i punti di riferimento della rete nazionale MN95 e le stazioni permanenti della rete GNSS della Svizzera, le coordinate tridimensionali, le quote ortometriche e i valori gravimetrici vengono determinati oppure calcolati mediante interpolazione.
 
@@ -61,6 +61,9 @@ I punti fissi planimetrici della categoria 1 (PFP1) costituiscono il quadro di r
 <sup>5</sup> Per i PFA1 sono calcolate quote usuali nella livellazione federale 1902 (LF02).
 
 <sup>6</sup> Per i PFA1 sono calcolate quote geopotenziali e quote ortometriche nella rete altimetrica nazionale RAN95, la quale considera anche modifiche cinematiche.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del DDPS del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del DDPS del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
 
 #### Art. 3
 
@@ -115,8 +118,13 @@ L’Ufficio federale di topografia fornisce le seguenti prestazioni ufficiali de
 - e. coordinate del confine nazionale in un quadro di riferimento globale;
 - f. valori gravimetrici delle stazioni della rete gravimetrica nazionale;
 - g. ondulazioni del geoide e deviazioni dalla verticale calcolati sulla base del modello del geoide della Svizzera;
-- h. dati delle misurazioni della rete GNSS mediante i sistemi di posizionamento giusta l’articolo 3 capoverso 3;
-- i. software geodetici che tengono segnatamente conto delle peculiarità dei sistemi e dei quadri di riferimento svizzeri.
+- h.[^7-1] declinazione, inclinazione e intensità del campo geomagnetico;
+- i.[^7-2] dati delle misurazioni della rete GNSS mediante i sistemi di posizionamento giusta l’articolo 3 capoverso 3;
+- j.[^7-3] i software geodetici che tengono segnatamente conto delle peculiarità dei sistemi e dei quadri di riferimento svizzeri.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del DDPS del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
+[^7-2]: Nuovo testo giusta il n. I dell’O del DDPS del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
+[^7-3]: Introdotta dal n. I dell’O del DDPS del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
 
 #### Art. 8
 
@@ -132,7 +140,8 @@ L’Ufficio federale di topografia, sulla base delle informazioni topografiche d
 - d. dati altimetrici;
 - e. dati dei confini giurisdizionali;
 - f. nomi geografici.
-- [tab] <sup>2</sup> Sono considerate prestazioni ufficiali i risultati finali e intermedi dei lavori eseguiti nel quadro del mandato legale per il rilevamento, l’aggiornamento e la gestione delle informazioni topografiche per i modelli nazionali del paesaggio (art. 22 cpv. 2 lett. c della legge del 5 ottobre 2007[^8-1] sulla geoinformazione).
+
+<sup>2</sup> Sono considerate prestazioni ufficiali i risultati finali e intermedi dei lavori eseguiti nel quadro del mandato legale per il rilevamento, l’aggiornamento e la gestione delle informazioni topografiche per i modelli nazionali del paesaggio (art. 22 cpv. 2 lett. c della legge del 5 ottobre 2007[^8-1] sulla geoinformazione).
 
 [^8-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 
@@ -157,8 +166,11 @@ L’Ufficio federale di topografia offre le carte nazionali topografiche seguent
 
 <sup>3</sup> D’intesa con l’Aggruppamento Difesa, per scopi militari sono allestite versioni speciali delle carte nazionali.
 
+<sup>4</sup> L’Ufficio federale di topografia allestisce carte nazionali in forma digitale, che sono indipendenti dalla scala e che possono essere collegate a ulteriori informazioni.[^9-3]
+
 [^9-1]: Introdotta dal n. I dell’O del DDPS del 9 giu. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3685](https://fedlex.data.admin.ch/eli/oc/2017/419)).
 [^9-2]: Nuovo testo giusta il n. I dell’O del DDPS del 9 giu. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3685](https://fedlex.data.admin.ch/eli/oc/2017/419)).
+[^9-3]: Introdotto dal n. I dell’O del DDPS del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
 
 #### Art. 10
 
@@ -166,14 +178,17 @@ L’Ufficio federale di topografia offre le carte nazionali topografiche seguent
 
 L’Ufficio federale di topografia fornisce le prestazioni ufficiali particolari seguenti:
 
-- a. la carta dei Comuni della Svizzera;
+- a.[^10-1] ...
 - b. carte secondo il diritto aeronautico;
 - c. carte storiche;
 - d. carte geologiche;
 - e. software relativi alle carte nazionali;
-- f.[^10-1] carte nazionali per attività sportive sulla neve.
+- f.[^10-2] carte nazionali per attività sportive sulla neve;
+- g.[^10-3] carte nazionali per attività escursionistiche e ciclistiche.
 
-[^10-1]: Introdotta dal n. I dell’O del DDPS del 9 giu. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3685](https://fedlex.data.admin.ch/eli/oc/2017/419)).
+[^10-1]: Abrogata dal n. I dell’O del DDPS del 10 dic. 2021, con effetto dal 1° mar. 2022 ([RU 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
+[^10-2]: Introdotta dal n. I dell’O del DDPS del 9 giu. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3685](https://fedlex.data.admin.ch/eli/oc/2017/419)).
+[^10-3]: Introdotta dal n. I dell’O del DDPS del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
 
 #### Art. 11
 

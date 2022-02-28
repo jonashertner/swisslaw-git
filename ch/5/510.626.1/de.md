@@ -4,11 +4,11 @@ title: Verordnung des VBS vom 5. Juni 2008 über die Landesvermessung (LVV-VBS)
 short: LVV-VBS
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/395"
 language: de
-version: 2017-08-01
+version: 2022-03-01
 adopted: 2008-06-05
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/395/20170801/de/xml/fedlex-data-admin-ch-eli-cc-2008-395-20170801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/395/20170801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/395/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2008-395-20220301-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/395/20220301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/395/20170801/de"
 
 (LVV-VBS)
 
-vom 5. Juni 2008 (Stand am 1. August 2017)
+vom 5. Juni 2008 (Stand am 1. März 2022)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport,
 
@@ -50,9 +50,9 @@ Global gelagerte geodätische Bezugssysteme werden definiert durch:
 
 Die Lagefixpunkte der Kategorie 1 (LFP1) bilden den Bezugsrahmen der Landesvermessung für die Lage. Sie umfassen:
 
-- a. die Punkte der Landestriangulation 1. und 2. Ordnung sowie eine Auswahl von Punkten der Triangulation 3. Ordnung mit historischer oder besonderer Bedeutung für die Landesvermessung;
+- a.[^2-1] die Permanentstationen des amtlichen Global-Navigation-Satellite-System-Netzes (GNSS-Netz) der Schweiz;
 - b. die Referenzpunkte des Landesnetzes LV95;
-- c. die Permanentstationen des amtlichen Global-Navigation-Satellite-System-Netzes (GNSS-Netz) der Schweiz.
+- c.[^2-2] die Punkte der Landestriangulation 1. und 2. Ordnung sowie eine Auswahl von Punkten der Triangulation 3. Ordnung mit historischer oder besonderer Bedeutung für die Landesvermessung.
 
 <sup>3</sup> Für die Referenzpunkte des Landesnetzes LV95 und die Permanentstationen des GNSS-Netzes der Schweiz werden dreidimensionale Koordinaten, orthometrische Höhen und Schwerewerte bestimmt oder durch Interpolation berechnet.
 
@@ -61,6 +61,9 @@ Die Lagefixpunkte der Kategorie 1 (LFP1) bilden den Bezugsrahmen der Landesverme
 <sup>5</sup> Für die HFP1 werden Gebrauchshöhen im Landesnivellement 1902 (LN02) berechnet.
 
 <sup>6</sup> Für die HFP1 werden geopotenzielle Koten und orthometrische Höhen im Landeshöhennetz LHN95 berechnet. Dieses berücksichtigt auch kinematische Veränderungen.
+
+[^2-1]: Fassung gemäss Ziff. I der V des VBS vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
+[^2-2]: Fassung gemäss Ziff. I der V des VBS vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
 
 #### Art. 3
 
@@ -115,8 +118,13 @@ Das Bundesamt für Landestopografie erbringt folgende amtliche Leistungen der ge
 - e. Koordinaten der Landesgrenze in einem globalen Bezugsrahmen;
 - f. Schwerewerte der Schwerestationen des Landesschwerenetzes;
 - g. Geoidundulationen und Lotabweichungen, berechnet aus dem Geoidmodell der Schweiz;
-- h. Messdaten des GNSS-Netzes über die Positionierungsdienste nach Artikel 3 Absatz 3;
-- i. geodätische Software, die insbesondere die Eigenheiten der schweizerischen Bezugssysteme und -rahmen berücksichtigt.
+- h.[^7-1] Deklination, Inklination und Feldstärke des Geomagnetfeldes;
+- i.[^7-2] Messdaten des GNSS-Netzes über die Positionierungsdienste nach Artikel 3 Absatz 3;
+- j.[^7-3] geodätische Software, die insbesondere die Eigenheiten der schweizerischen Bezugssysteme und -rahmen berücksichtigt.
+
+[^7-1]: Fassung gemäss Ziff. I der V des VBS vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
+[^7-2]: Fassung gemäss Ziff. I der V des VBS vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
+[^7-3]: Eingefügt durch Ziff. I der V des VBS vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
 
 #### Art. 8
 
@@ -158,8 +166,11 @@ Das Bundesamt für Landestopografie bietet folgende topografische Landeskarten a
 
 <sup>3</sup> Für militärische Zwecke werden von den Landeskarten in Absprache mit der Gruppe Verteidigung Spezialanfertigungen erstellt.
 
+<sup>4</sup> Das Bundesamt für Landestopografie erstellt in digitaler Form Landeskarten, die massstabsunabhängig sind und mit weiteren Informationen verknüpft werden können.[^9-3]
+
 [^9-1]: Eingefügt durch Ziff. I der V des VBS vom 9. Juni 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3685](https://fedlex.data.admin.ch/eli/oc/2017/419)).
 [^9-2]: Fassung gemäss Ziff. I der V des VBS vom 9. Juni 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3685](https://fedlex.data.admin.ch/eli/oc/2017/419)).
+[^9-3]: Eingefügt durch Ziff. I der V des VBS vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
 
 #### Art. 10
 
@@ -167,14 +178,17 @@ Das Bundesamt für Landestopografie bietet folgende topografische Landeskarten a
 
 Das Bundesamt für Landestopografie erbringt folgende besondere amtliche Leistungen:
 
-- a. Gemeindekarte der Schweiz;
+- a.[^10-1] …
 - b. Karten gemäss Luftfahrtrecht;
 - c. historische Karten;
 - d. geologische Karten;
 - e. Software zum Landeskartenwerk;
-- f.[^10-1] Landeskarten mit Schneesport-Thematik.
+- f.[^10-2] Landeskarten mit Schneesport-Thematik;
+- g.[^10-3] Landeskarten mit Wander- und Velo-Thematik.
 
-[^10-1]: Eingefügt durch Ziff. I der V des VBS vom 9. Juni 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3685](https://fedlex.data.admin.ch/eli/oc/2017/419)).
+[^10-1]: Aufgehoben durch Ziff. I der V des VBS vom 10. Dez. 2021, mit Wirkung seit 1. März 2022 ([AS 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
+[^10-2]: Eingefügt durch Ziff. I der V des VBS vom 9. Juni 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3685](https://fedlex.data.admin.ch/eli/oc/2017/419)).
+[^10-3]: Eingefügt durch Ziff. I der V des VBS vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 914](https://fedlex.data.admin.ch/eli/oc/2021/914)).
 
 #### Art. 11
 
