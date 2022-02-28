@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les contributions à des cultures part
 short: OCCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: fr
-version: 2022-01-01
+version: 2022-03-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220101/fr"
 
 (Ordonnance sur les contributions à des cultures particulières, OCCP)**[^t-1]**
 
-du 23 octobre 2013 (Etat le 1<sup>er</sup> janvier 2022)
+du 23 octobre 2013 (Etat le 1<sup>er</sup> mars 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -52,6 +52,13 @@ Les contributions à des cultures particulières sont versées pour les surfaces
 
 <sup>2</sup> Les contributions à des cultures particulières sont également versées pour les surfaces cultivées par tradition dans la zone limitrophe étrangère visées à l’art. 17, al. 2, de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^1-1].
 
+<sup>2bis</sup>
+
+Le supplément pour les betteraves sucrières destinées à la fabrication de sucre est versé à la condition qu’une des contributions suivantes soit versée:
+
+- a. la contribution pour l’agriculture biologique conformément à l’art. 66 de de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^1-2];
+- b. la contribution pour le non-recours aux fongicides et aux insecticides conformément à l’annexe 6a, ch. 3.2, OPD.[^1-3]
+
 <sup>3</sup>
 
 Aucune contribution n’est versée pour:
@@ -60,10 +67,12 @@ Aucune contribution n’est versée pour:
 - b. les parcelles ou parties de parcelles fortement envahies par des mauvaises herbes posant des problèmes, telles que le rumex, le chardon des champs, le chiendent, la folle avoine, le séneçon jacobée et les plantes néophytes envahissantes;
 - c. les surfaces affectées aux cultures de colza, tournesol, courges à huile, lin oléagineux, pavot, carthame des teinturiers, soja, féveroles, pois protéagineux et lupins, qui sont récoltées avant maturité ou non pour les graines;
 - d. les surfaces affectées à la culture de courges à huile qui ne sont pas battues sur le champ;
-- e. les bandes culturales extensives visées à l’art. 55, al. 1, let. j, de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^1-2].
+- e.[^1-4] les bandes culturales extensives visées à l’art. 55, al. 1, let. j, OPD.
 
 [^1-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^1-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-3]: Introduit par le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 2
 
@@ -78,8 +87,12 @@ La contribution à des cultures particulières, par hectare et par an, s’élè
 <tr><td>c. pour les semences de graminées fourragères et de légumineuses fourragères:</td><td>1000</td></tr>
 <tr><td>d. pour le soja:</td><td>1000</td></tr>
 <tr><td>e. pour les féveroles, les pois protéagineux et les lupins destinés à l’affouragement et pour les mélanges visés à l’art. 6*b*, al. 2:</td><td>1000</td></tr>
-<tr><td>f. pour les betteraves sucrières destinées à la fabrication de sucre:</td><td>1800</td></tr>
+<tr><td>f.[^2-1] pour les betteraves sucrières destinées à la fabrication de sucre</td><td>2100</td></tr>
+<tr><td>g.[^2-2] contribution supplémentaire pour les betteraves sucrières destinées à la fabrication de sucre</td><td>200</td></tr>
 </table>
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-2]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 3
 

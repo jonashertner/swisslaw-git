@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 concernente i contributi per singole coltu
 short: OCSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: it
-version: 2022-01-01
+version: 2022-03-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220101/it"
 
 (Ordinanza sui contributi per singole colture, OCSC)**[^t-1]**
 
-del 23 ottobre 2013 (Stato 1° gennaio 2022)
+del 23 ottobre 2013 (Stato 1° marzo 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -52,6 +52,13 @@ I contributi per singole colture sono versati per superfici con le seguenti colt
 
 <sup>2</sup> I contributi per singole colture sono versati anche per le superfici coltivate per tradizione familiare nella zona di confine estera ai sensi dell’articolo 17 capoverso 2 dell’ordinanza del 7 dicembre 1998[^1-1] sulla terminologia agricola (OTerm).
 
+<sup>2bis</sup>
+
+Il contributo supplementare per barbabietole da zucchero per la produzione di zucchero è versato se è versato anche uno dei seguenti contributi:
+
+- a. contributo per l’agricoltura biologica secondo l’articolo 66 dell’ordinanza del 23 ottobre 2013[^1-2] sui pagamenti diretti (OPD);
+- b. contributo per la rinuncia a fungicidi e insetticidi secondo l’allegato 6*a* numero 3.2 OPD.[^1-3]
+
 <sup>3</sup>
 
 Non sono versati contributi per:
@@ -60,10 +67,12 @@ Non sono versati contributi per:
 - b. particelle o parti di particelle caratterizzate da un’elevata presenza di piante problematiche, in particolare romice, stoppione («cardo dei campi»), agropiro («gramigna»), avena selvatica, erba di San Giacomo e neofite invasive;
 - c. superfici con colza, girasoli, zucche per l’estrazione di olio, lino per l’estrazione di olio, papavero, cartamo, soia, favette, piselli proteici e lupini, raccolti prima della loro maturazione o non per l’estrazione dei granelli;
 - d. superfici con zucche per l’estrazione di olio che non sono trebbiate sul campo;
-- e. fasce di colture estensive in campicoltura ai sensi dell’articolo 55 capoverso 1 lettera j dell’ordinanza del 23 ottobre 2013[^1-2] sui pagamenti diretti (OPD).
+- e.[^1-4] fasce di colture estensive in campicoltura secondo l’articolo 55 capoverso 1 lettera j OPD.
 
 [^1-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^1-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-3]: Introdotto dal n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^1-4]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 2
 
@@ -78,8 +87,12 @@ Per ettaro e anno il contributo per singole colture ammonta a:
 <tr><td>c. sementi di graminacee da foraggio e leguminose da foraggio</td><td>1000</td></tr>
 <tr><td>d. soia</td><td>1000</td></tr>
 <tr><td>e. favette, piselli proteici e lupini a scopo foraggero, nonché miscele ai sensi dell’articolo 6*b* capoverso 2</td><td>1000</td></tr>
-<tr><td>f. barbabietole da zucchero per la produzione di zucchero</td><td>1800</td></tr>
+<tr><td>f.[^2-1] barbabietole da zucchero per la produzione di zucchero</td><td>2100</td></tr>
+<tr><td>g.[^2-2] contributo supplementare per le barbabietole da zucchero per la produzione di zucchero</td><td>200</td></tr>
 </table>
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-2]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 3
 
@@ -213,7 +226,7 @@ Il Cantone stabilisce:
 [^7-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^7-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 [^7-4]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^7-5]: Nuovo testo giusta il n. II 10 dell’all all’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^7-5]: Nuovo testo giusta l’all n. II 10 dell’O del 23 nov. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^7-6]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 8
@@ -322,7 +335,7 @@ Richiede il rispettivo importo totale all’UFAG:
 <sup>3</sup> I controlli sono in parte eseguiti senza preavviso.
 
 [^14-1]: [RS 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
-[^14-2]: Nuovo testo giusta il n. 3 dell’all. 2 all’O del 31 ott. 2018 sul coordinamento dei controlli delle aziende agricole, in vigore dal 1° gen. 2020 ([RU 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
+[^14-2]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 31 ott. 2018 sul coordinamento dei controlli delle aziende agricole, in vigore dal 1° gen. 2020 ([RU 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
 
 #### Art. 15
 
@@ -406,7 +419,7 @@ Sono considerati casi di forza maggiore, in particolare:
 
 L’ordinanza del 7 dicembre 1998[^26-1] sui contributi nella campicoltura è abrogata.
 
-[^26-1]: [[RU 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44), [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51)[2507](https://fedlex.data.admin.ch/eli/oc/2001/370), [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778), [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154)[4829](https://fedlex.data.admin.ch/eli/oc/2006/745), [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821), [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513)[5821](https://fedlex.data.admin.ch/eli/oc/2008/801), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)n. II 2, [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)n. II 2, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 5]
+[^26-1]: [[RU 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44); [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51), [2507](https://fedlex.data.admin.ch/eli/oc/2001/370); [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778); [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154), [4829](https://fedlex.data.admin.ch/eli/oc/2006/745); [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821); [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513), [5821](https://fedlex.data.admin.ch/eli/oc/2008/801); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)n. II 2; [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)n. II 2; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 5]
 
 #### Art. 27
 
@@ -416,7 +429,7 @@ L’ordinanza del 7 dicembre 1998[^26-1] sui contributi nella campicoltura è ab
 
 <sup>2</sup> Per le società di persone che nel 2013 hanno ricevuto contributi secondo l’ordinanza del 7 dicembre 1998 sui contributi nella campicoltura, fino alla fine del 2015 è determinante l’età del gestore più giovane.
 
-[^27-1]: [[RU 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44), [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51)[2507](https://fedlex.data.admin.ch/eli/oc/2001/370), [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778), [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154)[4829](https://fedlex.data.admin.ch/eli/oc/2006/745), [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821), [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513)[5821](https://fedlex.data.admin.ch/eli/oc/2008/801), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)n. II 2, [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)n. II 2, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 5]
+[^27-1]: [[RU 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44); [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51), [2507](https://fedlex.data.admin.ch/eli/oc/2001/370); [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778); [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154), [4829](https://fedlex.data.admin.ch/eli/oc/2006/745); [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821); [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513), [5821](https://fedlex.data.admin.ch/eli/oc/2008/801); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)n. II 2; [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)n. II 2; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 5]
 
 #### Art. 28
 

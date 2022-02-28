@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über Einzelkulturbeiträge im Pflanzenb
 short: EKBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: de
-version: 2022-01-01
+version: 2022-03-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220101/de"
 
 (Einzelkulturbeitragsverordnung, EKBV)[^t-1]
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2022)
+vom 23. Oktober 2013 (Stand am 1. März 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -52,6 +52,13 @@ Einzelkulturbeiträge werden für Flächen mit den folgenden Kulturen ausgericht
 
 <sup>2</sup> Einzelkulturbeiträge werden auch für angestammte Flächen in der ausländischen Grenzzone nach Artikel 17 Absatz 2 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^1-1] (LBV) ausgerichtet.
 
+<sup>2bis</sup>
+
+Der Zusatzbeitrag für Zuckerrüben zur Zuckerherstellung wird ausgerichtet, wenn auch einer der folgenden Beiträge ausgerichtet wird:
+
+- a. Beitrag für biologische Landwirtschaft nach Artikel 66 der Direktzahlungsverordnung vom 23. Oktober 2013[^1-2] (DZV);
+- b. Beitrag für den Verzicht auf Fungizide und Insektizide nach Anhang 6*a* Ziffer 3.2 DZV.[^1-3]
+
 <sup>3</sup>
 
 Keine Beiträge werden ausgerichtet für:
@@ -60,10 +67,12 @@ Keine Beiträge werden ausgerichtet für:
 - b. Parzellen oder Parzellenteile mit hohem Besatz an Problempflanzen, insbesondere Blacken, Ackerkratzdisteln, Quecken, Flughafer, Jakobs-Kreuzkraut und invasive Neophyten;
 - c. Flächen mit Raps, Sonnenblumen, Ölkürbissen, Öllein, Mohn, Saflor, Soja, Ackerbohnen, Eiweisserbsen und Lupinen, die vor ihrem Reifezustand oder nicht zur Körnergewinnung geerntet werden;
 - d. Flächen mit Ölkürbissen, die nicht auf dem Feld ausgedroschen werden;
-- e. Ackerschonstreifen nach Artikel 55 Absatz 1 Buchstabe j der Direktzahlungsverordnung vom 23. Oktober 2013[^1-2] (DZV).
+- e.[^1-4] Ackerschonstreifen nach Artikel 55 Absatz 1 Buchstabe j DZV.
 
 [^1-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^1-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-3]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^1-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 2
 
@@ -78,8 +87,12 @@ Der Einzelkulturbeitrag beträgt pro Hektare und Jahr für:
 <tr><td>c. Saatgut von Futtergräsern und Futterleguminosen</td><td>1000</td></tr>
 <tr><td>d. Soja</td><td>1000</td></tr>
 <tr><td>e. Ackerbohnen, Eiweisserbsen und Lupinen zu Futterzwecken sowie Mischungen nach Artikel 6*b* Absatz 2</td><td>1000</td></tr>
-<tr><td>f. Zuckerrüben zur Zuckerherstellung</td><td>1800</td></tr>
+<tr><td>f.[^2-1] Zuckerrüben zur Zuckerherstellung</td><td>2100</td></tr>
+<tr><td>g.[^2-2] Zusatzbeitrag für Zuckerrüben zur Zuckerherstellung</td><td>200</td></tr>
 </table>
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 3
 
