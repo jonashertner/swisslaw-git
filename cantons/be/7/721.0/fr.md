@@ -4,13 +4,13 @@ number: "721.0"
 title: "Loi sur les constructions *"
 short: LC
 language: fr
-version: 2020-08-01
-valid_until: 2022-02-28
-version_adopted: 2020-06-24
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-03
 adopted: 1985-06-09
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1921/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2384/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1921/pdf_file"
 
 (LC)
 
-du 09.06.1985 (état au 01.08.2020)
+du 09.06.1985 (état au 01.03.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -456,9 +456,9 @@ arrête:
 
 #### Art. 21a
 
-**Mesures parasismiques concernant les nouvelles constructions et installations**
+**Mesures parasismiques**
 
-<sup>1</sup> Les nouvelles constructions et installations doivent être conçues et entretenues conformément aux normes parasismiques reconnues. Les modalités de détail sont réglées dans le décret concernant la procédure d’octroi du permis de construire (DPC).
+<sup>1</sup> Les constructions et installations doivent être conçues et entretenues conformément aux normes parasismiques reconnues. Les modalités de détail sont réglées dans le décret concernant la procédure d’octroi du permis de construire (DPC).
 
 ### 1.3.2 Construction sans obstacles
 
@@ -664,7 +664,7 @@ arrête:
 
 **Introduction et forme de la procédure 1 Introduction**
 
-<sup>1</sup> La demande de permis de construire, établie au moyen du formulaire cantonal, doit être déposée auprès de l'administration communale.
+<sup>1</sup> La demande de permis de construire doit être déposée auprès de la commune.
 
 <sup>2</sup> Lorsqu'un projet requiert des dérogations, une demande ad hoc motivée doit être jointe à la demande de permis de construire.
 
@@ -672,11 +672,15 @@ arrête:
 
 **2 Procédure électronique**
 
-<sup>1</sup> Le Conseil-exécutif rend possible l’octroi du permis de construire par voie électronique.
+<sup>1</sup> La demande de permis de construire et les autres demandes dans le cadre de la procédure d’octroi du permis de construire doivent être déposées, accompagnées de tous les documents nécessaires, sous forme électronique dans le système de transmission du canton.
 
-<sup>2</sup> L’autorité d’octroi du permis de construire peut, au cas par cas, autoriser les autorités intervenant dans la procédure à consulter le dossier de demande électronique dans la mesure où elles en ont besoin pour l’accomplissement de leurs tâches.
+<sup>2</sup> Le service compétent de la ​Direction de l’intérieur et de la justice désigne le système de transmission cantonal devant être utilisé et les formulaires officiels devant être remplis.
 
-<sup>3</sup> Les autorités intervenant dans la procédure électronique d’octroi du permis de construire sont habilitées à traiter des données personnelles particulièrement dignes de protection.
+<sup>3</sup> La commune et l’autorité d’octroi du permis de construire sont tenues de traiter les demandes qui leur sont parvenues par l’intermédiaire du système de transmission cantonal selon l’alinéa 1.
+
+<sup>4</sup> L’autorité d’octroi du permis de construire autorise, au cas par cas, les services intervenant dans la procédure à accéder au dossier de demande électronique dans la mesure où ils en ont besoin pour l’accomplissement de leurs tâches.
+
+<sup>5</sup> Les services intervenant dans la procédure électronique d’octroi du permis de construire sont habilités à traiter des données personnelles particulièrement dignes de protection.
 
 #### Art. 35
 
@@ -684,7 +688,7 @@ arrête:
 
 <sup>1</sup> Les demandes de permis de construire et de dérogation doivent être publiées conformément aux dispositions du décret concernant la procédure d'octroi du permis de construire[^35-1] ou communiquées aux voisins et aux personnes qui pourraient être directement intéressées. La communication doit faire mention du droit d'opposition.
 
-<sup>1a</sup> Dans le cadre de la procédure électronique, les publications nécessaires sont de plus effectuées sur Internet.
+<sup>1a</sup> …
 
 <sup>2</sup> Ont qualité pour faire opposition:
 
@@ -775,7 +779,7 @@ arrête:
 
 <sup>2</sup> La décision porte sur la demande de permis et les demandes de dérogation afférentes, ainsi que sur les frais. Elle étudie les oppositions encore pendantes.
 
-<sup>3</sup> Le permis de construire peut être assorti de conditions et de charges; l'article 29, 2<sup>e</sup> alinéa s'applique par analogie.
+<sup>3</sup> Le permis de construire peut être assorti de conditions et de charges; l'article 29, alinéas 2 à 4 s'applique par analogie.
 
 <sup>4</sup> Le dispositif de la décision doit mentionner
 
@@ -1046,7 +1050,22 @@ arrête:
 
 [^57-1]: RS 700
 
-### 2.1.2 Procédure pour l'élaboration de plans et de prescriptions
+### 2.1.2 Forme des plans et procédure pour l'élaboration des plans et prescriptions
+
+#### Art. 57a
+
+**Forme des plans directeurs et des plans d’affectation**
+
+<sup>1</sup> Les plans des communes et des régions d'aménagement ou des conférences régionales doivent être remis sous forme électronique au service compétent de la Direction de l'intérieur et de la justice en vue de leur examen préalable et de leur approbation.
+
+<sup>2</sup> Le service compétent de la Direction de l'intérieur et de la justice fixe les modalités de saisie, de mise à jour et de gestion des données devant lui être soumises. Il impose les modèles de données et de représentation devant être utilisés.
+
+<sup>3</sup> La commune, la région d'aménagement ou la conférence régionale soumet au service compétent de la Direction de l'intérieur et de la justice des données corrigées lorsque
+
+- a l’autorité d’approbation modifie, dans la décision d’approbation, des plans et des prescriptions qui ne remplissent pas les conditions d'approbation (art. 61, al. 3);
+- b une instance de recours modifie des plans ou des prescriptions ou qu’elle constate selon l'article 61b, alinéa 3 une entrée en force partielle.
+
+<sup>4</sup> Une fois entrés en force, les plans approuvés sont publiés dans l’infrastructure cantonale de géodonnées.
 
 #### Art. 58
 
@@ -1084,6 +1103,8 @@ arrête:
 
 <sup>1</sup> Les projets qui concernent la réglementation fondamentale en matière de construction ou un plan de quartier doivent faire l'objet d'un dépôt public pendant au moins 30 jours.
 
+<sup>1a</sup> La commune garantit l’accès aux dossiers par voie électronique. Les documents publiés sur Internet peuvent aussi être consultés auprès de la commune.
+
 <sup>2</sup> Pendant la durée du dépôt, une opposition écrite et motivée peut être formée. Les articles 35, alinéas 2 et 3 et 35a à 35d sont applicables par analogie. Des pourparlers de conciliation doivent être tenus avant la décision et, dans les communes où le projet est discuté par le conseil général ou le conseil de ville, avant les délibérations.
 
 <sup>3</sup> Si des plans ou prescriptions ayant fait l'objet d'un dépôt public sont modifiés avant ou durant la prise de décision ou au cours de la procédure d'approbation, les intéressés doivent en être informés et se voir offrir la possibilité de former opposition ou recours.
@@ -1110,13 +1131,13 @@ arrête:
 
 <sup>2</sup> Les accords entre organisations privées et requérants sont régis par l’article 38a.
 
-<sup>3</sup> Après avoir entendu le conseil communal, la région d'aménagement ou la conférence régionale ainsi que les personnes concernées, le service compétent de la Direction de l’intérieur et de la justice peut modifier dans sa décision les plans et prescriptions qui ne remplissent pas les conditions d'approbation. L'article 65, alinéa 1 est réservé.
+<sup>3</sup> Après avoir entendu le conseil communal, la région d'aménagement ou la conférence régionale ainsi que les personnes concernées, le service compétent de la Direction de l'intérieur et de la justice peut modifier dans sa décision les plans et prescriptions qui ne remplissent pas les conditions d'approbation. L'article 65, alinéa 1 est réservé.
 
 <sup>4</sup> Si le service compétent de la Direction de l’intérieur et de la justice a besoin de plus de trois mois pour mener la procédure d'approbation, il en informe la commune, la région d'aménagement ou la conférence régionale en lui indiquant les motifs.
 
 <sup>5</sup> Un émolument est perçu pour le traitement des oppositions téméraires.
 
-<sup>6</sup> Le règlement de construction, les plans de zones et les plans de quartier ainsi que leurs modifications doivent par ailleurs être déposés sous forme numérique pour approbation. Le service spécialisé du canton définit le modèle de données à utiliser.
+<sup>6</sup> …
 
 #### Art. 61a
 
@@ -1255,9 +1276,14 @@ arrête:
 - b la compétence d'édicter ou de modifier la réglementation fondamentale en matière de construction, sous réserve de la votation populaire facultative;
 - c la compétence d'édicter, de modifier ou d'abroger les autres plans de quartier, sous réserve de la votation populaire facultative.
 
-<sup>5</sup> Le conseil communal est seul compétent pour arrêter les adaptations de plans d’affectation qui sont nécessaires en raison d’un premier relevé ou d’un renouvellement de la mensuration officielle.
+<sup>5</sup> Le conseil communal est seul compétent pour arrêter
+
+- a les adaptations de plans d’affectation qui sont nécessaires en raison d’un premier relevé ou d’un renouvellement de la mensuration officielle;
+- b la mise à jour des plans d’affectation qui doivent être adaptés en raison d’une correction imposée par voie de décision ou suite à la modification, de moindre importance, de limites communales inadéquates (art. 28, al. 3 et art. 32, al. 2 de la loi cantonale du 8 juin 2015 sur la géoinformation [LCGéo][^66-1]).
 
 <sup>6</sup> Les plans d’affectation de la commune qui ne sont disponibles ni auprès de la commune, ni auprès de la préfecture compétente, ni auprès de l’Office des affaires communales et de l’organisation du territoire et qui restent introuvables 30 jours après la parution d’un appel au public lancé dans la feuille officielle d’avis et dans la feuille officielle cantonale, peuvent être abrogés par décision du conseil communal. Cette décision doit être publiée dans la feuille officielle d’avis et communiquée pour information à la préfecture compétente et à l’Office des affaires communales et de l’organisation du territoire.
+
+[^66-1]: RSB [215.341](https://www.belex.sites.be.ch/data/215.341/fr)
 
 #### Art. 67
 
@@ -2087,7 +2113,7 @@ arrête:
 
 <sup>2</sup> Elles entretiennent les chemins et les installations, à moins qu'en vertu de prescriptions ou de conventions particulières, l'entretien n'en incombe aux propriétaires ou à des tiers.
 
-<sup>3</sup> Si l’aménagement conforme aux plans des chemins et installations ou leur entretien conforme aux règles de l’art est remis en cause et si de ce fait, des intérêts publics s’en trouvent considérablement atteints, la Direction de l’intérieur et de la justice peut, après sommation restée sans effet, ordonner l’exécution par substitution aux frais des assujettis. Pour les pistes cyclables, les chemins pour piétons et les chemins de randonnée pédestre, la compétence appartient à la Direction des travaux publics et des transports.
+<sup>3</sup> Si l’aménagement conforme aux plans des chemins et installations ou leur entretien conforme aux règles de l’art est remis en cause et si de ce fait, des intérêts publics s’en trouvent considérablement atteints, le service compétent de la Direction de l’intérieur et de la justice peut, après sommation restée sans effet, ordonner l’exécution par substitution aux frais des assujettis. Pour les pistes cyclables, les chemins pour piétons et les chemins de randonnée pédestre, la responsabilité incombe au service compétent de la Direction des travaux publics et des transports.
 
 ### 3.3 Remaniement parcellaire de terrains à bâtir, rectification de limites, libération de servitudes
 
@@ -2131,11 +2157,11 @@ arrête:
 
 <sup>1</sup> Le syndicat de remaniement est constitué lorsque la majorité des propriétaires concernés ont donné leur accord. Les propriétaires fonciers qui n'ont pas pris part à la décision d'introduction sont considérés comme ayant donné leur accord s'ils n'ont pas préalablement refusé par écrit la création du syndicat.
 
-<sup>2</sup> Les statuts du syndicat et le plan du périmètre du remaniement sont soumis à l'approbation du service compétent de la Direction de l’intérieur et de la justice.
+<sup>2</sup> Les statuts du syndicat et le plan du périmètre du remaniement sont soumis à l'approbation de la Direction de l'intérieur et de la justice.
 
-<sup>3</sup> Les décisions de l'assemblée constitutive ou les décisions prises par d'autres assemblées du syndicat sont susceptibles de recours au service compétent de la Direction de l’intérieur et de la justice.
+<sup>3</sup> Les décisions de l'assemblée constitutive ou les décisions prises par d'autres assemblées du syndicat sont susceptibles de recours auprès de la Direction de l'intérieur et de la justice.
 
-<sup>4</sup> Les décisions sur recours et les décisions d'approbation du service compétent de la Direction de l’intérieur et de la justice peuvent être attaquées conformément aux dispositions de la loi sur la procédure et la juridiction administratives.
+<sup>4</sup> Les décisions sur recours et les décisions d'approbation de la Direction de l'intérieur et de la justice peuvent être attaquées conformément aux dispositions de la LPJA.
 
 <sup>5</sup> Les propriétaires concernés peuvent former opposition contre l’estimation de leur bien-fonds, contre la redistribution et le montant d’éventuelles indemnités de compensation, de même que contre la clé de répartition des frais du remaniement. La commission de remaniement constituée par le syndicat examine les oppositions, cherche à concilier les parties, et vide les oppositions encore pendantes. Ses décisions sur opposition sont susceptibles de recours devant la commission d’estimation en matière d’expropriation compétente à raison du lieu. Les décisions sur recours rendues par cette dernière peuvent être attaquées devant le Tribunal administratif.
 
@@ -2544,7 +2570,8 @@ arrête:
 - i la définition précise de la procédure et de la compétence en matière de plans et prescriptions, notamment pour ce qui est de leur modification mineure et de l'adaptation du plan directeur au sens de la loi sur l'aménagement du territoire;
 - k la conformité à l'affectation de la zone de projets prévus en zone agricole et les dérogations possibles au sens des articles 24 à 24d LAT;
 - l la fixation de règles de procédure garantissant la qualité des concours au sens de l’article 93, alinéa 1, lettre b;
-- m le règlement des détails de la procédure d’octroi du permis de construire menée par la voie électronique.
+- m le règlement des détails de la procédure d’octroi du permis de construire menée par la voie électronique,
+- n le règlement des détails de la procédure d'édiction des plans menée par la voie électronique.
 
 <sup>3</sup> Les matières suivantes peuvent faire l'objet d'ordonnances particulières:
 
@@ -2682,6 +2709,34 @@ arrête:
 <sup>1</sup> Le service compétent de la Direction de l’instruction publique adapte l’inventaire au sens de l’article 10d, alinéa 2a LC au plus tard cinq ans après l’entrée en vigueur de la présente modification.
 
 <sup>2</sup> Les articles 142 à 142f LC, qui concernent la compensation des avantages en cas de classement en zone à bâtir, de changement d’affectation ou d’augmentation du degré d’affectation, s’appliquent si le dépôt public des plans dont résulte une plus-value commence après l’entrée en vigueur de la présente modification. Si tel est le cas, les contrats éventuels réglant le versement d’une taxe sur la plus-value en cas de classement en zone à bâtir, de changement d’affectation ou d’augmentation du degré d’affectation sont frappés de nullité. Dans tous les autres cas, de tels contrats conservent leur validité et l’article 148 LI régit les montants versés. Les contrats relatifs à des prestations en espèces ou en nature en cas de classement de terrain dans une zone d’extraction ou de décharge restent valables.
+
+## T4 Dispositions transitoires de la modification du 03.12.2020
+
+#### Art. T4-1
+
+**Conversion des plans d'affectation en fichiers électroniques**
+
+<sup>1</sup> Les communes et les conférences régionales disposent d’un délai de cinq ans à compter de l’entrée en vigueur de la présente modification pour soumettre au service compétent de la Direction de l'intérieur et de la justice sous forme électronique leurs plans d’affectation entrés en force.
+
+<sup>2</sup> Le service compétent de la Direction de l'intérieur et de la justice convient avec chacune des communes de la date à laquelle les plans d’affectation entrés en force sont convertis en fichiers électroniques. Si ce délai n’est pas respecté, il est habilité à convertir ces plans d'affectation aux frais des communes concernées.
+
+<sup>3</sup> Jusqu’à l’introduction de la forme électronique, les communes et les conférences régionales continuent de soumettre leurs plans d’affectation sur support papier au service compétent de la Direction de l'intérieur et de la justice en vue de leur examen préalable et de leur approbation. Dans la procédure d’approbation, les plans d’affectation doivent également être remis sous forme électronique. Le service compétent de la Direction de l'intérieur et de la justice définit le modèle de données à utiliser.
+
+#### Art. T4-2
+
+**Procédure simplifiée**
+
+<sup>1</sup> La conversion des plans d’affectation entrés en force en fichiers électroniques peut suivre une procédure simplifiée, pour autant qu’il soit uniquement procédé à des adaptations de nature technique
+
+<sup>2</sup> L’organe compétent est le conseil communal ou le directoire de la conférence régionale.
+
+<sup>3</sup> La procédure d'opposition, l'approbation et les recours contre l'arrêté d'approbation sont régis par les articles 60 ss. Les oppositions et les recours ne peuvent avoir pour objet que l'ampleur des adaptations prévues ou la procédure suivie.
+
+#### Art. T4-3
+
+**Conversion des autres plans en fichiers électroniques**
+
+<sup>1</sup> S’agissant des plans directeurs, des plans sectoriels et des plans d’affectation selon la législation spéciale, le Conseil-exécutif fixe la date et les modalités détaillées de l’introduction de la forme électronique.
 
 Berne, le 12 septembre 1984
 

@@ -4,13 +4,13 @@ number: "721.0"
 title: Baugesetz
 short: BauG
 language: de
-version: 2020-08-01
-valid_until: 2022-02-28
-version_adopted: 2020-06-24
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-03
 adopted: 1985-06-09
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1921/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2384/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1921/pdf_file"
 
 (BauG)
 
-vom 09.06.1985 (Stand 01.08.2020)
+vom 09.06.1985 (Stand 01.03.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -455,7 +455,7 @@ beschliesst:
 
 #### Art. 21a
 
-**Erdbebensicherheit bei neuen Bauten und Anlagen**
+**Erdbebensicherheit**
 
 <sup>1</sup> Bauten und Anlagen sind nach den Anforderungen an die Erdbebensicherheit der anerkannten Regeln der Technik zu erstellen und zu unterhalten. Das Nähere bestimmt das Baubewilligungsdekret (BewD).
 
@@ -663,7 +663,7 @@ beschliesst:
 
 **Einleitung und Form des Verfahrens 1 Einleitung**
 
-<sup>1</sup> Das Baugesuch ist der Gemeindeverwaltung auf dem amtlichen Formular einzureichen.
+<sup>1</sup> Das Baugesuch ist bei der Gemeinde einzureichen.
 
 <sup>2</sup> Erfordert das Bauvorhaben Ausnahmen, so ist dem Baugesuch das begründete Ausnahmegesuch beizufügen.
 
@@ -671,11 +671,15 @@ beschliesst:
 
 **2 Verfahren in elektronischer Form**
 
-<sup>1</sup> Der Regierungsrat ermöglicht das elektronische Baubewilligungsverfahren.
+<sup>1</sup> Das Baugesuch und die weiteren Gesuche im Baubewilligungsverfahren sind zusammen mit allen erforderlichen Unterlagen in elektronischer Form im kantonalen Übermittlungssystem einzugeben.
 
-<sup>2</sup> Die Baubewilligungsbehörde kann den einbezogenen Behörden von Fall zu Fall Zugriff auf die elektronischen Baugesuchsunterlagen gewähren, soweit dies für deren Aufgabenerfüllung notwendig ist.
+<sup>2</sup> Die zuständige Stelle der Direktion für Inneres und Justiz bezeichnet das zu verwendende kantonale Übermittlungssystem und die darin auszufüllenden Formulare.
 
-<sup>3</sup> Die in das elektronische Baubewilligungsverfahren einbezogenen Behörden sind zur Bearbeitung von besonders schützenswerten Personendaten ermächtigt.
+<sup>3</sup> Die Gemeinde und die Baubewilligungsbehörde sind verpflichtet, die im kantonalen Übermittlungssystem eingegebenen Gesuche gemäss Absatz 1 zu behandeln.
+
+<sup>4</sup> Die Baubewilligungsbehörde gewährt den in das Baubewilligungsverfahren einbezogenen Stellen einzelfallweise Zugriff auf die elektronischen Baugesuchsunterlagen, soweit dies für deren Aufgabenerfüllung notwendig ist.
+
+<sup>5</sup> Die einbezogenen Stellen sind zur Bearbeitung von besonders schützenswerten Personendaten ermächtigt.
 
 #### Art. 35
 
@@ -683,7 +687,7 @@ beschliesst:
 
 <sup>1</sup> Bau- und Ausnahmegesuche sind nach den Bestimmungen des Baubewilligungsdekrets[^35-1] zu veröffentlichen oder den Anstössern sowie weiteren Personen, die davon betroffen sein könnten, mitzuteilen. Der Bekanntmachung ist der Hinweis auf das Recht zur Einsprache beizufügen.
 
-<sup>1a</sup> Im elektronischen Verfahren erfolgen die notwendigen Veröffentlichungen zusätzlich im Internet.
+<sup>1a</sup> …
 
 <sup>2</sup> Zur Einsprache sind befugt:
 
@@ -774,7 +778,7 @@ beschliesst:
 
 <sup>2</sup> Im Bauentscheid wird geurteilt über das Baugesuch und die zugehörigen Ausnahmegesuche sowie die Kostenpflicht. Der Bauentscheid setzt sich mit den unerledigten Einsprachen auseinander.
 
-<sup>3</sup> Mit der Baubewilligung können Bedingungen und Auflagen verbunden werden; Artikel 29 Absatz 2 ist sinngemäss anwendbar.
+<sup>3</sup> Mit der Baubewilligung können Bedingungen und Auflagen verbunden werden; Artikel 29 Absätze 2 bis 4 sind sinngemäss anwendbar.
 
 <sup>4</sup> Im Dispositiv des Bauentscheides ist anzugeben,
 
@@ -1047,7 +1051,22 @@ beschliesst:
 
 [^57-1]: SR 700
 
-### 2.1.2 Verfahren für Vorschriften und Pläne
+### 2.1.2 Form und Verfahren für Vorschriften und Pläne
+
+#### Art. 57a
+
+**Form von Richt- und Nutzungsplänen**
+
+<sup>1</sup> Die Pläne der Gemeinden und der Planungsregionen bzw. Regionalkonferenzen sind in elektronischer Form der zuständigen Stelle der Direktion für Inneres und Justiz zur Vorprüfung und Genehmigung einzureichen.
+
+<sup>2</sup> Die zuständige Stelle der Direktion für Inneres und Justiz legt fest, wie die einzureichenden Daten zu erheben, nachzuführen und zu verwalten sind. Sie gibt das anzuwendende Daten- und Darstellungsmodell vor.
+
+<sup>3</sup> Die Gemeinde oder die Planungsregion bzw. Regionalkonferenz stellt der zuständigen Stelle der Direktion für Inneres und Justiz bereinigte Daten zu, wenn
+
+- a die Genehmigungsbehörde in der Genehmigungsverfügung nicht genehmigungsfähige Vorschriften und Pläne ändert (Art. 61 Abs. 3),
+- b eine Beschwerdeinstanz Vorschriften oder Pläne ändert oder gemäss Artikel 61b Absatz 3 eine Teilrechtskraft bescheinigt.
+
+<sup>4</sup> Die genehmigten Pläne werden nach Eintritt der Rechtskraft auf der kantonalen Geodaten-Infrastruktur veröffentlicht.
 
 #### Art. 58
 
@@ -1085,6 +1104,8 @@ beschliesst:
 
 <sup>1</sup> Vorlagen, welche die baurechtliche Grundordnung oder eine Überbauungsordnung betreffen, sind während wenigstens 30 Tagen öffentlich aufzulegen.
 
+<sup>1a</sup> Die Gemeinde gewährleistet die Einsichtnahme auf elektronischem Weg. In die im Internet veröffentlichten Vorlagen kann bei der Gemeinde Einsicht genommen werden.
+
 <sup>2</sup> Während der Auflagefrist kann schriftlich Einsprache erhoben werden; diese ist zu begründen. Artikel 35 Absätze 2 und 3 sowie Artikel 35a bis 35d sind sinngemäss anwendbar. Einspracheverhandlungen sind vor dem Beschluss, in Gemeinden, in welchen die Vorlage vom Grossen Gemeinderat oder vom Stadtrat beraten wird, vor dieser Beratung durchzuführen.
 
 <sup>3</sup> Soweit öffentlich aufgelegte Vorschriften oder Pläne vor oder bei der Beschlussfassung oder im Genehmigungsverfahren geändert werden, ist den davon Betroffenen Kenntnis und Gelegenheit zur Einsprache oder Beschwerde zu geben.
@@ -1111,13 +1132,13 @@ beschliesst:
 
 <sup>2</sup> Für Vereinbarungen zwischen Gesuchstellerinnen, Gesuchstellern und privaten Organisationen gilt Artikel 38a.
 
-<sup>3</sup> Die zuständige Stelle der Direktion für Inneres und Justiz kann nach Anhörung des Gemeinderates, der Planungsregion bzw. Regionalkonferenz und der Betroffenen nicht genehmigungsfähige Pläne und Vorschriften in der Genehmigungsverfügung ändern. Artikel 65 Absatz 1 bleibt vorbehalten.
+<sup>3</sup> Die zuständige Stelle der Direktion für Inneres und Justiz kann nach Anhörung des Gemeinderates, der Planungsregion bzw. Regionalkonferenz und der Betroffenen nicht genehmigungsfähige Vorschriften und Pläne in der Genehmigungsverfügung ändern. Artikel 65 Absatz 1 bleibt vorbehalten.
 
 <sup>4</sup> Benötigt die zuständige Stelle der Direktion für Inneres und Justiz für das Genehmigungsverfahren mehr als drei Monate, so ist die Gemeinde oder die Planungsregion bzw. Regionalkonferenz unter Angabe der Gründe zu benachrichtigen.
 
 <sup>5</sup> Für die Behandlung mutwilliger Einsprachen wird eine Gebühr erhoben.
 
-<sup>6</sup> Baureglement, Zonenpläne und Überbauungsordnungen sowie deren Änderungen sind zusätzlich in digitalisierter Form zur Genehmigung einzureichen. Die kantonale Fachstelle bezeichnet das anzuwendende Datenmodell.
+<sup>6</sup> …
 
 #### Art. 61a
 
@@ -1256,9 +1277,14 @@ beschliesst:
 - b dessen Zuständigkeit unter Vorbehalt der fakultativen Volksabstimmung vorsehen für den Erlass und die Änderung der baurechtlichen Grundordnung;
 - c dessen Zuständigkeit unter Vorbehalt der fakultativen Volksabstimmung vorsehen für den Erlass, die Änderung und die Aufhebung der übrigen Überbauungsordnungen.
 
-<sup>5</sup> Der Gemeinderat beschliesst abschliessend Anpassungen der Nutzungspläne, die wegen einer Ersterhebung oder Erneuerung der amtlichen Vermessung nötig werden.
+<sup>5</sup> Der Gemeinderat beschliesst abschliessend
+
+- a Anpassungen der Nutzungspläne, die wegen einer Ersterhebung oder Erneuerung der amtlichen Vermessung nötig werden,
+- b die Nachführung der Nutzungspläne, die als Folge einer angeordneten Korrektur oder einer unbedeutenden Bereinigung von unzweckmässigen Gemeindegrenzen (Art. 28 Abs. 3 bzw. Art. 32 Abs. 2 des Kantonalen Geoinformationsgesetzes vom 8.6.2015 [KGeoIG][^66-1]) angepasst werden müssen.
 
 <sup>6</sup> Nutzungspläne der Gemeinde, die bei der Gemeinde, beim zuständigen Regierungsstatthalteramt und beim Amt für Gemeinden und Raumordnung nicht vorhanden sind und trotz öffentlichem Aufruf im amtlichen Anzeiger und im Amtsblatt mit Frist von 30 Tagen nicht mehr auffindbar sind, können durch Beschluss des Gemeinderates aufgehoben werden. Der Beschluss des Gemeinderates ist im amtlichen Anzeiger zu publizieren und dem zuständigen Regierungsstatthalteramt und dem Amt für Gemeinden und Raumordnung zur Kenntnisnahme zuzustellen.
+
+[^66-1]: BSG [215.341](https://www.belex.sites.be.ch/data/215.341/de)
 
 #### Art. 67
 
@@ -2090,7 +2116,7 @@ beschliesst:
 
 <sup>2</sup> Sie unterhalten die Wege und Anlagen, soweit diese Aufgabe nicht gemäss besonderer Vorschrift oder Vereinbarung den Eigentümern oder Dritten obliegt.
 
-<sup>3</sup> Ist die plangemässe Erstellung der Wege und Anlagen oder ihr gehöriger Unterhalt in Frage gestellt und werden dadurch öffentliche Interessen erheblich beeinträchtigt, so kann die Direktion für Inneres und Justiz nach fruchtloser Mahnung der Pflichtigen auf deren Kosten die Ersatzvornahme anordnen. Bei Rad-, Fuss- und Wanderwegen ist die Bau- und Verkehrsdirektion zuständig.
+<sup>3</sup> Ist die plangemässe Erstellung der Wege und Anlagen oder ihr gehöriger Unterhalt in Frage gestellt und werden dadurch öffentliche Interessen erheblich beeinträchtigt, so kann die zuständige Stelle der Direktion für Inneres und Justiz nach fruchtloser Mahnung der Pflichtigen auf deren Kosten die Ersatzvornahme anordnen. Bei Rad-, Fuss- und Wanderwegen ist die zuständige Stelle der Bau- und Verkehrsdirektion zuständig.
 
 ### 3.3 Baulandumlegung, Grenzregulierung, Ablösung von Dienstbarkeiten
 
@@ -2134,11 +2160,11 @@ beschliesst:
 
 <sup>1</sup> Die Baulandumlegungsgenossenschaft ist gegründet, wenn die Mehrheit der beteiligten Grundeigentümer dem Unternehmen zustimmt. Die an der Beschlussfassung nicht Mitwirkenden gelten als zustimmend, wenn sie die Gründung der Umlegungsgenossenschaft nicht vorher schriftlich abgelehnt haben.
 
-<sup>2</sup> Statuten und Perimeterplan bedürfen der Genehmigung der zuständigen Stelle der Direktion für Inneres und Justiz.
+<sup>2</sup> Statuten und Perimeterplan bedürfen der Genehmigung der Direktion für Inneres und Justiz.
 
-<sup>3</sup> Gegen die Beschlüsse der Gründungsversammlung und anderer Genossenschaftsversammlungen kann Beschwerde bei der zuständigen Stelle der Direktion für Inneres und Justiz erhoben werden.
+<sup>3</sup> Gegen die Beschlüsse der Gründungsversammlung und anderer Genossenschaftsversammlungen kann Beschwerde bei der Direktion für Inneres und Justiz erhoben werden.
 
-<sup>4</sup> Die Beschwerde- und Genehmigungsentscheide der zuständigen Stelle der Direktion für Inneres und Justiz können nach den Bestimmungen des Gesetz über die Verwaltungsrechtspflege angefochten werden.
+<sup>4</sup> Die Beschwerde- und Genehmigungsentscheide der Direktion für Inneres und Justiz können nach den Bestimmungen des VRPG angefochten werden.
 
 <sup>5</sup> Die Grundeigentümer können Einsprache erheben gegen die Bewertung ihres bisherigen Besitzstandes, die Neuzuteilung und allfällige Ausgleichsentschädigungen sowie bezüglich des Kostenverteilers über die Umlegungskosten. Der von der Umlegungsgenossenschaft bestellte Umlegungsausschuss prüft die Einsprachen, versucht eine Verständigung herbeizuführen, und entscheidet über unerledigte Einsprachen. Gegen seinen Einspracheentscheid kann Beschwerde bei der örtlich zuständigen Enteignungsschätzungskommission geführt werden. Der Beschwerdeentscheid der Enteignungsschätzungskommission kann beim Verwaltungsgericht angefochten werden.
 
@@ -2547,7 +2573,8 @@ beschliesst:
 - i die nähere Ordnung des Verfahrens und der Zuständigkeit für Vorschriften und Pläne, insbesondere hinsichtlich ihrer geringfügigen Änderung und der Anpassung des Richtplans nach Raumplanungsgesetz,
 - k die Zonenkonformität von Vorhaben in der Landwirtschaftszone und die möglichen Ausnahmen nach den Artikeln 24 bis 24d RPG,
 - l die Festlegung qualitätssichernder Verfahrensregeln für Projektwettbewerbe nach Artikel 93 Absatz 1 Buchstabe b,
-- m die Einzelheiten zum Baubewilligungsverfahren in elektronischer Form.
+- m die Einzelheiten zum Baubewilligungsverfahren in elektronischer Form,
+- n die Einzelheiten zum Planerlassverfahren in elektronischer Form.
 
 <sup>3</sup> Gegenstand besonderer Verordnungen können insbesondere sein
 
@@ -2687,6 +2714,34 @@ beschliesst:
 <sup>1</sup> Innert fünf Jahren nach Inkrafttreten dieser Änderung passt die zuständige Stelle der Erziehungsdirektion das Bauinventar gemäss Artikel 10d Absatz 2a BauG an.
 
 <sup>2</sup> Die Artikel 142 bis 142f BauG über den Ausgleich von Planungsvorteilen bei Einzonungen und bei Auf- und Umzonungen sind anwendbar, wenn die öffentliche Auflage der Planung, die zu einem Mehrwert führt, nach dem Inkrafttreten dieser Änderung beginnt. In diesem Fall sind allfällige Verträge über Mehrwertabgaben bei Einzonungen, Auf- und Umzonungen nichtig. In allen anderen Fällen behalten solche Verträge ihre Gültigkeit und für die geleisteten Zahlungen gilt Artikel 148 StG weiterhin. Vertragliche Vereinbarungen über Geld- oder Sachleistungen bei der Zuweisung von Land in Materialabbau- und Deponiezonen behalten ihre Gültigkeit.
+
+## T4 Übergangsbestimmungen der Änderung vom 03.12.2020
+
+#### Art. T4-1
+
+**Überführung der Nutzungspläne in die elektronische Form**
+
+<sup>1</sup> Die Gemeinden und Regionalkonferenzen reichen der zuständigen Stelle der Direktion für Inneres und Justiz innert fünf Jahren seit Inkrafttreten dieser Änderung ihre rechtskräftigen Nutzungspläne in elektronischer Form ein.
+
+<sup>2</sup> Die zuständige Stelle der Direktion für Inneres und Justiz vereinbart mit jeder Gemeinde den Zeitpunkt der Überführung ihrer rechtskräftigen Nutzungspläne in die elektronische Form. Wird der vereinbarte Zeitpunkt nicht eingehalten, ist sie ermächtigt, die rechtskräftigen Nutzungspläne auf Kosten der betroffenen Gemeinde in die elektronische Form zu überführen.
+
+<sup>3</sup> Bis die elektronische Form eingeführt ist, reichen die Gemeinden und Regionalkonferenzen ihre Nutzungspläne weiterhin in gedruckter Form der zuständigen Stelle der Direktion für Inneres und Justiz zur Vorprüfung und Genehmigung ein. Im Genehmigungsverfahren sind die Nutzungspläne zusätzlich in elektronischer Form einzureichen. Die zuständige Stelle der Direktion für Inneres und Justiz bezeichnet das anzuwendende Datenmodell.
+
+#### Art. T4-2
+
+**Vereinfachtes Verfahren**
+
+<sup>1</sup> Die Überführung der rechtskräftigen Nutzungspläne in die elektronische Form kann in einem vereinfachten Verfahren beschlossen werden, sofern nur technische Anpassungen vorgenommen werden.
+
+<sup>2</sup> Zuständig ist der Gemeinderat oder die Geschäftsleitung der Regionalkonferenz.
+
+<sup>3</sup> Für das Einspracheverfahren, die Genehmigung und die Beschwerde gegen den Genehmigungsentscheid gelten die Artikel 60 ff. Einsprache und Beschwerde können sich nur gegen Umfang und Verfahren der vorgesehenen Anpassungen richten.
+
+#### Art. T4-3
+
+**Überführung der übrigen Pläne in die elektronische Form**
+
+<sup>1</sup> Der Regierungsrat bestimmt bei Richtplänen und Sachplänen sowie bei Nutzungsplänen nach Spezialgesetzgebung den Zeitpunkt und die Einzelheiten der Einführung der elektronischen Form.
 
 Bern, 12. September 1984
 
