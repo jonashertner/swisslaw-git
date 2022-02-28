@@ -3,13 +3,13 @@ canton: BS
 number: BaB 152.100
 title: Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 language: de
-version: 2020-10-01
-valid_until: 2022-02-28
-version_adopted: 2020-06-16
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-07
 adopted: 1986-09-09
 in_force: 1986-11-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5007/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5519/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5007/pdf_file"
 
 Bürgergemeinderat: Geschäftsordnung | Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 1. Oktober 2020)
+Vom 9. September 1986 (Stand 1. März 2022)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -35,6 +35,18 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 <sup>1</sup> Die Verhandlungen des Bürgergemeinderates werden in der Regel im Stadthaus abgehalten. Sie sind öffentlich. Den Zuhörern sind Plätze im Sitzungssaal eingeräumt. Den Vertretern der Medien werden nach Möglichkeit geeignete Plätze zur Verfügung gestellt.
 
 <sup>2</sup> Ton- und Bildaufnahmen sind nur mit der Zustimmung des Präsidenten/der Präsidentin gestattet.
+
+#### § 1a
+
+**Covid-Zertifikatspflicht**
+
+<sup>1</sup> Personen ab 16 Jahren erhalten nur mit einem gültigen Covid-19-Zertifikat gemäss Art. 6a des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020 an Sitzungsdaten des Bürgergemeinderates Zutritt zum Sitzungssaal im Stadthaus. Je nach epidemiologischer Lage kann das Büro des Bürgergemeinderates diese Massnahme aussetzen oder zusätzliche Massnahmen beschliessen.
+
+<sup>2</sup> Personen, die zwingend Zutritt zum Sitzungssaal benötigen, werden die Kosten für die allenfalls notwendigen Tests für die Ausstellung des Zertifikats vergütet. Das Büro des Bürgergemeinderates legt fest, welche Personengruppen Anspruch auf eine Vergütung der Tests haben.
+
+<sup>3</sup> Das Büro des Bürgergemeinderates regelt die Kontrolle der Covid-19-Zertifikate.
+
+<sup>4</sup> Mitglieder des Bürgergemeinderates und des Bürgerrates, die kein Covid-19-Zertifikat vorweisen, erhalten Zutritt zum Sitzungssaal, wenn sie eine Maske tragen.
 
 #### § 2
 
@@ -435,6 +447,8 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 #### § 43a
 
 **…**
+
+*Schlussbestimmung*
 
 Diese Geschäftsordnung ist zu publizieren; sie unterliegt dem Referendum.
 
