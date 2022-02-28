@@ -4,13 +4,13 @@ number: IV B/4/2
 title: Reglement über den Bildungsgang Gymnasium der Kantonsschule Glarus
 short: "Reglement Gymnasium, RGym"
 language: de
-version: 2020-08-01
-valid_until: 2022-02-28
-version_adopted: 2020-06-12
+version: 2022-03-01
+valid_until: 2025-12-31
+version_adopted: 2022-02-15
 adopted: 2020-06-12
 in_force: 2020-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.4.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2172/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2276/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2172/pdf_file"
 
 (Reglement Gymnasium, RGym)
 
-Vom 12.06.2020 (Stand 01.08.2020)
+Vom 12.06.2020 (Stand 01.03.2022)
 
 Der Kantonsschulrat,
 
@@ -215,7 +215,7 @@ erlässt:
 
 <sup>2</sup> Aufgrund der Gesamtbeurteilung oder bei Vorliegen besonderer Umstände kann die Schulleitung von den Vorschriften in Artikel 12 abweichen.
 
-## 5. Wahlangebot
+## 5. Unterricht
 
 #### Art. 16
 
@@ -236,6 +236,14 @@ erlässt:
 **Ergänzungs- und Integrationsfach**
 
 <sup>1</sup> Ergänzungs- und Integrationsfach können nur infolge eines Klassenwechsels neu gewählt werden, sofern in der neuen Klasse das entsprechende Fach nicht angeboten wird.
+
+#### Art. 18a
+
+**Aufenthalt im französischen Sprachraum**
+
+<sup>1</sup> Während der dritten oder vierten Klasse absolvieren die Lernenden einen zweiwöchigen Aufenthalt im französischen Sprachraum; in der Regel in der Schweiz.
+
+<sup>2</sup> Wird eine französischsprachige Mittelschule besucht, kann der Aufenthalt während des Semesters absolviert werden. Andernfalls findet er in den Ferien statt. Die Organisation liegt bei den Erziehungsberechtigten.
 
 ## 6. Matura
 
