@@ -4,13 +4,12 @@ number: "853.15"
 title: Verordnung über die Jagdprüfung
 short: VJP
 language: de
-version: 2019-01-01
-valid_until: 2022-02-28
-version_adopted: 2018-07-03
+version: 2022-03-01
+version_adopted: 2021-12-14
 adopted: 2018-07-03
 in_force: 2019-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/853.15"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2535/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3315/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2535/pdf_file"
 
 (VJP)
 
-vom 03.07.2018 (Stand 01.01.2019)
+vom 03.07.2018 (Stand 01.03.2022)
 
 Die Regierung des Kantons St.Gallen
 
@@ -121,7 +120,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Schiessprüfung umfasst:
 
-- a) Waffenhandhabung;
+- a) Waffenhandhabung und Waffenkenntnis;
 - b) Kugelprogramm;
 - c) Schrotprogramm.
 
@@ -138,19 +137,21 @@ als Verordnung:[^ingress-2]
 
 #### Art. 9
 
-**c) Waffenhandhabung**
+**c) Waffenhandhabung und Waffenkenntnis**
 
 <sup>1</sup> Geprüft werden Kenntnisse über:
 
-- a) mitgebrachte Waffen;
+- a) Jagdwaffen, insbesondere über mitgebrachte Waffen;
 - b) praktische Handhabung von Büchse und Flinte oder kombinierter Waffe;
 - c) Anschlagsarten;
 - d) Bewegungen mit der Waffe im Freien;
 - e) Ersteigen einer Kanzel oder eines Hochsitzes und Überwinden von Hindernissen im Gelände mit der Waffe;
 - f) Distanzenschätzen für den Jagdgebrauch;
-- g) Sicherheitsfragen.
+- g) Sicherheitsbestimmungen zu Waffen und Munition;
+- h) Munition und Ballistik;
+- i) sicherer Umgang mit Waffen.
 
-<sup>2</sup> Wer die Prüfung zur Waffenhandhabung bestanden hat, wird zum Kugelprogramm und zum Schrotprogramm zugelassen.
+<sup>2</sup> Wer die Prüfung zu Waffenhandhabung und Waffenkenntnis bestanden hat, wird zum Kugelprogramm und zum Schrotprogramm zugelassen.
 
 #### Art. 10
 
@@ -196,9 +197,9 @@ als Verordnung:[^ingress-2]
 
 **g) Bewertung**
 
-<sup>1</sup> Wer die Prüfung zur Waffenhandhabung, das Kugelprogramm und das Schrotprogramm besteht, hat die Schiessprüfung bestanden und erhält den Ausweis für die Anmeldung zur Theorieprüfung.[^13-1]
+<sup>1</sup> Wer die Prüfung zu Waffenhandhabung und Waffenkenntnis, das Kugelprogramm und das Schrotprogramm besteht, hat die Schiessprüfung bestanden und erhält den Ausweis für die Anmeldung zur Theorieprüfung.[^13-1]
 
-<sup>2</sup> Wer die Prüfung zur Waffenhandhabung, das Kugelprogramm oder das Schrotprogramm nicht besteht, hat die Schiessprüfung nicht bestanden und muss die gesamte Schiessprüfung wiederholen.
+<sup>2</sup> Wer die Prüfung zu Waffenhandhabung und Waffenkenntnis, das Kugelprogramm oder das Schrotprogramm nicht besteht, hat die Schiessprüfung nicht bestanden und muss die gesamte Schiessprüfung wiederholen.
 
 [^13-1]: Art. 34 Bst. a des Jagdgesetzes vom 17. November 1994, sGS [853.1](https://www.gesetzessammlung.sg.ch/data/853.1/de); Art. 30 der Jagdverordnung vom 19. Mai 2015, sGS [853.11](https://www.gesetzessammlung.sg.ch/data/853.11/de).
 
@@ -206,23 +207,25 @@ als Verordnung:[^ingress-2]
 
 **Theorieprüfung a) Durchführung**
 
-<sup>1</sup> Die Theorieprüfung besteht aus mündlichen Prüfungen in den Fächern:
+<sup>1</sup> Die Theorieprüfung besteht aus mündlichen oder schriftlichen Prüfungen in den Fächern:
 
 - a) Wildkunde I (Paarhufer);
 - b) Wildkunde II (alle weiteren Arten);
 - c) Lebensraumkenntnis;
 - d) Jagdkunde und Wildbrethygiene;
-- e) Recht, Grundlagen und Waffenkenntnis.
+- e) Recht und Grundlagen.
 
 <sup>2</sup> Im Recht wird die geltende eidgenössische und kantonale Gesetzgebung geprüft. Im Übrigen orientiert sich der Prüfungsstoff an den vorgegebenen Lehrmitteln.
 
 <sup>3</sup> Die mündlichen Prüfungen werden durch wenigstens zwei Expertinnen und Experten abgenommen und dauern je rund 25 Minuten. Über die mündlichen Prüfungen wird Protokoll geführt.
 
+<sup>4</sup> Die schriftlichen Prüfungen werden in Anwesenheit von wenigstens einer Expertin oder einem Experten durchgeführt und ausgewertet. Sie dauern je höchstens 45 Minuten und werden wenigstens ein Jahr lang aufbewahrt.
+
 #### Art. 15
 
 **b) Bewertung**
 
-<sup>1</sup> Die mündlichen Prüfungen werden mit genügend oder ungenügend bewertet. Wer in allen Fächern genügend ist, hat die Theorieprüfung bestanden.
+<sup>1</sup> Die Prüfungen werden mit genügend oder ungenügend bewertet. Wer in allen Fächern genügend ist, hat die Theorieprüfung bestanden.
 
 <sup>2</sup> Wer in höchstens zwei Fächern ungenügend ist, kann die ungenügenden Fächer an einem der nächsten beiden Prüfungstermine als Nachprüfung einmal wiederholen. Wer in mehr als zwei Fächern oder an einer Nachprüfung ungenügend ist, muss die ganze Theorieprüfung wiederholen.
 
