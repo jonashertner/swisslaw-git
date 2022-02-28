@@ -4,13 +4,13 @@ number: "423.411.2"
 title: Einführungsverordnung zur eidgenössischen Covid-19-Gesetzgebung im Kulturbereich
 short: EV Covid-19 Kultur
 language: de
-version: 2021-10-28
-valid_until: 2022-02-28
-version_adopted: 2021-10-27
+version: 2022-03-01
+valid_until: 2022-03-01
+version_adopted: 2022-02-02
 adopted: 2020-11-25
 in_force: 2020-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2395/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2545/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2395/pdf_file"
 
 (EV Covid-19 Kultur)
 
-vom 25.11.2020 (Stand 28.10.2021)
+vom 25.11.2020 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -78,7 +78,7 @@ beschliesst:
 - b für Beiträge über 10'000 bis 50'000 Franken das Amt für Kultur,
 - c für Beiträge über 50'000 bis 500'000 Franken die Bildungs- und Kulturdirektion.
 
-<sup>4</sup> Die Befugnis des Bernjurassischen Rats nach Artikel 15 Absatz 1 des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel (Sonderstatutsgesetz, SStG)[^4-1] gilt nicht für die Massnahmen nach dieser Verordnung.
+<sup>4</sup> Die Befugnis des Bernjurassischen Rats nach Artikel 15 Absatz 1 des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne (Sonderstatutsgesetz, SStG)[^4-1] gilt nicht für die Massnahmen nach dieser Verordnung.
 
 [^4-1]: BSG [102.1](https://www.belex.sites.be.ch/data/102.1/de)
 

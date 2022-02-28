@@ -4,13 +4,13 @@ number: "423.411.2"
 title: Ordonnance portant introduction de la législation fédérale relative au COVID-19 dans le domaine de la culture
 short: Oi COVID-19 culture
 language: fr
-version: 2021-10-28
-valid_until: 2022-02-28
-version_adopted: 2021-10-27
+version: 2022-03-01
+valid_until: 2022-03-01
+version_adopted: 2022-02-02
 adopted: 2020-11-25
 in_force: 2020-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2395/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2545/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2395/pdf_file"
 
 (Oi COVID-19 culture)
 
-du 25.11.2020 (état au 28.10.2021)
+du 25.11.2020 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -78,7 +78,7 @@ arrête:
 - b l’Office de la culture pour les subventions d’un montant supérieur à 10'000 francs et inférieur ou égal à 50'000 francs,
 - c la Direction de l’instruction publique et de la culture pour les subventions d’un montant supérieur à 50'000 francs et inférieur ou égal à 500'000 francs.
 
-<sup>4</sup> La compétence du Conseil du Jura bernois visée à l'article 15, alinéa 1 de la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone du district bilingue de Bienne (loi sur le statut particulier, LStP)[^4-1] ne s'applique pas aux mesures de la présente ordonnance.
+<sup>4</sup> La compétence du Conseil du Jura bernois visée à l'article 15, alinéa 1 de la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone de l'arrondissement administratif de Biel/Bienne (loi sur le statut particulier, LStP)[^4-1] ne s'applique pas aux mesures de la présente ordonnance.
 
 [^4-1]: RSB [102.1](https://www.belex.sites.be.ch/data/102.1/fr)
 
