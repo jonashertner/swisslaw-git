@@ -4,13 +4,12 @@ number: "169.81"
 title: Verordnung über die Notariatsgebühren
 short: GebVN
 language: de
-version: 2021-06-01
-valid_until: 2022-02-28
-version_adopted: 2021-04-28
+version: 2022-03-01
+version_adopted: 2022-02-02
 adopted: 2006-04-26
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/169.81"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2277/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2543/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2277/pdf_file"
 
 (GebVN)
 
-vom 26.04.2006 (Stand 01.06.2021)
+vom 26.04.2006 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 

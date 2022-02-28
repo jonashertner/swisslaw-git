@@ -4,13 +4,12 @@ number: "169.81"
 title: Ordonnance sur les émoluments des notaires
 short: OEmN
 language: fr
-version: 2021-06-01
-valid_until: 2022-02-28
-version_adopted: 2021-04-28
+version: 2022-03-01
+version_adopted: 2022-02-02
 adopted: 2006-04-26
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/169.81"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2277/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2543/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2277/pdf_file"
 
 (OEmN)
 
-du 26.04.2006 (état au 01.06.2021)
+du 26.04.2006 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -277,7 +276,7 @@ arrête:
 
 **Sociétés**
 
-<sup>1</sup> L’émolument dû pour l’authentification de l’acte de fondation d’une société anonyme, d’une société à responsabilité limitée ou d’une société en commandite se calcule en fonction du capital social ainsi que d’un agio, le cas échéant, et se fixe selon le barème figurant à l’annexe 4, sous réserve des alinéas 5 et 6.
+<sup>1</sup> L’émolument dû pour l’authentification de l’acte de fondation d’une société anonyme, d’une société à responsabilité limitée ou d’une société en commandite par actions se calcule en fonction du capital social ainsi que d’un agio, le cas échéant, et se fixe selon le barème figurant à l’annexe 4, sous réserve des alinéas 5 et 6.
 
 <sup>2</sup> Lors de l’augmentation, de la libération ultérieure ou de la réduction du capital d’une société anonyme, l’émolument dû pour l’authentification de la décision de l’assemblée générale ainsi que pour celle du conseil d’administration portant sur une libération ultérieure s’élève aux trois quarts du montant prévu par le barème figurant à l’annexe 4. Le calcul se fonde sur la somme du capital augmenté ou réduit et sur le montant de la libération ultérieure. D’éventuels agios sont pris en compte dans la base de calcul. L’émolument dû en fonction du temps requis pour l’authentification subséquente de la décision du conseil d’administration ou de l’acte de constatation s’élève à 400 francs au moins.
 
@@ -287,7 +286,7 @@ arrête:
 
 <sup>5</sup> La perception d’un émolument qui soit au maximum de 50 pour cent inférieur à l’émolument minimal selon l’annexe 4 est admise si le capital-actions ou le capital social est exclusivement libéré en espèces pour une création ou une augmentation.
 
-<sup>6</sup> Lors de la création d’une société anonyme, d’une société à responsabilité limitée ou d’une société en commandite par l’intermédiaire d’un portail en ligne, l’émolument dû en fonction du temps requis est de 150 francs au moins.
+<sup>6</sup> Lors de la création d’une société anonyme, d’une société à responsabilité limitée ou d’une société en commandite par actions par l’intermédiaire d’un portail en ligne, l’émolument dû en fonction du temps requis est de 150 francs au moins.
 
 #### Art. 22
 
