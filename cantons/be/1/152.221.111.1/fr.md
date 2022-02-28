@@ -3,20 +3,19 @@ canton: BE
 number: "152.221.111.1"
 title: "Ordonnance concernant la commission d'économie générale"
 language: fr
-version: 2021-04-01
-valid_until: 2022-02-28
-version_adopted: 2021-02-17
+version: 2022-03-01
+version_adopted: 2022-02-02
 adopted: 1992-11-18
 in_force: 1993-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2161/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2539/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la commission d'économie générale
 
-du 18.11.1992 (état au 01.04.2021)
+du 18.11.1992 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -83,7 +82,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif nomme, pour une période de quatre ans, sur proposition des organisations concernées et de la Direction de l’économie, de l’énergie et de l’environnement, le président ou la présidente, les membres de la CEG ainsi que les suppléants et suppléantes.
 
-<sup>1a</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer un candidat ou une candidate, d'entente avec l'organisation concernée.
+<sup>1a</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones de l'arrondissement de Biel/Bienne le droit de proposer un candidat ou une candidate, d'entente avec l'organisation concernée.
 
 <sup>2</sup> Les nominations peuvent être reconduites.
 
