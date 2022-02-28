@@ -4,11 +4,11 @@ title: "Ordonnance du 15 juin 2007 réglant l'admission des conducteurs au trans
 short: OACP
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/437"
 language: fr
-version: 2009-09-01
+version: 2022-03-01
 adopted: 2007-06-15
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20090901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-437-20090901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20090901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20090901/fr"
 
 (Ordonnance réglant l’admission des chauffeurs, OACP)
 
-du 15 juin 2007 (Etat le 1<sup>er</sup> septembre 2009)
+du 15 juin 2007 (État le 1<sup>er</sup> mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -43,7 +43,9 @@ La présente ordonnance règle l’admission des conducteurs au transport de per
 
 <sup>2</sup> La personne qui veut transporter des marchandises avec des véhicules automobiles de la catégorie C ou de la sous-catégorie C1 doit être titulaire du certificat de capacité pour le transport de marchandises.
 
-<sup>3</sup> Les conducteurs domiciliés à l’étranger doivent être titulaires d’un certificat de capacité suisse pour travailler dans une entreprise établie en Suisse.
+<sup>3</sup> Les conducteurs qui ne sont pas domiciliés dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange doivent être titulaires d’un certificat de capacité suisse pour travailler dans une entreprise établie en Suisse.[^2-1]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 3
 
@@ -51,38 +53,72 @@ La présente ordonnance règle l’admission des conducteurs au transport de per
 
 Le certificat de capacité n’est pas exigé des conducteurs de véhicules:
 
-- a. qui sont utilisés pour le transport de personnes ou de marchandises à des fins privées;
-- b. dont la vitesse maximale autorisée n’excède pas 45 km/h;
-- c. qui sont affectés aux services de l’armée, de la police, des pompiers, de l’Administration des douanes ou de la protection civile, ou encore utilisés sur mandat desdits services;
-- d.[^3-1] qui sont utilisés pour des tests sur route ou pour des transferts servant à des fins d’amélioration technique, de réparation ou d’entretien;
-- d<sup>bis</sup>.[^3-2] qui, neufs ou transformés, ne sont pas encore en circulation;
-- e. qui sont utilisés dans des situations d’urgence ou pour des missions de sauvetage;
-- f. qui sont utilisés pour les courses d’apprentissage, d’exercice ou d’examen, pour se rendre au contrôle officiel auquel ils vont être soumis ou dans le cadre de ce contrôle officiel;
-- g. qui servent à transporter du matériel ou de l’équipement que le conducteur utilise dans l’exercice de son métier, à condition que la conduite du véhicule absorbe au maximum la moitié du temps de travail en moyenne hebdomadaire;
-- h. qui sont affectés exclusivement à l’intérieur d’une entreprise et qui ne peuve emprunter la voie publique qu’avec une autorisation officielle.
+- a.[^3-1]
 
-[^3-1]: Nouvelle teneur selon le ch. I de l'O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^3-2]: Introduite par le ch. I de l'O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+  qui sont utilisés pour des transports non commerciaux de personnes ou de marchandises; est réputé non commercial tout transport routier qui:
+
+  - 1\. n’est pas directement ou indirectement rémunéré,
+  - 2\. ne génère directement ou indirectement aucun revenu pour le conducteur du véhicule ou pour des tiers, et
+  - 3\. n’est lié à aucune activité professionnelle ou commerciale;
+
+- b. dont la vitesse maximale autorisée n’excède pas 45 km/h;
+- c.[^3-2] qui sont affectés aux services de l’armée, de la police, des pompiers, de l’Office fédéral de la douane et de la sécurité des frontières[^3-3], de la protection civile ou à des services de transport de personnes malades ou blessées, ou encore utilisés sur mandat desdits services;
+- d.[^3-4] qui sont utilisés pour des tests sur route ou pour des transferts servant à des fins d’amélioration technique, de réparation ou d’entretien;
+- d<sup>bis</sup>.[^3-5] qui, neufs ou transformés, ne sont pas encore en circulation;
+- e.[^3-6] qui sont utilisés pour des interventions urgentes, des missions de sauvetage ou des transports non commerciaux au sens de la let. a effectués à titre d’aide humanitaire;
+- f.[^3-7] qui sont utilisés lors de courses d’apprentissage ou d’examen pour des transports commerciaux de marchandises, si l’accompagnateur est titulaire d’un certificat de capacité valable ou d’une autorisation d’enseigner la conduite valable pour la catégorie correspondante;
+- f<sup>bis</sup>.[^3-8] qui sont utilisés lors de la course pour se rendre au contrôle officiel des véhicules ou dans le cadre de ce dernier pour des transports commerciaux de personnes ou de marchandises;
+- g.[^3-9] qui servent à transporter du matériel, de l’équipement ou des machines que le conducteur utilise dans l’exercice de son métier, à condition que la conduite du véhicule absorbe au maximum la moitié de son temps de travail en moyenne hebdomadaire;
+- h. qui sont affectés exclusivement à l’intérieur d’une entreprise et qui ne peuve emprunter la voie publique qu’avec une autorisation officielle;
+- i.[^3-10]
+
+  qui sont utilisés pour le transport de marchandises par des exploitations agricoles ou forestières, ou par des exploitations assimilées à celles-ci conformément à l’art. 86, al. 2, de l’ordonnance du 13 novembre 1962 sur les règles de la circulation routière (OCR)[^3-11], si:
+
+  - 1\. la course effectuée est liée aux besoins de l’exploitation conformément à l’art. 87, al. 1 et 2, de l’OCR,
+  - 2\. la course est effectuée dans un rayon de 20 km autour du lieu d’établissement de l’exploitation, et que
+  - 3\. la conduite du véhicule absorbe au maximum la moitié du temps de travail du conducteur en moyenne hebdomadaire.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^3-5]: Introduite par le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^3-6]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-7]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-8]: Introduite par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-9]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-10]: Introduite par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-11]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
 #### Art. 4
 
 **Courses pendant la formation professionnelle**
 
-<sup>1</sup> En Suisse uniquement, un conducteur peut effectuer des transports de personnes ou de marchandises sans être titulaire du certificat de capacité pendant un an au maximum s’il est titulaire du permis de conduire pour le véhicule utilisé et s’il acquiert pendant ce temps les connaissances et les aptitudes mentionnées à l’annexe dans le cadre d’une formation professionnelle. Les personnes faisant un apprentissage de conducteur de camion peuvent effectuer des transports de marchandises sans être titulaires du certificat de capacité pendant toute la durée de leur formation. [^4-1]
+<sup>1</sup> En Suisse uniquement, un conducteur peut effectuer des transports de personnes ou de marchandises sans être titulaire du certificat de capacité pendant un an au maximum s’il est titulaire du permis de conduire pour le véhicule utilisé et s’il acquiert pendant ce temps les compétences, les connaissances et les aptitudes mentionnées à l’annexe dans le cadre d’une formation professionnelle. Les personnes qui suivent la formation professionnelle initiale de conducteur de véhicules lourds avec certificat fédéral de capacité (CFC) peuvent effectuer des transports de marchandises sans être titulaires du certificat de capacité pendant toute la durée de leur formation.[^4-1]
 
 <sup>2</sup> Le canton où l’entreprise a son siège doit avoir approuvé les programmes de formation non reconnus au plan fédéral.
 
-<sup>3</sup> Pour les courses, le conducteur doit emporter une copie du contrat d’apprentissage ou d’un autre document par lequel son employeur atteste qu’il suit une formation professionnelle conformément à l’al. 1.
+<sup>3</sup>
 
-[^4-1]: Nouvelle teneur selon le ch. I de l'O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+Pour les courses, le conducteur doit emporter:
+
+- a. s’il suit la formation professionnelle initiale de conducteur de véhicules lourds avec CFC, une copie du contrat d’apprentissage;
+- b. s’il participe à un programme de formation au sens de l’al. 2, une attestation du centre de formation.[^4-2]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 5
 
-**Conducteurs domiciliés dans un Etat membre de la CE et de l’AELE**
+**Conducteurs domiciliés dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange**[^5-1]
 
-Les conducteurs domiciliés dans un Etat membre de la Communauté européenne ou de l’Association européenne de libre-échange et les conducteurs employés par une entreprise établie dans un Etat de la Communauté européenne ou de l’Association européenne de libre-échange doivent être titulaires du certificat d’aptitude conformément à la directive 2003/59/CE[^5-1].
+Doivent être titulaires du certificat d’aptitude conformément à la directive 2003/59/CE[^5-2] les conducteurs:
 
-[^5-1]: Directive 2003/59/CE du Parlement européen et du Conseil du 15 juillet 2003 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs, modifiant le règlement (CEE) n<sup>o</sup> 3820/85 du Conseil ainsi que la directive 91/439/CEE du Conseil et abrogeant la directive 76/914/CEE du Conseil, JO L 226 du 10.9.2003, p. 4, modifiée en dernier lieu par la directive 2006/103/CE (JO L 363 du 20.12.2006, p. 344)
+- a. domiciliés dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange;
+- b. employés par une entreprise établie dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^5-2]: Directive 2003/59/CE du Parlement européen et du Conseil du 15 juillet 2003 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs, modifiant le règlement (CEE) n<sup>o</sup> 3820/85 du Conseil ainsi que la directive 91/439/CEE du Conseil et abrogeant la directive 76/914/CEE du Conseil, JO L 226 du 10.9.2003, p. 4; modifiée en dernier lieu par la directive (UE) 2018/645, JO L 112 du 2.5.2018, p. 29.
 
 ## Section 2 Certificats de capacité
 
@@ -96,21 +132,30 @@ Les conducteurs domiciliés dans un Etat membre de la Communauté européenne ou
 
 Le certificat de capacité pour le transport de marchandises est délivré aux titulaires:
 
-- a. du certificat fédéral de capacité de «conducteur de camions», ou
+- a.[^6-1] du certificat fédéral de capacité de conducteur de camions ou de conducteur de véhicules lourds, ou
 - b. du permis de conduire de la catégorie C ou de la sous-catégorie C1 qui ont réussi les examens théorique et pratique prévus par les art. 10 à 15.
 
 <sup>3</sup> Le certificat de capacité des titulaires d’un permis de conduire de la sous-catégorie D1 et du certificat de capacité pour le transport de personnes, une fois qu’ils ont réussi l’examen de conducteur pour la catégorie D, est également valable pour cette catégorie sans examen supplémentaire.
 
 <sup>4</sup> Le certificat de capacité des titulaires d’un permis de conduire de la sous-catégorie C1 et du certificat de capacité pour le transport de marchandises, une fois qu’ils ont réussi l’examen de conducteur pour la catégorie C, est également valable pour cette catégorie sans examen supplémentaire.
 
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+
 #### Art. 7
 
-**Conducteurs venant s’établir en Suisse**
+**Conducteurs venant s’établir en Suisse**[^7-1]
 
-Aux conducteurs venant s’établir en Suisse ou employés par une entreprise établie en Suisse, le certificat de capacité respectif est délivré sans examen:
+<sup>1</sup>
 
-- a. si une autorisation correspondante est inscrite dans leur permis de conduire étranger ou attestée par la carte de qualification de conducteur prévue à l’annexe II de la directive 2003/59/CE; ou
+Le certificat de capacité est délivré sans examen aux conducteurs venant s’établir en Suisse:
+
+- a. si une autorisation correspondante est inscrite dans leur permis de conduire étranger ou attestée par la carte de qualification du conducteur prévue à l’annexe II de la directive 2003/59/CE[^7-2], ou
 - b. s’ils sont titulaires d’un certificat national que l’Office fédéral des routes (OFROU) reconnaît équivalent.
+
+<sup>2</sup> Le certificat de capacité est délivré sans examen aux conducteurs qui ne sont pas domiciliés dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange et qui sont employés par une entreprise établie en Suisse, s’ils satisfont les conditions visées à l’al. 1, let. a ou b.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^7-2]: Voir la note de bas de page relative à l’art. 5.
 
 #### Art. 8
 
@@ -129,20 +174,24 @@ Les certificats de capacité sont délivrés:
 
 <sup>2</sup> Il est renouvelé de cinq ans en cinq ans, lorsque son titulaire justifie de la fréquentation de la formation continue conformément aux art. 16 à 20.
 
+<sup>2bis</sup> Les personnes qui sont déjà titulaires du certificat de capacité pour le transport de personnes ou du certificat de capacité pour le transport de marchandises et qui obtiennent la seconde catégorie en passant un examen au sens de l’art. 13, al. 1 ou 2, reçoivent un certificat de capacité pour le transport de personnes et pour le transport de marchandises. Celui-ci est valable cinq ans à compter de la date de l’examen pour l’obtention de la seconde catégorie. Il n’est pas permis de tenir compte des cours de formation continue suivis avant cette date d’examen pour cette période de formation continue.[^9-2]
+
 <sup>3</sup>
 
 Le certificat de capacité est délivré avec indication de la durée de validité, de la manière suivante:
 
-- a. inscription dans le permis de conduire à titre d’indication complémentaire (art. 24*c*, let. e, de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière, OAC[^9-2]), ou
-- b. établissement d’une carte séparée sur le modèle de la carte de qualification du conducteur visée à l’annexe II de la directive 2003/59/CE[^9-3].[^9-4]
+- a. inscription dans le permis de conduire à titre d’indication complémentaire (art. 24*c*, let. e, de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière, OAC[^9-3]), ou
+- b.[^9-4] établissement d’une carte séparée sur le modèle de la carte de qualification du conducteur visée à l’annexe II de la directive 2003/59/CE[^9-5].[^9-6]
 
-<sup>4</sup> Les données de la carte séparée doivent concorder avec celles du permis de conduire sur la base duquel elle a été établie. Si le permis de conduire doit être remplacé, une nouvelle carte devra être demandée.[^9-5]
+<sup>4</sup> Les données de la carte séparée doivent concorder avec celles du permis de conduire sur la base duquel elle a été établie. Si le permis de conduire doit être remplacé, une nouvelle carte devra être demandée.[^9-7]
 
-[^9-1]: Nouvelle teneur selon le ch. I de l'O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^9-2]: RS **741****.****51**
-[^9-3]: Directive 2003/59/CE du Parlement européen et du Conseil du 15 juillet 2003 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs, modifiant le règlement (CEE) n<sup>o</sup> 3820/85 du Conseil ainsi que la directive 91/439/CEE du Conseil et abrogeant la directive 76/914/CEE du Conseil (JO L 226 du 10.09.2003, p. 4)
-[^9-4]: Nouvelle teneur selon le ch. I de l'O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^9-5]: Introduit par le ch. I de l'O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^9-2]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^9-3]: RS **741****.****51**
+[^9-4]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^9-5]: Voir la note de bas de page relative à l’art. 5.
+[^9-6]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^9-7]: Introduit par le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 ## Section 3 Examens
 
@@ -163,7 +212,7 @@ Lors des examens théorique et pratique, les candidats doivent démontrer qu’i
 <sup>3</sup> Pour être admis à l’examen combiné (art. 14<sup>bis</sup>), le candidat doit avoir réussi l’examen théorique prévu à l’art. 12, al. 1, let. a, et être titulaire du permis d’élève conducteur ou du permis de conduire pour le véhicule utilisé. L’admission à la course d’examen prévue à l’art. 14, al. 3, est régie par l’annexe 12, ch. I, OAC. [^11-2]
 
 [^11-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^11-2]: Introduit par le ch. I de l'O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^11-2]: Introduit par le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 #### Art. 12
 
@@ -176,13 +225,15 @@ L’examen théorique comprend:
 - a. des questions à choix multiple, des questions à réponse directe ou une combinaison des deux systèmes; et
 - b. des études de cas.
 
-<sup>2</sup> Les candidats au certificat de capacité pour le transport de personnes ou pour le transport de marchandises doivent répondre à une question au minimum par matière requise par l’annexe pour toutes les catégories et sous-catégories, exception faite du ch. 1.3.
+<sup>2</sup> Les candidats au certificat de capacité pour le transport de personnes ou pour le transport de marchandises doivent répondre à une question au minimum par matière requise par l’annexe pour toutes les catégories et sous-catégories, exception faite du ch. 2.113.[^12-1]
 
 <sup>3</sup> Les candidats au certificat de capacité pour le transport de personnes doivent en outre répondre à une question au minimum par matière requise par l’annexe pour la catégorie D et la sous-catégorie D1.
 
 <sup>4</sup> Les candidats au certificat de capacité pour le transport de marchandises doivent en outre répondre à une question au minimum par matière requise par l’annexe pour la catégorie C et la sous-catégorie C1.
 
 <sup>5</sup> La durée minimale de l’examen théorique est de quatre heures. L’examen théorique complémentaire pour l’obtention du permis de conduire de la catégorie C ou D ou de la sous-catégorie C1 ou D1 est considéré comme faisant partie intégrante de l’examen théorique; sa durée sera comptée dans ces quatre heures.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 13
 
@@ -202,11 +253,12 @@ L’examen théorique comprend:
 
 <sup>1</sup> L’examen pratique comprend une partie générale et une course d’examen.
 
-<sup>2</sup> La partie générale doit être effectuée par tout candidat à un certificat de capacité. Elle doit porter au minimum sur les ch. 1.4, 1.5, 1.6, 3.2, 3.3 et 3.5 de l’annexe et sa durée minimale est de 30 minutes. Il est obligatoire d’utiliser un véhicule de la catégorie ou de la sous-catégorie avec laquelle le candidat souhaite effectuer les transports de personnes ou de marchandises.
+<sup>2</sup> La partie générale doit être effectuée par tout candidat à un certificat de capacité. Elle doit porter au minimum sur les ch. 2.121, 2.141, 2.142, 2.312, 2.313 et 2.315 de l’annexe et sa durée minimale est de 30 minutes. Il est obligatoire d’utiliser un véhicule de la catégorie ou de la sous-catégorie avec laquelle le candidat souhaite effectuer les transports de personnes ou de marchandises.[^14-1]
 
-<sup>3</sup> La course d’examen doit être effectuée par tout titulaire du permis de conduire de la sous-catégorie C1 ou D1. Elle permet de constater s’il est capable de faire preuve d’une conduite aussi bien respectueuse des autres usagers et soucieuse de sécurité que respectueuse de l’environnement et efficiente au plan énergétique. La durée minimale de cette course est de 30 minutes. Il est obligatoire d’utiliser un véhicule automobile qui satisfait aux exigences pour un véhicule d’examen de la sous-catégorie concernée (annexe 12, ch. V, OAC[^14-1]).
+<sup>3</sup> La course d’examen doit être effectuée par tout titulaire du permis de conduire de la sous-catégorie C1 ou D1. Elle permet de constater s’il est capable de faire preuve d’une conduite aussi bien respectueuse des autres usagers et soucieuse de sécurité que respectueuse de l’environnement et efficiente au plan énergétique. La durée minimale de cette course est de 30 minutes. Il est obligatoire d’utiliser un véhicule automobile qui satisfait aux exigences pour un véhicule d’examen de la sous-catégorie concernée (annexe 12, ch. V, OAC[^14-2]).
 
-[^14-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^14-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 14<sup>bis</sup>
 
@@ -214,17 +266,18 @@ L’examen théorique comprend:
 
 L’examen théorique prévu à l’art. 12, al. 1, let. b, et la partie générale de l’examen pratique prévu à l’art. 14, al. 2, peuvent être combinés en un seul examen.
 
-[^14bis-1]: Introduit par le ch. I de l'O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^14bis-1]: Introduit par le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 #### Art. 15
 
 **Répétition**
 
-<sup>1</sup> La personne qui échoue à l’examen théorique ou à la partie générale de l’examen pratique prévu à l’art. 14, al. 2, peut répéter deux fois les parties qu’elle n’a pas réussies.
+<sup>1</sup> La personne qui échoue à l’examen théorique ou à la partie générale de l’examen pratique prévue à l’art. 14, al. 2, peut répéter les parties qu’elle n’a pas réussies autant de fois qu’elle le souhaite.[^15-1]
 
-<sup>2</sup> La répétition de la course d’examen prévue à l’art. 14, al. 3, est régie par l’art. 23 OAC[^15-1].
+<sup>2</sup> La répétition de la course d’examen prévue à l’art. 14, al. 3, est régie par l’art. 23 OAC[^15-2].
 
-[^15-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^15-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 ## Section 4 Formation continue
 
@@ -240,24 +293,23 @@ L’examen théorique prévu à l’art. 12, al. 1, let. b, et la partie génér
 
 #### Art. 17
 
-**But et contenu**
+**But et organisation**[^17-1]
 
-<sup>1</sup> La fréquentation de la formation continue a pour objet de maintenir à jour les connaissances et les aptitudes nécessaires aux conducteurs pour effectuer des transports de personnes et de marchandises, conformément à l’annexe.
+<sup>1</sup> La fréquentation de la formation continue a pour objet de maintenir à jour les connaissances et les aptitudes requises pour les transports de personnes ou de marchandises conformément au ch. 2 de l’annexe et, partant, d’optimiser les compétences visées au ch. 1 de l’annexe.
 
-<sup>2</sup>
+<sup>2</sup> L’organisation de la formation continue est réglée au ch. 3 de l’annexe.
 
-La formation continue doit inclure des matières théoriques et pratiques. Elle doit aborder des thèmes:
-
-- a. valables pour tous les conducteurs, la priorité étant donnée aux thèmes utiles à la sécurité routière et aux stratégies pour une utilisation du véhicule respectueuse de l’environnement et efficiente au plan énergétique; et
-- b. adaptés au profil professionnel du conducteur concerné.
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 18
 
-**Durée**
+**Durée et structure[^18-1]**
 
 <sup>1</sup> Le titulaire du certificat de capacité pour le transport de personnes ou du certificat pour le transport de marchandises, voire des deux, doit justifier de la fréquentation de 35 heures de formation continue pour en obtenir la prolongation.
 
 <sup>2</sup> La formation continue peut être suivie sous la forme d’un cours d’une semaine ou de cours de un jour. La durée minimale d’un cours de un jour est de 7 heures.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 19
 
@@ -272,7 +324,10 @@ Les centres de formation continue doivent délivrer une attestation de cours aux
 Les attestations étrangères de fréquentation d’une formation continue sont reconnues équivalentes:
 
 - a. si la formation continue a été suivie entièrement ou en partie en cours d’emploi auprès d’une entreprise établie à l’étranger;
-- b. si l’organisatrice du cours est agréée comme fournisseur de cours de formation continue dans un Etat membre de la Communauté européenne ou de l’Association européenne de libre-échange conformément à l’annexe I, section 5, de la directive 2003/59/CE.
+- b.[^20-1] si l’organisateur du cours est agréé comme prestataire de cours de formation continue dans un État membre de l’Union européenne ou de l’Association européenne de libre-échange conformément à l’annexe I, section 5, de la directive 2003/59/CE[^20-2].
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^20-2]: Voir la note de bas de page relative à l’art. 5.
 
 ## Section 5 Centres de formation continue
 
@@ -321,15 +376,13 @@ L’autorisation est délivrée:
 <sup>6</sup> L’autorisation peut être retirée au titulaire qui ne remplit plus les conditions de l’al. 4, let. a et c, ou de l’al. 5.
 
 [^23-1]: RS **741****.****51**
-[^23-2]: Nouvelle teneur selon le ch. I de l'O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 #### Art. 24
 
-**Utilisation de simulateurs de conduite**
+[^24-1]
 
-Une partie de la formation continue peut être donnée dans des simulateurs de conduite si ces derniers remplissent les exigences de l’ordonnance du 28 septembre 2007 sur les moniteurs de conduite[^24-1].
-
-[^24-1]: [RS 741.522](https://fedlex.data.admin.ch/eli/cc/2007/704)
+[^24-1]: Abrogé par le ch. I de l’O du 10 déc. 2021, avec effet au 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 ## Section 6 Disposition pénale
 
@@ -357,46 +410,35 @@ Les cantons:
 
 <sup>2</sup> Ils peuvent déléguer l’exécution de ces tâches à des tiers.
 
-<sup>3</sup> L’OFROU peut établir des instructions sur l’exécution de la présente ordonnance. Il peut autoriser des dérogations à certaines dispositions pour prévenir les cas de rigueur.
+<sup>3</sup> L’OFROU peut établir des instructions sur l’exécution de la présente ordonnance. Il peut autoriser des dérogations générales et abstraites à certaines dispositions pour prévenir les cas de rigueur.[^26-1]
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 27
 
-**Dispositions transitoires**
+[^27-1]
 
-<sup>1</sup> et <sup>2</sup> … [^27-1]
-
-<sup>3</sup> Les personnes qui sont titulaires du permis de conduire de la catégorie C ou D ou de la sous-catégorie C1 ou D1 avant le 1<sup>er</sup> septembre 2009 peuvent faire valoir les cours professionnels de formation continue qu’ils ont suivis à compter du 1<sup>er</sup> janvier 2007 au titre de la formation continue prévue aux art. 16 à 20 si elles peuvent prouver par écrit que la formation continue suivie comprend des thèmes conformes à l’annexe.
-
-<sup>4</sup> Les autorités d’admission peuvent délivrer aux entreprises qui désirent être agréées comme centre de formation continue l’autorisation provisoire d’organiser des cours de formation continue si elles sont reconnues à ce jour comme organisatrices de cours dans le cadre de la formation minimale pour l’obtention d’un permis de conduire de la catégorie C ou D (art. 6, al. 3<sup>bis</sup> et art. 8, al. 2<sup>bis</sup>, OAC[^27-2]) et peuvent montrer de façon plausible qu’elles remplissent les conditions de l’art. 21. L’autorisation provisoire est valable jusqu’à l’agrément ordinaire en qualité de centre de formation continue, mais pour deux ans au maximum. Plus aucune autorisation provisoire ne sera délivrée à compter du 1<sup>er</sup> septembre 2011.
-
-[^27-1]: Abrogés par le ch. I de l'O du 22 oct. 2008, avec effet au 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^27-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^27-1]: Abrogé par le ch. I de l’O du 10 déc. 2021, avec effet au 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 27a
 
 **Dispositions transitoires relatives à la modification du 22 octobre 2008**[^27a-1]
 
-<sup>1</sup>
+<sup>1</sup> Les personnes ayant obtenu le permis de conduire de la catégorie C ou de la sous-catégorie C1 avant le 1<sup>er</sup> septembre 2009 et justifiant de la formation continue prévue aux art. 16 à 20 obtiendront, sur demande, le certificat de capacité pour le transport de marchandises sans autre examen, pour une durée de cinq ans.[^27a-2]
 
-Les personnes ayant obtenu le permis de conduire de la catégorie C ou de la sous-catégorie C1 avant le 1<sup>er</sup> septembre 2009 n’auront besoin du certificat de capacité pour le transport de marchandises qu’à partir du 1<sup>er</sup> septembre 2014. S’il est prouvé que le requérant a suivi la formation continue prévue aux art. 16 à 20, le certificat de capacité lui sera délivré sans autre examen:
+<sup>2</sup> ...[^27a-3]
 
-- a. pour une période allant jusqu’au 31 août 2019 dans le cas où il dépose sa demande avant le 1<sup>er</sup> septembre 2014;
-- b. pour une durée de cinq ans dans le cas où il dépose sa demande à partir du 1<sup>er</sup> septembre 2014.
-
-<sup>2</sup> Les personnes qui ont déposé leur demande de permis d’élève conducteur ou de permis de conduire de la catégorie C ou de la sous-catégorie C1 avant le 1<sup>er</sup> septembre 2009 passent l’examen de conduite en vertu de l’ancien droit. Une fois qu’elles ont réussi l’examen de conduite, le certificat de capacité leur est délivré sans autre examen pour une durée de cinq ans.
-
-<sup>3</sup>
-
-Les personnes ayant obtenu le permis de conduire de la catégorie D ou de la sous-catégorie D1 avant le 1<sup>er</sup> septembre 2008 n’auront besoin du certificat de capacité pour le transport de personnes qu’à partir du 1<sup>er</sup> septembre 2013. S’il est prouvé que le requérant a suivi la formation continue prévue aux art. 16 à 20, le certificat de capacité lui sera délivré sans autre examen:
-
-- a. pour une période allant jusqu’au 31 août 2018 dans le cas où il dépose sa demande avant le 1<sup>er</sup> septembre 2013;
-- b. pour une durée de cinq ans dans le cas où il dépose sa demande à partir du 1<sup>er</sup> septembre 2013.
+<sup>3</sup> Les personnes ayant obtenu le permis de conduire de la catégorie D ou de la sous-catégorie D1 avant le 1<sup>er</sup> septembre 2008 et justifiant de la formation continue prévue aux art. 16 à 20 obtiendront, sur demande, le certificat de capacité pour le transport de personnes sans autre examen, pour une durée de cinq ans.[^27a-4]
 
 <sup>4</sup> Les personnes ayant obtenu le permis de conduire de la catégorie D ou de la sous-catégorie D1 entre le 1<sup>er</sup> septembre 2008 et le 31 août 2009 obtiendront un certificat de capacité pour le transport de personnes sans autre examen pour une durée de cinq ans.
 
-<sup>5</sup> Les personnes qui ont déposé leur demande de permis d’élève conducteur ou de permis de conduire de la catégorie D ou de la sous-catégorie D1 avant le 1<sup>er</sup> septembre 2009 passent l’examen de conduite en vertu de l’ancien droit. Une fois qu’elles ont réussi l’examen de conduite, le certificat de capacité leur est délivré sans autre examen pour une durée de cinq ans.
+<sup>5</sup> ...[^27a-5]
 
-[^27a-1]: Introduit par le ch. I de l'O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^27a-1]: Introduit par le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^27a-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^27a-3]: Abrogé par le ch. I de l’O du 10 déc. 2021, avec effet au 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^27a-4]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^27a-5]: Abrogé par le ch. I de l’O du 10 déc. 2021, avec effet au 1<sup>er</sup> mars 2022 ([RO 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 28
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 15 giugno 2007 sull'ammissione dei conducenti di veicoli a
 short: OAut
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/437"
 language: it
-version: 2009-09-01
+version: 2022-03-01
 adopted: 2007-06-15
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20090901/it/xml/fedlex-data-admin-ch-eli-cc-2007-437-20090901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20090901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20090901/it"
 
 (Ordinanza sull’ammissione degli autisti, OAut)
 
-del 15 giugno 2007 (Stato 1° settembre 2009)
+del 15 giugno 2007 (Stato 1° marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -43,7 +43,9 @@ La presente ordinanza disciplina l’ammissione dei conducenti di veicoli al tra
 
 <sup>2</sup> Chi vuole eseguire trasporti di merci con autoveicoli della categoria C o della sottocategoria C1 necessita del certificato di capacità per il trasporto di merci.
 
-<sup>3</sup> Per lavorare in un’impresa stabilita in Svizzera, i conducenti domiciliati all’estero necessitano di un certificato di capacità svizzero.
+<sup>3</sup> Per lavorare in un’impresa stabilita in Svizzera, i conducenti non domiciliati in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio necessitano di un certificato di capacità svizzero.[^2-1]
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 3
 
@@ -51,38 +53,72 @@ La presente ordinanza disciplina l’ammissione dei conducenti di veicoli al tra
 
 Non necessitano di un certificato di capacità i conducenti di veicoli a motore:
 
-- a. utilizzati per i trasporti di persone o di merci a fini privati;
-- b. la cui velocità massima autorizzata non supera i 45 km/h;
-- c. utilizzati dall’esercito, dalla polizia, dal servizio antincendio, dall’Amministrazione delle dogane, dalla protezione civile oppure su loro mandato;
-- d.[^3-1] con i quali, a scopo di sviluppo tecnico o per lavori di riparazione o manutenzione, sono eseguite corse di prova o di trasferimento;
-- d<sup>bis</sup>.[^3-2] che, nuovi o trasformati, non sono ancora in circolazione;
-- e. impiegati nei servizi d’urgenza o per misure di salvataggio;
-- f. utilizzati per corse di scuola guida, d’esercitazione o d’esame, per recarsi all’esame ufficiale del veicolo o nell’ambito di tale esame;
-- g. adibiti al trasporto di materiale o attrezzature utilizzati dal conducente nell’esercizio della propria attività, a condizione che in media la guida del veicolo non ecceda la metà del tempo di lavoro settimanale;
-- h. assegnati soltanto al traffico interno di un’impresa e autorizzati a circolare su strada pubblica soltanto con il permesso dell’autorità.
+- a.[^3-1]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^3-2]: Introdotta dal n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+  utilizzati per trasporti non commerciali di persone o di merci; è considerato non commerciale qualsiasi trasporto su strada:
+
+  - 1\. per il quale non sia percepita alcuna retribuzione diretta o indiretta,
+  - 2\. che non generi direttamente o indirettamente alcun reddito per il conducente del veicolo o per terzi, e
+  - 3\. che non sia in relazione con un’attività professionale o commerciale;
+
+- b. la cui velocità massima autorizzata non supera i 45 km/h;
+- c.[^3-2] utilizzati dall’esercito, dalla polizia, dal servizio antincendio, dall’Ufficio federale della dogana e della sicurezza dei confini[^3-3], dalla protezione civile, dai servizi di trasporto sanitario oppure su loro mandato;
+- d.[^3-4] con i quali, a scopo di sviluppo tecnico o per lavori di riparazione o manutenzione, sono eseguite corse di prova o di trasferimento;
+- d<sup>bis</sup>.[^3-5] che, nuovi o trasformati, non sono ancora in circolazione;
+- e.[^3-6] impiegati in situazioni d’emergenza, per operazioni di salvataggio o per trasporti non commerciali di cui alla lettera a destinati all’aiuto umanitario;
+- f.[^3-7] utilizzati durante corse di scuola guida o d’esame per il trasporto commerciale di merci, a condizione che l’accompagnatore possieda un certificato di capacità o un’abilitazione a maestro conducente validi della rispettiva categoria;
+- f<sup>bis</sup>.[^3-8] utilizzati per recarsi all’esame ufficiale del veicolo o nell’ambito di tale esame per il trasporto commerciale di persone o di merci;
+- g.[^3-9] adibiti al trasporto di materiale, attrezzature o macchinari utilizzati dal conducente nell’esercizio della propria attività, a condizione che in media la guida del veicolo non superi la metà del tempo di lavoro settimanale;
+- h. assegnati soltanto al traffico interno di un’impresa e autorizzati a circolare su strada pubblica soltanto con il permesso dell’autorità;
+- i.[^3-10]
+
+  utilizzati da aziende agricole o forestali o da aziende loro equiparate ai sensi dell’articolo 86 capoverso 2 dell’ordinanza del 13 novembre 1962[^3-11] sulle norme della circolazione stradale (ONC) per il trasporto di merci, a condizione che:
+
+  - 1\. si tratti di un trasporto in relazione con l’esercizio dell’azienda secondo l’articolo 87 capoversi 1 e 2 ONC,
+  - 2\. il trasporto sia effettuato entro un raggio di 20 km dalla sede aziendale, e
+  - 3\. in media la guida del veicolo non superi la metà del tempo di lavoro settimanale del conducente.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^3-5]: Introdotta dal n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^3-6]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-7]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-8]: Introdotta dal n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-9]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-10]: Introdotta dal n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-11]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
 #### Art. 4
 
 **Corse durante la formazione professionale**
 
-<sup>1</sup> Nel traffico interno un conducente privo del certificato di capacità può effettuare trasporti di persone o di merci per un anno al massimo, se possiede la licenza di condurre per il veicolo utilizzato e in questo periodo acquisisce nel quadro di una formazione professionale le conoscenze e le attitudini previste dall’allegato. Le persone che frequentano l’apprendistato di conducente di autocarri possono effettuare trasporti di merci durante l’intero periodo di formazione senza essere titolari del certificato di capacità.[^4-1]
+<sup>1</sup> Nel traffico interno un conducente privo del certificato di capacità può effettuare trasporti di persone o di merci per un anno al massimo, se possiede la licenza di condurre per il veicolo utilizzato e in questo periodo acquisisce nel quadro di una formazione professionale le competenze operative, le conoscenze e le attitudini previste dall’allegato. Le persone che frequentano la formazione professionale di base di «autista di veicoli pesanti AFC» possono effettuare trasporti di merci durante l’intero periodo di formazione senza essere titolari del certificato di capacità.[^4-1]
 
 <sup>2</sup> I programmi di formazione non riconosciuti dalla Confederazione devono essere approvati dal Cantone di stanza.
 
-<sup>3</sup> Durante le corse, il conducente deve portare con sé una copia del contratto di apprendistato o di un altro documento in cui il datore di lavoro attesta che la persona interessata segue una formazione professionale giusta il capoverso 1.
+<sup>3</sup>
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+Durante le corse devono portare con sé:
+
+- a. i conducenti che frequentano la formazione professionale di base di «autista di veicoli pesanti AFC», una copia del contratto di tirocinio;
+- b. i conducenti che seguono un programma di cui al capoverso 2, un’attestazione del centro di formazione. [^4-2]
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 5
 
-**Conducenti di veicoli provenienti dall’UE e dall’AELS**
+**Conducenti di veicoli provenienti dall’Unione europea e dall’Associazione europea di libero scambio**[^5-1]
 
-I conducenti di veicoli domiciliati in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio e i conducenti di veicoli impiegati da un’impresa stabilita nell’Unione europea o nell’Associazione europea di libero scambio necessitano del certificato di idoneità professionale conformemente alla direttiva 2003/59/CE[^5-1].
+Necessitano del certificato di idoneità professionale conformemente alla direttiva 2003/59/CE[^5-2]:
 
-[^5-1]: Direttiva 2003/59/CE del Parlamento europeo e del Consiglio del 15 lug. 2003 sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, che modifica il regolamento (CEE) n. 3820/85 del Consiglio e la direttiva 91/439/CEE del Consiglio e che abroga la direttiva 76/914/CEE del Consiglio, GU L 226 del 10.9.2003, pag. 4, modificata da ultimo dalla direttiva 2006/103/CE (GU L 363 del 20.12.2006, pag. 344).
+- a. i conducenti domiciliati in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio;
+- b. i conducenti impiegati da un’impresa stabilita nell’Unione europea o nell’Associazione europea di libero scambio.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^5-2]: Direttiva 2003/59/CE del Parlamento europeo e del Consiglio del 15 luglio 2003 sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, che modifica il regolamento (CEE) n. 3820/85 del Consiglio e la direttiva 91/439/CEE del Consiglio e che abroga la direttiva 76/914/CEE del Consiglio, GU L 226 del 10.9.2003, pag. 4; modificata da ultimo dalla direttiva (UE) 2018/645, GU L 112 del 2.5.2018, pag. 29.
 
 ## Sezione 2: Certificati di capacità
 
@@ -96,21 +132,30 @@ I conducenti di veicoli domiciliati in uno Stato membro dell’Unione europea o 
 
 Il certificato di capacità per il trasporto di merci è rilasciato alle persone che:
 
-- a. possiedono il certificato federale di capacità per «conducente di autocarri»; o
+- a.[^6-1] possiedono l’attestato federale di capacità per «conducente di autocarri» o per «autista di veicoli pesanti AFC»; o
 - b. possiedono la licenza di condurre della categoria C o della sottocategoria C1 e hanno superato l’esame teorico e l’esame pratico giusta gli articoli 10–15.
 
 <sup>3</sup> Per i titolari di una licenza di condurre della sottocategoria D1 che possiedono il certificato di capacità per il trasporto di persone, una volta superato l’esame di conducente per la categoria D, il certificato di capacità vale, senza ulteriore esame, anche per questa categoria.
 
 <sup>4</sup> Per i titolari di una licenza di condurre della sottocategoria C1 che possiedono il certificato di capacità per il trasporto di merci, una volta superato l’esame di conducente per la categoria C, il certificato di capacità vale, senza ulteriore esame, anche per questa categoria.
 
+[^6-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+
 #### Art. 7
 
-**Conducenti di veicoli provenienti dall’estero**
+**Conducenti di veicoli provenienti dall’estero**[^7-1]
 
-Ai conducenti di veicoli provenienti dall’estero che prendono domicilio in Svizzera o sono impiegati in un’impresa stabilita in Svizzera è rilasciato senza esame il pertinente certificato di capacità se:
+<sup>1</sup>
 
-- a. un’autorizzazione corrispondente è iscritta nella licenza di condurre straniera oppure è attestata dalla carta di qualificazione del conducente giusta l’allegato II della direttiva 2003/59/CE; oppure
+Ai conducenti provenienti dall’estero che prendono domicilio in Svizzera il certificato di capacità è rilasciato senza esame se:
+
+- a. un’autorizzazione corrispondente è iscritta nella licenza di condurre straniera oppure è attestata dalla carta di qualificazione del conducente giusta l’allegato II della direttiva 2003/59/CE[^7-2]; oppure
 - b. sono titolari di un attestato nazionale che l’Ufficio federale delle strade (USTRA) ha riconosciuto come equivalente.
+
+<sup>2</sup> Ai conducenti non domiciliati in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio e impiegati da un’impresa stabilita in Svizzera il certificato di capacità è rilasciato senza esame se soddisfano i requisiti di cui al capoverso 1 lettera a o b.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^7-2]: Cfr. nota all’art. 5.
 
 #### Art. 8
 
@@ -129,19 +174,23 @@ I certificati di capacità sono rilasciati:
 
 <sup>2</sup> È prorogato ogni volta di cinque anni se il titolare comprova la frequenza del corso di formazione periodica giusta gli articoli 16–20.
 
+<sup>2bis</sup> Le persone che sono già in possesso del certificato di capacità per il trasporto di persone o di merci e ottengono l’altra categoria attraverso un esame ai sensi dell’articolo 13 capoverso 1 o 2 ricevono un nuovo certificato per entrambe le categorie. Quest’ultimo è valido per cinque anni dalla data dell’esame per il conseguimento della seconda categoria. I corsi di formazione periodica frequentati prima di tale data non possono essere computati in questo periodo di formazione.[^9-1]
+
 <sup>3</sup>
 
 Il certificato di capacità, con indicazione della durata di validità, è rilasciato sotto forma di:
 
-- a. iscrizione a titolo di indicazione supplementare nella licenza di condurre (art. 24*c* lett. e dell’O del 27 ott. 1976[^9-1] sull’ammissione alla circolazione di persone e veicoli, OAC); oppure
-- b. emissione di una carta separata secondo il modello della carta di qualificazione del conducente di cui all’allegato II della direttiva 2003/59/CE[^9-2].[^9-3]
+- a. iscrizione a titolo di indicazione supplementare nella licenza di condurre (art. 24*c* lett. e dell’O del 27 ott. 1976[^9-2] sull’ammissione alla circolazione di persone e veicoli, OAC); oppure
+- b.[^9-3] emissione di una carta separata secondo il modello della carta di qualificazione del conducente di cui all’allegato II della direttiva 2003/59/CE[^9-4].[^9-5]
 
-<sup>4</sup> Le indicazioni sulla carta separata devono corrispondere a quelle iscritte nella licenza di condurre in base alla quale la carta è rilasciata. In caso di sostituzione della licenza di condurre va richiesta una nuova carta.[^9-4]
+<sup>4</sup> Le indicazioni sulla carta separata devono corrispondere a quelle iscritte nella licenza di condurre in base alla quale la carta è rilasciata. In caso di sostituzione della licenza di condurre va richiesta una nuova carta.[^9-6]
 
-[^9-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^9-2]: Direttiva 2003/59/CE del Parlamento europeo e del Consiglio del 15 luglio 2003 sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, che modifica il regolamento (CEE) 3820/85 del Consiglio e la direttiva 91/439/CEE del Consiglio e che abroga la direttiva 76/914/CEE del Consiglio (GU L 226 del 10.9.2003, pag. 4)
-[^9-3]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^9-4]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^9-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^9-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^9-3]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^9-4]: Cfr. nota all’art. 5.
+[^9-5]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^9-6]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 ## Sezione 3: Esami
 
@@ -175,13 +224,15 @@ L’esame teorico comprende:
 - a. domande a scelta multipla, domande a risposta diretta oppure una combinazione di entrambe; e
 - b. l’analisi di casi concreti.
 
-<sup>2</sup> I candidati al certificato di capacità per il trasporto di persone o al certificato di capacità per il trasporto di merci devono rispondere ad almeno una domanda su ciascuna materia prevista dall’allegato per tutte le categorie e sottocategorie, eccezion fatta per il numero 1.3.
+<sup>2</sup> I candidati al certificato di capacità per il trasporto di persone o al certificato di capacità per il trasporto di merci devono rispondere ad almeno una domanda su ciascuna materia prevista dall’allegato per tutte le categorie e sottocategorie, eccezion fatta per il numero 2.113.[^12-1]
 
 <sup>3</sup> I candidati al certificato di capacità per il trasporto di persone devono inoltre rispondere ad almeno una domanda su ciascuna materia prevista dall’allegato per la categoria D e la sottocategoria D1.
 
 <sup>4</sup> I candidati al certificato di capacità per il trasporto di merci devono inoltre rispondere ad almeno una domanda su ciascuna materia prevista dall’allegato per la categoria C e la sottocategoria C1.
 
 <sup>5</sup> L’esame teorico dura almeno quattro ore. L’esame teorico complementare per l’ottenimento della licenza di condurre della categoria C o D o della sottocategoria C1 o D1 è considerato parte integrante dell’esame teorico; la sua durata va computata nelle quattro ore.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 13
 
@@ -201,11 +252,12 @@ L’esame teorico comprende:
 
 <sup>1</sup> L’esame pratico consiste in una parte generale e in una corsa d’esame.
 
-<sup>2</sup> La parte generale deve essere svolta da tutti i candidati a un certificato di capacità. Deve estendersi almeno ai numeri 1.4, 1.5, 1.6, 3.2, 3.3 e 3.5 dell’allegato e durare almeno 30 minuti. Deve essere utilizzato un veicolo della categoria o della sottocategoria con cui vanno effettuati i trasporti di persone o di merci.
+<sup>2</sup> La parte generale deve essere svolta da tutti i candidati a un certificato di capacità. Deve estendersi perlomeno ai numeri 2.121, 2.141, 2.142, 2.312, 2.313 e 2.315 dell’allegato e durare almeno 30 minuti. Deve essere utilizzato un veicolo della categoria o della sottocategoria con cui saranno effettuati i trasporti di persone o di merci.[^14-1]
 
-<sup>3</sup> La corsa d’esame deve essere effettuata dai titolari della licenza di condurre della sottocategoria C1 o D1. Durante la corsa d’esame si determina se sono idonei a una guida sicura e rispettosa degli altri utenti, efficiente dal profilo energetico e rispettosa dell’ambiente. La corsa d’esame deve durare almeno 30 minuti. Deve essere utilizzato un veicolo a motore che adempia le esigenze di un veicolo per l’esame della sottocategoria corrispondente (all. 12 n. V OAC[^14-1]).
+<sup>3</sup> La corsa d’esame deve essere effettuata dai titolari della licenza di condurre della sottocategoria C1 o D1. Durante la corsa d’esame si determina se sono idonei a una guida sicura e rispettosa degli altri utenti, efficiente dal profilo energetico e rispettosa dell’ambiente. La corsa d’esame deve durare almeno 30 minuti. Deve essere utilizzato un veicolo a motore che adempia le esigenze di un veicolo per l’esame della sottocategoria corrispondente (all. 12 n. V OAC[^14-2]).
 
-[^14-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^14-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^14-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 14<sup>bis</sup>
 
@@ -219,11 +271,12 @@ La parte dell’esame teorico giusta l’articolo 12 capoverso 1 lettera b e la 
 
 **Ripetizione**
 
-<sup>1</sup> Chi non supera l’esame teorico o la parte generale dell’esame pratico (art. 14 cpv. 2) può ripetere due volte la parte non superata.
+<sup>1</sup> Chi non supera l’esame teorico o la parte generale dell’esame pratico (art. 14 cpv. 2) può ripetere un numero illimitato di volte le parti non superate.[^15-1]
 
-<sup>2</sup> La ripetizione della corsa d’esame (art. 14 cpv. 3) è retta dall’articolo 23 OAC[^15-1].
+<sup>2</sup> La ripetizione della corsa d’esame (art. 14 cpv. 3) è retta dall’articolo 23 OAC[^15-2].
 
-[^15-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^15-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^15-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 ## Sezione 4: Formazione periodica
 
@@ -239,24 +292,23 @@ La parte dell’esame teorico giusta l’articolo 12 capoverso 1 lettera b e la 
 
 #### Art. 17
 
-**Obiettivo e contenuto**
+**Obiettivo e svolgimento**[^17-1]
 
-<sup>1</sup> La frequenza della formazione periodica ha lo scopo di tenere aggiornate le conoscenze e le attitudini necessarie secondo l’allegato per effettuare il trasporto di persone o di merci.
+<sup>1</sup> La formazione periodica ha lo scopo di mantenere aggiornate le conoscenze e le attitudini di cui al numero 2 dell’allegato necessarie per effettuare il trasporto di persone o di merci e di perfezionare in tal modo le competenze operative di cui al numero 1 dell’allegato.
 
-<sup>2</sup>
+<sup>2</sup> Lo svolgimento della formazione periodica è disciplinato nel numero 3 dell’allegato.
 
-La formazione periodica deve comprendere materie teoriche e pratiche. Devono essere insegnati aspetti:
-
-- a. validi per tutti i conducenti e incentrati prevalentemente sui temi rilevanti per la sicurezza del traffico e sulle strategie per un impiego del veicolo che sia efficiente dal profilo energetico e rispettoso dell’ambiente; e
-- b. adeguati al profilo professionale del conducente interessato.
+[^17-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 18
 
-**Durata**
+**Durata e struttura[^18-1]**
 
 <sup>1</sup> Chi possiede il certificato di capacità per il trasporto di persone o il certificato di capacità per il trasporto di merci oppure entrambi deve, per ottenerne la proroga, comprovare la frequenza di 35 ore di formazione periodica.
 
 <sup>2</sup> La formazione periodica può essere frequentata come corso settimanale oppure in corsi quotidiani. Una giornata di corso deve durare almeno 7 ore.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 19
 
@@ -271,7 +323,10 @@ I centri di formazione periodica devono rilasciare un attestato di partecipazion
 Gli attestati esteri sulla frequenza di una formazione periodica sono riconosciuti come equivalenti se:
 
 - a. la formazione periodica è stata totalmente o parzialmente seguita durante il periodo di impiego in un’impresa stabilita all’estero; e
-- b. l’organizzatore di corsi è autorizzato a impartire la formazione periodica in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio giusta l’allegato I sezione 5 della direttiva 2003/59/CE.
+- b.[^20-1] l’organizzatore di corsi è autorizzato a impartire la formazione periodica in uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio giusta l’allegato I sezione 5 della direttiva 2003/59/CE[^20-2].
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^20-2]: Cfr. nota all’art. 5.
 
 ## Sezione 5: Centri di formazione periodica
 
@@ -305,7 +360,7 @@ Il Cantone in cui ha sede il centro di formazione periodica revoca il riconoscim
 
 <sup>2</sup> L’autorizzazione è rilasciata dal Cantone di domicilio del richiedente; è valida per tutta la Svizzera.
 
-<sup>3</sup> Chi vuole ottenere un’autorizzazione deve aver compiuto 25 anni e presentare all’autorità competente del Cantone di domicilio una domanda corredata di *curric**u**lum vitae*, informazioni sull’attività precedente e certificati professionali.
+<sup>3</sup> Chi vuole ottenere un’autorizzazione deve aver compiuto 25 anni e presentare all’autorità competente del Cantone di domicilio una domanda corredata di *curriculum vitae*, informazioni sull’attività precedente e certificati professionali.
 
 <sup>4</sup>
 
@@ -324,11 +379,9 @@ L’autorizzazione è rilasciata se il richiedente:
 
 #### Art. 24
 
-**Impiego di simulatori di guida**
+[^24-1]
 
-Una parte della formazione periodica può essere impartita in simulatori di guida se questi soddisfano le esigenze dell’ordinanza del 28 settembre 2007[^24-1] sui maestri conducenti.
-
-[^24-1]: [RS 741.522](https://fedlex.data.admin.ch/eli/cc/2007/704)
+[^24-1]: Abrogato dal n. I dell’O del 10 dic. 2021, con effetto dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 ## Sezione 6: Disposizione penale
 
@@ -356,46 +409,35 @@ I Cantoni:
 
 <sup>2</sup> Possono delegare a terzi l’adempimento di questi compiti.
 
-<sup>3</sup> L’USTRA può emanare istruzioni per l’esecuzione della presente ordinanza. Per evitare casi di rigore può autorizzare deroghe a singole disposizioni.
+<sup>3</sup> L’USTRA può emanare istruzioni per l’esecuzione della presente ordinanza. Per evitare casi di rigore può autorizzare deroghe generali e astratte a singole disposizioni.[^26-1]
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 27
 
-**Disposizioni transitorie**
+[^27-1]
 
-<sup>1</sup> e <sup>2</sup> …[^27-1]
-
-<sup>3</sup> Le persone che hanno ottenuto prima del 1° settembre 2009 la licenza di condurre della categoria C o D o della sottocategoria C1 o D1 possono far computare i corsi professionali di formazione periodica che hanno frequentato a partire dal 1° gennaio 2007 nella formazione periodica giusta gli articoli 16–20, purché possano produrre un documento comprovante che la formazione periodica seguita comprendeva i temi di cui all’allegato.
-
-<sup>4</sup> Le autorità d’ammissione possono rilasciare alle imprese che vogliono essere riconosciute come centri di formazione periodica un’autorizzazione provvisoria a organizzare corsi di formazione periodica, se a quel momento sono riconosciute come organizzatori di corsi nel quadro della formazione minima per l’ottenimento di una licenza di condurre della categoria C o D (art. 6 cpv. 3<sup>bis</sup> e art. 8 cpv. 2<sup>bis</sup> OAC[^27-2]) e rendono verosimile che adempiono le condizioni di cui all’articolo 21. L’autorizzazione provvisoria è valida sino al riconoscimento ordinario quale centro di formazione periodica, ma al massimo per due anni. A partire dal 1° settembre 2011 non possono più essere rilasciate autorizzazioni provvisorie.
-
-[^27-1]: Abrogati dal n. I dell’O del 22 ott. 2008, con effetto dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^27-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^27-1]: Abrogato dal n. I dell’O del 10 dic. 2021, con effetto dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 27a
 
 **Disposizioni transitorie concernenti la modifica del 22 ottobre 2008**[^27a-1]
 
-<sup>1</sup>
+<sup>1</sup> Alle persone che hanno ottenuto la licenza di condurre della categoria C o della sottocategoria C1 prima del 1° settembre 2009 e comprovano di aver frequentato la formazione periodica secondo gli articoli 16‒20 viene rilasciato, su domanda e senza ulteriore esame, il certificato di capacità per il trasporto di merci con una validità di cinque anni.[^27a-2]
 
-Le persone che hanno ottenuto la licenza di condurre della categoria C o della sottocategoria C1 prima del 1° settembre 2009, necessitano del certificato di capacità per il trasporto di merci solo dal 1° settembre 2014. Se viene comprovata la frequenza della formazione periodica giusta gli articoli 16–20, il certificato di capacità viene rilasciato su domanda e senza che occorra sostenere un esame:
+<sup>2</sup> ...[^27a-3]
 
-- a. con validità fino al 31 agosto 2019 per le domande inoltrate prima del 1° settembre 2014;
-- b. con una validità di cinque anni per le domande inoltrate dal 1° settembre 2014.
-
-<sup>2</sup> Le persone che hanno presentato domanda per una licenza per allievo conducente o una licenza di condurre della categoria C o della sottocategoria C1 prima del 1° settembre 2009 sostengono l’esame di conducente secondo il diritto previgente. Alle persone che hanno superato l’esame di conducente il certificato di capacità è rilasciato senza che debbano sostenere un ulteriore esame. La validità di tale certificato è limitata a cinque anni.
-
-<sup>3</sup>
-
-Le persone che hanno ottenuto la licenza di condurre della categoria D o della sottocategoria D1 prima del 1° settembre 2008, necessitano del certificato di capacità per il trasporto di persone solo dal 1° settembre 2013. Se viene comprovata la frequenza della formazione periodica giusta gli articoli 16–20, il certificato di capacità viene rilasciato su domanda e senza che occorra sostenere un esame:
-
-- a. con validità fino al 31 agosto 2018 per le domande inoltrate prima del 1° settembre 2013;
-- b. con una validità di cinque anni per le domande inoltrate dal 1° settembre 2013.
+<sup>3</sup> Alle persone che hanno ottenuto la licenza di condurre della categoria D o della sottocategoria D1 prima del 1° settembre 2008 e comprovano di aver frequentato la formazione periodica secondo gli articoli 16‒20 viene rilasciato, su domanda e senza ulteriore esame, il certificato di capacità per il trasporto di persone con una validità di cinque anni.[^27a-4]
 
 <sup>4</sup> Alle persone che hanno ottenuto la licenza di condurre della categoria D o della sottocategoria D1 nel periodo dal 1° settembre 2008 al 31 agosto 2009, è rilasciato un certificato di capacità per il trasporto di persone senza che debbano sostenere un ulteriore esame. La validità di tale certificato è limitata a cinque anni.
 
-<sup>5</sup> Le persone che hanno presentato domanda per una licenza per allievo conducente o una licenza di condurre della categoria D o della sottocategoria D1 prima del 1° settembre 2009 sostengono l’esame di conducente secondo il diritto previgente. Alle persone che hanno superato l’esame di conducente è rilasciato il certificato di capacità senza che debbano sostenere un ulteriore esame. La validità di tale certificato è limitata a cinque anni.
+<sup>5</sup> ...[^27a-5]
 
 [^27a-1]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° set. 2009 ([RU 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770), [2009 723](https://fedlex.data.admin.ch/eli/oc/2009/123)).
+[^27a-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^27a-3]: Abrogata dal n. I dell’O del 10 dic. 2021, con effetto dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^27a-4]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^27a-5]: Abrogata dal n. I dell’O del 10 dic. 2021, con effetto dal 1° mar. 2022 ([RU 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 28
 

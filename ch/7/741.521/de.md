@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Juni 2007 über die Zulassung von Fahrzeugführern un
 short: CZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/437"
 language: de
-version: 2009-09-01
+version: 2022-03-01
 adopted: 2007-06-15
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20090901/de/xml/fedlex-data-admin-ch-eli-cc-2007-437-20090901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20090901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/437/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2007-437-20220301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20220301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/437/20090901/de"
 
 (Chauffeurzulassungsverordnung, CZV)
 
-vom 15. Juni 2007 (Stand am 1. September 2009)
+vom 15. Juni 2007 (Stand am 1. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -43,7 +43,9 @@ Diese Verordnung regelt die Zulassung von Fahrzeugführern und Fahrzeugführerin
 
 <sup>2</sup> Wer mit Motorwagen der Kategorie C oder der Unterkategorie C1 Gütertransporte durchführen will, benötigt den Fähigkeitsausweis für den Gütertransport.
 
-<sup>3</sup> Fahrzeugführer und Fahrzeugführerinnen mit Wohnsitz im Ausland benötigen einen schweizerischen Fähigkeitsausweis, wenn sie von einem in der Schweiz niedergelassenen Unternehmen beschäftigt werden.
+<sup>3</sup> Fahrzeugführer und Fahrzeugführerinnen mit Wohnsitz ausserhalb eines Mitgliedstaates der Europäischen Union oder der Europäischen Freihandelsassoziation benötigen einen schweizerischen Fähigkeitsausweis, wenn sie von einem in der Schweiz niedergelassenen Unternehmen beschäftigt werden.[^2-1]
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 3
 
@@ -51,38 +53,72 @@ Diese Verordnung regelt die Zulassung von Fahrzeugführern und Fahrzeugführerin
 
 Keinen Fähigkeitsausweis benötigen Führer und Führerinnen von Motorfahrzeugen:
 
-- a. die zu Personen- oder Gütertransporten für private Zwecke verwendet werden;
-- b. mit einer zulässigen Höchstgeschwindigkeit bis 45 km/h;
-- c. die vom Militär, der Polizei, der Feuerwehr, der Zollverwaltung, vom Zivilschutz oder im Auftrag dieser Stellen verwendet werden;
-- d.[^3-1] mit denen zum Zwecke der technischen Entwicklung oder bei Reparatur- oder Wartungsarbeiten Probe- oder Überführungsfahrten durchgeführt werden;
-- d<sup>bis</sup>.[^3-2] die neu oder umgebaut noch nicht in Verkehr stehen;
-- e. die in Notfällen oder für Rettungsmassnahmen eingesetzt werden;
-- f. die auf Lern-, Übungs- oder Prüfungsfahrten, auf der Fahrt zur amtlichen Fahrzeugprüfung oder im Rahmen der amtlichen Fahrzeugprüfung eingesetzt werden;
-- g. zum Transport von Material oder Ausrüstung, die der Fahrzeugführer oder die Fahrzeugführerin zur Berufsausübung verwendet, sofern das Führen des Fahrzeugs im Durchschnitt einer Woche höchstens die Hälfte der Arbeitszeit in Anspruch nimmt;
-- h. die ausschliesslich im werkinternen Verkehr eingesetzt werden und auf öffentlichen Strassen nur mit behördlicher Bewilligung benützt werden dürfen.
+- a.[^3-1]
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^3-2]: Eingefügt gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+  die zu nicht gewerblichen Personen- oder Gütertransporten verwendet werden; als nicht gewerblicher Transport gilt jeder Transport im Strassenverkehr:
+
+  - 1\. der weder direkt noch indirekt entlohnt wird,
+  - 2\. durch den weder direkt noch indirekt ein Einkommen für den Führer oder die Führerin des Fahrzeugs oder für Dritte erzielt wird, und
+  - 3\. der nicht im Zusammenhang mit einer beruflichen oder gewerblichen Tätigkeit steht;
+
+- b. mit einer zulässigen Höchstgeschwindigkeit bis 45 km/h;
+- c.[^3-2] die vom Militär, von der Polizei, der Feuerwehr, des Bundesamts für Zoll und Grenzsicherheit[^3-3], vom Zivilschutz, von Kranken- und Verletztentransportdienstleistern oder im Auftrag dieser Stellen verwendet werden;
+- d.[^3-4] mit denen zum Zwecke der technischen Entwicklung oder bei Reparatur- oder Wartungsarbeiten Probe- oder Überführungsfahrten durchgeführt werden;
+- d<sup>bis</sup>.[^3-5] die neu oder umgebaut noch nicht in Verkehr stehen;
+- e.[^3-6] die in Notfällen, für Rettungsmassnahmen oder für nicht gewerbliche Transporte nach Buchstabe a für humanitäre Hilfe eingesetzt werden;
+- f.[^3-7] die auf Lern- oder Prüfungsfahrten für gewerbliche Gütertransporte verwendet werden, sofern die Begleitperson im Besitz eines gültigen Fähigkeitsausweises oder einer gültigen Fahrlehrerbewilligung der entsprechenden Kategorie ist;
+- f<sup>bis</sup>.[^3-8] die auf der Fahrt zur amtlichen Fahrzeugprüfung oder im Rahmen der amtlichen Fahrzeugprüfung für gewerbliche Personen- oder Gütertransporte verwendet werden;
+- g.[^3-9] zum Transport von Material, Ausrüstung oder Maschinen, die der Fahrzeugführer oder die Fahrzeugführerin zur Berufsausübung verwendet, sofern das Führen des Fahrzeugs im Durchschnitt einer Woche höchstens die Hälfte seiner oder ihrer Arbeitszeit in Anspruch nimmt;
+- h. die ausschliesslich im werkinternen Verkehr eingesetzt werden und auf öffentlichen Strassen nur mit behördlicher Bewilligung benützt werden dürfen;
+- i.[^3-10]
+
+  die von Land- oder Forstwirtschaftsbetrieben und ihnen gemäss Artikel 86 Absatz 2 der Verkehrsregelnverordnung vom 13. November 1962[^3-11] (VRV) gleichgestellten Betrieben zum Gütertransport verwendet werden, sofern:
+
+  - 1\. es sich um eine Fahrt im Zusammenhang mit der Bewirtschaftung ihres Betriebs nach Artikel 87 Absätze 1 und 2 VRV handelt,
+  - 2\. die Fahrt innerhalb eines Umkreises von 20 km um den Standort des Betriebs stattfindet, und
+  - 3\. das Führen des Fahrzeugs im Durchschnitt einer Woche höchstens die Hälfte der Arbeitszeit des Fahrzeugführers oder der Fahrzeugführerin in Anspruch nimmt.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^3-5]: Eingefügt gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^3-6]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-7]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-8]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-9]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-10]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^3-11]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 
 #### Art. 4
 
 **Fahrten während der Berufsausbildung**
 
-<sup>1</sup> Im Binnenverkehr dürfen während höchstens eines Jahres Personen- oder Gütertransporte ohne Fähigkeitsausweis durchgeführt werden, wenn der Fahrzeugführer oder die Fahrzeugführerin den Führerausweis für das verwendete Fahrzeug besitzt und sich in dieser Zeit im Rahmen einer Berufsausbildung die Kenntnisse und Fähigkeiten nach dem Anhang aneignet. Personen, die sich in der Lastwagenführerlehre befinden, können Gütertransporte während der gesamten Ausbildungszeit ohne Fähigkeitsausweis durchführen.[^4-1]
+<sup>1</sup> Im Binnenverkehr dürfen während höchstens eines Jahres Personen- oder Gütertransporte ohne Fähigkeitsausweis durchgeführt werden, wenn der Fahrzeugführer oder die Fahrzeugführerin den Führerausweis für das verwendete Fahrzeug besitzt und sich in dieser Zeit im Rahmen einer Berufsausbildung die Handlungskompetenzen, Kenntnisse und Fähigkeiten nach dem Anhang aneignet. Personen, die sich in der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ» befinden, können Gütertransporte während der gesamten Ausbildungszeit ohne Fähigkeitsausweis durchführen.[^4-1]
 
 <sup>2</sup> Ausbildungsprogramme, die nicht eidgenössisch anerkannt sind, sind durch den Standortkanton genehmigen zu lassen.
 
-<sup>3</sup> Auf den Fahrten ist eine Kopie des Lehrvertrages oder eines anderen Dokuments mitzuführen, mit dem der Arbeitgeber bestätigt, dass sich die betreffende Person in einer Berufsausbildung nach Absatz 1 befindet.
+<sup>3</sup>
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+Auf den Fahrten ist mitzuführen:
+
+- a. von Fahrzeugführern oder Fahrzeugführerinnen in der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ»: eine Kopie des Lehrvertrags;
+- b. von Fahrzeugführern und Fahrzeugführerinnen, die ein Ausbildungsprogramm nach Absatz 2 absolvieren: eine Bestätigung der Ausbildungsstätte.[^4-2]
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 5
 
-**Fahrzeugführer und Fahrzeugführerinnen aus der EG und der EFTA**
+**Fahrzeugführer und Fahrzeugführerinnen aus der Europäischen Union und der Europäischen Freihandelsassoziation**[^5-1]
 
-Fahrzeugführer und Fahrzeugführerinnen mit Wohnsitz in einem Mitgliedstaat der Europäischen Gemeinschaft oder der Europäischen Freihandelsassoziation und Fahrzeugführer und Fahrzeugführerinnen, die von einem in der Europäischen Gemeinschaft oder der Europäischen Freihandelsassoziation niedergelassenen Unternehmen beschäftigt werden, benötigen den Befähigungsnachweis nach der Richtlinie 2003/59/EG[^5-1].
+Den Befähigungsnachweis nach der Richtlinie 2003/59/EG[^5-2] benötigen:
 
-[^5-1]: Richtlinie 2003/59/EG des Europäischen Parlaments und des Rates vom 15. Juli 2003 über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr und zur Änderung der Verordnung (EWG) Nr. 3820/85 des Rates und der Richtlinie 91/439/EWG des Rates sowie zur Aufhebung der Richtlinie 76/914/EWG des Rates, ABl. L 226 vom 10.9.2003, S. 4, zuletzt geändert durch die Richtlinie 2006/103/EG (ABl. L 363 vom 20.12.2006, S. 344).
+- a. Fahrzeugführer und Fahrzeugführerinnen mit Wohnsitz in einem Mitgliedstaat der Europäischen Union oder der Europäischen Freihandelsassoziation;
+- b. Fahrzeugführer und Fahrzeugführerinnen, die von einem in der Europäischen Union oder der Europäischen Freihandelsassoziation niedergelassenen Unternehmen beschäftigt werden.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^5-2]: Richtlinie 2003/59/EG des Europäischen Parlaments und des Rates vom 15. Juli 2003 über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr und zur Änderung der Verordnung (EWG) Nr. 3820/85 des Rates und der Richtlinie 91/439/EWG des Rates sowie zur Aufhebung der Richtlinie 76/914/EWG des Rates, ABl. L 226 vom 10.9.2003, S. 4; zuletzt geändert durch Richtlinie (EU) 2018/645, ABl. L 112 vom 2.5.2018, S. 29.
 
 ## 2. Abschnitt: Fähigkeitsausweise
 
@@ -96,21 +132,30 @@ Fahrzeugführer und Fahrzeugführerinnen mit Wohnsitz in einem Mitgliedstaat der
 
 Der Fähigkeitsausweis für den Gütertransport wird Personen erteilt, die:
 
-- a. das Eidgenössische Fähigkeitszeugnis «Lastwagenführer/Lastwagenführerin» besitzen; oder
+- a.[^6-1] das Eidgenössische Fähigkeitszeugnis «Lastwagenführer/Lastwagenführerin» oder «Strassentransportfachfrau/Strassentransportfachmann EFZ» besitzen; oder
 - b. den Führerausweis der Kategorie C oder der Unterkategorie C1 besitzen und die Theorieprüfung und die praktische Prüfung nach den Artikeln 10–15 bestanden haben.
 
 <sup>3</sup> Bei Inhabern und Inhaberinnen eines Führerausweises der Unterkategorie D1, die den Fähigkeitsausweis für den Personentransport besitzen, gilt nach bestandener Führerprüfung für die Kategorie D der Fähigkeitsausweis ohne weitere Prüfung auch für diese Kategorie.
 
 <sup>4</sup> Bei Inhabern und Inhaberinnen eines Führerausweises der Unterkategorie C1, die den Fähigkeitsausweis für den Gütertransport besitzen, gilt nach bestandener Führerprüfung für die Kategorie C der Fähigkeitsausweis ohne weitere Prüfung auch für diese Kategorie.
 
+[^6-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+
 #### Art. 7
 
-**Fahrzeugführer und Fahrzeugführerinnen aus dem Ausland**
+**Fahrzeugführer und Fahrzeugführerinnen aus dem Ausland**[^7-1]
 
-Fahrzeugführern und Fahrzeugführerinnen aus dem Ausland, die in der Schweiz Wohnsitz nehmen oder von einem in der Schweiz niedergelassenen Unternehmen beschäftigt werden, wird der jeweilige Fähigkeitsausweis ohne Prüfung erteilt, wenn:
+<sup>1</sup>
 
-- a. eine entsprechende Berechtigung im ausländischen Führerausweis eingetragen oder mit dem Fahrerqualifizierungsnachweis nach Anhang II der Richtlinie 2003/59/EG dokumentiert ist; oder
+Fahrzeugführern und Fahrzeugführerinnen aus dem Ausland, die in der Schweiz Wohnsitz nehmen, wird der Fähigkeitsausweis ohne Prüfung erteilt, wenn:
+
+- a. eine entsprechende Berechtigung im ausländischen Führerausweis eingetragen oder mit dem Fahrerqualifizierungsnachweis nach Anhang II der Richtlinie 2003/59/EG[^7-2] dokumentiert ist; oder
 - b. sie eine nationale Bescheinigung besitzen, die das Bundesamt für Strassen (ASTRA) als gleichwertig anerkennt.
+
+<sup>2</sup> Fahrzeugführer und Fahrzeugführerinnen mit Wohnsitz ausserhalb eines Mitgliedstaates der Europäischen Union oder der Europäischen Freihandelsassoziation, die von einem in der Schweiz niedergelassenen Unternehmen beschäftigt werden, wird der Fähigkeitsausweis ohne Prüfung erteilt, wenn sie die Voraussetzungen nach Absatz 1 Buchstabe a oder b erfüllen.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^7-2]: Siehe Fussnote zu Art. 5.
 
 #### Art. 8
 
@@ -129,20 +174,24 @@ Die Fähigkeitsausweise werden erteilt:
 
 <sup>2</sup> Er wird um jeweils fünf Jahre verlängert, wenn der Inhaber oder die Inhaberin den Besuch der Weiterbildung nach den Artikeln 16–20 nachweist.
 
+<sup>2bis</sup> Personen, die bereits im Besitz des Fähigkeitsausweises für den Personentransport oder des Fähigkeitsausweises für den Gütertransport sind und die zweite Kategorie mittels einer Prüfung nach Artikel 13 Absatz 1 oder 2 erwerben, wird ein Fähigkeitsausweis für den Personen- und den Gütertransport erteilt. Dieser ist ab dem Prüfungsdatum des Erwerbs der zweiten Kategorie fünf Jahre gültig. Weiterbildungskurse, die vor diesem Prüfungsdatum besucht worden sind, dürfen nicht an diese Weiterbildungsperiode angerechnet werden.[^9-2]
+
 <sup>3</sup>
 
 Die Erteilung des Fähigkeitsausweises erfolgt unter Angabe der Gültigkeitsdauer mittels:
 
-- a. Eintrag als Zusatzangabe im Führerausweis (Art. 24*c* Bst. e der Verkehrszulassungsverordnung vom 27. Okt. 1976[^9-2], VZV); oder
-- b. Ausstellung einer separaten Karte nach dem Modell des Fahrerqualifizierungsnachweises nach Anhang II der Richtlinie 2003/59/EG[^9-3].[^9-4]
+- a. Eintrag als Zusatzangabe im Führerausweis (Art. 24*c* Bst. e der Verkehrszulassungsverordnung vom 27. Okt. 1976[^9-3], VZV); oder
+- b.[^9-4] Ausstellung einer separaten Karte nach dem Modell des Fahrerqualifizierungsnachweises nach Anhang II der Richtlinie 2003/59/EG[^9-5].[^9-6]
 
-<sup>4</sup> Die Angaben auf der separaten Karte müssen mit denjenigen auf dem zugrunde liegenden Führerausweis übereinstimmen. Bei einem allfälligen Ersatz des Führerausweises muss eine neue Karte beantragt werden.[^9-5]
+<sup>4</sup> Die Angaben auf der separaten Karte müssen mit denjenigen auf dem zugrunde liegenden Führerausweis übereinstimmen. Bei einem allfälligen Ersatz des Führerausweises muss eine neue Karte beantragt werden.[^9-7]
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^9-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^9-3]: Richtlinie 2003/59/EG des Europäischen Parlaments und des Rates vom 15. Juli 2003 über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr und zur Änderung der Verordnung (EWG) Nr. 3820/85 des Rates und der Richtlinie 91/439/EWG des Rates sowie zur Aufhebung der Richtlinie 76/914/EWG des Rates (ABl. L 226 vom 10.9.2003, S. 4*)*
-[^9-4]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^9-5]: Eingefügt gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^9-2]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^9-3]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^9-4]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^9-5]: Siehe Fussnote zu Art. 5.
+[^9-6]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^9-7]: Eingefügt gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
 
 ## 3. Abschnitt: Prüfungen
 
@@ -176,13 +225,15 @@ Die Theorieprüfung beinhaltet:
 - a. Multiple-choice-Fragen, Fragen mit direkter Antwort oder eine Kombination beider Systeme; und
 - b. eine Erörterung von Praxissituationen.
 
-<sup>2</sup> Die Bewerber und Bewerberinnen um einen Fähigkeitsausweis für den Personentransport oder einen Fähigkeitsausweis für den Gütertransport müssen mindestens eine Frage zu jedem der nach dem Anhang für alle Kategorien und Unterkategorien erforderlichen Kenntnisbereiche beantworten, ausgenommen Ziffer 1.3.
+<sup>2</sup> Die Bewerber und Bewerberinnen um einen Fähigkeitsausweis für den Personentransport oder einen Fähigkeitsausweis für den Gütertransport müssen mindestens eine Frage zu jedem der nach dem Anhang für alle Kategorien und Unterkategorien erforderlichen Kenntnisbereiche beantworten, ausgenommen Ziffer 2.113.[^12-1]
 
 <sup>3</sup> Die Bewerber und Bewerberinnen um den Fähigkeitsausweis für den Personentransport müssen zusätzlich mindestens eine Frage zu jedem der nach dem Anhang für die Kategorie D und die Unterkategorie D1 erforderlichen Kenntnisbereiche beantworten.
 
 <sup>4</sup> Die Bewerber und Bewerberinnen um den Fähigkeitsausweis für den Gütertransport müssen zusätzlich mindestens eine Frage zu jedem der nach dem Anhang für die Kategorie C und die Unterkategorie C1 erforderlichen Kenntnisbereiche beantworten.
 
 <sup>5</sup> Die Theorieprüfung dauert mindestens vier Stunden. Die Prüfung der Zusatztheorie für den Erwerb des Führerausweises der Kategorie C oder D oder der Unterkategorie C1 oder D1 gilt als Teil der Theorieprüfung; ihre Dauer ist an die vier Stunden anzurechnen.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 13
 
@@ -202,11 +253,12 @@ Die Theorieprüfung beinhaltet:
 
 <sup>1</sup> Die praktische Prüfung besteht aus einem allgemeinen Teil und einer Prüfungsfahrt.
 
-<sup>2</sup> Der allgemeine Teil muss von allen Bewerbern und Bewerberinnen um einen Fähigkeitsausweis absolviert werden. Er muss sich mindestens auf die Ziffern 1.4, 1.5, 1.6, 3.2, 3.3 und 3.5 des Anhangs erstrecken und dauert mindestens 30 Minuten. Es ist ein Fahrzeug der Kategorie oder Unterkategorie, mit der die Personen- oder Gütertransporte durchgeführt werden sollen, zu verwenden.
+<sup>2</sup> Der allgemeine Teil muss von allen Bewerbern und Bewerberinnen um einen Fähigkeitsausweis absolviert werden. Er muss sich mindestens auf die Ziffern 2.121, 2.141, 2.142, 2.312, 2.313 und 2.315 des Anhangs erstrecken und dauert mindestens 30 Minuten. Es ist ein Fahrzeug der Kategorie oder Unterkategorie, mit der die Personen- oder Gütertransporte durchgeführt werden sollen, zu verwenden.[^14-1]
 
-<sup>3</sup> Die Prüfungsfahrt muss von Inhabern und Inhaberinnen des Führerausweises der Unterkategorie C1 oder D1 absolviert werden. Auf der Prüfungsfahrt wird festgestellt, ob sie sowohl zu einer rücksichtsvollen und sicherheitsbewussten als auch zu einer umweltschonenden und energieeffizienten Fahrweise fähig sind. Die Prüfungsfahrt muss mindestens 30 Minuten dauern. Es ist ein Motorfahrzeug zu verwenden, das die Anforderungen an ein Prüfungsfahrzeug der entsprechenden Unterkategorie (Anhang 12 Ziff. V VZV[^14-1]) erfüllt.
+<sup>3</sup> Die Prüfungsfahrt muss von Inhabern und Inhaberinnen des Führerausweises der Unterkategorie C1 oder D1 absolviert werden. Auf der Prüfungsfahrt wird festgestellt, ob sie sowohl zu einer rücksichtsvollen und sicherheitsbewussten als auch zu einer umweltschonenden und energieeffizienten Fahrweise fähig sind. Die Prüfungsfahrt muss mindestens 30 Minuten dauern. Es ist ein Motorfahrzeug zu verwenden, das die Anforderungen an ein Prüfungsfahrzeug der entsprechenden Unterkategorie (Anhang 12 Ziff. V VZV[^14-2]) erfüllt.
 
-[^14-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^14-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^14-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 14<sup>bis</sup>
 
@@ -220,11 +272,12 @@ Der Teil der Theorieprüfung nach Artikel 12 Absatz 1 Buchstabe b und der allgem
 
 **Wiederholung**
 
-<sup>1</sup> Wer die Theorieprüfung oder den allgemeinen Teil der praktischen Prüfung (Art. 14 Abs. 2) nicht besteht, kann die nicht bestandenen Teile zweimal wiederholen.
+<sup>1</sup> Wer die Theorieprüfung oder den allgemeinen Teil der praktischen Prüfung (Art. 14 Abs. 2) nicht besteht, kann die nicht bestandenen Teile beliebig oft wiederholen. [^15-1]
 
-<sup>2</sup> Die Wiederholung der Prüfungsfahrt (Art. 14 Abs. 3) richtet sich nach Artikel 23 VZV[^15-1].
+<sup>2</sup> Die Wiederholung der Prüfungsfahrt (Art. 14 Abs. 3) richtet sich nach Artikel 23 VZV[^15-2].
 
-[^15-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^15-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^15-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 ## 4. Abschnitt: Weiterbildung
 
@@ -240,24 +293,23 @@ Der Teil der Theorieprüfung nach Artikel 12 Absatz 1 Buchstabe b und der allgem
 
 #### Art. 17
 
-**Ziel und Inhalt**
+**Ziel und Durchführung**[^17-1]
 
-<sup>1</sup> Mit dem Besuch der Weiterbildung sollen die zur Durchführung von Personen- oder Gütertransporten erforderlichen Kenntnisse und Fähigkeiten nach dem Anhang auf dem neuesten Stand gehalten werden.
+<sup>1</sup> Mit dem Besuch der Weiterbildung sollen die zur Durchführung von Personen- oder Gütertransporten erforderlichen Kenntnisse und Fähigkeiten nach dem Anhang Ziffer 2 auf dem neuesten Stand gehalten und damit die Handlungskompetenzen nach dem Anhang Ziffer 1 optimiert werden.
 
-<sup>2</sup>
+<sup>2</sup> Die Durchführung der Weiterbildung ist im Anhang Ziffer 3 geregelt.
 
-Die Weiterbildung hat aus theoretischen und praktischen Lerninhalten zu bestehen. Zu vermitteln sind Themen, die:
-
-- a. für alle Fahrer und Fahrerinnen gelten, wobei verkehrssicherheitsrelevante Themen und Strategien für eine umweltverträgliche und energieeffiziente Verwendung des Fahrzeugs vorrangig zu vermitteln sind; und
-- b. auf das Branchenprofil des betreffenden Fahrers oder der betreffenden Fahrerin zugeschnitten sind.
+[^17-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 18
 
-**Dauer**
+**Dauer und Aufbau[^18-1]**
 
 <sup>1</sup> Wer den Fähigkeitsausweis für den Personentransport oder den Fähigkeitsausweis für den Gütertransport oder beide besitzt, muss für deren Verlängerung den Besuch von 35 Stunden Weiterbildung nachweisen.
 
 <sup>2</sup> Die Weiterbildung kann als Wochenkurs oder in Tageskursen besucht werden. Ein Kurstag muss mindestens 7 Stunden dauern.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 19
 
@@ -272,7 +324,10 @@ Die Weiterbildungsstätten haben den Teilnehmern und Teilnehmerinnen den Kursbes
 Ausländische Bescheinigungen über den Besuch einer Weiterbildung werden als gleichwertig anerkannt, wenn:
 
 - a. die Weiterbildung ganz oder teilweise während der Beschäftigung bei einem im Ausland niedergelassenen Unternehmen besucht wurde; und
-- b. die Kursveranstalterin in einem Mitgliedstaat der Europäischen Gemeinschaft oder der Europäischen Freihandelsassoziation als Anbieterin von Weiterbildungskursen nach Anhang I Abschnitt 5 der Richtlinie 2003/59/EG zugelassen ist.
+- b.[^20-1] die Kursveranstalterin in einem Mitgliedstaat der Europäischen Union oder der Europäischen Freihandelsassoziation als Anbieterin von Weiterbildungskursen nach Anhang I Abschnitt 5 der Richtlinie 2003/59/EG[^20-2] zugelassen ist.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^20-2]: Siehe Fussnote zu Art. 5.
 
 ## 5. Abschnitt: Weiterbildungsstätten
 
@@ -325,11 +380,9 @@ Die Bewilligung wird erteilt, wenn der Gesuchsteller oder die Gesuchstellerin:
 
 #### Art. 24
 
-**Verwendung von Fahrsimulatoren**
+[^24-1]
 
-Ein Teil der Weiterbildung kann in Fahrsimulatoren vermittelt werden, wenn diese die Anforderungen der Fahrlehrerverordnung vom 28. September 2007[^24-1] erfüllen.
-
-[^24-1]: [SR 741.522](https://fedlex.data.admin.ch/eli/cc/2007/704)
+[^24-1]: Aufgehoben durch Ziff. I der V vom 10. Dez. 2021, mit Wirkung seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 ## 6. Abschnitt: Strafbestimmung
 
@@ -357,46 +410,35 @@ Die Kantone:
 
 <sup>2</sup> Sie können die Erfüllung dieser Aufgaben Dritten übertragen.
 
-<sup>3</sup> Das ASTRA kann für die Durchführung dieser Verordnung Weisungen erlassen. Zur Vermeidung von Härtefällen kann es Ausnahmen von einzelnen Bestimmungen bewilligen.
+<sup>3</sup> Das ASTRA kann für die Durchführung dieser Verordnung Weisungen erlassen. Zur Vermeidung von Härtefällen kann es generelle, abstrakte Ausnahmen von einzelnen Bestimmungen bewilligen.[^26-1]
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 27
 
-**Übergangsbestimmungen**
+[^27-1]
 
-<sup>1</sup> und <sup>2</sup> …[^27-1]
-
-<sup>3</sup> Personen, die vor dem 1. September 2009 im Besitz des Führerausweises der Kategorie C oder D oder der Unterkategorie C1 oder D1 sind, können sich die berufsbezogenen Weiterbildungskurse, die sie ab dem 1. Januar 2007 besucht haben, an die Weiterbildung nach den Artikeln 16–20 anrechnen lassen, wenn sie schriftlich dokumentieren können, dass die besuchte Weiterbildung Themen nach dem Anhang beinhaltet.
-
-<sup>4</sup> Die Zulassungsbehörden können Unternehmen, die als Weiterbildungsstätte anerkannt werden wollen, eine provisorische Bewilligung zur Durchführung von Weiterbildungskursen erteilen, wenn sie bisher im Rahmen der Mindestausbildung zum Erwerb eines Führerausweises der Kategorie C oder D als Kursveranstalterinnen anerkannt sind (Art. 6 Abs. 3<sup>bis</sup> und Art. 8 Abs. 2<sup>bis</sup> VZV[^27-2]) und glaubhaft machen, dass sie die Voraussetzungen von Artikel 21 erfüllen. Die provisorische Bewilligung gilt bis zur ordentlichen Anerkennung als Weiterbildungsstätte, längstens aber für zwei Jahre. Ab dem 1. September 2011 dürfen keine provisorischen Bewilligungen mehr erteilt werden.
-
-[^27-1]: Aufgehoben durch Ziff. I der V vom 22. Okt. 2008, mit Wirkung seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
-[^27-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^27-1]: Aufgehoben durch Ziff. I der V vom 10. Dez. 2021, mit Wirkung seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 27a
 
 **Übergangsbestimmungen zur Änderung vom 22. Oktober 2008**[^27a-1]
 
-<sup>1</sup>
+<sup>1</sup> Personen, die den Führerausweis der Kategorie C oder der Unterkategorie C1 vor dem 1. September 2009 erworben haben und die Weiterbildung nach den Artikeln 16‒20 nachweisen, wird der Fähigkeitsausweis für den Gütertransport auf Gesuch hin ohne weitere Prüfung mit fünfjähriger Befristung erteilt.[^27a-2]
 
-Personen, die den Führerausweis der Kategorie C oder der Unterkategorie C1 vor dem 1. September 2009 erworben haben, benötigen den Fähigkeitsausweis für den Gütertransport erst ab dem 1. September 2014. Ist die Weiterbildung nach den Artikeln 16–20 nachgewiesen, so wird der Fähigkeitsausweis auf Gesuch hin ohne weitere Prüfung erteilt:
+<sup>2</sup> ...[^27a-3]
 
-- a. bei Gesuchen vor dem 1. September 2014 mit einer Befristung bis zum 31. August 2019;
-- b. bei Gesuchen ab dem 1. September 2014 mit fünfjähriger Befristung.
-
-<sup>2</sup> Personen, die das Gesuch um den Lernfahrausweis oder Führerausweis der Kategorie C oder der Unterkategorie C1 vor dem 1. September 2009 gestellt haben, legen die Führerprüfung nach dem bisherigen Recht ab. Nach bestandener Führerprüfung wird der Fähigkeitsausweis ohne weitere Prüfung mit fünfjähriger Befristung erteilt.
-
-<sup>3</sup>
-
-Personen, die den Führerausweis der Kategorie D oder der Unterkategorie D1 vor dem 1. September 2008 erworben haben, benötigen den Fähigkeitsausweis für den Personentransport erst ab dem 1. September 2013. Ist die Weiterbildung nach den Artikeln 16–20 nachgewiesen, so wird der Fähigkeitsausweis auf Gesuch hin ohne weitere Prüfung erteilt:
-
-- a. bei Gesuchen vor dem 1. September 2013 mit Befristung bis zum 31. August 2018;
-- b. bei Gesuchen ab dem 1. September 2013 mit fünfjähriger Befristung.
+<sup>3</sup> Personen, die den Führerausweis der Kategorie D oder der Unterkategorie D1 vor dem 1. September 2008 erworben haben und die Weiterbildung nach den Artikeln 16‒20 nachweisen, wird der Fähigkeitsausweis für den Personentransport auf Gesuch hin ohne weitere Prüfung mit fünfjähriger Befristung erteilt.[^27a-4]
 
 <sup>4</sup> Personen, die den Führerausweis der Kategorie D oder der Unterkategorie D1 in der Zeit vom 1. September 2008 bis zum 31. August 2009 erworben haben, wird der Fähigkeitsausweis für den Personentransport ohne weitere Prüfung mit fünfjähriger Befristung erteilt.
 
-<sup>5</sup> Personen, die das Gesuch um den Lernfahrausweis oder Führerausweis der Kategorie D oder der Unterkategorie D1 vor dem 1. September 2009 gestellt haben, legen die Führerprüfung nach dem bisherigen Recht ab. Nach bestandener Führerprüfung wird der Fähigkeitsausweis ohne weitere Prüfung mit fünfjähriger Befristung erteilt.
+<sup>5</sup> ...[^27a-5]
 
 [^27a-1]: Eingefügt gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Sept. 2009 ([AS 2008 5571](https://fedlex.data.admin.ch/eli/oc/2008/770)).
+[^27a-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^27a-3]: Aufgehoben durch Ziff. I der V vom 10. Dez. 2021, mit Wirkung seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^27a-4]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
+[^27a-5]: Aufgehoben durch Ziff. I der V vom 10. Dez. 2021, mit Wirkung seit 1. März 2022 ([AS 2021 893](https://fedlex.data.admin.ch/eli/oc/2021/893)).
 
 #### Art. 28
 
