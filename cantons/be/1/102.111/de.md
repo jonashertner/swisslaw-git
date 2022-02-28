@@ -1,35 +1,35 @@
 ---
 canton: BE
 number: "102.111"
-title: Verordnung über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel
+title: Verordnung über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne
 short: "Sonderstatutsverordnung, SStV"
 language: de
-version: 2021-07-01
-valid_until: 2022-02-28
-version_adopted: 2021-04-07
+version: 2022-03-01
+valid_until: 2025-12-31
+version_adopted: 2022-02-02
 adopted: 2005-11-02
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2263/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2535/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel
+# Verordnung über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne
 
 (Sonderstatutsverordnung, SStV)
 
-vom 02.11.2005 (Stand 01.07.2021)
+vom 02.11.2005 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 31 Buchstaben f und g, Artikel 33 Absatz 3 und Artikel 68 des Gesetzes vom 3. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel (Sonderstatutsgesetz, SStG)[^ingress-1],
+gestützt auf Artikel 31 Absatz 1 Buchstaben g und h, Artikel 33 Absatz 3 und Artikel 68 des Gesetzes vom 3. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne (Sonderstatutsgesetz, SStG)[^ingress-1],
 
 auf Antrag der Staatskanzlei,
 
 beschliesst:
 
-[^ingress-1]: BSG 102.1
+[^ingress-1]: BSG [102.1](https://www.belex.sites.be.ch/data/102.1/de)
 
 ## 1 Bernjurassischer Rat (BJR)
 
@@ -53,13 +53,13 @@ beschliesst:
 
 <sup>1</sup> Der BJR kann der Staatskanzlei jedes Jahr einen Budgetantrag unterbreiten.
 
-## 2 Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel (RFB)
+## 2 Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB)
 
 #### Art. 4
 
 **Budget**
 
-<sup>1</sup> Der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel (RFB) kann der Staatskanzlei jedes Jahr einen Budgetantrag unterbreiten.
+<sup>1</sup> Der Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne (RFB) kann der Staatskanzlei jedes Jahr einen Budgetantrag unterbreiten.
 
 #### Art. 5
 
@@ -67,13 +67,19 @@ beschliesst:
 
 <sup>1</sup> Die Einwohnergemeinden des Verwaltungskreises Biel/Bienne informieren die Staatskanzlei, wenn sie die Absicht haben, dem RFB Gemeindeaufgaben zuzuweisen.
 
-<sup>2</sup> Die Ausübung der politischen Mitwirkung auf Gemeindeebene (Art. 7 der Versuchsverordnung vom 21. Juni 2017 über die Erweiterung des Wirkungskreises des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel auf den Verwaltungskreis Biel/Bienne [RFB VV][^5-1]) ist eine Gemeindeaufgabe im Sinne von Absatz 1, deren Kosten zu Lasten der betreffenden Gemeinde gehen.
+<sup>2</sup> Die Ausübung der politischen Mitwirkung auf Gemeindeebene (Art. 47 SStG) ist eine Gemeindeaufgabe im Sinne von Absatz 1, deren Kosten zu Lasten der betreffenden Gemeinde gehen.
 
-<sup>3</sup> Der Gemeindebeitrag deckt die Kosten, die dem RFB für die Stellungnahmen, die er im Rahmen kommunaler Vernehmlassungen verfasst, entstehen.
+<sup>3</sup> Der Gemeindebeitrag gemäss Artikel 44 Absatz 1 SStG deckt die Kosten, die dem RFB für die Stellungnahmen, die er im Rahmen kommunaler Vernehmlassungen verfasst, entstehen.
 
 <sup>4</sup> Die Staatskanzlei berechnet einmal pro Jahr den Gemeindebeitrag jeder Gemeinde und stellt ihn ihnen in Rechnung.
 
-[^5-1]: BSG [102.111.20](https://www.belex.sites.be.ch/data/102.111.20/de)
+#### Art. 5a
+
+**Kantonsbeitrag an den Verein seeland.biel/bienne**
+
+<sup>1</sup> Der Kantonsbeitrag gemäss Artikel 35 Absatz 4 SStG an den Verein seeland.biel/bienne beträgt 4000 Franken.
+
+<sup>2</sup> Er wird am Ende der ersten Halbjahres des Wahljahres überwiesen.
 
 ## 3 Staatsbeiträge aus dem Lotteriefonds oder aus dem Sportfonds
 
@@ -91,7 +97,7 @@ beschliesst:
 
 <sup>1</sup> Der BJR führt das Verfahren in Zusammenarbeit mit dem Generalsekretariat der Sicherheitsdirektion, das Anträge stellen kann, durch.
 
-<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Beitrags die Ausgabenbefugnis des BJR, leitet er das Geschäft mit einem allfälligen Antrag an das Generalsekretariat der Sicherheitsdirektion weiter. Das Generalsekretariat der Sicherheitsdirektion erstellt die entsprechende Vorlage für die Sicherheitsdirektion zu Händen der zuständigen Behörde und nimmt zum Antrag des BJR Stellung.
+<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Beitrags die Ausgabenbefugnis des BJR, leitet er das Geschäft mit einem Antrag an das Generalsekretariat der Sicherheitsdirektion weiter. Das Generalsekretariat der Sicherheitsdirektion erstellt die entsprechende Vorlage für die Sicherheitsdirektion zu Händen der zuständigen Behörde und nimmt zum Antrag des BJR Stellung.
 
 <sup>3</sup> Die Ablehnung von Beitragsgesuchen aus dem Berner Jura wird vom BJR verfügt und begründet.
 
@@ -125,7 +131,7 @@ beschliesst:
 
 <sup>1</sup> Der BJR führt das Verfahren in Zusammenarbeit mit dem Amt für Kultur, das Anträge stellen kann, durch.
 
-<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Beitrags die Ausgabenbefugnis des BJR, leitet er das Geschäft mit einem allfälligen Antrag an das Amt für Kultur weiter. Das Amt für Kultur erstellt die entsprechende Vorlage für die Bildungs- und Kulturdirektion zu Händen der zuständigen Behörde und nimmt zum Antrag des BJR Stellung.
+<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Beitrags die Ausgabenbefugnis des BJR, leitet er das Geschäft mit einem Antrag an das Amt für Kultur weiter. Das Amt für Kultur erstellt die entsprechende Vorlage für die Bildungs- und Kulturdirektion zu Händen der zuständigen Behörde und nimmt zum Antrag des BJR Stellung.
 
 <sup>3</sup> Die Ablehnung von Beitragsgesuchen aus dem Berner Jura wird vom BJR verfügt und begründet.
 
@@ -230,6 +236,7 @@ beschliesst:
 - k Präsidentin oder Präsident der Kindes- und Erwachsenenschutzbehörde Berner Jura (KESB Berner Jura),
 - l Leiterin oder Leiter der Geschäftsstelle Berner Jura des Amts für Bevölkerungsschutz, Sport und Militär (BSM),
 - l1 stellvertretende Kreiskommandantin oder stellvertretender Kreiskommandant des Kantons Bern,
+- l2 Leiterin oder Leiter des Verkehrsprüfzentrums Seeland/Berner Jura des Strassenverkehrs- und Schifffahrtsamts (SVSA),
 - m Beauftragte oder Beauftragter für französischsprachige und zweisprachige Angelegenheiten des Amts für Kultur (AK) sowie Kulturbeauftragte oder Kulturbeauftragter des BJR,
 - n Leiterin oder Leiter der französischsprachigen Abteilung des Amts für Kindergarten, Volksschule und Beratung (AKVB),
 - o Leiterin oder Leiter der französischsprachigen Abteilung des Mittelschul- und Berufsbildungsamts (MBA),
@@ -237,7 +244,7 @@ beschliesst:
 - q Schulinspektorinnen und Schulinspektoren des regionalen Schulinspektorats Welschbiel-Berner Jura,
 - r Regionalleiterin oder Regionalleiter sowie stellvertretende Regionalleiterin oder stellvertretender Regionalleiter des Berufsberatungs- und Informationszentrums der Region Französischsprachiger Kantonsteil (BIZ der Region Französischsprachiger Kantonsteil),
 - s stellvertretende Regierungsstatthalterin oder stellvertretender Regierungsstatthalter des Verwaltungskreises Berner Jura,
-- t Regionalpfarrerin oder Regionalpfarrer für den evangelisch-reformierten Pfarrkreis Jura-Bienne,
+- t …
 - u stellvertretende Vorsteherin oder stellvertretender Vorsteher des Amts für Kommunikation (KomBE), die oder der für die Kommunikation auf Französisch zuständig ist,
 - v Leiterin oder Leiter der Waldabteilung Berner Jura.
 
@@ -245,16 +252,16 @@ beschliesst:
 
 #### Art. 20
 
-**Gegenstände gemäss Artikel 6 Absatz 1 RFB VV**
+**Gegenstände gemäss Artikel 46 Absatz 1 SStG**
 
-<sup>1</sup> Die in Artikel 6 Absatz 1 RFB VV vorgesehene politische Mitwirkung betrifft folgende Geschäfte aus den Direktionen und der Staatskanzlei:
+<sup>1</sup> Die in Artikel 46 Absatz 1 SStG vorgesehene politische Mitwirkung betrifft folgende Geschäfte aus den Direktionen und der Staatskanzlei:
 
-- a Entscheidungen, welche die französischsprachige Bevölkerung des zweisprachigen Amtsbezirks Biel besonders betreffen und die für sie von allgemeiner Tragweite sind oder denen grosse politische Bedeutung zukommt;
+- a Entscheidungen, welche die französischsprachige Bevölkerung des Verwaltungskreises Biel/Bienne besonders betreffen und die für sie von allgemeiner Tragweite sind oder denen grosse politische Bedeutung zukommt;
 - b Entscheidungen, die das französischsprachige Personal der Kantonsverwaltung besonders und insgesamt betreffen.
 
-<sup>2</sup> Die in Artikel 6 Absatz 1 Buchstabe b RFB VV vorgesehene politische Mitwirkung betrifft die Staatsbeitragsgesuche für kulturelle Tätigkeiten aus dem Verwaltungskreis Biel/Bienne.
+<sup>2</sup> Die in Artikel 46 Absatz 1 Buchstabe b SStG vorgesehene politische Mitwirkung betrifft die Staatsbeitragsgesuche für kulturelle Tätigkeiten aus dem Verwaltungskreis Biel/Bienne.
 
-<sup>3</sup> Die in Artikel 6 Absatz 1 Buchstabe d RFB VV vorgesehene politische Mitwirkung betrifft die Ernennungsverfügungen für folgende Funktionen:
+<sup>3</sup> Die in Artikel 46 Absatz 1 Buchstabe d SStG vorgesehene politische Mitwirkung betrifft die Ernennungsverfügungen für folgende Funktionen:
 
 - a französischsprachige Vizestaatsschreiberin oder französischsprachiger Vizestaatsschreiber,
 - b französischsprachige Generalsekretärin oder französischsprachiger Generalsekretär sowie französischsprachige stellvertretende Generalsekretärin oder französischsprachiger stellvertretender Generalsekretär der Bildungs- und Kulturdirektion,
@@ -266,6 +273,7 @@ beschliesst:
 - h Präsidentin oder Präsident der Kindes- und Erwachsenenschutzbehörde Biel/Bienne (KESB Biel/Bienne),
 - i Leiterin oder Leiter der Geschäftsstelle Berner Jura des Amts für Bevölkerungsschutz, Sport und Militär (BSM),
 - i1 stellvertretende Kreiskommandantin oder stellvertretender Kreiskommandant des Kantons Bern,
+- i2 Leiterin oder Leiter des Verkehrsprüfzentrums Seeland/Berner Jura des Strassenverkehrs- und Schifffahrtsamts (SVSA),
 - k Beauftragte oder Beauftragter für französischsprachige und zweisprachige Angelegenheiten des Amts für Kultur (AK) sowie Kulturbeauftragte oder Kulturbeauftragter des BJR,
 - l Leiterin oder Leiter der französischsprachigen Abteilung des Amts für Kindergarten, Volksschule und Beratung (AKVB),
 - m Leiterin oder Leiter der französischsprachigen Abteilung des Mittelschul- und Berufsbildungsamts (MBA),
@@ -273,15 +281,17 @@ beschliesst:
 - o Schulinspektorinnen und Schulinspektoren des regionalen Schulinspektorats Welschbiel-Berner Jura,
 - p Regionalleiterin oder Regionalleiter sowie stellvertretende Regionalleiterin oder stellvertretender Regionalleiter des Berufsberatungs- und Informationszentrums der Region Französischsprachiger Kantonsteil (BIZ der Region Französischsprachiger Kantonsteil),
 - q stellvertretende Regierungsstatthalterin oder stellvertretender Regierungsstatthalter des Verwaltungskreises Biel/Bienne, sofern die Regierungsstatthalterin oder der Regierungsstatthalter deutschsprachig ist,
-- r Regionalpfarrerin oder Regionalpfarrer für den evangelisch-reformierten Pfarrkreis Jura-Bienne,
+- r …
 - s Chefin oder Chef der Regionalpolizei Seeland-Berner Jura,
 - t stellvertretende Vorsteherin oder stellvertretender Vorsteher des Amts für Kommunikation (KomBE), die oder der für die Kommunikation auf Französisch zuständig ist.
+
+<sup>4</sup> Die in Artikel 46 Absatz 1 Buchstabe f SStG vorgesehene politische Mitwirkung umfasst auch die Entgegennahme und Prüfung von Gesuchen um finanzielle Unterstützung, die Gesuchstellerinnen und Gesuchsteller aus dem Verwaltungskreis Biel/Bienne an den RFB richten.
 
 #### Art. 21
 
 **Verfahren**
 
-<sup>1</sup> Die Direktionen und die Staatskanzlei hören den BJR und den RFB zu Geschäften an, die die politische Mitwirkung betreffen, und zwar
+<sup>1</sup> Die Direktionen und die Staatskanzlei hören den BJR und den RFB zu Geschäften an, welche die politische Mitwirkung betreffen, und zwar
 
 - a bei Vernehmlassungsverfahren gleichzeitig mit den Behörden, Organisationen und interessierten Kreisen und
 - b in allen anderen Fällen, bevor der Gegenstand der zuständigen Behörde zum Beschluss vorgelegt wird.
