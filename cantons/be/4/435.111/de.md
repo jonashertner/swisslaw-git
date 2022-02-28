@@ -4,13 +4,13 @@ number: "435.111"
 title: "Verordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerV
 language: de
-version: 2022-01-01
-valid_until: 2022-02-28
-version_adopted: 2021-11-24
+version: 2022-03-01
+valid_until: 2022-07-31
+version_adopted: 2022-02-02
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2460/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2569/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2460/pdf_file"
 
 (BerV)
 
-vom 09.11.2005 (Stand 01.01.2022)
+vom 09.11.2005 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -71,7 +71,7 @@ beschliesst:
 - f einer Vertreterin oder einem Vertreter der Sekundarstufe I und
 - g einer Vertreterin oder einem Vertreter der Wissenschaft.
 
-<sup>2</sup> Den Organisationen der Arbeitswelt steht für ihre Vertreterinnen und Vertreter ein Vorschlagsrecht zu. Die Vertreterinnen und Vertreter des Berner Juras oder der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne werden auf gemeinsamen Vorschlag des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel ernannt.
+<sup>2</sup> Den Organisationen der Arbeitswelt steht für ihre Vertreterinnen und Vertreter ein Vorschlagsrecht zu. Die Vertreterinnen und Vertreter des Berner Juras oder der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne werden auf gemeinsamen Vorschlag des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne ernannt.
 
 <sup>3</sup> Im Berufsbildungsrat sind die Geschlechter ausgewogen vertreten.
 
@@ -460,7 +460,7 @@ beschliesst:
 
 <sup>2</sup> Der Schulrat setzt sich aus fünf bis neun Mitgliedern zusammen, die von der Bildungs- und Kulturdirektion ernannt werden. Die Mitglieder vertreten in der Regel mehrheitlich die Organisationen der Arbeitswelt sowie die Region. Die Geschlechter sollen ausgewogen vertreten sein. Die Organisationen der Arbeitswelt und die Standortgemeinden haben ein Vorschlagsrecht.
 
-<sup>2a</sup> Der Bernjurassische Rat hat das Recht, vorgängig ein Mitglied vorzuschlagen, wenn es sich um eine bernjurassische Schule handelt; dasselbe gilt für den Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel, wenn es sich um eine Bieler Schule mit französischsprachigen Bildungsangeboten handelt.
+<sup>2a</sup> Der Bernjurassische Rat hat das Recht, vorgängig ein Mitglied vorzuschlagen, wenn es sich um eine bernjurassische Schule handelt; dasselbe gilt für den Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne, wenn es sich um eine Bieler Schule mit französischsprachigen Bildungsangeboten handelt.
 
 <sup>3</sup> Der Schulrat konstituiert sich selbst. Er bestimmt das Präsidium und das Vizepräsidium.
 
@@ -823,7 +823,7 @@ beschliesst:
 
 **Kantonale Berufsmaturitätskommission (KBMK)**
 
-<sup>1</sup> Die kantonale Berufsmaturitätskommission besteht aus dreizehn Mitgliedern. Die Bildungs- und Kulturdirektion ernennt sie auf Vorschlag der betroffenen Organisationen und bestimmt die Präsidentin oder den Präsidenten. Die Vertreterinnen und Vertreter des Berner Juras und der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne werden auf gemeinsamen Vorschlag des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel ernannt.
+<sup>1</sup> Die kantonale Berufsmaturitätskommission besteht aus dreizehn Mitgliedern. Die Bildungs- und Kulturdirektion ernennt sie auf Vorschlag der betroffenen Organisationen und bestimmt die Präsidentin oder den Präsidenten. Die Vertreterinnen und Vertreter des Berner Juras und der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne werden auf gemeinsamen Vorschlag des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne ernannt.
 
 <sup>2</sup> Die KBMK setzt sich wie folgt zusammen:
 
@@ -1195,7 +1195,7 @@ beschliesst:
 
 <sup>1</sup> Der Fachrat Weiterbildung setzt sich aus höchstens acht Fachpersonen der Weiterbildung zusammen.
 
-<sup>2</sup> Bei der Zusammensetzung ist auf eine angemessene Vertretung der Sprachregionen und der Geschlechter zu achten. Die Vertreterinnen und Vertreter des Berner Juras und der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne werden auf gemeinsamen Vorschlag des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel ernannt.
+<sup>2</sup> Bei der Zusammensetzung ist auf eine angemessene Vertretung der Sprachregionen und der Geschlechter zu achten. Die Vertreterinnen und Vertreter des Berner Juras und der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne werden auf gemeinsamen Vorschlag des Bernjurassischen Rats und des Rats für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne ernannt.
 
 <sup>3</sup> Mitarbeiterinnen und Mitarbeiter der Bildungs- und Kulturdirektion, der Wirtschafts-, Energie- und Umweltdirektion, der Gesundheits-, Sozial- und Integrationsdirektion nehmen mit beratender Stimme Einsitz in den Weiterbildungsrat.
 
@@ -1531,11 +1531,13 @@ beschliesst:
 
 **Andere Qualifikationsverfahren gemäss Artikel 32 BBV**
 
-<sup>1</sup> Die anderen Qualifikationsverfahren zum EFZ gemäss Artikel 32 BBV sind für Personen mit zivilrechtlichem Wohnsitz im Kanton Bern unentgeltlich. Die Materialkosten werden in Rechnung gestellt.
+<sup>1</sup> Die anderen Qualifikationsverfahren zum EFZ gemäss Artikel 32 BBV sind für Personen ohne EFZ oder Mittelschulabschluss mit zivilrechtlichem Wohnsitz im Kanton Bern unentgeltlich. Die Materialkosten werden in Rechnung gestellt.[^130-1]
 
 <sup>2</sup> Die übrigen Kandidatinnen und Kandidaten übernehmen höchstens 60 Prozent der Kosten.
 
 <sup>3</sup> Werden die Validierungsverfahren von Dritten durchgeführt, wird ein Pauschalbeitrag an die Kosten ausgerichtet. Die Pauschalen werden so bemessen, dass sie die Kosten decken und das Verfahren nicht teurer zu stehen kommt, als wenn der Kanton die Leistung selber erbringen würde.
+
+[^130-1]: Berichtigt am 23.02.2022 gemäss BAG 22-016
 
 #### Art. 130a
 

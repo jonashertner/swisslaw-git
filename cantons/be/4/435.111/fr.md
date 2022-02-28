@@ -4,13 +4,13 @@ number: "435.111"
 title: "Ordonnance sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: OFOP
 language: fr
-version: 2022-01-01
-valid_until: 2022-02-28
-version_adopted: 2021-11-24
+version: 2022-03-01
+valid_until: 2022-07-31
+version_adopted: 2022-02-02
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2460/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2569/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2460/pdf_file"
 
 (OFOP)
 
-du 09.11.2005 (état au 01.01.2022)
+du 09.11.2005 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -69,7 +69,7 @@ arrête:
 - f d'un représentant ou d'une représentante du degré secondaire I et
 - g d’un représentant ou d’une représentante des milieux scientifiques.
 
-<sup>2</sup> Les organisations du monde du travail ont un droit de proposition pour leurs représentants ou représentantes. Les représentants et les représentantes du Jura bernois ou des Francophones de l'arrondissement administratif de Biel/Bienne sont nommés sur proposition commune du Conseil du Jura bernois et du Conseil des affaires francophones du district bilingue de Bienne.
+<sup>2</sup> Les organisations du monde du travail ont un droit de proposition pour leurs représentants ou représentantes. Les représentants et les représentantes du Jura bernois ou des Francophones de l'arrondissement administratif de Biel/Bienne sont nommés sur proposition commune du Conseil du Jura bernois et du Conseil des affaires francophones de l'arrondissement de Biel/Bienne.
 
 <sup>3</sup> La représentation des hommes et des femmes au sein du Conseil pour la formation professionnelle est équilibrée.
 
@@ -458,7 +458,7 @@ arrête:
 
 <sup>2</sup> Le conseil d’école se compose de cinq à neuf membres nommés par la Direction de l’instruction publique et de la culture. En règle générale, ces membres représentent en majorité les organisations du monde du travail et la région. La représentation des hommes et des femmes doit être équilibrée. Les organisations du monde du travail et les communes-sièges disposent d’un droit de proposition.
 
-<sup>2a</sup> Le Conseil du Jura bernois a le droit de proposer en priorité un membre s'il s'agit d'une école ayant son siège dans le Jura bernois et le Conseil des affaires francophones du district bilingue de Bienne de même s'il s'agit d'une école proposant des filières pour les élèves francophones à Bienne.
+<sup>2a</sup> Le Conseil du Jura bernois a le droit de proposer en priorité un membre s'il s'agit d'une école ayant son siège dans le Jura bernois et le Conseil des affaires francophones de l'arrondissement de Biel/Bienne de même s'il s'agit d'une école proposant des filières pour les élèves francophones à Bienne.
 
 <sup>3</sup> Le conseil se constitue lui-même. Il désigne le président ou la présidente ainsi que le vice-président ou la vice-présidente.
 
@@ -821,7 +821,7 @@ arrête:
 
 **Commission cantonale de maturité professionnelle (CCMP) 1. Composition**
 
-<sup>1</sup> La Commission cantonale de maturité professionnelle est constituée de treize membres. La Direction de l’instruction publique et de la culture les nomme sur proposition des organisations concernées et désigne le président ou la présidente. Les représentants et les représentantes du Jura bernois ou des Francophones de l'arrondissement administratif de Biel/Bienne sont nommés sur proposition commune du Conseil du Jura bernois et du Conseil des affaires francophones du district bilingue de Bienne.
+<sup>1</sup> La Commission cantonale de maturité professionnelle est constituée de treize membres. La Direction de l’instruction publique et de la culture les nomme sur proposition des organisations concernées et désigne le président ou la présidente. Les représentants et les représentantes du Jura bernois ou des Francophones de l'arrondissement administratif de Biel/Bienne sont nommés sur proposition commune du Conseil du Jura bernois et du Conseil des affaires francophones de l'arrondissement de Biel/Bienne.
 
 <sup>2</sup> La CCMP se compose de:
 
@@ -1187,7 +1187,7 @@ arrête:
 
 <sup>1</sup> Le Conseil de la formation continue se compose de huit spécialistes de la formation continue au plus.
 
-<sup>2</sup> Les régions linguistiques et les deux sexes sont représentés de manière appropriée. Les représentants et les représentantes du Jura bernois ou des Francophones de l'arrondissement administratif de Biel/Bienne sont nommés sur proposition commune du Conseil du Jura bernois et du Conseil des affaires francophones du district bilingue de Bienne.
+<sup>2</sup> Les régions linguistiques et les deux sexes sont représentés de manière appropriée. Les représentants et les représentantes du Jura bernois ou des Francophones de l'arrondissement administratif de Biel/Bienne sont nommés sur proposition commune du Conseil du Jura bernois et du Conseil des affaires francophones de l'arrondissement de Biel/Bienne.
 
 <sup>3</sup> Des collaborateurs et des collaboratrices de la Direction de l’instruction publique et de la culture, de la Direction de l’économie, de l’énergie et de l’environnement et de la Direction de la santé, des affaires sociales et de l’intégration siègent au Conseil de la formation continue avec voix consultative.
 
@@ -1519,11 +1519,13 @@ arrête:
 
 **Autre procédure de qualification conformément à l’article 32 OFPr**
 
-<sup>1</sup> Les autres procédure de qualification sanctionnées par un CFC au sens de l'article 32 OFPr sont gratuites pour les personnes qui ont leur domicile civil dans le canton de Berne. Les frais de matériel sont facturés.
+<sup>1</sup> Les autres procédure de qualification sanctionnées par un CFC au sens de l'article 32 OFPr sont gratuites pour les personnes qui n'ont pas de CFC ni de diplôme d'école moyenne et qui ont leur domicile civil dans le canton de Berne. Les frais de matériel sont facturés.[^130-1]
 
 <sup>2</sup> Les autres candidats et candidates prennent à leur charge au plus 60 pour cent des frais.
 
 <sup>3</sup> Si les procédures de validation sont conduites par des tiers, une contribution forfaitaire aux frais est versée. Le montant de cette contribution est calculé de manière à ce qu’elle couvre les coûts et à ce que la procédure ne revienne pas plus cher que si le canton fournissait lui-même la prestation.
+
+[^130-1]: Rectifié le 23.02.2022 par le ROB 22-016
 
 #### Art. 130a
 
