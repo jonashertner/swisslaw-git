@@ -4,11 +4,11 @@ title: "Ordonnance 3 du 11 août 1999 sur l'asile relative au traitement de donn
 short: OA 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: fr
-version: 2022-01-01
+version: 2022-03-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20220301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220101/fr"
 
 (Ordonnance 3 sur l’asile, OA 3)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> janvier 2022)
+du 11 août 1999 (Etat le 1<sup>er</sup> mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -219,7 +219,8 @@ Les personnes suivantes peuvent accéder uniquement à leurs propres plans d’i
 La banque de données DOPO dispose d’interfaces avec les systèmes suivants:
 
 - a. SYMIC pour consulter les données des requérants d’asile qui sont nécessaires pour planifier les auditions, en particulier le numéro de référence, la nationalité, la langue, de même que la date et le lieu du dépôt de la demande;
-- b. le système d’information concernant le personnel de l’administration fédérale BV PLUS pour prélever les données nécessaires au versement des rémunérations conformément à l’al. 1, let. c.
+- b. le système d’information concernant le personnel de l’administration fédérale BV PLUS pour prélever les données nécessaires au versement des rémunérations conformément à l’al. 1, let. c;
+- c.[^1j-8] le produit standardisé GEVER Confédération, pour assurer la gestion électronique des dossiers du personnel et l’amélioration de la gestion des processus.
 
 [^1j-1]: Introduit par le ch. I de l’O du 9 mai 2012, en vigueur depuis le 13 juin 2012 ([RO 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
 [^1j-2]: Introduit par le ch. I de l’O du 18 sept. 2015, en vigueur depuis le 15 oct. 2015 ([RO 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
@@ -228,6 +229,7 @@ La banque de données DOPO dispose d’interfaces avec les systèmes suivants:
 [^1j-5]: Introduite par le ch. I de l’O du 18 sept. 2015, en vigueur depuis le 15 oct. 2015 ([RO 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
 [^1j-6]: Introduite par le ch. I de l’O du 22 mars 2017, en vigueur depuis le 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
 [^1j-7]: Introduite par le ch. I de l’O du 22 mars 2017, en vigueur depuis le 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
+[^1j-8]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 72](https://fedlex.data.admin.ch/eli/oc/2022/72)).
 
 #### Art. 1k
 
@@ -517,11 +519,11 @@ Les accords d’association à Dublin comprennent les accords suivants:
 
 Annexe 5*[^t-3]*
 
-(art. 1*i* al. 2)
+(art. 1*i*, al. 2)
 
 ## Niveaux d’accès et autorisations de traitement des données dans le système d’information MIDES
 
-[^t-3]: Introduite par le ch. II de l’O du 24 nov. 2010 ([RO 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)). Nouvelle teneur selon le ch. II al. 1 de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^t-3]: Introduite par le ch. II de l’O du 24 nov. 2010 ([RO 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)). Nouvelle teneur selon le ch. II de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 72](https://fedlex.data.admin.ch/eli/oc/2022/72)).
 
 ### Légende
 
@@ -533,18 +535,18 @@ Niveaux d’accès:
 
 Unités organisationnelles:
 
-- AFIS: Collaborateurs externes qui travaillent avec AFIS-Lifescan
+- Canton: Collaborateurs des centres cantonaux ou communaux visés à l’art. 24*d* LAsi
 - Encadrement: Collaborateurs externes du domaine Encadrement
 - Flupo: Police aéroportuaire
 - Sécurité: Collaborateurs externes du domaine Sécurité
 - SEM: Secrétariat d’État aux migrations
 - – I: Superutilisateurs
 - – II: Secrétariat
-- – III: Direction Centre d’enregistrement et de procédure (CEP)
-- – IV: Bureau de répartition
-- – V: Centrale CEP
+- – III: Direction des centres de la Confédération
+- – IV: Hébergement et répartition (centrale)
+- – V: Pilotage et controlling (centrale)
 - – VI: Collaborateurs spécialisés du domaine de l’asile
-- – VII: Domaine Échange de données et identification
+- – VII: Domaine Identification
 - – VIII: Domaine Saisie et mise à jour des données
 - – IX: Domaine Analyses linguistiques
 - [tab]
@@ -552,148 +554,153 @@ Unités organisationnelles:
 ### Catalogue des données MIDES
 
 <table>
-<tr><th>Champs de données MIDES</th><th colspan="5">SEM</th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th></th><th></th><th colspan="4">Partenaires du SEM</th></tr>
-<tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th colspan="2">V</th><th colspan="2">VI</th><th colspan="3">VII</th><th colspan="2">VIII</th><th colspan="3">IX</th><th>Flupo</th><th>Sécurité</th><th>Encadrement</th><th>AFIS</th></tr>
-<tr><td colspan="21">1. Données de base</td></tr>
-<tr><td>Nom</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Prénom</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Date et heure du dépôt de la demande d’asile</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>No SYMIC</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>No personnel MIDES</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>No de dossier Asile</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Catégorie d’asile – statut</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>No de contrôle personnel (PCN)</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>No de police d’assurance</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="2">B</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td></td><td>A</td><td></td></tr>
-<tr><td>Assurance maladie – statut</td><td>B</td><td>B</td><td>B</td><td>B</td><td colspan="2">B</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td></td><td>A</td><td></td></tr>
-<tr><td>Identification</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Code Dublin</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Date de naissance</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Sexe</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Nationalité</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Langue</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Deuxième langue</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>État civil</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Représentant légal</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Personne de confiance</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Type de personne (personne principale/personne secondaire)</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Type de relation</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Statut de la personne</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Statut de la dactyloscopie</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
-<tr><td>Statut mesures sanitaires à la frontière</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>B</td><td>B</td><td>A</td></tr>
-<tr><td colspan="21">2. Hébergement</td></tr>
-<tr><td colspan="21">Pré-enregistrement</td></tr>
-<tr><td>Date du pré-enregistrement</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Date de confirmation du pré-enregistrement</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td colspan="21">Entrée</td></tr>
-<tr><td>Date d’entrée CEP</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Date de la demande d’asile (ouverture procédure)</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Entrée provisoire</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td colspan="21">Transfert</td></tr>
-<tr><td>Date prévue pour le transfert</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Transfert effectué</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Lieu avant transfert</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Date du transfert</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Date d’arrivée du transfert</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Remarque transfert</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td colspan="21">Disparition</td></tr>
-<tr><td>Date de la disparition</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td colspan="21">Départ</td></tr>
-<tr><td>Date de départ</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Remarque au canton</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Canton de départ</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Heure d’arrivée dans le canton</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td></td></tr>
-<tr><td colspan="21">3. Affaires</td></tr>
-<tr><td>Collaborateur chargé de la saisie (indication numéro d’identification/sigle)</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Collaborateur responsable</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Genre d’affaire</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Date d’enregistrement de l’affaire</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Date statistique de l’affaire</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Synchronisation SYMIC</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Possible affaire SYMIC</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Date de l’événement (audition)</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Genre de règlement</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Date du règlement</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Type d’annulation</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Date de l’annulation</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Désactivation de l’annulation</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Date de la désactivation</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Remarque sur l’affaire</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Date de la remarque</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Titre de la remarque</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td colspan="21">4. Données de référence</td></tr>
-<tr><td>Données de référence</td><td>B</td><td>A</td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="21">5. Gestion des sorties</td></tr>
-<tr><td>Historique des sorties</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2"></td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">B</td><td colspan="3"></td><td>B</td><td>B</td><td>B</td><td></td></tr>
-<tr><td>Interdiction de sortie</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2"></td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">B</td><td colspan="3"></td><td>B</td><td>B</td><td>B</td><td></td></tr>
-<tr><td>Sortie extraordinaire</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2"></td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">B</td><td colspan="3"></td><td>B</td><td>B</td><td>B</td><td></td></tr>
-<tr><td colspan="21">6. Décisions de non-entrée en matière/Gestion des délais</td></tr>
-<tr><td>Date de notification NEM</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Ultime délai de recours</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Date de la disparition</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Date d’entrée du recours au Tribunal administratif fédéral (TAF)</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Date pour l’arrêt du TAF</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Entrée en force de l’arrêt du TAF</td><td>B</td><td>B</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td colspan="21">7. Procès-verbal de l’audition sur la personne</td></tr>
-<tr><td>Chargé d’audition</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Date de l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Langue de l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Indications sur la feuille d’information</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Indications sur la représentation légale</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Indications sur l’interprète</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="21">1. Identité</td></tr>
-<tr><td>Clan/tribu/caste</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Nom de jeune fille</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Lieu de naissance</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Ethnie</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Deuxième nationalité</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Nationalité à la naissance</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Code de provenance</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>État civil depuis:</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Indications sur le partenaire</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Religion</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Identité secondaire</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Indications sur le père</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Indications sur la mère</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Autres langues suffisamment connues pour l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Autres connaissances linguistiques</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Langues du père</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Langues de la mère</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Niveau scolaire/formation, métier</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Dernière activité exercée</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Moyens à disposition en francs suisses</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Moyens à disposition en devises étrangères</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="21">2. Séjours</td></tr>
-<tr><td>Dernier lieu de domicile dans le pays d’origine</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Dernière adresse officielle dans le pays d’origine</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Séjour antérieur en Suisse</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Séjour antérieur à l’étranger (hors Suisse)</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Demande d’asile antérieure dans un pays tiers/ représentation pays tiers</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Demande d’asile antérieure en Suisse/représentation suisse</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="21">3. Relations</td></tr>
-<tr><td>Dans le pays d’origine</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>En Suisse</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Indications sur les relations en Suisse</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Relations dans des pays tiers</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Indications sur les mineurs inclus dans la demande d’asile</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Indications sur les identités secondaires des enfants</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Documents d’identité des enfants</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="21">4. Itinéraire de voyage</td></tr>
-<tr><td>Date de départ du pays d’origine</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Voyage du pays d’origine jusqu’en Suisse</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Date d’entrée en Suisse</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Type d’entrée</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Lieu de dépôt de la demande</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Questions relatives au pays de provenance</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="21">5. Motifs de la demande d’asile</td></tr>
-<tr><td>Départ/motifs de la demande d’asile</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Moyens de preuve</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Autres documents</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td colspan="21">6. Autres questions</td></tr>
-<tr><td>Remarques complémentaires du requérant</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Interprète</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Durée de l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Catégorie d’identité</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Retraduction du procès-verbal, langue de l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><th>Champs de données MIDES</th><th colspan="9">SEM</th><th colspan="4">Partenaires du SEM</th></tr>
+<tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th>V</th><th>VI</th><th>VII</th><th>VIII</th><th>IX</th><th>Flupo</th><th>Sécurité</th><th>Encadrement</th><th>Canton</th></tr>
+<tr><td colspan="14">1. Données de base</td></tr>
+<tr><td>Nom</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Prénom</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Date et heure du dépôt de la demande d’asile</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>N<sup>o</sup> SYMIC</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>N<sup>o</sup> personnel MIDES</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>N<sup>o</sup> de dossier Asile</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Catégorie d’asile – statut</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>N<sup>o</sup> de police d’assurance</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Assurance maladie – statut</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td></tr>
+<tr><td>Type d’identification</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Requérant dans le processus Dublin</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date de naissance</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Sexe</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Nationalité</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Langue maternelle</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Deuxième langue</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>État civil</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Représentant juridique</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Personne de confiance</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Type de personne (personne principale/personne secondaire)</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Type de relation</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Statut de la personne</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Statut de la dactyloscopie</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Statut des mesures médicales</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>B</td><td>A</td></tr>
+<tr><td>Photographie</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Empreintes digitales (n° de contrôle personnel)</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td></td><td>B</td><td>B</td><td></td><td></td></tr>
+<tr><td colspan="14">2. Hébergement Pré-enregistrement</td></tr>
+<tr><td>Date du pré-enregistrement</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Date de confirmation du pré-enregistrement</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td colspan="14">*Enregistrement provisoire*</td></tr>
+<tr><td>Cas médical (Flag)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Organisation familiale</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td colspan="14">Entrée</td></tr>
+<tr><td>Date d’entrée dans le centre de la Confédération</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Date de la demande d’asile (ouverture procédure)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Entrée provisoire</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Type d’hébergement</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>Adresse de l’hébergement</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td colspan="14">Transfert</td></tr>
+<tr><td>Date prévue pour le transfert</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Transfert effectué</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Lieu avant transfert</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Date du transfert</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Date d’arrivée du transfert</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Remarque transfert</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td colspan="14">Disparition</td></tr>
+<tr><td>Date de la disparition</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td colspan="14">Départ</td></tr>
+<tr><td>Date de départ</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Remarque au canton</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Canton de départ</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td>Heure d’arrivée dans le canton</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td>B</td></tr>
+<tr><td colspan="14">3. Affaires</td></tr>
+<tr><td>Collaborateur chargé de la saisie (indication numéro d’identification/sigle)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td>Collaborateur responsable</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Genre d’affaire</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Date d’enregistrement de l’affaire</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Date statistique de l’affaire</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Synchronisation SYMIC</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Possible affaire SYMIC</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Date de l’événement (audition)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Genre de règlement</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Date du règlement</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Type d’annulation</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Date de l’annulation</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Désactivation de l’annulation</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Date de la désactivation</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Remarque sur l’affaire</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Date de la remarque</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td>Titre de la remarque</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>B</td></tr>
+<tr><td colspan="14">4. Données de référence</td></tr>
+<tr><td>Données de référence</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="14">5. Gestion des sorties</td></tr>
+<tr><td>Historique des sorties</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Interdiction de sortie</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Sortie extraordinaire</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="14">6. Décisions/Gestion des délais</td></tr>
+<tr><td>Date de notification de la décision</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Ultime délai de recours</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Date de la disparition</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Date d’entrée du recours au Tribunal administratif fédéral (TAF)</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Date pour l’arrêt du TAF</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Entrée en force de l’arrêt du TAF</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td colspan="14">7. Procès-verbaux</td></tr>
+<tr><td>Chargé d’audition</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Date de l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Langue de l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Indications sur la feuille d’information</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Indications sur la représentation juridique</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Indications sur l’interprète</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td colspan="14">1. Identité</td></tr>
+<tr><td>Clan/tribu/caste</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Nom de célibataire</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Lieu de naissance</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Ethnie</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Deuxième nationalité</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Nationalité à la naissance</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Code de provenance</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>État civil depuis:</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Indications sur le partenaire</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Religion</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Identité secondaire</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Indications sur le père</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Indications sur la mère</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Autres langues suffisamment connues pour l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Autres connaissances linguistiques</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Langues du père</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Langues de la mère</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Niveau scolaire/formation, métier</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Dernière activité exercée</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Moyens à disposition en francs suisses</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Moyens à disposition en devises étrangères</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td colspan="14">2. Séjours</td></tr>
+<tr><td>Dernier lieu de domicile dans le pays d’origine</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Dernière adresse officielle dans le pays d’origine</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Séjour antérieur en Suisse</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Séjour antérieur à l’étranger (hors Suisse)</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Demande d’asile antérieure dans un pays tiers/ représentation pays tiers</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Demande d’asile antérieure en Suisse/représentation suisse</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td colspan="14">3. Relations</td></tr>
+<tr><td>Dans le pays d’origine</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>En Suisse</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Indications sur les relations en Suisse</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Relations dans des pays tiers</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Indications sur les mineurs inclus dans la demande d’asile</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Indications sur les identités secondaires des enfants</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Documents d’identité des enfants</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td colspan="14">4. Itinéraire de voyage</td></tr>
+<tr><td>Date de départ du pays d’origine</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Voyage du pays d’origine jusqu’en Suisse</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Date d’entrée en Suisse</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Type d’entrée</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Lieu de dépôt de la demande</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Questions relatives au pays de provenance</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td colspan="14">5. Motifs de la demande d’asile</td></tr>
+<tr><td>Motifs du départ / de la demande d’asile</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Moyens de preuve</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Autres documents</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td colspan="14">6. Autres questions</td></tr>
+<tr><td>Remarques complémentaires du requérant</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Interprète</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Durée de l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Catégorie d’identité</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>Retraduction du procès-verbal, langue de l’audition</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td></tr>
 </table>
 
 Annexe 6*[^t-4]*
