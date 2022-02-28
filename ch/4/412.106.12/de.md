@@ -3,28 +3,28 @@ sr: "412.106.12"
 title: Verordnung des EHB-Rates vom 22. Juni 2010 über die Bildungsangebote und Abschlüsse an der EHB und über die Zulassung zu den Bildungsangeboten (EHB-Studienverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/445"
 language: de
-version: 2021-08-01
+version: 2022-03-01
 adopted: 2010-06-22
 in_force: 2010-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/445/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2010-445-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/445/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/445/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2010-445-20220301-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/445/20220301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des EHB-Rates über die Bildungsangebote und Abschlüsse an der Eidgenössischen Hochschule für Berufsbildung und über die Zulassung zu den Bildungsangeboten
+# Verordnung des EHB-Rates über die Bildungsangebote und Abschlüsse an der EHB und über die Zulassung zu den Bildungsangeboten
 
-(EHB-Studienverordnung)**[^t-1]**
+(EHB-Studienverordnung)[^t-1]
 
-vom 22. Juni 2010 (Stand am 1. August 2021)
+vom 22. Juni 2010 (Stand am 1. März 2022)
 
-[^t-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^t-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 Der Rat der Eidgenössischen Hochschule für Berufsbildung (EHB-Rat),
 
 gestützt auf die Artikel 6 Absatz 3 und 7 Absatz 6 des EHB-Gesetzes vom 25. September 2020[^ingress-1],
 
-verordnet:*[^ingress-2]*
+verordnet:[^ingress-2]
 
 [^ingress-1]: [SR 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
 [^ingress-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
@@ -42,17 +42,17 @@ Die Eidgenössische Hochschule für Berufsbildung (EHB) bietet folgende Ausbildu
 - c. Diplomstudiengänge für Berufsfachschullehrerinnen und Berufsfachschullehrer für den allgemeinbildenden Unterricht (Art. 46 Abs. 3 Bst. a und c BBV);
 - c<sup>bis</sup>.[^1-3] Diplomstudiengang für Lehrerinnen und Lehrer der Berufsmaturitätsschulen (Art. 46 Abs. 3 Bst. c BBV);
 - d. Zertifikatsstudiengänge für Lehrerinnen und Lehrer mit gymnasialer Lehrbefähigung (Art. 46 Abs. 3 Bst. b BBV);
-- e. Diplom- und Zertifikatsstudiengänge für Lehrerinnen und Lehrer der höheren Fachschulen (Art. 13 Abs. 1 Bst. b der V des WBF[^1-4] vom 11. März 2005[^1-5] über Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschulen);
-- d<sup>bis</sup>.[^1-6] Zertifikatsstudiengänge für Lehrerinnen und Lehrer für den Sportunterricht in der beruflichen Grundbildung (Art. 46 Abs. 3 Bst. a und b BBV);
+- d<sup>bis</sup>.[^1-4] Diplom- und Zertifikatsstudiengänge für Lehrerinnen und Lehrer für den Sportunterricht in der beruflichen Grundbildung (Art. 46 Abs. 3 BBV);
+- e.[^1-5] Diplom- und Zertifikatsstudiengänge für Lehrerinnen und Lehrer der höheren Fachschulen (Art. 13 Abs. 1 Bst. b der Verordnung des WBF vom 11. September 2017[^1-6] über Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschulen [MiVo-HF]);
 - f.[^1-7] Bachelorstudiengang (BSc) in Berufsbildung;
 - g.[^1-8] Masterstudiengang (MSc) in Berufsbildung.
 
 [^1-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 [^1-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
 [^1-3]: Eingefügt durch Ziff. I der V des EHB-Rats vom 20. Mai 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^1-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^1-5]: [[AS 2005 1389](https://fedlex.data.admin.ch/eli/oc/2005/208), [2010 4555](https://fedlex.data.admin.ch/eli/oc/2010/653), [2014 59](https://fedlex.data.admin.ch/eli/oc/2014/3)[4575](https://fedlex.data.admin.ch/eli/oc/2014/769). [AS 2017 5261](https://fedlex.data.admin.ch/eli/oc/2017/586)]. Siehe heute: die V des WBF vom 11. Sept. 2017 ([SR 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)).
-[^1-6]: Eingefügt durch Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^1-4]: Eingefügt durch Ziff. I der V des EHB-Rats vom 17. Juni 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)). Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^1-5]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^1-6]: [SR 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)
 [^1-7]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
 [^1-8]: Eingefügt durch Ziff. I der V des EHB-Rats vom 20. Mai 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)). Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
@@ -95,20 +95,24 @@ Wer sich erfolgreich qualifiziert, ist berechtigt, den der Qualifizierung entspr
 
 - a. «dipl. Berufsfachschullehrerin» oder «dipl. Berufsfachschullehrer» nach bestandenem Qualifikationsverfahren des Diplomstudiengangs für Lehrpersonen für den berufskundlichen Unterricht an Berufsfachschulen sowie des Diplomstudiengangs für den allgemeinbildenden Unterricht;
 - b. «dipl. Lehrerin für den Berufsmaturitätsunterricht an Berufsfachschulen» oder «dipl. Lehrer für den Berufsmaturitätsunterricht an Berufsfachschulen» nach bestandenem Qualifikationsverfahren des Diplomstudiengangs für Lehrpersonen an Berufsmaturitätsschulen;
+- b<sup>bis</sup>.[^4-1] «dipl. Lehrerin für den Sportunterricht in der beruflichen Grundbildung» oder «dipl. Lehrer für den Sportunterricht in der beruflichen Grundbildung» nach bestandenem Qualifikationsverfahren des Diplomstudiengangs für Lehrpersonen für den Sportunterricht in der beruflichen Grundbildung;
 - c. «dipl. Lehrerin der höheren Fachschule» oder «dipl. Lehrer der höheren Fachschule» nach bestandenem Qualifikationsverfahren des Diplomstudiengangs für Lehrpersonen für den berufskundlichen Unterricht an höheren Fachschulen;
 - d. «Bachelor of Science in Berufsbildung» nach bestandenem Qualifikationsverfahren des Bachelorstudiengangs;
-- e. «Master of Science in Berufsbildung» nach bestandenem Qualifikationsverfahren des Masterstudiengangs.[^4-1]
+- e. «Master of Science in Berufsbildung» nach bestandenem Qualifikationsverfahren des Masterstudiengangs.[^4-2]
 
-<sup>2</sup> Für Bachelor, Master- und übrige Diplomabschlüsse wird ein «Diploma Supplement», für Zertifikatsabschlüsse ein «Certificate Supplement» ausgestellt.[^4-2]
+<sup>2</sup> Für Bachelor, Master- und übrige Diplomabschlüsse wird ein «Diploma Supplement», für Zertifikatsabschlüsse ein «Certificate Supplement» ausgestellt.[^4-3]
 
-[^4-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
-[^4-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^4-1]: Eingefügt durch Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^4-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^4-3]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
 
 #### Art. 5
 
-**Qualitätssicherung**
+**Qualitätssicherung**[^5-1]
 
-Die Direktorin oder der Direktor der EHB sorgt für eine systematische und periodische Evaluation der durchgeführten Module aller Bildungsangebote anhand einer standardisierten Methode. Die Ergebnisse fliessen in die Weiterentwicklung der Angebote ein.
+Die Direktorin oder der Direktor der EHB sorgt in Bezug auf alle Bildungsangebote für eine systematische und periodische Qualitätssicherung anhand einer standardisierten Methode.
+
+[^5-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 ## 2. Abschnitt: Zulassung, Studiendauer und Anzahl Kreditpunkte
 
@@ -118,37 +122,40 @@ Die Direktorin oder der Direktor der EHB sorgt für eine systematische und perio
 
 <sup>1</sup> ...[^6-2]
 
-<sup>2</sup> Für die Zulassung zu den Diplomstudiengängen für hauptberufliche Berufsfachschullehrerinnen und Berufsfachschullehrer sowie für hauptberufliche Lehrerinnen und Lehrer der höheren Fachschulen ist zusätzlich ein Maturitätsabschluss (Berufs-, Fach- oder gymnasiale Maturität) oder ein Nachweis einer gleichwertigen Qualifikation, allenfalls ergänzt durch eine Nachqualifikation, erforderlich.
+<sup>2</sup> Für die Zulassung zu den Diplomstudiengängen ist eine Berufs-, Fach- oder gymnasiale Maturität oder ein Nachweis einer gleichwertigen Qualifikation erforderlich.[^6-3]
 
-<sup>3</sup> ...[^6-3]
+<sup>3</sup> ...[^6-4]
 
-<sup>4</sup> Der EHB-Rat setzt für die Ausbildungsstudiengänge eine Zulassungskommission ein. Die Direktorin oder der Direktor der EHB regelt die Aufgaben der Kommission in Weisungen.[^6-4]
+<sup>4</sup> Der EHB-Rat setzt für die Ausbildungsstudiengänge eine Zulassungskommission ein. Die Direktorin oder der Direktor der EHB regelt die Aufgaben der Kommission in Weisungen.[^6-5]
 
-<sup>5</sup> Die Zulassungsvoraussetzungen für die Weiterbildungslehrgänge werden in den Studienplänen geregelt.[^6-5]
+<sup>5</sup> Die Zulassungsvoraussetzungen für die Weiterbildungslehrgänge werden in den Studienplänen geregelt.[^6-6]
 
 [^6-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 [^6-2]: Aufgehoben durch Ziff. I der V des EHB-Rats vom 17. Juni 2021, mit Wirkung seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
-[^6-3]: Aufgehoben durch Ziff. I der V des EHB-Rats vom 20. Mai 2019, mit Wirkung seit 1. Aug. 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^6-4]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^6-5]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^6-3]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^6-4]: Aufgehoben durch Ziff. I der V des EHB-Rats vom 20. Mai 2019, mit Wirkung seit 1. Aug. 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^6-5]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^6-6]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 #### Art. 7
 
-**Dauer der Ausbildungsstudiengänge und Anzahl Kreditpunkte[^7-1]**
+**Dauer der Ausbildungsstudiengänge und Anzahl Kreditpunkte**[^7-1]
 
 <sup>1</sup>
 
 Die Dauer der Ausbildungsstudiengänge nach Artikel 1 Buchstaben a–e richtet sich nach den folgenden Bestimmungen:
 
-- a. Artikel 45 ff. BBV[^7-2];
-- b. Artikel 13 Absatz 1 Buchstabe b der Verordnung des WBF vom 11. März 2005[^7-3] über die Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschulen.
+- a. Artikel 45–47 BBV;
+- b. Artikel 13 Absatz 1 Buchstabe b MiVo-HF[^7-2].
 
-<sup>2</sup> Der Bachelorstudiengang BSc umfasst 180 ECTS-Kreditpunkte, der Masterstudiengang MSc 120 ECTS-Kreditpunkte.[^7-4]
+<sup>2</sup> Der Bachelorstudiengang BSc umfasst 180 ECTS-Kreditpunkte, der Masterstudiengang MSc 120 ECTS-Kreditpunkte.
 
-[^7-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^7-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^7-3]: [[AS 2005 1389](https://fedlex.data.admin.ch/eli/oc/2005/208), [2010 4555](https://fedlex.data.admin.ch/eli/oc/2010/653), [2014 59](https://fedlex.data.admin.ch/eli/oc/2014/3)[4575](https://fedlex.data.admin.ch/eli/oc/2014/769). [AS 2017 5261](https://fedlex.data.admin.ch/eli/oc/2017/586)]. Siehe heute: die V des WBF vom 11. Sept. 2017 ([SR 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)).
-[^7-4]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+<sup>3</sup> Die Regelstudiendauer beträgt für den Bachelorstudiengang BSc acht Semester und für den Masterstudiengang MSc sechs Semester. Die Regelstudiendauer darf um maximal sechs Semester überschritten werden.
+
+<sup>4</sup> Liegen triftige Gründe vor, so kann die nationale Spartenleiterin oder der nationale Spartenleiter der EHB auf Gesuch der oder des Studierenden hin eine Verlängerung der Studiendauer über die Höchstdauer nach Absatz 3 hinaus genehmigen.
+
+[^7-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^7-2]: [SR 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)
 
 #### Art. 8
 
@@ -164,9 +171,11 @@ Die Weiterbildungslehrgänge umfassen folgende Anzahl ECTS-Kreditpunkte:
 
 #### Art. 9
 
-**Semesterdaten**
+**Semesterdaten**[^9-1]
 
-Die Direktorin oder der Direktor der EHB legt die Semesterdaten der EHB jährlich in Abstimmung mit den schweizerischen Hochschulen fest.
+Die Direktorin oder der Direktor der EHB legt die Semesterdaten der EHB fest. Sie oder er berücksichtigt dabei die Semesterdaten der anderen schweizerischen Hochschulen.
+
+[^9-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 #### Art. 10
 
@@ -206,8 +215,11 @@ Die Exmatrikulation oder die Aufhebung der Einschreibung erfolgt:
 Die EHB verfügt die Exmatrikulation oder die Aufhebung der Einschreibung einer Person, wenn diese:
 
 - a. aufgrund eines Irrtums oder durch unrichtige Angaben zu Unrecht immatrikuliert beziehungsweise eingeschrieben worden ist;
-- b. die Frist zur Verlängerung der Immatrikulation beziehungsweise Einschreibung ohne wichtige Gründe nicht eingehalten hat; oder
-- c. aus disziplinarischen Gründen von Lehrveranstaltungen, Kursen und Prü-fungsverfahren ausgeschlossen worden ist.
+- b. die Modulprüfung oder die Abschlussarbeit bei der zweiten Wiederholung nicht bestanden hat;
+- c. die maximale Studiendauer erreicht und deren Verlängerung nicht, verspätet oder erfolglos beantragt hat; oder
+- d. aus disziplinarischen Gründen von Lehrveranstaltungen, Kursen und Prü-fungsverfahren ausgeschlossen worden ist.[^11-1]
+
+[^11-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 ## 4. Abschnitt: Aufbau der Bildungsangebote, Durchführung und Anrechnung von Studienleistungen
 
@@ -237,7 +249,7 @@ Jeder Ausbildungsstudiengang und jeder Weiterbildungslehrgang wird in einem Stud
 
 **Module**
 
-<sup>1</sup> Jeder Ausbildungsstudiengang und jeder Weiterbildungslehrgang besteht aus einem oder mehreren Modulen.[^13-1] Ein Modul entspricht mindestens 3 und höchstens 10 ECTS-Kreditpunkten. Ein ECTS-Kreditpunkt entspricht einer studentischen Arbeitsleistung von 30 Lernstunden.
+<sup>1</sup> Jeder Ausbildungsstudiengang und jeder Weiterbildungslehrgang besteht aus einem oder mehreren Modulen.[^13-1]
 
 <sup>2</sup>
 
@@ -246,7 +258,7 @@ Die Module werden anhand folgender Punkte beschrieben:
 - a. Modulname;
 - b. Modulniveau;
 - c. Modultyp;
-- d. zugehörige Kurse oder zugehörige thematische Felder;
+- d.[^13-2] zugehörige Lernangebote oder zugehörige thematische Felder;
 - e. Anzahl ECTS-Kreditpunkte mit Anteilen der Stunden für Präsenzstudium, begleitetes Selbststudium, Selbststudium und Prüfungsverfahren;
 - f. Lernziele und Kompetenzen;
 - g. Prüfungsverfahren;
@@ -255,7 +267,8 @@ Die Module werden anhand folgender Punkte beschrieben:
 
 <sup>3</sup> Die Direktorin oder der Direktor der EHB erlässt die Module.
 
-[^13-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^13-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^13-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 #### Art. 14
 
@@ -267,15 +280,15 @@ Die Module werden anhand folgender Punkte beschrieben:
 
 #### Art. 15
 
-**Präsenz**
+**Präsenzpflicht**[^15-1]
 
-<sup>1</sup> Der Präsenzunterricht ist vollständig zu besuchen.
+<sup>1</sup> Die Direktorin oder der Direktor legt eine allfällige Präsenzpflicht im Unterricht in den Modulbeschreibungen fest.
 
-<sup>2</sup> Gründe für zwingende Absenzen sind zu belegen und der Studienleitung mitzuteilen.
+<sup>2</sup> Erfüllt eine Studierende oder ein Studierender die Präsenzpflicht nicht und liegen dafür wichtige Gründe vor, so kann sie oder er den nicht besuchten Unterricht kompensieren. Als wichtige Gründe gelten insbesondere Unfall, Krankheit oder ein Todesfall einer oder eines nahen Angehörigen.
 
-<sup>3</sup> Die Direktorin oder der Direktor der EHB erlässt Weisungen über die Handhabung der Absenzen.
+<sup>3</sup> Wird der Unterricht nicht kompensiert oder liegen keine wichtigen Gründe vor, so ist das betreffende Modul beim nächstmöglichen Zeitpunkt zu wiederholen.
 
-<sup>4</sup> Die Dozierenden führen eine Präsenzkontrolle.
+[^15-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 #### Art. 16
 
@@ -326,7 +339,7 @@ Die Module werden anhand folgender Punkte beschrieben:
 
 <sup>2</sup> Die Leistungsbewertung richtet sich nach Kriterien und Indikatoren, welche den Studierenden vor der Prüfung bekannt gegeben werden.
 
-<sup>3</sup> Die Modulprüfung muss binnen eines Semesters nach Abschluss des Moduls abgelegt werden.
+<sup>3</sup> Die Wiederholung einer Modulprüfung muss am nächsten ordentlichen Prüfungstermin erfolgen.[^19-2]
 
 <sup>4</sup> Schriftliche Arbeiten werden von einer Examinatorin oder einem Examinator bewertet. Diese oder dieser hält die Begründung für die Bewertung schriftlich fest. Im Zweifelsfall oder bei einer Bewertung mit der Note FX oder F zieht die Examinatorin oder der Examinator eine zweite Expertin oder einen zweiten Experten bei.
 
@@ -334,10 +347,11 @@ Die Module werden anhand folgender Punkte beschrieben:
 
 <sup>6</sup> Schriftliche Prüfungen werden von einer Examinatorin oder einem Examinator bewertet. Diese oder dieser zieht im Zweifelsfall oder bei einer Bewertung mit der Note FX oder F eine zweite Expertin oder einen zweiten Experten bei. Die Bewertung der Arbeit wird schriftlich festgehalten.
 
-<sup>7</sup> Prüfungslektionen werden von zwei Examinatorinnen oder Examinatoren durchgeführt. Diese halten Gegenstand sowie Verlauf der Prüfungslektion in einem Protokoll fest.[^19-2]
+<sup>7</sup> Prüfungslektionen werden von zwei Examinatorinnen oder Examinatoren durchgeführt. Diese halten Gegenstand sowie Verlauf der Prüfungslektion in einem Protokoll fest.[^19-3]
 
 [^19-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
-[^19-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^19-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^19-3]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 #### Art. 20
 
@@ -364,12 +378,15 @@ Jede Modulprüfung sowie die Abschlussarbeit werden mit einer Note nach folgende
 - C = gut
 - D = befriedigend
 - E = ausreichend
-- FX = nicht bestanden – es sind Verbesserungen erforderlich
-- F = nicht bestanden – es sind erhebliche Verbesserungen erforderlich
+- FX = nicht bestanden
+- F = nicht bestanden, mit erheblichen Mängeln.[^21-1]
 
 <sup>2</sup> Das Qualifikationsverfahren ist bestanden, wenn alle Modulprüfungen sowie die allfällige Abschlussarbeit mindestens mit der Note E bewertet sind.
 
-<sup>3</sup> Die Resultate werden den Studierenden spätestens einen Monat nach der Prüfung schriftlich mitgeteilt. Die schriftliche Mitteilung enthält insbesondere bei einer Bewertung mit der Note FX oder F Vorschläge zur Verbesserung oder Neukonzeption.
+<sup>3</sup> Die Resultate werden den Studierenden spätestens einen Monat nach der Prüfung schriftlich mitgeteilt.[^21-2]
+
+[^21-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^21-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 #### Art. 22
 
@@ -383,15 +400,9 @@ Jede Modulprüfung sowie die Abschlussarbeit werden mit einer Note nach folgende
 
 #### Art. 23
 
-**Täuschung in Qualifikationsverfahren**
+[^23-1]
 
-<sup>1</sup> Versucht die Kandidatin oder der Kandidat, das Ergebnis einer Modulprüfung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, so bewertet die zuständige Examinatorin oder der zuständige Examinator das Prüfungsverfahren mit der Note F.
-
-<sup>2</sup> Werden bei Abschlussarbeiten umfangreiche Passagen aus anderen Dokumenten ohne Quellenangabe übernommen, so bewertet die Examinatorin oder der Examinator die Abschlussarbeit mit der Note F.
-
-<sup>3</sup> Täuschungen in Qualifikationsverfahren haben Disziplinarmassnahmen nach Artikel 31 des EHB-Gesetzes vom 25. September 2020 zur Folge.[^23-1]
-
-[^23-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^23-1]: Aufgehoben durch Ziff. I der V des EHB-Rats vom 18. Nov. 2021, mit Wirkung seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 #### Art. 24
 
@@ -399,35 +410,19 @@ Jede Modulprüfung sowie die Abschlussarbeit werden mit einer Note nach folgende
 
 <sup>1</sup> Die Prüfungsakten werden so lange aufbewahrt, bis alle Entscheide derselben Prüfungssession rechtskräftig sind, mindestens aber drei Jahre.
 
-<sup>2</sup> Notenblätter und Entscheide der Prüfungskommission werden zehn Jahre lang aufbewahrt.
+<sup>2</sup> Notenblätter und -entscheide werden zehn Jahre lang aufbewahrt.[^24-1]
 
 <sup>3</sup> Die EHB kann Abschlussarbeiten veröffentlichen oder anderswie zugänglich machen. Sie kann sie auf unbestimmte Zeit archivieren. Vorbehalten bleiben die Bestimmungen über das Urheberrecht und den Datenschutz.
 
-## 6. Abschnitt: Einsprache und Beschwerde
+[^24-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 18. Nov. 2021, in Kraft seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
-#### Art. 25
+## 6. Abschnitt: ...
 
-**Einsprachemöglichkeit**
+#### Art. 25–27
 
-<sup>1</sup> Gegen Entscheide der nationalen Spartenleiterinnen und nationalen Spartenleiter der EHB kann Einsprache erhoben werden.
+[^2527-1]
 
-<sup>2</sup> Gegen die Benotung bestandener Prüfungsverfahren kann nicht Einsprache erhoben werden.
-
-#### Art. 26
-
-**Frist, Form und Inhalt der Einsprache**
-
-<sup>1</sup> Eine Einsprache muss innerhalb von dreissig Tagen nach Mitteilung des Entscheids erfolgen. Diese Frist kann nicht verlängert werden.
-
-<sup>2</sup> Die Einsprache muss schriftlich an die Direktorin oder den Direktor der EHB (Kirchlindachstrasse 79, Postfach, CH-3052 Zollikofen) gerichtet werden.
-
-<sup>3</sup> Sie hat einen Antrag und eine Begründung zu enthalten.
-
-#### Art. 27
-
-**Beschwerde**
-
-Gegen Einspracheentscheide der Direktorin oder des Direktors der EHB kann innerhalb von dreissig Tagen nach Eröffnung des Entscheids schriftlich und begründet beim Bundesverwaltungsgericht Beschwerde erhoben werden.
+[^2527-1]: Aufgehoben durch Ziff. I der V des EHB-Rats vom 18. Nov. 2021, mit Wirkung seit 1. März 2022 ([AS 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 ## 7. Abschnitt: ...
 

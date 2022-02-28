@@ -3,28 +3,28 @@ sr: "412.106.12"
 title: Ordonnance du conseil de la HEFP du 22 juin 2010 concernant les offres de formation et les diplômes à la HEFP ainsi que l’admission aux offres de formation (Ordonnance sur les études à la HEFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/445"
 language: fr
-version: 2021-08-01
+version: 2022-03-01
 adopted: 2010-06-22
 in_force: 2010-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/445/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2010-445-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/445/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/445/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2010-445-20220301-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/445/20220301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du Conseil de la HEFP concernant les offres de formation et les diplômes à la Haute école fédérale en formation professionnelle ainsi que l’admission aux offres de formation
+# Ordonnance du Conseil de la HEFP concernant les offres de formation et les diplômes à la HEFP ainsi que l’admission aux offres de formation
 
-(Ordonnance sur les études à la HEFP)**[^t-1]**
+(Ordonnance sur les études à la HEFP)[^t-1]
 
-du 22 juin 2010 (Etat le 1<sup>er</sup> août 2021)
+du 22 juin 2010 (État le 1<sup>er</sup> mars 2022)
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 Le Conseil de la Haute école fédérale en formation professionnelle (Conseil de la HEFP),
 
 vu les art. 6, al. 3, et 7, al. 6, de la loi du 25 septembre 2020 sur la HEFP[^ingress-1],
 
-arrête:*[^ingress-2]*
+arrête:[^ingress-2]
 
 [^ingress-1]: [RS 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
@@ -38,23 +38,24 @@ arrête:*[^ingress-2]*
 La Haute école fédérale en formation professionnelle (HEFP) offre les formations suivantes:[^1-1]
 
 - a. filières d’études sanctionnées par un certificat pour les formateurs dans les cours interentreprises et dans d’autres lieux de formation comparables ainsi que dans les écoles de métiers et dans d’autres institutions de formation à la pratique professionnelle reconnues (art. 45, let. c, de l’O du 19 nov. 2003 sur la formation professionnelle, OFPr[^1-2]);
-- b. filières d’études sanctionnées par un diplôme et par un certificat pour les enseignants exerçant une activité à titre principal ou accessoire dans les écoles professionnelles pour l’enseignement des branches professionnelles (art. 46, al. 2, let. b, OFPr);
+- b.[^1-3] filières d’études sanctionnées par un diplôme ou par un certificat pour les enseignants exerçant une activité à titre principal ou accessoire dans les écoles professionnelles pour l’enseignement des branches professionnelles (art. 46, al. 2, let. b, OFPr);
 - c. filières d’études sanctionnées par un diplôme pour les enseignants exerçant dans les écoles professionnelles pour l’enseignement de la culture générale (art. 46, al. 3, let. a et c, OFPr);
-- c<sup>bis</sup>.[^1-3] filière d’études sanctionnée par un diplôme pour les enseignants exerçant dans les écoles de maturité professionnelle (art. 46, al. 3, let. c, OFPr);
+- c<sup>bis</sup>.[^1-4] filière d’études sanctionnée par un diplôme pour les enseignants exerçant dans les écoles de maturité professionnelle (art. 46, al. 3, let. c, OFPr);
 - d. filières d’études sanctionnées par un certificat destinées aux personnes habilitées à enseigner au niveau gymnasial (art. 46, al. 3, let. b, OFPr);
-- d<sup>bis</sup>.[^1-4] filières d’études sanctionnées par un certificat pour les enseignants en charge du sport dans la formation professionnelle initiale (art. 46, al. 3, let. a et b OFPr);
-- e. filières d’études sanctionnées par un diplôme et par un certificat pour les enseignants exerçant une activité à titre principal ou accessoire dans les écoles supérieures (art. 12, al. 1, let. b, de l’O du DEFR[^1-5] du 11 mars 2005 concernant les conditions minimales de reconnaissance des filières de formation et des études postdiplômes des écoles supérieures[^1-6]);
-- f.[^1-7] filière bachelor (BSc) en formation professionnelle, et
-- g.[^1-8] filière master (MSc) en formation professionnelle.
+- d<sup>bis</sup>.[^1-5] filières d’études sanctionnées par un diplôme ou par un certificat pour les enseignants en charge du sport dans la formation professionnelle initiale (art. 46, al. 3, OFPr);
+- e.[^1-6] filières d’études sanctionnées par un diplôme ou par un certificat pour les enseignants exerçant une activité à titre principal ou accessoire dans les écoles supérieures (art. 13, al. 1, let. b, de l’ordonnance du DEFR du 11 septembre 2017 concernant les conditions minimales de reconnaissance des filières de formation et des études postdiplômes des écoles supérieures [OCM ES][^1-7]);
+- f.[^1-8] filière bachelor (BSc) en formation professionnelle, et
+- g.[^1-9] filière master (MSc) en formation professionnelle.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 [^1-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^1-3]: Introduite par le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^1-4]: Introduite par le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
-[^1-5]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-6]: [RO 2005 1389](https://fedlex.data.admin.ch/eli/oc/2005/208), [2010 4555](https://fedlex.data.admin.ch/eli/oc/2010/653), [2014 59](https://fedlex.data.admin.ch/eli/oc/2014/3)[4575](https://fedlex.data.admin.ch/eli/oc/2014/769). [RO 2017 5261](https://fedlex.data.admin.ch/eli/oc/2017/586). Voir actuellement l’art. 13 al. 1 let. b de l’O du DEFR du 11 sept. 2017 ([RS 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)).
-[^1-7]: Nouvelle teneur selon le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^1-8]: Introduite par le ch. I de l’O du conseil de l’IFFP du 20 mai 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)). Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^1-4]: Introduite par le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^1-5]: Introduite par le ch. I de l’O du Conseil de la HEFP du 17 juin 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)). Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^1-6]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^1-7]: [RS 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)
+[^1-8]: Nouvelle teneur selon le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^1-9]: Introduite par le ch. I de l’O du conseil de l’IFFP du 20 mai 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)). Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 #### Art. 2
 
@@ -96,20 +97,24 @@ Les personnes ayant achevé avec succès la procédure de qualification d’une 
 
 - a. «enseignant de la formation professionnelle diplômé» après réussite de la procédure de qualification de la filière d’études sanctionnée par un diplôme pour les enseignants des branches professionnelles dans les écoles professionnelles, et de la filière d’études sanctionnée par un diplôme pour l’enseignement de la culture générale;
 - b. «enseignant diplômé pour l’enseignement menant à la maturité professionnelle en école professionnelle» après réussite de la procédure de qualification de la filière d’études sanctionnée par un diplôme pour les enseignants exerçant dans les écoles de maturité professionnelle;
+- b<sup>bis</sup>.[^4-1] «enseignant diplômé en charge du sport dans la formation professionnelle initiale» après réussite de la procédure de qualification de la filière d’études sanctionnée par un diplôme pour les enseignants en charge du sport dans la formation professionnelle initiale;
 - c. «enseignant d’école supérieure diplômé» après réussite de la procédure de qualification de la filière d’études sanctionnée par un diplôme pour les enseignants des branches professionnelles dans les écoles supérieures;
 - d. «Bachelor of Science en formation professionnelle» après réussite de la procédure de qualification de la filière bachelor;
-- e. «Master of Science en formation professionnelle» après réussite de la procédure de qualification de la filière master.[^4-1]
+- e. «Master of Science en formation professionnelle» après réussite de la procédure de qualification de la filière master.[^4-2]
 
-<sup>2</sup> Un «supplément au diplôme» (Diploma Supplement) est délivré pour les bachelors, les masters et les autres diplômes, un «supplément au certificat» (Certificate Supplement) pour les certificats.[^4-2]
+<sup>2</sup> Un «supplément au diplôme» (Diploma Supplement) est délivré pour les bachelors, les masters et les autres diplômes, un «supplément au certificat» (Certificate Supplement) pour les certificats.[^4-3]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^4-1]: Introduite par le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
 
 #### Art. 5
 
-**Assurance qualité**
+**Assurance qualité**[^5-1]
 
-Le directeur de la HEFP veille à la mise sur pied d’une évaluation systématique et périodique des modules relatifs à l’ensemble des offres de formation en établissant à cette fin une méthode standardisée. Les résultats de cette évaluation sont pris en considération lors du développement futur des offres.
+Le directeur de la HEFP veille à la mise sur pied d’une assurance qualité systématique et périodique relative à l’ensemble des offres de formation en établissant à cette fin une méthode standardisée.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 ## Section 2 Admission, durée des études et nombre de crédits
 
@@ -117,37 +122,40 @@ Le directeur de la HEFP veille à la mise sur pied d’une évaluation systémat
 
 **Conditions d’admission**
 
-<sup>1</sup> ...[^6-1]
+<sup>1</sup> …[^6-1]
 
-<sup>2</sup> En ce qui concerne l’admission dans les filières d’études sanctionnées par un diplôme pour les enseignants exerçant une activité à titre principal dans les écoles professionnelles ainsi que pour les enseignants exerçant une activité à titre principal dans les écoles supérieures, une maturité (professionnelle, spécialisée ou gymnasiale) ou une attestation de formation équivalente, complétée par une qualification postérieure, est en outre requise.
+<sup>2</sup> En ce qui concerne l’admission dans les filières d’études sanctionnées par un diplôme, une maturité professionnelle, spécialisée ou gymnasiale ou une attestation de formation équivalente est requise.[^6-2]
 
-<sup>3</sup> …[^6-2]
+<sup>3</sup> …[^6-3]
 
-<sup>4</sup> Le Conseil de la HEFP institue une commission d’admission pour les filières d’études. Le directeur de la HEFP définit les tâches de la commission dans des instructions.[^6-3]
+<sup>4</sup> Le Conseil de la HEFP institue une commission d’admission pour les filières d’études. Le directeur de la HEFP définit les tâches de la commission dans des instructions.[^6-4]
 
 <sup>5</sup> Les conditions d’admission dans les filières de formation continue sont régies par les plans d’études.
 
 [^6-1]: Abrogé par le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, avec effet au 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
-[^6-2]: Abrogé par le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, avec effet au 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^6-3]: Nouvelle teneur selon le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^6-3]: Abrogé par le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, avec effet au 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
 
 #### Art. 7
 
-**Durée des filières d’études et nombre de crédits[^7-1]**
+**Durée des filières d’études et nombre de crédits**[^7-1]
 
 <sup>1</sup>
 
 La durée des filières d’études visées à l’art. 1, let. a à e, est régie par les dispositions suivantes:
 
-- a. les art. 45 ss OFPr[^7-2];
-- b. l’art. 12, al. 1, let. b, de l’ordonnance du DEFR du 11 mars 2005 concernant les conditions minimales de reconnaissance des filières de formation et des études postdiplômes des écoles supérieures[^7-3].
+- a. les art. 45 à 47 OFPr;
+- b. l’art. 13, al. 1, let. b, OCM ES[^7-2].
 
-<sup>2</sup> La filière bachelor BSc correspond à 180 crédits ECTS et la filière master MSc correspond à 120 crédits ECTS.[^7-4]
+<sup>2</sup> La filière bachelor BSc correspond à 180 crédits ECTS et la filière master MSc correspond à 120 crédits ECTS.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^7-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^7-3]: [RO 2005 1389](https://fedlex.data.admin.ch/eli/oc/2005/208), [2010 4555](https://fedlex.data.admin.ch/eli/oc/2010/653), [2014 59](https://fedlex.data.admin.ch/eli/oc/2014/3)[4575](https://fedlex.data.admin.ch/eli/oc/2014/769). [RO 2017 5261](https://fedlex.data.admin.ch/eli/oc/2017/586). Voir actuellement l’art. 13, al. 1, let. b, de l’O du DEFR du 11 sept. 2017 ([RS 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)).
-[^7-4]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+<sup>3</sup> La durée réglementaire des études s’élève à huit semestres pour la filière bachelor BSc et à six semestres pour la filière master MSc. La durée réglementaire peut être dépassée de six semestres au maximum.
+
+<sup>4</sup> Si des motifs valables le justifient, le responsable national de secteur de la HEFP peut, à la demande de l’étudiant, accorder une prolongation de la durée des études au-delà de la durée maximale visée à l’al. 3.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^7-2]: [RS 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)
 
 #### Art. 8
 
@@ -163,9 +171,11 @@ Les filières de formation continue comprennent les nombres de crédits ECTS sui
 
 #### Art. 9
 
-**Dates des semestres**
+**Dates des semestres**[^9-1]
 
-Le directeur de la HEFP fixe chaque année les dates des semestres en concertation avec les hautes écoles suisses.
+Le directeur de la HEFP fixe les dates des semestres. Il prend en compte les dates des semestres des autres hautes écoles suisses.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 #### Art. 10
 
@@ -205,8 +215,11 @@ L’exmatriculation ou la désinscription se fait:
 La HEFP exmatricule ou désinscrit la personne:
 
 - a. qui a été immatriculée ou inscrite à tort suite à une erreur ou à la communication de données erronées;
-- b. qui, sans invoquer de justes motifs, n’a pas respecté le délai de prolongation de l’immatriculation ou de l’inscription, ou
-- c. qui a été exclue des cours et des examens pour des motifs disciplinaires.
+- b. qui a échoué à l’examen de module ou au travail final au bout de la seconde répétition;
+- c. qui a atteint la durée maximale des études et qui n’a pas présenté de demande de prolongation, l’a fait trop tard ou sans succès, ou
+- d. qui a été exclue des cours et des examens pour des motifs disciplinaires.[^11-1]
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 ## Section 4 Développement des offres de formation, mise sur pied et prise en compte des prestations d’études
 
@@ -236,7 +249,7 @@ Les filières d’études et les filières de formation continue sont régies pa
 
 **Modules**
 
-<sup>1</sup> Les filières d’études et les filières de formation continue se composent d’un ou de plusieurs modules.[^13-1] Un module équivaut au minimum à 3 crédits ECTS et au maximum à 10 crédits. Un crédit ECTS représente une charge de travail de 30 heures d’études.
+<sup>1</sup> Les filières d’études et les filières de formation continue se composent d’un ou de plusieurs modules.[^13-1]
 
 <sup>2</sup>
 
@@ -245,7 +258,7 @@ Les modules sont décrits à l’aide des rubriques suivantes:
 - a. nom du module;
 - b. niveau du module;
 - c. type du module;
-- d. cours correspondants ou champs thématiques correspondants;
+- d.[^13-2] cours offres d’apprentissage ou champs thématiques correspondants;
 - e. nombre de crédits ECTS, avec indication détaillée des heures de présence aux cours, du travail personnel accompagné, du travail personnel et de la procédure de qualification;
 - f. objectifs des études et compétences;
 - g. procédures de qualification;
@@ -254,7 +267,8 @@ Les modules sont décrits à l’aide des rubriques suivantes:
 
 <sup>3</sup> Le directeur de la HEFP édicte les modules.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du conseil de l’IFFP du 20 mai 2019, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 #### Art. 14
 
@@ -268,15 +282,15 @@ Les modules sont décrits à l’aide des rubriques suivantes:
 
 #### Art. 15
 
-**Présence**
+**Obligation de présence**[^15-1]
 
-<sup>1</sup> L’enseignement présentiel doit être suivi intégralement.
+<sup>1</sup> Le directeur inscrit dans les descriptifs de module toute éventuelle obligation de présence aux cours.
 
-<sup>2</sup> Les absences en cas de force majeure doivent être motivées, et les responsables des études doivent en être avertis.
+<sup>2</sup> Si un étudiant ne se conforme pas à l’obligation de présence pour de justes motifs, il peut compenser les cours non suivis. Sont notamment considérés comme de justes motifs l’accident, la maladie ou le décès d’un parent proche.
 
-<sup>3</sup> Le directeur de la HEFP édicte des instructions relatives à la gestion des absences.
+<sup>3</sup> Si les cours ne sont pas compensés ou en l’absence de justes motifs, le module concerné doit être répété le plus tôt possible.
 
-<sup>4</sup> Les enseignants tiennent une liste de présence.
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 #### Art. 16
 
@@ -328,7 +342,7 @@ Les modules sont décrits à l’aide des rubriques suivantes:
 
 <sup>2</sup> L’évaluation des prestations se base sur des critères et des indicateurs communiqués aux étudiants avant l’examen.
 
-<sup>3</sup> L’examen de module doit être passé dans un délai d’un semestre après l’achèvement du module.
+<sup>3</sup> La répétition d’un examen de module doit avoir lieu lors de la session d’examen ordinaire suivante.[^19-2]
 
 <sup>4</sup> Les travaux écrits sont évalués par un examinateur. Cette personne consigne par écrit les justifications relatives à l’évaluation. En cas de doute ou si la note FX ou F est attribuée, l’examinateur fait appel à un second expert.
 
@@ -336,10 +350,11 @@ Les modules sont décrits à l’aide des rubriques suivantes:
 
 <sup>6</sup> Les examens écrits se déroulent en présence d’un examinateur. Cette personne fait appel à un second expert si elle a un doute ou si la note FX ou F est attribuée. L’évaluation du travail est donnée par écrit.
 
-<sup>7</sup> Les leçons d’épreuve sont dirigées par deux examinateurs. Ces derniers consignent dans un procès-verbal l’objet et le déroulement de la leçon.[^19-2]
+<sup>7</sup> Les leçons d’épreuve sont dirigées par deux examinateurs. Ces derniers consignent dans un procès-verbal l’objet et le déroulement de la leçon.[^19-3]
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
-[^19-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 #### Art. 20
 
@@ -366,12 +381,15 @@ Tous les examens de modules ainsi que le travail final sont évalués selon le b
 - C = bien
 - D = satisfaisant
 - E = suffisant
-- FX = non réussi – des améliorations sont nécessaires
-- F = non réussi – d’importantes améliorations sont nécessaires
+- FX = non réussi
+- F = non réussi, avec des lacunes importantes.[^21-1]
 
 <sup>2</sup> La procédure de qualification est réussie si l’étudiant a obtenu au minimum la note E à chaque examen de module et à l’éventuel travail final.
 
-<sup>3</sup> Les résultats de l’examen doivent être communiqués aux étudiants par écrit au plus tard un mois après l’examen. Si la note FX ou F a été attribuée, la communication écrite doit comporter des indications sur les améliorations à apporter ou la réorientation à opérer.
+<sup>3</sup> Les résultats de l’examen sont communiqués aux étudiants par écrit au plus tard un mois après l’examen.[^21-2]
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 #### Art. 22
 
@@ -385,15 +403,9 @@ Tous les examens de modules ainsi que le travail final sont évalués selon le b
 
 #### Art. 23
 
-**Fraude lors de procédures de qualification**
+[^23-1]
 
-<sup>1</sup> L’examinateur responsable attribue la note F à une procédure d’examen lorsque le candidat tente d’influencer le résultat d’un examen de module en recourant à la fraude ou à des moyens non autorisés.
-
-<sup>2</sup> Si un travail final reproduit de longs passages extraits d’autres documents sans qu’il soit fait mention des sources, l’examinateur lui attribue la note F.
-
-<sup>3</sup> La fraude lors de procédures de qualification donne lieu à des mesures disciplinaires en vertu de l’art. 31 de la loi du 25 septembre 2020 sur la HEFP.[^23-1]
-
-[^23-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 17 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^23-1]: Abrogé par le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, avec effet au 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
 #### Art. 24
 
@@ -401,37 +413,21 @@ Tous les examens de modules ainsi que le travail final sont évalués selon le b
 
 <sup>1</sup> Les dossiers d’examen sont conservés jusqu’à l’entrée en force de toutes les décisions relatives à la même session d’examen, mais au minimum durant trois ans.
 
-<sup>2</sup> Les relevés de notes et les décisions de la commission d’examen sont conservés pendant dix ans.
+<sup>2</sup> Les relevés de notes et les décisions sont conservés pendant dix ans.[^24-1]
 
 <sup>3</sup> La HEFP peut publier des travaux finaux ou les rendre accessibles d’une autre manière. Il peut les archiver pour une durée indéterminée. Les dispositions de la législation sur le droit d’auteur et sur la protection des données sont réservées.
 
-## Section 6 Opposition et recours
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
-#### Art. 25
+## Section 6 …
 
-**Opposition**
+#### Art. 25 à 27
 
-<sup>1</sup> Les décisions des responsables nationaux de secteur de la HEFP peuvent faire l’objet d’une opposition.
+[^2527-1]
 
-<sup>2</sup> La notation d’une procédure de qualification réussie ne peut pas faire l’objet d’une opposition.
+[^2527-1]: Abrogés par le ch. I de l’O du Conseil de la HEFP du 18 nov. 2021, avec effet au 1<sup>er</sup> mars 2022 ([RO 2022 82](https://fedlex.data.admin.ch/eli/oc/2022/82)).
 
-#### Art. 26
-
-**Délai, forme et contenu de l’opposition**
-
-<sup>1</sup> L’opposition doit se faire dans les 30 jours à compter de la communication de la décision. Ce délai ne peut être prolongé.
-
-<sup>2</sup> L’opposition doit être adressée par écrit au directeur de la HEFP (adresse: Kirchlindachstrasse 79, case postale, CH-3052 Zollikofen).
-
-<sup>3</sup> L’opposition doit contenir une requête et un motif.
-
-#### Art. 27
-
-**Recours**
-
-Les décisions sur opposition rendues par le directeur de la HEFP peuvent faire l’objet d’un recours écrit et motivé adressé au Tribunal administratif fédéral dans les 30 jours à compter de la notification de la décision.
-
-## Section 7 ...
+## Section 7 …
 
 #### Art. 28
 
