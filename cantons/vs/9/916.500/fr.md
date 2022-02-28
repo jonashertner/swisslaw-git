@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "916.500"
-title: "Arrêté concernant l'estivage 2021"
+title: "Arrêté concernant l'estivage 2022"
 language: fr
-version: 2021-03-01
-valid_until: 2022-02-28
-version_adopted: 2021-03-17
+version: 2022-03-01
+valid_until: 2023-02-28
+version_adopted: 2022-03-09
 adopted: 2026-04-01
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/916.500"
-pdf: "https://lex.vs.ch/api/fr/versions/2870/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3016/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Arrêté concernant l'estivage 2021
+# Arrêté concernant l'estivage 2022
 
-du 17.03.2021 (état 01.03.2021)
+du 09.03.2022 (état 01.03.2022)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -40,9 +40,9 @@ arrête:
 
 <sup>2</sup> Les animaux qui sont conduits à leur lieu d'estivage dans des véhicules ne doivent pas être transportés avec du bétail de boucherie ou du bétail de commerce. Le transport doit être effectué dans des véhicules nettoyés et désinfectés.
 
-<sup>3</sup> Le détenteur d'animaux responsable de l'exploitation d'alpage et les autres employés de l'exploitation d'alpage sont tenus d'observer consciencieusement et dans la mesure du possible quotidiennement les animaux estivés et de faire appel au vétérinaire compétent en cas de suspicion de maladie.
+<sup>3</sup> Le détenteur d'animaux responsable de l'exploitation d'alpage et les autres employés de l'exploitation d'alpage sont tenus d'observer consciencieusement et dans la mesure du possible quotidiennement les animaux estivés et de faire appel au vétérinaire compétent à la moindre suspicion de maladie.
 
-<sup>4</sup> L'estivage du bétail n'a lieu qu'à partir du 15 mai et jusqu'au 15 octobre. Le vétérinaire cantonal peut sur demande écrite et motivée délivrer une permission d’estivage jusqu’au 30 octobre. Si des animaux se trouvent sur un estivage au-delà de cette date et sont menacés par des conditions météorologiques extrêmes, ils doivent immédiatement être désalpés et mis à l’abri par leur propriétaire. Si ce dernier n’est pas identifié ou dans l’incapacité d’agir, la commune est responsable de prendre toutes les mesures nécessaires, conformément à l’article 15 alinéa 2 de la loi d'application de la loi fédérale sur la protection des animaux (LALPA). Elle peut en dernier ressort faire appel au garde-chasse, qui après préavis positif du Vétérinaire cantonal, peut procéder au tir des animaux concernés.
+<sup>4</sup> L'estivage du bétail n'a lieu qu'à partir du 15 mai et jusqu'au 15 octobre. Le vétérinaire cantonal peut sur demande écrite et motivée délivrer une permission d’estivage jusqu’au 30 octobre. Si des animaux se trouvent sur un estivage au-delà de cette date et sont menacés par des conditions météorologiques extrêmes, ils doivent immédiatement être désalpés et mis à l’abri par leur propriétaire. Si ce dernier n’est pas identifié ou dans l’incapacité d’agir, la commune est responsable de prendre toutes les mesures nécessaires, conformément à l’article 15 alinéa 2 de la loi d'application de la loi fédérale sur la protection des animaux (LALPA). Elle peut en dernier ressort faire appel au garde-faune, qui après préavis positif du Vétérinaire cantonal, peut procéder au tir des animaux concernés.
 
 <sup>5</sup> Obligation d'inscrire les médicaments vétérinaires dans un registre. Selon l'ordonnance sur les médicaments vétérinaires (OMédV), presque tous les médicaments vétérinaires administrés à des animaux de rente doivent être inscrits dans un registre (tous les médicaments remis sur ordonnance, tous les médicaments pour lesquels il faut respecter un temps d'attente, les médicaments reconvertis ou importés, les médicaments non soumis à une autorisation de mise sur le marché, les médicaments fabriqués selon une formule magistrale). Si des médicaments vétérinaires sont administrés à des animaux sur l'alpage, les informations suivantes doivent être inscrites dans un journal des traitements:
 
@@ -68,11 +68,13 @@ arrête:
 
 <sup>9</sup> L'application de médicaments vétérinaires à distance (au moyen de sarbacanes ou de fusils anesthésiants) est interdite. Exceptions: l'administration de tranquillisants au moyen de sarbacane ou de fusils anesthésiants.
 
+<sup>10</sup> En cas de vêlage dans des exploitations d'estivage, il convient de tenir compte des aspects en lien avec le bien-être des animaux, la prévention des accidents et la protection des troupeaux. Les mesures correspondantes figurent dans le guide sur les vêlages dans les exploitations d'estivage établi par l'Office de la sécurité alimentaire et de la santé animale du canton des Grisons.
+
 #### Art. 2
 
 **Cadavres d'animaux**
 
-<sup>1</sup> Si des animaux meurent à l'alpage, les cadavres doivent être éliminés conformément aux prescriptions de l'ordonnance concernant l'élimination des sous-produits animaux (OESPA), autrement dit: soit être conduits à l'incinération, soit être enfouis avec l'accord du vétérinaire cantonal. Ce dernier tranche les cas particuliers.
+<sup>1</sup> Si des animaux meurent à l'alpage, les cadavres doivent être éliminés conformément aux prescriptions de l'ordonnance concernant l'élimination des sous-produits animaux (OSPA), autrement dit: soit être conduits à l'incinération, soit être enfouis avec l'accord du vétérinaire cantonal. Ce dernier tranche les cas particuliers.
 
 ## 2 Contrôle du trafic des animaux
 
@@ -80,7 +82,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> En principe, toutes les lois, ordonnances et directives applicables au trafic des animaux sont applicables à l'estivage. On veillera aux points suivants.
+<sup>1</sup> En principe, toutes les lois, ordonnances et directives applicables au trafic des animaux sont applicables à l'estivage. On veillera notamment aux points suivants.
 
 #### Art. 4
 
@@ -89,7 +91,7 @@ arrête:
 <sup>1</sup> Toute exploitation d'estivage doit désigner un détenteur d'animaux responsable de l'exploitation. Ce chef d'exploitation porte la responsabilité des points suivants:
 
 - a) il doit réceptionner les documents d'accompagnement prescrits, les listes des animaux et les certificats requis que lui remettent les détenteurs d'animaux le jour où les animaux sont amenés à l'exploitation d'estivage; aux termes de l'article 8 de l'ordonnance sur les épizooties (OFE), il doit établir un registre des animaux; celui-ci mentionne les variations d'effectif (arrivées et départs), les numéros des marques d'identification et les données relatives aux inséminations et aux saillies;
-- b) il doit tenir le registre des animaux à jour en y inscrivant les éventuelles mutations survenant au cours de l'estivage;
+- b) il doit tenir le registre des animaux (BDTA) à jour en y inscrivant les éventuelles mutations ou pertes (maladie, accident, prédation) survenant au cours de l'estivage;
 - c) à la fin de l'estivage, il restitue les documents d'accompagnement apportés au début de l'estivage à condition:
   - 1\. qu'il n'y ait pas de changement de propriétaire et que les animaux retournent dans leur exploitation d'origine,
   - 2\. que les confirmations figurant aux chiffres 4 et 5 du document d'accompagnement soient toujours valables;
@@ -150,7 +152,7 @@ arrête:
 
 <sup>2</sup> Pour ce qui est de la maladie de la langue bleue, ce sont les dispositions et exigences actuelles du pays où les animaux sont estivés qui s’appliquent. Les animaux qui sont estivés en France doivent être vaccinés contre le BTV-4 et le BTV-8. Ceux qui sont estivés en Autriche doivent être vaccinés contre le BTV-8. Les animaux qui sont estivés dans le Bade-Wurtemberg ne doivent pas être vaccinés contre le BTV-8.
 
-<sup>3</sup> Les animaux qu’il est prévu d’estiver doivent faire l’objet d’un examen vétérinaire officiel dans les 48 heures avant leur départ pour le pacage. Le vétérinaire officiel établit un certificat sanitaire, qui accompagne les animaux à leur lieu de destination. Le certificat sanitaire à utiliser pour le pacage saisonnier ou le pacage journalier des bovins est celui reproduit dans le système TRACES. Pour le pacage des autres catégories d'animaux, l'accord vétérinaire bilatéral ne fixe aucun certificat spécial. C'est la raison pour laquelle il faudra convenir avec les services vétérinaires du lieu de destination du certificat à utiliser. Le certificat sanitaire à utiliser pour le pacage frontalier ou le pacage journalier doit comporter les informations suivantes:
+<sup>3</sup> Les animaux qu’il est prévu d’estiver doivent faire l’objet d’un examen vétérinaire officiel dans les 48 heures avant leur départ pour le pacage. Le vétérinaire officiel établit un certificat sanitaire, qui accompagne les animaux à leur lieu de destination. Le certificat sanitaire à utiliser pour le pacage saisonnier ou le pacage journalier des bovins est en principe un certificat sanitaire reproduit dans le système TRACES NT. En l'absence de certificat spécifique disponible, et pour le pacage des autres catégories d'animaux pour lesquelles l'accord vétérinaire bilatéral ne fixe aucun certificat spécial, le certificat à utiliser doit être défini avec les services vétérinaires du lieu de destination. Le certificat sanitaire à utiliser pour le pacage frontalier ou le pacage journalier doit comporter les informations suivantes:
 
 - a) la confirmation officielle que l’exploitation de provenance des animaux qu’il est prévu d’estiver ne fait l’objet d’aucune interdiction ou limitation liée à une épizootie bovine;
 - b) la confirmation officielle que le troupeau de provenance est reconnu officiellement indemne de leucose, de tuberculose et de brucellose;
@@ -188,7 +190,7 @@ arrête:
 - a) date de départ;
 - b) nombre de bovins et l'identification des animaux (numéro de la marque auriculaire);
 - c) adresse de l’exploitation de destination;
-- d) numéro d’agrément du transporteur (si la distance de transport est supérieure à 50km);
+- d) numéro d’agrément du transporteur (si la distance de transport est supérieure à 50 km);
 - e) confirmation du vétérinaire officiel que les animaux ont été examinés dans les 48 heures avant leur départ pour le retour dans leur exploitation de provenance et qu’ils n’ont présenté aucun signe de maladie infectieuse;
 - f) confirmation du vétérinaire officiel que la zone de pacage dans laquelle les animaux ont séjourné ne fait l’objet d’aucune interdiction ou limitation liée à des maladies touchant les espèces bovines et qu’aucun cas de tuberculose, de brucellose ou de leucose n’a été constaté au cours de la période de pacage.
 
@@ -210,7 +212,7 @@ arrête:
 
 <sup>5</sup> Mesures spéciales applicables au pacage transfrontalier dans les pays où des zones ont été délimitées pour cause de la maladie de la langue bleue: tous les animaux qui n’ont pas été vaccinés contre la maladie de la langue bleue avant le départ pour l’estivage doivent faire l’objet d’une analyse sanguine de dépistage du virus de la maladie de la langue bleue.
 
-<sup>6</sup> Mesures spéciales applicables au pacage transfrontalier dans le Vorarlberg (Autriche) : tous les bovins doivent faire l’objet d’un dépistage de la tuberculose bovine au moyen du test cutané à la tuberculine. Le test de dépistage est effectué au plus tôt 8 semaines après le retour des animaux en Suisse. Les bovins sont frappés d’une interdiction de déplacement jusqu’à ce que les résultats des tests de dépistage soient connus.
+<sup>6</sup> Mesures spéciales applicables au pacage transfrontalier dans le Vorarlberg (Autriche): tous les bovins doivent faire l’objet d’un dépistage de la tuberculose bovine au moyen du test cutané à la tuberculine. Le test de dépistage est effectué au plus tôt 8 semaines après le retour des animaux en Suisse. Les bovins sont frappés d’une interdiction de déplacement jusqu’à ce que les résultats des tests de dépistage soient connus.
 
 #### Art. 14
 
@@ -236,7 +238,7 @@ arrête:
 
 **Hypodermose**
 
-<sup>1</sup> Dans les régions qui ont eu des cas d’hypodermose, il est recommandé de traiter en automne le bétail bovin qui sera estivé. Le traitement des animaux atteints peut être ordonné par le vétérinaire cantonal de la région (art. 231 al. 2 de l’OFE).
+<sup>1</sup> Dans les régions qui ont eu des cas d’hypodermose, il est recommandé de traiter en automne le bétail bovin qui sera estivé. Le traitement des animaux atteints peut être ordonné par le vétérinaire cantonal de la région (art. 231 al. 2 OFE).
 
 #### Art. 18
 
@@ -264,13 +266,13 @@ arrête:
 
 <sup>1</sup> Les bêtes qui présentent des symptômes de kystes ovariens, nymphomanie, ligaments sacro-pelviens affaissés, chaleurs permanentes, beuglements caractéristiques seront immédiatement isolées du troupeau pendant la pâture.
 
-<sup>2</sup> Les bêtes âgées de plus de trois ans qui n’ont jamais eu de gestation complète, de même que les vaches qui ont mis bas pour la dernière fois avant le 1<sup>er</sup> septembre de l’année passée doivent pour être admises à l’estivage être portantes d’une gestation certaine attestée par un vétérinaire autorisé. Une durée de gestation de 50 jours au moins à la date prévue de l’inalpe est exigée. Le contrôle vétérinaire de gestation doit être exécuté au plus tôt 15 jours avant la date prévue de l'inalpe. Une gestation probable ne peut pas être prise en considération.
+<sup>2</sup> Les bêtes âgées de plus de 3 ans qui n’ont jamais eu de gestation complète, de même que les vaches qui ont mis bas pour la dernière fois avant le 1<sup>er</sup> septembre de l’année passée doivent pour être admises à l’estivage être portantes d’une gestation certaine attestée par un vétérinaire autorisé. Une durée de gestation de 50 jours au moins à la date prévue de l’inalpe est exigée. Le contrôle vétérinaire de gestation doit être exécuté au plus tôt 15 jours avant la date prévue de l'inalpe. Une gestation probable ne peut pas être prise en considération.
 
 <sup>3</sup> En cas d’avortement, les bêtes évoquées à l’alinéa 2 ne peuvent être alpées ou doivent quitter l’exploitation d’estivage.
 
 <sup>4</sup> Dans les cas douteux, le vétérinaire préposé au contrôle a le droit et même l’obligation de procéder à un nouvel examen et ceci avec la collaboration des responsables de l’alpage.
 
-<sup>5</sup> Les vaches, qui n’ont pas eu de gestation complète en 24 mois, ainsi que les génisses âgées de quatre ans et plus, sont exclues d’un alpage commun.
+<sup>5</sup> Les vaches, qui n’ont pas eu de gestation complète en 24 mois, ainsi que les génisses âgées de 4 ans et plus, sont exclues d’un alpage commun.
 
 <sup>6</sup> Pour une vache une durée de gestation de 283 +/- 21 jours peut être considérée comme normale. Un vêlage avant terme, (gestation de moins de 262 jours) et dont le veau survit c'est à dire qu'il atteint l'âge de 10 jours au moins, peut être considéré comme un vêlage normal. Une attestation vétérinaire est alors exigée.
 
@@ -312,7 +314,7 @@ arrête:
 
 <sup>4</sup> Le groupe stratégique sur la protection des troupeaux est l'organe cantonal compétent, il est placé sous la direction du responsable cantonal pour la protection des troupeaux et se compose au minimum de:
 
-- a) le responsable cantonal pour la protection des troupeaux (SCA, office de l'économie animale);
+- a) le responsable cantonal pour la protection des troupeaux (SCA, Landwirtschaftszentrum Visp);
 - b) un représentant de l'Office vétérinaire cantonal (Ovet, Service de la consommation et affaires vétérinaires, SCAV);
 - c) un représentant du Service de la chasse, pêche et faune (SCPF).
 
@@ -332,7 +334,7 @@ arrête:
 
 **Mesures en cas d'agression, de comportement suspect ou inadéquat**
 
-<sup>1</sup> Lors de l'annonce d'un incident ou d'un comportement inadéquat, l'organe compétent prend les mesures appropriées après évaluation de la situation.
+<sup>1</sup> Lors de l'annonce d'un incident ou d'un comportement inadéquat avec des personnes ou des animaux, l'organe compétent prend les mesures appropriées après évaluation de la situation.
 
 <sup>2</sup> Il peut, pour évaluer la situation, exiger une expertise lors des situations suivantes:
 
@@ -379,7 +381,7 @@ arrête:
 
 <sup>1</sup> Il faut prendre les dispositions pour empêcher toute création de bourbier. L’enfoncement dans le terrain ne devrait pas dépasser la couronne de l'onglon des bovins.
 
-<sup>2</sup> Les excréments ne doivent pas représenter un danger pour les eaux, même en cas de fortes précipitations (ruissellement ou percolation).
+<sup>2</sup> Les excréments ne doivent pas représenter un danger pour la qualité des eaux, même en cas de fortes précipitations (ruissellement ou percolation).
 
 ## 7 Personne garante de la mise en oeuvre des bonnes pratiques lors de la production des denrées alimentaires d'origine animale
 
@@ -389,13 +391,13 @@ arrête:
 
 <sup>1</sup> Chaque exploitation d’estivage produisant des denrées alimentaires d’origine animale destinées à la vente doit nommer une personne responsable au sens de l’article 2 alinéa 1 chiffre 7 de l’ordonnance sur les denrées alimentaires et les objets usuels (ODAlOUs).
 
-<sup>2</sup> Cette personne doit remplir sa tâche au sens de l’article 10 de l’ODAlOUs et en particulier elle doit prendre toutes les précautions et mesures nécessaires pour maîtriser les dangers d’atteinte à la santé humaine.
+<sup>2</sup> Cette personne doit remplir sa tâche au sens de l’article 10 ODAlOUs et en particulier elle doit prendre toutes les précautions et mesures nécessaires pour maîtriser les dangers d’atteinte à la santé humaine.
 
 <sup>3</sup> Elle doit veiller à ce que les denrées alimentaires ne subissent pas d'altération préjudiciable et à une manipulation hygiénique de ces dernières.
 
 <sup>4</sup> Elle veille au respect des prescriptions de l’ordonnance du DFI réglant l'hygiène dans la production laitière (OHyPL), notamment:
 
-- a) que le service complet de la machine à traire soit effectué chaque deux ans au moins;
+- a) que le service complet de la machine à traire soit effectué chaque 2 ans au moins;
 - b) que l’état sanitaire du bétail lui permette de produire des denrées alimentaires de qualité irréprochable.
 
 ## 8 Dispositions finales
@@ -410,4 +412,4 @@ arrête:
 
 <sup>3</sup> Le vétérinaire cantonal de même que le chimiste cantonal (section 7) sont chargés de l’exécution des présentes prescriptions. Ils sont autorisés à prendre d’urgence les mesures qu’ils jugeront utiles en vue de l'exécution du présent arrêté.
 
-RCV RO/AGS 2021-032
+RCV RO/AGS 2022-012

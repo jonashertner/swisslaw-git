@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "916.500"
-title: Beschluss betreffend die Sömmerung 2021
+title: Beschluss über die Sömmerung 2022
 language: de
-version: 2021-03-01
-valid_until: 2022-02-28
-version_adopted: 2021-03-17
+version: 2022-03-01
+valid_until: 2023-02-28
+version_adopted: 2022-03-09
 adopted: 2026-04-01
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/de/texts_of_law/916.500"
-pdf: "https://lex.vs.ch/api/de/versions/2870/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3016/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss betreffend die Sömmerung 2021
+# Beschluss über die Sömmerung 2022
 
-vom 17.03.2021 (Stand 01.03.2021)
+vom 09.03.2022 (Stand 01.03.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -24,7 +24,7 @@ eingesehen das Bundesgesetz über Lebensmittel und Gebrauchsgegenstände vom 9. 
 
 eingesehen das Bundesgesetz über den Schutz der Gewässer vom 24. Januar 1991 (Gewässerschutzgesetz, GSchG);
 
-eingesehen der Artikel 32 Absatz 1 der Verordnung zum Bundesgesetz über die Bekämpfung von Tierseuchen vom 27. Juni 1995 (TSV);
+eingesehen den Artikel 32 Absatz 1 der Verordnung zum Bundesgesetz über die Bekämpfung von Tierseuchen vom 27. Juni 1995 (TSV);
 
 eingesehen die Artikel 69, 77, 78 und 101 der eidgenössischen Tierschutzverordnung vom 23. April 2008 (TSchV);
 
@@ -55,7 +55,7 @@ beschliesst:
 - g) die Daten der Freigabe der verschiedenen vom Nutztier gewonnenen Lebensmittel;
 - h) der Name der abgabeberechtigten Person, die das Tierarzneimittel verschrieben, abgegeben oder verabreicht hat.
 
-<sup>6</sup> Werden Medikamente auf Vorrat bezogen, muss mit dem Tierarzt eine Tierarzneimittelvereinbarung abgeschlossen werden. Wird eine Tierarzneimittelvereinbarung abgeschlossen, muss der Tierarzt im Sömmerungsbetrieb während der Sömmerungsperiode mindestens einen Betriebsbesuch durchführen (TAMV Art. 10 Anhang 1). Bei Medikamenten, die auf Vorrat bezogen oder zurückgegeben werden, müssen folgende Aufzeichnungen in einer Inventarliste vorgenommen werden:
+<sup>6</sup> Werden Medikamente auf Vorrat bezogen, muss mit dem Tierarzt eine Tierarzneimittelvereinbarung abgeschlossen werden. Wird eine Tierarzneimittelvereinbarung abgeschlossen, muss der Tierarzt im Sömmerungsbetrieb während der Sömmerungsperiode mindestens einen Betriebsbesuch durchführen (Art. 10 Anhang 1 TAMV). Bei Medikamenten, die auf Vorrat bezogen oder zurückgegeben werden, müssen folgende Aufzeichnungen in einer Inventarliste vorgenommen werden:
 
 - a) das Datum;
 - b) der Handelsname;
@@ -67,6 +67,8 @@ beschliesst:
 <sup>8</sup> Die Tierschutzvorschriften namentlich zum Transport und zur Haltung gelten auch während der Sömmerung.
 
 <sup>9</sup> Die Fernapplikation von Tierarzneimitteln (mit Blasrohren oder "Narkosegewehren") ist verboten. Davon ausgenommen ist die Verabreichung von Beruhigungsmitteln mit Blasrohren oder "Narkosegewehren".
+
+<sup>10</sup> Bei Abkalbungen auf Sömmerungsbetrieben sind die Aspekte des Tierwohls, der Unfallverhütung und des Herdenschutzes zu berücksichtigen. In der Wegleitung für Abkalbungen auf Sömmerungsbetrieben des Amts für Lebensmittel-sicherheit und Tiergesundheit Graubünden werden entsprechende Massnahmen aufgeführt.
 
 #### Art. 2
 
@@ -87,7 +89,7 @@ beschliesst:
 <sup>1</sup> Jeder Sömmerungsbetrieb muss einen verantwortlichen Tierhalter bezeichnen. Der verantwortliche Tierhalter ist zuständig für folgende Punkte:
 
 - a) er muss die vorgeschriebenen Begleitdokumente, Tierlisten und Zeugnisse von den Tierhaltern am Tag der Auffuhr einziehen und ein Tierverzeichnis gemäss Artikel 8 TSV erstellen; das Tierverzeichnis enthält die Zu- und Abgänge, die Kennzeichen sowie die Belegungs- und Sprungdaten;
-- b) er muss allfällige Mutationen während der Sömmerungsperiode im Tierverzeichnis nachführen;
+- b) er muss allfällige Mutationen oder Abgänge (Krankheit, Unfall, Raubtiere) während der Sömmerungsperiode im Tierverzeichnis (TVD) nachführen;
 - c) Ende der Sömmerung: er gibt die beim Auftrieb mitgebrachten Begleitdokumente wieder zurück unter folgenden Bedingungen:
   - 1\. es findet keine Handänderung statt und die Tiere gehen wieder in den Ursprungsbetrieb zurück,
   - 2\. die Ziffern 4 und 5 des Begleitdokumentes treffen unverändert zu;
@@ -148,7 +150,7 @@ beschliesst:
 
 <sup>2</sup> In Bezug auf die Blauzungenkrankheit gelten die aktuellen Bestimmungen und Anforderungen derjenigen Länder, in welche die Tiere zur Sömmerung verbracht werden. Tiere, die in Frankreich gesömmert werden, müssen gegen BTV-4 und BTV-8 geimpft werden. Tiere, die in Österreich gesömmert werden, müssen gegen BTV-8 geimpft werden. Tiere, die in Baden-Württemberg gesömmert werden, müssen nicht gegen BTV-8 geimpft werden.
 
-<sup>3</sup> Die zur Sömmerung vorgesehenen Tiere müssen innerhalb 48 Stunden vor Antritt des Grenzweidegangs am Herkunftsort amtstierärztlich untersucht werden. Der amtliche Tierarzt stellt ein Gesundheitszeugnis aus, das die Tiere an den Bestimmungsort begleitet. Für Tiere der Rindergattung ist dafür das in TRACES abgebildete Sömmerungszeugnis zu verwenden. Für andere Tiergattungen wurde bisher im Veterinärabkommen kein spezielles Zeugnis festgelegt, sodass das zu verwendende Zeugnis weiterhin mit den Veterinärdiensten des Bestimmungsortes abgesprochen werden muss. Das Gesundheitszeugnis für den Grenzweidegang bzw. den Tagesweidegang enthält folgende Angaben:
+<sup>3</sup> Die zur Sömmerung vorgesehenen Tiere müssen innerhalb 48 Stunden vor Antritt des Grenzweidegangs am Herkunftsort amtstierärztlich untersucht werden. Der amtliche Tierarzt stellt ein Gesundheitszeugnis aus, das die Tiere an den Bestimmungsort begleitet. Das für den saisonalen Grenzweidegang oder den Tagesweidegang von Rindern zu verwendende Gesundheitszeugnis ist grundsätzlich ein im TRACES NT-System abgebildetes Gesundheitszeugnis. Ist kein spezielles Zeugnis verfügbar, und für den Grenzweidegang anderer Tierkategorien, für die im bilateralen Veterinärabkommen keine speziellen Zeugnisse festgelegt sind, ist das zu verwendende Zeugnis mit den Veterinärdiensten des Bestimmungsortes abzusprechen. Das Gesundheitszeugnis für den Grenzweidegang bzw. den Tagesweidegang enthält folgende Angaben:
 
 - a) Bestätigung des Amtstierarztes, dass der Betrieb, dessen Tiere gesömmert werden, nicht wegen einer Rinderkrankheit gesperrt oder anderweitig beschränkt ist;
 - b) amtliche Bestätigung, dass der Herkunftsbestand frei von Leukose-, Tuberkulose- und Brucellose ist;
@@ -220,7 +222,7 @@ beschliesst:
 
 **Bewilligung für den grenzüberschreitenden Transport**
 
-<sup>1</sup> Wirbeltiere dürfen nur von Transportunternehmen befördert werden, die über eine Bewilligung nach Artikel 170 der Tierschutzverordnung verfügen. Inhaltlich und formal sind neben den Schweizer Vorschriften sämtliche im Einzelfall anwendbaren Vorgaben der Verordnung EG 1/2005 einzuhalten. Keine Bewilligung ist nötig, wenn Landwirte ihre eigenen Tiere in eigenen Fahrzeugen über maximal 50 km transportieren.
+<sup>1</sup> Wirbeltiere dürfen nur von Transportunternehmen befördert werden, die über eine Bewilligung nach Artikel 170 der Tierschutzverordnung (TSchV) verfügen. Inhaltlich und formal sind neben den Schweizer Vorschriften sämtliche im Einzelfall anwendbaren Vorgaben der Verordnung EG 1/2005 einzuhalten. Keine Bewilligung ist nötig, wenn Landwirte ihre eigenen Tiere in eigenen Fahrzeugen über maximal 50 km transportieren.
 
 ## 4 Bestimmungen über die einzelnen Tiergattungen
 
@@ -262,13 +264,13 @@ beschliesst:
 
 <sup>1</sup> Tiere, die Anzeichen aufweisen von Ovarialzysten, Stiersüchtigkeit, gesenkten Beckenbändern, ständiger Brunst, typischem Brüllen werden während dem Weiden umgehend von der Herde isoliert.
 
-<sup>2</sup> Um für die Sömmerung zugelassen zu werden muss für über dreijährige Tiere, die noch keine vollständige Trächtigkeit gehabt haben, sowie für Kühe, die das letzte Mal vor dem 1. September des Vorjahres abgekalbt haben, ein tierärztliches Zeugnis eine Trächtigkeit (von mindestens 50 Tagen) bestätigen. Die tierärztliche Kontrolle der Trächtigkeit darf frühestens 15 Tage vor dem vorgesehenen Datum der Sömmerung erfolgen. Tierärztliche Zeugnisse mit einer Wahrscheinlichkeitsdiagnose auf Trächtigkeit sind ungültig und dürfen nicht angenommen werden.
+<sup>2</sup> Um für die Sömmerung zugelassen zu werden muss für über 3-jährige Tiere, die noch keine vollständige Trächtigkeit gehabt haben, sowie für Kühe, die das letzte Mal vor dem 1. September des Vorjahres abgekalbt haben, ein tierärztliches Zeugnis eine Trächtigkeit (von mindestens 50 Tagen) bestätigen. Die tierärztliche Kontrolle der Trächtigkeit darf frühestens 15 Tage vor dem vorgesehenen Datum der Sömmerung erfolgen. Tierärztliche Zeugnisse mit einer Wahrscheinlichkeitsdiagnose auf Trächtigkeit sind ungültig und dürfen nicht angenommen werden.
 
 <sup>3</sup> Die Tiere gemäss Absatz 2 dieses Artikels, müssen im Fall eines Abortes den Sömmerungsbetrieb verlassen.
 
 <sup>4</sup> Im Zweifelsfall hat der mit der Kontrolle beauftragte Tierarzt das Recht und die Pflicht, mit Hilfe des verantwortlichen Alppersonals, eine neue Untersuchung durchzuführen.
 
-<sup>5</sup> Kühe, die innerhalb von 24 Monaten keine vollständige Trächtigkeit gehabt haben sowie vierjährige und ältere Rinder werden von einer gemeinsamen Alpung ausgeschlossen.
+<sup>5</sup> Kühe, die innerhalb von 24 Monaten keine vollständige Trächtigkeit gehabt haben sowie 4-jährige und ältere Rinder werden von einer gemeinsamen Alpung ausgeschlossen.
 
 <sup>6</sup> Bei Kühen ist eine Trächtigkeitsdauer von 283 +/- 21 Tagen als normal zu betrachten. Ebenso zu beurteilen ist ein vorzeitiges Abkalben (Trächtigkeit von weniger als 262 Tage), wobei das Kalb während mindestens 10 Tagen überlebt. In diesem Fall ist eine tierärztliche Bestätigung erforderlich.
 
@@ -286,7 +288,7 @@ beschliesst:
 
 <sup>2</sup> Es dürfen nur Tiere mit einem gesunden Fundament aufgetrieben werden. Hinkende Tiere, besonders solche, die Anzeichen der Klauenfäule (Moderhinke) zeigen, werden herdenweise in den Herkunftsbestand zurückgewiesen.
 
-<sup>3</sup> Es dürfen keine Tiere auf Alpen und Sömmerungsweiden verbracht werden, die klinische Anzeichen dieser Krankheit aufweisen (stark gerötete Augen, eitrige Verklebungen, Augentrübungen).
+<sup>3</sup> Es dürfen keine Tiere auf Alpen und Sömmerungsweiden verbracht werden, die klinische Anzeichen der infektiösen Augenentzündung aufweisen (stark gerötete Augen, eitrige Verklebungen, Augentrübungen).
 
 <sup>4</sup> Jeder Abort ist dem delegierten Tierarzt zu melden.
 
@@ -310,7 +312,7 @@ beschliesst:
 
 <sup>4</sup> Die strategische Gruppe für Herdenschutz ist die zuständige kantonale Stelle, sie steht unter der Leitung des kantonalen Herdenschutzbeauftragten und besteht mindestens aus:
 
-- a) dem kantonalen Herdenschutzbeauftragten (DLW, Amt für Viehwirtschaft);
+- a) dem kantonalen Herdenschutzbeauftragten (DLW, Amt für Landwirtschaftszentrum Visp);
 - b) einem Vertreter des Veterinäramtes (Dienststelle für Verbraucherschutz und Veterinärwesen, DVSV);
 - c) einem Vertreter der Dienstelle für Jagd, Fischerei und Wildtiere (DJFW).
 
@@ -330,7 +332,7 @@ beschliesst:
 
 **Massnahmen bei Fällen von Aggressivität, bei verdächtigem oder unangemessenem Verhalten**
 
-<sup>1</sup> Wird ein Vorfall oder ein unangemessenens Verhalten gemeldet, so trifft die zuständige Stelle nach der Beurteilung der Situation geeignete Massnahmen.
+<sup>1</sup> Wird ein Vorfall oder ein unangemessenens Verhalten gegenüber Menschen oder Tieren gemeldet, so trifft die zuständige Stelle nach der Beurteilung der Situation geeignete Massnahmen.
 
 <sup>2</sup> Sie kann in folgenden Situationen ein Gutachten verlangen:
 
@@ -377,7 +379,7 @@ beschliesst:
 
 <sup>1</sup> Es müssen Vorkehrungen getroffen werden, damit der Boden nicht morastig und nicht erheblich mit Kot oder Harn verunreinigt ist. Die Rinder dürfen nicht tiefer als bis zum Kronsaum der Klauen im Boden einsinken.
 
-<sup>2</sup> Ausscheidungen dürfen keine Gefahr für die Gewässer darstellen, auch nicht bei starken Regenfällen (Abfluss oder Versickerung).
+<sup>2</sup> Ausscheidungen dürfen keine Gefahr für die Gewässerqualität darstellen, auch nicht bei starken Regenfällen (Abfluss oder Versickerung).
 
 ## 7 Verantwortliche Person für die Umsetzung der guten Herstellungspraxis bei der Produktion von Lebensmitteln tierischen Ursprungs
 
@@ -387,13 +389,13 @@ beschliesst:
 
 <sup>1</sup> Jeder Sömmerungsbetrieb, der Lebensmittel tierischen Ursprungs für den Verkauf produziert, muss eine verantwortliche Person im Sinne von Artikel 2 Absatz 1 Ziffer 7 der Lebensmittel- und Gebrauchsgegenständeverordnung (LGV) bezeichnen.
 
-<sup>2</sup> Diese Person muss ihre Aufgabe im Sinne von Artikel 10 der LGV erfüllen, und im Besonderen muss sie alle Vorsichtsmassnahmen und notwendigen Massnahmen treffen, um die Gefahren für die menschliche Gesundheit zu eliminieren.
+<sup>2</sup> Diese Person muss ihre Aufgabe im Sinne von Artikel 10 LGV erfüllen, und im Besonderen muss sie alle Vorsichtsmassnahmen und notwendigen Massnahmen treffen, um die Gefahren für die menschliche Gesundheit zu eliminieren.
 
 <sup>3</sup> Sie muss darauf achten, dass die Lebensmittel nicht verderben und dass sie hygienisch bearbeitet werden.
 
 <sup>4</sup> Sie achtet auf die Einhaltung der Vorschriften der Verordnung des EDI über die Hygiene in der Milchproduktion, im Besonderen:
 
-- a) dass ein vollständiger Service der Melkanlage mindestens alle zwei Jahre durchgeführt wird;
+- a) dass ein vollständiger Service der Melkanlage mindestens alle 2 Jahre durchgeführt wird;
 - b) dass der Gesundheitszustand der Tiere gewährleistet, Lebensmittel in einwandfreier Qualität zu produzieren.
 
 ## 8 Schlussbestimmungen
@@ -408,4 +410,4 @@ beschliesst:
 
 <sup>3</sup> Der Kantonstierarzt sowie der Kantonschemiker (Abschnitt 7) sind mit der Ausführung der vorliegenden Vorschriften beauftragt. Sie sind ermächtigt, in Dringlichkeitsfällen, alle ihnen notwendig erscheinenden Massnahmen zur Ausführung dieses Beschlusses zu treffen.
 
-CSW RO/AGS 2021-032
+CSW RO/AGS 2022-012
