@@ -1,0 +1,176 @@
+---
+canton: FR
+number: "464.12"
+title: Ordonnance sur les installations de tir sportif
+language: fr
+version: 2022-03-01
+valid_until: 2022-11-30
+version_adopted: 2022-02-22
+adopted: 2022-02-22
+in_force: 2022-03-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/464.12"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7265/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance sur les installations de tir sportif
+
+Installations de tir sportif – O
+
+du 22.02.2022 (version entrée en vigueur le 01.03.2022)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu l'article 23 de l'ordonnance fédérale du 15 novembre 2004 sur les installations servant au tir hors du service (ordonnance sur les installations de tir);
+
+Vu l'article 25 de la loi fédérale sur la protection de l'environnement (LPE);
+
+Vu l'ordonnance sur la protection contre le bruit et les dangers liés au son (OPBS);
+
+Considérant:
+
+L'ordonnance fédérale du 15 novembre 2004 sur les installations servant au tir hors du service (Ordonnance sur les installations de tir; RS 510.512) prévoit que l'approbation et le contrôle d'installations n'accueillant pas d'activités de tir hors du service (installations pour le tir avec armes se chargeant par la bouche, petits calibres, arbalètes, armes à air comprimé, armes de tir dynamique et armes de chasse) relèvent de la compétence des cantons (art. 23 al. 1).
+
+Actuellement, dans le canton de Fribourg, aucune base légale ne permet d'intervenir sur les installations de tir précitées, le droit fédéral étant appliqué par analogie. Il est désormais nécessaire de clarifier les compétences, d'assurer la prise en charge des coûts et de se mettre en conformité par rapport au droit fédéral.
+
+Sur proposition de la Direction de la sécurité, de la justice et du sport,
+
+Arrête:
+
+#### Art. 1
+
+**Dispositions générales**
+
+<sup>1</sup> La présente ordonnance régit les procédures d'autorisation et le contrôle de la sécurité des installations de tir permanentes ou temporaires n'accueillant pas d'activités de tir hors du service (ci-après: installations de tir sportif), notamment les stands pour le tir à air comprimé, au petit calibre, de chasse, à l'arbalète, aux armes à chargement par la bouche, ainsi que servant au tir dynamique.
+
+#### Art. 2
+
+**Organe compétent**
+
+<sup>1</sup> Le service compétent en matière de sécurité des installations de tir sportif est le Service de la protection de la population et des affaires militaires (SPPAM).
+
+#### Art. 3
+
+**Expert ou experte cantonal-e des installations de tir sportif**
+
+<sup>1</sup> L'officier fédéral de tir pour le canton de Fribourg assume la fonction d'expert ou d'experte cantonal-e des installations de tir sportif.
+
+<sup>2</sup> A ce titre, il ou elle:
+
+- a) intervient en tant que spécialiste de la sécurité au cours de la procédure d'autorisation de construire une installation de tir sportif et produit un rapport d'expertise avant l'octroi du permis;
+- b) contrôle les installations conformément aux prescriptions et directives des organisations faîtières reconnues régissant la pratique du tir sportif.
+
+<sup>3</sup> Il ou elle peut s'adjoindre les services d'un spécialiste en cas de nécessité.
+
+#### Art. 4
+
+**Registre des installations de tir sportif**
+
+<sup>1</sup> Le SPPAM tient un registre des installations de tir sportif sises dans le canton de Fribourg. Ce registre contient les informations suivantes:
+
+- a) le type de l'installation;
+- b) les disciplines admises;
+- c) la date de la réception de l'installation;
+- d) la date d'octroi de l'autorisation d'exploiter;
+- e) la date des contrôles réalisés et leurs résultats;
+- f) les éventuels manquements constatés et les mesures apportées pour y remédier;
+- g) les accidents rapportés au sens de l'article 10 al. 2.
+
+#### Art. 5
+
+**Procédure d'autorisation de l'exploitation – Réception**
+
+<sup>1</sup> Lorsque les travaux de construction, de transformation ou d'agrandissement sont terminés, l'expert ou l'experte cantonal-e procède à la réception de l'installation.
+
+#### Art. 6
+
+**Procédure d'autorisation de l'exploitation – Procès-verbal de réception**
+
+<sup>1</sup> L'expert ou l'experte cantonal-e établit un procès-verbal de réception à l'intention du SPPAM.
+
+<sup>2</sup> Ce procès-verbal est transmis aux instances et aux responsables suivants:
+
+- a) le ou la propriétaire;
+- b) l'exploitant ou l'exploitante;
+- c) l'USS Assurances ou toute autre assurance contractée par l'exploitant ou l'exploitante;
+- d) l'autorité communale concernée;
+- e) les organisations faîtières nationales ou cantonales.
+
+#### Art. 7
+
+**Autorisation d'exploiter**
+
+<sup>1</sup> Le SPPAM délivre l'autorisation d'exploiter l'installation de tir sportif si:
+
+- a) le procès-verbal de réception atteste la conformité de l'installation avec les exigences techniques et de sécurité émises par les organisations faîtières régissant la pratique du tir sportif;
+- b) l'exploitant ou l'exploitante présente une attestation d'assurance valable.
+
+#### Art. 8
+
+**Contrôle d'office et sur demande**
+
+<sup>1</sup> L'expert ou l'experte cantonal-e contrôle d'office les installations de tir sportif au bénéfice d'une autorisation tous les cinq ans.
+
+<sup>2</sup> Dans l'intervalle, il ou elle peut procéder au contrôle d'une installation à la demande des instances et responsables suivants:
+
+- a) du ou de la propriétaire;
+- b) de l'exploitant ou de l'exploitante;
+- c) de l'USS Assurances ou toute autre assurance contractée par l'exploitant ou l'exploitante;
+- d) des autorités communales;
+- e) des organisations faîtières nationales ou cantonales.
+
+#### Art. 9
+
+**Retrait de l'autorisation d'exploiter et fermeture**
+
+<sup>1</sup> Pour des motifs de sécurité, le SPPAM peut d'office:
+
+- a) retirer l'autorisation d'exploitation d'une installation de tir sportif;
+- b) ordonner la fermeture complète ou partielle d'une installation de tir sportif.
+
+<sup>2</sup> Le retrait de l'autorisation d'exploitation et la fermeture d'une installation de tir sportif peuvent également être prononcés à la demande de l'exploitant ou de l'exploitante, ou du ou de la propriétaire de l'installation.
+
+<sup>3</sup> L'expert ou l'experte cantonal-e peut, pour des raisons de sécurité, ordonner la fermeture provisoire d'une installation de tir jusqu'à la décision du SPPAM.
+
+#### Art. 10
+
+**Obligation des exploitants et exploitantes**
+
+<sup>1</sup> Les personnes exploitant des installations de tir sportif sont responsables de la sécurité de leur installation. Elles garantissent que soient respectées les prescriptions de sécurité de leur organisation ou, si elles ne sont pas rattachées à une organisation, celles de l'organisation de la catégorie d'arme concernée.
+
+<sup>2</sup> Elles annoncent immédiatement à l'expert ou l'experte cantonal-e tout accident qui se produit sur leur installation de tir sportif.
+
+#### Art. 11
+
+**Constructions à proximité des installations de tir sportif**
+
+<sup>1</sup> Sur requête du Service des constructions et de l'aménagement ou du Conseil communal, l'expert ou l'experte cantonale rend son préavis sur les demandes de permis qui concernent les constructions, les transformations ou les agrandissements dans l'environnement immédiat des installations de tir sportif.
+
+<sup>2</sup> Cet environnement est défini selon le schéma des zones dangereuses prévu dans les prescriptions et directives des organisations faîtières.
+
+#### Art. 12
+
+**Emoluments**
+
+<sup>1</sup> Les émoluments sont fixés à la charge de l'exploitant ou de l'exploitante de la manière suivante:
+
+- a) Autorisation d'exploitation d'une installation permanente, par installation — Fr. 200
+- b) Autorisation d'exploitation d'une installation temporaire, par installation — Fr. 100
+- c) Contrôle d'une installation permanente — Fr. 100
+- d) Fermeture totale ou partielle d'une installation permanente, par installation — Fr. 100
+- e) Retrait de l'autorisation d'exploitation d'une installation permanente, par installation — Fr. 50
+
+#### Art. 13
+
+**Indemnités**
+
+<sup>1</sup> Les indemnités de l'expert ou l'experte cantonal-e sont calculées conformément à l'ordonnance du DDPS sur les officiers fédéraux de tir et les commissions cantonales de tir.
+
+#### Art. 14
+
+**Voies de droit**
+
+<sup>1</sup> Les décisions prises en application de la présente ordonnance peuvent faire l'objet d'un recours conformément au code de procédure et de juridiction administrative.
+
+2022\_021
