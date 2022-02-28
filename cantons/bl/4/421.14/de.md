@@ -3,20 +3,19 @@ canton: BL
 number: "421.14"
 title: Verordnung über den Feuerschutz in den Tankanlagen der Rheinhäfen des Kantons Basel-Landschaft
 language: de
-version: 2018-01-01
-valid_until: 2022-02-28
-version_adopted: 2017-08-29
+version: 2022-03-01
+version_adopted: 2022-02-01
 adopted: 1996-06-25
 in_force: 1996-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/421.14"
-pdf: "https://bl.clex.ch/api/de/versions/1898/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3234/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Feuerschutz in den Tankanlagen der Rheinhäfen des Kantons Basel-Landschaft
 
-Vom 25.06.1996 (Stand 01.01.2018)
+Vom 25.06.1996 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -75,9 +74,13 @@ beschliesst:
 
 - a. die jeweils gültigen Richtlinien für Tankanlagen der Schweizerischen Zentralstelle für die Einfuhr flüssiger Treib- und Brennstoffe, CARBURA (CARBURA-Richtlinien); vorbehalten bleiben die abweichenden Bestimmungen dieser Verordnung, die den besonderen Verhältnissen (Abstände der Tanks) Rechnung tragen;
 - b. die Weisungen des Eidgenössischen Starkstrominspektorates für Schutzmassnahmen gegen die gefährliche Wirkung des elektrischen Stromes in autonomen Tankanlagen für die Lagerung von flüssigen Brenn- und Treibstoffen (Grosstankanlagen) sowie allen Tankanlagen mit Bahnanschluss;
-- c. die zusätzlichen Blitzschutzmassnahmen bei der Einführung von elektrischen Leitungen in oberirdische Behälter mit Lagergut, dessen Flammpunkt unter 55° C liegt.
+- c. die zusätzlichen Blitzschutzmassnahmen bei der Einführung von elektrischen Leitungen in oberirdische Behälter, in denen entzündbare Flüssigkeiten mit der GHS-Klassierung «Entz. Fl. 1», «Entz. Fl. 2» oder «Entz. Fl. 3» gelagert werden.[^5-1]
 
 <sup>2</sup> Für die Definition der Klassierung der Stoffe sind die jeweils gültigen Normen der VKF verbindlich.
+
+<sup>3</sup> Diesel und Heizöl werden für die Zwecke dieser Verordnung wie Stoffe der GHS-Klassierung «Brennbar, ohne Klassierung» behandelt.
+
+[^5-1]: SR 813.11
 
 #### § 6
 
@@ -89,7 +92,7 @@ beschliesst:
 
 **Tankbelüftung**
 
-<sup>1</sup> Tanks, in denen Produkte der Gefahrenklassen F1 und F2 gelagert werden, dürfen nicht frei belüftet sein. Sie sind mit einer flammendurchschlagssicheren Belüftungseinrichtung auszurüsten.
+<sup>1</sup> Tanks, in denen entzündbare Flüssigkeiten mit der GHS-Klassierung «Entz. Fl. 1», «Entz. Fl. 2» oder «Entz. Fl. 3» gelagert werden, dürfen nicht frei belüftet sein. Sie sind mit einer flammendurchschlagssicheren Belüftungseinrichtung auszurüsten.
 
 <sup>2</sup> Die freie Belüftung ist auch bei Tanks mit innenliegender Membrane unzulässig.
 
@@ -109,7 +112,7 @@ beschliesst:
 
 <sup>1</sup> Alle Tankbassins sind mit Leckerkennungseinrichtungen auszurüsten. Beim Erreichen einer bestimmten Niveauhöhe von Produkten im Bassinsumpf ist automatisch das Betriebspersonal zu alarmieren.
 
-<sup>2</sup> Bassins mit Produkten F1 und F2 sind mit einer Branddetektion (Brandmeldeanlage) und Alarmübermittlung an die Einsatzzentrale auszurüsten.
+<sup>2</sup> Bassins mit Produkten der GHS-Klassierung «Entz. Fl. 1», «Entz. Fl. 2» oder «Entz. Fl. 3» sind mit einer Branddetektion (Brandmeldeanlage) und Alarmübermittlung an die Einsatzzentrale auszurüsten.
 
 <sup>3</sup> Es sind 2-Melderabhängigkeiten vorzusehen. Das Ansprechen von 2 Meldegruppen oder -systemen hat unverzüglich die automatische Beschäumung der betroffenen Bassins, die Alarmierung der zuständigen Feuerwehr und des Betriebspersonals respektive der anlagekundigen Pikettperson auszulösen.
 
@@ -132,7 +135,7 @@ beschliesst:
 - a. Berieselung — 1 Liter/Minute x m² Tankmantelfläche
 - b. Tankbeschäumung:
   - 1\. Festdachtank — 6,6 Liter/Minute x m² Tankquerschittfläche
-  - 2\. Tanks mit Schwimmdach oder innenliegender Schwimm-Memrane — 15 Liter/Minute x Meter des Tankumfanges
+  - 2\. Tanks mit Schwimmdach oder innenliegender Schwimm-Membrane — 15 Liter/Minute x Meter des Tankumfanges
 - c. Bassinbeschäumung — 3 Liter/Minute x m² Bassinnettofläche
 
 <sup>2</sup> Der Fliessdruck muss dem notwendigen Wasserdruck der Schaumerzeuger, unter Berücksichtigung der Druckverluste in den Rohrleitungen und Armaturen, entsprechen.
@@ -162,7 +165,13 @@ beschliesst:
 <sup>3</sup> Die Umschlagsanlagen sind wie folgt auszurüsten:
 
 - a. mit einem Alarmierungssystem auf die Einsatzzentrale;
-- b. mit mindestens 2 stationären Wasserwerfern, die an ein einsatzbereites Wassernetz angeschlossen sind, oder mit einer Sprühflutanlage mit filmschichtbildendem Schaummittel, falls F1- und F2-Produkte umgeschlagen werden; die Leistung hat 10 Liter/Minute x m² Bodenfläche während einer Einsatzdauer von 30 Minuten zu betragen;
+- b. mit mindestens 2 stationären Wasserwerfern, die an ein einsatzbereites Wassernetz angeschlossen sind, oder mit einer Sprühflutanlage mit filmschichtbildendem Schaummittel, falls Produkte der GHS-Klassierung «Entz. Fl. 1», «Entz. Fl. 2» oder «Entz. Fl. 3» umgeschlagen werden; die Leistung hat 10 Liter/Minute x m² Bodenfläche während einer Einsatzdauer von 30 Minuten zu betragen;
+- c. mit einem Anschluss für Löschwasser und Löschschaum.
+
+<sup>3<sup>bis</sup></sup> Kesselwagenentladestellen mit Unten-Entladung, bei welchen die Kesselwagen mit Sicherheitstrennkupplungen (STK) oder Abreisskupplungen an die Entladesammelleitungen angeschlossen werden, sind wie folgt auszurüsten:
+
+- a. mit einem Alarmierungssystem auf die Einsatzzentrale;
+- b. mit mindestens 2 stationären Wasserwerfern, die an ein einsatzbereites Wassernetz angeschlossen sind, oder mit automatischer Bodenbeschäumung mit filmschichtbildendem Schaummittel, falls Produkte der GHS-Klassierung «Entz. Fl. 1», «Entz. Fl. 2» oder «Entz. Fl. 3» umgeschlagen werden; die Leistung hat mindestens 3 Liter/Minute x m² Bodenfläche während einer Einsatzdauer von 30 Minuten zu betragen;
 - c. mit einem Anschluss für Löschwasser und Löschschaum.
 
 <sup>4</sup> Die BGV kann weitere Feuerschutzmassnahmen anordnen.
