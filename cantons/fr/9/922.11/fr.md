@@ -4,13 +4,13 @@ number: "922.11"
 title: Ordonnance concernant la chasse
 short: OCha
 language: fr
-version: 2022-01-01
-valid_until: 2022-02-28
-version_adopted: 2021-11-23
+version: 2022-03-01
+valid_until: 2022-07-07
+version_adopted: 2022-02-22
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6981/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7449/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Chasse – O
 
 (OCha)
 
-du 06.06.2016 (version entrée en vigueur le 01.01.2022)
+du 06.06.2016 (version entrée en vigueur le 01.03.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -262,21 +262,21 @@ Arrête:
 <sup>1</sup> Les prix des permis sont les suivants:
 
 - a) Permis de base:
-  - 1\. taxe de base obligatoire: Fr. 200
-  - 2\. taxe de base obligatoire sans arme: Fr. 50
+  - 1\. taxe de base obligatoire: — Fr. 200
+  - 2\. taxe de base obligatoire sans arme: — Fr. 50
 - b) Permis A (chamois):
-  - 1\. chamois: Fr. 150 à 300 par individu
+  - 1\. chamois: — Fr. 150 à 300 par individu
 - c) Permis B (chevreuil):
-  - 1\. chevreuil de moins de 13 kilogrammes: Fr. 80 par individu
-  - 2\. chevreuil de 13 kilogrammes ou plus: Fr. 160 par individu
+  - 1\. chevreuil de moins de 13 kilogrammes: — Fr. 80 par individu
+  - 2\. chevreuil de 13 kilogrammes ou plus: — Fr. 160 par individu
   - 3\. …
   - 4\. …
-- d) Permis C (cerf): Fr. 200 par individu
-- e) Permis D (sanglier): Fr. 100
-- f) Permis E (gibier à plumes): Fr. 100
-- g) Permis F (lac de Neuchâtel): Fr. 150
-- h) Permis G (lac de Morat): Fr. 150
-- i) Permis H: gratuit
+- d) Permis C (cerf): Fr. — 200 par individu
+- e) Permis D (sanglier): — Fr. 100
+- f) Permis E (gibier à plumes): — Fr. 100
+- g) Permis F (lac de Neuchâtel): — Fr. 150
+- h) Permis G (lac de Morat): — Fr. 150
+- i) Permis H: — gratuit
 
 <sup>2</sup> Les catégories et le nombre d'individus pouvant être tirés avec les permis A, B et C sont définis dans l'ordonnance annuelle concernant la planification de la chasse (art. 56).
 
@@ -538,9 +538,9 @@ Arrête:
 
 **Essais d'armes**
 
-<sup>1</sup> Les essais d'armes de chasse ne sont autorisés que sur les places de tir reconnues par l'officier ou l'officière fédéral-e de tir et sous réserve de l'accord des responsables desdites places et des propriétaires des terrains.
+<sup>1</sup> Les essais d'armes de chasse ne sont autorisés que sur les places de tir reconnues par l'expert ou l'experte cantonal-e des installations de tir sportif et sous réserve de l'accord des responsables desdites places et des propriétaires des terrains.
 
-<sup>2</sup> L'organisation d'un tir de chasse hors d'un stand de tir permanent est soumise à l'autorisation du Service de la protection de la population et des affaires militaires; celui-ci requiert l'avis de l'officier ou de l'officière fédéral‑e de tir.
+<sup>2</sup> L'organisation d'un tir de chasse hors d'un stand de tir permanent est soumise à l'autorisation du Service de la protection de la population et des affaires militaires; celui-ci requiert l'avis de l'expert ou l'experte cantonal-e des installations de tir sportif.
 
 ### 4.6 Chiens de chasse et chiens de rouge
 

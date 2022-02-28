@@ -4,13 +4,13 @@ number: "922.11"
 title: Jagdverordnung
 short: JaV
 language: de
-version: 2022-01-01
-valid_until: 2022-02-28
-version_adopted: 2021-11-23
+version: 2022-03-01
+valid_until: 2022-07-07
+version_adopted: 2022-02-22
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6981/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Jagdverordnung
 
 (JaV)
 
-vom 06.06.2016 (Fassung in Kraft getreten am 01.01.2022)
+vom 06.06.2016 (Fassung in Kraft getreten am 01.03.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -262,21 +262,21 @@ beschliesst:
 <sup>1</sup> Es gelten folgende Patentpreise:
 
 - a) Grundpatent:
-  - 1\. obligatorische Grundtaxe: Fr. 200
-  - 2\. obligatorische Grundtaxe ohne Waffe: Fr. 50
+  - 1\. obligatorische Grundtaxe: — Fr. 200
+  - 2\. obligatorische Grundtaxe ohne Waffe: — Fr. 50
 - b) Patent A (Gämse):
-  - 1\. Gämse: Fr. 150 bis 300 pro Tier
+  - 1\. Gämse: — Fr. 150 bis 300 pro Tier
 - c) Patent B (Reh):
-  - 1\. Reh von weniger als 13 kg: Fr. 80 pro Tier
-  - 2\. Reh von 13 kg oder mehr: Fr. 160 pro Tier
+  - 1\. Reh von weniger als 13 kg: — Fr. 80 pro Tier
+  - 2\. Reh von 13 kg oder mehr: — Fr. 160 pro Tier
   - 3\. …
   - 4\. …
-- d) Patent C (Hirsch): Fr. 200 pro Tier
-- e) Patent D (Wildschwein): Fr. 100
-- f) Patent E (Federwild): Fr. 100
-- g) Patent F (Neuenburgersee): Fr. 150
-- h) Patent G (Murtensee): Fr. 150
-- i) Patent H: unentgeltlich
+- d) Patent C (Hirsch): — Fr. 200 pro Tier
+- e) Patent D (Wildschwein): — Fr. 100
+- f) Patent E (Federwild): — Fr. 100
+- g) Patent F (Neuenburgersee): — Fr. 150
+- h) Patent G (Murtensee): — Fr. 150
+- i) Patent H: — unentgeltlich
 
 <sup>2</sup> Die Kategorien und Anzahl Tiere, die mit den Patenten A, B und C erlegt werden dürfen, werden in der jährlichen Verordnung über die Planung der Jagd festgelegt (Art. 56).
 
@@ -538,9 +538,9 @@ beschliesst:
 
 **Waffenproben**
 
-<sup>1</sup> Jagdwaffen dürfen nur auf den von der eidgenössischen Schiessoffizierin oder vom eidgenössischen Schiessoffizier anerkannten Schiessplätzen und unter Vorbehalt der Zustimmung der Verantwortlichen dieser Plätze und der Grundeigentümerinnen und -eigentümer erprobt werden.
+<sup>1</sup> Jagdwaffen dürfen nur auf den von der kantonalen Schiessanlagenexpertin oder vom kantonalen Schiessanlagenexperten anerkannten Schiessplätzen und unter Vorbehalt der Zustimmung der Verantwortlichen dieser Plätze und der Grundeigentümerinnen und ‑eigentümer erprobt werden.
 
-<sup>2</sup> Die Durchführung eines Jagdschiessens ausserhalb eines ständigen Schiessstandes bedarf der Bewilligung des Amts für Bevölkerungsschutz und Militär; dieses holt die Stellungnahme der eidgenössischen Schiessoffizierin oder des eidgenössischen Schiessoffiziers ein.
+<sup>2</sup> Die Durchführung eines Jagdschiessens ausserhalb eines ständigen Schiessstandes bedarf der Bewilligung des Amts für Bevölkerungsschutz und Militär; dieses holt die Stellungnahme der kantonalen Schiessanlagenexpertin oder des kantonalen Schiessanlagenexperten ein.
 
 ### 4.6 Jagdhunde und Schweisshunde
 
