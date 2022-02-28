@@ -3,20 +3,20 @@ canton: AG
 number: "155.612"
 title: Reglement der Justizleitung über die Anzahl der übrigen Richterinnen und Richter (nebenamtliche Richterinnen und Richter an den Bezirksgerichten; Fachrichterinnen und Fachrichter des Kindes- und Erwachsenenschutzes; Mitglieder der Schlichtungsbehörden für Miete und Pacht; Mitglieder der Schlichtungsstelle für Gleichstellungsfragen; Friedensrichterinnen und Friedensrichter nach Kreisen)
 language: de
-version: 2021-01-01
-valid_until: 2022-02-28
-version_adopted: 2020-11-16
+version: 2022-03-01
+valid_until: 2024-02-29
+version_adopted: 2022-01-14
 adopted: 2012-06-07
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/155.612"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2948/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3159/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement der Justizleitung über die Anzahl der übrigen Richterinnen und Richter (nebenamtliche Richterinnen und Richter an den Bezirksgerichten; Fachrichterinnen und Fachrichter des Kindes- und Erwachsenenschutzes; Mitglieder der Schlichtungsbehörden für Miete und Pacht; Mitglieder der Schlichtungsstelle für Gleichstellungsfragen; Friedensrichterinnen und Friedensrichter nach Kreisen)
 
-Vom 07.06.2012 (Stand 01.01.2021)
+Vom 07.06.2012 (Stand 01.03.2022)
 
 Die Justizleitung des Kantons Aargau,
 
@@ -139,8 +139,8 @@ beschliesst:
 <tr><td>Kreis VIII, Bezirk: Brugg</td><td>3–5</td></tr>
 <tr><td>Kreis IX, Bezirk: Kulm</td><td>3–5</td></tr>
 <tr><td>Kreis X, Bezirk: Laufenburg</td><td>3</td></tr>
-<tr><td>Kreis XI, Bezirk: Lenzburg</td><td>3</td></tr>
-<tr><td>Kreis XII, Bezirk: Lenzburg</td><td>3</td></tr>
+<tr><td>Kreis XI, Bezirk: Lenzburg</td><td>2–3</td></tr>
+<tr><td>Kreis XII, Bezirk: Lenzburg</td><td>2–3</td></tr>
 <tr><td>Kreis XIII, Bezirk: Muri</td><td>3</td></tr>
 <tr><td>Kreis XIV, Bezirk: Rheinfelden</td><td>3–6</td></tr>
 <tr><td>Kreis XV, Bezirk: Zofingen</td><td>2–4</td></tr>
