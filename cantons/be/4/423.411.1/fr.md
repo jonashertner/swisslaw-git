@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Ordonnance sur l’encouragement des activités culturelles
 short: OEAC
 language: fr
-version: 2021-11-01
-valid_until: 2022-02-28
-version_adopted: 2021-09-01
+version: 2022-03-01
+valid_until: 2022-07-31
+version_adopted: 2022-02-02
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2361/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2577/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2361/pdf_file"
 
 (OEAC)
 
-du 13.11.2013 (état au 01.11.2021)
+du 13.11.2013 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -126,7 +126,7 @@ arrête:
 
 **Communes tenues de verser des subventions**
 
-<sup>1</sup> Les périmètres des régions sont définis en annexe 1 à l’ordonnancedu 24 octobre 2007 sur les conférences régionales (OCR)[^9-1].
+<sup>1</sup> Les périmètres des régions sont définis en annexe 1 à l’ordonnance du 24 octobre 2007 sur les conférences régionales (OCR)[^9-1].
 
 <sup>2</sup> Une institution culturelle est soutenue par l’ensemble des communes de la région ou dans le cadre de sous-régions.
 
@@ -214,9 +214,9 @@ arrête:
 - b l’Office de la culture pour les subventions d’un montant supérieur à 10'000 francs et inférieur ou égal à 50'000 francs,
 - c la Direction de l’instruction publique et de la culture pour les subventions d’un montant supérieur à 50'000 francs et inférieur ou égal à 200'000 francs.
 
-<sup>2a</sup> Le délégué ou la déléguée aux affaires francophones et bilingues de l’Office de la culture octroie, à la place de la section compétente, les subventions d'un montant inférieur ou égal à 10'000 francs concernant le district bilingue de Bienne.
+<sup>2a</sup> Le délégué ou la déléguée aux affaires francophones et bilingues de l’Office de la culture octroie, à la place de la section compétente, les subventions d'un montant inférieur ou égal à 10'000 francs concernant l'arrondissement administratif de Biel/Bienne.
 
-<sup>3</sup> Pour le reste, la législation sur le statut particulier du Jura bernois et sur la minorité francophone du district bilingue de Bienne doit être prise en compte s’agissant de la compétence en matière d’octroi de subventions.
+<sup>3</sup> Pour le reste, la législation sur le statut particulier du Jura bernois et sur la minorité francophone de l'arrondissement administratif de Biel/Bienne doit être prise en compte s’agissant de la compétence en matière d’octroi de subventions.
 
 <sup>4</sup> La décision concernant l’octroi des subventions d’un montant supérieur à 200'000 francs incombe à l’organe qui dispose des compétences constitutionnelles correspondantes. La Direction de l’instruction publique et de la culture décide du rejet des demandes dépassant ce montant ou les transmet à l’organe compétent pour l’octroi de ces subventions.
 
@@ -376,7 +376,7 @@ arrête:
 
 **Tâches particulières de la commission des arts visuels**
 
-<sup>1</sup> La commission des arts visuels conseille les services compétents du canton en ce qui concerne l’achat d’oeuvres d’art et la réalisation d’oeuvres d’art dans l’espace public ou pour des bâtiments et des installations publics.
+<sup>1</sup> La commission des arts visuels conseille les services compétents du canton en ce qui concerne l’achat d’œuvres d’art et la réalisation d’œuvres d’art dans l’espace public ou pour des bâtiments et des installations publics.
 
 <sup>2</sup> Les services compétents consultent la commission des arts visuels avant d’octroyer des mandats concernant la réalisation d’œuvres d’art dans l’espace public ou pour des bâtiments et des installations publics.
 
@@ -462,12 +462,12 @@ arrête:
 
 <sup>2</sup> La Direction des travaux publics et des transports participe à la nomination des membres de la commission des arts visuels.
 
-<sup>3</sup> La Direction de l’instruction publique et de la culture consulte le Conseil des affaires francophones du district bilingue de Bienne avant la désignation des membres de la commission francophone chargée des affaires culturelles générales, issus de l'arrondissement administratif de Biel/Bienne.
+<sup>3</sup> La Direction de l’instruction publique et de la culture consulte le Conseil des affaires francophones de l'arrondissement de Biel/Bienne avant la désignation des membres de la commission francophone chargée des affaires culturelles générales, issus de l'arrondissement administratif de Biel/Bienne.
 
 <sup>4</sup> La Direction de l'instruction publique et de la culture consulte
 
 - a le Conseil du Jura bernois avant la nomination des membres de la Commission des bibliothèques issus du Jura bernois,
-- b le Conseil des affaires francophones du district bilingue de Bienne avant la nomination des membres de cette commission issus de l'arrondissement administratif de Biel/Bienne.
+- b le Conseil des affaires francophones de l'arrondissement de Biel/Bienne avant la nomination des membres de cette commission issus de l'arrondissement administratif de Biel/Bienne.
 
 #### Art. 39
 
@@ -517,7 +517,7 @@ arrête:
 
 **Subventions individuelles**
 
-<sup>1</sup> Pendant leur mandat, les membres des commissions culturelles ne peuvent demander ni accepter aucune subvention individuelle ni obtenir des avantage d’une autre nature liés à l’activité de la commission.
+<sup>1</sup> Pendant leur mandat, les membres des commissions culturelles ne peuvent demander ni accepter aucune subvention individuelle ni obtenir des avantages d’une autre nature liés à l’activité de la commission.
 
 #### Art. 45
 

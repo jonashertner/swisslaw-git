@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Kantonale Kulturförderungsverordnung
 short: KKFV
 language: de
-version: 2021-11-01
-valid_until: 2022-02-28
-version_adopted: 2021-09-01
+version: 2022-03-01
+valid_until: 2022-07-31
+version_adopted: 2022-02-02
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2361/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2577/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2361/pdf_file"
 
 (KKFV)
 
-vom 13.11.2013 (Stand 01.11.2021)
+vom 13.11.2013 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -210,13 +210,13 @@ beschliesst:
 
 <sup>2</sup> Zuständig ist
 
-- a für Beiträge bis 10'000 Franken die zuständige Abteilung des Amtes für Kultur,
+- a für Beiträge bis 10'000 Franken die zuständige Abteilung des Amts für Kultur,
 - b für Beiträge über 10'000 bis 50'000 Franken das Amt für Kultur,
 - c für Beiträge über 50'000 bis 200'000 Franken die Bildungs- und Kulturdirektion.
 
-<sup>2a</sup> Für Beiträge bis 10'000 Franken, die den zweisprachigen Amtsbezirk Biel betreffen, ist die oder der Beauftragte für französischsprachige und zweisprachige Angelegenheiten des Amtes für Kultur anstelle der Abteilung zuständig.
+<sup>2a</sup> Für Beiträge bis 10'000 Franken, die den Verwaltungskreis Biel/Bienne betreffen, ist die oder der Beauftragte für französischsprachige und zweisprachige Angelegenheiten des Amts für Kultur anstelle der Abteilung zuständig.
 
-<sup>3</sup> Im Übrigen ist die Gesetzgebung über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel bei der Zuständigkeit für die Gewährung von Beiträgen zu beachten.
+<sup>3</sup> Im Übrigen ist die Gesetzgebung über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne bei der Zuständigkeit für die Gewährung von Beiträgen zu beachten.
 
 <sup>4</sup> Über die Gewährung von Beiträgen von mehr als 200'000 Franken entscheidet das Organ, das über die entsprechenden verfassungsmässigen Ausgabenbefugnisse verfügt. Die Bildungs- und Kulturdirektion entscheidet über die Ablehnung des Gesuchs oder leitet dieses an das für die Gewährung des Beitrags zuständige Organ weiter.
 
@@ -462,12 +462,12 @@ beschliesst:
 
 <sup>2</sup> Die Bau- und Verkehrsdirektion wirkt bei der Ernennung der Mitglieder der Kunstkommission mit.
 
-<sup>3</sup> Vor der Ernennung von Mitgliedern der französischsprachigen Kommission für allgemeine kulturelle Fragen aus dem Verwaltungskreis Biel/Bienne hört die Bildungs- und Kulturdirektion den Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel an.
+<sup>3</sup> Vor der Ernennung von Mitgliedern der französischsprachigen Kommission für allgemeine kulturelle Fragen aus dem Verwaltungskreis Biel/Bienne hört die Bildungs- und Kulturdirektion den Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne an.
 
 <sup>4</sup> Die Bildungs- und Kulturdirektion hört
 
 - a vor der Ernennung von Bibliothekskommissionsmitgliedern aus dem Berner Jura den Bernjurassischen Rat an,
-- b vor der Ernennung von Bibliothekskommissionmitgliedern aus dem Verwaltungskreis Biel/Bienne den Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel an.
+- b vor der Ernennung von Bibliothekskommissionsmitgliedern aus dem Verwaltungskreis Biel/Bienne den Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne an.
 
 #### Art. 39
 
