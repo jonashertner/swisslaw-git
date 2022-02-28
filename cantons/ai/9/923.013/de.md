@@ -1,25 +1,25 @@
 ---
 canton: AI
 number: "923.013"
-title: Standeskommissionsbeschluss über die Fischerei 2021
+title: Standeskommissionsbeschluss über die Fischerei
 short: StKB Fischerei
 language: de
-version: 2021-03-10
-valid_until: 2022-02-28
-version_adopted: 2021-03-02
+version: 2022-03-01
+valid_until: 2023-03-13
+version_adopted: 2022-03-01
 adopted: 2020-02-04
 in_force: 2020-02-10
 url: "https://ai.clex.ch/app/de/texts_of_law/923.013"
-pdf: "https://ai.clex.ch/api/de/versions/2068/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2202/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Standeskommissionsbeschluss über die Fischerei 2021
+# Standeskommissionsbeschluss über die Fischerei
 
 (StKB Fischerei)
 
-vom 04.02.2020 (Stand 10.03.2021)
+vom 04.02.2020 (Stand 01.03.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -33,11 +33,11 @@ beschliesst:
 
 **Fangzeiten**
 
-<sup>1</sup> In Fliessgewässern kann vom 10. April bis am 11. September gefischt werden.
+<sup>1</sup> In Fliessgewässern kann vom 9. April bis am 10. September gefischt werden.
 
-<sup>2</sup> In den Bergseen kann vom 10. April bis am 25. September gefischt werden.
+<sup>2</sup> In den Bergseen kann vom 9. April bis am 24. September gefischt werden.
 
-<sup>3</sup> Mit Wochen- und Tagespatenten kann vom 1. Mai bis am 11. September gefischt werden.
+<sup>3</sup> Mit Wochen- und Tagespatenten kann vom 2. Mai bis am 10. September gefischt werden.
 
 ## II. Mindestmasse und Fangzahlen
 
@@ -48,7 +48,7 @@ beschliesst:
 <sup>1</sup> Die Mindestmasse für Fische betragen:
 
 - a) Fliessgewässer — 26cm
-- b) Fählensee — 30cm
+- b) Fählensee — 28cm
 - c) Sämtisersee — 28cm
 - d) Seealpsee — 24cm
 - e) Befischbare Zuflüsse Bergseen — 24cm
@@ -94,8 +94,8 @@ beschliesst:
 
 - a. die Schwarz bis zur Bahnbrücke beim Neffenmoos mit sämtlichen Nebengewässern;
 - b. der Mühlelibach im Unterrain bis zur Einmündung in die Sitter;
-- c. das Rosenbächli bis zur Einmündung in den Kaubach;
-- d. die Sitter zwischen dem Brauereiwuhr und dem Mettlenwuhr;
+- c. …
+- d. …
 - e. der Schwendebach zwischen dem Wasserfall Chobel und Brücke Blüemlisalp (Wasserauen hinter dem Berggasthaus Alpenrose);
 - f. die Zuflüsse zum Sämtisersee.
 
@@ -103,7 +103,7 @@ beschliesst:
 
 **Fliegenstrecke**
 
-<sup>1</sup> Als Fliegenstrecke gilt der Schwendebach zwischen der Brücke Blüemlisalp (Wasserauen hinter dem Berggasthaus Alpenrose) und der Brücke in Schwende (Strasse zur Kirche).
+<sup>1</sup> Als Fliegenstrecke gilt der Schwendebach ab der Brücke Blüemlisalp (Wasserauen hinter dem Gasthaus Alpenrose) bis und mit der Sitter bei der signalisierten Stelle bei der Abwasserreinigungsanlage Appenzell.
 
 ## V. Vollzugsbestimmungen
 
