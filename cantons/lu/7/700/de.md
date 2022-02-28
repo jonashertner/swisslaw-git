@@ -4,13 +4,13 @@ number: "700"
 title: Einführungsgesetz zum Bundesgesetz über den Umweltschutz
 short: EGUSG
 language: de
-version: 2018-02-01
-valid_until: 2022-02-28
-version_adopted: 2017-10-30
+version: 2022-03-01
+valid_until: 2024-12-31
+version_adopted: 2021-12-06
 adopted: 1998-03-30
 in_force: 1999-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/700"
-pdf: "https://srl.lu.ch/api/de/versions/3226/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3894/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3226/pdf_file"
 
 (EGUSG)
 
-vom 30.03.1998 (Stand 01.02.2018)
+vom 30.03.1998 (Stand 01.03.2022)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -374,7 +374,7 @@ beschliesst:
 
 <sup>1</sup> Können die Verursacherinnen und Verursacher nicht ermittelt werden oder sind sie zahlungsunfähig, tragen die Gemeinden deren Anteil an den anrechenbaren Sanierungskosten (Ausfallkosten).
 
-<sup>2</sup> Für die Finanzierung der Ausfallkosten sowie der Kosten, welche die Gemeinden als Verursacherinnen zu tragen haben, erheben die Gemeinden eine Sonderabgabe pro steuerpflichtige Person (natürliche und juristische Personen). Die Höhe der Sonderabgabe richtet sich nach den Ausfallkosten im ganzen Kanton. Die Erhebung der Sonderabgabe wird auf fünf Jahre befristet.
+<sup>2</sup> Für die Finanzierung der Ausfallkosten sowie der Kosten, welche die Gemeinden als Verursacherinnen zu tragen haben, erheben die Gemeinden eine Sonderabgabe pro steuerpflichtige Person (natürliche und juristische Personen). Die Höhe der Sonderabgabe richtet sich nach den Ausfallkosten im ganzen Kanton. Die Erhebung der Sonderabgabe wird bis Ende Dezember 2026 befristet.
 
 <sup>3</sup> Der Regierungsrat regelt das Nähere in der Verordnung.
 
