@@ -4,13 +4,13 @@ number: "141.112"
 title: Ordonnance sur les droits politiques
 short: ODP
 language: fr
-version: 2019-07-01
-valid_until: 2022-02-28
-version_adopted: 2019-04-24
+version: 2022-03-01
+valid_until: 2025-05-31
+version_adopted: 2022-02-02
 adopted: 2013-09-04
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1657/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2536/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1657/pdf_file"
 
 (ODP)
 
-du 04.09.2013 (état au 01.07.2019)
+du 04.09.2013 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -565,7 +565,7 @@ arrête:
 
 **Envoi groupé de matériel de propagande électorale**
 
-<sup>1</sup> L’envoi groupé est réalisé dans les mêmes conditions pour tous les participants. Le préfet compétent ou la préfète compétente définit les conditions de participation à l’envoi du matériel de propagande électorale et les publie dans les feuilles officielles cantonales au plus tard cinq semaines avant le délai de dépôt des candidatures.
+<sup>1</sup> L’envoi groupé est réalisé dans les mêmes conditions pour tous les participants. Le préfet compétent ou la préfète compétente définit les conditions de participation à l’envoi du matériel de propagande électorale et les publie dans la Feuille officielle au plus tard cinq semaines avant le délai de dépôt des candidatures.
 
 <sup>2</sup> Les partis ou les groupes qui ont déposé une liste de candidatures sont réputés annoncés pour l’envoi groupé. S’ils souhaitent renoncer à la participation dans un ou plusieurs cercles électoraux, ils doivent en informer la préfecture compétente dans le délai imparti.
 

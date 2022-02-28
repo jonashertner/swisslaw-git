@@ -4,13 +4,13 @@ number: "141.112"
 title: Verordnung über die politischen Rechte
 short: PRV
 language: de
-version: 2019-07-01
-valid_until: 2022-02-28
-version_adopted: 2019-04-24
+version: 2022-03-01
+valid_until: 2025-05-31
+version_adopted: 2022-02-02
 adopted: 2013-09-04
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1657/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2536/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1657/pdf_file"
 
 (PRV)
 
-vom 04.09.2013 (Stand 01.07.2019)
+vom 04.09.2013 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -565,7 +565,7 @@ beschliesst:
 
 **Gemeinsamer Versand von Werbematerial**
 
-<sup>1</sup> Der gemeinsame Versand wird für alle Beteiligten zu den gleichen Bedingungen durchgeführt. Die zuständige Regierungsstatthalterin oder der zuständige Regierungsstatthalter legt die Bedingungen zur Teilnahme am Versand des Werbematerials fest und veröffentlicht sie spätestens fünf Wochen vor dem Termin für die Einreichung der Wahlvorschläge in den kantonalen Amtsblättern.
+<sup>1</sup> Der gemeinsame Versand wird für alle Beteiligten zu den gleichen Bedingungen durchgeführt. Die zuständige Regierungsstatthalterin oder der zuständige Regierungsstatthalter legt die Bedingungen zur Teilnahme am Versand des Werbematerials fest und veröffentlicht sie spätestens fünf Wochen vor dem Termin für die Einreichung der Wahlvorschläge im Amtsblatt.
 
 <sup>2</sup> Parteien oder Gruppen, die einen Wahlvorschlag eingereicht haben, gelten für den gemeinsamen Versand als angemeldet. Falls sie in einem oder mehreren Wahlkreisen auf die Teilnahme verzichten möchten, ist eine fristgerechte Abmeldung beim zuständigen Regierungsstatthalteramt erforderlich.
 
