@@ -4,13 +4,13 @@ number: "152.025"
 title: Verordnung über das Vernehmlassungs- und das Mitberichtsverfahren
 short: VMV
 language: de
-version: 2015-02-01
-valid_until: 2022-02-28
-version_adopted: 2014-11-24
+version: 2022-03-01
+valid_until: 2023-01-31
+version_adopted: 2022-02-02
 adopted: 2022-12-21
 in_force: 2023-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.025"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/50/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2537/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/50/pdf_file"
 
 (VMV)
 
-vom 26.06.1996 (Stand 01.02.2015)
+vom 26.06.1996 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -49,7 +49,7 @@ beschliesst:
 
 **Politische Mitwirkung**
 
-<sup>1</sup> Die Bestimmungen über die politische Mitwirkung des Berner Jura und der französischsprachigen Bevölkerung des Amtsbezirks Biel finden in jedem Fall Anwendung.
+<sup>1</sup> Die Bestimmungen über die politische Mitwirkung des Berner Juras und der französischsprachigen Bevölkerung des Verwaltungskreises Biel/Bienne finden in jedem Fall Anwendung.
 
 #### Art. 3
 
@@ -175,7 +175,7 @@ beschliesst:
 
 **Veröffentlichung**
 
-<sup>1</sup> Die Staatskanzlei gibt die Einleitung eines Vernehmlassungsverfahrens durch Veröffentlichung im Amtsblatt des Kantons Bern, im Feuille officielle du Jura bernois sowie auf dem kantonalen Internetportal bekannt.
+<sup>1</sup> Die Staatskanzlei gibt die Einleitung eines Vernehmlassungsverfahrens durch Veröffentlichung im Amtsblatt sowie auf dem kantonalen Internetportal bekannt.
 
 <sup>2</sup> Die Veröffentlichung enthält
 
@@ -229,7 +229,7 @@ beschliesst:
 - k die Gemeinden mit über 10 000 Einwohnerinnen und Einwohnern,
 - l die Regionalkonferenzen,
 - m der Bernjurassische Rat,
-- n der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel (RFB),
+- n der Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne,
 - o der Verein bernischer Regierungsstatthalter,
 - p die im Grossen Rat vertretenen politischen Parteien,
 - q die Dachverbände der bernischen Arbeitgeber- und Arbeitnehmerorganisationen,

@@ -4,13 +4,13 @@ number: "152.025"
 title: Ordonnance sur les procédures de consultation et de corapport
 short: OPC
 language: fr
-version: 2015-02-01
-valid_until: 2022-02-28
-version_adopted: 2014-11-24
+version: 2022-03-01
+valid_until: 2023-01-31
+version_adopted: 2022-02-02
 adopted: 2022-12-21
 in_force: 2023-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.025"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/50/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2537/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/50/pdf_file"
 
 (OPC)
 
-du 26.06.1996 (état au 01.02.2015)
+du 26.06.1996 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -47,7 +47,7 @@ arrête:
 
 **Participation politique**
 
-<sup>1</sup> Les dispositions concernant la participation politique du Jura bernois et de la population francophone du district de Bienne sont applicables dans tous les cas.
+<sup>1</sup> Les dispositions concernant la participation politique du Jura bernois et de la population francophone de l'arrondissement administratif de Biel/Bienne sont applicables dans tous les cas.
 
 #### Art. 3
 
@@ -173,7 +173,7 @@ arrête:
 
 **Publication**
 
-<sup>1</sup> La Chancellerie d’Etat annonce l’ouverture de la procédure de consultation en publiant un avis dans la Feuille officielle du Jura bernois, dans l’Amtsblatt des Kantons Bern et sur le site Internet du canton.
+<sup>1</sup> La Chancellerie d’Etat annonce l’ouverture de la procédure de consultation en publiant un avis dans la Feuille officielle et sur le site Internet du canton.
 
 <sup>2</sup> L'avis indique
 
@@ -227,7 +227,7 @@ arrête:
 - k les communes de plus de 10 000 habitants,
 - l les conférences régionales,
 - m le Conseil du Jura bernois,
-- n le Conseil des affaires francophones du district bilingue de Bienne,
+- n le Conseil des affaires francophones de l'arrondissement de Biel/Bienne,
 - o l'Association des préfets bernois,
 - p les partis politiques représentés au Grand Conseil,
 - q les associations faîtières patronales et syndicales du canton de Berne et
