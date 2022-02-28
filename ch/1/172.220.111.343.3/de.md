@@ -4,11 +4,11 @@ title: Verordnung des EDA vom 20. September 2002 zur Bundespersonalverordnung (V
 short: VBPV-EDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/427"
 language: de
-version: 2021-01-01
+version: 2022-03-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2002-427-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2002-427-20220301-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20220301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20210101/de"
 
 (VBPV–EDA)
 
-vom 20. September 2002 (Stand am 1. Januar 2021)
+vom 20. September 2002 (Stand am 1. März 2022)
 
 Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA), im Einvernehmen mit dem Eidgenössischen Finanzdepartement (EFD),
 
@@ -72,7 +72,7 @@ In dieser Verordnung bedeuten:
   - 2\. Lebenspartner oder Lebenspartnerin einer Person nach Artikel 1, sofern eine Erklärung nach Artikel 116 abgegeben wurde, der oder die eine der Erklärung folgende Versetzung, einen Einsatz oder Temporäreinsatz mitmacht und im gemeinsamen Haushalt lebt;
 
 - e. *Kind**:* jedes Kind, für welches der oder die Angestellte Anspruch auf die Familienzulage[^3-5] nach Artikel 51 BPV hat;
-- f.[^3-6] ...
+- f.[^3-6] …
 
 [^3-1]: Fassung gemäss Ziff. I der V des EDA vom 30. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 [^3-2]: Eingefügt durch Ziff. I der V des EDA vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
@@ -128,7 +128,7 @@ Für die Begründung, Änderung und Beendigung des Arbeitsverhältnisses sind zu
   - 1\. Geschäftsträger und Geschäftsträgerinnen,
   - 2\. Chefs und Chefinnen von konsularischen Vertretungen;
 
-- d.[^6-4] ...
+- d.[^6-4] …
 - e. die DR für die übrigen Angestellten.
 
 [^6-1]: Fassung gemäss Ziff. I der V des EDA vom 3. Mai 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
@@ -148,7 +148,7 @@ Die DR erteilt die Ermächtigungen für:
 
 - a. den Verzicht auf Vorrechte und Immunitäten gemäss dem Wiener Übereinkommen vom 18. April 1961[^7-2] über diplomatische Beziehungen oder dem Wiener Übereinkommen vom 24. April 1963[^7-3] über konsularische Beziehungen;
 - b. die Zugehörigkeit zu einem Verein mit Sitz im Ausland;
-- c.[^7-4] ...
+- c.[^7-4] …
 - d. die Verleihung von Titeln und Orden ausländischer Behörden;
 - e. die Beteiligungen an der Geschäftsleitung von Erwerbsgesellschaften;
 - f. die Aussage vor einem Organ der Rechtspflege im Aufenthaltsstaat.
@@ -181,14 +181,14 @@ Die DR ist zuständig für die Verleihung der diplomatischen und konsularischen 
 Für die nicht in den Artikeln 4–8 genannten Arbeitgeberentscheide sind zuständig:
 
 - a.[^9-2] das EDA für die Personen nach Artikel 2 Absätze 1 und 1<sup>bis</sup> BPV;
-- b.[^9-3] ...
+- b.[^9-3] …
 - c. die DR für die übrigen Angestellten.
 
 [^9-1]: Fassung gemäss Ziff. I der V des EDA vom 14. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 [^9-2]: Fassung gemäss Ziff. I der V des EDA vom 3. Mai 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^9-3]: Aufgehoben durch Ziff. I der V des EDA vom 9. März 2014, mit Wirkung seit 1. April 2014 ([AS 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
-## 2. Kapitel: Personalbeurteilung in den Karrieren****
+## 2. Kapitel: Personalbeurteilung in den Karrieren
 
 [^chap2-1]
 
@@ -228,7 +228,7 @@ Die Personalbeurteilung in den Karrieren nach Artikel 2 umfasst die Leistungs-be
 
 [^12-1]: Aufgehoben durch Ziff. I der V des EDA vom 3. Mai 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-## 3. Kapitel:**** Entstehung, Änderung und Auflösung des Arbeitsverhältnisses
+## 3. Kapitel: Entstehung, Änderung und Auflösung des Arbeitsverhältnisses
 
 [^chap3-1]
 
@@ -255,13 +255,17 @@ Wer in den Karrieren nach Artikel 2 angestellt wird, muss:
 
 #### Art. 14
 
-**Höchstalter und Inhalt des Selektionsverfahrens**
+**Inhalt des Selektionsverfahrens und Höchstalter**[^14-1]
 
 ### (Art. 24 BPV)
 
-<sup>1</sup> Das Eintrittsverfahren I ist ein mehrstufiges Selektionsverfahren für Personen, die im Jahr der Selektion höchstens 30 Jahre alt sind.
+<sup>1</sup> Das Eintrittsverfahren I ist ein mehrstufiges Selektionsverfahren für die Anstellung in einer der Karrieren nach Artikel 2. Geprüft werden die allgemeine Eignung sowie die fachlichen und persönlichen Voraussetzungen der Kandidaten und Kandidatinnen.
 
-<sup>2</sup> Geprüft werden die allgemeine Eignung sowie die fachlichen und persönlichen Voraussetzungen für eine Anstellung in einer der Karrieren nach Artikel 2.
+<sup>2</sup> Kandidaten und Kandidatinnen für die Karrieren Diplomatie und IZA dürfen im Jahr der Selektion höchsten 30 Jahre alt sein.
+
+<sup>3</sup> Für eine Anstellung in der Karriere Konsularisches, Betriebsführung und Finanzen gilt keine Altersgrenze.
+
+[^14-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 15
 
@@ -307,9 +311,11 @@ Wer in den Karrieren nach Artikel 2 angestellt wird, muss:
 
 ### (Art. 24 BPV)
 
-<sup>1</sup> Der Departementsvorsteher oder die Departementsvorsteherin entscheidet aufgrund der Ergebnisse der Ausbildung und der Schlussevaluation und unter Berücksichtigung der Empfehlung der zuständigen Zulassungskommission über die unbefristete Anstellung des Kandidaten oder der Kandidatin.
+<sup>1</sup> Die DR entscheidet aufgrund der Ergebnisse der Ausbildung und der Schlussevaluation und unter Berücksichtigung der Empfehlung der zuständigen Zulassungskommission über die unbefristete Anstellung des Kandidaten oder der Kandidatin.[^17-1]
 
 <sup>2</sup> Bei der Festsetzung des Lohnes wird die Dauer der Ausbildung (Art. 16 Abs. 2) als Berufserfahrung angerechnet.
+
+[^17-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 18
 
@@ -328,9 +334,17 @@ Der Arbeitsvertrag regelt insbesondere:
 
 #### Art. 19
 
-<sup>1</sup> Das Eintrittsverfahren II ist ein mehrstufiges Selektionsverfahren für Personen, die im Jahr der Selektion älter als 30 Jahre sind. Es dient der gezielten, vom fachlichen und personellen Bedarf des EDA abhängigen Rekrutierung weiterer Kandidaten und Kandidatinnen für die Karrieren nach Artikel 2.
+[^19-1]
 
-<sup>2</sup> Geprüft werden die allgemeine Eignung sowie die fachlichen und persönlichen Voraussetzungen für eine Anstellung in einer der Karrieren nach Artikel 2. Es gelten sinngemäss die Anstellungsvoraussetzungen nach den Artikeln 15–17. Die Ausbildung wird individuell an das Profil der zur Ausbildung zugelassenen Kandidaten und Kandidatinnen angepasst.
+<sup>1</sup> Das Eintrittsverfahren II ist ein Selektionsverfahren für Personen, die im Jahr der Selektion älter als 30 Jahre sind. Es dient der gezielten, vom fachlichen und personellen Bedarf des EDA abhängigen Rekrutierung weiterer Kandidaten und Kandidatinnen für die Karrieren Diplomatie und IZA.
+
+<sup>2</sup> Geprüft werden die allgemeine Eignung sowie die fachlichen und persönlichen Voraussetzungen für eine Anstellung in der Karriere Diplomatie oder der Karriere IZA.
+
+<sup>3</sup> Es gelten die Anstellungsvoraussetzungen nach Artikel 15 Absatz 2.
+
+<sup>4</sup> Der Departementsvorsteher oder die Departementsvorsteherin entscheidet aufgrund der Ergebnisse des Selektionsverfahrens über die Anstellung des Kandidaten oder der Kandidatin.
+
+[^19-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 ### 4. Abschnitt: Zulassungskommissionen
 
@@ -342,13 +356,20 @@ Das Departement ernennt je eine Kommission für die Zulassung zu den Karrieren n
 
 #### Art. 21
 
-**Zuständigkeit**
+**Zuständigkeit**[^21-1]
 
-<sup>1</sup> Die zuständige Zulassungskommission nimmt die administrative Vorauswahl (Art. 15 Abs. 4) und die qualitative Vorselektion (Art. 15 Abs. 5) vor.
+<sup>1</sup> Die zuständige Zulassungskommission nimmt die qualitative Vorselektion des Eintrittsverfahrens I (Art. 15 Abs. 5) vor.
 
-<sup>2</sup> Sie gibt zuhanden des Departementsvorstehers oder der Departementsvorsteherin eine Empfehlung im Hinblick auf die Zulassung zur Ausbildung (Art. 15 Abs. 6) und im Hinblick auf eine unbefristete Anstellung (Art. 17 Abs. 1) ab.
+<sup>2</sup>
 
-### 5. Abschnitt:**** Allgemeine Voraussetzungen für die Anstellung als Fachpersonal
+Sie gibt im Rahmen des Eintrittsverfahrens I eine Empfehlung ab:
+
+- a. zuhanden des Departementsvorstehers oder der Departementsvorsteherin im Hinblick auf die Zulassung zur Ausbildung (Art. 15 Abs. 6);
+- b. zuhanden der DR im Hinblick auf eine unbefristete Anstellung (Art. 17 Abs. 1).
+
+[^21-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+
+### 5. Abschnitt: Allgemeine Voraussetzungen für die Anstellung als Fachpersonal
 
 [^chap3-sec5-1]
 
@@ -362,7 +383,7 @@ Wer als Fachpersonal angestellt wird, muss:
 - b. das schweizerische Bürgerrecht besitzen;
 - c. sich bereit erklären, die Versetzungspflicht zu erfüllen.
 
-## 3*a*. Kapitel:**** Indexierung der Einsatzorte
+## 3*a*. Kapitel: Indexierung der Einsatzorte
 
 [^chap3a-1]
 
@@ -392,7 +413,7 @@ Aufgehoben
 
 ## 4. Kapitel: Lohn und Sozialleistungen
 
-### 1. Abschnitt: ...
+### 1. Abschnitt: …
 
 #### Art. 26–28
 
@@ -412,7 +433,7 @@ Aufgehoben
 
 [^3033-1]: Aufgehoben durch Ziff. I der V des EDA vom 3. Mai 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-### 2. Abschnitt:**** Lohn bei Versetzungen
+### 2. Abschnitt: Lohn bei Versetzungen
 
 [^chap4-sec2-1]
 
@@ -436,7 +457,7 @@ Werden Angestellte auf eine Stelle versetzt, deren Funktionswert über jenem der
 
 <sup>4</sup> Der Lohn wird während der Fristen nach den Absätzen 2 und 3 vom Teuerungsausgleich und von einer Lohnerhöhung nach Artikel 39 BPV ausgenommen, bis er den Betrag nicht mehr übersteigt, der aufgrund der Funktionsbewertung gerechtfertigt ist.
 
-### 3. Abschnitt: Sonderzulage für die im Ausland eingesetzten Angestellten****
+### 3. Abschnitt: Sonderzulage für die im Ausland eingesetzten Angestellten
 
 [^chap4-sec3-1]
 
@@ -514,7 +535,7 @@ Als einem Berufsunfall gleichzustellende Berufskrankheiten gelten für die im Au
 
 <sup>2</sup> Das EDA holt in den Fällen nach Absatz 1 Buchstaben a und b das Gutachten des ärztlichen Dienstes der allgemeinen Bundesverwaltung ein und befindet über den ursächlichen Zusammenhang.
 
-## 5. Kapitel: Arbeitszeit der im Ausland eingesetzten Angestellten****
+## 5. Kapitel: Arbeitszeit der im Ausland eingesetzten Angestellten
 
 [^chap5-1]
 
@@ -552,14 +573,9 @@ Die Chefs und Chefinnen der Auslandvertretungen legen Ansprechzeiten und feste A
 
 ### (Art. 13 VBPV)
 
-<sup>1</sup> Die Chefs und Chefinnen der Auslandvertretungen ordnen in Normalzeiten den Pikettdienst in ihren Bereichen im Einvernehmen mit der DR beziehungsweise der DEZA an.[^49-2]
+Die Auslandvertretungen leisten keinen Pikettdienst.
 
-<sup>2</sup> Sie ordnen in Krisen- und Notfällen einen allenfalls erforderlichen erweiterten Pikettdienst in ihren Bereichen selbstständig an und informieren die DR beziehungsweise die DEZA umgehend.
-
-<sup>3</sup> Sie stellen während des Pikettdienstes die ständige Erreichbarkeit ihrer Vertretung oder Aussenstelle sicher.
-
-[^49-1]: Fassung gemäss Ziff. I der V des EDA vom 24. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^49-2]: Fassung gemäss Ziff. I der V des EDA vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^49-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 50
 
@@ -582,7 +598,7 @@ Die Chefs und Chefinnen der Auslandvertretungen legen Ansprechzeiten und feste A
 
 [^51-1]
 
-<sup>1</sup> und <sup>2</sup> ...[^51-2]
+<sup>1</sup> und <sup>2</sup> …[^51-2]
 
 <sup>3</sup> Im Ausland eingesetzte Angestellte beziehen Auszeiten anlässlich von Versetzungen oder nach Beendigung eines Einsatzes. In besonderen Fällen kann die DR dem Bezug zu einem anderen Zeitpunkt zustimmen.[^51-3]
 
@@ -649,7 +665,7 @@ Für die Genehmigung der Ansetzung der Ferien sind zuständig:
 
 [^55-1]: Fassung gemäss Ziff. I der V des EDA vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
-### 2. Abschnitt: Ferien der Angestellten im Ausland****
+### 2. Abschnitt: Ferien der Angestellten im Ausland
 
 [^chap6-sec2-1]
 
@@ -703,7 +719,7 @@ Müssen Angestellte ihre Ferien aus betrieblichen Gründen abbrechen, so gilt di
 
 Den Angestellten, die den bei Wohnsitz in der Schweiz obligatorischen Militär- oder Zivildienst freiwillig leisten, wird der im Ausland zusätzlich gegenüber dem Inland gewährte Ferienanspruch um die geleisteten Diensttage gekürzt.
 
-### 3. Abschnitt: Urlaub der Angestellten im Ausland****
+### 3. Abschnitt: Urlaub der Angestellten im Ausland
 
 [^chap6-sec3-1]
 
@@ -718,7 +734,7 @@ Den Angestellten, die den bei Wohnsitz in der Schweiz obligatorischen Militär- 
 [^60-1]: Fassung gemäss Ziff. I der V des EDA vom 28. Sept. 2005, in Kraft seit 1. Nov. 2005 ([AS 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 [^60-2]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
-## 7. Kapitel: Weitere Leistungen des Arbeitgebers an Angestellte im Ausland****
+## 7. Kapitel: Weitere Leistungen des Arbeitgebers an Angestellte im Ausland
 
 [^chap7-1]
 
@@ -852,7 +868,7 @@ Privates Übernachten im Inland mit Frühstück wird mit einer Pauschale von 30 
 
 [^69-1]: Aufgehoben durch Ziff. I der V des EDA vom 24. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
-### 3. Abschnitt: Vergütung besonderer Auslagen im Zusammenhang mit Temporäreinsätzen im Ausland****
+### 3. Abschnitt: Vergütung besonderer Auslagen im Zusammenhang mit Temporäreinsätzen im Ausland
 
 [^chap7-sec3-1]
 
@@ -892,7 +908,7 @@ Als Temporäreinsätze gelten vorübergehende Arbeitseinsätze ausserhalb des ei
 
 [^71a-1]: Eingefügt durch Ziff. I der V des EDA vom 30. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
-### 4. Abschnitt: Vergütung von Auslagen im Zusammenhang mit Revisionsreisen****
+### 4. Abschnitt: Vergütung von Auslagen im Zusammenhang mit Revisionsreisen
 
 [^chap7-sec4-1]
 
@@ -990,7 +1006,7 @@ Liegt der Beschäftigungsgrad unter 80 Prozent, so werden die Vergütungen in fo
 - b. die Einrichtungs- und Ausrüstungskosten (Art. 90);
 - c. die Ausbildungskosten (Art. 128 ff.);
 - d.[^79-2] die Konsultationsreise (Art. 96 f.);
-- e.[^79-3] ...
+- e.[^79-3] …
 - f. die Miet- und Mietnebenkosten (Art. 100);
 - g. den pauschalen Kostenersatz (Art. 87 ff.).
 
@@ -1028,9 +1044,9 @@ Zur Abgeltung schwieriger Lebensbedingungen wird den Angestellten eine Inkonveni
 
 ### (Art. 81 BPV)
 
-Pro Indexpunkt, um den der Einsatzort tiefer als mit 95 Punkten bewertet ist, entsteht ein Anspruch auf den Betrag von 701 Franken pro Jahr.
+Pro Indexpunkt, um den der Einsatzort tiefer als mit 95 Punkten bewertet ist, entsteht ein Anspruch auf den Betrag von 721 Franken pro Jahr.
 
-[^81-1]: Fassung gemäss Ziff. I der V des EDA vom 19. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^81-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 82
 
@@ -1053,7 +1069,7 @@ Die Inkonvenienzvergütung wird erhöht:
 
 Die Inkonvenienzvergütung wird nach fünf Aufenthaltsjahren am selben Einsatzort pro Folgejahr um 20 Prozent des ursprünglichen Betrages gekürzt. Die Kürzung wird am 1. Januar des Folgejahrs wirksam.
 
-### 3. Abschnitt: Mobilitätsvergütung bei Versetzungen****
+### 3. Abschnitt: Mobilitätsvergütung bei Versetzungen
 
 [^chap8-sec3-1]
 
@@ -1065,9 +1081,9 @@ Die Inkonvenienzvergütung wird nach fünf Aufenthaltsjahren am selben Einsatzor
 
 ### (Art. 81 BPV)
 
-Die Mobilitätsvergütung beträgt 6292 Franken pro Jahr.
+Die Mobilitätsvergütung beträgt 6457 Franken pro Jahr.
 
-[^84-1]: Fassung gemäss Ziff. I der V des EDA vom 19. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^84-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 85
 
@@ -1090,7 +1106,7 @@ Die Mobilitätsvergütung wird erhöht:
 
 Die Mobilitätsvergütung wird nach fünf Aufenthaltsjahren am selben Einsatzort pro Folgejahr um 20 Prozent des ursprünglichen Betrages gekürzt. Die Kürzung wird am 1. Januar des Folgejahrs wirksam.
 
-### 4. Abschnitt: Pauschaler Kostenersatz****
+### 4. Abschnitt: Pauschaler Kostenersatz
 
 [^chap8-sec4-1]
 
@@ -1118,9 +1134,9 @@ Die Mobilitätsvergütung wird nach fünf Aufenthaltsjahren am selben Einsatzort
 
 ### (Art. 82 Abs. 3 Bst. a BPV)
 
-Die Pauschale setzt sich aus einem Grundbetrag von 8067 Franken pro Jahr und einem Zuschlag von 9 Prozent des Jahreslohnes zusammen.
+Die Pauschale setzt sich aus einem Grundbetrag von 8279 Franken pro Jahr und einem Zuschlag von 9 Prozent des Jahreslohnes zusammen.
 
-[^88-1]: Fassung gemäss Ziff. I der V des EDA vom 19. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^88-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 89
 
@@ -1236,7 +1252,7 @@ Den Angestellten werden die eigenen Reisekosten und gegebenenfalls die Reisekost
 [^95-2]: Fassung gemäss Ziff. I der V des EDA vom 24. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 [^95-3]: Eingefügt durch Ziff. I der V des EDA vom 24. Okt. 2008 ([AS 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)). Fassung gemäss Ziff. I der V des EDA vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
-### 7. Abschnitt: Vergütung von Konsultationsreisen****
+### 7. Abschnitt: Vergütung von Konsultationsreisen
 
 [^chap8-sec7-1]
 
@@ -1273,7 +1289,7 @@ Den Angestellten werden die eigenen Reisekosten und gegebenenfalls die Reisekost
 
 ### (Art. 82 Abs. 3 Bst. a BPV)
 
-<sup>1</sup> Der Anspruch auf Vergütung der Konsultationsreise wird mit einer jährlich für jeden Einsatzort von der DR in Absprache mit dem EFD festgelegten Pauschale abgegolten.[^97-1]
+<sup>1</sup> Der Anspruch auf Vergütung der Konsultationsreise wird mit einer für jeden Einsatzort von der DR in Absprache mit dem EFD festgelegten Pauschale abgegolten.[^97-1]
 
 <sup>2</sup>
 
@@ -1282,10 +1298,10 @@ Die Pauschale ist zurückzuerstatten, wenn:
 - a. die Reise im massgebenden Kalenderjahr nicht angetreten wurde;
 - b. Angestellte bei Beendigung des Arbeitsverhältnisses auf Kosten des Bundes in die Schweiz zurückkehren oder sich auf Kosten des Bundes in einem Drittland niederlassen und zwischen dem Entstehen des Anspruchs und der Beendigung des Arbeitsverhältnisses weniger als sechs Monate liegen.[^97-2]
 
-[^97-1]: Fassung gemäss Ziff. I der V des EDA vom 1. Febr. 2008, in Kraft seit 15. Febr. 2008 ([AS 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
+[^97-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 [^97-2]: Fassung gemäss Ziff. I der V des EDA vom 24. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
-### 8. Abschnitt: Vergütung von Besuchsreisen****
+### 8. Abschnitt: Vergütung von Besuchsreisen
 
 [^chap8-sec8-1]
 
@@ -1330,7 +1346,7 @@ Halten sich die Kinder nicht am Einsatzort auf, so können die Reisekosten verg�
 
 ### (Art. 82 Abs. 3 Bst. a BPV)
 
-<sup>1</sup> Der Anspruch auf Vergütung der Besuchsreise wird mit einer jährlich für jeden Einsatzort von der DR in Absprache mit dem EFD festgelegten Pauschale abgegolten.[^99-1]
+<sup>1</sup> Der Anspruch auf Vergütung der Besuchsreise wird mit einer für jeden Einsatzort von der DR in Absprache mit dem EFD festgelegten Pauschale abgegolten.[^99-1]
 
 <sup>2</sup> Für Begleitpersonen und Kinder, die sich nicht in der Schweiz aufhalten, werden die Reisekosten höchstens bis zum Betrag der Pauschale nach Absatz 1 vergütet.[^99-2]
 
@@ -1341,7 +1357,7 @@ Die Pauschale ist zurückzuerstatten, wenn:
 - a. die Reise innerhalb eines Monats nach dem gemeldeten Abreisedatum nicht angetreten wurde;
 - b. Angestellte bei Beendigung des Arbeitsverhältnisses auf Kosten des Bundes in die Schweiz zurückkehren oder sich auf Kosten des Bundes in einem Drittland niederlassen und zwischen dem Entstehen des Anspruchs und der Beendigung des Arbeitsverhältnisses weniger als sechs Monate liegen.[^99-3]
 
-[^99-1]: Fassung gemäss Ziff. I der V des EDA vom 19. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^99-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 [^99-2]: Fassung gemäss Ziff. I der V des EDA vom 19. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
 [^99-3]: Fassung gemäss Ziff. I der V des EDA vom 24. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
@@ -1353,16 +1369,16 @@ Die Pauschale ist zurückzuerstatten, wenn:
 
 <sup>2</sup> Der Chef oder die Chefin der Auslandvertretung legt im Einzelfall für die ihm oder ihr unterstellten Angestellten fest, bis zu welchem Maximalbetrag sich der Bund an den Miet- und Mietnebenkosten beteiligt; er oder sie orientiert sich dabei an den ortsüblichen Bedingungen.[^100-2]
 
-<sup>3</sup> ...[^100-3]
+<sup>3</sup> …[^100-3]
 
-<sup>4</sup> ...[^100-4]
+<sup>4</sup> …[^100-4]
 
 [^100-1]: Fassung gemäss Ziff. I der V des EDA vom 28. Sept. 2005, in Kraft seit 1. Nov. 2005 ([AS 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 [^100-2]: Fassung gemäss Ziff. I der V des EDA vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 [^100-3]: Aufgehoben durch Ziff. I der V des EDA vom 3. Mai 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^100-4]: Aufgehoben durch Ziff. I der V des EDA vom 28. Sept. 2005, mit Wirkung seit 1. Nov. 2005 ([AS 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
-### 10. Abschnitt: Vergütung für die Interessenwahrung****
+### 10. Abschnitt: Vergütung für die Interessenwahrung
 
 [^chap8-sec10-1]
 
@@ -1395,7 +1411,7 @@ Die Pauschale ist zurückzuerstatten, wenn:
 
 [^102-1]: Fassung gemäss Ziff. I der V des EDA vom 15. Sept. 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
 
-### 11. Abschnitt: Pauschale für die Interessenwahrung****
+### 11. Abschnitt: Pauschale für die Interessenwahrung
 
 [^chap8-sec11-1]
 
@@ -1521,9 +1537,9 @@ Ergibt die Preiserhebung eine Veränderung des Indexwerts für den Einsatzort de
 - a. bei einer Erhöhung des Indexwerts rückwirkend auf den Beginn des Quartals, in dem die Preiserhebung stattfand;
 - b. bei einer Herabsetzung des Indexwerts auf Beginn des Quartals, das der Preiserhebung folgt.
 
-<sup>2</sup> ...[^111-1]
+<sup>2</sup> Die Anpassung des Kaufkraftausgleichs kann nach einer Preiserhebung ausgesetzt werden, wenn instabile wirtschaftliche und politische Rahmenbedingungen sowie unsichere Finanzmärkte vorliegen.[^111-1]
 
-[^111-1]: Aufgehoben durch Ziff. I der V des EDA vom 28. Sept. 2005, mit Wirkung seit 1. Nov. 2005 ([AS 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^111-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 ### 13. Abschnitt: Steuerfreiheit
 
@@ -1539,14 +1555,16 @@ Ergibt die Preiserhebung eine Veränderung des Indexwerts für den Einsatzort de
 
 Der Minderkostenabzug wird nach folgenden Kategorien berechnet:
 
-- a. allein stehende Angestellte ohne Kinder;
-- b. allein stehende Angestellte mit Kindern;
+- a.[^112-2] alleinstehende Angestellte ohne Kinder;
+- b.[^112-3] alleinstehende Angestellte mit Kindern;
 - c. verheiratete Angestellte ohne Kinder;
 - d. verheiratete Angestellte mit Kindern.
 
 <sup>3</sup> Der pauschale Minderkostenabzug beträgt 70 Prozent des nach Absatz 1 errechneten Betrags.
 
 [^112-1]: Fassung gemäss Ziff. I der V des EDA vom 28. Sept. 2005, in Kraft seit 1. Nov. 2005 ([AS 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^112-2]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^112-3]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 113
 
@@ -1572,7 +1590,7 @@ Der Minderkostenabzug wird nach folgenden Kategorien berechnet:
 
 Anlässlich einer Versetzung im oder ins Ausland oder eines Einsatzes im Ausland können den Angestellten bis längstens sechs Monate nach Ankunft am Einsatzort auf begründetes Gesuch hin Darlehen gewährt werden für:[^114-1]
 
-- a. Einrichtung und Ausrüstung;
+- a.[^114-2] …
 - b. Mietzinsdepots;
 - c. Instandstellungsarbeiten;
 - d. den Kauf eines Personenwagens.
@@ -1580,6 +1598,7 @@ Anlässlich einer Versetzung im oder ins Ausland oder eines Einsatzes im Ausland
 <sup>2</sup> Die Darlehen für Autokäufe sind zu dem Satz zu verzinsen, den die Sparkasse Bundespersonal für Einlegerguthaben am 1. Januar des betreffenden Jahres festlegt.
 
 [^114-1]: Fassung gemäss Ziff. I der V des EDA vom 24. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^114-2]: Aufgehoben durch Ziff. I der V des EDA vom 13. Dez. 2021, mit Wirkung seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 115
 
@@ -1623,7 +1642,7 @@ Leben Angestellte in einer Lebenspartnerschaft, so geben sie und ihre Lebenspart
 
 <sup>2</sup> Der Anspruch auf einen Begleitpersonenzuschlag für einen neuen Lebenspartner oder eine neue Lebenspartnerin entsteht frühestens 24 Monate nach dem Erlöschen eines früheren Anspruchs und ab der nächsten Versetzung oder dem nächsten Einsatz. Massgebend ist der Zeitpunkt des Auszugs des früheren Lebenspartners oder der früheren Lebenspartnerin aus dem gemeinsamen Haushalt.[^117-2]
 
-<sup>3</sup> ...[^117-3]
+<sup>3</sup> …[^117-3]
 
 <sup>4</sup> Der Begleitpersonenzuschlag zum pauschalen Kostenersatz nach Artikel 120 wird auch allein erziehenden Angestellten ausgerichtet, die für ihre im gleichen Haushalt lebenden Kinder Anspruch auf Familienzulage haben.[^117-4]
 
@@ -1661,12 +1680,12 @@ Die Begleitpersonenzuschläge zur Inkonvenienz- und zur Mobilitätsvergütung be
 
 ### (Art. 82 Abs. 3 Bst. a, 114 Abs. 3 BPV)
 
-<sup>1</sup> Der Begleitpersonenzuschlag zum pauschalen Kostenersatz beträgt 11 452 Franken pro Jahr.[^120-2]
+<sup>1</sup> Der Begleitpersonenzuschlag zum pauschalen Kostenersatz beträgt 11 767 Franken pro Jahr.[^120-2]
 
 <sup>2</sup> Die Kürzung des Zuschlags richtet sich nach Artikel 89.
 
 [^120-1]: Fassung gemäss Ziff. I der V des EDA vom 24. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^120-2]: Fassung gemäss Ziff. I der V des EDA vom 16. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
+[^120-2]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 121
 
@@ -1694,7 +1713,7 @@ Die Begleitpersonenzuschläge zur Inkonvenienz- und zur Mobilitätsvergütung be
 
 <sup>2</sup> Die Leistungen der Versicherung und der Bundesbeitrag für die Begleitpersonen können im Rahmen des in Artikel 86 Absatz 2 BPV vorgesehenen Kollektivversicherungsvertrags geregelt werden.
 
-### 2*a*. Abschnitt:**** Allgemeine Unterstützungsmassnahmen
+### 2*a*. Abschnitt: Allgemeine Unterstützungsmassnahmen
 
 [^chap9-sec2a-1]
 
@@ -1719,9 +1738,9 @@ Das EDA kann mit Beiträgen an die Angestellten Massnahmen zur Verbesserung der 
 Das EDA beteiligt sich an den Kosten der Begleitperson für ihre berufliche Vorsorge, wenn:
 
 - a. der Vorsorgevertrag mit einer Vorsorgeträgerin, die der Versicherungs- oder Bankenaufsicht unterstellt ist und Sitz in der Schweiz hat, abgeschlossen wurde;
-- b.[^123-1] ...
+- b.[^123-1] …
 - c. der Vorsorgevertrag eine Klausel über die Prämienbefreiung bei Invalidität enthält;
-- d.[^123-2] ...
+- d.[^123-2] …
 
 <sup>1bis</sup>
 
@@ -1773,7 +1792,7 @@ Erleiden Begleitpersonen Vermögenseinbussen unter den Voraussetzungen nach Arti
 
 ## 10. Kapitel: Kinder
 
-### 1. Abschnitt: Pauschaler Kostenersatz****
+### 1. Abschnitt: Pauschaler Kostenersatz
 
 [^chap10-sec1-1]
 
@@ -1781,14 +1800,14 @@ Erleiden Begleitpersonen Vermögenseinbussen unter den Voraussetzungen nach Arti
 
 #### Art. 127
 
-<sup>1</sup> Den Angestellten wird für die Kinder ein pauschaler Kostenersatz von 1677 Franken pro Jahr und Kind entrichtet, solange sie im gemeinsamen Haushalt leben.[^127-1]
+<sup>1</sup> Den Angestellten wird für die Kinder ein pauschaler Kostenersatz von 1723 Franken pro Jahr und Kind entrichtet, solange sie im gemeinsamen Haushalt leben.[^127-1]
 
 <sup>2</sup> Der Kostenersatz wird nur einmal pro Haushalt entrichtet.[^127-2]
 
-[^127-1]: Fassung gemäss Ziff. I der V des EDA vom 19. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^127-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 [^127-2]: Fassung gemäss Ziff. I der V des EDA vom 24. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
-### 1*a*. Abschnitt:**** Beiträge für familienergänzende Kinderbetreuung im Ausland
+### 1*a*. Abschnitt: Beiträge für familienergänzende Kinderbetreuung im Ausland
 
 [^chap10-sec1a-1]
 
@@ -1831,9 +1850,11 @@ Das EDA gewährt den Angestellten Beiträge an:[^128-1]
 
 ### (Art. 82 Abs. 3 Bst. a, 114 Abs. 3 BPV)
 
-<sup>1</sup> Die Ausbildungskostenbeiträge werden ab dem Beginn des obligatorischen Schulunterrichts, frühestens aber für das Jahr, in dem das Kind das 4. Altersjahr vollendet, gewährt.
+<sup>1</sup> Die Ausbildungskostenbeiträge werden frühestens für das Jahr gewährt, in dem das Kind das 4. Altersjahr vollendet. Vorbehalten bleibt die Gewährung von Ausbildungskostenbeiträgen für Kinder, die jünger sind, wenn am Einsatzort im Ausland der obligatorische Schulunterricht früher beginnt.[^129-1]
 
 <sup>2</sup> Die Ausbildungskostenbeiträge werden bis zur Maturität oder zu einem vergleichbaren Schulabschluss, bis zur Beendigung der ersten Berufsausbildung, bis zum ersten Hochschulabschluss oder Abschluss einer auf der Lehre aufbauenden Berufsausbildung, längstens aber bis zum vollendeten 25. Altersjahr des Kindes gewährt.
+
+[^129-1]: Fassung gemäss Ziff. I der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 130
 
@@ -2044,7 +2065,7 @@ Werden die Angestellten oder ihre Begleitpersonen zu einer Aussage vor einem Org
 [^149-2]: Fassung gemäss Ziff. I der V des EDA vom 3. Mai 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^149-3]: Fassung gemäss Ziff. I der V des EDA vom 3. Mai 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-### 2. Abschnitt: Überprüfung der Differenzbereinigung****
+### 2. Abschnitt: Überprüfung der Differenzbereinigung
 
 [^chap12-sec2-1]
 
@@ -2058,7 +2079,7 @@ Werden die Angestellten oder ihre Begleitpersonen zu einer Aussage vor einem Org
 
 #### Art. 151
 
-**...[^151-2]**[^151-1]
+**…[^151-2]**[^151-1]
 
 Die Überprüfung der Differenzbereinigung nach Artikel 6 Absatz 2 VPBV[^151-3] erfolgt:
 
@@ -2069,7 +2090,7 @@ Die Überprüfung der Differenzbereinigung nach Artikel 6 Absatz 2 VPBV[^151-3] 
 [^151-2]: Aufgehoben durch Ziff. I der V des EDA vom 3. Mai 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^151-3]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
-### 3. Abschnitt: ...
+### 3. Abschnitt: …
 
 #### Art. 152 und 153
 
@@ -2089,7 +2110,7 @@ Die Überprüfung der Differenzbereinigung nach Artikel 6 Absatz 2 VPBV[^151-3] 
 
 #### Art. 156
 
-**...[^156-1]**
+**…[^156-1]**
 
 Die DR erlässt Weisungen in den Bereichen:
 
@@ -2097,7 +2118,7 @@ Die DR erlässt Weisungen in den Bereichen:
 - b.[^156-2] Eintrittsverfahren (Art. 14–19);
 - c. Indexierung der Einsatzorte (Art. 23);
 - d. Sonderzulagen für Einsätze in Krisengebieten (Art. 36);
-- e.[^156-3] ...
+- e.[^156-3] …
 - f. Wochenarbeitszeit (Art. 47);
 - g. Pikettdienst (Art. 44 und 49);
 - h.[^156-4] Ferien und Urlaub (Art. 53–60);
@@ -2142,7 +2163,7 @@ Die nachstehenden Reglemente werden aufgehoben:
 
 <sup>2</sup> Die nachstehenden Reglemente werden wie folgt geändert:
 
-...[^157-5]
+…[^157-5]
 
 [^157-1]: In der AS nicht veröffentlicht.
 [^157-2]: In der AS nicht veröffentlicht.
@@ -2268,15 +2289,15 @@ Ausbildungskostenbeiträge in der Schweiz, die Angestellten zum Zeitpunkt des In
 
 - [tab]
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 [^t-1]: Aufgehoben durch Ziff. II der V des EDA vom 14. Juni 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. II Abs. 2 der V des EDA vom 3. Mai 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 60)
 
@@ -2306,7 +2327,7 @@ Anhang 3*[^t-3]*
 <tr><td>7</td><td>Versetzung mit dem Auto</td><td>Versetzungsreise mit dem Auto</td><td>1 bis 3 Tage</td><td>Angestellte, die das Auto für die Versetzungsreise benutzen.</td></tr>
 </table>
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 106 und 121)
 
@@ -2357,25 +2378,27 @@ Anhang 4*[^t-4]*
 <tr><td>6</td><td></td><td colspan="2">6 100</td><td></td><td></td><td>6 000</td></tr>
 </table>
 
-Anhang 5
+Anhang 5[^t-5]
 
 (Art. 110)
 
 ## Kaufkraftausgleich
 
+[^t-5]: Fassung gemäss Ziff. II der V des EDA vom 13. Dez. 2021, in Kraft seit 1. März 2022 ([AS 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+
 **Vergleichsindex**
 
-Der zur Anwendung gelangende Kaufkraftausgleich (KKA) richtet sich nach dem auf Grund einer Preiserhebung resp. einer Fortrechnung ermittelten Vergleichsindex. Der KKA wird wie folgt festgesetzt:
+Der zur Anwendung gelangende Kaufkraftausgleich (KKA) richtet sich nach dem aufgrund einer Preiserhebung resp. einer Fortrechnung ermittelten Vergleichsindex. Der KKA wird wie folgt festgesetzt:
 
 <table>
-<tr><td>Vergleichs-index</td><td>massgebender KKA</td></tr>
+<tr><td>Vergleichsindex</td><td>massgebender KKA</td></tr>
 <tr><td>75.1\* – 80.0</td><td>–20</td></tr>
 <tr><td>80.1 – 85.0</td><td>–15</td></tr>
 <tr><td>85.1 – 90.0</td><td>–10</td></tr>
 <tr><td>90.1 – 95.0</td><td>– 5</td></tr>
-<tr><td>95.1 – 102,4</td><td>0</td></tr>
-<tr><td>102,5 – 107,4</td><td>+5</td></tr>
-<tr><td>107,5 – 112,4</td><td>+10</td></tr>
-<tr><td>112,5 – 117.4\*</td><td>+15</td></tr>
-<tr><td colspan="2">\* Bei tieferen oder höheren Vergleichsindizes nach gleichem Muster. Es besteht keine Beschränkung nach unten oder oben.</td></tr>
+<tr><td>95.1 – 102.4</td><td>0</td></tr>
+<tr><td>102.5 – 107.4</td><td>+ 5</td></tr>
+<tr><td>107.5 – 112.4</td><td>+10</td></tr>
+<tr><td>112.5 – 117.4\*</td><td>+15</td></tr>
+<tr><td colspan="2">\* Bei tieferen oder höheren Vergleichsindizes nach gleichem Muster.</td></tr>
 </table>

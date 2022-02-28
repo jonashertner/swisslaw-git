@@ -4,11 +4,11 @@ title: "Ordinanza del DFAE del 20 settembre 2002 concernente l'ordinanza sul per
 short: O-OPers-DFAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/427"
 language: it
-version: 2021-01-01
+version: 2022-03-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2002-427-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2002-427-20220301-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20220301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20210101/it"
 
 (O-OPers–DFAE)
 
-del 20 settembre 2002 (Stato 1° gennaio 2021)
+del 20 settembre 2002 (Stato 1° marzo 2022)
 
 Il Dipartimento federale degli affari esteri (DFAE), d’intesa con il Dipartimento federale delle finanze (DFF),
 
@@ -189,7 +189,7 @@ Per le decisioni del datore di lavoro non menzionate negli articoli 4–8 sono c
 [^9-3]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^9-4]: Abrogata dal n. I dell’O del DFAE del 9 mar. 2014, con effetto dal 1° apr. 2014 ([RU 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
-## Capitolo 2: Valutazione del personale nelle carriere****
+## Capitolo 2: Valutazione del personale nelle carriere
 
 [^chap2-1]
 
@@ -229,7 +229,7 @@ La valutazione del personale nelle carriere di cui all’articolo 2 comprende la
 
 [^12-1]: Abrogato dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-## Capitolo 3:**** Costituzione, modifica e risoluzione del rapporto di lavoro
+## Capitolo 3: Costituzione, modifica e risoluzione del rapporto di lavoro
 
 [^chap3-1]
 
@@ -256,13 +256,17 @@ La persona assunta in una delle carriere di cui all’articolo 2 deve:
 
 #### Art. 14
 
-**Età massima e contenuto della procedura di selezione**
+**Contenuto della procedura di selezione ed età massima**[^14-1]
 
 ### (art. 24 OPers)
 
-<sup>1</sup> La procedura di ammissione I è una procedura di selezione in più fasi a cui possono accedere persone che nell’anno della selezione hanno al massimo 30 anni.
+<sup>1</sup> La procedura di ammissione I è una procedura di selezione in più fasi per l’assunzione in una delle carriere di cui all’articolo 2. Vengono verificati l’idoneità generale nonché il possesso dei requisiti professionali e personali dei candidati.
 
-<sup>2</sup> Vengono verificati l’idoneità generale nonché il possesso dei requisiti professionali e personali per l’assunzione in una delle carriere di cui all’articolo 2.
+<sup>2</sup> I candidati alla carriera diplomatica o alla carriera CI devono avere al massimo 30 anni nell’anno della selezione.
+
+<sup>3</sup> Per l’assunzione nella carriera affari consolari, gestione e finanze non vi è alcun limite d’età.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 15
 
@@ -306,9 +310,11 @@ La persona assunta in una delle carriere di cui all’articolo 2 deve:
 
 **Assunzione a tempo indeterminato**
 
-<sup>1</sup> Il capo del Dipartimento decide in merito all’assunzione a tempo indeterminato dei candidati sulla base dei risultati della formazione e della valutazione finale e tenendo conto delle raccomandazioni della commissione di ammissione competente.
+<sup>1</sup> La DR decide in merito all’assunzione a tempo indeterminato dei candidati sulla base dei risultati della formazione e della valutazione finale e tenendo conto delle raccomandazioni della commissione di ammissione competente.[^17-1]
 
 <sup>2</sup> Per la fissazione dello stipendio la durata della formazione (art. 16 cpv. 2) è calcolata come esperienza professionale.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 18
 
@@ -327,9 +333,17 @@ Il contratto di lavoro disciplina in particolare:
 
 #### Art. 19
 
-<sup>1</sup> La procedura di ammissione II è una procedura di selezione in più fasi a cui possono accedere persone che nell’anno della selezione hanno più di 30 anni. Il suo scopo è il reclutamento mirato di ulteriori candidati per le carriere di cui all’articolo 2 in base alle esigenze di personale e di specializzazioni del DFAE.
+[^19-1]
 
-<sup>2</sup> Vengono verificati l’idoneità generale nonché il possesso dei requisiti professionali e personali per l’assunzione in una delle carriere di cui all’articolo 2. Si applicano per analogia le condizioni di assunzione di cui agli articoli 15–17. La formazione è adeguata individualmente al profilo del candidato ammesso.
+<sup>1</sup> La procedura di ammissione II è una procedura di selezione a cui possono accedere persone che nell’anno della selezione hanno più di 30 anni. Il suo scopo è il reclutamento mirato di ulteriori candidati per la carriera diplomatica e la carriera CI in base alle esigenze di personale e di specializzazioni del DFAE.
+
+<sup>2</sup> Vengono verificati l’idoneità generale nonché il possesso dei requisiti professionali e personali per l’assunzione nella carriera diplomatica o nella carriera CI.
+
+<sup>3</sup> Si applicano le condizioni di assunzione di cui all’articolo 15 capoverso 2.
+
+<sup>4</sup> Il capo del Dipartimento decide in merito all’assunzione dei candidati sulla base dei risultati della procedura di selezione.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 ### Sezione 4: Commissioni di ammissione
 
@@ -341,13 +355,20 @@ Il Dipartimento nomina una commissione per l’ammissione a ciascuna delle carri
 
 #### Art. 21
 
-**Competenza**
+**Competenza**[^21-1]
 
-<sup>1</sup> La commissione di ammissione competente effettua la preselezione amministrativa (art. 15 cpv. 4) e la preselezione qualitativa (art. 15 cpv. 5).
+<sup>1</sup> La commissione di ammissione competente effettua la preselezione qualitativa per la procedura di ammissione I (art. 15 cpv. 5).
 
-<sup>2</sup> Essa formula una raccomandazione all’attenzione del capo del Dipartimento in vista dell’ammissione alla formazione (art. 15 cpv. 6) e di un’assunzione a tempo indeterminato (art. 17 cpv. 1).
+<sup>2</sup>
 
-### Sezione 5:**** Condizioni generali di assunzione come personale specializzato
+Nell’ambito della procedura di ammissione I formula una raccomandazione:
+
+- a. all’attenzione del capo del Dipartimento in vista dell’ammissione alla formazione (art. 15 cpv. 6);
+- b. all’attenzione della DR in vista di un’assunzione a tempo indeterminato (art. 17 cpv. 1).
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+
+### Sezione 5: Condizioni generali di assunzione come personale specializzato
 
 [^chap3-sec5-1]
 
@@ -361,7 +382,7 @@ La persona assunta come personale specializzato deve:
 - b. avere la cittadinanza svizzera;
 - c. dichiararsi disposta ad adempiere l’obbligo di trasferimento.
 
-## Capitolo 3*a*:**** Indicizzazione dei luoghi d’impiego
+## Capitolo 3*a*: Indicizzazione dei luoghi d’impiego
 
 [^chap3a-1]
 
@@ -411,7 +432,7 @@ Abrogati
 
 [^3033-1]: Abrogati dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-### Sezione 2:**** Stipendio in caso di trasferimento
+### Sezione 2: Stipendio in caso di trasferimento
 
 [^chap4-sec2-1]
 
@@ -435,7 +456,7 @@ Se all’impiegato trasferito è assegnato un posto inquadrato in una classe di 
 
 <sup>4</sup> Durante i periodi previsti dai capoversi 2 e 3 e fintantoché lo stipendio supera l’ammontare giustificato in base alla valutazione della funzione, non è versata la compensazione del rincaro e non è accordato alcun aumento secondo l’articolo 39 OPers.
 
-### Sezione 3: Supplementi speciali per gli impiegati in servizio all’estero****
+### Sezione 3: Supplementi speciali per gli impiegati in servizio all’estero
 
 [^chap4-sec3-1]
 
@@ -477,9 +498,9 @@ In caso di lesioni corporali o invalidità dovuti a un infortunio professionale 
 
 ### (art. 63 OPers)
 
-<sup>1</sup> Il datore di lavoro paga le spese di cura dell’impiegato in servizio all’estero secondo i principi della LAINF[^38-1] e le spese del rito funebre secondo l’articolo 26 capoverso 4 dell’ordinanza del DFF del 6 dicembre 2001[^38-2] concernente l’ordinanza sul personale federale (O-OPers-DFF) se le persone di accompagnamento e i figli che vivono nella stessa economia domestica, nella misura in cui abbiano diritto ad assegni di custodia, subiscono infortuni e malattie ai sensi degli articoli 39 e 40.
+<sup>1</sup> Il datore di lavoro paga le spese di cura dell’impiegato in servizio all’estero secondo i principi della LAINF[^38-1] e le spese del rito funebre secondo l’articolo 26 capoverso 4 dell’ordinanza del DFF del 6 dicembre 2001[^38-2] concernente l’ordinanza sul personale federale (O-OPers) se le persone di accompagnamento e i figli che vivono nella stessa economia domestica, nella misura in cui abbiano diritto ad assegni di custodia, subiscono infortuni e malattie ai sensi degli articoli 39 e 40.
 
-<sup>2</sup> Per la riduzione o il rifiuto delle prestazioni di cui al capoverso 1, l’articolo 27 O‑OPers-DFF si applica per analogia.
+<sup>2</sup> Per la riduzione o il rifiuto delle prestazioni di cui al capoverso 1, l’articolo 27 O‑OPers si applica per analogia.
 
 [^38-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^38-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
@@ -513,7 +534,7 @@ Per gli impiegati in servizio all’estero sono considerate malattie professiona
 
 <sup>2</sup> Nei casi di cui al capoverso 1 lettere a e b, il DFAE chiede una perizia del servizio medico dell’Amministrazione generale della Confederazione e decide in merito al nesso causale.
 
-## Capitolo 5: Tempo di lavoro degli impiegati in servizio all’estero****
+## Capitolo 5: Tempo di lavoro degli impiegati in servizio all’estero
 
 [^chap5-1]
 
@@ -551,14 +572,9 @@ I capi delle rappresentanze all’estero stabiliscono gli orari di lavoro a scel
 
 ### (art. 13 O-OPers)
 
-<sup>1</sup> In tempi normali, i capi delle rappresentanze all’estero ordinano il servizio di picchetto nei loro settori d’intesa con la DR rispettivamente con la DSC.[^49-2]
+Le rappresentanze all’estero non forniscono alcun servizio di picchetto.
 
-<sup>2</sup> In casi di crisi e di emergenza ordinano autonomamente un eventuale servizio di picchetto allargato che risulti necessario nei loro settori e ne informano immediatamente la DR rispettivamente la DSC.
-
-<sup>3</sup> Durante il servizio di picchetto garantiscono che la loro rappresentanza o il loro ufficio esterno sia sempre raggiungibile.
-
-[^49-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^49-2]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^49-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 50
 
@@ -648,7 +664,7 @@ Sono competenti per l’approvazione del piano delle vacanze:
 
 [^55-1]: Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
-### Sezione 2: Vacanze degli impiegati in servizio all’estero****
+### Sezione 2: Vacanze degli impiegati in servizio all’estero
 
 [^chap6-sec2-1]
 
@@ -702,7 +718,7 @@ Se gli impiegati devono interrompere le vacanze per motivi di servizio, il perio
 
 Agli impiegati che prestano volontariamente il servizio militare o civile, obbligatorio in caso di domicilio in Svizzera, è ridotto nella misura dei giorni di servizio prestati il diritto supplementare alle vacanze concesso all’estero rispetto al diritto alle vacanze in Svizzera.
 
-### Sezione 3: Congedo degli impiegati in servizio all’estero****
+### Sezione 3: Congedo degli impiegati in servizio all’estero
 
 [^chap6-sec3-1]
 
@@ -712,12 +728,12 @@ Agli impiegati che prestano volontariamente il servizio militare o civile, obbli
 
 <sup>1</sup> Gli impiegati in servizio all’estero possono ricevere un congedo pagato in particolare per le attività e gli eventi indicati nell’allegato 3.[^60-1]
 
-<sup>2</sup> Per matrimoni, nascite, lutti come pure per malattie e infortuni conformemente all’articolo 40 capoverso 3 O-OPers-DFF[^60-2] il congedo può esser prolungato per la durata del viaggio di quattro giorni al massimo.
+<sup>2</sup> Per matrimoni, nascite, lutti come pure per malattie e infortuni conformemente all’articolo 40 capoverso 3 O-OPers[^60-2] il congedo può esser prolungato per la durata del viaggio di quattro giorni al massimo.
 
 [^60-1]: Nuovo testo giusta il n. I dell’O del DFAE del 28 set. 2005, in vigore dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 [^60-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
-## Capitolo 7: Altre prestazioni del datore di lavoro per gli impiegati in servizio all’estero****
+## Capitolo 7: Altre prestazioni del datore di lavoro per gli impiegati in servizio all’estero
 
 [^chap7-1]
 
@@ -786,7 +802,7 @@ Per viaggi di servizio all’estero con i mezzi di trasporto pubblici gli impieg
 
 ### (art. 72 cpv. 2 lett. b OPers)
 
-<sup>1</sup> Per i viaggi di servizio in aereo all’estero l’articolo 47 O-OPers-DFF[^64-1] si applica per analogia.
+<sup>1</sup> Per i viaggi di servizio in aereo all’estero l’articolo 47 O-OPers[^64-1] si applica per analogia.
 
 <sup>2</sup> Per i viaggi pagati conformemente all’articolo 61 capoverso 2 lettere f–j è rimborsato il prezzo di un biglietto in classe economica. In presenza di motivi validi, la DR può eccezionalmente autorizzare un biglietto aereo in classe business.[^64-2]
 
@@ -816,7 +832,7 @@ Il pernottamento privato con colazione in Svizzera è rimborsato con un importo 
 
 **Rimborso di pernottamenti e pasti all’estero**
 
-### (art. 72 cpv. 2 lett. b OPers; art. 48 O-OPers-DFF)
+### (art. 72 cpv. 2 lett. b OPers; art. 48 O-OPers)
 
 <sup>1</sup> La DR fissa periodicamente il rimborso per pernottamenti e pasti all’estero in base alle spese usuali e ammissibili sul posto.
 
@@ -853,7 +869,7 @@ Il pernottamento privato con colazione in Svizzera è rimborsato con un importo 
 
 [^69-1]: Abrogato dal n. I dell’O del DFAE del 24 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
-### Sezione 3: Rimborso di spese particolari dovute a impieghi temporanei all’estero****
+### Sezione 3: Rimborso di spese particolari dovute a impieghi temporanei all’estero
 
 [^chap7-sec3-1]
 
@@ -893,7 +909,7 @@ Sono considerati impieghi temporanei gli impieghi di lavoro provvisori fuori dal
 
 [^71a-1]: Introdotto dal n. I dell’O del DFAE del 30 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
-### Sezione 4: Rimborso di spese in relazione a viaggi di revisione****
+### Sezione 4: Rimborso di spese in relazione a viaggi di revisione
 
 [^chap7-sec4-1]
 
@@ -1029,9 +1045,9 @@ Per compensare le condizioni di vita difficili agli impiegati è versata un’in
 
 ### (art. 81 OPers)
 
-Per ogni punto dell’indice inferiore a 95 con il quale è valutato il luogo d’impiego sorge un diritto a un importo di 701 franchi l’anno.
+Per ogni punto dell’indice inferiore a 95 con il quale è valutato il luogo d’impiego sorge un diritto a un importo di 721 franchi l’anno.
 
-[^81-1]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^81-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 82
 
@@ -1054,7 +1070,7 @@ L’indennità per inconvenienti connessi al lavoro è aumentata:
 
 Dopo cinque anni di soggiorno nello stesso luogo d’impiego, l’indennità per inconvenienti connessi al lavoro è ridotta del 20 per cento rispetto all’importo iniziale per ogni anno successivo. La riduzione è applicabile il 1° gennaio dell’anno successivo.
 
-### Sezione 3: Indennità per mobilità in caso di trasferimento****
+### Sezione 3: Indennità per mobilità in caso di trasferimento
 
 [^chap8-sec3-1]
 
@@ -1066,9 +1082,9 @@ Dopo cinque anni di soggiorno nello stesso luogo d’impiego, l’indennità per
 
 ### (art. 81 OPers)
 
-L’indennità per mobilità ammonta a 6292 franchi l’anno.
+L’indennità per mobilità ammonta a 6457 franchi l’anno.
 
-[^84-1]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^84-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 85
 
@@ -1091,7 +1107,7 @@ L’indennità per mobilità è aumentata:
 
 Dopo cinque anni di soggiorno nello stesso luogo d’impiego, l’indennità per mobilità è ridotta del 20 per cento rispetto all’importo iniziale per ogni anno successivo. La riduzione è applicabile il 1° gennaio dell’anno successivo.
 
-### Sezione 4: Risarcimento forfettario delle spese****
+### Sezione 4: Risarcimento forfettario delle spese
 
 [^chap8-sec4-1]
 
@@ -1118,9 +1134,9 @@ Dopo cinque anni di soggiorno nello stesso luogo d’impiego, l’indennità per
 
 ### (art. 82 cpv. 3 lett. a OPers)
 
-L’importo forfettario si compone di un importo di base di 8067 franchi l’anno e di un supplemento pari al 9 per cento dello stipendio annuo.
+L’importo forfettario si compone di un importo di base di 8279 franchi l’anno e di un supplemento pari al 9 per cento dello stipendio annuo.
 
-[^88-1]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^88-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 89
 
@@ -1236,7 +1252,7 @@ Agli impiegati sono rimborsate le spese di viaggio proprie e, se del caso, le sp
 [^95-2]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 [^95-3]: Introdotto dal n. I dell’O del DFAE del 24 ott. 2008 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)). Nuovo testo giusta il n. I dell’O del DFAE del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
-### Sezione 7: Rimborso dei viaggi per consultazioni****
+### Sezione 7: Rimborso dei viaggi per consultazioni
 
 [^chap8-sec7-1]
 
@@ -1273,7 +1289,7 @@ Agli impiegati sono rimborsate le spese di viaggio proprie e, se del caso, le sp
 
 ### (art. 82 cpv. 3 lett. a OPers)
 
-<sup>1</sup> Il diritto al rimborso del viaggio per consultazioni è compensato con un importo forfettario fissato annualmente per ogni luogo d’impiego dalla DR d’intesa con il DFF.[^97-1]
+<sup>1</sup> Il diritto al rimborso del viaggio per consultazioni è compensato con un importo forfettario fissato per ogni luogo d’impiego dalla DR d’intesa con il DFF.[^97-1]
 
 <sup>2</sup>
 
@@ -1282,10 +1298,10 @@ L’importo forfettario dev’essere restituito, se:
 - a. il viaggio non ha avuto luogo nell’anno civile determinante;
 - b. l’impiegato, in caso di fine del rapporto di lavoro, rientra in Svizzera a spese della Confederazione o si stabilisce in un Paese terzo a spese della Confederazione e se tra il momento in cui sorge il diritto e la fine del rapporto di lavoro trascorrono meno di sei mesi.[^97-2]
 
-[^97-1]: Nuovo testo giusta il n. I dell’O del DFAE del 1° feb. 2008, in vigore dal 15 feb. 2008 ([RU 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
+[^97-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 [^97-2]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
-### Sezione 8: Rimborso di visite****
+### Sezione 8: Rimborso di visite
 
 [^chap8-sec8-1]
 
@@ -1330,7 +1346,7 @@ Se i figli non risiedono nel luogo d’impiego del genitore, possono essere rimb
 
 ### (art. 82 cpv. 3 lett. a OPers)
 
-<sup>1</sup> Il diritto al rimborso delle visite è compensato con un importo forfettario stabilito annualmente per ogni luogo d’impiego dalla DR d’intesa con il DFF.[^99-1]
+<sup>1</sup> Il diritto al rimborso delle visite è compensato con un importo forfettario fissato per ogni luogo d’impiego dalla DR d’intesa con il DFF.[^99-1]
 
 <sup>2</sup> Per le persone di accompagnamento e i figli che non risiedono in Svizzera sono rimborsate le spese di viaggio al massimo fino all’importo forfettario di cui al capoverso 1.[^99-2]
 
@@ -1341,7 +1357,7 @@ L’importo forfettario deve essere restituito se:
 - a. il viaggio non ha luogo entro un mese dopo la data di partenza notificata;
 - b. l’impiegato, in caso di fine del rapporto di lavoro, rientra in Svizzera a spese della Confederazione o si stabilisce in un Paese terzo a spese della Confederazione e se tra il momento in cui sorge il diritto e la fine del rapporto di lavoro trascorrono meno di sei mesi.[^99-3]
 
-[^99-1]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^99-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 [^99-2]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
 [^99-3]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
@@ -1362,7 +1378,7 @@ L’importo forfettario deve essere restituito se:
 [^100-3]: Abrogato dal n. I dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^100-4]: Abrogato dal n. I dell’O del DFAE del 28 set. 2005, con effetto dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
-### Sezione 10: Rimborso per la tutela degli interessi****
+### Sezione 10: Rimborso per la tutela degli interessi
 
 [^chap8-sec10-1]
 
@@ -1395,7 +1411,7 @@ L’importo forfettario deve essere restituito se:
 
 [^102-1]: Nuovo testo giusta il n. I dell’O del DFAE del 15 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
 
-### Sezione 11: Importo forfettario per la tutela degli interessi****
+### Sezione 11: Importo forfettario per la tutela degli interessi
 
 [^chap8-sec11-1]
 
@@ -1519,9 +1535,9 @@ Se dalla verifica dei prezzi risulta una modifica del valore dell’indice per i
 - a. in caso di aumento del valore dell’indice retroattivamente all’inizio del trimestre nel quale ha avuto luogo la verifica dei prezzi;
 - b. in caso di diminuzione del valore dell’indice all’inizio del trimestre successivo alla verifica dei prezzi.
 
-<sup>2</sup> ...[^111-1]
+<sup>2</sup> La modifica dell’adeguamento al potere d’acquisto può essere sospesa dopo una verifica dei prezzi in presenza di un contesto economico e politico instabile nonché di incertezza sui mercati finanziari.[^111-1]
 
-[^111-1]: Abrogato dal n. I dell’O del DFAE del 28 set. 2005, con effetto dal 1° nov. 2005 ([RU 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^111-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 ### Sezione 13: Esenzione fiscale
 
@@ -1570,7 +1586,7 @@ La deduzione per i minori costi è calcolata in base alle seguenti categorie:
 
 In occasione di un trasferimento, sia esso dalla Svizzera o dall’estero o di un impiego all’estero, all’impiegato, su richiesta motivata, possono essere concessi prestiti fino a sei mesi dopo l’arrivo nel luogo d’impiego per:[^114-1]
 
-- a. equipaggiamenti e attrezzature;
+- a.[^114-2] ...
 - b. deposito della pigione;
 - c. lavori di ripristino;
 - d. acquisto di un’autovettura.
@@ -1578,6 +1594,7 @@ In occasione di un trasferimento, sia esso dalla Svizzera o dall’estero o di u
 <sup>2</sup> I prestiti per gli acquisti di autovetture devono essere remunerati al tasso che la Cassa di risparmio del personale federale fissa il 1° gennaio dell’anno in questione per gli averi depositati.
 
 [^114-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^114-2]: Abrogata dal n. I dell’O del DFAE del 13 dic. 2021, con effetto dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 115
 
@@ -1659,12 +1676,12 @@ I supplementi per le persone di accompagnamento sulle indennità per inconvenien
 
 ### (art. 82 cpv. 3 lett. a, 114 cpv. 3 OPers)
 
-<sup>1</sup> Il supplemento per le persone di accompagnamento sul risarcimento forfettario delle spese ammonta a 11 452 franchi l’anno.[^120-2]
+<sup>1</sup> Il supplemento per le persone di accompagnamento sul risarcimento forfettario delle spese ammonta a 11 767 franchi l’anno.[^120-2]
 
 <sup>2</sup> La riduzione del supplemento si basa sull’articolo 89.
 
 [^120-1]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^120-2]: Nuovo testo giusta il n. I dell’O del DFAE del 16 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
+[^120-2]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 121
 
@@ -1692,7 +1709,7 @@ I supplementi per le persone di accompagnamento sulle indennità per inconvenien
 
 <sup>2</sup> Le prestazioni dell’assicurazione e il contributo federale per le persone di accompagnamento possono essere disciplinati nel quadro dei contratti di assicurazione collettiva di cui all’articolo 86 capoverso 2 OPers.
 
-### Sezione 2*a*:**** Misure di sostegno generali
+### Sezione 2*a*: Misure di sostegno generali
 
 [^chap9-sec2a-1]
 
@@ -1771,7 +1788,7 @@ Se persone di accompagnamento subiscono perdite di patrimonio alle condizioni di
 
 ## Capitolo 10: Figli
 
-### Sezione 1: Risarcimento forfettario delle spese****
+### Sezione 1: Risarcimento forfettario delle spese
 
 [^chap10-sec1-1]
 
@@ -1779,14 +1796,14 @@ Se persone di accompagnamento subiscono perdite di patrimonio alle condizioni di
 
 #### Art. 127
 
-<sup>1</sup> Gli impiegati ricevono per i figli un risarcimento forfettario delle spese di 1677 franchi per anno e per figlio, finché i figli vivono in comunione domestica con loro.[^127-1]
+<sup>1</sup> Gli impiegati ricevono per i figli un risarcimento forfettario delle spese di 1723 franchi per anno e per figlio, finché i figli vivono in comunione domestica con loro.[^127-1]
 
 <sup>2</sup> Il risarcimento delle spese è versato soltanto una volta per ciascuna economia domestica.[^127-2]
 
-[^127-1]: Nuovo testo giusta il n. I dell’O del DFAE del 19 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^127-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 [^127-2]: Nuovo testo giusta il n. I dell’O del DFAE del 24 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
-### Sezione 1*a*:**** Contributi per la custodia di bambini complementare alla famiglia
+### Sezione 1*a*: Contributi per la custodia di bambini complementare alla famiglia
 
 [^chap10-sec1a-1]
 
@@ -1829,9 +1846,11 @@ Il DFAE accorda agli impiegati i contributi:[^128-1]
 
 ### (art. 82 cpv. 3 lett. a, 114 cpv. 3 OPers)
 
-<sup>1</sup> I contributi alle spese di formazione sono accordati a partire dall’inizio dell’istruzione scolastica obbligatoria, ma al più presto per l’anno in cui il figlio compie il 4° anno di età.
+<sup>1</sup> I contributi alle spese di formazione sono accordati al più presto per l’anno in cui il figlio compie il 4° anno d’età. È fatta salva la concessione di contributi alle spese di formazione per figli più piccoli se nel luogo d’impiego all’estero l’istruzione scolastica obbligatoria inizia prima.[^129-1]
 
 <sup>2</sup> I contributi alle spese di formazione sono accordati fino al conseguimento della maturità o di un diploma equivalente, fino al termine della prima formazione professionale, del primo ciclo di studi universitari o alla conclusione della formazione professionale basata sull’apprendistato, al massimo tuttavia fino al compimento del 25° anno d’età.
+
+[^129-1]: Nuovo testo giusta il n. I dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 130
 
@@ -2042,7 +2061,7 @@ Gli impiegati o le persone di accompagnamento, che devono fare una deposizione d
 [^149-2]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^149-3]: Nuovo testo giusta il n. I dell’O del DFAE del 3 mag. 2018, in vigore dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-### Sezione 2: Riesame dell’eliminazione delle divergenze****
+### Sezione 2: Riesame dell’eliminazione delle divergenze
 
 [^chap12-sec2-1]
 
@@ -2261,15 +2280,15 @@ I contributi alle spese di formazione in Svizzera che al momento dell’entrata 
 
 <sup>3</sup> L’articolo 157 capoverso 2 lettere a e b entra in vigore come segue: l’articolo 9 del regolamento d’esecuzione III del 1° aprile 1997 e l’articolo 10.1 capoverso 3 del regolamento d’esecuzione IV del 1° gennaio 2002 entrano in vigore il 1° gennaio 2003.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 [^t-1]: Abrogato dal n. II dell’O del DFAE del 14 giu. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 [^t-2]: Abrogato dal n. II cpv. 2 dell’O del DFAE del 3 mag. 2018, con effetto dal 1° gen. 2019 ([RU 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 60)
 
@@ -2299,7 +2318,7 @@ Allegato 3*[^t-3]*
 <tr><td>7</td><td>Trasferimento con l’auto</td><td>Viaggio di trasferimento con l’auto</td><td>Da 1 a 3 giorni</td><td>Impiegati che si servono dell’auto per il trasferimento.</td></tr>
 </table>
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 106 e 121)
 
@@ -2350,25 +2369,27 @@ Allegato 4*[^t-4]*
 <tr><td>6</td><td></td><td colspan="2">6 100</td><td></td><td></td><td>6 000</td></tr>
 </table>
 
-Allegato 5
+Allegato 5[^t-5]
 
 (art. 110)
 
 ## Adeguamento al potere d’acquisto
+
+[^t-5]: Nuovo testo giusta il n. II dell’O del DFAE del 13 dic. 2021, in vigore dal 1° mar. 2022 ([RU 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 **Indice comparativo**
 
 L’adeguamento al potere d’acquisto (APA) da applicare dipende dall’indice comparativo calcolato in base a una verifica dei prezzi e a un calcolo continuamente aggiornato. L’APA è stabilito come segue:
 
 <table>
-<tr><td>Indice</td><td>APA determinante</td></tr>
-<tr><td>75.1\* – 80.0</td><td>–20</td></tr>
-<tr><td>80.1 – 85.0</td><td>–15</td></tr>
-<tr><td>85.1 – 90.0</td><td>–10</td></tr>
-<tr><td>90.1 – 95.0</td><td>– 5</td></tr>
-<tr><td>95.1 – 102,4</td><td>0</td></tr>
-<tr><td>102,5 – 107,4</td><td>+5</td></tr>
+<tr><td>Indice comparativo</td><td>APA determinante</td></tr>
+<tr><td>75,1\* – 80,0</td><td>–20</td></tr>
+<tr><td>80,1 – 85,0</td><td>–15</td></tr>
+<tr><td>85,1 – 90,0</td><td>–10</td></tr>
+<tr><td>90,1 – 95,0</td><td>– 5</td></tr>
+<tr><td>95,1 – 102,4</td><td>0</td></tr>
+<tr><td>102,5 – 107,4</td><td>+ 5</td></tr>
 <tr><td>107,5 – 112,4</td><td>+10</td></tr>
-<tr><td>112,5 – 117.4\*</td><td>+15</td></tr>
-<tr><td colspan="2">\* Per indici comparativi inferiori o superiori secondo lo stesso modello. Non esiste alcuna limitazione né verso il basso né verso l’alto.</td></tr>
+<tr><td>112,5 – 117,4\*</td><td>+15</td></tr>
+<tr><td colspan="2">\* Per indici comparativi inferiori o superiori secondo lo stesso modello.</td></tr>
 </table>

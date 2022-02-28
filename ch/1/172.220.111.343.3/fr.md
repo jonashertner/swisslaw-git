@@ -4,11 +4,11 @@ title: "Ordonnance du DFAE du 20 septembre 2002 concernant l'ordonnance sur le p
 short: O-OPers-DFAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/427"
 language: fr
-version: 2021-01-01
+version: 2022-03-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-427-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/427/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2002-427-20220301-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20220301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/427/20210101/fr"
 
 (O-OPers – DFAE)
 
-du 20 septembre 2002 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 septembre 2002 (État le 1<sup>er</sup> mars 2022)
 
 Le Département fédéral des affaires étrangères (DFAE), en accord avec le Département fédéral des finances (DFF),
 
@@ -30,7 +30,7 @@ arrête:
 
 ## Chapitre 1 Dispositions générales
 
-### Section 1 Champ d’application, appartenance aux services et définitions****
+### Section 1 Champ d’application, appartenance aux services et définitions
 
 [^chap1-sec1-1]
 
@@ -76,7 +76,7 @@ Au sens de la présente ordonnance, on entend par:
   - 2\. partenaire d’une personne relevant de l’art. 1 qui accompagne celle-ci dans son transfert ou pour une affectation temporaire, pour autant que la déclaration prévue à l’art. 116 ait été produite, et qui vit en ménage commun avec elle;
 
 - e. *enfant*: tout enfant pour lequel l’employé a droit à l’allocation familiale[^3-5] d’après l’art. 51 OPers;
-- f.[^3-6] *...*
+- f.[^3-6] …
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 30 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 [^3-2]: Introduite par le ch. I de l’O du DFAE du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
@@ -132,7 +132,7 @@ Les décisions de transfert des employés soumis à la discipline des transferts
   - 1\. les chargés d’affaires,
   - 2\. les chefs des représentations consulaires;
 
-- d.[^6-4] ...
+- d.[^6-4] …
 - e. la DR pour les autres employés.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 3 mai 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
@@ -152,7 +152,7 @@ La DR donne les autorisations pour:
 
 - a. la renonciation aux privilèges et immunités d’après la Convention de Vienne du 18 avril 1961 sur les relations diplomatiques[^7-2] et la Convention de Vienne du 24 avril 1963 sur les relations consulaires[^7-3];
 - b. l’appartenance à une association ayant son siège à l’étranger;
-- c.[^7-4] ...
+- c.[^7-4] …
 - d. l’octroi de titres et de décorations d’autorités étrangères;
 - e. la participation à la direction de sociétés à but lucratif;
 - f. la déposition devant un organe d’administration de la justice dans l’État de résidence.
@@ -185,14 +185,14 @@ La DR est compétente pour l’octroi des titres diplomatiques et consulaires po
 Sont compétents pour les décisions de l’employeur non couvertes par les art. 4 à 8:
 
 - a.[^9-2] le département pour les personnes visées à l’art. 2, al. 1 et 1<sup>bis</sup>, OPers;
-- b.[^9-3] ...
+- b.[^9-3] …
 - c. la DR pour les autres employés.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 3 mai 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^9-3]: Abrogée par le ch. I de l’O du DFAE du 9 mars 2014, avec effet au 1<sup>er</sup> avr. 2014 ([RO 2014 691](https://fedlex.data.admin.ch/eli/oc/2014/144)).
 
-## Chapitre 2 Évaluation du personnel dans les carrières****
+## Chapitre 2 Évaluation du personnel dans les carrières
 
 [^chap2-1]
 
@@ -232,7 +232,7 @@ L’évaluation du personnel dans les carrières au sens de l’art. 2 comprend 
 
 [^12-1]: Abrogé par le ch. I de l’O du DFAE du 3 mai 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-## Chapitre 3**** Création, modification et résiliation des rapports de travail
+## Chapitre 3 Création, modification et résiliation des rapports de travail
 
 [^chap3-1]
 
@@ -259,13 +259,17 @@ Les conditions à remplir pour être engagé dans les carrières au sens de l’
 
 #### Art. 14
 
-**Age limite et contenu de la procédure de sélection**
+**Contenu de la procédure de sélection et âge limite**[^14-1]
 
 ### (art. 24 OPers)
 
-<sup>1</sup> La procédure d’admission I est une procédure de sélection en plusieurs étapes pour les personnes qui sont âgées de 30 ans au plus pendant l’année de la sélection.
+<sup>1</sup> La procédure d’admission I est une procédure de sélection en plusieurs étapes permettant d’accéder aux carrières mentionnées à l’art. 2. Sont vérifiées les aptitudes générales des candidats ainsi que les conditions professionnelles et personnelles requises.
 
-<sup>2</sup> Sont vérifiées les aptitudes générales ainsi que les conditions professionnelles et personnelles requises pour un engagement dans l’une des carrières au sens de l’art. 2.
+<sup>2</sup> Les candidats à un engagement dans la carrière diplomatique ou dans la carrière de coopération internationale doivent être âgées de 30 ans au plus pendant l’année de la sélection.
+
+<sup>3</sup> Aucune limite d’âge ne s’applique à un engagement dans la carrière affaires consulaires, gestion et finances.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 15
 
@@ -309,9 +313,11 @@ Les conditions à remplir pour être engagé dans les carrières au sens de l’
 
 **Engagement de durée indéterminée**
 
-<sup>1</sup> Le chef de département décide, sur la base des résultats de la formation et de l’évaluation finale, et en tenant compte de la recommandation de la commission d’admission compétente, de l’engagement du candidat pour une durée indéterminée.
+<sup>1</sup> La DR décide, sur la base des résultats de la formation et de l’évaluation finale, et en tenant compte de la recommandation de la commission d’admission compétente, de l’engagement du candidat pour une durée indéterminée.[^17-1]
 
 <sup>2</sup> La durée de la formation (art. 16, al. 2) est prise en compte comme expérience professionnelle lors de la fixation du salaire.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 18
 
@@ -330,9 +336,17 @@ Le contrat de travail régit en particulier:
 
 #### Art. 19
 
-<sup>1</sup> La procédure d’admission II est une procédure de sélection en plusieurs étapes pour les personnes qui sont âgées de plus de 30 ans pendant l’année de la sélection. Elle sert à assurer le recrutement ciblé de nouveaux candidats pour les carrières au sens de l’art. 2 en fonction des besoins en personnel et en compétences spécialisées du département.
+[^19-1]
 
-<sup>2</sup> Sont vérifiées les aptitudes générales ainsi que les conditions professionnelles et personnelles requises pour un engagement dans l’une des carrières au sens de l’art. 2. Les conditions d’engagement définies aux art. 15 à 17 s’appliquent par analogie. La formation est adaptée individuellement au profil des candidats admis à la formation.
+<sup>1</sup> La procédure d’admission II est une procédure de sélection destinée aux personnes qui sont âgées de plus de 30 ans pendant l’année de la sélection. Elle sert à assurer le recrutement ciblé de nouveaux candidats pour la carrière diplomatique et la carrière de coopération internationale, en fonction des besoins en personnel et en compétences spécialisées du département.
+
+<sup>2</sup> Sont vérifiées les aptitudes générales ainsi que les conditions professionnelles et personnelles requises pour un engagement dans la carrière diplomatique ou la carrière internationale.
+
+<sup>3</sup> Les conditions d’engagement définies à l’art. 15, al. 2, s’appliquent.
+
+<sup>4</sup> Le chef du département décide de l’engagement du candidat sur la base des résultats de la procédure de sélection.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 ### Section 4 Commissions d’admission
 
@@ -344,13 +358,20 @@ Le département nomme une commission d’admission pour chacune des carrières a
 
 #### Art. 21
 
-**Compétence**
+**Compétence**[^21-1]
 
-<sup>1</sup> La commission d’admission compétente procède à la présélection administrative (art. 15, al. 4) et à la sélection qualitative (art. 15, al. 5).
+<sup>1</sup> La commission d’admission compétente procède à la sélection qualitative en amont de la procédure d’admission I (art. 15, al. 5).
 
-<sup>2</sup> Elle formule une recommandation à l’intention du chef de département en vue de l’admission à la formation (art. 15, al. 6) et d’un engagement de durée indéterminée (art. 17, al. 1).
+<sup>2</sup>
 
-### Section 5**** Conditions générales d’engagement pour les collaborateurs spécialisés
+Dans le cadre de la procédure d’admission I, elle formule une recommandation:
+
+- a. à l’intention du chef du département en vue de l’admission à la formation (art. 15, al. 6);
+- b. à l’intention de la DR en vue d’un engagement de durée indéterminée (art. 17, al. 1).
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+
+### Section 5 Conditions générales d’engagement pour les collaborateurs spécialisés
 
 [^chap3-sec5-1]
 
@@ -364,7 +385,7 @@ Toute personne engagée en qualité de collaborateur spécialisé doit:
 - b. posséder la nationalité suisse;
 - c. se déclarer disposée à se soumettre à la discipline des transferts.
 
-## Chapitre 3*a***** Indexation des lieux d’affectation
+## Chapitre 3*a* Indexation des lieux d’affectation
 
 [^chap3a-1]
 
@@ -394,7 +415,7 @@ Toute personne engagée en qualité de collaborateur spécialisé doit:
 
 ## Chapitre 4 Salaire et prestations sociales
 
-### Section 1 ...
+### Section 1 …
 
 #### Art. 26 à 28
 
@@ -414,7 +435,7 @@ Toute personne engagée en qualité de collaborateur spécialisé doit:
 
 [^3033-1]: Abrogés par le ch. I de l’O du DFAE du 3 mai 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-### Section 2**** Salaire en cas de transfert
+### Section 2 Salaire en cas de transfert
 
 [^chap4-sec2-1]
 
@@ -438,7 +459,7 @@ Lorsque des employés sont transférés à un poste dont l’évaluation est sup
 
 <sup>4</sup> Pendant les délais prévus aux al. 2 et 3, le salaire n’est pas indexé sur le renchérissement et aucune augmentation de salaire selon l’art. 39 OPers n’est accordée tant que le salaire dépasse le montant auquel l’employé peut prétendre sur la base de l’évaluation de la fonction.
 
-### Section 3 Allocations spéciales pour les employés affectés à l’étranger****
+### Section 3 Allocations spéciales pour les employés affectés à l’étranger
 
 [^chap4-sec3-1]
 
@@ -517,7 +538,7 @@ Sont considérées comme maladies professionnelles assimilables à un accident p
 
 <sup>2</sup> Dans les cas couverts par l’al. 1, let. a et b, le département demande l’avis du service médical de l’administration et se prononce sur le rapport de causalité.
 
-## Chapitre 5 Temps de travail du personnel affecté à l’étranger****
+## Chapitre 5 Temps de travail du personnel affecté à l’étranger
 
 [^chap5-1]
 
@@ -555,14 +576,9 @@ Les chefs des représentations à l’étranger déterminent les heures de prés
 
 ### (art. 13 O-OPers)
 
-<sup>1</sup> Les chefs des représentations à l’étranger organisent en temps normal le service de permanence dans leur domaine en accord avec la DR ou la DDC.[^49-2]
+Les représentations à l’étranger n’assurent pas de service de permanence.
 
-<sup>2</sup> En cas de crise et d’urgence, ils organisent de manière autonome un éventuel service de permanence élargi dans leur domaine et en informent immédiatement la DR, respectivement la DDC.
-
-<sup>3</sup> Ils font en sorte que leur représentation ou leur bureau soit constamment atteignable pendant le service de permanence.
-
-[^49-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 24 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^49-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
+[^49-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 50
 
@@ -585,7 +601,7 @@ Les chefs des représentations à l’étranger déterminent les heures de prés
 
 [^51-1]
 
-<sup>1</sup> et <sup>2</sup> ...[^51-2]
+<sup>1</sup> et <sup>2</sup> …[^51-2]
 
 <sup>3</sup> Les employés affectés à l’étranger font usage de leur congé sabbatique à l’occasion des transferts ou à la fin d’une affectation. Dans des cas particuliers, la DR peut autoriser la prise d’un congé sabbatique à un autre moment.[^51-3]
 
@@ -652,7 +668,7 @@ Sont compétents pour l’autorisation de la prise de vacances:
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
-### Section 2 Vacances des employés affectés à l’étranger****
+### Section 2 Vacances des employés affectés à l’étranger
 
 [^chap6-sec2-1]
 
@@ -706,7 +722,7 @@ Si, pour des motifs de service, des employés doivent interrompre leurs vacances
 
 Le droit supplémentaire aux vacances à l’étranger par rapport au droit aux vacances en Suisse sera réduit du nombre de jours de services accomplis par les employés qui accomplissent volontairement un service militaire ou civil obligatoire pour les employés domiciliés en Suisse.
 
-### Section 3 Congés pour les employés affectés à l’étranger****
+### Section 3 Congés pour les employés affectés à l’étranger
 
 [^chap6-sec3-1]
 
@@ -721,7 +737,7 @@ Le droit supplémentaire aux vacances à l’étranger par rapport au droit aux 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 28 sept. 2005, en vigueur depuis le 1<sup>er</sup> nov. 2005 ([RO 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 [^60-2]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
-## Chapitre 7 Autres prestations de l’employeur pour les employés affectés à l’étranger****
+## Chapitre 7 Autres prestations de l’employeur pour les employés affectés à l’étranger
 
 [^chap7-1]
 
@@ -857,7 +873,7 @@ L’hébergement privé en Suisse avec petit déjeuner est remboursé par un for
 
 [^69-1]: Abrogé par le ch. I de l’O du DFAE du 24 oct. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
-### Section 3 Remboursement de frais spéciaux en relation avec des affectations temporaires à l’étranger****
+### Section 3 Remboursement de frais spéciaux en relation avec des affectations temporaires à l’étranger
 
 [^chap7-sec3-1]
 
@@ -897,7 +913,7 @@ Sont considérées comme affectations temporaires les affectations de travail pr
 
 [^71a-1]: Introduit par le ch. I de l’O du DFAE du 30 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4745](https://fedlex.data.admin.ch/eli/oc/2020/857)).
 
-### Section 4 Remboursement des frais en relation avec les voyages d’audit****
+### Section 4 Remboursement des frais en relation avec les voyages d’audit
 
 [^chap7-sec4-1]
 
@@ -996,7 +1012,7 @@ Si le degré d’occupation est de moins de 80 %, les indemnités suivantes sero
 - b. frais d’installation et d’équipement (art. 90);
 - c. frais de formation (art. 128 ss);
 - d.[^79-2] voyages de consultation (art. 96 s.);
-- e.[^79-3] ...
+- e.[^79-3] …
 - f. frais de loyer et accessoires (art. 100);
 - g. remboursement forfaitaire de frais (art. 87 ss).
 
@@ -1034,9 +1050,9 @@ Une indemnité pour inconvénients est versée aux employés afin de compenser d
 
 ### (art. 81 OPers)
 
-Lorsque l’indice attribué au lieu d’affectation est inférieur à 95 points, chaque point en moins donne droit à un montant de 701 francs par an.
+Lorsque l’indice attribué au lieu d’affectation est inférieur à 95 points, chaque point en moins donne droit à un montant de 721 francs par an.
 
-[^81-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 19 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^81-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 82
 
@@ -1059,7 +1075,7 @@ L’indemnité pour inconvénients est augmentée:
 
 L’indemnité pour inconvénients est réduite, pour chaque année suivante, de 20 % de son montant initial après cinq années de séjour au même lieu d’affectation. La réduction prend effet le 1<sup>er</sup> janvier de l’année suivante.
 
-### Section 3 Indemnité de mobilité en cas de transfert****
+### Section 3 Indemnité de mobilité en cas de transfert
 
 [^chap8-sec3-1]
 
@@ -1071,9 +1087,9 @@ L’indemnité pour inconvénients est réduite, pour chaque année suivante, de
 
 ### (art. 81 OPers)
 
-Le montant de l’indemnité de mobilité est de 6292 francs par an.
+Le montant de l’indemnité de mobilité est de 6457 francs par an.
 
-[^84-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 19 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^84-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 85
 
@@ -1096,7 +1112,7 @@ L’indemnité de mobilité est augmentée:
 
 L’indemnité de mobilité est réduite, pour chaque année suivante, de 20 % de son montant initial après cinq années de séjour au même lieu d’affectation. La réduction prend effet le 1<sup>er</sup> janvier de l’année suivante.
 
-### Section 4 Remboursement forfaitaire de frais généraux****
+### Section 4 Remboursement forfaitaire de frais généraux
 
 [^chap8-sec4-1]
 
@@ -1123,9 +1139,9 @@ L’indemnité de mobilité est réduite, pour chaque année suivante, de 20 % d
 
 ### (art. 82, al. 3, let. a, OPers)
 
-L’indemnité forfaitaire se compose d’un montant de base de 8067 francs par an et d’un supplément de 9 % du salaire annuel.
+L’indemnité forfaitaire se compose d’un montant de base de 8279 francs par an et d’un supplément de 9 % du salaire annuel.
 
-[^88-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 19 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^88-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 89
 
@@ -1241,7 +1257,7 @@ Les frais de voyage des employés, des personnes accompagnantes et des enfants s
 [^95-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 24 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 [^95-3]: Introduit par le ch. I de l’O du DFAE du 24 oct. 2008 ([RO 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)). Nouvelle teneur selon le ch. I de l’O du DFAE du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 
-### Section 7 Remboursement des voyages de consultation****
+### Section 7 Remboursement des voyages de consultation
 
 [^chap8-sec7-1]
 
@@ -1278,7 +1294,7 @@ Les frais de voyage des employés, des personnes accompagnantes et des enfants s
 
 ### (art. 82, al. 3, let. a, OPers)
 
-<sup>1</sup> Le droit au remboursement d’un voyage de consultation fait l’objet d’une indemnité forfaitaire fixée chaque année pour chaque lieu d’affectation par la DR après entente avec le DFF.[^97-1]
+<sup>1</sup> Le droit au remboursement d’un voyage de consultation fait l’objet d’une indemnité forfaitaire fixée pour chaque lieu d’affectation par la DR en accord avec le DFF.[^97-1]
 
 <sup>2</sup>
 
@@ -1287,10 +1303,10 @@ L’indemnité forfaitaire doit être restituée lorsque:
 - a. le voyage n’a pas eu lieu au cours de l’année civile déterminante;
 - b. les employés, en cas de cessation des rapports de travail, retournent en Suisse ou s’établissent dans un pays tiers aux frais de la Confédération et que moins de six mois se sont écoulés entre le moment de la naissance du droit et la cessation des rapports de travail.[^97-2]
 
-[^97-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 1<sup>er</sup> fév. 2008, en vigueur depuis le 15 fév. 2008 ([RO 2008 347](https://fedlex.data.admin.ch/eli/oc/2008/92)).
+[^97-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 [^97-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 24 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
-### Section 8 Remboursement des voyages de visite****
+### Section 8 Remboursement des voyages de visite
 
 [^chap8-sec8-1]
 
@@ -1331,24 +1347,25 @@ Les frais de voyage des enfants qui ne séjournent pas au lieu d’affectation p
 
 #### Art. 99
 
-**Indemnités forfaitaires**
+**Indemnité forfaitaire[^99-1]**
 
-### (art. 82 al. 3 let. a OPers)
+### (art. 82, al. 3, let. a, OPers)
 
-<sup>1</sup> Le droit au remboursement d’un voyage de visite payé fait l’objet d’une indemnité forfaitaire fixée chaque année pour chaque lieu d’affectation par la DR en accord avec le DFF.[^99-1]
+<sup>1</sup> Le droit au remboursement d’un voyage de visite fait l’objet d’une indemnité forfaitaire fixée pour chaque lieu d’affectation par la DR en accord avec le DFF.[^99-2]
 
-<sup>2</sup> Pour les personnes accompagnantes et les enfants qui ne séjournent pas en Suisse, les frais de voyage sont remboursés jusqu’à concurrence du montant de l’indemnité forfaitaire d’après l’al. 1.[^99-2]
+<sup>2</sup> Pour les personnes accompagnantes et les enfants qui ne séjournent pas en Suisse, les frais de voyage sont remboursés jusqu’à concurrence du montant de l’indemnité forfaitaire d’après l’al. 1.[^99-3]
 
 <sup>3</sup>
 
 L’indemnité forfaitaire doit être restituée lorsque:
 
 - a. le voyage n’a pas eu lieu dans le mois suivant la date de départ indiquée;
-- b. les employés, en cas de cessation des rapports de travail, retournent en Suisse ou s’établissent dans un pays tiers aux frais de la Confédération et que moins de six mois se sont écoulés entre le moment de la naissance du droit et la cessation des rapports de travail.[^99-3]
+- b. les employés, en cas de cessation des rapports de travail, retournent en Suisse ou s’établissent dans un pays tiers aux frais de la Confédération et que moins de six mois se sont écoulés entre le moment de la naissance du droit et la cessation des rapports de travail.[^99-4]
 
-[^99-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 19 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
-[^99-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 19 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
-[^99-3]: Nouvelle teneur selon le ch. I de l’O du DFAE du 24 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^99-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^99-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+[^99-3]: Nouvelle teneur selon le ch. I de l’O du DFAE du 19 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^99-4]: Nouvelle teneur selon le ch. I de l’O du DFAE du 24 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
 ### Section 9 Contribution au loyer du logement
 
@@ -1358,16 +1375,16 @@ L’indemnité forfaitaire doit être restituée lorsque:
 
 <sup>2</sup> Les chefs des représentations à l’étranger décident au cas par cas et en fonction des conditions locales, pour les employés qui leur sont subordonnés, du montant maximum de la participation de la Confédération aux frais de location et aux frais accessoires.[^100-2]
 
-<sup>3</sup> ...[^100-3]
+<sup>3</sup> …[^100-3]
 
-<sup>4</sup> ...[^100-4]
+<sup>4</sup> …[^100-4]
 
 [^100-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 28 sept. 2005, en vigueur depuis le 1<sup>er</sup> nov. 2005 ([RO 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 [^100-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4569](https://fedlex.data.admin.ch/eli/oc/2013/813)).
 [^100-3]: Abrogé par le ch. I de l’O du DFAE du 3 mai 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^100-4]: Abrogé par le ch. I de l’O du DFAE du 28 sept. 2005, avec effet au 1<sup>er</sup> nov. 2005 ([RO 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
 
-### Section 10 Indemnité pour la défense des intérêts****
+### Section 10 Indemnité pour la défense des intérêts
 
 [^chap8-sec10-1]
 
@@ -1400,7 +1417,7 @@ L’indemnité forfaitaire doit être restituée lorsque:
 
 [^102-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 15 sept. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4705](https://fedlex.data.admin.ch/eli/oc/2009/549)).
 
-### Section 11 Indemnités forfaitaires pour la défense des intérêts****
+### Section 11 Indemnités forfaitaires pour la défense des intérêts
 
 [^chap8-sec11-1]
 
@@ -1526,9 +1543,9 @@ Si le relevé des prix entraîne une modification de l’indice pour le lieu d�
 - a. en cas d’augmentation de l’indice, rétroactivement au début du trimestre pendant lequel a eu lieu le relevé des prix;
 - b. en cas de baisse de l’indice, au début du trimestre qui suit la date du relevé des prix.
 
-<sup>2</sup> ...[^111-1]
+<sup>2</sup> En cas d’instabilité économique et politique ou d’incertitude sur les marchés financiers, la modification de l’adaptation au pouvoir d’achat peut être suspendue après un relevé des prix.[^111-1]
 
-[^111-1]: Abrogé par le ch. I de l’O du DFAE du 28 sept. 2005, avec effet au 1<sup>er</sup> nov. 2005 ([RO 2005 4703](https://fedlex.data.admin.ch/eli/oc/2005/623)).
+[^111-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 ### Section 13 Prise en compte de l’exonération fiscale
 
@@ -1577,7 +1594,7 @@ La déduction pour économies est calculée selon les catégories suivantes:
 
 À l’occasion d’un transfert ou d’une affectation à l’étranger, un prêt peut être accordé aux employés au plus tard dans les six mois après leur arrivée au lieu d’affectation sur demande motivée pour les raisons suivantes:[^114-1]
 
-- a. installation et équipement;
+- a.[^114-2] …
 - b. dépôt de garantie du loyer;
 - c. travaux de remise en état;
 - d. achat d’un véhicule de tourisme.
@@ -1585,6 +1602,7 @@ La déduction pour économies est calculée selon les catégories suivantes:
 <sup>2</sup> Les prêts pour l’achat d’une automobile portent intérêt au taux qui est fixé au 1<sup>er</sup> janvier de l’année pour les dépôts de la Caisse d’épargne du personnel de la Confédération.
 
 [^114-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 24 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
+[^114-2]: Abrogée par le ch. I de l’O du DFAE du 13 déc. 2021, avec effet au 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 115
 
@@ -1628,7 +1646,7 @@ Les employés vivant en partenariat et leur partenaire remettent à la DR une d�
 
 <sup>2</sup> Le droit à l’allocation pour personnes accompagnantes pour un nouveau partenaire naît au plus tôt 24 mois après l’extinction du droit précédent et à partir du transfert suivant ou de l’affectation suivante. Est déterminant le moment où l’ancien partenaire quitte le ménage commun.[^117-2]
 
-<sup>3</sup> ...[^117-3]
+<sup>3</sup> …[^117-3]
 
 <sup>4</sup> L’allocation pour personnes accompagnantes en complément au remboursement forfaitaire de frais d’après l’art. 120 est également versée aux employés élevant seul un ou plusieurs enfants et qui ont droit à l’allocation familiale[^117-4] à condition que les enfants vivent en ménage commun avec eux.[^117-5]
 
@@ -1670,12 +1688,12 @@ Les allocations pour personnes accompagnantes sur l’indemnité pour inconvéni
 
 [^120-1]
 
-<sup>1</sup> L’allocation pour personnes accompagnantes versée en complément au remboursement forfaitaire de frais se monte à 11 452 francs par an.[^120-2]
+<sup>1</sup> L’allocation pour personnes accompagnantes versée en complément au remboursement forfaitaire de frais se monte à 11 767 francs par an.[^120-2]
 
 <sup>2</sup> La réduction de l’allocation est régie par l’art. 89.
 
 [^120-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 24 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
-[^120-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 16 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4453](https://fedlex.data.admin.ch/eli/oc/2014/742)).
+[^120-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 121
 
@@ -1703,7 +1721,7 @@ Les allocations pour personnes accompagnantes sur l’indemnité pour inconvéni
 
 <sup>2</sup> Les prestations de l’assurance et la contribution de la Confédération pour les personnes accompagnantes peuvent être réglées dans le cadre du contrat collectif d’assurance prévu par l’art. 86, al. 2, OPers.
 
-### Section 2*a***** Mesures générales de soutien
+### Section 2*a* Mesures générales de soutien
 
 [^chap9-sec2a-1]
 
@@ -1728,9 +1746,9 @@ Le DFAE peut cofinancer, par des contributions versées aux employés, des mesur
 Le département participe aux frais de prévoyance professionnelle de la personne accompagnante lorsque:
 
 - a. le contrat de prévoyance a été conclu avec une institution de prévoyance soumise à la surveillance des assurances ou des banques et dont le siège est en Suisse;
-- b.[^123-1] ...
+- b.[^123-1] …
 - c. le contrat de prévoyance contient une clause d’exonération des primes en cas d’invalidité;
-- d. [^123-2] ...
+- d. [^123-2] …
 
 <sup>1bis</sup>
 
@@ -1782,7 +1800,7 @@ Si les personnes accompagnantes subissent des atteintes à leur patrimoine d’a
 
 ## Chapitre 10 Enfants
 
-### Section 1 Remboursement forfaitaire de frais généraux****
+### Section 1 Remboursement forfaitaire de frais généraux
 
 [^chap10-sec1-1]
 
@@ -1790,14 +1808,14 @@ Si les personnes accompagnantes subissent des atteintes à leur patrimoine d’a
 
 #### Art. 127
 
-<sup>1</sup> Un remboursement forfaitaire de frais se montant à 1677 francs par an et par enfant est accordé aux employés ayant des enfants, pour autant que ces derniers vivent en ménage commun avec eux.[^127-1]
+<sup>1</sup> Un remboursement forfaitaire de frais se montant à 1723 francs par an et par enfant est accordé aux employés ayant des enfants, pour autant que ces derniers vivent en ménage commun avec eux.[^127-1]
 
 <sup>2</sup> Un seul remboursement forfaitaire de frais généraux est versé par ménage.[^127-2]
 
-[^127-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 19 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4897](https://fedlex.data.admin.ch/eli/oc/2015/798)).
+[^127-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 [^127-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 24 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4959](https://fedlex.data.admin.ch/eli/oc/2008/696)).
 
-### Section 1*a***** Contributions pour l’accueil extrafamilial des enfants à l’étranger
+### Section 1*a* Contributions pour l’accueil extrafamilial des enfants à l’étranger
 
 [^chap10-sec1a-1]
 
@@ -1840,9 +1858,11 @@ Le département verse des contributions aux employés pour:[^128-1]
 
 ### (art. 82, al. 3, let. a, 114, al. 3, OPers)
 
-<sup>1</sup> Les contributions aux frais de formation sont allouées dès le début de la scolarité obligatoire, mais au plus tôt pour l’année pendant laquelle l’enfant atteint l’âge de quatre ans révolus.
+<sup>1</sup> Les contributions aux frais de formation sont allouées au plus tôt pour l’année pendant laquelle l’enfant atteint l’âge de quatre ans. Est réservée l’allocation de contributions pour les enfants plus jeunes lorsque l’école obligatoire commence plus tôt sur le lieu d’affectation à l’étranger.[^129-1]
 
 <sup>2</sup> Les contributions aux frais de formation sont allouées jusqu’à la maturité ou jusqu’à un diplôme de fin d’études correspondant, jusqu’à la fin de la première formation professionnelle, jusqu’à la fin du premier diplôme d’études supérieures ou jusqu’à la fin d’une formation professionnelle reposant sur un apprentissage, mais au plus tard jusqu’à l’atteinte par l’enfant de l’âge de 25 ans révolus.
+
+[^129-1]: Nouvelle teneur selon le ch. I de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
 
 #### Art. 130
 
@@ -2053,7 +2073,7 @@ Les employés affectés à l’étranger doivent demander une autorisation si eu
 [^149-2]: Nouvelle teneur selon le ch. I de l’O du DFAE du 3 mai 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^149-3]: Nouvelle teneur selon le ch. I de l’O du DFAE du 3 mai 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-### Section 2 Réexamen de l’élimination des divergences****
+### Section 2 Réexamen de l’élimination des divergences
 
 [^chap12-sec2-1]
 
@@ -2067,7 +2087,7 @@ Les employés affectés à l’étranger doivent demander une autorisation si eu
 
 #### Art. 151
 
-**...[^151-2]**[^151-1]
+**…[^151-2]**[^151-1]
 
 Le réexamen de l’élimination des divergences conformément à l’art. 6, al. 2, O‑OPers[^151-3] est effectué:
 
@@ -2078,7 +2098,7 @@ Le réexamen de l’élimination des divergences conformément à l’art. 6, al
 [^151-2]: Abrogé par le ch. I de l’O du DFAE du 3 mai 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 [^151-3]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
-### Section 3 ...
+### Section 3 …
 
 #### Art. 152 et 153
 
@@ -2098,7 +2118,7 @@ Le réexamen de l’élimination des divergences conformément à l’art. 6, al
 
 #### Art. 156
 
-**...[^156-2]**[^156-1]
+**…[^156-2]**[^156-1]
 
 La DR édicte des directives dans les domaines suivants:
 
@@ -2106,7 +2126,7 @@ La DR édicte des directives dans les domaines suivants:
 - b.[^156-3] procédure d’admission (art. 14 à 19);
 - c. indexation des lieux d’affectation (art. 23);
 - d. allocations spéciales pour les affectations en zones de crise (art. 36);
-- e.[^156-4] ...
+- e.[^156-4] …
 - f. durée hebdomadaire de travail (art. 47);
 - g. service de permanence (art. 44 et 49);
 - h.[^156-5] vacances et congé (art. 53 à 60);
@@ -2152,7 +2172,7 @@ Sont abrogés:
 
 <sup>2</sup> Les règlements suivants sont modifiés comme suit:
 
-...[^157-5]
+…[^157-5]
 
 [^157-1]: Non publié au RO.
 [^157-2]: Non publié au RO.
@@ -2276,15 +2296,15 @@ Les contributions aux frais de formation en Suisse qui ont déjà été accordé
 
 <sup>3</sup> L’art. 157, al. 2, let. a et b, entre en vigueur comme suit: l’art. 9 du règlement d’exécution III du 1<sup>er</sup> avril 1997 et l’art. 10.1., al. 3, du règlement d’exécution IV du 1<sup>er</sup> janvier 2002 entrent en vigueur le 1<sup>er</sup> janvier 2003.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 [^t-1]: Abrogée par le ch. II de l’O du DFAE du 14 juin 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1771](https://fedlex.data.admin.ch/eli/oc/2013/403)).
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 [^t-2]: Abrogée par le ch. II al. 2 de l’O du DFAE du 3 mai 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 1867](https://fedlex.data.admin.ch/eli/oc/2018/285)).
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 60)
 
@@ -2314,7 +2334,7 @@ Annexe 3*[^t-3]*
 <tr><td>7</td><td>Déménagement avec voiture</td><td>Voyage de transfert en voiture</td><td>1 à 3 jours</td><td>Pour les employés qui utilisent leur voiture pour le voyage de transfert.</td></tr>
 </table>
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 106 et 121)
 
@@ -2365,25 +2385,27 @@ Annexe 4*[^t-4]*
 <tr><td>6</td><td></td><td colspan="2">6 100</td><td></td><td></td><td>6 000</td></tr>
 </table>
 
-Annexe 5
+Annexe 5[^t-5]
 
 (art. 110)
 
 ## Adaptation au pouvoir d’achat
 
+[^t-5]: Nouvelle teneur selon le ch. II de l’O du DFAE du 13 déc. 2021, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2021 874](https://fedlex.data.admin.ch/eli/oc/2021/874)).
+
 **Indice comparatif**
 
-L’adaptation au pouvoir d’achat (APA) repose sur un relevé des prix ou le cas échéant sur un calcul de l’indice comparatif obtenu. Si celui-ci est inférieur ou supérieur à 100 points, l’APA s’applique comme suit:
+L’adaptation au pouvoir d’achat (APA) repose sur un relevé des prix ou le cas échéant sur un calcul de l’indice comparatif obtenu. L’APA s’applique comme suit:
 
 <table>
 <tr><td>Indice comparatif</td><td>APA déterminante</td></tr>
-<tr><td>de 75.1\* à 80,0</td><td>–20</td></tr>
-<tr><td>de 80.1 à 85,0</td><td>–15</td></tr>
-<tr><td>de 85.1 à 90,0</td><td>–10</td></tr>
-<tr><td>de 90.1 à 95,0</td><td>– 5</td></tr>
-<tr><td>de 95.1 à 102,4</td><td>0</td></tr>
-<tr><td>de 102,5 à 107,4</td><td>5</td></tr>
-<tr><td>de 107,5 à 112,4</td><td>10</td></tr>
-<tr><td>de 112,5 à 117,4\*</td><td>15</td></tr>
-<tr><td colspan="2">\* Le même modèle s’applique en cas d’indices inférieurs ou supérieurs. Il n’y aucune limite, ni vers le bas, ni vers le haut.</td></tr>
+<tr><td>75,1\* – 80,0</td><td>–20</td></tr>
+<tr><td>80,1 – 85,0</td><td>–15</td></tr>
+<tr><td>85,1 – 90,0</td><td>–10</td></tr>
+<tr><td>90,1 – 95,0</td><td>– 5</td></tr>
+<tr><td>95,1 – 102,4</td><td>0</td></tr>
+<tr><td>102,5 – 107,4</td><td>+ 5</td></tr>
+<tr><td>107,5 – 112,4</td><td>+10</td></tr>
+<tr><td>112,5 – 117,4\*</td><td>+15</td></tr>
+<tr><td colspan="2">\* Le même modèle s’applique en cas d’indices inférieurs ou supérieurs.</td></tr>
 </table>
