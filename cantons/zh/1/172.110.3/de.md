@@ -4,11 +4,11 @@ number: "172.110.3"
 title: Organisationsverordnung der Finanzdirektion (OV FD)
 short: OV FD
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2022-03-01
+version: "2022-03-01"
+nachtrag: "116"
+valid_until: 2025-04-01
 adopted: 2015-12-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_3-2015_12_08-2016_04_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_3-2015_12_08-2016_04_01-116.html"
 text: pdf
 ---
 
@@ -34,7 +34,7 @@ A. Gliederung
 
 **Gliederung**
 
-§ 1.[^h1TeilOrganisatio-1] Die Finanzdirektion (FD) besteht aus der Direktionsvorsteherin oder dem Direktionsvorsteher und den ihr oder ihm unmittelbar beigeordneten Mitarbeitenden sowie den folgenden Verwaltungseinheiten:
+§ 1. Die Finanzdirektion (FD) besteht aus der Direktionsvorsteherin oder dem Direktionsvorsteher, den ihr oder ihm direkt unterstellten Einzelpersonen und den folgenden Verwaltungseinheiten[^h1TeilOrganisatio-1]:
 
 - a. Generalsekretariat (GS),
 
@@ -56,13 +56,13 @@ B. Direktionsvorsteherin oder Direktionsvorsteher
 
 <sup>2</sup> Sie oder er a. stellt die Umsetzung der Legislaturziele des Regierungsrates in der Direktion sicher,
 
-**1**
-
-- 1\. 1. 18 - 99
-
 - b. legt die Legislaturziele und die ordentliche Aufgaben- und Finanzplanung der Direktion fest,
 
 - c. genehmigt Planungen und Anträge der Verwaltungseinheiten,
+
+**1**
+
+- 1\. 4. 22 - 116
 
 - d. weist den Verwaltungseinheiten Aufgaben und Kompetenzen zu,
 
@@ -72,53 +72,27 @@ B. Direktionsvorsteherin oder Direktionsvorsteher
 
 - g. führt die direkt Unterstellten und legt die Führungs- und Controllinginstrumente der Direktion fest.
 
-[^h1TeilOrganisatio-1]: Fassung gemäss Vfg. vom 18. August 2017 (OS 72, 448; ABl 2017-08-25). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^h1TeilOrganisatio-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
 
 #### § 3
 
 **Unterstellungen**
 
-Der Direktionsvorsteherin oder dem Direktionsvorsteher direkt unterstellt sind:
+Der Direktionsvorsteherin oder dem Direktionsvorsteher direkt unterstellt sind:[^h1TeilOrganisatio-1] a. die Direktionsassistentin oder der Direktionsassistent,
 
-- a. die ihr oder ihm unmittelbar beigeordneten Mitarbeitenden gemäss §§ 4–6,
+- b. die oder der Compliancebeauftragte,
 
-- b. die Leiterinnen und Leiter der Verwaltungseinheiten gemäss §§ 9 und 10 (Amtschefinnen und Amtschefs sowie Generalsekretärin oder Generalsekretär).
+- c. die Leiterinnen und Leiter der Verwaltungseinheiten gemäss §§ 9 und 10 (Amtschefinnen und Amtschefs sowie Generalsekretärin oder Generalsekretär).
 
-#### § 4
+**Direktionsassistentin oder Direktionsassistent**
 
-**Assistentin oder Assistent im Vorzimmer**
+§ 4.[^3-1] Die Direktionsassistentin oder der Direktionsassistent unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher in administrativen Belangen einschliesslich der Terminplanung.
 
-Die Assistentin oder der Assistent im Vorzimmer unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher in administrativen Belangen einschliesslich der Terminplanung.
-
-#### § 5
-
-**Kommunikationsbeauftragte oder Kommunikationsbeauftragter**
-
-<sup>1</sup> Die oder der Kommunikationsbeauftragte ist Ansprechstelle in der Direktion für Information und Kommunikation und gewährleistet die Information und Kommunikation innerhalb und ausserhalb der Direktion.
-
-<sup>2</sup> Sie oder er erfüllt zu diesem Zweck insbesondere die folgenden Aufgaben:
-
-- a. Erarbeitung und Umsetzung der Kommunikationsstrategie,
-
-- b. Beratung und Unterstützung der Direktionsvorsteherin oder des Direktionsvorstehers in allen medialen Angelegenheiten, einschliesslich Kommunikationsplanung,
-
-- c. Betreuung der Medien (Medienmitteilungen, Sprachregelungen, Medienkonferenzen und Mediengespräche, Erstellung eines Pressespiegels),
-
-- d. Verfassen, Koordinieren und Redigieren von Referaten, Grussworten, Artikeln sowie anderen Beiträgen, jeweils in Absprache mit den Verwaltungseinheiten,
-
-- e. direktionsinterne Kommunikation,
-
-- f. Gestaltung und Aktualisierung der Internet- und Intranetseite der Direktion,
-
-- g. Organisation von internen und externen Anlässen mit Kommunikationsbezug,
-
-- h. Einsitznahme in bzw. Leitung von direktionsübergreifenden und direktionsinternen Projekten und Arbeitsgruppen.
-
-#### § 6
+§ 5.[^3-2]
 
 **Compliancebeauftragte oder Compliancebeauftragter**
 
-<sup>1</sup> Die oder der Compliancebeauftragte unterstützt die Direktionen und die Staatskanzlei in ihren Bemühungen zur Compliance und koordiniert diese.
+§ 6. <sup>1</sup> Die oder der Compliancebeauftragte unterstützt die Direktionen und die Staatskanzlei in ihren Bemühungen zur Compliance und koordiniert diese.
 
 <sup>2</sup> Sie oder er erfüllt zu diesem Zweck insbesondere die folgenden Aufgaben:
 
@@ -129,6 +103,9 @@ Die Assistentin oder der Assistent im Vorzimmer unterstützt die Direktionsvorst
 - c. Durchführung interner Schulungen,
 
 - d. Beantwortung von Anfragen.
+
+[^3-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
+[^3-2]: Aufgehoben durch Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022. 1. 4. 22 - 116 13
 
 ### C. Verwaltungseinheiten
 
@@ -144,11 +121,9 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 - d. wirken bei Gesetzgebungsvorhaben und anderen Projekten mit oder leiten solche.
 
-#### § 8
-
 **b. Generalsekretariat im Besonderen**
 
-<sup>1</sup> Das Generalsekretariat erfüllt die Aufgaben einer Verwaltungseinheit gemäss § 7.
+§ 8.[^7-1] <sup>1</sup> Das Generalsekretariat erfüllt die Aufgaben einer Verwaltungseinheit gemäss § 7.
 
 <sup>2</sup> Es ist zudem allgemeine Stabsstelle und Dienstleistungszentrum der Direktion und a. unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher bei ihren oder seinen Aufgaben,
 
@@ -156,23 +131,23 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 - c. unterstützt und begleitet die Verwaltungseinheiten bei ihren Aufgaben und bringt dabei insbesondere die Sicht der Direktion ein,
 
-**3**
-
-- 1\. 1. 18 - 99
-
 - d. ist Ansprechstelle in der Direktion für Rechtsfragen (ausserhalb der Zuständigkeitsbereiche der anderen Verwaltungseinheiten), Direktionscontrolling (ohne Personalbelange) und Direktionslogistik sowie für grundsätzliche Fragen aus dem Zuständigkeitsbereich der Direktion,
 
 - e. vertritt die Direktion in den Koordinationsorganen der Direktionen gemäss §§ 68 ff. VOG RR sowie in Organen juristischer Personen, Kommissionen und Arbeitsgruppen, soweit die Vertretung nicht von der Direktionsvorsteherin oder vom Direktionsvorsteher wahrgenommen wird oder einer anderen Verwaltungseinheit übertragen wird,
 
-- f. erfüllt Aufgaben der Direktion, die keiner anderen Verwaltungseinheit zugewiesen sind.
+- f. ist Ansprechstelle in der Direktion für Information und Kommunikation und gewährleistet die Information und Kommunikation innerhalb und ausserhalb der Direktion,
 
-<sup>3</sup> Die Aufgabenbereiche Personal sowie Information und Kommunikation sind als Ausnahmen gemäss § 62 Abs. 2 VOG RR dem Personalamt beziehungsweise der oder dem Kommunikationsbeauftragten statt dem Generalsekretariat zugewiesen.
+- g. erfüllt Aufgaben der Direktion, die keiner anderen Verwaltungseinheit zugewiesen sind.
 
-#### § 9
+<sup>3</sup> Der Aufgabenbereich Personal ist als Ausnahme gemäss § 62 Abs. 2 VOG RR[^7-2] dem Personalamt statt dem Generalsekretariat zugewiesen.
+
+<sup>4</sup> Die Direktionsassistentin oder der Direktionsassistent und die oder der Compliancebeauftragte sind dem Generalsekretariat organisatorisch angegliedert.
+
+**3**
+
+- 1\. 4. 22 - 116 § 9. Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung für die Führung, Steuerung und Aufgabenerfüllung in ihrer oder seiner Verwaltungseinheit. Sie oder er erfüllt insbesondere die folgenden Aufgaben:
 
 **Leitung a. Verwaltungseinheiten im Allgemeinen**
-
-Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung für die Führung, Steuerung und Aufgabenerfüllung in ihrer oder seiner Verwaltungseinheit. Sie oder er erfüllt insbesondere die folgenden Aufgaben:
 
 - a. Umsetzung der Legislaturziele des Regierungsrates und der Direktion in der Verwaltungseinheit,
 
@@ -190,11 +165,9 @@ Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung fü
 
 - h. Repräsentationsaufgaben.
 
-#### § 10
-
 **b. Generalsekretariat im Besonderen**
 
-<sup>1</sup> Die Generalsekretärin oder der Generalsekretär erfüllt mit Bezug auf das Generalsekretariat die Aufgaben der Leiterin oder des Leiters einer Verwaltungseinheit gemäss § 9.
+§ 10.[^7-1] <sup>1</sup> Die Generalsekretärin oder der Generalsekretär erfüllt mit Bezug auf das Generalsekretariat die Aufgaben der Leiterin oder des Leiters einer Verwaltungseinheit gemäss § 9.
 
 <sup>2</sup> Darüber hinaus erfüllt sie oder er insbesondere die folgenden Aufgaben:
 
@@ -202,15 +175,16 @@ Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung fü
 
 - b. Geschäftszuteilung sowie Geschäfts- und Fristenkontrolle für die Direktionsgeschäfte,
 
-- c. Führung eines Multiprojektmanagements (MPM), das einen Überblick über die wichtigsten Projekte in der Direktion ermöglicht,
+- c. Regelung des Zugriffs auf die Datenbanken des Regierungsrates und der Direktion, soweit dieser nicht durch Regierungsratsbeschluss geregelt ist,
 
-- d. Regelung des Zugriffs auf die Datenbanken des Regierungsrates und der Direktion, soweit dieser nicht durch Regierungsratsbeschluss geregelt ist,
+- d. Regelung der organisatorischen Belange und Festlegung von Prozessen in der Direktion, in Absprache mit der Direktionsvorsteherin oder dem Direktionsvorsteher,
 
-- e. Regelung der organisatorischen Belange und Festlegung von Prozessen in der Direktion, in Absprache mit der Direktionsvorsteherin oder dem Direktionsvorsteher,
+- e. Koordination der Zusammenarbeit unter den Verwaltungseinheiten der Direktion sowie mit den anderen Direktionen und der Staatskanzlei.
 
-- f. Koordination der Zusammenarbeit unter den Verwaltungseinheiten der Direktion sowie mit den anderen Direktionen und der Staatskanzlei.
+<sup>3</sup> Die Generalsekretärin oder der Generalsekretär vertritt die Direktionsvorsteherin oder den Direktionsvorsteher innerhalb der Direktion und ist insoweit weisungsberechtigt gegenüber den anderen Verwaltungseinheiten und gegenüber den Mitarbeitenden, die dem Generalsekretariat organisatorisch angegliedert sind. Auf besondere Ermächtigung hin oder bei Dringlichkeit vertritt sie oder er die Direktionsvorsteherin oder den Direktionsvorsteher auch ausserhalb der Direktion und beim Beschluss über Ausgaben.
 
-<sup>3</sup> Die Generalsekretärin oder der Generalsekretär vertritt die Direktionsvorsteherin oder den Direktionsvorsteher innerhalb der Direktion und ist insoweit gegenüber den anderen Verwaltungseinheiten weisungsberechtigt. Auf besondere Ermächtigung hin oder bei Dringlichkeit vertritt sie oder er die Direktionsvorsteherin oder den Direktionsvorsteher auch ausserhalb der Direktion und beim Beschluss über Ausgaben.
+[^7-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
+[^7-2]: LS 172.11.
 
 #### § 11
 
@@ -232,17 +206,16 @@ Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung fü
 
 - g. die nach dem übergeordneten Recht, insbesondere nach der Gesetzgebung über die Information und den Datenschutz, erforderlichen Regelungen für die Verwaltungseinheit.
 
-**5**
+<sup>2</sup> Das Organisationsreglement des Generalsekretariats enthält auch entsprechende Regelungen für die Mitarbeitenden, die dem Generalsekretariat organisatorisch angegliedert sind.[^11-1]
 
-- 1\. 1. 18 - 99
+<sup>3</sup> Das Organisationsreglement des Steueramtes beschränkt sich auf diejenigen Regelungen, die nicht bereits in der Verordnung über die Organisation des kantonalen Steueramtes vom 17. Dezember 2008[^11-2] enthalten sind.
 
-<sup>2</sup> Das Organisationsreglement des Steueramtes beschränkt sich auf diejenigen Regelungen, die nicht bereits in der Verordnung über die Organisation des kantonalen Steueramtes vom 17. Dezember 2008[^11-1] enthalten sind.
+<sup>4</sup> Die Leiterin oder der Leiter der Verwaltungseinheit übermittelt das Organisationsreglement und seine Änderungen spätestens vier Wochen vor ihrem Inkrafttreten der Generalsekretärin oder dem Generalsekretär zuhanden der Direktionsvorsteherin oder des Direktionsvorstehers. Diese oder dieser kann jederzeit Änderungen verlangen.
 
-<sup>3</sup> Die Leiterin oder der Leiter der Verwaltungseinheit übermittelt das Organisationsreglement und seine Änderungen spätestens vier Wochen vor ihrem Inkrafttreten der Generalsekretärin oder dem Generalsekretär zuhanden der Direktionsvorsteherin oder des Direktionsvorstehers. Diese oder dieser kann jederzeit Änderungen verlangen.
+<sup>5</sup> Die Leiterin oder der Leiter macht das Organisationsreglement und seine Änderungen den Mitarbeitenden der Verwaltungseinheit in geeigneter Form bekannt.
 
-<sup>4</sup> Die Leiterin oder der Leiter macht das Organisationsreglement und seine Änderungen den Mitarbeitenden der Verwaltungseinheit in geeigneter Form bekannt.
-
-[^11-1]: LS 631.51.
+[^11-1]: Eingefügt durch Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
+[^11-2]: LS 631.51.
 
 ### 2. Teil: Kompetenzen
 
@@ -251,6 +224,10 @@ Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung fü
 **Entscheide a. als erste Instanz**
 
 <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher entscheidet erstinstanzlich namens der Direktion.
+
+**5**
+
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Sie oder er kann Verwaltungseinheiten und Mitarbeitende ermächtigen, in bestimmten Aufgabenbereichen namens der Direktion zu entscheiden.
 
@@ -298,12 +275,14 @@ Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung fü
 
 - c. den Abschluss von Verträgen, die zu Einnahmen führen.
 
-<sup>4</sup> Das Generalsekretariat entscheidet zudem über:
+<sup>4</sup> Das Generalsekretariat entscheidet zudem über:[^14-2] a. die Anerkennung von Staatshaftungsbegehren, für die keine Versicherung besteht, und den Abschluss von Vergleichen über solche bis Fr. 500 000 sowie die Ablehnung von Staatshaftungsbegehren,
 
-- a. die Annahme gesetzlicher Erbschaften gemäss § 49 Abs. 1 FCV sowie anderer Erbschaften und Zuwendungen gemäss § 49 Abs. 3 FCV bis zu einem Nettowert von Fr. 500 000, soweit die Finanzdirektion zuständig ist, b.[^14-2] die Anerkennung von (nicht versicherten) Staatshaftungsbegehren und den Abschluss von Vergleichen über solche bis Fr. 500 000 sowie die Ablehnung von Staatshaftungsbegehren.
+- b. die Annahme oder Ausschlagung von Erbschaften und die Beantragung eines öffentlichen Inventars oder einer amtlichen Liquidation sowie die Annahme oder Ablehnung von Zuwendungen Dritter, unabhängig vom Wert der Erbschaft oder Zuwendung,
+
+- c. die Übernahme oder Ablehnung der Übertragung von Aktiven aus eingestellten Konkursen.
 
 [^14-1]: LS 611.2.
-[^14-2]: Fassung gemäss Vfg. vom 30. September 2016 (OS 71, 470; ABl 2016-10-07). In Kraft seit 1. Januar 2017.
+[^14-2]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
 
 #### § 15
 
@@ -323,10 +302,6 @@ Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung fü
 
 - e. Rechnungen für Telefon (ohne Installationskosten und Gebührenablösungen) und Frankaturen,
 
-**7**
-
-- 1\. 1. 18 - 99
-
 - f. Gebühren und Spesen von Post und Banken,
 
 - g. Strom-, Wasser- und Heizmaterialrechnungen,
@@ -344,6 +319,10 @@ Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung fü
 <sup>1</sup> Entscheide und Ausgabenbewilligungen werden von derjenigen Person unterzeichnet, die für den Entscheid oder die Ausgabenbewilligung zuständig ist.
 
 <sup>2</sup> Im Übrigen ist die sachverantwortliche Person zur Unterzeichnung von Schriftstücken berechtigt, soweit diese Verordnung und das anwendbare Organisationsreglement nichts anderes vorsehen.
+
+**7**
+
+- 1\. 4. 22 - 116
 
 <sup>3</sup> Verträge, die zu Verpflichtungen des Kantons führen, werden mit Doppelunterschrift unterzeichnet, wobei die linienvorgesetzte Person links und die sachverantwortliche Person rechts unterzeichnet.
 
@@ -377,11 +356,13 @@ Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung fü
 
 - d. Geschäftsverwaltung.
 
+[^18-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
+
 #### § 19
 
 **Amtsrapporte**
 
-<sup>1</sup> Zur Wahrnehmung der Führungs- und Aufsichtsfunktion führt die Direktionsvorsteherin oder der Direktionsvorsteher regelmässig Rapporte mit den Leiterinnen und Leitern der einzelnen Verwaltungseinheiten durch. An den Rapporten nehmen auch die Generalsekretärin oder der Generalsekretär und bei Bedarf weitere Personen teil.
+<sup>1</sup> Zur Wahrnehmung der Führungs- und Aufsichtsfunktion führt die Direktionsvorsteherin oder der Direktionsvorsteher regelmässig Rapporte mit den Leiterinnen und Leitern der einzelnen Verwaltungseinheiten und der oder dem Compliancebeauftragten durch. An den Rapporten nehmen auch die Generalsekretärin oder der Generalsekretär und bei Bedarf weitere Personen teil.[^18-1]
 
 <sup>2</sup> In den Rapporten werden insbesondere die folgenden Inhalte thematisiert:
 
@@ -407,27 +388,23 @@ Für den persönlichen und vertraulichen Austausch führt die Direktionsvorstehe
 
 <sup>1</sup> Geschäfte werden zwischen der Direktionsvorsteherin oder dem Direktionsvorsteher und den Verwaltungseinheiten in beiden Richtungen über das Generalsekretariat übermittelt.
 
-<sup>2</sup> Die Übermittlung kann stattdessen direkt erfolgen:
-
-- a. bei besonderer Dringlichkeit,
-
-- b. bei Personalgeschäften.
-
-#### § 22
+<sup>2</sup> Bei besonderer Dringlichkeit kann die Übermittlung stattdessen direkt erfolgen.[^21-1]
 
 **Interne Stellungnahmen**
 
-<sup>1</sup> Anträge an den Regierungsrat sowie Anträge an die Direktionsvorsteherin oder den Direktionsvorsteher werden vorab den Verwaltungseinheiten, die in ihren Zuständigkeitsbereichen gemäss dem Anhang zu dieser Verordnung besonders betroffen sind, zur Stellungnahme unterbreitet.
+§ 22. <sup>1</sup> Anträge an den Regierungsrat sowie Anträge an die Direktionsvorsteherin oder den Direktionsvorsteher werden vorab den Verwaltungseinheiten, die in ihren Zuständigkeitsbereichen gemäss dem Anhang zu dieser Verordnung besonders betroffen sind, zur Stellungnahme unterbreitet.
 
 <sup>2</sup> Die Stellungnahmen werden dem Antrag beigelegt.
 
-**9**
+[^21-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
 
-- 1\. 1. 18 - 99 § 23. Die Verantwortlichen der Verwaltungseinheiten für die Querschnittaufgaben Finanzen und Controlling, Personal, Informatik und Kommunikation sorgen für die erforderliche Koordination unter den Verwaltungseinheiten und für die erforderliche Weiterleitung von Informationen in ihrer jeweiligen Verwaltungseinheit.
-
-#### § 24
+#### § 23
 
 **Koordination bei Querschnittaufgaben**
+
+Die Verantwortlichen der Verwaltungseinheiten für die Querschnittaufgaben Finanzen und Controlling, Personal, Informatik und Kommunikation sorgen für die erforderliche Koordination unter den Verwaltungseinheiten und für die erforderliche Weiterleitung von Informationen in ihrer jeweiligen Verwaltungseinheit.
+
+#### § 24
 
 **Information über Planungen und Projekte**
 
@@ -436,6 +413,10 @@ Für den persönlichen und vertraulichen Austausch führt die Direktionsvorstehe
 - a. grundlegende Planungen und Zielfestlegungen,
 
 - b. Projekte von besonderer politischer Bedeutung, mit erheblichen organisatorischen, personellen oder finanziellen Auswirkungen oder mit erheblichem Aufwand.
+
+**9**
+
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Über Projektschritte, Zielerreichungen und den Vollzug von Aufgaben wird die Direktionsvorsteherin oder der Direktionsvorsteher regelmässig informiert.
 
@@ -481,13 +462,11 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 
 <sup>1</sup> Die Verwaltungseinheiten äussern sich zu Geschäften und Vorkommnissen aus ihrem Zuständigkeitsbereich gemäss dem Anhang zu dieser Verordnung, soweit diese Verordnung nichts anderes vorsieht.
 
-<sup>2</sup> Die oder der Kommunikationsbeauftragte kann zur Sicherstellung einer kohärenten Kommunikation Weisungen erteilen.
-
-#### § 30
+<sup>2</sup> Die Generalsekretärin oder der Generalsekretär bezeichnet eine Kommunikationsbeauftragte oder einen Kommunikationsbeauftragten. Diese oder dieser kann zur Sicherstellung einer kohärenten Kommunikation Weisungen erteilen.[^29-1]
 
 **Geschäfte von besonderer Tragweite**
 
-<sup>1</sup> Zu Geschäften von besonderer Tragweite äussert sich ausschliesslich die Direktionsvorsteherin oder der Direktionsvorsteher oder die oder der Kommunikationsbeauftragte.
+§ 30. <sup>1</sup> Zu Geschäften von besonderer Tragweite äussert sich ausschliesslich die Direktionsvorsteherin oder der Direktionsvorsteher oder die oder der Kommunikationsbeauftragte.
 
 <sup>2</sup> Als Geschäfte von besonderer Tragweite gelten insbesondere:
 
@@ -497,11 +476,12 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 
 - c. Geschäfte, die nicht eingeschätzt werden können (insbesondere hinsichtlich ihrer politischen oder fachlichen Bedeutung),
 
-- d. Interviews und grössere Publikationen, e.[^30-1] Personalgeschäfte,
+- d. Interviews und grössere Publikationen, e.[^29-2] Personalgeschäfte,
 
 - f. Krisensituationen.
 
-[^30-1]: Eingefügt durch Vfg. vom 18. August 2017 (OS 72, 448; ABl 2017-08-25). In Kraft seit 1. Januar 2018.
+[^29-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
+[^29-2]: Eingefügt durch Vfg. vom 18. August 2017 (OS 72, 448; ABl 2017-08-25). In Kraft seit 1. Januar 2018.
 
 #### § 31
 
@@ -511,11 +491,11 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 
 <sup>2</sup> Die oder der Kommunikationsbeauftragte übernimmt die Beantwortung der Medienanfragen und die Öffentlichkeitsarbeiten in der Regel selber. Bei Geschäften ohne besondere Tragweite kann sie oder er dies im Einzelfall oder allgemein für bestimmte Fälle der zuständigen Verwaltungseinheit überlassen.
 
-**11**
-
-- 1\. 1. 18 - 99 § 32. <sup>1</sup> Medienmitteilungen und Medienkonferenzen werden von der oder dem Kommunikationsbeauftragten koordiniert.
+#### § 32
 
 **Medienmitteilungen und -konferenzen**
+
+<sup>1</sup> Medienmitteilungen und Medienkonferenzen werden von der oder dem Kommunikationsbeauftragten koordiniert.
 
 <sup>2</sup> Sie oder er holt dafür vorab das Einverständnis der Direktionsvorsteherin oder des Direktionsvorstehers ein und besorgt die Koordination mit der Kommunikationsabteilung des Regierungsrates.
 
@@ -525,17 +505,17 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 
 Die Kommunikation mit dem Kantonsrat, politischen Parteien, Interessenverbänden und dem Stiftungsrat der BVK Personalvorsorge des Kantons Zürich erfolgt über die Direktionsvorsteherin oder den Direktionsvorsteher oder in ihrem oder seinem Auftrag.
 
-[^33-1]: LS 170.4.
+**11**
 
-#### § 34
+- 1\. 4. 22 - 116 § 34. <sup>1</sup> Die Verwaltungseinheiten behandeln Gesuche um Informationszugang gemäss dem Gesetz über die Information und den Datenschutz (IDG) vom 12. Februar 2007[^33-1] in ihrem Zuständigkeitsbereich gemäss dem Anhang zu dieser Verordnung.
 
 **Gesuche um Informationszugang**
-
-<sup>1</sup> Die Verwaltungseinheiten behandeln Gesuche um Informationszugang gemäss dem Gesetz über die Information und den Datenschutz (IDG) vom 12. Februar 2007[^33-1] in ihrem Zuständigkeitsbereich gemäss dem Anhang zu dieser Verordnung.
 
 <sup>2</sup> Betrifft ein Gesuch Belange der gesamten Direktion oder die Zuständigkeitsbereiche mehrerer Verwaltungseinheiten, wird es vom Generalsekretariat behandelt.
 
 <sup>3</sup> Die Verwaltungseinheiten informieren das Generalsekretariat jährlich über die von ihnen behandelten Gesuche.
+
+[^33-1]: LS 170.4.
 
 ### 5. Teil: Schlussbestimmungen
 
@@ -585,9 +565,7 @@ Bereich
 
 - 5\. Versicherungswesen und Staatshaftung 6.[^hZuständigkeitsbereic_2-2] Erbschaften und Zuwendungen Dritter 7.[^hZuständigkeitsbereic_2-3] Salzregal
 
-- 8\. Aufsicht über den Gebührenbezug der Notariate
-
-- 9\. Lotteriefonds
+- 8\. Aufsicht über den Gebührenbezug der Notariate 9.[^hZuständigkeitsbereic_2-4] Gemeinnütziger Fonds
 
 - 10\. Zentrales Personalwesen
 
@@ -601,24 +579,25 @@ Bereich
 
 - Rechnungswesen
 
-**Kommunikations-**
-
-**Generalsekretariat**
+**Generalsekretariat Generalsekretariat Generalsekretariat Compliance-**
 
 - Informatik Bereich
 
 **Zuständigkeit**
 
-[^hZuständigkeitsbereic_2-1]: Fassung gemäss Vfg. vom 18. August 2017 (OS 72, 448; ABl 2017-08-25). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^hZuständigkeitsbereic_2-1]: Fassung gemäss Vfg. vom 18. August 2017 (OS 72, 448; ABl 2017-08-25). In Kraft seit 1. Januar 2018.
 [^hZuständigkeitsbereic_2-2]: Eingefügt durch Vfg. vom 30. September 2016 (OS 71, 470; ABl 2016-10-07). In Kraft seit 1. Januar 2017.
 [^hZuständigkeitsbereic_2-3]: Fassung gemäss Vfg. vom 30. September 2016 (OS 71, 470; ABl 2016-10-07). In Kraft seit 1. Januar 2017.
+[^hZuständigkeitsbereic_2-4]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
 
 ### Weitere Zuständigkeitsbereiche der Direktion
 
-[^hZuständigkeitsbereic_2-3]
+[^hZuständigkeitsbereic_2-4]
 
-Sicherstellung von Staatsbeiträgen und Erlass von Darlehen Generalsekretariat Inseratewesen beauftragte/r Rekurse und Aufsichtsbeschwerden (oder andere Verwaltungseinheit gemäss besonderer Regelung der Direktionsvorsteherin oder des Direktionsvorstehers)
+**Generalsekretariat**
+
+Rekurse und Aufsichtsbeschwerden (oder andere Verwaltungseinheit gemäss besonderer Regelung der Direktionsvorsteherin oder des Direktionsvorstehers) Übernahme von Aktiven aus eingestellten Konkursen Erlass von Darlehen und Löschung von Pfandrechten Kommunikation Compliance beauftragte/r
 
 **15**
 
-- 1\. 1. 18 - 99
+- 1\. 4. 22 - 116
