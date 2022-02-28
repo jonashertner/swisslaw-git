@@ -4,13 +4,13 @@ number: "211.58"
 title: Kantonale Verordnung über Geoinformation
 short: KGeoIV
 language: de
-version: 2021-11-01
-valid_until: 2022-02-28
-version_adopted: 2021-10-26
+version: 2022-03-01
+valid_until: 2023-07-07
+version_adopted: 2022-01-25
 adopted: 2008-06-17
 in_force: 2008-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.58"
-pdf: "https://bl.clex.ch/api/de/versions/3255/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3256/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3255/pdf_file"
 
 (KGeoIV)
 
-Vom 17.06.2008 (Stand 01.11.2021)
+Vom 17.06.2008 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
