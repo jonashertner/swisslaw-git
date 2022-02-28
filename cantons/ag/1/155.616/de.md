@@ -4,13 +4,12 @@ number: "155.616"
 title: Reglement der Justizleitung über die Information der Öffentlichkeit und die Publikation von Entscheiden
 short: Informationsreglement
 language: de
-version: 2017-07-01
-valid_until: 2022-02-28
-version_adopted: 2017-04-28
+version: 2022-03-01
+version_adopted: 2021-12-13
 adopted: 2016-02-19
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/155.616"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2417/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2417/pdf_file"
 
 (Informationsreglement)
 
-Vom 19.02.2016 (Stand 01.07.2017)
+Vom 19.02.2016 (Stand 01.03.2022)
 
 Die Justizleitung des Kanton Aargau,
 
@@ -81,7 +80,7 @@ beschliesst:
 
 **Publikation von Entscheiden**
 
-<sup>1</sup> Wegleitende Entscheide werden in der Sammlung der Aargauischen Gerichts- und Verwaltungsentscheide (AGVE) veröffentlicht.
+<sup>1</sup> Wegleitende sowie weitere Entscheide werden in der Sammlung der Aargauischen Gerichts- und Verwaltungsentscheide (AGVE) veröffentlicht.
 
 #### § 7
 
@@ -153,7 +152,7 @@ beschliesst:
 
 **Bild- und Tonaufnahmen**
 
-<sup>1</sup> Bild- und Tonaufnahmen von Gerichtsverhandlungen sowie im Gerichtsgebäude und bei dessen Zugängen sind ohne Bewilligung des Gerichts untersagt (§ 8 Abs. 3 GOG).
+<sup>1</sup> Bild- und Tonaufnahmen von Gerichtsverhandlungen sowie im Gerichtsgebäude sind ohne Bewilligung des Gerichts untersagt (§ 8 Abs. 3 GOG).
 
 <sup>2</sup> In Strafverfahren gilt Art. 71 der Schweizerischen Strafprozessordnung (StPO) vom 5. Oktober 2007[^13-1].
 
