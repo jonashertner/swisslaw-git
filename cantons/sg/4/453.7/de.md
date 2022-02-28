@@ -3,26 +3,25 @@ canton: SG
 number: "453.7"
 title: Verordnung über die Gebühren zur Bundesgesetzgebung über die Ausländerinnen und Ausländer
 language: de
-version: 2011-08-16
-valid_until: 2022-02-28
-version_adopted: 2011-08-16
+version: 2022-03-01
+version_adopted: 2022-02-22
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/453.7"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/825/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3330/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren zur Bundesgesetzgebung über die Ausländerinnen und Ausländer
 
-vom 18.12.2007 (Stand 16.08.2011)
+vom 18.12.2007 (Stand 01.03.2022)
 
 Die Regierung des Kantons St.Gallen
 
 erlässt
 
-in Ausführung von Art. 123 des Bundesgesetzes über die Ausländerinnen und Ausländer vom 16. Dezember 2005[^ingress-1] und der eidgenössischen Verordnung über die Gebühren zum Bundesgesetz über die Ausländerinnen und Ausländer vom 24. Oktober 2007[^ingress-2],
+in Ausführung von Art. 123 des Bundesgesetzes über die Ausländerinnen und Ausländer und über die Integration vom 16. Dezember 2005[^ingress-1] und der eidgenössischen Verordnung über die Gebühren zum Ausländer- und Integrationsgesetz vom 24. Oktober 2007[^ingress-2],
 
 in Anwendung von Art. 100 des Gesetzes über die Verwaltungsrechtspflege vom 16. Mai 1965[^ingress-3],
 
@@ -55,7 +54,7 @@ als Verordnung:[^ingress-4]
 
 <sup>2</sup> Für weitere nicht in Abs. 1 dieser Bestimmung aufgeführte Verfügungen und Dienstleistungen sowie für ablehnende Verfügungen werden Gebühren nach dem Gebührentarif für die Kantons- und Gemeindeverwaltung vom 2. Mai 2000[^1-2] erhoben.
 
-[^1-1]: Art. 8 der eidgV über die Gebühren zum Bundesgesetz über die Ausländerinnen und Ausländer vom 24. Oktober 2007, SR [142.209](https://db.clex.ch/link/Bund/142.209/de).
+[^1-1]: Art. 8 der eidgV über die Gebühren zum Ausländer- und Integrationsgesetz vom 24. Oktober 2007, SR [142.209](https://db.clex.ch/link/Bund/142.209/de).
 [^1-2]: sGS [821.5](https://www.gesetzessammlung.sg.ch/data/821.5/de).
 
 #### Art. 2
@@ -70,7 +69,7 @@ als Verordnung:[^ingress-4]
 
 <sup>1</sup> Die politische Gemeinde, in der sich die Ausländerin oder der Ausländer aufhält oder niederlässt, erhält:
 
-- a) einen Viertel der Gebühr für die Aufenthaltsbewilligung oder deren Verlängerung sowie für die Eintragung einer An- oder Abmeldung, Zivilstands- oder Adressänderung;
+- a) einen Viertel der Gebühr für die Neuerteilung der Aufenthalts- oder der Niederlassungsbewilligung sowie für die Eintragung einer An- oder Abmeldung, Zivilstands- oder Adressänderung;
 - b) die Hälfte der Gebühr für die Bearbeitung einer Verpflichtungserklärung.
 
 #### Art. 4
