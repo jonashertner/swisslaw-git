@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordonnance du DFI du 4 septembre 2013 sur le contrôle de la circulation des espèces de faune et de flore protégées (Ordonnance sur les contrôles CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: fr
-version: 2021-06-01
+version: 2022-03-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20210601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20210601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20220301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20220301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20210601/fr"
 
 (Ordonnance sur les contrôles CITES)
 
-du 4 septembre 2013 (Etat le 1<sup>er</sup> juin 2021)
+du 4 septembre 2013 (Etat le 1<sup>er</sup> mars 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
-vu les art. 2, 9, al. 2, 10, al. 3, 11, al. 2 et 3, et 26, al. 1, let. b, et 5, de la loi fédérale du 16 mars 2012 sur la circulation des espèces de faune et de flore protégées (LCITES)[^ingress-1], vu les art. 5, al. 1, 8, al. 3, 12, al. 1, 22, al. 6, 27, 30, al. 1, et 50, al. 3, de l’ordonnance du 4 septembre 2013 sur la circulation des espèces de faune et de flore protégées (OCITES)[^ingress-2],
+vu les art. 2, 9, al. 2, 10, al. 3, 11, al. 2 et 3, et 26, al. 1, let. b, et 5, de la loi fédérale du 16 mars 2012 sur la circulation des espèces de faune et de flore protégées (LCITES)[^ingress-1], vu les art. 5, al. 1, 12, al. 1, 22*a*, al. 3, 27, 30, al. 1, et 50, al. 3, de l’ordonnance du 4 septembre 2013 sur la circulation des espèces de faune et de flore protégées (OCITES)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
 [^ingress-2]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
 ## Section 1 Listes
 
@@ -39,13 +40,9 @@ Les spécimens à déclarer sont inscrits à l’annexe 1.
 
 #### Art. 2
 
-**Liste des espèces animales protégées inscrites à l’annexe I CITES dont la survie dépend essentiellement de leur élevage en captivité**
+[^2-1]
 
-### (art. 8, al. 3, OCITES)
-
-Les animaux inscrits à l’annexe I de la Convention du 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d’extinction (CITES)[^2-1] dont la survie dépend essentiellement de leur élevage en captivité sont énumérés à l’annexe 2.
-
-[^2-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^2-1]: Abrogé par le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, avec effet au 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
 ## Section 2 Obligations et interdictions
 
@@ -55,7 +52,12 @@ Les animaux inscrits à l’annexe I de la Convention du 3 mars 1973 sur le comm
 
 ### (art. 9, al. 2, LCITES)
 
-L’importation d’animaux, de plantes, de parties et de produits inscrits à l’annexe 3 en provenance des pays cités dans ladite annexe est interdite.
+<sup>1</sup> L’importation d’animaux, de plantes, de parties et de produits inscrits à l’annexe 3 en provenance des pays cités dans ladite annexe est interdite.
+
+<sup>2</sup> L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) actualise l’annexe 3 conformément aux recommandations des organes de la Convention du 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d’extinction (CITES)[^3-1] où la Suisse est représentée.[^3-2]
+
+[^3-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^3-2]: Introduit par le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
 #### Art. 4
 
@@ -83,9 +85,9 @@ L’importation d’animaux, de plantes, de parties et de produits inscrits à l
 
 <sup>2</sup> Les dispositions du droit sur les denrées alimentaires demeurent réservées.
 
-<sup>3</sup> Quiconque fait le commerce de caviar à titre professionnel doit être enregistré à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^5-1].
+<sup>3</sup> Quiconque produit ou reconditionne du caviar à titre professionnel doit être enregistré auprès de l’OSAV.[^5-1]
 
-[^5-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
 #### Art. 6
 
@@ -93,11 +95,17 @@ L’importation d’animaux, de plantes, de parties et de produits inscrits à l
 
 ### (art. 11, al. 1 et 2, LCITES)
 
-<sup>1</sup> Le registre des spécimens doit contenir toutes les informations permettant de prouver que les spécimens dont il est fait commerce ont été importés ou acquis conformément aux dispositions de la LCITES et de l’OCITES.
+<sup>1</sup>
 
-Il n’est pas nécessaire de tenir un registre s’il s’agit de spécimens de plantes vivantes reproduits artificiellement.[^6-1]
+Le registre des spécimens doit contenir toutes les informations permettant de fournir les preuves suivantes:
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)).
+- a. les spécimens mis sur le marché ont été importés ou acquis conformément aux dispositions de la LCITES et de l’OCITES;
+- b. les animaux élevés sont issus de spécimens d’élevage importés ou acquis conformément aux dispositions de la LCITES et de l’OCITES.[^6-1]
+
+<sup>2</sup> Il n’est pas nécessaire de tenir un registre s’il s’agit de spécimens de plantes vivantes reproduits artificiellement.[^6-2]
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)).
 
 #### Art. 7
 
@@ -117,14 +125,15 @@ En outre, il y a lieu d’effectuer un contrôle d’identité et un contrôle p
 
 <sup>3</sup>
 
-L’OSAV et, en accord avec l’OSAV, les autres organes de contrôle peuvent effectuer un contrôle d’identité et un contrôle physique par sondage et en fonction des risques:
+L’OSAV[^7-1] et, en accord avec l’OSAV, les autres organes de contrôle peuvent effectuer un contrôle d’identité et un contrôle physique par sondage et en fonction des risques:
 
 - a. si un contrôle systématique est trop onéreux ou inapproprié, et
-- b. s’il s’agit d’espèces inscrites aux annexes II et III CITES[^7-1] qui ne sont pas fortement menacées et si la probabilité qu’elles circulent illégalement est faible.
+- b. s’il s’agit d’espèces inscrites aux annexes II et III CITES[^7-2] qui ne sont pas fortement menacées et si la probabilité qu’elles circulent illégalement est faible.
 
 <sup>4</sup> Les spécimens auxquels s’appliquent les exceptions visées aux art. 22, al. 1, et 23, al. 1, OCITES sont exemptés des contrôles prévus aux al. 1 et 2.
 
-[^7-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^7-1]: La désignation de l’unité administrative a été adaptée au 1er janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le text.
+[^7-2]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
 ## Section 3 Autorisations de longue durée
 
@@ -138,16 +147,20 @@ Les catégories de spécimens pour l’importation desquelles il est délivré d
 
 #### Art. 9
 
-**Quantités maximales admises**[^9-1]
+**Souvenirs et leurs quantités maximales**[^9-1]
 
-### (art. 22 OCITES)
+### (art. 22*a*, al. 3, OCITES)
 
-Les exceptions prévues à l’art. 22, al. 1, OCITES sont applicables aux produits ci‑dessous jusqu’à la quantité maximale suivante par jour et par personne:
+<sup>1</sup> Par souvenirs, on entend les spécimens mentionnés à l’al. 2.
 
-- a. caviar d’esturgeon (Acipenseriformes): 125 g, ces quantités maximales ne pouvant pas être additionnées pour plusieurs personnes;
-- b. produits issus d’espèces de crocodiles inscrites à l’annexe II CITES[^9-2]: 4 spécimens;
+<sup>2</sup>
+
+Les exceptions prévues à l’art. 22*a* OCITES sont applicables jusqu’à la quantité maximale suivante par jour et par personne:
+
+- a. caviar d’esturgeon (Acipenseriformes): 125 g;
+- b. produits issus d’espèces de crocodiles inscrites à l’annexe II CITES[^9-2]: 2 spécimens;
 - c. coquilles du strombe géant (Queen conch, *Strombus* *gigas*): 3 spécimens;
-- d. coquilles ou demi-coquilles de tridacnidés (Tridacnidae spp.): 3 kg, ces quantités maximales admises ne pouvant pas être additionnées pour plusieurs personnes;
+- d. coquilles ou demi-coquilles de tridacnidés (*Tridacnidae* spp.): 3 kg;
 - e. hippocampes (*Hippocampus* spp.): 4 spécimens;
 - f. bâtons de pluie (*Trichocereus* = *Echinopsis* spp., *Eulychnia* spp.): 3 spécimens;
 - g.
@@ -157,11 +170,11 @@ Les exceptions prévues à l’art. 22, al. 1, OCITES sont applicables aux produ
   - 1\. 1 kg de plaquettes ou de copeaux de bois,
   - 2\. 24 ml d’huile,
   - 3\. deux jeux de perles ou grains de chapelet, ou
-  - 4\. deux colliers ou bracelets;
+  - 4\. deux colliers ou bracelets.
 
-- h. Bubinga (*Guibourtia demeusei, G. pellegriniana, G. tessmannii*) ou palissandre (*Dalbergia* spp.) d’espèces qui ne sont pas visées à l’art. 22, al. 4, OCITES: 10 kg.
+<sup>3</sup> Les quantités maximales visées à l’al. 2, let. a, d et g, ch. 1 et 2, ne peuvent être additionnées pour plusieurs personnes par produit.
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 [^9-2]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
 #### Art. 10
@@ -174,11 +187,12 @@ L’autorisation visée à l’art. 7, al. 1, let. a, LCITES n’est pas requise
 
 - a. de marchandises fabriquées à partir de peaux d’animaux d’espèces inscrites aux annexes II et III CITES[^10-1];
 - b. de produits qui contiennent des extraits de caviar;
-- c. de sang et d’échantillons de tissus de singes inscrits à l’annexe II CITES utilisés à des fins médicales;
+- c.[^10-2] de sang et d’échantillons de tissus de singes inscrits à l’annexe II CITES destinés à l’industrie pharmaceutique;
 - d. de spécimens vivants de plantes reproduites artificiellement d’espèces inscrites aux annexes I à III CITES;
 - e. de produits contenant des composants de plantes reproduites artificiellement d’espèces inscrites aux annexes I à III CITES et qui sont déjà emballés pour la vente au détail.
 
 [^10-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
 ## Section 5 Système d’information
 
@@ -224,7 +238,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des spécimens à déclarer
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 5 nov. 2019, en vigueur depuis le 29 août 2020 ([RO 2019 3541](https://fedlex.data.admin.ch/eli/oc/2019/653)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 5 nov. 2019 ([RO 2019 3541](https://fedlex.data.admin.ch/eli/oc/2019/653)). Mise à jour par le ch. II al. 1 de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
 ### 1 Animaux ainsi que parties et produits d’animaux
 
@@ -253,7 +267,7 @@ Annexe 1*[^t-1]*
 <tr><td>[tab] ex 0307.9100</td><td>Nautilidae</td></tr>
 <tr><td>[tab] ex 0308.1100</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *whitmaei*)</td></tr>
 <tr><td>ex 0308.9000</td><td>coraux bleus, coraux rouges (*Corallium elatius, C. japonicum, C. konjoi, C. secundum*), coraux noirs, coraux durs et autres espèces de coraux (entre autres *Scleractinia, Antipatharia, Tubiporidae, Milleporidae, Stylasteridae*)</td></tr>
-<tr><td>ex 9508.1000; 9508.9000</td><td>animaux sauvages vivants de cirques et de ménageries; animaux inscrits aux annexes CITES</td></tr>
+<tr><td>ex 9508.1000</td><td>animaux sauvages vivants de cirques et de ménageries; animaux inscrits aux annexes CITES</td></tr>
 <tr><td colspan="2">1.2 Denrées alimentaires d’origine animale</td></tr>
 <tr><td>0208.3000; 0210.9100</td><td>viande de primates</td></tr>
 <tr><td>0208.4000; 0210.9200</td><td>chair de: baleines, dauphins et marsouins (mammifères de l’ordre des Cetacea); lamantins et dugongs (mammifères de l’ordre des siréniens); otaries, phoques, lions de mer et morses (mammifères du sous-ordre des Pinnipedia)</td></tr>
@@ -275,78 +289,77 @@ Annexe 1*[^t-1]*
 <tr><td>ex 0305.7200; 0305.7900</td><td>têtes, queues, vessies natatoires et autres abats de poissons comestibles de: toutes les espèces d’esturgeons (Acipenseriformes), anguille d’Europe (*Anguilla anguilla*), païche (*Arapaima gigas),* requin-marteau halicorne (*Sphyrna lewini*), requins-renards (*Alopias* spp.), requin-marteau lisse (*Sphyrna zygaena*), grand requin-marteau (*Sphyrna mokarran*), requin-taupe commun (*Lamna nasus*), requin-taupe bleu (*Isurus oxyrinchus*) et petit requin-taupe (*Isurus paucus*)*,* requin pèlerin (*Cetorhinus maximus*), requin soyeux (*Carcharhinus falciformis*), requin baleine (*Rhinocodon typus*), grand requin blanc (*Carcharodon carcharias*) et requin longimane (*Carcharhinus longimanus*), raies manta (*Manta* spp.), raies (Rhinidae), guitares de mer (*Glaucostegus* spp.), raies mobula (*Mobula* spp.), poisson Napoléon (*Cheilinus undulatus*), demoiselle de Clarion (*Holacanthus clarionensis*) et poissons-scies (Pristidae)</td></tr>
 <tr><td>ex 0307.7100; 0307.7200; 0307.7900</td><td>tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200; 0307.8400; 0307.8800</td><td>strombes géants (Queen conch, *Strombus gigas*)</td></tr>
-<tr><td>[tab] ex 0307.9100; 0307.9200; 0307.9900</td><td>Nautilidae</td></tr>
-<tr><td>[tab] ex 0308.1100; 0308.1200; 0308.1900</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *whitmaei*)</td></tr>
+<tr><td>ex 0307.9100; 0307.9200; 0307.9900; 0309.9000</td><td>Nautilidae</td></tr>
+<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *whitmaei*)</td></tr>
 <tr><td>ex 0407.1990; 0407.2990; 0407.9090</td><td>œufs d’oiseaux sauvages</td></tr>
-<tr><td>ex 1602.9089</td><td>préparations et conserves de crocodiles (*Crocodylia* spp.)</td></tr>
+<tr><td>ex 1602.9088</td><td>préparations et conserves de crocodiles (*Crocodylia* spp.)</td></tr>
 <tr><td>ex 1604.1700</td><td>préparations et conserves d’anguille européenne (*Anguilla anguilla*)</td></tr>
 <tr><td>ex 1604.1800</td><td>préparations et conserves d’ailerons de: requin-marteau halicorne (*Sphyrna lewini*), requins-renards (*Alopias* spp.), requin-marteau lisse (*Sphyrna zygaena*), grand requin-marteau (*Sphyrna mokarran*), requin-taupe commun (*Lamna nasus* requin-taupe bleu (*Isurus oxyrinchus*) et petit requin-taupe (*Isurus paucus*)*,* requin pèlerin (*Cetorhinus maximus*), requin soyeux (*Carcharhinus falciformis*), requin baleine (*Rhinocodon typus*), grand requin blanc (*Carcharodon carcharias*) et requin longimane (*Carcharhinus longimanus*)</td></tr>
 <tr><td>ex 1604.3100</td><td>préparations et conserves de caviar de toutes les espèces d’esturgeons (Acipenseriformes)</td></tr>
 <tr><td>ex 1605.5600</td><td>préparations et conserves de tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 1605.5900</td><td>préparations et conserves de strombes géants (Queen conch, *Strombus gigas*), Nautilidae</td></tr>
+<tr><td>ex 1605.6100</td><td>préparations et conserves de holothuries à mamelles</td></tr>
 <tr><td>ex 2104.1000</td><td>soupe d’ailerons de: requin-marteau halicorne (*Sphyrna lewini*), requins-renards (*Alopias* spp.), requin-marteau lisse (*Sphyrna zygaena*), grand requin-marteau (*Sphyrna mokarran*), requin-taupe commun (*Lamna nasus*), requin-taupe bleu (*Isurus oxyrinchus*) et petit requin-taupe (*Isurus paucus*)*,* requin pèlerin (*Cetorhinus maximus*), requin soyeux (*Carcharhinus falciformis*), requin baleine (*Rhinocodon typus*), grand requin blanc (*Carcharodon carcharias*) et requin longimane (*Carcharhinus longimanus*)</td></tr>
-<tr><td>ex 3304.3000; 3304.9900</td><td>produits contenant de l’extrait de caviar de toutes les espèces d’esturgeons (Acipenseriformes)</td></tr>
 <tr><td colspan="2">1.3 Autres produits d’origine animale</td></tr>
 <tr><td>ex 0505.9090</td><td>peaux et autres parties d’oiseaux, brutes, à l’exclusion de celles de volailles domestiques et d’autruches africaines d’élevage</td></tr>
-<tr><td>ex 0507.1000</td><td>ivoire, brut ou simplement préparé, y compris les poudres et les déchets</td></tr>
+<tr><td>ex 0507.1000</td><td>ivoire d’espèces protégées, brut ou simplement préparé, y compris les poudres et les déchets</td></tr>
 <tr><td>ex 0507.9000</td><td>écaille de tortue, brute ou simplement préparée, y compris les déchets d’écailles; cornes, bois et becs d’espèces protégées</td></tr>
 <tr><td>ex 0508.0099</td><td>coraux bleus, coraux noirs, coraux durs, coraux rouges (*Corallium elatius, C. japonicum, C. konjoi, C. secundum*) et diverses autres espèces de coraux; Nautilidae</td></tr>
-<tr><td>ex 0510.0000</td><td>ambre gris, civette, musc, fiel d’ours, glande à venin des serpents à lunettes (*Naja naja*)</td></tr>
+<tr><td>ex 0510.0000</td><td>civette, musc, fiel d’ours, glande à venin des serpents à lunettes (*Naja naja*)</td></tr>
 <tr><td>ex 0511.9980</td><td>sangsues mortes, sperme d’animaux protégés (p. ex. sperme d’éléphant, sperme de rhinocéros)</td></tr>
 <tr><td>ex 1504.3010–3099</td><td>graisses et huiles de baleine</td></tr>
 <tr><td>ex 1521.9010–9020</td><td>blanc de baleine (Spermaceti)</td></tr>
-<tr><td>ex 3001.2000</td><td>échantillons de tissus d’espèces CITES</td></tr>
-<tr><td>ex 3001.9000</td><td>venin de serpents d’espèces CITES (p. ex. de serpents à lunettes [*Naja naja*])</td></tr>
+<tr><td>ex 3001.9000</td><td>venin de serpents (p. ex. de serpents à lunettes [*Naja naja*]) et échantillons de tissus d’espèces CITES</td></tr>
 <tr><td>ex 3002.1200; 3002.9000</td><td>sang et fractions de sang d’espèces CITES</td></tr>
 <tr><td>ex 3304.3000; 3304.9900</td><td>produits contenant de l’extrait de caviar de toutes les espèces d’esturgeons (Acipenseriformes)</td></tr>
-<tr><td>ex 4101; 4104</td><td>peaux brutes et cuirs de bovins sauvages (Bovinae) et de chevaux sauvages (Equidae)</td></tr>
-<tr><td>ex 4103.2000; 4106.4000; 4113.3000</td><td>cuir et peaux de reptiles</td></tr>
+<tr><td>ex 4101; 4104; 4107</td><td>peaux brutes et cuirs de bovins sauvages (Bovinae) et de chevaux sauvages (Equidae)</td></tr>
+<tr><td>ex 4103.2000; 4106.4000; 4113.3000</td><td>cuirs et peaux de reptiles d’espèces CITES</td></tr>
 <tr><td>ex 4103.3000; 4106.3100–3200; 4113.2000</td><td>cuir et peaux de pécari</td></tr>
 <tr><td>ex 4103.9000</td><td>cuir et peaux d’autres animaux sauvages, à l’exclusion de ceux de chevreuils, de cerfs, d’élans et de rennes</td></tr>
-<tr><td>ex 4106.9100–9200</td><td>cuir d’éléphant, d’oiseaux ou d’amphibiens</td></tr>
-<tr><td>ex 4113.9000</td><td>cuir d’éléphant, d’oiseaux ou d’amphibiens</td></tr>
-<tr><td>ex 4114.2000</td><td>cuir d’éléphant, de pécari, d’oiseaux, de reptiles ou d’amphibiens</td></tr>
-<tr><td>ex 4202.1100; 4202.2100; 4202.3100; 4202.9100</td><td>maroquinerie en cuir d’éléphant, de pécari, d’oiseaux, de reptiles ou d’amphibiens</td></tr>
-<tr><td>ex 4203.1000; 4203.2900; 4203.3000; 4203.4000</td><td>vêtements et accessoires en cuir d’éléphant, de pécari, d’oiseaux, de reptiles ou d’amphibiens</td></tr>
+<tr><td>ex 4106.9100–9200; 4113.9000</td><td>cuir d’éléphants, d’oiseaux ou d’amphibiens d’espèces CITES</td></tr>
+<tr><td>ex 4114.2000</td><td>cuirs d’éléphants, de pécaris, d’oiseaux, de reptiles ou d’amphibiens d’espèces CITES</td></tr>
+<tr><td>ex 4202.1100; 4202.2100; 4202.3100; 4202.9100</td><td>maroquinerie en cuirs d’éléphants, de pécaris, d’oiseaux, de reptiles ou d’amphibiens d’espèces CITES</td></tr>
+<tr><td>ex 4203.1000; 4203.2900; 4203.3000; 4203.4000</td><td>vêtements et accessoires en cuirs d’éléphants, de pécaris, d’oiseaux, de reptiles ou d’amphibiens d’espèces CITES</td></tr>
 <tr><td>ex 4301.6000–9000</td><td>pelleteries brutes, à l’exclusion des pelleteries d’agneaux, de chèvres et de chevreaux , de lapins, de visons, de ratons laveurs, de chiens viverrins, de myopotames (ragondins), de rats musqués, de castors, de renards communs et de renards d’élevage (p. ex. de renards polaires)</td></tr>
 <tr><td>ex 4302.1900–3000</td><td>pelleteries tannées ou apprêtées, non assemblées ou assemblées, à l’exclusion de celles de moutons, d’agneaux, de chèvres, de chevreaux, de bovins, de veaux, de chevaux, de poulains, de lapins, de visons, de ratons laveurs, de chiens viverrins, de myopotames (ragondins), de rats musqués, de castors, de renards communs et de renards d’élevage (p. ex. de renards polaires), de chevreuils, de cerfs, d’élans et de rennes</td></tr>
 <tr><td>ex 4303.1000</td><td>vêtements et accessoires de vêtement en pelleteries, à l’exclusion des vêtements et accessoires de vêtement en pelleteries de moutons, d’agneaux, de chèvres, de chevreaux, de veaux, de poulains, de lapins, de visons, de ratons laveurs, de chiens viverrins, de myopotames (ragondins), de rats musqués, de castors, de renards communs et de renards d’élevage (p. ex. de renards polaires), de chevreuils, de cerfs, d’élans et de rennes</td></tr>
 <tr><td>ex 4303.9000</td><td>produits en fourrures (autres que vêtements ou accessoires de vêtements), à l’exclusion de celles de moutons, d’agneaux, de chèvres, de chevreaux, de veaux, de poulains, de lapins, de visons, de ratons laveurs, de chiens viverrins, de myopotames (ragondins), de rats musqués, de renards communs et de renards d’élevage (p. ex. de renards polaires), de chevreuils, de cerfs, d’élans et de rennes</td></tr>
-<tr><td>ex 5102.1900; 5103.1000–2000; 5105.3900; 5108–5109; 5111.1100–1900; 5112.1110–1990; 5701.1000; 5702.3100, 4100, 5000, 9100; 5703.1000; 6005.9010; 6006.1000; 6101.9010; 6102.1000; 6103.1010, 2910, 3100, 4100; 6104.1910–2910, 3100, 4100, 5100, 6100; 6110.1900; 6111.9010; 6114.9010; 6116.9100; 6117.1090; 6201.1100, 9100; 6202.1100, 9100; 6203.1100, 2920, 3100, 4100; 6204.1110, 1190, 2110, 2190, 3110, 3190, 4110, 4190, 5100, 6100; 6205.9020; 6206.2010, 2090; 6209.9020; 6214.2000</td><td>laine de vigogne, de guanaco, de l’antilope de Saiga ou de l’antilope du Tibet (Shahtoosh)</td></tr>
-<tr><td>ex 6403.1900–9993; 6405.1000; 6406.1000; 6504.0000; 6506.9910–9990</td><td>chaussures et chapeaux en cuir d’éléphant, d’hippopotame, de pécari, d’oiseaux, de reptiles ou d’amphibiens, en pelleteries d’animaux protégés</td></tr>
-<tr><td>ex 6602.0000</td><td>cannes, cannes-sièges, fouets ou articles similaires faits entièrement en ivoire ou en cuir de reptiles ou en combinaison avec l’un de ces produits</td></tr>
-<tr><td>ex 6603.2000–9000</td><td>parties, garnitures et accessoires des articles du n<sup>o</sup> 6602, faits entièrement en ivoire ou en cuir de reptiles ou en combinaison avec l’un de ces produits</td></tr>
-<tr><td>ex 6701.0000</td><td>peaux et autres parties d’oiseaux, à l’exclusion de celles de volailles domestiques et d’autruches africaines</td></tr>
+<tr><td>ex 5102.1900; 5103.1000–2000; 5105.3900; 5108–5109; 5111.1100–1900; 5112.1110–1990; 5701.1000; 5702.3100, 4100, 5000, 9100; 5703.1000; 6005.9010; 6006.1000; 6101.9010; 6102.1000; 6103.1010, 2910, 3100, 4100; 6104.1910, 2910, 3100, 4100, 5100, 6100; 6110.1900; 6111.9010; 6114.9010; 6116.9100; 6117.1090; 6201.2000; 6202.2000; 6203.1100, 2920, 3100, 4100; 6204.1110, 1190, 2110, 2190, 3110, 3190, 4110, 4190, 5100, 6100; 6205.9020; 6206.2010, 2090; 6209.9020; 6214.2000</td><td>laine de la vigogne, du guanaco, de l’antilope de Saiga et de l’antilope du Tibet (shahtoosh)</td></tr>
+<tr><td>ex 6403.1900–9993; 6405.1000; 6406.1000; 6504.0000; 6506.9910–9990</td><td>chaussures et chapeaux en cuirs d’éléphants, d’hippopotames, de pécaris, d’oiseaux, de reptiles ou d’amphibiens d’espèces CITES ou en pelleteries d’animaux protégés</td></tr>
+<tr><td>ex 6602.0000</td><td>cannes, cannes-sièges, fouets ou articles similaires faits entièrement en ivoire ou en cuirs de reptiles d’espèces CITES ou en combinaison avec l’un de ces produits</td></tr>
+<tr><td>ex 6603.2000–9000</td><td>parties, garnitures et accessoires des articles du n<sup>o</sup> 6602, faits entièrement en ivoire ou en cuirs de reptiles d’espèces CITES ou en combinaison avec l’un de ces produits</td></tr>
+<tr><td>ex 6701.0000</td><td>peaux et autres parties d’oiseaux d’espèces CITES, à l’exclusion de celles de volailles domestiques et d’autruches africaines</td></tr>
 <tr><td>ex 7101.1000</td><td>perles de strombes géants (Queen conch, *Strombus gigas*)</td></tr>
-<tr><td>ex 7113.1100–2000; 7114.1110; 7117.1100–9000</td><td>articles de bijouterie et de joaillerie ainsi que leurs parties en combinaison avec des coraux bleus, des coraux noirs, des coraux durs, des coraux rouges (*Corallium elatius*, *C. japonicum, C. konjoi, C. secundum*) et diverses autres espèces de coraux</td></tr>
+<tr><td>ex 7113; 7114.1110, 1910; 7117</td><td>articles de bijouterie et de joaillerie ainsi que leurs parties en combinaison avec des coraux bleus, des coraux noirs, des coraux durs, des coraux rouges (*Corallium elatius, C. japonicum, C. konjoi, C. secundum*) et diverses autres espèces de coraux</td></tr>
 <tr><td>ex 8211; 8212.1000; 8214.1000; 8215</td><td>couverts et coutellerie en combinaison avec de l’ivoire, de la corne de rhinocéros ou de l’écaille de tortue</td></tr>
 <tr><td>ex 9003.1900–9000</td><td>montures de lunettes ou d’articles similaires et leurs parties, en écaille de tortue ou en combinaison avec cette matière</td></tr>
 <tr><td>ex 9004.1000–9000</td><td>lunettes et articles similaires, en écaille de tortue ou en combinaison avec cette matière</td></tr>
 <tr><td>ex 9101; 9102; 9103; 9105.2100–9900</td><td>produits de l’horlogerie en combinaison avec de l’écaille de tortue, de l’ivoire, du cuir de reptiles</td></tr>
 <tr><td>ex 9113.1000; 9113.2000</td><td>bracelets de montre en combinaison avec des coraux bleus, des coraux noirs, des coraux durs, des coraux rouges (*Corallium elatius*, *C. japonicum, C. konjoi, C. secundum*) ou avec diverses autres espèces de coraux</td></tr>
 <tr><td>ex 9113.9000</td><td>bracelets de montre en combinaison avec du cuir d’éléphant, de pécari, d’oiseaux, de reptiles ou d’amphibiens, ou avec des coraux bleus, des coraux noirs, des coraux durs, des coraux rouges (*Corallium elatius*, *C. japonicum, C. konjoi, C. secundum*) ou avec diverses autres espèces de coraux</td></tr>
-<tr><td>ex 9201.1000–9000</td><td>claviers en ivoire ou en combinaison avec de l’ivoire</td></tr>
+<tr><td>ex 9201.1000–9000</td><td>claviers en ivoire ou en combinaison avec de l’ivoire d’espèces CITES</td></tr>
 <tr><td>ex 9202.9000</td><td>corps acoustiques fabriqués à base de carapaces de tatous (armadillo) ou de tortues</td></tr>
-<tr><td>ex 9205.9010</td><td>claviers en ivoire ou en combinaison avec de l’ivoire</td></tr>
+<tr><td>ex 9205.9010</td><td>claviers en ivoire ou en combinaison avec de l’ivoire d’espèces CITES</td></tr>
 <tr><td>ex 9206.0000</td><td>instruments de percussion en combinaison avec des peaux d’animaux d’espèces CITES (p.ex. le zèbre)</td></tr>
-<tr><td>ex 9208.1000</td><td>boîtes à musique en combinaison avec de l’ivoire ou de l’écaille de tortue</td></tr>
-<tr><td>ex 9209.9100; 9209.9200</td><td>parties de claviers en combinaison avec de l’ivoire ou de l’écaille de tortue</td></tr>
-<tr><td>ex 9303.1000–3010; 9307.0000</td><td>armes en combinaison avec de l’ivoire ou de l’écaille de tortue</td></tr>
+<tr><td>ex 9208.1000</td><td>boîtes à musique en combinaison avec de l’ivoire d’espèces CITES ou de l’écaille de tortue</td></tr>
+<tr><td>ex 9209.9100; 9209.9200</td><td>parties de claviers en combinaison avec de l’ivoire d’espèces CITES ou de l’écaille de tortue</td></tr>
+<tr><td>ex 9303.1000–3010; 9307.0000</td><td>armes en combinaison avec de l’ivoire d’espèces CITES ou de l’écaille de tortue</td></tr>
 <tr><td>ex 9401.6100; 9401.6900; 9401.8010; 9401.8090</td><td>sièges en combinaison avec des peaux ou des fourrures d’animaux d’espèces CITES (p. ex. le zèbre)</td></tr>
-<tr><td>ex 9504.2000</td><td>billards et accessoires de billards en ivoire ou en combinaison avec de l’ivoire</td></tr>
-<tr><td>ex 9504.9000</td><td>table de jeu et pièces en ivoire ou en combinaison avec de l’ivoire</td></tr>
-<tr><td>9601.1000</td><td>ivoire travaillé</td></tr>
+<tr><td>ex 9504.2000</td><td>billards et accessoires de billards en ivoire ou en combinaison avec de l’ivoire d’espèces CITES</td></tr>
+<tr><td>ex 9504.9000</td><td>table de jeu et pièces en ivoire ou en combinaison avec de l’ivoire d’espèces CITES</td></tr>
+<tr><td>ex 9601.1000</td><td>ivoire d’espèces CITES, travaillé</td></tr>
 <tr><td>[tab] ex 9601.9010</td><td>Nautilidae</td></tr>
 <tr><td>ex 9601.9090</td><td>véritables os de baleine, écaille de tortue, coraux bleus, coraux noirs, coraux durs, coraux rouges (*Corallium elatius*, *C. japonicum, C. konjoi, C. secundum*) et diverses autres espèces de coraux, ainsi que des articles en ces matières; bois, cornes et becs montés d’espèces protégées</td></tr>
-<tr><td>ex 9605.0000</td><td>étuis en cuir d’éléphant, d’hippopotame, de pécari, d’oiseaux, de reptiles ou d’amphibiens ou en combinaison avec de tels cuirs</td></tr>
-<tr><td>ex 9606.2900–3000</td><td>boutons en ivoire ou en écaille de tortue</td></tr>
-<tr><td>ex 9608.1010; 9608.1090; 9608.2000; 9608.3010: 9608.3090; 9608.4090; 9608.5090; 9608.9190; 9608.9900</td><td>produits de papeterie en combinaison avec de l’ivoire, de l’écaille de tortue ou du cuir de reptiles ou en plumes d’oiseaux sauvages</td></tr>
-<tr><td>ex 9611.0000</td><td>tampons en combinaison avec de l’ivoire</td></tr>
+<tr><td>ex 9605.0000</td><td>étuis en cuir d’éléphants, d’hippopotames, de pécaris, d’oiseaux, de reptiles ou d’amphibiens ou en combinaison avec de tels cuirs d’espèces CITES</td></tr>
+<tr><td>ex 9606.2900–3000</td><td>boutons en ivoire d’espèces CITES ou en écaille de tortue</td></tr>
+<tr><td>ex 9608.1010; 9608.1090; 9608.2000; 9608.3010; 9608.3090; 9608.4010; 9608.4090; 9608.5010; 9608.5090; 9608.9190; 9608.9900</td><td>produits de papeterie en combinaison avec de l’ivoire, de l’écaille de tortue ou du cuir de reptiles ou en plumes d’oiseaux sauvages, tous d’espèces CITES</td></tr>
+<tr><td>ex 9611.0000</td><td>tampon dateur en combinaison avec de l’ivoire d’espèces CITES</td></tr>
 <tr><td>ex 9613.2010; 9613.2090; 9613.8020; 9613.8030</td><td>briquets et allumeurs en combinaison avec de l’ivoire</td></tr>
-<tr><td>ex 9614.0010</td><td>pipes (incluant les têtes de pipes, les pointes de cigares et de cigarettes et leurs parties) en combinaison avec de l’ivoire</td></tr>
+<tr><td>ex 9614.0010</td><td>pipes (incluant les têtes de pipes, les pointes de cigares et de cigarettes et leurs parties) en combinaison avec de l’ivoire d’espèces CITES</td></tr>
 <tr><td>ex 9615.1900</td><td>peignes, barrettes et produits similaires en écaille de tortue ou en combinaison avec de l’écaille de tortue</td></tr>
 <tr><td>ex 9701.9090</td><td>collages en plumes d’oiseaux sauvages ou de parties d’espèces protégées en général</td></tr>
 <tr><td>ex 9703.0090</td><td>sculptures en ivoire ou en os de baleine ou en combinaison avec ces produits</td></tr>
+<tr><td>ex 9703.1000; 9703.9000</td><td>sculptures en ivoire d’espèces CITES ou en os de baleine, ou en combinaison avec l’un de ces produits</td></tr>
 <tr><td>ex 9705.0000</td><td>collections zoologiques ou spécimens de collections d’espèces CITES</td></tr>
 <tr><td>ex 9706.0000</td><td>objets d’antiquité en combinaison avec des produits d’espèces CITES</td></tr>
 </table>
@@ -359,7 +372,7 @@ Annexe 1*[^t-1]*
 <tr><th>Numéro du tarif douanier</th><th>Désignation de la marchandise</th></tr>
 <tr><td colspan="2">2.1 Plantes vivantes et marchandises du commerce de fleurs</td></tr>
 <tr><td colspan="2">2.1.1 Bulbes, oignons, tubercules et racines d’espèces inscrites aux annexes I à III CITES:</td></tr>
-<tr><td>ex 0601.1090</td><td>en repos végétatif ou en végétation, sans substrat (autres que tulipes)</td></tr>
+<tr><td>ex 0601.1090</td><td>en repos végétatif ou en végétation, sans substrat</td></tr>
 <tr><td>ex 0601.2020</td><td>en végétation ou en fleur, avec substrat ou en solution nutritive (sauf les tulipes et les racines de chicorée)</td></tr>
 <tr><td>ex 0601.2091</td><td>autres, en boutons ou en fleurs</td></tr>
 <tr><td>ex 0601.2099</td><td>autres</td></tr>
@@ -385,10 +398,11 @@ Annexe 1*[^t-1]*
 <tr><td colspan="2">2.2.5 Autres produits végétaux</td></tr>
 <tr><td>ex 1404.9080</td><td>espèces inscrites à l’annexe III de la CITES, noix, cocotiers de mer (*Lodoiceae maldivica*) originaires des Seychelles</td></tr>
 <tr><td colspan="2">2.2.6 Huiles végétales</td></tr>
-<tr><td>ex 1515.9098; 9099</td><td>huile de graines de Baobab (*Adansonia grandidieri*)</td></tr>
+<tr><td>ex 1515.9091, 9098, 9099</td><td>huile de graines de baobab (*Adansonia grandidieri*)</td></tr>
 <tr><td colspan="2">2.3 Plantes médicinales et plantes aromatiques</td></tr>
 <tr><td colspan="2">2.3.1 Racines et parties de plantes non travaillées utilisées en médecine</td></tr>
 <tr><td>ex 1211.2000</td><td>racines de ginseng, entières ou en parties reconnaissables, non transformées (ginseng d’Amérique [*Panax quinquefolius*] et ginseng asiatique [*Panax ginseng*] d’origine russe)</td></tr>
+<tr><td>ex 1211.6000</td><td>écorce du prunier d’Afrique ou pygeum (*Prunus africana*)</td></tr>
 <tr><td>ex 1211.9000</td><td>plantes et parties de plantes de: palissandre du Sénégal ou Kosso (*Pterocarpus erinaceus*), prunier d’Afrique ou pygeum (*Prunus africana*), santal est-africain (*Osyris lanceolata*), bois d’agar ou bois d’aigle (*Aquilaria* spp. et *Gyrinops* spp.), aloès (*Aloe* spp. notamment aloé du Cap = *Aloe ferox* [sauf les produits finis emballés et prêts pour le commerce de détail]; ne concerne pas *Aloe vera* = *A. barbadensis*), igname du Delta *(Discorea deltoidea*), espèces d’ifs asiatiques et leurs sous-espèces et hybrides (*Taxus chinensis*, *T. cuspidata*, *T. fuana*, *T. x media*, *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), adonide de printemps (*Adonis vernalis*), curcuma canadien (*Hydrastis canadensis*), gaïac ou lignum vitae ou palo santo ou guaïac ou guayacol (*Guaiacum* spp., *Bulnesia sarmientoi*), podophylle (*Podophyllum hexandrum*), saussuréa (*Saussurea costus*) à l’exclusion des plantes entières et des parties de plantes sauvages, nardostachide d’Inde (*Nardostachys grandiflora*), reine de la nuit (*Selenicereus* = *Cereus grandiflorus*), orchidées (p. ex. *Bletilla striata*, *Dendrobium* spp., *Gastrodia elata*; sauf fruits de *Vanilla* spp.), peyote (*Lophophora williamsii*), *Picorhiza kurroa*, santal rouge ou padouk (*Pterocarpus santalinus*), San Pedro (*Trichocereus* = *Echinopsis pachanoi*), racine de serpent (*Rauvolfia serpentina*), perce-neige (*Galanthus* spp.), agneau végétal (*Cibotium barometz*), dionée-attrape-mouche (*Dionaea muscipula*), cistanche des déserts (*Cistanche deserticola*)</td></tr>
 <tr><td>ex 1301.9080</td><td>résine de gaïac (*Guaiacum* spp., *Bulnesia sarmientoi*), résine d’aloé du Cap (*Aloe ferox* [sauf les produits finis emballés et prêts pour le commerce de détail], *Aloe* spp.; ne concerne pas *Aloe vera* = *A. barbadensis*)</td></tr>
 <tr><td colspan="2">2.3.2 Sucs et extraits végétaux</td></tr>
@@ -400,9 +414,9 @@ Annexe 1*[^t-1]*
 <tr><td>ex 3304.3000; 3304.9900; 3307.9090</td><td>produits de beauté ou préparations cosmétiques avec des extraits de plante (Ochidaceae)</td></tr>
 <tr><td colspan="2">2.4 Bois et articles en bois</td></tr>
 <tr><td colspan="2">2.4.1 Sciures, déchets de bois</td></tr>
-<tr><td>ex 4401.3100–4000</td><td>santal est-africain (*Osyris lanceolata*), bois d’agar ou bois d’aigle (*Aquilaria* spp., *Gyrinops* spp.), gaïac ou lignum vitae ou palo santo (*Guaiacum* spp., *Bulnesia sarmientoi*), santal rouge ou padouk (*Pterocarpus santalinus*)</td></tr>
+<tr><td>ex 4401.3100–4900</td><td>santal est-africain (*Osyris lanceolata*), bois d’agar ou bois d’aigle (*Aquilaria* spp., *Gyrinops* spp.), gaïac ou lignum vitae ou palo santo (*Guaiacum* spp., *Bulnesia sarmientoi*), santal rouge ou padouk (*Pterocarpus santalinus*)</td></tr>
 <tr><td colspan="2">2.4.2 Bois bruts, bois sciés, bois profilés, y compris frises à parquets, bois contreplaqués, bois plaqués, feuilles pour placage, cadres en bois pour tableaux, etc., ouvrages de menuiserie et pièces de charpente tels que fenêtres, portes et cadres, poteaux et poutres qui en font partie, panneaux pour parquets, bardeaux, etc.</td></tr>
-<tr><td>ex 4403.1100; 4403.1210; 4403.1290; 4403.2100; 4403.2200; 4403.2500; 4403.2600; 4403.4900; 4403.9100; 4403.9900; 4407.1110; 4407.1190; 4407.1210; 4407.1290; 4407.1910; 4407.1990; 4407.2110; 4407.2190; 4407.2920; 4407.2990; 4407.9110; 4407.9190; 4407.9510; 4407.9590; 4407.9910; 4407.9980; 4408.1000; 4408.3900; 4408.9000; 4409.1000; 4409.2200; 4409.2900; 4412.3100; 4412.3300; 4412.3400; 4412.3900; 4412.9400; 4412.9900; 4414.0000; 4418.1000; 4418.2000; 4418.5000; 4418.6000; 4418.7300; 4418.7400; 4418.7500; 4418.7900; 4418.9900; 4419.9000; 4420.1000; 4420.9000; 4421.1000; 4421.9900</td><td>Espèces visées au ch. 3 de la présente annexe</td></tr>
+<tr><td>ex 4403.1100; 4403.1210; 4403.1290; 4403.2100; 4403.2200; 4403.2500; 4403.2600; 4403.4900; 4403.9100; 4403.9900; 4407.1110; 4407.1190; 4407.1210; 4407.1290; 4407.1310; 4407.1390; 4407.1910; 4407.1990; 4407.2110; 4407.2190; 4407.2920; 4407.2990; 4407.9110; 4407.9190; 4407.9510; 4407.9590; 4407.9910; 4407.9980; 4408.1000; 4408.3900; 4408.9000; 4409.1000; 4409.2200; 4409.2900; 4412.3100; 4412.3300; 4412.3400; 4412.3900; 4412.4100; 4412.4200; 4412.4900; 4412.5100; 4412.5200; 4412.5900; 4412.9100; 4412.9200; 4412.9900; 4414.1000; 4414.9000; 4418.1100; 4418.1900; 4418.2100; 4418.2900; 4418.3000; 4418.5000; 4418.7300; 4418.7400; 4418.7500; 4418.7900; 4418.8100; 4418.8200; 4418.8300; 4418.8900; 4418.9200; 4418.9900; 4419.2000; 4419.9000; 4420.1100; 4420.1900; 4420.9000; 4421.1000; 4421.9900</td><td>Espèces visées au ch. 3 de la présente annexe</td></tr>
 <tr><td colspan="2">2.4.3 Poignées et manches d’outils, de balais, de brosses</td></tr>
 <tr><td>ex 4417.0000</td><td>ramin (*Gonystylus* spp.), palissandre du Sénégal ou Kosso (*Pterocarpus erinaceus*)</td></tr>
 <tr><td colspan="2">2.4.4 Instruments de musique</td></tr>
@@ -414,7 +428,7 @@ Annexe 1*[^t-1]*
 <tr><td colspan="2">2.4.5 Armes, parties et accessoires d’armes</td></tr>
 <tr><td>ex 9302.0000 9305.1000; 9305.2000</td><td>poignées de fusils et de révolvers en bois de rose ou palissandre de Rio (*Dalbergia nigra*)</td></tr>
 <tr><td colspan="2">2.4.6 Meubles</td></tr>
-<tr><td>ex 9401.3010; 9401.3099 9401.4090;9401.6100; 9401.6900; 9401.79; 9401.8090 9403.3000–6000</td><td>palissandre du Sénégal ou Kosso (*Pterocarpus erinaceus*), prunier d’Afrique ou pygeum (*Prunus africana*), Cyprès de Mulange (*Widdringtonia whytei*), almendro *(Dipteryx panamensis* originaire du Costa Rica ou du Nicaragua), araucaria ou pin des Andes (*Araucaria araucana*), ayuque (*Balmea stormiae*), Bubinga (*Guibourtia demeusei, G. pellegriniana*, *G. tessmannii*, sauf exceptions énumérées au ch. 3), Cèdres (*Cedrela* spp.), espèces d’ifs asiatiques et leurs sous-espèces et hybrides (*Taxus chinensis*, *T. fuana*, *T. cuspidata*, *T. x media*; *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), cèdre du Chili (*Pilgerodendron uviferum*), gavilan (*Oreomunnea pterocarpa*), sapin du Guatemala (*Abies guatemalensis*), macacauba (*Platymiscium parviflorum*), acajou du Mexique ou du Honduras (*Swietenia humilis*), pin du Népal (*Podocarpus neriifolius*), bois de rose ou palissandre de Rio (*Dalbergia nigra*), palissandre (*Dalbergia* spp., sauf exceptions énumérées au ch. 3), cyprès de Patagonie, bois d’alerce ou alerce (*Fitzroya cupressoides*), pin parlatore (*Podocarpus parlatorei*), piquia (*Caryocar costaricense*), *Pinus koraiensis* d’origine russe, ramin (*Gonystylus* spp.), magnolia taungme (*Magnolia liliifera* var. *obovata*)</td></tr>
+<tr><td>ex 9401.3100; 9401.3900; 9401.4100; 9401.4900; 9401.6100; 9401.6900; 9401.7110, 7190; 9401.7910; 9401.7990; 9401.8010, 8090; 9401.9110; 9401.9190; 9403.3000–6000, 9100</td><td>palissandre du Sénégal ou Kosso (*Pterocarpus erinaceus*), prunier d’Afrique ou pygeum (*Prunus africana*), Cyprès de Mulange (*Widdringtonia whytei*), almendro (*Dipteryx panamensis* originaire du Costa Rica ou du Nicaragua), araucaria ou pin des Andes (*Araucaria araucana*), ayuque (*Balmea stormiae*), espèces d’ifs asiatiques et leurs sous-espèces et hybrides (*Taxus chinensis*, *T. fuana*, *T. cuspidata*, *T. x media*, *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), bubinga (*Guibourtia demeusei*, *G. pellegriniana*, *G. tessmannii*, sauf exceptions énumérées au ch. 3), *Cedrela* spp., cèdre du Chili (*Pilgerodendron uviferum*), gavilan (*Oreomunnea pterocarpa*), sapin du Guatemala (*Abies guatemalensis*), macacauba (*Platymiscium parviflorum*), acajou du Mexique ou du Honduras (*Swietenia humilis*), pin du Népal (*Podocarpus neriifolius*), palissandre (*Dalbergia* spp., sauf exceptions énumérées au ch. 3), bois de rose ou palissandre de Rio (*Dalbergia nigra*), cyprès de Patagonie, bois d’alerce ou alerce (*Fitzroya cupressoides*), pin parlatore (*Podocarpus parlatorei*), piquia (*Caryocar costaricense*), *Pinus koraiensis* d’origine russe, ramin (*Gonystylus* spp.), magnolia taungme (*Magnolia liliifera* var. *obovata*)</td></tr>
 <tr><td colspan="2">2.4.7 Jouets, jeux</td></tr>
 <tr><td>ex 9503.0090</td><td>marchandises classées sous ce numéro, notamment jeux de construction et jouets musicaux, en bois de cactées (*Trichocereus* = *Echinopsis* spp., *Eulychnia* spp.) ou en combinaison avec du bois de rose ou palissandre de Rio *Dalbergia* *nigra* ou du macacauba (*Platymiscium parviflorum*)</td></tr>
 <tr><td>ex 9504.9000</td><td>marchandises classées sous ce numéro, notamment jeux de quilles ou accessoires pour bowling en ou en combinaison avec de l’acajou du Mexique ou du Honduras (*Swietenia humilis*) ou du ramin (*Gonystylus* spp.)</td></tr>
@@ -423,7 +437,7 @@ Annexe 1*[^t-1]*
 <tr><td>ex 9603.2922</td><td>brosses ayant une monture en bois précieux: bois de rose ou palissandre de Rio *Dalbergia nigra*</td></tr>
 <tr><td>ex 9603.3010; 9603.3090</td><td>balais, brosses et pinceaux à barbes avec monture en ramin (*Gonystylus* spp.) ou en palissandre du Sénégal ou Kosso (*Pterocarpus erinaceus*)</td></tr>
 <tr><td colspan="2">2.5 Pièces de collection</td></tr>
-<tr><td>ex 9705.0000</td><td>collections ou pièces de collections botaniques soumises à la CITES</td></tr>
+<tr><td>ex 9705.1000, 2200, 2900</td><td>collections ou pièces de collections botaniques d’intérêt archéologique, botanique, ethnographique, historique ou zoologique soumises à la CITES</td></tr>
 </table>
 
 ### 3 Espèces qui relèvent du chiffre 2.4.2
@@ -541,56 +555,17 @@ Le ch. 2.4.2 comprend les espèces suivantes:
 
 [^annex1-lvlu1-lvl3-1]: Les quantités indiquées se rapportent au poids du bois protégé.
 
-Annexe 2
+Annexe 2*[^t-2]*
 
-(art. 2)
+[^t-2]: Abrogée par le ch. II al. 2 de l’O du DFI du 1<sup>er</sup> fév. 2022, avec effet au 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
-## Liste des espèces animales inscrites à l’annexe I CITES dont la survie dépend essentiellement de leur élevage en captivité
-
-### 1. Mammifères *(Mammalia)*
-
-<table>
-<tr><td>*Eulemur* spp.</td><td>Makis</td></tr>
-<tr><td>*Leontopithecus rosalia*</td><td>Singes-lions ou tamarins dorés</td></tr>
-<tr><td>*Macaca silenus*</td><td>Ouanderou ou macaque à queue de lion</td></tr>
-<tr><td>*Panthera leo persica*</td><td>Lion d’Asie</td></tr>
-<tr><td>*Equus przewalskii*</td><td>Cheval de Przewalski</td></tr>
-<tr><td>*Sus salvanius*</td><td>Sanglier nain</td></tr>
-<tr><td>*Axis kuhlii*</td><td>Cerf-cochon de Kuhl</td></tr>
-<tr><td>*Cervus eldi eldi*</td><td>Cerf d’Eld ou Thamin</td></tr>
-<tr><td>*Cervus eldi siamensis*</td><td>Cerf d’Eld du Siam</td></tr>
-<tr><td>*Dama mesopotamica*</td><td>Daim de Mésopotamie</td></tr>
-<tr><td>*Oryx leucoryx*</td><td>Oryx blanc</td></tr>
-</table>
-
-### 2. Oiseaux *(Aves)*
-
-<table>
-<tr><td>*Geronticus eremita*</td><td>Ibis chauve</td></tr>
-<tr><td>*Gymnogyps californianus*</td><td>Condor de Californie</td></tr>
-<tr><td>*Falco punctatus*</td><td>Faucon crécerelle de l’île Maurice</td></tr>
-<tr><td>*Amazona arausiaca*</td><td>Amazone à tête bleue</td></tr>
-<tr><td>*Amazona guildingii*</td><td>Amazone de Guilding</td></tr>
-<tr><td>*Amazona imperialis*</td><td>Amazone impériale</td></tr>
-<tr><td>*Amazona versicolor*</td><td>Amazone versicolore</td></tr>
-<tr><td>*Amazona vittata*</td><td>Amazone à bandeau rouge</td></tr>
-<tr><td>*Anodorhynchus glaucus*</td><td>Ara glauque</td></tr>
-<tr><td>*Cyanopsitta spixii*</td><td>Ara de Spix</td></tr>
-</table>
-
-### 3. Reptiles *(Reptilia)*
-
-<table>
-<tr><td>*Crocodylus siamensis*</td><td>Crocodile de Siam</td></tr>
-</table>
-
-Annexe 3*[^t-2]*
+Annexe 3*[^t-3]*
 
 (art. 3)
 
 ## Animaux et plantes, parties et produits dont l’importation est interdite
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 11 mai 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 277](https://fedlex.data.admin.ch/eli/oc/2021/277)).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 11 mai 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 277](https://fedlex.data.admin.ch/eli/oc/2021/277)).
 
 <table>
 <tr><th>Pays</th><th>Animal, plante, produit</th><th>Notification[^annex3-lvlu1-1]</th></tr>
@@ -649,31 +624,31 @@ Annexe 3*[^t-2]*
 
 [^annex3-lvlu1-1]: Les notifications peuvent être consultées sur le site Internet du Secrétariat CITES: www.cites.org &gt; Français &gt; Documents &gt; Notifications aux Parties
 
-Annexe 4*[^t-3]*
+Annexe 4*[^t-4]*
 
 (art. 8)
 
-## Catégories de spécimens pour l’importation desquelles il est délivré des autorisations d’importation de longue durée
+## Catégories de spécimens pour l’importation desquelles des autorisations de longue durée sont délivrées
 
-[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 avr. 2017 [RO 2017 2559](https://fedlex.data.admin.ch/eli/oc/2017/243)). Mise à jour par le ch. II al. 2 de l’O du DFI du 19 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)).
+[^t-4]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 avr. 2017 [RO 2017 2559](https://fedlex.data.admin.ch/eli/oc/2017/243)). Mise à jour par le ch. II al. 2 de l’O du DFI du 19 fév. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)) par le ch. II al. 1 de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
 - 1\. Fourrures et peaux d’espèces animales inscrites aux annexes II et III CITES[^annex4-lvlu1-1] et articles fabriqués à partir de ces fourrures et de ces peaux;
 - 2\. Peaux d’espèces animales inscrites aux annexes II et III CITES;
-- 3\. Sangsues vivantes;
-- 4\. Tissus, échantillons de cellules ou de sang d’espèces inscrites aux annexes I à III CITES utilisés exclusivement à des fins de recherche;
+- 3\. Réactifs et médicaments contenant du venin de serpent;
+- 4\. Tissus, échantillons de cellules ou de sang d’espèces inscrites aux annexes I à III CITES utilisés exclusivement à des fins de recherche dans les hautes écoles;
 - 5\. Coraux rouges, coraux noirs et perles de strombes géants (Queen conch, *Strombus gigas*) inscrits aux annexes II et III CITES;
-- 6\. Produits contenant les extraits végétaux d’espèces végétales inscrites aux annexes II et III CITES;
+- 6\. …
 - 7\. Bois et produits en bois en *Dalbergia* spp. et en *Guibourtia demeusei*, *G. pellegriniana* et *G. tessmannii*. Aucune autorisation d’importation de longue durée n’est délivrée pour *Dalbergia nigra*, *Dalbergia cochinchinensis* et *Dalbergia* spp. en provenance du Mexique.
 
 [^annex4-lvlu1-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
-Annexe 5*[^t-4]*
+Annexe 5*[^t-5]*
 
 (art. 11)
 
 ## États dont l’organe de gestion de la CITES peut accéder en ligne au système d’information
 
-[^t-4]: Mise à jour par le ch. II al. 2 de l’O du DFI du 19 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)).
+[^t-5]: Mise à jour par le ch. II al. 2 de l’O du DFI du 19 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)).
 
 - 1\. France
 - 2\. Tchéquie
