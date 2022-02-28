@@ -4,13 +4,13 @@ number: "152.381"
 title: Verordnung über die Sprachenregelung im Verwaltungskreis Biel/Bienne und für die regionalen Behörden im Verwaltungskreis Seeland
 short: SRV
 language: de
-version: 2011-01-01
-valid_until: 2022-02-28
-version_adopted: 2010-10-27
+version: 2022-03-01
+valid_until: 2025-12-31
+version_adopted: 2022-02-02
 adopted: 1995-10-18
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.381"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1056/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2541/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1056/pdf_file"
 
 (SRV)
 
-vom 18.10.1995 (Stand 01.01.2011)
+vom 18.10.1995 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -89,9 +89,9 @@ beschliesst:
 
 #### Art. 10
 
-**Veröffentlichungen in den Amtsblättern**
+**Veröffentlichungen im Amtsblatt**
 
-<sup>1</sup> Die Veröffentlichungen der Kreisbehörden von Biel/Bienne und der regionalen Behörden Berner Jura und Seeland erfolgen, soweit den Verwaltungskreis Biel/Bienne betreffend, im Amtsblatt des Kantons Bern in deutscher Sprache und im Feuille officielle du Jura bernois in französischer Sprache.
+<sup>1</sup> Die Veröffentlichungen der Kreisbehörden von Biel/Bienne und der regionalen Behörden Berner Jura und Seeland erfolgen, soweit den Verwaltungskreis Biel/Bienne betreffend, im Amtsblatt auf Deutsch und auf Französisch.
 
 #### Art. 11
 

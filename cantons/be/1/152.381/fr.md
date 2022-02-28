@@ -4,13 +4,13 @@ number: "152.381"
 title: "Ordonnance sur l’usage des langues dans l’arrondissement administratif de Biel/Bienne et, pour les autorités régionales, dans l'arrondissement administratif du Seeland *"
 short: OUL
 language: fr
-version: 2011-01-01
-valid_until: 2022-02-28
-version_adopted: 2010-10-27
+version: 2022-03-01
+valid_until: 2025-12-31
+version_adopted: 2022-02-02
 adopted: 1995-10-18
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.381"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1056/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2541/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1056/pdf_file"
 
 (OUL)
 
-du 18.10.1995 (état au 01.01.2011)
+du 18.10.1995 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -89,9 +89,9 @@ arrête:
 
 #### Art. 10
 
-**Publications dans les feuilles officielles**
+**Publications dans la Feuille officielle**
 
-<sup>1</sup> Si elles concernent l’arrondissement administratif de Biel/ Bienne, les publications ordonnées par les autorités de cet arrondissement et des régions du Jura bernois et du Seeland paraissent en français dans la Feuille officielle du Jura bernois et en allemand dans l’Amtsblatt des Kantons Bern.
+<sup>1</sup> Si elles concernent l’arrondissement administratif de Biel/ Bienne, les publications ordonnées par les autorités de cet arrondissement et des régions du Jura bernois et du Seeland paraissent en français et en allemand dans la Feuille officielle.
 
 #### Art. 11
 
