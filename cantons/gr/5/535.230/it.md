@@ -1,171 +1,166 @@
 ---
 canton: GR
 number: "535.230"
-title: "Contratto normale di lavoro per l'agricoltura"
+title: "Contratto normale di lavoro per il personale dell'agricoltura"
 short: CNL agr
 language: it
-version: 2009-07-01
-corrected: 2014-10-19
-version_adopted: 2009-06-09
+version: 2022-03-01
+version_adopted: 2022-02-01
 adopted: 2022-02-01
 in_force: 2022-03-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/535.230"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/295/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3235/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Contratto normale di lavoro per l'agricoltura
+# Contratto normale di lavoro per il personale dell'agricoltura
 
-emanato dal Governo il 27 ottobre 1998
+(CNL agr)
 
-giusta gli art. 359, 359a e 360 del codice svizzero delle obbligazioni (CO)[^t-1] e l'art. 11 della relativa ordinanza del Gran Consiglio[^t-2]
+del 01.02.2022 (stato 01.03.2022)
 
-[^t-1]: RS 220
-[^t-2]: CSC 210.200
+emanato dal Governo il 1° febbraio 2022
+
+visti l'art. 359, l'art. 359a e l'art. 360 del Codice svizzero delle obbligazioni[^ingress-1] nonché l'art. 10 della legge d'introduzione al Codice svizzero delle obbligazioni[^ingress-2]
+
+[^ingress-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
+[^ingress-2]: CSC [210.200](https://www.gr-lex.gr.ch/data/210.200/it)
 
 #### Art. 1
 
-**Campo di validità**
+**Campo d'applicazione**
 
-<sup>1</sup> Il presente contratto normale di lavoro è applicabile a tutti gli impiegati di un'azienda agricola o di un annesso esercizio accessorio indipendentemente dall'estensione e dalla durata dell'impiego.
+<sup>1</sup> Nel Cantone dei Grigioni il rapporto di lavoro tra lavoratori dipendenti impiegati in un'azienda agricola, in un'economia domestica agricola o in un'azienda accessoria e i loro datori di lavoro viene disciplinato con il presente contratto normale di lavoro.
 
-<sup>2</sup> I contratti di assunzione e gli accordi tra le parti non possono contenere disposizioni che contrastano il contratto normale di lavoro.
+<sup>2</sup> Sono esclusi dal campo d'applicazione i rapporti di lavoro:
 
-<sup>3</sup> Sono esclusi gli impiegati di aziende di diritto pubblico.
+- a) tra coniugi o persone in unione domestica registrata;
+- b) con parenti in linea ascendente e discendente nonché i rispettivi coniugi o partner registrati;
+- c) con nuore o generi, qualora questi intendano rilevare l'azienda per gestirla in proprio.
 
-<sup>4</sup> Per le persone con contratto di tirocinio le disposizioni qui di seguito indicate valgono soltanto nella misura in cui il contratto di tirocinio o il diritto concernente la formazione professionale non prevedano regolamentazioni diverse.
+<sup>3</sup> Fanno eccezione rapporti di lavoro e fattispecie alle quali è applicabile un contratto collettivo di lavoro dichiarato di obbligatorietà generale oppure un altro contratto normale di lavoro.
+
+<sup>4</sup> I datori di lavoro devono documentare separatamente le ore di lavoro prestate in rami aziendali per i quali è applicabile un contratto collettivo di lavoro d'obbligatorietà generale.
 
 #### Art. 2
 
-**Orario di lavoro e di riposo 3)**
+**Accordi divergenti e diritto sussidiario**
 
-<sup>1</sup> L'orario quotidiano di lavoro si conforma all'uso locale e alla stagione.
+<sup>1</sup> Per essere validi, accordi divergenti dal presente contratto normale di lavoro necessitano della forma scritta.
 
-<sup>2</sup>[^2-1]Esso ammonta ad al massimo dieci ore. Le parti contraenti possono concordare orari di lavoro estivi e invernali differenti, purché l'orario quotidiano di lavoro venga rispettato nella media annua.
+<sup>2</sup> Per quanto il presente contratto normale di lavoro o accordi scritti divergenti da esso non prevedano alcuna prescrizione, fanno stato a titolo integrativo le disposizioni del Codice svizzero delle obbligazioni[^2-1].
 
-<sup>3</sup>[^2-2]Ai giovani sotto i 18 anni va concesso un periodo continuo di riposo di almeno 10 ore al giorno.
-
-[^2-1]: Testo giusta DG del 9 giugno 2009; entrato in vigore il 1° luglio 2009
-[^2-2]: Testo giusta DG del 9 giugno 2009; entrato in vigore il 1° luglio 2009
-[^2-3]: Testo giusta DG del 9 giugno 2009; entrato in vigore il 1° luglio 2009 1.7.2009 1
+[^2-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
 
 #### Art. 3
 
-**Lavoro straordinario**[^2-3]
+**Durata del lavoro, tempo libero e riposo**
 
-<sup>1</sup> In caso di urgente necessità, i lavoratori sono tenuti a prestare il lavoro straordinario che può essere preteso secondo il principio della buona fede.
+<sup>1</sup> La durata del lavoro ammonta a 55 ore a settimana. Le parti contraenti possono concordare durate del lavoro estive e invernali differenti, purché la durata del lavoro settimanale venga rispettata nella media annua.
 
-<sup>2</sup> Con il consenso del lavoratore, il datore di lavoro può compensare il lavoro straordinario nel corso dell'anno di servizio con tempo libero di almeno pari durata.
+<sup>2</sup> Ogni settimana al lavoratore devono essere concesse una giornata intera e una mezza giornata quale tempo libero, di cui usufruire entro un mese. Se un giorno libero intero o una mezza giornata libera cade in un giorno festivo riconosciuto al di fuori di una domenica, la compensazione deve avvenire entro tre mesi.
+
+<sup>3</sup> Il lavoro quotidiano deve essere interrotto da pause adeguate.
+
+<sup>4</sup> Ai giovani sotto i 18 anni deve essere concesso un periodo continuo di riposo di almeno dieci ore al giorno.
 
 #### Art. 4
 
-**Salario**
+**Straordinari**
 
-L'accordo sul salario deve essere firmato per iscritto in appendice al presente contratto di lavoro al più tardi all'entrata in servizio. Il salario va versato per la fine di ogni mese con un conteggio scritto.
+<sup>1</sup> Se si rendono necessari degli straordinari, i lavoratori sono tenuti a prestarli soltanto se sono in grado di farlo e se lo si può pretendere da loro in buona fede.
+
+<sup>2</sup> I giovani che hanno meno di 18 anni possono prestare straordinari solo in casi eccezionali urgenti.
+
+<sup>3</sup> Ogni anno gli straordinari devono essere compensati entro fine aprile usufruendo di tempo libero di almeno pari durata. Se eccezionalmente ciò non è possibile, per gli straordinari deve essere corrisposto il salario più un supplemento di almeno il 25 per cento.
 
 #### Art. 5
 
-**Salario in caso di impedimento al lavoro**
+**Salario**
 
-Nei casi previsti dalla legge di impedimento al lavoro per ragioni indipendenti dalla volontà del lavoratore, egli ha diritto al seguente salario:
+<sup>1</sup> Il salario deve essere versato per la fine di ogni mese con un conteggio scritto.
 
-**1 mese 2 mesi 3 mesi 4 mesi**
-
-- a) nel primo e secondo anno di servizio
-
-- b) dal terzo al quinto anno di servizio
-
-- c) dal sesto al decimo anno di servizio
-
-- d) dall'undicesimo anno di servizio
+<sup>2</sup> All'inizio del rapporto di lavoro i datori di lavoro devono consegnare ai lavoratori una conferma scritta relativa al salario oppure l'eventuale contratto di lavoro scritto nonché un esemplare del presente contratto normale di lavoro.
 
 #### Art. 6
 
-**Tempo libero**
+**Salario in caso di impedimento al lavoro**
 
-<sup>1</sup>[^6-1]Il datore di lavoro deve concedere al lavoratore un giorno e mezzo libero alla settimana. Se ciò non è possibile, i giorni liberi vanno compensati nel corso dello stesso mese. Mensilmente, almeno un giorno libero deve cadere di domenica.
+<sup>1</sup> Nei casi di impedimento al lavoro senza colpa del lavoratore previsti dalla legge, il lavoratore ha diritto alla continuazione del versamento del salario come segue:
 
-<sup>2</sup> Al lavoratore deve essere concesso il tempo necessario per la frequenza del culto.
+- a) nel primo e nel secondo anno di servizio: 1 mese
+- b) dal terzo al quinto anno di servizio: 2 mesi
+- c) dal sesto al decimo anno di servizio: 3 mesi
+- d) a partire dall'undicesimo anno di servizio: 4 mesi
 
-<sup>3</sup>[^6-2]Se un giorno libero o una mezza giornata libera cade in un giorno festivo riconosciuto o il 1° agosto, non può essere compensato.
-
-[^6-1]: Testo giusta DG del 9 giugno 2009; entrato in vigore il 1° luglio 2009
-[^6-2]: Introduzione giusta DG del 9 giugno 2009; entrata in vigore il 1° luglio 2009 2 1.7.2009
+<sup>2</sup> Con la conclusione del rapporto di lavoro cessa anche la continuazione del versamento del salario.
 
 #### Art. 7
 
-**Ulteriore istruzione**
+**Congedo pagato**
 
-Si permetterà al lavoratore di frequentare corsi facoltativi e conferenze a seconda delle possibilità dell'azienda. Le ore di lavoro perdute possono, per quanto superino nel complesso i due giorni, essere adeguatamente dedotte dalle ore di libertà.
+<sup>1</sup> I lavoratori hanno diritto a un congedo pagato:
+
+- a) di tre giorni:
+  - 1\. per la nascita di figli propri, qualora non esista un diritto a indennità, nonché in caso di adozione;
+  - 2\. in caso di decesso del coniuge, del partner e di figli propri, dei genitori oppure di fratelli o sorelle nonché per prendersi cura di familiari ammalatisi che vivono nella stessa economia domestica (per episodio);
+- b) di due giorni: in occasione del proprio matrimonio;
+- c) di un giorno: in occasione del matrimonio di figli propri, in caso di decesso di suoceri o di affini, per la ricerca di un impiego dopo la disdetta del posto di lavoro nonché in caso di trasloco (al massimo una volta all'anno).
 
 #### Art. 8
 
 **Vacanze**
 
-Ai lavoratori che hanno compiuto il 50<sup>o</sup> anno di età e che sono impiegati nell'azienda da cinque o più anni, vanno concesse cinque settimane di vacanza.
+<sup>1</sup> Il diritto alle vacanze dei lavoratori ammonta annualmente:
+
+- a) fino ai 20 anni compiuti: 5 settimane
+- b) a partire dai 50 anni compiuti dopo 5 anni di servizio: 5 settimane
+- c) altrimenti: 4 settimane
 
 #### Art. 9
 
-**Periodo di prova**
+**Vitto e alloggio**
 
-Le prime due settimane dall'entrata in servizio valgono quale periodo di prova.
+<sup>1</sup> Se i lavoratori vivono nell'azienda agricola per la quale lavorano, hanno diritto a vitto e alloggio quantitativamente e qualitativamente sufficienti.
 
 #### Art. 10
 
-**Disdetta**
+**Periodo di prova**
 
-Il rapporto di lavoro può essere disdetto come segue:
-
-- a) durante il periodo di prova per la fine del terzo giorno successivo alla disdetta;
-
-- b) trascorso il periodo di prova al 5<sup>o</sup> anno di servizio compreso con un preavviso di due mesi;
-
-- c) a partire dal 6<sup>o</sup> anno di servizio con un preavviso di tre mesi.
+<sup>1</sup> Il primo mese di un rapporto di lavoro è considerato periodo di prova.
 
 #### Art. 11
 
-**Previdenza professionale e indennità di buonuscita**
+**Disdetta**
 
-Per il lavoratori non soggetti alla previdenza professionale obbligatoria il datore di lavoro all'atto della rescissione del rapporto di servizio di un impiegato almeno cinquantenne con 20 o più anni di servizio deve versare la seguente indennità di buonuscita:
+<sup>1</sup> Il rapporto di lavoro può essere disdetto come segue:
 
-**2 mensilità 3 mensilità 4 mensilità 5 mensilità 6 mensilità**
-
-- a) 20-25 anni di servizio
-
-- b) 26-30 anni di servizio
-
-- c) 31-35 anni di servizio
-
-- d) 36-40 anni di servizio
-
-- e) oltre 40 anni di servizio
+- a) durante il periodo di prova, in qualsiasi momento con un termine di disdetta di sette giorni;
+- b) dopo il periodo di prova, nel primo anno di servizio con un termine di disdetta di un mese, dal secondo al nono anno di servizio con un termine di disdetta di due mesi e a partire dal decimo anno di servizio con un termine di disdetta di tre mesi per la fine di un mese.
 
 #### Art. 12
 
-**Assicurazione malattie**
+**Previdenza professionale e indennità di partenza**
 
-<sup>1</sup> Il datore di lavoro ha l'obbligo di accertarsi che il lavoratore abbia stipulato un contratto di assicurazione malattie. All'occorrenza egli deve stipulare uno a favore dello stesso.
+<sup>1</sup> In caso di scioglimento del rapporto di lavoro, i datori di lavoro devono versare la seguente indennità di partenza ai lavoratori che hanno più di 50 anni, che hanno prestato servizio per almeno 20 anni presso lo stesso datore di lavoro e che non sono soggetti alla previdenza professionale obbligatoria:
 
-<sup>2</sup> L'assicurazione comprende le spese per la cura (medico, medicinali e spese ospedaliere), come pure un'indennità giornaliera per malattia pari all'80 percento del salario in contanti e in natura convenuto all'inizio dell'assicurazione a partire dal 31<sup>o</sup> giorno di malattia.
-
-<sup>3</sup> Il premi per l'assicurazione base sono a carico del lavoratore, quelli per l'assicurazione delle indennità giornaliere sono per metà a carico del datore di lavoro e per metà a carico del lavoratore.
-
-<sup>4</sup> In caso di malattia del lavoratore il datore di lavoro ha il diritto di detrarre dal salario dovuto l‘indennità per malattia pagata dall'assicurazione.
+- a) con 20 fino a 25 anni di servizio: 2 mensilità
+- b) con 26 fino a 30 anni di servizio: 3 mensilità
+- c) con 31 fino a 35 anni di servizio: 4 mensilità
+- d) con 36 fino a 40 anni di servizio: 5 mensilità
+- e) con oltre 40 anni di servizio: 6 mensilità
 
 #### Art. 13
 
-**Entrata in vigore, abrogazione del diritto finora vigente**
+**Assicurazione malattia e contro gli infortuni**
 
-<sup>1</sup> Il presente contratto normale di lavoro entra in vigore il 1<sup>o</sup> dicembre 1998.
+<sup>1</sup> I datori di lavoro devono accertarsi che i lavoratori dispongano di un'assicurazione obbligatoria delle cure medico-sanitarie. Se necessario devono stipulare una tale assicurazione per i lavoratori. I premi sono a carico dei lavoratori.
 
-<sup>2</sup> A tale data viene abrogato l'omonimo contratto del 7 settembre 1987.
+<sup>2</sup> I datori di lavoro devono stipulare un'assicurazione d'indennità giornaliera per malattia a favore dei lavoratori per un importo pari all'80 per cento del salario con una durata delle prestazioni pari almeno a 720 giorni. Non è consentita una limitazione delle prestazioni per rapporti di lavoro a tempo determinato. I premi sono a carico dei datori di lavoro e dei lavoratori in ragione della metà ciascuno.
 
-**3**
+<sup>3</sup> I datori di lavoro devono assicurare i lavoratori contro gli infortuni professionali conformemente alla legge federale sull'assicurazione contro gli infortuni[^13-1]. Devono essere assicurati contro gli infortuni non professionali soltanto i lavoratori che in media prestano almeno otto ore di lavoro a settimana. I premi per l'assicurazione contro gli infortuni professionali sono a carico dei datori di lavoro, mentre quelli per l'assicurazione contro gli infortuni non professionali sono a carico dei lavoratori.
 
-1.7.2009
+[^13-1]: RS [832.20](https://db.clex.ch/link/Bund/832.20/it)
 
-## Altre note
-
-- [3] Testo giusta DG del 9 giugno 2009; entrato in vigore il 1° luglio 2009
+2022-006

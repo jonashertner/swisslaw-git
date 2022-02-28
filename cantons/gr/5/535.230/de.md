@@ -4,168 +4,163 @@ number: "535.230"
 title: Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis
 short: NAV LW
 language: de
-version: 2009-07-01
-corrected: 2014-10-19
-version_adopted: 2009-06-09
+version: 2022-03-01
+version_adopted: 2022-02-01
 adopted: 2022-02-01
 in_force: 2022-03-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/535.230"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/295/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3235/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis
 
-Gestützt auf Art. 359, 359a und 360 des Schweizerischen Obligationenrechtes (OR)[^t-1] und Art. 11 der grossrätlichen Verordnung[^t-2] dazu
+(NAV LW)
 
-von der Regierung erlassen am 27. Oktober 1998
+Vom 01.02.2022 (Stand 01.03.2022)
 
-[^t-1]: SR 220
-[^t-2]: BR 210.200
+Gestützt auf Art. 359, Art. 359a und Art. 360 des Schweizerischen Obligationenrechts[^ingress-1] und Art. 10 des Einführungsgesetzes zum Schweizerischen Obligationenrecht[^ingress-2]
+
+von der Regierung erlassen am 1. Februar 2022
+
+[^ingress-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+[^ingress-2]: BR [210.200](https://www.gr-lex.gr.ch/data/210.200/de)
 
 #### Art. 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Der vorliegende Normalarbeitsvertrag ist anwendbar auf sämtliche Angestellten eines Landwirtschaftsbetriebes oder eines dazu gehörenden Nebenbetriebes ungeachtet ihres Anstellungsumfanges oder ihrer Anstellungsdauer.
+<sup>1</sup> Im Kanton Graubünden gilt für das Arbeitsverhältnis zwischen Arbeitnehmenden, die in einem landwirtschaftlichen Betrieb, Haushalt oder Nebenbetrieb beschäftigt sind, und ihren Arbeitgebenden dieser Normalarbeitsvertrag.
 
-<sup>2</sup> Anstellungsverträge und Vereinbarungen zwischen den Parteien dürfen keine Bestimmungen enthalten, die dem NAV zuwiderlaufen.
+<sup>2</sup> Ausgenommen vom Geltungsbereich sind Arbeitsverhältnisse:
 
-<sup>3</sup> Ausgenommen sind die durch ein öffentlich-rechtliches Anstellungsverhältnis verpflichteten Angestellten.
+- a) zwischen Ehegatten oder Personen in eingetragener Partnerschaft;
+- b) mit Verwandten in auf- und absteigender Linie sowie deren Ehegattinnen beziehungsweise Ehegatten oder deren eingetragenen Partnerinnen beziehungsweise Partnern;
+- c) mit Schwiegertöchtern oder -söhnen, sofern diese den Betrieb zur Selbstbewirtschaftung übernehmen wollen.
 
-<sup>4</sup> Für Personen, die in einem Lehrverhältnis stehen, gelten die nachfolgenden Bestimmungen nur soweit, als der Lehrvertrag oder das Berufsbildungsrecht keine abweichenden Regelungen vorsehen.
+<sup>3</sup> Ausgenommen sind Arbeitsverhältnisse und Sachverhalte, auf die ein allgemein verbindlich erklärter Gesamtarbeitsvertrag oder ein anderer Normalarbeitsvertrag anwendbar ist.
+
+<sup>4</sup> Die Arbeitgebenden haben die geleistete Arbeitszeit in Betriebszweigen, auf die ein allgemein verbindlich erklärter Gesamtarbeitsvertrag anwendbar ist, separat zu dokumentieren.
 
 #### Art. 2
 
-**Arbeits- und Ruhezeit 3)**
+**Abweichende Abreden und subsidiäres Recht**
 
-<sup>1</sup> Die tägliche Arbeitszeit richtet sich nach Ortsgebrauch und Jahreszeit.
+<sup>1</sup> Von diesem Normalarbeitsvertrag abweichende Abreden bedürfen zu ihrer Gültigkeit der schriftlichen Form.
 
-<sup>2</sup>[^2-1]Sie umfasst höchstens zehn Stunden. Die Vertragsparteien können unterschiedliche Sommer- und Winterarbeitszeiten vereinbaren, soweit die tägliche Arbeitszeit im Jahresdurchschnitt eingehalten wird.
+<sup>2</sup> Soweit dieser Normalarbeitsvertrag oder davon abweichende schriftliche Abreden keine Vorschriften enthalten, gelten ergänzend die Bestimmungen des Schweizerischen Obligationenrechts[^2-1].
 
-<sup>3</sup>[^2-2]Jugendlichen unter 18 Jahren ist eine zusammenhängende Ruhezeit von mindestens 10 Stunden pro Tag zu gewähren.
-
-[^2-1]: Fassung gemäss RB vom 9. Juni 2009; am 1. Juli 2009 in Kraft getreten.
-[^2-2]: Fassung gemäss RB vom 9. Juni 2009; am 1. Juli 2009 in Kraft getreten.
-[^2-3]: Fassung gemäss RB vom 9. Juni 2009; am 1. Juli 2009 in Kraft getreten. 1.7.2009 1
+[^2-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 3
 
-**Überstundenarbeit**[^2-3]
+**Arbeitszeit, Freizeit und Ruhezeit**
 
-<sup>1</sup> Arbeitnehmende haben bei dringendem Bedarf die ihnen nach Treu und Glauben zumutbaren Überstunden zu leisten.
+<sup>1</sup> Die Arbeitszeit beträgt 55 Stunden pro Woche. Die Vertragsparteien können unterschiedliche Sommer- und Winterarbeitszeiten vereinbaren, soweit die wöchentliche Arbeitszeit im Jahresdurchschnitt eingehalten wird.
 
-<sup>2</sup> Im Einverständnis mit dem Arbeitnehmer kann der Arbeitgeber die Überstundenarbeit im Verlauf des Dienstjahres durch Freizeit von mindestens gleicher Dauer ausgleichen.
+<sup>2</sup> Den Arbeitnehmenden ist jede Woche ein ganzer und ein halber Tag als Freizeit zu gewähren, welche innerhalb eines Monats zu beziehen ist. Fällt ein freier ganzer oder halber Tag auf einen gesetzlichen Feiertag ausserhalb eines Sonntags, so ist er innerhalb von drei Monaten auszugleichen.
+
+<sup>3</sup> Die tägliche Arbeit ist durch angemessene Pausen zu unterbrechen.
+
+<sup>4</sup> Jugendlichen unter 18 Jahren ist eine zusammenhängende Ruhezeit von mindestens zehn Stunden pro Tag zu gewähren.
 
 #### Art. 4
 
-**Lohn**
+**Überstundenarbeit**
 
-<sup>1</sup> Die Vereinbarung über den Lohn ist spätestens bei Arbeitsantritt im Anhang zu diesem Normalarbeitsvertrag schriftlich zu bestätigen.
+<sup>1</sup> Wird die Leistung von Überstunden nötig, so sind die Arbeitnehmenden dazu soweit verpflichtet, als sie dazu in der Lage sind und es ihnen nach Treu und Glauben zugemutet werden kann.
 
-<sup>2</sup> Der Lohn ist auf Ende eines jeden Monats mit einer schriftlichen Abrechnung auszurichten.
+<sup>2</sup> Jugendliche unter 18 Jahren dürfen nur in dringenden Ausnahmefällen Überstunden leisten.
+
+<sup>3</sup> Überstunden sind bis jeweils Ende April durch Freizeit von mindestens gleicher Dauer auszugleichen. Ist dies ausnahmsweise nicht möglich, so ist für die Überstunden der Lohn mit einem Zuschlag von mindestens 25 Prozent zu entrichten.
 
 #### Art. 5
 
-**Lohn bei Arbeitsverhinderung**
+**Lohn**
 
-Der Arbeitnehmer hat in den gesetzlich vorgesehenen Fällen der unverschuldeten Verhinderung an der Arbeitsleistung wie folgt Anspruch auf Lohnfortzahlung:
+<sup>1</sup> Der Lohn ist auf Ende eines jeden Monats mit einer schriftlichen Abrechnung auszurichten.
 
-**1 Monat 2 Monate 3 Monate 4 Monate**
-
-- a) im ersten und zweiten Dienstjahr
-
-- b) vom dritten bis fünften Dienstjahr
-
-- c) vom sechsten bis zehnten Dienstjahr
-
-- d) ab elftem Dienstjahr
+<sup>2</sup> Zu Beginn des Arbeitsverhältnisses haben die Arbeitgebenden den Arbeitnehmenden eine schriftliche Bestätigung über den Lohn oder den allfälligen schriftlichen Arbeitsvertrag sowie ein Exemplar dieses Normalarbeitsvertrags auszuhändigen.
 
 #### Art. 6
 
-**Freizeit**
+**Lohn bei Arbeitsverhinderung**
 
-<sup>1</sup>[^6-1]Der Arbeitgeber hat dem Arbeitnehmer jede Woche eineinhalb freie Tage zu gewähren. Können diese nicht gewährt werden, sind sie im laufenden Monat zu kompensieren. Pro Monat muss mindestens ein freier Tag auf einen Sonntag fallen.
+<sup>1</sup> Die Arbeitnehmenden haben in den gesetzlich vorgesehenen Fällen der unverschuldeten Verhinderung an der Arbeitsleistung wie folgt Anspruch auf Lohnfortzahlung:
 
-<sup>2</sup> Dem Arbeitnehmer ist die erforderliche Zeit für den Besuch des Gottesdienstes einzuräumen.
+- a) im ersten und zweiten Dienstjahr: 1 Monat
+- b) vom dritten bis zum fünften Dienstjahr: 2 Monate
+- c) vom sechsten bis zum zehnten Dienstjahr: 3 Monate
+- d) ab dem elften Dienstjahr: 4 Monate
 
-<sup>3</sup>[^6-2]Fällt ein freier Tag oder Halbtag auf einen gesetzlichen Feiertag oder den 1. August, so kann er nicht kompensiert werden.
-
-[^6-1]: Fassung gemäss RB vom 9. Juni 2009; am 1. Juli 2009 in Kraft getreten.
-[^6-2]: Einfügung gemäss RB vom 9. Juni 2009; am 1. Juli 2009 in Kraft getreten. 2 1.7.2009
+<sup>2</sup> Mit dem Ende des Arbeitsverhältnisses endet auch die Lohnfortzahlung.
 
 #### Art. 7
 
-**Weiterbildung**
+**Bezahlter Urlaub**
 
-Der Besuch von freiwilligen Kursen und Vorträgen ist dem Arbeitnehmer nach den Möglichkeiten des Betriebes zu gestatten. Die dadurch ausfallende Arbeitszeit kann, sobald der Ausfall insgesamt länger als 2 Tage andauert, in angemessener Weise von der Freizeit abgezogen werden.
+<sup>1</sup> Die Arbeitnehmenden haben Anspruch auf bezahlten Urlaub:
+
+- a) von drei Tagen:
+  - 1\. bei der Geburt eigener Kinder, sofern kein Anspruch auf Erwerbsersatz besteht, sowie für die Adoption;
+  - 2\. beim Hinschied der Ehegattin oder des Ehegatten, der Partnerin oder des Partners, eigener Kinder, der Eltern oder von Geschwistern sowie für die Pflege erkrankter Angehöriger im selben Haushalt (pro Ereignis);
+- b) von zwei Tagen: bei der eigenen Heirat;
+- c) von einem Tag: bei der Heirat eigener Kinder, beim Hinschied von Schwiegereltern oder Verschwägerten, für die Stellensuche nach der Kündigung der Arbeitsstelle sowie bei Wohnungswechseln (maximal einmal jährlich).
 
 #### Art. 8
 
 **Ferien**
 
-Arbeitnehmern, welche das 50. Altersjahr erreicht haben und seit fünf oder mehr Jahren im Betrieb arbeiten, sind fünf Wochen Ferien zu gewähren.
+<sup>1</sup> Der Ferienanspruch der Arbeitnehmenden beträgt jährlich:
+
+- a) bis zum vollendeten 20. Altersjahr: 5 Wochen
+- b) ab dem vollendeten 50. Altersjahr nach fünf Dienstjahren: 5 Wochen
+- c) ansonsten: 4 Wochen
 
 #### Art. 9
 
-**Probezeit**
+**Unterkunft und Verpflegung**
 
-Die ersten zwei Wochen nach Antritt der Arbeit gelten als Probezeit.
+<sup>1</sup> Wohnen die Arbeitnehmenden auf dem landwirtschaftlichen Betrieb, auf dem sie arbeiten, so haben sie Anspruch auf quantitativ und qualitativ hinreichende Unterkunft und Verpflegung.
 
 #### Art. 10
 
-**Kündigung**
+**Probezeit**
 
-Das Arbeitsverhältnis kann wie folgt gekündigt werden:
-
-- a) während der Probezeit auf das Ende des der Kündigung folgenden dritten Tages;
-
-- b) nach Ablauf der Probezeit bis und mit 5. Dienstjahr mit einer Kündigungsfrist von zwei Monaten;
-
-- c) ab 6. Dienstjahr mit einer Kündigungsfrist von 3 Monaten.
+<sup>1</sup> Als Probezeit gilt der erste Monat eines Arbeitsverhältnisses.
 
 #### Art. 11
 
-**Berufliche Vorsorge und Abgangsentschädigung**
+**Kündigung**
 
-Für nicht der obligatorischen beruflichen Vorsorge unterstehende Arbeitnehmer hat der Arbeitgeber bei Auflösung des Dienstverhältnisses eines mindestens 50jährigen Angestellten mit 20 oder mehr Dienstjahren folgende Abgangsentschädigung zu entrichten:
+<sup>1</sup> Das Arbeitsverhältnis kann wie folgt gekündigt werden:
 
-**2 Monatslöhne 3 Monatslöhne 4 Monatslöhne 5 Monatslöhne 6 Monatslöhne**
-
-- a) 20-25 Dienstjahre
-
-- b) 26-30 Dienstjahre
-
-- c) 31-35 Dienstjahre
-
-- d) 36-40 Dienstjahre
-
-- e) über 40 Dienstjahre
+- a) während der Probezeit jederzeit mit einer Kündigungsfrist von sieben Tagen;
+- b) nach Ablauf der Probezeit im ersten Dienstjahr mit einer Kündigungsfrist von einem Monat, im zweiten bis zum neunten Dienstjahr mit einer Frist von zwei Monaten und ab dem zehnten Dienstjahr mit einer Frist von drei Monaten jeweils auf das Ende eines Monats.
 
 #### Art. 12
 
-**Krankenversicherung**
+**Berufliche Vorsorge und Abgangsentschädigung**
 
-<sup>1</sup> Der Arbeitgeber ist verpflichtet, sich über den Abschluss eines Krankenversicherungsvertrages des Arbeitnehmers zu vergewissern. Nötigenfalls hat er für den Arbeitnehmer einen solchen abzuschliessen.
+<sup>1</sup> Bei Auflösung des Arbeitsverhältnisses haben die Arbeitgebenden den Arbeitnehmenden, die das 50. Altersjahr vollendet haben, mindestens 20 Dienstjahre bei denselben Arbeitgebenden aufweisen und nicht der obligatorischen beruflichen Vorsorge unterstehen, folgende Abgangsentschädigung zu entrichten:
 
-<sup>2</sup> Die Versicherung umfasst die Kosten für die Krankenpflege (Arzt, Arznei und Spitalkosten) sowie ein Krankentaggeld in der Höhe von 80 Prozent des bei Versicherungsbeginn vereinbarten Bar- und Naturallohns ab 31. Krankheitstag.
-
-<sup>3</sup> Die Prämien für die Grundversicherung trägt der Arbeitnehmer, jene für die Taggeldversicherung gehen je zur Hälfte zu Lasten des Arbeitgebers und des Arbeitnehmers.
-
-<sup>4</sup> Im Krankheitsfall des Arbeitnehmers ist der Arbeitgeber berechtigt, das von der Versicherung bezahlte Krankengeld vom geschuldeten Lohn abzuziehen.
+- a) mit 20 bis 25 Dienstjahren: 2 Monatslöhne
+- b) mit 26 bis 30 Dienstjahren: 3 Monatslöhne
+- c) mit 31 bis 35 Dienstjahren: 4 Monatslöhne
+- d) mit 36 bis 40 Dienstjahren: 5 Monatslöhne
+- e) mit mehr als 40 Dienstjahren: 6 Monatslöhne
 
 #### Art. 13
 
-**Inkrafttreten, Aufhebung bisherigen Rechts**
+**Kranken- und Unfallversicherung**
 
-<sup>1</sup> Dieser Normalarbeitsvertrag tritt auf 1. Dezember 1998 in Kraft.
+<sup>1</sup> Die Arbeitgebenden haben sich zu vergewissern, dass die Arbeitnehmenden über eine obligatorische Krankenpflegeversicherung verfügen. Nötigenfalls haben sie für die Arbeitnehmenden eine solche abzuschliessen. Die Prämien gehen zulasten der Arbeitnehmenden.
 
-<sup>2</sup> Auf diesen Zeitpunkt wird der gleichnamige Vertrag vom 7. September 1987[^13-1] aufgehoben.
+<sup>2</sup> Die Arbeitgebenden haben zugunsten der Arbeitnehmenden eine Krankentaggeldversicherung in der Höhe von 80 Prozent des Lohns mit einer Leistungsdauer von mindestens 720 Tagen abzuschliessen. Eine Leistungseinschränkung für befristete Arbeitsverhältnisse darf nicht erfolgen. Die Prämien gehen je zur Hälfte zulasten der Arbeitgebenden und der Arbeitnehmenden.
 
-[^13-1]: AGS 1987, 1850 1.7.2009 3
+<sup>3</sup> Die Arbeitgebenden haben die Arbeitnehmenden gemäss dem Bundesgesetz über die Unfallversicherung[^13-1] gegen Berufsunfälle zu versichern. Gegen Nichtberufsunfälle sind nur Arbeitnehmende zu versichern, die durchschnittlich mindestens acht Stunden Arbeitszeit pro Woche leisten. Die Prämien für die Versicherung der Berufsunfälle tragen die Arbeitgebenden, jene für die Nichtberufsunfallversicherung die Arbeitnehmenden.
 
-## Weitere Fussnoten
+[^13-1]: SR [832.20](https://db.clex.ch/link/Bund/832.20/de)
 
-- [3] Fassung gemäss RB vom 9. Juni 2009; am 1. Juli 2009 in Kraft getreten.
+2022-006
