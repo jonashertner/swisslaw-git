@@ -1,132 +1,136 @@
 ---
 canton: GR
 number: "535.250"
-title: "Contratto normale di lavoro per l'alpeggio e la pastorizia"
+title: Contratto normale di lavoro per il personale impiegato sugli alpeggi e nel settore della pastorizia
 short: CNL alpe
 language: it
-version: 1998-12-01
-corrected: 2014-10-19
-version_adopted: 1998-10-27
+version: 2022-03-01
+version_adopted: 2022-02-01
 adopted: 2022-02-01
 in_force: 2022-03-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/535.250"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/296/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3236/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Contratto normale di lavoro per l'alpeggio e la pastorizia
+# Contratto normale di lavoro per il personale impiegato sugli alpeggi e nel settore della pastorizia
 
-emanato dal Governo il 27 ottobre 1998
+(CNL alpe)
 
-giusta gli art. 359, 359a e 360 del codice svizzero delle obbligazioni (CO)[^t-1] e l'art. 11 della relativa ordinanza del Gran Consiglio[^t-2]
+del 01.02.2022 (stato 01.03.2022)
 
-[^t-1]: RS 220
-[^t-2]: CSC 210.200 1.1.2009 1
+emanato dal Governo il 1° febbraio 2022
+
+visti l'art. 359, l'art. 359a e l'art. 360 del Codice svizzero delle obbligazioni[^ingress-1] nonché l'art. 10 della legge d'introduzione al Codice svizzero delle obbligazioni[^ingress-2]
+
+[^ingress-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
+[^ingress-2]: CSC [210.200](https://www.gr-lex.gr.ch/data/210.200/it)
 
 #### Art. 1
 
-**Campo di validità**
+**Campo d'applicazione**
 
-<sup>1</sup> Il presente contratto normale di lavoro vale per il personale alpestre e i pastori.
+<sup>1</sup> Nel Cantone dei Grigioni il rapporto di lavoro tra lavoratori dipendenti impiegati quali pastori sull'alpeggio o presso l'azienda a valle e i loro datori di lavoro viene disciplinato con il presente contratto normale di lavoro.
 
-<sup>2</sup> I contratti di assunzione e gli accordi tra le parti non possono contenere disposizioni contrarie il contratto normale di lavoro.
+<sup>2</sup> Sono esclusi dal campo d'applicazione i rapporti di lavoro seguenti:
 
-<sup>3</sup> Sono esclusi gli impiegati con contratto d'impiego di diritto pubblico.
+- a) tra coniugi o persone in unione domestica registrata;
+- b) con parenti in linea ascendente e discendente nonché i rispettivi coniugi o partner registrati;
+- c) con nuore o generi, qualora questi intendano rilevare l'azienda per gestirla in proprio.
 
-<sup>4</sup> Per le persone con contratto di tirocinio le disposizioni del contratto normale di lavoro valgono soltanto nella misura in cui il contratto di tirocinio o il diritto concernente la formazione professionale non prevedano regolamentazioni diverse.
+<sup>3</sup> Fanno eccezione rapporti di lavoro e fattispecie alle quali è applicabile un contratto collettivo di lavoro dichiarato di obbligatorietà generale oppure un altro contratto normale di lavoro.
 
 #### Art. 2
 
-**Orario normale di lavoro**
+**Accordi divergenti e diritto sussidiario**
 
-<sup>1</sup> L'orario quotidiano di lavoro si conforma alle esigenze dell'azienda.
+<sup>1</sup> Per essere validi, accordi divergenti dal presente contratto normale di lavoro necessitano della forma scritta.
 
-<sup>2</sup> Per quanto possibile esso non dovrebbe superare le 14 ore nel primo mese di alpeggio e le 11 ore più tardi.
+<sup>2</sup> Per quanto il presente contratto normale di lavoro o accordi scritti divergenti da esso non prevedano alcuna prescrizione, fanno stato a titolo integrativo le disposizioni del Codice svizzero delle obbligazioni[^2-1].
 
-<sup>3</sup> Per i giovani vale:
-
-**Periodo di riposo ininterrotto minimo 10 ore 12 ore**
-
-Età Orario di lavoro massimo 17-19 anni 10 ore 13-16 anni 8 ore
+[^2-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
 
 #### Art. 3
 
-**Lavoro straordinario**
+**Durata del lavoro normale**
 
-I lavoratori con meno di 19 anni possono prestare lavoro straordinario soltanto in casi d'emergenza non prevedibili.
+<sup>1</sup> La durata del lavoro si conforma alle esigenze dell'azienda. Per quanto possibile, nel primo mese di alpeggio non andrebbero superate le 14 ore al giorno e in seguito le 11 ore.
+
+<sup>2</sup> Per i giovani fanno stato le durate del lavoro e del riposo quotidiane seguenti:
+
+<table>
+<tr><th>Età</th><th>Durata del lavoro massima</th><th>Durata minima del riposo continuativo</th></tr>
+<tr><td>16-18 anni</td><td>10 ore</td><td>10 ore</td></tr>
+<tr><td>13-15 anni</td><td>8 ore</td><td>12 ore</td></tr>
+</table>
 
 #### Art. 4
 
-**Competenze**
+**Straordinari**
 
-<sup>1</sup> Il datore di lavoro ha l'obbligo di indicare al lavoratore le persone che lo rappresentano e sono le uniche ad avere la competenza di dargli degli ordini e di prescrivergli i compiti e i lavori
+<sup>1</sup> Se si rendono necessari degli straordinari, i lavoratori sono tenuti a prestarli soltanto se sono in grado di farlo e se lo si può pretendere da loro in buona fede.
 
-<sup>2</sup> Devono essere chiaramente stabiliti i rapporti di subordinazione e di responsabilità all'interno di un gruppo di lavoratori.
+<sup>2</sup> I giovani che hanno meno di 18 anni possono prestare straordinari solo in casi eccezionali urgenti.
 
 #### Art. 5
 
-**Salario**
+**Vacanze, tempo libero e giorni festivi**
 
-<sup>1</sup> Gli accordi sul salario devono essere firmati per iscritto in appendice al presente contratto normale di lavoro al più tardi all'entrata in servizio.
-
-<sup>2</sup> Di solito il salario viene corrisposto alle fine dell'alpeggio o della pastorizia, al più tardi comunque 14 giorni dopo. Per contro il datore di lavoro, su richiesta del lavoratore, deve accordare alla fine di ogni mese un anticipo che può ammontare fino a <sup>3</sup>/4 del salario mensile.
+<sup>1</sup> I lavoratori hanno diritto a vacanze, tempo libero e a giorni festivi riconosciuti non lavorativi. Questo diritto deve essere compensato con supplementi salariali, qualora per motivi aziendali non sia possibile usufruirne.
 
 #### Art. 6
 
-**Salario in caso di impedimento al lavoro**
+**Competenze**
 
-<sup>1</sup> Nei casi previsti dalla legge di impedimento a lavoro per ragioni indipendenti dalla volontà del lavoratore, egli ha diritto al seguente salario:
+<sup>1</sup> I datori di lavoro sono tenuti a indicare per iscritto ai lavoratori le persone che li rappresentano e che sono le uniche autorizzate a impartire disposizioni e a dare loro ordini riguardo ai compiti e ai lavori.
 
-**3 settimane**
-
-- nella prima e seconda estate di alpeggio o di pastorizia
-
-**4 settimane**
-
-- dalla terza alla quinta estate di alpeggio o di pastorizia
-
-**5 settimane**
-
-- dalla sesta alla decima estate di alpeggio o di pastorizia
-
-**6 settimane.**
-
-- dall'undicesima estate di alpeggio o di pastorizia in poi
-
-<sup>2</sup> Prima della stipulazione del contratto di lavoro il lavoratore deve informare il datore di lavoro su eventuali doveri di servizio quali il militare, la protezione civile, i pompieri, cariche politiche ecc. che coincidono con il periodo del rapporto di lavoro
+<sup>2</sup> I datori di lavoro stabiliscono per iscritto le responsabilità dei lavoratori. Inoltre i rapporti di subordinazione e di responsabilità in seno a un gruppo di lavoratori devono essere disciplinati in modo inequivocabile.
 
 #### Art. 7
 
-**Durata del rapporto di lavoro**
+**Salario**
 
-La durata del rapporto di lavoro di regola non si può né prevedere né definire con precisione. Essa si estende dalla tarda primavera fino agli inizi dell'autunno; normalmente il rapporto di lavoro dura meno di 100 giorni, al massimo tuttavia 130 giorni.
+<sup>1</sup> Il salario viene corrisposto alle fine dell'alpeggio o dell'attività di pastore, al più tardi comunque 14 giorni dopo. I lavoratori possono richiedere un acconto alla fine di ogni mese.
+
+<sup>2</sup> All'inizio del rapporto di lavoro i datori di lavoro devono consegnare ai lavoratori una conferma scritta relativa al salario oppure l'eventuale contratto di lavoro scritto nonché un esemplare del presente contratto normale di lavoro.
 
 #### Art. 8
 
-**Assicurazione malattie**
+**Salario in caso di impedimento al lavoro**
 
-<sup>1</sup> Il datore di lavoro ha l'obbligo di accertarsi che il lavoratore abbia stipulato un contratto di assicurazione malattie. All'occorrenza egli deve stipularne uno a favore dello stesso.
+<sup>1</sup> Nei casi di impedimento al lavoro senza colpa del lavoratore previsti dalla legge, il lavoratore ha diritto alla continuazione del versamento del salario come segue:
 
-<sup>2</sup> L'assicurazione comprende le spese per la cura (medico, medicinali e spese ospedaliere) come pure, a partire dal 31<sup>o</sup> giorno di malattia, un'indennità giornaliera per malattia che corrisponda all'80 percento del salario in contanti e in natura concordato all'inizio dell'assicurazione.
+- a) dalla prima alla quinta estate di alpeggio o di attività quale pastore: 4 settimane
+- b) dalla sesta alla decima estate di alpeggio o di attività quale pastore: 5 settimane
+- c) a partire dall'undicesima estate di alpeggio o di attività quale pastore: 6 settimane
 
-**2**
+<sup>2</sup> Con la conclusione del rapporto di lavoro cessa anche la continuazione del versamento del salario.
 
-1.1.2009
-
-<sup>3</sup> I premi per l'assicurazione base sono a carico del lavoratore, quelli per l'assicurazione delle indennità giornaliere sono per metà a carico del datore di lavoro e per metà a carico del lavoratore.
-
-<sup>4</sup> In caso di malattia del lavoratore il datore di lavoro ha il diritto di detrarre dal salario dovuto l'indennità per malattia pagata dall'assicurazione.
+<sup>3</sup> Prima di stipulare il contratto di lavoro i lavoratori devono informare i datori di lavoro in merito a eventuali doveri di servizio quali militare, protezione civile, pompieri, cariche politiche ecc. che coincidono con il periodo del rapporto di lavoro.
 
 #### Art. 9
 
-**Entrata in vigore, abrogazione del diritto finora vigente**
+**Durata del rapporto di lavoro**
 
-<sup>1</sup> Il presente contratto normale di lavoro entra in vigore il 1<sup>o</sup> dicembre 1998.
+<sup>1</sup> Il rapporto di lavoro nell'economia alpestre è a tempo determinato. La durata si conforma alla stagione d'alpeggio e comprende anche il tempo necessario per i lavori preparatori e conclusivi.
 
-<sup>2</sup> A tale data viene abrogato l'omonimo contratto del 7 settembre 1987.
+#### Art. 10
 
-**3**
+**Alloggio**
 
-1.1.2009
+<sup>1</sup> I lavoratori hanno diritto a un alloggio quantitativamente e qualitativamente sufficiente.
+
+#### Art. 11
+
+**Assicurazione malattia e contro gli infortuni**
+
+<sup>1</sup> I datori di lavoro devono accertarsi che i lavoratori dispongano di un'assicurazione obbligatoria delle cure medico-sanitarie. Se necessario devono stipulare una tale assicurazione per i lavoratori. I premi sono a carico dei lavoratori.
+
+<sup>2</sup> I datori di lavoro devono stipulare un'assicurazione d'indennità giornaliera per malattia a favore dei lavoratori per un importo pari all'80 per cento del salario con una durata delle prestazioni pari almeno a 720 giorni. Non è consentita una limitazione delle prestazioni per rapporti di lavoro a tempo determinato. I premi sono a carico dei datori di lavoro e dei lavoratori in ragione della metà ciascuno.
+
+<sup>3</sup> I datori di lavoro devono assicurare i lavoratori contro gli infortuni professionali conformemente alla legge federale sull'assicurazione contro gli infortuni[^11-1]. Devono essere assicurati contro gli infortuni non professionali soltanto i lavoratori che in media prestano almeno otto ore di lavoro a settimana. I premi per l'assicurazione contro gli infortuni professionali sono a carico dei datori di lavoro, mentre quelli per l'assicurazione contro gli infortuni non professionali sono a carico dei lavoratori.
+
+[^11-1]: RS [832.20](https://db.clex.ch/link/Bund/832.20/it)
+
+2022-007

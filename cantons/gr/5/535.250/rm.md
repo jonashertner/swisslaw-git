@@ -4,119 +4,133 @@ number: "535.250"
 title: "Contract normal da lavur per il persunal d'alp e per la pastriglia"
 short: CNL Alp
 language: rm
-version: 1998-12-01
-corrected: 2014-10-19
-version_adopted: 1998-10-27
+version: 2022-03-01
+version_adopted: 2022-02-01
 adopted: 2022-02-01
 in_force: 2022-03-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/535.250"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/296/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3236/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Contract normal da lavur per il persunal d'alp e per la pastriglia
 
-sa basond sin ils art. 359, 359a e 360 dal dretg d'obligaziuns (DO)[^t-1] e sin l'art. 11 da l'ordinaziun respectiva dal cussegl grond[^t-2]
+(CNL Alp)
 
-relaschà da la regenza ils 27 d'october 1998
+dals 01-02-2022 (versiun dals 01-03-2022)
 
-[^t-1]: CS 220
-[^t-2]: DG 210.200 1-1-1999 1
+Sa basond sin l'art. 359, l'art. 359a e l'art. 360 dal Dretg d'obligaziuns svizzer[^ingress-1] sco er sin l'art. 10 da la Lescha introductiva tar il Dretg d'obligaziuns svizzer[^ingress-2]
+
+relaschà da la Regenza il 1. da favrer 2022
+
+[^ingress-1]: CS [220](https://db.clex.ch/link/Bund/220/rm)
+[^ingress-2]: DG [210.200](https://www.gr-lex.gr.ch/data/210.200/rm)
 
 #### Art. 1
 
 **Champ d'applicaziun**
 
-<sup>1</sup> Il contract normal da lavur (CNL) qua avant maun è applitgabel per tut las emploiadas e per tut ils emploiads sin in'alp u per tut la pastriglia a chasa.
+<sup>1</sup> En il chantun Grischun vala quest contract normal da lavur per la relaziun da lavur tranter las lavurantas ed ils lavurants ch'èn engaschads sin in'alp u per la pastriglia a chasa e lur patrunas e patruns.
 
-<sup>2</sup> Contracts d'engaschament e cunvegnas tranter las parts contrahentas na dastgan cuntegnair naginas disposiziuns che s'opponan al CNL.
+<sup>2</sup> Exceptadas dal champ d'applicaziun èn las suandantas relaziuns da lavur:
 
-<sup>3</sup> Exceptads da quai èn las emploiadas u ils emploiads ch'èn suttamess ad ina relaziun d'engaschament da dretg public.
+- a) tranter conjugals u persunas en partenadi registrà;
+- b) cun parents en lingia ascendenta e descendenta sco er cun lur conjugalas respectivamain conjugals u cun lur partenaria registrada respectivamain partenari registrà;
+- c) cun brits u schenders, sche quellas e quels vulan surpigliar il manaschi per al administrar sez.
 
-<sup>4</sup> Per persunas che stattan en ina relaziun d'emprendissadi, valan las disposiziuns qua sutvart mo uschenavant ch'il contract d'emprendissadi u che la legislaziun davart la furmaziun professiunala na prevesan naginas regulaziuns divergentas.
+<sup>3</sup> Exceptads èn relaziuns da lavur e fatgs, per ils quals è applitgabel in contract collectiv da lavur cun vigur lianta u in auter contract normal da lavur.
 
 #### Art. 2
 
-**Temp da lavur normal**
+**Cunvegnas divergentas e dretg subsidiar**
 
-<sup>1</sup> Il temp da lavur per di sa drizza tenor las pretensiuns dal manaschi.
+<sup>1</sup> Cunvegnas che divergeschan da quest contract normal da lavur ston vegnir concludidas en scrit per esser valaivlas.
 
-<sup>2</sup> L'emprim mais sin l'alp na duain betg vegnir surpassadas 14 uras, pli tard – sche pussaivel – 11 uras.
+<sup>2</sup> Uschenavant che quest contract normal da lavur u cunvegnas divergentas fixadas en scrit na cuntegnan naginas prescripziuns, valan cumplementarmain las disposiziuns dal Dretg d'obligaziuns[^2-1].
 
-<sup>3</sup> Per persunas giuvenilas vala:
-
-vegliadetgna temp maximal da lavur temp da paus minimal nuninterrut 17 – 19 onns 10 uras 10 uras 13 – 16 onns 8 uras 12 uras
+[^2-1]: CS [220](https://db.clex.ch/link/Bund/220/rm)
 
 #### Art. 3
 
-**Uras da lavur supplementaras**
+**Temp da lavur normal**
 
-Lavurantas e lavurants sut 19 onns dastgan prestar uras da lavur supplementaras mo en cas d'urgenza betg previsibels.
+<sup>1</sup> Il temp da lavur sa drizza tenor las pretensiuns dal manaschi. L'emprim mais sin l'alp na duain betg vegnir surpassadas 14 uras per di, pli tard – sche pussaivel – 11 uras per di.
+
+<sup>2</sup> Per giuvenils valan ils suandants temps da lavur e da paus per di:
+
+<table>
+<tr><th>Vegliadetgna</th><th>Temp da lavur maximal</th><th>Temp da paus nuninterrut minimal</th></tr>
+<tr><td>16–18 onns</td><td>10 uras</td><td>10 uras</td></tr>
+<tr><td>13–15 onns</td><td>8 uras</td><td>12 uras</td></tr>
+</table>
 
 #### Art. 4
 
-**Cumpetenzas**
+**Lavur supplementara**
 
-<sup>1</sup> La patruna u il patrun è obligà da numnar a la lavuranta u al lavurant las persunas che la u che al substitueschan e ch'èn sulettas autorisadas da dar cumonds e da far prescripziuns concernent las incumbensas e las lavurs.
+<sup>1</sup> Sch'i ston vegnir prestadas uras supplementaras, èn las lavurantas ed ils lavurants obligads da las prestar, uschenavant ch'ellas ed els èn en cas da far quai ed uschenavant che quai po vegnir pretendì dad ellas e dad els en buna fai.
 
-<sup>2</sup> Las relaziuns da subordinaziun e da responsabladad entaifer ina gruppa da lavurantas u da lavurants ston vegnir fixadas cleramain.
+<sup>2</sup> Giuvenils sut 18 onns dastgan prestar uras supplementaras mo en cas d'urgenza excepziunals.
 
 #### Art. 5
 
-**Salari**
+**Vacanzas, temp liber e firads**
 
-<sup>1</sup> La cunvegna davart il salari sto vegnir confermada en scrit en l'agiunta da quest contract normal da lavur il pli tard a chaschun dal cumenzament da la lavur.
-
-<sup>2</sup> Il salari vegn pajà per regla la fin da la stagiun d'alp u da la pastriglia, il pli tard però 14 dis suenter. Perencunter ha la patruna u il patrun da conceder a la lavuranta u al lavurant sin ses giavisch a la fin da mintga mais in pajament anticipà che dastga importar fin trais quarts da la quota mensila.
+<sup>1</sup> Las lavurantas ed ils lavurants han il dretg sin vacanzas, sin temp liber e sin firads uffizials libers da lavur. Quest dretg sto vegnir indemnisà cun supplements sin il salari, en cas ch'i n'è betg pussaivel da retrair ils dis libers per motivs da manaschi.
 
 #### Art. 6
 
-**Salari en cas d'impediment da lavur**
+**Cumpetenzas**
 
-<sup>1</sup> La lavuranta u il lavurant ha – en ils cas previs da la lescha concernent l'impediment da la prestaziun da lavur senza culpa – il dretg ch'il salari vegn pajà vinavant sco suonda:
+<sup>1</sup> Las patrunas ed ils patruns èn obligads da communitgar en scrit a las lavurantas ed als lavurants las persunas che substitueschan ellas ed els e ch'èn sulettas autorisadas da prender mesiras e da far prescripziuns concernent las incumbensas e las lavurs.
 
-- a) en l'emprima ed en la segunda stad sin l'alp u da pastriglia 3 emnas
-
-- b) da la terza fin la tschintgavla stad sin l'alp u da pastriglia 4 emnas
-
-- c) da la sisavla fin la dieschavla stad sin l'alp u da pastriglia 5 emnas
-
-**6 emnas**
-
-- d) a partir da la indeschavla stad sin l'alp u da pastriglia
-
-<sup>2</sup> La lavuranta u il lavurant ha da communitgar a la patruna u al patrun obligaziuns da servetsch sco militar, protecziun civila, pumpiers, uffizis politics e.u.v. che crodan en il temp da la relaziun da lavur, e quai avant che concluder il contract da lavur.
+<sup>2</sup> Las patrunas ed ils patruns fixeschan en scrit las responsabladads da las lavurantas e dals lavurants. Ultra da quai ston vegnir regladas cleramain las relaziuns da subordinaziun e da responsabladad entaifer ina gruppa da lavurantas e lavurants.
 
 #### Art. 7
 
-**Durada da la relaziun da lavur**
+**Salari**
 
-La durada da la relaziun da lavur na po per regla betg vegnir previsa e fixada ordavant en moda precisa. Ella s'extenda da la fin da la primavaira fin il cumenzament da l'atun; normalmain dura la relaziun da lavur main che 100 dis, maximalmain dentant 130 dis.
+<sup>1</sup> Il salari vegn pajà a la fin da la stagiun d'alp u a la fin da la pastriglia, il pli tard però 14 dis pli tard. Las lavurantas ed ils lavurants pon dumandar in pajament parzial mintgamai per la fin dal mais.
+
+<sup>2</sup> Al cumenzament da la relaziun da lavur ston las patrunas ed ils patruns surdar a las lavurantas ed als lavurants ina conferma en scrit davart il salari u l'eventual contract da lavur en scrit sco er in exemplar da quest contract normal da lavur.
 
 #### Art. 8
 
-**Assicuranza da persunas malsaunas**
+**Salari en cas d'in impediment da lavurar**
 
-<sup>1</sup> La patruna u il patrun è obligà da sa persvader che la lavuranta u ch'il lavurant haja fatg in contract d'assicuranza da persunas malsaunas. En cas da basegn ha ella u el da far in tal per la lavuranta u per il lavurant.
+<sup>1</sup> En ils cas previs da la lescha concernent l'impediment senza atgna culpa da lavurar han las lavurantas ed ils lavurants il dretg ch'il salari vegnia pajà vinavant sco suonda:
 
-<sup>2</sup> L'assicuranza cumpiglia ils custs per la tgira da persunas malsaunas (media u medi, medicaments e custs da l'ospital) sco er – a partir dal 31avel di da malsogna – ina diaria per persunas malsaunas en l'autezza
+- a) da la 1. fin la 5. stad sin l'alp u da pastriglia: 4 emnas
+- b) da la 6. fin la 10. stad sin l'alp u da pastriglia: 5 emnas
+- c) a partir da la 11. stad sin l'alp u da pastriglia: 6 emnas
 
-**2**
+<sup>2</sup> Cun la fin da la relaziun da lavur va er a fin il pajament cuntinuà dal salari.
 
-1-1-1999 dad 80 pertschient dal salari en daner blut ed en natiralias fixà il mument dal cumenzament da l'assicuranza.
-
-<sup>3</sup> Las premias per l'assicuranza fundamentala porta la patruna u il patrun, talas per l'assicuranza da diarias van – mintgamai per la mesadad – a donn e cust da la patruna u dal patrun e da la lavuranta u dal lavurant.
-
-<sup>4</sup> En cas da malsogna da la lavuranta u dal lavurant ha la patruna u il patrun il dretg da deducir dal salari debità l'indemnisaziun per la malsogna che vegn pajada da l'assicuranza.
+<sup>3</sup> Las lavurantas ed ils lavurants han da communitgar a las patrunas ed als patruns eventualas obligaziuns da servetsch sco militar, protecziun civila, pumpiers, uffizis politics e.u.v. che crodan en il temp da la relaziun da lavur, e quai avant che concluder il contract da lavur.
 
 #### Art. 9
 
-**Entrada en vigur, aboliziun dal dretg vertent**
+**Durada da la relaziun da lavur**
 
-<sup>1</sup> Quest contract normal da lavur entra en vigur il 1. da december 1998.
+<sup>1</sup> La relaziun da lavur en l'economia d'alp è da durada limitada. La durada sa drizza tenor la stad ad alp e cumpiglia er il temp per las lavurs da preparaziun e da finiziun.
 
-<sup>2</sup> Per quest termin vegn abolì il contract cun il medem titel dals 7 da settember 1987[^9-1].
+#### Art. 10
 
-[^9-1]: CUL 1987, 1856 1-1-1999 3
+**Alloschi**
+
+<sup>1</sup> Las lavurantas ed ils lavurants han il dretg d'in alloschi suffizient areguard la quantitad ed areguard la qualitad.
+
+#### Art. 11
+
+**Assicuranza da malsauns ed assicuranza d'accidents**
+
+<sup>1</sup> Las patrunas ed ils patruns ston s'atschertar che las lavurantas ed ils lavurants han in'assicuranza obligatorica per la tgira da persunas malsaunas. Sche necessari ston ellas ed els far ina tala per las lavurantas ed ils lavurants. Las premias ston vegnir pajadas da las lavurantas e dals lavurants.
+
+<sup>2</sup> A favur da las lavurantas e dals lavurants ston las patrunas ed ils patruns far in'assicuranza da diarias per persunas malsaunas en l'autezza dad 80 pertschient dal salari cun ina durada da las prestaziuns d'almain 720 dis. Per relaziuns da lavur da durada limitada na dastgan las prestaziuns betg vegnir restrenschidas. Las premias van mintgamai per la mesadad a quint da las patrunas e dals patruns ed a quint da las lavurantas e dals lavurants.
+
+<sup>3</sup> Tenor la Lescha federala davart l'assicuranza d'accidents[^11-1] ston las patrunas ed ils patruns assicurar las lavurantas ed ils lavurants cunter accidents da lavur. Cunter accidents ordaifer la lavur ston vegnir assicurads mo las lavurantas ed ils lavurants che lavuran en media almain 8 uras per emna. Las premias per l'assicuranza cunter accidents da lavur vegnan pajadas da las patrunas e dals patruns, talas per l'assicuranza cunter accidents ordaifer la lavur da las lavurantas e dals lavurants.
+
+[^11-1]: CS [832.20](https://db.clex.ch/link/Bund/832.20/rm)
+
+2022-007
