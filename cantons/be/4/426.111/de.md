@@ -4,13 +4,13 @@ number: "426.111"
 title: Naturschutzverordnung
 short: NSchV
 language: de
-version: 2021-04-01
-valid_until: 2022-02-28
-version_adopted: 2021-02-17
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-02
 adopted: 1993-11-10
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2166/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2546/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2166/pdf_file"
 
 (NSchV)
 
-vom 10.11.1993 (Stand 01.04.2021)
+vom 10.11.1993 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -419,7 +419,7 @@ beschliesst:
 
 <sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion wählt für eine Amtsdauer von vier Jahren eine Fachkommission Biodiversität mit höchstens elf Mitgliedern und bezeichnet die Präsidentin oder den Präsidenten. Die Kommission besteht aus verwaltungsexternen Fachleuten, die sich mit Fragen der Biodiversität befassen.
 
-<sup>1a</sup> Die Wirtschafts-, Energie- und Umweltdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel das Recht, vorgängig eine Kandidatin oder einen Kandidaten vorzuschlagen.
+<sup>1a</sup> Die Wirtschafts-, Energie- und Umweltdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne das Recht, vorgängig eine Kandidatin oder einen Kandidaten vorzuschlagen.
 
 <sup>2</sup> Die Fachkommission Biodiversität nimmt aus fachlicher Sicht zuhanden des Amts für Landwirtschaft und Natur Stellung zu Vollzugsfragen von kantonaler Bedeutung betreffend Naturschutz, Agrarökologie und Landschaftsqualität.
 

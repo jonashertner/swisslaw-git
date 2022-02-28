@@ -4,13 +4,13 @@ number: "426.111"
 title: Ordonnance sur la protection de la nature
 short: OPN
 language: fr
-version: 2021-04-01
-valid_until: 2022-02-28
-version_adopted: 2021-02-17
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-02
 adopted: 1993-11-10
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2166/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2546/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2166/pdf_file"
 
 (OPN)
 
-du 10.11.1993 (état au 01.04.2021)
+du 10.11.1993 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -419,7 +419,7 @@ arrête:
 
 <sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement nomme onze membres au plus qui forment la Commission spécialisée de la biodiversité pour une période de fonction de quatre ans et en désigne le président ou la présidente. La commission est composée d’experts externes à l’administration qui traitent de questions ayant trait à la biodiversité.
 
-<sup>1a</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer en priorité un candidat ou une candidate.
+<sup>1a</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones de l'arrondissement de Biel/Bienne le droit de proposer en priorité un candidat ou une candidate.
 
 <sup>2</sup> La Commission spécialisée de la biodiversité, en sa qualité d’experte, prend position à l’attention de l’Office de l’agriculture et de la nature sur des questions d’importance cantonale relevant de l’exécution en matière de protection de la nature, d’agroécologie et de qualité du paysage.
 
