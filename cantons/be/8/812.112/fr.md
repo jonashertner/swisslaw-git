@@ -4,13 +4,13 @@ number: "812.112"
 title: Ordonnance sur les soins hospitaliers
 short: OSH
 language: fr
-version: 2022-01-01
-valid_until: 2022-02-28
-version_adopted: 2021-11-17
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-02
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2439/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2549/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2439/pdf_file"
 
 (OSH)
 
-du 23.10.2013 (état au 01.01.2022)
+du 23.10.2013 (état au 01.03.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -41,7 +41,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif nomme le président ou la présidente de chaque commission, sur proposition de la Direction de la santé, des affaires sociales et de l'intégration. Le directeur ou la directrice de la santé, des affaires sociales et de l'intégration nomme les autres membres.
 
-<sup>1a</sup> Le Conseil du Jura bernois et le Conseil des affaires francophones du district bilingue de Bienne sont consultés préalablement sur les candidatures issues du Jura bernois ou de l'arrondissement administratif de Biel/Bienne.
+<sup>1a</sup> Le Conseil du Jura bernois et le Conseil des affaires francophones de l'arrondissement de Biel/Bienne sont consultés préalablement sur les candidatures issues du Jura bernois ou de l'arrondissement administratif de Biel/Bienne.
 
 <sup>2</sup> Le mandat est de quatre ans. Il peut être reconduit.
 

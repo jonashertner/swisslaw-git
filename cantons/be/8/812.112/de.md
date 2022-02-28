@@ -4,13 +4,13 @@ number: "812.112"
 title: Spitalversorgungsverordnung
 short: SpVV
 language: de
-version: 2022-01-01
-valid_until: 2022-02-28
-version_adopted: 2021-11-17
+version: 2022-03-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-02
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2439/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2549/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2439/pdf_file"
 
 (SpVV)
 
-vom 23.10.2013 (Stand 01.01.2022)
+vom 23.10.2013 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -39,9 +39,9 @@ beschliesst:
 
 **Wahl**
 
-<sup>1</sup> Der Regierungsrat wählt auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion die Präsidentinnen oder Präsidenten der Kommissionen. Die Direktorin oder der Direktor der Gesundheits-, Sozial- und Integrationsdirektion wählt die weiteren Mitglieder.
+<sup>1</sup> Der Regierungsrat wählt auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion die Präsidentinnen und Präsidenten der Kommissionen. Die Direktorin oder der Direktor der Gesundheits-, Sozial- und Integrationsdirektion wählt die weiteren Mitglieder.
 
-<sup>1a</sup> Der Bernjurassische Rat und der Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel werden vorgängig zu den Mitgliedern aus dem Berner Jura oder aus dem Verwaltungskreis Biel/Bienne konsultiert.
+<sup>1a</sup> Der Bernjurassische Rat und der Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne werden vorgängig zu den Mitgliedern aus dem Berner Jura oder aus dem Verwaltungskreis Biel/Bienne konsultiert.
 
 <sup>2</sup> Die Amtsdauer beträgt vier Jahre. Die Mitglieder sind wiederwählbar.
 
