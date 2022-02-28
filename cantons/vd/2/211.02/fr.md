@@ -4,7 +4,7 @@ number: "211.02"
 title: CODE du 12.01.2010 de droit privé judiciaire vaudois (CDPJ)
 short: CDPJ
 language: fr
-version: 2019-03-01
+version: 2022-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.02?id=ad4e8c23-b444-4fb7-82a3-3149dc38ed0e"
 ---
 
@@ -119,10 +119,10 @@ décrète
 
 <sup>1</sup> Sont de la compétence du président du tribunal d'arrondissement les décisions et mesures prévues ci-après :
 
-- 1\. les décisions de protection de la personnalité contre la violence, les menaces et le harcèlement (art. 28b CC [^6-1] ), sous réserve de la compétence des tribunaux spécialisés ;
+- 1\. les décisions de protection de la personnalité contre la violence, les menaces et le harcèlement (art. 28b et 28c CC), sous réserve de la compétence des tribunaux spécialisés ;
 - 2\. les décisions relatives au droit de réponse (art. 28l CC) ;
-- 3\. les décisions relatives au droit d'accès aux données personnelles (art. 8 ss de la loi sur la protection des données personnelles, LPD [^6-2] ) ;
-- 4\. l'action en fourniture de renseignements lorsqu'une telle obligation est prévue par la loi matérielle (art. 170, al. 2, 275a, 607, al. 3 et 610, al. 2 CC ; art. 16 de la loi sur le partenariat, LPart [^6-3] ; art. 400, 541 et 600, al. 3 CO [^6-4] ) ou la jurisprudence (droit au renseignement de l'héritier réservataire évincé) et que la demande de renseignements n'est pas déduite devant une autre autorité judiciaire (art. 158 et 160 ss du Code de procédure civile suisse, ci-après : CPC [^6-5] ) ;
+- 3\. les décisions relatives au droit d'accès aux données personnelles (art. 8 ss de la loi sur la protection des données personnelles, LPD [^6-1] ) ;
+- 4\. l'action en fourniture de renseignements lorsqu'une telle obligation est prévue par la loi matérielle (art. 170, al. 2, 275a, 607, al. 3 et 610, al. 2 CC ; art. 16 de la loi sur le partenariat, LPart [^6-2] ; art. 400, 541 et 600, al. 3 CO [^6-3] ) ou la jurisprudence (droit au renseignement de l'héritier réservataire évincé) et que la demande de renseignements n'est pas déduite devant une autre autorité judiciaire (art. 158 et 160 ss du Code de procédure civile suisse, ci-après : CPC [^6-4] ) ;
 - 5\. la rectification de l'état civil (art. 42 CC) et l'action en constatation d'état civil et la déclaration d'absence (art. 35 CC) ;
 - 6\. l'exercice des prérogatives de l'autorité de surveillance sur une fondation de famille ou à caractère ecclésiastique (art. 87, al. 2 CC) ;
 - 7\. les décisions relatives à la fourniture de sûretés et à l'avis aux débiteurs en cas d'inexécution de l'obligation d'entretien après divorce (art. 132 CC) ;
@@ -145,7 +145,7 @@ décrète
 - 24\. l'obligation alimentaire (art. 328 et 329 CC) ;
 - 25\. alternativement à la juridiction ordinaire, la fixation de la créance de l'enfant majeur (art. 334 et 334bis CC) ;
 - 26\. la dissolution pour justes motifs de l'indivision de famille (art. 343, ch.5 et 348, al. 1 CC), l'indemnisation des participants de l'indivision en participation (art. 348, al. 2 CC) et le partage de l'indivision (art. 346 et 348, al. 3 CC) ;
-- 27\. l'action en partage successoral (art. 604 CC), y compris les décisions touchant à l'ajournement du partage (art. 604, al. 2 et 605 CC ; art. 12 de la loi fédérale sur le droit foncier rural, LDFR)[^6-6] ;
+- 27\. l'action en partage successoral (art. 604 CC), y compris les décisions touchant à l'ajournement du partage (art. 604, al. 2 et 605 CC ; art. 12 de la loi fédérale sur le droit foncier rural, LDFR)[^6-5] ;
 - 28\. l'action en rapport successoral (art. 626 ss CC) et en exercice des prélèvements légaux (art. 606 et 631, al. 2 CC), alternativement à la juridiction ordinaire ;
 - 29\. la désignation d'un représentant à la communauté héréditaire (art. 602, al. 3 CC) ;
 - 30\. la désignation du représentant de l'autorité chargée d'intervenir au partage pour représenter l'héritier insolvable (art. 609, al. 1 CC) ;
@@ -174,8 +174,8 @@ décrète
 - 53\. l'annulation d'un titre hypothécaire constitué en papier-valeur perdu, volé ou détruit ;
 - 54\. l'extinction des titres hypothécaires dont le créancier est resté inconnu pendant dix ans au moins ;
 - 55\. les actions possessoires (art. 927 et 928 CC) ;
-- 56\. la nomination d'un représentant au titulaire de droits réels immobiliers dans les cas prévus par le Code civil suisse (art. 666a, 666b [^6-7] et 823 CC) ;
-- 57\. la décision de réinscrire un droit réel immobilier ayant apparemment perdu toute valeur juridique (art. 976c CC [^6-8] ) ;
+- 56\. la nomination d'un représentant au titulaire de droits réels immobiliers dans les cas prévus par le Code civil suisse (art. 666a, 666b [^6-6] et 823 CC) ;
+- 57\. la décision de réinscrire un droit réel immobilier ayant apparemment perdu toute valeur juridique (art. 976c CC [^6-7] ) ;
 - 58\. la convocation d'une assemblée générale d'une association, d'une société anonyme (art. 699, al. 4 CO), d'une société en commandite par actions (art. 764, al. 2 CO), d'une société à responsabilité limitée (art. 805, al. 5 CO) ou d'une société coopérative (art. 881, al. 3 CO) ;
 - 59\. jusqu'à l'introduction du procès au fond, sur requête du créancier ou de la caution, la décision déterminant si les gages couvrent ou non la dette, dans les cas prévus à l'article 496, alinéa 2 CO ;
 - 60\. la suspension, à l'exclusion de toute autre autorité, sur requête de la caution, de la poursuite dirigée contre celle-ci dans le cas prévu par l'article 501, alinéa 2 CO ;
@@ -199,15 +199,14 @@ décrète
 - 78\. la révocation des pouvoirs du représentant de la communauté et des créanciers dans les emprunts par obligations et les mesures provisoires nécessaires (art. 1162, al. 3 et 4 CO) ;
 - 79\. la convocation de l'assemblée générale des créanciers dans la communauté des emprunts par obligations (art. 1165, al. 3 CO).
 
-[^5-7]: Modif. 7 du 14.12.2021: Modification Al. 1, 1; entrée en vigueur au 01.03.2022; Introduction Art. 51a, Al. 3-6; entrée en vigueur au 01.03.2022; Introduction Art. 174a; entrée en vigueur au 01.03.2022
-[^6-1]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
-[^6-2]: Loi du 11.09.2007 sur la protection des données personnelles ( [BLV 172.65](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.65?id=cf9df545-13f7-4106-a95b-9b3ab8fa8b01))
-[^6-3]: [Loi fédérale du 18.06.2004 sur le partenariat enregistré entre personnes du même sexe, RS 211.231](https://www.admin.ch/opc/fr/classified-compilation/20022194/index.html)
-[^6-4]: [Code des obligations du 30 mars 1911, RS 220](https://www.admin.ch/opc/fr/classified-compilation/19110009/index.html)
-[^6-5]: Code de procédure civile suisse du 19.12.2008 (RS 272)
-[^6-6]: Loi fédérale du 04.10.1991 sur le droit foncier rural (RS 211.412.11)
+[^5-7]: Modif. 7 du 14.12.2021: Modification Al. 1, 1; entrée en vigueur au 01.03.2022
+[^6-1]: Loi du 11.09.2007 sur la protection des données personnelles ( [BLV 172.65](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.65?id=cf9df545-13f7-4106-a95b-9b3ab8fa8b01))
+[^6-2]: [Loi fédérale du 18.06.2004 sur le partenariat enregistré entre personnes du même sexe, RS 211.231](https://www.admin.ch/opc/fr/classified-compilation/20022194/index.html)
+[^6-3]: [Code des obligations du 30 mars 1911, RS 220](https://www.admin.ch/opc/fr/classified-compilation/19110009/index.html)
+[^6-4]: Code de procédure civile suisse du 19.12.2008 (RS 272)
+[^6-5]: Loi fédérale du 04.10.1991 sur le droit foncier rural (RS 211.412.11)
+[^6-6]: Modification du 11 décembre 2009 - Cédule hypothécaire du registre et autre modifications - FF n°51 p. 7943 ss
 [^6-7]: Modification du 11 décembre 2009 - Cédule hypothécaire du registre et autre modifications - FF n°51 p. 7943 ss
-[^6-8]: Modification du 11 décembre 2009 - Cédule hypothécaire du registre et autre modifications - FF n°51 p. 7943 ss
 
 #### Art. 7
 
@@ -838,13 +837,21 @@ décrète
 
 #### Art. 51a
 
-**Dispositif de surveillance électronique [^51-1]**
+**Dispositif de surveillance électronique en cas de violence, menaces ou harcèlement (art. 28c CC) [^51-1]**
 
-<sup>1</sup> Lorsqu'une expulsion du domicile est prononcée, le président du tribunal d'arrondissement peut, sous réserve du droit fédéral, astreindre l'auteur de violence domestique à une surveillance électronique.
+<sup>1</sup> Lorsqu'une interdiction d'approche ou de périmètre ou une expulsion de domicile est prononcée, le président du tribunal d'arrondissement peut, si la partie demanderesse le requiert, astreindre l'auteur de violence, menace ou harcèlement à une surveillance électronique.
 
-<sup>2</sup> En cas de décision d'interdiction d'approche ou de périmètre, la durée de la surveillance électronique peut être prolongée pour la durée de cette interdiction.
+<sup>2</sup> Le président du tribunal d'arrondissement est le juge de l'exécution.
 
-[^51-1]: Modif. 4 du 26.09.2017: Introduction Art. 51a; entrée en vigueur au 01.11.2018 · Modif. 7 du 14.12.2021: Modification tArt; entrée en vigueur au 01.03.2022; Modification Al. 1-2; entrée en vigueur au 01.03.2022; Introduction Al. 3-6; entrée en vigueur au 01.03.2022; Introduction Art. 174a; entrée en vigueur au 01.03.2022
+<sup>3</sup> Si l'auteur refuse de manière injustifiée de porter un dispositif de surveillance, notamment en ne se présentant pas aux convocations de l'autorité chargée de l'exécution, les sanctions prévues à l'article 343, alinéa 1, lettres a à d CPC sont applicables.
+
+<sup>4</sup> Le Service pénitentiaire est chargé de l'exécution de la surveillance électronique. Il peut déléguer cette tâche à une entité publique ou à l'entité chargée de la probation. Un règlement d'application du Conseil d'Etat en définit les modalités.
+
+<sup>5</sup> Les données enregistrées relatives aux personnes concernées ne doivent être utilisées que pour l'exécution de l'interdiction. Elles sont effacées au plus tard douze mois après la fin de la mesure (art. 28c, al. 3 CC).
+
+<sup>6</sup> Les coûts de la mesure peuvent être mis à la charge de la personne concernée (art. 28c, al. 4 CC). Le tribunal cantonal est compétent pour édicter un tarif.
+
+[^51-1]: Modif. 4 du 26.09.2017: Introduction Art. 51a; entrée en vigueur au 01.11.2018 · Modif. 7 du 14.12.2021: Modification tArt; entrée en vigueur au 01.03.2022; Modification Al. 1-2; entrée en vigueur au 01.03.2022; Introduction Al. 3-6; entrée en vigueur au 01.03.2022
 
 #### Art. 52
 
@@ -2129,6 +2136,14 @@ décrète
 <sup>2</sup> Les dispositions du code de procédure civile vaudois du 14 décembre 1966 touchant à la protection de l'enfant, à l'interdiction et à la main levée de cette mesure, ainsi qu'à la procédure de privation de liberté à des fins d'assistance (art. 379 à 408, 605 et 617 de ce code), comme toutes autres dispositions utiles de cette loi à l'application des dispositions citées à l'alinéa 1, restent en vigueur jusqu'au même terme.
 
 [^174-1]: Disposition introduite par la révision du Code civil suisse - protection de l'adulte, droit des personnes et droit de la filiation dont l'entrée en vigueur n'a pas encore été fixée
+
+#### Art. 174a
+
+**Disposition transitoire de la modification du 14 décembre 2021 [^174-2]**
+
+<sup>1</sup> Le dispositif de surveillance électronique (art. 51a) peut s'appliquer rétroactivement aux procédures ouvertes avant l'entrée en vigueur de la présente loi.
+
+[^174-2]: Modif. 7 du 14.12.2021: Introduction Art. 174a; entrée en vigueur au 01.03.2022
 
 #### Art. 175
 
