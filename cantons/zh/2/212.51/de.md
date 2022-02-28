@@ -3,10 +3,10 @@ canton: ZH
 number: "212.51"
 title: Verordnung über die Organisation des Obergerichts
 language: de
-nachtrag: "89"
-valid_until: 2022-03-01
+version: "2022-03-01"
+nachtrag: "116"
 adopted: 2010-11-03
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_51-2010_11_03-2011_01_01-089.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_51-2010_11_03-2011_01_01-116.html"
 text: pdf
 ---
 
@@ -51,7 +51,7 @@ Das Gesamtgericht wählt bei seiner Konstituierung auf die gleiche Dauer:
 
 **1**
 
-- 1\. 7. 15 - 89
+- 1\. 4. 22 - 116
 
 - c. den Präsidenten oder die Präsidentin und den Vizepräsidenten oder die Vizepräsidentin des Handelsgerichts,
 
@@ -121,7 +121,7 @@ Das Gesamtgericht ist sodann zuständig für folgende Geschäfte und Aufgaben:
 
 **3**
 
-- 1\. 7. 15 - 89
+- 1\. 4. 22 - 116
 
 - f. Behandlung von Anfragen und Anregungen von Mitgliedern des Obergerichts,
 
@@ -135,9 +135,17 @@ Das Gesamtgericht ist sodann zuständig für folgende Geschäfte und Aufgaben:
 
 - l. Genehmigung des Reglements der Verwaltungskommission über die Delegation von Kompetenzen und die Verfügung über bewilligte Kredite.
 
-#### § 9
+§ 9.[^8-1] <sup>1</sup> Das Gesamtgericht hält so oft Sitzungen ab, als die Geschäfte es erfordern. Den Vorsitz führt der Obergerichtspräsident oder die Obergerichtspräsidentin, bei Verhinderung der erste Vizepräsident oder die erste Vizepräsidentin und bei deren Verhinderung die Mitglieder der Verwaltungskommission und die übrigen Vizepräsidenten oder Vizepräsidentinnen je nach ihrem Amtsalter.
 
-Das Gesamtgericht hält so oft Sitzungen ab, als die Geschäfte es erfordern. Den Vorsitz führt der Obergerichtspräsident oder die Obergerichtspräsidentin, bei Verhinderung der erste Vizepräsident oder die erste Vizepräsidentin und bei deren Verhinderung die Mitglieder der Verwaltungskommission und die übrigen Vizepräsidenten oder Vizepräsidentinnen je nach ihrem Amtsalter.
+<sup>2</sup> Wahlen erfolgen geheim, wenn die Zahl der Vorgeschlagenen diejenige der zu besetzenden Ämter übersteigt.
+
+<sup>3</sup> Abstimmungen erfolgen offen. Ein Viertel der anwesenden Mitglieder kann eine geheime Abstimmung verlangen.
+
+<sup>4</sup> Bei Stimmengleichheit a. entscheidet im Falle der geheimen Wahl nach dem letzten Wahlgang das Los,
+
+- b. ist bei geheimer Abstimmung das Geschäft abgelehnt.
+
+[^8-1]: Fassung gemäss B vom 27. Oktober 2021 (OS 77, 84; ABl 2021-11-05). In Kraft seit 1. März 2022.
 
 ### C. Die Zivil- und Strafkammern
 
@@ -181,13 +189,13 @@ Die Verwaltungskommission wird aus fünf Mitgliedern des Obergerichts gebildet. 
 
 Zu den Sitzungen der Verwaltungskommission können weitere Mitglieder des Obergerichts und Angestellte der Rechtspflege mit beratender Stimme beigezogen werden.
 
-#### § 18
+**5**
 
-<sup>1</sup> In die Zuständigkeit der Verwaltungskommission fallen:
+- 1\. 4. 22 - 116 § 18. <sup>1</sup> In die Zuständigkeit der Verwaltungskommission fallen:
 
 - a. die Rechtsprechung in Justizverwaltungssachen,
 
-- b. die Beurteilung von Beschwerden gegen Justizverwaltungsakte und Erlasse des Verwaltungsgerichts gemäss § 43 Abs. 2 lit. a und b VRG[^18-1],
+- b. die Beurteilung von Beschwerden gegen Justizverwaltungsakte und Erlasse des Verwaltungsgerichts gemäss § 43 Abs. 2 lit. a und b VRG[^17-1],
 
 - c. der Erlass von Kreisschreiben und Reglementen,
 
@@ -199,15 +207,11 @@ Zu den Sitzungen der Verwaltungskommission können weitere Mitglieder des Oberge
 
 - g. die Genehmigung der Geschäftsordnungen der Bezirksgerichte,
 
-**5**
+- h. der Erlass eines Reglements über die Delegation von Kompetenzen und die Verfügung über bewilligte Kredite,
 
-- 1\. 7. 15 - 89 der Erlass eines Reglements über die Delegation von Kompetenzen und die Verfügung über bewilligte Kredite, der Erlass der Hausordnung;
+- i. der Erlass der Hausordnung;
 
-**h.**
-
-**i. j.**
-
-die Personalentscheide:
+- j. die Personalentscheide:
 
 - 1\. über die Stellenpläne des Obergerichts sowie der Bezirksgerichte und des Notariatswesens,
 
@@ -215,7 +219,9 @@ die Personalentscheide:
 
 - 3\. über die Wahl und den voll- oder teilamtlichen Einsatz der Ersatzmitglieder der Bezirksgerichte,
 
-- 4\. über die Anstellung und die Entlassung der Abteilungschefs des Obergerichts auf Antrag des Generalsekretärs bzw. der Generalsekretärin sowie die Beförderung und die Entlassung der vom Gesamtobergericht angestellten Personen,
+- 4\. über die Anstellung und die Entlassung der Abteilungschefs des Obergerichts auf Antrag des Generalsekretärs bzw. der Generalsekretärin sowie die Beförderung und die Entlassung
+
+der vom Gesamtobergericht angestellten Personen,
 
 - 5\. über die Beförderung und die Bewilligung von Nebenbeschäftigungen von Mitgliedern der Bezirksgerichte sowie von Notaren und Notarinnen,
 
@@ -223,9 +229,7 @@ die Personalentscheide:
 
 - 7\. über die fristlose Entlassung von Mitgliedern oder Ersatzmitgliedern der Bezirksgerichte;
 
-**k.**
-
-die Aufsicht:
+- k. die Aufsicht:
 
 - 1\. über die Bezirksgerichte,
 
@@ -233,27 +237,27 @@ die Aufsicht:
 
 - 3\. über das Betreibungswesen,
 
-- 4\. über die Paritätische Schlichtungsbehörde für Streitigkeiten nach dem Gleichstellungsgesetz[^18-2];
+- 4\. über die Paritätische Schlichtungsbehörde für Streitigkeiten nach dem Gleichstellungsgesetz[^17-2];
 
-**l.**
-
-die Wahl:
+- l. die Wahl:
 
 - 1\. der Mitglieder der Prüfungskommission für die Betreibungsbeamten und Betreibungsbeamtinnen,
 
-- 2\. des oder der Vorsitzenden und der Stellvertretung sowie der weiteren Mitglieder der Paritätischen Schlichtungsbehörde für Streitigkeiten nach dem Gleichstellungsgesetz[^18-2],
+- 2\. des oder der Vorsitzenden und der Stellvertretung sowie der weiteren Mitglieder der Paritätischen Schlichtungsbehörde für Streitigkeiten nach dem Gleichstellungsgesetz[^17-2],
 
 - 3\. des oder der Vorsitzenden der Fachgruppe Dolmetscherwesen,
 
-- 4\. der Mitglieder der Fachkommission für psychiatrische und psychologische Begutachtung gemäss § 3 Abs. 1 lit. a, f, h und i PPGV sowie (nötigenfalls) des oder der Vorsitzenden;
+- 4\. der Mitglieder der Fachkommission für psychiatrische und psychologische Begutachtung gemäss § 3 Abs. 1 lit. a, f, h und i
 
-- m. die Entscheide gemäss §§ 2, 3 Abs. 2, 7 und 8 Anwaltsgesetz[^18-3],
+PPGV sowie (nötigenfalls) des oder der Vorsitzenden;
 
-- n. die Entscheide gemäss §§ 7 Abs. 3, 8 und 9 Notariatsgesetz[^18-4] in Verbindung mit §§ 32 Abs. 1, 33 und 34 Notariatsprüfungsverordnung[^18-5],
+- m. die Entscheide gemäss §§ 2, 3 Abs. 2, 7 und 8 Anwaltsgesetz[^17-3],
 
-- o. die Entscheide gemäss §§ 9 Satz 2, 10, 11, 30, 32 Abs. 2 und 35 Notariatsprüfungsverordnung[^18-5],
+- n. die Entscheide gemäss §§ 7 Abs. 3, 8 und 9 Notariatsgesetz[^17-4] in Verbindung mit §§ 32 Abs. 1, 33 und 34 Notariatsprüfungsverordnung[^17-5],
 
-- p. die Entscheide, die ihr gemäss der Notariatsverwaltungsverordnung[^18-6] zugewiesen sind,
+- o. die Entscheide gemäss §§ 9 Satz 2, 10, 11, 30, 32 Abs. 2 und 35 Notariatsprüfungsverordnung[^17-5],
+
+- p. die Entscheide, die ihr gemäss der Notariatsverwaltungsverordnung[^17-6] zugewiesen sind,
 
 - q. die Entscheide über nachträgliche Gesuche um Stundung und Erlass von Verfahrenskosten,
 
@@ -265,12 +269,12 @@ die Wahl:
 
 <sup>3</sup> Der Verwaltungskommission obliegt die Vorbereitung aller vom Gesamtgericht zu behandelnden Geschäfte mit dem Recht der Antragstellung.
 
-[^18-1]: LS 175.2.
-[^18-2]: SR 151.1.
-[^18-3]: LS 215.1.
-[^18-4]: LS 242.
-[^18-5]: LS 242.1.
-[^18-6]: LS 242.25.
+[^17-1]: LS 175.2.
+[^17-2]: SR 151.1.
+[^17-3]: LS 215.1.
+[^17-4]: LS 242.
+[^17-5]: LS 242.1.
+[^17-6]: LS 242.25.
 
 ### F. Rekurskommission
 
@@ -280,13 +284,13 @@ die Wahl:
 
 <sup>2</sup> Die Rekurskommission amtet anstelle der Verwaltungskommission als Rekursinstanz, wenn die Verwaltungskommission an die Vorinstanz im Einzelfall Rat oder Weisung erteilt hat.
 
+**7**
+
+- 1\. 4. 22 - 116
+
 <sup>3</sup> Vorbehalten bleibt in Personalsachen die Anrufung des Verwaltungsgerichts nach Massgabe des Verwaltungsrechtspflegegesetzes[^19-1].
 
 <sup>4</sup> Die Rekurskommission wird aus den fünf amtsältesten Mitgliedern des Obergerichts gebildet, die nicht Mitglieder oder Ersatzmitglieder der Verwaltungskommission sind.
-
-**7**
-
-- 1\. 7. 15 - 89
 
 [^19-1]: LS 175.2.
 
@@ -342,7 +346,7 @@ Die Leitenden Gerichtsschreiber und die Leitenden Gerichtsschreiberinnen sowie d
 
 **9**
 
-- 1\. 7. 15 - 89
+- 1\. 4. 22 - 116
 
 [^25-1]: LS 242.25.
 
@@ -423,7 +427,7 @@ Die Zuständigkeit der III. Zivilkammer bleibt im Sinne der Art. 404 und 405 ZPO
 
 **11**
 
-- 1\. 7. 15 - 89
+- 1\. 4. 22 - 116
 
 ### Q. Schlussbestimmung
 
