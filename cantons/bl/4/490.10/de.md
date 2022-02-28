@@ -4,13 +4,13 @@ number: "490.10"
 title: Energieförderverordnung
 short: EnFV BL
 language: de
-version: 2020-05-01
-valid_until: 2022-02-28
-version_adopted: 2020-06-23
+version: 2022-03-01
+valid_until: 2022-03-31
+version_adopted: 2022-01-25
 adopted: 2009-12-15
 in_force: 2010-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/490.10"
-pdf: "https://bl.clex.ch/api/de/versions/2697/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3232/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2697/pdf_file"
 
 (EnFV BL)
 
-Vom 15.12.2009 (Stand 01.05.2020)
+Vom 15.12.2009 (Stand 01.03.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
