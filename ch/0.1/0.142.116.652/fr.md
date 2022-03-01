@@ -3,11 +3,11 @@ sr: "0.142.116.652"
 title: Accord du 21 septembre 2009 entre le Conseil fédéral de la Confédération suisse et le Gouvernement de la Fédération de Russie visant à faciliter la délivrance de visas aux citoyens de la Fédération de Russie et de la Confédération suisse
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/75"
 language: fr
-version: 2011-02-01
+version: 2022-03-02
 adopted: 2009-09-21
 in_force: 2011-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/75/20110201/fr/xml/fedlex-data-admin-ch-eli-cc-2011-75-20110201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/75/20110201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/75/20220302/fr/xml/fedlex-data-admin-ch-eli-cc-2011-75-20220302-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/75/20220302/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,15 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/75/20110201/fr"
 
 RO **2011** 513
 
-Traduction*[^t-1]*
+Traduction
 
 Conclu le 21 septembre 2009
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> février 2011
 
-(Etat le 1<sup>er</sup> février 2011)
-
-[^t-1]: Texte original allemand.
+(Etat le 2 mars 2022)
 
 Les parties, le Conseil fédéral de la Confédération suisse et le Gouvernement de la Fédération de Russie,
 
@@ -73,8 +71,8 @@ Aux fins du présent Accord, on entend par:
 
 Après la date de la mise en application intégrale de l’acquis de Schengen par la Confédération suisse, le terme «visa» se réfère à une autorisation octroyée ou à une décision prise par la Confédération suisse ou par la Fédération de Russie, qui est nécessaire pour:
 
-- – entrer, pour un séjour d’une durée totale n’excédant pas 90 jours, sur le territoire de la Confédération suisse ou de la Fédération de Russie ou de plusieurs Etats Schengen;
-- – entrer en vue du transit sur le territoire de la Confédération suisse ou de la Fédération de Russie ou de plusieurs Etats Schengen.
+- – entrer, pour un séjour d’une durée totale n’excédant pas 90 jours, sur le territoire de la Confédération suisse ou de la Fédération de Russie ou de plusieurs États Schengen;
+- – entrer en vue du transit sur le territoire de la Confédération suisse ou de la Fédération de Russie ou de plusieurs États Schengen.
 
 <sup>3.</sup>
 
@@ -83,7 +81,7 @@ Après la date de la mise en application intégrale de l’acquis de Schengen pa
 - – pour la Confédération suisse, tout citoyen de la Fédération de Russie autorisé ou habilité, sur la base de la législation de la Confédération suisse, à séjourner plus de 90 jours sur le territoire de la Confédération suisse;
 - – pour la Fédération de Russie, tout citoyen de la Confédération suisse autorisé ou habilité, sur la base de la législation de la Fédération de Russie, à séjourner plus de 90 jours sur le territoire de la Fédération de Russie.
 
-<sup>4.</sup> «Etat membre de Schengen»: tout Etat appliquant l’acquis de Schengen dans sa totalité conformément à la signification de l’Accord du 26 octobre 2004 entre la Confédération suisse, l’Union européenne et la Communauté Européenne sur l’association de la Confédération suisse à la mise en oeuvre, à l’application et au développement de l’acquis de Schengen.
+<sup>4.</sup> «État membre de Schengen»: tout État appliquant l’acquis de Schengen dans sa totalité conformément à la signification de l’Accord du 26 octobre 2004 entre la Confédération suisse, l’Union européenne et la Communauté Européenne sur l’association de la Confédération suisse à la mise en oeuvre, à l’application et au développement de l’acquis de Schengen.
 
 #### Art. 4
 
@@ -93,13 +91,13 @@ Après la date de la mise en application intégrale de l’acquis de Schengen pa
 
 Pour les catégories suivantes de citoyens de la Confédération suisse et de la Fédération de Russie, la production des documents suivants suffit à justifier l’objet du voyage à destination du territoire de la Fédération de Russie ou de la Confédération suisse:
 
-- a)
+- a)[^4-1]
 
   pour les membres de délégations officielles qui, sur invitation officielle adressée à la Confédération suisse ou à la Fédération de Russie, participent à des réunions, consultations, négociations, programmes d’échanges ou événements organisés par des organisations intergouvernementales sur le territoire de la Fédération de Russie ou de la Confédération suisse:
 
   - – une lettre délivrée par une autorité compétente de la Confédération suisse ou de la Fédération de Russie confirmant que le demandeur est membre d’une délégation se rendant sur le territoire de la Fédération de Russie ou de la Confédération suisse pour participer à l’un des événements susmentionnés, assortie d’une copie de l’invitation officielle;
 
-- b)
+- b)[^4-2]
 
   pour les hommes et femmes d’affaires et les représentants d’entreprises:
 
@@ -164,7 +162,7 @@ Pour les catégories suivantes de citoyens de la Confédération suisse et de la
 L’invitation ou la demande écrite visée au par. 1 du présent article contient les informations suivantes:
 
 - a) pour la personne invitée: nom et prénom, date de naissance, sexe, nationalité, numéro de la pièce d’identité, date et objet du voyage, nombre d’entrées et nom des enfants mineurs qui l’accompagnent;
-- b) pour son hôte: nom, prénom et adresse; ou
+- b) pour son hôte: nom, prénom et adresse, ou
 - c) pour la personne morale, la société ou l’organisation hôte: nom et adresse complets et
   - – si l’invitation émane d’une organisation, le nom et la fonction de la personne qui signe la demande,
   - – si l’hôte est une personne morale ou une société, ou son bureau ou sa filiale, établi sur le territoire de la Confédération suisse: son numéro d’immatriculation, tel que requis par le droit national de la Confédération suisse,
@@ -172,23 +170,26 @@ L’invitation ou la demande écrite visée au par. 1 du présent article contie
 
 <sup>3.</sup> Pour les catégories de citoyens visées au par. 1 du présent article, toutes les catégories de visas sont délivrées selon la procédure simplifiée, sans qu’il y ait lieu de produire quelque autre justification, invitation ou validation concernant l’objet du voyage, tel que requis par le droit national de la Confédération suisse ou de la Fédération de Russie.
 
+[^4-1]: Supsendue par la note diplomatique du 28 fév. 2022, avec effet au 2 mars 2022 à 18 h 45 ([RO 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^4-2]: Supsendue par la note diplomatique du 28 fév. 2022, avec effet au 2 mars 2022 à 18 h 45 ([RO 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+
 #### Art. 5
 
-**Etablissement de visas à entrées multiples**
+**Établissement de visas à entrées multiples**
 
 <sup>1.</sup>
 
 Les missions diplomatiques et les postes consulaires de la Confédération suisse et de la Fédération de Russie délivrent des visas à entrées multiples, d’une durée de validité pouvant aller jusqu’à cinq ans, aux catégories suivantes de citoyens:
 
-- a) aux membres des gouvernements et parlements nationaux et régionaux ainsi qu’aux membres d’une cour constitutionnelle ou suprême, à moins que le présent Accord ne les exempte de l’obligation de visa, dans l’exercice de leurs fonctions et pour une durée de validité limitée à leur mandat s’il est inférieur à cinq ans;
+- a)[^5-1] aux membres des gouvernements et parlements nationaux et régionaux ainsi qu’aux membres d’une cour constitutionnelle ou suprême, à moins que le présent Accord ne les exempte de l’obligation de visa, dans l’exercice de leurs fonctions et pour une durée de validité limitée à leur mandat s’il est inférieur à cinq ans;
 - b) aux conjoints et aux enfants (adoptifs compris) n’ayant pas encore atteint l’âge de 21 ans révolus ou dépendants qui rendent visite à des citoyens de la Confédération suisse ou de la Fédération de Russie séjournant régulièrement, respectivement, sur le territoire de la Fédération de Russie ou de la Confédération suisse, pour une durée de validité limitée à celle de leur autorisation de séjour.
 
 <sup>2.</sup>
 
-Les missions diplomatiques et les postes consulaires de la Confédération suisse et de la Fédération de Russie délivrent des visas à entrées multiples, d’une durée de validité pouvant aller jusqu’à un an, aux catégories suivantes de citoyens, à condition que, durant l’année ayant précédé la demande, ces personnes aient obtenu au moins un visa, l’aient utilisé dans le respect de la législation régissant l’entrée et le séjour sur le territoire de l’Etat hôte et aient des raisons de solliciter un visa à entrées multiples:
+Les missions diplomatiques et les postes consulaires de la Confédération suisse et de la Fédération de Russie délivrent des visas à entrées multiples, d’une durée de validité pouvant aller jusqu’à un an, aux catégories suivantes de citoyens, à condition que, durant l’année ayant précédé la demande, ces personnes aient obtenu au moins un visa, l’aient utilisé dans le respect de la législation régissant l’entrée et le séjour sur le territoire de l’État hôte et aient des raisons de solliciter un visa à entrées multiples:
 
-- a) aux membres de délégations officielles qui, sur invitation officielle adressée à la Confédération suisse ou à la Fédération de Russie, doivent participer à des réunions, consultations, négociations ou programmes d’échanges officiels, ou à des événements organisés par des organisations intergouvernementales sur le territoire de la Fédération de Russie ou de la Confédération suisse;
-- b) aux hommes et femmes d’affaires et aux représentants d’entreprises se rendant régulièrement dans la Confédération suisse ou dans la Fédération de Russie;
+- a)[^5-2] aux membres de délégations officielles qui, sur invitation officielle adressée à la Confédération suisse ou à la Fédération de Russie, doivent participer à des réunions, consultations, négociations ou programmes d’échanges officiels, ou à des événements organisés par des organisations intergouvernementales sur le territoire de la Fédération de Russie ou de la Confédération suisse;
+- b)[^5-3] aux hommes et femmes d’affaires et aux représentants d’entreprises se rendant régulièrement dans la Confédération suisse ou dans la Fédération de Russie;
 - c) aux conducteurs fournissant des services de transport international de passagers et de marchandises entre les territoires de la Confédération suisse et de la Fédération de Russie dans des véhicules immatriculés dans la Confédération suisse ou dans la Fédération de Russie;
 - d) au personnel des wagons, wagons frigorifiques et locomotives de trains internationaux circulant entre le territoire de la Confédération suisse et celui de la Fédération de Russie;
 - e) aux personnes participant à des activités scientifiques, culturelles et artistiques, notamment des programmes d’échanges universitaires ou autres, qui se rendent régulièrement dans la Confédération suisse ou dans la Fédération de Russie;
@@ -196,11 +197,16 @@ Les missions diplomatiques et les postes consulaires de la Confédération suiss
 - g) aux journalistes;
 - h) aux participants à des programmes d’échanges officiels organisés par des villes jumelées.
 
-<sup>3.</sup> Les missions diplomatiques et les postes consulaires de la Confédération suisse et de la Fédération de Russie délivrent des visas à entrées multiples, d’une durée de validité de deux ans au moins et de cinq ans au plus, aux catégories de citoyens visées au par. 2 du présent article, sous réserve que, durant les deux années ayant précédé la demande, ces personnes aient utilisé leur visa à entrées multiples d’une durée d’un an dans le respect de la législation régissant l’entrée et le séjour sur le territoire de l’Etat hôte et que leurs raisons de solliciter un visa à entrées multiples soient toujours valables.
+<sup>3.</sup> Les missions diplomatiques et les postes consulaires de la Confédération suisse et de la Fédération de Russie délivrent des visas à entrées multiples, d’une durée de validité de deux ans au moins et de cinq ans au plus, aux catégories de citoyens visées au par. 2 du présent article, sous réserve que, durant les deux années ayant précédé la demande, ces personnes aient utilisé leur visa à entrées multiples d’une durée d’un an dans le respect de la législation régissant l’entrée et le séjour sur le territoire de l’État hôte et que leurs raisons de solliciter un visa à entrées multiples soient toujours valables.[^5-4]
 
 <sup>4.</sup> La durée totale du séjour des personnes visées aux par. 1 à 3 du présent article sur le territoire de la Confédération suisse, ou celui de la Fédération de Russie, ne peut excéder 90 jours par période de 180 jours.
 
-<sup>5.</sup> Après la date de la mise en application intégrale de l’acquis de Schengen par la Confédération suisse, la durée totale du séjour des personnes visées aux par. 1 à 3 du présent article sur le territoire de la Confédération suisse d’une part, de la Fédération de Russie ou d’un autre Etat Schengen d’autre part, ne peut excéder 90 jours par période de 180 jours.
+<sup>5.</sup> Après la date de la mise en application intégrale de l’acquis de Schengen par la Confédération suisse, la durée totale du séjour des personnes visées aux par. 1 à 3 du présent article sur le territoire de la Confédération suisse d’une part, de la Fédération de Russie ou d’un autre État Schengen d’autre part, ne peut excéder 90 jours par période de 180 jours.
+
+[^5-1]: Supsendue par la note diplomatique du 28 fév. 2022, avec effet au 2 mars 2022 à 18 h 45 ([RO 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^5-2]: Supsendue par la note diplomatique du 28 fév. 2022, avec effet au 2 mars 2022 à 18 h 45 ([RO 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^5-3]: Supsendue par la note diplomatique du 28 fév. 2022, avec effet au 2 mars 2022 à 18 h 45 ([RO 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^5-4]: Supsendu par la note diplomatique du 28 fév. 2022, avec effet au 2 mars 2022 à 18 h 45 ([RO 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
 
 #### Art. 6
 
@@ -224,7 +230,9 @@ Les catégories de personnes suivantes sont exonérées de droits de visa:
 - f) les personnes qui ont présenté des documents attestant la nécessité de leur voyage pour des raisons humanitaires, y compris pour recevoir un traitement médical urgent et la personne accompagnant cette personne, pour assister aux obsèques d’un proche parent, ou pour rendre visite à un proche parent gravement malade;
 - g) les participants à des manifestations sportives internationales dans la catégorie «junior» et les personnes qui les accompagnent;
 - h) les personnes participant à des activités scientifiques, culturelles et artistiques, y compris des programmes d’échanges universitaires et autres;
-- i) les participants à des programmes d’échanges officiels organisés par des villes jumelées.
+- i) les participants à des programmes d’échanges officiels organisés par des villes jumelées.[^6-1]
+
+[^6-1]: Supsendu par la note diplomatique du 28 fév. 2022, avec effet au 2 mars 2022 à 18 h 45 ([RO 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
 
 #### Art. 7
 
@@ -246,21 +254,23 @@ Les citoyens de la Confédération suisse et de la Fédération de Russie qui on
 
 **Prolongation du visa dans des circonstances exceptionnelles**
 
-Les citoyens de la Confédération suisse et de la Fédération de Russie qui, pour des raisons de force majeure, ne peuvent quitter, à la date indiquée dans leur visa, le territoire de la Fédération de Russie ou de la Confédération suisse voient leur visa prolongé gratuitement, conformément à la législation appliquée par l’Etat hôte, pour la durée nécessaire à leur retour dans leur Etat de domicile.
+Les citoyens de la Confédération suisse et de la Fédération de Russie qui, pour des raisons de force majeure, ne peuvent quitter, à la date indiquée dans leur visa, le territoire de la Fédération de Russie ou de la Confédération suisse voient leur visa prolongé gratuitement, conformément à la législation appliquée par l’État hôte, pour la durée nécessaire à leur retour dans leur État de domicile.
 
 #### Art. 10
 
 **Passeports diplomatiques**
 
-<sup>1.</sup> Les citoyens de la Confédération suisse et de la Fédération de Russie titulaires d’un passeport diplomatique valable peuvent entrer sur le territoire de la Fédération de Russie ou de la Confédération suisse, le quitter ou transiter par celui-ci sans visa.
+<sup>1.</sup> Les citoyens de la Confédération suisse et de la Fédération de Russie titulaires d’un passeport diplomatique valable peuvent entrer sur le territoire de la Fédération de Russie ou de la Confédération suisse, le quitter ou transiter par celui-ci sans visa.[^10-1]
 
 <sup>2.</sup> Les citoyens visés au par. 1 du présent article peuvent séjourner sur le territoire de la Fédération de Russie ou de la Confédération suisse pour une durée n’excédant pas 90 jours par période de 180 jours.
 
-<sup>3.</sup> Après la date de la mise en application intégrale de l’acquis de Schengen par la Confédération suisse, les citoyens visés au par. 1 du présent article sont autorisés à séjourner sur le territoire de la Fédération de Russie, d’une part, ou de la Confédération suisse ou d’un autre Etat Schengen, d’autre part, pour une durée totale de séjour ne pouvant excéder 90 jours par période de 180 jours.
+<sup>3.</sup> Après la date de la mise en application intégrale de l’acquis de Schengen par la Confédération suisse, les citoyens visés au par. 1 du présent article sont autorisés à séjourner sur le territoire de la Fédération de Russie, d’une part, ou de la Confédération suisse ou d’un autre État Schengen, d’autre part, pour une durée totale de séjour ne pouvant excéder 90 jours par période de 180 jours.
+
+[^10-1]: Supsendu par la note diplomatique du 28 fév. 2022, avec effet au 2 mars 2022 à 18 h 45 ([RO 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
 
 #### Art. 11
 
-**Echange de modèles de documents**
+**Échange de modèles de documents**
 
 <sup>1.</sup> Les parties s’échangent les modèles des passeports et des autres documents mentionnés dans le présent Accord par voie diplomatique, dans un délai maximum de 30 jours à compter de la date de la signature du présent Accord.
 
@@ -270,7 +280,7 @@ Les citoyens de la Confédération suisse et de la Fédération de Russie qui, p
 
 **Réunions d’experts**
 
-A la demande de la Confédération suisse ou de la Fédération de Russie, les parties organisent si nécessaire des réunions d’experts responsables de l’application du présent Accord.
+À la demande de la Confédération suisse ou de la Fédération de Russie, les parties organisent si nécessaire des réunions d’experts responsables de l’application du présent Accord.
 
 #### Art. 13
 

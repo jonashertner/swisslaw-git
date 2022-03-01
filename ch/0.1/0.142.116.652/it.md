@@ -3,11 +3,11 @@ sr: "0.142.116.652"
 title: Accordo del 21 settembre 2009 tra il Consiglio federale della Confederazione Svizzera e il Governo della Federazione russa di facilitazione del rilascio di visti ai cittadini della Federazione russa e della Confederazione Svizzera
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/75"
 language: it
-version: 2011-02-01
+version: 2022-03-02
 adopted: 2009-09-21
 in_force: 2011-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/75/20110201/it/xml/fedlex-data-admin-ch-eli-cc-2011-75-20110201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/75/20110201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/75/20220302/it/xml/fedlex-data-admin-ch-eli-cc-2011-75-20220302-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/75/20220302/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,13 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/75/20110201/it"
 
 RU **2011** 513
 
-Traduzione*[^t-1]*
+Traduzione
 
 Concluso il 21 settembre 2009 Entrato in vigore mediante scambio di note il 1° febbraio 2011
 
-(Stato 1° febbraio 2011)
-
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+(Stato 2 marzo 2022)
 
 Il Consiglio federale della Confederazione Svizzera e il Governo della Federazione russa
 
@@ -93,13 +91,13 @@ dalla data dell’applicazione integrale dell’acquis di Schengen da parte dell
 
 Per le seguenti categorie di cittadini della Confederazione Svizzera e della Federazione russa, i documenti di seguito indicati sono sufficienti per giustificare lo scopo del viaggio nel territorio della Federazione russa o della Confederazione Svizzera:
 
-- a)
+- a)[^4-1]
 
   membri di delegazioni ufficiali che, su invito ufficiale rivolto alla Confederazione Svizzera o alla Federazione russa, partecipano a riunioni, consultazioni, negoziati o programmi di scambio, o a eventi organizzati nel territorio della Federazione russa o della Confederazione Svizzera da organizzazioni intergovernative:
 
   - – una lettera emessa da un’autorità competente della Confederazione Svizzera o della Federazione russa attestante che il richiedente è membro della delegazione in viaggio nel territorio della Federazione russa o della Confederazione Svizzera per partecipare ai suddetti eventi, corredata di una copia dell’invito ufficiale;
 
-- b)
+- b)[^4-2]
 
   imprenditori e rappresentanti delle organizzazioni di categoria:
 
@@ -172,6 +170,9 @@ La richiesta scritta di cui al paragrafo 1 del presente articolo deve indicare:
 
 <sup>3.</sup> Per le categorie di cittadini di cui al paragrafo 1, tutti i tipi di visto sono rilasciati secondo la procedura semplificata, senza che siano necessari ulteriori inviti, giustificazioni o conferme dello scopo del viaggio previsti dalla normativa della Confederazione Svizzera o della Federazione russa.
 
+[^4-1]: Applicazione sospesa giusta la nota diplomatica del CF del 28 feb. 2022, in vigore dal 2 mar. 2022 alle ore 18.45 ([RU 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^4-2]: Applicazione sospesa giusta la nota diplomatica del CF del 28 feb. 2022, in vigore dal 2 mar. 2022 alle ore 18.45 ([RU 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+
 #### Art. 5
 
 **Rilascio di visti per più entrate**
@@ -180,15 +181,15 @@ La richiesta scritta di cui al paragrafo 1 del presente articolo deve indicare:
 
 Le missioni diplomatiche e gli uffici consolari della Confederazione Svizzera e della Federazione russa rilasciano visti per più entrate validi fino a cinque anni alle seguenti categorie di cittadini:
 
-- a) membri di governi e parlamenti nazionali e regionali, di corti costituzionali e di corti supreme, che non siano esonerati dall’obbligo del visto in virtù del presente Accordo, nell’esercizio delle loro funzioni, con validità limitata alla durata dell’incarico, se inferiore a cinque anni;
+- a)[^5-1] membri di governi e parlamenti nazionali e regionali, di corti costituzionali e di corti supreme, che non siano esonerati dall’obbligo del visto in virtù del presente Accordo, nell’esercizio delle loro funzioni, con validità limitata alla durata dell’incarico, se inferiore a cinque anni;
 - b) coniugi e figli (inclusi i figli adottivi) di età inferiore a 21 anni o figli a carico, in visita a cittadini della Confederazione Svizzera o della Federazione russa che soggiornano legalmente nel territorio della Federazione russa o della Confederazione Svizzera, con validità limitata alla validità dell’autorizzazione di soggiorno legale di tali cittadini.
 
 <sup>2.</sup>
 
 Le missioni diplomatiche e gli uffici consolari della Confederazione Svizzera e della Federazione russa rilasciano visti per più entrate validi fino a un anno alle seguenti categorie di cittadini, a condizione che nell’anno precedente tali persone abbiano ottenuto almeno un visto e l’abbiano usato conformemente alle disposizioni in materia di entrata e soggiorno vigenti nello Stato visitato e che sussistano motivi per richiedere un visto per più entrate:
 
-- a) membri di delegazioni ufficiali che, su invito ufficiale rivolto alla Confederazione Svizzera o alla Federazione russa, partecipano a riunioni ufficiali, consultazioni, negoziati o programmi di scambio, o a eventi organizzati nel territorio della Federazione russa o della Confederazione Svizzera da organizzazioni intergovernative;
-- b) imprenditori e rappresentanti delle organizzazioni di categoria che si recano regolarmente nella Confederazione Svizzera o nella Federazione russa;
+- a)[^5-2] membri di delegazioni ufficiali che, su invito ufficiale rivolto alla Confederazione Svizzera o alla Federazione russa, partecipano a riunioni ufficiali, consultazioni, negoziati o programmi di scambio, o a eventi organizzati nel territorio della Federazione russa o della Confederazione Svizzera da organizzazioni intergovernative;
+- b)[^5-3] imprenditori e rappresentanti delle organizzazioni di categoria che si recano regolarmente nella Confederazione Svizzera o nella Federazione russa;
 - c) autotrasportatori che effettuano servizi di trasporto internazionale di passeggeri o di merci tra i territori della Confederazione Svizzera e della Federazione russa con veicoli immatricolati nella Confederazione Svizzera o nella Federazione russa;
 - d) personale di treni, vagoni frigoriferi e locomotive su treni internazionali che viaggiano tra i territori della Confederazione Svizzera e della Federazione russa;
 - e) persone partecipanti ad attività scientifiche, culturali e artistiche, inclusi i programmi di scambi universitari o di altro tipo, le quali si recano regolarmente nel territorio della Confederazione Svizzera o della Federazione russa;
@@ -196,11 +197,16 @@ Le missioni diplomatiche e gli uffici consolari della Confederazione Svizzera e 
 - g) giornalisti;
 - h) partecipanti a programmi di scambio ufficiali organizzati da città gemellate.
 
-<sup>3.</sup> Le missioni diplomatiche e gli uffici consolari della Confederazione Svizzera e della Federazione russa rilasciano visti per più entrate validi da un minimo di due a un massimo di cinque anni alle categorie di cittadini di cui al paragrafo 2 del presente articolo, a condizione che nei due anni precedenti tali persone abbiano utilizzato un visto per più entrate valido per un anno conformemente alle disposizioni in materia di entrata e soggiorno vigenti nello Stato visitato, e che sussistano i motivi per richiedere un visto per più entrate.
+<sup>3.</sup> Le missioni diplomatiche e gli uffici consolari della Confederazione Svizzera e della Federazione russa rilasciano visti per più entrate validi da un minimo di due a un massimo di cinque anni alle categorie di cittadini di cui al paragrafo 2 del presente articolo, a condizione che nei due anni precedenti tali persone abbiano utilizzato un visto per più entrate valido per un anno conformemente alle disposizioni in materia di entrata e soggiorno vigenti nello Stato visitato, e che sussistano i motivi per richiedere un visto per più entrate.[^5-4]
 
 <sup>4.</sup> La durata totale del soggiorno nel territorio della Confederazione Svizzera o della Federazione russa delle persone di cui ai paragrafi 1‒3 non può essere superiore a 90 giorni per periodi di 180 giorni.
 
 <sup>5.</sup> Dopo la data dell’applicazione integrale dell’acquis di Schengen da parte della Confederazione Svizzera, la durata totale del soggiorno delle persone di cui ai paragrafi 1–3 del presente articolo non può essere superiore a 90 giorni per periodi di 180 giorni, sul territorio della Confederazione Svizzera, della Federazione russa o di un altro Stato Schengen.
+
+[^5-1]: Applicazione sospesa giusta la nota diplomatica del CF del 28 feb. 2022, in vigore dal 2 mar. 2022 alle ore 18.45 ([RU 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^5-2]: Applicazione sospesa giusta la nota diplomatica del CF del 28 feb. 2022, in vigore dal 2 mar. 2022 alle ore 18.45 ([RU 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^5-3]: Applicazione sospesa giusta la nota diplomatica del CF del 28 feb. 2022, in vigore dal 2 mar. 2022 alle ore 18.45 ([RU 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^5-4]: Applicazione sospesa giusta la nota diplomatica del CF del 28 feb. 2022, in vigore dal 2 mar. 2022 alle ore 18.45 ([RU 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
 
 #### Art. 6
 
@@ -224,7 +230,9 @@ Sono esenti dagli emolumenti per il trattamento delle domande di visto le seguen
 - f) le persone che hanno documentato la necessità del viaggio per motivi umanitari, per esempio allo scopo di sottoporsi a trattamenti medici urgenti (nel qual caso l’esonero è esteso agli accompagnatori) o di partecipare al funerale di un parente stretto o di visitare un parente stretto gravemente malato;
 - g) i partecipanti a eventi sportivi giovanili internazionali, compresi gli accompagnatori;
 - h) i partecipanti ad attività scientifiche, culturali ed artistiche, inclusi i programmi di scambi universitari o di altro tipo;
-- i) i partecipanti a programmi di scambio ufficiali organizzati da città gemellate.
+- i) i partecipanti a programmi di scambio ufficiali organizzati da città gemellate.[^6-1]
+
+[^6-1]: Applicazione sospesa giusta la nota diplomatica del CF del 28 feb. 2022, in vigore dal 2 mar. 2022 alle ore 18.45 ([RU 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
 
 #### Art. 7
 
@@ -252,11 +260,13 @@ Qualora, per motivi di forza maggiore, i cittadini della Confederazione Svizzera
 
 **Passaporti diplomatici**
 
-<sup>1.</sup> I cittadini della Confederazione Svizzera e della Federazione russa titolari di un passaporto diplomatico valido possono entrare, uscire e transitare nei territori della Federazione russa o della Confederazione Svizzera senza visto.
+<sup>1.</sup> I cittadini della Confederazione Svizzera e della Federazione russa titolari di un passaporto diplomatico valido possono entrare, uscire e transitare nei territori della Federazione russa o della Confederazione Svizzera senza visto.[^10-1]
 
 <sup>2.</sup> I cittadini di cui al paragrafo 1 del presente articolo possono soggiornare nel territorio della Federazione russa o della Confederazione Svizzera per 90 giorni al massimo durante periodi di 180 giorni.
 
 <sup>3.</sup> Dopo la data dell’applicazione integrale dell’acquis di Schengen da parte della Confederazione Svizzera, i cittadini di cui al paragrafo 1 del presente articolo possono soggiornare sul territorio della Federazione russa, della Confederazione Svizzera o di un altro Stato Schengen per 90 giorni al massimo durante periodi di 180 giorni.
+
+[^10-1]: Applicazione sospesa giusta la nota diplomatica del CF del 28 feb. 2022, in vigore dal 2 mar. 2022 alle ore 18.45 ([RU 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
 
 #### Art. 11
 

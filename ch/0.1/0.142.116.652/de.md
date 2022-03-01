@@ -3,11 +3,11 @@ sr: "0.142.116.652"
 title: Abkommen vom 21. September 2009 zwischen dem Bundesrat der Schweizerischen Eidgenossenschaft und der Regierung der Russischen Föderation über die Erleichterung der Visaerteilung für Staatsangehörige der Russischen Föderation und der Schweizerischen Eidgenossenschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/75"
 language: de
-version: 2011-02-01
+version: 2022-03-02
 adopted: 2009-09-21
 in_force: 2011-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/75/20110201/de/xml/fedlex-data-admin-ch-eli-cc-2011-75-20110201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/75/20110201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/75/20220302/de/xml/fedlex-data-admin-ch-eli-cc-2011-75-20220302-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/75/20220302/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 21. September 2009
 
 In Kraft getreten durch Notenaustausch am 1. Februar 2011
 
-(Stand am 1. Februar 2011)
+(Stand am 2. März 2022)
 
 Die Parteien, der Bundesrat der Schweizerischen Eidgenossenschaft und die Regierung der Russischen Föderation,
 
@@ -91,13 +91,13 @@ Nach der vollständigen Inkraftsetzung des Schengen-Besitzstands durch die Schwe
 
 Für folgende Kategorien von Staatsangehörigen der Schweizerischen Eidgenossenschaft und der Russischen Föderation genügen die nachstehenden Dokumente, um den Zweck ihrer Reise in das Hoheitsgebiet der Russischen Föderation oder der Schweizerischen Eidgenossenschaft zu begründen:
 
-- a)
+- a)[^4-1]
 
   für Mitglieder offizieller Delegationen, die aufgrund einer an die Schweizerische Eidgenossenschaft oder die Russische Föderation gerichteten offiziellen Einladung an Treffen, Beratungen, Verhandlungen oder Austauschprogrammen sowie an Veranstaltungen, die von zwischenstaatlichen Organisationen im Hoheitsgebiet der Russischen Föderationen oder der Schweizerischen Eidgenossenschaft durchgeführt werden, teilnehmen:
 
   - – ein von einer zuständigen Behörde der Schweizerischen Eidgenossenschaft oder der Russischen Föderation ausgefertigtes Schreiben, das bestätigt, dass die antragstellende Person Mitglied der Delegation ist, die zur Teilnahme an einer oben genannten Veranstaltung in das Hoheitsgebiet der Russischen Föderation oder der Schweizerischen Eidgenossenschaft reist, mit einer Kopie der offiziellen Einladung;
 
-- b)
+- b)[^4-2]
 
   für Geschäftsleute sowie Vertreterinnen und Vertreter von Unternehmensverbänden:
 
@@ -170,6 +170,9 @@ Das in Abschnitt 1 genannte schriftliche Gesuch muss folgende Angaben enthalten:
 
 <sup>3.</sup> Den in Absatz 1 genannten Kategorien von Staatsangehörigen werden alle Arten von Visa nach dem vereinfachten Verfahren ausgestellt, ohne dass im innerstaatlichen Recht der Schweizerischen Eidgenossenschaft oder der Russischen Föderation vorgesehene weitere Begründungen, Einladungen oder Bestätigungen zum Reisezweck erforderlich sind.
 
+[^4-1]: Anwendung suspendiert durch diplomatische Note des BR vom 28. Febr. 2022, in Kraft seit 2. März 2022 um 18.45 Uhr ([AS 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^4-2]: Anwendung suspendiert durch diplomatische Note des BR vom 28. Febr. 2022, in Kraft seit 2. März 2022 um 18.45 Uhr ([AS 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+
 #### Art. 5
 
 **Ausstellung von Mehrfachvisa**
@@ -178,15 +181,15 @@ Das in Abschnitt 1 genannte schriftliche Gesuch muss folgende Angaben enthalten:
 
 Diplomatische Missionen und konsularische Posten der Schweizerischen Eidgenossenschaft und der Russischen Föderation stellen den folgenden Kategorien von Staatsangehörigen Mehrfachvisa mit einer Gültigkeitsdauer von bis zu fünf Jahren aus:
 
-- a) Mitgliedern von nationalen und regionalen Regierungen und Parlamenten, von Verfassungsgerichten und obersten Gerichten, sofern sie nicht durch dieses Abkommen von der Visumpflicht befreit sind, zur Ausübung ihrer Amtsaufgaben und mit einer auf ihre Amtszeit begrenzten Gültigkeit, wenn die Amtszeit weniger als fünf Jahre dauert;
+- a)[^5-1] Mitgliedern von nationalen und regionalen Regierungen und Parlamenten, von Verfassungsgerichten und obersten Gerichten, sofern sie nicht durch dieses Abkommen von der Visumpflicht befreit sind, zur Ausübung ihrer Amtsaufgaben und mit einer auf ihre Amtszeit begrenzten Gültigkeit, wenn die Amtszeit weniger als fünf Jahre dauert;
 - b) Ehepartnern und unter 21-jährigen oder unterhaltsberechtigten Kindern (auch Adoptivkindern), die Staatsangehörige der Schweizerischen Eidgenossenschaft oder der Russischen Föderation besuchen, welche sich rechtmässig im Hoheitsgebiet der Russischen Föderation oder der Schweizerischen Eidgenossenschaft aufhalten, mit einer Gültigkeit, die auf die Gültigkeitsdauer der Aufenthaltserlaubnis dieser Staatsangehörigen begrenzt ist.
 
 <sup>2.</sup>
 
 Diplomatische Missionen und konsularische Posten der Schweizerischen Eidgenossenschaft und der Russischen Föderation stellen den folgenden Kategorien von Staatsangehörigen Mehrfachvisa mit einer Gültigkeitsdauer von bis zu einem Jahr aus, wenn diese im vorangehenden Jahr mindestens ein Visum erhalten und dieses gemäss den im besuchten Staat geltenden Einreise- und Aufenthaltsbestimmungen verwendet haben und wenn Gründe für die Beantragung eines Mehrfachvisums vorliegen:
 
-- a) Mitgliedern offizieller Delegationen, die aufgrund einer an die Schweizerische Eidgenossenschaft oder die Russische Föderation gerichteten offiziellen Einladung an offiziellen Treffen, Beratungen, Verhandlungen oder Austauschprogrammen sowie an Veranstaltungen, die von zwischenstaatlichen Organisationen im Hoheitsgebiet der Russischen Föderationen oder der Schweizerischen Eidgenossenschaft durchgeführt werden, teilnehmen;
-- b) Geschäftsleuten sowie Vertreterinnen und Vertretern von Unternehmensverbänden, die regelmässig in die Schweizerische Eidgenossenschaft oder in die Russische Föderation reisen;
+- a)[^5-2] Mitgliedern offizieller Delegationen, die aufgrund einer an die Schweizerische Eidgenossenschaft oder die Russische Föderation gerichteten offiziellen Einladung an offiziellen Treffen, Beratungen, Verhandlungen oder Austauschprogrammen sowie an Veranstaltungen, die von zwischenstaatlichen Organisationen im Hoheitsgebiet der Russischen Föderationen oder der Schweizerischen Eidgenossenschaft durchgeführt werden, teilnehmen;
+- b)[^5-3] Geschäftsleuten sowie Vertreterinnen und Vertretern von Unternehmensverbänden, die regelmässig in die Schweizerische Eidgenossenschaft oder in die Russische Föderation reisen;
 - c) Fahrerinnen und Fahrern, die mit Fahrzeugen, welche in der Schweizerischen Eidgenossenschaft oder in der Russischen Föderation registriert sind, internationale Personen- oder Frachttransporte zwischen den Hoheitsgebieten der Schweizerischen Eidgenossenschaft und der Russischen Föderation durchführen;
 - d) Angehörigen des Zugbegleit-, Kühlwagen- und Lokomotivpersonals in internationalen Zügen, die auf Fahrten zwischen den Hoheitsgebieten der Schweizerischen Eidgenossenschaft und der Russischen Föderation eingesetzt sind;
 - e) Personen, die an wissenschaftlichen, kulturellen und künstlerischen Aktivitäten, darunter Hochschul- und anderen Austauschprogrammen, teilnehmen und regelmässig in die Schweizerische Eidgenossenschaft oder in die Russische Föderation reisen;
@@ -194,11 +197,16 @@ Diplomatische Missionen und konsularische Posten der Schweizerischen Eidgenossen
 - g) Journalistinnen und Journalisten;
 - h) Teilnehmenden an offiziellen, von Partnerstädten organisierten Austauschprogrammen.
 
-<sup>3.</sup> Diplomatische Missionen und konsularische Posten der Schweizerischen Eidgenossenschaft und der Russischen Föderation stellen den in Absatz 2 genannten Kategorien von Staatsangehörigen Mehrfachvisa mit einer Gültigkeitsdauer von mindestens zwei bis höchstens fünf Jahren aus, wenn diese in den zwei vorangehenden Jahren die ein Jahr gültigen Mehrfachvisa gemäss den im besuchten Staat geltenden Einreise- und Aufenthaltsbestimmungen verwendet haben und die Gründe für die Beantragung eines Mehrfachvisums immer noch vorliegen.
+<sup>3.</sup> Diplomatische Missionen und konsularische Posten der Schweizerischen Eidgenossenschaft und der Russischen Föderation stellen den in Absatz 2 genannten Kategorien von Staatsangehörigen Mehrfachvisa mit einer Gültigkeitsdauer von mindestens zwei bis höchstens fünf Jahren aus, wenn diese in den zwei vorangehenden Jahren die ein Jahr gültigen Mehrfachvisa gemäss den im besuchten Staat geltenden Einreise- und Aufenthaltsbestimmungen verwendet haben und die Gründe für die Beantragung eines Mehrfachvisums immer noch vorliegen.[^5-4]
 
 <sup>4.</sup> Die Gesamtdauer des Aufenthalts der in den Absätzen 1–3 genannten Personen im Hoheitsgebiet der Schweizerischen Eidgenossenschaft oder der Russischen Föderation darf pro Zeitraum von 180 Tagen 90 Tage nicht übersteigen.
 
 <sup>5.</sup> Nach der vollständigen Inkraftsetzung des Schengen-Besitzstands durch die Schweizerische Eidgenossenschaft darf die Gesamtdauer des Aufenthalts der in den Absätzen 1–3 genannten Personen im Hoheitsgebiet der Schweizerischen Eidgenossenschaft bzw. im Hoheitsgebiet der Russischen Föderation oder anderer Schengen-Mitgliedstaaten 90 Tage pro Zeitraum von 180 Tagen nicht übersteigen.
+
+[^5-1]: Anwendung suspendiert durch diplomatische Note des BR vom 28. Febr. 2022, in Kraft seit 2. März 2022 um 18.45 Uhr ([AS 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^5-2]: Anwendung suspendiert durch diplomatische Note des BR vom 28. Febr. 2022, in Kraft seit 2. März 2022 um 18.45 Uhr ([AS 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^5-3]: Anwendung suspendiert durch diplomatische Note des BR vom 28. Febr. 2022, in Kraft seit 2. März 2022 um 18.45 Uhr ([AS 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
+[^5-4]: Anwendung suspendiert durch diplomatische Note des BR vom 28. Febr. 2022, in Kraft seit 2. März 2022 um 18.45 Uhr ([AS 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
 
 #### Art. 6
 
@@ -220,7 +228,9 @@ Folgende Personenkategorien sind von der Gebühr für die Bearbeitung von Visuma
 - f) Personen, die mit den vorgelegten Dokumenten nachweisen konnten, dass ihre Reise aus humanitären Gründen notwendig ist, beispielsweise um sich einer dringenden medizinischen Behandlung zu unterziehen – wobei in diesem Fall auch die sie begleitende Person befreit ist –, um an der Beisetzung einer oder eines nahen Verwandten teilzunehmen oder um eine schwerkranke nah verwandte Person zu besuchen;
 - g) Teilnehmende an internationalen Jugendsportveranstaltungen und Begleitpersonen;
 - h) Personen, die an wissenschaftlichen, kulturellen und künstlerischen Aktivitäten, darunter Hochschul- und anderen Austauschprogrammen, teilnehmen;
-- i) Teilnehmende an offiziellen, von Partnerstädten organisierten Austauschprogrammen.
+- i) Teilnehmende an offiziellen, von Partnerstädten organisierten Austauschprogrammen.[^6-1]
+
+[^6-1]: Anwendung suspendiert durch diplomatische Note des BR vom 28. Febr. 2022, in Kraft seit 2. März 2022 um 18.45 Uhr ([AS 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
 
 #### Art. 7
 
@@ -248,11 +258,13 @@ Staatsangehörigen der Schweizerischen Eidgenossenschaft und der Russischen Föd
 
 **Diplomatenpässe**
 
-<sup>1.</sup> Staatsangehörige der Schweizerischen Eidgenossenschaft und der Russischen Föderation, die im Besitz eines gültigen Diplomatenpasses sind, können ohne Visum in das Hoheitsgebiet der Russischen Föderation oder der Schweizerischen Eidgenossenschaft einreisen, aus diesem ausreisen und durch dieses durchreisen.
+<sup>1.</sup> Staatsangehörige der Schweizerischen Eidgenossenschaft und der Russischen Föderation, die im Besitz eines gültigen Diplomatenpasses sind, können ohne Visum in das Hoheitsgebiet der Russischen Föderation oder der Schweizerischen Eidgenossenschaft einreisen, aus diesem ausreisen und durch dieses durchreisen.[^10-1]
 
 <sup>2.</sup> Die in Absatz 1 genannten Staatsangehörigen dürfen sich höchstens 90 Tage pro Zeitraum von 180 Tagen im Hoheitsgebiet der Russischen Föderation oder der Schweizerischen Eidgenossenschaft aufhalten.
 
 <sup>3.</sup> Nach der vollständigen Inkraftsetzung des Schengen-Besitzstands in der Schweizerischen Eidgenossenschaft dürfen die in Absatz 1 genannten Staatsangehörigen sich höchstens 90 Tage pro Zeitraum von 180 Tagen im Hoheitsgebiet der Russischen Föderation bzw. im Hoheitsgebiet der Schweizerischen Eidgenossenschaft oder eines anderen Schengen-Staats aufhalten.
+
+[^10-1]: Anwendung suspendiert durch diplomatische Note des BR vom 28. Febr. 2022, in Kraft seit 2. März 2022 um 18.45 Uhr ([AS 2022 145](https://fedlex.data.admin.ch/eli/oc/2022/145)).
 
 #### Art. 11
 
