@@ -3,11 +3,11 @@ sr: "0.632.401.3"
 title: "Decisione n. 2/2021 del Comitato misto UE-Svizzera del 12 agosto 2021 che modifica l’Accordo tra la Confederazione Svizzera e la Comunità economica europea, sostituendo il suo protocollo n. 3 relativo alla definizione della nozione di «prodotti originari» e ai metodi di cooperazione amministrativa"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/727"
 language: it
-version: 2021-09-01
+version: 2022-03-04
 adopted: 2021-08-12
 in_force: 2021-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/727/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2021-727-20210901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/727/20210901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/727/20220304/it/xml/fedlex-data-admin-ch-eli-cc-2021-727-20220304-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/727/20220304/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/727/20210901/it"
 
 RU **2021** 727
 
-Adottata il 12 agosto 2021 Entrata in vigore il 31 agosto 2021 con effetto dal 1° settembre 2021
+Adottata il 12 agosto 2021 Entrata in vigore il 12 agosto 2021 con effetto dal 1° settembre 2021[^t-1]
 
-(Stato 1° settembre 2021)
+(Stato 4 marzo 2022)
+
+[^t-1]: Correzione del 4 mar. 2022 ([RU 2022 149](https://fedlex.data.admin.ch/eli/oc/2022/149)).
 
 Testo originale
 

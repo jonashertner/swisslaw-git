@@ -3,11 +3,11 @@ sr: "0.632.401.3"
 title: Décision n° 2/2021 du comité mixte UE-Suisse du 12 août 2021 portant modification de l’accord entre la Communauté économique européenne et la Confédération suisse par le remplacement de son protocole no 3 relatif à la définition de la notion de «produits originaires» et aux méthodes de coopération administrative
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/727"
 language: fr
-version: 2021-09-01
+version: 2022-03-04
 adopted: 2021-08-12
 in_force: 2021-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/727/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2021-727-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/727/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/727/20220304/fr/xml/fedlex-data-admin-ch-eli-cc-2021-727-20220304-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/727/20220304/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,9 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/727/20210901/fr"
 
 RO **2021** 727
 
-Adoptée le 12 août 2021 Entrée en vigueur le 31 août 2021 avec application à partir du 1<sup>er</sup> septembre 2021
+Adoptée le 12 août 2021 Entrée en vigueur le 12 août 2021 avec application à partir du 1<sup>er</sup> septembre 2021[^t-1]
 
-(Etat le 1<sup>er</sup> septembre 2021)
+(Etat le 4 mars 2022)
+
+[^t-1]: Erratum du 4 mars 2022 ([RO 2022 149](https://fedlex.data.admin.ch/eli/oc/2022/149)).
 
 Texte original
 

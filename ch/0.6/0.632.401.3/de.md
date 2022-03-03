@@ -3,11 +3,11 @@ sr: "0.632.401.3"
 title: Beschluss Nr. 2/2021 des Gemischten Ausschusses EU-Schweiz vom 12. August 2021 zur Änderung des Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft durch die Ersetzung des Protokolls Nr. 3 über die Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und über die Methoden der Zusammenarbeit der Verwaltungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/727"
 language: de
-version: 2021-09-01
+version: 2022-03-04
 adopted: 2021-08-12
 in_force: 2021-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/727/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2021-727-20210901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/727/20210901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/727/20220304/de/xml/fedlex-data-admin-ch-eli-cc-2021-727-20220304-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/727/20220304/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,9 +18,11 @@ AS **2021** 727
 
 zur Änderung des Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft durch die Ersetzung des Protokolls Nr. 3 über die Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und über die Methoden der Zusammenarbeit der Verwaltungen
 
-Angenommen am 12. August 2021 In Kraft getreten am 31. August 2021 mit Wirkung ab 1. September 2021
+Angenommen am 12. August 2021 In Kraft getreten am 12. August 2021 mit Wirkung ab 1. September 2021[^t-1]
 
-(Stand am 1. September 2021)
+(Stand am 4. März 2022)
+
+[^t-1]: Berichtigung vom 4. März 2022 ([AS 2022 149](https://fedlex.data.admin.ch/eli/oc/2022/149)).
 
 Originaltext
 
