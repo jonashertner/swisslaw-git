@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Verordnung vom 30. November 2012 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: de
-version: 2022-01-01
+version: 2022-03-04
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220304-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220304/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220101/de"
 
 (CO<sub>2</sub>-Verordnung)
 
-vom 30. November 2012 (Stand am 1. Januar 2022)
+vom 30. November 2012 (Stand am 4. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -826,7 +826,7 @@ Aufgehoben
 
 <sup>2</sup> Ein Betreiber von Anlagen, der eine Tätigkeit nach Anhang 6 neu aufnehmen will, muss dies dem BAFU spätestens drei Monate vor der geplanten Aufnahme der Tätigkeit melden.[^40-3]
 
-[^40-1]: Ausdruck gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^40-1]: Ausdruck gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Diese Änd. wurde im ganzen Erlass berücksichtigt. Die Berichtigung vom 4. März 2022 betrifft nur den französischen Text ([AS 2022 150](https://fedlex.data.admin.ch/eli/oc/2022/150)).
 [^40-2]: Fassung gemäss Ziff. I der V vom 8. Okt. 2014, in Kraft seit 1. Dez. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^40-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
@@ -3059,7 +3059,7 @@ Vorläufig rückerstattete Beträge, einschliesslich Zinsen, müssen zurückzahl
 
 [^chap12-sec2d-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
-**Art. 146**k
+#### Art. 146k
 
 Das BAFU kann die Frist nach Artikel 55 Absatz 3 für die Abgabe von Emissionsrechten des Jahres 2021 auf einen Termin nach dem 30. April 2022 verschieben, wenn sich die Berechnung der Menge der Emissionsrechte, die kostenlos zugeteilt werden, verzögert.
 
@@ -3490,7 +3490,7 @@ Im Sinne dieses Anhangs bedeuten:
 
 Für die Festlegung des Werts für den in den Berechnungen der Emissionsverminderungen notwendige Paramater Oxidationsfaktor (OX) ist der folgende Entscheidungsbaum zu verwenden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/de/xml/image/image1.png)
 
 ### 3.3 Ex-ante Berechnung der Emissionsverminderungen
 

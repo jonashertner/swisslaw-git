@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2022-01-01
+version: 2022-03-04
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220304-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220304/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220101/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 1° gennaio 2022)
+del 30 novembre 2012 (Stato 4 marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -824,7 +824,7 @@ L’UFE informa annualmente in forma appropriata la popolazione in merito al rag
 
 <sup>2</sup> Un gestore di impianti che vuole avviare un’attività secondo l’allegato 6 deve notificarlo all’UFAM al più tardi tre mesi prima del previsto avvio dell’attività.[^40-3]
 
-[^40-1]: Nuova espr. giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^40-1]: Nuova espr. giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Di detta mod. é tenuto conto in tutto il presente testo. La correzione del 4 mar. 2022 concerne soltanto il testo francese ([RU 2022 150](https://fedlex.data.admin.ch/eli/oc/2022/150)).
 [^40-2]: Nuovo testo giusta il n. I dell’O dell’8 ott. 2014, in vigore dal 1° dic. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^40-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
@@ -2806,7 +2806,7 @@ Le seguenti ordinanze sono abrogate:
 [^136-2]: [[RU 2007 2915](https://fedlex.data.admin.ch/eli/oc/2007/387); [2009 5945](https://fedlex.data.admin.ch/eli/oc/2009/726); [2010 953](https://fedlex.data.admin.ch/eli/oc/2010/153), [2167](https://fedlex.data.admin.ch/eli/oc/2010/296); [2011 17](https://fedlex.data.admin.ch/eli/oc/2011/6)art. 6, [1945](https://fedlex.data.admin.ch/eli/oc/2011/287), [3331](https://fedlex.data.admin.ch/eli/oc/2011/451)all. 3 n. 15; [2012 355](https://fedlex.data.admin.ch/eli/oc/2012/24)art. 29]
 [^136-3]: [[RU 2007 4531](https://fedlex.data.admin.ch/eli/oc/2007/638), [2011 6205](https://fedlex.data.admin.ch/eli/oc/2011/870)]
 [^136-4]: [[RU 2011 17](https://fedlex.data.admin.ch/eli/oc/2011/6)]
-[^136-5]: [[RU 2012 355](https://fedlex.data.admin.ch/eli/oc/2012/24), [1817](https://fedlex.data.admin.ch/eli/oc/2012/257)]
+[^136-5]: [[RU 2012 355](https://fedlex.data.admin.ch/eli/oc/2012/24)[1817](https://fedlex.data.admin.ch/eli/oc/2012/257)]
 
 #### Art. 137
 
@@ -3488,7 +3488,7 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/it/xml/image/image1.png)
 
 ### 3.3 Calcolo ex ante delle riduzioni delle emissioni
 

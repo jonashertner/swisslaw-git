@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordonnance du 30 novembre 2012 sur la réduction des émissions de CO<sub>2</sub> (Ordonnance sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: fr
-version: 2022-01-01
+version: 2022-03-04
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220304-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220304/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220101/fr"
 
 (Ordonnance sur le CO<sub>2</sub>)
 
-du 30 novembre 2012 (Etat le 1<sup>er</sup> janvier 2022)
+du 30 novembre 2012 (Etat le 4 mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -826,7 +826,7 @@ Abrogés
 
 <sup>2</sup> Un exploitant d’installations qui souhaite démarrer une des activités visées à l’annexe 6 en informe l’OFEV au moins trois mois avant le début de l’activité.[^40-3]
 
-[^40-1]: Nouvelle expression selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Il a été tenu compte de cette mod. dans tout le texte.
+[^40-1]: Nouvelle expression selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753); [2022 150](https://fedlex.data.admin.ch/eli/oc/2022/150)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 [^40-2]: Nouvelle teneur selon le ch. I de l’O du 8 oct. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^40-3]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
@@ -2558,13 +2558,17 @@ Les assureurs reçoivent, à titre d’indemnisation des tâches qu’ils accomp
 
 [^123-1]: [RS 814.018](https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972)
 
-### Section 4 Redistribution aux exploitants d’installations
+### Section 4 Redistribution aux milieux économiques****
+
+[^chap9-sec4-1]
+
+[^chap9-sec4-1]: Nouvelle expression selon l’erratum du 4 mars 2022, en vigueur depuis le 4 mars 2022 ([RO 2022 150](https://fedlex.data.admin.ch/eli/oc/2022/150)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 124
 
-**Part des exploitants d’installations**
+**Part des milieux économiques**
 
-<sup>1</sup> La part du produit de la taxe qui revient aux exploitants d’installations (part des exploitants d’installations) comprend la part du produit annuel estimé revenant aux exploitants d’installations pour l’année de prélèvement et la différence par rapport à la part estimée deux ans auparavant, ainsi que les moyens financiers visés à l’art. 34, al. 4, de la loi sur le CO<sub>2</sub> qui ne sont pas épuisés, moins la part de la population aux moyens financiers visés à l’art. 34, al. 4, de la loi sur le CO<sub>2</sub> qui n’ont pas été épuisés deux ans auparavant.[^124-1]
+<sup>1</sup> La part du produit de la taxe qui revient aux milieux économiques (part des milieux économiques) comprend la part du produit annuel estimé revenant aux milieux économiques pour l’année de prélèvement et la différence par rapport à la part estimée deux ans auparavant, ainsi que les moyens financiers visés à l’art. 34, al. 4, de la loi sur le CO<sub>2</sub> qui ne sont pas épuisés, moins la part de la population aux moyens financiers visés à l’art. 34, al. 4, de la loi sur le CO<sub>2</sub> qui n’ont pas été épuisés deux ans auparavant.[^124-1]
 
 <sup>2</sup> L’estimation du produit annuel se fonde sur une projection des recettes au 31 décembre, y compris les intérêts positifs et négatifs.
 
@@ -2574,13 +2578,13 @@ Les assureurs reçoivent, à titre d’indemnisation des tâches qu’ils accomp
 
 **Redistribution**
 
-<sup>1</sup> La part des exploitants d’installations est redistribuée par les caisses de compensation AVS (caisses de compensation), sur mandat et sous surveillance de l’OFEV et selon les instructions de l’Office fédéral des assurances sociales. La différence entre le montant estimé et le montant effectif, ainsi que la part de la population aux moyens financiers visés à l’art. 34, al. 4, de la loi sur le CO<sub>2</sub> qui ne sont pas épuisés sont compensés lors de la redistribution du produit de la taxe deux ans plus tard.[^125-1]
+<sup>1</sup> La part des milieux économiques est redistribuée par les caisses de compensation AVS (caisses de compensation), sur mandat et sous surveillance de l’OFEV et selon les instructions de l’Office fédéral des assurances sociales. La différence entre le montant estimé et le montant effectif, ainsi que la part de la population aux moyens financiers visés à l’art. 34, al. 4, de la loi sur le CO<sub>2</sub> qui ne sont pas épuisés sont compensés lors de la redistribution du produit de la taxe deux ans plus tard.[^125-1]
 
-<sup>2</sup> Les caisses de compensation redistribuent la part des exploitants d’installations au plus tard le 30 septembre de l’année de prélèvement. Sur demande, l’OFEV peut prolonger le délai de manière appropriée pour de justes motifs.[^125-2]
+<sup>2</sup> Les caisses de compensation redistribuent la part des milieux économiques au plus tard le 30 septembre de l’année de prélèvement. Sur demande, l’OFEV peut prolonger le délai de manière appropriée pour de justes motifs.[^125-2]
 
-<sup>3</sup> Elles redistribuent la part des exploitants d’installations proportionnellement au salaire déterminant versé aux employés deux ans avant l’année de prélèvement. La masse salariale corrigée après un contrôle des employeurs n’est pas prise en compte.
+<sup>3</sup> Elles redistribuent la part des milieux économiques proportionnellement au salaire déterminant versé aux employés deux ans avant l’année de prélèvement. La masse salariale corrigée après un contrôle des employeurs n’est pas prise en compte.
 
-<sup>4</sup> Les caisses de compensation redistribuent la part des exploitants d’installations en la déduisant des cotisations dues par l’employeur pour l’année de prélèvement ou en la versant à l’employeur. Les montants ne pouvant pas être déduits des cotisations sont versés à partir d’un montant de 50 francs. En cas de mutations, les montants à partir de 50 francs sont déduits des cotisations ou versés.[^125-3]
+<sup>4</sup> Les caisses de compensation redistribuent la part des milieux économiques en la déduisant des cotisations dues par l’employeur pour l’année de prélèvement ou en la versant à l’employeur. Les montants ne pouvant pas être déduits des cotisations sont versés à partir d’un montant de 50 francs. En cas de mutations, les montants à partir de 50 francs sont déduits des cotisations ou versés.[^125-3]
 
 [^125-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^125-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
@@ -3062,7 +3066,7 @@ Sont tenus de rembourser les sommes remboursées provisoirement, intérêts comp
 
 [^chap12-sec2d-1]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
-**Art. 146**k
+#### Art. 146k
 
 L’OFEV peut reporter le délai visé à l’art. 55, al. 3, concernant la remise des droits d’émission pour l’année 2021 à une date postérieure au 30 avril 2022 si le calcul de la quantité de droits d’émission attribués à titre gratuit est retardé.
 
@@ -3070,7 +3074,7 @@ L’OFEV peut reporter le délai visé à l’art. 55, al. 3, concernant la remi
 
 [^chap12-sec2e-1]
 
-[^chap12-sec2e-1]: Introduite par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022, à l’exception de l’art. 146m, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^chap12-sec2e-1]: Introduite par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022, à l’exception de l’art. 146*m*, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 146l
 
@@ -3493,7 +3497,7 @@ Au sens de la présente annexe, on entend par:
 
 Le facteur d’oxydation (OX) est un paramètre indispensable au calcul des réductions d’émissions. Le choix de sa valeur découle de l’arbre de décision suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/fr/xml/image/image1.png)
 
 ### 3.3 Calcul ex-ante des réductions d’émissions
 
@@ -3508,7 +3512,7 @@ où:
 - EB Efficacité de brûlage à la torche
 - OX Facteur d’oxydation
 - EA Efficacité d’aspiration
-- FOD<sub>CH4,y</sub> Quantité de méthane, calculée à l’aide d’une formule «*Fi**rst Order Decay*», générée dans la décharge durant l’année y [t CH4]; cf. formule (2)
+- FOD<sub>CH4,y</sub> Quantité de méthane, calculée à l’aide d’une formule «*First Order Decay*», générée dans la décharge durant l’année y [t CH4]; cf. formule (2)
 - EP<sub>y</sub> Émissions générées par le projet au cours de l’année y
 
 *FOD**<sub>CH4,y</sub>* *= (16/12) \* F \* DOC**<sub>f</sub>* *\* ∑**<sub>x</sub>* *∑**<sub>j</sub>* *D**<sub>j,x</sub>* *\* DOC**<sub>j</sub>* *\**
@@ -4627,8 +4631,6 @@ La vérification des rapports de suivi comprend les étapes suivantes:
 - 4\.2 Il doit être indépendant de l’exploitant d’aéronefs et exercer ses activités avec professionnalisme et objectivité.
 - 4\.3 Il doit justifier d’une compétence technique attestée en matière de vérification des données relatives aux émissions de CO<sub>2</sub> dans le secteur de l’aviation et d’une bonne connaissance de la procédure d’élaboration du rapport de suivi, en particulier aux stades de la collecte, de la mesure, du calcul et de la transmission des données.
 - 4\.4 Il doit avoir une bonne connaissance de l’ensemble des dispositions pertinentes ainsi que des prescriptions légales et administratives en vigueur.
-
-Prise en compte de droits d’émission Art. 146*t*
 
 [^annex18-lvlu1-lvl4-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^annex18-lvlu1-lvl4-2]: Règlement (CE) n<sup>o</sup> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n<sup>o</sup> 339/93 du Conseil, JO L 218 du 13.8.2008, p. 30.

@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinance of 30 November 2012 for the Reduction of CO<sub>2</sub> Emissions (CO<sub>2</sub> Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: en
-version: 2022-01-01
+version: 2022-03-04
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20220304-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20220304/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CO<sub>2</sub> Ordinance)
 
-of 30 November 2012 (Status as of 1 January 2022)
+of 30 November 2012 (Status as of 4 March 2022)
 
 The Swiss Federal Council,
 
@@ -819,7 +819,7 @@ Repealed
 
 <sup>2</sup> An installation operator that wishes to engage in an activity listed in Annex 6 for the first time must notify the FOEN no later than three months before the planned start to the activity.[^40-3]
 
-[^40-1]: Term in accordance with No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). This amendment has been made throughout the text.
+[^40-1]: Term in accordance with No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). This amendment has been made throughout the text. The correction of 4 May 2022 concerns the French text only ([AS 2022 150](https://fedlex.data.admin.ch/eli/oc/2022/150)).
 [^40-2]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^40-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
@@ -3046,6 +3046,81 @@ The following operators must repay provisionally refunded amounts, including int
 
 The FOEN may postpone the deadline under Article 55 paragraph 3 for the surrender of 2021 emission allowances to a date after 30 April 2022 if the calculation of the quantity of emission allowances to be allocated free of charge is delayed.
 
+### Section 2*e***** Transitional Provisions to the Amendment of 4 May 2022
+
+[^chap12-sec2e-1]
+
+[^chap12-sec2e-1]: Inserted by No I of the O of 4 May 2022, in force since 1 Jan. 2022, Art. 146*m* since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+
+#### Art. 146l
+
+**Counting emission reductions for projects outside Switzerland up to 2021**
+
+Emission reductions achieved outside Switzerland up to 2021 may be counted if:
+
+- a. they are attested to by an emission-reduction certificate under the United Nations Framework Convention on Climate Change (UNFCCC) of 9 May 1992[^146l-1]; and
+- b. Annex 2 does not preclude their being counted.
+
+[^146l-1]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+
+#### Art. 146m
+
+#### Art. 146n
+
+**Provisional refund of the 2022 CO<sub>2</sub> levy**
+
+<sup>1</sup> The FOCBS may provisionally refund the CO<sub>2</sub> levy to installation operators with a reduction obligation that have submitted an application in accordance with Article 31 paragraph 1<sup>ter</sup> of the CO<sub>2</sub> Act for an extension of the reduction obligation.
+
+<sup>2</sup> The operators must repay provisionally refunded amounts, including interest, if they do not meet their reduction obligation.
+
+#### Art. 146o
+
+**Emissions and measures target in the event of an extension of the reduction obligation in accordance with Article 31 paragraph 1<sup>ter</sup> of the CO<sub>2</sub> Act**
+
+<sup>1</sup> The emissions target for a reduction obligation that has been extended to the end of 2024 includes the total volume of greenhouse gases that the operator may emit by the end of 2024.
+
+<sup>2</sup> The reduction course in accordance with Article 67 shall be continued until 2024 in the event of an extension of the reduction obligation. The starting point is the interim target for 2021. The annual reduction amounts to 2 per cent.
+
+<sup>3</sup> The measures target for a reduction obligation that is extended to the end of 2024 shall include the total volume reduction of greenhouse gases that the operator must achieve by the end of 2024 by means of measures. This shall be calculated by multiplying the current measures target by 2.
+
+<sup>4</sup> To achieve the measures target, the installation operator may adopt new monitoring measures in accordance with Article 72 that are approved by the FOEN.
+
+<sup>5</sup> A reduction obligation that is extended in accordance with paragraphs 1 or 3 includes the greenhouse gas emissions of all installations currently involved in the reduction obligation. Operators of installations in accordance with Article 66 paragraph 3 may be exempted provided their installations do not cause more than 5 per cent of joint greenhouse gas emissions in 2021.
+
+#### Art. 146p
+
+**Emissions and measures target for a reduction obligation from 2022**
+
+For installation operators that undertake in accordance with Article 31 paragraph 1<sup>quater</sup> to reduce their greenhouse gas emissions by 2024, the provisions of Chapter 5 apply mutatis mutandis.
+
+#### Art. 146q
+
+**Application for a reduction obligation in 2022**
+
+Installation operators that extend their reduction obligation in accordance with Article 31 paragraph 1<sup>ter</sup> of the CO<sub>2</sub> Act or wish to enter into a reduction obligation for the first time from 2022 in accordance with Article 31 paragraph 1<sup>quater</sup> of the CO<sub>2</sub> Act must submit their application by 31 July 2022. In the case of applications for new reduction obligations, in derogation from Article 69 paragraph 2 letter b, details must be provided of the greenhouse gas emissions in 2019 and 2020.
+
+#### Art. 146r
+
+**Attestations and adjustment of the emission and measures target in 2021**
+
+<sup>1</sup> Installation operators that were not entitled in 2019 or 2020 to attestations in accordance with Article 12 and that have failed to maintain the reduction course in 2021 by more than 30 per cent shall not receive any attestations in accordance with Article 12 for 2021. The foregoing does not apply to cases in which the operator proves that failure to maintain the reduction course was due to implementing measures to reduce greenhouse gas emissions.
+
+<sup>2</sup> The FOEN shall adjust the emissions target in accordance with Article 67 and the measures target in accordance with Article 68 for 2021 in the event of a failure to maintain the reduction course only if it is due to the procurement of heating or cooling from a third party or the closure of an installation.
+
+#### Art. 146s
+
+**Adjustment of the emission and measures target for the 2022 to 2024 period**
+
+<sup>1</sup> The FOEN shall adjust the emissions target in accordance with Article 146*o* paragraph 2 in the event of a failure to maintain the reduction course if the requirements mentioned in Article 73 paragraph 1 are met in the period from 2022 to 2024. In derogation from Article 73 paragraph 2, the adjustment is made at the earliest retrospectively to 2022.
+
+<sup>2</sup> The FOEN shall adjust the measures target in accordance with Article 146*o* paragraph 3 if the requirements in Article 74 are met in the period from 2022 to 2024.
+
+#### Art. 146t
+
+**Counting emission allowances**
+
+An installation operator that fails to achieve its emissions or measures target and has not been issued with any attestations in accordance with Article 12 may count emission allowances amounting to 4.5 per cent of the greenhouse gas emissions in the 2022–2024 period towards meeting its reduction obligation for the 2022–2024 period.
+
 ### Section 3 Commencement
 
 #### Art. 147
@@ -3398,7 +3473,7 @@ In this Annex:
 
 For determining the value of the oxidation factor parameter (OX) required to calculate the emission reductions, the following decision tree must be used:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20220304/en/xml/image/image1.png)
 
 ### 3.3 Ex-ante calculation of emission reductions
 
