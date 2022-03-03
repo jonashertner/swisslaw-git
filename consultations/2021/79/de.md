@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Bundesgesetzes über die Krankenversicherung (KVG) (Datenaustausch, Risikoausgleich)"
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sull’assicurazione malattie (LAMal) (Scambio di dati, compensazione dei rischi)"
 document: Progetto posto in consultazione
 language: it
