@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Überführung der Massnahme zum Schutz der Schweizer Börseninfrastruktur in das FinfraG
 document: Vernehmlassungsvorlage
 language: de

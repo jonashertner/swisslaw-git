@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Trasposizione della misura di protezione dell’infrastruttura delle borse alla LInFi
 document: Progetto posto in consultazione
 language: it

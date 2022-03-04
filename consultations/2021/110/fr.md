@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Transfert de la mesure visant à protéger l’infrastructure boursière dans la LIMF
 document: Projet mis en consultation
 language: fr
