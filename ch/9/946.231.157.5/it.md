@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Ordinanza del 17 ottobre 2018 che istituisce provvedimenti nei confronti del Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: it
-version: 2022-01-01
+version: 2022-03-07
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20220307/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20220307-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20220307/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Myanmar
 
-del 17 ottobre 2018 (Stato 1° gennaio 2022)
+del 17 ottobre 2018 (Stato 7 marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -227,8 +227,8 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. I delle O del DEFR del 17 gen. 2019 ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), del 20 mag. 2019 ([RU 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), del 6 mag. 2020 ([RU 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), dal n. I dell’O del 31 mar. 2021 ([RU 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), dal n. I delle O del DEFR del 29 apr. 2021 ([RU 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), del 10 mag. 2021 ([RU 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)) e del 30 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)).
-[^annex1-lvlu1-1]: È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^t-1]: Aggiornato dal n. I delle O del DEFR del 17 gen. 2019 ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), del 20 mag. 2019 ([RU 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), del 6 mag. 2020 ([RU 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), dal n. I dell’O del 31 mar. 2021 ([RU 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), dal n. I delle O del DEFR del 29 apr. 2021 ([RU 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), del 10 mag. 2021 ([RU 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), del 30 giu. 2021 ([RU 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)) e del 4 mar. 2022, in vigore dal 7 mar. 2022 alle ore 18.00 ([RU 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)).
+[^annex1-lvlu1-1]: È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
 Allegato 2
 

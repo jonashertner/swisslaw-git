@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: "Ordonnance du 17 octobre 2018 instituant des mesures à l'encontre du Myanmar"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: fr
-version: 2022-01-01
+version: 2022-03-07
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20220307/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20220307-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20220307/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Myanmar
 
-du 17 octobre 2018 (État le 1<sup>er</sup> janvier 2022)
+du 17 octobre 2018 (État le 7 mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -227,7 +227,7 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)) et du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 à 18 heures ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)).
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), du 30 juin 2021 ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)) et du 4 mars 2022, en vigueur depuis le 7 mars 2022 à 18 heures ([RO 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)).
 [^annex1-lvlu1-1]: Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur [www.seco.admin.ch](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
 Annexe 2
