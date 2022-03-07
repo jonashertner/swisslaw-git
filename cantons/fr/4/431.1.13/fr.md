@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.13"
-title: "Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2021/22"
+title: "Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2022/23"
 language: fr
-version: 2021-03-09
-valid_until: 2022-03-07
-version_adopted: 2021-03-09
+version: 2022-03-08
+valid_until: 2023-03-06
+version_adopted: 2022-03-08
 adopted: 2026-03-17
 in_force: 2026-03-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6794/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7328/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2021/22
+# Ordonnance concernant la capacité d'accueil et le test d'aptitudes pour le Bachelor of Medicine (BMed) à l'Université de Fribourg pour l'année académique 2022/23
 
 Université, Bachelor of Medicine (BMed) – O
 
-du 09.03.2021 (version entrée en vigueur le 09.03.2021)
+du 08.03.2022 (version entrée en vigueur le 08.03.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -26,13 +26,13 @@ Vu la loi du 19 novembre 1997 sur l'Université (LUni);
 
 Considérant:
 
-Le 25 février 2021, la Conférence suisse des hautes écoles, après avoir constaté que les capacités d'accueil étaient une nouvelle fois largement dépassées et que des transferts d'une université à l'autre ne parvenaient pas à résoudre les problèmes posés, a renouvelé sa recommandation aux cantons universitaires de Bâle-Ville, Bâle-Campagne, Berne, Fribourg, Tessin et Zurich ainsi qu'au Conseil des EPF de procéder au test d'aptitudes pour les études de médecine humaine et dentaire.
+Le 24 février 2022, la Conférence suisse des hautes écoles, après avoir constaté que les capacités d'accueil étaient une nouvelle fois largement dépassées et que des transferts d'une université à l'autre ne parvenaient pas à résoudre les problèmes posés, a renouvelé sa recommandation aux cantons universitaires de Bâle-Ville, Bâle-Campagne, Berne, Fribourg, Tessin et Zurich ainsi qu'au Conseil des EPF de procéder au test d'aptitudes pour les études de médecine humaine et dentaire.
 
 Procéder au test d'aptitudes à Fribourg assure aux étudiants et étudiantes la possibilité de poursuivre leurs études dans une autre université, étant donné qu'une grande partie d'entre eux continuent leurs études dans l'une des universités alémaniques qui ont introduit le test d'aptitudes.
 
-Le Rectorat de l'Université de Fribourg, en sa séance du 8 février 2021, a préavisé favorablement le recours au test d'aptitudes dans ces conditions.
+Le Rectorat de l'Université de Fribourg, en sa séance du 31 janvier 2022, a préavisé favorablement le recours au test d'aptitudes dans ces conditions.
 
-Sur la proposition de la Direction de l'instruction publique, de la culture et du sport,
+Sur la proposition de la Direction de la formation et des affaires culturelles,
 
 Arrête:
 
@@ -46,7 +46,7 @@ Arrête:
 
 **Capacité d'accueil**
 
-<sup>1</sup> Pour l'année académique 2021/22, la capacité d'accueil pour la première année d'études de médecine humaine a été fixée à 125 places.
+<sup>1</sup> Pour l'année académique 2022/23, la capacité d'accueil pour la première année d'études de médecine humaine a été fixée à 125 places.
 
 #### Art. 3
 
@@ -72,13 +72,13 @@ Arrête:
 
 <sup>1</sup> Les candidats et candidates doivent s'acquitter d'une participation de 200 francs aux frais liés au déroulement du test d'aptitudes.
 
-<sup>2</sup> Toute personne n'ayant pas versé ce montant jusqu'au 25 mai 2021 au plus tard à swissuniversities n'est pas admise à passer le test d'aptitudes. Son inscription est considérée comme retirée.
+<sup>2</sup> Toute personne n'ayant pas versé ce montant jusqu'au 24 mai 2022 au plus tard à swissuniversities n'est pas admise à passer le test d'aptitudes. Son inscription est considérée comme retirée.
 
 #### Art. 7
 
 **Date du test d'aptitudes**
 
-<sup>1</sup> Conformément à la décision de la Conférence suisse des hautes écoles, le test d'aptitudes pour l'année académique 2021/22 est fixé au 9 juillet 2021.
+<sup>1</sup> Conformément à la décision de la Conférence suisse des hautes écoles, le test d'aptitudes pour l'année académique 2022/23 est fixé au 8 juillet 2022.
 
 #### Art. 8
 
@@ -156,4 +156,4 @@ Arrête:
 
 <sup>2</sup> Les décisions du Rectorat peuvent faire l'objet d'un recours auprès de la Commission de recours de l'Université de Fribourg.
 
-2021\_033
+2022\_028

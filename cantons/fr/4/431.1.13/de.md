@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.13"
-title: Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2021/22
+title: Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2022/23
 language: de
-version: 2021-03-09
-valid_until: 2022-03-07
-version_adopted: 2021-03-09
+version: 2022-03-08
+valid_until: 2023-03-06
+version_adopted: 2022-03-08
 adopted: 2026-03-17
 in_force: 2026-03-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.1.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/6794/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2021/22
+# Verordnung über die Aufnahmekapazität und den Eignungstest für den Bachelor of Medicine (BMed) an der Universität Freiburg im akademischen Jahr 2022/23
 
 Universität, Bachelor of Medicine (BMed) – V
 
-vom 09.03.2021 (Fassung in Kraft getreten am 09.03.2021)
+vom 08.03.2022 (Fassung in Kraft getreten am 08.03.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -26,13 +26,13 @@ gestützt auf das Gesetz vom 19. November 1997 über die Universität (UniG);
 
 in Erwägung:
 
-Am 25. Februar 2021 hat die Schweizerische Hochschulkonferenz aufgrund der Feststellung, dass die Aufnahmekapazitäten erneut bei Weitem überschritten wurden und Umteilungen an andere Universitäten nicht ausreichten, ihre Empfehlung an die Universitätskantone Basel-Stadt, Basel-Land, Bern, Freiburg, Tessin und Zürich und an den ETH-Rat erneuert, einen Eignungstest für das Studium der Human- und Zahnmedizin durchzuführen.
+Am 24. Februar 2022 hat die Schweizerische Hochschulkonferenz aufgrund der Feststellung, dass die Aufnahmekapazitäten erneut bei Weitem überschritten wurden und Umteilungen an andere Universitäten nicht ausreichten, ihre Empfehlung an die Universitätskantone Basel-Stadt, Basel-Land, Bern, Freiburg, Tessin und Zürich und an den ETH-Rat erneuert, einen Eignungstest für das Studium der Human- und Zahnmedizin durchzuführen.
 
 Die Durchführung des Eignungstests in Freiburg gewährleistet den Studierenden, dass sie ihr Studium an einer anderen Universität fortsetzen können, weil bekannterweise ein Grossteil der Studierenden das Studium an einer der deutschsprachigen Universitäten fortsetzt, die den Eignungstest eingeführt haben.
 
-Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 8. Februar 2021 zur Durchführung eines Eignungstests unter diesen Umständen positiv Stellung genommen.
+Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 31. Januar 2022 zur Durchführung eines Eignungstests unter diesen Umständen positiv Stellung genommen.
 
-Auf Antrag der Direktion für Erziehung, Kultur und Sport,
+Auf Antrag der Direktion für Bildung und kulturelle Angelegenheiten,
 
 beschliesst:
 
@@ -46,7 +46,7 @@ beschliesst:
 
 **Aufnahmekapazität**
 
-<sup>1</sup> Für das akademische Jahr 2021/22 wurde die Aufnahmekapazität für das erste Studienjahr der Humanmedizin auf 125 Plätze festgesetzt.
+<sup>1</sup> Für das akademische Jahr 2022/23 wurde die Aufnahmekapazität für das erste Studienjahr der Humanmedizin auf 125 Plätze festgesetzt.
 
 #### Art. 3
 
@@ -72,13 +72,13 @@ beschliesst:
 
 <sup>1</sup> Studienanwärterinnen und ‑anwärter müssen sich mit 200 Franken an den Kosten der Durchführung des Eignungstests beteiligen.
 
-<sup>2</sup> Wer diesen Betrag nicht bis spätestens 25. Mai 2021 bei swissuniversities einbezahlt, wird nicht zum Eignungstest zugelassen. Die Anmeldung gilt als zurückgezogen.
+<sup>2</sup> Wer diesen Betrag nicht bis spätestens 24. Mai 2022 bei swissuniversities einbezahlt, wird nicht zum Eignungstest zugelassen. Die Anmeldung gilt als zurückgezogen.
 
 #### Art. 7
 
 **Datum des Eignungstests**
 
-<sup>1</sup> Gemäss Entscheid der Schweizerischen Hochschulkonferenz wird der Eignungstest für das akademische Jahr 2021/22 am 9. Juli 2021 durchgeführt.
+<sup>1</sup> Gemäss Entscheid der Schweizerischen Hochschulkonferenz wird der Eignungstest für das akademische Jahr 2022/23 am 8. Juli 2022 durchgeführt.
 
 #### Art. 8
 
@@ -156,4 +156,4 @@ beschliesst:
 
 <sup>2</sup> Gegen Entscheide des Rektorats kann bei der Rekurskommission der Universität Freiburg Beschwerde erhoben werden.
 
-2021\_033
+2022\_028
