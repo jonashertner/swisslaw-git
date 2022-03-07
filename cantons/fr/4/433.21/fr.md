@@ -3,13 +3,13 @@ canton: FR
 number: "433.21"
 title: "Règlement d'études et d'examens de la formation initiale de la Haute Ecole pédagogique Fribourg"
 language: fr
-version: 2017-08-01
-valid_until: 2022-03-07
-version_adopted: 2017-11-28
+version: 2022-03-08
+valid_until: 2023-07-31
+version_adopted: 2022-03-08
 adopted: 2017-11-28
 in_force: 2017-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/433.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5220/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7327/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5220/pdf_file"
 
 Haute Ecole pédagogique, études et examens – R
 
-du 28.11.2017 (version entrée en vigueur le 01.08.2017)
+du 28.11.2017 (version entrée en vigueur le 08.03.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -303,9 +303,9 @@ Arrête:
 
 **Deuxième échec**
 
-<sup>1</sup> Si, au cours d'une année de formation, l'étudiant ou l'étudiante échoue pour la deuxième fois à deux évaluations certificatives en cours d'études ou plus, un échec définitif lui est signifié.
+<sup>1</sup> …
 
-<sup>2</sup> En cas de deuxième échec à une seule évaluation certificative en cours d'études, l'étudiant ou l'étudiante peut se présenter une troisième fois sans devoir répéter le cours qui y est lié. Une prolongation des études en résulte.
+<sup>2</sup> En cas de deuxième échec à une évaluation certificative en cours d'études, l'étudiant ou l'étudiante peut se présenter une troisième fois sans devoir répéter le cours qui y est lié. Une prolongation des études en résulte.
 
 <sup>3</sup> Toutefois, seules deux tentatives sont possibles pour la validation des stages (art. 17 al. 1 let. d). Sur la durée totale de la formation, seuls deux stages non consécutifs peuvent être répétés, sous peine d'échec définitif.
 
@@ -339,7 +339,7 @@ Arrête:
 
 <sup>2</sup> Il ou elle peut alors se présenter à la session prévue à cet effet.
 
-<sup>3</sup> En cas de premier échec à la tâche complexe didactique (art. 17 al. 2 let. b) ou à l'examen pratique (art. 17 al. 2 let. c), l'étudiant ou l'étudiante doit effectuer un nouveau stage.
+<sup>3</sup> En cas de premier échec à la tâche complexe didactique (art. 17 al. 2 let. b) ou à l'examen pratique (art. 17 al. 2 let. c), l'étudiant ou l'étudiante effectue la seconde tentative dans une classe du cycle I ou II.
 
 <sup>4</sup> Un second échec entraîne un échec définitif.
 

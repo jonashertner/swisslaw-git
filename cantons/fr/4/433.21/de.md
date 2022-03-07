@@ -3,13 +3,13 @@ canton: FR
 number: "433.21"
 title: Studien- und Prüfungsreglement für die Grundausbildung an der Pädagogischen Hochschule Freiburg
 language: de
-version: 2017-08-01
-valid_until: 2022-03-07
-version_adopted: 2017-11-28
+version: 2022-03-08
+valid_until: 2023-07-31
+version_adopted: 2022-03-08
 adopted: 2017-11-28
 in_force: 2017-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/433.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/5220/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7327/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5220/pdf_file"
 
 Pädagogische Hochschule, Studien und Prüfungen – R
 
-vom 28.11.2017 (Fassung in Kraft getreten am 01.08.2017)
+vom 28.11.2017 (Fassung in Kraft getreten am 08.03.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -303,9 +303,9 @@ beschliesst:
 
 **Zweites Nichtbestehen**
 
-<sup>1</sup> Bei einem zweiten Misserfolg in zwei oder mehr zertifizierenden Beurteilungen im Laufe des Studiums wird der Studentin oder dem Studenten ein endgültiges Nichtbestehen mitgeteilt.
+<sup>1</sup> …
 
-<sup>2</sup> Im Falle eines zweiten Misserfolgs in einer einzigen zertifizierenden Beurteilung im Laufe des Studiums kann die Studentin oder der Student diese ein drittes Mal ablegen, ohne die dazugehörige Lehrveranstaltung wiederholen zu müssen. Dies hat jedoch eine Verlängerung des Studiums zur Folge.
+<sup>2</sup> Im Falle eines zweiten Misserfolgs in einer zertifizierenden Beurteilung im Laufe des Studiums kann die Studentin oder der Student diese ein drittes Mal ablegen, ohne die dazugehörige Lehrveranstaltung wiederholen zu müssen. Dies hat jedoch eine Verlängerung des Studiums zur Folge.
 
 <sup>3</sup> Für die Validierung der Praktika sind jedoch nur zwei Versuche möglich (Art. 17 Abs. 1 Bst. d). Während der gesamten Dauer der Ausbildung dürfen nur zwei nicht aufeinanderfolgende Praktika wiederholt werden. Ansonsten wird ein endgültiges Nichtbestehen mitgeteilt.
 
@@ -339,7 +339,7 @@ beschliesst:
 
 <sup>2</sup> Die Studentin oder der Student kann zur dazu vorgesehenen Prüfungssession erscheinen.
 
-<sup>3</sup> Im Falle eines Misserfolgs in der komplexen Aufgabe Didaktik (Art. 17 Abs. 2 Bst. b) oder in der praktischen Prüfung (Art. 17 Abs. 2 Bst. c) muss die Studentin oder der Student erneut ein Praktikum absolvieren.
+<sup>3</sup> Im Falle eines Misserfolgs in der komplexen Aufgabe Didaktik (Art. 17 Abs. 2 Bst. b) oder in der praktischen Prüfung (Art. 17 Abs. 2 Bst. c) macht die Studentin oder der Student den zweiten Versuch in einer Klasse des 1. oder 2. Zyklus.
 
 <sup>4</sup> Ein zweiter Misserfolg hat ein endgültiges Nichtbestehen zur Folge.
 
