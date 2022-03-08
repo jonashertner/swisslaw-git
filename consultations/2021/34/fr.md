@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nouvelle ordonnance sur le casier judiciaire informatique VOSTRA (ordonnance sur le casier judiciaire; OCJ)
 document: Projet mis en consultation
 language: fr

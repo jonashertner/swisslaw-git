@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Neue Verordnung über das Strafregister-Informationssystem VOSTRA (Strafregisterverordnung; StReV)
 document: Vernehmlassungsvorlage
 language: de

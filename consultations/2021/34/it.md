@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nuova ordinanza sul casellario giudiziale informatizzato VOSTRA (ordinanza sul casellario giudiziale; OCaGi)
 document: Progetto posto in consultazione
 language: it
