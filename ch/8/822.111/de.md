@@ -4,11 +4,11 @@ title: Verordnung 1 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 1)
 short: ArGV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: de
-version: 2021-11-01
+version: 2022-03-10
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220310/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220310-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220310/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20211101/de"
 
 (ArGV 1)
 
-vom 10. Mai 2000 (Stand am 1. November 2021)
+vom 10. Mai 2000 (Stand am 10. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1436,7 +1436,7 @@ Die Strafverfolgung für Verletzungen des Datenschutzes und der Auskunftspflicht
 
 Die Verordnung 1 vom 14. Januar 1966[^91-1] zum Arbeitsgesetz wird aufgehoben.
 
-[^91-1]: [[AS 1966 86](https://fedlex.data.admin.ch/eli/oc/1966/86_85_85), [1969 77](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)Ziff. II Bst. E Ziff. 1 368, **1972** 868, **1974** 1817, **1977** 2367, **1978** 1707, **1979** 643, **1989** 2483, **2000** 187 Art. 22 Abs. 1 Ziff. 8]
+[^91-1]: [[AS 1966 86](https://fedlex.data.admin.ch/eli/oc/1966/86_85_85); [1969 77](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)Ziff. II Bst. E Ziff. 1, 368; **1972** 868; **1974** 1817; **1977** 2367; **1978** 1707; **1979** 643; **1989** 2483; **2000** 187 Art. 22 Abs. 1 Ziff. 8]
 
 ### 2. Abschnitt: Übergangsbestimmungen
 
@@ -1468,7 +1468,7 @@ Anhang*[^t-1]*
 
 ## Nachweis der technischen oder wirtschaftlichen Unentbehrlichkeit von Nacht- oder Sonntagsarbeit für einzelne Arbeitsverfahren
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 1. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 1. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)). Die Berichtigung vom 10. März 2022 betrifft nur den italienischen Text ([AS 2022 158](https://fedlex.data.admin.ch/eli/oc/2022/158)).
 
 Der Nachweis der Unentbehrlichkeit von dauernder oder regelmässig wiederkehrender Nacht- und Sonntagsarbeit gilt für die nachstehend genannten Arbeitsverfahren im bezeichneten Umfang als vermutet:
 

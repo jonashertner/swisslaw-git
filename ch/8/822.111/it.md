@@ -4,11 +4,11 @@ title: Ordinanza 1 del 10 maggio 2000 concernente la legge sul lavoro (OLL 1)
 short: OLL 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: it
-version: 2021-11-01
+version: 2022-03-10
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220310/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220310-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220310/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20211101/it"
 
 (OLL 1)
 
-del 10 maggio 2000 (Stato 1° novembre 2021) (Stato 1° novembre 2021)
+del 10 maggio 2000 (Stato 10 marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1469,7 +1469,7 @@ Allegato*[^t-1]*
 
 ## Indispensabilità tecnica o economica del lavoro notturno o domenicale per singoli processi lavorativi
 
-[^t-1]: Aggiornato dal n. II dell’O del 1° set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
+[^t-1]: Aggiornato dal n. II dell’O del 1° set. 2021 ([RU 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)) e dalla correzione del 10 mar. 2022 ([RU 2022 158](https://fedlex.data.admin.ch/eli/oc/2022/158)).
 
 Per i seguenti processi lavorativi, il lavoro notturno o domenicale regolare o periodico è ritenuto indispensabile nella misura indicata:
 
@@ -1492,6 +1492,8 @@ lavoro notturno per la produzione.
 ### 5. Fabbricazione della birra:
 
 lavoro notturno e domenicale per la masteria e per il processo di fermentazione.
+
+Lavoro notturno per il processo di cottura.
 
 ### 6. Fabbricazione di carta, di cartone e di cellulosa:
 

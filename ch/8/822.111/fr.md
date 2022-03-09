@@ -4,11 +4,11 @@ title: Ordonnance 1 du 10 mai 2000 relative à la loi sur le travail (OLT 1)
 short: OLT 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: fr
-version: 2021-11-01
+version: 2022-03-10
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-243-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20220310/fr/xml/fedlex-data-admin-ch-eli-cc-2000-243-20220310-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20220310/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20211101/fr"
 
 (OLT 1)
 
-du 10 mai 2000 (Etat le 1<sup>er</sup> novembre 2021)
+du 10 mai 2000 (Etat le 10 mars 2022)
 
 <sup>Le Conseil fédéral suisse,</sup>
 
@@ -1471,7 +1471,7 @@ Annexe*[^t-1]*
 
 ## Établissement de l’indispensabilité technique ou économique du travail de nuit ou du dimanche pour certains procédés de travail
 
-[^t-1]: Mise à jour selon le ch. II de l’O du 1<sup>er</sup> sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
+[^t-1]: Mise à jour selon le ch. II de l’O du 1<sup>er</sup> sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)). Erratum du 10 mars 2022, ne concerne que le texte italien ([RO 2022 158](https://fedlex.data.admin.ch/eli/oc/2022/158)).
 
 Il y a présomption d’indispensabilité de travail de nuit ou du dimanche à caractère régulier ou périodique pour les activités et dans la mesure indiquées ci-après:
 
