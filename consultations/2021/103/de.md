@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Szenariorahmen 2030/2040 für die Stromnetzplanung
 document: Vernehmlassungsvorlage
 language: de

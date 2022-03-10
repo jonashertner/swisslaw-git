@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Scenario di riferimento 2030/2040 per la pianificazione delle reti elettriche
 document: Progetto posto in consultazione
 language: it

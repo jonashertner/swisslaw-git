@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Scénario-cadre 2030/2040 pour la planification du réseau électrique
 document: Projet mis en consultation
 language: fr
