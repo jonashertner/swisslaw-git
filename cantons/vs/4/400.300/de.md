@@ -4,11 +4,12 @@ number: "400.300"
 title: "Reglement betreffend die Entschädigung, die Lehrpersonen für die Nutzung ihrer Informatikausrüstung für berufliche Zwecke gezahlt wird"
 language: de
 version: 2021-09-01
+corrected: 2022-03-11
 version_adopted: 2022-03-09
 adopted: 2021-06-16
 in_force: 2021-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.300"
-pdf: "https://lex.vs.ch/api/de/versions/3017/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2936/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -57,7 +58,7 @@ verordnet[^ingress-1]:
 
 **Geltungsbereich**
 
-<sup>1</sup> Das vorliegende Reglement gilt für das Personal, das eine der folgenden Funktionen ausübt:
+<sup>1</sup> Das vorliegende Reglement gilt für das Personal, das am 31. August in einem Dienstverhältnis steht und eine der folgenden Funktionen ausübt:
 
 - a) Lehrpersonen gemäss Artikel 58 GPOS;
 - b) Stellvertreter mit Jahresgehalt (Art. 49 Abs. 3, Art. 51. Abs. 5 und Art. 54 Abs. 5 VBOS);

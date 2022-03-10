@@ -4,11 +4,12 @@ number: "400.300"
 title: "Règlement concernant l'indemnité versée au personnel enseignant pour l'utilisation de son matériel informatique à des fins professionnelles"
 language: fr
 version: 2021-09-01
+corrected: 2022-03-11
 version_adopted: 2022-03-09
 adopted: 2021-06-16
 in_force: 2021-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.300"
-pdf: "https://lex.vs.ch/api/fr/versions/3017/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2936/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -57,7 +58,7 @@ ordonne[^ingress-1]:
 
 **Champ d'application**
 
-<sup>1</sup> Le présent règlement s'applique au personnel excerçant les fonctions suivantes:
+<sup>1</sup> Le présent règlement s'applique au personnel sous rapport de service au 31 août et excerçant les fonctions suivantes:
 
 - a) aux enseignants en vertu de l’article 58 LPSO;
 - b) aux remplaçants dont le traitement est annualisé (art. 49 al. 3, 51 al. 5 et 54 al. 5 OTSO);
