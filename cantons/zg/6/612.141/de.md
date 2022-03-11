@@ -3,20 +3,19 @@ canton: ZG
 number: "612.141"
 title: Reglement zur Beurteilung von Gesuchen zu Unterstützungsmassnahmen im Bereich Sport gemäss Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus (COVID-19-Lotterie- und Sportfondsverordnung)
 language: de
-version: 2021-12-11
-valid_until: 2022-03-11
-version_adopted: 2021-11-24
+version: 2022-03-12
+version_adopted: 2022-03-04
 adopted: 2020-05-18
 in_force: 2020-05-19
 url: "https://bgs.zg.ch/app/de/texts_of_law/612.141"
-pdf: "https://bgs.zg.ch/api/de/versions/2285/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2321/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zur Beurteilung von Gesuchen zu Unterstützungsmassnahmen im Bereich Sport gemäss Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus (COVID-19-Lotterie- und Sportfondsverordnung)
 
-Vom 18. Mai 2020 (Stand 11. Dezember 2021)
+Vom 18. Mai 2020 (Stand 12. März 2022)
 
 Die Gesundheitsdirektion des Kantons Zug,
 
@@ -53,7 +52,7 @@ beschliesst:
 
 **Gesuchseingabe**
 
-<sup>1</sup> Gesuche um Soforthilfe können bis zum 31. Dezember 2021 eingereicht werden. Sie sind elektronisch mittels Formular, das auf der Website des Amtes für Sport und Gesundheitsförderung aufgeschaltet ist, einzureichen.
+<sup>1</sup> Gesuche um Soforthilfe können bis zum 31. Dezember 2022 eingereicht werden. Sie sind elektronisch mittels Formular, das auf der Website des Amtes für Sport und Gesundheitsförderung aufgeschaltet ist, einzureichen.
 
 #### § 5
 
