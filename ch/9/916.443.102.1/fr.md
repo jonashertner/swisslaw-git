@@ -3,20 +3,20 @@ sr: "916.443.102.1"
 title: Ordonnance de l’OSAV du 15 octobre 2021 instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne et en Irlande du Nord
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/615"
 language: fr
-version: 2022-02-19
+version: 2022-03-12
 adopted: 2021-10-15
 in_force: 2021-10-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220219/fr/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220219-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/615/20220312/fr/xml/fedlex-data-admin-ch-eli-cc-2021-615-20220312-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/615/20220312/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance de l’OSAV instituant des mesures destinées à prévenir l’introduction de l’*influenza* aviaire présente dans certains États membres de l’Union européenne ****
+# Ordonnance de l’OSAV instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne et en Irlande du Nord****
 
-du 15 octobre 2021 (Etat le 19 février 2022)[^t-1]
+du 15 octobre 2021 (Etat le 12 mars 2022)[^t-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 17 fév. 2022, en vigueur depuis le 19 fév. 2022 ([RO 2022 102](https://fedlex.data.admin.ch/eli/oc/2022/102)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 10 mars 2022, en vigueur depuis le 12 mars 2022 ([RO 2022 169](https://fedlex.data.admin.ch/eli/oc/2022/169)).
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -91,26 +91,24 @@ Annexe*[^t-2]*
 
 ## Région et zones réglementées
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 17 fév. 2022, en vigueur depuis le 19 fév. 2022 ([RO 2022 102](https://fedlex.data.admin.ch/eli/oc/2022/102)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 10 mars 2022, en vigueur depuis le 12 mars 2022 ([RO 2022 169](https://fedlex.data.admin.ch/eli/oc/2022/169)).
 
-### 1 Zones réglementées dans les États membres de l’UE concernés
+### 1 Zones réglementées dans les États membres de l’UE concernés et en Irlande du Nord
 
-Les États membres de l’UE concernés ainsi que leurs zones réglementées sont inscrits dans la décision d’exécution suivante:
+Les États membres de l’UE concernés ainsi que leurs zones réglementées et les zones réglementées d’Irlande du Nord sont inscrits dans la décision d’exécution suivante:
 
 <table>
 <tr><td>Acte législatif de l’UE</td><td>Titre et date de publication du texte législatif et dates de publication des actes modificateurs</td></tr>
-<tr><td>Décision d’exécution (UE) 2021/641</td><td>Décision d’exécution (UE) 2021/641 de la Commission du 16 avril 2021 concernant des mesures d’urgence motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 134 du 20.4.2021, p. 166; modifiée en dernier lieu par la décision d’exécution (UE) 2022/198, JO L 31 du 14.2.2022, p. 56</td></tr>
+<tr><td>Décision d’exécution (UE) 2021/641</td><td>Décision d’exécution (UE) 2021/641 de la Commission du 16 avril 2021 concernant des mesures d’urgence motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 134 du 20 avril 2021, p. 166; modifiée en dernier lieu par la décision d’exécution (UE) 2022/349, JO L 64 du 2.3.2022, p. 60</td></tr>
 </table>
 
-### 2 États membres de l’UE
+### 2 États membres de l’UE et Irlande du Nord
 
-Des zones réglementées ont été délimitées dans les États membres de l’UE suivants:
+Des zones réglementées ont été délimitées en Irlande du Nord et dans les États membres de l’UE suivants:
 
 Allemagne
 
 Bulgarie
-
-Croatie
 
 Danemark
 
