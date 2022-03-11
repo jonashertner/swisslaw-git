@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2012 über die Ausstellung von Reisedokumente
 short: RDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: de
-version: 2020-04-01
+version: 2022-03-12
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20200401/de/xml/fedlex-data-admin-ch-eli-cc-2012-713-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20220312/de/xml/fedlex-data-admin-ch-eli-cc-2012-713-20220312-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20220312/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20200401/de"
 
 (RDV)
 
-vom 14. November 2012 (Stand am 1. April 2020)
+vom 14. November 2012 (Stand am 12. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -142,13 +142,14 @@ Einer ausländischen Person kann für den Vollzug der Weg- oder Ausweisung oder 
 
 **Rückreisevisum**[^7-1]
 
-<sup>1</sup> Schutzbedürftigen und vorläufig aufgenommenen Personen, die ein gültiges und von der Schweiz anerkanntes Reisedokument ihres Heimat- oder Herkunftsstaates besitzen, muss für Auslandreisen ein Rückreisevisum ausgestellt werden.
+<sup>1</sup> Schutzbedürftigen und vorläufig aufgenommenen Personen, die ein gültiges und von der Schweiz anerkanntes Reisedokument ihres Heimat- oder Herkunftsstaates besitzen, muss für Auslandreisen ein Rückreisevisum ausgestellt werden. Hiervon ausgenommen sind schutzbedürftige Personen nach Artikel 9 Absatz 8.[^7-2]
 
 <sup>2</sup> Das SEM stellt ein Rückreisevisum unter den Voraussetzungen nach Artikel 9 Absätze 1, 3<sup>bis</sup> und 4 aus.
 
 <sup>3</sup> Eine Person, der ein Pass für eine ausländische Person nach Artikel 4 Absatz 2 Buchstabe b abgegeben wurde, muss kein Rückreisevisum beantragen.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 12. März 2022 ([AS 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
 
 #### Art. 8
 
@@ -190,7 +191,11 @@ Eine vorläufig aufgenommene Person kann ein Reisedokument oder ein Rückreisevi
 
 <sup>7</sup> Für schutzbedürftige Personen gelten die Absätze 1–6 sinngemäss.
 
+<sup>8</sup> Schutzbedürftige Personen gemäss der Allgemeinverfügung des Bundesrates vom 11. März 2022[^9-2] zur Gewährung des vorübergehenden Schutzes im Zusammenhang mit der Situation in der Ukraine können ohne Reisebewilligung ins Ausland reisen und in die Schweiz zurückkehren.[^9-3]
+
 [^9-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^9-2]: [BBl 2022 586](https://fedlex.data.admin.ch/eli/fga/2022/586)
+[^9-3]: Eingefügt durch Ziff. I der V vom 11. März 2022, in Kraft seit 12. März 2022 ([AS 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
 
 #### Art. 9a
 

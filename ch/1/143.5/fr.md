@@ -4,11 +4,11 @@ title: "Ordonnance du 14 novembre 2012 sur l'établissement de documents de voya
 short: ODV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: fr
-version: 2020-04-01
+version: 2022-03-12
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-2012-713-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20220312/fr/xml/fedlex-data-admin-ch-eli-cc-2012-713-20220312-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20220312/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20200401/fr"
 
 (ODV)
 
-du 14 novembre 2012 (Etat le 1<sup>er</sup> avril 2020)
+du 14 novembre 2012 (Etat le 12 mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -142,13 +142,14 @@ Un document de voyage supplétif peut être établi en faveur d’un étranger p
 
 **Visa de retour**[^7-1]
 
-<sup>1</sup> Les personnes à protéger et les personnes admises à titre provisoire qui disposent d’un document de voyage valable émis par leur État d’origine ou de provenance et reconnu par la Suisse doivent obtenir, pour voyager à l’étranger, un visa de retour.
+<sup>1</sup> Les personnes à protéger et les personnes admises à titre provisoire qui disposent d’un document de voyage valable émis par leur État d’origine ou de provenance et reconnu par la Suisse doivent obtenir, pour voyager à l’étranger, un visa de retour. Font exception les personnes à protéger visées à l’art. 9, al. 8.[^7-2]
 
 <sup>2</sup> Un visa de retour est octroyé par le SEM aux conditions visées à l’art. 9, al. 1, 3<sup>bis</sup> et 4.
 
 <sup>3</sup> Les personnes ayant obtenu un passeport pour étrangers en vertu de l’art. 4, al. 2, let. b, ne sont pas soumises à l’obligation d’obtenir un visa de retour.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 12 mars 2022 ([RO 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
 
 #### Art. 8
 
@@ -190,7 +191,11 @@ Un document de voyage ou un visa de retour peut être remis à une personne admi
 
 <sup>7</sup> Les al. 1 à 6 s’appliquent par analogie aux personnes à protéger.
 
+<sup>8</sup> Les personnes à protéger visées par la décision de portée générale du Conseil fédéral du 11 mars 2022 concernant l’octroi de la protection provisoire en lien avec la situation en Ukraine[^9-2] peuvent se rendre à l’étranger et revenir en Suisse sans autorisation de voyage.[^9-3]
+
 [^9-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
+[^9-2]: [FF 2022 586](https://fedlex.data.admin.ch/eli/fga/2022/586)
+[^9-3]: Introduit par le ch. I de l’O du 11 mars 2022, en vigueur depuis le 12 mars 2022 ([RO 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
 
 #### Art. 9a
 
