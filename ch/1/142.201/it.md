@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2022-01-01
+version: 2022-03-12
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20220312/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20220312-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220312/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220101/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 1° gennaio 2022)
+del 24 ottobre 2007 (Stato 12 marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -999,14 +999,18 @@ Sempreché le condizioni secondo il diritto in materia d’asilo (art. 43 cpv. 1
 
 **Persone bisognose di protezione**[^53-1]
 
-### (art. 30 cpv. 1 lett. l LStrI)
+### (art. 30 cpv. 1 lett. l LStrI e art. 75 cpv. 2 LAsi)
 
-La persona bisognosa di protezione (art. 75 LAsi) può essere autorizzata a esercitare un’attività lucrativa dipendente temporanea se:
+<sup>1</sup>
+
+Una volta ottenuta la protezione provvisoria, la persona bisognosa di protezione può essere autorizzata a esercitare un’attività lucrativa dipendente temporanea se:
 
 - a. vi è la domanda di un datore di lavoro secondo l’articolo 18 lettera b LStrI;
 - b. sono rispettate le condizioni di salario e di lavoro secondo l’articolo 22 LStrI.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+<sup>2</sup> Una volta ottenuta la protezione provvisoria, la persona bisognosa di protezione può essere autorizzata a esercitare un’attività lucrativa indipendente temporanea se sono adempite le condizioni di cui all’articolo 19 lettere b e c LStrI.
+
+[^53-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
 
 #### Art. 53a
 
@@ -1192,13 +1196,14 @@ Lo straniero titolare del permesso di domicilio deve presentare o consegnare, pe
 
 <sup>1</sup> Il richiedente l’asilo può essere autorizzato a cambiare impiego se sono adempite le condizioni del diritto in materia d’asilo (art. 43 cpv. 1–3 LAsi) e le condizioni di cui all’articolo 52.
 
-<sup>2</sup> La persona bisognosa di protezione può essere autorizzata a cambiare impiego se sono adempite le condizioni di cui all’articolo 53.
+<sup>2</sup> La persona bisognosa di protezione può essere autorizzata a cambiare impiego se sono adempite le condizioni di cui all’articolo 53 capoverso 1.[^64-3]
 
-<sup>3</sup> Al cambiamento d’impiego di stranieri, rifugiati o apolidi ammessi provvisoriamente in Svizzera, di rifugiati che vi hanno ottenuto asilo e apolidi che vi sono riconosciuti nonché di rifugiati o di apolidi oggetto di un’espulsione giudiziaria passata in giudicato si applicano per analogia gli articoli 65–65*c.*[^64-3]
+<sup>3</sup> Al cambiamento d’impiego di stranieri, rifugiati o apolidi ammessi provvisoriamente in Svizzera, di rifugiati che vi hanno ottenuto asilo e apolidi che vi sono riconosciuti nonché di rifugiati o di apolidi oggetto di un’espulsione giudiziaria passata in giudicato si applicano per analogia gli articoli 65–65*c.*[^64-4]
 
 [^64-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^64-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^64-3]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^64-3]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
+[^64-4]: Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 
 #### Art. 65
 

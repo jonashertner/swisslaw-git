@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2022-01-01
+version: 2022-03-12
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20220312/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20220312-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220312/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220101/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 1. Januar 2022)
+vom 24. Oktober 2007 (Stand am 12. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -981,14 +981,18 @@ Sind die asylrechtlichen Voraussetzungen (Art. 43 Abs. 1–3 AsylG) erfüllt, ka
 
 **Schutzbedürftige**[^53-1]
 
-### (Art. 30 Abs. 1 Bst. l AIG)
+### (Art. 30 Abs. 1 Bst. l AIG und Art. 75 Abs. 2 AsylG)
 
-Schutzbedürftigen (Art. 75 AsylG) kann eine vorübergehende unselbstständige Erwerbstätigkeit bewilligt werden, wenn:
+<sup>1</sup>
+
+Schutzbedürftigen kann ab Gewährung des vorübergehenden Schutzes eine vorübergehende unselbstständige Erwerbstätigkeit bewilligt werden, wenn:
 
 - a. das Gesuch eines Arbeitgebers nach Artikel 18 Buchstabe b AIG vorliegt;
 - b. die Lohn- und Arbeitsbedingungen nach Artikel 22 AIG eingehalten werden.
 
-[^53-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+<sup>2</sup> Schutzbedürftigen kann ab Gewährung des vorübergehenden Schutzes eine vorübergehende selbstständige Erwerbstätigkeit bewilligt werden, wenn die Voraussetzungen nach Artikel 19 Buchstaben b und c AIG erfüllt sind.
+
+[^53-1]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 12. März 2022 ([AS 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
 
 #### Art. 53a
 
@@ -1173,13 +1177,14 @@ Der Ausweis für Personen mit Niederlassungsbewilligung muss spätestens 14 Tage
 
 <sup>1</sup> Der Stellenwechsel von Asylsuchenden kann bewilligt werden, wenn die asylrechtlichen Voraussetzungen (Art. 43 Abs. 1–3 AsylG) und die Voraussetzungen nach Artikel 52 erfüllt sind.
 
-<sup>2</sup> Der Stellenwechsel von Schutzbedürftigen kann bewilligt werden, wenn die Voraussetzungen nach Artikel 53 erfüllt sind.
+<sup>2</sup> Der Stellenwechsel von Schutzbedürftigen kann bewilligt werden, wenn die Voraussetzungen nach Artikel 53 Absatz 1 erfüllt sind. [^64-3]
 
-<sup>3</sup> Für den Stellenwechsel von Ausländerinnen und Ausländern, Flüchtlingen oder Staatenlosen, die in der Schweiz vorläufig aufgenommen wurden, von Flüchtlingen, die in der Schweiz Asyl erhalten haben, und von Staatenlosen, die in der Schweiz anerkannt sind, sowie von Flüchtlingen oder Staatenlosen, die mit einer rechtskräftigen Landesverweisung belegt sind, gelten die Artikel 65–65*c* sinngemäss.[^64-3]
+<sup>3</sup> Für den Stellenwechsel von Ausländerinnen und Ausländern, Flüchtlingen oder Staatenlosen, die in der Schweiz vorläufig aufgenommen wurden, von Flüchtlingen, die in der Schweiz Asyl erhalten haben, und von Staatenlosen, die in der Schweiz anerkannt sind, sowie von Flüchtlingen oder Staatenlosen, die mit einer rechtskräftigen Landesverweisung belegt sind, gelten die Artikel 65–65*c* sinngemäss.[^64-4]
 
 [^64-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^64-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^64-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^64-3]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 12. März 2022 ([AS 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
+[^64-4]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 
 #### Art. 65
 

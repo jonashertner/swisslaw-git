@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2022-01-01
+version: 2022-03-12
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20220312/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20220312-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220312/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220101/fr"
 
 (OASA)
 
-du 24 octobre 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 24 octobre 2007 (Etat le 12 mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1001,14 +1001,18 @@ Si les conditions relevant du droit d’asile (art. 43, al. 1 à 3, LAsi) sont r
 
 **Personnes à protéger**[^53-1]
 
-### (art. 30, al. 1, let. l, LEI)
+### (art. 30, al. 1, let. l, LEI et art. 75, al. 2, LAsi)
 
-Les personnes à protéger (art. 75 LAsi) peuvent être autorisées à exercer temporairement une activité lucrative salariée si:
+<sup>1</sup>
+
+Une fois la protection provisoire obtenue, les personnes à protéger peuvent être autorisées à exercer temporairement une activité lucrative salariée si:
 
 - a. une demande a été déposée par un employeur (art. 18, let. b, LEI);
 - b. les conditions de rémunération et de travail sont remplies (art. 22 LEI).
 
-[^53-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+<sup>2</sup> Une fois la protection provisoire obtenue, les personnes à protéger peuvent être autorisées à exercer temporairement une activité lucrative indépendante si les conditions de l’art. 19, let. b et c, LEI sont remplies.
+
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 12 mars 2022 ([RO 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
 
 #### Art. 53a
 
@@ -1194,13 +1198,14 @@ Le titre de séjour des personnes titulaires d’une autorisation d’établisse
 
 <sup>1</sup> Les requérants d’asile peuvent être autorisés à changer d’emploi si les conditions relevant du droit d’asile (art. 43, al. 1 à 3, LAsi) et celles de l’art. 52 sont remplies.
 
-<sup>2</sup> Les personnes à protéger peuvent être autorisées à changer d’emploi si les conditions de l’art. 53 sont remplies.
+<sup>2</sup> Les personnes à protéger peuvent être autorisées à changer d’emploi si les conditions de l’art. 53, al. 1, sont remplies.[^64-3]
 
-<sup>3</sup> Pour le changement d’emploi des étrangers, des réfugiés ou des apatrides admis à titre provisoire en Suisse, des réfugiés qui y ont obtenu l’asile et des apatrides qui y sont reconnus ainsi que des réfugiés ou des apatrides sous le coup d’une expulsion pénale entrée en force, les art. 65 à 65*c* s’appliquent par analogie.[^64-3]
+<sup>3</sup> Pour le changement d’emploi des étrangers, des réfugiés ou des apatrides admis à titre provisoire en Suisse, des réfugiés qui y ont obtenu l’asile et des apatrides qui y sont reconnus ainsi que des réfugiés ou des apatrides sous le coup d’une expulsion pénale entrée en force, les art. 65 à 65*c* s’appliquent par analogie.[^64-4]
 
 [^64-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^64-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^64-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^64-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 12 mars 2022 ([RO 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
+[^64-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 
 #### Art. 65
 
