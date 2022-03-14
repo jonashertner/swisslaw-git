@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 25 novembre 2013 sugli additivi ammessi nelle derr
 short: OAdd
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/842"
 language: it
-version: 2020-07-01
+version: 2022-03-15
 adopted: 2013-11-25
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2013-842-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2013-842-20220315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20220315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20200701/it"
 
 (Ordinanza sugli additivi, OAdd)
 
-del 25 novembre 2013 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+del 25 novembre 2013 (Stato 15 marzo 2022) (Stato 15 marzo 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -341,6 +341,14 @@ Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono esse
 
 [^13b-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
 
+#### Art. 13c
+
+**Disposizione transitoria della modifica del 14 febbraio 2022**[^13c-1]
+
+Le derrate alimentari non conformi alla modifica del 14 febbraio 2022 possono essere importate e fabbricate secondo il diritto anteriore sino al 14 settembre 2022 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^13c-1]: Introdotto dal n. I dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
+
 #### Art. 14
 
 **Entrata in vigore**
@@ -397,7 +405,7 @@ Allegato 1a*[^t-2]*
 
 ## Lista degli additivi ammessi
 
-[^t-2]: Originario all. 1. Aggiornato dai n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) e del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-2]: Originario all. 1. Aggiornato dai n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), delle O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) e dal n. II dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 <table>
 <tr><th>N° E</th><th>Additivo</th><th>Osservazioni</th></tr>
@@ -436,7 +444,6 @@ Allegato 1a*[^t-2]*
 <tr><td>162</td><td>Rosso di barbabietola</td><td>betanina</td></tr>
 <tr><td>163</td><td>Antociani</td><td>se la lista d’applicazione fissa un livello massimo per l’alluminio proveniente da pigmenti di alluminio, sono pure ammessi i pigmenti di alluminio preparati con questi coloranti</td></tr>
 <tr><td>170</td><td>Carbonato di calcio</td><td></td></tr>
-<tr><td>171</td><td>Biossido di titanio</td><td></td></tr>
 <tr><td>172</td><td>Ossidi e idrossidi di ferro</td><td></td></tr>
 <tr><td>173</td><td>Alluminio</td><td>non deve essere consegnato direttamente al consumatore</td></tr>
 <tr><td>174</td><td>Argento</td><td></td></tr>
@@ -740,7 +747,7 @@ Allegato 2*[^t-3]*
 
 ## Gruppi di additivi
 
-[^t-3]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) e dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-3]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) e dal n. II dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 ### Gruppo I: Additivi ammessi secondo la buona prassi di fabbricazione (BPF) oppure con una limitazione della quantità
 
@@ -902,7 +909,6 @@ Allegato 2*[^t-3]*
 <tr><td>162</td><td colspan="3">Rosso di barbabietola</td></tr>
 <tr><td>163</td><td colspan="3">Antociani</td></tr>
 <tr><td>170</td><td colspan="3">Carbonato di calcio</td></tr>
-<tr><td>171</td><td colspan="3">Biossido di titanio</td></tr>
 <tr><td>172</td><td colspan="3">Ossidi e idrossidi di ferro</td></tr>
 </table>
 
@@ -1185,7 +1191,7 @@ Allegato 3*[^t-4]*
 
 ## Lista di applicazione
 
-[^t-4]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) e dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-4]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) e dal n. II dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 Le denominazioni delle singole categorie di derrate alimentari non corrispondono alle denominazioni specifiche in altri atti normativi.
 
@@ -2806,9 +2812,6 @@ Fatte salve disposizioni divergenti, i livelli massimi di coloranti si applicano
 <tr><td></td><td colspan="2">E 163</td><td>Antociani</td><td>BPF</td><td></td><td>Solo crostacei precotti</td></tr>
 <tr><td></td><td colspan="2">E 163</td><td>Antociani</td><td>BPF</td><td>(37) Livello massimo per la singola sostanza o per la combinazione di E 100, E 102, E 120, E 151, ed E 160e.</td><td>Solo pesce affumicato.</td></tr>
 <tr><td></td><td colspan="2">E 170</td><td>Carbonato di calcio</td><td>BPF</td><td></td><td>Solo pasta di pesce e crostacei</td></tr>
-<tr><td></td><td colspan="2">E 171</td><td>Biossido di titanio</td><td>BPF</td><td></td><td>Solo pasta di pesce e crostacei</td></tr>
-<tr><td></td><td colspan="2">E 171</td><td>Biossido di titanio</td><td>BPF</td><td></td><td>Solo crostacei precotti</td></tr>
-<tr><td></td><td colspan="2">E 171</td><td>Biossido di titanio</td><td>BPF</td><td></td><td>Solo pesce affumicato</td></tr>
 <tr><td></td><td colspan="2">E 172</td><td>Ossidi e idrossidi di ferro</td><td>BPF</td><td></td><td>Solo pasta di pesce e crostacei</td></tr>
 <tr><td></td><td colspan="2">E 172</td><td>Ossidi e idrossidi di ferro</td><td>BPF</td><td></td><td>Solo pesce affumicato</td></tr>
 <tr><td></td><td colspan="2">E 200 - E 202</td><td>acido sorbico – sorbato di potassio</td><td>1000</td><td>(1) Gli additivi possono essere aggiunti singolarmente o in combinazione.; (2) Il livello massimo è applicabile alla somma e i livelli sono espressi come acido libero.</td><td>Aspic.</td></tr>
@@ -3978,7 +3981,7 @@ Allegato 5*[^t-6]*
 
 ## Liste degli additivi, comprese le sostanze di supporto per l’utilizzazione in additivi, enzimi, aromi e vitamine, sali minerali e altre determinate sostanze con effetto nutrizionale o fisiologico
 
-[^t-6]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) e dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-6]: Aggiornato dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), dal n. II cpv. 2 dell’O del DFI del 16 dic. 2016 ([RU 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), dal n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) e dal n. II dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 ### 1. Sostanze di supporto negli additivi
 
@@ -4042,7 +4045,7 @@ Allegato 5*[^t-6]*
 <tr><td>551</td><td>Biossido di silicio</td><td>BPF</td><td>Emulsionanti e coloranti</td></tr>
 <tr><td>552</td><td>Silicato di calcio</td><td>BPF</td><td>Emulsionanti e coloranti</td></tr>
 <tr><td>553b</td><td>Talco</td><td>50 mg/kg nella preparazione di coloranti</td><td>Coloranti</td></tr>
-<tr><td>555</td><td>Silicato di potassio e alluminio</td><td>90% in rapporto al pigmento</td><td>E 171 (biossido di titanio) ed E 172 (ossidi di ferro e idrossidi di ferro)</td></tr>
+<tr><td>555</td><td>Silicato di potassio e alluminio</td><td>90 % in rap porto al pigmento</td><td>In E 172, Ossidi e idrossidi di ferro</td></tr>
 <tr><td>570</td><td>Acidi grassi</td><td>BPF</td><td>Agenti di rivestimento per frutta</td></tr>
 <tr><td>577</td><td>Gluconato di potassio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>
 <tr><td>640</td><td>Glicina e il suo sale di sodio</td><td>BPF</td><td>Tutti gli additivi alimentari</td></tr>

@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 25 novembre 2013 sur les additifs admis dans les de
 short: OAdd
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/842"
 language: fr
-version: 2020-07-01
+version: 2022-03-15
 adopted: 2013-11-25
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-842-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2013-842-20220315-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20220315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20200701/fr"
 
 (Ordonnance sur les additifs, OAdd)
 
-du 25 novembre 2013 (Etat le 1<sup>er</sup> juillet 2020)
+du 25 novembre 2013 (Etat le 15 mars 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -340,6 +340,14 @@ Les denrées alimentaires non conformes à la modification du 27 mai 2020 peuven
 
 [^13b-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
 
+#### Art. 13c
+
+**Disposition transitoire relative à la modification du 14 février 2022**[^13c-1]
+
+Les denrées alimentaires non conformes à la modification du 14 février 2022 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 14 septembre 2022 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^13c-1]: Introduit par le ch. I de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
+
 #### Art. 14
 
 **Entrée en vigueur**
@@ -396,7 +404,7 @@ Annexe 1a*[^t-2]*
 
 ## Liste des additifs autorisés
 
-[^t-2]: Anciennement annexe 1. Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 1 des O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) et du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-2]: Anciennement annexe 1. Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 1 des O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), du 27 mai 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) et le ch. II de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 <table>
 <tr><th>N<sup>o</sup> E</th><th>Additif</th><th>Remarques</th></tr>
@@ -435,7 +443,6 @@ Annexe 1a*[^t-2]*
 <tr><td>162</td><td>Rouge de betterave</td><td>Bétanine</td></tr>
 <tr><td>163</td><td>Anthocyanes</td><td>Si une quantité maximale autorisée d’aluminium provenant de laques aluminiques est définie dans la liste des applications, les laques aluminiques formées à partir de ce colorant sont également autorisées.</td></tr>
 <tr><td>170</td><td>Carbonate de calcium</td><td></td></tr>
-<tr><td>171</td><td>Dioxyde de titane</td><td></td></tr>
 <tr><td>172</td><td>Oxyde et hydroxyde de fer</td><td></td></tr>
 <tr><td>173</td><td>Aluminium</td><td>ne doit pas être remis directement au consommateur</td></tr>
 <tr><td>174</td><td>Argent</td><td></td></tr>
@@ -740,7 +747,7 @@ Annexe 2*[^t-3]*
 
 ## Groupes d’additifs
 
-[^t-3]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) et le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) et le ch. II de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 ### Groupe I: additifs autorisés conformément aux bonnes pratiques de fabrication (BPF) ou en quantités limitées
 
@@ -902,7 +909,6 @@ Annexe 2*[^t-3]*
 <tr><td>162</td><td>Rouge de betterave</td></tr>
 <tr><td>163</td><td>Anthocyanes</td></tr>
 <tr><td>170</td><td>Carbonate de calcium</td></tr>
-<tr><td>171</td><td>Dioxyde de titane</td></tr>
 <tr><td>172</td><td>Oxyde et hydroxyde de fer</td></tr>
 </table>
 
@@ -1183,7 +1189,7 @@ Annexe 3*[^t-4]*
 
 ## Liste d’application
 
-[^t-4]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) et le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-4]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) et le ch. II de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 La dénomination des différentes catégories de denrées alimentaires ne correspond pas aux dénominations spécifiques figurant dans d’autres textes législatifs.
 
@@ -2694,7 +2700,7 @@ Sauf disposition contraire, les quantités maximales de colorants sont celles qu
 <tr><td></td><td>E 251–E 252</td><td>Nitrates</td><td>250</td><td>(7) Quantité maximale qui peut être ajoutée lors de la fabrication, exprimée en NaNO2 ou NaNO3; (40) Sans nitrites ajoutés.; (49) Les quantités maximales d’utilisation sont dérivées des quantités maximales d’utilisation de ses constituants, l’aspartame (E 951) et l’acésulfame-K (E 950).</td><td>Uniquement bacon, filet de bacon et produits similaires: le produit est immergé dans la saumure pendant 4 à 5 jours à une température de 5 à 7 °C, il est soumis habituellement à une maturation pendant 24 à 40 heures à une température de 22 °C, il est éventuellement fumé pendant 24 heures à une température de 20 à 25 °C puis entreposé pendant 3 à 6 semaines à une température de 12 à 14 °C.</td></tr>
 <tr><td></td><td>E 251–E 252</td><td>Nitrates</td><td>250</td><td>(39) Quantité maximale, quantité à la fin du processus de production, exprimée en NaNO2ou NaNO3</td><td>Uniquement jambon cru, saumuré par immersion et produits similaires; La durée de saumurage dépend de la forme et du poids des morceaux de viande: elle est approximativement de 2 jours/kg; vient ensuite la stabilisation/maturation.</td></tr>
 <tr><td></td><td>E 251–E 252</td><td>Nitrates</td><td>10</td><td>(39) Quantité maximale, quantité à la fin du processus de production, exprimée en NaNO2ou NaNO3; (59) Des nitrates peuvent être présents dans certains produits à base de viande traités thermiquement, en raison de la conversion naturelle des nitrites en nitrates dans un milieu de faible acidité.</td><td>Uniquement cured tongue: immersion dans la saumure durant au moins 4 jours et précuisson</td></tr>
-<tr><td colspan="5">08.3.4.2 Produits traditionnels traités en salaison sèche. (Le processus de salaison à sec consiste en l’application d’une saumure sèche contenant des nitrites et/ou des nitrates, du sel et d’autres composants à la surface de la viande, puis en une période de stabilisation/maturation.)</td><td>E 249–E 250</td></tr>
+<tr><td colspan="5">08.3.4.2 Produits traditionnels traités en salaison sèche. (Le processus de salaison à sec consiste en l’application d’une saumure sèche contenant des nitrites et/ou des nitrates, du sel et d’autres composants à la surface de la viande, puis en une période de stabilisation/maturation.)</td><td></td></tr>
 <tr><td></td><td>E 249–E 250</td><td>Nitrites</td><td>50</td><td>(39) Quantité maximale, quantité à la fin du processus de production, exprimée en NaNO2ou NaNO3</td><td>Uniquement jambon cru, saumuré à sec et produits similaires: la durée de salaison dépend de la forme et du poids des morceaux de viande et est approximativement de 10 à 14 jours; vient ensuite la stabilisation/maturation.</td></tr>
 <tr><td></td><td>E 249–E 250</td><td>Nitrites</td><td>175</td><td>(39) Quantité maximale, quantité à la fin du processus de production, exprimée en NaNO2ou NaNO3</td><td>Uniquement dry cured bacon et produits similaires: salaison à sec suivie d’une maturation pendant au moins 4 jours.</td></tr>
 <tr><td></td><td>E 249–E 250</td><td>Nitrites</td><td>100</td><td>(39) Quantité maximale, quantité à la fin du processus de production, exprimée en NaNO2ou NaNO3</td><td>Uniquement dry cured ham et produits similaires: salaison à sec suivie d’une maturation pendant au moins 4 jours.</td></tr>
@@ -2800,9 +2806,6 @@ Sauf disposition contraire, les quantités maximales de colorants sont celles qu
 <tr><td></td><td>E 163</td><td>Anthocyanes</td><td>BPF</td><td></td><td>Uniquement crustacés précuits</td></tr>
 <tr><td></td><td>E 163</td><td>Anthocyanes</td><td>BPF</td><td>(37) Maximum employés seuls ou pour le mélange de E 100, E 102, E 120, E 151, E 160e.</td><td>Uniquement poisson fumé</td></tr>
 <tr><td></td><td>E 170</td><td>Carbonate de calcium</td><td>BPF</td><td></td><td>Uniquement pâtes de poisson et de crustacés</td></tr>
-<tr><td></td><td>E 171</td><td>Dioxyde de titane</td><td>BPF</td><td></td><td>Uniquement pâtes de poisson et de crustacés</td></tr>
-<tr><td></td><td>E 171</td><td>Dioxyde de titane</td><td>BPF</td><td></td><td>Uniquement crustacés précuits</td></tr>
-<tr><td></td><td>E 171</td><td>Dioxyde de titane</td><td>BPF</td><td></td><td>Uniquement poisson fumé</td></tr>
 <tr><td></td><td>E 172</td><td>Oxyde et hydroxyde de fer</td><td>BPF</td><td></td><td>Uniquement pâtes de poisson et de crustacés</td></tr>
 <tr><td></td><td>E 172</td><td>Oxyde et hydroxyde de fer</td><td>BPF</td><td></td><td>Uniquement poisson fumé</td></tr>
 <tr><td></td><td>E 200–E 202</td><td>Acide sorbique – sorbate de potassium</td><td>1000</td><td>(1) Les additifs peuvent être ajoutés seuls ou en mélange.; (2) La quantité maximale s’applique à la somme et les quantités sont exprimées en acide libre.</td><td>Aspic</td></tr>
@@ -3962,7 +3965,7 @@ Annexe 5*[^t-6]*
 
 ## Listes des additifs, y compris les supports, autorisés dans les additifs, les enzymes, les arômes et les substances essentielles ou physiologiquement utiles
 
-[^t-6]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) et le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-6]: Mise à jour par le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), le ch. II al. 2 de l’O du DFI du 16 déc. 2016 ([RO 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) et le ch. II de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 ### 1. Supports dans les additifs
 
@@ -4026,7 +4029,7 @@ Annexe 5*[^t-6]*
 <tr><td>E 551</td><td>Dioxyde de silicium</td><td>BPF</td><td>Émulsifiants et colorants</td></tr>
 <tr><td>E 552</td><td>Silicate de calcium</td><td>BPF</td><td>Tous les additifs alimentaires</td></tr>
 <tr><td>E 553b</td><td>Talc</td><td>50 mg/kg dans la préparation de colorants</td><td>Colorants</td></tr>
-<tr><td>E 555</td><td>Silicate alumino-potassique</td><td>90 % par rapport au pigment</td><td>E 171 (dioxyde de titane) et E 172 (oxyde et hydroxyde de fer)</td></tr>
+<tr><td>E 555</td><td>Silicate alumino-potassique</td><td>90 %, par rapport au pigment</td><td>E 172 (oxyde et hydroxyde de fer)</td></tr>
 <tr><td>E 570</td><td>Acides gras</td><td>BPF</td><td>Tous les additifs alimentaires</td></tr>
 <tr><td>E 577</td><td>Gluconate de potassium</td><td>BPF</td><td>Tous les additifs alimentaires</td></tr>
 <tr><td>E 640</td><td>Glycine et son sel de sodium</td><td>BPF</td><td>Tous les additifs alimentaires</td></tr>

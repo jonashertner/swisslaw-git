@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 25. November 2013 über die zulässigen Zusatzsto
 short: ZuV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/842"
 language: de
-version: 2020-07-01
+version: 2022-03-15
 adopted: 2013-11-25
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2013-842-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/842/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2013-842-20220315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20220315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/842/20200701/de"
 
 (Zusatzstoffverordnung, ZuV)[^t-1]
 
-vom 25. November 2013 (Stand am 1. Juli 2020)
+vom 25. November 2013 (Stand am 15. März 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)).
 
@@ -236,7 +236,7 @@ Werden Zusatzstoffe oder Zusatzstoffpräparate als solche an Konsumentinnen oder
 
 **Süssungsmittelpräparate, die als solche an Konsumentinnen und Konsumenten abgegeben werden**[^9a-1]
 
-<sup>1</sup> Werden Süssungsmittelpräparate als solche an Konsumentinnen und Konsumenten abgegeben, so lautet die Sachbezeichnung nach Artikel 3 Absatz 1 Buchstabe a LIV[^9a-2] «Süssungsmittel auf Grundlage von ...», gefolgt von der Einzelbezeichnung, wie «Saccharin». Anstelle von «Süssungsmittel» kann «Süssstoff», «Tafelsüssstoff» oder «Tafelsüsse» verwendet werden.
+<sup>1</sup> Werden Süssungsmittelpräparate als solche an Konsumentinnen und Konsumenten abgegeben, so lautet die Sachbezeichnung nach Artikel 3 Absatz 1 Buchstabe a LIV[^9a-2] «Süssungsmittel auf Grundlage von …», gefolgt von der Einzelbezeichnung, wie «Saccharin». Anstelle von «Süssungsmittel» kann «Süssstoff», «Tafelsüssstoff» oder «Tafelsüsse» verwendet werden.
 
 <sup>2</sup>
 
@@ -275,7 +275,7 @@ Werden Zusatzstoffe oder Zusatzstoffpräparate nicht als solche an Konsumentinne
 
 #### Art. 10
 
-**...[^10-1]**
+**…[^10-1]**
 
 Hersteller und Verwender von Zusatzstoffen sind verpflichtet:
 
@@ -292,7 +292,7 @@ Hersteller und Verwender von Zusatzstoffen sind verpflichtet:
 
 #### Art. 11
 
-**...[^11-1]**
+**…[^11-1]**
 
 <sup>1</sup> Das BLV passt die Anhänge dieser Verordnung regelmässig dem Stand von Wissenschaft und Technik sowie dem Recht der wichtigsten Handelspartner der Schweiz an.
 
@@ -342,6 +342,14 @@ Die Zusatzstoffverordnung vom 22. Juni 2007[^12-1] wird aufgehoben.
 Lebensmittel, die der Änderung vom 27. Mai 2020 nicht entsprechen, dürfen noch bis zum 30. Juni 2021 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
 [^13b-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+
+#### Art. 13c
+
+**Übergangsbestimmung zur Änderung vom 14. Februar 2022**[^13c-1]
+
+Lebensmittel, die der Änderung vom 14. Februar 2022 nicht entsprechen, dürfen noch bis zum 14. September 2022 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^13c-1]: Eingefügt durch Ziff. I der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 #### Art. 14
 
@@ -399,7 +407,7 @@ Anhang 1a*[^t-3]*
 
 ## Liste der zugelassenen Zusatzstoffe
 
-[^t-3]: Ursprünglich: Anhang 1. Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) und vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-3]: Ursprünglich: Anhang 1. Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), vom 27. Mai 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) und Ziff. II der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 <table>
 <tr><th>E-Nr.</th><th>Zusatzstoff</th><th>Bemerkungen</th></tr>
@@ -438,7 +446,6 @@ Anhang 1a*[^t-3]*
 <tr><td>162</td><td>Betanin</td><td>Betenrot</td></tr>
 <tr><td>163</td><td>Anthocyane</td><td>ist in der Anwendungsliste eine Höchstmenge für Aluminium aus Aluminiumlacken definiert, sind ebenfalls die Aluminiumlacke aus diesen Farbstoffen zugelassen</td></tr>
 <tr><td>170</td><td>Calciumcarbonat</td><td></td></tr>
-<tr><td>171</td><td>Titandioxid</td><td></td></tr>
 <tr><td>172</td><td>Eisenoxide und Eisenhydroxide</td><td></td></tr>
 <tr><td>173</td><td>Aluminium</td><td>darf nicht direkt an die Konsumentin oder den Konsumenten abgegeben werden</td></tr>
 <tr><td>174</td><td>Silber</td><td></td></tr>
@@ -743,7 +750,7 @@ Anhang 2*[^t-4]*
 
 ## Gruppen von Zusatzstoffen
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) und Ziff. II der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 ### Gruppe I: Zusatzstoffe, die gemäss guter Herstellungspraxis (GHP) oder mit Mengenbegrenzung zulässig sind
 
@@ -905,7 +912,6 @@ Anhang 2*[^t-4]*
 <tr><td>162</td><td>Beetenrot</td></tr>
 <tr><td>163</td><td>Anthocyane</td></tr>
 <tr><td>170</td><td>Calciumcarbonat</td></tr>
-<tr><td>171</td><td>Titandioxid</td></tr>
 <tr><td>172</td><td>Eisenoxide und Eisenhydroxide</td></tr>
 </table>
 
@@ -1189,7 +1195,7 @@ Anhang 3*[^t-5]*
 
 ## Anwendungsliste
 
-[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) und Ziff. II der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 Die Bezeichnung der einzelnen Lebensmittelkategorien entsprechen nicht den Sachbezeichnungen in anderen Erlassen.
 
@@ -2808,9 +2814,6 @@ Unter Vorbehalt einer abweichenden Regelung gelten die Höchstmengen von Farbsto
 <tr><td></td><td>E 163</td><td>Anthocyane</td><td>GHP</td><td></td><td>Nur vorgekochte Krebstiere</td></tr>
 <tr><td></td><td>E 163</td><td>Anthocyane</td><td>GHP</td><td>(37) Höchstmenge für den Zusatzstoff allein oder Kombinationen von E 100, E 102, E 120, E 151, E 160e.</td><td>Nur Räucherfisch</td></tr>
 <tr><td></td><td>E 170</td><td>Calciumcarbonat</td><td>GHP</td><td></td><td>Nur Fisch- oder Krebstierpaste</td></tr>
-<tr><td></td><td>E 171</td><td>Titandioxid</td><td>GHP</td><td></td><td>Nur Fisch- oder Krebstierpaste</td></tr>
-<tr><td></td><td>E 171</td><td>Titandioxid</td><td>GHP</td><td></td><td>Nur vorgekochte Krebstiere</td></tr>
-<tr><td></td><td>E 171</td><td>Titandioxid</td><td>GHP</td><td></td><td>Nur Räucherfisch</td></tr>
 <tr><td></td><td>E 172</td><td>Eisenoxide und -hydroxide</td><td>GHP</td><td></td><td>Nur Fisch- oder Krebstierpaste</td></tr>
 <tr><td></td><td>E 172</td><td>Eisenoxide und -hydroxide</td><td>GHP</td><td></td><td>Nur Räucherfisch</td></tr>
 <tr><td></td><td>E 200–E 202</td><td>Sorbinsäure - Kaliumsorbat</td><td>1000</td><td>(1) Die Zusatzstoffe können einzeln oder in Kombination verwendet werden.; (2) Die Höchstmenge gilt für die Summe, die Mengen werden berechnet als freie Säure.</td><td>Aspik</td></tr>
@@ -3437,9 +3440,9 @@ Unter Vorbehalt einer abweichenden Regelung gelten die Höchstmengen von Farbsto
 <tr><td colspan="5">14.1.2 Fruchtsäfte und Gemüsesäfte</td><td></td></tr>
 <tr><td></td><td>Gruppe I</td><td>Zusatzstoffe</td><td></td><td></td><td>Nur Gemüsesäfte</td></tr>
 <tr><td></td><td>E 170</td><td>Calciumcarbonat</td><td>GHP</td><td></td><td>Nur Traubensaft</td></tr>
-<tr><td></td><td>E 200–E 202</td><td>Sorbinsäure - Kaliumsorbat</td><td>500</td><td>(1) Die Zusatzstoffe können einzeln oder in Kombination verwendet werden.; (2) Die Höchstmenge gilt für die Summe, die Mengen werden berechnet als freie Säure.</td><td>Nur sød ... saft oder sødet ... saft</td></tr>
+<tr><td></td><td>E 200–E 202</td><td>Sorbinsäure - Kaliumsorbat</td><td>500</td><td>(1) Die Zusatzstoffe können einzeln oder in Kombination verwendet werden.; (2) Die Höchstmenge gilt für die Summe, die Mengen werden berechnet als freie Säure.</td><td>Nur sød … saft oder sødet … saft</td></tr>
 <tr><td></td><td>E 200–E 213</td><td>Sorbinsäure - Kaliumsorbat; Benzoesäure - Benzoate</td><td>2000</td><td>(1) Die Zusatzstoffe können einzeln oder in Kombination verwendet werden.; (2) Die Höchstmenge gilt für die Summe, die Mengen werden berechnet als freie Säure.</td><td>Nur Traubensaft, unvergoren, für sakramentale Verwendung</td></tr>
-<tr><td></td><td>E 210–E 213</td><td>Benzoesäure - Benzoate (BA)</td><td>200</td><td>(1) Die Zusatzstoffe können einzeln oder in Kombination verwendet werden.; (2) Die Höchstmenge gilt für die Summe, die Mengen werden berechnet als freie Säure.</td><td>Nur sød ... saft oder sødet ... saft</td></tr>
+<tr><td></td><td>E 210–E 213</td><td>Benzoesäure - Benzoate (BA)</td><td>200</td><td>(1) Die Zusatzstoffe können einzeln oder in Kombination verwendet werden.; (2) Die Höchstmenge gilt für die Summe, die Mengen werden berechnet als freie Säure.</td><td>Nur sød … saft oder sødet … saft</td></tr>
 <tr><td></td><td>E 220–E 228</td><td>Schwefeldioxid - Sulfite</td><td>70</td><td>(3) Die Höchstmengen werden berechnet als SO2 und beziehen sich auf die Gesamtmenge, aus allen Quellen; ein SO2-Gehalt von nicht mehr als 10 mg/kg bzw. 10 mg/l gilt als nicht vorhanden.</td><td>Nur Traubensaft, unvergoren, für sakramentale Verwendung</td></tr>
 <tr><td></td><td>E 220–E 228</td><td>Schwefeldioxid - Sulfite</td><td>50</td><td>(3) Die Höchstmengen werden berechnet als SO2 und beziehen sich auf die Gesamtmenge, aus allen Quellen; ein SO2-Gehalt von nicht mehr als 10 mg/kg bzw. 10 mg/l gilt als nicht vorhanden.</td><td>Nur Orangen-, Grapefruit-, Apfel- oder Ananassaft für die Abgabe aus Grossbehältern in Einrichtungen zur Gemeinschaftsverpflegung</td></tr>
 <tr><td></td><td>E 220–E 228</td><td>Schwefeldioxid - Sulfite</td><td>350</td><td>(3) Die Höchstmengen werden berechnet als SO2 und beziehen sich auf die Gesamtmenge, aus allen Quellen; ein SO2-Gehalt von nicht mehr als 10 mg/kg bzw. 10 mg/l gilt als nicht vorhanden.</td><td>Nur Limonen- oder Zitronensaft</td></tr>
@@ -3449,7 +3452,7 @@ Unter Vorbehalt einer abweichenden Regelung gelten die Höchstmengen von Farbsto
 <tr><td></td><td>E 330</td><td>Citronensäure</td><td>3000</td><td></td><td></td></tr>
 <tr><td></td><td>E 336</td><td>Kaliumtartrate</td><td>GHP</td><td></td><td>Nur Traubensaft</td></tr>
 <tr><td></td><td>E 440</td><td>Pektine</td><td>3000</td><td></td><td>Nur Ananas- und Passionsfruchtsaft</td></tr>
-<tr><td></td><td>E 900</td><td>Dimethylpolysiloxan</td><td>10</td><td></td><td>Nur Ananassaft und sød ... saft oder sødet ... saft</td></tr>
+<tr><td></td><td>E 900</td><td>Dimethylpolysiloxan</td><td>10</td><td></td><td>Nur Ananassaft und sød … saft oder sødet … saft</td></tr>
 <tr><td colspan="5">14.1.3 Fruchtnektare und Gemüsenektare und gleichartige Produkte</td><td></td></tr>
 <tr><td></td><td>Gruppe I</td><td>Zusatzstoffe</td><td></td><td></td><td>Nur Gemüsenektare; E 420, E 421, E 953, E 965, E 966, E 967 und E 968 sind nicht zulässig</td></tr>
 <tr><td></td><td>E 200–E 202</td><td>Sorbinsäure - Kaliumsorbat</td><td>300</td><td>(1) Die Zusatzstoffe können einzeln oder in Kombination verwendet werden.; (2) Die Höchstmenge gilt für die Summe, die Mengen werden berechnet als freie Säure.</td><td>Nur Obstsirupe nach schwedischer bzw. finnischer Tradition</td></tr>
@@ -3965,7 +3968,7 @@ Anhang 5*[^t-7]*
 
 ## Listen der Zusatzstoffe, inklusive Trägerstoffe zur Verwendung in Zusatzstoffen, Enzymen, Aromen und Vitaminen, Mineralstoffen und bestimmten anderen Stoffen mit ernährungsbezogener oder physiologischer Wirkung
 
-[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)) und Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)).
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3409](https://fedlex.data.admin.ch/eli/oc/2015/602)), Ziff. II Abs. 2 der V des EDI vom 16. Dez. 2016 ([AS 2017 1465](https://fedlex.data.admin.ch/eli/oc/2017/160)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2365](https://fedlex.data.admin.ch/eli/oc/2020/453)) und Ziff. II der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 124](https://fedlex.data.admin.ch/eli/oc/2022/124)).
 
 ### 1. Trägerstoffe in Zusatzstoffen
 
@@ -4023,7 +4026,7 @@ Anhang 5*[^t-7]*
 <tr><td>551</td><td>Siliciumdioxid</td><td>GHP</td><td>Emulgatoren und Farbstoffe</td></tr>
 <tr><td>552</td><td>Calciumsilicat</td><td>GHP</td><td>Emulgatoren und Farbstoffe</td></tr>
 <tr><td>553b</td><td>Talkum</td><td>50 mg/kg in der Farbstoffzubereitung</td><td>Farbstoffe</td></tr>
-<tr><td>555</td><td>Kaliumaluminium-silicat</td><td>90 %, bezogen auf das Pigment</td><td>In E 171, Titandioxid, und E 172, Eisenoxide und Eisenhydroxide</td></tr>
+<tr><td>E 555</td><td>Kaliumaluminiumsilicat</td><td>90 %, bezogen auf das Pigment</td><td>In E 172, Eisenoxide und Eisenhydroxide</td></tr>
 <tr><td>570</td><td>Speisefettsäuren</td><td>GHP</td><td>Überzugmittel für Obst</td></tr>
 <tr><td>577</td><td>Kaliumgluconat</td><td>GHP</td><td>Alle Lebensmittelzusatzstoffe</td></tr>
 <tr><td>640</td><td>Glycin und sein Natriumsalz</td><td>GHP</td><td>Alle Lebensmittelzusatzstoffe</td></tr>
