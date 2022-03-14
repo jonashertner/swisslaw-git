@@ -4,11 +4,11 @@ title: "Ordinanza del DFGP dell' 8 dicembre 2017 sulla realizzazione di atti pub
 short: OAPuE-DFGP
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/30"
 language: it
-version: 2018-02-01
+version: 2022-03-15
 adopted: 2017-12-08
 in_force: 2018-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/30/20180201/it/xml/fedlex-data-admin-ch-eli-cc-2018-30-20180201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20180201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/30/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2018-30-20220315-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20220315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20180201/it"
 
 (OAPuE-DFGP)
 
-dell’8 dicembre 2017 (Stato 1° febbraio 2018)
+dell’8 dicembre 2017 (Stato 15 marzo 2022)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -25,7 +25,7 @@ visti gli articoli 10 capoverso 5, 19 capoverso 3, 20 capoverso 2 e 26 dell’or
 
 ordina:
 
-[^ingress-1]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^ingress-1]: [RS 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 ## Sezione 1: Oggetto
 
@@ -145,7 +145,7 @@ In seguito, il programma trasmette al RegPU soltanto le seguenti informazioni:
 - b. il certificato del pubblico ufficiale su cui si basa la firma;
 - c. i dati necessari per l’autentificazione del pubblico ufficiale.
 
-[^9-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^9-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 10
 
@@ -195,7 +195,7 @@ Il RegPU emette la conferma di ammissione in forma di grafico e in un formato a 
 
 <sup>2</sup> Il sigillo elettronico del RegPU si basa su un certificato intestato all’organizzazione e rilasciato da un prestatore di servizi di certificazione riconosciuto secondo la FiEle; l’organizzazione indicata nel campo «Common Name» dev’essere «Swiss Confederation – Swiss Register of Notaries».
 
-[^14-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^14-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 15
 
@@ -225,9 +225,9 @@ Il sistema di validazione verifica le seguenti caratteristiche tecniche di atti 
 
 #### Art. 18
 
-**Disposizione transitoria per i terzi**
+[^18-1]
 
-Fino al 31 dicembre 2022 i pubblici ufficiali che ottengono le conferme di ammissione mediante una procedura di richiamo effettuata da terzi (art. 9 cpv. 1) possono identificarsi presso i terzi invece che presso l’UpReg (art. 11 lett. b).
+[^18-1]: Abrogato dal n. I dell’O del DFGP del 14 feb. 2022, con effetto dal 15 mar. 2022 ([RU 2022 154](https://fedlex.data.admin.ch/eli/oc/2022/154)).
 
 #### Art. 19
 
@@ -260,15 +260,16 @@ L’ordinanza del DFGP del 25 giugno 2013[^20-1] sugli atti pubblici in forma el
 
 La presente ordinanza entra in vigore il 1° febbraio 2018.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2)
 
-## Requisiti tecnici delle interfacce attraverso le quali i dati sui pubblici ufficiali sono trasmessi da altri sistemi al RegPU
+## Requisiti tecnici delle interfacce attraverso le quali i dati sui pubblici ufficiali sono trasmessi da altri sistemi al RegPU (Versione 2)
 
-[^t-1]: Il testo dell’all. non è pubblicato nella RU. Può essere consultata in Internet sul sito www.ufg.admin.ch &gt; Economia &gt; Atti pubblici e autenticazioni in forma elettronica.
+[^annex1-lvlu1-1]
 
-Versione 1
+[^t-1]: Nuovo testo giusta il n. II della O del DFGP del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 154](https://fedlex.data.admin.ch/eli/oc/2022/154)).
+[^annex1-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economia &gt; Digitalizzazione degli atti pubblici &gt; Legge applicabile.
 
 Allegato 2
 
@@ -282,14 +283,15 @@ Allegato 2
 <tr><td>PDF/A-2</td><td>SN EN ISO 19005-2, 2011, Document management – Electronic document file format for long-term preservation – Parte 2: uso di ISO 32000-1 (PDF/A-2)</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: Le norme tecniche possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch o possono essere consultate presso l’Ufficio federale di giustizia, Bundesrain 20, 3003 Berna.
+[^annex2-lvlu1-1]: Le norme tecniche possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch) o possono essere consultate presso l’Ufficio federale di giustizia, Bundesrain 20, 3003 Berna.
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
 (art. 10 cpv. 1)
 
-## Requisiti tecnici per la trasmissione dell’accesso al RegPU
+## Requisiti tecnici per la trasmissione dell’accesso al RegPU (Versione 2)
 
-[^t-2]: Il testo dell’all. non è pubblicato nella RU. Può essere consultata in Internet sul sito www.ufg.admin.ch &gt; Economia &gt; Atti pubblici e autenticazioni in forma elettronica.
+[^annex3-lvlu1-1]
 
-Versione 1
+[^t-2]: Nuovo testo giusta il n. II della O del DFGP del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 154](https://fedlex.data.admin.ch/eli/oc/2022/154)).
+[^annex3-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economia &gt; Digitalizzazione degli atti pubblici &gt; Legge applicabile.

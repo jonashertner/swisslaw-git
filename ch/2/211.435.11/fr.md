@@ -4,11 +4,11 @@ title: "Ordonnance du DFJP du 8 décembre 2017 sur l'établissement d'actes auth
 short: OAAE-DFJP
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/30"
 language: fr
-version: 2018-02-01
+version: 2022-03-15
 adopted: 2017-12-08
 in_force: 2018-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/30/20180201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-30-20180201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20180201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/30/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2018-30-20220315-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20220315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20180201/fr"
 
 (OAAE-DFJP)
 
-du 8 décembre 2017 (Etat le 1<sup>er</sup> février 2018)
+du 8 décembre 2017 (État le 15 mars 2022)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -25,7 +25,7 @@ vu les art. 10, al. 5, 19, al. 3, 20, al. 2, et 26 de l’ordonnance du 8 décem
 
 arrête:
 
-[^ingress-1]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^ingress-1]: [RS 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 ## Section 1 Objet
 
@@ -64,7 +64,7 @@ Les exigences techniques imposées aux interfaces par l’intermédiaire desquel
 
 La demande d’autorisation pour livrer les données doit contenir la preuve que les exigences techniques prévues à l’art. 2 sont remplies.
 
-## Section 3 Etablissement de documents électroniques et formules de verbalisation
+## Section 3 Établissement de documents électroniques et formules de verbalisation
 
 #### Art. 4
 
@@ -145,7 +145,7 @@ Il transmet ensuite à l’UPReg uniquement les informations suivantes:
 - b. le certificat de l’officier public à l’origine de la signature;
 - c. les données nécessaires à l’authentification de l’officier public.
 
-[^9-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^9-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 10
 
@@ -195,7 +195,7 @@ Le RegOP délivre la confirmation d’admission en tant qu’image graphique ain
 
 <sup>2</sup> Le cachet du RegOP repose sur un certificat établi au nom de l’organisation provenant d’un fournisseur reconnu de services de certification au sens de la SCSE; le champ «Common Name» doit porter l’indication «Swiss Register of Notaries» en tant qu’organisation.
 
-[^14-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^14-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 15
 
@@ -225,9 +225,9 @@ Le système de validation vérifie les propriétés techniques suivantes des act
 
 #### Art. 18
 
-**Disposition transitoire pour les tiers**
+[^18-1]
 
-Les officiers publics qui obtiennent en ligne les confirmations d’admission par l’intermédiaire de tiers (art. 9, al. 1) peuvent s’identifier auprès de ce tiers (art. 11, let. b) en lieu et place du RegOP jusqu’au 31 décembre 2022.
+[^18-1]: Abrogé par le ch. I de l’O du DFJP du 14 fév. 2022, avec effet au 15 mars 2022 ([RO 2022 154](https://fedlex.data.admin.ch/eli/oc/2022/154)).
 
 #### Art. 19
 
@@ -260,15 +260,16 @@ L’ordonnance du DFJP du 25 juin 2013 sur l’acte authentique électronique[^2
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2018.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2)
 
-## Exigences techniques imposées aux interfaces par l’intermédiaire desquelles les données relatives aux officiers publics provenant d’autres systèmes sont livrées au RegOP
+## Exigences techniques imposées aux interfaces par l’intermédiaire desquelles les données relatives aux officiers publics provenant d’autres systèmes sont livrées au RegOP (Version 2)
 
-[^t-1]: Cette annexe n’est pas publiée au RO. Consultation: www.bj.admin.ch &gt; Economie &gt; Actes authentiques électroniques et légalisations électroniques.
+[^annex1-lvlu1-1]
 
-**Version 1**
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFJP du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 154](https://fedlex.data.admin.ch/eli/oc/2022/154)).
+[^annex1-lvlu1-1]: Le texte de cette annexe n’est pas publié au RO. Il peut être consulté à l’adresse: [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economie &gt; Digitalisation des actes authentiques &gt; Droit actuel.
 
 Annexe 2
 
@@ -282,14 +283,15 @@ Annexe 2
 <tr><td>PDF/A-2</td><td>SN EN ISO 19005-2, 2011, Gestion de documents – Format de fichier des documents électroniques pour une conservation à long terme – Partie 2: Utilisation de l’ISO 32000-1 (PDF/A-2)</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: Les normes techniques peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch ou consultées auprès de l’Office fédéral de la justice, Bundesrain 20, 3003 Berne.
+[^annex2-lvlu1-1]: Les normes techniques peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch) ou consultées auprès de l’Office fédéral de la justice, Bundesrain 20, 3003 Berne.
 
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 (art. 10, al. 1)
 
-## Exigences techniques pour la transmission des requêtes en ligne au RegOP
+## Exigences techniques pour la transmission des requêtes en ligne au RegOP (Version 2)
 
-[^t-2]: Cette annexe n’est pas publiée au RO. Consultation: www.bj.admin.ch &gt; Economie &gt; Actes authentiques électroniques et légalisations électroniques.
+[^annex3-lvlu1-1]
 
-**Version 1**
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du DFJP du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 154](https://fedlex.data.admin.ch/eli/oc/2022/154)).
+[^annex3-lvlu1-1]: Le texte de cette annexe n’est pas publié au RO. Il peut être consulté à l’adresse: [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Economie &gt; Digitalisation des actes authentiques &gt; Droit actuel.

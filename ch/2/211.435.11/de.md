@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 8. Dezember 2017 über die Erstellung elektronisc
 short: EÖBV-EJPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/30"
 language: de
-version: 2018-02-01
+version: 2022-03-15
 adopted: 2017-12-08
 in_force: 2018-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/30/20180201/de/xml/fedlex-data-admin-ch-eli-cc-2018-30-20180201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20180201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/30/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2018-30-20220315-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20220315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/30/20180201/de"
 
 (EÖBV-EJPD)
 
-vom 8. Dezember 2017 (Stand am 1. Februar 2018)
+vom 8. Dezember 2017 (Stand am 15. März 2022)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 10 Absatz 5, 19 Absatz 3, 20 Absatz 2 und 26 der Veror
 
 verordnet:
 
-[^ingress-1]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+[^ingress-1]: [SR 211.435.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5811)
 
 ## 1. Abschnitt: Gegenstand
 
@@ -145,7 +145,7 @@ Es übermittelt dem UPReg danach nur die folgenden Informationen:
 - b. das der Signatur zugrunde liegende Zertifikat der Urkundsperson;
 - c. die zur Authentifizierung der Urkundsperson notwendigen Daten.
 
-[^9-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^9-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 10
 
@@ -195,7 +195,7 @@ Das UPReg gibt die Zulassungsbestätigung als Grafik sowie in maschinenlesbarer 
 
 <sup>2</sup> Das elektronische Siegel des UPReg beruht auf einem auf die Organisation lautenden Zertifikat einer nach ZertES anerkannten Anbieterin von Zertifizierungsdiensten; als Organisation ist im Feld Common Name «Swiss Confederation – Swiss Register of Notaries» anzugeben.
 
-[^14-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^14-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 15
 
@@ -225,9 +225,9 @@ Das Validatorsystem prüft folgende technische Eigenschaften elektronischer öff
 
 #### Art. 18
 
-**Übergangsbestimmung für Dritte**
+[^18-1]
 
-Urkundspersonen, die Zulassungsbestätigungen über einen Dritten abrufen (Art. 9 Abs. 1), können sich bis zum 31. Dezember 2022 statt gegenüber dem UPReg (Art. 11 Bst. b) gegenüber dem Dritten identifizieren.
+[^18-1]: Aufgehoben durch Ziff. I der V des EJPD vom 14. Febr. 2022, mit Wirkung seit 15. März 2022 ([AS 2022 154](https://fedlex.data.admin.ch/eli/oc/2022/154)).
 
 #### Art. 19
 
@@ -260,15 +260,16 @@ Die Verordnung des EJPD vom 25. Juni 2013[^20-1] über die elektronische öffent
 
 Diese Verordnung tritt am 1. Februar 2018 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2)
 
-## Technische Anforderungen an Schnittstellen, über die dem UPReg Daten über Urkundspersonen aus anderen Systemen geliefert werden
+## Technische Anforderungen an Schnittstellen, über die dem UPReg Daten über Urkundspersonen aus anderen Systemen geliefert werden (Version 2)
 
-[^t-1]: Der Anhang wird in der AS nicht veröffentlicht. Er kann im Internet beim Bundesamt für Justiz unter www.bj.admin.ch &gt; Wirtschaft &gt; Elektronische öffentliche Urkunden und elektronische Beglaubigungen konsultiert werden.
+[^annex1-lvlu1-1]
 
-***Version 1***
+[^t-1]: Fassung gemäss Ziff. II der V des EJPD vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 154](https://fedlex.data.admin.ch/eli/oc/2022/154)).
+[^annex1-lvlu1-1]: Der Text dieses Anhangs wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Wirtschaft &gt; Digitalisierung im Beurkundungsrecht &gt; Geltendes Recht konsultiert werden.
 
 Anhang 2
 
@@ -282,14 +283,15 @@ Anhang 2
 <tr><td>PDF/A-2</td><td>SN EN ISO 19005-2, 2011, Dokumenten-Management – Elektronisches Dokumenten-Dateiformat für die Langzeitarchivierung – Teil 2: Anwendung der ISO 32000-1 (PDF/A-2)</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: Die technischen Normen kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch oder eingesehen werden beim Bundesamt für Justiz, Bundesrain 20, 3003 Bern.
+[^annex2-lvlu1-1]: Die technischen Normen kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch) oder eingesehen werden beim Bundesamt für Justiz, Bundesrain 20, 3003 Bern.
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 (Art. 10 Abs. 1)
 
-## Technische Anforderungen zur Vermittlung des Zugriffs auf das UPReg
+## Technische Anforderungen zur Vermittlung des Zugriffs auf das UPReg (Version 2)
 
-[^t-2]: Der Anhang wird in der AS nicht veröffentlicht. Er kann im Internet beim Bundesamt für Justiz unter www.bj.admin.ch &gt; Wirtschaft &gt; Elektronische öffentliche Urkunden und elektronische Beglaubigungen konsultiert werden.
+[^annex3-lvlu1-1]
 
-***Version 1***
+[^t-2]: Fassung gemäss Ziff. II der V des EJPD vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 154](https://fedlex.data.admin.ch/eli/oc/2022/154)).
+[^annex3-lvlu1-1]: Der Text dieses Anhangs wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter [www.bj.admin.ch](http://www.bj.admin.ch) &gt; Wirtschaft &gt; Digitalisierung im Beurkundungsrecht &gt; Geltendes Recht konsultiert konsultiert werden.
