@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 15 agosto 2012 concernente la sicurezza dei giocat
 short: OSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
 language: it
-version: 2021-08-01
+version: 2022-03-15
 adopted: 2012-08-15
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2012-573-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2012-573-20220315-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20220315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20210801/it"
 
 (Ordinanza sui giocattoli, OSG)
 
-del 15 agosto 2012 (Stato 1° agosto 2021)
+del 15 agosto 2012 (Stato 15 marzo 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -68,9 +68,11 @@ Nella presente ordinanza s’intende per:
 <sup>2</sup> Per interpretare correttamente le espressioni menzionate nella direttiva 2009/48/CE[^1bis-2] a cui rimanda la presente ordinanza, occorre tenere conto delle equivalenze seguenti:
 
 <table>
-<tr><td></td><td>Espressione nella direttiva 2009/48/CE</td><td>Espressione nella presente ordinanza</td></tr>
+<tr><th></th><th>Espressione nella direttiva 2009/48/CE</th><th>Espressione nella presente ordinanza</th></tr>
 <tr><td>a.</td><td>Espressioni in tedesco:</td><td></td></tr>
-<tr><td></td><td>*Bereitstellung auf dem Markt / auf dem Markt bereitstellen* *Inverkehrbringen* *Einführer*</td><td>*Inverkehrbringen / in Verkehr bringen* *Erstmaliges Inverkehrbringen / erstmalig in Verkehr bringen* *Importeur*</td></tr>
+<tr><td></td><td>*Bereitstellung auf dem Markt / auf dem Markt bereitstellen*</td><td>*Inverkehrbringen / in Verkehr* *bringen*</td></tr>
+<tr><td></td><td>*Inverkehrbringen*</td><td>*Erstmaliges Inverkehrbringen /* *erstmalig* *in Verkehr bringen*</td></tr>
+<tr><td></td><td>*Einführer*</td><td>*Importeur*</td></tr>
 <tr><td></td><td>*Gemisch*</td><td>*Zubereitung*</td></tr>
 <tr><td>b.</td><td>Espressioni in francese:</td><td></td></tr>
 <tr><td></td><td>*mise à dispostion sur le marché*</td><td>*mise sur le marché*</td></tr>
@@ -398,7 +400,7 @@ Il fabbricante, il rappresentante autorizzato, l’importatore e il distributore
 - a. mettono a disposizione dell’autorità esecutiva, su richiesta, tutte le informazioni e la documentazione in una lingua ufficiale svizzera o in inglese necessarie per dimostrare che il giocattolo è conforme alla presente ordinanza; e
 - b. cooperano, su richiesta, con l’autorità esecutiva a qualsiasi misura adottata per eliminare i rischi che i giocattoli da essi immessi in commercio presentano.
 
-## Sezione 10:**** Aggiornamento degli allegati
+## Sezione 10: Aggiornamento degli allegati
 
 [^sec10-1]
 
@@ -412,7 +414,8 @@ L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) aggiorna
 
 - a. gli allegati 1–3, 5 e 6 conformemente alla direttiva 2009/48/CE[^23-1] nella versione in vigore nell’Unione europea;
 - b. l’allegato 4 conformemente alle norme armonizzate a livello internazionale.
-- [tab] <sup>2</sup> Può definire disposizioni transitorie in relazione all’aggiornamento.
+
+<sup>2</sup> Può definire disposizioni transitorie in relazione all’aggiornamento.
 
 [^23-1]: Direttiva 2009/48/CE del Parlamento europeo e del Consiglio, del 18 giugno 2009, sulla sicurezza dei giocattoli, GU L 170 del 30.06.2009, pag. 1.
 
@@ -424,7 +427,7 @@ L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) aggiorna
 
 L’ordinanza del 27 marzo 2002[^24-1] sui giocattoli è abrogata.
 
-[^24-1]: [[RU 2002 1082](https://fedlex.data.admin.ch/eli/oc/2002/173), [2003 3733](https://fedlex.data.admin.ch/eli/oc/2003/530), [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)n. II 4 [6585](https://fedlex.data.admin.ch/eli/oc/2005/815), [2006 5157](https://fedlex.data.admin.ch/eli/oc/2006/783), [2008 4647](https://fedlex.data.admin.ch/eli/oc/2008/649), [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449), [2011 303](https://fedlex.data.admin.ch/eli/oc/2011/46)]
+[^24-1]: [[RU 2002 1082](https://fedlex.data.admin.ch/eli/oc/2002/173); [2003 3733](https://fedlex.data.admin.ch/eli/oc/2003/530); [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)n. II 4, [6585](https://fedlex.data.admin.ch/eli/oc/2005/815); [2006 5157](https://fedlex.data.admin.ch/eli/oc/2006/783); [2008 4647](https://fedlex.data.admin.ch/eli/oc/2008/649); [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449); [2011 303](https://fedlex.data.admin.ch/eli/oc/2011/46)]
 
 #### Art. 25
 
@@ -488,13 +491,21 @@ I giocattoli non conformi alla modifica del 30 giugno 2021 relativa all’allega
 
 [^25f-1]: Introdotto dal n. I dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
 
+#### Art. 25g
+
+**Disposizione transitoria della modifica del 14 febbraio 2022**[^25g-1]
+
+I giocattoli che non sono conformi alla modifica del 14 febbraio 2022 relativa all’allegato 2 possono essere importati e fabbricati secondo il diritto anteriore fino al 14 marzo 2023. Possono essere consegnati ai consumatori fino a esaurimento delle scorte.
+
+[^25g-1]: Introdotto dal n. I dell’O dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
+
 #### Art. 26
 
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° ottobre 2012.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 2 e 3 lett. a)
 
@@ -541,13 +552,13 @@ Allegato 1*[^t-1]*
 - 4\. macchine a vapore giocattolo;
 - 5\. fionde e catapulte.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 3 cpv. 1 lett. b)
 
 ## Requisiti particolari di sicurezza relativi ai giocattoli
 
-[^t-2]: Aggiornato dal n. II cpv. 1 dell’O dell’UFSP del 25 nov. 2013 ([RU 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), dal n. II 3 dell’O del DFI del 5 giu. 2015 ([RU 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), dai n. I e II cpv. 1 dell’O del DFI del 16 dic. 2016 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), dalla correzione del 30 mag. 2017 ([RU 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), dal n. II dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)), dal n. II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)) e dal n. II dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
+[^t-2]: Aggiornato dal n. II cpv. 1 dell’O dell’UFSP del 25 nov. 2013 ([RU 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), dal n. II 3 dell’O del DFI del 5 giu. 2015 ([RU 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), dai n. I e II cpv. 1 dell’O del DFI del 16 dic. 2016 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), dalla correzione del 30 mag. 2017 ([RU 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), dal n. II dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)), dal n. II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)), dal n. II dell’O dell’USAV del 30 giu. 2021 ([RU 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)) e dal n. II cpv. 1 dell’USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
 
 ### 1. Proprietà fisico-meccaniche
 
@@ -644,7 +655,7 @@ Allegato 2*[^t-2]*
 <tr><td>(7)</td><td>Maleato di dietile</td><td>141-05-9</td></tr>
 <tr><td>(8)</td><td>Diidrocumarina</td><td>119-84-6</td></tr>
 <tr><td>(9)</td><td>2,4-diidrossi-3-metil-benzaldeide</td><td>6248-20-0</td></tr>
-<tr><td>(10)</td><td>...</td><td></td></tr>
+<tr><td>(10)</td><td>3,7-dimetil-2-octen-1-olo (6,7-diidrogeraniolo)</td><td>40607-48-5</td></tr>
 <tr><td>(11)</td><td>4,6-dimetil-8-terz-butil-cumarina</td><td>17874-34-9</td></tr>
 <tr><td>(12)</td><td>Citraconato di dimetile</td><td>617-54-9</td></tr>
 <tr><td>(13)</td><td>7,11-dimetil-4,6,10-dodecatrien-3-one</td><td>26651-96-7</td></tr>
@@ -708,7 +719,7 @@ Allegato 2*[^t-2]*
 <tr><td>(7)</td><td>Liliale</td><td>80-54-6</td></tr>
 <tr><td>(8)</td><td>d-limonene</td><td>5989-27-5</td></tr>
 <tr><td>(9)</td><td>Linaiolo</td><td>78-70-6</td></tr>
-<tr><td>(10)</td><td>Metileptin carbonato</td><td>111-12-6</td></tr>
+<tr><td>(10)</td><td>...</td><td></td></tr>
 <tr><td>(11)</td><td>3-metil-4-(2,6,6-trimetil-2-cicloesen-1-il)-3-buten-2-one</td><td>127-51-5</td></tr>
 <tr><td>(12)</td><td>Acetilcedrene</td><td>32388-55-9</td></tr>
 <tr><td>(13)</td><td>Salicilato di amile</td><td>2050-08-0</td></tr>
@@ -833,6 +844,7 @@ Allegato 2*[^t-2]*
 <tr><td>Fenolo</td><td>108-95-2</td><td>5 mg/l (limite di migrazione) nei materiali polimerici conformemente ai metodi indicati nelle norme EN 71-10:2005 ed EN 71-11:2005. 10 mg/kg (tenore limite) come conservante conformemente ai metodi indicati nelle norme EN 71-10:2005 ed EN 71-11:2005</td></tr>
 <tr><td>Formammide</td><td>75-12-7</td><td>20 μg/m<sup>3</sup> (valore limite di emissione) dopo un massimo di 28 giorni dall’inizio della prova di emissione dei materiali per giocattoli in schiuma contenenti oltre 200 mg/kg (valore soglia riferita al contenuto).</td></tr>
 <tr><td>Formaldeide</td><td>50-00-0</td><td>1,5 mg/l (limite di migrazione) nei materiali polimerici per giocattoli 0,1 ml/m<sup>3</sup> (limite di emissione) nei materiali composti a base di legno per giocattoli 30 mg/kg (tenore limite) nei materiali tessili per giocattoli 30 mg/kg (tenore limite) nei cuoi e nelle pelli per giocattoli 30 mg/kg (tenore limite) nei materiali cartacei per giocattoli 10 mg/kg (tenore limite) nei materiali a base acquosa per giocattoli (valore soglia riferita al contenuto)</td></tr>
+<tr><td>Anilina</td><td>62-53-3</td><td>30 mg/kg dopo il taglio riduttivo nei materiali tessili per giocattoli e nei cuoi e nelle pelli per giocattoli 10 mg/kg come anilina libera nelle pitture a dito 30 mg/kg dopo il taglio riduttivo nelle pitture a dito</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
@@ -877,9 +889,9 @@ Allegato 2*[^t-2]*
 - 1\. I giocattoli non devono contenere nuclidi o sostanze radioattivi in forme o proporzioni che possono nuocere alla salute del bambino.
 - 2\. Per il resto sono applicabili le disposizioni dell’ordinanza del 22 giugno 1994[^annex2-lvlu1-lvl6-1] sulla radioprotezione.
 
-[^annex2-lvlu1-lvl6-1]: [[RU 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)n. II 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129), [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)[934](https://fedlex.data.admin.ch/eli/oc/2000/140)[2894](https://fedlex.data.admin.ch/eli/oc/2000/504), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)art. 10 n. 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 n. II 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)n. I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)all. 6 n. 3; [RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)art. 200]. Vedi ora l’O del 26 apr. 2017 ([RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)).
+[^annex2-lvlu1-lvl6-1]: [[RU 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)n. II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 3, [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 44, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778); [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)art. 10 n. 2, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 22; [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 4, [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 n. II 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4); [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)n. I 5, [7157](https://fedlex.data.admin.ch/eli/oc/2012/866); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 5, [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)all. 6 n. 3. [RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)art. 200]. Vedi ora l’O del 26 apr. 2017 ([RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)).
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 5 cpv. 1, 2 e 6)
 
@@ -906,7 +918,7 @@ Se necessario per l’uso sicuro, le avvertenze devono contenere le opportune re
 
 - 1\.1 I giocattoli potenzialmente pericolosi per i bambini di età inferiore a 36 mesi devono recare un’avvertenza quale: «Avvertenza. Non adatto a bambini di età inferiore a 36 mesi.» oppure «Avvertenza. Non adatto a bambini di età inferiore a tre anni.» oppure il seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/it/xml/image/image1.png)
 
 - 1\.2 Questa avvertenza deve essere accompagnata da una breve indicazione dei pericoli specifici che impongono tale precauzione. Tale indicazione complementare può anche essere contenuta nelle istruzioni per l’uso.
 - 1\.3 Il presente numero non si applica ai giocattoli che, per funzioni, dimensioni, caratteristiche, proprietà o altri ragioni cogenti, sono manifestamente inadatti a bambini di età inferiore a 36 mesi.
@@ -973,30 +985,30 @@ Se necessario per l’uso sicuro, le avvertenze devono contenere le opportune re
 - 10\.4 L’imballaggio per le fragranze nei giochi olfattivi da tavolo, nei kit cosmetici e nei giochi gustativi che contengono le fragranze di cui all’allegato 2 numero 3.9 lettera a numeri 41−55 e lettera b deve recare la seguente avvertenza:
 - «Avvertenza. Contiene fragranze potenzialmente allergizzanti.»
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 8)
 
-## Norme tecniche per la sicurezza dei giocattoli****
+## Norme tecniche per la sicurezza dei giocattoli
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)). Aggiornato dal n. II dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
-[^annex4-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
+[^annex4-lvlu1-1]: Le norme citate possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
 
 <table>
-<tr><td>Numero</td><td>Titolo</td></tr>
-<tr><td>SN EN 71-1:2015 + A1:2018</td><td>Sicurezza dei giocattoli – Parte 1: Proprietà meccaniche e fisiche</td></tr>
-<tr><td>SN EN 71-2:2011 con corrigendum A1:2014</td><td>Sicurezza dei giocattoli – Parte 2: Infiammabilità</td></tr>
-<tr><td>SN EN 71-3:2019</td><td>Sicurezza dei giocattoli – Parte 3: Migrazione di alcuni elementi</td></tr>
-<tr><td>SN EN 71-4:2013</td><td>Sicurezza dei giocattoli – Parte 4: Set sperimentali per chimica e attività connesse</td></tr>
+<tr><th>Numero</th><th>Titolo</th></tr>
+<tr><td>SN EN 71-1 + A1:2018</td><td>Sicurezza dei giocattoli – Parte 1: Proprietà meccaniche e fisiche</td></tr>
+<tr><td>SN EN 71-2:2021</td><td>Sicurezza dei giocattoli – Parte 2: Infiammabilità</td></tr>
+<tr><td>SN EN 71-3+A1:2021</td><td>Sicurezza dei giocattoli – Parte 3: Migrazione di alcuni elementi</td></tr>
+<tr><td>SN EN 71-4:2021</td><td>Sicurezza dei giocattoli – Parte 4: Set sperimentali per chimica e attività connesse</td></tr>
 <tr><td>SN EN 71-5:2016</td><td>Sicurezza dei giocattoli – Parte 5: Giochi chimici (set), esclusi i set sperimentali per chimica</td></tr>
-<tr><td>SN EN 71-7:2014 + A2:2018</td><td>Sicurezza dei giocattoli – Parte 7: Pitture a dito – Requisiti e metodi di prova</td></tr>
-<tr><td>SN EN 71-8:2018</td><td>Sicurezza dei giocattoli – Parte 8: Altalene, scivoli e giocattoli di attività simili ad uso domestico per interno ed esterno</td></tr>
-<tr><td>SN EN 71-12:2013</td><td>Sicurezza dei giocattoli – Parte 12: Nitrosammine e sostanze nitrosabili</td></tr>
-<tr><td>SN EN 71-13:2014</td><td>Sicurezza dei giocattoli – Parte 13: Giochi olfattivi da tavolo, kit cosmetici e giochi gustativi</td></tr>
-<tr><td>SN EN 71-14:2018</td><td>Sicurezza dei giocattoli – Parte 14: Trampolini per uso domestico</td></tr>
-<tr><td>SN EN 62115:2005 con emendamento A2:2011 e corrigendum AC:2011 con emendamento A11:2012 e corrigendum AC:2013 con emendamento A12:2015</td><td>Giocattoli elettrici – sicurezza</td></tr>
+<tr><td>SN EN 71-7+ A3: 2020</td><td>Sicurezza dei giocattoli – Parte 7: Pitture a dito – Requisiti e metodi di prova</td></tr>
+<tr><td>SN EN 71-8:2018</td><td>Sicurezza dei giocattoli – Parte 8: giocattoli di attività ad uso domestico</td></tr>
+<tr><td>SN EN 71-12:2017</td><td>Sicurezza dei giocattoli – Parte 12: Nitrosammine e sostanze N-nitrosabili Nota informativa: i valori limite della clausola 4.2, tabella 2, lettera a della norma «SN EN 71-12, 2017, Sicurezza dei giocattoli – Parte 12: Nitrosammine e sostanze N-nitrosabili» sono inferiori ai valori limite da rispettare indicati nell’allegato 2 capitolo 3 numero 7 OSG. In particolare, i valori interessati sono i seguenti: Sostanza Norma SN EN 71-12:2017 OSG N-nitrosamine 0,01 mg/kg 0,05 mg/kg Sostanze N-nitrosabili 0,1 mg/kg 1 mg/kg</td></tr>
+<tr><td>SN EN 71-13:2021</td><td>Sicurezza dei giocattoli – Parte 13: Giochi olfattivi da tavolo, kit cosmetici e giochi gustativi</td></tr>
+<tr><td>SN EN 71-14:2019</td><td>Sicurezza dei giocattoli – Parte 14: Trampolini per uso domestico</td></tr>
+<tr><td>SN EN 62115:2005:2020 con emendamento A2:2011</td><td>Giocattoli elettrici – sicurezza</td></tr>
 </table>
 
 Allegato 5

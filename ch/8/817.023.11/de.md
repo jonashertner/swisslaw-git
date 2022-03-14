@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 15. August 2012 über die Sicherheit von Spielzeu
 short: VSS
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
 language: de
-version: 2021-08-01
+version: 2022-03-15
 adopted: 2012-08-15
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2012-573-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2012-573-20220315-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20220315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20210801/de"
 
 (Spielzeugverordnung, VSS)
 
-vom 15. August 2012 (Stand am 1. August 2021)
+vom 15. August 2012 (Stand am 15. März 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -68,10 +68,10 @@ In dieser Verordnung bedeuten:
 <sup>2</sup> Für die korrekte Auslegung der Ausdrücke, die in der Richtlinie 2009/48/EG[^1bis-2], auf die diese Verordnung verweist, genannt werden, gelten die folgenden Entsprechungen:
 
 <table>
-<tr><td></td><td>Ausdruck in der Richtlinie 2009/48/EG</td><td>Ausdruck in dieser Verordnung</td></tr>
+<tr><th></th><th>Ausdruck in der Richtlinie 2009/48/EG</th><th>Ausdruck in dieser Verordnung</th></tr>
 <tr><td>a.</td><td>Deutsche Ausdrücke:</td><td></td></tr>
-<tr><td></td><td>*Bereitstellung auf dem Markt / auf dem Markt bereitstellen*</td><td>*Inverkehrbringen / in Verkehr bringen*</td></tr>
-<tr><td></td><td>*Inverkehrbringen*</td><td>*Erstmaliges Inverkehrbringen / erstmalig in Verkehr bringen*</td></tr>
+<tr><td></td><td>*Bereitstellung auf dem Markt / auf dem Markt bereitstellen*</td><td>*Inverkehrbringen / in Verkehr* *bringen*</td></tr>
+<tr><td></td><td>*Inverkehrbringen*</td><td>*Erstmaliges Inverkehrbringen /* *erstmalig* *in Verkehr bringen*</td></tr>
 <tr><td></td><td>*Einführer*</td><td>*Importeur*</td></tr>
 <tr><td></td><td>*Gemisch*</td><td>*Zubereitung*</td></tr>
 <tr><td>b.</td><td>Französische Ausdrücke:</td><td></td></tr>
@@ -400,7 +400,7 @@ Die Herstellerin, die Bevollmächtigte, die Importeurin und die Händlerin:
 - a. stellen der Vollzugsbehörde auf deren Verlangen alle Informationen und Unterlagen in einer schweizerischen Amtssprache oder in Englisch zur Verfügung, die für den Nachweis, dass das Spielzeug den Bestimmungen dieser Verordnung entspricht, erforderlich sind; und
 - b. arbeiten mit der Vollzugsbehörde auf deren Verlangen bei allen Massnahmen zur Abwendung von Risiken, die mit von ihr in Verkehr gebrachtem Spielzeug verbunden sind, zusammen.
 
-## 10. Abschnitt:**** Nachführen der Anhänge
+## 10. Abschnitt: Nachführen der Anhänge
 
 [^sec10-1]
 
@@ -427,7 +427,7 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) führt die A
 
 Die Spielzeugverordnung vom 27. März 2002[^24-1] wird aufgehoben.
 
-[^24-1]: [[AS 2002 1082](https://fedlex.data.admin.ch/eli/oc/2002/173), [2003 3733](https://fedlex.data.admin.ch/eli/oc/2003/530), [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)Ziff. II 4 [6585](https://fedlex.data.admin.ch/eli/oc/2005/815), [2006 5157](https://fedlex.data.admin.ch/eli/oc/2006/783), [2008 4647](https://fedlex.data.admin.ch/eli/oc/2008/649), [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449), [2011 303](https://fedlex.data.admin.ch/eli/oc/2011/46)]
+[^24-1]: [[AS 2002 1082](https://fedlex.data.admin.ch/eli/oc/2002/173); [2003 3733](https://fedlex.data.admin.ch/eli/oc/2003/530); [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)Ziff. II 4, [6585](https://fedlex.data.admin.ch/eli/oc/2005/815); [2006 5157](https://fedlex.data.admin.ch/eli/oc/2006/783); [2008 4647](https://fedlex.data.admin.ch/eli/oc/2008/649); [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449); [2011 303](https://fedlex.data.admin.ch/eli/oc/2011/46)]
 
 #### Art. 25
 
@@ -491,13 +491,21 @@ Spielzeug, das der Änderung vom 30. Juni 2021 betreffend Anhang 2 nicht entspri
 
 [^25f-1]: Eingefügt durch Ziff. I der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
 
+#### Art. 25g
+
+**Übergangsbestimmung betreffend die Änderung vom 14. Februar 2022**[^25g-1]
+
+Spielzeug, das der Änderung vom 14. Februar 2022 betreffend Anhang 2 nicht entspricht, darf noch bis zum 14. März 2023 nach bisherigem Recht eingeführt und hergestellt werden. Es darf noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^25g-1]: Eingefügt durch Ziff. I der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
+
 #### Art. 26
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Oktober 2012 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 2 und 3 Bst. a)
 
@@ -544,13 +552,13 @@ Anhang 1*[^t-1]*
 - 4\. Spielzeugdampfmaschinen;
 - 5\. Schleudern und Steinschleudern.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 3 Abs. 1 Bst. b)
 
 ## Besondere Sicherheitsanforderungen an Spielzeug
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V des BAG vom 25. Nov. 2013 ([AS 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), Ziff. II 3 der V des EDI vom 5. Juni 2015 ([AS 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), Ziff. I und II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), der Berichtigung vom 30. Mai 2017 ([AS 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), Ziff. II der V des BLV vom 12. März 2018 ([AS 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)), Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)) und Ziff. II der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V des BAG vom 25. Nov. 2013 ([AS 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), Ziff. II 3 der V des EDI vom 5. Juni 2015 ([AS 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), Ziff. I und II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), der Berichtigung vom 30. Mai 2017 ([AS 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), Ziff. II der V des BLV vom 12. März 2018 ([AS 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)), Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)), Ziff. II der V des BLV vom 30. Juni 2021 ([AS 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)) und Ziff. II Abs. 1 der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
 
 ### 1. Physikalische und mechanische Eigenschaften
 
@@ -653,7 +661,7 @@ Anhang 2*[^t-2]*
 <tr><td>(7)</td><td>Diethylmaleat</td><td>141-05-9</td></tr>
 <tr><td>(8)</td><td>Dihydrocumarin</td><td>119-84-6</td></tr>
 <tr><td>(9)</td><td>2.4-Dihydroxy-3-methylbenzaldehyd</td><td>6248-20-0</td></tr>
-<tr><td>(10)</td><td>...</td><td></td></tr>
+<tr><td>(10)</td><td>3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol)</td><td>40607-48-5</td></tr>
 <tr><td>(11)</td><td>4,6-Dimethyl-8-tert-butylcumarin</td><td>17874-34-9</td></tr>
 <tr><td>(12)</td><td>Dimethylcitraconat</td><td>617-54-9</td></tr>
 <tr><td>(13)</td><td>7,11-Dimethyl-4,6,10-dodecatrien-3-on</td><td>26651-96-7</td></tr>
@@ -717,7 +725,7 @@ Anhang 2*[^t-2]*
 <tr><td>(7)</td><td>Lilial</td><td>80-54-6</td></tr>
 <tr><td>(8)</td><td>d-Limonen</td><td>5989-27-5</td></tr>
 <tr><td>(9)</td><td>Linalool</td><td>78-70-6</td></tr>
-<tr><td>(10)</td><td>Methylheptincarbonat</td><td>111-12-6</td></tr>
+<tr><td>(10)</td><td>…</td><td></td></tr>
 <tr><td>(11)</td><td>3-Methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)- 3-buten-2-on</td><td>127-51-5</td></tr>
 <tr><td>(12)</td><td>Acetilcedren</td><td colspan="2">32388-55-9</td></tr>
 <tr><td>(13)</td><td>Amylsalicylat</td><td colspan="2">2050-08-0</td></tr>
@@ -803,7 +811,7 @@ Anhang 2*[^t-2]*
   - a. Unbeschadet der Anwendung der Ziffern 3 und 4 dürfen die folgenden Grenzwerte in der Migrationsprüfung von Spielzeug und Spielzeugbestandteilen nicht überschritten werden:
 
 <table>
-<tr><th>Element oder Verbindung</th><th>mg/kg in trockenen, brüchigen, staubförmigen oder geschmeidigen Spielzeugmaterialien</th><th>mg/kg in flüssigen oder haftenden Spielzeugmaterialien</th><th>mg/kg in abgeschabten Spielzeugmaterialien</th></tr>
+<tr><th>Element oder Verbindung</th><th>mg/kg in trockenen, brüchigen, staubförmigen oder geschmeidigen Spielzeugmaterialien</th><th>mg/kg in flüssigen oder haftenden Spielzeu materialien</th><th>mg/kg in abgeschabten Spielzeugmaterialien</th></tr>
 <tr><td>Aluminium</td><td>2250</td><td>560</td><td>28130</td></tr>
 <tr><td>Antimon</td><td>45</td><td>11,3</td><td>560</td></tr>
 <tr><td>Arsen</td><td>3,8</td><td>0,9</td><td>47</td></tr>
@@ -845,6 +853,7 @@ Anhang 2*[^t-2]*
 <tr><td>2-Methylisothiazolin-3(2H)-on</td><td>2682-20-4</td><td>0,25 mg/kg (Gehaltsgrenzwert) in wässrigem Spielzeugmaterial</td></tr>
 <tr><td>Phenol</td><td>108-95-2</td><td>5 mg/l (Migrationsgrenzwert) in polymeren Materialien entsprechend den Verfahren nach EN 71-10:2005 und EN 71-11:2005 10 mg/kg (Gehaltsgrenzwert) als Konservierungsmittel entsprechend den Verfahren nach EN 71-10:2005 und EN 71-11:2005</td></tr>
 <tr><td>Formaldehyd</td><td>50-00-0</td><td>1,5 mg/l (Migrationsgrenzwert) in polymeren Spielzeugmaterialien 0,1 ml/m<sup>3</sup> (Emissionsgrenzwert) in Materialien aus Kunstharzsperrholz für Spielzeug 30 mg/kg (Gehaltsgrenzwert) in Textilmateriealien für Spielzeug 30 mg/kg (Gehaltsgrenzwert) in Ledermaterialien für Spielzeug 30 mg/kg (Gehaltsgrenzwert) in Papiermaterialien für Spielzeug 10 mg/kg (Gehaltsgrenzwert) in wasserbasierten Materialien für Spielzeug (Gehaltsschwellenwert)</td></tr>
+<tr><td>Anilin</td><td>62-53-3</td><td>30 mg/kg nach reduktiver Spaltung in Textilmaterialien für Spielzeug und Ledermaterialien für Spielzeug 10 mg/kg freies Anilin in Fingermalfarben 30 mg/kg nach reduktiver Spaltung in Fingermalfarben</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
@@ -892,9 +901,9 @@ Anhang 2*[^t-2]*
 - 1\. Spielzeug darf keine radioaktiven Nuklide oder Stoffe in einer Form oder in solchen Anteilen enthalten, welche die Gesundheit eines Kindes beeinträchtigen können.
 - 2\. Im Übrigen gelten die Bestimmungen der Strahlenschutzverordnung vom 22. Juni 1994[^annex2-lvlu1-lvl6-1].
 
-[^annex2-lvlu1-lvl6-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)Ziff. II 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129), [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)[[934](https://www.fedlex.admin.ch/eli/oc/2000/140/de)](https://fedlex.data.admin.ch/eli/oc/2000/140)[[2894](https://www.fedlex.admin.ch/eli/oc/2000/504/de)](https://fedlex.data.admin.ch/eli/oc/2000/504), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Anhang 7 Ziff. 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Anhang Ziff. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 Ziff. 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 Ziff. 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Anhang 2 Ziff. II 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.[[7](https://www.fedlex.admin.ch/eli/oc/2011/4/de)](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)Ziff. I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Anhang 6 Ziff. 3. [AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)Art. 200]. Siehe heute: die Strahlenschutzverordnung vom 26. April 2017 ([SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)).
+[^annex2-lvlu1-lvl6-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)Ziff. II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [[934](https://fedlex.data.admin.ch/eli/oc/2000/140),](https://www.fedlex.admin.ch/eli/oc/2000/140/de)[[2894](https://www.fedlex.admin.ch/eli/oc/2000/504/de)](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Anhang 7 Ziff. 3, [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Anhang Ziff. 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 44, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778); [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 Ziff. 2, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 22; [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 Ziff. 4, [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Anhang 2 Ziff. II 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.[[7](https://www.fedlex.admin.ch/eli/oc/2011/4/de)](https://fedlex.data.admin.ch/eli/oc/2011/4); [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)Ziff. I 5, [7157](https://fedlex.data.admin.ch/eli/oc/2012/866); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 5, [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Anhang 6 Ziff. 3. [AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)Art. 200]. Siehe heute: die Strahlenschutzverordnung vom 26. April 2017 ([SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)).
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 5 Abs. 1, 2 und 6)
 
@@ -923,7 +932,7 @@ Wenn es für den sicheren Gebrauch erforderlich ist, sind in Warnhinweisen geeig
 
 - 1\.1 Spielzeug, das für Kinder unter 36 Monaten gefährlich sein könnte, muss mit einem Warnhinweis versehen sein, beispielsweise: «Achtung. Nicht für Kinder unter 36 Monaten geeignet.» oder «Achtung. Nicht für Kinder unter drei Jahren geeignet.» oder in Form der folgenden Abbildung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/de/xml/image/image1.png)
 
 - 1\.2 Dieser Warnhinweis muss ergänzt werden durch einen kurzen Hinweis auf die besonderen Gefahren, die diese Vorsichtsmassregel erforderlich machen. Der ergänzende Hinweis kann auch aus der Gebrauchsanweisung hervorgehen.
 - 1\.3 Diese Ziffer gilt nicht für Spielzeug, das aufgrund seiner Funktion, seiner Abmessungen, seiner Merkmale und Eigenschaften oder aus anderen zwingenden Gründen offensichtlich nicht für Kinder unter 36 Monaten bestimmt sein kann.
@@ -976,7 +985,7 @@ Wenn es für den sicheren Gebrauch erforderlich ist, sind in Warnhinweisen geeig
 - Imitationen von Schutzmasken oder -helmen müssen mit folgendem Warnhinweis versehen sein:
 - «Achtung. Dieses Spielzeug bietet keinen Schutz.»
 
-### 9. Spielzeug, das dazu bestimmt ist, mittels Schnüren, Bändern, elastischen Bändern oder Gurten an Wiegen, Kinderbetten oder Kinderwagen befestigt zu werden
+### 9. Spielzeug, das dazu bestimmt ist, mittels Schnüren, Bändern, elastischen Bändern oder Gurten an Wiegen, Kinderbetten oderKinderwagen befestigt zu werden
 
 - 9\.1 Spielzeug, das dazu bestimmt ist, mittels Schnüren, Bändern, elastischen Bändern oder Gurten an Wiegen, Kinderbetten oder Kinderwagen befestigt zu werden, muss mit folgendem Hinweis versehen sein:
 - «Achtung. Um mögliche Verletzungen durch Verheddern zu verhindern, ist dieses Spielzeug zu entfernen, wenn das Kind beginnt zu versuchen, auf allen Vieren zu krabbeln.»
@@ -990,30 +999,30 @@ Wenn es für den sicheren Gebrauch erforderlich ist, sind in Warnhinweisen geeig
 - 10\.4 Die Verpackung von Duftstoffen in Brettspielen für den Geruchsinn, in Kosmetikkoffern und Spielen für den Geschmacksinn, welche die in Anhang 2 Ziffer 3.9 Buchstabe a Nummern 41–55 und Buchstabe b aufgeführten Duftstoffe enthalten, muss mit folgendem Warnhinweis versehen sein:
 - «Achtung. Enthält Duftstoffe, die Allergien auslösen können».
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 8)
 
-## Technische Normen für die Sicherheit von Spielzeug****
+## Technische Normen für die Sicherheit von Spielzeug
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)). Bereinigt gemäss Ziff. II der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
-[^annex4-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
+[^annex4-lvlu1-1]: Die angegebenen Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
-<tr><td>SN EN 71-1:2015 + A1:2018</td><td>Sicherheit von Spielzeug – Teil 1: Mechanische und physikalische Eigenschaften</td></tr>
-<tr><td>SN EN 71-2:2011 mit Berichtigung A1:2014</td><td>Sicherheit von Spielzeug – Teil 2: Entflammbarkeit</td></tr>
-<tr><td>SN EN 71-3:2019</td><td>Sicherheit von Spielzeug – Teil 3: Migration bestimmter Elemente</td></tr>
-<tr><td>SN EN 71-4:2013</td><td>Sicherheit von Spielzeug – Teil 4: Experimentierkästen für chemische und ähnliche Versuche</td></tr>
-<tr><td>SN EN 71-5:2016</td><td>Sicherheit von Spielzeug – Teil 5: Chemisches Spielzeug (Sets), ausgenommen Experimentierkästen</td></tr>
-<tr><td>SN EN 71-7:2014 + A2:2018</td><td>Sicherheit von Spielzeug – Teil 7: Fingermalfarben – Anforderungen und Prüfverfahren</td></tr>
-<tr><td>SN EN 71-8:2018</td><td>Sicherheit von Spielzeug – Teil 8: Schaukeln, Rutschen und ähnliches Aktivitätsspielzeug für den häuslichen Gebrauch (Innen- und Aussenbereich)</td></tr>
-<tr><td>SN EN 71-12:2013</td><td>Sicherheit von Spielzeug – Teil 12: Nitrosamine und nitrosierbare Stoffe</td></tr>
-<tr><td>SN EN 71-13:2014</td><td>Sicherheit von Spielzeug – Teil 13: Brettspiele für den Geruchsinn, Kosmetikkoffer und Spiele für den Geschmacksinn</td></tr>
-<tr><td>SN EN 71-14:2018</td><td>Sicherheit von Spielzeug – Teil 14: Trampoline für den häuslichen Gebrauch</td></tr>
-<tr><td>SN EN 62115:2005 mit Änderung A2:2011 und Berichtigung AC:2011 mit Änderung A11:2012 und Berichtigung AC:2013 mit Änderung A12:2015</td><td>Elektrische Spielzeuge – Sicherheit</td></tr>
+<tr><td>SN EN 71-1+A1:2018</td><td>Sicherheit von Spielzeug – Teil 1: Mechanische und physikalische Eigenschaften</td></tr>
+<tr><td>SN EN 71-2:2021</td><td>Sicherheit von Spielzeug – Teil 2: Entflammbarkeit</td></tr>
+<tr><td>SN EN 71-3+A1:2021</td><td>Sicherheit von Spielzeug – Teil 3: Migration bestimmter Elemente</td></tr>
+<tr><td>SN EN 71-4:2021</td><td>Sicherheit von Spielzeug – Teil 4: Experimentierkästen für chemische und ähnliche Versuche</td></tr>
+<tr><td>SN EN 71-5:2016</td><td>Sicherheit von Spielzeug – Teil 5: Chemisches Spielzeug (Sets) ausgenommen Experimentierkästen</td></tr>
+<tr><td>SN EN 71-7+A3:2020</td><td>Sicherheit von Spielzeug – Teil 7: Fingermalfarben – Anforderungen und Prüfverfahren</td></tr>
+<tr><td>SN EN 71-8: 2018</td><td>Sicherheit von Spielzeug – Teil 8: Aktivitätsspielzeug für den häuslichen Gebrauch</td></tr>
+<tr><td>SN EN 71-12:2017</td><td>Sicherheit von Spielzeug – Teil 12: N-Nitrosamine und N-nitrosierbare Stoffe Zur Information: Die Grenzwerte in Abschnitt 4.2 Tabelle 2 Buchstabe a der Norm «SN EN 71-12, 2017, Teil 12, über die Sicherheit von Spielzeug angegebenen Grenzwerte N-Nitrosamine und N-nitrosierbare Stoffe» sind tiefer als die in Anhang 2 Kapitel 3 Ziffer 7 VSS angegebenen Grenzwerte. Insbesondere betrifft dies folgende Werte: Substanz Norm SN EN 71-12:2017 VSS N-Nitrosamine 0.01 mg/kg 0.05 mg/kg N-nitrosierbare Stoffe 0.1 mg/kg 1 mg/kg</td></tr>
+<tr><td>SN EN 71-13:2021</td><td>Sicherheit von Spielzeug – Teil 13: Brettspiele für den Geruchssinn, Kosmetikkoffer und Spiele für den Geschmackssinn</td></tr>
+<tr><td>SN EN 71-14:2019</td><td>Sicherheit von Spielzeug – Teil 14: Trampoline für den häuslichen Gebrauch</td></tr>
+<tr><td>SN EN IEC 62115:2020 mit Änderung A11:2020</td><td>Elektrische Spielzeuge – Sicherheit</td></tr>
 </table>
 
 Anhang 5

@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 15 août 2012 sur la sécurité des jouets (Ordonna
 short: OSJo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
 language: fr
-version: 2021-08-01
+version: 2022-03-15
 adopted: 2012-08-15
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2012-573-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2012-573-20220315-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20220315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20210801/fr"
 
 (Ordonnance sur les jouets, OSJo)
 
-du 15 août 2012 (Etat le 1<sup>er</sup> août 2021)
+du 15 août 2012 (État le 15 mars 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -68,9 +68,9 @@ Dans la présente ordonnance, on entend par:
 <sup>2</sup> Pour l’interprétation correcte des expressions figurant dans la directive 2009/48/CE[^1bis-2], à laquelle renvoie la présente ordonnance, les équivalents ci-après s’appliquent:
 
 <table>
-<tr><td>Expression dans la directive 2009/48/CE</td><td>Expression dans la présente ordonnance</td></tr>
+<tr><th>Expression dans la directive 2009/48/CE</th><th>Expression dans la présente ordonnance</th></tr>
 <tr><td>a. Expressions allemandes:</td><td></td></tr>
-<tr><td>Bereitstellung auf dem Markt / auf dem Markt bereitstellen</td><td>*Inverkehrbringen / in Verkehr bringen*</td></tr>
+<tr><td>*Bereitstellung auf dem Markt / auf dem Markt bereitstellen*</td><td>*Inverkehrbringen / in Verkehr* *bringen*</td></tr>
 <tr><td>*Inverkehrbringen*</td><td>*Erstmaliges Inverkehrbringen / erstmalig in Verkehr bringen*</td></tr>
 <tr><td>*Einführer*</td><td>*Importeur*</td></tr>
 <tr><td>*Gemisch*</td><td>*Zubereitung*</td></tr>
@@ -85,7 +85,7 @@ Dans la présente ordonnance, on entend par:
 </table>
 
 [^1bis-1]: Introduit par le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)).
-[^1bis-2]: Directive 2009/48/CE du Parlement européen et du Conseil du 18 juin 2009 relative à la sécurité des jouets, JO L 170 du 30.6.2009, p. 1 ; modifiée en dernier lieu par la directive 2015/2017/UE, JO L 306 du 24.11.2015, p. 23.
+[^1bis-2]: Directive 2009/48/CE du Parlement européen et du Conseil du 18 juin 2009 relative à la sécurité des jouets, JO L 170 du 30.6.2009, p. 1; modifiée en dernier lieu par la directive 2015/2017/UE, JO L 306 du 24.11.2015, p. 23.
 
 #### Art. 2
 
@@ -329,11 +329,12 @@ Les organismes d’évaluation de la conformité doivent:
 
 <sup>2</sup> Quiconque se fonde sur des documents émanant d’un organisme ne répondant pas aux critères de l’al. 1 doit prouver que les qualifications dudit organisme et les procédures d’évaluation qu’il applique satisfont aux exigences conformément à l’art. 18, al. 2, de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^17-2].
 
-<sup>3</sup> Les organismes d’évaluation de la conformité se transmettent les informations suivantes sur les résultats des évaluations de la conformité de jouets:
+<sup>3</sup>
 
-a. spontanément, les informations relatives aux résultats négatifs;
+Les organismes d’évaluation de la conformité se transmettent les informations suivantes sur les résultats des évaluations de la conformité de jouets:
 
-b. sur demande, les informations relatives aux résultats positifs.
+- a. spontanément, les informations relatives aux résultats négatifs;
+- b. sur demande, les informations relatives aux résultats positifs.
 
 [^17-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^17-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
@@ -398,7 +399,7 @@ Le fabricant, le mandataire, l’importateur ou le distributeur:
 - a. communiquent à l’autorité d’exécution, à la demande de cette dernière, toutes les informations et tous les documents nécessaires, dans une langue officielle de Suisse ou en anglais, pour démontrer que le jouet satisfait aux dispositions de la présente ordonnance;
 - b. coopèrent, à la demande de ladite autorité, à toute mesure prise pour éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
 
-## Chapitre 10**** Actualisation des annexes
+## Chapitre 10 Actualisation des annexes
 
 [^sec10-1]
 
@@ -425,7 +426,7 @@ L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires
 
 L’ordonnance du 27 mars 2002 sur la sécurité des jouets[^24-1] est abrogée.
 
-[^24-1]: [[RO 2002 1082](https://fedlex.data.admin.ch/eli/oc/2002/173), [2003 3733](https://fedlex.data.admin.ch/eli/oc/2003/530), [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)ch. II 4 [6585](https://fedlex.data.admin.ch/eli/oc/2005/815), [2006 5157](https://fedlex.data.admin.ch/eli/oc/2006/783), [2008 4647](https://fedlex.data.admin.ch/eli/oc/2008/649), [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449), [2011 303](https://fedlex.data.admin.ch/eli/oc/2011/46)]
+[^24-1]: [[RO 2002 1082](https://fedlex.data.admin.ch/eli/oc/2002/173); [2003 3733](https://fedlex.data.admin.ch/eli/oc/2003/530); [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)ch. II 4, [6585](https://fedlex.data.admin.ch/eli/oc/2005/815); [2006 5157](https://fedlex.data.admin.ch/eli/oc/2006/783); [2008 4647](https://fedlex.data.admin.ch/eli/oc/2008/649); [2009 3575](https://fedlex.data.admin.ch/eli/oc/2009/449); [2011 303](https://fedlex.data.admin.ch/eli/oc/2011/46)]
 
 #### Art. 25
 
@@ -489,13 +490,21 @@ Les jouets qui ne sont pas conformes à la modification du 30 juin 2021 relative
 
 [^25f-1]: Introduit par le ch. I de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
 
+#### Art. 25g
+
+**Disposition transitoire relative à la modification du 14 février 2022**[^25g-1]
+
+Les jouets qui ne sont pas conformes à la modification du 14 février 2022 relative à l’annexe 2 peuvent encore être importés et fabriqués selon l’ancien droit jusqu’au 14 mars 2023. Ils peuvent être remis au consommateur jusqu’à épuisement des stocks.
+
+[^25g-1]: Introduit par le ch. I de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
+
 #### Art. 26
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2012.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 2 et 3, let. a)
 
@@ -542,13 +551,13 @@ Annexe 1*[^t-1]*
 - 4\. Jouets machine à vapeur.
 - 5\. Frondes et lance-pierres.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 3, al. 1, let. b)
 
 ## Exigences de sécurité particulières pour les jouets
 
-[^t-2]: Mise à jour selon le ch. II al. 1 de l’O du DFI du 25 nov. 2013 ([RO 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), le ch. II 3 de l’O du DFI du 5 juin 2015 ([RO 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), les ch. I et II al. 1 de l’O du DFI du 16 déc. 2016, ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), l’erratum du 30 mai 2017 ([RO 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), le ch. II de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)), le ch. II al. 1 de l’O du DFI du 23 oct. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)) et le ch. II de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
+[^t-2]: Mise à jour selon le ch. II al. 1 de l’O du DFI du 25 nov. 2013 ([RO 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), le ch. II 3 de l’O du DFI du 5 juin 2015 ([RO 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), les ch. I et II al. 1 de l’O du DFI du 16 déc. 2016, ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), l’erratum du 30 mai 2017 ([RO 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), le ch. II de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)), le ch. II al. 1 de l’O du DFI du 23 oct. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)), le ch. II de l’O de l’OSAV du 30 juin 2021 ([RO 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)) et le ch. II al. 1 de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
 
 ### 1. Propriétés physiques et mécaniques
 
@@ -566,7 +575,7 @@ Annexe 2*[^t-2]*
   - e. Les emballages dans lesquels les jouets sont contenus pour la vente au détail doivent être conçus et fabriqués de manière à exclure tout risque d’étranglement ou d’asphyxie par obstruction externe des voies respiratoires par la bouche et le nez.
   - f. Les jouets présents dans des denrées alimentaires ou mélangés à des denrées alimentaires doivent avoir leur propre emballage. Cet emballage doit être de dimension suffisante pour empêcher son ingestion ou son inhalation.
   - g. Les emballages de jouets, visés aux let. e et f, sphériques, ovoïdes ou ellipsoïdes, et toutes pièces détachables de ceux-ci, ou d’emballages cylindriques aux extrémités arrondies, doivent être d’une dimension suffisante pour empêcher leur ingestion ou leur inhalation et telle qu’ils ne peuvent pas rester coincés dans la bouche ou le pharynx ou à l’entrée des voies respiratoires inférieures, de manière à exclure tout risque d’asphyxie par obstruction interne des voies respiratoires.
-  - h. Les jouets qui font corps avec un produit alimentaire au stade de la consommation, de telle sorte qu'il est indispensable de consommer l'aliment avant d'avoir accès directement au jouet, sont interdits. Les parties de jouets qui, d'une autre manière, sont directement attachées à un produit alimentaire doivent satisfaire aux exigences énoncées aux let. c et d.
+  - h. Les jouets qui font corps avec un produit alimentaire au stade de la consommation, de telle sorte qu’il est indispensable de consommer l’aliment avant d’avoir accès directement au jouet, sont interdits. Les parties de jouets qui, d’une autre manière, sont directement attachées à un produit alimentaire doivent satisfaire aux exigences énoncées aux let. c et d.
 
 - 5\. Les jouets aquatiques doivent être conçus et fabriqués de façon à réduire, dans la mesure du possible, et compte tenu de l’usage préconisé, tout risque de perte de flottabilité du jouet et de sa capacité à maintenir l’enfant hors de l’eau.
 - 6\. Les jouets dans lesquels on peut pénétrer et qui constituent un espace clos doivent posséder un moyen de sortie que les utilisateurs auxquels le jouet est destiné peuvent facilement actionner de l’intérieur.
@@ -651,7 +660,7 @@ Annexe 2*[^t-2]*
 <tr><td>(7)</td><td>Maléate diéthylique</td><td>141-05-9</td></tr>
 <tr><td>(8)</td><td>Dihydrocoumarine</td><td>119-84-6</td></tr>
 <tr><td>(9)</td><td>2,4-dihydroxy-3-methylbenzaldéhyde</td><td>6248-20-0</td></tr>
-<tr><td>(10)</td><td>…</td><td></td></tr>
+<tr><td>(10)</td><td>3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol)</td><td>40607-48-5</td></tr>
 <tr><td>(11)</td><td>4,6-dimethyle-8-tert-butylcoumarine</td><td>17874-34-9</td></tr>
 <tr><td>(12)</td><td>Citraconate de diméthyle</td><td>617-54-9</td></tr>
 <tr><td>(13)</td><td>7,11-diméthyle-4,6,10-dodécatrien-3-one</td><td>26651-96-7</td></tr>
@@ -715,7 +724,7 @@ Annexe 2*[^t-2]*
 <tr><td>(7)</td><td>Lilial</td><td>80-54-6</td></tr>
 <tr><td>(8)</td><td>d-Limonene</td><td>5989-27-5</td></tr>
 <tr><td>(9)</td><td>Linalol</td><td>78-70-6</td></tr>
-<tr><td>(10)</td><td>Methyl heptine carbonate</td><td>111-12-6</td></tr>
+<tr><td>(10)</td><td>...</td><td></td></tr>
 <tr><td>(11)</td><td>3-méthyl-4-(2,6,6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one</td><td>127-51-5</td></tr>
 <tr><td>(12)</td><td>Acétylcédrène</td><td>32388-55-9</td></tr>
 <tr><td>(13)</td><td>Salicylate d’amyle</td><td>2050-08-0</td></tr>
@@ -832,18 +841,18 @@ Annexe 2*[^t-2]*
 
 <table>
 <tr><th>Substance</th><th>Numéro CAS</th><th>Valeur limite</th></tr>
-<tr><th>TCEP</th><th>115-96-8</th><th>5 mg/kg (valeur limite pour la teneur)</th></tr>
-<tr><th>TCPP</th><th>13674-84-5</th><th>5 mg/kg (valeur limite pour la teneur)</th></tr>
-<tr><th>TDCP</th><th>13674-87-8</th><th>5 mg/kg (valeur limite pour la teneur)</th></tr>
-<tr><th>Bisphénol A</th><th>80-05-7</th><th>0,04 mg/l (limite spécifique de migration) conformément aux procédures selon les normes EN 71‑10:2005 et EN 71-11:2005[^annex2-lvlu1-lvl3-16]</th></tr>
-<tr><th>Formamide</th><th>75-12-7</th><th>20 μg/m<sup>3</sup> (limite d’émission) après une période maximale de 28 jours à compter du commencement du test des émissions des matériaux de jouet en mousse présentant une teneur en formamide supérieure à 200 mg/kg (valeur seuil basée sur la teneur)</th></tr>
-<tr><th>1,2-benzisothiazol-3(2H)-one</th><th>2634-33-5</th><th>5 mg/kg (teneur limite) dans les matériaux aqueux pour jouets, conformément aux méthodes fixées dans les normes EN 71-10:2005 et EN 71-11:2005</th></tr>
-<tr><th>Masse de réaction de la 5-chloro-2-méthyl-4-isothiazolin‑3-one [n<sup>o</sup> CE 247-500-7] et de la 2-méthyl-2H‑isothiazol-3-one [n<sup>o</sup> CE 220-239-6] (3:1)</th><th>55965-84-9</th><th>1 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</th></tr>
-<tr><th>5-chloro-2-méthyl-isothiazolin-3(2H)-one</th><th>26172-55-4</th><th>0,75 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</th></tr>
-<tr><th>2-méthyl-isothiazolin‑3(2H)-one</th><th>2682-20-4</th><th>0,25 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</th></tr>
-<tr><th>Substance</th><th>Numéro CAS</th><th>Valeur limite</th></tr>
-<tr><th>Phénol</th><th>108-95-2</th><th>5 mg/l (limite spécifique de migration) dans les matériaux polymères conformément aux méthodes établies par les normes EN 71‑10:2005 et EN 71-11:2005 10 mg/kg (teneur limite) pour les utilisations en tant qu’agent conservateur conformément aux méthodes établies par les normes EN 71‑10:2005 et EN 71-11:2005</th></tr>
-<tr><th>Formaldéhyde</th><th>50-00-0</th><th>1,5 mg/l (limite de migration) dans les matériaux polymères des jouets 0,1 ml/m<sup>3</sup> (limite d’émission) dans les matériaux composites à base de bois des jouets 30 mg/kg (teneur limite) dans les matériaux textiles des jouets 30 mg/kg (teneur limite) dans les matériaux en cuir des jouets 30 mg/kg (teneur limite) dans les matériaux en papier des jouets 10 mg/kg (teneur limite) dans les matériaux à base aqueuse des jouets (valeur seuil basée sur la teneur)</th></tr>
+<tr><td>TCEP</td><td>115-96-8</td><td>5 mg/kg (valeur limite pour la teneur)</td></tr>
+<tr><td>TCPP</td><td>13674-84-5</td><td>5 mg/kg (valeur limite pour la teneur)</td></tr>
+<tr><td>TDCP</td><td>13674-87-8</td><td>5 mg/kg (valeur limite pour la teneur)</td></tr>
+<tr><td>Bisphénol A</td><td>80-05-7</td><td>0,04 mg/l (limite spécifique de migration) conformément aux procédures selon les normes EN 71‑10:2005 et EN 71-11:2005[^annex2-lvlu1-lvl3-16]</td></tr>
+<tr><td>Formamide</td><td>75-12-7</td><td>20 μg/m<sup>3</sup> (limite d’émission) après une période maximale de 28 jours à compter du commencement du test des émissions des matériaux de jouet en mousse présentant une teneur en formamide supérieure à 200 mg/kg (valeur seuil basée sur la teneur)</td></tr>
+<tr><td>1,2-benzisothiazol-3(2H)-one</td><td>2634-33-5</td><td>5 mg/kg (teneur limite) dans les matériaux aqueux pour jouets, conformément aux méthodes fixées dans les normes EN 71-10:2005 et EN 71-11:2005</td></tr>
+<tr><td>Masse de réaction de la 5-chloro-2-méthyl-4-isothiazolin‑3-one [n<sup>o</sup> CE 247-500-7] et de la 2-méthyl-2H‑isothiazol-3-one [n<sup>o</sup> CE 220-239-6] (3:1)</td><td>55965-84-9</td><td>1 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</td></tr>
+<tr><td>5-chloro-2-méthyl-isothiazolin-3(2H)-one</td><td>26172-55-4</td><td>0,75 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</td></tr>
+<tr><td>2-méthyl-isothiazolin‑3(2H)-one</td><td>2682-20-4</td><td>0,25 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</td></tr>
+<tr><td>Phénol</td><td>108-95-2</td><td>5 mg/l (limite spécifique de migration) dans les matériaux polymères conformément aux méthodes établies par les normes EN 71‑10:2005 et EN 71-11:2005 10 mg/kg (teneur limite) pour les utilisations en tant qu’agent conservateur conformément aux méthodes établies par les normes EN 71‑10:2005 et EN 71-11:2005</td></tr>
+<tr><td>Formaldéhyde</td><td>50-00-0</td><td>1,5 mg/l (limite de migration) dans les matériaux polymères des jouets 0,1 ml/m<sup>3</sup> (limite d’émission) dans les matériaux composites à base de bois des jouets 30 mg/kg (teneur limite) dans les matériaux textiles des jouets 30 mg/kg (teneur limite) dans les matériaux en cuir des jouets 30 mg/kg (teneur limite) dans les matériaux en papier des jouets 10 mg/kg (teneur limite) dans les matériaux à base aqueuse des jouets (valeur seuil basée sur la teneur)</td></tr>
+<tr><td>Aniline</td><td>62-53-3</td><td>30 mg/kg après coupure réductrice dans les matériaux textiles du jouet et les matériaux en cuir du jouet 10 mg/kg en tant qu’aniline libre dans les peintures au doigt 30 mg/kg après coupure réductrice dans les peintures au doigt</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
@@ -893,7 +902,7 @@ Annexe 2*[^t-2]*
 
 [^annex2-lvlu1-lvl6-1]: [[RO 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)ch. II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)annexe 7 ch. 3, [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)annexe ch. 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 44, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)ch. I et III; **2008** 3153 art. 10 ch. 2, 5747 annexe ch. 22; **2010** 5191 art. 20 ch. 4, 5395 annexe 2 ch. II 3; **2011** 5227 ch. I 2.7; **2012** 7065 ch. I 5, 7157; **2013** 3041 ch. I 5, 3407 annexe 6 ch. 3. [RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)art. 105 let. b]. Voir actuellement l’O du 26 avr. 2017 ([RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)).
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 5, al. 1, 2 et 6)
 
@@ -920,7 +929,7 @@ Si cela est nécessaire pour assurer une utilisation sûre, les avertissements s
 
 - 1\.1 Les jouets qui sont susceptibles de présenter un danger pour les enfants de moins de 36 mois doivent s’accompagner d’un avertissement, tel que: «Attention. Ne convient pas aux enfants de moins de 36 mois» ou «Attention. Ne convient pas aux enfants de moins de trois ans», ou un avertissement sous la forme du graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20220315/fr/xml/image/image1.png)
 
 - 1\.2 Cet avertissement s’accompagne d’une brève indication sur le danger précis justifiant cette précaution. Cette indication complémentaire peut également figurer dans la notice d’emploi.
 - 1\.3 Le présent chiffre ne s’applique pas aux jouets qui, en raison de leurs fonctions, dimensions, caractéristiques, propriétés ou autres éléments probants, ne sont manifestement pas susceptibles d’être destinés aux enfants de moins de 36 mois.
@@ -985,32 +994,32 @@ Si cela est nécessaire pour assurer une utilisation sûre, les avertissements s
 - 10\.2 Un ensemble cosmétique est un jouet dont l’objet est d’aider l’enfant à fabriquer des produits tels que substances parfumantes, savons, crèmes, shampoings, mousses pour le bain, vernis à lèvre, rouge à lèvres, autre maquillage, dentifrice et produits de soins capillaires.
 - 10\.3 Un jeu gustatif est un jouet pouvant comporter l’utilisation d’ingrédients alimentaires, tels qu’édulcorants, liquides, poudres et arômes, permettant aux enfants de confectionner des friandises ou des préparations culinaires.
 - 10\.4 L’emballage des substances parfumantes contenues dans les jeux de table olfactifs, les ensembles cosmétiques et les jeux gustatifs contenant les substances parfumantes visées à l’annexe 2, ch. 3.9, let. a, n<sup>os</sup> 41 à 55, et b, est muni de l’avertissement suivant:
-- [tab] «Attention. Contient des substances parfumantes susceptibles de causer des allergies».
+- «Attention. Contient des substances parfumantes susceptibles de causer des allergies».
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 8)
 
-## Normes techniques pour la sécurité des jouets****
+## Normes techniques pour la sécurité des jouets
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)). Mise à jour par le ch. II de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
-[^annex4-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 125](https://fedlex.data.admin.ch/eli/oc/2022/125)).
+[^annex4-lvlu1-1]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
 
 <table>
-<tr><td>Numéro</td><td>Titre</td></tr>
-<tr><td>SN EN 71-1:2015 + A1:2018</td><td>Sécurité des jouets – Partie 1: Propriétés mécaniques et physiques</td></tr>
-<tr><td>SN EN 71-2:2011 avec rectificatif A1:2014</td><td>Sécurité des jouets – Partie 2: Inflammabilité</td></tr>
-<tr><td>SN EN 71-3:2019</td><td>Sécurité des jouets – Partie 3: Migration de certains éléments</td></tr>
-<tr><td>SN EN 71-4:2013</td><td>Sécurité des jouets – Partie 4: Coffrets d’expériences chimiques et d’activités connexes</td></tr>
-<tr><td>SN EN 71-5:2016</td><td>Sécurité des jouets – Partie 5: Jeux chimiques (coffrets), autres que les coffrets d’expériences chimiques</td></tr>
-<tr><td>SN EN 71-7:2014 + A2:2018</td><td>Sécurité des jouets – Partie 7: Peintures au doigt – Exigences et méthodes d’essai</td></tr>
-<tr><td>SN EN 71-8:2018</td><td>Sécurité des jouets – Partie 8: Balançoires, toboggans et jouets d’activité similaires à usage familial en extérieur et en intérieur</td></tr>
-<tr><td>SN EN 71-12:2013</td><td>Sécurité des jouets – Partie 12: Nitrosamines et substances nitrosables</td></tr>
-<tr><td>SN EN 71-13:2014</td><td>Sécurité des jouets – Partie 13: Jeux de table olfactifs, ensembles cosmétiques et jeux gustatifs</td></tr>
-<tr><td>SN EN 71-14:2018</td><td>Sécurité des jouets – Partie 14: Trampolines à usage familial</td></tr>
-<tr><td>SN EN 62115:2005 avec amendement A2:2011 et rectificatif AC:2011 avec amendement A11:2012 et rectificatif AC:2013 avec amendement A12:2015</td><td>Jouets électriques – Sécurité</td></tr>
+<tr><th>Numéro</th><th>Titre</th></tr>
+<tr><td>SN EN 71-1+A1:2018</td><td>Sécurité des jouets – Partie 1: Propriétés mécaniques et physiques</td></tr>
+<tr><td>SN EN 71-2:2021</td><td>Sécurité des jouets – Partie 2: Inflammabilité</td></tr>
+<tr><td>SN EN 71-3+A1:2021</td><td>Sécurité des jouets – Partie 3: Migration de certains éléments</td></tr>
+<tr><td>SN EN 71-4:2021</td><td>Sécurité des jouets – Partie 4: Coffrets d’expériences chimiques et d’activités connexes</td></tr>
+<tr><td>SN EN 71-5:2016</td><td>Sécurité des jouets – Partie 5: Jouets chimiques (coffrets) autres que les coffrets d’expériences</td></tr>
+<tr><td>SN EN 71-7+A3:2020</td><td>Sécurité des jouets – Partie 7: Peintures au doigt – Exigences et méthodes d’essai</td></tr>
+<tr><td>SN EN 71-8:2018</td><td>Sécurité des jouets – Partie 8: Jouets d’activité à usage familial</td></tr>
+<tr><td>SN EN 71-12:2017</td><td>Sécurité des jouets – Partie 12: N-nitrosamines et substances N-nitrosables Note d’information: les valeurs limites indiquées à la clause 4.2, tableau 2, point a de la norme «SN EN 71-12, 2017, Sécurité des jouets – Partie 12: N-nitrosamines et substances N-nitrosables» sont inférieures aux valeurs limites à respecter indiquées à l’annexe 2, ch. 3, ch. 7, OSJo. En particulier, les valeurs concernées sont les suivantes: Substance Norme SN EN 71-12:2017 OSJo N-nitrosamine 0,01 mg/kg 0,05 mg/kg Substances N-nitrosables 0,1 mg/kg 1 mg/kg</td></tr>
+<tr><td>SN EN 71-13:2021</td><td>Sécurité des jouets – Partie 13: Jeux de table olfactifs, ensembles cosmétiques et jeux gustatifs</td></tr>
+<tr><td>SN EN 71-14:2019</td><td>Sécurité des jouets – Partie 14: Trampolines à usage familial</td></tr>
+<tr><td>SN EN IEC 62115:2020 avec amendement A11:2020</td><td>Jouets électriques – Sécurité</td></tr>
 </table>
 
 Annexe 5
