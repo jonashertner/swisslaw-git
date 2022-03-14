@@ -3,18 +3,18 @@ sr: "943.032.1"
 title: "Ordinanza dell'UFCOM del 23 novembre 2016 sui servizi di certificazione nel campo della firma elettronica e di altre applicazioni di certificati digitali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/754"
 language: it
-version: 2017-01-01
+version: 2022-03-15
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/754/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2016-754-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/754/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/754/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2016-754-20220315-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/754/20220315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’UFCOM sui servizi di certificazione nel campo della firma elettronica e di altre applicazioni di certificati digitali
 
-del 23 novembre 2016 (Stato 1° gennaio 2017)
+del 23 novembre 2016 (Stato 15 marzo 2022)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -38,8 +38,13 @@ L’ordinanza dell’UFCOM del 6 dicembre 2004[^2-1] sui servizi di certificazio
 
 La presente ordinanza entra in vigore il 1° gennaio 2017.
 
-Allegato
+Allegato[^t-1]
 
-Prescrizioni tecniche e amministrative concernenti i servizi di certificazione nel campo della firma elettronica e di altre applicazioni di certificati digitali (1<sup>a</sup> edizione)[^t-1]
+(art. 1)
 
-[^t-1]: Il testo delle prescrizioni tecniche e amministrative non è pubblicato nella RU. Può essere ottenuto presso l’Ufficio federale delle comunicazioni, Rue de l’Avenir 44, casella postale, 2501 Bienne, o scaricato dal sito www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Internet.
+## Prescrizioni tecniche e amministrative concernenti i servizi di certificazione nel campo della firma elettronica e di altre applicazioni di certificati digitali (2<sup>a</sup> edizione)
+
+[^annexu1-lvlu1-1]
+
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 17 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 155](https://fedlex.data.admin.ch/eli/oc/2022/155)).
+[^annexu1-lvlu1-1]: Il testo delle prescrizioni tecniche e amministrative non è pubblicato nella RU. Può essere ottenuto presso l’Ufficio federale delle comunicazioni, Rue de l’Avenir 44, casella postale, 2501 Bienne, o scaricato dal sito www.ufcom.admin.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Internet.
