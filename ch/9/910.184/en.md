@@ -3,11 +3,11 @@ sr: "910.184"
 title: FOAG Ordinance of 11 November 2020 on Organic Farming
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/954"
 language: en
-version: 2021-06-01
+version: 2022-03-15
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/954/20210601/en/xml/fedlex-data-admin-ch-eli-cc-2020-954-20210601-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/954/20210601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/954/20220315/en/xml/fedlex-data-admin-ch-eli-cc-2020-954-20220315-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/954/20220315/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/954/20210601/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force and may not be relied on in legal proceedings.
 
-of 11 November 2020 (Status as of 1 June 2021)
+of 11 November 2020 (Status as of 15 March 2022)
 
 The Federal Office for Agriculture (FOAG),
 
@@ -50,7 +50,7 @@ Annex 1*[^t-1]*
 
 ## List of countries
 
-[^t-1]: Revised by No I of the FOAG O of 6 May 2021, in force since 1 June 2021 ([AS 2021 272](https://fedlex.data.admin.ch/eli/oc/2021/272)).
+[^t-1]: Revised by No I of the FOAG O of 6 May 2021 ([AS 2021 272](https://fedlex.data.admin.ch/eli/oc/2021/272)) und of 10 Feb. 2022, in force since 15 March 2022 ([AS 2022 92](https://fedlex.data.admin.ch/eli/oc/2022/92)).
 
 ## 1 Introduction
 
@@ -305,15 +305,11 @@ Agricultural and Processed Food Products Export Development Authority (APEDA), w
 <tr><td>IN-ORG-001</td><td>Aditi Organic Certifications Pvt. Ltd.</td><td>www.aditicert.net</td></tr>
 <tr><td>IN-ORG-002</td><td>APOF Organic Certification Agency (AOCA)</td><td>www.aoca.in</td></tr>
 <tr><td>IN-ORG-003</td><td>Bureau Veritas Certification India Pvt. Ltd.</td><td>www.bureauveritas.co.in</td></tr>
-<tr><td>IN-ORG-004</td><td>Control Union Certifications</td><td>www.controlunion.com</td></tr>
-<tr><td>IN-ORG-005</td><td>ECOCERT India Pvt. Ltd.</td><td>www.ecocert.in</td></tr>
 <tr><td>IN-ORG-006</td><td>Food Cert India Pvt. Ltd.</td><td>www.foodcert.in</td></tr>
 <tr><td>IN-ORG-007</td><td>IMO Control Private Limited</td><td>www.imocontrol.in</td></tr>
-<tr><td>IN-ORG-008</td><td>Indian Organic Certification Agency (Indocert)</td><td>www.indocert.org</td></tr>
+<tr><td></td><td>Indian Organic Certification Agency (Indocert)</td><td>www.indocert.org</td></tr>
 <tr><td>IN-ORG-009</td><td>ISCOP (Indian Society for Certification of Organic Products)</td><td>www.iscoporganiccertification.org</td></tr>
-<tr><td>IN-ORG-010</td><td>Lacon Quality Certification Pvt. Ltd.</td><td>www.laconindia.com</td></tr>
 <tr><td>IN-ORG-011</td><td>Natural Organic Certification Agro Pvt. Ltd.</td><td>www.nocaagro.com</td></tr>
-<tr><td>IN-ORG-012</td><td>OneCert Asia Agri Certification Pvt. Ltd.</td><td>www.onecertasia.in</td></tr>
 <tr><td>IN-ORG-013</td><td>SGS India Pvt. Ltd.</td><td>www.sgsgroup.in</td></tr>
 <tr><td>IN-ORG-014</td><td>Uttarakhand State Organic Certification Agency (USOCA)</td><td>www.organicuttarakhand.org/ certification.html</td></tr>
 <tr><td>IN-ORG-015</td><td>Vedic Organic Certification Agency</td><td>www.vediccertification.com</td></tr>
@@ -326,6 +322,14 @@ Agricultural and Processed Food Products Export Development Authority (APEDA), w
 <tr><td>IN-ORG-024</td><td>Odisha State Organic Certification Agency</td><td>www.ossopca.nic.in</td></tr>
 <tr><td>IN-ORG-025</td><td>Gujarat Organic Products Certification Agency</td><td>www.gopca.in</td></tr>
 <tr><td>IN-ORG-026</td><td>Uttar Pradesh State Organic Certification Agency</td><td>www.upsoca.org</td></tr>
+<tr><td>IN-ORG-027</td><td>Karnataka State Organic Certification Agency</td><td>www.kssooca.org</td></tr>
+<tr><td>IN-ORG-028</td><td>Sikkim State Organic Certification Agency (SSOCA)</td><td>www.ssoca.in</td></tr>
+<tr><td>IN-ORG-029</td><td>Global Certification Society</td><td>www.glocert.org</td></tr>
+<tr><td>IN-ORG-030</td><td>GreenCert Biosolutions Pvt. Ltd</td><td>www.greencertindia.in</td></tr>
+<tr><td>IN-ORG-031</td><td>Telangana State Organic Certification Authority</td><td>www.tsoca.telangana.gov.in</td></tr>
+<tr><td>IN-ORG-032</td><td>Bihar State and Organic Certification Agency (BSSOCA)</td><td>www.bssca.co.in</td></tr>
+<tr><td>IN-ORG-033</td><td>Reliable Organic Certification Organization</td><td>https://rococert.com</td></tr>
+<tr><td>IN-ORG-034</td><td>Bhumaatha Organic Certification Bureau (BOCB)</td><td>www.agricertbocb.in</td></tr>
 </table>
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
@@ -405,12 +409,12 @@ Food Manufacture Affairs Division, Food Industry Affairs Bureau, Ministry of Agr
 <table>
 <tr><th>Code number</th><th>Name</th><th>Internet address</th></tr>
 <tr><td>JP-BIO-001</td><td>Hyogo prefectural Organic Agriculture Society, HOAS</td><td>www.hyoyuken.org</td></tr>
-<tr><td>JP-BIO-002</td><td>AFAS Certification Center Co., Ltd.</td><td>www.afasseq.com</td></tr>
+<tr><td>JP-BIO-002</td><td>AFAS Certification Center Co. Ltd.</td><td>www.afasseq.com</td></tr>
 <tr><td>JP-BIO-003</td><td>NPO Kagoshima Organic Agriculture Association</td><td>www.koaa.or.jp</td></tr>
 <tr><td>JP-BIO-004</td><td>Center of Japan Organic Farmers Group</td><td>www.yu-ki.or.jp</td></tr>
 <tr><td>JP-BIO-005</td><td>Japan Organic & Natural Foods Association</td><td>http://jona-japan.org/english/</td></tr>
 <tr><td>JP-BIO-006</td><td>Ecocert Japan Ltd.</td><td>http://ecocert.co.jp</td></tr>
-<tr><td>JP-BIO-007</td><td>Bureau Veritas Japan Co., Ltd..</td><td>http://certification. bureauveritas.jp/cer-business/ jas/ nintei\_list.html</td></tr>
+<tr><td>JP-BIO-007</td><td>Bureau Veritas Japan Co. Ltd.</td><td>http://certification. bureauveritas.jp/cer-business/ jas/ nintei\_list.html</td></tr>
 <tr><td>JP-BIO-008</td><td>OCIA Japan</td><td>www.ocia-jp.com</td></tr>
 <tr><td>JP-BIO-009</td><td>Overseas Merchandise Inspection Co. Ltd.</td><td>www.omicnet.com/ omicnet/services-en/organic-certification-en.html</td></tr>
 <tr><td>JP-BIO-010</td><td>Organic Farming Promotion Association</td><td>http://yusuikyo.web.fc2.com/</td></tr>
@@ -423,12 +427,11 @@ Food Manufacture Affairs Division, Food Industry Affairs Bureau, Ministry of Agr
 <tr><td>JP-BIO-017</td><td>Center for Eco-design Certification Co. Ltd.</td><td>www.eco-de.co.jp/ list.html</td></tr>
 <tr><td>JP-BIO-018</td><td>Organic Certification Association</td><td>http://yuukinin.org/index.html</td></tr>
 <tr><td>JP-BIO-020</td><td>Hiroshima Environment and Health Association</td><td>www.kanhokyo.or.jp/jigyo/ jigyo\_05A.html</td></tr>
-<tr><td>JP-BIO-021</td><td>Assistant Center of Certification and Inspection for Sustainability</td><td>www.accis.jp</td></tr>
+<tr><td>JP-BIO-021</td><td>ACCIS Inc.</td><td>www.accis.jp</td></tr>
 <tr><td>JP-BIO-022</td><td>Organic Certification Organization Co. Ltd.</td><td>www.oco45.net</td></tr>
 <tr><td>JP-BIO-023</td><td>Rice Research Organic Food Institute</td><td>http://inasaku.or.tv</td></tr>
 <tr><td>JP-BIO-024</td><td>Aya town miyazaki, Japan</td><td>www.town.aya. miyazaki.jp/ ayatown/ organicfarming/ index.html</td></tr>
 <tr><td>JP-BIO-025</td><td>Tokushima Organic Certified Association</td><td>www.tokukaigi.or.jp/ yuuki/</td></tr>
-<tr><td>JP-BIO-026</td><td>Association of Certified Organic Hokkaido</td><td>www.acohorg.org/</td></tr>
 <tr><td>JP-BIO-027</td><td>NPO Kumamoto Organic Agriculture Association</td><td>www.kumayuken.org/jas/ certification/index.html</td></tr>
 <tr><td>JP-BIO-028</td><td>Hokkaido Organic Promoters Association</td><td>www.hosk.jp/CCP.html</td></tr>
 <tr><td>JP-BIO-029</td><td>Association of organic agriculture certification Kochi corporation NPO</td><td>www8.ocn.ne.jp/~koaa/jisseki.html</td></tr>
@@ -440,8 +443,10 @@ Food Manufacture Affairs Division, Food Industry Affairs Bureau, Ministry of Agr
 <tr><td>JP-BIO-036</td><td>Japan Food Research Laboratories</td><td>www.jfrl.or.jp/jas.html</td></tr>
 <tr><td>JP-BIO-037</td><td>Leafearth Company</td><td>www.leafearth.jp/</td></tr>
 <tr><td>JP-BIO-038</td><td>Akatonbo</td><td>www.akatonbo.or.jp/</td></tr>
-<tr><td>JP-BIO-039</td><td>Japan Agricultural Standard Certification Alliance</td><td>http://jascert.or.jp/</td></tr>
-<tr><td>JP-BIO-040</td><td>Agriculture and Forestry Research Foundation of Nagano Prefecture</td><td>www.iijan.or.jp/nourin/ authorization/index.php</td></tr>
+<tr><td>JP-BIO-039</td><td>Japan Grain Inspection Association</td><td>www.kokken.or.jp</td></tr>
+<tr><td>JP-BIO-040</td><td>Okayama Agriculture Devlopment Institute</td><td>www.nokaiken.or.jp</td></tr>
+<tr><td>JP-BIO-041</td><td>Japan Agricultural Standard Certification Alliance</td><td>http://jascert.or.hp/</td></tr>
+<tr><td>JP-BIO-042</td><td>Agriculture and Forestry Research Foundation of Nagano Prefecture</td><td>www.iijan.or.jp/nourin/ authorization/index.php</td></tr>
 </table>
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
