@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sulle derrate alimentari di origin
 short: ODOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/152"
 language: it
-version: 2020-07-01
+version: 2022-03-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2017-152-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2017-152-20220315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20220315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20200701/it"
 
 (ODOA)
 
-del 16 dicembre 2016 (Stato 1° luglio 2020)
+del 16 dicembre 2016 (Stato 15 marzo 2022) (Stato 15 marzo 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -1846,11 +1846,13 @@ Il valore pH nel siero deve essere:
 - 2\.1 per il burro di panna dolce: di almeno 6,0;
 - 2\.2 per il burro acidulato: di al massimo 5,5.
 
-Allegato 6
+Allegato 6*[^t-1]*
 
 (art. 95)
 
 ## Coloranti ammessi per le uova
+
+[^t-1]: Aggiornato dal n. I dell’O del USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 122](https://fedlex.data.admin.ch/eli/oc/2022/122)).
 
 ### 1. Colorazione dei gusci delle uova
 
@@ -1867,7 +1869,8 @@ Per colorare i gusci delle uova possono essere utilizzati:
 - 1\.9 Legno rosso (*Caesalpinia echinata*);
 - 1\.10 Legno di sandalo giallo (*Santalum album*) o rosso (*Pterocarpus santalinus*);
 - 1\.11 Guscio di noce (*Juglans regia*);
-- 1\.12 Silicato di potassio e alluminio (E555).
+- 1\.12 Silicato di potassio e alluminio (E555);
+- 1\.13 Biossido di titanio (E 171).
 
 [^annex6-lvlu1-lvl1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 

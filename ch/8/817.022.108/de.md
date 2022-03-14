@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel tierischer He
 short: VLtH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/152"
 language: de
-version: 2020-07-01
+version: 2022-03-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-152-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2017-152-20220315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20220315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20200701/de"
 
 (VLtH)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 15. März 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -286,8 +286,8 @@ Bei den folgenden Lebensmitteln ist auf der Verpackung und der Umhüllung darauf
 
 Bei Hackfleisch sind auf der Verpackung und der Umhüllung nach Anhang 1 zusätzlich folgende Angaben anzubringen:
 
-- a. «Fettgehalt weniger als ... %»;
-- b. «Verhältnis zwischen Bindegewebe- und Fleischeiweiss weniger als ... %».
+- a. «Fettgehalt weniger als … %»;
+- b. «Verhältnis zwischen Bindegewebe- und Fleischeiweiss weniger als … %».
 
 <sup>8</sup> Bei Fleisch von Hausschweinen nach Artikel 31 Absatz 2 Buchstabe b der Verordnung vom 23. November 2005[^10-3] über das Schlachten und die Fleischkontrolle, das keiner Trichinellenuntersuchung unterzogen wurde, sowie daraus hergestellten Fleischzubereitungen und Fleischerzeugnissen muss mit geeigneten Massnahmen sichergestellt werden, dass sie nur für den nationalen Markt bestimmt sind. Sie müssen bei der Abgabe an die Konsumentinnen und Konsumenten auf der Verpackung oder der Umhüllung mit einem quadratischen Kennzeichen, das die Angabe «nur CH» enthält, versehen sein. Bei Fleischerzeugnissen, die offen zur Selbstbedienung angeboten werden, ist das Kennzeichen schriftlich anzubringen.
 
@@ -298,7 +298,7 @@ Auf der Verpackung oder der Umhüllung von frischem Geflügelfleisch und von Gef
 - a. wie Konsumentinnen und Konsumenten mit frischem Geflügelfleisch im Privathaushalt hygienisch umgehen sollen;
 - b. dass die Erzeugnisse vor dem Verzehr vollständig durcherhitzt werden müssen.
 
-<sup>10</sup> ...[^10-4]
+<sup>10</sup> …[^10-4]
 
 [^10-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2281](https://fedlex.data.admin.ch/eli/oc/2020/445)).
 [^10-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
@@ -494,7 +494,7 @@ Die Sachbezeichnung für Fischereierzeugnisse setzt sich zusammen aus:
 
 Die Etikettierung von Erzeugnissen nach Anhang I Buchstaben a−c der Verordnung (EU) Nr. 1379/2013[^19-1] muss zusätzlich zu den Angaben nach Artikel 3 LIV[^19-2] folgende Angaben enthalten:[^19-3]
 
-- a. die Produktionsmethode, insbesondere mit folgenden Worten «gefangen in ...», «aus Binnenfischerei» oder «in Aquakultur gewonnen»;
+- a. die Produktionsmethode, insbesondere mit folgenden Worten «gefangen in …», «aus Binnenfischerei» oder «in Aquakultur gewonnen»;
 - b.[^19-4] die Kategorie des für den Fang von Erzeugnissen aus der Meeres- und der Binnenfischerei eingesetzten Gerätes nach Anhang 3.
 
 <sup>2</sup> Absatz 1 gilt nicht für kleine Mengen von Fischereierzeugnissen, die von Fischerinnen und Fischern oder Aquakulturerzeugerinnen und -erzeugern unmittelbar zum Konsum abgegeben werden.
@@ -518,7 +518,7 @@ Frische, zubereitete, tiefgefrorene oder verarbeitete Fischereierzeugnisse der F
 - b. ein Hinweis, dass die Erzeugnisse möglicherweise Stoffe enthalten, die Magen-Darm-Störungen hervorrufen können;
 - c. neben der Sachbezeichnung der wissenschaftliche Name.
 
-<sup>7</sup> ...[^19-6]
+<sup>7</sup> …[^19-6]
 
 [^19-1]: Verordnung (EU) Nr. 1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr. 1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der Verordnung (EG) Nr. 104/2000 des Rates, ABl. L 354 vom 28.12.2013, S. 1; zuletzt geändert durch Verordnung (EU) 2015/812, ABl. L 133 vom 29.5.2015, S. 1.
 [^19-2]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
@@ -1730,7 +1730,7 @@ Getrocknete Blütenpollen dürfen höchstens 8 Massenprozent Wasser enthalten.
 
 Die Verordnung des EDI vom 23. November 2005[^105-1] über Lebensmittel tierischer Herkunft wird aufgehoben.
 
-[^105-1]: [[AS 2005 6043](https://fedlex.data.admin.ch/eli/oc/2005/801), [2006 4949](https://fedlex.data.admin.ch/eli/oc/2006/771), [2008 1009](https://fedlex.data.admin.ch/eli/oc/2008/201)[6037](https://fedlex.data.admin.ch/eli/oc/2008/836), [2009 2019](https://fedlex.data.admin.ch/eli/oc/2009/282), [2010 4637](https://fedlex.data.admin.ch/eli/oc/2010/671), [2013 4969](https://fedlex.data.admin.ch/eli/oc/2013/837)]
+[^105-1]: [[AS 2005 6043](https://fedlex.data.admin.ch/eli/oc/2005/801); [2006 4949](https://fedlex.data.admin.ch/eli/oc/2006/771); [2008 1009](https://fedlex.data.admin.ch/eli/oc/2008/201), [6037](https://fedlex.data.admin.ch/eli/oc/2008/836); [2009 2019](https://fedlex.data.admin.ch/eli/oc/2009/282); [2010 4637](https://fedlex.data.admin.ch/eli/oc/2010/671); [2013 4969](https://fedlex.data.admin.ch/eli/oc/2013/837)]
 
 #### Art. 105a
 
@@ -1851,11 +1851,13 @@ Für den pH-Wert im Serum gilt:
 - 2\.1 für Süssrahmbutter: mindestens 6,0;
 - 2\.2 für gesäuerte Butter höchstens 5,5.
 
-Anhang 6
+Anhang 6[^t-1]
 
 (Art. 95)
 
 ## Zulässige Farbstoffe für Eier
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 122](https://fedlex.data.admin.ch/eli/oc/2022/122)).
 
 ### 1. Färben von Eierschalen
 
@@ -1872,7 +1874,8 @@ Zum Färben von Eierschalen dürfen verwendet werden:
 - 1\.9 Rotholz *(Caesalpinia echinata)*;
 - 1\.10 Sandelholz gelb *(Santalum album)* und rot *(Pterocarpus santalinus)*;
 - 1\.11 Walnuss-Schale *(Juglans regia)*;
-- 1\.12 Kaliumaluminiumsilicat (E555).
+- 1\.12 Kaliumaluminiumsilicat (E555);
+- 1\.13 Titandioxid (E 171).
 
 [^annex6-lvlu1-lvl1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 

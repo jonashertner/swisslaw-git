@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d'o
 short: ODAlAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/152"
 language: fr
-version: 2020-07-01
+version: 2022-03-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-152-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/152/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2017-152-20220315-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20220315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/152/20200701/fr"
 
 (ODAlAn)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (Etat le 15 mars 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -1850,11 +1850,13 @@ Le pH du sérum doit être:
 - 2\.1 pour le beurre de crème douce: supérieur ou égal à 6,0;
 - 2\.2 pour le beurre acidifié: inférieur ou égal à 5,5.
 
-Annexe 6
+Annexe 6*[^t-1]*
 
 (art. 95)
 
 ## Colorants admis pour les œufs
+
+[^t-1]: Mise à jour par le ch. I de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 122](https://fedlex.data.admin.ch/eli/oc/2022/122)).
 
 ### 1. Coloration des coquilles d’œufs
 
@@ -1871,7 +1873,8 @@ Les colorants suivants peuvent être utilisés pour colorer les coquilles d’œ
 - 1\.9 le bois rouge (*Caesalpinia echinata*);
 - 1\.10 le bois de santal jaune (*Santalum album*) et rouge (*Pterocarpus santalinus*);
 - 1\.11 le péricarpe de noyer (*Juglans regia*);
-- 1\.12 le silicate alumino-potassique (E555).
+- 1\.12 le silicate alumino-potassique (E555);
+- 1\.13 Dioxyde de titane (E171).
 
 [^annex6-lvlu1-lvl1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 
