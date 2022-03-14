@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2022-03-01
+version: 2022-03-15
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220315-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220301/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. März 2022)
+vom 26. Oktober 2011 (Stand am 15. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -2773,13 +2773,13 @@ Anhang 2*[^t-2]*
 
 ## Zollansätze der Marktordnungen Saatgetreide, Futtermittel, Ölsaaten, Zollansätze von Waren, bei deren Verarbeitung Futtermittel anfallen, sowie Zollansätze von Grobgetreide zur menschlichen Ernährung
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 16. Febr. 2022, in Kraft seit 1. März 2022 ([AS 2022 134](https://fedlex.data.admin.ch/eli/oc/2022/134)).
+[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 8. März 2022, in Kraft seit 15. März 2022 ([AS 2022 163](https://fedlex.data.admin.ch/eli/oc/2022/163)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th></tr>
 <tr><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th></tr>
 <tr><td>0505.9011</td><td>5.70</td><td></td><td>0508.0091</td><td>5.70</td><td></td><td>0511.9110</td><td>0.00</td><td></td><td>0511.9911</td><td>4.70</td><td></td></tr>
-<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>0.00</td><td></td><td>0709.9991</td><td>2.00</td><td>\*</td><td>0712.9070</td><td>2.00</td><td>\*</td></tr>
+<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>0.00</td><td></td><td>0709.9991</td><td>0.00</td><td>\*</td><td>0712.9070</td><td>0.00</td><td>\*</td></tr>
 <tr><td>0713.1011</td><td>0.00</td><td></td><td>0713.1012</td><td>0.00</td><td></td><td>0713.1091</td><td>0.00</td><td></td><td>0713.2011</td><td>0.00</td><td></td></tr>
 <tr><td>0713.2012</td><td>0.00</td><td></td><td>0713.2091</td><td>0.00</td><td></td><td>0713.3111</td><td>0.00</td><td></td><td>0713.3112</td><td>0.00</td><td></td></tr>
 <tr><td>0713.3191</td><td>0.00</td><td></td><td>0713.3211</td><td>0.00</td><td></td><td>0713.3212</td><td>0.00</td><td></td><td>0713.3291</td><td>0.00</td><td></td></tr>
@@ -2796,29 +2796,29 @@ Anhang 2*[^t-2]*
 <tr><td>0813.5012</td><td>4.70</td><td></td><td>0813.5021</td><td>4.70</td><td></td><td>0813.5081</td><td>0.00</td><td></td><td>0813.5092</td><td>4.70</td><td></td></tr>
 <tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>8.00</td><td></td><td>1001.1939</td><td>0.00</td><td>\*</td></tr>
 <tr><td>1001.1940</td><td>0.00</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>8.00</td><td></td><td>1001.9939</td><td>0.00</td><td>\*</td></tr>
-<tr><td>1001.9940</td><td>0.00</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>8.00</td><td></td><td>1002.9039</td><td>8.00</td><td></td></tr>
-<tr><td>1002.9040</td><td>0.80</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>0.00</td><td>\*</td><td>1003.9030</td><td>0.00</td><td>\*</td></tr>
+<tr><td>1001.9940</td><td>0.00</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>8.00</td><td></td><td>1002.9039</td><td>5.00</td><td>\*</td></tr>
+<tr><td>1002.9040</td><td>0.50</td><td>\*</td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>0.00</td><td>\*</td><td>1003.9030</td><td>0.00</td><td>\*</td></tr>
 <tr><td>1003.9041</td><td>0.00</td><td>\*</td><td>1003.9051</td><td>8.00</td><td></td><td>1003.9059</td><td>0.00</td><td>\*</td><td>1003.9060</td><td>0.00</td><td>\*</td></tr>
 <tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.00</td><td></td><td>1004.9031</td><td>8.00</td><td></td><td>1004.9039</td><td>0.00</td><td></td></tr>
-<tr><td>1004.9040</td><td>0.00</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>0.50</td><td>\*</td><td>1005.9031</td><td>8.00</td><td></td></tr>
-<tr><td>1005.9039</td><td>2.00</td><td>\*</td><td>1005.9040</td><td>0.20</td><td>\*</td><td>1006.1021</td><td>8.00</td><td></td><td>1006.1029</td><td>0.00</td><td></td></tr>
+<tr><td>1004.9040</td><td>0.00</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>0.00</td><td>\*</td><td>1005.9031</td><td>8.00</td><td></td></tr>
+<tr><td>1005.9039</td><td>0.00</td><td>\*</td><td>1005.9040</td><td>0.00</td><td>\*</td><td>1006.1021</td><td>8.00</td><td></td><td>1006.1029</td><td>0.00</td><td></td></tr>
 <tr><td>1006.2021</td><td>8.00</td><td></td><td>1006.2029</td><td>0.00</td><td></td><td>1006.3021</td><td>8.00</td><td></td><td>1006.3029</td><td>0.00</td><td></td></tr>
 <tr><td>1006.4021</td><td>8.00</td><td></td><td>1006.4029</td><td>0.00</td><td></td><td>1007.9031</td><td>8.00</td><td></td><td>1007.9039</td><td>8.00</td><td></td></tr>
 <tr><td>1007.9040</td><td>0.25</td><td></td><td>1008.1031</td><td>8.00</td><td></td><td>1008.1039</td><td>4.00</td><td></td><td>1008.1040</td><td>0.10</td><td></td></tr>
 <tr><td>1008.2931</td><td>8.00</td><td></td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>8.00</td><td></td></tr>
 <tr><td>1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>8.00</td><td></td><td>1008.4039</td><td>0.00</td><td>\*</td></tr>
 <tr><td>1008.4040</td><td>0.00</td><td>\*</td><td>1008.5031</td><td>8.00</td><td></td><td>1008.5039</td><td>0.00</td><td>\*</td><td>1008.5040</td><td>0.00</td><td>\*</td></tr>
-<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>8.00</td><td></td><td>1008.6049</td><td>3.00</td><td>\*</td><td>1008.6050</td><td>0.30</td><td>\*</td></tr>
-<tr><td>1008.9035</td><td>8.00</td><td></td><td>1008.9037</td><td>0.00</td><td>\*</td><td>1008.9040</td><td>0.00</td><td>\*</td><td>1101.0051</td><td>7.00</td><td>\*</td></tr>
-<tr><td>1101.0059</td><td>11.00</td><td>\*</td><td>1102.2010</td><td>20.70</td><td>\*</td><td>1102.2020</td><td>8.00</td><td>\*</td><td>1102.9013</td><td>14.00</td><td>\*</td></tr>
-<tr><td>1102.9045</td><td>14.00</td><td></td><td>1102.9046</td><td>12.00</td><td></td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>11.00</td><td>\*</td></tr>
-<tr><td>1103.1112</td><td>10.00</td><td>\*</td><td>1103.1192</td><td>8.00</td><td>\*</td><td>1103.1320</td><td>9.00</td><td>\*</td><td>1103.1390</td><td>21.00</td><td>\*</td></tr>
-<tr><td>1103.1912</td><td>17.00</td><td></td><td>1103.1922</td><td>15.00</td><td>\*</td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>0.70</td><td></td></tr>
-<tr><td>1103.1993</td><td>8.00</td><td>\*</td><td>1103.2012</td><td>7.00</td><td>\*</td><td>1103.2022</td><td>14.00</td><td></td><td>1103.2092</td><td>7.00</td><td>\*</td></tr>
-<tr><td>1104.1220</td><td>16.00</td><td>\*</td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>8.00</td><td>\*</td><td>1104.1922</td><td>9.00</td><td>\*</td></tr>
-<tr><td>1104.1929</td><td>20.00</td><td>\*</td><td>1104.1993</td><td>8.00</td><td>\*</td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>15.00</td><td>\*</td></tr>
-<tr><td>1104.2320</td><td>6.00</td><td>\*</td><td>1104.2390</td><td>21.40</td><td>\*</td><td>1104.2912</td><td>8.00</td><td>\*</td><td>1104.2923</td><td>1.70</td><td></td></tr>
-<tr><td>1104.2932</td><td>20.00</td><td>\*</td><td>1104.2933</td><td>8.00</td><td>\*</td><td>1104.2993</td><td>6.00</td><td>\*</td><td>1104.3070</td><td>3.70</td><td></td></tr>
+<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>8.00</td><td></td><td>1008.6049</td><td>0.00</td><td>\*</td><td>1008.6050</td><td>0.00</td><td>\*</td></tr>
+<tr><td>1008.9035</td><td>8.00</td><td></td><td>1008.9037</td><td>0.00</td><td>\*</td><td>1008.9040</td><td>0.00</td><td>\*</td><td>1101.0051</td><td>4.00</td><td>\*</td></tr>
+<tr><td>1101.0059</td><td>8.00</td><td>\*</td><td>1102.2010</td><td>20.00</td><td>\*</td><td>1102.2020</td><td>5.00</td><td>\*</td><td>1102.9013</td><td>11.00</td><td>\*</td></tr>
+<tr><td>1102.9045</td><td>11.00</td><td>\*</td><td>1102.9046</td><td>9.00</td><td>\*</td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>8.00</td><td>\*</td></tr>
+<tr><td>1103.1112</td><td>7.00</td><td>\*</td><td>1103.1192</td><td>5.00</td><td>\*</td><td>1103.1320</td><td>6.00</td><td>\*</td><td>1103.1390</td><td>20.00</td><td>\*</td></tr>
+<tr><td>1103.1912</td><td>14.00</td><td>\*</td><td>1103.1922</td><td>14.00</td><td>\*</td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>0.70</td><td></td></tr>
+<tr><td>1103.1993</td><td>5.00</td><td>\*</td><td>1103.2012</td><td>4.00</td><td>\*</td><td>1103.2022</td><td>11.00</td><td>\*</td><td>1103.2092</td><td>4.00</td><td>\*</td></tr>
+<tr><td>1104.1220</td><td>15.00</td><td>\*</td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>5.00</td><td>\*</td><td>1104.1922</td><td>6.00</td><td>\*</td></tr>
+<tr><td>1104.1929</td><td>20.00</td><td>\*</td><td>1104.1993</td><td>5.00</td><td>\*</td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>14.00</td><td>\*</td></tr>
+<tr><td>1104.2320</td><td>3.00</td><td>\*</td><td>1104.2390</td><td>20.00</td><td>\*</td><td>1104.2912</td><td>5.00</td><td>\*</td><td>1104.2923</td><td>1.70</td><td></td></tr>
+<tr><td>1104.2932</td><td>20.00</td><td>\*</td><td>1104.2933</td><td>5.00</td><td>\*</td><td>1104.2993</td><td>3.00</td><td>\*</td><td>1104.3070</td><td>3.70</td><td></td></tr>
 <tr><td>1104.3081</td><td>3.70</td><td></td><td>1104.3093</td><td>0.00</td><td></td><td>1105.1021</td><td>9.70</td><td></td><td>1105.2021</td><td>11.70</td><td></td></tr>
 <tr><td>1106.1010</td><td>0.00</td><td></td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
 <tr><td>1107.1094</td><td>2.70</td><td></td><td>1107.2013</td><td>2.70</td><td></td><td>1107.2094</td><td>2.70</td><td></td><td>1108.1120</td><td>0.00</td><td></td></tr>
@@ -2888,7 +2888,7 @@ Anhang 2*[^t-2]*
 <tr><td>2306.3010</td><td>0.00</td><td></td><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.6010</td><td>0.00</td><td></td><td>2306.9011</td><td>12.70</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>3.70</td><td></td></tr>
 <tr><td>2308.0030</td><td>0.00</td><td></td><td>2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>0.00</td><td></td><td>2308.0060</td><td>0.00</td><td></td></tr>
-<tr><td>2309.9011</td><td>0.00</td><td>\*</td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>161.55</td><td>\*</td><td>2309.9082</td><td>0.00</td><td>\*</td></tr>
+<tr><td>2309.9011</td><td>0.00</td><td>\*</td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>161.35</td><td>\*</td><td>2309.9082</td><td>0.00</td><td>\*</td></tr>
 <tr><td>2309.9089</td><td>0.00</td><td>\*</td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>12.70</td><td></td><td>3809.1010</td><td>18.70</td><td></td></tr>
 <tr><td>3823.1110</td><td>0.00</td><td></td><td>3823.1210</td><td>4.70</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="12">**[1]** Die Zollansätze können vom Generaltarif abweichen. Neu festgelegte Zollansätze sind mit einem «\*» gekennzeichnet.</td></tr>
