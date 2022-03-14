@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2022-02-17
+version: 2022-03-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220217-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220315-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220217/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 17 février 2022)
+du 19 juin 2020 (Etat le 15 mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -498,6 +498,14 @@ Swissmedic est compétent pour le contrôle du respect des exigences prévues à
 
 [^24f-1]: Introduit par le ch. I de l’O du 25 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
+#### Art. 24f<sup>bis</sup>
+
+**Réalisation à l’étranger d’analyses de biologie moléculaire pour le SARS-CoV-2**[^24fbis-1]
+
+Seuls les laboratoires autorisés au sens de l’art. 16 LEp peuvent mandater un laboratoire étranger pour réaliser des analyses de biologie moléculaire pour le SARS-CoV-2. Ils restent soumis à l’obligation de déclarer au sens de l’art. 12 LEp.
+
+[^24fbis-1]: Introduit par le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
+
 #### Art. 24g
 
 **Communication de données**[^24g-1]
@@ -683,9 +691,9 @@ Si, pour des raisons dʼexploitation, la présence dʼemployés vulnérables sur
 
 <sup>9</sup> L’octroi des allocations pour perte de gain COVID-19 est régi par l’art. 2, al. 3<sup>quater</sup>, de l’ordonnance du 20 mars 2020 sur les pertes de gain COVID-19[^27a-2].
 
-<sup>1</sup>
+<sup>10</sup>
 
-<sup>0</sup> Sont considérées comme vulnérables:
+Sont considérées comme vulnérables:
 
 - a. les femmes enceintes;
 - b. les personnes qui souffrent des pathologies ou des anomalies génétiques énumérées à l’annexe 7 et qui ne peuvent pas se faire vacciner pour des raisons médicales.

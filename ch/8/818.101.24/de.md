@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2022-02-17
+version: 2022-03-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220217/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220217-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220315-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220217/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 17. Februar 2022)
+vom 19. Juni 2020 (Stand am 15. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -497,6 +497,14 @@ Die Probenentnahme kann auch von der zu testenden Person selber durchgeführt we
 Die Swissmedic ist zuständig für die Kontrolle der Einhaltung der Anforderungen nach Artikel 24*e* durch nach Artikel 16 EpG bewilligte Laboratorien, einschliesslich der unter der Aufsicht solcher Laboratorien durchgeführten Probenentnahmen durch Einrichtungen nach Artikel 24*e* Absatz 1 Buchstabe c, die Kantone für die Kontrolle in den Einrichtungen nach Artikel 24*e* Absatz 1 Buchstabe b sowie für die Aufsicht über die Stellen nach Artikel 24*e* Absatz 1 Buchstabe c.
 
 [^24f-1]: Eingefügt durch Ziff. I der V vom 25. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+
+#### Art. 24f<sup>bis</sup>
+
+**Durchführung molekularbiologischer Analysen auf Sars-CoV-2 im Ausland**[^24fbis-1]
+
+Nur Laboratorien mit einer Bewilligung nach Artikel 16 EpG dürfen molekularbiologische Analysen auf Sars-CoV-2 einem ausländischen Laboratorium in Auftrag geben. Sie bleiben meldepflichtig nach Artikel 12 EpG.
+
+[^24fbis-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 #### Art. 24g
 

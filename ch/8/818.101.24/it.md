@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2022-02-17
+version: 2022-03-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220217/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220217-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220315-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220217/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 17 febbraio 2022)
+del 19 giugno 2020 (Stato 15 marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -497,6 +497,14 @@ Il prelievo del campione può essere anche effettuato autonomamente dalla person
 Swissmedic è competente per il controllo del rispetto dei requisiti di cui all’articolo 24*e* da parte dei laboratori autorizzati secondo l’articolo 16 LEp, anche per i prelievi di campioni effettuati da strutture di cui all’articolo 24*e* capoverso 1 lettera c sotto la sorveglianza di questi laboratori, mentre i Cantoni sono competenti per il controllo nelle strutture secondo l’articolo 24*e* capoverso 1 lettera b nonché per la vigilanza dei centri di cui all’articolo 24*e* capoverso 1 lettera c.
 
 [^24f-1]: Introdotto dal n. I dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+
+#### Art. 24f<sup>bis</sup>
+
+**Esecuzione di analisi di biologia molecolareper il SARS-CoV-2 all’estero**[^24fbis-1]
+
+Solo i laboratori titolari di un’autorizzazione secondo l’articolo 16 LEp possono incaricare un laboratorio estero di eseguire analisi di biologia molecolare per il SARS-CoV-2. Restano soggetti all’obbligo di dichiarazione di cui all’articolo 12 LEp.
+
+[^24fbis-1]: Introdotto dal n. I dell’O del 16 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 #### Art. 24g
 

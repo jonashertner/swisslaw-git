@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-02-17
+version: 2022-03-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220217/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220217-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220217/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220315/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220315-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 17 February 2022)
+of 19 June 2020 (Status as of 15 March 2022)
 
 The Swiss Federal Council,
 
@@ -499,6 +499,14 @@ The sample may also be collected by the person being tested themselves:
 Swissmedic is responsible for monitoring compliance with the requirements set out in Article 24*e* by laboratories licensed under Article 16 EpidA, including the collection of samples carried out under the supervision of such laboratories by facilities in accordance with Article 24*e* paragraph 1 letter c, and the cantons are responsible for monitoring in the facilities in accordance with Article 24*e* paragraph 1 letter b and for the supervision of collection stations in accordance with Article 24*e* paragraph 1 letter c.
 
 [^24f-1]: Inserted by No I of the O of 25 Aug. 2021, in force since 1 Oct. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+
+#### Art. 24f<sup>bis</sup>
+
+**Conducting molecular-biological analyses for Sars-CoV-2 abroad**[^24fbis-1]
+
+Only laboratories with a licence under Article 16 EpidA may commission a foreign laboratory to conduct molecular-biological analyses for Sars-CoV-2. They remain subject to the requirement to report under Article 12 EpidA.
+
+[^24fbis-1]: Inserted by No I of the O of 16 Feb. 2022, in force since 15 March 2022 ([AS 2022 96](https://fedlex.data.admin.ch/eli/oc/2022/96)).
 
 #### Art. 24g
 
@@ -1634,7 +1642,7 @@ Annex 7*[^t-9]*
 
 ## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Dec. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Amended by No II para. 1 of the O of 17 Dec. 2021, in force from 1 Jan. 2022 until 31 March 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 para. 7).
+[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Amended by No II para. 1 of the O of 17 Dec. 2021, in force from 1 Jan. 2022 until 31 March 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 para. 7).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 
