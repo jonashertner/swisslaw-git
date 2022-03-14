@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für R�
 short: VRLtH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/154"
 language: de
-version: 2019-12-01
+version: 2022-03-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20191201/de/xml/fedlex-data-admin-ch-eli-cc-2017-154-20191201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20191201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2017-154-20220315-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20220315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20191201/de"
 
 (VRLtH)[^t-1]
 
-vom 16. Dezember 2016 (Stand am 1. Dezember 2019)
+vom 16. Dezember 2016 (Stand am 15. März 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 28. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
 
@@ -126,6 +126,14 @@ Rückstände von Wirkstoffen, die der Änderung vom 23. Oktober 2019 nicht entsp
 
 [^7a-1]: Eingefügt durch Ziff. I der V des BLV vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)).
 
+#### Art. 7b
+
+**Übergangsbestimmung zur Änderung vom 14. Februar 2022**[^7b-1]
+
+Rückstände von Wirkstoffen, die der Änderung des Anhangs Liste 1 vom 14. Februar 2022 nicht entsprechen, dürfen ab dem 14. März 2023 nicht mehr in Lebensmitteln tierischer Herkunft vorhanden sein.
+
+[^7b-1]: Eingefügt durch Ziff. I der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
+
 #### Art. 8
 
 **Inkrafttreten**
@@ -138,7 +146,7 @@ Anhang*[^t-2]*
 
 ## Listen der Rückstandshöchstgehalte
 
-[^t-2]: Bereinigt gemäss gemäss Ziff. II der V des EDI vom 28. März 2018 ([AS 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)), Ziff. I der V des BLV vom 12. März 2018 ([AS 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)) und Ziff. II der V des BLV vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)).
+[^t-2]: Bereinigt gemäss gemäss Ziff. I der V des BLV vom 12. März 2018 ([AS 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)), Ziff. II der V des BLV vom 23. Okt. 2019 ([AS 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)) und vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
 
 ### 1 Liste der zulässigen Höchstgehalte für Rückstände von pharmakologisch wirksamen Stoffen in Lebensmitteln tierischer Herkunft sowie der Einstufung dieser Stoffe
 
@@ -316,6 +324,7 @@ Anhang*[^t-2]*
 <tr><td>Bacitracin</td><td>Summe von Bacitracin A, Bacitracin B und Bacitracin C</td><td>Rinder</td><td>100 µg/kg</td><td>Milch</td><td>KEIN EINTRAG</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
 <tr><td>Bacitracin</td><td>NICHT ZUTREFFEND</td><td>Rinder</td><td></td><td>NICHT ZUTREFFEND</td><td>Für alle Gewebe ausser Milch keine MRL erforderlich. Nur zur intramammären Anwendung bei milchgebenden Kühen.</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
 <tr><td>Balsamum peruvianum</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur zur topischen Anwendung.</td><td>KEIN EINTRAG</td></tr>
+<tr><td>Bambermycin</td><td>NICHT ZUTREFFEND</td><td>Kaninchen</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur zur oralen Anwendung.</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
 <tr><td>Baquiloprim</td><td>Baquiloprim</td><td>Rinder</td><td>10 µg/kg</td><td>Fett</td><td>KEIN EINTRAG</td><td>Mittel gegen Infektionen/Chemotherapeutika</td></tr>
 <tr><td>Baquiloprim</td><td>Baquiloprim</td><td>Rinder</td><td>300 µg/kg</td><td>Leber</td><td>KEIN EINTRAG</td><td>Mittel gegen Infektionen/Chemotherapeutika</td></tr>
 <tr><td>Baquiloprim</td><td>Baquiloprim</td><td>Rinder</td><td>150 µg/kg</td><td>Nieren</td><td>KEIN EINTRAG</td><td>Mittel gegen Infektionen/Chemotherapeutika</td></tr>
@@ -364,6 +373,8 @@ Anhang*[^t-2]*
 <tr><td>Bromid, Natriumsalz</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Säugetierarten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur zur topischen Anwendung.</td><td>KEIN EINTRAG</td></tr>
 <tr><td>Bronopol</td><td>NICHT ZUTREFFEND</td><td>Fisch</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich.</td><td>KEIN EINTRAG</td></tr>
 <tr><td>Brotizolam</td><td>NICHT ZUTREFFEND</td><td>Rinder</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur für therapeutische Zwecke.</td><td>KEIN EINTRAG</td></tr>
+<tr><th>Bupivacain</th><th>NICHT ZUTREFFEND</th><th>Schweine</th><th></th><th>NICHT ZUTREFFEND</th><th>Keine MRL erforderlich. Nur zur Verwendung bei bis zu 7 Tage alten Ferkeln. Nur zur Anwendung auf der Haut und zur epiläsionalen Anwendung.</th><th>Lokalanästhetikum</th></tr>
+<tr><th>Bupivacain</th><th>NICHT ZUTREFFEND</th><th>Rinder</th><th></th><th>NICHT ZUTREFFEND</th><th>Keine MRL erforderlich. Nur zur Verwendung bei bis zu 2 Monate alten Kälbern. Nur zur Anwendung auf der Haut und zur epiläsionalen Anwendung.</th><th>Lokalanästhetikum</th></tr>
 <tr><td>Buserelin</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich.</td><td>KEIN EINTRAG</td></tr>
 <tr><td>Butafosfan</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Säugetierarten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich.</td><td>Verdauungstrakt und Stoffwechsel/Mineralzusätze</td></tr>
 <tr><td>Butorphanoltartrat</td><td>NICHT ZUTREFFEND</td><td>Equiden</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur zur intravenösen Anwendung.</td><td>KEIN EINTRAG</td></tr>
@@ -487,6 +498,7 @@ Anhang*[^t-2]*
 <tr><td>Cholin</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich.</td><td>KEIN EINTRAG</td></tr>
 <tr><td>Chrysanthemi cinerariifolii flos</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur zur topischen Anwendung.</td><td>KEIN EINTRAG</td></tr>
 <tr><td>Chymotrypsin</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich.</td><td>KEIN EINTRAG</td></tr>
+<tr><th>Ciclesonid</th><th>Summe von Ciclesonid und Desisobutyryl-Ciclesonid gemessen als Desisobutyryl-Ciclesonid nach Hydrolyse von Ciclesonid zu Desisobutyryl- Ciclesonid</th><th>Equiden</th><th>0.6 µg/kg 4 µg/kg 0.6 µg/kg 0.6 µg/kg</th><th>Muskel Fett Leber Nieren</th><th>Nicht zur Anwendung bei Tieren, deren Milch für den menschlichen Verzehr bestimmt ist.</th><th>Kortikoide/Glukokortikoide</th></tr>
 <tr><td>Cimicifugae racemosae rhizoma</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nicht zur Anwendung bei Tieren, deren Milch für den menschlichen Verzehr bestimmt ist.</td><td>KEIN EINTRAG</td></tr>
 <tr><td>Cinchonae cortex, standardisierte Extrakte und Zubereitungen daraus</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich.</td><td>KEIN EINTRAG</td></tr>
 <tr><td>Cinnamomi cassiae aetheroleum</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich.</td><td>KEIN EINTRAG</td></tr>
@@ -709,7 +721,7 @@ Anhang*[^t-2]*
 <tr><td>Difloxacin</td><td>Difloxacin</td><td>Ziegen</td><td>100 µg/kg</td><td>Fett</td><td>Nicht zur Anwendung bei Tieren, deren Milch für den menschlichen Verzehr bestimmt ist.</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
 <tr><td>Difloxacin</td><td>Difloxacin</td><td>Ziegen</td><td>1400 µg/kg</td><td>Leber</td><td>Nicht zur Anwendung bei Tieren, deren Milch für den menschlichen Verzehr bestimmt ist.</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
 <tr><td>Difloxacin</td><td>Difloxacin</td><td>Ziegen</td><td>800 µg/kg</td><td>Nieren</td><td>Nicht zur Anwendung bei Tieren, deren Milch für den menschlichen Verzehr bestimmt ist.</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
-<tr><td>Diflubenzuron</td><td>Diflubenzuron</td><td>Salmoniden</td><td>1000 µg/kg</td><td>Muskel und Haut in natürlichen Verhältnissen</td><td>KEIN EINTRAG</td><td>Mittel gegen Parasiten/Mittel gegen Ektoparasiten</td></tr>
+<tr><td>Diflubenzuron</td><td>Diflubenzuron</td><td>Salmoniden</td><td>10 µg/kg</td><td>Muskel und Haut in natürlichen Verhältnissen</td><td>KEIN EINTRAG</td><td>Mittel gegen Parasiten/Mittel gegen Ektoparasiten</td></tr>
 <tr><td>Dihydrostreptomycin</td><td>Dihydrostreptomycin</td><td>Alle Wiederkäuer</td><td>500 µg/kg</td><td>Muskel</td><td>KEIN EINTRAG</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
 <tr><td>Dihydrostreptomycin</td><td>Dihydrostreptomycin</td><td>Alle Wiederkäuer</td><td>500 µg/kg</td><td>Fett</td><td>KEIN EINTRAG</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
 <tr><td>Dihydrostreptomycin</td><td>Dihydrostreptomycin</td><td>Alle Wiederkäuer</td><td>500 µg/kg</td><td>Leber</td><td>KEIN EINTRAG</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
@@ -1030,6 +1042,7 @@ Anhang*[^t-2]*
 <tr><td>Hydroxyethyl-salicylat</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten ausser Fisch</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur zur topischen Anwendung.</td><td>KEIN EINTRAG</td></tr>
 <tr><td>Hyperici oleum</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur zur topischen Anwendung.</td><td>KEIN EINTRAG</td></tr>
 <tr><td>Hypericum perforatum</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur zur Verwendung in homöopathischen Tierarzneimitteln, die im Einklang mit homöopathischen Arzneibüchern zubereitet wurden, in Konzentrationen, die der Urtinktur und Verdünnungen davon entsprechen.</td><td>KEIN EINTRAG</td></tr>
+<tr><th>Imidacloprid</th><th>Imidacloprid</th><th>Fisch</th><th>600 µg/kg</th><th>Muskel und Haut in natürlichen Verhältnissen</th><th>NICHT ZUTREFFEND</th><th>Mittel gegen Parasiten/Mittel gegen Ektoparasiten</th></tr>
 <tr><td>Imidocarb</td><td>Imidocarb</td><td>Rinder</td><td>300 µg/kg</td><td>Muskel</td><td>KEIN EINTRAG</td><td>Mittel gegen Parasiten/Mittel gegen Protozoen</td></tr>
 <tr><td>Imidocarb</td><td>Imidocarb</td><td>Rinder</td><td>50 µg/kg</td><td>Fett</td><td>KEIN EINTRAG</td><td>Mittel gegen Parasiten/Mittel gegen Protozoen</td></tr>
 <tr><td>Imidocarb</td><td>Imidocarb</td><td>Rinder</td><td>2000 µg/kg</td><td>Leber</td><td>KEIN EINTRAG</td><td>Mittel gegen Parasiten/Mittel gegen Protozoen</td></tr>
@@ -1126,7 +1139,9 @@ Anhang*[^t-2]*
 <tr><td>Levamisol</td><td>Levamisol</td><td>Schweine</td><td>10 µg/kg</td><td>Nieren</td><td>KEIN EINTRAG</td><td>Mittel gegen Parasiten/Mittel gegen Endoparasiten</td></tr>
 <tr><td>Levomethadon</td><td>NICHT ZUTREFFEND</td><td>Equiden</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur zur intravenösen Anwendung.</td><td>KEIN EINTRAG</td></tr>
 <tr><td>Levothyroxin</td><td>NICHT ZUTREFFEND</td><td>Alle zur Lebensmittelerzeugung genutzten Säugetierarten</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich.</td><td>KEIN EINTRAG</td></tr>
-<tr><td>Lidocain</td><td>NICHT ZUTREFFEND</td><td>Equiden</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur für Lokal- und Regionalanästhesie.</td><td>KEIN EINTRAG</td></tr>
+<tr><td>Lidocain</td><td>NICHT ZUTREFFEND</td><td>Equiden</td><td></td><td>NICHT ZUTREFFEND</td><td>Keine MRL erforderlich. Nur für Lokal- und Regionalanästhesie.</td><td>Lokalanästhetikum</td></tr>
+<tr><th>Lidocain</th><th>NICHT ZUTREFFEND</th><th>Schweine</th><th></th><th>NICHT ZUTREFFEND</th><th>Nur zur Anwendung bei bis zu 7 Tage alten Ferkeln. Nur zur Anwendung auf der Haut und zur epiläsionalen Anwendung.</th><th>Lokalanästhetikum</th></tr>
+<tr><th>Lidocain</th><th>Lidocain</th><th>Rinder</th><th>150 µg/kg 200 µg/kg 1 µg/kg 200 µg/kg 30 µg/kg</th><th>Muskel Fett Leber Nieren Milch</th><th>NICHT ZUTREFFEND</th><th>Lokalanästhetikum</th></tr>
 <tr><td>Lincomycin</td><td>Lincomycin</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td>100 µg/kg</td><td>Muskel</td><td>Für Fisch betrifft der Muskel-MRL «Muskel und Haut in natürlichen Verhältnissen».</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
 <tr><td>Lincomycin</td><td>Lincomycin</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td>50 µg/kg</td><td>Fett</td><td>Der MRL gilt nicht für Fisch. Für Schweine und Geflügel betrifft der Fett-MRL «Haut und Fett in natürlichen Verhältnissen».</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>
 <tr><td>Lincomycin</td><td>Lincomycin</td><td>Alle zur Lebensmittelerzeugung genutzten Arten</td><td>500 µg/kg</td><td>Leber</td><td>Der MRL gilt nicht für Fisch.</td><td>Mittel gegen Infektionen/Antibiotika</td></tr>

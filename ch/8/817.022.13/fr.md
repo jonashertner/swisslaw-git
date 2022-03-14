@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applica
 short: ORésDAlan
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/154"
 language: fr
-version: 2019-12-01
+version: 2022-03-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20191201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-154-20191201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20191201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2017-154-20220315-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20220315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20191201/fr"
 
 (ORésDAlan)**[^t-1]**
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> décembre 2019)
+du 16 décembre 2016 (Etat le 15 mars 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
 
@@ -126,6 +126,14 @@ Les résidus de substances actives non conformes à la modification du 23 octobr
 
 [^7a-1]: Introduit par le ch. I de l’O de l’OSAV du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)).
 
+#### Art. 7b
+
+**Disposition transitoire relative à la modification du 14 février 2022**[^7b-1]
+
+Les résidus de substances actives non conformes à la modification du 14 février 2022 relative à la liste 1 de l’annexe ne doivent plus être présents dans les denrées alimentaires d’origine animale à partir du 14 mars 2023.
+
+[^7b-1]: Introduit par le ch. I de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
+
 #### Art. 8
 
 **Entrée en vigueur**
@@ -138,7 +146,7 @@ Annexe*[^t-2]*
 
 ## Listes des limites maximales de résidus
 
-[^t-2]: Mise à jour selon le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)) et le ch. II de l’O de l’OSAV du 23 oct.2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)).
+[^t-2]: Mise à jour par le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)), le ch. II des O de l’OSAV du 23 oct.2019 ([RO 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)) et du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
 
 ### 1 Liste des limites maximales de résidus de substances pharmacologiquement actives dans des denrées alimentaires d’origine animale et classification de ces substances
 
@@ -343,6 +351,7 @@ Annexe*[^t-2]*
 <tr><td>Bacitracine</td><td>Somme de Bacitracine A, Bacitracine B et Bacitracine C</td><td>Lapins</td><td>150 µg/kg</td><td>Foie</td><td>NÉANT</td><td>Agents anti-infectieux/antibiotiques</td></tr>
 <tr><td>Bacitracine</td><td>Somme de Bacitracine A, Bacitracine B et Bacitracine C</td><td>Lapins</td><td>150 µg/kg</td><td>Reins</td><td>NÉANT</td><td>Agents anti-infectieux/antibiotiques</td></tr>
 <tr><td>Balsamum peruvianum</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise. Pour usage topique uniquement.</td><td>NÉANT</td></tr>
+<tr><td>Bambermycine</td><td>NON APPLICABLE</td><td>Lapins</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise. Uniquement à usage oral.</td><td>Agents anti-infectieux/antibiotiques</td></tr>
 <tr><td>Baquiloprim</td><td>Baquiloprim</td><td>Bovins</td><td>10 µg/kg</td><td>Graisse</td><td>NÉANT</td><td>Agents anti-infectieux/agents chimiothérapiques</td></tr>
 <tr><td>Baquiloprim</td><td>Baquiloprim</td><td>Bovins</td><td>300 µg/kg</td><td>Foie</td><td>NÉANT</td><td>Agents anti-infectieux/agents chimiothérapiques</td></tr>
 <tr><td>Baquiloprim</td><td>Baquiloprim</td><td>Bovins</td><td>150 µg/kg</td><td>Reins</td><td>NÉANT</td><td>Agents anti-infectieux/agents chimiothérapiques</td></tr>
@@ -391,6 +400,8 @@ Annexe*[^t-2]*
 <tr><td>Bromure, sel de sodium</td><td>NON APPLICABLE</td><td>Toutes les espèces de mammifères productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise. Pour usage topique uniquement.</td><td>NÉANT</td></tr>
 <tr><td>Bronopol</td><td>NON APPLICABLE</td><td>Poissons</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
 <tr><td>Brotizolam</td><td>NON APPLICABLE</td><td>Bovins</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise. Pour usage thérapeutique uniquement.</td><td>NÉANT</td></tr>
+<tr><th>Bupivacaïne</th><th>NON APPLICABLE</th><th>Porcs</th><th></th><th>NON APPLICABLE</th><th>Aucune LMR requise. À utiliser uniquement chez les porcelets jusqu’à l’âge de 7 jours. À usage cutané et épilésionnel uniquement.</th><th>Anesthésique local</th></tr>
+<tr><th>Bupivacaïne</th><th>NON APPLICABLE</th><th>Bovins</th><th></th><th>NON APPLICABLE</th><th>Aucune LMR requise. À utiliser uniquement chez les veaux jusqu’à l’âge de 2 mois. À usage cutané et épilésionnel uniquement.</th><th>Anesthésique local</th></tr>
 <tr><td>Buséréline</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
 <tr><td>Butafosfan</td><td>NON APPLICABLE</td><td>Toutes les espèces de mammifères productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>Voies digestives et métabolisme/suppléments minéraux</td></tr>
 <tr><td>Butyl 4-hydroxybenzoate</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
@@ -513,6 +524,7 @@ Annexe*[^t-2]*
 <tr><td>Choline</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
 <tr><td>Chrysanthemi cinerariifolii flos</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise. Pour usage topique uniquement.</td><td>NÉANT</td></tr>
 <tr><td>Chymotrypsine</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
+<tr><th>Ciclésonide</th><th>La somme du ciclésonide et du désisobutyryl-ciclésonide, mesurée en tant que désisobutyryl-ciclésonide après l’hydrolyse du ciclésonide en désisobutyryl-ciclésonide.</th><th>Équidés</th><th>0,6 µg/kg 4 µg/kg 0,6 µg/kg 0,6 µg/kg</th><th>Muscles Graisse Foie Reins</th><th>Ne pas utiliser chez les animaux produisant du lait destiné à la consommation humaine.</th><th>Corticoïdes/glucocorticoïdes</th></tr>
 <tr><td>Cimicifugae racemosae rhizoma</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise. Ne pas utiliser chez les animaux produisant du lait destiné à la consommation humaine.</td><td>NÉANT</td></tr>
 <tr><td>Cinchonae cortex, extraits standardisés et préparations dérivées</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
 <tr><td>Cinnamomi cassiae aetheroleum</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
@@ -727,7 +739,7 @@ Annexe*[^t-2]*
 <tr><td>Difloxacine</td><td>Difloxacine</td><td>Volailles</td><td>400 µg/kg</td><td>Peau</td><td>La LMR concerne «peau et graisse». Ne pas utiliser chez les animaux produisant des œufs destinés à la consommation humaine.</td><td>Agents anti-infectieux/antibiotiques</td></tr>
 <tr><td>Difloxacine</td><td>Difloxacine</td><td>Volailles</td><td>1900 µg/kg</td><td>Foie</td><td>Ne pas utiliser chez les animaux produisant des œufs destinés à la consommation humaine.</td><td>Agents anti-infectieux/antibiotiques</td></tr>
 <tr><td>Difloxacine</td><td>Difloxacine</td><td>Volailles</td><td>600 µg/kg</td><td>Reins</td><td>Ne pas utiliser chez les animaux produisant des œufs destinés à la consommation humaine.</td><td>Agents anti-infectieux/antibiotiques</td></tr>
-<tr><td>Diflubenzuron</td><td>Diflubenzuron</td><td>Salmonidés</td><td>1000 µg/kg</td><td>Muscle et peau dans des proportions naturelles</td><td>NÉANT</td><td>Agents antiparasitaires/médicaments agissant sur les ectoparasites</td></tr>
+<tr><td>Diflubenzuron</td><td>Diflubenzuron</td><td>Salmonidés</td><td>10 µg/kg</td><td>Muscle et peau dans des proportions naturelles</td><td>NÉANT</td><td>Agents antiparasitaires/médicaments agissant sur les ectoparasites</td></tr>
 <tr><td>Dihydrochlorure de pipérazine</td><td>NON APPLICABLE</td><td>Poulets</td><td></td><td>NON APPLICABLE</td><td>Pas de LMR requises pour toutes les denrées à l’exception des œufs.</td><td>NÉANT</td></tr>
 <tr><td>Dihydrogéno-phosphate de 2-aminoéthyle</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
 <tr><td>Dihydro-streptomycine</td><td>Dihydro-streptomycine</td><td>Lapins</td><td>500 µg/kg</td><td>Muscle</td><td>NÉANT</td><td>Agents anti-infectieux/antibiotiques</td></tr>
@@ -1065,6 +1077,7 @@ Annexe*[^t-2]*
 <tr><td>Hypophosphite de calcium</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
 <tr><td>Hypophosphite de magnésium</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
 <tr><td>Hypophosphite de sodium</td><td>NON APPLICABLE</td><td>Toutes les espèces productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
+<tr><th>Imidaclopride</th><th>Imidaclopride</th><th>Poissons</th><th>600 µg/kg</th><th>Muscle et peau dans des proportions naturelles</th><th>NON APPLICABLE</th><th>Agents antiparasitaires/médicaments agissant sur les ectoparasites</th></tr>
 <tr><td>Imidocarbe</td><td>Imidocarbe</td><td>Bovins</td><td>300 µg/kg</td><td>Muscle</td><td>NÉANT</td><td>Agents antiparasitaires/médica-ments agissant sur les protozoaires</td></tr>
 <tr><td>Imidocarbe</td><td>Imidocarbe</td><td>Bovins</td><td>50 µg/kg</td><td>Graisse</td><td>NÉANT</td><td>Agents antiparasitaires/médica-ments agissant sur les protozoaires</td></tr>
 <tr><td>Imidocarbe</td><td>Imidocarbe</td><td>Bovins</td><td>2000 µg/kg</td><td>Foie</td><td>NÉANT</td><td>Agents antiparasitaires/médica-ments agissant sur les protozoaires</td></tr>
@@ -1142,7 +1155,9 @@ Annexe*[^t-2]*
 <tr><td>Lévamisole</td><td>Lévamisole</td><td>Volailles</td><td>10 µg/kg</td><td>Reins</td><td>Ne pas utiliser chez les animaux produisant des œufs destinés à la consommation humaine.</td><td>Agents antiparasitaires/médicaments agissant sur les endoparasites</td></tr>
 <tr><td>Lévométhadone</td><td>NON APPLICABLE</td><td>Équidés</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise. Uniquement à usage intraveineux.</td><td>NÉANT</td></tr>
 <tr><td>Lévothyroxine</td><td>NON APPLICABLE</td><td>Toutes les espèces de mammifères productrices d’aliments</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise.</td><td>NÉANT</td></tr>
-<tr><td>Lidocaïne</td><td>NON APPLICABLE</td><td>Équidés</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise. Pour anesthésie locale et régionale uniquement.</td><td>NÉANT</td></tr>
+<tr><td>Lidocaïne</td><td>NON APPLICABLE</td><td>Équidés</td><td></td><td>NON APPLICABLE</td><td>Aucune LMR requise. Pour anesthésie locale et régionale uniquement.</td><td>Anesthésique local</td></tr>
+<tr><th>Lidocaïne</th><th>NON APPLICABLE</th><th>Porcs</th><th></th><th>NON APPLICABLE</th><th>À utiliser uniquement chez les porcelets jusqu’à l’âge de 7 jours. À usage cutané et épilésionnel uniquement.</th><th>Anesthésique local</th></tr>
+<tr><th>Lidocaïne</th><th>Lidocaïne</th><th>Bovins</th><th>150 µg/kg 200 µg/kg 1 µg/kg 200 µg/kg 30 µg/kg</th><th>Muscles Graisse Foie Reins Lait</th><th>NON APPLICABLE</th><th>Anesthésique local</th></tr>
 <tr><td>Lincomycine</td><td>Lincomycine</td><td>Toutes les espèces productrices d’aliments</td><td>100 µg/kg</td><td>Muscle</td><td>Pour les poissons, la LMR muscle concerne «muscle et peau dans des proportions naturelles».</td><td>Agents anti-infectieux/antibiotiques</td></tr>
 <tr><td>Lincomycine</td><td>Lincomycine</td><td>Toutes les espèces productrices d’aliments</td><td>50 µg/kg</td><td>Graisse</td><td>La LMR ne s’applique pas aux poissons. Pour les porcins et les volailles, la LMR graisse concerne «peau et graisse dans des proportions naturelles».</td><td>Agents anti-infectieux/antibiotiques</td></tr>
 <tr><td>Lincomycine</td><td>Lincomycine</td><td>Toutes les espèces productrices d’aliments</td><td>500 µg/kg</td><td>Foie</td><td>La LMR ne s’applique pas aux poissons.</td><td>Agents anti-infectieux/antibiotiques</td></tr>

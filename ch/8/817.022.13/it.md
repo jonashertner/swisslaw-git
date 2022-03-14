@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente i limiti massimi per i
 short: ORDOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/154"
 language: it
-version: 2019-12-01
+version: 2022-03-15
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20191201/it/xml/fedlex-data-admin-ch-eli-cc-2017-154-20191201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20191201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2017-154-20220315-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20220315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20191201/it"
 
 (ORDOA)**[^t-1]**
 
-del 16 dicembre 2016 (Stato 1° dicembre 2019) (Stato 1° dicembre 2019)
+del 16 dicembre 2016 (Stato 15 marzo 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
 
@@ -27,7 +27,7 @@ visti gli articoli 10 capoverso 4 lettera e nonché 95 capoverso 3 dell’ordina
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: RS **8****17.02**
 
 #### Art. 1
 
@@ -126,6 +126,14 @@ I residui delle sostanze attive non conformi alla modifica del 23 ottobre 2019 n
 
 [^7a-1]: Introdotto dal n. I dell’O del USAV del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)).
 
+#### Art. 7b
+
+**Disposizione transitoria della modifica del 14 febbraio 2022**[^7b-1]
+
+I residui delle sostanze attive non conformi alla modifica dell’allegato elenco 1 del 14 febbraio 2022 non possono più essere presenti nelle derrate alimentari di origine animale dal 14 marzo 2023.
+
+[^7b-1]: Introdotto dal n. I dell’O del USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
+
 #### Art. 8
 
 **Entrata in vigore**
@@ -138,7 +146,7 @@ Allegato*[^t-2]*
 
 ## Elenco dei limiti massimi per i residui
 
-[^t-2]: Aggiornato dal n. I dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)) e dal n. II dell’O del USAV del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)).
+[^t-2]: Aggiornato dal n. I dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)) e dai n. II delle O del USAV del 23 ott. 2019 ([RU 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)) e del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
 
 ### 1 Elenco dei limiti massimi autorizzati per i residui di sostanze farmacologicamente attive nelle derrate alimentari di origine animale e classificazione di tali sostanze
 
@@ -352,6 +360,7 @@ Allegato*[^t-2]*
 <tr><td>Bacitracina</td><td>Somma di bacitracina A, bacitracina B e bacitracina C</td><td>Conigli</td><td>150 µg/kg</td><td>Fegato</td><td>NESSUNA</td><td>Agenti antinfettivi/Antibiotici</td></tr>
 <tr><td>Bacitracina</td><td>Somma di bacitracina A, bacitracina B e bacitracina C</td><td>Conigli</td><td>150 µg/kg</td><td>Rene</td><td>NESSUNA</td><td>Agenti antinfettivi/Antibiotici</td></tr>
 <tr><td>Balsamum peruvianum</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Esclusivamente ad uso topico.</td><td>NESSUNA</td></tr>
+<tr><td>Bambermicina</td><td>NON PERTINENTE</td><td>Conigli</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Esclusivamente ad uso orale.</td><td>Agenti antinfettivi/Antibiotici</td></tr>
 <tr><td>Beclometasone dipropionato</td><td>NON PERTINENTE</td><td>Equidi</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Da utilizzare esclusivamente per inalazione.</td><td>NESSUNA</td></tr>
 <tr><td>Bellis perennis</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Da usare esclusivamente nei medicinali veterinari omeopatici preparati secondo la farmacopea omeopatica, a concentrazioni corrispondenti alla tintura madre e alle sue diluizioni.</td><td>NESSUNA</td></tr>
 <tr><td>Benzalconio cloruro</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Esclusivamente usato come eccipiente a concentrazioni non superiori allo 0,05 %.</td><td>NESSUNA</td></tr>
@@ -387,6 +396,8 @@ Allegato*[^t-2]*
 <tr><td>Bromuro, sale sodico</td><td>NON PERTINENTE</td><td>Tutti i mammiferi da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Esclusivamente ad uso topico.</td><td>NESSUNA</td></tr>
 <tr><td>Bronopol</td><td>NON PERTINENTE</td><td>Pesce</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Brotizolam</td><td>NON PERTINENTE</td><td>Bovini</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Unicamente ad uso terapeutico.</td><td>NESSUNA</td></tr>
+<tr><td>Bupivacaina</td><td>NON PERTINENTE</td><td>Suini</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Da utilizzare esclusivamente su lattonzoli fino a 7 giorni di età. Esclusivamente per uso cutaneo e per uso epilesionale.</td><td>Anestetico locale</td></tr>
+<tr><td>Bupivacaina</td><td>NON PERTINENTE</td><td>Bovini</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Da utilizzare esclusivamente su vitelli fino a 2 mesi di età. Esclusivamente per uso cutaneo e per uso epilesionale.</td><td>Anestetico locale</td></tr>
 <tr><td>Buserelina</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Butafosfan</td><td>NON PERTINENTE</td><td>Tutti i mammiferi da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>Tubo digerente e metabolismo/integratori minerali</td></tr>
 <tr><td>Butil 4-idrossibenzoato di sodio</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
@@ -490,6 +501,7 @@ Allegato*[^t-2]*
 <tr><td>Cialotrina</td><td>Cialotrina (somma degli isomeri)</td><td>Bovini</td><td>500 µg/kg</td><td>Grasso</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
 <tr><td>Cialotrina</td><td>Cialotrina (somma degli isomeri)</td><td>Bovini</td><td>50 µg/kg</td><td>Rene</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
 <tr><td>Cialotrina</td><td>Cialotrina (somma degli isomeri)</td><td>Bovini</td><td>50 µg/kg</td><td>Latte</td><td>Per il latte devono essere osservate le ulteriori disposizioni della direttiva 94/29/CE.</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
+<tr><td>Ciclesonide</td><td>Somma di ciclesonide e desisobutiril-ciclesonide misurati come desisobutiril-ciclesonide dopo idrolisi di ciclesonide in desisobutiril-ciclesonide.</td><td>Equidi</td><td>0.6 µg/kg 4 µg/kg 0.6 µg/kg 0.6 µg/kg</td><td>Muscolo Grasso Fegato Rene</td><td>Da non utilizzare in animali che producono latte destinato al consumo umano.</td><td>Corticoidi/Glucocorticoidi</td></tr>
 <tr><td>Ciflutrina</td><td>Ciflutrina (somma degli isomeri)</td><td>Bovini</td><td>10 µg/kg</td><td>Muscolo</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
 <tr><td>Ciflutrina</td><td>Ciflutrina (somma degli isomeri)</td><td>Bovini</td><td>50 µg/kg</td><td>Grasso</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
 <tr><td>Ciflutrina</td><td>Ciflutrina (somma degli isomeri)</td><td>Bovini</td><td>10 µg/kg</td><td>Fegato</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
@@ -725,7 +737,7 @@ Allegato*[^t-2]*
 <tr><td>Diflossacina</td><td>Diflossacina</td><td>Tutte le altre specie da produzione alimentare</td><td>100 µg/kg</td><td>Grasso</td><td>NESSUNA</td><td>Agenti antinfettivi/Antibiotici</td></tr>
 <tr><td>Diflossacina</td><td>Diflossacina</td><td>Tutte le altre specie da produzione alimentare</td><td>800 µg/kg</td><td>Fegato</td><td>NESSUNA</td><td>Agenti antinfettivi/Antibiotici</td></tr>
 <tr><td>Diflossacina</td><td>Diflossacina</td><td>Tutte le altre specie da produzione alimentare</td><td>600 µg/kg</td><td>Rene</td><td>NESSUNA</td><td>Agenti antinfettivi/Antibiotici</td></tr>
-<tr><td>Diflubenzurone</td><td>Diflubenzurone</td><td>Salmonidi</td><td>1000 µg/kg</td><td>Muscolo e pelle in proporzioni naturali</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
+<tr><td>Diflubenzurone</td><td>Diflubenzurone</td><td>Salmonidi</td><td>10 µg/kg</td><td>Muscolo e pelle in proporzioni naturali</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
 <tr><td>Diidrogenofosfato di 2-amminoetile</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Diidrostreptomicina</td><td>Diidrostreptomicina</td><td>Conigli</td><td>500 µg/kg</td><td>Muscolo</td><td>NESSUNA</td><td>Agenti antinfettivi/Antibiotici</td></tr>
 <tr><td>Diidrostreptomicina</td><td>Diidrostreptomicina</td><td>Conigli</td><td>500 µg/kg</td><td>Grasso</td><td>NESSUNA</td><td>Agenti antinfettivi/Antibiotici</td></tr>
@@ -828,7 +840,7 @@ Allegato*[^t-2]*
 <tr><td>Esperidina</td><td>NON PERTINENTE</td><td>Equidi</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Esperidina metil calcone</td><td>NON PERTINENTE</td><td>Equidi</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>17β-estradiolo</td><td>NON PERTINENTE</td><td>Tutti i mammiferi da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Esclusivamente per scopi terapeutici e zootecnici.</td><td>Agenti antinfettivi/Antibiotici</td></tr>
-<tr><td>Estratto purificato semisolido di *Humulus* *lupulus* L. contenente approssimativamente il 48 % di acidi beta (come sali di potassio)</td><td>NON PERTINENTE</td><td>Api</td><td></td><td>Miele</td><td>LMR non richiesto.</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
+<tr><td>Estratto purificato semisolido di *Humulus lupulus* L. contenente approssimativamente il 48 % di acidi beta (come sali di potassio)</td><td>NON PERTINENTE</td><td>Api</td><td></td><td>Miele</td><td>LMR non richiesto.</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
 <tr><td>Etamifillina camsilato</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Etamsilato</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Etanolo</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Usato come eccipiente.</td><td>NESSUNA</td></tr>
@@ -1068,6 +1080,7 @@ Allegato*[^t-2]*
 <tr><td>Gomma adragante</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Gonadotropina sierica di cavalla gravida</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Gonadotropina corionica umana</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
+<tr><td>15-idrossistearato di polietilenglicole</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Usato come eccipiente.</td><td>NESSUNA</td></tr>
 <tr><td>Gonadotropina corionica umana (HCG naturale e analoghi sintetici)</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Gonadotropina urinaria menopausale umana</td><td>NON PERTINENTE</td><td>Bovini</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Guanosina e derivati 5'-monofosfati, 5'-bifosfati e 5'-trifosfati</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
@@ -1087,7 +1100,7 @@ Allegato*[^t-2]*
 <tr><td>Idrossido di calcio</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Idrossido di magnesio</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
 <tr><td>Idrossi-etil-salicilato</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare tranne i pesci</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Esclusivamente ad uso topico.</td><td>NESSUNA</td></tr>
-<tr><td>15-idrossistearato di polietilenglicole</td><td>NON PERTINENTE</td><td>Tutte le specie da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Usato come eccipiente.</td><td>NESSUNA</td></tr>
+<tr><td>Imidacloprid</td><td>Imidacloprid</td><td>Pesce</td><td>600 µg/kg</td><td>Muscolo e pelle in proporzioni naturali</td><td>NON PERTINENTE</td><td>Agenti antiparassitari/Agenti attivi contro gli ectoparassiti</td></tr>
 <tr><td>Imidocarb</td><td>Imidocarb</td><td>Bovini</td><td>300 µg/kg</td><td>Muscolo</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro i protozoi</td></tr>
 <tr><td>Imidocarb</td><td>Imidocarb</td><td>Bovini</td><td>50 µg/kg</td><td>Grasso</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro i protozoi</td></tr>
 <tr><td>Imidocarb</td><td>Imidocarb</td><td>Bovini</td><td>2000 µg/kg</td><td>Fegato</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro i protozoi</td></tr>
@@ -1163,7 +1176,9 @@ Allegato*[^t-2]*
 <tr><td>Levamisolo</td><td>Levamisolo</td><td>Suini</td><td>10 µg/kg</td><td>Rene</td><td>NESSUNA</td><td>Agenti antiparassitari/Agenti attivi contro gli endoparassiti</td></tr>
 <tr><td>Levometadone</td><td>NON PERTINENTE</td><td>Equidi</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Esclusivamente per via endovenosa.</td><td>NESSUNA</td></tr>
 <tr><td>Levotiroxina</td><td>NON PERTINENTE</td><td>Tutti i mammiferi da produzione alimentare</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto.</td><td>NESSUNA</td></tr>
-<tr><td>Lidocaina</td><td>NON PERTINENTE</td><td>Equidi</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Esclusivamente per anestesia loco-regionale.</td><td>NESSUNA</td></tr>
+<tr><td>Lidocaina</td><td>NON PERTINENTE</td><td>Equidi</td><td></td><td>NON PERTINENTE</td><td>LMR non richiesto. Esclusivamente per anestesia loco-regionale.</td><td>Anestetico locale</td></tr>
+<tr><td>Lidocaina</td><td>NON PERTINENTE</td><td>Suini</td><td></td><td>NON PERTINENTE</td><td>Da utilizzare esclusivamente su lattonzoli fino a 7 giorni di età. Esclusivamente per uso cutaneo e per uso epilesionale.</td><td>Anestetico locale</td></tr>
+<tr><td>Lidocaina</td><td>Lidocaina</td><td>Bovini</td><td>150 µg/kg 200 µg/kg 1 µg/kg 200 µg/kg 30 µg/kg</td><td>Muscolo Grasso Fegato Rene Latte</td><td>NON PERTINENTE</td><td>Anestetico locale</td></tr>
 <tr><td>Lincomicina</td><td>Lincomicina</td><td>Tutte le specie da produzione alimentare</td><td>100 µg/kg</td><td>Muscolo</td><td>Per il pesce l’LMR del muscolo si riferisce a «muscolo e pelle in proporzioni naturali».</td><td>Agenti antinfettivi/Antibiotici</td></tr>
 <tr><td>Lincomicina</td><td>Lincomicina</td><td>Tutte le specie da produzione alimentare</td><td>50 µg/kg</td><td>Grasso</td><td>L’LMR non si applica al pesce. Per suini e pollame l’LMR si riferisce a «pelle e grasso in proporzioni naturali».</td><td>Agenti antinfettivi/Antibiotici</td></tr>
 <tr><td>Lincomicina</td><td>Lincomicina</td><td>Tutte le specie da produzione alimentare</td><td>500 µg/kg</td><td>Fegato</td><td>L’LMR non si applica al pesce.</td><td>Agenti antinfettivi/Antibiotici</td></tr>
