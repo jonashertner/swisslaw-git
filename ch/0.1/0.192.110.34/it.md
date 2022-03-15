@@ -3,11 +3,11 @@ sr: "0.192.110.34"
 title: "Quarto Protocollo addizionale del 16 dicembre 1961 dell'Accordo Generale su i Privilegi e le Immunità del Consiglio d'Europa"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/792_817_807"
 language: it
-version: 2004-03-16
+version: 2022-03-16
 adopted: 1961-12-16
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/792_817_807/20040316/it/xml/fedlex-data-admin-ch-eli-cc-1966-792_817_807-20040316-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/792_817_807/20040316/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/792_817_807/20220316/it/xml/fedlex-data-admin-ch-eli-cc-1966-792_817_807-20220316-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/792_817_807/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -28,7 +28,7 @@ Istrumento di ratificazione depositato dalla Svizzera il 29 novembre 1965
 
 Entrato in vigore per la Svizzera il 29 novembre 1965
 
-(Stato 16 marzo 2004)
+(Stato 16 marzo 2022)
 
 [^t-1]: [RU 1966 795](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
 
@@ -114,7 +114,7 @@ Il Segretario Generale del Consiglio d’Europa notificherà ai Membri del Consi
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Parigi, il 16 dicembre 1961, nelle lingue francese e inglese, i cui testi fanno ugualmente fede, in un solo esemplare, che sarà depositato nell’archivio del Consiglio d’Europa. Il Segretario generale ne comunicherà copie certificate conformi a tutti i governi firmatari. (Seguono le firme)
 
-Campo d’applicazione il 16 marzo 2004
+Campo d’applicazione il 16 marzo 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -145,7 +145,6 @@ Campo d’applicazione il 16 marzo 2004
 <tr><td>Jersey</td><td></td><td></td><td>19 novembre</td><td>1971</td></tr>
 <tr><td>Repubblica Ceca</td><td>30 maggio</td><td>1995</td><td>30 maggio</td><td>1995</td></tr>
 <tr><td>Romania</td><td>4 ottobre</td><td>1994 F</td><td>4 ottobre</td><td>1994</td></tr>
-<tr><td>Russia</td><td>28 febbraio</td><td>1996 F</td><td>28 febbraio</td><td>1996</td></tr>
 <tr><td>San Marino</td><td>22 marzo</td><td>1989</td><td>22 marzo</td><td>1989</td></tr>
 <tr><td>Slovacchia</td><td>15 luglio</td><td>1997</td><td>15 luglio</td><td>1997</td></tr>
 <tr><td>Slovenia</td><td>8 novembre</td><td>1994</td><td>8 novembre</td><td>1994</td></tr>
@@ -155,3 +154,5 @@ Campo d’applicazione il 16 marzo 2004
 <tr><td>Turchia</td><td>1° giugno</td><td>1962 F</td><td>1° marzo</td><td>1965</td></tr>
 <tr><td>Ungheria</td><td>12 gennaio</td><td>1996</td><td>12 gennaio</td><td>1996</td></tr>
 </table>
+
+[^t-2]: [RU 1968 1696](https://fedlex.data.admin.ch/eli/oc/1968/1728_1772_1696); [1971 1345](https://fedlex.data.admin.ch/eli/oc/1971/1349_1345_1345); [1982 1938](https://fedlex.data.admin.ch/eli/oc/1982/1938_1938_1938); [1990 538](https://fedlex.data.admin.ch/eli/oc/1990/538_538_538); [1994 1089](https://fedlex.data.admin.ch/eli/oc/1994/1089_1089_1089); [2004 2981](https://fedlex.data.admin.ch/eli/oc/2004/374): **2023** 382. Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

@@ -3,39 +3,42 @@ sr: "0.192.110.34"
 title: "Quatrième protocole additionnel du 16 décembre 1961 à l'accord général sur les privilèges et immunités du Conseil de l'Europe"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/792_817_807"
 language: fr
-version: 2004-03-16
+version: 2022-03-16
 adopted: 1961-12-16
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/792_817_807/20040316/fr/xml/fedlex-data-admin-ch-eli-cc-1966-792_817_807-20040316-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/792_817_807/20040316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/792_817_807/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-1966-792_817_807-20220316-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/792_817_807/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Quatrième protocole additionnel à l’accord général sur les privilèges et immunités du Conseil de l’Europe
 
-(Etat le 22 juin 2004)
-
-0.192.110.34Nicht löschen bitte "[^t-1] " !!
+RO **1966** 817; FF **1965** I 445
 
 Texte original
 
 Dispositions relatives à la Cour européenne des Droits de l’Homme
 
-Conclu à Paris le 16 décembre 1961 Approuvé par l’Assemblée fédérale le 20 septembre 1965[^t-2] Instrument de ratification déposé par la Suisse le 29 novembre 1965 Entré en vigueur pour la Suisse le 29 novembre 1965
+Conclu à Paris le 16 décembre 1961
 
-(Etat le 22 juin 2004)
+Approuvé par l’Assemblée fédérale le 20 septembre 1965[^t-1]
 
-[^t-1]: [RO 1966 817](https://fedlex.data.admin.ch/eli/oc/1966/792_817_807); [FF 1965 I 445](https://fedlex.data.admin.ch/eli/fga/1965/1_437_445_381)
-[^t-2]: [RO 1966 803](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
+Instrument de ratification déposé par la Suisse le 29 novembre 1965
+
+Entré en vigueur pour la Suisse le 29 novembre 1965
+
+(État le 16 mars 2022)
+
+[^t-1]: [RO 1966 803](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
 
 Les Gouvernements signataires, Membres du Conseil de l’Europe,
 
-Considérant qu’aux termes de l’art. 59 de la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales, signée à Rome le 4 novembre 1950[^ingress-1] (ci‑après dénommée «la Convention»), les membres de la Cour européenne des Droits de l’Homme (ci‑après dénommée «la Cour») jouissent, pendant l’exercice de leurs fonctions, des privilèges et immunités prévus à l’art. 40 du Statut du Conseil de l’Europe[^ingress-2] et dans les Accords conclus en vertu de cet article;
+considérant qu’aux termes de l’art. 59 de la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales, signée à Rome le 4 novembre 1950[^ingress-1] (ci‑après dénommée «la Convention»), les membres de la Cour européenne des Droits de l’Homme (ci‑après dénommée «la Cour») jouissent, pendant l’exercice de leurs fonctions, des privilèges et immunités prévus à l’art. 40 du Statut du Conseil de l’Europe[^ingress-2] et dans les Accords conclus en vertu de cet article,
 
-Considérant qu’il importe de définir et préciser lesdits privilèges et immunités au moyen d’un Protocole additionnel à l’Accord Général sur les Privilèges et Immunités du Conseil de l’Europe, signé à Paris le 2 septembre 1949[^ingress-3],
+considérant qu’il importe de définir et préciser lesdits privilèges et immunités au moyen d’un Protocole additionnel à l’Accord Général sur les Privilèges et Immunités du Conseil de l’Europe, signé à Paris le 2 septembre 1949[^ingress-3],
 
-Sont convenus de ce qui suit:
+sont convenus de ce qui suit:
 
 [^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 [^ingress-2]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
@@ -43,7 +46,7 @@ Sont convenus de ce qui suit:
 
 #### Art. 1
 
-Aux fins d’application du présent Protocole, le terme «juges» désigne indifféremment les juges élus conformément à l’art. 39 de la Convention et tout juge ad hoc désigné par un Etat intéressé en vertu de l’art. 43 de la Convention.
+Aux fins d’application du présent Protocole, le terme «juges» désigne indifféremment les juges élus conformément à l’art. 39 de la Convention et tout juge ad hoc désigné par un État intéressé en vertu de l’art. 43 de la Convention.
 
 #### Art. 2
 
@@ -83,7 +86,7 @@ Les privilèges et immunités sont accordés aux juges non pour leur bénéfice 
 
 #### Art. 8
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature sans réserve de ratification, de la ratification ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétaire Général du Conseil de l’Europe, que le présent Protocole s’appliquera à tous les territoires ou à l’un quelconque des territoires dont il assure les relations internationales et où, conformément à l’art. 63 de la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales, cette Convention s’applique.
+<sup>1.</sup> Tout État peut, au moment de la signature sans réserve de ratification, de la ratification ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétaire Général du Conseil de l’Europe, que le présent Protocole s’appliquera à tous les territoires ou à l’un quelconque des territoires dont il assure les relations internationales et où, conformément à l’art. 63 de la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales, cette Convention s’applique.
 
 <sup>2.</sup> Le Protocole s’appliquera au territoire ou aux territoires désignés dans la notification à partir du trentième jour qui suivra la date à laquelle le Secrétaire Général du Conseil de l’Europe aura reçu cette notification.
 
@@ -109,14 +112,12 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conse
 - a. Les noms des signataires et le dépôt de tout instrument de ratification;
 - b. La date d’entrée en vigueur du présent Protocole.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Paris, le 16 décembre 1961, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général en communiquera des copies certifiées conformes à tous les gouvernements signataires.
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Paris, le 16 décembre 1961, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général en communiquera des copies certifiées conformes à tous les gouvernements signataires. (Suivent les signatures)
 
-(Suivent les signatures)
-
-## Champ d’application du protocole additionnel le 16 mars 2004
+Champ d’application le 16 mars 2022[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>4 juin</td><td>1998 Si</td><td>4 juin</td><td>1998</td></tr>
 <tr><td>Allemagne</td><td>10 décembre</td><td>1963</td><td>10 décembre</td><td>1963</td></tr>
 <tr><td>Autriche</td><td>16 décembre</td><td>1961 Si</td><td>16 décembre</td><td>1961</td></tr>
@@ -140,13 +141,12 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conse
 <tr><td>Pays-Bas</td><td>16 décembre</td><td>1961 Si</td><td>16 décembre</td><td>1961</td></tr>
 <tr><td>Pologne</td><td>22 avril</td><td>1993</td><td>22 avril</td><td>1993</td></tr>
 <tr><td>Portugal</td><td>6 juillet</td><td>1982</td><td>6 juillet</td><td>1982</td></tr>
+<tr><td>République tchèque</td><td>30 mai</td><td>1995</td><td>30 mai</td><td>1995</td></tr>
 <tr><td>Roumanie</td><td>4 octobre</td><td>1994 Si</td><td>4 octobre</td><td>1994</td></tr>
 <tr><td>Royaume-Uni</td><td>24 février</td><td>1971</td><td>24 février</td><td>1971</td></tr>
 <tr><td>[tab] Guernesey</td><td></td><td></td><td>19 novembre</td><td>1971</td></tr>
-<tr><td>[tab] Ile de Man</td><td></td><td></td><td>19 novembre</td><td>1971</td></tr>
+<tr><td>[tab] Île de Man</td><td></td><td></td><td>19 novembre</td><td>1971</td></tr>
 <tr><td>[tab] Jersey</td><td></td><td></td><td>19 novembre</td><td>1971</td></tr>
-<tr><td>Russie</td><td>28 février</td><td>1996 Si</td><td>28 février</td><td>1996</td></tr>
-<tr><td>République tchèque</td><td>30 mai</td><td>1995</td><td>30 mai</td><td>1995</td></tr>
 <tr><td>Saint-Marin</td><td>22 mars</td><td>1989</td><td>22 mars</td><td>1989</td></tr>
 <tr><td>Slovaquie</td><td>15 juillet</td><td>1997</td><td>15 juillet</td><td>1997</td></tr>
 <tr><td>Slovénie</td><td>8 novembre</td><td>1994</td><td>8 novembre</td><td>1994</td></tr>
@@ -154,3 +154,5 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conse
 <tr><td>Suisse</td><td>29 novembre</td><td>1965</td><td>29 novembre</td><td>1965</td></tr>
 <tr><td>Turquie</td><td>1<sup>er</sup> juin</td><td>1962 Si</td><td>1<sup>er</sup> mars</td><td>1965</td></tr>
 </table>
+
+[^t-2]: [RO 1968 1772](https://fedlex.data.admin.ch/eli/oc/1968/1728_1772_1696); [1971 1345](https://fedlex.data.admin.ch/eli/oc/1971/1349_1345_1345); [1982 1938](https://fedlex.data.admin.ch/eli/oc/1982/1938_1938_1938); [1990 538](https://fedlex.data.admin.ch/eli/oc/1990/538_538_538); [1994 1089](https://fedlex.data.admin.ch/eli/oc/1994/1089_1089_1089); [2004 2981](https://fedlex.data.admin.ch/eli/oc/2004/374); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

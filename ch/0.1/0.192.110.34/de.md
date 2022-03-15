@@ -3,11 +3,11 @@ sr: "0.192.110.34"
 title: Viertes Zusatzprotokoll vom 16. Dezember 1961 zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/792_817_807"
 language: de
-version: 2004-03-16
+version: 2022-03-16
 adopted: 1961-12-16
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/792_817_807/20040316/de/xml/fedlex-data-admin-ch-eli-cc-1966-792_817_807-20040316-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/792_817_807/20040316/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/792_817_807/20220316/de/xml/fedlex-data-admin-ch-eli-cc-1966-792_817_807-20220316-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/792_817_807/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Bestimmungen betreffend den Europäischen Gerichtshof für Menschenrechte
 
 Abgeschlossen in Paris am 16. Dezember 1961 Von der Bundesversammlung genehmigt am 20. September 1965[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. November 1965 In Kraft getreten für die Schweiz am 29. November 1965
 
-(Stand am 16. März 2004)
+(Stand am 16. März 2022)
 
 [^t-1]: [AS 1966 777](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
 
@@ -106,7 +106,7 @@ Der Generalsekretär des Europarates notifiziert den Mitgliedern des Rates
 
 *Zur Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Paris am 16. Dezember 1961 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einem einzigen Exemplar, das im Archiv des Europarates hinterlegt wird. Der Generalsekretär übermittelt allen Unterzeichnerregierungen beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich des Vierten Zusatzprotokolls am 16. März 2004
+Geltungsbereich am 16. März 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -131,7 +131,6 @@ Geltungsbereich des Vierten Zusatzprotokolls am 16. März 2004
 <tr><td>Polen</td><td>22. April</td><td>1993</td><td>22. April</td><td>1993</td></tr>
 <tr><td>Portugal</td><td>6. Juli</td><td>1982</td><td>6. Juli</td><td>1982</td></tr>
 <tr><td>Rumänien</td><td>4. Oktober</td><td>1994 U</td><td>4. Oktober</td><td>1994</td></tr>
-<tr><td>Russland</td><td>28. Februar</td><td>1996 U</td><td>28. Februar</td><td>1996</td></tr>
 <tr><td>San Marino</td><td>22. März</td><td>1989</td><td>22. März</td><td>1989</td></tr>
 <tr><td>Schweden</td><td>18. September</td><td>1962</td><td>18. September</td><td>1962</td></tr>
 <tr><td>Schweiz</td><td>29. November</td><td>1965</td><td>29. November</td><td>1965</td></tr>
@@ -147,3 +146,5 @@ Geltungsbereich des Vierten Zusatzprotokolls am 16. März 2004
 <tr><td>[tab] Jersey</td><td></td><td></td><td>19. November</td><td>1971</td></tr>
 <tr><td>Zypern</td><td>30. November</td><td>1967</td><td>30. November</td><td>1967</td></tr>
 </table>
+
+[^t-2]: [AS 1968 1728](https://fedlex.data.admin.ch/eli/oc/1968/1728_1772_1696); [1971 1350](https://fedlex.data.admin.ch/eli/oc/1971/1350_1345_1345); [1982 1938](https://fedlex.data.admin.ch/eli/oc/1982/1938_1938_1938); [1990 538](https://fedlex.data.admin.ch/eli/oc/1990/538_538_538); [1994 1089](https://fedlex.data.admin.ch/eli/oc/1994/1089_1089_1089); [2004 2981](https://fedlex.data.admin.ch/eli/oc/2004/374); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382).. Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20)
