@@ -3,11 +3,11 @@ sr: "0.192.110.36"
 title: "Sixième prot. add. du 5 mars 1996 à l'Accord général sur les privilèges et immunités du Conseil de l'Europe"
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/248"
 language: fr
-version: 2015-04-22
+version: 2022-03-16
 adopted: 1996-03-05
 in_force: 1998-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/248/20150422/fr/xml/fedlex-data-admin-ch-eli-cc-2000-248-20150422-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/248/20150422/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/248/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2000-248-20220316-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/248/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,11 +20,11 @@ Texte original
 
 Conclu à Strasbourg le 5 mars 1996 Signé par la Suisse le 27 août 1998[^t-1] Entrée en vigueur pour la Suisse le 1<sup>er</sup> novembre 1998
 
-(Etat le 22 avril 2015)
+(État le 16 mars 2022)
 
 [^t-1]: Sans réserve de ratification.
 
-Les Etats membres du Conseil de l’Europe, signataires du présent Protocole,
+Les États membres du Conseil de l’Europe, signataires du présent Protocole,
 
 vu la Convention de sauvegarde des droits de l’homme et des libertés fondamentales[^ingress-1], signée à Rome le 4 novembre 1950 (ci-après dénommée «la Convention»),
 
@@ -38,12 +38,12 @@ considérant qu’un nouveau Protocole à l’Accord général est opportun pour
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993)
-[^ingress-3]: [RS 0.192.110.3](https://fedlex.data.admin.ch/eli/cc/1966/779_805_797)
-[^ingress-4]: [RS 0.192.110.32](https://fedlex.data.admin.ch/eli/cc/1966/789_814_805)
-[^ingress-5]: [RS 0.192.110.34](https://fedlex.data.admin.ch/eli/cc/1966/792_817_807)
-[^ingress-6]: [RS 0.192.110.35](https://fedlex.data.admin.ch/eli/cc/1994/718_718_718)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [RS 0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8)
+[^ingress-3]: [RS 0.192.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/607)
+[^ingress-4]: [RS 0.192.110.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/609)
+[^ingress-5]: [RS 0.192.110.34](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/611)
+[^ingress-6]: [RS 0.192.110.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/612)
 
 #### Art. 1
 
@@ -51,7 +51,7 @@ Outre les privilèges et immunités prévus à l’art. 18 de l’Accord génér
 
 #### Art. 2
 
-Aux fins d’application du présent Protocole, le terme «juges» désigne indifféremment les juges élus conformément à l’art. 22 de la Convention et tout juge *ad hoc* désigné par un Etat intéressé en vertu de l’art. 27, par. 2, de la Convention.
+Aux fins d’application du présent Protocole, le terme «juges» désigne indifféremment les juges élus conformément à l’art. 22 de la Convention et tout juge *ad hoc* désigné par un État intéressé en vertu de l’art. 27, par. 2, de la Convention.
 
 #### Art. 3
 
@@ -63,7 +63,7 @@ Les privilèges et immunités sont accordés aux juges non pour leur bénéfice 
 
 #### Art. 5
 
-<sup>1.</sup> Les dispositions des art. 1, 3 et 4 du présent Protocole s’appliquent au greffier de la Cour et à un greffier adjoint lorsqu’il fait fonction de greffier et que cela aura été notifié formellement aux Etats parties à la Convention.
+<sup>1.</sup> Les dispositions des art. 1, 3 et 4 du présent Protocole s’appliquent au greffier de la Cour et à un greffier adjoint lorsqu’il fait fonction de greffier et que cela aura été notifié formellement aux États parties à la Convention.
 
 <sup>2.</sup> Les dispositions de l’art. 3 du présent Protocole et de l’art. 18 de l’Accord général s’appliquent à un greffier adjoint de la Cour.
 
@@ -81,20 +81,20 @@ Les privilèges et immunités sont accordés aux juges non pour leur bénéfice 
 
 Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire général du Conseil de l’Europe.
 
-Le présent Protocole est ouvert à la signature des Etats membres du Conseil de l’Europe signataires de l’Accord général, qui peuvent exprimer leur consentement à être liés par:
+Le présent Protocole est ouvert à la signature des États membres du Conseil de l’Europe signataires de l’Accord général, qui peuvent exprimer leur consentement à être liés par:
 
-- a. signature sans réserve de ratification, d’acceptation ou d’approbation; ou
+- a. signature sans réserve de ratification, d’acceptation ou d’approbation, ou
 - b. signature sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation.
 
 #### Art. 8
 
 <sup>1.</sup> Le présent Protocole entrera en vigueur le premier jour du mois qui suit l’expiration d’une période d’un mois après la date à laquelle trois Parties à l’Accord général auront exprimé leur consentement à être liées par le Protocole conformément aux dispositions de l’art. 7, si à cette date le Protocole n<sup>o</sup> 11 à la Convention est entré en vigueur, ou à la date d’entrée en vigueur du Protocole n<sup>o</sup> 11 à la Convention dans le cas contraire.
 
-<sup>2.</sup> Pour tout Etat partie à l’Accord général qui signera ce Protocole ultérieurement sans réserve de ratification, d’acceptation ou d’approbation ou le ratifiera, l’acceptera ou l’approuvera, le présent Protocole entrera en vigueur un mois après la date de la signature ou de dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
+<sup>2.</sup> Pour tout État partie à l’Accord général qui signera ce Protocole ultérieurement sans réserve de ratification, d’acceptation ou d’approbation ou le ratifiera, l’acceptera ou l’approuvera, le présent Protocole entrera en vigueur un mois après la date de la signature ou de dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 9
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature sans réserve de ratification, de la ratification ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétaire général du Conseil de l’Europe, que le présent Protocole s’appliquera à tous les territoires ou à l’un quelconque des territoires dont il assure les relations internationales et où la Convention et ses Protocoles s’appliquent.
+<sup>1.</sup> Tout État peut, au moment de la signature sans réserve de ratification, de la ratification ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétaire général du Conseil de l’Europe, que le présent Protocole s’appliquera à tous les territoires ou à l’un quelconque des territoires dont il assure les relations internationales et où la Convention et ses Protocoles s’appliquent.
 
 <sup>2.</sup> Le Protocole s’appliquera au territoire ou aux territoires désignés dans la notification à partir du trentième jour qui suivra la date à laquelle le Secrétaire général du Conseil de l’Europe aura reçu cette notification.
 
@@ -102,19 +102,19 @@ Le présent Protocole est ouvert à la signature des Etats membres du Conseil de
 
 #### Art. 10
 
-Le Secrétaire général du Conseil de l’Europe notifiera aux Etats membres du Conseil:
+Le Secrétaire général du Conseil de l’Europe notifiera aux États membres du Conseil:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation ou d’approbation;
 - c. toute date d’entrée en vigueur du présent Protocole conformément aux art. 8 et 9;
 - d. tout autre acte, notification ou communication ayant trait au présent Protocole.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 5 mars 1996, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 5 mars 1996, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe. (Suivent les signatures)
 
-Champ d’application le 22 avril 2015**[^t-2]**
+Champ d’application le 16 mars 2022[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>4 juin</td><td>1998 Si</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
 <tr><td>Allemagne</td><td>2 octobre</td><td>2001</td><td>3 novembre</td><td>2001</td></tr>
 <tr><td>Andorre</td><td>24 novembre</td><td>1998</td><td>25 décembre</td><td>1998</td></tr>
@@ -141,29 +141,32 @@ Champ d’application le 22 avril 2015**[^t-2]**
 <tr><td>Liechtenstein</td><td>24 juin</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
 <tr><td>Lituanie</td><td>22 juin</td><td>1999</td><td>1<sup>er</sup> octobre</td><td>1999</td></tr>
 <tr><td>Luxembourg</td><td>5 août</td><td>1998</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
-<tr><td>Macédoine</td><td>29 novembre</td><td>2002</td><td>30 décembre</td><td>2002</td></tr>
+<tr><td>Macédoine du Nord</td><td>29 novembre</td><td>2002</td><td>30 décembre</td><td>2002</td></tr>
 <tr><td>Malte</td><td>3 juillet</td><td>2002</td><td>4 août</td><td>2002</td></tr>
 <tr><td>Moldova\*</td><td>27 juin</td><td>2001</td><td>28 juillet</td><td>2001</td></tr>
 <tr><td>Monaco</td><td>30 novembre</td><td>2005</td><td>31 décembre</td><td>2005</td></tr>
 <tr><td>Monténégro</td><td>17 septembre</td><td>2008 Si</td><td>18 octobre</td><td>2008</td></tr>
-<tr><td>Norvège</td><td>22 mai</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
-<tr><td>Pays-Bas Aruba Curaçao Partie caraïbe (Bonaire, Sint Eustatius et Saba) Sint Maarten</td><td>21 janvier 21 janvier 21 janvier 21 janvier</td><td>1997 1997 1997 1997</td><td>1<sup>er</sup> novembre 1<sup>er</sup> novembre 1<sup>er</sup> novembre 1<sup>er</sup> novembre</td><td>1998 1998 1998 1998</td></tr>
+<tr><td>Norvège</td><td>22 mai</td><td>1998 Si</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
+<tr><td>Pays-Bas</td><td>2 mai</td><td>1996</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
+<tr><td>Aruba</td><td>21 janvier</td><td>1997</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
+<tr><td>Curaçao</td><td>21 janvier</td><td>1997</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>21 janvier</td><td>1997</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
+<tr><td>Sint Maarten</td><td>21 janvier</td><td>1997</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
 <tr><td>Pologne</td><td>24 janvier</td><td>2003</td><td>25 février</td><td>2003</td></tr>
 <tr><td>Portugal</td><td>13 avril</td><td>2015</td><td>14 mai</td><td>2015</td></tr>
 <tr><td>République tchèque</td><td>24 juin</td><td>1998</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
 <tr><td>Roumanie</td><td>9 avril</td><td>1999</td><td>10 mai</td><td>1999</td></tr>
 <tr><td>Royaume-Uni</td><td>9 novembre</td><td>2001</td><td>10 décembre</td><td>2001</td></tr>
-<tr><td>[tab] Ile de Man</td><td>2 octobre</td><td>2003</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
-<tr><td>Russie</td><td>10 mai</td><td>2001</td><td>11 juin</td><td>2001</td></tr>
+<tr><td>[tab] Île de Man</td><td>2 octobre</td><td>2003</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
 <tr><td>Saint-Marin</td><td>19 septembre</td><td>2014</td><td>20 octobre</td><td>2014</td></tr>
 <tr><td>Serbie</td><td>26 avril</td><td>2005</td><td>27 mai</td><td>2005</td></tr>
 <tr><td>Slovaquie</td><td>24 novembre</td><td>1999</td><td>25 décembre</td><td>1999</td></tr>
 <tr><td>Slovénie</td><td>29 novembre</td><td>2001</td><td>30 décembre</td><td>2001</td></tr>
 <tr><td>Suède</td><td>2 juillet</td><td>1998</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
-<tr><td>Suisse</td><td>14 mai</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
+<tr><td>Suisse</td><td>14 mai</td><td>1998 Si</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
 <tr><td>Turquie</td><td>17 septembre</td><td>2003</td><td>18 octobre</td><td>2003</td></tr>
 <tr><td>Ukraine</td><td>17 septembre</td><td>2003</td><td>18 octobre</td><td>2003</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr/web/conventions/home) &gt; Bureau des traités &gt; Liste complète ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2000 1650](https://fedlex.data.admin.ch/eli/oc/2000/248), [2003 2416](https://fedlex.data.admin.ch/eli/oc/2003/348), [2006 2019](https://fedlex.data.admin.ch/eli/oc/2006/316), [2009 2495](https://fedlex.data.admin.ch/eli/oc/2009/309), [2015 1285](https://fedlex.data.admin.ch/eli/oc/2015/263). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2000 1650](https://fedlex.data.admin.ch/eli/oc/2000/248); [2003 2416](https://fedlex.data.admin.ch/eli/oc/2003/348); [2006 2019](https://fedlex.data.admin.ch/eli/oc/2006/316); [2009 2495](https://fedlex.data.admin.ch/eli/oc/2009/309); [2015 1285](https://fedlex.data.admin.ch/eli/oc/2015/263); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.

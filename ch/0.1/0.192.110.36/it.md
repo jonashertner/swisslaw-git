@@ -3,11 +3,11 @@ sr: "0.192.110.36"
 title: "Sesto Protocollo addizionale del 5 marzo 1996 all'Accordo generale concernente i privilegi e le immunità del Consiglio d'Europa"
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/248"
 language: it
-version: 2015-04-22
+version: 2022-03-16
 adopted: 1996-03-05
 in_force: 1998-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/248/20150422/it/xml/fedlex-data-admin-ch-eli-cc-2000-248-20150422-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/248/20150422/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/248/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2000-248-20220316-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/248/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/248/20150422/it"
 
 RU **2000** 1650
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Strasburgo il 5 marzo 1996 Firmato dalla Svizzera il 27 agosto 1998[^t-2] Entrato in vigore per la Svizzera il 1° novembre 1998
+Concluso a Strasburgo il 5 marzo 1996 Firmato dalla Svizzera il 27 agosto 1998[^t-1] Entrato in vigore per la Svizzera il 1° novembre 1998
 
-(Stato 22 aprile 2015)
+(Stato 16 marzo 2022)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: Senza riserva di ratifica.
+[^t-1]: Senza riserva di ratifica.
 
 Gli Stati membri del Consiglio d’Europa, firmatari del presente Protocollo,
 
@@ -39,12 +38,12 @@ Considerando l’opportunità di un nuovo Protocollo all’Accordo generale per 
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993)
-[^ingress-3]: [RS 0.192.110.3](https://fedlex.data.admin.ch/eli/cc/1966/779_805_797)
-[^ingress-4]: [RS 0.192.110.32](https://fedlex.data.admin.ch/eli/cc/1966/789_814_805)
-[^ingress-5]: [RS 0.192.110.34](https://fedlex.data.admin.ch/eli/cc/1966/792_817_807)
-[^ingress-6]: [RS 0.192.110.35](https://fedlex.data.admin.ch/eli/cc/1994/718_718_718)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [RS 0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8)
+[^ingress-3]: [RS 0.192.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/607)
+[^ingress-4]: [RS 0.192.110.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/609)
+[^ingress-5]: [RS 0.192.110.34](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/611)
+[^ingress-6]: [RS 0.192.110.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/612)
 
 #### Art. 1
 
@@ -112,7 +111,7 @@ Il Segretario generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tal fine, hanno firmato il presente Protocollo. Fatto a Strasburgo il 5 marzo 1996, in francese e in inglese, entrambi i testi facenti parimenti fede, in un unico esemplare che sarà depositato presso gli archivi del Consiglio d’Europa. Il Segretario generale del Consiglio d’Europa ne comunicherà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa. (Seguono le firme)
 
-Campo d’applicazione il 22 aprile 2015**[^t-3]**
+Campo d’applicazione il 16 marzo 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Firmato senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -141,19 +140,22 @@ Campo d’applicazione il 22 aprile 2015**[^t-3]**
 <tr><td>Liechtenstein</td><td>24 giugno</td><td>1998</td><td>1° dicembre</td><td>1999</td></tr>
 <tr><td>Lituania</td><td>22 giugno</td><td>1999</td><td>1° ottobre</td><td>1999</td></tr>
 <tr><td>Lussemburgo</td><td>5 agosto</td><td>1998</td><td>1° novembre</td><td>1998</td></tr>
-<tr><td>Macedonia</td><td>29 novembre</td><td>2002</td><td>30 dicembre</td><td>2002</td></tr>
+<tr><td>Macedonia del Nord</td><td>29 novembre</td><td>2002</td><td>30 dicembre</td><td>2002</td></tr>
 <tr><td>Malta</td><td>3 luglio</td><td>2002</td><td>4 agosto</td><td>2002</td></tr>
 <tr><td>Moldova<sup>\*</sup></td><td>27 giugno</td><td>2001</td><td>28 luglio</td><td>2001</td></tr>
 <tr><td>Monaco</td><td>30 novembre</td><td>2005</td><td>31 dicembre</td><td>2005</td></tr>
 <tr><td>Montenegro</td><td>17 settembre</td><td>2008 F</td><td>18 ottobre</td><td>2008</td></tr>
-<tr><td>Norvegia</td><td>22 maggio</td><td>1998</td><td>1° dicembre</td><td>1999</td></tr>
-<tr><td>Paesi Bassi Aruba Curaçao Parte caraibica (Bonaire, Sant’Eustachio e Saba) Sint Maarten</td><td>21 gennaio 21 gennaio 21 gennaio 21 gennaio 21 gennaio</td><td>1997 1997 1997 1997 1997</td><td>1° novembre 1° novembre 1° novembre 1° novembre 1° novembre</td><td>1998 1998 1998 1998 1998</td></tr>
+<tr><td>Norvegia</td><td>22 maggio</td><td>1998 F</td><td>1° dicembre</td><td>1999</td></tr>
+<tr><td>Paesi Bassi</td><td>2 maggio</td><td>1996</td><td>1° novembre</td><td>1998</td></tr>
+<tr><td>Aruba</td><td>21 gennaio</td><td>1997</td><td>1° novembre</td><td>1998</td></tr>
+<tr><td>Curaçao</td><td>21 gennaio</td><td>1997</td><td>1° novembre</td><td>1998</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>21 gennaio</td><td>1997</td><td>1° novembre</td><td>1998</td></tr>
+<tr><td>Sint Maarten</td><td>21 gennaio</td><td>1997</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>Polonia</td><td>4 gennaio</td><td>2003</td><td>25 gennaio</td><td>2003</td></tr>
 <tr><td>Portogallo</td><td>13 aprile</td><td>2015</td><td>14 maggio</td><td>2015</td></tr>
 <tr><td>Regno Unito</td><td>9 novembre</td><td>2001</td><td>10 dicembre</td><td>2001</td></tr>
 <tr><td>Isola di Man</td><td>2 ottobre</td><td>2003</td><td>1° novembre</td><td>2003</td></tr>
 <tr><td>Romania</td><td>9 aprile</td><td>1999</td><td>10 maggio</td><td>1999</td></tr>
-<tr><td>Russia</td><td>10 maggio</td><td>2001</td><td>11 giugno</td><td>2001</td></tr>
 <tr><td>San Marino</td><td>19 settembre</td><td>2014</td><td>20 ottobre</td><td>2014</td></tr>
 <tr><td>Serbia</td><td>26 aprile</td><td>2005</td><td>27 maggio</td><td>2005</td></tr>
 <tr><td>Slovacchia</td><td>24 novembre</td><td>1999</td><td>25 dicembre</td><td>1999</td></tr>
@@ -164,7 +166,7 @@ Campo d’applicazione il 22 aprile 2015**[^t-3]**
 <tr><td>Turchia</td><td>17 settembre</td><td>2003</td><td>18 ottobre</td><td>2003</td></tr>
 <tr><td>Ucraina</td><td>17 settembre</td><td>2003</td><td>18 ottobre</td><td>2003</td></tr>
 <tr><td>Ungheria</td><td>1° aprile</td><td>1998</td><td>1° novembre</td><td>1998</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU. I testi francese e inglese si possono consultare sul sito Internet del Consiglio d’Europa: http://conventions.coe.int od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [https://www.coe.int](https://www.coe.int/it/web/conventions/home) &gt; Ufficio trattati &gt; Lista completa oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
 </table>
 
-[^t-3]: [RU 2000 1650](https://fedlex.data.admin.ch/eli/oc/2000/248), [2003 2416](https://fedlex.data.admin.ch/eli/oc/2003/348), [2006 2019](https://fedlex.data.admin.ch/eli/oc/2006/316), [2009 2495](https://fedlex.data.admin.ch/eli/oc/2009/309)e [2015 1285](https://fedlex.data.admin.ch/eli/oc/2015/263). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2000 1650](https://fedlex.data.admin.ch/eli/oc/2000/248), [2003 2416](https://fedlex.data.admin.ch/eli/oc/2003/348), [2006 2019](https://fedlex.data.admin.ch/eli/oc/2006/316), [2009 2495](https://fedlex.data.admin.ch/eli/oc/2009/309), [2015 1285](https://fedlex.data.admin.ch/eli/oc/2015/263), [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).

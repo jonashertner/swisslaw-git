@@ -3,11 +3,11 @@ sr: "0.192.110.36"
 title: Sechstes Zusatzprotokoll vom 5. März 1996 zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/248"
 language: de
-version: 2015-04-22
+version: 2022-03-16
 adopted: 1996-03-05
 in_force: 1998-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/248/20150422/de/xml/fedlex-data-admin-ch-eli-cc-2000-248-20150422-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/248/20150422/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/248/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2000-248-20220316-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/248/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/248/20150422/de"
 
 AS **2000** 1650
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Strassburg am 5. März 1996 Von der Schweiz unterzeichnet am 27. August 1998[^t-2] In Kraft getreten für die Schweiz am 1. November 1998
+Abgeschlossen in Strassburg am 5. März 1996 Von der Schweiz unterzeichnet am 27. August 1998[^t-1] In Kraft getreten für die Schweiz am 1. November 1998
 
-(Stand am 22. April 2015)
+(Stand am 16. März 2022)
 
-[^t-1]: Übersetzung des französischen Originaltexts.
-[^t-2]: Ohne Ratifikationsvorbehalt.
+[^t-1]: Ohne Ratifikationsvorbehalt.
 
 *Die Mitgliedstaaten des Europarats, die dieses Protokoll unter**zeichnen,*
 
@@ -39,12 +38,12 @@ in der Erwägung, dass ein neues Protokoll zum Allgemeinen Abkommen angebracht i
 
 haben Folgendes vereinbart:
 
-[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [SR 0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993)
-[^ingress-3]: [SR 0.192.110.3](https://fedlex.data.admin.ch/eli/cc/1966/779_805_797)
-[^ingress-4]: [SR 0.192.110.32](https://fedlex.data.admin.ch/eli/cc/1966/789_814_805)
-[^ingress-5]: [SR 0.192.110.34](https://fedlex.data.admin.ch/eli/cc/1966/792_817_807)
-[^ingress-6]: [SR 0.192.110.35](https://fedlex.data.admin.ch/eli/cc/1994/718_718_718)
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [SR 0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8)
+[^ingress-3]: [SR 0.192.110.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/607)
+[^ingress-4]: [SR 0.192.110.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/609)
+[^ingress-5]: [SR 0.192.110.34](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/611)
+[^ingress-6]: [SR 0.192.110.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/612)
 
 #### Art. 1
 
@@ -112,63 +111,62 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 5. März 1996 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats beglaubigte Abschriften. *(Es folgen die Unterschriften)*
 
-Geltungsbereich am 22. April 2015**[^t-3]**
+Geltungsbereich am 16. März 2022[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Unterschrift ohne Ratifikationsvorbehalt (U)</th><th colspan="2">Inkrafttreten</th></tr>
-<tr><td colspan="2">Albanien</td><td>4. Juni</td><td>1998 U</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Andorra</td><td>24. November</td><td>1998</td><td>25. Dezember</td><td>1998</td></tr>
-<tr><td colspan="2">Armenien</td><td>18. Juni</td><td>2002</td><td>19. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Aserbeidschan</td><td>22. Juni</td><td>2003</td><td>11. April</td><td>2015</td></tr>
-<tr><td colspan="2">Belgien</td><td>29. Juni</td><td>2000</td><td>30. Juli</td><td>2000</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>30. Juni</td><td>2008</td><td>31. Juli</td><td>2008</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>31. Mai</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
-<tr><td colspan="2">Dänemark</td><td>28. August</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Deutschland</td><td>2. Oktober</td><td>2001</td><td>3. November</td><td>2001</td></tr>
-<tr><td colspan="2">Estland</td><td>16. Dezember</td><td>1998</td><td>17. Januar</td><td>1999</td></tr>
-<tr><td colspan="2">Finnland</td><td>19. Juni</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Frankreich\*</td><td>17. November</td><td>1998</td><td>18. Dezember</td><td>1998</td></tr>
-<tr><td colspan="2">Georgien</td><td>20. Juni</td><td>2000</td><td>21. Juli</td><td>2000</td></tr>
-<tr><td colspan="2">Griechenland</td><td>19. März</td><td>2001</td><td>20. April</td><td>2001</td></tr>
-<tr><td colspan="2">Irland</td><td>28. Oktober</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Island</td><td>4. November</td><td>1998</td><td>5. Dezember</td><td>1998</td></tr>
-<tr><td colspan="2">Italien</td><td>3. November</td><td>1997</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Kroatien</td><td>11. Oktober</td><td>1997</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Lettland</td><td>15. Januar</td><td>1998 U</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td>20. Dezember</td><td>1999</td><td>21. Januar</td><td>2000</td></tr>
-<tr><td colspan="2">Litauen</td><td>22. Juni</td><td>1999</td><td>1. Oktober</td><td>1999</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>5. August</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Malta</td><td>3. Juli</td><td>2002</td><td>4. August</td><td>2002</td></tr>
-<tr><td colspan="2">Mazedonien</td><td>29. November</td><td>2002</td><td>30. Dezember</td><td>2002</td></tr>
-<tr><td colspan="2">Moldau\*</td><td>27. Juni</td><td>2001</td><td>28. Juli</td><td>2001</td></tr>
-<tr><td colspan="2">Monaco</td><td>30. November</td><td>2005</td><td>31. Dezember</td><td>2005</td></tr>
-<tr><td colspan="2">Montenegro</td><td>17. September</td><td>2008 U</td><td>18. Oktober</td><td>2008</td></tr>
-<tr><td colspan="2">Niederlande\*</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">[tab] Aruba</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">[tab] Curaçao</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">[tab] Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">[tab] Sint Maarten</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Norwegen</td><td>30. Oktober</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Österreich</td><td>15. Juli</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Polen</td><td>24. Januar</td><td>2003</td><td>25. Februar</td><td>2003</td></tr>
-<tr><td colspan="2">Portugal</td><td>13. April</td><td>2015</td><td>14. Mai</td><td>2015</td></tr>
-<tr><td colspan="2">Rumänien</td><td>9. April</td><td>1999</td><td>10. Mai</td><td>1999</td></tr>
-<tr><td colspan="2">Russland</td><td>10. Mai</td><td>2001</td><td>11. Juni</td><td>2001</td></tr>
-<tr><td colspan="2">San Marino</td><td>19. September</td><td>2014</td><td>20. Oktober</td><td>2014</td></tr>
-<tr><td colspan="2">Schweden</td><td>2. Juli</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Schweiz</td><td>27. August</td><td>1998 U</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Serbien</td><td>26. April</td><td>2005</td><td>27. Mai</td><td>2005</td></tr>
-<tr><td colspan="2">Slowakei</td><td>24. November</td><td>1999</td><td>25. Dezember</td><td>1999</td></tr>
-<tr><td colspan="2">Slowenien</td><td>29. November</td><td>2001</td><td>30. Dezember</td><td>2001</td></tr>
-<tr><td colspan="2">Spanien</td><td>21. Januar</td><td>1999</td><td>22. Februar</td><td>1999</td></tr>
-<tr><td colspan="2">Tschechische Republik</td><td>24. Juni</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Türkei</td><td>17. September</td><td>2003</td><td>18. Oktober</td><td>2003</td></tr>
-<tr><td colspan="2">Ukraine</td><td>17. September</td><td>2003</td><td>18. Oktober</td><td>2003</td></tr>
-<tr><td colspan="2">Ungarn</td><td>1. April</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich</td><td>9. November</td><td>2001</td><td>10. Dezember</td><td>2001</td></tr>
-<tr><td colspan="2">[tab] Insel Man</td><td>2. Oktober</td><td>2003</td><td>1. November</td><td>2003</td></tr>
-<tr><td colspan="2">Zypern</td><td>9. Februar</td><td>2000</td><td>10. März</td><td>2000</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Unterschrift ohne Ratifikationsvorbehalt (U)</th><th colspan="2">Inkrafttreten</th></tr>
+<tr><td>Albanien</td><td>4. Juni</td><td>1998 U</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Andorra</td><td>24. November</td><td>1998</td><td>25. Dezember</td><td>1998</td></tr>
+<tr><td>Armenien</td><td>18. Juni</td><td>2002</td><td>19. Juli</td><td>2002</td></tr>
+<tr><td>Aserbeidschan</td><td>22. Juni</td><td>2003</td><td>11. April</td><td>2015</td></tr>
+<tr><td>Belgien</td><td>29. Juni</td><td>2000</td><td>30. Juli</td><td>2000</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>30. Juni</td><td>2008</td><td>31. Juli</td><td>2008</td></tr>
+<tr><td>Bulgarien</td><td>31. Mai</td><td>2001</td><td>1. Juli</td><td>2001</td></tr>
+<tr><td>Dänemark</td><td>28. August</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Deutschland</td><td>2. Oktober</td><td>2001</td><td>3. November</td><td>2001</td></tr>
+<tr><td>Estland</td><td>16. Dezember</td><td>1998</td><td>17. Januar</td><td>1999</td></tr>
+<tr><td>Finnland</td><td>19. Juni</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Frankreich\*</td><td>17. November</td><td>1998</td><td>18. Dezember</td><td>1998</td></tr>
+<tr><td>Georgien</td><td>20. Juni</td><td>2000</td><td>21. Juli</td><td>2000</td></tr>
+<tr><td>Griechenland</td><td>19. März</td><td>2001</td><td>20. April</td><td>2001</td></tr>
+<tr><td>Irland</td><td>28. Oktober</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Island</td><td>4. November</td><td>1998</td><td>5. Dezember</td><td>1998</td></tr>
+<tr><td>Italien</td><td>3. November</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Kroatien</td><td>11. Oktober</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Lettland</td><td>15. Januar</td><td>1998 U</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Liechtenstein</td><td>20. Dezember</td><td>1999</td><td>21. Januar</td><td>2000</td></tr>
+<tr><td>Litauen</td><td>22. Juni</td><td>1999</td><td>1. Oktober</td><td>1999</td></tr>
+<tr><td>Luxemburg</td><td>5. August</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Malta</td><td>3. Juli</td><td>2002</td><td>4. August</td><td>2002</td></tr>
+<tr><td>Moldau\*</td><td>27. Juni</td><td>2001</td><td>28. Juli</td><td>2001</td></tr>
+<tr><td>Monaco</td><td>30. November</td><td>2005</td><td>31. Dezember</td><td>2005</td></tr>
+<tr><td>Montenegro</td><td>17. September</td><td>2008 U</td><td>18. Oktober</td><td>2008</td></tr>
+<tr><td>Niederlande\*</td><td>2. Mai</td><td>1996</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Aruba</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Curaçao</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Sint Maarten</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Nordmazedonien</td><td>29. November</td><td>2002</td><td>30. Dezember</td><td>2002</td></tr>
+<tr><td>Norwegen</td><td>30. Oktober</td><td>1998 U</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Österreich</td><td>15. Juli</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Polen</td><td>24. Januar</td><td>2003</td><td>25. Februar</td><td>2003</td></tr>
+<tr><td>Portugal</td><td>13. April</td><td>2015</td><td>14. Mai</td><td>2015</td></tr>
+<tr><td>Rumänien</td><td>9. April</td><td>1999</td><td>10. Mai</td><td>1999</td></tr>
+<tr><td>San Marino</td><td>19. September</td><td>2014</td><td>20. Oktober</td><td>2014</td></tr>
+<tr><td>Schweden</td><td>2. Juli</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Schweiz</td><td>27. August</td><td>1998 U</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Serbien</td><td>26. April</td><td>2005</td><td>27. Mai</td><td>2005</td></tr>
+<tr><td>Slowakei</td><td>24. November</td><td>1999</td><td>25. Dezember</td><td>1999</td></tr>
+<tr><td>Slowenien</td><td>29. November</td><td>2001</td><td>30. Dezember</td><td>2001</td></tr>
+<tr><td>Spanien</td><td>21. Januar</td><td>1999</td><td>22. Februar</td><td>1999</td></tr>
+<tr><td>Tschechische Republik</td><td>24. Juni</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Türkei</td><td>17. September</td><td>2003</td><td>18. Oktober</td><td>2003</td></tr>
+<tr><td>Ukraine</td><td>17. September</td><td>2003</td><td>18. Oktober</td><td>2003</td></tr>
+<tr><td>Ungarn</td><td>1. April</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>9. November</td><td>2001</td><td>10. Dezember</td><td>2001</td></tr>
+<tr><td>[tab] Insel Man</td><td>2. Oktober</td><td>2003</td><td>1. November</td><td>2003</td></tr>
+<tr><td>Zypern</td><td>9. Februar</td><td>2000</td><td>10. März</td><td>2000</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int/de/web/conventions/home) &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden</td></tr>
 </table>
 
-[^t-3]: [AS 2000 1650](https://fedlex.data.admin.ch/eli/oc/2000/248), [2003 2416](https://fedlex.data.admin.ch/eli/oc/2003/348), [2006 2019](https://fedlex.data.admin.ch/eli/oc/2006/316), [2009 2495](https://fedlex.data.admin.ch/eli/oc/2009/309), [2015 1285](https://fedlex.data.admin.ch/eli/oc/2015/263). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2000 1650](https://fedlex.data.admin.ch/eli/oc/2000/248); [2003 2416](https://fedlex.data.admin.ch/eli/oc/2003/348); [2006 2019](https://fedlex.data.admin.ch/eli/oc/2006/316); [2009 2495](https://fedlex.data.admin.ch/eli/oc/2009/309); [2015 1285](https://fedlex.data.admin.ch/eli/oc/2015/263); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Eine aktualisierte Fassung des Geltungsbereichs dieser Übereinkommen und Protokolle ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
