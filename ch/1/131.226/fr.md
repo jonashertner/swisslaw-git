@@ -3,47 +3,47 @@ sr: "131.226"
 title: "Constitution du Canton des Grisons, du 14 septembre 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/232_fga"
 language: fr
-version: 2016-09-27
+version: 2022-03-16
 adopted: 2003-09-14
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20160927/fr/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20160927-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20160927/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20220316-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution du Canton des Grisons
 
-Traduction*[^t-1]*
+Traduction[^t-1]
 
-du 18 mai 2003/14 septembre 2003 (Etat le 27 septembre 2016)[^t-2]
+du 18 mai 2003/14 septembre 2003 (État le 16 mars 2022)[^t-2]
 
-[^t-1]: Texte original allemand.
+[^t-1]: Les textes originaux sont publiés, sous le même chiffre, dans les éditions allemande et italienne du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
 Nous, peuple du Canton des Grisons,
 
 conscients de notre responsabilité devant Dieu ainsi qu’envers les personnes et la nature qui nous entourent,
 
-résolus à préserver la liberté, la paix et la dignité humaine, à garantir la démocratie et l’Etat de droit, à promouvoir la prospérité et la justice sociale ainsi qu’à préserver l’environnement pour les générations futures,
+résolus à préserver la liberté, la paix et la dignité humaine, à garantir la démocratie et l’État de droit, à promouvoir la prospérité et la justice sociale ainsi qu’à préserver l’environnement pour les générations futures,
 
 déterminés à favoriser le trilinguisme ainsi que la diversité culturelle et à les conserver comme éléments de notre patrimoine,
 
 nous donnons la Constitution suivante:
 
-## I. Dispositions générales et principes de l’activité de l’Etat
+## I. Dispositions générales et principes de l’activité de l’État
 
 ### Le Canton des Grisons
 
 #### Art. 1
 
-Le Canton des Grisons est un Etat de droit libéral, démocratique et social.
+Le Canton des Grisons est un État de droit libéral, démocratique et social.
 
 ### Rapports avec la Confédération, les cantons et l’étranger
 
 #### Art. 2
 
-<sup>1</sup> Le Canton des Grisons est un Etat à part entière de la Confédération suisse.
+<sup>1</sup> Le Canton des Grisons est un État à part entière de la Confédération suisse.
 
 <sup>2</sup> Il soutient la Confédération dans l’accomplissement de ses tâches.
 
@@ -67,17 +67,17 @@ Le Canton des Grisons est un Etat de droit libéral, démocratique et social.
 
 #### Art. 4
 
-<sup>1</sup> Les structures et l’autorité de l’Etat sont fondées sur les principes de la séparation et de l’équilibre des pouvoirs.
+<sup>1</sup> Les structures et l’autorité de l’État sont fondées sur les principes de la séparation et de l’équilibre des pouvoirs.
 
-<sup>2</sup> Pour atteindre les objectifs de l’Etat, les autorités collaborent dans les limites de leurs compétences.
+<sup>2</sup> Pour atteindre les objectifs de l’État, les autorités collaborent dans les limites de leurs compétences.
 
-### Etat fondé sur le droit
+### État fondé sur le droit
 
 #### Art. 5
 
-<sup>1</sup> Le droit représente à la fois la base et les limites de l’activité de l’Etat.
+<sup>1</sup> Le droit représente à la fois la base et les limites de l’activité de l’État.
 
-<sup>2</sup> L’activité de l’Etat doit répondre à un intérêt public et être proportionnée au but visé.
+<sup>2</sup> L’activité de l’État doit répondre à un intérêt public et être proportionnée au but visé.
 
 <sup>3</sup> Les autorités et les particuliers doivent agir de manière conforme aux règles de la bonne foi.
 
@@ -141,7 +141,7 @@ Les personnes ayant le droit de vote élisent
 
 - 1\. les membres du Grand Conseil ainsi que leurs suppléants ou suppléantes;
 - 2\. les membres du Gouvernement;
-- 3\. les députés du Canton au Conseil national et au Conseil des Etats;
+- 3\. les députés du Canton au Conseil national et au Conseil des États;
 - 4\.[^11-1] les membres des tribunaux régionaux;
 - [tab] 5. et 6.[^11-2] …
 - 7\. les membres des autorités communales, dans la mesure où la législation prévoit ce mode d’élection;
@@ -173,7 +173,7 @@ Les personnes ayant le droit de vote élisent
 
 <sup>2</sup> Les initiatives ayant pour objet la révision totale de la Constitution cantonale ou l’élaboration d’un décret peuvent être déposées uniquement sous la forme d’une proposition conçue en termes généraux.
 
-### Irrecervabilité
+### Irrecevabilité
 
 #### Art. 14
 
@@ -184,7 +184,7 @@ L’initiative est irrecevable en tout ou en partie si:
 - 1\. elle enfreint le principe de l’unité de la forme ou celui de l’unité de la matière;
 - 2\. elle est manifestement contraire au droit supérieur;
 - 3\. elle n’est pas réalisable ou si
-- 4\. elle produit un effet rétroactif incompatible avec les principes de l’Etat de droit.
+- 4\. elle produit un effet rétroactif incompatible avec les principes de l’État de droit.
 
 <sup>2</sup> Elle peut être déclarée partiellement irrecevable si la volonté de ses auteurs ne s’en trouve pas faussée et si la logique et l’unité du projet ne sont pas compromises.
 
@@ -223,13 +223,13 @@ Sont obligatoirement soumis au vote du peuple:
 
 <sup>1</sup>
 
-A la demande de 1500 personnes ayant le droit de vote ou d’un dixième des communes, sont soumis au vote du peuple:
+À la demande de 1500 personnes ayant le droit de vote ou d’un dixième des communes, sont soumis au vote du peuple:
 
 - 1\. la mise en vigueur, la modification ou l’abrogation de lois;
 - 2\. la conclusion, la modification ou la dénonciation de conventions intercantonales ou internationales dont le contenu modifie la loi;
 - 3\. les décrets du Grand Conseil portant sur de nouvelles dépenses uniques comprises entre un et dix millions de francs ou sur de nouvelles dépenses périodiques comprises entre 300 000 francs et un million de francs par année.
 
-<sup>2</sup> Le Grand Conseil peut soumettre au référendum facultatif les décisions relevant de sa compétence, à l’exception des décrets portant sur la quotité de l’impôt, le budget et le compte d’Etat, de même que les élections et les affaires du ressort de la justice.
+<sup>2</sup> Le Grand Conseil peut soumettre au référendum facultatif les décisions relevant de sa compétence, à l’exception des décrets portant sur la quotité de l’impôt, le budget et le compte d’État, de même que les élections et les affaires du ressort de la justice.
 
 <sup>3</sup> La demande de référendum doit être déposée dans les nonante jours à compter de la publication officielle du décret.
 
@@ -265,13 +265,13 @@ A la demande de 1500 personnes ayant le droit de vote ou d’un dixième des com
 
 ### 1. Généralités
 
-### Eligibilité
+### Éligibilité
 
 #### Art. 21
 
-<sup>1</sup> Sont éligibles aux autorités et tribunaux du canton ainsi qu’au Conseil des Etats les citoyens ayant le droit de vote dans le canton. La loi peut prévoir que la condition d’éligibilité doit être remplie seulement lors de l’entrée en fonction.[^21-1]
+<sup>1</sup> Sont éligibles aux autorités et tribunaux du canton ainsi qu’au Conseil des États les citoyens ayant le droit de vote dans le canton. La loi peut prévoir que la condition d’éligibilité doit être remplie seulement lors de l’entrée en fonction.[^21-1]
 
-<sup>2</sup> Les autres conditions d’éligibilité aux autorités et tribunaux du canton ainsi que les conditions d’engagement du personnel de l’Etat sont régies par la loi.
+<sup>2</sup> Les autres conditions d’éligibilité aux autorités et tribunaux du canton ainsi que les conditions d’engagement du personnel de l’État sont régies par la loi.
 
 <sup>3</sup> La loi régit la suspension et la destitution des membres des autorités et des tribunaux.[^21-2]
 
@@ -284,7 +284,7 @@ A la demande de 1500 personnes ayant le droit de vote ou d’un dixième des com
 
 <sup>1</sup> Nul ne peut être membre de son autorité de surveillance directe.
 
-<sup>2</sup> Les membres du Gouvernement et des autorités judiciaires, de même que les membres du personnel de l’Etat engagés à plein temps ou à titre principal ne peuvent pas siéger au Grand Conseil.
+<sup>2</sup> Les membres du Gouvernement et des autorités judiciaires, de même que les membres du personnel de l’État engagés à plein temps ou à titre principal ne peuvent pas siéger au Grand Conseil.
 
 <sup>3</sup> Les personnes qui revêtent une fonction de juge dans le canton ne peuvent pas être en même temps membres du Gouvernement ou d’une autre autorité judiciaire du canton.
 
@@ -296,7 +296,7 @@ A la demande de 1500 personnes ayant le droit de vote ou d’un dixième des com
 
 #### Art. 23
 
-Pour les membres du Grand Conseil, du Gouvernement, des tribunaux et du Conseil des Etats, la durée de fonction est de quatre ans.
+Pour les membres du Grand Conseil, du Gouvernement, des tribunaux et du Conseil des États, la durée de fonction est de quatre ans.
 
 ### Immunité
 
@@ -312,7 +312,7 @@ Pour les membres du Grand Conseil, du Gouvernement, des tribunaux et du Conseil 
 
 Les autorités et les tribunaux informent régulièrement le public de leurs activités.
 
-### Responsabilité de l’Etat
+### Responsabilité de l’État
 
 #### Art. 26
 
@@ -332,15 +332,16 @@ Les autorités et les tribunaux informent régulièrement le public de leurs act
 
 <sup>1</sup> Le Grand Conseil se compose de 120 membres.
 
-<sup>2</sup> Ses membres sont élus au scrutin majoritaire.
+<sup>2</sup> Ses membres sont élus au scrutin proportionnel. La loi peut prévoir des quorums et une clause majoritaire.[^27-1]
 
-<sup>3</sup> Le canton est divisé en 39 circonscriptions électorales au maximum. La loi règle l’appartenance des communes à ces circonscriptions et les conséquences des regroupements de communes sur le nombre des circonscriptions.[^27-1]
+<sup>3</sup> Le canton est divisé en 39 circonscriptions électorales au maximum. La loi règle l’appartenance des communes à ces circonscriptions et les conséquences des regroupements de communes sur le nombre des circonscriptions.[^27-2]
 
 <sup>4</sup> Les sièges sont répartis entre les circonscriptions électorales en fonction du nombre de leurs résidents de nationalité suisse.
 
 <sup>5</sup> La suppléance est régie par la loi.
 
-[^27-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^27-1]: Accepté en [votation populaire du 13 juin 2021](http://www.admin.ch/ch/f/pore/va/20210613/index.html), en vigueur depuis le 1<sup>er</sup> oct. 2021. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^27-2]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Statut des membres du conseil
 
@@ -378,10 +379,10 @@ Sont considérées comme importantes notamment les dispositions qui doivent êtr
 
 - 1\. le but et la portée des restrictions des droits fondamentaux;
 - 2\. la qualité de contribuable, l’objet des impôts et la manière de les calculer, à moins qu’il ne s’agisse de modifications de peu d’importance;
-- 3\. le but, l’objet et l’envergure des prestations importantes de l’Etat;
+- 3\. le but, l’objet et l’envergure des prestations importantes de l’État;
 - 4\. les principes de la répartition des tâches entre le Canton et les communes;
 - 5\. le principe de l’organisation et des tâches des autorités et des tribunaux;
-- 6\. la nature et l’envergure du transfert de tâches relevant de la puissance publique de l’Etat à des organismes extérieurs à l’administration cantonale.
+- 6\. la nature et l’envergure du transfert de tâches relevant de la puissance publique de l’État à des organismes extérieurs à l’administration cantonale.
 
 <sup>3</sup> La validité des lois peut être limitée dans le temps. Avant d’être prorogées, les lois doivent être examinées quant à leur efficacité.
 
@@ -417,7 +418,7 @@ Sont considérées comme importantes notamment les dispositions qui doivent êtr
 
 #### Art. 35
 
-<sup>1</sup> Compte tenu de la planification financière, le Grand Conseil arrête le budget et approuve le compte d’Etat. La loi peut prévoir des exceptions.[^35-1]
+<sup>1</sup> Compte tenu de la planification financière, le Grand Conseil arrête le budget et approuve le compte d’État. La loi peut prévoir des exceptions.[^35-1]
 
 <sup>2</sup> Il fixe le niveau des impôts en se fondant sur la législation fiscale.
 
@@ -425,7 +426,7 @@ Sont considérées comme importantes notamment les dispositions qui doivent êtr
 
 [^35-1]: Accepté en [votation populaire du 26 sept. 2004](http://www.admin.ch/ch/f/pore/va/20040926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2005. Garantie de l’Ass. féd. du 6 oct. 2005 ([FF 2005 5625](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1, ch. 5 [2715](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
-### Elections
+### Élections
 
 #### Art. 36
 
@@ -454,7 +455,7 @@ Le Grand Conseil tranche les recours en grâce. Le législateur peut déléguer 
 
 <sup>2</sup> Il prend et défend ses décisions en autorité collégiale.
 
-### Election
+### Élection
 
 #### Art. 39
 
@@ -484,7 +485,7 @@ Le Grand Conseil élit pour un an un des membres du Gouvernement à la présiden
 
 #### Art. 42
 
-<sup>1</sup> Le Gouvernement planifie, définit et coordonne les objectifs de l’action de l’Etat avec les moyens qui y sont affecté, sous réserve des compétences du peuple et du Grand Conseil.
+<sup>1</sup> Le Gouvernement planifie, définit et coordonne les objectifs de l’action de l’État avec les moyens qui y sont affecté, sous réserve des compétences du peuple et du Grand Conseil.
 
 <sup>2</sup> Il établit un programme de gouvernement à intervalles réguliers.
 
@@ -522,7 +523,7 @@ Le Grand Conseil élit pour un an un des membres du Gouvernement à la présiden
 
 #### Art. 46
 
-Le Gouvernement élabore le plan financier, prépare le budget et le compte d’Etat à l’attention du Grand Conseil.
+Le Gouvernement élabore le plan financier, prépare le budget et le compte d’État à l’attention du Grand Conseil.
 
 ### Autres tâches
 
@@ -546,13 +547,13 @@ En outre, le Gouvernement s’occupe notamment:
 
 ### C. Administration
 
-### Départements et Chancellerie d’Etat
+### Départements et Chancellerie d’État
 
 #### Art. 49
 
 <sup>1</sup> L’administration cantonale est subdivisée en départements, qui correspondent chacun à un secteur d’activité spécifique. Le Gouvernement définit les tâches de chaque département par voie d’ordonnance.
 
-<sup>2</sup> La Chancellerie d’Etat est un organe d’état-major général chargé d’assurer la coordination et le contact entre le Grand Conseil, le Gouvernement et l’administration.
+<sup>2</sup> La Chancellerie d’État est un organe d’état-major général chargé d’assurer la coordination et le contact entre le Grand Conseil, le Gouvernement et l’administration.
 
 ### Autres organismes chargés de tâches publiques
 
@@ -634,7 +635,7 @@ La juridiction civile et la juridiction pénale sont exercées par:
 Le Tribunal administratif fonctionne comme cour constitutionnelle lorsqu’il est appelé à connaître:
 
 - 1\. de recours pour violation de droits constitutionnels, de droits politiques ou du principe de la primauté du droit de rang supérieur;
-- 2\.[^55-1] de recours pour violation de l’autonomie des communes, d’autres corporations de droit public ou des Eglises reconnues par l’Etat.
+- 2\.[^55-1] de recours pour violation de l’autonomie des communes, d’autres corporations de droit public ou des Églises reconnues par l’État.
 
 <sup>3</sup> Dans le cadre de la procédure devant la juridiction constitutionnelle, les lois et ordonnances peuvent être contestées directement ou alors examinées dans le contexte de leur application concrète.
 
@@ -648,11 +649,11 @@ Le législateur peut instituer d’autres autorités judiciaires ou extrajudicia
 
 ### 5. Exercice des droits de participation au niveau fédéral
 
-### Conseil des Etats
+### Conseil des États
 
 #### Art. 57
 
-<sup>1</sup> Les élections au Conseil des Etats ont lieu au scrutin majoritaire. Elles sont organisées en même temps que les élections au Conseil national.
+<sup>1</sup> Les élections au Conseil des États ont lieu au scrutin majoritaire. Elles sont organisées en même temps que les élections au Conseil national.
 
 <sup>2</sup> Le territoire cantonal forme une seule et même circonscription électorale.
 
@@ -748,7 +749,7 @@ Toute commune politique doit être dotée:
 
 <sup>3</sup> En cas de difficultés graves, une commune peut être placée sous curatelle.
 
-### 2. Régions****
+### 2. Régions
 
 [^lvlV-lvl2-1]
 
@@ -862,7 +863,7 @@ Le Canton se compose des régions suivantes:
 
 [^76-1]: Accepté en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2015. Garantie de l’Ass. féd. du 23 sept. 2013 ([FF 2013 7047](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 ch. 4 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
-### Décentralisation de l’activité de l’Etat
+### Décentralisation de l’activité de l’État
 
 #### Art. 77
 
@@ -882,7 +883,7 @@ La nécessité, l’efficacité et la capacité de financer les tâches publique
 
 <sup>1</sup> Le Canton et les communes assurent la sécurité et l’ordre publics.
 
-<sup>2</sup> Ils prennent les mesures nécessaires pour protéger la population en cas de catastrophe et pour maintenir les principales fonctions de l’Etat en situation de crise.
+<sup>2</sup> Ils prennent les mesures nécessaires pour protéger la population en cas de catastrophe et pour maintenir les principales fonctions de l’État en situation de crise.
 
 ### 3. Aménagement du territoire, environnement, énergie, transports et communications
 
@@ -932,7 +933,7 @@ Le canton ne prend pas de participations dans des entreprises qui investissent d
 
 [^83a-1]: Accepté en [votation populaire du 14 juin 2015](http://www.admin.ch/ch/f/pore/va/20150614/index.html), en vigueur depuis le 1<sup>er</sup> nov. 2016. Garantie de l’Ass. féd. du 27 sept. 2016 ([FF 2016 7687](https://fedlex.data.admin.ch/eli/fga/2016/1680)art. 3 3547).
 
-### 4. Economie
+### 4. Économie
 
 ### Politique économique
 
@@ -957,7 +958,7 @@ Le canton ne prend pas de participations dans des entreprises qui investissent d
 Les droits régaliens du Canton sont:
 
 - 1\. la régale du sel;
-- 2\. la régale de la chasse; et
+- 2\. la régale de la chasse, et
 - 3\. la régale de la pêche.
 
 <sup>2</sup> La régale des mines est un droit régalien des communes.
@@ -998,9 +999,9 @@ Les droits régaliens du Canton sont:
 
 Le Canton et les communes créent des conditions générales favorables aux familles.
 
-### 6. Education, culture et loisirs
+### 6. Éducation, culture et loisirs
 
-### Education
+### Éducation
 
 #### Art. 89
 
@@ -1052,7 +1053,7 @@ Le Canton et les communes encouragent l’organisation judicieuse des loisirs, l
 
 <sup>1</sup> Les compétences fiscales du Canton et des communes sont définies par la loi.
 
-<sup>2</sup> Les compétences fiscales des Eglises reconnues par l’Etat et des paroisses ressortent des dispositions sur les rapports entre l’Etat et les Eglises.
+<sup>2</sup> Les compétences fiscales des Églises reconnues par l’État et des paroisses ressortent des dispositions sur les rapports entre l’État et les Églises.
 
 ### Principes de l’imposition
 
@@ -1080,15 +1081,15 @@ Le Canton et les communes encouragent l’organisation judicieuse des loisirs, l
 
 Le Grand Conseil exerce la surveillance en matière financière. Il est assisté dans cette tâche par un organe de contrôle indépendant.
 
-## VIII. Etat et Eglises
+## VIII. État et Églises
 
-### Eglises reconnues par l’Etat et paroisses
+### Églises reconnues par l’État et paroisses
 
 #### Art. 98
 
-<sup>1</sup> L’Eglise réformée évangélique et l’Eglise catholique romaine sont reconnues en droit public.
+<sup>1</sup> L’Église réformée évangélique et l’Église catholique romaine sont reconnues en droit public.
 
-<sup>2</sup> L’Eglise réformée évangélique ainsi que ses paroisses et l’Eglise catholique romaine ainsi que ses paroisses sont des collectivités de droit public.
+<sup>2</sup> L’Église réformée évangélique ainsi que ses paroisses et l’Église catholique romaine ainsi que ses paroisses sont des collectivités de droit public.
 
 <sup>3</sup> Le législateur peut accorder le statut de collectivité de droit public à d’autres communautés religieuses.
 
@@ -1096,7 +1097,7 @@ Le Grand Conseil exerce la surveillance en matière financière. Il est assisté
 
 #### Art. 99
 
-<sup>1</sup> Dans les limites du droit cantonal, les Eglises reconnues par l’Etat et leurs paroisses gèrent leurs affaires de manière autonome.
+<sup>1</sup> Dans les limites du droit cantonal, les Églises reconnues par l’État et leurs paroisses gèrent leurs affaires de manière autonome.
 
 <sup>2</sup> Elles ont le droit de prélever des impôts auprès de leurs membres, à condition qu’elles se conforment aux mêmes principes que les communes.
 
@@ -1134,7 +1135,7 @@ Les autres communautés religieuses relèvent du droit privé.
 
 <sup>1</sup> La présente Constitution cantonale entre en vigueur au 1<sup>er</sup> janvier 2004.
 
-<sup>2</sup> A cette date, la Constitution du Canton des Grisons du 2 octobre 1892 est abrogée.
+<sup>2</sup> À cette date, la Constitution du Canton des Grisons du 2 octobre 1892 est abrogée.
 
 <sup>3</sup> Les modifications de la constitution cantonale du 2 octobre 1892 qui sont décidées entre la date du vote du Grand Conseil sur la Constitution cantonale et l’entrée en vigueur de cette dernière, sont introduites dans la nouvelle Constitution cantonale par le Grand Conseil. Cet arrêté n’est pas sujet au référendum.
 
@@ -1181,7 +1182,7 @@ Sous réserve des exceptions suivantes, les autorités administratives et judici
 
 - 1\. la période de fonction des membres du Grand Conseil et de leurs représentants et représentantes est prolongée au 31 juillet 2006;
 - 2\. la période de fonction des présidents et présidentes de cercle et de leurs représentants et représentantes est prolongée au 31 juillet 2006;
-- 3\. la période de fonction des députés grisons au Conseil des Etats est prolongée au 25 novembre 2007.
+- 3\. la période de fonction des députés grisons au Conseil des États est prolongée au 25 novembre 2007.
 
 <sup>2</sup> Les élections de renouvellement et les élections de remplacement sont régies par les dispositions de la présente Constitution cantonale.
 
@@ -1193,7 +1194,7 @@ Sous réserve des exceptions suivantes, les autorités administratives et judici
 
 #### Art. 106
 
-<sup>1</sup> L’aboutissement et la validité des demandes d’initiatives populaires et de référendums annoncés à la Chancellerie d’Etat avant l’adoption de la présente Constitution sont déterminés en vertu de l’ancien droit.
+<sup>1</sup> L’aboutissement et la validité des demandes d’initiatives populaires et de référendums annoncés à la Chancellerie d’État avant l’adoption de la présente Constitution sont déterminés en vertu de l’ancien droit.
 
 <sup>2</sup> Les objets adoptés par le Grand Conseil à l’entrée en vigueur de la présente Constitution cantonale doivent être soumis au peuple conformément à l’ancien droit.
 
@@ -1217,7 +1218,7 @@ Sous réserve des exceptions suivantes, les autorités administratives et judici
 
 <sup>2</sup> Les districts sont les circonscriptions de juridiction en matière civile et pénale jusqu’à la fin de 2016. Leur statut est régi par la loi.
 
-<sup>3</sup> A partir de l’entrée en vigueur de la subdivision du canton en régions, aucune tâche ne peut plus être déléguée aux cercles et aux syndicats régionaux.
+<sup>3</sup> À partir de l’entrée en vigueur de la subdivision du canton en régions, aucune tâche ne peut plus être déléguée aux cercles et aux syndicats régionaux.
 
 <sup>4</sup> La responsabilité des cercles, des districts et des syndicats régionaux ainsi que la surveillance de ces corporations sont garantis tant que ces dernières subsistent, dans la mesure prévue par la constitution du Canton des Grisons du 18 mai 2003/14 septembre 2003.
 
@@ -1297,7 +1298,7 @@ Canton
 - – conventions intercantonales ou internationales 16, 17, 32, 45
 - – droit cantonal 43, 60, 65, 72, 74, 99
 - – droit de vote et d’éligibilité 9
-- – Eglises. haute surveillance du Canton 99
+- – Églises. haute surveillance du Canton 99
 - – initiative cantonale 59
 - – langues officielles 3
 - – participations
@@ -1309,7 +1310,7 @@ Canton
 - – répartition des tâches entre le Canton et les communes 31, 64
 - – représentation d’intérêts 41
 - – représentation par le Gouvernement 42
-- – responsabilité de l’Etat 26
+- – responsabilité de l’État 26
 - – tâches
   - – principes 75, 76, 77
   - – aménagement du territoire 80
@@ -1367,7 +1368,7 @@ Cercles
 - – président ou présidente de cercle
   - – période de fonction 105
 
-- – responsabilité de l’Etat 26
+- – responsabilité de l’État 26
 - – statut et tâches 70–72
 - – surveillance par le Gouvernement 74
 
@@ -1439,7 +1440,7 @@ Confédération
   - – principe de la primauté du droit de rang supérieur 55
 
 - – droits de participation au niveau fédéral
-  - – élections au Conseil des Etats 57
+  - – élections au Conseil des États 57
   - – initiative cantonale 59
   - – référendum cantonal 58
 
@@ -1448,11 +1449,11 @@ Confédération
 - – Tribunal fédéral
   - – incompatibilités 22
 
-**Conseil des Etats** 21,57
+**Conseil des États** 21,57
 
 **Conseil national** 21, 57
 
-**Conseillers d’Etat v. Gouvernement**
+**Conseillers d’État v. Gouvernement**
 
 Constitution
 
@@ -1501,7 +1502,7 @@ Droit(s)
 - – bonne foi 5
 - – de vote et d’éligibilité 9, 10
 - – d’urgence 18
-- – Etat fondé sur le droit 5
+- – État fondé sur le droit 5
 - – fondamentaux et buts sociaux 7, 8
 - – information et de consultation 28
 - – initiative et référendum v. Initiative, référendum
@@ -1521,35 +1522,35 @@ Droit(s)
 
 **Ecclésiastiques** nominations 99
 
-Ecole
+École
 
 - – Commission de l’éducation 103
 - – écoles publiques 89
 - – généralités v. Enseignement
 - – langues aux écoles 3
 
-**Economie**
+**Économie**
 
 - – évolution de l’économie 93
 - – encouragement 84
 
-Education
+Éducation
 
 - – commission de l’éducation
   - – élection 103
 
 - – généralités v. Enseignement
 
-**Egalité**
+**Égalité**
 
 - – égalité des chances 75
 - – entre hommes et femmes 75
 - – insertion sociale et professionnelle 86
 - – personnes désavantagées en raison d’un handicap ou d’une maladie 86
 
-**Eglises**
+**Églises**
 
-- – Eglises reconnues en droit public 55, 94, 98–100
+- – Églises reconnues en droit public 55, 94, 98–100
   - – autonomie 55, 99
   - – compétences fiscales 94
 
@@ -1557,7 +1558,7 @@ Education
   - – autonomie 99
   - – compétences fiscales 94
 
-Elections
+Élections
 
 - – par le Grand Conseil
   - – président ou la présidente du Gouvernement 36, 40
@@ -1567,25 +1568,25 @@ Elections
 
 - – par le Gouvernement 47
 - – populaires
-  - – Conseil national et Conseil des Etats 11, 57
+  - – Conseil national et Conseil des États 11, 57
   - – Gouvernement 11, 39
   - – Grand Conseil 11, 27
 
-**Eligibilité** 21
+**Éligibilité** 21
 
-Energie 82
+Énergie 82
 
 **Enseignement** 89
 
-Etat
+État
 
-- – activité de l’Etat
+- – activité de l’État
   - – objectifs et moyens 42
   - – principes 1–5
   - – responsabilité lorsque l’équité l’exige 26
 
 - – conventions internationaux v. Conventions
-- – Etat fondé sur le droit 5
+- – État fondé sur le droit 5
 - – finances 44, 46, 93–97
 - – séparation et équilibre des pouvoirs 4
 - – souveraineté 2, 31
@@ -1606,7 +1607,7 @@ Fonction officielle
 - – destitution 21
 - – durée de fonction
   - – autorités judiciaires 23, 105
-  - – Conseil des Etats 23, 105
+  - – Conseil des États 23, 105
   - – Gouvernement 23, 39
   - – Grand Conseil 23, 105
   - – présidence et vice-présidence du Gouvernement 39, 40
@@ -1624,7 +1625,7 @@ Formation v. Enseignement
 
 Gouvernement
 
-- – budget et compte d’Etat 46
+- – budget et compte d’État 46
 - – collaboration avec le Grand Conseil 44
 - – compétences et tâches en général 42
 - – composition 38
@@ -1657,7 +1658,7 @@ Grand Conseil
   - – soumis au référendum 16–19
   - – sur des initiatives 14, 15
 
-- – budget et compte d’Etat 35
+- – budget et compte d’État 35
 - – collaboration avec le Gouvernement 44
 - – commissions 36
 - – compétences et tâches 30
@@ -1733,14 +1734,14 @@ Initiative
 
 Liberté préambule
 
-- – Etat de droit libéral 1
+- – État de droit libéral 1
 
 Lois
 
 - – autorisation à l’édition des décrets 32
 - – contre-projet 16
 - – droit d’urgence 18
-- – Etat fondé sur le droit 1, 5, 33
+- – État fondé sur le droit 1, 5, 33
 - – exécution par le Gouvernement 42
 - – initiative populaire et référendum 12–19
 - – législation du Grand Conseil 31, 32, 104
@@ -1757,7 +1758,7 @@ Lois
   - – autorités judiciaires 56
   - – bourgeoisies 61
   - – communautés religieuses, reconnaissance 98
-  - – conditions d’éligibilité et conditions d’engagement du personnel de l’Etat 21
+  - – conditions d’éligibilité et conditions d’engagement du personnel de l’État 21
   - – contributions 31
   - – coopération intercommunale 62
   - – dispositions transitoires 103
@@ -1776,13 +1777,13 @@ Lois
   - – péréquation financière 96
   - – planification financière et matières fiscales 35, 94, 99
   - – pouvoirs électorales des autorités 11, 36
-  - – prestations de l’Etat 31
+  - – prestations de l’État 31
   - – publicité des débats des tribunaux. exceptions 53
   - – recours en grâce 37
   - – répartition des tâches entre le Canton et les communes 31, 76
   - – représentation d’intérêts 41
   - – représentation d’intérêts 41
-  - – responsabilité de l’Etat. exceptions 26
+  - – responsabilité de l’État. exceptions 26
   - – restrictions des droits fondamentaux 31
   - – situations extraordinaires 48
   - – suppléance au Grand Conseil 27
@@ -1798,13 +1799,13 @@ Monopoles 85
 
 **Ordre publique** 47, 79
 
-**Paroisses** v. Eglises
+**Paroisses** v. Églises
 
 **Partis politiques** 20
 
 **Péréquation financière** 96
 
-Personnel de l’Etat
+Personnel de l’État
 
 - – éligibilité et engagement 21
 - – incompatibilités 22
@@ -1836,7 +1837,7 @@ Public / Publique
 
 - – constructions et installations 86<sup>4</sup>
 - – droit public
-  - – Eglises reconnues 98
+  - – Églises reconnues 98
   - – litiges de 55
   - – syndicats régionaux régis par le 26, 60, 70, 72, 108
 
@@ -1893,9 +1894,9 @@ Régales 85
 
 Régions 68, 71, 74
 
-**Religion** v. Eglises
+**Religion** v. Églises
 
-**Responsabilité** **de l’Etat** 26
+**Responsabilité** **de l’État** 26
 
 **Responsabilité individuelle et sociale** 6
 
@@ -1921,7 +1922,7 @@ Social
 - – famille 88
 - – intégration 86
 
-**Souveraineté** v. Etat
+**Souveraineté** v. État
 
 **Sports et loisirs** 91
 
@@ -1952,7 +1953,7 @@ Surveillance (haute surveillance)
 
 Télécommunications 82
 
-Traités de l’Etat v. Conventions
+Traités de l’État v. Conventions
 
 Transports publics 82
 
@@ -2002,10 +2003,10 @@ Tribunaux
 
 - – dans le Grand Conseil 28
 - – droit de vote 9, 10
-- – élections v. Elections
+- – élections v. Élections
 - – initiative et référendum 12–19, 101
 - – majoritaire
-  - – du Conseil des Etats 57
+  - – du Conseil des États 57
   - – du Gouvernement 39
   - – du Grand Conseil 27
 

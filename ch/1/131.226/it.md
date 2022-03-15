@@ -3,18 +3,20 @@ sr: "131.226"
 title: "Costituzione del Cantone dei Grigioni, del 14 settembre 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/232_fga"
 language: it
-version: 2016-09-27
+version: 2022-03-16
 adopted: 2003-09-14
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20160927/it/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20160927-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20160927/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20220316-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione del Cantone dei Grigioni
 
-del 18 maggio 2003/14 settembre 2003 (Stato 27 settembre 2016) (Stato 27 settembre 2016)
+del 18 maggio 2003/14 settembre 2003 (Stato 16 marzo 2022)[^t-1]
+
+[^t-1]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 Noi, Popolo del Cantone dei Grigioni,
 
@@ -56,7 +58,7 @@ Il Cantone dei Grigioni è uno Stato di diritto fondato sulla libertà, sulla de
 
 <sup>3</sup> I comuni determinano le loro lingue ufficiali e scolastiche nel quadro delle loro competenze e in cooperazione con il Cantone. Al riguardo essi prestano attenzione alla composizione linguistica tradizionale e hanno riguardo per le minoranze linguistiche autoctone.[^3-1]
 
-[^3-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^3-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Separazione e limitazione dei poteri
 
@@ -116,7 +118,7 @@ Le garanzie procedurali e la tutela giuridica sono assicurate nell’ambito dell
 
 <sup>4</sup> I comuni possono conferire, in conformità al diritto comunale, alle svizzere e agli svizzeri all’estero rispettivamente alle straniere e agli stranieri il diritto di voto nonché il diritto di eleggere e di essere eletta o eletto per questioni comunali.
 
-[^9-1]: Accettato nella votazione popolare dell’11 mar. 2012, in vigore dal 1° gen. 2013. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 4 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
+[^9-1]: Accettato nella votazione popolare dell’11 mar. 2012, in vigore dal 1° gen. 2013. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 4, [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 
 ### Principi di elezione e di votazione
 
@@ -126,7 +128,7 @@ Le garanzie procedurali e la tutela giuridica sono assicurate nell’ambito dell
 
 <sup>2</sup> I progetti in votazione devono essere semplici e comprensibili. Devono essere garantite una formazione e una manifestazione autentiche della volontà popolare.
 
-[^10-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^10-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Competenze d’elezione
 
@@ -142,8 +144,8 @@ Le e gli aventi diritto di voto eleggono:
 - 7\. i membri delle autorità comunali, a norma di legge;
 - 8\. altre autorità e altre detentrici e altri detentori di cariche, a norma di legge.
 
-[^11-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^11-2]: Abrogati nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), con effetto dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^11-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^11-2]: Abrogati nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), con effetto dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### 2. Iniziativa popolare
 
@@ -210,7 +212,7 @@ Sottostanno al voto del Popolo:
 - 5\. i decreti del Gran Consiglio concernenti le questioni di principio ai sensi dell’articolo 19 capoverso 1.
 - 6\.[^16-1] …
 
-[^16-1]: Abrogato nella [votazione popolare del 3 mar. 2013](http://www.admin.ch/ch/i/pore/va/20130303/index.html)con effetto dal 1° mag. 2013. Garanzia dell’AF del 24 set. 2014 ([FF 2014 6817](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 n. 6 [3183](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^16-1]: Abrogato nella [votazione popolare del 3 mar. 2013](http://www.admin.ch/ch/i/pore/va/20130303/index.html)con effetto dal 1° mag. 2013. Garanzia dell’AF del 24 set. 2014 ([FF 2014 6817](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 n. 6, [3183](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Referendum facoltativo
 
@@ -270,8 +272,8 @@ Su richiesta di 1500 aventi diritto di voto o di un decimo dei comuni sono sotto
 
 <sup>3</sup> La legge disciplina la sospensione e la destituzione di membri di autorità e tribunali.[^21-2]
 
-[^21-1]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8 [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
-[^21-2]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8 [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^21-1]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^21-2]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Incompatibilità
 
@@ -315,7 +317,7 @@ Le autorità e i tribunali informano regolarmente il pubblico sulle loro attivit
 
 <sup>2</sup> La legge può prevedere deroghe come pure una responsabilità fondata sull’equità per danni causati da un atto lecito.
 
-[^26-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^26-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### 2. Il Gran Consiglio
 
@@ -327,15 +329,16 @@ Le autorità e i tribunali informano regolarmente il pubblico sulle loro attivit
 
 <sup>1</sup> Il Gran Consiglio è composto di 120 membri.
 
-<sup>2</sup> L’elezione avviene secondo il sistema maggioritario.
+<sup>2</sup> L’elezione avviene secondo il sistema proporzionale. La legge può prevedere dei quorum e una clausola maggioritaria.[^27-1]
 
-<sup>3</sup> Il Cantone è suddiviso in al massimo 39 circondari elettorali. La legge disciplina l’appartenenza dei comuni ai circondari elettorali, nonché le conseguenze di aggregazioni di comuni sul numero di circondari elettorali.[^27-1]
+<sup>3</sup> Il Cantone è suddiviso in al massimo 39 circondari elettorali. La legge disciplina l’appartenenza dei comuni ai circondari elettorali, nonché le conseguenze di aggregazioni di comuni sul numero di circondari elettorali.[^27-2]
 
 <sup>4</sup> I seggi sono ripartiti tra i circondari elettorali in proporzione alla popolazione svizzera ivi residente.
 
 <sup>5</sup> La legge disciplina la designazione delle e dei supplenti.
 
-[^27-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^27-1]: Accettato nella [votazione popolare del 13 giu. 2021](http://www.admin.ch/ch/i/pore/va/20210613/index.html), in vigore dal 1° ott. 2021. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^27-2]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Statuto dei membri del Gran Consiglio
 
@@ -418,7 +421,7 @@ Sono considerate importanti in particolare le disposizioni per le quali la Costi
 
 <sup>3</sup> Decide in via definitiva in merito a nuove spese uniche fino a un milione di franchi e a nuove spese annualmente ricorrenti fino a 300 000 franchi.
 
-[^35-1]: Accettato nella [votazione popolare del 26 set. 2004](http://www.admin.ch/ch/i/pore/va/20040926/index.html), in vigore dal 1° gen. 2005. Garanzia dell’AF del 6 ott. 2005 ([FF 2005 5337](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 n. 5 [2579](https://fedlex.data.admin.ch/eli/fga/2005/452)).
+[^35-1]: Accettato nella [votazione popolare del 26 set. 2004](http://www.admin.ch/ch/i/pore/va/20040926/index.html), in vigore dal 1° gen. 2005. Garanzia dell’AF del 6 ott. 2005 ([FF 2005 5337](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 n. 5, [2579](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
 ### Elezioni
 
@@ -559,7 +562,7 @@ Ulteriori compiti del Governo sono segnatamente:
 
 <sup>3</sup> Qualora non sia prescritto un atto legislativo sotto forma di legge, gli istituti autonomi di diritto pubblico cantonale possono emanare ordinanze, nella misura in cui vi siano espressamente autorizzati dalla legge.[^50-1]
 
-[^50-1]: Accettato nella [votazione popolare del 24 set. 2006](http://www.admin.ch/ch/i/pore/va/20060924/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8 [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^50-1]: Accettato nella [votazione popolare del 24 set. 2006](http://www.admin.ch/ch/i/pore/va/20060924/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### 4. Tribunali
 
@@ -587,7 +590,7 @@ Ulteriori compiti del Governo sono segnatamente:
 
 <sup>3</sup> Qualora non sia prescritta la forma di legge, il Tribunale cantonale e il Tribunale amministrativo possono emanare ordinanze nell’ambito dell’amministrazione della giustizia e della vigilanza sulla giustizia, se sono espressamente autorizzati dalla legge a farlo.
 
-[^51a-1]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8 [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^51a-1]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Vigilanza sulla giustizia
 
@@ -615,8 +618,8 @@ La giurisdizione civile e penale è esercitata:
 - 2\.[^54-1] dai tribunali regionali quali tribunali cantonali inferiori;
 - 3\.[^54-2] …
 
-[^54-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^54-2]: Abrogato nella [votazione popolare del 17 mag. 2009](http://www.admin.ch/ch/i/pore/va/20090517/index.html)con effetto dal 1° gen. 2011. Garanzia dell’AF dell’8 giu. 2010 ([FF 2010 3839](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 n. 5 [1905](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^54-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^54-2]: Abrogato nella [votazione popolare del 17 mag. 2009](http://www.admin.ch/ch/i/pore/va/20090517/index.html)con effetto dal 1° gen. 2011. Garanzia dell’AF dell’8 giu. 2010 ([FF 2010 3839](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 n. 5, [1905](https://fedlex.data.admin.ch/eli/fga/2010/378)).
 
 ### Giurisdizione costituzionale e amministrativa
 
@@ -633,8 +636,8 @@ In veste di corte costituzionale, il Tribunale amministrativo giudica:
 
 <sup>3</sup> Nelle pratiche di diritto costituzionale le leggi e le ordinanze possono essere sia impugnate direttamente sia esaminate in caso di applicazione.
 
-[^55-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^55-2]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8 [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^55-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^55-2]: Accettato nella [votazione popolare del 26 nov. 2006](http://www.admin.ch/ch/i/pore/va/20061126/index.html), in vigore dal 1° gen. 2007. Garanzia dell’AF del 6 mar. 2008 ([FF 2008 2171](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 n. 8; [2007 6913](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Ulteriori autorità giudiziarie e extragiudiziarie
 
@@ -744,11 +747,11 @@ Organi obbligatori dei comuni politici sono:
 
 <sup>3</sup> Un comune può essere sottoposto a curatela in gravi casi di amministrazione irregolare.
 
-### 2. Regioni****
+### 2. Regioni
 
 [^lvlV-lvl2-1]
 
-[^lvlV-lvl2-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^lvlV-lvl2-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### A. Suddivisione del territorio cantonale
 
@@ -776,13 +779,13 @@ Il Cantone è suddiviso nelle regioni seguenti:
 
 <sup>2</sup> La legge disciplina l’appartenenza dei comuni alle regioni.
 
-[^68-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^68-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 #### Art. 69
 
 [^69-1]
 
-[^69-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^69-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### B. Stato giuridico e compiti
 
@@ -790,7 +793,7 @@ Il Cantone è suddiviso nelle regioni seguenti:
 
 [^70-1]
 
-[^70-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^70-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Regioni
 
@@ -804,13 +807,13 @@ Il Cantone è suddiviso nelle regioni seguenti:
 
 <sup>3</sup> Le regioni costituiscono le circoscrizioni giudiziarie per i tribunali regionali.
 
-[^71-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^71-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 #### Art. 72
 
 [^72-1]
 
-[^72-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^72-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### C. Organizzazione e vigilanza
 
@@ -818,7 +821,7 @@ Il Cantone è suddiviso nelle regioni seguenti:
 
 [^73-1]
 
-[^73-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^73-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html)con effetto dal 1° gen. 2017. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Vigilanza
 
@@ -830,7 +833,7 @@ Il Cantone è suddiviso nelle regioni seguenti:
 
 <sup>2</sup> Per quanto attiene ai compiti che i comuni hanno delegato alle regioni, la vigilanza si limita al controllo della legalità, salvo diversa disposizione di legge.
 
-[^74-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^74-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 ,[3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ## VI. Compiti pubblici
 
@@ -856,7 +859,7 @@ Il Cantone è suddiviso nelle regioni seguenti:
 
 <sup>2</sup> Il Cantone, le regioni e i comuni cooperano fra loro nell’adempimento dei compiti pubblici. Nel limite del possibile si deve favorire la collaborazione con i privati.[^76-1]
 
-[^76-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4 [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^76-1]: Accettato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), in vigore dal 1° gen. 2015. Garanzia dell’AF del 23 set. 2013 ([FF 2013 6761](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 n. 4, [3267](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Adempimento decentralizzato dei compiti
 
@@ -926,7 +929,7 @@ Il Cantone e i comuni mirano ad uno sfruttamento ed uno sviluppo adeguato, econo
 
 Il Cantone non partecipa ad aziende che investono in centrali a carbone. Nel quadro delle sue possibilità legali e politiche si adopera affinché le aziende con partecipazioni cantonali rinuncino a investire in centrali a carbone.
 
-[^83a-1]: Accettato nella [votazione popolare del 14 giu. 2015](http://www.admin.ch/ch/i/pore/va/20150614/index.html), in vigore dal 1° nov. 2016. Garanzia dell’AF del 27 set. 2016 ([FF 2016 7115](https://fedlex.data.admin.ch/eli/fga/2016/1680)art. 3 3273).
+[^83a-1]: Accettato nella [votazione popolare del 14 giu. 2015](http://www.admin.ch/ch/i/pore/va/20150614/index.html), in vigore dal 1° nov. 2016. Garanzia dell’AF del 27 set. 2016 ([FF 2016 7115](https://fedlex.data.admin.ch/eli/fga/2016/1680)art. 3, 3273).
 
 ### 4. Economia
 
@@ -942,7 +945,7 @@ Il Cantone non partecipa ad aziende che investono in centrali a carbone. Nel qua
 
 <sup>4</sup> Adottano misure per mantenere al livello più basso possibile la densità normativa e l’onere amministrativo per le imprese, in particolare per le piccole e medie imprese (PMI).[^84-1]
 
-[^84-1]: Accettato nella votazione popolare del 29 gen. 2012, in vigore dal 29 gen. 2012. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 195](https://fedlex.data.admin.ch/eli/fga/2013/6)[2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 4).
+[^84-1]: Accettato nella votazione popolare del 29 gen. 2012, in vigore dal 29 gen. 2012. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 195](https://fedlex.data.admin.ch/eli/fga/2013/6); [2013 2251](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 n. 4).
 
 ### Regalie e monopoli
 
@@ -1890,6 +1893,11 @@ Scuole
 
 **Sicurezza pubblica e ordine pubblico** 47, 48, 79
 
+**Sistema**
+
+- – maggioritario 27, 39, 57
+- – proporzionale27
+
 **Situazioni straordinarie** 48
 
 Sociale
@@ -1922,7 +1930,7 @@ Stato
 - – Stato di diritto 5
 - – vigilanza v. Vigilanza
 
-**Su****f****fragio universale** 10
+**Suffragio universale** 10
 
 **Tasso fiscale** 17, 103
 

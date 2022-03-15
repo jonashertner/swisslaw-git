@@ -3,11 +3,11 @@ sr: "131.226"
 title: Constituziun dal chantun Grischun dals 18 da matg 2003/14 da settember 2003
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/232_fga"
 language: rm
-version: 2016-09-27
+version: 2022-03-16
 adopted: 2003-09-14
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20160927/rm/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20160927-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20160927/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20220316/rm/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20220316-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20220316/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20160927/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 18 da matg 2003/14 da settember 2003 (versiun dals 27 da settember 2016)[^t-1]
+dals 18 da matg 2003/14 da settember 2003 (versiun dals 16 da mars 2022)[^t-1]
 
 [^t-1]: Questa publicaziun sa basa sin las midadas en il rom da las garanzias federalas publitgadas en il BBl. Ella po divergiar temporarmain da la publicaziun en la collecziun da leschas chantunalas. La data da la versiun è pia quella da l'ultima garanzia federala publitgada en il Fegl uffizial federal.
 
@@ -32,15 +32,15 @@ ans dain la sequenta constituziun:
 
 ## I. Disposiziuns generalas e princips da l’agir dal stadi
 
-#### Art. 1
+### Il chantun Grischun
 
-**Il chantun Grischun**
+#### Art. 1
 
 Il chantun Grischun è in stadi da dretg liberal, democratic e social.
 
-#### Art. 2
+### Relaziuns cun la confederaziun, cun ils chantuns e cun l’exteriur
 
-**Relaziuns cun la confederaziun, cun ils chantuns e cun l’exteriur**
+#### Art. 2
 
 <sup>1</sup> Il chantun Grischun è in chantun autonom da la confederaziun svizra.
 
@@ -50,9 +50,9 @@ Il chantun Grischun è in stadi da dretg liberal, democratic e social.
 
 <sup>4</sup> El promova la communicaziun ed il barat tranter las parts dal pajais e las cuminanzas linguisticas da la Svizra.
 
-#### Art. 3
+### Linguas
 
-**Linguas**
+#### Art. 3
 
 <sup>1</sup> Il tudestg, il rumantsch ed il talian èn las linguas chantunalas ed uffizialas equivalentas dal chantun.
 
@@ -62,17 +62,17 @@ Il chantun Grischun è in stadi da dretg liberal, democratic e social.
 
 [^3-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
-#### Art. 4
+### Separaziun e limitaziun da las pussanzas
 
-**Separaziun e limitaziun da las pussanzas**
+#### Art. 4
 
 <sup>1</sup> La structura dal stadi e l’applicaziun da la pussanza statala sa basan sin ils princips da la separaziun e da la limitaziun da las pussanzas.
 
 <sup>2</sup> Las autoritads coopereschan en il rom da lur cumpetenzas per ademplir las finamiras dal stadi.
 
-#### Art. 5
+### Stadi da dretg
 
-**Stadi da dretg**
+#### Art. 5
 
 <sup>1</sup> La basa ed il cunfin da l’agir dal stadi è il dretg.
 
@@ -80,25 +80,25 @@ Il chantun Grischun è in stadi da dretg liberal, democratic e social.
 
 <sup>3</sup> Las autoritads e las persunas privatas ageschan en buna fai.
 
-#### Art. 6
+### Responsabladad individuala e sociala
 
-**Responsabladad individuala e sociala**
+#### Art. 6
 
 Mintga persuna porta responsabladad per sasez e conresponsabladad per la cuminanza e per il mantegniment da la basa da viver.
 
 ## II. Dretgs fundamentals e finamiras socialas
 
-#### Art. 7
+### Dretgs fundamentals e finamiras socialas
 
-**Dretgs fundamentals e finamiras socialas**
+#### Art. 7
 
 Ils dretgs fundamentals e las finamiras socialas èn garantids en il rom da la constituziun federala[^7-1] e da las cunvegnas internaziunalas impegnativas per la Svizra.
 
 [^7-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 
-#### Art. 8
+### Garanzias da procedura e protecziun legala
 
-**Garanzias da procedura e protecziun legala**
+#### Art. 8
 
 Las garanzias da procedura e la protecziun legala èn garantidas en il rom da la constituziun federala[^8-1] e da las cunvegnas internaziunalas impegnativas per la Svizra.
 
@@ -108,9 +108,9 @@ Las garanzias da procedura e la protecziun legala èn garantidas en il rom da la
 
 ### 1. En general
 
-#### Art. 9
+### Dretg da votar e d’eleger
 
-**Dretg da votar e d’eleger**
+#### Art. 9
 
 <sup>1</sup> Il dretg da votar e d’eleger han tut las burgaisas svizras e tut ils burgais svizzers che han cumplenì il 18avel onn e ch’abitan en il chantun.
 
@@ -122,9 +122,9 @@ Las garanzias da procedura e la protecziun legala èn garantidas en il rom da la
 
 [^9-1]: Acceptada dal pievel ils 11 da mars 2012, entrada en vigur il 1. da schan. 2013; garanzia dals 11 da mars 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 cifra 4 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 
-#### Art. 10
+### Princips d’elecziun e da votaziun
 
-**Princips d’elecziun e da votaziun**
+#### Art. 10
 
 <sup>1</sup> Il dretg d’eleger e da votar general, egual, liber, direct e secret è garantì. Resalvadas restan votaziuns cun tegnair si il maun en radunanzas communalas.[^10-1]
 
@@ -132,9 +132,9 @@ Las garanzias da procedura e la protecziun legala èn garantidas en il rom da la
 
 [^10-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2017; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
-#### Art. 11
+### Cumpetenzas electoralas
 
-**Cumpetenzas electoralas**
+#### Art. 11
 
 Las persunas cun dretg da votar elegian:
 
@@ -151,9 +151,9 @@ Las persunas cun dretg da votar elegian:
 
 ### 2. Iniziativa dal pievel
 
-#### Art. 12
+### Object
 
-**Object**
+#### Art. 12
 
 <sup>1</sup> 4 000 persunas cun dretg da votar u in settavel da las vischnancas pon pretender cun ina iniziativa ina revisiun totala u parziala da la constituziun chantunala.
 
@@ -164,17 +164,17 @@ Las persunas cun dretg da votar elegian:
 - 1\. da relaschar, da midar u d’abolir ina lescha u in conclus suttamess tenor la constituziun a la votaziun dal pievel;
 - 2\. d’inoltrar ina iniziativa dals chantuns a l’assamblea federala.
 
-#### Art. 13
+### Forma
 
-**Furma**
+#### Art. 13
 
 <sup>1</sup> Ina iniziativa po vegnir inoltrada sco proposta generala u sco sboz elavurà.
 
 <sup>2</sup> Ina iniziativa per ina revisiun totala da la constituziun chantunala u per l’elavuraziun d’in conclus dastga vegnir inoltrada mo sco proposta generala.
 
-#### Art. 14
+### Nunvalaivladad
 
-**Nunvalaivladad**
+#### Art. 14
 
 <sup>1</sup>
 
@@ -189,9 +189,9 @@ Ina iniziativa è totalmain u parzialmain nunvalaivla, sch’ella:
 
 <sup>3</sup> Davart la nunvalaivladad decida il cussegl grond. Cunter questa decisiun po vegnir recurrì tar la dretgira administrativa.
 
-#### Art. 15
+### Procedura
 
-**Procedura**
+#### Art. 15
 
 <sup>1</sup> Ina iniziativa dal pievel ed in sboz elavurà che sa basa sin ina proposta generala ston vegnir suttamess al pievel per la votaziun entaifer dus onns dapi l’inoltraziun u vegnir suttamess al referendum facultativ. Il termin po vegnir prolungà dal cussegl grond per sis mais.
 
@@ -201,9 +201,9 @@ Ina iniziativa è totalmain u parzialmain nunvalaivla, sch’ella:
 
 ### 3. Referendum
 
-#### Art. 16
+### Referendum obligatoric
 
-**Referendum obligatoric**
+#### Art. 16
 
 A la votaziun dal pievel vegnan suttamess:
 
@@ -216,9 +216,9 @@ A la votaziun dal pievel vegnan suttamess:
 
 [^16-1]: Abolì en la votaziun dal pievel dals 3 da mars 2013, cun effect a partir dal 1. da matg 2013; garanzia dals 24 da sett. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 cifra 6 [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
-#### Art. 17
+### Referendum facultativ
 
-**Referendum facultativ**
+#### Art. 17
 
 <sup>1</sup>
 
@@ -232,17 +232,17 @@ Sche 1 500 persunas cun dretg da votar u in dieschavel da las vischnancas preten
 
 <sup>3</sup> La dumonda per exequir la votaziun dal pievel sto vegnir fatga entaifer 90 dis suenter la publicaziun uffiziala dal conclus.
 
-#### Art. 18
+### Dretg d’urgenza
 
-**Dretg d’urgenza**
+#### Art. 18
 
 <sup>1</sup> Leschas che na supportan betg in retard da lur entrada en vigur, pon vegnir messas en vigur immediatamain, sch’il cussegl grond concluda l’urgenza cun ina maioritad da dus terzs da las commembras e dals commembers.
 
 <sup>2</sup> Ellas èn suttamessas al referendum facultativ posteriur.
 
-#### Art. 19
+### Dumondas da princip e variantas
 
-**Dumondas da princip e variantas**
+#### Art. 19
 
 <sup>1</sup> Il cussegl grond po concluder votaziuns dal pievel davart dumondas da princip.
 
@@ -252,9 +252,9 @@ Sche 1 500 persunas cun dretg da votar u in dieschavel da las vischnancas preten
 
 ### 4. Partidas politicas
 
-#### Art. 20
+### Posiziun
 
-**Posiziun**
+#### Art. 20
 
 <sup>1</sup> Las partidas politicas coopereschan en il process da la furmaziun da l’opiniun e da la voluntad.
 
@@ -264,22 +264,22 @@ Sche 1 500 persunas cun dretg da votar u in dieschavel da las vischnancas preten
 
 ### 1. En general
 
-#### Art. 21
+### Elegibladad
 
-**Elegibladad**
+#### Art. 21
 
 <sup>1</sup> En las autoritads ed en las dretgiras chantunalas sco er en il cussegl dals chantuns èn elegiblas las persunas cun dretg da votar en il chantun. La lescha po prevair che la premissa d’elegibladad stoppia esser ademplida pir il mument da l’entrada en uffizi.[^21-1]
 
 <sup>2</sup> Ulteriuras premissas d’elegibladad per las autoritads e per las dretgiras chantunalas sco er las cundiziuns d’engaschament dal persunal chantunal vegnan regladas en la lescha.
 
-<sup>3</sup> La lescha regla la suspensiun da l’uffizi e la destituziun da l’uffizi dals commembers d’autoritads e da dretgiras. [^21-2]
+<sup>3</sup> La lescha regla la suspensiun da l’uffizi e la destituziun da l’uffizi dals commembers d’autoritads e da dretgiras.[^21-2]
 
 [^21-1]: Acceptada dal pievel ils 26 da nov. 2006, entrada en vigur il 1. da schan. 2007; garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 [^21-2]: Acceptada dal pievel ils 26 da nov. 2006, entrada en vigur il 1. da schan. 2007; garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
-#### Art. 22
+### Incumpa-tibilitads
 
-**Incumpatibilitads**
+#### Art. 22
 
 <sup>1</sup> Nagin na po appartegnair a sia autoritad directa da surveglianza.
 
@@ -291,29 +291,29 @@ Sche 1 500 persunas cun dretg da votar u in dieschavel da las vischnancas preten
 
 <sup>5</sup> La lescha regla ulteriurs cas d’incumpatibilitad d’uffizis e d’incumbensas, l’exclusiun da parentas e da parents sco er las excepziuns.
 
-#### Art. 23
+### Perioda d’uffizi
 
-**Perioda d’uffizi**
+#### Art. 23
 
 La perioda d’uffizi dal cussegl grond, da la regenza, da las dretgiras sco er da las commembras e dals commembers dal cussegl dals chantuns munta a quatter onns.
 
-#### Art. 24
+### Immunitad
 
-**Immunitad**
+#### Art. 24
 
 <sup>1</sup> Las commembras ed ils commembers dal cussegl grond e da la regenza na pon betg vegnir fatgs giuridicamain responsabels per lur remartgas en il cussegl grond ed en sias cumissiuns.
 
 <sup>2</sup> La lescha po prevair ulteriuras furmas d’immunitad ed extender quella sin ulteriuras persunas.
 
-#### Art. 25
+### Infurmaziun
 
-**Infurmaziun**
+#### Art. 25
 
 Las autoritads e las dretgiras infurmeschan regularmain la publicitad davart lur activitad.
 
-#### Art. 26
+### Responsabladad dal stadi
 
-**Responsabladad dal stadi**
+#### Art. 26
 
 <sup>1</sup> Il chantun, las regiuns e las vischnancas sco er las ulteriuras corporaziuns da dretg public ed ils instituts autonoms stattan buns, independentamain da la culpa, per donns che lur organs e che las persunas ch’èn en lur servetsch han chaschunà illegalmain exequind lur activitads da servetsch.[^26-1]
 
@@ -325,25 +325,26 @@ Las autoritads e las dretgiras infurmeschan regularmain la publicitad davart lur
 
 ### A. Organisaziun
 
-#### Art. 27
+### Cumposiziun ed elecziun
 
-**Cumposiziun ed elecziun**
+#### Art. 27
 
 <sup>1</sup> Il cussegl grond sa cumpona da 120 commembras e commembers.
 
-<sup>2</sup> L’elecziun succeda tenor la procedura electorala da maiorz.
+<sup>2</sup> L'elecziun succeda tenor la procedura electorala da proporz. La lescha po prevair quorums minimals ed ina cundiziun da maiorz.[^27-1]
 
-<sup>3</sup> Il chantun è dividì en maximalmain 39 circuls electorals. La lescha regla, a tge circul electoral che las vischnancas appartegnan, sco er las consequenzas da fusiuns da vischnancas per il dumber dals circuls electorals.[^27-1]
+<sup>3</sup> Il chantun è dividì en maximalmain 39 circuls electorals. La lescha regla, a tge circul electoral che las vischnancas appartegnan, sco er las consequenzas da fusiuns da vischnancas per il dumber dals circuls electorals.[^27-2]
 
 <sup>4</sup> Ils mandats vegnan repartids sin ils circuls electorals correspundentamain a lur populaziun svizra.
 
 <sup>5</sup> La lescha regla la suppleanza.
 
-[^27-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^27-1]: Acceptada dal pievel ils 13 da zercl. 2021, entrada en vigur il 1. da oct. 2021; garanzia dals 16 da mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 2, [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^27-2]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+
+### Posiziun da las commembras e dals commembers dal cussegl grond
 
 #### Art. 28
-
-**Posiziun da las commembras e dals commembers dal cussegl grond**
 
 <sup>1</sup> Las commembras ed ils commembers dal cussegl grond discutan e voteschan senza instrucziuns.
 
@@ -351,23 +352,23 @@ Las autoritads e las dretgiras infurmeschan regularmain la publicitad davart lur
 
 <sup>3</sup> Envers l’administraziun han els ils dretgs spezials d’infurmaziun e d’invista, fixads en la lescha.
 
-#### Art. 29
+### Publicitad da las sesidas
 
-**Publicitad da las sesidas**
+#### Art. 29
 
 Las sesidas dal cussegl grond èn per regla publicas.
 
 ### B. Incumbensas
 
-#### Art. 30
+### Princip
 
-**Princip**
+#### Art. 30
 
 Il cussegl grond pratitgescha, cun resalva dals dretgs dal pievel, la pussanza suprema. El è l’autoritad legislativa e l’instanza da surveglianza suprema dal chantun.
 
-#### Art. 31
+### Legislaziun
 
-**Legislaziun**
+#### Art. 31
 
 <sup>1</sup> Tut las disposiziuns impurtantas ston vegnir relaschadas dal cussegl grond en furma da lescha.
 
@@ -384,9 +385,9 @@ Disposiziuns impurtantas èn spezialmain quellas, per las qualas la constituziun
 
 <sup>3</sup> La valaivladad da las leschas po vegnir limitada. Avant che prolungar sto vegnir examinada l’efficacitad da las leschas.
 
-#### Art. 32
+### Ulteriuras cumpetenzas legislativas
 
-**Ulteriuras cumpetenzas legislativas**
+#### Art. 32
 
 <sup>1</sup> Uschenavant che la furma da la lescha n’è betg prescritta, po il cussegl grond relaschar ordinaziuns, sch’el vegn autorisà explicitamain da la lescha da far quai.
 
@@ -394,27 +395,25 @@ Disposiziuns impurtantas èn spezialmain quellas, per las qualas la constituziun
 
 <sup>3</sup> Il cussegl grond sto vegnir participà en furma adattada a la preparaziun da contracts interchantunals ed internaziunals impurtants.
 
-#### Art. 33
+### Surveglianza e surveglianza suprema
 
-**Surveglianza e surveglianza suprema**
+#### Art. 33
 
 <sup>1</sup> Il cussegl grond ha la surveglianza da la regenza sco er da la dretgira chantunala e da la dretgira administrativa.
 
 <sup>2</sup> El è responsabel per la surveglianza suprema da l’administraziun, dals ulteriurs secturs da la giurisdicziun sco er d’autras purtadras e d’auters purtaders d’incumbensas publicas.
 
-#### Art. 34
+### Planisaziun
 
-**Planisaziun**
+#### Art. 34
 
 <sup>1</sup> Il cussegl grond relascha las finamiras e las directivas politicas surordinadas.
 
 <sup>2</sup> El tracta il program da la regenza, il plan da finanzas ed ulteriuras planisaziuns politicas fundamentalas da la regenza.
 
-<sup>3</sup> El po prender conclus davart la cuntinuaziun da la planisaziun e dar incaricas a la regenza.
+### Finanzas
 
 #### Art. 35
-
-**Finanzas**
 
 <sup>1</sup> Resguardond il plan da finanzas fixescha il cussegl grond il preventiv ed approva il quint dal stadi. La lescha po prevair excepziuns.[^35-1]
 
@@ -424,9 +423,9 @@ Disposiziuns impurtantas èn spezialmain quellas, per las qualas la constituziun
 
 [^35-1]: Acceptada dal pievel ils 26 da sett. 2004, entrada en vigur il 1. da schan. 2005; garanzia dals 6 d’oct. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)art. 1 cifra 5 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452)).
 
-#### Art. 36
+### Elecziuns
 
-**Elecziuns**
+#### Art. 36
 
 Il cussegl grond elegia:
 
@@ -435,9 +434,9 @@ Il cussegl grond elegia:
 - 3\. las commembras ed ils commembers da la dretgira chantunala e da la dretgira administrativa;
 - 4\. ulteriuras titularas ed ulteriurs titulars d’in uffizi a norma da la legislaziun.
 
-#### Art. 37
+### Elecziuns
 
-**Grazia**
+#### Art. 37
 
 Il cussegl grond decida davart dumondas da grazia. La lescha po delegar a la regenza la decisiun davart dumondas da grazia.
 
@@ -445,17 +444,17 @@ Il cussegl grond decida davart dumondas da grazia. La lescha po delegar a la reg
 
 ### A. Organisaziun
 
-#### Art. 38
+### Cumposiziun
 
-**Cumposiziun**
+#### Art. 38
 
 <sup>1</sup> La regenza sa cumpona da tschintg commembras e commembers.
 
 <sup>2</sup> Ella prenda e represchenta ses conclus sco autoritad collegiala.
 
-#### Art. 39
+### Elecziun
 
-**Elecziun**
+#### Art. 39
 
 <sup>1</sup> L’elecziun da la regenza succeda tenor la procedura electorala da maiorz.
 
@@ -463,15 +462,15 @@ Il cussegl grond decida davart dumondas da grazia. La lescha po delegar a la reg
 
 <sup>3</sup> Ina reelecziun è permessa duas giadas.
 
-#### Art. 40
+### Presidi
 
-**Presidi**
+#### Art. 40
 
 Il cussegl grond elegia or dal ravugl da la regenza la presidenta u il president sco er la vicepresidenta u il vicepresident per ina perioda d’uffizi d’in onn.
 
-#### Art. 41
+### Occupaziun accessorica e represchentanza d’interess
 
-**Occupaziun accessorica e represchentanza d’interess**
+#### Art. 41
 
 <sup>1</sup> A las commembras ed als commembers da la regenza è scumandada tutta occupaziun accessorica.
 
@@ -479,9 +478,9 @@ Il cussegl grond elegia or dal ravugl da la regenza la presidenta u il president
 
 ### B. Incumbensas
 
-#### Art. 42
+### Incumbensas da la regenza
 
-**Incumbensas da la regenza**
+#### Art. 42
 
 <sup>1</sup> La regenza planisescha, fixescha e coordinescha las finamiras ed ils meds da l’agir dal stadi cun resalva da las cumpetenzas da las persunas cun dretg da votar e dal cussegl grond.
 
@@ -491,17 +490,17 @@ Il cussegl grond elegia or dal ravugl da la regenza la presidenta u il president
 
 <sup>4</sup> Ella represchenta il chantun vers l’intern e vers l’extern.
 
-#### Art. 43
+### Direcziun da l’administraziun
 
-**Direcziun da l’administraziun**
+#### Art. 43
 
 <sup>1</sup> La regenza dirigia l’administraziun chantunala.
 
 <sup>2</sup> Ella procura per l’activitad legala ed efficazia da l’administraziun e fixescha l’organisaziun da quella en il rom dal dretg chantunal.
 
-#### Art. 44
+### Cooperaziun en il cussegl grond
 
-**Cooperaziun en il cussegl grond**
+#### Art. 44
 
 <sup>1</sup> La regenza prepara las fatschentas dal cussegl grond, uschenavant che quel na las elavura betg independentamain.
 
@@ -509,23 +508,23 @@ Il cussegl grond elegia or dal ravugl da la regenza la presidenta u il president
 
 <sup>3</sup> Las commembras ed ils commembers da la regenza sa participeschan en funcziun consultativa a las sesidas dal cussegl grond e pon far propostas.
 
-#### Art. 45
+### Legiferaziun
 
-**Legiferaziun**
+#### Art. 45
 
 <sup>1</sup> La regenza relascha disposiziuns main impurtantas en furma d’ordinaziun.
 
 <sup>2</sup> Ella è cumpetenta da negoziar contracts interchantunals ed internaziunals; sche quels pertutgan sia cumpetenza d’ordinaziun, è ella er cumpetenta da concluder tals.
 
-#### Art. 46
+### Finanzas
 
-**Finanzas**
+#### Art. 46
 
 La regenza fa il plan da finanzas e deliberescha il preventiv sco er il quint dal stadi per mauns dal cussegl grond.
 
-#### Art. 47
+### Ulteriuras incumbensas
 
-**Ulteriuras incumbensas**
+#### Art. 47
 
 Ulteriuras incumbensas da la regenza èn spezialmain:
 
@@ -535,9 +534,9 @@ Ulteriuras incumbensas da la regenza èn spezialmain:
 - 4\. il mantegniment da l’urden public e da la segirezza publica;
 - 5\. la surveglianza da corporaziuns da dretg public sco er d’autras purtadras e d’auters purtaders d’incumbensas publicas dal chantun.
 
-#### Art. 48
+### Situaziuns extraordinarias
 
-**Situaziuns extraordinarias**
+#### Art. 48
 
 <sup>1</sup> La regenza po relaschar ordinaziuns u prender conclus senza ina basa legala per far frunt a disturbis gravants ch’èn succedids u che smanatschan directamain la segirezza publica sco er per far frunt a crisas socialas.
 
@@ -545,17 +544,17 @@ Ulteriuras incumbensas da la regenza èn spezialmain:
 
 ### C. Administraziun
 
-#### Art. 49
+### Departaments e chanzlia chantunala
 
-**Departaments e chanzlia chantunala**
+#### Art. 49
 
 <sup>1</sup> L’administraziun chantunala vegn dividida en departaments tenor secturs da gestiun. La regenza regla ils champs d’incumbensa dals departaments en in’ordinaziun.
 
 <sup>2</sup> La chanzlia chantunala è il post general da stab, da coordinaziun e da colliaziun dal cussegl grond, da la regenza e da l’administraziun.
 
-#### Art. 50
+### Ulteriuras purtadras ed ulteriurs purtaders d’incumbensas publicas
 
-**Ulteriuras purtadras ed ulteriurs purtaders d’incumbensas publicas**
+#### Art. 50
 
 <sup>1</sup> Il chantun po delegar l’adempliment d’incumbensas publicas a purtadras ed a purtaders ordaifer l’administraziun chantunala.
 
@@ -567,9 +566,9 @@ Ulteriuras incumbensas da la regenza èn spezialmain:
 
 ### 4. Dretgiras
 
-#### Art. 51
+### Independenza ed imparzialitad
 
-**Independenza ed imparzialitad**
+#### Art. 51
 
 <sup>1</sup> L’independenza e l’imparzialitad da las dretgiras èn garantidas. En lur giurisdicziun èn las dretgiras obligadas mo al dretg.
 
@@ -579,9 +578,11 @@ Ulteriuras incumbensas da la regenza èn spezialmain:
 
 <sup>4</sup> A commembras ed a commembers en uffizi cumplain d’ina autoritad giudiziala è scumandada tutta occupaziun accessorica. La lescha po prevair excepziuns.
 
+### Finanzas, cooperaziun en il cussegl grond e legislaziun
+
 #### Art. 51a
 
-**Finanzas, cooperaziun en il cussegl grond e legislaziun**[^51a-1]
+[^51a-1]
 
 <sup>1</sup> La dretgira chantunala e la dretgira administrativa suttamettan al cussegl grond il sboz per lur preventiv sco er il quint ed il rapport annual per l’approvaziun.
 
@@ -591,9 +592,9 @@ Ulteriuras incumbensas da la regenza èn spezialmain:
 
 [^51a-1]: Acceptada dal pievel ils 26 da nov. 2006, entrada en vigur il 1. da schan. 2007; garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
-#### Art. 52
+### Surveglianza da la giustia
 
-**Surveglianza da la giustia**
+#### Art. 52
 
 <sup>1</sup> La dretgira chantunala ha la surveglianza da tut ils secturs da la giurisdicziun civila e penala.
 
@@ -601,15 +602,15 @@ Ulteriuras incumbensas da la regenza èn spezialmain:
 
 <sup>3</sup> La surveglianza e la surveglianza suprema sa restrenschan sin la gestiun e sin l’administraziun giudiziala.
 
-#### Art. 53
+### Publicitad da las tractativas giudizialas
 
-**Publicitad da las tractativas giudizialas**
+#### Art. 53
 
 Las tractativas da las partidas davant dretgira èn publicas cun resalva da las excepziuns tenor la lescha.
 
-#### Art. 54
+### Giurisdicziun civila e penala
 
-**Giurisdicziun civila e penala**
+#### Art. 54
 
 La giurisdicziun civila e penala vegn exequida da:
 
@@ -620,9 +621,9 @@ La giurisdicziun civila e penala vegn exequida da:
 [^54-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2017; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 [^54-2]: Abolì tras il conclus dal pievel dals 17 da matg 2009, cun effect a partir dal 1. da schan. 2011; garanzia dals 8 da zercl. 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)art. 1 cifra 5 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
 
-#### Art. 55
+### Giurisdicziun constituziunala ed administrativa
 
-**Giurisdicziun constituziunala ed administrativa**
+#### Art. 55
 
 <sup>1</sup> La dretgira administrativa ha l’incumbensa da giuditgar en ultima instanza dispitas da dretg public, uschenavant ch’ina lescha na dispona betg autramain.
 
@@ -635,34 +636,34 @@ La dretgira administrativa giuditgescha sco dretgira constituziunala:
 
 <sup>3</sup> En la procedura dal dretg constituziunal pon leschas ed ordinaziuns vegnir contestadas directamain sco er vegnir examinadas en il cas d’applicaziun.
 
-[^55-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2017; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^55-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2018; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 [^55-2]: Acceptada dal pievel ils 26 da nov. 2006, entrada en vigur il 1. da schan. 2007; garanzia dals 6 da mars 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1 cifra 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
-#### Art. 56
+### Ulteriuras autoritads giudizialas sco er autoritads extragiudizialas
 
-**Ulteriuras autoritads giudizialas sco er autoritads extragiudizialas**
+#### Art. 56
 
 Tras la lescha pon vegnir instituidas ulteriuras autoritads giudizialas sco er extragiudizialas.
 
 ### 5. Diever dals dretgs da cooperaziun en la confederaziun
 
-#### Art. 57
+### Cussegl dals chantuns
 
-**Cussegl dals chantuns**
+#### Art. 57
 
 <sup>1</sup> Las elecziuns dal cussegl dals chantuns succedan tenor la procedura electorala da maiorz. Ellas han lieu il medem mument sco las elecziuns en il cussegl naziunal.
 
 <sup>2</sup> Il territori dal chantun furma il circul electoral.
 
-#### Art. 58
+### Referendum chantunal
 
-**Referendum chantunal**
+#### Art. 58
 
 Il cussegl grond u la regenza pon pretender, en num dal chantun, che leschas federalas, conclus federals sco er contracts internaziunals vegnian suttamess al pievel per la votaziun.
 
-#### Art. 59
+### Iniziativa dals chantuns
 
-**Iniziativa dals chantuns**
+#### Art. 59
 
 <sup>1</sup> Il cussegl grond u la regenza pon inoltrar, en num dal chantun, ina iniziativa dals chantuns a l’assamblea federala.
 
@@ -674,17 +675,17 @@ Il cussegl grond u la regenza pon pretender, en num dal chantun, che leschas fed
 
 ### A. Geners da vischnancas
 
-#### Art. 60
+### Vischnancas politicas
 
-**Vischnancas politicas**
+#### Art. 60
 
 <sup>1</sup> Las vischnancas politicas èn corporaziuns dal dretg public chantunal cun atgna persunalitad giuridica. Ellas sa cumponan da la totalitad da las persunas cun domicil en il territori communal.
 
 <sup>2</sup> Ellas èn responsablas per tut ils fatgs locals che na cumpetan betg a las vischnancas burgaisas.
 
-#### Art. 61
+### Vischnancas burgaisas
 
-**Vischnancas burgaisas**
+#### Art. 61
 
 <sup>1</sup> Las vischnancas burgaisas sa cumponan da las burgaisas communalas e dals burgais communals cun domicil en la vischnanca.
 
@@ -692,39 +693,39 @@ Il cussegl grond u la regenza pon pretender, en num dal chantun, che leschas fed
 
 ### B. Collavuraziun intercommunala e fusiun da vischnancas
 
-#### Art. 62
+### Collavuraziun intercommunala
 
-**Collavuraziun intercommunala**
+#### Art. 62
 
 <sup>1</sup> Per ademplir lur incumbensas pon las vischnancas collavurar cun autras vischnancas u organisaziuns. La lescha prevesa che vischnancas pon vegnir obligadas da collavurar.
 
 <sup>2</sup> La lescha regla la collavuraziun intercommunala sco er la delegaziun d’incumbensas e garantescha ils dretgs politics da cundecisiun.
 
-#### Art. 63
+### Fusiun
 
-**Fusiun**
+#### Art. 63
 
 La fusiun da vischnancas vegn reglada da la lescha.
 
-#### Art. 64
+### Promoziun da la collavuraziun intercommunala e da fusiuns
 
-**Promoziun da la collavuraziun intercommunala e da fusiuns**
+#### Art. 64
 
 Il chantun promova la collavuraziun intercommunala e la fusiun da vischnancas per garantir che lur incumbensas vegnian ademplidas a moda cunvegnenta ed economica.
 
 ### C. Posiziun ed organisaziun
 
-#### Art. 65
+### Autonomia communala
 
-**Autonomia communala**
+#### Art. 65
 
 <sup>1</sup> L’autonomia da las vischnancas è garantida. Sia dimensiun vegn determinada dal dretg chantunal.
 
 <sup>2</sup> Las vischnancas èn spezialmain autorisadas da determinar lur organisaziun, d’instituir lur autoritads e lur administraziun sco er d’ordinar independentamain lur fatgs finanzials.
 
-#### Art. 66
+### Organs
 
-**Organs**
+#### Art. 66
 
 <sup>1</sup>
 
@@ -736,9 +737,9 @@ Ils organs obligatorics da las vischnancas politicas èn:
 
 <sup>2</sup> Las vischnancas pon remplazzar u cumplettar la radunanza communala cun in parlament communal.
 
-#### Art. 67
+### Surveglianza
 
-**Surveglianza**
+#### Art. 67
 
 <sup>1</sup> La regenza ha la surveglianza da las vischnancas sco er da las purtadras e dals purtaders da la collavuraziun intercommunala.
 
@@ -746,7 +747,7 @@ Ils organs obligatorics da las vischnancas politicas èn:
 
 <sup>3</sup> En cas d’abus gravants po ina vischnanca vegnir messa sut curatella.
 
-### 2. Regiuns****
+### 2. Regiuns
 
 [^lvlV-lvl2-1]
 
@@ -754,9 +755,11 @@ Ils organs obligatorics da las vischnancas politicas èn:
 
 ### A. Divisiun dal territori chantunal
 
+### Regiuns
+
 #### Art. 68
 
-**Regiuns**[^68-1]
+[^68-1]
 
 <sup>1</sup>
 
@@ -808,7 +811,7 @@ Il chantun è dividì en las suandantas regiuns:
 
 [^72-1]
 
-[^72-1]: Abolì en la votaziun dal pievel ils 23 da sett. 2012, cun effect a partir dal 1. da schan. 2017; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^72-1]: Abolì en la votaziun dal pievel ils 23 da sett. 2012, cun effect a partir dal 1. da schan. 2018; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### C. Organisaziun e surveglianza
 
@@ -816,11 +819,13 @@ Il chantun è dividì en las suandantas regiuns:
 
 [^73-1]
 
-[^73-1]: Abolì en la votaziun dal pievel ils 23 da sett. 2012, cun effect a partir dal 1. da schan. 2017; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^73-1]: Abolì en la votaziun dal pievel ils 23 da sett. 2012, cun effect a partir dal 1. da schan. 2018; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+
+### Surveglianza
 
 #### Art. 74
 
-**Surveglianza**[^74-1]
+[^74-1]
 
 <sup>1</sup> En il rom dal dretg chantunal exequescha la regenza la surveglianza da las regiuns. Da questa surveglianza è exceptada la surveglianza da la giustia.
 
@@ -832,9 +837,9 @@ Il chantun è dividì en las suandantas regiuns:
 
 ### 1. En general
 
-#### Art. 75
+### Princips
 
-**Princips**
+#### Art. 75
 
 <sup>1</sup> Il chantun e las vischnancas promovan il bainstar e la segirezza sociala da la populaziun, da la famiglia e da las singulas persunas.
 
@@ -844,9 +849,9 @@ Il chantun è dividì en las suandantas regiuns:
 
 <sup>4</sup> Cun ademplir incumbensas publicas sto vegnir schanegiada la basa da viver natirala.
 
-#### Art. 76
+### Cumpetenza e collavuraziun
 
-**Cumpetenza e collavuraziun**
+#### Art. 76
 
 <sup>1</sup> Il chantun e las vischnancas adempleschan incumbensas ch’èn d’interess public, uschenavant che la purschida privata na tanscha betg. Las incumbensas sa drizzan tenor la constituziun e tenor las leschas.
 
@@ -854,23 +859,23 @@ Il chantun è dividì en las suandantas regiuns:
 
 [^76-1]: Acceptada dal pievel ils 23 da sett. 2012, entrada en vigur il 1. da schan. 2015; garanzia dals 23 da sett. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)art. 1 cifra 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
-#### Art. 77
+### Adempliment decentral da las incumbensas
 
-**Adempliment decentral da las incumbensas**
+#### Art. 77
 
 Il chantun ademplescha incumbensas publicas a moda decentrala, oravant tut sch’il gener da l’incumbensa, il diever economic dals meds u l’adempliment efficazi da las incumbensas permettan quai.
 
-#### Art. 78
+### Examinaziun da las incumbensas
 
-**Examinaziun da las incumbensas**
+#### Art. 78
 
 La necessitad, l’efficacitad e la finanziaziun da las incumbensas publicas ston vegnir examinadas periodicamain.
 
 ### 2. Garanzia da l’urden public
 
-#### Art. 79
+### Urden public e segirezza
 
-**Urden public e segirezza**
+#### Art. 79
 
 <sup>1</sup> Il chantun e las vischnancas garanteschan l’urden public e la segirezza.
 
@@ -878,15 +883,15 @@ La necessitad, l’efficacitad e la finanziaziun da las incumbensas publicas sto
 
 ### 3. Planisaziun dal territori, ambient, energia, traffic e telecommunicaziun
 
-#### Art. 80
+### Planisaziun dal territori
 
-**Planisaziun dal territori**
+#### Art. 80
 
 Il chantun e las vischnancas prendan en mira ina utilisaziun ed in svilup cunvegnent, economic, coordinà e persistent dal territori chantunal. En quest connex resguardan els ils basegns dals umans e da l’ambient sco er l’urbanisaziun decentrala.
 
-#### Art. 81
+### Protecziun da l’ambient sco er protecziun da la natira e da la patria
 
-**Protecziun da l’ambient sco er protecziun da la natira e da la patria**
+#### Art. 81
 
 <sup>1</sup> Il chantun regla l’execuziun dal dretg federal davart la protecziun da l’uman e da ses ambient natiral cunter effects nuschaivels e mulestus. Ils custs per evitar e per eliminar tals eveniments portan las chaschunadras ed ils chaschunaders.
 
@@ -894,9 +899,9 @@ Il chantun e las vischnancas prendan en mira ina utilisaziun ed in svilup cunveg
 
 <sup>3</sup> Els prendan mesiras per mantegnair e per proteger cuntradas e maletgs da vitgs, lieus istorics sco er objects natirals e bains culturals da valur.
 
-#### Art. 82
+### Infrastructura
 
-**Infrastructura**
+#### Art. 82
 
 <sup>1</sup> Il chantun e las vischnancas procuran per in provediment commensurà dal territori chantunal cun aua e cun energia, cun colliaziuns da traffic sco er cun telecommunicaziun.
 
@@ -906,17 +911,19 @@ Il chantun e las vischnancas prendan en mira ina utilisaziun ed in svilup cunveg
 
 <sup>4</sup> Il chantun promova la collavuraziun intercommunala e regiunala e garantescha la gulivaziun da finanzas.
 
-#### Art. 83
+### Auas
 
-**Auas**
+#### Art. 83
 
 <sup>1</sup> Il chantun ha la surveglianza da las auas publicas e privatas. El regla l’utilisaziun da l’aua sco er da la forza idraulica.
 
 <sup>2</sup> La suveranitad da las auas publicas appartegna a las vischnancas.
 
+### Participaziuns ad ovras electricas a charvun
+
 #### Art. 83a
 
-**Participaziuns ad ovras electricas a charvun**[^83a-1]
+[^83a-1]
 
 Il chantun na sa participescha betg ad interpresas che fan investiziuns en ovras electricas a charvun. En il rom da sias pussaivladads giuridicas e politicas procura el che las interpresas cun participaziun dal chantun desistian da far investiziuns en ovras electricas a charvun.
 
@@ -924,9 +931,9 @@ Il chantun na sa participescha betg ad interpresas che fan investiziuns en ovras
 
 ### 4. Economia
 
-#### Art. 84
+### Politica economica
 
-**Politica economica**
+#### Art. 84
 
 <sup>1</sup> Il chantun e las vischnancas creeschan bunas cundiziuns da basa per ina economia productiva e persistenta. Els fan ina promoziun activa da l’economia.
 
@@ -938,9 +945,9 @@ Il chantun na sa participescha betg ad interpresas che fan investiziuns en ovras
 
 [^84-1]: Acceptada dal pievel ils 29 da schan. 2012, entrada en vigur il 29 da schan. 2012; garanzia dals 11 da mars 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)art. 1 cifra 4, **2012** 195).
 
-#### Art. 85
+### Regals e monopols
 
-**Regals e monopols**
+#### Art. 85
 
 <sup>1</sup>
 
@@ -960,9 +967,9 @@ Ils dretgs da regals dal chantun èn:
 
 ### 5. Fatgs socials, sanadad e famiglia
 
-#### Art. 86
+### Integraziun
 
-**Integraziun**
+#### Art. 86
 
 <sup>1</sup> Il chantun e las vischnancas procuran per in’assistenza, per in sustegn e per ina integraziun suffizienta da persunas basegnusas.
 
@@ -972,9 +979,9 @@ Ils dretgs da regals dal chantun èn:
 
 <sup>4</sup> En il rom da lur pussaivladads procuran els per in access tenor ils basegns da las persunas impedidas als edifizis ed als stabiliments publics.
 
-#### Art. 87
+### Sanadad
 
-**Sanadad**
+#### Art. 87
 
 <sup>1</sup> Il chantun regla la sanadad publica.
 
@@ -982,17 +989,17 @@ Ils dretgs da regals dal chantun èn:
 
 <sup>3</sup> Els promovan e sustegnan ensemen la prevenziun sanitara sco er la profilaxa cunter toxicomania.
 
-#### Art. 88
+### Famiglia
 
-**Famiglia**
+#### Art. 88
 
 Il chantun e las vischnancas creeschan bunas cundiziuns da basa per famiglias.
 
 ### 6. Furmaziun, cultura e temp liber
 
-#### Art. 89
+### Furmaziun
 
-**Furmaziun**
+#### Art. 89
 
 <sup>1</sup> L’instrucziun a las scolas publicas ha ina basa cristiana umanistica. Ella è confessiunalmain e politicamain neutrala ed è marcada da toleranza.
 
@@ -1000,23 +1007,23 @@ Il chantun e las vischnancas creeschan bunas cundiziuns da basa per famiglias.
 
 <sup>3</sup> Il chantun procura per l’instrucziun da scola media, per la scolaziun e per la furmaziun supplementara professiunala sco er per l’access a scolas spezialisadas superiuras ed a scolas autas. Per quest intent po el manar u sustegnair scolas. El fa attenziun d’avair ina purschida decentrala da scolas medias e professiunalas e promova scolas spezialisadas superiuras e scolas autas en il chantun.
 
-#### Art. 90
+### Cultura e perscrutaziun
 
-**Cultura e perscrutaziun**
+#### Art. 90
 
 Il chantun e las vischnancas promovan la lavur artistica, culturala e scientifica sco er il barat cultural. Per quest intent resguardan els la varietad linguistica e las particularitads regiunalas dal chantun.
 
-#### Art. 91
+### Organisaziun dal temp liber e sport
 
-**Organisaziun dal temp liber e sport**
+#### Art. 91
 
 Il chantun e las vischnancas sustegnan l’organisaziun raschunaivla dal temp liber, la lavur da giuventetgna ed il sport.
 
 ### 7. Collavuraziun internaziunala
 
-#### Art. 92
+### Collavuraziun transcunfinala ed agid umanitar
 
-**Collavuraziun transcunfinala ed agid umanitar**
+#### Art. 92
 
 <sup>1</sup> Il chantun sustegna e promova la collavuraziun transcunfinala.
 
@@ -1024,9 +1031,9 @@ Il chantun e las vischnancas sustegnan l’organisaziun raschunaivla dal temp li
 
 ## VII. Urden da finanzas
 
-#### Art. 93
+### Princips
 
-**Princips**
+#### Art. 93
 
 <sup>1</sup> Ils meds publics ston vegnir impundids a moda spargnusa, economica ed efficazia.
 
@@ -1036,17 +1043,17 @@ Il chantun e las vischnancas sustegnan l’organisaziun raschunaivla dal temp li
 
 <sup>4</sup> Ils custs han da purtar da princip las chaschunadras ed ils chaschunaders.
 
-#### Art. 94
+### Cumpetenzas fiscalas
 
-**Cumpetenzas fiscalas**
+#### Art. 94
 
 <sup>1</sup> Las cumpetenzas dal chantun e da las vischnancas per incassar taglias vegnan fixadas tras la lescha.
 
 <sup>2</sup> Las cumpetenzas fiscalas da las baselgias chantunalas e dals cumins-baselgia sa drizzan tenor las disposiziuns concernent il stadi e concernent las baselgias.
 
-#### Art. 95
+### Princips da l’imposiziun da taglia
 
-**Princips da l’imposiziun da taglia**
+#### Art. 95
 
 <sup>1</sup> Uschenavant ch’il gener da la taglia permetta, ston vegnir resguardads ils princips da la generalitad, da l’egualitad e da la capacitad economica per concepir las taglias.
 
@@ -1054,9 +1061,9 @@ Il chantun e las vischnancas sustegnan l’organisaziun raschunaivla dal temp li
 
 <sup>3</sup> L’imposiziun dubla da taglia intercommunala è scumandada.
 
-#### Art. 96
+### Gulivaziun da finanzas
 
-**Gulivaziun da finanzas**
+#### Art. 96
 
 <sup>1</sup> Il chantun garantescha la gulivaziun da finanzas.
 
@@ -1064,17 +1071,17 @@ Il chantun e las vischnancas sustegnan l’organisaziun raschunaivla dal temp li
 
 <sup>3</sup> La lescha po prevair ulteriuras contribuziuns per reducir dischequilibers regiunals, per ademplir funcziuns spezialas tras ina vischnanca u tras ina regiun sco er per promover tschertas incumbensas.
 
-#### Art. 97
+### Surveglianza da las finanzas
 
-**Surveglianza da las finanzas**
+#### Art. 97
 
 Il cussegl grond ha la surveglianza da las finanzas. En questa lavur vegn el sustegnì d’in organ da controlla independent.
 
 ## VIII. Stadi e baselgias
 
-#### Art. 98
+### Baselgias chantunalas e cumins-baselgia
 
-**Baselgias chantunalas e cumins-baselgia**
+#### Art. 98
 
 <sup>1</sup> La baselgia evangelic-refurmada e la baselgia catolic-romana èn renconuschidas dal dretg public.
 
@@ -1082,9 +1089,9 @@ Il cussegl grond ha la surveglianza da las finanzas. En questa lavur vegn el sus
 
 <sup>3</sup> Tras la lescha pon ulteriuras cuminanzas religiusas vegnir renconuschidas dal dretg public.
 
-#### Art. 99
+### Autonomia
 
-**Autonomia**
+#### Art. 99
 
 <sup>1</sup> Las baselgias chantunalas e lur cumins-baselgia reglan lur fatschentas independentamain en il rom dal dretg chantunal.
 
@@ -1096,17 +1103,17 @@ Il cussegl grond ha la surveglianza da las finanzas. En questa lavur vegn el sus
 
 <sup>5</sup> Tras la lescha po el incassar da persunas giuridicas ina taglia da cult.
 
-#### Art. 100
+### Cuminanzas religiusas dal dretg privat
 
-**Cuminanzas religiusas dal dretg privat**
+#### Art. 100
 
 Las ulteriuras cuminanzas religiusas èn suttamessas al dretg privat.
 
 ## IX. Midada da la constituziun chantunala
 
-#### Art. 101
+### Revisiun totala e parziala
 
-**Revisiun totala e parziala**
+#### Art. 101
 
 <sup>1</sup> La constituziun po vegnir revedida totalmain u parzialmain da tut temp.
 
@@ -1118,9 +1125,9 @@ Las ulteriuras cuminanzas religiusas èn suttamessas al dretg privat.
 
 ## X. Disposiziuns finalas
 
-#### Art. 102
+### Entrada en vigur
 
-**Entrada en vigur**
+#### Art. 102
 
 <sup>1</sup> Questa constituziun entra en vigur il 1. da schaner 2004.
 
@@ -1128,9 +1135,9 @@ Las ulteriuras cuminanzas religiusas èn suttamessas al dretg privat.
 
 <sup>3</sup> Midadas da la constituziun chantunala dals 2 d’october 1892 che succedan tranter il conclus dal cussegl grond davart la constituziun e l’entrada en vigur da quella, vegnan integradas dal cussegl grond en la nova constituziun chantunala. Il conclus correspundent n’è betg suttamess al referendum.
 
-#### Art. 103
+### Valaivladad limitada dal dretg vertent
 
-**Valaivladad limitada dal dretg vertent**
+#### Art. 103
 
 <sup>1</sup> Decrets ch’èn vegnids concludids d’ina autoritad che n’è betg pli cumpetenta u en ina procedura che n’è betg pli admissibla, restan en vigur.
 
@@ -1156,17 +1163,17 @@ Las ulteriuras cuminanzas religiusas èn suttamessas al dretg privat.
 
 Els han il dretg da reglar tras ordinaziuns generalmain impegnativas lur fatschentas politicas ed administrativas, e d’incassar taglias cirquitalas tenor princips gists e duaivels per cuvrir lur expensas administrativas. Il dretg d’incassar ina taglia a la funtauna ha exclusivamain il chantun. Eventualas taglias progressivas na dastgan betg surpassar las tariffas da la respectiva lescha chantunala da taglia.
 
-#### Art. 104
+### Adattaziun da la legislaziun
 
-**Adattaziun da la legislaziun**
+#### Art. 104
 
 <sup>1</sup> Sch’i sto vegnir relaschà nov dretg u vegnir midà dretg existent sin fundament da questa constituziun, sto quai succeder senza retard.
 
 <sup>2</sup> La regenza suttametta al cussegl grond entaifer trais onns dapi l’entrada en vigur da questa constituziun propostas per l’adattaziun necessaria da la legislaziun.
 
-#### Art. 105
+### Autoritads e dretgiras
 
-**Autoritads e dretgiras**
+#### Art. 105
 
 <sup>1</sup>
 
@@ -1182,9 +1189,9 @@ Cun resalva da las suandantas excepziuns restan las commembras ed ils commembers
 
 <sup>4</sup> Per la procedura da dretg constituziunal vegnan applitgadas confurm al senn las prescripziuns davart la procedura davant la dretgira administrativa fin al decret da las disposiziuns legalas correspundentas.
 
-#### Art. 106
+### Dretgs politics
 
-**Dretgs politics**
+#### Art. 106
 
 <sup>1</sup> La reussida e la valaivladad d’iniziativas dal pievel e da referendums annunziads a la chanzlia chantunala avant l’acceptaziun da questa constituziun, vegnan giuditgads tenor il dretg vertent.
 
@@ -1192,17 +1199,19 @@ Cun resalva da las suandantas excepziuns restan las commembras ed ils commembers
 
 <sup>3</sup> Iniziativas dal pievel per ina revisiun parziala da la constituziun vertenta che vegnan inoltradas fin a l’acceptaziun da la nova constituziun, transfurma il cussegl grond en projects per ina revisiun parziala da la nova constituziun.
 
-#### Art. 107
+### Corporaziuns regiunalas
 
-**Corporaziuns regiunalas**
+#### Art. 107
 
 <sup>1</sup> Organisaziuns regiunalas da la collavuraziun intercommunala che n’èn anc naginas corporaziuns regiunalas il mument da l’entrada en vigur da la nova constituziun, vegnan tractadas fin ils 31 da december 2006 sco corporaziuns regiunalas.
 
 <sup>2</sup> A la suprastanza da las corporaziuns regiunalas cumpeti da far propostas a las vischnancas ed als organs cumpetents fin ils 31 da december 2004 per la futura concepziun d’ina corporaziun regiunala.
 
+### Circuls, districts, corporaziuns regiunalas
+
 #### Art. 108
 
-**Circuls, districts, corporaziuns regiunalas**[^108-1]
+[^108-1]
 
 <sup>1</sup> Ils circuls che adempleschan las incumbensas delegadas da las vischnancas existan vinavant, e quai fin dus onns suenter che la divisiun dal chantun en regiuns sco corporaziuns dal dretg public chantunal è entrada en vigur. La perioda d’uffizi da las presidentas e dals presidents sco er da lur suppleantas e da lur suppleants dals ulteriurs circuls sa prolunghescha fin al mument da l’aboliziun.
 

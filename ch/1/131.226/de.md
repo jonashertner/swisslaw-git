@@ -3,18 +3,18 @@ sr: "131.226"
 title: "Verfassung des Kantons Graubünden, vom 14. September 2003"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/232_fga"
 language: de
-version: 2016-09-27
+version: 2022-03-16
 adopted: 2003-09-14
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20160927/de/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20160927-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20160927/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/232_fga/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2004-232_fga-20220316-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/232_fga/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Graubünden
 
-vom 18. Mai 2003/14. September 2003 (Stand am 27. September 2016)[^t-1]
+vom 18. Mai 2003/14. September 2003 (Stand am 16. März 2022)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleis-tungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -58,7 +58,7 @@ Der Kanton Graubünden ist ein freiheitlicher, demokratischer und sozialer Recht
 
 <sup>3</sup> Die Gemeinden bestimmen ihre Amts- und Schulsprachen im Rahmen ihrer Zuständigkeiten und im Zusammenwirken mit dem Kanton. Sie achten dabei auf die herkömmliche sprachliche Zusammensetzung und nehmen Rücksicht auf die angestammten sprachlichen Minderheiten.[^3-1]
 
-[^3-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^3-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Gewaltenteilung und Gewaltenhemmung
 
@@ -118,7 +118,7 @@ Die Verfahrensgarantien und der Rechtsschutz sind im Rahmen der Bundesverfassung
 
 <sup>4</sup> Die Gemeinden können nach Massgabe des kommunalen Rechts Auslandschweizerinnen und Auslandschweizern beziehungsweise Ausländerinnen und Ausländern das Stimmrecht sowie das aktive und passive Wahlrecht in Gemeindeangelegenheiten erteilen.
 
-[^9-1]: Angenommen in der [Volksabstimmung vom 11. März 2012](http://www.admin.ch/ch/d/pore/va/20120311/index.html), in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 4, **2012** 195).
+[^9-1]: Angenommen in der [Volksabstimmung vom 11. März 2012](http://www.admin.ch/ch/d/pore/va/20120311/index.html), in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 4; **2012** 195).
 
 ### Wahl- und Abstimmungsgrundsätze
 
@@ -128,7 +128,7 @@ Die Verfahrensgarantien und der Rechtsschutz sind im Rahmen der Bundesverfassung
 
 <sup>2</sup> Abstimmungsvorlagen sollen einfach und verständlich sein. Eine unverfälschte Willensbildung und Willenskundgabe ist zu gewährleisten.
 
-[^10-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^10-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Wahlbefugnisse
 
@@ -144,8 +144,8 @@ Die Stimmberechtigten wählen:
 - 7\. die Mitglieder der Gemeindebehörden nach Massgabe der Gesetzgebung;
 - 8\. weitere Behörden, Amtsträgerinnen und Amtsträger nach Massgabe der Gesetzgebung.
 
-[^11-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^11-2]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^11-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^11-2]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### 2. Volksinitiative
 
@@ -212,7 +212,7 @@ Der Volksabstimmung werden unterstellt:
 - 5\. Beschlüsse des Grossen Rates über Grundsatzfragen gemäss Artikel 19 Absatz 1;
 - 6\.[^16-1] …
 
-[^16-1]: Aufgehoben in der [Volksabstimmung vom 3. März 2013](http://www.admin.ch/ch/d/pore/va/20130303/index.html), mit Wirkung seit 1. Mai 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 6 [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^16-1]: Aufgehoben in der [Volksabstimmung vom 3. März 2013](http://www.admin.ch/ch/d/pore/va/20130303/index.html), mit Wirkung seit 1. Mai 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 6, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Fakultatives Referendum
 
@@ -272,8 +272,8 @@ Wenn 1500 Stimmberechtigte oder ein Zehntel der Gemeinden es verlangen, werden d
 
 <sup>3</sup> Das Gesetz regelt die Einstellung im Amt und die Amtsenthebung von Mitgliedern von Behörden und Gerichten.[^21-2]
 
-[^21-1]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
-[^21-2]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^21-1]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^21-2]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Unvereinbarkeiten
 
@@ -317,7 +317,7 @@ Behörden und Gerichte informieren die Öffentlichkeit regelmässig über ihre T
 
 <sup>2</sup> Das Gesetz kann Ausnahmen sowie eine Billigkeitshaftung für Schädigungen durch rechtmässiges Handeln vorsehen.
 
-[^26-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^26-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### 2. Der Grosse Rat
 
@@ -329,15 +329,16 @@ Behörden und Gerichte informieren die Öffentlichkeit regelmässig über ihre T
 
 <sup>1</sup> Der Grosse Rat besteht aus 120 Mitgliedern.
 
-<sup>2</sup> Die Wahl erfolgt nach dem Mehrheitswahlverfahren.
+<sup>2</sup> Die Wahl erfolgt nach dem Verhältniswahlverfahren. Das Gesetz kann Mindestquoren und eine Majorzbedingung vorsehen.[^27-1]
 
-<sup>3</sup> Der Kanton ist in höchstens 39 Wahlkreise eingeteilt. Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Wahlkreisen sowie die Auswirkungen von Gemeindezusammenschlüssen auf die Anzahl der Wahlkreise.[^27-1]
+<sup>3</sup> Der Kanton ist in höchstens 39 Wahlkreise eingeteilt. Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Wahlkreisen sowie die Auswirkungen von Gemeindezusammenschlüssen auf die Anzahl der Wahlkreise.[^27-2]
 
 <sup>4</sup> Die Sitze werden entsprechend der schweizerischen Wohnbevölkerung auf die Wahlkreise verteilt.
 
 <sup>5</sup> Das Gesetz regelt die Stellvertretung.
 
-[^27-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^27-1]: Angenommen in der [Volksabstimmung vom 13. Juni 2021](http://www.admin.ch/ch/d/pore/va/20210613/index.html), in Kraft seit 1. Okt. 2021. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^27-2]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Stellung der Ratsmitglieder
 
@@ -420,7 +421,7 @@ Wichtige Bestimmungen sind insbesondere jene, für welche die Verfassung das Ges
 
 <sup>3</sup> Er beschliesst abschliessend über neue einmalige Ausgaben bis zu einer Million Franken und über neue jährlich wiederkehrende Ausgaben bis 300 000 Franken.
 
-[^35-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2004](http://www.admin.ch/ch/d/pore/va/20040926/index.html), in Kraft seit 1. Jan. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 5 [2891](https://fedlex.data.admin.ch/eli/fga/2005/452))
+[^35-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2004](http://www.admin.ch/ch/d/pore/va/20040926/index.html), in Kraft seit 1. Jan. 2005. Gewährleistungsbeschluss vom 6. Okt. 2005 ([BBl 2005 5995](https://fedlex.data.admin.ch/eli/fga/2005/963)Art. 1 Ziff. 5, [2891](https://fedlex.data.admin.ch/eli/fga/2005/452))
 
 ### Wahlen
 
@@ -561,7 +562,7 @@ Weitere Aufgaben der Regierung sind insbesondere:
 
 <sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können selbstständige Anstalten des kantonalen öffentlichen Rechts Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.[^50-1]
 
-[^50-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^50-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### 4. Gerichte
 
@@ -589,7 +590,7 @@ Weitere Aufgaben der Regierung sind insbesondere:
 
 <sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können das Kantons- und das Verwaltungsgericht auf dem Gebiet der Justizverwaltung und -aufsicht Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.
 
-[^51a-1]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^51a-1]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Justizaufsicht
 
@@ -617,8 +618,8 @@ Die Zivil- und die Strafgerichtsbarkeit werden ausgeübt durch:
 - 2\.[^54-1] die Regionalgerichte als untere kantonale Gerichte;
 - 3\.[^54-2] …
 
-[^54-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^54-2]: Aufgehoben in der [Volksabstimmung vom 17. Mai 2009](http://www.admin.ch/ch/d/pore/va/20090517/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 5 [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
+[^54-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^54-2]: Aufgehoben in der [Volksabstimmung vom 17. Mai 2009](http://www.admin.ch/ch/d/pore/va/20090517/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 8. Juni 2010 ([BBl 2010 4365](https://fedlex.data.admin.ch/eli/fga/2010/748)Art. 1 Ziff. 5, [2153](https://fedlex.data.admin.ch/eli/fga/2010/378)).
 
 ### Verfassungs- und Verwaltungsgerichtsbarkeit
 
@@ -635,8 +636,8 @@ Das Verwaltungsgericht beurteilt als Verfassungsgericht:
 
 <sup>3</sup> Im verfassungsgerichtlichen Verfahren können Gesetze und Verordnungen sowohl unmittelbar angefochten als auch im Anwendungsfall überprüft werden.
 
-[^55-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^55-2]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^55-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^55-2]: Angenommen in der [Volksabstimmung vom 26. Nov. 2006](http://www.admin.ch/ch/d/pore/va/20061126/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 8; [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Weitere richterliche sowie aussergerichtliche Behörden
 
@@ -746,11 +747,11 @@ Die obligatorischen Organe der politischen Gemeinden sind:
 
 <sup>3</sup> Bei schwerwiegenden Missständen kann eine Gemeinde unter Kuratel gestellt werden.
 
-### 2. Regionen****
+### 2. Regionen
 
 [^lvlV-lvl2-1]
 
-[^lvlV-lvl2-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^lvlV-lvl2-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### A. Einteilung des Kantonsgebietes
 
@@ -778,13 +779,13 @@ Der Kanton ist in folgende Regionen gegliedert:
 
 <sup>2</sup> Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Regionen.
 
-[^68-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^68-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 #### Art. 69
 
 [^69-1]
 
-[^69-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^69-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### B. Rechtsstellung und Aufgaben
 
@@ -792,7 +793,7 @@ Der Kanton ist in folgende Regionen gegliedert:
 
 [^70-1]
 
-[^70-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^70-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Regionen
 
@@ -806,13 +807,13 @@ Der Kanton ist in folgende Regionen gegliedert:
 
 <sup>3</sup> Die Regionen bilden die Gerichtssprengel für die Regionalgerichte.
 
-[^71-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^71-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 #### Art. 72
 
 [^72-1]
 
-[^72-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^72-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### C. Organisation und Aufsicht
 
@@ -820,7 +821,7 @@ Der Kanton ist in folgende Regionen gegliedert:
 
 [^73-1]
 
-[^73-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^73-1]: Aufgehoben durch die [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Jan. 2017. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Aufsicht
 
@@ -832,7 +833,7 @@ Der Kanton ist in folgende Regionen gegliedert:
 
 <sup>2</sup> Im Bereich von Aufgaben, die den Regionen von den Gemeinden übertragen worden sind, beschränkt sich die Aufsicht auf die Rechtskontrolle, soweit nicht durch Gesetz etwas anderes bestimmt wird.
 
-[^74-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^74-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ## VI. Öffentliche Aufgaben
 
@@ -858,7 +859,7 @@ Der Kanton ist in folgende Regionen gegliedert:
 
 <sup>2</sup> Kanton, Regionen und Gemeinden wirken bei der Erfüllung öffentlicher Aufgaben zusammen. Die Zusammenarbeit mit Privaten ist soweit als möglich anzustreben.[^76-1]
 
-[^76-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4 [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^76-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2015. Gewährleistungsbeschluss vom 23. Sept. 2013 ([BBl 2013 7827](https://fedlex.data.admin.ch/eli/fga/2013/1482)Art. 1 Ziff. 4, [3931](https://fedlex.data.admin.ch/eli/fga/2013/855)).
 
 ### Dezentrale Aufgabenerfüllung
 
@@ -928,7 +929,7 @@ Kanton und Gemeinden streben eine zweckmässige, haushälterische, koordinierte 
 
 Der Kanton beteiligt sich nicht an Unternehmen, welche Investitionen in Kohlekraftwerke tätigen. Im Rahmen seiner rechtlichen und politischen Möglichkeiten sorgt er dafür, dass Unternehmen mit Beteiligung des Kantons auf Investitionen in Kohlekraftwerke verzichten.
 
-[^83a-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 1. Nov. 2016. Gewährleistungsbeschluss vom 27. Sept. 2016 ([BBl 2016 7899](https://fedlex.data.admin.ch/eli/fga/2016/1680)Art. 3 [3705](https://fedlex.data.admin.ch/eli/fga/2016/711)).
+[^83a-1]: Angenommen in der [Volksabstimmung vom 14. Juni 2015](http://www.admin.ch/ch/d/pore/va/20150614/index.html), in Kraft seit 1. Nov. 2016. Gewährleistungsbeschluss vom 27. Sept. 2016 ([BBl 2016 7899](https://fedlex.data.admin.ch/eli/fga/2016/1680)Art. 3, [3705](https://fedlex.data.admin.ch/eli/fga/2016/711)).
 
 ### 4. Wirtschaft
 
@@ -944,7 +945,7 @@ Der Kanton beteiligt sich nicht an Unternehmen, welche Investitionen in Kohlekra
 
 <sup>4</sup> Sie treffen Massnahmen, um die Regelungsdichte und administrative Belastung für Unternehmen, insbesondere für kleine und mittlere Unternehmen (KMU), so gering wie möglich zu halten.[^84-1]
 
-[^84-1]: Angenommen in der Volksabstimmung vom 29. Jan. 2012, in Kraft seit 29. Jan. 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 4, **2012** 195).
+[^84-1]: Angenommen in der Volksabstimmung vom 29. Jan. 2012, in Kraft seit 29. Jan. 2012. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 4; **2012** 195).
 
 ### Regale und Monopole
 
@@ -1225,7 +1226,7 @@ Die Mitglieder der Behörden und Gerichte bleiben unter Vorbehalt der folgenden 
 
 Die Zahlen verweisen auf die Artikel und Artikelteile der Verfassung
 
-**<sup>Abstimmungen</sup>** <sup>s. Volksabsti</sup><sup>m</sup><sup>mungen</sup>
+**<sup>Abstimmungen</sup>** <sup>s. Volksabstimmungen</sup>
 
 Alter
 
@@ -1551,7 +1552,7 @@ Gerichte
 - – Aufsicht 83
 - – Versorgung 82
 
-**Gleichste****l****lung**
+**Gleichstellung**
 
 - – Benachteiligte wegen einer Behinderung oder einer Krankheit 86
 - – Chancengleichheit 75
@@ -1594,7 +1595,7 @@ Gerichte
 - – Unvereinbarkeiten 22
 - – Verteilung der Sitze 27
 - – Wahl des Grossen Rates 11
-- – Wahl durch Grossen Rat 36, 40
+- – Wahl durch den Grossen Rat 36, 40
 - – Wählbarkeit 21
 - – Zusammensetzung 27
 
@@ -1720,6 +1721,8 @@ Kultur 89, 90
 - – der Regierung 39
 - – der Ständeräte 57
 - – des Grossen Rates 27
+
+Mindestquoren 27<sup>2</sup>
 
 Monopole 85
 
@@ -1943,9 +1946,13 @@ Verfassung
 - – Verfassungsgerichtsbarkeit 55<sup>2</sup>
 - – Volksinitiative 12
 
+**Verhältniswahl**
+
+- – des Grossen Rates 27
+
 Verkehr. Öffentlicher 82
 
-**Verordnungen oder Beschlü****s****se ohne gesetzliche Grundlage** 48
+**Verordnungen oder Beschlüsse ohne gesetzliche Grundlage** 48
 
 Verträge
 
