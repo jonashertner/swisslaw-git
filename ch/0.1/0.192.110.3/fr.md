@@ -3,37 +3,36 @@ sr: "0.192.110.3"
 title: "Accord général du 2 septembre 1949 sur les privilèges et immunités du Conseil de l'Europe"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/779_805_797"
 language: fr
-version: 2012-08-10
+version: 2022-03-16
 adopted: 1949-09-02
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/779_805_797/20120810/fr/xml/fedlex-data-admin-ch-eli-cc-1966-779_805_797-20120810-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/779_805_797/20120810/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/779_805_797/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-1966-779_805_797-20220316-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/779_805_797/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Accord général sur les privilèges et immunités du Conseil de l’Europe
 
-**Nicht löschen bitte "****[^t-1]** **" !!**
+RO **1966** 805; FF **1965** I 445
 
 Texte original
 
-Conclu à Paris le 2 septembre 1949 Approuvé par l’Assemblée fédérale le 20 septembre 1965[^t-2] Instrument d’adhésion déposé par la Suisse le 29 novembre 1965 Entré en vigueur pour la Suisse le 29 novembre 1965
+Conclu à Paris le 2 septembre 1949 Approuvé par l’Assemblée fédérale le 20 septembre 1965[^t-1] Instrument d’adhésion déposé par la Suisse le 29 novembre 1965 Entré en vigueur pour la Suisse le 29 novembre 1965
 
-(Etat le 10 août 2012)
+(Etat le 16 mars 2022)
 
-[^t-1]: [RO 1966 805](https://fedlex.data.admin.ch/eli/oc/1966/779_805_797); [FF 1965 I 445](https://fedlex.data.admin.ch/eli/fga/1965/1_437_445_381)
-[^t-2]: [RO 1966 803](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
+[^t-1]: [RO 1966 803](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
 
-Les Gouvernements du Royaume de Belgique, du Royaume de Danemark, de la République Française, du Royaume de Grèce, de la République Irlandaise, de la République Italienne, du Grand‑Duché de Luxembourg, du Royaume des Pays‑Bas, du Royaume de Norvège, du Royaume de Suède, de la République Turque et du Royaume Uni de Grande‑Bretagne et d’Irlande du Nord;
+Les Gouvernements du Royaume de Belgique, du Royaume de Danemark, de la République Française, du Royaume de Grèce, de la République Irlandaise, de la République Italienne, du Grand‑Duché de Luxembourg, du Royaume des Pays‑Bas, du Royaume de Norvège, du Royaume de Suède, de la République Turque et du Royaume Uni de Grande‑Bretagne et d’Irlande du Nord,
 
-Considérant qu’aux termes de l’art. 40, par. a du Statut du Conseil de l’Europe[^ingress-1] le Conseil de l’Europe, les représentants des Membres et le Secrétariat jouissent sur les territoires des Membres des immunités et privilèges nécessaires à l’exercice de leurs fonctions;
+considérant qu’aux termes de l’art. 40, par. a du Statut du Conseil de l’Europe[^ingress-1] le Conseil de l’Europe, les représentants des Membres et le Secrétariat jouissent sur les territoires des Membres des immunités et privilèges nécessaires à l’exercice de leurs fonctions,
 
-Considérant qu’aux termes du par. b de l’article précité, les Membres du Conseil se sont engagés à conclure un Accord en vue de donner plein effet aux dispositions dudit paragraphe;
+considérant qu’aux termes du par. b de l’article précité, les Membres du Conseil se sont engagés à conclure un Accord en vue de donner plein effet aux dispositions dudit paragraphe,
 
-Considérant que le Comité des Ministres a décidé de recommander aux gouvernements des Membres l’adoption des dispositions ci‑dessous;
+considérant que le Comité des Ministres a décidé de recommander aux gouvernements des Membres l’adoption des dispositions ci‑dessous,
 
-Sont convenus de ce qui suit:
+sont convenus de ce qui suit:
 
 [^ingress-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
 
@@ -110,7 +109,7 @@ Les privilèges et immunités sont accordés aux représentants des Membres, non
 
 #### Art. 12
 
-a. Les dispositions des art. 9, 10 et 11 ci‑dessus ne sont pas opposables aux autorités de l’Etat dont la personne est ressortissante ou dont elle est ou a été le représentant;
+a. Les dispositions des art. 9, 10 et 11 ci‑dessus ne sont pas opposables aux autorités de l’État dont la personne est ressortissante ou dont elle est ou a été le représentant;
 
 b. Au sens des art. 9, 10, Il et 12a ci‑dessus 1 le terme «représentant» est considéré comme comprenant tous les représentants, délégués adjoints, conseillers, experts techniques et secrétaires de délégation.
 
@@ -136,7 +135,7 @@ L’immunité les couvre également lorsqu’ils se rendent au lieu de réunion 
 Pendant la durée des sessions de l’Assemblée Consultative, les représentants à l’Assemblée et leurs suppléants, qu’ils soient parlementaires ou non, bénéficient:
 
 - a. Sur leur territoire national, des immunités reconnues aux membres du Parlement de leurs pays;
-- b. Sur le territoire de tout autre Etat membre, de l’exemption de toutes mesures de détention et de toute poursuite judiciaire.
+- b. Sur le territoire de tout autre État membre, de l’exemption de toutes mesures de détention et de toute poursuite judiciaire.
 
 ## Titre VI Agents du Conseil
 
@@ -161,7 +160,7 @@ Les agents du Conseil de l’Europe:
 
 #### Art. 19
 
-Les privilèges, immunités et facilités sont accordés aux agents dans l’intérêt du Conseil et non à leur avantage personnel. Le Secrétaire Général peut et doit lever l’immunité accordée à un agent dans tous les cas où, à son avis, cette immunité empêcherait l’exercice normal d’une action de justice et pourrait être levée sans que cette mesure portât préjudice aux intérêts du Conseil. A l’égard du Secrétaire Général et du Secrétaire Général adjoint, le Comité des Ministres a qualité pour prononcer la levée des immunités.
+Les privilèges, immunités et facilités sont accordés aux agents dans l’intérêt du Conseil et non à leur avantage personnel. Le Secrétaire Général peut et doit lever l’immunité accordée à un agent dans tous les cas où, à son avis, cette immunité empêcherait l’exercice normal d’une action de justice et pourrait être levée sans que cette mesure portât préjudice aux intérêts du Conseil. À l’égard du Secrétaire Général et du Secrétaire Général adjoint, le Comité des Ministres a qualité pour prononcer la levée des immunités.
 
 ## Titre VII Accords complémentaires
 
@@ -185,10 +184,10 @@ Toutefois, en attendant l’entrée en vigueur de l’Accord dans les conditions
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés à cet effet, ont signé le présent Accord Général. Fait à Paris, le 2 septembre 1949, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui restera aux archives du Conseil de l’Europe. Le Secrétaire Général en communiquera la copie certifiée conforme à tous les signataires. (Suivent les signatures)
 
-Champ d’application le 10 août 2012**[^t-3]**
+Champ d’application le 16 mars 2022**[^t-2]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>4 juin</td><td>1998 A</td><td>4 juin</td><td>1998</td></tr>
 <tr><td>Allemagne</td><td>10 septembre</td><td>1954 A</td><td>11 juillet</td><td>1956</td></tr>
 <tr><td>Andorre</td><td>24 novembre</td><td>1998 A</td><td>24 novembre</td><td>1998</td></tr>
@@ -205,8 +204,8 @@ Champ d’application le 10 août 2012**[^t-3]**
 <tr><td>Estonie</td><td>11 janvier</td><td>1995 A</td><td>11 janvier</td><td>1995</td></tr>
 <tr><td>Finlande</td><td>16 novembre</td><td>1989 A</td><td>16 novembre</td><td>1989</td></tr>
 <tr><td>France</td><td>10 mars</td><td>1978</td><td>10 mars</td><td>1978</td></tr>
-<tr><td>Grèce</td><td>17 novembre</td><td>1953</td><td>17 novembre</td><td>1953</td></tr>
 <tr><td>Géorgie</td><td>25 mai</td><td>2000 A</td><td>25 mai</td><td>2000</td></tr>
+<tr><td>Grèce</td><td>17 novembre</td><td>1953</td><td>17 novembre</td><td>1953</td></tr>
 <tr><td>Hongrie</td><td>6 novembre</td><td>1990 A</td><td>6 novembre</td><td>1990</td></tr>
 <tr><td>Irlande</td><td>21 septembre</td><td>1967</td><td>21 septembre</td><td>1967</td></tr>
 <tr><td>Islande</td><td>11 mars</td><td>1955 A</td><td>11 juillet</td><td>1956</td></tr>
@@ -215,7 +214,7 @@ Champ d’application le 10 août 2012**[^t-3]**
 <tr><td>Liechtenstein</td><td>16 mai</td><td>1979 A</td><td>16 mai</td><td>1979</td></tr>
 <tr><td>Lituanie</td><td>22 juillet</td><td>1998 A</td><td>22 juillet</td><td>1998</td></tr>
 <tr><td>Luxembourg</td><td>10 septembre</td><td>1952</td><td>10 septembre</td><td>1952</td></tr>
-<tr><td>Macédoine</td><td>10 avril</td><td>1997 A</td><td>10 avril</td><td>1997</td></tr>
+<tr><td>Macédoine du Nord</td><td>10 avril</td><td>1997 A</td><td>10 avril</td><td>1997</td></tr>
 <tr><td>Malte</td><td>22 janvier</td><td>1969 A</td><td>22 janvier</td><td>1969</td></tr>
 <tr><td>Moldova</td><td>2 octobre</td><td>1997 A</td><td>2 octobre</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>30 novembre</td><td>2005 A</td><td>30 novembre</td><td>2005</td></tr>
@@ -227,7 +226,6 @@ Champ d’application le 10 août 2012**[^t-3]**
 <tr><td>République tchèque</td><td>28 avril</td><td>1995 A</td><td>28 avril</td><td>1995</td></tr>
 <tr><td>Roumanie</td><td>4 octobre</td><td>1994 A</td><td>4 octobre</td><td>1994</td></tr>
 <tr><td>Royaume-Uni</td><td>25 septembre</td><td>1950</td><td>10 septembre</td><td>1952</td></tr>
-<tr><td>Russie</td><td>28 février</td><td>1996 A</td><td>28 février</td><td>1996</td></tr>
 <tr><td>Saint-Marin</td><td>22 mars</td><td>1989 A</td><td>22 mars</td><td>1989</td></tr>
 <tr><td>Serbie</td><td>26 avril</td><td>2005 A</td><td>26 avril</td><td>2005</td></tr>
 <tr><td>Slovaquie</td><td>5 décembre</td><td>1996 A</td><td>5 décembre</td><td>1996</td></tr>
@@ -238,4 +236,4 @@ Champ d’application le 10 août 2012**[^t-3]**
 <tr><td>Ukraine</td><td>6 novembre</td><td>1996 A</td><td>6 novembre</td><td>1996</td></tr>
 </table>
 
-[^t-3]: [RO 1966 805](https://fedlex.data.admin.ch/eli/oc/1966/779_805_797), [1968 1566](https://fedlex.data.admin.ch/eli/oc/1968/1518_1566_1486), [1971 1344](https://fedlex.data.admin.ch/eli/oc/1971/1349_1344_1344), [1982 1935](https://fedlex.data.admin.ch/eli/oc/1982/1935_1935_1935), [1990 533](https://fedlex.data.admin.ch/eli/oc/1990/533_533_533), [1994 1085](https://fedlex.data.admin.ch/eli/oc/1994/1085_1085_1085), [2004 1125](https://fedlex.data.admin.ch/eli/oc/2004/128), [2006 3253](https://fedlex.data.admin.ch/eli/oc/2006/494)et **2012** 4495. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1966 805](https://fedlex.data.admin.ch/eli/oc/1966/779_805_797); [1968 1566](https://fedlex.data.admin.ch/eli/oc/1968/1518_1566_1486); [1971 1344](https://fedlex.data.admin.ch/eli/oc/1971/1349_1344_1344); [1982 1935](https://fedlex.data.admin.ch/eli/oc/1982/1935_1935_1935); [1990 533](https://fedlex.data.admin.ch/eli/oc/1990/533_533_533); [1994 1085](https://fedlex.data.admin.ch/eli/oc/1994/1085_1085_1085); [2004 1125](https://fedlex.data.admin.ch/eli/oc/2004/128); [2006 3253](https://fedlex.data.admin.ch/eli/oc/2006/494); [2012 4495](https://fedlex.data.admin.ch/eli/oc/2012/529); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.

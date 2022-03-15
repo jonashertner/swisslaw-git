@@ -3,11 +3,11 @@ sr: "0.192.110.3"
 title: "Accordo generale del 2 settembre 1949 concernente i privilegi e le immunità del Consiglio d'Europa"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/779_805_797"
 language: it
-version: 2012-08-10
+version: 2022-03-16
 adopted: 1949-09-02
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/779_805_797/20120810/it/xml/fedlex-data-admin-ch-eli-cc-1966-779_805_797-20120810-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/779_805_797/20120810/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/779_805_797/20220316/it/xml/fedlex-data-admin-ch-eli-cc-1966-779_805_797-20220316-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/779_805_797/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/779_805_797/20120810/it"
 
 Traduzione
 
-Conchiuso a Parigi il 2 settembre 1949
+Conchiuso a Parigi il 2 settembre 1949 Approvato dall’Assemblea federale il 20 settembre 1965[^t-1] Istrumento d’adesione depositato dalla Svizzera il 29 novembre 1965 Entrato in vigore per la Svizzera il 29 novembre 1965
 
-Approvato dall’Assemblea federale il 20 settembre 1965[^t-1]
-
-Istrumento d’adesione depositato dalla Svizzera il 29 novembre 1965
-
-Entrato in vigore per la Svizzera il 29 novembre 1965
-
-(Stato 10 agosto 2012)
+(Stato 16 marzo 2022)
 
 [^t-1]: RU **1966** 797 RU **1966** 795
 
@@ -188,7 +182,7 @@ Tuttavia, nell’attesa dell’entrata in vigore dell’Accordo secondo le condi
 
 *In fede di che,* i plenipotenziari sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Accordo Generale. Fatto a Parigi, il 2 settembre 1949, nelle lingue francese e inglese, i cui testi fanno egualmente fede, in un solo esemplare, che sarà depositato nell’archivio del Consiglio d’Europa. Il Segretario Generale ne comunicherà copia, certificata conforme, a tutti i governi firmatari. (Seguono le firme)
 
-Campo d’applicazione il 10 agosto 2012**[^t-2]**
+Campo d’applicazione il 16 marzo 2022**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -217,7 +211,7 @@ Campo d’applicazione il 10 agosto 2012**[^t-2]**
 <tr><td>Liechtenstein</td><td>16 maggio</td><td>1979 A</td><td>16 maggio</td><td>1979</td></tr>
 <tr><td>Lituania</td><td>22 luglio</td><td>1998 A</td><td>22 luglio</td><td>1998</td></tr>
 <tr><td>Lussemburgo</td><td>10 settembre</td><td>1952</td><td>10 settembre</td><td>1952</td></tr>
-<tr><td>Macedonia</td><td>10 aprile</td><td>1997 A</td><td>10 aprile</td><td>1997</td></tr>
+<tr><td>Macedonia del Nord</td><td>10 aprile</td><td>1997 A</td><td>10 aprile</td><td>1997</td></tr>
 <tr><td>Malta</td><td>22 gennaio</td><td>1969 A</td><td>22 gennaio</td><td>1969</td></tr>
 <tr><td>Moldova</td><td>2 ottobre</td><td>1997 A</td><td>2 ottobre</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>30 novembre</td><td>2005 A</td><td>30 novembre</td><td>2005</td></tr>
@@ -228,7 +222,6 @@ Campo d’applicazione il 10 agosto 2012**[^t-2]**
 <tr><td>Portogallo</td><td>6 luglio</td><td>1982 A</td><td>6 luglio</td><td>1982</td></tr>
 <tr><td>Regno Unito</td><td>25 settembre</td><td>1950</td><td>10 settembre</td><td>1952</td></tr>
 <tr><td>Romania</td><td>4 ottobre</td><td>1994 A</td><td>4 ottobre</td><td>1994</td></tr>
-<tr><td>Russia</td><td>28 febbraio</td><td>1996 A</td><td>28 febbraio</td><td>1996</td></tr>
 <tr><td>San Marino</td><td>22 marzo</td><td>1989 A</td><td>22 marzo</td><td>1989</td></tr>
 <tr><td>Serbia</td><td>26 aprile</td><td>2005 A</td><td>26 aprile</td><td>2005</td></tr>
 <tr><td>Slovacchia</td><td>5 dicembre</td><td>1996 A</td><td>5 dicembre</td><td>1996</td></tr>
@@ -241,4 +234,4 @@ Campo d’applicazione il 10 agosto 2012**[^t-2]**
 <tr><td>Ungheria</td><td>6 novembre</td><td>1990 A</td><td>6 novembre</td><td>1990</td></tr>
 </table>
 
-[^t-2]: [RU 1966 797](https://fedlex.data.admin.ch/eli/oc/1966/779_805_797), [1968 1486](https://fedlex.data.admin.ch/eli/oc/1968/1518_1566_1486), [1971 1344](https://fedlex.data.admin.ch/eli/oc/1971/1349_1344_1344), [1982 1935](https://fedlex.data.admin.ch/eli/oc/1982/1935_1935_1935), [1990 533](https://fedlex.data.admin.ch/eli/oc/1990/533_533_533), [1994 1085](https://fedlex.data.admin.ch/eli/oc/1994/1085_1085_1085), [2004 1125](https://fedlex.data.admin.ch/eli/oc/2004/128)e [2006 3253](https://fedlex.data.admin.ch/eli/oc/2006/494)e [2012 4495](https://fedlex.data.admin.ch/eli/oc/2012/529). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1966 797](https://fedlex.data.admin.ch/eli/oc/1966/779_805_797), [1968 1486](https://fedlex.data.admin.ch/eli/oc/1968/1518_1566_1486), [1971 1344](https://fedlex.data.admin.ch/eli/oc/1971/1349_1344_1344), [1982 1935](https://fedlex.data.admin.ch/eli/oc/1982/1935_1935_1935), [1990 533](https://fedlex.data.admin.ch/eli/oc/1990/533_533_533), [1994 1085](https://fedlex.data.admin.ch/eli/oc/1994/1085_1085_1085), [2004 1125](https://fedlex.data.admin.ch/eli/oc/2004/128), [2006 3253](https://fedlex.data.admin.ch/eli/oc/2006/494), [2012 4495](https://fedlex.data.admin.ch/eli/oc/2012/529), [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
