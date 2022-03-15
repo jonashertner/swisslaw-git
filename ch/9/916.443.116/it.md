@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 3 dicembre 2021 che istituisce misure destinate a evitare lʼulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/804"
 language: it
-version: 2022-02-26
+version: 2022-03-16
 adopted: 2021-12-03
 in_force: 2021-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20220226/it/xml/fedlex-data-admin-ch-eli-cc-2021-804-20220226-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20220226/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2021-804-20220316-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare lʼulteriore diffusione dell’influenza aviaria
 
-del 3 dicembre 2021 (Stato 26 febbraio 2022) (Stato 26 febbraio 2022)
+del 3 dicembre 2021 (Stato 16 marzo 2022) (Stato 16 marzo 2022)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -144,7 +144,10 @@ L’ordinanza dell’USAV del 26 novembre 2021[^9-1] che istituisce misure desti
 
 <sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 15 marzo 2022.[^10-1]
 
+<sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 31 marzo 2022.[^10-2]
+
 [^10-1]: Introdotto dal n. I dell’O dell’USAV del 27 gen. 2022, in vigore dal 29 gen. 2022 ([RU 2022 47](https://fedlex.data.admin.ch/eli/oc/2022/47)).
+[^10-2]: Introdotto dal n. I dell’O dell’USAV del 15 mar. 2022, in vigore dal 16 mar. 2022 ([RU 2022 170](https://fedlex.data.admin.ch/eli/oc/2022/170)).
 
 Allegato 1*[^t-1]*
 

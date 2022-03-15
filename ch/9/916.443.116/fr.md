@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 3 décembre 2021 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/804"
 language: fr
-version: 2022-02-26
+version: 2022-03-16
 adopted: 2021-12-03
 in_force: 2021-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20220226/fr/xml/fedlex-data-admin-ch-eli-cc-2021-804-20220226-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20220226/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/804/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2021-804-20220316-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/804/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 3 décembre 2021 (Etat le 26 février 2022)
+du 3 décembre 2021 (Etat le 16 mars 2022)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -144,7 +144,10 @@ L’ordonnance de l’OSAV du 26 novembre 2021 instituant des mesures destinées
 
 <sup>3</sup> La durée de validité de la présente ordonnance et prolongée jusqu’au 15 mars 2022.[^10-1]
 
+<sup>4</sup> La durée de validité de la présente ordonnance et prolongée jusqu’au 31 mars 2022.[^10-2]
+
 [^10-1]: Introduit par le ch. I de l’O de l’OSAV du 27 janv. 2022, en vigueur depuis le 29 janv. 2022 ([RO 2022 47](https://fedlex.data.admin.ch/eli/oc/2022/47)).
+[^10-2]: Introduit par le ch. I de l’O de l’OSAV du 15 mars 2022, en vigueur depuis le 16 mars 2022 ([RO 2022 170](https://fedlex.data.admin.ch/eli/oc/2022/170)).
 
 Annexe 1*[^t-1]*
 
