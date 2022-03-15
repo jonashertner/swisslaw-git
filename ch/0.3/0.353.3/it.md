@@ -3,11 +3,11 @@ sr: "0.353.3"
 title: Convenzione europea del 27 gennaio 1977 per la repressione del terrorismo
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041"
 language: it
-version: 2019-06-14
+version: 2022-03-16
 adopted: 1977-01-27
 in_force: 1983-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20190614/it/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20190614-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20190614/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20220316/it/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20220316-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1983** 1041; FF **1982** II 1
 
 Traduzione
 
-Conclusa a Strasburgo il 27 gennaio 1977
+Conclusa a Strasburgo il 27 gennaio 1977 Approvata dall’Assemblea federale il 14 dicembre 1982[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 19 maggio 1983 Entrata in vigore per la Svizzera il 20 agosto 1983
 
-Approvata dall’Assemblea federale il 14 dicembre 1982[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 19 maggio 1983
-
-Entrata in vigore per la Svizzera il 20 agosto 1983
-
-(Stato 14 giugno 2019)
+(Stato 16 marzo 2022)
 
 [^t-1]: [RU 1983 1040](https://fedlex.data.admin.ch/eli/oc/1983/1040_1040_1040)
 
@@ -165,7 +159,7 @@ Il Segretario generale del Consiglio d’Europa notificherà agli Stati Membri d
 
 *In fede di che,* i sottoscritti, a ciò debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Strasburgo, questo 27° giorno di gennaio 1977, nelle lingue inglese e francese, entrambi i testi facenti egualmente fede, in un’unica copia che resterà depositata presso gli Archivi del Consiglio d’Europa. Il Segretario generale del Consiglio d’Europa ne trasmetterà copia autenticata a ciascuno Stato firmatario. *(Seguono le firme)*
 
-Campo d’applicazione il 14 giugno 2019**[^t-2]**
+Campo d’applicazione il 16 marzo 2022**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -210,7 +204,6 @@ Campo d’applicazione il 14 giugno 2019**[^t-2]**
 <tr><td>Isola di Man</td><td>24 luglio</td><td>1978</td><td>25 ottobre</td><td>1978</td></tr>
 <tr><td>Jersey</td><td>24 luglio</td><td>1978</td><td>25 ottobre</td><td>1978</td></tr>
 <tr><td>Romania</td><td>2 maggio</td><td>1997</td><td>3 agosto</td><td>1997</td></tr>
-<tr><td>Russia<sup>\*</sup></td><td>4 novembre</td><td>2000</td><td>5 febbraio</td><td>2001</td></tr>
 <tr><td>San Marino<sup>\*</sup></td><td>17 aprile</td><td>2002</td><td>18 luglio</td><td>2002</td></tr>
 <tr><td>Serbia<sup>\*</sup></td><td>15 maggio</td><td>2003</td><td>16 agosto</td><td>2003</td></tr>
 <tr><td>Slovacchia <sup>a</sup></td><td>15 aprile</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
@@ -221,11 +214,11 @@ Campo d’applicazione il 14 giugno 2019**[^t-2]**
 <tr><td>Turchia</td><td>19 maggio</td><td>1981</td><td>20 agosto</td><td>1981</td></tr>
 <tr><td>Ucraina</td><td>13 marzo</td><td>2002</td><td>14 giugno</td><td>2002</td></tr>
 <tr><td>Ucraina\*</td><td>13 marzo</td><td>2002</td><td>14 giugno</td><td>2002</td></tr>
-<tr><td colspan="6"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="6"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="6"><sup>a</sup> Data del deposito dello strumento di ratificazione della Repubblica federativa ceca e slovacca.</td></tr>
 <tr><td colspan="5">[tab]</td></tr>
 </table>
 
 - [tab]
 
-[^t-2]: [RU 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041), [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488), [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474), [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775), [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166), [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156), [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501), [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642), [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106), [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176)e [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041), [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488), [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474), [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775), [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166), [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156), [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501), [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642), [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106), [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176), [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361), [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).

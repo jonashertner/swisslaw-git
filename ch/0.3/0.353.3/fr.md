@@ -3,11 +3,11 @@ sr: "0.353.3"
 title: Convention européenne du 27 janvier 1977 pour la répression du terrorisme
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041"
 language: fr
-version: 2019-06-14
+version: 2022-03-16
 adopted: 1977-01-27
 in_force: 1983-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20190614/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20190614-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20190614/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20220316-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,17 +26,17 @@ Instrument de ratification déposé par la Suisse le 19 mai 1983
 
 Entrée en vigueur pour la Suisse le 20 août 1983
 
-(Etat le 14 juin 2019)
+(Etat le 16 mars 2022)
 
 [^t-1]: [RO 1983 1040](https://fedlex.data.admin.ch/eli/oc/1983/1040_1040_1040)
 
-Les Etats membres du Conseil de l’Europe, signataires de la présente Convention,
+Les États membres du Conseil de l’Europe, signataires de la présente Convention,
 
-considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres;
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres,
 
-conscients de l’inquiétude croissante causée par la multiplication des actes de terrorisme;
+conscients de l’inquiétude croissante causée par la multiplication des actes de terrorisme,
 
-souhaitant que des mesures efficaces soient prises pour que les auteurs de tels actes n’échappent pas à la poursuite et au châtiment;
+souhaitant que des mesures efficaces soient prises pour que les auteurs de tels actes n’échappent pas à la poursuite et au châtiment,
 
 convaincus que l’extradition est un moyen particulièrement efficace de parvenir à ce résultat,
 
@@ -44,7 +44,7 @@ sont convenus de ce qui suit:
 
 #### Art. 1
 
-Pour les besoins de l’extradition entre Etats Contractants, aucune des infractions mentionnées ci‑après ne sera considérée comme une infraction politique, comme une infraction connexe à une infraction politique ou comme une infraction inspirée par des mobiles politiques:
+Pour les besoins de l’extradition entre États Contractants, aucune des infractions mentionnées ci‑après ne sera considérée comme une infraction politique, comme une infraction connexe à une infraction politique ou comme une infraction inspirée par des mobiles politiques:
 
 - a. les infractions comprises dans le champ d’application de la Convention pour la répression de la capture illicite d’aéronefs, signée à La Haye le 16 décembre 1970[^1-1];
 - b. les infractions comprises dans le champ d’application de la Convention pour la répression d’actes illicites dirigés contre la sécurité de l’aviation civile, signée à Montréal le 23 septembre 1971[^1-2],
@@ -58,7 +58,7 @@ Pour les besoins de l’extradition entre Etats Contractants, aucune des infract
 
 #### Art. 2
 
-<sup>1.</sup> Pour les besoins de l’extradition entre Etats Contractants, un Etat Contractant peut ne pas considérer comme infraction politique, comme infraction connexe à une telle infraction ou comme infraction inspirée par des mobiles politiques tout acte grave de violence qui n’est pas visé à l’article 1<sup>er</sup> et qui est dirigé contre la vie, l’intégrité corporelle ou la liberté des personnes.
+<sup>1.</sup> Pour les besoins de l’extradition entre États Contractants, un État Contractant peut ne pas considérer comme infraction politique, comme infraction connexe à une telle infraction ou comme infraction inspirée par des mobiles politiques tout acte grave de violence qui n’est pas visé à l’article 1<sup>er</sup> et qui est dirigé contre la vie, l’intégrité corporelle ou la liberté des personnes.
 
 <sup>2.</sup> Il en sera de même en ce qui concerne tout acte grave contre les biens, autre que ceux visés à l’article 1<sup>er</sup>, lorsqu’il a créé un danger collectif pour des personnes.
 
@@ -66,37 +66,37 @@ Pour les besoins de l’extradition entre Etats Contractants, aucune des infract
 
 #### Art. 3
 
-Les dispositions de tous traités et accords d’extradition applicables entre les Etats Contractants, y compris la Convention européenne d’extradition[^3-1], sont en ce qui concerne les relations entre Etats Contractants modifiées dans la mesure où elles sont incompatibles avec la présente Convention.
+Les dispositions de tous traités et accords d’extradition applicables entre les États Contractants, y compris la Convention européenne d’extradition[^3-1], sont en ce qui concerne les relations entre États Contractants modifiées dans la mesure où elles sont incompatibles avec la présente Convention.
 
 [^3-1]: [RS 0.353.1](https://fedlex.data.admin.ch/eli/cc/1967/814_854_850)
 
 #### Art. 4
 
-Pour les besoins de la présente Convention et pour autant qu’une des infractions visées aux articles 1er ou 2 ne figure pas sur la liste de cas d’extradition dans un traité ou une convention d’extradition en vigueur entre les Etats Contractants, elle est considérée comme y étant comprise.
+Pour les besoins de la présente Convention et pour autant qu’une des infractions visées aux articles 1er ou 2 ne figure pas sur la liste de cas d’extradition dans un traité ou une convention d’extradition en vigueur entre les États Contractants, elle est considérée comme y étant comprise.
 
 #### Art. 5
 
-Aucune disposition de la présente Convention ne doit être interprétée comme impliquant une obligation d’extrader si l’Etat requis a des raisons sérieuses de croire que la demande d’extradition motivée par une infraction visée à l’article 1er ou 2 a été présentée aux fins de poursuivre ou de punir une personne pour des considérations de race, de religion, de nationalité ou d’opinions politiques ou que la situation de cette personne risque d’être aggravée pour l’une ou l’autre de ces raisons.
+Aucune disposition de la présente Convention ne doit être interprétée comme impliquant une obligation d’extrader si l’État requis a des raisons sérieuses de croire que la demande d’extradition motivée par une infraction visée à l’article 1er ou 2 a été présentée aux fins de poursuivre ou de punir une personne pour des considérations de race, de religion, de nationalité ou d’opinions politiques ou que la situation de cette personne risque d’être aggravée pour l’une ou l’autre de ces raisons.
 
 #### Art. 6
 
-<sup>1.</sup> Tout Etat Contractant prend les mesures nécessaires pour établir sa compétence aux fins de connaître d’une infraction visée à l’article 1<sup>er</sup> dans le cas où l’auteur soupçonné de l’infraction se trouve sur son territoire et où l’Etat ne l’extrade pas après avoir reçu une demande d’extradition d’un Etat Contractant dont la compétence de poursuivre est fondée sur une règle de compétence existant également dans la législation de l’Etat requis.
+<sup>1.</sup> Tout État Contractant prend les mesures nécessaires pour établir sa compétence aux fins de connaître d’une infraction visée à l’article 1<sup>er</sup> dans le cas où l’auteur soupçonné de l’infraction se trouve sur son territoire et où l’État ne l’extrade pas après avoir reçu une demande d’extradition d’un État Contractant dont la compétence de poursuivre est fondée sur une règle de compétence existant également dans la législation de l’État requis.
 
 <sup>2.</sup> La présente Convention n’exclut aucune compétence pénale exercée conformément aux lois nationales.
 
 #### Art. 7
 
-Un Etat Contractant sur le territoire duquel l’auteur soupçonné d’une infraction visée à l’article 1er est découvert et qui a reçu une demande d’extradition dans les conditions mentionnées au paragraphe 1er de l’article 6, soumet, s’il n’extrade pas l’auteur soupçonné de l’infraction, l’affaire sans aucune exception et sans retard injustifié, à ses autorités compétentes pour l’exercice de l’action pénale. Ces autorités prennent leur décision dans les mêmes conditions que pour toute infraction de caractère grave conformément aux lois de cet Etat.
+Un État Contractant sur le territoire duquel l’auteur soupçonné d’une infraction visée à l’article 1er est découvert et qui a reçu une demande d’extradition dans les conditions mentionnées au paragraphe 1er de l’article 6, soumet, s’il n’extrade pas l’auteur soupçonné de l’infraction, l’affaire sans aucune exception et sans retard injustifié, à ses autorités compétentes pour l’exercice de l’action pénale. Ces autorités prennent leur décision dans les mêmes conditions que pour toute infraction de caractère grave conformément aux lois de cet État.
 
 #### Art. 8
 
-<sup>1.</sup> Les Etats Contractants s’accordent l’entraide judiciaire la plus large possible en matière pénale dans toute procédure relative aux infractions visées à l’article 1<sup>er</sup> ou 2.
+<sup>1.</sup> Les États Contractants s’accordent l’entraide judiciaire la plus large possible en matière pénale dans toute procédure relative aux infractions visées à l’article 1<sup>er</sup> ou 2.
 
-Dans tous les cas, la loi applicable en ce qui concerne l’assistance mutuelle en matière pénale est celle de l’Etat requis. Toutefois, l’entraide judiciaire ne pourra pas être refusée pour le seul motif qu’elle concerne une infraction politique ou une infraction connexe à une telle infraction ou une infraction inspirée par des mobiles politiques.
+Dans tous les cas, la loi applicable en ce qui concerne l’assistance mutuelle en matière pénale est celle de l’État requis. Toutefois, l’entraide judiciaire ne pourra pas être refusée pour le seul motif qu’elle concerne une infraction politique ou une infraction connexe à une telle infraction ou une infraction inspirée par des mobiles politiques.
 
-<sup>2.</sup> Aucune disposition de la présente Convention ne doit être interprétée comme impliquant une obligation d’accorder l’entraide judiciaire si l’Etat requis a des raisons sérieuses de croire que la demande d’entraide motivée par une infraction visée à l’article 1<sup>er</sup> ou 2 a été présentée aux fins de poursuivre ou de punir une personne pour des considérations de race, de religion, de nationalité ou d’opinions politiques ou que la situation de cette personne risque d’être aggravée pour l’une ou l’autre de ces raisons.
+<sup>2.</sup> Aucune disposition de la présente Convention ne doit être interprétée comme impliquant une obligation d’accorder l’entraide judiciaire si l’État requis a des raisons sérieuses de croire que la demande d’entraide motivée par une infraction visée à l’article 1<sup>er</sup> ou 2 a été présentée aux fins de poursuivre ou de punir une personne pour des considérations de race, de religion, de nationalité ou d’opinions politiques ou que la situation de cette personne risque d’être aggravée pour l’une ou l’autre de ces raisons.
 
-<sup>3.</sup> Les dispositions de tous traités et accords d’entraide judiciaire en matière pénale applicables entre les Etats Contractants, y compris la Convention européenne d’entraide judiciaire en matière pénale[^8-1], sont en ce qui concerne les relations entre Etats Contractants modifiées dans la mesure où elles sont incompatibles avec la présente Convention.
+<sup>3.</sup> Les dispositions de tous traités et accords d’entraide judiciaire en matière pénale applicables entre les États Contractants, y compris la Convention européenne d’entraide judiciaire en matière pénale[^8-1], sont en ce qui concerne les relations entre États Contractants modifiées dans la mesure où elles sont incompatibles avec la présente Convention.
 
 [^8-1]: [RS 0.351.1](https://fedlex.data.admin.ch/eli/cc/1967/831_871_866)
 
@@ -108,23 +108,23 @@ Dans tous les cas, la loi applicable en ce qui concerne l’assistance mutuelle 
 
 #### Art. 10
 
-<sup>1.</sup> Tout différend entre Etats Contractants concernant l’interprétation ou l’application de la présente Convention qui n’a pas été réglé dans le cadre du paragraphe 2 de l’article 9, sera, à la requête de l’une des Parties au différend, soumis à l’arbitrage. Chacune des Parties désignera un arbitre et les deux arbitres désigneront un troisième arbitre. Si dans un délai de trois mois à compter de la requête d’arbitrage, l’une des Parties n’a pas procédé à la désignation d’un arbitre, l’arbitre sera désigné à la demande de l’autre Partie, par le Président de la Cour européenne des Droits de l’Homme. Si le Président de la Cour européenne des Droits de l’Homme est le ressortissant de l’une des Parties au différend, la désignation de l’arbitre incombera au Vice‑Président de la Cour ou, si le Vice‑Président est le ressortissant de l’une des Parties au différend, au membre le plus ancien de la Cour qui n’est pas le ressortissant de l’une des Parties au différend. La même procédure s’appliquera au cas où les deux arbitres ne pourraient pas se mettre d’accord sur le choix du troisième arbitre.
+<sup>1.</sup> Tout différend entre États Contractants concernant l’interprétation ou l’application de la présente Convention qui n’a pas été réglé dans le cadre du paragraphe 2 de l’article 9, sera, à la requête de l’une des Parties au différend, soumis à l’arbitrage. Chacune des Parties désignera un arbitre et les deux arbitres désigneront un troisième arbitre. Si dans un délai de trois mois à compter de la requête d’arbitrage, l’une des Parties n’a pas procédé à la désignation d’un arbitre, l’arbitre sera désigné à la demande de l’autre Partie, par le Président de la Cour européenne des Droits de l’Homme. Si le Président de la Cour européenne des Droits de l’Homme est le ressortissant de l’une des Parties au différend, la désignation de l’arbitre incombera au Vice‑Président de la Cour ou, si le Vice‑Président est le ressortissant de l’une des Parties au différend, au membre le plus ancien de la Cour qui n’est pas le ressortissant de l’une des Parties au différend. La même procédure s’appliquera au cas où les deux arbitres ne pourraient pas se mettre d’accord sur le choix du troisième arbitre.
 
 <sup>2.</sup> Le tribunal arbitral arrêtera sa procédure. Ses décisions seront prises à la majorité. Sa sentence sera définitive.
 
 #### Art. 11
 
-<sup>1.</sup> La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe. Elle sera ratifiée, acceptée ou approuvée. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
+<sup>1.</sup> La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe. Elle sera ratifiée, acceptée ou approuvée. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
 <sup>2.</sup> La Convention entrera en vigueur trois mois après la date du dépôt du troisième instrument de ratification, d’acceptation ou d’approbation.
 
-<sup>3.</sup> Elle entrera en vigueur à l’égard de tout Etat signataire qui la ratifiera, l’acceptera ou l’approuvera ultérieurement, trois mois après la date du dépôt de son instrument de ratification, d’acceptation ou d’approbation.
+<sup>3.</sup> Elle entrera en vigueur à l’égard de tout État signataire qui la ratifiera, l’acceptera ou l’approuvera ultérieurement, trois mois après la date du dépôt de son instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 12
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation ou d’approbation, désigner le ou les territoires auxquels s’appliquera la présente Convention.
+<sup>1.</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation ou d’approbation, désigner le ou les territoires auxquels s’appliquera la présente Convention.
 
-<sup>2.</sup> Tout Etat peut, au moment du dépôt de son instrument de ratification, d’acceptation ou d’approbation ou à tout autre moment par la suite, étendre l’application de la présente Convention, par déclaration adressée au Secrétaire Général du Conseil de l’Europe, à tout autre territoire désigné dans la déclaration et dont il assure les relations internationales ou pour lequel il est habilité à stipuler.
+<sup>2.</sup> Tout État peut, au moment du dépôt de son instrument de ratification, d’acceptation ou d’approbation ou à tout autre moment par la suite, étendre l’application de la présente Convention, par déclaration adressée au Secrétaire Général du Conseil de l’Europe, à tout autre territoire désigné dans la déclaration et dont il assure les relations internationales ou pour lequel il est habilité à stipuler.
 
 <sup>3.</sup> Toute déclaration faite en vertu du paragraphe précédent pourra être retirée, en ce qui concerne tout territoire désigné dans cette déclaration, par notification adressée au Secrétaire Général du Conseil de l’Europe. Le retrait prendra effet immédiatement ou à une date ultérieure précisée dans la notification.
 
@@ -132,27 +132,27 @@ Dans tous les cas, la loi applicable en ce qui concerne l’assistance mutuelle 
 
 <sup>1.</sup>
 
-Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation ou d’approbation, déclarer qu’il se réserve le droit de refuser l’extradition en ce qui concerne toute infraction énumérée dans l’article 1er qu’il considère comme une infraction politique, comme une infraction connexe à une infraction politique ou comme une infraction inspirée par des mobiles politiques, à condition qu’il s’engage à prendre dûment en considération, lors de l’évaluation du caractère de l’infraction, son caractère de particulière gravité, y compris:
+Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation ou d’approbation, déclarer qu’il se réserve le droit de refuser l’extradition en ce qui concerne toute infraction énumérée dans l’article 1er qu’il considère comme une infraction politique, comme une infraction connexe à une infraction politique ou comme une infraction inspirée par des mobiles politiques, à condition qu’il s’engage à prendre dûment en considération, lors de l’évaluation du caractère de l’infraction, son caractère de particulière gravité, y compris:
 
-- a. qu’elle a créé un danger collectif pour la vie, l’intégrité corporelle ou la liberté des personnes; ou bien
-- b. qu’elle a atteint des personnes étrangères aux mobiles qui l’ont inspirée; ou bien
+- a. qu’elle a créé un danger collectif pour la vie, l’intégrité corporelle ou la liberté des personnes, ou bien
+- b. qu’elle a atteint des personnes étrangères aux mobiles qui l’ont inspirée, ou bien
 - c. que des moyens cruels ou perfides ont été utilisés pour sa réalisation.
 
-<sup>2.</sup> Tout Etat peut retirer en tout ou en partie une réserve formulée par lui en vertu du paragraphe précédent, au moyen d’une déclaration adressée au Secrétaire Général du Conseil de l’Europe et qui prendra effet à la date de sa réception.
+<sup>2.</sup> Tout État peut retirer en tout ou en partie une réserve formulée par lui en vertu du paragraphe précédent, au moyen d’une déclaration adressée au Secrétaire Général du Conseil de l’Europe et qui prendra effet à la date de sa réception.
 
-<sup>3.</sup> Un Etat qui a formulé une réserve en vertu du paragraphe 1er de cet article ne peut prétendre à l’application de l’article 1er par un autre Etat; toutefois, il peut, si la réserve est partielle ou conditionnelle, prétendre à l’application de cet article dans la mesure où il l’a lui‑même accepté.
+<sup>3.</sup> Un État qui a formulé une réserve en vertu du paragraphe 1er de cet article ne peut prétendre à l’application de l’article 1er par un autre État; toutefois, il peut, si la réserve est partielle ou conditionnelle, prétendre à l’application de cet article dans la mesure où il l’a lui‑même accepté.
 
 #### Art. 14
 
-Tout Etat Contractant pourra dénoncer la présente Convention en adressant une notification écrite au Secrétaire Général du Conseil de l’Europe. Une telle dénonciation prendra effet immédiatement ou à une date ultérieure précisée dans la notification.
+Tout État Contractant pourra dénoncer la présente Convention en adressant une notification écrite au Secrétaire Général du Conseil de l’Europe. Une telle dénonciation prendra effet immédiatement ou à une date ultérieure précisée dans la notification.
 
 #### Art. 15
 
-La Convention cesse de produire ses effets à l’égard de tout Etat Contractant qui se retire du Conseil de l’Europe ou qui cesse d’y appartenir.
+La Convention cesse de produire ses effets à l’égard de tout État Contractant qui se retire du Conseil de l’Europe ou qui cesse d’y appartenir.
 
 #### Art. 16
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation ou d’approbation;
@@ -163,12 +163,12 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du
 - g. toute notification reçue en application de l’article 14 et la date à laquelle la dénonciation prendra effet;
 - h. toute cessation des effets de la Convention en application de l’article 15.
 
-*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 27 janvier 1977, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats signataires. (Suivent les signatures)
+*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 27 janvier 1977, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États signataires. (Suivent les signatures)
 
-Champ d’application le 14 juin 2019**[^t-2]**
+Champ d’application le 16 mars 2022**[^t-2]**
 
 <table>
-<tr><th colspan="2">Etats parties</th><th colspan="2">Ratification Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
+<tr><th colspan="2">États parties</th><th colspan="2">Ratification Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
 <tr><td colspan="2">Albanie</td><td colspan="2">21 septembre</td><td colspan="2">2000</td><td>22 décembre</td><td colspan="2">2000</td></tr>
 <tr><td colspan="2">Allemagne\* \*\*</td><td colspan="2">3 mai</td><td colspan="2">1978</td><td>4 août</td><td colspan="2">1978</td></tr>
 <tr><td colspan="2">Arménie</td><td colspan="2">23 mars</td><td colspan="2">2004</td><td>24 juin</td><td colspan="2">2004</td></tr>
@@ -210,9 +210,8 @@ Champ d’application le 14 juin 2019**[^t-2]**
 <tr><td colspan="2">Royaume-Uni\*</td><td colspan="2">24 juillet</td><td colspan="2">1978</td><td>25 octobre</td><td colspan="2">1978</td></tr>
 <tr><td colspan="2">[tab] Gibraltar</td><td colspan="2">21 novembre</td><td colspan="2">1988</td><td>21 novembre</td><td colspan="2">1988</td></tr>
 <tr><td colspan="2">[tab] Guernesey</td><td colspan="2">24 juillet</td><td colspan="2">1978</td><td>25 octobre</td><td colspan="2">1978</td></tr>
-<tr><td colspan="2">[tab] Ile de Man</td><td colspan="2">24 juillet</td><td colspan="2">1978</td><td>25 octobre</td><td colspan="2">1978</td></tr>
+<tr><td colspan="2">[tab] Île de Man</td><td colspan="2">24 juillet</td><td colspan="2">1978</td><td>25 octobre</td><td colspan="2">1978</td></tr>
 <tr><td colspan="2">[tab] Jersey</td><td colspan="2">24 juillet</td><td colspan="2">1978</td><td>25 octobre</td><td colspan="2">1978</td></tr>
-<tr><td colspan="2">Russie\*</td><td colspan="2">4 novembre</td><td colspan="2">2000</td><td>5 février</td><td colspan="2">2001</td></tr>
 <tr><td colspan="2">Saint-Marin\*</td><td colspan="2">17 avril</td><td colspan="2">2002</td><td>18 juillet</td><td colspan="2">2002</td></tr>
 <tr><td colspan="2">Serbie\*</td><td colspan="2">15 mai</td><td colspan="2">2003</td><td>16 août</td><td colspan="2">2003</td></tr>
 <tr><td colspan="2">Slovaquie <sup>a</sup></td><td colspan="2">15 avril</td><td colspan="2">1992</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
@@ -221,8 +220,7 @@ Champ d’application le 14 juin 2019**[^t-2]**
 <tr><td colspan="2">Suisse</td><td colspan="2">19 mai</td><td colspan="2">1983</td><td>20 août</td><td colspan="2">1983</td></tr>
 <tr><td colspan="2">Turquie</td><td colspan="2">19 mai</td><td colspan="2">1981</td><td>20 août</td><td colspan="2">1981</td></tr>
 <tr><td colspan="2">Ukraine\*</td><td colspan="2">13 mars</td><td colspan="2">2002</td><td>14 juin</td><td colspan="2">2002</td></tr>
-<tr><td colspan="9">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="9"><sup>a</sup> Date du dépôt de l’instrument de ratification de la République fédérative tchèque et slovaque.</td></tr>
+<tr><td colspan="9">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Date du dépôt de l’instrument de ratification de la République fédérative tchèque et slovaque.</td></tr>
 </table>
 
-[^t-2]: La présente publication complète celles qui figurent au [RO 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041), [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488), [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474), [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775), [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166), [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156), [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501), [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642), [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106), [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176)et **2019** 1959. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041); [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488); [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474); [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775); [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166); [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156); [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501); [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642); [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106); [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176); [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.

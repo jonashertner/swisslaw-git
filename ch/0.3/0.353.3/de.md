@@ -3,11 +3,11 @@ sr: "0.353.3"
 title: Europäisches Übereinkommen vom 27. Januar 1977 zur Bekämpfung des Terrorismus
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041"
 language: de
-version: 2019-06-14
+version: 2022-03-16
 adopted: 1977-01-27
 in_force: 1983-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20190614/de/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20190614-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20190614/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1041_1041_1041/20220316/de/xml/fedlex-data-admin-ch-eli-cc-1983-1041_1041_1041-20220316-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1041_1041_1041/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1983** 1041; BBl **1982** II 1
 
 Abgeschlossen in Strassburg am 27. Januar 1977 Von der Bundesversammlung genehmigt am 14. Dezember 1982[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. Mai 1983 In Kraft getreten für die Schweiz am 20. August 1983
 
-(Stand am 14. Juni 2019)
+(Stand am 16. März 2022)
 
 [^t-1]: [AS 1983 1040](https://fedlex.data.admin.ch/eli/oc/1983/1040_1040_1040)
 
@@ -157,7 +157,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 27. Januar 1977 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarates hinterlegt wird. Der Generalsekretär des Europarates übermittelt allen Unterzeichnerstaaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 14. Juni 2019**[^t-2]**
+Geltungsbereich am 16. März 2022**[^t-2]**
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -195,7 +195,6 @@ Geltungsbereich am 14. Juni 2019**[^t-2]**
 <tr><td colspan="2">Polen</td><td>30. Januar</td><td colspan="2">1996</td><td>1. Mai</td><td>1996</td></tr>
 <tr><td colspan="2">Portugal\*</td><td>14. Dezember</td><td colspan="2">1981</td><td>15. März</td><td>1982</td></tr>
 <tr><td colspan="2">Rumänien</td><td>2. Mai</td><td colspan="2">1997</td><td>3. August</td><td>1997</td></tr>
-<tr><td colspan="2">Russland\*</td><td>4. November</td><td colspan="2">2000</td><td>5. Februar</td><td>2001</td></tr>
 <tr><td colspan="2">San Marino\*</td><td>17. April</td><td colspan="2">2002</td><td>18. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Schweden\*</td><td>15. September</td><td colspan="2">1977</td><td>4. August</td><td>1978</td></tr>
 <tr><td colspan="2">Schweiz</td><td>19. Mai</td><td colspan="2">1983</td><td>20. August</td><td>1983</td></tr>
@@ -203,7 +202,7 @@ Geltungsbereich am 14. Juni 2019**[^t-2]**
 <tr><td colspan="2">Slowakei <sup>a</sup></td><td>15. April</td><td colspan="2">1992</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td colspan="2">Slowenien</td><td>29. November</td><td colspan="2">2000</td><td>1. März</td><td>2001</td></tr>
 <tr><td colspan="2">Spanien</td><td>20. Mai</td><td colspan="2">1980</td><td>21. August</td><td>1980</td></tr>
-<tr><td colspan="2">Tschechische Republik<sup>a</sup></td><td>15. April</td><td colspan="2">1992</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td colspan="2">Tschechische Republik <sup>a</sup></td><td>15. April</td><td colspan="2">1992</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td colspan="2">Türkei</td><td>19. Mai</td><td colspan="2">1981</td><td>20. August</td><td>1981</td></tr>
 <tr><td colspan="2">Ukraine\*</td><td>13. März</td><td colspan="2">2002</td><td>14. Juni</td><td>2002</td></tr>
 <tr><td colspan="2">Ungarn\*</td><td>6. Mai</td><td colspan="2">1997</td><td>7. August</td><td>1997</td></tr>
@@ -218,4 +217,4 @@ Geltungsbereich am 14. Juni 2019**[^t-2]**
 
 - [tab]
 
-[^t-2]: [AS 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041), [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488), [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474), [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775), [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166), [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156), [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501), [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642), [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106), [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176), [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1983 1041](https://fedlex.data.admin.ch/eli/oc/1983/1041_1041_1041); [1985 1488](https://fedlex.data.admin.ch/eli/oc/1985/1488_1488_1488); [1986 474](https://fedlex.data.admin.ch/eli/oc/1986/474_474_474); [1987 775](https://fedlex.data.admin.ch/eli/oc/1987/775_775_775); [1989 166](https://fedlex.data.admin.ch/eli/oc/1989/166_166_166); [1990 1156](https://fedlex.data.admin.ch/eli/oc/1990/1156_1156_1156); [2004 3663](https://fedlex.data.admin.ch/eli/oc/2004/501); [2006 4247](https://fedlex.data.admin.ch/eli/oc/2006/642); [2009 603](https://fedlex.data.admin.ch/eli/oc/2009/106); [2014 801](https://fedlex.data.admin.ch/eli/oc/2014/176); [2019 1959](https://fedlex.data.admin.ch/eli/oc/2019/361); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Eine aktualisierte Fassung des Geltungsbereichs dieser Übereinkommen und Protokolle ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
