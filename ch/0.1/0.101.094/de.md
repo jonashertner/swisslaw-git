@@ -3,11 +3,11 @@ sr: "0.101.094"
 title: Protokoll Nr. 14 vom 13. Mai 2004 zur Konvention zum Schutz der Menschenrechte und Grundfreiheiten über die Änderung des Kontrollsystems der Konvention
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/377"
 language: de
-version: 2012-02-23
+version: 2022-03-16
 adopted: 2004-05-13
 in_force: 2009-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/377/20120223/de/xml/fedlex-data-admin-ch-eli-cc-2009-377-20120223-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/377/20120223/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/377/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2009-377-20220316-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/377/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2009** 3067; BBl **2005** 2119
 
 Abgeschlossen in Strassburg am 13. Mai 2004 Von der Bundesversammlung genehmigt am 16. Dezember 2005[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 25. April 2006 Teilweise provisorisch angewendet ab 1. Juni 2009 In Kraft getreten für die Schweiz am 1. Juni 2010[^t-2]
 
-(Stand am 23. Februar 2012)
+(Stand am 16. März 2022)
 
 [^t-1]: [AS 2009 3065](https://fedlex.data.admin.ch/eli/oc/2009/376)
 [^t-2]: [AS 2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173)
@@ -283,7 +283,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 - c) den Zeitpunkt des Inkrafttretens dieses Protokolls nach Artikel 19; und
 - d) jede andere Handlung, Notifikation oder Mitteilung im Zusammenhang mit diesem Protokoll.
 
-Geltungsbereich am 23. Februar 2012**[^t-3]**
+Geltungsbereich am 16. März 2022[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -324,7 +324,6 @@ Geltungsbereich am 23. Februar 2012**[^t-3]**
 <tr><td>Polen\*</td><td>12. Oktober</td><td>2006</td><td>1. Juni</td><td>2010</td></tr>
 <tr><td>Portugal</td><td>19. Mai</td><td>2006</td><td>1. Juni</td><td>2010</td></tr>
 <tr><td>Rumänien</td><td>16. Mai</td><td>2005</td><td>1. Juni</td><td>2010</td></tr>
-<tr><td>Russland\*</td><td>18. Februar</td><td>2010</td><td>1. Juni</td><td>2010</td></tr>
 <tr><td>San Marino</td><td>2. Februar</td><td>2006</td><td>1. Juni</td><td>2010</td></tr>
 <tr><td>Schweden</td><td>17. November</td><td>2005</td><td>1. Juni</td><td>2010</td></tr>
 <tr><td>Schweiz</td><td>25. April</td><td>2006</td><td>1. Juni</td><td>2010</td></tr>
@@ -338,8 +337,8 @@ Geltungsbereich am 23. Februar 2012**[^t-3]**
 <tr><td>Ungarn</td><td>21. Dezember</td><td>2005</td><td>1. Juni</td><td>2010</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>28. Januar</td><td>2005</td><td>1. Juni</td><td>2010</td></tr>
 <tr><td>Zypern</td><td>17. November</td><td>2005</td><td>1. Juni</td><td>2010</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int/de) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173)und [2012 1145](https://fedlex.data.admin.ch/eli/oc/2012/167). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [2012 1145](https://fedlex.data.admin.ch/eli/oc/2012/167); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Eine aktualisierte Fassung des Geltungsbereichs dieser Übereinkommen und Protokolle ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/Treaty](https://www.fedlex.admin.ch/de/Treaty).

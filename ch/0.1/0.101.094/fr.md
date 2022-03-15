@@ -3,11 +3,11 @@ sr: "0.101.094"
 title: "Protocole n<sup>o</sup> 14 du 13 mai 2004 à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, amendant le système de contrôle de la Convention"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/377"
 language: fr
-version: 2012-02-23
+version: 2022-03-16
 adopted: 2004-05-13
 in_force: 2009-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/377/20120223/fr/xml/fedlex-data-admin-ch-eli-cc-2009-377-20120223-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/377/20120223/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/377/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2009-377-20220316-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/377/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,16 +28,16 @@ Application provisoire partielle dès le 1<sup>er</sup> juin 2009
 
 En vigueur pour la Suisse le 1<sup>er</sup> juin 2010[^t-2]
 
-(Etat le 23 février 2012)
+(État le 16 mars 2022)
 
 [^t-1]: [RO 2009 3065](https://fedlex.data.admin.ch/eli/oc/2009/376)
-[^t-2]: **2010** 1241
+[^t-2]: [RO 2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173)
 
 *Préambule*
 
-Les Etats membres du Conseil de l’Europe,
+Les États membres du Conseil de l’Europe,
 
-signataires du présent Protocole à la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales*[^ingress-1]*, signée à Rome le 4 novembre 1950 (ci‑après dénommée «la Convention»),
+signataires du présent Protocole à la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales[^ingress-1], signée à Rome le 4 novembre 1950 (ci‑après dénommée «la Convention»),
 
 vu la Résolution n<sup>o</sup> 1 et la Déclaration adoptées lors de la Conférence ministérielle européenne sur les droits de l’homme, tenue à Rome les 3 et 4 novembre 2000,
 
@@ -93,9 +93,9 @@ L’art. 25 de la Convention devient l’art. 24 et son libellé est modifié co
 
 L’art. 26 de la Convention devient l’art. 25 («Assemblée plénière») et son libellé est modifié comme suit:
 
-<sup>1.</sup> A la fin du par. d, la virgule est remplacée par un point-virgule et le mot «et» est supprimé.
+<sup>1.</sup> À la fin du par. d, la virgule est remplacée par un point-virgule et le mot «et» est supprimé.
 
-<sup>2.</sup> A la fin du par. e, le point est remplacé par un point-virgule.
+<sup>2.</sup> À la fin du par. e, le point est remplacé par un point-virgule.
 
 <sup>3.</sup>
 
@@ -113,7 +113,7 @@ L’art. 27 de la Convention devient l’art. 26 et son libellé est modifié co
 
 <sup>1.</sup> Pour l’examen des affaires portées devant elle, la Cour siège en formations de juge unique, en comités de trois juges, en Chambres de sept juges et en une Grande Chambre de dix-sept juges. Les Chambres de la Cour constituent les comités pour une période déterminée.
 
-<sup>2.</sup> A la demande de l’Assemblée plénière de la Cour, le Comité des Ministres peut, par une décision unanime et pour une période déterminée, réduire à cinq le nombre de juges des Chambres.
+<sup>2.</sup> À la demande de l’Assemblée plénière de la Cour, le Comité des Ministres peut, par une décision unanime et pour une période déterminée, réduire à cinq le nombre de juges des Chambres.
 
 <sup>3.</sup> Un juge siégeant en tant que juge unique n’examine aucune requête introduite contre la Haute Partie contractante au titre de laquelle ce juge a été élu.
 
@@ -147,7 +147,7 @@ L’art. 28 de la Convention est modifié comme suit:
 
 Un comité saisi d’une requête individuelle introduite en vertu de l’art. 34 peut, par vote unanime:
 
-- a) la déclarer irrecevable ou la rayer du rôle lorsqu’une telle décision peut être prise sans examen complémentaire; ou
+- a) la déclarer irrecevable ou la rayer du rôle lorsqu’une telle décision peut être prise sans examen complémentaire, ou
 - b) la déclarer recevable et rendre conjointement un arrêt sur le fond lorsque la question relative à l’interprétation ou à l’application de la Convention ou de ses Protocoles qui est à l’origine de l’affaire fait l’objet d’une jurisprudence bien établie de la Cour.
 
 <sup>2.</sup> Les décisions et arrêts prévus au par. 1 sont définitifs.
@@ -168,7 +168,7 @@ L’art. 29 de la Convention est amendé comme suit:
 
 L’art. 31 de la Convention est amendé comme suit:
 
-<sup>1.</sup> A la fin du par. a, le mot «et» est supprimé.
+<sup>1.</sup> À la fin du par. a, le mot «et» est supprimé.
 
 <sup>2.</sup>
 
@@ -180,7 +180,7 @@ Le par. b devient le par. c et un nouveau par. b est inséré, dont le libellé 
 
 L’art. 32 de la Convention est amendé comme suit:
 
-A la fin du par. 1, une virgule et le nombre 46 sont insérés après le nombre 34.
+À la fin du par. 1, une virgule et le nombre 46 sont insérés après le nombre 34.
 
 #### Art. 12
 
@@ -188,7 +188,7 @@ Le par. 3 de l’art. 35 de la Convention est modifié comme suit:
 
 «3) La Cour déclare irrecevable toute requête individuelle introduite en application de l’art. 34 lorsqu’elle estime:
 
-- a) que la requête est incompatible avec les dispositions de la Convention ou de ses Protocoles, manifestement mal fondée ou abusive; ou
+- a) que la requête est incompatible avec les dispositions de la Convention ou de ses Protocoles, manifestement mal fondée ou abusive, ou
 - b) que le requérant n’a subi aucun préjudice important, sauf si le respect des droits de l’homme garantis par la Convention et ses Protocoles exige un examen de la requête au fond et à condition de ne rejeter pour ce motif aucune affaire qui n’a pas été dûment examinée par un tribunal interne.»
 
 #### Art. 13
@@ -215,7 +215,7 @@ L’art. 39 de la Convention est modifié comme suit:
 <tr><td>«Art. 39</td><td>Règlements amiables</td></tr>
 </table>
 
-<sup>1.</sup> A tout moment de la procédure, la Cour peut se mettre à la disposition des intéressés en vue de parvenir à un règlement amiable de l’affaire s’inspirant du respect des droits de l’homme tels que les reconnaissent la Convention et ses Protocoles.
+<sup>1.</sup> À tout moment de la procédure, la Cour peut se mettre à la disposition des intéressés en vue de parvenir à un règlement amiable de l’affaire s’inspirant du respect des droits de l’homme tels que les reconnaissent la Convention et ses Protocoles.
 
 <sup>2.</sup> La procédure décrite au par. 1 est confidentielle.
 
@@ -257,9 +257,9 @@ L’art. 59 de la Convention est amendé comme suit:
 
 \2. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
-\1. Le présent Protocole est ouvert à la signature des Etats membres du Conseil de l’Europe signataires de la Convention, qui peuvent exprimer leur consentement à être liés par:
+\1. Le présent Protocole est ouvert à la signature des États membres du Conseil de l’Europe signataires de la Convention, qui peuvent exprimer leur consentement à être liés par:
 
-- a) signature sans réserve de ratification, d’acceptation ou d’approbation; ou
+- a) signature sans réserve de ratification, d’acceptation ou d’approbation, ou
 - b) signature sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation.
 
 #### Art. 19
@@ -268,33 +268,33 @@ Le présent Protocole entrera en vigueur le premier jour du mois qui suit l’ex
 
 #### Art. 20
 
-\1. A la date de l’entrée en vigueur du présent Protocole, ses dispositions s’appliquent à toutes les requêtes pendantes devant la Cour ainsi qu’à tous les arrêts dont l’exécution fait l’objet de la surveillance du Comité des Ministres.
+\1. À la date de l’entrée en vigueur du présent Protocole, ses dispositions s’appliquent à toutes les requêtes pendantes devant la Cour ainsi qu’à tous les arrêts dont l’exécution fait l’objet de la surveillance du Comité des Ministres.
 
 \2. Le nouveau critère de recevabilité inséré par l’art. 12 du présent Protocole dans l’art. 35, par. 3.b de la Convention, ne s’applique pas aux requêtes déclarées recevables avant l’entrée en vigueur du Protocole. Dans les deux ans qui suivent l’entrée en vigueur du présent Protocole, seules les Chambres et la Grande Chambre de la Cour peuvent appliquer le nouveau critère de recevabilité.
 
 #### Art. 21
 
-A la date d’entrée en vigueur du présent Protocole, la durée du mandat des juges accomplissant leur premier mandat est prolongée de plein droit pour atteindre un total de neuf ans. Les autres juges terminent leur mandat, qui est prolongé de plein droit de deux ans.
+À la date d’entrée en vigueur du présent Protocole, la durée du mandat des juges accomplissant leur premier mandat est prolongée de plein droit pour atteindre un total de neuf ans. Les autres juges terminent leur mandat, qui est prolongé de plein droit de deux ans.
 
 #### Art. 22
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole.
 
-Fait à Strasbourg, le 13 mai 2004, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe.
+Fait à Strasbourg, le 13 mai 2004, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe.
 
 (Suivent les signatures)
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil de l’Europe:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil de l’Europe:
 
 - a) toute signature;
 - b) le dépôt de tout instrument de ratification, d’acceptation ou d’approbation;
-- c) la date d’entrée en vigueur du présent Protocole conformément à l’art. 19; et
+- c) la date d’entrée en vigueur du présent Protocole conformément à l’art. 19, et
 - d) tout autre acte, notification ou communication ayant trait au présent Protocole.
 
-Champ d’application le 23 février 2012**[^t-3]**
+Champ d’application le 16 mars 2022[^t-3]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>3 février</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Allemagne</td><td>11 avril</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Andorre</td><td>17 juillet</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
@@ -327,7 +327,7 @@ Champ d’application le 23 février 2012**[^t-3]**
 <tr><td>Monaco</td><td>10 mars</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Monténégro</td><td>6 juin</td><td>2006 S</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Norvège</td><td>10 novembre</td><td>2004</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
-<tr><td>Pays-Bas<sup>a</sup></td><td>2 février</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
+<tr><td>Pays-Bas <sup>a</sup></td><td>2 février</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Aruba</td><td>2 février</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Curaçao</td><td>2 février</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>2 février</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
@@ -337,7 +337,6 @@ Champ d’application le 23 février 2012**[^t-3]**
 <tr><td>République tchèque</td><td>19 mai</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Roumanie</td><td>16 mai</td><td>2005</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Royaume-Uni\*</td><td>28 janvier</td><td>2005</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
-<tr><td>Russie\*</td><td>18 février</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Saint-Marin</td><td>2 février</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Serbie</td><td>6 septembre</td><td>2005</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Slovaquie</td><td>16 mai</td><td>2005</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
@@ -346,8 +345,7 @@ Champ d’application le 23 février 2012**[^t-3]**
 <tr><td>Suisse</td><td>25 avril</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Turquie</td><td>2 octobre</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Ukraine</td><td>27 mars</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173), [2012 1145](https://fedlex.data.admin.ch/eli/oc/2012/167). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty.
+[^t-3]: [RO 2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [2012 1145](https://fedlex.data.admin.ch/eli/oc/2012/167); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

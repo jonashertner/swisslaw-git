@@ -3,11 +3,11 @@ sr: "0.101.094"
 title: "Protocollo n. 14 del 13 maggio 2004 alla Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali, il quale emenda il sistema di controllo della Convenzione"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/377"
 language: it
-version: 2012-02-23
+version: 2022-03-16
 adopted: 2004-05-13
 in_force: 2009-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/377/20120223/it/xml/fedlex-data-admin-ch-eli-cc-2009-377-20120223-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/377/20120223/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/377/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2009-377-20220316-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/377/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -28,14 +28,14 @@ Applicato parzialmente e provvisoriamente dal 1° giugno 2009
 
 In vigore per la Svizzera dal 1° giugno 2010[^t-2]
 
-(Stato 23 febbraio 2012)
+(Stato 16 marzo 2022)
 
 [^t-1]: [RU 2009 3065](https://fedlex.data.admin.ch/eli/oc/2009/376)
 [^t-2]: [RU 2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173)
 
-*Preambolo*
+Preambolo
 
-Gli Stati membri del Consiglio d’Europa, firmatari del presente Protocollo alla Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali, firmata a Roma il 4 novembre 1950*[^ingress-1]* (qui di seguito denominata «la Convenzione»),
+*Gli Stati membri del Consiglio d’Europa, firmatari del presente Protocollo alla Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondame**n**tali, firmata a Roma il 4 novembre 1950*[^ingress-1] *(qui di seguito denominata «la Convenzi**o**ne»),*
 
 viste la Risoluzione n. 1 e la Dichiarazione adottate in occasione della Conferenza ministeriale europea sui diritti dell’uomo, tenutasi a Roma il 3 e 4 novembre 2000,
 
@@ -289,7 +289,7 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 - c) la data di entrata in vigore del presente Protocollo conformemente all’articolo 19; e
 - d) ogni altro atto, notifica o comunicazione, relativa al presente Protocollo.
 
-Campo d’applicazione il 23 febbraio 2012**[^t-3]**
+Campo d’applicazione il 16 marzo 2022[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -318,7 +318,7 @@ Campo d’applicazione il 23 febbraio 2012**[^t-3]**
 <tr><td>Liechtenstein</td><td>7 settembre</td><td>2005</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Lituania</td><td>1° luglio</td><td>2005</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Lussemburgo</td><td>21 marzo</td><td>2006</td><td>1° giugno</td><td>2010</td></tr>
-<tr><td>Macedonia del Norte</td><td>15 giugno</td><td>2005</td><td>1° giugno</td><td>2010</td></tr>
+<tr><td>Macedonia del Nord</td><td>15 giugno</td><td>2005</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Malta</td><td>4 ottobre</td><td>2004</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Moldova\*</td><td>22 agosto</td><td>2005</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Monaco</td><td>10 marzo</td><td>2006</td><td>1° giugno</td><td>2010</td></tr>
@@ -333,7 +333,6 @@ Campo d’applicazione il 23 febbraio 2012**[^t-3]**
 <tr><td>Portogallo</td><td>19 maggio</td><td>2006</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Romania</td><td>16 maggio</td><td>2005</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Regno Unito\*</td><td>28 gennaio</td><td>2005</td><td>1° giugno</td><td>2010</td></tr>
-<tr><td>Russia\*</td><td>18 febbraio</td><td>2010</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>San Marino</td><td>2 febbraio</td><td>2006</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Serbia</td><td>6 settembre</td><td>2005</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Slovacchia</td><td>16 maggio</td><td>2005</td><td>1° giugno</td><td>2010</td></tr>
@@ -344,8 +343,8 @@ Campo d’applicazione il 23 febbraio 2012**[^t-3]**
 <tr><td>Turchia</td><td>2 ottobre</td><td>2006</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Ucraina</td><td>27 marzo</td><td>2006</td><td>1° giugno</td><td>2010</td></tr>
 <tr><td>Ungheria</td><td>21 dicembre</td><td>2005</td><td>1° giugno</td><td>2010</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173)e [2012 1145](https://fedlex.data.admin.ch/eli/oc/2012/167). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty
+[^t-3]: [RU 2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [2012 1145](https://fedlex.data.admin.ch/eli/oc/2012/167); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
