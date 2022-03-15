@@ -3,11 +3,11 @@ sr: "131.211"
 title: "Constitution du canton de Zurich, du 27 février 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: fr
-version: 2018-09-17
+version: 2022-03-16
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20180917/fr/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20180917-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20180917/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20220316-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20180917/fr"
 
 Traduction
 
-du 27 février 2005 (Etat le 17 septembre 2018)[^t-1]
+du 27 février 2005 (Etat le 16 mars 2022)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
@@ -24,7 +24,7 @@ du 27 février 2005 (Etat le 17 septembre 2018)[^t-1]
 
 Nous, peuple du Canton de Zurich,
 
-conscients de notre responsabilité envers la Création ainsi que des limites du pouvoir de l’être humain, animés par une volonté commune de préserver la liberté, le droit et la dignité humaine ainsi que de faire progresser encore le Canton de Zurich en tant qu’Etat membre de la Confédération suisse ouvert au monde et fort sur les plans économique, culturel et social,
+conscients de notre responsabilité envers la Création ainsi que des limites du pouvoir de l’être humain, animés par une volonté commune de préserver la liberté, le droit et la dignité humaine ainsi que de faire progresser encore le Canton de Zurich en tant qu’État membre de la Confédération suisse ouvert au monde et fort sur les plans économique, culturel et social,
 
 nous donnons la Constitution que voici:
 
@@ -34,21 +34,21 @@ nous donnons la Constitution que voici:
 
 #### Art. 1
 
-<sup>1</sup> Le Canton de Zurich est un Etat souverain, membre de la Confédération suisse.
+<sup>1</sup> Le Canton de Zurich est un État souverain, membre de la Confédération suisse.
 
 <sup>2</sup> Il est fondé sur la responsabilité individuelle et collective de ses habitants.
 
-<sup>3</sup> Le pouvoir de l’Etat appartient au peuple. Il est exercé par les citoyens et les autorités.
+<sup>3</sup> Le pouvoir de l’État appartient au peuple. Il est exercé par les citoyens et les autorités.
 
 <sup>4</sup> Le Canton reconnaît l’autonomie des communes.
 
-### Principes de l’Etat de droit
+### Principes de l’État de droit
 
 #### Art. 2
 
-<sup>1</sup> Le droit est la base et la limite de l’activité de l’Etat.
+<sup>1</sup> Le droit est la base et la limite de l’activité de l’État.
 
-<sup>2</sup> L’activité de l’Etat doit répondre à un intérêt public et être proportionnée au but visé.
+<sup>2</sup> L’activité de l’État doit répondre à un intérêt public et être proportionnée au but visé.
 
 <sup>3</sup> Les autorités et les particuliers doivent agir de manière conforme aux règles de la bonne foi.
 
@@ -56,7 +56,7 @@ nous donnons la Constitution que voici:
 
 #### Art. 3
 
-<sup>1</sup> La structure de l’Etat et l’exercice du pouvoir étatique reposent sur le principe de la séparation des pouvoirs.
+<sup>1</sup> La structure de l’État et l’exercice du pouvoir étatique reposent sur le principe de la séparation des pouvoirs.
 
 <sup>2</sup> Nul n’a le droit d’exercer le pouvoir étatique de manière incontrôlée ou illimitée.
 
@@ -64,15 +64,15 @@ nous donnons la Constitution que voici:
 
 #### Art. 4
 
-L’Etat collabore avec les communes, avec les autres cantons et avec la Confédération de même qu’avec l’étranger dans la mesure où ses compétences le lui permettent.
+L’État collabore avec les communes, avec les autres cantons et avec la Confédération de même qu’avec l’étranger dans la mesure où ses compétences le lui permettent.
 
 ### Subsidiarité
 
 #### Art. 5
 
-<sup>1</sup> Toute personne est responsable d’elle-même et contribue selon ses forces à l’accomplissement des tâches de l’Etat et de la société.
+<sup>1</sup> Toute personne est responsable d’elle-même et contribue selon ses forces à l’accomplissement des tâches de l’État et de la société.
 
-<sup>2</sup> L’Etat et les communes saluent les initiatives que des individus ou des organisations prennent dans l’intérêt commun. Ils encouragent l’aide à l’autonomie individuelle.
+<sup>2</sup> L’État et les communes saluent les initiatives que des individus ou des organisations prennent dans l’intérêt commun. Ils encouragent l’aide à l’autonomie individuelle.
 
 <sup>3</sup> Ils assument les tâches d’intérêt public qui ne sont pas remplies de manière adéquate par des particuliers.
 
@@ -80,7 +80,7 @@ L’Etat collabore avec les communes, avec les autres cantons et avec la Conféd
 
 #### Art. 6
 
-<sup>1</sup> L’Etat et les communes veillent à la conservation des ressources naturelles.
+<sup>1</sup> L’État et les communes veillent à la conservation des ressources naturelles.
 
 <sup>2</sup> Conscients de leur responsabilité envers les générations futures, ils assurent un développement durable sur les plans écologique, économique et social.
 
@@ -88,13 +88,13 @@ L’Etat collabore avec les communes, avec les autres cantons et avec la Conféd
 
 #### Art. 7
 
-L’Etat et les communes créent des conditions propices au dialogue entre les cultures, les convictions philosophiques et les religions.
+L’État et les communes créent des conditions propices au dialogue entre les cultures, les convictions philosophiques et les religions.
 
 ### Innovation
 
 #### Art. 8
 
-L’Etat et les communes créent des conditions générales propices à l’innovation économique et culturelle, sociale et écologique.
+L’État et les communes créent des conditions générales propices à l’innovation économique et culturelle, sociale et écologique.
 
 ## Chapitre 2: Droits fondamentaux
 
@@ -114,7 +114,7 @@ La dignité humaine est intangible.
 
 [^10-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 
-### Egalité
+### Égalité
 
 #### Art. 11
 
@@ -122,7 +122,7 @@ La dignité humaine est intangible.
 
 <sup>2</sup> Nul ne doit subir de discrimination du fait notamment de son origine, de sa race, de son sexe, de son âge, de caractéristiques génétiques, de sa langue, de son orientation sexuelle, de sa situation sociale, de son mode de vie ou de ses convictions religieuses, philosophiques ou politiques ni du fait d’une déficience corporelle, mentale ou psychique.
 
-<sup>3</sup> L’homme et la femme sont égaux en droit. Ils doivent avoir accès à l’instruction ainsi qu’à la fonction publique aux mêmes conditions et peuvent prétendre à une même formation ainsi qu’à un salaire égal pour un travail de valeur égale. L’Etat et les communes encouragent la mise en pratique du principe de l’égalité entre hommes et femmes dans tous les domaines.
+<sup>3</sup> L’homme et la femme sont égaux en droit. Ils doivent avoir accès à l’instruction ainsi qu’à la fonction publique aux mêmes conditions et peuvent prétendre à une même formation ainsi qu’à un salaire égal pour un travail de valeur égale. L’État et les communes encouragent la mise en pratique du principe de l’égalité entre hommes et femmes dans tous les domaines.
 
 <sup>4</sup> Les personnes handicapées ont le droit d’avoir accès aux prestations ainsi qu’aux installations, sites et bâtiments publics. Les mesures nécessaires à cet effet doivent être raisonnablement exigibles du point de vue économique.
 
@@ -138,7 +138,7 @@ La liberté de la langue comprend l’utilisation du langage des signes.
 
 #### Art. 13
 
-Toute personne a le droit de choisir librement la forme de vie commune qui lui convient. Outre le mariage, l’Etat peut aussi reconnaître d’autres formes de partenariat.
+Toute personne a le droit de choisir librement la forme de vie commune qui lui convient. Outre le mariage, l’État peut aussi reconnaître d’autres formes de partenariat.
 
 ### Droit à la formation
 
@@ -180,19 +180,19 @@ Toute personne a le droit de consulter des documents officiels, à moins qu’un
 
 #### Art. 19
 
-<sup>1</sup> Les buts sociaux de l’Etat et des communes sont ceux définis dans la Constitution fédérale[^19-1].
+<sup>1</sup> Les buts sociaux de l’État et des communes sont ceux définis dans la Constitution fédérale[^19-1].
 
 <sup>2</sup>
 
-L’Etat et les communes veillent en outre:
+L’État et les communes veillent en outre:
 
 - a. à empêcher que les parents d’un enfant à naître ou un nouveau-né se retrouvent dans une situation de détresse;
 - b. à créer les conditions nécessaires à la garde des enfants dans le cadre de la famille et à l’extérieur;
 - c. à permettre aux personnes âgées de mener une vie autonome selon leurs possibilités et de prendre part à l’évolution de la société.
 
-<sup>3</sup> L’Etat et les communes s’efforcent de réaliser les buts sociaux dans les limites de leurs compétences et des moyens disponibles.
+<sup>3</sup> L’État et les communes s’efforcent de réaliser les buts sociaux dans les limites de leurs compétences et des moyens disponibles.
 
-<sup>4</sup> Aucun droit subjectif à des prestations de l’Etat ne peut être déduit directement des buts sociaux.
+<sup>4</sup> Aucun droit subjectif à des prestations de l’État ne peut être déduit directement des buts sociaux.
 
 [^19-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 
@@ -317,7 +317,7 @@ Une initiative est validée si:
 
 #### Art. 31
 
-<sup>1</sup> Si 60 députés du Grand Conseil soutiennent provisoirement une initiative présentée par une autorité ou une initiative individuelle, l’initiative est transmise au Conseil d’Etat, qui est appelé à donner son avis et à proposer une solution.
+<sup>1</sup> Si 60 députés du Grand Conseil soutiennent provisoirement une initiative présentée par une autorité ou une initiative individuelle, l’initiative est transmise au Conseil d’État, qui est appelé à donner son avis et à proposer une solution.
 
 <sup>2</sup> Si une initiative n’obtient pas ce soutien provisoire ou si la proposition du gouvernement n’obtient pas une majorité au parlement, l’initiative est considérée comme ayant échoué.
 
@@ -347,12 +347,12 @@ Sur demande, sont soumis au vote du peuple:
 - a. les lois, leur modification ou leur abrogation;
 - b. les conventions intercantonales et les traités internationaux qui, par leur contenu, ont le rang de lois;
 - c. les arrêtés du Grand Conseil sujets au référendum en vertu de la loi;
-- d.
+- d.[^33-1]
 
   les arrêtés du Grand Conseil ayant pour objet:
 
-  - 1\. de nouvelles dépenses uniques de plus de six millions de francs,
-  - 2\. de nouvelles dépenses périodiques de plus de 600 000 francs par année;
+  - 1\. de nouvelles dépenses uniques de plus de 4 millions de francs,
+  - 2\. de nouvelles dépenses périodiques de plus de 400 000 francs par année;
 
 - e. les arrêtés du Grand Conseil d’importance fondamentale ayant des conséquences à long terme sur les conditions de vie en général;
 - f. les grandes lignes des prises de position du Canton en ce qui concerne des projets de la Confédération qui ont une importance fondamentale, des conséquences à long terme sur les conditions de vie en général et qui ne sont pas sujets au référendum sur le plan fédéral.
@@ -368,6 +368,8 @@ Une votation populaire peut être demandée par:
 <sup>3</sup> La votation populaire doit être demandée par écrit dans un délai de 60 jours à compter de la publication officielle de la décision du Grand Conseil. Si le référendum est demandé par le Grand Conseil, ce délai est de 14 jours à compter de la date de la décision.
 
 <sup>4</sup> Les communes désignent l’organe habilité à demander une votation populaire. Les municipalités de Zurich et de Winterthour peuvent demander une votation populaire de manière autonome, par simple décision de leur législatif.
+
+[^33-1]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Votations partielles et votations sur des variantes
 
@@ -418,8 +420,8 @@ Toutes les règles importantes du droit cantonal sont édictées sous la forme d
 - b. la restriction de droits constitutionnels;
 - c. l’organisation et les tâches des autorités;
 - d. les conditions de l’imposition et les bases de calcul des impôts et autres redevances, à l’exception des taxes de faible importance;
-- e. le but, la nature et l’envergure des prestations de l’Etat;
-- f. les tâches permanentes ou récurrentes de l’Etat;
+- e. le but, la nature et l’envergure des prestations de l’État;
+- f. les tâches permanentes ou récurrentes de l’État;
 - g. la délégation de tâches aux communes lorsqu’elle implique pour celles-ci une charge financière supplémentaire;
 - h. la mesure dans laquelle des tâches publiques peuvent être déléguées à des organismes privés et la nature de ces tâches.
 
@@ -433,23 +435,23 @@ Toutes les règles importantes du droit cantonal sont édictées sous la forme d
 
 #### Art. 39
 
-<sup>1</sup> L’Etat et les communes soutiennent l’activité politique menée dans un cadre démocratique.
+<sup>1</sup> L’État et les communes soutiennent l’activité politique menée dans un cadre démocratique.
 
 <sup>2</sup> Les partis politiques sont d’importants piliers de la démocratie. Ils contribuent à former l’opinion et la volonté populaires.
 
-<sup>3</sup> L’Etat, les communes et les partis politiques contribuent à préparer les jeunes à assumer leurs responsabilités et à prendre une part active dans l’Etat et la société.
+<sup>3</sup> L’État, les communes et les partis politiques contribuent à préparer les jeunes à assumer leurs responsabilités et à prendre une part active dans l’État et la société.
 
 ## Chapitre 6: Autorités
 
 ### A. Dispositions générales
 
-### Eligibilité
+### Éligibilité
 
 #### Art. 40
 
-<sup>1</sup> Tous les citoyens ayant le droit de vote en matière cantonale sont éligibles au Grand Conseil, au Conseil d’Etat, aux tribunaux suprêmes du canton ainsi qu’au Conseil des Etats. L’éligibilité aux autres autorités est régie par la loi.
+<sup>1</sup> Tous les citoyens ayant le droit de vote en matière cantonale sont éligibles au Grand Conseil, au Conseil d’État, aux tribunaux suprêmes du canton ainsi qu’au Conseil des États. L’éligibilité aux autres autorités est régie par la loi.
 
-<sup>2</sup> L’Etat et les communes cherchent à obtenir une représentation équitable des hommes et des femmes dans leurs autorités et leurs commissions.
+<sup>2</sup> L’État et les communes cherchent à obtenir une représentation équitable des hommes et des femmes dans leurs autorités et leurs commissions.
 
 ### Durée de fonction
 
@@ -463,7 +465,7 @@ Toutes les règles importantes du droit cantonal sont édictées sous la forme d
 
 #### Art. 42
 
-<sup>1</sup> Les fonctions de membre du Grand Conseil, du Conseil d’Etat, des tribunaux suprêmes du canton et celle de médiateur cantonal sont incompatibles.
+<sup>1</sup> Les fonctions de membre du Grand Conseil, du Conseil d’État, des tribunaux suprêmes du canton et celle de médiateur cantonal sont incompatibles.
 
 <sup>2</sup> Le législateur peut prévoir d’autres incompatibilités.
 
@@ -479,23 +481,23 @@ Toutes les règles importantes du droit cantonal sont édictées sous la forme d
 
 #### Art. 44
 
-<sup>1</sup> Les membres du Grand Conseil et du Conseil d’Etat s’expriment librement devant le parlement et n’encourent aucune responsabilité juridique pour les propos qu’ils y tiennent.
+<sup>1</sup> Les membres du Grand Conseil et du Conseil d’État s’expriment librement devant le parlement et n’encourent aucune responsabilité juridique pour les propos qu’ils y tiennent.
 
 <sup>2</sup> Le Grand Conseil peut lever l’immunité d’un magistrat à une majorité de deux tiers des votants.
 
-<sup>3</sup> Les membres du Conseil d’Etat et des tribunaux suprêmes du canton ne peuvent être poursuivis pénalement pour les actes qu’ils ont commis et les propos qu’ils ont tenus dans l’exercice de leur fonction que si le Grand Conseil a donné son approbation préalable.
+<sup>3</sup> Les membres du Conseil d’État et des tribunaux suprêmes du canton ne peuvent être poursuivis pénalement pour les actes qu’ils ont commis et les propos qu’ils ont tenus dans l’exercice de leur fonction que si le Grand Conseil a donné son approbation préalable.
 
 ### Activité au sein d’une autorité exercée à titre accessoire
 
 #### Art. 45
 
-L’Etat et les communes créent des conditions générales permettant aux autorités d’organiser leur travail de telle sorte qu’il puisse être accompli comme activité accessoire.
+L’État et les communes créent des conditions générales permettant aux autorités d’organiser leur travail de telle sorte qu’il puisse être accompli comme activité accessoire.
 
-### Responsabilité de l’Etat
+### Responsabilité de l’État
 
 #### Art. 46
 
-<sup>1</sup> L’Etat, les communes et les organismes de droit public assument la responsabilité causale des dommages que des autorités ou des personnes à leur service causent sans droit ou par négligence dans l’exercice de leurs fonctions.
+<sup>1</sup> L’État, les communes et les organismes de droit public assument la responsabilité causale des dommages que des autorités ou des personnes à leur service causent sans droit ou par négligence dans l’exercice de leurs fonctions.
 
 <sup>2</sup> Les particuliers investis de tâches publiques assument la responsabilité causale des dommages qu’elles causent sans droit ou par négligence dans l’accomplissement de ce mandat public. Le service qui leur a confié le mandat est responsable à titre subsidiaire.
 
@@ -505,13 +507,13 @@ L’Etat et les communes créent des conditions générales permettant aux autor
 
 #### Art. 47
 
-<sup>1</sup> Les rapports de travail des personnes employées par l’Etat ou les communes sont régis par le droit public.
+<sup>1</sup> Les rapports de travail des personnes employées par l’État ou les communes sont régis par le droit public.
 
 <sup>2</sup>
 
-Le législateur règle la responsabilité des personnes occupées par l’Etat ou les communes vis-à-vis de leur employeur, soit celle:
+Le législateur règle la responsabilité des personnes occupées par l’État ou les communes vis-à-vis de leur employeur, soit celle:
 
-- a. du personnel de l’Etat et des communes;
+- a. du personnel de l’État et des communes;
 - b. des membres des autorités;
 - c. des particuliers chargés de tâches publiques.
 
@@ -537,7 +539,7 @@ Spontanément ou en réponse à la demande d’un administré, les autorités fo
 
 <sup>2</sup> Il se compose de 180 membres exerçant leur fonction à titre accessoire.
 
-### Election
+### Élection
 
 #### Art. 51
 
@@ -571,7 +573,7 @@ Le Grand Conseil décide:
 
 - a. des projets de révision de la Constitution;
 - b. des lois;
-- c. des conventions intercantonales ou internationales dans la mesure où la compétence n’en revient pas au Conseil d’Etat.
+- c. des conventions intercantonales ou internationales dans la mesure où la compétence n’en revient pas au Conseil d’État.
 
 <sup>2</sup> Les droits populaires sont réservés.
 
@@ -593,19 +595,23 @@ Le Grand Conseil décide à la majorité simple des votants:
 
 - a. du budget;
 - b. de la quotité de l’impôt cantonal;
-- c. de l’approbation du compte d’Etat;
-- d. de l’aliénation de valeurs patrimoniales de plus de 3 millions de francs servant à des fins publiques.
+- c. de l’approbation du compte d’État;
+- d.[^56-1] de l’aliénation de valeurs patrimoniales de plus de 4 millions de francs servant à des fins publiques.
 
 <sup>2</sup>
 
 Doivent être approuvées à la majorité de tous les membres du Conseil:
 
-- a. les nouvelles dépenses uniques excédant 3 millions de francs;
-- b. les nouvelles dépenses périodiques excédant 300 000 francs par année;
-- c. les décisions prises dans le cadre de la discussion du budget qui entraînent pour l’Etat une charge financière plus lourde que ce qui était prévu dans le projet du Conseil d’Etat;
-- d. les dispositions concernant des subventions cantonales ou des contributions de l’Etat à la péréquation financière pouvant entraîner des dépenses supplémentaires.
+- a.[^56-2] les nouvelles dépenses uniques excédant 4 millions de francs;
+- b.[^56-3] les nouvelles dépenses périodiques excédant 400 000 francs par année;
+- c. les décisions prises dans le cadre de la discussion du budget qui entraînent pour l’État une charge financière plus lourde que ce qui était prévu dans le projet du Conseil d’État;
+- d. les dispositions concernant des subventions cantonales ou des contributions de l’État à la péréquation financière pouvant entraîner des dépenses supplémentaires.
 
-<sup>3</sup> Le Grand Conseil décide dans un délai de six mois des propositions du Conseil d’Etat destinées à équilibrer à moyen terme le compte de fonctionnement de l’Etat. Il est lié par le montant global des améliorations du solde pouvant être obtenues grâce à ces propositions.
+<sup>3</sup> Le Grand Conseil décide dans un délai de six mois des propositions du Conseil d’État destinées à équilibrer à moyen terme le compte de fonctionnement de l’État. Il est lié par le montant global des améliorations du solde pouvant être obtenues grâce à ces propositions.
+
+[^56-1]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-2]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-3]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Surveillance par le parlement
 
@@ -615,7 +621,7 @@ Doivent être approuvées à la majorité de tous les membres du Conseil:
 
 <sup>2</sup> Les droits de prendre des renseignements et de consulter des dossiers nécessaires à cet effet sont spécifiés dans la loi.
 
-### Elections
+### Élections
 
 #### Art. 58
 
@@ -637,19 +643,19 @@ Le Grand Conseil peut:
 Il décide:
 
 - a. des projets sujets au référendum facultatif;
-- b. des recours en grâce que le Conseil d’Etat lui recommande d’admettre.
+- b. des recours en grâce que le Conseil d’État lui recommande d’admettre.
 
-<sup>3</sup> Dans les limites de ses compétences, le Grand Conseil peut charger le Conseil d’Etat d’élaborer des projets.
+<sup>3</sup> Dans les limites de ses compétences, le Grand Conseil peut charger le Conseil d’État d’élaborer des projets.
 
 <sup>4</sup> Le législateur peut conférer encore d’autres compétences et attributions au Grand Conseil.
 
-### C. Conseil d’Etat
+### C. Conseil d’État
 
 ### Fonction
 
 #### Art. 60
 
-<sup>1</sup> Le Conseil d’Etat est l’autorité directoriale et exécutive suprême du canton.
+<sup>1</sup> Le Conseil d’État est l’autorité directoriale et exécutive suprême du canton.
 
 <sup>2</sup> Il est le gardien de la Constitution et exécute les lois et les ordonnances ainsi que les arrêtés du Grand Conseil.
 
@@ -657,15 +663,15 @@ Il décide:
 
 #### Art. 61
 
-<sup>1</sup> Le Conseil d’Etat se compose de sept membres exerçant leur fonction à plein temps.
+<sup>1</sup> Le Conseil d’État se compose de sept membres exerçant leur fonction à plein temps.
 
 <sup>2</sup> Il élit son président et son vice-président pour une durée d’un an.
 
-### Election
+### Élection
 
 #### Art. 62
 
-<sup>1</sup> Les membres du Conseil d’Etat sont élus par le peuple en même temps que le Grand Conseil.
+<sup>1</sup> Les membres du Conseil d’État sont élus par le peuple en même temps que le Grand Conseil.
 
 <sup>2</sup> L’élection a lieu au scrutin majoritaire.
 
@@ -675,35 +681,35 @@ Il décide:
 
 #### Art. 63
 
-<sup>1</sup> Les membres du Conseil d’Etat ne sont pas autorisés à avoir d’autres activités rémunérées.
+<sup>1</sup> Les membres du Conseil d’État ne sont pas autorisés à avoir d’autres activités rémunérées.
 
-<sup>2</sup> Font exception à cette règle les mandats de représentation de l’Etat dans des organismes publics ou privés autorisés par le Grand Conseil.
+<sup>2</sup> Font exception à cette règle les mandats de représentation de l’État dans des organismes publics ou privés autorisés par le Grand Conseil.
 
-<sup>3</sup> La députation du canton à l’Assemblée fédérale ne peut comprendre plus de deux membres du Conseil d’Etat.
+<sup>3</sup> La députation du canton à l’Assemblée fédérale ne peut comprendre plus de deux membres du Conseil d’État.
 
-### Statut des conseillers d’Etat au parlement
+### Statut des conseillers d’État au parlement
 
 #### Art. 64
 
-Les membres du Conseil d’Etat prennent part aux délibérations du Grand Conseil ou de ses commissions à titre consultatif. Ils ont le droit d’y présenter des propositions.
+Les membres du Conseil d’État prennent part aux délibérations du Grand Conseil ou de ses commissions à titre consultatif. Ils ont le droit d’y présenter des propositions.
 
 ### Organisation
 
 #### Art. 65
 
-<sup>1</sup> Le Conseil d’Etat prend ses décisions en autorité collégiale.
+<sup>1</sup> Le Conseil d’État prend ses décisions en autorité collégiale.
 
 <sup>2</sup> La préparation des dossiers gouvernementaux et l’exécution des décisions sont réparties par directions.
 
-<sup>3</sup> Chaque direction est dirigée par un membre du Conseil d’Etat.
+<sup>3</sup> Chaque direction est dirigée par un membre du Conseil d’État.
 
-<sup>4</sup> Le Conseil d’Etat peut confier des dossiers aux directions ainsi qu’aux unités administratives qui les composent et les charger de les traiter de manière autonome.
+<sup>4</sup> Le Conseil d’État peut confier des dossiers aux directions ainsi qu’aux unités administratives qui les composent et les charger de les traiter de manière autonome.
 
 ### Planification
 
 #### Art. 66
 
-<sup>1</sup> Le Conseil d’Etat définit les objectifs et les moyens de sa politique gouvernementale en se fondant sur des perspectives à long terme.
+<sup>1</sup> Le Conseil d’État définit les objectifs et les moyens de sa politique gouvernementale en se fondant sur des perspectives à long terme.
 
 <sup>2</sup> Il les présente au Grand Conseil au début de chaque législature.
 
@@ -711,7 +717,7 @@ Les membres du Conseil d’Etat prennent part aux délibérations du Grand Conse
 
 #### Art. 67
 
-<sup>1</sup> En règle générale, le Conseil d’Etat dirige la phase préliminaire de la procédure législative. Dans ses rapports, il relève les conséquences écologiques, économiques et sociales que les projets législatifs pourraient avoir à long terme.
+<sup>1</sup> En règle générale, le Conseil d’État dirige la phase préliminaire de la procédure législative. Dans ses rapports, il relève les conséquences écologiques, économiques et sociales que les projets législatifs pourraient avoir à long terme.
 
 <sup>2</sup> Il peut édicter des ordonnances portant exécution des lois.
 
@@ -719,23 +725,27 @@ Les membres du Conseil d’Etat prennent part aux délibérations du Grand Conse
 
 #### Art. 68
 
-<sup>1</sup> Le Conseil d’Etat prépare un projet de budget et établit le compte d’Etat.
+<sup>1</sup> Le Conseil d’État prépare un projet de budget et établit le compte d’État.
 
 <sup>2</sup>
 
 Dans les limites du budget, il décide:
 
-- a. des nouvelles dépenses uniques n’excédant pas 3 millions de francs;
-- b. des nouvelles dépenses périodiques n’excédant pas 300 000 francs par année;
+- a.[^68-1] des nouvelles dépenses uniques n’excédant pas 4 millions de francs;
+- b.[^68-2] des nouvelles dépenses périodiques n’excédant pas 400 000 francs par année;
 - c. des dépenses liées.
 
-<sup>3</sup> Il décide de l’aliénation de valeurs patrimoniales servant à des fins publiques qui n’excèdent pas 3 millions de francs.
+<sup>3</sup> Il décide de l’aliénation de valeurs patrimoniales servant à des fins publiques qui n’excèdent pas 4 millions de francs.[^68-3]
+
+[^68-1]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-2]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-3]: Accepté en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Collaboration avec d’autres cantons et avec l’étranger
 
 #### Art. 69
 
-<sup>1</sup> Le Conseil d’Etat négocie des conventions intercantonales ou internationales. Dans les limites de son pouvoir réglementaire, il est seul compétent pour les conclure.
+<sup>1</sup> Le Conseil d’État négocie des conventions intercantonales ou internationales. Dans les limites de son pouvoir réglementaire, il est seul compétent pour les conclure.
 
 <sup>2</sup> Il fournit régulièrement à la commission compétente du Grand Conseil des informations circonstanciées sur les projets de collaboration au niveau intercantonal et international.
 
@@ -743,7 +753,7 @@ Dans les limites du budget, il décide:
 
 #### Art. 70
 
-<sup>1</sup> Le Conseil d’Etat dirige l’administration cantonale et décide de son organisation dans les limites de la loi.
+<sup>1</sup> Le Conseil d’État dirige l’administration cantonale et décide de son organisation dans les limites de la loi.
 
 <sup>2</sup> Il veille à ce que l’administration respecte la loi et se montre efficace, coopérative, économe et proche des administrés.
 
@@ -755,11 +765,11 @@ Dans les limites du budget, il décide:
 
 <sup>1</sup>
 
-Le Conseil d’Etat:
+Le Conseil d’État:
 
 - a. veille au maintien de la sécurité et de l’ordre publics;
 - b. prépare les élections et votations et veille à leur bon déroulement;
-- c. représente l’Etat à l’intérieur comme à l’extérieur des frontières cantonales;
+- c. représente l’État à l’intérieur comme à l’extérieur des frontières cantonales;
 - d. procède aux élections qui relèvent de sa compétence;
 - e. exécute les jugements entrés en force de chose jugée;
 - f. rend compte de son activité au Grand Conseil sous la forme d’un rapport annuel;
@@ -767,11 +777,11 @@ Le Conseil d’Etat:
 
 <sup>2</sup> Il s’acquitte de toutes les autres tâches mentionnées dans la Constitution ou la législation dans la mesure où la compétence n’en revient pas à une autre autorité.
 
-### Etat d’urgence
+### État d’urgence
 
 #### Art. 72
 
-<sup>1</sup> En cas de troubles graves de la sécurité et de l’ordre publics ou si de tels troubles sont imminents, le Conseil d’Etat peut prendre des mesures sans base légale et notamment arrêter des ordonnances de nécessité.
+<sup>1</sup> En cas de troubles graves de la sécurité et de l’ordre publics ou si de tels troubles sont imminents, le Conseil d’État peut prendre des mesures sans base légale et notamment arrêter des ordonnances de nécessité.
 
 <sup>2</sup> Les ordonnances de nécessité sont immédiatement soumises à l’approbation du Grand Conseil. Elles sont caduques au plus tard un an après leur entrée en vigueur.
 
@@ -783,7 +793,7 @@ Le Conseil d’Etat:
 
 <sup>1</sup> Les tribunaux connaissent des litiges et des affaires pénales qui relèvent de leur compétence en vertu de la loi. Le législateur peut leur confier encore d’autres tâches.
 
-<sup>2</sup> Les tribunaux rendent la justice indépendamment des autres pouvoirs de l’Etat. Une fois définitif, le jugement d’une autorité judiciaire ne peut plus être annulé ou modifié par un autre pouvoir de l’Etat.
+<sup>2</sup> Les tribunaux rendent la justice indépendamment des autres pouvoirs de l’État. Une fois définitif, le jugement d’une autorité judiciaire ne peut plus être annulé ou modifié par un autre pouvoir de l’État.
 
 <sup>3</sup> Sous la direction des tribunaux suprêmes du canton, les tribunaux se chargent eux-mêmes de leur gestion. Le législateur prévoit à cet effet des organes communs aux tribunaux suprêmes du canton.
 
@@ -797,7 +807,7 @@ Le Conseil d’Etat:
 
 [^74-1]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 1, 4152).
 
-### Election
+### Élection
 
 #### Art. 75
 
@@ -840,7 +850,7 @@ Le Conseil d’Etat:
 
 <sup>1</sup> Les tribunaux et les autorités cantonales élues par le peuple n’appliquent pas les dispositions contraires au droit supérieur.
 
-<sup>2</sup> A l’exception de la Constitution et des lois, un acte normatif cantonal peut être contesté devant une juridiction suprême désignée par la loi s’il est allégué qu’il est contraire au droit supérieur.
+<sup>2</sup> À l’exception de la Constitution et des lois, un acte normatif cantonal peut être contesté devant une juridiction suprême désignée par la loi s’il est allégué qu’il est contraire au droit supérieur.
 
 <sup>3</sup> La possibilité de contester des actes normatifs communaux est régie par la loi.
 
@@ -874,11 +884,11 @@ Les citoyens du district élisent:
 
 <sup>4</sup> Il peut étendre ses activités aux communes dont le règlement prévoit cette possibilité.
 
-### Conseil des Etats
+### Conseil des États
 
 #### Art. 82
 
-<sup>1</sup> Les deux députés au Conseil des Etats sont élus par le peuple au scrutin majoritaire. Le territoire cantonal tient lieu d’arrondissement électoral.
+<sup>1</sup> Les deux députés au Conseil des États sont élus par le peuple au scrutin majoritaire. Le territoire cantonal tient lieu d’arrondissement électoral.
 
 <sup>2</sup> Leur durée de fonction est de quatre ans. D’ordinaire, ils sont élus en même temps que les députés au Conseil national.
 
@@ -892,7 +902,7 @@ Les citoyens du district élisent:
 
 #### Art. 83
 
-<sup>1</sup> Les communes politiques assument toutes les tâches publiques qui ne relèvent de la compétence ni de la Confédération ni de l’Etat.
+<sup>1</sup> Les communes politiques assument toutes les tâches publiques qui ne relèvent de la compétence ni de la Confédération ni de l’État.
 
 <sup>2</sup> Les tâches relevant des domaines de l’éducation et de la formation peuvent être assumées par des communes scolaires.
 
@@ -910,7 +920,7 @@ Les citoyens du district élisent:
 
 <sup>4</sup> La création de nouvelles communes entraînant une augmentation du nombre des communes doit être l’objet d’une loi.
 
-<sup>5</sup> Les projets de fusion de communes sont soutenus par l’Etat.
+<sup>5</sup> Les projets de fusion de communes sont soutenus par l’État.
 
 ### Autonomie communale
 
@@ -918,7 +928,7 @@ Les citoyens du district élisent:
 
 <sup>1</sup> Les communes s’administrent de façon autonome. La législation cantonale leur laisse une liberté d’action maximale.
 
-<sup>2</sup> L’Etat tient compte des conséquences que son activité peut avoir sur les communes, les villes et les agglomérations.
+<sup>2</sup> L’État tient compte des conséquences que son activité peut avoir sur les communes, les villes et les agglomérations.
 
 <sup>3</sup> Il entend les communes en temps utile.
 
@@ -967,7 +977,7 @@ Les communes peuvent déléguer certaines tâches communales à une commission d
 
 <sup>2</sup> Le règlement communal est adopté par le corps électoral dans un vote aux urnes.
 
-<sup>3</sup> Il doit être approuvé par le Conseil d’Etat, qui contrôle sa légalité.
+<sup>3</sup> Il doit être approuvé par le Conseil d’État, qui contrôle sa légalité.
 
 ### B. Collaboration intercommunale
 
@@ -977,7 +987,7 @@ Les communes peuvent déléguer certaines tâches communales à une commission d
 
 <sup>1</sup> Les communes peuvent accomplir des tâches en commun.
 
-<sup>2</sup> L’Etat facilite la collaboration entre les communes par-delà les frontières cantonales. Il aide les communes à préserver leurs intérêts.
+<sup>2</sup> L’État facilite la collaboration entre les communes par-delà les frontières cantonales. Il aide les communes à préserver leurs intérêts.
 
 ### Accord de collaboration
 
@@ -997,7 +1007,7 @@ Les communes peuvent déléguer certaines tâches communales à une commission d
 
 <sup>3</sup> Les syndicats de communes sont des collectivités publiques autonomes. Ils se donnent des statuts, dans lesquels ils définissent leurs tâches et leur organisation.
 
-<sup>4</sup> Les statuts des syndicats de communes sont soumis à l’approbation du Conseil d’Etat, qui s’assure de leur légalité.
+<sup>4</sup> Les statuts des syndicats de communes sont soumis à l’approbation du Conseil d’État, qui s’assure de leur légalité.
 
 ### Respect des principes démocratiques dans les syndicats
 
@@ -1013,7 +1023,7 @@ Les communes peuvent déléguer certaines tâches communales à une commission d
 
 #### Art. 94
 
-Les communes, les syndicats de communes et tous les autres organismes ou personnes investis de tâches communales sont placés sous la surveillance des autorités du district et du Conseil d’Etat.
+Les communes, les syndicats de communes et tous les autres organismes ou personnes investis de tâches communales sont placés sous la surveillance des autorités du district et du Conseil d’État.
 
 ## Chapitre 8: Tâches publiques
 
@@ -1023,13 +1033,13 @@ Les communes, les syndicats de communes et tous les autres organismes ou personn
 
 #### Art. 95
 
-<sup>1</sup> L’Etat, les communes et les autres particuliers investis de tâches publiques collaborent dans l’accomplissement de leurs tâches.
+<sup>1</sup> L’État, les communes et les autres particuliers investis de tâches publiques collaborent dans l’accomplissement de leurs tâches.
 
-<sup>2</sup> L’Etat et les communes s’assurent que les tâches publiques sont remplies de manière efficace, durable et économiquement optimale par celui qui est le mieux à même de l’assurer.
+<sup>2</sup> L’État et les communes s’assurent que les tâches publiques sont remplies de manière efficace, durable et économiquement optimale par celui qui est le mieux à même de l’assurer.
 
 <sup>3</sup> Ils évaluent régulièrement la nécessité de chaque tâche publique.
 
-<sup>4</sup> Avant d’assumer une nouvelle tâche, l’Etat et les communes présentent la manière dont ils assurent son financement.
+<sup>4</sup> Avant d’assumer une nouvelle tâche, l’État et les communes présentent la manière dont ils assurent son financement.
 
 ### Accomplissement décentralisé des tâches
 
@@ -1039,13 +1049,13 @@ Les communes, les syndicats de communes et tous les autres organismes ou personn
 
 <sup>2</sup> En vue de l’accomplissement de tâches spécifiques, la loi peut, pour des raisons importantes, prévoir une autre subdivision du territoire cantonal.
 
-### Répartition des tâches entre l’Etat et les communes
+### Répartition des tâches entre l’État et les communes
 
 #### Art. 97
 
-<sup>1</sup> Les communes assument elles-mêmes les tâches publiques qu’elles sont capables de remplir d’une manière aussi appropriée que l’Etat.
+<sup>1</sup> Les communes assument elles-mêmes les tâches publiques qu’elles sont capables de remplir d’une manière aussi appropriée que l’État.
 
-<sup>2</sup> A la demande d’une commune ou avec son accord, le Conseil d’Etat peut lui déléguer des tâches cantonales en la chargeant de les accomplir de manière autonome. Il tient compte des moyens dont dispose la commune et lui alloue une compensation adéquate.
+<sup>2</sup> À la demande d’une commune ou avec son accord, le Conseil d’État peut lui déléguer des tâches cantonales en la chargeant de les accomplir de manière autonome. Il tient compte des moyens dont dispose la commune et lui alloue une compensation adéquate.
 
 ### B. Délégation de tâches publiques
 
@@ -1053,7 +1063,7 @@ Les communes, les syndicats de communes et tous les autres organismes ou personn
 
 #### Art. 98
 
-<sup>1</sup> L’Etat et les communes, dans la mesure où la loi le leur permet, ont la possibilité de déléguer l’accomplissement de tâches publiques à des tiers. Ils peuvent, à cet effet, créer des organismes de droit public ou de droit privé ou prendre des participations dans de tels organismes.
+<sup>1</sup> L’État et les communes, dans la mesure où la loi le leur permet, ont la possibilité de déléguer l’accomplissement de tâches publiques à des tiers. Ils peuvent, à cet effet, créer des organismes de droit public ou de droit privé ou prendre des participations dans de tels organismes.
 
 <sup>2</sup> La délégation d’une tâche cantonale doit être l’objet d’une loi.
 
@@ -1083,43 +1093,43 @@ Ces actes normatifs doivent réglementer:
 
 #### Art. 100
 
-L’Etat et les communes assurent la sécurité et l’ordre publics.
+L’État et les communes assurent la sécurité et l’ordre publics.
 
 ### Aménagement du territoire
 
 #### Art. 101
 
-L’Etat et les communes veillent à une occupation rationnelle du territoire, à une utilisation judicieuse et mesurée du sol ainsi qu’à la préservation de l’espace vital.
+L’État et les communes veillent à une occupation rationnelle du territoire, à une utilisation judicieuse et mesurée du sol ainsi qu’à la préservation de l’espace vital.
 
 ### Protection de l’environnement
 
 #### Art. 102
 
-<sup>1</sup> L’Etat et les communes veillent à la protection de l’être humain et de l’environnement contre les atteintes nuisibles ou incommodantes.
+<sup>1</sup> L’État et les communes veillent à la protection de l’être humain et de l’environnement contre les atteintes nuisibles ou incommodantes.
 
 <sup>2</sup> Les atteintes nuisibles ou incommodantes doivent être évitées dans toute la mesure du possible et réparées si nécessaire. Les frais de prévention et de réparation sont à la charge de ceux qui les causent.
 
-<sup>3</sup> L’Etat et les communes peuvent encourager l’utilisation de techniques permettant un développement durable.
+<sup>3</sup> L’État et les communes peuvent encourager l’utilisation de techniques permettant un développement durable.
 
 ### Protection de la nature et du patrimoine
 
 #### Art. 103
 
-<sup>1</sup> L’Etat et les communes veillent à la conservation et à la protection de la faune et de la flore.
+<sup>1</sup> L’État et les communes veillent à la conservation et à la protection de la faune et de la flore.
 
-<sup>2</sup> L’Etat et les communes veillent à la conservation des paysages, de la physionomie des localités, des bâtiments et des groupes de bâtiments qui méritent d’être préservés ainsi que des monuments naturels et des biens culturels.
+<sup>2</sup> L’État et les communes veillent à la conservation des paysages, de la physionomie des localités, des bâtiments et des groupes de bâtiments qui méritent d’être préservés ainsi que des monuments naturels et des biens culturels.
 
 ### Transports
 
 #### Art. 104
 
-<sup>1</sup> L’Etat et les communes veillent à ce que l’ensemble des transports soient organisés de manière sûre, économiquement optimale et respectueuse de l’environnement et veillent à ce que le réseau des transports soit performant.
+<sup>1</sup> L’État et les communes veillent à ce que l’ensemble des transports soient organisés de manière sûre, économiquement optimale et respectueuse de l’environnement et veillent à ce que le réseau des transports soit performant.
 
-<sup>2</sup> Les routes cantonales relèvent de la souveraineté de l’Etat.
+<sup>2</sup> Les routes cantonales relèvent de la souveraineté de l’État.
 
 <sup>2bis</sup> Le canton veille à garantir l’existence d’un réseau routier cantonal performant pour le trafic routier privé. Une réduction de la performance sur certains tronçons doit au minimum être compensée dans le réseau routier environnant.[^104-1]
 
-<sup>3</sup> L’Etat et les communes promeuvent les transports publics sur l’ensemble du territoire cantonal.
+<sup>3</sup> L’État et les communes promeuvent les transports publics sur l’ensemble du territoire cantonal.
 
 [^104-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> fév. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 1 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
@@ -1127,27 +1137,27 @@ L’Etat et les communes veillent à une occupation rationnelle du territoire, �
 
 #### Art. 105
 
-<sup>1</sup> Les eaux relèvent de la souveraineté de l’Etat.
+<sup>1</sup> Les eaux relèvent de la souveraineté de l’État.
 
-<sup>2</sup> L’Etat et les communes garantissent l’approvisionnement en eau.
+<sup>2</sup> L’État et les communes garantissent l’approvisionnement en eau.
 
 <sup>3</sup> Ils prennent les mesures nécessaires à la protection contre les crues et les autres dangers naturels. Ils encouragent la renaturation des cours d’eau.
 
-### Energie
+### Énergie
 
 #### Art. 106
 
-<sup>1</sup> L’Etat crée des conditions de base favorables à un approvisionnement énergétique suffisant et sûr, qui soit économiquement optimal et qui ménage l’environnement.
+<sup>1</sup> L’État crée des conditions de base favorables à un approvisionnement énergétique suffisant et sûr, qui soit économiquement optimal et qui ménage l’environnement.
 
 <sup>2</sup> Il incite à l’utilisation des énergies indigènes et des énergies renouvelables ainsi qu’à une utilisation rationnelle de l’énergie.
 
 <sup>3</sup> Il veille à ce que l’approvisionnement en électricité soit sûr et économiquement optimal.
 
-### Economie et travail
+### Économie et travail
 
 #### Art. 107
 
-<sup>1</sup> L’Etat et les communes créent des conditions de base favorables à la diversité et à la compétitivité de l’économie ainsi qu’à son orientation sociale et libérale. Ils prennent particulièrement en compte les besoins des petites et moyennes entreprises et des partenaires sociaux.
+<sup>1</sup> L’État et les communes créent des conditions de base favorables à la diversité et à la compétitivité de l’économie ainsi qu’à son orientation sociale et libérale. Ils prennent particulièrement en compte les besoins des petites et moyennes entreprises et des partenaires sociaux.
 
 <sup>2</sup> En collaboration avec des particuliers ou des organismes privés, ils encouragent les mesures qui permettent de concilier une activité professionnelle avec une tâche d’encadrement.
 
@@ -1157,25 +1167,25 @@ L’Etat et les communes veillent à une occupation rationnelle du territoire, �
 
 #### Art. 108
 
-L’Etat veille à ce que les secteurs de l’agriculture et de la sylviculture soient exploités dans la perspective d’un développement durable et puissent remplir les différentes tâches qui sont les leurs.
+L’État veille à ce que les secteurs de l’agriculture et de la sylviculture soient exploités dans la perspective d’un développement durable et puissent remplir les différentes tâches qui sont les leurs.
 
 ### Banque cantonale
 
 #### Art. 109
 
-L’Etat exploite une banque cantonale.
+L’État exploite une banque cantonale.
 
 ### Logement
 
 #### Art. 110
 
-L’Etat et les communes encouragent la construction de logements d’utilité publique ainsi que l’accession à la propriété pour un usage personnel.
+L’État et les communes encouragent la construction de logements d’utilité publique ainsi que l’accession à la propriété pour un usage personnel.
 
 ### Aide sociale
 
 #### Art. 111
 
-<sup>1</sup> L’Etat et les communes veillent à ce qu’une personne qui se trouve dans une situation de détresse dont elle ne parvient pas à sortir par ses propres moyens ait un toit et reçoive de quoi assurer son existence.
+<sup>1</sup> L’État et les communes veillent à ce qu’une personne qui se trouve dans une situation de détresse dont elle ne parvient pas à sortir par ses propres moyens ait un toit et reçoive de quoi assurer son existence.
 
 <sup>2</sup> Ils encouragent le perfectionnement ou la reconversion professionnels des personnes sans emploi et les aident à réintégrer le monde du travail.
 
@@ -1185,7 +1195,7 @@ L’Etat et les communes encouragent la construction de logements d’utilité p
 
 #### Art. 112
 
-En collaboration avec des personnes ou organismes privés, l’Etat et les communes:
+En collaboration avec des personnes ou organismes privés, l’État et les communes:
 
 - a. soutiennent la famille en tant que communauté composée d’adultes et d’enfants;
 - b. favorisent la protection des enfants et des jeunes ainsi que leur intégration dans la société;
@@ -1195,7 +1205,7 @@ En collaboration avec des personnes ou organismes privés, l’Etat et les commu
 
 #### Art. 113
 
-<sup>1</sup> L’Etat et les communes veillent à ce que le système de santé soit suffisant et économiquement supportable.
+<sup>1</sup> L’État et les communes veillent à ce que le système de santé soit suffisant et économiquement supportable.
 
 <sup>2</sup> Ils encouragent les mesures de prévention.
 
@@ -1203,7 +1213,7 @@ En collaboration avec des personnes ou organismes privés, l’Etat et les commu
 
 #### Art. 114
 
-<sup>1</sup> L’Etat et les communes favorisent la cohabitation entre les différents groupes de la population dans le respect et la tolérance mutuels ainsi que leur participation à la vie publique.
+<sup>1</sup> L’État et les communes favorisent la cohabitation entre les différents groupes de la population dans le respect et la tolérance mutuels ainsi que leur participation à la vie publique.
 
 <sup>2</sup> Ils prennent des mesures pour favoriser l’intégration des étrangers domiciliés dans le canton.
 
@@ -1211,49 +1221,49 @@ En collaboration avec des personnes ou organismes privés, l’Etat et les commu
 
 #### Art. 115
 
-L’Etat et les communes assurent un enseignement qui prenne en compte et développe les capacités intellectuelles, mentales, sociales et physiques de chaque individu, qui renforce son sens des responsabilités et de la communauté en vue de son épanouissement personnel et professionnel.
+L’État et les communes assurent un enseignement qui prenne en compte et développe les capacités intellectuelles, mentales, sociales et physiques de chaque individu, qui renforce son sens des responsabilités et de la communauté en vue de son épanouissement personnel et professionnel.
 
-### Ecoles publiques
+### Écoles publiques
 
 #### Art. 116
 
-<sup>1</sup> L’Etat et les communes ont des écoles publiques dispensant un enseignement de qualité.
+<sup>1</sup> L’État et les communes ont des écoles publiques dispensant un enseignement de qualité.
 
-<sup>2</sup> Les écoles publiques respectent les valeurs fondamentales de l’Etat démocratique. Elles sont neutres sur les plans confessionnel et politique.
+<sup>2</sup> Les écoles publiques respectent les valeurs fondamentales de l’État démocratique. Elles sont neutres sur les plans confessionnel et politique.
 
-### Ecoles privées
+### Écoles privées
 
 #### Art. 117
 
-<sup>1</sup> Les écoles privées qui remplissent les mêmes tâches que l’école publique sont soumises à l’autorisation et à la surveillance de l’Etat.
+<sup>1</sup> Les écoles privées qui remplissent les mêmes tâches que l’école publique sont soumises à l’autorisation et à la surveillance de l’État.
 
-<sup>2</sup> L’Etat peut soutenir les écoles privées fournissant des prestations d’intérêt public.
+<sup>2</sup> L’État peut soutenir les écoles privées fournissant des prestations d’intérêt public.
 
 ### Hautes écoles
 
 #### Art. 118
 
-L’Etat veille à la qualité de l’enseignement et de la recherche à l’université et dans les autres hautes écoles.
+L’État veille à la qualité de l’enseignement et de la recherche à l’université et dans les autres hautes écoles.
 
 ### Formation professionnelle et perfectionnement
 
 #### Art. 119
 
-<sup>1</sup> L’Etat encourage la formation professionnelle.
+<sup>1</sup> L’État encourage la formation professionnelle.
 
-<sup>2</sup> L’Etat et les communes encouragent le perfectionnement professionnel et la formation des adultes.
+<sup>2</sup> L’État et les communes encouragent le perfectionnement professionnel et la formation des adultes.
 
 ### Culture
 
 #### Art. 120
 
-L’Etat et les communes encouragent l’activité culturelle et la création artistique.
+L’État et les communes encouragent l’activité culturelle et la création artistique.
 
 ### Sport
 
 #### Art. 121
 
-L’Etat et les communes encouragent le sport.
+L’État et les communes encouragent le sport.
 
 ## Chapitre 9: Finances
 
@@ -1261,19 +1271,19 @@ L’Etat et les communes encouragent le sport.
 
 #### Art. 122
 
-<sup>1</sup> L’Etat et les communes veillent à la santé de leurs finances.
+<sup>1</sup> L’État et les communes veillent à la santé de leurs finances.
 
-<sup>2</sup> L’Etat, les communes et les autres organismes de droit public gèrent leurs finances selon les principes de la légalité, de l’économie et de l’efficacité.
+<sup>2</sup> L’État, les communes et les autres organismes de droit public gèrent leurs finances selon les principes de la légalité, de l’économie et de l’efficacité.
 
 <sup>3</sup> Le budget et les comptes reposent sur les principes de la transparence, de la comparabilité et de la publicité.
 
-<sup>4</sup> L’encouragement des comportements respectueux de l’environnement est un critère auquel une attention particulière est accordée lors de la définition des bases de calcul des contributions perçues et des contributions versées par l’Etat.
+<sup>4</sup> L’encouragement des comportements respectueux de l’environnement est un critère auquel une attention particulière est accordée lors de la définition des bases de calcul des contributions perçues et des contributions versées par l’État.
 
-### Equilibre du budget
+### Équilibre du budget
 
 #### Art. 123
 
-<sup>1</sup> L’Etat et les communes équilibrent leur budget à moyen terme. La loi peut obliger les communes à équilibrer leur budget à court terme.
+<sup>1</sup> L’État et les communes équilibrent leur budget à moyen terme. La loi peut obliger les communes à équilibrer leur budget à court terme.
 
 <sup>2</sup> Les découverts sont amortis dans un délai de cinq ans.
 
@@ -1281,7 +1291,7 @@ L’Etat et les communes encouragent le sport.
 
 #### Art. 124
 
-<sup>1</sup> L’Etat et les communes planifient leurs tâches ainsi que leur financement. Ils tiennent compte des effets que les mesures prévues auront à long terme.
+<sup>1</sup> L’État et les communes planifient leurs tâches ainsi que leur financement. Ils tiennent compte des effets que les mesures prévues auront à long terme.
 
 <sup>2</sup> Ils s’efforcent de ne pas faire augmenter la quote-part fiscale.
 
@@ -1328,7 +1338,7 @@ Elle détermine en particulier:
 
 #### Art. 127
 
-<sup>1</sup> L’Etat assure la péréquation financière.
+<sup>1</sup> L’État assure la péréquation financière.
 
 <sup>2</sup>
 
@@ -1337,13 +1347,13 @@ La péréquation financière:
 - a. permet aux communes d’accomplir les tâches nécessaires;
 - b. est un moyen d’éviter que les quotités d’impôt ne varient trop d’une commune à l’autre.
 
-<sup>3</sup> La péréquation financière est supportée par l’Etat et les communes.
+<sup>3</sup> La péréquation financière est supportée par l’État et les communes.
 
 ### Compensation des charges
 
 #### Art. 128
 
-<sup>1</sup> La loi peut prévoir que les communes qui fournissent des prestations spéciales pour un vaste territoire ou qui doivent supporter des charges particulières reçoivent de l’Etat ou d’autres communes une compensation équitable compte tenu de leur capacité financière.
+<sup>1</sup> La loi peut prévoir que les communes qui fournissent des prestations spéciales pour un vaste territoire ou qui doivent supporter des charges particulières reçoivent de l’État ou d’autres communes une compensation équitable compte tenu de leur capacité financière.
 
 <sup>2</sup> Les communes qui financent ou qui obtiennent des compensations doivent être consultées.
 
@@ -1351,15 +1361,15 @@ La péréquation financière:
 
 #### Art. 129
 
-<sup>1</sup> Le contrôle des finances vérifie les comptes de l’Etat et rédige un rapport à l’attention du Conseil d’Etat et du Grand Conseil.
+<sup>1</sup> Le contrôle des finances vérifie les comptes de l’État et rédige un rapport à l’attention du Conseil d’État et du Grand Conseil.
 
 <sup>2</sup> Le contrôle des finances est indépendant.
 
-<sup>3</sup> Le Grand Conseil en élit la direction sur proposition du Conseil d’Etat.
+<sup>3</sup> Le Grand Conseil en élit la direction sur proposition du Conseil d’État.
 
 <sup>4</sup> Les finances des communes et des autres organismes de droit public sont contrôlées par des organes spécialisés indépendants.
 
-## Chapitre 10: Eglises et autres communautés religieuses
+## Chapitre 10: Églises et autres communautés religieuses
 
 ### Collectivités ecclésiastiques
 
@@ -1367,17 +1377,17 @@ La péréquation financière:
 
 <sup>1</sup>
 
-L’Etat reconnaît comme collectivités publiques indépendantes:
+L’État reconnaît comme collectivités publiques indépendantes:
 
-- a. l’Eglise réformée évangélique et ses paroisses;
-- b. l’Eglise catholique romaine et ses paroisses;
+- a. l’Église réformée évangélique et ses paroisses;
+- b. l’Église catholique romaine et ses paroisses;
 - c. la paroisse catholique chrétienne.
 
 <sup>2</sup>
 
-L’Eglise réformée évangélique, l’Eglise catholique romaine et la paroisse catholique chrétienne sont autonomes dans les limites du droit cantonal. Elles règlent:
+L’Église réformée évangélique, l’Église catholique romaine et la paroisse catholique chrétienne sont autonomes dans les limites du droit cantonal. Elles règlent:
 
-- a. le droit de vote en ce qui concerne leurs affaires internes; ces règles sont établies dans le respect des principes de l’Etat de droit et de la démocratie dans un acte normatif soumis au référendum obligatoire;
+- a. le droit de vote en ce qui concerne leurs affaires internes; ces règles sont établies dans le respect des principes de l’État de droit et de la démocratie dans un acte normatif soumis au référendum obligatoire;
 - b. la compétence pour la constitution de nouvelles paroisses ainsi que pour la fusion ou la dissolution de paroisses.
 
 <sup>3</sup>
@@ -1391,15 +1401,15 @@ La loi règle:
 
 <sup>4</sup> La loi peut prévoir la désaffectation d’une partie du produit de l’impôt.
 
-<sup>5</sup> L’Etat exerce la haute surveillance sur les collectivités ecclésiastiques.
+<sup>5</sup> L’État exerce la haute surveillance sur les collectivités ecclésiastiques.
 
 ### Autres communautés religieuses
 
 #### Art. 131
 
-<sup>1</sup> Parmi les autres communautés religieuses, l’Etat reconnaît l’«Israelitische Cultusgemeinde» et la «Jüdische Liberale Gemeinde».
+<sup>1</sup> Parmi les autres communautés religieuses, l’État reconnaît l’«Israelitische Cultusgemeinde» et la «Jüdische Liberale Gemeinde».
 
-<sup>2</sup> Ces communautés règlent la participation de leurs membres conformément aux principes de la démocratie et de l’Etat de droit.
+<sup>2</sup> Ces communautés règlent la participation de leurs membres conformément aux principes de la démocratie et de l’État de droit.
 
 <sup>3</sup>
 
@@ -1513,11 +1523,11 @@ L’art. 46, al. 2, n’instaure une responsabilité causale des particuliers qu
 
 Les syndicats de communes ont un délai de quatre ans à compter de l’entrée en vigueur de la présente Constitution pour régler le droit d’initiative et le droit de référendum au sens de l’art. 93, al. 2, dans leurs statuts. D’ici là, les votations dans les syndicats de communes sont régies par l’ancien droit et les anciens statuts.
 
-### Eglises
+### Églises
 
 #### Art. 145
 
-<sup>1</sup> Les prestations de l’Etat aux collectivités ecclésiastiques fondées sur des titres juridiques historiques sont garanties jusqu’à l’entrée en vigueur des nouvelles dispositions légales. La nouvelle réglementation de ces prestations sera fondée sur leur volume global actuel.
+<sup>1</sup> Les prestations de l’État aux collectivités ecclésiastiques fondées sur des titres juridiques historiques sont garanties jusqu’à l’entrée en vigueur des nouvelles dispositions légales. La nouvelle réglementation de ces prestations sera fondée sur leur volume global actuel.
 
 <sup>2</sup> Jusqu’à l’entrée en vigueur de la nouvelle réglementation du droit de vote en matière ecclésiastique, les dispositions du droit cantonal s’appliquent.
 
@@ -1560,13 +1570,13 @@ Autorités
 - – contrôle des normes 79
 - – durée de fonction 41, 142
 - – étudier les pétitions 16
-- – exercice du pouvoir de l’Etat 1 <sup>3</sup>
+- – exercice du pouvoir de l’État 1 <sup>3</sup>
 - – incompatibilités 42
 - – information 49
 - – initiative d’une autorité 24 <sup>b</sup><sup>,</sup> 31
 - – législation 38 <sup>1c, 3</sup>
 - – mise en œuvre de la Constitution 136, 138
-- – responsabilité de l’Etat 46 <sup>1</sup>
+- – responsabilité de l’État 46 <sup>1</sup>
 - – responsabilité des personnes 47 <sup>2b</sup>
 
 Banques
@@ -1600,7 +1610,7 @@ Canton
 **Commissions**
 
 - – de quartier ou à une autre subdivision territoriale 88
-- – du Conseil d’Etat 64, 69 <sup>2</sup>, 75 <sup>1</sup>
+- – du Conseil d’État 64, 69 <sup>2</sup>, 75 <sup>1</sup>
 - – représentation équitable des hommes et des femmes 40 <sup>2</sup>
 
 Commune 83-94, 143
@@ -1635,14 +1645,14 @@ Commune 83-94, 143
 
 **Compétences financières**
 
-- – du Conseil d’Etat 68
+- – du Conseil d’État 68
 - – du Grand Conseil 56
 
 Confédération
 
 - – Assemblée fédérale
   - – déposer une initiative au nom du canton 59 <sup>1b</sup>
-  - – députation du canton de membres du Conseil d’Etat 63 <sup>3</sup>
+  - – députation du canton de membres du Conseil d’État 63 <sup>3</sup>
 
 - – collaboration 4
 - – Constitution fédérale 10, 19 <sup>1</sup>
@@ -1651,12 +1661,12 @@ Confédération
 - – projets mis en consultation de la 33 <sup>1f</sup>, 71 <sup>1g</sup>
 - – référendum au niveau fédéral 59 <sup>1a</sup>
 
-**Conseil des Etats**
+**Conseil des États**
 
 - – élection 82
 - – éligibilité 40 <sup>1</sup>
 
-Conseil d’Etat 60-72
+Conseil d’État 60-72
 
 - – approbation
   - – des règlements communaux 89 <sup>3</sup>
@@ -1696,7 +1706,7 @@ Contre-projet
 Décision
 
 - – des communes 33 <sup>4</sup>, 86 <sup>3</sup>, 143 <sup>2</sup>
-- – du Conseil d’Etat 65 <sup>1,2</sup>
+- – du Conseil d’État 65 <sup>1,2</sup>
 - – du Grand Conseil 23 <sup>c</sup>, 33 <sup>1,3</sup>, 56 <sup>2c</sup>, 60 <sup>2,</sup> 134 <sup>1</sup>
 
 **Démocratie**
@@ -1712,7 +1722,7 @@ Dépenses
 
 - – compétence du corps électoral communale 86 <sup>2a</sup>, 143 <sup>2</sup>
 - – compétence du Grand Conseil 56 <sup>2</sup>
-- – compétence du Conseil d’Etat 68 <sup>2</sup>
+- – compétence du Conseil d’État 68 <sup>2</sup>
 - – frein aux dépenses 56 <sup>3</sup>
 - – référendum financier facultatif 33 <sup>1d</sup>
 
@@ -1763,20 +1773,20 @@ Droit
   - – procédure administrative contentieuse 138
 
 - – législation 38, 54, 67, 98 <sup>4c</sup>, cf. loi
-- – principes d’un Etat de droit préambule, 2, 131 <sup>2</sup>
+- – principes d’un État de droit préambule, 2, 131 <sup>2</sup>
 - – voies de recours 18 <sup>2</sup>
 
 Droit de vote 22
 
 - – approbation de nouvel états de communes 84 <sup>1, 2</sup>
 
-- – aux Eglises 130 <sup>2a</sup>, 145 <sup>2</sup>
+- – aux Églises 130 <sup>2a</sup>, 145 <sup>2</sup>
 - – corps électoral
   - – accorder le droit de cité communal 21 <sup>1</sup>
   - – de la commune 84 <sup>3</sup>, 86 <sup>2, 3</sup>, 87 <sup>1a</sup>, 89 <sup>2</sup>, 91 <sup>2</sup>
   - – des syndicats 93 <sup>2</sup>
   - – du district 80 <sup>1</sup>
-  - – exercice du pouvoir de l’Etat 1 <sup>3</sup>
+  - – exercice du pouvoir de l’État 1 <sup>3</sup>
     - – du pouvoir constitutionnel et législatif 50 <sup>1</sup>
 
   - – former l’opinion et la volonté populaire 39 <sup>2</sup>
@@ -1788,7 +1798,7 @@ Droit de vote 22
 
 Eaux 105
 
-**Ecole**
+**École**
 
 - – communes scolaires 83 <sup>2, 3</sup>, 84 <sup>2</sup>
 - – écoles privées 117
@@ -1798,9 +1808,9 @@ Eaux 105
 - – reconversion professionnels 111 <sup>2</sup>
 - – universités et hautes écoles 118
 
-Education cf. formation
+Éducation cf. formation
 
-Eglises
+Églises
 
 - – autres communautés religieuses 131
 - – collectivités ecclésiastiques 130, 145 <sup>1</sup>
@@ -1810,15 +1820,15 @@ Eglises
 - – nomination des ecclésiastiques 130 <sup>3d</sup>
 - – paroisses 130 <sup>1, 2</sup>, 145 <sup>3</sup>
 
-Election
+Élection
 
 - – droit de vote 22
-  - – aux Eglises 130 <sup>2a</sup>, 145 <sup>2</sup>
+  - – aux Églises 130 <sup>2a</sup>, 145 <sup>2</sup>
 
 - – élections populaires
   - – autorités de district 80 <sup>1</sup>
-  - – du Conseil des Etats 82
-  - – du Conseil d’Etat 62
+  - – du Conseil des États 82
+  - – du Conseil d’État 62
   - – du Grand Conseil 51
   - – membres des tribunaux 75 <sup>2</sup>
   - – nomination des ecclésiastiques 130 <sup>3d</sup>
@@ -1826,46 +1836,46 @@ Election
 - – élections par le Grand Conseil 58
   - – tribunaux 75 <sup>1</sup>
 
-- – élections par le Conseil d’Etat 71 <sup>1d</sup>
+- – élections par le Conseil d’État 71 <sup>1d</sup>
 - – arrondissements électoraux
-  - – pour les élections du Conseil des Etats 82 <sup>1</sup>
-  - – pour les élections du Conseil d’Etat 62 <sup>3</sup>
+  - – pour les élections du Conseil des États 82 <sup>1</sup>
+  - – pour les élections du Conseil d’État 62 <sup>3</sup>
   - – pour les élections du Grand Conseil 51 <sup>2</sup>
 
 - – renouvellement 142 <sup>2</sup>
 
-Eligibilité 40
+Éligibilité 40
 
-**Energie** 106
+**Énergie** 106
 
-**Equilibre du budget** 123
+**Équilibre du budget** 123
 
-Etat
+État
 
-- – compte de fonctionnement de l’Etat 56 <sup>3</sup>
-- – compte d’Etat
+- – compte de fonctionnement de l’État 56 <sup>3</sup>
+- – compte d’État
   - – approbation par le Grand Conseil 56 <sup>1c</sup>
-  - – prépare par le Conseil d’Etat 68 <sup>1</sup>
+  - – prépare par le Conseil d’État 68 <sup>1</sup>
 
-- – contributions versées par l’Etat 56 <sup>2d</sup>, 122 <sup>4</sup>
-- – Etat membre de la Confédération préambule
-- – principes de l’Etat 2, 130 <sup>2a</sup>, 131 <sup>2</sup>
-- – pouvoirs de l’Etat 1 <sup>3</sup>, 73 <sup>2</sup>
+- – contributions versées par l’État 56 <sup>2d</sup>, 122 <sup>4</sup>
+- – État membre de la Confédération préambule
+- – principes de l’État 2, 130 <sup>2a</sup>, 131 <sup>2</sup>
+- – pouvoirs de l’État 1 <sup>3</sup>, 73 <sup>2</sup>
 - – publique
-  - – activité de l’Etat 2 <sup>1, 2</sup>
+  - – activité de l’État 2 <sup>1, 2</sup>
   - – activité étatique 55 <sup>1</sup>
   - – pouvoir étatique 3
   - – prestations 19 <sup>4</sup>, 38 <sup>1e</sup>, 130 <sup>3c</sup>, 145 <sup>1</sup>
-  - – surveillance de l’Etat 117 <sup>1</sup>
+  - – surveillance de l’État 117 <sup>1</sup>
 
-- – responsabilité de l’Etat 46
+- – responsabilité de l’État 46
 - – routes cantonales 104 <sup>2</sup>
-- – personnes employées par l’Etat 47
+- – personnes employées par l’État 47
 - – taux de l’impôt cantonal 56 <sup>1b</sup>
 
-**Etat d’urgence** 72
+**État d’urgence** 72
 
-**Etrangers** intégration 114
+**Étrangers** intégration 114
 
 Exécution
 
@@ -1928,7 +1938,7 @@ Grand Conseil 50–59
 - – immunité 44
 - – incompatibilités 42 <sup>1</sup>
 - – référendum par le Grand Conseil 33 <sup>2c, 3</sup>
-- – statut des conseillers d’Etat au parlement 64
+- – statut des conseillers d’État au parlement 64
 
 Impôts 125
 
@@ -1973,7 +1983,7 @@ Innovation 8
 
 **Jugements**, entrés en force
 
-- – exécution par le Conseil d’Etat 71 <sup>e</sup>
+- – exécution par le Conseil d’État 71 <sup>e</sup>
 
 **Juges**, durée de fonction 41 <sup>2</sup>
 
@@ -2014,7 +2024,7 @@ Loi
 **Mariage**
 
 - – fiscalité des mariés 125 <sup>3f</sup>
-- – reconnaissance par l’Etat 13
+- – reconnaissance par l’État 13
 
 **Parlement**
 
@@ -2022,7 +2032,7 @@ Loi
 - – cf. Surveillance
 - – cf. Loi
 
-**Partenariat** reconnaissance par l’Etat 13
+**Partenariat** reconnaissance par l’État 13
 
 Pauvreté lutte contre 111 <sup>3</sup>
 
@@ -2046,13 +2056,13 @@ Peuple
 
 **Planification**
 
-- – du Conseil d’Etat 66
+- – du Conseil d’État 66
 - – du Grand Conseil 55
 - – planification financière 123
 
 Préfet 80 <sup>1a</sup>
 
-**Protection de la nature et du patrimo****i****ne** 103
+**Protection de la nature et du** **patrimoine** 103
 
 **Protection de l’environnement** 102
 
@@ -2061,12 +2071,12 @@ Préfet 80 <sup>1a</sup>
 Publicité
 
 - – des décisions judiciaires 78
-- – des séances du Conseil d’Etat 53
+- – des séances du Conseil d’État 53
 - – du budget et des comptes 122 <sup>3</sup>
 
 Rapport
 
-- – du Conseil d’Etat
+- – du Conseil d’État
   - – au sujet d’initiatives 31 <sup>1</sup>
   - – dans la phase préliminaire de la
   - [tab] procédure législative 67 <sup>1</sup>
@@ -2100,8 +2110,8 @@ Référendum
 **Responsabilité**
 
 - – causale des particuliers investis de tâches publiques 46 <sup>2</sup>, 141
-- – responsabilité de l’Etat 46
-- – vis-à-vis de l’Etat ou les communes 47 <sup>2</sup>
+- – responsabilité de l’État 46
+- – vis-à-vis de l’État ou les communes 47 <sup>2</sup>
 
 Révision de la Constitution cantonale
 
@@ -2120,7 +2130,7 @@ Routes
 **Sécurité et ordre publics** 100
 
 - – cas de troubles graves 72 <sup>1</sup>
-- – veille par le Conseil d’Etat 71 <sup>1a</sup>
+- – veille par le Conseil d’État 71 <sup>1a</sup>
 
 Séparation des pouvoirs 3
 
@@ -2137,13 +2147,13 @@ Sport 121
 **Suisse, Suissesse**
 
 - – droit de vote 22
-- – éligibilité pour le Conseil des Etats 82 <sup>3</sup>
+- – éligibilité pour le Conseil des États 82 <sup>3</sup>
 
 **Surveillance** (haute surveillance) 94
 
 - – lors de la délégation de tâches publiques 98 <sup>4e</sup>, 99 <sup>1</sup>
 - – sur les autorités de district 80 <sup>3</sup>
-- – par le Conseil d’Etat 70 <sup>3</sup>
+- – par le Conseil d’État 70 <sup>3</sup>
 - – par le parlement 57
 - – sur les collectivités ecclésiastiques 130 <sup>5</sup>
 - – sur les écoles privées 117 <sup>1</sup>
@@ -2155,7 +2165,7 @@ Sport 121
 
 **Transports** 104
 
-Travail, rapport de travail des personnes employées par l’Etat ou les communes 47
+Travail, rapport de travail des personnes employées par l’État ou les communes 47
 
 **Tribunal**
 

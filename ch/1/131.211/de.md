@@ -3,18 +3,18 @@ sr: "131.211"
 title: "Verfassung des Kantons Zürich, vom 27. Februar 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: de
-version: 2018-09-17
+version: 2022-03-16
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20180917/de/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20180917-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20180917/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20220316-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Zürich
 
-vom 27. Februar 2005 (Stand am 17. September 2018)[^t-1]
+vom 27. Februar 2005 (Stand am 16. März 2022)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -345,12 +345,12 @@ Dem Volk werden auf Verlangen zur Abstimmung unterbreitet:
 - a. der Erlass, die Änderung oder die Aufhebung von Gesetzen;
 - b. interkantonale und internationale Verträge, deren Inhalt Gesetzesrang hat;
 - c. Beschlüsse des Kantonsrates, die durch Gesetz dem Referendum unterstellt sind;
-- d.
+- d.[^33-1]
 
   Beschlüsse des Kantonsrates über:
 
-  - 1\. neue einmalige Ausgaben von mehr als 6 Millionen Franken,
-  - 2\. neue wiederkehrende Ausgaben von jährlich mehr als 600 000 Franken;
+  - 1\. neue einmalige Ausgaben von mehr als 4 Millionen Franken,
+  - 2\. neue wiederkehrende Ausgaben von jährlich mehr als 400 000 Franken;
 
 - e. Beschlüsse des Kantonsrates von grundlegender Bedeutung, die langfristige Auswirkungen auf die allgemeinen Lebensgrundlagen haben;
 - f. die Grundzüge der Vernehmlassung des Kantons zu Vorlagen des Bundes, die von grundlegender Bedeutung sind, langfristige Auswirkungen auf die allgemeinen Lebensgrundlagen haben und auf Bundesebene nicht dem Referendum unterstellt sind.
@@ -366,6 +366,8 @@ Eine Volksabstimmung können verlangen:
 <sup>3</sup> Die Volksabstimmung muss innert 60 Tagen nach der amtlichen Veröffentlichung des Kantonsratsbeschlusses schriftlich verlangt werden. Beim Kantonsratsreferendum beträgt die Frist 14 Tage ab Beschluss des Rates.
 
 <sup>4</sup> Die Gemeinden bestimmen*,* welches Organ das Gemeindereferendum ergreifen kann. Die Stadt Zürich und die Stadt Winterthur können nur mit Beschluss ihres Parlaments das Referendum alleine ergreifen.
+
+[^33-1]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Teil- und Variantenabstimmung
 
@@ -384,7 +386,7 @@ Für den Fall einer Volksabstimmung kann der Kantonsrat ausnahmsweise beschliess
 
 [^35-1]
 
-[^35-1]: Aufgehoben in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Mai 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 1 [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^35-1]: Aufgehoben in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Mai 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 1, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Konkurrierende Vorlagen
 
@@ -592,18 +594,22 @@ Der Kantonsrat beschliesst mit einfachem Mehr über:
 - a. das Budget;
 - b. den Steuerfuss für die Staatssteuer;
 - c. die Genehmigung der Staatsrechnung;
-- d. die Veräusserung von Vermögenswerten über 3 Millionen Franken, die öffentlichen Zwecken dienen.
+- d.[^56-1] die Veräusserung von Vermögenswerten über 4 Millionen Franken, die öffentlichen Zwecken dienen.
 
 <sup>2</sup>
 
 Der Zustimmung der Mehrheit aller Mitglieder bedürfen:
 
-- a. neue einmalige Ausgaben von mehr als 3 Millionen Franken;
-- b. neue wiederkehrende Ausgaben von jährlich mehr als 300 000 Franken;
+- a.[^56-2] neue einmalige Ausgaben von mehr als 4 Millionen Franken;
+- b.[^56-3] neue wiederkehrende Ausgaben von jährlich mehr als 400 000 Franken;
 - c. Beschlüsse im Rahmen der Budgetberatung, die zu einer höheren Belastung des Kantons gegenüber dem Entwurf des Regierungsrates führen;
 - d. Bestimmungen, die Staatsbeiträge oder Finanzausgleichsbeträge betreffen und Mehrausgaben nach sich ziehen können.
 
 <sup>3</sup> Der Kantonsrat beschliesst innert sechs Monaten über Anträge des Regierungsrates, die dem mittelfristigen Ausgleich der laufenden Rechnung des Staatshaushaltes dienen. Er ist an den Gesamtbetrag der mit den Anträgen erzielbaren Saldoverbesserung gebunden.
+
+[^56-1]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-2]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-3]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Parlamentarische Kontrolle
 
@@ -723,11 +729,15 @@ Die Mitglieder des Regierungsrates haben in den Verhandlungen des Kantonsrates u
 
 Er beschliesst im Rahmen des Budgets über:
 
-- a. neue einmalige Ausgaben bis 3 Millionen Franken;
-- b. neue wiederkehrende Ausgaben bis jährlich 300 000 Franken;
+- a.[^68-1] neue einmalige Ausgaben bis 4 Millionen Franken;
+- b.[^68-2] neue wiederkehrende Ausgaben bis jährlich 400 000 Franken;
 - c. gebundene Ausgaben.
 
-<sup>3</sup> Er beschliesst über die Veräusserung von Vermögenswerten bis 3 Millionen Franken, die öffentlichen Zwecken dienen.
+<sup>3</sup> Er beschliesst über die Veräusserung von Vermögenswerten bis 4 Millionen Franken, die öffentlichen Zwecken dienen.[^68-3]
+
+[^68-1]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-2]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-3]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Interkantonale und internationale Zusammenarbeit
 
@@ -793,7 +803,7 @@ Der Regierungsrat:
 
 <sup>2</sup> Die obersten kantonalen Gerichte sind das Obergericht, das Verwaltungsgericht und das Sozialversicherungsgericht.[^74-1]
 
-[^74-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2010](http://www.admin.ch/ch/d/pore/va/20100926/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^74-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2010](http://www.admin.ch/ch/d/pore/va/20100926/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 ### Wahl
 
@@ -813,8 +823,8 @@ Der Regierungsrat:
 
 <sup>3</sup> …[^76-2]
 
-[^76-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2010](http://www.admin.ch/ch/d/pore/va/20100926/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^76-2]: Aufgehoben in der [Volksabstimmung vom 26. Sept. 2010](http://www.admin.ch/ch/d/pore/va/20100926/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1 [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^76-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2010](http://www.admin.ch/ch/d/pore/va/20100926/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^76-2]: Aufgehoben in der [Volksabstimmung vom 26. Sept. 2010](http://www.admin.ch/ch/d/pore/va/20100926/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 ### Verwaltungsrechtspflege
 
@@ -1119,7 +1129,7 @@ Kanton und Gemeinden sorgen für eine geordnete Besiedlung, die zweckmässige un
 
 <sup>3</sup> Kanton und Gemeinden fördern den öffentlichen Personenverkehr im ganzen Kantonsgebiet.
 
-[^104-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 1. Febr. 2018. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 1 [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^104-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 1. Febr. 2018. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 1, [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 ### Wasser
 

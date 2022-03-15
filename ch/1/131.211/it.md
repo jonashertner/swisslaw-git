@@ -3,11 +3,11 @@ sr: "131.211"
 title: "Costituzione del Cantone di Zurigo, del 27 febbraio 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: it
-version: 2018-09-17
+version: 2022-03-16
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20180917/it/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20180917-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20180917/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20220316-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20180917/it"
 
 Traduzione
 
-del 27 febbraio 2005 (Stato 17 settembre 2018) (Stato 17 settembre 2018)
+del 27 febbraio 2005 (Stato 16 marzo 2022)[^t-1]
+
+[^t-1]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 **Preambolo**
 
@@ -347,12 +349,12 @@ Su domanda, sono sottoposti al voto del Popolo:
 - a. le leggi, le loro modifiche e la loro abrogazione;
 - b. i trattati intercantonali e internazionali il cui contenuto ha rango di legge;
 - c. i decreti del Gran Consiglio che per legge sottostanno a referendum;
-- d.
+- d.[^33-1]
 
   i decreti del Gran Consiglio vertenti su:
 
-  - 1\. nuove spese uniche superiori a 6 milioni di franchi,
-  - 2\. nuove spese ricorrenti superiori a 600 000 franchi annui;
+  - 1\. nuove spese uniche superiori a 4 milioni di franchi,
+  - 2\. nuove spese ricorrenti superiori a 400 000 franchi annui;
 
 - e. i decreti del Gran Consiglio d’importanza fondamentale che incidono a lungo termine sulle condizioni di vita generali;
 - f. le grandi linee dei pareri del Cantone relativi a progetti della Confederazione che rivestono importanza fondamentale, incidono a lungo termine sulle condizioni di vita generali e non sottostanno a referendum a livello federale.
@@ -368,6 +370,8 @@ La votazione popolare può essere chiesta da:
 <sup>3</sup> La votazione popolare dev’essere chiesta per scritto entro 60 giorni dalla pubblicazione ufficiale della decisione del Gran Consiglio. Se il referendum è del Gran Consiglio, il termine è di 14 giorni dalla data della decisione.
 
 <sup>4</sup> I Comuni designano l’organo abilitato a chiedere il referendum dei Comuni. Le città di Zurigo e di Winterthur possono chiedere la votazione popolare soltanto per decisione dei rispettivi parlamenti.
+
+[^33-1]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Votazioni parziali e votazioni su varianti
 
@@ -594,18 +598,22 @@ Il Gran Consiglio delibera a maggioranza semplice su:
 - a. il bilancio di previsione;
 - b. l’aliquota dell’imposta cantonale;
 - c. l’approvazione del conto di Stato;
-- d. l’alienazione a fini pubblici di valori patrimoniali per un importo superiore a 3 milioni di franchi.
+- d.[^56-1] l’alienazione a fini pubblici di valori patrimoniali per un importo superiore a 4 milioni di franchi.
 
 <sup>2</sup>
 
 Richiedono l’approvazione della maggioranza di tutti i membri del Gran Consiglio:
 
-- a. le nuove spese uniche superiori a 3 milioni di franchi;
-- b. le nuove spese ricorrenti superiori a 300 000 franchi annui;
+- a.[^56-2] le nuove spese uniche superiori a 4 milioni di franchi;
+- b.[^56-3] le nuove spese ricorrenti superiori a 400 000 franchi annui;
 - c. le decisioni nell’ambito delle deliberazioni sul bilancio di previsione che comportino per il Cantone un onere finanziario maggiore di quello preventivato dal Consiglio di Stato;
 - d. le disposizioni concernenti sussidi statali o contributi alla perequazione finanziaria che potessero comportare spese supplementari.
 
 <sup>3</sup> Il Gran Consiglio decide entro sei mesi sulle proposte del Consiglio di Stato volte ad equilibrare a medio termine l’andamento corrente delle finanze dello Stato. È vincolato all’importo globale dei miglioramenti del saldo ottenibili grazie a queste proposte.
+
+[^56-1]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-2]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-3]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Controllo parlamentare
 
@@ -725,11 +733,15 @@ I membri del Consiglio di Stato hanno voto consultivo e diritto di proposta nei 
 
 Nei limiti del bilancio di previsione esso decide circa:
 
-- a. nuove spese uniche non superiori a 3 milioni di franchi;
-- b. nuove spese ricorrenti non superiori a 300 000 franchi annui;
+- a.[^68-1] nuove spese uniche non superiori a 4 milioni di franchi;
+- b.[^68-2] nuove spese ricorrenti non superiori a 400 000 franchi annui;
 - c. spese vincolate.
 
-<sup>3</sup> Decide circa l’alienazione a fini pubblici di valori patrimoniali per un importo non superiore a 3 milioni di franchi.
+<sup>3</sup> Decide circa l’alienazione a fini pubblici di valori patrimoniali per un importo non superiore a 4 milioni di franchi.[^68-3]
+
+[^68-1]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-2]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-3]: Accettato nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Collaborazione intercantonale e internazionale
 
