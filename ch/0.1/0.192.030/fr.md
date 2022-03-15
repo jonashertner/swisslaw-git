@@ -3,39 +3,38 @@ sr: "0.192.030"
 title: "Statut du Conseil de l'Europe du 5 mai 1949"
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/772_769_797"
 language: fr
-version: 2007-05-11
+version: 2022-03-16
 adopted: 1949-05-05
 in_force: 1963-05-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/772_769_797/20070511/fr/xml/fedlex-data-admin-ch-eli-cc-1963-772_769_797-20070511-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/772_769_797/20070511/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/772_769_797/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-1963-772_769_797-20220316-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/772_769_797/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Statut du Conseil de l’Europe
 
-(Etat le 5 juin 2007)0.192.030Nicht löschen bitte "[^t-1] " !!
+RO **1963** 769; FF **1963** I 109
 
 Texte original
 
-Adopté à Londres le 5 mai 1949 Approuvé par l’Assemblée fédérale le 19 mars 1963[^t-2] Instrument d’adhésion déposé par la Suisse le 6 mai 1963 Entré en vigueur pour la Suisse le 6 mai 1963
+Adopté à Londres le 5 mai 1949 Approuvé par l’Assemblée fédérale le 19 mars 1963[^t-1] Instrument d’adhésion déposé par la Suisse le 6 mai 1963 Entré en vigueur pour la Suisse le 6 mai 1963
 
-(Etat le 5 juin 2007)
+(État le 16 mars 2022)
 
-[^t-1]: [RO 1963 769](https://fedlex.data.admin.ch/eli/oc/1963/772_769_797); [FF 1963 I 109](https://fedlex.data.admin.ch/eli/fga/1963/1_113_109_)
-[^t-2]: [RO 1963 767](https://fedlex.data.admin.ch/eli/oc/1963/771_767_795)
+[^t-1]: [RO 1963 767](https://fedlex.data.admin.ch/eli/oc/1963/771_767_795)
 
 Les Gouvernements du Royaume de Belgique, du Royaume de Danemark, de la République française, de la République irlandaise, de la République italienne, du Grand-Duché de Luxembourg, du Royaume des Pays-Bas, du Royaume de Norvège, du Royaume de Suède et du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord,
 
-Persuadés que la consolidation de la paix fondée sur la justice et la coopération internationale est d’un intérêt vital pour la préservation de la société humaine et de la civilisation;
+persuadés que la consolidation de la paix fondée sur la justice et la coopération internationale est d’un intérêt vital pour la préservation de la société humaine et de la civilisation,
 
-Inébranlablement attachés aux valeurs spirituelles et morales qui sont le patrimoine commun de leurs peuples et qui sont à l’origine des principes de liberté individuelle, de liberté politique et de prééminence du Droit, sur lesquels se fonde toute démocratie véritable;
+inébranlablement attachés aux valeurs spirituelles et morales qui sont le patrimoine commun de leurs peuples et qui sont à l’origine des principes de liberté individuelle, de liberté politique et de prééminence du Droit, sur lesquels se fonde toute démocratie véritable,
 
-Convaincus qu’afin de sauvegarder et de faire triompher progressivement cet idéal et de favoriser le progrès social et économique, une union plus étroite s’impose entre les pays européens qu’animent les mêmes sentiments;
+convaincus qu’afin de sauvegarder et de faire triompher progressivement cet idéal et de favoriser le progrès social et économique, une union plus étroite s’impose entre les pays européens qu’animent les mêmes sentiments,
 
-Considérant qu’il importe dès maintenant, en vue de répondre à cette nécessité et aux aspirations manifestes de leurs peuples, de créer une organisation groupant les Etats européens dans une association plus étroite,
+considérant qu’il importe dès maintenant, en vue de répondre à cette nécessité et aux aspirations manifestes de leurs peuples, de créer une organisation groupant les États européens dans une association plus étroite,
 
-Ont en conséquence décidé de constituer un Conseil de l’Europe comprenant un Comité de représentants des Gouvernements et une Assemblée Consultative, et, à cette fin,
+ont en conséquence décidé de constituer un Conseil de l’Europe comprenant un Comité de représentants des Gouvernements et une Assemblée Consultative, et, à cette fin,
 
 ont adopté le présent Statut.
 
@@ -63,7 +62,7 @@ Tout Membre du Conseil de l’Europe reconnaît le principe de la prééminence 
 
 #### Art. 4
 
-Tout Etat européen considéré capable de se conformer aux dispositions de l’art. 3 et comme en ayant la volonté peut être invité par le Comité des Ministres à devenir Membre du Conseil de l’Europe. Tout Etat ainsi invité aura la qualité de Membre dès qu’un instrument d’adhésion au présent Statut aura été remis en son nom au Secrétaire Général.
+Tout État européen considéré capable de se conformer aux dispositions de l’art. 3 et comme en ayant la volonté peut être invité par le Comité des Ministres à devenir Membre du Conseil de l’Europe. Tout État ainsi invité aura la qualité de Membre dès qu’un instrument d’adhésion au présent Statut aura été remis en son nom au Secrétaire Général.
 
 #### Art. 5
 
@@ -114,7 +113,7 @@ Le Comité des Ministres est l’organe compétent pour agir au nom du Conseil d
 
 #### Art. 14
 
-Chaque Membre a un représentant au Comité des Ministres et chaque représentant dispose d’une voix. Les représentants au Comité sont les Ministres des Affaires Etrangères. Lorsqu’un Ministre des Affaires Etrangères n’est pas en mesure de siéger, ou si d’autres circonstances le recommandent, un suppléant peut être désigné pour agir à sa place. Celui-ci sera, dans toute la mesure du possible, un membre du Gouvernement de son pays.
+Chaque Membre a un représentant au Comité des Ministres et chaque représentant dispose d’une voix. Les représentants au Comité sont les Ministres des Affaires Étrangères. Lorsqu’un Ministre des Affaires Étrangères n’est pas en mesure de siéger, ou si d’autres circonstances le recommandent, un suppléant peut être désigné pour agir à sa place. Celui-ci sera, dans toute la mesure du possible, un membre du Gouvernement de son pays.
 
 #### Art. 15
 
@@ -136,7 +135,7 @@ Le Comité des Ministres adopte son règlement intérieur qui détermine notamme
 
 - (i) le quorum;
 - (ii) le mode de désignation du Président et la durée de ses fonctions;
-- (iii) la procédure à suivre pour l’établissement de l’ordre du jour ainsi que pour le dépôt des propositions aux fins de résolutions; et
+- (iii) la procédure à suivre pour l’établissement de l’ordre du jour ainsi que pour le dépôt des propositions aux fins de résolutions, et
 - (iv) les conditions dans lesquelles est notifiée la désignation des suppléants, effectuée conformément à l’art. 14.
 
 #### Art. 19
@@ -157,7 +156,7 @@ Lors de chacune des sessions de l’Assemblée Consultative, le Comité des Mini
 - (ii) les questions relevant de l’art. 19;
 - (iii) les questions relevant de l’art. 21 (a) (i) et (b);
 - (iv) les questions relevant de l’art. 33;
-- (v) les recommandations concernant des amendements aux art. 1 (d), 7, 15, 20 et 22; et
+- (v) les recommandations concernant des amendements aux art. 1 (d), 7, 15, 20 et 22, et
 - (vi) toute autre question qu’en raison de son importance le Comité déciderait, par une résolution prise dans les conditions prévues au paragraphe (d) ci-dessous, de soumettre à la règle de l’unanimité.
 
 #### Art. 21
@@ -214,34 +213,35 @@ Si un Membre pourvoit aux sièges devenus vacants par suite de décès ou de dé
 Les membres ont droit au nombre de sièges suivants:
 
 <table>
-<tr><td>Albanie</td><td>4</td><td></td><td>Malte</td><td>3</td></tr>
-<tr><td>Allemagne</td><td>18</td><td></td><td>Moldova</td><td>5</td></tr>
-<tr><td>Andorre</td><td>2</td><td></td><td>Monaco</td><td>2</td></tr>
-<tr><td>Arménie</td><td>4</td><td></td><td>Monténégro</td><td>3</td></tr>
-<tr><td>Autriche</td><td>6</td><td></td><td>Norvège</td><td>5</td></tr>
-<tr><td>Azerbaïdjan</td><td>6</td><td></td><td>Pays-Bas</td><td>7</td></tr>
-<tr><td>Belgique</td><td>7</td><td></td><td>Pologne</td><td>12</td></tr>
-<tr><td>Bosnie et Herzégovine</td><td>5</td><td></td><td>Portugal</td><td>7</td></tr>
-<tr><td>Bulgarie</td><td>6</td><td></td><td>République tchèque</td><td>7</td></tr>
-<tr><td>Croatie</td><td>5</td><td></td><td>Roumanie</td><td>10</td></tr>
-<tr><td>Chypre</td><td>3</td><td></td><td>Russie</td><td>18</td></tr>
-<tr><td>Danemark</td><td>5</td><td></td><td>Serbie</td><td>7</td></tr>
-<tr><td>Estonie</td><td>3</td><td></td><td>Saint-Marin</td><td>2</td></tr>
-<tr><td>Finlande</td><td>5</td><td></td><td>République slovaque</td><td>5</td></tr>
-<tr><td>France</td><td>18</td><td></td><td>Slovénie</td><td>3</td></tr>
-<tr><td>Géorgie</td><td>5</td><td></td><td>Espagne</td><td>12</td></tr>
-<tr><td>Grèce</td><td>7</td><td></td><td>Suède</td><td>6</td></tr>
-<tr><td>Hongrie</td><td>7</td><td></td><td>Suisse</td><td>6</td></tr>
-<tr><td>Irlande</td><td>4</td><td></td><td>«l’ex-République yougoslave</td><td></td></tr>
-<tr><td>Islande</td><td>3</td><td></td><td>de Macédoine»</td><td>3</td></tr>
-<tr><td>Italie</td><td>18</td><td></td><td>[tab] Turquie</td><td>12</td></tr>
-<tr><td>Lettonie</td><td>3</td><td></td><td>Ukraine</td><td>12</td></tr>
-<tr><td>Liechtenstein</td><td>2</td><td></td><td>Royaume-Uni de Grande-</td><td></td></tr>
-<tr><td>Lituanie</td><td>4</td><td></td><td>Bretagne et d’Irlande du Nord</td><td>18</td></tr>
-<tr><td>Luxembourg</td><td>3</td><td></td><td>[tab]</td><td></td></tr>
+<tr><td>Albanie</td><td>4</td><td>Malte</td><td>3</td></tr>
+<tr><td>Allemagne</td><td>18</td><td>Moldova</td><td>5</td></tr>
+<tr><td>Andorre</td><td>2</td><td>Monaco</td><td>2</td></tr>
+<tr><td>Arménie</td><td>4</td><td>Monténégro</td><td>3</td></tr>
+<tr><td>Autriche</td><td>6</td><td>Norvège</td><td>5</td></tr>
+<tr><td>Azerbaïdjan</td><td>6</td><td>Pays-Bas</td><td>7</td></tr>
+<tr><td>Belgique</td><td>7</td><td>Pologne</td><td>12</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>5</td><td>Portugal</td><td>7</td></tr>
+<tr><td>Bulgarie</td><td>6</td><td>République tchèque</td><td>7</td></tr>
+<tr><td>Croatie</td><td>5</td><td>Roumanie</td><td>10</td></tr>
+<tr><td>Chypre</td><td>3</td><td>Russie[^26-2]</td><td></td></tr>
+<tr><td>Danemark</td><td>5</td><td>Serbie</td><td>7</td></tr>
+<tr><td>Estonie</td><td>3</td><td>Saint-Marin</td><td>2</td></tr>
+<tr><td>Finlande</td><td>5</td><td>République slovaque</td><td>5</td></tr>
+<tr><td>France</td><td>18</td><td>Slovénie</td><td>3</td></tr>
+<tr><td>Géorgie</td><td>5</td><td>Espagne</td><td>12</td></tr>
+<tr><td>Grèce</td><td>7</td><td>Suède</td><td>6</td></tr>
+<tr><td>Hongrie</td><td>7</td><td>Suisse</td><td>6</td></tr>
+<tr><td>Irlande</td><td>4</td><td>«l’ex-République yougoslave</td><td></td></tr>
+<tr><td>Islande</td><td>3</td><td>de Macédoine»</td><td>3</td></tr>
+<tr><td>Italie</td><td>18</td><td>[tab] Turquie</td><td>12</td></tr>
+<tr><td>Lettonie</td><td>3</td><td>Ukraine</td><td>12</td></tr>
+<tr><td>Liechtenstein</td><td>2</td><td>Royaume-Uni de Grande-</td><td></td></tr>
+<tr><td>Lituanie</td><td>4</td><td>Bretagne et d’Irlande du Nord</td><td>18</td></tr>
+<tr><td>Luxembourg</td><td>3</td><td>[tab]</td><td></td></tr>
 </table>
 
 [^26-1]: Nouvelle teneur approuvée par le Comité des Ministres le 9 mai 2007 et par l’Assemblée parlementaire le 17 avril 2007 ([RO 2007 3729](https://fedlex.data.admin.ch/eli/oc/2007/473)).
+[^26-2]: À partir du 16 mars 2022, la Fédération de Russie a cessé d’être Partie contractante au Statut du Conseil de l’Europe ([RO 2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248)).
 
 #### Art. 27
 
@@ -261,7 +261,7 @@ Les conditions dans lesquelles le Comité des Ministres peut être représenté 
 
 - (i) le quorum;
 - (ii) la procédure d’élection et la durée des fonctions du Président et des autres membres du Bureau;
-- (iii) la procédure d’établissement de l’ordre du jour et de sa communication aux représentants; et
+- (iii) la procédure d’établissement de l’ordre du jour et de sa communication aux représentants, et
 - (iv) la date et le mode de notification des noms des représentants et de leurs suppléants.
 
 #### Art. 29
@@ -352,7 +352,7 @@ Le Secrétaire Général notifie chaque année aux Gouvernements des Membres le 
 
 (a) Le Conseil de l’Europe, les représentants des Membres et le Secrétariat jouissent, sur les territoires des Membres, des immunités et privilèges nécessaires à l’exercice de leurs fonctions. En vertu de ces immunités, les Représentants à l’Assemblée Consultative ne peuvent notamment être ni arrêtés ni poursuivis sur les territoires de tous les Membres en raison des opinions ou des votes émis au cours des débats de l’Assemblée, de ses comités ou commissions.
 
-(b) Les Membres s’engagent à conclure aussitôt que possible un Accord en vue de donner plein effet aux dispositions du par. (a) ci-dessus. A cette fin, le Comité des Ministres recommandera aux Gouvernements des Membres la conclusion d’un Accord définissant les privilèges et immunités reconnus sur leurs territoires. En outre, un Accord particulier sera conclu avec le Gouvernement de la République française qui définira les privilèges et immunités dont jouira le Conseil à son siège.
+(b) Les Membres s’engagent à conclure aussitôt que possible un Accord en vue de donner plein effet aux dispositions du par. (a) ci-dessus. À cette fin, le Comité des Ministres recommandera aux Gouvernements des Membres la conclusion d’un Accord définissant les privilèges et immunités reconnus sur leurs territoires. En outre, un Accord particulier sera conclu avec le Gouvernement de la République française qui définira les privilèges et immunités dont jouira le Conseil à son siège.
 
 ## Chapitre IX Amendements
 
@@ -378,10 +378,10 @@ Le Secrétaire Général notifie chaque année aux Gouvernements des Membres le 
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Statut. Fait à Londres, le 5 mai 1949, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Gouvernement du Royaume-Uni, lequel remettra des copies certifiées conformes aux autres Gouvernements signataires. (Suivent les signatures)
 
-Champ d’application le 5 juin 2007
+Champ d’application le 16 mars 2022[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>13 juillet</td><td>1995 A</td><td>13 juillet</td><td>1995</td></tr>
 <tr><td>Allemagne</td><td>13 juillet</td><td>1950 A</td><td>13 juillet</td><td>1950</td></tr>
 <tr><td>Andorre</td><td>10 novembre</td><td>1994 A</td><td>10 novembre</td><td>1994</td></tr>
@@ -408,7 +408,7 @@ Champ d’application le 5 juin 2007
 <tr><td>Liechtenstein</td><td>23 novembre</td><td>1978 A</td><td>23 novembre</td><td>1978</td></tr>
 <tr><td>Lituanie</td><td>14 mai</td><td>1993 A</td><td>14 mai</td><td>1993</td></tr>
 <tr><td>Luxembourg</td><td>3 août</td><td>1949</td><td>3 août</td><td>1949</td></tr>
-<tr><td>Macédoine</td><td>9 novembre</td><td>1995 A</td><td>9 novembre</td><td>1995</td></tr>
+<tr><td>Macédoine du Nord</td><td>9 novembre</td><td>1995 A</td><td>9 novembre</td><td>1995</td></tr>
 <tr><td>Malte</td><td>29 avril</td><td>1965 A</td><td>29 avril</td><td>1965</td></tr>
 <tr><td>Moldova</td><td>13 juillet</td><td>1995 A</td><td>13 juillet</td><td>1995</td></tr>
 <tr><td>Monaco</td><td>5 octobre</td><td>2004 A</td><td>5 octobre</td><td>2004</td></tr>
@@ -420,7 +420,6 @@ Champ d’application le 5 juin 2007
 <tr><td>République tchèque</td><td>30 juin</td><td>1993 A</td><td>30 juin</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>7 octobre</td><td>1993 A</td><td>7 octobre</td><td>1993</td></tr>
 <tr><td>Royaume-Uni</td><td>26 juillet</td><td>1949</td><td>3 août</td><td>1949</td></tr>
-<tr><td>Russie</td><td>28 février</td><td>1996 A</td><td>28 février</td><td>1996</td></tr>
 <tr><td>Saint-Marin</td><td>16 novembre</td><td>1988 A</td><td>16 novembre</td><td>1988</td></tr>
 <tr><td>Serbie</td><td>3 avril</td><td>2003 A</td><td>3 avril</td><td>2003</td></tr>
 <tr><td>Slovaquie</td><td>30 juin</td><td>1993 A</td><td>30 juin</td><td>1993</td></tr>
@@ -430,3 +429,5 @@ Champ d’application le 5 juin 2007
 <tr><td>Turquie</td><td>13 avril</td><td>1950 A</td><td>13 avril</td><td>1950</td></tr>
 <tr><td>Ukraine</td><td>9 novembre</td><td>1995 A</td><td>9 novembre</td><td>1995</td></tr>
 </table>
+
+[^t-2]: [RO 1971 67](https://fedlex.data.admin.ch/eli/oc/1971/63_67_67); [1976 2857](https://fedlex.data.admin.ch/eli/oc/1976/2857_2857_2857); [1978 233](https://fedlex.data.admin.ch/eli/oc/1978/233_233_233); [1979 506](https://fedlex.data.admin.ch/eli/oc/1979/506_506_506); [1989 101](https://fedlex.data.admin.ch/eli/oc/1989/101_101_101), [1528](https://fedlex.data.admin.ch/eli/oc/1989/1528_1528_1528); [1990 284](https://fedlex.data.admin.ch/eli/oc/1990/284_284_284); [1991 526](https://fedlex.data.admin.ch/eli/oc/1991/526_526_526); [1992 442](https://fedlex.data.admin.ch/eli/oc/1992/442_442_442), [1689](https://fedlex.data.admin.ch/eli/oc/1992/1689_1689_1689); [1993 2809](https://fedlex.data.admin.ch/eli/oc/1993/2809_2809_2809), [3159](https://fedlex.data.admin.ch/eli/oc/1993/3159_3159_3159); [1995 3701](https://fedlex.data.admin.ch/eli/oc/1995/3701_3701_3701); [1996 791](https://fedlex.data.admin.ch/eli/oc/1996/791_791_791); [1997 293](https://fedlex.data.admin.ch/eli/oc/1997/293_293_293); [2002 374](https://fedlex.data.admin.ch/eli/oc/2002/89); [2003 3779](https://fedlex.data.admin.ch/eli/oc/2003/542); [2005 105](https://fedlex.data.admin.ch/eli/oc/2005/21); [2007 3729](https://fedlex.data.admin.ch/eli/oc/2007/473); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

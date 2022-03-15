@@ -3,31 +3,26 @@ sr: "0.192.030"
 title: "Statuto del Consiglio d'Europa del 5 maggio 1949"
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/772_769_797"
 language: it
-version: 2007-05-11
+version: 2022-03-16
 adopted: 1949-05-05
 in_force: 1963-05-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/772_769_797/20070511/it/xml/fedlex-data-admin-ch-eli-cc-1963-772_769_797-20070511-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/772_769_797/20070511/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/772_769_797/20220316/it/xml/fedlex-data-admin-ch-eli-cc-1963-772_769_797-20220316-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/772_769_797/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Statuto del Consiglio d’Europa
 
-(Stato 5 giugno 2007)0.192.030Nicht löschen bitte "[^t-1] " !!
+RU **1963** 797; FF **1963** I 113 ediz. ted. 109 ediz. franc.
 
 Traduzione
 
-Approvato dall’Assemblea federale il 19 marzo 1963[^t-2]
+Conchiuso a Londra il 5 maggio 1949 Approvato dall’Assemblea federale il 19 marzo 1963[^t-1] Istrumento d’adesione depositato dalla Svizzera il 6 maggio 1963 Entrato in vigore per la Svizzera il 6 maggio 1963
 
-Istrumento d’adesione depositato dalla Svizzera il 6 maggio 1963
+(Stato 16 marzo 2022)
 
-Entrato in vigore per la Svizzera il 6 maggio 1963
-
-(Stato 5 giugno 2007)
-
-[^t-1]: [RU 1963 797](https://fedlex.data.admin.ch/eli/oc/1963/772_769_797); FF **1963** I 113 ediz. ted. 109 ediz. franc.
-[^t-2]: [RU 1963 795](https://fedlex.data.admin.ch/eli/oc/1963/771_767_795)
+[^t-1]: [RU 1963 795](https://fedlex.data.admin.ch/eli/oc/1963/771_767_795)
 
 I Governi del Regno del Belgio, del Regno di Danimarca, della Repubblica Francese, della Repubblica Irlandese, della Repubblica Italiana, del Gran Ducato di Lussemburgo, del Regno dei Paesi Bassi, del Regno di Norvegia, del Regno di Svezia e del Regno Unito di Gran Bretagna e d’Irlanda del Nord;
 
@@ -231,7 +226,7 @@ I Membri hanno diritto al seguente numero di seggi:
 <tr><td>Croazia</td><td>5</td><td>Regno Unito di Gran Bretagna</td><td></td></tr>
 <tr><td>Danimarca</td><td>5</td><td>e d’Irlanda del Nord</td><td>18</td></tr>
 <tr><td>Estonia</td><td>3</td><td>Romania</td><td>10</td></tr>
-<tr><td>Finlandia</td><td>5</td><td>Russia</td><td>18</td></tr>
+<tr><td>Finlandia</td><td>5</td><td>Russia[^26-2]</td><td></td></tr>
 <tr><td>Francia</td><td>18</td><td>San Marino</td><td>2</td></tr>
 <tr><td>Georgia</td><td>5</td><td>Serbia</td><td>7</td></tr>
 <tr><td>Germania</td><td>18</td><td>Slovacchia</td><td>5</td></tr>
@@ -246,6 +241,7 @@ I Membri hanno diritto al seguente numero di seggi:
 </table>
 
 [^26-1]: Nuovo testo, approvato dal Comitato dei Ministri il 9 mag. 2007, e dall’Assemblea parlamentare il 17 apr. 2007 ([RU 2007 3729](https://fedlex.data.admin.ch/eli/oc/2007/473)).
+[^26-2]: Dal 16 mar. 2022 la Federazione russa ha cessato di essere Parte contraente dello Statuto.
 
 #### Art. 27
 
@@ -382,7 +378,7 @@ Il Segretario Generale notifica ogni anno ai Governi dei Membri l’ammontare de
 
 *In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato il presente Statuto. Fatto a Londra, il 5 maggio 1949, in francese ed inglese, i due testi facendo ugualmente fede, in un solo esemplare da depositare negli archivi del Governo del Regno Unito, il quale ne trasmetterà delle copie certificate conformi agli altri Governi firmatari. (Seguono le firme)
 
-Campo d’applicazione il 5 giugno 2007**[^t-3]**
+Campo d’applicazione il 16 marzo 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -411,7 +407,7 @@ Campo d’applicazione il 5 giugno 2007**[^t-3]**
 <tr><td>Liechtenstein</td><td>23 novembre</td><td>1978 A</td><td>23 novembre</td><td>1978</td></tr>
 <tr><td>Lituania</td><td>14 maggio</td><td>1993 A</td><td>14 maggio</td><td>1993</td></tr>
 <tr><td>Lussemburgo</td><td>3 agosto</td><td>1949</td><td>3 agosto</td><td>1949</td></tr>
-<tr><td>Macedonia</td><td>9 novembre</td><td>1995 A</td><td>9 novembre</td><td>1995</td></tr>
+<tr><td>Macedonia del Nord</td><td>9 novembre</td><td>1995 A</td><td>9 novembre</td><td>1995</td></tr>
 <tr><td>Malta</td><td>29 aprile</td><td>1965 A</td><td>29 aprile</td><td>1965</td></tr>
 <tr><td>Moldova</td><td>13 luglio</td><td>1995 A</td><td>13 luglio</td><td>1995</td></tr>
 <tr><td>Monaco</td><td>5 ottobre</td><td>2004 A</td><td>5 ottobre</td><td>2004</td></tr>
@@ -422,7 +418,6 @@ Campo d’applicazione il 5 giugno 2007**[^t-3]**
 <tr><td>Portogallo</td><td>22 settembre</td><td>1976 A</td><td>22 settembre</td><td>1976</td></tr>
 <tr><td>Regno Unito</td><td>26 luglio</td><td>1949</td><td>3 agosto</td><td>1949</td></tr>
 <tr><td>Romania</td><td>7 ottobre</td><td>1993 A</td><td>7 ottobre</td><td>1993</td></tr>
-<tr><td>Russia</td><td>28 febbraio</td><td>1996 A</td><td>28 febbraio</td><td>1996</td></tr>
 <tr><td>San Marino</td><td>16 novembre</td><td>1988 A</td><td>16 novembre</td><td>1988</td></tr>
 <tr><td>Serbia</td><td>3 aprile</td><td>2003 A</td><td>3 aprile</td><td>2003</td></tr>
 <tr><td>Slovacchia</td><td>30 giugno</td><td>1993 A</td><td>30 giugno</td><td>1993</td></tr>
@@ -435,4 +430,4 @@ Campo d’applicazione il 5 giugno 2007**[^t-3]**
 <tr><td>Ungheria</td><td>6 novembre</td><td>1990 A</td><td>6 novembre</td><td>1990</td></tr>
 </table>
 
-[^t-3]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (http://www.eda.admin.ch/eda/it/home/topics/intla/intrea/dbstv.html).
+[^t-2]: [RU 1971 67](https://fedlex.data.admin.ch/eli/oc/1971/63_67_67); [1976 2857](https://fedlex.data.admin.ch/eli/oc/1976/2857_2857_2857); [1978 233](https://fedlex.data.admin.ch/eli/oc/1978/233_233_233); [1979 506](https://fedlex.data.admin.ch/eli/oc/1979/506_506_506); [1989 101](https://fedlex.data.admin.ch/eli/oc/1989/101_101_101), [1528](https://fedlex.data.admin.ch/eli/oc/1989/1528_1528_1528); [1990 284](https://fedlex.data.admin.ch/eli/oc/1990/284_284_284); [1991 526](https://fedlex.data.admin.ch/eli/oc/1991/526_526_526); [1992 442](https://fedlex.data.admin.ch/eli/oc/1992/442_442_442), [1689](https://fedlex.data.admin.ch/eli/oc/1992/1689_1689_1689); [1993 2809](https://fedlex.data.admin.ch/eli/oc/1993/2809_2809_2809), [3159](https://fedlex.data.admin.ch/eli/oc/1993/3159_3159_3159); [1995 3701](https://fedlex.data.admin.ch/eli/oc/1995/3701_3701_3701); [1996 791](https://fedlex.data.admin.ch/eli/oc/1996/791_791_791); [1997 293](https://fedlex.data.admin.ch/eli/oc/1997/293_293_293); [2002 374](https://fedlex.data.admin.ch/eli/oc/2002/89); [2003 3779](https://fedlex.data.admin.ch/eli/oc/2003/542); [2005 105](https://fedlex.data.admin.ch/eli/oc/2005/21); [2007 3729](https://fedlex.data.admin.ch/eli/oc/2007/473); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

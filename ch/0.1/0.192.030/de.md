@@ -3,11 +3,11 @@ sr: "0.192.030"
 title: Satzung des Europarates vom 5. Mai 1949
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/772_769_797"
 language: de
-version: 2007-05-11
+version: 2022-03-16
 adopted: 1949-05-05
 in_force: 1963-05-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/772_769_797/20070511/de/xml/fedlex-data-admin-ch-eli-cc-1963-772_769_797-20070511-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/772_769_797/20070511/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/772_769_797/20220316/de/xml/fedlex-data-admin-ch-eli-cc-1963-772_769_797-20220316-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/772_769_797/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,15 +18,9 @@ AS **1963** 772; BBl **1963** I 113
 
 Übersetzung
 
-Angenommen in London am 5. Mai 1949
+Angenommen in London am 5. Mai 1949 Von der Bundesversammlung genehmigt am 19. März 1963[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 6. Mai 1963 In Kraft getreten für die Schweiz am 6. Mai 1963
 
-Von der Bundesversammlung genehmigt am 19. März 1963[^t-1]
-
-Schweizerische Beitrittsurkunde hinterlegt am 6. Mai 1963
-
-In Kraft getreten für die Schweiz am 6. Mai 1963
-
-(Stand am 11. Mai 2007)
+(Stand am 16. März 2022)
 
 [^t-1]: [AS 1963 771](https://fedlex.data.admin.ch/eli/oc/1963/771_767_795)
 
@@ -228,7 +222,7 @@ Die Mitglieder haben Anrecht auf die nachstehend angegebene Zahl von Sitzen:
 <tr><td>Bulgarien</td><td>6</td><td>Polen</td><td>12</td></tr>
 <tr><td>Deutschland</td><td>18</td><td>Portugal</td><td>7</td></tr>
 <tr><td>Dänemark</td><td>5</td><td>Rumänien</td><td>10</td></tr>
-<tr><td>Estland</td><td>3</td><td>Russland</td><td>18</td></tr>
+<tr><td>Estland</td><td>3</td><td>Russland[^26-2]</td><td></td></tr>
 <tr><td>Finnland</td><td>5</td><td>Serbien</td><td>7</td></tr>
 <tr><td>Frankreich</td><td>18</td><td>San Marino</td><td>2</td></tr>
 <tr><td>Georgien</td><td>5</td><td>Slowakei</td><td>5</td></tr>
@@ -247,6 +241,7 @@ Die Mitglieder haben Anrecht auf die nachstehend angegebene Zahl von Sitzen:
 </table>
 
 [^26-1]: Fassung genehmigt vom Ministerkomitee am 9. Mai 2007 und von der Parlamentarischen Versammlung am 17. April 2007 ([AS 2007 3729](https://fedlex.data.admin.ch/eli/oc/2007/473)).
+[^26-2]: Mit Wirkung ab dem 16. März 2022 ist die Russische Föderation nicht länger Vertragspart (siehe [AS 2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248)Ziff. 1).
 
 #### Art. 27
 
@@ -387,7 +382,7 @@ Geschehen zu London am 5. Mai 1949 in französischer und englischer Sprache, wob
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. Juni 2007**[^t-2]**
+Geltungsbereich am 16. März 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -414,17 +409,16 @@ Geltungsbereich am 5. Juni 2007**[^t-2]**
 <tr><td>Litauen</td><td>14. Mai</td><td>1993 B</td><td>14. Mai</td><td>1993</td></tr>
 <tr><td>Luxemburg</td><td>3. August</td><td>1949</td><td>3. August</td><td>1949</td></tr>
 <tr><td>Malta</td><td>29. April</td><td>1965 B</td><td>29. April</td><td>1965</td></tr>
-<tr><td>Mazedonien</td><td>9. November</td><td>1995 B</td><td>9. November</td><td>1995</td></tr>
 <tr><td>Moldau</td><td>13. Juli</td><td>1995 B</td><td>13. Juli</td><td>1995</td></tr>
 <tr><td>Monaco</td><td>5. Oktober</td><td>2004 B</td><td>5. Oktober</td><td>2004</td></tr>
 <tr><td>Montenegro</td><td>11. Mai</td><td>2007 B</td><td>11. Mai</td><td>2007</td></tr>
 <tr><td>Niederlande</td><td>5. August</td><td>1949</td><td>5. August</td><td>1949</td></tr>
+<tr><td>Nordmazedonien</td><td>9. November</td><td>1995 B</td><td>9. November</td><td>1995</td></tr>
 <tr><td>Norwegen</td><td>30. Juli</td><td>1949</td><td>3. August</td><td>1949</td></tr>
 <tr><td>Österreich</td><td>16. April</td><td>1956 B</td><td>16. April</td><td>1956</td></tr>
 <tr><td>Polen</td><td>26. November</td><td>1991 B</td><td>26. November</td><td>1991</td></tr>
 <tr><td>Portugal</td><td>22. September</td><td>1976 B</td><td>22. September</td><td>1976</td></tr>
 <tr><td>Rumänien</td><td>7. Oktober</td><td>1993 B</td><td>7. Oktober</td><td>1993</td></tr>
-<tr><td>Russland</td><td>28. Februar</td><td>1996 B</td><td>28. Februar</td><td>1996</td></tr>
 <tr><td>San Marino</td><td>16. November</td><td>1988 B</td><td>16. November</td><td>1988</td></tr>
 <tr><td>Schweden</td><td>20. Juli</td><td>1949</td><td>3. August</td><td>1949</td></tr>
 <tr><td>Schweiz</td><td>6. Mai</td><td>1963 B</td><td>6. Mai</td><td>1963</td></tr>
@@ -440,4 +434,4 @@ Geltungsbereich am 5. Juni 2007**[^t-2]**
 <tr><td>Zypern</td><td>24. Mai</td><td>1961 B</td><td>24. Mai</td><td>1961</td></tr>
 </table>
 
-[^t-2]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1971 67](https://fedlex.data.admin.ch/eli/oc/1971/67_71_71); [1976 2857](https://fedlex.data.admin.ch/eli/oc/1976/2857_2857_2857); [1978 233](https://fedlex.data.admin.ch/eli/oc/1978/233_233_233); [1979 506](https://fedlex.data.admin.ch/eli/oc/1979/506_506_506); [1989 101](https://fedlex.data.admin.ch/eli/oc/1989/101_101_101), [1528](https://fedlex.data.admin.ch/eli/oc/1989/1528_1528_1528); [1990 284](https://fedlex.data.admin.ch/eli/oc/1990/284_284_284); [1991 526](https://fedlex.data.admin.ch/eli/oc/1991/526_526_526); [1992 442](https://fedlex.data.admin.ch/eli/oc/1992/442_442_442), [1689](https://fedlex.data.admin.ch/eli/oc/1992/1689_1689_1689); [1993 2809](https://fedlex.data.admin.ch/eli/oc/1993/2809_2809_2809), [3159](https://fedlex.data.admin.ch/eli/oc/1993/3159_3159_3159); [1995 3701](https://fedlex.data.admin.ch/eli/oc/1995/3701_3701_3701); [1996 791](https://fedlex.data.admin.ch/eli/oc/1996/791_791_791); [1997 293](https://fedlex.data.admin.ch/eli/oc/1997/293_293_293); [2002 374](https://fedlex.data.admin.ch/eli/oc/2002/89); [2003 3779](https://fedlex.data.admin.ch/eli/oc/2003/542); [2005 105](https://fedlex.data.admin.ch/eli/oc/2005/21); [2007 3729](https://fedlex.data.admin.ch/eli/oc/2007/473); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
