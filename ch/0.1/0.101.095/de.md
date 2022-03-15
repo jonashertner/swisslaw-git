@@ -3,11 +3,11 @@ sr: "0.101.095"
 title: Protokoll Nr. 15 vom 24. Juni 2013 über die Änderung der Konvention zum Schutze der Menschenrechte und Grundfreiheiten
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/461"
 language: de
-version: 2021-08-01
+version: 2022-03-16
 adopted: 2013-06-24
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/461/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2021-461-20210801-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/461/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/461/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2021-461-20220316-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/461/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2021** 461; BBl **2015** 2347
 
 Abgeschlossen am 24. Juni 2013 Von der Bundesversammlung genehmigt am 18. März 2016[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 8. Juli 2016 In Kraft getreten für die Schweiz am 1. August 2021
 
-(Stand am 1. August 2021)
+(Stand am 16. März 2022)
 
 [^t-1]: [AS 2021 460](https://fedlex.data.admin.ch/eli/oc/2021/460)
 
@@ -106,7 +106,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 - c) den Zeitpunkt des Inkrafttretens dieses Protokolls nach Artikel 7; und
 - d) jede andere Handlung, Notifikation oder Mitteilung im Zusammenhang mit diesem Protokoll.
 
-Geltungsbereich am 22. Juli 2021[^t-2]
+Geltungsbereich am 16. März 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -146,7 +146,6 @@ Geltungsbereich am 22. Juli 2021[^t-2]
 <tr><td>Polen</td><td>10. September</td><td>2015</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Portugal</td><td>16. Januar</td><td>2017</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Rumänien</td><td>28. Mai</td><td>2015</td><td>1. August</td><td>2021</td></tr>
-<tr><td>Russland</td><td>25. September</td><td>2017</td><td>1. August</td><td>2021</td></tr>
 <tr><td>San Marino</td><td>6. November</td><td>2013</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Schweden</td><td>29. März</td><td>2016</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Schweiz</td><td>15. Juli</td><td>2016</td><td>1. August</td><td>2021</td></tr>
@@ -160,7 +159,7 @@ Geltungsbereich am 22. Juli 2021[^t-2]
 <tr><td>Ungarn</td><td>30. November</td><td>2015</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>10. April</td><td>2015</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Zypern</td><td>16. Juni</td><td>2015</td><td>1. August</td><td>2021</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](http://www.coe.int) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int/de) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
 </table>
 
-[^t-2]: Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
+[^t-2]: [AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Eine aktualisierte Fassung des Geltungsbereichs dieser Übereinkommen und Protokolle ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/Treaty](https://www.fedlex.admin.ch/de/Treaty)..

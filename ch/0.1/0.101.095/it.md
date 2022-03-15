@@ -3,18 +3,18 @@ sr: "0.101.095"
 title: Protocollo n. 15 del 24 giugno 2013 recante emendamento alla Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/461"
 language: it
-version: 2021-08-01
+version: 2022-03-16
 adopted: 2013-06-24
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/461/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2021-461-20210801-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/461/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/461/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2021-461-20220316-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/461/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo n. 15 recante emendamento alla Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali
 
-RO **2021** 461; FF **2015** 1935
+RU **2021** 461; FF **2015** 1935
 
 Traduzione
 
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera l’8 luglio 2016
 
 Entrato in vigore per la Svizzera il 1° agosto 2021
 
-(Stato 1° agosto 2021)
+(Stato 16 marzo 2022)
 
 [^t-1]: [RU 2021 460](https://fedlex.data.admin.ch/eli/oc/2021/460)
 
@@ -112,7 +112,7 @@ Il Segretario generale del Consiglio d’Europa notificherà agli Stati membri d
 - c) la data di entrata in vigore del presente Protocollo, conformemente all’articolo 7; e
 - d) ogni altro atto, notifica o comunicazione riguardante il presente Protocollo.
 
-Campo d’applicazione il 22 luglio 2021[^t-2]
+Campo d’applicazione il 16 marzo 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -155,7 +155,6 @@ Campo d’applicazione il 22 luglio 2021[^t-2]
 <tr><td>Regno Unito</td><td>10 aprile</td><td>2015</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Repubblica Ceca</td><td>18 marzo</td><td>2015</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Romania</td><td>28 maggio</td><td>2015</td><td>1° agosto</td><td>2021</td></tr>
-<tr><td>Russia</td><td>25 settembre</td><td>2017</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>San Marino</td><td>6 novembre</td><td>2013</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Serbia</td><td>29 maggio</td><td>2015</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Slovacchia</td><td>7 febbraio</td><td>2014</td><td>1° agosto</td><td>2021</td></tr>
@@ -169,4 +168,4 @@ Campo d’applicazione il 22 luglio 2021[^t-2]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna [tab]</td></tr>
 </table>
 
-[^t-2]: Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty%20).
+[^t-2]: [RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
