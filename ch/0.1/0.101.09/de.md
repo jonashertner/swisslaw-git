@@ -3,30 +3,28 @@ sr: "0.101.09"
 title: Protokoll Nr. 11 vom 11. Mai 1994 zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten über die Umgestaltung des durch die Konvention eingeführten Kontrollmechanismus
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993"
 language: de
-version: 2016-05-27
+version: 2022-03-16
 adopted: 1994-05-11
 in_force: 1998-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993/20160527/de/xml/fedlex-data-admin-ch-eli-cc-1998-2993_2993_2993-20160527-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2993_2993_2993/20160527/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993/20220316/de/xml/fedlex-data-admin-ch-eli-cc-1998-2993_2993_2993-20220316-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2993_2993_2993/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Protokoll Nr. 11 zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten über die Umgestaltung des durch die Konvention eingeführten Kontrollmechanismus
 
-[^t-1]SR
+AS **1998** 2993; BBl **1995** I 999
 
-Übersetzung*[^t-2]*
+Übersetzung
 
-Abgeschlossen in Strassburg am 11. Mai 1994 Von der Bundesversammlung genehmigt am 12. Juni 1995[^t-3]
+Abgeschlossen in Strassburg am 11. Mai 1994 Von der Bundesversammlung genehmigt am 12. Juni 1995[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 13. Juli 1995 In Kraft getreten für die Schweiz am 1. November 1998
 
-(Stand am 27. Mai 2016)
+(Stand am 16. März 2022)
 
-[^t-1]: [AS 1998 2993](https://fedlex.data.admin.ch/eli/oc/1998/2993_2993_2993); [BBl 1995 I 999](https://fedlex.data.admin.ch/eli/fga/1995/1_999_987_835)
-[^t-2]: Übersetzung des französischen Originaltexts.
-[^t-3]: [AS 1998 2992](https://fedlex.data.admin.ch/eli/oc/1998/2992_2992_2992)
+[^t-1]: [AS 1998 2992](https://fedlex.data.admin.ch/eli/oc/1998/2992_2992_2992)
 
 Die Mitgliedstaaten des Europarats, die dieses Protokoll zu der am 4. November 1950 in Rom unterzeichneten Konvention zum Schutze der Menschenrechte und Grundfreiheiten[^ingress-1] (im folgenden als «Konvention» bezeichnet) unterzeichnen –
 
@@ -42,7 +40,7 @@ im Hinblick auf den von den Staats- und Regierungschefs der Mitgliedstaaten des 
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 1
 
@@ -102,13 +100,15 @@ Protokoll Nr. 7[^2-4] wird wie folgt geändert:
 
 [^2-1]: Von der Schweiz nicht ratifiziert.
 [^2-2]: Von der Schweiz nicht ratifiziert.
-[^2-3]: [SR 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807). Die hiernach aufgeführten Änd. sind eingefügt im genannten Prot.
-[^2-4]: [SR 0.101.07](https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598). Die hiernach aufgeführten Änd. sind eingefügt im genannten Prot.
+[^2-3]: [SR 0.101.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5). Die hiernach aufgeführten Änd. sind eingefügt im genannten Prot.
+[^2-4]: [SR 0.101.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6). Die hiernach aufgeführten Änd. sind eingefügt im genannten Prot.
 [^2-5]: [AS 1995 3950](https://fedlex.data.admin.ch/eli/oc/1995/3950_3950_3950)
 
 #### Art. 3
 
-<sup>(1)</sup> Dieses Protokoll liegt für die Mitgliedstaaten des Europarats, welche die Konvention unterzeichnet haben, zur Unterzeichnung auf; sie können ihre Zustimmung, gebunden zu sein, ausdrücken,
+<sup>(1)</sup>
+
+Dieses Protokoll liegt für die Mitgliedstaaten des Europarats, welche die Konvention unterzeichnet haben, zur Unterzeichnung auf; sie können ihre Zustimmung, gebunden zu sein, ausdrücken:
 
 - a) indem sie es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnen oder
 - b) indem sie es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnen und später ratifizieren, annehmen oder genehmigen.
@@ -143,7 +143,7 @@ Hat ein Hoher Vertragschliessender Teil eine Erklärung abgegeben, mit der er na
 
 #### Art. 7
 
-Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates
+Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates:
 
 - a) jede Unterzeichnung;
 - b) jede Hinterlegung einer Ratifikations-, Annahme- oder Genehmigungsurkunde;
@@ -154,13 +154,11 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates
 
 Anhang
 
-## Artikelüberschriften, die in die Konvention zum Schutze der Menschenrechte und Grundfreiheiten und die Protokolle**** dazu einzufügen sind
+## Artikelüberschriften, die in die Konvention zum Schutze der Menschenrechte und Grundfreiheiten und die Protokolle dazu einzufügen sind
 
 [^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Überschriften der neuen Art. 19 bis 51 der Konvention sind in diesem Prot. bereits enthalten.
-
-...
 
 Artikel 1 Verpflichtung zur Achtung der Menschenrechte
 
@@ -268,7 +266,7 @@ Artikel 9 Aufgaben des Verwahrers
 
 Protokoll Nr. 7
 
-Artikel 1 Verfahrensrechtliche Schutzvorschriften in Bezug auf die Ausweisung ausländischer Personen
+Artikel 1 Verfahrensrechtliche Schutzvorschriften in Bezug auf die Auswei sung ausländischer Personen
 
 Artikel 2 Rechtsmittel in Strafsachen
 
@@ -288,7 +286,7 @@ Artikel 9 Inkrafttreten
 
 Artikel 10 Aufgaben der Verwahrers
 
-Geltungsbereich am 27. Mai 2016**[^t-4]**
+Geltungsbereich am 16. März 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -315,7 +313,6 @@ Geltungsbereich am 27. Mai 2016**[^t-4]**
 <tr><td>Litauen</td><td>20. Juni</td><td>1995</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Luxemburg</td><td>10. September</td><td>1996</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Malta</td><td>11. Mai</td><td>1995</td><td>1. November</td><td>1998</td></tr>
-<tr><td>Mazedonien</td><td>10. April</td><td>1997</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Moldau</td><td>12. September</td><td>1997</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Monaco</td><td>30. November</td><td>2005</td><td>30. November</td><td>2005</td></tr>
 <tr><td>Niederlande</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
@@ -323,12 +320,12 @@ Geltungsbereich am 27. Mai 2016**[^t-4]**
 <tr><td>Curaçao</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Sint Maarten</td><td>21. Januar</td><td>1997</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Nordmazedonien</td><td>10. April</td><td>1997</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Norwegen</td><td>24. Juli</td><td>1995</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Österreich</td><td>3. August</td><td>1995</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Polen</td><td>20. Mai</td><td>1997</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Portugal</td><td>14. Mai</td><td>1997</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Rumänien</td><td>11. August</td><td>1995</td><td>1. November</td><td>1998</td></tr>
-<tr><td>Russland</td><td>5. Mai</td><td>1998</td><td>1. November</td><td>1998</td></tr>
 <tr><td>San Marino</td><td>5. Dezember</td><td>1996</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Schweden</td><td>21. April</td><td>1995</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Schweiz</td><td>13. Juli</td><td>1995</td><td>1. November</td><td>1998</td></tr>
@@ -347,6 +344,4 @@ Geltungsbereich am 27. Mai 2016**[^t-4]**
 <tr><td>Zypern</td><td>28. Juni</td><td>1995</td><td>1. November</td><td>1998</td></tr>
 </table>
 
-- [tab]
-
-[^t-4]: [AS 1998 2993](https://fedlex.data.admin.ch/eli/oc/1998/2993_2993_2993), [2006 3251](https://fedlex.data.admin.ch/eli/oc/2006/493)und [2016 1743](https://fedlex.data.admin.ch/eli/oc/2016/313). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1998 2993](https://fedlex.data.admin.ch/eli/oc/1998/2993_2993_2993), [2006 3251](https://fedlex.data.admin.ch/eli/oc/2006/493); [2016 1743](https://fedlex.data.admin.ch/eli/oc/2016/313); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Eine aktualisierte Fassung des Geltungsbereichs dieser Übereinkommen und Protokolle ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/Treaty](https://www.fedlex.admin.ch/de/Treaty)

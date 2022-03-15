@@ -3,26 +3,26 @@ sr: "0.101.09"
 title: "Protocollo n. 11 dell' 11 maggio 1994 alla Convenzione europea per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali, che ristruttura il meccanismo di controllo istituito dalla Convenzione"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993"
 language: it
-version: 2016-05-27
+version: 2022-03-16
 adopted: 1994-05-11
 in_force: 1998-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993/20160527/it/xml/fedlex-data-admin-ch-eli-cc-1998-2993_2993_2993-20160527-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2993_2993_2993/20160527/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993/20220316/it/xml/fedlex-data-admin-ch-eli-cc-1998-2993_2993_2993-20220316-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2993_2993_2993/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo n. 11 alla Convenzione europea per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali, che ristruttura il meccanismo di controllo istituito dalla Convenzione
 
-[^t-1]ru Traduzione*[^t-2]*
+RU **1998** 2993; FF **1995** I 835
 
-Concluso a Strasburgo l’11 maggio 1994 Approvato dall’Assemblea federale il 12 giugno 1995[^t-3] Ratificato dalla Svizzera con strumento depositato il 13 luglio 1995 Entrato in vigore per la Svizzera il 1° novembre 1998
+Traduzione
 
-(Stato 27 maggio 2016)
+Concluso a Strasburgo l’11 maggio 1994 Approvato dall’Assemblea federale il 12 giugno 1995[^t-1] Ratificato dalla Svizzera con strumento depositato il 13 luglio 1995 Entrato in vigore per la Svizzera il 1° novembre 1998
 
-[^t-1]: [RU 1998 2993](https://fedlex.data.admin.ch/eli/oc/1998/2993_2993_2993); [FF 1995 I 835](https://fedlex.data.admin.ch/eli/fga/1995/1_999_987_835)
-[^t-2]: Dal testo originale francese.
-[^t-3]: [RU 1998 2992](https://fedlex.data.admin.ch/eli/oc/1998/2992_2992_2992)
+(Stato 16 marzo 2022)
+
+[^t-1]: [RU 1998 2992](https://fedlex.data.admin.ch/eli/oc/1998/2992_2992_2992)
 
 Gli Stati membri del Consiglio d’Europa, firmatari del presente Protocollo alla Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali, firmata a Roma il 4 novembre 1950[^ingress-1] (dappresso denominata «la Convenzione»),
 
@@ -38,7 +38,7 @@ vista la decisione presa sulla riforma del meccanismo di controllo della Convenz
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 #### Art. 1
 
@@ -50,7 +50,7 @@ Il testo dei titoli da II a IV della Convenzione[^1-subdivu1-1] (art. da 19 a 56
 
 ...
 
-Art. 19 a 51
+### Art. 19 a 51
 
 ...
 
@@ -98,8 +98,8 @@ Il Protocollo n. 7[^2-4] è emendato nel seguente modo:
 
 [^2-1]: Prot. non ratificato dalla Svizzera.
 [^2-2]: Prot. non ratificato dalla Svizzera.
-[^2-3]: [RS 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807). Le mod. qui appresso sono inserite nel Prot. menzionato.
-[^2-4]: [RS 0.101.07](https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598). Le mod. qui appresso sono inserite nel Prot. menzionato.
+[^2-3]: [RS 0.101.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5). Le mod. qui appresso sono inserite nel Prot. menzionato.
+[^2-4]: [RS 0.101.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6). Le mod. qui appresso sono inserite nel Prot. menzionato.
 [^2-5]: [[RU 1995 3950](https://fedlex.data.admin.ch/eli/oc/1995/3950_3950_3950)]
 
 #### Art. 3
@@ -152,85 +152,139 @@ Il Segretario generale del Consiglio d’Europa notificherà agli Stati membri d
 
 Allegato
 
-## Rubriche degli articoli da inserire nel testo della Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali e dei suoi protocolli****
+## Rubriche degli articoli da inserire nel testo della Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali e dei suoi protocolli
 
 [^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le rubriche dei nuovi art. da 19 a 51 della Conv. figurano già nel presente Prot.
 
-- Articolo 1 Obbligo di rispettare i diritti dell’uomo
-- Articolo 2 Diritto alla vita
-- Articolo 3 Divieto di tortura
-- Articolo 4 Divieto di schiavitù e lavori forzati
-- Articolo 5 Diritto alla libertà e alla sicurezza
-- Articolo 6 Diritto ad un processo equo
-- Articolo 7 Nessuna pena senza legge
-- Articolo 8 Diritto al rispetto della vita privata e familiare
-- Articolo 9 Libertà di pensiero, di coscienza e di religione
-- Articolo 10 Libertà di espressione
-- Articolo 11 Libertà di riunione ed associazione
-- Articolo 12 Diritto al matrimonio
-- Articolo 13 Diritto ad un ricorso effettivo
-- Articolo 14 Divieto di discriminazione
-- Articolo 15 Deroga in caso di emergenze
-- Articolo 16 Restrizione all’attività politica degli stranieri
-- Articolo 17 Divieto dell’abuso di diritto
-- Articolo 18 Limitazioni dell’uso di restrizioni ai diritti
-- [tab] [...]
-- Articolo 52 Richieste del Segretario generale
-- Articolo 53 Salvaguardia dei diritti dell’uomo riconosciuti
-- Articolo 54 Poteri del Comitato dei Ministri
-- Articolo 55 Rinuncia ad altri mezzi di risoluzione delle controversie
-- Articolo 56 Applicazione territoriale
-- Articolo 57 Riserve
-- Articolo 58 Denuncia
-- Articolo 59 Firma e ratifica
+Articolo 1 Obbligo di rispettare i diritti dell’uomo
 
-*Protocollo addizionale*
+Articolo 2 Diritto alla vita
 
-- Articolo 1 Tutela della proprietà
-- Articolo 2 Diritto all’educazione
-- Articolo 3 Diritto a libere elezioni
-- Articolo 4 Applicazione territoriale
-- Articolo 5 Rapporti con la Convenzione
-- Articolo 6 Firma e ratifica
+Articolo 3 Divieto di tortura
 
-*Protocollo n. 4*
+Articolo 4 Divieto di schiavitù e lavori forzati
 
-- Articolo 1 Divieto di pena detentiva per inadempimento di obbligazioni contrattuali
-- Articolo 2 Libertà di circolazione
-- Articolo 3 Divieto di espulsione di cittadini
-- Articolo 4 Divieto di espulsione collettiva di stranieri
-- Articolo 5 Applicazione territoriale
-- Articolo 6 Rapporti con la Convenzione
-- Articolo 7 Firma e ratifica
+Articolo 5 Diritto alla libertà e alla sicurezza
 
-*Protocollo n. 6*
+Articolo 6 Diritto ad un processo equo
 
-- Articolo 1 Abolizione della pena di morte
-- Articolo 2 Pena di morte in tempo di guerra
-- Articolo 3 Divieto di deroghe
-- Articolo 4 Divieto di riserve
-- Articolo 5 Applicazione territoriale
-- Articolo 6 Rapporti con la Convenzione
-- Articolo 7 Firma e ratifica
-- Articolo 8 Entrata in vigore
-- Articolo 9 Funzioni del depositario
+Articolo 7 Nessuna pena senza legge
 
-*Protocollo n. 7*
+Articolo 8 Diritto al rispetto della vita privata e familiare
 
-- Articolo 1 Garanzie processuali in ordine all’espulsione di stranieri
-- Articolo 2 Diritto di ricorso in materia penale
-- Articolo 3 Indennizzo per detenzione iniqua
-- Articolo 4 *Ne bis in idem*
-- Articolo 5 Eguaglianza tra coniugi
-- Articolo 6 Applicazione territoriale
-- Articolo 7 Rapporti con la Convenzione
-- Articolo 8 Firma e ratifica
-- Articolo 9 Entrata in vigore
-- Articolo 10 Funzioni del depositario
+Articolo 9 Libertà di pensiero, di coscienza e di religione
 
-Campo d’applicazione il 27 maggio 2016**[^t-4]**
+Articolo 10 Libertà di espressione
+
+Articolo 11 Libertà di riunione ed associazione
+
+Articolo 12 Diritto al matrimonio
+
+Articolo 13 Diritto ad un ricorso effettivo
+
+Articolo 14 Divieto di discriminazione
+
+Articolo 15 Deroga in caso di emergenze
+
+Articolo 16 Restrizione all’attività politica degli stranieri
+
+Articolo 17 Divieto dell’abuso di diritto
+
+Articolo 18 Limitazioni dell’uso di restrizioni ai diritti
+
+[...]
+
+Articolo 52 Richieste del Segretario generale
+
+Articolo 53 Salvaguardia dei diritti dell’uomo riconosciuti
+
+Articolo 54 Poteri del Comitato dei Ministri
+
+Articolo 55 Rinuncia ad altri mezzi di risoluzione delle controversie
+
+Articolo 56 Applicazione territoriale
+
+Articolo 57 Riserve
+
+Articolo 58 Denuncia
+
+Articolo 59 Firma e ratifica
+
+Protocollo addizionale
+
+Articolo 1 Tutela della proprietà
+
+Articolo 2 Diritto all’educazione
+
+Articolo 3 Diritto a libere elezioni
+
+Articolo 4 Applicazione territoriale
+
+Articolo 5 Rapporti con la Convenzione
+
+Articolo 6 Firma e ratifica
+
+Protocollo n. 4
+
+Articolo 1 Divieto di pena detentiva per inadempimento di obbligazioni con trattuali
+
+Articolo 2 Libertà di circolazione
+
+Articolo 3 Divieto di espulsione di cittadini
+
+Articolo 4 Divieto di espulsione collettiva di stranieri
+
+Articolo 5 Applicazione territoriale
+
+Articolo 6 Rapporti con la Convenzione
+
+Articolo 7 Firma e ratifica
+
+Protocollo n. 6
+
+Articolo 1 Abolizione della pena di morte
+
+Articolo 2 Pena di morte in tempo di guerra
+
+Articolo 3 Divieto di deroghe
+
+Articolo 4 Divieto di riserve
+
+Articolo 5 Applicazione territoriale
+
+Articolo 6 Rapporti con la Convenzione
+
+Articolo 7 Firma e ratifica
+
+Articolo 8 Entrata in vigore
+
+Articolo 9 Funzioni del depositario
+
+Protocollo n. 7
+
+Articolo 1 Garanzie processuali in ordine all’espulsione di stranieri
+
+Articolo 2 Diritto di ricorso in materia penale
+
+Articolo 3 Indennizzo per detenzione iniqua
+
+Articolo 4 *Ne bis in idem*
+
+Articolo 5 Eguaglianza tra coniugi
+
+Articolo 6 Applicazione territoriale
+
+Articolo 7 Rapporti con la Convenzione
+
+Articolo 8 Firma e ratifica
+
+Articolo 9 Entrata in vigore
+
+Articolo 10 Funzioni del depositario
+
+Campo d’applicazione il 16 marzo 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -258,7 +312,7 @@ Campo d’applicazione il 27 maggio 2016**[^t-4]**
 <tr><td>Liechtenstein</td><td>14 novembre</td><td>1995</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>Lituania</td><td>20 giugno</td><td>1995</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>Lussemburgo</td><td>10 settembre</td><td>1996</td><td>1° novembre</td><td>1998</td></tr>
-<tr><td>Macedonia</td><td>10 aprile</td><td>1997</td><td>1° novembre</td><td>1998</td></tr>
+<tr><td>Macedonia del Nord</td><td>10 aprile</td><td>1997</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>Malta</td><td>11 maggio</td><td>1995</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>Moldova</td><td>12 settembre</td><td>1997</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>Monaco</td><td>30 novembre</td><td>2005</td><td>30 novembre</td><td>2005</td></tr>
@@ -276,7 +330,6 @@ Campo d’applicazione il 27 maggio 2016**[^t-4]**
 <tr><td>Jersey</td><td>9 dicembre</td><td>1994</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>Repubblica Ceca</td><td>28 aprile</td><td>1995</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>Romania</td><td>11 agosto</td><td>1995</td><td>1° novembre</td><td>1998</td></tr>
-<tr><td>Russia</td><td>5 maggio</td><td>1998</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>San Marino</td><td>5 dicembre</td><td>1996</td><td>1° novembre</td><td>1998</td></tr>
 <tr><td>Serbia</td><td>3 marzo</td><td>2004</td><td>3 marzo</td><td>2004</td></tr>
 <tr><td>Slovacchia</td><td>28 settembre</td><td>1994</td><td>1° novembre</td><td>1998</td></tr>
@@ -289,6 +342,4 @@ Campo d’applicazione il 27 maggio 2016**[^t-4]**
 <tr><td>Ungheria</td><td>26 aprile</td><td>1995</td><td>1° novembre</td><td>1998</td></tr>
 </table>
 
-- [tab]
-
-[^t-4]: [RU 1998 2993](https://fedlex.data.admin.ch/eli/oc/1998/2993_2993_2993), [2006 3251](https://fedlex.data.admin.ch/eli/oc/2006/493)e [2016 1743](https://fedlex.data.admin.ch/eli/oc/2016/313). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1998 2993](https://fedlex.data.admin.ch/eli/oc/1998/2993_2993_2993); [2006 3251](https://fedlex.data.admin.ch/eli/oc/2006/493); [2016 1743](https://fedlex.data.admin.ch/eli/oc/2016/313); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
