@@ -3,11 +3,11 @@ sr: "0.192.110.31"
 title: Zusatzprotokoll vom 6. November 1952 zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/786_812_803"
 language: de
-version: 2006-06-22
+version: 2022-03-16
 adopted: 1952-11-06
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/786_812_803/20060622/de/xml/fedlex-data-admin-ch-eli-cc-1966-786_812_803-20060622-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/786_812_803/20060622/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/786_812_803/20220316/de/xml/fedlex-data-admin-ch-eli-cc-1966-786_812_803-20220316-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/786_812_803/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1966** 786; BBl **1965** I 437
 
 Abgeschlossen in Strassburg am 6. November 1952 Von der Bundesversammlung genehmigt am 20. September 1965[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 29. November 1965 In Kraft getreten für die Schweiz am 29. November 1965
 
-(Stand am 22. Juni 2006)
+(Stand am 16. März 2022)
 
 [^t-1]: [AS 1966 777](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
 
@@ -66,7 +66,7 @@ Die Bestimmungen des Artikels 4 können nicht gegenüber den Behörden des Staat
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 6. November 1952 in französischer und englischer Sprache, wobei beide Fassungen gleichermassen verbindlich sind, in einem einzigen Exemplar, das in den Archiven des Europarates auf bewahrt wird. Der Generalsekretär übermittelt jeder Regierung, die dieses Abkommen und dieses Zusatzprotokoll unterzeichnet hat oder ihm beigetreten ist, eine beglaubigte Ausfertigung. (Es folgen die Unterschriften)
 
-Geltungsbereich am 22. Juni 2006**[^t-2]**
+Geltungsbereich am 16. März 2022**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -93,16 +93,15 @@ Geltungsbereich am 22. Juni 2006**[^t-2]**
 <tr><td>Litauen</td><td>22. Juli</td><td>1998 B</td><td>22. Juli</td><td>1998</td></tr>
 <tr><td>Luxemburg</td><td>29. Juni</td><td>1953</td><td>11. Juli</td><td>1956</td></tr>
 <tr><td>Malta</td><td>22. Januar</td><td>1969 B</td><td>22. Januar</td><td>1969</td></tr>
-<tr><td>Mazedonien</td><td>10. April</td><td>1997 B</td><td>10. April</td><td>1997</td></tr>
 <tr><td>Moldau</td><td>2. Oktober</td><td>1997 B</td><td>2. Oktober</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>30. November</td><td>2005 B</td><td>30. November</td><td>2005</td></tr>
 <tr><td>Niederlande</td><td>19. Juni</td><td>1953</td><td>11. Juli</td><td>1956</td></tr>
+<tr><td>Nordmazedonien</td><td>10. April</td><td>1997 B</td><td>10. April</td><td>1997</td></tr>
 <tr><td>Norwegen</td><td>24. April</td><td>1953</td><td>11. Juli</td><td>1956</td></tr>
 <tr><td>Österreich</td><td>9. Mai</td><td>1957 B</td><td>9. Mai</td><td>1957</td></tr>
 <tr><td>Polen</td><td>16. März</td><td>1993 B</td><td>16. März</td><td>1993</td></tr>
 <tr><td>Portugal</td><td>6. Juli</td><td>1982 B</td><td>6. Juli</td><td>1982</td></tr>
 <tr><td>Rumänien</td><td>4. Oktober</td><td>1994 B</td><td>4. Oktober</td><td>1994</td></tr>
-<tr><td>Russland</td><td>28. Februar</td><td>1996 B</td><td>28. Februar</td><td>1996</td></tr>
 <tr><td>San Marino</td><td>22. März</td><td>1989 B</td><td>22. März</td><td>1989</td></tr>
 <tr><td>Schweden</td><td>30. April</td><td>1953</td><td>11. Juli</td><td>1956</td></tr>
 <tr><td>Schweiz</td><td>29. November</td><td>1965 B</td><td>29. November</td><td>1965</td></tr>
@@ -118,4 +117,4 @@ Geltungsbereich am 22. Juni 2006**[^t-2]**
 <tr><td>Zypern</td><td>30. November</td><td>1967 B</td><td>30. November</td><td>1967</td></tr>
 </table>
 
-[^t-2]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/eda/g/home/foreign/intagr/dabase.html).
+[^t-2]: [AS 1966 786](https://fedlex.data.admin.ch/eli/oc/1966/786_812_803); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Eine aktualisierte Fassung des Geltungsbereichs dieser Übereinkommen und Protokolle ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.

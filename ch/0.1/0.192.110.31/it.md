@@ -3,11 +3,11 @@ sr: "0.192.110.31"
 title: "Protocollo addizionale del 6 novembre 1952 all'accordo generale sui privilegi e le immunità del Consiglio d'Europa"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/786_812_803"
 language: it
-version: 2006-06-22
+version: 2022-03-16
 adopted: 1952-11-06
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/786_812_803/20060622/it/xml/fedlex-data-admin-ch-eli-cc-1966-786_812_803-20060622-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/786_812_803/20060622/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/786_812_803/20220316/it/xml/fedlex-data-admin-ch-eli-cc-1966-786_812_803-20220316-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/786_812_803/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1966** 803; FF **1965** I 381
 
 Traduzione
 
-Conchiuso a Strasburgo il 6 novembre 1952
+Conchiuso a Strasburgo il 6 novembre 1952 Approvato dall’Assemblea federale il 20 settembre 1965[^t-1] Istrumento d’adesione depositato dalla Svizzera il 29 novembre 1965 Entrato in vigore per la Svizzera il 29 novembre 1965
 
-Approvato dall’Assemblea federale il 20 settembre 1965[^t-1]
-
-Istrumento d’adesione depositato dalla Svizzera il 29 novembre 1965
-
-Entrato in vigore per la Svizzera il 29 novembre 1965
-
-(Stato 22 giugno 2006)
+(Stato 16 marzo 2022)
 
 [^t-1]: [RU 1966 795](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
 
@@ -79,7 +73,7 @@ Le disposizioni dell’articolo 4 non sono opponibili alle autorità dello Stato
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Strasburgo, il 6 novembre 1952, nelle lingue francese e inglese, i cui testi fanno ugualmente fede, in un solo esemplare che rimarrà depositato all’archivio del Consiglio d’Europa. Il Segretario Generale ne comunicherà copia, certificata conforme, a ciascun Governo firmatario o aderente. (Seguono le firme)
 
-Campo d’applicazione il 22 giugno 2006**[^t-2]**
+Campo d’applicazione il 16 marzo 2022**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -107,7 +101,7 @@ Campo d’applicazione il 22 giugno 2006**[^t-2]**
 <tr><td>Liechtenstein</td><td>16 maggio</td><td>1979 A</td><td>16 maggio</td><td>1979</td></tr>
 <tr><td>Lituania</td><td>22 luglio</td><td>1998 A</td><td>22 luglio</td><td>1998</td></tr>
 <tr><td>Lussemburgo</td><td>29 giugno</td><td>1953</td><td>11 luglio</td><td>1956</td></tr>
-<tr><td>Macedonia</td><td>10 aprile</td><td>1997 A</td><td>10 aprile</td><td>1997</td></tr>
+<tr><td>Macedonia del Nord</td><td>10 aprile</td><td>1997 A</td><td>10 aprile</td><td>1997</td></tr>
 <tr><td>Malta</td><td>22 gennaio</td><td>1969 A</td><td>22 gennaio</td><td>1969</td></tr>
 <tr><td>Moldova</td><td>2 ottobre</td><td>1997 A</td><td>2 ottobre</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>30 novembre</td><td>2005 A</td><td>30 novembre</td><td>2005</td></tr>
@@ -118,7 +112,6 @@ Campo d’applicazione il 22 giugno 2006**[^t-2]**
 <tr><td>Regno Unito</td><td>19 novembre</td><td>1954</td><td>11 luglio</td><td>1956</td></tr>
 <tr><td>Repubblica Ceca</td><td>28 aprile</td><td>1995 A</td><td>28 aprile</td><td>1995</td></tr>
 <tr><td>Romania</td><td>4 ottobre</td><td>1994 A</td><td>4 ottobre</td><td>1994</td></tr>
-<tr><td>Russia</td><td>28 febbraio</td><td>1996 A</td><td>28 febbraio</td><td>1996</td></tr>
 <tr><td>San Marino</td><td>22 marzo</td><td>1989 A</td><td>22 marzo</td><td>1989</td></tr>
 <tr><td>Serbia</td><td>26 aprile</td><td>2005 A</td><td>26 aprile</td><td>2005</td></tr>
 <tr><td>Slovacchia</td><td>5 dicembre</td><td>1996 A</td><td>5 dicembre</td><td>1996</td></tr>
@@ -131,4 +124,4 @@ Campo d’applicazione il 22 giugno 2006**[^t-2]**
 <tr><td>Ungheria</td><td>6 novembre</td><td>1990 A</td><td>6 novembre</td><td>1990</td></tr>
 </table>
 
-[^t-2]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito internet del DFAE (http://www.eda.admin.ch/eda/i/home/foreign/intagr/dabase.html).
+[^t-2]: [RU 1966 803](https://fedlex.data.admin.ch/eli/oc/1966/786_812_803); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).

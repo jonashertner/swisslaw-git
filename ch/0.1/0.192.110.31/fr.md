@@ -3,11 +3,11 @@ sr: "0.192.110.31"
 title: "Protocole additionnel du 6 novembre 1952 à l'accord général sur les privilèges et immunités du Conseil de l'Europe"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/786_812_803"
 language: fr
-version: 2006-06-22
+version: 2022-03-16
 adopted: 1952-11-06
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/786_812_803/20060622/fr/xml/fedlex-data-admin-ch-eli-cc-1966-786_812_803-20060622-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/786_812_803/20060622/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/786_812_803/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-1966-786_812_803-20220316-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/786_812_803/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,15 +20,15 @@ Texte original
 
 Conclu à Strasbourg le 6 novembre 1952 Approuvé par l’Assemblée fédérale le 20 septembre 1965[^t-1] Instrument d’adhésion déposé par la Suisse le 29 novembre 1965 Entré en vigueur pour la Suisse le 29 novembre 1965
 
-(Etat le 22 juin 2006)
+(Etat le 16 mars 2022)
 
 [^t-1]: [RO 1966 803](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
 
 Les Gouvernements signataires de l’Accord Général sur les Privilèges et Immunités du Conseil de l’Europe, signé à Paris le 2 septembre 1949[^ingress-1] (ci-dessous dénommé «l’Accord»),
 
-Désireux de compléter les dispositions de l’Accord,
+désireux de compléter les dispositions de l’Accord,
 
-Sont convenus de ce qui suit:
+sont convenus de ce qui suit:
 
 [^ingress-1]: [RS 0.192.110.3](https://fedlex.data.admin.ch/eli/cc/1966/779_805_797)
 
@@ -71,7 +71,7 @@ Les dispositions de l’art. 4 ne sont pas opposables aux autorités de l’Éta
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 6 novembre 1952, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui restera déposé aux archives du Conseil de l’Europe. Le Secrétaire Général en communiquera copie certifiée conforme à chacun des gouvernements signataires ou adhérents. (Suivent les signatures)
 
-Champ d’application le 22 juin 2006**[^t-2]**
+Champ d’application le 16 mars 2022**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -91,8 +91,8 @@ Champ d’application le 22 juin 2006**[^t-2]**
 <tr><td>Estonie</td><td>11 janvier</td><td>1995 A</td><td>11 janvier</td><td>1995</td></tr>
 <tr><td>Finlande</td><td>16 novembre</td><td>1989 A</td><td>16 novembre</td><td>1989</td></tr>
 <tr><td>France</td><td>10 mars</td><td>1978</td><td>10 mars</td><td>1978</td></tr>
-<tr><td>Grèce</td><td>17 novembre</td><td>1953</td><td>11 juillet</td><td>1956</td></tr>
 <tr><td>Géorgie</td><td>25 mai</td><td>2000 A</td><td>25 mai</td><td>2000</td></tr>
+<tr><td>Grèce</td><td>17 novembre</td><td>1953</td><td>11 juillet</td><td>1956</td></tr>
 <tr><td>Hongrie</td><td>6 novembre</td><td>1990 A</td><td>6 novembre</td><td>1990</td></tr>
 <tr><td>Irlande</td><td>21 septembre</td><td>1967</td><td>21 septembre</td><td>1967</td></tr>
 <tr><td>Islande</td><td>11 mars</td><td>1955 A</td><td>11 juillet</td><td>1956</td></tr>
@@ -101,7 +101,7 @@ Champ d’application le 22 juin 2006**[^t-2]**
 <tr><td>Liechtenstein</td><td>16 mai</td><td>1979 A</td><td>16 mai</td><td>1979</td></tr>
 <tr><td>Lituanie</td><td>22 juillet</td><td>1998 A</td><td>22 juillet</td><td>1998</td></tr>
 <tr><td>Luxembourg</td><td>29 juin</td><td>1953</td><td>11 juillet</td><td>1956</td></tr>
-<tr><td>Macédoine</td><td>10 avril</td><td>1997 A</td><td>10 avril</td><td>1997</td></tr>
+<tr><td>Macédoine du Nord</td><td>10 avril</td><td>1997 A</td><td>10 avril</td><td>1997</td></tr>
 <tr><td>Malte</td><td>22 janvier</td><td>1969 A</td><td>22 janvier</td><td>1969</td></tr>
 <tr><td>Moldova</td><td>2 octobre</td><td>1997 A</td><td>2 octobre</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>30 novembre</td><td>2005 A</td><td>30 novembre</td><td>2005</td></tr>
@@ -112,7 +112,6 @@ Champ d’application le 22 juin 2006**[^t-2]**
 <tr><td>République tchèque</td><td>28 avril</td><td>1995 A</td><td>28 avril</td><td>1995</td></tr>
 <tr><td>Roumanie</td><td>4 octobre</td><td>1994 A</td><td>4 octobre</td><td>1994</td></tr>
 <tr><td>Royaume-Uni</td><td>19 novembre</td><td>1954</td><td>11 juillet</td><td>1956</td></tr>
-<tr><td>Russie</td><td>28 février</td><td>1996 A</td><td>28 février</td><td>1996</td></tr>
 <tr><td>Saint-Marin</td><td>22 mars</td><td>1989 A</td><td>22 mars</td><td>1989</td></tr>
 <tr><td>Serbie</td><td>26 avril</td><td>2005 A</td><td>26 avril</td><td>2005</td></tr>
 <tr><td>Slovaquie</td><td>5 décembre</td><td>1996 A</td><td>5 décembre</td><td>1996</td></tr>
@@ -123,4 +122,4 @@ Champ d’application le 22 juin 2006**[^t-2]**
 <tr><td>Ukraine</td><td>6 novembre</td><td>1996 A</td><td>6 novembre</td><td>1996</td></tr>
 </table>
 
-[^t-2]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.eda.admin.ch/eda/f/home/foreign/intagr/dabase.html).
+[^t-2]: [RO 1966 812](https://fedlex.data.admin.ch/eli/oc/1966/786_812_803); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
