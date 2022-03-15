@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-03-04
+version: 2022-03-16
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220304/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220304-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220304/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220316-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 4. März 2022)
+vom 4. März 2022 (Stand am 16. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -879,7 +879,7 @@ Anhang 7
 <tr><td>9033</td><td>Teile und Zubehör (in Kapitel 90 anderweit weder genannt noch inbegriffen) für Maschinen, Apparate, Geräte, Instrumente oder andere Waren des Kapitels 90</td></tr>
 </table>
 
-Anhang 8
+Anhang 8*[^t-1]*
 
 (Art. 15 Abs. 1 und 4 sowie 29 Abs. 1)
 
@@ -887,6 +887,7 @@ Anhang 8
 
 [^annex8-lvlu1-1]
 
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022, in Kraft seit 16. März 2022 um 12.00 Uhr ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)).
 [^annex8-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 9

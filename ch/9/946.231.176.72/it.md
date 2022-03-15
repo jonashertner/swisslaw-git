@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-03-04
+version: 2022-03-16
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220304/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220304-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220304/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220316-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 4 marzo 2022)
+del 4 marzo 2022 (Stato 16 marzo 2022) (Stato 16 marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -879,7 +879,7 @@ Allegato 7
 <tr><td>9033</td><td>Parti e accessori, non nominati né compresi altrove in questo capitolo, di macchine, apparecchi, strumenti o oggetti del capitolo 90</td></tr>
 </table>
 
-Allegato 8
+Allegato 8*[^t-1]*
 
 (art. 15 cpv. 1 e 4, 29 cpv. 1)
 
@@ -887,7 +887,8 @@ Allegato 8
 
 [^annex8-lvlu1-1]
 
-[^annex8-lvlu1-1]: L’allegato non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/ Embarghi.
+[^t-1]: Aggiornato dal n. I dell’O del DEFR del 16 mar. 2022, in vigore dal 16 mar. 2022 alle ore 12.00 ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)).
+[^annex8-lvlu1-1]: L’all. non è pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
 Allegato 9
 
