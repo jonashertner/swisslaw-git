@@ -3,22 +3,23 @@ sr: "131.233"
 title: "Costituzione della Repubblica e Cantone di Neuchâtel, del 24 settembre 2000"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/523_fga"
 language: it
-version: 2018-09-17
+version: 2022-03-16
 adopted: 2000-09-24
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20180917/it/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20180917-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20180917/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220316-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione della Repubblica e Cantone di Neuchâtel
 
-Traduzione*[^t-1]*
+Traduzione[^t-1]
 
-del 24 settembre 2000 (Stato 17 settembre 2018) (Stato 17 settembre 2018)
+del 24 settembre 2000 (Stato 16 marzo 2022)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+[^t-2]: La presente pubblicazione si basa sulle mod. contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 Il Popolo del Cantone di Neuchâtel,
 
@@ -85,7 +86,7 @@ Nei limiti delle loro competenze e a complemento dell’iniziativa e della respo
 - i. la politica dell’alloggio;
 - j. la protezione e il risanamento dell’ambiente, nonché la tutela del paesaggio e del patrimonio naturale e culturale;
 - k. la pianificazione del territorio, l’urbanistica e la polizia delle costruzioni;
-- l. l’approvvigionamento idrico ed energetico, la gestione parsimoniosa delle risorse non rinnovabili, nonché l’incentivazione dell’utilizzazione delle risorse rinnovabili;
+- l.[^5-1] l’approvvigionamento idrico ed energetico sufficiente, diversificato, sicuro ed economico, la gestione parsimoniosa delle risorse non rinnovabili favorendo i risparmi energetici, nonché l’incentivazione dell’utilizza-zione delle risorse indigene e rinnovabili;
 - m. la politica dei trasporti e delle comunicazioni, in particolare l’incentivazione dei trasporti pubblici;
 - n. la promozione della cultura e delle arti;
 - o. il sostegno delle scienze e della ricerca;
@@ -93,6 +94,34 @@ Nei limiti delle loro competenze e a complemento dell’iniziativa e della respo
 - q. la cooperazione intercantonale e internazionale.
 
 <sup>2</sup> Nell’adempimento dei loro compiti e se vi è conflitto d’interessi, lo Stato e i Comuni privilegiano gli interessi delle generazioni future. Prestano particolare attenzione alle esigenze dello sviluppo sostenibile e al mantenimento della biodiversità.
+
+[^5-1]: Accettato nella [votazione popolare del 18 mag. 2014](http://www.admin.ch/ch/i/pore/va/20140518/index.html), in vigore dal 1° lug. 2014. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 cpv. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+
+### Energia eolica
+
+#### Art. 5a
+
+[^5a-1]
+
+<sup>1</sup> Gli impianti eolici sono autorizzati al massimo in cinque siti.
+
+<sup>2</sup> La legge stabilisce i siti e fissa il numero massimo di impianti eolici per ogni sito.
+
+[^5a-1]: Accettato nella [votazione popolare del 18 mag. 2014](http://www.admin.ch/ch/i/pore/va/20140518/index.html), in vigore dal 1° lug. 2014. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 cpv. 14; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+
+### Trasporti
+
+#### Art. 5b
+
+[^5b-1]
+
+<sup>1</sup> La manutenzione e lo sviluppo dell’infrastruttura di trasporto sono dettati da una politica globale di mobilità pianificata sul lungo termine.
+
+<sup>2</sup> Questa politica favorisce la complementarità dei mezzi di trasporto, il servizio in tutte le regioni del Cantone e i collegamenti con l’esterno.
+
+<sup>3</sup> La legge definisce le modalità di attuazione della politica globale di mobilità.
+
+[^5b-1]: Accettato nella [votazione popolare del 28 feb. 2016](http://www.admin.ch/ch/i/pore/va/20160228/index.html), in vigore dal 1° mar. 2016. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 cpv. 3; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Responsabilità degli enti pubblici
 
@@ -349,7 +378,7 @@ Nei limiti delle loro competenze e a complemento dell’iniziativa e della respo
 
 Lo Stato istituisce un salario minimo cantonale in tutti gli ambiti dell’attività economica, tenendo conto dei diversi settori economici nonché dei salari stabiliti nei contratti collettivi di lavoro, affinché chiunque eserciti un’attività lucrativa dipendente disponga di un salario che gli garantisca condizioni di vita dignitose.
 
-[^34a-1]: Accettato nella [votazione popolare del 27 nov. 2011](http://www.admin.ch/ch/i/pore/va/20111127/index.html), in vigore dal 1° gen. 2012. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2249](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 n. 6, [2012 7501](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+[^34a-1]: Accettato nella [votazione popolare del 27 nov. 2011](http://www.admin.ch/ch/i/pore/va/20111127/index.html), in vigore dal 1° gen. 2012. Garanzia dell’AF dell’11 mar. 2013 ([FF 2013 2249](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 n. 6; [2012 7501](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
 
 ### Realizzazione della parità dei sessi
 
@@ -520,6 +549,16 @@ Sono eleggibili a membri delle autorità cantonali gli aventi diritto di voto di
 <sup>1</sup> I membri del Gran Consiglio e del Consiglio di Stato non possono essere chiamati a rispondere in giudizio delle dichiarazioni da loro fatte dinanzi al Gran Consiglio o a uno dei suoi organi.
 
 <sup>2</sup> La legge può inoltre prevedere disposizioni speciali per il perseguimento penale dei membri del Consiglio di Stato e dei tribunali superiori.
+
+### Destituzione
+
+#### Art. 50a
+
+[^50a-1]
+
+La legge può prevedere la destituzione dei membri del Consiglio di Stato e delle autorità giudiziarie, nonché lo scioglimento del Consiglio di Stato. Ne disciplina la procedura e le condizioni.
+
+[^50a-1]: Accettato nella [votazione popolare del 30 nov. 2014](http://www.admin.ch/ch/i/pore/va/20141130/index.html), in vigore dal 30 nov. 2014. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 cpv. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Dovere d’informazione
 
@@ -851,7 +890,7 @@ Le udienze dei tribunali sono pubbliche. Le sentenze devono essere motivate per 
 
 I tribunali applicano il diritto federale e il diritto cantonale. Non danno attuazione alle disposizioni legislative o regolamentari contrarie al diritto di rango superiore. Sono fatte salve le norme del diritto federale relative all’applicazione delle leggi federali.
 
-## Titolo quinto: Comuni****
+## Titolo quinto: Comuni
 
 [^tit5-1]
 
@@ -928,6 +967,10 @@ L’autonomia dei Comuni è garantita nei limiti della legislazione cantonale.
 <sup>4</sup> Per il Municipio, il Comune decide se l’elezione è fatta dal Popolo o dal Consiglio comunale e stabilisce il sistema elettorale.
 
 <sup>5</sup> La legge determina il corpo elettorale comunale e disciplina la procedura elettorale, nonché quanto attiene all’iniziativa e al referendum popolari.
+
+<sup>6</sup> La legge può prevedere la destituzione dei membri del Consiglio comunale. Ne disciplina la procedura e le condizioni.[^95-1]
+
+[^95-1]: Accettato nella [votazione popolare del 30 nov. 2014](http://www.admin.ch/ch/i/pore/va/20141130/index.html), in vigore dal 30 nov. 2014. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 cpv. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Vigilanza dello Stato
 
@@ -1052,7 +1095,7 @@ Sono abrogati:
 
 [^107-1]: Entrata in vigore il 1° gen. 2002 (D del Gran Consiglio del 19 giu. 2001).
 
-## Disposizione transitoria della modifica del 26 settembre 2010 ****
+## Disposizione transitoria della modifica del 26 settembre 2010
 
 [^u1-1]
 
@@ -1060,13 +1103,27 @@ Sono abrogati:
 
 L’elezione della deputazione del Cantone al Consiglio degli Stati si svolge secondo il sistema proporzionale simultaneamente alla prossima elezione del Consiglio nazionale.
 
-## Disposizione transitoria della modifica del 27 marzo 2017****
+## Disposizione transitoria della modifica del 27 marzo 2017
 
 [^u2-1]
 
 [^u2-1]: Accettata nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 4 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 Le modifiche del 27 marzo 2017 si applicano per la prima volta all’elezione generale del Gran Consiglio del 2021.
+
+## Disposizioni transitorie della modifica del 3 dicembre 2015
+
+[^u3-1]
+
+[^u3-1]: Accettato nella [votazione popolare del 28 feb. 2016](http://www.admin.ch/ch/i/pore/va/20160228/index.html), in vigore dal 1° mar. 2016. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 cpv. 3; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+
+<sup>1</sup> Al fine di avviare senza indugio la realizzazione di un collegamento ferroviario diretto tra Neuchâtel e La Chaux-de-Fonds nel quadro globale del progetto RER di Neuchâtel, in caso di decisione favorevole da parte della Confederazione sull’assunzione dell’onere finanziario per questa infrastruttura, lo Stato di Neuchâtel, o una società finanziaria da esso incaricata, è autorizzato a contrarre un mutuo e ad assumere l’onere degli interessi passivi.
+
+<sup>2</sup> La legge definisce le modalità di finanziamento e le scadenze relative.
+
+<sup>3</sup> Le presenti disposizioni transitorie sono applicabili fino al completamento del pagamento degli interessi passivi connessi alla realizzazione della linea diretta.
+
+<sup>4</sup> Il Gran Consiglio constata l’avvenuto pagamento mediante un decreto la cui emanazione comporta l’abrogazione della presente disposizione transitoria.
 
 ## Indice delle materie
 
@@ -1166,6 +1223,8 @@ Dati
 
 Dati personali 12
 
+Destituzione 50*a*, 95
+
 Dignità umana
 
 Dipendenti
@@ -1187,6 +1246,8 @@ Dovere d'informazione 51
 **Eleggibilità** 47
 
 Elezioni
+
+**Energia eolica** 51
 
 **Espropriazione** 25
 
@@ -1332,6 +1393,8 @@ Ricusazione 49
 
 Salario
 
+Scioglimento del Consiglio di Stato 50*a*
+
 Sciopero 27
 
 Scuola pubblica
@@ -1475,6 +1538,7 @@ Voto
   - [tab] – vigilanza sui Comuni 73
 
 - [tab] – composizione 66
+- [tab] – destituzione 50*a*
 - [tab] – durata in carica 67
 - [tab] – eleggibilità 47
 - [tab] – elezione 38, 66
@@ -1484,7 +1548,7 @@ Voto
   - [tab] – direzione dell'amministrazione 77
   - [tab] – presidente 76
 
-- [tab] – presenza in Gran Consiglio 63
+- [tab] – scioglimento del Consiglio di Stato 50*a*
 - [tab] – sede 2
 - [tab] – sedute 82
 - [tab] – vigilanza sul 59

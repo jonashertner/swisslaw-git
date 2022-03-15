@@ -3,18 +3,18 @@ sr: "131.233"
 title: "Constitution de la République et Canton de Neuchâtel, du 24 septembre 2000"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/523_fga"
 language: fr
-version: 2018-09-17
+version: 2022-03-16
 adopted: 2000-09-24
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20180917/fr/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20180917-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20180917/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20220316-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution de la République et Canton de Neuchâtel
 
-du 24 septembre 2000 (Etat le 17 septembre 2018)[^t-1]
+du 24 septembre 2000 (Etat le 16 mars 2022)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
@@ -34,7 +34,7 @@ se donne la Constitution qui suit:
 
 <sup>2</sup> Le pouvoir appartient au peuple. Il est exercé par le corps électoral et les autorités dans les formes prévues par la présente Constitution.
 
-<sup>3</sup> Le canton de Neuchâtel est l’un des Etats de la Confédération suisse. Il comprend le territoire qui lui est garanti par la Constitution fédérale.
+<sup>3</sup> Le canton de Neuchâtel est l’un des États de la Confédération suisse. Il comprend le territoire qui lui est garanti par la Constitution fédérale.
 
 <sup>4</sup> Le canton est divisé en communes.[^1-1]
 
@@ -44,7 +44,7 @@ se donne la Constitution qui suit:
 
 #### Art. 2
 
-Le chef-lieu du canton est la ville de Neuchâtel, où le Grand Conseil et le Conseil d’Etat ont leur siège.
+Le chef-lieu du canton est la ville de Neuchâtel, où le Grand Conseil et le Conseil d’État ont leur siège.
 
 ### Armoiries du canton
 
@@ -60,13 +60,13 @@ Tiercé en pal de sinople, d’argent et de gueules, une croisette du second au 
 
 <sup>La langue officielle du canton est le français.</sup>
 
-### Tâches de l’Etat et des communes
+### Tâches de l’État et des communes
 
 #### Art. 5
 
 <sup>1</sup>
 
-Dans les limites de leurs compétences et en complément de l’initiative et de la responsabilité des autres collectivités et des particuliers, l’Etat et les communes assument les tâches que la loi leur confie, notamment:
+Dans les limites de leurs compétences et en complément de l’initiative et de la responsabilité des autres collectivités et des particuliers, l’État et les communes assument les tâches que la loi leur confie, notamment:
 
 - a. la protection de la liberté des personnes;
 - b. le maintien de la sécurité et de l’ordre publics;
@@ -79,22 +79,50 @@ Dans les limites de leurs compétences et en complément de l’initiative et de
 - i. la politique du logement;
 - j. la protection et l’assainissement de l’environnement, ainsi que la sauvegarde du paysage et du patrimoine;
 - k. l’aménagement du territoire, l’urbanisme et la police des constructions;
-- l. l’approvisionnement en eau et en énergie, la gestion parcimonieuse des ressources non renouvelables, ainsi que l’encouragement à l’utilisation des ressources renouvelables;
+- l.[^5-1] l’approvisionnement en eau et en énergie suffisant, diversifié, sûr et économique, la gestion parcimonieuse des ressources non renouvelables en favorisant les économies d’énergie, ainsi que l’encouragement à l’utilisation des ressources indigènes et renouvelables;
 - m. la politique des transports et des communications, en particulier l’encouragement des transports publics;
 - n. la promotion de la culture et des arts;
 - o. le soutien des sciences et de la recherche;
 - p. l’encouragement des sports;
 - q. la coopération intercantonale et internationale.
 
-<sup>2</sup> Lorsqu’ils accomplissent leurs tâches et en cas de conflit d’intérêts, l’Etat et les communes privilégient les intérêts des générations futures. Ils prêtent une attention particulière aux exigences du développement durable et au maintien de la biodiversité.
+<sup>2</sup> Lorsqu’ils accomplissent leurs tâches et en cas de conflit d’intérêts, l’État et les communes privilégient les intérêts des générations futures. Ils prêtent une attention particulière aux exigences du développement durable et au maintien de la biodiversité.
+
+[^5-1]: Accepté en [votation populaire du 18 mai 2014](http://www.admin.ch/ch/f/pore/va/20140518/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+
+### Énergie éolienne
+
+#### Art. 5a
+
+[^5a-1]
+
+<sup>1</sup> L’implantation d’éoliennes est autorisée dans un maximum de cinq sites.
+
+<sup>2</sup> La loi définit les sites et fixe le nombre maximum d’éoliennes par site.
+
+[^5a-1]: Accepté en [votation populaire du 18 mai 2014](http://www.admin.ch/ch/f/pore/va/20140518/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+
+### Transports
+
+#### Art. 5b
+
+[^5b-1]
+
+<sup>1</sup> L’entretien et le développement des infrastructures de transports sont dictés par une politique globale de mobilité planifiée sur le long terme.
+
+<sup>2</sup> Celle-ci favorise la complémentarité des modes de transports, la desserte de toutes les régions du canton ainsi que les connexions vers l’extérieur.
+
+<sup>3</sup> La loi définit les modalités de mise en œuvre de la politique globale de mobilité.
+
+[^5b-1]: Accepté en [votation populaire du 28 fév. 2016](http://www.admin.ch/ch/f/pore/va/20160228/index.html), en vigueur depuis le 1<sup>er</sup> mars 2016. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 3; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Responsabilité des collectivités publiques
 
 #### Art. 6
 
-<sup>1</sup> L’Etat et les communes répondent des dommages que leurs agents, dans l’exercice de leurs fonctions, causent sans droit à des tiers.
+<sup>1</sup> L’État et les communes répondent des dommages que leurs agents, dans l’exercice de leurs fonctions, causent sans droit à des tiers.
 
-<sup>2</sup> La loi fixe les conditions auxquelles l’Etat et les communes répondent des dommages que leurs agents causent de manière licite.
+<sup>2</sup> La loi fixe les conditions auxquelles l’État et les communes répondent des dommages que leurs agents causent de manière licite.
 
 ## Titre II Droits fondamentaux, buts et mandats sociaux
 
@@ -108,7 +136,7 @@ Dans les limites de leurs compétences et en complément de l’initiative et de
 
 <sup>2</sup> La torture, de même que les traitements inhumains ou dégradants, sont interdits.
 
-### Egalité et interdiction des discriminations
+### Égalité et interdiction des discriminations
 
 #### Art. 8
 
@@ -288,7 +316,7 @@ Toute personne dont la cause doit être traitée dans une procédure judiciaire 
 
 <sup>4</sup> Toute personne privée de liberté a le droit de faire contrôler la légalité de cette privation de liberté dans une procédure judiciaire simple et rapide.
 
-<sup>5</sup> Si la privation de liberté s’avère illégale ou injustifiée, l’Etat répare le préjudice subi.
+<sup>5</sup> Si la privation de liberté s’avère illégale ou injustifiée, l’État répare le préjudice subi.
 
 ### Garanties pénales
 
@@ -326,14 +354,14 @@ Toute personne dont la cause doit être traitée dans une procédure judiciaire 
 
 <sup>1</sup>
 
-Dans les limites de leurs compétences et en complément de l’initiative et de la responsabilité des autres collectivités et des particuliers, l’Etat et les communes prennent des mesures permettant à toute personne:
+Dans les limites de leurs compétences et en complément de l’initiative et de la responsabilité des autres collectivités et des particuliers, l’État et les communes prennent des mesures permettant à toute personne:
 
 - a. de se former et de se perfectionner selon ses aptitudes et ses goûts;
 - b. de subvenir à ses besoins et à ceux de sa famille par un travail approprié et d’être protégée contre les conséquences du chômage;
 - c. de trouver un logement convenable à des conditions raisonnables;
 - d. de bénéficier de l’aide nécessaire lorsqu’elle se trouve dans le besoin notamment pour raison d’âge, de maladie ou de déficience physique, mentale ou psychique.
 
-<sup>2</sup> L’Etat et les communes tiennent compte des intérêts de la famille. Ils veillent en particulier à la création de conditions qui favorisent la maternité et la paternité et qui permettent notamment de concilier la vie familiale et la vie professionnelle.
+<sup>2</sup> L’État et les communes tiennent compte des intérêts de la famille. Ils veillent en particulier à la création de conditions qui favorisent la maternité et la paternité et qui permettent notamment de concilier la vie familiale et la vie professionnelle.
 
 ### Salaire minimum
 
@@ -341,7 +369,7 @@ Dans les limites de leurs compétences et en complément de l’initiative et de
 
 [^34a-1]
 
-L’Etat institue un salaire minimum cantonal dans tous les domaines d’activité économique, en tenant compte des secteurs économiques ainsi que des salaires fixés dans les conventions collectives, afin que toute personne exerçant une activité salariée puisse disposer d’un salaire lui garantissant des conditions de vie décentes.
+L’État institue un salaire minimum cantonal dans tous les domaines d’activité économique, en tenant compte des secteurs économiques ainsi que des salaires fixés dans les conventions collectives, afin que toute personne exerçant une activité salariée puisse disposer d’un salaire lui garantissant des conditions de vie décentes.
 
 [^34a-1]: Accepté en [votation populaire du 27 nov. 2011](http://www.admin.ch/ch/f/pore/va/20111127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2335](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 ch. 6, [2012 7877](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
 
@@ -349,13 +377,13 @@ L’Etat institue un salaire minimum cantonal dans tous les domaines d’activit
 
 #### Art. 35
 
-L’Etat et les communes prennent les mesures propres à promouvoir l’égalité de fait entre les femmes et les hommes.
+L’État et les communes prennent les mesures propres à promouvoir l’égalité de fait entre les femmes et les hommes.
 
 ### Intégration des personnes handicapées
 
 #### Art. 36
 
-L’Etat et les communes prennent des mesures en vue de compenser les inégalités qui frappent les personnes handicapées et de favoriser leur intégration économique et sociale.
+L’État et les communes prennent des mesures en vue de compenser les inégalités qui frappent les personnes handicapées et de favoriser leur intégration économique et sociale.
 
 ## Titre III Le peuple
 
@@ -373,17 +401,17 @@ Sont électrices ou électeurs en matière cantonale, s’ils sont âgés de dix
 
 <sup>2</sup> La loi peut prévoir une procédure qui permette à la personne interdite d’obtenir, en prouvant qu’elle est capable de discernement, sa réintégration dans le corps électoral.
 
-### Election du Grand Conseil et du Conseil d’Etat
+### Élection du Grand Conseil et du Conseil d’État
 
 #### Art. 38
 
-Les électrices et les électeurs élisent les membres du Grand Conseil et les membres du Conseil d’Etat.
+Les électrices et les électeurs élisent les membres du Grand Conseil et les membres du Conseil d’État.
 
-### Election de la députation au Conseil des Etats suisse
+### Élection de la députation au Conseil des États suisse
 
 #### Art. 39
 
-<sup>1</sup> Les électrices et les électeurs élisent la députation du canton au Conseil des Etats suisse.
+<sup>1</sup> Les électrices et les électeurs élisent la députation du canton au Conseil des États suisse.
 
 <sup>2</sup> La circonscription électorale est le canton. L’élection se fait selon le système de la représentation proportionnelle. Sont éligibles les électrices et les électeurs de nationalité suisse.[^39-1]
 
@@ -432,7 +460,7 @@ La demande de vote populaire peut avoir pour objet un acte du Grand Conseil parm
 - c. les décrets par lesquels le Grand Conseil adresse une initiative à l’Assemblée fédérale;
 - d. les avis que le Grand Conseil donne à l’autorité fédérale au sujet de l’implantation d’une installation atomique;
 - e. les décrets d’approbation des traités internationaux ou intercantonaux dont le contenu équivaut à l’un des actes mentionnés aux lettres a et b du présent alinéa;
-- f. les décrets d’approbation des concordats conclus avec les Eglises et les autres communautés religieuses reconnues;
+- f. les décrets d’approbation des concordats conclus avec les Églises et les autres communautés religieuses reconnues;
 - g.[^42-3] d’autres actes du Grand Conseil, si trente de ses membres en décident ainsi.[^42-4]
 
 <sup>4</sup> Sont toutefois exclus du référendum le budget, les comptes, les élections, l’amnistie, la grâce, les décisions de nature juridictionnelle et les décisions de procédure.[^42-5]
@@ -479,23 +507,23 @@ Avant les votes populaires, les autorités donnent une information suffisante et
 
 #### Art. 46
 
-<sup>1</sup> Les autorités cantonales sont le Grand Conseil, le Conseil d’Etat et les autorités judiciaires. Elles sont organisées selon le principe de la séparation des pouvoirs.
+<sup>1</sup> Les autorités cantonales sont le Grand Conseil, le Conseil d’État et les autorités judiciaires. Elles sont organisées selon le principe de la séparation des pouvoirs.
 
-<sup>2</sup> Dans l’exercice de leur charge, les autorités judiciaires sont indépendantes du Grand Conseil et du Conseil d’Etat.
+<sup>2</sup> Dans l’exercice de leur charge, les autorités judiciaires sont indépendantes du Grand Conseil et du Conseil d’État.
 
 ### Conditions d’éligibilité
 
 #### Art. 47
 
-Sont éligibles comme membres des autorités cantonales les électrices et les électeurs de nationalité suisse. La loi peut étendre l’éligibilité aux étrangères et aux étrangers pour les autorités judiciaires. Elle peut aussi déclarer éligibles au Conseil d’Etat et aux autorités judiciaires des personnes qui sont domiciliées dans un autre canton suisse.
+Sont éligibles comme membres des autorités cantonales les électrices et les électeurs de nationalité suisse. La loi peut étendre l’éligibilité aux étrangères et aux étrangers pour les autorités judiciaires. Elle peut aussi déclarer éligibles au Conseil d’État et aux autorités judiciaires des personnes qui sont domiciliées dans un autre canton suisse.
 
 ### Cas d’incompatibilité
 
 #### Art. 48
 
-<sup>1</sup> Nul ne peut être membre simultanément du Grand Conseil, du Conseil d’Etat ou d’une autorité judiciaire. Toutefois, les membres non permanents d’une autorité judiciaire peuvent être membres du Grand Conseil.
+<sup>1</sup> Nul ne peut être membre simultanément du Grand Conseil, du Conseil d’État ou d’une autorité judiciaire. Toutefois, les membres non permanents d’une autorité judiciaire peuvent être membres du Grand Conseil.
 
-<sup>2</sup> Les membres du personnel de l’administration cantonale ne peuvent être membres simultanément ni du Conseil d’Etat ni, sous réserve d’exceptions fixées par la loi, d’aucune autorité judiciaire. Ils peuvent être membres du Grand Conseil, à l’exception du personnel d’encadrement, des membres du personnel qui disposent d’un pouvoir décisionnel ou de police, du personnel des autorités judiciaires et des services du Grand Conseil, ainsi que des collaboratrices et des collaborateurs de l’entourage immédiat du Conseil d’Etat et de la chancellerie d’Etat; la loi définit ces catégories.
+<sup>2</sup> Les membres du personnel de l’administration cantonale ne peuvent être membres simultanément ni du Conseil d’État ni, sous réserve d’exceptions fixées par la loi, d’aucune autorité judiciaire. Ils peuvent être membres du Grand Conseil, à l’exception du personnel d’encadrement, des membres du personnel qui disposent d’un pouvoir décisionnel ou de police, du personnel des autorités judiciaires et des services du Grand Conseil, ainsi que des collaboratrices et des collaborateurs de l’entourage immédiat du Conseil d’État et de la chancellerie d’État; la loi définit ces catégories.
 
 <sup>3</sup> La loi peut prévoir d’autres cas d’incompatibilité.
 
@@ -511,9 +539,19 @@ Sont éligibles comme membres des autorités cantonales les électrices et les �
 
 #### Art. 50
 
-<sup>1</sup> Les membres du Grand Conseil et du Conseil d’Etat ne peuvent être poursuivis pour les propos qu’ils tiennent devant le Grand Conseil ou l’un de ses organes.
+<sup>1</sup> Les membres du Grand Conseil et du Conseil d’État ne peuvent être poursuivis pour les propos qu’ils tiennent devant le Grand Conseil ou l’un de ses organes.
 
-<sup>2</sup> La loi peut en outre prévoir des dispositions spéciales sur la poursuite pénale des membres du Conseil d’Etat et des tribunaux supérieurs.
+<sup>2</sup> La loi peut en outre prévoir des dispositions spéciales sur la poursuite pénale des membres du Conseil d’État et des tribunaux supérieurs.
+
+### Destitution
+
+#### Art. 50a
+
+[^50a-1]
+
+La loi peut prévoir la destitution des membres du Conseil d’État et des autorités judiciaires, de même que la dissolution du Conseil d’État. Elle en règle la procédure et les conditions.
+
+[^50a-1]: Accepté en [votation populaire du 30 nov. 2014](http://www.admin.ch/ch/f/pore/va/20141130/index.html), en vigueur depuis le 30 nov. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Devoir d’information
 
@@ -562,9 +600,9 @@ Le Grand Conseil adopte les lois.
 
 #### Art. 56
 
-<sup>1</sup> Le Grand Conseil approuve les traités internationaux et les traités intercantonaux qui ne relèvent pas de la compétence exclusive du Conseil d’Etat.
+<sup>1</sup> Le Grand Conseil approuve les traités internationaux et les traités intercantonaux qui ne relèvent pas de la compétence exclusive du Conseil d’État.
 
-<sup>2</sup> Il peut inviter le Conseil d’Etat à engager des négociations en vue de la conclusion d’un traité, ainsi qu’à dénoncer un traité existant.
+<sup>2</sup> Il peut inviter le Conseil d’État à engager des négociations en vue de la conclusion d’un traité, ainsi qu’à dénoncer un traité existant.
 
 ### Finances
 
@@ -572,7 +610,7 @@ Le Grand Conseil adopte les lois.
 
 <sup>1</sup> Le Grand Conseil arrête le budget et approuve les comptes. Il autorise le recours à l’emprunt et fixe la limite de l’endettement.
 
-<sup>2</sup> Il vote les dépenses et il autorise les acquisitions et les aliénations du domaine public, sauf les cas qui relèvent de la compétence exclusive du Conseil d’Etat.
+<sup>2</sup> Il vote les dépenses et il autorise les acquisitions et les aliénations du domaine public, sauf les cas qui relèvent de la compétence exclusive du Conseil d’État.
 
 <sup>3</sup> Doivent être votés à la majorité des trois cinquièmes des membres du Grand Conseil les lois et décrets qui entraînent de nouvelles dépenses importantes pour le canton, une diminution ou une augmentation importante de ses recettes fiscales. La loi définit les notions de dépense nouvelle importante, de diminution et d’augmentation importantes des recettes fiscales.[^57-1]
 
@@ -596,13 +634,13 @@ Le Grand Conseil exerce les compétences de planification que la loi lui attribu
 
 [^59-1]
 
-<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur l’activité du Conseil d’Etat et de l’administration.
+<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur l’activité du Conseil d’État et de l’administration.
 
 <sup>2</sup> Il exerce également la haute surveillance sur la gestion des autorités judiciaires.
 
 [^59-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
-### Elections
+### Élections
 
 #### Art. 60
 
@@ -620,12 +658,12 @@ Le Grand Conseil:
 - b. donne l’avis du canton prévu par la législation fédérale au sujet de l’implantation d’une installation atomique;
 - c. donne, s’il le veut, son avis lors d’autres consultations fédérales;
 - d. traite les initiatives populaires et statue, en particulier, sur leur validité matérielle;
-- e. approuve les concordats conclus avec les Eglises et les autres communautés religieuses reconnues;
+- e. approuve les concordats conclus avec les Églises et les autres communautés religieuses reconnues;
 - f. décrète l’amnistie et accorde la grâce;
 - g. tranche les conflits de compétence qui surgissent entre les autorités cantonales;
 - h. exerce les autres compétences que lui attribuent les lois.
 
-<sup>2</sup> Il assume en outre les tâches qui incombent à l’Etat et qui ne sont pas attribuées à une autre autorité cantonale.
+<sup>2</sup> Il assume en outre les tâches qui incombent à l’État et qui ne sont pas attribuées à une autre autorité cantonale.
 
 ### C. Organisation
 
@@ -655,7 +693,7 @@ Le Grand Conseil:
 
 <sup>1</sup> L’initiative appartient à chaque membre du Grand Conseil, ainsi qu’au bureau, aux groupes et aux commissions.
 
-<sup>2</sup> L’initiative appartient également au Conseil d’Etat et à chaque commune.
+<sup>2</sup> L’initiative appartient également au Conseil d’État et à chaque commune.
 
 <sup>3</sup> Sont réservées les dispositions sur l’initiative populaire et sur la motion populaire.
 
@@ -665,7 +703,7 @@ Le Grand Conseil:
 
 Les délibérations du Grand Conseil sont publiques. La loi règle les exceptions.
 
-### Chapitre 3 Le Conseil d’Etat
+### Chapitre 3 Le Conseil d’État
 
 ### A. Composition
 
@@ -673,15 +711,15 @@ Les délibérations du Grand Conseil sont publiques. La loi règle les exception
 
 #### Art. 66
 
-<sup>1</sup> Le pouvoir gouvernemental et exécutif est attribué à un Conseil d’Etat de cinq membres.
+<sup>1</sup> Le pouvoir gouvernemental et exécutif est attribué à un Conseil d’État de cinq membres.
 
-<sup>2</sup> Le Conseil d’Etat est élu par le peuple selon le système du scrutin majoritaire à deux tours. Le panachage est admis. La circonscription électorale est le canton.
+<sup>2</sup> Le Conseil d’État est élu par le peuple selon le système du scrutin majoritaire à deux tours. Le panachage est admis. La circonscription électorale est le canton.
 
 ### Durée de la charge
 
 #### Art. 67
 
-Le Conseil d’Etat est élu pour quatre ans, en même temps que le Grand Conseil, et renouvelé intégralement. Sont réservées les élections complémentaires pour le cas de vacance pendant la période de quatre ans. Les membres du Conseil d’Etat sont rééligibles.
+Le Conseil d’État est élu pour quatre ans, en même temps que le Grand Conseil, et renouvelé intégralement. Sont réservées les élections complémentaires pour le cas de vacance pendant la période de quatre ans. Les membres du Conseil d’État sont rééligibles.
 
 ### B. Compétences
 
@@ -689,13 +727,13 @@ Le Conseil d’Etat est élu pour quatre ans, en même temps que le Grand Consei
 
 #### Art. 68
 
-Le Conseil d’Etat conduit la politique du canton, sous la réserve des compétences du Grand Conseil et du peuple.
+Le Conseil d’État conduit la politique du canton, sous la réserve des compétences du Grand Conseil et du peuple.
 
 ### Législation
 
 #### Art. 69
 
-<sup>1</sup> Le Conseil d’Etat prépare, en règle générale, les projets de lois.
+<sup>1</sup> Le Conseil d’État prépare, en règle générale, les projets de lois.
 
 <sup>2</sup> Il édicte des ordonnances dans le cadre de la Constitution et des lois.
 
@@ -703,17 +741,17 @@ Le Conseil d’Etat conduit la politique du canton, sous la réserve des compét
 
 #### Art. 70
 
-<sup>1</sup> Le Conseil d’Etat négocie, conclut et ratifie les traités internationaux et les traités intercantonaux.
+<sup>1</sup> Le Conseil d’État négocie, conclut et ratifie les traités internationaux et les traités intercantonaux.
 
 <sup>2</sup> L’approbation du Grand Conseil est réservée, à moins qu’une loi ou un traité approuvé par le Grand Conseil n’en dispose autrement.
 
-<sup>3</sup> Le Conseil d’Etat informe en temps utile le Grand Conseil de ses intentions en matière de politique extérieure et notamment des traités qu’il se propose de conclure. La loi prévoit les cas dans lesquels il consulte le Grand Conseil ou l’une de ses commissions.
+<sup>3</sup> Le Conseil d’État informe en temps utile le Grand Conseil de ses intentions en matière de politique extérieure et notamment des traités qu’il se propose de conclure. La loi prévoit les cas dans lesquels il consulte le Grand Conseil ou l’une de ses commissions.
 
 ### Finances
 
 #### Art. 71
 
-<sup>1</sup> Le Conseil d’Etat prépare le projet de budget et présente les comptes.
+<sup>1</sup> Le Conseil d’État prépare le projet de budget et présente les comptes.
 
 <sup>2</sup> Il décide des dépenses ainsi que des acquisitions et des aliénations du domaine public dans les limites fixées par la loi.
 
@@ -721,24 +759,24 @@ Le Conseil d’Etat conduit la politique du canton, sous la réserve des compét
 
 #### Art. 72
 
-Le Conseil d’Etat veille à la bonne application du droit cantonal ainsi qu’à celle du droit fédéral dans la mesure où elle incombe au canton.
+Le Conseil d’État veille à la bonne application du droit cantonal ainsi qu’à celle du droit fédéral dans la mesure où elle incombe au canton.
 
 ### Surveillance sur les communes
 
 #### Art. 73
 
-Le Conseil d’Etat exerce la surveillance sur les communes.
+Le Conseil d’État exerce la surveillance sur les communes.
 
 ### Autres compétences
 
 #### Art. 74
 
-Le Conseil d’Etat:
+Le Conseil d’État:
 
 - a. prépare, en règle générale, les délibérations du Grand Conseil;
 - b. représente le canton dans ses relations avec l’extérieur;
 - c. répond aux consultations fédérales, en tenant compte de l’avis du Grand Conseil si celui-ci en a donné un;
-- d. conclut les concordats avec les Eglises et les autres communautés religieuses reconnues, sous réserve de l’approbation du Grand Conseil;
+- d. conclut les concordats avec les Églises et les autres communautés religieuses reconnues, sous réserve de l’approbation du Grand Conseil;
 - e. statue sur les demandes de naturalisation;
 - f. veille à la sécurité et à l’ordre publics et, lorsque ceux-ci sont sérieusement et directement menacés ou troublés, prend, même en l’absence de loi, les mesures qu’il faut pour les rétablir;
 - g. exerce les autres compétences que lui attribuent les lois.
@@ -747,17 +785,17 @@ Le Conseil d’Etat:
 
 #### Art. 75
 
-<sup>1</sup> En cas de catastrophes ou d’autres situations extraordinaires et si le Grand Conseil ne peut exercer ses compétences, le Conseil d’Etat prend toutes les mesures nécessaires pour protéger la population.
+<sup>1</sup> En cas de catastrophes ou d’autres situations extraordinaires et si le Grand Conseil ne peut exercer ses compétences, le Conseil d’État prend toutes les mesures nécessaires pour protéger la population.
 
 <sup>2</sup> La situation extraordinaire est constatée par le Grand Conseil, s’il peut se réunir.
 
 ### C. Organisation
 
-### Autonomie du Conseil d’Etat
+### Autonomie du Conseil d’État
 
 #### Art. 76
 
-<sup>1</sup> Le Conseil d’Etat s’organise de manière autonome.
+<sup>1</sup> Le Conseil d’État s’organise de manière autonome.
 
 <sup>2</sup> Il élit chaque année sa présidente ou son président.
 
@@ -765,25 +803,25 @@ Le Conseil d’Etat:
 
 #### Art. 77
 
-<sup>1</sup> Le Conseil d’Etat dirige l’administration cantonale.
+<sup>1</sup> Le Conseil d’État dirige l’administration cantonale.
 
-<sup>2</sup> L’administration cantonale est divisée en départements. Chaque membre du Conseil d’Etat dirige un ou plusieurs départements.
+<sup>2</sup> L’administration cantonale est divisée en départements. Chaque membre du Conseil d’État dirige un ou plusieurs départements.
 
-<sup>3</sup> Le Conseil d’Etat nomme le personnel de l’administration, qui est soumis à ses instructions et à sa surveillance.
+<sup>3</sup> Le Conseil d’État nomme le personnel de l’administration, qui est soumis à ses instructions et à sa surveillance.
 
-### Chancellerie d’Etat
+### Chancellerie d’État
 
 #### Art. 78
 
-La chancellerie d’Etat assiste le Conseil d’Etat dans l’exercice de ses compétences. Elle est dirigée par une chancelière ou un chancelier d’Etat, nommé par le Conseil d’Etat.
+La chancellerie d’État assiste le Conseil d’État dans l’exercice de ses compétences. Elle est dirigée par une chancelière ou un chancelier d’État, nommé par le Conseil d’État.
 
-### Chapitre 4 Rapports entre le Grand Conseil et le Conseil d’Etat
+### Chapitre 4 Rapports entre le Grand Conseil et le Conseil d’État
 
 ### Informations
 
 #### Art. 79
 
-<sup>1</sup> Le Grand Conseil et ses commissions ont le droit d’obtenir du Conseil d’Etat et de l’administration toutes les informations dont ils ont besoin pour accomplir leurs tâches, notamment dans l’exercice de la haute surveillance. En cas de contestation, le Grand Conseil tranche après avoir entendu le Conseil d’Etat.
+<sup>1</sup> Le Grand Conseil et ses commissions ont le droit d’obtenir du Conseil d’État et de l’administration toutes les informations dont ils ont besoin pour accomplir leurs tâches, notamment dans l’exercice de la haute surveillance. En cas de contestation, le Grand Conseil tranche après avoir entendu le Conseil d’État.
 
 <sup>2</sup> Le droit individuel des membres du Grand Conseil à obtenir des informations est réglé par la loi.
 
@@ -791,7 +829,7 @@ La chancellerie d’Etat assiste le Conseil d’Etat dans l’exercice de ses co
 
 #### Art. 80
 
-<sup>1</sup> Dans la première année de la législature, le Conseil d’Etat présente au Grand Conseil un programme politique, dans lequel il annonce ce qu’il se propose de faire au cours de cette législature. Il accompagne ce programme d’un plan financier.
+<sup>1</sup> Dans la première année de la législature, le Conseil d’État présente au Grand Conseil un programme politique, dans lequel il annonce ce qu’il se propose de faire au cours de cette législature. Il accompagne ce programme d’un plan financier.
 
 <sup>2</sup> Le Grand Conseil prend connaissance du programme et du plan. Il en fait l’objet d’un débat.
 
@@ -799,17 +837,17 @@ La chancellerie d’Etat assiste le Conseil d’Etat dans l’exercice de ses co
 
 #### Art. 81
 
-<sup>1</sup> Par la motion, le Grand Conseil peut enjoindre au Conseil d’Etat de lui adresser un rapport ou un projet.
+<sup>1</sup> Par la motion, le Grand Conseil peut enjoindre au Conseil d’État de lui adresser un rapport ou un projet.
 
-<sup>2</sup> Par la recommandation, le Grand Conseil peut inviter le Conseil d’Etat à prendre une mesure qui relève de la compétence législative de celui-ci. La proposition de recommandation doit être signée par dix-sept membres du Grand Conseil.[^81-1]
+<sup>2</sup> Par la recommandation, le Grand Conseil peut inviter le Conseil d’État à prendre une mesure qui relève de la compétence législative de celui-ci. La proposition de recommandation doit être signée par dix-sept membres du Grand Conseil.[^81-1]
 
 [^81-1]: Phrase acceptée en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
-### Participation du Conseil d’Etat aux séances du Grand Conseil et de ses commissions
+### Participation du Conseil d’État aux séances du Grand Conseil et de ses commissions
 
 #### Art. 82
 
-Les membres du Conseil d’Etat peuvent participer aux séances du Grand Conseil et à celles de ses commissions, y prendre la parole et y faire des propositions.
+Les membres du Conseil d’État peuvent participer aux séances du Grand Conseil et à celles de ses commissions, y prendre la parole et y faire des propositions.
 
 ### Chapitre 5 Les autorités judiciaires
 
@@ -845,7 +883,7 @@ Les audiences des tribunaux sont publiques. Les jugements doivent être motivés
 
 Les tribunaux appliquent le droit fédéral et le droit cantonal. Ils n’appliquent pas les dispositions législatives ou réglementaires qui sont contraires à un droit supérieur. Sont réservées les règles du droit fédéral relatives à l’application des lois fédérales.
 
-## Titre V Communes****
+## Titre V Communes
 
 [^tit5-1]
 
@@ -881,7 +919,7 @@ Les tribunaux appliquent le droit fédéral et le droit cantonal. Ils n’appliq
 
 <sup>1</sup> L’existence des communes et leur territoire sont garantis.
 
-<sup>2</sup> L’Etat encourage les fusions de communes.
+<sup>2</sup> L’État encourage les fusions de communes.
 
 <sup>3</sup> Toutefois, aucune fusion ni division de communes, non plus qu’aucune cession de territoire d’une commune à une autre, ne peut avoir lieu sans le consentement des communes touchées.
 
@@ -889,7 +927,7 @@ Les tribunaux appliquent le droit fédéral et le droit cantonal. Ils n’appliq
 
 #### Art. 92
 
-<sup>1</sup> L’Etat encourage la collaboration intercommunale, sous forme de syndicats ou d’autres types de regroupements.
+<sup>1</sup> L’État encourage la collaboration intercommunale, sous forme de syndicats ou d’autres types de regroupements.
 
 <sup>2</sup> La collaboration peut être imposée dans certains domaines, lorsqu’elle est nécessaire à l’accomplissement des tâches des communes.
 
@@ -923,41 +961,45 @@ L’autonomie des communes est garantie dans les limites de la législation cant
 
 <sup>5</sup> La loi détermine le corps électoral communal et règle la procédure électorale, de même que ce qui a trait à l’initiative et au référendum populaires.
 
-### Surveillance de l’Etat
+<sup>6</sup> La loi peut prévoir la destitution des membres du Conseil communal. Elle en règle la procédure et les conditions.[^95-1]
+
+[^95-1]: Accepté en [votation populaire du 30 nov. 2014](http://www.admin.ch/ch/f/pore/va/20141130/index.html), en vigueur depuis le 30 nov. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+
+### Surveillance de l’État
 
 #### Art. 96
 
-<sup>1</sup> L’activité des autorités communales est soumise à la surveillance de l’Etat.
+<sup>1</sup> L’activité des autorités communales est soumise à la surveillance de l’État.
 
-<sup>2</sup> La surveillance de l’Etat a pour objet de contrôler que l’activité des autorités communales est conforme au droit. La loi peut, dans certains domaines, étendre la surveillance de l’Etat au contrôle de l’opportunité des actes communaux.
+<sup>2</sup> La surveillance de l’État a pour objet de contrôler que l’activité des autorités communales est conforme au droit. La loi peut, dans certains domaines, étendre la surveillance de l’État au contrôle de l’opportunité des actes communaux.
 
-<sup>3</sup> L’Etat peut se substituer aux autorités communales qui, après y avoir été dûment invitées, ne prendraient pas les mesures que la législation leur impose*.*
+<sup>3</sup> L’État peut se substituer aux autorités communales qui, après y avoir été dûment invitées, ne prendraient pas les mesures que la législation leur impose*.*
 
-## Titre VI Etat, Eglises reconnues et autres communautés religieuses
+## Titre VI État, Églises reconnues et autres communautés religieuses
 
 ### Principes
 
 #### Art. 97
 
-<sup>1</sup> L’Etat tient compte de la dimension spirituelle de la personne humaine et de sa valeur pour la vie sociale.
+<sup>1</sup> L’État tient compte de la dimension spirituelle de la personne humaine et de sa valeur pour la vie sociale.
 
-<sup>2</sup> L’Etat est séparé des Eglises et des autres communautés religieuses. Il peut toutefois les reconnaître comme institutions d’intérêt public.
+<sup>2</sup> L’État est séparé des Églises et des autres communautés religieuses. Il peut toutefois les reconnaître comme institutions d’intérêt public.
 
-<sup>3</sup> L’indépendance des Eglises et des autres communautés religieuses est garantie.
+<sup>3</sup> L’indépendance des Églises et des autres communautés religieuses est garantie.
 
-### Eglises reconnues
+### Églises reconnues
 
 #### Art. 98
 
-<sup>1</sup> L’Etat reconnaît l’Eglise réformée évangélique, l’Eglise catholique romaine et l’Eglise catholique chrétienne du canton de Neuchâtel comme des institutions d’intérêt public représentant les traditions chrétiennes du pays.
+<sup>1</sup> L’État reconnaît l’Église réformée évangélique, l’Église catholique romaine et l’Église catholique chrétienne du canton de Neuchâtel comme des institutions d’intérêt public représentant les traditions chrétiennes du pays.
 
-<sup>2</sup> L’Etat perçoit gratuitement la contribution ecclésiastique volontaire que les Eglises reconnues demandent à leurs membres.
+<sup>2</sup> L’État perçoit gratuitement la contribution ecclésiastique volontaire que les Églises reconnues demandent à leurs membres.
 
-<sup>3</sup> Les services que les Eglises reconnues rendent à la collectivité donnent lieu à une participation financière de l’Etat ou des communes.
+<sup>3</sup> Les services que les Églises reconnues rendent à la collectivité donnent lieu à une participation financière de l’État ou des communes.
 
-<sup>4</sup> Les Eglises reconnues sont exemptes d’impôts sur les biens affectés à leurs activités religieuses et aux services qu’elles rendent à la collectivité.
+<sup>4</sup> Les Églises reconnues sont exemptes d’impôts sur les biens affectés à leurs activités religieuses et aux services qu’elles rendent à la collectivité.
 
-<sup>5</sup> L’Etat peut passer des concordats avec les Eglises reconnues.
+<sup>5</sup> L’État peut passer des concordats avec les Églises reconnues.
 
 ### Autres communautés religieuses
 
@@ -1046,21 +1088,35 @@ Sont abrogés:
 
 [^107-1]: Elle entre en vigueur le 1<sup>er</sup> janv. 2002 (Décret du Grand Conseil du 19 juin 2001).
 
-## Disposition transitoire concernant la modification du 26 septembre 2010****
+## Disposition transitoire concernant la modification du 26 septembre 2010
 
 [^u1-1]
 
 [^u1-1]: Acceptée en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
-L’élection de la députation du canton au Conseil des Etats suisse selon le système de la représentation proportionnelle a lieu en même temps que la prochaine élection au Conseil national suisse.
+L’élection de la députation du canton au Conseil des États suisse selon le système de la représentation proportionnelle a lieu en même temps que la prochaine élection au Conseil national suisse.
 
-## Disposition transitoire à la modification du 27 mars 2017****
+## Disposition transitoire à la modification du 27 mars 2017
 
 [^u2-1]
 
 [^u2-1]: Acceptée en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 Les modifications du 27 mars 2017 s’appliquent pour la première fois à l’élection générale du Grand Conseil de 2021.
+
+## Dispositions transitoires à la modification du 3 décembre 2015
+
+[^u3-1]
+
+[^u3-1]: Accepté en [votation populaire du 28 fév. 2016](http://www.admin.ch/ch/f/pore/va/20160228/index.html), en vigueur depuis le 1<sup>er</sup> mars 2016. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 3; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+
+<sup>1</sup> Afin d’entreprendre sans délai la réalisation d’une liaison ferroviaire directe entre Neuchâtel et La Chaux-de-Fonds dans le cadre global du projet de RER neuchâtelois, en cas de décision favorable de la Confédération sur la prise en charge financière de cette infrastructure, l’État de Neuchâtel ou une société de financement mandatée par ses soins est autorisé à contracter un emprunt et à en assumer la charge d’intérêts passifs.
+
+<sup>2</sup> La loi définit les modalités de financement et les échéances s’y rapportant.
+
+<sup>3</sup> Les présentes dispositions transitoires sont applicables jusqu’à l’achèvement du paiement des intérêts passifs liés à la réalisation de la ligne directe.
+
+<sup>4</sup> Le Grand Conseil constate l’avènement de ce moment par décret, dont la promulgation entraîne l’abrogation de la présente disposition transitoire.
 
 ## Index des matières
 
@@ -1098,7 +1154,7 @@ Canton
 
 Censure
 
-Chancellerie d’Etat 78
+Chancellerie d’État 78
 
 Chef-lieu 2
 
@@ -1114,9 +1170,9 @@ Confédération
 
 **Conflits**
 
-**Conseil des Etats** 39
+**Conseil des États** 39
 
-Conseil d’Etat
+Conseil d’État
 
 **Conseil national suisse** 39
 
@@ -1150,15 +1206,15 @@ Droit applicable 86
 
 Droits
 
-Economie importante 57<sup>3bis</sup>
+Économie importante 57<sup>3bis</sup>
 
-Egalité
+Égalité
 
-Eglise
+Église
 
-Elections, nominations
+Élections, nominations
 
-Eligibilité
+Éligibilité
 
 Emploi
 
@@ -1166,7 +1222,7 @@ Emprunts
 
 Endettement
 
-Energie
+Énergie
 
 Enfant
 
@@ -1174,11 +1230,11 @@ Enseignement
 
 Environnement
 
-Etablissement
+Établissement
 
-Etat
+État
 
-Etrangers
+Étrangers
 
 Exécution
 
@@ -1348,7 +1404,7 @@ Vote
 - – liberté 19
 - – syndicale 27<sup>1</sup>
 
-- – du Conseil d’Etat 76<sup>1</sup>
+- – du Conseil d’État 76<sup>1</sup>
 - – des communes 94
 
 - – réunions et les manifestations 20<sup>2</sup>
@@ -1359,7 +1415,7 @@ Vote
 - – administration 89<sup>2</sup>
 
 - – exclusion du référendum 42<sup>4</sup>
-- – de l’Etat 57, 71
+- – de l’État 57, 71
 
 - – salaire minimum 34*a*
 
@@ -1370,29 +1426,29 @@ Vote
 - – interdiction 17<sup>3</sup>
 
 - – du Grand Conseil 63<sup>3</sup>, 64<sup>1</sup>
-- – consultation du Conseil d’Etat 70<sup>3</sup>
+- – consultation du Conseil d’État 70<sup>3</sup>
 - – droit à l’information 79<sup>1</sup>
-- – participation du Conseil d’Etat 82
+- – participation du Conseil d’État 82
 
 - – division du canton 1<sup>4</sup>
 - – tâches 5
 - – responsabilité 6
 - – buts et mandats sociaux 34 à 36
 - – initiative 64
-- – surveillance par le Conseil d’Etat 73
+- – surveillance par le Conseil d’État 73
 - – généralités 89 à 96
-- – participation financière aux Eglises 98<sup>3</sup>
+- – participation financière aux Églises 98<sup>3</sup>
 
 - – exclusion du référendum 42<sup>4</sup>
 - – approbation par le Grand Conseil 57<sup>1</sup>
-- – présentation par le Conseil d’Etat 71<sup>1</sup>
+- – présentation par le Conseil d’État 71<sup>1</sup>
 
-- – avec les Eglises reconnues 42<sup>3</sup>, 61<sup>1</sup>, 74, 98<sup>5</sup>
+- – avec les Églises reconnues 42<sup>3</sup>, 61<sup>1</sup>, 74, 98<sup>5</sup>
 - – avec d’autres communautés religieuses 99
 - v. aussi Traités
 
 - – canton membre 1<sup>3</sup>
-- – Députation aux Conseil des Etats et Conseil national 39
+- – Députation aux Conseil des États et Conseil national 39
 
 - – d’intérêts 5<sup>2</sup>
 - – collectifs de travail 27<sup>2</sup>
@@ -1404,6 +1460,7 @@ Vote
 - – incompatibilités 48
 - – récusation 49
 - – immunité 50
+- – destitution 50*a*
 - – surveillance 59
 - – droit d’initiative 64<sup>2</sup>
 - – composition 66, 67
@@ -1418,7 +1475,7 @@ Vote
 
 - – droit 11<sup>1</sup>
 
-- – tâche de l’Etat 5<sup>1</sup>
+- – tâche de l’État 5<sup>1</sup>
 
 - – du Grand Conseil
 - – – programme et plan financier 80<sup>2</sup>
@@ -1435,7 +1492,7 @@ Vote
 - – de l’administration cantonale 77
 
 - – compétences du Grand Conseil 57<sup>2</sup>
-- – compétences du Conseil d’Etat 71<sup>2</sup>
+- – compétences du Conseil d’État 71<sup>2</sup>
 
 - – droit 11
 - – liberté d’établissement 15
@@ -1486,8 +1543,8 @@ Vote
 
 - – par le peuple
 - – – Grand Conseil 38, 52
-- – – Conseil d’Etat 38, 66
-- – – Conseil des Etats 39
+- – – Conseil d’État 38, 66
+- – – Conseil des États 39
 - – – exclusion du référendum 42<sup>4</sup>
 - – – Conseil général 95
 - – – Conseil communal 95
@@ -1495,18 +1552,18 @@ Vote
 - – par le Grand Conseil
 - – – ordre judiciaire 60
 - – – président(e) du Grand Conseil 63
-- – par le Conseil d’Etat
-- – – président(e) du Conseil d’Etat 76
+- – par le Conseil d’État
+- – – président(e) du Conseil d’État 76
 - – – personnel de l’administration 77
 - – – chancelier (ère) 78
 - – par le Conseil général
 - – – conseil communal 95
 
-- – Conseil des Etats 39
+- – Conseil des États 39
 - – autorités cantonales 47
 - – réélection
 - – – Grand Conseil 53
-- – – Conseil d’Etat 67
+- – – Conseil d’État 67
 - – – ordre judiciaire 84
 
 - – libre choix 26<sup>2</sup>
@@ -1516,14 +1573,15 @@ Vote
 
 - – limite 57
 
-- – tâche de l’Etat 5<sup>1</sup>
+- – tâche de l’État 5<sup>1</sup>
+- – éolienne 5*a*
 
 - – droit 14
 
 - – liberté 22
 - – religieux 16<sup>2</sup>
 
-- – tâche de l’Etat 5<sup>1</sup>
+- – tâche de l’État 5<sup>1</sup>
 
 - – liberté 15
 
@@ -1531,10 +1589,10 @@ Vote
 - – tâches 5
 - – responsabilité 6
 - – buts et mandats sociaux 34 à 36
-- – séparation des Eglises 97
-- – reconnaissance des Eglises 98
-- – surveillance de l’Etat v. Surveillance
-- – territoire de l’Etat v. Canton
+- – séparation des Églises 97
+- – reconnaissance des Églises 98
+- – surveillance de l’État v. Surveillance
+- – territoire de l’État v. Canton
 
 - – accueil et intégration 5
 - – corps électoral 37
@@ -1550,7 +1608,7 @@ Vote
 - – droit au respect 11<sup>1</sup>
 - – mesures 34<sup>2</sup>
 
-- – tâches de l’Etat 5<sup>1</sup>
+- – tâches de l’État 5<sup>1</sup>
 - – égalité 8<sup>2</sup>
 - – droit de l’enfant 14<sup>2</sup>
 - – mesures 34<sup>1</sup>
@@ -1562,13 +1620,13 @@ Vote
 - – composition 52 à 54
 - – compétences 55 à 61
 - – organisation 62 à 65
-- – rapports avec le Conseil d’Etat 79 à 82
+- – rapports avec le Conseil d’État 79 à 82
 - – révision de la constitution 101 à 103
 
 - – droit 27<sup>3</sup>
 
 - – pouvoir fiscal, péréquation financière 5<sup>1</sup>, 93
-- – exonération des Eglises 98
+- – exonération des Églises 98
 
 - – liberté 17
 - – droit 18
@@ -1579,7 +1637,7 @@ Vote
 
 - – populaire 40, 61<sup>1</sup>, 101, 102
 - – du Grand Conseil 64
-- – du Conseil d’Etat 64
+- – du Conseil d’État 64
 - – des communes 64
 
 - – torture 7
@@ -1603,7 +1661,7 @@ Vote
 - – économique 26<sup>1</sup>
 - v. Droits fondamentaux
 
-- – tâche de l’Etat 5<sup>1</sup>
+- – tâche de l’État 5<sup>1</sup>
 - – droit 13
 - – mesures 34<sup>1</sup>
 
@@ -1626,8 +1684,8 @@ Vote
 
 - – liberté 17<sup>1</sup>
 
-- – élection au Conseil des Etats 39
-- – élection au Conseil d’Etat 66
+- – élection au Conseil des États 39
+- – élection au Conseil d’État 66
 
 - – garanties pénales 31
 - – litiges 83
@@ -1677,7 +1735,7 @@ Vote
 - – délibérations du Grand Conseil 65
 - – tribunaux 85
 
-- – du Conseil d’Etat 81
+- – du Conseil d’État 81
 
 - – du Grand Conseil 81<sup>2</sup>
 
@@ -1689,7 +1747,7 @@ Vote
 - – généralités 97 à 99
 
 - – du Grand Conseil 53
-- – du Conseil d’Etat 67
+- – du Conseil d’État 67
 
 - – Grand Conseil 52
 - – Conseil général 95
@@ -1702,20 +1760,20 @@ Vote
 
 - – minimum 34*a*
 
-- – tâche de l’Etat 5<sup>1</sup>
+- – tâche de l’État 5<sup>1</sup>
 
-- – tâche de l’Etat 5<sup>1</sup>
+- – tâche de l’État 5<sup>1</sup>
 
-- – tâche de l’Etat 5<sup>1</sup>, 74
+- – tâche de l’État 5<sup>1</sup>, 74
 
 - – pétition 21
 - – initiative populaire 40
 - – référendum populaire facultatif 42
 
-- – tâche de l’Etat 5<sup>1</sup>
+- – tâche de l’État 5<sup>1</sup>
 
 - – par le Grand Conseil 59, 79
-- – par le Conseil d’Etat 73, 77
+- – par le Conseil d’État 73, 77
 - – des autorités judiciaires 83
 - – des autorités communales 96
 
@@ -1735,9 +1793,10 @@ Vote
 - – approbation 56
 - – ratification 70
 
-- – tâche de l’Etat 5<sup>1</sup>
+- – tâche de l’État 5<sup>1</sup>
+- – entretien et infrastructure 5*b*
 
-- – tâche de l’Etat 5<sup>1</sup>
+- – tâche de l’État 5<sup>1</sup>
 - – égalité 8<sup>2</sup>
 - – mesures 34<sup>1</sup>
 - – liberté syndicale 27
