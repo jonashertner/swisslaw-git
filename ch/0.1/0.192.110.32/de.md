@@ -3,29 +3,28 @@ sr: "0.192.110.32"
 title: Zweites Zusatzprotokoll vom 15. Dezember 1956 zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/789_814_805"
 language: de
-version: 2004-03-17
+version: 2022-03-16
 adopted: 1956-12-15
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/789_814_805/20040317/de/xml/fedlex-data-admin-ch-eli-cc-1966-789_814_805-20040317-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/789_814_805/20040317/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/789_814_805/20220316/de/xml/fedlex-data-admin-ch-eli-cc-1966-789_814_805-20220316-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/789_814_805/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Zweites Zusatzprotokoll zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates
 
-0.192.110.32 (Stand am 20. Juli 2004)Nicht löschen bitte "[^t-1] " !!
+AS **1966** 789; BBl **1965** I 437
 
 Übersetzung
 
 Bestimmungen für die Mitglieder der Europäischen Kommission für Menschenrechte
 
-Abgeschlossen in Paris am 15. Dezember 1956 Von der Bundesversammlung genehmigt am 20. September 1965[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 29. November 1965 In Kraft getreten für die Schweiz am 29. November 1965
+Abgeschlossen in Paris am 15. Dezember 1956 Von der Bundesversammlung genehmigt am 20. September 1965[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. November 1965 In Kraft getreten für die Schweiz am 29. November 1965
 
-(Stand am 20. Juli 2004)
+(Stand am 16. März 2022)
 
-[^t-1]: [AS 1966 789](https://fedlex.data.admin.ch/eli/oc/1966/789_814_805); [BBl 1965 I 437](https://fedlex.data.admin.ch/eli/fga/1965/1_437_445_381)
-[^t-2]: [AS 1966 777](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
+[^t-1]: [AS 1966 777](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
 
 Die Unterzeichnerregierungen, Mitglieder des Europarates,
 
@@ -87,7 +86,7 @@ Der Generalsekretär des Europarates notifiziert den Mitgliedern des Rates den Z
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Paris am 15. Dezember 1956 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einem einzigen Exemplar, das im Archiv des Europarates hinterlegt wird. Der Generalsekretär übermittelt allen Unterzeichnerregierungen beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich des Zweiten Zusatzprotokolls am 17. März 2004
+Geltungsbereich am 16. März 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -112,7 +111,6 @@ Geltungsbereich des Zweiten Zusatzprotokolls am 17. März 2004
 <tr><td>Polen</td><td>22. April</td><td>1993</td><td>22. April</td><td>1993</td></tr>
 <tr><td>Portugal</td><td>6. Juli</td><td>1982</td><td>6. Juli</td><td>1982</td></tr>
 <tr><td>Rumänien</td><td>4. Oktober</td><td>1994 U</td><td>4. Oktober</td><td>1994</td></tr>
-<tr><td>Russland</td><td>28. Februar</td><td>1996 U</td><td>28. Februar</td><td>1996</td></tr>
 <tr><td>San Marino</td><td>22. März</td><td>1989</td><td>22. März</td><td>1989</td></tr>
 <tr><td>Schweden</td><td>15. Dezember</td><td>1956 U</td><td>15. Dezember</td><td>1956</td></tr>
 <tr><td>Schweiz</td><td>29. November</td><td>1965</td><td>29. November</td><td>1965</td></tr>
@@ -124,5 +122,7 @@ Geltungsbereich des Zweiten Zusatzprotokolls am 17. März 2004
 <tr><td>Ungarn</td><td>12. Januar</td><td>1996</td><td>12. Januar</td><td>1996</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>8. Juli</td><td>1958</td><td>8. Juli</td><td>1958</td></tr>
 <tr><td>Zypern</td><td>30. November</td><td>1967</td><td>30. November</td><td>1967</td></tr>
-<tr><td colspan="5">\* Erklärung siehe hiernach. Die Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int/de) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden..</td></tr>
 </table>
+
+[^t-2]: AS **1968** 1488; [1971 1345](https://fedlex.data.admin.ch/eli/oc/1971/1345_1341_1341); [1982 1937](https://fedlex.data.admin.ch/eli/oc/1982/1937_1937_1937); [1990 535](https://fedlex.data.admin.ch/eli/oc/1990/535_535_535); [1994 1089](https://fedlex.data.admin.ch/eli/oc/1994/1089_1089_1089); [2004 3451](https://fedlex.data.admin.ch/eli/oc/2004/460); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Eine aktualisierte Fassung des Geltungsbereichs dieser Übereinkommen und Protokolle ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/Treaty](https://www.fedlex.admin.ch/de/Treaty)

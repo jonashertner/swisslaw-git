@@ -3,37 +3,36 @@ sr: "0.192.110.32"
 title: "Deuxième protocole additionnel du 15 décembre 1956 à l'accord général sur les privilèges et immunités du Conseil de l'Europe"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/789_814_805"
 language: fr
-version: 2004-03-17
+version: 2022-03-16
 adopted: 1956-12-15
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/789_814_805/20040317/fr/xml/fedlex-data-admin-ch-eli-cc-1966-789_814_805-20040317-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/789_814_805/20040317/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/789_814_805/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-1966-789_814_805-20220316-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/789_814_805/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Deuxième protocole additionnel à l’accord général sur les privilèges et immunités du Conseil de l’Europe
 
-(Etat le 20 juillet 2004)0.192.110.32Nicht löschen bitte "[^t-1] " !!
+RO **1966** 814; FF **1965** I 445
 
 Texte original
 
 Dispositions relatives aux membres de la Commission européenne des Droits de l’Homme
 
-Conclu à Paris le 15 décembre 1956 Approuvé par lAssemblée fédérale le 20 septembre 1965[^t-2] Instrument de ratification déposé par la Suisse le 29 novembre 1965 Entré en vigueur pour la Suisse le 29 novembre 1965
+Conclu à Paris le 15 décembre 1956 Approuvé par lAssemblée fédérale le 20 septembre 1965[^t-1] Instrument de ratification déposé par la Suisse le 29 novembre 1965 Entré en vigueur pour la Suisse le 29 novembre 1965
 
-(Etat le 20 juillet 2004)
+(État le 16 mars 2022)
 
-[^t-1]: [RO 1966 814](https://fedlex.data.admin.ch/eli/oc/1966/789_814_805); [FF 1965 I 445](https://fedlex.data.admin.ch/eli/fga/1965/1_437_445_381)
-[^t-2]: [RO 1966 803](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
+[^t-1]: [RO 1966 803](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
 
 Les Gouvernements signataires, Membres du Conseils de l’Europe,
 
-Considérant qu’aux termes de l’article 59 de la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales, signée à Rome le 4 novembre 1950[^ingress-1], les membres de la Commission Européenne des Droits de l’Homme (ci‑dessous dénommée «la Commission») jouissent, pendant l’exercice de leurs fonctions, des privilèges et immunités prévus à l’article 40 du Statut du Conseil de l’Europe[^ingress-2] et dans les Accords conclus en vertu de cet article;
+considérant qu’aux termes de l’article 59 de la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales, signée à Rome le 4 novembre 1950[^ingress-1], les membres de la Commission Européenne des Droits de l’Homme (ci‑dessous dénommée «la Commission») jouissent, pendant l’exercice de leurs fonctions, des privilèges et immunités prévus à l’article 40 du Statut du Conseil de l’Europe[^ingress-2] et dans les Accords conclus en vertu de cet article,
 
-Considérant qu’il importe de définir et préciser lesdits privilèges et immunités au moyen d’un Protocole additionnel à l’Accord Général sur les Privilèges et Immunités du Conseil de l’Europe, signé à Paris le 2 septembre 1949[^ingress-3],
+considérant qu’il importe de définir et préciser lesdits privilèges et immunités au moyen d’un Protocole additionnel à l’Accord Général sur les Privilèges et Immunités du Conseil de l’Europe, signé à Paris le 2 septembre 1949[^ingress-3],
 
-Sont convenus de ce qui suit:
+sont convenus de ce qui suit:
 
 [^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 [^ingress-2]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
@@ -85,14 +84,12 @@ Le présent Protocole est ouvert à la signature des Membres du Conseil qui peuv
 
 Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conseil la date d’entrée en vigueur du présent Protocole et les noms des Membres ayant signé sans réserve de ratification ou ratifié.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Paris, le 15 décembre 1956, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général en communiquera des copies certifiées conformes à tous les gouvernements signataires.
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Paris, le 15 décembre 1956, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général en communiquera des copies certifiées conformes à tous les gouvernements signataires. (Suivent les signatures)
 
-(Suivent les signatures)
-
-## Champ d’application du deuxième protocole additionnel le 17 mars 2004
+Champ d’application le 16 mars 2022[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>4 juin</td><td>1998 Si</td><td>4 juin</td><td>1998</td></tr>
 <tr><td>Allemagne</td><td>7 juillet</td><td>1960</td><td>7 juillet</td><td>1960</td></tr>
 <tr><td>Autriche</td><td>13 novembre</td><td>1958 Si</td><td>13 novembre</td><td>1958</td></tr>
@@ -119,19 +116,13 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Membres du Conse
 <tr><td>République tchèque</td><td>30 mai</td><td>1995</td><td>30 mai</td><td>1995</td></tr>
 <tr><td>Roumanie</td><td>4 octobre</td><td>1994 Si</td><td>4 octobre</td><td>1994</td></tr>
 <tr><td>Royaume-Uni</td><td>8 juillet</td><td>1958</td><td>8 juillet</td><td>1958</td></tr>
-<tr><td>Russie</td><td>28 février</td><td>1996 Si</td><td>28 février</td><td>1996</td></tr>
 <tr><td>Saint-Marin</td><td>22 mars</td><td>1989</td><td>22 mars</td><td>1989</td></tr>
 <tr><td>Slovaquie</td><td>15 juillet</td><td>1997</td><td>15 juillet</td><td>1997</td></tr>
 <tr><td>Slovénie</td><td>8 novembre</td><td>1994</td><td>8 novembre</td><td>1994</td></tr>
 <tr><td>Suède</td><td>15 décembre</td><td>1956 Si</td><td>15 décembre</td><td>1956</td></tr>
 <tr><td>Suisse</td><td>29 novembre</td><td>1965</td><td>29 novembre</td><td>1965</td></tr>
 <tr><td>Turquie</td><td>7 janvier</td><td>1960</td><td>7 janvier</td><td>1960</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-- <sup>\*</sup> Déclarations, voir ci-après.
-
-Déclaration
-
-Pays‑Bas
-
-«En signant le Deuxième Protocole Additionnel à l’Accord Général sur les Privilèges et Immunités du Conseil de l’Europe, Protocole couvert à la signature à Paris le 15 décembre 1965, je déclare au nom du Gouvernement du Royaume des Pays‑Bas que ma signature ne sera valable que pour les parties du Royaume auxquelles est ou sera appliquée la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales, signée à Rome le 4 novembre 1950 et le Protocole additionnel, signé à Paris le 20 mars 1952.»
+[^t-2]: [RO 1968 1568](https://fedlex.data.admin.ch/eli/oc/1968/1520_1568_1488); [1971 1345](https://fedlex.data.admin.ch/eli/oc/1971/1349_1345_1345); [1982 1937](https://fedlex.data.admin.ch/eli/oc/1982/1937_1937_1937); [1990 535](https://fedlex.data.admin.ch/eli/oc/1990/535_535_535); [1994 1087](https://fedlex.data.admin.ch/eli/oc/1994/1087_1087_1087); [2004 3451](https://fedlex.data.admin.ch/eli/oc/2004/460); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

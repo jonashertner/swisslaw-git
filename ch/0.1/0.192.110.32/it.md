@@ -3,11 +3,11 @@ sr: "0.192.110.32"
 title: "Secondo protocollo addizionale del 15 dicembre 1956 all'accordo generale su i privilegi e le immunità del Consiglio d'Europa"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/789_814_805"
 language: it
-version: 2004-03-17
+version: 2022-03-16
 adopted: 1956-12-15
 in_force: 1965-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/789_814_805/20040317/it/xml/fedlex-data-admin-ch-eli-cc-1966-789_814_805-20040317-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/789_814_805/20040317/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/789_814_805/20220316/it/xml/fedlex-data-admin-ch-eli-cc-1966-789_814_805-20220316-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/789_814_805/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -28,7 +28,7 @@ Istrumento di ratificazione depositato dalla Svizzera il 29 novembre 1975
 
 Entrato in vigore per la Svizzera il 29 novembre 1965
 
-(Stato 20 luglio 2004)
+(Stato 16 marzo 2022)
 
 [^t-1]: [RU 1966 795](https://fedlex.data.admin.ch/eli/oc/1966/777_803_795)
 
@@ -92,7 +92,7 @@ Il Segretario Generale del Consiglio d’Europa notificherà ai Membri di questo
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Parigi, il 15 dicembre 1956, nelle lingue francese e inglese, i cui testi fanno ugualmente fede, in un solo esemplare, che sarà depositato nell’archivio del Consiglio d’Europa. Il Segretario Generale ne comunicherà copie, certificate conformi, a tutti i governi firmatari. (Seguono le firme)
 
-Campo di applicazione del protocollo il 17 marzo 2004
+Campo di applicazione il 16 marzo 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -120,7 +120,6 @@ Campo di applicazione del protocollo il 17 marzo 2004
 <tr><td>Portogallo</td><td>6 luglio</td><td>1982</td><td>6 luglio</td><td>1982</td></tr>
 <tr><td>Regno Unito</td><td>8 luglio</td><td>1958</td><td>8 luglio</td><td>1958</td></tr>
 <tr><td>Romania</td><td>4 ottobre</td><td>1994 F</td><td>4 ottobre</td><td>1994</td></tr>
-<tr><td>Russia</td><td>28 febbraio</td><td>1996 F</td><td>28 febbraio</td><td>1996</td></tr>
 <tr><td>San Marino</td><td>22 marzo</td><td>1989</td><td>22 marzo</td><td>1989</td></tr>
 <tr><td>Slovacchia</td><td>15 luglio</td><td>1997</td><td>15 luglio</td><td>1997</td></tr>
 <tr><td>Slovenia</td><td>8 novembre</td><td>1994</td><td>8 novembre</td><td>1994</td></tr>
@@ -129,11 +128,7 @@ Campo di applicazione del protocollo il 17 marzo 2004
 <tr><td>Svizzera</td><td>29 novembre</td><td>1965</td><td>29 novembre</td><td>1965</td></tr>
 <tr><td>Turchia</td><td>7 gennaio</td><td>1960</td><td>7 gennaio</td><td>1960</td></tr>
 <tr><td>Ungheria</td><td>12 gennaio</td><td>1996</td><td>12 gennaio</td><td>1996</td></tr>
-<tr><td colspan="5">\* Dichiarazione, vedi qui appresso.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-## Dichiarazione
-
-Paesi Bassi
-
-«Firmando il Secondo Protocollo Addizionale all’Accordo Generale su i Privilegi e le Immunità del Consiglio d’Europa, aperto alla firma in Parigi il 15 dicembre 1956, dichiaro, a nome del Governo dei Paesi Bassi, che la mia firma à valida soltanto per le parti del Regno cui è o sarà applicata la Convenzione per la salvaguardia dei Diritti dell’Uomo e delle Libertà fondamentali, firmata a Roma il 4 novembre 1950, col Protocollo aggiuntivo firmato a Parigi il 20 marzo 1952».
+[^t-2]: [RU 1968 1488](https://fedlex.data.admin.ch/eli/oc/1968/1520_1568_1488); [1971 1345](https://fedlex.data.admin.ch/eli/oc/1971/1349_1345_1345); [1982 1937](https://fedlex.data.admin.ch/eli/oc/1982/1937_1937_1937); [1990 535](https://fedlex.data.admin.ch/eli/oc/1990/535_535_535); [1994 1089](https://fedlex.data.admin.ch/eli/oc/1994/1089_1089_1089); [2004 3451](https://fedlex.data.admin.ch/eli/oc/2004/460); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
