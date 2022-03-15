@@ -3,29 +3,24 @@ sr: "0.102"
 title: "Carta europea dell'autonomia locale del 15 ottobre 1985"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/412"
 language: it
-version: 2016-04-28
+version: 2022-03-16
 adopted: 1985-10-15
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/412/20160428/it/xml/fedlex-data-admin-ch-eli-cc-2005-412-20160428-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/412/20160428/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/412/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2005-412-20220316-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/412/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Carta europea dell’autonomia locale
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa a Strasburgo il 15 ottobre 1985
+Conclusa a Strasburgo il 15 ottobre 1985 Approvata dall’Assemblea federale il 15 dicembre 2004[^t-1] Strumento di ratifica depositato dalla Svizzera il 17 febbraio 2005
 
-Approvata dall’Assemblea federale il 15 dicembre 2004[^t-2]
+(Stato 16 marzo 2022)
 
-Strumento di ratifica depositato dalla Svizzera il 17 febbraio 2005
-
-(Stato 28 aprile 2016)
-
-[^t-1]: RU **2005** 2393; FF **2004** 67 Dal testo originale francese.
-[^t-2]: [RU 2005 2391](https://fedlex.data.admin.ch/eli/oc/2005/411)
+[^t-1]: RU **2005** 2393; FF **2004** 67 RU **2005** 2391
 
 *Preambolo*
 
@@ -236,7 +231,7 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Carta. Fatto a Strasburgo il 15 ottobre 1985 in francese e in inglese, i due testi facenti ugualmente fede, in un unico esemplare, che sarà depositato negli archivi del Consiglio d’Europa. Il segretario Generale del Consiglio d’Europa ne invierà copia autenticata conforme a ciascuno degli Stati membri del Consiglio d’Europa. (Seguono le firme)
 
-Campo d’applicazione il 28 aprile 2016**[^t-3]**
+Campo d’applicazione il 16 marzo 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -253,7 +248,7 @@ Campo d’applicazione il 28 aprile 2016**[^t-3]**
 <tr><td>Croazia<sup>\*</sup></td><td>11 ottobre</td><td>1997</td><td>1° febbraio</td><td>1998</td></tr>
 <tr><td>Danimarca<sup>\*</sup> <sup>a</sup></td><td>3 febbraio</td><td>1988</td><td>1° settembre</td><td>1988</td></tr>
 <tr><td>Estonia<sup>\*</sup></td><td>16 dicembre</td><td>1994</td><td>1° aprile</td><td>1995</td></tr>
-<tr><td>Finlandia</td><td>3 giugno</td><td>1991</td><td>1° ottobre</td><td>1991</td></tr>
+<tr><td>Finlandia<sup>\*</sup></td><td>3 giugno</td><td>1991</td><td>1° ottobre</td><td>1991</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>17 gennaio</td><td>2007</td><td>1° maggio</td><td>2007</td></tr>
 <tr><td>Georgia<sup>\*</sup></td><td>8 dicembre</td><td>2004</td><td>1° aprile</td><td>2005</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>17 maggio</td><td>1988</td><td>1° settembre</td><td>1988</td></tr>
@@ -265,7 +260,7 @@ Campo d’applicazione il 28 aprile 2016**[^t-3]**
 <tr><td>Liechtenstein<sup>\*</sup></td><td>11 maggio</td><td>1988</td><td>1° settembre</td><td>1988</td></tr>
 <tr><td>Lituania</td><td>22 giugno</td><td>1999</td><td>1° ottobre</td><td>1999</td></tr>
 <tr><td>Lussemburgo</td><td>15 maggio</td><td>1987</td><td>1° settembre</td><td>1988</td></tr>
-<tr><td>Macedonia</td><td>6 giugno</td><td>1997</td><td>1° ottobre</td><td>1997</td></tr>
+<tr><td>Macedonia del Nord</td><td>6 giugno</td><td>1997</td><td>1° ottobre</td><td>1997</td></tr>
 <tr><td>Malta<sup>\*</sup></td><td>6 settembre</td><td>1993</td><td>1° gennaio</td><td>1994</td></tr>
 <tr><td>Moldova</td><td>2 ottobre</td><td>1997</td><td>1° febbraio</td><td>1998</td></tr>
 <tr><td>Monaco<sup>\*</sup></td><td>10 gennaio</td><td>2013</td><td>1° maggio</td><td>2013</td></tr>
@@ -276,7 +271,6 @@ Campo d’applicazione il 28 aprile 2016**[^t-3]**
 <tr><td>Portogallo</td><td>18 dicembre</td><td>1990</td><td>1° aprile</td><td>1991</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>24 aprile</td><td>1998</td><td>1° agosto</td><td>1998</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>28 gennaio</td><td>1998</td><td>1° maggio</td><td>1998</td></tr>
-<tr><td>Russia</td><td>5 maggio</td><td>1998</td><td>1° settembre</td><td>1998</td></tr>
 <tr><td>San Marino<sup>\*</sup></td><td>29 ottobre</td><td>2013</td><td>1° febbraio</td><td>2014</td></tr>
 <tr><td>Serbia<sup>\*</sup></td><td>6 settembre</td><td>2007</td><td>1° gennaio</td><td>2008</td></tr>
 <tr><td>Slovacchia<sup>\*</sup></td><td>1° febbraio</td><td>2000</td><td>1° giugno</td><td>2000</td></tr>
@@ -287,16 +281,16 @@ Campo d’applicazione il 28 aprile 2016**[^t-3]**
 <tr><td>Turchia<sup>\*</sup></td><td>9 dicembre</td><td>1992</td><td>1° aprile</td><td>1993</td></tr>
 <tr><td>Ucraina</td><td>11 settembre</td><td>1997</td><td>1° gennaio</td><td>1998</td></tr>
 <tr><td>Ungheria</td><td>21 marzo</td><td>1994</td><td>1° luglio</td><td>1994</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna..</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Carta non s’applica né alla Groenlandia né alle isole Faeröer.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 2005 2393](https://fedlex.data.admin.ch/eli/oc/2005/412), [2010 709](https://fedlex.data.admin.ch/eli/oc/2010/107), [2013 1231](https://fedlex.data.admin.ch/eli/oc/2013/269)e [2016 1321](https://fedlex.data.admin.ch/eli/oc/2016/262). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2005 2393](https://fedlex.data.admin.ch/eli/oc/2005/412); [2010 709](https://fedlex.data.admin.ch/eli/oc/2010/107); [2013 1231](https://fedlex.data.admin.ch/eli/oc/2013/269); [2016 1321](https://fedlex.data.admin.ch/eli/oc/2016/262); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
 
 Dichiarazioni
 
-**Svizzera**[^t-4]
+**Svizzera**[^t-3]
 
 Conformemente all’articolo 12 paragrafo 2 della Carta europea dell’autonomia locale, la Svizzera dichiara che s’impegna a considerarsi vincolata dalle seguenti disposizioni:
 
@@ -313,4 +307,4 @@ Conformemente all’articolo 12 paragrafo 2 della Carta europea dell’autonomia
 
 In Svizzera la Carta, secondo il suo articolo 13, si applica ai Comuni politici (‹Einwohnergemeinde›/‹communes politiques›).
 
-[^t-4]: Art. 1 cpv. 2 del DF del 15 dic. 2004 ([RU 2005 2391](https://fedlex.data.admin.ch/eli/oc/2005/411)).
+[^t-3]: Art. 1 cpv. 2 del DF del 15 dic. 2004 ([RU 2005 2391](https://fedlex.data.admin.ch/eli/oc/2005/411)).

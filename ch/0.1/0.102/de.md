@@ -3,11 +3,11 @@ sr: "0.102"
 title: Europäische Charta der kommunalen Selbstverwaltung vom 15. Oktober 1985
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/412"
 language: de
-version: 2016-04-28
+version: 2022-03-16
 adopted: 1985-10-15
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/412/20160428/de/xml/fedlex-data-admin-ch-eli-cc-2005-412-20160428-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/412/20160428/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/412/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2005-412-20220316-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/412/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/412/20160428/de"
 
 AS **2005** 2393; BBl **2004** 79
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Strassburg am 15. Oktober 1985
 
-Von der Bundesversammlung genehmigt am 15. Dezember 2004[^t-2]
+Von der Bundesversammlung genehmigt am 15. Dezember 2004[^t-1]
 
 Ratifikationsurkunde von der Schweiz hinterlegt am 17. Februar 2005
 
 In Kraft getreten für die Schweiz am 1. Juni 2005
 
-(Stand am 28. April 2016)
+(Stand am 16. März 2022)
 
-[^t-1]: Übersetzung des französischen Originaltexts.
-[^t-2]: [AS 2005 2391](https://fedlex.data.admin.ch/eli/oc/2005/411)
+[^t-1]: [AS 2005 2391](https://fedlex.data.admin.ch/eli/oc/2005/411)
 
 *Präambel*
 
@@ -240,7 +239,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten diese Charta unterschrieben. Geschehen zu Strassburg, am 15. Oktober 1985 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 28. April 2016**[^t-3]**
+Geltungsbereich am 16. März 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -254,7 +253,7 @@ Geltungsbereich am 28. April 2016**[^t-3]**
 <tr><td>Dänemark\* <sup>a</sup></td><td>3. Februar</td><td>1988</td><td>1. September</td><td>1988</td></tr>
 <tr><td>Deutschland\*</td><td>17. Mai</td><td>1988</td><td>1. September</td><td>1988</td></tr>
 <tr><td>Estland\*</td><td>16. Dezember</td><td>1994</td><td>1. April</td><td>1995</td></tr>
-<tr><td>Finnland</td><td>3. Juni</td><td>1991</td><td>1. Oktober</td><td>1991</td></tr>
+<tr><td>Finnland\*</td><td>3. Juni</td><td>1991</td><td>1. Oktober</td><td>1991</td></tr>
 <tr><td>Frankreich\*</td><td>17. Januar</td><td>2007</td><td>1. Mai</td><td>2007</td></tr>
 <tr><td>Georgien\*</td><td>8. Dezember</td><td>2004</td><td>1. April</td><td>2005</td></tr>
 <tr><td>Griechenland\*</td><td>6. September</td><td>1989</td><td>1. Januar</td><td>1990</td></tr>
@@ -267,17 +266,16 @@ Geltungsbereich am 28. April 2016**[^t-3]**
 <tr><td>Litauen</td><td>22. Juni</td><td>1999</td><td>1. Oktober</td><td>1999</td></tr>
 <tr><td>Luxemburg</td><td>15. Mai</td><td>1987</td><td>1. September</td><td>1988</td></tr>
 <tr><td>Malta\*</td><td>6. September</td><td>1993</td><td>1. Januar</td><td>1994</td></tr>
-<tr><td>Mazedonien</td><td>6. Juni</td><td>1997</td><td>1. Oktober</td><td>1997</td></tr>
 <tr><td>Moldau</td><td>2. Oktober</td><td>1997</td><td>1. Februar</td><td>1998</td></tr>
 <tr><td>Monaco\*</td><td>10. Januar</td><td>2013</td><td>1. Mai</td><td>2013</td></tr>
 <tr><td>Montenegro</td><td>12. September</td><td>2008</td><td>1. Januar</td><td>2009</td></tr>
 <tr><td>Niederlande\* <sup>b</sup></td><td>20. März</td><td>1991</td><td>1. Juli</td><td>1991</td></tr>
+<tr><td>Nordmazedonien</td><td>6. Juni</td><td>1997</td><td>1. Oktober</td><td>1997</td></tr>
 <tr><td>Norwegen</td><td>26. Mai</td><td>1989</td><td>1. September</td><td>1989</td></tr>
 <tr><td>Österreich\*</td><td>23. September</td><td>1987</td><td>1. September</td><td>1988</td></tr>
 <tr><td>Polen</td><td>22. November</td><td>1993</td><td>1. März</td><td>1994</td></tr>
 <tr><td>Portugal</td><td>18. Dezember</td><td>1990</td><td>1. April</td><td>1991</td></tr>
 <tr><td>Rumänien\*</td><td>28. Januar</td><td>1998</td><td>1. Mai</td><td>1998</td></tr>
-<tr><td>Russland</td><td>5. Mai</td><td>1998</td><td>1. September</td><td>1998</td></tr>
 <tr><td>San Marino\*</td><td>29. Oktober</td><td>2013</td><td>1. Februar</td><td>2014</td></tr>
 <tr><td>Schweden\*</td><td>29. August</td><td>1989</td><td>1. Dezember</td><td>1989</td></tr>
 <tr><td>Schweiz\*</td><td>17. Februar</td><td>2005</td><td>1. Juni</td><td>2005</td></tr>
@@ -291,14 +289,14 @@ Geltungsbereich am 28. April 2016**[^t-3]**
 <tr><td>Ungarn</td><td>21. März</td><td>1994</td><td>1. Juli</td><td>1994</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>24. April</td><td>1998</td><td>1. August</td><td>1998</td></tr>
 <tr><td>Zypern\*</td><td>16. Mai</td><td>1988</td><td>1. September</td><td>1988</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Charta findet keine Anwendung auf Grönland und die Färöer. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Charta findet keine Anwendung auf Grönland und die Färöer. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2005 2393](https://fedlex.data.admin.ch/eli/oc/2005/412), [2010 709](https://fedlex.data.admin.ch/eli/oc/2010/107), [2013 1231](https://fedlex.data.admin.ch/eli/oc/2013/269)und [2016 1321](https://fedlex.data.admin.ch/eli/oc/2016/262). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2005 2393](https://fedlex.data.admin.ch/eli/oc/2005/412); [2010 709](https://fedlex.data.admin.ch/eli/oc/2010/107); [2013 1231](https://fedlex.data.admin.ch/eli/oc/2013/269); [2016 1321](https://fedlex.data.admin.ch/eli/oc/2016/262); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Eine aktualisierte Fassung des Geltungsbereichs dieser Übereinkommen und Protokolle ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
 
 Erklärungen
 
-**Schweiz**[^t-4]
+**Schweiz**[^t-3]
 
 Gemäss Artikel 12 Absatz 2 der Europäischen Charta der kommunalen Selbstverwaltung erklärt die Schweiz, dass sie die folgenden Artikel und Absätze für sich als bindend ansieht:
 
@@ -315,4 +313,4 @@ Gemäss Artikel 12 Absatz 2 der Europäischen Charta der kommunalen Selbstverwal
 
 Gemäss Artikel 13 der Charta gilt diese in der Schweiz für die Einwohnergemeinden (‹communes politiques›/‹comuni politici›).
 
-[^t-4]: Art. 1 Abs. 2 des BB vom 15. Dez. 2004 (AS **2005** 2391).
+[^t-3]: Art. 1 Abs. 2 des BB vom 15. Dez. 2004 ([AS 2005 2391](https://fedlex.data.admin.ch/eli/oc/2005/411)).

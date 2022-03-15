@@ -3,11 +3,11 @@ sr: "0.102"
 title: "Charte européenne de l'autonomie locale du 15 octobre 1985"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/412"
 language: fr
-version: 2016-04-28
+version: 2022-03-16
 adopted: 1985-10-15
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/412/20160428/fr/xml/fedlex-data-admin-ch-eli-cc-2005-412-20160428-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/412/20160428/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/412/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2005-412-20220316-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/412/20220316/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,27 +26,27 @@ Instrument de ratification déposé par la Suisse le 17 février 2005
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juin 2005
 
-(Etat le 28 avril 2016)
+(État le 16 mars 2022)
 
 [^t-1]: [RO 2005 2391](https://fedlex.data.admin.ch/eli/oc/2005/411)
 
 *Préambule*
 
-Les Etats membres du Conseil de l’Europe, signataires de la présente Charte,
+Les États membres du Conseil de l’Europe, signataires de la présente Charte,
 
-considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres afin de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun;
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres afin de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun,
 
-considérant qu’un des moyens par lesquels ce but sera réalisé est la conclusion d’accords dans le domaine administratif;
+considérant qu’un des moyens par lesquels ce but sera réalisé est la conclusion d’accords dans le domaine administratif,
 
-considérant que les collectivités locales sont l’un des principaux fondements de tout régime démocratique;
+considérant que les collectivités locales sont l’un des principaux fondements de tout régime démocratique,
 
-considérant que le droit des citoyens de participer à la gestion des affaires publiques fait partie des principes démocratiques communs à tous les Etats membres du Conseil de l’Europe;
+considérant que le droit des citoyens de participer à la gestion des affaires publiques fait partie des principes démocratiques communs à tous les États membres du Conseil de l’Europe,
 
-convaincus que c’est au niveau local que ce droit peut être exercé le plus directement;
+convaincus que c’est au niveau local que ce droit peut être exercé le plus directement,
 
-convaincus que l’existence de collectivités locales investies de responsabilités effectives permet une administration à la fois efficace et proche du citoyen;
+convaincus que l’existence de collectivités locales investies de responsabilités effectives permet une administration à la fois efficace et proche du citoyen,
 
-conscients du fait que la défense et le renforcement de l’autonomie locale dans les différents pays d’Europe représentent une contribution importante à la construction d’une Europe fondée sur les principes de la démocratie et de la décentralisation du pouvoir;
+conscients du fait que la défense et le renforcement de l’autonomie locale dans les différents pays d’Europe représentent une contribution importante à la construction d’une Europe fondée sur les principes de la démocratie et de la décentralisation du pouvoir,
 
 affirmant que cela suppose l’existence de collectivités locales dotées d’organes de décision démocratiquement constitués et bénéficiant d’une large autonomie quant aux compétences, aux modalités d’exercice de ces dernières et aux moyens nécessaires à l’accomplissement de leur mission,
 
@@ -98,7 +98,7 @@ Pour toute modification des limites territoriales locales, les collectivités lo
 
 **Adéquation des structures et des moyens administratifs aux missions des collectivités locales**
 
-\1. Sans préjudice de dispositions plus générales créées par la loi, les collectivités locales doivent pouvoir définir elles‑mêmes les structures administratives internes dont elles entendent se doter, en vue de les adapter à leurs besoins spécifiques et afin de permettre une gestion efficace.
+<sup>1.</sup> Sans préjudice de dispositions plus générales créées par la loi, les collectivités locales doivent pouvoir définir elles‑mêmes les structures administratives internes dont elles entendent se doter, en vue de les adapter à leurs besoins spécifiques et afin de permettre une gestion efficace.
 
 <sup>2.</sup> Le statut du personnel des collectivités locales doit permettre un recrutement de qualité, fondé sur les principes du mérite et de la compétence; à cette fin, il doit réunir des conditions adéquates de formation, de rémunération et de perspectives de carrière.
 
@@ -148,9 +148,9 @@ Pour toute modification des limites territoriales locales, les collectivités lo
 
 <sup>1.</sup> Les collectivités locales ont le droit, dans l’exercice de leurs compétences, de coopérer et, dans le cadre de la loi, de s’associer avec d’autres collectivités locales pour la réalisation de tâches d’intérêt commun.
 
-<sup>2.</sup> Le droit des collectivités locales d’adhérer à une association pour la protection et la promotion de leurs intérêts communs et celui d’adhérer à une association internationale de collectivités locales doivent être reconnus dans chaque Etat.
+<sup>2.</sup> Le droit des collectivités locales d’adhérer à une association pour la protection et la promotion de leurs intérêts communs et celui d’adhérer à une association internationale de collectivités locales doivent être reconnus dans chaque État.
 
-<sup>3.</sup> Les collectivités locales peuvent, dans des conditions éventuellement prévues par la loi, coopérer avec les collectivités d’autres Etats.
+<sup>3.</sup> Les collectivités locales peuvent, dans des conditions éventuellement prévues par la loi, coopérer avec les collectivités d’autres États.
 
 #### Art. 11
 
@@ -178,7 +178,7 @@ Toute Partie s’engage à se considérer comme liée par vingt au moins des par
 - – art. 10, par. 1,
 - – art. 11.
 
-<sup>2.</sup> Chaque Etat contractant, au moment du dépôt de son instrument de ratification, d’acceptation ou d’approbation, notifie au Secrétaire Général du Conseil de l’Europe les paragraphes choisis conformément à la disposition du par. 1 du présent article.
+<sup>2.</sup> Chaque État contractant, au moment du dépôt de son instrument de ratification, d’acceptation ou d’approbation, notifie au Secrétaire Général du Conseil de l’Europe les paragraphes choisis conformément à la disposition du par. 1 du présent article.
 
 <sup>3.</sup> Toute Partie peut, à tout moment ultérieur, notifier au Secrétaire Général qu’elle se considère comme liée par tout autre paragraphe de la présente Charte, qu’elle n’avait pas encore accepté conformément aux dispositions du par. 1 du présent article. Ces engagements ultérieurs seront réputés partie intégrante de la ratification, de l’acceptation ou de l’approbation de la Partie faisant la notification et porteront les mêmes effets dès le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la notification par le Secrétaire Général.
 
@@ -200,19 +200,19 @@ Chaque Partie transmet au Secrétaire Général du Conseil de l’Europe toute i
 
 **Signature, ratification, entrée en vigueur**
 
-<sup>1.</sup> La présente Charte est ouverte à la signature des Etats membres du Conseil de l’Europe. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
+<sup>1.</sup> La présente Charte est ouverte à la signature des États membres du Conseil de l’Europe. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
-<sup>2.</sup> La présente Charte entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle quatre Etats membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Charte, conformément aux dispositions du paragraphe précédent.
+<sup>2.</sup> La présente Charte entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle quatre États membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Charte, conformément aux dispositions du paragraphe précédent.
 
-<sup>3.</sup> Pour tout Etat membre qui exprimera ultérieurement son consentement à être lié par la Charte, celle‑ci entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
+<sup>3.</sup> Pour tout État membre qui exprimera ultérieurement son consentement à être lié par la Charte, celle‑ci entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 16
 
 **Clause territoriale**
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Charte.
+<sup>1.</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Charte.
 
-<sup>2.</sup> Tout Etat peut, à tout autre moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Charte à tout autre territoire désigné dans la déclaration. La Charte entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
+<sup>2.</sup> Tout État peut, à tout autre moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Charte à tout autre territoire désigné dans la déclaration. La Charte entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
 
 <sup>3.</sup> Toute déclaration faite en vertu des deux paragraphes précédents pourra être retirée, en ce qui concerne tout territoire désigné dans cette déclaration, par notification adressée au Secrétaire Général. Le retrait prendra effet le premier jour du mois qui suit l’expiration d’une période de six mois après la date de réception de la notification par le Secrétaire Général.
 
@@ -228,7 +228,7 @@ Chaque Partie transmet au Secrétaire Général du Conseil de l’Europe toute i
 
 **Notifications**
 
-Le Secrétaire Général du Conseil de l’Europe notifie aux Etats membres du Conseil:
+Le Secrétaire Général du Conseil de l’Europe notifie aux États membres du Conseil:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation ou d’approbation;
@@ -237,12 +237,12 @@ Le Secrétaire Général du Conseil de l’Europe notifie aux Etats membres du C
 - e. toute notification reçue en application des dispositions de l’art. 13;
 - f. tout autre acte, notification ou communication ayant trait à la présente Charte.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Charte. Fait à Strasbourg, le 15 octobre 1985, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Charte. Fait à Strasbourg, le 15 octobre 1985, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe. (Suivent les signatures)
 
-Champ d’application le 28 avril 2016**[^t-2]**
+Champ d’application le 16 mars 2022[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>4 avril</td><td>2000</td><td>1<sup>er</sup> août</td><td>2000</td></tr>
 <tr><td>Allemagne\*</td><td>17 mai</td><td>1988</td><td>1<sup>er</sup> septembre</td><td>1988</td></tr>
 <tr><td>Andorre\*</td><td>23 mars</td><td>2011</td><td>1<sup>er</sup> juillet</td><td>2011</td></tr>
@@ -257,7 +257,7 @@ Champ d’application le 28 avril 2016**[^t-2]**
 <tr><td>Danemark\* <sup>a</sup></td><td>3 février</td><td>1988</td><td>1<sup>er</sup> septembre</td><td>1988</td></tr>
 <tr><td>Espagne\*</td><td>8 novembre</td><td>1988</td><td>1<sup>er</sup> mars</td><td>1989</td></tr>
 <tr><td>Estonie\*</td><td>16 décembre</td><td>1994</td><td>1<sup>er</sup> avril</td><td>1995</td></tr>
-<tr><td>Finlande</td><td>3 juin</td><td>1991</td><td>1<sup>er</sup> octobre</td><td>1991</td></tr>
+<tr><td>Finlande\*</td><td>3 juin</td><td>1991</td><td>1<sup>er</sup> octobre</td><td>1991</td></tr>
 <tr><td>France\*</td><td>17 janvier</td><td>2007</td><td>1<sup>er</sup> mai</td><td>2007</td></tr>
 <tr><td>Géorgie\*</td><td>8 décembre</td><td>2004</td><td>1<sup>er</sup> avril</td><td>2005</td></tr>
 <tr><td>Grèce\*</td><td>6 septembre</td><td>1989</td><td>1<sup>er</sup> janvier</td><td>1990</td></tr>
@@ -269,7 +269,7 @@ Champ d’application le 28 avril 2016**[^t-2]**
 <tr><td>Liechtenstein\*</td><td>11 mai</td><td>1988</td><td>1<sup>er</sup> septembre</td><td>1988</td></tr>
 <tr><td>Lituanie</td><td>22 juin</td><td>1999</td><td>1<sup>er</sup> octobre</td><td>1999</td></tr>
 <tr><td>Luxembourg</td><td>15 mai</td><td>1987</td><td>1<sup>er</sup> septembre</td><td>1988</td></tr>
-<tr><td>Macédoine</td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> octobre</td><td>1997</td></tr>
+<tr><td>Macédoine du Nord</td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> octobre</td><td>1997</td></tr>
 <tr><td>Malte\*</td><td>6 septembre</td><td>1993</td><td>1<sup>er</sup> janvier</td><td>1994</td></tr>
 <tr><td>Moldova</td><td>2 octobre</td><td>1997</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
 <tr><td>Monaco\*</td><td>10 janvier</td><td>2013</td><td>1<sup>er</sup> mai</td><td>2013</td></tr>
@@ -281,7 +281,6 @@ Champ d’application le 28 avril 2016**[^t-2]**
 <tr><td>République tchèque\*</td><td>7 mai</td><td>1999</td><td>1<sup>er</sup> septembre</td><td>1999</td></tr>
 <tr><td>Roumanie\*</td><td>28 janvier</td><td>1998</td><td>1<sup>er</sup> mai</td><td>1998</td></tr>
 <tr><td>Royaume-Uni\*</td><td>24 avril</td><td>1998</td><td>1<sup>er</sup> août</td><td>1998</td></tr>
-<tr><td>Russie</td><td>5 mai</td><td>1998</td><td>1<sup>er</sup> septembre</td><td>1998</td></tr>
 <tr><td>Saint-Marin<sup>\*</sup></td><td>29 octobre</td><td>2013</td><td>1<sup>er</sup> février</td><td>2014</td></tr>
 <tr><td>Serbie\*</td><td>6 septembre</td><td>2007</td><td>1<sup>er</sup> janvier</td><td>2008</td></tr>
 <tr><td>Slovaquie\*</td><td>1<sup>er</sup> février</td><td>2000</td><td>1<sup>er</sup> juin</td><td>2000</td></tr>
@@ -290,12 +289,10 @@ Champ d’application le 28 avril 2016**[^t-2]**
 <tr><td>Suisse\*</td><td>17 février</td><td>2005</td><td>1<sup>er</sup> juin</td><td>2005</td></tr>
 <tr><td>Turquie\*</td><td>9 décembre</td><td>1992</td><td>1<sup>er</sup> avril</td><td>1993</td></tr>
 <tr><td>Ukraine</td><td>11 septembre</td><td>1997</td><td>1<sup>er</sup> janvier</td><td>1998</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Charte ne s’applique pas au Groenland et aux Iles Féroé.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Charte ne s’applique pas au Groenland et aux Îles Féroé. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2005 2393](https://fedlex.data.admin.ch/eli/oc/2005/412), [2010 709](https://fedlex.data.admin.ch/eli/oc/2010/107), [2013 1231](https://fedlex.data.admin.ch/eli/oc/2013/269), [2016 1321](https://fedlex.data.admin.ch/eli/oc/2016/262). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2005 2393](https://fedlex.data.admin.ch/eli/oc/2005/412); [2010 709](https://fedlex.data.admin.ch/eli/oc/2010/107); [2013 1231](https://fedlex.data.admin.ch/eli/oc/2013/269); [2016 1321](https://fedlex.data.admin.ch/eli/oc/2016/262); [2022 248](https://fedlex.data.admin.ch/eli/oc/2022/248). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
 
 Déclarations
 
