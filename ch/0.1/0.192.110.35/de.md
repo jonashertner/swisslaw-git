@@ -3,11 +3,11 @@ sr: "0.192.110.35"
 title: Fünftes Zusatzprotokoll vom 18. Juni 1990 zum Allgemeinen Abkommen über die Vorrechte und Immunitäten des Europarates
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/718_718_718"
 language: de
-version: 2001-09-10
+version: 2022-03-16
 adopted: 1990-06-18
 in_force: 1994-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/718_718_718/20010910/de/xml/fedlex-data-admin-ch-eli-cc-1994-718_718_718-20010910-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/718_718_718/20010910/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/718_718_718/20220316/de/xml/fedlex-data-admin-ch-eli-cc-1994-718_718_718-20220316-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/718_718_718/20220316/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,9 +18,13 @@ AS **1994** 718
 
 Übersetzung
 
-Abgeschlossen in Strassburg am 18. Juni 1990 Von der Schweiz unterzeichnet am 15. Dezember 1993[^t-1] In Kraft getreten für die Schweiz am 1. April 1994
+Abgeschlossen in Strassburg am 18. Juni 1990
 
-(Stand am 10. September 2001)
+Von der Schweiz unterzeichnet am 15. Dezember 1993[^t-1]
+
+In Kraft getreten für die Schweiz am 1. April 1994
+
+(Stand am 16. März 2022)
 
 [^t-1]: Ohne Ratifikationsvorbehalt.
 
@@ -80,7 +84,7 @@ Der Generalsekretär des Europarates notifiziert den Mitgliedstaaten des Rates
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 18. Juni 1990 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einem einzigen Exemplar, das im Archiv des Europarates hinterlegt wird. Der Generalsekretär des Europarates übermittelt allen Mitgliedstaaten des Europarates beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich des Zusatzprotokolls am 10. September 2001
+Geltungsbereich am 16. März 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inlrafttreten</th><th></th></tr>
@@ -99,7 +103,6 @@ Geltungsbereich des Zusatzprotokolls am 10. September 2001
 <tr><td>Polen</td><td>22. April</td><td>1993</td><td>1. August</td><td>1993</td></tr>
 <tr><td>Portugal</td><td>12. Februar</td><td>1996 U</td><td>1. Juni</td><td>1996</td></tr>
 <tr><td>Rumänien</td><td>4. Oktober</td><td>1994 U</td><td>1. Februar</td><td>1995</td></tr>
-<tr><td>Russland</td><td>28. Februar</td><td>1996 U</td><td>1. Juni</td><td>1996</td></tr>
 <tr><td>Schweiz</td><td>15. Dezember</td><td>1993 U</td><td>1. April</td><td>1994</td></tr>
 <tr><td>Slowakei</td><td>15. Juli</td><td>1997</td><td>1. November</td><td>1997</td></tr>
 <tr><td>Slowenien</td><td>8. November</td><td>1994</td><td>1. März</td><td>1995</td></tr>
@@ -108,3 +111,5 @@ Geltungsbereich des Zusatzprotokolls am 10. September 2001
 <tr><td>Ungarn</td><td>12. Januar</td><td>1996</td><td>1. Mai</td><td>1996</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>19. Juli</td><td>1991</td><td>1. November</td><td>1991</td></tr>
 </table>
+
+[^t-2]: [AS 1994 718](https://fedlex.data.admin.ch/eli/oc/1994/718_718_718); [2001 2892](https://fedlex.data.admin.ch/eli/oc/2001/432); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20)

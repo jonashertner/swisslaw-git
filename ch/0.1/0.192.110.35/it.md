@@ -3,11 +3,11 @@ sr: "0.192.110.35"
 title: "Quinto Protocollo addizionale del 18 giugno 1990 all'Accordo generale su i Privilegi e le Immunità del Consiglio d'Europa"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/718_718_718"
 language: it
-version: 2001-09-10
+version: 2022-03-16
 adopted: 1990-06-18
 in_force: 1994-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/718_718_718/20010910/it/xml/fedlex-data-admin-ch-eli-cc-1994-718_718_718-20010910-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/718_718_718/20010910/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/718_718_718/20220316/it/xml/fedlex-data-admin-ch-eli-cc-1994-718_718_718-20220316-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/718_718_718/20220316/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Firmato dalla Svizzera il 15 dicembre 1993[^t-1]
 
 Entrato in vigore per la Svizzera il 1° aprile 1994
 
-(Stato 10 settembre 2001)
+(Stato 16 marzo 2022)
 
 [^t-1]: Senza riserva di ratificazione.
 
@@ -86,7 +86,7 @@ Il Segretario generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che,* i sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Strasburgo il 18 giugno 1990 in francese e in inglese, i due testi facenti parimenti fede, in un unico esemplare che sarà depositato presso gli Archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne comunicherà una copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa. (Seguono le firme)
 
-Campo d’applicazione del Quinto Protocollo addizionale il 10 settembre 2001
+Campo d’applicazione il 16 marzo 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratificazione Firma senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -107,10 +107,11 @@ Campo d’applicazione del Quinto Protocollo addizionale il 10 settembre 2001
 <tr><td>Polonia</td><td>22 aprile</td><td>1993</td><td>1° agosto</td><td>1993</td></tr>
 <tr><td>Portogallo</td><td>12 febbraio</td><td>1996 F</td><td>1° giugno</td><td>1996</td></tr>
 <tr><td>Romania</td><td>4 ottobre</td><td>1994 F</td><td>1° febbraio</td><td>1995</td></tr>
-<tr><td>Russia</td><td>28 febbraio</td><td>1996 F</td><td>1° giugno</td><td>1996</td></tr>
 <tr><td>Slovacchia</td><td>15 luglio</td><td>1997</td><td>1° novembre</td><td>1997</td></tr>
 <tr><td>Slovenia</td><td>8 novembre</td><td>1994</td><td>1° marzo</td><td>1995</td></tr>
 <tr><td>Svizzera</td><td>15 dicembre</td><td>1993 F</td><td>1° aprile</td><td>1994</td></tr>
 <tr><td>Turchia</td><td>1° giugno</td><td>1994</td><td>1° ottobre</td><td>1994</td></tr>
 <tr><td>Ungheria</td><td>12 gennaio</td><td>1996</td><td>1° maggio</td><td>1996</td></tr>
 </table>
+
+[^t-2]: [RU 1994 718](https://fedlex.data.admin.ch/eli/oc/1994/718_718_718); [2001 2892](https://fedlex.data.admin.ch/eli/oc/2001/432); [2023 382](https://fedlex.data.admin.ch/eli/oc/2023/382). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
