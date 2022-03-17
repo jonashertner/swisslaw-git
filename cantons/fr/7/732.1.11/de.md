@@ -4,13 +4,13 @@ number: "732.1.11"
 title: "Reglement über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden"
 short: KGVR
 language: de
-version: 2022-02-01
-valid_until: 2022-03-17
+version: 2022-03-18
+valid_until: 2022-12-31
 version_adopted: 2022-03-18
 adopted: 2018-06-18
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/732.1.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7348/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7437/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gebäudeversicherung, Prävention und Hilfeleistungen bei Brand – R
 
 (KGVR)
 
-vom 18.06.2018 (Fassung in Kraft getreten am 01.02.2022)
+vom 18.06.2018 (Fassung in Kraft getreten am 18.03.2022)
 
 Der Staatsrat des Kantons Freiburg
 
