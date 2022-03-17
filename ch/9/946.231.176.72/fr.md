@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2022-03-16
+version: 2022-03-18
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220316-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220318/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220318-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220318/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (Etat le 16 mars 2022)
+du 4 mars 2022 (Etat le 18 mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -390,7 +390,7 @@ Les interdictions visées aux al. 1 et 2 ne s’appliquent pas aux tirages ou d�
 
 **Interdiction d’accepter des dépôts**
 
-<sup>1</sup> Il est interdit d’accepter des dépôts de ressortissants russes ou de personnes physiques résidant en Fédération de Russie, ou debanques, d’entreprises ou d’entités établies en Fédération de Russie si la valeur totale des dépôts de la personne physique ou morale, de l’entreprise ou de l’entité dépasse 100 000 francs par des banques ou des personnes autorisées selon l’art. 1*b* de la loi du 8 novembre 1934 sur les banques (LB)[^20-1].
+<sup>1</sup> Il est interdit d’accepter des dépôts de ressortissants russes ou de personnes physiques résidant en Fédération de Russie, ou debanques, d’entreprises ou d’entités établies en Fédération de Russie si la valeur totale des dépôts de la personne physique ou morale, de l’entreprise ou de l’entité dépasse 100 000 francs par des banques ou des personnes autorisées selon l’art. 1*b* de la loi du 8 novembre 1934 sur les banques (LB)[^20-1].[^20-2]
 
 <sup>2</sup>
 
@@ -410,14 +410,16 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 - e. à la sauvegarde des intérêts suisses.
 
 [^20-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^20-2]: Erratum du 18 mars 2022, ne concerne que le texte allemand ([RO 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
 
 #### Art. 21
 
 **Déclaration obligatoire relative aux dépôts existants**
 
-Les banques ou les personnes autorisées selon l’art. 1*b* LB[^21-1] fournissent au SECO, au plus tard le 3 juin 2022, une liste des dépôts supérieurs à 100 000 francs détenus par des ressortissants russes ou des personnes physiques résidant en Fédération de Russie, ou par des banques, entreprises ou entités établies en Fédération de Russie. Tous les 12 mois, elles fournissent des mises à jour concernant le montant de ces dépôts.
+Les banques ou les personnes autorisées selon l’art. 1*b* LB[^21-1] fournissent au SECO, au plus tard le 3 juin 2022, une liste des dépôts supérieurs à 100 000 francs détenus par des ressortissants russes ou des personnes physiques résidant en Fédération de Russie, ou par des banques, entreprises ou entités établies en Fédération de Russie. Tous les 12 mois, elles fournissent des mises à jour concernant le montant de ces dépôts.[^21-2]
 
 [^21-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^21-2]: Erratum du 18 mars 2022, ne concerne que le texte allemand ([RO 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
 
 #### Art. 22
 
@@ -431,9 +433,11 @@ Les banques ou les personnes autorisées selon l’art. 1*b* LB[^21-1] fournisse
 
 **Interdiction de vente de valeurs mobilières**
 
-<sup>1</sup> Il est interdit de vendre des valeurs mobilières libellées en francs suisses ou en euros émises après le 12 avril 2022 ou des parts d’organismes de placement collectif offrant une exposition à ces valeurs, à tout ressortissant russe, à toute personne physique résidant en Fédération de Russie ou à toute banque, entreprise ou entité établie en Fédération de Russie.
+<sup>1</sup> Il est interdit de vendre des valeurs mobilières libellées en francs suisses ou en euros émises après le 12 avril 2022 ou des parts d’organismes de placement collectif offrant une exposition à ces valeurs, à tout ressortissant russe, à toute personne physique résidant en Fédération de Russie ou à toute banque, entreprise ou entité établie en Fédération de Russie.[^23-1]
 
 <sup>2</sup> Cette interdiction ne s’applique pas aux ressortissants suisses, d’un État membre de l’Union européenne ni aux personnes titulaires d’un titre de séjour temporaire ou permanent en Suisse ou dans un État membre de l’Union européenne.
+
+[^23-1]: Erratum du 18 mars 2022, ne concerne que le texte italien ([RO 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
 
 #### Art. 24
 

@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-03-16
+version: 2022-03-18
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220316-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220316/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220318/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220318-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220318/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 16 marzo 2022) (Stato 16 marzo 2022)
+del 4 marzo 2022 (Stato 18 marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -390,7 +390,7 @@ I divieti di cui ai capoversi 1 e 2 non si applicano all’utilizzo di fondi o a
 
 **Divieto di accettare depositi**
 
-<sup>1</sup> A banche o persone autorizzate secondo l’articolo 1*b* della legge dell’8 novembre 1934[^20-1] sulle banche (LBCR) è vietato accettare depositi di cittadini russi o di persone fisiche residenti nella Federazione Russa o di imprese o organizzazioni stabilite nella Federazione Russa se il valore totale dei depositi della persona fisica o giuridica, dell’impresa o delle organizzazioni è superiore a 100 000 franchi.
+<sup>1</sup> A banche o persone autorizzate secondo l’articolo 1*b* della legge dell’8 novembre 1934[^20-1] sulle banche (LBCR) è vietato accettare depositi di cittadini russi o di persone fisiche residenti nella Federazione Russa o di imprese o organizzazioni stabilite nella Federazione Russa se il valore totale dei depositi della persona fisica o giuridica, dell’impresa o delle organizzazioni è superiore a 100 000 franchi.[^20-2]
 
 <sup>2</sup>
 
@@ -410,14 +410,16 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - e. tutelare gli interessi svizzeri.
 
 [^20-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^20-2]: La correzzione del 18 mar. 2022 concerne soltanto il testo tedesco ([RU 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
 
 #### Art. 21
 
 **Dichiarazione obbligatoria relativa ai depositi esistenti**
 
-Le banche o le persone autorizzate secondo l’articolo 1*b* LBCR[^21-1] forniscono alla SECO, entro il 3 giugno 2022, un elenco dei depositi superiori a 100 000 franchi detenuti da cittadini russi o persone fisiche residenti nella Federazione Russa o da banche, imprese o organizzazioni stabilite nella Federazione Russa. Essi forniscono aggiornamenti sugli importi di tali depositi ogni 12 mesi.
+Le banche o le persone autorizzate secondo l’articolo 1*b* LBCR[^21-1] forniscono alla SECO, entro il 3 giugno 2022, un elenco dei depositi superiori a 100 000 franchi detenuti da cittadini russi o persone fisiche residenti nella Federazione Russa o da banche, imprese o organizzazioni stabilite nella Federazione Russa. Essi forniscono aggiornamenti sugli importi di tali depositi ogni 12 mesi.[^21-2]
 
 [^21-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^21-2]: La correzzione del 18 mar. 2022 concerne soltanto il testo tedesco ([RU 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
 
 #### Art. 22
 
@@ -431,9 +433,11 @@ Le banche o le persone autorizzate secondo l’articolo 1*b* LBCR[^21-1] fornisc
 
 **Divieto di vendere valori mobiliari**
 
-<sup>1</sup> È vietato vendere valori mobiliari denominati in franchi svizzeri emessi dopo il 12 aprile 2022, o quote di organismi di investimento collettivo che offrono esposizioni verso tali valori, a qualsiasi cittadino russo o persona fisica residente nella Federazione Russa, o a qualsiasi banca, impresa o organizzazione stabilita nella Federazione Russa.
+<sup>1</sup> È vietato vendere valori mobiliari denominati in franchi svizzeri o in euro emessi dopo il 12 aprile 2022, o quote di organismi di investimento collettivo che offrono esposizioni verso tali valori, a qualsiasi cittadino russo o persona fisica residente nella Federazione Russa, o a qualsiasi banca, impresa o organizzazione stabilita nella Federazione Russa.[^23-1]
 
 <sup>2</sup> Questo divieto non si applica ai cittadini svizzeri, ai cittadini di uno Stato membro dell’Unione europea o alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera o in uno Stato membro dell’Unione europea.
+
+[^23-1]: Correzione del 18 mar. 2022 ([RU 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
 
 #### Art. 24
 

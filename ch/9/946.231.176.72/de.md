@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-03-16
+version: 2022-03-18
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220316-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220316/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20220318/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20220318-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20220318/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 16. März 2022)
+vom 4. März 2022 (Stand am 18. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -390,7 +390,7 @@ Die Verbote nach den Absätzen 1 und 2 gelten nicht für Bezüge und Auszahlunge
 
 **Verbot der Entgegennahme von Einlagen**
 
-<sup>1</sup> Es ist verboten, Einlagen von russischen Staatsangehörigen oder in der Russischen Föderation ansässigen natürlichen Personen oder von in der Russischen Föderation niedergelassenen Unternehmen oder Organisationen entgegenzunehmen, wenn der Gesamtwert der Einlagen der natürlichen oder juristischen Person, des Unternehmens oder der Organisation pro nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^20-1] (BankG) bewilligte Bank oder Person 100 000 Franken übersteigt.
+<sup>1</sup> Es ist verboten, Einlagen von russischen Staatsangehörigen oder in der Russischen Föderation ansässigen natürlichen Personen oder von in der Russischen Föderation niedergelassenen Unternehmen oder Organisationen entgegenzunehmen, wenn der Gesamtwert der Einlagen der natürlichen oder juristischen Person, des Unternehmens oder der Organisation pro Bank oder nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^20-1] (BankG) bewilligte Person 100 000 Franken übersteigt.[^20-2]
 
 <sup>2</sup>
 
@@ -410,14 +410,16 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 - e. zur Wahrung schweizerischer Interessen.
 
 [^20-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^20-2]: Berichtigung vom 18. März 2022 ([AS 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
 
 #### Art. 21
 
 **Meldepflicht für bestehende Einlagen**
 
-Nach Artikel 1*b* BankG[^21-1] bewilligte Banken oder Personen sind verpflichtet, dem SECO bis zum 3. Juni 2022 eine Liste der 100 000 Franken übersteigenden Einlagen von russischen Staatsangehörigen oder in der Russischen Föderation ansässigen natürlichen Personen oder von in der Russischen Föderation niedergelassenen Banken, Unternehmen oder Organisationen zu übermitteln. Sie legen alle zwölf Monate aktuelle Informationen über die Höhe dieser Einlagen vor.
+Banken oder nach Artikel 1*b* BankG[^21-1] bewilligte Personen sind verpflichtet, dem SECO bis zum 3. Juni 2022 eine Liste der 100 000 Franken übersteigenden Einlagen von russischen Staatsangehörigen oder in der Russischen Föderation ansässigen natürlichen Personen oder von in der Russischen Föderation niedergelassenen Banken, Unternehmen oder Organisationen zu übermitteln. Sie legen alle zwölf Monate aktuelle Informationen über die Höhe dieser Einlagen vor.[^21-2]
 
 [^21-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^21-2]: Berichtigung vom 18. März 2022 ([AS 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
 
 #### Art. 22
 
@@ -431,9 +433,11 @@ Nach Artikel 1*b* BankG[^21-1] bewilligte Banken oder Personen sind verpflichtet
 
 **Verbot des Verkaufs von übertragbaren Wertpapieren**
 
-<sup>1</sup> Es ist verboten, auf Schweizerfranken oder auf Euro lautende übertragbare Wertpapiere, die nach dem 12. April 2022 begeben werden, oder Anteile an Organismen für gemeinsame Anlagen, die in diesen Wertpapieren investiert sind, an russische Staatsangehörige oder in der Russischen Föderation ansässige natürliche Personen oder an in der Russischen Föderation niedergelassene Banken, Unternehmen oder Organisationen zu verkaufen.
+<sup>1</sup> Es ist verboten, auf Schweizerfranken oder auf Euro lautende übertragbare Wertpapiere, die nach dem 12. April 2022 begeben werden, oder Anteile an Organismen für gemeinsame Anlagen, die in diesen Wertpapieren investiert sind, an russische Staatsangehörige oder in der Russischen Föderation ansässige natürliche Personen oder an in der Russischen Föderation niedergelassene Banken, Unternehmen oder Organisationen zu verkaufen.[^23-1]
 
 <sup>2</sup> Dieses Verbot gilt nicht für Schweizer Staatsangehörige, Staatsangehörige eines Mitgliedstaats der Europäischen Union und für natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz oder eines Mitgliedstaats der Europäischen Union verfügen.
+
+[^23-1]: Die Berichtigung vom 18. März 2022 betrifft nur den italienischen Text ([AS 2022 183](https://fedlex.data.admin.ch/eli/oc/2022/183)).
 
 #### Art. 24
 
