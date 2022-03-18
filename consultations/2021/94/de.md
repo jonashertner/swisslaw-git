@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesbeschlüsse über die Einführung des automatischen Informationsaustauschs über Finanzkonten mit weiteren Partnerstaaten ab 2023/2024
 document: Vernehmlassungsvorlage
 language: de

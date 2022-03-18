@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Decreti federali concernente l’introduzione dello scambio automatico di informazioni relative a conti finanziari con altri Stati partner a partire dal 2023/ 2024
 document: Progetto posto in consultazione
 language: it
