@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über Fernmeldedienste (FDV)
 document: Vernehmlassungsvorlage
 language: de
