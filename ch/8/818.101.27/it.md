@@ -3,20 +3,20 @@ sr: "818.101.27"
 title: "Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l'epidemia di COVID-19 nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 traffico internazionale viaggiatori)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: it
-version: 2022-02-17
+version: 2022-03-21
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220217/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220217-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220321/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220321-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220321/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sui provvedimenti per combattere lʼepidemia di COVID-19 nel settore del traffico internazionale viaggiatori
+# Ordinanza sui provvedimenti per combattere lʼepidemia di COVID‑19 nel settore del traffico internazionale viaggiatori
 
-(Ordinanza COVID-19 traffico internazionale viaggiatori)**[^t-1]**
+(Ordinanza COVID-19 traffico internazionale viaggiatori)[^t-1]
 
-del 23 giugno 2021 (Stato 17 febbraio 2022)
+del 23 giugno 2021 (Stato 21 marzo 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -45,7 +45,7 @@ Disciplina per le persone che entrano in Svizzera da uno Stato o una regione con
 - b. l’obbligo di quarantena e di test;
 - c. l’esecuzione della quarantena.[^1-3]
 
-<sup>3</sup> ... [^1-4]
+<sup>3</sup> …[^1-4]
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^1-2]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
@@ -103,7 +103,7 @@ Le persone di cui all’articolo 3 devono registrare i loro dati di contatto pri
 
 <sup>2</sup> Le persone che entrano in Svizzera senza utilizzare un’impresa che trasporta persone secondo l’articolo 5 e che registrano i loro dati di contatto mediante schede di contatto devono conservare queste ultime per 14 giorni.[^4-3]
 
-[^4-1]: La piattaforma per la registrazione dei dati di contatto delle persone in entrata è accessibile all’indirizzo https://swissplf.admin.ch
+[^4-1]: La piattaforma per la registrazione dei dati di contatto delle persone in entrata è accessibile all’indirizzo https://swissplf.admin.ch.
 [^4-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 4 dic. 2021 ([RU 2021 814](https://fedlex.data.admin.ch/eli/oc/2021/814)).
 [^4-3]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -147,7 +147,7 @@ Non appena viene a conoscenza dell’entrata di una persona contagiata dal SARS-
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022, in vigore dal 22 gen. 2022 ([RU 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
-## Sezione 4: ...
+## Sezione 4: …
 
 #### Art. 7
 
@@ -171,11 +171,11 @@ Le persone che all’entrata in Svizzera non possono presentare un test con risu
 - b.[^8-4] a un test rapido per il SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^8-5], sempreché il test non sia basato solo sul prelievo di un campione dalla cavità nasale o su un campione salivare; oppure
 - c.[^8-6] a un’analisi immunologica di laboratorio degli antigeni SARS-CoV-2 secondo l’articolo 19 capoverso 1 lettera c dell’ordinanza del 4 giugno 2021[^8-7] sui certificati COVID-19.
 
-<sup>2bis</sup> ...[^8-8]
+<sup>2bis</sup> …[^8-8]
 
-<sup>3</sup> ...[^8-9]
+<sup>3</sup> …[^8-9]
 
-<sup>4</sup> ...[^8-10]
+<sup>4</sup> …[^8-10]
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^8-2]: Nuovo testo giusta il n. I dell’O del 16 feb. 2022, in vigore dal 17 feb. 2022 ([RU 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
@@ -230,13 +230,13 @@ Sono esentate dall’obbligo di test di cui allʼarticolo 8 e dallʼobbligo di q
 
 Sono inoltre esentate dall’obbligo di test di cui all’articolo 8:
 
-- a.[^9a-6] ...
+- a.[^9a-6] …
 - b. le persone che possono attestare mediante un certificato medico che, per motivi medici, non possono sottoporsi al test per il SARS-CoV-2.;
 - c.[^9a-7] le persone che entrano in Svizzera da regioni di cui all’allegato 1*a*, sempreché il corrispondente Stato o la corrispondente regione non figuri nell’allegato 1 numero 1;
 - d.[^9a-8] le persone che svolgono un’attività assolutamente necessaria in Svizzera per mantenere il funzionamento dei beneficiari istituzionali ai sensi dell’articolo 2 capoverso 1 della legge del 22 giugno 2007[^9a-9] sullo Stato ospite e che possono attestarlo con un certificato del Dipartimento federale degli affari esteri (DFAE);
 - e.[^9a-10] le persone che svolgono un’attività assolutamente necessaria in Svizzera per mantenere le relazioni diplomatiche e consolari della Svizzera e che possono attestarlo con un certificato del DFAE.
 
-<sup>2bis</sup> ...[^9a-11]
+<sup>2bis</sup> …[^9a-11]
 
 <sup>2ter</sup>
 
@@ -254,7 +254,7 @@ Sono esentate dallʼobbligo di quarantena di cui allʼarticolo 9 le persone che:
 - b. hanno soggiornato in uno Stato o in una regione di cui all’allegato 1 per meno di 24 ore come passeggeri in transito;
 - c. rientrano in Svizzera dopo aver partecipato a una manifestazione in uno Stato o in una regione di cui all’allegato 1 numero 1, se viene fornita la prova che la partecipazione e il soggiorno sono avvenuti nel rispetto di un piano di protezione specifico; per partecipazione a una manifestazione s’intende segnatamente la partecipazione, di norma professionale, a una gara sportiva, un evento culturale o un congresso specialistico per professionisti;
 - d. entrano in Svizzera da uno Stato o una regione di cui all’allegato 1 numero 1 per partecipare a una manifestazione. Per partecipazione a una manifestazione s’intende segnatamente la partecipazione, di norma professionale, a una gara sportiva, un evento culturale o un congresso specialistico per professionisti;
-- [tab] e. e f.[^9a-12] ... .[^9a-13]
+- [tab] e. e f.[^9a-12] … .[^9a-13]
 
 <sup>3</sup> Le deroghe di cui ai capoversi 1–2<sup>ter</sup> non si applicano alle persone che presentano sintomi di COVID-19, a meno che la persona interessata non possa attestare mediante un certificato medico che i sintomi sono riconducibili ad altra causa.[^9a-14]
 
@@ -283,7 +283,7 @@ Chi si deve sottoporre alla quarantena per le persone in entrata secondo l’art
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 19 gen. 2022, in vigore dal 22 gen. 2022 ([RU 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
-## Sezione 6: Controlli e notifiche****
+## Sezione 6: Controlli e notifiche
 
 [^sec6-1]
 
@@ -350,11 +350,11 @@ Le autorità di controllo alla frontiera possono controllare in funzione del ris
 
 La presente ordinanza entra in vigore il 26 giugno 2021 alle ore 00.00.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 2 cpv. 2 e 3, 3 cpv. 1, 9 cpv. 1 e 3, 9*a* cpv. 2 lett. c, nonché 12 cpv. 1)
 
-## Elenco degli Stati e delle regioni con una variante preoccupante del virus****
+## Elenco degli Stati e delle regioni con una variante preoccupante del virus
 
 [^annex1-lvlu1-1]
 
@@ -369,7 +369,7 @@ Questo elenco attualmente non contiene voci.
 
 Questo elenco attualmente non contiene voci.
 
-Allegato 1a*[^t-3]*
+Allegato 1a[^t-3]
 
 (art. 2 cpv. 4 e 9*a* cpv. 2 lett. c)
 
@@ -404,13 +404,13 @@ Regioni in Liechtenstein:
 
 - – tutto il Principato
 
-Allegato 2*[^t-4]*
+Allegato 2[^t-4]
 
-(art. 9*a* cpv. 2<sup>ter</sup> lett. e e f, nonché 12 cpv. 2)
+(art. 9*a* cpv. 1 lett. e e f nonché 12 cpv. 2)
 
 ## Persone vaccinate e guarite
 
-[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dall’all. n. 3 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale)([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)) e dal n. II dell’O del 16 feb. 2022, in vigore dal 17 feb. 2022 ([RU 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
+[^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), dal n. II dell’O del 16 feb. 2022 ([RU 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)) e dall’all. n. 1 dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
 ### 1 Persone vaccinate
 
@@ -423,7 +423,7 @@ Allegato 2*[^t-4]*
   - c. è stato approvato secondo la Lista per l’uso di emergenza dell’OMS ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
   - d. presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma è immesso in commercio da un licenziatario con un altro nome, a condizione che la vaccinazione sia avvenuta in modo completo conformemente ai requisiti o alle raccomandazioni dello Stato in cui è stata effettuata.
 
-- 1\.2 La durata di validità della vaccinazione è di 270 giorni a partire dalla vaccinazione completa; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen, la durata è di 270 giorni a partire dal 22° giorno dalla vaccinazione.
+- 1\.2 La durata di validità della vaccinazione è di 270 giorni a partire dalla vaccinazione completa o dopo una vaccinazione di richiamo dopo una vaccinazione completa; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen, la durata è di 270 giorni a partire dal 22° giorno dalla vaccinazione.
 - 1\.3 La vaccinazione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 1 dell’ordinanza del 4 giugno 2021[^annex2-lvlu1-lvl1-1] sui certificati COVID-19o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
 - 1\.4
 
@@ -440,8 +440,9 @@ Allegato 2*[^t-4]*
 
   Una guarigione è valida durante il seguente lasso di tempo:
 
-  - a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: dal 11° al 270° giorno dalla conferma del contagio;
-  - b. nel caso di un test degli anticorpi contro la SARS-CoV-2: durante la validità del relativo certificato (art. 34*a* cpv. 1 lett. c dell’ordinanza COVID-19 del 4 giugno 2021[^annex2-lvlu1-lvl2-1]).
+  - a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: dal 11° al 180° giorno dalla conferma del contagio;
+  - b. nel caso di un test rapido Sars-CoV-2 per uso professionale o di un’analisi immunologica di laboratorio per il Sars-CoV-2, a meno che non si basi su un prelievo solo dalla cavità nasale o su un campione di saliva: dall’11° al 180° giorno dopo la conferma del contagio;
+  - c. nel caso di un test degli anticorpi contro il SARS-CoV-2: durante la validità del relativo certificato (art. 34*a* cpv. 1 lett. c dell’ordinanza COVID-19 del 4 giugno 2021[^annex2-lvlu1-lvl2-1]).
 
 - 2\.2 La guarigione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 2 dell’ordinanza sui certificati COVID-19 o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
 - 2\.3
@@ -453,7 +454,7 @@ Allegato 2*[^t-4]*
 
 [^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
-Allegato 2a*[^t-5]*
+Allegato 2a[^t-5]
 
 (art. 8 cpv. 1 e 12 cpv. 3)
 
@@ -476,7 +477,6 @@ Allegato 2a*[^t-5]*
   - b. la data e l’ora del prelievo dei campioni;
   - c. il tipo di test eseguito di cui al numero 1 lettera a o b;
   - d. il risultato del test.
-  - [tab]
 
 Allegato 3
 
@@ -484,6 +484,6 @@ Allegato 3
 
 ## Modifica di un altro atto normativo
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: La mod. può essere consultata alla [RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380).

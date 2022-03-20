@@ -3,20 +3,20 @@ sr: "818.101.27"
 title: Verordnung vom 23. Juni 2021 über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung internationaler Personenverkehr)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: de
-version: 2022-02-17
+version: 2022-03-21
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220217/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220217-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220321/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220321-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220321/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs
+# Verordnung über Massnahmen zur Bekämpfung der Covid‑19‑Epidemie im Bereich des internationalen Personenverkehrs
 
-(Covid-19-Verordnung internationaler Personenverkehr)**[^t-1]**
+(Covid-19-Verordnung internationaler Personenverkehr)[^t-1]
 
-vom 23. Juni 2021 (Stand am 17. Februar 2022)
+vom 23. Juni 2021 (Stand am 21. März 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
@@ -78,7 +78,7 @@ Massgebend für die Einstufung als Staat oder Gebiet mit einer besorgniserregend
 
 **Verpflichtete Personen**[^3-1]
 
-<sup>1</sup> Zur Erfassung von Kontaktdaten und soweit erforderlich von Gesundheitsdaten verpflichtet sind Personen, die aus einem Staat oder Gebiet nach Anhang 1 einreisen. [^3-2]
+<sup>1</sup> Zur Erfassung von Kontaktdaten und soweit erforderlich von Gesundheitsdaten verpflichtet sind Personen, die aus einem Staat oder Gebiet nach Anhang 1 einreisen.[^3-2]
 
 <sup>2</sup>
 
@@ -161,7 +161,7 @@ Sobald es Kenntnis von der Einreise einer mit Sars-CoV-2 infizierten Person erh�
 
 **Testpflicht**[^8-1]
 
-<sup>1</sup> Personen ab sechs Jahren, die aus einem Staat oder Gebiet nach Anhang 1 einreisen, müssen ein negatives Testergebnis vorweisen können. Die Anforderungen an die Tests sowie die Testnachweise werden in Anhang 2*a* geregelt. [^8-2]
+<sup>1</sup> Personen ab sechs Jahren, die aus einem Staat oder Gebiet nach Anhang 1 einreisen, müssen ein negatives Testergebnis vorweisen können. Die Anforderungen an die Tests sowie die Testnachweise werden in Anhang 2*a* geregelt.[^8-2]
 
 <sup>2</sup>
 
@@ -283,7 +283,7 @@ Wer sich nach Artikel 9 in Einreisequarantäne begeben muss, muss die Einreise i
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 19. Jan. 2022, in Kraft seit 22. Jan. 2022 ([AS 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
-## 6. Abschnitt: Kontrollen und Meldungen****
+## 6. Abschnitt: Kontrollen und Meldungen
 
 [^sec6-1]
 
@@ -350,11 +350,11 @@ Die Grenzkontrollbehörden können Personen bei der Einreise in die Schweiz risi
 
 Diese Verordnung tritt am 26. Juni 2021 um 00.00 Uhr in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 2 Abs. 2 und 3, 3 Abs. 1, 9 Abs. 1 und 3, 9*a* Abs. 2 Bst. c sowie 12 Abs. 1)
 
-## Liste der Staaten und Gebiete mit einer besorgniserregenden Virusvariante****
+## Liste der Staaten und Gebiete mit einer besorgniserregenden Virusvariante
 
 [^annex1-lvlu1-1]
 
@@ -369,7 +369,7 @@ Diese Liste enthält zurzeit keine Einträge.
 
 Diese Liste enthält zurzeit keine Einträge.
 
-Anhang 1a*[^t-3]*
+Anhang 1a[^t-3]
 
 (Art. 2 Abs. 4 und 9*a* Abs. 2 Bst. c)
 
@@ -404,13 +404,13 @@ Gebiete in Liechtenstein:
 
 - – gesamtes Fürstentum
 
-Anhang 2*[^t-4]*
+Anhang 2[^t-4]
 
-(Art. 9*a* Abs. 2<sup>ter</sup> Bst. e und f sowie 12 Abs. 2)
+(Art. 9*a* Abs. 1 Bst. e und f sowie 12 Abs. 2)
 
 ## Geimpfte und genesene Personen
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Anhang Ziff. 3 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen),([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)) und Ziff. II der V vom 16. Febr. 2022, in Kraft seit 17. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), Ziff. II der V vom 16. Febr. 2022 ([AS 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)) und Anhang Ziff. 1 der V vom 18. März 2022, in Kraft seit 21. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
 ### 1 Geimpfte Personen
 
@@ -423,7 +423,7 @@ Anhang 2*[^t-4]*
   - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde; oder
   - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
-- 1\.2 Die Dauer der Gültigkeit einer Impfung beträgt 270 Tage ab der vollständig erfolgten Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 270 Tage ab dem 22. Tag nach erfolgter Impfung.
+- 1\.2 Die Dauer der Gültigkeit einer Impfung beträgt 270 Tage ab der vollständig erfolgten Impfung oder nach einer Auffrischimpfung nach einer vollständigen Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 270 Tage ab dem 22. Tag nach erfolgter Impfung.
 - 1\.3 Der Nachweis für Geimpfte kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 1 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl1-1] oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
 - 1\.4
 
@@ -440,8 +440,9 @@ Anhang 2*[^t-4]*
 
   Eine Genesung ist für die folgende Zeitdauer gültig:
 
-  - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2: vom 11. bis zum 270. Tag nach der Bestätigung der Ansteckung;
-  - b. im Falle einer Analyse auf Sars-CoV-2-Antikörper: während der Dauer der Gültigkeit des entsprechenden Zertifikats (Art. 34*a* Abs. 1 Bst. c der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]).
+  - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2: vom 11. bis zum 180. Tag nach der Bestätigung der Ansteckung;
+  - b. im Falle eines Sars-CoV-2-Schnelltests zur Fachanwendung oder einer laborbasierten immunologischen Analyse auf Sars-CoV-2, mit Ausnahme von Tests und Analysen, die auf einer Probenentnahme nur aus dem Nasenraum oder auf einer Speichelprobe basieren: vom 11. bis zum 180. Tag nach der Bestätigung der Ansteckung;
+  - c. im Falle einer Analyse auf Sars-CoV-2-Antikörper: während der Dauer der Gültigkeit des entsprechenden Zertifikats (Art. 34*a* Abs. 1 Bst. c der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl2-1]).
 
 - 2\.2 Der Nachweis für Genesung kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 2 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021 oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
 - 2\.3
@@ -453,7 +454,7 @@ Anhang 2*[^t-4]*
 
 [^annex2-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
-Anhang 2a*[^t-5]*
+Anhang 2a[^t-5]
 
 (Art. 8 Abs. 1 und 12 Abs. 3)
 

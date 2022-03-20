@@ -3,26 +3,26 @@ sr: "818.101.27"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre la pandémie de COVID-19 dans le domaine du transport international de voyageurs (Ordonnance COVID-19 transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: fr
-version: 2022-02-17
+version: 2022-03-21
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220217-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20220321/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20220321-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20220321/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur les mesures destinées à lutter contre la pandémie de COVID-19 dans le domaine du transport international de voyageurs
+# Ordonnance sur les mesures destinées à lutter contre la pandémie de COVID‑19 dans le domaine du transport international de voyageurs
 
-(Ordonnance COVID-19 transport international de voyageurs)**[^t-1]**
+(Ordonnance COVID-19 transport international de voyageurs)[^t-1]
 
-du 23 juin 2021 (Etat le 17 février 2022)
+du 23 juin 2021 (État le 21 mars 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 Le Conseil fédéral suisse,
 
-vu les art. 41, al. 1 et 3, et 79, al. 1, de la loi du 28 septembre 2012 sur les épidémies (LEp)[^ingress-1],[^ingress-2]
+vu les art. 41, al. 1 et 3, et 79, al. 1, de la loi du 28 septembre 2012 sur les épidémies (LEp)[^ingress-1]<sup>,</sup>[^ingress-2]
 
 arrête:
 
@@ -283,7 +283,7 @@ Toute personne obligée de se mettre en quarantaine-voyage en vertu de l’art. 
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 19 janv. 2022, en vigueur depuis le 22 janv. 2022 ([RO 2022 19](https://fedlex.data.admin.ch/eli/oc/2022/19)).
 
-## Section 6 Contrôles et signalements****
+## Section 6 Contrôles et signalements
 
 [^sec6-1]
 
@@ -350,11 +350,11 @@ Les autorités chargées de contrôles à la frontière peuvent effectuer des co
 
 La présente ordonnance entre en vigueur le 26 juin 2021 à 0 h 00.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 2, al. 2 et 3, 3, al. 1, 9, al. 1 et 3, 9*a*, al. 2, let. c, et 12, al. 1)
 
-## Liste des États et zones avec un variant préoccupant du virus****
+## Liste des États et zones avec un variant préoccupant du virus
 
 [^annex1-lvlu1-1]
 
@@ -369,7 +369,7 @@ La liste ne contient actuellement aucune entrée.
 
 La liste ne contient actuellement aucune entrée.
 
-Annexe 1a*[^t-3]*
+Annexe 1a[^t-3]
 
 (art. 2, al. 4, et 9*a*, al. 2, let. c)
 
@@ -404,13 +404,13 @@ Zones au Liechtenstein:
 
 - – toute la Principauté
 
-Annexe 2*[^t-4]*
+Annexe 2[^t-4]
 
-(art. 9*a*, al. 2<sup>ter</sup>, let. e et f, et 12, al. 2)
+(art. 9*a*, al. 1, let. e et f, et 12, al. 2)
 
 ## Personnes vaccinées et personnes guéries
 
-[^t-4]: Mise à jour par le ch. II al. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), l’annexe ch. 3 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle) ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)) et le ch. II de l’O du 16 fév. 2022, en vigueur depuis le 17 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)).
+[^t-4]: Mise à jour par le ch. II al. 1 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)), le ch. II de l’O du 16 fév. 2022 ([RO 2022 98](https://fedlex.data.admin.ch/eli/oc/2022/98)) et l’annexe ch. 1 de l’O du 18 mars 2022, en vigueur depuis le 21 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
 ### 1 Personnes vaccinées
 
@@ -423,7 +423,7 @@ Annexe 2*[^t-4]*
   - c. autorisé selon la liste des situations d’urgences de l’OMS et complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée, ou
   - d. dont il peut être prouvé qu’il a la même composition qu’un vaccin autorisé au sens des let. a, b ou c, mais qui est mis en circulation par un preneur de licence sous un autre nom et qui a été complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée.
 
-- 1\.2 La durée de validité d’une vaccination est de 270 jours à compter de la vaccination complète; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen, la durée est de 270 jours à compter du 22<sup>e</sup> jour suivant la vaccination.
+- 1\.2 La durée de validité d’une vaccination est de 270 jours à compter de la vaccination complète ou de la vaccination de rappel suite à une vaccination complète; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen, la durée est de 270 jours à compter du 22<sup>e</sup> jour suivant la vaccination.
 - 1\.3 La vaccination peut être prouvée au moyen du certificat COVID-19 au sens de l’art. 1, let. a, ch. 1, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex2-lvlu1-lvl1-1] ou d’un certificat étranger reconnu au sens de la section 7 de l’ordonnance COVID-19 certificats.
 - 1\.4
 
@@ -440,8 +440,9 @@ Annexe 2*[^t-4]*
 
   Une guérison est valable pendant la durée suivante:
 
-  - a. dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2: du 11<sup>e</sup> au 270<sup>e</sup> jour à compter de la confirmation de l’infection;
-  - b. dans le cas d’une analyse des anticorps contre le SARS-CoV-2: durant la validité du certificat correspondant (art. 34*a*, al. 1, let. c, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex2-lvlu1-lvl2-1]).
+  - a. dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2: du 11<sup>e</sup> au 180<sup>e</sup> jour à compter de la confirmation de l’infection;
+  - b. dans le cas d’un test rapide SARS-CoV-2 avec application par un professionnel ou d’une analyse immunologique en laboratoire des antigènes du SARS-CoV-2, à moins qu’ils se basent sur un prélèvement d’échantillon provenant uniquement de la cavité nasale ou d’un test salivaire: du 11<sup>e</sup> au 180<sup>e</sup> jour à compter de la confirmation de l’infection;
+  - c. dans le cas d’une analyse des anticorps contre le SARS-CoV-2: durant la validité du certificat correspondant (art. 34*a*, al. 1, let. c, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex2-lvlu1-lvl2-1]).
 
 - 2\.2 La guérison peut être prouvée au moyen du certificat COVID-19 au sens de l’art. 1, let. a, ch. 2, de l’ordonnance COVID-19 du 4 juin 2021 certificats ou d’un certificat étranger reconnu au sens de 7 de l’ordonnance COVID-19 certificats.
 - 2\.3
@@ -453,7 +454,7 @@ Annexe 2*[^t-4]*
 
 [^annex2-lvlu1-lvl2-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
-Annexe 2a*[^t-5]*
+Annexe 2a[^t-5]
 
 (art. 8, al. 1, et 12, al. 3)
 
