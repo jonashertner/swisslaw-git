@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-03-15
+version: 2022-03-21
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220315/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220315-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220321/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220321-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220321/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 15 March 2022)
+of 19 June 2020 (Status as of 21 March 2022)
 
 The Swiss Federal Council,
 
@@ -89,14 +89,16 @@ The following persons shall be refused entry for a period of stay of up to three
 
 The following persons are exempt from this ban on entry:
 
-- a. persons who prove that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated is regulated in Annex 1*a*; or
-- b. persons who provide credible evidence that they are in a situation of special necessity.[^4-7]
+- [tab] a.[^4-7] persons who prove that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated, the period for which the vaccination is valid, and the accepted forms of proof are regulated in Annex 1*a* number 1;
+- a<sup>bis</sup>.[^4-8] persons who prove that they have been infected with Sars-CoV-2 and have recovered; the period for which exemption is valid and the accepted forms of proof are regulated in Annex 1*a* number 2;
+- b. persons who provide credible evidence that they are in a situation of special necessity;
+- c.[^4-9] persons under the age of 18.[^4-10]
 
-<sup>2bis</sup> Children under the age of 18 who enter Switzerland accompanied by an adult who meets the requirements of paragraph 2 letter a are not required to prove that they have been vaccinated.[^4-8]
+<sup>2bis</sup> ...[^4-11]
 
-<sup>2ter</sup> The exception in paragraph 2 letter a does not apply to persons who wish to enter Switzerland from a country or region listed in Annex 1 number 2.[^4-9]
+<sup>2ter</sup> The exemptions under paragraph 2 letters a, a<sup>bis</sup> and c do not apply to persons who wish to enter Switzerland from a country or region listed in Annex 1 number 2.[^4-12]
 
-<sup>2quater</sup> The State Secretariat for Migration (SEM) shall issue the required directives on exceptions to the ban on entry.[^4-10]
+<sup>2quater</sup> The State Secretariat for Migration (SEM) shall issue the required directives on exceptions to the ban on entry.[^4-13]
 
 <sup>3</sup> Decisions taken by the competent authorities may be enforced immediately. Article 65 of the FNIA applies *mutatis mutandis*. An appeal may be filed against the SEM decision within 30 days of notification. The appeal does not have suspensive effect.
 
@@ -108,10 +110,13 @@ The following persons are exempt from this ban on entry:
 [^4-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^4-5]: Repealed by Annex 2 No 2 of the COVID-19 Ordinance on International Travel Measures of 27 Jan. 2021, with effect from 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 [^4-6]: Amended by No I of the O of 21 Dec. 2020, in force since 21 Dec. 2020 at 1pm ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
-[^4-7]: Amended by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-8]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-9]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-10]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-7]: Amended by No I of the O of 18 March 2022, in force since 21 March 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-8]: Inserted by No I of the O of 18 March 2022, in force since 21 March 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-9]: Inserted by No I of the O of 18 March 2022, in force since 21 March 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-10]: Amended by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-11]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Repealed by No I of the O of 18 March 2022, with effect from 21 March 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-12]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Amended by No I of the O of 18 March 2022, in force since 21 March 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-13]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
 #### Art. 5
 
@@ -147,9 +152,9 @@ The Federal Department of Justice and Police (FDJP) shall update Annexes 1 and 1
 
 **Granting of visas**[^10-1]
 
-Foreign nationals who wish to enter Switzerland from a high-risk country or from a high-risk region and who do not fall within the scope of the AFMP[^10-2] or the EFTA Convention[^10-3] shall not be granted a Schengen visa for periods of stay of up to three months that do not require a permit and do not involve gainful employment. Exempted from the foregoing are applications from persons under Article 4 paragraphs 2 and 2<sup>bis</sup>.
+Foreign nationals who wish to enter Switzerland from a high-risk country or from a high-risk region and who do not fall within the scope of the AFMP[^10-2] or the EFTA Convention[^10-3] shall not be granted a Schengen visa for periods of stay of up to three months that do not require a permit and do not involve gainful employment. Exempted from the foregoing are applications from persons under Article 4 paragraph 2.
 
-[^10-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^10-1]: Amended by No I of the O of 18 March 2022, in force since 21 March 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 [^10-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^10-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -709,21 +714,22 @@ The following persons are not regarded as being at high risk:
 
   persons specified in paragraph 10 who have been infected with Sars-CoV-2 and have recovered:
 
-  - 1\. when based on a molecular-biological analysis for Sars-CoV-2: for 270 days from the eleventh day after confirmation of infection,
-  - 2\.[^27a-3] when based on an analysis for Sars-CoV-2 antibodies: for the period of validity of the related certificate (Art. 34*a* para. 1 let. c of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-4]).[^27a-5]
+  - [tab] 1.[^27a-3] when based on a molecular-biological analysis for Sars-CoV-2: for 180 days from the eleventh day after confirmation of infection,
+  - 2\.[^27a-4] when based on an analysis for Sars-CoV-2 antibodies: for the period of validity of the related certificate (Art. 34*a* para. 1 let. c of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-5]).[^27a-6]
 
 <sup>12</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.
 
 <sup>13</sup> The FDHA shall continually update Annex 7 based on the state of science.
 
-<sup>14</sup> …[^27a-6]
+<sup>14</sup> …[^27a-7]
 
 [^27a-1]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 25 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^27a-2]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-3]: Amended by No III of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force from 17 Feb. 2022 to 31 March 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^27a-4]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-5]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 31 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-6]: Repealed by Annex No 2 of the COVID-19 Special Situation Ordinance of 16 Feb. 2022, with effect from 17 Feb. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^27a-3]: Amended by No I of the O of 18 March 2022, in force from 21 March 2022 until 31 March 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^27a-4]: Amended by No III of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force from 17 Feb. 2022 to 31 March 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^27a-5]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-6]: Amended by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 31 Jan. 2022 to 31 March 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-7]: Repealed by Annex No 2 of the COVID-19 Special Situation Ordinance of 16 Feb. 2022, with effect from 17 Feb. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 ## Chapter 5 Final Provisions
 
@@ -834,13 +840,15 @@ All countries and regions outside the Schengen area, with the exception of:
 
 Annex 1a*[^t-2]*
 
-(Art. 4 para. 2 let. a and Art. 5)
+(Art. 4 para. 2 let. a and a<sup>bis</sup> and Art. 5)
 
-## Persons who have been vaccinated
+## Persons who have been vaccinated and who have recovered
 
-[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 (AS 2021 380). Revised in accordance with Annex No 3 I of the O of 17 Sept. 2021 (AS 2021 563) and by Annex No 2 of the O of 19 Jan. 2022 (Extension of Measures, Reduction in the Period of Validity of Vaccination and Recovery Certificates, Waiving the Collection of Contact Data, Exemption from the Certificate Requirements for International Delegations, Provisions on the Federal Baccalaureate and Professional Baccalaureate Examinations), in force from 31 Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Travel Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Amended by No II of the O of 18 March 2022, in force since 21 March 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
-- 1
+### 1 Persons who have been vaccinated
+
+- 1\.1
 
   Persons who have been vaccinated are persons who have been vaccinated with a vaccine that:
 
@@ -849,16 +857,36 @@ Annex 1a*[^t-2]*
   - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered; or
   - d. has been shown to have the same composition as a vaccine licensed under letters a, b or c, but marketed by the licence holder under another name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
-- 2 The period during which persons who have been vaccinated are exempt from the ban on entry under Article 4 paragraph 1 amounts to 270 days from the date of vaccination in full; the Janssen Ad26.COV2.S / Covid-19 vaccine is regarded as being effective for 270 days from the 22nd day after it was administered in full.
-- 3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex1a-lvlu1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
-- 4
+- 1\.2 A vaccination is valid for 270 days from the date of vaccination in full or from the date of a booster vaccination following vaccination in full; the Janssen Ad26.COV2.S / COVID-19 vaccine is regarded as being effective for 270 days from the 22nd day after it was administered in full.
+- 1\.3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex1a-lvlu1-lvl1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
+- 1\.4
 
   Proof may also be provided in a different form from that in number 3. It must be a form of proof that is customary at the time. In addition to the surname, forename and date of birth of the person concerned, it must include the following information:
 
   - a. the date of vaccination;
   - b. the vaccine used.
 
-[^annex1a-lvlu1-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^annex1a-lvlu1-lvl1-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+### 2 Persons who have recovered
+
+- 2\.1
+
+  Proof of recovery is valid for the following periods:
+
+  - a. in the case of a molecular-biological analysis for Sars-CoV-2: from the 11th to the 180th day following confirmation of the infection;
+  - b. in the case of a Sars-CoV-2 rapid test for specialist use or a laboratory-based immunological analysis for Sars-CoV-2, with the exception of tests and analyses based on a sample taken solely from the nasal cavity or on a saliva sample: from the 11th to the 180th day following confirmation of the infection;
+  - c. in the case of an analysis for Sars-CoV-2 antibodies: for the period of validity of the related certificate (Art. 34*a* para. 1 let. c of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex1a-lvlu1-lvl2-1]);
+
+- 2\.2 Proof of recovery may be provided in the form of a COVID-19 certificate under Article 1 letter a number 2 of the COVID-19 Ordinance on Certificates or a recognised foreign certificate under Section 7 of the COVID-19-Ordinance of Certificates.
+- 2\.3
+
+  Proof may also be provided in forms other than in Number 2.2. It must be a form of proof that currently commonly accepted. It must, in addition to the surname, first name(s) and date of birth of the person concerned contain either of the following:
+
+  - a. confirmation of the infection, including the name and address of the confirming body (test centre, doctor, pharmacy, hospital);
+  - b. confirmation of the termination of isolation or a doctor’s confirmation of recovery.
+
+[^annex1a-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Annex 2*[^t-3]*
 
@@ -1642,7 +1670,7 @@ Annex 7*[^t-9]*
 
 ## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Amended by No II para. 1 of the O of 17 Dec. 2021, in force from 1 Jan. 2022 until 31 March 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 para. 7).
+[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Dec. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Amended by No II para. 1 of the O of 17 Dec. 2021, in force from 1 Jan. 2022 until 31 March 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 para. 7).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 

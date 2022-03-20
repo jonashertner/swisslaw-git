@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2022-03-15
+version: 2022-03-21
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220315-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220321/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220321-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220321/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 15 marzo 2022)
+del 19 giugno 2020 (Stato 21 marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -87,14 +87,16 @@ Per Paesi o regioni a rischio si intendono Paesi o regioni in cui è stato rilev
 
 Sono escluse dal presente divieto d’entrata le persone che:
 
-- a. attestano che sono state vaccinate contro il SARS-CoV-2; le persone considerate vaccinate sono disciplinate nell’allegato 1*a*; o
-- b. rendono verosimile di trovarsi in una situazione di assoluta necessità.[^4-7]
+- a.[^4-7] attestano che sono state vaccinate contro il SARS-CoV-2; le persone considerate vaccinate, la durata di validità della vaccinazione e le attestazioni riconosciute sono disciplinate nell’allegato 1*a* numero 1;
+- a.<sup>bis</sup> [^4-8] attestano che sono state contagiate con il SARS-CoV-2 e che sono considerate guarite; la durata della deroga e le attestazioni riconosciute sono disciplinate nell’allegato 1*a* numero 2;
+- b. rendono verosimile di trovarsi in una situazione di assoluta necessità;
+- c.[^4-9] non hanno ancora compiuto i 18 anni.[^4-10]
 
-<sup>2bis</sup> I bambini sotto i 18 anni che entrano accompagnati da adulti secondo il capoverso 2 lettera a non devono presentare una vaccinazione.[^4-8]
+<sup>2bis</sup> ...[^4-11]
 
-<sup>2ter</sup> La deroga di cui al capoverso 2 lettera a non si applica alle persone provenienti da un Paese o da una regione di cui all’allegato 1 numero 2 che intendono entrare in Svizzera.[^4-9]
+<sup>2ter</sup> Le deroghe di cui al capoverso 2 lettere a, a<sup>bis</sup> e c non si applicano alle persone provenienti da un Paese o da una regione di cui all’allegato 1 numero 2 che intendono entrare in Svizzera.[^4-12]
 
-<sup>2quater</sup> La Segreteria di Stato della migrazione (SEM) emana le necessarie istruzioni per le deroghe al divieto d’entrata.[^4-10]
+<sup>2quater</sup> La Segreteria di Stato della migrazione (SEM) emana le necessarie istruzioni per le deroghe al divieto d’entrata.[^4-13]
 
 <sup>3</sup> Le decisioni delle autorità competenti possono essere eseguite immediatamente. Si applica per analogia l’articolo 65 LStrI. La decisione su opposizione della SEM può essere impugnata entro 30 giorni dalla notificazione. Il ricorso non ha effetto sospensivo.
 
@@ -106,10 +108,13 @@ Sono escluse dal presente divieto d’entrata le persone che:
 [^4-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^4-5]: Abrogate dall’all. 2 n. 2 dell’O COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori, con effetto dal 8 feb. 2021 ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 [^4-6]: Nuovo testo giusta il n. I dell’O del 21 dic. 2020, in vigore dalle ore 13.00 del 21 dic. 2020 ([RU 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
-[^4-7]: Nuovo testo giusta l’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-8]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-9]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-10]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-7]: Nuovo testo giusta il n. I dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-8]: Introdotta dal n. I dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-9]: Introdotta dal n. I dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-10]: Nuovo testo giusta l’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-11]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Nuovo testo giusta il n. I dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-12]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Nuovo testo giusta il n. I dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-13]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
 #### Art. 5
 
@@ -143,11 +148,11 @@ Il Dipartimento federale di giustizia e polizia (DFGP), sentiti il Dipartimento 
 
 #### Art. 10
 
-**Rilascio di visti**[^10-1]
+**Rilascio dei visti**[^10-1]
 
-Agli stranieri provenienti da un Paese o da una regione a rischio che intendono entrare in Svizzera e non rientrano nel campo d’applicazione dell’ALC[^10-2] o dell’accordo AELS[^10-3] è rifiutata la concessione di un visto Schengen per un soggiorno esente da permesso di tre mesi al massimo senza attività lucrativa. Sono fatte salve le domande delle persone di cui all’articolo 4 capoversi 2 e 2<sup>bis</sup>.
+Agli stranieri provenienti da un Paese o da una regione a rischio che intendono entrare in Svizzera e non rientrano nel campo d’applicazione dell’ALC[^10-2] o dell’accordo AELS[^10-3] è rifiutata la concessione di un visto Schengen per un soggiorno esente da permesso di tre mesi al massimo senza attività lucrativa. Sono fatte salve le domande delle persone di cui all’articolo 4 capoverso 2.
 
-[^10-1]: Nuovo testo giusta l’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 [^10-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^10-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -707,21 +712,22 @@ Non sono considerate particolarmente a rischio:
 
   le persone di cui al capoverso 10 che sono state contagiate dal SARS-CoV-2 e sono considerate guarite:
 
-  - 1\. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: per 270 giorni a partire dall’11° giorno dopo la conferma del contagio,
-  - 2\.[^27a-3] in caso di analisi per gli anticorpi contro il SARS-CoV-2: per la durata di validità del relativo certificato (art. 34*a* cpv. 1 lett. c dell’ordinanza del 4 giugno 2021[^27a-4] sui certificati COVID-19).[^27a-5]
+  - 1\.[^27a-3] in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: per 180 giorni a partire dall’11° giorno dopo la conferma del contagio,
+  - 2\.[^27a-4] in caso di analisi per gli anticorpi contro il SARS-CoV-2: per la durata di validità del relativo certificato (art. 34*a* cpv. 1 lett. c dell’ordinanza del 4 giugno 2021[^27a-5] sui certificati COVID-19).[^27a-6]
 
 <sup>12</sup> Le patologie e anomalie genetiche di cui al capoverso 10 lettera b sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva una valutazione clinica del rischio nel singolo caso, che può portare a classificare anche persone di cui al capoverso 11 tra quelle particolarmente a rischio.
 
 <sup>13</sup> Il DFI aggiorna costantemente l’allegato 7 in base allo stato delle conoscenze scientifiche.
 
-<sup>14</sup> ...[^27a-6]
+<sup>14</sup> ...[^27a-7]
 
 [^27a-1]: Nuovo testo giusta l’all. n. 2 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 25 gen. 2022 al 31 mar. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^27a-2]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-3]: Nuovo testo giusta il n. III dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 al 31 mar. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^27a-4]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-5]: Nuovo testo giusta l’all. n. 2 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 31 gen. 2022 al 31 mar. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-6]: Abrogato dall’all. n. 2 dell’O COVID-19 situazione particolare del 16 feb. 2022, con effetto dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^27a-3]: Nuovo testo giusta il n. I dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 al 31 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^27a-4]: Nuovo testo giusta il n. III dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 al 31 mar. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^27a-5]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-6]: Nuovo testo giusta l’all. n. 2 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 31 gen. 2022 al 31 mar. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-7]: Abrogato dall’all. n. 2 dell’O COVID-19 situazione particolare del 16 feb. 2022, con effetto dal 17 feb. 2022 ([RU 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 ## Capitolo 5: Disposizioni finali
 
@@ -832,13 +838,15 @@ Tutti gli Stati e regioni al di fuori dello spazio Schengen, tranne:
 
 Allegato 1a*[^t-2]*
 
-(art. 4 cpv. 2 lett. a e art. 5)
+(art. 4 cpv. 2 lett. a e a<sup>bis</sup>, nonché art. 5)
 
-## Persone vaccinate
+## Persone vaccinate e guarite
 
-[^t-2]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Aggiornato dall’all. n. 3 I dell’O del 17 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) e dall’all. n. 2 dell’O del 19 gen. 2022 (Proroga dei provvedimenti, abbreviazione della durata di validità dei certificati di vaccinazione e di guarigione, rinuncia alla registrazione dei dati di contatto, deroghe all’obbligo del certificato per membri di delegazioni internazionali, disposizioni particolari per gli esami federali di maturità e di maturità professionale), in vigore dal 31 gen. 2022 ([RU 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Nuovo testo giusta il n. II dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
-- 1
+### 1 Persone vaccinate
+
+- 1\.1
 
   Sono considerate vaccinate le persone che sono state vaccinate con un vaccino che:
 
@@ -847,16 +855,34 @@ Allegato 1a*[^t-2]*
   - c. è stato approvato secondo la Lista per l’uso di emergenza dell’OMS ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
   - d. presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma è immesso in commercio da un licenziatario con un altro nome, a condizione che la vaccinazione sia avvenuta in modo completo conformemente ai requisiti o alle raccomandazioni dello Stato in cui è stata effettuata.
 
-- 2 Il periodo durante il quale le persone vaccinate sono escluse dal divieto d’entrata di cui all’articolo 4 capoverso 1 è di 270 giorni a partire dalla vaccinazione completa; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen, la durata è di 270 giorni a partire dal 22° giorno dalla vaccinazione completa.
-- 3 La vaccinazione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 1 dell’ordinanza del 4 giugno 2021[^annex1a-lvlu1-1] sui certificati COVID-19 o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
-- 4
+- 1\.2 La durata di validità della vaccinazione è di 270 giorni a partire dalla vaccinazione completa o dopo una vaccinazione di richiamo dopo una vaccinazione completa; per il vaccino Ad26.COV2.S / Covid-19 Vaccine Janssen, la durata è di 270 giorni a partire dal 22° giorno dalla vaccinazione.
+- 1\.3 La vaccinazione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 1 dell’ordinanza del 4 giugno 2021[^annex1a-lvlu1-lvl1-1] sui certificati COVID-19 o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
+- 1\.4
 
-  Sono ammesse anche attestazioni diverse da quelle di cui al numero 3, purché corrispondano a una forma di attestazione attualmente consueta. Oltre al cognome, al nome e alla data di nascita del titolare, l’attestazione deve contenere le seguenti informazioni:
+  Sono ammesse anche attestazioni diverse da quelle di cui al numero 1.3, purché corrispondano a una forma di attestazione attualmente consueta. Oltre al cognome, al nome e alla data di nascita del titolare, l’attestazione deve contenere le seguenti informazioni:
 
   - a. la data della vaccinazione;
   - b. il vaccino somministrato.
 
-[^annex1a-lvlu1-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^annex1a-lvlu1-lvl1-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+### 2 Persone guarite
+
+- 2\.1
+
+  Una guarigione è valida durante il seguente lasso di tempo:
+
+  - a. in caso di analisi di biologia molecolare per il rilevamento del SARS-CoV-2: dall’11° al 180° giorno dalla conferma del contagio;
+  - b. nel caso di un test rapido Sars-CoV-2 per uso professionale o di un’analisi immunologica di laboratorio per il Sars-CoV-2, a meno che non si basi su un prelievo solo dalla cavità nasale o su un campione di saliva: dall’11° al 180° giorno dopo la conferma del contagio;
+  - c. nel caso di un test degli anticorpi contro il SARS-CoV-2: durante la validità del relativo certificato (art. 34*a* cpv. 1 lett. c dell’ordinanza sui certificati COVID-19).
+
+- 2\.2 La guarigione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 2 dell’ordinanza sui certificati COVID-19 o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
+- 2\.3
+
+  Sono ammesse anche attestazioni diverse da quelle di cui al numero 2.2, purché corrispondano a una forma di attestazione attualmente consueta. Oltre al cognome, al nome e alla data di nascita del titolare, l’attestazione deve contenere una delle seguenti informazioni:
+
+  - a. la conferma del contagio, compresi il nome e l’indirizzo del servizio che ha rilasciato la conferma (centro di test, medico, farmacia, ospedale);
+  - b. la conferma della revoca dell’isolamento o la conferma della guarigione da parte di un medico.
 
 Allegato 2*[^t-3]*
 

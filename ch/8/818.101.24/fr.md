@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2022-03-15
+version: 2022-03-21
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220315-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220321/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220321-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220321/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 15 mars 2022)
+du 19 juin 2020 (Etat le 21 mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -87,14 +87,16 @@ Se voient refuser l’entrée les personnes suivantes qui souhaitent entrer en S
 
 Ne sont pas soumises à la présente interdiction d’entrée les personnes:
 
-- a. qui fournissent la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 1*a* détermine les personnes considérées comme vaccinées, ou
-- b. qui peuvent démontrer qu’elles se trouvent dans une situation d’absolue nécessité.[^4-7]
+- a.[^4-7] qui fournissent la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 1*a*, ch. 1*,* détermine les personnes considérées comme vaccinées, la durée pour laquelle la vaccination est valable et les types de preuves autorisés;
+- a<sup>bis</sup>.[^4-8] qui fournissent la preuve qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries; l’annexe 1*a*, ch. 2, détermine la durée de la dérogation et les types de preuves autorisés;
+- b. qui peuvent démontrer qu’elles se trouvent dans une situation d’absolue nécessité;
+- c.[^4-9] qui n’ont pas encore 18 ans.[^4-10]
 
-<sup>2bis</sup> Les enfants de moins de 18 ans qui entrent en Suisse accompagnés d’adultes visés à l’al. 2, let. a, ne doivent pas prouver qu’ils sont vaccinés.[^4-8]
+<sup>2bis</sup> ...[^4-11]
 
-<sup>2ter</sup> L’exception visée à l’al. 2, let. a, ne s’applique pas aux personnes qui veulent entrer en Suisse depuis un pays ou une région visée à l’annexe 1, ch. 2.[^4-9]
+<sup>2ter</sup> Les exceptions visées à l’al. 2, let. a, a<sup>bis</sup> et c, ne s’appliquent pas aux personnes qui veulent entrer en Suisse depuis un pays ou une région visés à l’annexe 1, ch. 2.[^4-12]
 
-<sup>2quater</sup> Le Secrétariat d’État aux migrations (SEM) édicte les directives nécessaires pour les exceptions à l’interdiction d’entrée.[^4-10]
+<sup>2quater</sup> Le Secrétariat d’État aux migrations (SEM) édicte les directives nécessaires pour les exceptions à l’interdiction d’entrée.[^4-13]
 
 <sup>3</sup> Les décisions des autorités compétentes sont immédiatement exécutoires. L’art. 65 LEI s’applique par analogie. Un recours contre la décision du SEM sur l’opposition peut être formé dans les 30 jours à compter de la notification de la décision. Le recours n’a pas d’effet suspensif.
 
@@ -106,10 +108,13 @@ Ne sont pas soumises à la présente interdiction d’entrée les personnes:
 [^4-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^4-5]: Abrogés par l’annexe 2 ch. 2 de l’O COVID-19 du 27 janv. 2021 mesures dans le domaine du transport international de voyageurs, avec effet au 8 fév. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61))
 [^4-6]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2020, en vigueur depuis le 21 déc. 2020 à 13 h 00 ([RO 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
-[^4-7]: Nouvelle teneur selon l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs, en vigueur depuis le 26 juin 2021 ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-8]: Introduit par l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs, en vigueur depuis le 26 juin 2021 ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-9]: Introduit par l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs, en vigueur depuis le 26 juin 2021 ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-10]: Introduit par l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs, en vigueur depuis le 26 juin 2021 ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-7]: Nouvelle teneur selon le ch. I de l’O du 18 mars 2022, en vigueur depuis le 21 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-8]: Introduite par le ch. I de l’O du 18 mars 2022, en vigueur depuis le 21 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-9]: Introduite par le ch. I de l’O du 18 mars 2022, en vigueur depuis le 21 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-10]: Nouvelle teneur selon l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs, en vigueur depuis le 26 juin 2021 ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-11]: Introduit par l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Abrogé par le ch. I de l’O du 18 mars 2022, avec effet au 21 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-12]: Introduit par l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Nouvelle teneur selon le ch. I de l’O du 18 mars 2022, en vigueur depuis le 21 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-13]: Introduit par l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Nouvelle teneur selon le ch. I de l’O du 18 mars 2022, en vigueur depuis le 21 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
 #### Art. 5
 
@@ -145,9 +150,9 @@ Le Département fédéral de justice et police (DFJP) actualise en permanence le
 
 **Octroi de visas**[^10-1]
 
-Les étrangers en provenance d’un pays à risque ou d’une région à risque qui souhaitent entrer en Suisse pour un séjour non soumis à autorisation d’une durée de trois mois au plus sans avoir pour but d’exercer une activité lucrative, s’ils ne peuvent se prévaloir ni de l’ALCP[^10-2] ni de la convention AELE[^10-3], se voient refuser l’octroi d’un visa Schengen. Font exception les demandes présentées par des personnes visées à l’art. 4, al. 2 et 2<sup>bis</sup>.
+Les étrangers en provenance d’un pays à risque ou d’une région à risque qui souhaitent entrer en Suisse pour un séjour non soumis à autorisation d’une durée de trois mois au plus sans avoir pour but d’exercer une activité lucrative, s’ils ne peuvent se prévaloir ni de l’ALCP[^10-2] ni de la convention AELE[^10-3], se voient refuser l’octroi d’un visa Schengen. Font exception les demandes présentées par des personnes visées à l’art. 4, al. 2.
 
-[^10-1]: Nouvelle teneur selon l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs, en vigueur depuis le 26 juin 2021 ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 18 mars 2022, en vigueur depuis le 21 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 [^10-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^10-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -691,9 +696,9 @@ Si, pour des raisons dʼexploitation, la présence dʼemployés vulnérables sur
 
 <sup>9</sup> L’octroi des allocations pour perte de gain COVID-19 est régi par l’art. 2, al. 3<sup>quater</sup>, de l’ordonnance du 20 mars 2020 sur les pertes de gain COVID-19[^27a-2].
 
-<sup>10</sup>
+<sup>1</sup>
 
-Sont considérées comme vulnérables:
+<sup>0</sup> Sont considérées comme vulnérables:
 
 - a. les femmes enceintes;
 - b. les personnes qui souffrent des pathologies ou des anomalies génétiques énumérées à l’annexe 7 et qui ne peuvent pas se faire vacciner pour des raisons médicales.
@@ -707,21 +712,22 @@ Ne sont pas considérées comme vulnérables:
 
   les personnes visées à l’al. 10 qui ont contracté le SARS-CoV-2 et sont considérées comme guéries:
 
-  - 1\. sur la base d’une analyse de biologie moléculaire pour le SARS-CoV-2: durant 270 jours à compter du 11<sup>e</sup> jour suivant la confirmation de l’infection,
-  - 2\.[^27a-3] sur la base d’une analyse des anticorps contre le SARS-CoV-2: durant la validité du certificat correspondant (art. 34*a*, al. 1, let. c, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^27a-4].[^27a-5]
+  - 1\.[^27a-3] sur la base d’une analyse de biologie moléculaire pour le SARS-CoV-2: durant 180 jours à compter du 11<sup>e</sup> jour suivant la confirmation de l’infection,
+  - 2\.[^27a-4] sur la base d’une analyse des anticorps contre le SARS-CoV-2: durant la validité du certificat correspondant (art. 34*a*, al. 1, let. c, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^27a-5].[^27a-6]
 
 <sup>12</sup> Les pathologies et anomalies génétiques visées à lʼal. 10, let. b, sont précisées à lʼannexe 7 à lʼaide de critères médicaux. La liste de ces critères n’est pas exhaustive. Une évaluation clinique de la vulnérabilité dans le cas d’espèce est réservée et peut aussi avoir pour conséquence que des personnes visées à l’al. 11 soient considérées comme vulnérables.
 
 <sup>13</sup> Le DFI actualise en permanence lʼannexe 7 selon l’état des connaissances scientifiques.
 
-<sup>14</sup> …[^27a-6]
+<sup>14</sup> …[^27a-7]
 
 [^27a-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 25 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^27a-2]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-3]: Nouvelle teneur selon le ch. III de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), en vigueur du 17 fév. au 31 mars 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^27a-4]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-5]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 31 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-6]: Abrogé par l’annexe ch. 2 de l’O COVID-19 situation particulière du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^27a-3]: Nouvelle teneur selon le ch. I de l’O du 18 mars 2022, en vigueur du 21 au 31 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^27a-4]: Nouvelle teneur selon le ch. III de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), en vigueur du 17 fév. au 31 mars 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^27a-5]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-6]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur du 31 janv. au 31 mars 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-7]: Abrogé par l’annexe ch. 2 de l’O COVID-19 situation particulière du 16 fév. 2022, avec effet au 17 fév. 2022 ([RO 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 ## Chapitre 5 Dispositions finales
 
@@ -834,11 +840,13 @@ Annexe 1a*[^t-2]*
 
 (art. 4, al. 2, let. a, et 5)
 
-## Personnes vaccinées
+## Personnes vaccinées et personnes guéries
 
-[^t-2]: Introduite par l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Mise à jour par l’annexe ch. 3 de l’O du 17 sept. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) et l’annexe ch. 2 de l’O du 19 janv. 2022 (Prolongation des mesures, réduction de la durée de validité des certificats de vaccination et de guérison, renoncement à la collecte des coordonnées, exceptions à l’obligation de certificat pour les délégations internationales, dispositions concernant les examens fédéraux de maturité et de maturité professionnelle), en vigueur depuis le 31 janv. 2022 ([RO 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Introduite par l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Nouvelle teneur selon le ch. II de l’O du 18 mars 2022, en vigueur depuis le 21 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
-- 1
+### 1 Personnes vaccinées
+
+- 1\.1
 
   Sont considérées comme vaccinées les personnes ayant reçu un vaccin:
 
@@ -847,16 +855,34 @@ Annexe 1a*[^t-2]*
   - c. autorisé selon la liste des situations d’urgences de l’OMS et complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée, ou
   - d. dont il peut être prouvé qu’il a la même composition qu’un vaccin autorisé au sens des let. a, b ou c, mais qui est mis en circulation par un preneur de licence sous un autre nom et qui a été complètement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée.
 
-- 2 La durée pendant laquelle la personne vaccinée est exemptée de l’interdiction d’entrée au sens de l’art. 4, al. 1, est de 270 jours à compter de la vaccination complète; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen, la durée est de 270 jours à compter du 22<sup>e</sup> jour suivant la vaccination.
-- 3 La vaccination peut être prouvée au moyen du certificat COVID-19 au sens de l’art. 1, let. a, ch. 1, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex1a-lvlu1-1] ou d’un certificat étranger reconnu conformément à la section 7 de l’ordonnance COVID-19 certificats.
-- 4
+- 1\.2 La durée de validité d’une vaccination est de 270 jours à compter de la vaccination complète ou de la vaccination de rappel suite à une vaccination complète; pour le vaccin Ad26.COV2.S / Covid-19 Vaccine Janssen, la durée est de 270 jours à compter du 22<sup>e</sup> jour suivant la vaccination.
+- 1\.3 La vaccination peut être prouvée au moyen du certificat COVID-19 au sens de l’art. 1, let. a, ch. 1, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^annex1a-lvlu1-lvl1-1] ou d’un certificat étranger reconnu au sens de la section 7 de l’ordonnance COVID-19 certificats.
+- 1\.4
 
-  La preuve peut aussi être fournie d’une autre manière que selon le ch. 3. Elle doit correspondre à une forme actuellement usuelle. Outre le nom, le prénom et la date de naissance de la personne concernée, elle doit contenir les informations suivantes:
+  La preuve peut aussi être fournie d’une autre manière que selon le ch. 1.3. Elle doit correspondre à une forme actuellement usuelle. Outre le nom, le prénom et la date de naissance de la personne concernée, elle doit contenir les informations suivantes:
 
   - a. la date du vaccin;
   - b. le vaccin administré.
 
-[^annex1a-lvlu1-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^annex1a-lvlu1-lvl1-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+### 2 Personnes guéries
+
+- 2\.1
+
+  Une guérison est valable pendant la durée suivante:
+
+  - a. dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2: du 11<sup>e</sup> au 180<sup>e</sup> jour à compter de la confirmation de l’infection;
+  - b. dans le cas d’un test rapide SARS-CoV-2 avec application par un professionnel ou d’une analyse immunologique en laboratoire des antigènes du SARS-CoV-2, à moins qu’ils se basent sur un prélèvement d’échantillon provenant uniquement de la cavité nasale ou d’un test salivaire: du 11<sup>e</sup> au 180<sup>e</sup> jour à compter de la confirmation de l’infection;
+  - c. dans le cas d’une analyse des anticorps contre le SARS-CoV-2: durant la validité du certificat correspondant (art. 34*a*, al. 1, let. c, de l’ordonnance COVID-19 certificats).
+
+- 2\.2 La guérison peut être prouvée au moyen du certificat COVID-19 au sens de l’art. 1, let. a, ch. 2, de l’ordonnance COVID-19 certificats ou d’un certificat étranger reconnu au sens de la section 7 de l’ordonnance COVID-19 certificats.
+- 2\.3
+
+  La preuve peut aussi être fournie d’une autre manière que selon le ch. 2.2. Elle doit correspondre à une forme actuellement usuelle. Outre le nom, le prénom et la date de naissance de la personne concernée, elle doit contenir une des informations suivantes:
+
+  - a. l’attestation de l’infection comprenant le nom et l’adresse du service ayant produit l’attestation (lieu de test, médecin, pharmacie, hôpital);
+  - b. l’attestation de la levée de l’isolement ou l’attestation médicale de la guérison.
 
 Annexe 2*[^t-3]*
 

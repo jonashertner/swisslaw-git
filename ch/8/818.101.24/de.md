@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2022-03-15
+version: 2022-03-21
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220315-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220321/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220321-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220321/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220315/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 15. März 2022)
+vom 19. Juni 2020 (Stand am 21. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -87,14 +87,16 @@ Die Einreise für einen bewilligungsfreien Aufenthalt ohne Erwerbstätigkeit bis
 
 Von diesem Einreiseverbot ausgenommen sind Personen, die:
 
-- a. den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, wird in Anhang 1*a* geregelt; oder
-- b. glaubhaft machen, dass sie sich in einer Situation der äussersten Notwendigkeit befinden.[^4-7]
+- a.[^4-7] den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, die Dauer, für welche die Impfung gilt, sowie die zugelassenen Nachweisarten werden in Anhang 1*a* Ziffer 1 geregelt;
+- a<sup>bis</sup>.[^4-8] den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme sowie die zugelassenen Nachweisarten werden in Anhang 1*a* Ziffer 2 geregelt;
+- b. glaubhaft machen, dass sie sich in einer Situation der äussersten Notwendigkeit befinden;
+- c.[^4-9] das 18. Altersjahr noch nicht vollendet haben.[^4-10]
 
-<sup>2bis</sup> Kinder unter 18 Jahren, die in Begleitung von erwachsenen Personen nach Absatz 2 Buchstabe a einreisen, müssen keine Impfung nachweisen.[^4-8]
+<sup>2bis</sup> ...[^4-11]
 
-<sup>2ter</sup> Die Ausnahme nach Absatz 2 Buchstabe a gilt nicht für Personen, die aus einem Land oder einer Region nach Anhang 1 Ziffer 2 in die Schweiz einreisen wollen.[^4-9]
+<sup>2ter</sup> Die Ausnahmen nach Absatz 2 Buchstaben a, a<sup>bis</sup> und c gelten nicht für Personen, die aus einem Land oder einer Region nach Anhang 1 Ziffer 2 in die Schweiz einreisen wollen.[^4-12]
 
-<sup>2quater</sup> Das Staatssekretariat für Migration (SEM) erlässt für die Ausnahmen vom Einreiseverbot die notwendigen Weisungen.[^4-10]
+<sup>2quater</sup> Das Staatssekretariat für Migration (SEM) erlässt für die Ausnahmen vom Einreiseverbot die notwendigen Weisungen.[^4-13]
 
 <sup>3</sup> Entscheide der zuständigen Behörden können sofort vollstreckt werden. Artikel 65 AIG gilt sinngemäss. Gegen den Einspracheentscheid des SEM kann innerhalb von 30 Tagen nach der Eröffnung Beschwerde erhoben werden. Die Beschwerde hat keine aufschiebende Wirkung.
 
@@ -106,10 +108,13 @@ Von diesem Einreiseverbot ausgenommen sind Personen, die:
 [^4-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^4-5]: Aufgehoben durch Anhang 2 Ziff. 2 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021, mit Wirkung seit 8. Febr. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 [^4-6]: Fassung gemäss Ziff. I der V vom 21. Dez. 2020, in Kraft seit 21. Dez. 2020 um 13.00 Uhr ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
-[^4-7]: Fassung gemäss Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-8]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-9]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
-[^4-10]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-7]: Fassung gemäss Ziff. I der V vom 18. März 2022, in Kraft seit 21. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-8]: Eingefügt durch Ziff. I der V vom 18. März 2022, in Kraft seit 21. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-9]: Eingefügt durch Ziff. I der V vom 18. März 2022, in Kraft seit 21. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-10]: Fassung gemäss Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-11]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Aufgehoben durch Ziff. I der V vom 18. März 2022, mit Wirkung seit 21. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-12]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Fassung gemäss Ziff. I der V vom 18. März 2022, in Kraft seit 21. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^4-13]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
 #### Art. 5
 
@@ -145,9 +150,9 @@ Das Eidgenössische Justiz- und Polizeidepartement (EJPD) führt die Anhänge 1 
 
 **Erteilung von Visa**[^10-1]
 
-Ausländerinnen und Ausländern, die aus einem Risikoland oder aus einer Risikoregion kommend in die Schweiz einreisen wollen und die nicht vom FZA[^10-2] oder vom EFTA-Übereinkommen[^10-3] erfasst werden, wird die Erteilung von Schengen-Visa für bewilligungsfreie Aufenthalte ohne Erwerbstätigkeit bis zu drei Monaten verweigert. Ausgenommen davon sind Gesuche von Personen gemäss Artikel 4 Absätze 2 und 2<sup>bis</sup>.
+Ausländerinnen und Ausländern, die aus einem Risikoland oder aus einer Risikoregion kommend in die Schweiz einreisen wollen und die nicht vom FZA[^10-2] oder vom EFTA-Übereinkommen[^10-3] erfasst werden, wird die Erteilung von Schengen-Visa für bewilligungsfreie Aufenthalte ohne Erwerbstätigkeit bis zu drei Monaten verweigert. Ausgenommen davon sind Gesuche von Personen gemäss Artikel 4 Absatz 2.
 
-[^10-1]: Fassung gemäss Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 18. März 2022, in Kraft seit 21. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 [^10-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^10-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -707,21 +712,22 @@ Nicht als besonders gefährdet gelten:
 
   Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten:
 
-  - 1\. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 270 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
-  - 2\.[^27a-3] aufgrund einer Analyse auf Sars-CoV-2-Antikörper: während der Dauer der Gültigkeit des entsprechenden Zertifikats (Art. 34*a* Abs. 1 Bst. c der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^27a-4]).[^27a-5]
+  - 1\.[^27a-3] aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 180 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
+  - 2\.[^27a-4] aufgrund einer Analyse auf Sars-CoV-2-Antikörper: während der Dauer der Gültigkeit des entsprechenden Zertifikats (Art. 34*a* Abs. 1 Bst. c der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^27a-5]).[^27a-6]
 
 <sup>12</sup> Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 11 als besonders gefährdet eingestuft werden.
 
 <sup>13</sup> Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.
 
-<sup>14</sup> …[^27a-6]
+<sup>14</sup> …[^27a-7]
 
 [^27a-1]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
 [^27a-2]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-3]: Fassung gemäss Ziff. III der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft vom 17. Febr. 2022 bis zum 31. März 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
-[^27a-4]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-5]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
-[^27a-6]: Aufgehoben durch Anhang Ziff. 2 der Covid-19-Verordnung besondere Lage vom 16. Febr. 2022, mit Wirkung seit 17. Febr. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
+[^27a-3]: Fassung gemäss Ziff. I der V vom 18. März 2022, in Kraft vom 21. März 2022 bis zum 31. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
+[^27a-4]: Fassung gemäss Ziff. III der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft vom 17. Febr. 2022 bis zum 31. März 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^27a-5]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-6]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft vom 25. Jan. 2022 bis zum 31. März 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^27a-7]: Aufgehoben durch Anhang Ziff. 2 der Covid-19-Verordnung besondere Lage vom 16. Febr. 2022, mit Wirkung seit 17. Febr. 2022 ([AS 2022 97](https://fedlex.data.admin.ch/eli/oc/2022/97)).
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -834,13 +840,15 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 
 Anhang 1a*[^t-2]*
 
-(Art. 4 Abs. 2 Bst. a und Art. 5)
+(Art. 4 Abs. 2 Bst. a und a<sup>bis</sup> sowie Art. 5)
 
-## Geimpfte Personen
+## Geimpfte und genesene Personen
 
-[^t-2]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Bereinigt gemäss Anhang Ziff. 3 I der V vom 17. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)) und Anhang Ziff. 2 der V vom 19. Jan. 2022 (Verlängerung der Massnahmen, Verkürzung der Gültigkeitsdauer von Impf- und Genesungszertifikaten, Verzicht auf die Erhebung von Kontaktdaten, Ausnahmen von der Zertifikatspflicht für internationale Delegationen, Bestimmungen für eidgenössische Maturitäts- und Berufsmaturitätsprüfungen), in Kraft seit 31. Jan. 2022 ([AS 2022 21](https://fedlex.data.admin.ch/eli/oc/2022/21)).
+[^t-2]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Fassung gemäss Ziff. II der V vom 18. März 2022, in Kraft seit 21. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
-- 1
+### 1 Geimpfte Personen
+
+- 1\.1
 
   Als geimpfte Personen gelten Personen, die mit einem Impfstoff geimpft wurden, der:
 
@@ -849,16 +857,36 @@ Anhang 1a*[^t-2]*
   - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde; oder
   - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
-- 2 Die Dauer, während der geimpfte Personen vom Einreiseverbot nach Artikel 4 Absatz 1 ausgenommen sind, beträgt 270 Tage ab der vollständig erfolgten Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 270 Tage ab dem 22. Tag nach erfolgter Impfung.
-- 3 Der Nachweis für Geimpfte kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 1 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex1a-lvlu1-1] oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
-- 4
+- 1\.2 Die Dauer der Gültigkeit einer Impfung beträgt 270 Tage ab der vollständig erfolgten Impfung oder nach einer Auffrischimpfung nach einer vollständigen Impfung; beim Impfstoff Ad26.COV2.S / Covid-19 Vaccine Janssen beträgt die Dauer 270 Tage ab dem 22. Tag nach erfolgter Impfung.
+- 1\.3 Der Nachweis für Geimpfte kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 1 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex1a-lvlu1-lvl1-1] oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
+- 1\.4
 
-  Der Nachweis kann auch anders als gemäss Ziffer 3 erbracht werden. Er muss einer aktuell üblichen Nachweisform entsprechen. Er muss neben dem Namen, Vornamen und Geburtsdatum der betreffenden Person folgende Angaben enthalten:
+  Der Nachweis kann auch anders als gemäss Ziffer 1.3 erbracht werden. Er muss einer aktuell üblichen Nachweisform entsprechen. Er muss neben dem Namen, Vornamen und Geburtsdatum der betreffenden Person folgende Angaben enthalten:
 
   - a. Datum der Impfung;
   - b. verwendeter Impfstoff.
 
-[^annex1a-lvlu1-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^annex1a-lvlu1-lvl1-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+### 2 Genesene Personen
+
+- 2\.1
+
+  Eine Genesung ist für die folgende Zeitdauer gültig:
+
+  - a. im Falle einer molekularbiologischen Analyse auf Sars-CoV-2: vom 11. bis zum 180. Tag nach der Bestätigung der Ansteckung;
+  - b. im Falle eines Sars-CoV-2-Schnelltests zur Fachanwendung oder einer laborbasierten immunologischen Analyse auf Sars-CoV-2, mit Ausnahme von Tests und Analysen, die auf einer Probenentnahme nur aus dem Nasenraum oder auf einer Speichelprobe basieren: vom 11. bis zum 180. Tag nach der Bestätigung der Ansteckung;
+  - c. im Falle einer Analyse auf Sars-CoV-2-Antikörper: während der Dauer der Gültigkeit des entsprechenden Zertifikats (Art. 34*a* Abs. 1 Bst. c der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex1a-lvlu1-lvl2-1]);
+
+- 2\.2 Der Nachweis für Genesung kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 2 der Covid-19-Verordnung Zertifikate oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
+- 2\.3
+
+  Der Nachweis kann auch anders als gemäss Ziffer 2.2 erbracht werden. Er muss einer aktuell üblichen Nachweisform entsprechen. Er muss neben dem Namen, Vornamen und Geburtsdatum der betreffenden Person eine der folgenden Angaben enthalten:
+
+  - a. Bestätigung der Ansteckung einschliesslich Name und Adresse der bestätigenden Stelle (Teststelle, Ärztin oder Arzt, Apotheke, Spital);
+  - b. Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung.
+
+[^annex1a-lvlu1-lvl2-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
 Anhang 2*[^t-3]*
 
