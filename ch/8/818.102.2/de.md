@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-02-23
+version: 2022-03-21
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220223/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220223-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220223/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220321/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220321-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220223/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 23. Februar 2022)
+vom 4. Juni 2021 (Stand am 21. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -904,17 +904,17 @@ Anhang 3*[^t-3]*
 
 ## Besondere Bestimmungen über Covid-19-Genesungszertifikate
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate), in Kraft seit 17. Febr. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 16. Febr. 2022 (Auslaufen der nur in der Schweiz gültigen Covid-19-Zertifikate) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)). Bereinigt gemäss Anhang Ziff. 2 der V vom 18. März 2022, in Kraft seit 21. März 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
 ### 1 Beginn und Dauer der Gültigkeit
 
-- 1\.1 Beginn der Gültigkeit: am elften Tag nach dem ersten positiven Ergebnis einer molekularbiologischen Analyse auf Sars-CoV-2.
-- 1\.2 Gültigkeitsdauer: 270 Tage, berechnet ab dem Tag des positiven Ergebnisses nach Ziffer 1.1.
+- 1\.1 Beginn der Gültigkeit: am 11. Tag nach dem ersten positiven Ergebnis.
+- 1\.2 Gültigkeitsdauer: 180 Tage, berechnet ab dem Tag des positiven Ergebnisses nach Ziffer 1.1.
 
 ### 2 Angaben zur durchgemachten Krankheit und zum Zeitpunkt der Genesung
 
-- 2\.1 Durchgemachte Krankheit («Covid-19»)-
-- 2\.2 Datum des ersten positiven Ergebnisses einer molekularbiologischen Analyse auf Sars-CoV-2.
+- 2\.1 Durchgemachte Krankheit («Covid-19»).
+- 2\.2 Datum des ersten positiven Ergebnisses.
 - 2\.3 Beginn der Gültigkeit.
 - 2\.4 Ende der Gültigkeit.
   - [tab]

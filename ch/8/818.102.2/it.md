@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-02-23
+version: 2022-03-21
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220223/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220223-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220223/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220321/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220321-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220223/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 23 febbraio 2022)
+del 4 giugno 2021 (Stato 21 marzo 2022) (Stato 21 marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -908,17 +908,17 @@ Allegato 3*[^t-3]*
 
 ## Disposizioni particolari sui certificati di guarigione dalla COVID-19
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera), in vigore dal 17 feb. 2022 ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 16 feb. 2022 (Scadenza dei certificati COVID-19 validi solo in Svizzera ([RU 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)). Aggiornato dall’all. n. 2 dell’O del 18 mar. 2022, in vigore dal 21 mar. 2022 ([RU 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
 ### 1 Inizio e durata della validità
 
-- 1\.1 Inizio della validità: l’11° giorno successivo a quello del primo risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2.
-- 1\.2 Durata di validità: 270 giorni calcolati dal giorno del risultato positivo del test di cui al numero 1.1.
+- 1\.1 Inizio della validità: l’11° giorno dopo il primo risultato positivo.
+- 1\.2 Durata di validità: 180 giorni, calcolati dal giorno del risultato positivo secondo il numero 1.1.
 
 ### 2 Informazioni sulla malattia contratta e sul momento della guarigione
 
 - 2\.1 Malattia contratta («COVID-19»).
-- 2\.2 Data del primo risultato positivo di un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2.
+- 2\.2 Data del primo risultato positivo.
 - 2\.3 Inizio della validità del certificato.
 - 2\.4 Fine della validità del certificato.
 

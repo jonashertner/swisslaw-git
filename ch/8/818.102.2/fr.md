@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-02-23
+version: 2022-03-21
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220223/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220223-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220223/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220321/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220321-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220223/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 23 février 2022)
+du 4 juin 2021 (Etat le 21 mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -908,17 +908,17 @@ Annexe 3*[^t-3]*
 
 ## Dispositions particulières applicables aux certificats de guérison COVID-19
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse), en vigueur depuis le 17 fév. 2022 ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 16 fév. 2022 (Expiration des certificats dont la validité est limitée à la Suisse) ([RO 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)). Mise à jour par l’annexe ch. 2 de l’O du 18 mars 2022, en vigueur depuis le 21 mars 2022 ([RO 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
 ### 1 Début de la validité et durée de validité
 
-- 1\.1 Début de la validité: le 11<sup>e</sup> jour suivant le premier résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2.
-- 1\.2 Durée de validité: 270 jours à compter de la date du résultat positif visé au ch. 1.1.
+- 1\.1 Début de la validité: le 11<sup>e</sup> jour suivant le premier résultat positif.
+- 1\.2 Durée de validité: 180 jours à compter de la date du résultat positif visé au ch. 1.1.
 
 ### 2 Indications concernant la maladie dont la personne a guéri et la date de la guérison
 
 - 2\.1 Maladie dont la personne a guéri («COVID-19»)
-- 2\.2 Date du premier résultat positif d’une analyse de biologie moléculaire pour le SARS-CoV-2
+- 2\.2 Date du premier résultat positif
 - 2\.3 Début de la validité
 - 2\.4 Fin de la validité
 

@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2022-02-23
+version: 2022-03-21
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220223/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220223-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220223/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20220321/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20220321-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20220321/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 23 February 2022)
+of 4 June 2021 (Status as of 21 March 2022)
 
 The Swiss Federal Council,
 
@@ -906,17 +906,17 @@ Annex 3*[^t-3]*
 
 ## Special provisions concerning COVID-19 recovery certificates
 
-[^t-3]: Amended by No II para. 2 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland), in force since 17 Feb. 2022 ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)).
+[^t-3]: Amended by No II para. 2 of the O of 16 Feb. 2022 (Expiry of COVID-19 Certificates only valid in Switzerland) ([AS 2022 99](https://fedlex.data.admin.ch/eli/oc/2022/99)). Revised by Annex No 2 of the O of 18 March 2022, in force since 21 March 2022 ([AS 2022 182](https://fedlex.data.admin.ch/eli/oc/2022/182)).
 
 ### 1 Start of validity and duration
 
-- 1\.1 Start of validity: on the eleventh day after the positive result of a molecular biological analysis for Sars-CoV-2.
-- 1\.2 Period of validity: 270 days from the date of the positive result referred to in number 1.1.
+- 1\.1 Start of validity: on the 11th day after the first positive result.
+- 1\.2 Period of validity: 180 days from the date of the positive result referred to in number 1.1.
 
 ### 2 Details on the disease and the date of recovery
 
-- 2\.1 Disease from which the holder has recovered (COVID-19)
-- 2\.2 Date of the first positive result of a molecular-biological analysis for Sars-CoV-2.
+- 2\.1 Disease from which the holder has recovered (COVID-19).
+- 2\.2 Date of the first positive result.
 - 2\.3 Start of validity.
 - 2\.4 End of validity.
 
