@@ -3,11 +3,11 @@ sr: "0.232.149.514"
 title: "Trattato del 22 dicembre 1978 tra la Confederazione Svizzera e il Principato del Liechtenstein sulla protezione conferita dai brevetti d'invenzione (Trattato sui brevetti) (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/284_285_285"
 language: it
-version: 2021-10-05
+version: 2022-03-22
 adopted: 1978-12-22
 in_force: 1980-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20211005/it/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20211005-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20211005/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20220322/it/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20220322-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20220322/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso il 22 dicembre 1978 Approvato dall’Assemblea federale il 4 dicembre 1979[^t-1] Strumenti di ratificazione scambiati il 24 gennaio 1980 Entrato in vigore il 1° aprile 1980
 
-(Stato 5 ottobre 2021)
+(Stato 22 marzo 2022)
 
 [^t-1]: RU **1980** 285; FF **1979** II 261 RU **1980** 284
 
@@ -245,11 +245,11 @@ Il presente trattato è parimente applicabile ai brevetti d’invenzione rilasci
 
 *In fede di che*, i plenipotenziari hanno firmato il presente trattato. Fatto a Vaduz, in doppio esemplare in lingua tedesca, il 22 dicembre 1978. Per la Confederazione Svizzera: Paul Braendli Per il Principato del Liechtenstein: Hans Brunhart
 
-Allegati[^t-2]
+Allegati*[^t-2]*
 
 <table>
-<tr><td>Allegato I</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
-<tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>**Allegato I**</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>**Allegato** **II**</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-2]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 5 ott. 2021 (stato: 30 giugno 2021). Questi all. non sono più pubblicati nella RU ([RU 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710)). Estratti periodicamente aggiornati si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.232.
+[^t-2]: Gli All. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 22 mar. 2022 (stato: 31 dic. 2021). Questi all. non sono più pubblicati nella RU ([RU 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209)). Estratti periodicamente aggiornati si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.232.
