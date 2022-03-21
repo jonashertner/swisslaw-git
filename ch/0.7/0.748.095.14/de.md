@@ -3,11 +3,11 @@ sr: "0.748.095.14"
 title: Notenaustausch vom 27. Januar 2003 zwischen der Schweiz und Liechtenstein betreffend die Zusammenarbeit der schweizerischen und der liechtensteinischen Behörden im Bereich der Zivilluftfahrt (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: de
-version: 2021-10-05
+version: 2022-03-22
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20211005/de/xml/fedlex-data-admin-ch-eli-cc-2003-487-20211005-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20211005/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20220322/de/xml/fedlex-data-admin-ch-eli-cc-2003-487-20220322-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20220322/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ AS **2003** 3431
 
 In Kraft getreten am 27. Januar 2003
 
-(Stand am 5. Oktober 2021)
+(Stand am 22. März 2022)
 
 Originaltext
 
@@ -88,12 +88,11 @@ Gerne benützt die Botschaft des Fürstentums Liechtenstein auch diesen Anlass, 
 [^t-3]: Fassung gemäss Notenaustausch vom 22. Dez. 2010, in Kraft seit 22. Dez. 2010 ([AS 2011 1221](https://fedlex.data.admin.ch/eli/oc/2011/181)).
 [^t-4]: [SR 0.748.095.141](https://fedlex.data.admin.ch/eli/cc/2001/434)
 
-Anlagen*[^t-5]*
+Anlagen[^t-5]
 
 <table>
 <tr><td>Anlage I</td><td>– Liste der schweizerischen Erlasse,</td></tr>
-<tr><td>**Anlage II**</td><td>– Liste der Staatsverträge,</td></tr>
-<tr><td>[tab]</td><td>die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
+<tr><td>Anlage II</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-5]: Die Anlagen I und II sind seit dem 27. Januar 2003 halbjährlich, letztmals auf den 5. Oktober 2021 (Stand: 30. Juni 2021), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712)). Separatdrucke der halbjährlich bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.748 konsultiert werden.
+[^t-5]: Die Anlagen I und II sind seit dem 27. Januar 2003 halbjährlich, letztmals auf den 22. März 2022 (Stand: 31. Dezember 2021), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211)). Separatdrucke der halbjährlich bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern, oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.748 konsultiert werden.
