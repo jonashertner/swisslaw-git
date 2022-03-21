@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Traité du 29 mars 1923 entre la Suisse et la Principauté de Liechtenstein concernant la réunion de la Principauté de Liechtenstein au territoire douanier suisse (avec protocole final et annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: fr
-version: 2022-01-01
+version: 2022-03-22
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20220322/fr/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20220322-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20220322/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instruments de ratification échangés le 28 décembre 1923
 
 Entré en vigueur le 1<sup>er</sup> janvier 1924
 
-(Etat le 1<sup>er</sup> janvier 2022)
+(Etat le 22 mars 2022)
 
 [^t-1]: RO **39** 564
 
@@ -401,4 +401,4 @@ Annexes*[^t-4]*
 <tr><td>**Annexe II**</td><td>– Liste des traités internationaux applicables dans la Principauté de Liechtenstein</td></tr>
 </table>
 
-[^t-4]: Les annexes I et II ont été mises à jour régulièrement dès le 27 octobre 1998 deux fois par an dès le 21 juin 2005 et pour la dernière fois le 5 octobre 2021 (état au 30 juin 2021). Ces annexes ne sont plus publiées dans le RO (RO **2021** 303, 711). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.631.
+[^t-4]: Les annexes I et II ont été mises à jour régulièrement dès le 27 octobre 1998, deux fois par an dès le 21 juin 2005 et pour la dernière fois le 22 mars 2022 (état au 31 décembre 2021). Ces annexes ne sont plus publiées dans le RO (RO **2021** 303, 711; **2022** 210). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.631.
