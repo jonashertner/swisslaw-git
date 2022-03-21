@@ -4,13 +4,12 @@ number: "505.13"
 title: Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19 im Jahr 2022
 short: Härtefallverordnung 2022 BL
 language: de
-version: 2022-03-01
-valid_until: 2022-03-21
-version_adopted: 2022-02-22
+version: 2022-03-22
+version_adopted: 2022-03-22
 adopted: 2022-02-22
 in_force: 2022-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/505.13"
-pdf: "https://bl.clex.ch/api/de/versions/3262/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3288/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3262/pdf_file"
 
 (Härtefallverordnung 2022 BL)
 
-Vom 22.02.2022 (Stand 01.03.2022)
+Vom 22.02.2022 (Stand 22.03.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -83,9 +82,11 @@ beschliesst:
 
 #### § 6
 
-**Wesentlichkeitsgrenze für Beiträge**
+**Ober- und Wesentlichkeitsgrenzen für Beiträge**
 
-<sup>1</sup> Es werden keine Beiträge ausbezahlt, die pro Bemessungszeitraum weniger als 1 % des Jahresumsatzes gemäss Art. 5 Abs. 8 der Covid-19-Härtefallverordnung 2022 des Bundes oder weniger als CHF 3'000.– betragen.
+<sup>1</sup> Es werden keine Beiträge ausbezahlt, die pro Monat weniger als 1 % des Jahresumsatzes gemäss Art. 5 Abs. 8 der Covid-19-Härtefallverordnung 2022 des Bundes oder weniger als CHF 1'000.– betragen.
+
+<sup>2</sup> Für Beiträge gemäss § 4 Abs. 1 gilt eine Obergrenze von 1,5 % des Jahresumsatzes gemäss Art. 5 Abs. 8 der Covid-19-Härtefallverordnung 2022 des Bundes.
 
 #### § 7
 
