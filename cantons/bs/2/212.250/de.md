@@ -4,24 +4,23 @@ number: "212.250"
 title: "Verordnung über die Aufnahme, Betreuung und Förderung von Kindern und Jugendlichen in Heimen"
 short: "Kinder- und Jugendheimverordnung, KJHVO"
 language: de
-version: 2017-01-01
-valid_until: 2022-03-23
-version_adopted: 2016-12-06
+version: 2022-03-24
+version_adopted: 2022-03-15
 adopted: 2016-12-06
 in_force: 2017-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/212.250"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4042/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5489/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Aufnahme, Betreuung und Förderung von Kindern und Jugendlichen in Heimen
 
-Kinder und Jugendliche in Heimen: Verordnung | Personen- und Familienrecht: Spezielle Erlasse
+Personen- und Familienrecht: Spezielle Erlasse
 
 (Kinder- und Jugendheimverordnung, KJHVO)
 
-Vom 6. Dezember 2016 (Stand 1. Januar 2017)
+Vom 6. Dezember 2016 (Stand 24. März 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -220,6 +219,58 @@ beschliesst:
 <sup>2</sup> Es entscheidet über die Beitragsberechtigung. Der Entscheid legt fest, für welche Leistungsangebote Beiträge ausgerichtet werden.
 
 <sup>3</sup> Sind die Anerkennungsvoraussetzungen nicht mehr gegeben oder kommt das Heim der Aufforderung zur Behebung beanstandeter Mängel nicht nach, so kann das zuständige Departement die Anerkennung widerrufen.
+
+## III<sup>bis</sup>. Besondere Bestimmungen für Jugendheime mit geschlossenen Abteilungen
+
+#### § 20a
+
+**Disziplinarmassnahmen**
+
+<sup>1</sup> Die Heimleitung kann gegenüber Jugendlichen, die in schuldhafter Weise gegen die Heimordnung oder gegen Weisungen und Anordnungen der Heimleitung oder des Heimpersonals verstossen, angemessene Disziplinarmassnahmen anordnen.
+
+<sup>2</sup> Als schuldhafter Verstoss gelten insbesondere:
+
+- a) Gewalt, Drohung und Beschimpfung gegenüber der Heimleitung, dem Heimpersonal, anderen Jugendlichen oder anwesenden Dritten;
+- b) Flucht und Vorbereitungshandlungen dazu;
+- c) Urlaubsmissbrauch;
+- d) Störung des Schul-, Arbeits- oder Wohnbetriebs;
+- e) Besitz und Konsum von sowie Handel mit Alkohol und Betäubungsmitteln sowie Missbrauch von Arzneimitteln;
+- f) Besitz von und Handel mit unerlaubten Gegenständen;
+- g) Widersetzung gegen sowie Vereitelung, Umgehung oder Verfälschung von Kontrollen;
+- h) Beschädigung und Aneignung fremden Eigentums;
+- i) Missbräuchliche Verwendung von Geräten zur elektronischen Kommunikation.
+
+<sup>3</sup> Versuch, Anstiftung und Gehilfenschaft zur Begehung von schuldhaften Verstössen können ebenfalls disziplinarisch geahndet werden.
+
+<sup>4</sup> Als Disziplinarmassnahmen können angeordnet werden:
+
+- a) Schriftliche Verwarnung;
+- b) Einschränkung von Sport- und Freizeitaktivitäten bis zu einem Monat;
+- c) Einschränkung des Besuchs- und Urlaubsrechts bis zu einem Monat;
+- d) Entzug oder Einschränkung von Vergünstigungen bis zu zwei Monaten;
+- e) Einschliessung im Zimmer bis zu fünf Tagen;
+- f) Time-out-Platzierung bis zu zwei Wochen;
+- g) Einschliessung im Arrestzimmer bis zu sieben Tagen.
+
+#### § 20b
+
+**Sicherheits- und Zwangsmassnahmen**
+
+<sup>1</sup> Bei Verdacht auf Verbergen unerlaubter Gegenstände oder auf Konsum und Besitz von Alkohol oder Betäubungsmitteln und Missbrauch von Arzneimitteln kann die Heimleitung folgende Kontrollen und Durchsuchungen anordnen:
+
+- a) Kontrolle der persönlichen Gegenstände und der Unterkunft;
+- b) Leibesvisitation;
+- c) Atemluft-, Urin-, Blut- und Haarkontrollen.
+
+<sup>2</sup> Bestehen bei einem oder einer Jugendlichen konkrete Anzeichen für eine Flucht, die Gefahr von Fremd- oder Selbstgefährdung oder die Gefahr einer erheblichen Sachbeschädigung, kann die Heimleitung folgende Sicherheitsmassnahmen anordnen:
+
+- a) Entzug von Gegenständen, deren missbräuchliche Verwendung zu befürchten ist;
+- b) Trennung von anderen Jugendlichen;
+- c) Entzug des Aufenthaltsrechts in den Gemeinschaftsräumen;
+- d) Vorübergehende Beschränkung des Kontakts zur Aussenwelt;
+- e) Unterbringung in einem besonders gesicherten Raum oder in einem Arrestzimmer.
+
+<sup>3</sup> Bei unmittelbarer Gefahr für Dritte oder Sachen, unmittelbarer Selbstgefährdung oder zur Verhinderung einer Flucht kann die Heimleitung oder von ihr bezeichnetes Heimpersonal Zwangsmittel anwenden, sofern keine andere Möglichkeit besteht, die Gefährdung abzuwenden.
 
 ## IV. Beiträge des Kantons
 
