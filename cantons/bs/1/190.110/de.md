@@ -3,22 +3,21 @@ canton: BS
 number: "190.110"
 title: Verordnung zum Kirchengesetz
 language: de
-version: 1995-02-05
-valid_until: 2022-03-23
-version_adopted: 1994-12-13
+version: 2022-03-24
+version_adopted: 2022-03-15
 adopted: 1994-12-13
 in_force: 1995-02-05
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/190.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3286/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5490/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Kirchengesetz
 
-Kirchenverordnung | Staat und Kirche
+Staat und Kirche
 
-Vom 13. Dezember 1994 (Stand 5. Februar 1995)
+Vom 13. Dezember 1994 (Stand 24. März 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -53,8 +52,6 @@ a) Kirchen der Evangelisch-reformierten Kirche:
 – Martinskirche
 
 – Matthäuskirche
-
-– Oekolampad
 
 – Pauluskirche
 
