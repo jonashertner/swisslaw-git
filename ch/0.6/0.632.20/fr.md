@@ -3,11 +3,11 @@ sr: "0.632.20"
 title: "Accord du 15 avril 1994 instituant l'Organisation mondiale du commerce (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117"
 language: fr
-version: 2021-01-01
+version: 2022-03-24
 adopted: 1994-04-15
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-2117_2117_2117-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2117_2117_2117/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117/20220324/fr/xml/fedlex-data-admin-ch-eli-cc-1995-2117_2117_2117-20220324-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2117_2117_2117/20220324/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 1<sup>er</sup> juin 1995
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 1995
 
-(Etat le 1<sup>er</sup> janvier 2021)
+(État le 24 mars 2022)
 
 [^t-1]: [RO 1995 2113](https://fedlex.data.admin.ch/eli/oc/1995/2113_2113_2113)
 
@@ -62,7 +62,7 @@ L’Organisation mondiale du commerce (ci-après dénommée l’«OMC») est ins
 
 <sup>4.</sup> L’Accord général sur les tarifs douaniers et le commerce de 1994 tel qu’il est spécifié à l’Annexe 1A (ci-après dénommé le «GATT de 1994») est juridiquement distinct de l’Accord général sur les tarifs douaniers et le commerce, en date du 30 octobre 1947[^II-1], annexé à l’Acte final adopté à la clôture de la deuxième session de la Commission préparatoire de la Conférence des Nations Unies sur le commerce et l’emploi, tel qu’il a été rectifié, amendé ou modifié par la suite (ci-après dénommé le «GATT de 1947»).
 
-[^II-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^II-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. III
 
@@ -135,7 +135,7 @@ Le Comité du budget, des finances et de l’administration proposera au Conseil
 
 <sup>4.</sup> Chaque Membre versera à l’OMC, dans les moindres délais, la contribution correspondant à sa part des dépenses de l’OMC conformément au règlement financier adopté par le Conseil général.
 
-[^VII-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^VII-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. VIII
 
@@ -168,7 +168,7 @@ Le Comité du budget, des finances et de l’administration proposera au Conseil
 
 <sup>5.</sup> Les décisions au titre d’un Accord commercial plurilatéral, y compris toutes décisions concernant des interprétations et des dérogations, seront régies par les dispositions dudit accord.
 
-[^IX-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^IX-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 [^IX-2]: L’organe concerné sera réputé avoir pris une décision par consensus sur une question dont il a été saisi si aucun Membre, présent à la réunion au cours de laquelle la décision est prise, ne s’oppose formellement à la décision proposée.
 [^IX-3]: Le nombre de voix des Communautés européennes et de leurs États membres ne dépassera en aucun cas le nombre des États membres des Communautés européennes.
 [^IX-4]: Les décisions du Conseil général lorsque celui-ci se réunira en tant qu’Organe de règlement des différends ne seront prises que conformément aux dispositions du par. 4 de l’art. 2 du Mémorandum d’accord sur le règlement des différends.
@@ -214,7 +214,7 @@ Art. 4 de l’Accord sur les ADPIC.
 
 <sup>2.</sup> Les pays les moins avancés reconnus comme tels par les Nations Unies ne seront tenus de contracter des engagements et de faire des concessions que dans la mesure compatible avec les besoins du développement, des finances et du commerce de chacun d’entre eux ou avec leurs capacités administratives et institutionnelles.
 
-[^XI-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XI-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. XII
 
@@ -240,7 +240,7 @@ Art. 4 de l’Accord sur les ADPIC.
 
 <sup>5.</sup> La non-application d’un Accord commercial plurilatéral entre parties audit accord sera régie par les dispositions dudit accord.
 
-[^XIII-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XIII-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. XIV
 
@@ -254,7 +254,7 @@ Art. 4 de l’Accord sur les ADPIC.
 
 <sup>4.</sup> L’acceptation et l’entrée en vigueur d’un Accord commercial plurilatéral seront régies par les dispositions dudit accord. Les Accords de ce type seront déposés auprès du Directeur général des Parties contractantes du GATT de 1947. A l’entrée en vigueur du présent accord, ces accords seront déposés auprès du Directeur général de l’OMC.
 
-[^XIV-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XIV-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. XV
 
@@ -280,7 +280,7 @@ Art. 4 de l’Accord sur les ADPIC.
 
 <sup>6.</sup> Le présent accord sera enregistré conformément aux dispositions de l’art. 102 de la Charte des Nations Unies.
 
-[^XVI-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XVI-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 Fait à Marrakech le quinze avril mil neuf cent quatre-vingt-quatorze, en un seul exemplaire, en langues française, anglaise et espagnole, les trois textes faisant foi. Notes explicatives: Le terme «pays» tel qu’il est utilisé dans le présent accord et dans les Accords commerciaux multilatéraux doit être interprété comme incluant tout territoire douanier distinct Membre de l’OMC. S’agissant d’un territoire douanier distinct Membre de l’OMC, dans les cas où le qualificatif «national» accompagnera une expression utilisée dans le présent accord et dans les Accords commerciaux multilatéraux, cette expression s’interprétera, sauf indication contraire, comme se rapportant à ce territoire douanier.
 
@@ -348,11 +348,11 @@ Accord international sur le secteur laitier[^t-3]
 
 Accord international sur la viande bovine[^t-4]
 
-[^t-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^t-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^t-3]: [[RO 1995 2555](https://fedlex.data.admin.ch/eli/oc/1995/2555_2555_2555). [RO 1998 2698](https://fedlex.data.admin.ch/eli/oc/1998/2698_2698_2698)]
 [^t-4]: [[RO 1995 2597](https://fedlex.data.admin.ch/eli/oc/1995/2597_2597_2597). [RO 1998 2699](https://fedlex.data.admin.ch/eli/oc/1998/2699_2699_2699)**]**
 
-Annexe 1.A
+Annexe 1A
 
 ## Accords multilatéraux sur le commerce des marchandises
 
@@ -403,7 +403,7 @@ Annexe 1A.1
 - d) Un Membre qui considère que cette exemption s’applique d’une façon qui justifie une limitation réciproque et proportionnée de l’utilisation, de la vente, de la location ou de la réparation de navires construits sur le territoire du Membre qui se prévaut de l’exemption sera libre d’introduire une telle limitation sous réserve qu’il ait adressé une notification préalable à la Conférence ministérielle.
 - e) Cette exemption est sans préjudice des solutions concernant des aspects spécifiques de la législation couverte par cette exemption négociées dans des accords sectoriels ou dans d’autres enceintes.
 
-[^annexu1-lvlu1-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^annexu1-lvlu1-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 [^annexu1-lvlu1-2]: Les dérogations couvertes par cette disposition sont énumérées dans la note de bas de page 7, page 13 de la Partie II du document MTN/FA du 15 décembre 1993, et dans le document MTN/FA/Corr. 6 du 21 mars 1994. La Conférence ministérielle établira à sa première session une liste révisée des dérogations couvertes par cette disposition, incluant toutes les dérogations accordées en vertu du GATT de 1947 après le 15 décembre 1993 et avant la date d’entrée en vigueur de l’Accord sur l’OMC et excluant les dérogations qui seront venues alors à expiration.
 
 Annexe 1A.1.a
@@ -428,7 +428,7 @@ Les Membres conviennent de ce qui suit:
 
 \8. La décision mentionnée au par. 2 concernant la date applicable pour chaque concession aux fins du par. 1 b) de l’art. II du GATT de 1994 remplace la décision relative à la date applicable prise le 26 mars 1980 (IBDD, S27/25).
 
-[^annexu1-lvlu1-3]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^annexu1-lvlu1-3]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 Annexe 1A.1.b
 
@@ -530,7 +530,7 @@ conviennent de ce qui suit:
 
 ### Art. XXIV:5
 
-[^annexu1-lvlu1-6]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^annexu1-lvlu1-6]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 \2. L’évaluation au titre du par. 5 a) de l’art. XXIV de l’incidence générale des droits de douane et autres réglementations commerciales applicables avant et après l’établissement d’une union douanière se fera en ce qui concerne les droits de douane et impositions sur la base d’une évaluation globale des taux de droits moyens pondérés et des droits de douane perçus. Seront utilisées pour cette évaluation les statistiques des importations faites pendant une période représentative antérieure qui seront communiquées par l’union douanière, par ligne tarifaire, en valeur et en volume, ventilées par pays d’origine membre de l’OMC. Le Secrétariat calculera les taux de droits moyens pondérés et les droits de douane perçus selon la méthodologie utilisée dans l’évaluation des offres tarifaires faites au cours des Négociations commerciales multilatérales du Cycle d’Uruguay. A cette fin, les droits de douane et impositions à prendre en considération seront les taux de droits appliqués. Il est reconnu qu’aux fins de l’évaluation globale de l’incidence des autres réglementations commerciales qu’il est difficile de quantifier et d’agréger, l’examen de chaque mesure, réglementation, produit visé et flux commercial affecté pourra être nécessaire.
 
@@ -610,7 +610,7 @@ En aucun cas, le montant de la compensation due par un Membre ne dépassera celu
 
 \7. Il sera accordé à tout Membre ayant un intérêt comme principal fournisseur, aux termes du par. 1 ci-dessus ou du par. 1 de l’art. XXVIII, dans une concession qui est modifiée ou retirée, un droit de négociateur primitif dans les concessions compensatoires, à moins qu’une autre forme de compensation ne soit convenue par les Membres concernés.
 
-Annexe 1.A.1.g*[^t-5]*
+Annexe 1A.1.g[^t-5]
 
 ## Déclaration sur l’Expansion du commerce des produits des technologies de l’information
 
@@ -636,7 +636,7 @@ déclarent ce qui suit:
 ### Echelonnement
 
 [^annexu1-lvlu1-7]: Pour le compte de l’union douanière entre la Suisse et le Liechtenstein.
-[^annexu1-lvlu1-8]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), annexe 1A.1
+[^annexu1-lvlu1-8]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), annexe 1A.1
 
 \2. Les parties procéderont à quatre réductions annuelles égales des droits de douane, échelonnées sur une période standard de trois ans, qui commenceront en 2016 et se termineront en 2019, à moins qu’il n’en soit autrement convenu par les parties, en reconnaissant qu’un échelonnement des réductions sur une période plus longue pourra être nécessaire dans des circonstances limitées. Le taux réduit devrait à chaque étape être arrondi à la première décimale. Chaque partie incorporera des engagements relatifs à l’échelonnement pour chaque produit dans sa Liste de concessions[^annexu1-lvlu1-lvlu1-1] annexée à l’Accord général sur les tarifs douaniers et le commerce de 1994 («Liste de concessions»).
 
@@ -912,21 +912,24 @@ Appendice B
 
 \*\* L’élimination des droits visant le matériel imprimé affectera uniquement les droits et obligations liés au commerce de marchandises et n’aura donc aucune incidence sur l’accès aux marchés, sauf en ce qui concerne les droits des participants. Rien dans l’accord sur l’élargissement de l’ATI n’empêchera les parties à l’accord de réglementer le contenu de ces marchandises, y compris le contenu Web, entre autres choses. Rien dans l’accord sur l’élargissement de l’ATI n’affectera les droits et obligations des parties en matière d’accès aux marchés, s’agissant du commerce des services, et rien n’empêchera les parties de réglementer leur marché des services.
 
-Annexe 1.A.1.h*[^t-6]*
+Annexe 1A.1.h[^t-6]
 
-## Modification de la Liste LIX-Suisse-Liechtenstein**** concernant la viande assaisonnée****
+## Modification de la Liste LIX-Suisse-Liechtenstein concernant la viande assaisonnée
 
 [^annexu1-lvlu2-1][^annexu1-lvlu2-2]
 
 [^t-6]: [RO 2021 232](https://fedlex.data.admin.ch/eli/oc/2021/232)
-[^annexu1-lvlu2-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Annexe 1A.1
-[^annexu1-lvlu2-2]: La Liste LIX Suisse-Liechtenstein n’est pas publiée dans le RO. Elle est disponible uniquement en français et elle est juridiquement contraignante uniquement dans cette version. Les modifications citées ont été publiées dans le [RS 0.632.290.17](https://fedlex.data.admin.ch/eli/cc/2021/247); **2021** 247. Un tiré à part de la liste peut être obtenu ou consulté auprès de la Direction générale des douanes, section Tarif douanier, 3003 Berne.
+[^annexu1-lvlu2-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Annexe 1A.1
+[^annexu1-lvlu2-2]: La Liste LIX Suisse-Liechtenstein n’est pas publiée dans le RO. Elle est disponible uniquement en français et elle est juridiquement contraignante uniquement dans cette version. Les modifications citées ont été publiées dans le [RS 0.632.290.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20012); **2021** 247. Un tiré à part de la liste peut être obtenu ou consulté auprès de la Direction générale des douanes, section Tarif douanier, 3003 Berne.
 
 Approuvée par l’Assemblée fédérale le 19 mars 2021[^annexu1-lvlu2-3]
 
 Appliquée provisoirement par la Suisse dès le 1<sup>er</sup> janvier 2021
 
+Entrée en vigueur pour la Suisse le 24 mars 2022[^annexu1-lvlu2-4]
+
 [^annexu1-lvlu2-3]: [FF 2021 679](https://fedlex.data.admin.ch/eli/fga/2021/679)
+[^annexu1-lvlu2-4]: [RO 2022 326](https://fedlex.data.admin.ch/eli/oc/2022/326)
 
 Annexe 1A.2
 
@@ -957,7 +960,7 @@ conviennent de ce qui suit:
 
 \9. La date du présent protocole est le 15 avril 1994.
 
-[^annexu1-lvlu1-9]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^annexu1-lvlu1-9]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 [^annexu1-lvlu1-10]: La Liste LIX Suisse-Liechtenstein n’est pas publiée dans le RO. Elle est disponible uniquement en français et elle est juridiquement contraignante uniquement dans cette version. Un tiré à part de la liste peut être obtenu ou consulté auprès de la Direction générale des douanes, section Tarif douanier, 3003 Berne.
 
 Annexe 1A.3
@@ -1044,7 +1047,7 @@ Le présent accord s’applique aux produits énumérés à l’Annexe 1 du pré
 
 <sup>2.</sup> Les Membres ne maintiendront pas de mesures du type de celles qui ont dû être converties en droits de douane proprement dits[^annexu1-lvlu1-partIII-4-1], ni ne recourront ni ne reviendront à de telles mesures, exception faite de ce qui est prévu à l’art. 5 et à l’Annexe 5.
 
-[^annexu1-lvlu1-partIII-4-1]: Ces mesures comprennent les restrictions quantitatives à l’importation, les prélèvements variables à l’importation, les prix minimaux à l’importation, les régimes d’importation discrétionnaires, les mesures non tarifaires appliquées par l’intermédiaire d’entreprises commerciales d’État, les autolimitations des exportations, et les mesures à la frontière similaires autres que les droits de douane proprement dits, que ces mesures soient ou non appliquées au titre de dérogations aux dispositions du GATT de 1947 ([RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)) dont bénéficient certains pays, mais non les mesures appliquées au titre de dispositions relatives à la balance des paiements ou au titre d’autres dispositions générales ne concernant pas spécifiquement l’agriculture du GATT de 1994 ou des autres Accords commerciaux multilatéraux figurant à l’Annexe 1A de l’Accord sur l’OMC.
+[^annexu1-lvlu1-partIII-4-1]: Ces mesures comprennent les restrictions quantitatives à l’importation, les prélèvements variables à l’importation, les prix minimaux à l’importation, les régimes d’importation discrétionnaires, les mesures non tarifaires appliquées par l’intermédiaire d’entreprises commerciales d’État, les autolimitations des exportations, et les mesures à la frontière similaires autres que les droits de douane proprement dits, que ces mesures soient ou non appliquées au titre de dérogations aux dispositions du GATT de 1947 ([RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)) dont bénéficient certains pays, mais non les mesures appliquées au titre de dispositions relatives à la balance des paiements ou au titre d’autres dispositions générales ne concernant pas spécifiquement l’agriculture du GATT de 1994 ou des autres Accords commerciaux multilatéraux figurant à l’Annexe 1A de l’Accord sur l’OMC.
 
 #### Art. 5
 
@@ -1189,7 +1192,7 @@ Les Membres fournissant une aide alimentaire internationale feront en sorte:
 - b) que les transactions relevant de l’aide alimentaire internationale, y compris l’aide alimentaire bilatérale qui est monétisée, s’effectuent conformément aux «Principes de la FAO en matière d’écoulement des excédents et obligations consultatives», y compris, le cas échéant, le système des importations commerciales habituelles; et
 - c) que cette aide soit fournie dans la mesure du possible intégralement à titre de dons ou à des conditions non moins favorables que celles qui sont prévues à l’art. IV de la Convention de 1986 relative à l’aide alimentaire[^annexu1-lvlu1-partV-10-1].
 
-[^annexu1-lvlu1-partV-10-1]: [[RO 1986 2049](https://fedlex.data.admin.ch/eli/oc/1986/2049_2049_2049), [1987 1815](https://fedlex.data.admin.ch/eli/oc/1987/1815_1815_1815), [1989 1541](https://fedlex.data.admin.ch/eli/oc/1989/1541_1541_1541), [1991 800](https://fedlex.data.admin.ch/eli/oc/1991/800_800_800)[801](https://fedlex.data.admin.ch/eli/oc/1991/801_801_801), [1994 356](https://fedlex.data.admin.ch/eli/oc/1994/356_356_356)[357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357). [RO 1996 2642](https://fedlex.data.admin.ch/eli/oc/1996/2642_2642_2642)] Voir actuellement l’Accord international sur les céréales de 1995 ([RS 0.916.111.311](https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642)).
+[^annexu1-lvlu1-partV-10-1]: [[RO 1986 2049](https://fedlex.data.admin.ch/eli/oc/1986/2049_2049_2049), [1987 1815](https://fedlex.data.admin.ch/eli/oc/1987/1815_1815_1815), [1989 1541](https://fedlex.data.admin.ch/eli/oc/1989/1541_1541_1541), [1991 800](https://fedlex.data.admin.ch/eli/oc/1991/800_800_800)[801](https://fedlex.data.admin.ch/eli/oc/1991/801_801_801), [1994 356](https://fedlex.data.admin.ch/eli/oc/1994/356_356_356)[357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357). [RO 1996 2642](https://fedlex.data.admin.ch/eli/oc/1996/2642_2642_2642)] Voir actuellement l’Accord international sur les céréales de 1995 ([RS 0.916.111.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4035)).
 
 #### Art. 11
 
@@ -1551,7 +1554,7 @@ Appendice de l’Annexe 5 Lignes directrices pour le calcul des équivalents tar
 
 \7. Dans les cas où le niveau d’un équivalent tarifaire qui aurait résulté des lignes directrices ci-dessus sera ajusté, le Membre concerné ménagera, sur demande, toutes possibilités de consultation en vue de négocier des solutions appropriées.
 
-## Décision ministérielle: Mémorandum d’Accord sur les dispositions relatives à l’administration des contingents tarifaires pour les produits agricoles, tels que définis à l’art. 2 de l’Accord sur l’agriculture****
+## Décision ministérielle: Mémorandum d’Accord sur les dispositions relatives à l’administration des contingents tarifaires pour les produits agricoles, tels que définis à l’art. 2 de l’Accord sur l’agriculture
 
 [^annexde-lvlA-1]
 
@@ -1666,7 +1669,7 @@ décide ce qui suit:
 ### Notification et transparence
 
 [^annexB-lvlC-2]: La solution permanente sera applicable à tous les Membres en développement.
-[^annexB-lvlC-3]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Annexe 1A.3
+[^annexB-lvlC-3]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Annexe 1A.3
 [^annexB-lvlC-4]: Cette expression désigne les produits agricoles primaires qui sont des aliments de base prédominants du régime traditionnel de la population d’un Membre en développement.
 [^annexB-lvlC-5]: La présente décision n’empêche pas les Membres en développement de mettre en place des programmes de détention de stocks publics à des fins de sécurité alimentaire conformément aux dispositions pertinentes de l’Accord sur l’agriculture.
 
@@ -1731,7 +1734,7 @@ décide ce qui suit:
 - 5\. Renseignements statistiques (suivant l’appendice statistique ci‑après).
 - 6\. Tous autres renseignements jugés pertinents, y compris les données de sites Web.
 
-**Appendice statistique (*****par culture*****) (données pour les trois dernières années)**
+**Appendice statistique (*****par culture*****)** **(données pour les trois dernières années)**
 
 <table>
 <tr><th></th><th>Unité</th><th>[Année 1]</th><th>[Année 2]</th><th>[Année 3]</th></tr>
@@ -4314,7 +4317,7 @@ Aucune disposition du présent accord ne sera interprétée comme restreignant o
 
 <sup>3.</sup> Les pays développés Membres fourniront, selon des modalités convenues d’un commun accord, une assistance technique aux pays en développement Membres qui en feront la demande. Sur cette base, les pays développés Membres établiront des programmes d’assistance technique qui pourront comporter, entre autres, la formation de personnel, une assistance pour l’établissement de mesures de mise en œuvre, l’accès aux sources d’information concernant la méthodologie en matière d’évaluation en douane, et des conseils au sujet de l’application des dispositions du présent accord.
 
-[^annexu1-lvlu1-partIII-20-1]: [RS 0.632.231.3](https://fedlex.data.admin.ch/eli/cc/1979/2468_2472_2472)
+[^annexu1-lvlu1-partIII-20-1]: [RS 0.632.231.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2253)
 
 ### Partie IV Dispositions finales
 
@@ -4988,17 +4991,17 @@ Jusqu’à ce que le programme de travail pour l’harmonisation des règles d�
 
 - b) nonobstant la mesure ou l’instrument de politique commerciale auxquels elles seront liées, leurs règles d’origine ne seront pas utilisées comme des instruments visant à favoriser, directement ou indirectement, la réalisation des objectifs en matière de commerce;
 - c) les règles d’origine ne créeront pas en soi d’effets de restriction, de distorsion ou de désorganisation du commerce international. Elles n’imposeront pas de prescriptions indûment rigoureuses ni n’exigeront, comme condition préalable à la détermination du pays d’origine, le respect d’une certaine condition non liée à la fabrication ou à l’ouvraison. Toutefois, les coûts non directement liés à la fabrication ou à l’ouvraison pourront être pris en compte aux fins d’application du critère du pourcentage ad valorem, conformément à l’al. a);
-- d) les règles d’origine qu’ils appliqueront aux importations et aux exportations ne seront pas plus strictes que celles qu’ils appliqueront pour déterminer si une marchandise est ou non d’origine nationale et ils n’établiront pas de discrimination entre les autres Membres, quelle que soit l’affiliation des fabricants de la marchandise en question[^annexu1-lvlu1-partII-2-1];
+- d) les règles d’origine qu’ils appliqueront aux importations et aux exportations ne seront pas plus strictes que celles qu’ils appliqueront pour déterminer si une marchandise est ou non d’origine nationale et ils n’établiront pas de discrimination entre les autres Membres, quelle que soit l’affiliation des fabricants de la marchandise en question[^annexu1-lvlu1-partII-3-1];
 - e) leurs règles d’origine seront administrées d’une manière cohérente, uniforme, impartiale et raisonnable;
 - f) leurs règles d’origine seront fondées sur un critère positif. Les règles d’origine qui énonceront ce qui ne conférera pas l’origine (critère négatif) pourront être admises comme élément de clarification d’un critère positif ou dans les cas particuliers où une détermination positive de l’origine ne sera pas nécessaire;
 - g) leurs lois, réglementations, et décisions judiciaires et administratives d’application générale concernant les règles d’origine seront publiées comme si elles étaient soumises aux dispositions du par. 1 de l’art. X du GATT de 1994 et conformément à celles-ci;
-- h) à la demande d’un exportateur, d’un importateur ou de toute personne ayant des motifs valables, des appréciations de l’origine qu’ils attribueraient à une marchandise seront fournies aussitôt que possible, mais 150 jours au plus tard[^annexu1-lvlu1-partII-2-2] après qu’une telle appréciation aura été demandée, à condition que tous les éléments nécessaires aient été communiqués. Les demandes d’appréciations seront acceptées avant que les échanges de la marchandise en question ne commencent et pourront être acceptées à tout moment par la suite. Les appréciations demeureront valables trois ans, sous réserve que les faits sur lesquels elles auront été fondées et que les conditions dans lesquelles elles auront été effectuées, y compris les règles d’origine, demeurent comparables. A condition que les parties concernées en soient informées à l’avance, les appréciations ne seront plus valables lorsqu’une décision qui leur sera contraire sera rendue dans le cadre d’une révision prévue à l’al. j). Les appréciations seront rendues publiques sous réserve des dispositions de l’al. k);
+- h) à la demande d’un exportateur, d’un importateur ou de toute personne ayant des motifs valables, des appréciations de l’origine qu’ils attribueraient à une marchandise seront fournies aussitôt que possible, mais 150 jours au plus tard[^annexu1-lvlu1-partII-3-2] après qu’une telle appréciation aura été demandée, à condition que tous les éléments nécessaires aient été communiqués. Les demandes d’appréciations seront acceptées avant que les échanges de la marchandise en question ne commencent et pourront être acceptées à tout moment par la suite. Les appréciations demeureront valables trois ans, sous réserve que les faits sur lesquels elles auront été fondées et que les conditions dans lesquelles elles auront été effectuées, y compris les règles d’origine, demeurent comparables. A condition que les parties concernées en soient informées à l’avance, les appréciations ne seront plus valables lorsqu’une décision qui leur sera contraire sera rendue dans le cadre d’une révision prévue à l’al. j). Les appréciations seront rendues publiques sous réserve des dispositions de l’al. k);
 - i) lorsqu’ils apporteront des modifications à leurs règles d’origine ou introduiront de nouvelles règles d’origine, ils n’appliqueront pas ces changements rétroactivement comme leurs lois ou réglementations le prévoiraient et sans préjudice de celles-ci;
 - j) toute décision administrative qu’ils prendront en matière de détermination de l’origine pourra être révisée dans les moindres délais par des tribunaux ou selon des procédures judiciaires, arbitraux ou administratifs, indépendants de l’autorité qui aura établi la détermination, qui pourront modifier ou infirmer cette détermination;
 - k) tous les renseignements qui seront de nature confidentielle ou qui seront fournis à titre confidentiel aux fins d’application des règles d’origine seront traités comme strictement confidentiels par les autorités concernées, qui ne les divulgueront pas sans l’autorisation expresse de la personne ou du gouvernement qui les aura fournis, sauf dans la mesure où leur divulgation pourra être requise dans le contexte d’une procédure judiciaire.
 
-[^annexu1-lvlu1-partII-2-1]: En ce qui concerne les règles d’origine appliquées aux fins des marchés publics, cette disposition ne créera pas d’obligations en sus de celles qui sont déjà assumées par les Membres au titre du GATT de 1994.
-[^annexu1-lvlu1-partII-2-2]: En ce qui concerne les demandes faites pendant la première année à compter de la date d’entrée en vigueur de l’Accord sur l’OMC, les Membres seront seulement tenus de fournir ces appréciations aussitôt que possible.
+[^annexu1-lvlu1-partII-3-1]: En ce qui concerne les règles d’origine appliquées aux fins des marchés publics, cette disposition ne créera pas d’obligations en sus de celles qui sont déjà assumées par les Membres au titre du GATT de 1994.
+[^annexu1-lvlu1-partII-3-2]: En ce qui concerne les demandes faites pendant la première année à compter de la date d’entrée en vigueur de l’Accord sur l’OMC, les Membres seront seulement tenus de fournir ces appréciations aussitôt que possible.
 
 #### Art. 3
 
@@ -5101,12 +5104,12 @@ En vue d’harmoniser les règles d’origine et, notamment, d’assurer plus de
 
     Après avoir achevé les travaux visés à l’al. ii) pour chaque secteur ou catégorie de produits pour lesquels l’utilisation exclusive de la nomenclature du SH ne permet pas de dire qu’il y a transformation substantielle, le Comité technique:
 
-    - – envisagera et étudiera dans le détail, sur la base du critère de la transformation substantielle, la possibilité d’utiliser, en sus ou exclusivement, d’autres critères, y compris celui du pourcentage ad valorem[^annexu1-lvlu1-partIV-9-subdivu2-1] et/ou celui de l’opération de fabrication ou d’ouvraison[^annexu1-lvlu1-partIV-9-subdivu2-2], lors de l’élaboration de règles d’origine pour des produits particuliers ou pour un secteur de produits;
+    - – envisagera et étudiera dans le détail, sur la base du critère de la transformation substantielle, la possibilité d’utiliser, en sus ou exclusivement, d’autres critères, y compris celui du pourcentage ad valorem[^annexu1-lvlu1-partIV-8-subdivu2-1] et/ou celui de l’opération de fabrication ou d’ouvraison[^annexu1-lvlu1-partIV-8-subdivu2-2], lors de l’élaboration de règles d’origine pour des produits particuliers ou pour un secteur de produits;
     - – pourra fournir des explications concernant ses propositions;
     - – fractionnera les travaux susmentionnés par produit en tenant compte des chapitres ou sections de la nomenclature du SH, de façon à communiquer les résultats de ses travaux au Comité au moins tous les trimestres. Le Comité technique achèvera les travaux susmentionnés dans un délai de deux ans et trois mois à compter de la réception de la demande du Comité.
 
-[^annexu1-lvlu1-partIV-9-subdivu2-1]: Si c’est le critère du pourcentage ad valorem qui est prescrit, la méthode de calcul de ce pourcentage sera également indiquée dans les règles d’origine.
-[^annexu1-lvlu1-partIV-9-subdivu2-2]: Si c’est le critère de l’opération de fabrication ou d’ouvraison qui est prescrit, l’opération qui conférera l’origine au produit en question sera indiquée de manière précise.
+[^annexu1-lvlu1-partIV-8-subdivu2-1]: Si c’est le critère du pourcentage ad valorem qui est prescrit, la méthode de calcul de ce pourcentage sera également indiquée dans les règles d’origine.
+[^annexu1-lvlu1-partIV-8-subdivu2-2]: Si c’est le critère de l’opération de fabrication ou d’ouvraison qui est prescrit, l’opération qui conférera l’origine au produit en question sera indiquée de manière précise.
 
 ### Rôle du Comité
 
@@ -5119,9 +5122,9 @@ Sur la base des principes énoncés au par. 1:
 
 ### Résultats du programme de travail pour l’harmonisation et travaux ultérieurs
 
-<sup>4.</sup> La Conférence ministérielle reprendra les résultats du programme de travail pour l’harmonisation dans une annexe qui fera partie intégrante du présent accord.[^annexu1-lvlu1-partIV-9-subdivu4-1] La Conférence ministérielle fixera un délai pour l’entrée en vigueur de cette annexe.
+<sup>4.</sup> La Conférence ministérielle reprendra les résultats du programme de travail pour l’harmonisation dans une annexe qui fera partie intégrante du présent accord.[^annexu1-lvlu1-partIV-8-subdivu4-1] La Conférence ministérielle fixera un délai pour l’entrée en vigueur de cette annexe.
 
-[^annexu1-lvlu1-partIV-9-subdivu4-1]: En même temps, on étudiera les arrangements relatifs au règlement des différends se rapportant à la classification douanière.
+[^annexu1-lvlu1-partIV-8-subdivu4-1]: En même temps, on étudiera les arrangements relatifs au règlement des différends se rapportant à la classification douanière.
 
 Annexe I Comité technique des règles d’origine
 
@@ -5267,7 +5270,7 @@ Outre celles des par. 1 à 11 de l’article premier et du par. 1 du présent ar
 - b) les Membres reconnaissent que les licences d’importation automatiques peuvent être nécessaires lorsqu’il n’existe pas d’autres procédures appropriées. Les licences d’importation automatiques peuvent être maintenues aussi longtemps qu’existent les circonstances qui ont motivé leur mise en vigueur et que les objectifs administratifs recherchés ne peuvent pas être atteints de façon plus appropriée.
 
 [^annexu1-lvlu1-2-1]: Les procédures de licences d’importation imposant le dépôt d’un cautionnement, qui n’exercent pas d’effets de restriction sur les importations, sont à considérer comme relevant des dispositions des par. 1 et 2.
-[^annexu1-lvlu1-2-2]: Un pays en développement Membre, autre qu’un pays en développement Membre qui était Partie à l’Accord relatif aux procédures en matière de licences d’importation ([RS 0.632.231.43](https://fedlex.data.admin.ch/eli/cc/1979/2505_2509_2509)), en date du 12 avril 1979, auquel les prescriptions des al. a) ii) et a) iii) causeront des difficultés spécifiques, pourra, sur notification au Comité, différer l’application des dispositions de ces alinéas pour une période qui n’excédera pas deux ans à compter de la date d’entrée en vigueur de l’Accord sur l’OMC pour le Membre en question.
+[^annexu1-lvlu1-2-2]: Un pays en développement Membre, autre qu’un pays en développement Membre qui était Partie à l’Accord relatif aux procédures en matière de licences d’importation ([RS 0.632.231.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2257)), en date du 12 avril 1979, auquel les prescriptions des al. a) ii) et a) iii) causeront des difficultés spécifiques, pourra, sur notification au Comité, différer l’application des dispositions de ces alinéas pour une période qui n’excédera pas deux ans à compter de la date d’entrée en vigueur de l’Accord sur l’OMC pour le Membre en question.
 
 #### Art. 3
 
@@ -5430,11 +5433,11 @@ Les Membres conviennent de ce qui suit:
 
 3.1 Exception faite de ce qui est prévu dans l’Accord sur l’agriculture, les subventions définies à l’article premier dont la liste suit seront prohibées:
 
-- a) subventions subordonnées, en droit ou en fait[^annexu1-lvlu1-partII-3-1], soit exclusivement, soit parmi plusieurs autres conditions, aux résultats à l’exportation, y compris celles qui sont énumérées à titre d’exemple dans l’Annexe I[^annexu1-lvlu1-partII-3-2];
+- a) subventions subordonnées, en droit ou en fait[^annexu1-lvlu1-partII-3-3], soit exclusivement, soit parmi plusieurs autres conditions, aux résultats à l’exportation, y compris celles qui sont énumérées à titre d’exemple dans l’Annexe I[^annexu1-lvlu1-partII-3-4];
 - b) subventions subordonnées, soit exclusivement, soit parmi plusieurs autres conditions, à l’utilisation de produits nationaux de préférence à des produits importés.
 
-[^annexu1-lvlu1-partII-3-1]: Cette condition est remplie lorsque les faits démontrent que l’octroi d’une subvention, sans avoir été juridiquement subordonné aux résultats à l’exportation, est en fait lié aux exportations ou recettes d’exportation effectives ou prévues. Le simple fait qu’une subvention est accordée à des entreprises qui exportent ne sera pas pour cette seule raison considéré comme une subvention à l’exportation au sens de cette disposition.
-[^annexu1-lvlu1-partII-3-2]: Les mesures désignées dans l’Annexe I comme ne constituant pas des subventions à l’exportation ne seront pas prohibées en vertu de cette disposition, ni d’aucune autre disposition du présent accord.
+[^annexu1-lvlu1-partII-3-3]: Cette condition est remplie lorsque les faits démontrent que l’octroi d’une subvention, sans avoir été juridiquement subordonné aux résultats à l’exportation, est en fait lié aux exportations ou recettes d’exportation effectives ou prévues. Le simple fait qu’une subvention est accordée à des entreprises qui exportent ne sera pas pour cette seule raison considéré comme une subvention à l’exportation au sens de cette disposition.
+[^annexu1-lvlu1-partII-3-4]: Les mesures désignées dans l’Annexe I comme ne constituant pas des subventions à l’exportation ne seront pas prohibées en vertu de cette disposition, ni d’aucune autre disposition du présent accord.
 
 #### Art. 4
 
@@ -6440,7 +6443,7 @@ Champ d’application le 8 mars 2017
 
 [^t-29]: L’Ac. sur la facilitation des échanges est entré en vigueur le 22 février 2017 pour les États parties mentionnés dans le champ d’application suivant.
 
-Annexe 1.B
+Annexe 1B
 
 ## Accord général sur le commerce des services
 
@@ -6872,7 +6875,7 @@ Fait à Genève, le 15 avril 1997, en un seul exemplaire, en langues française,
 
 [^declu2-lvlu1-lvlu1-lvlu14-lvlu1-2]: Ces listes ne seront pas publiées dans le Recueil officiel du droit fédéral. Elles seront rassemblées dans une publication spéciale ayant pour titre: «Suisse – Liste d’engagements spécifiques». Cette publication sera disponible en langue française auprès de l’Office central fédéral des imprimés et du matériel, Section Gestion, 3000 Berne.
 
-Annexe 1.C[^t-30]
+Annexe 1C[^t-30]
 
 ## Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce (ADPIC)
 
@@ -6942,7 +6945,7 @@ conviennent de ce qui suit:
 <sup>3.</sup> Les Membres accorderont le traitement prévu dans le présent accord aux ressortissants des autres Membres.[^declu3-1-1] Pour ce qui est du droit de propriété intellectuelle pertinent, les ressortissants des autres Membres s’entendront des personnes physiques ou morales qui rempliraient les critères requis pour bénéficier d’une protection prévus dans la Convention de Paris (1967), la Convention de Berne (1971), la Convention de Rome et le Traité sur la propriété intellectuelle en matière de circuits intégrés, si tous les Membres de l’OMC étaient membres de ces conventions.[^declu3-1-2] Tout Membre qui se prévaudra des possibilités offertes par le par. 3 de l’art. 5 ou le par. 2 de l’art. 6 de la Convention de Rome présentera une notification, comme il est prévu dans ces dispositions, au Conseil des aspects des droits de propriété intellectuelle qui touchent au commerce (ci-après dénommé le «Conseil des ADPIC»).
 
 [^declu3-1-1]: Lorsqu’il est question de «ressortissants» dans le présent accord, ce terme sera réputé couvrir, pour ce qui est d’un territoire douanier distinct Membre de l’OMC, les personnes, physiques ou morales, qui sont domiciliées ou ont un établissement industriel ou commercial réel et effectif sur ce territoire douanier.
-[^declu3-1-2]: Dans le présent accord, la «Convention de Paris» désigne la Convention de Paris pour la protection de la propriété industrielle; la «Convention de Paris (1967)» désigne l’Acte de Stockholm de ladite Convention, en date du 14 juillet 1967 ([RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)). La «Convention de Berne» désigne la Convention de Berne pour la protection des œuvres littéraires et artistiques; la «Convention de Berne (1971)» désigne l’Acte de Paris de ladite Convention, en date du 24 juillet 1971 ([RS 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)). La «Convention de Rome» désigne la Convention internationale sur la protection des artistes interprètes ou exécutants, des producteurs de phonogrammes et des organismes de radiodiffusion, adoptée à Rome le 26 octobre 1961 ([RS 0.231.171](https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696)). Le «Traité sur la propriété intellectuelle en matière de circuits intégrés» (Traité IPIC) désigne le Traité sur la propriété intellectuelle en matière de circuits intégrés, adopté à Washington le 26 mai 1989. L’«Accord sur l’OMC» désigne l’Accord instituant l’OMC.
+[^declu3-1-2]: Dans le présent accord, la «Convention de Paris» désigne la Convention de Paris pour la protection de la propriété industrielle; la «Convention de Paris (1967)» désigne l’Acte de Stockholm de ladite Convention, en date du 14 juillet 1967 ([RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)). La «Convention de Berne» désigne la Convention de Berne pour la protection des œuvres littéraires et artistiques; la «Convention de Berne (1971)» désigne l’Acte de Paris de ladite Convention, en date du 24 juillet 1971 ([RS 0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)). La «Convention de Rome» désigne la Convention internationale sur la protection des artistes interprètes ou exécutants, des producteurs de phonogrammes et des organismes de radiodiffusion, adoptée à Rome le 26 octobre 1961 ([RS 0.231.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1019)). Le «Traité sur la propriété intellectuelle en matière de circuits intégrés» (Traité IPIC) désigne le Traité sur la propriété intellectuelle en matière de circuits intégrés, adopté à Washington le 26 mai 1989. L’«Accord sur l’OMC» désigne l’Accord instituant l’OMC.
 
 #### Art. 2
 
@@ -7780,7 +7783,7 @@ Les Membres conviennent de ce qui suit:
 
 L’applicabilité du présent mémorandum d’accord aux Accords commerciaux plurilatéraux sera subordonnée à l’adoption, par les parties à chacun des accords, d’une décision établissant les modalités d’application du Mémorandum d’accord à l’accord en question, y compris toute règle ou procédure spéciale ou additionnelle à inclure dans l’Appendice 2, telle qu’elle aura été notifiée à l’ORD.
 
-[^declu4-lvlu1-lvlu28-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^declu4-lvlu1-lvlu28-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^declu4-lvlu1-lvlu28-2]: [[RO 1995 2555](https://fedlex.data.admin.ch/eli/oc/1995/2555_2555_2555). [RO 1998 2698](https://fedlex.data.admin.ch/eli/oc/1998/2698_2698_2698)]
 [^declu4-lvlu1-lvlu28-3]: [[RO 1995 2597](https://fedlex.data.admin.ch/eli/oc/1995/2597_2597_2597). [RO 1998 2699](https://fedlex.data.admin.ch/eli/oc/1998/2699_2699_2699)**]**
 
@@ -7923,7 +7926,7 @@ Annexe 4.a
 
 L’Accord relatif au commerce des aéronefs civils, fait à Genève le 12 avril 1979[^declu7-lvlu1-1], tel qu’il a été modifié, rectifié ou amendé ultérieurement.
 
-[^declu7-lvlu1-1]: [RS 0.632.231.8](https://fedlex.data.admin.ch/eli/cc/1979/2607_2614_2614)
+[^declu7-lvlu1-1]: [RS 0.632.231.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2265)
 
 Annexe 4.b
 
@@ -7931,7 +7934,7 @@ Annexe 4.b
 
 [^declu8-lvlu1-1]
 
-[^declu8-lvlu1-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^declu8-lvlu1-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 Annexe 4.c
 
@@ -8125,4 +8128,4 @@ Champ d’application le 2 juillet 2019[^t-32]
 <tr><td colspan="5"><sup>c</sup> Depuis le 1<sup>er</sup> janv. 2002, le Territoire douanier distinct Taiwan, Penghu, Kinmen et Matsu (Taipei chinois) est membre de l’Organisation mondiale du Commerce (OMC) sous le nom de Taipei chinois.</td></tr>
 </table>
 
-[^t-32]: [RO 1996 112](https://fedlex.data.admin.ch/eli/oc/1996/112_112_112), [2005 1223](https://fedlex.data.admin.ch/eli/oc/2005/175), [2009 513](https://fedlex.data.admin.ch/eli/oc/2009/92), [2013 3531](https://fedlex.data.admin.ch/eli/oc/2013/659), [2016 551](https://fedlex.data.admin.ch/eli/oc/2016/103), [2019 2247](https://fedlex.data.admin.ch/eli/oc/2019/421). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-32]: [RO 1996 112](https://fedlex.data.admin.ch/eli/oc/1996/112_112_112); [2005 1223](https://fedlex.data.admin.ch/eli/oc/2005/175); [2009 513](https://fedlex.data.admin.ch/eli/oc/2009/92); [2013 3531](https://fedlex.data.admin.ch/eli/oc/2013/659); [2016 551](https://fedlex.data.admin.ch/eli/oc/2016/103); [2019 2247](https://fedlex.data.admin.ch/eli/oc/2019/421). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty

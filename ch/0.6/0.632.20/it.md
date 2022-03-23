@@ -3,11 +3,11 @@ sr: "0.632.20"
 title: "Accordo del 15 aprile 1994 che istituisce l'Organizzazione mondiale del commercio (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117"
 language: it
-version: 2021-01-01
+version: 2022-03-24
 adopted: 1994-04-15
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1995-2117_2117_2117-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2117_2117_2117/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117/20220324/it/xml/fedlex-data-admin-ch-eli-cc-1995-2117_2117_2117-20220324-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2117_2117_2117/20220324/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1995** 2117; FF **1994** IV 1
 
 Traduzione
 
-Concluso a Marrakech il 15 aprile 1994
+Concluso a Marrakech il 15 aprile 1994 Approvato dall’Assemblea federale il 16 dicembre 1994[^t-1] Ratificato dalla Svizzera con strumenti depositati il 1° giugno 1995 Entrato in vigore per la Svizzera il 1° luglio 1995
 
-Approvato dall’Assemblea federale il 16 dicembre 1994[^t-1]
-
-Ratificato dalla Svizzera con strumenti depositati il 1° giugno 1995
-
-Entrato in vigore per la Svizzera il 1° luglio 1995
-
-(Stato 1° gennaio 2021)
+(Stato 24 marzo 2022)
 
 [^t-1]: [RU 1995 2113](https://fedlex.data.admin.ch/eli/oc/1995/2113_2113_2113)
 
@@ -62,7 +56,7 @@ Si istituisce l’Organizzazione mondiale del commercio (in appresso denominata 
 
 <sup>4.</sup> L’Accordo generale sulle tariffe doganali e sul commercio 1994 riportato nell’allegato 1A (in appresso denominato «GATT 1994») è giuridicamente distinto dall’Accordo generale sulle tariffe doganali e sul commercio datato 30 ottobre 1947[^II-1] allegato all’Atto finale adottato alla conclusione della seconda sessione del Comitato preparatorio della Conferenza delle Nazioni Unite sul commercio e sull’occupazione, come successivamente rettificato, emendato o modificato (in appresso denominato «GATT 1947»).
 
-[^II-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^II-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. III
 
@@ -135,7 +129,7 @@ Il Comitato bilancio, finanze e amministrazione propone al Consiglio generale re
 
 <sup>4.</sup> Ciascun Membro versa senza indugio all’OMC la sua quota delle spese dell’OMC conformemente ai regolamenti finanziari adottati dal Consiglio generale.
 
-[^VII-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^VII-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. VIII
 
@@ -168,7 +162,7 @@ Il Comitato bilancio, finanze e amministrazione propone al Consiglio generale re
 
 <sup>5.</sup> Le decisioni prese nell’ambito di un Accordo commerciale plurilaterale, ivi comprese le decisioni relative a interpretazioni e deroghe, sono disciplinate dalle disposizioni di tale Accordo.
 
-[^IX-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^IX-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 [^IX-2]: Si considera che l’organismo in questione abbia deciso all’unanimità su una questione sottoposta alla sua attenzione qualora nessun Membro presente alla riunione in cui viene presa la decisione si opponga formalmente alla decisione proposta.
 [^IX-3]: In nessun caso il numero dei voti delle Comunità europee e dei loro Stati membri può superare il numero degli Stati membri delle Comunità europee.
 [^IX-4]: Le decisioni del Consiglio generale convocato in quanto Organo di conciliazione sono prese solo in conformità delle disposizioni dell’art. 2, par. 4 dell’Intesa sulla risoluzione delle controversie.
@@ -207,7 +201,7 @@ Il Comitato bilancio, finanze e amministrazione propone al Consiglio generale re
 
 <sup>2.</sup> I paesi meno avanzati riconosciuti tali dalle Nazioni Unite saranno tenuti ad assumersi impegni e a riconoscere concessioni solo nella misura in cui ciò sia compatibile con le loro specifiche esigenze commerciali, finanziarie e di sviluppo o con le loro capacità amministrative e istituzionali.
 
-[^XI-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XI-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. XII
 
@@ -233,7 +227,7 @@ Il Comitato bilancio, finanze e amministrazione propone al Consiglio generale re
 
 <sup>5.</sup> La non applicazione di un Accordo commerciale plurilaterale tra le parti di tale Accordo è disciplinata dalle disposizioni di tale Accordo.
 
-[^XIII-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XIII-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. XIV
 
@@ -247,7 +241,7 @@ Il Comitato bilancio, finanze e amministrazione propone al Consiglio generale re
 
 <sup>4.</sup> L’accettazione e l’entrata in vigore di un Accordo commerciale plurilaterale sono disciplinate dalle disposizioni di detto accordo. I suddetti Accordi sono depositati presso il Direttore generale delle Parti contraenti del GATT 1947. A decorrere dall’entrata in vigore del presente Accordo, i suddetti Accordi sono depositati presso il Direttore generale dell’OMC.
 
-[^XIV-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XIV-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. XV
 
@@ -273,7 +267,7 @@ Il Comitato bilancio, finanze e amministrazione propone al Consiglio generale re
 
 <sup>6.</sup> Il presente Accordo è registrato conformemente alle disposizioni dell’articolo 102 dello Statuto delle Nazioni Unite.
 
-[^XVI-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XVI-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 Fatto a Marrakech, il quindici aprile millenovecentonovantaquattro, in un unico esemplare, in lingua inglese, francese e spagnola, ciascun testo facente fede. Note esplicative: Nel presente Accordo e negli Accordi commerciali multilaterali si utilizzano le espressioni «paese» e «paesi» per designare qualsiasi territorio doganale a sé stante Membro dell’OMC. Nel caso di un territorio doganale a sé stante Membro dell’OMC, il termine «nazionale» connesso a un’espressione del presente Accordo o degli Accordi commerciali multilaterali si intende come un riferimento a quel territorio doganale, salvo indicazioni diverse.
 
@@ -305,7 +299,7 @@ Allegato 4
 
 Accordi commerciali plurilaterali Accordo relativo agli scambi di aeromobili civili Accordo sugli appalti pubblici[^t-2] Accordo internazionale sui prodotti lattiero-caseari[^t-3] Accordo internazionale sulle carni bovine[^t-4]
 
-[^t-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^t-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^t-3]: [[RU 1995 2555](https://fedlex.data.admin.ch/eli/oc/1995/2555_2555_2555), [1998 2698](https://fedlex.data.admin.ch/eli/oc/1998/2698_2698_2698)]
 [^t-4]: [[RU 1995 2597](https://fedlex.data.admin.ch/eli/oc/1995/2597_2597_2597), [1998 2699](https://fedlex.data.admin.ch/eli/oc/1998/2699_2699_2699)]
 
@@ -360,10 +354,10 @@ Allegato 1A.1
 - d) Un Membro a giudizio del quale la presente esenzione operi in modo tale da giustificare una limitazione reciproca e proporzionale dell’uso, della vendita, del noleggio o della riparazione di natanti costruiti nel territorio del Membro che invoca l’esenzione è libero di introdurre tale limitazione, previa notifica alla Conferenza dei Ministri.
 - e) La presente esenzione non pregiudica le soluzioni relative a specifici aspetti degli atti legislativi contemplati dalla presente esenzione negoziate in accordi settoriali o in altra sede.
 
-[^annexu1-lvlu1-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^annexu1-lvlu1-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 [^annexu1-lvlu1-2]: Le deroghe oggetto di questa disposizione sono elencate nella nota 7 alle pagine 11 e 12, della Parte II del documento MTN/FA del 15 dic. 1993 e nel documento MTN/FA/Corr.6 del 21 mar. 1994. In occasione della sua prima sessione, la Conferenza dei Ministri stabilirà un elenco aggiornato delle deroghe oggetto di questa disposizione, aggiungendo le eventuali deroghe concesse ai sensi del GATT 1947 dopo il 15 dic. 1993 e prima della data di entrata in vigore dell’Acc. OMC ed eliminando le deroghe scadute prima di tale data.
 
-Allegato 1.A.1.a
+Allegato 1A.1.a
 
 ## Intesa sull’interpretazione dell’articolo II, paragrafo 1, lettera b), dell’Accordo generale sulle tariffe doganali e sul commercio 1994
 
@@ -385,7 +379,7 @@ I Membri concordano quanto segue:
 
 \8. La decisione di cui al paragrafo 2 relativa alla data di applicazione di ciascuna concessione ai fini dell’articolo II, paragrafo 1, lettera b) del GATT 1994 sostituisce e annulla la decisione relativa alla data di applicazione adottata il 26 marzo 1980 (BISD 27S/24).
 
-[^annexu1-lvlu1-3]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^annexu1-lvlu1-3]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 Allegato 1A.1.b
 
@@ -489,7 +483,7 @@ concordano quanto segue:
 
 ### Art. XXIV, paragrafo 5
 
-[^annexu1-lvlu1-6]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^annexu1-lvlu1-6]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 \2. La valutazione ai sensi dell’articolo XXIV, paragrafo 5, lettera a) dell’incidenza generale dei dazi e degli altri regolamenti commerciali applicabili prima e dopo la formazione di un’unione doganale si basa, per quanto riguarda i dazi e gli oneri, su una stima complessiva della media ponderata delle aliquote tariffarie e dei dazi doganali riscossi. Detta stima si basa sulle statistiche delle importazioni relative a un periodo rappresentativo precedente fornite dall’unione doganale, a livello di linea tariffaria, per valori e per quantitativi, suddivise per paese OMC d’origine. Il Segretariato calcola le medie ponderate delle aliquote tariffarie e dei dazi doganali riscossi con la metodologia utilizzata per la stima delle offerte tariffarie nei negoziati commerciali multilaterali dell’Uruguay Round. A tal fine, i dazi e gli oneri da prendere in considerazione sono le aliquote di dazio applicate. Ai fini della stima complessiva dell’incidenza degli altri regolamenti commerciali per i quali risultano difficili la quantificazione e l’aggregazione, si riconosce che può essere necessario esaminare le singole misure, i singoli regolamenti, i prodotti contemplati, e i flussi commerciali interessati.
 
@@ -568,7 +562,7 @@ In nessun caso la compensazione richiesta a un Membro può superare quella che c
 
 \7. A ogni Membro che abbia un interesse in quanto fornitore principale, ai sensi del paragrafo 1 della presente Intesa o dell’articolo XXVIII paragrafo 1, in relazione a una concessione modificata o revocata si riconosce un diritto in quanto negoziatore originale nelle concessioni compensative, a meno che i Membri interessati non concordino un’altra forma di compensazione.
 
-Allegato 1A.1.g*[^t-5]*
+Allegato 1A.1.g[^t-5]
 
 ## Dichiarazione sull’ampliamento del commercio dei prodotti delle tecnologie dell’informazione
 
@@ -594,7 +588,7 @@ dichiarano quanto segue:
 ### Soppressione progressiva dei dazi
 
 [^annexu1-lvlu1-7]: A nome dell’Unione doganale tra la Svizzera e il Liechtenstein.
-[^annexu1-lvlu1-8]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), allegato 1A.1
+[^annexu1-lvlu1-8]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), allegato 1A.1
 
 \2. Le Parti applicano una soppressione progressiva standard dei dazi doganali in tre anni, sotto forma di quattro riduzioni annuali uguali a partire dal 2016 e fino al 2019, se non diversamente convenuto dalle Parti, e riconoscono che, in circostanze limitate, potrebbe essere necessario protrarre i tempi di tali riduzioni. In ogni fase, l’aliquota ridotta dovrebbe essere arrotondata alla prima cifra decimale. Le Parti riportano gli impegni in materia di soppressione progressiva dei dazi per ciascun prodotto nei rispettivi elenchi delle concessioni[^annexu1-lvlu1-lvlu1-1] all’accordo generale sulle tariffe doganali e sul commercio del 1994 («elenco delle concessioni»).
 
@@ -874,21 +868,24 @@ Allegato B
 
 \*\* La soppressione dei dazi per gli stampati incide unicamente sui diritti e sugli obblighi in relazione al commercio di beni e non incide pertanto sull’accesso dei Partecipanti al mercato per aspetti che esulano dai dazi. Nessun elemento dell’Accordo sull’ampliamento dell’ITA (Accordo sulle tecnologie dell’informazione) impedisce a un membro del medesimo di disciplinare il contenuto di tali merci compresi, tra l’altro, i contenuti Internet. Nessuna disposizione dell’accordo sull’ampliamento dell’ITA incide sui diritti e sugli obblighi delle Parti di accesso al mercato in materia di commercio di servizi o impedisce a un membro di disciplinare il proprio mercato dei servizi.
 
-Allegato 1A.1.h*[^t-6]*
+Allegato 1A.1.h[^t-6]
 
-## Modifica della Lista LIX-Svizzera-Liechtenstein**** riguardante la carne condita
+## Modifica della Lista LIX-Svizzera-Liechtenstein riguardante la carne condita
 
 [^annexu1-lvlu1-9][^annexu1-lvlu1-10]
 
 [^t-6]: [RU 2021 232](https://fedlex.data.admin.ch/eli/oc/2021/232)
-[^annexu1-lvlu1-9]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Allegato 1A.1
-[^annexu1-lvlu1-10]: La Lista LIX-Svizzera-Liechtenstein non è pubblicata nella RU. È disponibile unicamente in francese e solo tale versione è vincolante. Le modifiche in questione sono state pubblicate nella [RS 0.632.290.17](https://fedlex.data.admin.ch/eli/cc/2021/247); [RU 2021 247](https://fedlex.data.admin.ch/eli/oc/2021/247). La Lista può essere richiesta in forma di estratto o consultata presso la Direzione generale delle dogane, Sezione Tariffa doganale, 3003 Berna.
+[^annexu1-lvlu1-9]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^annexu1-lvlu1-10]: La Lista LIX-Svizzera-Liechtenstein non è pubblicata nella RU. È disponibile unicamente in francese e solo tale versione è vincolante. Le mod. in questione sono state pubblicate nella [RS 0.632.290.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20012); [RU 2021 247](https://fedlex.data.admin.ch/eli/oc/2021/247). La Lista può essere richiesta in forma di estratto o consultata presso la Direzione generale delle dogane, Sezione Tariffa doganale, 3003 Berna.
 
 Approvata dall’Assemblea federale il 19 marzo 2021[^annexu1-lvlu1-11]
 
 Applicata provvisoriamente dalla Svizzera dal 1° gennaio 2021
 
+In vigore per la Svizzera dal 24 marzo 2022[^annexu1-lvlu1-12]
+
 [^annexu1-lvlu1-11]: [FF 2021 679](https://fedlex.data.admin.ch/eli/fga/2021/679)
+[^annexu1-lvlu1-12]: [RU 2022 326](https://fedlex.data.admin.ch/eli/oc/2022/326)
 
 Allegato 1A.2
 
@@ -896,11 +893,11 @@ Allegato 1A.2
 
 I Membri,
 
-avendo condotto negoziati nell’ambito del GATT 1947[^annexu1-lvlu1-12], conformemente alla Dichiarazione dei Ministri sull’Uruguay Round,
+avendo condotto negoziati nell’ambito del GATT 1947[^annexu1-lvlu1-13], conformemente alla Dichiarazione dei Ministri sull’Uruguay Round,
 
 concordano quanto segue:
 
-\1. L’elenco relativo a un Membro allegato al presente Protocollo diventa l’Elenco del GATT 1994 relativo a quel Membro il giorno in cui l’Accordo OMC entra in vigore per quel Membro[^annexu1-lvlu1-13]. Gli elenchi presentati in conformità della Decisione dei Ministri sulle misure a favore dei paesi meno avanzati si considerano allegati al presente protocollo.
+\1. L’elenco relativo a un Membro allegato al presente Protocollo diventa l’Elenco del GATT 1994 relativo a quel Membro il giorno in cui l’Accordo OMC entra in vigore per quel Membro[^annexu1-lvlu1-14]. Gli elenchi presentati in conformità della Decisione dei Ministri sulle misure a favore dei paesi meno avanzati si considerano allegati al presente protocollo.
 
 \2. Salvo diverse indicazioni nell’Elenco di un Membro, le riduzioni tariffarie concordate da ciascun Membro sono introdotte attraverso cinque riduzioni identiche delle aliquote, la prima delle quali diviene applicabile alla data di entrata in vigore dell’Accordo OMS. Ogni riduzione successiva diventa applicabile il 1° gennaio di ciascuno degli anni seguenti, e l’aliquota finale diventa applicabile entro quattro anni dalla data di entrata in vigore dell’Accordo OMC, salvo diverse indicazioni nell’Elenco di quel Membro. Salvo diverse indicazioni nel suo Elenco, un Membro che accetta l’Accordo OMC successivamente alla sua entrata in vigore rende applicabili, alla data in cui l’Accordo entra in vigore per quel Membro, tutte le riduzioni di aliquota già avvenute nonché le riduzioni che ai sensi della frase precedente esso sarebbe stato tenuto a rendere applicabili il 1° gennaio seguente, e rende applicabili tutte le riduzioni di aliquota rimanenti secondo il calendario specificato nella frase precedente. In ogni fase, l’aliquota ridotta dovrebbe essere arrotondata alla prima cifra decimale. Per i prodotti agricoli, definiti ai sensi dell’articolo 2 dell’Accordo sull’agricoltura, l’introduzione progressiva delle riduzioni avviene come specificato nelle relative parti degli elenchi.
 
@@ -919,16 +916,16 @@ concordano quanto segue:
 
 \9. La data del presente protocollo e il 15 aprile 1994.
 
-[^annexu1-lvlu1-12]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
-[^annexu1-lvlu1-13]: L’elenco svizzero non è pubblicato nella RU. È disponibile unicamente in francese e solo tale versione è vincolante. Può essere richiesto in forma di estratto o consultato presso la Direzione generale delle dogane, Sezione Tariffa doganale, 3003 Berna.
+[^annexu1-lvlu1-13]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
+[^annexu1-lvlu1-14]: L’elenco svizzero non è pubblicato nella RU. È disponibile unicamente in francese e solo tale versione è vincolante. Può essere richiesto in forma di estratto o consultato presso la Direzione generale delle dogane, Sezione Tariffa doganale, 3003 Berna.
 
 Allegato 1A.3
 
-## Accordo sull’agricoltura****
+## Accordo sull’agricoltura
 
-[^annexu1-lvlu1-14]
+[^annexu1-lvlu1-15]
 
-[^annexu1-lvlu1-14]: L’elenco svizzero non è pubblicato nella RU. È disponibile unicamente in francese e solo tale versione è vincolante. Può essere richiesto in forma di estratto o consultato presso la Direzione generale delle dogane, Sezione Tariffa doganale, 3003 Berna.
+[^annexu1-lvlu1-15]: L’elenco svizzero non è pubblicato nella RU. È disponibile unicamente in francese e solo tale versione è vincolante. Può essere richiesto in forma di estratto o consultato presso la Direzione generale delle dogane, Sezione Tariffa doganale, 3003 Berna.
 
 I Membri,
 
@@ -1010,7 +1007,7 @@ Il presente Accordo si applica ai prodotti elencati nel suo allegato 1, in segui
 
 <sup>2.</sup> I Membri non mantengono, adottano, né ripristinano nessuna misura del tipo di quelle di cui sia stata disposta la trasformazione in dazi doganali ordinari[^annexu1-lvlu1-partIII-4-1], salvo diversa disposizione dell’articolo 5 e dell’allegato 5.
 
-[^annexu1-lvlu1-partIII-4-1]: Le misure in questione comprendono restrizioni quantitative all’importazione, prelievi variabili all’importazione, prezzi minimi all’importazione, licenze di importazione discrezionali, misure non tariffarie mantenute tramite imprese commerciali di Stato, autolimitazione delle esportazioni e misure analoghe alla frontiera eccetto i dazi doganali ordinari, mantenute o meno in virtù di deroghe per singolo paese alle disposizioni del GATT 1947 ([RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)), ma non le misure mantenute in virtù di disposizioni adottate ai fini della bilancia dei pagamenti o di altre disposizioni generali, non specificamente relative all’agricoltura, del GATT 1994 o degli altri Acc. commerciali multilaterali di cui all’all. 1A dell’Acc. OMC.
+[^annexu1-lvlu1-partIII-4-1]: Le misure in questione comprendono restrizioni quantitative all’importazione, prelievi variabili all’importazione, prezzi minimi all’importazione, licenze di importazione discrezionali, misure non tariffarie mantenute tramite imprese commerciali di Stato, autolimitazione delle esportazioni e misure analoghe alla frontiera eccetto i dazi doganali ordinari, mantenute o meno in virtù di deroghe per singolo paese alle disposizioni del GATT 1947 ([RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)), ma non le misure mantenute in virtù di disposizioni adottate ai fini della bilancia dei pagamenti o di altre disposizioni generali, non specificamente relative all’agricoltura, del GATT 1994 o degli altri Acc. commerciali multilaterali di cui all’all. 1A dell’Acc. OMC.
 
 #### Art. 5
 
@@ -1155,7 +1152,7 @@ I Membri che forniscono aiuti alimentari internazionali garantiscono che:
 - b) le transazioni relative agli aiuti alimentari internazionali, compresi gli aiuti alimentari bilaterali monetizzati, siano effettuate conformemente ai «Principi in materia di smaltimento delle eccedenze e obblighi consultivi» della FAO, ivi compreso, ove opportuno, il sistema delle importazioni commerciali abituali; e
 - c) gli aiuti siano forniti per quanto possibile a titolo di dono o a condizioni non meno agevolate di quelle di cui all’articolo IV della convenzione relativa all’aiuto alimentare del 1986[^annexu1-lvlu1-partV-10-1].
 
-[^annexu1-lvlu1-partV-10-1]: [[RU 1986 2049](https://fedlex.data.admin.ch/eli/oc/1986/2049_2049_2049), [1987 1815](https://fedlex.data.admin.ch/eli/oc/1987/1815_1815_1815), [1989 1541](https://fedlex.data.admin.ch/eli/oc/1989/1541_1541_1541), [1991 800](https://fedlex.data.admin.ch/eli/oc/1991/800_800_800)[801](https://fedlex.data.admin.ch/eli/oc/1991/801_801_801), [1994 356](https://fedlex.data.admin.ch/eli/oc/1994/356_356_356)[357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357). [RU 1996 2642](https://fedlex.data.admin.ch/eli/oc/1996/2642_2642_2642)] Vedi ora l’Acc. internazionale sui cereali del 1995 ([RS 0.916.111.311](https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642)).
+[^annexu1-lvlu1-partV-10-1]: [[RU 1986 2049](https://fedlex.data.admin.ch/eli/oc/1986/2049_2049_2049); [1987 1815](https://fedlex.data.admin.ch/eli/oc/1987/1815_1815_1815); [1989 1541](https://fedlex.data.admin.ch/eli/oc/1989/1541_1541_1541); [1991 800](https://fedlex.data.admin.ch/eli/oc/1991/800_800_800), [801](https://fedlex.data.admin.ch/eli/oc/1991/801_801_801); [1994 356](https://fedlex.data.admin.ch/eli/oc/1994/356_356_356), [357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357). [RU 1996 2642](https://fedlex.data.admin.ch/eli/oc/1996/2642_2642_2642)] Vedi ora l’Acc. internazionale sui cereali del 1995 ([RS 0.916.111.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4035)).
 
 #### Art. 11
 
@@ -1516,7 +1513,7 @@ Allegato 5 Trattamento speciale in relazione all’articolo 4, paragrafo 2
 
 \7. Qualora si proceda ad un adeguamento del livello di un equivalente tariffario risultato dall’applicazione di quanto sopra, il Membro interessato offre, su richiesta, ampie opportunità di consultazione al fine di negoziare soluzioni appropriate.
 
-## Decisione ministeriale: Memorandum d’intesa sulle disposizioni relative all’amministrazione dei contingenti tariffari per i prodotti agricoli come stabilito nell’articolo 2 dell’Accordo sull’agricoltura****
+## Decisione ministeriale: Memorandum d’intesa sulle disposizioni relative all’amministrazione dei contingenti tariffari per i prodotti agricoli come stabilito nell’articolo 2 dell’Accordo sull’agricoltura
 
 [^annex5-lvlu2-1]
 
@@ -1608,7 +1605,7 @@ Repubblica Dominicana
 
 Stati Uniti d’America
 
-## Decisione ministeriale: Stoccaggio pubblico ai fini della sicurezza alimentare****
+## Decisione ministeriale: Stoccaggio pubblico ai fini della sicurezza alimentare
 
 [^annexA-lvlB-1]
 
@@ -1631,7 +1628,7 @@ decide quanto segue:
 ### Notifica e trasparenza
 
 [^annexA-lvlB-2]: La soluzione permanente dovrà essere applicabile a tutti i paesi in via di sviluppo Membri.
-[^annexA-lvlB-3]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)all. 1A.3
+[^annexA-lvlB-3]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)all. 1A.3
 [^annexA-lvlB-4]: Questo termine si riferisce ai prodotti agricoli primari che sono derrate di base predominanti nel regime alimentare tradizionale del paese in via di sviluppo Membro.
 [^annexA-lvlB-5]: La presente decisione non vieta ai paesi in via di sviluppo Membri di adottare programmi di stoccaggio pubblico ai fini della sicurezza alimentare in conformità alle disposizioni pertinenti dell’Acc. sull’agricoltura.
 
@@ -1696,7 +1693,7 @@ decide quanto segue:
 - 5\. Informazioni statistiche (secondo l’appendice statistica seguente).
 - 6\. Qualsiasi informazione ritenuta rilevante, compresi i riferimenti a siti internet.
 
-**Appendice statistica (*****per coltura*****) (dati degli ultimi tre anni)**
+**Appendice statistica (*****per coltura*****)** **(dati degli ultimi tre anni)**
 
 <table>
 <tr><th></th><th>Unità</th><th>[1° anno]</th><th>[2° anno]</th><th>[3° anno]</th></tr>
@@ -1722,7 +1719,7 @@ decide quanto segue:
 <tr><td>p. Totale esportazioni (quantità)</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-## Decisione ministeriale:**** Concorrenza all’esportazione
+## Decisione ministeriale: Concorrenza all’esportazione
 
 [^annexA-lvlu3-1]
 
@@ -1870,7 +1867,7 @@ Resta inteso che, dopo ciascuna delle date rilevanti, gli eventuali accordi di s
 [^annexA-lvlu3-lvlu9-3]: Questa disposizione si applica anche a Belize, Ecuador, Guatemala, Guyana, Isole Figi, Nicaragua, Papuasia Nuova Guinea, Stato Plurinazionale della Bolivia e Suriname.
 [^annexA-lvlu3-lvlu9-4]: Se la vendita non può essere effettuata mediante gara d’appalto pubblica, è possibile ricorrere a una vendita negoziata.
 
-### Allegato****
+### Allegato
 
 [^annexA-lvlu3-lvlu10-1]
 
@@ -1950,7 +1947,7 @@ desiderosi di promuovere l’applicazione di misure sanitarie e fitosanitarie ar
 
 riconoscendo che i paesi in via di sviluppo Membri possono incontrare particolari difficoltà nel conformarsi alle misure sanitarie o fitosanitarie degli importatori Membri, e di conseguenza nell’accesso ai mercati, nonché nell’elaborazione e nell’applicazione delle misure sanitarie o fitosanitarie nel loro territorio, e desiderosi di sostenere tali paesi nelle loro iniziative al riguardo;
 
-desiderosi quindi di elaborare regole per l’applicazione delle disposizioni del GATT 1994 relative all’applicazione delle misure sanitarie o fitosanitarie, in particolare le disposizioni dell’articolo XX, lettera b)[^annexu1-lvlu1-15],
+desiderosi quindi di elaborare regole per l’applicazione delle disposizioni del GATT 1994 relative all’applicazione delle misure sanitarie o fitosanitarie, in particolare le disposizioni dell’articolo XX, lettera b)[^annexu1-lvlu1-16],
 
 hanno convenuto quanto segue:
 
@@ -1966,7 +1963,7 @@ hanno convenuto quanto segue:
 
 <sup>4.</sup> Nessuna disposizione del presente Accordo compromette i diritti dei Membri ai sensi dell’Accordo relativo agli ostacoli tecnici al commercio[^annexu1-lvlu1-1-1] in relazione alle misure non contemplate dal presente Accordo.
 
-[^annexu1-lvlu1-15]: Ai fini del presente Acc., il riferimento all’art. XX, lett. b) comprende anche il relativo cappello.
+[^annexu1-lvlu1-16]: Ai fini del presente Acc., il riferimento all’art. XX, lett. b) comprende anche il relativo cappello.
 [^annexu1-lvlu1-1-1]: All. 1A.6
 
 #### Art. 2
@@ -2109,7 +2106,7 @@ I Membri sono pienamente responsabili a norma del presente Accordo del rispetto 
 
 I paesi meno avanzati Membri possono ritardare l’applicazione delle disposizioni del presente Accordo di cinque anni dalla data di entrata in vigore dell’Accordo OMC per quanto riguarda le loro misure sanitarie o fitosanitarie che influiscono sull’importazione o sui prodotti importati. Gli altri paesi in via di sviluppo Membri possono ritardare l’applicazione delle disposizioni del presente Accordo, eccetto l’articolo 5, paragrafo 8 e l’articolo 7, di due anni dalla data di entrata in vigore dell’Accordo OMC per quanto riguarda le loro misure sanitarie o fitosanitarie vigenti che influiscono sull’importazione o sui prodotti importati, qualora l’applicazione delle suddette disposizioni sia ostacolata dalla mancanza di competenza tecnica, di infrastrutture tecniche o di risorse.
 
-Allegato A Definizioni**[^t-16]**
+Allegato A Definizioni[^t-16]
 
 \1. *Per misura sanitaria o fitosanitaria* s’intende ogni misura applicata al fine di:
 
@@ -2196,7 +2193,7 @@ Allegato B Trasparenza dei regolamenti sanitari e fitosanitari
 - a) la comunicazione di particolari o del testo dei progetti oppure la pubblicazione di testi in una lingua diversa da quella del Membro, fatte salve le disposizioni del paragrafo 8 del presente allegato; o
 - b) la comunicazione ad opera dei Membri di informazioni riservate che impedirebbero l’applicazione della normativa sanitaria o fitosanitaria o comprometterebbero i legittimi interessi commerciali di determinate imprese.
 
-Allegato C Procedure di controllo, ispezione e autorizzazione**[^t-17]**
+Allegato C Procedure di controllo, ispezione e autorizzazione[^t-17]
 
 \1. In relazione alle procedure intese a controllare e garantire l’osservanza delle misure sanitarie o fitosanitarie i Membri fanno in modo che:
 
@@ -3617,7 +3614,7 @@ Nessuno dei predetti fattori costituisce, in sé, una base di giudizio determina
 - iii) il fatto che le importazioni avvengano a prezzi suscettibili di esercitare un forte effetto depressivo o di congelamento sui prezzi interni e tali da promuovere la domanda di ulteriori importazioni; e
 - iv) le scorte dei prodotti oggetto d’inchiesta.
 
-[^annexu1-lvlu1-lvlu1-3-1]: Nel presente Acc., il termine «pregiudizio» indica, salvo indicazione contraria, un pregiudizio grave causato ad un’industria nazionale, o il rischio di un pregiudizio grave a danno di un’industria nazionale, o un sensibile ritardo nella creazione di tale industria; il termine è da interpretarsi in conformità con le disposizione del presente articolo.
+[^annexu1-lvlu1-lvlu1-3-1]: Nel presente Acc., il termine «pregiudizio» indica, salvo indicazione contraria, un pregiudizio grave causato ad un’industria nazionale, o il rischio di un pregiudizio grave a danno di un’industria nazionale, o un sensibile ritardo nella creazione di tale industria; il termine è da interpretarsi in conformità con le disposizioni del presente articolo.
 [^annexu1-lvlu1-lvlu1-3-2]: A titolo esemplificativo, ma non esclusivo, vi potrebbe essere fondato motivo per ritenere che nell’immediato futuro si verifichi un sensibile incremento delle importazioni del prodotto in questione a prezzi di dumping.
 
 #### Art. 4
@@ -4195,7 +4192,7 @@ Nulla di quanto contenuto nel presente Accordo sarà interpretato come inteso a 
 
 <sup>3.</sup> I paesi industrializzati Membri forniscono, secondo modalità definite di comune accordo, assistenza tecnica ai paesi in via di sviluppo Membri che ne facciano richiesta. Su tale base, i paesi industrializzati Membri definiscono programmi di assistenza tecnica che possono includere, tra l’altro, interventi di formazione di personale, assistenza nell’elaborazione di misure di attuazione, accesso alle fonti di informazione sulla metodologia in materia di determinazione del valore in dogana, nonché consulenze sull’applicazione delle disposizioni del presente Accordo.
 
-[^annexu1-lvlu1-partIII-20-1]: [RS 0.632.231.3](https://fedlex.data.admin.ch/eli/cc/1979/2468_2472_2472)
+[^annexu1-lvlu1-partIII-20-1]: [RS 0.632.231.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2253)
 
 ### Parte IV Disposizioni finali
 
@@ -5144,7 +5141,7 @@ Oltre a quanto disposto nei paragrafi da 1 a 11 dell’articolo 1, e nel paragra
 - b) I Membri riconoscono che le licenze automatiche di importazione possono essere necessarie ogniqualvolta non siano disponibili altre procedure adeguate. Le licenze automatiche possono essere mantenute in essere fintanto che sussistono le circostanze che ne hanno motivato l’introduzione o fintanto che gli obiettivi amministrativi alla base di queste procedure non possono essere raggiunti in modo più adeguato.
 
 [^annexu1-lvlu1-2-1]: Le procedure relative a licenze di importazione soggette a cauzione che non producono effetti restrittivi sulle importazioni devono essere considerate come rientranti nell’ambito dei par. 1 e 2.
-[^annexu1-lvlu1-2-2]: I paesi in via di sviluppo Membri, diversi dai paesi in via di sviluppo Membri già parti contraenti dell’Acc. sulle procedure in materia di licenze di importazione ([RS 0.632.231.43](https://fedlex.data.admin.ch/eli/cc/1979/2505_2509_2509)) stipulato il 12 apr. 1979, ai quali le disposizioni dei commi a) (ii) e (iii) causino particolari difficoltà possono, previa notifica al Comitato, differire l’applicazione di tali commi per un periodo non superiore a due anni dalla data di entrata in vigore dell’Acc. OMC per quanto li concerne.
+[^annexu1-lvlu1-2-2]: I paesi in via di sviluppo Membri, diversi dai paesi in via di sviluppo Membri già parti contraenti dell’Acc. sulle procedure in materia di licenze di importazione ([RS 0.632.231.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2257)) stipulato il 12 apr. 1979, ai quali le disposizioni dei commi a) (ii) e (iii) causino particolari difficoltà possono, previa notifica al Comitato, differire l’applicazione di tali commi per un periodo non superiore a due anni dalla data di entrata in vigore dell’Acc. OMC per quanto li concerne.
 
 #### Art. 3
 
@@ -5983,7 +5980,7 @@ Le disposizioni dell’articolo 6, paragrafo 1, e degli articoli 8 e 9 si applic
 
 [^annexu1-lvlu1-partXI-32-1]: Il presente par. non osta ad alcuna azione intrapresa a titolo di altre disposizioni pertinenti del GATT 1994, ove opportuno.
 
-Allegato I**[^t-19]** Elenco illustrativo di sovvenzioni all’esportazione
+Allegato I[^t-19] Elenco illustrativo di sovvenzioni all’esportazione
 
 - a) Concessione da parte dello Stato di sovvenzioni dirette ad imprese o industrie in funzione dei risultati di esportazione.
 - b) Sistemi di non restituzione di divise o altre pratiche analoghe che implicano la concessione di premi all’esportazione.
@@ -6005,7 +6002,7 @@ Allegato I**[^t-19]** Elenco illustrativo di sovvenzioni all’esportazione
 
 [^t-19]: Per il testo delle note a), b), c), d) vedi alla fine del presente all.
 
-Allegato II Direttive sul consumo di fattori immessi nel processo produttivo**[^t-20]**
+Allegato II Direttive sul consumo di fattori immessi nel processo produttivo[^t-20]
 
 ## **I**
 
@@ -6049,7 +6046,7 @@ Nell’esaminare un sistema di restituzione del dazio su sostituzioni nell’amb
 
 \5. S’intende sussistere un caso di restituzione di un importo eccessivo di oneri sulle importazioni, ai sensi del paragrafo i), ove i governi versino interessi su importi rimborsati a norma di schemi di restituzione del dazio, nella misura degli interessi effettivamente versati o dovuti.
 
-Allegato IV Calcolo della sovvenzione totale ad valorem (art. 6, par. 1, lett. a)**[^t-21]**
+Allegato IV Calcolo della sovvenzione totale ad valorem (art. 6, par. 1, lett. a)[^t-21]
 
 \1. Il calcolo dell’importo di una sovvenzione ai fini dell’articolo 6, paragrafo 1, lettera a) sarà effettuato in termini di costi per il governo concedente.
 
@@ -6145,7 +6142,7 @@ hanno concordato quanto segue:
 <tr><td>CE/Giappone</td><td>Autovetture per il trasporto di persone, veicoli fuoristrada, veicoli commerciali leggeri, autocarri leggeri (fino a 5 tonnellate), e gli stessi veicoli completamente smontati (set CKD)</td><td>31 dicembre 1999</td></tr>
 </table>
 
-Allegato 1A.15*[^t-28]*
+Allegato 1A.15[^t-28]
 
 ## Accordo sull’agevolazione degli scambi
 
@@ -6153,31 +6150,15 @@ Allegato 1A.15*[^t-28]*
 
 Concluso a Ginevra il 27 novembre 2014
 
-Approvato dall’Assemblea federale il 20 marzo 2015[^annexu1-lvlu1-16]
+Approvato dall’Assemblea federale il 20 marzo 2015[^annexu1-lvlu1-17]
 
 Ratificato dalla Svizzera con strumento depositato il 2 settembre 2015
 
 Entrato in vigore per la Svizzera il 22 febbraio 2017
 
-### *Preambolo*
-
-[^annexu1-lvlu1-16]: [RU 2017 2103](https://fedlex.data.admin.ch/eli/oc/2017/190)
-
-I Paesi membri,
-
-*tenuto conto* dei negoziati avviati in seguito alla Dichiarazione ministeriale di Doha;
-
-*richiamando* e riaffermando il mandato e i principi sanciti nel paragrafo 27 della Dichiarazione ministeriale di Doha (WT/MIN(01)/DEC/1), nell’allegato D della Decisione sul programma di lavoro di Doha adottata dal Consiglio generale il 1° agosto 2004 (WT/L/579) e nel paragrafo 33 dell’allegato E della Dichiarazione ministeriale di Hong Kong (WT/MIN(05)/DEC);
-
-*animati* dal desiderio di chiarire e migliorare aspetti rilevanti degli articoli V, VIII e X del GATT 1994 e nell’intento di accelerare ulteriormente la circolazione, lo svincolo e lo sdoganamento delle merci, comprese le merci in transito;
-
-*riconoscendo* le particolari esigenze dei Paesi membri in sviluppo e soprattutto dei Paesi membri meno avanzati e animati dal desiderio di accrescere l’assistenza e il sostegno per il rafforzamento delle capacità (*capacity building*) in quest’ambito;
-
-*riconoscendo* la necessità di un’effettiva cooperazione tra i Paesi membri sulle questioni inerenti l’agevolazione degli scambi e il rispetto delle esigenze in materia doganale,
-
-convengono quanto segue:
-
 ### Sezione I
+
+[^annexu1-lvlu1-17]: [RU 2017 2103](https://fedlex.data.admin.ch/eli/oc/2017/190)
 
 #### Art. 1
 
@@ -6945,7 +6926,7 @@ Campo d’applicazione l’8 marzo 2017
 
 [^t-29]: L’Accordo sull’agevolazione degli scambi è entrato in vigore il 22 febbraio 2017 per gli Stati partecipanti menzionati nel campo d’applicazione.
 
-Allegato 1.B
+Allegato 1B
 
 ## Accordo generale sugli scambi di servizi
 
@@ -7041,7 +7022,7 @@ Allegato sulle telecomunicazioni
 
 Allegato concernente i negoziati sulle telecomunicazioni di base
 
-### Accordo generale sugli scambi di servizi****
+### Accordo generale sugli scambi di servizi
 
 [^declu2-lvlu1-lvlu1-1]
 
@@ -7102,7 +7083,7 @@ hanno concordato quanto segue:
 
 \4. L’Accordo non impedisce ai Membri di applicare misure per regolamentare l’ingresso, o il soggiorno temporaneo, di persone fisiche nei rispettivi territori, ivi comprese le misure che fossero necessarie per tutelare l’integrità dei confini e garantirne il regolare attraversamento da parte di persone fisiche, purché tali misure non siano applicate in maniera tale da annullare o compromettere i vantaggi derivanti ai Membri dalle condizioni e modalità di un impegno specifico[^declu2-lvlu1-lvlu1-lvlu8-1].
 
-### Terzo Protocollo relativo all’Allegato sulla circolazione delle persone fisiche che forniscono servizi finanziari ai sensi dell’Accordo generale sugli scambi di servizi****
+### Terzo Protocollo relativo all’Allegato sulla circolazione delle persone fisiche che forniscono servizi finanziari ai sensi dell’Accordo generale sugli scambi di servizi
 
 [^declu2-lvlu1-lvlu1-lvlu8-lvlu1-1]
 
@@ -7245,7 +7226,7 @@ Ai fini del presente allegato:
 
 \3. Il Consiglio per gli scambi di servizi definisce le procedure necessarie per l’applicazione dei paragrafi 1 e 2.
 
-### Secondo Protocollo relativo al Secondo Allegato sui servizi finanziari dell’Accordo generale sugli scambi di servizi****
+### Secondo Protocollo relativo al Secondo Allegato sui servizi finanziari dell’Accordo generale sugli scambi di servizi
 
 [^declu2-lvlu1-lvlu1-lvlu11-lvlu1-1]
 
@@ -7377,7 +7358,7 @@ Nell’applicazione dell’articolo III dell’Accordo, ciascun Membro garantisc
 
 \2. Il paragrafo 1 non si applica ad eventuali impegni specifici in materia di telecomunicazioni di base inseriti nell’Elenco di un Membro.
 
-### Quarto Protocollo relativo all’Allegato concernente i negoziati sulle telecomunicazioni di base dell’Accordo generale sugli scambi di servizi****
+### Quarto Protocollo relativo all’Allegato concernente i negoziati sulle telecomunicazioni di base dell’Accordo generale sugli scambi di servizi
 
 [^declu2-lvlu1-lvlu1-lvlu14-lvlu1-1]
 
@@ -7408,7 +7389,7 @@ Fatto a Ginevra il 15 aprile 1997 in un’unica copia nelle lingue inglese, fran
 [^declu2-lvlu1-lvlu1-lvlu14-lvlu1-2]: Dal testo originale francese.
 [^declu2-lvlu1-lvlu1-lvlu14-lvlu1-3]: Questi Elenchi non sono pubblicati nella Raccolta ufficiale delle leggi federali. Saranno riuniti in una sola pubblicazione speciale dal titolo «Suisse – Liste d’engagements spécifiques». La pubblicazione si può ottenere in lingua francese presso l’Ufficio centrale federale degli stampati e del materiale, Sezione Gestione, 3000 Berna.
 
-Allegato 1.C*[^t-30]*
+Allegato 1C[^t-30]
 
 ## Accordo sugli aspetti dei diritti di proprietà intellettuale attinenti al commercio (TRIPS)
 
@@ -7484,7 +7465,7 @@ hanno convenuto quanto segue:
 <sup>3.</sup> Ciascun Membro accorda il trattamento previsto dal presente Accordo ai cittadini degli altri Membri[^declu3-1-1]. Per quanto riguarda il relativo diritto di proprietà intellettuale, si considerano cittadini degli altri Membri le persone fisiche o giuridiche che soddisfano i criteri di ammissibilità alla protezione di cui alla Convenzione di Parigi (1967), alla Convenzione di Berna (1971), alla Convenzione di Roma e al Trattato sulla proprietà intellettuale in materia di semiconduttori, sempreché tutti i Membri dell’OMC fossero membri di tali convenzioni[^declu3-1-2]. I Membri che si avvalgono delle possibilità di cui all’articolo 5, paragrafo 3 o all’articolo 6, paragrafo 2 della Convenzione di Roma ne danno notifica conformemente a dette disposizioni al Consiglio per gli aspetti dei diritti di proprietà intellettuale attinenti al commercio («Consiglio TRIPS»).
 
 [^declu3-1-1]: Ai fini del presente Acc. per «cittadini» si intendono, nel caso di un distinto territorio doganale Membro dell’OMC, le persone, fisiche o giuridiche, che sono domiciliate o che hanno uno stabilimento industriale o commerciale effettivo e serio in tale territorio doganale.
-[^declu3-1-2]: Ai fini del presente Acc. per «Convenzione di Parigi» si intende la Conv. di Parigi per la protezione della proprietà industriale, per «Convenzione di Parigi (1967)» il suo atto di Stoccolma del 14 lug. 1967 ([RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)), per «Convenzione di Berna» la Conv. di Berna per la protezione delle opere letterarie e artistiche, per «Convenzione di Berna (1971)» il suo atto di Parigi del 24 lug. 1971 ([RS 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)), per «Convenzione di Roma» la Conv. internazionale per la protezione degli artisti interpreti o esecutori, dei produttori di fonogrammi e degli organismi di radiodiffusione firmata a Roma il 26 ott. 1961 ([RS 0.231.171](https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696)), per «Trattato sulla proprietà intellettuale in materia di semiconduttori» (Trattato IPIC) il Trattato sulla proprietà intellettuale in materia di semiconduttori firmato a Washington il 26 mag. 1989 e per «Accordo OMC» l’Acc. che istituisce l’OMC.
+[^declu3-1-2]: Ai fini del presente Acc. per «Convenzione di Parigi» si intende la Conv. di Parigi per la protezione della proprietà industriale, per «Convenzione di Parigi (1967)» il suo atto di Stoccolma del 14 lug. 1967 ([RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)), per «Convenzione di Berna» la Conv. di Berna per la protezione delle opere letterarie e artistiche, per «Convenzione di Berna (1971)» il suo atto di Parigi del 24 lug. 1971 ([RS 0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)), per «Convenzione di Roma» la Conv. internazionale per la protezione degli artisti interpreti o esecutori, dei produttori di fonogrammi e degli organismi di radiodiffusione firmata a Roma il 26 ott. 1961 ([RS 0.231.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1019)), per «Trattato sulla proprietà intellettuale in materia di semiconduttori» (Trattato IPIC) il Trattato sulla proprietà intellettuale in materia di semiconduttori firmato a Washington il 26 mag. 1989 e per «Accordo OMC» l’Acc. che istituisce l’OMC.
 
 #### Art. 2
 
@@ -8014,7 +7995,7 @@ L’autorità giudiziaria ha la facoltà di ordinare misure provvisorie immediat
 
 <sup>8.</sup> Nella misura in cui una misura provvisoria può essere ordinata in seguito a procedure amministrative, tali procedure sono conformi a principi sostanzialmente equivalenti a quelli enunciati nella presente sezione.
 
-### Sezione 4 Disposizioni speciali in materia di misure alla frontiera****
+### Sezione 4 Disposizioni speciali in materia di misure alla frontiera
 
 [^declu3-lvlu1-lvlu1-partIII-sec4-1]
 
@@ -8322,9 +8303,9 @@ I Membri concordano quanto segue:
 
 L’applicabilità della presente Intesa agli Accordi commerciali plurilaterali è soggetta all’adozione di una decisione delle Parti di ciascun Accordo che specifichi le condizioni di applicabilità dell’Intesa a quello specifico Accordo, compresa qualsiasi norma o procedura aggiuntiva o speciale da inserire nell’Appendice 2, nella forma notificata al DSB.
 
-[^declu4-lvlu1-lvlu28-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
-[^declu4-lvlu1-lvlu28-2]: [RS 0.632.231.51](https://fedlex.data.admin.ch/eli/cc/1995/2555_2555_2555)
-[^declu4-lvlu1-lvlu28-3]: [RS 0.632.231.52](https://fedlex.data.admin.ch/eli/cc/1995/2597_2597_2597)
+[^declu4-lvlu1-lvlu28-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
+[^declu4-lvlu1-lvlu28-2]: [RS 0.632.231.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2259)
+[^declu4-lvlu1-lvlu28-3]: [RS 0.632.231.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2260)
 
 ### Appendice 2 Norme e procedure speciali o aggiuntive contenute negli accordi contemplati
 
@@ -8406,7 +8387,7 @@ Ai gruppi di studio di esperti istituiti conformemente alle disposizioni dell’
 
 \6. Il gruppo di studio di esperti presenta alle Parti della controversia un progetto di relazione al fine di raccogliere le loro osservazioni e di tenerne eventualmente conto nella relazione finale, che viene presentata anche alle Parti della controversia quando viene presentata al panel. La relazione finale del gruppo di studio di esperti ha unicamente valore consultivo.
 
-Allegato 3*[^t-31]*
+Allegato 3[^t-31]
 
 ## Meccanismo di esame delle politiche commerciali
 
@@ -8465,19 +8446,19 @@ Allegato 4.a
 
 L’Accordo relativo agli scambi di aeromobili civili stipulato a Ginevra il 12 aprile 1979[^declu7-lvlu1-1], come successivamente modificato, rettificato o emendato.
 
-[^declu7-lvlu1-1]: [RS 0.632.231.8](https://fedlex.data.admin.ch/eli/cc/1979/2607_2614_2614)
+[^declu7-lvlu1-1]: [RS 0.632.231.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2265)
 
 Allegato 4.b
 
-## Accordo sugli appalti pubblici****
+## Accordo sugli appalti pubblici
 
 [^declu8-lvlu1-1]
 
-[^declu8-lvlu1-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^declu8-lvlu1-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 Allegato 4.c
 
-## Accordo internazionale sui prodotti lattiero-caseari****
+## Accordo internazionale sui prodotti lattiero-caseari
 
 [^declu9-lvlu1-1]
 
@@ -8485,13 +8466,13 @@ Allegato 4.c
 
 Allegato 4.d
 
-## Accordo internazionale sulle carni bovine****
+## Accordo internazionale sulle carni bovine
 
 [^declu10-lvlu1-1]
 
 [^declu10-lvlu1-1]: [[RU 1995 2597](https://fedlex.data.admin.ch/eli/oc/1995/2597_2597_2597). [RU 1998 2699](https://fedlex.data.admin.ch/eli/oc/1998/2699_2699_2699)]
 
-Campo d’applicazione il 2 luglio 2019**[^t-32]**
+Campo d’applicazione il 2 luglio 2019[^t-32]
 
 <table>
 <tr><th>Governi</th><th>Ratifica</th><th></th><th>Entrata in vigore Statuto di Membro</th><th></th></tr>
@@ -8665,4 +8646,4 @@ Campo d’applicazione il 2 luglio 2019**[^t-32]**
 <tr><td colspan="5"><sup>a</sup> Dal 1° gen. 1995 al 30 giu. 1997, Hong Kong era un membro fondatore dell’Organizzazione mondiale del commercio (OMC) come Colonia della Corona del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese e ha ritenuta lo statuto di Territorio doganale a sé stante. Hong Kong rimane membro dell'OMC colla denominazione Hong Kong, Cina. <sup>b</sup> Dal 1 gen. 1995 al 19 dic. 1999, Macao era un membro fondatore dell’Organizzazione mondiale del commercio nella sua qualità de colonia del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. Però Macao rimane membro dell'OMC colla denominazione Macao, Cina. <sup>c</sup> Dal 1° gen. 2002 il Territorio doganale a sé stante Taiwan, Penghu, Kinmen e Matsu è membro dell’Organizzazione mondiale del commercio (OMC) colla denominazione Taipei cinese.</td></tr>
 </table>
 
-[^t-32]: [RU 1996 112](https://fedlex.data.admin.ch/eli/oc/1996/112_112_112), [2005 1223](https://fedlex.data.admin.ch/eli/oc/2005/175), [2009 513](https://fedlex.data.admin.ch/eli/oc/2009/92), [2013 3531](https://fedlex.data.admin.ch/eli/oc/2013/659), [2016 551](https://fedlex.data.admin.ch/eli/oc/2016/103)e [2019 2247](https://fedlex.data.admin.ch/eli/oc/2019/421). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-32]: [RU 1996 112](https://fedlex.data.admin.ch/eli/oc/1996/112_112_112); [2005 1223](https://fedlex.data.admin.ch/eli/oc/2005/175); [2009 513](https://fedlex.data.admin.ch/eli/oc/2009/92); [2013 3531](https://fedlex.data.admin.ch/eli/oc/2013/659); [2016 551](https://fedlex.data.admin.ch/eli/oc/2016/103); [2019 2247](https://fedlex.data.admin.ch/eli/oc/2019/421). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

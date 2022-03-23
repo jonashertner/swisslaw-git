@@ -3,11 +3,11 @@ sr: "0.632.20"
 title: Abkommen vom 15. April 1994 zur Errichtung der Welthandelsorganisation (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117"
 language: de
-version: 2021-01-01
+version: 2022-03-24
 adopted: 1994-04-15
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1995-2117_2117_2117-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2117_2117_2117/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117/20220324/de/xml/fedlex-data-admin-ch-eli-cc-1995-2117_2117_2117-20220324-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2117_2117_2117/20220324/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1995** 2117; BBl **1994** IV 1
 
 Abgeschlossen in Marrakesch am 15. April 1994 Von der Bundesversammlung genehmigt am 16. Dezember 1994[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Juni 1995 Inkrafttreten für die Schweiz am 1. Juli 1995
 
-(Stand am 1. Januar 2021)
+(Stand am 24. März 2022)
 
 [^t-1]: [AS 1995 2113](https://fedlex.data.admin.ch/eli/oc/1995/2113_2113_2113)
 
@@ -56,7 +56,7 @@ Die Welthandelsorganisation (im folgenden «WTO» genannt) wird hiermit errichte
 
 <sup>4.</sup> Das als Anhang 1A beigefügte Allgemeine Zoll- und Handelsabkommen von 1994 (im folgenden «GATT 1994» genannt) unterscheidet sich rechtlich von dem Allgemeinen Zoll- und Handelsabkommen vom 30. Oktober 1947[^II-1] im Anhang zu der zum Abschluss der zweiten Tagung des Vorbereitungsausschusses der UNO-Konferenz über Handel und Beschäftigung angenommenen Schlussakte in seiner später berichtigten, geänderten oder modifizierten Fassung (im folgenden «GATT 1947» genannt).
 
-[^II-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^II-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. III
 
@@ -129,7 +129,7 @@ Der Ausschuss für Haushalt, Finanzen und Verwaltung schlägt dem Generalrat ein
 
 <sup>4.</sup> Jedes WTO-Mitglied entrichtet umgehend den Beitrag, der nach der vom Generalrat verabschiedeten Finanzregelung seinem Anteil an den Ausgaben der WTO entspricht.
 
-[^VII-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^VII-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. VIII
 
@@ -162,7 +162,7 @@ Der Ausschuss für Haushalt, Finanzen und Verwaltung schlägt dem Generalrat ein
 
 <sup>5.</sup> Für Beschlüsse aufgrund einer Plurilateralen Handelsübereinkunft, einschliesslich aller Beschlüsse über Auslegungen und Befreiungen, gelten die Bestimmungen der betreffenden Übereinkunft.
 
-[^IX-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^IX-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 [^IX-2]: Es wird davon ausgegangen, dass ein mit einer Angelegenheit befasstes Organ einen Beschluss durch Konsens gefasst hat, wenn kein in der Sitzung, in der der Beschluss ergeht, anwesendes Mitglied gegen den vorgeschlagenen Beschluss förmlich Einspruch erhebt.
 [^IX-3]: Die Zahl der Stimmen der Europäischen Gemeinschaften und ihrer Mitgliedstaaten ist keinesfalls höher als die Zahl der Mitgliedstaaten der Europäischen Gemeinschaften.
 [^IX-4]: Tagt der Generalrat in seiner Eigenschaft als Streitbeilegungsorgan, so werden seine Beschlüsse gemäss Artikel 2 Absatz 4 der Streitbeilegungsvereinbarung gefasst.
@@ -208,7 +208,7 @@ Der Ausschuss für Haushalt, Finanzen und Verwaltung schlägt dem Generalrat ein
 
 <sup>2.</sup> Die am wenigsten entwickelten Länder, die von den Vereinten Nationen als solche anerkannt sind, brauchen Verpflichtungen nur insoweit einzugehen und Zugeständnisse nur insoweit einzuräumen, als diese mit den jeweiligen Erfordernissen ihrer Entwicklung, ihrer Finanzen und ihres Handels oder mit ihren verwaltungsmässigen und institutionellen Möglichkeiten vereinbar sind.
 
-[^XI-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XI-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. XII
 
@@ -234,7 +234,7 @@ Der Ausschuss für Haushalt, Finanzen und Verwaltung schlägt dem Generalrat ein
 
 <sup>5.</sup> Die Nichtanwendung einer Plurilateralen Handelsübereinkunft zwischen Vertragsparteien der betreffenden Übereinkunft richtet sich nach den Bestimmungen der betreffenden Übereinkunft.
 
-[^XIII-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XIII-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. XIV
 
@@ -244,11 +244,11 @@ Der Ausschuss für Haushalt, Finanzen und Verwaltung schlägt dem Generalrat ein
 
 <sup>2.</sup> Ein Mitglied, das das Abkommen nach dessen Inkrafttreten annimmt, setzt die in den Multilateralen Handelsübereinkünften vorgesehenen Zugeständnisse und Verpflichtungen, die während eines Zeitraums, der mit dem Inkrafttreten dieses Abkommens beginnt, umgesetzt werden müssen, so um, als habe es dieses Abkommen zum Zeitpunkt seines Inkrafttretens angenommen.
 
-<sup>3.</sup> Bis zum Inkrafttreten dieses Abkommens wird der Wortlaut dieses Abkommens und der Multilateralen Handelsübereinkünfte beim Generaldirektor der *Vertragspa**r**teien* des GATT 1947 hinterlegt. Der Generaldirektor übermittelt jeder Regierung und den Europäischen Gemeinschaften, die dieses Abkommen angenommen haben, unverzüglich eine beglaubigte Ausfertigung dieses Abkommens sowie der Multilateralen Handelsübereinkünfte und notifiziert ihnen jede Annahme. Dieses Abkommen und die Multilateralen Handelsübereinkünfte sowie alle darin vorgenommenen Änderungen werden zum Zeitpunkt des Inkrafttretens dieses Abkommens beim Generaldirektor der WTO hinterlegt.
+<sup>3.</sup> Bis zum Inkrafttreten dieses Abkommens wird der Wortlaut dieses Abkommens und der Multilateralen Handelsübereinkünfte beim Generaldirektor der *Vertragsparteien* des GATT 1947 hinterlegt. Der Generaldirektor übermittelt jeder Regierung und den Europäischen Gemeinschaften, die dieses Abkommen angenommen haben, unverzüglich eine beglaubigte Ausfertigung dieses Abkommens sowie der Multilateralen Handelsübereinkünfte und notifiziert ihnen jede Annahme. Dieses Abkommen und die Multilateralen Handelsübereinkünfte sowie alle darin vorgenommenen Änderungen werden zum Zeitpunkt des Inkrafttretens dieses Abkommens beim Generaldirektor der WTO hinterlegt.
 
 <sup>4.</sup> Für die Annahme und das Inkrafttreten einer Plurilateralen Handelsübereinkunft gelten die Bestimmungen der betreffenden Übereinkunft. Zum Zeitpunkt des Inkrafttretens dieses Abkommens werden diese Übereinkünfte beim Generaldirektor der WTO hinterlegt.
 
-[^XIV-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XIV-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. XV
 
@@ -282,7 +282,7 @@ Als «Staat» oder «Staaten» im Sinne dieses Abkommens und der Multilateralen 
 
 Wird in diesem Abkommen und in den Multilateralen Handelsübereinkünften ein Ausdruck in Verbindung mit dem Wort «national» oder «innerstaatlich» verwendet, so ist dieser Ausdruck im Falle eines gesonderten Zollgebiets, das Mitglied der WTO ist, vorbehaltlich anderslautender Bestimmungen so zu verstehen, dass er sich auf das Zollgebiet bezieht.
 
-[^XVI-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^XVI-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 ## Liste der Anhänge
 
@@ -350,11 +350,11 @@ Internationale Übereinkunft über Milcherzeugnisse[^lvlu17-2]
 
 Internationale Übereinkunft über Rindfleisch[^lvlu17-3]
 
-[^lvlu17-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^lvlu17-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^lvlu17-2]: [[AS 1995 2555](https://fedlex.data.admin.ch/eli/oc/1995/2555_2555_2555), [1998 2698](https://fedlex.data.admin.ch/eli/oc/1998/2698_2698_2698)]
 [^lvlu17-3]: [[AS 1995 2597](https://fedlex.data.admin.ch/eli/oc/1995/2597_2597_2597), [1998 2699](https://fedlex.data.admin.ch/eli/oc/1998/2699_2699_2699)]
 
-Anhang 1.A
+Anhang 1A
 
 ## Multilaterale Handelsübereinkünfte
 
@@ -368,14 +368,14 @@ Anhang 1A.1
 
 \1. Das Allgemeine Zoll- und Handelsabkommen 1994 («GATT 1994») besteht aus:
 
-- a) den Bestimmungen des Allgemeinen Zoll- und Handelsabkommens vom 30. Oktober 1947[^annexu1-lvlu1-1] im Anhang zu der zum Abschluss der zweiten Tagung des Vorbereitungsausschusses der UNO-Konferenz über Handel und Beschäftigung angenommenen Schlussakte (mit Ausnahme des Protokolls über die vorläufige Anwendung) in der durch die Rechtsinstrumente, die vor dem Inkrafttreten des WTO-Abkommens in Kraft getreten sind, berichtigten, geänderten oder modifizierten Fassung;
+- a) den Bestimmungen des Allgemeinen Zoll- und Handelsabkommens vom 30. Oktober 1947[^annex1A-lvlu1-1] im Anhang zu der zum Abschluss der zweiten Tagung des Vorbereitungsausschusses der UNO-Konferenz über Handel und Beschäftigung angenommenen Schlussakte (mit Ausnahme des Protokolls über die vorläufige Anwendung) in der durch die Rechtsinstrumente, die vor dem Inkrafttreten des WTO-Abkommens in Kraft getreten sind, berichtigten, geänderten oder modifizierten Fassung;
 - b)
 
   den nachstehend aufgeführten Rechtsinstrumenten, die aufgrund des GATT 1947 vor dem Inkrafttreten des WTO-Abkommens in Kraft getreten sind:
 
   - i) Protokolle und Bestätigungen zu den Zollzugeständnissen;
   - ii) Beitrittsprotokolle (mit Ausnahme der Bestimmungen, die a) die vorläufige Anwendung und die Kündigung der vorläufigen Anwendung betreffen und b) bestimmen, dass Teil II des GATT 1947 vorläufig so weit in vollem Umfang angewendet wird, wie dies mit den am Datum des Protokolls in Kraft befindlichen Rechtsvorschriften zu vereinbaren ist);
-  - iii) Beschlüsse über Befreiungen gemäss Artikel XXV des GATT 1947, die zum Zeitpunkt des Inkrafttretens des WTO-Abkommens noch in Kraft sind[^annexu1-lvlu1-2];
+  - iii) Beschlüsse über Befreiungen gemäss Artikel XXV des GATT 1947, die zum Zeitpunkt des Inkrafttretens des WTO-Abkommens noch in Kraft sind[^annex1A-lvlu1-2];
   - iv) sonstige Beschlüsse der VERTRAGSPARTEIEN des GATT 1947;
 
 - c)
@@ -405,8 +405,8 @@ Anhang 1A.1
 - d) Einem Mitglied, nach dessen Auffassung die Auswirkungen dieser Ausnahme eine gegenseitige verhältnismässige Beschränkung der Verwendung, des Verkaufs, der Vermietung oder der Instandsetzung von Schiffen rechtfertigen, die im Hoheitsgebiet des Mitglieds, das sich auf die Ausnahme beruft, gebaut wurden, steht es frei, eine solche Beschränkung, die es zuvor der Ministerkonferenz notifizieren muss, einzuführen.
 - e) Diese Ausnahme gilt unbeschadet der Lösungen für spezifische Aspekte der unter diese Ausnahme fallenden Rechtsvorschriften, die im Rahmen sektoraler Übereinkommen oder in anderem Rahmen ausgehandelt werden.
 
-[^annexu1-lvlu1-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
-[^annexu1-lvlu1-2]: Die gemäss diesem Artikel gewährten Befreiungen sind in Fussnote 7 auf den Seiten 11 und 12 in Abschnitt II des Dokuments MTN/FA vom 15. Dezember 1993 und in Dok. MTN/FA/Corr. 6 vom 21. März 1994 aufgeführt. Auf ihrer ersten Tagung erstellt die Ministerkonferenz eine überarbeitete Liste der nach diesem Artikel gewährten Befreiungen, die auch alle aufgrund des GATT 1947 seit dem 15. Dezember 1993 und vor dem Inkrafttreten des WTO-Abkommens gewährten Befreiungen einbezieht und in der die bis dahin abgelaufenen Befreiungen gestrichen sind.
+[^annex1A-lvlu1-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
+[^annex1A-lvlu1-2]: Die gemäss diesem Artikel gewährten Befreiungen sind in Fussnote 7 auf den Seiten 11 und 12 in Abschnitt II des Dokuments MTN/FA vom 15. Dezember 1993 und in Dok. MTN/FA/Corr. 6 vom 21. März 1994 aufgeführt. Auf ihrer ersten Tagung erstellt die Ministerkonferenz eine überarbeitete Liste der nach diesem Artikel gewährten Befreiungen, die auch alle aufgrund des GATT 1947 seit dem 15. Dezember 1993 und vor dem Inkrafttreten des WTO-Abkommens gewährten Befreiungen einbezieht und in der die bis dahin abgelaufenen Befreiungen gestrichen sind.
 
 Anhang 1A.1.a
 
@@ -416,7 +416,7 @@ Die Mitglieder kommen wie folgt überein:
 
 \1. Zur Gewährleistung der Transparenz der aus Artikel II Absatz 1 Buchstabe b) hergeleiteten Rechte und Verpflichtungen werden Art und Höhe der auf gebundenen Zolltarifpositionen erhobenen «anderen Abgaben und Belastungen» im Sinne der genannten Bestimmung in den Zugeständnislisten im Anhang zum GATT 1994 bei der betreffenden Zolltarifposition angegeben. Es besteht Einvernehmen darüber, dass diese Angabe den gesetzlichen Charakter der «anderen Abgaben und Belastungen» nicht ändert.
 
-\2. Der Zeitpunkt, zu dem die «anderen Abgaben und Belastungen» im Sinne des Artikels II gebunden werden, ist der 15. April 1994. Die «anderen Abgaben und Belastungen» werden daher in den Listen mit den zu diesem Zeitpunkt geltenden Sätzen angegeben. Bei jeder nachfolgenden Neuaushandlung eines Zugeständnisses oder Aushandlung eines neuen Zugeständnisses ist der massgebliche Zeitpunkt für die betreffende Zolltarifposition der Zeitpunkt der Aufnahme des neuen Zugeständnisses in die betreffende Liste. Das Datum des Rechtsinstruments, durch das ein Zugeständnis für eine bestimmte Zolltarifposition erstmals in das GATT 1947[^annexu1-lvlu1-3] oder das GATT 1994 aufgenommen wurde, wird weiterhin in Spalte 6 der Loseblattsammlung der Listen festgehalten.
+\2. Der Zeitpunkt, zu dem die «anderen Abgaben und Belastungen» im Sinne des Artikels II gebunden werden, ist der 15. April 1994. Die «anderen Abgaben und Belastungen» werden daher in den Listen mit den zu diesem Zeitpunkt geltenden Sätzen angegeben. Bei jeder nachfolgenden Neuaushandlung eines Zugeständnisses oder Aushandlung eines neuen Zugeständnisses ist der massgebliche Zeitpunkt für die betreffende Zolltarifposition der Zeitpunkt der Aufnahme des neuen Zugeständnisses in die betreffende Liste. Das Datum des Rechtsinstruments, durch das ein Zugeständnis für eine bestimmte Zolltarifposition erstmals in das GATT 1947[^annexu1-lvlu1-1] oder das GATT 1994 aufgenommen wurde, wird weiterhin in Spalte 6 der Loseblattsammlung der Listen festgehalten.
 
 \3. Die «anderen Abgaben und Belastungen» werden für alle zolltariflichen Bindungen angegeben.
 
@@ -430,7 +430,7 @@ Die Mitglieder kommen wie folgt überein:
 
 \8. Die Entscheidung gemäss Absatz 2 über den massgeblichen Zeitpunkt eines jeden Zugeständnisses für die Zwecke von Artikel II Absatz 1 Buchstabe b des GATT 1994 tritt an die Stelle der Entscheidung über den massgeblichen Zeitpunkt vom 26. März 1980 (BISD 27S/24).
 
-[^annexu1-lvlu1-3]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^annexu1-lvlu1-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 Anhang 1A.1.b
 
@@ -458,9 +458,9 @@ Diese Notifikationsverpflichtung gilt nicht für Einfuhren, die zum unmittelbare
 
 \4. Ein Mitglied, das Grund zu der Annahme hat, dass ein anderes Mitglied seinen Notifikationsverpflichtungen nicht angemessen nachgekommen ist, kann die Angelegenheit mit dem betreffenden Mitglied zur Sprache bringen. Wird die Angelegenheit nicht in zufriedenstellender Weise geklärt, kann es eine Gegennotifikation an den Rat für Warenverkehr richten, die von der nach Absatz 5 einzusetzenden Arbeitsgruppe geprüft wird; gleichzeitig unterrichtet es das betreffende Mitglied darüber.
 
-\5. Der Rat für Warenverkehr setzt eine Arbeitsgruppe ein, die die Aufgabe hat, Notifikationen und Gegennotifikationen zu prüfen. Aufgrund dieser Prüfung und unbeschadet des Artikels VII Absatz 4 Buchstabe c kann der Rat für Warenverkehr Empfehlungen in bezug auf die Angemessenheit der Notifikationen und die Notwendigkeit weiterer Auskünfte abgeben. Die Arbeitsgruppe prüft unter Zugrundelegung der eingegangenen Notifikationen auch die Angemessenheit des vorgenannten Fragebogens für staatliche Handelsunternehmen und den Tätigkeitsbereich der nach Absatz 1 notifizierten staatlichen Handelsunternehmen. Sie erarbeitet ferner eine Beispielliste der möglichen Formen der Beziehungen zwischen Staat und Unternehmen und der Arten von Tätigkeiten, die von diesen Unternehmen ausgeübt werden, soweit dies für die Zwecke von Artikel XVII sachdienlich ist. Es besteht Einvernehmen darüber, dass das Sekretariat für die Arbeitsgruppe ein allgemeines Hintergrundsdokument über die Tätigkeiten staatlicher Handelsunternehmen im Zusammenhang mit dem internationalen Handel vorlegen wird. Die Mitgliedschaft in der Arbeitsgruppe steht allen Mitgliedern frei, die den Wunsch äussern, ihr anzugehören. Die Gruppe tritt innerhalb eines Jahres nach dem Tag des Inkrafttretens des WTO-Abkommens und danach mindestens einmal im Jahr zusammen. Sie erstattet dem Rat für Warenverkehr jährlich Bericht.[^annexu1-lvlu1-4]
+\5. Der Rat für Warenverkehr setzt eine Arbeitsgruppe ein, die die Aufgabe hat, Notifikationen und Gegennotifikationen zu prüfen. Aufgrund dieser Prüfung und unbeschadet des Artikels VII Absatz 4 Buchstabe c kann der Rat für Warenverkehr Empfehlungen in bezug auf die Angemessenheit der Notifikationen und die Notwendigkeit weiterer Auskünfte abgeben. Die Arbeitsgruppe prüft unter Zugrundelegung der eingegangenen Notifikationen auch die Angemessenheit des vorgenannten Fragebogens für staatliche Handelsunternehmen und den Tätigkeitsbereich der nach Absatz 1 notifizierten staatlichen Handelsunternehmen. Sie erarbeitet ferner eine Beispielliste der möglichen Formen der Beziehungen zwischen Staat und Unternehmen und der Arten von Tätigkeiten, die von diesen Unternehmen ausgeübt werden, soweit dies für die Zwecke von Artikel XVII sachdienlich ist. Es besteht Einvernehmen darüber, dass das Sekretariat für die Arbeitsgruppe ein allgemeines Hintergrundsdokument über die Tätigkeiten staatlicher Handelsunternehmen im Zusammenhang mit dem internationalen Handel vorlegen wird. Die Mitgliedschaft in der Arbeitsgruppe steht allen Mitgliedern frei, die den Wunsch äussern, ihr anzugehören. Die Gruppe tritt innerhalb eines Jahres nach dem Tag des Inkrafttretens des WTO-Abkommens und danach mindestens einmal im Jahr zusammen. Sie erstattet dem Rat für Warenverkehr jährlich Bericht.[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-4]: Die Tätigkeiten dieser Arbeitsgruppe werden mit den Tätigkeiten der Arbeitsgruppe gemäss Abschnitt III der Ministererklärung über Notifikationsverfahren vom 15. April 1994 koordiniert.
+[^annexu1-lvlu1-2]: Die Tätigkeiten dieser Arbeitsgruppe werden mit den Tätigkeiten der Arbeitsgruppe gemäss Abschnitt III der Ministererklärung über Notifikationsverfahren vom 15. April 1994 koordiniert.
 
 Anhang 1A.1.c
 
@@ -468,13 +468,13 @@ Anhang 1A.1.c
 
 Die Mitglieder,
 
-in Anerkennung der Artikel XII und XVIII Abschnitt B des GATT 1994 und der am 28. November 1979 angenommenen Erklärung über Handelsmassnahmen aus Zahlungsbilanzgründen (BISD 26S/205-209, in dieser Vereinbarung «Erklärung von 1979» genannt) sowie zur Klarstellung der genannten Bestimmungen[^annexu1-lvlu1-5],
+in Anerkennung der Artikel XII und XVIII Abschnitt B des GATT 1994 und der am 28. November 1979 angenommenen Erklärung über Handelsmassnahmen aus Zahlungsbilanzgründen (BISD 26S/205-209, in dieser Vereinbarung «Erklärung von 1979» genannt) sowie zur Klarstellung der genannten Bestimmungen[^annexu1-lvlu1-3],
 
 kommen wie folgt überein:
 
 ### Anwendung von Massnahmen
 
-[^annexu1-lvlu1-5]: Diese Vereinbarung soll nicht die Rechte und Pflichten der Mitglieder aufgrund der Artikel XII und XVIII Abschnitt B des GATT 1994 ändern. Die Mitglieder können sich in bezug auf Fragen im Zusammenhang mit der Anwendung von einfuhrbeschränkenden Massnahmen aus Zahlungsbilanzgründen auf die Artikel XXII und XXIII des GATT 1994, ausgelegt und ergänzt durch die Streitbeilegungsvereinbarung, berufen.
+[^annexu1-lvlu1-3]: Diese Vereinbarung soll nicht die Rechte und Pflichten der Mitglieder aufgrund der Artikel XII und XVIII Abschnitt B des GATT 1994 ändern. Die Mitglieder können sich in bezug auf Fragen im Zusammenhang mit der Anwendung von einfuhrbeschränkenden Massnahmen aus Zahlungsbilanzgründen auf die Artikel XXII und XXIII des GATT 1994, ausgelegt und ergänzt durch die Streitbeilegungsvereinbarung, berufen.
 
 \1. Die Mitglieder bekräftigen ihre Verpflichtung, so bald wie möglich Zeitpläne für den Abbau von einfuhrbeschränkenden Massnahmen aus Zahlungsbilanzgründen öffentlich anzukündigen. Es besteht Einvernehmen darüber, dass solche Zeitpläne gegebenenfalls geändert werden können, um Veränderungen der Zahlungsbilanzsituation Rechnung zu tragen. Mitglieder, die noch keinen Zeitplan öffentlich angekündigt haben, liefern eine Rechtfertigung der Gründe dafür.
 
@@ -516,7 +516,7 @@ Die Mitglieder,
 
 gestützt auf Artikel XXIV des GATT 1994,
 
-in Anerkennung dessen, dass Zahl und Bedeutung der Zollunionen und Freihandelszonen seit der Ausarbeitung des GATT 1947[^annexu1-lvlu1-6] erheblich zugenommen haben und dass heute ein bedeutender Anteil des Welthandels auf Zollunionen oder Freihandelszonen entfällt,
+in Anerkennung dessen, dass Zahl und Bedeutung der Zollunionen und Freihandelszonen seit der Ausarbeitung des GATT 1947[^annexu1-lvlu1-4] erheblich zugenommen haben und dass heute ein bedeutender Anteil des Welthandels auf Zollunionen oder Freihandelszonen entfällt,
 
 in Anerkennung dessen, dass durch eine engere Integration der an solchen Übereinkünften teilnehmenden Vertragsparteien ein Beitrag zur Ausweitung des Welthandels geleistet wird,
 
@@ -534,7 +534,7 @@ kommen wie folgt überein:
 
 ### Artikel XXIV Absatz 5
 
-[^annexu1-lvlu1-6]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^annexu1-lvlu1-4]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 \2. Die Bewertung nach Artikel XXIV Absatz 5 Buchstabe a der allgemeinen Inzidenz der Zölle und Handelsvorschriften, die vor und nach der Bildung einer Zollunion gelten, erfolgt in bezug auf Zölle und Belastungen anhand einer Gesamtbewertung der gewogenen durchschnittlichen Zollsätze und der tatsächlich erhobenen Zölle. Dieser Bewertung liegen die Einfuhrstatistiken für einen vorangegangenen repräsentativen Zeitraum zugrunde, die von der Zollunion für die einzelnen Tariflinien in Wert und Mengen und untergliedert nach WTO-Ursprungsland vorzulegen sind. Das Sekretariat berechnet die gewogenen durchschnittlichen Zollsätze und tatsächlich erhobenen Zölle nach den Methoden, die in der Uruguay-Runde der multilateralen Handelsverhandlungen für die Bewertung der zolltariflichen Angebote verwendet worden sind. Zu diesem Zweck werden als Zölle und Belastungen die tatsächlich angewendeten Zollsätze berücksichtigt. Es wird anerkannt, dass zur Gesamtbewertung der Inzidenz anderer Handelsregelungen, für die eine Quantifizierung und Summierung schwierig ist, die Prüfung einzelner Massnahmen, Regelungen, einbezogener Waren und betroffener Handelsströme erforderlich sein kann.
 
@@ -614,7 +614,7 @@ In keinem Fall ist ein Mitglied zu einem Ausgleich verpflichtet, der über das M
 
 \7. Mitglieder, die Hauptlieferanten gemäss Absatz 1 oder gemäss Artikel XXVIII Absatz 1 für ein geändertes oder zurückgenommenes Zugeständnis sind, erhalten ein ursprüngliches Verhandlungsrecht für als Ausgleich gewährte Zugeständnisse, sofern nicht zwischen den betreffenden Mitgliedern eine andere Form des Ausgleichs vereinbart wird.
 
-Anhang 1A.1.g*[^t-2]*
+Anhang 1A.1.g[^t-2]
 
 ## Erklärung über die Ausdehnung des Handels mit Produkten der Informationstechnologie
 
@@ -627,20 +627,20 @@ In Kraft getreten für die Schweiz am 7. Juli 2017
 Die folgenden Mitglieder der Welthandelsorganisation («WTO»), die sich auf die Ausweitung des Welthandels mit Waren der Informationstechnologie geeinigt haben (im Folgenden die «Vertragsparteien»):
 
 <table>
-<tr><td>Albanien Australien China Costa Rica Europäische Union Gesondertes Zollgebiet Taiwan, Penghu, Kinmen und Matsu Guatemala Hongkong, China Island Israel Japan</td><td>Kanada Korea Malaysia Montenegro Neuseeland Norwegen Philippinen Schweiz[^annexu1-lvlu1-7] Singapur Thailand Vereinigte Staaten</td></tr>
+<tr><td>Albanien Australien China Costa Rica Europäische Union Gesondertes Zollgebiet Taiwan, Penghu, Kinmen und Matsu Guatemala Hongkong, China Island Israel Japan</td><td>Kanada Korea Malaysia Montenegro Neuseeland Norwegen Philippinen Schweiz[^annexu1-lvlu1-5] Singapur Thailand Vereinigte Staaten</td></tr>
 </table>
 
 erklären Folgendes:
 
-\1. Jede Vertragspartei bindet und beseitigt, wie nachstehend dargelegt, die Zölle und die anderen Abgaben und Belastungen jeder Art im Sinne des Artikels II Absatz 1 Buchstabe b des Allgemeinen Zoll- und Handelsabkommens von 1994[^annexu1-lvlu1-8] in Bezug auf Folgendes:
+\1. Jede Vertragspartei bindet und beseitigt, wie nachstehend dargelegt, die Zölle und die anderen Abgaben und Belastungen jeder Art im Sinne des Artikels II Absatz 1 Buchstabe b des Allgemeinen Zoll- und Handelsabkommens von 1994[^annexu1-lvlu1-6] in Bezug auf Folgendes:
 
 - a) alle in Anlage A zu dieser Erklärung aufgeführten und in Unterpositionen des Harmonisierten Systems (im Folgenden «HS») 2007 eingereihten Waren; und
 - b) alle in Anlage B zu dieser Erklärung aufgeführten Waren, ob in Anlage A enthalten oder nicht.
 
 ### Stufenweiser Zollabbau
 
-[^annexu1-lvlu1-7]: Im Auftrag der Zollunion zwischen der Schweiz und Liechtenstein.
-[^annexu1-lvlu1-8]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
+[^annexu1-lvlu1-5]: Im Auftrag der Zollunion zwischen der Schweiz und Liechtenstein.
+[^annexu1-lvlu1-6]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
 
 \2. Die Vertragsparteien senken die Zölle normalerweise von 2016 bis 2019 in vier gleichen jährlichen Stufen über drei Jahre, sofern die Vertragsparteien nicht anerkennen, dass der Zollabbau unter eingeschränkten Umständen gestreckt werden muss, und deshalb etwas anderes vereinbart haben. Der gesenkte Zollsatz ist bei jeder Stufe auf die erste Dezimalstelle abzurunden. Jede Vertragspartei nimmt in ihre Liste der Zugeständnisse[^annexu1-lvlu1-lvlu1-1] zum Allgemeinen Zoll- und Handelsabkommen von 1994 (im Folgenden «Liste der Zugeständnisse») für jede Ware Verpflichtungen zum Zollabbau auf.
 
@@ -920,21 +920,24 @@ In Anlage B sind bestimmte Produkte aufgeführt, auf die sich diese Erklärung u
 
 \*\* Die Beseitigung der Zölle für Drucksachen betrifft nur die Rechte und Pflichten hinsichtlich des Handels mit Waren, d. h., sie betrifft den Marktzugang nur hinsichtlich der Zolltarife der Teilnehmer. Keine der Bestimmungen des ITA-Erweiterungsübereinkommens hindert ein ITA-Mitglied daran, den Inhalt solcher Waren, unter anderem auch Internetinhalte, zu regeln. Keine der Bestimmungen des ITA-Erweiterungsübereinkommens betrifft Marktzugangsrechte und -pflichten eines Mitglieds hinsichtlich des Dienstleistungsverkehrs oder hindert ein Mitglied daran, seinen Dienstleistungsmarkt zu regeln.
 
-Anhang 1A.1.h*[^t-3]*
+Anhang 1A.1.h[^t-3]
 
-## Änderung der Liste LIX-Schweiz-Liechtenstein**** bezüglich Würzfleisch****
+## Änderung der Liste LIX-Schweiz-Liechtenstein bezüglich Würzfleisch
 
-[^annexu1-lvlu1-9][^annexu1-lvlu1-10]
+[^annexu1-lvlu1-7][^annexu1-lvlu1-8]
 
 [^t-3]: [AS 2021 232](https://fedlex.data.admin.ch/eli/oc/2021/232)
-[^annexu1-lvlu1-9]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.1
-[^annexu1-lvlu1-10]: Die Liste LIX-Schweiz-Liechtenstein wird in der AS nicht veröffentlicht. Sie ist nur in französischer Sprache verfügbar und nur in dieser Fassung rechtsverbindlich. Die genannten Änderungen wurden in [SR 0.632.290.17](https://fedlex.data.admin.ch/eli/cc/2021/247); [AS 2021 247](https://fedlex.data.admin.ch/eli/oc/2021/247)publiziert. Ein Separatdruck der Liste kann bei der Oberzolldirektion, Sektion Zolltarif, 3003 Bern, bezogen oder eingesehen werden.
+[^annexu1-lvlu1-7]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.1
+[^annexu1-lvlu1-8]: Die Liste LIX-Schweiz-Liechtenstein wird in der AS nicht veröffentlicht. Sie ist nur in französischer Sprache verfügbar und nur in dieser Fassung rechtsverbindlich. Die genannten Änderungen wurden in [SR 0.632.290.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20012); [AS 2021 247](https://fedlex.data.admin.ch/eli/oc/2021/247)publiziert. Ein Separatdruck der Liste kann bei der Oberzolldirektion, Sektion Zolltarif, 3003 Bern, bezogen oder eingesehen werden.
 
-Von der Bundesversammlung genehmigt am 19. März 2021[^annexu1-lvlu1-11]
+Von der Bundesversammlung genehmigt am 19. März 2021[^annexu1-lvlu1-9]
 
 Von der Schweiz vorläufig angewendet seit dem 1. Januar 2021
 
-[^annexu1-lvlu1-11]: [BBl 2021 679](https://fedlex.data.admin.ch/eli/fga/2021/679)
+In Kraft getreten für die Schweiz am 24. März 2022[^annexu1-lvlu1-10]
+
+[^annexu1-lvlu1-9]: [BBl 2021 679](https://fedlex.data.admin.ch/eli/fga/2021/679)
+[^annexu1-lvlu1-10]: [AS 2022 326](https://fedlex.data.admin.ch/eli/oc/2022/326)
 
 Anhang 1A.2
 
@@ -942,11 +945,11 @@ Anhang 1A.2
 
 Die Mitglieder,
 
-nach Abschluss der Verhandlungen im Rahmen des GATT 1947[^annexu1-lvlu1-12] gemäss der Ministererklärung zur Uruguay-Runde,
+nach Abschluss der Verhandlungen im Rahmen des GATT 1947[^annexu1-lvlu1-11] gemäss der Ministererklärung zur Uruguay-Runde,
 
 kommen wie folgt überein:
 
-\1. Die diesem Protokoll als Anhang beigefügte Liste[^annexu1-lvlu1-13] eines Mitglieds wird an dem Tag, an dem das WTO-Abkommen für dieses Mitglied in Kraft tritt, eine Liste des GATT 1994 für dieses Mitglied. Jede Liste, die gemäss dem Ministerbeschluss zu Massnahmen zugunsten der am wenigsten entwickelten Länder vorgelegt wird, gilt als Anhang zu diesem Protokoll.
+\1. Die diesem Protokoll als Anhang beigefügte Liste[^annexu1-lvlu1-12] eines Mitglieds wird an dem Tag, an dem das WTO-Abkommen für dieses Mitglied in Kraft tritt, eine Liste des GATT 1994 für dieses Mitglied. Jede Liste, die gemäss dem Ministerbeschluss zu Massnahmen zugunsten der am wenigsten entwickelten Länder vorgelegt wird, gilt als Anhang zu diesem Protokoll.
 
 \2. Die Zollsenkungen, denen jedes Mitglied zugestimmt hat, werden, sofern in der Liste des Mitglieds nichts anderes bestimmt ist, in fünf gleichen Raten vorgenommen. Die erste Senkung wird am Tag des Inkrafttretens des WTO-Abkommens wirksam, alle weiteren Senkungen jeweils am 1. Januar der folgenden Jahre und die letzte spätestens vier Jahre nach dem Zeitpunkt des Inkrafttretens des WTO-Abkommens, sofern in der Liste des betreffenden Mitglieds nichts anderes bestimmt ist. Ein Mitglied, das dem WTO-Abkommen nach dessen Inkrafttreten beitritt, nimmt, sofern in seiner Liste nichts anderes bestimmt ist, an dem Tag, an dem das Abkommen für dieses Mitglied in Kraft tritt, alle bereits erfolgten Zollsenkungen sowie die Senkungen vor, die es gemäss dem vorstehenden Satz am 1. Januar des folgenden Jahres hätte vornehmen müssen; alle verbleibenden Zollsenkungen werden gemäss dem im vorstehenden Satz genannten Zeitplan vorgenommen. Der gesenkte Zollsatz ist jeweils auf die erste Dezimalstelle zu runden. Bei landwirtschaftlichen Erzeugnissen im Sinne von Artikel 2 des Übereinkommens über die Landwirtschaft richtet sich die Staffelung der Zollsenkungen nach der in den entsprechenden Teilen der Listen festgelegten Regelung.
 
@@ -965,8 +968,8 @@ kommen wie folgt überein:
 
 \9. Das Datum dieses Protokolls ist der 15. April 1994.
 
-[^annexu1-lvlu1-12]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
-[^annexu1-lvlu1-13]: Die Liste LIX-Schweiz-Liechtenstein wird in der AS nicht veröffentlicht. Sie ist nur in französischer Sprache verfügbar und nur in dieser Fassung rechtsverbindlich. Ein Separatdruck der Liste kann bei der Oberzolldirektion, Sektion Zolltarif, 3003 Bern, bezogen oder eingesehen werden.
+[^annexu1-lvlu1-11]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
+[^annexu1-lvlu1-12]: Die Liste LIX-Schweiz-Liechtenstein wird in der AS nicht veröffentlicht. Sie ist nur in französischer Sprache verfügbar und nur in dieser Fassung rechtsverbindlich. Ein Separatdruck der Liste kann bei der Oberzolldirektion, Sektion Zolltarif, 3003 Bern, bezogen oder eingesehen werden.
 
 Anhang 1A.3
 
@@ -1177,7 +1180,7 @@ Die nachstehenden Ausfuhrsubventionen unterliegen den Senkungsverpflichtungen im
 - b) internationale Nahrungsmittelhilfe einschliesslich bilateraler finanzieller Nahrungsmittelhilfe gemäss den «Grundsätzen für die Überschussverwertung und Konsultationsverpflichtungen» der FAO sowie, falls erforderlich, gemäss dem System der Üblichen Markterfordernisse (UMR) durchgeführt wird;
 - c) eine solche Hilfe im grösstmöglichen Ausmass als nichtrückzahlbarer Zuschuss oder zumindest zu den in Artikel IV des Nahrungsmittelhilfeübereinkommens 1986[^annexu1-lvlu1-partV-10-1] vorgesehenen Bedingungen erfolgt.
 
-[^annexu1-lvlu1-partV-10-1]: [[AS 1986 2049](https://fedlex.data.admin.ch/eli/oc/1986/2049_2049_2049), [1987 1815](https://fedlex.data.admin.ch/eli/oc/1987/1815_1815_1815), [1989 1541](https://fedlex.data.admin.ch/eli/oc/1989/1541_1541_1541), [1991 800](https://fedlex.data.admin.ch/eli/oc/1991/800_800_800)[801](https://fedlex.data.admin.ch/eli/oc/1991/801_801_801), [1994 356](https://fedlex.data.admin.ch/eli/oc/1994/356_356_356)[357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357). [AS 1996 2642](https://fedlex.data.admin.ch/eli/oc/1996/2642_2642_2642)] Siehe heute: Internationales Getreideabkommen von 1995 ([SR 0.916.111.311](https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642)).
+[^annexu1-lvlu1-partV-10-1]: [[AS 1986 2049](https://fedlex.data.admin.ch/eli/oc/1986/2049_2049_2049), [1987 1815](https://fedlex.data.admin.ch/eli/oc/1987/1815_1815_1815), [1989 1541](https://fedlex.data.admin.ch/eli/oc/1989/1541_1541_1541), [1991 800](https://fedlex.data.admin.ch/eli/oc/1991/800_800_800)[801](https://fedlex.data.admin.ch/eli/oc/1991/801_801_801), [1994 356](https://fedlex.data.admin.ch/eli/oc/1994/356_356_356)[357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357). [AS 1996 2642](https://fedlex.data.admin.ch/eli/oc/1996/2642_2642_2642)] Siehe heute: Internationales Getreideabkommen von 1995 ([SR 0.916.111.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4035)).
 
 #### Art. 11
 
@@ -1531,7 +1534,7 @@ Anhang 5 Besondere Behandlung gemäss Artikel 4 Absatz 2
 
 \7. Wenn die Höhe eines nach diesen Richtlinien berechneten Zolläquivalents berichtigt wird, räumt das betreffende Mitglied auf Ersuchen jede Gelegenheit zu Konsultationen im Hinblick auf die Aushandlung geeigneter Lösungen ein.
 
-## Ministerratsbeschluss: Vereinbarung über die Regeln zur Verwaltung der Zollkontingente für Agrarprodukte gemäss Artikel 2 des Agrarabkommens****
+## Ministerratsbeschluss: Vereinbarung über die Regeln zur Verwaltung der Zollkontingente für Agrarprodukte gemäss Artikel 2 des Agrarabkommens
 
 [^annex2-lvlu2-1]
 
@@ -1624,7 +1627,7 @@ Guatemala
 
 Vereinigte Staaten von Amerika
 
-Ministerratsbeschluss: Öffentliche Lagerhaltung zu Zwecken der Ernährungssicherheit**[^t-13]**
+Ministerratsbeschluss: Öffentliche Lagerhaltung zu Zwecken der Ernährungssicherheit[^t-13]
 
 Angenommen am 7. Dezember 2013
 
@@ -1644,7 +1647,7 @@ beschliesst Folgendes:
 
 [^t-13]: [AS 2015 1611](https://fedlex.data.admin.ch/eli/oc/2015/317)
 [^t-14]: Die dauerhafte Lösung wird für alle Entwicklungsland-Mitglieder gelten.
-[^t-15]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.3
+[^t-15]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.3
 [^t-16]: Dieser Begriff bezeichnet landwirtschaftliche Primärerzeugnisse, die für die traditionelle Ernährung der Bevölkerung eines Entwicklungsland-Mitglieds zu den wichtigsten Grundnahrungsmitteln gehören.
 [^t-17]: Dieser Beschluss hindert Entwicklungsland-Mitglieder nicht daran, Programme zur öffentlichen Lagerhaltung zu Zwecken der Ernährungssicherheit im Einklang mit den einschlägigen Bestimmungen des Agrarabkommens einzuführen.
 
@@ -1709,7 +1712,7 @@ beschliesst Folgendes:
 - 5\. Statistische Informationen (gemäss der statistischen Anlage unten).
 - 6\. Weitere Informationen, die als relevant betrachtet werden, einschliesslich Angabe von Websites.
 
-**Statistische Anlage (*****pro Nahrungsmittel*****) (Angaben zu den letzten drei Jahren)**
+**Statistische Anlage (*****pro Nahrungsmittel*****)** **(Angaben zu den letzten drei Jahren)**
 
 <table>
 <tr><th></th><th>Einheit</th><th>[Jahr 1]</th><th>[Jahr 2]</th><th>[Jahr 3]</th></tr>
@@ -1735,7 +1738,7 @@ beschliesst Folgendes:
 <tr><td>p. Total Ausfuhren (Menge)</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-## Ministerbeschluss vom 19. Dezember 2015: Ausfuhrwettbewerb****
+## Ministerbeschluss vom 19. Dezember 2015: Ausfuhrwettbewerb
 
 [^annexB-lvlu3-1]
 
@@ -1884,7 +1887,7 @@ Es versteht sich, dass nach diesen Daten für bereits bestehende Vereinbarungen,
 [^annexB-lvlu3-lvlu9-3]: Diese Bestimmung gilt auch für Belize, Ecuador, Fidschi, Guatemala, Guyana, Nicaragua, Papua-Neuguinea, den Plurinationalen Staat Bolivien und Suriname.
 [^annexB-lvlu3-lvlu9-4]: Ist der Verkauf über eine öffentliche Ausschreibung nicht möglich, kann der Verkauf auch als frei verhandelter Verkauf erfolgen.
 
-### Anhang****
+### Anhang
 
 [^annexB-lvlu3-lvlu10-1]
 
@@ -1964,7 +1967,7 @@ in dem Wunsch, die Anwendung von gesundheitspolizeilichen und pflanzenschutzrech
 
 in Anerkennung dessen, dass für Entwicklungsland-Mitglieder bei der Einhaltung der gesundheitspolizeilichen und pflanzenschutzrechtlichen Massnahmen der Einfuhrmitglieder und folglich beim Marktzugang sowie bei der Abfassung und Anwendung gesundheitspolizeilicher und pflanzenschutzrechtlicher Massnahmen in ihrem Hoheitsgebiet besondere Schwierigkeiten auftreten können, und in dem Wunsch, sie bei ihren Bemühungen auf diesem Gebiet zu unterstützen;
 
-in dem Wunsch, dementsprechend Durchführungsbestimmungen zu den Artikeln des GATT 1994 auszuarbeiten, die die Anwendung gesundheitspolizeilicher und pflanzenschutzrechtlicher Massnahmen betreffen, insbesondere zu Artikel XX Buchstabe b)[^annexu1-lvlu1-14],
+in dem Wunsch, dementsprechend Durchführungsbestimmungen zu den Artikeln des GATT 1994 auszuarbeiten, die die Anwendung gesundheitspolizeilicher und pflanzenschutzrechtlicher Massnahmen betreffen, insbesondere zu Artikel XX Buchstabe b)[^annexu1-lvlu1-13],
 
 kommen wie folgt überein:
 
@@ -1980,7 +1983,7 @@ kommen wie folgt überein:
 
 <sup>4.</sup> Dieses Übereinkommen lässt die Rechte der Mitglieder nach dem Übereinkommen über technische Handelshemmnisse[^annexu1-lvlu1-1-1] in bezug auf nicht in den Geltungsbereich dieses Übereinkommens fallende Massnahmen unberührt.
 
-[^annexu1-lvlu1-14]: In diesem Übereinkommen gilt die Bezugnahme auf Artikel XX Buchstabe b) auch für die einführenden Bestimmungen zu diesem Artikel.
+[^annexu1-lvlu1-13]: In diesem Übereinkommen gilt die Bezugnahme auf Artikel XX Buchstabe b) auch für die einführenden Bestimmungen zu diesem Artikel.
 [^annexu1-lvlu1-1-1]: Anhang 1A.6
 
 #### Art. 2
@@ -2123,7 +2126,7 @@ Die Mitglieder sind nach diesem Übereinkommen voll verantwortlich für die Erf�
 
 Die am wenigsten entwickelten Mitgliedsländer können die Anwendung der Bestimmungen dieses Übereinkommens in bezug auf gesundheitspolizeiliche oder pflanzenschutzrechtliche Massnahmen, die sich auf die Einfuhr oder auf Einfuhrwaren auswirken, um fünf Jahre nach dem Inkrafttreten des WTO-Abkommens aufschieben. Andere Entwicklungsland-Mitglieder können die Durchführung dieses Übereinkommens mit Ausnahme von Artikel 5 Absatz 8 und von Artikel 7 in bezug auf bestehende gesundheitspolizeiliche oder pflanzenschutzrechtliche Massnahmen, die sich auf die Einfuhr oder auf Einfuhrwaren auswirken, um zwei Jahre nach dem Inkrafttreten des WTO-Abkommens aufschieben, wenn die Durchführung des Übereinkommens durch Mangel an technischem Sachverstand, technischer Infrastruktur oder Ressourcen verhindert wird.
 
-## Anhang A Definitionen****
+## Anhang A Definitionen
 
 [^lvlA-1]
 
@@ -2214,7 +2217,7 @@ Zu den gesundheitspolizeilichen oder pflanzenschutzrechtlichen Massnahmen gehör
 - a) Einzelheiten oder Kopien von Entwürfen in anderen Sprachen als derjenigen des Mitglieds zur Verfügung zu stellen oder Dokumente in anderen Sprachen als derjenigen des Mitglieds zu veröffentlichen; ausgenommen sind die Bestimmungen von Absatz 8 dieses Anhangs;
 - b) vertrauliche Angaben preiszugeben, welche die Durchsetzung von gesundheitspolizeilichen oder pflanzenschutzrechtlichen Vorschriften behindern oder den berechtigten Geschäftsinteressen einzelner Unternehmen zuwiderlaufen würden.
 
-## Anhang C Kontroll-, Inspektions- und Genehmigungsverfahren****
+## Anhang C Kontroll-, Inspektions- und Genehmigungsverfahren
 
 [^lvlC-1]
 
@@ -3531,7 +3534,7 @@ Anhang 1A.7
 
 Die Mitglieder,
 
-in der Erwägung, dass die Minister in der Erklärung von Punta del Este darin übereinstimmten, dass «nach einer Untersuchung des Funktionierens der GATT-Artikel betreffend die Handelsbeschränkungen und handelsverzerrenden Auswirkungen von Investitionsmassnahmen (...) in den Verhandlungen gegebenenfalls weitere Bestimmungen ausgearbeitet [werden], die erforderlich sein können, um derartige nachteilige Auswirkungen auf den Handel zu verhüten»;
+in der Erwägung, dass die Minister in der Erklärung von Punta del Este darin übereinstimmten, dass «nach einer Untersuchung des Funktionierens der GATT-Artikel betreffend die Handelsbeschränkungen und handelsverzerrenden Auswirkungen von Investitionsmassnahmen (…) in den Verhandlungen gegebenenfalls weitere Bestimmungen ausgearbeitet [werden], die erforderlich sein können, um derartige nachteilige Auswirkungen auf den Handel zu verhüten»;
 
 in dem Wunsch, die Ausweitung und allmähliche Liberalisierung des Welthandels zu fördern und Investitionen über die internationalen Grenzen hinweg zu erleichtern, um so das Wirtschaftswachstum aller Handelspartner, insbesondere der Entwicklungsland-Mitglieder, zu steigern und gleichzeitig den freien Wettbewerb zu gewährleisten;
 
@@ -4279,7 +4282,7 @@ Dieses Übereinkommen schränkt in keiner Weise das Recht der Zollverwaltungen e
 
 <sup>3.</sup> Industrieland-Mitglieder leisten den Entwicklungsland-Mitgliedern auf Antrag technische Hilfe zu einvernehmlich vereinbarten Bedingungen. Auf dieser Grundlage erstellen die Industrieland-Mitglieder Programme für technische Hilfe, die unter anderem Personalausbildung, Unterstützung bei der Vorbereitung von Durchführungsmassnahmen, Zugang zu Informationsquellen betreffend die Methode der Zollwertermittlung und Beratung bei der Anwendung dieses Übereinkommens einschliessen können.
 
-[^annexu1-lvlu1-partIII-20-1]: [SR 0.632.231.3](https://fedlex.data.admin.ch/eli/cc/1979/2468_2472_2472)
+[^annexu1-lvlu1-partIII-20-1]: [SR 0.632.231.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2253)
 
 ### Teil IV Schlussbestimmungen
 
@@ -4417,7 +4420,7 @@ Ist ein solches Kaufgeschäft nicht ausfindig zu machen, so kann ein Kaufgeschä
 
 ## Anmerkungen zu Artikel 5
 
-\1. Der Begriff «Preis je Einheit, zu dem ... Waren in der grössten Menge insgesamt» verkauft werden, bedeutet den Preis, zu dem die grösste Anzahl von Einheiten bei Verkäufen an Personen verkauft wird, die mit den Personen nicht verbunden sind, von denen sie diese Waren auf der ersten Handelsstufe nach der Einfuhr, auf der diese Verkäufe stattfinden, kaufen.
+\1. Der Begriff «Preis je Einheit, zu dem … Waren in der grössten Menge insgesamt» verkauft werden, bedeutet den Preis, zu dem die grösste Anzahl von Einheiten bei Verkäufen an Personen verkauft wird, die mit den Personen nicht verbunden sind, von denen sie diese Waren auf der ersten Handelsstufe nach der Einfuhr, auf der diese Verkäufe stattfinden, kaufen.
 
 \2. Hierfür ein Beispiel: Waren werden nach einer Preisliste verkauft, die günstigere Preise je Einheit für Käufe in grösseren Mengen vorsieht.
 
@@ -4651,13 +4654,13 @@ Anhang III
 
 \3. Entwicklungsländer, die der Meinung sind, dass die Umkehrung der Reihenfolge der Anwendung auf Antrag des Importeurs gemäss Artikel 4 ihnen echte Schwierigkeiten bereiten kann, können folgenden Vorbehalt zu Artikel 4 einlegen:
 
-«Die Regierung von .......... behält sich vor vorzuschreiben, dass die einschlägige Bestimmung von Artikel 4 des Übereinkommens nur Anwendung findet, wenn die Zollbehörden dem Antrag auf Anwendung der Artikel 5 und 6 in umgekehrter Reihenfolge stattgeben.»
+«Die Regierung von ………. behält sich vor vorzuschreiben, dass die einschlägige Bestimmung von Artikel 4 des Übereinkommens nur Anwendung findet, wenn die Zollbehörden dem Antrag auf Anwendung der Artikel 5 und 6 in umgekehrter Reihenfolge stattgeben.»
 
 Legen Entwicklungsländer einen solchen Vorbehalt ein, so stimmen die Mitglieder diesem Vorbehalt gemäss Artikel 21 des Übereinkommens zu.
 
 \4. Entwicklungsländer können folgenden Vorbehalt zu Artikel 5 Absatz 2 des Übereinkommens einlegen:
 
-«Die Regierung von .......... behält sich vor vorzuschreiben, dass Artikel 5 Absatz 2 des Übereinkommens in Übereinstimmung mit der einschlägigen Anmerkung angewendet wird, ob der Importeur einen entsprechenden Antrag gestellt hat oder nicht.»
+«Die Regierung von ………. behält sich vor vorzuschreiben, dass Artikel 5 Absatz 2 des Übereinkommens in Übereinstimmung mit der einschlägigen Anmerkung angewendet wird, ob der Importeur einen entsprechenden Antrag gestellt hat oder nicht.»
 
 Legen Entwicklungsländer einen solchen Vorbehalt ein, so stimmen die Mitglieder diesem Vorbehalt gemäss Artikel 21 des Übereinkommens zu.
 
@@ -5217,7 +5220,7 @@ Die folgenden Bestimmungen[^annexu1-lvlu1-2-5] gelten zusätzlich zu Artikel 1 A
 - b) Die Mitglieder erkennen an, dass automatische Einfuhrlizenzverfahren immer dann notwendig sein können, wenn andere geeignete Verfahren nicht zur Verfügung stehen. Automatische Einfuhrlizenzverfahren können so lange beibehalten werden, wie die Umstände, die zu ihrer Einführung Anlass gaben, fortbestehen oder die ihnen zugrunde liegenden Verwaltungszwecke nicht in einer angemesseneren Art und Weise erreicht werden können.
 
 [^annexu1-lvlu1-2-4]: Einfuhrlizenzverfahren, bei denen eine Sicherheit verlangt wird, fallen unter die Absätze 1 und 2 dieses Artikels, sofern sie keine einfuhrbeschränkende Wirkung haben.
-[^annexu1-lvlu1-2-5]: Ein Entwicklungsland-Mitglied, das nicht Vertragspartei des am 12. April 1979 unterzeichneten Übereinkommens über Einfuhrlizenzverfahren ([SR 0.632.231.43](https://fedlex.data.admin.ch/eli/cc/1979/2505_2509_2509)) ist und bestimmte Schwierigkeiten mit den Anforderungen gemäss Buchstabe a) Ziffern ii) und iii) hat, kann nach Notifikation an den Ausschuss die Anwendung dieser Buchstaben um höchstens zwei Jahre nach dem Inkrafttreten des WTO-Abkommens für das betreffende Mitglied aufschieben.
+[^annexu1-lvlu1-2-5]: Ein Entwicklungsland-Mitglied, das nicht Vertragspartei des am 12. April 1979 unterzeichneten Übereinkommens über Einfuhrlizenzverfahren ([SR 0.632.231.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2257)) ist und bestimmte Schwierigkeiten mit den Anforderungen gemäss Buchstabe a) Ziffern ii) und iii) hat, kann nach Notifikation an den Ausschuss die Anwendung dieser Buchstaben um höchstens zwei Jahre nach dem Inkrafttreten des WTO-Abkommens für das betreffende Mitglied aufschieben.
 
 #### Art. 3
 
@@ -6084,7 +6087,7 @@ Anhang I Liste von Beispielen für Ausfuhrsubventionen
 
 [^t-19]: Fussnoten siehe am Schluss von Anhang I.
 
-Anhang II Leitlinien über den Verbrauch von Vorleistungen bei der Produktion**[^t-20]**
+Anhang II Leitlinien über den Verbrauch von Vorleistungen bei der Produktion[^t-20]
 
 ## **I**
 
@@ -6128,7 +6131,7 @@ Im Rahmen einer Ausgleichszolluntersuchung nach diesem Übereinkommen sollen die
 
 \5. Es ist anzunehmen, dass eine übermässige Rückvergütung von Einfuhrabgaben im Sinne von Buchstabe i vorliegt, wenn eine Regierung im Rahmen ihrer Rückerstattungssysteme die zurückgezahlten Gelder verzinst, soweit die Zinsen tatsächlich gezahlt werden oder zu zahlen sind.
 
-Anhang IV Berechnung der wertmässigen Gesamtsubventionierung (Artikel 6 Absatz 1 Buchstabe a)**[^t-21]**
+Anhang IV Berechnung der wertmässigen Gesamtsubventionierung (Artikel 6 Absatz 1 Buchstabe a)[^t-21]
 
 \1. Die Höhe einer Subvention im Sinne von Artikel 6 Absatz 1 Buchstabe a wird als Höhe der Kosten berechnet, welche der die Subvention gewährenden Regierung entstehen.
 
@@ -6224,7 +6227,7 @@ kommen wie folgt überein:
 <tr><td>EG/Japan</td><td>Personenwagen, Geländefahrzeuge, leichte Nutzfahrzeuge, leichte Lastwagen (bis 5 t) und die gleichen Fahrzeuge vollständig in Einzelteile zerlegt</td><td></td><td>31. Dezember 1999</td></tr>
 </table>
 
-Anhang 1A.15*[^t-28]*
+Anhang 1A.15[^t-28]
 
 ## Abkommen über Handelserleichterungen
 
@@ -6232,7 +6235,7 @@ Anhang 1A.15*[^t-28]*
 
 Abgeschlossen in Genf am 27. November 2014
 
-Von der Bundesversammlung genehmigt am 20. März 2015[^annexu1-lvlu1-15]
+Von der Bundesversammlung genehmigt am 20. März 2015[^annexu1-lvlu1-14]
 
 Ratifikationsurkunde von der Schweiz hinterlegt am 2. September 2015
 
@@ -6240,7 +6243,7 @@ In Kraft getreten für die Schweiz am 22. Februar 2017
 
 ### *Präambel*
 
-[^annexu1-lvlu1-15]: [AS 2017 2103](https://fedlex.data.admin.ch/eli/oc/2017/190)
+[^annexu1-lvlu1-14]: [AS 2017 2103](https://fedlex.data.admin.ch/eli/oc/2017/190)
 
 Die Mitglieder,
 
@@ -6387,7 +6390,7 @@ Geltungsbereich am 8. März 2017
 
 [^t-29]: Das Abkommen über Handelserleichterungen ist für die im Geltungsbereich aufgeführten Vertragsstaaten am 22. Februar 2017 in Kraft getreten.
 
-Anhang 1.B
+Anhang 1B
 
 ## Allgemeines Abkommen über den Handel mit Dienstleistungen
 
@@ -6542,7 +6545,7 @@ kommen hiermit wie folgt überein:
 
 \4. Dieses Abkommen hindert ein Mitglied nicht daran, Massnahmen zur Regelung der Einreise oder des vorübergehenden Aufenthalts natürlicher Personen in seinem Hoheitsgebiet einschliesslich solcher Massnahmen zu treffen, die zum Schutz der Unversehrtheit seiner Grenzen und zur Gewährleistung der ordnungsgemässen Grenzüberschreitung natürlicher Personen erforderlich sind; jedoch dürfen solche Massnahmen nicht auf eine Weise angewendet werden, dass sie die Handelsvorteile, die einem Mitglied aufgrund der Bedingungen einer spezifischen Verpflichtung zustehen, zunichte machen oder schmälern.[^declu2-lvlu1-lvlu1-lvlu8-1]
 
-### Drittes Protokoll betreffend den Anhang über die Grenzüberschreitung natürlicher Personen zur Erbringung von Dienstleistungen im Rahmen des Abkommens über den Handel mit Dienstleistungen****
+### Drittes Protokoll betreffend den Anhang über die Grenzüberschreitung natürlicher Personen zur Erbringung von Dienstleistungen im Rahmen des Abkommens über den Handel mit Dienstleistungen
 
 [^declu2-lvlu1-lvlu1-lvlu8-lvlu1-1]
 
@@ -6690,7 +6693,7 @@ Für die Zwecke dieses Anhangs gelten folgende Begriffsbestimmungen:
 
 \3. Der Rat für Dienstleistungshandel legt die zur Anwendung der Absätze 1 und 2 erforderlichen Verfahren fest.
 
-### Zweites Protokoll betreffend den zweiten Anhang über Finanzdienstleistungen des Allgemeinen Abkommens über den Handel mit Dienstleistungen****
+### Zweites Protokoll betreffend den zweiten Anhang über Finanzdienstleistungen des Allgemeinen Abkommens über den Handel mit Dienstleistungen
 
 [^declu2-lvlu1-lvlu1-lvlu11-lvlu1-1]
 
@@ -6809,7 +6812,7 @@ Bei der Anwendung von Artikel III dieses Abkommens stellt jedes Mitglied sicher,
 
 \2. Absatz 1 gilt nicht für eine spezifische Verpflichtung in bezug auf Basis-Telekommunikationsdienstleistungen, die in der Liste eines Mitglieds aufgeführt sind.
 
-### Viertes Protokoll betreffend den Anhang zu Verhandlungen über Basis-Telekommunikationsdienstleistungen des Allgemeinen Abkommens über den Handel mit Dienstleistungen****
+### Viertes Protokoll betreffend den Anhang zu Verhandlungen über Basis-Telekommunikationsdienstleistungen des Allgemeinen Abkommens über den Handel mit Dienstleistungen
 
 [^declu2-lvlu1-lvlu1-lvlu14-lvlu1-1]
 
@@ -6839,15 +6842,15 @@ Geschehen zu Genf am 15. April 1997 in einer Urschrift in englischer, französis
 
 [^declu2-lvlu1-lvlu1-lvlu14-lvlu1-2]: Diese Listen werden in der Amtlichen Sammlung des Bundesrechts nicht veröffentlicht. Sie sind in einem Sonderdruck in französischer Sprache mit dem Titel «Suisse – Liste d’engagements spécifiques» zusammengefasst. Dieser ist bei der Eidgenössischen Drucksachen- und Materialzentrale, Sektion Bewirtschaftung, 3000 Bern, erhältlich.
 
-Anhang 1C*[^t-30]*
+Anhang 1C[^t-30]
 
 ## Abkommen über handelsbezogene Aspekte der Rechte an geistigem Eigentum (TRIPS)
 
 [^t-30]: Bereinigt gemäss Beschluss WT/L/641 des Generalrats der WTO am 6. Dez. 2005, in Kraft getreten für die Schweiz am 23. Jan. 2017 ([AS 2017 679](https://fedlex.data.admin.ch/eli/oc/2017/123)).
 
-**Teil I Allgemeine Bestimmungen und Grundsätze**
+**Teil I** **Allgemeine Bestimmungen und Grundsätze**
 
-**Teil II Normen über die Verfügbarkeit, den Umfang und die Ausübung der Rechte an geistigem Eigentum**
+**Teil II** **Normen über die Verfügbarkeit, den Umfang und die Ausübung der** **Rechte** **an geistigem Eigentum**
 
 - 1\. Urheberrecht und verwandte Schutzrechte
 - 2\. Marken
@@ -6858,7 +6861,7 @@ Anhang 1C*[^t-30]*
 - 7\. Schutz vertraulicher Informationen
 - 8\. Kontrolle wettbewerbswidriger Praktiken in vertraglichen Lizen zen
 
-**Teil III Durchsetzung der Rechte an geistigem Eigentum**
+**Teil III** **Durchsetzung der Rechte an geistigem Eigentum**
 
 - 1\. Allgemeine Pflichten
 - 2\. Zivil- und verwaltungsrechtliche Verfahren und Abhilfemass nahmen
@@ -6866,13 +6869,13 @@ Anhang 1C*[^t-30]*
 - 4\. Besondere Voraussetzungen für Massnahmen an der Grenze
 - 5\. Strafverfahren
 
-**Teil IV Erwerb und Aufrechterhaltung der Rechte an geistigem Eigentum und damit zusammenhängende Verfahren inter partes**
+**Teil IV** **Erwerb und Aufrechterhaltung der Rechte an geistigem Eigentum** **und damit zusammenhängende Verfahren inter partes**
 
-**Teil V Vermeidung und Beilegung von Streitigkeiten**
+**Teil V** **Vermeidung und Beilegung von Streitigkeiten**
 
-**Teil VI Übergangsbestimmungen**
+**Teil VI** **Übergangsbestimmungen**
 
-**Teil VII Institutionelle Bestimmungen; Schlussbestimmungen**
+**Teil VII** **Institutionelle Bestimmungen; Schlussbestimmungen**
 
 ### Abkommen über handelsbezogene Aspekte der Rechte an geistigem Eigentum
 
@@ -6915,7 +6918,7 @@ sind wie folgt übereingekommen:
 <sup>3.</sup> Die Mitglieder gewähren den Staatsangehörigen der anderen Mitglieder die in diesem Abkommen vorgesehene Behandlung.[^declu3-1-1] In bezug auf das betreffende Recht an geistigem Eigentum sind unter den Staatsangehörigen der anderen Mitglieder diejenigen natürlichen oder juristischen Personen zu verstehen, welche die Voraussetzungen für die Schutzfähigkeit der Pariser Verbandsübereinkunft (1967), der Berner Übereinkunft (1971), des Rom-Abkommens und des Vertrags über den Schutz des geistigen Eigentums an integrierten Schaltkreisen erfüllen würden, wenn alle Mitglieder der WTO Mitglieder dieser Übereinkünfte wären.[^declu3-1-2] Ein Mitglied, das von den in Artikel 5 Absatz 3 oder in Artikel 6 Absatz 2 des Rom-Abkommens vorgesehenen Möglichkeiten Gebrauch macht, nimmt eine Notifikation gemäss diesen Bestimmungen an den Rat für handelsbezogene Aspekte der Rechte an geistigem Eigentum («Rat für TRIPS») vor.
 
 [^declu3-1-1]: «Staatsangehöriger» im Sinne dieser Abkommens ist im Fall eines eigenen Zollgebiets, das Mitglied der WTO ist, eine natürliche oder juristische Person, die ihren Wohnsitz oder eine tatsächliche und effektive gewerbliche oder geschäftliche Niederlassung in diesem Zollgebiet hat.
-[^declu3-1-2]: In diesem Abkommen bedeutet «Pariser Verbandsübereinkunft» die Pariser Verbandübereinkunft zum Schutz des gewerblichen Eigentums; «Pariser Verbandsübereinkunft (1967)» bedeutet die Stockholmer Fassung dieser Übereinkunft vom 14. Juli 1967 ([SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)). «Berner Übereinkunft» bedeutet die Berner Übereinkunft zum Schutz von Werken der Literatur und Kunst; «Berner Übereinkunft (1971)» bedeutet die Pariser Fassung dieser Übereinkunft vom 24. Juli 1971 ([SR 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)). «Rom-Abkommen» bedeutet das am 26. Oktober 1961 ([SR 0.231.171](https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696)) in Rom angenommene Internationale Abkommen über den Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen. «Vertrag über den Schutz des geistigen Eigentums an integrierten Schaltkreisen» (IPIC-Vertrag) bedeutet den am 26. Mai 1989 in Washington angenommenen Vertrag über den Schutz des geistigen Eigentums an integrierten Schaltkreisen. «WTO-Abkommen» bedeutet das Abkommen zur Errichtung der Welthandelsorganisation.
+[^declu3-1-2]: In diesem Abkommen bedeutet «Pariser Verbandsübereinkunft» die Pariser Verbandübereinkunft zum Schutz des gewerblichen Eigentums; «Pariser Verbandsübereinkunft (1967)» bedeutet die Stockholmer Fassung dieser Übereinkunft vom 14. Juli 1967 ([SR 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)). «Berner Übereinkunft» bedeutet die Berner Übereinkunft zum Schutz von Werken der Literatur und Kunst; «Berner Übereinkunft (1971)» bedeutet die Pariser Fassung dieser Übereinkunft vom 24. Juli 1971 ([SR 0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)). «Rom-Abkommen» bedeutet das am 26. Oktober 1961 ([SR 0.231.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1019)) in Rom angenommene Internationale Abkommen über den Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen. «Vertrag über den Schutz des geistigen Eigentums an integrierten Schaltkreisen» (IPIC-Vertrag) bedeutet den am 26. Mai 1989 in Washington angenommenen Vertrag über den Schutz des geistigen Eigentums an integrierten Schaltkreisen. «WTO-Abkommen» bedeutet das Abkommen zur Errichtung der Welthandelsorganisation.
 
 #### Art. 2
 
@@ -7441,7 +7444,7 @@ Soweit in verwaltungsrechtlichen Verfahren als Folge von Sachentscheiden zivilre
 
 <sup>8.</sup> Soweit in verwaltungsrechtlichen Verfahren vorsorgliche Massnahmen angeordnet werden können, müssen diese Verfahren Grundsätzen entsprechen, die im wesentlichen den in diesem Abschnitt dargelegten Grundsätzen gleichwertig sind.
 
-### Abschnitt 4: Besondere Voraussetzungen für Massnahmen an der Grenze****
+### Abschnitt 4: Besondere Voraussetzungen für Massnahmen an der Grenze
 
 [^declu3-lvlu1-lvlu1-partIII-sec4-1]
 
@@ -7745,7 +7748,7 @@ Die Mitglieder kommen wie folgt überein:
 
 Die Anwendbarkeit dieser Vereinbarung auf Plurilaterale Handelsübereinkünfte unterliegt einem Beschluss der Vertragsparteien der jeweiligen Übereinkunft, der die Bedingungen für die Anwendung der Vereinbarung auf die jeweilige Übereinkunft festlegt, einschliesslich etwaiger dem DSB notifizierter besonderer oder zusätzlicher Regeln oder Verfahren zur Aufnahme in Anlage 2.
 
-[^declu4-lvlu1-lvlu28-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^declu4-lvlu1-lvlu28-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^declu4-lvlu1-lvlu28-2]: [[AS 1995 2555](https://fedlex.data.admin.ch/eli/oc/1995/2555_2555_2555), [1998 2698](https://fedlex.data.admin.ch/eli/oc/1998/2698_2698_2698)]
 [^declu4-lvlu1-lvlu28-3]: [[AS 1995 2597](https://fedlex.data.admin.ch/eli/oc/1995/2597_2597_2597), [1998 2699](https://fedlex.data.admin.ch/eli/oc/1998/2699_2699_2699)]
 
@@ -7829,7 +7832,7 @@ Die folgenden Regeln und Verfahren gelten für nach Artikel 13 Absatz 2 eingeset
 
 \6. Die Sachverständigengruppe legt den Streitparteien einen Entwurf des Berichts vor, um deren Stellungnahmen einzuholen; diese werden gegebenenfalls im Schlussbericht berücksichtigt, der bei Vorlage an die Sondergruppe auch den Streitparteien übermittelt wird. Der Schlussbericht der Sachverständigengruppe hat nur beratenden Stellenwert.
 
-Anhang 3*[^t-31]*
+Anhang 3[^t-31]
 
 ## Mechanismus zur Überprüfung der Handelspolitik
 
@@ -7888,19 +7891,19 @@ Anhang 4.a
 
 Das Übereinkommen über den Handel mit Zivilluftfahrzeugen, abgeschlossen am 12. April 1979[^declu7-lvlu1-1] in Genf, wurde im Nachhinein geändert, berichtigt und verbessert.
 
-[^declu7-lvlu1-1]: [SR 0.632.231.8](https://fedlex.data.admin.ch/eli/cc/1979/2607_2614_2614)
+[^declu7-lvlu1-1]: [SR 0.632.231.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2265)
 
 Anhang 4.b
 
-## Übereinkommen über das öffentliche Beschaffungswesen****
+## Übereinkommen über das öffentliche Beschaffungswesen
 
 [^declu8-lvlu1-1]
 
-[^declu8-lvlu1-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^declu8-lvlu1-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 Anhang 4.c
 
-## Internationale Übereinkunft über Milcherzeugnisse****
+## Internationale Übereinkunft über Milcherzeugnisse
 
 [^declu9-lvlu1-1]
 
@@ -7908,13 +7911,13 @@ Anhang 4.c
 
 Anhang 4.d
 
-## Internationale Übereinkunft über Rindfleisch****
+## Internationale Übereinkunft über Rindfleisch
 
 [^declu10-lvlu1-1]
 
 [^declu10-lvlu1-1]: [[AS 1995 2597](https://fedlex.data.admin.ch/eli/oc/1995/2597_2597_2597). [AS 1998 2699](https://fedlex.data.admin.ch/eli/oc/1998/2699_2699_2699)]
 
-Geltungsbereich am 2. Juli 2019**[^t-32]**
+Geltungsbereich am 2. Juli 2019[^t-32]
 
 <table>
 <tr><th>Regierungen</th><th>Ratifikation</th><th></th><th>Inkrafttreten Mitgliederstatus</th><th colspan="2"></th></tr>
@@ -8088,4 +8091,4 @@ Geltungsbereich am 2. Juli 2019**[^t-32]**
 <tr><td colspan="5"><sup>a</sup> Vom 1. Jan. 1995 bis zum 30. Juni 1997 war Hong Kong ein Gründungsmitglied der WTO in seiner Eigenschaft als Kronkolonie des Vereinigten Königreichs. Seit dem 1. Juli 1997 bildet Hong Kong eine Besondere Verwaltungsregion (RAS) der Volksrepublik China und behält den Status eines gesonderten Zollgebiets. Hong Kong bleibt Mitglied der WTO unter der Bezeichnung Hong Kong, China. <sup>b</sup> Vom 1. Jan. 1995 bis zum 19. Dez. 1999 war Macao ein Gründungsmitglied der WTO als Kolonie Portugals. Am 20. Dez. 1999 wurde Macau eine RAS der Volksrepublik China. Macau bleibt Mitglied der WTO unter dem Namen Macau, China. <sup>c</sup> Seit dem 1. Jan. 2002 ist das gesonderte Zollgebiet Taiwan, Penghu, Kinmen, und Matsu (Chinesisches Taipei) Mitglied der Welthandelsorganisation (WTO) unter dem Namen Chinesisches Taipei.</td></tr>
 </table>
 
-[^t-32]: [AS 1996 112](https://fedlex.data.admin.ch/eli/oc/1996/112_112_112), [2005 1223](https://fedlex.data.admin.ch/eli/oc/2005/175), [2009 513](https://fedlex.data.admin.ch/eli/oc/2009/92), [2013 3531](https://fedlex.data.admin.ch/eli/oc/2013/659)[2016 551](https://fedlex.data.admin.ch/eli/oc/2016/103), [2019 2247](https://fedlex.data.admin.ch/eli/oc/2019/421). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-32]: [AS 1996 112](https://fedlex.data.admin.ch/eli/oc/1996/112_112_112); [2005 1223](https://fedlex.data.admin.ch/eli/oc/2005/175); [2009 513](https://fedlex.data.admin.ch/eli/oc/2009/92); [2013 3531](https://fedlex.data.admin.ch/eli/oc/2013/659); [2016 551](https://fedlex.data.admin.ch/eli/oc/2016/103); [2019 2247](https://fedlex.data.admin.ch/eli/oc/2019/421). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
