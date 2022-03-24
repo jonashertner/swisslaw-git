@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2022-03-21
+version: 2022-03-25
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220321/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220321-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220321/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220325/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220325-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220325/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220321/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 21 marzo 2022)
+del 19 giugno 2020 (Stato 25 marzo 2022)
 
 Il Consiglio federale svizzero,
 
@@ -904,7 +904,7 @@ Allegato 4*[^t-5]*
 
 ## Elenco dei medicamenti, dei dispositivi medici e dei dispositivi di protezione importanti (materiale medico importante)
 
-[^t-5]: Nuovo testo giusta il n. I dell’O dell’UFSP del 19 ott. 2020 (Elenco del materiale medico importante e elenco dei principi attivi per il trattamento del COVID-19 ([RU 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Aggiornato dal n. II cpv. 1 dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), dal n. I cpv. 1 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19) ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)), dal n. II dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), dal n. I dell’O dell’DFI del 17 ago. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19) ([RU 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)) e dal n. I cpv. 1 dell’O del DFI del 19 gen. 2022 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19), in vigore dal 21 gen. 2022 ([RU 2022 23](https://fedlex.data.admin.ch/eli/oc/2022/23)).
+[^t-5]: Nuovo testo giusta il n. I dell’O dell’UFSP del 19 ott. 2020 (Elenco del materiale medico importante e elenco dei principi attivi per il trattamento del COVID-19 ([RU 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Aggiornato dal n. II cpv. 1 dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), dal n. I cpv. 1 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19) ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)), dal n. II dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), dal n. I dell’O dell’DFI del 17 ago. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19) ([RU 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)) e dal n. I cpv. 1 dell’O del DFI del 23 mar. 2022 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19), in vigore dal 25 mar. 2022 ([RU 2022 186](https://fedlex.data.admin.ch/eli/oc/2022/186)).
 
 ### 1. Principi attivi nonché medicamenti contenenti i principi attivi elencati
 
@@ -953,10 +953,11 @@ Allegato 4*[^t-5]*
 - 43\. Vaccino contro la polmonite batterica (Prevenar 13)
 - 44\. Gas medicinali
 - 45\. Casirivimab/Imdevimab
-- 46\. Nirmatrelvir/Ritonavir
+- 46\. Nirmatrelvir (PF-07321332)/Ritonavir
 - 47\. Ossigeno medicinale
 - 48\. Soluzioni per infusioni
 - 49\. Sotrovimab
+- 50\. Tixagevimab/Cilgavimab
 
 ### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001****relativa ai dispositivi medici
 
@@ -1002,9 +1003,10 @@ Allegato 5*[^t-6]*
 
 ## Elenco dei principi attivi per il trattamento del COVID-19
 
-[^t-6]: Nuovo testo giusta ill n. I cpv. 2 dell’O del DFI del 19 gen. 2022 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19), in vigore dal 21 gen. 2022 ([RU 2022 23](https://fedlex.data.admin.ch/eli/oc/2022/23)).
+[^t-6]: Nuovo testo giusta il n. I cpv. 2 dell’O del DFI del 23 mar. 2022 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19), in vigore dal 25 mar. 2022 ([RU 2022 186](https://fedlex.data.admin.ch/eli/oc/2022/186)).
 
-- 1\. Nirmatrelvir/Ritonavir
+- 1\. Nirmatrelvir (PF-07321332)/Ritonavir
+- 2\. Tixagevimab/Cilgavimab
 
 Allegato 5a*[^t-7]*
 

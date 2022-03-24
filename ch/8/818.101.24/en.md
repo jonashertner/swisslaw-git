@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2022-03-21
+version: 2022-03-25
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220321/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220321-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220321/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220325/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220325-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220325/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 21 March 2022)
+of 19 June 2020 (Status as of 25 March 2022)
 
 The Swiss Federal Council,
 
@@ -908,7 +908,7 @@ Annex 4*[^t-5]*
 
 ## List of important medicinal products, medical devices and protective equipment (Essential Medical Goods)
 
-[^t-5]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and list of active substances for the treatment of COVID-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Revised by No II para. 1 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), No I para. 1 of the FDHA O of 14 April 2021 (Amendment of the lists of important medical products and of active substances for the treatment of COVID-19 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)), No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), No I of the FDHA O of 17 Aug. 2021 (Amendment of the List of important medical products and list of active substances for the treatment of COVID-19), in force since 25 Aug. 2021 ([AS 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)) and No I para. 1 of the FDHA O of 19 Jan. 2022 (Amendment of the List of important medical products and list of active substances for the treatment of COVID-19), in force since 21 Jan. 2022 ([AS 2022 23](https://fedlex.data.admin.ch/eli/oc/2022/23)).
+[^t-5]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and list of active substances for the treatment of COVID-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Revised by No II para. 1 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), No I para. 1 of the FDHA O of 14 April 2021 (Amendment of the lists of important medical products and of active substances for the treatment of COVID-19 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)), No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), No I of the FDHA O of 17 Aug. 2021 (Amendment of the List of important medical products and list of active substances for the treatment of COVID-19) ([AS 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)) and No I para. 1 of the FDHA O of 23 March 2022 (Amendment of the List of important medical products and list of active substances for the treatment of COVID-19), in force since 25 March 2022 ([AS 2022 186](https://fedlex.data.admin.ch/eli/oc/2022/186)).
 
 ### 1. Active substances or medicinal products with the listed active substances
 
@@ -1002,13 +1002,15 @@ Annex 4*[^t-5]*
 
 - 45\. Casirivimab/imdevimab
 
-\46. Nirmatrelvir/Ritonavir
+\46. Nirmatrelvir (PF-07321332)/Ritonavir
 
 \47. Medical oxygen
 
 \48. Infusion solutions
 
 \49. Sotrovimab
+
+\50. Tixagevimab/Cilgavimab
 
 ### 2. Medical devices within the meaning of the Medical Devices Ordinance of 17 October 2001****
 
@@ -1070,9 +1072,10 @@ Annex 5*[^t-6]*
 
 ## List of active substances for the treatment of COVID-19
 
-[^t-6]: Amended by No I para. 2 of the FDHA O of 19 Jan. 2022 (Amendment of the List of important medical products and list of active substances for the treatment of COVID-19), in force since 21 Jan. 2022 ([AS 2022 23](https://fedlex.data.admin.ch/eli/oc/2022/23)).
+[^t-6]: Amended by No I para. 2 of the FDHA O of 23 March 2022 (Amendment of the List of important medical products and list of active substances for the treatment of COVID-19), in force since 25 March 2022 ([AS 2022 186](https://fedlex.data.admin.ch/eli/oc/2022/186)).
 
-- [tab] 1. Nirmatrelvir/Ritonavir
+- 1\. Nirmatrelvir PF-07321332)/Ritonavir
+- 2\. Tixagevimab/Cilgavimab
 
 Annex 5a*[^t-7]*
 
