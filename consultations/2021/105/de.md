@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Bundesgesetzes über Förderung von Innovation, Zusammenarbeit und Wissensaufbau im Tourismus"
 document: Vernehmlassungsvorlage
 language: de

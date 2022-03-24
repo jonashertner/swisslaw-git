@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale che promuove l’innovazione, la collaborazione e lo sviluppo delle conoscenze nel turismo"
 document: Progetto posto in consultazione
 language: it

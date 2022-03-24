@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi fédérale encourageant l’innovation, la coopération et la professionnalisation dans le domaine du tourisme"
 document: Projet mis en consultation
 language: fr
