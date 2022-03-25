@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Verordnung über Fernmeldedienste (Anpassung der Grundversorgungsbestimmungen)
 document: Vernehmlassungsvorlage
 language: de

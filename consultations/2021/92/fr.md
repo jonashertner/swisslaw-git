@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur les services de télécommunication (adaptation des dispositions du service universel)
 document: Projet mis en consultation
 language: fr

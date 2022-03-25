@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’Ordinanza sui servizi di telecomunicazione (adattamento delle disposizioni del servizio universale)
 document: Progetto posto in consultazione
 language: it
