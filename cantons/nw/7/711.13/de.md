@@ -4,13 +4,13 @@ number: "711.13"
 title: Verordnung zur Bekämpfung der Verbreitung des Coronavirus
 short: Kantonale Covid-19-Verordnung
 language: de
-version: 2022-02-09
-valid_until: 2022-03-25
-version_adopted: 2022-02-08
+version: 2022-03-26
+valid_until: 2026-01-31
+version_adopted: 2022-03-15
 adopted: 2020-11-03
 in_force: 2020-11-04
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/999/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1010/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/999/pdf_file"
 
 (Kantonale Covid-19-Verordnung)
 
-vom 03.11.2020 (Stand 09.02.2022)
+vom 03.11.2020 (Stand 26.03.2022)
 
 Der Regierungsrat von Nidwalden,
 
@@ -39,17 +39,7 @@ beschliesst:
 
 <sup>2</sup> Die Massnahmen dienen dazu, die Verbreitung des Coronavirus (Covid-19) zu bekämpfen und Übertragungsketten zu unterbrechen.
 
-#### § 2
-
-**Angebot der Schulen für repetitive Covid-19-Tests**
-
-<sup>1</sup> Alle Schulen im Kanton haben ein Angebot für die repetitive Covid-19- Testung von Schülerinnen und Schülern, Lehrpersonen und weitere im Schulhaus tätigen Personen anzubieten.
-
-<sup>2</sup> Die Teilnahme an den Tests ist freiwillig.
-
-<sup>3</sup> Die Gesundheits- und Sozialdirektion kann gegenüber den Schulen bei Bedarf Weisungen zu den Covid-19-Tests erteilen.
-
-#### § 2a–4
+#### § 2–4
 
 **…**
 
