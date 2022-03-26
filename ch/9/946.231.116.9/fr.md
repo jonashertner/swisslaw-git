@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2022-03-16
+version: 2022-03-27
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220316/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220316-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220327/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220327-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220327/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (Etat le 16 mars 2022)
+du 16 mars 2022 (Etat le 27 mars 2022)
 
 Le Conseil fédéral suisse,
 
@@ -383,9 +383,11 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 
 #### Art. 23
 
-[^23-1]
+**Interdiction de fournir des services spécialisés de messagerie financière**[^23-1]
 
-[^23-1]: Entre en vigueur le 27 mars 2022 (art. 33, al. 2, let. b)
+La fourniture de services spécialisés de messagerie financière, utilisés pour échanger des données financières, aux banques, entreprises ou entités visées à l’annexe 15 ou à toute banque, entreprise ou entité sise au Bélarus et contrôlée à plus de 50 % par des banques, des entreprises ou des entités visées à l’annexe 15 est interdite.
+
+[^23-1]: En vigueur depuis le 27 mars 2022 (art. 33, al. 2, let. b)
 
 #### Art. 24
 

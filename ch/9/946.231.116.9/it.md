@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2022-03-16
+version: 2022-03-27
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220316/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220316-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220316/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220327/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220327-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220327/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 16 marzo 2022)
+del 16 marzo 2022 (Stato 27 marzo 2022))
 
 Il Consiglio federale svizzero,
 
@@ -383,7 +383,9 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 #### Art. 23
 
-[^23-1]
+**Divieto di fornire servizi specializzati di messaggistica finanziaria**[^23-1]
+
+È vietato fornire servizi specializzati di messaggistica finanziaria, utilizzati per scambiare dati finanziari, alle banche, imprese o organizzazioni di cui all’allegato 15 o a qualsiasi banca, impresa o organizzazione con sede in Bielorussia e controllata per oltre il 50 per cento da banche, imprese o organizzazioni di cui all’allegato 15.
 
 [^23-1]: In vigore dal 27 mar. 2022 (art. 33 cpv. 2 lett. b).
 

@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2022-03-16
+version: 2022-03-27
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220316/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220316-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220316/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220327/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220327-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220327/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 16. März 2022)
+vom 16. März 2022 (Stand am 27. März 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -383,9 +383,11 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 #### Art. 23
 
-[^23-1]
+**Spezialisierte Nachrichtenübermittlungsdienste für den Zahlungsverkehr**[^23-1]
 
-[^23-1]: Tritt am 27. März 2022 in Kraft (Art. 33 Abs. 2 Bst. b)
+Die Bereitstellung von spezialisierten Nachrichtenübermittlungsdiensten für den Zahlungsverkehr, die für den Austausch von Finanzdaten verwendet werden, zuhanden von Banken, Unternehmen oder Organisationen nach Anhang 15 oder Banken, Unternehmen oder Organisationen mit Sitz in Belarus, die zu über 50 Prozent von Banken, Unternehmen oder Organisationen nach Anhang 15 beherrscht werden ist verboten.
+
+[^23-1]: In Kraft seit 27. März 2022 (Art. 33 Abs. 2 Bst. b)
 
 #### Art. 24
 
