@@ -4,13 +4,13 @@ number: 900b
 title: Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung Covid-19
 language: de
-version: 2021-11-27
-valid_until: 2022-03-29
-version_adopted: 2021-11-23
+version: 2022-03-30
+valid_until: 2023-03-31
+version_adopted: 2022-03-29
 adopted: 2022-03-29
 in_force: 2022-03-30
 url: "https://srl.lu.ch/app/de/texts_of_law/900b"
-pdf: "https://srl.lu.ch/api/de/versions/3853/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3901/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,18 @@ pdf: "https://srl.lu.ch/api/de/versions/3853/pdf_file"
 
 (Kantonale Härtefallverordnung Covid-19)
 
-vom 09.12.2020 (Stand 27.11.2021)
+vom 29.03.2022 (Stand 30.03.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf Artikel 12 Absätze 1 und 2 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1], Artikel 12 Absatz 1 der Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie vom 25. November 2020[^ingress-2] und § 9 Absatz 1a des Gesetzes über die Wirtschaftsförderung und die Regionalpolitik vom 19. November 2001[^ingress-3],
+gestützt auf die Artikel 11b und 12 Absätze 1 und 2 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1], Artikel 12 Absatz 1 der Covid-19 Härtefallverordnung 2020 vom 25. November 2020[^ingress-2] in der Fassung vom 18. Dezember 2021, Artikel 11 Absatz 1 der Covid-19-Härtefallverordnung 2022 vom 2. Februar 2022[^ingress-3] und § 9 Absatz 1a des Gesetzes über die Wirtschaftsförderung und die Regionalpolitik vom 19. November 2001[^ingress-4],
 
 beschliesst:
 
 [^ingress-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de)
 [^ingress-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
-[^ingress-3]: SRL Nr. [900](https://srl.lu.ch/data/900/de)
+[^ingress-3]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
+[^ingress-4]: SRL Nr. [900](https://srl.lu.ch/data/900/de)
 
 ## 1 Allgemeines
 
@@ -37,150 +38,172 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Diese Verordnung regelt die Unterstützung von Unternehmen im Kanton Luzern im Sinn von Artikel 12 des Covid-19-Gesetzes vom 25. September 2020[^1-1], welche aufgrund der Natur ihrer wirtschaftlichen Tätigkeit von den Folgen der Covid-19-Epidemie besonders betroffen sind und Härtefälle darstellen.
+<sup>1</sup> Diese Verordnung regelt die Unterstützung von Unternehmen im Kanton Luzern im Sinn von Artikel 11b und 12 des Covid-19-Gesetzes vom 25. September 2020[^1-1], welche aufgrund der Natur ihrer wirtschaftlichen Tätigkeit von den Folgen der Covid-19-Epidemie besonders betroffen sind und Härtefälle darstellen.
 
 [^1-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de)
 
 #### § 2
 
-**Grundsatz**
+**Grundsätze**
 
-<sup>1</sup> Unternehmen im Kanton Luzern werden mit kantonalen Härtefallmassnahmen nach den Vorgaben des Bundes gemäss dem Covid-19-Gesetz und der Covid-19-Härtefallverordnung vom 25. November 2020[^2-1] unterstützt, soweit diese Verordnung nichts anderes bestimmt.
+<sup>1</sup> Unternehmen im Kanton Luzern werden mit kantonalen Härtefallmassnahmen nach den Vorgaben des Bundes gemäss dem Covid-19-Gesetz[^2-1], der Covid-19-Härtefallverordnung vom 25. November 2020[^2-2] und der Covid-19-Härtefallverordnung 2022[^2-3] unterstützt, soweit diese Verordnung nichts anderes bestimmt.
 
-[^2-1]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
+<sup>2</sup> Die Unterstützung der Unternehmen erfolgt jeweils für den Zeitraum vom 1. Juli 2021 bis 31. Dezember 2021 (2. Halbjahr 2021) und für den Zeitraum vom 1. Januar 2022 bis 30. Juni 2022 (1. Halbjahr 2022). Sie wird pro Unterstützungszeitraum ausgerichtet.
 
-#### § 3
+<sup>3</sup> Die Unterstützung erfolgt im Rahmen der vom Kantonsrat und vom Regierungsrat bewilligten Mittel durch nicht rückzahlbare Beiträge. Es besteht kein Anspruch auf Unterstützungsbeiträge.
 
-**Form der Unterstützungen**
-
-<sup>1</sup> Der Kanton unterstützt Unternehmen im Kanton Luzern im Rahmen der vom Kantonsrat oder vom Regierungsrat bewilligten Mittel mit Härtefallmassnahmen in der Form von Garantien und nicht rückzahlbaren Beiträgen.
-
-<sup>2</sup> …
-
-<sup>2<sup>bis</sup></sup> …
-
-<sup>3</sup> …
-
-#### § 3a
-
-**Beitragsberechnung**
-
-<sup>1</sup> Der nicht rückzahlbare Beitrag an ein Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken berechnet sich wie folgt:
-
-- a soweit es sich um ein Unternehmen handelt, das aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie seinen Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für insgesamt mindestens 40 Tage schliessen musste (behördlich geschlossenes Unternehmen): pauschaler Fixkostenanteil, berechnet auf die Dauer der behördlichen Schliessung bis maximal Ende April 2021; der pauschale Fixkostenanteil entspricht dabei dem für ungedeckte Fixkosten festgesetzten Prozentsatz der branchenweiten durchschnittlichen Fixkosten vom Jahresumsatz,
-- b für die übrigen Unternehmen sowie für behördlich geschlossene Unternehmen für die Monate Mai und Juni 2021: nach der Berechnung für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken gemäss Artikel 8b der Covid-19-Härtefallverordnung,
-- c. hat ein behördlich geschlossenes Unternehmen bereits einen Beitrag gemäss Absatz 1a erhalten, wird ihm ein allfälliger Differenzbetrag zum Beitrag gemäss Absatz 1b ausbezahlt. Ist der Betrag gemäss Absatz 1b kleiner als derjenige nach Absatz 1a, erfolgt keine Rückforderung.
-
-<sup>1<sup>bis</sup></sup> Behördlich geschlossene Unternehmen des Detailhandels mit einem Jahresumsatz bis 5 Millionen Franken, bei denen umfangreiche Nachholeffekte möglich sind, und bei denen der Jahresumsatz 2020 zuzüglich des nach § 3a Absatz 1a berechneten Beitrages höher ausfällt als der durchschnittliche Jahresumsatz der Jahre 2018 und 2019, werden einer eingehenden Prüfung unterzogen. Weisen diese Unternehmen in der Jahresrechnung 2020 einen Gewinn aus, besteht für die Schliessungsmonate im Jahr 2020 kein Anspruch auf Härtefallhilfen.
-
-<sup>2</sup> Soweit die ungedeckten Fixkosten die jeweilige Höchstgrenze für nicht rückzahlbare Beiträge übersteigen, wird für deren Deckung eine Garantie gewährt. Diese Bestimmung ist auf Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken, die aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für insgesamt mindestens 40 Tage schliessen mussten, nicht anwendbar.
-
-<sup>3</sup> Das Finanzdepartement legt die massgebenden Prozentsätze des Fixkostenanteils gemäss Absatz 1a fest. Überdies kann es für einzelne Branchen oder Unternehmen tiefere Fixkostenanteile festlegen, wenn es feststellt, dass mit den pauschalen Fixkostenanteilen nach Artikel 8b Absatz 3 der Covid-19-Härtefallverordnung eine Überentschädigung entstehen würde.
-
-#### § 3b
-
-**Bedingte Gewinnbeteiligung bei Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken**
-
-<sup>1</sup> Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken, die im Jahr der Ausrichtung eines nicht rückzahlbaren Beitrags einen steuerbaren Jahresgewinn nach den §§ 71–80 des Steuergesetzes vom 22. November 1999[^3b-1] erzielen, leiten diesen an das Finanzdepartement weiter; dies aber höchstens im Umfang des erhaltenen Beitrags. Die Berechnung der bedingten Gewinnbeteiligung erfolgt sinngemäss nach Artikel 8e der Covid-19-Härtefallverordnung. Ein im Geschäftsjahr 2020 entstandener steuerlich massgeblicher Gewinn ist dem steuerbaren Jahresgewinn 2021 hinzuzurechnen.
-
-[^3b-1]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
-
-## 1a Zusatzbeiträge des Bundes
-
-#### § 3c
-
-**In Frage kommende Unternehmen**
-
-<sup>1</sup> Zusatzbeiträge im Sinn von Artikel 12 Absatz 2 Covid-19-Gesetz können als nicht rückzahlbare Beiträge insbesondere folgenden Unternehmen gewährt werden:
-
-- a. Unternehmen, die aufgrund des Bezuges anderer Covid-19-Finanzhilfen bislang ganz oder teilweise von den Härtefallbeiträgen ausgeschlossen waren und dadurch in stossender Weise benachteiligt sind,
-- b. Unternehmen, denen mit den bisherigen Härtefallbeiträgen die ungedeckten Fixkosten nicht ausreichend vergütet werden konnten und die dadurch in ihrer Existenz gefährdet sind.
-
-<sup>2</sup> Auf die Zusatzbeiträge besteht kein Anspruch.
-
-#### § 3d
-
-**Bemessung, Begrenzung und Anrechnung**
-
-<sup>1</sup> Für Unternehmen gemäss § 3c Absatz 1a berechnet sich der nicht rückzahlbare Beitrag nach § 3a oder nach Artikel 8b der Covid-19-Härtefallverordnung. Die bereits ausgerichteten Covid-19-Finanzhilfen und Beiträge werden angerechnet. Die Höchstgrenzen der Artikel 8a, 8c und 8d der Covid-19-Härtefallverordnung sind anwendbar.
-
-<sup>2</sup> Bei den Unternehmen nach § 3c Absatz 1b kann von der Beitragsberechnung gemäss § 3a und Artikel 8b der Covid-19-Härtefallverordnung sowie von den Höchstgrenzen gemäss den Artikeln 8a, 8c und 8d der Covid-19-Härtefallverordnung abgewichen werden. Mit den im Einzelfall festgelegten Beiträgen dürfen aber höchstens die ungedeckten Fixkosten vergütet werden. Die bereits ausgerichteten Beiträge werden angerechnet.
+[^2-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de)
+[^2-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
+[^2-3]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
 
 ## 2 Anforderungen an die Unternehmen
 
+#### § 3
+
+**Allgemeine Anforderungen**
+
+<sup>1</sup> Das Unternehmen hat innert Frist gemäss § 12 Absatz 1 ein vollständiges Gesuch eingereicht.
+
+<sup>2</sup> Das Unternehmen hat gegenüber dem Kanton belegt, dass
+
+- a. keine Ausschlusskriterien im Sinn von Artikel 1 Absatz 2 der Covid-19-Härtefallverordnung 2022[^3-1] vorliegen,
+- b. es die Anforderungen nach Artikel 2 der Covid-19-Härtefallverordnung 2022[^3-2] erfüllt,
+- c. es im Falle einer Konzernstruktur den für die Beitragsberechnung relevanten Umsatz nur einmal für den Erhalt von Härtefallhilfen angegeben hat und
+- d. es seinen Sitz am 1. Oktober 2020 im Kanton Luzern hatte.
+
+<sup>3</sup> Das Unternehmen hat gegenüber dem Kanton bestätigt, dass es bei Gesuchseinreichung eine aktive Geschäftstätigkeit in der Schweiz ausübt und keine Absichten hat, diese innerhalb von 12 Monate nach Gesuchseinreichung aufzugeben. Erfolgt die Aufgabe der Geschäftstätigkeit innerhalb von 12 Monaten seit Gesuchseinreichung, kann der Kanton die Rückzahlung der gewährten Unterstützungsbeiträge verlangen. Das Unternehmen hat dem Kanton den Entscheid über die Aufgabe der Geschäftstätigkeit innert 10 Tagen mitzuteilen.
+
+<sup>4</sup> Schaustellerinnen und Schausteller haben überdies gegenüber dem Kanton bestätigt, dass sie über eine gültige kantonale Bewilligung nach Artikel 2 des Bundesgesetzes über das Gewerbe von Reisenden vom 23. März 2001[^3-3] verfügen.
+
+[^3-1]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
+[^3-2]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
+[^3-3]: SR [943.1](https://db.clex.ch/link/Bund/943.1/de)
+
 #### § 4
 
-**Vermögens- und Kapitalsituation**
+**Zusätzliche Anforderungen an Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken**
 
-<sup>1</sup> Als zumutbare Massnahmen der Unternehmen zum Schutz der Liquidität und der Kapitalbasis gelten neben Einsparungen, Effizienzsteigerungen und Anpassungen des Geschäftsmodells insbesondere der Verzicht auf Dividenden und Tantiemen, der Verzicht auf Rückzahlung von Aktionärsdarlehen seit dem 15. März 2020, soweit solche Massnahmen nicht durch Kapitalerhöhungen in mindestens gleichem Umfang kompensiert wurden, sowie Eigenleistungen der privaten Eignerinnen und Eigner und von Investorinnen und Investoren.
-
-<sup>2</sup> …
+<sup>1</sup> Das Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken hat gegenüber dem Kanton zusätzlich zu den Anforderungen nach § 3 belegt, dass es sich am 15. März 2020 nicht in einem laufenden Betreibungsverfahren für Steuerschulden gegenüber Bund, Kantonen oder Gemeinden befand und diesbezüglich keine Verlustscheine vorlagen, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen.
 
 #### § 5
 
-**…**
+**Zusätzliche Anforderungen an Unternehmen mit einem Jahresumsatz über 5 Millionen Franken**
 
-## 3 Verfahren
+<sup>1</sup> Das Unternehmen mit einem Jahresumsatz über 5 Millionen Franken hat gegenüber dem Kanton zusätzlich zu den Anforderungen nach § 3 bestätigt, dass es seit dem 1. Januar 2021 alle zumutbaren Selbsthilfemassnahmen im Sinn von Artikel 5 Absatz 3 Covid-19-Härtefallverordnung 2022[^5-1], insbesondere zum Schutz seiner Liquiditäts- und Kapitalbasis, ergriffen hat.
+
+[^5-1]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
 
 #### § 6
 
-**Einzureichende Unterlagen**
+**Zusätzliche Anforderungen an Unternehmen für den Unterstützungszeitraum zweites Halbjahr 2021**
 
-<sup>1</sup> Härtefallgesuche sind mittels Gesuchsformular des Kantons online einzureichen. Das gesuchstellende Unternehmen bestätigt im Gesuchsformular, dass alle Angaben vollständig und wahr sind.
-
-<sup>2</sup> Im Gesuchsformular weist das Unternehmen den Gründungszeitpunkt und die relevanten Umsatzzahlen aus und es weist mittels Handelsregisterauszuges nach, dass es sich nicht in einem Konkurs- oder Liquidationsverfahren befindet.
-
-<sup>3</sup> Mit dem Gesuch sind die Unterlagen gemäss Artikel 8f der Covid-19-Härtefallverordnung sowie eine Kopie der Identitätskarte oder des Passes der im Gesuch angegebenen zeichnungsberechtigten Person einzureichen. Für Zusatzbeiträge des Bundes ist zusätzlich ein Halbjahresabschluss 2021 oder ein vergleichbares Dokument einzureichen. Bei Bedarf sind weitere Prüfdokumente einzureichen.
-
-<sup>3<sup>bis</sup></sup> …
-
-<sup>3<sup>ter</sup></sup> Falls im Gesuch ein Antrag nach Artikel 2a der Covid-19-Härtefallverordnung gestellt wird, ist zusätzlich eine vollständige Spartenaufteilung einzureichen.
-
-<sup>4</sup> Ab dem 1. Juli 2021 können Unternehmen, die ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 nicht aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie für insgesamt mindestens 40 Tage schliessen mussten, für den Umsatzrückgang in den Monaten Januar bis Juni 2021 ein weiteres Gesuch einreichen. Bei behördlich geschlossenen Unternehmen werden Schliessungen bis Ende April 2021 ohne erneute Gesuchseinreichung automatisch berücksichtigt.
-
-<sup>5</sup> Die Härtefallgesuche müssen bis spätestens am 1. Dezember 2021 eingereicht werden. Für Zusatzbeiträge des Bundes müssen die Unterlagen nach Absatz 3 bis spätestens am 31. Dezember 2021 vorliegen.
+<sup>1</sup> Für Gesuche, die den Unterstützungszeitraum des zweiten Halbjahres 2021 betreffen, hat das Unternehmen gegenüber dem Kanton mit dem Jahresabschluss 2021 oder einem vergleichbaren Dokument belegt, dass es im Jahr 2021 keinen Gewinn erwirtschaftet hat.
 
 #### § 7
 
-**Formelle Prüfung**
+**Zumutbare Selbsthilfemassnahmen**
 
-<sup>1</sup> Die Gesuche werden der Luzerner Kantonalbank zur formellen Prüfung übermittelt.
+<sup>1</sup> Als zumutbare Massnahmen der Unternehmen zum Schutz der Liquidität und der Kapitalbasis im Sinn von Artikel 4 Absatz 1b der Covid-19-Härtefallverordnung 2020[^7-1] in der Fassung vom 18. Dezember 2021 gelten neben Einsparungen, Effizienzsteigerungen und Anpassungen des Geschäftsmodells insbesondere der Verzicht auf Dividenden und Tantiemen, der Verzicht auf Rückzahlung von Aktionärsdarlehen seit dem 15. März 2020, soweit solche Massnahmen nicht durch Kapitalerhöhungen in mindestens gleichem Umfang kompensiert wurden, sowie Eigenleistungen der privaten Eignerinnen und Eigner und von Investorinnen und Investoren.
 
-<sup>2</sup> Die Bank prüft die Gesuche auf Vollständigkeit, auf formelle Korrektheit und hinsichtlich der Ausschlusskriterien. Unvollständige Gesuche werden vernichtet und sind vollständig neu einzureichen.
+<sup>2</sup> Als zumutbare Massnahmen der Unternehmen zum Schutz der Liquidität und der Kapitalbasis im Sinne von Artikel 5 Absatz 3 der Covid-19-Härtefallverordnung 2022[^7-2] gelten insbesondere Massnahmen zur Liquiditätsoptimierung, zur Ertrags- und Kapitaloptimierung sowie Bilanzsanierungen. Darunter fallen beispielsweise der Verkauf von nicht betriebsnotwendigen Aktiva oder der Verzicht auf nicht zwingend nötige Investitionen, das Verhandeln von umsatzabhängigen Geschäftsmieten, die Minimierung von variablen Kosten wie Material-, Betriebs- und Verwaltungsaufwand oder betriebliche Restrukturierungen. Es ist die gesamte Vermögens- und Kapitalsituation zu berücksichtigen.
 
-<sup>3</sup> Als Ausschlusskriterien gelten:
+[^7-1]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
+[^7-2]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
 
-- a. eine Beteiligung des Bundes, von Kantonen oder Gemeinden mit mehr als 12 000 Einwohnerinnen und Einwohnern am Kapital des Unternehmens von insgesamt mehr als 10 Prozent,
-- b. keine Ausübung von Geschäftstätigkeiten und keine Beschäftigung von Personal in der Schweiz (Domizilgesellschaft),
-- c. laufendes Konkurs- oder Liquidationsverfahren,
-- d. …
-- e. durchschnittlicher Jahresumsatz 2018 und 2019 unter dem durch das Bundesrecht festgesetzten Betrag,
-- f. am 15. März 2020 laufendes Betreibungsverfahren für Sozialversicherungsbeiträge, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen,
-- g. Umsatzreduktion von weniger als 40 Prozent gemäss Selbstdeklaration,
-- h. am 15. März 2020 laufendes Betreibungsverfahren oder Verlustscheine für Steuerschulden gegenüber Bund, Kantonen oder Gemeinden, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen.
-- i. …
-
-<sup>4</sup> Die Unternehmen bestätigen im Gesuch, dass sie keines der Ausschlusskriterien erfüllen, andernfalls wird das Gesuch nicht weiterbearbeitet. Ein Ausschluss wird den Unternehmen mit summarisch begründetem Entscheid durch das Finanzdepartement eröffnet.
-
-<sup>5</sup> Für Unternehmen, die auf Anordnung des Bundes oder des Kantons ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, gilt das Ausschlusskriterium gemäss Absatz 3g nicht.
-
-<sup>6</sup> Für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken gilt das Ausschlusskriterium gemäss Absatz 3h nicht.
+## 3 Beitragsberechnung und Begrenzung
 
 #### § 8
 
-**Fachliche Prüfung**
+**Beitragsberechnung**
 
-<sup>1</sup> Die Luzerner Kantonalbank übermittelt die vollständigen Gesuchsunterlagen einem externen Wirtschaftsprüfungsunternehmen zur fachlichen Prüfung.
+<sup>1</sup> Die ungedeckten Kosten des Unternehmens gemäss Artikel 5 Absatz 1 der Covid-19-Härtefallverordnung 2022[^8-1] berechnen sich wie folgt: Sämtliche durch das Unternehmen im massgebenden Unterstützungszeitraum erwirtschafteten Erträge sind zu addieren. Davon sind sämtliche liquiditätswirksamen Kosten abzuziehen. Eine allfällige negative Differenz stellt den Unterstützungsbeitrag dar. Vorbehalten bleiben allfällige Kürzungen gemäss den Absätzen 3 und 4 sowie die Höchstgrenzen gemäss den §§ 9 und 10.
 
-<sup>2</sup> Bei der fachlichen Prüfung werden die eingereichten Unterlagen insbesondere hinsichtlich der Vorgaben plausibilisiert und der Umsatzrückgang nachgerechnet beziehungsweise der Beitrag berechnet.
+<sup>2</sup> Aussergewöhnliche Kosten können bei der Berechnung des nicht rückzahlbaren Beitrages gekürzt werden, soweit sie sich nicht im Rahmen der Vorjahre 2018 und 2019 bewegen, geschäftsmässig unbegründet sind oder einzig zum Erhalt höherer Unterstützungsbeiträge aufgeführt wurden.
 
-<sup>3</sup> …
+<sup>3</sup> Für den Unterstützungszeitraum des zweiten Halbjahres 2021 entspricht der nicht rückzahlbare Beitrag maximal der Höhe des im Jahresabschluss 2021 ausgewiesenen Verlustes.
 
-<sup>3<sup>bis</sup></sup> …
+<sup>4</sup> Eine proportionale Kürzung der Beiträge aufgrund begrenzter für Härtefallmassnahmen bewilligter Mittel bleibt vorbehalten.
 
-<sup>4</sup> Das externe Wirtschaftsprüfungsunternehmen übermittelt die geprüften Härtefallgesuche der Expertengruppe mit einem Antrag zum Entscheid.
+[^8-1]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
 
 #### § 9
+
+**Höchstgrenzen**
+
+<sup>1</sup> Für den Unterstützungszeitraum des zweiten Halbjahres 2021 gelten die Bestimmungen über die Höchstgrenzen gemäss den Artikeln 8a, 8c und 8d der Covid-19-Härtefallverordnung 2020[^9-1] in der Fassung vom 18. Dezember 2021.
+
+<sup>2</sup> Für den Unterstützungszeitraum des ersten Halbjahres 2022 gelten die Bestimmungen über die Höchstgrenzen gemäss Artikel 5 der Covid-19-Härtefallverordnung 2022[^9-2].
+
+[^9-1]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
+[^9-2]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
+
+#### § 10
+
+**Zusätzliche Erhöhung der Höchstgrenzen für das zweite Halbjahr 2021**
+
+<sup>1</sup> Bei Unternehmen, welche die Höchstgrenze gemäss § 9 Absatz 1 bereits mit den Härtefallmassnahmen für den Zeitraum bis Juni 2021 erreicht haben, werden die Höchstgrenzen für das zweite Halbjahr 2021 gemäss Absatz 2 erhöht, wenn das Unternehmen in seiner Existenz bedroht ist; dies ist der Fall, wenn
+
+- a. das Unternehmen Ende 2021 ungedeckte Kosten aufwies,
+- b. die ungedeckten Kosten durch liquiditätswirksame, unvermeidbare Ausgaben aufgrund der behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie entstanden sind,
+- c. das Unternehmen die ungedeckten Kosten nicht aus bestehender Liquidität decken kann und
+- d. das Unternehmen bestätigt hat, dass es alle zumutbaren Selbsthilfemassnahmen im Sinne von § 7 Absatz 2 ergriffen hat.
+
+<sup>2</sup> Die Höchstgrenzen werden wie folgt erhöht:
+
+- a. für ein Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken um höchstens 9 Prozent des durchschnittlichen Jahresumsatzes 2018/2019 und höchstens 450 000 Franken,
+- b. für ein Unternehmen mit einem Jahresumsatz über 5 Millionen Franken um höchstens 9 Prozent des durchschnittlichen Jahresumsatzes 2018/2019 und höchstens 1 200 000 Franken.
+
+#### § 11
+
+**Bedingte Gewinnbeteiligung**
+
+<sup>1</sup> Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken, die im Geschäftsjahr 2021 einen steuerbaren Jahresgewinn nach den §§ 71–80 des Steuergesetzes vom 22. November 1999[^11-1] erzielt haben, leiten diesen an die Dienststelle Raum und Wirtschaft weiter; dies aber nur bis zum Umfang des erhaltenen Beitrags. Die Berechnung der bedingten Gewinnbeteiligung erfolgt sinngemäss nach Artikel 8e der Covid-19-Härtefallverordnung 2020[^11-2] in der Fassung vom 18. Dezember 2021. Ein im Geschäftsjahr 2020 entstandener steuerlich massgeblicher Gewinn ist zum steuerbaren Jahresgewinn 2021 hinzuzurechnen. Der nicht rückzahlbare Beitrag für den Unterstützungszeitraum des zweiten Halbjahres 2021 unterliegt der bedingten Gewinnbeteiligung für das Geschäftsjahr 2021.
+
+<sup>2</sup> Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken, die im Geschäftsjahr 2022 einen steuerbaren Jahresgewinn nach den §§ 71–80 des Steuergesetzes[^11-3] erzielen, leiten diesen an die Dienststelle Raum und Wirtschaft weiter; dies aber nur bis zum Umfang des erhaltenen Beitrags. Die Berechnung der bedingten Gewinnbeteiligung erfolgt sinngemäss nach Artikel 6 der Covid-19-Härtefallverordnung 2022[^11-4].
+
+<sup>3</sup> Für die Berechnung des zurückzuführenden Gewinns werden Sofortabschreibungen in die ordentlichen Abschreibungssätze umgerechnet.
+
+<sup>4</sup> Aussergewöhnliche Positionen in den Jahresrechnungen 2020 bis 2022 können bei der Berechnung des zurückzuführenden Gewinns korrigiert werden, soweit sie sich nicht im Rahmen der Vorjahre 2018 und 2019 bewegen oder den zurückzuführenden Gewinn unzulässig mindern. Eine Korrektur ist auch zugunsten des Unternehmens möglich.
+
+[^11-1]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
+[^11-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
+[^11-3]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
+[^11-4]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
+
+## 4 Verfahren
+
+#### § 12
+
+**Gesuchseinreichung**
+
+<sup>1</sup> Härtefallgesuche sind für den Unterstützungszeitraum des zweiten Halbjahres 2021 bis spätestens am 30. April 2022 und für den Unterstützungszeitraum des ersten Halbjahres 2022 bis spätestens am 30. September 2022 mittels Gesuchsformular des Kantons online einzureichen. Das gesuchstellende Unternehmen bestätigt im Gesuchsformular, dass alle Angaben vollständig und wahr sind.
+
+<sup>2</sup> Mit dem Gesuch sind folgende Unterlagen einzureichen:
+
+- a. die Unterlagen gemäss Artikel 7 der Covid-19-Härtefallverordnung 2022[^12-1],
+- b. eine Kopie der Identitätskarte oder des Passes der im Gesuch angegebenen zeichnungsberechtigten Person,
+- c. für Beiträge für das zweite Halbjahr 2021: ein entsprechender Halbjahresabschluss 2021 oder ein vergleichbares Dokument,
+- d. für Beiträge für das erste Halbjahr 2022: ein entsprechender Halbjahresabschluss 2022 oder ein vergleichbares Dokument.
+
+<sup>3</sup> Unternehmen, die bereits für Härtefallmassnahmen bis und mit Juni 2021 ein Gesuch eingereicht haben, müssen einzig die noch fehlenden beziehungsweise nicht mehr aktuellen Dokumente einreichen.
+
+<sup>4</sup> Bei Bedarf sind weitere Prüfdokumente einzureichen.
+
+<sup>5</sup> Bei unvollständigen Gesuchen wird dem Unternehmen eine angemessene Frist zur Nachreichung der fehlenden Unterlagen gesetzt. Werden die geforderten Unterlagen nicht innert Frist nachgereicht, wird das Gesuch abgelehnt.
+
+[^12-1]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
+
+#### § 13
+
+**Gesuchsprüfung**
+
+<sup>1</sup> Die Gesuche werden einem externen Wirtschaftsprüfungsunternehmen zur Prüfung übermittelt.
+
+<sup>2</sup> Das externe Wirtschaftsprüfungsunternehmen prüft die Gesuche hinsichtlich der Anforderungen und berechnet den nicht rückzahlbaren Beitrag.
+
+<sup>3</sup> Es übermittelt die geprüften Härtefallgesuche der Expertengruppe mit einem Antrag zum Entscheid.
+
+#### § 14
 
 **Entscheid**
 
@@ -188,77 +211,61 @@ beschliesst:
 
 <sup>2</sup> Die Expertengruppe besteht aus einem unabhängigen Vertreter oder einer unabhängigen Vertreterin aus der Wirtschaft oder aus der Treuhandbranche, einem Vertreter oder einer Vertreterin einer gemeinnützigen Organisation, Vertreterinnen und Vertretern der Dienststellen Raum und Wirtschaft sowie Steuern, der Wirtschaftsförderung, des Sozialversicherungszentrums und des Finanzdepartementes. Das externe Wirtschaftsprüfungsunternehmen und der Rechtsdienst des Finanzdepartementes haben als Beisitzende beratende Funktion.
 
-<sup>3</sup> Die Expertengruppe entscheidet gestützt auf den Antrag des externen Wirtschaftsprüfungsunternehmens frei.
+<sup>3</sup> Die Expertengruppe entscheidet gestützt auf die ihr vorliegenden Akten und innerhalb des gesetzlichen Rahmens über den Antrag des externen Wirtschaftsprüfungsunternehmens.
 
-<sup>4</sup> …
+<sup>4</sup> Die Entscheide der Expertengruppe werden summarisch begründet und durch das Finanzdepartement eröffnet.
 
-<sup>5</sup> Die Entscheide der Expertengruppe werden summarisch begründet und durch das Finanzdepartement eröffnet.
+<sup>5</sup> Die nicht rückzahlbaren Beiträge für den Unterstützungszeitraum des zweiten Halbjahres 2021 werden bis spätestens am 31. Juli 2022 definitiv zugesichert oder ausbezahlt, diejenigen für den Unterstützungszeitraum des ersten Halbjahres 2022 bis spätestens am 31. Dezember 2022. Vorbehalten sind Entscheide, die aufgrund hängiger Verfahren vor Verwaltungs- oder Gerichtsinstanzen erst später gefällt werden können.
 
-<sup>6</sup> Die Garantien und nicht rückzahlbaren Beiträge werden zwischen dem 25. Januar 2021 (behördlich geschlossene Unternehmen) beziehungsweise dem 4. Februar 2021 (übrige Unternehmen) und dem 31. Dezember 2021 definitiv zugesichert oder ausbezahlt. Vorbehalten sind Entscheide, die aufgrund hängiger Verfahren vor Verwaltungs- oder Gerichtsinstanzen erst später gefällt werden können, und Entscheide über Zusatzbeiträge des Bundes.
+## 5 Missbrauchsbekämpfung
 
-#### § 10
+#### § 15
 
-**Kredit**
+<sup>1</sup> Stellt sich im Nachhinein heraus, dass ein unterstütztes Unternehmen gegen das Verwendungsverbot gemäss Artikel 6 der Covid-19-Härtefallverordnung 2020[^15-1] in der Fassung vom 18. Dezember 2021 oder gemäss Artikel 3 der Covid-19-Härtefallverordnung 2022[^15-2] verstösst, im Gesuch falsche Angaben gemacht hat oder innerhalb eines Jahres seit Gewährung oder vor Rückzahlung der Unterstützung in missbräuchlicher Absicht Personal entlässt oder den Betrieb aufgibt, kann der Kreditvertrag von der Luzerner Kantonalbank gekündigt oder die Rückzahlung des gewährten Beitrages verlangt werden.
 
-<sup>1</sup> Die gestützt auf diese Verordnung durch den Kanton abgesicherten Kredite werden von der Luzerner Kantonalbank gewährt und müssen innert zehn Jahren vollständig amortisiert werden.
+<sup>2</sup> Zur Überprüfung der im Gesuch gemachten Angaben können das externe Wirtschaftsprüfungsunternehmen, die Luzerner Kantonalbank und die zuständigen kantonalen Stellen bei den Unternehmen Stichprobenkontrollen durchführen.
 
-<sup>2</sup> Der Zinssatz für den besicherten Kreditbetrag beträgt 0,0 Prozent pro Jahr.
+[^15-1]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
+[^15-2]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
 
-<sup>3</sup> Das Finanzdepartement kann den Zinssatz nach Absatz 2 jährlich per 31. März anpassen, erstmals per 31. März 2023. Es orientiert sich dabei an den Zinsen bei den gestützt auf die Covid-19-Solidarbürgschaftsverordnung vom 25. März 2020[^10-1] gewährten Krediten. Es hört dabei die Luzerner Kantonalbank an. Das Zinsanpassungsrecht ist in die Verträge aufzunehmen.
+## 6 Bewirtschaftung der Härtefallhilfen
 
-[^10-1]: SR [951.261](https://db.clex.ch/link/Bund/951.261/de)
+#### § 16
 
-#### § 11
+**Zuständigkeit**
 
-**Kreditsicherungsvertrag**
+<sup>1</sup> Die Dienststelle Raum und Wirtschaft ist zuständig für Entscheide betreffend die langfristige Bewirtschaftung der Härtefallhilfen, insbesondere betreffend die bedingte Gewinnbeteiligung. Die Entscheide werden summarisch begründet.
 
-<sup>1</sup> Der Kanton schliesst mit der Luzerner Kantonalbank über jeden abzusichernden Kredit einen Kreditsicherungsvertrag (Garantievertrag) ab. Diese Verträge werden seitens Kanton durch das Finanzdepartement unterzeichnet.
-
-<sup>2</sup> Die Kreditsicherungsgarantien sind auf 100 Prozent des von der Luzerner Kantonalbank gewährten Kreditbetrages begrenzt.
-
-#### § 12
-
-**Entbindung von Geheimhaltungsvorschriften**
-
-<sup>1</sup> Damit die Angaben für die Kreditgewährung und für die Kreditsicherungsgarantie überprüft werden können, hat das gesuchstellende Unternehmen die Luzerner Kantonalbank vom Bankkundengeheimnis, das externe Wirtschaftsprüfungsunternehmen, die zuständigen kantonalen Stellen und die Expertengruppe von den Geheimhaltungsvorschriften, insbesondere vom Steuer- und vom Amtsgeheimnis, zu entbinden.
-
-<sup>2</sup> Zur Erfüllung der Aufgaben nach dieser Verordnung können die Luzerner Kantonalbank, das externe Wirtschaftsprüfungsunternehmen, die zuständigen kantonalen Stellen und die Expertengruppe die notwendigen Daten untereinander austauschen. Das gesuchstellende Unternehmen hat diesem Datenaustausch zuzustimmen.
-
-<sup>3</sup> Im Übrigen gilt Artikel 12a des Covid-19-Gesetzes und Artikel 9 der Covid-19-Härtefallverordnung.
-
-## 4 Sicherung der Unterstützungsleistungen
-
-#### § 13
-
-**Missbrauchsbekämpfung**
-
-<sup>1</sup> Stellt sich im Nachhinein heraus, dass ein unterstütztes Unternehmen gegen das Verwendungsverbot gemäss Artikel 6 der Covid-19-Härtefallverordnung verstösst, im Gesuch falsche Angaben gemacht hat oder innerhalb eines Jahres seit Gewährung oder vor Rückzahlung der Unterstützung in missbräuchlicher Absicht Personal entlässt oder den Betrieb aufgibt, kann der Kreditvertrag von der Luzerner Kantonalbank gekündigt oder die Rückzahlung des gewährten Beitrages verlangt werden.
-
-<sup>2</sup> Zur Überprüfung der im Gesuch gemachten Angaben können das externe Wirtschaftsprüfungsunternehmen, die Luzerner Kantonalbank und die zuständigen kantonalen Stellen bei den Unternehmen Stichprobenkontrollen durchführen. Dieses Recht ist in die entsprechenden Verträge aufzunehmen.
-
-#### § 14
+#### § 17
 
 **Bewirtschaftung der abgesicherten Kredite**
 
-<sup>1</sup> Die durch den Kanton abgesicherten Kredite werden von der Luzerner Kantonalbank bewirtschaftet.
+<sup>1</sup> Die gestützt auf die Kantonale Härtefallverordnung Covid-19 vom 9. Dezember 2020[^17-1] in der Fassung vom 27. November 2021 durch den Kanton abgesicherten Kredite werden von der Luzerner Kantonalbank bewirtschaftet. Die abgesicherten Kredite sind innert zehn Jahren vollständig zu amortisieren.
 
 <sup>2</sup> Die Luzerner Kantonalbank informiert die Dienststelle Raum und Wirtschaft mindestens halbjährlich über Amortisations- und Zinszahlungsrückstände bei den gesicherten Krediten.
 
 <sup>3</sup> Nach Eintritt eines Garantieverlustes wird das übliche Inkassoverfahren des Kantons eingeleitet.
 
-## 5 Schlussbestimmungen
+<sup>4</sup> Der Zinssatz für den besicherten Kreditbetrag beträgt 0,0 Prozent pro Jahr. Das Finanzdepartement kann den Zinssatz jährlich per 31. März anpassen, erstmals per 31. März 2023. Es orientiert sich dabei an den Zinsen bei den gestützt auf die Covid-19-Solidarbürgschaftsverordnung vom 25. März 2020[^17-2] gewährten Krediten. Es hört dabei die Luzerner Kantonalbank an. Das Zinsanpassungsrecht ist in die Verträge aufzunehmen.
 
-#### § 15
+[^17-1]: SRL Nr. [900b](https://srl.lu.ch/data/900b/de) (G 2021-079)
+[^17-2]: SR [951.261](https://db.clex.ch/link/Bund/951.261/de)
+
+## 7 Schlussbestimmungen
+
+#### § 18
 
 **Rechtsmittel**
 
-<sup>1</sup> Entscheide, die gestützt auf diese Verordnung ergehen, können mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht angefochten werden.
+<sup>1</sup> Gegen Entscheide gestützt auf § 14 kann innert 20 Tagen seit Zustellung beim Finanzdepartement Einsprache erhoben werden. Gegen Einspracheentscheide kann Verwaltungsgerichtsbeschwerde beim Kantonsgericht erhoben werden.
 
-#### § 16
+<sup>2</sup> Gegen Entscheide gestützt auf § 16 kann innert 20 Tagen seit Zustellung bei der Dienststelle Raum und Wirtschaft Einsprache erhoben werden. Gegen Einspracheentscheide kann Verwaltungsgerichtsbeschwerde beim Kantonsgericht erhoben werden.
+
+#### § 19
 
 **Strafbestimmung**
 
-<sup>1</sup> Gestützt auf § 36 des Staatsbeitragsgesetzes[^16-1] wird mit Busse bis zu 20 000 Franken bestraft,
+<sup>1</sup> Gestützt auf § 36 des Staatsbeitragsgesetzes[^19-1] wird mit Busse bis zu 20 000 Franken bestraft,
 
 - a. wer zur Erlangung einer Unterstützung über erhebliche Tatsachen unrichtige oder unvollständige Angaben macht,
 - b. wer erhebliche Tatsachen im Zusammenhang mit Härtefallmassnahmen verschweigt,
@@ -270,53 +277,52 @@ beschliesst:
 
 <sup>4</sup> Anstiftung und Gehilfenschaft sind strafbar.
 
-[^16-1]: SRL Nr. [601](https://srl.lu.ch/data/601/de)
+[^19-1]: SRL Nr. [601](https://srl.lu.ch/data/601/de)
 
-#### § 17
+#### § 20
+
+**Entbindung von Geheimhaltungsvorschriften**
+
+<sup>1</sup> Zur Erfüllung der Aufgaben nach dieser Verordnung können die Luzerner Kantonalbank, das externe Wirtschaftsprüfungsunternehmen, die zuständigen kantonalen Stellen, vom Kanton beigezogene Akteure und externe Stellen sowie die Expertengruppe die notwendigen Daten untereinander austauschen. Das gesuchstellende Unternehmen hat diesem Datenaustausch zuzustimmen.
+
+<sup>2</sup> Damit die Angaben für die Kreditgewährung und für die Kreditsicherungsgarantie überprüft werden können, hat das gesuchstellende Unternehmen die Luzerner Kantonalbank vom Bankkundengeheimnis, das externe Wirtschaftsprüfungsunternehmen, die zuständigen kantonalen Stellen, vom Kanton beigezogene Akteure und externe Stellen sowie die Expertengruppe von den Geheimhaltungsvorschriften, insbesondere vom Steuer- und vom Amtsgeheimnis, zu entbinden.
+
+<sup>3</sup> Im Übrigen gilt Artikel 12a des Covid-19-Gesetzes[^20-1] und Artikel 8 der Covid-19-Härtefallverordnung 2022[^20-2].
+
+[^20-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de)
+[^20-2]: SR [951.264](https://db.clex.ch/link/Bund/951.264/de)
+
+#### § 21
 
 **Entschädigung der Expertengruppe**
 
-<sup>1</sup> Die Entschädigung der Mitglieder der Expertengruppe richtet sich nach § 5 der Personalverordnung vom 24. September 2002[^17-1] und nach Anhang 3 Ziffer 1 der Besoldungsverordnung für das Staatspersonal vom 24. September 2002[^17-2].
+<sup>1</sup> Die Entschädigung der Mitglieder der Expertengruppe richtet sich nach § 5 der Personalverordnung vom 24. September 2002[^21-1] und nach Anhang 3 Ziffer 1 der Besoldungsverordnung für das Staatspersonal vom 24. September 2002[^21-2].
 
-[^17-1]: SRL Nr. [52](https://srl.lu.ch/data/52/de)
-[^17-2]: SRL Nr. [73a](https://srl.lu.ch/data/73a/de)
+[^21-1]: SRL Nr. [52](https://srl.lu.ch/data/52/de)
+[^21-2]: SRL Nr. [73a](https://srl.lu.ch/data/73a/de)
 
-#### § 18
+#### § 22
 
 **Vollzug**
 
 <sup>1</sup> Der Vollzug dieser Verordnung obliegt dem Finanzdepartement und der Dienststelle Raum und Wirtschaft.
 
-#### § 18a
+#### § 23
 
-**Übergangsbestimmung der Änderung vom 12. März 2021**
+**Übergangsbestimmung**
 
-<sup>1</sup> Die Änderung von § 7 Absatz 3h und i vom 12. März 2021 ist auf alle hängigen Gesuche anwendbar.
+<sup>1</sup> Auf die noch hängigen Gesuche, welche im Rahmen der Härtefallmassnahmen bis und mit 30. Juni 2021 eingereicht wurden, findet bis zum rechtskräftigen Entscheid der Expertengruppe die Kantonale Härtefallverordnung Covid-19 vom 9. Dezember 2020[^23-1] in der Fassung vom 27. November 2021 Anwendung.
 
-#### § 18b
+[^23-1]: SRL Nr. [900b](https://srl.lu.ch/data/900b/de) (G 2021-079)
 
-**Übergangsbestimmungen der Änderung vom 20. April 2021**
-
-<sup>1</sup> Die Gewinnbeteiligung gemäss § 3b gilt für Unternehmen, denen ab dem 21. April 2021 Härtefallhilfen zugesichert werden.
-
-<sup>2</sup> Die Änderung von § 7 Absatz 3b, f und h vom 20. April 2021 ist auf alle hängigen Gesuche anwendbar.
-
-#### § 18c
-
-**Übergangsbestimmung der Änderung vom 18. Juni 2021**
-
-<sup>1</sup> § 3a Absatz 1<sup>bis</sup> vom 18. Juni 2021 ist auf alle hängigen Gesuche anwendbar.
-
-<sup>2</sup> Die Änderung von § 3b Absatz 1 vom 18. Juni 2021 gilt für Unternehmen, denen ab dem 19. Juni 2021 Härtefallhilfen zugesichert werden.
-
-#### § 19
+#### § 24
 
 **Inkrafttreten und Befristung**
 
-<sup>1</sup> Die Verordnung tritt rückwirkend auf den 1. Dezember 2020 in Kraft und gilt unter Vorbehalt der Absätze 2 und 3 bis zum 31. Dezember 2021. Werden die gesetzlichen Grundlagen des Bundes für die Covid-19-Härtefallmassnahmen für Unternehmen über den 31. Dezember 2021 hinaus verlängert, so verlängert sich auch die Geltungsdauer dieser Verordnung entsprechend. Sie ist zu veröffentlichen.
+<sup>1</sup> Die Verordnung tritt am 30. März 2022 in Kraft und gilt unter Vorbehalt der Absätze 2 und 3 bis zum 31. Dezember 2022. Werden die gesetzlichen Grundlagen des Bundes für die Covid-19-Härtefallmassnahmen für Unternehmen über den 31. Dezember 2022 hinaus verlängert, so verlängert sich auch die Geltungsdauer dieser Verordnung entsprechend. Sie ist zu veröffentlichen.
 
-<sup>2</sup> § 3b gilt bis zum 31. Dezember 2025.
+<sup>2</sup> § 11 gilt bis zum 31. Dezember 2026.
 
-<sup>3</sup> Die §§ 9, 10 und 12-18 gelten bis zum 31. Dezember 2031.
+<sup>3</sup> Die §§ 14–22 gelten bis zum 31. Dezember 2031.
 
-G 2020-097
+G 2022-018
