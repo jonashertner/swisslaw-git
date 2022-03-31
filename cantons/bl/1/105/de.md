@@ -4,13 +4,12 @@ number: "105"
 title: Gesetz über die Haftung des Kantons und der Gemeinden
 short: Haftungsgesetz
 language: de
-version: 2017-02-01
-valid_until: 2022-03-31
-version_adopted: 2016-09-22
+version: 2022-04-01
+version_adopted: 2022-01-13
 adopted: 2008-04-24
 in_force: 2008-09-01
 url: "https://bl.clex.ch/app/de/texts_of_law/105"
-pdf: "https://bl.clex.ch/api/de/versions/3010/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3295/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3010/pdf_file"
 
 (Haftungsgesetz)
 
-Vom 24.04.2008 (Stand 01.02.2017)
+Vom 24.04.2008 (Stand 01.04.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -45,7 +44,7 @@ beschliesst:[^ingress-2]
 - c. Inhaberin oder Inhaber eines anderen Nebenamtes ist;
 - c<sup>bis</sup>. Angehörige oder Angehöriger der Feuerwehr ist;
 - d. Mitglied des Regierungsrates oder von exekutiven Organen und Behörden gemäss Gemeindegesetz ist;
-- e. Ombudsman ist.
+- e. Ombudsperson ist.
 
 #### § 2
 
@@ -122,7 +121,7 @@ beschliesst:[^ingress-2]
 - a. die sachlich zuständige Direktion für die Kantonsverwaltung;
 - b. …
 - c. die Geschäftsleitung des Kantonsgerichts für die Gerichte;
-- d. der Ombudsman für die Ombudsstelle;
+- d. die Ombudsperson für die Ombudsstelle;
 - e. die jeweilige Gemeindeverwaltung für kommunale Angelegenheiten;
 - f. die jeweilige juristische Person des öffentlichen Rechts für ihre Angelegenheiten.
 
@@ -217,7 +216,7 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Abweichend von Abs. 1 ist zuständig:
 
-- a. der Landrat bei Forderungen gegen Mitglieder des Regierungsrats oder gegen den Ombudsman;
+- a. der Landrat bei Forderungen gegen Mitglieder des Regierungsrats oder gegen die Ombudsperson;
 - b. die Geschäftsleitung des Kantonsgerichts bei Forderungen gegen Mitglieder der Gerichte der unteren Instanzen
 - c. der Gemeinderat bei Forderungen gegen Mitarbeitende der Gemeinden und Mitglieder von Behörden der Gemeinden;
 - d. der Regierungsrat bei Forderungen gegen Mitglieder des Gemeinderats.
