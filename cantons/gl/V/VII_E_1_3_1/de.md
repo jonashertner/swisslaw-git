@@ -4,13 +4,13 @@ number: VII E/1/3/1
 title: Verordnung über den Vollzug der Verordnung über den Energiefonds
 short: "Energiefondsvollzugsverordnung, VV Enf"
 language: de
-version: 2022-02-01
-valid_until: 2022-03-31
-version_adopted: 2022-01-18
+version: 2022-04-01
+valid_until: 2023-04-30
+version_adopted: 2022-03-22
 adopted: 2018-03-06
 in_force: 2018-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-E.1.3.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2269/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2293/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2269/pdf_file"
 
 (Energiefondsvollzugsverordnung, VV Enf)
 
-Vom 06.03.2018 (Stand 01.02.2022)
+Vom 06.03.2018 (Stand 01.04.2022)
 
 Der Regierungsrat,
 
