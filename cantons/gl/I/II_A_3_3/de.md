@@ -4,13 +4,13 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2022-01-01
-valid_until: 2022-03-31
-version_adopted: 2021-12-07
+version: 2022-04-01
+valid_until: 2022-07-31
+version_adopted: 2022-03-15
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2259/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2291/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2259/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.01.2022)
+Vom 21.03.2006 (Stand 01.04.2022)
 
 Der Regierungsrat,
 
@@ -700,14 +700,14 @@ verordnet:
 
 - a. Departementssekretariat
   - 0\.1. Beschwerdewesen
-  - 0\.2. Stiftungsaufsicht
+  - 0\.2. …
   - 0\.3. Gemeindefragen
   - 0\.4. Entschädigungsbehörde Opferhilfegesetz
-  - 0\.5. Schlichtungsbehörde für Mietverhältnisse (administrativ zugewiesen)
+  - 0\.5. …
   - 0\.6. Einigungsstelle (administrativ zugewiesen)
 - b. Hauptabteilung Wirtschaft und Arbeit
   - 0\.1. Kontaktstelle für Wirtschaft
-  - 0\.2. Handelsregister
+  - 0\.2. Handelsregister mit Stiftungsaufsicht
   - 0\.3. Kantonale Zentralstelle für wirtschaftliche Landesversorgung
   - 1\. Abteilung Arbeit
   - 1\.1. Kantonale Amtsstelle Arbeit
