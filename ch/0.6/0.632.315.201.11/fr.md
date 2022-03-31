@@ -3,11 +3,11 @@ sr: "0.632.315.201.11"
 title: "Arrangement sous forme d'un échange de lettres du 19 juin 2000 entre la Confédération suisse et la République de Macédoine relatif au commerce des produits agricoles (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/25-2"
 language: fr
-version: 2002-05-01
+version: 2022-04-01
 adopted: 2000-06-19
 in_force: 2002-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25-2/20020501/fr/xml/fedlex-data-admin-ch-eli-cc-2004-25-2-20020501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/25-2/20020501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25-2/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-25-2-20220401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/25-2/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/25-2/20020501/fr"
 
 RO **2004** 401; FF **2001** 918
 
-Traduction*[^t-1]*
+Traduction
 
-Conclu à Zurich le 19 juin 2000 Approuvé par l’Assemblée fédérale le 14 mars 2001[^t-2] Entré en vigueur le 1<sup>er</sup> mai 2002
+Conclu à Zurich le 19 juin 2000 Approuvé par l’Assemblée fédérale le 14 mars 2001[^t-1] Entré en vigueur le 1<sup>er</sup> mai 2002
 
-(Etat le 1<sup>er</sup> mai 2002)
+(Etat le 1<sup>er</sup> avril 2022)
 
-[^t-1]: Traduction du texte original anglais.
-[^t-2]: Art. 1 al. 1 let. b de l’AF du 14 mars 2001 ([RO 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24))
+[^t-1]: Art. 1 al. 1 let. b de l’AF du 14 mars 2001 ([RO 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24))
 
 Milijana B. Danevska Chef de la délégation macédonienne
 
@@ -63,8 +62,7 @@ J’ai l’honneur de vous confirmer l’accord de mon Gouvernement sur le conte
 Je vous prie d’agréer, Monsieur, l’expression de ma très haute considération.
 
 <table>
-<tr><td></td><td>Pour la République de Macédoine:</td></tr>
-<tr><td></td><td>Milijana B. Danevska</td></tr>
+<tr><td></td><td>Pour la République de Macédoine: Milijana B. Danevska</td></tr>
 </table>
 
 [^ingress-1]: [RS 0.632.315.201.1](https://fedlex.data.admin.ch/eli/cc/2004/25)

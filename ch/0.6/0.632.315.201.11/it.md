@@ -3,11 +3,11 @@ sr: "0.632.315.201.11"
 title: Accordo in forma di scambio di lettere del 19 giugno 2000 tra la Confederazione Svizzera e la Repubblica di Macedonia relativo al commercio dei prodotti agricoli (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/25-2"
 language: it
-version: 2002-05-01
+version: 2022-04-01
 adopted: 2000-06-19
 in_force: 2002-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25-2/20020501/it/xml/fedlex-data-admin-ch-eli-cc-2004-25-2-20020501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/25-2/20020501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25-2/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2004-25-2-20220401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/25-2/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/25-2/20020501/it"
 
 RU **2004** 400; FF **2001** 852
 
-Traduzione*[^t-1]*
+Traduzione
 
 in forma di scambio di lettere tra la Confederazione Svizzera e la Repubblica di Macedonia relativo al commercio dei prodotti agricoli
 
-Concluso a Zurigo il 19 giugno 2000 Approvato dall’Assemblea federale il 14 marzo 2001[^t-2] Entrato in vigore il 1° maggio 2002
+Concluso a Zurigo il 19 giugno 2000 Approvato dall’Assemblea federale il 14 marzo 2001[^t-1] Entrato in vigore il 1° maggio 2002
 
-(Stato 1° maggio 2002)
+(Stato 1° aprile 2022)
 
-[^t-1]: Traduzione dal testo originale inglese.
-[^t-2]: Art. 1 cpv. 1 lett. b del DF del 14 mar. 2001 ([RU 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24))
+[^t-1]: Art. 1 cpv. 1 lett. b del DF del 14 mar. 2001 ([RU 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24)).
 
 <table>
 <tr><td>Milijana B. Danevska Capo della Delegazione macedone</td><td></td></tr>
@@ -33,7 +32,7 @@ Concluso a Zurigo il 19 giugno 2000 Approvato dall’Assemblea federale il 14 ma
 <tr><td></td><td>Zurigo, 19 giugno 2000</td></tr>
 </table>
 
-Pregiato signor Couchepin,
+Pregiato Signor Couchepin,
 
 In data odierna accuso ricevuta della Sua lettera dal seguente tenore:
 

@@ -3,11 +3,11 @@ sr: "0.632.315.201.11"
 title: Vereinbarung in Form eines Briefwechsels vom 19. Juni 2000 zwischen der Schweizerischen Eidgenossenschaft und der Republik Mazedonien über Abmachungen im Agrarbereich (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/25-2"
 language: de
-version: 2002-05-01
+version: 2022-04-01
 adopted: 2000-06-19
 in_force: 2002-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25-2/20020501/de/xml/fedlex-data-admin-ch-eli-cc-2004-25-2-20020501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/25-2/20020501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/25-2/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2004-25-2-20220401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/25-2/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/25-2/20020501/de"
 
 AS **2004** 403; BBl **2001** 969
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Zürich am 19. Juni 2000 Von der Bundesversammlung genehmigt am 14. März 2001[^t-2] In Kraft getreten am 1. Mai 2002
+Abgeschlossen in Zürich am 19. Juni 2000 Von der Bundesversammlung genehmigt am 14. März 2001[^t-1] In Kraft getreten am 1. Mai 2002
 
-(Stand am 1. Mai 2002)
+(Stand am 1. April 2022)
 
-[^t-1]: Übersetzung des englischen Originaltextes.
-[^t-2]: Art. 1 Abs. l Bst. b des BB vom 14. März 2001 ([AS 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24))
+[^t-1]: Art. 1 Abs. l Bst. b des BB vom 14. März 2001 ([AS 2004 363](https://fedlex.data.admin.ch/eli/oc/2004/24))
 
 <table>
 <tr><td>Frau Milijana B. Danevska Leiterin der mazedonischen Delegation</td><td></td></tr>
@@ -57,15 +56,14 @@ Diese Vereinbarung bleibt so lange in Kraft wie das Freihandelsabkommen zwischen
 
 Eine Kündigung des Freihandelsabkommens durch Mazedonien oder durch die Schweiz wird auch diese Vereinbarung beenden; diese wird zum gleichen Zeitpunkt hinfällig werden wie das Freihandelsabkommen.
 
-Ich wäre Ihnen verbunden, wenn Sie bestätigen wollten, dass Mazedonien dem Inhalt dieses Briefes zustimmt. »
+Ich wäre Ihnen verbunden, wenn Sie bestätigen wollten, dass Mazedonien dem Inhalt dieses Briefes zustimmt.»
 
 Ich beehre mich zu bestätigen, dass die Regierung der Republik Mazedoniens dem Inhalt dieses Briefes zustimmt.
 
 Genehmigen Sie, Herr Couchepin, die Versicherung meiner ausgezeichneten Hochachtung.
 
 <table>
-<tr><td></td><td>Für die Republik Mazedonien:</td></tr>
-<tr><td></td><td>Milijana B. Danevska</td></tr>
+<tr><td></td><td>Für die Republik Mazedonien: Milijana B. Danevska</td></tr>
 </table>
 
 [^ingress-1]: [SR 0.632.315.201.1](https://fedlex.data.admin.ch/eli/cc/2004/25)
