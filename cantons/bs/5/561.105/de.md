@@ -4,24 +4,23 @@ number: "561.105"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele
 short: VO EG BGS
 language: de
-version: 2021-01-01
-valid_until: 2022-03-31
-version_adopted: 2020-12-08
+version: 2022-04-01
+version_adopted: 2022-08-16
 adopted: 2020-12-08
 in_force: 2021-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/561.105"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5130/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5614/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele
 
-EG Bundesgesetz über Geldspiele: Verordnung | Geldspiele / Lotterien
+Geldspiele / Lotterien
 
 (VO EG BGS)
 
-Vom 8. Dezember 2020 (Stand 1. Januar 2021)
+Vom 8. Dezember 2020 (Stand 1. April 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -45,7 +44,7 @@ beschliesst:
 
 <sup>1</sup> Das Gesundheitsdepartement vollzieht die Aufgaben gemäss Art. 85 des Bundesgesetzes über Geldspiele (Geldspielgesetz, BGS) vom 29. September 2017 und gibt zuhanden des Regierungsrates Empfehlungen zur zweckgebundenen Verwendung der dem Kanton zufliessenden Präventionsabgabe gemäss Art. 66 des Gesamtschweizerischen Geldspielkonkordats (GSK) ab.
 
-<sup>2</sup> Es stellt die angemessene Schulung nach § 7 EG BGS durch Vermittlung von Informationen über die Risiken von exzessivem Geldspiel, Spielsucht und Spielerschutz sicher und entscheidet über die Anerkennung von Schulungen bei anderen Fachorganisationen sowie über die Gültigkeitsdauer von Schulungsbestätigungen.
+<sup>2</sup> Es stellt die angemessene Schulung nach § 7 EG BGS durch Vermittlung von Informationen über die Risiken von exzessivem Geldspiel, Spielsucht und Spielerschutz sicher und entscheidet über die Anerkennung von Schulungen bei anderen Fachstellen sowie über die Gültigkeitsdauer von Schulungsbestätigungen.
 
 <sup>3</sup> Es stellt Veranstalterinnen von kleinen Pokerturnieren Präventionsmaterial gemäss Art. 36 Abs 1 lit. e BGS zur Verfügung und überprüft die Konzepte gemäss Art. 39 Abs. 7 der Verordnung über Geldspiele (Geldspielverordnung, VGS) vom 7. November 2018 auf ihre Wirksamkeit hin.
 
@@ -68,7 +67,8 @@ beschliesst:
 <sup>1</sup> Alle Gesuche und Meldungen haben folgende Angaben zu enthalten:
 
 - a) Name und Sitz der Veranstalterin;
-- b) Name und Adresse der für die korrekte Durchführung des Kleinspiels innerhalb der juristischen Person verantwortlichen Person.
+- a)<sup>bis</sup> Name und Adresse der vertretungsberechtigten Person oder der vertretungsberechtigten Personen;
+- b) Name und Adresse der für die korrekte Durchführung des Kleinspiels verantwortlichen Person oder verantwortlichen Personen.
 
 <sup>2</sup> Dem Gesuch oder der Meldung sind die aktuellen Vereinsstatuten, die Stiftungsurkunde oder der aktuelle Handelsregisterauszug sowie auf Verlangen der Bewilligungs- und Aufsichtsbehörde weitere Unterlagen für den Nachweis der gesetzlichen Voraussetzungen beizulegen.
 
@@ -133,10 +133,14 @@ beschliesst:
 - a) die während des Turniers anwesende Person, die die Anforderungen nach § 7 EG BGS erfüllt;
 - b) den Ort und den Zeitpunkt, an dem das Turnier oder die Turniere durchgeführt werden sollen;
 - c) die maximale Anzahl der Teilnehmenden pro Turnier;
-- d) die Höhe der Teilnahmegebühr pro Turnier;
-- e) die Höhe der Startgelder (Buy-Ins) und die maximale Summe aller Startgelder pro Turnier.
+- d) die Höhe des Startgelds (Buy-In) und der Teilnahmegebühr pro Turnier;
+- e) …
+- f) die Art der Ausschreibung der Turniere (Webseite, Facebook etc.);
+- g) Name und Adresse der Revisionsstelle, sofern mehr als 23 Turniere im gleichen Jahr durchgeführt werden.
 
-<sup>2</sup> Veranstalterinnen von kleinen Pokerturnieren haben dem Gesuch die Bestätigung des Gesundheitsdepartements über die erfüllten Anforderungen nach § 7 EG BGS und gegebenenfalls Art. 39 Abs. 7 VGS beizulegen.
+<sup>1<sup>bis</sup></sup> Mit dem Gesuch ist das Turnierreglement einzureichen, aus dem die Turnierregeln und die Auszahlungsstruktur hervorgehen.
+
+<sup>2</sup> Dem Gesuch sind zudem die Bestätigung oder Bestätigungen des Gesundheitsdepartements oder der von diesem extern beauftragten Fachstellen über die erfüllten Anforderungen nach § 7 EG BGS und gegebenenfalls nach Art. 39 Abs. 7 VGS beizulegen.
 
 #### § 10
 
@@ -160,7 +164,9 @@ beschliesst:
 - a) bei Tombolas und Lottos: den Gesamterlös aus dem Los- oder Kartenverkauf sowie den Wert der Gewinne nach ihrem Marktpreis;
 - b) bei Kleinlotterien: die Anzahl der verkauften Lose, den Gesamterlös aus dem Losverkauf sowie den Trefferplan, aus dem die Anzahl, die Art, die Höhe und die Verteilung der Gewinne hervorgeht;
 - c) bei lokalen Sportwetten: pro Wettkampftag die Anzahl und Höhe der einzelnen Wetteinsätze pro Wette, die gesamten Wetteinnahmen sowie die einzelnen und gesamten Gewinnauszahlungen pro Wette;
-- d) bei kleinen Pokerturnieren: pro Tag und Veranstaltungsort die Anzahl Turniere, die Anzahl der Teilnehmenden pro Turnier, die Summe der Startgelder (Buy-Ins) pro Turnier, die Summe der Teilnahmegebühren pro Turnier, die Höhe der Gewinnauszahlungen pro Turnier, die Höhe der einzelnen und gesamten Startgelder pro Spielerin oder Spieler.
+- d) bei maximal 23 kleinen Pokerturnieren pro Jahr: pro Tag und Veranstaltungsort die Anzahl Turniere, die Anzahl der Teilnehmenden pro Turnier, die Dauer der Turniere, die Summe der Startgelder (Buy-Ins) sowie der Teilnahmegebühren pro Turnier, die Höhe der Gewinnauszahlungen pro Turnier, die Höhe der einzelnen und gesamten Startgelder pro Spielerin oder Spieler.
+
+<sup>1<sup>bis</sup></sup> Bei 24 und mehr kleinen Pokerturnieren pro Jahr gelten anstelle der Pflicht zur Berichterstattung nach Abs. 1 gemäss Art. 38 Abs. 2 BGS die strengeren Rechnungslegungs- und Revisionsvorschriften nach Art. 48 und Art. 49 Abs. 3 und 4 BGS.
 
 <sup>2</sup> Für die Kategorien gemäss Abs. 1 lit. a bis c sind zusätzlich der Reingewinn aus der Veranstaltung sowie der Verwendungszweck anzugeben.
 
@@ -170,27 +176,37 @@ beschliesst:
 
 **Bewilligungs- und Aufsichtsgebühren**
 
-<sup>1</sup> Die Gebühr für die Bewilligung und Aufsicht wird wie folgt festgelegt:
+<sup>1</sup> Die Gebühr für die Bewilligungserteilung und Aufsicht wird wie folgt festgelegt:
 
 - a) für Kleinlotterien — Fr. 150 bis Fr. 300
 - b) für lokale Sportwetten — Fr. 150 bis Fr. 500 pro Veranstaltungstag
-- c) für kleine Pokerturniere — Fr. 150 bis Fr. 300 pro Turnier
+- c) für kleine Pokerturniere pro Veranstaltungsort:
+  - 1\. Bewilligungsgebühr — Fr. 150 bis Fr. 300
+  - 2\. zusätzlich eine Aufsichtsgebühr pro Monat:
+  - 2\.1. bis 15 Turniere — Fr. 35
+  - 2\.2. bis 30 Turniere — Fr. 70
+  - 2\.3. bis 60 Turniere — Fr. 140
+  - 2\.4. bis 90 Turniere — Fr. 210
+  - 2\.5 bis 120 Turniere — Fr. 280
+- d) für den Erlass einer Verfügung — bis Fr. 750
 
-<sup>2</sup> Die jeweilige Gebührenhöhe richtet sich insbesondere nach Umfang, Grösse und Dauer der Veranstaltung, der Anzahl der Teilnehmenden sowie nach dem administrativen Aufwand der Behörden.
+<sup>2</sup> Die jeweilige Gebührenhöhe für die Kategorien gemäss Abs. 1 lit. a und b sowie lit. c Ziff. 1 richtet sich insbesondere nach Umfang, Grösse und Dauer der Veranstaltung, der Anzahl der Teilnehmenden sowie nach dem administrativen Aufwand der Behörden.
 
-<sup>3</sup> Die Gebühren nach Abs. 1 können um maximal 50% erhöht werden, sofern bei der Bearbeitung der Bewilligungsgesuche ausserordentlicher Aufwand entsteht.
+<sup>3</sup> Die Gebühren nach Abs. 1 lit. a und b sowie lit. c Ziff. 1 können um maximal 50 % erhöht werden, sofern bei der Bearbeitung der Bewilligungsgesuche ausserordentlicher Aufwand entsteht.
 
-<sup>4</sup> Die Gebühren nach Abs. 1 können im Falle von § 3 Abs. 3 um maximal 50% ermässigt werden, sofern der Aufwand gering ist.
+<sup>4</sup> …
 
 #### § 13
 
-**Weitere Gebühren**
+**Gebühren des Gesundheitsdepartements**
 
-<sup>1</sup> Von der Kantonspolizei werden weitere Gebühren in Rechnung gestellt:
+<sup>1</sup> Vom Gesundheitsdepartement werden folgende Gebühren in Rechnung gestellt:
 
-- a) für die Schulung sowie die Anerkennung von Schulungen bei anderen Fachorganisationen nach § 2 Abs. 2 — bis Fr. 200
+- a) für die Schulung sowie die Anerkennung von Schulungen bei anderen Fachstellen nach § 2 Abs. 2 — bis Fr. 200
 - b) für die Überprüfung der Konzepte nach § 2 Abs. 3 — bis Fr. 400
-- c) für den Erlass einer Verfügung — bis Fr. 750
+- c) …
+
+<sup>2</sup> Sofern das Gesundheitsdepartement die Schulung nach Art. 7 EG BGS sowie die Überprüfung der Konzepte nach Art. 39 Abs. 7 VGS an externe Fachstellen delegiert, können diese die Gebühren nach Abs. 1 direkt in Rechnung stellen.
 
 *Schlussbestimmung*
 
