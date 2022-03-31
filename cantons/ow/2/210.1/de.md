@@ -4,20 +4,22 @@ number: "210.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2022-01-01
-valid_until: 2022-03-31
-version_adopted: 2021-10-28
+version: 2022-04-01
+valid_until: 2025-12-31
+version_adopted: 2022-01-27
 adopted: 1911-04-30
 in_force: 1912-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/210.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1554/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1939/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 
-vom 30.04.1911 (Stand 01.01.2022)
+(EG ZGB)
+
+vom 30.04.1911 (Stand 01.04.2022)
 
 Die Landsgemeinde des Kantons Unterwalden ob dem Wald,
 
@@ -126,6 +128,7 @@ erlässt folgendes Gesetz:
 <sup>1</sup> Juristische Persönlichkeit erlangen gemäss Art. 59 des Zivilgesetzbuches:
 
 - 1\. die Einwohner-, Bürger- und Kirchgemeinden;
+- 1a. die Zweckverbände;
 - 2\. die Klöster und die kirchlichen Anstalten;
 - 3\. die Korporationen und Teilsamen, soweit sie ein Statutarrecht besitzen;
 - 4\. die Wuhrgenossenschaften und Genossenschaften gemäss Art. 114 des vorliegenden Gesetzes. Diese erlangen die Eigenschaft der juristischen Persönlichkeit durch den Erlass eines Reglementes abseite des Kantonsrates, beziehungsweise durch die regierungsrätliche Genehmigung eines von der Genossenschaft erlassenen Reglementes.
@@ -137,6 +140,102 @@ erlässt folgendes Gesetz:
 **Vereine**
 
 <sup>1</sup> Zur Klage auf Auflösung eines Vereines (78) ist der Regierungsrat zuständig.
+
+#### Art. 26a
+
+**Zweckverbände**
+
+<sup>1</sup> Die Gemeinden können zur gemeinsamen Erfüllung einer oder mehrerer öffentlicher Aufgaben Zweckverbände gründen.
+
+<sup>2</sup> Zweckverbände sind Körperschaften des kantonalen öffentlichen Rechts. Mitglieder sind die beigetretenen Gemeinden.
+
+<sup>3</sup> Die Statuten, die anderen rechtsetzenden Erlasse und die gestützt darauf gefassten Beschlüsse des Zweckverbands gehen dem Recht und den Beschlüssen der Verbandsgemeinden vor.
+
+<sup>4</sup> Die rechtsetzenden Erlasse des Zweckverbands unterliegen der Genehmigung durch den Regierungsrat.
+
+#### Art. 26b
+
+**Organe**
+
+<sup>1</sup> Der Zweckverband verfügt über mindestens folgende Organe:
+
+- 1\. die Stimmberechtigten der Verbandsgemeinden;
+- 2\. die Delegiertenversammlung, bestehend aus mindestens einer delegierten Person pro Verbandsgemeinde (Gemeindevertretung); die Delegiertenversammlung tagt öffentlich;
+- 3\. den Vorstand, bestehend aus mindestens drei Personen; diese dürfen nicht der Delegiertenversammlung angehören;
+- 4\. das Rechnungsprüfungsorgan.
+
+<sup>2</sup> Die Stimmberechtigten der Verbandsgemeinden beschliessen mindestens über:
+
+- 1\. den Beitritt, den Austritt und die Auflösung;
+- 2\. die Statutenänderungen betreffend den Verbandszweck und die übertragenen Aufgaben;
+- 3\. die Ermächtigung der Delegiertenversammlung, Rechtssätze zu erlassen;
+- 4\. die Befugnis des Vorstands, Entscheide der Verwaltungsrechtspflege zu erlassen.
+
+#### Art. 26c
+
+**Statuten**
+
+<sup>1</sup> Die Statuten enthalten mindestens Bestimmungen über:
+
+- 1\. den Namen und den Sitz;
+- 2\. den Zweck und die übertragenen Aufgaben;
+- 3\. die Organe (Zusammensetzung und wichtigste Zuständigkeiten);
+- 4\. das Stimmrecht der Gemeindevertretungen in der Delegiertenversammlung;
+- 5\. die wichtigen Beschlüsse, die Einstimmigkeit erfordern;
+- 6\. die Finanzierung, den Finanzhaushalt, den Kostenverteiler;
+- 7\. die Änderung der Statuten;
+- 8\. den Austritt und die vermögensrechtlichen Folgen;
+- 9\. die Auflösung und die Liquidation.
+
+<sup>2</sup> Die Statuten enthalten gegebenenfalls Bestimmungen über:
+
+- 1\. die Ermächtigung der Delegiertenversammlung, Rechtssätze zu erlassen;
+- 2\. die Befugnis des Vorstands, Entscheide der Verwaltungsrechtspflege zu erlassen.
+
+<sup>3</sup> Enthalten die Statuten keine Regelung, sind die Artikel 60 ff. des Schweizerischen Zivilgesetzbuches über den Verein als kantonales öffentliches Recht subsidiär anwendbar.
+
+#### Art. 26d
+
+**Wichtige Beschlüsse**
+
+<sup>1</sup> Folgende Beschlüsse bedürfen der Einstimmigkeit der Delegiertenversammlung und soweit zuständig der Zustimmung der Stimmberechtigten aller Verbandsgemeinden:
+
+- 1\. die Statutenänderungen betreffend den Verbandszweck und die übertragenen Aufgaben;
+- 2\. die Statutenänderungen betreffend:
+  - a. die Finanzierung, den Finanzhaushalt und den Kostenverteiler;
+  - b. die Auflösung und die Liquidation;
+  - c. den Austritt und die vermögensrechtlichen Folgen;
+  - d. die Haftung.
+
+#### Art. 26e
+
+**Gründung**
+
+<sup>1</sup> Die Statuten treten nach Ablauf eines Monats in Kraft, nachdem die Stimmberechtigten der Verbandsgemeinden über den Beitritt entschieden haben und die Genehmigung der Statuten durch den Regierungsrat erfolgt ist.
+
+<sup>2</sup> Mit Inkrafttreten der Statuten erhält der Zweckverband Rechtspersönlichkeit.
+
+<sup>3</sup> Mit Erlangen der Rechtspersönlichkeit gewährleisten die Verbandsgemeinden die Liquidität des Zweckverbands, allenfalls durch Vorschusszahlungen nach den mutmasslich zu erwartenden Kosten.
+
+#### Art. 26f
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen die Entscheide des Vorstands oder des Gemeinderats kann binnen zwanzig Tagen beim Regierungsrat Beschwerde eingereicht werden.
+
+<sup>2</sup> Die Statuten können vorsehen, dass die Entscheide des Vorstands zuerst mit Beschwerde beim zuständigen Gemeinderat anzufechten sind.
+
+#### Art. 26g
+
+**Haftung**
+
+<sup>1</sup> Für die Verbindlichkeiten des Zweckverbands haftet in erster Linie das Verbandsvermögen. Bietet dieses keine ausreichende Deckung, haften die Verbandsgemeinden solidarisch.
+
+<sup>2</sup> Die Verbandsgemeinden haften unter sich anteilsmässig nach ihrer Stimmkraft im Zweckverband, sofern die Statuten nichts anderes bestimmen.
+
+<sup>3</sup> Im Übrigen gilt das Haftungsgesetz[^26g-1]. Vorbehalten bleiben besondere gesetzliche Bestimmungen des eidgenössischen und kantonalen Rechts.
+
+[^26g-1]: GDB [130.3](http://gdb.ow.ch/data/130.3/de)
 
 #### Art. 27
 
@@ -220,7 +319,9 @@ erlässt folgendes Gesetz:
 
 **Mandatsführung**
 
-<sup>1</sup> Die Mandatsführung ist Sache der Einwohnergemeinden.
+<sup>1</sup> Die Mandatsführung durch berufsmässige Beistände ist Sache der Einwohnergemeinden. Mehrere Einwohnergemeinden können die Mandatsführung in einer zentralen Organisation zusammenlegen.
+
+<sup>1a</sup> Die Mandatsführung durch private Beistände ist Sache des Kantons.
 
 <sup>2</sup> Die Kindes- und Erwachsenenschutzbehörde ernennt für die Mandatsführung private oder berufsmässige Beistände (400); sie beaufsichtigt die Beistände.
 
@@ -278,7 +379,13 @@ erlässt folgendes Gesetz:
 
 **Verantwortlichkeit**
 
-<sup>1</sup> Haftet der Kanton (454) für eine Schadenverursachung durch eine Behörde, eine Kommission oder einen Angestellten eines anderen Gemeinwesens, ersetzt ihm dieses alle hierfür geleisteten Zahlungen. Im Übrigen gilt für den Rückgriff des Kantons und des Gemeinwesens das Haftungsgesetz[^66-1].
+<sup>1</sup> Der Kanton haftet für den Schaden, der einer Person im Rahmen der behördlichen Massnahmen des Kindes- und Erwachsenenschutzes durch widerrechtliches Handeln oder Unterlassen entstanden ist (454).
+
+<sup>2</sup> Ist der Schaden durch ein Behörden- oder Kommissionsmitglied oder einen Angestellten des Kantons oder einen privaten Beistand verursacht worden, so steht dem Kanton der Rückgriff auf die verantwortliche Person nach Art. 14 und 15 des Haftungsgesetzes[^66-1] zu.
+
+<sup>3</sup> Ist der Schaden durch ein Behörden- oder Kommissionsmitglied oder eine angestellte, beauftragte oder sonst wie zugezogene Person der Einwohnergemeinde verursacht worden, so kann der Kanton Rückgriff auf die betreffende Einwohnergemeinde nehmen. In diesem Fall ersetzt die Einwohnergemeinde dem Kanton alle geleisteten Zahlungen. Der Einwohnergemeinde steht der Rückgriff auf die verantwortliche Person nach Art. 14 und 15 des Haftungsgesetzes zu.
+
+<sup>4</sup> Hat der Kanton oder die Einwohnergemeinde anstelle eines Privaten, der als Hilfsperson beigezogen oder dem die Besorgung eines Geschäfts übertragen wurde, für Schaden Ersatz leisten müssen, steht dem Kanton oder der Einwohnergemeinde gegen den Privaten in gleichem Umfang ein Ersatzanspruch zu.
 
 [^66-1]: GDB [130.3](http://gdb.ow.ch/data/130.3/de)
 
@@ -1034,9 +1141,17 @@ erlässt folgendes Gesetz:
 
 **Übergangsbestimmung zu Art. 168a**
 
-<sup>1</sup> Solange die notwendigen Massnahmen zur Bildung eines einzigen Grundbuchkreises noch nicht abgeschlossen sind, bildet der Kanton Obwalden weiterhin zwei Grundbuchkreise. Zum ersten Kreis gehören die Einwohnergemeinden Sarnen, Kerns, Sachseln, Alpnach, Giswil und Lungern. Den zweiten Kreis bildet die Einwohnergemeinde Engelberg.
+<sup>1</sup> Solange die notwendigen Massnahmen zur Bildung eines einzigen Grundbuchkreises noch nicht abgeschlossen sind, bildet der Kanton Obwalden weiterhin zwei Grundbuchkreise. Zum ersten Kreis gehören die Einwohnergemeinden Sarnen, Kerns, Sachseln, Alpnach, Giswil und Lungern. Den zweiten Kreis bildet die Einwohnergemeinde Engelberg.[^182a-1]
 
 <sup>2</sup> Der Regierungsrat ist, unter Vorbehalt der Finanzkompetenzen des Kantonsrates, ermächtigt, sämtliche notwendigen Massnahmen für die Vereinigung der beiden Grundbuchkreise zu einem einzigen Grundbuchkreis zu ergreifen.
+
+[^182a-1]: Seit dem 1. Januar 2023 bildet der Kanton Obwalden einen einzigen Grundbuchkreis mit Sitz in Sarnen. In Engelberg befindet sich eine Aussenstelle.
+
+#### Art. 182b
+
+**Übergangsbestimmung für Zweckverbände**
+
+<sup>1</sup> Die Zweckverbände haben ihre Statuten innert fünf Jahren nach Inkrafttreten der Änderung vom 27. Januar 2022 an die Mindestvorgaben in den Artikeln 25 und 26a bis 26g dieses Gesetzes anzupassen.
 
 #### Art. 183
 
@@ -1108,6 +1223,10 @@ geändert durch:
 
 \- Nachtrag vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26),
 
-\- Nachtrag vom 28. Oktober 2021 (OGS 2021, 37), Botschaft und Vorlage des Regierungsrats vom 1. Juli 2021, Kantonsratssitzungen vom 9. September und 28. Oktober 2021 (22.21.03), in Kraft seit 1. Januar 2022 (OGS 2021, 42)
+\- Nachtrag vom 28. Oktober 2021 (OGS 2021, 37), Botschaft und Vorlage des Regierungsrats vom 1. Juli 2021, Kantonsratssitzungen vom 9. September und 28. Oktober 2021 (22.21.03), in Kraft seit 1. Januar 2022 (OGS 2021, 42),
+
+\- Nachtrag vom 27. Januar 2022 (OGS 2022, 2), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Kantonsratssitzungen vom 2. Dezember 2021 und 27. Januar 2022 (22.21.05), in Kraft seit 1. April 2022 (OGS 2022, 4),
+
+\- Nachtrag vom 27. Januar 2022 (OGS 2022, 1), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Kantonsratssitzungen vom 2. Dezember 2021 und 27. Januar 2022 (22.21.04), in Kraft seit 1. April 2022 (OGS 2022, 5)
 
 OGS 1922, 6
