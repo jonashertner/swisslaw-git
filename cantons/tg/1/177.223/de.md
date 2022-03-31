@@ -4,13 +4,13 @@ number: "177.223"
 title: Verordnung des Regierungsrates zur Besoldungsverordnung
 short: RRV BesVO
 language: de
-version: 2022-01-01
-valid_until: 2022-03-31
-version_adopted: 2021-11-30
+version: 2022-04-01
+valid_until: 2022-12-31
+version_adopted: 2022-04-12
 adopted: 1999-09-21
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.223"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2002/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2539/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RRV BesVO
 
 (RRV BesVO)
 
-vom 21.09.1999 (Stand 01.01.2022)
+vom 21.09.1999 (Stand 01.04.2022)
 
 ## 1. Vollzug der Allgemeinen Bestimmungen der Besoldungsverordnung
 
@@ -53,7 +53,7 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 **Zuständigkeit, Definitionen**
 
-<sup>1</sup> Die Zuständigkeit im Besoldungsbereich richtet sich nach den Bestimmungen der Verordnung über die Rechtsstellung des Staatspersonals[^2-1], soweit die Besoldungsverordnung[^2-2] keine besonderen Regelungen enthält.
+<sup>1</sup> Die Zuständigkeit im Besoldungsbereich richtet sich nach den Bestimmungen der Verordnung über die Rechtsstellung des Staatspersonals (RSV)[^2-1], soweit die Besoldungsverordnung (BesVO)[^2-2] keine besonderen Regelungen enthält.
 
 <sup>2</sup> Als Verwaltungseinheiten gelten Departemente, Staatskanzlei, Ämter, Anstalten sowie Gerichte.
 
@@ -84,12 +84,12 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>1</sup> Die Arbeitsbewertung berücksichtigt:
 
-- 1\. verlangte Ausbildung, Weiterbildung und Erfahrung;
-- 2\. geistige Anforderung;
-- 3\. Verantwortung;
-- 4\. psychische Anforderung und Belastung;
-- 5\. körperliche Anforderung und Belastung;
-- 6\. Beanspruchung der Sinnesorgane und durch Umwelteinflüsse.
+- 1\. verlangte Ausbildung, Weiterbildung und Erfahrung
+- 2\. geistige Anforderung
+- 3\. Verantwortung
+- 4\. psychische Anforderung und Belastung
+- 5\. körperliche Anforderung und Belastung
+- 6\. Beanspruchung der Sinnesorgane und durch Umwelteinflüsse
 
 <sup>2</sup> Das Personalamt überprüft periodisch sowie auf Antrag die Arbeitsbewertung und Zuordnung der Stellen.
 
@@ -103,10 +103,10 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>2</sup> Jede Besoldungsklasse umfasst neben dem Funktionsanteil vier Leistungszonen:
 
-- 1\. Leistungszone I: Einstiegszone, 100 % bis 120 %;
-- 2\. Leistungszone II: Normalzone, über 120 % bis 130 %;
-- 3\. Leistungszone III: Aufstiegszone, über 130 % bis 140 %;
-- 4\. Leistungszone IV: Sonderzone, über 140 % bis 148 %.
+- 1\. Leistungszone I: Einstiegszone, 100 % bis 120 %
+- 2\. Leistungszone II: Normalzone, über 120 % bis 130 %
+- 3\. Leistungszone III: Aufstiegszone, über 130 % bis 140 %
+- 4\. Leistungszone IV: Sonderzone, über 140 % bis 148 %
 
 <sup>3</sup> Bei Erreichen des Maximums der Leistungszone II findet eine besondere Standortbestimmung statt.
 
@@ -116,9 +116,7 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 **Gesamtlohnsumme**
 
-<sup>1</sup> Die Gesamtlohnsumme ist die Summe der Grundbesoldungen gemäss § 6 Absatz 1 Ziffer 1 der Besoldungsverordnung des Grossen Rates[^6-1].
-
-[^6-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+<sup>1</sup> Die Gesamtlohnsumme ist die Summe der Grundbesoldungen gemäss § 6 Abs. 1 Ziff. 1 BesVO.
 
 #### § 7
 
@@ -230,15 +228,13 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 **Dienstaltersurlaub**
 
-<sup>1</sup> Der nicht obligatorisch in Urlaub umgewandelte Teil des Dienstaltersgeschenkes gemäss § 17 der Besoldungsverordnung des Grossen Rates[^16-1] kann ganz oder teilweise ebenfalls in Form von Urlaub bezogen werden. Das Gesuch ist zwei Monate vor dem Dienstjubiläum einzureichen.
+<sup>1</sup> Der nicht obligatorisch in Urlaub umgewandelte Teil des Dienstaltersgeschenkes gemäss § 17 BesVO kann ganz oder teilweise ebenfalls in Form von Urlaub bezogen werden. Das Gesuch ist zwei Monate vor dem Dienstjubiläum einzureichen.
 
 <sup>2</sup> Das Gesuch kann abgelehnt werden, wenn dienstliche Gründe entgegenstehen.
 
 <sup>3</sup> Der gesamte Dienstaltersurlaub ist innerhalb eines Jahres ab Fälligkeit des Dienstaltersgeschenkes zu beziehen. In begründeten Fällen kann der Bezug mit Bewilligung der Amts-, Anstalts- oder Gerichtsleitung aufgeschoben werden.
 
 <sup>4</sup> Kann der bewilligte Urlaub für den nicht obligatorisch umzuwandelnden Teil aus dienstlichen Gründen nicht bezogen werden, kann dieser Anteil ausbezahlt werden.
-
-[^16-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
 
 #### § 17
 
@@ -320,7 +316,7 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 **Nacht-, Samstags-, Ruhetagsdienst**
 
-<sup>1</sup> Für angeordnete Arbeit während der Nacht sowie an Samstagen und öffentlichen Ruhetagen wird dem anspruchsberechtigten Personal eine Zulage von Fr. 6.- pro Stunde[^26-1] ausbezahlt oder eine Zeitgutschrift von 16 2/3 % gutgeschrieben. Aus betrieblichen Gründen kann eine bestimmte Art des Bezugs angeordnet werden.
+<sup>1</sup> Für angeordnete Arbeit während der Nacht sowie an Samstagen und öffentlichen Ruhetagen wird dem anspruchsberechtigten Personal eine Zulage von Fr. 6 pro Stunde[^26-1] ausbezahlt oder eine Zeitgutschrift von 16 2/3 % gutgeschrieben. Aus betrieblichen Gründen kann eine bestimmte Art des Bezugs angeordnet werden.
 
 <sup>2</sup> Der Nachtdienst ist von 20.00 Uhr bis 06.00 Uhr anzurechnen.
 
@@ -334,10 +330,10 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>1</sup> Für angeordneten Bereitschaftsdienst werden folgende Entschädigungen ausbezahlt oder gleichwertige Zeitgutschriften gutgeschrieben:
 
-- 1\. für Präsenzdienst (Bereitschaftsdienst in unmittelbarer Nähe des Arbeitsplatzes): Fr. 3.60 pro Stunde[^27-1];
-- 2\. für Pikettdienst (Bereitschaftsdienst in der eigenen Wohnung): Fr. 2.40 pro Stunde[^27-2].
+- 1\. für Präsenzdienst (Bereitschaftsdienst in unmittelbarer Nähe des Arbeitsplatzes): Fr. 3.60 pro Stunde[^27-1]
+- 2\. für Pikettdienst (Bereitschaftsdienst in der eigenen Wohnung): Fr. 2.40 pro Stunde[^27-2]
 
-<sup>2</sup> Zusätzlich zu den Ansätzen gemäss Absatz 1 wird für Bereitschaftsdienst an arbeitsfreien Tagen eine Grundpauschale von Fr. 33.95 pro Halbtag beziehungsweise Fr. 67.85 pro Tag[^27-3] ausgerichtet.
+<sup>2</sup> Zusätzlich zu den Ansätzen gemäss Abs. 1 wird für Bereitschaftsdienst an arbeitsfreien Tagen eine Grundpauschale von Fr. 33.95 pro Halbtag beziehungsweise Fr. 67.85 pro Tag[^27-3] ausgerichtet.
 
 <sup>3</sup> Für die während des Bereitschaftsdienstes an Samstagen und öffentlichen Ruhetagen sowie während der Nacht tatsächlich geleistete Arbeit werden nur die Zulagen gemäss § 24 ausbezahlt. Die geleistete Arbeitszeit kann kompensiert werden.
 
@@ -355,7 +351,7 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>1</sup> Für die Abgeltung von Erreichbarkeit, Verfügbarkeit und Dienstleistungen ausserhalb der ordentlichen Arbeitszeiten, für Überzeitdienstleistungen, für Dienstleistungen, die mit besonderen Gefährdungen oder anderen Unannehmlichkeiten verbunden sind, erhalten Polizeibeamtinnen und Polizeibeamte eine Entschädigung.
 
-<sup>2</sup> Die Inkonvenienzentschädigung beträgt jährlich höchstens Fr. 8 000.–[^28-1] für im Aussendienst und Fr. 7 500.–[^28-2] für im Fachdienst tätige Personen.
+<sup>2</sup> Die Inkonvenienzentschädigung beträgt jährlich höchstens Fr. 8'000[^28-1] für im Aussendienst und Fr. 7'500[^28-2] für im Fachdienst tätige Personen.
 
 <sup>3</sup> Das Departement für Justiz und Sicherheit legt die anteilsmässige Zusammensetzung dieser Entschädigung fest.
 
@@ -394,9 +390,7 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>2</sup> Lässt sich die massgebliche Besoldung nicht nach dem vorgesehenen Beschäftigungsgrad ermitteln, ist sie nach dem durchschnittlichen oder dem Beschäftigungsgrad in der gleichen Beschäftigungsperiode des Vorjahres zu berechnen.
 
-<sup>3</sup> Bei sozialen Härtefällen im Sinne von § 16 der Besoldungsverordnung des Grossen Rates[^31-1] kann die Wahl- oder Anstellungsinstanz die Besoldung, welche im Zusammenhang mit der verminderten Leistungsfähigkeit zugesprochen wurde, weiter ausrichten oder angemessen kürzen.
-
-[^31-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+<sup>3</sup> Bei sozialen Härtefällen im Sinne von § 16 BesVO kann die Wahl- oder Anstellungsinstanz die Besoldung, welche im Zusammenhang mit der verminderten Leistungsfähigkeit zugesprochen wurde, weiter ausrichten oder angemessen kürzen.
 
 ### 1.3.2. Krankheit oder Unfall
 
@@ -410,7 +404,7 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>3</sup> Die im zweiten Jahr zu leistenden Pensionskassenbeiträge werden durch das Reglement der Pensionskasse geregelt.
 
-<sup>4</sup> Die Kürzung gemäss § 21 Absatz 1 der Besoldungsverordnung des Grossen Rates berücksichtigt die im zweiten Jahr erfolgende Reduktion der Leistungen auf 80 % der bisherigen Besoldung.
+<sup>4</sup> Die Kürzung gemäss § 21 Abs. 1 BesVO berücksichtigt die im zweiten Jahr erfolgende Reduktion der Leistungen auf 80 % der bisherigen Besoldung.
 
 #### § 33
 
@@ -434,23 +428,17 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 **Auskunftspflicht bei Subrogation durch den Kanton**
 
-<sup>1</sup> Tritt der Kanton gemäss § 21 der Besoldungsverordnung des Grossen Rates in die Schadenersatzansprüche gegenüber einem Dritten ein, hat die Mitarbeiterin oder der Mitarbeiter dem Kanton alle nötigen Auskünfte zu erteilen und Unterlagen zur Verfügung zu stellen.
+<sup>1</sup> Tritt der Kanton gemäss § 21 BesVO in die Schadenersatzansprüche gegenüber einem Dritten ein, hat die Mitarbeiterin oder der Mitarbeiter dem Kanton alle nötigen Auskünfte zu erteilen und Unterlagen zur Verfügung zu stellen.
 
 #### § 36
 
 **Anspruch bei teilweiser Arbeitsunfähigkeit, Härtefälle**
 
-<sup>1</sup> Der Anspruch auf Lohnfortzahlung im ungekündigten Dienstverhältnis bei Krankheit oder Unfall richtet sich nach § 20 der Besoldungsverordnung des Grossen Rates. Bei teilweiser Arbeitsunfähigkeit erfolgt keine anteilsmässige Verlängerung des Anspruchs auf Lohnfortzahlung.
+<sup>1</sup> Der Anspruch auf Lohnfortzahlung im ungekündigten Dienstverhältnis bei Krankheit oder Unfall richtet sich nach § 20 BesVO. Bei teilweiser Arbeitsunfähigkeit erfolgt keine anteilsmässige Verlängerung des Anspruchs auf Lohnfortzahlung.
 
-<sup>2</sup> Die Wiederherstellung des Anspruchs erfolgt ausschliesslich unter folgenden Voraussetzungen und in nachstehend erwähnter Weise:
+<sup>2</sup> …
 
-- 1\. Erreicht die Mitarbeiterin oder der Mitarbeiter nach einer Phase voller Arbeitsunfähigkeit während mindestens 30 aufeinanderfolgenden Tagen wieder die volle Arbeitsfähigkeit oder während mindestens 120 aufeinanderfolgenden Tagen wieder eine teilweise, gleichbleibende oder aufsteigende Arbeitsfähigkeit, erfolgt für die Zeit der Arbeitsfähigkeit eine anteilsmässige Wiederherstellung.
-- 2\. Die Wiederherstellung wird Ende des ersten und zweiten Jahres berechnet und das entsprechende Jahr wird um die Dauer der Wiederherstellung bis auf ein Monatsende verlängert.
-- 3\. Während der Verlängerung erfolgt keine Wiederherstellung des Anspruches.
-
-<sup>3</sup> Der Regierungsrat beschliesst über eine ausnahmsweise Weiterausrichtung gemäss § 20 Absatz 3 Ziffer 4 der Besoldungsverordnung des Grossen Rates[^36-1].
-
-[^36-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+<sup>3</sup> Der Regierungsrat beschliesst über eine ausnahmsweise Weiterausrichtung gemäss § 20 Abs. 3 Ziff. 4 BesVO.
 
 #### § 37
 
@@ -486,13 +474,11 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 **Absenzen, Unterbrechung des bezahlten Urlaubs**
 
-<sup>1</sup> Bis zum Beginn des Schwangerschaftsurlaubs werden bei ärztlich bescheinigter, schwangerschaftsbedingter Arbeitsunfähigkeit Leistungen gestützt auf § 20 der Besoldungsverordnung des Grossen Rates[^39a-1] ausgerichtet.
+<sup>1</sup> Bis zum Beginn des Schwangerschaftsurlaubs werden bei ärztlich bescheinigter, schwangerschaftsbedingter Arbeitsunfähigkeit Leistungen gestützt auf § 20 BesVO ausgerichtet.
 
 <sup>2</sup> Ausfälle zufolge Krankheit oder Unfall, Urlaube sowie Feier- und öffentliche Ruhetage führen nicht zu einer Unterbrechung des Schwangerschafts- und Mutterschaftsurlaubs und geben keinen Anspruch auf Abgeltung oder Nachgewährung.
 
 <sup>3</sup> …
-
-[^39a-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
 
 #### § 40
 
@@ -502,7 +488,7 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>2</sup> Erlaubt der Zustand des Neugeborenen eine Wiederaufnahme der Erwerbstätigkeit nach Beendigung des Mutterschaftsurlaubs nicht, besteht Anspruch auf unbezahlten Urlaub bis zu drei Monaten.
 
-<sup>3</sup> Betreffend der Anrechnung und Abtretung der Mutterschaftsentschädigung gemäss dem Erwerbsersatzgesetz gilt § 21 der Besoldungsverordnung des Grossen Rates analog.
+<sup>3</sup> Betreffend der Anrechnung und Abtretung der Mutterschaftsentschädigung gemäss dem Erwerbsersatzgesetz gilt § 21 BesVO analog.
 
 ### 1.3.4. Militärdienst
 
@@ -534,7 +520,7 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>2</sup> Das Departement für Finanzen und Soziales wählt eine Fondskommission. Diese besteht aus je einer Vertretung des Personalamtes und des Dachverbandes der Personalverbände sowie aus der oder dem für die gesuchstellende Person zuständigen Generalsekretärin oder -sekretär. Der Dachverband der Personalverbände hat für die Wahl seiner Vertretung ein Vorschlagsrecht.
 
-<sup>3</sup> Die Fondskommission begutachtet die Hilfsgesuche und entscheidet selbstständig über Leistungen bis zu Fr. 3 000.–; über höhere Leistungen entscheidet das Departement für Finanzen und Soziales auf ihren Antrag.
+<sup>3</sup> Die Fondskommission begutachtet die Hilfsgesuche und entscheidet selbstständig über Leistungen bis zu Fr. 3'000; über höhere Leistungen entscheidet das Departement für Finanzen und Soziales auf ihren Antrag.
 
 #### § 44
 
@@ -572,11 +558,11 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>1</sup> Ausgehend von einer Normalarbeitszeit von 42 Stunden pro Woche betragen die Sollstunden zu 100 % beziehungsweise der Stundenteiler:
 
-- 1\. bei 23 Arbeitstagen Ferien: 1 910 Stunden;
-- 2\. bei 27 Arbeitstagen Ferien: 1 877 Stunden;
-- 3\. bei 30 Arbeitstagen Ferien: 1 852 Stunden.
+- 1\. bei 23 Arbeitstagen Ferien: 1'910 Stunden
+- 2\. bei 27 Arbeitstagen Ferien: 1'877 Stunden
+- 3\. bei 30 Arbeitstagen Ferien: 1'852 Stunden
 
-<sup>2</sup> Zur Berechnung des Stundenansatzes bei Auszahlung von Überstunden oder eines positiven Arbeitszeitsaldos ist bei Personen mit einem Beschäftigungsgrad ab 100 % der Teiler von 2 184 zu berücksichtigen
+<sup>2</sup> Zur Berechnung des Stundenansatzes bei Auszahlung von Überstunden oder eines positiven Arbeitszeitsaldos ist bei Personen mit einem Beschäftigungsgrad ab 100 % der Teiler von 2'184 zu berücksichtigen
 
 ### 1.5. Spezielle Besoldungen
 
@@ -614,7 +600,7 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>1</sup> Kommissionsmitglieder, Expertinnen, Experten, Inhaberinnen und Inhaber einzelner Nebenämter werden in der Regel pro Stunde entschädigt.
 
-<sup>2</sup> Die Berechnung der Stundenansätze erfolgt aufgrund eines einheitlichen Teilers von 1 910 Stunden.
+<sup>2</sup> Die Berechnung der Stundenansätze erfolgt aufgrund eines einheitlichen Teilers von 1'910 Stunden.
 
 <sup>3</sup> Im Falle von Kommissionen ist für gleiche Arbeiten der Mitglieder ein einheitlicher Zeitaufwand in Rechnung zu stellen.
 
@@ -710,7 +696,7 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 **Verpflegung**
 
-<sup>1</sup> Für eine Hauptmahlzeit werden Fr. 20.– vergütet, wenn wegen einer dienstlichen Abwesenheit die auswärtige Einnahme dieser Mahlzeit notwendig ist; höhere Auslagen müssen belegt werden.
+<sup>1</sup> Für eine Hauptmahlzeit werden Fr. 20 vergütet, wenn wegen einer dienstlichen Abwesenheit die auswärtige Einnahme dieser Mahlzeit notwendig ist; höhere Auslagen müssen belegt werden.
 
 #### § 61
 
@@ -746,9 +732,11 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>1</sup> Sämtliche Kosten der Benützung privater Fahrzeuge für Dienstfahrten werden mit einer pauschalen Kilometerentschädigung nach folgenden Ansätzen abgegolten:
 
-- 1\. Auto: 65 Rp./km;
-- 2\. Motorrad: 50 Rp./km;
-- 3\. Kleinmotorrad: 30 Rp./km.
+- 1\. Auto: Fr. 0.70/km[^64-1]
+- 2\. Motorrad: Fr. 0.50/km
+- 3\. Kleinmotorrad: Fr. 0.30/km
+
+[^64-1]: Erhöhung von Fr. 0.65 auf Fr. 0.70 mit RRB Nr. 251 vom 12. April 2022 befristet vom 1. April 2022 bis zum 31. Dezember 2022.
 
 #### § 65
 
@@ -870,19 +858,11 @@ vom 21.09.1999 (Stand 01.01.2022)
 
 <sup>1</sup> Das Personal der Betreibungsämter wird den einzelnen Ämtern vom Konkursamt und Betreibungsinspektorat zugeteilt und nach den gleichen Grundsätzen wie das Personal der Zentralverwaltung zugeordnet.
 
-<sup>2</sup> Die Besoldungsanpassungen gemäss § 12 der Besoldungsverordnung des Grossen Rates[^86-1] werden auf Vorschlag der leitenden Amtspersonen der Betreibungsämter vom Inspektorat vorgenommen.
-
-[^86-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+<sup>2</sup> Die Besoldungsanpassungen gemäss § 12 BesVO werden auf Vorschlag der leitenden Amtspersonen der Betreibungsämter vom Inspektorat vorgenommen.
 
 ## 3. Übergangs- und Schlussbestimmungen
 
-#### § 87
-
-**...[^87-1]**
-
-[^87-1]: Änderung bisherigen Rechtes, ABl. 2008, Seite 2732, in Kraft gesetzt auf den 1. Januar 2009.
-
-#### § 88
+#### § 87–88
 
 **…**
 
