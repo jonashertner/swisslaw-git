@@ -4,29 +4,32 @@ number: "841.11"
 title: Vollzugsverordnung zum kantonalen Jagdgesetz
 short: "Kantonale Jagdverordnung, kJSV"
 language: de
-version: 2020-01-01
-corrected: 2021-11-03
-version_adopted: 2019-12-17
+version: 2022-04-01
+valid_until: 2023-08-31
+version_adopted: 2022-02-08
 adopted: 2008-06-02
 in_force: 2008-06-15
 url: "https://gesetze.nw.ch/app/de/texts_of_law/841.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/370/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/998/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum kantonalen Jagdgesetz (Kantonale Jagdverordnung, kJSV)
+# Vollzugsverordnung zum kantonalen Jagdgesetz
 
-vom 2. Juni 2008<sup>1</sup>
+(Kantonale Jagdverordnung, kJSV)
+
+vom 02.06.2008 (Stand 01.04.2022)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 49 des Einführungsgesetzes vom 17. Januar 2007 zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonales Jagdgesetz, kJSG)<sup>2</sup>,
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 49 des Einführungsgesetzes vom 17. Januar 2007 zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Kantonales Jagdgesetz, kJSG)[^ingress-1],
 
 beschliesst:
 
-### I. ALLGEMEINE BESTIMMUNGEN
+[^ingress-1]: NG 841.1
+
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
@@ -41,17 +44,11 @@ beschliesst:
 <sup>4</sup> Die Jagdplanung stützt sich insbesondere auf folgende Grundlagen:
 
 - 1\. die Bestandeserhebungen im Frühjahr;
-
 - 2\. die Kondition des Wildes;
-
 - 3\. die Wildschadensituation;
-
 - 4\. den Einfluss von Grossraubtieren auf die jagdbaren Wildbestände;
-
 - 5\. die Abschuss- und Fallwildzahlen aus dem Vorjahr;
-
 - 6\. den Wildlebensraum;
-
 - 7\. die Empfehlungen des Bundesamtes für Umwelt.
 
 <sup>5</sup> Für die Regulierung der Bestände jagdbarer Arten im Eidgenössischen Jagdbanngebiet und deren zeitliche Geltung ist die eidgenössische Jagdgesetzgebung massgebend.
@@ -62,13 +59,13 @@ beschliesst:
 
 **Wildschadenbericht**
 
-Das Amt für Wald und Energie erstellt jährlich über die Wildschadensituation im Wald bis zum 30. April einen schriftlichen Bericht zu Handen des Amtes.
+<sup>1</sup> Das Amt für Wald und Energie erstellt jährlich über die Wildschadensituation im Wald bis zum 30. April einen schriftlichen Bericht zu Handen des Amtes.
 
 #### § 3
 
 **Jagdbetriebsvorschriften**
 
-Für die Umsetzung der Jagdplanung erlässt der Regierungsrat jährlich Jagdbetriebsvorschriften, die jeweils bis zum 30. Juni veröffentlicht werden.
+<sup>1</sup> Für die Umsetzung der Jagdplanung erlässt der Regierungsrat jährlich Jagdbetriebsvorschriften, die jeweils bis zum 30. Juni veröffentlicht werden.
 
 #### § 4
 
@@ -89,7 +86,6 @@ Für die Umsetzung der Jagdplanung erlässt der Regierungsrat jährlich Jagdbetr
 <sup>1</sup> Wird auf der Hoch- oder Rehjagd offensichtlich verletztes Wild festgestellt, das zum Abschuss freigegeben ist, darf dieses von jeder jagdberechtigten Person straffrei erlegt werden, auch wenn sie nicht mehr im Besitze einer entsprechenden Wildmarke ist. Vorbehalten bleiben folgende Bedingungen:
 
 - 1\. vor der Besitzergreifung des erlegten Tieres ist der Kontrollschein für einen Hegeabschuss auszufüllen;
-
 - 2\. das Wildbret ist zusammen mit dem Kontrollschein auf einer Wildkontrollstelle vorzuweisen.
 
 <sup>2</sup> Das Wildbret wird zugunsten des Kantons verwertet. Die Trophäe gehört der jagdberechtigten Person.
@@ -106,23 +102,19 @@ Für die Umsetzung der Jagdplanung erlässt der Regierungsrat jährlich Jagdbetr
 
 <sup>3</sup> Markierte Wildtiere sind geschützt. Als Markierung gilt ein Halsband mit oder ohne integriertem Sender, auffällige Farbmarkierungen sowie spezielle Ohrenmarken.
 
-### II. JAGDBERECHTIGUNG
+## 2 Jagdberechtigung
 
 #### § 7
 
 **Jagdpatent**
 
-<sup>1</sup> Gesuche um Erteilung eines Jagdpatentes sind für alle Jagdarten auf amtlichem Formular bis spätestens 31. Juli beim Amt einzureichen.
+<sup>1</sup> Gesuche um Erteilung eines Jagdpatentes sind für alle Jagdarten auf amtlichem Formular bis spätestens 31. Juli beim Amt einzureichen. Das Jagdpatent wird nicht erteilt, wenn die Frist nicht eingehalten wird.
 
-<sup>2</sup> Das Gesuch um Erteilung eines Jagdpatentes gilt nur dann als fristgerecht eingereicht, wenn auch die Patentabgaben einbezahlt worden sind.
+<sup>2</sup> Die Patentabgaben sind spätestens bis 14. August einzubezahlen. Massgebend ist der Zahlungseingang beim Kanton. Das Jagdpatent erlangt nur bei rechtzeitiger Bezahlung der Patentabgaben Gültigkeit.
 
-<sup>3</sup> Hat die Gesuchstellerin oder der Gesuchsteller die Frist unverschuldet versäumt, wird das Patent erteilt, sofern sie oder er:
+<sup>3</sup> Hat die gesuchstellende Person eine Frist unverschuldet versäumt, kann sie die versäumte Handlung binnen 10 Tagen nach dem Wegfall des Hindernisses, spätestens aber 10 Tage vor dem Beginn der betreffenden Jagdart nachholen und gleichzeitig den Nachweis der unverschuldeten Säumnis sowie der Bezahlung der Verwaltungsgebühr erbringen.
 
-- 1\. das Gesuch binnen 10 Tagen nach dem Wegfall des Hindernisses, spätestens aber 10 Tage vor dem Beginn der betreffenden Jagdart einreicht; und gleichzeitig
-
-- 2\. den Nachweis der unverschuldeten Säumnis, der Erfüllung der persönlichen Voraussetzungen sowie der Bezahlung der Patentabgabe und der Verwaltungsgebühr erbringt.<sup>16</sup>
-
-<sup>4</sup> Wird das Gesuch nicht fristgerecht eingereicht, wird kein Patent erteilt.
+<sup>4</sup> …
 
 #### § 8
 
@@ -136,10 +128,9 @@ Für die Umsetzung der Jagdplanung erlässt der Regierungsrat jährlich Jagdbetr
 
 **Zusätzliche Verweigerungsgründe**
 
-Ein Jagdpatent wird nicht erteilt an Personen:
+<sup>1</sup> Ein Jagdpatent wird nicht erteilt an Personen:
 
 - 1\. die mit einem Waffentragverbot belegt sind oder die öffentliche Sicherheit gefährden;
-
 - 2\. die nach erfolgter Mahnung die Abschusskontrollkarte nicht binnen der angesetzten Frist einreichen oder die geschuldete Gebühr nicht bezahlt haben.
 
 #### § 10
@@ -149,17 +140,11 @@ Ein Jagdpatent wird nicht erteilt an Personen:
 <sup>1</sup> Mit dem Jagdpatent werden abgegeben:
 
 - 1\. Jagdbetriebsvorschriften;
-
 - 2\. Abschusskontrollkarte;
-
 - 3\. Wildmarken entsprechend der gelösten Jagdarten;
-
 - 4\. Kontrollkarten für mögliche Rückerstattung für Prämienabschüsse;
-
 - 5\. Kontrollschein für einen Hegeabschuss;
-
 - 6\. Formular Schiessnachweis;
-
 - 7\. Fahrberechtigung zum Befahren signalisierter Waldstrassen.
 
 <sup>2</sup> Das Jagdpatent und die Beilagen sind nach Erhalt sofort zu kontrollieren. Allfällige Mängel sind umgehend dem Amt zu melden.
@@ -174,43 +159,37 @@ Ein Jagdpatent wird nicht erteilt an Personen:
 
 <sup>3</sup> Das Einschiessen der Jagdwaffe hat auf bewilligten Schiessanlagen zu erfolgen. Die Schiesszeiten sind von der Schiessaufsicht spätestens zwei Tage vor dem Einschiessen dem Amt beziehungsweise der Wildhüterin oder dem Wildhüter zu melden. Das Einschiessen kann auch an Jagdschiessen, in unterirdischen Schiessanlagen, auf Jagdparcours oder an offiziellen Übungsschiessen der Jägerorganisationen erbracht werden.
 
-<sup>4</sup> Für das Einschiessen gelten die folgenden Anforderungen gemäss den Jagdbetriebsvorschriften<sup>8</sup>.<sup>14</sup>
+<sup>4</sup> Für das Einschiessen gelten die folgenden Anforderungen gemäss den Jagdbetriebsvorschriften[^11-1].
 
 <sup>5</sup> Der Nachweis des Einschiessens der Jagdwaffe ist mit dem vom Amt zur Verfügung gestellten Formular zu bestätigen und gilt nur dann als erfüllt, wenn das Formular von der Schiessaufsicht und der Schützin oder dem Schützen unterzeichnet ist. Den Nachweis haben die jagdberechtigten Personen auf der Jagd auf sich zu tragen und den Wildschutzorganen auf Verlangen vorzuweisen.
+
+[^11-1]: NG 841.111
 
 #### § 12
 
 **Jagdverbot**
 
-Die Jagd darf während der Jagdzeit nicht ausgeübt werden:
+<sup>1</sup> Die Jagd darf während der Jagdzeit nicht ausgeübt werden:
 
-- 1\. an öffentlichen Ruhetagen gemäss dem Ruhetagsgesetz<sup>3</sup>;
-
+- 1\. an öffentlichen Ruhetagen gemäss dem Ruhetagsgesetz[^12-1];
 - 2\. an Schontagen;
-
 - 3\. ausserhalb der Schusszeiten.
+
+[^12-1]: NG 921.1
 
 #### § 13
 
 **Jagddauer**
 
-Die längstmögliche Dauer der Jagd wird wie folgt festgesetzt:
+<sup>1</sup> Die längstmögliche Dauer der Jagd wird wie folgt festgesetzt:
 
-- 1\. Hochjagd: 1. September bis 30. September;
-
+- 1\. Hochjagd: — 1. Sept. bis 30. Sept.
 - 2\. Niederjagd:
-
-- Rehe 15. Oktober bis 4. November;
-
-- auf alles übrige, nicht geschützte Niederwild:
-
-\15. Oktober bis 30. November;
-
-- 3\. Winterjagd: 1. Dezember bis 31. Januar;
-
+  - a) Rehe: — 15. Okt. bis 4. Nov.
+  - b) übriges, nicht geschütztes Niederwild: — 15. Okt. bis 30. Nov.
+- 3\. Winterjagd: — 1. Dez. bis 31. Jan.
 - 4\. Hegejagd auf geschütztes Wild:
-
-Steinbock 1. September bis 31. Oktober.
+  - a) Steinbock: — 1. Sept. bis 31. Okt.
 
 #### § 14
 
@@ -218,7 +197,14 @@ Steinbock 1. September bis 31. Oktober.
 
 <sup>1</sup> Die Schusszeiten sind wie folgt begrenzt:
 
-Hochjagd: 06.00 Uhr bis 20.30 Uhr (1. bis 20. September) 06.30 Uhr bis 20.00 Uhr (21. bis 30. September) Niederjagd: 07.00 Uhr bis 19.30 Uhr (Sommerzeit) 06.00 Uhr bis 18.30 Uhr (Winterzeit) Winterjagd: 07.30 Uhr bis 18.00 Uhr<sup>14</sup>
+- 1\. Hochjagd:
+  - a) 06.00 Uhr bis 20.30 Uhr (1. bis 20. Sept.)
+  - b) 06.30 Uhr bis 20.00 Uhr (21. bis 30. Sept.)
+- 2\. Niederjagd:
+  - a) 07.00 Uhr bis 19.30 Uhr (Sommerzeit)
+  - b) 06.00 Uhr bis 18.30 Uhr (Winterzeit)
+- 3\. Winterjagd:
+  - a) 07.30 Uhr bis 18.00 Uhr
 
 <sup>2</sup> Für die Passjagd auf Haarraubwild während der Nieder- und der Winterjagd ist die Schussabgabe zur Nachtzeit erlaubt.
 
@@ -226,7 +212,7 @@ Hochjagd: 06.00 Uhr bis 20.30 Uhr (1. bis 20. September) 06.30 Uhr bis 20.00 Uhr
 
 **Erlegen von Wildtieren aus Gehegen**
 
-Gelangen Wildtiere, die nicht zur einheimischen Artenvielfalt gehören, insbesondere Dam- oder Sikahirsche, aus Gehegen in die freie Wildbahn, können diese gemäss Weisungen des Amtes erlegt werden.
+<sup>1</sup> Gelangen Wildtiere, die nicht zur einheimischen Artenvielfalt gehören, insbesondere Dam- oder Sikahirsche, aus Gehegen in die freie Wildbahn, können diese gemäss Weisungen des Amtes erlegt werden.
 
 #### § 16
 
@@ -235,15 +221,10 @@ Gelangen Wildtiere, die nicht zur einheimischen Artenvielfalt gehören, insbeson
 <sup>1</sup> Die Ausübung der Jagd ist in folgenden Gebieten untersagt:
 
 - 1\. wo Menschen oder das Eigentum Dritter gefährdet wird, insbesondere innerhalb von Wohnsiedlungen und im nächsten Umkreis von ständig bewohnten Gebäuden;
-
-- 2\. in Baumschulen, Park-, Garten-, Obst- und Gemüseanlagen, ausser sie würde von der Eigentümerin beziehungsweise vom Eigentümer oder von der Pächterin beziehungsweise vom Pächter erlaubt;
-
+- 2\. in Baumschulen, Park , Garten , Obst- und Gemüseanlagen, ausser sie würde von der Eigentümerin beziehungsweise vom Eigentümer oder von der Pächterin beziehungsweise vom Pächter erlaubt;
 - 3\. in eidgenössischen Banngebieten, unter Vorbehalt allfälliger Spezialbewilligungen;
-
 - 4\. in kantonalen Wildschutzgebieten, soweit keine Ausnahmen gelten oder Spezialbewilligungen erteilt werden;
-
-5.<sup>11</sup> in den Wildruhegebieten gemäss der Verordnung über die Wildruhegebiete<sup>12</sup>;
-
+- 5\. in den Wildruhegebieten gemäss der Verordnung über die Wildruhegebiete[^16-1];
 - 6\. in Gebieten, die gemäss den Jagdbetriebsvorschriften aus überwiegenden öffentlichen Interessen von der Jagd gesperrt werden.
 
 <sup>2</sup> Die Jagd ist mit Einwilligung der Grundeigentümerin oder des Grundeigentümers sowie der Bewirtschafterin oder des Bewirtschafters in ständig bewohnten Gebäuden und deren Umgebung gestattet.
@@ -252,17 +233,19 @@ Gelangen Wildtiere, die nicht zur einheimischen Artenvielfalt gehören, insbeson
 
 <sup>4</sup> Am Tag vor Eröffnung oder nach Ende der betreffenden Jagdart sowie an öffentlichen Ruhe- und allfälligen Schontagen ist auf gebahnten Wegen der Aufstieg ins Jagdgebiet beziehungsweise der Abstieg aus dem Jagdgebiet mit ungeladener Waffe gestattet.
 
+[^16-1]: NG 841.15
+
 #### § 17
 
 **Jagdgast**
 
-<sup>1</sup> Die jagdberechtigte Person hat für ihren Jagdgast beim Amt eine persönliche Gästekarte zu beantragen. Dem Antrag ist eine Kopie des Jagdfähigkeitsausweises, der Schiessnachweis gemäss § 11 Abs. 2-5 sowie der Nachweis der Versicherungsdeckung des Jagdgastes beizulegen.
+<sup>1</sup> Die jagdberechtigte Person hat für ihren Jagdgast beim Amt eine persönliche Gästekarte zu beantragen. Dem Antrag ist eine Kopie des Jagdfähigkeitsausweises, der Schiessnachweis gemäss § 11 Abs. 2–5 sowie der Nachweis der Versicherungsdeckung des Jagdgastes beizulegen.
 
 <sup>2</sup> Vor Betreten des Jagdgebietes muss die Inhaberin oder der Inhaber der Gästekarte das Tagesdatum mit Kugelschreiber auf der Gästekarte eintragen.
 
 <sup>3</sup> Bei der Jagdausübung müssen die einladende Person und der Gast in unmittelbarer Nähe beieinander sein. Fehlabschüsse werden der einladenden, jagdberechtigten Person belastet.
 
-### III. JAGDAUSÜBUNG
+## 3 Jagdausübung
 
 #### § 18
 
@@ -276,19 +259,19 @@ Gelangen Wildtiere, die nicht zur einheimischen Artenvielfalt gehören, insbeson
 
 **Jagdfolge**
 
-Rechtmässig erlegtes Wild gehört der Erlegerin oder dem Erleger.
+<sup>1</sup> Rechtmässig erlegtes Wild gehört der Erlegerin oder dem Erleger.
 
 #### § 20
 
 **Selbsthilfe**
 
-<sup>1</sup> Wer eine Liegenschaft nutzt, kann Füchse, Steinmarder, Kolkraben, Rabenkrähen, Saatkrähen, Elstern, Eichelhäher, Feld- und Haussperlinge sowie verwilderte Haustauben erlegen, wenn ihm diese Tiere Schaden an Haustieren, landwirtschaftlichen Kulturen oder an der Liegenschaft verursachen.<sup>14</sup>
+<sup>1</sup> Wer eine Liegenschaft nutzt, kann Füchse, Steinmarder, Kolkraben, Rabenkrähen, Saatkrähen, Elstern, Eichelhäher, Feld- und Haussperlinge sowie verwilderte Haustauben erlegen, wenn ihm diese Tiere Schaden an Haustieren, landwirtschaftlichen Kulturen oder an der Liegenschaft verursachen.
 
-<sup>2</sup> Wer Acker- oder landwirtschaftliche Spezialkulturen bewirtschaftet, kann ausserdem Stare und Amseln erlegen, wenn diese Tiere Schaden an den Kulturen verursachen.<sup>14</sup>
+<sup>2</sup> Wer Acker- oder landwirtschaftliche Spezialkulturen bewirtschaftet, kann ausserdem Stare und Amseln erlegen, wenn diese Tiere Schaden an den Kulturen verursachen.
 
 <sup>3</sup> Für die Selbsthilfe können jagdberechtigte Personen beigezogen werden.
 
-<sup>4</sup> Die Selbsthilfe ist nur innerhalb der Grenzen der genutzten Liegenschaft und ausserhalb des Waldes gestattet.<sup>14</sup>
+<sup>4</sup> Die Selbsthilfe ist nur innerhalb der Grenzen der genutzten Liegenschaft und ausserhalb des Waldes gestattet.
 
 <sup>5</sup> Füchse und Steinmarder dürfen nur im Umkreis von 200 Metern von bewohnten Häusern und belegten Ställen erlegt werden.
 
@@ -297,29 +280,25 @@ Rechtmässig erlegtes Wild gehört der Erlegerin oder dem Erleger.
 <sup>7</sup> Bei der Selbsthilfe gelten Schonzeiten, in denen bestimmte Tiere gemäss Abs. 1 nicht erlegt werden dürfen; als Schonzeiten gelten:
 
 - 1\. für Füchse 1. März bis 15. Juni;
-
 - 2\. für Marder 16. Februar bis 31. August;
-
 - 3\. für Stare und Amseln 16. Februar bis 31. Juli;
-
-- 4\. für Rabenkrähen, Saatkrähen, Elstern und Eichelhäher 16. Februar bis 31. Juli. Für Rabenkrähen, die in Schwärmen auftreten, gilt auf schadengefährdeten landwirtschaftlichen Kulturen keine Schonzeit.<sup>14</sup>
+- 4\. für Rabenkrähen, Saatkrähen, Elstern und Eichelhäher 16. Februar bis 31. Juli. Für Rabenkrähen, die in Schwärmen auftreten, gilt auf schadengefährdeten landwirtschaftlichen Kulturen keine Schonzeit.
 
 <sup>8</sup> Wird für den Abschuss von Füchsen eine Büchse verwendet, ist ein Kaliber von mindestens 5.6 mm zu verwenden; die Kugelpatrone muss den Mindestwert gemäss § 31 Abs. 1 Ziff. 3 erreichen.
 
 <sup>9</sup> Steinmarder, Kolkraben, Rabenkrähen, Elstern, Eichelhäher, Feld- und Haussperlinge, Stare, Amseln, Wachholderdrosseln sowie verwilderte Haustauben dürfen mit einem Kleinkalibergewehr (Flobert) erlegt werden.
 
-<sup>1</sup> 0 Die Selbsthilfe gemäss den vorgenannten Bestimmungen darf nur von Personen ausgeübt werden, die das 20. Altersjahr zurückgelegt haben.
+<sup>10</sup> Die Selbsthilfe gemäss den vorgenannten Bestimmungen darf nur von Personen ausgeübt werden, die das 20. Altersjahr zurückgelegt haben.
 
-<sup>1</sup> 1 Erlaubt ist die Verwendung von Ködern in Kastenfallen. Die Kastenfallen sind mit der Adresse des Selbsthilfeberechtigten zu bezeichnen und täglich zu kontrollieren.
+<sup>11</sup> Erlaubt ist die Verwendung von Ködern in Kastenfallen. Die Kastenfallen sind mit der Adresse des Selbsthilfeberechtigten zu bezeichnen und täglich zu kontrollieren.
 
 #### § 21
 
 **Schussdistanzen**
 
-Die maximalen Schussdistanzen betragen:
+<sup>1</sup> Die maximalen Schussdistanzen betragen:
 
 - 1\. 35 Meter für den Schrotschuss und das Flintenlaufgeschoss;
-
 - 2\. 200 Meter für den Kugelschuss.
 
 #### § 22
@@ -332,13 +311,13 @@ Die maximalen Schussdistanzen betragen:
 
 <sup>3</sup> Am Anschussort hat die jagdberechtigte Person sorgfältig nach Schusszeichen zu suchen. Erweisen sich diese nicht als erfolgversprechend für das Auffinden des Tieres, ist die Nachsuche mit einem Schweisshund einzuleiten.
 
-<sup>4</sup> Auf beschossenes Schalenwild ist zeitgerecht, spätestens binnen zweier Stunden nach Abgabe des Schusses, und fachgemäss mit einem auf Schweiss geprüften Hund nachzusuchen. Die Schweisshundeführerin oder der Schweisshundeführer organisiert und leitet die Nachsuche. Die Schützin oder der Schütze beteiligt sich aktiv daran. Auf der Nachsuche darf nur das angeschossene Wild erlegt werden.<sup>14</sup>
+<sup>4</sup> Auf beschossenes Schalenwild ist zeitgerecht, spätestens binnen zweier Stunden nach Abgabe des Schusses, und fachgemäss mit einem auf Schweiss geprüften Hund nachzusuchen. Die Schweisshundeführerin oder der Schweisshundeführer organisiert und leitet die Nachsuche. Die Schützin oder der Schütze beteiligt sich aktiv daran. Auf der Nachsuche darf nur das angeschossene Wild erlegt werden.
 
 <sup>5</sup> Wenn angeschossenes Wild in ein Jagdbann- oder Wildschutzgebiet wechselt und in Sichtweite verendet, darf die Schützin oder der Schütze nur mit gebrochener, ungeladener Jagdwaffe das Jagdbann- oder Wildschutzgebiet betreten und das Wild an Ort aufbrechen sowie versorgen. Die Beute darf erst nach Benachrichtigung der Wildhüterin oder des Wildhüters fortgeschafft werden. Verendet das Wild nicht in Sichtweite, hat die Schützin oder der Schütze den Anschussort und den Ort des Übertritts in das Jagdbann- oder Wildschutzgebiet zu kennzeichnen und die Wildhüterin oder den Wildhüter zu benachrichtigen.
 
 <sup>6</sup> Verläuft die Nachsuche erfolgreich, gehört die Beute der jagdberechtigten Person. Wird die Nachsuche aufgegeben, erlischt das Recht auf die Beute.
 
-<sup>7</sup> Die Schweisshundeführerin oder der Schweisshundeführer hat über die Nachsuche auf amtlichem Formular ein Protokoll zu erstellen. Das Protokoll ist unterzeichnet und unverzüglich an das Amt zu überweisen.<sup>14</sup>
+<sup>7</sup> Die Schweisshundeführerin oder der Schweisshundeführer hat über die Nachsuche auf amtlichem Formular ein Protokoll zu erstellen. Das Protokoll ist unterzeichnet und unverzüglich an das Amt zu überweisen.
 
 #### § 23
 
@@ -346,7 +325,7 @@ Die maximalen Schussdistanzen betragen:
 
 <sup>1</sup> Bei der Wasserwildjagd hat die jagdberechtigte Person einen Apportierhund oder ein für die Bergung des erlegten Wildes geeignetes Hilfsmittel mitzuführen.
 
-<sup>2</sup> Für die Jagd von Wasservögeln darf kein Bleischrot verwendet werden.<sup>14</sup>
+<sup>2</sup> Für die Jagd von Wasservögeln darf kein Bleischrot verwendet werden.
 
 #### § 24
 
@@ -402,22 +381,18 @@ Die maximalen Schussdistanzen betragen:
 
 **Ausübung der Falknerei**
 
-Die Ausübung der Falknerei ist nur mit Bewilligung des Amtes gestattet.
+<sup>1</sup> Die Ausübung der Falknerei ist nur mit Bewilligung des Amtes gestattet.
 
 #### § 30
 
-**Unerlaubte Hilfsmittel<sup>14</sup>**
+**Unerlaubte Hilfsmittel**
 
-Für die Jagdausübung ist die Benützung folgender Geräte verboten:
+<sup>1</sup> Für die Jagdausübung ist die Benützung folgender Geräte verboten:
 
 - 1\. Ski sowie skiähnliche Geräte;
-
 - 2\. Bewegungsmelder, Infrarotsensoren, Lichtschranken, Fotofallen und Überwachungskameras sowie die im Bundesrecht entsprechend bezeichneten Hilfsmittel;
-
 - 3\. elektronische Tonwiedergabegeräte für das Anlocken von Tieren;
-
 - 4\. Elektroschockgeräte, künstliche Lichtquellen, Spiegel oder andere blendende Vorrichtungen sowie Laserzielgeräte, Nachtsichtzielgeräte und Gerätekombinationen mit vergleichbaren Funktionen;
-
 - 5\. Fluggeräte.
 
 #### § 31
@@ -426,9 +401,12 @@ Für die Jagdausübung ist die Benützung folgender Geräte verboten:
 
 <sup>1</sup> Für die Jagd auf Schalenwild und übriges jagdbares Wild müssen die Kugelpatronen folgende Mindestwerte erreichen:
 
-**E in Joule Distanz 2000 200 m 1500 150 m 450 100 m**
-
-Tierart 1. Rothirsch, Steinbock, Schwarzwild 2. Gämse und Reh 3. Murmeltier und übriges jagdbares Wild
+<table>
+<tr><th>Tierart</th><th>E in Joule</th><th>Distanz</th></tr>
+<tr><td>Rothirsch, Steinbock, Schwarzwild</td><td>2000</td><td>200 m</td></tr>
+<tr><td>Gämse und Reh</td><td>1500</td><td>150 m</td></tr>
+<tr><td>Murmeltier und übriges jagdbares Wild</td><td>450</td><td>100 m</td></tr>
+</table>
 
 <sup>2</sup> Für die Jagd auf Rothirsch, Steinbock, Gämse und Murmeltier ist nur die Kugelpatrone gestattet.
 
@@ -444,12 +422,13 @@ Tierart 1. Rothirsch, Steinbock, Schwarzwild 2. Gämse und Reh 3. Murmeltier und
 
 <sup>2</sup> Auf der Hochjagd dürfen keine Hunde mitgeführt werden; § 33 Abs. 3 bleibt vorbehalten.
 
-<sup>3</sup> Für die laute Jagd dürfen nur Lauf- und Niederlauf-, Stöber- und Erdhunde eingesetzt werden. Vorstehhunde dürfen nur zum Apportieren, Vorstehen und als Schweisshunde verwendet werden.
+<sup>3</sup> Für die laute Jagd dürfen nur Lauf- und Niederlauf , Stöber- und Erdhunde eingesetzt werden. Vorstehhunde dürfen nur zum Apportieren, Vorstehen und als Schweisshunde verwendet werden.
 
 <sup>4</sup> Es dürfen höchstens drei Jagdhunde je Trieb und Gruppe geschnallt werden.
 
-<sup>5</sup> Jagdberechtigte können Jagdhunde, die gemäss dieser Verordnung und der Tierschutzverordnung (TSchV)<sup>15</sup> zugelassen sind, wie folgt verwenden:<sup>14</sup> 1. während der Niederjagd;
+<sup>5</sup> Jagdberechtigte können Jagdhunde, die gemäss dieser Verordnung und der Tierschutzverordnung (TSchV)[^32-1] zugelassen sind, wie folgt verwenden:
 
+- 1\. während der Niederjagd;
 - 2\. während der Winterjagd für die Baujagd und in Gebäuden sowie zum Apportieren.
 
 <sup>6</sup> Stilljagende Hunde dürfen nur als Vorsteh- und Apportierhunde verwendet werden.
@@ -460,17 +439,19 @@ Tierart 1. Rothirsch, Steinbock, Schwarzwild 2. Gämse und Reh 3. Murmeltier und
 
 <sup>9</sup> Das Amt kann die Verwendung ungeeigneter Jagdhunde jederzeit verbieten.
 
+[^32-1]: SR 455.1
+
 #### § 33
 
-**Einsatz von Schweisshunden<sup>14</sup>**
+**Einsatz von Schweisshunden 1. Grundsatz**
 
-### 1. Grundsatz
-
-<sup>1</sup> Als Schweisshunde gelten Hunde, die auf Schweiss abgeführt und gemäss dem Reglement für Schweissprüfungen<sup>6</sup> auf einer Übernachtfährte geprüft sind.
+<sup>1</sup> Als Schweisshunde gelten Hunde, die auf Schweiss abgeführt und gemäss dem Reglement für Schweissprüfungen[^33-1] auf einer Übernachtfährte geprüft sind.
 
 <sup>2</sup> Schweisshundeführerinnen und Schweisshundeführer dürfen auf der Hochjagd den Schweisshund für die Nachsuche an der Leine mitführen; sie benötigen für das Mitführen eines Schweisshundes eine Bewilligung.
 
 <sup>3</sup> Sie haben den Schiessnachweis zu erbringen, sofern auf der Nachsuche eine Jagdwaffe mitgeführt wird.
+
+[^33-1]: [www.ag-jagdhunde.ch](https://www.ag-jagdhunde.ch)
 
 #### § 33a
 
@@ -479,13 +460,9 @@ Tierart 1. Rothirsch, Steinbock, Schwarzwild 2. Gämse und Reh 3. Murmeltier und
 <sup>1</sup> Das Amt hat die Bewilligung für das Mitführen von Schweisshunden zu erteilen, wenn die Schweisshundeführerin oder der Schweisshundeführer:
 
 - 1\. als Jägerin oder Jäger im Kanton zum Bezug des Jagdpatents berechtigt ist oder bei der kantonalen Fachstelle Jagd und Fischerei angestellt ist;
-
-- 2\. einen gemäss dem Reglement für Schweissprüfungen<sup>6</sup> auf mindestens 500m Fährte geprüften Schweisshund führt;
-
+- 2\. einen gemäss dem Reglement für Schweissprüfungen[^33a-1] auf mindestens 500 m Fährte geprüften Schweisshund führt;
 - 3\. sich für Nachsuchen Dritter zur Verfügung stellt;
-
 - 4\. eine für die Jagd gültige Haftpflichtversicherung abgeschlossen hat; und
-
 - 5\. im laufenden Kalenderjahr und vor Hochjagdbeginn die Weiterbildung des Kantons für Nachsuchegespanne erfolgreich besucht hat.
 
 <sup>2</sup> Die Bewilligung ist persönlich und nicht übertragbar.
@@ -496,11 +473,13 @@ Tierart 1. Rothirsch, Steinbock, Schwarzwild 2. Gämse und Reh 3. Murmeltier und
 
 <sup>5</sup> Begeht die Schweisshundeführerin oder der Schweisshundeführer Widerhandlungen gegen die Jagd- oder Tierschutzgesetzgebung kann ihm das Amt die Bewilligung entziehen.
 
+[^33a-1]: [www.ag-jagdhunde.ch](https://www.ag-jagdhunde.ch)
+
 #### § 34
 
 **Abtransport von erlegtem Schalenwild mit Helikopter**
 
-Helikopter dürfen nur ausnahmsweise für den Abtransport von erlegtem Schalenwild eingesetzt werden. Vorgängig ist eine Bewilligung von der Wildhüterin, dem Wildhüter oder dem Amt einzuholen.
+<sup>1</sup> Helikopter dürfen nur ausnahmsweise für den Abtransport von erlegtem Schalenwild eingesetzt werden. Vorgängig ist eine Bewilligung von der Wildhüterin, dem Wildhüter oder dem Amt einzuholen.
 
 #### § 35
 
@@ -508,9 +487,8 @@ Helikopter dürfen nur ausnahmsweise für den Abtransport von erlegtem Schalenwi
 
 <sup>1</sup> Die jagdberechtigte Person darf mit Motorfahrzeugen auf Waldstrassen, die mit einem öffentlichrechtlichen Fahrverbot belegt sind, während folgenden Zeiten ins Jagdgebiet fahren oder sich fahren lassen:
 
-- 1\. Hoch-, Steinbock- und Niederjagd: 16.30 Uhr bis 09.00 Uhr
-
-- 2\. Winterjagd: 15.00 Uhr bis 09.00 Uhr Die übrige Zeit gilt als Sperrzeit.
+- 1\. Hoch , Steinbock- und Niederjagd: — 16.30 Uhr bis 09.00 Uhr
+- 2\. Winterjagd: — 15.00 Uhr bis 09.00 Uhr
 
 <sup>2</sup> Das Befahren von Strassen, die mit einem privatrechtlichen Fahrverbot belegt sind, ist nur gestattet, wenn eine Bewilligung der Strasseneigentümerin oder des Strasseneigentümers vorliegt.
 
@@ -524,13 +502,13 @@ Helikopter dürfen nur ausnahmsweise für den Abtransport von erlegtem Schalenwi
 
 <sup>7</sup> Zur Ausübung der gebotenen Nachsuche dürfen jagdberechtigte Personen sowie Schweisshundeführerinnen und Schweisshundeführer jederzeit ein Motorfahrzeug benützen. Nach Beendigung der Nachsuche dürfen Jagdberechtigte, Schweisshundeführerinnen und Schweisshundeführer mit dem Motorfahrzeug an ihren Ausgangsort zurückkehren und die Jagd weiterführen.
 
-<sup>8</sup> Jagdberechtigte haben während der Jagd das benützte Motorfahrzeug an der Frontscheibe deutlich sichtbar mit der Fahrbewilligung zu kennzeichnen.<sup>14</sup>
+<sup>8</sup> Jagdberechtigte haben während der Jagd das benützte Motorfahrzeug an der Frontscheibe deutlich sichtbar mit der Fahrbewilligung zu kennzeichnen.
 
 #### § 36
 
-**Schussabgabe aus Fahrzeugen und Booten zu Jagd-**
+**Schussabgabe aus Fahrzeugen und Booten zu Jagdzwecken**
 
-zwecken Die Schussabgabe aus fahrenden oder stehenden Motorfahrzeugen ist verboten. Aus stillstehenden Motorbooten, deren Leistung 6 kW nicht übersteigt, ist die Schussabgabe erlaubt.
+<sup>1</sup> Die Schussabgabe aus fahrenden oder stehenden Motorfahrzeugen ist verboten. Aus stillstehenden Motorbooten, deren Leistung 6 kW nicht übersteigt, ist die Schussabgabe erlaubt.
 
 #### § 37
 
@@ -540,7 +518,7 @@ zwecken Die Schussabgabe aus fahrenden oder stehenden Motorfahrzeugen ist verbot
 
 <sup>2</sup> Beim weiblichen Schalenwild müssen die Milchdrüsen bis zur Kontrolle unverändert belassen werden. Sie dürfen nicht aufgeschnitten, ausgemolken oder ausgedrückt werden. Wildtiere mit einem veränderten oder ausgedrückten Gesäuge gelten in jedem Fall als milchtragend die jagdberechtigte Person hat die in den Jagdbetriebsvorschriften festgesetzte Gebühr zu bezahlen.
 
-<sup>3</sup> Anerkennt die jagdberechtigte Person den Entscheid „milchtragend“ des Kontrollorgans nicht, kann sie eine histologische Untersuchung des Gesäuges verlangen. Die Sicherstellung des Gesäuges hat durch die Wildhüterin oder den Wildhüter zu erfolgen. Die damit verbundenen Verfahrenskosten der Untersuchung gehen zu Lasten der jagdberechtigten Person. Fällt die Untersuchung zu Gunsten der jagdberechtigten Person aus, trägt der Kanton diese Kosten.
+<sup>3</sup> Anerkennt die jagdberechtigte Person den Entscheid «milchtragend» des Kontrollorgans nicht, kann sie eine histologische Untersuchung des Gesäuges verlangen. Die Sicherstellung des Gesäuges hat durch die Wildhüterin oder den Wildhüter zu erfolgen. Die damit verbundenen Verfahrenskosten der Untersuchung gehen zu Lasten der jagdberechtigten Person. Fällt die Untersuchung zu Gunsten der jagdberechtigten Person aus, trägt der Kanton diese Kosten.
 
 <sup>4</sup> Beim Abschuss oder Auffinden markierter Wildtiere oder beringter Vögel sind die Marken, Halsbänder oder Ringe der Wildhüterin, dem Wildhüter oder dem Amt abzugeben.
 
@@ -548,7 +526,7 @@ zwecken Die Schussabgabe aus fahrenden oder stehenden Motorfahrzeugen ist verbot
 
 <sup>6</sup> Erlegtes Schalenwild geht erst endgültig in den Besitz der jagdberechtigten Person über, wenn sie im Besitz eines ordnungsgemäss ausgefüllten Abschuss-Kontrollscheines ist. Der Verkauf ohne Kontrollschein ist verboten.
 
-<sup>7</sup> Bei festgestellten Widerhandlungen gegen eidgenössische oder kantonale Jagdrechtsbestimmungen ist unter dem Vorbehalt des Ordnungsbussenverfahrens und des Verfahrens bei einem Irrtumsabschuss sofort die Wildhüterin oder der Wildhüter beizuziehen. .
+<sup>7</sup> Bei festgestellten Widerhandlungen gegen eidgenössische oder kantonale Jagdrechtsbestimmungen ist unter dem Vorbehalt des Ordnungsbussenverfahrens und des Verfahrens bei einem Irrtumsabschuss sofort die Wildhüterin oder der Wildhüter beizuziehen.
 
 <sup>8</sup> Lehnt die jagdberechtigte Person das Irrtumsabschussverfahren ab, oder bezahlt sie den entsprechenden Wertersatz nicht sofort, erfolgt eine Anzeige an die Strafbehörde.
 
@@ -570,9 +548,9 @@ zwecken Die Schussabgabe aus fahrenden oder stehenden Motorfahrzeugen ist verbot
 
 <sup>2</sup> Die jagdberechtigte Person ist verpflichtet, ihre vollständig ausgefüllte Abschusskontrolle sowie die ausgefüllten Kontrollkarten, die für den Bezug der Abschussprämie erforderlich sind, bis spätestens am 5. Februar beim Amt einzureichen, selbst wenn kein Abschuss getätigt worden ist. Die Kontrollunterlagen können zu Schalteröffnungszeiten beim Amt gegen Quittung abgegeben oder eingeschrieben per Post gesandt werden.
 
-<sup>3</sup> Wer die Abschusskontrolle nicht rechtzeitig abliefert und wer unvollständige oder falsche Angaben macht, hat eine Gebühr zu entrichten. Bei Widerhandlungen gegen § 9 Ziff. 2 werden der betreffenden Person für die folgende Jagdperiode keine Jagdpatente ausgestellt.<sup>19</sup>
+<sup>3</sup> Wer die Abschusskontrolle nicht rechtzeitig abliefert und wer unvollständige oder falsche Angaben macht, hat eine Gebühr zu entrichten. Bei Widerhandlungen gegen § 9 Ziff. 2 werden der betreffenden Person für die folgende Jagdperiode keine Jagdpatente ausgestellt.
 
-### IV. WILD- UND VOGELSCHUTZ
+## 4 Wild- und Vogelschutz
 
 #### § 40
 
@@ -588,16 +566,12 @@ zwecken Die Schussabgabe aus fahrenden oder stehenden Motorfahrzeugen ist verbot
 
 **Hegemassnahmen**
 
-Als Hegemassnahmen gelten:
+<sup>1</sup> Als Hegemassnahmen gelten:
 
 - 1\. die Anlage und der Unterhalt von Äsungsflächen;
-
 - 2\. die Neuanlage von Hecken, Feuchtbiotopen, Feldgehölzen und anderen natürlichen Lebensräumen;
-
 - 3\. das Bereitstellen von geeigneten Nisthilfen;
-
 - 4\. Aktionen zur Rehkitzrettung und zur Verhütung von Verkehrsunfällen durch Wildtiere;
-
 - 5\. weitere Massnahmen zur Erhaltung der Lebensräume und der Artenvielfalt.
 
 #### § 42
@@ -612,33 +586,31 @@ Als Hegemassnahmen gelten:
 
 **Wildschutzgebiete**
 
-Die Ausübung der Jagd ist in folgenden Gebieten verboten:
+<sup>1</sup> Die Ausübung der Jagd ist in folgenden Gebieten verboten:
 
-- 1\. Eidgenössischer Jagdbannbezirk Huetstock Grenzen: Von der Storegg (P. 1742) in gerader Richtung hinunter bis zur Kreuzung des Weges über den Luterseebach (Bachbett) und diesem entlang zur Engelbergeraa; der Engelbergeraa entlang aufwärts bis zur Einmündung des Trüebenbaches und der Kantonsgrenze folgend über Bitzistock (P. 1895), den Laubersgrat (P. 2449.9), Rotstöckli bis zum Jochstock (P. 2563.5) und hinunter zum Jochpass (P. 2209.2). In nordwestlicher Richtung der Kantonsgrenze folgend bis zu der Storegg (P. 1742).
+- 1\. Eidgenössischer Jagdbannbezirk Huetstock
+  - a) Grenzen: Von der Storegg (P. 1742) in gerader Richtung hinunter bis zur Kreuzung des Weges über den Luterseebach (Bachbett) und diesem entlang zur Engelbergeraa; der Engelbergeraa entlang aufwärts bis zur Einmündung des Trüebenbaches und der Kantonsgrenze folgend über Bitzistock (P. 1895), den Laubersgrat (P. 2449.9), Rotstöckli bis zum Jochstock (P. 2563.5) und hinunter zum Jochpass (P. 2209.2). In nordwestlicher Richtung der Kantonsgrenze folgend bis zu der Storegg (P. 1742).
+- 2\. Naturschutzreservat Stansstader-Ried
+  - a) Grenzen: Die Riedparzelle, beginnend an der Südgrenze der Parzelle Nr. 371 und von deren südöstlichen Grenzecke zur nordwestlichen Grenzecke des Riedes der Schulgemeinde Stansstad (Parzelle Nr. 131), von da der Grenze des Schulriedes entlang bis zum Rotzbach und diesem entlang bis zur Einmündung in den See sowie 200 m hinaus in das vorgelagerte Seegelände.
+- 3\. Wildasyl Schwalmis-Brisen
+  - a) Grenzen: Von Schwalmisplanggen (P. 2195.3), Schwalmis (P. 2246.0), Vorder Jochli (P. 2002), Jochlistock (P. 2069.8), Gandispitz (P. 1996.2) bis zum Zingel (P. 1901) und von dort in westlicher Richtung dem äussersten Fluhrand entlang bis zum Einschnitt des Gäntiweges. Dem ordentlichen Fussweg folgend über den Gross Platten-Graben und dem Fussweg entlang bis zur Fusswegkreuzung (P. 1261), dem Wildbeobachtungspfad entlang über die Siten zum Aengibach. Dem Aengibach entlang aufwärts bis zur Wasserscheide Stafel (P. 1532) und von dort gradlinig bergwärts bis zum (P. 1819) dem Fluhrand entlang zum Ausgangspunkt Schwalmisplanggen (P. 2195.3).
+- 4\. Gnappiried Stans
+  - a) Naturschutzzone, Randzone und Zone für militärische Ausbildung gemäss Plan im Anhang der Verordnung über den Schutz des Gnappiriedes in der Gemeinde Stans[^43-1].
 
-- 2\. Naturschutzreservat Stansstader-Ried Grenzen: Die Riedparzelle, beginnend an der Südgrenze der Parzelle Nr. 371 und von deren südöstlichen Grenzecke zur nordwestlichen Grenzecke des Riedes der Schulgemeinde Stansstad (Parzelle Nr. 131), von da der Grenze des Schulriedes entlang bis zum Rotzbach und diesem entlang bis zur Einmündung in den See sowie 200 m hinaus in das vorgelagerte Seegelände.
+[^43-1]: NG 332.12
 
-3.<sup>13</sup> Wildasyl Schwalmis-Brisen Grenzen: Von Schwalmisplanggen (P. 2195.3), Schwalmis (P. 2246.0), Vorder Jochli (P. 2002), Jochlistock (P. 2069.8), Gandispitz (P. 1996.2) bis zum Zingel (P. 1901) und von dort in westlicher Richtung dem äussersten Fluhrand entlang bis zum Einschnitt des Gäntiweges. Dem ordentlichen Fussweg folgend über den Gross Platten-Graben und dem Fussweg entlang bis zur Fusswegkreuzung (P. 1261), dem Wildbeobachtungspfad entlang über die Siten zum Aengibach. Dem Aengibach entlang aufwärts bis zur Wasserscheide Stafel (P. 1532) und von dort gradlinig bergwärts bis zum (P. 1819) dem Fluhrand entlang zum Ausgangspunkt Schwalmisplanggen (P. 2195.3).
+#### § 44
 
-**4.**
+**Einschränkung der Wasserwildjagd**
 
-Gnappiried Stans Naturschutzzone, Randzone und Zone für militärische Ausbildung gemäss Plan im Anhang der Verordnung über den Schutz des Gnappiriedes in der Gemeinde Stans<sup>7</sup>.
+<sup>1</sup> Die Ausübung der Wasserwildjagd ist in den folgenden Gebieten verboten:
 
-**§ 44**
-
-### Einschränkung der Wasserwildjagd
-
-**ten: 1.**
-
-Die Ausübung der Wasserwildjagd ist in den folgenden Gebieten verbo-
-
-im Raum Stansstad-Stans-Ennetmoos-Hergiswil Grenzen: Vom Zingelsteinbruch an der Kehrsitenstrasse in Stansstad dem Fusse des Bürgenberges entlang südlich bis an die Liegenschaft Oberst Mühle in Stans. Von dort dem Bürgenberg entlang östlich bis zur Brücke über den Bach bei der Risismühle, von da der Strasse entlang südwestlich bis zur Liegenschaft Elektro-Bachmann in der Spichermatt, von dort in gerader Linie zum Rotzwinkel und dann der Rotzlochstrasse folgend bis zum Beginn des Hinterbergwaldes hinter den Bauten der im Rotzloch ansässigen Firmen. Vom Beginn des Hinterbergwaldes in gerader Linie über den See zum Hellegg und dann der Kantonsstrasse entlang über Hergiswil bis zur Kantonsgrenze Nidwalden/Luzern. Von dort dem Friedbach entlang bis zur Mündung in den See und dann in gerader Linie zum Ausgangspunkt in Stansstad, Zingelsteinbruch, zurück;
-
-**2.**
-
-im Raum Kehrsiten Grenzen: In Hüttenort vom Seeufer senkrecht aufwärts bis zur Kantonsstrasse vor dem Gasthaus Hüttenort und dann der Strasse entlang über Kehrsiten bis zur Station Kehrsiten-Bürgenstock. Von dort hinunter zum Seeufer und von da 200 m senkrecht zum Ufer in den See hinaus und dann in einem Abstand von 200 m der Uferlinie folgend wieder zurück bis nach Hüttenort;
-
-- 3\. im Raum Ennetbürgen-Buochs-Beckenried Grenzen: Von der Buochlikapelle in Ennetbürgen der Buochli- und Bürgenstockstrasse entlang bis zur Liegenschaft Bitzi und von dort dem Bergfuss entlang bis zum Zeigerstand Herdern. Vom Zeigerstand Herdern in gerader Linie zur Fadenbrücke und dann der Kantonsstrasse entlang über Buochs bis zum Anschlusswerk der Autobahn; von dort der Ridlistrasse folgend zum Träschlibach und dann diesem Bach entlang bis hinunter zur Kantonsstrasse. Von da der Kantonsstrasse folgend durch Beckenried bis zum Beginn der Strasse nach Emmetten und der Rütenenstrasse, inklusive Bootshafen Rütenen-Seeli, entlang bis zum Anfang der Erholungsanlage Rütenen und von dort in gerader Linie über den See bis zur Buochlikapelle in Ennetbürgen.
+- 1\. im Raum Stansstad-Stans-Ennetmoos-Hergiswil
+  - a) Grenzen: Vom Zingelsteinbruch an der Kehrsitenstrasse in Stansstad dem Fusse des Bürgenberges entlang südlich bis an die Liegenschaft Oberst Mühle in Stans. Von dort dem Bürgenberg entlang östlich bis zur Brücke über den Bach bei der Risismühle, von da der Strasse entlang südwestlich bis zur Liegenschaft Elektro-Bachmann in der Spichermatt, von dort in gerader Linie zum Rotzwinkel und dann der Rotzlochstrasse folgend bis zum Beginn des Hinterbergwaldes hinter den Bauten der im Rotzloch ansässigen Firmen. Vom Beginn des Hinterbergwaldes in gerader Linie über den See zum Hellegg und dann der Kantonsstrasse entlang über Hergiswil bis zur Kantonsgrenze Nidwalden / Luzern. Von dort dem Friedbach entlang bis zur Mündung in den See und dann in gerader Linie zum Ausgangspunkt in Stansstad, Zingelsteinbruch, zurück;
+- 2\. im Raum Kehrsiten
+  - a) Grenzen: In Hüttenort vom Seeufer senkrecht aufwärts bis zur Kantonsstrasse vor dem Gasthaus Hüttenort und dann der Strasse entlang über Kehrsiten bis zur Station Kehrsiten-Bürgenstock. Von dort hinunter zum Seeufer und von da 200 m senkrecht zum Ufer in den See hinaus und dann in einem Abstand von 200 m der Uferlinie folgend wieder zurück bis nach Hüttenort;
+- 3\. im Raum Ennetbürgen-Buochs-Beckenried
+  - a) Grenzen: Von der Buochlikapelle in Ennetbürgen der Buochli- und Bürgenstockstrasse entlang bis zur Liegenschaft Bitzi und von dort dem Bergfuss entlang bis zum Zeigerstand Herdern. Vom Zeigerstand Herdern in gerader Linie zur Fadenbrücke und dann der Kantonsstrasse entlang über Buochs bis zum Anschlusswerk der Autobahn; von dort der Ridlistrasse folgend zum Träschlibach und dann diesem Bach entlang bis hinunter zur Kantonsstrasse. Von da der Kantonsstrasse folgend durch Beckenried bis zum Beginn der Strasse nach Emmetten und der Rütenenstrasse, inklusive Bootshafen Rütenen-Seeli, entlang bis zum Anfang der Erholungsanlage Rütenen und von dort in gerader Linie über den See bis zur Buochlikapelle in Ennetbürgen.
 
 #### § 45
 
@@ -652,21 +624,20 @@ im Raum Kehrsiten Grenzen: In Hüttenort vom Seeufer senkrecht aufwärts bis zur
 
 **Verwilderte Hauskatzen**
 
-Verwilderte Hauskatzen, die im Wald angetroffen werden oder die sich in einer Entfernung von mehr als 300 Metern vom nächsten bewohnten Haus oder belegten Stall aufhalten, dürfen während der Nieder- und Winterjagd von den Jagdausübenden erlegt werden.
+<sup>1</sup> Verwilderte Hauskatzen, die im Wald angetroffen werden oder die sich in einer Entfernung von mehr als 300 Metern vom nächsten bewohnten Haus oder belegten Stall aufhalten, dürfen während der Nieder- und Winterjagd von den Jagdausübenden erlegt werden.
 
 #### § 47
 
 **Bewilligung für Wildtierhaltung, Handel und Werbung**
 
-Die Kantonstierärztin oder der Kantonstierarzt entscheidet im Einvernehmen mit dem Amt, soweit es sich um einheimische oder europäische jagdbare und geschützte Tiere handelt, über die Bewilligung:
+<sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt entscheidet im Einvernehmen mit dem Amt, soweit es sich um einheimische oder europäische jagdbare und geschützte Tiere handelt, über die Bewilligung:
 
 - 1\. für gewerbsmässige und private Tierhaltungen;
-
 - 2\. für den Handel und die Werbung.
 
 #### § 47a
 
-**Bewilligung für Fotofallen<sup>14</sup>**
+**Bewilligung für Fotofallen**
 
 <sup>1</sup> Das Aufstellen von Fotofallen ist bewilligungspflichtig.
 
@@ -676,7 +647,7 @@ Die Kantonstierärztin oder der Kantonstierarzt entscheidet im Einvernehmen mit 
 
 **Auskunftspflicht**
 
-Wer im Besitze von Wild, Wildtrophäen oder Wildbret ist, solches verkauft oder als Präparatorin oder Präparator entgegengenommen hat, ist verpflichtet, den zuständigen Behörden wahrheitsgetreu Auskunft über die Herkunft zu erteilen.
+<sup>1</sup> Wer im Besitze von Wild, Wildtrophäen oder Wildbret ist, solches verkauft oder als Präparatorin oder Präparator entgegengenommen hat, ist verpflichtet, den zuständigen Behörden wahrheitsgetreu Auskunft über die Herkunft zu erteilen.
 
 #### § 49
 
@@ -686,55 +657,46 @@ Wer im Besitze von Wild, Wildtrophäen oder Wildbret ist, solches verkauft oder 
 
 <sup>2</sup> Erkranken mehrere Tiere, gehen mehrere Tiere ein oder liegt der Verdacht auf eine seuchenartige Erkrankung vor, ist die Kantonstierärztin oder der Kantonstierarzt zu benachrichtigen.
 
-### V. ORGANISATION
+## 5 Organisation
 
 #### § 50
 
 **Regierungsrat**
 
-Der Regierungsrat ist insbesondere zuständig für:
+<sup>1</sup> Der Regierungsrat ist insbesondere zuständig für:
 
 - 1\. den Erlass der jährlichen Jagdbetriebsvorschriften;
-
-- 2\. die Verlängerung der Schonzeiten und die Einschränkung der Liste der jagdbaren Tierarten (Art. 5 Abs. 4 des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel [Jagdgesetz, JSG])<sup>4</sup>;
-
+- 2\. die Verlängerung der Schonzeiten und die Einschränkung der Liste der jagdbaren Tierarten (Art. 5 Abs. 4 des Bundesgesetzes über die Jagd und den Schutz wildlebender Säugetiere und Vögel [Jagdgesetz, JSG])[^50-1];
 - 3\. die vorübergehende Verkürzung der Schonzeiten mit vorheriger Zustimmung des Eidgenössischen Departements des Innern (Art. 5 Abs. 5 JSG);
-
 - 4\. die Festsetzung der Gebühren für Spezialbewilligungen;
-
 - 5\. die Bewilligung zum Aussetzen von Tieren jagdbarer Arten (Art. 6 JSG);
-
 - 6\. die Bewilligung des Abschusses geschützter Tiere (Art. 7 Abs. 2 und Art. 12 Abs. 4 JSG);
-
-- 7\. die Bewilligung befristeter Massnahmen zur Regulierung geschützter Tierarten (Art. 4 der Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel [Jagdverordnung, JSV])<sup>5</sup>;
-
+- 7\. die Bewilligung befristeter Massnahmen zur Regulierung geschützter Tierarten (Art. 4 der Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel [Jagdverordnung, JSV])[^50-2];
 - 8\. die Bewilligung des Abschusses jagdbarer Tiere in Jagdbanngebieten und Wildschutzgebieten (Art. 11 Abs. 5 JSG);
-
 - 9\. die Anordnung von Massnahmen zur Verhütung und Bekämpfung von Wildtierkrankheiten in Zusammenarbeit mit der Kantonstierärztin oder dem Kantonstierarzt;
-
 - 10\. die Überbindung von Pflichtabschüssen an Patentinhaberinnen und Patentinhaber zur Reduktion von Raubwild und Raubzeug;
-
 - 11\. das Verbot der Jagd aus wichtigen Gründen.
+
+[^50-1]: SR 922.0
+[^50-2]: SR 922.01
 
 #### § 51
 
 **Direktion**
 
-Die Direktion ist insbesondere zuständig für:
+<sup>1</sup> Die Direktion ist insbesondere zuständig für:
 
 - 1\. Massnahmen gegen die Ausbreitung und Vermehrung von Tieren, die nicht zur einheimischen Artenvielfalt gehören oder die grosse Schäden verursachen;
-
-- 2\. Erteilung von Ausnahmebewilligungen gemäss Art. 3 JSV<sup>5</sup>;
-
+- 2\. Erteilung von Ausnahmebewilligungen gemäss Art. 3 JSV[^51-1];
 - 3\. Anordnung des Abschusses oder Einfangens schadenstiftender Tiere.
+
+[^51-1]: SR 922.01
 
 #### § 52
 
-**Jagdkommission**
+**Jagdkommission 1. Zusammensetzung**
 
-### 1. Zusammensetzung
-
-Die Vorsteherin oder der Vorsteher der Direktion gehört der Jagdkommission von Amtes wegen als Präsidentin oder Präsident an. Das Amt für Wald und Energie, die Landwirtschaft, der Patentjägerverein Nidwalden und die Fachstelle für Natur- und Landschaftsschutz haben je einen Sitz. Die Wahl der übrigen Mitglieder erfolgt unter angemessener Berücksichtigung der betroffenen Interessen.
+<sup>1</sup> Die Vorsteherin oder der Vorsteher der Direktion gehört der Jagdkommission von Amtes wegen als Präsidentin oder Präsident an. Das Amt für Wald und Energie, die Landwirtschaft, der Patentjägerverein Nidwalden und die Fachstelle für Natur- und Landschaftsschutz haben je einen Sitz. Die Wahl der übrigen Mitglieder erfolgt unter angemessener Berücksichtigung der betroffenen Interessen.
 
 #### § 53
 
@@ -748,53 +710,33 @@ Die Vorsteherin oder der Vorsteher der Direktion gehört der Jagdkommission von 
 
 **Amt**
 
-<sup>1</sup> Das Amt ist die Fachinstanz für die Jagd und den Wildschutz. Es ist insbesondere zuständig für<sup>14</sup>:
+<sup>1</sup> Das Amt ist die Fachinstanz für die Jagd und den Wildschutz. Es ist insbesondere zuständig für:
 
 - 1\. Erteilung und vorläufigen Entzug eines Jagdpatentes oder einer Spezialbewilligung sowie für den administrativen Ausschluss von der Jagd im Rahmen der Jagdgesetzgebung;
-
 - 2\. Mitberichte, Stellungnahmen und Vernehmlassungen im Zusammenhang mit Bauprojekten, welche den Lebensraum des Wildes betreffen;
-
 - 3\. Vernehmlassungen zu Jagd und Wild im Allgemeinen;
-
 - 4\. Stellungnahmen im Rahmen von Umweltverträglichkeitsprüfungen;
-
 - 5\. Beantragung von Massnahmen betreffend den Schutz des Lebensraumes wildlebender Tiere und zur Erhaltung der Artenvielfalt;
-
 - 6\. Erstellen und Auswerten der Jagdstatistik;
-
 - 7\. Vorarbeiten für die Jagdplanung;
-
 - 8\. Einreichung der jährlichen Abschussplanung für die Steinböcke beim Eidgenössischen Departement des Innern zur Genehmigung (Art. 7 Abs. 3 JSG) sowie die Erfolgskontrolle (Art. 4 Abs. 3 JSV);
-
 - 9\. jährliche Meldung an das Bundesamt für Umwelt gemäss Art. 16 JSV;
-
 - 10\. Ermächtigung besonders ausgebildeter Mitglieder der Wildschutzorgane zur Verwendung von verbotenen Hilfsmitteln sowie die Führung der Liste der Personen mit solchen Ausnahmebewilligungen (Art. 3 JSV);
-
 - 11\. Registrierung von Personen, die Tiere geschützter Arten präparieren wollen (Art. 5 Abs. 2 JSV);
-
 - 12\. Registrierung von Präparaten geschützter Tierarten (Art. 5 Abs. 3 JSV);
-
 - 13\. Erteilung von Ausnahmebewilligungen für den Handel mit alten, restaurierten Präparaten (Art. 5 JSV);
-
 - 14\. Erteilung der Bewilligung zur Markierung und genetischen Untersuchung jagdbarer Säugetiere und Vögel (Art. 13 Abs. 1 JSV);
-
 - 15\. Geltendmachung von Schadenersatzansprüchen bei Jagddelikten;
-
 - 16\. Anordnung von Massnahmen zur Förderung des Schweisshundewesens;
-
 - 17\. Erteilung und Widerruf der Spezialbewilligung als Schweisshundeführerin oder Schweisshundeführer;
-
-- 18\. Bewilligung zum Mitführen einer Jagdwaffe während des Nachsucheeinsatzes.
-
-19.<sup>14</sup>Erlass von Richtlinien zur Führung eines Schweisshundes.
+- 18\. Bewilligung zum Mitführen einer Jagdwaffe während des Nachsucheeinsatzes;
+- 19\. Erlass von Richtlinien zur Führung eines Schweisshundes.
 
 <sup>2</sup> Der Regierungsrat und die zuständige Direktion können dem Amt weitere Aufgaben übertragen.
 
 #### § 55
 
-**Wildschutzorgane**
-
-### 1. Allgemeines
+**Wildschutzorgane 1. Allgemeines**
 
 <sup>1</sup> Die Wildschutzorgane haben Widerhandlungen gegen eidgenössisches oder kantonales Jagdrecht sowie Verstösse gegen die Naturschutzgesetzgebung bei der Strafbehörde anzuzeigen; § 58 bleibt vorbehalten.
 
@@ -810,7 +752,7 @@ Die Vorsteherin oder der Vorsteher der Direktion gehört der Jagdkommission von 
 
 <sup>3</sup> Wild, das durch die Wildhüterinnen oder die Wildhüter erlegt wird, ist zugunsten des Kantons zu verwerten.
 
-### VI. BEFUGNISSE DER WILDSCHUTZORGANE
+## 6 Befugnisse der Wildschutzorgane
 
 #### § 57
 
@@ -819,18 +761,15 @@ Die Vorsteherin oder der Vorsteher der Direktion gehört der Jagdkommission von 
 <sup>1</sup> Die Wildschutzorgane haben ohne Rücksicht auf die Strafbarkeit einer Person sicherzustellen:
 
 - 1\. widerrechtlich eingefangene, gefangen gehaltene, behändigte, erlegte, feilgebotene, veräusserte und transportierte Wildtiere;
-
 - 2\. auf der Jagd mitgeführte verbotene Waffen, Fallen und Hilfsmittel sowie Gegenstände wie Waffen, Fallen und Hilfsmittel, mit denen strafbare Handlungen begangen worden sind oder die als Beweismittel dienen können.
 
 <sup>2</sup> Im Strafverfahren entscheidet die Richterin oder der Richter über die Einziehung und die weitere Verwendung dieser Gegenstände. Wird kein Strafverfahren eingeleitet, entscheidet das Amt.
 
 #### § 58
 
-**Ordnungsbussenverfahren**
+**Ordnungsbussenverfahren 1. Grundsätze**
 
-### 1. Grundsätze
-
-<sup>1</sup> Übertretungen der kantonalen Jagdgesetzgebung können im Ordnungsbussenverfahren geahndet werden, sofern die Voraussetzungen gemäss Art. 43 kJSG[^h1Grundsätze-1] erfüllt sind.
+<sup>1</sup> Übertretungen der kantonalen Jagdgesetzgebung können im Ordnungsbussenverfahren geahndet werden, sofern die Voraussetzungen gemäss Art. 43 kJSG[^58-1] erfüllt sind.
 
 <sup>2</sup> Bei Fehlabschüssen ist das Ordnungsbussenverfahren nur anwendbar, wenn die jagdberechtigte Person die Jagd sofort abgebrochen und unverzüglich die Wildhüterin oder den Wildhüter benachrichtigt hat.
 
@@ -838,7 +777,7 @@ Die Vorsteherin oder der Vorsteher der Direktion gehört der Jagdkommission von 
 
 <sup>4</sup> Betrifft die Ordnungsbusse den Tatbestand der widerrechtlichen Erlegung eines Wildes, ist der Wertersatz gemäss Anhang 1 gleichzeitig festzulegen.
 
-[^h1Grundsätze-1]: NG 841.1
+[^58-1]: NG 841.1
 
 #### § 59
 
@@ -860,7 +799,7 @@ Die Vorsteherin oder der Vorsteher der Direktion gehört der Jagdkommission von 
 
 **4. Registrierung**
 
-Ordnungsbussen gemäss Anhang 1 Ziff. 3, 5-12 sowie 15-18 werden gestützt auf Art. 46 kJSG[^61-1] registriert.
+<sup>1</sup> Ordnungsbussen gemäss Anhang 1 Ziff. 3, 5–12 sowie 15–18 werden gestützt auf Art. 46 kJSG[^61-1] registriert.
 
 [^61-1]: NG 841.1
 
@@ -868,7 +807,7 @@ Ordnungsbussen gemäss Anhang 1 Ziff. 3, 5-12 sowie 15-18 werden gestützt auf A
 
 **5. Weisungen**
 
-Das Amt erlässt die für die Durchführung des Ordnungsbussenverfahrens erforderlichen Weisungen.
+<sup>1</sup> Das Amt erlässt die für die Durchführung des Ordnungsbussenverfahrens erforderlichen Weisungen.
 
 #### § 63
 
@@ -878,13 +817,13 @@ Das Amt erlässt die für die Durchführung des Ordnungsbussenverfahrens erforde
 
 <sup>2</sup> Der Wertersatz richtet sich nach dem Anhang 2.
 
-### VII. SCHLUSSBESTIMMUNGEN
+## 7 Schlussbestimmungen
 
 #### § 64
 
 **Aufhebung bisherigen Rechts**
 
-Das Dienstreglement vom 2. November 1964 für die Wildhüter[^64-1], das Reglement vom 5. April 1993 über die Kontrolle der Jagdwaffen[^64-2] und das Reglement vom 5. April 1993 über die Abschusskontrolle und die Abschussstatistik[^64-3] werden aufgehoben.
+<sup>1</sup> Das Dienstreglement vom 2. November 1964 für die Wildhüter[^64-1], das Reglement vom 5. April 1993 über die Kontrolle der Jagdwaffen[^64-2] und das Reglement vom 5. April 1993 über die Abschusskontrolle und die Abschussstatistik[^64-3] werden aufgehoben.
 
 [^64-1]: NG 841.111
 [^64-2]: NG 841.113
@@ -894,76 +833,72 @@ Das Dienstreglement vom 2. November 1964 für die Wildhüter[^64-1], das Regleme
 
 **Inkrafttreten**
 
-Diese Vollzugsverordnung tritt unter dem Vorbehalt der Genehmigung des Bundes auf den 15. Juni 2008 in Kraft.
+<sup>1</sup> Diese Vollzugsverordnung tritt unter dem Vorbehalt der Genehmigung des Bundes[^65-1] auf den 15. Juni 2008 in Kraft.
 
-### Anhang 1
+[^65-1]: Vom Bund genehmigt am 14. Juli 2008
 
-### Ordnungsbussen und Wertersatz
+## A1 Anhang 1: Ordnungsbussen und Wertersatz
 
-**Ordnungs- Wertersatz**
+#### § A1-1
 
-**je kg**
+<sup>1</sup> Ordnungsbussen und Wertersatz:
 
-Nr. Übertretung busse 1[^hOrdnungsbussenundW-1] … 2 Fehlender ordnungsgemässer Eintrag des Datums auf der Gästekarte (§ 17 Abs. 2) 3 Fehlender Nachweis des Einschiessens Fr. 200.– der Jagdwaffe oder unvollständig ausgefüllter Schiessnachweis (Art. 9 Abs. 1 Ziff. 4 kJSG[^hOrdnungsbussenundW-2] 4 Fehlende Kennzeichnung einer Kasten- Fr. 50.– falle (§ 28 Abs. 3) 5 Abtransport von erlegtem Schalenwild mit Helikopter ohne Bewilligung (§ 34) 6 Abschuss eines markierten Rothirsches Fr. 300.– Fr. 12.– (§ 6 Abs. 3) 7 Abschuss eines markierten Rehes oder Fr. 300.– Fr. 12.– einer Gämse (§ 6 Abs. 3) 8 Benützung eines Funkgerätes oder Mo- Fr. 100.– biltelefons für die Jagdausübung (§ 30 Ziff. 3) 9 Abschuss eines Hirsches oder Hirschspiessers der falschen Kategorie 10 Abschuss einer Hirschkuh, eines Schmaltiers, eines Hirschkalbes oder eines Wildkalbes der falschen Kategorie 11 Abschuss einer Gämse oder eines Rehs der falschen Kategorie 12 Abschuss eines Gämskitzes oder Reh- Fr. 100.– Fr. 11.– kitzes der falschen Kategorie 13 Abschuss eines Dachses 14 Abschuss eines Feld- oder Schneehasen
+<table>
+<tr><th>Nr.</th><th>Übertretung</th><th>Ordnungsbusse</th><th>Wertersatz je kg</th></tr>
+<tr><td>2</td><td>Fehlender ordnungsgemässer Eintrag des Datums auf der Gästekarte (§ 17 Abs. 2)</td><td>Fr. 100.–</td><td></td></tr>
+<tr><td>3</td><td>Fehlender Nachweis des Einschiessens der Jagdwaffe oder unvollständig ausgefüllter Schiessnachweis (Art. 9 Abs. 1 Ziff. 4 kJSG[^A11-1])</td><td>Fr. 200.–</td><td></td></tr>
+<tr><td>4</td><td>Fehlende Kennzeichnung einer Kastenfalle (§ 28 Abs. 3)</td><td>Fr. 50.–</td><td></td></tr>
+<tr><td>5</td><td>Abtransport von erlegtem Schalenwild mit Helikopter ohne Bewilligung (§ 34)</td><td>Fr. 300.–</td><td></td></tr>
+<tr><td>6</td><td>Abschuss eines markierten Rothirsches (§ 6 Abs. 3)</td><td>Fr. 300.–</td><td>Fr. 12.–</td></tr>
+<tr><td>7</td><td>Abschuss eines markierten Rehes oder einer Gämse (§ 6 Abs. 3)</td><td>Fr. 300.–</td><td>Fr. 12.–</td></tr>
+<tr><td>8</td><td>Benützung eines Funkgerätes oder Mobiltelefons für die Jagdausübung (§ 30 Ziff. 3)</td><td>Fr. 100.–</td><td></td></tr>
+<tr><td>9</td><td>Abschuss eines Hirsches oder Hirschspiessers der falschen Kategorie</td><td>Fr. 300.–</td><td>Fr. 12.–</td></tr>
+<tr><td>10</td><td>Abschuss einer Hirschkuh, eines Schmaltiers, eines Hirschkalbes oder eines Wildkalbes der falschen Kategorie</td><td>Fr. 200.–</td><td>Fr. 12.–</td></tr>
+<tr><td>11</td><td>Abschuss einer Gämse oder eines Rehs der falschen Kategorie</td><td>Fr. 200.–</td><td>Fr. 12.–</td></tr>
+<tr><td>12</td><td>Abschuss eines Gämskitzes oder Rehkitzes der falschen Kategorie</td><td>Fr. 100.–</td><td>Fr. 11.–</td></tr>
+<tr><td>13</td><td>Abschuss eines Dachses</td><td>Fr. 80.–</td><td>Fr. 2.–</td></tr>
+<tr><td>14</td><td>Abschuss eines Feld- oder Schneehasen</td><td>Fr. 80.–</td><td>Fr. 2.–</td></tr>
+<tr><td>15</td><td>Nichteinhalten der Sperrzeiten für Motorfahrzeuge durch die Fahrzeuglenkerin oder den Fahrzeuglenker (§ 35 Abs. 1)</td><td>Fr. 100.–</td><td></td></tr>
+<tr><td>16</td><td>Sich Führenlassen während der Sperrzeiten mit einem Motorfahrzeug zur Jagdausübung (§ 35 Abs. 1)</td><td>Fr. 100.–</td><td></td></tr>
+<tr><td>17</td><td>Wiederaufnahme der Jagd nach Gebrauch eines Motorfahrzeuges während der Sperrzeit (§ 35 Abs. 4)</td><td>Fr. 100.–</td><td></td></tr>
+<tr><td>18</td><td>Verspätetes Vorweisen eines Schalenwildes auf einer Kontrollstelle (Art. 24 Abs. 3 kJSG)</td><td>Fr. 100.–</td><td></td></tr>
+</table>
 
-**Fr. 100.–**
+[^A11-1]: NG 841.1
 
-**Fr. 300.–**
+## A2 Anhang 2: Wertersatz
 
-**Fr. 300.– Fr. 12.–**
+#### § A2-1
 
-**Fr. 200.– Fr. 12.–**
+<sup>1</sup> Wertersatz:
 
-**Fr. 200.– Fr. 12.–**
+- 1\. Auerhuhn: — Fr. 5'000.–
+- 2\. Bartgeier: — Fr. 5'000.–
+- 3\. Birkhuhn: — Fr. 500.–
+- 4\. Dachs: — Fr. 200.–
+- 5\. Falkenarten:
+  - a) Baumfalke: — Fr. 2000.–
+  - b) Turmfalke: — Fr. 500.–
+  - c) Wanderfalke: — Fr. 2000.–
+- 6\. Gämse: — Fr. 600.–
+- 7\. Habicht: — Fr. 500.–
+- 8\. Braunbär: — Fr. 10'000.–
+- 9\. Hase: — Fr. 200.–
+- 10\. Haselhuhn: — Fr. 500.–
+- 11\. Iltis: — Fr. 500.–
+- 12\. Luchs: — Fr. 3000.–
+- 13\. Murmeltier: — Fr. 200.–
+- 14\. Reh: — Fr. 500.–
+- 15\. Rothirsch: — Fr. 2'000.–
+- 16\. Schneehuhn: — Fr. 500.–
+- 17\. Sperber: — Fr. 500.–
+- 18\. Steinadler: — Fr. 3000.–
+- 19\. Steinhuhn: — Fr. 200.–
+- 20\. Steinbock: — Fr. 3'000.–
+- 21\. Uhu: — Fr. 2'000.–
+- 22\. andere Eulen und Käuze: — Fr. 500.–
+- 23\. übrige jagdbare Säugetiere und Vögel: — Fr. 200.–
+- 24\. übrige geschützte Säugetiere und Vögel: — Fr. 500.–
+- 25 Wolf: — Fr. 5'000.–
 
-**Fr. 80.– Fr. 2.– Fr. 80.– Fr. 2.–**
-
-**27**
-
-Stand: 15. Januar 2020
-
-**Fr. 100.–**
-
-15 Nichteinhalten der Sperrzeiten für Motorfahrzeuge durch die Fahrzeuglenkerin oder den Fahrzeuglenker (§ 35 Abs. 1) 16 Sich Führenlassen während der Sperr- Fr. 100.– zeiten mit einem Motorfahrzeug zur Jagdausübung (§ 35 Abs. 1) 17 Wiederaufnahme der Jagd nach Gebrauch eines Motorfahrzeuges während der Sperrzeit (§ 35 Abs. 4) 18 Verspätetes Vorweisen eines Schalen- Fr. 100.– wildes auf einer Kontrollstelle (Art. 24 Abs. 3 kJSG)
-
-[^hOrdnungsbussenundW-1]: Fassung gemäss Regierungsratsbeschluss vom 17. Dezember 2019, A 2020, 12; in Kraft seit 1. Januar 2020
-[^hOrdnungsbussenundW-2]: NG 814.11
-
-### Anhang 2
-
-### Wertersatz
-
-**Fr. 100.–**
-
-**Fr. 5000.– Fr. 5000.– Fr. 500.– Fr. 200.–**
-
-### Auerhuhn Bartgeier Birkhuhn Dachs
-
-Falkenarten:
-
-**Fr. 2000.– Fr. 500.– Fr. 2000.– Fr. 600.– Fr. 500.– Fr. 10000.– Fr. 200.– Fr. 500.– Fr. 500.– Fr. 3000.– Fr. 200.– Fr. 500.– Fr. 2000.– Fr. 500.– Fr. 500.– Fr. 3000.– Fr. 200.– Fr. 3000.– Fr. 2000.– Fr. 500.– Fr. 200.– Fr. 500.– Fr. 5000.–**
-
-### Baumfalke Turmfalke Wanderfalke Gämse Habicht Braunbär Hase Haselhuhn Iltis Luchs Murmeltier Reh Rothirsch Schneehuhn Sperber Steinadler Steinhuhn Steinbock Uhu
-
-andere Eulen und Käuze übrige jagdbare Säugetiere und Vögel übrige geschützte Säugetiere und Vögel
-
-### Wolf
-
-**29**
-
-Stand: 1. September 2013
-
-## Weitere Fussnoten
-
-- [1] A 2008, 1141; vom Bund genehmigt am 14. Juli 2008
-- [3] NG 921.1
-- [4] SR 922.0
-- [5] SR 922.01
-- [6] www.ag-jagdhunde.ch
-- [7] NG 332.12
-- [11] Fassung gemäss Regierungsratsbeschluss vom 7. Juli 2009, A 2009, 1293, 1330
-- [12] NG 841.15
-- [13] Fassung gemäss Regierungsratsbeschluss vom 22. Januar 2013, A 2013, 207; in Kraft seit 1. Juni 2013
-- [14] Fassung gemäss Regierungsratsbeschluss vom 20. August 2013, A 2013, 1380; in Kraft seit 1. September 2013
-- [15] SR 455.1
-- [16] Fassung gemäss Regierungsratsbeschluss vom 12. Dezember 2017, A 2018, 16; in Kraft seit 1. März 2018
+A 2008, 1141
