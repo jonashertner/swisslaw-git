@@ -3,20 +3,20 @@ canton: SG
 number: "331.42"
 title: Regierungsbeschluss über die Spitalliste Psychiatrie
 language: de
-version: 2020-07-01
-valid_until: 2022-03-31
-version_adopted: 2020-05-19
+version: 2022-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-23
 adopted: 2022-12-20
 in_force: 2023-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.42"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2975/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3320/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsbeschluss über die Spitalliste Psychiatrie
 
-vom 18.11.2014 (Stand 01.07.2020)
+vom 18.11.2014 (Stand 01.04.2022)
 
 Die Regierung des Kantons St.Gallen
 
