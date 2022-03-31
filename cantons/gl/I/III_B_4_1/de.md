@@ -4,26 +4,31 @@ number: III B/4/1
 title: Stiftungsverordnung
 short: StiftungsV
 language: de
-version: 2012-01-01
-valid_until: 2022-03-31
-version_adopted: 2012-01-03
+version: 2022-04-01
+version_adopted: 2022-03-15
 adopted: 2012-01-03
 in_force: 2012-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.4.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/662/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2290/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Stiftungsverordnung
 
-Vom 03.01.2012 (Stand 01.01.2012)
+(StiftungsV)
+
+Vom 03.01.2012 (Stand 01.04.2022)
 
 Der Regierungsrat,
 
-gestützt auf Artikel 84 Absatz 1 des Schweizerischen Zivilgesetzbuches in Verbindung mit Artikel 15c Absatz 4 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches im Kanton Glarus (EG ZGB),
+gestützt auf Artikel 84 Absatz 1 des Schweizerischen Zivilgesetzbuches[^ingress-1], Artikel 15c Absatz 4 des Einführungsgesetzes zum Zivilgesetzbuch[^ingress-2] und Artikel 23 Absatz 2 des Regierungs- und Verwaltungsorganisationsgesetzes[^ingress-3],
 
-verordnet:
+erlässt:
+
+[^ingress-1]: SR 210
+[^ingress-2]: GS [III B/1/1](https://gesetze.gl.ch/data/III-B.1.1/de)
+[^ingress-3]: GS [II A/3/2](https://gesetze.gl.ch/data/II-A.3.2/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -39,7 +44,7 @@ verordnet:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Das Departement Volkswirtschaft und Inneres ist kantonale Aufsichts- und zuständige Kantonsbehörde. Diese Aufgaben werden unter Vorbehalt einer anderen Regelung im Sinne von Artikel 15c Absatz 5 EG ZGB im Kanton Glarus in Amtsverbindung vom Departementssekretariat wahrgenommen.
+<sup>1</sup> Die Fachstelle Handelsregister ist kantonale Aufsichts- und zuständige Kantonsbehörde.
 
 <sup>2</sup> Der Gemeinderat ist Aufsichtsbehörde über die einer einzelnen Gemeinde zugehörenden Stiftungen.
 
@@ -126,7 +131,9 @@ verordnet:
 
 #### Art. 11
 
-<sup>1</sup> Der Rechtsschutz gegen Verfügungen der Aufsichtsbehörde sowie der zuständigen Kantonsbehörde (Art. 2 Abs. 1) richtet sich nach dem Verwaltungsrechtspflegegesetz.
+<sup>1</sup> Der Rechtsschutz gegen Verfügungen der Aufsichtsbehörde sowie der zuständigen Kantonsbehörde richtet sich nach dem Verwaltungsrechtspflegegesetz[^11-1].
+
+[^11-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
 
 ## 6. Oberaufsicht
 
@@ -156,7 +163,7 @@ verordnet:
 
 **Grundsatz**
 
-<sup>1</sup> Gebührenpflichtig sind Stiftungen (Art. 1 Abs. 1) sowie Dritte für die Bekanntgabe von Daten.
+<sup>1</sup> Gebührenpflichtig sind Stiftungen sowie Dritte für die Bekanntgabe von Daten.
 
 <sup>2</sup> Es werden jährliche Aufsichtsgebühren und weitere Gebühren erhoben.
 
