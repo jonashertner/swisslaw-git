@@ -4,13 +4,13 @@ number: "250.1"
 title: Dekret zum Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: Dekret EG StPO
 language: de
-version: 2020-07-01
-valid_until: 2022-03-31
-version_adopted: 2019-11-28
+version: 2022-04-01
+valid_until: 2023-12-31
+version_adopted: 2022-02-24
 adopted: 2010-04-15
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/250.1"
-pdf: "https://bl.clex.ch/api/de/versions/2676/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3277/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2676/pdf_file"
 
 (Dekret EG StPO)
 
-Vom 15.04.2010 (Stand 01.07.2020)
+Vom 15.04.2010 (Stand 01.04.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -37,8 +37,8 @@ beschliesst:
 <sup>1</sup> Die Staatsanwaltschaft besteht aus:
 
 - a. der Ersten Staatsanwältin oder dem Ersten Staatsanwalt;
-- b. 6 Leitenden Staatsanwältinnen oder Leitenden Staatsanwälten;
-- c. 34,5 Sollstellen für weitere ordentliche Staatsanwältinnen und ordentliche Staatsanwälte.
+- b. 4 Leitenden Staatsanwältinnen oder Leitenden Staatsanwälten;
+- c. 36,5 Sollstellen für weitere ordentliche Staatsanwältinnen und ordentliche Staatsanwälte.
 
 #### § 2
 
