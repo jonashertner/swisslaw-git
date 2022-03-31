@@ -4,13 +4,13 @@ number: "310"
 title: Finanzhaushaltsgesetz
 short: FHG
 language: de
-version: 2020-01-01
-valid_until: 2022-03-31
-version_adopted: 2019-06-27
+version: 2022-04-01
+valid_until: 2025-08-31
+version_adopted: 2022-01-13
 adopted: 2017-06-01
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/310"
-pdf: "https://bl.clex.ch/api/de/versions/2525/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3299/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2525/pdf_file"
 
 (FHG)
 
-Vom 01.06.2017 (Stand 01.01.2020)
+Vom 01.06.2017 (Stand 01.04.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -50,7 +50,7 @@ beschliesst:
 - c. Direktionen;
 - d. Landeskanzlei;
 - e. Gerichte;
-- f. Ombudsman;
+- f. Ombudsperson;
 - g. Finanzkontrolle;
 - h. Aufsichtsstelle Datenschutz.
 
