@@ -3,11 +3,11 @@ sr: "0.632.315.731.1"
 title: Landwirtschaftsabkommen vom 14. November 2011 zwischen der Schweizerischen Eidgenossenschaft und Montenegro (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/520"
 language: de
-version: 2012-09-01
+version: 2022-04-01
 adopted: 2011-11-14
 in_force: 2012-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/520/20120901/de/xml/fedlex-data-admin-ch-eli-cc-2012-520-20120901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/520/20120901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/520/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2012-520-20220401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/520/20220401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,18 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/520/20120901/de"
 
 AS **2012** 4417; BBl **2012** 827
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Genf am 14. November 2011
 
-Von der Bundesversammlung genehmigt am 7. März 2012[^t-2]
+Von der Bundesversammlung genehmigt am 7. März 2012[^t-1]
 
 In Kraft getreten am 1. September 2012
 
-(Stand am 1. September 2012)
+(Stand am 1. April 2022)
 
-[^t-1]: Übersetzung des englischen Originaltextes.
-[^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 7. März 2012 ([AS 2012 4389](https://fedlex.data.admin.ch/eli/oc/2012/518))
+[^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 7. März 2012 ([AS 2012 4389](https://fedlex.data.admin.ch/eli/oc/2012/518))
 
 #### Art. 1
 
@@ -56,13 +55,11 @@ Die Schweiz gewährt auf landwirtschaftlichen Erzeugnissen montenegrinischen Urs
 
 #### Art. 3
 
-**Ursprungsregeln und administrative Zusammenarbeit**
+**Ursprungsregeln und administrative Zusammenarbeit**[^3-1]
 
-<sup>1.</sup> Vorbehältlich der Ausnahme nach Absatz 2 gilt Artikel 8 des Freihandelsabkommens *mutatis mutandis* für dieses Abkommen.
+Anhang VIII des Freihandelsabkommens findet auf dieses Abkommen sinngemäss Anwendung.
 
-<sup>2.</sup> Für den Zweck dieses Abkommens findet Artikel 3 von Appendix I zum Regionalen Übereinkommen über Pan-Europa-Mittelmeer-Präferenzursprungsregeln[^3-1] *mutatis mutandis* Anwendung, der zwischen den Vertragsparteien ausschliesslich die bilaterale Kumulation zulässt.
-
-[^3-1]: [SR 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+[^3-1]: Fassung gemäss Anhang der Änd. vom 14. Juli 2021, von der BVers genehmigt am 18. März 2021 und in Kraft seit 1. April 2022 ([AS 2022 251](https://fedlex.data.admin.ch/eli/oc/2022/251); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)Art. 1 Abs. 2 Bst. e Ziff. 3; [BBl 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 4
 
@@ -98,7 +95,7 @@ Die Bestimmungen zum territorialen Anwendungsbereich (Art. 4), zu zentralen, reg
 
 <sup>2.</sup> Dieses Abkommen wird beendet, falls eine Vertragspartei vom Freihandelsabkommen zurücktritt, wobei dieses Abkommen zum selben Zeitpunkt als beendet gilt, an dem der Rücktritt vom Freihandelsabkommen Wirkung erlangt.
 
-*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichnenden dieses Abkommen unterzeichnet. Geschehen zu Genf, am 14. November 2011, in zwei Originalausfertigungen. Für die Schweizerische Eidgenossenschaft: Für Montenegro: Johann N. Schneider-Ammann Martin Perez Monteverde
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichnenden dieses Abkommen unterzeichnet. Geschehen zu Genf, am 14. November 2011, in zwei Originalausfertigungen. Für die Schweizerische Eidgenossenschaft: Johann N. Schneider-Ammann Für Montenegro: Martin Perez Monteverde
 
 Anhang I
 

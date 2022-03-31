@@ -3,11 +3,11 @@ sr: "0.632.315.731.1"
 title: Accordo agricolo del 14 novembre 2011 tra la Confederazione Svizzera e il Montenegro (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/520"
 language: it
-version: 2012-09-01
+version: 2022-04-01
 adopted: 2011-11-14
 in_force: 2012-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/520/20120901/it/xml/fedlex-data-admin-ch-eli-cc-2012-520-20120901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/520/20120901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/520/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2012-520-20220401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/520/20220401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/520/20120901/it"
 
 RU **2012** 4417; FF **2012** 623
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Ginevra il 14 novembre 2011 Approvato dall’Assemblea federale il 7 marzo 2012[^t-2] Entrato in vigore il 1° settembre 2012
+Concluso a Ginevra il 14 novembre 2011 Approvato dall’Assemblea federale il 7 marzo 2012[^t-1] Entrato in vigore il 1° settembre 2012
 
-(Stato 1° settembre 2012)
+(Stato 1° aprile 2022)
 
-[^t-1]: Traduzione dal testo originale inglese.
-[^t-2]: Art. 1 cpv. 1 lett. b del DF del 7 mar. 2012 ([RU 2012 4389](https://fedlex.data.admin.ch/eli/oc/2012/518)).
+[^t-1]: Art. 1 cpv. 1 lett. b del DF del 7 mar. 2012 ([RU 2012 4389](https://fedlex.data.admin.ch/eli/oc/2012/518)).
 
 #### Art. 1
 
@@ -52,13 +51,11 @@ La Svizzera accorda concessioni tariffarie per i prodotti agricoli originari del
 
 #### Art. 3
 
-**Norme diorigine e cooperazione amministrativa**
+**Regole di origine e cooperazione amministrativa**[^3-1]
 
-<sup>1.</sup> L’articolo 8 dell’Accordo di libero scambio si applica al presente Accordo, *mut**a**tis mutandis*, fatto salvo quanto disposto nel paragrafo 2.
+L’allegato VIII dell’Accordo di libero scambio si applica *mutatis mutandis* al presente Accordo.
 
-<sup>2.</sup> Ai fini del presente Accordo, l’articolo 3 dell’appendice I della Convenzione regionale unica sulle norme d’origine preferenziali per l’area paneuromediterranea[^3-1] si applica *mutatis mutandis,* consentendo unicamente il cumulo bilaterale tra le Parti.
-
-[^3-1]: [RS 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+[^3-1]: Nuovo testo giusta la mod. del 14 lug. 2021, approvata dall’AF il 18 mar. 2021, in vigore dal 1° apr. 2022 ([RU 2022 251](https://fedlex.data.admin.ch/eli/oc/2022/251); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)art. 1 cpv. 2 lett. e n. 3; [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 4
 
@@ -94,7 +91,7 @@ Le disposizioni sull’applicazione territoriale (art. 4), sul governo centrale,
 
 <sup>2.</sup> Il presente Accordo cessa di avere efficacia se una Parte recede dall’Accordo di libero scambio, in tal caso il presente Accordo si considera estinto lo stesso giorno in cui il recesso dall’Accordo di libero scambio diviene effettivo.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Accordo. Fatto a Ginevra, il 14 novembre 2011, in due esemplari originali. Per la Confederazione Svizzera: Per il Montenegro: Johann N. Schneider-Ammann Martin Perez Monteverde
+*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Accordo. Fatto a Ginevra, il 14 novembre 2011, in due esemplari originali. Per la Confederazione Svizzera: Johann N. Schneider-Ammann Per il Montenegro: Martin Perez Monteverde
 
 Allegato I
 

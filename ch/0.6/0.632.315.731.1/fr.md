@@ -3,11 +3,11 @@ sr: "0.632.315.731.1"
 title: Accord agricole du 14 novembre 2011 entre la Confédération suisse et le Monténégro (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/520"
 language: fr
-version: 2012-09-01
+version: 2022-04-01
 adopted: 2011-11-14
 in_force: 2012-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/520/20120901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-520-20120901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/520/20120901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/520/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2012-520-20220401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/520/20220401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,20 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/520/20120901/fr"
 
 RO **2012** 4417; FF **2012** 675
 
-Traduction*[^t-1]*
+Traduction
 
-Conclu à Genève le 14 novembre 2011 Approuvé par l’Assemblée fédérale le 7 mars 2012[^t-2] Entré en vigueur le 1<sup>er</sup> septembre 2012
+Conclu à Genève le 14 novembre 2011 Approuvé par l’Assemblée fédérale le 7 mars 2012[^t-1] Entré en vigueur le 1<sup>er</sup> septembre 2012
 
-(Etat le 1<sup>er</sup> septembre 2012)
+(Etat le 1<sup>er</sup> avril 2022)
 
-[^t-1]: Traduction du texte original anglais.
-[^t-2]: Art. 1, al. 1, lett. b, de l’AF du 7 mars 2012 ([RO 2012 4389](https://fedlex.data.admin.ch/eli/oc/2012/518))
+[^t-1]: Art. 1, al. 1, let. b, de l’AF du 7 mars 2012 ([RO 2012 4389](https://fedlex.data.admin.ch/eli/oc/2012/518))
 
 #### Art. 1
 
 **Portée et champ d’application**
 
-<sup>1.</sup> Le présent Accord concernant le commerce de produits agricoles entre la Confédération suisse (ci-après dénommée «la Suisse») et le Monténégro est conclu en complément à l’Accord de libre-échange entre les Etats de l’AELE et le Monténégro[^1-1] (ci-après dénommé «accord de libre-échange»), qui a été signé le 14 novembre 2011, en particulier en vertu de l’art. 7, al. 2, dudit accord.
+<sup>1.</sup> Le présent Accord concernant le commerce de produits agricoles entre la Confédération suisse (ci-après dénommée «la Suisse») et le Monténégro est conclu en complément à l’Accord de libre-échange entre les États de l’AELE et le Monténégro[^1-1] (ci-après dénommé «accord de libre-échange»), qui a été signé le 14 novembre 2011, en particulier en vertu de l’art. 7, al. 2, dudit accord.
 
 <sup>2.</sup>
 
@@ -52,13 +51,11 @@ La Suisse accorde des concessions tarifaires aux produits agricoles originaires 
 
 #### Art. 3
 
-**Règles d’origine et coopération administrative**
+**Règles d’origine et coopération administrative**[^3-1]
 
-<sup>1.</sup> L’art. 8 de l’accord de libre-échange s’applique *mutatis mutandis* au présent Accord, sous réserve de l’al. 2.
+L’annexe VIII de l’accord de libre-échange s’applique *mutatis mutandis* au présent accord.
 
-<sup>2.</sup> Aux fins du présent Accord, l’art. 3 de l’annexe I à la convention régionale sur les règles d’origine préférentielles paneuroméditerranéennes[^3-1] s’applique *mutatis muta**n**dis*, sous réserve du cumul bilatéral entre les parties.
-
-[^3-1]: [RS 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+[^3-1]: Nouvelle teneur selon l’annexe de l’Am. du 14 juil. 2021, approuvé par l’Ass. féd. le 19 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 251](https://fedlex.data.admin.ch/eli/oc/2022/251); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)art. 1, al. 2, let. e, ch. 3; [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)).
 
 #### Art. 4
 
@@ -70,7 +67,7 @@ Les parties examinent les difficultés susceptibles d’émaner de leurs échang
 
 **Libéralisation accrue des échanges**
 
-Les parties s’engagent à poursuivre leurs efforts en vue d’une libéralisation accrue de leurs échanges de produits agricoles, tout en tenant compte de la structure de leurs relations commerciales dans ce domaine, de la sensibilité particulière de ces produits et du développement de leurs politiques agricoles respectives. A la demande de l’une des parties, celles-ci peuvent se consulter sur la façon d’atteindre cet objectif, y compris en améliorant l’accès au marché par la réduction ou la suppression de droits de douane sur les produits agricoles et par l’extension du champ d’application du présent Accord à d’autres produits agricoles.
+Les parties s’engagent à poursuivre leurs efforts en vue d’une libéralisation accrue de leurs échanges de produits agricoles, tout en tenant compte de la structure de leurs relations commerciales dans ce domaine, de la sensibilité particulière de ces produits et du développement de leurs politiques agricoles respectives. À la demande de l’une des parties, celles-ci peuvent se consulter sur la façon d’atteindre cet objectif, y compris en améliorant l’accès au marché par la réduction ou la suppression de droits de douane sur les produits agricoles et par l’extension du champ d’application du présent Accord à d’autres produits agricoles.
 
 #### Art. 6
 
@@ -94,7 +91,7 @@ Les dispositions concernant l’application territoriale (art. 4), les gouvernem
 
 <sup>2.</sup> Le présent Accord devient caduc lorsqu’une partie se retire de l’accord de libre-échange, auquel cas le présent Accord est considéré comme résilié le même jour que le retrait de l’accord de libre-échange prend effet.
 
-*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Genève, le 14 novembre 2011, en deux exemplaires originaux. Pour la Confédération suisse: Pour le Monténégro: Johann N. Schneider-Ammann Martin Perez Monteverde
+*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Genève, le 14 novembre 2011, en deux exemplaires originaux. Pour la Confédération suisse: Johann N. Schneider-Ammann Pour le Monténégro: Martin Perez Monteverde
 
 Annexe I
 
@@ -753,7 +750,7 @@ Annexe I
 <tr><td></td><td>– – autres:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– – – fruits à noyau, autres, entiers:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0813.4089</td><td>– – – – autres</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>0814</td><td>Ecorces d’agrumes ou de melons (y compris de pastèques), fraîches, congelées, présentées dans l’eau salée, soufrée ou additionnée d’autres substances servant à assurer provisoirement leur conservation ou bien séchées</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>0814</td><td>Écorces d’agrumes ou de melons (y compris de pastèques), fraîches, congelées, présentées dans l’eau salée, soufrée ou additionnée d’autres substances servant à assurer provisoirement leur conservation ou bien séchées</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0814.0000</td><td>Écorces d’agrumes ou de melons (y compris de pastèques), fraîches, congelées, présentées dans l’eau salée, soufrée ou additionnée d’autres substances servant à assurer provisoirement leur conservation ou bien séchées</td><td>0.00</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>09</td><td>Café, thé, maté et épices</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>0904</td><td>Poivre (du genre Piper); piments du genre Capsicum ou du genre Pimenta, séchés ou broyés ou pulvérisés</td><td></td><td colspan="2"></td><td></td><td></td></tr>
@@ -1548,7 +1545,7 @@ Annexe II
 <tr><td>0406 90 18</td><td>– – – Fromage friburgeois, Vacherin Mont d’Or and Tête de Moine</td><td></td><td>30+0,30 €/kg</td><td>10</td></tr>
 <tr><td>0406 90 19</td><td>– – – Glarus herb cheese (known as Schabziger) made from skimmed milk and mixed with finely ground herbs</td><td></td><td>30+0,30 €/kg</td><td>10</td></tr>
 <tr><td>0406 90 21</td><td>– – – Cheddar</td><td></td><td>30+0,30 €/kg</td><td>50 % MFN</td></tr>
-<tr><td>0406 90 23</td><td>– – – Edam</td><td></td><td>30+0,30 €/kg</td><td>50 % MFN</td></tr>
+<tr><td>0406 90 23</td><td>– – – Édam</td><td></td><td>30+0,30 €/kg</td><td>50 % MFN</td></tr>
 <tr><td>0406 90 25</td><td>– – – Tilsit</td><td></td><td>30+0,30 €/kg</td><td>10</td></tr>
 <tr><td>0406 90 27</td><td>– – – Butterkäse</td><td></td><td>30+0,30 €/kg</td><td>10</td></tr>
 <tr><td>0406 90 29</td><td>– – – Kashkaval</td><td></td><td>30+0,30 €/kg</td><td>50 % MFN</td></tr>
