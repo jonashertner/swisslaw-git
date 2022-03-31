@@ -4,20 +4,21 @@ number: "134.1"
 title: Gesetz über die Gerichtsorganisation
 short: GOG
 language: de
-version: 2016-07-01
-valid_until: 2022-03-31
-version_adopted: 2014-12-04
+version: 2022-04-01
+version_adopted: 2022-01-27
 adopted: 1996-09-22
 in_force: 1997-02-15
 url: "http://gdb.ow.ch/app/de/texts_of_law/134.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1456/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1792/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Gerichtsorganisation
 
-vom 22.09.1996 (Stand 01.07.2016)
+(GOG)
+
+vom 22.09.1996 (Stand 01.04.2022)
 
 Das Volk des Kantons Obwalden,
 
@@ -111,11 +112,11 @@ beschliesst:
 
 <sup>1</sup> Die Schlichtungsbehörde besteht aus dem Präsidium und dem Vizepräsidium und mindestens sechs Mitgliedern.
 
-<sup>2</sup> Sie wird durch den Regierungsrat gewählt und gilt als Dienststelle des Sicherheits- und Justizdepartements. Bezüglich der Aufsicht sind die Bestimmungen zur Staatsanwaltschaft sinngemäss anwendbar.
+<sup>2</sup> Sie wird durch den Regierungsrat gewählt und gilt als Dienststelle des Sicherheits- und Sozialdepartements[^6-1]. Bezüglich der Aufsicht sind die Bestimmungen zur Staatsanwaltschaft sinngemäss anwendbar.
 
 <sup>3</sup> Die Besetzung der Schlichtungsbehörde legt im Einzelfall das Präsidium und im Rahmen der ihm zugewiesenen Fälle das Vizepräsidium fest.
 
-<sup>4</sup> In den Fällen nach Art. 200 der Zivilprozessordung[^6-1] amtet die Schlichtungsbehörde mit dem Präsidium oder dem Vizepräsidium und zwei Mitgliedern gemäss der geforderten Parität.
+<sup>4</sup> In den Fällen nach Art. 200 der Zivilprozessordung[^6-2] amtet die Schlichtungsbehörde mit dem Präsidium oder dem Vizepräsidium und zwei Mitgliedern gemäss der geforderten Parität.
 
 <sup>5</sup> In allen übrigen Fällen kann das Präsidium oder das Vizepräsidium allein amten.
 
@@ -123,7 +124,8 @@ beschliesst:
 
 <sup>7</sup> Der Regierungsrat erlässt Ausführungsbestimmungen über die Organisation der Schlichtungsbehörde, das Formularwesen, die Mitteilungspflichten sowie die Hinterlegung.
 
-[^6-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+[^6-1]: Die Departementsbezeichnung wurde in Anwendung von Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) auf den 1. Juli 2022 (OGS 2022, 20) angepasst. Die Anpassung wurde im ganzen Erlass vorgenommen.
+[^6-2]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### Art. 7
 
@@ -227,7 +229,7 @@ beschliesst:
 <sup>1</sup> Die Aufsicht wird insbesondere durch folgende Instrumente ausgeübt:
 
 - a. Prüfung der Rechenschaftsablage;
-- b. Aussprachen mit den Leitungen der beaufsichtigen Behörden und Kontrollen des Geschäftsgangs;
+- b. Aussprachen mit den Leitungen der beaufsichtigten Behörden und Kontrollen des Geschäftsgangs;
 - c. Finanzaufsicht;
 - d. Untersuchungen;
 - e. Mitteilungen an die Oberaufsicht;
@@ -267,7 +269,7 @@ beschliesst:
 - b. das Personalwesen;
 - c. das Finanzwesen.
 
-<sup>2</sup> Das Sicherheits- und Justizdepartement nimmt für den Regierungsrat die Aufsicht über die Staatsanwaltschaft wahr.
+<sup>2</sup> Das Sicherheits- und Sozialdepartement nimmt für den Regierungsrat die Aufsicht über die Staatsanwaltschaft wahr.
 
 #### Art. 19g
 
@@ -291,7 +293,9 @@ beschliesst:
 
 <sup>3</sup> Das Obergericht leitet die Anträge betreffend Rechnung und Voranschlag sowie den Finanzplan der Gerichte an den Regierungsrat weiter.
 
-<sup>4</sup> Die Dienstleistungen der Staatsverwaltung, insbesondere der Finanzverwaltung, des Informatikleistungszentrums Obwalden – Nidwalden (ILZ), des Personalamtes und des Hoch- und Tiefbauamtes, stehen den Gerichten im Rahmen des Staatsvoranschlags und gegen interne Verrechnung zur Verfügung.
+<sup>4</sup> Die Dienstleistungen der Staatsverwaltung, insbesondere der Finanzverwaltung, des Informatikleistungszentrums Obwalden – Nidwalden (ILZ), des Personalamtes und des Hochbauamtes[^21-1], stehen den Gerichten im Rahmen des Staatsvoranschlags und gegen interne Verrechnung zur Verfügung.
+
+[^21-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Januar 2023 angepasst (OGS 2022, 25)
 
 #### Art. 22
 
@@ -536,7 +540,7 @@ beschliesst:
 
 **b. Staatsanwaltschaft 1. Zusammensetzung**
 
-<sup>1</sup> Die Staatsanwaltschaft gilt als Amt des Sicherheits- und Justizdepartements. Sie besteht aus:
+<sup>1</sup> Die Staatsanwaltschaft gilt als Amt des Sicherheits- und Sozialdepartements. Sie besteht aus:
 
 - a. der Oberstaatsanwältin oder dem Oberstaatsanwalt,
 - b. den Staatsanwältinnen und den Staatsanwälten,
@@ -786,7 +790,7 @@ beschliesst:
 
 <sup>3</sup> Die Kosten trägt der Kanton. Soweit Massnahmen und Leistungen aufgrund wissentlich falscher Angaben der zu schützenden Person erfolgt sind, können die Kosten von dieser zurück gefordert werden.
 
-<sup>4</sup> Die Polizei erstattet der Vorsteherin oder dem Vorsteher des Sicherheits- und Justizdepartements Bericht über die Tätigkeit im Bereich des kantonalen ausserprozessualen Zeugenschutzes im Sinne von Art. 32 Abs. 2 ZeugSG[^60d-1].
+<sup>4</sup> Die Polizei erstattet der Vorsteherin oder dem Vorsteher des Sicherheits- und Sozialdepartements Bericht über die Tätigkeit im Bereich des kantonalen ausserprozessualen Zeugenschutzes im Sinne von Art. 32 Abs. 2 ZeugSG[^60d-1].
 
 [^60d-1]: SR [312.](https://db.clex.ch/link/Bund/312./de)
 
@@ -821,7 +825,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Begnadigungsgesuch ist dem Sicherheits- und Justizdepartement schriftlich einzureichen. Dieses holt die notwendigen Akten ein und leitet diese zusammen mit dem Begnadigungsgesuch, einem Bericht und einem Antrag dem Regierungsrat weiter.
+<sup>1</sup> Das Begnadigungsgesuch ist dem Sicherheits- und Sozialdepartement schriftlich einzureichen. Dieses holt die notwendigen Akten ein und leitet diese zusammen mit dem Begnadigungsgesuch, einem Bericht und einem Antrag dem Regierungsrat weiter.
 
 <sup>2</sup> In den Fällen, in denen der Regierungsrat nicht selber zu entscheiden hat, überweist er das Gesuch mit seinem Bericht und Antrag dem Kantonsrat.
 
@@ -987,7 +991,13 @@ beschliesst:
 
 **Fürsorgerische Unterbringung a. richterliche Behörde**
 
-<sup>1</sup> Das Kantonsgericht ist das zuständige Gericht im Sinne von Art. 439 und Art. 450 des Schweizerischen Zivilgesetzbuches[^74a-1].
+<sup>1</sup> Das Kantonsgericht ist das zuständige Gericht im Sinne von Art. 439 des Schweizerischen Zivilgesetzbuches[^74a-1].
+
+<sup>2</sup> Das Kantonsgericht kann zudem angerufen werden:
+
+- a. bei durch die Kindes- und Erwachsenenschutzbehörde angeordneter Unterbringung;
+- b. bei Anordnung einer ambulanten Massnahme;
+- c. bei Anordnung einer Nachbetreuung.
 
 [^74a-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
@@ -1023,7 +1033,7 @@ beschliesst:
 
 <sup>1</sup> Das Obergericht ist die fachliche und disziplinarische Aufsichtsbehörde über das Betreibungs- und Konkurswesen. Es erteilt im allgemeinen und einzelnen die notwendigen Weisungen für den richtigen Vollzug des Bundesgesetzes über Schuldbetreibung und Konkurs[^76-1].
 
-<sup>2</sup> Das Obergericht entscheidet über Beschwerden gegen das Betreibungs- und Konkursamt. Beschwerden sind schriftlich einzureichen. Sie haben einen Antrag und eine Begründung zu enthalten. Das Obergericht holt die Vernehmlassung des Amtes ein und erhebt den Sachverhalt, wenn die Beschwerde nicht offensichtlich unbegründet ist. Die Vorschriften der Zivilprozessordnung[^76-2] über das summarische Verfahren kommen sinngemäss zur Anwendung. Vorbehalten bleiben die Verfahrensvorschriften des Bundesgesetzes über Schulbetreibung und Konkurs.
+<sup>2</sup> Das Obergericht entscheidet über Beschwerden gegen das Betreibungs- und Konkursamt. Beschwerden sind schriftlich einzureichen. Sie haben einen Antrag und eine Begründung zu enthalten. Das Obergericht holt die Vernehmlassung des Amtes ein und erhebt den Sachverhalt, wenn die Beschwerde nicht offensichtlich unbegründet ist. Die Vorschriften der Zivilprozessordnung[^76-2] über das summarische Verfahren kommen sinngemäss zur Anwendung. Vorbehalten bleiben die Verfahrensvorschriften des Bundesgesetzes über Schuldbetreibung und Konkurs.
 
 <sup>3</sup> Das Obergericht ist als einzige Instanz zur Prüfung des Schlussberichtes und zur Erklärung des Schlusses des Konkursverfahrens nach Art. 268 SchKG zuständig.
 
@@ -1032,9 +1042,9 @@ beschliesst:
 
 #### Art. 76a
 
-**Sicherheits- und Justizdepartement**
+**Sicherheits- und Sozialdepartement**
 
-<sup>1</sup> Das Betreibungs- und Konkursamt ist eine Abteilung des Sicherheits- und Justizdepartements.
+<sup>1</sup> Das Betreibungs- und Konkursamt ist eine Abteilung des Sicherheits- und Sozialdepartements.
 
 #### Art. 77
 
@@ -1082,7 +1092,7 @@ beschliesst:
 
 **Zuständige Behörden**
 
-<sup>1</sup> Die Vollstreckung von Strafen und Massnahmen obliegt dem Sicherheits- und Justizdepartement. Der Kantonsrat regelt das Nähere durch Verordnung.
+<sup>1</sup> Die Vollstreckung von Strafen und Massnahmen obliegt dem Sicherheits- und Sozialdepartement. Der Kantonsrat regelt das Nähere durch Verordnung.
 
 <sup>2</sup> Beim vorzeitigen Straf- und Massnahmenvollzug ist die jeweilige Verfahrensleitung für die Durchführung des Vollzugs zuständig. Dies beinhaltet insbesondere die Anordnung des Vollzugsregimes und die Bewilligung von Vollzugslockerungen. Diese Zuständigkeit geht mit dem Eintritt der Rechtskraft des Urteils an die Vollzugsbehörde über.
 
@@ -1096,7 +1106,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat kann privaten Anstalten und Einrichtungen den Vollzug von Strafen und Massnahmen im Sinne von Art. 379 StGB und Art. 1 Abs. 2 Bst. n JStG bewilligen.
 
-<sup>2</sup> Die Anstalten und die Einrichtungen unterstehen im Umfang der Bewilligung der Aufsicht des Sicherheits- und Justizdepartements.
+<sup>2</sup> Die Anstalten und die Einrichtungen unterstehen im Umfang der Bewilligung der Aufsicht des Sicherheits- und Sozialdepartements.
 
 <sup>3</sup> Der Regierungsrat erlässt das entsprechende Disziplinarrecht; dieses richtet sich nach der Art des Straf- und Massnahmenvollzugs.
 
@@ -1205,6 +1215,8 @@ geändert durch
 
 \- das Gesetz über die Anpassungen im Anschluss an die Evaluation der Justizreform (Rechtspflegebehörden) vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 54 und 2015, 6)
 
-\- Nachtrag vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. Juli 2016 (OGS 2014, 53 und 2015, 4)
+\- Nachtrag vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. Juli 2016 (OGS 2014, 53 und 2015, 4),
+
+\- das Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 27. Januar 2022 (OGS 2022, 1), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Kantonsratssitzungen vom 1. Juli 2016, 28. Mai 2020, 2. Dezember 2021 und 27. Januar 2022 (22.21.04), in Kraft seit 1. April 2022 (OGS 2022, 5)
 
 OGS 1997, 30
