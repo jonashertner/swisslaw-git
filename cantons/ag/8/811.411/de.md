@@ -4,13 +4,12 @@ number: "811.411"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung sowie zum Bundesgesetz über die Arbeitsvermittlung und den Personalverleih
 short: V EG AVIG/AVG
 language: de
-version: 2019-04-01
-valid_until: 2022-03-31
-version_adopted: 2018-09-26
+version: 2022-04-01
+version_adopted: 2021-12-15
 adopted: 2004-12-15
 in_force: 2005-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/811.411"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2690/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3157/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2690/pdf_file"
 
 (V EG AVIG/AVG)
 
-Vom 15.12.2004 (Stand 01.04.2019)
+Vom 15.12.2004 (Stand 01.04.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -50,7 +49,7 @@ beschliesst:
 
 **Übertragung von Aufgaben und Kompetenzen der kantonalen Amtsstelle 1. Anmeldung**
 
-<sup>1</sup> Die Regionalen Arbeitsvermittlungszentren (RAV) führen die Anmeldung zur Arbeitsvermittlung gemäss Art. 17 Abs. 2 des Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz, AVIG) vom 25. Juni 1982[^2a-1] durch.
+<sup>1</sup> Die Regionalen Arbeitsvermittlungszentren (RAV) führen die Anmeldung zur Arbeitsvermittlung gemäss Art. 17 Abs. 2<sup>bis</sup> des Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz, AVIG) vom 25. Juni 1982[^2a-1] durch.
 
 [^2a-1]: SR [837.0](https://db.clex.ch/link/Bund/837.0/de)
 
@@ -66,16 +65,24 @@ beschliesst:
 - d) Beibringung von Bewerbungsunterlagen und Lieferung von Unterlagen für die Beurteilung der Vermittlungsfähigkeit oder der Zumutbarkeit einer Arbeit gemäss Art. 17 Abs. 3 lit. c AVIG;
 - e) Einstellung in der Anspruchsberechtigung gemäss Art. 30 Abs. 1 lit. c und d sowie Abs. 2 AVIG von bis zu 30 Tagen.
 
-<sup>2</sup> Die LAM-Stelle ist zum Erteilen von Weisungen und dem Erlass von Verfügungen in den nachstehend aufgeführten Bereichen ermächtigt:
+<sup>2</sup> Die LAM-Stelle[^3-1] ist zum Erteilen von Weisungen und dem Erlass von Verfügungen in den nachstehend aufgeführten Bereichen ermächtigt:
 
 - a) Teilnahme an arbeitsmarktlichen Massnahmen gemäss Art. 17 Abs. 3 lit. a AVIG in den von der kantonalen Amtsstelle festgelegten Bereichen;
 - b) Einstellung in der Anspruchsberechtigung gemäss Art. 30 Abs. 1 lit. d (betreffend arbeitsmarktlicher Massnahmen) und lit. g sowie Abs. 2 AVIG von bis zu 30 Tagen bei Missachtung von Verfügungen und Weisungen der LAM-Stelle.
 
 <sup>3</sup> Die kantonale Amtsstelle kann statt den in Abs. 1 und 2 aufgeführten Stellen Weisungen erteilen und Verfügungen erlassen, wenn dies zur Sicherung der Qualität der Rechtsanwendung erforderlich ist.
 
+[^3-1]: Logistikstelle für arbeitsmarktliche Massnahmen
+
+#### § 3a
+
+**Zugriff auf das kantonale Einwohnerregister**
+
+<sup>1</sup> Die öffentliche Arbeitslosenkasse sowie die privaten Arbeitslosenkassen, deren Tätigkeitsbereich den Kanton Aargau umfasst, die kantonale Amtsstelle, die RAV sowie die LAM-Stelle können den Wohnsitz der versicherten Person mit einer elektronischen Abfrage im kantonalen Einwohnerregister überprüfen.
+
 #### § 4
 
-**Standorte der RAV und Zuteilung der Gemeinden; Anmeldung**
+**Standorte der RAV und Zuteilung der Gemeinden**
 
 <sup>1</sup> Standorte der RAV sind Baden, Brugg, Menziken, Rheinfelden, Suhr, Wohlen, Zofingen.
 
@@ -87,7 +94,7 @@ beschliesst:
 
 <sup>5</sup> …
 
-<sup>6</sup> Das RAV kann den Wohnsitz der versicherten Person statt anhand einer schriftlichen Wohnsitzbestätigung der Gemeinde auch mit einer elektronischen Abfrage im kantonalen Einwohnerregister überprüfen.
+<sup>6</sup> …
 
 #### § 4a
 
