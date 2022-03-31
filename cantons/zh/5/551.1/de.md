@@ -4,11 +4,11 @@ number: "551.1"
 title: Polizeiorganisationsgesetz (POG)
 short: POG
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2022-04-01
+version: "2022-04-01"
+nachtrag: "116"
+valid_until: 2022-08-01
 adopted: 2004-11-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_1-2004_11_29-2006_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_1-2004_11_29-2006_01_01-116.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ Der Kanton verfügt über eine Kantonspolizei. Ihr Kommando untersteht der zust�
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 22 - 116
 
 <sup>3</sup> Nimmt eine Gemeinde ihre polizeilichen Aufgaben nicht oder nicht umfassend wahr, erfüllt die Kantonspolizei an ihrer Stelle jene kommunalen polizeilichen Aufgaben, für die es einer polizeilichen Ausbildung bedarf. Die Gemeinden zahlen der Kantonspolizei dafür eine Entschädigung gemäss § 31.
 
@@ -148,7 +148,7 @@ Die verkehrspolizeilichen Aufgaben umfassen:
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 22 - 116
 
 <sup>2</sup> Komplexe Strafrechtsfälle sowie die von den Bundesbehörden delegierten Verfahren werden von den kriminalpolizeilichen Spezialdiensten der Kantonspolizei bearbeitet. In diesen Fällen sind die Spezialdienste Ansprechpartner der zuständigen Untersuchungsbehörden und der Bundeskriminalpolizei.
 
@@ -160,7 +160,7 @@ Die verkehrspolizeilichen Aufgaben umfassen:
 
 § 14. <sup>1</sup> Ausserhalb der Städte Zürich und Winterthur nimmt allein die Kantonspolizei polizeiliche Notrufe entgegen und ordnet die erforderlichen Massnahmen an.
 
-<sup>2</sup> Die Kantonspolizei betreibt die Polizeigefängnisse.
+<sup>2</sup> Die Kantonspolizei betreibt die Polizeigefängnisse. Der Regierungsrat kann den Betrieb einer anderen Verwaltungseinheit übertragen.<sup>27</sup>
 
 <sup>3</sup> Sie ist erste Ansprechpartnerin der Sicherheitsorgane der Bundesverwaltung.
 
@@ -246,7 +246,7 @@ Gemeinden, die über eine eigene Gemeindepolizei verfügen, können mittels Vere
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 22 - 116
 
 ### D. Die kommunalen Polizeikorps der Städte Zürich und Winterthur
 
@@ -334,7 +334,7 @@ Die Kantonspolizei und die kommunalen Polizeien unterstützen sich gegenseitig b
 
 **7**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 22 - 116
 
 <sup>3</sup> Über Polizeieinsätze, an denen Kantonspolizei und kommunale Polizeien beteiligt sind, informiert die Kantonspolizei. Abweichende Absprachen bleiben vorbehalten.<sup>17</sup>
 
@@ -412,7 +412,7 @@ Das Gerichtsverfassungsgesetz vom 13. Juni 1976, in der Fassung vom 27. Januar 2
 
 **9**
 
-- 1\. 1. 22 - 115 § 38. An Stelle der Übernahme der ärztlichen Behandlungskosten durch den Staat wird den am 1. Juli 1999 aktiven Korpsangehörigen im Sinne einer befristeten und degressiven Übergangslösung ein jährlich abnehmender Betrag ausgerichtet. Im ersten Jahr werden 2000 Franken ausgerichtet. Dieser Betrag reduziert sich in jedem Folgejahr um 200 Franken. Dieser Betrag ist nicht Bestandteil der versicherten Besoldung. Der Regierungsrat regelt die Einzelheiten.
+- 1\. 4. 22 - 116 § 38. An Stelle der Übernahme der ärztlichen Behandlungskosten durch den Staat wird den am 1. Juli 1999 aktiven Korpsangehörigen im Sinne einer befristeten und degressiven Übergangslösung ein jährlich abnehmender Betrag ausgerichtet. Im ersten Jahr werden 2000 Franken ausgerichtet. Dieser Betrag reduziert sich in jedem Folgejahr um 200 Franken. Dieser Betrag ist nicht Bestandteil der versicherten Besoldung. Der Regierungsrat regelt die Einzelheiten.
 
 **Übergangsbestimmung**
 
@@ -468,6 +468,8 @@ Das Gerichtsverfassungsgesetz vom 13. Juni 1976, in der Fassung vom 27. Januar 2
 
 <sup>26</sup> Aufgehoben durch G vom 12. April 2021 (OS 76, 387; ABl 2020-05-15). In Kraft seit 1. Januar 2022.
 
+<sup>27</sup> Fassung gemäss G vom 4. Oktober 2021 (OS 77, 165; ABl 2021-05-14). In Kraft seit 1. April 2022.
+
 **11**
 
-- 1\. 1. 22 - 115
+- 1\. 4. 22 - 116
