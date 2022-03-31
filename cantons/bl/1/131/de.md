@@ -4,13 +4,13 @@ number: "131"
 title: Gesetz über die Organisation und die Geschäftsführung des Landrats
 short: Landratsgesetz
 language: de
-version: 2021-07-23
-valid_until: 2022-03-31
-version_adopted: 2021-05-20
+version: 2022-04-01
+valid_until: 2022-12-31
+version_adopted: 2022-01-13
 adopted: 1994-11-21
 in_force: 1995-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/131"
-pdf: "https://bl.clex.ch/api/de/versions/3067/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3067/pdf_file"
 
 (Landratsgesetz)
 
-Vom 21.11.1994 (Stand 23.07.2021)
+Vom 21.11.1994 (Stand 01.04.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -288,7 +288,7 @@ beschliesst[^ingress-2]:
 
 <sup>1</sup> Die Kommissionen können ferner:
 
-- a. die Mitglieder des Kantonsgerichts, den Ombudsman sowie die oder den Datenschutzbeauftragte/n zu ihren Sitzungen einladen;
+- a. die Mitglieder des Kantonsgerichts, die Ombudsperson sowie die oder den Datenschutzbeauftragte/n zu ihren Sitzungen einladen;
 - b. unter Mitteilung an den Direktionsvorsteher oder die Direktionsvorsteherin weitere Mitarbeiter und Mitarbeiterinnen aus der Verwaltung zu ihren Sitzungen einladen;
 - c. unter Mitteilung an das Präsidium des Kantonsgerichts weitere Mitarbeiterinnen und Mitarbeiter der Gerichte zu ihren Sitzungen einladen.
 
@@ -551,7 +551,7 @@ beschliesst[^ingress-2]:
 
 **Jahresberichte**
 
-<sup>1</sup> Der Regierungsrat, die Gerichte und der Ombudsman berichten dem Landrat jährlich über ihre Tätigkeit.
+<sup>1</sup> Der Regierungsrat, die Gerichte und die Ombudsperson berichten dem Landrat jährlich über ihre Tätigkeit.
 
 <sup>2</sup> Der Landrat genehmigt die Jahresberichte.
 
@@ -590,7 +590,7 @@ beschliesst[^ingress-2]:
 
 <sup>3</sup> Die Kommission oder die Geschäftsleitung kann Petitionen mit offensichtlich abwegigem Inhalt abschliessend beantworten.
 
-<sup>4</sup> Die Kommission oder die Geschäftsleitung kann bestimmte Petitionen unter Benachrichtigung des Petenten oder der Petentin unmittelbar dem Ombudsman unterbreiten.
+<sup>4</sup> Die Kommission oder die Geschäftsleitung kann bestimmte Petitionen unter Benachrichtigung des Petenten oder der Petentin unmittelbar der Ombudsperson unterbreiten.
 
 <sup>5</sup> Die Kommission oder die Geschäftsleitung gibt dem Landrat von Fällen gemäss Abs. 1, 3 und 4 Kenntnis.
 
@@ -659,13 +659,13 @@ beschliesst[^ingress-2]:
 
 #### § 54a
 
-**Teilnahme von Ombudsman, Finanzkontrolle und Aufsichtsstelle Datenschutz**
+**Teilnahme der Ombudsperson, Finanzkontrolle und Aufsichtsstelle Datenschutz**
 
-<sup>1</sup> Der Ombudsman, die Leitung der Finanzkontrolle und die Leitung der Aufsichtsstelle Datenschutz können an den Sitzungen des Landrats zum Aufgaben- und Finanzplan und zur Jahresrechnung teilnehmen. Sie haben beratende Stimme.
+<sup>1</sup> Die Ombudsperson, die Leitung der Finanzkontrolle und die Leitung der Aufsichtsstelle Datenschutz können an den Sitzungen des Landrats zum Aufgaben- und Finanzplan und zur Jahresrechnung teilnehmen. Sie haben beratende Stimme.
 
-<sup>2</sup> Der Ombudsman kann an den Sitzungen des Landrats zum Jahresbericht des Ombudsman teilnehmen.
+<sup>2</sup> Die Ombudsperson kann an den Sitzungen des Landrats zu ihrem Jahresbericht teilnehmen.
 
-<sup>3</sup> Die Geschäftsleitung kann den Ombudsman, die Leitung der Finanzkontrolle und die Leitung der Aufsichtsstelle Datenschutz zur Sitzungsteilnahme verpflichten.
+<sup>3</sup> Die Geschäftsleitung des Landrats kann die Ombudsperson, die Leitung der Finanzkontrolle und die Leitung der Aufsichtsstelle Datenschutz zur Sitzungsteilnahme verpflichten.
 
 #### § 55
 
@@ -778,14 +778,14 @@ beschliesst[^ingress-2]:
 
 <sup>1</sup> Der Geschäftsprüfungskommission obliegen folgende Aufgaben:
 
-- a. Sie kontrolliert die kantonale Verwaltung, die Gerichte unter Vorbehalt der Rechtsprechung, die selbständigen kantonalen und interkantonalen Verwaltungsbetriebe sowie den Ombudsman und die Aufsichtsstelle Datenschutz im Rahmen der parlamentarischen Oberaufsicht.
-- b. Sie prüft die Jahresberichte des Regierungsrats, der Gerichte und des Ombudsman.
+- a. Sie kontrolliert die kantonale Verwaltung, die Gerichte unter Vorbehalt der Rechtsprechung, die selbständigen kantonalen und interkantonalen Verwaltungsbetriebe sowie die Ombudsperson und die Aufsichtsstelle Datenschutz im Rahmen der parlamentarischen Oberaufsicht;
+- b. sie prüft die Jahresberichte des Regierungsrats, der Gerichte und der Ombudsperson;
 - c. Sie führt Untersuchungen durch und berichtet dem Landrat über ihre Feststellungen.
 - d. Sie übt, in Absprache und Zusammenarbeit mit den ständigen Kommissionen, die Oberaufsicht über die Wirkungskontrolle im Bereich der kantonalen Gesetzgebung aus.
 
 <sup>2</sup> Der Landrat kann der Geschäftsprüfungskommission weitere Aufgaben übertragen.
 
-<sup>3</sup> Die Geschäftsprüfungskommission kann vom Regierungsrat, vom Kantonsgericht, vom Ombudsman und von der Aufsichtsstelle Datenschutz besondere Berichte anfordern.
+<sup>3</sup> Die Geschäftsprüfungskommission kann vom Regierungsrat, vom Kantonsgericht, von der Ombudsperson und von der Aufsichtsstelle Datenschutz besondere Berichte anfordern.
 
 <sup>4</sup> Die Geschäftsprüfungskommission kann jederzeit von allen Behörden und Amtsstellen Auskünfte und Einsicht in die Akten verlangen.
 
@@ -854,7 +854,7 @@ beschliesst[^ingress-2]:
 <sup>2</sup> Die PUK kann:
 
 - a. mündliche oder schriftliche Auskünfte von den Behörden, den Behördemitgliedern, den Mitarbeitern und Mitarbeiterinnen der kantonalen Verwaltung und der Gerichte sowie von Privatpersonen einholen;
-- b. vom Regierungsrat, vom Kantonsgericht, vom Ombudsman sowie von der Aufsichtsstelle Datenschutz die Herausgabe sämtlicher Akten verlangen;
+- b. vom Regierungsrat, vom Kantonsgericht, von der Ombudsperson und von der Aufsichtsstelle Datenschutz die Herausgabe sämtlicher Akten verlangen;
 - c. Zeugen und Zeuginnen einvernehmen;
 - d. Sachverständige beiziehen;
 - e. Augenscheine durchführen.
@@ -863,7 +863,7 @@ beschliesst[^ingress-2]:
 
 #### § 65
 
-**Die Stellung der unmittelbar betroffenen Personen, des Regierungsrats, des Kantonsgerichts, des Ombudsman sowie der oder des Datenschutzbeauftragten**
+**Die Stellung der unmittelbar betroffenen Personen, des Regierungsrats, des Kantonsgerichts, der Ombudsperson und der Aufsichtsstelle Datenschutz**
 
 <sup>1</sup> Die unmittelbar betroffenen Personen haben das Recht, den Befragungen beizuwohnen, Ergänzungsfragen zu stellen sowie in die Akten der PUK Einsicht zu nehmen und weitere Abklärungen zu verlangen.
 
@@ -871,7 +871,7 @@ beschliesst[^ingress-2]:
 
 - a. den Mitgliedern des Regierungsrats zu, sofern es um Vorkommnisse innerhalb der kantonalen Verwaltung geht;
 - b. den Präsidien des Kantonsgerichts zu, sofern es um Vorkommnisse innerhalb jener Bereiche der Justizverwaltung geht, die ihrer Aufsicht zugeordnet sind;
-- c. dem Ombudsman zu, sofern es um Vorkommnisse innerhalb seines Sekretariats geht;
+- c. der Ombudsperson zu, sofern es um Vorkommnisse innerhalb der Ombudsstelle geht;
 - d. der oder dem Datenschutzbeauftragten zu, sofern es um Vorkommnisse innerhalb der Aufsichtsstelle geht.
 
 <sup>3</sup> Die PUK kann die Anwesenheit bei Befragungen und die Akteneinsicht insoweit verweigern, als es zur Durchführung der Untersuchung sowie zur Wahrung überwiegender öffentlicher oder privater Interessen unerlässlich ist.
