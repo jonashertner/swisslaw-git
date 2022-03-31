@@ -4,13 +4,13 @@ number: "150"
 title: Gesetz über die Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des Kantons
 short: Personalgesetz
 language: de
-version: 2018-01-01
-valid_until: 2022-03-31
-version_adopted: 2017-02-09
+version: 2022-04-01
+valid_until: 2022-06-30
+version_adopted: 2022-01-13
 adopted: 1997-09-25
 in_force: 1998-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150"
-pdf: "https://bl.clex.ch/api/de/versions/3065/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3297/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3065/pdf_file"
 
 (Personalgesetz)
 
-Vom 25.09.1997 (Stand 01.01.2018)
+Vom 25.09.1997 (Stand 01.04.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -488,9 +488,9 @@ beschliesst:[^ingress-2]
 
 **Meldung von Missständen**
 
-<sup>1</sup> Mitarbeitende sind berechtigt, dem kantonalen Ombudsman Missstände zu melden.
+<sup>1</sup> Mitarbeitende sind berechtigt, der kantonalen Ombudsperson Missstände zu melden.
 
-<sup>2</sup> Eine Meldung an die Öffentlichkeit ist nur zulässig, wenn der Ombudsman nach Eingang einer Meldung nicht tätig wird und sie in gutem Glauben sowie im öffentlichen Interesse erfolgt.
+<sup>2</sup> Eine Meldung an die Öffentlichkeit ist nur zulässig, wenn die Ombudsperson nach Eingang einer Meldung nicht tätig wird und sie in gutem Glauben sowie im öffentlichen Interesse erfolgt.
 
 <sup>3</sup> Zulässige Meldungen verstossen nicht gegen die Verschwiegenheitspflicht gemäss § 38 und stellen keine Amtsgeheimnisverletzung im Sinne von Art. 320 Strafgesetzbuch dar.
 
@@ -829,7 +829,7 @@ beschliesst:[^ingress-2]
 
 - a. beim Regierungsrat gegen Verfügungen der verwaltungsinternen Anstellungsbehörde, unter Vorbehalt von Abs. 2;
 - a.<sup>bis</sup> beim Schulrat gegen Verfügungen der Schulleitung als Anstellungsbehörde;
-- b. beim Kantonsgericht gegen Verfügungen der gerichtlichen Anstellungsbehörde, der Aufsichtsstelle Datenschutz, der Finanzkontrolle sowie des Ombudsman.
+- b. beim Kantonsgericht gegen Verfügungen der gerichtlichen Anstellungsbehörde, der Aufsichtsstelle Datenschutz, der Finanzkontrolle und der Ombudsperson.
 
 <sup>2</sup> Die Anfechtbarkeit von Verfügungen des Regierungsrates als Anstellungsbehörde richtet sich nach der Verwaltungsprozessordnung (VPO)[^71-1].
 
